@@ -21,6 +21,44 @@ sites:
     feed: https://feeds.bbci.co.uk/news/rss.xml
     feed_limit: 50
 
+  - name: Harrogate Advertiser
+    slug: harrogate-advertiser
+    listing_url: https://www.harrogateadvertiser.co.uk/news/latest
+    listing_link_pattern: "/news/"
+    listing_limit: 100
+
+  - name: Harrogate News
+    slug: harrogate-news
+    listing_url: https://www.harrogate-news.co.uk/
+    listing_link_pattern: /\d{4}/\d{2}/\d{2}/
+    listing_limit: 50
+
+  - name: Your Harrogate
+    slug: your-harrogate
+    feed: https://www.yourharrogate.co.uk/local-news/harrogate/feed.xml
+    feed_limit: 50
+
+  - name: York Mix
+    slug: york-mix
+    listing_url: https://www.yorkmix.com/archive/news
+    listing_class: "category-news"
+    resolve_relative_to_root: true
+    listing_limit: 100
+
+  - name: York Press
+    slug: york-press
+    listing_url: https://www.yorkpress.co.uk/news/
+    force_playwright: true
+    listing_class: "omnicard"
+    resolve_relative_to_root: true
+    listing_limit: 50
+
+  - name: Tom's Hardware
+    slug: toms-hardware
+    listing_url: https://www.tomshardware.com/uk/news
+    listing_class: "listingResult"
+    listing_limit: 100
+
   # Example: specific URLs instead of a feed
   # - name: Example Site
   #   slug: example
