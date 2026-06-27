@@ -38,6 +38,19 @@ sites:
     feed: https://www.yourharrogate.co.uk/local-news/harrogate/feed.xml
     feed_limit: 50
 
+  - name: Harrogate Town Council
+    slug: harrogate-town-council
+    listing_url: https://harrogatetowncouncil.gov.uk/news-and-notices/
+    listing_class: "elementor-heading-title"
+    listing_link_pattern: "/\\d{4}/\\d{2}/"
+    resolve_relative_to_root: false
+    listing_limit: 100
+
+  - name: BBC News - Harrogate
+    slug: bbc-harrogate
+    feed: https://feeds.bbci.co.uk/news/topics/cnx753jene1t/rss.xml
+    feed_limit: 50
+
   - name: York Mix
     slug: york-mix
     listing_url: https://www.yorkmix.com/archive/news
