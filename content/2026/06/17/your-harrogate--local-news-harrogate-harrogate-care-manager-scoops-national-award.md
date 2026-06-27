@@ -3,10 +3,11 @@ title: Harrogate care manager scoops national award
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-care-manager-scoops-national-award/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:43Z'
+scraped_at: '2026-06-27T21:31:24Z'
 published: '2026-06-17T00:00:00Z'
 description: A Harrogate care manager who began her career as a Bluebird Carer more
   than 14 years ago has won a prestigious national award.
+thumbnail: https://mmo.aiircdn.com/409/6a32ca1f918c3022400.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a32ca1f918c3022400.jpg) 

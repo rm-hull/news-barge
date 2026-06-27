@@ -3,10 +3,11 @@ title: Traffic and Travel
 source_url: https://www.harrogateadvertiser.co.uk/news/traffic-and-travel
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:07Z'
+scraped_at: '2026-06-27T21:29:20Z'
 published: '2026-03-08T00:00:00Z'
 description: Get all of the latest Traffic and Travel news from Harrogate Advertiser.
   Providing a fresh perspective for online news.
+thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
 ![Motorists are being warned to expect overnight closures on sections of the B6265, including River Nidd, High Street, Ripon Road and Ripley Bank, in Pateley Bridge as essential resurfacing works are carried out](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjYzMjJmY2Q4LWVkZmQtNDE5YS1hNzJmLWE4M2NiOTU2OTZmZjo5NGU5OTkxOS0xYjIwLTQ0MTUtODQ1MS04ODJkZTgwMWVjN2I=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

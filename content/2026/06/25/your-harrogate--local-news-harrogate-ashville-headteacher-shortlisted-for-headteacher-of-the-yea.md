@@ -3,9 +3,10 @@ title: Ashville Headteacher shortlisted for Headteacher of the Year
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/ashville-headteacher-shortlisted-for-headteacher-of-the-year/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:05Z'
+scraped_at: '2026-06-27T21:30:45Z'
 published: '2026-06-25T00:00:00Z'
 description: Rhiannon Wilkinson, shortlisted for Headteacher of the Year.
+thumbnail: https://mmo.aiircdn.com/409/6a3cf7bf716ae593472.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3cf7bf716ae593472.jpg) 

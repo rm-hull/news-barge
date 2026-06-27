@@ -3,10 +3,11 @@ title: York College basketball team crowned league champions | Harrogate Informe
 source_url: https://www.harrogate-news.co.uk/2026/05/04/york-college-basketball-team-crowned-league-champions/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:48:03Z'
+scraped_at: '2026-06-27T21:38:55Z'
 published: '2026-05-04T00:00:00Z'
 description: York College have been crowned the AoC (Association of Colleges) Yorkshire
   & Humber Basketball Men’s League Two champions.
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Basketball-1.webp
 ---
 
 York College have been crowned the AoC (Association of Colleges) Yorkshire & Humber Basketball Men’s League Two champions.

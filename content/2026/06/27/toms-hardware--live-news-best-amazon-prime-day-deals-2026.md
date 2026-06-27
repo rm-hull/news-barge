@@ -4,9 +4,10 @@ title: Best Amazon Prime Day tech deals you can still get LIVE, last chance for 
 source_url: https://www.tomshardware.com/live/news/best-amazon-prime-day-deals-2026
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:29Z'
+scraped_at: '2026-06-27T21:32:52Z'
 published: '2026-06-27T00:00:00Z'
 description: One final day of sales
+thumbnail: https://cdn.mos.cms.futurecdn.net/BP7ioxRiGpxEZY6CEZtvL-1920-80.jpg
 ---
 
 ## Live

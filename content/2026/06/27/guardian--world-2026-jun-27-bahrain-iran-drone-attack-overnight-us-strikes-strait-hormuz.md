@@ -3,10 +3,11 @@ title: Bahrain condemns Iranian tit-for-tat drone attack as ‘flagrant threat�
 source_url: https://www.theguardian.com/world/2026/jun/27/bahrain-iran-drone-attack-overnight-us-strikes-strait-hormuz
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:01Z'
+scraped_at: '2026-06-27T21:28:24Z'
 published: '2026-06-27T00:00:00Z'
 description: No immediate reports of damage after Bahrain hit by ‘number of drones’
   as ship in strait of Hormuz also targeted
+thumbnail: https://i.guim.co.uk/img/media/b31f06b4f764c135449c43161b8c9e0c1cbfcea4/465_0_2802_2242/master/2802.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06609feea2786c40dd9ec404091f5d62
 ---
 
 Bahrain has said it was attacked by Iran with drones on Saturday, apparently in response to overnight US strikes on Iran. A ship in the strait of Hormuz was also attacked.

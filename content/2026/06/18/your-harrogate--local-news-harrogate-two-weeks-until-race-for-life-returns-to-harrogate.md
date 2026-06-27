@@ -3,10 +3,11 @@ title: Two weeks until Race for Life returns to Harrogate
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/two-weeks-until-race-for-life-returns-to-harrogate/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:35Z'
+scraped_at: '2026-06-27T21:31:17Z'
 published: '2026-06-18T00:00:00Z'
 description: People are being invited to go ‘all in’ against cancer and sign up for
   Race for Life in Harrogate with just two weeks to go until the big day.
+thumbnail: https://mmo.aiircdn.com/409/66a0a1efa1511.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/66a0a1efa1511.jpg) 

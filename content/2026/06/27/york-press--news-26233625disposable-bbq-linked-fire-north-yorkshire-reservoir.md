@@ -4,10 +4,11 @@ title: Disposable BBQ in fire drama - 2 days after firefighters warning about th
 source_url: https://www.yorkpress.co.uk/news/26233625.disposable-bbq-linked-fire-north-yorkshire-reservoir/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:06Z'
+scraped_at: '2026-06-27T21:37:45Z'
 published: '2026-06-27T00:00:00Z'
 description: Two days after firefighters warned about the use of disposable BBQ they
   had to deal with a fire linked to one at a North Yorkshire beauty spot.
+thumbnail: https://www.yorkpress.co.uk/resources/images/19850205.jpg?type=og-image
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

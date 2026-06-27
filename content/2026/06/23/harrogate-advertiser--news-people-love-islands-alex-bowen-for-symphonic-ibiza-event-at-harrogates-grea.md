@@ -4,10 +4,11 @@ title: Love Island’s Alex Bowen for Symphonic Ibiza event at Harrogate's Great
 source_url: https://www.harrogateadvertiser.co.uk/news/people/love-islands-alex-bowen-for-symphonic-ibiza-event-at-harrogates-great-yorkshire-showground-8756544
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:14Z'
+scraped_at: '2026-06-27T21:29:27Z'
 published: '2026-06-23T00:00:00Z'
 description: Love Island’s Alex Bowen is to join the line-up for this summer's spectacular
   Symphonic Ibiza event at the Great Yorkshire Showground in Harrogate.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRiNzY4MDhkLTFlMGMtNGU4OS05MjcwLWViM2YzNTdiM2Y3ZTowM2E1N2Y1OS0xMzAzLTRlMzgtOTNlMC0yODY1OGVjNjViYmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Love Island’s Alex Bowen for Symphonic Ibiza event at Harrogate's Great Yorkshire Showground

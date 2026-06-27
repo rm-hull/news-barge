@@ -3,10 +3,11 @@ title: Two drivers banned and man sentenced for racial offence at Scarborough co
 source_url: https://www.yorkpress.co.uk/news/26233079.defendants-sentenced-recently-scarborough-magistrates-court/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:08Z'
+scraped_at: '2026-06-27T21:37:47Z'
 published: '2026-06-27T00:00:00Z'
 description: Two drivers were banned and a man who committed a racial offence were
   among defendants sentenced recently at Scarborough Magistrates Court.
+thumbnail: https://www.yorkpress.co.uk/resources/images/20629021.jpg?type=og-image&xType=0&yType=85
 ---
 
 *(Image: Newsquest)*

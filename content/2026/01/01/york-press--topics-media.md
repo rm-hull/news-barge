@@ -3,9 +3,10 @@ title: Media news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/media/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:26Z'
+scraped_at: '2026-06-27T21:38:05Z'
 published: '2026-01-01T00:00:00Z'
 description: Media news, features and opinion in and around Press | York Press
+thumbnail: null
 ---
 
 ![Ben Hardy, editor of The Press and Gazette & Herald at the office in York.](https://www.yorkpress.co.uk/resources/images/320x200/1x/21094110.jpg) 

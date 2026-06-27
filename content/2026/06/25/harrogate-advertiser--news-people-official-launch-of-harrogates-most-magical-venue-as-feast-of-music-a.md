@@ -4,10 +4,11 @@ title: Official launch of Harrogate's 'most magical venue' as feast of music and
 source_url: https://www.harrogateadvertiser.co.uk/news/people/official-launch-of-harrogates-most-magical-venue-as-feast-of-music-and-entertainment-begins-8761875
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:11Z'
+scraped_at: '2026-06-27T21:29:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The magical Spiegeltent Festival has been launched today in Harrogate
   as a sizzling summer programme of rock, disco, burlesque and more gets under way.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzZWZmNTA0LTc3NWMtNGUyYi04NGVmLTQzNDk1YTJjYWViYToxMTQ4OGU5MC03NDZkLTRlNWYtOGZkYy00MzRmN2NmNGM2YTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Official launch of Harrogate's 'most magical venue' as feast of music and entertainment begins

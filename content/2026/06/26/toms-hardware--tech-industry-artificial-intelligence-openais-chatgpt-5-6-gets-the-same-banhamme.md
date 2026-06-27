@@ -5,10 +5,11 @@ title: OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s M
 source_url: https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:33Z'
+scraped_at: '2026-06-27T21:32:55Z'
 published: '2026-06-26T00:00:00Z'
 description: The U.S. government wants to ensure that its latest, most advanced AI
   tools can't be used against it.
+thumbnail: https://cdn.mos.cms.futurecdn.net/Ca5PyjuvZ3LWsXhiopVth9-2560-80.jpg
 ---
 
 ![ChatGPT](https://cdn.mos.cms.futurecdn.net/Ca5PyjuvZ3LWsXhiopVth9.jpg) 

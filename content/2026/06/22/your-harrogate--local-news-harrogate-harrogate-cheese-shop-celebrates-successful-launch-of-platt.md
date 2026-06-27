@@ -3,10 +3,11 @@ title: Harrogate cheese shop celebrates successful launch of charcuterie platter
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-cheese-shop-celebrates-successful-launch-of-platters/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:23Z'
+scraped_at: '2026-06-27T21:31:03Z'
 published: '2026-06-22T00:00:00Z'
 description: The Cheeseboard in Harrogate launched their new charcuterie platters
   last weekend.
+thumbnail: https://mmo.aiircdn.com/409/6a391110d4049fd912f.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a391110d4049fd912f.jpg) 

@@ -3,9 +3,10 @@ title: Windows
 source_url: https://www.tomshardware.com/uk/software/operating-systems/windows
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:32Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-27T00:00:00Z'
 description: Discover more about Windows with insights from the experts at Tom's Hardware.
+thumbnail: null
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Yf2Jtopwhsuxdgyz2EjZ9k-320-80.jpg)

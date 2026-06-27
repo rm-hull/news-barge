@@ -3,10 +3,11 @@ title: GB News pundit charged with fraud during time as Labour adviser
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/gb-news-pundit-matthew-torbitt-charged-fraud-labour-adviser
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:01Z'
+scraped_at: '2026-06-27T21:28:25Z'
 published: '2026-06-27T00:00:00Z'
 description: 'Exclusive: Matthew Torbitt faces two counts of fraud by false representation
   in relation to travel and expense claims'
+thumbnail: https://i.guim.co.uk/img/media/be82781b655496d431261381fbc8242d8ccaffb5/1345_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20ce37bd00ce9452ee3d25aaef6cbbdc
 ---
 
 A prominent political commentator has been charged with fraud in relation to his time as a Labour adviser, the Guardian can reveal.

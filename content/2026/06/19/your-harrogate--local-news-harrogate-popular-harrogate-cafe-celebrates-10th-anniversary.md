@@ -3,10 +3,11 @@ title: Popular Harrogate café celebrates 10th anniversary
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/popular-harrogate-cafe-celebrates-10th-anniversary/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:29Z'
+scraped_at: '2026-06-27T21:31:11Z'
 published: '2026-06-19T00:00:00Z'
 description: A popular Harrogate café has celebrated a major milestone after marking
   its 10th anniversary.
+thumbnail: https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg) 

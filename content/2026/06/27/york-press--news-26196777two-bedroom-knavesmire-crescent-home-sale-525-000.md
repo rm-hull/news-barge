@@ -3,10 +3,11 @@ title: Look inside ‘elegant’ home for sale in ‘truly exceptional’ York l
 source_url: https://www.yorkpress.co.uk/news/26196777.two-bedroom-knavesmire-crescent-home-sale-525-000/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:54:57Z'
+scraped_at: '2026-06-27T21:37:37Z'
 published: '2026-06-27T00:00:00Z'
 description: An “elegant” period home has hit the market in Knavesmire Crescent, York
   - for £525,000.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21052227.jpg?type=og-image
 ---
 
 ## Look inside ‘elegant’ home for sale in ‘truly exceptional’ York location

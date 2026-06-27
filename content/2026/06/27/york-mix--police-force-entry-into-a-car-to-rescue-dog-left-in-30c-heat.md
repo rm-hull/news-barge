@@ -3,9 +3,10 @@ title: Police force entry into a car to rescue dog left in 30°C heat
 source_url: https://www.yorkmix.com/police-force-entry-into-a-car-to-rescue-dog-left-in-30c-heat
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T20:21:27Z'
+scraped_at: '2026-06-27T21:32:14Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/731219869_2550453108705819_6642949408515309004_n.jpg
 ---
 
 Yesterday in Skipton (Friday 26 June), PC Sampson and PC Dale responded to a report from a concerned member of the public after a dog had been left in a car for over 30 minutes.

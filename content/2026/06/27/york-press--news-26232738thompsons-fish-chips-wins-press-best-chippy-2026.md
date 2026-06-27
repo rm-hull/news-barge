@@ -3,10 +3,11 @@ title: REVEALED - The Press Best Chippy 2026 winner is...
 source_url: https://www.yorkpress.co.uk/news/26232738.thompsons-fish-chips-wins-press-best-chippy-2026/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:17Z'
+scraped_at: '2026-06-27T21:37:55Z'
 published: '2026-06-27T00:00:00Z'
 description: It's official – the votes are in, and we can now reveal the best chippy
   in York.
+thumbnail: https://www.yorkpress.co.uk/resources/images/18171967.jpg?type=og-image
 ---
 
 ## REVEALED - The Press Best Chippy 2026 winner is...

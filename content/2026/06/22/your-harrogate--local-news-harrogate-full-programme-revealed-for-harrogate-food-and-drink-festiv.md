@@ -3,11 +3,12 @@ title: Full programme revealed for Harrogate Food and Drink Festival
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/full-programme-revealed-for-harrogate-food-and-drink-festival/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:22Z'
+scraped_at: '2026-06-27T21:31:02Z'
 published: '2026-06-22T00:00:00Z'
 description: The full programme has been unveiled for this year's Harrogate Food and
   Drink Festival, with organisers promising the event's biggest and most diverse line-up
   to date.
+thumbnail: https://mmo.aiircdn.com/409/6a39659952e101ad8e5.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a39659952e101ad8e5.jpg) 

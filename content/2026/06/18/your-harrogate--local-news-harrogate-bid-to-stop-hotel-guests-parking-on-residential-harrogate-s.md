@@ -3,11 +3,12 @@ title: Bid to stop hotel guests parking on residential Harrogate streets set to 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bid-to-stop-hotel-guests-parking-on-residential-harrogate-streets-set-to-fail/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:40Z'
+scraped_at: '2026-06-27T21:31:20Z'
 published: '2026-06-18T00:00:00Z'
 description: A bid by residents in Harrogate to introduce residents-only parking on
   their streets amid concerns that spaces are being taken by hotel guests is set to
   be rejected.
+thumbnail: https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg) 

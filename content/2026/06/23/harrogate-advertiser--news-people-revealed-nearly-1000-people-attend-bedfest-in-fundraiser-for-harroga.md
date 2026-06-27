@@ -4,10 +4,11 @@ title: 'Revealed: Nearly 1,000 people attend BedFest in fundraiser for Harrogate
 source_url: https://www.harrogateadvertiser.co.uk/news/people/revealed-nearly-1000-people-attend-bedfest-in-fundraiser-for-harrogate-and-knaresborough-charity-8757159
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:14Z'
+scraped_at: '2026-06-27T21:29:26Z'
 published: '2026-06-23T00:00:00Z'
 description: A Harrogate and Knaresborough charity is celebrating raising a record-breaking
   £30,000 in a single day to support people living with sight loss and disability.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM0MTM1NzYxLTVjNjEtNDBlZS04ZjI2LWI2MDEyNzQxODNkZjo2OWUzYjM5NC00ZTBjLTQzMGYtODg4OS1jMjQ4MDA3MmI3NGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Revealed: Nearly 1,000 people attend BedFest in fundraiser for Harrogate and Knaresborough charity

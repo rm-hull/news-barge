@@ -3,10 +3,11 @@ title: Family Festival returns to Harrogate's Spiegeltent for summer of fun
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/family-festival-returns-to-harrogates-spiegeltent-for-summer-of-fun/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:34Z'
+scraped_at: '2026-06-27T21:31:15Z'
 published: '2026-06-18T00:00:00Z'
 description: From beatboxing and Indian dancing to circus skills and spectacular science,
   a popular family festival is returning to Harrogate later this month.
+thumbnail: https://mmo.aiircdn.com/409/6a340720c555b9d2eaa.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a340720c555b9d2eaa.jpg) 

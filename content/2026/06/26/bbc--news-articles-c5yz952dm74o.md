@@ -3,10 +3,11 @@ title: Mahmood announces new refugee sponsorship route into UK
 source_url: https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:31Z'
+scraped_at: '2026-06-27T21:23:47Z'
 published: '2026-06-26T00:00:00Z'
 description: The home secretary says "capped safe and legal" routes would help to
   restore confidence in the asylum system.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg
 ---
 
 ![Female campaigners hols up a 'refugees welcome' sign in front of St Paul's Cathedral in London.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg)

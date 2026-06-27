@@ -4,10 +4,11 @@ title: Fashion students design cancer treatment-friendly clothing in memory of 2
 source_url: https://www.harrogate-news.co.uk/2026/05/07/fashion-students-design-cancer-treatment-friendly-clothing-in-memory-of-24-year-old-model-emily/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:47:54Z'
+scraped_at: '2026-06-27T21:38:44Z'
 published: '2026-05-07T00:00:00Z'
 description: The mother of a young model who sadly died from brain cancer at the age
   of 24 has been left “gobsmacked” by the quality of treatment-friendly clothing
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Sarah-Summers-with-her-design.webp
 ---
 
 The mother of a young model who sadly died from brain cancer at the age of 24 has been left “gobsmacked” by the quality of treatment-friendly clothing designed by degree-level students from York College.

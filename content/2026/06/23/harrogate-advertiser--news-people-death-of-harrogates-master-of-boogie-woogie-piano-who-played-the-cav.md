@@ -4,11 +4,12 @@ title: Death of Harrogate's 'master of boogie woogie' piano who played The Caver
 source_url: https://www.harrogateadvertiser.co.uk/news/people/death-of-harrogates-master-of-boogie-woogie-piano-who-played-the-cavern-before-the-beatles-8755813
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:14Z'
+scraped_at: '2026-06-27T21:29:27Z'
 published: '2026-06-23T00:00:00Z'
 description: The death has been announced of a local Harrogate music legend of more
   than 60 years standing who played at The Cavern Club in Liverpool before The Beatles
   and was well known as resident pianist at Bettys tearooms.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmZlNGQzNzEwLTkxNTItNDc2Yy1hM2MyLWY5M2RlZTgzOTIwMDoyYzdmOTlhOS01NWY2LTQ1MWMtYWNkYi01MWZhZWZhMjE2OTQ=.jpg?crop=3:2,smart&trim=&width=1068&auto=webp&quality=75
 ---
 
 # Death of Harrogate's 'master of boogie woogie' piano who played The Cavern before The Beatles

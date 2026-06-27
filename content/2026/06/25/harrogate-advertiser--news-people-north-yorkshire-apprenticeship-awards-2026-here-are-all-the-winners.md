@@ -4,10 +4,11 @@ title: 'North Yorkshire Apprenticeship Awards 2026: Here are all the winners at 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/north-yorkshire-apprenticeship-awards-2026-here-are-all-the-winners-at-this-years-prestigious-event-8760104
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:12Z'
+scraped_at: '2026-06-27T21:29:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The winners have been crowned at the North Yorkshire Apprenticeship Awards
   2026.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJjYmM0OWNiLWI1NjktNDlmNi05MjA2LTIwMmVjODVmODM1Zjo3MWMzNmQ1NS1jZTE2LTQ3YjYtOGJlZi1lZDRhMjYzZTY2MWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 The annual event, held at the DoubleTree Majestic Hotel, Harrogate, on June 11, saw prizes presented in 14 award categories, showcasing the outstanding contributions of apprentices, employers and training providers across North Yorkshire, and recognising the vital role they play in developing future talent and supporting the region’s economy.

@@ -3,10 +3,11 @@ title: 'World Cup 2026: Who are the Panama players England need to look out for?
 source_url: https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:45Z'
 published: '2026-06-27T00:00:00Z'
 description: BBC Sport analyses the key players for Panama who will be aiming to cause
   a World Cup upset against England in their final Group L fixture.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/40c1/live/f0420f10-722a-11f1-b6b6-39a51194ddf9.jpg
 ---
 
 ![AMA banner](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f283/live/5f032ad0-97a0-11f0-af62-91486a511a31.png)

@@ -3,11 +3,12 @@ title: Harrogate residents urged to put bins out earlier as hot weather continue
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-residents-urged-to-put-bins-out-earlier-as-hot-weather-continues/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:09Z'
+scraped_at: '2026-06-27T21:30:50Z'
 published: '2026-06-24T00:00:00Z'
 description: Residents across the Harrogate district are being urged to put their
   bins out earlier than usual over the next two days as crews continue working in
   the hot weather.
+thumbnail: https://mmo.aiircdn.com/409/6a3c3c2b400f29a3424.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3c3c2b400f29a3424.jpg) 

@@ -4,10 +4,11 @@ title: 'KWN: From delivering Amazon parcels to becoming one of the UK''s hottest
 source_url: https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:46Z'
 published: '2026-06-26T00:00:00Z'
 description: R&B singer KWN broke out with the single Worst Behaviour, which she sold
   on a custom-built website.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg
 ---
 
 ![KWN](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg)

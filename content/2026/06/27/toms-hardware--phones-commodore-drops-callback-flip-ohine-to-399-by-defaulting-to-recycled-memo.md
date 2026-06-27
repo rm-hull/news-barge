@@ -5,10 +5,11 @@ title: Commodore drops Callback flip phone by $100 by defaulting to recycled mem
 source_url: https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:32Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-27T00:00:00Z'
 description: New $399 base price ships with “post consumer” memory; factory-fresh
   chips offered as a paid upgrade.
+thumbnail: https://cdn.mos.cms.futurecdn.net/m8DVMuXiyoC3U9zNPiYWmn-1920-80.jpg
 ---
 
 ![The Commodore Callback 8020](https://cdn.mos.cms.futurecdn.net/m8DVMuXiyoC3U9zNPiYWmn.jpg) 

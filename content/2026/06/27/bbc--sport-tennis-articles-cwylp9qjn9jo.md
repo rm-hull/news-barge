@@ -3,10 +3,11 @@ title: 'Wimbledon 2026: Emma Raducanu cuts short her practice at the All England
 source_url: https://www.bbc.co.uk/sport/tennis/articles/cwylp9qjn9jo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:33Z'
+scraped_at: '2026-06-27T21:23:47Z'
 published: '2026-06-27T00:00:00Z'
 description: Emma Raducanu's chances of being fit for Wimbledon look to be in considerable
   doubt after the Briton cut short her practice on Saturday.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e097/live/ff828810-722f-11f1-930d-75324f3b4c6e.jpg
 ---
 
 ![Emma Raducanu chews her lip during practice at Wimbledon](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e097/live/ff828810-722f-11f1-930d-75324f3b4c6e.jpg)

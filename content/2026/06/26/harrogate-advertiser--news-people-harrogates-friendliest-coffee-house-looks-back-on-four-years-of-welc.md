@@ -4,11 +4,12 @@ title: Harrogate's 'friendliest coffee house' looks back on four years of welcom
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogates-friendliest-coffee-house-looks-back-on-four-years-of-welcoming-customers-8764698
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:10Z'
+scraped_at: '2026-06-27T21:29:22Z'
 published: '2026-06-26T00:00:00Z'
 description: The owner of a popular Harrogate independent coffee house has talked
   about how proud she is to have created a “cafe of the community” as she looks forward
   to celebrating the independent business’s fourth anniversary.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU2Y2Q2MDI3LTRiMmEtNGNmOC04MTVkLWFmOTEwZmZkMjVkYTpiMTM0MTdlZS1iNTE0LTQ1MTMtYWMwZC05ZTA2YjgzYWM0MDg=.jpg?crop=3:2,smart&trim=&width=969&auto=webp&quality=75
 ---
 
 # Harrogate's 'friendliest coffee house' looks back on four years of welcoming customers

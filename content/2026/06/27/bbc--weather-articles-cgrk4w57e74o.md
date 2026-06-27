@@ -3,10 +3,11 @@ title: Will we see more heatwaves this summer?
 source_url: https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:45Z'
 published: '2026-06-27T00:00:00Z'
 description: Forecasters have suggested that summer is likely to be warmer than average
   with an increased chance of more heatwaves, as Simon King explains.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Two young women holding fans](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg)

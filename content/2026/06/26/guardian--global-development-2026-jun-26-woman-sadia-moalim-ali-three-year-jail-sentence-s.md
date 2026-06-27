@@ -4,10 +4,11 @@ title: Outrage as woman jailed for three years after criticising Somali governme
 source_url: https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:41:58Z'
+scraped_at: '2026-06-27T21:28:22Z'
 published: '2026-06-26T00:00:00Z'
 description: Sentencing of 27-year-old Sadia Moalim Ali condemned by former president
   and prime ministers as well as rights groups
+thumbnail: https://i.guim.co.uk/img/media/7561cd7fe9b02aac8b9475ba07ba8aac6b01307f/0_334_1600_1279/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c543c3213491996abcb3fd04f80ba0b7
 ---
 
 A rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country.

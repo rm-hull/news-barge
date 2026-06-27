@@ -4,10 +4,11 @@ title: 'Europe heatwave: drought fears in Italy as records tumble around Europe 
 source_url: https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:00Z'
+scraped_at: '2026-06-27T21:28:24Z'
 published: '2026-06-27T00:00:00Z'
 description: Temperature records broken in Germany, Denmark and Slovakia as Europe
   remains gripped by heatwave
+thumbnail: https://i.guim.co.uk/img/media/a8b94eb91f68a60185f4e0b5796464789c345468/659_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=83c837b7c3c7b6c8a62b4661da5409a8
 ---
 
 Germany has recorded a new temperature record today, just a day after recording its hottest day ever. The German Weather Service recorded 41.5C in Drewitz, in Saxony-Anhalt state, this afternoon, according to AFP. That beats the record of 41.3C that was set just a day before in Saarbrücken. Police in Berlin have resorted to deploying water cannons to help people cool down in the German capital amid the heatwave. Berlin police are patrolling the city with two water cannons, which are normally used for riot control and dispersing crowds, to provide some relief from the heat, the German newspaper Der Tagesspiegel reported. Berlin broke its temperature record, with 39.2C recorded at a weather station in Tempelhof on Saturday afternoon.

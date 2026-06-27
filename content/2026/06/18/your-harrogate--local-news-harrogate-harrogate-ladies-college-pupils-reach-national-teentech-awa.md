@@ -3,10 +3,11 @@ title: Harrogate Ladies' College pupils reach national TeenTech award finals
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-ladies-college-pupils-reach-national-teentech-award-finals/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:36Z'
+scraped_at: '2026-06-27T21:31:18Z'
 published: '2026-06-18T00:00:00Z'
 description: Three teams of young innovators from Harrogate Ladies' College are heading
   to London after reaching the finals of a prestigious national awards competition.
+thumbnail: https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg) 

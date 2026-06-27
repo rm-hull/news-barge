@@ -3,10 +3,11 @@ title: Ripon Runners trio celebrate their first London Marathon | Harrogate Info
 source_url: https://www.harrogate-news.co.uk/2026/05/06/ripon-runners-trio-celebrate-their-first-london-marathon/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:47:56Z'
+scraped_at: '2026-06-27T21:38:47Z'
 published: '2026-05-06T00:00:00Z'
 description: Ripon Runners members Sara Barker, David Brown and James Pollington-Clyne
   are all celebrating the successful completion of their first London Marathon, which
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Image-2-Sara-Barker.webp
 ---
 
 Ripon Runners members Sara Barker, David Brown and James Pollington-Clyne are all celebrating the successful completion of their first London Marathon, which took place on Sunday 26th April. As well as the huge achievement of completing such an iconic event, their sterling efforts also helped raise money for worthy causes – including the MND Association for Motor Neurone Disease and the Blue Cross animal welfare charity.

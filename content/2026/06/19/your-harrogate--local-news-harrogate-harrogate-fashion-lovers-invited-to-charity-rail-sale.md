@@ -3,10 +3,11 @@ title: Harrogate fashion lovers invited to charity rail sale
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-fashion-lovers-invited-to-charity-rail-sale/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:26Z'
+scraped_at: '2026-06-27T21:31:07Z'
 published: '2026-06-19T00:00:00Z'
 description: Harrogate residents are being invited to enjoy an evening of pre-loved
   fashion at a special fundraising event supporting Artizan International.
+thumbnail: https://mmo.aiircdn.com/409/6a3560a13cc07c0796f.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3560a13cc07c0796f.jpg) 

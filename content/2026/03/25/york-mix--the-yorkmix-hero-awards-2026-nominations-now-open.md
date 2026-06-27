@@ -3,10 +3,11 @@ title: The YorkMix Hero Awards 2026 - nominations now open
 source_url: https://www.yorkmix.com/the-yorkmix-hero-awards-2026-nominations-now-open
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:11Z'
+scraped_at: '2026-06-27T21:32:17Z'
 published: '2026-03-25T00:00:00Z'
 description: The YorkMix Hero Awards are back for 2026 . Once again we’ve teamed up
   with Yorkshire Profiles to give you the chance to thank someone who makes
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/03/hero-nice-1.png
 ---
 
 The YorkMix Hero Awards are back for 2026 . Once again we’ve teamed up with Yorkshire Profiles to give you the chance to thank someone who makes life better where you live.
@@ -17,7 +18,13 @@ We’re now asking you to nominate someone you know in one of our Hero Award cat
 
 Scroll down to complete our nomination form.
 
+![](https://wp.theyorkmix.com/wp-content/uploads/2021/06/ymr-hero-mainsponsor-yorkshire-profiles.jpeg)
+
 **This Year’s Categories**
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/03/wizu-logo.png)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/03/download-2.jpeg)
 
 **The Imagination Award**
 
@@ -25,9 +32,29 @@ with **The Puzzling World of Professor Kettlestring**
 
 For a someone who uses their creativity, from drawing and painting to content creation or perhaps someone had an idea to turn around a business or re-invent a charity event.
 
+![](https://wp.theyorkmix.com/wp-content/uploads/2025/10/yorkmix-logo-standard-1.png)
+
 **Volunteer of the Year**
 
 For someone who’s volunteering work has made a huge difference to people or their community.
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2024/04/ate-1000x563.jpg)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/03/images.jpeg)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/03/genieclean_logo_-_Edited_d5ec82e2-8182-4a3e-aae0-207aacaf5826-1-1000x516.webp)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2025/04/total-foodservice-logo.png)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2025/04/yorks-chocolate-story-logo.jpg)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/03/Logonew-690x151-1920w.webp)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2022/09/hayley-owen-logo2.png)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2024/04/logo-new.png)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2021/06/ymr-hero-mainsponsor-yorkshire-profiles.jpeg)
 
 **The Ultimate Hero Award**
 

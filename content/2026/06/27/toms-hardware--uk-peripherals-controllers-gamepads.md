@@ -3,10 +3,11 @@ title: Controllers and Gamepads
 source_url: https://www.tomshardware.com/uk/peripherals/controllers-gamepads
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:32Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-27T00:00:00Z'
 description: Controller and Gamepad reviews, news and features, created for the hardcore
   PC enthusiast by the experts at Tom's Hardware.
+thumbnail: null
 ---
 
 ![Steam Controller auto-charge](https://cdn.mos.cms.futurecdn.net/36BZ8tAWCQtaJDjEoKPRY9-320-80.png)

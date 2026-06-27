@@ -3,10 +3,11 @@ title: 'Kris Brining: From York rugby professional to new life as a financial pl
 source_url: https://www.yorkpress.co.uk/news/26232578.former-york-knight-kris-brinings-inspirational-career-move/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:33Z'
+scraped_at: '2026-06-27T21:38:12Z'
 published: '2026-06-27T00:00:00Z'
 description: York-based PenLife Associates has celebrated seven years of a former
   rugby professional making an inspirational journey to become a successful…
+thumbnail: https://www.yorkpress.co.uk/resources/images/21107543.jpg?type=og-image
 ---
 
 ## Kris Brining: From York rugby professional to new life as a financial planner

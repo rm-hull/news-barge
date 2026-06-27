@@ -3,10 +3,11 @@ title: Special milestone for Coppice Valley pupils
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/special-milestone-for-coppice-valley-pupils/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:25Z'
+scraped_at: '2026-06-27T21:31:06Z'
 published: '2026-06-22T00:00:00Z'
 description: A first-ever on-site bushcraft residential has been hailed as magical
   at Coppice Valley Primary School in Harrogate.
+thumbnail: https://mmo.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg) 

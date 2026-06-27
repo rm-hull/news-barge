@@ -3,10 +3,11 @@ title: We host strangers for dinner every month - now we have 60 new friends
 source_url: https://www.bbc.co.uk/news/articles/cvg48wnx7eyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:31Z'
+scraped_at: '2026-06-27T21:23:48Z'
 published: '2026-06-21T00:00:00Z'
 description: After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creative
   way to make new friends - a monthly dinner party with strangers.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/910e/live/198acbc0-6afe-11f1-80a3-b70219ebe550.jpg
 ---
 
 ![A man and a woman with their arms round each other, smiling at the camera. The woman is making a peace sign with her hand.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/910e/live/198acbc0-6afe-11f1-80a3-b70219ebe550.jpg)

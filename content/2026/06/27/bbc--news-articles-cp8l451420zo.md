@@ -4,10 +4,11 @@ title: '''Every person saved is a miracle'': Families call to trapped loved ones
 source_url: https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:29Z'
+scraped_at: '2026-06-27T21:23:44Z'
 published: '2026-06-27T00:00:00Z'
 description: Families keep vigil at buildings where they fear their loved ones are
   trapped, but face an impossible task to move heavy debris.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg
 ---
 
 ![Family members and volunteers search through the rubble after two 17-story buildings in the Belo Horizonte residential complex collapsed in Catia La Mar, La Guaira (Venezuela), on June 26, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg)

@@ -3,10 +3,11 @@ title: White House unveils new images of US ‘patriot passports’ for America�
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:02Z'
+scraped_at: '2026-06-27T21:28:26Z'
 published: '2026-06-27T00:00:00Z'
 description: Democrats called plans for commemorative passport and gold coin with
   Trump portrait ‘more befitting a monarchy’
+thumbnail: https://i.guim.co.uk/img/media/cdbbdea2ba1903e9017cce51b1fe092a1337fc4e/463_0_3228_2582/master/3228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a8bef0edaa777b5f8cef6b47ea891a3
 ---
 
 Donald Trump’s efforts to brand the US government with his name and image advanced on Friday when the White House unveiled new images of a passport watermarked with his portrait to mark America’s 250th anniversary.

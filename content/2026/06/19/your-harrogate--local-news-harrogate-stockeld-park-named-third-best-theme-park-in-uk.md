@@ -3,10 +3,11 @@ title: Stockeld Park named third best theme park in UK
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/stockeld-park-named-third-best-theme-park-in-uk/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:27Z'
+scraped_at: '2026-06-27T21:31:08Z'
 published: '2026-06-19T00:00:00Z'
 description: Stockeld Park has been named the third best theme park in the UK in Tripadvisor's
   latest Traveller Favourites rankings.
+thumbnail: https://mmo.aiircdn.com/409/669e2aeae4352.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/669e2aeae4352.jpg) 

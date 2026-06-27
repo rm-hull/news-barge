@@ -4,9 +4,10 @@ title: RAM crisis provokes enthusiast to try Windows 11 on DDR1-era hardware —
 source_url: https://www.tomshardware.com/software/windows/ram-crisis-provokes-enthusiast-to-try-windows-11-on-ddr1-era-hardware-other-key-vintage-components-included-the-core-2-q6600-and-ati-radeon-hd-4650-agp
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:32Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-27T00:00:00Z'
 description: '''The best part,'' says our hacky hero. ''It''s completely stable.'''
+thumbnail: https://cdn.mos.cms.futurecdn.net/Yf2Jtopwhsuxdgyz2EjZ9k-1920-80.jpg
 ---
 
 ![A pair of Corsair DDR Memory Modules. Model CMX512-3200C2PT](https://cdn.mos.cms.futurecdn.net/Yf2Jtopwhsuxdgyz2EjZ9k.jpg) 

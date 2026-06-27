@@ -4,10 +4,11 @@ title: Local apprentice’s pride after being shortlisted for prestigious award 
 source_url: https://www.harrogate-news.co.uk/2026/05/06/local-apprentices-pride-after-being-shortlisted-for-prestigious-award/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:47:58Z'
+scraped_at: '2026-06-27T21:38:49Z'
 published: '2026-05-06T00:00:00Z'
 description: A North Yorkshire apprentice has been shortlisted for a prestigious industry
   award.
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/ArranBarber.webp
 ---
 
 A North Yorkshire apprentice has been shortlisted for a prestigious industry award.

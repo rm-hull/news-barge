@@ -3,10 +3,11 @@ title: Meet the new editor of The Press and Gazette & Herald
 source_url: https://www.yorkpress.co.uk/news/26219494.new-editor-press-gazette-herald-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:25Z'
+scraped_at: '2026-06-27T21:38:03Z'
 published: '2026-06-27T00:00:00Z'
 description: Ben Hardy is the new editor in York having moved from the Oxford Mail
   in Newsquest. He was previously a senior reporter in Norwich, Norfolk.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21094110.jpg?type=og-image&xType=0&yType=450
 ---
 
 ## Meet the new editor of The Press and Gazette & Herald

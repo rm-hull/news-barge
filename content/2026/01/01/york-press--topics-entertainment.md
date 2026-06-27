@@ -3,9 +3,10 @@ title: Entertainment news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/entertainment/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:21Z'
+scraped_at: '2026-06-27T21:38:00Z'
 published: '2026-01-01T00:00:00Z'
 description: Entertainment news, features and opinion in and around Press | York Press
+thumbnail: null
 ---
 
 ![Richard Ashcroft heads to the North Yorkshire coast to delight fans](https://www.yorkpress.co.uk/resources/images/320x200/1x/21108125.jpg) 

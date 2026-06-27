@@ -3,9 +3,10 @@ title: Agatha Christie mystery is coming to York theatre next year
 source_url: https://www.yorkmix.com/agatha-christie-mystery-is-coming-to-york-theatre-next-year
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:06Z'
+scraped_at: '2026-06-27T21:32:14Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/8643_10_TH_ATG_1920x1080px.webp
 ---
 
 One of Agatha Christie’s most psychologically charged mysteries is coming to the stage.

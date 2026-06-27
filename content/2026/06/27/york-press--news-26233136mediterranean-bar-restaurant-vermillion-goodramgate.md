@@ -3,10 +3,11 @@ title: PICTURES - New Mediterranean bar and restaurant opens in York city centre
 source_url: https://www.yorkpress.co.uk/news/26233136.mediterranean-bar-restaurant-vermillion-goodramgate/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:35Z'
+scraped_at: '2026-06-27T21:38:14Z'
 published: '2026-06-27T00:00:00Z'
 description: A new restaurant which strives to unite the countries in the Mediterranean
   under one roof has opened its doors in a busy York street.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21108401.jpg?type=og-image
 ---
 
 ## PICTURES - New Mediterranean bar and restaurant opens in York city centre

@@ -4,10 +4,11 @@ title: Man arrested on suspicion of attempted murder after vehicle hits pedestri
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/man-arrested-on-suspicion-of-attempted-after-vehicle-hits-pedestrians-in-london
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:01Z'
+scraped_at: '2026-06-27T21:28:25Z'
 published: '2026-06-27T00:00:00Z'
 description: Suspect held after five people injured, including three who were taken
   to hospital, in Ealing on Saturday afternoon
+thumbnail: https://i.guim.co.uk/img/media/e9b9e0c2afd5866cdd45b2dc54f5b69d99f372f6/424_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17bc71a3437b720879463cada235a388
 ---
 
 A man has been arrested on suspicion of attempted murder after a vehicle hit multiple pedestrians on a busy London road before driving away, police have said.

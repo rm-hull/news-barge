@@ -3,10 +3,11 @@ title: Bettys unveils savoury twist on iconic Fat Rascal
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bettys-unveils-savoury-twist-on-iconic-fat-rascal/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:33Z'
+scraped_at: '2026-06-27T21:31:14Z'
 published: '2026-06-18T00:00:00Z'
 description: Harrogate's famous Bettys has launched a savoury version of its legendary
   Fat Rascal.
+thumbnail: https://mmo.aiircdn.com/409/6a34111aa65fe754dbb.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a34111aa65fe754dbb.jpg) 

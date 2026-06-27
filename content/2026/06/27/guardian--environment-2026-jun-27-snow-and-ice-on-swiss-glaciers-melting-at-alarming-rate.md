@@ -4,10 +4,11 @@ title: Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, ex
 source_url: https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:00Z'
+scraped_at: '2026-06-27T21:28:24Z'
 published: '2026-06-27T00:00:00Z'
 description: Accumulation on Switzerland’s glaciers from last winter expected to all
   be gone by Monday amid ‘enormous’ melt rates across Alps
+thumbnail: https://i.guim.co.uk/img/media/78934b26374818a85234aaa4feb73c04c10f7cfd/934_0_7240_5792/master/7240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94802f1c6ea60087f006d3636f30d1af
 ---
 
 Swiss glaciers are set to lose an enormous amount of ice due to the heatwave battering Europe, according to the head of Glacier Monitoring in Switzerland (Glamos).

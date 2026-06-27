@@ -3,10 +3,11 @@ title: Lauren Doherty Road Safety Talks celebrates 10 years
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/lauren-doherty-road-safety-talks-celebrates-10-years/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:48:56Z'
+scraped_at: '2026-06-27T21:30:38Z'
 published: '2026-06-26T00:00:00Z'
 description: A Knaresborough woman whose powerful road safety talks have reached thousands
   of young people is celebrating a decade of changing lives.
+thumbnail: https://mmo.aiircdn.com/409/6a3eaf5d5dd235846a9.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3eaf5d5dd235846a9.jpg) 

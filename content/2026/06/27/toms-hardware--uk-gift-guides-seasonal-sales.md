@@ -3,10 +3,11 @@ title: Gift Guides and Seasonal Sales
 source_url: https://www.tomshardware.com/uk/gift-guides-seasonal-sales
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:30Z'
+scraped_at: '2026-06-27T21:32:52Z'
 published: '2026-06-27T00:00:00Z'
 description: Discover the best deals from Black Friday, Prime Day and all year round,
   alongside curated gift guides, from the Tom's Hardware team.
+thumbnail: null
 ---
 
 # Gift Guides and Seasonal Sales

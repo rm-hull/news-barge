@@ -4,11 +4,12 @@ title: Details of York City FC National League Civic Celebration Parade | Harrog
 source_url: https://www.harrogate-news.co.uk/2026/05/06/details-of-york-city-fc-national-league-civic-celebration-parade/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:47:57Z'
+scraped_at: '2026-06-27T21:38:48Z'
 published: '2026-05-06T00:00:00Z'
 description: York is gearing up for a momentous celebration on Thursday 7 May, as
   York City Football Club marks its return to the English Football League (EFL) with
   a
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/York-FC-parade-route.webp
 ---
 
 York is gearing up for a momentous celebration on Thursday 7 May, as York City Football Club marks its return to the English Football League (EFL) with a victory parade.

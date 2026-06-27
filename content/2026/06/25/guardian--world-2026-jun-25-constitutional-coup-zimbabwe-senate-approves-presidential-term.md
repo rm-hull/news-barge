@@ -4,10 +4,11 @@ title: ‘Constitutional coup’ claims as Zimbabwe senate approves extending pr
 source_url: https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:41:58Z'
+scraped_at: '2026-06-27T21:28:22Z'
 published: '2026-06-25T00:00:00Z'
 description: Opposition figures fear changes will further tighten 83-year-old president
   Emmerson Mnangagwa’s hold on power
+thumbnail: https://i.guim.co.uk/img/media/ef3345b4ffa9ae8c94cede38ec1dc36add7abde5/1099_0_4401_3523/master/4401.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d532cafaa8b235a7feed164f28cf3cb6
 ---
 
 Zimbabwe is on the brink of amending its constitution to give the president more time in office, a change that the government says will bring stability but that opponents have labelled a “constitutional coup”.

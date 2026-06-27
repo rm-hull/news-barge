@@ -4,10 +4,11 @@ title: Andy Burnham will need a Moscow test as well as Makerfield test, says ex-
 source_url: https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:45Z'
 published: '2026-06-27T00:00:00Z'
 description: Former Chief of the Defence Staff Admiral Sir Tony Radakin says defence
   must be a priority for the next prime minister.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba92/live/4f0367e0-7241-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Andy Burnham](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ba92/live/4f0367e0-7241-11f1-8546-8f19e4fe30f4.jpg)

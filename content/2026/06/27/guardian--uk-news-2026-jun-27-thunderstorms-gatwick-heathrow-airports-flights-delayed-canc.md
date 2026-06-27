@@ -4,10 +4,11 @@ title: Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/thunderstorms-gatwick-heathrow-airports-flights-delayed-cancelled
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:01Z'
+scraped_at: '2026-06-27T21:28:25Z'
 published: '2026-06-27T00:00:00Z'
 description: Passengers report being stuck on grounded planes in sweltering conditions
   as severe weather causes travel disruption across Europe
+thumbnail: https://i.guim.co.uk/img/media/92130c26e2a07e6f65384f4fef228283da462d42/163_0_1653_1324/master/1653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31c1aa3519d0b4f4d4b74bc33a0ea045
 ---
 
 Thunderstorms have caused severe delays to hundreds of flights at Heathrow and Gatwick airports, leaving passengers stuck on grounded planes for hours in the scorching heat.

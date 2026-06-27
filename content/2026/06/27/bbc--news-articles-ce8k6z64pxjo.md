@@ -3,9 +3,10 @@ title: Johnsons zoo crocodile enclosure reopens after child attacked
 source_url: https://www.bbc.co.uk/news/articles/ce8k6z64pxjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:31Z'
+scraped_at: '2026-06-27T21:23:47Z'
 published: '2026-06-27T00:00:00Z'
 description: The Cambridgeshire zoo had closed its Tropical House after the incident.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efde/live/f4e29490-6c1c-11f1-82ca-39eb136d082f.jpg
 ---
 
 ![A view from above of a crocodile on a sandy or muddy ground, sitting next to brown-coloured water in an enclosure. There is green foliage to the left.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/efde/live/f4e29490-6c1c-11f1-82ca-39eb136d082f.jpg)

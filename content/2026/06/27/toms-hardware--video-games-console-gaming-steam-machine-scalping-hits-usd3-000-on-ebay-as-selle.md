@@ -4,9 +4,10 @@ title: Steam Machine scalping hits $3,000 on eBay as sellers list preorder reser
 source_url: https://www.tomshardware.com/video-games/console-gaming/steam-machine-scalping-hits-usd3-000-on-ebay-as-sellers-list-preorder-reservations-scalpers-already-flipping-queues-for-2x-the-msrp-of-the-2tb-model
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:31Z'
+scraped_at: '2026-06-27T21:32:53Z'
 published: '2026-06-27T00:00:00Z'
 description: Scalpers hijack Valve’s Steam Machine queue.
+thumbnail: https://cdn.mos.cms.futurecdn.net/GPmbsvCD53DGjzY9PCS6Xc-1920-80.jpg
 ---
 
 ![Steam Machine](https://cdn.mos.cms.futurecdn.net/GPmbsvCD53DGjzY9PCS6Xc.jpg) 
@@ -60,3 +61,7 @@ Reply
 - 
 Reply
  Which then they can't pay back and we have to front the credit. Due to inflation change. I hate people. Spend what you earn not what you can be given.Ogotai said:simple.. credit cards, or a line of credit, that they hope that can pay off after what they are scalping, is sold... if not.. they are stuck....
+- 
+That is just weird but whatever. Some people have too much money and want their toys. Why wouldn't you just buy a desktop with much better hardware and hide it behind something WTF that point? You could even get remote start TV support and everything with some serious power and pre built almost everything.Reply
+ 
+ Just weird

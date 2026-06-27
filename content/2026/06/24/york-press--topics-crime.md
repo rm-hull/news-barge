@@ -3,9 +3,10 @@ title: Crime news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/crime/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:01Z'
+scraped_at: '2026-06-27T21:37:41Z'
 published: '2026-06-24T00:00:00Z'
 description: Crime news, features and opinion in and around Press | York Press
+thumbnail: null
 ---
 
 ![Police are warning against drinking and driving after England's latest match](https://www.yorkpress.co.uk/resources/images/320x200/1x/21028412.jpg) 

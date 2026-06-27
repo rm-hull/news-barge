@@ -4,10 +4,11 @@ title: Star in our special video series the Animal Academy at Monk Park Farm and
 source_url: https://www.yorkmix.com/star-in-our-special-video-series-the-animal-academy-at-monk-park-farm-and-win-a-free-family-pass
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:09Z'
+scraped_at: '2026-06-27T21:32:16Z'
 published: '2026-05-28T00:00:00Z'
 description: Do you know someone aged between 6 and 11 years old who just LOVES animals?
   Well….we have something VERY special that they can be selected for… YorkMix
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt.jpg
 ---
 
 Do you know someone aged between 6 and 11 years old who just LOVES animals?
@@ -18,13 +19,21 @@ YorkMix has got together with Monk Park Farm to launch the Animal Academy.
 
 At the Animal Academy, kids will learn about and help care for a variety of animals, both exotic and agricultural, at Monk Park Farm. They will learn about the animals and how to care for them from the experts at Monk Park Farm as they assist with tasks like feeding, cleaning, and health checks for animals during their Animal Academy visit.
 
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/05/IMG_4758-1000x708.png)
+
 The Animal Academy with Monk Park Farm is looking for budding animal fanatics aged between 6 and 11 years old from the North Yorkshire area to join our Academy and be part of filming our series – which will be broadcast on social media and online platforms for others to enjoy and learn about the animals too.
 
 The lucky children (four per episode) who will be selected at random to join the Animal Academy and star in the series will join YorkMix for an afternoon of filming on a selected date (see dates below) after school alongside their Parents/Guardians.
 
 To enter, simply fill in the form below and tell us why the child you’re nominating should be selected to be part of the Animal Academy.
 
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt-2.webp)
+
 ## WIN a free family pass and Animal Academy experience at Monk Park Farm
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt-5.webp)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt-4.webp)
 
 .The fab prize also includes a a free family pass to visit Monk Park Farm on another date.
 

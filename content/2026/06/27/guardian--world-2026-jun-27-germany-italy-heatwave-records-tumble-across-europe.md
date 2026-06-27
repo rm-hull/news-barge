@@ -3,10 +3,11 @@ title: Germany and Italy swelter in heatwave as records tumble across Europe
 source_url: https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:00Z'
+scraped_at: '2026-06-27T21:28:24Z'
 published: '2026-06-27T00:00:00Z'
 description: Denmark experiences highest temperature on record on Saturday as weather
   system spreads eastward
+thumbnail: https://i.guim.co.uk/img/media/170e098ef3a11e03e5599371d4cc90c2086faac8/88_0_4423_3539/master/4423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70f6fb6dcad8271505ccbccd78533baa
 ---
 
 Germany and Italy endured sweltering conditions on Saturday as a heatwave linked to dozens of deaths in western Europe spread eastwards, after temperatures broke records above 40C (104F).
@@ -17,7 +18,11 @@ Slovakia confirmed that Friday night was its warmest on record, with temperature
 
 Britain, France, Switzerland and Germany have experienced record heat in June, and the weather system could set more records as it moves towards Poland.
 
-Scientists said the heatwave would have been virtually impossible without human-made climate change, which has made this week’s night-time temperatures 100 times more likely than they would have been two decades ago.
+In the UK, a teenager, two men and a woman died on Saturday after getting into difficulty swimming in open water. Along with a death on Friday and another on Wednesday last week, it brings the total number of drownings during the recent heatwave to six.
+
+At least 15 people died in water-related incidents during the May heatwave in the UK.
+
+Scientists said the heatwave would have been virtually impossible without the human-made climate crisis, which has made this week’s night-time temperatures 100 times more likely than they would have been two decades ago.
 
 “The heatwave is going to peak at the weekend at well over 40 degrees in some parts of Germany,” said Karsten Brandt, a meteorologist at the weather forecasting site Donnerwetter.
 

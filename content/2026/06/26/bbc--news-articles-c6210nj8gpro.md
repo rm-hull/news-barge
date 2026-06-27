@@ -3,10 +3,11 @@ title: Why GTA 6 is launching without a disc - and what it says about gaming's f
 source_url: https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:46Z'
 published: '2026-06-26T00:00:00Z'
 description: Music and films are now largely digital-only - does the lack of a disc
   for GTA 6 mean gaming is going the same way?
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 ![An in-game screenshot from GTA 6 showing a woman inside a shop in a short black top and a skirt with her arms resting on a desk behind her and a colourful background. She is wearing black sunglasses and has short brown hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg)

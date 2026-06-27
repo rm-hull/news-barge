@@ -3,10 +3,11 @@ title: We tested scones - which ones were truly scrumptious?
 source_url: https://www.yorkpress.co.uk/news/26233876.tested-scones---ones-truly-scrumptious/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:45Z'
+scraped_at: '2026-06-27T21:38:24Z'
 published: '2026-06-27T00:00:00Z'
 description: SCONES bring a taste of summer, especially if they are served in the
   afternoon with jam and fresh cream.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21088708.jpg?type=og-image
 ---
 
 ## We tested scones - which ones were truly scrumptious?

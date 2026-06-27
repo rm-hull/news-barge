@@ -3,10 +3,11 @@ title: Find your local World Cup hero with our postcode lookup
 source_url: https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:45Z'
 published: '2026-06-10T00:00:00Z'
 description: Which World Cup stars have roots near you? Find out with our interactive
   lookup tool
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed61/live/6b243690-714a-11f1-8e1d-bbbb1017d210.png
 ---
 
 - Published

@@ -4,10 +4,11 @@ title: Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survi
 source_url: https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:41:58Z'
+scraped_at: '2026-06-27T21:28:23Z'
 published: '2026-06-26T00:00:00Z'
 description: Worst incident of its kind in country for more than 125 years leaves
   many searching for family members – and pleading for international help
+thumbnail: https://i.guim.co.uk/img/media/87e4e8057dc1b6fa669c9a71496f1613f4d59fb7/137_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a866b5292dc082829f16883d49c0f6eb
 ---
 
 Nearly all of Ligia Level’s family lived in a trio of apartment blocks along Hotel Avenue, a seafront sweep of palm-specked resorts and high-rise condos along Venezuela’s Caribbean coast.

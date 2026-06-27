@@ -4,10 +4,11 @@ title: Legendary Harrogate brewers bounce back from challenging times with a cla
 source_url: https://www.harrogateadvertiser.co.uk/news/people/legendary-harrogate-brewers-bounce-back-from-challenging-times-with-a-classic-beer-that-keeps-on-winning-8763354
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:10Z'
+scraped_at: '2026-06-27T21:29:22Z'
 published: '2026-06-26T00:00:00Z'
 description: The team behind a legendary Harrogate brewery is celebrating a UK award
   after bouncing back from the most challenging times in the business’s history.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgyOWUyMTVjLTAwZjItNGRiZS1hNjk1LWU2Y2U0OWJjNzcyNzpiNDlkODBkYi02ODI1LTRlYjktYTU1Ny00MTRkZGI5OTBlOWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Legendary Harrogate brewers bounce back from challenging times with a classic beer that keeps on winning

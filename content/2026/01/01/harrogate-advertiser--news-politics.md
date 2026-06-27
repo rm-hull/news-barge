@@ -3,10 +3,11 @@ title: Politics
 source_url: https://www.harrogateadvertiser.co.uk/news/politics
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:09Z'
+scraped_at: '2026-06-27T21:29:21Z'
 published: '2026-01-01T00:00:00Z'
 description: Get all of the latest Politics news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
+thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
 ![Councillor Carl Les, Leader of North Yorkshire Council, hopes the next Prime Minister will tackle the “disconnect” between the North of England and the London-based government](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

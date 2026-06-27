@@ -3,11 +3,12 @@ title: Dark Waters
 source_url: https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:32Z'
+scraped_at: '2026-06-27T21:23:50Z'
 published: '2026-06-27T00:00:00Z'
 description: Past ties drag corporate lawyer Rob into conflict with a company blamed
   for polluting a local stream. But as the case goes on, Rob discovers that the scope
   of the actual damage is staggeringly vast.
+thumbnail: https://ichef.bbci.co.uk/images/ic/1200x675/p0f0sn43.jpg
 ---
 
 # Dark Waters

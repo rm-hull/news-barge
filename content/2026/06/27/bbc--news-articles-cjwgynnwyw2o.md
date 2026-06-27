@@ -3,10 +3,11 @@ title: Thunderstorms delay hundreds of Heathrow and Gatwick flights
 source_url: https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:29Z'
+scraped_at: '2026-06-27T21:23:44Z'
 published: '2026-06-27T00:00:00Z'
 description: More than 900 flights have been delayed at Heathrow and Gatwick, many
   due to stormy weather south of the UK.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg
 ---
 
 ![Easyjet planes on the tarmac at Gatwick airport.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg)

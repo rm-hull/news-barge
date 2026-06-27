@@ -3,10 +3,11 @@ title: PC Components
 source_url: https://www.tomshardware.com/uk/pc-components
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:33Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-27T00:00:00Z'
 description: PC Component reviews, news, and features, created for the hardcore PC
   enthusiast by the experts at Tom's Hardware.
+thumbnail: null
 ---
 
 # PC Components

@@ -4,10 +4,11 @@ title: Remarkable Harrogate shop founded in 1906 now boasts five generations of 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/remarkable-harrogate-shop-founded-in-1906-now-boasts-five-generations-of-family-ownership-8762273
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:11Z'
+scraped_at: '2026-06-27T21:29:23Z'
 published: '2026-06-25T00:00:00Z'
 description: One of Harrogate’s most favourite and successful stores is to celebrate
   its 120th anniversary next week still run by the same family after all these years.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAyNGYyNDIyLTYxNDUtNDU2Ni1iNzQyLWVjM2E2MmEyNzhhOTo4OWJkN2QwZC0wODJkLTQzZTctYjI5YS0xOGZmNGM2MGRkODY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Remarkable Harrogate shop founded in 1906 now boasts five generations of family ownership

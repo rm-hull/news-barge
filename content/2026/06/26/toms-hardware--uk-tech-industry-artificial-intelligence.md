@@ -3,10 +3,11 @@ title: Artificial Intelligence (AI)
 source_url: https://www.tomshardware.com/uk/tech-industry/artificial-intelligence
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:33Z'
+scraped_at: '2026-06-27T21:32:55Z'
 published: '2026-06-26T00:00:00Z'
 description: 'Artificial intelligence (AI), chatbots, and machine learning: News,
   R&D, and more'
+thumbnail: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

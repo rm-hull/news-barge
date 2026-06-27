@@ -3,10 +3,11 @@ title: 'Weather tracker: Heatwave expected to bring Germany and Poland to 40C'
 source_url: https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:41:59Z'
+scraped_at: '2026-06-27T21:28:23Z'
 published: '2026-06-26T00:00:00Z'
 description: Austrian Grand Prix declares heat hazard as dramatic rise in temperatures
   forecast in central and northern Europe
+thumbnail: https://i.guim.co.uk/img/media/9ca939259c24906af5e1117aa8d61cd38492ea41/231_0_3528_2823/master/3528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d6ba0c29e6d893affde88dd274956bd
 ---
 
 Temperatures are forecast to rise dramatically in parts of central and northern Europe this weekend as the intense heatwave continues. In Germany and Poland, highs up to or exceeding 40C (104F) are expected on both Saturday and Sunday, days after swathes of France experienced similar extreme temperatures. The Austrian Grand Prix, taking place this weekend in Spielberg, has declared a heat hazard, the first race to do so this season. Temperatures are expected to rise into the low 30s celsius during the race, almost 10C warmer than usual for the venue.

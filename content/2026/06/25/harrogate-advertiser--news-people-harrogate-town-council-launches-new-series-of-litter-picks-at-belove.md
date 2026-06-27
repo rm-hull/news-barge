@@ -4,10 +4,11 @@ title: Harrogate Town Council launches new series of litter picks at beloved Gra
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-town-council-launches-new-series-of-litter-picks-at-beloved-grade-ii-listed-park-8760956
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:12Z'
+scraped_at: '2026-06-27T21:29:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The public has been praised for rallying behind the first of a new series
   of litter picks at one of Harrogate’s most-loved outdoor locations.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3MDhmMjg3LTUxNGQtNDhmOS05ZjczLWRkNzYxOWZhZDE3Njo4ZjY4NTNhZi00ZTE4LTQ1Y2EtOWRjYy0wYzM1MzgwMmU2NWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate Town Council launches new series of litter picks at beloved Grade II listed park

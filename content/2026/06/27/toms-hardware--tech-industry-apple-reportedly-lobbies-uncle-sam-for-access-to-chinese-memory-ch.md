@@ -4,9 +4,10 @@ title: Apple reportedly lobbies Uncle Sam for access to Chinese memory chips —
 source_url: https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:30Z'
+scraped_at: '2026-06-27T21:32:52Z'
 published: '2026-06-27T00:00:00Z'
 description: A new precedent on the precipice?
+thumbnail: https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ-2560-80.jpg
 ---
 
 ![US President Donald Trump listens to Apple CEO Tim Cook speak during an American Technology Council roundtable at the White House in Washington, DC, on June 19, 2017.](https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ.jpg) 

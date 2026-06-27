@@ -3,10 +3,11 @@ title: £14million country estate near York with 1,676 acres goes on the market
 source_url: https://www.yorkpress.co.uk/news/26233755.scoreby-estate-1-676-acres-guide-price-14m/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:05Z'
+scraped_at: '2026-06-27T21:37:44Z'
 published: '2026-06-27T00:00:00Z'
 description: One of North Yorkshire’s largest country estates totalling some 1,676
   acres has gone on the market with a guide price of £14million.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21109004.jpg?type=og-image
 ---
 
 ## £14million country estate near York with 1,676 acres goes on the market

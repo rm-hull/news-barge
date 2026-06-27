@@ -3,9 +3,10 @@ title: Politics news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/politics/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:54:55Z'
+scraped_at: '2026-06-27T21:37:33Z'
 published: '2026-05-29T00:00:00Z'
 description: Politics news, features and opinion in and around Press | York Press
+thumbnail: null
 ---
 
 ![](https://www.yorkpress.co.uk/resources/images/320x200/1x/7549208.jpg) 

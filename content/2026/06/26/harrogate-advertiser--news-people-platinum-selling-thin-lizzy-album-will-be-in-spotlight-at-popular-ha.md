@@ -4,10 +4,11 @@ title: Platinum selling Thin Lizzy album will be in spotlight at popular Harroga
 source_url: https://www.harrogateadvertiser.co.uk/news/people/platinum-selling-thin-lizzy-album-will-be-in-spotlight-at-popular-harrogate-music-event-8764747
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:09Z'
+scraped_at: '2026-06-27T21:29:22Z'
 published: '2026-06-26T00:00:00Z'
 description: The forthcoming Vinyl Sessions event for Harrogate Hospital and Community
   Charity promises a treasure trove of classic moments by Irish rock icons Thin Lizzy.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3YWFkM2VmLTVlMjktNGM3Ni1hNjU3LTViNWMxYjM0M2Q2Mjo1OGUzZTU2MS0wNDhkLTRhOWQtYTlhZi03MDI5N2Y3MDA3YWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Platinum selling Thin Lizzy album will be in spotlight at popular Harrogate music event

@@ -3,10 +3,11 @@ title: Fabulous walk with 2 iconic landmarks and stunning sea and moorland views
 source_url: https://www.yorkpress.co.uk/news/26230277.country-walk---captain-cooks-monument-roseberry-topping/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:37Z'
+scraped_at: '2026-06-27T21:38:16Z'
 published: '2026-06-27T00:00:00Z'
 description: This week's lovely walk on the edge of the North York Moors allows you
   to enjoy Captain Cook's monument and Roseberry Topping
+thumbnail: https://www.yorkpress.co.uk/resources/images/21097108.jpg?type=og-image
 ---
 
 ## Fabulous walk with 2 iconic landmarks and stunning sea and moorland views

@@ -4,10 +4,11 @@ title: This is what Tom's Hardware readers clicked the most during Prime Day —
 source_url: https://www.tomshardware.com/pc-components/this-is-what-toms-hardware-readers-clicked-the-most-during-prime-day-portable-displays-dvd-burners-the-nintendo-switch-2-and-two-decent-ssd-deals-among-others
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:33Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-26T00:00:00Z'
 description: What you clicked on, because of all the PC parts that were overpriced
   or unavailable
+thumbnail: https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph-1999-80.jpg
 ---
 
 ![PC Components](https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph.jpg) 

@@ -4,10 +4,11 @@ title: 'Meloni and Trump: A very public Italy-US fallout that is proving very ha
 source_url: https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:31Z'
+scraped_at: '2026-06-27T21:23:47Z'
 published: '2026-06-26T00:00:00Z'
 description: Italy's PM was not long ago being called the "Trump whisperer", but their
   relationship has gone from public attacks to personal insults.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a433/live/723d4a80-71fd-11f1-b1db-af71d47507d6.jpg
 ---
 
 ![The Italian leader with blonde hair on the right smiles at the camera while the US president in a blue jacket asnd red tie stands behind her and looks at the camera](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4e7c/live/7a76a060-7190-11f1-8e1d-bbbb1017d210.jpg)

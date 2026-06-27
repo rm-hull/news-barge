@@ -4,9 +4,10 @@ title: Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end
 source_url: https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:31Z'
+scraped_at: '2026-06-27T21:32:53Z'
 published: '2026-06-27T00:00:00Z'
 description: A power-hungry flagship awaits.
+thumbnail: https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3-1920-80.jpg
 ---
 
 ![Core Ultra 200K Plus](https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3.jpg) 

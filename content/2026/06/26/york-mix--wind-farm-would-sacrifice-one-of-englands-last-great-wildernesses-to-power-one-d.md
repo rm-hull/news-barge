@@ -4,9 +4,10 @@ title: Wind farm would “sacrifice one of England’s last great wildernesses t
 source_url: https://www.yorkmix.com/wind-farm-would-sacrifice-one-of-englands-last-great-wildernesses-to-power-one-data-centre
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:06Z'
+scraped_at: '2026-06-27T21:32:15Z'
 published: '2026-06-26T00:00:00Z'
 description: ''
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/meeth1.jpeg
 ---
 
 One of England’s last great wildernesses should not be sacrificed to generate enough electricity for a single data centre, a public meeting was told last night.

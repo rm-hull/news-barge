@@ -3,10 +3,11 @@ title: Stephen Mangan and Fearne Cotton expected at Brimham Rocks
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/stephen-mangan-and-fearne-cotton-expected-at-brimham-rocks/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:06Z'
+scraped_at: '2026-06-27T21:30:46Z'
 published: '2026-06-24T00:00:00Z'
 description: One of the area's most iconic landmarks is taking centre stage this week
   as Sky Arts' Landscape Artist of the Year comes to Brimham Rocks.
+thumbnail: https://mmo.aiircdn.com/409/6a3c60e663ad3c6fa18.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3c60e663ad3c6fa18.jpg) 

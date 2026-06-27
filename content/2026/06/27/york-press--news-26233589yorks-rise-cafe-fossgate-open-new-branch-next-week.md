@@ -3,10 +3,11 @@ title: Popular York brunch cafe sets date to open second city centre venue next 
 source_url: https://www.yorkpress.co.uk/news/26233589.yorks-rise-cafe-fossgate-open-new-branch-next-week/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:10Z'
+scraped_at: '2026-06-27T21:37:49Z'
 published: '2026-06-27T00:00:00Z'
 description: The popular Rise cafe has announced the opening of its second site in
   York.
+thumbnail: https://www.yorkpress.co.uk/resources/images/21108837.jpg?type=og-image
 ---
 
 *(Image: Rise- Facebook)*

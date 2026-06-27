@@ -3,10 +3,11 @@ title: Giant duck to land in North Yorkshire with chance to win UK hotel breaks
 source_url: https://www.yorkpress.co.uk/news/26232506.win-holidays-giant-duck-feathers-hotel-helmsley/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:20Z'
+scraped_at: '2026-06-27T21:37:58Z'
 published: '2026-06-27T00:00:00Z'
 description: GIANT DUCK LANDS IN HELMSLEY WITH CHANCE TO WIN A YEAR'S WORTH OF UK
   BREAKS
+thumbnail: https://www.yorkpress.co.uk/resources/images/21098031.jpg?type=og-image
 ---
 
 *(Image: Agency)*

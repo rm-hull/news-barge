@@ -3,10 +3,11 @@ title: Tech Industry
 source_url: https://www.tomshardware.com/uk/tech-industry
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:31Z'
+scraped_at: '2026-06-27T21:32:53Z'
 published: '2026-06-27T00:00:00Z'
 description: Discover more about Tech Industry with insights from the experts at Tom's
   Hardware.
+thumbnail: null
 ---
 
 # Tech Industry

@@ -3,10 +3,11 @@ title: 'World Cup 2026: Scouting Panama - what England can expect'
 source_url: https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:32Z'
+scraped_at: '2026-06-27T21:23:51Z'
 published: '2026-06-27T00:00:00Z'
 description: Panama's results do not paint a true picture of their performances in
   the World Cup so far - so what can England expect from them?
+thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f5e/live/a4825700-714a-11f1-93ee-112d8afd7f99.jpg
 ---
 
 ![Panama players pose for a team photo at the World Cup](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3f5e/live/a4825700-714a-11f1-93ee-112d8afd7f99.jpg)

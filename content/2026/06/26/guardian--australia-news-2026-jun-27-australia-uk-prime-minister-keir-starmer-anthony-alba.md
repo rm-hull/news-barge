@@ -4,10 +4,11 @@ title: Massive wins and the promise of change – but that’s where the Starmer
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/australia-uk-prime-minister-keir-starmer-anthony-albanese-comparison
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:42:00Z'
+scraped_at: '2026-06-27T21:28:23Z'
 published: '2026-06-26T00:00:00Z'
 description: While Anthony Albanese calls ousted British PM Keir Starmer his mate,
   the pair share very different political fortunes
+thumbnail: https://i.guim.co.uk/img/media/bc5eafded6cb5e6f2a0d50376ed4af2e533811d0/1183_230_2355_1884/master/2355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fead86373bfa0c71fd7b46c4f9658b76
 ---
 
 Anthony Albanese channelled Paul Keating as he spoke to government MPs in Canberra this week, reflecting on the tough work of reform.

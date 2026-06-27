@@ -5,10 +5,11 @@ title: Modded Steam Controller can automatically charge itself like a robot vacu
 source_url: https://www.tomshardware.com/peripherals/controllers-gamepads/modded-steam-controller-can-automatically-charge-itself-like-a-robot-vacuum-enthusiast-creates-github-program-that-uses-the-vibration-motor-to-walk-it-back-to-its-docking-station
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:32Z'
+scraped_at: '2026-06-27T21:32:53Z'
 published: '2026-06-27T00:00:00Z'
 description: It's fun to watch the Steam Controller scoot itself over towards its
   charging puck.
+thumbnail: https://cdn.mos.cms.futurecdn.net/36BZ8tAWCQtaJDjEoKPRY9-1920-80.png
 ---
 
 ![Steam Controller auto-charge](https://cdn.mos.cms.futurecdn.net/36BZ8tAWCQtaJDjEoKPRY9.png) 

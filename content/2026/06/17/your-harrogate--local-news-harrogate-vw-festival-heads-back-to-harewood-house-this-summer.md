@@ -3,10 +3,11 @@ title: VW Festival heads back to Harewood House this summer
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/vw-festival-heads-back-to-harewood-house-this-summer/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:47Z'
+scraped_at: '2026-06-27T21:31:27Z'
 published: '2026-06-17T00:00:00Z'
 description: One of the UK's biggest Volkswagen events is set to return to Harewood
   House this summer.
+thumbnail: https://mmo.aiircdn.com/409/6745767fb496c.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6745767fb496c.jpg) 

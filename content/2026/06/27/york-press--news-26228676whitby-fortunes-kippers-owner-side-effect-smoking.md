@@ -4,10 +4,11 @@ title: '''We''ve been lighting a fire here for 150 years'' - unique side-effect 
 source_url: https://www.yorkpress.co.uk/news/26228676.whitby---fortunes-kippers-owner-side-effect-smoking/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:29Z'
+scraped_at: '2026-06-27T21:38:08Z'
 published: '2026-06-27T00:00:00Z'
 description: Traditional methods passed down through one family and used in the same
   premises of a business in a North Yorkshire town bring about a unique…
+thumbnail: https://www.yorkpress.co.uk/resources/images/21101397.jpg?type=og-image
 ---
 
 ## 'We've been lighting a fire here for 150 years' - unique side-effect of Whitby trade

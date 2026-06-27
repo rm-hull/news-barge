@@ -3,10 +3,11 @@ title: The people leaving the West behind in search of the Russian dream
 source_url: https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:45Z'
 published: '2026-06-26T00:00:00Z'
 description: The BBC asks Westerners who moved to Russia if life there lives up to
   expectations.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg
 ---
 
 ![Person in the foreground wearing a grey beanie hat, glasses, a dark coat and a backpack, with snow on clothing and shoulders. Snow-covered cobbled square surrounds the scene. In the background, St Basil’s Cathedral with colourful onion domes stands to the left, and a red brick Kremlin wall with a tower is on the right. Several pedestrians walk across the square, and a parked vehicle is visible near the wall. Snow is falling lightly across the image.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg)

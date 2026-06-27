@@ -3,10 +3,11 @@ title: Historic Harrogate furniture store celebrates 120th year
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/historic-harrogate-furniture-store-celebrates-120th-year/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:28Z'
+scraped_at: '2026-06-27T21:31:09Z'
 published: '2026-06-19T00:00:00Z'
 description: One of Harrogate's oldest family businesses is celebrating a major milestone
   this year.
+thumbnail: https://mmo.aiircdn.com/409/6a3905ebaf09ce1a4bc.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3905ebaf09ce1a4bc.jpg) 

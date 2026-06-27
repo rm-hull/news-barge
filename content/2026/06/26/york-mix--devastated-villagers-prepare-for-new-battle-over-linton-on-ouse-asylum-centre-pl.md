@@ -4,9 +4,10 @@ title: “Devastated” villagers prepare for new battle over Linton-on-Ouse asy
 source_url: https://www.yorkmix.com/devastated-villagers-prepare-for-new-battle-over-linton-on-ouse-asylum-centre-plan
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:07Z'
+scraped_at: '2026-06-27T21:32:16Z'
 published: '2026-06-26T00:00:00Z'
 description: ''
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2022/05/280117782_729844111520008_7890339592972068384_n.jpg
 ---
 
 Villagers are preparing for a new fight to stop an asylum centre from being opened at a former RAF base near York.

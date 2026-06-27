@@ -3,10 +3,11 @@ title: 'Laura Kuenssberg: Is Andy Burnham Labour’s saviour, or just its best b
 source_url: https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:30Z'
+scraped_at: '2026-06-27T21:23:46Z'
 published: '2026-06-27T00:00:00Z'
 description: Labour insiders give Laura Kuenssberg their take on the man tipped to
   replace Keir Starmer as PM.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcfe/live/d2ac4c00-7152-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1fcf/live/48f98c90-7137-11f1-8e1d-bbbb1017d210.png)

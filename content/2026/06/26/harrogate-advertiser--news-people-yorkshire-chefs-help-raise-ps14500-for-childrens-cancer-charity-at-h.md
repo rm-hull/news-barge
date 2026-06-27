@@ -4,10 +4,11 @@ title: Yorkshire chefs help raise £14,500 for children's cancer charity at Harr
 source_url: https://www.harrogateadvertiser.co.uk/news/people/yorkshire-chefs-help-raise-ps14500-for-childrens-cancer-charity-at-harrogate-fine-dining-event-8763059
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:10Z'
+scraped_at: '2026-06-27T21:29:23Z'
 published: '2026-06-26T00:00:00Z'
 description: An evening showcasing some of Yorkshire's most celebrated chefs has helped
   raise thousands of pounds for children's cancer charity Candlelighters.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI5YzZiZjJiLWY2NWEtNGE0Ny1iMDEzLWM1ZWJmM2RjZWY3NTpkMDNlMTgwMC1mYTRjLTRjMTgtYmI0NS04ZWRkNDE4MjAxYzA=.jpg?crop=3:2,smart&trim=&width=599&auto=webp&quality=75
 ---
 
 # Yorkshire chefs help raise £14,500 for children's cancer charity at Harrogate fine dining event

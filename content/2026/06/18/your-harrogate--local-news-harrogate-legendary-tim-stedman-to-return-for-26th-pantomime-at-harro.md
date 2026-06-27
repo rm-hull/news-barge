@@ -3,10 +3,11 @@ title: Legendary Tim Stedman to return for 26th panto at Harrogate Theatre
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/legendary-tim-stedman-to-return-for-26th-pantomime-at-harrogate-theatre/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:33Z'
+scraped_at: '2026-06-27T21:31:13Z'
 published: '2026-06-18T00:00:00Z'
 description: Pantomime favourite Tim Stedman will return to Harrogate Theatre this
   Christmas for his 26th year on stage.
+thumbnail: https://mmo.aiircdn.com/409/662b8249ccc66.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/662b8249ccc66.jpg) 

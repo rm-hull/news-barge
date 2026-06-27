@@ -3,9 +3,10 @@ title: Date confirmed for closure of a Post Office and Morrisons store in York
 source_url: https://www.yorkmix.com/post-office-and-a-morrisons-store-to-close-in-york
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:07Z'
+scraped_at: '2026-06-27T21:32:16Z'
 published: '2026-06-26T00:00:00Z'
 description: ''
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/05/york-councillor-stephen-fenton-at-morrisons-woodthorpe-post-office.webp
 ---
 
 It has been confirmed that the Morrisons Daily store on Moorcroft Road in Woodthorpe – which also hosts a Post Office counter – will close on 1 August.

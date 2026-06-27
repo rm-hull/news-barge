@@ -3,13 +3,16 @@ title: WIN Holiday Club Places at The Web Adventure!
 source_url: https://www.yorkmix.com/win-holiday-club-places-at-the-web-adventure
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T19:32:08Z'
+scraped_at: '2026-06-27T21:32:16Z'
 published: '2026-06-24T00:00:00Z'
 description: Looking for an exciting way to keep your children active, entertained
   and making new friends this summer? We've teamed up with The Web Adventure to give
+thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/web-adventure-holiday-club-comp.webp
 ---
 
 Looking for an exciting way to keep your children active, entertained and making new friends this summer?
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/06/a87036e3-827e-4091-aeb1-2e2331bec9b3.png)
 
 We’ve teamed up with The Web Adventure to give one lucky family the chance to WIN TWO FREE DAYS for TWO children at The Web Adventure OFSTED Registered Holiday Club during the summer holidays!
 
@@ -31,6 +34,10 @@ The Web Adventure Holiday Club offers children a safe, engaging and action-packe
 - Supervised access to play areas and fairground attractions
 - Safe, fun and engaging experiences every day
 
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/06/IMG_5679-1000x1394.jpeg)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/06/IMG_5184-1000x1242.jpeg)
+
 Holiday Club Details:
 
 Standard Day: 9am – 4pm (£45 per child)
@@ -50,6 +57,10 @@ Lunch and tea available when pre-booked (£10 for both meals)
 Bookings are limited and demand is expected to be high, so early booking is recommended.
 
 To be in with a chance of winning, simply answer the question on the entry form below.
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/06/IMG_5607-1000x1333.jpeg)
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/06/IMG_7955-937x1500.jpg)
 
 ## WIN Two Free Holiday Club Days, For 2 children, at The Web Adventure
 

@@ -4,10 +4,11 @@ title: Tom Gordon MP calls for new powers to close cowboy vendors and restrict i
 source_url: https://www.harrogate-news.co.uk/2026/05/05/tom-gordon-mp-calls-for-new-powers-to-close-cowboy-vendors-and-restrict-illicit-vape-shops-on-the-high-street/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:48:02Z'
+scraped_at: '2026-06-27T21:38:54Z'
 published: '2026-05-05T00:00:00Z'
 description: The Liberal Democrats have called for local authorities to have new powers
   to close cowboy vendors and ensure that the incoming licensing regime for tobacco
+thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/04/tomg-police.webp
 ---
 
 Tom Gordon MP calls for new powers to close cowboy vendors and restrict illicit vape shops on the high street.

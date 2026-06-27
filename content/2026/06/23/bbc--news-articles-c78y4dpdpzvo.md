@@ -3,10 +3,11 @@ title: Rescued Totnes sewage work eggs hatch into five ducklings
 source_url: https://www.bbc.co.uk/news/articles/c78y4dpdpzvo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:31Z'
+scraped_at: '2026-06-27T21:23:49Z'
 published: '2026-06-23T00:00:00Z'
 description: The eggs were spotted in a nest at risk of toppling over on the surface
   at a sewage treatment works.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4898/live/95ca0f10-6efb-11f1-87e9-1dc598ae70b3.jpg
 ---
 
 ![Five fluffy ducklings paddle close together in a small plastic tub of water, their damp brown and yellow feathers showing as they settle into their new surroundings.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/4898/live/95ca0f10-6efb-11f1-87e9-1dc598ae70b3.jpg)

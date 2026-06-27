@@ -3,10 +3,11 @@ title: Australian man arrested in Thailand after 17-year-old’s body found in s
 source_url: https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:41:59Z'
+scraped_at: '2026-06-27T21:28:23Z'
 published: '2026-06-27T00:00:00Z'
 description: The 46-year-old was stopped at about 9.30pm on Friday while preparing
   to board a Jetstar flight to Perth, according to police and local media
+thumbnail: https://i.guim.co.uk/img/media/cc8aef3195c748eeff4b692b361ace8efc5c17c5/216_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aa9a8c1b0369de44e84b38d85ef730e
 ---
 
 An Australian man has been arrested at a Thai airport in connection with the alleged murder of a 17-year-old girl whose naked body was found in a suitcase, according to local police.

@@ -4,11 +4,12 @@ title: Harrogate business leader says ‘we’re not asking for handouts just a 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-business-leader-says-were-not-asking-for-handouts-just-a-fair-chance-to-thrive-8761354
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:12Z'
+scraped_at: '2026-06-27T21:29:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The owner of one of Harrogate’s most popular independent hospitality
   venues is calling for a cut in VAT rates not as a ‘Government hand out’ but as necessity
   for the town’s wider community and economy.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzNWM0MTFmLTRhMWItNGI0ZS1iODY1LTFjZjU2MTgzODcyZjo1ZDYzZDc3NS05ZDBlLTRhN2MtYmVjOC03NGNhYTAzN2ViNGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate business leader says ‘we’re not asking for handouts just a fair chance to thrive’

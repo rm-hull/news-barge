@@ -3,11 +3,12 @@ title: 'England vs New Zealand: Home side in danger in decider at Trent Bridge'
 source_url: https://www.bbc.co.uk/sport/cricket/articles/ce3ewx2wxrro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T20:40:32Z'
+scraped_at: '2026-06-27T21:23:50Z'
 published: '2026-06-27T00:00:00Z'
 description: England’s deciding Test against New Zealand - and perhaps the future
   of the hosts’ management - hangs in the balance after a dramatic and fluctuating
   third day at Trent Bridge.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c771/live/9aec5810-724b-11f1-899c-07e9a6b85769.jpg
 ---
 
 New Zealand back on top after fluctuating third day
@@ -42,7 +43,7 @@ Given the circumstances, skipper Stokes said before this game that his team is u
 
 Stokes' team then came up against a New Zealand side without three key players - Matt Henry, Kyle Jamieson and Glenn Phillips - but still find themselves right up against it.
 
-England have memories on 2022, a remarkable win against New Zealand on this ground, albeit on a very different pitch. That was the birth of Bazball. This might be the end.
+England have memories of 2022, a remarkable win against New Zealand on this ground, albeit on a very different pitch. That was the birth of Bazball. This might be the end.
 
 England's lack of overs when batting
 

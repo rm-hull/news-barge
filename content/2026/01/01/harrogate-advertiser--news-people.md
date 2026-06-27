@@ -3,10 +3,11 @@ title: People
 source_url: https://www.harrogateadvertiser.co.uk/news/people
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:09Z'
+scraped_at: '2026-06-27T21:29:21Z'
 published: '2026-01-01T00:00:00Z'
 description: Get all of the latest People news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
+thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
 ![Pride of place at this month’s Vinyl Sessions music event in Harrogate will go to Thin Lizzy’s platinum-selling Greatest Hits album. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3YWFkM2VmLTVlMjktNGM3Ni1hNjU3LTViNWMxYjM0M2Q2Mjo1OGUzZTU2MS0wNDhkLTRhOWQtYTlhZi03MDI5N2Y3MDA3YWY=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

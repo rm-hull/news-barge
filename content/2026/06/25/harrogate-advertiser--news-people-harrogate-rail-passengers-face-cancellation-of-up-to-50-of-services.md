@@ -4,10 +4,11 @@ title: Harrogate rail passengers 'face cancellation of up to 50% of services bet
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-rail-passengers-face-cancellation-of-up-to-50-of-services-between-leeds-and-york-8760731
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T20:47:12Z'
+scraped_at: '2026-06-27T21:29:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The impact of soaring temperatures is being felt by Harrogate rail passengers
   with the withdrawal of up to 50% of services between Leeds and York via Harrogate.
+thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY1MGRmZWEwLTc3NDMtNGM5OC05NTU5LTU4Y2Q4YTAzMzU2ZTpmZTIzMWIzOS03MTVlLTQ1YWEtYjFjZS1hMDc1ZGIwZDliNjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate rail passengers 'face cancellation of up to 50% of services between Leeds and York'

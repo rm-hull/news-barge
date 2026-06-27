@@ -3,10 +3,11 @@ title: Love Island star, Molly Mae shares photos of time at Ripon hotel
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/love-island-star-molly-mae-shares-photos-of-time-at-ripon-hotel/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:21Z'
+scraped_at: '2026-06-27T21:31:01Z'
 published: '2026-06-22T00:00:00Z'
 description: Molly-Mae Hague known for Love Island and social media recently shared
   her time at the hotel.
+thumbnail: https://mmo.aiircdn.com/409/6a39ab2c8f4b7dc764a.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a39ab2c8f4b7dc764a.jpg) 

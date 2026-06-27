@@ -4,10 +4,11 @@ title: We try 'best' North Yorkshire fish and chips cafe – was top-chef James 
 source_url: https://www.yorkpress.co.uk/eatingout/26227879.fish-chips-whitbys-famous-magpie-cafe---review/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:27Z'
+scraped_at: '2026-06-27T21:38:05Z'
 published: '2026-06-27T00:00:00Z'
 description: Fish and chips is a must on a day out at the seaside - this week we review
   the much-loved Magpie cafe at Whitby. Is it as good as they say?
+thumbnail: https://www.yorkpress.co.uk/resources/images/21100058.jpg?type=og-image
 ---
 
 ## We try 'best' North Yorkshire fish and chips cafe – was top-chef James Martin right?

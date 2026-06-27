@@ -3,10 +3,11 @@ title: 90s rockstar gears up for one-off summer show in North Yorkshire
 source_url: https://www.yorkpress.co.uk/news/26232979.verve-frontman-richard-ashcroft-play-scarborough-oat/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:55:12Z'
+scraped_at: '2026-06-27T21:37:51Z'
 published: '2026-06-27T00:00:00Z'
 description: Richard Ashcroft at Scarborough is just one highlight in a top-drawer
   week of entertainment across York and North Yorkshire
+thumbnail: https://www.yorkpress.co.uk/resources/images/21108125.jpg?type=og-image
 ---
 
 ## 90s rockstar gears up for one-off summer show in North Yorkshire

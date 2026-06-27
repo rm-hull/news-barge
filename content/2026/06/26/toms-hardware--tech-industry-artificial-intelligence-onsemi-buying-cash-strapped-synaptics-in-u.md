@@ -4,9 +4,10 @@ title: Onsemi buying cash-strapped Synaptics in $7 billion all-stock deal — sm
 source_url: https://www.tomshardware.com/tech-industry/artificial-intelligence/onsemi-buying-cash-strapped-synaptics-in-usd7-billion-all-stock-deal-smart-power-meets-edge-ai-hardware
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:03:33Z'
+scraped_at: '2026-06-27T21:32:54Z'
 published: '2026-06-26T00:00:00Z'
 description: While changing directions of both companies.
+thumbnail: https://cdn.mos.cms.futurecdn.net/FhnDs282pZ4xS7pLgnhCV-1920-80.jpg
 ---
 
 ![Onsemi](https://cdn.mos.cms.futurecdn.net/FhnDs282pZ4xS7pLgnhCV.jpg) 

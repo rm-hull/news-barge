@@ -3,10 +3,11 @@ title: Harrogate charity providing free transport for elderly unveils new minibu
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-charity-providing-free-transport-for-elderly-unveils-new-minibus/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:46Z'
+scraped_at: '2026-06-27T21:31:26Z'
 published: '2026-06-17T00:00:00Z'
 description: A Harrogate charity that provides free transport for elderly and disabled
   residents has unveiled a new minibus after raising more than £58,000.
+thumbnail: https://mmo.aiircdn.com/409/6a32c3ed7c348c99cf9.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a32c3ed7c348c99cf9.jpg) 

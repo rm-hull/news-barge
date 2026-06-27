@@ -3,10 +3,11 @@ title: Historic horse-drawn carriages fetch more than £200,000 in York auction
 source_url: https://www.yorkpress.co.uk/news/26234170.bidders-europe-americas-york-auction/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:54:55Z'
+scraped_at: '2026-06-27T21:37:35Z'
 published: '2026-06-27T00:00:00Z'
 description: Bidders from Europe, USA and South America competed with UK bidders at
   a York auction of 29 historic horse-drawn carriages.
+thumbnail: https://www.yorkpress.co.uk/resources/images/8598870.jpg?type=og-image
 ---
 
 ## Historic horse-drawn carriages fetch more than £200,000 in York auction

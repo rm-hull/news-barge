@@ -4,11 +4,12 @@ title: Harrogate teacher to cycle 1,000 miles for charity after Buckingham Palac
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-teacher-to-cycle-1000-miles-for-charity-after-buckingham-palace-honour/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:49:38Z'
+scraped_at: '2026-06-27T21:31:19Z'
 published: '2026-06-18T00:00:00Z'
 description: A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s
   End to John O’Groats for charity – just weeks after being honoured at Buckingham
   Palace.
+thumbnail: https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg) 
