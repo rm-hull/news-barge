@@ -4,7 +4,7 @@ title: Australia to double penalty for social media ban breaches to $99m as tech
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Prime minister Anthony Albanese says too many children still on platforms
   but he is ‘heartened’ by world-leading law

@@ -4,7 +4,7 @@ title: 'Venezuela earthquakes: 589 confirmed dead so far as international rescue
 source_url: https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-26T00:00:00Z'
 description: “We hope to rescue as many living people as possible’, says the acting
   president, Delcy Rodríguez, but authorities fear the death toll will be in the thousands

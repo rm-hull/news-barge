@@ -4,7 +4,7 @@ title: 'Social media bans go global: big tech faces a reckoning after Australiaâ
 source_url: https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: As a host of countries move to rein in social media use by children,
   could this be technologyâ€™s big tobacco moment?

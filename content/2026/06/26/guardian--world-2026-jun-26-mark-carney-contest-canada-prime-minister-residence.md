@@ -3,7 +3,7 @@ title: Carney announces contest to revamp uninhabitable Canadian PM residence
 source_url: https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-26T00:00:00Z'
 description: Various issues – including a rodent infestation and mould – have left
   the historic, sprawling Ottawa estate empty

@@ -4,7 +4,7 @@ title: Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survi
 source_url: https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-26T00:00:00Z'
 description: Worst incident of its kind in country for more than 125 years leaves
   many searching for family members – and pleading for international help

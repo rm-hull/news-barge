@@ -3,7 +3,7 @@ title: Find your local World Cup hero with our postcode lookup
 source_url: https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-10T00:00:00Z'
 description: Which World Cup stars have roots near you? Find out with our interactive
   lookup tool
@@ -11,7 +11,7 @@ description: Which World Cup stars have roots near you? Find out with our intera
 
 - Published
 
-**Every World Cup hero started somewhere. Harry Kane's journey to becoming England captain began at a Sunday league team in east London while Jordan Pickford learned his trade on Wearside. **
+**Every World Cup hero started somewhere. Harry Kane's journey to becoming England captain began at a Sunday league team in east London while Jordan Pickford learned his trade on Wearside.**
 
 But which World Cup stars have roots near you? Our postcode lookup includes players from all four home nations since 1950 – discover how many have come from your area.
 

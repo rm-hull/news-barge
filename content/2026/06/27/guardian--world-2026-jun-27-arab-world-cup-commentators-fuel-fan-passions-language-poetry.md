@@ -3,7 +3,7 @@ title: '‘You’re history itself!’: how Arab World Cup commentators fuel fan
 source_url: https://www.theguardian.com/world/2026/jun/27/arab-world-cup-commentators-fuel-fan-passions-language-poetry
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-27T00:00:00Z'
 description: Arabic’s rich history of poetry lends itself well to ‘beautiful commentary
   that … sounds like a love letter to football’

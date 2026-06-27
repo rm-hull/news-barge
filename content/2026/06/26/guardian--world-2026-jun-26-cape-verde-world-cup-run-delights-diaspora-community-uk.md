@@ -4,7 +4,7 @@ title: '‘Everyone is talking about Cape Verde’: World Cup run delights diasp
 source_url: https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:54Z'
+scraped_at: '2026-06-27T18:53:31Z'
 published: '2026-06-26T00:00:00Z'
 description: Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought
   draws against Spain and Uruguay

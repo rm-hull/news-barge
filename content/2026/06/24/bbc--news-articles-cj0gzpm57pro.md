@@ -3,7 +3,7 @@ title: Banned swimmer's daughters to realise Commonwealth Games dream
 source_url: https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-24T00:00:00Z'
 description: Annette Cowley was not allowed to compete at the 1986 Games as she was
   caught in a political storm.

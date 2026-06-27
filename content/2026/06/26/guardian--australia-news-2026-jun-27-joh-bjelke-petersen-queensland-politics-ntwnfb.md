@@ -3,7 +3,7 @@ title: Here we Joh again? The spectre of Bjelke-Petersen still looms large over 
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/joh-bjelke-petersen-queensland-politics-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-26T00:00:00Z'
 description: The LNP’s unapologetic moves on Indigenous issues, crime, transgender
   healthcare and police-led suppression of protests are a throwback to days many thought

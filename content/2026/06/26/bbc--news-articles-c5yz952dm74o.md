@@ -3,7 +3,7 @@ title: Mahmood announces new refugee sponsorship route into UK
 source_url: https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-26T00:00:00Z'
 description: The home secretary says "capped safe and legal" routes would help to
   restore confidence in the asylum system.
@@ -15,7 +15,7 @@ description: The home secretary says "capped safe and legal" routes would help t
 
 The department said it would allow organisations like universities, community groups and businesses to sponsor refugees who applied to come to the UK, a model based on Canada's asylum system.
 
-The government also said it would press ahead with changes to how human rights and modern slavery laws are applied to asylum applications to root out** **what it described as "vexatious" claims.
+The government also said it would press ahead with changes to how human rights and modern slavery laws are applied to asylum applications to root out****what it described as "vexatious" claims.
 
 The Conservatives said no extra people should be let into the country until illegal immigration was stopped while Reform UK said it would reverse the scheme if elected to government.
 
@@ -35,11 +35,11 @@ The latest measures, announced on Friday night, draw on Canada's community spons
 
 In Canada, 70% of sponsored refugees find work within a year - 30% higher than those resettled through government schemes, according to the Home Office.
 
-The UK already has a relatively small number of refugees who are sponsored in communities under the UK Resettlement Scheme (UKRS), but the Home Office said the "vast majority"** **were supported by local councils.
+The UK already has a relatively small number of refugees who are sponsored in communities under the UK Resettlement Scheme (UKRS), but the Home Office said the "vast majority"****were supported by local councils.
 
 The government has been under pressure to reduce the number of asylum seekers being housed in hotels at the taxpayers' expense, while illegal small boat arrivals have also undermined public confidence in the asylum system.
 
-The new routes would allow a wider number of organisations to support those who arrive, including "trusted universities"** **and community groups such as churches - though the full scope of which groups would be accepted is unclear. 
+The new routes would allow a wider number of organisations to support those who arrive, including "trusted universities"****and community groups such as churches - though the full scope of which groups would be accepted is unclear. 
 
 These organisations would be responsible for providing support to refugees in finding housing and work.
 
@@ -49,7 +49,7 @@ A refugee work route is expected to open next year, allowing employers to sponso
 
 Applications for the university route is set to open later this year, with the first arrivals due to take place in 2027.
 
-The government did not say how many people would be allowed to arrive under the new routes, but said it would be capped and start from a low base -** **and would "operate at a much higher capacity" than UKRS once it is fully established.
+The government did not say how many people would be allowed to arrive under the new routes, but said it would be capped and start from a low base -****and would "operate at a much higher capacity" than UKRS once it is fully established.
 
 It also said the Home Office would control which organisations could provide sponsorship and that all applicants would be subject to strict checks.
 

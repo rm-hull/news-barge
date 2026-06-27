@@ -3,7 +3,7 @@ title: In Caracas, this feels like the hardest moment in Venezuela's modern hist
 source_url: https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:35Z'
 published: '2026-06-27T00:00:00Z'
 description: Rescue teams are working ceaselessly to reach those trapped under rubble.
   But as hope fades, anger is growing.
@@ -11,7 +11,7 @@ description: Rescue teams are working ceaselessly to reach those trapped under r
 
 - Published
 
-**Each morning that Venezuelans wake to the aftermath of the dual earthquakes, it is a little darker, a little grimmer. **
+**Each morning that Venezuelans wake to the aftermath of the dual earthquakes, it is a little darker, a little grimmer.**
 
 It means another night in which prayers for the miraculous recovery of missing loved ones went unanswered, in which the fitful sleep of the survivors is interrupted by nightmares of collapsed buildings and moments of sheer panic.
 

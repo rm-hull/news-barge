@@ -3,7 +3,7 @@ title: EU faces fierce criticism over plans to host Taliban in Brussels
 source_url: https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-23T00:00:00Z'
 description: Rights campaigners and MEPs say meeting would normalise regime that erases
   women from public life
@@ -11,7 +11,7 @@ description: Rights campaigners and MEPs say meeting would normalise regime that
 
 Rights campaigners and MEPs have warned that a meeting between EU officials and a Taliban delegation in Brussels risks normalising a regime that has banned girls from school beyond the sixth grade and sought to erase women from public life, while its ranks include two leaders accused of crimes against humanity.
 
-A** **spokesperson for the Afghan foreign ministry confirmed that a delegation representing the Taliban had travelled to Brussels after the Belgian foreign ministry issued five single-day visas.
+A****spokesperson for the Afghan foreign ministry confirmed that a delegation representing the Taliban had travelled to Brussels after the Belgian foreign ministry issued five single-day visas.
 
 It was the first time the EU had hosted the group since the Taliban’s return to power in 2021.
 

@@ -3,7 +3,7 @@ title: Why GTA 6 is launching without a disc - and what it says about gaming's f
 source_url: https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-26T00:00:00Z'
 description: Music and films are now largely digital-only - does the lack of a disc
   for GTA 6 mean gaming is going the same way?

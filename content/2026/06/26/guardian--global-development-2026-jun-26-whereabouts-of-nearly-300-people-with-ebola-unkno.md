@@ -3,7 +3,7 @@ title: Whereabouts of nearly 300 people with Ebola unknown in DR Congo
 source_url: https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:54Z'
+scraped_at: '2026-06-27T18:53:31Z'
 published: '2026-06-26T00:00:00Z'
 description: Fears over ‘huge community transmission’ as modelling predicts thousands
   of deaths in DRC by September

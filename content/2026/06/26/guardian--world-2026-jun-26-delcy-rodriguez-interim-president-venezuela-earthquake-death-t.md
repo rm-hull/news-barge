@@ -4,7 +4,7 @@ title: Venezuela quake death toll reaches 920 as interim president vows to save 
 source_url: https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-26T00:00:00Z'
 description: Delcy Rodríguez says foreign rescue teams are arriving as anger grows
   at official response and limited resources
@@ -18,7 +18,7 @@ Rodríguez’s brother, Jorge, the president of the national assembly, said on F
 
 United Nations aid chief Tom Fletcher told the AFP news agency that more than 50,000 people were missing after two powerful earthquakes struck within a minute of each other on Wednesday evening, flattening buildings in the north of the country.
 
-Volunteer searchers and the relatives of the many missing voiced exasperation and anger at the** **lack of an official response as they waited for government teams.
+Volunteer searchers and the relatives of the many missing voiced exasperation and anger at the****lack of an official response as they waited for government teams.
 
 Rotny Bombart, a 33-year-old paramedic, said he had spent five hours hunting for his mother, María Eugenia, in a collapsed tower block in La Guaira called OPP 33. “It has 15 floors. Or rather, it used to, because there’s nothing left of it now,” Bombart said after being treated at a public hospital in the capital, Caracas, for a gash to his right arm sustained during the search.
 

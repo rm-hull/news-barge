@@ -4,7 +4,7 @@ title: 'Meloni and Trump: A very public Italy-US fallout that is proving very ha
 source_url: https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-26T00:00:00Z'
 description: Italy's PM was not long ago being called the "Trump whisperer", but their
   relationship has gone from public attacks to personal insults.
@@ -12,7 +12,7 @@ description: Italy's PM was not long ago being called the "Trump whisperer", but
 
 - Published
 
-**There is an AI-generated meme doing the rounds on social media in Italy that shows Giorgia Meloni doing all the things you might expect from someone fresh out of a tough break-up. **
+**There is an AI-generated meme doing the rounds on social media in Italy that shows Giorgia Meloni doing all the things you might expect from someone fresh out of a tough break-up.**
 
 In one fake photo she has a new haircut; in others she is imagined booking herself on a singles' holiday, training for a marathon and creating a profile on a dating app.
 

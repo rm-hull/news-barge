@@ -3,7 +3,7 @@ title: What happened when I tried to report sexual assault to British Transport 
 source_url: https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-27T00:00:00Z'
 description: After reporting an incident, Esme Rice waited 13 hours for a response
   from the British Transport Police.

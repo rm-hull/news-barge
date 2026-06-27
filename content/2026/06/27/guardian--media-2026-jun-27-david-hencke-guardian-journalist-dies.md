@@ -4,7 +4,7 @@ title: David Hencke, Guardian journalist who exposed cash-for-questions scandal,
 source_url: https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:58Z'
+scraped_at: '2026-06-27T18:53:35Z'
 published: '2026-06-27T00:00:00Z'
 description: Former Westminster correspondent earned a reputation for uncovering political
   wrongdoing in the 1990s

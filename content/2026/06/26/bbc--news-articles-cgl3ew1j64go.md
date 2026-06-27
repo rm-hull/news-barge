@@ -3,7 +3,7 @@ title: Are festivals leaving neurodivergent fans behind? Some think so
 source_url: https://www.bbc.co.uk/news/articles/cgl3ew1j64go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-26T00:00:00Z'
 description: Some festivals are rolling out calm spaces and noise-cancelling headphones,
   but there are calls to go further.

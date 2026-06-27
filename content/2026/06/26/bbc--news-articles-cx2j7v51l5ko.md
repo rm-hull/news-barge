@@ -3,7 +3,7 @@ title: A non-stop London to Sydney flight is coming - could you handle it?
 source_url: https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-26T00:00:00Z'
 description: Some analysts say the first non-stop London to Sydney flight is a major
   milestone - but would you buy a ticket?

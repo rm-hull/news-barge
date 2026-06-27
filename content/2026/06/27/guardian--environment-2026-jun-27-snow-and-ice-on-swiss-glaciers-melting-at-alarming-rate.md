@@ -4,7 +4,7 @@ title: Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, ex
 source_url: https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Accumulation on Switzerland’s glaciers from last winter expected to all
   be gone by Monday amid ‘enormous’ melt rates across Alps

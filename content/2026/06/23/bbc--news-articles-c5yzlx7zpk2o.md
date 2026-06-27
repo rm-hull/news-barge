@@ -3,7 +3,7 @@ title: '''I''m 98 but I still do my 40 press-ups every day'''
 source_url: https://www.bbc.co.uk/news/articles/c5yzlx7zpk2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-23T00:00:00Z'
 description: Bill Kober, who lives in Woodbridge, is proving that age is just a number...
   one press-up at a time.

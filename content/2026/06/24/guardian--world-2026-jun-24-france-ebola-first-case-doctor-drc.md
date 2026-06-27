@@ -3,7 +3,7 @@ title: France confirms first Ebola case in doctor who had worked in DRC
 source_url: https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:54Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-24T00:00:00Z'
 description: French health ministry says patient’s contacts are being traced and that
   risk to European public is very low

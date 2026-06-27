@@ -3,7 +3,7 @@ title: The reality of trying to complete the 2026 World Cup sticker book
 source_url: https://www.bbc.co.uk/news/articles/c3eyv0v28gwo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-27T00:00:00Z'
 description: From car park meet ups to Facebook groups, how families try to complete
   the set on a budget.
@@ -11,7 +11,7 @@ description: From car park meet ups to Facebook groups, how families try to comp
 
 - Published
 
-**My name is Sophie, I'm a mum, and it's a little after midnight. My partner wants to turn off the light and go to sleep, but I'm still frantically typing on my phone. **
+**My name is Sophie, I'm a mum, and it's a little after midnight. My partner wants to turn off the light and go to sleep, but I'm still frantically typing on my phone.**
 
 Is it work or family problems keeping me up late?
 

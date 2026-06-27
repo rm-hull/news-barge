@@ -3,7 +3,7 @@ title: Children embrace Cornish language as it enjoys â€˜remarkable resurgenceâ€
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:58Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-27T00:00:00Z'
 description: Go Cornish Celebration engages younger generation as council finalises
   strategy to boost everyday use of Kernewek

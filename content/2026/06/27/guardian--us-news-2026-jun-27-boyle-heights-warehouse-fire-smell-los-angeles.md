@@ -4,7 +4,7 @@ title: '‘Like a dead body’: after warehouse fire, LA residents say air thick
 source_url: https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:58Z'
+scraped_at: '2026-06-27T18:53:35Z'
 published: '2026-06-27T00:00:00Z'
 description: Cleanup under way after week-long fire at a Boyle Heights facility spoiled
   tens of millions of pounds of frozen food

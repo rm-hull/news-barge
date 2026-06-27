@@ -4,7 +4,7 @@ title: '‘Chock full of incredible animals’: marine expedition uncovers 31 ne
 source_url: https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:32Z'
 published: '2026-06-26T00:00:00Z'
 description: Experts worked in ocean midwater off Brazil at near-record speeds thanks
   to cutting-edge tech

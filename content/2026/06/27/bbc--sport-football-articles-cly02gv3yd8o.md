@@ -3,7 +3,7 @@ title: 'World Cup 2026: Scouting Panama - what England can expect'
 source_url: https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:02Z'
+scraped_at: '2026-06-27T18:53:39Z'
 published: '2026-06-27T00:00:00Z'
 description: Panama's results do not paint a true picture of their performances in
   the World Cup so far - so what can England expect from them?
@@ -11,7 +11,7 @@ description: Panama's results do not paint a true picture of their performances 
 
 - Published
 
-**With four points from two games, England will hope to seal top spot in their World Cup group with victory on Saturday against Panama. **
+**With four points from two games, England will hope to seal top spot in their World Cup group with victory on Saturday against Panama.**
 
 The Central American side are a relatively unknown quantity, but they are an exciting team whose results do not paint a true picture of their performances in the tournament.
 

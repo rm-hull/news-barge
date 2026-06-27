@@ -4,14 +4,12 @@ title: 'Austrian Grand Prix: George Russell grabs pole from Charles Leclerc afte
 source_url: https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:02Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-27T00:00:00Z'
 description: Mercedes driver George Russell controversially steals pole position at
   the Austrian Grand Prix from Ferrari's Charles Leclerc with the last lap of the
   session.
 ---
-
-- Published
 
 **Mercedes driver George Russell controversially snatched pole position at the Austrian Grand Prix from Ferrari's Charles Leclerc with the last lap of the session.**
 

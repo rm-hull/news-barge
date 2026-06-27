@@ -4,7 +4,7 @@ title: 'Europe heatwave: drought fears in Italy as records tumble around Europe 
 source_url: https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Temperature records broken in Germany, Denmark and Slovakia as Europe
   remains gripped by heatwave

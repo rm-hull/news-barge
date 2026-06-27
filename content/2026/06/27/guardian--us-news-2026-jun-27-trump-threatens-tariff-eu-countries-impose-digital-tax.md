@@ -3,7 +3,7 @@ title: Trump threatens 100% tariff on European countries that impose digital tax
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: US president says levy would be imposed immediately and supersede pre-existing
   trade deals with the country

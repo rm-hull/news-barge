@@ -4,7 +4,7 @@ title: Xi Jinping has hosted more than a dozen leaders this year, as ‘middle p
 source_url: https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:55Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-26T00:00:00Z'
 description: China’s leader wants to promote his alternative to the current world
   order, and his efforts are being assisted by a capricious US

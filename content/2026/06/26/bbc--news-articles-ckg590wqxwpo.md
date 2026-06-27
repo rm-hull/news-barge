@@ -3,7 +3,7 @@ title: US strikes Iran after attack on cargo ship
 source_url: https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-26T00:00:00Z'
 description: Iran accuses the US of violating their deal and says it struck targets
   linked to American forces in response.
@@ -11,7 +11,7 @@ description: Iran accuses the US of violating their deal and says it struck targ
 
 - Published
 
-**The US military has conducted strikes on Iranian targets after President Donald Trump accused Iran of a "foolish violation" of its truce following an attack on a cargo ship in the Strait of Hormuz. **
+**The US military has conducted strikes on Iranian targets after President Donald Trump accused Iran of a "foolish violation" of its truce following an attack on a cargo ship in the Strait of Hormuz.**
 
 US Central Command said it had struck missile and drone storage facilities and coastal radar positions on Friday, in response to a drone attack on a cargo ship on Thursday which halted a planned evacuation of sailors stuck in the region.
 

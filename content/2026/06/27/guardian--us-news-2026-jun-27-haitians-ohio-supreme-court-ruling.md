@@ -3,7 +3,7 @@ title: '‘It’s just so wrong’: Haitians in Ohio reel from supreme court TPS
 source_url: https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:58Z'
+scraped_at: '2026-06-27T18:53:35Z'
 published: '2026-06-27T00:00:00Z'
 description: After outrageous insults from Donald Trump, Haitians have helped to revive
   Springfield – now their future is uncertain

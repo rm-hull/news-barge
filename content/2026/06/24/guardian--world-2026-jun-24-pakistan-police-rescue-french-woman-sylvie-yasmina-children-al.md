@@ -4,7 +4,7 @@ title: Pakistan police rescue French woman and children allegedly held captive b
 source_url: https://www.theguardian.com/world/2026/jun/24/pakistan-police-rescue-french-woman-sylvie-yasmina-children-allegedly-held-captive-husband
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-24T00:00:00Z'
 description: Husband arrested after Sylvie Yasmina, 54, and five children found at
   home in north-western province

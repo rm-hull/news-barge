@@ -3,7 +3,7 @@ title: JD Vance claims US holds all the cards in Iran and will win ‘either way
 source_url: https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-27T00:00:00Z'
 description: Vice-president appeared on Bill Maher’s show hours before more military
   strikes were exchanged in strait of Hormuz
@@ -35,7 +35,7 @@ He offered Iran an olive branch. “If they are willing to give up nuclear weapo
 
 “If they’re willing to change, we’re willing to change too; if they’re not willing to change, we still fundamentally have all the cards and I think that’s a good place to be.”
 
-Vance’s media appearance comes two days after he visited the Nixon Presidential Library and Museum in California, where he appeared to defend Nixon – who is celebrated by Republicans for negotiating landmark nuclear arms control deals with the Soviet Union – for the Watergate break-in scandal that ended his presidency.
+Vance’s media appearance comes two days after he visited the Richard Nixon presidential library and museum in California, where he appeared to defend Nixon – who is celebrated by Republicans for negotiating landmark nuclear arms control deals with the Soviet Union – for the Watergate break-in scandal that ended his presidency.
 
 “I think that his historical legacy is enjoying a bit of a renaissance – but I think deservedly so,” Vance said of Nixon, who also opened diplomatic relations with communist China and formed a Republican party allegiance with working-class Americans. “If Watergate happened tomorrow, it would be like a 12-hour news story. Like, the idea that it would have taken down a presidency is crazy.”
 

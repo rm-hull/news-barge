@@ -4,7 +4,7 @@ title: '‘I’m missing out’: the cash-strapped UK university students forced
 source_url: https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:58Z'
+scraped_at: '2026-06-27T18:53:34Z'
 published: '2026-06-27T00:00:00Z'
 description: Experts say students from poorer backgrounds increasingly having to limit
   their options because of money worries

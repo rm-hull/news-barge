@@ -3,7 +3,7 @@ title: 'Wimbledon 2026: Emma Raducanu cuts short her practice at the All England
 source_url: https://www.bbc.co.uk/sport/tennis/articles/cwylp9qjn9jo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-27T00:00:00Z'
 description: Emma Raducanu's chances of being fit for Wimbledon look to be in considerable
   doubt after the Briton cut short her practice on Saturday.

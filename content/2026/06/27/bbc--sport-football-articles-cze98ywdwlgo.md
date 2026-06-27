@@ -3,7 +3,7 @@ title: 'World Cup 2026: Iran say they have been treated unfairly by USA'
 source_url: https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-27T00:00:00Z'
 description: Iran coach Amir Ghalenoei says his nation have been treated unfairly
   by the United States during the World Cup

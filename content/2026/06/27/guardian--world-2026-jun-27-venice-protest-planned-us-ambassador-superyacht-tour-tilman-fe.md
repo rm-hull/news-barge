@@ -3,7 +3,7 @@ title: Venice protest planned for US ambassador’s superyacht visit
 source_url: https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:57Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Activists aim to repeat disruption for Jeff Bezos’ wedding when billionaire
   Tilman Fertitta drops anchor

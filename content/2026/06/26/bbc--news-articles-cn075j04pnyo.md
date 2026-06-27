@@ -3,7 +3,7 @@ title: The people leaving the West behind in search of the Russian dream
 source_url: https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-26T00:00:00Z'
 description: The BBC asks Westerners who moved to Russia if life there lives up to
   expectations.

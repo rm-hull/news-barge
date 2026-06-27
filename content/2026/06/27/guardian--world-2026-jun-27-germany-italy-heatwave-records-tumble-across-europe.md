@@ -3,7 +3,7 @@ title: Germany and Italy swelter in heatwave as records tumble across Europe
 source_url: https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T16:19:56Z'
+scraped_at: '2026-06-27T18:53:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Denmark experiences highest temperature on record on Saturday as weather
   system spreads eastward

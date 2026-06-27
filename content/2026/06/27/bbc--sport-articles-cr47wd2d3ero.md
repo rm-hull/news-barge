@@ -3,7 +3,7 @@ title: 'World Cup 2026: Who are the Panama players England need to look out for?
 source_url: https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:19:59Z'
+scraped_at: '2026-06-27T18:53:36Z'
 published: '2026-06-27T00:00:00Z'
 description: BBC Sport analyses the key players for Panama who will be aiming to cause
   a World Cup upset against England in their final Group L fixture.
@@ -11,7 +11,7 @@ description: BBC Sport analyses the key players for Panama who will be aiming to
 
 - Published
 
-**Panama's second World Cup is in danger of finishing the same way as their first in 2018, when they lost all three group games - including 6-1 against England. **
+**Panama's second World Cup is in danger of finishing the same way as their first in 2018, when they lost all three group games - including 6-1 against England.**
 
 A sixth-straight World Cup defeat on Saturday would equal the longest 100% losing record in the tournament's history.
 
@@ -81,7 +81,7 @@ It stems from his upbringing in a tough neighbourhood in Colon; Murillo worked o
 
 ## Cecilio Waterman
 
-**Club:** Universidad de Concepcion, Chile **Age:** 35 **Position:** Forward** Caps:** 57 **Goals:** 15
+**Club:** Universidad de Concepcion, Chile **Age:** 35 **Position:** Forward**Caps:** 57 **Goals:** 15
 
 The veteran forward became known to a wider audience last year after celebrating his stoppage-time winner against the USA in the Concacaf Nations League by climbing on to a TV studio platform and embracing his idol,, external Thierry Henry.
 

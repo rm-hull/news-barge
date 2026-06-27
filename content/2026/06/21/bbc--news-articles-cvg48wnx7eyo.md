@@ -3,7 +3,7 @@ title: We host strangers for dinner every month - now we have 60 new friends
 source_url: https://www.bbc.co.uk/news/articles/cvg48wnx7eyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T16:20:00Z'
+scraped_at: '2026-06-27T18:53:37Z'
 published: '2026-06-21T00:00:00Z'
 description: After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creative
   way to make new friends - a monthly dinner party with strangers.
@@ -11,7 +11,7 @@ description: After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creati
 
 - Published
 
-**Making friends in adulthood can be difficult, especially after moving across the world to a new city. **
+**Making friends in adulthood can be difficult, especially after moving across the world to a new city.**
 
 When Nidhi Pal, 38, and Vik Parashar, 46, moved from India to Belfast, they found, while people were warm and friendly, building lasting connections was difficult.
 
