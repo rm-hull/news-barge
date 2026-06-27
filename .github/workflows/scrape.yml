@@ -41,17 +41,17 @@ jobs:
           enable-cache: true
           cache-dependency-glob: "scraper/uv.lock"
 
-      - name: Install dependencies
-        working-directory: ./scraper
-        run: |
-          uv sync
-          uv run playwright install --with-deps chromium
-
       - name: Cache Playwright browsers
         uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ hashFiles('scraper/uv.lock') }}
+
+      - name: Install dependencies
+        working-directory: ./scraper
+        run: |
+          uv sync
+          uv run playwright install --with-deps chromium
 
       - name: Run scraper
         working-directory: ./scraper
