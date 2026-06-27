@@ -339,6 +339,7 @@ def process_article(
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
+        "thumbnail": meta.image if meta else None,
     }
 
     path = output_path(site_slug, slug, file_date)

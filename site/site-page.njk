@@ -15,13 +15,21 @@ permalink: /sites/{{ group }}/
   <ul class="article-list">
     {% for article in siteArticles %}
     <li class="article-card">
-      <time datetime="{{ article.data.published }}">{{ article.data.published | readableDate }}</time>
-      <h2 class="article-card-title">
-        <a href="{{ article.url }}">{{ article.data.title }}</a>
-      </h2>
-      {% if article.data.description %}
-      <p class="article-card-deck">{{ article.data.description }}</p>
-      {% endif %}
+      <div class="article-card-thumbnail">
+        {% if article.data.thumbnail %}
+        <img src="{{ article.data.thumbnail }}" alt="{{ article.data.title }}" loading="lazy">
+        {% endif %}
+      </div>
+      <div class="article-card-content">
+        <time datetime="{{ article.data.published }}">{{ article.data.published | readableDate }}</time>
+        <h2 class="article-card-title">
+          <a href="{{ article.url }}">{{ article.data.title }}</a>
+        </h2>
+        {% if article.data.description %}
+        <p class="article-card-deck">{{ article.data.description }}</p>
+        {% endif %}
+      </div>
+    </li>
     </li>
     {% endfor %}
   </ul>
