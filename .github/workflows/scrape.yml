@@ -39,7 +39,7 @@ jobs:
         uses: astral-sh/setup-uv@v8.2.0
 
       - name: Cache Playwright browsers
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ hashFiles('scraper/scrape.py') }}
