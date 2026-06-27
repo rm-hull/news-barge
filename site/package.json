@@ -1,7 +1,7 @@
 {
   "name": "news-barge-site",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "prestart": "ln -sf ../content content",
     "prebuild": "ln -sf ../content content",
