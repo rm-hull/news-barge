@@ -1,3 +1,12 @@
+---
+name: scrape-analyzer
+description: >
+  A disciplined methodology for identifying the correct `listing_class` and `listing_link_pattern` 
+  for new sites added to the `sites.yaml` configuration. Use this skill whenever the user asks to 
+  analyse, check, or report on a particular URL that looks like it might be a news website. Trigger
+  on phrases like "analyse this URL", "check site https://news.bbc.co.uk", 
+---
+
 # Scrape Analyzer Skill
 
 This skill provides a disciplined methodology for identifying the correct `listing_class` and `listing_link_pattern` for new sites added to the `sites.yaml` configuration.
