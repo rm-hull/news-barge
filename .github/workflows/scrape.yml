@@ -2,8 +2,7 @@ name: Scrape and publish
 
 on:
   schedule:
-    # Run every day at 07:00 UTC
-    - cron: "0 7 * * *"
+    - cron: "11 */4 * * *"
   workflow_dispatch:
     inputs:
       site:
@@ -11,6 +10,10 @@ on:
         required: false
       dry_run:
         description: "Dry run (no commits)"
+        type: boolean
+        default: false
+      force:
+        description: "Force overwrite if article already exists"
         type: boolean
         default: false
 
@@ -62,6 +65,9 @@ jobs:
           fi
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
           fi
           uv run scrape.py $ARGS
 
