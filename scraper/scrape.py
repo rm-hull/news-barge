@@ -1,13 +1,3 @@
-#!/usr/bin/env -S uv run --script
-# /// script
-# dependencies = [
-#   "feedparser",
-#   "playwright",
-#   "pyyaml",
-#   "trafilatura",
-# ]
-# ///
-
 """
 news-barge/scraper/scrape.py
 

@@ -46,7 +46,6 @@ jobs:
 
       - name: Install Playwright browsers
         run: |
-          uv add playwright
           uv run playwright install --with-deps chromium
 
       - name: Run scraper

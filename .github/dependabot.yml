@@ -8,9 +8,13 @@ updates:
   - package-ecosystem: npm
     directory: /site
     schedule:
-      interval: daily
+      interval: weekly
     versioning-strategy: increase
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: daily
+      interval: weekly
+  - package-ecosystem: "uv"
+    directory: "/scraper"
+    schedule:
+      interval: weekly
