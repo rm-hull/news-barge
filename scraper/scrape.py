@@ -62,6 +62,7 @@ def url_to_slug(url: str) -> str:
     short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
     return short
 
+
 def clean_markdown_formatting(text: str) -> str:
     """
     Fixes markdown markers that have trailing spaces.
@@ -69,29 +70,41 @@ def clean_markdown_formatting(text: str) -> str:
     """
     if not text:
         return ""
-    
+
     def replace_marker(match):
         marker = match.group(1)
         content = match.group(2).strip()
         return f"{marker}{content}{marker}"
-    
+
     # Matches **bold** or *italic* with optional trailing space before the closing marker
     return re.sub(r"(\*\*|\*)([^*]+?)\s*(\1)", replace_marker, text)
+
+
 def linkify_text(text: str) -> str:
     if not text:
         return ""
-    # URL regex: handles http, https, and common domain patterns
-    url_pattern = r"(https?://[^\s\)]+)"
-    # Email regex
-    email_pattern = r"([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"
-    
-    # Linkify URLs
-    text = re.sub(url_pattern, r"[\1](\1)", text)
-    # Linkify Emails
-    text = re.sub(email_pattern, r"[\1](mailto:\1)", text)
-    
-    return text
 
+    # Regex for Markdown images: ![alt](url)
+    # We want to identify them so we don't linkify the URL inside.
+    # We'll use a substitution function to handle images vs URLs.
+    pattern = r"(!\[.*?\]\(https?://[^\s\)]+\))|(https?://[^\s\)]+)|([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"
+    excluded_imgs = ["placeholder image", "google preferred source"]
+
+    def replace(match):
+        img, url, email = match.groups()
+        if img:
+            # Check if it's a placeholder image (case-insensitive check for 'placeholder')
+            for excluded in excluded_imgs:
+                if excluded.lower() in img.lower():
+                    return ""
+            return img
+        if url:
+            return f"[{url}]({url})"
+        if email:
+            return f"[{email}](mailto:{email})"
+        return match.group(0)
+
+    return re.sub(pattern, replace, text)
 
 
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
@@ -207,32 +220,49 @@ def urls_from_feed(feed_url: str, limit: int) -> list[str]:
     return urls
 
 
-def urls_from_listing(listing_url, pattern, limit, use_playwright, listing_class=None, resolve_relative_to_root=False):
-    html = fetch_html_playwright(listing_url) if use_playwright else fetch_html_requests(listing_url)
+def urls_from_listing(
+    listing_url,
+    pattern,
+    limit,
+    use_playwright,
+    listing_class=None,
+    resolve_relative_to_root=False,
+):
+    html = (
+        fetch_html_playwright(listing_url)
+        if use_playwright
+        else fetch_html_requests(listing_url)
+    )
     if not html:
         return []
 
     tree = lxml_html.fromstring(html)
-    
+
     if listing_class:
         # Find all elements with the specified class, then find all <a> tags within them
-        links = tree.xpath(f"//*[contains(concat(' ', normalize-space(@class), ' '), ' {listing_class} ')]//a[@href]")
+        links = tree.xpath(
+            f"//*[contains(concat(' ', normalize-space(@class), ' '), ' {listing_class} ')]//a[@href]"
+        )
     else:
         links = tree.xpath("//a[@href]")
 
     parsed_base = urlparse(listing_url)
     root_url = f"{parsed_base.scheme}://{parsed_base.netloc}/"
-    
+
     urls = []
     for link in links:
         href = link.get("href")
-        
+
         # If resolve_relative_to_root is True and the link is relative (no leading slash, no scheme)
-        if resolve_relative_to_root and href and not href.startswith(("/", "http", "mailto", "tel")):
+        if (
+            resolve_relative_to_root
+            and href
+            and not href.startswith(("/", "http", "mailto", "tel"))
+        ):
             full_url = urljoin(root_url, href)
         else:
             full_url = urljoin(listing_url, href)
-            
+
         if pattern:
             if re.search(pattern, full_url):
                 urls.append(full_url)
@@ -257,7 +287,9 @@ def urls_from_listing(listing_url, pattern, limit, use_playwright, listing_class
 # ---------------------------------------------------------------------------
 
 
-def process_article(url: str, site: dict, dry_run: bool = False) -> bool:
+def process_article(
+    url: str, site: dict, dry_run: bool = False, force: bool = False
+) -> bool:
     slug = url_to_slug(url)
     site_slug = site["slug"]
     use_playwright = site.get("force_playwright", False)
@@ -274,6 +306,7 @@ def process_article(url: str, site: dict, dry_run: bool = False) -> bool:
         url=url,
         output_format="markdown",
         include_comments=False,
+        include_images=True,
         include_tables=True,
         favor_precision=True,
         config=TRAFILATURA_CONFIG,
@@ -310,7 +343,7 @@ def process_article(url: str, site: dict, dry_run: bool = False) -> bool:
 
     path = output_path(site_slug, slug, file_date)
 
-    if path.exists():
+    if path.exists() and not force:
         print(f"  · already exists, skipping: {path.name}")
         return False
 
@@ -337,6 +370,9 @@ def main():
     parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
     parser.add_argument("--dry-run", action="store_true", help="Don't write files")
     parser.add_argument("--site", help="Only process this slug")
+    parser.add_argument(
+        "--force", action="store_true", help="Force regeneration of existing files"
+    )
     args = parser.parse_args()
 
     sites = load_sites()
@@ -368,7 +404,12 @@ def main():
             listing_class = site.get("listing_class")
             resolve_relative_to_root = site.get("resolve_relative_to_root", False)
             listing_urls = urls_from_listing(
-                site["listing_url"], pattern, limit, use_playwright, listing_class, resolve_relative_to_root
+                site["listing_url"],
+                pattern,
+                limit,
+                use_playwright,
+                listing_class,
+                resolve_relative_to_root,
             )
             urls = listing_urls + urls
 
@@ -377,7 +418,7 @@ def main():
             continue
 
         for url in urls:
-            ok = process_article(url, site, dry_run=args.dry_run)
+            ok = process_article(url, site, dry_run=args.dry_run, force=args.force)
             if ok:
                 total_new += 1
 
