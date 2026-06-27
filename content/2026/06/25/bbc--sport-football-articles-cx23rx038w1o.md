@@ -1,0 +1,62 @@
+---
+title: 'Scotland at the World Cup: What do Scotland need to qualify for knockouts?'
+source_url: https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-06-27T16:19:59Z'
+published: '2026-06-25T00:00:00Z'
+description: Defeat against Brazil left Scotland in a precarious position, but little
+  has gone their way since either.
+---
+
+- Published
+
+**In just over 48 hours, Scotland's chances of reaching the World Cup knockouts for the first time have dropped from 42% to just 0.07%****.**
+
+They require four teams to finish third in their groups but have a worse record than them - and results elsewhere have not helped Steve Clarke's side's hopes.
+
+Losing 3-0 to Brazil in their final group-stage game dealt a substantial blow to their chances as they only managed to pick up three points from the group stage, whereas four would likely have sent them through.
+
+Worse is the impact of the extent of their defeat. It has left Scotland with a goal difference of -3, which makes it trickier for them to finish with a better record than many other third-placed sides.
+
+## What has changed and how could Scotland still progress?
+
+First, South Africa beat South Korea 1-0 to snatch one of the top two places in their group, meaning South Korea - who have a better goal difference than Scotland - dropped to third.
+
+After that, Ecuador produced an unexpected 2-1 victory over Germany to finish third in their group with four points and seal a spot in the last 32.
+
+Sweden then held Japan to a 1-1 draw, also qualifying from third place with four points.
+
+Scotland were down to an 6.89% chance of qualification after that, according to Opta, which decreased to 5.26% after Paraguay played out a stalemate with Australia which suited both sides.
+
+Uruguay losing to Spain was some rare good news but Iran's draw with Egypt leaves them with just a 0.07% chance of progressing.
+
+Those results leave Scotland sitting 10th out of the 12 current third-placed sides and on the brink of missing out on a knockout spot.
+
+If teams in the third-place standings finish level on points, the rankings are then decided by goal difference.
+
+There are now only three groups left to be completed, and Scotland need numerous results to go in their favour.
+
+They need Austria to beat Algeria by at least two goals, or for Algeria to win by four goals or more.
+
+They also need Ghana to defeat Croatia by three goals or more and either DR Congo and Uzbekistan to draw, or for the latter to win by a maximum of three goals.
+
+## What results do Scotland need to qualify?
+
+There are three groups left to play, and Scotland need four third-placed teams to have a worse record than them.
+
+It means they need these scenarios to play out:
+
+**SATURDAY**
+
+**Group L: **Croatia to lose to Ghana by at least three goals.
+
+**SUNDAY:**
+
+**Group K: **DR Congo v Uzbekistan to be a draw.
+
+Or Uzbekistan to win by no more than three goals.
+
+**Group J:** Austria and Algeria are on three points and a draw would send both through.
+
+Scotland need Algeria to lose by two or more goals, or Austria to be beaten by at least four goals.
