@@ -3,11 +3,15 @@ title: PICTURES - New Mediterranean bar and restaurant opens in York city centre
 source_url: https://www.yorkpress.co.uk/news/26233136.mediterranean-bar-restaurant-vermillion-goodramgate/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:22Z'
+scraped_at: '2026-06-27T20:55:35Z'
 published: '2026-06-27T00:00:00Z'
 description: A new restaurant which strives to unite the countries in the Mediterranean
   under one roof has opened its doors in a busy York street.
 ---
+
+## PICTURES - New Mediterranean bar and restaurant opens in York city centre
+
+The bar *(Image: Alice Kavanagh)*
 
 A NEW restaurant which strives to unite the countries in the Mediterranean under one roof has opened its doors in a busy York street.
 
@@ -28,6 +32,9 @@ He said: "There was five or six layers of fake bricks and the ceiling was full o
 
 Bilal added that the name Vermillion was inspired by the reddish and orange colours of the bricks uncovered during the renovation.
 
+  Some of the original 'Vermillion' brick 
+
+*(Image: Alice Kavanagh)*
 
 Open all day, they currently offer dinner and lunch service, with plans to introduce brunch soon, featuring both Mediterranean and more classic options including Turkish breakfast, Greek breakfast, and eggs benedict.
 
@@ -35,11 +42,17 @@ On an evening, they offer a selection of small plates and larger fishes includin
 
 Bilal said: "We really invested in the place - beautiful cocktails, good wines from all around the world, quality service, and a professional team.
 
+  Bilal behind the bar 
+
+*(Image: Alice Kavanagh)*
 
 "We have some really nice dishes from all over the Mediterranean: a bit of Greece, a bit of Spain, a bit of Turkey. We want to bring the countries together.
 
 "When you go to the coast in those countries there are always little places to share food, so that’s what we wanted to create here.
 
+  A spicy margarita 
+
+*(Image: Alice Kavanagh)*
 
 "Nothing too big, just enough to please people, and everything fresh. We want everyone who comes in to feel happy, and for that feeling to last when they leave.
 

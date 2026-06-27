@@ -4,7 +4,7 @@ title: Voters in Yorkshire would reject MPs who back the ‘holiday tax’, majo
 source_url: https://www.harrogate-news.co.uk/2026/05/07/voters-in-yorkshire-would-reject-mps-who-back-the-holiday-tax-major-poll-shows/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:02Z'
+scraped_at: '2026-06-27T20:47:54Z'
 published: '2026-05-07T00:00:00Z'
 description: Over half (54%) of people in Yorkshire oppose the Government’s proposed
   holiday tax, according to a major new poll of over 10,000 adults across Great Britain,

@@ -3,11 +3,15 @@ title: Mahmood announces new refugee sponsorship route into UK
 source_url: https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-26T00:00:00Z'
 description: The home secretary says "capped safe and legal" routes would help to
   restore confidence in the asylum system.
 ---
+
+![Female campaigners hols up a 'refugees welcome' sign in front of St Paul's Cathedral in London.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg)
+
+Voluntary and community groups will be permitted to sponsor refugees to come to the UK from the autumn
 
 - Published
 
@@ -39,6 +43,10 @@ The UK already has a relatively small number of refugees who are sponsored in co
 
 The government has been under pressure to reduce the number of asylum seekers being housed in hotels at the taxpayers' expense, while illegal small boat arrivals have also undermined public confidence in the asylum system.
 
+![Shabana Mahmood, UK home secretary, arrives for a cabinet meeting at 10 Downing Street in London in a pink dress with a navy blazer, while holding a red box and smiling. Green foliage is seen behind her.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7316/live/e6b189b0-71ff-11f1-a031-6f45322bb16f.jpg)
+
+Home Secretary Shabana Mahmood says the new system would protect genuine refugees fleeing war and persecution
+
 The new routes would allow a wider number of organisations to support those who arrive, including "trusted universities"****and community groups such as churches - though the full scope of which groups would be accepted is unclear. 
 
 These organisations would be responsible for providing support to refugees in finding housing and work.
@@ -61,6 +69,10 @@ Zia Yusuf, Reform UK's home affairs spokesman, said the scheme was not in the La
 
 Max Wilkinson, Liberal Democrat home affairs spokesman, said the plan was a "step in the right direction" but more work was needed to stop small boat arrivals.
 
+![Life vests are thrown back to the French Navy by the UK border force after a 'small boat' crossing on April 27, 2026 in Dover, England. A large Border Force boat is positioned next to a smaller boat in the open sea.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ff14/live/87a56e70-71f8-11f1-9e90-3ff6dfd27be0.jpg)
+
+The government has been under pressure to create more safe and legal routes to the UK to help prevent small boat crossings
+
 The Community Sponsorship Alliance wants the government to let local people and communities decide who they will sponsor under the new scheme.
 
 "We urge the government not to draw eligibility criteria so narrowly that it stifles the very public goodwill that makes sponsorship work," the group's deputy chair Leonie Ansems De Vries said.
@@ -76,3 +88,9 @@ This latest announcement on UK asylum policy came as the home secretary clashed 
 He used a Times article to argue foreign care workers should be exempt from the home secretary's plans to change visa rules for migrants already living in the UK in the upcoming immigration bill.
 
 Mahmood requested that Tapp be sacked but was rebuffed by Prime Minister Sir Keir Starmer.
+
+![An airport corridor with the words 'International Arrivals' printed in large black letters onto a white wall. A man can be seen walking in front of the sign with a wheeled suitcase, beige trousers and a dark jacket, but he is slightly blurred to indicate the fact he is moving quickly.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3652/live/46d59fa0-54f2-11f1-8285-a5e1daabf896.jpg) 
+- Published1 day ago
+ ![A young person wearing a baseball cap and a backpack and carrying a suitcase stands in the middle of the image. To the left of the image a passport with a boarding card is held up. To the right of the image is a migrant family of a man, woman and child on a beach, walking. In the top right corner is a partial view of a UK visa document](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png) 
+![An overloaded dinghy in the English Channel](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/00a7/live/12a521d0-504a-11f1-a712-bdb9a88fa140.jpg) 
+![Angela Rayner wearing a mauve blazer against a red background. She has long auburn hair and a fringe.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e674/live/a084ab40-92c0-11ef-9eb1-ddc029b578ae.jpg)

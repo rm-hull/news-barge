@@ -3,13 +3,15 @@ title: Four Ripon Grammar School students selected to represent North Yorkshire
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/four-ripon-grammar-school-students-selected-to-represent-north-yorkshire/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:35Z'
+scraped_at: '2026-06-27T20:49:08Z'
 published: '2026-06-24T00:00:00Z'
 description: Four Ripon Grammar School students being selected to represent North
   Yorkshire at one of the country’s most prestigious national championships.
 ---
 
-Four Ripon Grammar School students being selected to represent North Yorkshire at one of the country’s most prestigious national championships.
+![](https://mmo.aiircdn.com/409/6a3c48b4c1389090b5f.jpg) 
+
+                                    Four Ripon Grammar School students being selected to represent North Yorkshire at one of the country’s most prestigious national championships.
 
 Pip Robinson, Holly Nash and Beth Takieddine will all compete at the English Schools’ Track and Field Championships in Birmingham on July 10th and 11th, after outstanding performances throughout the season.
 

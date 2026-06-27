@@ -3,7 +3,7 @@ title: York College basketball team crowned league champions | Harrogate Informe
 source_url: https://www.harrogate-news.co.uk/2026/05/04/york-college-basketball-team-crowned-league-champions/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:13Z'
+scraped_at: '2026-06-27T20:48:03Z'
 published: '2026-05-04T00:00:00Z'
 description: York College have been crowned the AoC (Association of Colleges) Yorkshire
   & Humber Basketball Men’s League Two champions.
@@ -14,9 +14,15 @@ York College have been crowned the AoC (Association of Colleges) Yorkshire & Hum
 The class of 2025/26 won 13 of their 14 league games and, during a stellar season, also reached the last 16 of the National AoC Championships for a second successive season before being knocked out by Loughborough College.
 
 
+![the game between the 2025/26 team and the Alumnus All-Stars](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Basketball-3.webp)
+
 
 Their success represents a remarkable achievement for a team that, in four years, has grown from a squad of just seven to a roster of 16 players who train up to three games a week and play fixtures every Wednesday afternoon as part of the college’s Basketball Development Centre.
 
+![the game between the 2025/26 team and the Alumnus All-Stars](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Basketball-2.webp)
+
+
+![The game between the 2025/26 team and the Alumnus All-Stars](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Basketball-6.webp)
 
 
 The players participate in analysis sessions and team exercises, too, alongside their studies on campus under the watchful eye of coach Tyler Paton-Pottage – a former York College student and basketball player himself who coaches at York Eagles and was named Basketball England’s Player Development Coach of the Year for Yorkshire last month.

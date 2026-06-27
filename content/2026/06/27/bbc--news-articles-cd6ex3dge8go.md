@@ -3,11 +3,15 @@ title: 'Chertsey: Man charged with rape and murder after death of girl aged 2'
 source_url: https://www.bbc.co.uk/news/articles/cd6ex3dge8go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-27T00:00:00Z'
 description: Kevin Kerjean, 31, remains in custody after the body of a two-year-old
   was found on Thursday.
 ---
+
+![Flowers left at the entrance to a flat.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ad4b/live/52edf3f0-714e-11f1-8836-a15622d321c0.jpg)
+
+Floral tributes have been left at the scene in Chertsey
 
 - Published
 
@@ -33,4 +37,4 @@ On Thursday, several bouquets of flowers were left at the entrance to Syward Pla
 
 "We would like to thank them for their cooperation as we conduct our investigation."
 
-*Follow BBC Surrey on **Facebook*, external*, on **X*, external*. Send your story ideas to **[southeasttoday@bbc.co.uk](mailto:southeasttoday@bbc.co.uk) *, external *or WhatsApp us on 08081 002250.*
+*Follow BBC Surrey on**Facebook*, external*, on**X*, external*. Send your story ideas to**[southeasttoday@bbc.co.uk](mailto:southeasttoday@bbc.co.uk)*, external *or WhatsApp us on 08081 002250.*

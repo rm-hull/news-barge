@@ -3,12 +3,16 @@ title: Energy bills news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/energy-bills/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:23:33Z'
+scraped_at: '2026-06-27T20:55:44Z'
 published: '2026-01-01T00:00:00Z'
 description: Energy bills news, features and opinion in and around Press | York Press
 ---
 
-# Energy bills
+![Martin Lewis from Money Saving Expert](https://www.yorkpress.co.uk/resources/images/320x200/1x/21102814.jpg) 
+
+    
+        
+        # Energy bills
 
 Loading...
 

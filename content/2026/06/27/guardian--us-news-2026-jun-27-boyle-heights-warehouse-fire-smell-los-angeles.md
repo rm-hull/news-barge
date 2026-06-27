@@ -4,7 +4,7 @@ title: '‘Like a dead body’: after warehouse fire, LA residents say air thick
 source_url: https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:42:02Z'
 published: '2026-06-27T00:00:00Z'
 description: Cleanup under way after week-long fire at a Boyle Heights facility spoiled
   tens of millions of pounds of frozen food
@@ -24,9 +24,13 @@ Vasquez’s health issues aren’t what worries him now, he said. It’s what wi
 
 In the aftermath of the fire, the millions of gallons of water used to fight the flames had created a steady stream polluted with debris, burnt insulation foam and bags of once-frozen food items.
 
+![spoiled food packages on ground outside in rubble](https://i.guim.co.uk/img/media/d231204efc62b375ff652669eb85e796bbe60011/386_0_5992_4794/master/5992.jpg?width=445&dpr=1&s=none&crop=none)
+
 With the fire extinguished, cleanup operations are now the responsibility of the private property’s owner and Lineage Logistics, a cold-storage company that leases the space. Lineage said in a statement on Friday it had hired a cleanup firm to handle operations.
 
 Neither Lineage nor its cleanup firm responded to inquiries about how long the cleanup would take in time for publication. Los Angeles health services officials told the Guardian that the city was unaware of any plans for how or where the spoiled food would be disposed of.
+
+![groups of workers sweep food into puddles of water outside](https://i.guim.co.uk/img/media/a0cffa1f2ad9c796ec6793c752ace170487f90bc/647_0_6827_5464/master/6827.jpg?width=445&dpr=1&s=none&crop=none)
 
 ## Who’s to blame for the fire?
 

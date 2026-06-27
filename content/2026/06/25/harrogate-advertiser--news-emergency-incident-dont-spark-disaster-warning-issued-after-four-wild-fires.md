@@ -4,7 +4,7 @@ title: Don't Spark Disaster! - Warning issued after four wild fires in North Yor
 source_url: https://www.harrogateadvertiser.co.uk/news/emergency-incident/dont-spark-disaster-warning-issued-after-four-wild-fires-in-north-yorkshire-in-24-hours-8760627
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-25T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service has issued a plea for caution
   after four wild fires were reported on Wednesday (June 24).
@@ -19,6 +19,10 @@ The fire service has teamed up with North York Moors National Park, North Yorksh
 A spokesperson for North Yorkshire Fire and Rescue Service said: “We don’t want another wildfire like last year, and you can help us prevent them.
 
 "Please share this video to show the impact BBQs or campfires can have.”
+
+![Langdale Moor Fire 2025 - Image: North Yorkshire Fire and Rescue Service](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYWNmNGY5LTMzMzAtNDk5My04ZjllLTZmZDBkMWYxZTJjZDo4M2QyN2VjOS02MzZmLTRmZGMtYTAxMy02YmQxMzgyMDBmYWQ=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 On 12 August 2025, the Langdale Forest/Fylingdales Moor wildfire was declared a major incident and became the biggest wildfire in the history of the North York Moors National Park.
 

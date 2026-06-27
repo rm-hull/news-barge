@@ -3,13 +3,15 @@ title: Ripon Rugby Club praised for helping keep popular inclusion festival free
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/ripon-rugby-club-praised-for-helping-keep-popular-inclusion-festival-free/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:24Z'
+scraped_at: '2026-06-27T20:48:58Z'
 published: '2026-06-26T00:00:00Z'
 description: The organisers of a much-loved inclusion festival have paid tribute to
   Ripon Rugby Club for helping make the event possible year after year.
 ---
 
-The organisers of a much-loved inclusion festival have paid tribute to Ripon Rugby Club for helping make the event possible year after year.
+![](https://mmo.aiircdn.com/409/6a3ea9e6e2fcc939f18.jpg) 
+
+                                    The organisers of a much-loved inclusion festival have paid tribute to Ripon Rugby Club for helping make the event possible year after year.
 
 The annual "This is Me Festival" returns to Ripon Rugby Club on Sunday (28th June), offering five hours of free entertainment, activities and live music for children and families from across the region.
 
@@ -31,6 +33,9 @@ Jane said the club's backing means organisers only ask visitors for voluntary do
 We just ask people to make donations, and really those donations go towards paying for the event and then a little bit of fundraising for the two children's homes.
 
 The rugby club is a massive part of it."
+
+
+![](https://mmo.aiircdn.com/409/6a3eaa2984c9f1d477b.jpg)
 
 
 The festival has grown significantly since it was first suggested by children attending short breaks at Nidderdale Children's Resource Centre.

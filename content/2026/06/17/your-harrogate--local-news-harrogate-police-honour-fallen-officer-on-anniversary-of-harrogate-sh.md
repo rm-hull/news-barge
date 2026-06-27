@@ -3,13 +3,15 @@ title: Police honour fallen officer on anniversary of Harrogate shooting
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/police-honour-fallen-officer-on-anniversary-of-harrogate-shooting/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:20Z'
+scraped_at: '2026-06-27T20:49:52Z'
 published: '2026-06-17T00:00:00Z'
 description: North Yorkshire Police have paid tribute to an officer who was shot and
   killed near Harrogate 44 years ago today.
 ---
 
-North Yorkshire Police have paid tribute to an officer who was shot and killed near Harrogate 44 years ago today.
+![](https://mmo.aiircdn.com/409/6a327a073ee5435f9d8.jpg) 
+
+                                    North Yorkshire Police have paid tribute to an officer who was shot and killed near Harrogate 44 years ago today.
 
 PC David Haigh died on 17 June 1982 after being shot at Norwood Plantation Edge, near Harrogate, while on duty.
 

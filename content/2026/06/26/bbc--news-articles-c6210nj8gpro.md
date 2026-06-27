@@ -3,11 +3,15 @@ title: Why GTA 6 is launching without a disc - and what it says about gaming's f
 source_url: https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-26T00:00:00Z'
 description: Music and films are now largely digital-only - does the lack of a disc
   for GTA 6 mean gaming is going the same way?
 ---
+
+![An in-game screenshot from GTA 6 showing a woman inside a shop in a short black top and a skirt with her arms resting on a desk behind her and a colourful background. She is wearing black sunglasses and has short brown hair.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6fad/live/746eb010-7166-11f1-8e1d-bbbb1017d210.jpg)
+
+Rockstar revealed that the price of GTA 6 will be £70 for a standard edition and £90 for its more premium edition
 
 - Published
 
@@ -32,6 +36,10 @@ Ben said this led many to hope the physical disc would be available at launch to
 "An important benefit of owning a disc is that you can lend the game to a friend or sell it later," he said.
 
 Online retailers selling the physical edition have stated that, as with other digital game codes, the one being offered for GTA 6 is single-use and will become invalid after it is redeemed.
+
+![An in-game screenshot from the Ultimate edition of GTA 6. It shows characters Lucia and Jason together outside each wearing baseball caps and t-shirts which have the words "Vice City" on them. Jason's white t shirt also shows an pink cartoon aligator wearing sunglasses. In the background is the Vice City logo on a billboard.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/78f5/live/01042dd0-7166-11f1-a589-278435dff441.jpg)
+
+GTA 6 is set in a fictional US state called Leonida, which is Rockstar's version of Florida
 
 Digital sales now account for the vast majority of game revenue, and online stores such as Steam for PC and the PlayStation Store have been around for many years.
 
@@ -75,6 +83,10 @@ Rockstar is not the only company moving away from the traditional physical forma
 
 Nintendo has also shifted further towards digital distribution in recent years with the introduction of Game-Key Cards - physical cartridges that act as a key to download a game, rather than containing the game itself.
 
+![A behind the shoulder view of a woman - the content creator Alogirlx - staring at her computer screen which has the artwork and logo for GTA 6 on it. She is wearing pink headphones and her desk with a keyboard is lit up brightly with pink LED lights](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/8ae7/live/608abb20-716b-11f1-a4f8-ed826651ef10.jpg)
+
+With physical game sales at an all-time low, many gamers like Alogirlx are used to downloading games rather than buying the physical version
+
 ## What have physical retailers said?
 
 The GTA franchise is one of the biggest and most profitable entertainment properties in history.
@@ -91,6 +103,10 @@ Meanwhile, PNP Games, an online retailer with three stores in Winnipeg, has laun
 
 Piscatella suggested the code "may provide a better opportunity for retailers, particularly those that don't sell used games", given the number of PlayStation 5 and Xbox consoles without disc drives.
 
+![The cover art for GTA 6, showing the words Grand Theft Auto and the roman numberals VI in purple and orange. Behind it are characters from the game in a pop-art style plus a yellow car, a alligator, a flamingo and a helicopter in different panels.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0da8/live/3a8429f0-716d-11f1-b1db-af71d47507d6.jpg)
+
+GTA 6's cover art features the game's protagonists Lucia and Jason
+
 If the disc is dying, another gaming tradition is at risk of going with it.
 
 One hallmark of a game release as big as GTA has been the midnight launch, where gamers queue up at stores, often for hours, to be the first to walk through the doors and pick up a physical copy.
@@ -106,3 +122,5 @@ But he added he hoped those that do decide to make the journey to a store will b
 "The map, the manual, it's very much part of GTA's DNA. GTA IV nailed this experience for me."
 
 "Hopefully the code comes with this at least."
+
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png)

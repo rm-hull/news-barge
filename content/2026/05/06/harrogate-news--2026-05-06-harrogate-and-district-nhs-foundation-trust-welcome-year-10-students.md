@@ -4,7 +4,7 @@ title: Harrogate and District NHS Foundation Trust welcome Year 10 students for 
 source_url: https://www.harrogate-news.co.uk/2026/05/06/harrogate-and-district-nhs-foundation-trust-welcome-year-10-students-for-work-experience/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:04Z'
+scraped_at: '2026-06-27T20:47:56Z'
 published: '2026-05-06T00:00:00Z'
 description: This is the second year that HDFT has supported the Harrogate High School
   Year 10 work experience programme, which provides students with an informative and

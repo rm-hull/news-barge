@@ -3,13 +3,17 @@ title: 90s rockstar gears up for one-off summer show in North Yorkshire
 source_url: https://www.yorkpress.co.uk/news/26232979.verve-frontman-richard-ashcroft-play-scarborough-oat/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:57Z'
+scraped_at: '2026-06-27T20:55:12Z'
 published: '2026-06-27T00:00:00Z'
 description: Richard Ashcroft at Scarborough is just one highlight in a top-drawer
   week of entertainment across York and North Yorkshire
 ---
 
-*The York Mystery Plays on waggon wheels, Becky Hill on Knavesmire, Calendar Girls in the round, and Verve frontman Richard Ashcroft at Scarborough promise high summer times for Charles Hutchinson*
+## 90s rockstar gears up for one-off summer show in North Yorkshire
+
+Richard Ashcroft heads to the North Yorkshire coast to delight fans
+
+  *The York Mystery Plays on waggon wheels, Becky Hill on Knavesmire, Calendar Girls in the round, and Verve frontman Richard Ashcroft at Scarborough promise high summer times for Charles Hutchinson*
 
   *Under starter’s orders: Becky Hill, Summer Music Saturday, York Racecourse, today, first race at 1.20pm*
 
@@ -23,12 +27,16 @@ Further highlights include Last Stop Before Kirkgate, Novo Theatre’s immersive
 
   *Coastal gigs of the week: TK Maxx presents Scarborough Open Air Theatre, Richard Ashcroft, today; Billy Ocean and Marti Pellow, tomorrow, gates open at 6pm*
 
+  Richard Ashcroft: Headlining at Scarborough Open Air Theatre tonight. Picture: Dean Chalkney
+
 
 THE Verve frontman, songwriter and producer Richard Ashcroft, two-time Ivor Novello and triple BRIT Award winner, headlines today’s Scarborough bill, joined by DJ Wayne, original Kasabian frontman Tom Meighan and Yorkshire indie rockers Apollo Junction.
 
 Trinidadian-British soul singer Billy Ocean (real name Leslie Sebastian Charles, by the way) takes top spot tomorrow, airing such hits as Red Light Spells Danger, Love Really Hurts Without You, Caribbean Queen and When The Going Gets Tough, The Tough Get Going. His very special guest is former Wet Wet Wet singer and musicals star Marti Pellow; Katie Owen supports too. Box office: scarbroughopenairtheatre.com.
 
   *Make a date with: Calendar Girls The Musical, Stephen Joseph Theatre, Scarborough, today until July 25*
+
+  Christina Meehan, left, Karen Holmes and Pippa Duffy in rehearsal for Calendar Girls The Musical at Scarborough’s Stephen Joseph Theatre. Picture: Tony Bartholomew
 
 
 AS director Paul Robinson reveals: “Our new in-the-round staging of Tim Firth and Gary Barlow’s Calendar Girls brings the audience into the heart of the Rylstone Women’s Institute, making this true story of friendship and determination feel more personal and immediate.
@@ -44,6 +52,8 @@ TWO wild strangers roll into York for the 2026 York Mystery Plays Fringe to tell
   *Theatrical event of the week: 2026 York Mystery Plays, streets of York, tomorrow and July 5, 10.30am to 4.50pm; Sunset in the Shambles Market, June 30 and July 1, 7.45pm*
 
 THE four-yearly staging on the York Mystery Plays on pageant waggons (CORRECT) takes place at four locations across the city: free viewing at the Minster Refectory Gardens, Deansgate, (from 10.30am) King’s Square (from 11.10am), St Sampson’s Square (from 11.50am) and ticketed seats at Dean’s Park (from 12.30pm). Ten core plays will be complemented by further extracts to tell the story from The War In Heaven to Doomsday. For full details, go to: yorkmysteryplays.co.uk.
+
+  Thom Fenney’s Jesus of Nazareth in rehearsal for York Settlement Community Players’ performance of The Crucifixion in the 2026 York Mystery Plays. Picture: John Saunders
 
 
 Special midsummer performances of five plays will be held in Shambles Market on June 30 and July 1, introduced by the York Waits musicians before Pageant Master Dr Alan Heaven guides the audience through each play, from the Creation sequence to the End of Days in the interactive show Doomsday. These shows begin at 7.45pm and end as the dusk is deepening before 10pm. Tickets: ticketsource.com/york-festival-trust.

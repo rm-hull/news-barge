@@ -4,7 +4,7 @@ title: Harrogate law firm McCormicks strengthens property team with staff of imp
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-law-firm-mccormicks-strengthens-property-team-with-staff-of-impressive-experience-8755924
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:53Z'
+scraped_at: '2026-06-27T20:47:14Z'
 published: '2026-06-23T00:00:00Z'
 description: A leading Harrogate firm has moved to strengthen its property team with
   two major appointments.
@@ -20,6 +20,10 @@ Founded in 1983 Peter McCormick OBE, the practice grew over decades on East Para
 
 Claire Baker-Kemp becomes a Partner at the Harrogate-based practice, while Lauren Duxbury has been appointed as Head of Residential Property.
 
+![New appointment at Harrogate-based law firm McCormicks Solicitors  -  Claire Baker-Kemp becomes Partner. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3MTJmN2E3LWJjZmUtNDU1MC04ZjhmLWU0NjE0ZmZiNTliYjoyYjVmMWUwYi0yZGQyLTQwYWQtYmI0Yy0wOTg2ZDdhNTJhNzc=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 Managing Partner Stephen Hopwood said: “We are delighted to recognise Claire’s contribution and strong client relationships and to welcome Lauren who has substantial experience on the residential property side.”
 
 Claire has extensive experience in commercial property transactions.
@@ -27,6 +31,10 @@ Claire has extensive experience in commercial property transactions.
 She has acted in a wide range of matters, including the acquisition and disposal of freehold and leasehold commercial properties including offices, shopping centres, business parks, retail premises, industrial units, residential care homes, hotels, pubs and restaurants.
 
 She acts in transactional landlord and tenant work, including lease renewals and assignments, and is well-versed in land acquisition.
+
+![New appointment at Harrogate-based law firm McCormicks Solicitors  - New Head of Residential Property Lauren Duxbury. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNmZjA4MDEyLTgyMTEtNGVkMC1iM2NjLWY3ZDJkM2UwMGZhYzo2MjJjMGEyZS1kYzNlLTQ4YTQtYTA1Yi1jNmJiMzI5MTc4MWY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Claire joined McCormicks from an investment company where she managed the legal aspects of the extensive property portfolio, including the provision of related strategic and commercial advice to the board.
 

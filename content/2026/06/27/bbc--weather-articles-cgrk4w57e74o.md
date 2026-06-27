@@ -3,11 +3,13 @@ title: Will we see more heatwaves this summer?
 source_url: https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-27T00:00:00Z'
 description: Forecasters have suggested that summer is likely to be warmer than average
   with an increased chance of more heatwaves, as Simon King explains.
 ---
+
+![Two young women holding fans](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg)
 
 - Published
 
@@ -27,6 +29,12 @@ Low pressure from the Atlantic brought a series of weather fronts with the whole
 
 Weather patterns shifted again and in a dramatic turnaround we've just experienced another intense heatwave with the June all-time temperature record broken.
 
+![Infographic titled “Tips for staying cool and safe,” showing four circular illustrations with advice for hot weather.
+Top left: a tap filling a glass of water alongside fruit, with text reading “Drink water and eat foods with high water content.”
+Top right: a person wearing a hat and loose clothing, with text reading “Wear loose-fitting clothing in breathable fabrics and a hat.”
+Bottom left: a person sitting on a bench under a tree, with text reading “Stay in the shade and limit travel and exercise.”
+Bottom right: a person under a showerhead, with text reading “Use fans, ice and cool showers to reduce your body temperature.”]([https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png))
+
 ## 'Significant bursts' of heat are likely
 
 Forecasters issued their three-month summer outlook on 1 June which suggested higher-than-normal chances of hotter weather during June.
@@ -45,6 +53,8 @@ They also say "above-average temperatures" are expected for each month of July a
 
 According to the Met Office, having a hotter summer is now twice as likely than the period of 1991-2020, which is consistent with our warming climate.
 
+Watch: Will there be more heatwaves this summer?
+
 ## Will heatwaves become the new normal?
 
 Human-induced climate change is shifting the baseline temperature higher and this is making our heatwaves hotter, more frequent and longer lasting.
@@ -56,6 +66,8 @@ The UK saw the first temperature above 40C in July 2022 when Coningsby, Lincolns
 If global warming continues at its current pace, temperatures in the mid-forties could be a serious possibility for the UK by 2050, according to Met Office projections.
 
 In an analysis by World Weather Attribution (WWA), the extreme June heat across Western Europe would have been "impossible just a few decades ago".
+
+![A map of the United Kingdom displays the highest recorded temperatures for each nation, split into June records and overall July records. Coloured dots mark locations in Scotland, Northern Ireland, Wales, and England, each labelled with place names, temperatures, and years. June records range from 30.8°C to 37.3°C, while overall records range from 31.3°C to 40.3°C. A note states that 2026 figures are provisional, and the source is the Met Office.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8813/live/eb0ab100-7207-11f1-8546-8f19e4fe30f4.png)
 
 Dr Theodore Keeping, an extreme weather and wildfire researcher at Imperial College London, said the link between climate change and worsening heatwaves is "settled".
 

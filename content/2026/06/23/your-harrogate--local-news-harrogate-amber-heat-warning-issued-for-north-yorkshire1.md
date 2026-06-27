@@ -3,17 +3,22 @@ title: Amber heat warning issued for North Yorkshire
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/amber-heat-warning-issued-for-north-yorkshire1/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:46Z'
+scraped_at: '2026-06-27T20:49:18Z'
 published: '2026-06-23T00:00:00Z'
 description: The Met Office has issued an amber warning for extreme heat covering
   North Yorkshire, with the alert running from Wednesday night through Thursday.
 ---
 
-The Met Office has issued an amber warning for extreme heat covering North Yorkshire, with the alert running from Wednesday night through Thursday.
+![](https://mmo.aiircdn.com/409/6a3a3bd34e7f471b0e8.jpg) 
+
+                                    The Met Office has issued an amber warning for extreme heat covering North Yorkshire, with the alert running from Wednesday night through Thursday.
 
 As the temperature climbs into the low 30s across the Harrogate district, it's the combination of intense heat, high humidity and exceptionally warm overnight temperatures that has prompted the warning.
 
 The Met Office says there is an increased risk of impacts on health, travel and infrastructure, with vulnerable people most at risk. Warm nights can also make it much harder for our bodies to recover from the daytime heat.
+
+![](https://mmo.aiircdn.com/409/6a3a38a64d644ba37e4.jpg)
+
 
 *Met Office forecast for Ripon*
 

@@ -4,7 +4,7 @@ title: '‘Everyone is talking about Cape Verde’: World Cup run delights diasp
 source_url: https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:31Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-26T00:00:00Z'
 description: Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought
   draws against Spain and Uruguay
@@ -20,6 +20,8 @@ Located in the Atlantic Ocean about 370 miles (600km) off the coast of mainland 
 
 Lauryn, who has already published her first book, Lauryn That’s Me: The Journey of a Powerful African Girl, says she scrolled through social media before Cape Verde’s opening match against Spain. “There were lots of posts on social media saying Cape Verde only had a 1% chance of winning. But after everyone saw our goalkeeper’s performance, everything changed.”
 
+![Goalkeeper Vozinha celebrates after Cape Verde’s draw with Uruguay](https://i.guim.co.uk/img/media/2249f8fcac2c8172980ce803fa2eb07b7cef081e/0_0_3502_2493/master/3502.jpg?width=445&dpr=1&s=none&crop=none)
+
 That 1% prediction has since become a rallying cry for the Cape Verdean diaspora in Britain, which is estimated to number in the low thousands. “Our slogan in the Cape Verdean community became: ‘They gave us 1% chance, but we had 99% faith,’” Lauryn says.
 
 The team held a stunned Spain to a 0-0 draw. Their next match, against Uruguay, felt like a “constant heart attack”, says Annabella Lopes of the Cape Verdean Association UK. The game ended 2-2.
@@ -31,6 +33,8 @@ Lauryn’s younger brother, 10-year-old Joylen, who plays football for Chelsea�
 It has also inspired his own ambition. “It makes me want to reach my highest level,” he says.
 
 For Lopes, the team’s performance sends a powerful message to the Cape Verde diaspora community across the world, as well as those who hail from small countries. “The success happening on the pitch reflects the resilience and strength of our people,” she says. “The fact that you are small, and the fact that people don’t know you, doesn’t mean you can’t achieve great things.”
+
+![Cape Verde supporters in Rotterdam in the Netherlands](https://i.guim.co.uk/img/media/8c2bdabbc5d8613c088cad81bd94abcbef447eb5/0_0_8160_5504/master/8160.jpg?width=445&dpr=1&s=none&crop=none)
 
 She adds that it is not about winning or losing. “The important thing is to take part. Cape Verde is taking part, Cape Verde is competing, Cape Verde is achieving, and Cape Verde is making history.”
 

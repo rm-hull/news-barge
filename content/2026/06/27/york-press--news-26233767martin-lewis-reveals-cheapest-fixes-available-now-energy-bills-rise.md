@@ -4,11 +4,13 @@ title: Martin Lewis reveals cheapest fixes available now as energy bills rise by
 source_url: https://www.yorkpress.co.uk/news/26233767.martin-lewis-reveals-cheapest-fixes-available-now-energy-bills-rise/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:29Z'
+scraped_at: '2026-06-27T20:55:42Z'
 published: '2026-06-27T00:00:00Z'
 description: Martin Lewis has issued an urgent warning to anyone still on a standard
   variable tariff as the Energy Price Cap shoots up next week
 ---
+
+*(Image: PA)*
 
 Millions of households face a sharp rise in energy bills from next week, prompting consumer champion Martin Lewis to issue an urgent warning to anyone still on a standard variable tariff.
 

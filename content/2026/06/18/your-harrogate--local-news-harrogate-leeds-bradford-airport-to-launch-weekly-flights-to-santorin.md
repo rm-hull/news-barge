@@ -3,13 +3,15 @@ title: Leeds Bradford Airport to launch weekly flights to Santorini
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/leeds-bradford-airport-to-launch-weekly-flights-to-santorini/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:07Z'
+scraped_at: '2026-06-27T20:49:39Z'
 published: '2026-06-18T00:00:00Z'
 description: Leeds Bradford Airport is set to launch weekly flights to the popular
   Greek island of Santorini - starting next Summer.
 ---
 
-Leeds Bradford Airport is set to launch weekly flights to the popular Greek island of Santorini - starting next Summer.
+![](https://mmo.aiircdn.com/409/6a33ff22ad676c03561.jpg) 
+
+                                    Leeds Bradford Airport is set to launch weekly flights to the popular Greek island of Santorini - starting next Summer.
 
 Jet2 have announced the new Thursday service, giving Yorkshire holidaymakers direct access to one of Greece’s most iconic destinations.
 

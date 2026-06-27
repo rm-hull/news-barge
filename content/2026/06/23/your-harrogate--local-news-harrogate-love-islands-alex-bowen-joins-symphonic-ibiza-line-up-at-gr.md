@@ -3,13 +3,15 @@ title: Love Island’s Alex Bowen joins Symphonic Ibiza line-up at Great Yorkshi
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/love-islands-alex-bowen-joins-symphonic-ibiza-line-up-at-great-yorkshire-showground/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:46Z'
+scraped_at: '2026-06-27T20:49:19Z'
 published: '2026-06-23T00:00:00Z'
 description: Symphonic Ibiza has today announced that Love Island’s Alex Bowen will
   join the line-up at the Great Yorkshire Showground.
 ---
 
-Symphonic Ibiza has today announced that Love Island’s Alex Bowen will join the line-up at the Great Yorkshire Showground.
+![](https://mmo.aiircdn.com/409/6a39a60f841009c1225.jpg) 
+
+                                    Symphonic Ibiza has today announced that Love Island’s Alex Bowen will join the line-up at the Great Yorkshire Showground.
 
 Alex Bowen known for his appearance on the second season of Love Island will open the event as the official warm up DJ.
 

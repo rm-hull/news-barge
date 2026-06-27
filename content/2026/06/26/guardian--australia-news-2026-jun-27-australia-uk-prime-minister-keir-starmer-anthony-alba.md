@@ -4,7 +4,7 @@ title: Massive wins and the promise of change – but that’s where the Starmer
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/australia-uk-prime-minister-keir-starmer-anthony-albanese-comparison
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:42:00Z'
 published: '2026-06-26T00:00:00Z'
 description: While Anthony Albanese calls ousted British PM Keir Starmer his mate,
   the pair share very different political fortunes

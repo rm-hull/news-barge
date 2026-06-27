@@ -3,7 +3,7 @@ title: Germany and Italy swelter in heatwave as records tumble across Europe
 source_url: https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:42:00Z'
 published: '2026-06-27T00:00:00Z'
 description: Denmark experiences highest temperature on record on Saturday as weather
   system spreads eastward
@@ -28,6 +28,8 @@ The service issued extreme heat warnings for nearly all of Germany on Saturday a
 It said temperatures of 36C were expected across the country with local highs of 42C possible.
 
 In France, dozens of people young and old have died during the heatwave. Temperatures above 40C have disrupted rail travel and power generation, prompted alcohol bans and school suspensions, and led to outdoor events being postponed.
+
+![People fill bottles from a public water fountain in Venice](https://i.guim.co.uk/img/media/132f9512eee15bf718a57c3602b54f47325e37be/0_0_6958_4718/master/6958.jpg?width=445&dpr=1&s=none&crop=none)
 
 Italy’s health ministry issued a red alert for the heatwave in 18 Italian cities including Milan, Rome, Turin, Venice, Genoa, Florence and Bologna for Saturday and Sunday, with temperatures expected to climb as high as 39C in some areas.
 

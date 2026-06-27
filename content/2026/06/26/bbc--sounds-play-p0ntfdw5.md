@@ -3,13 +3,15 @@ title: Newscast - The King (Sort Of) Reveals His Finances - BBC Sounds
 source_url: https://www.bbc.co.uk/sounds/play/p0ntfdw5?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:38Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-26T00:00:00Z'
 description: King Charles has become the first monarch to reveal their tax bill, paying
   £12.9m.
 ---
 
 ## Episode details
+
+![](https://ichef.bbci.co.uk/images/ic/400x400/p0l7jnbt.jpg)
 
 Available for over a year
 

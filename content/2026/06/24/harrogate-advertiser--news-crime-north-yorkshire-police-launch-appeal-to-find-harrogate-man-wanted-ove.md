@@ -4,7 +4,7 @@ title: North Yorkshire Police launch appeal to find Harrogate man wanted over re
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/north-yorkshire-police-launch-appeal-to-find-harrogate-man-wanted-over-restraining-order-breach-8759108
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: North Yorkshire Police has released an image and launched an appeal to
   help find a wanted 34-year-old man from Harrogate.
@@ -19,6 +19,10 @@ Adam William Snowdon, 34, is wanted after York Magistrates’ Court issued a war
 He is wanted in connection with the breach of a restraining order.
 
 A spokesperson at North Yorkshire Police said: “Extensive enquiries have been carried out to find him and we are now appealing to members of the public to contact us if they have seen him.”
+
+![Adam William Snowdon, 34, from Harrogate, is wanted after York Magistrates’ Court issued a warrant for his arrest when he failed to appear at court in connection with the breach of a restraining order](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmEzNGJiZmE1LTJkMmMtNGY5Mi05NDYwLWU4ZDg0ZTllMzI2NTpmNDIwMTQ5ZS02NzdiLTQxNGUtYjk4NC0yZjM4MWY0NTM3MWE=.png?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 If you see Mr Snowdon, or have any information about his current whereabouts, you should call North Yorkshire Police on 101.
 

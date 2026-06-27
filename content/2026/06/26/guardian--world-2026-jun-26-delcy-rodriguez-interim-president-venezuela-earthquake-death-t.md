@@ -4,7 +4,7 @@ title: Venezuela quake death toll reaches 920 as interim president vows to save 
 source_url: https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-26T00:00:00Z'
 description: Delcy Rodríguez says foreign rescue teams are arriving as anger grows
   at official response and limited resources
@@ -19,6 +19,8 @@ Rodríguez’s brother, Jorge, the president of the national assembly, said on F
 United Nations aid chief Tom Fletcher told the AFP news agency that more than 50,000 people were missing after two powerful earthquakes struck within a minute of each other on Wednesday evening, flattening buildings in the north of the country.
 
 Volunteer searchers and the relatives of the many missing voiced exasperation and anger at the****lack of an official response as they waited for government teams.
+
+![People scour a wide swathe of rubble in front of a handful of still-standing buildings](https://i.guim.co.uk/img/media/29ddbdbba7b18f62e0aae1a44628d73d0a5ba416/0_0_5792_3861/master/5792.jpg?width=445&dpr=1&s=none&crop=none)
 
 Rotny Bombart, a 33-year-old paramedic, said he had spent five hours hunting for his mother, María Eugenia, in a collapsed tower block in La Guaira called OPP 33. “It has 15 floors. Or rather, it used to, because there’s nothing left of it now,” Bombart said after being treated at a public hospital in the capital, Caracas, for a gash to his right arm sustained during the search.
 
@@ -58,11 +60,15 @@ Orlando Pérez, a Latin America expert at the University of North Texas at Dalla
 
 “Yet you have completely degraded health infrastructure, buildings that were not built to code that collapsed very easily,” Pérez said. “They have had the resources but they have squandered it. The health infrastructure in particular is very weak. Hospitals lack equipment, they lack medicine – and that is going to cost lives.”
 
+![Patients lying in hospital beds and attached to drips in the open air surrounded by health workers and onlookers](https://i.guim.co.uk/img/media/287a896d17e9810b50d156ad9bd0f129e8d666f4/0_0_5472_3648/master/5472.jpg?width=445&dpr=1&s=none&crop=none)
+
 ****An opposition activist, Jesús Armas, said successive Chavista administrations had failed to invest sufficiently in the emergency and healthcare services that would have enabled them to better cope with a disaster they should have anticipated, given Venezuela’s location along the boundary between the Caribbean and South American tectonic plates. “Every 50 or 70 years we have a [major] earthquake … We should have been prepared,” he said.
 
 “Yesterday we saw people working in these [destroyed] places – people from civil protection and the police and national guard – without gloves, without helmets and without any kind of tools … So we need all the international support possible.”
 
 Compounding the problem was Venezuela’s severe migration crisis, in which nearly 8 million citizens had fled abroad to escape economic crisis and political repression. “A lot of doctors, a lot of engineers that we need right now, a lot of experts in civil protection and rescue operations [have all left] ... This is a tragedy.”
+
+![A man carries a dog through collapsed concrete and rubble](https://i.guim.co.uk/img/media/f8a1d6ea6d72e5b88f211d057d51913edc24848a/0_0_6192_4128/master/6192.jpg?width=445&dpr=1&s=none&crop=none)
 
 Writing on X, Juan Pablo Guanipa, a prominent opposition politician, questioned why Venezuela’s armed forces were not doing more to help civilian victims. “So far we have not seen real mobilisation or action* *[from the military] in the face of this grave situation that we are facing. We have seen families, neighbours and rescue workers trying to save lives with their own hands,” Guanipa said. “Right now, all of us need to be involved, the armed forces included.”
 

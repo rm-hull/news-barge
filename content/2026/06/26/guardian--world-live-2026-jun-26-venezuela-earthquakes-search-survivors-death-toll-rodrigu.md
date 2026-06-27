@@ -4,7 +4,7 @@ title: 'Venezuela earthquakes: 589 confirmed dead so far as international rescue
 source_url: https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-26T00:00:00Z'
 description: “We hope to rescue as many living people as possible’, says the acting
   president, Delcy Rodríguez, but authorities fear the death toll will be in the thousands
@@ -50,6 +50,18 @@ Almost 3,000 families have been left homeless, according the New York Times.
 
 This comes as search and rescue teams from at least 17 countries travel to Venezuela to help with efforts to find survivors.
 
+Residents sit in a tent to take shelter after the 7.2-magnitude earthquake hit Venezuela. Photograph: Edilzon Gamez/Getty
+
+Here are some more images from Venezuela, where there has been an international effort to look for survivors of the earthquake:
+
+Ecuadorean firefighters of the Urban Search and Rescue (USAR) sit inside a plane at an air base before departing to Venezuela following deadly earthquakes. Photograph: Marcos Pin/AFP/Getty
+
+A man sits in the remains of a building damaged in the aftermath of earthquakes in La Guaira, Venezuela. Photograph: Maxwell Briceno/Reuters
+
+People are treated at a care centre following twin earthquakes in Moron, Carabobo State. Photograph: Orlando Obispo/AFP/Getty
+
+A damaged building in Caracas, Venezuela. Photograph: Anadolu/Getty
+
 The international community must “urgently mobilise to provide and deliver the critical humanitarian assistance” Venezuelans need, Amnesty International’s secretary general argues.
 
 The non-governmental organisation urges that humanitarian and disaster relief standards, as well as international human rights law, remain at the core of the plans for all aid responses to the earthquake.
@@ -64,6 +76,8 @@ Amnesty International also emphasises greater press freedom in the country. The 
 
 “The potential impact of not doing so could be measured in lives lost and rights irreparably affected.”
 
+Amnesty International secretary general Agnès Callamard. Photograph: John MacDougall/AFP/Getty Images
+
 The US treasury department has temporarily removed sanctions on Venezuela. This will let the Venezuelan government make temporary transactions for earthquake relief – which would not be possible otherwise due to economic sanctions in place.
 
 The New York Times reports that this exemption is in place until 23 October.
@@ -73,6 +87,8 @@ This comes as The US state department said it is mobilising $150m in aid. That i
 Rodríguez said that the government has decided to militarise the state of La Guaira after the earthquakes, Reuters reports.
 
 La Guaira, the coastal region north of Caracas, was the worst affected by Wednesday’s twin earthquakes and has been declared a “disaster zone”, with at least 100 buildings collapsed including high rise apartment blocks, according to the UN.
+
+A person walks past the debris of buildings that collapsed in the earthquakes in La Guaira, Venezuela. Photograph: Jesús Vargas/Getty Images
 
 Number of people killed in Venezuela earthquakes rises to 589
 
@@ -102,6 +118,8 @@ China’s president Xi Jinping said Beijing was ready to provide Venezuela with 
 
 Xi sent a message of condolence to Venezuela’s interim president Delcy Rodríguez today, according to Chinese state news agency Xinhua.
 
+Chinese president Xi Jinping has pledged support for Venezuela. Photograph: Evan Vucci/Reuters
+
 “Upon learning that the powerful earthquakes have caused heavy casualties and significant property losses, Xi, on behalf of the Chinese government and the Chinese people, mourned those killed in the earthquakes and expressed sincere sympathy to the bereaved families and those injured,” Xinua reported.
 
 Two Chinese nationals were confirmed among the victims of the earthquakes, according to Xinhua, citing the embassy in Caracas.
@@ -123,6 +141,8 @@ Washington is also sending a disaster response team with two urban search-and-re
 El Salvador
 
 More than 150 rescue workers and supplies arrived in Venezuela from El Salvador this morning, along with medical supplies.
+
+Rescue workers walk to the airplane at the Comalapa airbase in La Paz, El Salvador, for the humanitarian aid flight to Venezuela. Photograph: APHOTOGRAFIA/Getty Images
 
 Mexico
 
@@ -158,9 +178,13 @@ Colombia’s national unit for disaster risk management said it had mobilised a 
 
 Nine firefighters from the city of Cali were going to assist with search-and-rescue efforts, the mayor said.
 
+Members of the Colombian search and rescue team in Bogotá load a van with equipment to send aid to Venezuela. Photograph: Andres Rot/Getty Images
+
 Ecuador
 
 Ecuador sent a rescue team consisting of 46 specialists, two search dogs and equipment.
+
+Volunteers sort food, medicine and relief supplies at a collection centre in Quito, Ecuador, to be shipped to communities affected by the recent earthquakes in Venezuela. Photograph: Karen Toro/Reuters
 
 Panama
 
@@ -198,6 +222,20 @@ The Swiss delegation includes search and rescue specialists along with 18 tonnes
 
 Turkey announced two flights will leave Istanbul today with military, medical and rescue personnel and a pair of search dogs, while the Netherlands also said it was sending a team consisting of 65 rescue workers, dogs and equipment.
 
+A Dutch rescue team departing from Eindhoven airbase for Venezuela. Photograph: ANP/Shutterstock
+
+Here are some images on the newswires from Venezuela, where rescue teams and residents have worked through the night to search for survivors:
+
+A volunteer carries a rescued dog across the rubble of a collapsed building in Caraballeda, La Guaira state. Photograph: Federico Parra/AFP/Getty Images
+
+People search for possible victims in Caraballeda, 40km north-east of the capital, Caracas. Photograph: Federico Parra/AFP/Getty Images
+
+Two people ride a motorbike past a heavily damaged apartment building in Catia La Mar, La Guaira state. Photograph: Juan Barreto/AFP/Getty Images
+
+A man walks in a cracked street in Los Corales, La Guaira state. Photograph: Federico Parra/AFP/Getty Images
+
+Rescue workers and volunteers search through the rubble of a collapsed building in Caracas. Photograph: Maryorin Mendez/AFP/Getty Images
+
 A 5.6-magnitude earthquake struck a rural part of northern California on Wednesday. Hours later, a 7.2-magnitude earthquake hit the northern coast of Japan and two powerful earthquakes rocked Venezuela in a devastating mass casualty event.
 
 The tremors happened in the span of eight hours, prompting online speculation over whether they were related.
@@ -214,6 +252,8 @@ She announced the imminent arrival of international aid, with the aim of bolster
 
 “We have requested international aid, and support from our sister nations will begin to arrive in the coming hours. Our best wishes, all our hopes and prayers are focused on the lives of Venezuelans,” she said.
 
+Venezuela's interim president Delcy Rodríguez and her brother, the head of the Venezuelan national assembly Jorge Rodriguez, visiting an area strongly affected by the earthquake in La Guaira. Photograph: Venezuelan Presidency/AFP/Getty Images
+
 A senior American military official has arrived in Venezuela’s capital Caracas to oversee US relief efforts, the US Southern Command (Southcom), whose area of responsibility covers Latin America and the Caribbean, said.
 
 US Marine Corps Maj Gen Kevin Jarrard is serving as the senior Southcom official on the ground to coordinate relief operations with local teams, Southcom said in a post on X.
@@ -224,6 +264,8 @@ At least 235 people have been killed, but authorities fear the death toll could 
 
 The coastal region of La Guaira, where the country’s main airport is located, suffered some of the heaviest damage and casualties, as rows of towering apartment blocks were reduced to rubble while people desperately searched for missing loved ones.
 
+People walk amid rubble after a twin earthquake in Caraballeda, La Guaira state, Venezeula. Photograph: Federico Parra/AFP/Getty Images
+
 The UN’s humanitarian agency, Ocha, reported more than 100 buildings had collapsed in the La Guaira region alone, including a large block of flats called the Ritasol Palace and the seafront Eduard’s Hotel.
 
 The acting president of Venezuela, Delcy Rodríguez, declared a state of emergency in an address to the nation. She said the government was creating a $200m reconstruction fund for damaged hospitals and homes.
@@ -231,6 +273,8 @@ The acting president of Venezuela, Delcy Rodríguez, declared a state of emergen
 She appealed to businesses to make heavy construction equipment available for rescue operations.
 
 “We hope to rescue as many living people as possible,” she said.
+
+A man looks at a damaged building in the aftermath of earthquakes in La Guaira. Photograph: Maxwell Briceno/Reuters
 
 Dramatic scenes unfolded on Thursday of people being pulled out of rubble covered in dust and blood, but few government rescue teams were initially seen outside Caracas, according to reports.
 

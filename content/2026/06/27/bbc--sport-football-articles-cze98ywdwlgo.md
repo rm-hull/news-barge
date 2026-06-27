@@ -3,11 +3,13 @@ title: 'World Cup 2026: Iran say they have been treated unfairly by USA'
 source_url: https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-27T00:00:00Z'
 description: Iran coach Amir Ghalenoei says his nation have been treated unfairly
   by the United States during the World Cup
 ---
+
+Egypt through after late drama denies Iran guaranteed knockout qualification
 
 - Published
 
@@ -36,6 +38,8 @@ Fifa president Gianni Infantino has previously commented that the organisation d
 "I don't know who else would have been able to ensure in these circumstances - which we could not influence - Iran could come and play."
 
 Infantino later visited the Iran dressing room after their opening draw with New Zealand.
+
+Iran denied guaranteed group stage qualification as injury-time goal chalked off
 
 Iran seemed to have secured an automatic spot in the knockout stage at the end of the Egypt match when Shoja Khalilzadeh slammed a loose ball into the net in stoppage time.
 

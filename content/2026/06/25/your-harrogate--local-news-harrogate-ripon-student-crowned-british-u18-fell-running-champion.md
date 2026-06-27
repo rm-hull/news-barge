@@ -3,14 +3,16 @@ title: Ripon student crowned British U18 fell running champion
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/ripon-student-crowned-british-u18-fell-running-champion/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:27Z'
+scraped_at: '2026-06-27T20:49:00Z'
 published: '2026-06-25T00:00:00Z'
 description: Ripon student Angus Millar helped power Yorkshire to victory when he
   struck gold at the prestigious British Inter-Counties Fell Running championships
   at Edale, Derbyshire.
 ---
 
-Ripon student Angus Millar helped power Yorkshire to victory when he struck gold at the prestigious British Inter-Counties Fell Running championships at Edale, Derbyshire.
+![](https://mmo.aiircdn.com/409/6a3d981af37dad708df.jpg) 
+
+                                    Ripon student Angus Millar helped power Yorkshire to victory when he struck gold at the prestigious British Inter-Counties Fell Running championships at Edale, Derbyshire.
 
 The 16-year-old claimed the 2026 British Under-18 Inter-Counties Fell Running title.
 

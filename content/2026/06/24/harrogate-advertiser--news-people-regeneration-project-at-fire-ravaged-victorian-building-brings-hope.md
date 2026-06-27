@@ -4,7 +4,7 @@ title: Regeneration project at fire-ravaged Victorian building 'brings hope' to 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/regeneration-project-at-fire-ravaged-victorian-building-brings-hope-to-harrogate-residents-after-eight-long-years-8758345
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: Harrogate residents were surprised to see a giant crane in the skies
   above a prominent High Street site left derelict eight years ago by a major blaze.
@@ -20,11 +20,19 @@ To residents living in the area, the situation has not always seemed so positive
 
 Originally Harper's grocery store before being taken over in 1945 by Jacksons, this prominent Victorian building then became a Sainsburys and, finally, a McColls.
 
+![The giant crane spotted this week at a historic Harrogate site which had been left derelict after major blaze. (Picture Graham Chalmers)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVmOGM5NjFkLTFkMDAtNDFmNy1iYjdiLTc1MTgxZjBiYzQ1NDpmY2E4YjY0OS02NDZmLTQ5NzktOTFlMC1lMDFkOWQzMTdiZWI=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 The major blaze in 2018 closed the area’s main road for hours while firefighters fought the blaze.
 
 For nearly six months afterwards, a nearby footpath and pedestrian crossing were closed to residents for safety reasons.
 
 Both the then Harrogate MP Andrew Jones and local councillor Philip Broadbank complained that this was an “eyesore” and called on the site’s owners, Bates & Hemingborough, to create a better future for the ruined building.
+
+![Architect's vision of a phoenix from the ashes - Full planning permission was granted for the comprehensive refurbishment of the former McColls site on Starbeck High Street in Harrogate.  (Picture E3 Architecture)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc0NGNhYzQ1LTBlN2EtNDczMy1hMzc2LTY4MDc3YjNiMTA2Nzo2YzAxYTQzYS0zZDJlLTQwYWQtOThjYy1jYjA3OTFkOTQ5Nzg=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 That never happened.
 

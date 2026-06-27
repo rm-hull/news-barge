@@ -3,11 +3,13 @@ title: Bar with signature cocktails and Italian food named the best in Yorkshire
 source_url: https://www.yorkpress.co.uk/news/26215946.bar-incredible-wine-named-best-yorkshire/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:46Z'
+scraped_at: '2026-06-27T20:55:02Z'
 published: '2026-06-27T00:00:00Z'
 description: A bar with 'fabulous' sharing platters that can be found in a North Yorkshire
   market town has been named the best in the region by Muddy…
 ---
+
+*(Image: Tripadvisor)*
 
 A bar found in a North Yorkshire market town has been named the best in the region by Muddy Stilettos.
 

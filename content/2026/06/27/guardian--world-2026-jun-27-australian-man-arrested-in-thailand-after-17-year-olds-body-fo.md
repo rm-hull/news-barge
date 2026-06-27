@@ -3,7 +3,7 @@ title: Australian man arrested in Thailand after 17-year-old’s body found in s
 source_url: https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-27T00:00:00Z'
 description: The 46-year-old was stopped at about 9.30pm on Friday while preparing
   to board a Jetstar flight to Perth, according to police and local media

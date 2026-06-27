@@ -3,13 +3,15 @@ title: Transdev partners with Yorkshire and North West Air Ambulance charities
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/transdev-partners-with-yorkshire-and-north-west-air-ambulance-charities/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:09Z'
+scraped_at: '2026-06-27T20:49:41Z'
 published: '2026-06-18T00:00:00Z'
 description: Regional bus operator Transdev has announced a new charity partnership
   with Yorkshire Air Ambulance and North West Air Ambulance Charity.
 ---
 
-Regional bus operator Transdev has announced a new charity partnership with Yorkshire Air Ambulance and North West Air Ambulance Charity.
+![](https://mmo.aiircdn.com/409/6a33a0d3daa0d553c9a.jpg) 
+
+                                    Regional bus operator Transdev has announced a new charity partnership with Yorkshire Air Ambulance and North West Air Ambulance Charity.
 
 The partnership will see Transdev support both organisations through fundraising activities and awareness campaigns throughout the year.
 

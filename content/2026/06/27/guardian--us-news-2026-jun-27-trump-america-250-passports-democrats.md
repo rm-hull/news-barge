@@ -3,7 +3,7 @@ title: White House unveils new images of US ‘patriot passports’ for America�
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:42:02Z'
 published: '2026-06-27T00:00:00Z'
 description: Democrats called plans for commemorative passport and gold coin with
   Trump portrait ‘more befitting a monarchy’
@@ -16,6 +16,8 @@ The White House called it simply the “patriot passport”, while on Truth Soci
 The state department says the limited-edition commemorative US passport was created “to commemorate the historic occasion of America’s 250th anniversary and will be issued at the Washington Passport Agency in Washington, DC starting on July 6, 2026, while supplies last”.
 
 The state department said it would issue a commemorative passport in April, but the finished item features different artwork.
+
+![Red, white and blue US passport with portrait of Trump](https://i.guim.co.uk/img/media/7fe2697f74d68be3be6353f5e754dbb3883497d2/0_0_3000_2000/master/3000.jpg?width=445&dpr=1&s=none&crop=none)
 
 The previous headshot of the president, looking stern, had been replaced with a three-quarter-length portrait of him leaning over the Resolute desk with balled fists, taken by White House photographer Daniel Torok, with Trump looking sterner. The photo also hangs in the Smithsonian America’s Presidents exhibition.
 

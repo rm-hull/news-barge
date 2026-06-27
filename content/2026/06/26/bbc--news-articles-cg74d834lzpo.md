@@ -4,11 +4,13 @@ title: 'KWN: From delivering Amazon parcels to becoming one of the UK''s hottest
 source_url: https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-26T00:00:00Z'
-description: The R&B singer broke out with the single Worst Behaviour, which she sold
+description: R&B singer KWN broke out with the single Worst Behaviour, which she sold
   on a custom-built website.
 ---
+
+![KWN](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg)
 
 - Published
 
@@ -23,6 +25,10 @@ Last month, she steamed up the windows of the Sydney Opera House, with a sultry,
 "That was just a crazy moment for me," she says. "I don't think the Sydney Opera House has ever had anybody come in there singing a bunch of sex songs before.
 
 "Everyone was standing up and dancing after 30 seconds, and afterwards, the people at the venue were just like, 'We've never seen it like that before'. It was insane."
+
+![A black and white shot shows KWN performing at Sydney Opera House with a smile on her face, as fans in the audience turn on the lights on their phones.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ec1d/live/7272d050-6f06-11f1-8e1d-bbbb1017d210.jpg)
+
+More than 2,500 people came to see KWN's show at the Sydney Opera House last month
 
 Reactions like that show how far KWN (pronounced K-One, her real name is Khyra Wilson) has come in a short time.
 
@@ -40,6 +46,10 @@ The 26-year-old was determined to keep making music, but the odds were against h
 
 Her faith paid off.
 
+![The musician KWN is pictured in a "strongman" pose, with her hands pressed together in fists. She is wearing a blue zip-up jacket with large white stars on the sleeves and collar.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/72e4/live/21715b40-6f06-11f1-87e9-1dc598ae70b3.jpg)
+
+KWN, pronounced K-One, was born and raised in Walthamstow, East London
+
 ## An online gamble
 
 At the end of 2024, KWN uploaded clips of Worst Behaviour to her social media accounts. It was only a demo, but the response was unlike anything she'd experienced.
@@ -56,6 +66,10 @@ Then Calder came up with a plan. How about building a website and selling the de
 
 In two weeks, they sold 5,500 copies. Record labels who'd shunned the singer suddenly clamoured for her signature, but KWN signed instead to RCA Records (home to R&B legends D'Angelo, SZA and Miguel) just before Christmas.
 
+![KWN and Kehlani lean against a black Ford Mustang, on the set of the video for Worst Behaviour.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eb09/live/aa6c0990-6f06-11f1-b1db-af71d47507d6.jpg)
+
+The video for Worst Behaviour, which also featured US R&B star Kehlani, shot KWN to fame
+
 Meanwhile, Worst Behaviour kept accumulating fans.
 
 Among them was US R&B star Kehlani, who jumped on a remix, fanning the song's smouldering groove into a full-blown inferno.
@@ -71,6 +85,10 @@ But looks can be deceiving... Both KWN and Kehlani were rotten with the cold dur
 Amidst the sniffles, the sparks were real. KWN and Kehlani dated last year. And while their relationship is off-limits for our interview, the couple's visibility, combined with KWN's lyrics, made a bold statement about queer relationships in a musical space that's traditionally been hostile to same-sex love.
 
 That's why, when KWN performs Stand On It, her LGBTQ fans holler back the line: "*I'm not embarrassed/ ain't gonna love you in private*".
+
+![KWN smiles as she performs in session for BBC Radio 1 Xtra in January 2026. She is wearing a dappled tan and brown jacket, and has in-ear monitors looped into her ears.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1d35/live/352b3620-6f05-11f1-87e9-1dc598ae70b3.jpg)
+
+KWN was one of the 10 artists nominated for the BBC's prestigious Sound of 2026 award
 
 Built around a stuttering, jazzy chord progression, Stand On It was one of the standouts on KWN's debut EP, With All Due Respect, released last June.
 
@@ -105,6 +123,10 @@ Rather Never Love Again features 150 layers of backing vocals that took two days
 "And when we put all those rock drum fills in there, I was like, 'This is fun'.
 
 "At the end of the day, I'm very much within my right to be able to experiment, to try new things, and do whatever makes me feel good."
+
+![Promotional photo of KWN, sitting down in a denim shirt and black leather trousers](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/20eb/live/f965ab40-6f07-11f1-8e1d-bbbb1017d210.jpg)
+
+The singer will play festivals across Europe this summer, while working on her forthcoming debut album
 
 Fans of her earthier material won't be disappointed, though.
 

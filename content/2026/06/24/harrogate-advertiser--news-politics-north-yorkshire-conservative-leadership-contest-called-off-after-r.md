@@ -4,7 +4,7 @@ title: North Yorkshire Conservative leadership contest called off after rivals r
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/north-yorkshire-conservative-leadership-contest-called-off-after-rivals-reach-agreement-8758197
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: A contest to lead North Yorkshire Council into next year’s local elections
   has been cancelled after agreement was reached between two senior Conservative councillors.
@@ -19,6 +19,10 @@ The current leader of the authority, Carl Les, has announced he will stand down 
 Councillor Les has been embroiled in a contest to lead the Tory-led group with high-profile Conservative colleague, Councillor Keane Duncan.
 
 The group’s annual general meeting was abandoned last month after Conservative councillors failed to reach an agreement on whether independent councillors, who are aligned with the Tory group, could take part in the vote.
+
+![Councillor Carl Les and Councillor Keane Duncan shake hands after agreeing a deal that ended the contest to lead North Yorkshire Council into next year's local elections](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxMzE1YjYxLTY4MzItNGRlMC04NjE4LTljOTg2MmY1ZTIyMzo4YjM3MzJjZC03NTliLTQ3YmYtODc0ZC1mMWEzMDcyY2FkYzE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 But the two councillors now say that a way forward has been agreed.
 

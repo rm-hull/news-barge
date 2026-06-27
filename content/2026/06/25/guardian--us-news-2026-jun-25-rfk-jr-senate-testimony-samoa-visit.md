@@ -3,7 +3,7 @@ title: New evidence casts doubt on RFK Jr testimony before Senate
 source_url: https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-25T00:00:00Z'
 description: Kennedy repeatedly said in Senate testimony that 2019 trip had ‘nothing
   to do with vaccines’. An email from his then colleague says they were on a vaccine-related

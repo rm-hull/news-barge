@@ -4,11 +4,15 @@ title: '''We''ve been lighting a fire here for 150 years'' - unique side-effect 
 source_url: https://www.yorkpress.co.uk/news/26228676.whitby---fortunes-kippers-owner-side-effect-smoking/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:15Z'
+scraped_at: '2026-06-27T20:55:29Z'
 published: '2026-06-27T00:00:00Z'
 description: Traditional methods passed down through one family and used in the same
   premises of a business in a North Yorkshire town bring about a unique…
 ---
+
+## 'We've been lighting a fire here for 150 years' - unique side-effect of Whitby trade
+
+Dan Brown is the sixth-generation of the family to have worked in the famous smokehouse in Whitby 
 
 "We’ve been lighting a fire here for over 150 years."
 
@@ -16,6 +20,9 @@ Traditional methods passed down through one family and used in the same premises
 
 Barry Brown is the fifth-generation manger and partner at Fortune’s Kippers in Whitby – the coastal town’s only traditional smokehouse.
 
+  Barry said the end-of-day process a "light grey, light blue" smoke which smells quite sweet 
+
+*(Image: Fortune's Kippers Whitby)*
 
 Founded in 1872, the manual skills carried out seven days a week include gutting and splitting fresh herring then hanging them in the old tar-lined wooden building in Henrietta Street to be cold-smoked over wood until cured into kippers.
 
@@ -29,6 +36,9 @@ Mr Brown said: “When we finish the shift at 4pm we light the fires and close t
 
 The end-of-day process creates a “light grey, light blue” smoke which Mr Brown says smells quite sweet.
 
+  The smokehouse has been operating in Henrietta Street, Whitby for 154 years 
+
+*(Image: Fortune's Kippers Whitby)*
 
 Firefighters have been called to reports of smoke issuing from eaves of the property where the magic happens and which has been mistaken for an emergency.
 

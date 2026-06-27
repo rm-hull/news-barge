@@ -3,11 +3,15 @@ title: We tested scones - which ones were truly scrumptious?
 source_url: https://www.yorkpress.co.uk/news/26233876.tested-scones---ones-truly-scrumptious/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:32Z'
+scraped_at: '2026-06-27T20:55:45Z'
 published: '2026-06-27T00:00:00Z'
 description: SCONES bring a taste of summer, especially if they are served in the
   afternoon with jam and fresh cream.
 ---
+
+## We tested scones - which ones were truly scrumptious?
+
+Scones are teatime favouirite
 
 SCONES bring a taste of summer, especially if they are served in the afternoon with jam and fresh cream.
 
@@ -43,8 +47,16 @@ Cons: texture, taste, price.
 
 Mark: 2/5
 
+  Taste the Difference Clotted Cream Scones from Sainsbury's
 
 
+  Morrisons The Best Plain Scones
+
+
+  Lidl's Deluxe All Butter Scones
+
+
+  Tesco Finest All Butter Scones
 
 
 *M&S Food 4 Plain Scones, All Butter, £2.20
@@ -73,7 +85,15 @@ Pros: taste, price.
 
 Cons: consistency, texture.
 
-Mark: 2/5*Tesco 4 Finest All Butter Scones, £2.10 (£1.55 with Tesco Clubcard)
+Mark: 2/5
+
+  M&S Plain Scones
+
+
+  Asda Exceptional All Butter Scones
+
+
+  Aldi Specially Selected All Butter Scones*Tesco 4 Finest All Butter Scones, £2.10 (£1.55 with Tesco Clubcard)
 
 A decent size and shape, with a golden brown top, these had a lovely fluffy texture and a really nice buttery taste. They were soft in the mouth and would be delicious with jam and cream. A good price too, with the Clubcard. Top marks.
 

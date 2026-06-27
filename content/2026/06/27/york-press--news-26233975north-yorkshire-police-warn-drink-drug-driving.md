@@ -3,11 +3,13 @@ title: Extra police patrols in York and North Yorkshire tonight for England matc
 source_url: https://www.yorkpress.co.uk/news/26233975.north-yorkshire-police-warn-drink-drug-driving/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:44Z'
+scraped_at: '2026-06-27T20:55:00Z'
 published: '2026-06-27T00:00:00Z'
 description: Police are mounting extra patrols across York and North Yorkshire tonight
   as the city and county prepare for England’s latest World Cup match.
 ---
+
+*(Image: Submitted)*
 
 Police are mounting extra patrols across York and North Yorkshire as the city and county prepare for England’s latest World Cup match.
 

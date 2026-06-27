@@ -5,11 +5,13 @@ title: OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s M
 source_url: https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-chatgpt-5-6-gets-the-same-banhammer-treatment-as-anthropics-mythos-from-the-federal-government-source-says-that-washington-cautioned-openai-against-releasing-the-model-without-receiving-approval
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T19:47:00Z'
+scraped_at: '2026-06-27T21:03:33Z'
 published: '2026-06-26T00:00:00Z'
 description: The U.S. government wants to ensure that its latest, most advanced AI
   tools can't be used against it.
 ---
+
+![ChatGPT](https://cdn.mos.cms.futurecdn.net/Ca5PyjuvZ3LWsXhiopVth9.jpg) 
 
 OpenAI CEO Sam Altman said during a staff Q&A meeting that its latest model, GPT-5.6, is available in limited preview to only a small group of customers handpicked by the U.S. government. According to *The Information*, the federal government, specifically the Office of the National Cyber Director and the Office of Science and Technology Policy, asked the AI tech company to stagger the release of its latest model. While Altman did not mention how long the delay for the general release of GPT-5.6 will be, he said in a memo that he hoped it would happen in a couple of weeks. In the meantime, the U.S. government is granting access to the latest model on a case-by-case basis only.
 
@@ -21,9 +23,14 @@ The increasing advancement of AI models has the White House scrambling to preven
 
 However, this move has got some industry experts concerned. “…this escalation of government intervention is nothing to celebrate. It is horrible for the broader AI ecosystem,” Head of AI Policy and think tank Abundance Institute and former FTC Chief Technologist Neil Chilson said in their blog. “Continued arbitrary, unexplained deployment of export control authority will make companies slow-walk new models, depriving the public of powerful new tools. Every AI model, like all software before it, will have vulnerabilities that require patching. The US government should not hang a Sword of Damocles over every lab’s head, with no indication when it might drop or why.”
 
+  
+
+
 *Follow**Tom's Hardware on Google News**, or**add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
 
 Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Jowi Morales](https://cdn.mos.cms.futurecdn.net/gM7E2WSDg2wgCFoaDPz9yK.jpg)
 
 Jowi Morales is a tech enthusiast with years of experience working in the industry. He’s been writing with several tech publications since 2021, where he’s been interested in tech hardware and consumer electronics.
 

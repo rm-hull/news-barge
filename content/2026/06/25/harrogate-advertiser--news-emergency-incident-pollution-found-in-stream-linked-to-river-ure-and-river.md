@@ -4,7 +4,7 @@ title: Pollution found in stream linked to River Ure and River Ouse described as
 source_url: https://www.harrogateadvertiser.co.uk/news/emergency-incident/pollution-found-in-stream-linked-to-river-ure-and-river-ouse-described-as-small-scale-environmental-disaster-8761910
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: Pollution found in a tributary of the River Ure and River Ouse in North
   Yorkshire has been described as a ‘small-scale environmental disaster’ amid concerns
@@ -20,6 +20,10 @@ The Environment Agency launched an investigation after local residents spotted d
 Officials say they have now identified the source of the pollution in Bawter Carr Drain, but have declined to reveal further details.
 
 Residents, however, believe the pollution got into the watercourse after work at the site of an old slurry lagoon to the west of the village, with investigators seen at the location in recent days.
+
+![Pollution found in a tributary of the River Ure and River Ouse in North Yorkshire has been described as a “small-scale environmental disaster” amid concerns that wildlife has already been killed off](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFjMTBlY2QyLWQ4YWQtNDhkOS05YzJlLWE1ZjdlNTM2NWMwNTpiZWY2MmM5NC1jMjViLTQwN2ItOGVmMi05NmFiYjAwODEyYzc=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Resident Mike Blunt, 62, from Marton-cum-Grafton, first noticed the smell last Thursday, with other villagers raising further concerns the following day.
 

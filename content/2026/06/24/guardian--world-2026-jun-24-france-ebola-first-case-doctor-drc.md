@@ -3,7 +3,7 @@ title: France confirms first Ebola case in doctor who had worked in DRC
 source_url: https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-24T00:00:00Z'
 description: French health ministry says patient’s contacts are being traced and that
   risk to European public is very low
@@ -20,6 +20,8 @@ The outbreak is centred on Ituri province in north-eastern DRC, where authoritie
 There had been 1,048 confirmed cases and 267 deaths as of 21 June, according to the DRC health ministry’s latest data, while 112 people have recovered. Neighbouring Uganda has recorded 20 cases and two deaths.
 
 The World Health Organization declared the outbreak on 15 May, and two days later declared a public health emergency of international concern. Experts believe the virus was circulating in the DRC undetected for weeks before, however, and that the scale of the outbreak there is likely to be much larger than the confirmed cases suggest.
+
+![Two medical workers in masks, goggles, long gloves and coveralls stand in a makeshift-looking unit with canisters of disinfectant. One is spraying the other.](https://i.guim.co.uk/img/media/56784d4c25bfe0a0de2e3cd4e3b0ee5cc2c6997b/0_0_6240_4160/master/6240.jpg?width=445&dpr=1&s=none&crop=none)
 
 The humanitarian response has been complicated by aid cuts and conflict in North and South Kivu provinces, to the south of Ituri, where the Rwanda-backed M23 rebel group operates and Ebola cases have also been detected.
 

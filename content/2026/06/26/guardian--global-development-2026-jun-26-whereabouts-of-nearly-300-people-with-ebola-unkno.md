@@ -3,7 +3,7 @@ title: Whereabouts of nearly 300 people with Ebola unknown in DR Congo
 source_url: https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:31Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-26T00:00:00Z'
 description: Fears over ‘huge community transmission’ as modelling predicts thousands
   of deaths in DRC by September
@@ -14,6 +14,8 @@ The whereabouts of almost 300 people who have tested positive for Ebola in the D
 The humanitarian crisis amid the conflict in the affected areas means more than 1 million people are living in camps to which health workers have no access, Dr Jean Kaseya, director general of the Africa Centers for Disease Control and Prevention (CDC), said on Thursday.
 
 His comments came as projections from the World Health Organization’s Africa regional office, published in the Lancet Infectious Diseases journal, predicted there will be about 8,210 cases and 1,420 deaths by mid-September.
+
+![A man holds up an information sheet while speaking to a small crowd of people surrounded by tents.](https://i.guim.co.uk/img/media/7f4604533a2b262effd53d37ced73e06f6176c9b/590_0_4618_3695/master/4618.jpg?width=445&dpr=1&s=none&crop=none)
 
 The modelling suggested the outbreak had a 70% chance of spreading to neighbouring South Sudan in the coming weeks.
 

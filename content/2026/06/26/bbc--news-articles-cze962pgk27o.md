@@ -4,11 +4,15 @@ title: 'Meloni and Trump: A very public Italy-US fallout that is proving very ha
 source_url: https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-26T00:00:00Z'
 description: Italy's PM was not long ago being called the "Trump whisperer", but their
   relationship has gone from public attacks to personal insults.
 ---
+
+![The Italian leader with blonde hair on the right smiles at the camera while the US president in a blue jacket asnd red tie stands behind her and looks at the camera](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4e7c/live/7a76a060-7190-11f1-8e1d-bbbb1017d210.jpg)
+
+Relations between Italy's prime minister and President Trump have worsened considerably since 2025
 
 - Published
 
@@ -21,6 +25,8 @@ Of course none of the images are real, but the joke has landed because it captur
 Their relationship has over the past few months gone from public attacks to personal insults and back again, cooling what used to be one of the most watched alliances in European politics.
 
 It was not that long ago that Meloni was being called the "Trump whisperer", and she was the only European leader with a front-row seat at his January 2025 inauguration.
+
+![A man in a blue suit talks with his back to the camera to a woman with blonde hair and a beige suite, again with her back to the camera](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3baf/live/bbd07960-718f-11f1-b1db-af71d47507d6.jpg)
 
 Last April, she was also the EU leader of choice to head to the White House for a meeting aimed at easing tensions over US tariffs on European goods.
 
@@ -36,6 +42,8 @@ Weeks later the row deepened.
 
 Trump attacked Pope Leo XIV on Truth Social in April over the pontiff's criticism of the war, calling him "weak on crime".
 
+What Trump and Pope Leo XIV said about each other last April
+
 Meloni, governing a deeply Catholic country, called the attack "unacceptable".
 
 Trump did not take it well. "I'm shocked at her," he told Italian daily Corriere della Sera. "I thought she had courage, but I was wrong." He added: "She is unacceptable... she is not the same person, Italy is not the same country."
@@ -43,6 +51,10 @@ Trump did not take it well. "I'm shocked at her," he told Italian daily Corriere
 By June things seemed to be getting better. At the G7 summit in Évian-les-Bains in France, Trump and Meloni were photographed deep in conversation on a sofa, and Italian officials spoke of a "clarifying discussion".
 
 Meloni told reporters the atmosphere had been "very positive," with "no friction".
+
+![US President Donald Trump speaks to Italian Prime Minister Giorgia Meloni - they are both sitting, with their hands in front of them - Meloni is smiling at Trump, who is in side profile](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/614c/live/49688d60-6bd9-11f1-b1db-af71d47507d6.jpg)
+
+Giorgia Meloni was pictured talking to the US president on a sofa at the G7 summit in France
 
 Journalists barely had time to file the story before it fell apart again.
 
@@ -53,6 +65,8 @@ Days later, Trump told Italian broadcaster La7 that Meloni had "begged" him for 
 Meloni did not wait long to respond. She posted a video, delivered in Italian, calling Trump's account "completely fabricated."
 
 "I don't know why the president of the United States behaves this way toward his own allies," she said. "I can only say it's a pity he doesn't show the same resolve toward the enemies of the West... But there's one thing he must remember: neither I nor Italy ever beg."
+
+'Neither I nor Italy ever beg': Meloni addressed Trump's remarks on the photo of the two of them at Evian
 
 Italy's foreign minister, Antonio Tajani, cancelled a planned trip to Washington.
 

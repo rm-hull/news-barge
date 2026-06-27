@@ -4,7 +4,7 @@ title: Award-winning Harrogate hotel is to offer a 'brand new way to play and en
 source_url: https://www.harrogateadvertiser.co.uk/news/people/award-winning-harrogate-hotel-is-to-offer-a-brand-new-way-to-play-and-enjoy-golf-this-yorkshire-day-8758617
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: An award-winning Harrogate hotel is to launch a ‘first for Yorkshire’
   this summer with a brand new way to play and enjoy golf.
@@ -19,6 +19,10 @@ Rudding Park luxury hotel, spa, and golf resort, which holds an official AA 4-St
 Described as active, fun and very social, Gimme Golf will start at Rudding Park this Yorkshire Day on Saturday, August 1.
 
 Like padel is to tennis, Gimme Golf offers the chance for a new whole experience beyond the normal angst of competitive sport.
+
+![Described as active, fun and very social, Gimme Golf will start at Rudding Park in Harrogate from Yorkshire Day, Saturday, August 1. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk5ZGE3MDE5LTBlYmMtNGY1Mi05Nzc1LTUzZDQxOTNkNTQ2OTo2YzlkMTVjMS1mZDBkLTQyZjQtYTlmZC0wMjk3MjQ1MGRiZmE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Be the first to know, and be among first to play, by putting your details at: www.ruddingpark.com/golf/gimme
 

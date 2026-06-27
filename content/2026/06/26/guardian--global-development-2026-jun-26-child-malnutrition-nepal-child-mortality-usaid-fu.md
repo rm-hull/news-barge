@@ -4,7 +4,7 @@ title: Child malnutrition in Nepal has reached ‘alarming’ levels since aid c
 source_url: https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-26T00:00:00Z'
 description: Fears hard-won gains in reducing child mortality over 20 years are at
   risk after end of USAID funding for nutrition programmes
@@ -39,6 +39,8 @@ It has only been able to partly replace that funding, raising just under $5m fro
 Nepal’s government buys the country’s stocks of Ready-to-Use Therapeutic Food (RUTF), a nutrient-rich and high-calorie paste that can treat malnourished children. But much of the community outreach – such as health workers going door to door to identify children who needed treatment – was aid funded and stopped with the US cuts.
 
 “We saw this sudden, abrupt [halt],” Pandey Rana said. “In the last 14 months, we have seen this breakdown of systems where you have RUTF, but we don’t have families coming in. You have services, but there’s no one to refer or follow up.”
+
+![Hands wearing protective gloves exchange a container of food in front of a child who is eating from a similar container](https://i.guim.co.uk/img/media/a7d276afd40788b07d8eb9621489b6e8fc9083eb/0_0_4256_3340/master/4256.jpg?width=445&dpr=1&s=none&crop=none)
 
 Reducing malnutrition required an integrated approach, she said, including work on gender equality, because of links between women’s empowerment and the health of their children, and on access to clean, safe water.
 

@@ -3,11 +3,15 @@ title: US strikes Iran after attack on cargo ship
 source_url: https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-26T00:00:00Z'
 description: Iran accuses the US of violating their deal and says it struck targets
   linked to American forces in response.
 ---
+
+![Two vessels at the Strait of Hormuz, taken from Musandam, Oman](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg)
+
+Vessels at the Strait of Hormuz, as seen from Musandam, Oman
 
 - Published
 
@@ -56,6 +60,8 @@ Speaking to reporters at the White House on Friday afternoon, Trump refused to b
 "You'll find out," he said. "I don't like the fact that they took a shot yesterday. They shouldn't be doing that."
 
 Asked why he believed Iran would conduct such an operation, Trump said only that "they're a little bit different".
+
+Watch: US "spiralling back towards a hot war", says Democratic congressman after new strikes
 
 In recent days, Trump and other US officials insisted negotiations with Iran were progressing well, saying Iran had given up any suggestion of tolling vessels transiting through the Strait of Hormuz.
 

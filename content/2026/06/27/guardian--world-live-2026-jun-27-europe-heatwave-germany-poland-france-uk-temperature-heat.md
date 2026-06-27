@@ -4,7 +4,7 @@ title: 'Europe heatwave: drought fears in Italy as records tumble around Europe 
 source_url: https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:42:00Z'
 published: '2026-06-27T00:00:00Z'
 description: Temperature records broken in Germany, Denmark and Slovakia as Europe
   remains gripped by heatwave
@@ -76,6 +76,20 @@ After misting locals and tourists at Brandenburg Gate, they will be heading to t
 
 Police have already used 9,000 litres of water on two occasions so far today, according to Der Tagesspiegel.
 
+Allow content provided by a third party?
+
+This article includes content hosted on platform.x.com. We ask for your permission before anything is loaded, as the provider may be using cookies and other technologies. To view this content, click 'Allow and continue'.
+
+Here are some pictures of the heatwave from the UK and across Europe:
+
+A member of the Coldstream guards drinks water from a bottle on a hot sweltering day in London. Photograph: Amer Ghazzal/Shutterstock
+
+Workers push handcarts loaded with water bottles in Venice, Italy. Photograph: Stefano Rellandini/AFP/Getty Images
+
+A display in Berlin's Mitte district shows a temperature of 41C during the ongoing heatwave in Germany. Photograph: Axel Schmidt/Reuters
+
+Police officers patrol the Canal Saint-Martin in Paris, France, as people swim to cool off during the heatwave. Photograph: Samuel Boivin/NurPhoto/Shutterstock
+
 Snow and ice on Swiss glaciers melting at alarming rate, experts say
 
 Experts have warned that the heatwave sweeping across Europe could cause Swiss glaciers to lose vast amounts of ice, AFP reports.
@@ -94,6 +108,8 @@ A number of major roads in Germany have suffered heat damage while a number of t
 
 According to the German Automobile Club (ADAC), 11 motorways have been affected by heat damage, the German newspaper Die Welt reported. Pictures show sections of Germany’s autobahn network where the concrete has expanded and cracked due to the extreme heat.
 
+Due to the high teperatures sections of the concrete roadway have shifted against one another near the A2 exit Wollin, Germany. Photograph: Michael Bahlo/DPA/AP
+
 Deutsche Bahn and other railway companies have advised against non-essential travel this weekend due to the heat.
 
 Deutsche Bahn said: “The transport infrastructure in Germany is severely affected by the record heat this weekend. Rail traffic is also suffering from the extreme temperatures.”
@@ -108,6 +124,8 @@ It surpassed the previous record of 36.4C, which had stood since 1975.
 
 In a post on X, the Danish Meteorological Institute said: “With 36.6C north of Odense, we have the warmest day ever since the measurements began in 1874. And the day isn’t over yet...”
 
+Women use an umbrella and a fan during the heatwave in Copenhagen, Denmark. Photograph: Mads Claus Rasmussen/EPA
+
 More than 700 flights delayed at London Heathrow and Gatwick airports 'due to stormy weather'
 
 More than 700 flights have been delayed at London Heathrow and Gatwick airports, with some attributed to thunderstorms brought by the record-breaking heatwave.
@@ -115,6 +133,10 @@ More than 700 flights have been delayed at London Heathrow and Gatwick airports,
 Data from flight tracking website FlightAware shows 379 flights were delayed coming in and out of Heathrow so far today, as well as 385 to and from Gatwick. Sixty-eight flights were also cancelled at Heathrow, and 31 at Gatwick, according to FlightAware.
 
 A spokesperson at Gatwick said: “Due to ongoing thunderstorms across the network last night, temporary air traffic restrictions were put in place, which resulted in some flights being delayed and cancelled this morning. Passengers should contact their airline for further information.”
+
+The Guardian has contacted Heathrow for comment.
+
+British Airways aircraft are parked at Gatwick airport. Photograph: Peter Nicholls/Reuters
 
 Slovakia breaks night record with temperature not falling below 26.3C
 

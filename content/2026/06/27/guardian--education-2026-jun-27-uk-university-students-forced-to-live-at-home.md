@@ -4,7 +4,7 @@ title: '‘I’m missing out’: the cash-strapped UK university students forced
 source_url: https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Experts say students from poorer backgrounds increasingly having to limit
   their options because of money worries
@@ -19,6 +19,8 @@ Living at home because she cannot afford London’s rents, Mariam says she is �
 Mariam – not her real name – is part of a growing group of students living at home rather than moving away to university. A report published this week found that 52% of prospective undergraduates from England’s poorest neighbourhoods expect to live at home while studying, compared with 18% from the least deprived areas.
 
 The Resolution Foundation, which published the figures in its annual intergenerational audit, said rising rents and living costs were increasingly shaping university choices.
+
+![James Davies in short-sleeved white shirt](https://i.guim.co.uk/img/media/07bf5487a34e960e2652fc2002e016417da0ddb4/245_516_1217_1521/master/1217.jpg?width=445&dpr=1&s=none&crop=none)
 
 For some students, staying at home has its positives. Unlike Mariam, James Davies, an undergraduate at the University of Leicester, believes living at home works in his favour because he doesn’t have to work to pay rent. “I don’t think I’ve sacrificed too much. The people I know who moved away for university needed to do paid work outside of lectures and so didn’t have time to study.”
 

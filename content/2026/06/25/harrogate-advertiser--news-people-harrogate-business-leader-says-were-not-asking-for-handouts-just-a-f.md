@@ -4,7 +4,7 @@ title: Harrogate business leader says ‘we’re not asking for handouts just a 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-business-leader-says-were-not-asking-for-handouts-just-a-fair-chance-to-thrive-8761354
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-25T00:00:00Z'
 description: The owner of one of Harrogate’s most popular independent hospitality
   venues is calling for a cut in VAT rates not as a ‘Government hand out’ but as necessity
@@ -21,6 +21,10 @@ The leading independent businessman said he was far from alone in his thinking a
 
 Giving his backing to VAT’s The Problem, a national campaign to cut VAT for all hospitality businesses by 10% to “protect the future of Britain’s’ social spaces’”, Mr Midgley said: “Starling is busy, we’re doing well and we have ambitious plans for the future but the reality is that the cost pressures and tax burden facing hospitality businesses are enormous and businesses in Harrogate like our’s are suffering from that despite our success.
 
+![Warning over VAT - Owner of Harrogate's Starling independent café bar Simon Midgeley who won the Hospitality Leader category at the Yorkshire Leadership Awards earlier this year. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzNWM0MTFmLTRhMWItNGI0ZS1iODY1LTFjZjU2MTgzODcyZjo1ZDYzZDc3NS05ZDBlLTRhN2MtYmVjOC03NGNhYTAzN2ViNGI=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 "Even the very best businesses are finding it increasingly difficult to make the numbers stack up.”
 
 When he first launched Starling in 2017, Mr Midgley set out to create a relaxed venue with equal emphasis on great craft beer and specialist coffee, alongside simple but quality homemade food.
@@ -29,11 +33,19 @@ But the wider impact of this popular independent business extend far beyond food
 
 The venue hosts regular community events, four book clubs, a weekly charity quiz and fundraising activities, supports local charities and provides opportunities for placement students from organisations including Henshaws and Harrogate Skills 4 Living.
 
+![Starling cafe bar shows its support for local charity Capture, created in memory of late Harrogate teenage photographer Liz Hatton whose story touched the community. Pictured are mother Vicky, young brother Mateo and Starling's event manager Joe. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFiNzhhZjAxLTAzOTEtNGFmZi1iZTMxLTdlMzE0Y2FjMTgzODo1NzljMDdiMy01M2EyLTRkZGQtYTg5OC1lYjYwMTI4MDcwZjA=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 Simon Midgley also volunteers his time as Chair of Harrogate BID, helping support local businesses and promote investment in the town.
 
 Despite the popularity of Starling, which, incredibly, has grown in the midst of a cost of living crisis since it underwent a transformative £250,000 expansion three years ago, Mr Midgley is warning that rising costs and the UK’s VAT burden were putting at risk businesses that play a vital role in communities.
 
 And, he added, the fallout could hit more than the local economy.
+
+![Growing pressure on Harrogate's hospitality trade  - "Even the very best businesses are finding it increasingly difficult to make the numbers stack up.”](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBkZmU2NTEwLTc1Y2YtNDY2Yy1hOWZkLTA3YjZiNzA3MDViMjo2M2JmODcwOS05YzBhLTQyNjAtYTc0Ny0yNTQ3OTUzYzQ5MWQ=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 "These venues aren’t just places to eat and drink. They’re where people meet friends, celebrate milestones, build relationships and feel part of a community.”
 

@@ -3,12 +3,14 @@ title: Opticians in Ripon support pride event with £500 donation
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/opticians-in-ripon-support-pride-event-with-500-donation/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:29Z'
+scraped_at: '2026-06-27T20:49:01Z'
 published: '2026-06-25T00:00:00Z'
 description: Specsavers in Ripon supported last weekend's pride event.
 ---
 
-Specsavers in Ripon supported last weekend's pride event.
+![](https://mmo.aiircdn.com/409/67fe29c28fd61.jpg) 
+
+                                    Specsavers in Ripon supported last weekend's pride event.
 
 The Black Swan Pride has been a key event for four years and has grown each year.
 

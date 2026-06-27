@@ -3,12 +3,16 @@ title: Met Office news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/met-office/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:22:36Z'
+scraped_at: '2026-06-27T20:55:15Z'
 published: '2026-01-01T00:00:00Z'
 description: Met Office news, features and opinion in and around Press | York Press
 ---
 
-# Met Office
+![The Met Office has forecast a warm and sunny weekend across York](https://www.yorkpress.co.uk/resources/images/320x200/1x/19255950.jpg) 
+
+    
+        
+        # Met Office
 
 Loading...
 

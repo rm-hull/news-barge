@@ -3,14 +3,16 @@ title: Concerns for wildlife after pollution found in River Ure tributary
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/concerns-for-wildlife-after-pollution-found-in-river-ure-tributary/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:38Z'
+scraped_at: '2026-06-27T20:49:11Z'
 published: '2026-06-24T00:00:00Z'
 description: Pollution found in a tributary of the River Ure and River Ouse has been
   described as a “small-scale environmental disaster” amid concerns that wildlife
   has already been killed off.
 ---
 
-Pollution found in a tributary of the River Ure and River Ouse has been described as a “small-scale environmental disaster” amid concerns that wildlife has already been killed off.
+![](https://mmo.aiircdn.com/409/6a3c374f82ce14b5f0c.jpg) 
+
+                                    Pollution found in a tributary of the River Ure and River Ouse has been described as a “small-scale environmental disaster” amid concerns that wildlife has already been killed off.
 
 The Environment Agency (EA) launched an investigation after local residents spotted discoloured water and a strong smell of ammonia coming from a stream in Marton-cum-Grafton last week.
 

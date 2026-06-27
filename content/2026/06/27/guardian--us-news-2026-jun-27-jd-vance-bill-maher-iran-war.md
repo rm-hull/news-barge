@@ -3,7 +3,7 @@ title: JD Vance claims US holds all the cards in Iran and will win ‘either way
 source_url: https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Vice-president appeared on Bill Maher’s show hours before more military
   strikes were exchanged in strait of Hormuz

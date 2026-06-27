@@ -3,11 +3,15 @@ title: '''It''s a magical space!'' - new shop to open in York landmark'
 source_url: https://www.yorkpress.co.uk/news/26209703.yorkshire-soap-company-imaginarium-owners-monkbar-shop/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:35Z'
+scraped_at: '2026-06-27T20:54:51Z'
 published: '2026-06-27T00:00:00Z'
 description: The Yorkshire Soap Company and Imaginarium owners are opening a new shop
   in Monk Bar.
 ---
+
+## 'It's a magical space!' - new shop to open in York landmark
+
+Marcus Doyle and Warren Booth inside their new Monk Bar shop *(Image: Haydn Lewis)*
 
 "IT'S a magical space - it's just amazing to be here!"
 
@@ -25,6 +29,9 @@ The duo have created a range of bespoke products inspired by the heritage of Mon
 
 "At the moment we have the building for a year and we're hopeful that it will be longer term," said Warren.
 
+  Marcus Doyle and Warren Booth inside their new Monk Bar shop 
+
+*(Image: Haydn Lewis)*
 
 The shop has it's own custom designed dragon, which has yet to be named by the eight full and part-time staff who are set to work there under manager Kelly Markham, who will manage Monk Bar alongside the Alchemist.
 
@@ -32,6 +39,9 @@ A collection of dragon-themed perfumed will be on sale - all made here in York -
 
 Monk Bar is the largest and most ornate of York's medieval gates or bars, it dates from the early 14th century and has the city’s only working portcullis. The rooms above the gateway have had various uses over the years, including as a home and as a jail for rebellious Catholics in the 16th century.
 
+  The shop has it's own custom designed dragon 
+
+*(Image: Haydn Lewis)*
 
 Although the building will operate as a retail space, Marcus stressed that Monk Bar will remain open to everyone, whether they choose to shop or simply wish to explore the historic interior.
 
@@ -42,3 +52,7 @@ The Yorkshire Soap Company directly employs more than 80 team members across Yor
 Marcus and Warren are highly experienced in working sensitively with heritage buildings, demonstrated by their two stores at The Piece Hall in Halifax: The Society of Alchemists and a Yorkshire Soap Company store—both located within one of the UK’s most iconic historic settings.
 
 Marcus said the upstairs of Monk Bar will serve as his office. They plan to open from Tuesday, July 7 from 11am-5pm seven days a week.
+
+  The upstairs room at Monk Bar which will be used as an office 
+
+*(Image: Supplied)*

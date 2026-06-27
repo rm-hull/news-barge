@@ -3,11 +3,13 @@ title: '''I''m 98 but I still do my 40 press-ups every day'''
 source_url: https://www.bbc.co.uk/news/articles/c5yzlx7zpk2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-23T00:00:00Z'
 description: Bill Kober, who lives in Woodbridge, is proving that age is just a number...
   one press-up at a time.
 ---
+
+BBC Suffolk reporter George King challenged the veteran press-upperer who is three times older
 
 - Published
 
@@ -35,6 +37,10 @@ They should also do at least 150 minutes of moderate-intensity activity a week o
 
 Doing regular exercise can reduce the risk of major illnesses such as coronary heart disease, stroke and cancer, and lower the risk of early death by up to 30%.
 
+![An elderly man doing a press-up on grass in a garden.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6b9c/live/6b3fa8e0-6e4c-11f1-a347-e763b04aee4e.png)
+
+Bill Kober is beginning to get a bit of a reputation for his impressive press-ups
+
 While exercise has "never been important as such" to Bill, he acknowledges that he has always been active thanks to a career of hard, manual labour.
 
 The dad-of-two spent two years in the Army, worked in the building trade developing houses, and spent 28 years – the bulk of his career - working in a factory.
@@ -44,6 +50,10 @@ The last 10 years of his working life, however, were somewhat more relaxed, driv
 "I've never followed it religiously, but I dabbled in a little bit of weight training and I tried running, although I didn't like that very much," said Bill.
 
 "But doing press-ups is what is keeping me breathing well. I do it until I can't do any more. And then I get up and relax, and that's it."
+
+![A head and shoulders image of an elderly man wearing a white shirt and glasses. He is looking directly into the camera.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/90e8/live/fb9bf2a0-6e4b-11f1-a347-e763b04aee4e.jpg)
+
+Bill was a little upset when he could manage only 17 press-ups on his birthday
 
 Bill, who has been married to his wife for more than 75 years, was born in Mile End, east London, before being evacuated to the Cotswolds with his siblings during World War Two.
 
@@ -58,5 +68,7 @@ He recently celebrated his 98th birthday and said he was hopeful he would still 
 "The key to long life is getting good genes," he said.
 
 "I've had good genes passed down to me, and obviously they're working well."
+
+Listen: 98-year-old reveals secret to the perfect press-up
 
 **Do you have a story suggestion for Suffolk? Contact us below.**

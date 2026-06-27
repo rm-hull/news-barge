@@ -4,7 +4,7 @@ title: Official launch of Harrogate's 'most magical venue' as feast of music and
 source_url: https://www.harrogateadvertiser.co.uk/news/people/official-launch-of-harrogates-most-magical-venue-as-feast-of-music-and-entertainment-begins-8761875
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: The magical Spiegeltent Festival has been launched today in Harrogate
   as a sizzling summer programme of rock, disco, burlesque and more gets under way.
@@ -19,6 +19,10 @@ The Spiegeltent Festival 2026 – in association with Ogden of Harrogate, one of
 Located in Crescent Gardens, the vintage handcrafted, mobile entertainment venue made of wood, canvas, bevelled mirrors, and stained glass has been brought to the town by Harrogate International Festivals, which is celebrating its 60th anniversary.
 
 This extraordinary venue will play host to everything from crowdpleasing Leeds indie band Hope & Social to renowned sitar duo Ayan Sengupta and Srijanee Banerjee, not to forget the House of Burlesque, a Silent Disco and Jimmy’s Night of 1990s nostalgia.
+
+![Return of the fabulous Spiegeltent in Harrogate - From left, Sharon Canavar, Chief Executive of Harrogate International Festivals, Tommy Ogden and his father Ben Ogden, of Ogden of Harrogate. (Picture Richard Maude)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzZWZmNTA0LTc3NWMtNGUyYi04NGVmLTQzNDk1YTJjYWViYToxMTQ4OGU5MC03NDZkLTRlNWYtOGZkYy00MzRmN2NmNGM2YTc=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Ogden of Harrogate, known for its stunning collection of fine jewellery and distinguished clients, is back as Spiegeltent sponsors.
 

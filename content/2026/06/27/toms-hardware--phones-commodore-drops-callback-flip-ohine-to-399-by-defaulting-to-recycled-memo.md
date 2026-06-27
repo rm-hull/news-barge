@@ -5,11 +5,13 @@ title: Commodore drops Callback flip phone by $100 by defaulting to recycled mem
 source_url: https://www.tomshardware.com/phones/commodore-drops-callback-flip-ohine-to-399-by-defaulting-to-recycled-memory-chips
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T19:46:58Z'
+scraped_at: '2026-06-27T21:03:32Z'
 published: '2026-06-27T00:00:00Z'
 description: New $399 base price ships with “post consumer” memory; factory-fresh
   chips offered as a paid upgrade.
 ---
+
+![The Commodore Callback 8020](https://cdn.mos.cms.futurecdn.net/m8DVMuXiyoC3U9zNPiYWmn.jpg) 
 
 Commodore has slashed the starting price of its __Callback 8020 flip phone__ to $399, down from $499, by switching to recycled “post-consumer” memory chips and making the previously bundled earphones optional. The company __announced the tiered pricing__ just six days before pre-orders open on June 30th, and attributed the original $499 figure in part to the global memory shortage that has pushed DRAM prices to record highs. Buyers who want factory-fresh memory can still pay to upgrade, but four of the five colorways now qualify for the $399 price, with the gold Founders Edition holding at its original cost.
 
@@ -23,9 +25,14 @@ That squeeze has already __pushed vendors to restart DDR4 lines__ and prompted _
 
 Pre-orders open June 30th on Commodore's site, with buyers charged upfront to fund manufacturing. Commodore says shipping starts this winter and that pre-orders will be delivered within six months. However, it notes delivery is contingent on the device passing FCC equipment authorization, which it hasn’t yet completed.
 
+  
+
+
 *Follow**Tom's Hardware on Google News**, or**add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
 
 Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Luke James](https://cdn.mos.cms.futurecdn.net/C4FAi2KzwaGLUrBqzX5aBM.png)
 
 Luke James is a freelance writer and journalist. Although his background is in legal, he has a personal interest in all things tech, especially hardware and microelectronics, and anything regulatory.
 

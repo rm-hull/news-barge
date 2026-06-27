@@ -4,7 +4,7 @@ title: Popular local doctor formally elected as the Mayor of Harrogate | Harroga
 source_url: https://www.harrogate-news.co.uk/2026/05/07/election-of-popular-local-doctor-takes-place-at-the-annual-town-council-meeting-of-harrogate-town-council-on-6th-may-2026/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:00Z'
+scraped_at: '2026-06-27T20:47:53Z'
 published: '2026-05-07T00:00:00Z'
 description: At a meeting which saw the Council Chamber at Harrogate Civic Centre
   filled with councillors, community representatives, friends and family, Councillor
@@ -19,6 +19,8 @@ Councillor Poskitt becomes the first female Mayor elected by Harrogate Town Coun
 
 Drawing on her extensive background in health and community work, Mayor Poskitt spoke passionately about her ambition to help make Harrogate a happier, healthier and more connected place for residents of all ages.
 
+
+![Election of Popular Local Doctor Takes Place at the Annual Town Council Meeting of Harrogate Town Council on 6th May 2026](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Cllr-Viv-Poskitt-Mayoral-Photo-WEB-1.webp)
 
 
 

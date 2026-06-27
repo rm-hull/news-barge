@@ -4,7 +4,7 @@ title: 'Hidden in plain sight: discovering the human stories behind the headston
 source_url: https://www.harrogate-news.co.uk/2026/05/08/hidden-in-plain-sight-discovering-the-human-stories-behind-the-headstones-in-harrogates-commonwealth-war-graves/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:00Z'
+scraped_at: '2026-06-27T20:47:52Z'
 published: '2026-05-08T00:00:00Z'
 description: War Graves Week invites people in Harrogate to discover the stories behind
   war graves in their local communities and share their own connections to the World

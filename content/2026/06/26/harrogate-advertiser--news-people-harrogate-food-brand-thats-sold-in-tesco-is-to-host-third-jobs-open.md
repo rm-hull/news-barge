@@ -4,7 +4,7 @@ title: Harrogate food brand that's sold in Tesco is to host third Jobs Open Day 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-food-brand-thats-sold-in-tesco-is-to-host-third-jobs-open-day-this-weekend-8764512
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:48Z'
+scraped_at: '2026-06-27T20:47:10Z'
 published: '2026-06-26T00:00:00Z'
 description: The co-founder of a Harrogate firm that is 'Britain’s largest independent
   sausage maker' says it made 22 job offers after its recent recruitment event.
@@ -19,6 +19,10 @@ Based in Bedale, the origins of HECK! lie in Harrogate couple Andrew and Debbie 
 Now one of the largest private employers in the area and stocked nationally in major stores, family food brand HECK! plays a significant role in North Yorkshire’s dynamic food manufacturing sector.
 
 Following the success of its first two Jobs Open Days, HECK! has announced it will be hosting a third recruitment event tomorrow, Saturday, June 27.
+
+![Recruiting in North Yorkshire - HECK! co-founder Jamie Keeble said: "It's a challenging time for recruitment across North Yorkshire, that's why creating opportunities to meet people face-to-face is so important." (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhN2VkNzQ3LWRlYjYtNDE1MC1hZDFiLTIwN2EyOGRiZDMzMzoxNjU1ZTlmMC1jYWQ4LTQ3NmItOGExNS05MmZjY2FjYTM2ODY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 HECK! co-founder Jamie Keeble said: "It's a challenging time for employers across North Yorkshire with many businesses finding recruitment tougher than ever.
 

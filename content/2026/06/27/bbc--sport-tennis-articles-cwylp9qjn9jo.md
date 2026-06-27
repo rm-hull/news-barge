@@ -3,11 +3,15 @@ title: 'Wimbledon 2026: Emma Raducanu cuts short her practice at the All England
 source_url: https://www.bbc.co.uk/sport/tennis/articles/cwylp9qjn9jo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Emma Raducanu's chances of being fit for Wimbledon look to be in considerable
   doubt after the Briton cut short her practice on Saturday.
 ---
+
+![Emma Raducanu chews her lip during practice at Wimbledon](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e097/live/ff828810-722f-11f1-930d-75324f3b4c6e.jpg)
+
+Emma Raducanu is due to open play on Court One on Monday
 
 - Published
 
@@ -22,6 +26,10 @@ The 2021 US Open champion did not train on Thursday and Friday because of what i
 Wearing strapping around her lower right leg, Raducanu looked tentative in an hour with her team on the Aorangi Park practice courts, where her mobility was not overly tested.
 
 From there she went straight to court three to hit with Kalinskaya, but lost four games in their practice set before deciding she could not continue.
+
+![Emma Raducanu smiles during practice](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c417/live/b322ce50-7232-11f1-930d-75324f3b4c6e.jpg)
+
+Raducanu, who was laughing and relaxed earlier in her practice session, wore strapping on her lower right leg
 
 Less than half an hour after departing the court, it was announced Raducanu's news conference - which had been scheduled for about 16:00 on Saturday - had been cancelled.
 

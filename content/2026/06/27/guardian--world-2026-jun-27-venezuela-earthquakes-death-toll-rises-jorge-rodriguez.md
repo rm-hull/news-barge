@@ -3,7 +3,7 @@ title: 'Venezuela earthquakes: death toll rises again to more than 1,400'
 source_url: https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T20:19:36Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-27T00:00:00Z'
 description: Search for survivors continues with nearly 70,000 people reported unaccounted
   for by their family members
@@ -21,6 +21,8 @@ On Saturday, the UN estimated that the quakes caused $6.7bn in damage, equivalen
 
 The preliminary assessment accounts for losses to assets including housing but does not cover wider economic disruption, the UN Development Programme said in a statement.
 
+![A line of soldiers passing boxes to each other, with a helicopter and trees visible in the background.](https://i.guim.co.uk/img/media/b915581897f63f6a2105b20328f30c0c29dc8938/0_0_7761_5174/master/7761.jpg?width=445&dpr=1&s=none&crop=none)
+
 The South American country’s acting president, Delcy Rodríguez, said on state television that more than 14,000 members of the military and police were patrolling affected areas, where access has been blocked and special permits are required to enter.
 
 Further rescue teams sent by governments from across the world, including Mexico, the US, Brazil, El Salvador and France, arrived in Venezuela on Saturday.
@@ -30,6 +32,8 @@ It comes after teams from countries including the Netherlands, Turkey and the UK
 Jeremy Lewin, a US state department official, said the US military would help coordinate flights to bring in rescue workers, mobile hospitals and supplies.
 
 He said two 80-person search teams had been deployed and a US navy transport ship was docked off the coast of Venezuela, ready to receive airlifted survivors in need of medical attention.
+
+![A drone flying above piles of concrete and other debris.](https://i.guim.co.uk/img/media/436c040381eb82f6e01b64007140497e6000bb25/0_0_7486_4991/master/7486.jpg?width=445&dpr=1&s=none&crop=none)
 
 Lewin said it was a “race against the clock” to find people injured in the quakes.
 

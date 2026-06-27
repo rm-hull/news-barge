@@ -4,20 +4,25 @@ title: Harrogate teacher to cycle 1,000 miles for charity after Buckingham Palac
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-teacher-to-cycle-1000-miles-for-charity-after-buckingham-palace-honour/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:05Z'
+scraped_at: '2026-06-27T20:49:38Z'
 published: '2026-06-18T00:00:00Z'
 description: A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s
   End to John O’Groats for charity – just weeks after being honoured at Buckingham
   Palace.
 ---
 
-A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s End to John O’Groats for charity – just weeks after being honoured at Buckingham Palace.
+![](https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg) 
+
+                                    A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s End to John O’Groats for charity – just weeks after being honoured at Buckingham Palace.
 
 Retired Belmont Grosvenor School teaching legend Mrs Gillian Furniss will set off this weekend on the epic challenge, raising money for three charities close to her heart: Capture, Blood Cancer UK and Active Against Cancer.
 
 The challenge comes shortly after Mrs Furniss attended the first Royal Garden Party of the season at Buckingham Palace, having been invited in recognition of her remarkable 43 years of service at the Harrogate independent prep school.
 
 Mrs Furniss, who retired last summer, travelled to London with her daughter Holly for the special occasion.
+
+![](https://mmo.aiircdn.com/409/6a34026f178b867c00b.jpg)
+
 
 During the afternoon, she enjoyed tea, sandwiches and cake in the Palace gardens and had the opportunity to speak with both HRH The Queen and HRH The Princess Royal.
 

@@ -3,17 +3,22 @@ title: Popular Harrogate café celebrates 10th anniversary
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/popular-harrogate-cafe-celebrates-10th-anniversary/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:57Z'
+scraped_at: '2026-06-27T20:49:29Z'
 published: '2026-06-19T00:00:00Z'
 description: A popular Harrogate café has celebrated a major milestone after marking
   its 10th anniversary.
 ---
 
-A popular Harrogate café has celebrated a major milestone after marking its 10th anniversary.
+![](https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg) 
+
+                                    A popular Harrogate café has celebrated a major milestone after marking its 10th anniversary.
 
 Manna Bakery, on Cold Bath Road, celebrated ten years in business yesterday (Thursday).
 
 The independent café and bakery has become a firm favourite with locals over the past decade, serving artisan breads, pastries, cakes and brunch from its Cold Bath Road home.
+
+![](https://mmo.aiircdn.com/409/6a353880cdbe8fef5cb.jpg)
+
 
 Marking the occasion, the team thanked customers, friends, family and staff for their support over the years.
 

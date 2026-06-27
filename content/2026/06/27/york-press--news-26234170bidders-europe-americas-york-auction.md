@@ -3,11 +3,15 @@ title: Historic horse-drawn carriages fetch more than £200,000 in York auction
 source_url: https://www.yorkpress.co.uk/news/26234170.bidders-europe-americas-york-auction/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:39Z'
+scraped_at: '2026-06-27T20:54:55Z'
 published: '2026-06-27T00:00:00Z'
 description: Bidders from Europe, USA and South America competed with UK bidders at
   a York auction of 29 historic horse-drawn carriages.
 ---
+
+## Historic horse-drawn carriages fetch more than £200,000 in York auction
+
+Filming for Victoria at the Eye of York in September 2018 *(Image: Ann Pitcher)*
 
 Historic carriages vastly exceeded expectations when they went under the hammer in a spectacular auction in York.
 
@@ -17,6 +21,9 @@ Together they paid more than £200,000 to own carriages that once bowled around 
 
 Duggleby Stephenson Managing Director Will Duggleby: "It was absolutely epic, one of the best single-owner auctions we've ever seen at our York saleroom."
 
+   Auctioneer Coralie Thomson with a Victorian private omnibus 
+
+*(Image: Duggleby Stephenson)*
 
 "It was a very special collection, brought together over a period of about a quarter of a century. Just how much national and international interest the team had managed to generate through the news media and their contact with specialist social media groups became clear earlier this week when we had people from literally all over the country . . . Devon, the South Coast, the North West . . . travelling to York to attend the viewing sessions.
 
@@ -24,9 +31,15 @@ Duggleby Stephenson Managing Director Will Duggleby: "It was absolutely epic, on
 
 Among carriages that went for far more than expected was a horse-drawn Victorian trade cart built in 1895 by J. Herring of Hartlepool. It was expected to make about £3,500 but eventually went for £21,000 to a Yorkshire collector.
 
+  The Hartlepool cart that went for five times its expected price 
+
+*(Image: Duggleby Stephenson)*
 
 The top price went to a “roof seat brake” by Shanks of London, a high quality coaches maker. It attracted international attention and went for £33,000 to a Kentish buyer who outbid a rival from Santiago in Chile.
 
+  The roof seat break - favoured transport of the ultra wealthy race-goer 
+
+*(Image: Duggleby Stephenson)*
 
 The most famous coach in the sale - a town coach, made by the Victorian carriage maker John Marston that was used in the ITV series 'Victoria' staring Jenna Coleman - -made £6,400.
 
@@ -34,5 +47,8 @@ A wild west chuck waggon went for £4,300, more than double the most optimistic 
 
 A Victorian London hearse went for £7,800, four times expectations, to an Essex buyer.
 
+  The Victorian London hearse 
+
+*(Image: Duggleby Stephenson)*
 
 In addition to the carriages and carts the 179 lots in the auction included an extensive range of equestrian and coaching equipment and memorabilia and that provided many more surprises. Half a dozen Victorian top hats made a thousand pounds, yew coaching whips made over a thousand pounds apiece, coaching horns went for as much as two thousand pounds and a four-team set of black leather and brass harness went for £7,800.

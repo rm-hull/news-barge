@@ -3,12 +3,16 @@ title: Court news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/court/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:22:23Z'
+scraped_at: '2026-06-27T20:55:09Z'
 published: '2026-01-01T00:00:00Z'
 description: Court news, features and opinion in and around Press | York Press
 ---
 
-# Court
+![](https://www.yorkpress.co.uk/resources/images/320x200/1x/20629021.jpg) 
+
+    
+        
+        # Court
 
 Loading...
 

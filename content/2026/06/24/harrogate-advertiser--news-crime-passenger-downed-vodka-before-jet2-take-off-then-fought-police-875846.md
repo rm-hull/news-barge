@@ -3,7 +3,7 @@ title: Leeds passenger downed vodka then fought and bit officer before Jet2 take
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/passenger-downed-vodka-before-jet2-take-off-then-fought-police-8758464
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: He was jailed and handed lifetime ban from airline
 ---
@@ -17,6 +17,10 @@ A drunken thug downed a bottle of vodka as a flight waited to take off from Leed
 Nathan Cooper punched the female officer called to the Jet2 plane on the Tarmac, and bit another to the arm as they wrestled to remove him from the fully-boarded plane.
 
 The 44-year-old bricklayer admitted charges of affray and being drunk on an aircraft during a sentencing hearing at Leeds Crown Court this morning.
+
+![Cooper (pictured) was jailed for affray and being drunk on the Jet2 flight to Crete.](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/24/10/55/Cooper.jpeg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Prosecutor Louise Pryke said the flight from Leeds Bradford to Chania in Crete was due to take off at 4pm on July 24 last year.
 

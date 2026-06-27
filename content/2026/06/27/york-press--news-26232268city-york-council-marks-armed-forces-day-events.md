@@ -3,11 +3,13 @@ title: Armed Forces Day celebrated across York with tribute and activities
 source_url: https://www.yorkpress.co.uk/news/26232268.city-york-council-marks-armed-forces-day-events/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:18Z'
+scraped_at: '2026-06-27T20:55:32Z'
 published: '2026-06-27T00:00:00Z'
 description: City of York Council is marking Armed Forces Day today (June 27) with
   a flag-raising tribute and a week of activities.
 ---
+
+*(Image: City of York Council)*
 
 City of York Council is marking Armed Forces Day today with a flag-raising tribute and a week of activities.
 

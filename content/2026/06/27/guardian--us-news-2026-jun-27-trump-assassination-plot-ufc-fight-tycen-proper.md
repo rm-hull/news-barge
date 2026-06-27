@@ -4,7 +4,7 @@ title: 'The UFC match plot: how a far-right group tried to assassinate Trump at 
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-assassination-plot-ufc-fight-tycen-proper
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:42:02Z'
 published: '2026-06-27T00:00:00Z'
 description: Court files show how men connected through TikTok and encrypted apps
   planned attack on White House UFC fight

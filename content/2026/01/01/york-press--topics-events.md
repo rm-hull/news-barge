@@ -3,12 +3,16 @@ title: Events news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/events/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:22:54Z'
+scraped_at: '2026-06-27T20:55:23Z'
 published: '2026-01-01T00:00:00Z'
 description: Events news, features and opinion in and around Press | York Press
 ---
 
-# Events
+![City of York Council is marking Armed Forces Day today (June 27) with a flag-raising tribute and a week of activities](https://www.yorkpress.co.uk/resources/images/320x200/1x/21106945.jpg) 
+
+    
+        
+        # Events
 
 Loading...
 

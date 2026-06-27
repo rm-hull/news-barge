@@ -3,13 +3,15 @@ title: New Italian restaurant to open in Knaresborough tomorrow
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/new-italian-restaurant-to-open-in-knaresborough-this-week/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:10Z'
+scraped_at: '2026-06-27T20:49:42Z'
 published: '2026-06-17T00:00:00Z'
 description: A new Italian restaurant and deli is set to open in Knaresborough tomorrow
   (Friday).
 ---
 
-A new Italian restaurant and deli is set to open in Knaresborough tomorrow (Friday).
+![](https://mmo.aiircdn.com/409/6a338d1c83fc77fc321.jpg) 
+
+                                    A new Italian restaurant and deli is set to open in Knaresborough tomorrow (Friday).
 
 Vomero will officially open its doors at 12pm in the town centre.
 

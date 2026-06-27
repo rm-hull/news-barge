@@ -3,13 +3,15 @@ title: Stephen Mangan and Fearne Cotton expected at Brimham Rocks
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/stephen-mangan-and-fearne-cotton-expected-at-brimham-rocks/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:33Z'
+scraped_at: '2026-06-27T20:49:06Z'
 published: '2026-06-24T00:00:00Z'
 description: One of the area's most iconic landmarks is taking centre stage this week
   as Sky Arts' Landscape Artist of the Year comes to Brimham Rocks.
 ---
 
-One of the area's most iconic landmarks is taking centre stage this week as Sky Arts' "Landscape Artist of the Year" comes to Brimham Rocks.
+![](https://mmo.aiircdn.com/409/6a3c60e663ad3c6fa18.jpg) 
+
+                                    One of the area's most iconic landmarks is taking centre stage this week as Sky Arts' "Landscape Artist of the Year" comes to Brimham Rocks.
 
 The popular television competition is filming at the National Trust site over the next couple of days, with members of the public invited to watch the action unfold, starting today (25th June).
 
@@ -24,6 +26,9 @@ Speaking about the filming at Brimham Rocks, Jenni says local people are encoura
 "They love an audience and we would love to have people from our local community coming up to watch and see all the exciting stuff happening.
 
 We do have limited parking on site. We'll do our best to get people parked, but if not, you'll be able to tune in and watch it this winter."
+
+
+![](https://mmo.aiircdn.com/409/6a3c64cd6d3b4b24758.jpg)
 
 
 Brimham Rocks is one of several stunning locations being featured in the new series, which has introduced a revised competition format with artists returning week after week to tackle landscapes across the UK before one is crowned champion.

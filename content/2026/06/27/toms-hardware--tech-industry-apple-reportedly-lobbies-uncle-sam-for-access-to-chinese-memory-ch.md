@@ -4,12 +4,17 @@ title: Apple reportedly lobbies Uncle Sam for access to Chinese memory chips —
 source_url: https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T19:46:49Z'
+scraped_at: '2026-06-27T21:03:30Z'
 published: '2026-06-27T00:00:00Z'
 description: A new precedent on the precipice?
 ---
 
+![US President Donald Trump listens to Apple CEO Tim Cook speak during an American Technology Council roundtable at the White House in Washington, DC, on June 19, 2017.](https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ.jpg) 
+
 As the ongoing component crisis worsens, even the biggest companies are no longer shielded. Apple, in a historic first, raised prices on a fleet of its products yesterday, saying it could no longer protect its customers from the soaring memory and storage costs. Now, *the Financial Times* is reporting that Apple is trying to lobby the U.S. government to secure official clearance to buy (cheaper) memory from China's CXMT.
+
+ ![HBM3E vs HBM4](https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn.png) 
+
 
 CXMT is not outright banned by the White House, as it's not on the Defense Department's "Entity List," which prohibits Chinese companies entirely on national security grounds. Instead, it's listed in the 1260H list, which still designates it as a Chinese military company, and doing business with it would cause major reputational damage to an American company.
 
@@ -29,7 +34,12 @@ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 
 Whether Apple's efforts in Washington succeed or not is also predicated on the changing of the guard, since Tim Cook will hand over the baton to John Ternus come September — a logistics wizard leaving at perhaps the most decisive moment he was needed. The AI boom is here to stay, and so is the component crisis for now, so it remains to be seen how the company navigates the oncoming challenges.
 
+  
+
+
 *Follow**Tom's Hardware on Google News**, or**add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+![Hassam Nasir](https://cdn.mos.cms.futurecdn.net/SxxNFHt95eGK37mKPhJpdZ.jpg)
 
 Hassam Nasir is a die-hard hardware enthusiast with years of experience as a tech editor and writer, focusing on detailed CPU comparisons and general hardware news. When he’s not working, you’ll find him bending tubes for his ever-evolving custom water-loop gaming rig or benchmarking the latest CPUs and GPUs just for fun.
 

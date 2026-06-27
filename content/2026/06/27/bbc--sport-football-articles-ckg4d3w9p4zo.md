@@ -3,11 +3,15 @@ title: 'World Cup 2026: Where does Scotland campaign leave Steve Clarke?'
 source_url: https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:33Z'
 published: '2026-06-27T00:00:00Z'
 description: Did Steve Clarke get the best out of his Scotland squad at the 2026 World
   Cup as they face group-stage exit?
 ---
+
+![Scotland head coach Steve Clarke](https://ichef.bbci.co.uk/ace/standard/872/cpsprodpb/0d91/live/ff84fe40-721d-11f1-8078-cdcf6dd43d3c.jpg)
+
+Scotland head coach Steve Clarke signed a new four-year contract before the World Cup
 
 - Published
 
@@ -52,6 +56,8 @@ Scotland conceded soft, early goals in defeats by Morocco and Brazil, with forme
 "But a lot of people think we should have had two penalties and a red card in that game, which is nothing to do with the manager and players.
 
 "Against Brazil, we gave them two gifts."
+
+'Disappointing' - Clarke reacts to Scotland's loss against Brazil
 
 The opening 1-0 win against Haiti was just Scotland men's fifth win in nine World Cup campaigns.
 

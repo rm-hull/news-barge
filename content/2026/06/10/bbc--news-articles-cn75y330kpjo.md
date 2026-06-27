@@ -3,7 +3,7 @@ title: Find your local World Cup hero with our postcode lookup
 source_url: https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-10T00:00:00Z'
 description: Which World Cup stars have roots near you? Find out with our interactive
   lookup tool
@@ -65,4 +65,4 @@ Some players were born abroad but moved to the UK as a child, in which case thei
 
 Six players – England's Owen Hargreaves, Graeme Le Saux and Tony Dorigo, plus Scotland's Lyndon Dykes, Richard Gough and John Hewie – spent their entire childhoods abroad and are excluded from the analysis.
 
-*Reporting by Phil Leake, Yazmina Garcia, Libby Rogers, Deirdre Finnerty, Marie Jackson and Lauren Woodhead. Design by Jess Carr. *
+*Reporting by Phil Leake, Yazmina Garcia, Libby Rogers, Deirdre Finnerty, Marie Jackson and Lauren Woodhead. Design by Jess Carr.*

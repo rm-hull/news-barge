@@ -3,12 +3,16 @@ title: Asda news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/asda/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:23:29Z'
+scraped_at: '2026-06-27T20:55:41Z'
 published: '2026-01-01T00:00:00Z'
 description: Asda news, features and opinion in and around Press | York Press
 ---
 
-# Asda
+![The Food Standards Agency has issued several “do not eat” notices affecting items stocked across major supermarkets.](https://www.yorkpress.co.uk/resources/images/320x200/1x/20538552.jpg) 
+
+    
+        
+        # Asda
 
 Loading...
 

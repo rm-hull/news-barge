@@ -4,7 +4,7 @@ title: Yorkshire chefs help raise £14,500 for children's cancer charity at Harr
 source_url: https://www.harrogateadvertiser.co.uk/news/people/yorkshire-chefs-help-raise-ps14500-for-childrens-cancer-charity-at-harrogate-fine-dining-event-8763059
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:49Z'
+scraped_at: '2026-06-27T20:47:10Z'
 published: '2026-06-26T00:00:00Z'
 description: An evening showcasing some of Yorkshire's most celebrated chefs has helped
   raise thousands of pounds for children's cancer charity Candlelighters.
@@ -19,6 +19,10 @@ Yorkshire Food Guide's inaugural fine dining event, held at Rudding Park in Harr
 Hosted in collaboration with some of the region's leading chefs, the charity event welcomed guests for an evening celebrating Yorkshire's renowned food scene while raising vital funds for charity.
 
 The evening began with a glass of English sparkling wine provided by drinks sponsor Domaine Evremond before guests enjoyed a five-course tasting menu created by five award-winning Yorkshire chefs.
+
+![The Yorkshire Food Guide's first fine dining event, held at Rudding Park in Harrogate, has raised an incredible £14,500 for children's cancer charity Candlelighters](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI5YzZiZjJiLWY2NWEtNGE0Ny1iMDEzLWM1ZWJmM2RjZWY3NTpkMDNlMTgwMC1mYTRjLTRjMTgtYmI0NS04ZWRkNDE4MjAxYzA=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 The menu was prepared by Ruth Hansom of Hansom Restaurant, Jake Jones from Middleton Lodge, Ahmed Abdalla from The Grand in York, Callum Leslie from Roots in York, and Adam Degg from Fifty Two at Rudding Park.
 

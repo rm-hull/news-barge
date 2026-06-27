@@ -3,11 +3,13 @@ title: What happened when I tried to report sexual assault to British Transport 
 source_url: https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-27T00:00:00Z'
 description: After reporting an incident, Esme Rice waited 13 hours for a response
   from the British Transport Police.
 ---
+
+![Esme Rice standing outside the entrance to Stratford Station, east London. It is a full-body shot, she is dressed all in black, the sign which says 'Stratford Station' is behind her.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5b42/live/7e6cb680-6afd-11f1-8e1d-bbbb1017d210.jpg)
 
 - Published
 
@@ -54,6 +56,10 @@ A day later, a comment from BTP's official social media account appeared among t
 Assistant Chief Constable Ian Drummond-Smith then called Esme and acknowledged that a 13-hour delay was far too long.
 
 "He said I should have been called the same evening I reported the incident," says Esme. "I have since been informed there is now an internal investigation into why I was not offered additional support that night."
+
+![A woman in her 30s, with long brown hair in a black T-shirt is standing in front of the entrance to Stratford station. She is looking straight into the camera. She is wearing a small red badge which says 'Shame must change sides'.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3b20/live/01d77c20-6aff-11f1-8546-8f19e4fe30f4.jpg)
+
+Esme Rice at Stratford station, east London, she is wearing a badge which says 'Shame must change sides' inspired by the story of sexual assault survivor Gisèle Pelicot
 
 BTP launched its now very familiar public safety slogan a decade ago. The phrase - See it. Say it. Sorted - is broadcast over public address systems in stations and on trains, and features prominently on posters across the rail network.
 

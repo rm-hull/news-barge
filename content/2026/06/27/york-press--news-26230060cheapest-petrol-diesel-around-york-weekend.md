@@ -3,11 +3,13 @@ title: Here are the cheapest fuel prices in and around York this weekend
 source_url: https://www.yorkpress.co.uk/news/26230060.cheapest-petrol-diesel-around-york-weekend/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:16Z'
+scraped_at: '2026-06-27T20:55:29Z'
 published: '2026-06-27T00:00:00Z'
 description: Here's a list of the cheapest garages in York this weekend, according
   to petrolprices.com.
 ---
+
+*(Image: Archive)*
 
 To help you get the best deal on your petrol or diesel this weekend, we've compiled a list of the cheapest garages in York, according to petrolprices.com.
 

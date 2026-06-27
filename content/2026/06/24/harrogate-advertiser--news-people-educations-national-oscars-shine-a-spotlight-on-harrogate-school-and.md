@@ -4,7 +4,7 @@ title: Education’s national ‘Oscars’ shine a spotlight on Harrogate school
 source_url: https://www.harrogateadvertiser.co.uk/news/people/educations-national-oscars-shine-a-spotlight-on-harrogate-school-and-its-remarkable-headteacher-8759045
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:13Z'
 published: '2026-06-24T00:00:00Z'
 description: A Harrogate headteacher has spoken of her pride in representing the North
   on the national stage in the education sector’s ‘Oscars’.
@@ -19,6 +19,10 @@ Rhiannon Wilkinson, Head of Ashville, was speaking after making the final of the
 “There is no shortage of inspiration in schools and their people across the country so I am thrilled that Ashville was represented at such prestigious awards - widely recognised as education’s ‘Oscars’,” said Rhiannon.
 
 “To be a finalist in the Headteacher of the Year category filled me with immense pride, especially as this year attracted the highest number of nominations since the awards began in 2009.”
+
+![Rhiannon Wilkinson, Head of Ashville school in Harrogate, appearing in the final of the Tes School Awards 2026 in the Headteacher of the Year category. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI4ZTU3OGM5LWMyZTYtNDdlNC04Y2ZlLWFmN2Y5YzJlZjA1MDpjMjBiMzE5Yi1lYTA3LTQwNzUtYjgzOC03NzExYzYxNjZmMmU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Ashville was the only school in the North of England to make the judges’ shortlist in the category, which shines a spotlight on excellence and innovation throughout the education sector.
 

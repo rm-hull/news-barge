@@ -3,11 +3,13 @@ title: Family attraction near Malton to reopen with summer activities
 source_url: https://www.yorkpress.co.uk/news/26230804.woldies-returns-nature-trails-summer-family-fun/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:02Z'
+scraped_at: '2026-06-27T20:55:22Z'
 published: '2026-06-27T00:00:00Z'
 description: Woldies, a seasonal attraction near Malton, is set to open its doors
   for the summer.
 ---
+
+*(Image: Supplied)*
 
 A seasonal attraction near Malton is set to open its doors for the summer.
 

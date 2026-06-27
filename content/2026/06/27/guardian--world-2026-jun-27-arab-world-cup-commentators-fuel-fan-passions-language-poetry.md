@@ -3,7 +3,7 @@ title: '‘You’re history itself!’: how Arab World Cup commentators fuel fan
 source_url: https://www.theguardian.com/world/2026/jun/27/arab-world-cup-commentators-fuel-fan-passions-language-poetry
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Arabic’s rich history of poetry lends itself well to ‘beautiful commentary
   that … sounds like a love letter to football’
@@ -19,6 +19,8 @@ With a record number of Middle Eastern teams at the 2026 World Cup, more fans th
 
 From crowded seaside cafes in Lebanon, where excited fans stretch the limits of tired plastic chairs, to air-conditioned restaurants in the Gulf, the booming voices of commentators such as al-Khudhiri and Tunisia’s Issam Chaouali are a soundtrack to the action.
 
+![Issam Chaouali](https://i.guim.co.uk/img/media/a449ba8f25d8e56278116e771b24e20a2ceae50b/0_407_1200_960/master/1200.jpg?width=445&dpr=1&s=none&crop=none)
+
 “The language does more than heighten the drama, it somehow stretches time. A two-second sequence becomes a full paragraph. The anticipation becomes the thing you are consuming, not only the goal,” said Hazar al-Kilani, 27, a public relations manager based in Doha.
 
 Clips of football matches often go viral in the Arab world not only for good play but also the drama of the commentary that accompanies it. Watching that commentary in real time motivates even those who are not usually World Cup fans.
@@ -26,6 +28,8 @@ Clips of football matches often go viral in the Arab world not only for good pla
 Cherly Abou Chabke, 25, a reporter for a Lebanese TV station, said: “We know how to put on a show, and I feel like even if you don’t understand football and you’re watching the game, hearing this beautiful commentary that basically sounds like a love letter to football, you’re bound to get excited.”
 
 Commentators such as Chaouali are famed for their passionate coverage, breaking with the clinical play-by-play expected in the English-language media world. They put audiences on the edge of their seats, their voices rising in pitch and pace as a player approaches goal.
+
+![Iraq fans watching a World Cup game in Erbil](https://i.guim.co.uk/img/media/e25838db29377d5ab5e1ce7a5530415b8ba091f3/0_642_3000_2400/master/3000.jpg?width=445&dpr=1&s=none&crop=none)
 
 After Lionel Messi’s record 17th World Cup goal, scored against Austria, the Yemeni commentator Hassan al-Aidarous put his rhetorical skills on display.
 

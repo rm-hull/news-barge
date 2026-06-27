@@ -3,11 +3,15 @@ title: Meet the new editor of The Press and Gazette & Herald
 source_url: https://www.yorkpress.co.uk/news/26219494.new-editor-press-gazette-herald-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:11Z'
+scraped_at: '2026-06-27T20:55:25Z'
 published: '2026-06-27T00:00:00Z'
 description: Ben Hardy is the new editor in York having moved from the Oxford Mail
   in Newsquest. He was previously a senior reporter in Norwich, Norfolk.
 ---
+
+## Meet the new editor of The Press and Gazette & Herald
+
+Ben Hardy, editor of The Press and Gazette & Herald at the office in York. *(Image: Haydn Lewis, Newsquest)*
 
 When I told people I was taking up the editor role of The Press and Gazette & Herald, I was repeatedly told what a lovely place York is.
 
@@ -25,6 +29,9 @@ Before my time at Oxford, I was a senior reporter at the Eastern Daily Press and
 
 But I am very familiar with Yorkshire having studied a Master's in Journalism at Sheffield University having also been there for my undergraduate degree studying history.
 
+  Ben Hardy, editor of The Press and Gazette & Herald at the office in York. 
+
+*(Image: Haydn Lewis, Newsquest)*
 
 With family living in the area, York is a place I have visited many times so I am well aware of how much of a jewel the city is in the north of England.
 
@@ -32,6 +39,9 @@ York is a highly desirable city for tourists and locals alike, and I am joining 
 
 The football team is back in the EFL after a dramatic last gasp win over Rochdale to earn promotion from League Two, while major projects are taking place such as the works at the National Railway Museum.
 
+  Ben Hardy 
+
+*(Image: Newsquest)*
 
 Of course, the York Knights are also in the Super League after achieving promotion to rugby league's top tier last season. Let's hope the team can turn around their fortunes on the pitch after a testing few weeks has seen them fall towards the bottom of the table.
 

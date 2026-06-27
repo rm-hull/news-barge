@@ -4,7 +4,7 @@ title: Xi Jinping has hosted more than a dozen leaders this year, as ‘middle p
 source_url: https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-26T00:00:00Z'
 description: China’s leader wants to promote his alternative to the current world
   order, and his efforts are being assisted by a capricious US
@@ -20,6 +20,8 @@ More than a dozen world leaders - including presidents and prime ministers - hav
 
 “The long list of world leaders travelling to Beijing to meet with Xi reflects the growing recognition of China’s increasing global influence,” said William Yang, a senior analyst for the International Crisis Group.
 
+![Xi Jinping hosts Canadian prime minister Mark Carney in January.](https://i.guim.co.uk/img/media/6066a244ec2bb0f3890868b2ae5d2c4a2c492c70/12_392_5250_3699/master/5250.jpg?width=445&dpr=1&s=none&crop=none)
+
 Many of the leaders to visit China this year, including Canada’s prime minister Mark Carney, framed their trips as a chance for “middle-power” countries to chart an independent relationship with Beijing against a backdrop of an increasingly capricious US.
 
 China can use such visits to “promote the alternative multipolar world order that it has been championing while weakening these countries’ trust and confidence in the US,” Yang said.
@@ -33,6 +35,8 @@ Myanmar’s military chief-turned-president got the red carpet treatment in Beij
 Min Aung Hlaing, accused by UN experts of overseeing war crimes and genocide in Myanmar, appeared a happy man. Only his second foreign trip since cementing power over the south-east Asian country in a widely condemned election six months ago,he has grown increasingly isolated since overthrowing Myanmar’s democratically elected government in a 2021 coup.
 
 But this proved of little concern to Beijing, which signalled its “acceptance of the legitimacy of the Myanmar military’s rule in Myanmar” with this week’s visit, according to Ja Ian Chong, a professor at the National University of Singapore and a non-resident scholar at Carnegie China.
+
+![Min Aung Hlaing, Myanmar’s military chief-turned-president got the red carpet treatment in Beijing on 16 June.](https://i.guim.co.uk/img/media/c91291af9c21f8f3de24c8be698d93023c0e23a7/205_136_4066_2847/master/4066.jpg?width=445&dpr=1&s=none&crop=none)
 
 This approach can be viewed as part of Xi’s wider project to influence international order so “no country has a right to tell others how to manage their own domestic affairs”, according to Steve Tsang, director of the China Institute at Soas University of London.
 

@@ -4,7 +4,7 @@ title: Knaresborough Town Council celebrates 12 months of the Mayor’s Town Gui
 source_url: https://www.harrogateadvertiser.co.uk/news/people/knaresborough-town-council-celebrates-12-months-of-the-mayors-town-guides-who-have-impressed-everyone-8759978
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-24T00:00:00Z'
 description: The Knaresborough Mayor’s Town Guides have been hailed as a “great asset
   to the town” after their first year of operation in the visitor economy.
@@ -19,6 +19,10 @@ Knaresborough Town Council is marking this major milestone on Thursday, June 25 
 In just 12 months, more than 1,000 people have taken part in a free tour - a remarkable achievement that has exceeded all expectations.
 
 Councillor Helen Westmancoat, Mayor of Knaresborough 2025–2026 said: “The guides are a great asset to the town.
+
+![In just 12 months, more than 1,000 people have taken part in a free tour in Knaresborough led by the Mayor’s Town Guides  - a remarkable achievement that has exceeded all expectations. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1MTAwYzYwLTVmNzEtNGI1NC05MGM4LWM5MDg0ZWM5YTc0YTpiYzdmMzFkNy1hMmE1LTQyYTAtOGE3ZC0wZjNkODk2YTQyYWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 ”What they don’t know about Knaresborough is not worth knowing!”
 

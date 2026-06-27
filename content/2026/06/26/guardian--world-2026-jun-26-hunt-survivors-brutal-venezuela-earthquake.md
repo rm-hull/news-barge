@@ -4,7 +4,7 @@ title: Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survi
 source_url: https://www.theguardian.com/world/2026/jun/26/hunt-survivors-brutal-venezuela-earthquake
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-26T00:00:00Z'
 description: Worst incident of its kind in country for more than 125 years leaves
   many searching for family members – and pleading for international help
@@ -21,6 +21,10 @@ On Thursday, she sat outside one of the three buildings, Residencias Villamar, w
 Level believed her mother and sister, who had lived next door in a condominium called Residencias Anna Mar, were almost certainly dead. “We’ve lost them,” she wept as she waited by the wreckage of the buildings for news – and for government help to arrive.
 
 “Please, we absolutely need international help here. Anything and anyone we can get,” she implored, as volunteers scoured the rubble for survivors in the absence of civil protection teams. “We were not prepared for something like this – we’re not used to this.”
+
+![Before-and-after satellite images show several high-rise buildings first standing then collapsed in rubble](https://i.guim.co.uk/img/media/8a8f9b0b1b46dcffa677676b97bb06f661b00662/0_0_1636_2371/master/1636.jpg?width=445&dpr=1&s=none&crop=none)
+
+Photograph: Vantor/Reuters
 
 Hotel Avenue is in La Guaira, a rundown port city surrounding Venezuela’s main international airport that has been shattered by the devastating earthquake.
 
@@ -48,6 +52,8 @@ La Guaira has tasted tragedy before, most notoriously in 1999 when mudslides kil
 
 The catastrophe was caught on camera by a pair of fishers who were out at sea as their city fell apart. “My God!” one of them can be heard gasping as huge dust clouds envelop the coastal areas of La Guaira, where their families live.
 
+![One man sits hunched and another stands gazing at the dust and rubble of a building destroyed by the earthquake in La Guaira](https://i.guim.co.uk/img/media/f9d8ce0db7eb3cde53178d997d7c8b6d5720b5b1/0_0_5500_3671/master/5500.jpg?width=445&dpr=1&s=none&crop=none)
+
 Héctor Morán Cirkovic was by the swimming pool at the Playa Grande Yachting Club, just a few hundred metres north of Residencias Anna Mar, when 40 seconds of intense shaking brought building after building to the ground.
 
 “It was brutal and very fast. There weren’t even five seconds to leave. Everybody [around us] was shouting and in shock, thinking life is over. There was lots of fear, panic and hysteria,” said Cirkovic, a 61-year-old retired architect.
@@ -56,7 +62,9 @@ Cirkovic recalled watching as five buildings collapsed “vertically in front of
 
 An engineer, Francisco Garcés, speaking on the state-run TV channel VTV, compared the strength of the quakes to that of the energy released by an atomic bomb. “We have just witnessed … an extraordinary seismic event – extraordinary for the country and also an extraordinary event in terms of the planet,” Garcés said, noting how this week’s earthquake had released 32 times more energy than the 6.5-magnitude quake that ripped through the same region in 1967.
 
-Garcés warned of aftershocks as the* *Caribbean and South American tectonic plates responsible for the cataclysm continued to move, and said that once the rescue effort was over, engineers would need to study why La Guaira had sustained such intense damage.
+Garcés warned of aftershocks as the**Caribbean and South American tectonic plates responsible for the cataclysm continued to move, and said that once the rescue effort was over, engineers would need to study why La Guaira had sustained such intense damage.
+
+![People, many in hi-vis, queue on the tarmac beside a Volaris plane](https://i.guim.co.uk/img/media/15dad2ec1f60831d1ee664766f52b2b08bb78165/0_0_7680_5120/master/7680.jpg?width=445&dpr=1&s=none&crop=none)
 
 For now, nearly 48 hours after the disaster, the focus remains on finding survivors, even as hopes start to fade.
 

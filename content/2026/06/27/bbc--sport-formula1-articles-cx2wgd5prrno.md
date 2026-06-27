@@ -4,12 +4,16 @@ title: 'Austrian Grand Prix: George Russell grabs pole from Charles Leclerc afte
 source_url: https://www.bbc.co.uk/sport/formula1/articles/cx2wgd5prrno?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-27T00:00:00Z'
 description: Mercedes driver George Russell controversially steals pole position at
   the Austrian Grand Prix from Ferrari's Charles Leclerc with the last lap of the
   session.
 ---
+
+![George Russell looks at the camera and points his index figure upwards](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/9187/live/80c33630-723b-11f1-930d-75324f3b4c6e.jpg)
+
+George Russell is third in the drivers' championship
 
 **Mercedes driver George Russell controversially snatched pole position at the Austrian Grand Prix from Ferrari's Charles Leclerc with the last lap of the session.**
 
@@ -28,6 +32,10 @@ An FIA spokesperson said that a single yellow was shown initially, before it was
 "I had a big lift," Russell said. "I went into the corner 0.5secs up and I came out 0.25secs up. It was great to get that lap.
 
 "I just spoke with Toto [Wolff, team principal] and he said everything is fine with the yellow flag. Big 100m lift before the corner. So that's good to hear."
+
+![Max Verstappen climbs out of his Red Bull after crashing](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/02c0/live/1e4f6fd0-723d-11f1-930d-75324f3b4c6e.jpg)
+
+Max Verstappen will start fifth on the grid at the Red Bull Ring
 
 Antonelli, who was the car running directly behind Verstappen, said: "I thought it was a double yellow. I aborted completely and missed the front row.
 

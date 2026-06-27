@@ -3,7 +3,7 @@ title: Hikers lost in Kosciuszko national park rescued within five hours by AI d
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-27T00:00:00Z'
 description: Fire and Rescue NSW uses thermal imaging and a mobile phone red light
   to quickly locate men who veered off walking track near Jindabyne
@@ -18,6 +18,8 @@ FRNSW’s remote air piloted system was put into the air, and was able to use th
 At the same time, the hikers used a red light on a mobile phone to attract the drone in the dark.
 
 The drone’s built-in speaker was able to contact the hikers, and the drone’s spotlight was used to direct rescuers on the ground to the hikers, in order to guide them out of the park. The pair was found about half a kilometre off the track.
+
+![A screengrab from video of the search and rescue operation in Kosciuszko national park](https://i.guim.co.uk/img/media/0416bb4a99a5eb859a65db0cc44f2e5adeef26c2/0_0_2130_1672/master/2130.jpg?width=445&dpr=1&s=none&crop=none)
 
 In cold conditions, the men were rescued less than five hours after being reported missing. They were suffering mild effects of exposure but told rescuers they did not need medical treatment.
 

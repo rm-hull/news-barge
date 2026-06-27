@@ -3,7 +3,7 @@ title: Here we Joh again? The spectre of Bjelke-Petersen still looms large over 
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/joh-bjelke-petersen-queensland-politics-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:42:00Z'
 published: '2026-06-26T00:00:00Z'
 description: The LNP’s unapologetic moves on Indigenous issues, crime, transgender
   healthcare and police-led suppression of protests are a throwback to days many thought
@@ -44,6 +44,8 @@ Many of the government’s shifts that have most concerned civil libertarians re
 
 This sort of calculation was central to the government’s “adult time” crime laws, introduced after a populist election campaign that focused on juvenile crime and included accusations of “racialised dog whistling”.
 
+![Queensland premier David Crisafulli speaks at the National Press Club in Canberra](https://i.guim.co.uk/img/media/b60f0836454f183c62f399865b45717378993774/0_0_7871_5247/master/7871.jpg?width=445&dpr=1&s=none&crop=none)
+
 The same calculation underscores banning of puberty blockers for transgender healthcare in public hospitals, or “hate speech” laws that have banned expressions linked to pro-Palestine protests.
 
 Several groups compared arrests under those laws to police-led suppression of protests under the Bjelke-Petersen government, particularly its 1977 ban on all protest marches and declaration of a state of emergency during a tour of the state by an all-white rugby team from apartheid South Africa.
@@ -64,6 +66,8 @@ Privately at least one senior Liberal describes Bjelke-Petersen as the “best p
 
 In recent years, Crisafulli has commented several times about how long it had been since a Queensland government had abolished a tax, but omitted any mention of the premier (Bjelke-Petersen) who scrapped death duties in the 1970s.
 
+![Former Queensland premier Campbell Newman speaks at the Save Victoria Park rally in May](https://i.guim.co.uk/img/media/3b99aaf84d8e0b57fb1bf355c2bcd1ef514153a7/0_0_4032_3024/master/4032.jpg?width=445&dpr=1&s=none&crop=none)
+
 Three weeks ago, in a video posted to YouTube, the mining magnate Gina Rinehart told the same story. But Rinehart – a key financial backer of the insurgent rightwing populist One Nation – was clear and unashamed in her praise of Bjelke-Petersen’s government.
 
 Many voters in Bjelke-Petersen’s heartland of rural Queensland appear to be splitting from the conservative establishment.
@@ -73,6 +77,8 @@ Paul Williams, an associate professor of politics and journalism at Griffith Uni
 “But it’s not,” he says. “It’s a capital-C conservative government.
 
 “The electorate does see the government as a moderate, centre right, ‘don’t scare the horses’, sensible, amiable government. There’s a disconnect. I think we might be at the cusp of a change of gears in the way the electorate is perceiving the government.”
+
+![Protesters hold masks of former Queensland Premier Sir Joh Bjelke-Petersen outside Parliament House in Brisbane in 2014](https://i.guim.co.uk/img/media/baee369669c179dd013b9cd60e8b75a42066d04b/0_0_4594_3132/master/4594.jpg?width=445&dpr=1&s=none&crop=none)
 
 Even so, Williams says comparisons between the Crisafulli government and the Bjelke-Petersen era are “exaggerated” and unhelpful.
 

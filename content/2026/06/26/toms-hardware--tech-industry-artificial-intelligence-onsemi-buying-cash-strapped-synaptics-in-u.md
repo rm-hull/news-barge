@@ -4,10 +4,12 @@ title: Onsemi buying cash-strapped Synaptics in $7 billion all-stock deal — sm
 source_url: https://www.tomshardware.com/tech-industry/artificial-intelligence/onsemi-buying-cash-strapped-synaptics-in-usd7-billion-all-stock-deal-smart-power-meets-edge-ai-hardware
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T19:46:59Z'
+scraped_at: '2026-06-27T21:03:33Z'
 published: '2026-06-26T00:00:00Z'
 description: While changing directions of both companies.
 ---
+
+![Onsemi](https://cdn.mos.cms.futurecdn.net/FhnDs282pZ4xS7pLgnhCV.jpg) 
 
 Onsemi and Synaptics late on Thursday announced that they had entered into an agreement under which the former will acquire the latter in an all-stock transaction valued at approximately $7 billion. The takeover will transform Onsemi from a maker of sensor and power management semiconductors into a company with a rich portfolio of products for AI infrastructure, automotive, client, industrial, robotics, and AR/VR applications. To some degree, this will strengthen Onsemi's position as an integrated device manufacturer.
 
@@ -27,6 +29,11 @@ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 
 The acquisition has received unanimous approval from the boards of directors of both companies. Under the agreement, each Synaptics shareholder will receive 1.35 shares of Onsemi common stock for every Synaptics share they own, so Synaptics investors will hold approximately 12% of the combined company after the transaction closes. Based on the companies' average volume-weighted share prices over the previous ten trading days, the offer represents a premium of approximately 19%, which is less than stockholders tend to get when the company they own is taken over. One member of Synaptics' board is also expected to join Onsemi's board of directors. The deal is expected to be completed in mid-2027 after it is approved by Synaptics shareholders and various regulators.
 
+  
+
+
 *Follow**Tom's Hardware on Google News**, or**add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
+
+![Anton Shilov](https://cdn.mos.cms.futurecdn.net/uMZ5kNphxA2Ut6whdLaSQV.png)
 
 Anton Shilov is a contributing writer at Tom’s Hardware. Over the past couple of decades, he has covered everything from CPUs and GPUs to supercomputers and from modern process technologies and latest fab tools to high-tech industry trends.

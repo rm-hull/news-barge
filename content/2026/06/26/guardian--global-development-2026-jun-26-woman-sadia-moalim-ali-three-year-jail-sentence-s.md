@@ -4,7 +4,7 @@ title: Outrage as woman jailed for three years after criticising Somali governme
 source_url: https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-26T00:00:00Z'
 description: Sentencing of 27-year-old Sadia Moalim Ali condemned by former president
   and prime ministers as well as rights groups

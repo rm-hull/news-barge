@@ -4,13 +4,17 @@ title: Your what’s on guide to events in the Harrogate district this weekend a
 source_url: https://www.harrogateadvertiser.co.uk/news/people/your-whats-on-guide-to-events-in-the-harrogate-district-this-weekend-and-into-july-8754992
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-24T00:00:00Z'
 description: 'If you are planning to go out in the Harrogate district this weekend
   or in the next month or two, here are the shows, gigs and comedy not to miss:'
 ---
 
 # Your what’s on guide to events in the Harrogate district this weekend and into July
+
+![Saturday, June 27, 7.30pm: Cuore Chamber Orchestra's Grand Season Finale concert at the Royal Hall, Harrogate. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmZkNTVlYzAxLWJmOTEtNDllYy05NGQ5LWU2MmI4NGM5MzQ4Nzo4OTczMTE4MS1iNTUyLTRjOTItYTE2ZS02ZTAwOTJjNjY2YzM=.jpg?crop=3:2,smart&trim=&width=640&quality=70&enable=upscale)
+
+
 
 ## If you are planning to go out in the Harrogate district this weekend or in the next month or two, here are the shows, gigs and comedy not to miss:
 

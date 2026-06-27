@@ -4,7 +4,7 @@ title: ‘Constitutional coup’ claims as Zimbabwe senate approves extending pr
 source_url: https://www.theguardian.com/world/2026/jun/25/constitutional-coup-zimbabwe-senate-approves-presidential-term
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:58Z'
 published: '2026-06-25T00:00:00Z'
 description: Opposition figures fear changes will further tighten 83-year-old president
   Emmerson Mnangagwa’s hold on power
@@ -29,6 +29,8 @@ Nick Mangwana, the permanent secretary in Zimbabwe’s information ministry, sai
 He said: “The primary objective is to enhance political stability and ensure policy continuity … We are not removing presidential term limits, we are simply adjusting the electoral cycle to reduce the frequency of highly contested, polarising elections.”
 
 Mangwana rejected suggestions that constitutional amendments had to be approved in a referendum, saying the attorney general had found no legal basis for requiring a people’s vote.
+
+![Robert Mugabe addresses party members and supporters in 2017 dressed in a bright yellow jacket and hat](https://i.guim.co.uk/img/media/74f3942227dd510f19427819f98f770da2b3a20b/0_0_4672_3115/master/4672.jpg?width=445&dpr=1&s=none&crop=none)
 
 Opponents of the constitutional amendments said they had been subjected to harassment and prevented from campaigning. Tendai Biti, one of the CDF’s convenors, said security forces had barged into his office six times since October 2025.
 

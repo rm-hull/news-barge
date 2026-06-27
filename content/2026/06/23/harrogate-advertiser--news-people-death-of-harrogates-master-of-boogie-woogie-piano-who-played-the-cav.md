@@ -4,7 +4,7 @@ title: Death of Harrogate's 'master of boogie woogie' piano who played The Caver
 source_url: https://www.harrogateadvertiser.co.uk/news/people/death-of-harrogates-master-of-boogie-woogie-piano-who-played-the-cavern-before-the-beatles-8755813
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:53Z'
+scraped_at: '2026-06-27T20:47:14Z'
 published: '2026-06-23T00:00:00Z'
 description: The death has been announced of a local Harrogate music legend of more
   than 60 years standing who played at The Cavern Club in Liverpool before The Beatles
@@ -21,6 +21,10 @@ A master of boogie-woogie piano – and many other musical instruments – Derry
 
 Before the Beatles made the venue world-famous, he even performed on the piano at The Cavern Club in Liverpool.
 
+![A Harrogate music legend - The late Derry Jones, front right,  gained widespread recognition as a member of the Jimmy O Show Band, which also included fellow Harrogate music legend Bob Mason. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmZlNGQzNzEwLTkxNTItNDc2Yy1hM2MyLWY5M2RlZTgzOTIwMDoyYzdmOTlhOS01NWY2LTQ1MWMtYWNkYi01MWZhZWZhMjE2OTQ=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 Throughout the 1960s and 1970s, Derry Jones gained widespread recognition as a member of the Jimmy O Show Band, which also included fellow Harrogate music legend Bob Mason of Ricky Fenton and The Apaches.
 
 The successful Harrogate outfit famously appeared on Tyne Tees Television in 1981 to perform Derry’s original composition, The Nicest Place.
@@ -28,6 +32,10 @@ The successful Harrogate outfit famously appeared on Tyne Tees Television in 198
 The skilled pianist Derry Jones played keyboards with almost everybody under the sun over nearly seven decades, appearing on bills with the likes of blues legends Big Bill Broonzy, Sonny Terry & Brownie McGee and Muddy Waters
 
 But he was probably best known in Harrogate for providing the perfect accompaniment to diners at Bettys tearooms on Parliament Street.
+
+![A master of boogie-woogie piano – and several other musical instruments –  Harrogate's Derry Jones is seen here playing the accordian. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM3Mzg5NzhiLWQzNmEtNGY5Ni04Y2Q0LWNhNjA2OTlmMWFkNzpiNmZhNWM5Yy03MTVkLTRjNmYtYmQ4Zi0xODIwMjY4ZWEyODM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Born in Burnley on December 15, 1935, Derry took piano lessons from a very early age.
 

@@ -4,7 +4,7 @@ title: This is everything you need to know about Ripon Theatre Festival coming s
 source_url: https://www.harrogateadvertiser.co.uk/news/people/this-is-everything-you-need-to-know-about-ripon-theatre-festival-coming-soon-in-july-2026-8762106
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: Ripon Theatre Festival has unveiled it own top five ‘don't miss this’
   moments as the clock ticks down to its launch in just over a week’s time.
@@ -20,6 +20,10 @@ With performances and workshops taking place both indoors and in open-air settin
 
 Ripon Theatre Festival operates as a charity, powered by volunteers and supported through a combination of corporate sponsorship, donations, grants and public funding.
 
+![Ripon Theatre Festival highlight - The Three Musketeers - Ripon Spa Gardens - Saturday 11 July, 5.30pm. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3NzcxOWUyLWE4N2YtNDliNS1iOTNlLWJlYzE4MDM0Zjc1Yzo0MTJlNzRkMy0zMTlmLTQzNTUtOThmMy05YzI1YzlmYzVlOGU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 This vibrant arts fixture has already won a reputation for transforming Ripon into a hub of creativity and performance, making it a must-visit event.
 
 Now the volunteer organisers have complied their Festival Top Fives to look forward to this July in celebration of its Five Years in Ripon.
@@ -28,6 +32,10 @@ Now the volunteer organisers have complied their Festival Top Fives to look forw
 
 History, horror and real women’s lives feature in a packed programme at Ripon Arts Hub.
 
+![Ripon Theatre Festival highlight - Down to Chance - Saturday 11 July, 8pm. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdkYmNlZDJmLTVmYjEtNGE5MS1iZjE5LWE5Yjk2MDkwNGNkMjowOTlhY2QyZC1kNDA4LTQyYmItODM1NS0wNzgyMjgyZDVjMGU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 1 The Essence of Audrey - Ripon Arts Hub - Tuesday 7 July, 2.30pm
 
 What made Audrey Hepburn into the star we think we know? Glimpse behind the icon in this charming biopic play.
@@ -35,6 +43,10 @@ What made Audrey Hepburn into the star we think we know? Glimpse behind the icon
 2 Batty! - Ripon Arts Hub - Thursday 9 July, 8pm
 
 Gossip, gay abandon, exquisite tenderness and raucous stories (with a side order of ranting), as Batty and her companion Wildthing explore the magic and power of ageing.
+
+![Ripon Theatre Festival highlight - Astro Norma & the Cosmic Piano - Ripon Library - Saturday 11 July, 10.30am & noon. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjN2YxOGEyLWYxMDgtNGQyNS04YmQ5LWZiYmQwNDk1ZDdlNzplYmQ3Yzc5YS0yY2ExLTQzZjItOGNhMi00MDI0MDRlYTVhOWY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 3 One Man Poe - Ripon Arts Hub - Friday 10 July, 8pm
 

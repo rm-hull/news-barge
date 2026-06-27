@@ -4,7 +4,7 @@ title: 'Revealed: Nearly 1,000 people attend BedFest in fundraiser for Harrogate
 source_url: https://www.harrogateadvertiser.co.uk/news/people/revealed-nearly-1000-people-attend-bedfest-in-fundraiser-for-harrogate-and-knaresborough-charity-8757159
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:53Z'
+scraped_at: '2026-06-27T20:47:14Z'
 published: '2026-06-23T00:00:00Z'
 description: A Harrogate and Knaresborough charity is celebrating raising a record-breaking
   £30,000 in a single day to support people living with sight loss and disability.
@@ -19,6 +19,10 @@ Another hugely successful BedFest saw more than 900 visitors attend the much-lov
 As beds raced past the entrance of Henshaws Arts & Crafts Centre at Bond End in Knaresborough on their way to the Nidd, attendees inside the venue were enjoying a full day of live music, food, drink and community celebration.
 
 Clare Cunningham, Fundraiser at Henshaws, said: “We’re absolutely delighted that BedFest has raised a record-breaking £30,000 for Henshaws this year.
+
+![A record-breaking event - Another hugely successful BedFest organised by Henshaws saw more than 900 visitors attend the much-loved music, food and drink festival in Knaresborough. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM0MTM1NzYxLTVjNjEtNDBlZS04ZjI2LWI2MDEyNzQxODNkZjo2OWUzYjM5NC00ZTBjLTQzMGYtODg4OS1jMjQ4MDA3MmI3NGE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 "BedFest is such a special event because it not only raises essential funds but also gives us the opportunity to open our doors and welcome hundreds of people into Henshaws Arts & Crafts Centre, allowing them to experience the creativity, talent and community that happens here every day.”
 

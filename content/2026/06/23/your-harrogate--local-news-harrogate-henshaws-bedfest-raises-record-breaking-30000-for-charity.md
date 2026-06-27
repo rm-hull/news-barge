@@ -3,14 +3,16 @@ title: Henshaws BedFest raises record-breaking £30,000 for charity
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/henshaws-bedfest-raises-record-breaking-30000-for-charity/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:41Z'
+scraped_at: '2026-06-27T20:49:14Z'
 published: '2026-06-23T00:00:00Z'
 description: Henshaws has celebrated a record-breaking year for BedFest after the
   festival raised £30,000 to support people living with sight loss and disabilities
   across the North of England.
 ---
 
-Henshaws has celebrated a record-breaking year for BedFest after the festival raised £30,000 to support people living with sight loss and disabilities across the North of England.
+![](https://mmo.aiircdn.com/409/6a3aec5c43f31486dc7.jpg) 
+
+                                    Henshaws has celebrated a record-breaking year for BedFest after the festival raised £30,000 to support people living with sight loss and disabilities across the North of England.
 
 More than 900 people attended the event at Henshaws Arts & Crafts Centre in Knaresborough on Saturday 13th June, enjoying a full day of live music, food, drink and entertainment alongside the Great Knaresborough Bed Race.
 

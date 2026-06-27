@@ -4,7 +4,7 @@ title: Remarkable Harrogate shop founded in 1906 now boasts five generations of 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/remarkable-harrogate-shop-founded-in-1906-now-boasts-five-generations-of-family-ownership-8762273
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:49Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: One of Harrogate’s most favourite and successful stores is to celebrate
   its 120th anniversary next week still run by the same family after all these years.
@@ -20,6 +20,10 @@ Founded in 1906 by Frederick Smith, this sizable store has grown from a modest s
 
 Proud of its long-standing place at the heart of the local community, the store has helped generations of customers create beautiful homes.
 
+![Happy 120th anniversary - Now in its fifth generation of family ownership, Smiths of Harrogate  continues to be run by the Smith family today. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAyNGYyNDIyLTYxNDUtNDU2Ni1iNzQyLWVjM2E2MmEyNzhhOTo4OWJkN2QwZC0wODJkLTQzZTctYjI5YS0xOGZmNGM2MGRkODY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
 Now in its fifth generation of family ownership, it continues to be run by the Smith family today.
 
 Oliver Smith, representing the fifth generation of the family, said: “We’re incredibly proud to be celebrating 120 years as a family business in Harrogate.
@@ -27,6 +31,10 @@ Oliver Smith, representing the fifth generation of the family, said: “We’re 
 "It’s a real milestone for us, and we’re very grateful to our customers, colleagues and the local community for their continued support over the years.
 
 “Our anniversary celebrations are a chance to say thank you and we’d love people to visit us and be part of it.”
+
+![Founded in 1906 by Frederick Smith, Smiths of Harrogate has grown from a modest second-hand furniture shop into one of Harrogate’s biggest and best-known independent retailers. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVmNTNjMjg4LWMzNjAtNDcxYS04MzYwLTRkMzk1Y2ExOTM5YjoxOTk3ZjM1Yy1mOTMyLTQzNjYtYTc2OC0xNTk4NjliNjgzOTg=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 The company’s home on Dragon Road, known locally as “Smiths The Rink”, has been part of its identity for decades.
 

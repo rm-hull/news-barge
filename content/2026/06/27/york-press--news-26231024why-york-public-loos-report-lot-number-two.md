@@ -3,7 +3,7 @@ title: Why this report on York public loos is - well, a lot of 'number two'!
 source_url: https://www.yorkpress.co.uk/news/26231024.why-york-public-loos-report-lot-number-two-/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:59Z'
+scraped_at: '2026-06-27T20:55:17Z'
 published: '2026-06-27T00:00:00Z'
 description: Our letter writer is not impressed with this report into public toilet
   provision in the city - do you agree?

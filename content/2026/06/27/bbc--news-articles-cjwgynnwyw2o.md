@@ -3,11 +3,15 @@ title: Thunderstorms delay hundreds of Heathrow and Gatwick flights
 source_url: https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:40:29Z'
 published: '2026-06-27T00:00:00Z'
 description: More than 900 flights have been delayed at Heathrow and Gatwick, many
   due to stormy weather south of the UK.
 ---
+
+![Easyjet planes on the tarmac at Gatwick airport.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg)
+
+Flights are delayed at Gatwick and Heathrow, with multiple airlines affected (file picture of Gatwick)
 
 - Published
 
@@ -37,7 +41,11 @@ In an updated statement on Saturday afternoon, NATS said: "Severe thunderstorms 
 
 NATS added that the forecast in UK airspace looks generally fine on Sunday, but further thunderstorms are forecast in Europe which may have a further impact on routings across the continent.
 
-The thunderstorms developed overnight - bringing rain and lightning to parts of the UK - following a record-breaking heatwave, with the hottest ever June high of 37.3C recorded in Suffolk on Friday.
+The thunderstorms developed overnight following a record-breaking heatwave, with the hottest ever June high of 37.3C recorded in Suffolk on Friday.
+
+![Air traffic control mapping showing airspace delays as of 12:50 BST, with delays of less than 15 minutes in blue and more than 45 minutes in red](https://ichef.bbci.co.uk/ace/standard/941/cpsprodpb/db57/live/86915070-7226-11f1-8546-8f19e4fe30f4.png)
+
+Air traffic control mapping showing airspace delays as of 12:50 BST, with delays of less than 15 minutes in blue and more than 45 minutes in red
 
 ## Passengers grounded for hours
 
@@ -55,11 +63,15 @@ He was due to depart Venice at 12:30 local time but said the plane had not yet l
 
 BA apologised for the inconvenience, adding: "Like other airlines, we've had to make some adjustments to our schedule today due to air traffic control restrictions caused by adverse weather conditions affecting parts of UK airspace."
 
+![Lightning strikes are seen during a storm over Weymouth.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/df5c/live/55f4a000-7219-11f1-b1db-af71d47507d6.jpg)
+
+Thunderstorms have rocked parts of the UK this week (seen here over Weymouth on Thursday)
+
 Meanwhile, Easyjet passenger Will Poole told the BBC he had cancelled his holiday to the Greek island of Skiathos after his flight from Gatwick was cancelled and moved to Bristol.
 
-He said he boarded at Gatwick shortly after 05:00 on Saturday but was returned to the gate at 11:00.
+He said he boarded shortly after 05:00 on Saturday but was returned to the gate at 11:00.
 
-Mr Poole said he "was eventually offered a complimentary snack and drink after five hours and an email with a £6 voucher to spend in Gatwick".
+Poole said he "was eventually offered a complimentary snack and drink after five hours and an email with a £6 voucher to spend in Gatwick".
 
 Poole, who booked with Easyjet Holidays, told the BBC he was then offered a replacement flight at 07:00 on Sunday from Bristol Airport, more than 100 miles away.
 
@@ -69,11 +81,13 @@ Poole, who booked with Easyjet Holidays, told the BBC he was then offered a repl
 
 "I got through eventually and decided to cancel the holiday as they couldn't get us on another flight within 12 hours."
 
-Mr Poole said passengers understood the situation was out of Easyjet's control, but "you'd like to think" the replacement flight would have been scheduled from Gatwick. He said he has been promised a refund within 28 days.
+Poole said passengers understood the situation was out of Easyjet's control, but "you'd like to think" the replacement flight would have been scheduled from Gatwick. He said he has been promised a refund within 28 days.
 
-Easyjet said that with thunderstorms restricting the number of arrivals and departures, it had to "pre-emptively cancel some flights to and from Gatwick in advance".
+In a statement on Saturday evening, Easyjet said Mr Poole's flight was unable to operate due to thunderstorms restricting the number of arrivals and departures at Gatwick.
 
-It added that it was giving passengers options including refunds, rebookings, hotel accommodation and meals where required.
+"We're really sorry that Mr Poole had to cancel his holiday with us due to weather disruption affecting his flight," the spokesperson said, confirming that he would recieve a full refund as the company could not find an alternative flight suitable for his travel plans.
+
+It added that affected passengers were being given options including refunds, re-bookings, hotel accommodation and meals where required.
 
 An amber warning for extreme heat is in place until Sunday morning for parts of eastern and south-east England, while thunderstorms to the south of the UK are forecast to worsen throughout Saturday afternoon.
 
@@ -82,3 +96,5 @@ Eurocontrol said a "broad area of hot, unstable air" stretching from northern Sp
 A London Gatwick Airport spokesperson said "temporary air traffic restrictions" had been put in place "due to ongoing thunderstorms across the network last night".
 
 A Heathrow Airport spokesperson said "adverse weather conditions" had led to "temporary air traffic restrictions impacting some flights".
+
+![Your Voice banner image. Your Voice is written in white against a purple background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c3e4/live/52f4f750-63f1-11f1-b1db-af71d47507d6.png)

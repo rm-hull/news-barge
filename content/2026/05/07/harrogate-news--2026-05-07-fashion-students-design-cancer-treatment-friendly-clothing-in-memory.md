@@ -4,7 +4,7 @@ title: Fashion students design cancer treatment-friendly clothing in memory of 2
 source_url: https://www.harrogate-news.co.uk/2026/05/07/fashion-students-design-cancer-treatment-friendly-clothing-in-memory-of-24-year-old-model-emily/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:01Z'
+scraped_at: '2026-06-27T20:47:54Z'
 published: '2026-05-07T00:00:00Z'
 description: The mother of a young model who sadly died from brain cancer at the age
   of 24 has been left “gobsmacked” by the quality of treatment-friendly clothing
@@ -23,6 +23,11 @@ Emily’s mum Joanne Nicholson and brother Matthew are EmAble’s co-founders an
 The students were given a brief to consider adaptable methods of countering the physical and psychological challenges faced by people receiving treatment, including restricted movement, sensitivity to fabrics, the need for easy access during medical procedures and changes in body shape.
 
 Rather than just being purely functional, the clothing also aims to place an emphasis on aesthetic beauty that reflects an individual’s personality.
+
+
+![](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/EmAble-design-3.webp) 
+
+ ![](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/EmAble-design-1.webp)
 
 
 
@@ -52,6 +57,9 @@ Because of MRI machines, I didn’t want to use any metal aside from on the belt
 
 It’s been so nice to work on something that is for a good cause. Normally, people think of fashion as being high-end but this is more practical day-to-day wear. I’ve seen the importance of why we make clothes and what they are for, instead of it being just something for a catalogue.
 
+
+
+![](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/EmAble-1.webp)
 
 
 

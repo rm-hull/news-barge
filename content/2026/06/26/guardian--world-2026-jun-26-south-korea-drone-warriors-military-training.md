@@ -3,7 +3,7 @@ title: South Korea to train half a million military personnel to become ‘drone
 source_url: https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-26T00:00:00Z'
 description: All branches of the military will be taught how to use technology that
   has become a ‘game changer on the battlefield’, says defence minister

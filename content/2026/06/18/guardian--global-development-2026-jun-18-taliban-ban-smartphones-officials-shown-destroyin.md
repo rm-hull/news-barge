@@ -3,7 +3,7 @@ title: Taliban order ban on smartphones as officials shown destroying devices
 source_url: https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-18T00:00:00Z'
 description: Directive aimed at government workers, but reports of wider implementation
   spark warnings of future Afghanistan-wide prohibition

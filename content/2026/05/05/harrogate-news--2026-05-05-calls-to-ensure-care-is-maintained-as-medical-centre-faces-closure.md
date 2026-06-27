@@ -4,7 +4,7 @@ title: Calls to ensure care is maintained as medical centre faces closure | Harr
 source_url: https://www.harrogate-news.co.uk/2026/05/05/calls-to-ensure-care-is-maintained-as-medical-centre-faces-closure/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:11Z'
+scraped_at: '2026-06-27T20:48:01Z'
 published: '2026-05-05T00:00:00Z'
 description: Health chiefs will be urged to outline how care will be provided for
   communities in some of the deepest rural parts of North Yorkshire with the closure

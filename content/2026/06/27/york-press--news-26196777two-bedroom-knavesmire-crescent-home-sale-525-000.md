@@ -3,11 +3,15 @@ title: Look inside ‘elegant’ home for sale in ‘truly exceptional’ York l
 source_url: https://www.yorkpress.co.uk/news/26196777.two-bedroom-knavesmire-crescent-home-sale-525-000/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:41Z'
+scraped_at: '2026-06-27T20:54:57Z'
 published: '2026-06-27T00:00:00Z'
 description: An “elegant” period home has hit the market in Knavesmire Crescent, York
   - for £525,000.
 ---
+
+## Look inside ‘elegant’ home for sale in ‘truly exceptional’ York location
+
+Balcony at the two-bedroom terraced house for sale in Knavesmire Crescent for £525,000 *(Image: Carter Jonas/Zoopla)*
 
 An “elegant” period home has hit the market in a “truly exceptional” York location.
 
@@ -15,6 +19,9 @@ The two-bedroom terraced house is for sale in Knavesmire Crescent for £525,000.
 
 Carter Jonas, which is marketing the property, said it “combines classic architecture with a refined internal specification”.
 
+  Inside the two-bedroom terraced house for sale in Knavesmire Crescent for £525,000 
+
+*(Image: Carter Jonas/Zoopla)*
 
 Inside, a traditional tiled hallway leads to two reception rooms – with the main reception room centred around a marble fireplace.
 

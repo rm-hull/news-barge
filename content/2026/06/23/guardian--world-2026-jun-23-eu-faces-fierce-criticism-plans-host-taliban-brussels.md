@@ -3,7 +3,7 @@ title: EU faces fierce criticism over plans to host Taliban in Brussels
 source_url: https://www.theguardian.com/world/2026/jun/23/eu-faces-fierce-criticism-plans-host-taliban-brussels
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-23T00:00:00Z'
 description: Rights campaigners and MEPs say meeting would normalise regime that erases
   women from public life
@@ -25,6 +25,8 @@ The willingness of EU officials to cooperate with the Taliban – who in 2024 ba
 
 “I’m appalled,” he said. “It’s absolutely an outrage and a total loss of faith and the credibility of the European Union that it can hold such a double standard.”
 
+![Juan Fernando López Aguilar speaking into a microphone](https://i.guim.co.uk/img/media/8368df898551a65520ce0fbf13c98b43007af5f0/550_19_3996_3198/master/3996.jpg?width=445&dpr=1&s=none&crop=none)
+
 Two senior Taliban leaders are subject to arrest warrants issued by the international criminal court, which has accused them of crimes against humanity for the persecution of women and girls. The EU has imposed sanctions on several individuals associated with the regime.
 
 In May, a spokesperson for the European Commission said the meeting with the Taliban had been coordinated with Sweden after 20 member states had called for concrete pathways to deport Afghans without legal residence permits or who are deemed a security risk. The talks would be focused on how to return those who “pose a security threat” to the EU, said the spokesperson.
@@ -38,6 +40,8 @@ About 40% of the population in Afghanistan is affected by hunger, according to t
 Lisa Owen, the organisation’s Afghanistan country director, said: “Deporting Afghans back to a country where almost half of the population cannot feed themselves is not a migration policy; it is a decision that could cost lives.”
 
 The message was echoed in an open letter, in which 83 Afghan and international human rights groups expressed grave concerns about the EU’s intentions. “Afghanistan is currently one of the most dangerous places in the world to be a woman, and forced return would expose many to persecution, violence and severe deprivation of rights,” it noted.
+
+![A Taliban fighter stands with a machine gun while women whose bodies are entirely covered wait in a queue](https://i.guim.co.uk/img/media/e6dce39637b1beed2522db91690f175c252e7c68/480_0_4585_3667/master/4585.jpg?width=445&dpr=1&s=none&crop=none)
 
 While the EU has said that the meeting in no way constitutes a recognition of the Taliban, what is playing out is something far worse, said Shagofah Ghafori, of the Brussels-based Centre for European Policy Studies.
 

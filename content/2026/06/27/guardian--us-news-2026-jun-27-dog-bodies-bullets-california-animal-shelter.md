@@ -4,7 +4,7 @@ title: California officials unearth 117 dog bodies, many with bullet fragments, 
 source_url: https://www.theguardian.com/us-news/2026/jun/27/dog-bodies-bullets-california-animal-shelter
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:35Z'
+scraped_at: '2026-06-27T20:42:02Z'
 published: '2026-06-27T00:00:00Z'
 description: Police say they also found more than 600 dog collars in area where they
   suspect animals were killed

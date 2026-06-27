@@ -3,13 +3,17 @@ title: REVEALED - The Press Best Chippy 2026 winner is...
 source_url: https://www.yorkpress.co.uk/news/26232738.thompsons-fish-chips-wins-press-best-chippy-2026/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:09Z'
+scraped_at: '2026-06-27T20:55:17Z'
 published: '2026-06-27T00:00:00Z'
 description: It's official – the votes are in, and we can now reveal the best chippy
   in York.
 ---
 
-**IT’S official – the votes are in, and we can now reveal the best chippy in York.**
+## REVEALED - The Press Best Chippy 2026 winner is...
+
+Thompson's Fish and Chips *(Image: Provided)*
+
+  **IT’S official – the votes are in, and we can now reveal the best chippy in York.**
 
 After votes were cast online for a top 10, each fish and chip seller has been interviewed on what they do best and why it is that they deserve to be voted the Best Chippy in York 2026.
 
@@ -34,6 +38,9 @@ She said: “Have we done it again? Oh wow, I really wasn’t expecting that! We
 
 Shop owner John Thompson also said that he was ‘genuinely humbled’ to have been voted Best Chippy – adding that he is incredibly grateful for the loyalty of their customers.
 
+  Thompson's in Malton Road 
+
+*(Image: Provided)*
 
 He said: “We have the most fantastic customers, and I cannot thank them enough for their support over the years. This award belongs just as much to them as it does to anyone else. Without their loyalty, trust and votes, none of this would be possible.
 

@@ -3,11 +3,15 @@ title: We host strangers for dinner every month - now we have 60 new friends
 source_url: https://www.bbc.co.uk/news/articles/cvg48wnx7eyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-21T00:00:00Z'
 description: After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creative
   way to make new friends - a monthly dinner party with strangers.
 ---
+
+![A man and a woman with their arms round each other, smiling at the camera. The woman is making a peace sign with her hand.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/910e/live/198acbc0-6afe-11f1-80a3-b70219ebe550.jpg)
+
+Vik and Nidhi struggled to make friends in Belfast
 
 - Published
 
@@ -18,6 +22,8 @@ When Nidhi Pal, 38, and Vik Parashar, 46, moved from India to Belfast, they foun
 So the couple came up with an unusual way to expand their circle - a dinner party made up of 10 strangers.
 
 "We thought, if no one is calling us in, we will call them in, and open our door," Nidhi said.
+
+'We struggled to make friends until we started inviting strangers for dinner'
 
 Approaching people to make friends in "a different culture and a different language" was difficult, Vik said.
 
@@ -43,6 +49,10 @@ Nidhi and Vik use that information to curate the mix around the table.
 
 "We've been very fortunate to make a lot of friends so far, but it is nerve-wracking."
 
+![Two women are sitting at a table and smiling at the camera](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/726e/live/1f860aa0-69a3-11f1-a1f1-4bdcaac47eb6.jpg)
+
+Nidhi and Vik's 91-year-old neighbour joined us at the table
+
 Six months on, they are hosting their sixth dinner - and I am the tenth guest at the table.
 
 Nidhi and Vik have cooked an Indian meal, with each of the six courses linked to a different Indian city.
@@ -65,11 +75,19 @@ Beside her sits Julia, 55, from east Belfast.
 
 "It's made me more determined to get to know people who live in my area, even if they're not from the same country."
 
+![Two women are sitting at a table and smiling at the camera](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/50d7/live/10488590-69a3-11f1-a1f1-4bdcaac47eb6.jpg)
+
+Guests from Belfast and all over the world have come to the dinners
+
 For Nidhi, "life has completely changed" since they first opened their door to strangers.
 
 "Six months ago, I knew nobody here, even though I'd been here for two years.
 
 "I have someone I can call now. I feel that I belong here, which is what I was looking for."
+
+![A woman and a man standing at the top of a table. They are both holding wine glasses and smiling at a woman sitting at the table.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/c6f4/live/5ca439a0-6afe-11f1-ab99-53604e92e9e6.jpg)
+
+Nidhi and Vik now have 60 friends, with no plans to stop hosting
 
 Vik said that, while they have accomplished their goal in making new friends, this isn't the end of the story.
 

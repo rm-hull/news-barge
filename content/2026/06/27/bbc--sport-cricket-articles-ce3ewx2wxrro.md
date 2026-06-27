@@ -3,22 +3,18 @@ title: 'England vs New Zealand: Home side in danger in decider at Trent Bridge'
 source_url: https://www.bbc.co.uk/sport/cricket/articles/ce3ewx2wxrro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:39Z'
+scraped_at: '2026-06-27T20:40:32Z'
 published: '2026-06-27T00:00:00Z'
 description: England’s deciding Test against New Zealand - and perhaps the future
   of the hosts’ management - hangs in the balance after a dramatic and fluctuating
   third day at Trent Bridge.
 ---
 
+New Zealand back on top after fluctuating third day
+
 **Third Rothesay Test, Trent Bridge (day three of five)**
 
-**New Zealand 438**(Conway 157, Latham 151; Stokes 4-70) **& 120-3:**Ravindra 60*
-
-**England 354:** Duckett 113, Bethell 74; Smith 4-91
-
-*New Zealand are 204 runs ahead*
-
-**England's deciding Test against New Zealand - and perhaps the future of the hosts' management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.**
+**New Zealand 438**(Conway 157, Latham 151; Stokes 4-70) **& 120-3:**Ravindra 60***England 354:**Duckett 113, Bethell 74; Smith 4-91*New Zealand are 204 runs ahead***England's deciding Test against New Zealand - and perhaps the future of the hosts' management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.**
 
 As a previously flat pitch began to break up and play tricks, England first surrendered the initiative with the bat, then tried gamely with the ball to hang in the contest.
 
@@ -48,6 +44,8 @@ Stokes' team then came up against a New Zealand side without three key players -
 
 England have memories on 2022, a remarkable win against New Zealand on this ground, albeit on a very different pitch. That was the birth of Bazball. This might be the end.
 
+England's lack of overs when batting
+
 ## Ravindra repels charging England
 
 Given the first-innings deficit, England had no choice but to find early inroads into the New Zealand top-order. Jofra Archer did just that, galvanising the crowd after tea on a steamy afternoon in Nottingham.
@@ -61,6 +59,8 @@ Ravindra entered at number four, intent on counter-attacking. At the other end, 
 New Zealand were 135 ahead, with seven wickets in hand, the match in the balance. Mitchell arrived to dig in alongside Ravindra, whose scoring slowed. Stokes launched into a six-over spell, to no avail.
 
 Shoaib Bashir almost got Mitchell to sweep to Archer, who cranked up for a final spell before the close. New Zealand got through unscathed, the Ravindra-Mitchell partnership is worth 69, with the opportunity to put the match and series beyond England.
+
+Ravindra brings up half-century off 81 balls
 
 ## Saturday slide leaves England vulnerable
 

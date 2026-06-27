@@ -4,10 +4,12 @@ title: Intel's next-gen 52-core Nova Lake CPU could pull up to 474W — high-end
 source_url: https://www.tomshardware.com/pc-components/cpus/intels-next-gen-52-core-nova-lake-cpu-could-pull-up-to-474w-high-end-lga1954-motherboards-may-need-three-8-pin-power-connectors-to-feed-the-monster
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T19:46:57Z'
+scraped_at: '2026-06-27T21:03:31Z'
 published: '2026-06-27T00:00:00Z'
 description: A power-hungry flagship awaits.
 ---
+
+![Core Ultra 200K Plus](https://cdn.mos.cms.futurecdn.net/wUsSLzuor4dtkrjsTZUnB3.jpg) 
 
 Intel is expected to push the boundaries on power draw with its upcoming Nova Lake series processors, which will rival the best CPUs. According to newly leaked information, the flagship 52-core desktop variant is expected to feature a dual-compute tile architecture with a massive PL2 limit of 474W. The information was shared by LC Tech Leaks and confirmed by Jaykihn, who has a pretty solid track record with Intel hardware.
 
@@ -19,9 +21,14 @@ The upcoming Nova Lake-S lineup is expected to carry the ‘Core Ultra 400S’ m
 
 While these specifications are unconfirmed, it is clear that Intel is targeting substantial gains in gaming, multi-threaded performance, and overall platform capabilities with its next-gen processors.
 
+  
+
+
 *Follow**Tom's Hardware on Google News**, or**add us as a preferred source**, to get our latest news, analysis, & reviews in your feeds.*
 
 Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+![Kunal Khullar](https://cdn.mos.cms.futurecdn.net/NDK3ae3zDxAx2BJnMXxBJV.jpg)
 
 Kunal Khullar is a contributing writer at Tom’s Hardware. He is a long time technology journalist and reviewer specializing in PC components and peripherals, and welcomes any and every question around building a PC.
 

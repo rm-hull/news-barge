@@ -4,7 +4,7 @@ title: Proposed law strengthens support for brothers and sisters in care | Harro
 source_url: https://www.harrogate-news.co.uk/2026/05/07/proposed-law-strengthens-support-for-brothers-and-sisters-in-care/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:03Z'
+scraped_at: '2026-06-27T20:47:55Z'
 published: '2026-05-07T00:00:00Z'
 description: Thousands of children in care are set to receive stronger support to
   maintain relationships with their brothers and sisters with a proposed new law that

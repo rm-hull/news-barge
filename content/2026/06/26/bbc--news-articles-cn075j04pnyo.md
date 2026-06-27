@@ -3,11 +3,15 @@ title: The people leaving the West behind in search of the Russian dream
 source_url: https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-26T00:00:00Z'
 description: The BBC asks Westerners who moved to Russia if life there lives up to
   expectations.
 ---
+
+![Person in the foreground wearing a grey beanie hat, glasses, a dark coat and a backpack, with snow on clothing and shoulders. Snow-covered cobbled square surrounds the scene. In the background, St Basil’s Cathedral with colourful onion domes stands to the left, and a red brick Kremlin wall with a tower is on the right. Several pedestrians walk across the square, and a parked vehicle is visible near the wall. Snow is falling lightly across the image.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg)
+
+Ben, from Derby, moved to Russia in 2023 on a private family visa and says he feels safer living there
 
 - Published
 
@@ -39,6 +43,10 @@ Unlike some immigration programmes, the Shared Values visa does not come with ho
 
 Applicants must pay an administrative fee of 1,600 roubles (£17 or $22) and pass medical and criminal records checks.
 
+![Two people in formal clothing stand at the front of a courtroom, one holding a small blue booklet and folded glasses. A light-coloured flag on a pole stands between them. Wooden desks, chairs, and a lectern with an emblem are visible behind. A person sits at a desk in the background. A crest appears on the right side of the image.](https://ichef.bbci.co.uk/ace/standard/720/cpsprodpb/c0ca/live/fd1b0110-7086-11f1-b1db-af71d47507d6.jpg)
+
+Leo Hare (right) at a ceremony granting his asylum which was covered on state TV
+
 Russia says nearly 3,400 people have applied under the scheme as of spring 2026. However, these figures are difficult to verify independently, and do not reveal how many applications were approved.
 
 The visa reflects a broader effort by the Kremlin to present Russia as a defender of traditional values in opposition to what it sees as the moral decline of the West.
@@ -56,6 +64,10 @@ Some prospective migrants complain about high immigration in their own countries
 Russia's war in Ukraine, which has dominated international perceptions of the country since 2022, does not appear to be a decisive factor for many of those making the move.
 
 Some openly support Russia, while others insist their decision is driven by cultural values rather than geopolitics.
+
+![A person seated at a polished wooden desk with hands clasped in front, wearing a light grey jacket and shirt. Behind the person is a dark wood panelled wall. A Russian tricolour flag stands to the left, and a red flag with an emblem stands to the right. The desk surface reflects the person and surroundings. No visible bags, bins, or markers are present.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/676a/live/fd257f30-6e53-11f1-b648-1b56797cb133.jpg)
+
+Philip Hutchinson helps other people relocate to Russia after moving to Moscow
 
 Philip Hutchinson, a Moscow-based former Conservative Party candidate from the UK who now helps other Westerners relocate to Russia, says he avoids discussing the war.
 
@@ -93,6 +105,10 @@ Although he is committed to staying in Russia out of a sense of "destiny", he no
 
 "[In] Russia you don't have these human rights values."
 
+![Person wearing a grey beanie, glasses, a black coat and a white scarf, carrying a grey backpack with visible shoulder straps in the foreground. Snow covers the pavement and roadside. A wide street with traffic lights and pedestrian crossing signs runs behind. In the background, modern high-rise buildings with glass façades and construction cranes are visible. Bare trees line the street, and temporary site structures and barriers are present near the road.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/fc94/live/711cc1a0-7084-11f1-8e1d-bbbb1017d210.jpg)
+
+Ben doesn't believe Russia is a conservative paradise
+
 Other Westerners who have moved to Russia take issue with how the Shared Values visa itself is being promoted.
 
 Ben - who asked that we use only his first name - moved to Russia in 2023 from Derby in the UK after falling in love with a Russian woman he met through a language exchange website. The couple live in Kursk, near the Ukrainian border.
@@ -114,3 +130,11 @@ He moved to Russia on a private family visa rather than under the Shared Values 
 Nearly two years after the Shared Values visa was launched, Russia's experiment in attracting ideological migrants remains small in scale.
 
 While it has failed to attract a large wave of "anti-woke" immigration, it has made it easier for some Westerners to build new lives in the country - whether for love, faith or simply a change of direction.
+
+## More weekend picks
+
+- Published25 May 2025
+ ![Father Moses McPherson, a Russian Orthodox priest](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ae73/live/84976680-2671-11f0-8c66-ebf25fc2cfef.jpg) 
+![An image of Geumseung, 21, a North Korean refugee who has settled in Seoul overlaying a picture of the China-North Korea border fence](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png) 
+- Published15 March
+ ![Ekaterina Barrett takes her three dogs for a stroll in Monaco. 8 June 2023](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/743d/live/fe616f80-13db-11f1-801d-ed3cff6bf876.jpg)

@@ -4,7 +4,7 @@ title: Australia to double penalty for social media ban breaches to $99m as tech
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:33Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-27T00:00:00Z'
 description: Prime minister Anthony Albanese says too many children still on platforms
   but he is ‘heartened’ by world-leading law
@@ -27,6 +27,8 @@ The reforms would also give the eSafety commissioner the power to compel social 
 “These changes reflect the seriousness with which we take any failure by social media companies to comply with our world-leading law.”
 
 Since Australia became the first country in the world to legislate a social media-ban for under-16s, international momentum for similar reforms has been growing.
+
+![A teenage boy looks at an iPhone screen](https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/0_0_5000_3334/master/5000.jpg?width=445&dpr=1&s=none&crop=none)
 
 The French national assembly had passed legislation to prohibit access to social media accounts for children under 15 – with provisions for parental consent – and the UK government had announced plans for an “Australia-plus” ban for under-16s from 2027, with additional restrictions.
 

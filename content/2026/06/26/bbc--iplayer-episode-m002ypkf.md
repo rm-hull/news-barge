@@ -3,7 +3,7 @@ title: 'BBC News - Boiling Point: The Week of Extreme Heat'
 source_url: https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:38Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-26T00:00:00Z'
 description: The last week of June 2026 saw record-breaking temperatures across parts
   of the UK and Europe. While some enjoyed the sunshine, the heat caused trains, schools

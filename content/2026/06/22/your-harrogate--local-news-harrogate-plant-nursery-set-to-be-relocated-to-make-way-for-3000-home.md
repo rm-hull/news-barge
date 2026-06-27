@@ -3,13 +3,15 @@ title: Plant nursery set to be relocated to make way for 3,000-home Maltkiln dev
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/plant-nursery-set-to-be-relocated-to-make-way-for-3000-home-maltkiln-development/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:51Z'
+scraped_at: '2026-06-27T20:49:24Z'
 published: '2026-06-22T00:00:00Z'
 description: Plans are being drawn up to relocate a plant nursery to make space for
   the 3,000-home Maltkiln development.
 ---
 
-Plans are being drawn up to relocate a plant nursery to make space for the 3,000-home Maltkiln development.
+![](https://mmo.aiircdn.com/409/6a38e387191a878ceb9.jpg) 
+
+                                    Plans are being drawn up to relocate a plant nursery to make space for the 3,000-home Maltkiln development.
 
 
 The wholesale business would be relocated from the current site east of Station Road and south of the A59 to a location less than two miles away east of the A168 off Whixley Lane.

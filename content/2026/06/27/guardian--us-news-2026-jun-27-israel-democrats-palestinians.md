@@ -4,7 +4,7 @@ title: '‘It’s become a litmus test’: wins for Israel critics shine light o
 source_url: https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Candidates who believe Israel has committed genocide won big in New York
   – will it push the party to move their way?

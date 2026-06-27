@@ -3,11 +3,15 @@ title: £14million country estate near York with 1,676 acres goes on the market
 source_url: https://www.yorkpress.co.uk/news/26233755.scoreby-estate-1-676-acres-guide-price-14m/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:49Z'
+scraped_at: '2026-06-27T20:55:05Z'
 published: '2026-06-27T00:00:00Z'
 description: One of North Yorkshire’s largest country estates totalling some 1,676
   acres has gone on the market with a guide price of £14million.
 ---
+
+## £14million country estate near York with 1,676 acres goes on the market
+
+Scoreby Estate near York has a guide price of £14million *(Image: Fisher German)*
 
 One of North Yorkshire’s largest country estates has gone on the market with a guide price of £14million.
 
@@ -27,11 +31,17 @@ Fisher German Captivating Properties is selling the 1,676-acre property, which i
 - 
     **Barry Crux & Co markets the 26-bed B&B York for £2.5million**
 
+  Scoreby Estate near York has a guide price of £14million 
+
+*(Image: Fisher German)*
 
 “We’re delighted to bring the magnificent Scoreby Estate to the market, one of the county’s most significant rural estates, extending to almost 1,700 acres in a highly accessible position just five miles east of York.”
 
 Stuart continued: “Combining productive farmland, established woodland, residential property and long-term investment potential, Scoreby Estate offers the scale and versatility rarely seen in today’s market.
 
+  Scoreby Estate near York has a guide price of £14million 
+
+*(Image: Fisher German)*
 
 “With its mix of traditional and modern farm buildings, Grade 2 and 3 arable land, Ings grassland, ancient, replanted woodland and frontage to the River Derwent, it presents an exceptional proposition for farmers, investors and lifestyle buyers alike.”
 

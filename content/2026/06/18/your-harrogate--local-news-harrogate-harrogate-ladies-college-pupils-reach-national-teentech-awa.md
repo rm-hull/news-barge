@@ -3,13 +3,15 @@ title: Harrogate Ladies' College pupils reach national TeenTech award finals
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-ladies-college-pupils-reach-national-teentech-award-finals/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:04Z'
+scraped_at: '2026-06-27T20:49:36Z'
 published: '2026-06-18T00:00:00Z'
 description: Three teams of young innovators from Harrogate Ladies' College are heading
   to London after reaching the finals of a prestigious national awards competition.
 ---
 
-Three teams of young innovators from Harrogate Ladies' College are heading to London after reaching the finals of a prestigious national awards competition.
+![](https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg) 
+
+                                    Three teams of young innovators from Harrogate Ladies' College are heading to London after reaching the finals of a prestigious national awards competition.
 
 The school, which will become Duchy College from September 2026, has made history by securing three places in the finals of the TeenTech Awards.
 

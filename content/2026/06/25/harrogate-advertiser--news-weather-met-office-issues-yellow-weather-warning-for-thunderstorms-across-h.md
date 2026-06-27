@@ -4,7 +4,7 @@ title: Met Office issues yellow weather warning for thunderstorms across Harroga
 source_url: https://www.harrogateadvertiser.co.uk/news/weather/met-office-issues-yellow-weather-warning-for-thunderstorms-across-harrogate-district-8761352
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: The Met Office has issued a yellow weather warning for thunderstorms
   across the Harrogate district overnight and into the morning.
@@ -19,6 +19,10 @@ The weather warning covers most of the United Kingdom and is in place from midni
 There is a slight chance that power cuts could occur and other services to some homes and businesses could be lost.
 
 Where lightning strikes or flooding occurs, there is a chance of delays and some cancellations to train and bus services
+
+![The Met Office has issued a yellow weather warning for thunderstorms across the Harrogate district from midnight tonight (June 25) till 10am on Friday (June 26)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjExNGIzZWJkLTlkN2ItNDJlNy05ZTkyLWNjNDhkNzJmMmVmYzo3MWYwZjcwMC01M2I5LTRlNzAtYjY5YS00OTJmODQyNjJiMzk=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 There is a small chance that homes and businesses could be flooded quickly, with damage to some buildings from floodwater, lightning strikes, hail or strong winds.
 

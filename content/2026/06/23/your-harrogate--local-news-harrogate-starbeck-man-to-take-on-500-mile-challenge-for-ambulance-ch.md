@@ -3,12 +3,14 @@ title: Starbeck man to take on 500 mile challenge for ambulance charity
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/starbeck-man-to-take-on-500-mile-challenge-for-ambulance-charity/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:44Z'
+scraped_at: '2026-06-27T20:49:16Z'
 published: '2026-06-23T00:00:00Z'
 description: 23 year old Jamie will take on a 500 mile journey for charity.
 ---
 
-23 year old Jamie will take on a 500 mile journey for charity.
+![](https://mmo.aiircdn.com/409/6a3a76b15ea4d475dc3.jpg) 
+
+                                    23 year old Jamie will take on a 500 mile journey for charity.
 
 To raise money for the St. John Ambulance Yorkshire Dales, Jamie is taking on a 500-mile challenge, and he will complete it the day before his 24th birthday.
 

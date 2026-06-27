@@ -3,13 +3,17 @@ title: 'Heatwave: North Yorkshire Council issues tips on how to survive the hot 
 source_url: https://www.harrogateadvertiser.co.uk/news/weather/heatwave-north-yorkshire-council-issues-tips-on-how-to-survive-the-hot-weather-8758002
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:14Z'
 published: '2026-06-24T00:00:00Z'
 description: An amber Heat Health Alert is in place from today (June 24) until Thursday
   June 25 at 11pm.
 ---
 
 # Heatwave: North Yorkshire Council issues tips on how to survive the hot weather
+
+![A map showing theare covered by the Heat Health Alert warning - Source Gov.uk](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjMjU1ZmZjLWI2OTMtNDcxOS1iOTYwLWY2MjgwOWFmNmMyZjphY2Q4YTVlOC04ZmE4LTRjOGUtOTViOC00MjQ0NzA5Y2RhMDU=.jpg?crop=3:2,smart&trim=&width=640&quality=70&enable=upscale)
+
+
 
 ## An amber Heat Health Alert is in place from today (June 24) until Thursday June 25 at 11pm.
 

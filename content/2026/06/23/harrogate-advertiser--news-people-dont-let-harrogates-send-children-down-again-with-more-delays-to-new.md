@@ -4,7 +4,7 @@ title: ‘Don’t let Harrogate’s SEND children down again with more delays to
 source_url: https://www.harrogateadvertiser.co.uk/news/people/dont-let-harrogates-send-children-down-again-with-more-delays-to-new-school-opening-says-towns-mp-8757582
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:52Z'
+scraped_at: '2026-06-27T20:47:14Z'
 published: '2026-06-23T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon is stepping up the pressure
   to open Bilton Woodfield School by the next school term to “avoid failing another
@@ -20,6 +20,10 @@ The Lib Dem MP raised the issue of Harrogate’s new SEND school, which has been
 Mr Gordon invited Georgia Gould OBE MP to join him in applying pressure to the school trust and local authority to ensure that there would be no further delays.
 
 “It beggars belief that we’ve spent millions funding this school and yet it sits there empty,” said Mr Gordon.
+
+![Harrogate and Knaresborough Lib Dem MP Tom Gordon raised the issue of Harrogate’s new SEND school, which has been hit by delays, with the Minister of State for School Standards this week in the House of Commons. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE4MDMxZWUwLThjYjEtNDkyNC05YzBlLTY0MmIyM2IxMmM4Yzo2ZWQzNmMxYS1lOWIxLTQ0OGQtYjcyZi03YWVhZTFjMTc1NWQ=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 "Yet the summer holidays are just around the corner and we’ve heard nothing.
 

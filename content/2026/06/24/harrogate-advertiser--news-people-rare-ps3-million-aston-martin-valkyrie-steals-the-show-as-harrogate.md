@@ -4,7 +4,7 @@ title: Rare £3 million Aston Martin Valkyrie steals the show as Harrogate celeb
 source_url: https://www.harrogateadvertiser.co.uk/news/people/rare-ps3-million-aston-martin-valkyrie-steals-the-show-as-harrogate-celebrates-classic-and-modern-motoring-8759415
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-24T00:00:00Z'
 description: The third annual Harrogate Concours once again attracted huge crowds
   of car enthusiasts as almost 100 classic vehicles and high-powered sports cars rolled
@@ -20,6 +20,10 @@ In an incredible celebration of both history and high horsepower, The Yorkshire 
 One of the most advanced hypercars ever created, the F1-inspired machine produces over 1,100 horsepower from its hybrid powertrain and is capable of revving beyond 11,000rpm.
 
 Only 150 road-going examples were ever built, and it certainly drew in the crowds from Harrogate’s petrolheads as it took its place alongside such cars as a Bugatti Veyron, a Ferrari SF90 XX, and a host of other rare and highly sought-after performance cars.
+
+![The third annual Harrogate Concours once again attracted huge crowds of car enthusiasts as almost 100 classic vehicles and high-powered sports cars rolled into the town centre](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmMGY3YmZlLTJiNmEtNGRkZC1hZjk2LWQwMzdmMzM0MmU3ZTo5NzBhNGZmMS0yY2UzLTQ2YmItOTViNS0wNWZmNjJjMTQzMWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 The veteran cars were organised by antique car enthusiasts, Daniel and Adam Ward, with both sets of vehicles on display to huge crowds throughout the morning before roaring off in what was a truly awesome Grand Depart in the middle of the afternoon.
 

@@ -3,12 +3,16 @@ title: Emergency news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/emergency/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T20:22:18Z'
+scraped_at: '2026-06-27T20:55:07Z'
 published: '2026-01-01T00:00:00Z'
 description: Emergency news, features and opinion in and around Press | York Press
 ---
 
-# Emergency
+![A fireman from Helmsley fighting the Langdale Moor fire last year.](https://www.yorkpress.co.uk/resources/images/320x200/1x/19850205.jpg) 
+
+    
+        
+        # Emergency
 
 Loading...
 

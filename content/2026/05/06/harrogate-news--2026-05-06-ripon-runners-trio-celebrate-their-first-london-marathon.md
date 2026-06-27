@@ -3,7 +3,7 @@ title: Ripon Runners trio celebrate their first London Marathon | Harrogate Info
 source_url: https://www.harrogate-news.co.uk/2026/05/06/ripon-runners-trio-celebrate-their-first-london-marathon/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:05Z'
+scraped_at: '2026-06-27T20:47:56Z'
 published: '2026-05-06T00:00:00Z'
 description: Ripon Runners members Sara Barker, David Brown and James Pollington-Clyne
   are all celebrating the successful completion of their first London Marathon, which
@@ -29,6 +29,8 @@ I ran with Ripon Runners during the week and built up my long runs to 21 miles, 
 
 
 
+![James Pollington-Clyne](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Image-3-James-Pollington-Clyne.webp)
+
 
 James, also from Ripon but currently studying at Loughborough University, hadn’t run further than 16 miles prior to the London race.
 
@@ -47,6 +49,8 @@ Sara said:The run itself was like one huge carnival. I ran with so many inspirin
 It’s a very emotional day which really illustrates the best of humanity and community.
 
 
+
+![David Brown & Angus Brown](https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Image-1-David-Brown-Angus-Brown.webp)
 
 But even with the crowds cheering them on, there was no escaping the huge physical effort involved in completing 26 gruelling miles.
 

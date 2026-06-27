@@ -4,12 +4,16 @@ title: 'Austrian Grand Prix 2026: George Russell''s quick thinking and ''magic l
 source_url: https://www.bbc.co.uk/sport/formula1/articles/cj6g99jr4gdo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T19:06:29Z'
+scraped_at: '2026-06-27T20:40:32Z'
 published: '2026-06-27T00:00:00Z'
 description: Quick thinking, experience and a "magic lap" come together to produce
   an unexpected pole position for George Russell at the Austrian Grand Prix, writes
   Andrew Benson.
 ---
+
+![George Russell celebrates after claiming pole position in Austria](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/18ce/live/64e77090-7252-11f1-a7ed-d13e43fa05b7.jpg)
+
+George Russell has been on pole position four times this season
 
 **Quick thinking, experience and a "magic lap" came together to produce an unexpected pole position for George Russell at the Austrian Grand Prix.**
 
@@ -22,6 +26,8 @@ Russell's judgement, to lift off just enough to satisfy the rules, but not so mu
 The wider questions will continue, though. Why was only a single yellow waved initially when Verstappen spun across the gravel trap and hit the wall at the fastest corner on the track, taken at nearly 140mph?
 
 Why did it take 20 seconds for race control to decide it really should have been a double yellow - by which time everyone had already completed their laps?
+
+Verstappen described this as “quite crazy”; Antonelli as “a bit confusing”.
 
 But in the circumstances that prevailed, it was Russell who read them correctly.
 
@@ -53,6 +59,10 @@ This time, Russell had him covered, but he was not sure why.
 
 ## Is this a springboard for Russell?
 
+![Charles Leclerc, George Russell and Lewis Hamilton pose for photos after qualifying](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/417c/live/6379e160-7253-11f1-a69a-55ad23948934.jpg)
+
+Russell prevented Ferrari's Charles Leclerc and Lewis Hamilton securing a front-row lock-out
+
 The key for Russell now is to convert it into a win - which, remarkably, would be his first since the opening race of the season in Australia. Russell is still 50 points behind Antonelli in the championship and really needs a win on Sunday.
 
 This pole, he said, gave him confidence that it would come good in the end,
@@ -74,6 +84,10 @@ As for the choice of flags at Turn Nine, Russell said: "I didn't even see the ca
 "So I think the single yellow was correct. I think I did everything right to be very much under control, and it's a very different story to a double."
 
 ## How might the race go?
+
+![Lewis Hamilton drives past a AustrianGP sign on track in Spielberg](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/78f4/live/09df1430-7254-11f1-a69a-55ad23948934.jpg)
+
+Hamilton celebrated his maiden win for Ferrari last time out in Barcelona
 
 Predicting the race after such a a qualifying session is especially difficult.
 

@@ -3,11 +3,13 @@ title: '''Do not eat'' warnings to shoppers at Asda, Tesco, Sainsbury’s, M&S a
 source_url: https://www.yorkpress.co.uk/news/26233772.recall-warnings-asda-tesco-sainsburys-m-s/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:26Z'
+scraped_at: '2026-06-27T20:55:40Z'
 published: '2026-06-27T00:00:00Z'
 description: The Food Standards Agency has issued several “do not eat” notices affecting
   items stocked across major supermarkets.
 ---
+
+*(Image: Getty Images/iStockphoto)*
 
 Shoppers at Asda, Tesco, Sainsbury’s, Marks and Spencer, Waitrose and Morrisons are being urged to check their cupboards following a series of food safety alerts.
 

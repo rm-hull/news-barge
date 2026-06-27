@@ -3,12 +3,14 @@ title: Wellbeing day to be launched at Rudding Park this July
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/wellbeing-day-to-be-launched-at-rudding-park-this-july/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:45Z'
+scraped_at: '2026-06-27T20:49:17Z'
 published: '2026-06-23T00:00:00Z'
 description: '''Let''s Create'' is coming to life, at Rudding Park.'
 ---
 
-'Let's Create' is coming to life, at Rudding Park.
+![](https://mmo.aiircdn.com/409/6a3a6e2a527947f15d5.jpg) 
+
+                                    'Let's Create' is coming to life, at Rudding Park.
 
 On Friday 10th July, a new wellbeing day is being launched from West Plum Studio, by Sophie Roberts who is a creative mentor, alongside a workshop tutor.
 

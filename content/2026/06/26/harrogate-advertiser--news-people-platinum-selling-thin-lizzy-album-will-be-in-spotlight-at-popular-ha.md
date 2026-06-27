@@ -4,7 +4,7 @@ title: Platinum selling Thin Lizzy album will be in spotlight at popular Harroga
 source_url: https://www.harrogateadvertiser.co.uk/news/people/platinum-selling-thin-lizzy-album-will-be-in-spotlight-at-popular-harrogate-music-event-8764747
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:48Z'
+scraped_at: '2026-06-27T20:47:09Z'
 published: '2026-06-26T00:00:00Z'
 description: The forthcoming Vinyl Sessions event for Harrogate Hospital and Community
   Charity promises a treasure trove of classic moments by Irish rock icons Thin Lizzy.
@@ -19,6 +19,10 @@ Taking place at Starling Independent Bar Cafe Kitchen in Harrogate on Wednesday,
 Pride of place at this month’s Vinyl Sessions will go to Thin Lizzy’s platinum-selling Greatest Hits album.
 
 Released in 2004, this incredible album has the lot, including the band’s four top ten hit singles in the UK and tracks form their nine top ten hit albums.
+
+![Pride of place at this month’s Vinyl Sessions music event in Harrogate will go to Thin Lizzy’s platinum-selling Greatest Hits album. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3YWFkM2VmLTVlMjktNGM3Ni1hNjU3LTViNWMxYjM0M2Q2Mjo1OGUzZTU2MS0wNDhkLTRhOWQtYTlhZi03MDI5N2Y3MDA3YWY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 As well as obvious selections such as Dancing in the Moonlight and The Boys Are Back in Town, the album features chart hits Waiting for an Alibi and Killer on the Loose, Out in the Fields and Parisienne Walkways.
 

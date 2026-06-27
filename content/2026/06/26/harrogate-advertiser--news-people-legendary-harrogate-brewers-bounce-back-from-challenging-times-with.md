@@ -4,7 +4,7 @@ title: Legendary Harrogate brewers bounce back from challenging times with a cla
 source_url: https://www.harrogateadvertiser.co.uk/news/people/legendary-harrogate-brewers-bounce-back-from-challenging-times-with-a-classic-beer-that-keeps-on-winning-8763354
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:49Z'
+scraped_at: '2026-06-27T20:47:10Z'
 published: '2026-06-26T00:00:00Z'
 description: The team behind a legendary Harrogate brewery is celebrating a UK award
   after bouncing back from the most challenging times in the business’s history.
@@ -19,6 +19,10 @@ Founded in 1991 by Bill Witty, like many other independent firms, Daleside Brewe
 In May 2024, this small but popular business was acquired by fellow independent Rooster's Brewing Co and relocated from its Starbeck base to Rooster's facilities on Hornbeam Park.
 
 The new owners pledged to maintain Daleside's distinct proprietary yeast strains and traditional recipes, ensuring its core line-up remained unchanged.
+
+![Champion Beer of Britain success - From left, Daleside Brewery business development manager Vincent Staunton, Adam Cox, General Manager at Daleside Brewery and ex Daleside Head Brewer and blogger Rob Millichamp, who writes Rob's Beer Adventure.  (Picture Graham Chalmers)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgyOWUyMTVjLTAwZjItNGRiZS1hNjk1LWU2Y2U0OWJjNzcyNzpiNDlkODBkYi02ODI1LTRlYjktYTU1Ny00MTRkZGI5OTBlOWM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 They have been as good as their word, as witnessed by Daleside winning Silver recently in CAMRA’s Champion Beer of Britain awards.
 

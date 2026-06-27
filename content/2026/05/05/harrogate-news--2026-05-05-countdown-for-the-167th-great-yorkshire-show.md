@@ -3,7 +3,7 @@ title: Countdown for the 167th Great Yorkshire Show | Harrogate Informer
 source_url: https://www.harrogate-news.co.uk/2026/05/05/countdown-for-the-167th-great-yorkshire-show/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T20:01:10Z'
+scraped_at: '2026-06-27T20:48:00Z'
 published: '2026-05-05T00:00:00Z'
 description: The countdown is on to the 167th Great Yorkshire Show with tickets selling
   fast for the grand celebration of farming, food and the countryside in Harrogate

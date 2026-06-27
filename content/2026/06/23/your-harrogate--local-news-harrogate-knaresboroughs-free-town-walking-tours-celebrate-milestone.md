@@ -3,13 +3,15 @@ title: Knaresborough's free town walking tours celebrate milestone
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/knaresboroughs-free-town-walking-tours-celebrate-milestone/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:40Z'
+scraped_at: '2026-06-27T20:49:12Z'
 published: '2026-06-23T00:00:00Z'
 description: More than 1,000 people have taken part in Knaresborough's free town walking
   tours in their first year, with organisers celebrating the milestone this week.
 ---
 
-More than 1,000 people have taken part in Knaresborough's free town walking tours in their first year, with organisers celebrating the milestone this week.
+![](https://mmo.aiircdn.com/409/6a3afcf2be68d70bc3a.jpg) 
+
+                                    More than 1,000 people have taken part in Knaresborough's free town walking tours in their first year, with organisers celebrating the milestone this week.
 
 Knaresborough Town Council launched The Mayor of Knaresborough's Town Walking Tours after nine volunteer guides completed nationally recognised training through the Institute of Tourist Guiding.
 

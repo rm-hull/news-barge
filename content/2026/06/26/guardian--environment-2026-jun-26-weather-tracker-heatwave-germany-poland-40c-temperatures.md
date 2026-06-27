@@ -3,7 +3,7 @@ title: 'Weather tracker: Heatwave expected to bring Germany and Poland to 40C'
 source_url: https://www.theguardian.com/environment/2026/jun/26/weather-tracker-heatwave-germany-poland-40c-temperatures
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:32Z'
+scraped_at: '2026-06-27T20:41:59Z'
 published: '2026-06-26T00:00:00Z'
 description: Austrian Grand Prix declares heat hazard as dramatic rise in temperatures
   forecast in central and northern Europe

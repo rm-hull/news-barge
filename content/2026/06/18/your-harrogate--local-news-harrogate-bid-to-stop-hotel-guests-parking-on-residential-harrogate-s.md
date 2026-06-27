@@ -3,14 +3,16 @@ title: Bid to stop hotel guests parking on residential Harrogate streets set to 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bid-to-stop-hotel-guests-parking-on-residential-harrogate-streets-set-to-fail/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:08Z'
+scraped_at: '2026-06-27T20:49:40Z'
 published: '2026-06-18T00:00:00Z'
 description: A bid by residents in Harrogate to introduce residents-only parking on
   their streets amid concerns that spaces are being taken by hotel guests is set to
   be rejected.
 ---
 
-A bid by residents in Harrogate to introduce residents-only parking on their streets amid concerns that spaces are being taken by hotel guests is set to be rejected.
+![](https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg) 
+
+                                    A bid by residents in Harrogate to introduce residents-only parking on their streets amid concerns that spaces are being taken by hotel guests is set to be rejected.
 
 A petition has been submitted to North Yorkshire Council by residents living in the Springfield Mews, Spring Mount and Spring Grove area of the town.
 

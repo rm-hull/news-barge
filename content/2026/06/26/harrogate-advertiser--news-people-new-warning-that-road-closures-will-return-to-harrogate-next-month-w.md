@@ -4,7 +4,7 @@ title: New warning that road closures will return to Harrogate next month with d
 source_url: https://www.harrogateadvertiser.co.uk/news/people/new-warning-that-road-closures-will-return-to-harrogate-next-month-with-disruption-for-motorists-8763625
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:49Z'
+scraped_at: '2026-06-27T20:47:10Z'
 published: '2026-06-26T00:00:00Z'
 description: Summer may most definitely have arrived but that does not mean Harrogate
   is getting a holiday from roadworks.
@@ -19,6 +19,10 @@ After a 2025 full of roadworks, road closures and temporary traffic controls in 
 The next month will see the return of temporary traffic lights and road closures.
 
 **June 28: Rudding Lane, Follifoot, Spofforth with Lower Wharfedale Ward**
+
+![New frustration for drivers - This summer will see the return in Harrogate of temporary traffic lights and road closures. (Picture Gerard Binks)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjYwOTQ2MGE4LTgyZDMtNGViZS05NDIyLTdiN2JhMWY1NmI4OTpiOGE1OTk2Yi04YjBkLTQ4ODktYTNlZS1kYWYzN2RkYzcyNzI=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Temporary traffic management to facilitate Harrogate Harriers 10Km road running race Rudding Lane – One Way Southbound Only – Northbound traffic via alternative signed route temporary short term closures on Pannal Road, Follifoot and Hookstone Drive to enable safe movement of event participants from minor roads/accesses to highway.
 

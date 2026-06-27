@@ -3,11 +3,13 @@ title: Police seek man after fuel theft in North Yorkshire village
 source_url: https://www.yorkpress.co.uk/news/26233822.caterick-garrison-police-seek-man-fuel-theft/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:48Z'
+scraped_at: '2026-06-27T20:55:04Z'
 published: '2026-06-27T00:00:00Z'
 description: Police want to find this man as they investigate a fuel theft earlier
   this month.
 ---
+
+*(Image: North Yorkshire Police)*
 
 Police want to find this man as they investigate a fuel theft earlier this month.
 

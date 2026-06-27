@@ -3,7 +3,7 @@ title: '''Move the House of Lords to York - why we we need to think big'''
 source_url: https://www.yorkpress.co.uk/news/26230645.move-house-lords-york---need-think-big/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:54:37Z'
+scraped_at: '2026-06-27T20:54:53Z'
 published: '2026-06-27T00:00:00Z'
 description: What is your view on this suggestion that we should move the House of
   Lords to York?

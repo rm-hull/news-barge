@@ -4,7 +4,7 @@ title: North Yorkshire Council leader hopes next Prime Minister will tackle ‘d
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/north-yorkshire-council-leader-hopes-next-prime-minister-will-tackle-disconnect-between-north-and-westminster-8761977
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:50Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: The leader of North Yorkshire Council hopes the next Prime Minister will
   tackle the “disconnect” between the North of England and the London-based government.
@@ -19,6 +19,10 @@ Speaking after Sir Keir Starmer announced his resignation on Monday (June 22), C
 He said: “There’s a certain level of crystal ball gazing needed, but if it is Andy Burnham who becomes leader of the Labour Party and then, because of their majority, the next prime Minister, the hope would be that he understands the disconnect that we feel there is between a government based in London and the North.
 
 “And I would hope he closes that gap.”
+
+![Councillor Carl Les, Leader of North Yorkshire Council, hopes the next Prime Minister will tackle the “disconnect” between the North of England and the London-based government](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 The Conservative councillor would also like to see the next Prime Minister continue to offer greater devolution to the English regions.
 

@@ -4,13 +4,17 @@ title: We try 'best' North Yorkshire fish and chips cafe – was top-chef James 
 source_url: https://www.yorkpress.co.uk/eatingout/26227879.fish-chips-whitbys-famous-magpie-cafe---review/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T19:55:13Z'
+scraped_at: '2026-06-27T20:55:27Z'
 published: '2026-06-27T00:00:00Z'
 description: Fish and chips is a must on a day out at the seaside - this week we review
   the much-loved Magpie cafe at Whitby. Is it as good as they say?
 ---
 
-*Fish and chips at Whitby's famous Magpie - here's our review of this much-loved North Yorkshire cafe*
+## We try 'best' North Yorkshire fish and chips cafe – was top-chef James Martin right?
+
+Haddock and chips at The Magpie in Whitby. Photo by NQ
+
+  *Fish and chips at Whitby's famous Magpie - here's our review of this much-loved North Yorkshire cafe*
 
 IT is a truth universally acknowledged that a day tripper on a visit to Whitby must be in want of fish and chips.
 
@@ -24,6 +28,8 @@ However, plenty of famous stomachs have filled up on a fish tea at this charming
 
 Easily identified by its striking and traditional black and white frontage and queues of eager diners snaking down its entrance stairs and along the pavement, The Magpie has been part of what makes Whitby so special for decades.
 
+  The Magpie in Whitby. Photo by NQ
+
 
 First opening around 1939, the actual building dates from 1750. Its original purpose was to house a rich merchant, but it later became a shipping office.
 
@@ -36,6 +42,8 @@ It's got everything you could possibly want from a day out at the seaside – fr
 And, of course, it has fish and chips.
 
 Now, as they might say on the Beeb, other brands are available, but when most people think of fish and chips and Whitby, only one name comes to mind.
+
+  Haddock and chips at The Magpie in Whitby. Photo by NQ
 
 
 And so it was that our weekend trip to the harbour town led us straight to its door – having worked up an appetite on the hour-long beach walk from Sandsend, where a day's car parking on the beach road costs just over £8.
@@ -54,6 +62,8 @@ Our waitress quickly took our drinks orders – two bottles of Fentimans Ginger 
 
 Choices were as follows: mussels with chips (£19.50); fishcakes and chips (£16); grilled sea bass with chips (£19.50), and a regular haddock and chips (£18.50), with one small side of garden peas (£2).
 
+  Moules at The Magpie in Whitby. Photo by NQ
+
 
 While ordering was swift, we did wait a bit longer than we were expecting for our food – and watched enviously as plate after plate of delicious-looking dinners filed past us.
 
@@ -65,10 +75,14 @@ My daughter had picked the mussels which were served in a large, lidded pan alon
 
 Our other guest felt the same about her fishcakes – two were served as a main, and she struggled to finish both given how hearty they were. Packed with fish rather than just potato, they had a satisfying crunchy coating that got the thumbs up.
 
+  Fishcake and chips at The Magpie in Whitby. Photo by NQ
+
 
 Less of a winner was the sea bass; the small duo of slightly dried-out fillets looked rather lacklustre and forlorn sitting upon the large white plate.
 
 In retrospect, my husband wished he'd ordered the fish and chips, especially after he sneaked a forkful of mine .If you normally go for cod and chips, take my advice and try the haddock. Cooked with its skin on, the flavour volume is maximised.
+
+  Sea bass at The Magpie in Whitby. Photo by NQ
 
 
 The super-crispy, golden orange batter, ripped away to reveal the most beautiful, glistening white fish that just melted in the mouth. If I had one regret, it was that I hadn't ordered the large portion (as James Martin recommends), because I just could not get enough of it.
@@ -80,6 +94,8 @@ Undoubtedly this is because the chips are fried in the traditional way, in beef 
   *More food reviews:*
 
 And on account of this, we were all full up after our meals, with no room for dessert. Although we did enjoy the bespoke Whitby rock mints which came with our bill.
+
+  Nice touch - a farewell Magpie Cafe mint on Whitby rock. Photo NQ
 
 
 But we were not quite done. About an hour later, after we'd walked off our Magpie feast by climbing the 199 steps to Whitby Abbey, it was time for ice-cream.

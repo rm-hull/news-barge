@@ -4,7 +4,7 @@ title: Harrogate rail passengers 'face cancellation of up to 50% of services bet
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-rail-passengers-face-cancellation-of-up-to-50-of-services-between-leeds-and-york-8760731
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:51Z'
+scraped_at: '2026-06-27T20:47:12Z'
 published: '2026-06-25T00:00:00Z'
 description: The impact of soaring temperatures is being felt by Harrogate rail passengers
   with the withdrawal of up to 50% of services between Leeds and York via Harrogate.
@@ -19,6 +19,10 @@ Harrogate rail passengers have been advised to check before travelling as the im
 Yesterday saw around half of the services between York and Leeds, via Harrogate, cancelled with further cancellations expected today, today, Thursday and tomorrow, Friday.
 
 A Northern spokesperson said: "Due to the extreme heat, we have had to reduce the number of trains running and those that are running will be much busier than usual.
+
+![Harrogate rail passengers have been advised to check before travelling as the impact of the extreme heatwave leads to service alterations and travel disruption. (Picture Gerard Binks)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY1MGRmZWEwLTc3NDMtNGM5OC05NTU5LTU4Y2Q4YTAzMzU2ZTpmZTIzMWIzOS03MTVlLTQ1YWEtYjFjZS1hMDc1ZGIwZDliNjY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 “We are strongly advising customers to check their full journey before setting off and be prepared for longer waiting times and cancellations.
 

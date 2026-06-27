@@ -4,7 +4,7 @@ title: Ofsted praises Nidderdale High School's 'culture of belonging' after firs
 source_url: https://www.harrogateadvertiser.co.uk/news/people/ofsted-praises-nidderdale-high-schools-culture-of-belonging-after-first-inspection-under-governments-new-rules-8762463
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T18:54:49Z'
+scraped_at: '2026-06-27T20:47:11Z'
 published: '2026-06-25T00:00:00Z'
 description: Nidderdale High School is celebrating a positive Ofsted inspection report
   under the Government’s new system which recognises the school's “strong commitment
@@ -20,6 +20,10 @@ Headteacher Kath Jordan said: “We are delighted that the work we do to support
 "Meeting the new ‘Expected Standard’ is a high benchmark to reach and we are very proud to have achieved this standard across such a wide range of measures.
 
 "The report reflects the hard work and commitment of all staff, leaders and students and the support of our families and community.”
+
+![Located in Pateley Bridge, Nidderdale High School is celebrating a positive Ofsted inspection report. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2ZjcyZDUxLWQyMDQtNDE5Ny04ODYxLTZkM2RlMjMyYTIyYjozMzNkM2ZlZi0wNGY2LTRjODItYTJjNC04OTlkNmI5NmY3ZWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
 
 Inspectors highlighted the school's culture of belonging as a defining feature of school life, stating that "leaders' focus on ensuring pupils experience a sense of belonging underpins their work."
 

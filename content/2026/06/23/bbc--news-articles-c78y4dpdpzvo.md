@@ -3,11 +3,15 @@ title: Rescued Totnes sewage work eggs hatch into five ducklings
 source_url: https://www.bbc.co.uk/news/articles/c78y4dpdpzvo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:37Z'
+scraped_at: '2026-06-27T20:40:31Z'
 published: '2026-06-23T00:00:00Z'
 description: The eggs were spotted in a nest at risk of toppling over on the surface
   at a sewage treatment works.
 ---
+
+![Five fluffy ducklings paddle close together in a small plastic tub of water, their damp brown and yellow feathers showing as they settle into their new surroundings.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/4898/live/95ca0f10-6efb-11f1-87e9-1dc598ae70b3.jpg)
+
+The ducklings have settled into family life
 
 - Published
 
@@ -18,6 +22,10 @@ Workers James Blakesley and Josh Corderoy saw a nest of eggs floating on the sur
 Blakesley said they padded out a rubble sack and tethered it to rope so it would float, before using a sample pole to gently nudge the eggs into the bag. "It was a miracle that none of them broke," he said.
 
 Six of the seven eggs hatched, and five ducklings survived. They are now growing well and have settled into family life at his home.
+
+![A worker stands on a metal grate at a treatment site, using a rope and a makeshift sack to carefully collect a clutch of duck eggs resting among debris and branches.](https://ichef.bbci.co.uk/ace/standard/966/cpsprodpb/ea29/live/f0c64430-6efe-11f1-a123-635ca4e9abe4.jpg)
+
+The eggs were safely retrieved using a bag and rope
 
 Blakesley, a catchment technician with South West Water, said the pair could not believe it when they saw the nest. He explained that they had just got their equipment out to start maintenance work.
 
@@ -35,4 +43,4 @@ The five survivors were now growing well and had been swimming in a paddling poo
 
 "It's amazing to see how far they have come in the last few weeks."
 
-*Follow BBC Devon on *X, external*, **Facebook*, external* and **Instagram*, external*. Send your story ideas to **[spotlight@bbc.co.uk](mailto:spotlight@bbc.co.uk)*, external*.*
+*Follow BBC Devon on*X, external*,**Facebook*, external*and**Instagram*, external*. Send your story ideas to**[spotlight@bbc.co.uk](mailto:spotlight@bbc.co.uk)*, external*.*

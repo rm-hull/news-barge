@@ -3,7 +3,7 @@ title: Children embrace Cornish language as it enjoys ‘remarkable resurgence�
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T18:53:34Z'
+scraped_at: '2026-06-27T20:42:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Go Cornish Celebration engages younger generation as council finalises
   strategy to boost everyday use of Kernewek
@@ -19,6 +19,8 @@ His teacher, Kirsten Maun, who leads the Cornish programme at the school, said t
 
 “They know they’re Cornish and they think that’s a special thing to them. Plus, they just like learning different words.” She added that the word for butterfly – tykki duw – was particularly popular. “They love that.”
 
+![Several schoolchildren at Truro county hall, with one of them accepting a cardboard circle from an adult labelled “Go Cornish”](https://i.guim.co.uk/img/media/7d54bc7547c72935093164c663223d7c44fd304b/0_0_6452_4302/master/6452.jpg?width=445&dpr=1&s=none&crop=none)
+
 The Go Cornish takeover of Lys Kernow came as Cornwall council is completing a striking 10-year strategy that envisages Kernewek as a “thriving, forever language – widely spoken, seen and heard in everyday life in Cornwall”.
 
 Goals include making sure every child in Cornwall leaves primary school with a basic understanding of Cornish, establishing the first bilingual school and making sure Cornish is routinely seen and heard in civic spaces.
@@ -30,6 +32,8 @@ It says progress would include marriages and births being registered in Cornish,
 “We’re looking at what Wales has achieved in the last few decades [the Welsh language, Cymraeg, is a vital and vibrant part of Welsh life]. The Cornish language deserves that same opportunity.”
 
 In January Kernewek was officially recognised under part three of the European charter for regional or minority languages, which gives it greater protection and status. “That puts it on a par with those other Celtic languages in the United Kingdom,” Frost said. But the strategy is being delivered on a shoestring – £170,000 a year.
+
+![Children seated at Truro county hall with union jack and Cornish flags on display.](https://i.guim.co.uk/img/media/839edae5f3700fffe1b4e51a3e7969c025d9e30d/0_0_6549_4366/master/6549.jpg?width=445&dpr=1&s=none&crop=none)
 
 Frost linked the promotion of Kernewek to the growing campaign for Cornwall to be named as the fifth nation of the UK, which would – he hopes – unlock more funding. “Make us a devolved nation of the United Kingdom, give us funding that is worked out in the same way as the other nations and we’ll crack on,” he said.
 
@@ -44,6 +48,8 @@ Earlier this month, a mass written in Kernewek was premiered at Truro Cathedral,
 Loveday Jenkin, a member of the party Mebyon Kernow, which has long campaigned for greater autonomy for Cornwall, attended the mass. On the same day, she also took part in a meeting partly held in Kernewek and used the language during a pleasant evening at the pub. “I see a lot of Cornish speaking in the community, which I didn’t see 50 years ago,” she said.
 
 There are doubters. At a meeting of the council’s community wellbeing, overview and scrutiny committee, Reform UK councillor Sean Smith questioned whether the level of public demand justified the investment at a time when Cornwall faces significant pressure in housing, adult social care, children’s services and economic inequality.
+
+![Jenefer Lowe, grand bard of Cornwall, stands in a school with Cornish language signs on display](https://i.guim.co.uk/img/media/6d7607c96a9cd745bbd78149e98910090be4721c/0_0_6356_4237/master/6356.jpg?width=445&dpr=1&s=none&crop=none)
 
 However, the grand bard of Cornwall, Jenefer Lowe, insisted growing the language was crucial. “It’s about a sense of place and identity. It connects you to the place you live in. The language underpins everything.” Lowe said that 15 years ago she probably knew everyone who spoke Kernewek in Cornwall. “Now I don’t – and that is a good sign.”
 

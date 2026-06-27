@@ -3,11 +3,13 @@ title: 'Laura Kuenssberg: Is Andy Burnham Labour’s saviour, or just its best b
 source_url: https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T18:53:36Z'
+scraped_at: '2026-06-27T20:40:30Z'
 published: '2026-06-27T00:00:00Z'
 description: Labour insiders give Laura Kuenssberg their take on the man tipped to
   replace Keir Starmer as PM.
 ---
+
+![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1fcf/live/48f98c90-7137-11f1-8e1d-bbbb1017d210.png)
 
 **"Do you want a chat about the saviour?" a long-time Labour contact joked when I asked to pick their brains about their old colleague Andy Burnham, who is poised to enter No 10 in less than a month.**
 
@@ -34,6 +36,8 @@ But Burnham has a rare ability to grab public attention and make voters feel hea
 An ally from his time in Manchester told me: "It used to drive me mad that he was late, but every conversation is important to him. I could be stuck waiting having to make small talk with an ambassador, because he was stuck outside having a conversation with someone about the buses".
 
 In a profession where politicians are only too happy to be rude about each other, Andy Burnham is very well liked.
+
+![A handout photo made available by the UK Parliament shows Andy Burnham being sworn in as the Member of Parliament for Makerfield in the House of Commons chamber](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4718/live/1ad9f800-7154-11f1-8e1d-bbbb1017d210.jpg)
 
 "Affable", "warm", and a close ally says he's a "really nice person – politics is a contact sport and it's not contrived".
 
@@ -75,6 +79,8 @@ But when it comes to specifics, it can feel like a bit of a blur.
 
 That's why there is a hot political frenzy around who'll be his chancellor. All the talk in Westminster is of whether he'll pick Ed Miliband, on the soft left, or Wes Streeting, from Labour's right, or Home Secretary Shabana Mahmood. Whoever he picks in the end (and perhaps it will be someone else altogether like Welfare Secretary Pat McFadden, less eager to see himself in a political story), the argument has become a proxy for Burnham's overall sense of direction.
 
+![Andy Burnham smiling](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/97b2/live/248e2410-7155-11f1-8e1d-bbbb1017d210.jpg)
+
 The lack of clarity is a cause of concern for some in the party. One source told me: "Is the political north star still missing? The contenders talked about are in entirely different places on all sorts of things".
 
 We'll see. Burnham is expected to make a speech about the economy on Monday, when perhaps there'll be more of a hint. But many sources say his time as Manchester mayor has changed him and that he has incredible confidence and conviction about what he wants to do. One close colleague says: "He thinks about things more deeply than people give him credit for - don't underestimate how much he has thought about it".
@@ -96,6 +102,8 @@ Before some of you hyperventilate, that huge agenda is not what Andy Burnham is 
 But there are gaps in knowledge over the specifics. Will he find the extra £10 billion the Ministry of Defence believes is needed to keep us safe? Will he continue with the government's social media ban for under-16s in the format announced last week? Will he try again to tighten up the rules on benefits to cut the ballooning welfare budget? Will he abandon the new rules on immigration that the home secretary is trying to bring in?
 
 And what we really don't know much about is how he will approach foreign affairs. It's hard to imagine he'd stray much from the existing government positions on war and peace, but how would he deal with Donald Trump?
+
+![Keir Starmer headshot](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ea39/live/5b7db580-7155-11f1-8e1d-bbbb1017d210.jpg)
 
 He's expected to take over at a time of huge international turmoil, with big challenges for every government going: demographics, debt, division, and a real sense in the country of disillusionment with our political system.
 
@@ -123,4 +131,6 @@ The "saviour" might be pushing it, but the mood in the party this week suggests 
 
 *Top picture credits: Getty Images and PA*
 
-*BBC InDepth **is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.* *Sign up for the newsletter here*
+![Thin, lobster red banner with white text saying ‘InDepth newsletter’. To the right are black and white portrait images of Emma Barnett and John Simpson. Emma has dark-rimmed glasses, long fair hair and a striped shirt. John has short white hair with a white shirt and dark blazer. They are set on an oatmeal, curved background with a green overlapping circle.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/23c7/live/fdf6e630-5e7f-11f1-8b8c-6d33e1d5abb6.png)
+
+*BBC InDepth**is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.* *Sign up for the newsletter here*

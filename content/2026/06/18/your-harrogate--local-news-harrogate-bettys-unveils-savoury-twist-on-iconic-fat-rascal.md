@@ -3,13 +3,15 @@ title: Bettys unveils savoury twist on iconic Fat Rascal
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bettys-unveils-savoury-twist-on-iconic-fat-rascal/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:11:01Z'
+scraped_at: '2026-06-27T20:49:33Z'
 published: '2026-06-18T00:00:00Z'
 description: Harrogate's famous Bettys has launched a savoury version of its legendary
   Fat Rascal.
 ---
 
-Harrogate's famous Bettys has launched a savoury version of its legendary Fat Rascal.
+![](https://mmo.aiircdn.com/409/6a34111aa65fe754dbb.jpg) 
+
+                                    Harrogate's famous Bettys has launched a savoury version of its legendary Fat Rascal.
 
 The family-owned business has introduced the new "Cheesy Rascal" – the first savoury addition to the Rascal family.
 
@@ -18,6 +20,9 @@ While the traditional Fat Rascal is known for its fruity flavour and distinctive
 Freshly baked at Bettys' craft bakery in Harrogate, the Cheesy Rascal combines mature Cheddar and Gruyère cheeses with sun-dried tomatoes, mustard and herbs.
 
 The familiar Rascal character remains, with a face created using olives and cashew nuts.
+
+![](https://mmo.aiircdn.com/409/6a3411462553db241b3.jpg)
+
 
 Bettys' Fat Rascal has become one of Yorkshire's most recognisable bakery products since being introduced in the early 1980s.
 

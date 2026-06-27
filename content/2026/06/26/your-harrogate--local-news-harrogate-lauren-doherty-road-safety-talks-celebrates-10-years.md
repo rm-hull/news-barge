@@ -3,13 +3,15 @@ title: Lauren Doherty Road Safety Talks celebrates 10 years
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/lauren-doherty-road-safety-talks-celebrates-10-years/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T20:10:23Z'
+scraped_at: '2026-06-27T20:48:56Z'
 published: '2026-06-26T00:00:00Z'
 description: A Knaresborough woman whose powerful road safety talks have reached thousands
   of young people is celebrating a decade of changing lives.
 ---
 
-A Knaresborough woman whose powerful road safety talks have reached thousands of young people is celebrating a decade of changing lives.
+![](https://mmo.aiircdn.com/409/6a3eaf5d5dd235846a9.jpg) 
+
+                                    A Knaresborough woman whose powerful road safety talks have reached thousands of young people is celebrating a decade of changing lives.
 
 Lauren Doherty BEM first began visiting schools in 2016 after deciding she wanted to use her own experience of a life-changing road traffic collision to educate children and young adults about staying safe near roads.
 
@@ -20,6 +22,9 @@ Reflecting on the milestone, Lauren said:
 "I think it's gone quite quick when we've been looking back at pictures.
 
 We've done a lot. Getting my BEM, going to the Coronation and being in Westminster Abbey is crazy. They're definitely the highlights."
+
+
+![](https://mmo.aiircdn.com/409/6a3eaf5d5e69074185b.jpg)
 
 
 Lauren said the idea had always been hers, but it was Project Manager Rebecca Blunstone who helped turn it into reality.
