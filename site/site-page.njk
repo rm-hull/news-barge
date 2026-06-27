@@ -1,0 +1,28 @@
+---
+layout: base.njk
+pagination:
+  data: collections.articlesBySite
+  size: 1
+  alias: group
+  resolve: keys
+permalink: /sites/{{ group }}/
+---
+{% set siteArticles = collections.articlesBySite[group] %}
+{% set siteName = siteArticles[0].data.source_site %}
+
+<section class="index-section">
+  <h1 class="page-title">{{ siteName }}</h1>
+  <ul class="article-list">
+    {% for article in siteArticles %}
+    <li class="article-card">
+      <time datetime="{{ article.data.published }}">{{ article.data.published | readableDate }}</time>
+      <h2 class="article-card-title">
+        <a href="{{ article.url }}">{{ article.data.title }}</a>
+      </h2>
+      {% if article.data.description %}
+      <p class="article-card-deck">{{ article.data.description }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>

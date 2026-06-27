@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Sites
+permalink: /sites/
+---
+<section class="index-section">
+  <h1 class="page-title">Tracked sites</h1>
+  <ul class="site-list">
+    {% for site in sites %}
+    <li class="site-card">
+      <a href="/sites/{{ site.slug }}/">{{ site.name }}</a>
+      {% if site.feed %}<span class="site-meta">RSS feed</span>{% endif %}
+      {% if site.force_playwright %}<span class="site-meta">JS rendered</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>

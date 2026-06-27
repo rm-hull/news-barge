@@ -1,0 +1,26 @@
+---
+layout: base.njk
+title: Search
+permalink: /search/
+---
+<section class="index-section">
+  <h1 class="page-title">Search</h1>
+  <div id="search"></div>
+</section>
+
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  new PagefindUI({
+    element: "#search",
+    showSubResults: true,
+    resetStyles: false,
+  });
+  // Auto-focus and pre-fill from ?q= param
+  const q = new URLSearchParams(location.search).get("q");
+  if (q) {
+    document.addEventListener("DOMContentLoaded", () => {
+      const input = document.querySelector("#search input");
+      if (input) { input.value = q; input.dispatchEvent(new Event("input")); }
+    });
+  }
+</script>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {% endif %}News Barge</title>
+  <meta name="description" content="{{ description or 'A clean, ad-free mirror of articles you care about.' }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="News Barge RSS" href="/feed.xml">
+  <!-- Pagefind UI -->
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav-inner">
+      <a href="/" class="site-name">News Barge</a>
+      <div class="nav-links">
+        <a href="/">Latest</a>
+        <a href="/sites/">Sites</a>
+        <a href="/search/">Search</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>Scraped for personal use · <a href="https://github.com/{{ site.githubRepo }}">Source</a></p>
+  </footer>
+</body>
+</html>

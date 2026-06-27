@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+<article class="article" data-pagefind-body>
+  <header class="article-header">
+    <div class="article-meta">
+      <a href="/sites/{{ source_slug }}/" class="site-tag">{{ source_site }}</a>
+      <time datetime="{{ published }}">{{ published | readableDate }}</time>
+    </div>
+    <h1>{{ title }}</h1>
+    {% if description %}
+    <p class="article-deck">{{ description }}</p>
+    {% endif %}
+    <p class="article-source">
+      <a href="{{ source_url }}" rel="noopener noreferrer" target="_blank">
+        View original ↗
+      </a>
+    </p>
+  </header>
+
+  <div class="article-body">
+    {{ content | safe }}
+  </div>
+</article>

@@ -1,0 +1,36 @@
+# Add or remove sites here.
+# Each entry crawls a list of URLs or a feed.
+#
+# Fields:
+#   name:       Human-readable label (used in the index)
+#   slug:       Short identifier, used in filenames (no spaces)
+#   urls:       List of specific article URLs to scrape
+#   feed:       RSS/Atom feed URL — scraper will pull latest N items
+#   feed_limit: Max articles to pull from feed (default: 10)
+#   force_playwright: Set true if the site needs a real browser (JS-heavy)
+#   notes:      Freeform reminder
+
+sites:
+  - name: The Guardian
+    slug: guardian
+    feed: https://www.theguardian.com/world/rss
+    feed_limit: 50
+
+  - name: BBC News
+    slug: bbc
+    feed: https://feeds.bbci.co.uk/news/rss.xml
+    feed_limit: 50
+
+  # Example: specific URLs instead of a feed
+  # - name: Example Site
+  #   slug: example
+  #   urls:
+  #     - https://example.com/article-1
+  #     - https://example.com/article-2
+
+  # Example: JS-heavy site needing Playwright
+  # - name: Wired
+  #   slug: wired
+  #   feed: https://www.wired.com/feed/rss
+  #   feed_limit: 5
+  #   force_playwright: true
