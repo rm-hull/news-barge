@@ -14,10 +14,11 @@ import sys
 import textwrap
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 import feedparser
 import trafilatura
+from lxml import html as lxml_html
 import yaml
 from playwright.sync_api import sync_playwright
 
@@ -60,6 +61,37 @@ def url_to_slug(url: str) -> str:
     path = parsed.path.strip("/").replace("/", "--")
     short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
     return short
+
+def clean_markdown_formatting(text: str) -> str:
+    """
+    Fixes markdown markers that have trailing spaces.
+    Example: '**Bold **' -> '**Bold**', '*Italic *' -> '*Italic*'
+    """
+    if not text:
+        return ""
+    
+    def replace_marker(match):
+        marker = match.group(1)
+        content = match.group(2).strip()
+        return f"{marker}{content}{marker}"
+    
+    # Matches **bold** or *italic* with optional trailing space before the closing marker
+    return re.sub(r"(\*\*|\*)([^*]+?)\s*(\1)", replace_marker, text)
+def linkify_text(text: str) -> str:
+    if not text:
+        return ""
+    # URL regex: handles http, https, and common domain patterns
+    url_pattern = r"(https?://[^\s\)]+)"
+    # Email regex
+    email_pattern = r"([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"
+    
+    # Linkify URLs
+    text = re.sub(url_pattern, r"[\1](\1)", text)
+    # Linkify Emails
+    text = re.sub(email_pattern, r"[\1](mailto:\1)", text)
+    
+    return text
+
 
 
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
@@ -175,6 +207,51 @@ def urls_from_feed(feed_url: str, limit: int) -> list[str]:
     return urls
 
 
+def urls_from_listing(listing_url, pattern, limit, use_playwright, listing_class=None, resolve_relative_to_root=False):
+    html = fetch_html_playwright(listing_url) if use_playwright else fetch_html_requests(listing_url)
+    if not html:
+        return []
+
+    tree = lxml_html.fromstring(html)
+    
+    if listing_class:
+        # Find all elements with the specified class, then find all <a> tags within them
+        links = tree.xpath(f"//*[contains(concat(' ', normalize-space(@class), ' '), ' {listing_class} ')]//a[@href]")
+    else:
+        links = tree.xpath("//a[@href]")
+
+    parsed_base = urlparse(listing_url)
+    root_url = f"{parsed_base.scheme}://{parsed_base.netloc}/"
+    
+    urls = []
+    for link in links:
+        href = link.get("href")
+        
+        # If resolve_relative_to_root is True and the link is relative (no leading slash, no scheme)
+        if resolve_relative_to_root and href and not href.startswith(("/", "http", "mailto", "tel")):
+            full_url = urljoin(root_url, href)
+        else:
+            full_url = urljoin(listing_url, href)
+            
+        if pattern:
+            if re.search(pattern, full_url):
+                urls.append(full_url)
+            else:
+                continue
+        else:
+            urls.append(full_url)
+
+    # Deduplicate while preserving order
+    seen = set()
+    unique_urls = []
+    for u in urls:
+        if u not in seen:
+            unique_urls.append(u)
+            seen.add(u)
+
+    return unique_urls[:limit]
+
+
 # ---------------------------------------------------------------------------
 # Per-article pipeline
 # ---------------------------------------------------------------------------
@@ -201,6 +278,8 @@ def process_article(url: str, site: dict, dry_run: bool = False) -> bool:
         favor_precision=True,
         config=TRAFILATURA_CONFIG,
     )
+    md_body = clean_markdown_formatting(md_body)
+    md_body = linkify_text(md_body)
     meta = trafilatura.extract_metadata(html, default_url=url)
 
     if not md_body:
@@ -281,6 +360,17 @@ def main():
             feed_urls = urls_from_feed(site["feed"], limit)
             print(f"  Found {len(feed_urls)} URLs in feed")
             urls = feed_urls + urls
+
+        if "listing_url" in site:
+            use_playwright = site.get("force_playwright", False)
+            limit = site.get("listing_limit", 10)
+            pattern = site.get("listing_link_pattern", "")
+            listing_class = site.get("listing_class")
+            resolve_relative_to_root = site.get("resolve_relative_to_root", False)
+            listing_urls = urls_from_listing(
+                site["listing_url"], pattern, limit, use_playwright, listing_class, resolve_relative_to_root
+            )
+            urls = listing_urls + urls
 
         if not urls:
             print("  No URLs configured, skipping.")

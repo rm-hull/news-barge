@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": false,
   "scripts": {
-    "prestart": "ln -sf ../content content",
-    "prebuild": "ln -sf ../content content",
+    "prestart": "[ -L content ] || ln -s ../content content",
+    "prebuild": "[ -L content ] || ln -s ../content content",
     "build": "eleventy --config=eleventy.config.js && pagefind --site _site",
     "start": "eleventy --config=eleventy.config.js --serve"
   },

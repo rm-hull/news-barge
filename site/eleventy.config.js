@@ -36,7 +36,11 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("articlesBySite", (collectionApi) => {
     const all = collectionApi
       .getFilteredByGlob("content/**/*.md")
-      .sort((a, b) => b.date - a.date);
+      .sort(
+        (a, b) =>
+          new Date(b.data.published || b.date) -
+          new Date(a.data.published || a.date),
+      );
     const grouped = {};
     for (const art of all) {
       const slug = art.data.source_slug || "unknown";
