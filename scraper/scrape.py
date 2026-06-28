@@ -65,6 +65,24 @@ def url_to_slug(url: str) -> str:
 
 def clean_markdown_formatting(text: str) -> str:
     """
+    Fixes markdown markers that have trailing spaces and removes common
+    extraction cruft like "Published" lists.
+    """
+    if not text:
+        return ""
+
+    # Remove "Published" list items often found at the top of trafilatura extractions
+    text = re.sub(r"^\s*[\*\-]\s*Published\s*\n", "", text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r"^\s*<ul.*?>\s*<li>Published</li>\s*</ul>\s*\n", "", text, flags=re.MULTILINE | re.IGNORECASE)
+
+    def replace_marker(match):
+        marker = match.group(1)
+        content = match.group(2).strip()
+        return f"{marker}{content}{marker}"
+
+    # Matches **bold** or *italic* with optional trailing space before the closing marker
+    return re.sub(r"(\*\*|\*)([^*]+?)\s*(\1)", replace_marker, text)
+    """
     Fixes markdown markers that have trailing spaces.
     Example: '**Bold **' -> '**Bold**', '*Italic *' -> '*Italic*'
     """

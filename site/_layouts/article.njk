@@ -1,30 +1,25 @@
 ---
 layout: base.njk
 ---
-<article class="article" data-pagefind-body>
-  <header class="article-header">
-    <div class="article-meta">
-      <a href="/sites/{{ source_slug }}/" class="site-tag">{{ source_site }}</a>
-      <time datetime="{{ published }}">{{ published | readableDate }}</time>
-          <a href="#" id="share-link" class="share-link" title="Share this page">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
-      </a>
-    </div>
-    <h1>{{ title }}</h1>
-    {% if description %}
-    <p class="article-deck">{{ description }}</p>
-    {% endif %}
-    <p class="article-source">
-      <a href="{{ source_url }}" rel="noopener noreferrer" target="_blank">
-        View original ↗
-      </a>
-    </p>
-  </header>
+<div class="article-meta">
+    <a href="/sites/{{ source_slug }}/" class="site-tag">{{ source_site }}</a>
+    <time datetime="{{ published }}" itemprop="datePublished">{{ published | readableDate }}</time>
+    <a href="{{ source_url }}" rel="noopener noreferrer" target="_blank" class="meta-link">View original ↗</a>
+    <a href="#" id="share-link" class="share-link" title="Share this page">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+    </a>
+</div>
 
-  <div class="article-body">
-    {% if image and image | basename not in content and image | stripQueryParams not in content %}
-      <img src="{{ image }}" alt="{{ title }}" class="article-image">
+<article class="article" itemscope itemtype="https://schema.org/NewsArticle" data-pagefind-body>
+    {% if title and title not in content %}<h1 itemprop="headline">{{ title }}</h1>{% endif %}
+    {% if description and description not in content %}
+    <p class="article-deck" itemprop="description">{{ description }}</p>
     {% endif %}
-    {{ content | safe }}
-  </div>
+
+    <div itemprop="articleBody">
+        {% if image and image | basename not in content and image | stripQueryParams not in content %}
+          <img src="{{ image }}" alt="{{ title }}" class="article-image">
+        {% endif %}
+        {{ content | safe }}
+    </div>
 </article>
