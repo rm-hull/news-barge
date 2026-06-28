@@ -20,7 +20,7 @@ layout: base.njk
 
   <div class="article-body">
     {% if thumbnail and thumbnail not in content %}
-      <img src="{{ thumbnail }}" alt="{{ title }}" class="article-thumbnail">
+      <img src="{{ thumbnail }}" alt="{{ title }}" class="article-image">
     {% endif %}
     {{ content | safe }}
   </div>
