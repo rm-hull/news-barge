@@ -3,11 +3,11 @@ title: Carney announces contest to revamp uninhabitable Canadian PM residence
 source_url: https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
+scraped_at: '2026-06-28T15:35:36Z'
 published: '2026-06-26T00:00:00Z'
 description: Various issues – including a rodent infestation and mould – have left
   the historic, sprawling Ottawa estate empty
-thumbnail: https://i.guim.co.uk/img/media/925b1ff361ee6a7c5e066e694eddb400577b62fe/0_0_3927_3142/master/3927.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acc4c5611ee82c4593cc166d42cae96b
+image: https://i.guim.co.uk/img/media/925b1ff361ee6a7c5e066e694eddb400577b62fe/0_0_3927_3142/master/3927.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acc4c5611ee82c4593cc166d42cae96b
 ---
 
 10 Downing Street has two things: mice and a chief mouser. For more than a decade, an officially recognized feline has kept rodent infestation in the British prime minister’s residence to a minimum.

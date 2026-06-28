@@ -3,11 +3,11 @@ title: PlayStation
 source_url: https://www.tomshardware.com/uk/video-games/console-gaming/playstation
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:56Z'
+scraped_at: '2026-06-28T15:38:53Z'
 published: '2026-06-28T00:00:00Z'
 description: PlayStation reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 ![PlayStation leasing program in the UK](https://cdn.mos.cms.futurecdn.net/MjcZuEfPQrcKamX4D4pHuc-320-80.png)

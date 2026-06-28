@@ -3,10 +3,10 @@ title: Disposable BBQ to blame for fire near Harrogate
 source_url: https://www.yorkmix.com/disposable-bbq-to-blame-for-fire-near-harrogate
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:14Z'
+scraped_at: '2026-06-28T15:37:26Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2025/09/north-yorkshire-fire-service-engine-tw-1.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/north-yorkshire-fire-service-engine-tw-1.jpg
 ---
 
 A crew from Harrogate responded to reports of grass on fire in a public area of Fewston last night, 26th June.

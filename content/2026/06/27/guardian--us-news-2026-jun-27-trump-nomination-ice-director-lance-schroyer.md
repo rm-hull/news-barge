@@ -3,11 +3,12 @@ title: Trump says he will nominate Lance Schroyer as next ICE director
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-nomination-ice-director-lance-schroyer
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
-published: '2026-06-27T00:00:00Z'
-description: Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma
+scraped_at: "2026-06-27T21:28:25Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Schroyer, whom Trump calls ‘a patriot’, led deportation campaign in Oklahoma
   under ICE-partnered program
-thumbnail: https://i.guim.co.uk/img/media/3a63b34415524f7b2aad48731871301eaf1d0875/0_190_1638_1311/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f684863ec7d89ed02a18740cf31289e
+image: https://i.guim.co.uk/img/media/3a63b34415524f7b2aad48731871301eaf1d0875/0_190_1638_1311/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f684863ec7d89ed02a18740cf31289e
 ---
 
 Donald Trump said on Saturday that he will nominate Lance Schroyer as the next director of US Immigration and Customs Enforcement (ICE), succeeding David Venturella, who had been performing the duties of the director.
@@ -30,4 +31,4 @@ Trump has justified the deportation campaign by saying it aims to cut illegal im
 
 Trump said in his post that Schroyer “has what it takes to DETAIN AND DEPORT Illegal Alien Criminals, including murders, rapists, and drug traffickers at a rate never seen before! Remember, our Administration has the HIGHEST Daily Arrest Rate by ICE and CBP than ANY other President, by far”.
 
-*Reuters contributed**reporting*
+_Reuters contributed\*\*reporting_

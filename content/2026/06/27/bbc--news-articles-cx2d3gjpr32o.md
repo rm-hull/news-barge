@@ -3,11 +3,12 @@ title: Body of missing woman found in Sandwell Valley Country Park pool
 source_url: https://www.bbc.co.uk/news/articles/cx2d3gjpr32o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T10:33:11Z'
-published: '2026-06-27T00:00:00Z'
-description: Emergency services recovered the body from the pool in the park in West
+scraped_at: "2026-06-28T10:33:11Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Emergency services recovered the body from the pool in the park in West
   Bromwich after she disappeared in the afternoon.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82e1/live/4e6c8040-725b-11f1-b1db-af71d47507d6.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82e1/live/4e6c8040-725b-11f1-b1db-af71d47507d6.png
 ---
 
 ![A mainly dark sign that includes the words Welcome to Sandwell Valley Country Park. Trees and grass are in the background.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/5256/live/5f0fcc50-725a-11f1-b4a5-2d0098f6c080.png)

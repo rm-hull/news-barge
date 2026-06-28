@@ -4,12 +4,12 @@ title: Applications Open for Harrogate Town Council's £74K Community Grants Pro
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/applications-open-for-harrogate-town-councils-74k-community-grants-programme/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:11Z'
+scraped_at: '2026-06-28T15:37:12Z'
 published: '2026-06-11T00:00:00Z'
 description: Harrogate Town Council is inviting local charities, community groups
   and voluntary organisations to apply for a share of £74,000 in grant funding to
   support projects that benefit residents across the town.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Oak-Tree-Image-WEB.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Oak-Tree-Image-WEB.jpg
 ---
 
 The 2026/27 Small Grants Scheme has been launched to help organisations deliver activities, services, events and improvements that strengthen communities, enhance local facilities and improve quality of life in Harrogate.

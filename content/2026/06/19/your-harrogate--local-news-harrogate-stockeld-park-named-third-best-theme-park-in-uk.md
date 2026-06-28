@@ -3,14 +3,15 @@ title: Stockeld Park named third best theme park in UK
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/stockeld-park-named-third-best-theme-park-in-uk/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:08Z'
-published: '2026-06-19T00:00:00Z'
-description: Stockeld Park has been named the third best theme park in the UK in Tripadvisor's
+scraped_at: "2026-06-28T15:36:47Z"
+published: "2026-06-19T00:00:00Z"
+description:
+  Stockeld Park has been named the third best theme park in the UK in Tripadvisor's
   latest Traveller Favourites rankings.
-thumbnail: https://mmo.aiircdn.com/409/669e2aeae4352.jpg
+image: https:o.aiircdn.com/409/669e2aeae4352.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/669e2aeae4352.jpg) 
+![](https://mmo.aiircdn.com/409/669e2aeae4352.jpg)
 
                                     Stockeld Park has been named the third best theme park in the UK in Tripadvisor's latest Traveller Favourites rankings.
 
@@ -28,7 +29,6 @@ A spokesperson for Stockeld Park said:
 
 "If you haven't visited yet, come try it for yourself! We're open weekends and local school holidays for epic family days out."
 
-
 The top 10 UK theme parks as revealed by Tripadvisor are:
 
 - Alton Towers Resort
@@ -44,4 +44,4 @@ The top 10 UK theme parks as revealed by Tripadvisor are:
 
 Stockeld Park is currently open on weekends and during local school holidays.
 
-*Find out more and book your tickets now at  stockeldpark.co.uk.*
+_Find out more and book your tickets now at stockeldpark.co.uk._

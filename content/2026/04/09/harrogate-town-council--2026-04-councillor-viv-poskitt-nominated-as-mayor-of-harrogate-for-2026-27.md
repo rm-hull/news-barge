@@ -4,13 +4,13 @@ title: Councillor Viv Poskitt Nominated as Mayor of Harrogate for 2026/27 - Harr
 source_url: https://harrogatetowncouncil.gov.uk/2026/04/councillor-viv-poskitt-nominated-as-mayor-of-harrogate-for-2026-27/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-04-09T00:00:00Z'
 description: Harrogate Town Council is pleased to announce that Councillor Viv Poskitt
   has been nominated to serve as Mayor of Harrogate for the 2026/27 civic year. The
   formal election will take place at the Annual Meeting of the Town Council on 6 May
   2026.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/Poskitt.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/Poskitt.jpg
 ---
 
 Councillor Poskitt has served the Harrogate community for many years and brings a wealth of professional and civic experience to the role. A local GP with over 25 years’ experience, she has demonstrated a strong commitment to public service, community wellbeing, and partnership working across the town.

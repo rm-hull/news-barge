@@ -3,11 +3,11 @@ title: Maesteg mum-to-be on motherhood challenge with ADHD
 source_url: https://www.bbc.co.uk/news/articles/c5yzkgx0n2eo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:15Z'
+scraped_at: '2026-06-28T15:35:47Z'
 published: '2026-06-25T00:00:00Z'
 description: Hayley Pearce wonders how her "neurospicy" brain will handle the challenge
   of having a new born.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37b8/live/fbaa0a00-6fd8-11f1-8388-87b50ca0bd23.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37b8/live/fbaa0a00-6fd8-11f1-8388-87b50ca0bd23.jpg
 ---
 
 ![Hayley is holding her baby scan photo and sticking out her baby bump. She has red hair tied up in a bun and is wearing a brown cardigan which is partially open revealing her baby bump.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/37b8/live/fbaa0a00-6fd8-11f1-8388-87b50ca0bd23.jpg)

@@ -4,18 +4,16 @@ title: 'World Cup 2026 knockouts: England''s path to the final explained after t
 source_url: https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:13Z'
+scraped_at: '2026-06-28T15:35:42Z'
 published: '2026-06-28T00:00:00Z'
 description: BBC Sport takes a look at what England will need to do to reach the final
   after qualifying for the knockout stages.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c97/live/c9f97310-7140-11f1-a925-613255806d39.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c97/live/c9f97310-7140-11f1-a925-613255806d39.jpg
 ---
 
 ![England players Harry Kane and Anthony Gordon applaud fans after their 0-0 draw with Ghana at the 2025 FIFA World Cup in Boston](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0c97/live/c9f97310-7140-11f1-a925-613255806d39.jpg)
 
 England drew with Ghana but beat Croatia and Panama to top Group L with seven points
-
-- Published
 
 **England have qualified for the knockout stages of the World Cup by winning their group.**
 
@@ -65,7 +63,7 @@ Mexico do not boast too many standout individuals, but demonstrated a resolute w
 
 **Saturday, 11 July - 22:00 BST**
 
-Now, this is where things being to look more difficult.
+Now, this is where things begin to look more difficult.
 
 Five-time winners **Brazil**are in England's section of the draw and are potential quarter-final opponents, but Carlo Ancelotti's men would first have to overcome Japan in the last 32.
 

@@ -3,11 +3,11 @@ title: South Korea to train half a million military personnel to become ‘drone
 source_url: https://www.theguardian.com/world/2026/jun/26/south-korea-drone-warriors-military-training
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
+scraped_at: '2026-06-28T15:35:36Z'
 published: '2026-06-26T00:00:00Z'
 description: All branches of the military will be taught how to use technology that
   has become a ‘game changer on the battlefield’, says defence minister
-thumbnail: https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2f3f0a42a5ba7f5b3bf43a438bc0155
+image: https://i.guim.co.uk/img/media/b59cc4777dfb6b80cbda625150e8f00041e295eb/522_527_4367_3494/master/4367.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2f3f0a42a5ba7f5b3bf43a438bc0155
 ---
 
 All of South Korea’s military forces will be trained as drone operators in a sweeping overhaul of its warfare strategy, the defence minister has said.

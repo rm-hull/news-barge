@@ -3,14 +3,15 @@ title: New £5,000 grant launched to support Yorkshire small businesses
 source_url: https://www.yorkpress.co.uk/news/26230309.one-stop-business-finance-launches-5k-grant-york-smes/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:15Z'
-published: '2026-06-27T00:00:00Z'
-description: A new funding scheme by One Stop Business Finance is offering Yorkshire
+scraped_at: "2026-06-27T21:38:15Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  A new funding scheme by One Stop Business Finance is offering Yorkshire
   SMEs the chance to secure a no-strings-attached cash boost.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21103735.jpg?type=og-image&xType=0&yType=382
+image: https://www.yorkpress.co.uk/resources/images/21103735.jpg?type=og-image&xType=0&yType=382
 ---
 
-*(Image: OSBF)*
+_(Image: OSBF)_
 
 A new funding scheme is offering Yorkshire SMEs the chance to secure a no-strings-attached cash boost.
 

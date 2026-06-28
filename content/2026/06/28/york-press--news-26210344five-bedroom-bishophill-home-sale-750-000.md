@@ -3,11 +3,11 @@ title: Inside ‘truly remarkable’ home on the market in prime York location �
 source_url: https://www.yorkpress.co.uk/news/26210344.five-bedroom-bishophill-home-sale-750-000/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:36Z'
+scraped_at: '2026-06-28T15:38:06Z'
 published: '2026-06-28T00:00:00Z'
 description: A “truly remarkable” home has hit the market in Bishophill, York – for
   £750,000.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21072881.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21072881.jpg?type=og-image
 ---
 
 ## Inside ‘truly remarkable’ home on the market in prime York location – for £750,000

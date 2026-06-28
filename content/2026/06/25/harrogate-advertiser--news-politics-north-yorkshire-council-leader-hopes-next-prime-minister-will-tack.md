@@ -4,11 +4,11 @@ title: North Yorkshire Council leader hopes next Prime Minister will tackle ‘d
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/north-yorkshire-council-leader-hopes-next-prime-minister-will-tackle-disconnect-between-north-and-westminster-8761977
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:23Z'
+scraped_at: '2026-06-28T15:35:55Z'
 published: '2026-06-25T00:00:00Z'
 description: The leader of North Yorkshire Council hopes the next Prime Minister will
   tackle the “disconnect” between the North of England and the London-based government.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=3:2,smart&trim=&width=850&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=3:2,smart&trim=&width=850&auto=webp&quality=75
 ---
 
 # North Yorkshire Council leader hopes next Prime Minister will tackle ‘disconnect’ between North and Westminster

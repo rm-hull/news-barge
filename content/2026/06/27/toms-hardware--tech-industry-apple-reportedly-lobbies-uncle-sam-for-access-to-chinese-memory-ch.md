@@ -4,10 +4,10 @@ title: Apple reportedly lobbies Uncle Sam for access to Chinese memory chips —
 source_url: https://www.tomshardware.com/tech-industry/apple-reportedly-lobbies-uncle-sam-for-access-to-chinese-memory-chips-tech-giant-allegedly-wants-to-buy-from-blacklisted-cxmt
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:32:52Z'
+scraped_at: '2026-06-28T15:38:56Z'
 published: '2026-06-27T00:00:00Z'
 description: A new precedent on the precipice?
-thumbnail: https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ-2560-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ-2560-80.jpg
 ---
 
 ![US President Donald Trump listens to Apple CEO Tim Cook speak during an American Technology Council roundtable at the White House in Washington, DC, on June 19, 2017.](https://cdn.mos.cms.futurecdn.net/Zo2LfoYeC8NenQ7Kr9hmzJ.jpg) 
@@ -48,3 +48,7 @@ Hassam Nasir is a die-hard hardware enthusiast with years of experience as a tec
 I vote no, suffer the shortage right along with us peons who will struggle to afford or find RAM in the short term at least. Secure contracts with Micron, Samsung, or SK who are all rapidly expanding or building production right here in the USA.Reply
  
  If we're indeed in a race for AI dominance and that causes some short term hardships for most of us then support your team, your country, and the very same people that made you rich to begin with. Apple was built and supported in large part by American taxpayers with their lucrative contracts with schools in the USA for decades. Quit racing to support the other team just to pad your profits, in my opinion.
+- 
+Too little, too late. The major RAM manufacturers have already contracts in place for their factories output for the next couple of years at least.Reply
+ 
+ There won't be much change in the prices during that time, unless RAM is decoupled from AI (the major pressure on it). But considering the difference in profit margins, that is not likely.

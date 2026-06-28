@@ -4,12 +4,12 @@ title: 'The Mayor’s Christmas Carol Concert: A Festive Evening of Music and Co
 source_url: https://harrogatetowncouncil.gov.uk/2025/12/the-mayors-christmas-carol-concert-a-festive-evening-of-music-and-community/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-12-23T00:00:00Z'
 description: On Sunday 21st December, Harrogate Town Council welcomed the community
   back to the Royal Hall for the return of a much-loved local tradition – the Mayor's
   Christmas Carol Concert.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/DSA01011-WEB.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/DSA01011-WEB.jpg
 ---
 
 The free event, which was fully booked within days of tickets being released, was presented by Harrogate Town Council in partnership with Harrogate Band, Harrogate BID and Harrogate International Festivals.

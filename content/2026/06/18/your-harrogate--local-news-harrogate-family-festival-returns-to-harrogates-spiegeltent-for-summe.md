@@ -3,14 +3,15 @@ title: Family Festival returns to Harrogate's Spiegeltent for summer of fun
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/family-festival-returns-to-harrogates-spiegeltent-for-summer-of-fun/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:15Z'
-published: '2026-06-18T00:00:00Z'
-description: From beatboxing and Indian dancing to circus skills and spectacular science,
+scraped_at: "2026-06-28T15:36:54Z"
+published: "2026-06-18T00:00:00Z"
+description:
+  From beatboxing and Indian dancing to circus skills and spectacular science,
   a popular family festival is returning to Harrogate later this month.
-thumbnail: https://mmo.aiircdn.com/409/6a340720c555b9d2eaa.jpg
+image: https:o.aiircdn.com/409/6a340720c555b9d2eaa.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a340720c555b9d2eaa.jpg) 
+![](https://mmo.aiircdn.com/409/6a340720c555b9d2eaa.jpg)
 
                                     From beatboxing and Indian dancing to circus skills and spectacular science, a popular family festival is returning to Harrogate later this month.
 
@@ -36,7 +37,6 @@ Sharon Canavar, Chief Executive of Harrogate International Festivals, said:
 
 “And I can’t think of a better setting than the Spiegeltent from which to stimulate young minds and help them discover the joy that music, dance, science and storytelling can bring.”
 
-
 The Family Festival takes place at the Spiegeltent in Crescent Gardens on 27th and 28th June.
 
-*Tickets for all events are priced at £7 and are available via the Harrogate International Festivals  website or by calling the Box Office on 01423 562303.*
+_Tickets for all events are priced at £7 and are available via the Harrogate International Festivals website or by calling the Box Office on 01423 562303._

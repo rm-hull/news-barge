@@ -4,7 +4,7 @@ title: On one of the Hottest Weekends, St Mark’s Church Celebrates Climate Act
 source_url: https://harrogatetowncouncil.gov.uk/2025/07/on-one-of-the-hottest-weekends-st-marks-church-celebrates-climate-action-milestone/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2025-07-15T00:00:00Z'
 description: It seems appropriate that St Mark's Church celebrated their Ecochurch
   Gold Award on one of the hottest weekends of the year, and just after a hosepipe
@@ -12,7 +12,7 @@ description: It seems appropriate that St Mark's Church celebrated their Ecochur
   part of the gospel message", said Deborah Booth, St Mark’s Environment Officer,
   "and this type of unusual, but increasingly frequent, weather event is a reminder
   to us all of the need for lifestyle changes.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/07/IMG_1038-web.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/07/IMG_1038-web.jpg
 ---
 
 The prestigious award was presented to the church by The Ven Dr James Theodosius, Archdeacon of Richmond & Craven, himself a real leader on decarbonisation. It was received on behalf of the church by one of St Mark’s youngest climate activists, Hannah aged six, who already campaigns with her parents for cleaner air in Harrogate.

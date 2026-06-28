@@ -3,11 +3,11 @@ title: Recruitment programme launched for adult social care jobs in Bridlington
 source_url: https://www.yorkpress.co.uk/news/26232389.adult-social-care-programme-launched-bridlington/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:03Z'
+scraped_at: '2026-06-28T15:38:26Z'
 published: '2026-06-28T00:00:00Z'
 description: The Widening Access Demonstrator (WAD) scheme is opening pathways into
   careers in adult social care in Bridlington.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21107126.jpg?type=og-image&xType=0&yType=60
+image: https://www.yorkpress.co.uk/resources/images/21107126.jpg?type=og-image&xType=0&yType=60
 ---
 
 *(Image: East Riding of Yorkshire Council)*

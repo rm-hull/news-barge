@@ -4,12 +4,12 @@ title: Councillor Viv Poskitt elected as Harrogate Town Mayor for 2026/27 - Harr
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/councillor-viv-poskitt-elected-as-harrogate-town-mayor-for-2026-27/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-07T00:00:00Z'
 description: Popular local doctor, Councillor Viv Poskitt has officially been elected
   as the Mayor of Harrogate for the 2026/27 Civic Year following the Annual Meeting
   of Harrogate Town Council held at Harrogate Civic Centre.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/Cllr-Viv-Poskitt-Mayoral-Photo-Landscape-WEB.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/Cllr-Viv-Poskitt-Mayoral-Photo-Landscape-WEB.jpg
 ---
 
 The meeting was attended by councillors, community representatives, friends and family, marking the beginning of Councillor Poskitt’s mayoral year. Councillor Chrissie Holmes, representing Starbeck Ward, was appointed Deputy Mayor.

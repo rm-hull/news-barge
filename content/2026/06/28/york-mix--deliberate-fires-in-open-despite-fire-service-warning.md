@@ -3,10 +3,10 @@ title: Deliberate fires in open despite fire service warning
 source_url: https://www.yorkmix.com/deliberate-fires-in-open-despite-fire-service-warning
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-28T09:36:09Z'
+scraped_at: '2026-06-28T15:37:25Z'
 published: '2026-06-28T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2025/10/firefighter-approaching-fire-engine-dreamstime.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/firefighter-approaching-fire-engine-dreamstime.webp
 ---
 
 Scarborough Crews were mobilised to two fires in the open yesterday, Saturday 27th June.

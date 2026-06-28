@@ -3,11 +3,11 @@ title: Birmingham twins living identical lives for 82 years
 source_url: https://www.bbc.co.uk/news/articles/c1myxl5dx2no?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:14Z'
+scraped_at: '2026-06-28T15:35:46Z'
 published: '2026-06-24T00:00:00Z'
 description: The brothers have dressed alike, worked the same jobs and lived in the
   same home all their lives.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6f9/live/f49d2ae0-6f00-11f1-87e9-1dc598ae70b3.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6f9/live/f49d2ae0-6f00-11f1-87e9-1dc598ae70b3.jpg
 ---
 
 ![The twins are looking at the camera both smiling. They are wearing matching claret and blue scarves, pink button up shirts and blue jackets. Behind them is a building and door.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f6f9/live/f49d2ae0-6f00-11f1-87e9-1dc598ae70b3.jpg)

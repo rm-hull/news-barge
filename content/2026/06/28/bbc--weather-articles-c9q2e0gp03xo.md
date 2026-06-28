@@ -3,15 +3,13 @@ title: 'June 2026 full Moon: How and when to see the Strawberry Moon rise in the
 source_url: https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:51Z'
+scraped_at: '2026-06-28T15:35:45Z'
 published: '2026-06-28T00:00:00Z'
 description: The first full Moon of summer will rise across UK skies this week
-thumbnail: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e200/live/16519720-72bc-11f1-8de6-1151b868f047.png
+image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e200/live/16519720-72bc-11f1-8de6-1151b868f047.png
 ---
 
 ![An orange-hued moon hangs in the sky over a river illuminated by lights from nearby properties](https://ichef.bbci.co.uk/ace/standard/910/cpsprodpb/e200/live/16519720-72bc-11f1-8de6-1151b868f047.png)
-
-- Published
 
 **The Strawberry Moon is set to rise in UK skies in the coming days, marking the first full Moon of the summer season.**
 

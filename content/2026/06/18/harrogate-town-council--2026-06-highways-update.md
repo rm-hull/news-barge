@@ -3,11 +3,11 @@ title: Highways Update - Harrogate Town Council
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/highways-update/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:11Z'
+scraped_at: '2026-06-28T15:37:12Z'
 published: '2026-06-18T00:00:00Z'
 description: North Yorkshire Council is the Highways Authority but we're sharing their
   information to try and keep Harrogate residents informed.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Highways-One-Network-1.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Highways-One-Network-1.jpg
 ---
 
 We have been informed of the following Planned Road Closures:

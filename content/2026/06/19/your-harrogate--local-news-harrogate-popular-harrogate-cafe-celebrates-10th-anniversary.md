@@ -3,14 +3,15 @@ title: Popular Harrogate café celebrates 10th anniversary
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/popular-harrogate-cafe-celebrates-10th-anniversary/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:11Z'
-published: '2026-06-19T00:00:00Z'
-description: A popular Harrogate café has celebrated a major milestone after marking
+scraped_at: "2026-06-28T15:36:49Z"
+published: "2026-06-19T00:00:00Z"
+description:
+  A popular Harrogate café has celebrated a major milestone after marking
   its 10th anniversary.
-thumbnail: https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg
+image: https:o.aiircdn.com/409/6a353834144814d7a27.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg) 
+![](https://mmo.aiircdn.com/409/6a353834144814d7a27.jpg)
 
                                     A popular Harrogate café has celebrated a major milestone after marking its 10th anniversary.
 
@@ -20,11 +21,9 @@ The independent café and bakery has become a firm favourite with locals over th
 
 ![](https://mmo.aiircdn.com/409/6a353880cdbe8fef5cb.jpg)
 
-
 Marking the occasion, the team thanked customers, friends, family and staff for their support over the years.
 
 A spokesperson for Manna said:
-
 
 "We can’t believe it’s already been a fantastic 10 years since we opened up Manna!
 
@@ -32,4 +31,4 @@ A spokesperson for Manna said:
 
 "It’s been a tough 10 years and lots of hard work but with all of our fantastic customers, friends, family and staff members support - you’ve made our dream become a reality and we wouldn’t change a thing. Here’s to many more years to come!"
 
-*Follow Manna Bakery on  social media to find out more.*
+_Follow Manna Bakery on social media to find out more._

@@ -4,11 +4,11 @@ title: Neighbourhood Planning Journey Moves Forward as Forum Hands Baton to Town
 source_url: https://harrogatetowncouncil.gov.uk/2025/12/neighbourhood-planning-journey-moves-forward-as-forum-hands-baton-to-town-council/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-12-08T00:00:00Z'
 description: Neighbourhood Planning Journey Moves Forward as Forum Hands Baton to
   Town Council.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/2025-12-08-Nhood-Plan-Baton-1-Constrained.jpeg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/2025-12-08-Nhood-Plan-Baton-1-Constrained.jpeg
 ---
 
 The event, held on 8 December at West Park United Reformed Church, marked a symbolic and practical milestone in the project’s evolution. Representatives from community organisations, local businesses, Town Councillors and residents joined Forum members to acknowledge the achievements of the early planning process and to look ahead to the work now beginning under the Town Council’s leadership.

@@ -3,11 +3,11 @@ title: Germany and Italy swelter in heatwave as records tumble across Europe
 source_url: https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
+scraped_at: '2026-06-28T15:35:38Z'
 published: '2026-06-27T00:00:00Z'
 description: Denmark experiences highest temperature on record on Saturday as weather
   system spreads eastward
-thumbnail: https://i.guim.co.uk/img/media/170e098ef3a11e03e5599371d4cc90c2086faac8/88_0_4423_3539/master/4423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70f6fb6dcad8271505ccbccd78533baa
+image: https://i.guim.co.uk/img/media/170e098ef3a11e03e5599371d4cc90c2086faac8/88_0_4423_3539/master/4423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70f6fb6dcad8271505ccbccd78533baa
 ---
 
 Germany and Italy endured sweltering conditions on Saturday as a heatwave linked to dozens of deaths in western Europe spread eastwards, after temperatures broke records above 40C (104F).

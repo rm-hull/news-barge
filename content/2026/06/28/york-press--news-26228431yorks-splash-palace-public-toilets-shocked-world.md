@@ -4,11 +4,11 @@ title: Why no-one misses York’s ‘splash palace’ - the public toilets that 
 source_url: https://www.yorkpress.co.uk/news/26228431.yorks-splash-palace-public-toilets-shocked-world/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T14:12:23Z'
+scraped_at: '2026-06-28T15:37:44Z'
 published: '2026-06-28T00:00:00Z'
 description: York’s infamous ‘splash palace’ became a global talking point, remembered
   for all the wrong reasons before its demolition in 2012.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21100907.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21100907.jpg?type=og-image
 ---
 
 ## Why no-one misses York’s ‘splash palace’ - the public toilets that shocked the world

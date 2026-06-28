@@ -3,10 +3,10 @@ title: Charity news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/charity/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T10:35:09Z'
+scraped_at: '2026-06-28T15:37:51Z'
 published: '2026-01-01T00:00:00Z'
 description: Charity news, features and opinion in and around Press | York Press
-thumbnail: null
+image: null
 ---
 
 ![Mad Hatters Classic Car Run in aid of Martin House Children's Hospice](https://www.yorkpress.co.uk/resources/images/320x200/1x/21107595.jpg) 

@@ -3,11 +3,11 @@ title: Students wow audiences at York showcase of music, dance and drama
 source_url: https://www.yorkpress.co.uk/news/26232312.excel-learning-trust-artsfest-held-york-central-hall/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:55Z'
+scraped_at: '2026-06-28T15:38:20Z'
 published: '2026-06-28T00:00:00Z'
 description: Students from schools across the Excel Learning Trust were celebrated
   in a showcase of dance, music, and drama at York's Central Hall.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21107011.jpg?type=og-image&xType=0&yType=92
+image: https://www.yorkpress.co.uk/resources/images/21107011.jpg?type=og-image&xType=0&yType=92
 ---
 
 ## Students wow audiences at York showcase of music, dance and drama

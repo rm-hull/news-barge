@@ -3,18 +3,18 @@ title: Good-faith lawsuit? LDS church in fight with podcaster over Mormon name
 source_url: https://www.theguardian.com/us-news/2026/jun/28/lds-church-mormon-lawsuit
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:49Z'
+scraped_at: '2026-06-28T15:35:41Z'
 published: '2026-06-28T00:00:00Z'
 description: Church sues excommunicated member over Mormon Stories podcast but John
   Dehlin says name free for all to use
-thumbnail: https://i.guim.co.uk/img/media/7c8f3bc59abb0905ba445ed32ff46e25f695e7a4/457_0_4363_3492/master/4363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83aa682415aafe8089a26f0732ee0adb
+image: https://i.guim.co.uk/img/media/7c8f3bc59abb0905ba445ed32ff46e25f695e7a4/457_0_4363_3492/master/4363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83aa682415aafe8089a26f0732ee0adb
 ---
 
 Trademark changes and copyright infringement disputes take many forms. Dunkin’ Donuts changed its name to Dunkin’ because Donuts did not suggest the vigorous, on-the-go attitude the coffee company wants to project.
 
 But what happens when a church changes its name, but former adherents continue to use the original term in ways it may not like?
 
-In April, the Church of Latter-day Saints, better known as the Mormon church, filed a lawsuit against John Dehlin, an excommunicated sixth-generation member, to prevent him from calling his podcast Mormon Stories and branding it in ways that mimic copyrighted church branding with the “intent to capitalize on and increase confusion”.
+In April, the Church of Jesus Christ of Latter-day Saints, better known as the Mormon church, filed a lawsuit against John Dehlin, an excommunicated sixth-generation member, to prevent him from calling his podcast Mormon Stories and branding it in ways that mimic copyrighted church branding with the “intent to capitalize on and increase confusion”.
 
 The 200-year old church stopped using “Mormon” to describe itself or its members in 2019, when the church’s leader announced that the Lord had commanded it drop the title. Only the Church of Jesus Christ of Latter-day Saints, or “the church” or “Church of Jesus Christ” would now be correct.
 

@@ -3,11 +3,11 @@ title: Drone could be used to monitor North Yorkshire coastal erosion
 source_url: https://www.bbc.co.uk/news/articles/c5yzj2ze0jeo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:56Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2026-06-27T00:00:00Z'
 description: The drone will map complex coastal cliff zones in North Yorkshire, if
   funding is approved.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d871/live/ae2d4420-7223-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d871/live/ae2d4420-7223-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![A view of North Bay in Scarborough, a stretch of sandy beach with the sea in the background. In the distance, a ruined castle can be seen on cliff tops.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d871/live/ae2d4420-7223-11f1-8546-8f19e4fe30f4.jpg)

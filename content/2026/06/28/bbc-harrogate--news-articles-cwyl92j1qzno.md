@@ -3,11 +3,11 @@ title: Stories to make you smile from across Yorkshire 28/06/26
 source_url: https://www.bbc.co.uk/news/articles/cwyl92j1qzno?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-28T09:35:58Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2026-06-28T00:00:00Z'
 description: This week we feature a six-year-old motocross champ, busy beavers and
   England's over-75 footballers.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fac1/live/8cc78840-6fd5-11f1-b1db-af71d47507d6.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fac1/live/8cc78840-6fd5-11f1-b1db-af71d47507d6.png
 ---
 
 ![Three side-by-side images; on the left, a family wearing black t-shirts, in the middle, an older man with white hair stands on a football pitch wearing a red sports top with a football logo. On the right, a brown beaver swims through an algae-covered pond.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/fac1/live/8cc78840-6fd5-11f1-b1db-af71d47507d6.png)

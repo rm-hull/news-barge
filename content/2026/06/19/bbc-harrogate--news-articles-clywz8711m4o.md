@@ -3,11 +3,11 @@ title: York Minster's bells to ring for six hours on Saturday
 source_url: https://www.bbc.co.uk/news/articles/clywz8711m4o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:06:01Z'
+scraped_at: '2026-06-28T15:37:24Z'
 published: '2026-06-19T00:00:00Z'
 description: The National 12-bell Striking Contest is returning to the city for the
   first time since 1999.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17be/live/f65a5000-6be6-11f1-95c7-b58617a2924f.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17be/live/f65a5000-6be6-11f1-95c7-b58617a2924f.jpg
 ---
 
 ![Two tall Gothic cathedral towers rise into the sky, detailed with intricate stone carvings and pointed spires.

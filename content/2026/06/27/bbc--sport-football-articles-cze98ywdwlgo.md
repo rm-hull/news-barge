@@ -1,13 +1,14 @@
 ---
-title: 'World Cup 2026: Iran say they have been treated unfairly by USA'
+title: "World Cup 2026: Iran say they have been treated unfairly by USA"
 source_url: https://www.bbc.co.uk/sport/football/articles/cze98ywdwlgo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:45Z'
-published: '2026-06-27T00:00:00Z'
-description: Iran coach Amir Ghalenoei says his nation have been treated unfairly
+scraped_at: "2026-06-27T21:23:45Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Iran coach Amir Ghalenoei says his nation have been treated unfairly
   by the United States during the World Cup
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aabf/live/a871f8f0-7214-11f1-b1db-af71d47507d6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aabf/live/a871f8f0-7214-11f1-b1db-af71d47507d6.jpg
 ---
 
 Egypt through after late drama denies Iran guaranteed knockout qualification

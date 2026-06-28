@@ -3,10 +3,10 @@ title: Paint stolen from Scarborough store
 source_url: https://www.yorkmix.com/paint-stolen-from-scarborough-store
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-28T09:36:09Z'
+scraped_at: '2026-06-28T15:37:25Z'
 published: '2026-06-28T00:00:00Z'
 description: ''
-thumbnail: https://www.devsite.spectramedia.co.uk/mix/images/yorkmix-logo.png
+image: https://www.devsite.spectramedia.co.uk/mix/images/yorkmix-logo.png
 ---
 
 Police have issued a CCTV image of a man they would like to speak to, following a shop theft in Scarborough.

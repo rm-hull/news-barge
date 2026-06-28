@@ -4,11 +4,11 @@ title: '‘Everyone is talking about Cape Verde’: World Cup run delights diasp
 source_url: https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:22Z'
+scraped_at: '2026-06-28T15:35:35Z'
 published: '2026-06-26T00:00:00Z'
 description: Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought
   draws against Spain and Uruguay
-thumbnail: https://i.guim.co.uk/img/media/9987cc89c3e8425b10872df6f3cdf9386839b139/765_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b659668cd5f4596280f81c8ed8b53ba0
+image: https://i.guim.co.uk/img/media/9987cc89c3e8425b10872df6f3cdf9386839b139/765_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b659668cd5f4596280f81c8ed8b53ba0
 ---
 
 For as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation is finally centre stage.

@@ -4,11 +4,11 @@ title: Harrogate and Knaresborough MP pushes for Bilton school to open to avoid 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-and-knaresborough-mp-pushes-for-bilton-school-to-open-to-avoid-failing-another-generation-of-send-children/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:55Z'
+scraped_at: '2026-06-28T15:36:35Z'
 published: '2026-06-23T00:00:00Z'
 description: Tom Gordon MP for Harrogate and Knaresborough, has increased the pressure
   to open Bilton Woodfield School by the next school term.
-thumbnail: https://mmo.aiircdn.com/409/6a3aeac2c5d42d647bc.jpg
+image: https://mmo.aiircdn.com/409/6a3aeac2c5d42d647bc.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3aeac2c5d42d647bc.jpg) 

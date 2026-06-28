@@ -3,10 +3,10 @@ title: Environment news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/environment/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:43Z'
+scraped_at: '2026-06-28T15:38:15Z'
 published: '2026-01-01T00:00:00Z'
 description: Environment news, features and opinion in and around Press | York Press
-thumbnail: null
+image: null
 ---
 
 ![The queues on York ring road - a regular sight](https://www.yorkpress.co.uk/resources/images/320x200/1x/21104604.jpg) 

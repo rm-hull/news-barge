@@ -3,18 +3,19 @@ title: Trump unveils new US 'patriot passports' featuring his image
 source_url: https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-27T00:00:00Z'
-description: The commemorative special edition passports will be available on 6 July,
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  The commemorative special edition passports will be available on 6 July,
   and can only be applied for in person
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg
 ---
 
 ![an image of two pages inside a US passport - one showing President Donald Trump with his fists on the Resolute Desk above his signature and another showing a picture of the founding father above "United States of America 250"](https://ichef.bbci.co.uk/ace/standard/949/cpsprodpb/19a0/live/b6678a80-725d-11f1-b4a5-2d0098f6c080.jpg)
 
 - Published
 
-**The Trump administration has unveiled a new limited edition US passport design featuring a photo of President Donald Trump to commemorate America's****250th birthday****.**
+**The Trump administration has unveiled a new limited edition US passport design featuring a photo of President Donald Trump to commemorate America's\*\***250th birthday\***\*.**
 
 In a post on social media on Friday, Trump shared a photo of the passport's newly designed pages, one that includes an image of himself with his fists on the Resolute Desk with the Declaration of Independence in the background and his signature below.
 

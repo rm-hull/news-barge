@@ -3,11 +3,11 @@ title: RAF Linton-on-Ouse 'wrong place' for asylum seekers - councillors
 source_url: https://www.bbc.co.uk/news/articles/c05y12z3g79o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:20Z'
 published: '2026-06-26T00:00:00Z'
 description: Leaders say they will 'campaign to the end' to stop new plans for the
   former RAF Linton-on-Ouse.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f3b/live/6f31b110-7161-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f3b/live/6f31b110-7161-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 ![Street sign pointing the way to RAF Linton-on-Ouse](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8f3b/live/6f31b110-7161-11f1-8e1d-bbbb1017d210.jpg)

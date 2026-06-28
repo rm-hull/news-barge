@@ -3,10 +3,10 @@ title: Traffic news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/traffic/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T14:12:29Z'
+scraped_at: '2026-06-28T15:37:48Z'
 published: '2026-01-01T00:00:00Z'
 description: Traffic news, features and opinion in and around Press | York Press
-thumbnail: null
+image: null
 ---
 
 ![The official detour for traffic round roadworks on the A59 near Poppleton.](https://www.yorkpress.co.uk/resources/images/320x200/1x/21110305.jpg) 

@@ -4,11 +4,11 @@ title: Tributes paid to York businessman who trained apprentices and travelled t
 source_url: https://www.yorkpress.co.uk/news/26230858.tributes-don-oldfield-engineer-cancer-battle/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:59Z'
+scraped_at: '2026-06-28T15:38:29Z'
 published: '2026-06-28T00:00:00Z'
 description: Tributes have been paid to a York businessman and dad who worked right
   up until the end of his life.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21104612.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21104612.jpg?type=og-image
 ---
 
 ## Tributes paid to York businessman who trained apprentices and travelled the world

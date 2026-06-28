@@ -3,18 +3,16 @@ title: 'World Cup 2026: BBC reporters pick best moments and players of group sta
 source_url: https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:13Z'
+scraped_at: '2026-06-28T15:35:43Z'
 published: '2026-06-28T00:00:00Z'
 description: As the World Cup group stages come to an end, BBC Sport reporters pick
   their highlights so far.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcc9/live/e6810200-723a-11f1-930d-75324f3b4c6e.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcc9/live/e6810200-723a-11f1-930d-75324f3b4c6e.jpg
 ---
 
 ![Argentina's Lionel Messi](https://ichef.bbci.co.uk/ace/standard/656/cpsprodpb/dcc9/live/e6810200-723a-11f1-930d-75324f3b4c6e.jpg)
 
 Lionel Messi is playing in his sixth World Cup for Argentina
-
-- Published
 
 **After 72 matches across three countries, 48 teams who qualified for the 2026 World Cup have been whittled down to 32.**
 
@@ -27,6 +25,10 @@ A group of BBC reporters in the United States, Canada and Mexico have picked the
 **Ian Dennis, BBC Radio 5 Live**
 
 **France**. I've seen all of their group games and they've made it three wins from three for the first time since they won the World Cup in 1998. They're still not perfect, so room to improve as they get stronger under a manager who has the experience to draw on, as Didier Deschamps seeks a third successive World Cup final.
+
+**John Murray, BBC Radio 5 Live**
+
+I don't think there's too much doubt it's been **France.** They are the team that's looked the best but as we have learned over the years, it's not how you start, it's how you finish and I still believe **Spain**will not be far away.
 
 **Phil McNulty, BBC Sport's chief football writer**
 
@@ -64,6 +66,10 @@ All of Messi's record-breaking 18 World Cup goals
 
 **Lionel Messi.**The evergreen 39-year-old remains a joy to watch with his skill, awareness and intelligence and he keeps producing on the biggest stage. A footballing genius.
 
+**John Murray, BBC Radio 5 Live**
+
+It has to be **Lionel Messi.**Astonishing really to have six goals by this point. And with the draw opening up for Argentina he must have an eye on one of football's most famous and long-lasting records; Just Fontaine's 13 goals at the 1958 World Cup.
+
 **Phil McNulty, BBC Sport's chief football writer**
 
 **Lionel Messi**. Ageless genius but this is also the World Cup where the big names such as Harry Kane, Kylian Mbappe, Ousmane Dembele, Erling Haaland and Cristiano Ronaldo have come to make their mark. A superb tournament so far.
@@ -98,6 +104,10 @@ Cape Verde continue to surprise with entertaining Uruguay draw
 
 **Ecuador 2-1 Germany**.****The first group stage game with a real sense of jeopardy. It was win or bust for Ecuador and they responded as they played with adventure while their fans created a superb atmosphere. Bold and brave as they came from behind. Manic defending at the end but the chaos added to the drama as they clinched a place in the knockout stages.
 
+**John Murray, BBC Radio 5 Live**
+
+**England 4-2 Croatia.** The one I've personally enjoyed the most; a group match that felt like a knockout. Proving that kind of attacking ability is in there.
+
 **Phil McNulty, BBC Sport's chief football writer**
 
 **Uruguay 2-2 Cape Verde**. Cape Verde have provided one of the stories of this World Cup so far and this match was a classic as they took the lead, fell behind, then drew level. Football can sometimes be clean and clinical. Cape Verde have played with quality, emotion and defiance.
@@ -129,6 +139,10 @@ Portugal 1-1 DR Congo highlights - World Cup 2026
 **Ian Dennis, BBC Radio 5 Live**
 
 **Cape Verde surprising Spain on their World Cup debut**and the subsequent reaction of their goalkeeper Vozinha. His emotions post-match after his sparkling display of seven saves was so touching - and what a moment for the entire nation. A reminder not all heroes wear capes… sometimes its a yellow jersey.
+
+**John Murray, BBC Radio 5 Live**
+
+It's a close call; the Ecuadorean outpouring in New Jersey when they beat the Germans to clinch their place in the knockout stage was marvellous  and I doubt I will see a more exuberant celebration than that of their long-haired coach Sebastian Beccacece. But I have to go for the cascade of sombreros in The Azteca when **Julian Quinones scored the first goal of the tournament for Mexico** which truly was a sight to behold.
 
 **Phil McNulty, BBC Sport's chief football writer**
 

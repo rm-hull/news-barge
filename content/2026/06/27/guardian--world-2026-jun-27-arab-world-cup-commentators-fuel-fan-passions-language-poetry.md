@@ -1,13 +1,14 @@
 ---
-title: '‘You’re history itself!’: how Arab World Cup commentators fuel fans’ passions'
+title: "‘You’re history itself!’: how Arab World Cup commentators fuel fans’ passions"
 source_url: https://www.theguardian.com/world/2026/jun/27/arab-world-cup-commentators-fuel-fan-passions-language-poetry
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-27T00:00:00Z'
-description: Arabic’s rich history of poetry lends itself well to ‘beautiful commentary
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Arabic’s rich history of poetry lends itself well to ‘beautiful commentary
   that … sounds like a love letter to football’
-thumbnail: https://i.guim.co.uk/img/media/345c6b6f768b1a4ff938e5373f58267d66f18e96/115_0_4999_4000/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8ee8bf214c3ba2c4f9e54f3ddad2638
+image: https://i.guim.co.uk/img/media/345c6b6f768b1a4ff938e5373f58267d66f18e96/115_0_4999_4000/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8ee8bf214c3ba2c4f9e54f3ddad2638
 ---
 
 Even before Cristiano Ronaldo’s close-range shot had hit the back of net, the commentator had begun shouting. “Allllllllaaaaaaah!!!!” exclaimed Amer al-Khudhiri, an Omani football announcer for BeIN Sports, as the Portugal star scored his first goal of the 2026 World Cup against Uzbekistan on Tuesday.
@@ -42,7 +43,7 @@ Key to the commentary is Arabic itself. The Middle East has a long oral traditio
 
 Similar to those improvised poetry sessions, part of the fun of watching football in Arabic is the creativity of the commentators, who take joy in their mastery of the language. Chaouali, one of the Arab world’s most famous commentators, studied philology before becoming a broadcaster.
 
-Al-Kilani said: “Arabic has a classical science of eloquence, *balagha*, and a literary culture that has placed the poet at its centre since the pre-Islamic odes … Commentary stepped into a seat that has already existed.”
+Al-Kilani said: “Arabic has a classical science of eloquence, _balagha_, and a literary culture that has placed the poet at its centre since the pre-Islamic odes … Commentary stepped into a seat that has already existed.”
 
 Even those who grew up in multilingual households agreed that watching football in Arabic is an entirely different experience.
 

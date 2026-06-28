@@ -3,11 +3,11 @@ title: Ripon Rugby Club praised for helping keep popular inclusion festival free
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/ripon-rugby-club-praised-for-helping-keep-popular-inclusion-festival-free/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:39Z'
+scraped_at: '2026-06-28T15:36:17Z'
 published: '2026-06-26T00:00:00Z'
 description: The organisers of a much-loved inclusion festival have paid tribute to
   Ripon Rugby Club for helping make the event possible year after year.
-thumbnail: https://mmo.aiircdn.com/409/6a3ea9e6e2fcc939f18.jpg
+image: https://mmo.aiircdn.com/409/6a3ea9e6e2fcc939f18.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3ea9e6e2fcc939f18.jpg) 

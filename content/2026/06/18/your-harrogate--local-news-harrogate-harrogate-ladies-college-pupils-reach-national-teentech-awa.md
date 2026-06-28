@@ -3,14 +3,15 @@ title: Harrogate Ladies' College pupils reach national TeenTech award finals
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-ladies-college-pupils-reach-national-teentech-award-finals/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:18Z'
-published: '2026-06-18T00:00:00Z'
-description: Three teams of young innovators from Harrogate Ladies' College are heading
+scraped_at: "2026-06-28T15:36:56Z"
+published: "2026-06-18T00:00:00Z"
+description:
+  Three teams of young innovators from Harrogate Ladies' College are heading
   to London after reaching the finals of a prestigious national awards competition.
-thumbnail: https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg
+image: https:o.aiircdn.com/409/6a3404fd096dbacbdba.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg) 
+![](https://mmo.aiircdn.com/409/6a3404fd096dbacbdba.jpg)
 
                                     Three teams of young innovators from Harrogate Ladies' College are heading to London after reaching the finals of a prestigious national awards competition.
 
@@ -31,7 +32,6 @@ Principal Mrs Joanna Fox praised the achievements of all three teams:
 “The dedication, commitment and creativity shown by each team is simply outstanding.
 
 “We are exceptionally proud of all three teams and these results are testament to the school’s long tradition of championing careers in STEM for our pupils."
-
 
 The success reflects the school’s strong focus on science, technology, engineering and mathematics, with 52% of university applications from Harrogate Ladies’ College pupils in 2026 being for STEM-related courses.
 

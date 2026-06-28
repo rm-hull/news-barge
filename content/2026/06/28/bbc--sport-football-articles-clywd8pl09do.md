@@ -3,11 +3,11 @@ title: 'World Cup 2026: Iran unlucky losers after missing out on last 32'
 source_url: https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:13Z'
+scraped_at: '2026-06-28T15:35:49Z'
 published: '2026-06-28T00:00:00Z'
 description: Iran had a place in the last 32 of the World Cup snatched away from them
   at the last minute not once but twice.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fea/live/ab599e60-72aa-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fea/live/ab599e60-72aa-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Ramin Rezaeian and Mehdi Taremi of Iran deflated after draw with Egypt at 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4fea/live/ab599e60-72aa-11f1-8546-8f19e4fe30f4.jpg)
@@ -20,7 +20,7 @@ Iran missed out on a place in the last 32 of the World Cup on goal difference
 
 For every moment of glory, there is a hard-luck story, a nation left to bemoan their misfortune and the injustices that have led to their downfall.
 
-Yet few compare to the cruel manner that has brought Iran's tournament to an end in 2026.
+Yet few compare to the cruel manner that brought Iran's tournament to an end in 2026.
 
 Facing unprecedented challenges even before a ball was kicked, Amir Ghalenoei's side had worked themselves into a position where a place in the last 32 was in their grasp - only for it to be snatched away from them at the last... not once but twice.
 
@@ -32,11 +32,11 @@ But there was much more to it than that...
 
 Egypt through after late drama denies Iran guaranteed knockout qualification
 
-After draws against New Zealand and Belgium, Iran knew victory over Egypt in Seattle would put them through to the round of 32.
+After draws against New Zealand and Belgium, Iran knew victory over Egypt in Seattle would put them through to the last 32.
 
 They fell behind early but responded well and although Mehdi Taremi had a penalty saved, Ramin Rezaeian's smart finish from a tight angle drew Iran level.
 
-That was how it stayed until second-half injury time, when Shoja Khalilzadeh turned the ball home after after a goalmouth scramble.
+That was how it stayed until second-half injury time, when Shoja Khalilzadeh turned the ball home after a goalmouth scramble.
 
 Exuberant celebrations followed, with Khalilzadeh removing his shirt - for which he was later booked - and posing for a photograph with a pair of sunglasses.
 

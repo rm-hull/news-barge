@@ -1,13 +1,14 @@
 ---
-title: '''Magic and midsummer madness'': The last of the old-school Glastonbury Festivals'
+title: "'Magic and midsummer madness': The last of the old-school Glastonbury Festivals"
 source_url: https://www.bbc.co.uk/news/articles/czrxpgpdjzpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T10:33:11Z'
-published: '2026-06-28T00:00:00Z'
-description: The original director has reworked the 30-year-old film to be screened
+scraped_at: "2026-06-28T10:33:11Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  The original director has reworked the 30-year-old film to be screened
   in cinemas across the UK.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19d/live/97b479d0-7083-11f1-b4dc-512444fe8681.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b19d/live/97b479d0-7083-11f1-b4dc-512444fe8681.png
 ---
 
 ![A vintage image of several festivalgoers in a field surrounded by tents - one woman in the foreground is standing up and brushing her teeth and the rest are sitting or lying on the grass, looking to camera. It is a sunny day with a blue sky and a few puffy white clouds](https://ichef.bbci.co.uk/ace/standard/903/cpsprodpb/b19d/live/97b479d0-7083-11f1-b4dc-512444fe8681.png)

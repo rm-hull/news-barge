@@ -3,10 +3,10 @@ title: Power cuts as thunderstorms sweep across North Yorkshire this afternoon
 source_url: https://www.yorkmix.com/power-cuts-as-thunderstorms-sweep-across-north-yorkshire-this-afternoon
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:15Z'
-published: '2026-06-26T00:00:00Z'
-description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2024/11/northern-powergrid-van-sign.webp
+scraped_at: "2026-06-27T21:32:15Z"
+published: "2026-06-26T00:00:00Z"
+description: ""
+image: https://wp.theyorkmix.com/wp-content/uploads/2024/11/northern-powergrid-van-sign.webp
 ---
 
 Localised thunderstorms have caused power cuts across North Yorkshire. Northern Powergrid says they are working hard to restore the service as quickly as possible, when it is safe to do so.

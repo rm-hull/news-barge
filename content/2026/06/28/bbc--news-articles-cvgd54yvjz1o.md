@@ -3,11 +3,11 @@ title: 'Sort Your Life Out: How to fix four common cluttering mistakes'
 source_url: https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
+scraped_at: '2026-06-28T15:35:44Z'
 published: '2026-06-28T00:00:00Z'
 description: Tidying expert Dilly Carter shares her best tips on organising your kitchen,
   lounge and clothes.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa95/live/b05cdf20-7143-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa95/live/b05cdf20-7143-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Dilly wearing a pink patterned long-sleeve top leaning on a stack of beige boxes in the foreground, with one hand resting against the side of their head. Several bracelets, rings, and a necklace are visible. The background is a plain light grey wall.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e0c9/live/9a139c40-7143-11f1-b1b0-cddf11a7921a.jpg)
@@ -48,7 +48,7 @@ She commonly sees kitchens where infrequently used gadgets take up "prime real e
 
 Another tip is not to buy so many kitchen appliances to begin with but, if you do, make sure it's a "multi-use product".
 
-For example, blenders are more versatile than juicers. If you want to make juice instead of a smoothie, you can extract liquid from the blended pulp of fruits and vegetables using a sieve or cheesecloth - no need for a specific gadget only does one thing.
+For example, blenders are more versatile than juicers. If you want to make juice instead of a smoothie, you can extract liquid from the blended pulp of fruits and vegetables using a sieve or cheesecloth - no need for a specific gadget that only does one thing.
 
 ## Too many clothes, not enough drawers
 
@@ -70,7 +70,7 @@ For families with young children, toys spread all over the floor are an ever-pre
 
 For the sake of convenience, you might be tempted to store them all in one big box that you keep in the corner of the room - but Carter thinks that's unwise.
 
-![Two side-by-side images. The left shows scattered toys across a colourful patterned rug in the foreground, including plushies, toy vehicles and small plastic items. The right image shows a green storage box holding assorted toys and clothing, with a toy racket resting on top. Low furniture and storage units are visible in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5f8e/live/f00a9e00-68ab-11f1-8e1d-bbbb1017d210.png)
+![Two side-by-side images. The left shows scattered toys across a colourful patterned rug in the foreground, including plushies, toy vehicles and small plastic items. The right image shows a green storage box holding assorted toys and clothing, with a toy racket resting on top. Low furniture and storage units are visible in the background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3406/live/54545610-72e0-11f1-b28d-37d67ec29837.png)
 
 "When your child is trying to look for that one toy, how are they going to find that toy? They're not going to find it easily because they have to chuck out everything else [in the box] to find it," she explains.
 

@@ -3,11 +3,11 @@ title: Oddsocks return to Harrogate with outdoor performance of Romeo & Juliet
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/oddsocks-return-to-harrogate-with-outdoor-performance-of-romeo-and-juliet/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:52Z'
+scraped_at: '2026-06-28T15:36:32Z'
 published: '2026-06-23T00:00:00Z'
 description: Festival favourites Oddsocks are returning to Harrogate this summer with
   a fresh, family-friendly take on one of Shakespeare's best-loved plays.
-thumbnail: https://mmo.aiircdn.com/409/6a3b045605f3921c371.jpg
+image: https://mmo.aiircdn.com/409/6a3b045605f3921c371.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3b045605f3921c371.jpg) 

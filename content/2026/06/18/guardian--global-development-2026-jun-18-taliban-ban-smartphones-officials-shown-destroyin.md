@@ -3,11 +3,11 @@ title: Taliban order ban on smartphones as officials shown destroying devices
 source_url: https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
+scraped_at: '2026-06-28T15:35:39Z'
 published: '2026-06-18T00:00:00Z'
 description: Directive aimed at government workers, but reports of wider implementation
   spark warnings of future Afghanistan-wide prohibition
-thumbnail: https://i.guim.co.uk/img/media/95402f7e12f54d50a4e707ebcc0204f57238beeb/5_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=427aa9dfedc244be594a0998f4d1dc21
+image: https://i.guim.co.uk/img/media/95402f7e12f54d50a4e707ebcc0204f57238beeb/5_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=427aa9dfedc244be594a0998f4d1dc21
 ---
 
 The Taliban have ordered a sweeping ban on the use of smartphones by government officials – in what some analysts say could foreshadow broader, population-level restrictions.

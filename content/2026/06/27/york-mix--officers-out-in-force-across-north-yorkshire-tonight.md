@@ -3,10 +3,10 @@ title: Officers out in force across North Yorkshire tonight
 source_url: https://www.yorkmix.com/officers-out-in-force-across-north-yorkshire-tonight
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:14Z'
+scraped_at: '2026-06-28T15:37:25Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2021/07/york-fans-celebrate-england-semi-final-win-7-jul-2021-tw.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2021/07/york-fans-celebrate-england-semi-final-win-7-jul-2021-tw.jpg
 ---
 
 For England’s game tonight, police officers will be increasing patrols across North Yorkshire to help keep everyone safe.

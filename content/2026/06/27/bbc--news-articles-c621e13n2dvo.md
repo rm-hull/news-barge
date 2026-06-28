@@ -1,13 +1,14 @@
 ---
-title: 'Laura Kuenssberg: Is Andy Burnham Labour’s saviour, or just its best bet?'
+title: "Laura Kuenssberg: Is Andy Burnham Labour’s saviour, or just its best bet?"
 source_url: https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:46Z'
-published: '2026-06-27T00:00:00Z'
-description: Labour insiders give Laura Kuenssberg their take on the man tipped to
+scraped_at: "2026-06-27T21:23:46Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Labour insiders give Laura Kuenssberg their take on the man tipped to
   replace Keir Starmer as PM.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcfe/live/d2ac4c00-7152-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcfe/live/d2ac4c00-7152-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Laura Kuenssberg](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1fcf/live/48f98c90-7137-11f1-8e1d-bbbb1017d210.png)
@@ -72,7 +73,7 @@ They recall battles between the government and "hostile permanent secretaries" t
 
 "He went to war with them and won," Burnham's ally recalls. "It was astonishing".
 
-Some of the doubt stems from a perceived lack of clarity over what Burnham wants to do, beyond get into No 10. And we know he *really* wants to do that.
+Some of the doubt stems from a perceived lack of clarity over what Burnham wants to do, beyond get into No 10. And we know he _really_ wants to do that.
 
 This will be third time lucky after running for the leadership and failing in 2010 and 2015. We're used to hearing his rhetoric about change, about making the country more equal, about looking after communities that have been left behind like Makerfield, his new constituency. "Vote Andy - For Us'" goes the tagline.
 
@@ -130,8 +131,8 @@ The "saviour" might be pushing it, but the mood in the party this week suggests 
 
 ## More from InDepth
 
-*Top picture credits: Getty Images and PA*
+_Top picture credits: Getty Images and PA_
 
 ![Thin, lobster red banner with white text saying ‘InDepth newsletter’. To the right are black and white portrait images of Emma Barnett and John Simpson. Emma has dark-rimmed glasses, long fair hair and a striped shirt. John has short white hair with a white shirt and dark blazer. They are set on an oatmeal, curved background with a green overlapping circle.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/23c7/live/fdf6e630-5e7f-11f1-8b8c-6d33e1d5abb6.png)
 
-*BBC InDepth**is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.* *Sign up for the newsletter here*
+_BBC InDepth\*\*is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday._ _Sign up for the newsletter here_

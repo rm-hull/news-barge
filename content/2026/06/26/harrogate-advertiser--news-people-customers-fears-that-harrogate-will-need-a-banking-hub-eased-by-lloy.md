@@ -3,12 +3,12 @@ title: Customers' fears that Harrogate 'will need a banking hub' eased by Lloyds
 source_url: https://www.harrogateadvertiser.co.uk/news/people/customers-fears-that-harrogate-will-need-a-banking-hub-eased-by-lloyds-notification-8763157
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:23Z'
+scraped_at: '2026-06-28T15:35:54Z'
 published: '2026-06-26T00:00:00Z'
 description: The announcement of the forthcoming closure of Lloyds Bank’s only Harrogate
   branch may have triggered fears that the town would soon need its own ‘hub’ to maintain
   basic banking services but there’s relief today for customers.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI4MjYzMzVhLWZmZDMtNDhiMS05NjhiLWE4MDFjMjY1MzE3MzowYTRiOTQ0ZC1kNTcyLTQwNjEtYTA2My0xNTllYTcyMzEzMDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI4MjYzMzVhLWZmZDMtNDhiMS05NjhiLWE4MDFjMjY1MzE3MzowYTRiOTQ0ZC1kNTcyLTQwNjEtYTA2My0xNTllYTcyMzEzMDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Customers' fears that Harrogate 'will need a banking hub' eased by Lloyds notification

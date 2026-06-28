@@ -4,11 +4,11 @@ title: Coppice Valley Ward Town Councillor Resigns from Harrogate Town Council -
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/coppice-valley-ward-town-councillor-resigns-from-harrogate-town-council/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-06-04T00:00:00Z'
 description: Harrogate Town Council confirms that Councillor Austin Wildmore has formally
   resigned from his role as Town Councillor for the Coppice Valley ward.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/WILDMORE.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/WILDMORE.jpg
 ---
 
 The Council has published a formal Notice of Vacancy and residents are advised about what happens next and how they can take part.

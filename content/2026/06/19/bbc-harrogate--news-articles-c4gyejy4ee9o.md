@@ -3,11 +3,11 @@ title: Number of pregnant smokers in Humber and North Yorkshire drops
 source_url: https://www.bbc.co.uk/news/articles/c4gyejy4ee9o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:06:01Z'
+scraped_at: '2026-06-28T15:37:24Z'
 published: '2026-06-19T00:00:00Z'
 description: Fewer pregnant women across the Humber and North Yorkshire are smoking,
   according to NHS data.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f200/live/5424cd10-6bfa-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f200/live/5424cd10-6bfa-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 ![A close up of a pregnant woman's belly. She is sat in a black chair and is wearing a beige top and blue jeans and is holding a cigarette in her hand.](https://ichef.bbci.co.uk/ace/standard/781/cpsprodpb/f200/live/5424cd10-6bfa-11f1-8e1d-bbbb1017d210.jpg)

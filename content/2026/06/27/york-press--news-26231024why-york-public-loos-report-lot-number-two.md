@@ -3,11 +3,12 @@ title: Why this report on York public loos is - well, a lot of 'number two'!
 source_url: https://www.yorkpress.co.uk/news/26231024.why-york-public-loos-report-lot-number-two-/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:56Z'
-published: '2026-06-27T00:00:00Z'
-description: Our letter writer is not impressed with this report into public toilet
+scraped_at: "2026-06-27T21:37:56Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Our letter writer is not impressed with this report into public toilet
   provision in the city - do you agree?
-thumbnail: https://www.yorkpress.co.uk/resources/images/16376037.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/16376037.jpg?type=og-image
 ---
 
 **'Why York public loos report is a lot of 'number two'!'**
@@ -20,31 +21,31 @@ So it is a surprise to read a report that York is ranked “Number Two” in the
 
 The term “Number Two” is sometimes used as a euphemism for a solid bowel movement. Perhaps a more colloquial term for the same thing could be used to describe the study that claims toilet provision in York is second in the country because the dearth of public lavatories in this city makes that claim difficult to believe.
 
-  *Matthew Laverack,*
+_Matthew Laverack,_
 
-  *Lord Mayors Walk,*
+_Lord Mayors Walk,_
 
-  *York*
+_York_
 
-  *Recommended reading:*
+_Recommended reading:_
 
-  **Football should only be played in winter**
+**Football should only be played in winter**
 
 FOOTBALL and extremely hot weather just don't work. It's bad enough having to suffer this World Cup football nonsense being shoved down your throat, but with this extremely hot weather you have to suffer the roaring shouting through open windows all night long .
 
 Football should only played in winter, and preferably in the rain or snow to dampen down the supporters as they go home.
 
-  *D M Deamer,*
+_D M Deamer,_
 
-  *Penleys Grove Street,*
+_Penleys Grove Street,_
 
-  *Monkgate,*
+_Monkgate,_
 
-  *York*
+_York_
 
-  *---*
+_---_
 
-  **Makerfield makes me ashamed to call myself a northerner**
+**Makerfield makes me ashamed to call myself a northerner**
 
 NOW Andy Burnham has returned to Parliament we will get a new PM, all thanks to a blatant corruption of the democratic process.
 
@@ -62,16 +63,16 @@ So when things deteriorate even further, which they will, do not forget its your
 
 Makes me ashamed to call myself a northerner.
 
-  *Dr Scott Marmion,*
+_Dr Scott Marmion,_
 
-  *Woodthorpe,*
+_Woodthorpe,_
 
-  *York*
+_York_
 
-  **What do you think?**
+**What do you think?**
 
-  Feel strongly about an issue? Write us a letter. Please write no more than 250 words and **you must provide your full name, address and mobile number.** Send your views by email to: [letters@thepress.co.uk](mailto:letters@thepress.co.uk)
+Feel strongly about an issue? Write us a letter. Please write no more than 250 words and **you must provide your full name, address and mobile number.** Send your views by email to: [letters@thepress.co.uk](mailto:letters@thepress.co.uk)
 
-  **Write a comment**
+**Write a comment**
 
 Join the debate and leave a comment in our comments section below this article – we may use your comments for a follow up article.

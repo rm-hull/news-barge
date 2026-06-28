@@ -3,11 +3,11 @@ title: When it comes to taxing the super rich, there’s no need to reinvent the
 source_url: https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:49Z'
+scraped_at: '2026-06-28T15:35:41Z'
 published: '2026-06-28T00:00:00Z'
 description: Any new tax on the rich won’t raise much money unless many of the exceptions
   and loopholes are dealt with
-thumbnail: https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/658_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bf6091dfa4b68b413388419432234b5
+image: https://i.guim.co.uk/img/media/026aa3fdbb690df527b92e025e1f71eeafb7876b/658_0_3333_2668/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bf6091dfa4b68b413388419432234b5
 ---
 
 In this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on Elon Musk’s new trillion-dollar fortune. What most bothers Americans about federal taxes is that billionaires don’t pay their fair share. As the race to develop artificial intelligence mints more billionaires, policymakers’ temptation to directly tax their brobdingnagian wealth is becoming unbearable.

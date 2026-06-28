@@ -3,11 +3,12 @@ title: Utah’s Cottonwood fire spreads overnight to cover 92,000 acres
 source_url: https://www.theguardian.com/us-news/2026/jun/27/firefighters-wildfire-fishlake-national-forest-central-utah
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:26Z'
-published: '2026-06-27T00:00:00Z'
-description: Firefighters are battling the blaze in Fishlake national park that was
+scraped_at: "2026-06-27T21:28:26Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Firefighters are battling the blaze in Fishlake national park that was
   stoked by strong winds and low humidity
-thumbnail: https://i.guim.co.uk/img/media/875fdcce4ec39c314d488fb68e61fbdfb7d0e53c/153_0_2540_2032/master/2540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6596bb8f9ca827c541e47a4affdd2fe7
+image: https://i.guim.co.uk/img/media/875fdcce4ec39c314d488fb68e61fbdfb7d0e53c/153_0_2540_2032/master/2540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6596bb8f9ca827c541e47a4affdd2fe7
 ---
 
 Hundreds of firefighters in Utah have struggled to suppress a wildfire that scorched an additional 20,000 acres (8,000 hectares) as of Saturday, as low humidity and strong winds accelerated the fire spread, according to state officials.

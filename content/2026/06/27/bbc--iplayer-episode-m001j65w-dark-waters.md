@@ -3,12 +3,12 @@ title: Dark Waters
 source_url: https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:50Z'
+scraped_at: '2026-06-28T15:35:49Z'
 published: '2026-06-27T00:00:00Z'
 description: Past ties drag corporate lawyer Rob into conflict with a company blamed
   for polluting a local stream. But as the case goes on, Rob discovers that the scope
   of the actual damage is staggeringly vast.
-thumbnail: https://ichef.bbci.co.uk/images/ic/1200x675/p0f0sn43.jpg
+image: https://ichef.bbci.co.uk/images/ic/1200x675/p0f0sn43.jpg
 ---
 
 # Dark Waters
@@ -25,7 +25,7 @@ thumbnail: https://ichef.bbci.co.uk/images/ic/1200x675/p0f0sn43.jpg
 - The Power of the DogBenedict Cumberbatch and Kirsten Dunst star in Jane Campion's revisionist western drama1h 59m
 - EverestThe real-life story of an awe-inspiring expedition that became an epic fight for survival1h 51m
 - Children of MenIt can all change in a heartbeat. In a chaotic world, a man protects humanity's last hope1h 39m
-- Arthur the KingMark Wahlberg stars. 10 days, 435 miles, one unbreakable bond that redefines victory1h 37m
-- Love & MercyHis music shaped our lives. Love saved his. An unconventional biopic of Brian Wilson1h 53m
 - BlacKkKlansmanInfiltrate hate. Spike Lee's scorching satire of a black cop who joined the Ku Klux Klan2h 6m
+- Arthur the KingMark Wahlberg stars. 10 days, 435 miles, one unbreakable bond that redefines victory1h 37m
 - If Beale Street Could TalkTrust love all the way. A young couple's life is derailed after a clash with a racist cop1h 50m
+- Love & MercyHis music shaped our lives. Love saved his. An unconventional biopic of Brian Wilson1h 53m

@@ -3,11 +3,11 @@ title: Senior Labour figures say party is united behind Andy Burnham
 source_url: https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:50Z'
+scraped_at: '2026-06-28T15:35:42Z'
 published: '2026-06-28T00:00:00Z'
 description: Lucy Powell and Steve Reed say Labour MPs are backing a coronation of
   Burnham rather than a contest.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg
 ---
 
 ![Housing, Communities and Local Government Secretary Steve Reed appearing on the Sunday with Laura Kuenssberg, with presenter Victoria Derbyshire standing in. The pair sit on red bucket chairs. Reed wears a black suit with a white shirt and a red tie. Derbyshire is wearing a pastel blue dress with short sleeves. She has shoulder length, dark blonde hair.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/5e1c/live/06b1efb0-72ce-11f1-8d28-af7129502366.jpg)
@@ -57,6 +57,20 @@ Powell, the MP for Manchester Central, said that further devolution of powers to
 "If we had more control over things like skills and local transportation we could better connect people to all those new job opportunities of the future."
 
 Burnham is expected to give a closely watched speech in Manchester on Monday to outline his economic vision for the country, which will have a strong emphasis on devolution to drive growth and which could be key to winning over potential challengers such as Carns.
+
+On Sunday, Badenoch said Burnham should set out his plans to Parliament in special one-day session before the summer recess, rather than in a speech to supporters on Monday as expected, if he becomes prime minister.
+
+She said: "Andy Burnham is days away from taking charge of the country and still has not told people the basics: Will he stick to the Labour manifesto? Will he borrow even more money? Will he fund the Defence Investment Plan so that our country is not at risk?"
+
+She accused Sir Keir of entering No 10 without a plan, and said the country must not be forced to wait until Parliament returns in September to know the plan for the country.
+
+Badenoch added: "A speech full of warm words to a friendly crowd is not a substitute for speaking at the despatch box where MPs can question the substance of what he has said. "
+
+A Labour party spokesperson responded by saying: "Labour's ruling body, the National Executive Committee, has set out a clear timetable for the election of the next Leader of the Labour Party.
+
+"While that process is ongoing, the Labour Government is getting on with the job of delivering the change the country voted for and tackling the cost of living.
+
+"MPs are able to scrutinise the government in the normal way, as the public would expect."
 
 ![Thin, red banner promoting the Politics Essential newsletter with text saying, “Get the latest political analysis and big moments, delivered straight to your inbox every weekday”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6fad/live/133a6af0-dc98-11ef-bc01-8f2c83dad217.png)
 

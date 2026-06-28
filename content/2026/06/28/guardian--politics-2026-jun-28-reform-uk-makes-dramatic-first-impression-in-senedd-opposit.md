@@ -3,11 +3,12 @@ title: Reform UK makes dramatic first impression in Senedd opposition role
 source_url: https://www.theguardian.com/politics/2026/jun/28/reform-uk-makes-dramatic-first-impression-in-senedd-opposition-role
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:12Z'
-published: '2026-06-28T00:00:00Z'
-description: With more than a third of Welsh parliament seats, Reform MSs have caused
+scraped_at: "2026-06-28T09:34:12Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  With more than a third of Welsh parliament seats, Reform MSs have caused
   tears and walkouts – and voted against their own party
-thumbnail: https://i.guim.co.uk/img/media/913ed9b2065178d9ff21361e9de674bbfda0143a/315_0_3135_2509/master/3135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d97b07ad99d3dcdf535e6f328b3d31ba
+image: https://i.guim.co.uk/img/media/913ed9b2065178d9ff21361e9de674bbfda0143a/315_0_3135_2509/master/3135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d97b07ad99d3dcdf535e6f328b3d31ba
 ---
 
 Tears, walkouts, own-goal votes: the Welsh parliament has only been sitting for a few weeks, but Reform UK has already made a dramatic first impression in its new role as the official Senedd opposition.

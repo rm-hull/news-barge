@@ -3,10 +3,10 @@ title: 'Lucas Barnes: Harrogate midfielder signs new one-year deal'
 source_url: https://www.bbc.co.uk/sport/football/articles/cn947y3lqzqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:21Z'
 published: '2026-06-25T00:00:00Z'
 description: Harrogate Town midfielder Lucas Barnes signs a new one-year contract.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/813a/live/c99d0b60-70b5-11f1-88b6-991d05fc2cf9.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/813a/live/c99d0b60-70b5-11f1-88b6-991d05fc2cf9.jpg
 ---
 
 ![Lucas Barnes during the warm-up before a Harrogate game.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/813a/live/c99d0b60-70b5-11f1-88b6-991d05fc2cf9.jpg)

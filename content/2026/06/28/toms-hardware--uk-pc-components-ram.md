@@ -3,11 +3,11 @@ title: RAM
 source_url: https://www.tomshardware.com/uk/pc-components/ram
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:51Z'
+scraped_at: '2026-06-28T15:38:45Z'
 published: '2026-06-28T00:00:00Z'
 description: RAM reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-320-80.jpg)

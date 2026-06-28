@@ -3,11 +3,11 @@ title: 'Kendrick Lamar: How a young Irish boxer befriended a rap legend'
 source_url: https://www.bbc.co.uk/news/articles/cdr464204g1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:15Z'
+scraped_at: '2026-06-28T15:35:47Z'
 published: '2026-06-25T00:00:00Z'
 description: Aaron McKenna recalled his unlikely friendship with the iconic rapper
   as he prepares for the biggest fight of his boxing career.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7ce/live/1e73e220-7058-11f1-a8ca-c1374f88b32e.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7ce/live/1e73e220-7058-11f1-a8ca-c1374f88b32e.png
 ---
 
 ![Kendrick Lamar poses with Aaron and Stephen McKenna and members of their team backstage before one of Aaron's early professional fights in California.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6024/live/d4650e20-7016-11f1-82ff-03bbd709615d.jpg)

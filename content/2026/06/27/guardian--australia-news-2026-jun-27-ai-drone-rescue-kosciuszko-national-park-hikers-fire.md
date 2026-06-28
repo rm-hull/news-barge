@@ -3,11 +3,12 @@ title: Hikers lost in Kosciuszko national park rescued within five hours by AI d
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
-published: '2026-06-27T00:00:00Z'
-description: Fire and Rescue NSW uses thermal imaging and a mobile phone red light
+scraped_at: "2026-06-27T21:28:23Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Fire and Rescue NSW uses thermal imaging and a mobile phone red light
   to quickly locate men who veered off walking track near Jindabyne
-thumbnail: https://i.guim.co.uk/img/media/3752ed6a45e2ccc0b4c976fef12974cb7e048003/455_0_2104_1684/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c373fb4c33f5e571f5ca5073a3a0888
+image: https://i.guim.co.uk/img/media/3752ed6a45e2ccc0b4c976fef12974cb7e048003/455_0_2104_1684/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c373fb4c33f5e571f5ca5073a3a0888
 ---
 
 Two hikers who veered off a walking track in Kosciuszko national park have been found within five hours using a drone powered by artificial intelligence, a first-of-its-kind mission, Fire and Rescue NSW (FRNSW) has said.

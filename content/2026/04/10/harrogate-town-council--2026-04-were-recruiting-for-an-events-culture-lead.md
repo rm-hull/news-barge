@@ -3,13 +3,13 @@ title: We're recruiting for an Events & Culture Lead - Harrogate Town Council
 source_url: https://harrogatetowncouncil.gov.uk/2026/04/were-recruiting-for-an-events-culture-lead/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-04-10T00:00:00Z'
 description: This is a varied and rewarding role for someone who wants to make a real
   difference in Harrogate. You’ll join a supportive team that embraces fresh ideas
   and play a key part in shaping the Council’s future through events and community
   engagement.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/DSC08999-scaled.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/DSC08999-scaled.jpg
 ---
 
 Harrogate is a town known for its heritage, green spaces and strong sense of community. We’re recruiting a dedicated Events & Culture Lead to shape and deliver civic and community events that reflect Harrogate’s identity and what residents value.

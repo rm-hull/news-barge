@@ -3,11 +3,11 @@ title: Three speeding drivers sentenced at North Yorkshire motoring offences cou
 source_url: https://www.yorkpress.co.uk/news/26233162.defendants-sentenced-motoring-offences-court-harrogate/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:23Z'
+scraped_at: '2026-06-28T15:37:53Z'
 published: '2026-06-28T00:00:00Z'
 description: Four motorists are off the road after they were sentenced by the motoring
   offences court at Harrogate
-thumbnail: https://www.yorkpress.co.uk/resources/images/20629129.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/20629129.jpg?type=og-image
 ---
 
 *(Image: Newsquest)*

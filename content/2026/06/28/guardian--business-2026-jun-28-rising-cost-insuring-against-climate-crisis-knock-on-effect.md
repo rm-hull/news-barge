@@ -1,14 +1,16 @@
 ---
-title: Rising cost of insuring against climate crisis will have wider knock-on effects
+title:
+  Rising cost of insuring against climate crisis will have wider knock-on effects
   for UK economy | Heather Stewart
 source_url: https://www.theguardian.com/business/2026/jun/28/rising-cost-insuring-against-climate-crisis-knock-on-effects-for-uk-economy
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T10:33:10Z'
-published: '2026-06-28T00:00:00Z'
-description: As extreme weather events become more common, economists say government
+scraped_at: "2026-06-28T10:33:10Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  As extreme weather events become more common, economists say government
   will need to take more active role to protect consumers
-thumbnail: https://i.guim.co.uk/img/media/fccfffd683f72958d68becf9e4111eba8a6a9149/318_0_6271_5019/master/6271.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=79656dee77439b1646481e24638f1d2b
+image: https://i.guim.co.uk/img/media/fccfffd683f72958d68becf9e4111eba8a6a9149/318_0_6271_5019/master/6271.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=79656dee77439b1646481e24638f1d2b
 ---
 
 Anyone attempting to notch up a productive day’s work in the searing heat of southern England this last week was left in little doubt about the impact of extreme weather.

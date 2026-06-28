@@ -4,13 +4,13 @@ title: North Yorkshire Council gives monthly update on highways works in and aro
 source_url: https://harrogatetowncouncil.gov.uk/2025/12/monthly-update-on-highways-works/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-12-02T00:00:00Z'
 description: As we are now heading into the Christmas embargo (25th November to 5th
   January) planned works in the Harrogate area and their associated network disruption
   has significantly reduced as North Yorkshire Council aims to keep the key routes
   inbound and outbound clear.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
 ---
 
 The local highways department has sent through the following update:

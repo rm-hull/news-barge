@@ -3,12 +3,12 @@ title: 'Venezuela earthquake: Two boys rescued from rubble after days of being t
 source_url: https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:50Z'
+scraped_at: '2026-06-28T15:35:41Z'
 published: '2026-06-28T00:00:00Z'
 description: Rescuers spent six hours carefully digging to reach one of the boys,
   as many residents continue searching through the rubble by hand, still waiting for
   heavy machinery to arrive.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e90b/live/b36ae050-72e1-11f1-b28d-37d67ec29837.png
 ---
 
 An 11-year-old boy, named Moises, was rescued after days trapped beneath heavy rubble

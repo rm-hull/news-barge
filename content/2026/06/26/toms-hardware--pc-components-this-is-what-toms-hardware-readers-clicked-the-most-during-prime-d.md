@@ -1,17 +1,19 @@
 ---
-title: This is what Tom's Hardware readers clicked the most during Prime Day — Portable
+title:
+  This is what Tom's Hardware readers clicked the most during Prime Day — Portable
   displays, DVD burners, the Nintendo Switch 2, and two decent SSD deals, among others
 source_url: https://www.tomshardware.com/pc-components/this-is-what-toms-hardware-readers-clicked-the-most-during-prime-day-portable-displays-dvd-burners-the-nintendo-switch-2-and-two-decent-ssd-deals-among-others
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:32:54Z'
-published: '2026-06-26T00:00:00Z'
-description: What you clicked on, because of all the PC parts that were overpriced
+scraped_at: "2026-06-27T21:32:54Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  What you clicked on, because of all the PC parts that were overpriced
   or unavailable
-thumbnail: https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph-1999-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph-1999-80.jpg
 ---
 
-![PC Components](https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph.jpg) 
+![PC Components](https://cdn.mos.cms.futurecdn.net/mQEYC78Xwd8pKx97Laaqph.jpg)
 
 In a year with sky-high storage and RAM prices, effectively no new GPUs, and the resultingly tepid interest in PC building (especially when you can buy a prebuilt PC for significantly less), we were curious to see what our readers were clicking on the most. And much of it was not what we could have possibly predicted.
 
@@ -21,10 +23,10 @@ But the undisputed click leaders were Corsair’s Xeneon Edge portable touchscre
 
 You can see a list of our most-clicked products and deals (for those that are still available) below, in descending order. Note that not all deals are still valid forever, as prices are changing quickly. We also have blocks with more info for each product, and finally, a list of our 25 deals hubs that we've been maintaining for a week now.
 
-| 
- | 
- | 
- | 
+|
+|
+|
+|
 | $ 249.99 | $ 199.99 | |
 | $ 49.99 | $ 39.99 | |
 | $ 499.00 | $349 with code | |
@@ -39,7 +41,7 @@ You can see a list of our most-clicked products and deals (for those that are st
 | $ 249.99 | $ 149.99 | |
 | $ 1,999.99 | $ 1,499.99 | |
 | $64.99 | $ 59.99 | |
-| $ 329.99 | $ 208.00 | 
+| $ 329.99 | $ 208.00 |
 
 ![Corsair Xeneon Edge Corsair Xeneon Edge](https://cdn.mos.cms.futurecdn.net/ubCfbLcN2HwcjV49i2ripd-200-80.png.webp)
 
@@ -47,7 +49,7 @@ The Corsair Xeneon Edge is a 14.5-inch display designed to serve as an extension
 
 ![Suideck CD/DVD burner with USB Hub and M.2 Dock Suideck CD/DVD burner with USB Hub and M.2 Dock](https://cdn.mos.cms.futurecdn.net/4uaRKtH3StMHTnt8r9Ybn6-200-80.jpg.webp)
 
-*Now with M.2 SSD dock!*
+_Now with M.2 SSD dock!_
 
 The most expensive of the bunch, this optical CD/DVD writer from SUIDEK upgrades the SATA dock to an M.2 SSD dock, but keeps the SD card reader, USB-A, and USB-C hub.
 
@@ -73,7 +75,7 @@ Unlock portable gaming with this ROG Xbox Ally handheld. It includes an AMD Ryze
 
 ![Suideck  External CD/DVD DVD +/-RW Burner, Card Reader, and USB Hub Suideck  External CD/DVD DVD +/-RW Burner, Card Reader, and USB Hub](https://cdn.mos.cms.futurecdn.net/5q8TyiBgZ46Ex55acBSs7M-200-80.jpg.webp)
 
-*A Swiss Army knife of media access?*
+_A Swiss Army knife of media access?_
 
 Suideck's USB attached drive and dock is more flexible than the BPAKDU. It has very similar optical and flash media compatibility, and SD / TF slots but with its added 2.5-inch SATA slot. However, you pay $11 more for the privilege.
 
@@ -89,7 +91,7 @@ Gigabyte's Radeon RX 9070 XT Gaming OC graphics card features AMD's flagship Nav
 
 ![TP-Link Archer BE550 TP-Link Archer BE550](https://cdn.mos.cms.futurecdn.net/TsaeWckhsskgyGjfEqRcYk-200-80.png.webp)
 
-*All-time low price*
+_All-time low price_
 
 The TP-Link Archer BE550 router packs six antennas capable of pushing up to 9.3 Gbps across the air waves, as well as a complement of five 2.5 Gbps LAN ports — enough to future-proof most any home setup.
 
@@ -109,7 +111,7 @@ Save over $120 on this Ultra-widescreen monitor designed for office productivity
 
 If you're looking for even more, head to either our main Prime Day 2026 Live Blog, or our Gaming Monitor Live Blog. If even that isn't enough, here's the wide selection of different category-specific deals hubs for you to peruse. If it's on sale on Amazon, it's listed in these:
 
-__Best Tech and PC deals__ | Best gaming PC deals | Best RAM combo deals | Best 3D printer deals | Best RAM deals | Best gaming laptop deals | Best monitor deals | Best Wi-Fi Router deals | Best GPU deals | Best SSD deals | Best hard drive HDD deals | Best CPU deals | Best gaming chair deals | Best PC building tool deals | Best PC peripherals deals | Best filament and resin deals | Best motherboard deals | Best CPU cooler deals | Best PC case deals | Best Dell and Alienware deals | Best USB charger deals | Best gaming and productivity laptop deals under $1,000 | Best laptop PC deals*Also, you can* *join the**Tom's Hardware deals Discord for up-to-the-minute hardware deals.*
+**Best Tech and PC deals** | Best gaming PC deals | Best RAM combo deals | Best 3D printer deals | Best RAM deals | Best gaming laptop deals | Best monitor deals | Best Wi-Fi Router deals | Best GPU deals | Best SSD deals | Best hard drive HDD deals | Best CPU deals | Best gaming chair deals | Best PC building tool deals | Best PC peripherals deals | Best filament and resin deals | Best motherboard deals | Best CPU cooler deals | Best PC case deals | Best Dell and Alienware deals | Best USB charger deals | Best gaming and productivity laptop deals under $1,000 | Best laptop PC deals*Also, you can* _join the\*\*Tom's Hardware deals Discord for up-to-the-minute hardware deals._
 
 Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 
@@ -117,8 +119,6 @@ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 
 After a rough start with the Mattel Aquarius as a child, Matt built his first PC in the late 1990s and ventured into mild PC modding in the early 2000s. He’s spent the last 15 years covering emerging technology for Smithsonian, Popular Science, and Consumer Reports, while testing components and PCs for Computer Shopper, PCMag and Digital Trends.
 
-- 
-Reply
- Ashtray cover for my Fender Telecaster. Needed a good practice amp. Boss Katana-50 Gen 3 50-watt 1 x 12-inch Combo Amplifier. I am not buying any computer crap. Let the craziness continue without me.Admin said:Here are the products our readers clicked on the most during this Prime Week, from optical drives and small touchscreens to the Nintendo Switch 2, and the two name-brand SSDs that were actually on sale.
- 
- **This is what Tom's Hardware readers clicked the most during Prime Day — Portable displays, DVD burners, the Nintendo Switch 2, and two decent SSD d... : Read more**
+- Reply
+  Ashtray cover for my Fender Telecaster. Needed a good practice amp. Boss Katana-50 Gen 3 50-watt 1 x 12-inch Combo Amplifier. I am not buying any computer crap. Let the craziness continue without me.Admin said:Here are the products our readers clicked on the most during this Prime Week, from optical drives and small touchscreens to the Nintendo Switch 2, and the two name-brand SSDs that were actually on sale.
+  **This is what Tom's Hardware readers clicked the most during Prime Day — Portable displays, DVD burners, the Nintendo Switch 2, and two decent SSD d... : Read more**

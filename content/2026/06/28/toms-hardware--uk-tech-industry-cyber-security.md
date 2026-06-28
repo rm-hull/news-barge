@@ -3,11 +3,11 @@ title: Cybersecurity
 source_url: https://www.tomshardware.com/uk/tech-industry/cyber-security
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:55Z'
+scraped_at: '2026-06-28T15:38:51Z'
 published: '2026-06-28T00:00:00Z'
 description: Discover more about Cyber Security with insights from the experts at
   Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-320-80.jpg)

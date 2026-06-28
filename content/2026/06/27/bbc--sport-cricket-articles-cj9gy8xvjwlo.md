@@ -1,14 +1,16 @@
 ---
-title: 'T20 World Cup: England never been more confident before semi-final - Charlotte
-  Edwards'
+title:
+  "T20 World Cup: England never been more confident before semi-final - Charlotte
+  Edwards"
 source_url: https://www.bbc.co.uk/sport/cricket/articles/cj9gy8xvjwlo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T22:59:06Z'
-published: '2026-06-27T00:00:00Z'
-description: England have "never been more confident" going into a World Cup semi-final,
+scraped_at: "2026-06-27T22:59:06Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  England have "never been more confident" going into a World Cup semi-final,
   says coach Charlotte Edwards.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e84/live/430392c0-726f-11f1-b1db-af71d47507d6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e84/live/430392c0-726f-11f1-b1db-af71d47507d6.jpg
 ---
 
 England make breakthrough with three wickets in four balls

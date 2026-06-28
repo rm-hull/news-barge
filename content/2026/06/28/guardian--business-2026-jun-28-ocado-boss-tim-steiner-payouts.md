@@ -3,11 +3,12 @@ title: Ocado boss Tim Steiner’s near £100m in pay raises ‘serious concerns�
 source_url: https://www.theguardian.com/business/2026/jun/28/ocado-boss-tim-steiner-payouts
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:12Z'
-published: '2026-06-28T00:00:00Z'
-description: Reports claim replacement being lined up for co-founder amid concern
+scraped_at: "2026-06-28T09:34:12Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Reports claim replacement being lined up for co-founder amid concern
   over high pay and company’s struggling share price
-thumbnail: https://i.guim.co.uk/img/media/6810da95501b8e7b5017123a9fce15c637c637a0/307_0_4290_3433/master/4290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0c9c44de506a23a60a5015794f5b9dc
+image: https://i.guim.co.uk/img/media/6810da95501b8e7b5017123a9fce15c637c637a0/307_0_4290_3433/master/4290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0c9c44de506a23a60a5015794f5b9dc
 ---
 
 The boss of Ocado has collected nearly £100m since the online grocery company floated on the stock market in 2010, despite its share price now languishing below its flotation level, analysis has shown.

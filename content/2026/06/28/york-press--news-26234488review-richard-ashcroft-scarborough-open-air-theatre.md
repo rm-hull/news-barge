@@ -3,11 +3,11 @@ title: 'REVIEW: Richard Ashcroft at Scarborough Open Air Theatre'
 source_url: https://www.yorkpress.co.uk/news/26234488.review-richard-ashcroft-scarborough-open-air-theatre/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:16Z'
+scraped_at: '2026-06-28T15:38:33Z'
 published: '2026-06-28T00:00:00Z'
 description: Richard Ashcroft was back in North Yorkshire. Dave Lawrence was at Scarborough
   Open Air Theatre to hear him. -
-thumbnail: https://www.yorkpress.co.uk/resources/images/21110108.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21110108.jpg?type=og-image
 ---
 
 ## REVIEW: Richard Ashcroft at Scarborough Open Air Theatre

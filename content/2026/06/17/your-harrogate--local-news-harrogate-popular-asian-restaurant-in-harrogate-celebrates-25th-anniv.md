@@ -3,11 +3,11 @@ title: Popular Asian restaurant celebrates quarter century in Harrogate
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/popular-asian-restaurant-in-harrogate-celebrates-25th-anniversary/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:30Z'
+scraped_at: '2026-06-28T15:37:10Z'
 published: '2026-06-17T00:00:00Z'
 description: One of Harrogate's longest-established restaurants is marking a major
   milestone this year as The Orchid celebrates a quarter of a century in business.
-thumbnail: https://mmo.aiircdn.com/409/6a329adad2b1785463d.jpg
+image: https://mmo.aiircdn.com/409/6a329adad2b1785463d.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a329adad2b1785463d.jpg) 

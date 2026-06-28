@@ -4,12 +4,12 @@ title: Pollution found in stream linked to River Ure and River Ouse described as
 source_url: https://www.harrogateadvertiser.co.uk/news/emergency-incident/pollution-found-in-stream-linked-to-river-ure-and-river-ouse-described-as-small-scale-environmental-disaster-8761910
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:23Z'
+scraped_at: '2026-06-28T15:35:55Z'
 published: '2026-06-25T00:00:00Z'
 description: Pollution found in a tributary of the River Ure and River Ouse in North
   Yorkshire has been described as a ‘small-scale environmental disaster’ amid concerns
   that wildlife has already been killed off.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFjMTBlY2QyLWQ4YWQtNDhkOS05YzJlLWE1ZjdlNTM2NWMwNTpiZWY2MmM5NC1jMjViLTQwN2ItOGVmMi05NmFiYjAwODEyYzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFjMTBlY2QyLWQ4YWQtNDhkOS05YzJlLWE1ZjdlNTM2NWMwNTpiZWY2MmM5NC1jMjViLTQwN2ItOGVmMi05NmFiYjAwODEyYzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Pollution found in stream linked to River Ure and River Ouse described as ‘small-scale environmental disaster’

@@ -3,14 +3,15 @@ title: Knaresborough mum is ninth Free Fuel Friday winner
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/knaresborough-mum-is-ninth-free-fuel-friday-winner/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:12Z'
-published: '2026-06-19T00:00:00Z'
-description: A mum from Knaresborough is the ninth winner of Your Harrogate's Free
+scraped_at: "2026-06-28T15:36:50Z"
+published: "2026-06-19T00:00:00Z"
+description:
+  A mum from Knaresborough is the ninth winner of Your Harrogate's Free
   Fuel Friday.
-thumbnail: https://mmo.aiircdn.com/409/6a351108347ce3c7a6a.jpg
+image: https:o.aiircdn.com/409/6a351108347ce3c7a6a.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a351108347ce3c7a6a.jpg) 
+![](https://mmo.aiircdn.com/409/6a351108347ce3c7a6a.jpg)
 
                                     A mum from Knaresborough is the ninth winner of Your Harrogate's Free Fuel Friday.
 
@@ -20,7 +21,6 @@ Clues were given on the radio and on social media to hint at where the Your Harr
 
 And Becca was the first to find Ricky Durkin, AKA the Free Fuel Fairy, and utter the phrase that pays:
 
-
 'Are you Your Harrogate's Free Fuel Fairy?'
 
 Today’s secret location was the Morrisons petrol station on Hookstone Chase.
@@ -29,4 +29,4 @@ Becca vowed to use the fuel for a trip to Stockton with her children for Armed F
 
 Could you be next week's Free Fuel Friday winner? Just follow the clues next week and be the first to find our Free Fuel Fairy.
 
-*Read more about the competition**here**.*
+_Read more about the competition**here**._

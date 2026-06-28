@@ -1,13 +1,13 @@
 ---
-title: Temperature records tumble across Europe as heatwave moves east
+title: More European nations brace for 40C-plus conditions as heatwave moves east
 source_url: https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:46Z'
+scraped_at: '2026-06-28T15:35:38Z'
 published: '2026-06-28T00:00:00Z'
 description: More than 191m people in Europe face temperatures over 35C, with extreme
   heat warnings from Germany to Hungary
-thumbnail: https://i.guim.co.uk/img/media/009fc4f08da446989c606f2ac6075487ea76a826/930_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=572ebd05efe514d52ad827a9ceea0f9e
+image: https://i.guim.co.uk/img/media/009fc4f08da446989c606f2ac6075487ea76a826/930_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=572ebd05efe514d52ad827a9ceea0f9e
 ---
 
 Poland, Czechia and Slovakia are braced for record temperatures of over 40C as a heatwave linked to hundreds of deaths in western Europe spreads east.

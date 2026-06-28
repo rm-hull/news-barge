@@ -3,11 +3,11 @@ title: British man held after woman's body found in suitcase in Colombia
 source_url: https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:51Z'
+scraped_at: '2026-06-28T15:35:45Z'
 published: '2026-06-28T00:00:00Z'
 description: Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was
   found dead in Colombia.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8157/live/6a528860-72ef-11f1-a52b-4f9c73b26afb.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8157/live/6a528860-72ef-11f1-a52b-4f9c73b26afb.jpg
 ---
 
 ![A custody shot of Matthew Ashley Foster-Smith. He has short hair and a beard and is wearing a grey jumper.](https://ichef.bbci.co.uk/ace/standard/384/cpsprodpb/8157/live/6a528860-72ef-11f1-a52b-4f9c73b26afb.jpg)

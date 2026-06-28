@@ -1,15 +1,17 @@
 ---
-title: 'Wimbledon 2026: Aryna Sabalenka and Jannik Sinner lead players limiting media
-  duties over prize money'
+title:
+  "Wimbledon 2026: Aryna Sabalenka and Jannik Sinner lead players limiting media
+  duties over prize money"
 source_url: https://www.bbc.co.uk/sport/tennis/articles/c5yzjjkxy59o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:51Z'
-published: '2026-06-27T00:00:00Z'
-description: Four-time major champion Aryna Sabalenka says she hopes the world's leading
+scraped_at: "2026-06-27T21:23:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Four-time major champion Aryna Sabalenka says she hopes the world's leading
   players will not have to boycott their Grand Slam media duties again over prize
   money protests.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbe7/live/9fdc2170-7250-11f1-b46f-17a6b71f4bc4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbe7/live/9fdc2170-7250-11f1-b46f-17a6b71f4bc4.jpg
 ---
 
 ![Aryna Sabalenka talks to the media](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/dbe7/live/9fdc2170-7250-11f1-b46f-17a6b71f4bc4.jpg)

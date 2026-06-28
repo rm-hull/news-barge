@@ -4,11 +4,11 @@ title: Pictures - Mad Hatters classic car run raises £47k for children's hospic
 source_url: https://www.yorkpress.co.uk/news/26234576.classic-cars-raise-47-000-martin-house-childrens-hospice/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T10:35:07Z'
+scraped_at: '2026-06-28T15:37:50Z'
 published: '2026-06-28T00:00:00Z'
 description: Dozens of classic cars took part in the Mad Hatters Classic Car Run,
   raising £47,000 for Martin House Children’s Hospice on a route through…
-thumbnail: https://www.yorkpress.co.uk/resources/images/21107595.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21107595.jpg?type=og-image
 ---
 
 *(Image: Bruce Fitzgerald)*

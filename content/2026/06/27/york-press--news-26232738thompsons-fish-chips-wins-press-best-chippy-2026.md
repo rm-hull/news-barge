@@ -3,29 +3,28 @@ title: REVEALED - The Press Best Chippy 2026 winner is...
 source_url: https://www.yorkpress.co.uk/news/26232738.thompsons-fish-chips-wins-press-best-chippy-2026/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:55Z'
-published: '2026-06-27T00:00:00Z'
-description: It's official – the votes are in, and we can now reveal the best chippy
+scraped_at: "2026-06-27T21:37:55Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  It's official – the votes are in, and we can now reveal the best chippy
   in York.
-thumbnail: https://www.yorkpress.co.uk/resources/images/18171967.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/18171967.jpg?type=og-image
 ---
 
 ## REVEALED - The Press Best Chippy 2026 winner is...
 
-Thompson's Fish and Chips *(Image: Provided)*
+Thompson's Fish and Chips _(Image: Provided)_
 
-  **IT’S official – the votes are in, and we can now reveal the best chippy in York.**
+**IT’S official – the votes are in, and we can now reveal the best chippy in York.**
 
 After votes were cast online for a top 10, each fish and chip seller has been interviewed on what they do best and why it is that they deserve to be voted the Best Chippy in York 2026.
 
 The Press has published these interviews both online and in print, giving readers a chance to look at the options and have their say.
 
-  **RECOMMENDED READING:**
+**RECOMMENDED READING:**
 
-- 
-    **Popular York supermarket to reopen next month after major renovation**
-- 
-    **Supermarket shelves empty in York amid record heatwave**
+- **Popular York supermarket to reopen next month after major renovation**
+- **Supermarket shelves empty in York amid record heatwave**
 
 Now, the votes have been counted and we can reveal that the winner is… Thompsons Fish and Chip Restaurant in Malton Road.
 
@@ -39,9 +38,9 @@ She said: “Have we done it again? Oh wow, I really wasn’t expecting that! We
 
 Shop owner John Thompson also said that he was ‘genuinely humbled’ to have been voted Best Chippy – adding that he is incredibly grateful for the loyalty of their customers.
 
-  Thompson's in Malton Road 
+Thompson's in Malton Road
 
-*(Image: Provided)*
+_(Image: Provided)_
 
 He said: “We have the most fantastic customers, and I cannot thank them enough for their support over the years. This award belongs just as much to them as it does to anyone else. Without their loyalty, trust and votes, none of this would be possible.
 

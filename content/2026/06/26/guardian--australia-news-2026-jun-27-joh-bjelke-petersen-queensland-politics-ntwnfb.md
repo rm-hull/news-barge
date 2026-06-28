@@ -3,12 +3,13 @@ title: Here we Joh again? The spectre of Bjelke-Petersen still looms large over 
 source_url: https://www.theguardian.com/australia-news/2026/jun/27/joh-bjelke-petersen-queensland-politics-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-26T00:00:00Z'
-description: The LNP’s unapologetic moves on Indigenous issues, crime, transgender
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  The LNP’s unapologetic moves on Indigenous issues, crime, transgender
   healthcare and police-led suppression of protests are a throwback to days many thought
   had come and gone
-thumbnail: https://i.guim.co.uk/img/media/ab39caa9e63301bab25a99cb25376fd6f9df074a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ad618e0d993755ef04892f5e60d16c5
+image: https://i.guim.co.uk/img/media/ab39caa9e63301bab25a99cb25376fd6f9df074a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ad618e0d993755ef04892f5e60d16c5
 ---
 
 A sign stopped Aunty Sandra King in her tracks. The elder of the Yagara, Quandamooka and Bundjalung people, now in her 70s, spoke at a protest last month against plans to build an Olympic stadium in the heart of Brisbane’s Victoria Park.
@@ -95,5 +96,4 @@ At the same time the government has managed to present itself to urban and subur
 
 Whether that tightrope can hold in the long term – particularly as the realities of agendas like “project invisibility” come out of the shadows – remains to be seen.
 
-- 
-  Ben Smee is Guardian Australia’s Queensland correspondent. Additional reporting by Joe Hinchliffe and Andrew Messenger
+- Ben Smee is Guardian Australia’s Queensland correspondent. Additional reporting by Joe Hinchliffe and Andrew Messenger

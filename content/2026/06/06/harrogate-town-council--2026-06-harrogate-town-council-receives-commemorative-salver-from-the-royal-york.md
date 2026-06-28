@@ -4,12 +4,12 @@ title: Harrogate Town Council Receives Commemorative Salver from The Royal Yorks
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/harrogate-town-council-receives-commemorative-salver-from-the-royal-yorkshire-regiment/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-06-06T00:00:00Z'
 description: Harrogate Town Council has received a commemorative silver salver from
   The Royal Yorkshire Regiment in recognition of the longstanding relationship between
   the Regiment and the town.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/2026-06-04-Silver-Salver-Yorkshire-Regiment-Presentation-High-Res-1-scaled.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/2026-06-04-Silver-Salver-Yorkshire-Regiment-Presentation-High-Res-1-scaled.jpg
 ---
 
 The presentation took place at a recent meeting of Harrogate Town Council, where representatives of the Regiment formally thanked the Mayor, councillors and residents of Harrogate for their continued support.

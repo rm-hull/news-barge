@@ -4,10 +4,10 @@ title: Steam Machine scalping hits $3,000 on eBay as sellers list preorder reser
 source_url: https://www.tomshardware.com/video-games/console-gaming/steam-machine-scalping-hits-usd3-000-on-ebay-as-sellers-list-preorder-reservations-scalpers-already-flipping-queues-for-2x-the-msrp-of-the-2tb-model
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:32:53Z'
+scraped_at: '2026-06-28T15:39:02Z'
 published: '2026-06-27T00:00:00Z'
 description: Scalpers hijack Valve’s Steam Machine queue.
-thumbnail: https://cdn.mos.cms.futurecdn.net/GPmbsvCD53DGjzY9PCS6Xc-1920-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/GPmbsvCD53DGjzY9PCS6Xc-1920-80.jpg
 ---
 
 ![Steam Machine](https://cdn.mos.cms.futurecdn.net/GPmbsvCD53DGjzY9PCS6Xc.jpg) 

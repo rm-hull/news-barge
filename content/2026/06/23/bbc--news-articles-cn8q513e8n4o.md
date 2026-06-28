@@ -3,11 +3,11 @@ title: RNLI 'welly guard of honour' for newlyweds
 source_url: https://www.bbc.co.uk/news/articles/cn8q513e8n4o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:15Z'
+scraped_at: '2026-06-28T15:35:46Z'
 published: '2026-06-23T00:00:00Z'
 description: A lifeboat crew surprised their newlywed crew mates with a yellow welly
   guard of honour.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f03/live/018f2010-6e42-11f1-bca9-b3541f2231a8.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f03/live/018f2010-6e42-11f1-bca9-b3541f2231a8.jpg
 ---
 
 ![Amber is wearing a white wedding dress  and Alex Richardson is dressed in a black jacket and trousers, white shirt and black bow tie.

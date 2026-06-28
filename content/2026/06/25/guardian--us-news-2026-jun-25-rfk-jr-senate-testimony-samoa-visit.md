@@ -3,12 +3,13 @@ title: New evidence casts doubt on RFK Jr testimony before Senate
 source_url: https://www.theguardian.com/us-news/2026/jun/25/rfk-jr-senate-testimony-samoa-visit
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
-published: '2026-06-25T00:00:00Z'
-description: Kennedy repeatedly said in Senate testimony that 2019 trip had ‘nothing
+scraped_at: "2026-06-27T21:28:23Z"
+published: "2026-06-25T00:00:00Z"
+description:
+  Kennedy repeatedly said in Senate testimony that 2019 trip had ‘nothing
   to do with vaccines’. An email from his then colleague says they were on a vaccine-related
   ‘mission’
-thumbnail: https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb
+image: https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c70390588feefa673c773e3892ce22fb
 ---
 
 New evidence has emerged that Robert F Kennedy Jr was on a vaccine-related “mission” when he visited Samoa ahead of a deadly measles outbreak in 2019, raising further questions about whether the US health secretary lied to the US Senate when he said the trip had “nothing to do with vaccines”.

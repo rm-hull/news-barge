@@ -4,11 +4,11 @@ title: Child malnutrition in Nepal has reached ‘alarming’ levels since aid c
 source_url: https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
+scraped_at: '2026-06-28T15:35:39Z'
 published: '2026-06-26T00:00:00Z'
 description: Fears hard-won gains in reducing child mortality over 20 years are at
   risk after end of USAID funding for nutrition programmes
-thumbnail: https://i.guim.co.uk/img/media/691e99e495752417900a793cf02f4a1b3c6ae2ae/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=682fee833e269346759bb65ccd1d723a
+image: https://i.guim.co.uk/img/media/691e99e495752417900a793cf02f4a1b3c6ae2ae/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=682fee833e269346759bb65ccd1d723a
 ---
 
 Child malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country.

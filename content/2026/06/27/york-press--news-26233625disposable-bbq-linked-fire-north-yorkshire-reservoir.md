@@ -1,17 +1,19 @@
 ---
-title: Disposable BBQ in fire drama - 2 days after firefighters warning about their
+title:
+  Disposable BBQ in fire drama - 2 days after firefighters warning about their
   use
 source_url: https://www.yorkpress.co.uk/news/26233625.disposable-bbq-linked-fire-north-yorkshire-reservoir/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:45Z'
-published: '2026-06-27T00:00:00Z'
-description: Two days after firefighters warned about the use of disposable BBQ they
+scraped_at: "2026-06-27T21:37:45Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Two days after firefighters warned about the use of disposable BBQ they
   had to deal with a fire linked to one at a North Yorkshire beauty spot.
-thumbnail: https://www.yorkpress.co.uk/resources/images/19850205.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/19850205.jpg?type=og-image
 ---
 
-*(Image: North Yorkshire Fire and Rescue Service)*
+_(Image: North Yorkshire Fire and Rescue Service)_
 
 Firefighters had to put out a fire at a beauty spot yesterday linked to a disposable BBQ.
 
@@ -27,7 +29,7 @@ The firefighters found the blaze – and a disposable BBQ with no-one nearby.
 
 They put out the fire with a bucket of water.
 
-  **RECOMMENDED READING**
+**RECOMMENDED READING**
 
 - North Yorkshire Fire and Rescue Services urges public to play their part in preventing wildfires
 - MPs infuriated by finding of what caused Langdale fire

@@ -3,11 +3,11 @@ title: '''It''s a magical space!'' - new shop to open in York landmark'
 source_url: https://www.yorkpress.co.uk/news/26209703.yorkshire-soap-company-imaginarium-owners-monkbar-shop/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:29Z'
+scraped_at: '2026-06-28T15:38:40Z'
 published: '2026-06-27T00:00:00Z'
 description: The Yorkshire Soap Company and Imaginarium owners are opening a new shop
   in Monk Bar.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21072310.jpg?type=og-image&xType=0&yType=452
+image: https://www.yorkpress.co.uk/resources/images/21072310.jpg?type=og-image&xType=0&yType=452
 ---
 
 ## 'It's a magical space!' - new shop to open in York landmark

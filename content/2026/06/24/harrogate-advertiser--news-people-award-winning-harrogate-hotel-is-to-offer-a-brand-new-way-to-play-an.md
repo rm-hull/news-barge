@@ -4,11 +4,11 @@ title: Award-winning Harrogate hotel is to offer a 'brand new way to play and en
 source_url: https://www.harrogateadvertiser.co.uk/news/people/award-winning-harrogate-hotel-is-to-offer-a-brand-new-way-to-play-and-enjoy-golf-this-yorkshire-day-8758617
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:58Z'
 published: '2026-06-24T00:00:00Z'
 description: An award-winning Harrogate hotel is to launch a ‘first for Yorkshire’
   this summer with a brand new way to play and enjoy golf.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk5ZGE3MDE5LTBlYmMtNGY1Mi05Nzc1LTUzZDQxOTNkNTQ2OTo2YzlkMTVjMS1mZDBkLTQyZjQtYTlmZC0wMjk3MjQ1MGRiZmE=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk5ZGE3MDE5LTBlYmMtNGY1Mi05Nzc1LTUzZDQxOTNkNTQ2OTo2YzlkMTVjMS1mZDBkLTQyZjQtYTlmZC0wMjk3MjQ1MGRiZmE=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
 ---
 
 # Award-winning Harrogate hotel is to offer a 'brand new way to play and enjoy golf' this Yorkshire Day

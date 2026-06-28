@@ -3,11 +3,11 @@ title: Amber heat warning issued for North Yorkshire
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/amber-heat-warning-issued-for-north-yorkshire1/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:59Z'
+scraped_at: '2026-06-28T15:36:39Z'
 published: '2026-06-23T00:00:00Z'
 description: The Met Office has issued an amber warning for extreme heat covering
   North Yorkshire, with the alert running from Wednesday night through Thursday.
-thumbnail: https://mmo.aiircdn.com/409/6a3a3bd34e7f471b0e8.jpg
+image: https://mmo.aiircdn.com/409/6a3a3bd34e7f471b0e8.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3a3bd34e7f471b0e8.jpg) 

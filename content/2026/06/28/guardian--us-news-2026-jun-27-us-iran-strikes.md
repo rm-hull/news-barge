@@ -3,11 +3,12 @@ title: US says it struck targets in Iran over ‘continued aggression’ against
 source_url: https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T04:46:06Z'
-published: '2026-06-28T00:00:00Z'
-description: Strikes come after retaliatory attacks on Friday following a drone strike
+scraped_at: "2026-06-28T04:46:06Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Strikes come after retaliatory attacks on Friday following a drone strike
   on cargo ship in strait of Hormuz
-thumbnail: https://i.guim.co.uk/img/media/7fd59a006d663d87b170b8963e1748fc05984884/1031_0_5304_4243/master/5304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11010dade369f92a16249a7b8636d55a
+image: https://i.guim.co.uk/img/media/7fd59a006d663d87b170b8963e1748fc05984884/1031_0_5304_4243/master/5304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11010dade369f92a16249a7b8636d55a
 ---
 
 The US military has launched further strikes on multiple targets in Iran, a day after it struck Iran in retaliation for a drone attack on a cargo ship in the strait of Hormuz.

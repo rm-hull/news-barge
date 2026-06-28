@@ -4,11 +4,11 @@ title: Education’s national ‘Oscars’ shine a spotlight on Harrogate school
 source_url: https://www.harrogateadvertiser.co.uk/news/people/educations-national-oscars-shine-a-spotlight-on-harrogate-school-and-its-remarkable-headteacher-8759045
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:58Z'
 published: '2026-06-24T00:00:00Z'
 description: A Harrogate headteacher has spoken of her pride in representing the North
   on the national stage in the education sector’s ‘Oscars’.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI4ZTU3OGM5LWMyZTYtNDdlNC04Y2ZlLWFmN2Y5YzJlZjA1MDpjMjBiMzE5Yi1lYTA3LTQwNzUtYjgzOC03NzExYzYxNjZmMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI4ZTU3OGM5LWMyZTYtNDdlNC04Y2ZlLWFmN2Y5YzJlZjA1MDpjMjBiMzE5Yi1lYTA3LTQwNzUtYjgzOC03NzExYzYxNjZmMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Education’s national ‘Oscars’ shine a spotlight on Harrogate school and its remarkable headteacher

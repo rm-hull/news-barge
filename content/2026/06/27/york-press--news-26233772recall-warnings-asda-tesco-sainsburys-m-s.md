@@ -1,16 +1,17 @@
 ---
-title: '''Do not eat'' warnings to shoppers at Asda, Tesco, Sainsbury’s, M&S and more'
+title: "'Do not eat' warnings to shoppers at Asda, Tesco, Sainsbury’s, M&S and more"
 source_url: https://www.yorkpress.co.uk/news/26233772.recall-warnings-asda-tesco-sainsburys-m-s/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:19Z'
-published: '2026-06-27T00:00:00Z'
-description: The Food Standards Agency has issued several “do not eat” notices affecting
+scraped_at: "2026-06-27T21:38:19Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  The Food Standards Agency has issued several “do not eat” notices affecting
   items stocked across major supermarkets.
-thumbnail: https://www.yorkpress.co.uk/resources/images/20538552.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/20538552.jpg?type=og-image
 ---
 
-*(Image: Getty Images/iStockphoto)*
+_(Image: Getty Images/iStockphoto)_
 
 Shoppers at Asda, Tesco, Sainsbury’s, Marks and Spencer, Waitrose and Morrisons are being urged to check their cupboards following a series of food safety alerts.
 
@@ -21,7 +22,6 @@ The Food Standards Agency has issued several “do not eat” notices affecting 
 Customers who may have purchased affected products are being advised not to consume them.
 
 Officials say anyone who has bought the products should follow recall guidance, which may include returning items for a refund or disposing of them safely.
-
 
 ## Morrisons recall
 
@@ -36,7 +36,6 @@ The affected packets have a use by date of June 30 and a batch code of GBB 584 0
 Morrisons recalls Morrisons Coronation Chicken Pasta because of undeclared milk #FoodAllergy[https://t.co/kaN5cQH1vz](https://t.co/kaN5cQH1vz) pic.twitter.com/QjWvkNHyY7
 
 — Food Standards Agency (@foodgov) June 25, 2026
-
 
 A spokesman for the Food Standards Agency (FSA) said: “Morrisons is recalling the above product from customers and has been advised to contact the relevant allergy support organisations, which will tell their members about the recall.
 
@@ -60,10 +59,7 @@ Symptoms caused by Salmonella usually include fever, diarrhoea and abdominal cra
 
 Tuesday 23 June 2026 - Prepworld recalls fruit products because of possible contamination with Salmonella: [https://t.co/BfvJZChOcQ](https://t.co/BfvJZChOcQ)
 
-
-
 Products are prepped fruit sold at ASDA, Morrisons, M&S, Sainsbury's, Tesco, and Waitrose.#FoodAlert pic.twitter.com/FGZhPDlgO5— Food Standards Agency (@foodgov) June 23, 2026
-
 
 These are the products affected by the recall, where they are sold, and their use-by date.
 
@@ -105,7 +101,6 @@ Thursday 28th May - Fox’s Burton’s Companies (FBC) UK recalls Arran Fine Foo
 
 — Food Standards Agency (@foodgov) May 28, 2026
 
-
 The recall several batches that shoppers may have purchased.
 
 These are:
@@ -126,7 +121,6 @@ These are:
 - 1.35kg pack best before August 17, 2027
 
 Fox’s Burton’s Companies (FBC) UK has said the affected products may contain pieces of metal, which makes the product unsafe to eat.
-
 
 Those who have already purchased the condiment have been urged to return the product.
 
@@ -152,7 +146,6 @@ Tuesday 26 May 2026. Morrisons recalls Morrisons Savers Cashews because of the p
 
 — Food Standards Agency (@foodgov) May 26, 2026
 
-
 “Point of sale notices will be displayed in all retail stores that are selling it. These notices explain to customers why the product is being recalled and tell them what to do if they have bought it.
 
 “If you have bought the above product do not consume it. Instead, return it to the nearest store for a full refund.”
@@ -173,7 +166,6 @@ The affected product has a lot number of 126135 and a best before date of June 3
 
 A spokesman for the Food Standards Agency (FSA) said: “Gü is recalling the above product from customers and has been advised to contact the relevant allergy support organisations, which will tell their members about the recall.
 
-
 “These notices explain to customers why the product is being recalled and tell them what to do if they have bought the product.
 
 “If you have bought the above product and have an allergy to hazelnuts (nuts) and/or soya do not eat it. Instead return it to the store from where it was bought for a full refund.
@@ -186,8 +178,9 @@ A Gü spokesman added: “The issue is limited to a very small number of product
 
 “We believe the majority of consumers who purchased the affected products will already have been contacted or notified.”
 
-## 
-  **What is a product recall?**
+##
+
+**What is a product recall?**
 
 If there is a problem with a food product that means it should not be sold, then it might be 'withdrawn' (taken off the shelves) or 'recalled' (when customers are asked to return the product).
 

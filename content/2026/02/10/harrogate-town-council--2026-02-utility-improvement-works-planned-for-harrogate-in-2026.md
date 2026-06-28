@@ -3,14 +3,14 @@ title: Utility Improvement Works Planned for Harrogate in 2026 - Harrogate Town 
 source_url: https://harrogatetowncouncil.gov.uk/2026/02/utility-improvement-works-planned-for-harrogate-in-2026/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-02-10T00:00:00Z'
 description: Harrogate Town Council has been notified by North Yorkshire Council of
   a number of upcoming utility improvement schemes scheduled to take place across
   Harrogate’s highway network throughout 2026. As Harrogate continues to experience
   increased demand on its road infrastructure, North Yorkshire Council’s Highways
   Team is working closely with utility providers to coordinate planned works and […]
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
 ---
 
 Harrogate Town Council has been notified by North Yorkshire Council of a number of upcoming utility improvement schemes scheduled to take place across Harrogate’s highway network throughout 2026.

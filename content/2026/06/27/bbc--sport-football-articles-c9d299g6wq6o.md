@@ -3,11 +3,12 @@ title: Chelsea in talks to sign Sunderland's Granit Xhaka
 source_url: https://www.bbc.co.uk/sport/football/articles/c9d299g6wq6o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:51Z'
-published: '2026-06-27T00:00:00Z'
-description: Sunderland say experienced midfielder Granit Xhaka is not for sale amid
+scraped_at: "2026-06-27T21:23:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Sunderland say experienced midfielder Granit Xhaka is not for sale amid
   reports Chelsea have entered talks over a move.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e354/live/49eb5830-724b-11f1-899c-07e9a6b85769.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e354/live/49eb5830-724b-11f1-899c-07e9a6b85769.jpg
 ---
 
 ![Granit Xhaka does a double fist pump celebrating a Sunderland win](https://ichef.bbci.co.uk/ace/standard/846/cpsprodpb/e354/live/49eb5830-724b-11f1-899c-07e9a6b85769.jpg)
@@ -16,7 +17,7 @@ Xhaka played 34 times as Sunderland finished seventh in the Premier League last 
 
 - Published
 
-**Sunderland****say experienced midfielder Granit Xhaka is not for sale after it emerged****Chelsea****have entered talks with the player's camp over a potential move.**
+**Sunderland\*\***say experienced midfielder Granit Xhaka is not for sale after it emerged\***\*Chelsea\*\***have entered talks with the player's camp over a potential move.\*\*
 
 The Switzerland international, 33, who is under contract until 2028, played a key role in helping the Black Cats qualify for Europe last season.
 

@@ -3,11 +3,12 @@ title: Are festivals leaving neurodivergent fans behind? Some think so
 source_url: https://www.bbc.co.uk/news/articles/cgl3ew1j64go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:46Z'
-published: '2026-06-26T00:00:00Z'
-description: Some festivals are rolling out calm spaces and noise-cancelling headphones,
+scraped_at: "2026-06-27T21:23:46Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  Some festivals are rolling out calm spaces and noise-cancelling headphones,
   but there are calls to go further.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e8/live/6c3122f0-6ffb-11f1-8403-496d85cbebac.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e8/live/6c3122f0-6ffb-11f1-8403-496d85cbebac.jpg
 ---
 
 ![A woman and a man stand illuminated by sun in front of a festival stage, with a large crowd watching the stage.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/b2e8/live/6c3122f0-6ffb-11f1-8403-496d85cbebac.jpg)
@@ -111,7 +112,7 @@ He agrees quiet spaces and sensory tents have had "a massive impact" on the fest
 "There's not really a lot of excuses for festivals not getting the basics right because the information is all out there and it's quite easy to find," he adds.
 
 - Published20 August 2025
- ![A composite image showing our three young case studies for this story - Paddy, Lotte and Stefano - who are shown in head and shoulders shots next to each other in black and white. Against a black background behind them is a pattern of blue and orange shapes, with roughly drawn orange, blue and white lines in the foreground.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a0a0/live/3f890900-7c3d-11f0-82b7-b3be03606fb7.png) 
-![Colourful cogs in silhouettes of peoples heads.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ae63/live/6365f0d0-0344-11f0-b50e-9d086302645f.jpg) 
-![Festival goers at Boardmasters in Cornwall](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c86e/live/3bf51940-34cb-11f1-b1bc-6552e008ea48.jpg) 
-![Glastonbury crowd at sunset](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6a8b/live/43500f60-5aa5-11f1-b277-cd187c78657d.jpg)
+  ![A composite image showing our three young case studies for this story - Paddy, Lotte and Stefano - who are shown in head and shoulders shots next to each other in black and white. Against a black background behind them is a pattern of blue and orange shapes, with roughly drawn orange, blue and white lines in the foreground.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a0a0/live/3f890900-7c3d-11f0-82b7-b3be03606fb7.png)
+  ![Colourful cogs in silhouettes of peoples heads.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ae63/live/6365f0d0-0344-11f0-b50e-9d086302645f.jpg)
+  ![Festival goers at Boardmasters in Cornwall](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c86e/live/3bf51940-34cb-11f1-b1bc-6552e008ea48.jpg)
+  ![Glastonbury crowd at sunset](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6a8b/live/43500f60-5aa5-11f1-b277-cd187c78657d.jpg)

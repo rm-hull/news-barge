@@ -3,11 +3,11 @@ title: Crime
 source_url: https://www.harrogateadvertiser.co.uk/news/crime
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:20Z'
+scraped_at: '2026-06-28T15:35:51Z'
 published: '2026-06-24T00:00:00Z'
 description: Get all of the latest Crime news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
-thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
 ![Adam William Snowdon, 34, from Harrogate, is wanted after York Magistrates’ Court issued a warrant for his arrest when he failed to appear at court in connection with the breach of a restraining order](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmEzNGJiZmE1LTJkMmMtNGY5Mi05NDYwLWU4ZDg0ZTllMzI2NTpmNDIwMTQ5ZS02NzdiLTQxNGUtYjk4NC0yZjM4MWY0NTM3MWE=.png?crop=5:4,smart&trim=&quality=70&width=586)

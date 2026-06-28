@@ -4,12 +4,12 @@ title: 'Have your say: help shape Harrogate’s town investment plan - Harrogate
 source_url: https://harrogatetowncouncil.gov.uk/2025/11/have-your-say-help-shape-harrogates-town-investment-plan/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-11-25T00:00:00Z'
 description: North Yorkshire Council has launched a major programme of community engagement
   to help shape a new Town Investment Plan (TIP) for Harrogate — and residents, businesses
   and community groups are invited to get involved.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/AdobeStock_583897267-web.jpeg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/AdobeStock_583897267-web.jpeg
 ---
 
 ## Take part in the Harrogate Town Investment Plan (TIP) survey

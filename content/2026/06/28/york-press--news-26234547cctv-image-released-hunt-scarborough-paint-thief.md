@@ -3,11 +3,11 @@ title: Police hunting paint thief release CCTV of man they want to speak to
 source_url: https://www.yorkpress.co.uk/news/26234547.cctv-image-released-hunt-scarborough-paint-thief/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:12Z'
+scraped_at: '2026-06-28T15:37:55Z'
 published: '2026-06-28T00:00:00Z'
 description: Police hunting a paint thief have released a picture of the man they
   want to speak to.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21110178.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21110178.jpg?type=og-image
 ---
 
 *(Image: North Yorkshire Police)*

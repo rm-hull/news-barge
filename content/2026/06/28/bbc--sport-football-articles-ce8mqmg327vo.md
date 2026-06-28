@@ -3,11 +3,12 @@ title: New deal, new beginnings & a sudden exit - Steve Clarke's Scotland timeli
 source_url: https://www.bbc.co.uk/sport/football/articles/ce8mqmg327vo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:16Z'
-published: '2026-06-28T00:00:00Z'
-description: BBC Scotland charts the trajectory of Steve Clarke's last month as Scotland
+scraped_at: "2026-06-28T09:34:16Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  BBC Scotland charts the trajectory of Steve Clarke's last month as Scotland
   head coach.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d081/live/2fc61c90-72ac-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d081/live/2fc61c90-72ac-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Steve Clarke at Boston Stadium](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d081/live/2fc61c90-72ac-11f1-8546-8f19e4fe30f4.jpg)
@@ -88,11 +89,11 @@ The former forward put a real emphasis on the pre-tournament preparations and th
 
 **19 June** - Scotland concede within the first two minutes of their match with Morocco and despite improving in the second half, they taste defeat. Afterwards Clarke receives some criticism after a tense off-pitch interview saying: "I don't even know why we do these interviews."
 
-**23 June** - Speaking before the Brazil match, Clarke joked of returning to the Azteca Stadium in the last 32 - a place where he once scored as a player at the World Youth Championships in 1983. 
+**23 June** - Speaking before the Brazil match, Clarke joked of returning to the Azteca Stadium in the last 32 - a place where he once scored as a player at the World Youth Championships in 1983.
 
 "If we have to go to Mexico to play Mexico, we'll be happy because it will mean we qualified. We'll be very happy to have the chance to go."
 
-**24 June** - Scotland crash to a 3-0 defeat against Brazil in Miami leaving their chance of reaching the knockout stages for the first time in tatters. 
+**24 June** - Scotland crash to a 3-0 defeat against Brazil in Miami leaving their chance of reaching the knockout stages for the first time in tatters.
 
 Post-match Clarke comes under more scrutiny for his approach in his post-match interviews. After another short, tense exchange where he appears to walk off, he tells the media later, "for sure we are going home".
 
@@ -100,7 +101,7 @@ Such negativity floors the fanbase, when the Scots still had a 42% chance of cre
 
 **25-26 June:**As that percentage plummets, so does the access doors to the squad. Nobody speaks to the media while the nation is in limbo.
 
-**27/28 June** - Just before midnight in the UK, Scotland's fate is sealed as Croatia beat Ghana to confirm their exit from the tournament as one of the lowest-ranked third-place teams. 
+**27/28 June** - Just before midnight in the UK, Scotland's fate is sealed as Croatia beat Ghana to confirm their exit from the tournament as one of the lowest-ranked third-place teams.
 
 Thirty-two minutes later, it is announced Clarke has resigned as Scotland head coach penning a 1,000-word letter to the nation saying his overwhelming emotion was "pride, closely followed by satisfaction" and witnessing "the reconnection of our national team and fans".
 

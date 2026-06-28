@@ -3,11 +3,11 @@ title: Plaque unveiled in Harrogate honouring cyclist Beryl Burton
 source_url: https://www.bbc.co.uk/news/articles/c992m355y2jo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:59Z'
+scraped_at: '2026-06-28T15:37:22Z'
 published: '2026-06-22T00:00:00Z'
 description: Beryl Burton OBE won seven world titles and also held a 12-hour time
   trial record for 50 years.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f10/live/ffec14e0-6e35-11f1-9fdc-51e252bb92b4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f10/live/ffec14e0-6e35-11f1-9fdc-51e252bb92b4.jpg
 ---
 
 ![A black-and-white image shows a cyclist riding a track bike on a velodrome.

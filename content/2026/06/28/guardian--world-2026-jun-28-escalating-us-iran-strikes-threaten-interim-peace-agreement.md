@@ -3,11 +3,11 @@ title: Escalating US-Iran strikes threaten interim peace agreement
 source_url: https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:46Z'
+scraped_at: '2026-06-28T15:35:39Z'
 published: '2026-06-28T00:00:00Z'
 description: Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz
   without Iran’s direct oversight
-thumbnail: https://i.guim.co.uk/img/media/9a40a6b59fce8154422728b51e1fe453763ac034/531_0_5310_4248/master/5310.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=445462aea19f1153cc319f4ad730e98f
+image: https://i.guim.co.uk/img/media/9a40a6b59fce8154422728b51e1fe453763ac034/531_0_5310_4248/master/5310.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=445462aea19f1153cc319f4ad730e98f
 ---
 
 A new round of escalating strikes between Iran and the US has continued, further undermining the fragile interim peace agreement between the two countries, and prompting Donald Trump to threaten violence that would ensure Iran “will no longer exist”.
@@ -16,13 +16,15 @@ On Sunday, Tehran launched drone and missile attacks against Bahrain and Kuwait 
 
 The US president posted on social media: “If that happens, the Islamic Republic of Iran will no longer exist!”
 
-Kuwait, which hosts a major US army base, said it had intercepted two ballistic missiles and there were no reports of injuries or damage; while Bahrain’s interior ministry said the Iranian strikes had damaged a residential building near the international airport and no one was killed.
+Kuwait, which hosts a major US army base, said it had intercepted two ballistic missiles and that there were no reports of injuries or damage, while Bahrain’s interior ministry said the Iranian strikes had damaged a residential building near the international airport and that no one had been killed.
+
+![Workers in the rubble of a damaged building](https://i.guim.co.uk/img/media/268cc1b6be0a1ea3ec219da63c6990e9030dc900/0_0_1600_1200/master/1600.jpg?width=445&dpr=1&s=none&crop=none)
 
 The latest violence has been triggered by efforts to reopen the strait of Hormuz to all shipping without Iran’s direct oversight. The strategically critical waterway, which carried a fifth of the world’s oil and liquid gas supplies before the war, has long been considered an international passageway.
 
 US Central Command said in a statement that its strikes were “in direct response to continued Iranian aggression against commercial shipping” and targeted Iranian military surveillance, communications, air defence, drone storage and mine-laying facilities.
 
-Washington has been promoting a southern lane along the coast of Oman; while Tehran, which ultimately aims to charge fees for use of the strait, wants ships to use a northern route through its waters and under its control.
+Washington has been promoting a southern lane along the coast of Oman, while Tehran, which ultimately aims to charge fees for use of the strait, wants ships to use a northern route through its waters and under its control.
 
 Hundreds of vessels, including tankers laden with oil, have been blockaded inside the Gulf by the closure of the strait since war broke out. Some have chanced the passage through the past two weeks, leading oil prices to drop to close to prewar levels and bringing relief to economies around the world.
 
@@ -32,7 +34,9 @@ A Singapore-flagged container ship was struck by an Iranian drone while transiti
 
 Abbas Araghchi, Iran’s foreign minister, restated Tehran’s claim to sole control of the waterway during a state visit to Iraq on Sunday. He said in Baghdad: “Any interference in this matter, any attempt to establish new or separate arrangements from those currently being carried out by the Islamic Republic of Iran, will only lead to further complications, delay the reopening of the strait of Hormuz, and increase the level of tension.”
 
-Observers say Iran is using its ability to threaten shipping in the strait as leverage not just in negotiations with the US but to intimidate neighbouring countries and establish a more dominant role in the region.
+![Araghchi speaking during a joint press conference in Baghdad.](https://i.guim.co.uk/img/media/9d1fce9e9de9a8376b986358f9dd8db2e9588347/0_0_6720_4480/master/6720.jpg?width=445&dpr=1&s=none&crop=none)
+
+Observers say Iran is using its ability to threaten shipping in the strait not just as leverage in negotiations with the US, but to intimidate neighbouring countries and establish a more dominant role in the region.
 
 Aragchi also called for the establishment of a security framework with Gulf countries that would exclude the US. He said: “We should reach a new framework that includes all countries in the region and without the presence or interference of any country from outside the region.”
 
@@ -42,6 +46,8 @@ Leaders in Tehran and Washington face domestic political pressures to avoid a re
 
 The Islamic Revolutionary Guard Corps claimed responsibility for both new attacks on Sunday. It said: “Let the enemy know that violating the ceasefire … will lead to a complete halt of ongoing processes.”
 
+![Oil tankers sailing off the coast of Kuwait on Saturday.](https://i.guim.co.uk/img/media/030135c9f308b9653f02b11900106da7dd53a14f/0_0_2917_2334/master/2917.jpg?width=445&dpr=1&s=none&crop=none)
+
 The IRGC, which controls Iran’s ballistic missile arsenal, has gained influence in Iran in recent months. Its navy command said American bases in the region would “experience hell in the coming days”.
 
 Bahrain’s foreign ministry denounced the attacks, which it called “a dangerous escalation that reveals that what Tehran is doing is not a passing act, nor an isolated incident, but rather a deliberate approach and a systematic pattern of repeated aggression against the sovereignty of the kingdom, and the security of its citizens and residents”.
@@ -49,6 +55,8 @@ Bahrain’s foreign ministry denounced the attacks, which it called “a dangero
 Bahrain is home to the US navy’s 5th Fleet, whose base there came under repeated attack during the war.
 
 Violence has also continued in Lebanon, further threatening the agreement between Iran and the US to end their own conflict.
+
+![An Israeli military vehicle travelling past destroyed buildings in southern Lebanon on Sunday.](https://i.guim.co.uk/img/media/5af18d6641a3050b7140daf369c910b7f6682cf1/0_0_5043_3362/master/5043.jpg?width=445&dpr=1&s=none&crop=none)
 
 Israeli military officials said a soldier had been killed on Sunday when soldiers encountered a “Hezbollah terrorist after entering a suspicious structure in the area of Deir Seryan in southern Lebanon”.
 

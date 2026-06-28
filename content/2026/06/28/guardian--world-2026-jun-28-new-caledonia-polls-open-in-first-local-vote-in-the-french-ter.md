@@ -4,11 +4,11 @@ title: New Caledonia polls open in first local vote in the French territory sinc
 source_url: https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T04:46:03Z'
+scraped_at: '2026-06-28T15:35:36Z'
 published: '2026-06-28T00:00:00Z'
 description: Election will determine balance of power in New Caledonia before fresh
   negotiations with France on the territory’s status
-thumbnail: https://i.guim.co.uk/img/media/ff287614cea1553699926ca5f016ad38aeea0765/258_0_4718_3774/master/4718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d5629e958c291ff7d3777dad64d959c
+image: https://i.guim.co.uk/img/media/ff287614cea1553699926ca5f016ad38aeea0765/258_0_4718_3774/master/4718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d5629e958c291ff7d3777dad64d959c
 ---
 
 Polls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.

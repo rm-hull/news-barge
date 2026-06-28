@@ -3,12 +3,12 @@ title: Residents urged to prepare for landline switch off. - Harrogate Town Coun
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/residents-urged-to-prepare-for-landline-switch-off/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-20T00:00:00Z'
 description: Residents are being encouraged to prepare for the upcoming switch-off
   of the UK’s old copper landline network, which is due to be completed nationwide
   by January 2027.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/Untitled-design-1.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/Untitled-design-1.jpg
 ---
 
 The change, known as the PSTN switch-off, will see traditional analogue phone lines replaced with digital services delivered through broadband connections. While many households may notice little difference, the change could affect older residents, vulnerable people, and anyone using telecare devices, pendant alarms, home security systems, or other equipment connected to a landline.

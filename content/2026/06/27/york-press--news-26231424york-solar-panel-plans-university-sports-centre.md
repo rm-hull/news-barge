@@ -3,11 +3,11 @@ title: Plans for almost 200 solar panels on York building's roof
 source_url: https://www.yorkpress.co.uk/news/26231424.york-solar-panel-plans-university-sports-centre/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:23Z'
+scraped_at: '2026-06-28T15:38:37Z'
 published: '2026-06-27T00:00:00Z'
 description: Plans to install almost 200 solar panels on the roof of a York building
   have been lodged.
-thumbnail: https://www.yorkpress.co.uk/resources/images/20012512.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/20012512.jpg?type=og-image
 ---
 
 *(Image: Pexels)*

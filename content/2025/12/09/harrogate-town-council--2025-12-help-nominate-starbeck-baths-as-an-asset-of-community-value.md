@@ -4,13 +4,13 @@ title: Help Nominate Starbeck Baths as an Asset of Community Value - Harrogate T
 source_url: https://harrogatetowncouncil.gov.uk/2025/12/help-nominate-starbeck-baths-as-an-asset-of-community-value/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-12-09T00:00:00Z'
 description: Starbeck Baths has long been a cherished part of our local community
   – a place where generations have learned to swim, stayed active and connected with
   neighbours. Now, we’re taking steps to recognise its importance by applying to have
   it listed as an Asset of Community Value (ACV) – and we need your help.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.jpg
 ---
 
 ### What is an Asset of Community Value?

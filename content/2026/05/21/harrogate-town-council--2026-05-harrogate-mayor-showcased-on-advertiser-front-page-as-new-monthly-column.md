@@ -4,12 +4,12 @@ title: Harrogate Mayor Showcased on Advertiser Front Page as New Monthly Column 
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/harrogate-mayor-showcased-on-advertiser-front-page-as-new-monthly-column-begins/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-21T00:00:00Z'
 description: The Mayor of Harrogate, Councillor Viv Poskitt, has been featured on
   the front page of this week’s Harrogate Advertiser, marking a significant moment
   for the town and council.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Mayors-Advertiser-scaled.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Mayors-Advertiser-scaled.jpg
 ---
 
 The feature highlights the Mayor’s early priorities and ambitions, as well as the announcement of a new monthly column that will keep residents informed about the work of Harrogate Town Council.

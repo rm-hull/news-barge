@@ -1,13 +1,14 @@
 ---
-title: 'Tom English: Scotland''s ill-fated World Cup story finally at a sorry end'
+title: "Tom English: Scotland's ill-fated World Cup story finally at a sorry end"
 source_url: https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-27T00:00:00Z'
-description: BBC Sport Scotland's chief sportswriter Tom English sums up his verdict
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  BBC Sport Scotland's chief sportswriter Tom English sums up his verdict
   on the nation's World Cup exit.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3ee/live/5422d250-727e-11f1-96bd-63be35c265e8.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3ee/live/5422d250-727e-11f1-96bd-63be35c265e8.jpg
 ---
 
 ![Scott McTominay](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/a3ee/live/5422d250-727e-11f1-96bd-63be35c265e8.jpg)

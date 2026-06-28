@@ -3,10 +3,10 @@ title: Wellbeing day to be launched at Rudding Park this July
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/wellbeing-day-to-be-launched-at-rudding-park-this-july/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:57Z'
+scraped_at: '2026-06-28T15:36:37Z'
 published: '2026-06-23T00:00:00Z'
 description: '''Let''s Create'' is coming to life, at Rudding Park.'
-thumbnail: https://mmo.aiircdn.com/409/6a3a6e2a527947f15d5.jpg
+image: https://mmo.aiircdn.com/409/6a3a6e2a527947f15d5.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3a6e2a527947f15d5.jpg) 

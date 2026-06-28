@@ -3,10 +3,10 @@ title: Four generations take on Race for Life inspired by grandma’s cancer dia
 source_url: https://www.harrogateadvertiser.co.uk/news/people/four-generations-take-on-race-for-life-inspired-by-grandmas-cancer-diagnosis-8761723
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-28T10:33:20Z'
+scraped_at: '2026-06-28T15:35:53Z'
 published: '2026-06-28T00:00:00Z'
 description: “The event is bringing our family together”.
-thumbnail: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/25/12/20/Christine-and-Olivia-2.jfif?trim=337,0,687,0&crop=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/25/12/20/Christine-and-Olivia-2.jfif?trim=337,0,687,0&crop=&width=1200&auto=webp&quality=75
 ---
 
 # 'We want to fight on': Four generations take on Race for Life inspired by grandma’s cancer diagnosis

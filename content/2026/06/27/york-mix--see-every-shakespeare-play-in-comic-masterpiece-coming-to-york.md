@@ -3,10 +3,10 @@ title: See every Shakespeare play in 'comic masterpiece' coming to York
 source_url: https://www.yorkmix.com/see-every-shakespeare-play-in-comic-masterpiece-coming-to-york
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:14Z'
+scraped_at: '2026-06-28T15:37:26Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/Efe-Woogie-Tom.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/Efe-Woogie-Tom.webp
 ---
 
 Get ready for a rollercoaster ride through all 37 of the Bard’s plays – as *The Complete Works of William Shakespeare (abridged)* heads to York next month.

@@ -4,12 +4,12 @@ title: Harrogate Town Council takes over preparation of the Neighbourhood Plan -
 source_url: https://harrogatetowncouncil.gov.uk/2025/11/town-council-takes-on-preparation-of-neighbourhood-plan/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-11-29T00:00:00Z'
 description: Harrogate Town Plan Forum is a business and community-based organisation
   which started a Town Plan process to compliment North Yorkshire Council’s emerging
   Local Plan.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/Facebook-Images-2.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/Facebook-Images-2.png
 ---
 
 The Forum has researched a substantial amount of information about what is good and bad about the town and what should be encouraged or changed by a future Town Plan. When Harrogate Town Council was created earlier this year they became responsible for producing a Town Plan and it is now time for the Forum to ‘hand over the baton’.

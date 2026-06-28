@@ -3,11 +3,11 @@ title: The Quizzical
 source_url: https://www.yorkmix.com/the-quizzical
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:17Z'
+scraped_at: '2026-06-28T15:37:29Z'
 published: '2021-01-02T00:00:00Z'
 description: WIN with YorkMix Radio weekday mornings Make sure you don’t schedule
   a Zoom meeting at 11:30 or you’ll miss out on North Yorkshire’s daily general
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2023/01/quizzical-logo-100x750-1.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2023/01/quizzical-logo-100x750-1.jpg
 ---
 
 ## WIN with YorkMix Radio weekday mornings

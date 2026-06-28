@@ -1,13 +1,14 @@
 ---
-title: 'Newspaper headlines: ''Devolution revolution'' and ''The cost of cool'''
+title: "Newspaper headlines: 'Devolution revolution' and 'The cost of cool'"
 source_url: https://www.bbc.co.uk/news/articles/c7vymj03drno?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-28T00:00:00Z'
-description: Andy Burnham's economic policy speech next week and the record heatwave
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Andy Burnham's economic policy speech next week and the record heatwave
   dominate Sunday's papers.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc66/live/5133ec90-727a-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc66/live/5133ec90-727a-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 - Published

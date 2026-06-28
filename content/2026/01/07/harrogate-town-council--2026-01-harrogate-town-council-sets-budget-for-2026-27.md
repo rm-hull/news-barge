@@ -3,12 +3,12 @@ title: Harrogate Town Council Sets Budget for 2026/27 - Harrogate Town Council
 source_url: https://harrogatetowncouncil.gov.uk/2026/01/harrogate-town-council-sets-budget-for-2026-27/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-01-07T00:00:00Z'
 description: Harrogate Town Council has agreed its budget and council tax precept
   for 2026/27, setting out a clear and balanced plan to support the town’s priorities
   while keeping costs to residents low.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/01/Facebook-Images-2.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/01/Facebook-Images-2.jpg
 ---
 
 Established in April 2025, with its first elections held in May that year, the Town Council spent its initial year focusing on building strong foundations. The 2025/26 budget, set by North Yorkshire Council, was deliberately modest to allow the new authority time to establish its governance, vision and ways of working.

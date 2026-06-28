@@ -4,11 +4,11 @@ title: Harrogate food brand that's sold in Tesco is to host third Jobs Open Day 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-food-brand-thats-sold-in-tesco-is-to-host-third-jobs-open-day-this-weekend-8764512
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:22Z'
+scraped_at: '2026-06-28T15:35:53Z'
 published: '2026-06-26T00:00:00Z'
 description: The co-founder of a Harrogate firm that is 'Britain’s largest independent
   sausage maker' says it made 22 job offers after its recent recruitment event.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhN2VkNzQ3LWRlYjYtNDE1MC1hZDFiLTIwN2EyOGRiZDMzMzoxNjU1ZTlmMC1jYWQ4LTQ3NmItOGExNS05MmZjY2FjYTM2ODY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhN2VkNzQ3LWRlYjYtNDE1MC1hZDFiLTIwN2EyOGRiZDMzMzoxNjU1ZTlmMC1jYWQ4LTQ3NmItOGExNS05MmZjY2FjYTM2ODY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate food brand that's sold in Tesco is to host third Jobs Open Day this weekend

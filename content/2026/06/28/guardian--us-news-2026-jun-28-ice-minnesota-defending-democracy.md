@@ -3,11 +3,11 @@ title: Anti-ICE organizers shift focus to defend democracy from Trump assault
 source_url: https://www.theguardian.com/us-news/2026/jun/28/ice-minnesota-defending-democracy
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T10:33:10Z'
+scraped_at: '2026-06-28T15:35:41Z'
 published: '2026-06-28T00:00:00Z'
 description: Citizens in Minnesota using lessons learned from migrant crackdown to
   protect elections from president’s threats
-thumbnail: https://i.guim.co.uk/img/media/34e58d2436029c473302f75b63b9383f969ab4fb/689_0_7212_5768/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61d3b3d6535e150c7bc8f6ef00f2b885
+image: https://i.guim.co.uk/img/media/34e58d2436029c473302f75b63b9383f969ab4fb/689_0_7212_5768/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61d3b3d6535e150c7bc8f6ef00f2b885
 ---
 
 When thousands of immigration agents flooded Minnesota earlier this year, a loose network of neighbors sprang into action. They fed each other. They got kids to and from school safely. They tracked the surge that tore through their communities.
@@ -68,7 +68,7 @@ While the bulk of immigration agents left the state, some people have remained f
 
 In the church basement, Brauer told the crowd that they, like him, might be a “checklist person”, who wants to simply check off five tasks and then win democracy. That’s not how it works, he said. The purpose of the training is not to solve the fundamental problems of democracy, but to get organized and have a plan to respond to whatever the Trump administration throws at it.
 
-![Volunteers attend a training for Monarca](https://i.guim.co.uk/img/media/71d425cf58206768fa0ce20f6e7201d99a967f39/95_0_1920_1536/master/1920.jpg?width=445&dpr=1&s=none&crop=none)
+![Volunteers attend a training for Monarca.](https://i.guim.co.uk/img/media/71d425cf58206768fa0ce20f6e7201d99a967f39/95_0_1920_1536/master/1920.jpg?width=445&dpr=1&s=none&crop=none)
 
 The audience shared with each other what made them proud of Minnesota during the federal occupation**,** and what democracy defense meant to them. It was motivating and empowering to see people move outside their comfort zone, one attender said, even if they were nervous or scared. They would need to embrace discomfort again to defend democracy.
 

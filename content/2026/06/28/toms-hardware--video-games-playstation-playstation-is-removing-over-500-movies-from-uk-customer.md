@@ -5,10 +5,10 @@ title: PlayStation is removing over 500 movies from UK customers' accounts with 
 source_url: https://www.tomshardware.com/video-games/playstation/playstation-is-removing-over-500-movies-from-uk-customers-accounts-with-no-refunds-iconic-films-like-terminator-2-apocalypse-now-and-mulholland-drive-are-getting-deleted
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:55Z'
+scraped_at: '2026-06-28T15:38:51Z'
 published: '2026-06-28T00:00:00Z'
 description: The movies will be removed by September 1, 2026.
-thumbnail: https://cdn.mos.cms.futurecdn.net/MjcZuEfPQrcKamX4D4pHuc-1920-80.png
+image: https://cdn.mos.cms.futurecdn.net/MjcZuEfPQrcKamX4D4pHuc-1920-80.png
 ---
 
 ![PlayStation leasing program in the UK](https://cdn.mos.cms.futurecdn.net/MjcZuEfPQrcKamX4D4pHuc.png) 

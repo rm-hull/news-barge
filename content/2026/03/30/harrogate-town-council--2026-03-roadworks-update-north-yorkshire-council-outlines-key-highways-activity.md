@@ -4,14 +4,14 @@ title: 'Roadworks Update: North Yorkshire Council Outlines Key Highways Activity
 source_url: https://harrogatetowncouncil.gov.uk/2026/03/roadworks-update-north-yorkshire-council-outlines-key-highways-activity-for-spring-2026/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-03-30T00:00:00Z'
 description: We have been informed by North Yorkshire Council that it has released
   its latest update on highways coordination across Harrogate, setting out planned
   maintenance, improved communication measures, and the introduction of a new Lane
   Rental scheme for the year ahead. The information was shared with Harrogate Town
   Council and local stakeholders as part of the […]
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/03/NYC-HIGHWAYS-UPDATE.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/03/NYC-HIGHWAYS-UPDATE.jpg
 ---
 
 We have been informed by North Yorkshire Council that it has released its latest update on highways coordination across Harrogate, setting out planned maintenance, improved communication measures, and the introduction of a new Lane Rental scheme for the year ahead. The information was shared with Harrogate Town Council and local stakeholders as part of the March/April 2026 coordination briefing.

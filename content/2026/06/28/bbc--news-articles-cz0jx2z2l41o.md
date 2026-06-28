@@ -3,11 +3,11 @@ title: Why more and more women are choosing to be childfree
 source_url: https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
+scraped_at: '2026-06-28T15:35:44Z'
 published: '2026-06-28T00:00:00Z'
 description: From financial constraints to worries about the environment, women tell
   the BBC why they do not want kids.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2d7/live/f287e380-5f6a-11f1-8b8c-6d33e1d5abb6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2d7/live/f287e380-5f6a-11f1-8b8c-6d33e1d5abb6.jpg
 ---
 
 ![Jess King, a woman with long ginger hair and glasses, stands in front of a doorway. She is wearing a short-sleeved white top and has visible black tattoos at the top of her arms.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c2d7/live/f287e380-5f6a-11f1-8b8c-6d33e1d5abb6.jpg)
@@ -94,7 +94,7 @@ But despite some resistance from those around them, many told me that, in a broa
 
 Sian, a dog trainer, was brought up thinking that having children was simply "the thing you needed to do", despite not having any "real deep desire to be a mum". But at 37, she is now confident in her decision to be childfree.
 
-![Sian Lawley-Rudd, a women with long blonde-brown hair smiles while sitting on a sofa in front of a painting of flowers. She is smiling and wearing a blue t-shirt with dogs on it.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2e7c/live/c5047ef0-714e-11f1-b1db-af71d47507d6.png)
+![Sian Lawley-Rudd, a women with long blonde-brown hair smiles while sitting on a sofa in front of a painting of flowers. She is smiling and wearing a blue t-shirt with dogs on it.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/1a93/live/17fe4370-72c1-11f1-b69e-a5d636b384f8.png)
 
 Sian Lawley-Rudd, 37, worries about the impact of social media on children's lives
 

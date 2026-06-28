@@ -3,11 +3,11 @@ title: Yorkshire reacts to Keir Starmer quitting as PM
 source_url: https://www.bbc.co.uk/news/articles/ced4vwpvwp6o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:58Z'
+scraped_at: '2026-06-28T15:37:22Z'
 published: '2026-06-22T00:00:00Z'
 description: People across Yorkshire speak about what Sir Keir Starmer's resignation
   means to them.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a725/live/f1e30ea0-6e29-11f1-9fdc-51e252bb92b4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a725/live/f1e30ea0-6e29-11f1-9fdc-51e252bb92b4.jpg
 ---
 
 ![Sir Keir Starmer pictured speaking in Downing Street.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a725/live/f1e30ea0-6e29-11f1-9fdc-51e252bb92b4.jpg)

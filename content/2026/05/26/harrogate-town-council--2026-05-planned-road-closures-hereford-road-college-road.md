@@ -3,7 +3,7 @@ title: Planned Road Closures - Hereford Road & College Road - Harrogate Town Cou
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/planned-road-closures-hereford-road-college-road/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-26T00:00:00Z'
 description: 'North Yorkshire Council is the Highways Authority but we’re sharing
   their information to try and keep Harrogate residents informed. PLANNED ROAD RESTRICTION
@@ -11,7 +11,7 @@ description: 'North Yorkshire Council is the Highways Authority but we’re shar
   CP, Harrogate Description of works: Road closure for Quickline Communications Ltd
   to install telecoms cable The Restriction will be in place for a period of 3 days
   between 11th June 2026 and 13th June […]'
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Highways-One-Network.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Highways-One-Network.jpg
 ---
 
 North Yorkshire Council is the Highways Authority but we’re sharing their information to try and keep Harrogate residents informed.

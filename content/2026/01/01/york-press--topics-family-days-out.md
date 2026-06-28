@@ -3,11 +3,11 @@ title: Family Days Out news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/family-days-out/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T14:12:22Z'
+scraped_at: '2026-06-28T15:37:43Z'
 published: '2026-01-01T00:00:00Z'
 description: Family Days Out news, features and opinion in and around Press | York
   Press
-thumbnail: null
+image: null
 ---
 
 ![There are plenty of National Trust sites in and around York to visit this summer.](https://www.yorkpress.co.uk/resources/images/320x200/1x/21098228.jpg) 

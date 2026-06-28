@@ -4,11 +4,11 @@ title: Regeneration project at fire-ravaged Victorian building 'brings hope' to 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/regeneration-project-at-fire-ravaged-victorian-building-brings-hope-to-harrogate-residents-after-eight-long-years-8758345
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:58Z'
 published: '2026-06-24T00:00:00Z'
 description: Harrogate residents were surprised to see a giant crane in the skies
   above a prominent High Street site left derelict eight years ago by a major blaze.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVmOGM5NjFkLTFkMDAtNDFmNy1iYjdiLTc1MTgxZjBiYzQ1NDpmY2E4YjY0OS02NDZmLTQ5NzktOTFlMC1lMDFkOWQzMTdiZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVmOGM5NjFkLTFkMDAtNDFmNy1iYjdiLTc1MTgxZjBiYzQ1NDpmY2E4YjY0OS02NDZmLTQ5NzktOTFlMC1lMDFkOWQzMTdiZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Regeneration project at fire-ravaged Victorian building 'brings hope' to Harrogate residents after eight long years

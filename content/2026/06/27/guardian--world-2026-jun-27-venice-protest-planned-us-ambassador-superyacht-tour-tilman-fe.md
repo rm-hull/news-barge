@@ -3,11 +3,12 @@ title: Venice protest planned for US ambassador’s superyacht visit
 source_url: https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-27T00:00:00Z'
-description: Activists aim to repeat disruption for Jeff Bezos’ wedding when billionaire
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Activists aim to repeat disruption for Jeff Bezos’ wedding when billionaire
   Tilman Fertitta drops anchor
-thumbnail: https://i.guim.co.uk/img/media/9d67fac7a26a348ba25f5d4812f69e8f7b24b906/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e2a6d6936e48c66e98db14cc1ad17c6
+image: https://i.guim.co.uk/img/media/9d67fac7a26a348ba25f5d4812f69e8f7b24b906/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e2a6d6936e48c66e98db14cc1ad17c6
 ---
 
 Protesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they fear he plans to dock in the lagoon city.

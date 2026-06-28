@@ -4,12 +4,12 @@ title: Harrogate Town Council takes first step towards a greener future - Harrog
 source_url: https://harrogatetowncouncil.gov.uk/2025/08/harrogate-town-council-takes-first-step-towards-a-greener-future/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2025-08-29T00:00:00Z'
 description: Harrogate Town Council is delighted to share details of one of its first
   and most forward-thinking projects. In recent weeks, the Council was approached
   by a local resident with a strong passion for sustainable development.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/Harrogate-Heat-Network-Logo-Design.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/Harrogate-Heat-Network-Logo-Design.png
 ---
 
 Although the Town Council is still in its early stages, Members quickly recognised the potential of this initiative. They agreed that securing funding from the GB Energy Community Fund for a feasibility study would be an important first step towards a greener, more energy-efficient Harrogate. With applications to the fund assessed on a first come, first served basis, time is critical — and the Council is determined to ensure that Harrogate does not miss out on this opportunity.

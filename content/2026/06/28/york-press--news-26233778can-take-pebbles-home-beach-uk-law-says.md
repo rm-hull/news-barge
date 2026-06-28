@@ -3,11 +3,11 @@ title: Is it illegal to take pebbles from the beach? What the law says
 source_url: https://www.yorkpress.co.uk/news/26233778.can-take-pebbles-home-beach-uk-law-says/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:11Z'
+scraped_at: '2026-06-28T15:38:32Z'
 published: '2026-06-28T00:00:00Z'
 description: A warning has been issued to beachgoers that removing natural materials
   like sand and stones from beaches is illegal
-thumbnail: https://www.yorkpress.co.uk/resources/images/21106023.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21106023.jpg?type=og-image
 ---
 
 *(Image: Getty Images/iStockphoto)*

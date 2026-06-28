@@ -3,11 +3,11 @@ title: Virgin Media O2 customers urged to 'take action' as new switch-off announ
 source_url: https://www.yorkpress.co.uk/news/national/uk-today/26234379.virgin-media-o2-switch-off-2g-network-30-years/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:19Z'
+scraped_at: '2026-06-28T15:38:35Z'
 published: '2026-06-28T00:00:00Z'
 description: Virgin Media O2 has announced that it will start to switch off its 2G
   services in Summer 2029.
-thumbnail: https://www.yorkpress.co.uk/resources/images/19878357.jpg?type=og-image&xType=0&yType=53
+image: https://www.yorkpress.co.uk/resources/images/19878357.jpg?type=og-image&xType=0&yType=53
 ---
 
 *(Image: Getty Images/Virgin Media O2)*

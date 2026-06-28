@@ -3,11 +3,12 @@ title: Bad Bunny lights up London with history-making stadium show
 source_url: https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-28T00:00:00Z'
-description: Pride and a party as the Puerto Rican becomes the first Latin artist
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Pride and a party as the Puerto Rican becomes the first Latin artist
   to headline a UK stadium.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbfb/live/6d504960-727e-11f1-96bd-63be35c265e8.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbfb/live/6d504960-727e-11f1-96bd-63be35c265e8.jpg
 ---
 
 ![A huge crowd fills the Tottenham Hotspur Stadium, illuminated by stage lights. Fireworks go off from the roof. A stage is lit brightly. Behind, the big screen says Debí Tirar Más Fotos World Tour.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dbfb/live/6d504960-727e-11f1-96bd-63be35c265e8.jpg)

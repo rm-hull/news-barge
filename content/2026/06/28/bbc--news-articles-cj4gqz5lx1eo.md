@@ -3,11 +3,12 @@ title: 117 dead dogs found at 'no-kill' animal rescue - many with gunshot wounds
 source_url: https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-28T00:00:00Z'
-description: Hundreds more animals are still missing from the California facility
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Hundreds more animals are still missing from the California facility
   as investigators continue excavating the grounds.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg
 ---
 
 ![Investigators search for animal remains while executing a second search warrant at Miranda's Rescue as part of an active investigation into alleged animal cruelty, fraud and theft, in Fortuna, California.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/276f/live/8c981e90-726c-11f1-af47-e9419f280d0d.jpg)

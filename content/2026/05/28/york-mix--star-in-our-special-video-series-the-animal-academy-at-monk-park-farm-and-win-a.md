@@ -4,11 +4,11 @@ title: Star in our special video series the Animal Academy at Monk Park Farm and
 source_url: https://www.yorkmix.com/star-in-our-special-video-series-the-animal-academy-at-monk-park-farm-and-win-a-free-family-pass
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
+scraped_at: '2026-06-28T15:37:29Z'
 published: '2026-05-28T00:00:00Z'
 description: Do you know someone aged between 6 and 11 years old who just LOVES animals?
   Well….we have something VERY special that they can be selected for… YorkMix
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/monk-park-farm-animal-academy-prompt.jpg
 ---
 
 Do you know someone aged between 6 and 11 years old who just LOVES animals?

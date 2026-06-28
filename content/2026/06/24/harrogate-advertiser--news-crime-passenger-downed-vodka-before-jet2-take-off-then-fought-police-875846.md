@@ -3,10 +3,10 @@ title: Leeds passenger downed vodka then fought and bit officer before Jet2 take
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/passenger-downed-vodka-before-jet2-take-off-then-fought-police-8758464
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:58Z'
 published: '2026-06-24T00:00:00Z'
 description: He was jailed and handed lifetime ban from airline
-thumbnail: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/24/10/55/Cooper.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/06/24/10/55/Cooper.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
 ---
 
 # Brawling Leeds passenger downed vodka then fought with man and bit officer just before Jet2 flight take-off

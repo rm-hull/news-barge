@@ -3,11 +3,11 @@ title: Console Gaming
 source_url: https://www.tomshardware.com/uk/video-games/console-gaming
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:59Z'
+scraped_at: '2026-06-28T15:39:05Z'
 published: '2026-06-28T00:00:00Z'
 description: Discover more about Console Gaming with insights from the experts at
   Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 ## Latest about Console Gaming

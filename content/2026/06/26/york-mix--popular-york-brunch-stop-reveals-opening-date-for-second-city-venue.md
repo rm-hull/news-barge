@@ -3,10 +3,10 @@ title: Popular York brunch stop reveals opening date for second city venue
 source_url: https://www.yorkmix.com/popular-york-brunch-stop-reveals-opening-date-for-second-city-venue
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
-published: '2026-06-26T00:00:00Z'
-description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/rise-brunch-second-venue.webp
+scraped_at: "2026-06-27T21:32:16Z"
+published: "2026-06-26T00:00:00Z"
+description: ""
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/rise-brunch-second-venue.webp
 ---
 
 A popular brunch stop in York has announced the opening date for its second city centre location – and it’s coming very soon!

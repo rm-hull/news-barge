@@ -3,13 +3,13 @@ title: Sunshine and highs of 27C forecast across York this weekend
 source_url: https://www.yorkpress.co.uk/news/26230523.met-office-forecasts-warm-sunny-weekend-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:53Z'
-published: '2026-06-27T00:00:00Z'
+scraped_at: "2026-06-27T21:37:53Z"
+published: "2026-06-27T00:00:00Z"
 description: The Met Office has forecast a warm and sunny weekend across York.
-thumbnail: https://www.yorkpress.co.uk/resources/images/19255950.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/19255950.jpg?type=og-image
 ---
 
-*(Image: Canva)*
+_(Image: Canva)_
 
 The Met Office has forecast a warm and sunny weekend for York.
 

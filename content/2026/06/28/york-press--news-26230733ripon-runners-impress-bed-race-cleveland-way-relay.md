@@ -3,11 +3,11 @@ title: Ripon Runners complete double challenge event across busy race weekend
 source_url: https://www.yorkpress.co.uk/news/26230733.ripon-runners-impress-bed-race-cleveland-way-relay/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:47Z'
+scraped_at: '2026-06-28T15:38:09Z'
 published: '2026-06-28T00:00:00Z'
 description: Two teams from Ripon Runners completed two demanding team races in one
   action-packed weekend.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21103545.jpg?type=og-image&xType=0&yType=58
+image: https://www.yorkpress.co.uk/resources/images/21103545.jpg?type=og-image&xType=0&yType=58
 ---
 
 *(Image: Ripon Runners)*

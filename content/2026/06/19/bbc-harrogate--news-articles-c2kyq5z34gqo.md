@@ -3,15 +3,16 @@ title: Watchdog asked to review Newby and Scalby Community Hall sale
 source_url: https://www.bbc.co.uk/news/articles/c2kyq5z34gqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:06:01Z'
-published: '2026-06-19T00:00:00Z'
-description: The trust which owns the site says the sale will "benefit local people
+scraped_at: "2026-06-27T22:06:01Z"
+published: "2026-06-19T00:00:00Z"
+description:
+  The trust which owns the site says the sale will "benefit local people
   for many years to come".
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg
 ---
 
 ![The exterior of a small, single-storey community building situated in a quiet, green area. The building is constructed with cream-coloured textured walls and red brick detailing around the corners, windows, and doorways. The roof is covered with dark grey slate tiles and features multiple brick chimneys rising above it.
-On the left side of the image, a large sign is mounted on a wooden frame. The sign clearly reads: “Newby and Scalby Community Hall” and underneath it says: “Contact for Bookings and Event Hire 01723 500699".]([https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg))
+On the left side of the image, a large sign is mounted on a wooden frame. The sign clearly reads: “Newby and Scalby Community Hall” and underneath it says: “Contact for Bookings and Event Hire 01723 500699".](<[https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3089/live/f5957ca0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg)>)
 
 The Newby and Scalby Community Hall was recently listed for £300,000
 
@@ -42,7 +43,7 @@ Fellow member Freddie Drabble, 86, said the hall was "a vital community asset".
 Campaigners have already garnered support from the parish council, members of Scarborough Town Council and Alison Hume, MP for Scarborough and Whitby.
 
 ![Mullane is standing close to the camera, facing forward. She is wearing a dark quilted jacket with a visible brand name printed on the chest that reads “ENDURA”. Underneath the jacket, a striped top with red and dark horizontal stripes can be seen. A crossbody strap runs diagonally across her torso.
-She is also wearing round glasses with dark frames, and her hair is tied back.]([https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d954/live/30cb11a0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d954/live/30cb11a0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg))
+She is also wearing round glasses with dark frames, and her hair is tied back.](<[https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d954/live/30cb11a0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d954/live/30cb11a0-6b26-11f1-bd3c-dfd1c36b4ceb.jpg)>)
 
 Fiona Mullane has attended breast feeding clinics, dog training and dance classes in the hall
 

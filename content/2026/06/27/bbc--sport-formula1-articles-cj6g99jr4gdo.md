@@ -1,15 +1,17 @@
 ---
-title: 'Austrian Grand Prix 2026: George Russell''s quick thinking and ''magic lap''
-  produces unexpected pole'
+title:
+  "Austrian Grand Prix 2026: George Russell's quick thinking and 'magic lap'
+  produces unexpected pole"
 source_url: https://www.bbc.co.uk/sport/formula1/articles/cj6g99jr4gdo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:50Z'
-published: '2026-06-27T00:00:00Z'
-description: Quick thinking, experience and a "magic lap" come together to produce
+scraped_at: "2026-06-27T21:23:50Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Quick thinking, experience and a "magic lap" come together to produce
   an unexpected pole position for George Russell at the Austrian Grand Prix, writes
   Andrew Benson.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18ce/live/64e77090-7252-11f1-a7ed-d13e43fa05b7.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18ce/live/64e77090-7252-11f1-a7ed-d13e43fa05b7.jpg
 ---
 
 ![George Russell celebrates after claiming pole position in Austria](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/18ce/live/64e77090-7252-11f1-a7ed-d13e43fa05b7.jpg)

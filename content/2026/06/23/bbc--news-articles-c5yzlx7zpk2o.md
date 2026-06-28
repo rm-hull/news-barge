@@ -1,13 +1,14 @@
 ---
-title: '''I''m 98 but I still do my 40 press-ups every day'''
+title: "'I'm 98 but I still do my 40 press-ups every day'"
 source_url: https://www.bbc.co.uk/news/articles/c5yzlx7zpk2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:48Z'
-published: '2026-06-23T00:00:00Z'
-description: Bill Kober, who lives in Woodbridge, is proving that age is just a number...
+scraped_at: "2026-06-27T21:23:48Z"
+published: "2026-06-23T00:00:00Z"
+description:
+  Bill Kober, who lives in Woodbridge, is proving that age is just a number...
   one press-up at a time.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b9c/live/6b3fa8e0-6e4c-11f1-a347-e763b04aee4e.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b9c/live/6b3fa8e0-6e4c-11f1-a347-e763b04aee4e.png
 ---
 
 BBC Suffolk reporter George King challenged the veteran press-upperer who is three times older

@@ -3,12 +3,12 @@ title: Harrogate Town Council Leads Community In Remembrance - Harrogate Town Co
 source_url: https://harrogatetowncouncil.gov.uk/2025/11/harrogate-town-council-leads-community-in-remembrance/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-11-10T00:00:00Z'
 description: Harrogate Town Council proudly led the town’s Remembrance Sunday commemorations
   on 9 November 2025, bringing together residents, veterans, youth groups and civic
   representatives to honour those who have given their lives in service to their country.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/DSB07990-web.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/DSB07990-web.jpg
 ---
 
 The morning’s proceedings were coordinated by Harrogate Town Council, beginning with the annual parade and service of remembrance at the Harrogate War Memorial, followed by wreath-laying ceremonies at Stonefall Cemetery and the Starbeck Community Remembrance Service.

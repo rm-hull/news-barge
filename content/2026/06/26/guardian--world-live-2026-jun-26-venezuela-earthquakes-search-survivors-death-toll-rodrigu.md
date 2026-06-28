@@ -1,14 +1,16 @@
 ---
-title: 'Venezuela earthquakes: 589 confirmed dead so far as international rescue teams
-  arrive – as it happened'
+title:
+  "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams
+  arrive – as it happened"
 source_url: https://www.theguardian.com/world/live/2026/jun/26/venezuela-earthquakes-search-survivors-death-toll-rodriguez-rubio-latest-news-updates
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
-published: '2026-06-26T00:00:00Z'
-description: “We hope to rescue as many living people as possible’, says the acting
+scraped_at: "2026-06-27T21:28:23Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  “We hope to rescue as many living people as possible’, says the acting
   president, Delcy Rodríguez, but authorities fear the death toll will be in the thousands
-thumbnail: https://i.guim.co.uk/img/media/f30f0d1322a9d41d204ddcb47c7882673de4e552/328_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbfde5ecbab09bd2da0bf71421db6968
+image: https://i.guim.co.uk/img/media/f30f0d1322a9d41d204ddcb47c7882673de4e552/328_0_4920_3936/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fbfde5ecbab09bd2da0bf71421db6968
 ---
 
 Number of people killed in Venezuela earthquakes rises to 589

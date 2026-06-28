@@ -3,11 +3,11 @@ title: 'Women''s T20 Blast: Warwickshire stun Surrey as Hampshire move top of ta
 source_url: https://www.bbc.co.uk/sport/cricket/articles/c8921xk7zyxo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:19Z'
 published: '2026-06-26T00:00:00Z'
 description: Warwickshire provide arguably the shock of this season's Women's T20
   Blast as they move off bottom spot by beating high-flying Surrey.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ebdf/live/55e192d0-718d-11f1-b32d-379da24cff6f.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ebdf/live/55e192d0-718d-11f1-b32d-379da24cff6f.jpg
 ---
 
 ![Warwickshire's Abbey Freeborn plays a shot](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/ebdf/live/55e192d0-718d-11f1-b32d-379da24cff6f.jpg)

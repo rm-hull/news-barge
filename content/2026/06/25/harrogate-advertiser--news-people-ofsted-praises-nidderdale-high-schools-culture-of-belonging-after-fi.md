@@ -4,12 +4,12 @@ title: Ofsted praises Nidderdale High School's 'culture of belonging' after firs
 source_url: https://www.harrogateadvertiser.co.uk/news/people/ofsted-praises-nidderdale-high-schools-culture-of-belonging-after-first-inspection-under-governments-new-rules-8762463
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:23Z'
+scraped_at: '2026-06-28T15:35:55Z'
 published: '2026-06-25T00:00:00Z'
 description: Nidderdale High School is celebrating a positive Ofsted inspection report
   under the Government’s new system which recognises the school's “strong commitment
   to ensuring every child feels valued, supported and able to succeed”.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2ZjcyZDUxLWQyMDQtNDE5Ny04ODYxLTZkM2RlMjMyYTIyYjozMzNkM2ZlZi0wNGY2LTRjODItYTJjNC04OTlkNmI5NmY3ZWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2ZjcyZDUxLWQyMDQtNDE5Ny04ODYxLTZkM2RlMjMyYTIyYjozMzNkM2ZlZi0wNGY2LTRjODItYTJjNC04OTlkNmI5NmY3ZWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Ofsted praises Nidderdale High School's 'culture of belonging' after first inspection under Government's new rules

@@ -3,10 +3,10 @@ title: Opticians in Ripon support pride event with £500 donation
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/opticians-in-ripon-support-pride-event-with-500-donation/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:43Z'
+scraped_at: '2026-06-28T15:36:21Z'
 published: '2026-06-25T00:00:00Z'
 description: Specsavers in Ripon supported last weekend's pride event.
-thumbnail: https://mmo.aiircdn.com/409/67fe29c28fd61.jpg
+image: https://mmo.aiircdn.com/409/67fe29c28fd61.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/67fe29c28fd61.jpg) 

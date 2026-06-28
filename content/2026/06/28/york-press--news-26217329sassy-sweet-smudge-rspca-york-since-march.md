@@ -3,11 +3,11 @@ title: Meet York's 'sassy but sweet' rescue cat Smudge who is looking for loving
 source_url: https://www.yorkpress.co.uk/news/26217329.sassy-sweet-smudge-rspca-york-since-march/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:29Z'
+scraped_at: '2026-06-28T15:38:00Z'
 published: '2026-06-28T00:00:00Z'
 description: A 'sweet but sassy’ York cat is looking for a calm and loving home after
   finding rescue life overwhelming.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21084288.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21084288.jpg?type=og-image
 ---
 
 ## Meet York's 'sassy but sweet' rescue cat Smudge who is looking for loving home

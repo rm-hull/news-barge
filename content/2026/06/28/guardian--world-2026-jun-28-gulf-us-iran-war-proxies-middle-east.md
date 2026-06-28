@@ -1,13 +1,14 @@
 ---
-title: Gulf shares concerns with US as Iran’s influence and power continue by proxy
+title: 'Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle
+  East instability'
 source_url: https://www.theguardian.com/world/2026/jun/28/gulf-us-iran-war-proxies-middle-east
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:11Z'
+scraped_at: '2026-06-28T15:35:39Z'
 published: '2026-06-28T00:00:00Z'
-description: Analysts and western leaders believe Iran will increase support of militia
-  groups despite deal between US and Iran
-thumbnail: https://i.guim.co.uk/img/media/b1092fcab0663dbf143173f9a9f7731fbecf1dee/161_0_3453_2763/master/3453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a0c7dbda9b02949899bd3357fa95a4b
+description: Across region there is a push to disarm militia and reinforce state authority
+  but the temptation to use proxies remains
+image: https://i.guim.co.uk/img/media/29db3b71f989120c693d9fd6d4c759ab362be524/759_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca52d01fbb3c5603a946a5069654bc21
 ---
 
 As Marco Rubio ended his brief visit to the Middle East on Friday, he sought to cast in the best possible light his discussions with leaders of the Gulf states. Those leaders are deeply anxious that the deal agreed earlier this month between Iran and the US fails to address their worries about continued Iranian efforts to project power and influence throughout the region.
@@ -17,6 +18,8 @@ As Marco Rubio ended his brief visit to the Middle East on Friday, he sought to 
 But analysts and western security officials believe Iran is likely to increase its support for such groups after the conflict, which confirmed much of Tehran’s existing strategic thinking.
 
 The activities of irregular fighters funded and armed by Israel and, to a lesser extent, the US too, is also likely to intensify, they say.
+
+![Screengrab of the head of an anti-Hamas faction, Hussam al-Astal firing a weapon in an Israeli-held area in Khan Younis on November 21, 2025](https://i.guim.co.uk/img/media/04265b224fc098a82c4faeab909f86073af6aed0/271_79_1976_1581/master/1976.jpg?width=445&dpr=1&s=none&crop=none)
 
 Hezbollah remains the mainstay of Iran’s coalition of allied groups and proxies around the Middle East, despite suffering badly in prolonged clashes with Israel in 2024 and 2025. The militant Islamist organisation also manifestly failed in its primary strategic role for Iran: to deter an Israeli direct strike.
 
@@ -43,6 +46,8 @@ At the very beginning of the conflict with Iran in January, US and Israel had so
 Likewise, neither was the US-Israeli strategy with Kurdish factions based in northern Iraq successful despite their historical ties with both countries.
 
 Former senior Kurdish and US military officials said that a longstanding US plan in the event of war called for several thousands of lightly armed Kurdish fighters to cross into north-west Iran accompanied by US special forces. Protected by US and Israeli air power, these fighters would then advance as far and as fast as possible, aiming to destabilise the regime in Tehran and spark uprisings elsewhere. Iran’s conventional military and paramilitary forces were expected to defend against the advancing Kurds, which would expose them to devastating air raids.
+
+![The shadow of a Kurdish fighter, a member of The Organization of Iranian Kurdistan Struggle (Sazmani Khabat) on a wall of a damaged building, following an Iranian drone attack to their base near Erbil, in Iraq’s northern autonomous Kurdish region on March 9, 2026.](https://i.guim.co.uk/img/media/e7d7a0a3b6287adcecea3d11d6d1d6f964a8e4d8/0_0_8064_5376/master/8064.jpg?width=445&dpr=1&s=none&crop=none)
 
 Those with direct knowledge of the plan, which they described as being “on the shelf” for more than 20 years, differ on its chances of success. One former US special forces adviser with long experience in the region said a Kurdish force with embedded US special forces could have “gone through Iran like a buzz saw” but another said progress beyond Kurdish-dominated regions in the north-west would have been difficult, if not impossible.
 

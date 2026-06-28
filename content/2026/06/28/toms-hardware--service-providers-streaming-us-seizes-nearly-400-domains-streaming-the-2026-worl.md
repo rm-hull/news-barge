@@ -4,11 +4,11 @@ title: 400 domains used for illegal 2026 World Cup streams seized by US Justice 
 source_url: https://www.tomshardware.com/service-providers/streaming/us-seizes-nearly-400-domains-streaming-the-2026-world-cup
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:52Z'
+scraped_at: '2026-06-28T15:38:45Z'
 published: '2026-06-28T00:00:00Z'
 description: Operation Offsides previously took down 78 domains during the 2022 FIFA
   World Cup in Qatar.
-thumbnail: https://cdn.mos.cms.futurecdn.net/D9LCSX5qkozpDLy2K2xWqD-1920-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/D9LCSX5qkozpDLy2K2xWqD-1920-80.jpg
 ---
 
 ![FIFA World Cup 2026](https://cdn.mos.cms.futurecdn.net/D9LCSX5qkozpDLy2K2xWqD.jpg) 
@@ -35,3 +35,31 @@ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
 ![Luke James](https://cdn.mos.cms.futurecdn.net/C4FAi2KzwaGLUrBqzX5aBM.png)
 
 Luke James is a freelance writer and journalist. Although his background is in legal, he has a personal interest in all things tech, especially hardware and microelectronics, and anything regulatory.
+
+- 
+"Reply*the country's duty “as a host nation to protect the FIFA World Cup from criminals.”*
+ The this statement has registered an incredibly high number on the**Irony Scale**....especially since FiFA has treated this world Cup as the ultimate cash cow and scored an own goal with its amazingly predatory "Congestion Pricing".
+ 
+ Between shelling out hundred of dollars to watch the games on Pay-to-View channels or paying the same in person plus the exorbitant food and drink prices, FIFA is laughing all the way to the bank.
+ 
+ PS: Funny how in some countries, Germany, Switzerland, etc, the games are free of charge on their TV channels! Damn socialists!! 😜
+ PPS: Long live the VPN.
+- 
+Reply
+ PPPS: A LOT of the games are available on FOX. No PayPerView needed.PEnns said:PS: Funny how in some countries, Germany, Switzerland, etc, the games are free of charge on their TV channels! Damn socialists!!
+ [https://worldsoccertalk.com/world-cup-tv-schedule/](https://worldsoccertalk.com/world-cup-tv-schedule/)
+- 
+Reply
+ Agreed that this side discussion should probably end here.PEnns said:Sure, occasionally. but not those who are a wholly owned subsidiary of a certain political party and support treason and grift.
+ But have you been paying attention as to who is buying what TV outlets?
+ 
+ Just something to think about.
+- 
+Reply
+ Sure, but again, I do not care for "Alternate Truths" / "Nobody in his right mind should think this is "real news" (their own words to a judge) outlets. Their "Alternate Truth" has cost them almost a billion in penalties, so far.USAFRet said:Agreed that this side discussion should probably end here.
+ But have you been paying attention as to who is buying what TV outlets?
+ 
+ Just something to think about.
+- 
+Reply
+ That's from decades ago, time to Let it Go. Turns out that lawyers defending their clients will throw everything at the wall to see what sticks.PEnns said:I do not care for "Alternate Truths" / "Nobody in his right mind should think this is "real news" (their own words to a judge) outlets

@@ -3,11 +3,11 @@ title: Harrogate man is tenth Free Fuel Friday winner
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-man-is-tenth-free-fuel-friday-winner/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:40Z'
+scraped_at: '2026-06-28T15:36:18Z'
 published: '2026-06-26T00:00:00Z'
 description: Brandon from Harrogate is the tenth winner of Your Harrogate's Free Fuel
   Friday.
-thumbnail: https://mmo.aiircdn.com/409/6a3ea15038e7213ce05.jpg
+image: https://mmo.aiircdn.com/409/6a3ea15038e7213ce05.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3ea15038e7213ce05.jpg) 

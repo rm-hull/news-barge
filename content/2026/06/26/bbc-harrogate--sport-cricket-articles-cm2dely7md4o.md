@@ -3,11 +3,11 @@ title: 'T20 Blast round-up: Hampshire Hawks seal sixth straight victory'
 source_url: https://www.bbc.co.uk/sport/cricket/articles/cm2dely7md4o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:56Z'
+scraped_at: '2026-06-28T15:37:19Z'
 published: '2026-06-26T00:00:00Z'
 description: Hampshire Hawks seal a sixth straight victory in the T20 Blast with a
   thrilling two-wicket win over North Group table-toppers Yorkshire.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dae6/live/62cf24b0-719e-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dae6/live/62cf24b0-719e-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 ![Joe Weatherley, in action for Hampshire, hitting a shot into the off-side.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dae6/live/62cf24b0-719e-11f1-8e1d-bbbb1017d210.jpg)

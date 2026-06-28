@@ -3,11 +3,11 @@ title: Pickering housing plan backed amid sewer warnings
 source_url: https://www.bbc.co.uk/news/articles/c0ry08nnlejo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:58Z'
+scraped_at: '2026-06-28T15:37:21Z'
 published: '2026-06-24T00:00:00Z'
 description: A plan to build 150 homes in Pickering is set for approval once wastewater
   concerns are addressed.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb8b/live/4e668320-6ef5-11f1-99ba-6926a552b2e3.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb8b/live/4e668320-6ef5-11f1-99ba-6926a552b2e3.png
 ---
 
 ![In the foreground on the right is a grey roadside sign mounted on two metal posts. At the top of the sign is a red‑ringed circular speed limit symbol displaying 30. Below it, printed in black text on a white background, are the words Welcome to Pickering and Please drive Carefully. The sign stands on a grassy verge next to trees and hedgerow. To the left of the sign, a wooden farm gate set into a hedgerow opens onto open countryside.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/eb8b/live/4e668320-6ef5-11f1-99ba-6926a552b2e3.png)

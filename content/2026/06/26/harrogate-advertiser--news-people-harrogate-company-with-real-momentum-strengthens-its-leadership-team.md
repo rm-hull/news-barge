@@ -4,11 +4,11 @@ title: Harrogate company with 'real momentum' strengthens its leadership team as
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-company-with-real-momentum-strengthens-its-leadership-team-as-turnover-heads-for-ps20m-8764212
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:22Z'
+scraped_at: '2026-06-28T15:35:54Z'
 published: '2026-06-26T00:00:00Z'
 description: An independent Harrogate firm has announced two new appointments to strengthen
   its senior leadership team as it heads for a £20 million turnover.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRhYTAyYjQ2LWZlMzMtNDNhZC04M2YwLWMxNTVkMWM0MGE2Nzo2ZWMwMmQ2Yi03YzdjLTRlZTMtODRkMC04YmYzYjVjMTA4M2Q=.jpg?crop=3:2,smart&trim=&width=877&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRhYTAyYjQ2LWZlMzMtNDNhZC04M2YwLWMxNTVkMWM0MGE2Nzo2ZWMwMmQ2Yi03YzdjLTRlZTMtODRkMC04YmYzYjVjMTA4M2Q=.jpg?crop=3:2,smart&trim=&width=877&auto=webp&quality=75
 ---
 
 # Harrogate company with 'real momentum' strengthens its leadership team as turnover heads for £20m

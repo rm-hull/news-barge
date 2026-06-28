@@ -3,11 +3,12 @@ title: The reality of trying to complete the 2026 World Cup sticker book
 source_url: https://www.bbc.co.uk/news/articles/c3eyv0v28gwo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:45Z'
-published: '2026-06-27T00:00:00Z'
-description: From car park meet ups to Facebook groups, how families try to complete
+scraped_at: "2026-06-27T21:23:45Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  From car park meet ups to Facebook groups, how families try to complete
   the set on a budget.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c0b/live/e8920360-7158-11f1-a40a-e7ca3e8cfa47.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c0b/live/e8920360-7158-11f1-a40a-e7ca3e8cfa47.jpg
 ---
 
 ![A young boy with blonde hair lies on the floor on his stomach, he is examining the England page of the sticker book and is pointing at a missing sticker. In front of him is a pile of stickers and a red tin with the World Cup logo on it, containing even more stickers.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/6c0b/live/e8920360-7158-11f1-a40a-e7ca3e8cfa47.jpg)

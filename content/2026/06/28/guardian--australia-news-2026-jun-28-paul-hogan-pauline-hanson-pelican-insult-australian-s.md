@@ -3,11 +3,11 @@ title: Paul Hogan has reportedly called Pauline Hanson a ‘pelican’. Please e
 source_url: https://www.theguardian.com/australia-news/2026/jun/28/paul-hogan-pauline-hanson-pelican-insult-australian-slang-please-explain
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:10Z'
+scraped_at: '2026-06-28T15:35:37Z'
 published: '2026-06-28T00:00:00Z'
 description: Crocodile Dundee was held up by the One Nation leader as an exemplar
   of ‘Australian monoculture’. Hoges had other ideas
-thumbnail: https://i.guim.co.uk/img/media/d38fa47a060aec3cd6a4bfc74c2d2a509e23405e/0_0_5160_4129/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6783c91860b7ff297addd67fe6637e9
+image: https://i.guim.co.uk/img/media/d38fa47a060aec3cd6a4bfc74c2d2a509e23405e/0_0_5160_4129/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6783c91860b7ff297addd67fe6637e9
 ---
 
 In one swift rhetorical blow, Crocodile Dundee has disarmed Pauline Hanson’s latest attack on multiculturalism.

@@ -3,14 +3,15 @@ title: Bar with signature cocktails and Italian food named the best in Yorkshire
 source_url: https://www.yorkpress.co.uk/news/26215946.bar-incredible-wine-named-best-yorkshire/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:41Z'
-published: '2026-06-27T00:00:00Z'
-description: A bar with 'fabulous' sharing platters that can be found in a North Yorkshire
+scraped_at: "2026-06-27T21:37:41Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  A bar with 'fabulous' sharing platters that can be found in a North Yorkshire
   market town has been named the best in the region by Muddy…
-thumbnail: https://www.yorkpress.co.uk/resources/images/21082026.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21082026.jpg?type=og-image
 ---
 
-*(Image: Tripadvisor)*
+_(Image: Tripadvisor)_
 
 A bar found in a North Yorkshire market town has been named the best in the region by Muddy Stilettos.
 
@@ -20,9 +21,9 @@ The Muddy Stilettos awards have been announced with businesses across Yorkshire 
 
 The awards are voted for by the public after nominations have been shortlisted.
 
+##
 
-## 
-  **What is U Tagghiu Anticu?**
+**What is U Tagghiu Anticu?**
 
 The bar can be found in an old butcher’s shop and serves a range of Italian dishes from the morning through to late in the evening.
 
@@ -37,7 +38,6 @@ On the award, the bar said: “We’re absolutely over the moon to share that we
 “To receive this recognition just five months after opening U Tagghiu Anticu makes it even more special.
 
 “There have been endless long days, late nights and countless hours of hard work behind the scene but moments like this remind us both why we do what we do.
-
 
 “We feel incredibly humbled and grateful for the support we’ve received from our wonderful customers, friends, family and community.
 
@@ -61,10 +61,10 @@ One reviewer on Tripadvisor said: “What a fabulous tasteful, cozy and intimate
 
 “Great coffee and local ales , enjoyed a fabulous sharing platter paired with some incredible wine on the recommendation of Salvo the owner.
 
-  **Recommended reading**
+**Recommended reading**
 
 “Looking forward to visiting again.”
 
 Others have praised the bar for its “excellent atmosphere” and “passion” from the owners that make visits “so special”.
 
-  **Have you ever visited U Tagghiu Anticu? Let us know in the comments below.**
+**Have you ever visited U Tagghiu Anticu? Let us know in the comments below.**

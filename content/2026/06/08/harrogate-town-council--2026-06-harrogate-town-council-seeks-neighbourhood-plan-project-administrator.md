@@ -4,12 +4,12 @@ title: Harrogate Town Council Seeks Neighbourhood Plan Project Administrator - H
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/harrogate-town-council-seeks-neighbourhood-plan-project-administrator/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-06-08T00:00:00Z'
 description: Harrogate Town Council is inviting applications from experienced administrators
   and project support professionals to help deliver one of the town's most important
   long-term community projects.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Website-Advert-Image.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Website-Advert-Image.png
 ---
 
 The Council is seeking to appoint a self-employed Neighbourhood Plan Project Administrator to provide administrative and project coordination support throughout the preparation of Harrogate’s Neighbourhood Plan.

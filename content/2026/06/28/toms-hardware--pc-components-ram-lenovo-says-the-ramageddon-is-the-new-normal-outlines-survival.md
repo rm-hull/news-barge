@@ -4,11 +4,11 @@ title: Lenovo says the 'RAMageddon' is the new normal, outlines survival guide â
 source_url: https://www.tomshardware.com/pc-components/ram/lenovo-says-the-ramageddon-is-the-new-normal-outlines-survival-guide-at-isc-2026-an-exec-said-it-will-never-be-like-it-was-last-year
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:51Z'
+scraped_at: '2026-06-28T15:38:42Z'
 published: '2026-06-28T00:00:00Z'
 description: Lenovo's broader message is that the economics of the memory industry
   have fundamentally changed
-thumbnail: https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-2560-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-2560-80.jpg
 ---
 
 ![Google](https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH.jpg) 

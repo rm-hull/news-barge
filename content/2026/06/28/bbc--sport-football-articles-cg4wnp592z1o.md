@@ -4,16 +4,14 @@ title: 'World Cup 2026: England will not win World Cup if they do not improve, w
 source_url: https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
+scraped_at: '2026-06-28T15:35:42Z'
 published: '2026-06-28T00:00:00Z'
 description: England did their job topping the group - but they can forget winning
   the World Cup if they do not improve, writes Phil McNulty.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f6f/live/7f115920-728b-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f6f/live/7f115920-728b-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 England beat Panama to qualify for last 32 as Group L winners
-
-- Published
 
 **England head coach Thomas Tuchel insists the bigger the games, the bigger his side will get. He must hope he is right or their World Cup campaign will be a short one.**
 

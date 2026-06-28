@@ -3,14 +3,15 @@ title: Artificial Intelligence (AI)
 source_url: https://www.tomshardware.com/uk/tech-industry/artificial-intelligence
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-27T21:32:55Z'
-published: '2026-06-26T00:00:00Z'
-description: 'Artificial intelligence (AI), chatbots, and machine learning: News,
-  R&D, and more'
-thumbnail: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
+scraped_at: "2026-06-27T21:32:55Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  "Artificial intelligence (AI), chatbots, and machine learning: News,
+  R&D, and more"
+image: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
 ---
 
-![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 
+![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png)
 
 The world of artificial intelligence (AI) is growing at an exponential rate, with a broad range of topics spanning from the latest CPUs, GPUs, ASICs and FPGAs that run modern AI workloads, along with the different types of AI usages, such as the different types of large language models (LLM) and how they are trained and then used for inference workloads. Here you'll find Tom's Hardware's leading coverage of all things AI.
 

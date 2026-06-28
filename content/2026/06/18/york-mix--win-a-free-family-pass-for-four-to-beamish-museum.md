@@ -3,11 +3,11 @@ title: WIN a free family pass for four to Beamish Museum
 source_url: https://www.yorkmix.com/win-a-free-family-pass-for-four-to-beamish-museum
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
+scraped_at: '2026-06-28T15:37:29Z'
 published: '2026-06-18T00:00:00Z'
 description: Step back in time and wander through history with a visit to Beamish
   Museum. And we've teamed up with the Living Museum to bring you the chance to
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/beamish-fb.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/beamish-fb.webp
 ---
 
 Step back in time and wander through history with a visit to Beamish Museum.

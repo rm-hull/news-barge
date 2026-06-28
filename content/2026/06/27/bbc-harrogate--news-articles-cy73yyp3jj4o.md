@@ -3,11 +3,11 @@ title: Bank branch closure towns to be targeted with new fund to offer access
 source_url: https://www.bbc.co.uk/news/articles/cy73yyp3jj4o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:56Z'
+scraped_at: '2026-06-28T15:37:19Z'
 published: '2026-06-27T00:00:00Z'
 description: Communities in York and North Yorkshire are invited to apply for help
   accessing banking services.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ceb/live/0f685c00-7bfb-11ef-ad1c-8daceb2ac32f.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ceb/live/0f685c00-7bfb-11ef-ad1c-8daceb2ac32f.jpg
 ---
 
 ![A woman using a cash machine to make a cash withdrawal.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5ceb/live/0f685c00-7bfb-11ef-ad1c-8daceb2ac32f.jpg)

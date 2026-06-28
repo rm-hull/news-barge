@@ -3,10 +3,10 @@ title: Officers in Haxby to tackle anti-social behaviour
 source_url: https://www.yorkmix.com/officers-in-haxby-to-tackle-anti-social-behaviour
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:15Z'
+scraped_at: '2026-06-28T15:37:27Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/03/zebra-crossing-the-village-haxby-york-gsv.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/zebra-crossing-the-village-haxby-york-gsv.webp
 ---
 
 Officers were in the Haxby area last. night, following reports of Anti – Social Behaviour surrounding the CO-OP and the Ethel Ward Playing field.

@@ -3,11 +3,12 @@ title: US strikes Iran after attack on cargo ship
 source_url: https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:47Z'
-published: '2026-06-26T00:00:00Z'
-description: Iran accuses the US of violating their deal and says it struck targets
+scraped_at: "2026-06-27T21:23:47Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  Iran accuses the US of violating their deal and says it struck targets
   linked to American forces in response.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg
 ---
 
 ![Two vessels at the Strait of Hormuz, taken from Musandam, Oman](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3c18/live/00d7c990-7209-11f1-aede-9f478c3ece44.jpg)

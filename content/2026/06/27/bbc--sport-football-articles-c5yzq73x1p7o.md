@@ -1,13 +1,14 @@
 ---
-title: 'Scotland: Steve Clarke resigns after World Cup exit'
+title: "Scotland: Steve Clarke resigns after World Cup exit"
 source_url: https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:07Z'
-published: '2026-06-27T00:00:00Z'
-description: Steve Clarke resigns as Scotland head coach following the nation's group
+scraped_at: "2026-06-28T04:46:07Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Steve Clarke resigns as Scotland head coach following the nation's group
   exit from the World Cup.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/281f/live/cb817fe0-7283-11f1-ad8e-b511163b3cf4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/281f/live/cb817fe0-7283-11f1-ad8e-b511163b3cf4.jpg
 ---
 
 ![Steve Clarke](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/281f/live/cb817fe0-7283-11f1-ad8e-b511163b3cf4.jpg)
@@ -50,7 +51,7 @@ Scotland went into Wednesday's game against Brazil well placed to be one of the 
 
 ## Questions and not many answers - analysis
 
-*Scott Mullen, BBC Sport Scotland in Miami*
+_Scott Mullen, BBC Sport Scotland in Miami_
 
 There will be shock and surprise around this news for several reasons.
 

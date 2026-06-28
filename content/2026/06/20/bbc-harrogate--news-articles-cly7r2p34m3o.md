@@ -3,11 +3,11 @@ title: Village clothes shop Ahernes of Hellifield to close after 130 years
 source_url: https://www.bbc.co.uk/news/articles/cly7r2p34m3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:06:00Z'
+scraped_at: '2026-06-28T15:37:23Z'
 published: '2026-06-20T00:00:00Z'
 description: Owner Sarah Alexander says times have changed and the business has come
   to a "natural end".
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcf2/live/79acd4b0-6bd2-11f1-a94c-73f00a91c697.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcf2/live/79acd4b0-6bd2-11f1-a94c-73f00a91c697.jpg
 ---
 
 ![A woman in a pink, black and white top with a scarf around her neck and glasses is smiling at the camera. Behind her and to the left hand-side are rails of clothes](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dcf2/live/79acd4b0-6bd2-11f1-a94c-73f00a91c697.jpg)

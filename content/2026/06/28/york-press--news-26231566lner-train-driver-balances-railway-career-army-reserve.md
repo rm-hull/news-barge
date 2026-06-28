@@ -3,11 +3,11 @@ title: Former soldier and police officer embraces double life at York train comp
 source_url: https://www.yorkpress.co.uk/news/26231566.lner-train-driver-balances-railway-career-army-reserve/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:53Z'
+scraped_at: '2026-06-28T15:38:18Z'
 published: '2026-06-28T00:00:00Z'
 description: Former soldier, police officer, and now train driver at LNER, Jamie Burns
   is balancing a remarkable "double life" of public service and…
-thumbnail: https://www.yorkpress.co.uk/resources/images/21105839.jpg?type=og-image&xType=0&yType=60
+image: https://www.yorkpress.co.uk/resources/images/21105839.jpg?type=og-image&xType=0&yType=60
 ---
 
 ## Former soldier and police officer embraces double life at York train company

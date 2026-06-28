@@ -3,11 +3,11 @@ title: Police honour fallen officer on anniversary of Harrogate shooting
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/police-honour-fallen-officer-on-anniversary-of-harrogate-shooting/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:32Z'
+scraped_at: '2026-06-28T15:37:11Z'
 published: '2026-06-17T00:00:00Z'
 description: North Yorkshire Police have paid tribute to an officer who was shot and
   killed near Harrogate 44 years ago today.
-thumbnail: https://mmo.aiircdn.com/409/6a327a073ee5435f9d8.jpg
+image: https://mmo.aiircdn.com/409/6a327a073ee5435f9d8.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a327a073ee5435f9d8.jpg) 

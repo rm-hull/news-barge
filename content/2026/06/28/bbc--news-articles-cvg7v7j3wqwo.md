@@ -3,11 +3,11 @@ title: How addicted are we to our phones? Some of us are going to rehab
 source_url: https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
+scraped_at: '2026-06-28T15:35:45Z'
 published: '2026-06-28T00:00:00Z'
 description: Addiction treatment centres say more clients are coming for help with
   "out-of-control" phone use.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0678/live/f285fdc0-713c-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0678/live/f285fdc0-713c-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Marios, standing in front of trees](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0678/live/f285fdc0-713c-11f1-8546-8f19e4fe30f4.jpg)
@@ -161,3 +161,7 @@ Back in north London, Marios is hopeful that his course of therapy can help him 
 But a second later, he reaches for his phone, on impulse. As soon as he touches it, he appears to remember his resolve. He jabs the phone, defiantly.
 
 "Every day, I set myself an intention to not be on it as much and it is making a difference," Marios says. "And every day, I am slowly beginning to enjoy things again. It can be done, I'm sure."
+
+## More weekend picks
+
+![Your Voice banner image. Your Voice is written in white against a purple background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c3e4/live/52f4f750-63f1-11f1-b1db-af71d47507d6.png)

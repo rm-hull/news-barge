@@ -3,11 +3,11 @@ title: Yorkshire farmers share how they manage job in extreme weather
 source_url: https://www.bbc.co.uk/news/articles/c2lypd510k2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:56Z'
+scraped_at: '2026-06-28T15:37:19Z'
 published: '2026-06-27T00:00:00Z'
 description: Farmers share the challenges extreme heat and unpredictable weather patterns
   can present.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43b3/live/42298950-7165-11f1-a589-278435dff441.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43b3/live/42298950-7165-11f1-a589-278435dff441.jpg
 ---
 
 ![A man wearing a blue t-shirt sits on a green quad bike in the middle of a grassy field.](https://ichef.bbci.co.uk/ace/standard/927/cpsprodpb/43b3/live/42298950-7165-11f1-a589-278435dff441.jpg)

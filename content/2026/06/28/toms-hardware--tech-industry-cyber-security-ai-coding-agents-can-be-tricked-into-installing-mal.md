@@ -5,11 +5,11 @@ title: AI coding agents can be tricked into installing malware via 'clean' GitHu
 source_url: https://www.tomshardware.com/tech-industry/cyber-security/ai-coding-agents-can-be-tricked-into-installing-malware-via-clean-github-repositories-mozillas-0din-team-shows-how-claude-code-can-be-exploited-by-its-own-helpfulness
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:55Z'
+scraped_at: '2026-06-28T15:38:48Z'
 published: '2026-06-28T00:00:00Z'
 description: Three levels of indirection, all with seemingly innocuous steps, will
   catch a bot off-guard.
-thumbnail: https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-2048-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG-2048-80.jpg
 ---
 
 ![Anthropic Claude](https://cdn.mos.cms.futurecdn.net/ScT7C9WsuqruarWf3kSRRG.jpg) 

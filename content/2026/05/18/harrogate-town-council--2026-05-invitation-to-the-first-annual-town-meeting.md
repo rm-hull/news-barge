@@ -3,12 +3,12 @@ title: Invitation to the first Annual Town Meeting - Harrogate Town Council
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/invitation-to-the-first-annual-town-meeting/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-18T00:00:00Z'
 description: Residents of Harrogate Parish are invited to attend the first Annual
   Town Meeting, which will take place on Wednesday 27th May 2026 at The Sanctuary,
   West Park United Reform Church, West Park, Harrogate.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/SW-2025-Blossom-High-Res-2-scaled.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/05/SW-2025-Blossom-High-Res-2-scaled.jpg
 ---
 
 This will be the first Annual Town Meeting to take place following the creation of Harrogate Town Council in 2025 and forms part of the civic calendar for parish and town councils across England.

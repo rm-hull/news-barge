@@ -3,11 +3,11 @@ title: WIN Holiday Club Places at The Web Adventure!
 source_url: https://www.yorkmix.com/win-holiday-club-places-at-the-web-adventure
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
+scraped_at: '2026-06-28T15:37:28Z'
 published: '2026-06-24T00:00:00Z'
 description: Looking for an exciting way to keep your children active, entertained
   and making new friends this summer? We've teamed up with The Web Adventure to give
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/web-adventure-holiday-club-comp.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/web-adventure-holiday-club-comp.webp
 ---
 
 Looking for an exciting way to keep your children active, entertained and making new friends this summer?

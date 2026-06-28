@@ -3,12 +3,12 @@ title: Yorkshire Water urges customers to use water wisely during heatwave
 source_url: https://www.harrogateadvertiser.co.uk/news/people/yorkshire-water-urges-customers-to-use-water-wisely-during-heatwave-8759352
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:57Z'
 published: '2026-06-24T00:00:00Z'
 description: Yorkshire Water is urging customers to use water wisely as temperatures
   across the country climb above 30 degrees, driving a significant increase in demand
   for drinking water.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc2YTg4NjcyLWQxYzAtNDBkZC1hNTkxLWRhYWU2Zjk5NmUyMjoyOWUwMjk2OS1jOWZmLTQyMjItOTUyOS1jMjI1ZDQ4MzVjYWI=.jpg?crop=3:2,smart&trim=&width=580&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc2YTg4NjcyLWQxYzAtNDBkZC1hNTkxLWRhYWU2Zjk5NmUyMjoyOWUwMjk2OS1jOWZmLTQyMjItOTUyOS1jMjI1ZDQ4MzVjYWI=.jpg?crop=3:2,smart&trim=&width=580&auto=webp&quality=75
 ---
 
 # Yorkshire Water urges customers to use water wisely during heatwave

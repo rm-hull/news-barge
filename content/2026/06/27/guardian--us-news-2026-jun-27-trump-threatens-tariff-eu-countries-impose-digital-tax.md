@@ -3,11 +3,11 @@ title: Trump threatens 100% tariff on European countries that impose digital tax
 source_url: https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
+scraped_at: '2026-06-28T15:35:38Z'
 published: '2026-06-27T00:00:00Z'
 description: US president says levy would be imposed immediately and supersede pre-existing
   trade deals with the country
-thumbnail: https://i.guim.co.uk/img/media/225d347f935154d1be34754ae699fa7bef53e137/456_196_3088_2471/master/3088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5e0e0c9946f5b2376051a8b08af207e
+image: https://i.guim.co.uk/img/media/225d347f935154d1be34754ae699fa7bef53e137/456_196_3088_2471/master/3088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5e0e0c9946f5b2376051a8b08af207e
 ---
 
 Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.

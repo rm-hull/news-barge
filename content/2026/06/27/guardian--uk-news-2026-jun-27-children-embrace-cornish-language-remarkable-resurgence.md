@@ -3,11 +3,12 @@ title: Children embrace Cornish language as it enjoys ‘remarkable resurgence�
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
-published: '2026-06-27T00:00:00Z'
-description: Go Cornish Celebration engages younger generation as council finalises
+scraped_at: "2026-06-27T21:28:25Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Go Cornish Celebration engages younger generation as council finalises
   strategy to boost everyday use of Kernewek
-thumbnail: https://i.guim.co.uk/img/media/b1cadf3f51ecb7bb250cf0bf974ed1ce4f8260d6/1_0_4824_3860/master/4824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5659cc244ec4e031945cf64c7fa598d
+image: https://i.guim.co.uk/img/media/b1cadf3f51ecb7bb250cf0bf974ed1ce4f8260d6/1_0_4824_3860/master/4824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5659cc244ec4e031945cf64c7fa598d
 ---
 
 Seven-year-old Albie, a pupil at Trewirgie infants’ school in Redruth, did not hesitate when asked why he liked learning Kernewek, the Cornish language.

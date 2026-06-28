@@ -3,14 +3,15 @@ title: Harrogate fashion lovers invited to charity rail sale
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-fashion-lovers-invited-to-charity-rail-sale/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:07Z'
-published: '2026-06-19T00:00:00Z'
-description: Harrogate residents are being invited to enjoy an evening of pre-loved
+scraped_at: "2026-06-28T15:36:46Z"
+published: "2026-06-19T00:00:00Z"
+description:
+  Harrogate residents are being invited to enjoy an evening of pre-loved
   fashion at a special fundraising event supporting Artizan International.
-thumbnail: https://mmo.aiircdn.com/409/6a3560a13cc07c0796f.jpg
+image: https:o.aiircdn.com/409/6a3560a13cc07c0796f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a3560a13cc07c0796f.jpg) 
+![](https://mmo.aiircdn.com/409/6a3560a13cc07c0796f.jpg)
 
                                     Harrogate residents are being invited to enjoy an evening of pre-loved fashion at a special fundraising event supporting Artizan International.
 
@@ -28,7 +29,6 @@ Chelsea Talbot, Founder of Positive Influence Agency, said:
 
 "We're really looking forward to welcoming the community for a feel-good evening with purpose at its heart."
 
-
 Artizan Café is a training café in the heart of Harrogate, supporting over 30 young adults with learning disabilities each week to develop workplace skills, confidence and independence through real-life experience in hospitality and customer service.
 
 Liz Cluderay, Chief Executive Officer of Artizan International, said:
@@ -41,7 +41,6 @@ Liz Cluderay, Chief Executive Officer of Artizan International, said:
 
 "We look forward to welcoming guests to the café and making it a truly memorable evening.”
 
-
 **Tickets**
 
 The Rail Sale offers two ticket options. Shopping tickets are available for £5, while those wishing to sell their own pre-loved clothing and accessories can book a rail space for £15.
@@ -52,4 +51,4 @@ The event takes place on Wednesday 22nd July at Artizan Café, Harrogate.
 
 Rail sellers can set up from 6pm, with shopping ticket holders welcomed from 6.30pm. The event will conclude at approximately 9pm.
 
-*Tickets are available via the Positive Influence Agency  website, or by scanning the QR code displayed on event posters within Artizan Café.*
+_Tickets are available via the Positive Influence Agency website, or by scanning the QR code displayed on event posters within Artizan Café._

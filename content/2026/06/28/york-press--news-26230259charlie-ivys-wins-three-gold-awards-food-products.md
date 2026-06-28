@@ -3,11 +3,11 @@ title: Yorkshire Wolds food producer celebrates triple win at national awards
 source_url: https://www.yorkpress.co.uk/news/26230259.charlie-ivys-wins-three-gold-awards-food-products/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:44Z'
+scraped_at: '2026-06-28T15:38:12Z'
 published: '2026-06-28T00:00:00Z'
 description: Charlie & Ivy’s recently took home top honours for three of its products
   at the Farm Shop & Deli Product Awards.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21103652.jpg?type=og-image&xType=0&yType=49
+image: https://www.yorkpress.co.uk/resources/images/21103652.jpg?type=og-image&xType=0&yType=49
 ---
 
 *(Image: Supplied)*

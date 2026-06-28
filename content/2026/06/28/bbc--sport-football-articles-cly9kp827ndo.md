@@ -1,14 +1,15 @@
 ---
-title: 'World Cup 2026: Harry Kane makes history to become England''s leading scorer'
+title: "World Cup 2026: Harry Kane makes history to become England's leading scorer"
 source_url: https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:11Z'
-published: '2026-06-28T00:00:00Z'
-description: Harry Kane became England's all-time leading World Cup scorer with his
+scraped_at: "2026-06-28T04:46:11Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Harry Kane became England's all-time leading World Cup scorer with his
   12th goal in the win against Panama on Saturday, but how does he compare to other
   country's greats?
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e92/live/1ca94e60-7294-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e92/live/1ca94e60-7294-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 Kane breaks England World Cup goals record to double lead against Panama

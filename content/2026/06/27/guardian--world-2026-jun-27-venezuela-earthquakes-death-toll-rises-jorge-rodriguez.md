@@ -1,13 +1,14 @@
 ---
-title: 'Venezuela earthquakes: death toll rises again to more than 1,400'
+title: "Venezuela earthquakes: death toll rises again to more than 1,400"
 source_url: https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:22Z'
-published: '2026-06-27T00:00:00Z'
-description: Search for survivors continues with nearly 70,000 people reported unaccounted
+scraped_at: "2026-06-27T21:28:22Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Search for survivors continues with nearly 70,000 people reported unaccounted
   for by their family members
-thumbnail: https://i.guim.co.uk/img/media/d043dc7b3e61f877612c4b412bbe81367888456c/1254_0_6800_5440/master/6800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55748ff9347c49e840773142e9319b9f
+image: https://i.guim.co.uk/img/media/d043dc7b3e61f877612c4b412bbe81367888456c/1254_0_6800_5440/master/6800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55748ff9347c49e840773142e9319b9f
 ---
 
 The death toll in the twin earthquakes that struck Venezuela earlier this week has risen to 1,430, according to one of the country’s top politicians Jorge Rodríguez.

@@ -1,14 +1,16 @@
 ---
-title: '''Every person saved is a miracle'': Families call to trapped loved ones in
-  region devastated by Venezuela quakes'
+title:
+  "'Every person saved is a miracle': Families call to trapped loved ones in
+  region devastated by Venezuela quakes"
 source_url: https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:44Z'
-published: '2026-06-27T00:00:00Z'
-description: Families keep vigil at buildings where they fear their loved ones are
+scraped_at: "2026-06-27T21:23:44Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Families keep vigil at buildings where they fear their loved ones are
   trapped, but face an impossible task to move heavy debris.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg
 ---
 
 ![Family members and volunteers search through the rubble after two 17-story buildings in the Belo Horizonte residential complex collapsed in Catia La Mar, La Guaira (Venezuela), on June 26, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg)
@@ -117,7 +119,8 @@ And she adds something many feel: "Everyone says what matters is that you're ali
 
 "You try to be strong, but it hurts."
 
-![Emotional man holds baby wrapped in pink blanket](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c461/live/f19363b0-7229-11f1-8e1d-bbbb1017d210.jpg) 
-![Two people cry into each others' arms surrounded by pillows, blankets and carrier bags of possessions on concrete stairs outside](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg) 
+![Emotional man holds baby wrapped in pink blanket](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c461/live/f19363b0-7229-11f1-8e1d-bbbb1017d210.jpg)
+![Two people cry into each others' arms surrounded by pillows, blankets and carrier bags of possessions on concrete stairs outside](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg)
+
 - Published2 days ago
- ![Map of northern Venezuela showing a large red concentric-circle marker indicating an earthquake epicentre near the north coast, west of Caracas. The capital city Caracas is labelled with a black dot to the east, and the label “Venezuela” appears across the map.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/706e/live/39b92c20-7099-11f1-b1db-af71d47507d6.png)
+  ![Map of northern Venezuela showing a large red concentric-circle marker indicating an earthquake epicentre near the north coast, west of Caracas. The capital city Caracas is labelled with a black dot to the east, and the label “Venezuela” appears across the map.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/706e/live/39b92c20-7099-11f1-b1db-af71d47507d6.png)

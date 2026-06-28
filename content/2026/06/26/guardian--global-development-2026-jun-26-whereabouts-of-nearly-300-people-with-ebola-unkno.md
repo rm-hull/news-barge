@@ -3,11 +3,11 @@ title: Whereabouts of nearly 300 people with Ebola unknown in DR Congo
 source_url: https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:22Z'
+scraped_at: '2026-06-28T15:35:35Z'
 published: '2026-06-26T00:00:00Z'
 description: Fears over ‘huge community transmission’ as modelling predicts thousands
   of deaths in DRC by September
-thumbnail: https://i.guim.co.uk/img/media/d34d9403c3a9f3619b43c2f9cbfbc89eb16ca128/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ac93079115f06926da06408a96e2324
+image: https://i.guim.co.uk/img/media/d34d9403c3a9f3619b43c2f9cbfbc89eb16ca128/0_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ac93079115f06926da06408a96e2324
 ---
 
 The whereabouts of almost 300 people who have tested positive for Ebola in the Democratic Republic of the Congo is unknown, according to Africa’s top public health official.

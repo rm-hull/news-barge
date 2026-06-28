@@ -3,11 +3,11 @@ title: PICTURES - Off-grid cabins open in the heart of popular North Yorkshire f
 source_url: https://www.yorkpress.co.uk/news/26231440.off-grid-cabins-open-north-yorkshires-dalby-forest/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:07Z'
+scraped_at: '2026-06-28T15:38:23Z'
 published: '2026-06-28T00:00:00Z'
 description: Off-grid cabins have opened their doors in the heart of a popular North
   Yorkshire forest.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21105672.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21105672.jpg?type=og-image
 ---
 
 ## PICTURES - Off-grid cabins open in the heart of popular North Yorkshire forest

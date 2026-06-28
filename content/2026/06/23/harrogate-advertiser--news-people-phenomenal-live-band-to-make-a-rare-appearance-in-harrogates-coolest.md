@@ -4,11 +4,11 @@ title: '''Phenomenal live band'' to make a rare appearance in ''Harrogate''s coo
 source_url: https://www.harrogateadvertiser.co.uk/news/people/phenomenal-live-band-to-make-a-rare-appearance-in-harrogates-coolest-little-venue-8757353
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:26Z'
+scraped_at: '2026-06-28T15:35:59Z'
 published: '2026-06-23T00:00:00Z'
 description: A Franco-British rock 'n' roll band hailed as one of the best live bands
   on the planet will play a rare Harrogate gig this week.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzMzY4OTRjLWI0YzMtNDdhYi04OTQ4LTdiNWQ4NjUzMzdjNzpkZTRiMzljYy02NTRlLTQ1ZTEtYTY1YS1mNjkyOTRlMDBiNjM=.jpg?crop=3:2,smart&trim=&width=828&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzMzY4OTRjLWI0YzMtNDdhYi04OTQ4LTdiNWQ4NjUzMzdjNzpkZTRiMzljYy02NTRlLTQ1ZTEtYTY1YS1mNjkyOTRlMDBiNjM=.jpg?crop=3:2,smart&trim=&width=828&auto=webp&quality=75
 ---
 
 # 'Phenomenal live band' to make a rare appearance in 'Harrogate's coolest little venue'

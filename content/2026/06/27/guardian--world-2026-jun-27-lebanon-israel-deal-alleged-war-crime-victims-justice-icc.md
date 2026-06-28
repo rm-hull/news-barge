@@ -3,11 +3,12 @@ title: Lebanon-Israel deal may stop war crime victims seeking justice, experts s
 source_url: https://www.theguardian.com/world/2026/jun/27/lebanon-israel-deal-alleged-war-crime-victims-justice-icc
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-27T00:00:00Z'
-description: Agreement could also end hopes of ICC jurisdiction in Lebanon, which
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Agreement could also end hopes of ICC jurisdiction in Lebanon, which
   advocates pushed for to prosecute Israel
-thumbnail: https://i.guim.co.uk/img/media/d197b8b02b7acfa0b7878be744190e6f8f578fb2/1027_0_5884_4708/master/5884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dab0b3f2c84ffb9d87c35515fd0439bd
+image: https://i.guim.co.uk/img/media/d197b8b02b7acfa0b7878be744190e6f8f578fb2/1027_0_5884_4708/master/5884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dab0b3f2c84ffb9d87c35515fd0439bd
 ---
 
 A new agreement between Lebanon and Israel could block victims of Israeli war crimes in Lebanon from pursuing accountability and hinder future efforts to give the international criminal court jurisdiction in the country, legal experts have said.

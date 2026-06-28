@@ -4,13 +4,13 @@ title: Freedom Of The Town Of Harrogate Awarded To Mrs Sheila Pantin - Harrogate
 source_url: https://harrogatetowncouncil.gov.uk/2025/10/freedom-of-the-town-of-harrogate-awarded-to-mrs-sheila-pantin/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:17Z'
 published: '2025-10-21T00:00:00Z'
 description: Harrogate Town Council is proud to announce that one of its first official
   civic acts since formation was to bestow the Freedom of the Town of Harrogate on
   Mrs Sheila Pantin, in recognition of her exceptional courage, compassion, and lifelong
   service to others.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/Rachael-Fawcett-Photography-High-Res-71-WEB.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/11/Rachael-Fawcett-Photography-High-Res-71-WEB.jpg
 ---
 
 Mrs Pantin’s life story is one of unwavering duty and humanity. At the age of 17, she joined the Auxiliary Territorial Service (ATS), the women’s branch of the British Army in which Her Late Majesty Queen Elizabeth II also served. Trained as an ambulance and staff car driver, Sheila supported the advance of Allied troops across Europe following D-Day.

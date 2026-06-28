@@ -4,11 +4,11 @@ title: Don't Spark Disaster! - Warning issued after four wild fires in North Yor
 source_url: https://www.harrogateadvertiser.co.uk/news/emergency-incident/dont-spark-disaster-warning-issued-after-four-wild-fires-in-north-yorkshire-in-24-hours-8760627
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:24Z'
+scraped_at: '2026-06-28T15:35:57Z'
 published: '2026-06-25T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service has issued a plea for caution
   after four wild fires were reported on Wednesday (June 24).
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYWNmNGY5LTMzMzAtNDk5My04ZjllLTZmZDBkMWYxZTJjZDo4M2QyN2VjOS02MzZmLTRmZGMtYTAxMy02YmQxMzgyMDBmYWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYWNmNGY5LTMzMzAtNDk5My04ZjllLTZmZDBkMWYxZTJjZDo4M2QyN2VjOS02MzZmLTRmZGMtYTAxMy02YmQxMzgyMDBmYWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Don't Spark Disaster! - Warning issued after four wild fires in North Yorkshire in 24 hours

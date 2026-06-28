@@ -3,11 +3,11 @@ title: York celebrates five-year milestone as a Good Business Charter City
 source_url: https://www.yorkpress.co.uk/news/26232164.york-celebrates-fifth-anniversary-good-business-charter/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:51Z'
+scraped_at: '2026-06-28T15:38:16Z'
 published: '2026-06-28T00:00:00Z'
 description: York is celebrating five years as a Good Business Charter City, adding
   being an ethical business can pay.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21106968.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21106968.jpg?type=og-image
 ---
 
 *(Image: Pic supplied)*

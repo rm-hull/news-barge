@@ -4,11 +4,11 @@ title: Respected historian sheds new light on daily life in Victorian Harrogate 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/respected-historian-sheds-new-light-on-daily-life-in-victorian-harrogate-in-new-book-8756972
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:26Z'
+scraped_at: '2026-06-28T15:35:59Z'
 published: '2026-06-23T00:00:00Z'
 description: A treasure trove of rare and unseen photographs of Harrogate schools
   in the 19th century has been unearthed by a local historian for his new book.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlkYjY4MTNiLTc0NDMtNGQzZi1iOWRkLTI4ZTRlYmE3Zjc3ODpmMTFhMmU4OC00YmEwLTQzMzYtOTkyMi1kNzg0MmYyOTc0OWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlkYjY4MTNiLTc0NDMtNGQzZi1iOWRkLTI4ZTRlYmE3Zjc3ODpmMTFhMmU4OC00YmEwLTQzMzYtOTkyMi1kNzg0MmYyOTc0OWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Respected historian sheds new light on daily life in Victorian Harrogate in new book

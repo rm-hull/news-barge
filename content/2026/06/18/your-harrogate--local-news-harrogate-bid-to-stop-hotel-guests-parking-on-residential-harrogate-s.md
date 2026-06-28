@@ -3,15 +3,16 @@ title: Bid to stop hotel guests parking on residential Harrogate streets set to 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bid-to-stop-hotel-guests-parking-on-residential-harrogate-streets-set-to-fail/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:20Z'
-published: '2026-06-18T00:00:00Z'
-description: A bid by residents in Harrogate to introduce residents-only parking on
+scraped_at: "2026-06-28T15:37:00Z"
+published: "2026-06-18T00:00:00Z"
+description:
+  A bid by residents in Harrogate to introduce residents-only parking on
   their streets amid concerns that spaces are being taken by hotel guests is set to
   be rejected.
-thumbnail: https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg
+image: https:o.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg) 
+![](https://mmo.aiircdn.com/409/6a33fdb4bb7d1e58171.jpg)
 
                                     A bid by residents in Harrogate to introduce residents-only parking on their streets amid concerns that spaces are being taken by hotel guests is set to be rejected.
 
@@ -24,7 +25,6 @@ The petition stated that the use of local streets by hotel guests caused a “si
 The petition added:
 
 “Residents have made representation to the local hotels and conference centre to ascertain the reasons for this illegal and inconvenient parking over more than two years but without success in rectifying the situation.”
-
 
 Residents also believe that spaces are taken by attendees to events at the convention centre or other visitors to the town.
 

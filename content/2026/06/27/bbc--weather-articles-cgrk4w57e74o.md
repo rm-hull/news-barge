@@ -3,11 +3,12 @@ title: Will we see more heatwaves this summer?
 source_url: https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:45Z'
-published: '2026-06-27T00:00:00Z'
-description: Forecasters have suggested that summer is likely to be warmer than average
+scraped_at: "2026-06-27T21:23:45Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Forecasters have suggested that summer is likely to be warmer than average
   with an increased chance of more heatwaves, as Simon King explains.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg
 ---
 
 ![Two young women holding fans](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1fd1/live/823efca0-717e-11f1-8546-8f19e4fe30f4.jpg)
@@ -34,7 +35,7 @@ Weather patterns shifted again and in a dramatic turnaround we've just experienc
 Top left: a tap filling a glass of water alongside fruit, with text reading “Drink water and eat foods with high water content.”
 Top right: a person wearing a hat and loose clothing, with text reading “Wear loose-fitting clothing in breathable fabrics and a hat.”
 Bottom left: a person sitting on a bench under a tree, with text reading “Stay in the shade and limit travel and exercise.”
-Bottom right: a person under a showerhead, with text reading “Use fans, ice and cool showers to reduce your body temperature.”]([https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png))
+Bottom right: a person under a showerhead, with text reading “Use fans, ice and cool showers to reduce your body temperature.”](<[https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/16b1/live/80702ab0-716b-11f1-8546-8f19e4fe30f4.png)>)
 
 ## 'Significant bursts' of heat are likely
 

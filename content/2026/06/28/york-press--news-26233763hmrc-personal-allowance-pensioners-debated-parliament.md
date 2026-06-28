@@ -3,11 +3,11 @@ title: HMRC personal allowance changes for pensioners debated by MPs in parliame
 source_url: https://www.yorkpress.co.uk/news/26233763.hmrc-personal-allowance-pensioners-debated-parliament/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:26Z'
+scraped_at: '2026-06-28T15:37:58Z'
 published: '2026-06-28T00:00:00Z'
 description: Pressure is mounting to increase the HMRC personal allowance after MPs
   debated whether pensioners should avoid paying tax on their state pension.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21104646.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21104646.jpg?type=og-image
 ---
 
 *(Image: House of Commons/UK Parliament/PA Wire)*

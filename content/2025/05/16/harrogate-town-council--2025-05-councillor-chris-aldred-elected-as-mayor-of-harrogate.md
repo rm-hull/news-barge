@@ -3,12 +3,12 @@ title: Councillor Chris Aldred elected as Mayor of Harrogate - Harrogate Town Co
 source_url: https://harrogatetowncouncil.gov.uk/2025/05/councillor-chris-aldred-elected-as-mayor-of-harrogate/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2025-05-16T00:00:00Z'
 description: Harrogate Town Council is pleased to announce the appointment of Councillor
   Aldred as the very first Town Mayor of Harrogate, following the formation of the
   new Town Council on 1st April 2025.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/05/6-Mayor-and-Deputy-Mayor-web.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/05/6-Mayor-and-Deputy-Mayor-web.jpg
 ---
 
 Councillor Aldred was elected as Mayor during the inaugural Annual Meeting of the Council held on Wednesday 14th May 2025 and delivered an impassioned acceptance speech reflecting on his journey, values and vision for the future of Harrogate.

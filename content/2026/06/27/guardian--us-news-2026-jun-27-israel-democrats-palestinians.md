@@ -1,14 +1,16 @@
 ---
-title: '‘It’s become a litmus test’: wins for Israel critics shine light on key issue
-  for Democrats'
+title:
+  "‘It’s become a litmus test’: wins for Israel critics shine light on key issue
+  for Democrats"
 source_url: https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-27T00:00:00Z'
-description: Candidates who believe Israel has committed genocide won big in New York
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Candidates who believe Israel has committed genocide won big in New York
   – will it push the party to move their way?
-thumbnail: https://i.guim.co.uk/img/media/12744da867382ad644cd542292b65bbad04344c2/300_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3911db882524ae9c6bf7620c7c9df916
+image: https://i.guim.co.uk/img/media/12744da867382ad644cd542292b65bbad04344c2/300_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3911db882524ae9c6bf7620c7c9df916
 ---
 
 Regardless of which party wins control of Congress in November, New York City voters have all but ensured that next year a vocal bloc of new House Democrats will arrive on Capitol Hill, elected, in large part, because they believe Israel has committed a genocide in Gaza.
@@ -71,4 +73,4 @@ And it is almost certain to be an issue in the presidential election in 2028, wh
 
 “The question was largely evaded in 2024. That strategy is no longer possible*.”*
 
-*David Smith in Washington, Adam Gabbatt in New York and Lauren Gambino in Los Angeles contributed reporting*
+_David Smith in Washington, Adam Gabbatt in New York and Lauren Gambino in Los Angeles contributed reporting_

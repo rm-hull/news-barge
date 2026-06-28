@@ -3,10 +3,10 @@ title: Auction clearance rates continue to hover under 50% – as it happened
 source_url: https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T04:46:04Z'
-published: '2026-06-28T00:00:00Z'
+scraped_at: "2026-06-28T04:46:04Z"
+published: "2026-06-28T00:00:00Z"
 description: This blog is now closed
-thumbnail: https://i.guim.co.uk/img/media/ce01225d2fb02d7f979d1e48d5867b5f2d85af40/565_0_6468_5177/master/6468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2aea1f918bf9193989709296d12454bb
+image: https://i.guim.co.uk/img/media/ce01225d2fb02d7f979d1e48d5867b5f2d85af40/565_0_6468_5177/master/6468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2aea1f918bf9193989709296d12454bb
 ---
 
 According to Cotality’s weekly auction results, the clearance rate is languishing below 50% in all major capital cities in Australia. Photograph: Hollie Adams/Reuters

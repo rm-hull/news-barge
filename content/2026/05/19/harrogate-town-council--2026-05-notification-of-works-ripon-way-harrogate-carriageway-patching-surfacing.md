@@ -4,11 +4,11 @@ title: Notification of Works - Ripon Way, Harrogate – Carriageway Patching/Sur
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/notification-of-works-ripon-way-harrogate-carriageway-patching-surfacing-works/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-19T00:00:00Z'
 description: North Yorkshire Council is the Highways Authority but we’re sharing their
   information to try and keep Harrogate residents informed.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Highways-One-Network.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Highways-One-Network.jpg
 ---
 
 North Yorkshire Council is the Highways Authority but we’re sharing their information to try and keep Harrogate residents informed.

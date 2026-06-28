@@ -4,11 +4,11 @@ title: AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting �
 source_url: https://www.tomshardware.com/desktops/pc-building/diy-3d-printed-steam-machine-a-like-uses-diagonal-mobo-mounting-parts-include-a-mini-itx-motherboard-rtx-5060-and-a-flex-atx-psu
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:51Z'
+scraped_at: '2026-06-28T15:38:45Z'
 published: '2026-06-28T00:00:00Z'
 description: The ‘Terk Box v1.1’ is a collaborative project between an AMD employee
   and a 3D printing enthusiast.
-thumbnail: https://cdn.mos.cms.futurecdn.net/kuvSEGav6suFNU4cBrDMCF-1920-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/kuvSEGav6suFNU4cBrDMCF-1920-80.jpg
 ---
 
 ![Terk Box v1.1](https://cdn.mos.cms.futurecdn.net/kuvSEGav6suFNU4cBrDMCF.jpg) 

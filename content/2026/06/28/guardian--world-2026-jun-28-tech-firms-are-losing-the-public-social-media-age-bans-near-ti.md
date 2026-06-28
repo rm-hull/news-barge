@@ -3,11 +3,11 @@ title: '‘Tech firms are losing the public’: social media age bans near tippi
 source_url: https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T10:33:08Z'
+scraped_at: '2026-06-28T15:35:37Z'
 published: '2026-06-28T00:00:00Z'
 description: UK is latest country to set a minimum age for social media but big tech
   is fighting back globally against curbs
-thumbnail: https://i.guim.co.uk/img/media/ea503ade6ee6157d7267471bc11c2b8cbd80df59/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ad27852f21ed69a18d45c953bf74ef6
+image: https://i.guim.co.uk/img/media/ea503ade6ee6157d7267471bc11c2b8cbd80df59/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ad27852f21ed69a18d45c953bf74ef6
 ---
 
 Arturo Béjar, a former employee turned whistleblower at Mark Zuckerberg’s Meta, has talked to parents around the world. He says they share the same perspective: they dread the day their children are old enough to go online.

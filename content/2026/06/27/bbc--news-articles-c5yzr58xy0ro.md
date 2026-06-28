@@ -3,11 +3,12 @@ title: What happened when I tried to report sexual assault to British Transport 
 source_url: https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:46Z'
-published: '2026-06-27T00:00:00Z'
-description: After reporting an incident, Esme Rice waited 13 hours for a response
+scraped_at: "2026-06-27T21:23:46Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  After reporting an incident, Esme Rice waited 13 hours for a response
   from the British Transport Police.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ad/live/16744780-6aff-11f1-8e1d-bbbb1017d210.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ad/live/16744780-6aff-11f1-8e1d-bbbb1017d210.jpg
 ---
 
 ![Esme Rice standing outside the entrance to Stratford Station, east London. It is a full-body shot, she is dressed all in black, the sign which says 'Stratford Station' is behind her.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5b42/live/7e6cb680-6afd-11f1-8e1d-bbbb1017d210.jpg)

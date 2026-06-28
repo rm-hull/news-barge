@@ -3,12 +3,12 @@ title: Love Island's Alex Bowen to host Ibiza-themed fitness event in Harrogate 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/love-islands-alex-bowen-to-host-ibiza-themed-fitness-event-in-harrogate-puregym/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:43Z'
+scraped_at: '2026-06-28T15:36:23Z'
 published: '2026-06-25T00:00:00Z'
 description: Love Island star and DJ Alex Bowen is heading to PureGym Harrogate for
   a special one-off Ibiza-themed fitness event to celebrate his announcement as part
   of the Symphonic Ibiza line-up.
-thumbnail: https://mmo.aiircdn.com/409/6a3d92f093916ff8528.jpg
+image: https://mmo.aiircdn.com/409/6a3d92f093916ff8528.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3d92f093916ff8528.jpg) 

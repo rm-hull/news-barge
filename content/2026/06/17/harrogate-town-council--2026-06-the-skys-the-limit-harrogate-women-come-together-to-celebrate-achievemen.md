@@ -4,12 +4,12 @@ title: 'The Sky’s the Limit: Harrogate women come together to celebrate achiev
 source_url: https://harrogatetowncouncil.gov.uk/2026/06/the-skys-the-limit-harrogate-women-come-together-to-celebrate-achievement-and-collaboration/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:11Z'
+scraped_at: '2026-06-28T15:37:12Z'
 published: '2026-06-17T00:00:00Z'
 description: A recent event organised by the Women Winning group brought together
   60 women from Harrogate’s private, charity and voluntary sectors for an evening
   focused on connection, collaboration and community.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Women-Winning-Picture.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/06/Women-Winning-Picture.jpg
 ---
 
 The event, titled “The Sky’s the Limit”, was organised by ‘Women Winning’. This group was established about 18 months ago by Lynne Mee and Councillor Paula Stott. Although the initiative was not undertaken in her role as a councillor, it reflects the many ways in which councillors contribute to community life beyond the council chamber.

@@ -1,13 +1,14 @@
 ---
-title: 'World Cup 2026: Scouting Panama - what England can expect'
+title: "World Cup 2026: Scouting Panama - what England can expect"
 source_url: https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:51Z'
-published: '2026-06-27T00:00:00Z'
-description: Panama's results do not paint a true picture of their performances in
+scraped_at: "2026-06-27T21:23:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Panama's results do not paint a true picture of their performances in
   the World Cup so far - so what can England expect from them?
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f5e/live/a4825700-714a-11f1-93ee-112d8afd7f99.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f5e/live/a4825700-714a-11f1-93ee-112d8afd7f99.jpg
 ---
 
 ![Panama players pose for a team photo at the World Cup](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3f5e/live/a4825700-714a-11f1-93ee-112d8afd7f99.jpg)
@@ -76,7 +77,7 @@ So, playing around Panama is likely to be England's best way to create chances.
 
 Croatia's only goal came from exploiting this, with Panama looking to protect the centre of the pitch.
 
-![Screen grab from Croatia 1-0 Panama. Yellow connecting lines are drawn to illustrate Panama’s 5-4-1 shape. An arrow is draw to show the pass from centre back to right back.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2f98/live/baebddd0-7123-11f1-8546-8f19e4fe30f4.png) - Image caption, - Croatia's centre-back finds the right-back Josip Stanisic outside the width of Panama's midfield 
+![Screen grab from Croatia 1-0 Panama. Yellow connecting lines are drawn to illustrate Panama’s 5-4-1 shape. An arrow is draw to show the pass from centre back to right back.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2f98/live/baebddd0-7123-11f1-8546-8f19e4fe30f4.png) - Image caption, - Croatia's centre-back finds the right-back Josip Stanisic outside the width of Panama's midfield
 
 1 of 4
 
@@ -88,7 +89,7 @@ Tuchel was seen shouting at full-back Djed Spence from the touchline, encouragin
 
 This is something Tuchel will hope his players lean into in their third game.
 
-![Screen grab from England 0-0 Ghana. Arrows drawn show the path of the passes from Guehi to Spence to Gordon.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/084c/live/604c5cc0-7122-11f1-b1db-af71d47507d6.png) - Image caption, - Guehi finds Spence wider than Ghana's midfield width. Ghana only have four across midfield here. Spence then plays it into Gordon who has pulled wide - dragging the full-back with him 
+![Screen grab from England 0-0 Ghana. Arrows drawn show the path of the passes from Guehi to Spence to Gordon.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/084c/live/604c5cc0-7122-11f1-b1db-af71d47507d6.png) - Image caption, - Guehi finds Spence wider than Ghana's midfield width. Ghana only have four across midfield here. Spence then plays it into Gordon who has pulled wide - dragging the full-back with him
 
 1 of 2
 
@@ -120,7 +121,7 @@ But if Panama can find short and quick combinations before they speed up play - 
 
 Their fast attacks generally conclude in crosses rather than central through-balls.
 
-![Screen grab from Croatia 1-0 Panama showing Croatia’s pressure, illustrated by yellow lines linking the Croatian players to the Panama players they are covering. A dotted arrow is drawn to show the pass that is played forward.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8f62/live/8e606450-7120-11f1-b1db-af71d47507d6.png) - Image caption, - Panama on the ball look good. They are willing to absorb pressure, playing neat small-space combinations, before looking to get it forward in a deliberate manner 
+![Screen grab from Croatia 1-0 Panama showing Croatia’s pressure, illustrated by yellow lines linking the Croatian players to the Panama players they are covering. A dotted arrow is drawn to show the pass that is played forward.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8f62/live/8e606450-7120-11f1-b1db-af71d47507d6.png) - Image caption, - Panama on the ball look good. They are willing to absorb pressure, playing neat small-space combinations, before looking to get it forward in a deliberate manner
 
 1 of 2
 

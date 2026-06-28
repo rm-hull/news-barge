@@ -3,11 +3,11 @@ title: Selby site manager wins top national housebuilding quality award
 source_url: https://www.yorkpress.co.uk/news/26232197.persimmon-site-manager-selby-earns-national-honour/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:02Z'
+scraped_at: '2026-06-28T15:38:17Z'
 published: '2026-06-28T00:00:00Z'
 description: Tom Coleman, who works for Persimmon at its Staynor Hall development,
   has received a Pride in the Job 2026 Quality Award from the NHBC.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21106789.jpg?type=og-image&xType=0&yType=617
+image: https://www.yorkpress.co.uk/resources/images/21106789.jpg?type=og-image&xType=0&yType=617
 ---
 
 *(Image: Persimmon)*

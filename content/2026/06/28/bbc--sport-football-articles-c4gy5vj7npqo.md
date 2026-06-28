@@ -4,19 +4,17 @@ title: 'England tactics: How Jude Bellingham became Thomas Tuchel''s most import
 source_url: https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:53Z'
+scraped_at: '2026-06-28T15:35:49Z'
 published: '2026-06-28T00:00:00Z'
 description: His starting place was the subject of much debate in Thomas Tuchel's
   England team, but Jude Bellingham has become integral to the manager's style of
   play.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad1f/live/d3232560-72e1-11f1-b28d-37d67ec29837.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad1f/live/d3232560-72e1-11f1-b28d-37d67ec29837.jpg
 ---
 
 ![Bellingham celebrates during the World Cup match against Panama](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ad1f/live/d3232560-72e1-11f1-b28d-37d67ec29837.jpg)
 
 Jude Bellingham's tactical adaptability has become key to Thomas Tuchel's style of play with this England team
-
-- Published
 
 **In June 2024, Jude Bellingham scored a dramatic overhead kick in the 95th minute against Slovakia to rescue England's hopes at the Euros.**
 

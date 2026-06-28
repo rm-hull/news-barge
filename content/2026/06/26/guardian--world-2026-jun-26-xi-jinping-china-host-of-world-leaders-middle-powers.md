@@ -1,14 +1,16 @@
 ---
-title: Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’
+title:
+  Xi Jinping has hosted more than a dozen leaders this year, as ‘middle powers’
   look beyond the US
 source_url: https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
-published: '2026-06-26T00:00:00Z'
-description: China’s leader wants to promote his alternative to the current world
+scraped_at: "2026-06-27T21:28:23Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  China’s leader wants to promote his alternative to the current world
   order, and his efforts are being assisted by a capricious US
-thumbnail: https://i.guim.co.uk/img/media/cced5e8d877235ab62a03c59fed11947410c432d/740_496_2749_2198/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecb2eb4d61b12cd7c5dacdc45a49dac
+image: https://i.guim.co.uk/img/media/cced5e8d877235ab62a03c59fed11947410c432d/740_496_2749_2198/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecb2eb4d61b12cd7c5dacdc45a49dac
 ---
 
 Xi Jinping meets Bangladesh’s new prime minister on Friday, the latest in a wave of world leaders to visit Beijing this year as the Chinese leader builds his influence and economic ties, and seeks to “shift the balance of power” away from the west.
@@ -51,4 +53,4 @@ That is despite the fact that when it comes to actually solving international cr
 
 And when it comes to the war in Ukraine, China’s 12-point plan for a political settlement, published in 2023, has long been forgotten and is overshadowed by Beijing’s enduring support for Russia’s invasion.
 
-*Additional research by Yu-chen Li*
+_Additional research by Yu-chen Li_

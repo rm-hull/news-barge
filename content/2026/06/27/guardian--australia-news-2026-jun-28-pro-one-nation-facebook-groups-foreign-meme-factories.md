@@ -1,14 +1,16 @@
 ---
-title: Pro-One Nation Facebook groups appear to be run by foreign ‘meme factories’
+title:
+  Pro-One Nation Facebook groups appear to be run by foreign ‘meme factories’
   that monetise content
 source_url: https://www.theguardian.com/australia-news/2026/jun/28/pro-one-nation-facebook-groups-foreign-meme-factories-monetised-content-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T04:46:04Z'
-published: '2026-06-27T00:00:00Z'
-description: 'Exclusive: Guardian analysis suggests several groups with thousands
-  of members run by what expert calls ‘engagement farm’ operations in south-east Asia'
-thumbnail: https://i.guim.co.uk/img/media/5e1af9d53b1a5785256aaef0bff9aec5ea9484b2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01a552cbb89e9119e570daa09f443306
+scraped_at: "2026-06-28T04:46:04Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  "Exclusive: Guardian analysis suggests several groups with thousands
+  of members run by what expert calls ‘engagement farm’ operations in south-east Asia"
+image: https://i.guim.co.uk/img/media/5e1af9d53b1a5785256aaef0bff9aec5ea9484b2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01a552cbb89e9119e570daa09f443306
 ---
 
 Some of the largest One Nation supporter groups on Facebook appear to be run from overseas by foreign digital creators who monetise content.
@@ -53,11 +55,10 @@ The account, which was only created on 30 May, uses photos taken from a Facebook
 
 The “Farley” account moderates at least eight public Facebook groups related to One Nation, including two of the largest analysed by Guardian Australia as well as several with as few as 16 members – including one targeted at One Nation supporters in South Australia.
 
- Reached by phone, One Nation media adviser Richard Henderson said party members had been impersonated on Facebook for “years and years”, before saying he would not respond to media queries from Guardian Australia.
+Reached by phone, One Nation media adviser Richard Henderson said party members had been impersonated on Facebook for “years and years”, before saying he would not respond to media queries from Guardian Australia.
 
 The “Farley” account was removed after Guardian Australia approached Meta for comment.
 
 “We are reviewing the content that was shared [by Guardian Australia] and will remove anything that violates our policies,” a Meta spokesperson said.
 
-- 
-  Do you know more? Email [ariel.bogle@theguardian.com](mailto:ariel.bogle@theguardian.com)
+- Do you know more? Email [ariel.bogle@theguardian.com](mailto:ariel.bogle@theguardian.com)

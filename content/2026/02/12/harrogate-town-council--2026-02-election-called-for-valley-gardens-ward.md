@@ -3,11 +3,11 @@ title: Election Called for Valley Gardens Ward - Harrogate Town Council
 source_url: https://harrogatetowncouncil.gov.uk/2026/02/election-called-for-valley-gardens-ward/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-02-12T00:00:00Z'
 description: An election has been called to fill one vacancy for a councillor representing
   Valley Gardens Ward on Harrogate Town Council.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Untitled-design-2.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Untitled-design-2.png
 ---
 
 The Notice of Election, which you can see in full below, was published on Thursday 12 February 2026.

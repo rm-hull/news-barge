@@ -1,14 +1,16 @@
 ---
-title: Greens examining how party decides policy as membership triples under Zack
+title:
+  Greens examining how party decides policy as membership triples under Zack
   Polanski
 source_url: https://www.theguardian.com/politics/2026/jun/28/greens-examining-how-party-decides-policy-as-membership-triples-under-zack-polanski
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:12Z'
-published: '2026-06-28T00:00:00Z'
-description: 'Exclusive: Concerns in-person vote system is giving bigger say to organised
-  fringe activists who can attend conference'
-thumbnail: https://i.guim.co.uk/img/media/50c3684e5e1eb30ca1af8b95644259f22a908223/543_0_5433_4346/master/5433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99671b906f3f29f010d50173c47ba1b
+scraped_at: "2026-06-28T09:34:12Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  "Exclusive: Concerns in-person vote system is giving bigger say to organised
+  fringe activists who can attend conference"
+image: https://i.guim.co.uk/img/media/50c3684e5e1eb30ca1af8b95644259f22a908223/543_0_5433_4346/master/5433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99671b906f3f29f010d50173c47ba1b
 ---
 
 Senior Greens are examining ways to revamp the party’s structures to make it more effective and representative now its membership has more than tripled since Zack Polanski became leader.

@@ -3,14 +3,15 @@ title: Special milestone for Coppice Valley pupils
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/special-milestone-for-coppice-valley-pupils/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:06Z'
-published: '2026-06-22T00:00:00Z'
-description: A first-ever on-site bushcraft residential has been hailed as magical
+scraped_at: "2026-06-28T15:36:45Z"
+published: "2026-06-22T00:00:00Z"
+description:
+  A first-ever on-site bushcraft residential has been hailed as magical
   at Coppice Valley Primary School in Harrogate.
-thumbnail: https://mmo.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg
+image: https:o.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg) 
+![](https://mmo.aiircdn.com/409/6a38d0ee2f7af3816ff.jpg)
 
                                     A first-ever on-site bushcraft residential has been hailed as "magical" at Coppice Valley Primary School in Harrogate.
 
@@ -29,7 +30,6 @@ Our staff consistently go above and beyond. From planning every logistical eleme
 Most importantly, they have created lifelong memories for our children and I could not be prouder of what we have achieved together.
 
 We are so grateful for the funding and grant support we have received to enable this to happen and we look forward to being able to offer this to schools and children outside of Coppice, to provide equity of opportunity."
-
 
 During the residential, pupils learnt a range of bushcraft skills, including sawing wood to make spinning tops and drop spindles, completing orienteering challenges, taking part in team-building activities and cooking food over a campfire.
 

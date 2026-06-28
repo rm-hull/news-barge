@@ -3,11 +3,12 @@ title: Prince Harry may cancel UK family visit after being refused police protec
 source_url: https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:12Z'
-published: '2026-06-28T00:00:00Z'
-description: Sussexes trip to Britain in balance after government declines request
+scraped_at: "2026-06-28T09:34:12Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Sussexes trip to Britain in balance after government declines request
   for taxpayer-funded security
-thumbnail: https://i.guim.co.uk/img/media/041271662f598ca4a191435648048ee861595e92/221_131_2527_2023/master/2527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ece5dcddf0ce43c6e8ae05b735e0e7f
+image: https://i.guim.co.uk/img/media/041271662f598ca4a191435648048ee861595e92/221_131_2527_2023/master/2527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ece5dcddf0ce43c6e8ae05b735e0e7f
 ---
 
 The Duke of Sussex is understood to be reconsidering plans to bring his wife and children to the UK next month after his request for taxpayer-funded police protection was rejected.

@@ -3,11 +3,12 @@ title: Fatboy Slim says he felt paralysed at prospect of DJing sober after rehab
 source_url: https://www.theguardian.com/music/2026/jun/28/fatboy-slim-djing-sober-rehab-alcoholism-desert-island-discs
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T23:35:51Z'
-published: '2026-06-27T00:00:00Z'
-description: Speaking on Desert Island Discs, the Grammy-nominated musician referred
+scraped_at: "2026-06-27T23:35:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Speaking on Desert Island Discs, the Grammy-nominated musician referred
   to his alcoholism as a parasite
-thumbnail: https://i.guim.co.uk/img/media/4e3836efa441d5b635b40d11b79e06c100633df5/804_0_4163_3330/master/4163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba1ee5fe3c6ccbe7dbdf594298cdc678
+image: https://i.guim.co.uk/img/media/4e3836efa441d5b635b40d11b79e06c100633df5/804_0_4163_3330/master/4163.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba1ee5fe3c6ccbe7dbdf594298cdc678
 ---
 
 Fatboy Slim has said he felt paralysed and “rigid with fear” at the prospect of DJing sober after spending time in rehab to deal with his alcohol addiction.

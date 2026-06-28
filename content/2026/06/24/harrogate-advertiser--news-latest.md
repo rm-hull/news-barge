@@ -3,22 +3,18 @@ title: Latest
 source_url: https://www.harrogateadvertiser.co.uk/news/latest#
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:22Z'
+scraped_at: '2026-06-28T15:35:53Z'
 published: '2026-06-24T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
-thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
-![Pride of place at this month’s Vinyl Sessions music event in Harrogate will go to Thin Lizzy’s platinum-selling Greatest Hits album. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3YWFkM2VmLTVlMjktNGM3Ni1hNjU3LTViNWMxYjM0M2Q2Mjo1OGUzZTU2MS0wNDhkLTRhOWQtYTlhZi03MDI5N2Y3MDA3YWY=.jpg?crop=5:4,smart&trim=&quality=70&width=616)
+![Pride of place at this month’s Vinyl Sessions music event in Harrogate will go to Thin Lizzy’s platinum-selling Greatest Hits album. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg3YWFkM2VmLTVlMjktNGM3Ni1hNjU3LTViNWMxYjM0M2Q2Mjo1OGUzZTU2MS0wNDhkLTRhOWQtYTlhZi03MDI5N2Y3MDA3YWY=.jpg?crop=1:1,smart&trim=&quality=70&width=129)
 
 
 
 ![Great coffee and a warm welcome to the community - Westmoreland Coffee House owner Leda with daughter Melissa serving a customer. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU2Y2Q2MDI3LTRiMmEtNGNmOC04MTVkLWFmOTEwZmZkMjVkYTpiMTM0MTdlZS1iNTE0LTQ1MTMtYWMwZC05ZTA2YjgzYWM0MDg=.jpg?crop=1:1,smart&trim=&quality=70&width=129)
-
-
-
-![Recruiting in North Yorkshire - HECK! co-founder Jamie Keeble said: "It's a challenging time for recruitment across North Yorkshire, that's why creating opportunities to meet people face-to-face is so important." (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhN2VkNzQ3LWRlYjYtNDE1MC1hZDFiLTIwN2EyOGRiZDMzMzoxNjU1ZTlmMC1jYWQ4LTQ3NmItOGExNS05MmZjY2FjYTM2ODY=.jpg?crop=1:1,smart&trim=&quality=70&width=129)
 
 
 
@@ -28,6 +24,10 @@ thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&
 
 Sign Up
 
+![Recruiting in North Yorkshire - HECK! co-founder Jamie Keeble said: "It's a challenging time for recruitment across North Yorkshire, that's why creating opportunities to meet people face-to-face is so important." (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhN2VkNzQ3LWRlYjYtNDE1MC1hZDFiLTIwN2EyOGRiZDMzMzoxNjU1ZTlmMC1jYWQ4LTQ3NmItOGExNS05MmZjY2FjYTM2ODY=.jpg?crop=1:1,smart&trim=&quality=70&width=126)
+
+
+
 ![New appointments at Harrogate-based recycling brokerage, Clearpoint Recycling - From left, David Earle, strategic account director with Neil Campbell, UK and European Sales Director.  (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRhYTAyYjQ2LWZlMzMtNDNhZC04M2YwLWMxNTVkMWM0MGE2Nzo2ZWMwMmQ2Yi03YzdjLTRlZTMtODRkMC04YmYzYjVjMTA4M2Q=.jpg?crop=1:1,smart&trim=&quality=70&width=126)
 
 
@@ -36,7 +36,7 @@ Sign Up
 
 
 
-![Champion Beer of Britain success - From left, Daleside Brewery business development manager Vincent Staunton, Adam Cox, General Manager at Daleside Brewery and ex Daleside Head Brewer and blogger Rob Millichamp, who writes Rob's Beer Adventure.  (Picture Graham Chalmers)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgyOWUyMTVjLTAwZjItNGRiZS1hNjk1LWU2Y2U0OWJjNzcyNzpiNDlkODBkYi02ODI1LTRlYjktYTU1Ny00MTRkZGI5OTBlOWM=.jpg?crop=1:1,smart&trim=&quality=70&width=126)
+![Champion Beer of Britain success - From left, Daleside Brewery business development manager Vincent Staunton, Adam Cox, General Manager at Daleside Brewery and ex Daleside Head Brewer and blogger Rob Millichamp, who writes Rob's Beer Adventure.  (Picture Graham Chalmers)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgyOWUyMTVjLTAwZjItNGRiZS1hNjk1LWU2Y2U0OWJjNzcyNzpiNDlkODBkYi02ODI1LTRlYjktYTU1Ny00MTRkZGI5OTBlOWM=.jpg?crop=4:3,smart&trim=&quality=70&width=640)
 
 
 
@@ -44,7 +44,7 @@ Sign Up
 
 
 
-![The much-loved Harrogate Food and Drink Festival will return to the Stray for it’s sixth edition this weekend, celebrating internationally inspired and locally produced artisan food and drink](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmYzYxYjAyLTU2YTMtNGUyZS05ZmE0LTYxMTJkMjkyNTJmODpjYTBkYzc0OC02OTg3LTQwOTYtYmVmNC0wMjljNzM1NTc4NTU=.jpg?crop=4:3,smart&trim=&quality=70&width=640)
+![The much-loved Harrogate Food and Drink Festival will return to the Stray for it’s sixth edition this weekend, celebrating internationally inspired and locally produced artisan food and drink](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmYzYxYjAyLTU2YTMtNGUyZS05ZmE0LTYxMTJkMjkyNTJmODpjYTBkYzc0OC02OTg3LTQwOTYtYmVmNC0wMjljNzM1NTc4NTU=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
 
 
 
@@ -52,7 +52,7 @@ Sign Up
 
 
 
-![We take a look at the 15 best places to go for breakfast in the Harrogate district – as chosen by Harrogate Advertiser readers](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ0YzUzM2IxLWQyZjYtNDhiNC04OGI2LWZiYjdkMTk1MGI3NDo5Nzc4NTVjMS00OTdiLTRlYWUtYmU2Yy02MzNjNzEwMTRlNmI=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
+![Located in Pateley Bridge, Nidderdale High School is celebrating a positive Ofsted inspection report. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2ZjcyZDUxLWQyMDQtNDE5Ny04ODYxLTZkM2RlMjMyYTIyYjozMzNkM2ZlZi0wNGY2LTRjODItYTJjNC04OTlkNmI5NmY3ZWU=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
 
 
 
@@ -64,11 +64,11 @@ Sign Up
 
 
 
-![Ripon Theatre Festival highlight - The Three Musketeers - Ripon Spa Gardens - Saturday 11 July, 5.30pm. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3NzcxOWUyLWE4N2YtNDliNS1iOTNlLWJlYzE4MDM0Zjc1Yzo0MTJlNzRkMy0zMTlmLTQzNTUtOThmMy05YzI1YzlmYzVlOGU=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
+![Ripon Theatre Festival highlight - The Three Musketeers - Ripon Spa Gardens - Saturday 11 July, 5.30pm. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3NzcxOWUyLWE4N2YtNDliNS1iOTNlLWJlYzE4MDM0Zjc1Yzo0MTJlNzRkMy0zMTlmLTQzNTUtOThmMy05YzI1YzlmYzVlOGU=.jpg?crop=3:2,smart&trim=&quality=70&width=600)
 
 
 
-![Councillor Carl Les, Leader of North Yorkshire Council, hopes the next Prime Minister will tackle the “disconnect” between the North of England and the London-based government](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=3:2,smart&trim=&quality=70&width=600)
+![Councillor Carl Les, Leader of North Yorkshire Council, hopes the next Prime Minister will tackle the “disconnect” between the North of England and the London-based government](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRjNjZlZTI5LTU0MjQtNDU2Zi1hMDg5LWZhM2U1MjU1MDllYzpjMzY4MDg5Ny04N2JmLTQ5MjktOWQzNC1hOGIzNzYwMmM4YjU=.jpg?crop=1:1,smart&trim=&quality=70&width=168)
 
 
 
@@ -80,7 +80,7 @@ Sign Up
 
 
 
-![The Met Office has issued a yellow weather warning for thunderstorms across the Harrogate district from midnight tonight (June 25) till 10am on Friday (June 26)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjExNGIzZWJkLTlkN2ItNDJlNy05ZTkyLWNjNDhkNzJmMmVmYzo3MWYwZjcwMC01M2I5LTRlNzAtYjY5YS00OTJmODQyNjJiMzk=.jpg?trim=0,102,0,102&crop=&quality=70&width=168)
+![The Met Office has issued a yellow weather warning for thunderstorms across the Harrogate district from midnight tonight (June 25) till 10am on Friday (June 26)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjExNGIzZWJkLTlkN2ItNDJlNy05ZTkyLWNjNDhkNzJmMmVmYzo3MWYwZjcwMC01M2I5LTRlNzAtYjY5YS00OTJmODQyNjJiMzk=.jpg?trim=0,0,0,0&crop=&quality=70&width=280)
 
 
 
@@ -104,11 +104,11 @@ Sign Up
 
 
 
-![A popular flower-picking attraction, The Flower Belt, is set to open a new site in Harrogate this summer, bringing colourful blooms, live music and countryside experiences](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRjZDI5NTBjLTRiMTUtNGE3Yy1hYmFkLWI0OGYzOTlmZDlmNToyZGNmNTcwMS1lOWI1LTQ5NWUtYjAxZi1lMWI3MmFhZjk4MzE=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
+![A popular flower-picking attraction, The Flower Belt, is set to open a new site in Harrogate this summer, bringing colourful blooms, live music and countryside experiences](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRjZDI5NTBjLTRiMTUtNGE3Yy1hYmFkLWI0OGYzOTlmZDlmNToyZGNmNTcwMS1lOWI1LTQ5NWUtYjAxZi1lMWI3MmFhZjk4MzE=.jpg?crop=3:2,smart&trim=&quality=70&width=600)
 
 
 
-![Langdale Moor Fire 2025 - Image: North Yorkshire Fire and Rescue Service](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYWNmNGY5LTMzMzAtNDk5My04ZjllLTZmZDBkMWYxZTJjZDo4M2QyN2VjOS02MzZmLTRmZGMtYTAxMy02YmQxMzgyMDBmYWQ=.jpg?crop=3:2,smart&trim=&quality=70&width=600)
+![Langdale Moor Fire 2025 - Image: North Yorkshire Fire and Rescue Service](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYWNmNGY5LTMzMzAtNDk5My04ZjllLTZmZDBkMWYxZTJjZDo4M2QyN2VjOS02MzZmLTRmZGMtYTAxMy02YmQxMzgyMDBmYWQ=.jpg?crop=1:1,smart&trim=&quality=70&width=168)
 
 
 
@@ -120,7 +120,7 @@ Sign Up
 
 
 
-![In just 12 months, more than 1,000 people have taken part in a free tour in Knaresborough led by the Mayor’s Town Guides  - a remarkable achievement that has exceeded all expectations. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1MTAwYzYwLTVmNzEtNGI1NC05MGM4LWM5MDg0ZWM5YTc0YTpiYzdmMzFkNy1hMmE1LTQyYTAtOGE3ZC0wZjNkODk2YTQyYWU=.jpg?crop=1:1,smart&trim=&quality=70&width=168)
+![In just 12 months, more than 1,000 people have taken part in a free tour in Knaresborough led by the Mayor’s Town Guides  - a remarkable achievement that has exceeded all expectations. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1MTAwYzYwLTVmNzEtNGI1NC05MGM4LWM5MDg0ZWM5YTc0YTpiYzdmMzFkNy1hMmE1LTQyYTAtOGE3ZC0wZjNkODk2YTQyYWU=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
 
 
 
@@ -132,7 +132,7 @@ Sign Up
 
 
 
-![Adam William Snowdon, 34, from Harrogate, is wanted after York Magistrates’ Court issued a warrant for his arrest when he failed to appear at court in connection with the breach of a restraining order](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmEzNGJiZmE1LTJkMmMtNGY5Mi05NDYwLWU4ZDg0ZTllMzI2NTpmNDIwMTQ5ZS02NzdiLTQxNGUtYjk4NC0yZjM4MWY0NTM3MWE=.png?crop=3:2,smart&trim=&quality=70&width=280)
+![Adam William Snowdon, 34, from Harrogate, is wanted after York Magistrates’ Court issued a warrant for his arrest when he failed to appear at court in connection with the breach of a restraining order](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmEzNGJiZmE1LTJkMmMtNGY5Mi05NDYwLWU4ZDg0ZTllMzI2NTpmNDIwMTQ5ZS02NzdiLTQxNGUtYjk4NC0yZjM4MWY0NTM3MWE=.png?crop=undefined,smart&trim=&quality=70&width=168)
 
 
 
@@ -156,7 +156,7 @@ Sign Up
 
 
 
-![A map showing theare covered by the Heat Health Alert warning - Source Gov.uk](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjMjU1ZmZjLWI2OTMtNDcxOS1iOTYwLWY2MjgwOWFmNmMyZjphY2Q4YTVlOC04ZmE4LTRjOGUtOTViOC00MjQ0NzA5Y2RhMDU=.jpg?crop=undefined,smart&trim=&quality=70&width=168)
+![A map showing theare covered by the Heat Health Alert warning - Source Gov.uk](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjVjMjU1ZmZjLWI2OTMtNDcxOS1iOTYwLWY2MjgwOWFmNmMyZjphY2Q4YTVlOC04ZmE4LTRjOGUtOTViOC00MjQ0NzA5Y2RhMDU=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
 
 
 
@@ -168,7 +168,7 @@ Sign Up
 
 
 
-![The phenomenally good Dead Chic will take a detour on their current UK tour to play Harrogate's Blues Bar on Wednesday, June 24. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzMzY4OTRjLWI0YzMtNDdhYi04OTQ4LTdiNWQ4NjUzMzdjNzpkZTRiMzljYy02NTRlLTQ1ZTEtYTY1YS1mNjkyOTRlMDBiNjM=.jpg?crop=3:2,smart&trim=&quality=70&width=280)
+![The phenomenally good Dead Chic will take a detour on their current UK tour to play Harrogate's Blues Bar on Wednesday, June 24. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUzMzY4OTRjLWI0YzMtNDdhYi04OTQ4LTdiNWQ4NjUzMzdjNzpkZTRiMzljYy02NTRlLTQ1ZTEtYTY1YS1mNjkyOTRlMDBiNjM=.jpg?crop=undefined,smart&trim=&quality=70&width=168)
 
 
 
@@ -189,7 +189,3 @@ Sign Up
 
 
 ![New appointment at Harrogate-based law firm McCormicks Solicitors  -  Claire Baker-Kemp becomes Partner. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3MTJmN2E3LWJjZmUtNDU1MC04ZjhmLWU0NjE0ZmZiNTliYjoyYjVmMWUwYi0yZGQyLTQwYWQtYmI0Yy0wOTg2ZDdhNTJhNzc=.jpg?crop=undefined,smart&trim=&quality=70&width=168)
-
-
-
-![A Harrogate music legend - The late Derry Jones, front right,  gained widespread recognition as a member of the Jimmy O Show Band, which also included fellow Harrogate music legend Bob Mason. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmZlNGQzNzEwLTkxNTItNDc2Yy1hM2MyLWY5M2RlZTgzOTIwMDoyYzdmOTlhOS01NWY2LTQ1MWMtYWNkYi01MWZhZWZhMjE2OTQ=.jpg?crop=undefined,smart&trim=&quality=70&width=168)

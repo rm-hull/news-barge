@@ -3,11 +3,11 @@ title: 'World Cup 2026 last 32: A guide to penalty shootouts'
 source_url: https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:51Z'
+scraped_at: '2026-06-28T15:35:43Z'
 published: '2026-06-28T00:00:00Z'
 description: We have a look at what can be learned from every World Cup penalty taken
   in a shootout ever.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2a0/live/eff70070-5f5f-11f1-89a3-d1f559421220.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2a0/live/eff70070-5f5f-11f1-89a3-d1f559421220.jpg
 ---
 
 - Published

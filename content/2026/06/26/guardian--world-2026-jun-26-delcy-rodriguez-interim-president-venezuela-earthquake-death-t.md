@@ -4,11 +4,11 @@ title: Venezuela quake death toll reaches 920 as interim president vows to save 
 source_url: https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:22Z'
+scraped_at: '2026-06-28T15:35:35Z'
 published: '2026-06-26T00:00:00Z'
 description: Delcy Rodríguez says foreign rescue teams are arriving as anger grows
   at official response and limited resources
-thumbnail: https://i.guim.co.uk/img/media/3d48bfe43401e0e8e373d1809266e0aa21d28cce/101_0_3051_2441/master/3051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70d879edd61a58a608d2c5e7091fc55a
+image: https://i.guim.co.uk/img/media/3d48bfe43401e0e8e373d1809266e0aa21d28cce/101_0_3051_2441/master/3051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70d879edd61a58a608d2c5e7091fc55a
 ---
 
 Venezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggishness of the government’s response.

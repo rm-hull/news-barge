@@ -3,11 +3,11 @@ title: The YorkMix Hero Awards 2026 - nominations now open
 source_url: https://www.yorkmix.com/the-yorkmix-hero-awards-2026-nominations-now-open
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:17Z'
+scraped_at: '2026-06-28T15:37:29Z'
 published: '2026-03-25T00:00:00Z'
 description: The YorkMix Hero Awards are back for 2026 . Once again we’ve teamed up
   with Yorkshire Profiles to give you the chance to thank someone who makes
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/03/hero-nice-1.png
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/hero-nice-1.png
 ---
 
 The YorkMix Hero Awards are back for 2026 . Once again we’ve teamed up with Yorkshire Profiles to give you the chance to thank someone who makes life better where you live.

@@ -3,11 +3,11 @@ title: Five National Trust properties in and around York that are worth a visit
 source_url: https://www.yorkpress.co.uk/news/26226564.five-best-national-trust-sites-can-reach-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T14:12:20Z'
+scraped_at: '2026-06-28T15:37:42Z'
 published: '2026-06-28T00:00:00Z'
 description: The National Trust has multiple properties in and around York you can
   easily visit with your family for a quick day trip.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21098228.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21098228.jpg?type=og-image
 ---
 
 *(Image: Tripadvisor)*

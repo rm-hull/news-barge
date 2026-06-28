@@ -1,13 +1,14 @@
 ---
-title: 'T20 World Cup: England thrash New Zealand to charge into semi-finals'
+title: "T20 World Cup: England thrash New Zealand to charge into semi-finals"
 source_url: https://www.bbc.co.uk/sport/cricket/articles/c3vy1e0l774o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:51Z'
-published: '2026-06-27T00:00:00Z'
-description: England's winning run at the T20 World Cup continues with a rampant nine-wicket
+scraped_at: "2026-06-27T21:23:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  England's winning run at the T20 World Cup continues with a rampant nine-wicket
   victory over New Zealand in their final group game at The Oval.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c6d/live/5fa31860-726a-11f1-af47-e9419f280d0d.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c6d/live/5fa31860-726a-11f1-af47-e9419f280d0d.jpg
 ---
 
 England make breakthrough with three wickets in four balls
@@ -18,7 +19,7 @@ England make breakthrough with three wickets in four balls
 
 **England 164-1 (17.2 overs):**Wyatt-Hodge 89*(53), Dunkley 49* (38)
 
-*England won by nine wickets*
+_England won by nine wickets_
 
 **England's winning run at the T20 World Cup continued with a rampant nine-wicket victory over New Zealand in their final group game at The Oval.**
 

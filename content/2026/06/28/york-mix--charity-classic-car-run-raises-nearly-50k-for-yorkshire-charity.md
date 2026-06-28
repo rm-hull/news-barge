@@ -3,10 +3,10 @@ title: Charity classic car run raises nearly £50k for Yorkshire charity
 source_url: https://www.yorkmix.com/charity-classic-car-run-raises-nearly-50k-for-yorkshire-charity
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-28T09:36:09Z'
+scraped_at: '2026-06-28T15:37:25Z'
 published: '2026-06-28T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/MH-MHCCR26-lg-40-c-Bruce-Fitzgerald.webp
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/MH-MHCCR26-lg-40-c-Bruce-Fitzgerald.webp
 ---
 
 Nearly 50 classic cars have helped raise £47,000 for Martin House Children’s Hospice during the charity’s annual Mad Hatters Classic Car Run.

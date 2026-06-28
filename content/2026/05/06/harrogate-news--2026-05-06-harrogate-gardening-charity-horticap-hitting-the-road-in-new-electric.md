@@ -4,11 +4,11 @@ title: Harrogate gardening charity Horticap hitting the road in new electric veh
 source_url: https://www.harrogate-news.co.uk/2026/05/06/harrogate-gardening-charity-horticap-hitting-the-road-in-new-electric-vehicle/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T21:38:50Z'
+scraped_at: '2026-06-28T15:36:10Z'
 published: '2026-05-06T00:00:00Z'
 description: Harrogate horticultural charity Horticap is going even greener after
   securing sponsorship for a new electric van from developer the Banks Group.
-thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Horticap-van-pic-two.webp
+image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Horticap-van-pic-two.webp
 ---
 
 Harrogate horticultural charity Horticap is going even greener after securing sponsorship for a new electric van from developer the Banks Group.

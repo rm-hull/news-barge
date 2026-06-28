@@ -3,13 +3,13 @@ title: People news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/people/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:37:01Z'
+scraped_at: '2026-06-28T15:38:31Z'
 published: '2026-01-01T00:00:00Z'
 description: People news, features and opinion in and around Press | York Press
-thumbnail: null
+image: null
 ---
 
-![Tom Coleman, who works for Persimmon at its Staynor Hall development, has received a Pride in the Job 2026 Quality Award](https://www.yorkpress.co.uk/resources/images/320x200/1x/21106789.jpg) 
+![Former soldier, police officer, and now train driver at LNER, Jamie Burns is balancing a remarkable](https://www.yorkpress.co.uk/resources/images/320x200/1x/21105839.jpg) 
 
     
         

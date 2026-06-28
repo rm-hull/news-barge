@@ -3,11 +3,12 @@ title: We tested scones - which ones were truly scrumptious?
 source_url: https://www.yorkpress.co.uk/news/26233876.tested-scones---ones-truly-scrumptious/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:24Z'
-published: '2026-06-27T00:00:00Z'
-description: SCONES bring a taste of summer, especially if they are served in the
+scraped_at: "2026-06-27T21:38:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  SCONES bring a taste of summer, especially if they are served in the
   afternoon with jam and fresh cream.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21088708.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21088708.jpg?type=og-image
 ---
 
 ## We tested scones - which ones were truly scrumptious?
@@ -30,7 +31,7 @@ More than a year has passed since I last ate a scone, when invited to a friend�
 
 So, in the season of afternoon teas, I was keen to try out a selection of plain scones from leading supermarkets. Here’s what I thought.
 
-*Specially selected 4 All Butter Scones, Aldi, £1.49
+\*Specially selected 4 All Butter Scones, Aldi, £1.49
 
 These scones were uniform in shape, with a golden brown top. They were moist and light in texture, and had a pleasing buttery taste. I could imagine them being perfect with jam and cream. A really good price for four.
 
@@ -38,7 +39,7 @@ Pros: appearance, texture, taste, price.
 
 Cons: none.
 
-Mark: 4/5*Exceptional 4 All Butter Scones by Asda, £2.06
+Mark: 4/5\*Exceptional 4 All Butter Scones by Asda, £2.06
 
 These were a decent size and shape, but otherwise they were disappointing. Inside they felt quite dense and heavy. When chewing the dough felt a little sticky in my mouth. It tasted bready rather than buttery. More expensive than some.
 
@@ -48,19 +49,15 @@ Cons: texture, taste, price.
 
 Mark: 2/5
 
-  Taste the Difference Clotted Cream Scones from Sainsbury's
+Taste the Difference Clotted Cream Scones from Sainsbury's
 
+Morrisons The Best Plain Scones
 
-  Morrisons The Best Plain Scones
+Lidl's Deluxe All Butter Scones
 
+Tesco Finest All Butter Scones
 
-  Lidl's Deluxe All Butter Scones
-
-
-  Tesco Finest All Butter Scones
-
-
-*M&S Food 4 Plain Scones, All Butter, £2.20
+\*M&S Food 4 Plain Scones, All Butter, £2.20
 
 Not very appetising to look at – quite flat with a leathery-looking top. These were doughy in texture and were claggy in my mouth. The taste was that of a very basic, cheap scone, yet these were the most expensive of the selection. If I had made these myself I would think they needed longer in the oven.
 
@@ -68,7 +65,7 @@ Pros: none
 
 Cons: appearance, texture, taste, price.
 
-Mark: 1/5*Sainsbury’s Taste the Difference 4 Clotted Cream Scones, using an all butter recipe, £2.10
+Mark: 1/5\*Sainsbury’s Taste the Difference 4 Clotted Cream Scones, using an all butter recipe, £2.10
 
 A nice shape and a light, fluffy texture inside. I couldn’t detect a buttery taste, but I did enjoy the scone. They are clearly popular as I had to go to the store three times due to them selling out. More costly than most others.
 
@@ -78,7 +75,7 @@ Cons: taste (not buttery), price.
 
 Mark: 3/5
 
-*Lidl Deluxe 4 All Butter Scones, £1.49
+\*Lidl Deluxe 4 All Butter Scones, £1.49
 
 A decent appearance and size, but these were very crumbly. They broke up easily, so much so that it was hard to put a reasonably-sized piece in my mouth without it falling apart - I ended up with bits all over the plate, and on my lap. The scone had a nice buttery taste but it was quite dry, which explained the crumbs. A good price.
 
@@ -88,13 +85,11 @@ Cons: consistency, texture.
 
 Mark: 2/5
 
-  M&S Plain Scones
+M&S Plain Scones
 
+Asda Exceptional All Butter Scones
 
-  Asda Exceptional All Butter Scones
-
-
-  Aldi Specially Selected All Butter Scones*Tesco 4 Finest All Butter Scones, £2.10 (£1.55 with Tesco Clubcard)
+Aldi Specially Selected All Butter Scones\*Tesco 4 Finest All Butter Scones, £2.10 (£1.55 with Tesco Clubcard)
 
 A decent size and shape, with a golden brown top, these had a lovely fluffy texture and a really nice buttery taste. They were soft in the mouth and would be delicious with jam and cream. A good price too, with the Clubcard. Top marks.
 

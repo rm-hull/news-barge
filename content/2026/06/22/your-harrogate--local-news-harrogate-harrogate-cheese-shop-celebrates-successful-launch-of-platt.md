@@ -3,14 +3,15 @@ title: Harrogate cheese shop celebrates successful launch of charcuterie platter
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-cheese-shop-celebrates-successful-launch-of-platters/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:03Z'
-published: '2026-06-22T00:00:00Z'
-description: The Cheeseboard in Harrogate launched their new charcuterie platters
+scraped_at: "2026-06-28T15:36:42Z"
+published: "2026-06-22T00:00:00Z"
+description:
+  The Cheeseboard in Harrogate launched their new charcuterie platters
   last weekend.
-thumbnail: https://mmo.aiircdn.com/409/6a391110d4049fd912f.jpg
+image: https:o.aiircdn.com/409/6a391110d4049fd912f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a391110d4049fd912f.jpg) 
+![](https://mmo.aiircdn.com/409/6a391110d4049fd912f.jpg)
 
                                     The Cheeseboard in Harrogate launched their new charcuterie platters last weekend.
 
@@ -27,7 +28,6 @@ Speaking on the success of the launch, owner of the Cheeseboard, Gemma, said:
 "I'm so pleased how well the cheese and charcuterie platters were received.
 
 "The tables were full, the plates were clean and the sunshine shone! We paired our scrumptious cheese with delicious wine from Ake & Humphris, the perfect combination!"
-
 
 The charcuterie platters will continue to be available, with new options becoming available.
 

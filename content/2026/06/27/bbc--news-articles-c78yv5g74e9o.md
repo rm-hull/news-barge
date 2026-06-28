@@ -3,11 +3,12 @@ title: Australia to double penalties for platforms in breach of social media ban
 source_url: https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-27T00:00:00Z'
-description: Children under the age of 16 have been prevented from 10 key social media
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Children under the age of 16 have been prevented from 10 key social media
   platforms in Australia since December 2025.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ba8/live/f77e45a0-71d0-11f1-8281-1bc626104723.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ba8/live/f77e45a0-71d0-11f1-8281-1bc626104723.jpg
 ---
 
 ![The app symbols for Snapchat, YouTube, Facebook, TikTok, Instagram and X are displayed on a smartphone screen, under the label Social Media.](https://ichef.bbci.co.uk/ace/standard/644/cpsprodpb/2ba8/live/f77e45a0-71d0-11f1-8281-1bc626104723.jpg)

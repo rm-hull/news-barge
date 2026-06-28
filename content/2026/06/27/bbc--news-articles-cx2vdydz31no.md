@@ -3,11 +3,12 @@ title: Heatwave breaks records in Germany, Denmark and Czech Republic
 source_url: https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T04:46:08Z'
-published: '2026-06-27T00:00:00Z'
-description: An estimated 150 million people are now experiencing temperatures of
+scraped_at: "2026-06-28T04:46:08Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  An estimated 150 million people are now experiencing temperatures of
   over 35C across Europe.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg
 ---
 
 ![A woman with an umbrella shields herself from the sun in Prague's Old Town](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/afaa/live/fe3ba4d0-725e-11f1-b4a5-2d0098f6c080.jpg)
@@ -16,7 +17,7 @@ The Czech Republic was among the countries hit by record temperatures
 
 - Published
 
-**Europe has experienced****another day of extreme heat****with temperature records being broken across the continent again on Saturday.**
+**Europe has experienced\*\***another day of extreme heat\***\*with temperature records being broken across the continent again on Saturday.**
 
 Germany set a new all-time high for the second day in a row, as temperatures reached 41.5C, according to provisional data.
 

@@ -3,11 +3,11 @@ title: Yorkshire temperatures set to soar in June heatwave
 source_url: https://www.bbc.co.uk/news/articles/c8d2ergpg81o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:58Z'
+scraped_at: '2026-06-28T15:37:21Z'
 published: '2026-06-23T00:00:00Z'
 description: As temperatures soar in Yorkshire here are answers, tips and fixes, to
   keep you informed and cool.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddd2/live/b254f850-6e53-11f1-b648-1b56797cb133.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddd2/live/b254f850-6e53-11f1-b648-1b56797cb133.jpg
 ---
 
 Record-breaking June heatwave due this week

@@ -3,11 +3,11 @@ title: Countryside visitors urged to take "extra caution" to avoid risk of fire
 source_url: https://www.bbc.co.uk/news/articles/c77yz8lpl6xo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:20Z'
 published: '2026-06-26T00:00:00Z'
 description: '"A moment''s carelessness can have consequences that last for generations",
   campaigners say.'
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54fd/live/681e9f20-7083-11f1-b4dc-512444fe8681.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54fd/live/681e9f20-7083-11f1-b4dc-512444fe8681.png
 ---
 
 ![A firefighter, on one knee, aims water from a hose towards charred-looking trees. The firefighter is wearing a black T-shirt, braces and a yellow high-visibility helmet. They are looking towards a fog of grey smoke.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/54fd/live/681e9f20-7083-11f1-b4dc-512444fe8681.png)

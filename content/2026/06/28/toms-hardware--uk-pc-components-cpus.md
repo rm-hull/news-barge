@@ -3,11 +3,11 @@ title: CPUs
 source_url: https://www.tomshardware.com/uk/pc-components/cpus
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:54Z'
+scraped_at: '2026-06-28T15:38:48Z'
 published: '2026-06-28T00:00:00Z'
 description: CPU reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 Microprocessors are the beating heart of your computer, and cutting edge technical advances continue to drive the technology forward. From chiplet tech and nanoprocessing to AI chips and more, Tom's Hardware is the industry standard for CPU news and reviews.

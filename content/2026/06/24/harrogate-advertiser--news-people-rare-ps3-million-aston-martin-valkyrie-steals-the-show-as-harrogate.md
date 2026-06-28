@@ -4,12 +4,12 @@ title: Rare £3 million Aston Martin Valkyrie steals the show as Harrogate celeb
 source_url: https://www.harrogateadvertiser.co.uk/news/people/rare-ps3-million-aston-martin-valkyrie-steals-the-show-as-harrogate-celebrates-classic-and-modern-motoring-8759415
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:25Z'
+scraped_at: '2026-06-28T15:35:57Z'
 published: '2026-06-24T00:00:00Z'
 description: The third annual Harrogate Concours once again attracted huge crowds
   of car enthusiasts as almost 100 classic vehicles and high-powered sports cars rolled
   into the town centre.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmMGY3YmZlLTJiNmEtNGRkZC1hZjk2LWQwMzdmMzM0MmU3ZTo5NzBhNGZmMS0yY2UzLTQ2YmItOTViNS0wNWZmNjJjMTQzMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmMGY3YmZlLTJiNmEtNGRkZC1hZjk2LWQwMzdmMzM0MmU3ZTo5NzBhNGZmMS0yY2UzLTQ2YmItOTViNS0wNWZmNjJjMTQzMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Rare £3 million Aston Martin Valkyrie steals the show as Harrogate celebrates classic and modern motoring

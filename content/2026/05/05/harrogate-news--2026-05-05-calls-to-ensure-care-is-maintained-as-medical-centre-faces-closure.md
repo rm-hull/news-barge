@@ -4,12 +4,12 @@ title: Calls to ensure care is maintained as medical centre faces closure | Harr
 source_url: https://www.harrogate-news.co.uk/2026/05/05/calls-to-ensure-care-is-maintained-as-medical-centre-faces-closure/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T21:38:53Z'
+scraped_at: '2026-06-28T15:36:11Z'
 published: '2026-05-05T00:00:00Z'
 description: Health chiefs will be urged to outline how care will be provided for
   communities in some of the deepest rural parts of North Yorkshire with the closure
   of a
-thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Reeth-Medical-Centre.webp
+image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Reeth-Medical-Centre.webp
 ---
 
 Health chiefs will be urged to outline how care will be provided for communities in some of the deepest rural parts of North Yorkshire with the closure of a GP practice serving hundreds of patients.

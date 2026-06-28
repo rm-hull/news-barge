@@ -3,10 +3,10 @@ title: Talks planned to coordinate opposition to North Yorkshire asylum centre p
 source_url: https://www.yorkmix.com/talks-planned-to-coordinate-opposition-to-north-yorkshire-asylum-centre-plan
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:15Z'
+scraped_at: '2026-06-28T15:37:28Z'
 published: '2026-06-26T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2022/05/raf-linton-on-ouse-near-york-dd.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2022/05/raf-linton-on-ouse-near-york-dd.jpg
 ---
 
 Regional leaders are set to hold urgent talks to coordinate opposition to the government’s plans to house asylum seekers at the former RAF Linton-on-Ouse site.

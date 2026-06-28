@@ -4,11 +4,11 @@ title: This is everything you need to know about Ripon Theatre Festival coming s
 source_url: https://www.harrogateadvertiser.co.uk/news/people/this-is-everything-you-need-to-know-about-ripon-theatre-festival-coming-soon-in-july-2026-8762106
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:23Z'
+scraped_at: '2026-06-28T15:35:55Z'
 published: '2026-06-25T00:00:00Z'
 description: Ripon Theatre Festival has unveiled it own top five ‘don't miss this’
   moments as the clock ticks down to its launch in just over a week’s time.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3NzcxOWUyLWE4N2YtNDliNS1iOTNlLWJlYzE4MDM0Zjc1Yzo0MTJlNzRkMy0zMTlmLTQzNTUtOThmMy05YzI1YzlmYzVlOGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY3NzcxOWUyLWE4N2YtNDliNS1iOTNlLWJlYzE4MDM0Zjc1Yzo0MTJlNzRkMy0zMTlmLTQzNTUtOThmMy05YzI1YzlmYzVlOGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # This is everything you need to know about Ripon Theatre Festival coming soon in July 2026

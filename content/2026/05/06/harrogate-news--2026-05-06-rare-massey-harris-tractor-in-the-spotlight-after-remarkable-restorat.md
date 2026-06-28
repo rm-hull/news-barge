@@ -4,11 +4,11 @@ title: Rare Massey‑Harris tractor in the spotlight after remarkable restoratio
 source_url: https://www.harrogate-news.co.uk/2026/05/06/rare-massey-harris-tractor-in-the-spotlight-after-remarkable-restoration-journey/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-06-27T21:38:50Z'
+scraped_at: '2026-06-28T15:36:09Z'
 published: '2026-05-06T00:00:00Z'
 description: A rare mid‑1950s Massey‑Harris 744D tractor is set to take pride of place
   at Tractor Fest this summer as part of the event’s celebration of Scottish
-thumbnail: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Mark-Deans-sons-2-year-old-George-and-James-4-put-the-finishing-touches-to-his-Massey-Harris-Tractor.webp
+image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Mark-Deans-sons-2-year-old-George-and-James-4-put-the-finishing-touches-to-his-Massey-Harris-Tractor.webp
 ---
 
 A rare mid‑1950s Massey‑Harris 744D tractor is set to take pride of place at Tractor Fest this summer as part of the event’s celebration of Scottish engineering.

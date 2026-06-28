@@ -3,11 +3,11 @@ title: 'World Cup 2026: How Fifa president Gianni Infantino is jetting around'
 source_url: https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:13Z'
+scraped_at: '2026-06-28T15:35:43Z'
 published: '2026-06-28T00:00:00Z'
 description: Gianni Infantino has clocked up thousands of air miles across North America
   so far.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png
 ---
 
 ![Fifa President Gianni Infantino in a suit, with a map of North America in the background and a bright green illustrated flight path looping around him and small airplane icons tracing the routes. A blue border is around the image and in the top left reads “BBC Verify"](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png)
@@ -70,7 +70,7 @@ Therefore Infantino's travel is believed to have produced roughly the amount of 
 
 The plane holds up to 19 people and we don't know how many were on board for each flight, so we can't break down the exact emissions per passenger.
 
-![Grid graphic titled “Infantino has attended 24 games in 16 days” showing a sequence of photographs dated 11–27 June. Each image pairs a World Cup match with a date. The source is Getty Images and Gianna Infantino's Instagram account.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c4b5/live/75969880-72ca-11f1-b1db-af71d47507d6.png)
+![Grid graphic titled “Infantino has attended 24 games in 16 days” showing a sequence of photographs dated 11–27 June. Each image pairs a World Cup match with a date. The source is Getty Images and Gianna Infantino's Instagram account.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6813/live/f7271450-72d5-11f1-b1db-af71d47507d6.png)
 
 A Fifa representative told BBC Sport: "The Fifa president routinely travels, together with relevant officials, on business and tournament-related matters and strives to visit member associations of Fifa whenever he can.
 

@@ -1,13 +1,14 @@
 ---
-title: 'World Cup 2026: England through to last 32 - who could they play next?'
+title: "World Cup 2026: England through to last 32 - who could they play next?"
 source_url: https://www.bbc.co.uk/sport/football/articles/c1wylljn12xo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T23:35:55Z'
-published: '2026-06-27T00:00:00Z'
-description: England secure top spot in group L and a World Cup last 32 tie against
+scraped_at: "2026-06-27T23:35:55Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  England secure top spot in group L and a World Cup last 32 tie against
   a third-placed team with a 2-0 win over Panama on Saturday.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg
 ---
 
 ![Declan Rice and Harry Kane](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/867c/live/668f4290-70f1-11f1-be4e-5da6babab635.jpg)

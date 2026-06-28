@@ -1,24 +1,25 @@
 ---
-title: Martin Lewis reveals cheapest fixes available now as energy bills rise by 13
+title:
+  Martin Lewis reveals cheapest fixes available now as energy bills rise by 13
   per cent
 source_url: https://www.yorkpress.co.uk/news/26233767.martin-lewis-reveals-cheapest-fixes-available-now-energy-bills-rise/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:21Z'
-published: '2026-06-27T00:00:00Z'
-description: Martin Lewis has issued an urgent warning to anyone still on a standard
+scraped_at: "2026-06-27T21:38:21Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Martin Lewis has issued an urgent warning to anyone still on a standard
   variable tariff as the Energy Price Cap shoots up next week
-thumbnail: https://www.yorkpress.co.uk/resources/images/21102814.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21102814.jpg?type=og-image
 ---
 
-*(Image: PA)*
+_(Image: PA)_
 
 Millions of households face a sharp rise in energy bills from next week, prompting consumer champion Martin Lewis to issue an urgent warning to anyone still on a standard variable tariff.
 
 The founder of MoneySavingExpert says customers who have not fixed their energy prices could see bills soar when the new Energy Price Cap takes effect on July 1, pushing typical annual costs up by £221 to £1,862.
 
 And with energy experts warning prices could remain elevated for the rest of 2026, Martin Lewis says now could be one of the last opportunities to secure a cheaper fixed deal before rates climb further.
-
 
 ## Martin Lewis: "Get off the Price Cap before it jumps"
 
@@ -31,7 +32,6 @@ The deal allows households to lock in energy prices until August 2027, providing
 Lewis added that fixed tariffs react to current market conditions, while the Price Cap reflects wholesale costs from previous months.
 
 That means consumers can currently secure rates that are significantly lower than the prices many households will automatically move onto next week.
-
 
 ## Cheapest British Gas fix since Middle East tensions began
 

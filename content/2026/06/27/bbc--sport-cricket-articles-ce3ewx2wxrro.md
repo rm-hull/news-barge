@@ -1,21 +1,22 @@
 ---
-title: 'England vs New Zealand: Home side in danger in decider at Trent Bridge'
+title: "England vs New Zealand: Home side in danger in decider at Trent Bridge"
 source_url: https://www.bbc.co.uk/sport/cricket/articles/ce3ewx2wxrro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:50Z'
-published: '2026-06-27T00:00:00Z'
-description: England’s deciding Test against New Zealand - and perhaps the future
+scraped_at: "2026-06-27T21:23:50Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  England’s deciding Test against New Zealand - and perhaps the future
   of the hosts’ management - hangs in the balance after a dramatic and fluctuating
   third day at Trent Bridge.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c771/live/9aec5810-724b-11f1-899c-07e9a6b85769.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c771/live/9aec5810-724b-11f1-899c-07e9a6b85769.jpg
 ---
 
 New Zealand back on top after fluctuating third day
 
 **Third Rothesay Test, Trent Bridge (day three of five)**
 
-**New Zealand 438**(Conway 157, Latham 151; Stokes 4-70) **& 120-3:**Ravindra 60***England 354:**Duckett 113, Bethell 74; Smith 4-91*New Zealand are 204 runs ahead***England's deciding Test against New Zealand - and perhaps the future of the hosts' management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.**
+**New Zealand 438**(Conway 157, Latham 151; Stokes 4-70) **& 120-3:**Ravindra 60**\*England 354:**Duckett 113, Bethell 74; Smith 4-91\*New Zealand are 204 runs ahead**\*England's deciding Test against New Zealand - and perhaps the future of the hosts' management - hangs in the balance after a dramatic and fluctuating third day at Trent Bridge.**
 
 As a previously flat pitch began to break up and play tricks, England first surrendered the initiative with the bat, then tried gamely with the ball to hang in the contest.
 

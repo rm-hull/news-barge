@@ -3,11 +3,11 @@ title: Stories to make you smile from across Yorkshire
 source_url: https://www.bbc.co.uk/news/articles/cd0m243nn74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:59Z'
+scraped_at: '2026-06-28T15:37:23Z'
 published: '2026-06-21T00:00:00Z'
 description: This week we feature a local designer of World Cup scarves and an adventurous
   seaside snake.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae18/live/fc2ed500-6a33-11f1-8e1d-bbbb1017d210.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae18/live/fc2ed500-6a33-11f1-8e1d-bbbb1017d210.png
 ---
 
 ![Three side-by-side images; on the left, a brown-haired man with a grey shirt and clear rimmed glasses smiles. in the middle, a man with light blonde hair and referee uniform looks to the side. On the right, an older woman with short blonde hair wearing a fluorescent yellow coat smiles in a selfie-style image.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ae18/live/fc2ed500-6a33-11f1-8e1d-bbbb1017d210.png)

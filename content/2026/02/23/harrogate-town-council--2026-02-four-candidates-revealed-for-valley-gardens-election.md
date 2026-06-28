@@ -3,11 +3,11 @@ title: Four candidates revealed for Valley Gardens election. - Harrogate Town Co
 source_url: https://harrogatetowncouncil.gov.uk/2026/02/four-candidates-revealed-for-valley-gardens-election/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-02-23T00:00:00Z'
 description: The Statement of Persons Nominated for the above election has been published
   by the Returning Officer.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Untitled-design-3.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/02/Untitled-design-3.png
 ---
 
 As four candidates have been validly nominated for the vacancy in Valley Gardens Ward, the election is contested and a poll will take place on 19th March 2026.

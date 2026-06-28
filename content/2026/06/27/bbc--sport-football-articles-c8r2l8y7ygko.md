@@ -1,18 +1,19 @@
 ---
-title: 'England player ratings: How players rated in Panama World Cup game'
+title: "England player ratings: How players rated in Panama World Cup game"
 source_url: https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T23:35:55Z'
-published: '2026-06-27T00:00:00Z'
-description: BBC Sport's England reporter Alex Howell rates the players after the
+scraped_at: "2026-06-27T23:35:55Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  BBC Sport's England reporter Alex Howell rates the players after the
   Three Lions' win over Panama in the World Cup.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c52/live/68037670-727a-11f1-b1db-af71d47507d6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c52/live/68037670-727a-11f1-b1db-af71d47507d6.jpg
 ---
 
 - Published
 
-**Second-half goals from Jude Bellingham and Harry Kane helped England beat Panama****2-0****to ensure they finished top of Group L.**
+**Second-half goals from Jude Bellingham and Harry Kane helped England beat Panama\*\***2-0\***\*to ensure they finished top of Group L.**
 
 BBC Sport England reporter **Alex Howell**assesses how the players performed in New York - and you can have your say at the bottom of the page too.
 

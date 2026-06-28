@@ -3,11 +3,11 @@ title: North Yorkshire campaign encourages visitors to send more postcards
 source_url: https://www.yorkpress.co.uk/news/26232737.picture-perfect-campaign-revive-postcard-writing-yorkshire/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:33Z'
+scraped_at: '2026-06-28T15:38:03Z'
 published: '2026-06-28T00:00:00Z'
 description: Tourism businesses across North Yorkshire are being invited to participate
   in a free summer visitor marketing campaign that will tap into the power…
-thumbnail: https://www.yorkpress.co.uk/resources/images/21107730.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21107730.jpg?type=og-image
 ---
 
 Tourism businesses across North Yorkshire are being invited to participate in a free summer visitor marketing campaign that will tap into the power of nostalgia and revive the once staple holiday activity - sending postcards.

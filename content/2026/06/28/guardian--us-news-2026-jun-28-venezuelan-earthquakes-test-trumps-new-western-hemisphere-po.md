@@ -4,11 +4,11 @@ title: Venezuelan earthquakes test Trump’s new western hemisphere policy after
 source_url: https://www.theguardian.com/us-news/2026/jun/28/venezuelan-earthquakes-test-trumps-new-western-hemisphere-policy-after-gutting-of-usaid
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T10:33:07Z'
+scraped_at: '2026-06-28T15:35:35Z'
 published: '2026-06-28T00:00:00Z'
 description: Marco Rubio is scrambling to provide effective disaster response to country
   whose president US deposed in January
-thumbnail: https://i.guim.co.uk/img/media/ccacd3ccd1b84966144695f5a98392e8f47c26e0/10_0_3838_3072/master/3838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c736053f2a9aaa0faa4f85f30e505e24
+image: https://i.guim.co.uk/img/media/ccacd3ccd1b84966144695f5a98392e8f47c26e0/10_0_3838_3072/master/3838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c736053f2a9aaa0faa4f85f30e505e24
 ---
 
 This week’s dual earthquakes in Venezuela are a test for the new era of American power in the western hemisphere, as the Trump administration scrambles to provide an effective disaster response mission to a country that it now calls an ally in Latin America, after a US special forces raid in January deposed the country’s strongman leader, Nicolás Maduro.

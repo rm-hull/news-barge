@@ -3,11 +3,12 @@ title: Banned swimmer's daughters to realise Commonwealth Games dream
 source_url: https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:48Z'
-published: '2026-06-24T00:00:00Z'
-description: Annette Cowley was not allowed to compete at the 1986 Games as she was
+scraped_at: "2026-06-27T21:23:48Z"
+published: "2026-06-24T00:00:00Z"
+description:
+  Annette Cowley was not allowed to compete at the 1986 Games as she was
   caught in a political storm.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3981/live/a89bbed0-6e34-11f1-9fdc-51e252bb92b4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3981/live/a89bbed0-6e34-11f1-9fdc-51e252bb92b4.jpg
 ---
 
 ![Olivia (left) and Georgia Nel stand in front of a swimming pool. They both have long blonde hair and are wearing white tracksuits, carrying toy birds and wearing gold medals.](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/3981/live/a89bbed0-6e34-11f1-9fdc-51e252bb92b4.jpg)

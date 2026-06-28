@@ -4,11 +4,11 @@ title: Harrogate law firm McCormicks strengthens property team with staff of imp
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-law-firm-mccormicks-strengthens-property-team-with-staff-of-impressive-experience-8755924
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:27Z'
+scraped_at: '2026-06-28T15:36:00Z'
 published: '2026-06-23T00:00:00Z'
 description: A leading Harrogate firm has moved to strengthen its property team with
   two major appointments.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3MTJmN2E3LWJjZmUtNDU1MC04ZjhmLWU0NjE0ZmZiNTliYjoyYjVmMWUwYi0yZGQyLTQwYWQtYmI0Yy0wOTg2ZDdhNTJhNzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3MTJmN2E3LWJjZmUtNDU1MC04ZjhmLWU0NjE0ZmZiNTliYjoyYjVmMWUwYi0yZGQyLTQwYWQtYmI0Yy0wOTg2ZDdhNTJhNzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate law firm McCormicks strengthens property team with staff of impressive experience

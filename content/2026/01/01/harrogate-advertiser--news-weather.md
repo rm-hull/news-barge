@@ -3,11 +3,11 @@ title: Weather
 source_url: https://www.harrogateadvertiser.co.uk/news/weather
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:21Z'
+scraped_at: '2026-06-28T15:35:51Z'
 published: '2026-01-01T00:00:00Z'
 description: Get all of the latest Weather news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
-thumbnail: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
 ---
 
 ![The Met Office has issued a yellow weather warning for thunderstorms across the Harrogate district from midnight tonight (June 25) till 10am on Friday (June 26)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjExNGIzZWJkLTlkN2ItNDJlNy05ZTkyLWNjNDhkNzJmMmVmYzo3MWYwZjcwMC01M2I5LTRlNzAtYjY5YS00OTJmODQyNjJiMzk=.jpg?trim=0,51,0,51&crop=&quality=70&width=612)

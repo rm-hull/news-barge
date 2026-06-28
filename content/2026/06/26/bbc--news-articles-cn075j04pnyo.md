@@ -3,11 +3,12 @@ title: The people leaving the West behind in search of the Russian dream
 source_url: https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:45Z'
-published: '2026-06-26T00:00:00Z'
-description: The BBC asks Westerners who moved to Russia if life there lives up to
+scraped_at: "2026-06-27T21:23:45Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  The BBC asks Westerners who moved to Russia if life there lives up to
   expectations.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg
 ---
 
 ![Person in the foreground wearing a grey beanie hat, glasses, a dark coat and a backpack, with snow on clothing and shoulders. Snow-covered cobbled square surrounds the scene. In the background, St Basil’s Cathedral with colourful onion domes stands to the left, and a red brick Kremlin wall with a tower is on the right. Several pedestrians walk across the square, and a parked vehicle is visible near the wall. Snow is falling lightly across the image.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/c3bb/live/e7896c00-7163-11f1-a589-278435dff441.jpg)
@@ -135,7 +136,7 @@ While it has failed to attract a large wave of "anti-woke" immigration, it has m
 ## More weekend picks
 
 - Published25 May 2025
- ![Father Moses McPherson, a Russian Orthodox priest](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ae73/live/84976680-2671-11f0-8c66-ebf25fc2cfef.jpg) 
-![An image of Geumseung, 21, a North Korean refugee who has settled in Seoul overlaying a picture of the China-North Korea border fence](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png) 
+  ![Father Moses McPherson, a Russian Orthodox priest](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ae73/live/84976680-2671-11f0-8c66-ebf25fc2cfef.jpg)
+  ![An image of Geumseung, 21, a North Korean refugee who has settled in Seoul overlaying a picture of the China-North Korea border fence](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2dc8/live/41c46680-29f6-11f1-934f-036468834728.png)
 - Published15 March
- ![Ekaterina Barrett takes her three dogs for a stroll in Monaco. 8 June 2023](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/743d/live/fe616f80-13db-11f1-801d-ed3cff6bf876.jpg)
+  ![Ekaterina Barrett takes her three dogs for a stroll in Monaco. 8 June 2023](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/743d/live/fe616f80-13db-11f1-801d-ed3cff6bf876.jpg)

@@ -1,46 +1,47 @@
 ---
-title: 'Social media bans go global: big tech faces a reckoning after Australia’s
-  crackdown'
+title:
+  "Social media bans go global: big tech faces a reckoning after Australia’s
+  crackdown"
 source_url: https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:23Z'
-published: '2026-06-27T00:00:00Z'
-description: As a host of countries move to rein in social media use by children,
+scraped_at: "2026-06-27T21:28:23Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  As a host of countries move to rein in social media use by children,
   could this be technology’s big tobacco moment?
-thumbnail: https://i.guim.co.uk/img/media/457ae9432504849099aa4f23c6c62307d78d51ff/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f357aba0f975aabbdef21288c847efbd
+image: https://i.guim.co.uk/img/media/457ae9432504849099aa4f23c6c62307d78d51ff/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f357aba0f975aabbdef21288c847efbd
 ---
 
 ## Quick Guide#### Contributors
 
-
-**Tiago Rogero** *in Rio de Janeiro*
+**Tiago Rogero** _in Rio de Janeiro_
 
 **Sam Jones** *in Madrid* 
 
 **Angelique Chrisafis** *in Paris* 
 
-**Natasha May** *in Bangkok*
+**Natasha May** _in Bangkok_
 
 **Helena Smith** *in Athens* 
 
 **Leyland Cecco** *in Toronto* 
 
-**Hannah Ellis-Petersen** *in Delhi*
+**Hannah Ellis-Petersen** _in Delhi_
 
 **Jennifer Rankin** *in Brussels* 
 
-**Dan Milmo** *in London*
+**Dan Milmo** _in London_
 
 **Kate Connolly** *in Berlin* 
 
 **Miranda Bryant**  
 
-**Alastair McCready** *in Taipei*
+**Alastair McCready** _in Taipei_
 
 **Rachel Savage** *in Johannesburg* 
 
-**Ankita Rao** 
+**Ankita Rao**
 
 **Nick Robins-Early**
 

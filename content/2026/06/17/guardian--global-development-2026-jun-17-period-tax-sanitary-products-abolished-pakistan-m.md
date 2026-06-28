@@ -3,11 +3,11 @@ title: ‘Period tax’ on sanitary products to be abolished, says Pakistan mini
 source_url: https://www.theguardian.com/global-development/2026/jun/17/period-tax-sanitary-products-abolished-pakistan-minister
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
+scraped_at: '2026-06-28T15:35:39Z'
 published: '2026-06-17T00:00:00Z'
 description: Campaigners welcome announcement cutting levies on menstrual health items,
   but say their work to end period poverty is ‘far from over’
-thumbnail: https://i.guim.co.uk/img/media/05aba9e1d0c7e63f6422be5e606145c12ea24315/0_102_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=843a0d4f1dfc1eb67bd00db09e95da60
+image: https://i.guim.co.uk/img/media/05aba9e1d0c7e63f6422be5e606145c12ea24315/0_102_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=843a0d4f1dfc1eb67bd00db09e95da60
 ---
 
 Pakistan plans to abolish “period tax”, in a victory for young campaigners who had taken the government to court over the charges.

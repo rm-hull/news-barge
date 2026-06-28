@@ -1,12 +1,12 @@
 ---
-title: 'Australia news live: shark-spotting drones to patrol NSW beaches year-round'
+title: "Australia news live: shark-spotting drones to patrol NSW beaches year-round"
 source_url: https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T22:59:00Z'
-published: '2026-06-27T00:00:00Z'
+scraped_at: "2026-06-27T22:59:00Z"
+published: "2026-06-27T00:00:00Z"
 description: Follow the day’s updates live
-thumbnail: https://i.guim.co.uk/img/media/ec3ac45ac6dfc8e8d7b01cfa2b60bafabea817da/525_0_6040_4834/master/6040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=049af890a53266f310a80ebaf64f2455
+image: https://i.guim.co.uk/img/media/ec3ac45ac6dfc8e8d7b01cfa2b60bafabea817da/525_0_6040_4834/master/6040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=049af890a53266f310a80ebaf64f2455
 ---
 
 A UAV pilot flies a shark-spotting drone at Coogee Beach in Sydney on 16 June. NSW has announced it will expand its shark-spotting drone technology year-round. Photograph: Hollie Adams/Reuters

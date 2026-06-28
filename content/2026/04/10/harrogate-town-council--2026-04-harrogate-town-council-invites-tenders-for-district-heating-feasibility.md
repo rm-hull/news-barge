@@ -4,12 +4,12 @@ title: Harrogate Town Council Invites Tenders for District Heating Feasibility S
 source_url: https://harrogatetowncouncil.gov.uk/2026/04/harrogate-town-council-invites-tenders-for-district-heating-feasibility-study/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-04-10T00:00:00Z'
 description: Harrogate Town Council is pleased to announce a second opportunity for
   suitably qualified consultants to tender for the delivery of a feasibility study
   exploring the development of low-carbon district heating networks across the town.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/Heat-Network-Image.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/Heat-Network-Image.jpg
 ---
 
 This project forms a key part of the Council’s commitment to sustainability, with a focus on reducing carbon emissions while supporting affordable heating solutions for residents, particularly in areas experiencing higher levels of deprivation.

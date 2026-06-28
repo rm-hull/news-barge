@@ -3,16 +3,17 @@ title: PICTURES - New Mediterranean bar and restaurant opens in York city centre
 source_url: https://www.yorkpress.co.uk/news/26233136.mediterranean-bar-restaurant-vermillion-goodramgate/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:14Z'
-published: '2026-06-27T00:00:00Z'
-description: A new restaurant which strives to unite the countries in the Mediterranean
+scraped_at: "2026-06-27T21:38:14Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  A new restaurant which strives to unite the countries in the Mediterranean
   under one roof has opened its doors in a busy York street.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21108401.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21108401.jpg?type=og-image
 ---
 
 ## PICTURES - New Mediterranean bar and restaurant opens in York city centre
 
-The bar *(Image: Alice Kavanagh)*
+The bar _(Image: Alice Kavanagh)_
 
 A NEW restaurant which strives to unite the countries in the Mediterranean under one roof has opened its doors in a busy York street.
 
@@ -20,12 +21,10 @@ Vermillion, a Mediterranean-inspired bar and restaurant owned by Bilal Akay, has
 
 After moving to York six months ago to further his daughter’s education, Bilal said that he wanted to open his own restaurant, with the transformation of the venue taking close to four months to complete.
 
-  **RECOMMENDED READING:**
+**RECOMMENDED READING:**
 
-- 
-    **Popular Australian brand opens doors on new York shop**
-- 
-    **Popular York supermarket to reopen next month after major renovation**
+- **Popular Australian brand opens doors on new York shop**
+- **Popular York supermarket to reopen next month after major renovation**
 
 He said: "There was five or six layers of fake bricks and the ceiling was full of rubbish. I wanted to find the actual features of the building, so after a lot of digging and cleaning, we finally did.
 
@@ -33,9 +32,9 @@ He said: "There was five or six layers of fake bricks and the ceiling was full o
 
 Bilal added that the name Vermillion was inspired by the reddish and orange colours of the bricks uncovered during the renovation.
 
-  Some of the original 'Vermillion' brick 
+Some of the original 'Vermillion' brick
 
-*(Image: Alice Kavanagh)*
+_(Image: Alice Kavanagh)_
 
 Open all day, they currently offer dinner and lunch service, with plans to introduce brunch soon, featuring both Mediterranean and more classic options including Turkish breakfast, Greek breakfast, and eggs benedict.
 
@@ -43,17 +42,17 @@ On an evening, they offer a selection of small plates and larger fishes includin
 
 Bilal said: "We really invested in the place - beautiful cocktails, good wines from all around the world, quality service, and a professional team.
 
-  Bilal behind the bar 
+Bilal behind the bar
 
-*(Image: Alice Kavanagh)*
+_(Image: Alice Kavanagh)_
 
 "We have some really nice dishes from all over the Mediterranean: a bit of Greece, a bit of Spain, a bit of Turkey. We want to bring the countries together.
 
 "When you go to the coast in those countries there are always little places to share food, so that’s what we wanted to create here.
 
-  A spicy margarita 
+A spicy margarita
 
-*(Image: Alice Kavanagh)*
+_(Image: Alice Kavanagh)_
 
 "Nothing too big, just enough to please people, and everything fresh. We want everyone who comes in to feel happy, and for that feeling to last when they leave.
 

@@ -3,11 +3,12 @@ title: JD Vance claims US holds all the cards in Iran and will win ‘either way
 source_url: https://www.theguardian.com/us-news/2026/jun/27/jd-vance-bill-maher-iran-war
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:24Z'
-published: '2026-06-27T00:00:00Z'
-description: Vice-president appeared on Bill Maher’s show hours before more military
+scraped_at: "2026-06-27T21:28:24Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Vice-president appeared on Bill Maher’s show hours before more military
   strikes were exchanged in strait of Hormuz
-thumbnail: https://i.guim.co.uk/img/media/e0d0d03b95f2f99a2e5a00434bfc56711aa011ff/202_0_2014_1612/master/2014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d609d80b62aa08c09a912ef3589a5a05
+image: https://i.guim.co.uk/img/media/e0d0d03b95f2f99a2e5a00434bfc56711aa011ff/202_0_2014_1612/master/2014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d609d80b62aa08c09a912ef3589a5a05
 ---
 
 JD Vance said on Friday that the US wins “either way” regarding negotiations with Iran, pointing to what he called the destruction of its nuclear program and diminishment as a country.

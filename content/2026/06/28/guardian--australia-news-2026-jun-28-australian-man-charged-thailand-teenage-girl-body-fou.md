@@ -4,10 +4,10 @@ title: Australian man charged with murder in Thailand after teenage girl’s bod
 source_url: https://www.theguardian.com/australia-news/2026/jun/28/australian-man-charged-thailand-teenage-girl-body-found-in-suitcase-pattaya-city-ntwnfb
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T10:33:08Z'
+scraped_at: '2026-06-28T15:35:36Z'
 published: '2026-06-28T00:00:00Z'
 description: Simon Peter Carman, 46, has denied the charges against him
-thumbnail: https://i.guim.co.uk/img/media/11876f2cc998b58d66e9a1d6f29c4720af7b4c9f/195_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04cb92304920ce93adfc92e09855b689
+image: https://i.guim.co.uk/img/media/11876f2cc998b58d66e9a1d6f29c4720af7b4c9f/195_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04cb92304920ce93adfc92e09855b689
 ---
 
 An Australian man has been charged with the murder of a teenage girl whose naked body was found in a suitcase in Thailand.

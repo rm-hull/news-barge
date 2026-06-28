@@ -3,11 +3,12 @@ title: Thunderstorms delay hundreds of Heathrow and Gatwick flights
 source_url: https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:44Z'
-published: '2026-06-27T00:00:00Z'
-description: More than 900 flights have been delayed at Heathrow and Gatwick, many
+scraped_at: "2026-06-27T21:23:44Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  More than 900 flights have been delayed at Heathrow and Gatwick, many
   due to stormy weather south of the UK.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg
 ---
 
 ![Easyjet planes on the tarmac at Gatwick airport.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d5cd/live/2ba12510-722a-11f1-b6b6-39a51194ddf9.jpg)
@@ -28,7 +29,7 @@ More than 474 flights arriving at or departing from Heathrow have been delayed s
 
 Delays to affected flights vary. Heathrow's live arrival board shows a British Airways flight from Santiago, Chile, that was due to land at 10:00 BST but is now not expected to arrive until 21:00 this evening.
 
-Europe-wide aviation agency****Eurocontrol mapping shows the most severe air traffic control delays in airspace between south-east England and north-western Europe, where the storm clouds are currently located.
+Europe-wide aviation agency\*\*\*\*Eurocontrol mapping shows the most severe air traffic control delays in airspace between south-east England and north-western Europe, where the storm clouds are currently located.
 
 However, other UK airports remain largely unaffected.
 

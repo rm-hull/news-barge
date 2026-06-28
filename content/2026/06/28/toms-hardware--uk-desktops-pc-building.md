@@ -3,11 +3,11 @@ title: PC Building
 source_url: https://www.tomshardware.com/uk/desktops/pc-building
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:52Z'
+scraped_at: '2026-06-28T15:38:45Z'
 published: '2026-06-28T00:00:00Z'
 description: Advice on PC building and the best PC builds around, from the expert
   team at Tom's Hardware.
-thumbnail: null
+image: null
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/kuvSEGav6suFNU4cBrDMCF-320-80.jpg)

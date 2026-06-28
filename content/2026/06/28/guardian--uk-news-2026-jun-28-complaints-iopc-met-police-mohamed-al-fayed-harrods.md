@@ -3,11 +3,11 @@ title: Complaints filed to police watchdog over Met’s handling of Al Fayed abu
 source_url: https://www.theguardian.com/uk-news/2026/jun/28/complaints-iopc-met-police-mohamed-al-fayed-harrods
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:48Z'
+scraped_at: '2026-06-28T15:35:40Z'
 published: '2026-06-28T00:00:00Z'
 description: IOPC confirms complaints from three survivors of alleged sexual misconduct
   by late Harrods owner in addition to ongoing investigation
-thumbnail: https://i.guim.co.uk/img/media/c7b42afc8f85b05a3f8dc4c81afa969f07708a6b/0_458_2807_2246/master/2807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=384701b00d38307682afe3dfb2a2f763
+image: https://i.guim.co.uk/img/media/c7b42afc8f85b05a3f8dc4c81afa969f07708a6b/0_458_2807_2246/master/2807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=384701b00d38307682afe3dfb2a2f763
 ---
 
 Survivors of abuse at the hands of the late Harrods owner Mohamed Al Fayed have complained to a watchdog about how the Metropolitan police handled allegations.

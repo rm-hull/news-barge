@@ -3,18 +3,19 @@ title: Food and drink news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/food-and-drink/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:37:50Z'
+scraped_at: '2026-06-28T15:37:40Z'
 published: '2026-01-01T00:00:00Z'
 description: Food and drink news, features and opinion in and around Press | York
   Press
-thumbnail: null
+image: null
 ---
 
-![The bar offers Italian wines, cocktails, and ales as well as Italian food.](https://www.yorkpress.co.uk/resources/images/320x200/1x/21082026.jpg) 
+![Best ice cream spots in York - our top spots to try.](https://www.yorkpress.co.uk/resources/images/320x200/1x/21101588.jpg) 
 
     
         
-        # Food and drink
+        
+    # Food and drink
 
 Loading...
 

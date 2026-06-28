@@ -1,18 +1,20 @@
 ---
-title: Harrogate teacher to cycle 1,000 miles for charity after Buckingham Palace
+title:
+  Harrogate teacher to cycle 1,000 miles for charity after Buckingham Palace
   honour
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-teacher-to-cycle-1000-miles-for-charity-after-buckingham-palace-honour/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:19Z'
-published: '2026-06-18T00:00:00Z'
-description: A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s
+scraped_at: "2026-06-28T15:36:58Z"
+published: "2026-06-18T00:00:00Z"
+description:
+  A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s
   End to John O’Groats for charity – just weeks after being honoured at Buckingham
   Palace.
-thumbnail: https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg
+image: https:o.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg) 
+![](https://mmo.aiircdn.com/409/6a34026f0c5d8c0fb23.jpg)
 
                                     A former Harrogate teacher is preparing to cycle 1,000 miles from Land’s End to John O’Groats for charity – just weeks after being honoured at Buckingham Palace.
 
@@ -24,7 +26,6 @@ Mrs Furniss, who retired last summer, travelled to London with her daughter Holl
 
 ![](https://mmo.aiircdn.com/409/6a34026f178b867c00b.jpg)
 
-
 During the afternoon, she enjoyed tea, sandwiches and cake in the Palace gardens and had the opportunity to speak with both HRH The Queen and HRH The Princess Royal.
 
 Mrs Furniss, who taught at BGS for more than four decades before retiring last summer, said:
@@ -32,7 +33,6 @@ Mrs Furniss, who taught at BGS for more than four decades before retiring last s
 “Attending the Royal Garden Party was such an amazing experience, a real experience of a lifetime and I was very honoured to have been invited.
 
 “The Queen asked me if I was enjoying my retirement and that I deserved it after 43 years of teaching – I was so amazed she was talking to me. I told her I was doing a bike ride!”
-
 
 That bike ride begins this weekend as Mrs Furniss embarks on the length-of-Britain challenge.
 
@@ -46,5 +46,4 @@ Despite having completed previous cycling challenges, Mrs Furniss admits this wi
 
 “I am excited but I also have a little bit of trepidation. But I’m doing the ride with an organised group so there is a support system in place.”
 
-
-*Anyone wishing to support Mrs Furniss and her fundraising efforts can do so via her**JustGiving page.*
+_Anyone wishing to support Mrs Furniss and her fundraising efforts can do so via her\*\*JustGiving page._

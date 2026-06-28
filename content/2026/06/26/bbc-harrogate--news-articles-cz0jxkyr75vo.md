@@ -3,11 +3,11 @@ title: Drunk Leeds Bradford plane passenger who assaulted officers jailed
 source_url: https://www.bbc.co.uk/news/articles/cz0jxkyr75vo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:20Z'
 published: '2026-06-26T00:00:00Z'
 description: Nathan Cooper is sentenced over a fight that broke out on a plane bound
   for Crete last summer.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e52/live/619e5360-717e-11f1-a417-dfae8167aae6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e52/live/619e5360-717e-11f1-a417-dfae8167aae6.jpg
 ---
 
 ![Mugshot of Nathan Cooper, who has wavy dark hair and is wearing a grey top.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/8e52/live/619e5360-717e-11f1-a417-dfae8167aae6.jpg)

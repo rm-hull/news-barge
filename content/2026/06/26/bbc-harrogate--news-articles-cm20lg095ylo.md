@@ -3,11 +3,11 @@ title: Golden eagle released in Borders conservation project shot with 17 pellet
 source_url: https://www.bbc.co.uk/news/articles/cm20lg095ylo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:57Z'
+scraped_at: '2026-06-28T15:37:20Z'
 published: '2026-06-26T00:00:00Z'
 description: Gamekeepers in the Lammermuir Hills spotted the bird with damaged wings
   around the beginning of June.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1be4/live/b52dee30-714e-11f1-8836-a15622d321c0.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1be4/live/b52dee30-714e-11f1-8836-a15622d321c0.jpg
 ---
 
 ![An X-Ray of a golden eagle with little white spots where shotgun pellets have lodged](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1be4/live/b52dee30-714e-11f1-8836-a15622d321c0.jpg)

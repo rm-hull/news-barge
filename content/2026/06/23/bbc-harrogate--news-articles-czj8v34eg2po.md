@@ -3,11 +3,11 @@ title: North Yorkshire Council leader to stand down next year
 source_url: https://www.bbc.co.uk/news/articles/czj8v34eg2po?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:58Z'
+scraped_at: '2026-06-28T15:37:21Z'
 published: '2026-06-23T00:00:00Z'
 description: Conservative leader Carl Les will see the party through the May elections
   before a contest is held.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1775/live/c37ef3f0-6f2b-11f1-90cb-3d10628a505e.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1775/live/c37ef3f0-6f2b-11f1-90cb-3d10628a505e.jpg
 ---
 
 ![Two men in formal suits shaking hands outside a large stone building with arched doorways.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1775/live/c37ef3f0-6f2b-11f1-90cb-3d10628a505e.jpg)

@@ -1,20 +1,21 @@
 ---
-title: 'Scotland out of World Cup 2026: Steve Clarke''s side eliminated in group stage'
+title: "Scotland out of World Cup 2026: Steve Clarke's side eliminated in group stage"
 source_url: https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T23:35:52Z'
-published: '2026-06-27T00:00:00Z'
-description: Scotland are out of the 2026 World Cup as they are unable to finish the
+scraped_at: "2026-06-27T23:35:52Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Scotland are out of the 2026 World Cup as they are unable to finish the
   group stage as one of the eight best third-placed teams.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/84b9/live/16c604b0-71c8-11f1-b1db-af71d47507d6.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/84b9/live/16c604b0-71c8-11f1-b1db-af71d47507d6.jpg
 ---
 
 Highlights: Scotland lose final group match to Brazil
 
 - Published
 
-**Scotland have been eliminated from the 2026 World Cup following****Croatia's 2-1 win over Ghana****.**
+**Scotland have been eliminated from the 2026 World Cup following\*\***Croatia's 2-1 win over Ghana\***\*.**
 
 The result in Group L means Steve Clarke's side cannot finish as one of the eight best third-placed teams that will reach the knockout stage.
 

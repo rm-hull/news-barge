@@ -1,14 +1,16 @@
 ---
-title: '‘I’m missing out’: the cash-strapped UK university students forced to live
-  at home'
+title:
+  "‘I’m missing out’: the cash-strapped UK university students forced to live
+  at home"
 source_url: https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
-published: '2026-06-27T00:00:00Z'
-description: Experts say students from poorer backgrounds increasingly having to limit
+scraped_at: "2026-06-27T21:28:25Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Experts say students from poorer backgrounds increasingly having to limit
   their options because of money worries
-thumbnail: https://i.guim.co.uk/img/media/ebda5975620ed48db4f9d7a1687b5ce11b81c4a7/649_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9c0a0051b24dbe98b05faf14e35bcae
+image: https://i.guim.co.uk/img/media/ebda5975620ed48db4f9d7a1687b5ce11b81c4a7/649_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9c0a0051b24dbe98b05faf14e35bcae
 ---
 
 Most days, Mariam spends hours simply waiting.

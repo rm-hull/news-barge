@@ -3,11 +3,11 @@ title: Call to divert York ring road funds to keep schools cool
 source_url: https://www.yorkpress.co.uk/news/26230869.york-divert-ring-road-funds-keep-schools-cool/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T09:36:40Z'
+scraped_at: '2026-06-28T15:38:13Z'
 published: '2026-06-28T00:00:00Z'
 description: Do you agree with our letter writer that York should prioritise spending
   money on keeping schools cool rather than improving the ring road?
-thumbnail: https://www.yorkpress.co.uk/resources/images/21104604.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21104604.jpg?type=og-image
 ---
 
 **York should divert ring road funds to keep schools cool**

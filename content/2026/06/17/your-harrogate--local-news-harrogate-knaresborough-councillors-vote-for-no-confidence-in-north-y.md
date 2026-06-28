@@ -3,11 +3,11 @@ title: Knaresborough councillors vote for 'no confidence' in North Yorkshire Cou
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/knaresborough-councillors-vote-for-no-confidence-in-north-yorkshire-council/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:31Z'
+scraped_at: '2026-06-28T15:37:11Z'
 published: '2026-06-17T00:00:00Z'
 description: Knaresborough Town Council has voted overwhelmingly to pass a motion
   of 'No Confidence' in North Yorkshire Council.
-thumbnail: https://mmo.aiircdn.com/409/6a15b12af0821.jpg
+image: https://mmo.aiircdn.com/409/6a15b12af0821.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a15b12af0821.jpg) 

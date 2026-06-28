@@ -3,11 +3,11 @@ title: Harrogate independents shine as Muddy Stilettos Awards winners announced
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-independents-shine-as-muddy-stilettos-awards-winners-announced/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:29Z'
+scraped_at: '2026-06-28T15:37:08Z'
 published: '2026-06-17T00:00:00Z'
 description: Seven businesses and individuals from across the Harrogate district have
   been crowned winners in the Muddy Stilettos Awards 2026.
-thumbnail: https://mmo.aiircdn.com/409/6a32a27e143a3a6303b.jpg
+image: https://mmo.aiircdn.com/409/6a32a27e143a3a6303b.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a32a27e143a3a6303b.jpg) 

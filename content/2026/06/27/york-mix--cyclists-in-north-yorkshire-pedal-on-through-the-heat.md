@@ -3,10 +3,10 @@ title: Cyclists in North Yorkshire pedal on through the heat
 source_url: https://www.yorkmix.com/cyclists-in-north-yorkshire-pedal-on-through-the-heat
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:15Z'
+scraped_at: '2026-06-28T15:37:27Z'
 published: '2026-06-27T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/Cathedral-Visitor-Centre-Externals-17-copy-950x950-1.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/Cathedral-Visitor-Centre-Externals-17-copy-950x950-1.jpg
 ---
 
 **Cyclists are battling the challenges of the heatwave** and continuing with a **200-mile ride to support children in care.**

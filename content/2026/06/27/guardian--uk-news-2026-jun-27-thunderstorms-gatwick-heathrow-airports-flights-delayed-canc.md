@@ -1,14 +1,16 @@
 ---
-title: Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed or
+title:
+  Thunderstorms disrupt Gatwick and Heathrow as hundreds of flights delayed or
   cancelled
 source_url: https://www.theguardian.com/uk-news/2026/jun/27/thunderstorms-gatwick-heathrow-airports-flights-delayed-cancelled
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-27T21:28:25Z'
-published: '2026-06-27T00:00:00Z'
-description: Passengers report being stuck on grounded planes in sweltering conditions
+scraped_at: "2026-06-27T21:28:25Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Passengers report being stuck on grounded planes in sweltering conditions
   as severe weather causes travel disruption across Europe
-thumbnail: https://i.guim.co.uk/img/media/92130c26e2a07e6f65384f4fef228283da462d42/163_0_1653_1324/master/1653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31c1aa3519d0b4f4d4b74bc33a0ea045
+image: https://i.guim.co.uk/img/media/92130c26e2a07e6f65384f4fef228283da462d42/163_0_1653_1324/master/1653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31c1aa3519d0b4f4d4b74bc33a0ea045
 ---
 
 Thunderstorms have caused severe delays to hundreds of flights at Heathrow and Gatwick airports, leaving passengers stuck on grounded planes for hours in the scorching heat.
@@ -37,7 +39,7 @@ British Airways said in a statement: “Like other airlines, we’ve had to make
 
 EasyJet said it had to “pre-emptively cancel some flights to and from Gatwick in advance” over the thunderstorms.
 
-“We are doing all possible to minimise the impact of the weather disruption for our customers and are notifying passengers in advance with their options to rebook or receive a refund as well as hotel accommodation and meals where required,”****a spokesperson said.
+“We are doing all possible to minimise the impact of the weather disruption for our customers and are notifying passengers in advance with their options to rebook or receive a refund as well as hotel accommodation and meals where required,”\*\*\*\*a spokesperson said.
 
 Delays have also hit smaller airports including Leeds Bradford and Edinburgh, with three departures delayed at the former and four arrivals and 15 departures delayed at the latter on Saturday due to the weather.
 

@@ -3,18 +3,19 @@ title: Fabulous walk with 2 iconic landmarks and stunning sea and moorland views
 source_url: https://www.yorkpress.co.uk/news/26230277.country-walk---captain-cooks-monument-roseberry-topping/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:16Z'
-published: '2026-06-27T00:00:00Z'
-description: This week's lovely walk on the edge of the North York Moors allows you
+scraped_at: "2026-06-27T21:38:16Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  This week's lovely walk on the edge of the North York Moors allows you
   to enjoy Captain Cook's monument and Roseberry Topping
-thumbnail: https://www.yorkpress.co.uk/resources/images/21097108.jpg?type=og-image
+image: https://www.yorkpress.co.uk/resources/images/21097108.jpg?type=og-image
 ---
 
 ## Fabulous walk with 2 iconic landmarks and stunning sea and moorland views
 
 Roseberry Topping Trig point. Images: Jonathan Smith
 
-  **Country walk - Captain Cook's Monument and Roseberry Topping**
+**Country walk - Captain Cook's Monument and Roseberry Topping**
 
 ON the northern fringes of the North York Moors lie two distinctive features. One is man-made (the 60ft monument to Captain Cook who worked in nearby Staithes) and one is more natural (Roseberry Topping).
 
@@ -24,8 +25,7 @@ At the station cross the lines and almost immediately take the lane to your righ
 
 After entering via a gate follow the wall to your right till it meets a forest track, turn left and follow this all the way to Captain Cook's Monument. You can’t miss it.
 
-  Roseberry Topping Trig point. Images: Jonathan Smith
-
+Roseberry Topping Trig point. Images: Jonathan Smith
 
 Erected in 1827, the monument stands an impressive 60 ft high and is built as a memorial to the great explorer and navigator Captain Cook. Born nearby, he was educated in Great Ayton before going on to work in Staithes on the coast where he learnt his seafaring skills. The monument stands on the clearing of Easby Moor, with some views available above the top of the forest.
 
@@ -35,19 +35,17 @@ Continue over the road and follow the Cleveland Way across the moor, still headi
 
 The view from the summit is extensive and varied; from the North Sea to the housing estates of Teesside and from the nearby forestry to the vast sprawling moors further afield. It is a good summit, protected from the erosion nearby by a hard sandstone cover.
 
-  Captain Cook's Monument
-
+Captain Cook's Monument
 
 From the summit a path drops steeply down the slopes, initially south west and then south as it meets Newton Wood. Follow the path in the woods, bearing right so you continue downhill and turning in a westerly direction after a few hundred metres.
 
 Emerge from the woods. cross the railway line, turn immediately left and follow a faint path that leads in to the northern outskirts of Great Ayton.
 
-  *More walks:*
+_More walks:_
 
 ## Fact Box
 
-  Captain Cook's Monument
-
+Captain Cook's Monument
 
 Distance: Roughly 6.5 miles
 
@@ -61,7 +59,7 @@ Refreshments: The Royal Oak in Ayton is good.
 
 Be Prepared: The route description and sketch map only provide a guide to the walk. You must take out and be able to read a map (O/S Explorer OL26) and in cloudy/misty conditions a compass. You must also wear the correct clothing and footwear for the outdoors. Whilst every effort is made to provide accurate information, walkers head out at their own risk.
 
-* Jonathan runs Where2walk, a walking company based in the Yorkshire Dales:
+- Jonathan runs Where2walk, a walking company based in the Yorkshire Dales:
 
 He has written four books on walking in the Dales; ‘The Yorkshire 3 Peaks’, ‘Walks without Stiles, ‘The Dales 30’ mountains and the long distance path ‘The Bracken Way. Buy them direct from Where2walk
 

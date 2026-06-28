@@ -3,11 +3,12 @@ title: Mahmood announces new refugee sponsorship route into UK
 source_url: https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:47Z'
-published: '2026-06-26T00:00:00Z'
-description: The home secretary says "capped safe and legal" routes would help to
+scraped_at: "2026-06-27T21:23:47Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  The home secretary says "capped safe and legal" routes would help to
   restore confidence in the asylum system.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg
 ---
 
 ![Female campaigners hols up a 'refugees welcome' sign in front of St Paul's Cathedral in London.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7810/live/7c443930-71f8-11f1-9e90-3ff6dfd27be0.jpg)
@@ -20,7 +21,7 @@ Voluntary and community groups will be permitted to sponsor refugees to come to 
 
 The department said it would allow organisations like universities, community groups and businesses to sponsor refugees who applied to come to the UK, a model based on Canada's asylum system.
 
-The government also said it would press ahead with changes to how human rights and modern slavery laws are applied to asylum applications to root out****what it described as "vexatious" claims.
+The government also said it would press ahead with changes to how human rights and modern slavery laws are applied to asylum applications to root out\*\*\*\*what it described as "vexatious" claims.
 
 The Conservatives said no extra people should be let into the country until illegal immigration was stopped while Reform UK said it would reverse the scheme if elected to government.
 
@@ -40,7 +41,7 @@ The latest measures, announced on Friday night, draw on Canada's community spons
 
 In Canada, 70% of sponsored refugees find work within a year - 30% higher than those resettled through government schemes, according to the Home Office.
 
-The UK already has a relatively small number of refugees who are sponsored in communities under the UK Resettlement Scheme (UKRS), but the Home Office said the "vast majority"****were supported by local councils.
+The UK already has a relatively small number of refugees who are sponsored in communities under the UK Resettlement Scheme (UKRS), but the Home Office said the "vast majority"\*\*\*\*were supported by local councils.
 
 The government has been under pressure to reduce the number of asylum seekers being housed in hotels at the taxpayers' expense, while illegal small boat arrivals have also undermined public confidence in the asylum system.
 
@@ -48,7 +49,7 @@ The government has been under pressure to reduce the number of asylum seekers be
 
 Home Secretary Shabana Mahmood says the new system would protect genuine refugees fleeing war and persecution
 
-The new routes would allow a wider number of organisations to support those who arrive, including "trusted universities"****and community groups such as churches - though the full scope of which groups would be accepted is unclear. 
+The new routes would allow a wider number of organisations to support those who arrive, including "trusted universities"\*\*\*\*and community groups such as churches - though the full scope of which groups would be accepted is unclear.
 
 These organisations would be responsible for providing support to refugees in finding housing and work.
 
@@ -58,7 +59,7 @@ A refugee work route is expected to open next year, allowing employers to sponso
 
 Applications for the university route is set to open later this year, with the first arrivals due to take place in 2027.
 
-The government did not say how many people would be allowed to arrive under the new routes, but said it would be capped and start from a low base -****and would "operate at a much higher capacity" than UKRS once it is fully established.
+The government did not say how many people would be allowed to arrive under the new routes, but said it would be capped and start from a low base -\*\*\*\*and would "operate at a much higher capacity" than UKRS once it is fully established.
 
 It also said the Home Office would control which organisations could provide sponsorship and that all applicants would be subject to strict checks.
 
@@ -90,8 +91,9 @@ He used a Times article to argue foreign care workers should be exempt from the 
 
 Mahmood requested that Tapp be sacked but was rebuffed by Prime Minister Sir Keir Starmer.
 
-![An airport corridor with the words 'International Arrivals' printed in large black letters onto a white wall. A man can be seen walking in front of the sign with a wheeled suitcase, beige trousers and a dark jacket, but he is slightly blurred to indicate the fact he is moving quickly.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3652/live/46d59fa0-54f2-11f1-8285-a5e1daabf896.jpg) 
+![An airport corridor with the words 'International Arrivals' printed in large black letters onto a white wall. A man can be seen walking in front of the sign with a wheeled suitcase, beige trousers and a dark jacket, but he is slightly blurred to indicate the fact he is moving quickly.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3652/live/46d59fa0-54f2-11f1-8285-a5e1daabf896.jpg)
+
 - Published1 day ago
- ![A young person wearing a baseball cap and a backpack and carrying a suitcase stands in the middle of the image. To the left of the image a passport with a boarding card is held up. To the right of the image is a migrant family of a man, woman and child on a beach, walking. In the top right corner is a partial view of a UK visa document](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png) 
-![An overloaded dinghy in the English Channel](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/00a7/live/12a521d0-504a-11f1-a712-bdb9a88fa140.jpg) 
-![Angela Rayner wearing a mauve blazer against a red background. She has long auburn hair and a fringe.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e674/live/a084ab40-92c0-11ef-9eb1-ddc029b578ae.jpg)
+  ![A young person wearing a baseball cap and a backpack and carrying a suitcase stands in the middle of the image. To the left of the image a passport with a boarding card is held up. To the right of the image is a migrant family of a man, woman and child on a beach, walking. In the top right corner is a partial view of a UK visa document](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a530/live/da608860-cb5a-11f0-a892-01d657345866.png)
+  ![An overloaded dinghy in the English Channel](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/00a7/live/12a521d0-504a-11f1-a712-bdb9a88fa140.jpg)
+  ![Angela Rayner wearing a mauve blazer against a red background. She has long auburn hair and a fringe.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e674/live/a084ab40-92c0-11ef-9eb1-ddc029b578ae.jpg)

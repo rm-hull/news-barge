@@ -3,14 +3,14 @@ title: Featured on Instagram news in and around Press | York Press
 source_url: https://www.yorkpress.co.uk/topics/featured-on-instagram/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-27T21:38:07Z'
+scraped_at: '2026-06-28T15:37:46Z'
 published: '2026-01-01T00:00:00Z'
 description: Featured on Instagram news, features and opinion in and around Press
   | York Press
-thumbnail: null
+image: null
 ---
 
-![Haddock and chips at The Magpie in Whitby. Photo by NQ](https://www.yorkpress.co.uk/resources/images/320x200/1x/21100058.jpg) 
+![York's public toilets in Parliament Street, the long-gone 'splash palace'. Photo by York Press](https://www.yorkpress.co.uk/resources/images/320x200/1x/21100907.jpg) 
 
     
         

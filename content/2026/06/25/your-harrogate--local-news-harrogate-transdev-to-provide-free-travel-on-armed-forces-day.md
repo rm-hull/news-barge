@@ -3,11 +3,11 @@ title: Transdev to provide free travel on Armed Forces Day
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/transdev-to-provide-free-travel-on-armed-forces-day/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:41Z'
+scraped_at: '2026-06-28T15:36:19Z'
 published: '2026-06-25T00:00:00Z'
 description: Transdev will provide free travel for all current service personnel and
   veterans on Armed Forces Day (June 27).
-thumbnail: https://mmo.aiircdn.com/409/6a3d99c0b375a8932d7.jpg
+image: https://mmo.aiircdn.com/409/6a3d99c0b375a8932d7.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3d99c0b375a8932d7.jpg) 

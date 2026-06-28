@@ -4,13 +4,13 @@ title: 'Planned Road Restriction Notification: Essential Works to Resurface Oak 
 source_url: https://harrogatetowncouncil.gov.uk/2026/05/planned-road-restriction-notification-essential-works-to-resurface-oak-beck-bridge-a59-8th-may-7pm-to-2am/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-05-08T00:00:00Z'
 description: PLANNED ROAD RESTRICTION NOTIFICATIONNorth Yorkshire Council, who are
   the highways authority for this area, have advised us of a planned road closure
   this evening.We are passing this information on to try and help keep motorists in
   Harrogate informed, but please remember … we are just the messenger!
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/12/Facebook-Images-1620-x-1080-px.png
 ---
 
 ![🔺](https://static.xx.fbcdn.net/images/emoji.php/v9/t1b/1/16/1f53a.png) PLANNED ROAD RESTRICTION NOTIFICATION

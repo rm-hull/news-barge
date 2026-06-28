@@ -3,11 +3,11 @@ title: 'World Cup 2026: Reasons to watch every tie in the last 32'
 source_url: https://www.bbc.co.uk/sport/football/articles/cn59l9y636go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T09:34:13Z'
+scraped_at: '2026-06-28T15:35:44Z'
 published: '2026-06-28T00:00:00Z'
 description: BBC Sport shows why you should be interested in all of the World Cup's
   last-32 ties.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d36d/live/56901940-72b4-11f1-8546-8f19e4fe30f4.png
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d36d/live/56901940-72b4-11f1-8546-8f19e4fe30f4.png
 ---
 
 ![Kylian Mbappe, Lionel Messi and Erling Haaland at the 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/d36d/live/56901940-72b4-11f1-8546-8f19e4fe30f4.png)

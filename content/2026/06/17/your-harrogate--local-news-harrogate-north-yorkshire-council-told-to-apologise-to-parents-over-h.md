@@ -4,12 +4,12 @@ title: North Yorkshire Council told to apologise to parents over home-to-school 
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/north-yorkshire-council-told-to-apologise-to-parents-over-home-to-school-transport-failings/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:31:25Z'
+scraped_at: '2026-06-28T15:37:05Z'
 published: '2026-06-17T00:00:00Z'
 description: North Yorkshire Council has been told to apologise to parents after failings
   were found over its handling of their home-to-school transport appeals by the Local
   Government and Social Care Ombudsman.
-thumbnail: https://mmo.aiircdn.com/409/668fe0ac94f9c.jpg
+image: https://mmo.aiircdn.com/409/668fe0ac94f9c.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/668fe0ac94f9c.jpg) 

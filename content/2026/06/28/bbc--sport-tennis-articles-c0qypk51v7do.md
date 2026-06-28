@@ -1,13 +1,14 @@
 ---
-title: 'Wimbledon 2026 preview: Serena Williams, Jannik Sinner, Novak Djokovic'
+title: "Wimbledon 2026 preview: Serena Williams, Jannik Sinner, Novak Djokovic"
 source_url: https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:54Z'
-published: '2026-06-28T00:00:00Z'
-description: Serena Williams, Jannik Sinner and Novak Djokovic feature in our essential
+scraped_at: "2026-06-28T14:09:54Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  Serena Williams, Jannik Sinner and Novak Djokovic feature in our essential
   guide to Wimbledon 2026.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5dca/live/d8497610-724c-11f1-b46f-17a6b71f4bc4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5dca/live/d8497610-724c-11f1-b46f-17a6b71f4bc4.jpg
 ---
 
 ![Serena Williams prepares to toss a tennis ball in practice at Wimbledon](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5dca/live/d8497610-724c-11f1-b46f-17a6b71f4bc4.jpg)

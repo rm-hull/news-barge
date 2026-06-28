@@ -3,11 +3,11 @@ title: Ministers urged to curb energy costs as Great British homes face 13% bill
 source_url: https://www.theguardian.com/business/2026/jun/28/ministers-urged-to-curb-energy-costs-as-great-british-homes-face-bill-surge
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T14:09:48Z'
+scraped_at: '2026-06-28T15:35:40Z'
 published: '2026-06-28T00:00:00Z'
 description: Quarterly Ofgem price cap rises to equivalent of £1,862 a year from 1
   July amid growing consumer energy debt
-thumbnail: https://i.guim.co.uk/img/media/1fe870be421eefc56063dbb1f0e4978c4390fa43/400_0_2701_2162/master/2701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81f2f93d745d18348c2571eb0605a0e9
+image: https://i.guim.co.uk/img/media/f9e0a8685648ab24de50fb619e45c2dae166f7fc/365_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1db28e8b685e7568ef3b6e9cf170e7a
 ---
 
 Ministers are facing growing pressure to lower energy costs as households in Great Britain face the steepest rise in summer bills in four years this week.

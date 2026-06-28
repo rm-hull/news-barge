@@ -3,11 +3,12 @@ title: Venezuela earthquakes kill 920 people as families desperate for news
 source_url: https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T23:35:52Z'
-published: '2026-06-26T00:00:00Z'
-description: Hundreds are still feared trapped under the rubble, as families desperate
+scraped_at: "2026-06-27T23:35:52Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  Hundreds are still feared trapped under the rubble, as families desperate
   for news.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/798c/live/7e611570-719a-11f1-ac61-7d0e237a354c.jpg
 ---
 
 Footage shows panic on streets of Caracas after quakes hit
@@ -130,4 +131,4 @@ Less than six months ago, Nicolás Maduro, the left-wing leader who had ruled th
 
 Maduro's ally and former vice-president, Delcy Rodríguez, took over running the country, to the frustration of opposition supporters who had hoped the Trump administration would put opposition leader María Corina Machado in charge.
 
-*Additional reporting by Vanessa Silva in La Guaria*
+_Additional reporting by Vanessa Silva in La Guaria_

@@ -3,12 +3,12 @@ title: Starbeck Baths Granted Asset of Community Value Status - Harrogate Town C
 source_url: https://harrogatetowncouncil.gov.uk/2026/04/starbeck-baths-granted-asset-of-community-value-status/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:12Z'
+scraped_at: '2026-06-28T15:37:16Z'
 published: '2026-04-13T00:00:00Z'
 description: Harrogate Town Council has welcomed the designation of Starbeck Swimming
   Pool as an Asset of Community Value (ACV), recognising its importance to the local
   community and helping to support its future.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/Untitled-design.jpg
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2026/04/Untitled-design.jpg
 ---
 
 The decision, confirmed by North Yorkshire Council on 8 April 2026, acknowledges that the Baths make a meaningful contribution to the social wellbeing of residents and that this role can continue in the years ahead.

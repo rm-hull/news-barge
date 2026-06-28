@@ -1,13 +1,14 @@
 ---
-title: 'NEW PICS: Lorry wedged under old rail bridge in York - Road still closed for
-  clean up operation'
+title:
+  "NEW PICS: Lorry wedged under old rail bridge in York - Road still closed for
+  clean up operation"
 source_url: https://www.yorkmix.com/lorry-wedged-under-old-rail-bridge-in-york
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
-published: '2026-06-26T00:00:00Z'
-description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-11.14.27-1.jpeg
+scraped_at: "2026-06-27T21:32:16Z"
+published: "2026-06-26T00:00:00Z"
+description: ""
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-11.14.27-1.jpeg
 ---
 
 An HGV has been involved in a collision with the old railway bridge on Huntington Road in York.

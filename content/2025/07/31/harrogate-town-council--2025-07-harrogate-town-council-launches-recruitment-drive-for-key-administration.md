@@ -4,12 +4,12 @@ title: Harrogate Town Council launches recruitment drive for key administration 
 source_url: https://harrogatetowncouncil.gov.uk/2025/07/harrogate-town-council-launches-recruitment-drive-for-key-administration-role/
 source_site: Harrogate Town Council
 source_slug: harrogate-town-council
-scraped_at: '2026-06-27T21:58:13Z'
+scraped_at: '2026-06-28T15:37:18Z'
 published: '2025-07-31T00:00:00Z'
 description: Harrogate Town Council is seeking a dedicated and dynamic individual
   to fill the newly advertised post of Administration Officer, offering an exciting
   opportunity to be at the core of civic life in one of the UK’s most iconic spa towns.
-thumbnail: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/news-default.png
+image: https://harrogatetowncouncil.gov.uk/wp-content/uploads/2025/08/news-default.png
 ---
 
 This full-time role, with a competitive salary ranging from £28,598 to £30,518 (SCP 12–16), reflects the Council’s continued commitment to strengthening its administrative and community-facing capabilities. In addition to a generous salary package, the successful applicant will benefit from enrolment in the Local Government Pension Scheme, providing long-term financial security.

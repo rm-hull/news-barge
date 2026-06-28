@@ -3,11 +3,11 @@ title: Magical Spiegeltent Festival is back in Harrogate
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/magical-spiegeltent-festival-is-back-in-harrogate/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:44Z'
+scraped_at: '2026-06-28T15:36:24Z'
 published: '2026-06-25T00:00:00Z'
 description: The much-loved Spiegeltent has returned to Harrogate with a packed programme
   of live music, comedy, dance and entertainment for the summer.
-thumbnail: https://mmo.aiircdn.com/409/6a3d5e24268dccc9fef.jpg
+image: https://mmo.aiircdn.com/409/6a3d5e24268dccc9fef.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3d5e24268dccc9fef.jpg) 

@@ -1,17 +1,17 @@
 ---
-title: 'Review: From Bingo to Broadway'
+title: "Review: From Bingo to Broadway"
 source_url: https://www.yorkmix.com/review-from-bingo-to-broadway
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-27T21:32:16Z'
-published: '2026-06-26T00:00:00Z'
-description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/2-copy.png
+scraped_at: "2026-06-27T21:32:16Z"
+published: "2026-06-26T00:00:00Z"
+description: ""
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/2-copy.png
 ---
 
 The Galtres Centres has a new host of residents as Dusky Sapphire Productions with The Blue Light Theatre Company return for another sunny theatrical offering, swapping slippers for showtunes.
 
-Writer Perri Ann Barley is keen to show that life’s biggest moments don’t end with retirement – and for those living in the Broadway Retirement and Care Home this is certainly true. *From Bingo to Broadway*, does exactly what it says on the biscuit tin, with a few heartwarming surprises along the way.
+Writer Perri Ann Barley is keen to show that life’s biggest moments don’t end with retirement – and for those living in the Broadway Retirement and Care Home this is certainly true. _From Bingo to Broadway_, does exactly what it says on the biscuit tin, with a few heartwarming surprises along the way.
 
 This may be some of Barley’s best writing so far: swapping the usual busyness for a more linear tale, with one main objective. We follow newbie resident, the youthful Cora who decides to offer her theatrical experience to provide entertainment for the upcoming charity fundraiser, as they raise vital funds for the home following budget cuts (a story far too familiar for many).
 
@@ -35,4 +35,4 @@ If you’d like to step into a different kind of Broadway, swapping bingo nights
 
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/01/Screenshot-2025-11-12-at-10.01.02.png)
 
-*From Bingo to Broadway* is at the Galtres Centre until **Saturday 27 June**. Tickets are £12 and available via the venue website.
+_From Bingo to Broadway_ is at the Galtres Centre until **Saturday 27 June**. Tickets are £12 and available via the venue website.

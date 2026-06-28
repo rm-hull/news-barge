@@ -1,13 +1,14 @@
 ---
-title: 'World Cup 2026: Where does Scotland campaign leave Steve Clarke?'
+title: "World Cup 2026: Where does Scotland campaign leave Steve Clarke?"
 source_url: https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:51Z'
-published: '2026-06-27T00:00:00Z'
-description: Did Steve Clarke get the best out of his Scotland squad at the 2026 World
+scraped_at: "2026-06-27T21:23:51Z"
+published: "2026-06-27T00:00:00Z"
+description:
+  Did Steve Clarke get the best out of his Scotland squad at the 2026 World
   Cup as they face group-stage exit?
-thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d91/live/ff84fe40-721d-11f1-8078-cdcf6dd43d3c.jpg
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d91/live/ff84fe40-721d-11f1-8078-cdcf6dd43d3c.jpg
 ---
 
 ![Scotland head coach Steve Clarke](https://ichef.bbci.co.uk/ace/standard/872/cpsprodpb/0d91/live/ff84fe40-721d-11f1-8078-cdcf6dd43d3c.jpg)

@@ -3,10 +3,10 @@ title: Swing bridge gets stuck again - Now police issue a warning
 source_url: https://www.yorkmix.com/swing-bridge-gets-stuck-again-now-police-issue-a-warning
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-06-28T10:34:53Z'
+scraped_at: '2026-06-28T15:37:24Z'
 published: '2026-06-28T00:00:00Z'
 description: ''
-thumbnail: https://wp.theyorkmix.com/wp-content/uploads/2026/06/730776855_2395911474249952_4046336579554919038_n.jpg
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/06/730776855_2395911474249952_4046336579554919038_n.jpg
 ---
 
 The swing bridge in Whitby town centre has been closed to both vehicles and pedestrians for several days due to a mechanical fault.

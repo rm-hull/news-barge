@@ -5,11 +5,11 @@ title: China’s Loongson launches homegrown 16-core server CPU built on LoongAr
 source_url: https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:53Z'
+scraped_at: '2026-06-28T15:38:47Z'
 published: '2026-06-28T00:00:00Z'
 description: Support for China’s local software and hardware ecosystem also appears
   to be a selling point
-thumbnail: https://cdn.mos.cms.futurecdn.net/bGRpAscqyHMhWFDYf2s4eb-1200-80.webp
+image: https://cdn.mos.cms.futurecdn.net/bGRpAscqyHMhWFDYf2s4eb-1200-80.webp
 ---
 
 ![Loongson 3C3000](https://cdn.mos.cms.futurecdn.net/bGRpAscqyHMhWFDYf2s4eb.webp) 

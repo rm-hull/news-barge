@@ -4,11 +4,11 @@ title: '‘Enforcement mode’: Australia must take fight to tech giants to make
 source_url: https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-06-28T09:34:11Z'
+scraped_at: '2026-06-28T15:35:37Z'
 published: '2026-06-28T00:00:00Z'
 description: Doubled penalties will have little effect if platforms not held to account
   for the content they carry, observers say
-thumbnail: https://i.guim.co.uk/img/media/e4b1600890d37357e9d916f924bb6b1454ed1db8/746_319_4217_3373/master/4217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b995b6b7d8b1cdfc1902c44905b7d8a0
+image: https://i.guim.co.uk/img/media/e4b1600890d37357e9d916f924bb6b1454ed1db8/746_319_4217_3373/master/4217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b995b6b7d8b1cdfc1902c44905b7d8a0
 ---
 
 The government needs to switch into “enforcement mode” and take on tech giants over its social media ban after doubling fines, experts have warned.

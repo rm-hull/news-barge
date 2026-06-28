@@ -3,11 +3,11 @@ title: Four Ripon Grammar School students selected to represent North Yorkshire
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/four-ripon-grammar-school-students-selected-to-represent-north-yorkshire/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:49Z'
+scraped_at: '2026-06-28T15:36:29Z'
 published: '2026-06-24T00:00:00Z'
 description: Four Ripon Grammar School students being selected to represent North
   Yorkshire at one of the country’s most prestigious national championships.
-thumbnail: https://mmo.aiircdn.com/409/6a3c48b4c1389090b5f.jpg
+image: https://mmo.aiircdn.com/409/6a3c48b4c1389090b5f.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3c48b4c1389090b5f.jpg) 

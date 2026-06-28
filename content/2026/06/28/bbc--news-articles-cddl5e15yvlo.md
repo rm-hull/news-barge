@@ -3,11 +3,12 @@ title: George Best's 1968 European Cup winner's medal sells for £300k
 source_url: https://www.bbc.co.uk/news/articles/cddl5e15yvlo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T10:33:11Z'
-published: '2026-06-28T00:00:00Z'
-description: The mazy winger was presented with his medal after Manchester United
+scraped_at: "2026-06-28T10:33:11Z"
+published: "2026-06-28T00:00:00Z"
+description:
+  The mazy winger was presented with his medal after Manchester United
   beat Benfica at Wembley Stadium.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a12/live/6aa90de0-7220-11f1-8078-cdcf6dd43d3c.png
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a12/live/6aa90de0-7220-11f1-8078-cdcf6dd43d3c.png
 ---
 
 ![Dark-haired George Best, with a thick black beard, has his hands on his hips while wearing a red Manchester United shirt with white collar and cuffs](https://ichef.bbci.co.uk/ace/standard/993/cpsprodpb/2a12/live/6aa90de0-7220-11f1-8078-cdcf6dd43d3c.png)
@@ -40,4 +41,4 @@ Taylor booked Dutch superstar Johan Cruyff for diving.
 
 West Germany won 2-1 to win the World Cup and beat the celebrated "total football" played by the Netherlands team of that era.
 
-*Listen to the best of**BBC Radio Manchester on Sounds**and follow BBC Manchester on**Facebook*, external*,**X*, external*, and**Instagram*, external*. You can also send story ideas via Whatsapp to 0808 100 2230.*
+_Listen to the best of**BBC Radio Manchester on Sounds**and follow BBC Manchester on\*\*Facebook_, external*,\*\*X*, external*, and\*\*Instagram*, external*. You can also send story ideas via Whatsapp to 0808 100 2230.*

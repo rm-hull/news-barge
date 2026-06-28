@@ -3,10 +3,10 @@ title: Eleven killed after plane carrying skydivers crashes in eastern France
 source_url: https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T14:09:50Z'
+scraped_at: '2026-06-28T15:35:41Z'
 published: '2026-06-28T00:00:00Z'
 description: The pilot and 10 passengers died in the incident, local officials said.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg
 ---
 
 ![Emergency service workers speak to each other as the attend a light aircraft crash site](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg)

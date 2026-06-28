@@ -5,11 +5,11 @@ title: Japanese firm launches hyper-realistic capsule toy PC parts ‘you can as
 source_url: https://www.tomshardware.com/desktops/pc-building/japanese-firm-launches-hyper-realistic-capsule-toy-pc-parts-you-can-assemble-and-play-with-tiny-motherboards-cases-and-cpus-are-coming-after-tarlin-inks-collab-with-the-big-four-pc-parts-makers
 source_site: Tom's Hardware
 source_slug: toms-hardware
-scraped_at: '2026-06-28T14:13:56Z'
+scraped_at: '2026-06-28T15:38:54Z'
 published: '2026-06-28T00:00:00Z'
 description: Gachapon toys of ASRock, Gigabyte, MSI, and Intel parts will be coming
   to vending machines soon.
-thumbnail: https://cdn.mos.cms.futurecdn.net/FqqVQ2hhNVVFT8RXxxK7FV-1920-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/FqqVQ2hhNVVFT8RXxxK7FV-1920-80.jpg
 ---
 
 ![Gachapon motherboards, cases, and CPUs](https://cdn.mos.cms.futurecdn.net/FqqVQ2hhNVVFT8RXxxK7FV.jpg) 

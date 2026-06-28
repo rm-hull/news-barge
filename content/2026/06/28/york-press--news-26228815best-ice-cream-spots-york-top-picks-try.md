@@ -3,11 +3,11 @@ title: York’s coolest spots to beat the heat - from ice cream boats to gelato 
 source_url: https://www.yorkpress.co.uk/news/26228815.best-ice-cream-spots-york---top-picks-try/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-28T14:12:16Z'
+scraped_at: '2026-06-28T15:37:38Z'
 published: '2026-06-28T00:00:00Z'
 description: As the temperature rises, we’ve picked five favourite ice cream spots
   in York worth seeking out to cool things down.
-thumbnail: https://www.yorkpress.co.uk/resources/images/21101588.jpg?type=og-image&xType=0&yType=425
+image: https://www.yorkpress.co.uk/resources/images/21101588.jpg?type=og-image&xType=0&yType=425
 ---
 
 *(Image: Pixabay)*

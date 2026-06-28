@@ -3,10 +3,10 @@ title: Skeleton found at War of the Roses battlefield near Tadcaster
 source_url: https://www.bbc.co.uk/news/articles/cx2dxx4x49yo?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:05:58Z'
+scraped_at: '2026-06-28T15:37:22Z'
 published: '2026-06-23T00:00:00Z'
 description: The remains are thought to be from the Battle of Towton in 1461.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/359a/live/ea58ff70-6e31-11f1-9fdc-51e252bb92b4.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/359a/live/ea58ff70-6e31-11f1-9fdc-51e252bb92b4.jpg
 ---
 
 ![A partially excavated human skeleton lies exposed in a shallow soil pit, with leg and arm bones clearly visible.

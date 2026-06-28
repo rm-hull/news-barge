@@ -3,12 +3,12 @@ title: Harrogate lined with supercars in third annual showcase
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-lined-with-supercars-in-third-annual-showcase/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-06-27T21:30:48Z'
+scraped_at: '2026-06-28T15:36:27Z'
 published: '2026-06-24T00:00:00Z'
 description: The third annual Harrogate Concourse attracted huge crowds of car enthusiasts
   as almost 100 classic vehicles and high-powered sports cars rolled into the town
   centre.
-thumbnail: https://mmo.aiircdn.com/409/6a3c4d79f0c874a85b3.jpg
+image: https://mmo.aiircdn.com/409/6a3c4d79f0c874a85b3.jpg
 ---
 
 ![](https://mmo.aiircdn.com/409/6a3c4d79f0c874a85b3.jpg) 

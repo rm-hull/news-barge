@@ -3,11 +3,11 @@ title: Nature more accessible but work to be done, disability groups say
 source_url: https://www.bbc.co.uk/news/articles/c23ymk9mzp3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News - Harrogate
 source_slug: bbc-harrogate
-scraped_at: '2026-06-27T22:06:00Z'
+scraped_at: '2026-06-28T15:37:23Z'
 published: '2026-06-21T00:00:00Z'
 description: Campaigners and charities say access has improved - but more can be done
   to open up the countryside.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb8f/live/aa8db7f0-6b0c-11f1-9eec-ff3d08cf3aad.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb8f/live/aa8db7f0-6b0c-11f1-9eec-ff3d08cf3aad.jpg
 ---
 
 ![A young woman with a woolly hat sits on a large black off-road mobility scooter. She wears a green puffed jacket and a blue and white striped jumper. She is parked on a raised wooden viewing platform overlooking a countryside scene.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb8f/live/aa8db7f0-6b0c-11f1-9eec-ff3d08cf3aad.jpg)

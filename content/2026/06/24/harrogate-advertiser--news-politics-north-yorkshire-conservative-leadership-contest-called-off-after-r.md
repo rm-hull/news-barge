@@ -4,11 +4,11 @@ title: North Yorkshire Conservative leadership contest called off after rivals r
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/north-yorkshire-conservative-leadership-contest-called-off-after-rivals-reach-agreement-8758197
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-06-27T21:29:26Z'
+scraped_at: '2026-06-28T15:35:58Z'
 published: '2026-06-24T00:00:00Z'
 description: A contest to lead North Yorkshire Council into next year’s local elections
   has been cancelled after agreement was reached between two senior Conservative councillors.
-thumbnail: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxMzE1YjYxLTY4MzItNGRlMC04NjE4LTljOTg2MmY1ZTIyMzo4YjM3MzJjZC03NTliLTQ3YmYtODc0ZC1mMWEzMDcyY2FkYzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxMzE1YjYxLTY4MzItNGRlMC04NjE4LTljOTg2MmY1ZTIyMzo4YjM3MzJjZC03NTliLTQ3YmYtODc0ZC1mMWEzMDcyY2FkYzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # North Yorkshire Conservative leadership contest called off after rivals reach agreement

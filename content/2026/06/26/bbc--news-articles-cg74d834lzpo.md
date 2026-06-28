@@ -1,14 +1,16 @@
 ---
-title: 'KWN: From delivering Amazon parcels to becoming one of the UK''s hottest new
-  stars'
+title:
+  "KWN: From delivering Amazon parcels to becoming one of the UK's hottest new
+  stars"
 source_url: https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-27T21:23:46Z'
-published: '2026-06-26T00:00:00Z'
-description: R&B singer KWN broke out with the single Worst Behaviour, which she sold
+scraped_at: "2026-06-27T21:23:46Z"
+published: "2026-06-26T00:00:00Z"
+description:
+  R&B singer KWN broke out with the single Worst Behaviour, which she sold
   on a custom-built website.
-thumbnail: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg
 ---
 
 ![KWN](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/90a6/live/136eaaa0-723c-11f1-930d-75324f3b4c6e.jpg)
@@ -85,7 +87,7 @@ But looks can be deceiving... Both KWN and Kehlani were rotten with the cold dur
 
 Amidst the sniffles, the sparks were real. KWN and Kehlani dated last year. And while their relationship is off-limits for our interview, the couple's visibility, combined with KWN's lyrics, made a bold statement about queer relationships in a musical space that's traditionally been hostile to same-sex love.
 
-That's why, when KWN performs Stand On It, her LGBTQ fans holler back the line: "*I'm not embarrassed/ ain't gonna love you in private*".
+That's why, when KWN performs Stand On It, her LGBTQ fans holler back the line: "_I'm not embarrassed/ ain't gonna love you in private_".
 
 ![KWN smiles as she performs in session for BBC Radio 1 Xtra in January 2026. She is wearing a dappled tan and brown jacket, and has in-ear monitors looped into her ears.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1d35/live/352b3620-6f05-11f1-87e9-1dc598ae70b3.jpg)
 
@@ -105,7 +107,7 @@ The rest of the EP echoed the late-night raunch of Worst Behaviour, inspired by 
 
 Six months later, however, her new EP And All Pride Aside, thrums with emotional vulnerability.
 
-On the heart-wrenching Rather Never Love Again, she desperately pines for her ex, singing: "*Even if I get you back I don't know if it's going to be the same/ But I will sure as hell spend a lifetime taking all the blame*."
+On the heart-wrenching Rather Never Love Again, she desperately pines for her ex, singing: "_Even if I get you back I don't know if it's going to be the same/ But I will sure as hell spend a lifetime taking all the blame_."
 
 The closing track, Heaven's In Your Hands, finds her mourning her grandfather, who died last autumn.
 
