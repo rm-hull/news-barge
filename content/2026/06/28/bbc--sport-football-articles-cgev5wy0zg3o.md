@@ -1,0 +1,111 @@
+---
+title: 'World Cup 2026: How Fifa president Gianni Infantino is jetting around'
+source_url: https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-06-28T09:34:13Z'
+published: '2026-06-28T00:00:00Z'
+description: Gianni Infantino has clocked up thousands of air miles across North America
+  so far.
+thumbnail: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png
+---
+
+![Fifa President Gianni Infantino in a suit, with a map of North America in the background and a bright green illustrated flight path looping around him and small airplane icons tracing the routes. A blue border is around the image and in the top left reads “BBC Verify"](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png)
+
+- Published
+
+**Fifa president Gianni Infantino has attended 24 matches in just over two weeks all across North America at this summer's World Cup, clocking up thousands of air miles.**
+
+The tournament is spread over three countries - the US, Canada and Mexico - with 16 host cities, and there are more matches than ever as the group stage has been expanded.
+
+In Fifa's 2026 World Cup sustainability and human rights strategy, the president said: "Whether we speak about climate, human rights, diseases or disabilities, we are committed to play our part."
+
+BBC Verify and BBC Sport have been tracking a private jet - linked to Fifa and Infantino - which has taken 27 flights during the tournament to cities where the Fifa boss has been pictured attending matches.
+
+The estimated climate impact from this jet over a fortnight is roughly equivalent to those from 78 people on average over a whole year.
+
+## How far has Fifa's president travelled?
+
+Infantino has attended two games a day several times during the tournament's group stage, often in cities hundreds of miles apart. He has taken three separate flights on some days.
+
+The Fifa president has been photographed using another Qatar Airways Executive jet before this tournament, and it has been reported he is flying in a Gulfstream G650ER at this World Cup.
+
+The BBC asked Fifa to confirm this. It did not respond - but we have mapped the aircraft's flights using plane-tracking data and the destination of each journey matches with published photographs of Infantino at stadiums in the same cities on the same dates.
+
+![Map of North America showing private jet routes linked to Gianni Infantino. Red lines connect World Cup host cities including Vancouver, Seattle, San Francisco, Los Angeles, Dallas, Houston, Kansas City, Toronto, Boston, New York/New Jersey, Philadelphia, Atlanta, Miami, Monterrey, Mexico City and Guadalajara, illustrating frequent cross‑country travel.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9f7d/live/ce9ee9b0-72c9-11f1-8e1d-bbbb1017d210.png)
+
+The longest flight Infantino has taken in the first two weeks was 2,800 miles (4,507km) - from Vancouver to Miami on 13 June - after watching Australia play Turkey.
+
+He's made some shorter journeys too - on 22 June the jet flew 92 miles (148km) from Philadelphia to Teterboro Airport in New Jersey.
+
+Infantino didn't attend a game there, but he was interviewed the following morning at the Fox News studio in neighbouring New York, before flying on to watch matches in Boston and Toronto later that day.
+
+![Graphic comparing flight lengths: shortest trip is 92 miles (148 km) from Philadelphia to Teterboro on 22 June, while the longest is about 2,800 miles (4,507 km) from Vancouver to Miami on 13 June, illustrated with arcs of varying length. The source is FlightRadar24, not including what appear to be repositioning flights.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/470b/live/16dfec10-72ca-11f1-b1db-af71d47507d6.png)
+
+His furthest single day of travel - not including overnight flights - was 15 June, when he flew more than 2,700 miles (4,000km) right across the US from Miami to Seattle to watch Belgium play Egypt. He then travelled about 960 miles (1,545km) south to Los Angeles where he attended Iran v New Zealand in the evening.
+
+Another big day of travel was 26 June when the jet took off from Miami, made a brief stop in Dallas, then continued to Seattle where Infantino was photographed at the Egypt v Iran match.
+
+The plane left Seattle about five hours after arriving, flying another 2,700 miles (4,345km) back to Miami, where it landed the following morning.
+
+Infantino watched his 24th and final match of the group stage in Miami the next day, where Portugal played Colombia.
+
+Our analysis shows that overall the private jet has travelled at least 31,144 miles (50,122km) and spent more than 66 hours in the air between the start of the tournament and 27 June.
+
+![Bar chart showing distance travelled by a private jet each day in June. Distances vary widely, from a few hundred miles to over 5,000 miles. Small horizontal markers indicate the start of new flights and the distance is calculated on the most direct route on the date of departure. The source is Flightradar24 and they do not include what appear to be repositioning flights.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/78b6/live/184faf10-72d2-11f1-8546-8f19e4fe30f4.png)
+
+## How much is that in emissions?
+
+Flying by private jet is typically the most carbon-intensive way to travel - producing greenhouse gases that warm the atmosphere, driving global warming and climate change.
+
+The Gulfstream G650ER, the plane Infantino is believed to be using, has an average fuel burn rate of approximately 1,817 litres per hour - meaning its travel during the group stage produced an estimated 516 tonnes of carbon dioxide-equivalent (CO2e), based on the UK government's greenhouse gas conversions., external
+
+The final CO2-equivalent figure includes estimates for the CO2 and other gases directly released, and is adjusted to include the indirect climate effects of aviation.
+
+These can only be estimates, because we can't know the exact real-life emissions, and fuel burn rates are typically higher during take-off and landing.
+
+The global average yearly greenhouse gas emissions for an individual is 6.56t CO2e, according to EU data., external
+
+Therefore Infantino's travel is believed to have produced roughly the amount of CO2e in just over a fortnight as about 78 people might produce across a calendar year.
+
+The plane holds up to 19 people and we don't know how many were on board for each flight, so we can't break down the exact emissions per passenger.
+
+![Grid graphic titled “Infantino has attended 24 games in 16 days” showing a sequence of photographs dated 11–27 June. Each image pairs a World Cup match with a date. The source is Getty Images and Gianna Infantino's Instagram account.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c4b5/live/75969880-72ca-11f1-b1db-af71d47507d6.png)
+
+A Fifa representative told BBC Sport: "The Fifa president routinely travels, together with relevant officials, on business and tournament-related matters and strives to visit member associations of Fifa whenever he can.
+
+"Sometimes travel is organised on commercial [including low-cost] airlines and sometimes it is on private charter, depending on which is more efficient and cost-effective under the circumstances."
+
+We asked Fifa whether any of the flights to World Cup games were on commercial airlines, how many people travel on the Qatar Executive jet and whether Fifa offsets these emissions - but it has not responded.
+
+Freddie Daley, who works for the sport climate action network Cool Down, called Infantino's apparent use of a private jet at the World Cup "symptomatic of Fifa's failings on the environment and sustainability".
+
+"The fact that Infantino's choosing to use a private jet is just completely at odds with the level of leadership that we need to see at the top of Fifa on environmental issues," says Daley, a researcher at Sussex University.
+
+Private jets have a "completely disproportionate impact", says Denise Auclair, a sustainable travel expert at the European Federation for Transport and Environment. "They are five to 14 times more polluting than commercial planes and 50 times more than trains."
+
+## What were Fifa's environmental pledges before this World Cup?
+
+Fifa has committed to reducing emissions by 50% by 2030 and to reaching net-zero by 2040.
+
+For this year's tournament, the world football governing body set out a number of environmental pledges, including:
+
+- hosting teams regionally which reduces "reliance on long-haul travel for a significant proportion of attendees" 
+- efforts to increase the energy efficiency by promoting the use of electric cars, public transport and water conservation 
+- the use of existing stadiums 
+
+However, even before the first ball was kicked on 11 June, there was scepticism from some climate scientists given the scale of the tournament.
+
+A 2025 report from Scientists for Global Responsibility (SGR) estimated the overall carbon footprint of this World Cup could reach nine million tonnes of CO2e.
+
+It said this would equate to almost double the average for the past four World Cups, making this year's tournament the most polluting ever.
+
+In 2023, a Swiss regulator said Fifa had "made false statements" by claiming that Qatar 2022 would be the first carbon-neutral World Cup in history by using investments in low-carbon initiatives to offset emissions.
+
+In response to the ruling, Fifa said it is "fully aware that climate change is one of the most pressing challenges of our time and believes it requires each of us to take immediate and sustainable climate action".
+
+Infantino attended all 64 matches at the last World Cup in Qatar, where the eight stadiums used were separated by about an hour's drive at most - but this year's tournament spanning an entire continent presents a very different challenge.
+
+*Additional reporting by Mark Poynting.*
+
+![BBC Verify banner](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f268/live/f516ffb0-6f09-11f1-8e1d-bbbb1017d210.png)
