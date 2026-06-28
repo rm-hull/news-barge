@@ -19,7 +19,7 @@ layout: base.njk
   </header>
 
   <div class="article-body">
-    {% if image and image not in content %}
+    {% if image and image | basename not in content %}
       <img src="{{ image }}" alt="{{ title }}" class="article-image">
     {% endif %}
     {{ content | safe }}

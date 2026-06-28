@@ -95,6 +95,10 @@ export default function (eleventyConfig) {
     }
   });
 
+  eleventyConfig.addFilter("basename", (path) => {
+    if (!path) return "";
+    return path.split("/").pop();
+  });
   // ── Passthrough ───────────────────────────────────────────────────────────
   eleventyConfig.addPassthroughCopy({ public: "public" });
   eleventyConfig.addPassthroughCopy({ "public/css": "css" });
