@@ -105,8 +105,12 @@ export default function (eleventyConfig) {
     return url.split("?")[0];
   });
 
+  eleventyConfig.addFilter("slice", (array, start, end) => {
+    if (!array) return [];
+    return array.slice(start, end);
+  });
+
   // ── Passthrough ───────────────────────────────────────────────────────────
-  eleventyConfig.addPassthroughCopy({ public: "public" });
   eleventyConfig.addPassthroughCopy({ "public/css": "css" });
   eleventyConfig.addPassthroughCopy({ "public/js": "js" });
 

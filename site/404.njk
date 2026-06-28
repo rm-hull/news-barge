@@ -1,0 +1,39 @@
+---
+layout: base.njk
+title: Page Not Found
+permalink: /404.html
+---
+<section class="index-section">
+  <div style="text-align: center; margin-bottom: 2rem;">
+    <h1 class="page-title">Page Not Found</h1>
+    <p>The page you're looking for doesn't exist or has been moved.</p>
+    <p><a href="/" class="page-link">Return to Latest Articles</a></p>
+  </div>
+
+  <hr style="margin: 2rem 0; opacity: 0.2;">
+
+  <h2 class="page-title" style="font-size: 1.5rem;">Recent Articles</h2>
+  <ul class="article-list">
+    {% for article in collections.articles | slice(0, 10) %}
+    <li class="article-card">
+      <div class="article-card-thumbnail">
+        {% if article.data.image %}
+        <img src="{{ article.data.image }}" alt="{{ article.data.title }}" loading="lazy">
+        {% endif %}
+      </div>
+      <div class="article-card-content">
+        <div class="article-card-meta">
+          <a href="/sites/{{ article.data.source_slug }}/" class="site-tag">{{ article.data.source_site }}</a>
+          <time datetime="{{ article.data.published }}">{{ article.data.published | readableDate }}</time>
+        </div>
+        <h2 class="article-card-title">
+          <a href="{{ article.url }}">{{ article.data.title }}</a>
+        </h2>
+        {% if article.data.description %}
+        <p class="article-card-deck">{{ article.data.description }}</p>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
