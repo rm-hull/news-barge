@@ -4,7 +4,7 @@ title: 'World Cup 2026 knockouts: England''s path to the final explained after t
 source_url: https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:42Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: BBC Sport takes a look at what England will need to do to reach the final
   after qualifying for the knockout stages.

@@ -3,7 +3,7 @@ title: 'Fifa World Cup 2026: What you need to know about England opponents DR Co
 source_url: https://www.bbc.co.uk/sport/football/articles/c39ypw34gwjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:43Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: England will face DR Congo in the round of 32. Here is what you need
   to know about them.
@@ -13,9 +13,6 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7dca/live/0abc2
 ![Yoane Wissa celebrates the third goal against Uzbekistan](https://ichef.bbci.co.uk/ace/standard/558/cpsprodpb/7dca/live/0abc2490-7292-11f1-a4e1-453bbdc3eeb5.jpg)
 
 Yoane Wissa has now scored three goals for DR Congo in this World Cup
-
-- Published
-
 **Get the lowdown on DR Congo, England's World Cup opponents in the round of 32.**
 
 **What can I expect from DR Congo?**

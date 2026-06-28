@@ -3,7 +3,7 @@ title: Three firefighters die battling huge wildfires in Colorado
 source_url: https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T17:23:32Z'
+scraped_at: '2026-06-28T23:06:59Z'
 published: '2026-06-28T00:00:00Z'
 description: A number of blazes have been raging across Utah and Colorado, leading
   both governors to declare states of emergency.
@@ -13,9 +13,6 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9dd4/live/542bb5
 ![a line of firefighters walking along a dirt path in forest and smoke billows in background](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9dd4/live/542bb510-7304-11f1-8b3a-1977d6dee6ef.jpg)
 
 A crew working to contain the Cottonwood Fire, one of several active blazes across Colorado and Utah
-
-- Published
-
 **Three firefighters were killed and two were injured while battling massive wildfires on the Colorado-Utah border on Saturday, officials say.**
 
 The firefighters were part of a federal response team assigned to the Knowles and Gore fires. They were suddenly overwhelmed by flames and tried to take shelter, the Department of the Interior said.

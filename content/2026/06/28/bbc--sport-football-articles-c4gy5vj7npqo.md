@@ -4,7 +4,7 @@ title: 'England tactics: How Jude Bellingham became Thomas Tuchel''s most import
 source_url: https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:49Z'
+scraped_at: '2026-06-28T23:06:59Z'
 published: '2026-06-28T00:00:00Z'
 description: His starting place was the subject of much debate in Thomas Tuchel's
   England team, but Jude Bellingham has become integral to the manager's style of
@@ -30,7 +30,7 @@ Bellingham was central to maximising this system, papering over some of the crac
 
 It was a tale of two halves for Bellingham who was deployed in a more box-to-box role in Declan Rice’s absence.
 
-In their first two games, England opted to build from the back with the two central defenders and Elliott Anderson in the centre of the pitch. Both full-backs took wider positions with Rice and Bellingham vacating the holding midfield areas for Harry Kane to drop in and join Anderson.
+In their first two games, England opted to build from the back with the two central defenders and Elliot Anderson in the centre of the pitch. Both full-backs took wider positions with Rice and Bellingham vacating the holding midfield areas for Harry Kane to drop in and join Anderson.
 
 This shape differed against Panama.
 

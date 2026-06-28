@@ -4,7 +4,7 @@ title: 'World Cup 2026: England will not win World Cup if they do not improve, w
 source_url: https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:42Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: England did their job topping the group - but they can forget winning
   the World Cup if they do not improve, writes Phil McNulty.

@@ -3,7 +3,7 @@ title: 'World Cup 2026: Iran unlucky losers after missing out on last 32'
 source_url: https://www.bbc.co.uk/sport/football/articles/clywd8pl09do?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:49Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: Iran had a place in the last 32 of the World Cup snatched away from them
   at the last minute not once but twice.
@@ -13,9 +13,6 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fea/live/ab599
 ![Ramin Rezaeian and Mehdi Taremi of Iran deflated after draw with Egypt at 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4fea/live/ab599e60-72aa-11f1-8546-8f19e4fe30f4.jpg)
 
 Iran missed out on a place in the last 32 of the World Cup on goal difference
-
-- Published
-
 **Heartbreak is to be expected at a World Cup.**
 
 For every moment of glory, there is a hard-luck story, a nation left to bemoan their misfortune and the injustices that have led to their downfall.

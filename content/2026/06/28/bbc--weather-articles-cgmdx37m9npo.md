@@ -3,7 +3,7 @@ title: '2026 Wimbledon Championships: Will the weather stay dry for week one?'
 source_url: https://www.bbc.co.uk/weather/articles/cgmdx37m9npo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:56:41Z'
+scraped_at: '2026-06-28T23:07:01Z'
 published: '2026-06-28T00:00:00Z'
 description: While it will remain warmer than average, the heat and humidity will
   be a lot less intense than of late
@@ -11,8 +11,6 @@ image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/fdbf/live/803
 ---
 
 ![Serena Williams practising on Court Twelve with a backdrop of Centre Court as she prepares for the Wimbledon Lawn Tennis Championships at the All England Lawn Tennis and Croquet Club at Wimbledon on 27 June 27 2026 in London, England](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/fdbf/live/8035b020-7223-11f1-a69f-29c4f147006f.png)
-
-- Published
 
 **The grass is being measured, the rackets strung and the strawberries and cream prepped. But what will the great British weather serve up this year for Wimbledon fortnight?**
 

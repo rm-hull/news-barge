@@ -3,7 +3,7 @@ title: How addicted are we to our phones? Some of us are going to rehab
 source_url: https://www.bbc.co.uk/news/articles/cvg7v7j3wqwo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:45Z'
+scraped_at: '2026-06-28T23:07:01Z'
 published: '2026-06-28T00:00:00Z'
 description: Addiction treatment centres say more clients are coming for help with
   "out-of-control" phone use.
@@ -13,9 +13,6 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0678/live/f285fd
 ![Marios, standing in front of trees](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0678/live/f285fdc0-713c-11f1-8546-8f19e4fe30f4.jpg)
 
 Marios can spend 14 hours a day on his phone - he says it's like a drug in his pocket
-
-- Published
-
 **Marios's phone pings and lights up. He's just received a WhatsApp message from me asking for an initial chat about this story.**
 
 He wants to answer straightaway. The urge, he later tells me, feels overpowering.

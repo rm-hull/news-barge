@@ -3,7 +3,7 @@ title: 'World Cup 2026: BBC reporters pick best moments and players of group sta
 source_url: https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:43Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: As the World Cup group stages come to an end, BBC Sport reporters pick
   their highlights so far.

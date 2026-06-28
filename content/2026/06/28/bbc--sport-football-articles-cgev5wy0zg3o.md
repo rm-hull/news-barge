@@ -3,7 +3,7 @@ title: 'World Cup 2026: How Fifa president Gianni Infantino is jetting around'
 source_url: https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:43Z'
+scraped_at: '2026-06-28T23:07:00Z'
 published: '2026-06-28T00:00:00Z'
 description: Gianni Infantino has clocked up thousands of air miles across North America
   so far.
@@ -11,9 +11,6 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b957/live/04a17
 ---
 
 ![Fifa President Gianni Infantino in a suit, with a map of North America in the background and a bright green illustrated flight path looping around him and small airplane icons tracing the routes. A blue border is around the image and in the top left reads “BBC Verify"](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b957/live/04a174d0-7192-11f1-b1db-af71d47507d6.png)
-
-- Published
-
 **Fifa president Gianni Infantino has attended 24 matches in just over two weeks all across North America at this summer's World Cup, clocking up thousands of air miles.**
 
 The tournament is spread over three countries - the US, Canada and Mexico - with 16 host cities, and there are more matches than ever as the group stage has been expanded.
@@ -104,7 +101,7 @@ In 2023, a Swiss regulator said Fifa had "made false statements" by claiming tha
 
 In response to the ruling, Fifa said it is "fully aware that climate change is one of the most pressing challenges of our time and believes it requires each of us to take immediate and sustainable climate action".
 
-Infantino attended all 64 matches at the last World Cup in Qatar, where the eight stadiums used were separated by about an hour's drive at most - but this year's tournament spanning an entire continent presents a very different challenge.
+Infantino attended all 64 matches at the last World Cup in Qatar, external, where the eight stadiums used were separated by about an hour's drive at most - but this year's tournament spanning an entire continent presents a very different challenge.
 
 *Additional reporting by Mark Poynting.*
 

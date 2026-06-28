@@ -3,7 +3,7 @@ title: Harry reconsidering taking Meghan and children on UK trip
 source_url: https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:42Z'
+scraped_at: '2026-06-28T23:06:59Z'
 published: '2026-06-28T00:00:00Z'
 description: It comes after his request for police protection was rejected days before
   the family is due to arrive.
@@ -11,9 +11,6 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aae/live/4e153e
 ---
 
 ![Prince Harry and Meghan walking next to each other, both in blue shirts as sails of boats are visible behind them in Sydney Harbour. Photo taken April 17 2026.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/6aae/live/4e153e40-72b8-11f1-b382-4397c9309f92.jpg)
-
-- Published
-
 **The Duke of Sussex is reconsidering plans to bring his wife and children to the UK next month after his request for police protection was rejected, the BBC understands.**
 
 Prince Harry, his wife Meghan and his two children, Archie and Lilibet, were due to make a family visit to the UK for the first time in four years.

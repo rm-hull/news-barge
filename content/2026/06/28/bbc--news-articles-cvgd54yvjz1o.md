@@ -3,7 +3,7 @@ title: 'Sort Your Life Out: How to fix four common cluttering mistakes'
 source_url: https://www.bbc.co.uk/news/articles/cvgd54yvjz1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:44Z'
+scraped_at: '2026-06-28T23:07:01Z'
 published: '2026-06-28T00:00:00Z'
 description: Tidying expert Dilly Carter shares her best tips on organising your kitchen,
   lounge and clothes.
@@ -13,9 +13,6 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa95/live/b05cdf
 ![Dilly wearing a pink patterned long-sleeve top leaning on a stack of beige boxes in the foreground, with one hand resting against the side of their head. Several bracelets, rings, and a necklace are visible. The background is a plain light grey wall.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e0c9/live/9a139c40-7143-11f1-b1b0-cddf11a7921a.jpg)
 
 Tidying expert Dilly Carter started her profession while working as a personal assistant
-
-- Published
-
 **Decluttering is Dilly Carter's love language.**
 
 The tidying expert from BBC One's Sort Your Life Out once helped an ex-boyfriend clear up and organise his mother's home after she died.

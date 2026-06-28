@@ -4,7 +4,7 @@ title: 'Austrian Grand Prix: Relief for George Russell as he secures second win 
 source_url: https://www.bbc.co.uk/sport/formula1/articles/c14yr0kpjy1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T21:15:20Z'
+scraped_at: '2026-06-28T23:07:04Z'
 published: '2026-06-28T00:00:00Z'
 description: After winning the Austrian Grand Prix, George Russell has another victory
   to his name in 2026, and the relief in him was almost palpable, says Andrew Benson.
@@ -12,8 +12,6 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9577/live/b8186
 ---
 
 Russell's weekend showed 'maturity and experience'
-
-- Published
 
 **Finally, George Russell has another victory to his name in 2026, and the relief in him was almost palpable.**
 

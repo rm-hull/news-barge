@@ -3,7 +3,7 @@ title: 'World Cup 2026: Steve Clarke resigns with strong legacy'
 source_url: https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:49Z'
+scraped_at: '2026-06-28T23:07:01Z'
 published: '2026-06-28T00:00:00Z'
 description: Steve Clarke took Scotland out of the wilderness - but not past the group
   stage of a tournament. Tom English's must-read analysis of his reign.
@@ -11,9 +11,6 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96d1/live/41d6b
 ---
 
 ![Steve Clarke celebrates with his Scotland players](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/96d1/live/41d6bf00-72d1-11f1-97a3-a56ea48fdaf0.jpg)
-
-- Published
-
 **For much of Saturday afternoon, the skies above Charlotte were a dirty shade of grey, the rain bucketing down, the wind blowing hard, thunder and lightning seen and heard every minute or so.**
 
 If Steve Clarke was looking out of his hotel room, that's the biblical scene he would have taken in. In a sense, the ideal backdrop for a bombshell.

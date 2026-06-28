@@ -3,7 +3,7 @@ title: Why North Korean leader Kim Jong Un never talks about his mother, Ko Yong
 source_url: https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T15:35:45Z'
+scraped_at: '2026-06-28T23:07:01Z'
 published: '2026-06-27T00:00:00Z'
 description: Very few North Koreans know about her, as her origin could threaten the
   regime’s legitimacy.
@@ -11,9 +11,6 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5020/live/310dfe
 ---
 
 ![A young Ko Yong Hui at the centre, Kim Jong Un on the left, and Kim Jong Il on the right. A Japanese flag (L) and a North Korean flag behind the trio](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5020/live/310dfe20-5037-11f1-89a3-d1f559421220.png)
-
-- Published
-
 **Among the many mysteries shrouding North Korean leader Kim Jong Un, the secrecy around his mother stands out.**
 
 In his 15 years of rule, he has never once publicly mentioned her by name.
@@ -36,7 +33,7 @@ Thousands of years later, Kim Il Sung - the founder of North Korea - reportedly 
 
 But the reality of Kim's maternal lineage paints a different picture.
 
-Hundreds of miles away from Mount Paektu lies the city of Osaka: Japan's historical capital, and the place where Kim's mother, Ko Yong Hui, was said to be born.
+Hundreds of miles away from Mount Paektu lies the city of Osaka in Japan, the place where Kim's mother, Ko Yong Hui, was said to be born.
 
 From what biographers have pieced together, Ko was born in Osaka in 1952 to parents originally from Jeju Island, which sits off the southern coast of what is now South Korea.
 
