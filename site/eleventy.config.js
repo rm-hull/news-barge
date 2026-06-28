@@ -53,6 +53,30 @@ export default function (eleventyConfig) {
     return grouped;
   });
 
+  // ── Computed Data ──────────────────────────────────────────────────────────
+  eleventyConfig.addGlobalData("eleventyComputed", {
+    permalink: function (data) {
+      const inputPath = data.page?.inputPath || data.inputPath;
+
+      if (inputPath && inputPath.includes("content/")) {
+        const normalizedPath = inputPath.replace(/\\/g, "/");
+        const parts = normalizedPath.split("/");
+
+        const contentIndex = parts.indexOf("content");
+        if (contentIndex !== -1 && parts.length > contentIndex + 4) {
+          const year = parts[contentIndex + 1];
+          const month = parts[contentIndex + 2];
+          const day = parts[contentIndex + 3];
+          const filename = parts[contentIndex + 4].replace(".md", "");
+
+          // Force uniqueness using date and filename
+          return `/articles/${year}/${month}/${day}/${filename}/`;
+        }
+      }
+      return data.permalink;
+    },
+  });
+
   // ── Filters ───────────────────────────────────────────────────────────────
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     if (!dateObj) return "";
