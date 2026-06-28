@@ -15,8 +15,8 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
     {% for article in articles %}
     <li class="article-card">
       <div class="article-card-thumbnail">
-        {% if article.data.thumbnail %}
-        <img src="{{ article.data.thumbnail }}" alt="{{ article.data.title }}" loading="lazy">
+        {% if article.data.image %}
+        <img src="{{ article.data.image }}" alt="{{ article.data.title }}" loading="lazy">
         {% endif %}
       </div>
       <div class="article-card-content">

@@ -3,8 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if title %}{{ title }} · {% endif %}News Barge</title>
-  <meta name="description" content="{{ description or 'A clean, ad-free mirror of articles you care about.' }}">
+  <meta name="description" content="{{ description or 'News-barge: a clean, ad-free mirror of articles you care about.' }}">
+
+  {% if title %}{% set full_title = source_site ~ ": " ~ title %}{% else %}{% set full_title = "News Barge" %}{% endif %}
+  <title>{% if title %}{{ full_title }} · {% endif %}News Barge</title>
+
+  <meta property="og:title" content="{{ full_title }}">
+  <meta name="twitter:title" content="{{ full_title }}">
+  <meta property="og:description" content="{{ description or 'News-barge: a clean, ad-free mirror of articles you care about.' }}">
+  <meta property="og:type" content="{% if source_slug %}article{% else %}website{% endif %}">
+  <meta name="twitter:card" content="summary_large_image">
+
+  {% if image %}<meta property="og:image" content="{{ image }}">{% endif %}
   <link rel="stylesheet" href="/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="News Barge RSS" href="/feed.xml">
   <script defer src="https://analytics.destructuring-bind.org/script.js" data-website-id="{{ site.umamiWebsiteID }}"></script>
