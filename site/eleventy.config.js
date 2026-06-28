@@ -5,6 +5,17 @@ import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+function byDescendingPublishedDate(a, b) {
+  const order = new Date(b.data.published) - new Date(a.data.published);
+  if (order !== 0) {
+    return order;
+  }
+  return (
+    new Date(b.data.scraped_at || b.date) -
+    new Date(a.data.scraped_at || a.date)
+  );
+}
+
 export default function (eleventyConfig) {
   // ── Template Formats ─────────────────────────────────────────────────────
   // Process markdown as template (for article metadata)
@@ -25,22 +36,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("articles", (collectionApi) => {
     return collectionApi
       .getFilteredByGlob("content/**/*.md")
-      .sort(
-        (a, b) =>
-          new Date(b.data.published || b.date) -
-          new Date(a.data.published || a.date),
-      );
+      .sort(byDescendingPublishedDate);
   });
 
   // Articles grouped by source site slug
   eleventyConfig.addCollection("articlesBySite", (collectionApi) => {
     const all = collectionApi
       .getFilteredByGlob("content/**/*.md")
-      .sort(
-        (a, b) =>
-          new Date(b.data.published || b.date) -
-          new Date(a.data.published || a.date),
-      );
+      .sort(byDescendingPublishedDate);
     const grouped = {};
     for (const art of all) {
       const slug = art.data.source_slug || "unknown";
