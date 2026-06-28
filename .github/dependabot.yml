@@ -4,8 +4,12 @@
 # https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
 version: 2
+registries:
+  - type: npm-registry
+    url: https://npm.pkg.github.com
 updates:
   - package-ecosystem: npm
+    registries: [ "github-packages" ]
     directory: /site
     schedule:
       interval: weekly
