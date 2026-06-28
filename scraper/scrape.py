@@ -72,8 +72,8 @@ def clean_markdown_formatting(text: str) -> str:
         return ""
 
     # Remove "Published" list items often found at the top of trafilatura extractions
-    text = re.sub(r"^\s*[\*\-]\s*Published\s*\n", "", text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r"^\s*<ul.*?>\s*<li>Published</li>\s*</ul>\s*\n", "", text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r"^\s*[\*\-]\s*Published\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r"^\s*<ul.*?>\s*<li>Published</li>\s*</ul>\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
 
     def replace_marker(match):
         marker = match.group(1)
