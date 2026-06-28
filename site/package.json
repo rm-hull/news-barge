@@ -2,6 +2,7 @@
   "name": "news-barge-site",
   "version": "1.0.0",
   "private": false,
+  "type": "module",
   "scripts": {
     "prestart": "[ -L content ] || ln -s ../content content",
     "prebuild": "[ -L content ] || ln -s ../content content",
