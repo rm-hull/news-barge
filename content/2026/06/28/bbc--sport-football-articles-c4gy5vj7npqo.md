@@ -4,7 +4,7 @@ title: 'England tactics: How Jude Bellingham became Thomas Tuchel''s most import
 source_url: https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:37Z'
 published: '2026-06-28T00:00:00Z'
 description: His starting place was the subject of much debate in Thomas Tuchel's
   England team, but Jude Bellingham has become integral to the manager's style of

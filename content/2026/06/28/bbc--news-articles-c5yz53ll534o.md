@@ -3,7 +3,7 @@ title: British man held after woman's body found in suitcase in Colombia
 source_url: https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:36Z'
 published: '2026-06-28T00:00:00Z'
 description: Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was
   found dead in Colombia.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8157/live/6a5288
 ![A custody shot of Matthew Ashley Foster-Smith. He has short hair and a beard and is wearing a grey jumper.](https://ichef.bbci.co.uk/ace/standard/384/cpsprodpb/8157/live/6a528860-72ef-11f1-a52b-4f9c73b26afb.jpg)
 
 Matthew Ashley Foster-Smith was arrested at Quito International Airport in Ecuador
+
 **A British man has been arrested in Ecuador after the body of a woman was found inside a suitcase in Colombia.**
 
 Matthew Ashley Foster-Smith, 46, from Bournemouth, Dorset, is alleged to have caused the death of 36-year-old Natalia Villalba in an apartment in Bogota on 18 June, local authorities said.

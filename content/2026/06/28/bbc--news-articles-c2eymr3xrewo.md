@@ -3,7 +3,7 @@ title: How Andy Burnham's school teacher inspired him to believe in himself
 source_url: https://www.bbc.co.uk/news/articles/c2eymr3xrewo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:41Z'
 published: '2026-06-28T00:00:00Z'
 description: Steve Harrington says he had to convince the front-runner for Labour
   leader into going to Cambridge University.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cea2/live/154789
 ![Stephen Harrington is an older man, aged 83. He has white hair and wears thin-rimmed clear-lensed glasses. He is sitting on a brown leather chair and wears a white and brown checked shirt. He is smiling.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f740/live/5bd11ff0-7145-11f1-8e1d-bbbb1017d210.jpg)
 
 Stephen Harrington was Andy Burnham's teacher in the late 1980s and persuaded the now-MP to apply to Cambridge University
+
 **"He needed a lot of persuading to apply because he felt that as a working-class boy, going off to Cambridge wasn't for him. He didn't believe in himself, but he did it, and the rest is history."**
 
 These are the words of former English teacher Stephen Harrington on the advice he gave to a 16-year-old Andy Burnham in 1986 at St Aelred's Catholic High School in Newton-Le-Willows, Merseyside.

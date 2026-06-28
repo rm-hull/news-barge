@@ -3,16 +3,17 @@ title: 'Wimbledon 2026: Emma Raducanu pulls out through injury'
 source_url: https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:04Z'
+scraped_at: '2026-06-28T23:50:44Z'
 published: '2026-06-28T00:00:00Z'
 description: Emma Raducanu is out of Wimbledon after withdrawing on the eve of her
   home Grand Slam tournament with a leg injury.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b62e/live/911283e0-7300-11f1-8b3a-1977d6dee6ef.jpg
 ---
 
-![Emma Raducanu](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b62e/live/911283e0-7300-11f1-8b3a-1977d6dee6ef.jpg)
+![Emma Raducanu wipes her brow](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b62e/live/911283e0-7300-11f1-8b3a-1977d6dee6ef.jpg)
 
 Emma Raducanu has twice reached the fourth round at Wimbledon
+
 **Britain's Emma Raducanu will not play at Wimbledon after withdrawing on the eve of her home Grand Slam because of a stress fracture in her lower right leg.**
 
 Raducanu, 23, announced the decision shortly after 22:00 BST on Sunday - about seven hours after telling journalists she planned to play.
@@ -25,7 +26,7 @@ Raducanu, who was seeded 30th, was due to start her campaign on Monday against C
 
 Fears about the British number one's fitness grew over the past week.
 
-Raducanu was spotted wearing a protective boot on Wednesday, then was unable to train on Thursday and Friday because of what is believed to be a shin problem.
+Raducanu was spotted wearing a protective boot, external on Wednesday, then was unable to train on Thursday and Friday because of what is believed to be a shin problem.
 
 The 2021 US Open champion returned to the court on Saturday to test her fitness and, wearing strapping around her lower right leg, started with a gentle hour-long session with her team.
 
@@ -37,7 +38,9 @@ Raducanu was slightly less tentative against hitting partner Alexis Canter - par
 
 Later on Sunday, Raducanu told the media she was willing to push herself and take more risk with the injury in order to step out at the All England Club.
 
-"Playing at Wimbledon, in front of a home crowd, means everything to me, so this is really difficult to process," Raducanu said.
+However, given the evidence of the previous few days, it felt Raducanu was trying to put a brave face on her dwindling hopes of playing.
+
+Later, when she announced she was not fit enough to play, Raducanu added: "Playing at Wimbledon, in front of a home crowd, means everything to me, so this is really difficult to process."
 
 ## Raducanu leaves difficult decision as late as she could
 
@@ -49,10 +52,22 @@ Like any British player, Raducanu does not want to miss Wimbledon - and it is wh
 
 However, she ultimately felt she had to listen to the advice from doctors.
 
-It is another setback for Raducanu in a career which has been blighted by a series of injury problems since her fairytale US Open victory in New York five years ago.
+It is another bitter setback for Raducanu in a short career which has been blighted by a series of injury problems since her fairytale US Open victory in New York five years ago.
 
-This season has been disrupted by a viral illness that meant she only played six matches from early February to the start of Queen's earlier this month.
+Bone bruising on her right foot ended her 2025 season in October and also limited her work in the off-season.
+
+After reaching the Transylvanian Open final in February, she picked up a viral illness that meant she only played six matches from early February to the start of Queen's earlier this month.
 
 Raducanu's run to the Queen's final bred confidence and increased optimism she could have a successful Wimbledon, where she reached the fourth round in 2021 and 2024.
 
-But, yet again, she has been unable to build on that positivity because of her body letting her down.
+But that positivity has quickly been drained by Raducanu's body letting her down again.
+
+While she did look relatively upbeat at Wimbledon given the circumstances, it is indisputable that this is another hugely frustrating moment for her.
+
+At the French Open last month, an emotional Raducanu admitted that maintaining a positive mindset can be difficult with the number of obstacles she has endured.
+
+Now, with the cycle of a step forward being followed by a setback continuing, she must again draw strength from adversity.
+
+"I have great people around me. I have amazing support from my team, from my family, from my friends. It means a lot," she said.
+
+"Being around positive people, around positive influences, it's always going to help through tough times."

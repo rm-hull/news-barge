@@ -3,7 +3,7 @@ title: 'From Boston to Miami: How the Tartan Army lit up the World Cup'
 source_url: https://www.bbc.co.uk/news/articles/cq51qvewvn3o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:00Z'
+scraped_at: '2026-06-28T23:50:37Z'
 published: '2026-06-28T00:00:00Z'
 description: Scotland's return to the tournament after 28 years will be fondly remembered
   for the fans who travelled to the US
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c715/live/36dd3c
 ![Three Scotland fans wearing blue home tops cheer at the camera. They are wearing Scottish hats and sunglasses](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c715/live/36dd3c80-72e2-11f1-b28d-37d67ec29837.jpg)
 
 An estimated 50,000 Scotland fans travelled to Boston for Scotland's first World Cup appearance since France 1998
+
 **It is only a fortnight since Scotland fans on both sides of the Atlantic woke up after the country's first World Cup win in 36 years.**
 
 An emotional 1-0 victory over Haiti was followed by a jubilant takeover of Boston's iconic Fenway Park.

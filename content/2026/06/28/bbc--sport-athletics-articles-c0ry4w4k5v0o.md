@@ -3,7 +3,7 @@ title: 'Diamond League Paris: Georgia Hunter Bell triumphs in 1,500m again'
 source_url: https://www.bbc.co.uk/sport/athletics/articles/c0ry4w4k5v0o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:05Z'
+scraped_at: '2026-06-28T23:50:45Z'
 published: '2026-06-28T00:00:00Z'
 description: Great Britain's Georgia Hunter Bell storms to her second Diamond League
   win of the season with a commanding victory in the women's 1500m in Paris.
@@ -11,6 +11,7 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e8c/live/265c1
 ---
 
 Absolutely brilliant!' - Hunter Bell wins 1500m
+
 **Great Britain's Georgia Hunter Bell stormed to her second Diamond League win of the year with a season's best time in the women's 1500m in Paris.**
 
 The Olympic bronze medallist clocked three minutes 55.63 seconds to fight off a strong challenge from Ethiopia's Freweyni Hailu (3:55.92), while France's Agathe Guillemot (3:56.24) took third place.

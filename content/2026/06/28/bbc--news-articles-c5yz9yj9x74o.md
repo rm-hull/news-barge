@@ -3,7 +3,7 @@ title: Eleven killed after plane carrying skydivers crashes in eastern France
 source_url: https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:58Z'
+scraped_at: '2026-06-28T23:50:35Z'
 published: '2026-06-28T00:00:00Z'
 description: The pilot and 10 passengers - including five first-time parachutists
   - died in the incident, local officials said.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f645/live/c3ce2a
 ![Emergency service workers speak to each other as the attend a light aircraft crash site](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f645/live/c3ce2a40-72ed-11f1-a52b-4f9c73b26afb.jpg)
 
 A pilot and ten skydivers died after a light aircraft crashed in Tomblaine, eastern France, on Sunday
+
 **Eleven people have died after a civilian aircraft carrying skydivers crashed in the town of Tomblaine in eastern France, local officials said.**
 
 The pilot and all 10 passengers were killed, including five instructors and five people who were preparing to skydive for the first time.

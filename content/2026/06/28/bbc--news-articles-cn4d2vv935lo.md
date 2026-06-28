@@ -3,7 +3,7 @@ title: Europe's heatwave 'linked to 1,300 deaths' as more records broken
 source_url: https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:41Z'
 published: '2026-06-28T00:00:00Z'
 description: WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared
   for high temperatures.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9ba/live/60a323
 ![A woman walks under an umbrella past a "Warsaw" sign as a heatwave sweeps Poland, in Warsaw, Poland,](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a9ba/live/60a32300-7309-11f1-b1db-af71d47507d6.jpg)
 
 Poland recorded an all-time record temperature of 40.5C on Sunday as the heatwave move eastwards
+
 **Europe's unprecedented early summer heatwave may be responsible for hundreds of excess deaths, according to the head of the World Health Organization (WHO).**
 
 Temperature records were broken across the continent again on Sunday – including in Germany, Poland and the Czech Republic – as the extreme heat continued to move east.

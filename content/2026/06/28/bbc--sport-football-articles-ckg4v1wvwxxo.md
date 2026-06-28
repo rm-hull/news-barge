@@ -4,7 +4,7 @@ title: 'World Cup 2026: Algeria & Austria defend ''unexpected'' draw amid conspi
 source_url: https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:37Z'
 published: '2026-06-28T00:00:00Z'
 description: The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in
   Spain - has followed Austria and Algeria for 44 years. Did history repeat itself
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5814/live/45ed5
 ---
 
 Austria score dramatic late equaliser against Algeria as both progress
+
 **The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years.**
 
 West Germany beat Austria 1-0 in a final group match that sent both sides through and eliminated Algeria.

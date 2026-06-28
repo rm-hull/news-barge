@@ -3,7 +3,7 @@ title: Why more and more women are choosing to be childfree
 source_url: https://www.bbc.co.uk/news/articles/cz0jx2z2l41o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:01Z'
+scraped_at: '2026-06-28T23:50:40Z'
 published: '2026-06-28T00:00:00Z'
 description: From financial constraints to worries about the environment, women tell
   the BBC why they do not want kids.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2d7/live/f287e3
 ![Jess King, a woman with long ginger hair and glasses, stands in front of a doorway. She is wearing a short-sleeved white top and has visible black tattoos at the top of her arms.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c2d7/live/f287e380-5f6a-11f1-8b8c-6d33e1d5abb6.jpg)
 
 Jess King, 32, has chosen to live a childfree life
+
 **Jess King always assumed she would have children. To her, it felt like a natural path all women eventually followed.**
 
 But as she got older, she couldn't shake a persistent feeling that she wasn't ready. With time, her doubts deepened.

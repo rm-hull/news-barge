@@ -4,7 +4,7 @@ title: 'Ben Stokes retirement: England captain''s unconventional exit fitting fo
 source_url: https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:36Z'
 published: '2026-06-28T00:00:00Z'
 description: Ben Stokes' shock retirement as England captain during the third Test
   against New Zealand was unconventional - just like the great player himself, says
@@ -15,6 +15,7 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c1d2/live/efc09
 ![England captain Ben Stokes is interviewed by BBC Chief Cricket Commentator Jonathan Agnew before the toss](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c1d2/live/efc09610-7306-11f1-8b3a-1977d6dee6ef.jpg)
 
 Ben Stokes has been England Test captain since 2022
+
 **Ben Stokes has always been his own man. He's been rebellious in the past. He's never been conventional. So his departure has not been conventional either.**
 
 Everyone assumed he would lead England to the Ashes next year and that he would want to be an Ashes-winning captain.

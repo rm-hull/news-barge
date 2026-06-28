@@ -3,7 +3,7 @@ title: Body of missing boy, 15, found in reservoir in Stalybridge
 source_url: https://www.bbc.co.uk/news/articles/c621lp8ev29o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:42Z'
 published: '2026-06-28T00:00:00Z'
 description: Police say the boy's body was recovered from Cowbury Reservoir in Stalybridge
   on Saturday night.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a00f/live/2fcda3
 ![Two officers in uniforms and black hats stood facing forwards. On the backs of their uniforms one reads 'POLICE' the other reads 'PCSO' stood in front of police taper by a bridge in a leafy area.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/a00f/live/2fcda3c0-7306-11f1-8b3a-1977d6dee6ef.jpg)
 
 The 15-year-old boy's body was found on Saturday night by specialist search teams
+
 **The body of a 15-year-old boy has been recovered from a reservoir.**
 
 Greater Manchester Police (GMP) said it had been looking for the teenager after receiving reports he had got into difficulty at 18:30 BST on Saturday at Cowbury Reservoir in Stalybridge, Tameside.

@@ -3,7 +3,7 @@ title: Man charged with murder of Chertsey girl, 2, had leave to remain, say pol
 source_url: https://www.bbc.co.uk/news/articles/czrx4mj18gyo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:42Z'
 published: '2026-06-28T00:00:00Z'
 description: French national Kevin Kerjean was granted leave to remain in the UK in
   2021, extended until 2031.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1c2/live/268d2c
 ![General View of Syward Place in Chertsey on the junction of Bell Bridge Road and Pyrcroft Road.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c1c2/live/268d2c90-714e-11f1-8836-a15622d321c0.jpg)
 
 The 31-year-old suspect was arrested at an apartment complex on Pyrcroft Road in Chertsey
+
 **A man charged with murder following the death of a two-year-old girl in Chertsey came to the UK legally and had leave to remain in the country, police say.**
 
 French national Kevin Kerjean, 31, who was born in the Central African Republic, has also been charged with the rape and sexual assault of a child under 13. He is due to appear at Guildford Crown Court on Monday.

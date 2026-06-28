@@ -3,7 +3,7 @@ title: Navy to build drone-equipped warships instead of replacing ageing destroy
 source_url: https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:36Z'
 published: '2026-06-28T00:00:00Z'
 description: The government says it will invest in modern drone-equipped vessels in
   the upcoming defence investment plan.
@@ -11,6 +11,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f5c/live/7aaf24
 ---
 
 ![A type 45 destroyer](https://ichef.bbci.co.uk/ace/standard/868/cpsprodpb/4f5c/live/7aaf2450-7337-11f1-bfb8-5d59883ec809.jpg)
+
 **Plans to replace ageing destroyer warships will be scrapped in favour of at least six new modern "hybrid" vessels equipped to deploy drones in the UK's upcoming defence plan.**
 
 The Ministry of Defence (MoD) said the new vessels would be more suited to the "pace and nature of modern warfare", and a better investment than a "small number of large expensive ships".

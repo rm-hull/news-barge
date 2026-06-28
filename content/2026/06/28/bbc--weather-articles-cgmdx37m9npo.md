@@ -3,7 +3,7 @@ title: '2026 Wimbledon Championships: Will the weather stay dry for week one?'
 source_url: https://www.bbc.co.uk/weather/articles/cgmdx37m9npo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:01Z'
+scraped_at: '2026-06-28T23:50:40Z'
 published: '2026-06-28T00:00:00Z'
 description: While it will remain warmer than average, the heat and humidity will
   be a lot less intense than of late

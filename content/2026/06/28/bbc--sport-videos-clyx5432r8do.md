@@ -3,7 +3,7 @@ title: 'World Cup 2026: Canada into last 16 with late winner against South Afric
 source_url: https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:05Z'
+scraped_at: '2026-06-28T23:50:44Z'
 published: '2026-06-28T00:00:00Z'
 description: Stephen Eustaquio scores a dramatic winner in the second minute of injury
   time as co-hosts Canada beat South Africa to move into the last 16 of the World

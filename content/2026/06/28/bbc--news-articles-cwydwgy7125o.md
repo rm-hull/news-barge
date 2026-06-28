@@ -3,7 +3,7 @@ title: Catherine completes Three Peaks Challenge to 'explore life beyond' cancer
 source_url: https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:59Z'
+scraped_at: '2026-06-28T23:50:36Z'
 published: '2026-06-28T00:00:00Z'
 description: The Princess of Wales did the endurance event to raise awareness about
   "holistic healthcare" for cancer patients.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d746/live/763df8
 ![The Princess of Wales at the summit of Ben Nevis](https://ichef.bbci.co.uk/ace/standard/674/cpsprodpb/d746/live/763df840-731b-11f1-a489-2d4c87e59982.png)
 
 The Princess of Wales shared a picture of herself at the summit of Ben Nevis
+
 **Catherine, the Princess of Wales, has completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer, describing it as a "chance to explore life beyond diagnosis and to give something back".**
 
 She completed the endurance event, which sees people climbing the highest peaks in England, Scotland and Wales over 24 hours, to raise funds for the Royal Marsden Cancer Charity.

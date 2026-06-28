@@ -4,7 +4,7 @@ title: Millie Bobby Brown and Louis Partridge on belly laughs, sibling vibes and
 source_url: https://www.bbc.co.uk/news/articles/c77ydenvkv1o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:01Z'
+scraped_at: '2026-06-28T23:50:40Z'
 published: '2026-06-27T00:00:00Z'
 description: Brown talks to the BBC about having her "hands and heart" all over the
   detective adventure series.
@@ -14,6 +14,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4665/live/10d521
 ![Millie Bobby Brown and Louis Partridge attend the Enola Holmes 3 NY Premiere on June 25, 2026 in New York City.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/4665/live/10d521a0-7158-11f1-a40a-e7ca3e8cfa47.jpg)
 
 Millie Bobby Brown and Louis Partridge return as Enola and Tewkesbury in Enola Holmes 3
+
 **It is rare to meet two co-stars whose chemistry is obvious before the interview has even begun but before I ask Millie Bobby Brown and Louis Partridge a single question, they are already laughing together.**
 
 As they return for Enola Holmes 3, they say that off-screen friendship has helped them bring more ease and affection to Enola and Tewkesbury's developing relationship.

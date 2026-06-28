@@ -3,7 +3,7 @@ title: Who do Scotland fans want as the next head coach?
 source_url: https://www.bbc.co.uk/sport/football/articles/cn4rdnv0p3wo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:05Z'
+scraped_at: '2026-06-28T23:50:44Z'
 published: '2026-06-28T00:00:00Z'
 description: The speculation has started, but who do Scotland fans want to replace
   Steve Clarke?
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97ed/live/ad8d7
 ![Ange Postecoglou, David Moyes and Alex Neil are popular suggestions to replace Steve Clarke](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/97ed/live/ad8d7c70-72f9-11f1-a52b-4f9c73b26afb.png)
 
 Ange Postecoglou, David Moyes and Alex Neil are popular suggestions to replace Steve Clarke
+
 **Steve Clarke and the Scotland squad have not even left their World Cup base yet and already the attention has turned to what comes next.**
 
 A search will soon start after the shock news of the head coach's resignation in the early hours of Sunday, but who will replace him?

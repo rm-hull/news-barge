@@ -3,7 +3,7 @@ title: Uganda's NTV and Daily Monitor say they are under 'military siege'
 source_url: https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:42Z'
 published: '2026-06-28T00:00:00Z'
 description: NTV and Daily Monitor say their offices in the capital are under "military
   siege".
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/286b/live/b6c739
 ![Gen Muhoozi Kainerugaba, Uganda's Chief of Defence Forces in military jungle uniform](https://ichef.bbci.co.uk/ace/standard/696/cpsprodpb/286b/live/b6c739c0-fc48-11f0-a087-459dd8e000af.jpg)
 
 Gen Muhoozi Kainerugaba is widely seen as a potential successor to his father as president
+
 **Uganda's leading independent media group says it is under "military siege" after the army chief - who is the son of President Yoweri Museveni - ordered the closure of TV stations, newspapers and radio outlets.**
 
 The Daily Monitor newspaper said that armed soldiers were stationed outside its headquarters in the capital Kampala and both NTV and Spark TV had been taken off air.

@@ -4,7 +4,7 @@ title: 'Ben Stokes: England captain says retiring from international cricket is 
 source_url: https://www.bbc.co.uk/sport/cricket/articles/c3dymxr4187o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:04Z'
+scraped_at: '2026-06-28T23:50:44Z'
 published: '2026-06-28T00:00:00Z'
 description: Ben Stokes describes the reasons for his international retirement as
   he says he became 'burned out' in the build-up to the summer.

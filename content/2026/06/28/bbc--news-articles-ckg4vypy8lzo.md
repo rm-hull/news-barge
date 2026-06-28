@@ -3,7 +3,7 @@ title: 'Chris Mason: Burnham is starting to sketch out his vision as potential P
 source_url: https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:06:58Z'
+scraped_at: '2026-06-28T23:50:35Z'
 published: '2026-06-28T00:00:00Z'
 description: The new MP for Makerfield will give what his team has called "his first
   major leadership speech" on Monday morning.
@@ -11,6 +11,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3890/live/b1c7e2
 ---
 
 ![Image shows Andy Burnham wearing black-rimmed glasses and a blue suit, arriving at the Houses of Parliament in Westminster, London, Britain, on 22 June 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3890/live/b1c7e240-732f-11f1-873e-b188b9703f87.jpg)
+
 **Andy Burnham will give what his team has called "his first major leadership speech" on Monday morning and will promise to "lift Britain back up to where it should be".**
 
 In an address at the People's History Museum in Manchester, the new MP for nearby Makerfield will say as prime minister he would "give Britain the circuit breaker it needs".

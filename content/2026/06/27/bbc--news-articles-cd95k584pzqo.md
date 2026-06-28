@@ -4,7 +4,7 @@ title: Why tech firms are raising PC and console prices - and blaming AI for chi
 source_url: https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:41Z'
 published: '2026-06-27T00:00:00Z'
 description: Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just
   some of the gadgets seeing price hikes in recent months.

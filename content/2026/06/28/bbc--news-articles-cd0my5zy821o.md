@@ -3,7 +3,7 @@ title: Australian man charged with murder after girl found dead in suitcase in T
 source_url: https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:02Z'
+scraped_at: '2026-06-28T23:50:41Z'
 published: '2026-06-28T00:00:00Z'
 description: The 17-year-old's body was found discarded near a railway track on Saturday,
   police say.
@@ -13,6 +13,7 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99f8/live/504216
 ![Simon Peter Carman, a man with short light brown hair wearing a sleeveless black too, is escorted by a Thai police officer.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/99f8/live/50421640-72ed-11f1-8e1d-bbbb1017d210.jpg)
 
 Simon Peter Carman was arrested at Bangkok's Suvarnabhumi Airport in the early hours of Saturday, police said
+
 **An Australian man has been charged with murder after the body of a 17-year-old girl was found in a suitcase in Thailand, local and Australian media report.**
 
 Police in the coastal city of Pattaya said they had found the teenager "stuffed" in the bag, which had been discarded near a railway track, in the early hours of Saturday.

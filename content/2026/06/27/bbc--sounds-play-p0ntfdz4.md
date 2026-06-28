@@ -3,7 +3,7 @@ title: Newscast - What's Andy Burnham's Economic Plan? - BBC Sounds
 source_url: https://www.bbc.co.uk/sounds/play/p0ntfdz4?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-06-28T23:07:03Z'
+scraped_at: '2026-06-28T23:50:42Z'
 published: '2026-06-27T00:00:00Z'
 description: The prospective PM will set out his vision on Monday.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
