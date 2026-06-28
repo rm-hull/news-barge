@@ -99,6 +99,12 @@ export default function (eleventyConfig) {
     if (!path) return "";
     return path.split("/").pop();
   });
+
+  eleventyConfig.addFilter("stripQueryParams", (url) => {
+    if (!url) return "";
+    return url.split("?")[0];
+  });
+
   // ── Passthrough ───────────────────────────────────────────────────────────
   eleventyConfig.addPassthroughCopy({ public: "public" });
   eleventyConfig.addPassthroughCopy({ "public/css": "css" });
