@@ -7,20 +7,20 @@ and writes dated .md files with YAML frontmatter.
 """
 
 import argparse
+import asyncio
 import hashlib
-import os
 import re
 import sys
-import textwrap
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 
+import aiohttp
 import feedparser
 import trafilatura
 from lxml import html as lxml_html
 import yaml
-from playwright.sync_api import sync_playwright
+from playwright.async_api import async_playwright
 
 # ---------------------------------------------------------------------------
 # Config
@@ -41,6 +41,9 @@ FETCH_HEADERS = {
     "Accept-Language": "en-GB,en;q=0.9",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
+
+DEFAULT_CONCURRENCY = 10
+DEFAULT_BROWSER_CONCURRENCY = 2
 
 
 # ---------------------------------------------------------------------------
@@ -150,41 +153,50 @@ def write_markdown(path: Path, frontmatter: dict, body: str) -> None:
 # ---------------------------------------------------------------------------
 
 
-def fetch_html_requests(url: str) -> str | None:
-    """Lightweight fetch using trafilatura's built-in downloader."""
+async def fetch_html_aiohttp(url: str, session: aiohttp.ClientSession) -> str | None:
+    """Lightweight fetch using aiohttp."""
     try:
-        return trafilatura.fetch_url(url)
+        timeout = aiohttp.ClientTimeout(total=30)
+        async with session.get(url, headers=FETCH_HEADERS, timeout=timeout) as response:
+            response.raise_for_status()
+            return await response.text()
     except Exception as e:
-        print(f"  ✗ requests fetch failed for {url}: {e}", file=sys.stderr)
+        print(f"  ✗ HTTP fetch failed for {url}: {e}", file=sys.stderr)
         return None
 
 
-def fetch_html_playwright(url: str) -> str | None:
+async def fetch_html_playwright(
+    url: str,
+    browser,
+    browser_semaphore: asyncio.Semaphore,
+) -> str | None:
     """Full browser fetch for JS-heavy or anti-bot sites."""
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(
+    async with browser_semaphore:
+        try:
+            ctx = await browser.new_context(
                 user_agent=FETCH_HEADERS["User-Agent"],
                 java_script_enabled=True,
-                # Block analytics, ads, tracking beacons
                 extra_http_headers={
                     "Accept-Language": FETCH_HEADERS["Accept-Language"]
                 },
             )
-            page = ctx.new_page()
-            # Block common tracking/ad domains at network level
-            page.route(
+            page = await ctx.new_page()
+
+            async def abort_route(route):
+                await route.abort()
+
+            await page.route(
                 "**/{analytics,doubleclick,googlesyndication,adservice,tracking}**",
-                lambda route: route.abort(),
+                abort_route,
             )
-            page.goto(url, wait_until="domcontentloaded", timeout=30000)
-            html = page.content()
-            browser.close()
+            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            html = await page.content()
+            await page.close()
+            await ctx.close()
             return html
-    except Exception as e:
-        print(f"  ✗ playwright fetch failed for {url}: {e}", file=sys.stderr)
-        return None
+        except Exception as e:
+            print(f"  ✗ playwright fetch failed for {url}: {e}", file=sys.stderr)
+            return None
 
 
 # ---------------------------------------------------------------------------
@@ -227,8 +239,12 @@ def to_markdown(extracted: dict) -> str:
 # ---------------------------------------------------------------------------
 
 
-def urls_from_feed(feed_url: str, limit: int) -> list[str]:
-    parsed = feedparser.parse(feed_url)
+async def urls_from_feed(feed_url: str, limit: int, session: aiohttp.ClientSession) -> list[str]:
+    body = await fetch_html_aiohttp(feed_url, session)
+    if not body:
+        return []
+
+    parsed = feedparser.parse(body)
     entries = parsed.entries[:limit]
     urls = []
     for entry in entries:
@@ -238,18 +254,21 @@ def urls_from_feed(feed_url: str, limit: int) -> list[str]:
     return urls
 
 
-def urls_from_listing(
+async def urls_from_listing(
     listing_url,
     pattern,
     limit,
     use_playwright,
+    session: aiohttp.ClientSession,
+    browser,
+    browser_semaphore: asyncio.Semaphore,
     listing_class=None,
     resolve_relative_to_root=False,
 ):
     html = (
-        fetch_html_playwright(listing_url)
+        await fetch_html_playwright(listing_url, browser, browser_semaphore)
         if use_playwright
-        else fetch_html_requests(listing_url)
+        else await fetch_html_aiohttp(listing_url, session)
     )
     if not html:
         return []
@@ -305,8 +324,15 @@ def urls_from_listing(
 # ---------------------------------------------------------------------------
 
 
-def process_article(
-    url: str, site: dict, dry_run: bool = False, force: bool = False
+async def process_article(
+    url: str,
+    site: dict,
+    dry_run: bool,
+    force: bool,
+    session: aiohttp.ClientSession,
+    browser,
+    browser_semaphore: asyncio.Semaphore,
+    fetch_semaphore: asyncio.Semaphore,
 ) -> bool:
     slug = url_to_slug(url)
     site_slug = site["slug"]
@@ -314,12 +340,18 @@ def process_article(
 
     print(f"  → {url}")
 
-    html = fetch_html_playwright(url) if use_playwright else fetch_html_requests(url)
+    async with fetch_semaphore:
+        html = (
+            await fetch_html_playwright(url, browser, browser_semaphore)
+            if use_playwright
+            else await fetch_html_aiohttp(url, session)
+        )
+
     if not html:
         return False
 
-    # Re-extract as markdown using trafilatura
-    md_body = trafilatura.extract(
+    md_body = await asyncio.to_thread(
+        trafilatura.extract,
         html,
         url=url,
         output_format="markdown",
@@ -331,7 +363,7 @@ def process_article(
     )
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
-    meta = trafilatura.extract_metadata(html, default_url=url)
+    meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
     if not md_body:
         print(f"  ✗ extraction returned nothing for {url}", file=sys.stderr)
@@ -370,7 +402,7 @@ def process_article(
         print(f"  [dry-run] would write {path.relative_to(REPO_ROOT)}")
         return True
 
-    write_markdown(path, frontmatter, md_body)
+    await asyncio.to_thread(write_markdown, path, frontmatter, md_body)
     return True
 
 
@@ -385,15 +417,7 @@ def load_sites() -> list[dict]:
     return data.get("sites", [])
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
-    parser.add_argument("--dry-run", action="store_true", help="Don't write files")
-    parser.add_argument("--site", help="Only process this slug")
-    parser.add_argument(
-        "--force", action="store_true", help="Force regeneration of existing files"
-    )
-    args = parser.parse_args()
-
+async def main_async(args):
     sites = load_sites()
     if args.site:
         sites = [s for s in sites if s["slug"] == args.site]
@@ -402,47 +426,96 @@ def main():
             sys.exit(1)
 
     total_new = 0
+    concurrency = args.concurrency or DEFAULT_CONCURRENCY
+    browser_concurrency = args.browser_concurrency or DEFAULT_BROWSER_CONCURRENCY
+    fetch_semaphore = asyncio.Semaphore(concurrency)
+    browser_semaphore = asyncio.Semaphore(browser_concurrency)
 
-    for site in sites:
-        print(f"\n{'─'*50}")
-        print(f"Site: {site['name']} ({site['slug']})")
+    async with aiohttp.ClientSession() as session:
+        async with async_playwright() as playwright:
+            browser = await playwright.chromium.launch(headless=True)
 
-        urls = list(site.get("urls") or [])
+            for site in sites:
+                print(f"\n{'─'*50}")
+                print(f"Site: {site['name']} ({site['slug']})")
 
-        if "feed" in site:
-            limit = site.get("feed_limit", 10)
-            print(f"  Fetching feed ({limit} items): {site['feed']}")
-            feed_urls = urls_from_feed(site["feed"], limit)
-            print(f"  Found {len(feed_urls)} URLs in feed")
-            urls = feed_urls + urls
+                urls = list(site.get("urls") or [])
 
-        if "listing_url" in site:
-            use_playwright = site.get("force_playwright", False)
-            limit = site.get("listing_limit", 10)
-            pattern = site.get("listing_link_pattern", "")
-            listing_class = site.get("listing_class")
-            resolve_relative_to_root = site.get("resolve_relative_to_root", False)
-            listing_urls = urls_from_listing(
-                site["listing_url"],
-                pattern,
-                limit,
-                use_playwright,
-                listing_class,
-                resolve_relative_to_root,
-            )
-            urls = listing_urls + urls
+                if "feed" in site:
+                    limit = site.get("feed_limit", 10)
+                    print(f"  Fetching feed ({limit} items): {site['feed']}")
+                    feed_urls = await urls_from_feed(site["feed"], limit, session)
+                    print(f"  Found {len(feed_urls)} URLs in feed")
+                    urls = feed_urls + urls
 
-        if not urls:
-            print("  No URLs configured, skipping.")
-            continue
+                if "listing_url" in site:
+                    use_playwright = site.get("force_playwright", False)
+                    limit = site.get("listing_limit", 10)
+                    pattern = site.get("listing_link_pattern", "")
+                    listing_class = site.get("listing_class")
+                    resolve_relative_to_root = site.get("resolve_relative_to_root", False)
+                    listing_urls = await urls_from_listing(
+                        site["listing_url"],
+                        pattern,
+                        limit,
+                        use_playwright,
+                        session,
+                        browser,
+                        browser_semaphore,
+                        listing_class,
+                        resolve_relative_to_root,
+                    )
+                    urls = listing_urls + urls
 
-        for url in urls:
-            ok = process_article(url, site, dry_run=args.dry_run, force=args.force)
-            if ok:
-                total_new += 1
+                if not urls:
+                    print("  No URLs configured, skipping.")
+                    continue
+
+                article_tasks = [
+                    process_article(
+                        url,
+                        site,
+                        dry_run=args.dry_run,
+                        force=args.force,
+                        session=session,
+                        browser=browser,
+                        browser_semaphore=browser_semaphore,
+                        fetch_semaphore=fetch_semaphore,
+                    )
+                    for url in urls
+                ]
+
+                for future in asyncio.as_completed(article_tasks):
+                    if await future:
+                        total_new += 1
+
+            await browser.close()
 
     print(f"\n{'─'*50}")
     print(f"Done. {total_new} new article(s) written.")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Scrape sites → Markdown")
+    parser.add_argument("--dry-run", action="store_true", help="Don't write files")
+    parser.add_argument("--site", help="Only process this slug")
+    parser.add_argument(
+        "--force", action="store_true", help="Force regeneration of existing files"
+    )
+    parser.add_argument(
+        "--concurrency",
+        type=int,
+        default=DEFAULT_CONCURRENCY,
+        help="Number of concurrent fetches to run",
+    )
+    parser.add_argument(
+        "--browser-concurrency",
+        type=int,
+        default=DEFAULT_BROWSER_CONCURRENCY,
+        help="Number of concurrent Playwright browser fetches",
+    )
+    args = parser.parse_args()
+    asyncio.run(main_async(args))
 
 
 if __name__ == "__main__":
