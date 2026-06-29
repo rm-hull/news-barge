@@ -3,17 +3,29 @@
   "version": "1.0.0",
   "private": false,
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "prestart": "[ -L content ] || ln -s ../content content",
     "prebuild": "[ -L content ] || ln -s ../content content",
     "build": "eleventy --config=eleventy.config.js && pagefind --site _site",
-    "start": "eleventy --config=eleventy.config.js --serve"
+    "start": "eleventy --config=eleventy.config.js --serve",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:templates": "prettier --plugin prettier-plugin-nunjucks --parser nunjucks _layouts/base.njk"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.6",
     "js-yaml": "^5.2.0"
   },
   "devDependencies": {
-    "pagefind": "^1.5.2"
+    "@eslint/eslintrc": "^3.3.5",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.6",
+    "pagefind": "^1.5.2",
+    "prettier": "^3.9.3",
+    "prettier-plugin-nunjucks": "^0.1.4"
   }
 }
