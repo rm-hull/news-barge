@@ -24,7 +24,7 @@ permalink: /404.html
       <div class="article-card-content">
         <div class="article-card-meta">
           <a href="/sites/{{ article.data.source_slug }}/" class="site-tag">{{ article.data.source_site }}</a>
-          <time datetime="{{ article.data.published }}">{{ article.data.published | readableDate }}</time>
+          <time datetime="{{ article.data.published }}" title="Scraped at: {{ article.data.scraped_at }}">{{ article.data.published | readableDate }}</time>
         </div>
         <h2 class="article-card-title">
           <a href="{{ article.url }}">{{ article.data.title }}</a>

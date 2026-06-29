@@ -166,8 +166,12 @@ a:hover {
   color: var(--muted);
 }
 
-.article-card-meta time, .article-meta time {
+.article-card-content time,
+.article-card-meta time,
+.article-meta time {
   cursor: help;
+  font-size: 0.8rem;
+  color: var(--muted);
 }
 
 .article-card-title {
