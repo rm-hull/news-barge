@@ -74,9 +74,9 @@ def clean_markdown_formatting(text: str) -> str:
     if not text:
         return ""
 
-    # Remove "Published" list items often found at the top of trafilatura extractions
+    # Remove certiain items often found at the top of trafilatura extractions
     text = re.sub(r"^\s*[\*\-]\s*Published\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r"^\s*<ul.*?>\s*<li>Published</li>\s*</ul>\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
+    text = re.sub(r"\*\*Recommended reading:\*\*", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
 
     def replace_marker(match):
         marker = match.group(1)
@@ -214,6 +214,7 @@ def extract(html: str, url: str) -> dict | None:
         url=url,
         include_comments=False,
         include_tables=True,
+        include_images=True,
         favor_precision=True,
         config=TRAFILATURA_CONFIG,
     )
