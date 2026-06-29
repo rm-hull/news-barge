@@ -3,7 +3,7 @@ title: Plaudits for York pub, which reopened at weekend after month-long renovat
 source_url: https://www.yorkpress.co.uk/news/26236597.greene-king-re-opens-blossom-streets-windmill-inn/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:47Z'
+scraped_at: '2026-06-29T23:35:05Z'
 published: '2026-06-29T00:00:00Z'
 description: The popular York city centre pub The Windmill Inn is receiving plaudits
   after it re-opened after a month of renovations.
@@ -22,7 +22,8 @@ The Greene King pub has had a full makeover inside and out; including new planti
 
 The brewery giant says the pub, which was built in the late 17th Century, has a high-quality feel inside with new décor and furnishings and an improved sports zone with Sky Sports and TNT Sports, along with a pool table for sports enthusiasts to enjoy.
 
-  **RECOMMENDED READING:**
+  
+
 
   **Greene King confirms start on revamp of The Windmill in York**
 

@@ -3,7 +3,7 @@ title: Town meeting on £15m harbour redevelopment
 source_url: https://www.yorkpress.co.uk/news/26238641.scarborough-town-meeting-15m-harbour-redevelopment/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T18:21:56Z'
+scraped_at: '2026-06-29T23:35:09Z'
 published: '2026-06-29T00:00:00Z'
 description: A £15 MILLION redevelopment of a North Yorkshire town’s historic pier
   will be discussed by councillors this week.

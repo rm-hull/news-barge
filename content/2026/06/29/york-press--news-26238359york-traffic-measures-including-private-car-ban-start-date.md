@@ -3,7 +3,7 @@ title: When private traffic ban on major York route to boost buses could start
 source_url: https://www.yorkpress.co.uk/news/26238359.york-traffic-measures-including-private-car-ban-start-date/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:24Z'
+scraped_at: '2026-06-29T23:35:12Z'
 published: '2026-06-29T00:00:00Z'
 description: The month when a trial ban on private traffic driving through a major
   York route has been revealed along with new details on how the scheme will…

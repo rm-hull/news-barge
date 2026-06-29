@@ -3,7 +3,7 @@ title: £120,000 seagull plans to be debated
 source_url: https://www.yorkpress.co.uk/news/26238335.120-000-seagull-plans-debated-public-meeting/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:29Z'
+scraped_at: '2026-06-29T23:35:03Z'
 published: '2026-06-29T00:00:00Z'
 description: A NEW £119,000 seagull strategy to protect public health in North Yorkshire
   is set to be debated by councillors.

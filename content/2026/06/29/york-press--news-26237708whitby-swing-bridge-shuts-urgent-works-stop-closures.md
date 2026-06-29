@@ -4,7 +4,7 @@ title: '''Where do we go from here?'' - urgent work plans for landmark North Yor
 source_url: https://www.yorkpress.co.uk/news/26237708.whitby-swing-bridge-shuts-urgent-works-stop-closures/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:27Z'
+scraped_at: '2026-06-29T23:35:16Z'
 published: '2026-06-29T00:00:00Z'
 description: A North Yorkshire councillor has spoken to The York Press today (Monday,
   June 29) in the wake of the latest closure of Whitby Swing Bridge.
@@ -23,11 +23,12 @@ Last weekend, as reported in The Press, the bridge failed due to high temperatur
 
 This led to an impromptu closure and warning from the police over people ignoring the closure signs.
 
-  **Recommended reading:**
+  
+
 
 North Yorkshire Council said a team of bridge and highways experts will work through tonight to try and resolve the issues that stop it from closing properly.
 
-A council spokesperson said the work will require a fill road closure from 6pm tomorrow until 2am on Wednesday of this week.
+A council spokesperson said the work will require a full road closure from 6pm tomorrow until 2am on Wednesday of this week.
 
 North Yorkshire Council’s assistant director for highways and infrastructure, Barrie Mason, said: “We fully appreciate the impact this issue is having on the town, its residents, businesses and visitors and we will do everything we can to get to the bottom of it as quickly as possible.
 
@@ -49,7 +50,9 @@ North Yorkshire Council publishes a list of scheduled bridge closures - except f
 
 The council said a shuttle bus will run between 6pm tonight and 11.59pm tomorrow.
 
-Mr Mason added: "“Some noise is to be expected, and there may be a delay in starting if the bridge is too warm, but we are committed to sorting it out.
+Mr Mason added: "“
+
+Some noise is to be expected, and there may be a delay in starting if the bridge is too warm, but we are committed to sorting it out.
 
 “In the near future, we are also looking to put in some light-coloured high friction surfacing as a further measure to reduce heat build-up.
 

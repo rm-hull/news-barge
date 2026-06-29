@@ -3,7 +3,7 @@ title: How York residents really feel about new York tip booking system
 source_url: https://www.yorkpress.co.uk/news/26236649.york---hazel-court-tip-booking-system-survey-results-shared/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:14Z'
+scraped_at: '2026-06-29T23:35:00Z'
 published: '2026-06-29T00:00:00Z'
 description: A survey has revealed how users feel about a new public booking system
   at York’s main tip.
@@ -20,7 +20,8 @@ More than 82 per cent of respondents to a City of York Council survey said they 
 
 Launched on February 23, the Click Before You Tip system was introduced to tackle queues at the James Street site, which the council said had resulted in heavy congestion that was harming businesses in and around the area.
 
-  **Recommended reading:**
+  
+
 
 The new rule allows residents up to four 10-minute visits a week while businesses can book two 15-minute slots a day to dispose of their waste.
 

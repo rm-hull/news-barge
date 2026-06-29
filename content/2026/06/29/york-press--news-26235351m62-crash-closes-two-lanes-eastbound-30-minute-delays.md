@@ -3,7 +3,7 @@ title: Major road through North Yorkshire reopens following morning crash and de
 source_url: https://www.yorkpress.co.uk/news/26235351.m62---crash-closes-two-lanes-eastbound-30-minute-delays/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:17Z'
+scraped_at: '2026-06-29T23:35:07Z'
 published: '2026-06-29T00:00:00Z'
 description: All lanes of the M62 eastbound are reopen between junction 34 and 35
   following an earlier crash which led to traffic being held.
@@ -16,7 +16,8 @@ A CRASH on a major North Yorkshire motorway caused delays of up to 30 minutes th
 
 Highways England said traffic on the eastbound M62 between junctions 34 and 45 was being held after the incident which was first reported around 7am (Monday, June 29).
 
-  **Recommended reading:**
+  
+
 
 
 The lane closures were between the junctions for the A19 and Selby, and the southbound M18.

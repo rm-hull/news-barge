@@ -3,7 +3,7 @@ title: Business leaders in York service sector express confidence at first city 
 source_url: https://www.yorkpress.co.uk/news/26231560.service-leaders-talk-confidence/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:28Z'
+scraped_at: '2026-06-29T23:35:14Z'
 published: '2026-06-29T00:00:00Z'
 description: York’s service business leaders have expressed strong confidence in the
   city’s future at an inaugural event.
@@ -22,7 +22,8 @@ The message emerged at Momentum York, a new sold-out conference hosted by York B
 
 The inaugural event brought together around 140 representatives from businesses, local government and development organisations.
 
-  **RECOMMENDED READING:**
+  
+
 
 - 
     **York BID reveals winners of its Best Bar None Awards.**

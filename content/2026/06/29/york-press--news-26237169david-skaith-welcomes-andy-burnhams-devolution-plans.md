@@ -4,7 +4,7 @@ title: York could achieve same success as Manchester ‘if we’re given the tru
 source_url: https://www.yorkpress.co.uk/news/26237169.david-skaith-welcomes-andy-burnhams-devolution-plans/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:28Z'
+scraped_at: '2026-06-29T23:35:11Z'
 published: '2026-06-29T00:00:00Z'
 description: The mayor of York and North Yorkshire has said the county could achieve
   the same success as Manchester “if we’re given the trust”, as he…
@@ -45,7 +45,8 @@ It would, Mr Burnham said, oversee the “biggest council house building program
 
 He also announced plans for regions to take “greater public control of essential services” including water, energy and transport.
 
-  **Recommended reading:**
+  
+
 
 - Next PM must invest in York and North Yorkshire - mayor
 - York MPs back Andy Burnham for prime minister as Keir Starmer resigns

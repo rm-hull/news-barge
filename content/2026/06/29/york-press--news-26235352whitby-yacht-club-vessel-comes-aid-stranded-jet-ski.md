@@ -3,7 +3,7 @@ title: Jet ski incident in sea off North Yorkshire town coast
 source_url: https://www.yorkpress.co.uk/news/26235352.whitby---yacht-club-vessel-comes-aid-stranded-jet-ski/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:23Z'
+scraped_at: '2026-06-29T23:35:09Z'
 published: '2026-06-29T00:00:00Z'
 description: The RNLI said the vessel from Whitby Yacht Club was returning from the
   Netherlands on Saturday evening around 8pm when it was asked to come to the…
@@ -18,7 +18,8 @@ The RNLI said the vessel from Whitby Yacht Club was returning from the Netherlan
 
 The Whitby inshore lifeboat was launched around the same time as the small pleasure craft was drifting south towards Ravenscar.
 
-  **Recommended reading:**
+  
+
 
 Those on board the yacht kept an eye on the jet skier until the RNLI inshore lifeboat arrived and towed the jet ski back to the nearest safe haven.
 

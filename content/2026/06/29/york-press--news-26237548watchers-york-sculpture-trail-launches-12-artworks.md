@@ -3,7 +3,7 @@ title: Meet York’s 12 ‘Watchers’ guarding the city in new art trail
 source_url: https://www.yorkpress.co.uk/news/26237548.watchers-york-sculpture-trail-launches-12-artworks/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:25Z'
+scraped_at: '2026-06-29T23:35:06Z'
 published: '2026-06-29T00:00:00Z'
 description: York’s streets have been transformed with the arrival of a new art trail
   featuring 12 sculptures across the city for the summer.

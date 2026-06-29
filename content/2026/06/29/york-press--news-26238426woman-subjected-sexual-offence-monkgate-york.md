@@ -3,7 +3,7 @@ title: Woman subjected to sexual offence while walking home in York
 source_url: https://www.yorkpress.co.uk/news/26238426.woman-subjected-sexual-offence-monkgate-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:37Z'
+scraped_at: '2026-06-29T23:35:20Z'
 published: '2026-06-29T00:00:00Z'
 description: A woman was subjected to a sexual offence by a man while walking home
   in Monkgate, York, police have said.

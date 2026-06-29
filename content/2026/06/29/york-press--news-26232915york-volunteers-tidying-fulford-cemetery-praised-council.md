@@ -3,7 +3,7 @@ title: Volunteers who 'rolled up sleeves' to tidy York cemetery praised
 source_url: https://www.yorkpress.co.uk/news/26232915.york-volunteers-tidying-fulford-cemetery-praised-council/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:02Z'
+scraped_at: '2026-06-29T23:35:18Z'
 published: '2026-06-29T00:00:00Z'
 description: The efforts of volunteers who stepped in to keep a York cemetery tidy
   have been praised.
@@ -12,7 +12,7 @@ image: https://www.yorkpress.co.uk/resources/images/21108000.jpg?type=og-image
 
 ## Volunteers who 'rolled up sleeves' to tidy York cemetery praised
 
-Fulford Cemetery, in Fordlands Road, York, in June 2025 before volunteers got involved *(Image: City of York Council)*
+Fulford Cemetery, in Fordlands Road, York, in June 2025 before volunteers got involved
 
 THE efforts of volunteers who stepped in to keep a York cemetery tidy have been praised.
 

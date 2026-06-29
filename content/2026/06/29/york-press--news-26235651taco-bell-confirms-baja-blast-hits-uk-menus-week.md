@@ -3,7 +3,7 @@ title: Fast food chain confirms fan-favourite US item hits UK menus this week
 source_url: https://www.yorkpress.co.uk/news/26235651.taco-bell-confirms-baja-blast-hits-uk-menus-week/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:55Z'
+scraped_at: '2026-06-29T23:35:01Z'
 published: '2026-06-29T00:00:00Z'
 description: Taco Bell has confirmed that UK restaurants will see the Mountain Dew
   Baja Blast be added to menus across the country this week.
@@ -54,7 +54,8 @@ Lucy Dee, marketing director at Taco Bell UK, said: "Baja Blast has built an inc
 
 "We know how much excitement there is around Baja Blast, and we can't wait for fans to get their first taste."
 
-  **Recommended reading:**
+  
+
 
 - Popular US fast food chain set to launch in the UK with 50 restaurants planned
 - US fast food chain to rival McDonald’s as it confirms UK return after 17 years

@@ -3,7 +3,7 @@ title: Two hotels planned for emergency accommodation use sparks fears
 source_url: https://www.yorkpress.co.uk/news/26237070.plans-turn-lodge-scarborough-emergency-housing/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:21Z'
+scraped_at: '2026-06-29T23:35:22Z'
 published: '2026-06-29T00:00:00Z'
 description: PLANS to formalise the use of two hotels in North Yorkshire as emergency
   accommodation have left residents concerned.

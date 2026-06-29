@@ -3,7 +3,7 @@ title: Women at War summer programme launches at museum near Malton
 source_url: https://www.yorkpress.co.uk/news/26231183.eden-camp-celebrate-womens-wartime-stories-summer/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:49Z'
+scraped_at: '2026-06-29T23:35:18Z'
 published: '2026-06-29T00:00:00Z'
 description: Eden Camp’s Women at War programme honours the contributions of women
   who kept Britain running during the Second World War.

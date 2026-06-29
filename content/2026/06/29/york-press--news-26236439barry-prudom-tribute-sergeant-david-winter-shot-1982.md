@@ -4,7 +4,7 @@ title: '''Ultimate sacrifice'': Tribute to North Yorkshire officer shot dead by 
 source_url: https://www.yorkpress.co.uk/news/26236439.barry-prudom-tribute-sergeant-david-winter-shot-1982/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:37Z'
+scraped_at: '2026-06-29T23:35:02Z'
 published: '2026-06-29T00:00:00Z'
 description: Tributes have been paid to a North Yorkshire Police officer who was shot
   dead during the hunt for one of Britain's most wanted killers.

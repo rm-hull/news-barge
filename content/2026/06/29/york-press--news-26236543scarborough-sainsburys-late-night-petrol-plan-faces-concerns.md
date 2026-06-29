@@ -3,7 +3,7 @@ title: Major supermarket’s late-night petrol plan faces concerns
 source_url: https://www.yorkpress.co.uk/news/26236543.scarborough-sainsburys-late-night-petrol-plan-faces-concerns/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:33Z'
+scraped_at: '2026-06-29T23:35:21Z'
 published: '2026-06-29T00:00:00Z'
 description: A LARGE supermarket’s plan to extend the evening use of its petrol station
   has been met with concerns from local residents.

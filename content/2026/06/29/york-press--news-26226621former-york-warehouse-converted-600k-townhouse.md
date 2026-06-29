@@ -3,7 +3,7 @@ title: Former York warehouse transformed into £600,000 townhouse
 source_url: https://www.yorkpress.co.uk/news/26226621.former-york-warehouse-converted-600k-townhouse/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:45Z'
+scraped_at: '2026-06-29T23:35:13Z'
 published: '2026-06-29T00:00:00Z'
 description: A former warehouse in York has been transformed into a four-bedroom £600,000
   townhouse.

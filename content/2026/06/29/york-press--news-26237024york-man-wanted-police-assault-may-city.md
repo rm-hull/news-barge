@@ -3,7 +3,7 @@ title: Man wanted for assault in North Yorkshire - police appeal
 source_url: https://www.yorkpress.co.uk/news/26237024.york---man-wanted-police-assault-may-city/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:27Z'
+scraped_at: '2026-06-29T23:35:04Z'
 published: '2026-06-29T00:00:00Z'
 description: North Yorkshire Police is hunting a wanted 33-year-old man from Knaresborough
   is wanted on recall to prison and in connection with an assault. He…
@@ -16,7 +16,8 @@ A 33-year-old man from Knaresborough is wanted on recall to prison and in connec
 
 Robert Johnson, who is being sought by North Yorkshire Police, is believed to be in the York, Harrogate, or Knaresborough area.
 
-  **Recommended reading:**
+  
+
 
 He is described by police as around 6ft tall, of skinny build, with short, dark, receding hair.
 

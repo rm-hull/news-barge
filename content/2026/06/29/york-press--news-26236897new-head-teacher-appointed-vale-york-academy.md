@@ -3,7 +3,7 @@ title: Meet the man set to take the helm at this York secondary school
 source_url: https://www.yorkpress.co.uk/news/26236897.new-head-teacher-appointed-vale-york-academy/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:43Z'
+scraped_at: '2026-06-29T23:35:08Z'
 published: '2026-06-29T00:00:00Z'
 description: A new head teacher has been appointed at Vale of York Academy.
 image: https://www.yorkpress.co.uk/resources/images/21113612.jpg?type=og-image
@@ -27,7 +27,8 @@ Mr Green-Harding said it is an “honour and a privilege to be joining Vale of Y
 
 “Most importantly, I want every student to feel happy, safe and successful here, and to leave fully prepared for their next steps.”
 
-  **Recommended reading:**
+  
+
 
 - Students wow audiences at York showcase of music, dance and drama
 - Youngsters celebrate as proms take place across York and North Yorkshire

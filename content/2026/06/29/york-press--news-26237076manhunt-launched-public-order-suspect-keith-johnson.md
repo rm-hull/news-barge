@@ -3,7 +3,7 @@ title: Police manhunt underway for suspect wanted in arson and criminal damage p
 source_url: https://www.yorkpress.co.uk/news/26237076.manhunt-launched-public-order-suspect-keith-johnson/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:24Z'
+scraped_at: '2026-06-29T23:35:23Z'
 published: '2026-06-29T00:00:00Z'
 description: A 44-year-old man is wanted by police in connection with public order
   offences and threats to commit arson.

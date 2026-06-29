@@ -3,7 +3,7 @@ title: Man from North Yorkshire town who 'failed to appear at court' arrested
 source_url: https://www.yorkpress.co.uk/news/26235676.wanted-man-north-yorkshire-skipped-court-arrested/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:11Z'
+scraped_at: '2026-06-29T23:35:16Z'
 published: '2026-06-29T00:00:00Z'
 description: As reported by The Press last week, North Yorkshire Police put out an
   appeal to trace the man after he failed to appear at York Magistrates'…
@@ -16,7 +16,8 @@ A 34-year-old man from Harrogate who was the subject of a police appeal has now 
 
 As reported by The Press last week, North Yorkshire Police put out an appeal to trace the man after he allegedly failed to appear at York Magistrates' Court.
 
-  **Recommended reading:**
+  
+
 
 He was ordered to appear in connection with the breach of a restraining order.
 

@@ -3,7 +3,7 @@ title: ITV confirms TV schedule changes for Emmerdale and Coronation Street this
 source_url: https://www.yorkpress.co.uk/news/national/uk-today/26236996.itvs-schedule-changes-emmerdale-corrie-week/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:45:33Z'
+scraped_at: '2026-06-29T23:35:03Z'
 published: '2026-06-29T00:00:00Z'
 description: Emmerdale and Coronation Street will air this week but with a few schedule
   changes thanks to more World Cup coverage.

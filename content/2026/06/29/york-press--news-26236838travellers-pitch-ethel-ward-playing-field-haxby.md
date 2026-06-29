@@ -3,7 +3,7 @@ title: Town council update after Travellers pitch up at playing field
 source_url: https://www.yorkpress.co.uk/news/26236838.travellers-pitch-ethel-ward-playing-field-haxby/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:20:00Z'
+scraped_at: '2026-06-29T23:35:16Z'
 published: '2026-06-29T00:00:00Z'
 description: Haxby Town Council have assured residents that travellers, who have pitched
   up at Ethel Ward Playing Field, will be moved on "as quickly as…
@@ -18,7 +18,8 @@ Travellers who have pitched up at a playing field in a York suburb will be moved
 
 Haxby Town Council said it would continue to work with City of York Council and North Yorkshire Police to move Travellers on after they have been camping in Ethel Ward.
 
-  **Recommended reading:**
+  
+
 
 In a statement on Monday (June 29) a council spokesperson said: “We are aware that there have been a number of incidents on Ethel Ward.
 

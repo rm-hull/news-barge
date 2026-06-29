@@ -4,7 +4,7 @@ title: '''Lovely'' North Yorkshire Sam Smith''s pub built in 1768 thrives under 
 source_url: https://www.yorkpress.co.uk/news/26235747.success-sam-smiths-red-bear-sherburn-in-elmet/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:40Z'
+scraped_at: '2026-06-29T23:35:20Z'
 published: '2026-06-29T00:00:00Z'
 description: A Sam Smith’s owned pub is thriving in a fast-growing North Yorkshire
   town near Tadcaster.
@@ -23,7 +23,8 @@ Previously, the couple ran the Red Lion at Conisbrough, near Doncaster.
 
 Sarah says they were attracted to the Red Bear after Tadcaster-based Sam Smith’s rung them to say the previous management couple were leaving and could they look after the pub, which was built in 1768.
 
-  **RECOMMENDED READING:**
+  
+
 
   **Sam Smith's pub, the Wellington Inn in Fishergate, to reopen**
 

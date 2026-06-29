@@ -3,7 +3,7 @@ title: Thousands flock to Scarborough for spectacular celebration with RAF flypa
 source_url: https://www.yorkpress.co.uk/news/26236704.scarborough-armed-forces-day-2026-draws-huge-crowds/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T21:57:32Z'
+scraped_at: '2026-06-29T23:34:59Z'
 published: '2026-06-29T00:00:00Z'
 description: Thousands of people flocked to Scarborough for a day of celebrations
   to mark Armed Forces Day.

@@ -4,7 +4,7 @@ title: Hundreds of bellringers descend on Minster for competition – and York t
 source_url: https://www.yorkpress.co.uk/news/26236638.york-comes-first-national-12-bell-striking-contest-final/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:44Z'
+scraped_at: '2026-06-29T23:35:00Z'
 published: '2026-06-29T00:00:00Z'
 description: Hundreds of bellringers took to York Minster for the National 12-Bell
   Striking Contest Final – and the home team walked away champions.
@@ -31,7 +31,8 @@ Band leader Ed Mack said he was “incredibly proud” of the York team.
 
 “To win on our own bells during their centenary year, in front of so many friends from across the ringing community, makes the achievement even more special.”
 
-  **Recommended reading:**
+  
+
 
 - 
     **Two members of 80s pop royalty perform in one night at top North Yorkshire venue**

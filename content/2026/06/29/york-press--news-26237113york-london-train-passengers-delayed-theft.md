@@ -3,7 +3,7 @@ title: Major delays for York passengers after theft
 source_url: https://www.yorkpress.co.uk/news/26237113.york-london-train-passengers-delayed-theft/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:45:28Z'
+scraped_at: '2026-06-29T23:35:12Z'
 published: '2026-06-29T00:00:00Z'
 description: LNER commuters are facing major delays today on a key train route between
   Yorkshire and London.

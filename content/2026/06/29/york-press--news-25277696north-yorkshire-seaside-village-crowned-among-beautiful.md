@@ -3,7 +3,7 @@ title: North Yorkshire seaside village ‘cutest in Yorkshire crown’ among mos
 source_url: https://www.yorkpress.co.uk/news/25277696.north-yorkshire-seaside-village-crowned-among-beautiful/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:01:03Z'
+scraped_at: '2026-06-29T23:35:04Z'
 published: '2026-06-29T00:00:00Z'
 description: This North Yorkshire seaside village between Whitby and Staithes has
   been crowned among the most beautiful in Britain - find out why.
@@ -48,7 +48,8 @@ A highlight of the Runswick includes “fabulous fossils” on the beach where �
 
 Meanwhile, if you’re wondering where the best view is, you might want to try “from midway along the beach, looking back to the cascading village”.
 
-  **Recommended reading:**
+  
+
 
 - 'Picture postcard' North Yorkshire coastal village among England's best hidden gems
 - North Yorkshire coastal walk with ‘most dramatic ocean views’ among UK’s best

@@ -3,7 +3,7 @@ title: Bettys and Taylors of Harrogate posts record £326m turnover
 source_url: https://www.yorkpress.co.uk/news/26238132.bettys-taylors-harrogate-report-rising-costs/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:38Z'
+scraped_at: '2026-06-29T23:35:02Z'
 published: '2026-06-29T00:00:00Z'
 description: An iconic North Yorkshire company has reported a record turnover, but
   lower operating profits due to rising costs.
@@ -22,7 +22,8 @@ The business, has five cafe tearooms, including one in York, plus an online busi
 
 The annual accounts report group revenue increased 2% from £319.2 million in 2024 to £325.7 million in 2025.
 
-  **RECOMMENDED READING:**
+  
+
 
   **Bettys launches savoury version of best-selling Fat Rascal**
 

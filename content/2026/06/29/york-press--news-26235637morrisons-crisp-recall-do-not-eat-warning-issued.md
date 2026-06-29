@@ -3,7 +3,7 @@ title: Morrisons apologises as 'do not eat' warning issued due to crisp recall
 source_url: https://www.yorkpress.co.uk/news/26235637.morrisons-crisp-recall-do-not-eat-warning-issued/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:59Z'
+scraped_at: '2026-06-29T23:35:06Z'
 published: '2026-06-29T00:00:00Z'
 description: 'A Morrisons spokesman said: “Please do not eat this product and return
   it to your nearest store for a full refund."'

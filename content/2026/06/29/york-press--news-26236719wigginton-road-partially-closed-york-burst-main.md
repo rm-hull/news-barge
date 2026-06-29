@@ -3,7 +3,7 @@ title: York traffic hotspot hit by partial road closure following burst water ma
 source_url: https://www.yorkpress.co.uk/news/26236719.wigginton-road-partially-closed-york-burst-main--/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:38Z'
+scraped_at: '2026-06-29T23:35:14Z'
 published: '2026-06-29T00:00:00Z'
 description: One lane of a major York road was closed after a water pipe burst outside
   the hospital.
@@ -18,13 +18,15 @@ ONE lane of a main road in York has closed after a water main burst outside majo
 
 A fractured pipe caused the closure of one lane in Wigginton Road as Yorkshire Water confirmed it had begun repair on the site outside one of the York Hospital entrances this morning (Monday, June 29).
 
-The water company said teams were heading out to the site around 10am to complete a repair and was closing the road temporarily whilst it did so for the safety of residents and road users.
+The water company said there are high-voltage cables in the area which need to be excavated by hand under safety guidance.
 
 Later this morning, the company said works had begun and confirmed the one-way lane closure in Wigginton Road.
 
 A spokesperson apologised for the inconvenience and thanked everybody for their patience.
 
 A spokesperson for York and Scarborough Teaching Hospitals NHS Foundation Trust said that the hospital remains accessible but advised patients and visitors to plan ahead.
+
+The county's ambulance trust said emergency vehicles were taking a different route into the hospital than via Wigginton Road.
 
 The Press has contacted First Bus to find out about any local changes to services in the area.
 

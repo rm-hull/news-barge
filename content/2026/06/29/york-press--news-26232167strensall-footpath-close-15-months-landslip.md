@@ -3,7 +3,7 @@ title: York village footpath set to close for over a year over landslip danger
 source_url: https://www.yorkpress.co.uk/news/26232167.strensall-footpath-close-15-months-landslip/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:43Z'
+scraped_at: '2026-06-29T23:35:07Z'
 published: '2026-06-29T00:00:00Z'
 description: A public footpath in Strensall is set to close for over a year due to
   risks posed by a landslip.
@@ -18,7 +18,8 @@ A PUBLIC footpath in a York village is set to close for over a year due to risks
 
 Pedestrians will not be able to walk along the public right of way leading from the Dumcombe Lane track to a section of Centenary Way in Strensall from Tuesday (June 30) to Friday (December 31) 2027.
 
-  **Recommended reading:**
+  
+
 
   The footpath in Strensall is set to close from June 30 to December 31 
 

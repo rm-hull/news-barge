@@ -3,7 +3,7 @@ title: Thieves target woman in her 90s in York city centre
 source_url: https://www.yorkpress.co.uk/news/26236928.woman-90s-followed-stolen-m-s-york/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:29Z'
+scraped_at: '2026-06-29T23:35:10Z'
 published: '2026-06-29T00:00:00Z'
 description: Thieves have followed and stolen from a shopper in her 90s in York city
   centre.
@@ -28,7 +28,8 @@ A force spokesperson said: “Once inside, she was approached by a group of peop
 
 *(Image: North Yorkshire Police)*
 
-  **Recommended reading:**
+  
+
 
 As police enquiries continue, officers have released CCTV images of three people the force would like to speak to in relation to the investigation.
 

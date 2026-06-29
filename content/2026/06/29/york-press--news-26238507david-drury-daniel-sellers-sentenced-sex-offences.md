@@ -3,7 +3,7 @@ title: Former police employee and partner sentenced to 'appalling' child sex off
 source_url: https://www.yorkpress.co.uk/news/26238507.david-drury-daniel-sellers-sentenced-sex-offences/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:32Z'
+scraped_at: '2026-06-29T23:35:15Z'
 published: '2026-06-29T00:00:00Z'
 description: A former Humberside Police employee and his partner have been sentenced
   for a string of “appalling” child sex offences.
@@ -20,7 +20,8 @@ David Drury, 40, of Thoresby Street in Hull, and his partner Daniel Sellers, 44,
 
 The court heard how Drury had pleaded guilty to sexual assault of a child under 13, two counts of sexual assault on a male, six counts of distributing an indecent photograph/pseudo-photograph of a child, and voyeurism on May 18.
 
-  **Recommended reading:**
+  
+
 
   Daniel Sellers, 44, pleaded guilty to two counts of aiding, abetting, counselling and procuring sexual assault on a male, and arranging/facilitating the commission of a child sex offence 
 

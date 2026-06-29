@@ -3,7 +3,7 @@ title: Major update after Travellers pitch up on York playing field
 source_url: https://www.yorkpress.co.uk/news/26237952.travellers-ordered-leave-ethel-ward-playing-field-haxby/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T18:21:33Z'
+scraped_at: '2026-06-29T23:35:14Z'
 published: '2026-06-29T00:00:00Z'
 description: City of York Council have issued a major update after travellers pitched
   up at a much-loved playing field in York.
@@ -20,7 +20,8 @@ The Travellers arrived at the playing field on Friday (June 26).
 
 The group has until 2pm on Wednesday (July 1) to leave the area, the council has confirmed.
 
-  **Recommended reading:**
+  
+
 
 A council spokesperson said: “If this is breached then Neighbourhood Enforcement Officers will apply to the Magistrate’s Court for Direction to Leave Orders.”
 

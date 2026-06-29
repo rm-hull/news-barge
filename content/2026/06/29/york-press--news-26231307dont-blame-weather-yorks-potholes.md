@@ -3,7 +3,7 @@ title: Don’t blame the weather for potholes – just look at Mexico and Norway
 source_url: https://www.yorkpress.co.uk/news/26231307.dont-blame-weather-yorks-potholes--/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:38Z'
+scraped_at: '2026-06-29T23:35:01Z'
 published: '2026-06-29T00:00:00Z'
 description: Our letter writer urges us not to blame the weather for York potholes
   – and explains why

@@ -3,7 +3,7 @@ title: Arrest after man ‘exposes himself’ to group at York Racecourse
 source_url: https://www.yorkpress.co.uk/news/26237302.man-exposes-himself-group-york-racecourse---police/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T16:19:53Z'
+scraped_at: '2026-06-29T23:35:19Z'
 published: '2026-06-29T00:00:00Z'
 description: A man has been arrested after a man allegedly exposed himself to a group
   at York Racecourse during Summer Music Saturday.

@@ -4,7 +4,7 @@ title: York centenarian named after Flemish war nurse who helped father celebrat
 source_url: https://www.yorkpress.co.uk/news/26236088.york---heworth-golf-club-celebration-zelie-caffrey-100/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T12:44:30Z'
+scraped_at: '2026-06-29T23:35:08Z'
 published: '2026-06-29T00:00:00Z'
 description: A woman has celebrated her 100th birthday surrounded by loved ones.
 image: https://www.yorkpress.co.uk/resources/images/21112660.jpg?type=og-image&xType=0&yType=359

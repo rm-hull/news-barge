@@ -4,7 +4,7 @@ title: Two members of 80s pop royalty perform in one night at top North Yorkshir
 source_url: https://www.yorkpress.co.uk/news/26235423.wet-wet-wet-frontman-billy-ocean-perform-scarborough/
 source_site: York Press
 source_slug: york-press
-scraped_at: '2026-06-29T11:00:18Z'
+scraped_at: '2026-06-29T23:35:03Z'
 published: '2026-06-29T00:00:00Z'
 description: Billy Ocean brought a night of hits to Scarborough Open Air Theatre,
   following an earlier singalong-filled set from former Wet Wet Wet frontman…
@@ -25,7 +25,8 @@ Grammy-winning singer Billy Ocean performed classics from his 50-year career, st
 
 *(Image: Cuffe and Taylor)*
 
-  **Recommended reading:**
+  
+
 
 A standout moment was his 1977 hit 'Red Light Spells Danger,' which energised the crowd, according to onlookers.
 
