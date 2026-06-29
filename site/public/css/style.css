@@ -253,7 +253,7 @@ a:hover {
   text-decoration: none;
 }
 .meta-link:hover {
-  color: var(--text);
+  color: var(--accent);
 }
 
 .share-link {
