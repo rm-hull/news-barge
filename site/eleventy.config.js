@@ -53,6 +53,42 @@ export default function (eleventyConfig) {
     return grouped;
   });
 
+  // Articles grouped by site, split into pages (30 per page)
+  eleventyConfig.addCollection("articlesBySitePages", (collectionApi) => {
+    const all = collectionApi
+      .getFilteredByGlob("content/**/*.md")
+      .sort(byDescendingPublishedDate);
+
+    const grouped = {};
+    for (const art of all) {
+      const slug = art.data.source_slug || "unknown";
+      grouped[slug] = grouped[slug] || [];
+      grouped[slug].push(art);
+    }
+
+    const PAGE_SIZE = 30;
+    const pages = [];
+
+    for (const [slug, articles] of Object.entries(grouped)) {
+      const siteName = articles[0].data.source_site;
+      const totalPages = Math.ceil(articles.length / PAGE_SIZE);
+      const base = `/sites/${slug}/`;
+
+      for (let i = 0; i < totalPages; i++) {
+        pages.push({
+          slug,
+          siteName,
+          pageNumber: i,
+          articles: articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
+          nextHref: i < totalPages - 1 ? `${base}page/${i + 2}/` : null,
+        });
+      }
+    }
+
+    return pages;
+  });
+
   // ── Computed Data ──────────────────────────────────────────────────────────
   eleventyConfig.addGlobalData("eleventyComputed", {
     permalink: function (data) {

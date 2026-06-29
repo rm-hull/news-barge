@@ -1,21 +1,18 @@
 ---
 layout: base.njk
 pagination:
-  data: collections.articlesBySite
+  data: collections.articlesBySitePages
   size: 1
-  alias: group
-  resolve: keys
-permalink: /sites/{{ group }}/
+  alias: sitePage
+permalink: /sites/{{ sitePage.slug }}/{% if sitePage.pageNumber > 0 %}page/{{ sitePage.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
-  siteName: "{{ collections.articlesBySite[group][0].data.source_site }}"
-  title: "{{ siteName }}"
+  title: "{{ sitePage.siteName }}"
 ---
-{% set siteArticles = collections.articlesBySite[group] %}
-
 <section class="index-section">
-  <h1 class="page-title">{{ siteName }}</h1>
+  <h1 class="page-title">{{ sitePage.siteName }}</h1>
+
   <ul class="article-list">
-    {% for article in siteArticles %}
+    {% for article in sitePage.articles %}
     <li class="article-card">
       <div class="article-card-thumbnail">
         {% if article.data.image %}
@@ -37,4 +34,15 @@ eleventyComputed:
     </li>
     {% endfor %}
   </ul>
+
+  {% if sitePage.previousHref or sitePage.nextHref %}
+  <nav class="pagination">
+    {% if sitePage.previousHref %}
+      <a href="{{ sitePage.previousHref }}" class="page-link">← Newer</a>
+    {% endif %}
+    {% if sitePage.nextHref %}
+      <a href="{{ sitePage.nextHref }}" class="page-link">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
 </section>
