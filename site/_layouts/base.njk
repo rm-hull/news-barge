@@ -6,7 +6,7 @@
   <meta name="description" content="{{ description or 'News-barge: a clean, ad-free mirror of articles you care about.' }}">
 
   {% if title %}{% set full_title = (source_site ~ ": " if source_site else "") ~ title %}{% else %}{% set full_title = "News Barge" %}{% endif %}
-  <title>{% if title %}{{ full_title }} · {% endif %}News Barge</title>
+  <title>News Barge{% if title %} · {{ full_title }}{% endif %}</title>
 
   <meta property="og:title" content="{{ full_title }}">
   <meta name="twitter:title" content="{{ full_title }}">

@@ -6,9 +6,11 @@ pagination:
   alias: group
   resolve: keys
 permalink: /sites/{{ group }}/
+eleventyComputed:
+  siteName: "{{ collections.articlesBySite[group][0].data.source_site }}"
+  title: "{{ siteName }}"
 ---
 {% set siteArticles = collections.articlesBySite[group] %}
-{% set siteName = siteArticles[0].data.source_site %}
 
 <section class="index-section">
   <h1 class="page-title">{{ siteName }}</h1>
