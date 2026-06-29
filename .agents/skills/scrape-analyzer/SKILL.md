@@ -44,7 +44,7 @@ Provide the finalized configuration in the following format. Before suggesting, 
     listing_class: "[class_name]" # Optional
     listing_link_pattern: "[pattern]" # Optional
     resolve_relative_to_root: [true/false] # Optional
-    listing_limit: [number]
+    limit: [number]
 ```
 
 ## Heuristics

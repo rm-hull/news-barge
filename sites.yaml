@@ -6,7 +6,7 @@
 #   slug:       Short identifier, used in filenames (no spaces)
 #   urls:       List of specific article URLs to scrape
 #   feed:       RSS/Atom feed URL — scraper will pull latest N items
-#   feed_limit: Max articles to pull from feed (default: 10)
+#   limit:      Max articles to pull from feed or listing (default: 10)
 #   force_playwright: Set true if the site needs a real browser (JS-heavy)
 #   notes:      Freeform reminder
 
@@ -14,29 +14,29 @@ sites:
   - name: The Guardian
     slug: guardian
     feed: https://www.theguardian.com/world/rss
-    feed_limit: 50
+    limit: 50
 
   - name: BBC News
     slug: bbc
     feed: https://feeds.bbci.co.uk/news/rss.xml
-    feed_limit: 50
+    limit: 50
 
   - name: Harrogate Advertiser
     slug: harrogate-advertiser
     listing_url: https://www.harrogateadvertiser.co.uk/news/latest
     listing_link_pattern: "/news/"
-    listing_limit: 100
+    limit: 100
 
   - name: Harrogate News
     slug: harrogate-news
     listing_url: https://www.harrogate-news.co.uk/
     listing_link_pattern: /\d{4}/\d{2}/\d{2}/
-    listing_limit: 50
+    limit: 50
 
   - name: Your Harrogate
     slug: your-harrogate
     feed: https://www.yourharrogate.co.uk/local-news/harrogate/feed.xml
-    feed_limit: 50
+    limit: 50
 
   - name: Harrogate Town Council
     slug: harrogate-town-council
@@ -44,19 +44,19 @@ sites:
     listing_class: "elementor-heading-title"
     listing_link_pattern: "/\\d{4}/\\d{2}/"
     resolve_relative_to_root: false
-    listing_limit: 100
+    limit: 100
 
   - name: BBC News - Harrogate
     slug: bbc-harrogate
     feed: https://feeds.bbci.co.uk/news/topics/cnx753jene1t/rss.xml
-    feed_limit: 50
+    limit: 50
 
   - name: York Mix
     slug: york-mix
     listing_url: https://www.yorkmix.com/archive/news
     listing_class: "category-news"
     resolve_relative_to_root: true
-    listing_limit: 100
+    limit: 100
 
   - name: York Press
     slug: york-press
@@ -64,13 +64,13 @@ sites:
     force_playwright: true
     listing_class: "omnicard"
     resolve_relative_to_root: true
-    listing_limit: 50
+    limit: 50
 
   - name: Tom's Hardware
     slug: toms-hardware
     listing_url: https://www.tomshardware.com/uk/news
     listing_class: "listingResult"
-    listing_limit: 100
+    limit: 100
 
   # Example: specific URLs instead of a feed
   # - name: Example Site
@@ -83,5 +83,5 @@ sites:
   # - name: Wired
   #   slug: wired
   #   feed: https://www.wired.com/feed/rss
-  #   feed_limit: 5
+  #   limit: 5
   #   force_playwright: true

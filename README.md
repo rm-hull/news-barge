@@ -48,13 +48,13 @@ sites:
   - name: The Guardian
     slug: guardian
     feed: https://www.theguardian.com/world/rss
-    listing_limit: 5
+    limit: 5
 
   - name: Some HTML-only site
     slug: example
     listing_url: https://example.com/news
     listing_class: ".article-link"
-    listing_limit: 10
+    limit: 10
     force_playwright: true   # use a real browser for JS-heavy sites
 ```
 

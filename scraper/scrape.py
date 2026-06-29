@@ -443,7 +443,7 @@ async def main_async(args):
                 urls = list(site.get("urls") or [])
 
                 if "feed" in site:
-                    limit = site.get("feed_limit", 10)
+                    limit = site.get("limit", site.get("feed_limit", 10))
                     print(f"  Fetching feed ({limit} items): {site['feed']}")
                     feed_urls = await urls_from_feed(site["feed"], limit, session)
                     print(f"  Found {len(feed_urls)} URLs in feed")
@@ -451,7 +451,7 @@ async def main_async(args):
 
                 if "listing_url" in site:
                     use_playwright = site.get("force_playwright", False)
-                    limit = site.get("listing_limit", 10)
+                    limit = site.get("limit", site.get("listing_limit", 10))
                     pattern = site.get("listing_link_pattern", "")
                     listing_class = site.get("listing_class")
                     resolve_relative_to_root = site.get("resolve_relative_to_root", False)
