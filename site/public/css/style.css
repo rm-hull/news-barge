@@ -154,7 +154,7 @@ a:hover {
   height: 100%;
   object-fit: cover;
   border-radius: 6px;
-  background: var(--bg-alt)
+  background: var(--bg-alt);
 }
 
 .article-card-meta {
@@ -164,6 +164,10 @@ a:hover {
   margin-bottom: 0.35rem;
   font-size: 0.8rem;
   color: var(--muted);
+}
+
+.article-card-meta time, .article-meta time {
+  cursor: help;
 }
 
 .article-card-title {
