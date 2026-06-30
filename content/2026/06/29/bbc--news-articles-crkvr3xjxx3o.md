@@ -1,0 +1,70 @@
+---
+title: 'Chris Mason: Burnham revels on public stage but has little time to hammer
+  ideas into shape'
+source_url: https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-06-30T04:21:27Z'
+published: '2026-06-29T00:00:00Z'
+description: As a man who has held prime ministerial ambitions for years, Andy Burnham
+  makes his dash for the door, political editor Chris Mason writes.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d87/live/b53a2e20-740a-11f1-8e1d-bbbb1017d210.jpg
+---
+
+![Andy Burnham, wearing a black jacket and t-shirt, stands at a podium.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3d87/live/b53a2e20-740a-11f1-8e1d-bbbb1017d210.jpg)
+
+**Two things stand out watching Andy Burnham, as I've done during the recent by-election campaign and in the ten or so days since.**
+
+The first is that he is a politician who revels in being on the public stage: comfortable in his own skin, comfortable in front of a microphone and cameras, and confident in venturing off script and ad-libbing to respond to things as they unfold.
+
+The second thing is he revels in doing the vision thing: setting out, with passion, the route he believes could lead to a better society and why he reckons he could lead us there.
+
+"A leader with politics and vision. Quite something," one Labour MP told me, the comparison with Sir Keir Starmer implicit in his compliment of Burnham.
+
+Don't underestimate the contrast many Labour figures will draw between the current prime minister and his likely imminent successor on these points alone.
+
+Whether it is anywhere near enough to make a success of governing, let's see, but it is a difference being widely pointed to.
+
+"There is no such thing as Starmerism and there never will be," the brilliant chroniclers of Sir Keir's years of leadership Patrick Maguire and Gabriel Pogrund quote him as saying in their book Get In: The Inside Story of Labour and the Starmer Project.
+
+The equivalent line wouldn't be one you would hear from Burnham.
+
+Sir Keir's argument was that he would be pragmatic, not bound by ideology or too fixed a worldview.
+
+But his internal critics long privately grumbled, and more recently increasingly publicly grumbled that this amounted to him all too often not being able to articulate what he did believe.
+
+So now many of them exude a sense of relief, even joy, that Burnham, on the big picture at least, appears to know his own mind.
+
+It hasn't always been like this: Burnham's critics a decade ago, after he had fought and lost his second Labour leadership race, would joke about his indecision and capacity to change his mind.
+
+Elements of this critique have returned more recently, from some, given his changing outlook on the Waspi women campaign, the government's borrowing rules and on trans rights, for instance.
+
+But it also true that Burnham's time as the Mayor of Greater Manchester has allowed him to develop and road test a political outlook he now wants to extend to the UK as a whole.
+
+Devolution, the pushing of power away from Westminster, is at the centre of this.
+
+A couple of years ago Burnham co-authored a book with the Labour mayor of the Liverpool City Region, Steve Rotheram.
+
+It is a tome, 'Head North,' which Westminster is now re-devouring, poring over for clues about his instincts and how much of what he advocated then he will actually seek to deliver in government.
+
+In the book, Burnham points to the shaping of post war Germany, in which the allies, including the UK, "drew up boundaries for the new German state in a bid to prevent a future concentration of political power in Berlin."
+
+The individual regions, or Lander, he adds, "were given a high degree of autonomy."
+
+In addition, he points out, a law was passed to ensure there were equivalent living standards between these regions.
+
+Imagine how the UK might look, he argues, if the UK had done the same.
+
+Instead, Burnham argues, both Labour and Conservative governments have failed to sufficiently empower devolved leaders.
+
+In fairness, it is worth pointing out that both the last Labour government - with the creation of devolved bodies in Scotland, Wales and Northern Ireland and a mayor of London - and the last Conservative government in accelerating the idea of elected mayors around England - did quite a bit of constitutional plumbing.
+
+So the question now is whether Burnham's rhetoric will be matched by action in office.
+
+His speech in Manchester on Monday is seen by his team as the "foundational text" of his programme for government.
+
+It was broad and bold in vision, but his challenge will be fleshing out the detail and delivering noticeable change quickly amid the climate of contributors to Sir Keir's demise - including an impatient electorate and a fracturing politics.
+
+And he has vanishingly little time to knock his ideas into shape.
+
+For a man who has nurtured prime ministerial ambitions for years, the final dash to the door is, in all likelihood, happening in days – two weeks on Monday, if he is not challenged.
