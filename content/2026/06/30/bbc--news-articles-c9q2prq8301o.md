@@ -1,0 +1,37 @@
+---
+title: Missing congressman Tom Kean explains mysterious four-month absence
+source_url: https://www.bbc.co.uk/news/articles/c9q2prq8301o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-06-30T18:08:04Z'
+published: '2026-06-30T00:00:00Z'
+description: New Jersey Republican Tom Kean Jr, told fellow lawmakers that depression
+  was the reason he had been away since March.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/49e1/live/e3102260-74a4-11f1-9c5b-41132a229f02.jpg
+---
+
+Watch: US congressman Tom Kean returns after revealing depression diagnosis
+
+**A Republican congressman who missed dozens of votes while on unexplained medical leave from the House of Representatives told fellow lawmakers he was in hospital for depression during his 142-day absence.**
+
+"I was given the diagnosis of depression," New Jersey's Tom Kean said in remarks after returning to work on Tuesday. "It is physical, it is emotional and, until you've experienced it yourself, it is difficult to fully understand how powerful this illness can be."
+
+Kean, 57, is running for a third term in a district that Republican leadership is concerned could go to a Democrat in November's midterm elections.
+
+He missed more than 140 votes while away and left many wondering about his health.
+
+He addressed the mystery on the House floor, saying he entered hospital for testing several months ago due to health concerns and "did not believe that this would result in a long-term stay". After the diagnosis was made, his doctors recommended remaining in hospital and "explained to me this would be the fastest way to recovery", he said.
+
+"When people hear the word depression, many people think it simply means feeling sad," he said. "But depression is so much more than that."
+
+Earlier this month, Kean ran unopposed for the Republican nomination, and won.
+
+He has only offered vague answers about his absence previously, describing it on social media as a "personal medical issue".
+
+His aides, some of whom have told US media that they did not personally know his reason for missing votes, had said he was "under a doctor's care".
+
+Republicans had called for Kean to be transparent about the reason for his absence.
+
+The part of New Jersey that Kean represents is considered a swing district, meaning it has a high propensity to flip between Republicans and Democrats each election cycle.
+
+His will be a key district for Republicans to hold on to in November's midterm elections, which will determine the balance of power in Congress. Democrats are looking to unseat him, which would shift power their way and deliver a loss to Trump.

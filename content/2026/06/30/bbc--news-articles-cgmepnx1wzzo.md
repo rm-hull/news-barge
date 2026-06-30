@@ -1,0 +1,51 @@
+---
+title: US Supreme Court upholds birthright citizenship in blow to Trump
+source_url: https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-06-30T18:08:05Z'
+published: '2026-06-30T00:00:00Z'
+description: The ruling is a major setback for Donald Trump's immigration agenda,
+  and has been welcomed by civil rights groups.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg
+---
+
+Watch: Supreme Court's birthright ruling is major blow to Trump, says BBC's Gary O'Donoghue
+
+**The Supreme Court********has********ruled that babies born in the US have a constitutional right to citizenship, rejecting Donald Trump's bid to end the 150-year-old policy.**
+
+In a 6-3 decision, Chief Justice John Roberts ruled that children born in the US "to parents unlawfully or temporarily present" are "citizens at birth" under the 14th amendment.
+
+President Trump had sought to limit the right through an executive order, arguing that the children of undocumented immigrants and some temporary visitors were not "subject to the jurisdiction thereof", and thus not eligible for birthright citizenship.
+
+The ruling is a major setback for Trump's immigration agenda, and has been welcomed by civil rights groups.
+
+![Demonstrators rally in support of birthright citizenship outside the US Supreme Court in Washington, DC on April 1](https://ichef.bbci.co.uk/ace/standard/996/cpsprodpb/f911/live/bd280e50-74a9-11f1-9c5b-41132a229f02.jpg)
+
+On Truth Social, Trump said that the court's decision was "too bad" and vowed to continue to fight to end birthright citizenship through legislation.
+
+"No long and unwieldy constitutional amendment is necessary," he said. "Congress should today start work on ending expensive, and unfair to our country, birthright citizenship."
+
+The US has granted citizenship to everyone born in the country since 1868, with the right enshrined in the 14th Amendment of the US Constitution, and bolstered by later US Supreme Court rulings.
+
+"Citizenship, then and now, was the right to have rights - to freely participate in our political community," Justice Roberts wrote in the majority opinion. "The Framers of the Fourteenth Amendment extended that promise to 'every free-born person in this land'," he wrote.
+
+"We keep that promise today," the chief justice said.
+
+Three of the court's nine justices dissented from the decision: Justices Clarence Thomas, Neil Gorsuch and Samuel Alito.
+
+Justice Thomas, for his part, argued that the 14th amendment was being "repurposed for political projects" and that the freed slaves it was originally intended for "were Americans" with no allegiance to other countries.
+
+Another of the dissenting Justices, Samuel Alito, described the ruling as a "serious mistake" that "confers citizenship on virtually anyone who happens to be born in this country", including those who come to the US with the explicit purpose of giving birth to a child and then returning to their country of origin.
+
+The case was of enormous significance to President Donald Trump, who made a brief but historic appearance at the court to watch oral arguments in April.
+
+On X, White House Chief of Staff Stephen Miller - a vocal proponent of stricter immigration rules - called it "one of the most destructive and outrageous decisions" in the Supreme Court's history.
+
+"American citizenship is not the birthright of the world," he said. "No provision of the Constitution can be read to require our national self-obliteration."
+
+But immigration advocates and detractors of the administration celebrated the ruling.
+
+Dariely Rodriguez, chief counsel at the Lawyers' Committee for Civil Rights Under Law, said that the ruling "solidifies what we have known to be true for over a hundred years".
+
+"Anyone born on American soil, regardless of the legal status of their parents, is born an American citizen," she added. We have endured an incredible test of our collective will as a nation and have prevailed."
