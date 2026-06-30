@@ -13,25 +13,7 @@ permalink: "{% if pagination.pageNumber == 0 %}/{% else %}/page/{{ pagination.pa
 
   <ul class="article-list">
     {% for article in articles %}
-    <li class="article-card">
-      <div class="article-card-thumbnail">
-        {% if article.data.image %}
-        <img src="{{ article.data.image }}" alt="{{ article.data.title }}" loading="lazy">
-        {% endif %}
-      </div>
-      <div class="article-card-content">
-        <div class="article-card-meta">
-          <a href="/sites/{{ article.data.source_slug }}/" class="site-tag">{{ article.data.source_site }}</a>
-          <time datetime="{{ article.data.published }}" title="Scraped at: {{ article.data.scraped_at }}">{{ article.data.published | readableDate }}</time>
-        </div>
-        <h2 class="article-card-title">
-          <a href="{{ article.url }}">{{ article.data.title }}</a>
-        </h2>
-        {% if article.data.description %}
-        <p class="article-card-deck">{{ article.data.description }}</p>
-        {% endif %}
-      </div>
-    </li>
+    {% include "article-card.njk" %}
     {% endfor %}
   </ul>
 

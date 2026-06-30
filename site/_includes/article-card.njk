@@ -1,0 +1,24 @@
+<li class="article-card">
+  {% set data = article.data or data or {} %}
+  {% set url = article.url or url %}
+  <div class="article-card-thumbnail">
+    {% if data.image %}
+      <img src="{{ data.image }}" alt="{{ data.title }}" loading="lazy">
+    {% endif %}
+  </div>
+  <div class="article-card-content">
+    <div class="article-card-meta">
+      {% if data.source_site %}
+        <a href="/sites/{{ data.source_slug }}/" class="site-tag">{{ data.source_site }}</a>
+      {% endif %}
+      <time datetime="{{ data.published }}" title="Scraped at: {{ data.scraped_at }}">{{ data.published | readableDate }}</time>
+    </div>
+    <h2 class="article-card-title">
+      <a href="{{ url }}">{{ data.title }}</a>
+    </h2>
+    {% if data.description %}
+      <p class="article-card-deck">{{ data.description }}</p>
+    {% endif %}
+  </div>
+</li>
+</li>
