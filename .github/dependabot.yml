@@ -12,7 +12,7 @@ updates:
     registries: [ "github-packages" ]
     directory: /site
     schedule:
-      interval: weekly
+      interval: daily
     versioning-strategy: increase
   - package-ecosystem: github-actions
     directory: /
