@@ -8,7 +8,33 @@ permalink: /search/
   <h1 class="page-title">Search</h1>
   <pagefind-input></pagefind-input>
   <pagefind-summary></pagefind-summary>
-  <pagefind-results show-images/>
+  <pagefind-results>
+    <script type="text/pagefind-template">
+      {% raw %}
+      <li class="article-card">
+        <div class="article-card-thumbnail">
+          {{#if meta.thumbnail}}
+            <img src="{{ meta.thumbnail }}" loading="lazy">
+          {{/if}}
+        </div>
+        <div class="article-card-content">
+          <div class="article-card-meta">
+            {{#if meta.source_site }}
+              <a href="/sites/{{ meta.source_slug }}/" class="site-tag">{{ meta.source_site }}</a>
+            {{/if}}
+            <time datetime="{{ meta.date }}">{{ meta.date }}</time>
+          </div>
+          <h2 class="article-card-title">
+            <a href="{{ url | safeUrl }}">{{ meta.title }}</a>
+          </h2>
+          {{#if excerpt}}
+            <p class="article-card-deck">{{+ excerpt +}}</p>
+          {{/if}}
+        </div>
+      </li>
+      {% endraw %}
+    </script>
+  </pagefind-results>
 </section>
 <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 

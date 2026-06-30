@@ -8,13 +8,19 @@
   {% if title %}{% set full_title = (source_site ~ ": " if source_site else "") ~ title %}{% else %}{% set full_title = "News Barge" %}{% endif %}
   <title>News Barge{% if title %} · {{ full_title }}{% endif %}</title>
 
-  <meta data-pagefind-meta="title[content], date:{{ scraped_at }}" property="og:title" content="{{ full_title }}">
-  <meta name="twitter:title" content="{{ full_title }}">
+  <meta data-pagefind-meta="title[content]" property="pf:title" content="{{ title }}"/>
+  <meta data-pagefind-meta="date[content]" property="pf:date" content="{{ scraped_at | readableDate }}"/>
+  <meta data-pagefind-meta="source_site[content]" property="pf:source_site" content="{{ source_site }}"/>
+  <meta data-pagefind-meta="source_slug[content]" property="pf:source_slug" content="{{ source_slug }}"/>
+
+  <meta property="og:title" content="{{ full_title }}">
   <meta property="og:description" content="{{ description or 'News-barge: a clean, ad-free mirror of articles you care about.' }}">
   <meta property="og:type" content="{% if source_slug %}article{% else %}website{% endif %}">
+  {% if image %}<meta data-pagefind-default-meta="thumbnail[content]" property="og:image" content="{{ image }}">{% endif %}
+
+  <meta name="twitter:title" content="{{ full_title }}">
   <meta name="twitter:card" content="summary_large_image">
 
-  {% if image %}<meta data-pagefind-default-meta="image[content]" property="og:image" content="{{ image }}">{% endif %}
   <link rel="stylesheet" href="/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="News Barge RSS" href="/feed.xml">
   <link rel="icon" href="https://www.destructuring-bind.org/favicon.ico">
