@@ -1,0 +1,85 @@
+---
+title: EU border delays 'not bearable' over summer, warns airport boss
+source_url: https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-02T10:50:23Z'
+published: '2026-07-02T00:00:00Z'
+description: Holidaymakers face long waits under the EU's new Entry-Exit System, the
+  head of Berlin's airport says.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f02/live/25f4fb20-75f7-11f1-8c3f-e37c76e39331.jpg
+---
+
+![Passengers wait in long queues at passport control in the departures terminal of Brussels Airport in Brussels, Belgium, on June 29, 2026.](https://ichef.bbci.co.uk/ace/standard/896/cpsprodpb/8f02/live/25f4fb20-75f7-11f1-8c3f-e37c76e39331.jpg)
+
+**The boss of Berlin Airport has said non-EU nationals arriving in the German capital are having to queue for up to two hours under a new digital border system, and warned the situation is "not bearable over the summer".**
+
+Aletta von Massenbach told the BBC that at one terminal in Berlin, where Ryanair and Wizz Air operate, waiting times can run between "an hour to two hours".
+
+Under the EU's new Entry-Exit System (EES) travellers from outside the bloc must register biometric information when entering most European countries, which is checked when they leave.
+
+Airports and airlines say the system is not working. The European Commission (EC) says it is willing to offer more support.
+
+EES is meant to modernise the EU's system of border control, making it more secure and eventually making travel smoother.
+
+It has been fully operational since April.
+
+While the system has worked fine in some places, there have been regular reports of long waits at passport control, especially at peak times.
+
+Some passengers say they have missed flights home because they've been held up in queues.
+
+Von Massenbach said one issue was that EU countries used different systems.
+
+"There are so many sub-systems for each and every member state," she told the BBC's Today programme. "We see that the complexity doesn't really support smooth processing at the border."
+
+Technology issues have prevented EES from being used in the UK at the Port of Dover where French border checks take place.
+
+A new processing area has 84 kiosks to record fingerprints and photographs but currently is not being used because the technology for the kiosks - the responsibility of the French authorities – cannot be activated.
+
+Port of Dover chief executive, Doug Bannister, told MPs on Thursday "time is rapidly running out" to fix it.
+
+"We are rapidly heading towards the start of the critical summer period and are yet to receive the assurances we need to avoid what has the potential to be a very challenging six weeks," he said.
+
+## 'I'm not going back to Europe'
+
+Anne Robinson from Dunbarton has first-hand knowledge of EES and its idiosyncrasies - to the point it has put her off returning to Europe this year.
+
+In June, she and her 13 year-old-son Jack missed their flight home from Rome because of the system. It was already challenging when they landed in the Italian capital.
+
+![A selfie photo of lady with blonde hair and her teenage son smiling at the camera during their trip to Rome.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8c1b/live/c7430020-7526-11f1-b8b8-e187759eae96.jpg)
+
+Anne Robinson and her son Jack in Rome
+
+"We ended up in a queue, I'd say, for about 90 minutes just to get into Rome," she said.
+
+"Everyone was kind of surprised and complaining, because we couldn't understand why it was taking so long."
+
+Flying back to the UK, Robinson said they arrived at Rome airport three-and-a-half hours before their scheduled flight.
+
+But she found that "most of the [EES] machines were out of order. In fact, you could see a lot of machines just laying around, not working."
+
+She estimated they queued for up to 90 minutes: "By the time we got through, we unfortunately missed the flight."
+
+Robinson said they had to pay £250 for a replacement flight two days later - which was not covered by travel insurance.
+
+"I'm not going back to Europe this year," she said. "That was too stressful."
+
+Under the EES system, digital records linked to passports track when "third country" nationals - including British and American travellers - enter and leave the so-called Schengen free movement zone, which includes 29 European countries.
+
+However, Airlines UK and Airlines for America said the EES rollout had been inconsistent.
+
+They added "with peak summer travel approaching and the system not yet working as it should, airlines need the commission and member states to get serious about contingency measures and take a pragmatic look at whether the current timeline is realistic".
+
+Steve Heapy, chief executive of Jet2, said his airline found "the continued pursuit of a policy so baffling - in cases where it has clearly not been implemented in a robust manner".
+
+He said allowing EES checks to be paused where systems were not ready would "result in a much better experience for holidaymakers".
+
+Von Massenbach said there had been a "very high level meeting in Brussels" on Wednesday, "and we see now that they start to understand that this is a situation that is not bearable, not bearable over the summer".
+
+Airports lobby group, ACI Europe, have written to EC president Ursula Von Der Leyen, claiming wait times at border control had now reached up to five hours in peak traffic periods, and things could worsen as the busiest time of the year approached.
+
+It warned "airlines face half-empty planes at gate closing time, while passengers are stuck in border control queues".
+
+An EC spokesman said that "all efforts are being made to limit the impact [of EES] on travellers from outside the EU".
+
+He said the impact was "limited" in "most" EU airports and where there were issues, member states had not been able to provide sufficient numbers of border guards, appropriate infrastructure and automated equipment.
