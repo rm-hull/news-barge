@@ -1,0 +1,67 @@
+---
+title: Stand-up comic held for jokes about Erdogan and Islam in Turkey crackdown
+source_url: https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-03T14:29:02Z'
+published: '2026-07-03T00:00:00Z'
+description: Deniz Göktaş is regarded as one of Turkey's most popular comedians and
+  is accused of "inciting hatred and hostility" on stage.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a68/live/94cdc8c0-76d2-11f1-b508-3b3f1f22a3c1.png
+---
+
+![A head-shot posted by a Turkish stand-up comic showing him holding a microphone and standing in front of a red curtain](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8a68/live/94cdc8c0-76d2-11f1-b508-3b3f1f22a3c1.png)
+
+Deniz Göktaş is seen as one of Turkey's most popular stand-up comics
+
+**Stand-up comedian Deniz Göktaş has been placed under arrest by a court in Istanbul after he was held at the city's main airport over a performance that has attracted 9.4m views on YouTube.**
+
+Göktaş is accused of "inciting hatred and hostility" in his stage routine, as well as insulting President Recep Tayyip Erdoğan.
+
+He is the latest performer to be hit by a crackdown on dissent in Turkey that has also targeted campaigners, journalists and other public figures.
+
+In recent weeks, access to the social media accounts of numerous LGBT+ organisations and activists has been blocked, while more than 200 people have been detained ahead of next week's Nato leaders' summit in the capital Ankara.
+
+Tens of thousands of security personnel are being deployed for the 7-8 July summit hosted by Erdogan where US President Donald Trump will meet his European counterparts and Ukraine's Volodymyr Zelensky.
+
+Last month journalists, lawyers, academics, trade unionists, environmental activists and LGBT campaigners were detained.
+
+Authorities have imposed a ban on demonstrations in Ankara until 10 July and independent Turkish media outlets have complained of being denied accreditation to the summit. Nato said it relied on the host nation, external to ensure access but was in contact with Turkish authorities.
+
+Among those detained late in June were volunteers from one of Turkey's best-known environmental organisations, the Tema Foundation. Tema said many of those detained were retired people returning from a nature trip, and most were later released.
+
+Deniz Göktaş was arrested as he returned to Istanbul from a holiday, and images of the performer being led away with his hands handcuffed behind his back drew immediate criticism from supporters.
+
+![Men and women gather with placards in Turkish](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/623c/live/c5da4110-76d6-11f1-b508-3b3f1f22a3c1.jpg)
+
+Supporters of Deniz Göktaş gathered outside the courthouse in Istanbul to protest his detention
+
+After the comedian was questioned by prosecutors at the Çağlayan courthouse in Istanbul on Friday, the court agreed to a request for his pre-trial detention over part of the performance that covered Erdoğan and the Quran.
+
+Istanbul's chief public prosecutor's office said authorities had received 185 complaints about Göktaş's video.
+
+Turkey's religious affairs directorate mentioned the stand-up show, without naming Göktaş, in its weekly sermon on Friday which is read out in all the country's mosques. The top mufti's office complained that the use of digital platforms "and occasional mockery of our sacred values under the guise of humor are distancing our children from our values day by day".
+
+In his statement to the prosecutor, Göktaş said he had no absolutely no intention of offending anyone religious.
+
+He also denied insulting the president, insisting he had been performing the show in various Turkish cities for nearly three years, and his use of the word "dictator" was a topic discussed widely in Turkey.
+
+His video was recorded at Istanbul's best-known open-air performance venue on 1 June and released on YouTube on 24 June.
+
+"More than 100,000 people have watched this performance, and not a single complaint has been made by anyone saying they were offended by this particular section," he said.
+
+Critics see Göktaş's detention as part of a broader pattern in Turkey targeting public figures. Human Rights Watch has warned of "far-reaching restrictions on the main political opposition party, the media, and freedom of expression in general".
+
+Erdoğan's biggest political rival, Istanbul Mayor Ekrem Imamoğlu, has been in jail for more than a year and went on trial last March on numerous charges including corruption.
+
+Imamoğlu's opposition Republican People's Party (CHP) has faced a broader crackdown, which the CHP has condemned as a "judicial coup" against Turkish democracy.
+
+In May a court in Ankara removed the CHP's entire leadership including chairman Özgür Özel, and replacing him with veteran party figure Kemal Kılıçdaroğlu, who lost to Erdogan in the last presidential election.
+
+A crowd turned out on Friday at the Çağlayan courthouse in Istanbul in support of the detained comedian, and chants of "traitor" were heard inside the courthouse as Kılıçdaroğlu arrived.
+
+Kılıçdaroğlu has criticised Göktaş's airport arrest in handcuffs, saying he should be released. However opposition supporters see his reinstatement as CHP leader as an official attempt to neutralise the party.
+
+Protesters also partly blamed the 77-year-old for young people being targeted by authorities.
+
+The freedom-of-speech monitor, Media and Law Studies Association, said Göktaş was facing prison "for telling jokes", and pointed out that satire was protected under Turkey's constitution and the European Convention on Human Rights.
