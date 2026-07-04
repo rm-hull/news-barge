@@ -99,7 +99,7 @@ sites:
   - name: Gazette & Herald
     slug: gazette-herald
     categories: [Local, Harrogate, York]
-    feed: http://www.gazetteherald.co.uk/News/rss/
+    feed: https://www.gazetteherald.co.uk/News/rss/
     limit: 100
 
   - name: Wired
