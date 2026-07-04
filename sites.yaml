@@ -14,13 +14,13 @@
 sites:
   - name: The Guardian
     slug: guardian
-    categories: [World, News]
+    categories: [World, UK, News]
     feed: https://www.theguardian.com/world/rss
     limit: 50
 
   - name: BBC News
     slug: bbc
-    categories: [World, News]
+    categories: [World, UK, News]
     feed: https://feeds.bbci.co.uk/news/rss.xml
     limit: 50
 
@@ -111,7 +111,27 @@ sites:
     feed: https://www.wired.com/feed/rss
     limit: 100
 
-  # Example: specific URLs instead of a feed
+  - name: New Scientist
+    slug: new-scientist
+    feed: https://www.newscientist.com/feed/home/
+    limit: 50
+    categories: [Science, Technology]
+
+  - name: The Independent
+    slug: independent
+    feed: https://www.independent.co.uk/rss
+    limit: 100
+    categories: [News, UK, World]
+
+  - name: North Yorkshire Council
+    slug: north-yorkshire-council
+    listing_url: https://www.northyorks.gov.uk/news
+    listing_link_pattern: "/news/[0-9]{4}/"
+    resolve_relative_to_root: true
+    limit: 50
+    categories: [Local, York, Harrogate, Government]
+
+
   # - name: Example Site
   #   slug: example
   #   urls:
