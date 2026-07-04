@@ -110,6 +110,14 @@ def report_group_end() -> None:
 def url_to_slug(url: str) -> str:
     parsed = urlparse(url)
     path = parsed.path.strip("/").replace("/", "--")
+    
+    # Handle URLs where the identity is in the query string (e.g., ?id=123)
+    if parsed.query:
+        # Use the query string as part of the slug to avoid collisions 
+        # when the path is identical for all articles.
+        query_slug = slugify(parsed.query).replace("=", "--").replace("&", "--")
+        path = f"{path}--{query_slug}"
+        
     short = slugify(path) or hashlib.sha1(url.encode()).hexdigest()[:10]
     return short
 
@@ -214,6 +222,7 @@ async def fetch_html_aiohttp(
     logger: SiteLogger = None,
     headers: dict | None = None,
     allow_redirects: bool = True,
+    ssl: bool = True,
 ) -> str | None:
     """Lightweight fetch using aiohttp."""
     try:
@@ -224,6 +233,7 @@ async def fetch_html_aiohttp(
             headers=request_headers,
             timeout=timeout,
             allow_redirects=allow_redirects,
+            ssl=ssl,
         ) as response:
             response.raise_for_status()
             return await response.text()
@@ -295,15 +305,16 @@ def extract_first_image_from_markdown(md: str) -> str | None:
 
 
 async def urls_from_feed(
-    feed_url: str, limit: int, session: aiohttp.ClientSession, logger: SiteLogger = None
+    feed_url: str, limit: int, session: aiohttp.ClientSession, logger: SiteLogger = None, site: dict = None
 ) -> list[str]:
     # Use neutral headers for feeds to avoid being served HTML instead of XML
     feed_headers = {
         "User-Agent": "curl/7.81.0",
         "Accept": "application/rss+xml,application/xml,text/xml,application/xhtml+xml,text/html;q=0.9,*/*;q=0.8",
     }
+    ssl = not site.get("trust_insecure_certs", False) if site else True
     body = await fetch_html_aiohttp(
-        feed_url, session, logger=logger, headers=feed_headers, allow_redirects=False
+        feed_url, session, logger=logger, headers=feed_headers, allow_redirects=False, ssl=ssl
     )
     if not body:
         return []
@@ -329,13 +340,15 @@ async def urls_from_listing(
     listing_class=None,
     resolve_relative_to_root=False,
     logger: SiteLogger = None,
+    site: dict = None,
 ):
+    ssl = not site.get("trust_insecure_certs", False) if site else True
     html = (
         await fetch_html_playwright(
             listing_url, browser, browser_semaphore, logger=logger
         )
         if use_playwright
-        else await fetch_html_aiohttp(listing_url, session, logger=logger)
+        else await fetch_html_aiohttp(listing_url, session, logger=logger, ssl=ssl)
     )
     if not html:
         return []
@@ -409,10 +422,11 @@ async def process_article(
     logger.log(f"  → {url}")
 
     async with fetch_semaphore:
+        ssl = not site.get("trust_insecure_certs", False)
         html = (
             await fetch_html_playwright(url, browser, browser_semaphore, logger=logger)
             if use_playwright
-            else await fetch_html_aiohttp(url, session, logger=logger)
+            else await fetch_html_aiohttp(url, session, logger=logger, ssl=ssl)
         )
 
     if not html:
@@ -528,7 +542,7 @@ async def main_async(args):
                 if "feed" in site:
                     limit = site.get("limit", site.get("feed_limit", 10))
                     feed_urls = await urls_from_feed(
-                        site["feed"], limit, session, logger=logger
+                        site["feed"], limit, session, logger=logger, site=site
                     )
                     print(
                         f" | Feed {site['feed']}: found {len(feed_urls)} URLs",
@@ -556,6 +570,7 @@ async def main_async(args):
                         listing_class,
                         resolve_relative_to_root,
                         logger=logger,
+                        site=site,
                     )
                     print(
                         f" | Listing {site['listing_url']}: found {len(listing_urls)} URLs",
