@@ -25,7 +25,7 @@ layout: base.njk
     {% endif %}
 
     <div itemprop="articleBody">
-        {% if image and image | basename not in content and image | stripQueryParams not in content %}
+        {% if image and image | basename not in content and image | stripQueryParams not in content and image | stripImageSize | basename not in content %}
           <img src="{{ image }}" alt="{{ title }}" class="article-image">
         {% endif %}
         {{ content | safe }}
