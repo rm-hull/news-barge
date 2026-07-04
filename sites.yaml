@@ -73,6 +73,29 @@ sites:
     listing_class: "listingResult"
     limit: 100
 
+  - name: TechRadar UK
+    slug: techradar-uk
+    feed: https://www.techradar.com/uk/feeds.xml
+    limit: 100
+
+  - name: Euronews
+    slug: euronews
+    listing_url: https://www.euronews.com/news
+    listing_link_pattern: "\\d{4}/\\d{2}/\\d{2}"
+    resolve_relative_to_root: true
+    force_playwright: true
+    limit: 100
+
+  - name: Gazette & Herald
+    slug: gazette-herald
+    feed: http://www.gazetteherald.co.uk/News/rss/
+    limit: 100
+
+  - name: Wired
+    slug: wired
+    feed: https://www.wired.com/feed/rss
+    limit: 100
+
   # Example: specific URLs instead of a feed
   # - name: Example Site
   #   slug: example
@@ -80,9 +103,3 @@ sites:
   #     - https://example.com/article-1
   #     - https://example.com/article-2
 
-  # Example: JS-heavy site needing Playwright
-  # - name: Wired
-  #   slug: wired
-  #   feed: https://www.wired.com/feed/rss
-  #   limit: 5
-  #   force_playwright: true
