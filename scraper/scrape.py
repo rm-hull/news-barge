@@ -12,6 +12,8 @@ import hashlib
 import os
 import re
 import sys
+import random
+from tqdm.asyncio import tqdm
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
@@ -60,10 +62,32 @@ def slugify(text: str) -> str:
     return text[:80].strip("-")
 
 
-def report_error(message: str) -> None:
-    """Prints an error message to stderr with colors and GitHub Actions support."""
+class SiteLogger:
+    def __init__(self, site_name: str, site_slug: str):
+        self.site_name = site_name
+        self.site_slug = site_slug
+        self.logs = []
 
-    if os.environ.get("GITHUB_ACTIONS") == "true":
+    def log(self, message: str):
+        self.logs.append(message)
+
+    def error(self, message: str):
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            self.logs.append(f"::error::{message}")
+        else:
+            RED_BOLD = "\033[1;31m"
+            RESET = "\033[0m"
+            self.logs.append(f"{RED_BOLD}ERROR:{RESET} {message}")
+
+    def info(self, message: str):
+        self.log(message)
+
+
+def report_error(message: str, logger: SiteLogger = None) -> None:
+    """Prints an error message to stderr with colors and GitHub Actions support."""
+    if logger:
+        logger.error(message)
+    elif os.environ.get("GITHUB_ACTIONS") == "true":
         print(f"::error::{message}", file=sys.stderr)
     else:
         # ANSI codes: Bold Red
@@ -158,7 +182,7 @@ def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
     return CONTENT_DIR / date_path / filename
 
 
-def write_markdown(path: Path, frontmatter: dict, body: str) -> None:
+def write_markdown(path: Path, frontmatter: dict, body: str, logger: SiteLogger) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(
         frontmatter,
@@ -169,7 +193,7 @@ def write_markdown(path: Path, frontmatter: dict, body: str) -> None:
     path.write_text(
         "---\n" + fm_yaml + "---\n\n" + body.strip() + "\n", encoding="utf-8"
     )
-    print(f"  ✓ {path.relative_to(REPO_ROOT)}")
+    logger.log(f"  ✓ {path.relative_to(REPO_ROOT)}")
 
 
 # ---------------------------------------------------------------------------
@@ -177,15 +201,16 @@ def write_markdown(path: Path, frontmatter: dict, body: str) -> None:
 # ---------------------------------------------------------------------------
 
 
-async def fetch_html_aiohttp(url: str, session: aiohttp.ClientSession) -> str | None:
+async def fetch_html_aiohttp(url: str, session: aiohttp.ClientSession, logger: SiteLogger = None, headers: dict | None = None, allow_redirects: bool = True) -> str | None:
     """Lightweight fetch using aiohttp."""
     try:
         timeout = aiohttp.ClientTimeout(total=30)
-        async with session.get(url, headers=FETCH_HEADERS, timeout=timeout) as response:
+        request_headers = headers if headers is not None else FETCH_HEADERS
+        async with session.get(url, headers=request_headers, timeout=timeout, allow_redirects=allow_redirects) as response:
             response.raise_for_status()
             return await response.text()
     except Exception as e:
-        report_error(f"HTTP fetch failed for {url}: {e}")
+        report_error(f"HTTP fetch failed for {url}: {e}", logger=logger)
         return None
 
 
@@ -193,6 +218,7 @@ async def fetch_html_playwright(
     url: str,
     browser,
     browser_semaphore: asyncio.Semaphore,
+    logger: SiteLogger = None,
 ) -> str | None:
     """Full browser fetch for JS-heavy or anti-bot sites."""
     async with browser_semaphore:
@@ -219,7 +245,7 @@ async def fetch_html_playwright(
             await ctx.close()
             return html
         except Exception as e:
-            report_error(f"playwright fetch failed for {url}: {e}")
+            report_error(f"playwright fetch failed for {url}: {e}", logger=logger)
             return None
 
 
@@ -238,9 +264,14 @@ def extract_first_image_from_markdown(md: str) -> str | None:
 
 
 async def urls_from_feed(
-    feed_url: str, limit: int, session: aiohttp.ClientSession
+    feed_url: str, limit: int, session: aiohttp.ClientSession, logger: SiteLogger = None
 ) -> list[str]:
-    body = await fetch_html_aiohttp(feed_url, session)
+    # Use neutral headers for feeds to avoid being served HTML instead of XML
+    feed_headers = {
+        "User-Agent": "curl/7.81.0",
+        "Accept": "application/rss+xml,application/xml,text/xml,application/xhtml+xml,text/html;q=0.9,*/*;q=0.8",
+    }
+    body = await fetch_html_aiohttp(feed_url, session, logger=logger, headers=feed_headers, allow_redirects=False)
     if not body:
         return []
 
@@ -264,11 +295,12 @@ async def urls_from_listing(
     browser_semaphore: asyncio.Semaphore,
     listing_class=None,
     resolve_relative_to_root=False,
+    logger: SiteLogger = None,
 ):
     html = (
-        await fetch_html_playwright(listing_url, browser, browser_semaphore)
+        await fetch_html_playwright(listing_url, browser, browser_semaphore, logger=logger)
         if use_playwright
-        else await fetch_html_aiohttp(listing_url, session)
+        else await fetch_html_aiohttp(listing_url, session, logger=logger)
     )
     if not html:
         return []
@@ -333,18 +365,19 @@ async def process_article(
     browser,
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
+    logger: SiteLogger,
 ) -> bool:
     slug = url_to_slug(url)
     site_slug = site["slug"]
     use_playwright = site.get("force_playwright", False)
 
-    print(f"  → {url}")
+    logger.log(f"  → {url}")
 
     async with fetch_semaphore:
         html = (
-            await fetch_html_playwright(url, browser, browser_semaphore)
+            await fetch_html_playwright(url, browser, browser_semaphore, logger=logger)
             if use_playwright
-            else await fetch_html_aiohttp(url, session)
+            else await fetch_html_aiohttp(url, session, logger=logger)
         )
 
     if not html:
@@ -373,7 +406,7 @@ async def process_article(
         image = extract_first_image_from_markdown(md_body)
 
     if not md_body:
-        report_error(f"extraction returned nothing for {url}")
+        report_error(f"extraction returned nothing for {url}", logger=logger)
         return False
 
     now = datetime.now(timezone.utc)
@@ -402,14 +435,14 @@ async def process_article(
     path = output_path(site_slug, slug, file_date)
 
     if path.exists() and not force:
-        print(f"  · already exists, skipping: {path.name}")
+        logger.log(f"  · already exists, skipping: {path.name}")
         return False
 
     if dry_run:
-        print(f"  [dry-run] would write {path.relative_to(REPO_ROOT)}")
+        logger.log(f"  [dry-run] would write {path.relative_to(REPO_ROOT)}")
         return True
 
-    await asyncio.to_thread(write_markdown, path, frontmatter, md_body)
+    await asyncio.to_thread(write_markdown, path, frontmatter, md_body, logger)
     return True
 
 
@@ -438,22 +471,28 @@ async def main_async(args):
     fetch_semaphore = asyncio.Semaphore(concurrency)
     browser_semaphore = asyncio.Semaphore(browser_concurrency)
 
+    site_loggers = {}
+    all_tasks = []
+
     async with aiohttp.ClientSession() as session:
         async with async_playwright() as playwright:
             browser = await playwright.chromium.launch(headless=True)
 
+            # Phase 1 & 2: Discovery
             for site in sites:
-                report_group_start(f"Site: {site['name']} ({site['slug']})")
-                print(f"\n{'─'*50}")
-                print(f"Site: {site['name']} ({site['slug']})")
+                site_slug = site["slug"]
+                logger = SiteLogger(site["name"], site_slug)
+                site_loggers[site_slug] = logger
+                
+                print(f"Discovery: {site['name']} ({site['slug']})", end="", flush=True)
 
                 urls = list(site.get("urls") or [])
+                initial_count = len(urls)
 
                 if "feed" in site:
                     limit = site.get("limit", site.get("feed_limit", 10))
-                    print(f"  Fetching feed ({limit} items): {site['feed']}")
-                    feed_urls = await urls_from_feed(site["feed"], limit, session)
-                    print(f"  Found {len(feed_urls)} URLs in feed")
+                    feed_urls = await urls_from_feed(site["feed"], limit, session, logger=logger)
+                    print(f" | Feed {site['feed']}: found {len(feed_urls)} URLs", end="", flush=True)
                     urls = feed_urls + urls
 
                 if "listing_url" in site:
@@ -474,34 +513,83 @@ async def main_async(args):
                         browser_semaphore,
                         listing_class,
                         resolve_relative_to_root,
+                        logger=logger,
                     )
+                    print(f" | Listing {site['listing_url']}: found {len(listing_urls)} URLs", end="", flush=True)
                     urls = listing_urls + urls
+                
+                print() # Newline after all sources for this site are printed
 
                 if not urls:
-                    print("  No URLs configured, skipping.")
+                    logger.log("  No URLs configured, skipping.")
                     continue
 
-                article_tasks = [
-                    process_article(
-                        url,
-                        site,
-                        dry_run=args.dry_run,
-                        force=args.force,
-                        session=session,
-                        browser=browser,
-                        browser_semaphore=browser_semaphore,
-                        fetch_semaphore=fetch_semaphore,
-                    )
-                    for url in urls
-                ]
+                # Log discovery to the stashed logger for the final grouped report
+                logger.log(f"\n{'─'*50}")
+                logger.log(f"Site: {site['name']} ({site['slug']})")
+                if "feed" in site:
+                    logger.log(f"  Fetching feed: {site['feed']}")
+                if "listing_url" in site:
+                    logger.log(f"  Fetching listing: {site['listing_url']}")
+                logger.log(f"  Total URLs discovered: {len(urls)}")
 
-                for future in asyncio.as_completed(article_tasks):
-                    if await future:
-                        total_new += 1
+                for url in urls:
+                    all_tasks.append((url, site, logger))
 
-                report_group_end()
+            # Phase 3: Shuffle
+            random.shuffle(all_tasks)
+
+            # Phase 4: Processing
+            article_tasks = [
+                process_article(
+                    url,
+                    site,
+                    dry_run=args.dry_run,
+                    force=args.force,
+                    session=session,
+                    browser=browser,
+                    browser_semaphore=browser_semaphore,
+                    fetch_semaphore=fetch_semaphore,
+                    logger=logger,
+                )
+                for url, site, logger in all_tasks
+            ]
+
+            is_gh = os.environ.get("GITHUB_ACTIONS") == "true"
+            tqdm_kwargs = {
+                "total": len(article_tasks),
+                "desc": "Processing articles",
+            }
+            if is_gh:
+                # In GH Actions, update less frequently and use a simpler format without the bar
+                tqdm_kwargs["mininterval"] = 10  # Update every 10 seconds
+                tqdm_kwargs["bar_format"] = "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, {n_fmt}/{total_fmt} [{elapsed}]"
+            else:
+                # Keep the nice default progress bar for the console
+                pass
+
+            for future in tqdm(asyncio.as_completed(article_tasks), **tqdm_kwargs):
+                if await future:
+                    total_new += 1
 
             await browser.close()
+
+    # Print stashed logs grouped by site
+    for site_slug in sorted(site_loggers.keys()):
+        logger = site_loggers[site_slug]
+        if not logger.logs:
+            continue
+        
+        if os.environ.get("GITHUB_ACTIONS") == "true":
+            report_group_start(f"Site: {logger.site_name} ({logger.site_slug})")
+            for line in logger.logs:
+                print(line)
+            report_group_end()
+        else:
+            # Mimic the layout: newline and separator are already in logger.logs[0]
+            # but we need to make sure we print them.
+            for line in logger.logs:
+                print(line)
 
     print(f"\n{'─'*50}")
     print(f"Done. {total_new} new article(s) written.")

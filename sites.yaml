@@ -46,12 +46,9 @@ sites:
 
   - name: Harrogate Town Council
     slug: harrogate-town-council
-    categories: [Local, Harrogate, Government]
-    listing_url: https://harrogatetowncouncil.gov.uk/news-and-notices/
-    listing_class: "elementor-heading-title"
-    listing_link_pattern: "/\\d{4}/\\d{2}/"
-    resolve_relative_to_root: false
+    feed: https://harrogatetowncouncil.gov.uk/feed/
     limit: 100
+    categories: [Local, Harrogate, Government]
 
   - name: BBC News - Harrogate
     slug: bbc-harrogate
