@@ -167,6 +167,9 @@ export default function (eleventyConfig) {
     },
   });
 
+  // Add last updated time
+  eleventyConfig.addGlobalData('lastUpdated', () => new Date().toISOString());
+
   // ── Filters ───────────────────────────────────────────────────────────────
   eleventyConfig.addFilter('readableDate', (dateObj) => {
     if (!dateObj) return '';
@@ -174,6 +177,18 @@ export default function (eleventyConfig) {
       day: 'numeric',
       month: 'short',
       year: 'numeric',
+    });
+  });
+
+  eleventyConfig.addFilter('readableDateTime', (dateObj) => {
+    if (!dateObj) return '';
+    return new Date(dateObj).toLocaleString('en-GB', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      timeZone: 'Europe/London',
     });
   });
 
