@@ -115,7 +115,7 @@ sites:
     slug: new-scientist
     feed: https://www.newscientist.com/feed/home/
     limit: 50
-    categories: [Science, Technology]
+    categories: [Science, Tech]
 
   - name: The Independent
     slug: independent
