@@ -16,6 +16,8 @@
   --accent: #2563eb;
   --tag-bg: #eef2ff;
   --tag-text: #1d4ed8;
+  --cat-bg: #fff7ed;
+  --cat-text: #9a3412;
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --mono: "JetBrains Mono", "Fira Code", monospace;
   --max: 720px;
@@ -32,6 +34,8 @@
     --accent: #60a5fa;
     --tag-bg: #1e2d4a;
     --tag-text: #93c5fd;
+    --cat-bg: #431407;
+    --cat-text: #fed7aa;
   }
 }
 
@@ -48,6 +52,37 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+/* Logo Specific Styling */
+.logo-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Spacing between the ship and text */
+  text-decoration: none;
+  color: var(--text-color); /* Controls the SVG color via currentColor */
+  transition: color 0.2s ease;
+}
+.logo-link:hover {
+  color: var(--nav-hover);
+}
+.logo-icon {
+  flex-shrink: 0;
+  display: block;
+}
+.logo-text {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.logo-text-light {
+  font-weight: 300;
+  color: var(--text-muted);
 }
 
 a {
@@ -68,7 +103,6 @@ a:hover {
   padding: 0 1.5rem;
 }
 .nav-inner {
-  max-width: var(--wide);
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -90,10 +124,17 @@ a:hover {
   color: var(--muted);
   font-size: 0.9rem;
 }
-.share-link {
+
+.share-link-container {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: start;
+  justify-content: space-between;
+  gap: 0.5rem;
+  max-width: var(--max);
+  margin-left: auto;
+  margin-right: auto;
+}
+.share-link {
   width: 24px;
   height: 24px;
   color: var(--muted);
@@ -224,6 +265,21 @@ a:hover {
   opacity: 0.8;
 }
 
+.cat-tag {
+  display: inline-block;
+  background: var(--cat-bg);
+  color: var(--cat-text);
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.cat-tag:hover {
+  text-decoration: none;
+  opacity: 0.8;
+}
+
 /* ── Pagination ───────────────────────────────────────── */
 .pagination {
   display: flex;
@@ -256,22 +312,14 @@ a:hover {
   margin-bottom: 0.75rem;
   font-size: 0.8rem;
   color: var(--muted);
-  max-width: var(--max);
-  margin-left: auto;
-  margin-right: auto;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
-
 .meta-link {
   color: var(--muted);
   text-decoration: none;
 }
 .meta-link:hover {
   color: var(--accent);
-}
-
-.share-link {
-  margin-left: auto;
 }
 
 .article h1 {
@@ -358,11 +406,20 @@ a:hover {
 }
 
 @media (max-width: 480px) {
+  .logo-text {
+    display: none;
+  }
+
+  .nav-inner,
+  .nav-links {
+    gap: 1rem;
+  }
+
   .meta-link {
     display: none;
   }
   .article-meta {
-    gap: 0.5rem;
+    gap: 0.3rem;
   }
   .article-card-title, .article-card-deck {
     font-stretch: semi-condensed;
@@ -377,31 +434,38 @@ a:hover {
   }
 }
 
-/* ── Sites list ───────────────────────────────────────── */
-.site-list {
+.site-list,
+.category-list {
   list-style: none;
   display: flex;
   flex-direction: column;
   gap: 0;
 }
-.site-card {
+.site-card,
+.category-card {
   padding: 0.9rem 0;
   border-bottom: 1px solid var(--border);
   display: flex;
   align-items: center;
   gap: 0.75rem;
 }
-.site-card a {
+.site-card a,
+.category-card a {
   font-weight: 500;
   color: var(--text);
+  margin-right: auto;
 }
-.site-card a:hover {
+.site-card a:hover,
+.category-card a:hover {
   color: var(--accent);
   text-decoration: none;
 }
-.site-meta {
+.site-meta,
+.category-meta {
   font-size: 0.75rem;
   color: var(--muted);
+}
+.site-badge {
   border: 1px solid var(--border);
   padding: 0.1rem 0.4rem;
   border-radius: 4px;

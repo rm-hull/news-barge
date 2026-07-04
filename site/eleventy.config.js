@@ -46,6 +46,31 @@ export default function (eleventyConfig) {
     return grouped;
   });
 
+  // Articles grouped by category
+  eleventyConfig.addCollection('articlesByCategory', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md');
+    const sites = yaml.load(readFileSync(join(__dirname, '../sites.yaml'), 'utf-8')).sites;
+    const siteMap = new Map(sites.map((s) => [s.slug, s.categories || []]));
+
+    const grouped = {};
+    for (const art of all) {
+      const slug = art.data.source_slug;
+      const categories = siteMap.get(slug) || ['Uncategorized'];
+
+      for (const cat of categories) {
+        grouped[cat] = grouped[cat] || [];
+        grouped[cat].push(art);
+      }
+    }
+
+    // Sort each category's articles
+    for (const cat in grouped) {
+      grouped[cat].sort(byDescendingPublishedDate);
+    }
+
+    return grouped;
+  });
+
   // Articles grouped by site, split into pages (30 per page)
   eleventyConfig.addCollection('articlesBySitePages', (collectionApi) => {
     const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
@@ -69,6 +94,44 @@ export default function (eleventyConfig) {
         pages.push({
           slug,
           siteName,
+          pageNumber: i,
+          articles: articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
+          nextHref: i < totalPages - 1 ? `${base}page/${i + 2}/` : null,
+        });
+      }
+    }
+
+    return pages;
+  });
+
+  // Articles grouped by category, split into pages (30 per page)
+  eleventyConfig.addCollection('articlesByCategoryPages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const sites = yaml.load(readFileSync(join(__dirname, '../sites.yaml'), 'utf-8')).sites;
+    const siteMap = new Map(sites.map((s) => [s.slug, s.categories || []]));
+
+    const grouped = {};
+    for (const art of all) {
+      const slug = art.data.source_slug;
+      const categories = siteMap.get(slug) || ['Uncategorized'];
+
+      for (const cat of categories) {
+        grouped[cat] = grouped[cat] || [];
+        grouped[cat].push(art);
+      }
+    }
+
+    const PAGE_SIZE = 30;
+    const pages = [];
+
+    for (const [category, articles] of Object.entries(grouped)) {
+      const totalPages = Math.ceil(articles.length / PAGE_SIZE);
+      const base = `/categories/${eleventyConfig.getFilter('slugify')(category)}/`;
+
+      for (let i = 0; i < totalPages; i++) {
+        pages.push({
+          category,
           pageNumber: i,
           articles: articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
           previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
@@ -140,6 +203,7 @@ export default function (eleventyConfig) {
   // ── Passthrough ───────────────────────────────────────────────────────────
   eleventyConfig.addPassthroughCopy({ 'public/css': 'css' });
   eleventyConfig.addPassthroughCopy({ 'public/js': 'js' });
+  eleventyConfig.addPassthroughCopy({ 'public/images': 'images' });
 
   // ── Config ────────────────────────────────────────────────────────────────
   return {

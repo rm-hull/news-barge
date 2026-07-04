@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Categories
+permalink: /categories/
+---
+<section class="index-section">
+  <h1 class="page-title">Categories</h1>
+  <ul class="category-list">
+    {% for category, articles in collections.articlesByCategory | dictsort %}
+    <li class="category-card">
+      <a href="/categories/{{ category | slugify }}/">{{ category }}</a>
+      <span class="category-meta">{{ articles.length }} articles</span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

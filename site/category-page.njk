@@ -1,0 +1,30 @@
+---
+layout: base.njk
+pagination:
+  data: collections.articlesByCategoryPages
+  size: 1
+  alias: catPage
+permalink: /categories/{{ catPage.category | slugify }}/{% if catPage.pageNumber > 0 %}page/{{ catPage.pageNumber + 1 }}/{% endif %}
+eleventyComputed:
+  title: "{{ catPage.category }}"
+---
+<section class="index-section">
+  <h1 class="page-title">{{ catPage.category }}</h1>
+
+  <ul class="article-list">
+    {% for article in catPage.articles %}
+    {% include "article-card.njk" %}
+    {% endfor %}
+  </ul>
+
+  {% if catPage.previousHref or catPage.nextHref %}
+  <nav class="pagination">
+    {% if catPage.previousHref %}
+      <a href="{{ catPage.previousHref }}" class="page-link">← Newer</a>
+    {% endif %}
+    {% if catPage.nextHref %}
+      <a href="{{ catPage.nextHref }}" class="page-link">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>

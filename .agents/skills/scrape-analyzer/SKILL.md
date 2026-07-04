@@ -32,6 +32,7 @@ Determine if an RSS feed is available; if not, find the most precise CSS class o
 - Verify a few sample links to ensure they lead to actual articles and not category pages.
 - Check if the links are relative or absolute to determine if `resolve_relative_to_root` is needed.
 - Check if the page uses infinite scroll or dynamic loading; if so, recommend `force_playwright: true`.
+- **Categorization**: Review the site's content and propose at least one relevant category (e.g., Local, Tech, World, Government) based on the project's existing categories.
 
 ### 4. Configuration Output
 Provide the finalized configuration in the following format. Before suggesting, verify that the `slug` does not conflict with any existing entries in `sites.yaml`. Explicitly ask the user if they would like you to add this configuration to `sites.yaml`. Do not add it automatically.
@@ -45,6 +46,7 @@ Provide the finalized configuration in the following format. Before suggesting, 
     listing_link_pattern: "[pattern]" # Optional
     resolve_relative_to_root: [true/false] # Optional
     limit: [number]
+    categories: [[Category1, Category2]] # Required
 ```
 
 ## Heuristics

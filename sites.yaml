@@ -4,6 +4,7 @@
 # Fields:
 #   name:       Human-readable label (used in the index)
 #   slug:       Short identifier, used in filenames (no spaces)
+#.  categories: List of categories to assign to articles from this site
 #   urls:       List of specific article URLs to scrape
 #   feed:       RSS/Atom feed URL — scraper will pull latest N items
 #   limit:      Max articles to pull from feed or listing (default: 10)
@@ -13,33 +14,39 @@
 sites:
   - name: The Guardian
     slug: guardian
+    categories: [World, News]
     feed: https://www.theguardian.com/world/rss
     limit: 50
 
   - name: BBC News
     slug: bbc
+    categories: [World, News]
     feed: https://feeds.bbci.co.uk/news/rss.xml
     limit: 50
 
   - name: Harrogate Advertiser
     slug: harrogate-advertiser
+    categories: [Local, Harrogate]
     listing_url: https://www.harrogateadvertiser.co.uk/news/latest
     listing_link_pattern: "/news/"
     limit: 100
 
   - name: Harrogate News
     slug: harrogate-news
+    categories: [Local, Harrogate]
     listing_url: https://www.harrogate-news.co.uk/
     listing_link_pattern: /\d{4}/\d{2}/\d{2}/
     limit: 50
 
   - name: Your Harrogate
     slug: your-harrogate
+    categories: [Local, Harrogate]
     feed: https://www.yourharrogate.co.uk/local-news/harrogate/feed.xml
     limit: 50
 
   - name: Harrogate Town Council
     slug: harrogate-town-council
+    categories: [Local, Harrogate, Government]
     listing_url: https://harrogatetowncouncil.gov.uk/news-and-notices/
     listing_class: "elementor-heading-title"
     listing_link_pattern: "/\\d{4}/\\d{2}/"
@@ -48,11 +55,13 @@ sites:
 
   - name: BBC News - Harrogate
     slug: bbc-harrogate
+    categories: [Local, Harrogate]
     feed: https://feeds.bbci.co.uk/news/topics/cnx753jene1t/rss.xml
     limit: 50
 
   - name: York Mix
     slug: york-mix
+    categories: [Local, York]
     listing_url: https://www.yorkmix.com/archive/news
     listing_class: "category-news"
     resolve_relative_to_root: true
@@ -60,6 +69,7 @@ sites:
 
   - name: York Press
     slug: york-press
+    categories: [Local, York]
     listing_url: https://www.yorkpress.co.uk/news/
     force_playwright: true
     listing_class: "omnicard"
@@ -69,17 +79,20 @@ sites:
 
   - name: Tom's Hardware
     slug: toms-hardware
+    categories: [Tech, Hardware]
     listing_url: https://www.tomshardware.com/uk/news
     listing_class: "listingResult"
     limit: 100
 
   - name: TechRadar UK
     slug: techradar-uk
+    categories: [Tech]
     feed: https://www.techradar.com/uk/feeds.xml
     limit: 100
 
   - name: Euronews
     slug: euronews
+    categories: [World, Europe, News]
     listing_url: https://www.euronews.com/news
     listing_link_pattern: "\\d{4}/\\d{2}/\\d{2}"
     resolve_relative_to_root: true
@@ -88,11 +101,13 @@ sites:
 
   - name: Gazette & Herald
     slug: gazette-herald
+    categories: [Local, Harrogate, York]
     feed: http://www.gazetteherald.co.uk/News/rss/
     limit: 100
 
   - name: Wired
     slug: wired
+    categories: [Tech, Science]
     feed: https://www.wired.com/feed/rss
     limit: 100
 
