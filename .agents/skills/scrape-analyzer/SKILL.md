@@ -23,12 +23,12 @@ Determine if an RSS feed is available; if not, find the most precise CSS class o
 - Search for `<a>` tags to identify the general structure of article links.
 - Identify the container that holds the list of articles (e.g., `div.listingResult`, `article.news-item`).
 ### 2. Candidate Identification
-- **Pattern Search**: Look for common URL segments in article links (e.g., `/news/`, `/article/`, `/story/`).
+- **Pattern Search**: Look for common URL segments in article links (e.g., `/news/`, `/article/`, `/story/`). Note: When adding these to `sites.yaml`, they MUST be enclosed in double quotes to ensure the regex is parsed correctly.
 - **Class Search**: Look for repeating classes in the wrapping elements of article links.
 - **Noise Analysis**: Identify common classes/patterns used for "Best Picks", "Reviews", "Sponsored", or "Promoted" content. Look for attributes like `data-sponsored="true"` or classes containing `ad-` or `promo-` that should be excluded.
 
 ### 3. Verification
-- Use `grep` or a small Python script to count how many links match the candidate class/pattern.
+- Use `grep` or a small Python script (stored in the system temporary folder) to count how many links match the candidate class/pattern.
 - Verify a few sample links to ensure they lead to actual articles and not category pages.
 - Check if the links are relative or absolute to determine if `resolve_relative_to_root` is needed.
 - Check if the page uses infinite scroll or dynamic loading; if so, recommend `force_playwright: true`.
