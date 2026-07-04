@@ -59,13 +59,12 @@ body {
   align-items: center;
   padding: 1rem 2rem;
 }
-/* Logo Specific Styling */
 .logo-link {
   display: flex;
   align-items: center;
-  gap: 0.5rem; /* Spacing between the ship and text */
+  gap: 0.5rem;
   text-decoration: none;
-  color: var(--text-color); /* Controls the SVG color via currentColor */
+  color: var(--text-color);
   transition: color 0.2s ease;
 }
 .logo-link:hover {
