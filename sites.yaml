@@ -111,6 +111,7 @@ sites:
   - name: New Scientist
     slug: new-scientist
     feed: https://www.newscientist.com/feed/home/
+    force_playwright: true
     limit: 50
     categories: [Science, Tech]
 
