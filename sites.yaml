@@ -129,10 +129,11 @@ sites:
     limit: 50
     categories: [Local, York, Harrogate, Government]
 
-
-  # - name: Example Site
-  #   slug: example
-  #   urls:
-  #     - https://example.com/article-1
-  #     - https://example.com/article-2
-
+  - name: Knaresborough Town Council
+    slug: knaresborough-town-council
+    listing_url: "https://www.knaresboroughtowncouncil.gov.uk/News_and_Events_21581.aspx"
+    listing_class: "news"
+    resolve_relative_to_root: true
+    limit: 50
+    trust_insecure_certs: true
+    categories: [Local, Government, Knaresborough]
