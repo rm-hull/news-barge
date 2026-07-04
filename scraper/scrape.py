@@ -62,15 +62,16 @@ def slugify(text: str) -> str:
 
 def report_error(message: str) -> None:
     """Prints an error message to stderr with colors and GitHub Actions support."""
-    # ANSI codes: Bold Red
-    RED_BOLD = "\033[1;31m"
-    RESET = "\033[0m"
-
-    formatted_msg = f"{RED_BOLD}ERROR:{RESET} {message}"
-    print(formatted_msg, file=sys.stderr)
 
     if os.environ.get("GITHUB_ACTIONS") == "true":
         print(f"::error::{message}", file=sys.stderr)
+    else:
+        # ANSI codes: Bold Red
+        RED_BOLD = "\033[1;31m"
+        RESET = "\033[0m"
+
+        formatted_msg = f"{RED_BOLD}ERROR:{RESET} {message}"
+        print(formatted_msg, file=sys.stderr)
 
 
 def report_group_start(name: str) -> None:
