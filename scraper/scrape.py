@@ -151,19 +151,27 @@ def linkify_text(text: str) -> str:
         return ""
 
     # Regex for Markdown images: ![alt](url)
-    # We want to identify them so we don't linkify the URL inside.
-    # We'll use a substitution function to handle images vs URLs.
-    pattern = r"(!\[.*?\]\(https?://[^\s\)]+\))|(https?://[^\s\)]+)|([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"
+    # Regex for Markdown links: [text](url)
+    # We want to identify them so we don't linkify the URL inside either.
+    pattern = (
+        r"(!\[.*?\]\(https?://[^\s\)]+\))"  # 1: image
+        r"|(\[.*?\]\(https?://[^\s\)]+\))"  # 2: existing link
+        r"|(https?://[^\s\)]+)"  # 3: bare url
+        r"|([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+)"  # 4: email
+    )
     excluded_imgs = ["placeholder image", "google preferred source"]
 
     def replace(match):
-        img, url, email = match.groups()
+        img, link, url, email = match.groups()
         if img:
             # Check if it's a placeholder image (case-insensitive check for 'placeholder')
             for excluded in excluded_imgs:
                 if excluded.lower() in img.lower():
                     return ""
             return img
+        if link:
+            # Already a proper markdown link — leave it alone.
+            return link
         if url:
             return f"[{url}]({url})"
         if email:
@@ -179,7 +187,9 @@ def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
     return CONTENT_DIR / date_path / filename
 
 
-def write_markdown(path: Path, frontmatter: dict, body: str, logger: SiteLogger) -> None:
+def write_markdown(
+    path: Path, frontmatter: dict, body: str, logger: SiteLogger
+) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     fm_yaml = yaml.dump(
         frontmatter,
@@ -198,12 +208,23 @@ def write_markdown(path: Path, frontmatter: dict, body: str, logger: SiteLogger)
 # ---------------------------------------------------------------------------
 
 
-async def fetch_html_aiohttp(url: str, session: aiohttp.ClientSession, logger: SiteLogger = None, headers: dict | None = None, allow_redirects: bool = True) -> str | None:
+async def fetch_html_aiohttp(
+    url: str,
+    session: aiohttp.ClientSession,
+    logger: SiteLogger = None,
+    headers: dict | None = None,
+    allow_redirects: bool = True,
+) -> str | None:
     """Lightweight fetch using aiohttp."""
     try:
         timeout = aiohttp.ClientTimeout(total=30)
         request_headers = headers if headers is not None else FETCH_HEADERS
-        async with session.get(url, headers=request_headers, timeout=timeout, allow_redirects=allow_redirects) as response:
+        async with session.get(
+            url,
+            headers=request_headers,
+            timeout=timeout,
+            allow_redirects=allow_redirects,
+        ) as response:
             response.raise_for_status()
             return await response.text()
     except Exception as e:
@@ -219,6 +240,8 @@ async def fetch_html_playwright(
 ) -> str | None:
     """Full browser fetch for JS-heavy or anti-bot sites."""
     async with browser_semaphore:
+        ctx = None
+        page = None
         try:
             ctx = await browser.new_context(
                 user_agent=FETCH_HEADERS["User-Agent"],
@@ -238,12 +261,23 @@ async def fetch_html_playwright(
             )
             await page.goto(url, wait_until="domcontentloaded", timeout=30000)
             html = await page.content()
-            await page.close()
-            await ctx.close()
             return html
         except Exception as e:
             report_error(f"playwright fetch failed for {url}: {e}", logger=logger)
             return None
+        finally:
+            # Always release page/context resources, even on failure, to
+            # avoid leaking browser contexts over a long-running batch.
+            if page is not None:
+                try:
+                    await page.close()
+                except Exception:
+                    pass
+            if ctx is not None:
+                try:
+                    await ctx.close()
+                except Exception:
+                    pass
 
 
 def extract_first_image_from_markdown(md: str) -> str | None:
@@ -268,7 +302,9 @@ async def urls_from_feed(
         "User-Agent": "curl/7.81.0",
         "Accept": "application/rss+xml,application/xml,text/xml,application/xhtml+xml,text/html;q=0.9,*/*;q=0.8",
     }
-    body = await fetch_html_aiohttp(feed_url, session, logger=logger, headers=feed_headers, allow_redirects=False)
+    body = await fetch_html_aiohttp(
+        feed_url, session, logger=logger, headers=feed_headers, allow_redirects=False
+    )
     if not body:
         return []
 
@@ -295,7 +331,9 @@ async def urls_from_listing(
     logger: SiteLogger = None,
 ):
     html = (
-        await fetch_html_playwright(listing_url, browser, browser_semaphore, logger=logger)
+        await fetch_html_playwright(
+            listing_url, browser, browser_semaphore, logger=logger
+        )
         if use_playwright
         else await fetch_html_aiohttp(listing_url, session, logger=logger)
     )
@@ -391,6 +429,11 @@ async def process_article(
         favor_precision=True,
         config=TRAFILATURA_CONFIG,
     )
+
+    if not md_body:
+        report_error(f"extraction returned nothing for {url}", logger=logger)
+        return False
+
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
@@ -401,10 +444,6 @@ async def process_article(
         image = meta.image
     else:
         image = extract_first_image_from_markdown(md_body)
-
-    if not md_body:
-        report_error(f"extraction returned nothing for {url}", logger=logger)
-        return False
 
     now = datetime.now(timezone.utc)
     pub_date = None
@@ -480,7 +519,7 @@ async def main_async(args):
                 site_slug = site["slug"]
                 logger = SiteLogger(site["name"], site_slug)
                 site_loggers[site_slug] = logger
-                
+
                 print(f"Discovery: {site['name']} ({site['slug']})", end="", flush=True)
 
                 urls = list(site.get("urls") or [])
@@ -488,8 +527,14 @@ async def main_async(args):
 
                 if "feed" in site:
                     limit = site.get("limit", site.get("feed_limit", 10))
-                    feed_urls = await urls_from_feed(site["feed"], limit, session, logger=logger)
-                    print(f" | Feed {site['feed']}: found {len(feed_urls)} URLs", end="", flush=True)
+                    feed_urls = await urls_from_feed(
+                        site["feed"], limit, session, logger=logger
+                    )
+                    print(
+                        f" | Feed {site['feed']}: found {len(feed_urls)} URLs",
+                        end="",
+                        flush=True,
+                    )
                     urls = feed_urls + urls
 
                 if "listing_url" in site:
@@ -512,14 +557,28 @@ async def main_async(args):
                         resolve_relative_to_root,
                         logger=logger,
                     )
-                    print(f" | Listing {site['listing_url']}: found {len(listing_urls)} URLs", end="", flush=True)
+                    print(
+                        f" | Listing {site['listing_url']}: found {len(listing_urls)} URLs",
+                        end="",
+                        flush=True,
+                    )
                     urls = listing_urls + urls
-                
-                print() # Newline after all sources for this site are printed
+
+                print()  # Newline after all sources for this site are printed
 
                 if not urls:
                     logger.log("  No URLs configured, skipping.")
                     continue
+
+                # Deduplicate URLs discovered across feed / listing / static
+                # sources for this site, preserving order.
+                seen_urls = set()
+                deduped_urls = []
+                for u in urls:
+                    if u not in seen_urls:
+                        deduped_urls.append(u)
+                        seen_urls.add(u)
+                urls = deduped_urls
 
                 # Log discovery to the stashed logger for the final grouped report
                 logger.log(f"\n{'─'*50}")
@@ -560,7 +619,9 @@ async def main_async(args):
             if is_gh:
                 # In GH Actions, update less frequently and use a simpler format without the bar
                 tqdm_kwargs["mininterval"] = 10  # Update every 10 seconds
-                tqdm_kwargs["bar_format"] = "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, {n_fmt}/{total_fmt} [{elapsed}]"
+                tqdm_kwargs["bar_format"] = (
+                    "{desc}: {percentage:3.0f}%|{elapsed}<{remaining}, {n_fmt}/{total_fmt} [{elapsed}]"
+                )
             else:
                 # Keep the nice default progress bar for the console
                 pass
@@ -576,7 +637,7 @@ async def main_async(args):
         logger = site_loggers[site_slug]
         if not logger.logs:
             continue
-        
+
         if os.environ.get("GITHUB_ACTIONS") == "true":
             report_group_start(f"Site: {logger.site_name} ({logger.site_slug})")
             for line in logger.logs:
