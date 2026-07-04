@@ -68,37 +68,34 @@ def url_to_slug(url: str) -> str:
 
 def clean_markdown_formatting(text: str) -> str:
     """
-    Fixes markdown markers that have trailing spaces and removes common
-    extraction cruft like "Published" lists.
+    Fixes markdown formatting issues to improve compatibility with Eleventy.
     """
     if not text:
         return ""
 
-    # Remove certiain items often found at the top of trafilatura extractions
-    text = re.sub(r"^\s*[\*\-]\s*Published\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r"\*\*Recommended reading:\*\*", "\n", text, flags=re.MULTILINE | re.IGNORECASE)
+    # Remove extraction cruft
+    text = re.sub(
+        r"^\s*[\*\-]\s*Published\s*\n", "\n", text, flags=re.MULTILINE | re.IGNORECASE
+    )
+    text = re.sub(
+        r"\*\*Recommended reading:\*\*", "\n", text, flags=re.MULTILINE | re.IGNORECASE
+    )
 
-    def replace_marker(match):
-        marker = match.group(1)
-        content = match.group(2).strip()
-        return f"{marker}{content}{marker}"
+    # 1. Normalize internal spacing (strip spaces inside tags, NO NEWLINES)
+    # Matches: (** or *) + horizontal-space + (content) + horizontal-space + (** or *)
+    text = re.sub(r"(\*\*|\*)[ \t]+(.+?)[ \t]*\1", r"\1\2\1", text)
+    # Matches: (** or *) + (content) + horizontal-space + (** or *)
+    text = re.sub(r"(\*\*|\*)(.+?)[ \t]+\1", r"\1\2\1", text)
 
-    # Matches **bold** or *italic* with optional trailing space before the closing marker
-    return re.sub(r"(\*\*|\*)([^*]+?)\s*(\1)", replace_marker, text)
-    """
-    Fixes markdown markers that have trailing spaces.
-    Example: '**Bold **' -> '**Bold**', '*Italic *' -> '*Italic*'
-    """
-    if not text:
-        return ""
+    # 2. Ensure a space follows closing tags if followed by alphanumeric
+    # Target: **Header:**Hard -> **Header:** Hard
+    # Use a negative lookahead to avoid matching across newlines
+    text = re.sub(r"(\*\*|\*)([^\*\n]+?)\1([a-zA-Z0-9])", r"\1\2\1 \3", text)
 
-    def replace_marker(match):
-        marker = match.group(1)
-        content = match.group(2).strip()
-        return f"{marker}{content}{marker}"
+    # 3. Remove empty bold tags
+    text = re.sub(r"\*\*\s*\*\*", "", text)
 
-    # Matches **bold** or *italic* with optional trailing space before the closing marker
-    return re.sub(r"(\*\*|\*)([^*]+?)\s*(\1)", replace_marker, text)
+    return text.strip()
 
 
 def linkify_text(text: str) -> str:
@@ -199,40 +196,13 @@ async def fetch_html_playwright(
             return None
 
 
-# ---------------------------------------------------------------------------
-# Extraction
-# ---------------------------------------------------------------------------
-
-
-def extract(html: str, url: str) -> dict | None:
-    """
-    Use trafilatura to pull the main article body + metadata.
-    Returns a dict with title, text, date, description or None on failure.
-    """
-    result = trafilatura.bare_extraction(
-        html,
-        url=url,
-        include_comments=False,
-        include_tables=True,
-        include_images=True,
-        favor_precision=True,
-        config=TRAFILATURA_CONFIG,
-    )
-    if not result or not result.get("text"):
-        return None
-    return result
-
-
-def to_markdown(extracted: dict) -> str:
-    """
-    Build a clean Markdown body from trafilatura's extraction result.
-    trafilatura can output markdown directly; we use that then clean up.
-    """
-    html = trafilatura.bare_extraction.__module__  # just a ref check
-    # Re-extract as markdown
-    # We call extract_metadata separately to avoid double work in callers,
-    # but trafilatura's output_format='markdown' does the heavy lifting.
-    return extracted.get("text", "")
+def extract_first_image_from_markdown(md: str) -> str | None:
+    """Finds the first image in Markdown text: ![alt](url)."""
+    # Regex for ![alt](url)
+    match = re.search(r"!\[.*?\]\((https?://[^\s\)]+)\)", md)
+    if match:
+        return match.group(1)
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -240,7 +210,9 @@ def to_markdown(extracted: dict) -> str:
 # ---------------------------------------------------------------------------
 
 
-async def urls_from_feed(feed_url: str, limit: int, session: aiohttp.ClientSession) -> list[str]:
+async def urls_from_feed(
+    feed_url: str, limit: int, session: aiohttp.ClientSession
+) -> list[str]:
     body = await fetch_html_aiohttp(feed_url, session)
     if not body:
         return []
@@ -366,6 +338,13 @@ async def process_article(
     md_body = linkify_text(md_body)
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
+    # Fallback to first image in markdown if metadata image is missing
+    image = None
+    if meta and meta.image:
+        image = meta.image
+    else:
+        image = extract_first_image_from_markdown(md_body)
+
     if not md_body:
         print(f"  ✗ extraction returned nothing for {url}", file=sys.stderr)
         return False
@@ -390,7 +369,7 @@ async def process_article(
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
-        "image": meta.image if meta else None,
+        "image": image,
     }
 
     path = output_path(site_slug, slug, file_date)
@@ -454,7 +433,9 @@ async def main_async(args):
                     limit = site.get("limit", site.get("listing_limit", 10))
                     pattern = site.get("listing_link_pattern", "")
                     listing_class = site.get("listing_class")
-                    resolve_relative_to_root = site.get("resolve_relative_to_root", False)
+                    resolve_relative_to_root = site.get(
+                        "resolve_relative_to_root", False
+                    )
                     listing_urls = await urls_from_listing(
                         site["listing_url"],
                         pattern,
