@@ -9,6 +9,7 @@ and writes dated .md files with YAML frontmatter.
 import argparse
 import asyncio
 import hashlib
+import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -57,6 +58,31 @@ def slugify(text: str) -> str:
     text = re.sub(r"[\s_]+", "-", text)
     text = re.sub(r"-+", "-", text)
     return text[:80].strip("-")
+
+
+def report_error(message: str) -> None:
+    """Prints an error message to stderr with colors and GitHub Actions support."""
+    # ANSI codes: Bold Red
+    RED_BOLD = "\033[1;31m"
+    RESET = "\033[0m"
+
+    formatted_msg = f"{RED_BOLD}ERROR:{RESET} {message}"
+    print(formatted_msg, file=sys.stderr)
+
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print(f"::error::{message}", file=sys.stderr)
+
+
+def report_group_start(name: str) -> None:
+    """Starts a GitHub Actions log group."""
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print(f"::group::{name}")
+
+
+def report_group_end() -> None:
+    """Ends a GitHub Actions log group."""
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print("::endgroup::")
 
 
 def url_to_slug(url: str) -> str:
@@ -158,7 +184,7 @@ async def fetch_html_aiohttp(url: str, session: aiohttp.ClientSession) -> str | 
             response.raise_for_status()
             return await response.text()
     except Exception as e:
-        print(f"  ✗ HTTP fetch failed for {url}: {e}", file=sys.stderr)
+        report_error(f"HTTP fetch failed for {url}: {e}")
         return None
 
 
@@ -192,7 +218,7 @@ async def fetch_html_playwright(
             await ctx.close()
             return html
         except Exception as e:
-            print(f"  ✗ playwright fetch failed for {url}: {e}", file=sys.stderr)
+            report_error(f"playwright fetch failed for {url}: {e}")
             return None
 
 
@@ -346,7 +372,7 @@ async def process_article(
         image = extract_first_image_from_markdown(md_body)
 
     if not md_body:
-        print(f"  ✗ extraction returned nothing for {url}", file=sys.stderr)
+        report_error(f"extraction returned nothing for {url}")
         return False
 
     now = datetime.now(timezone.utc)
@@ -402,7 +428,7 @@ async def main_async(args):
     if args.site:
         sites = [s for s in sites if s["slug"] == args.site]
         if not sites:
-            print(f"No site with slug '{args.site}' found.", file=sys.stderr)
+            report_error(f"No site with slug '{args.site}' found.")
             sys.exit(1)
 
     total_new = 0
@@ -416,6 +442,7 @@ async def main_async(args):
             browser = await playwright.chromium.launch(headless=True)
 
             for site in sites:
+                report_group_start(f"Site: {site['name']} ({site['slug']})")
                 print(f"\n{'─'*50}")
                 print(f"Site: {site['name']} ({site['slug']})")
 
@@ -470,6 +497,8 @@ async def main_async(args):
                 for future in asyncio.as_completed(article_tasks):
                     if await future:
                         total_new += 1
+
+                report_group_end()
 
             await browser.close()
 
