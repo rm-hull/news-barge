@@ -223,7 +223,6 @@ export default function (eleventyConfig) {
   // ── Passthrough ───────────────────────────────────────────────────────────
   eleventyConfig.addPassthroughCopy({ 'public/css': 'css' });
   eleventyConfig.addPassthroughCopy({ 'public/js': 'js' });
-  eleventyConfig.addPassthroughCopy({ 'public/images': 'images' });
 
   // ── Config ────────────────────────────────────────────────────────────────
   return {
