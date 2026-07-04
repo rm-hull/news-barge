@@ -1,0 +1,30 @@
+---
+layout: base.njk
+pagination:
+  data: collections.articlesByDatePages
+  size: 1
+  alias: datePage
+permalink: /archive/{{ datePage.year }}/{{ datePage.month }}/{% if datePage.pageNumber > 0 %}page/{{ datePage.pageNumber + 1 }}/{% endif %}
+eleventyComputed:
+  title: "{{ datePage.month | monthName }} {{ datePage.year }}"
+---
+<section class="index-section">
+  <h1 class="page-title">{{ datePage.month | monthName }} {{ datePage.year }}</h1>
+
+  <ul class="article-list">
+    {% for article in datePage.articles %}
+    {% include "article-card.njk" %}
+    {% endfor %}
+  </ul>
+
+  {% if datePage.previousHref or datePage.nextHref %}
+  <nav class="pagination">
+    {% if datePage.previousHref %}
+      <a href="{{ datePage.previousHref }}" class="page-link">← Newer</a>
+    {% endif %}
+    {% if datePage.nextHref %}
+      <a href="{{ datePage.nextHref }}" class="page-link">Older →</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</section>

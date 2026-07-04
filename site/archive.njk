@@ -1,0 +1,33 @@
+---
+layout: base.njk
+title: Archive
+permalink: /archive/
+---
+<section class="index-section">
+  <h1 class="page-title">Archive</h1>
+
+  {% set years = [] %}
+  {% for dateKey, articles in collections.articlesByDate | dictsort | reverse %}
+    {% set year = dateKey.split('-')[0] %}
+    {% if not (year in years) %}
+      {% set years = (years.push(year), years) %}
+    {% endif %}
+  {% endfor %}
+
+  {% for year in years %}
+    <details class="archive-year">
+      <summary>{{ year }}</summary>
+      <ul class="site-list">
+        {% for dateKey, articles in collections.articlesByDate | dictsort | reverse %}
+          {% if dateKey.startsWith(year) %}
+            {% set month = dateKey.split('-')[1] %}
+            <li class="site-card">
+              <a href="/archive/{{ year }}/{{ month }}/">{{ month | monthName }}</a>
+              <span class="site-meta">{{ articles | length }} articles</span>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </details>
+  {% endfor %}
+</section>

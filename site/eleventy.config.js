@@ -46,6 +46,57 @@ export default function (eleventyConfig) {
     return grouped;
   });
 
+  // Articles grouped by year and month
+  eleventyConfig.addCollection('articlesByDate', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const grouped = {};
+    for (const art of all) {
+      const date = new Date(art.data.published || art.date);
+      const year = date.getFullYear().toString();
+      const month = (date.getMonth() + 1).toString().padStart(2, '0');
+      const key = `${year}-${month}`;
+      grouped[key] = grouped[key] || [];
+      grouped[key].push(art);
+    }
+    return grouped;
+  });
+
+  // Articles grouped by year and month, split into pages (30 per page)
+  eleventyConfig.addCollection('articlesByDatePages', (collectionApi) => {
+    const all = collectionApi.getFilteredByGlob('content/**/*.md').sort(byDescendingPublishedDate);
+    const grouped = {};
+    for (const art of all) {
+      const date = new Date(art.data.published || art.date);
+      const year = date.getFullYear().toString();
+      const month = (date.getMonth() + 1).toString().padStart(2, '0');
+      const key = `${year}-${month}`;
+      grouped[key] = grouped[key] || [];
+      grouped[key].push(art);
+    }
+
+    const PAGE_SIZE = 30;
+    const pages = [];
+
+    for (const [dateKey, articles] of Object.entries(grouped)) {
+      const [year, month] = dateKey.split('-');
+      const totalPages = Math.ceil(articles.length / PAGE_SIZE);
+      const base = `/archive/${year}/${month}/`;
+
+      for (let i = 0; i < totalPages; i++) {
+        pages.push({
+          year,
+          month,
+          pageNumber: i,
+          articles: articles.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE),
+          previousHref: i > 0 ? (i === 1 ? base : `${base}page/${i}/`) : null,
+          nextHref: i < totalPages - 1 ? `${base}page/${i + 2}/` : null,
+        });
+      }
+    }
+
+    return pages;
+  });
+
   // Articles grouped by category
   eleventyConfig.addCollection('articlesByCategory', (collectionApi) => {
     const all = collectionApi.getFilteredByGlob('content/**/*.md');
@@ -215,9 +266,22 @@ export default function (eleventyConfig) {
     return url.replace(/-(\d+)-(\d+)(?=\.[a-z]+$)/i, '');
   });
 
-  eleventyConfig.addFilter('slice', (array, start, end) => {
-    if (!array) return [];
-    return array.slice(start, end);
+  eleventyConfig.addFilter('monthName', (monthIndex) => {
+    const months = [
+      'January',
+      'February',
+      'March',
+      'April',
+      'May',
+      'June',
+      'July',
+      'August',
+      'September',
+      'October',
+      'November',
+      'December',
+    ];
+    return months[parseInt(monthIndex) - 1];
   });
 
   // ── Passthrough ───────────────────────────────────────────────────────────
