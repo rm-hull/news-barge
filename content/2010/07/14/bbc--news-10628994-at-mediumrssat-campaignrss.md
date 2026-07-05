@@ -1,0 +1,46 @@
+---
+title: The BBC News app keeps you informed with live and breaking news you can trust
+source_url: https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-05T04:17:29Z'
+published: '2010-07-14T00:00:00Z'
+description: Get our news coverage on your phone or tablet and discover a range of
+  compelling features.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11843/production/_130074717_bbcnewsfaqs.jpg
+---
+
+![BBC News app](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/AA1B/production/_130074534_bbcnewsfaqs.jpg)
+
+The BBC News app is available for Android and iOS devices
+
+**With the latest news and analysis from our journalists around the world and the unique human stories behind current events, we've got the best of our journalism in one place on the BBC News app.**
+
+![presentational grey line](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/FB9C/production/_90021446_grey_line_new.jpg)
+
+Click here, external to download the BBC News app from the App Store for iPhone, iPad and iPod Touch.
+
+Click here, external to download the BBC News app from Google Play for Android devices.
+
+If you're outside the UK, you can download the BBC app here, external.
+
+![presentational grey line](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/FB9C/production/_90021446_grey_line_new.jpg)
+
+Features include:
+
+- News, features and analysis 
+- Read top stories and breaking news 
+- Watch live and developing news coverage 
+- Get news and weather local to you 
+- Follow news that's important to you 
+- Get alerts for top stories 
+
+![Presentational white space](https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/604B/production/_97415642_007_in_numbers_624.png)
+
+![Presentational white space](https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/604B/production/_97415642_007_in_numbers_624.png)
+
+*Depending on the contract you have, data charges may apply for accessing the internet on your mobile device.*
+
+*If you are not sure about the potential charges, please ask your mobile network provider. You may find some costs are included in your existing price plan or that you can opt for a data package that gives reduced charges for accessing the internet.*
+
+*The BBC does not charge you to access mobile content.*
