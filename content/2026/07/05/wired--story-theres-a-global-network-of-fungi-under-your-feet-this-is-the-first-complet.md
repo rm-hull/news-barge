@@ -1,0 +1,42 @@
+---
+title: There’s a Global Network of Fungi Under Your Feet. This Is the First Complete
+  Map
+source_url: https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-07-05T10:26:12Z'
+published: '2026-07-05T00:00:00Z'
+description: A new study has succeeded in mapping, on a global scale, the fungal network
+  that supports plant life and helps regulate our planet’s climate.
+image: https://media.wired.com/photos/6a456749ca2139b68f2de7ec/191:100/w_1280,c_limit/large-ui-01%20(1).png
+---
+
+Beneath the Earth's surface lies an extraordinary underground fungal network of almost unimaginable scale. An international team of researchers has, for the first time, produced a global map of this vast mycorrhizal network—the system of fungal filaments that forms mutually beneficial partnerships with plants across the planet. They estimate that the network stretches for roughly 110 quadrillion kilometers in total, nearly 1 billion times the distance between the Earth and the sun. The findings were published in Science.
+
+## Beneath Your Feet
+
+Arbuscular mycorrhizal fungi (AM fungi) form underground networks that support plant life and help regulate the Earth's climate. Through microscopic filaments known as hyphae, these fungi establish symbiotic relationships with plant roots, supplying water and nutrients in exchange for carbon produced through photosynthesis. The scale of this phenomenon is enormous: Current estimates suggest that about 70 percent of all plant species depend on these mycorrhizal partnerships for their survival.
+
+## Mapping the Global Network
+
+Although a study published in Nature last year examined global patterns in the diversity of underground mycorrhizal fungal communities, no previous research had quantified the density and worldwide distribution of this subterranean network.
+
+To create the first global map of this hidden system, the authors of the new study compiled data from 322 previous studies, along with 16,000 soil samples collected from a wide range of terrestrial ecosystems. Using machine learning techniques and advanced imaging technologies, the team estimated both the network's total extent and its biomass.
+
+“With the advent of new technologies in high-resolution imaging, machine learning, and robotics, we are beginning to reveal what has long remained hidden beneath our feet,” said coauthor Corentin Bisot. “We are discovering how the complex network-forming structures of fungi transport nutrients and help regulate the climate.”
+
+## An Immense Underground Network
+
+The researchers estimate that the underground fungal network has a total length of approximately 110 quadrillion kilometers. They also calculate that it contains about 300 megatons of carbon in biomass—equivalent to roughly four to six times the total mass of all living humans.
+
+According to the study, these fungal networks transport the equivalent of around 4 billion metric tons of carbon dioxide into the soil each year, representing approximately 11 percent of annual human-caused carbon dioxide emissions.
+
+“It is difficult to overstate the importance and sheer scale of these fungi,” said lead author Justin Stewart of the Society for the Protection of Underground Networks. “A single teaspoon of soil can contain up to 10 meters of mycorrhizal network.”
+
+The researchers also issued a warning. According to the study, the density of underground fungal networks in agricultural soils is only about half that found in natural ecosystems. Yet grasslands—which contain an estimated 40 percent of the world's arbuscular mycorrhizal biomass—are among the least protected ecosystems and are being converted to agricultural land at a rate four times faster than forests.
+
+The scientists warn that less dense fungal networks could reduce the soil's capacity to store carbon and recycle nutrients.
+
+“Mycorrhizal fungi have shaped life on Earth for hundreds of millions of years, yet we still know remarkably little about how the infrastructure of these living transport systems is distributed across the planet,” said coauthor Merlin Sheldrake. “This study marks an exciting step toward understanding how this planetary circulatory system functions, and it points to ways we can work more effectively with fungi to address many of the defining challenges of our time, from food security to climate change.”
+
+*This story originally appeared on WIRED Italia and has been translated from Italian.*
