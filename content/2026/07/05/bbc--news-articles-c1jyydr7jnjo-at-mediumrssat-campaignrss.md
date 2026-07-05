@@ -1,0 +1,47 @@
+---
+title: Australia probes mystery space balls that washed up on beach
+source_url: https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-05T14:02:30Z'
+published: '2026-07-05T00:00:00Z'
+description: Officials are searching for the origins of six pieces of space debris
+  discovered on Forrest Beach in Queensland.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg
+---
+
+![One of the six mysterious large silver spheres washed up on Forrest Beach in Queensland.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg)
+
+Queensland authorities warned local residents that the spheres could be "potentially hazardous objects"
+
+**The authorities in Australia are investigating the origins of mysterious large silver spheres that washed up on a beach in northern Queensland this weekend.**
+
+The six solid objects discovered on Forrest Beach, to the north of Townsville, are thought to be space debris, and the Australian Space Agency (ASA) is now trying to determine where they came from. The BBC has approached the agency for comment.
+
+Crews in protective suits were reportedly seen placing the spheres in hazmat barrels under police guard, over concerns they may contain hazardous substances.
+
+Queensland's fire department said on Sunday that a 50m exclusion zone remained in place, urging anyone who found a suspicious object in the area not to touch them.
+
+It said members of the public who encounter them should immediately move away and call the emergency services.
+
+There has been some speculation online that the spheres are propellant tanks for spacecraft, and so could contain residual amounts of a highly flammable or reactive substance.
+
+But what vehicle or its owner they came from remains unclear.
+
+![One of the six mysterious large silver spheres washed up on Forrest Beach in Queensland](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2976/live/67ea85a0-786c-11f1-ab53-3dbca6ef5ee1.jpg)
+
+Local authorities have urged members of the public to avoid the mystery objects
+
+Forrest Beach Takeaway owner Lisa Scobie said the local community was curious to know their origin.
+
+"It's very quiet, not a lot happens here. So having a lot of extra activity... that definitely created a little bit of excitement," she told public broadcaster ABC.
+
+It is not the first time, however, that such mysterious objects have been spotted on Australia's shoreline.
+
+In 2023, India confirmed that a giant metal dome that washed up on a Western Australian beach near Perth was from one of its rockets.
+
+India's space agency spokesman later told the BBC that it was from one of its Polar Satellite Launch Vehicles (PSLV).
+
+A spherical object similar to those discovered this weekend was also found in remote grassland in Namibia, southern Africa, in 2011.
+
+Experts at the time said they believed it was most likely a fuel tank or bladder tank containing hydrazine - a highly volatile propellant - from an unmanned rocket.
