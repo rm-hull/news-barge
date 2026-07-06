@@ -1,0 +1,100 @@
+---
+title: What to know about FIFA's stunning decision to lift the suspension of US player
+  Balogun
+source_url: https://www.independent.co.uk/news/folarin-balogun-gianni-infantino-belgium-donald-trump-thomas-tuchel-b3009906.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-06T18:19:21Z'
+published: '2026-07-06T00:00:00Z'
+description: FIFA’s stunning decision to lift the suspension of a star U.S. player
+  has riled the host country's next World Cup opponent, Belgium
+image: https://static.independent.co.uk/2026/07/06/17/APTOPIX_Bosnia_US_WCup_Soccer_68239.jpg?width=1200&height=800&crop=1200:800
+---
+
+FIFA’s stunning decision to lift the suspension of a star U.S. player has riled the host country's next World Cup opponent, Belgium. It has also sent soccer fans -- and political leaders -- around the world into a frenzy over the influence President Donald Trump may have had over the extremely rare ruling.
+
+Hours before kickoff, Belgium said it would challenge the most-debated political intervention in a World Cup in decades. But for now, Folarin Balogun is eligible to play on Monday night in Seattle. A win would send the U.S. to the quarterfinals, which would be the best U.S. result at a men’s World Cup since 2002.
+
+FIFA lifted Balogun’s suspension on Sunday following a call Trump made to the global soccer organization's president, Gianni Infantino.
+
+Here’s a deeper look at the controversy.
+
+Why Balogun and the red card matter
+
+Born in New York to Nigerian parents, raised in London, and playing in the French league, Balogun's birthright citizenship made him eligible for the U.S.
+
+Securing his commitment to play on the American team was a coup and it has paid off; he leads the team's World Cup scoring with three goals.
+
+All was well until Wednesday when he stepped on opponent Tarik Muharemovic's ankle in a 2-0 win over Bosnia-Herzegovina in the round of 32.
+
+The decision to send off Balogun was disputed — his movement seemed clumsy but not malicious. But once a referee decides to issue a red card, the punishment is usually straightforward: the player is excluded from the rest of the game, the team plays on shorthanded — and until now, at least — a suspension for the next game is automatic.
+
+If the ban had stayed in place, replacing Balogun in the lineup posed a big challenge for coach Mauricio Pochettino.
+
+The U.S. has plenty of attacking players in wider or deeper roles, but few with the combination of physical power and goalscoring ability for the center-forward role that the rest of the offense focuses around. Likely replacement Ricardo Pepi hasn't scored in four World Cup games.
+
+FIFA's explanation and what it didn't say
+
+There is typically no appeals process against the automatic one-game ban, only for longer sanctions usually applied to the most serious fouls like violent conduct or racism.
+
+In its decision to let Balogun play against Belgium, FIFA cited article 27 of its disciplinary code, which says a “judicial body” can “fully or partially suspend the implementation of a disciplinary measure.” Balogun could yet get that one-game suspension on top of any future punishment if he commits a similar offense again in the next year.
+
+FIFA didn't elaborate how it reached its decision and the rule doesn't lay out any requirements for which cases are eligible under the rarely used rule.
+
+Last year, FIFA suspended two games of a three-game ban for one of soccer's biggest-ever stars, Cristiano Ronaldo. That left him free to play in the opening games of the World Cup for Portugal. He did still serve the remaining one game ban in a qualifier.
+
+Balogun's case seems to be the first since 1962 in which a sending-off during a World Cup match didn’t result in a suspension. On that occasion, the president of host nation Chile argued for Brazilian midfielder Garrincha to be allowed to play the final after he had kicked a Chilean opponent.
+
+How Trump got involved in ‘great injustice’
+
+Infantino and Trump have developed a well-known relationship. The Swiss soccer official became a regular visitor to the Oval Office as the U.S. prepared to host the World Cup.
+
+“Thank you to FIFA for doing what was right, and reversing a great injustice!” Trump said Sunday on social media after Balogun's suspension was lifted. On Monday, Trump defended his outreach to Infantino, saying he merely pointed out that the referee's call against Balogun seemed like a bad one and warranted a closer look.
+
+Infantino has been a regular visitor to the White House. He gave Trump a FIFA Peace Prize at the World Cup draw in December, an award the organization hasn't presented to anyone else before or since.
+
+FIFA’s statutes prohibit governments from intervening in the independence of soccer bodies managing their own affairs. FIFA regularly suspends member federations where governments have interfered in decision-making.
+
+U.S. coach Mauricio Pochettino applauded FIFA’s move Sunday and said the initial on-field ruling against Balogun was “completely unfair.”
+
+Backlash from US opponent Belgium and others
+
+The Belgian soccer federation said it was “astonished” when the news of FIFA's intervention broke. Coach Rudi Garcia likened the decision to April Fools' Day.
+
+Belgium clarified Monday it's now seeking to challenge his eligibility.
+
+As Europe woke to the news Monday, the Instagram account of Belgian Prime Minister Bart de Wever's cat Maximus — a social media celebrity in his own right — weighed in with a picture captioned: “Red card? I'm still going to play!"
+
+A global soccer power struggle looms after European soccer body UEFA criticized FIFA for an “incomprehensible and unjustifiable decision” and warned “the integrity of the game is at stake.”
+
+Other prominent soccer voices weighed in, like Norway coach Ståle Solbakken, whose team stunned Brazil on Sunday to reach the quarterfinals.
+
+“What about the next red card? What happens then?” Norway coach Ståle Solbakken said. “Is there going to be some committee somewhere that is going to take that card away? It’s a bad, bad, bad, bad, bad decision that will hurt the World Cup.”
+
+Former England great Wayne Rooney called it “an absolute disgrace" on the BBC. “Infantino, he should be ashamed of this because I think the sportsmanship of this game is in question here.”
+
+Ex-Sweden striker Zlatan Ibrahimovic was a prominent voice welcoming the decision.
+
+“First of all, he should not get a red card and then they should have come quicker, this call," Ibrahimovic said on Fox Sports. "I’m happy for the U.S. team because the U.S. team has been amazing but Balo has been super-amazing.”
+
+What happens next
+
+Belgium's challenge means a legal battle looms in the hours leading up to kickoff in Seattle between the U.S. and Belgium. The Belgian federation has also accused FIFA of administering the appeal process in such a way as to hurt its claim.
+
+It's not even clear if an appeal is admissible. FIFA's disciplinary code says suspensions of two games or less typically can't be appealed — though that would generally apply to teams wanting a suspension lifted, not re-imposed.
+
+The FIFA appeals committee is chaired by U.S. lawyer Neil Eggleston, a former White House Counsel in the Obama administration. He'd be expected to recuse himself from a case concerning the U.S.
+
+More broadly, England coach Thomas Tuchel predicted this could set off a flood of complaints and appeals over other on-field decisions affecting key players at the World Cup.
+
+“Where to draw the line is the question that I ask. I have no answer to that. Where does this end now?” he said after England beat Mexico 3-2 for a quarterfinal spot.
+
+“Our yellow card from the first minute against Declan Rice, we can now debate endlessly. I think it's not a yellow card. Do we get this back?”
+
+___
+
+Graham Dunbar in Geneva contributed to this report.
+
+___
+
+See more of AP’s World Cup coverage here
