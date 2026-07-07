@@ -1,0 +1,77 @@
+---
+title: Nigel Farage resigns as MP to fight by-election amid finances row
+source_url: https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-07T21:39:24Z'
+published: '2026-07-07T00:00:00Z'
+description: Labour, the Conservatives, the Lib Dems and Restore Britain rule out
+  standing in the by-election, in an effective boycott.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fc2/live/e6ffdc40-7a0c-11f1-92a1-2dcee5cd2863.png
+---
+
+![Reform UK leader Nigel Farage makes a statement with a union jack in the background](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/6fc2/live/e6ffdc40-7a0c-11f1-92a1-2dcee5cd2863.png)
+
+**Nigel Farage says he will resign as MP for Clacton and stand in the subsequent by-election, after facing intense scrutiny over financial support he has received.**
+
+The Reform UK leader said the "people of Clacton should be the judges of my actions", as he insisted he has done nothing wrong.
+
+But the Conservatives, Labour, Restore Britain and the Lib Dems have ruled out standing candidates against him, in an effective boycott by his main opponents.
+
+Farage has been under investigation from Parliament's standards commissioner since May after not declaring a £5m gift he received from a billionaire Reform donor before he became an MP.
+
+Opposition parties have been calling for a further such probe, after it emerged he did not disclose support reportedly provided by a different political ally.
+
+Farage claimed parliamentary standards investigations were "now being used as a political tool" and he did not want to be "judged" by the media, before announcing he would force a by-election in which he would stand.
+
+In a live video statement released to the media by Reform, he said the by-election would give voters the chance to "stick two fingers up at the entire establishment".
+
+But Labour has ruled out standing against him, with a spokesperson saying it would not "indulge" the Reform UK leader by standing a candidate "in this circus".
+
+Tory leader Badenoch dismissed the by-election as a "gimmick", adding that Farage had called it to "distract people from what is happening".
+
+She added her party would stand instead in a "real by-election" she hoped would be triggered in the wake of the standards investigation.
+
+Farage's resignation will mean the ongoing investigation by the standards commissioner into the £5m gift is suspended. It will be resumed if Farage wins the by-election and returns to Parliament.
+
+One possible outcome of a standards investigation is a suspension which triggers a recall petition. This process enables an MP to be removed and a by-election triggered if 10% of eligible registered voters sign a petition.
+
+Farage used his speech to claim "the establishment" had turned to "foul means" to target Reform following the party's rise in popularity.
+
+Changes to political donation rules and the government's decision to delay 30 local council elections in England - a decision it later reversed after a legal challenge from Reform - were among the issues cited by him.
+
+He also said he spent the weekend thinking about his future after complaining about media treatment of his family, following the publication of a story by the Sunday Times on his links to longstanding ally George Cottrell.
+
+The newspaper said Farage had received support ahead of the 2024 election from Cottrell, who was jailed for eight months in the US in 2017 after pleading guilty to a charge of wire fraud.
+
+This reportedly included paying for staff who provided Farage's security and worked on his social media content. According to the newspaper, Farage also used a property near Buckingham Palace rented by Cottrell.
+
+Scrutiny over Farage's finances first hit the headlines earlier this year, after it emerged he had received a £5m gift from Christopher Harborne, a Thailand-based British cryptocurrency investor, in April 2024, before he entered Parliament.
+
+Harborne is one of the party's most important financial backers, having donated £15m to Reform since the start of last year.
+
+Farage said the £5m gift was given on an "unconditional basis" and it was needed to help with his personal security in future.
+
+His team has made a similar argument for why the "in kind" - non-cash - benefits allegedly from Cottrell were not registered.
+
+"Let me be absolutely clear: I have done nothing wrong. I have not broken the law in any way at all. I have not misused public money," he added.
+
+Parliament's rulebook says newly-elected MPs have to declare gifts or benefits, including accommodation, received in the 12 months before their election that relate to their "parliamentary or political activities".
+
+There is an exemption for gift and benefits that are "purely personal".
+
+## 'Vanity project'
+
+Farage won Clacton at the 2024 general election, finishing 8,405 votes ahead of the Conservatives. He had previously been unsuccessful on his previous seven times standing to be an MP.
+
+Farage's resignation will only be confirmed once the government has given him a crown appointment, the mechanism that disqualifies him from being an MP.
+
+Liberal Democrat leader Sir Ed Davey called for the government to "block his resignation until the standards commissioner has finished investigating him".
+
+"If this by-election does go ahead now, we are calling on all parties to stand aside and refuse to give oxygen to Farage's vanity project," he added.
+
+Restore Britain leader Rupert Lowe said his party would not stand in the by-election triggered by Farage's resignation, but would if a by-election was ultimately triggered by the standards investigation.
+
+A Green Party spokesperson said: "This is a decision for Clacton Green Party but we are a political party - we contest elections."
+
+![Thin, red banner promoting the Politics Essential newsletter with text saying, “Top political analysis in your inbox every day”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6133/live/2bce6ee0-0b00-11f0-97d3-37df2b293ed1.png)
