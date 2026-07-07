@@ -1,0 +1,27 @@
+---
+title: These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras
+source_url: https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-07-07T15:09:31Z'
+published: '2026-07-07T00:00:00Z'
+description: You can clip a cover over the cameras, which could be a double-edged
+  sword.
+image: https://media.wired.com/photos/6a4bd7c758fe114a7a5cba2a/191:100/w_1280,c_limit/Solos-Smart-Glasses-Gear-10.jpg
+---
+
+Smart glasses company Solos has long focused on audio-only smart glasses. On Tuesday, it announced two new pairs of glasses, one of which has a camera—but you can buy a separate accessory to hide the camera for privacy’s sake.
+
+Solos’ new smart glasses are the audio-only AirGo A6 and the second iteration of its camera-enabled glasses, the Solos AirGo V2. The latter was first announced last year as an effort to directly “outshine Meta.” These $299 glasses do just about everything you’d expect from Meta’s new $299 Meta Smartglasses, including photo and video capture, playing music, and interacting with an AI-powered assistant that can see what you see. They can be fitted with prescription lenses and have a 10- to 12-hour battery life.
+
+The AirGo V2 glasses can also be paired with a new Privacy Kit, a set of clip-on accessories that let wearers control what their camera glasses can access. The clip-on privacy shield blocks the cameras from view and from recording the world, allowing you to keep wearing the glasses in audio-only mode. There’s also a clip-on polarized lens, and the full kit of modular options costs $79.
+
+Selling a privacy kit as a clip-on accessory is perhaps not the most effective way to stave off concerns about people running around with small, discreet cameras on their faces. Having to buy a separate item, then clip it on and off every time you want to use or disable the camera, is a lot of extra steps that will likely keep people from bothering with privacy at all. Also, there isn’t anything stopping bad actors from removing the clip-on blockers later in an interaction—say, after entering an event that prohibits camera recording.
+
+Solos’ first camera-enabled glasses, the Solos AirGo Vision, launched in 2024. WIRED put them in the “Don’t Bother” section of our Best Smart Glasses gallery, citing some decent design choices, albeit ones held back by middling media capture quality, frustrating touch controls, and a power-hungry app that demands too many permissions. All in all, the glasses haven’t quite reached the standard Meta has set with its popular smart glasses.
+
+Meta has been the dominant force in the smart glasses market, but other big companies are trying to fill in the cracks. Google and Samsung have a partnership to build out Google's Android XR platform, with new glasses arriving later this year from eyewear brands Warby Parker and Gentle Monster. Apple has reportedly been building its own smart glasses as well.
+
+Some smaller companies are adjusting their target markets to counter Meta, like Even Realities and its camera-free glasses. Solos’ reemphasis on privacy comes after a period of widespread criticism of Meta’s glasses. The devices have been called creepy “pervert glasses” and were criticized after the company silently added face recognition code to its glasses, then quickly removed it after public outcry following a WIRED report. Meta hasn’t done itself any favors since then, announcing last week that it will start charging for features on its smart glasses that have previously been free.
+
+Meta has acknowledged that a market for audio-only smart glasses exists, as CTO Andrew Bosworth said in a private Q&A session with media that he thinks there is “market demand for that product for sure.” But Meta hasn’t moved away from its camera-forward spectacles yet. It may very well make audio-only glasses in the future. Until then, companies like Solos are eager to chip away at that market.
