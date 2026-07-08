@@ -1,0 +1,43 @@
+---
+title: Get 10% Off Exclusive LegalZoom Promo Code for July 2026
+source_url: https://www.wired.com/story/legalzoom-promo-code/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-07-08T06:36:59Z'
+published: '2025-02-25T00:00:00Z'
+description: Save on top services at LegalZoom, like LLC registration, incorporation,
+  estate plans, and more with coupons and deals from WIRED.
+image: https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/191:100/w_1280,c_limit/WIRED-Coupons-R2_11.png
+---
+
+LegalZoom is one of those online legal services that in most cases can handle basic legal tasks for you. I recently tried it out to make an LLC for my cosmic country band, Steel Fringe (shameless plug), and it appears to have worked just fine (we’re still waiting on a full evaluation from legal experts for a future guide to these services). If you use a LegalZoom promo code right now, you will get a discount on the service.
+
+I found it super easy to set up my LLC, and after about $500 and 30 minutes of my time, I was off to the races with an LLC for my band. I did make the mistake of spelling my co-bandleader’s middle name as his last name (I blame his wrongly named Instagram handle for this), so I had to toss them another $129 to fix that. My bad.
+
+Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED below.
+
+## Get 10% Off LLC Formation With Our LegalZoom Coupon Code
+
+If you’re in need of basic legal services like establishing an LLC, estate planning, or other contract-based services, LegalZoom offers a very simple interface that is shockingly easy to use. I am a luddite when it comes to understanding legal jargon and steps in a process like establishing my band’s LLC, but LegalZoom’s simple interface made it shockingly easy to make sure everything was in order.
+
+If you use our exclusive code for 10% off LLC Formations (found in the table above), you’ll get a nice chunk of change off the cost of setting up your small business. As you’ll read below, it’s not especially cheap to do this, even digitally, in many states. There are mandatory filing fees and other fees that can range from a few hundred to many hundreds of dollars. Take the discount!
+
+## LegalZoom Business Formation: Start Today Using Our LegalZoom Discounts
+
+LegalZoom services expand well beyond just helping establish personal LLCs, there are also other business formations that LegalZoom can help with. Some of these include Limited Liability Company LLCs, which start at free, plus state filing fees. This is the simplest, flexible way to ensure your business protects any personal assets. There’s also Corporation (S corp or C corp), which starts at $149 plus state filing fees. This is a more complex structured formation, with the ability to issue shares, go public, or go global. There’s also help for Nonprofit (501c3) LLCs, which starts at $99 plus state filing fees. This one is designed to support a public or social benefit that’s eligible for tax breaks. And finally, Doing Business As (DBA) starts at $99 plus state filing fees. This is an efficient way to use a business name that removes the sometimes annoying upkeep of LLCs or corporations.
+
+## How Much Does It Cost to Set Up An LLC on LegalZoom?
+
+The cost to properly set up an LLC in your state can range from $35 to $500, depending on various factors like local legislation and business registration laws. Most states charge between $50 and $200 for filing fees, so you can expect to pay somewhere in that range unless you’re from Montana ($35) or Massachusetts ($500). LegalZoom also shoves a bunch of options you probably don’t need in your face, so be sure to Google what you actually need in your state before paying extra money to … print all your documents and put them in a folder for you, or other such nonsense.
+
+## Use LegalZoom Promo Codes to Save on Estate Plans
+
+Although it’s a little morbid, folks need to think about what will happen to their assets after they pass, and get a plan in place to protect their loved ones. LegalZoom offers estate plan services to create your will or trust easily online. There are several options available, so make sure you choose the right plan for you. Right now, if you choose the Premium Trust, you’ll get 10% off LegalZoom products, plus 25% off important attorney services. There are two will options and two trust options: the last will outlines how your assets should be distributed after death, and a living trust, a legal arrangement where a trustee manages assets. Make sure to read through the link above to know which plan is right for your needs.
+
+## Register a Trademark With Legalzoom
+
+Registering a trademark is an important step in many business ventures, a necessary step that can be very confusing. Legalzoom wants to make it easier for you, by using one of their experienced trademark attorneys who can handle the oftentimes complicated process. They can perform a trademark search, provide legal advice, and prepare and file your application, so you can relax knowing you're protected. Prices start at $899 plus federal fees for registering a trademark.
+
+## Get Online Legal Services and LegalZoom Pricing
+
+Want to save money but also want peace of mind? Try LegalZoom’s attorney review. After you’ve completed your documents, you’ll be able to have unlimited revisions of your LegalZoom estate planning documents, with no page limit. This also includes an annual legal review with attorney help to ensure your estate plan is up to date (available after 6 months). Right now, the Personal Attorney Plan ranges from $20 for a 12-month service, or $17 for 6 months. Save 20% when you sign up today.
