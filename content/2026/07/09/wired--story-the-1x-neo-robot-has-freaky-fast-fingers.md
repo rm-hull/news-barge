@@ -1,0 +1,39 @@
+---
+title: The 1X Neo Robot Has Freaky Fast Fingers
+source_url: https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-07-09T18:07:32Z'
+published: '2026-07-09T00:00:00Z'
+description: The soft, oddly intimate home-chore robot has been given some very tactile
+  hands.
+image: https://media.wired.com/photos/6a4ea0a34c236782d7135868/191:100/w_1280,c_limit/GLASS.png
+---
+
+Friendly home robots have been the dream of sci-fi for a long time. Docile, helpful machines that do your laundry, take out the trash, maybe make dinner, and clean up afterward too. But if robots are going to do all that, they’re going to need some hands to make all that happen.
+
+1X, a Norwegian-American robotics company, today revealed details about the five-finger hands attached to its soft, helpful robot companion, Neo.
+
+The hands are built with actuators designed to replicate how tendons in the arms move human hands. 1X says this gives Neo’s hands 25 degrees of freedom of movement, which is just a little less than the 27 degrees of freedom human hands usually have. Cameras and AI smarts help sort out the broader context of what the fingers are trying to grab. It’s a dexterous mix that gives the Neo bot a very broad range of motion. 1X says the hands can grip odd shapes and detect when something is slipping out of its grip. The fingers can also move extremely quickly and hyperextend in directions human digits can’t. They also have an IP68 waterproof rating, meaning the robot can wash its own hands.
+
+It’s a range that the engineers have aimed to dial in to align with what a human can actually do. Jonathan Terfurth, 1X’s director of actuators and hands, says the range of motion might even be better than a human’s, enabling it to open doors, lift heavy objects, and even plug itself in when its battery starts to die.
+
+“You want to be able to operate with a human who has never worked or interfaced with a robot, and you still want it to be safe and compliant and soft,” Terfurth says. “Range of motion can be a bit extreme, but we try to be very close to what humans can do so that we can live in the world.”
+
+Together, this is part of a growing ChatGPT-esque moment for robotics, where bots have gone from clumsy claw machines to capable handlers, able to gently carry fragile objects and become increasingly helpful for managing menial daily tasks and boring office chores.
+
+The humanoid robot market tends to be dominated by tough, hulking Terminators meant to be paraded out for some defense industry contract or another. 1X is taking a different tack for its robot. The Neo is a soft, supple robot wrapped in a 3D lattice shell. Its design is inspired by characters like Baymax, the affable robot from the Disney movie *Big Hero 6*. In limited quantities, early access pricing is $20,000 or $500 per month to have it in your home, though the lump sum will prioritize delivery for 2026.
+
+“We love this idea that a robot can be this peaceful and fun and goofy safe presence in a life,” says Dar Sleeper, 1X’s vice president of product and design. “Something that feels comfortable to be around, something that's soft from the inside to the outside. If you want something to fit into your life, it can't feel like it's from a whole different universe.”
+
+## Judgment Day
+
+1X says the goal is full automation for Neo, but for now, the robot is partly teleoperated, as a Wall Street Journal video noted last year. That means human operators can take control of Neo remotely and even look through a camera to view the space around it. This is actually a feature called Expert Mode, meant to handle more complicated chores by bringing a human into the loop. It also means that if you have one in your home, it can see everything around it.
+
+This starts to get weird because, if the company's advertising for the Neo is anything to go by, the robot can be in some very intimate situations. The marketing for Neo’s new fingers feels very sensual. Smooth jazz plays in the background of a soft, warmly lit video. The robo digits curl around a wine glass, turn off a light, unzip a jacket, and gently fondle some grapes. In previous ads, the humans stand just very close to Neo and look at it flirtatiously. (After this story was published, a 1X representative clarified that the company does not view Neo or any of this marketing material as flirtatious.)
+
+Not to kink shame, but this is a strange strategy for selling a robot that can also become a portal for random human operators to peer into and interact with everything in your home. 1X says that human “experts” can only ever enter your home when you’ve specifically requested it. You can also monitor the video they are capturing via a mobile app. A ring light around Neo’s ear turns blue to indicate that a person is connected, and you can kick the expert out at any time. 1X did not immediately answer questions about how the company plans to prevent bad actors or hackers from taking over the robot.
+
+The other problem with the human element is that it is not yet possible to tell exactly how well these actuators and hand movements work. When asked if the videos were made by the machine automations or by someone controlling them remotely, a 1X representative wrote that “some of the videos are machine-articulated while some are operated to show the upper limit of the hardware capabilities.”
+
+On a Zoom call with WIRED, Terfurth, and Sleeper, a fully automated Neo robot stood behind the two. Sleeper asked it to show off how fast it could move its fingers. Neo raised and then lowered one finger at a time, slowly at first. Then it started to speed up—faster and faster until the fingers drummed so fast they blurred together on the screen. It carried on, almost too fast to see, until Sleeper barked at it to stop. The robot froze. Later, it flashed me a peace sign.

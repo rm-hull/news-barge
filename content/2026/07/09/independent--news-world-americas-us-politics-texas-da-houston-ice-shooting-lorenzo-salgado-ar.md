@@ -1,0 +1,47 @@
+---
+title: Texas DA claims federal officials are blocking local probe into fatal ICE shooting
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/texas-da-houston-ice-shooting-lorenzo-salgado-araujo-b3012063.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-09T18:07:50Z'
+published: '2026-07-09T00:00:00Z'
+description: The shooting of Lorenzo Salgado Araujo follows at least 16 other immigration
+  enforcement shootings over the last year
+image: https://static.independent.co.uk/2026/07/08/17/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+A Texas prosecutor accused federal authorities on Wednesday of sidelining local officials from the investigation into the fatal shooting of a Mexican national by an immigration officer in Houston.
+
+Harris County District Attorney Sean Teare stated in a social media post that federal agencies were exclusively managing the probe into the death of Lorenzo Salgado Araujo, who was killed Tuesday during a traffic stop arrest by an Immigration and Customs Enforcement officer. Teare said that his office typically conducted a “parallel investigation” into any local death involving law enforcement, but federal authorities had blocked that access.
+
+“Mr. Salgado Araujo’s family and our community deserve the truth,” Teare wrote in the post, appealing for eyewitnesses to submit photos or videos of the encounter.
+
+In a statement to *The Independent*, the Department of Homeland Security said the Office of Inspector General was leading an investigation into the shooting, and the FBI Houston was leading a probe “into the potential assault on a federal law enforcement officer.”
+
+“This is a developing situation, and we will update the public when more information is available,” the department added.
+
+Historically, federal oversight in these matters also reviews potential civil rights violations.
+
+Federal authorities stated that Salgado Araujo was in the country illegally and forced an officer to fire in self-defense after attempting to strike agents with his vehicle while fleeing. Family members and community advocates described him as a dedicated construction worker and a father to three U.S. citizen sons.
+
+The killing has ignited international outrage. Mexican President Claudia Sheinbaum vowed to respond with legal measures exceeding standard diplomatic complaints, pointing out that Salgado Araujo was killed during a detention when his only fault was lacking legal papers despite being employed by a U.S. company, *The Washington Post* reported.
+
+Salgado Araujo’s son, Ronaldo Salgado, shared details of how he heard about his father’s death during a press conference Wednesday morning.
+
+“I learned of my father’s passing from a news report on social media, not the hospital, not law enforcement,” he said, through tears. “I saw a video posted on Facebook that he had been shot. I recognized him immediately, not from his appearance, but from his voice crying for help as he lay on the street, bleeding out.”
+
+Salgado Araujo, a husband and father of three, lived in the United States for 35 years and “dedicated his life to giving his family the American dream,” his son said. He had a small construction business and was “close to obtaining his legal status,” the family said.
+
+The DHS description of the Houston shooting mirrors official accounts provided after the January killing of Renée Good in Minneapolis, where subsequent video footage raised questions about whether she actually posed a vehicular threat to agents. State authorities in Minnesota similarly stated that federal investigators blocked local inquiries into the deaths of Good and Alex Pretti.
+
+Former DHS official Juliette Kayyem said that the agency had eroded its own credibility by repeatedly claiming self-defense in shootings that were later contradicted by evidence, according to *The Post*. Kayyem, now a professor at Harvard University’s Kennedy School of Government, stated that investigators must investigate the specific background, training and shooting history of the ICE agent involved.
+
+In response to the federal restrictions, Teare’s spokesman, Rafael Lemaitre, said investigators from the local civil rights division had been deployed to gather whatever independent evidence they could from the scene. Teare also met with the victim’s family on Wednesday.
+
+At Wednesday’s news conference in Houston, local advocates, immigration groups and officials demanded an independent review.
+
+Inspector General Joseph Cuffari’s office stated that it routinely reviewed allegations against DHS personnel but maintained a strict policy against discussing ongoing investigations to preserve independence.
+
+According to a person familiar with the matter, the office is currently investigating more than 600 cases of employee misconduct, including excessive force and corruption, as reported by *The Post*. Though policy audits are made public, criminal findings are generally kept private unless referred to the Justice Department for indictment.
+
+Data shows that federal officers have been involved in at least 16 other shootings during immigration enforcement operations over the last year, resulting in three deaths and 10 injuries. In previous instances, DHS publicly cleared the officers before formal investigations concluded. Charges filed against several shooting victims were later dropped after video evidence disproved the government’s initial accounts.
