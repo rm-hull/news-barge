@@ -1,0 +1,102 @@
+---
+title: Graham Platner's Platner's disastrous candidacy exposes rifts that could dampen
+  Democrats' Senate hopes
+source_url: https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-09T04:08:57Z'
+published: '2026-07-09T00:00:00Z'
+description: Along with creating tumult in a must-win race for Democrats, Graham Platner's
+  exit is laying bare division between the party's left wing and moderates.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg
+---
+
+Watch: Graham Platner announces he’s dropping out of Maine’s US Senate race
+
+**Graham Platner's meteoric rise from relative obscurity to the Democratic nominee in this year's marquee US Senate contest has now ended in catastrophic collapse.**
+
+The oysterman and former Marine who bested a popular governor and built a grass-roots network of more than 15,000 supporters in Maine announced he was suspending his campaign on Wednesday night**.** 
+
+The news came via recorded video posted on social media**,** just a little more than 48 hours after Politico published a story containing allegations from an ex-girlfriend that an intoxicated Platner had entered her home uninvited in 2021 and allegedly sexually assaulted her. He has denied the allegation.
+
+"We went toe to toe with one of the most entrenched political systems in the history of the world, and we won," Platner said in his 11-minute video announcing the end of his campaign. "And now they are not going to let us have it, not if it's me."
+
+Platner, who had been championed by liberal stalwarts like Vermont Senator Bernie Sanders and Massachusetts Senator Elizabeth Warren, was his party's chosen challenger to unseat five-term Senator Susan Collins – the only Republican in Congress representing a state that Democrats won in the 2024 presidential election.
+
+For Democrats, this race has become crucial.
+
+To take control of the Senate in November's midterm elections, they have to flip four Republican-held seats while defending all of theirs. Maine is widely considered a must-win target.
+
+Now, Platner's exit is threatening to deal a serious blow to their hopes. It is alsore-exposing rifts between the party's left wing and moderates that could not only endanger their success this year but in the 2028 presidential race as well.
+
+![Graham Platner seen on stage at a microphone. his hand is over his mouth](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2844/live/c5e5b000-7b3a-11f1-bbe5-2f09bd5cf751.jpg)
+
+The sexual assault allegation against Platner was just the latest, most serious, controversy to dog the novice candidate since he entered the race last August.
+
+Earlier reports of offensive social media posts, a chest tattoo with Nazi connotations, sexually explicit text messages sent to women after he was married in 2023, and allegations from former girlfriends of threatening and "toxic" behaviour did not deter 72% of Maine's Democrats from casting their ballots for him in June's primary.
+
+Platner adamantly denied this latest allegation, but within hours of the interview's publication, his political support evaporated. State and national Democrats, including his closest allies on the progressive left - Warren and Sanders included - withdrew their backing. The national party announced it would no longer help finance his campaign. By midweek, it became clear it was only a matter of when, not if, Platner would step aside.
+
+In announcing the end of his campaign, Platner said he was not stepping down because of the allegation.
+
+"We're doing it because of the structures that are being taken away from us by those in power," he added, saying he would not formally file paperwork to withdraw until he's assured his replacement will be selected in a "open and democratic" way.
+
+Now Democrats, both in Maine and nationally, are scrambling to name a replacement before a state-mandated 27 July deadline. On Wednesday night, the state party announced it will select a new nominee at convention held sometime in the next two weeks, where reportedly hundreds of delegates would choose Platner's replacement.
+
+It previously had said it would seek public input and not make the decision behind closed doors.
+
+"So much of Platner's base, whose passion Democrats are going to want to have, will sit on their hands and be very angry if it looks like this is another case of the establishment triumphing over what the people want," said James Melcher, a professor of politics at the University of Maine at Farmington.
+
+Tensions between that base and the establishment go back to Platner's success against Janet Mills, the Maine governor who was handpicked by Democratic leaders as the best chance to unseat Collins. She suspended her campaign in April in the face of his momentous popularity.
+
+In recent days, those tensions have been rising.
+
+State party chair Devon Murphy-Anderson said in a statement on Wednesday that the Platner campaign was trying to "manipulate" the process for selecting a new nominee – an accusation Platner's side denied. They countered they want an open process and not the coronation of an "establishment-backed" candidate.
+
+Murphy-Anderson also went on to call Platner's supporters "a vital part of our party" and say they "deserve to participate in an open process to select Platner's replacement".
+
+While Platner said he would formally withdraw, the sometimes-combative tone of his video suggested that he may yet delay doing so to further press the state party to give his supporters a more prominent role in choosing the next nominee.
+
+According to former state Senator Lynn Bromley, who backed Mills in the primary, maintaining his supporters' enthusiasm will be essential for Democratic hopes come November.
+
+"The party has a lot of work to do to attract young people, and the Platner campaign showed us that the party has that energy available to us," she said.
+
+She is concerned, however, that it will be difficult for voters to coalesce around any new candidate in just three months.
+
+"The thing I'm the most worried about is we run somebody and he or she loses, and then we spend the next four years pointing fingers at whose fault that was," she said.
+
+In primary contests across the country this year, Democrats regularly opted for outsider congressional candidates offering a vivid vision for what the party should stand for and promising to fight for their beliefs in the face of Republican resistance.
+
+Platner was one of the earliest and most prominent examples of this trend. With his gravelly voice, scruffy appearance and working-class back story, he gained a passionate following both in Maine and nationally.
+
+He presented himself as a candidate who could advocate for liberal policies – like universal healthcare, wealth taxes, and low-cost housing – in a way that appealed to the kind of rural voters who have moved away from Democrats recently.
+
+A win in November would have given Democratic progressives a chance to see blue-collar liberalism triumphing in battleground states like Maine.
+
+And that, in turn, could have become a compelling argument for nominating a left-wing presidential candidate in 2028.
+
+Now, that opportunity is likely dashed.
+
+That Platner survived the series of scandals as long as he did was in part a testament to Democrats' hunger for a different kind of candidate. It also, however, underlined the risks of opting for charismatic political neophytes who haven't received close scrutiny before they run for higher office.
+
+With Platner's exit, a group of more traditional candidates are already expressing interest in stepping in – including a handful who unsuccessfully ran for governor and one of the state's open House seats last month. They have recent campaign experience and some name recognition.
+
+Troy Jackson, a former Maine Senate leader, campaigned side-by-side with Platner during his bid for governor, and came in third.
+
+Nirav Shah, a state epidemiologist who gained prominence through regular public appearances during the Covid pandemic, finished a close second.
+
+Shenna Bellows, the Maine secretary of state, is known for her lawsuit to block Trump administration attempts to gain access to state voter data. She was the party's nominee in 2014 but was soundly beaten by Collins.
+
+According to Melcher, many Platner supporters will be hit hard because of the connection they made with their unconventional candidate. He believes they will ultimately back his replacement, however, because of the high stakes in this race.
+
+Many Maine Democrats supported Platner with some reluctance because of his past scandals, he added, and this latest twist might end up a blessing in disguise for the party.
+
+"If they play their cards right, I think that they will be fine and, with some voters, even better than they would have been before," he said, "as long as the party doesn't handle this in a way they see as disrespectful or a cabal taking things over."
+
+The clock is ticking, however, and Collins awaits whoever emerges from whatever process Democrats ultimately follow. She has proven a formidable adversary for Democrats for 30 years, most recently defeating a better-funded opponent in 2020 despite polls showing her trailing right up to election day.
+
+"It's not as though it was going to be easy before, and now it's hard," said Melcher. "Beating Collins was always going to be hard."
+
+![A thin, grey banner promoting the US Politics Unspun newsletter. On the right, there is an image of the Capitol Building against a background of vertical red, grey and blue stripes. The banner reads: "The newsletter that cuts through the noise”](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2fc9/live/d50b15d0-1216-11f1-801d-ed3cff6bf876.png)
+
+Follow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's weekly US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.
