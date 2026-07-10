@@ -1,0 +1,32 @@
+---
+title: It’s about time Wonderwall usurped Sweet Caroline as England’s football anthem
+source_url: https://www.independent.co.uk/arts-entertainment/music/features/wonderwall-england-oasis-anthem-sweet-caroline-b3011249.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-10T07:48:37Z'
+published: '2026-07-10T00:00:00Z'
+description: The Oasis song has enjoyed a sudden revival at the 2026 World Cup – and
+  there could hardly be a more appropriate soundtrack to Thomas Tuchel’s reign, writes
+  Louis Chilton
+image: https://static.the-independent.com/2026/07/07/14/9c0676368906965ae74d2a994ae2d433Y29udGVudHNlYXJjaGFwaSwxNzgzNTE1Mjcx-2.85201116.jpg?width=1200&height=800&crop=1200:800
+---
+
+I think we can all agree that the best moment of the World Cup so far was Harry Kane, standing in front of a microphone after England’s sensational victory over Mexico, talking like an off-brand character from *The Muppet Show*. To blame? Two brothers from Manchester. Just minutes earlier, the striker had been standing alongside his teammates, bellowing the lyrics to Oasis’s “Wonderwall” along with a jubilant crowd, as has become tradition. “It’s hard work that singing Harry Kane,” tweeted Liam Gallagher, after the footage went viral. Hard work, yes – but, if England keep progressing, he’ll (hopefully) have a lot more singing in store.
+
+Having cemented its status as England’s unofficial anthem for the tournament, “Wonderwall” is having a moment. Streams shot up by 300 per cent in the wake of the latest exhilarating win – when the Lions overcame extreme altitude and a red card to deliver a monumental 3-2 victory on the Central American opponent’s home turf. The Gallagher brothers’ 1995 hit is being sung in stadiums around North America, blasted from speakers in pubs up and down the country.
+
+Blessedly usurping our previous people’s anthem – the heinously pappy “Sweet Caroline” by Neil Diamond – “Wonderwall” has become the defining *sound* of the tournament. (Save, perhaps, for the roar of anti-Trump chanting, or the drone of Danny Murphy’s strange, serialised rambles about his woebegone childhood cat.) The song – once so phenomenally, deadeningly well-known that it was almost a cliche, the quintessential cover of choice for every insufferable bloke who whips out a guitar at a house party – has shed any stigma, and become entwined with an England team that may well represent our best chance of silverware in more than half a century. 
+
+Why *this song* though? And why now? On a very prosaic level, it’s just random happenstance – this was the song that the DJ played after England toppled Croatia in their opening match, and it stuck. It helps, of course, that Oasis were very much back in vogue anyway: the World Cup came almost exactly a year after Oasis kicked off their reunion tour, a feverishly anticipated**,** headline-dominating undertaking that propelled the Gallaghers and their music back to the forefront of public consciousness.
+
+This bout of Oasis-mania redux comes amid a broader mood of Manchesterism – a renewed optimism around the cultural behemoth of a city that gave us, among other things, the Gallagher brothers. This has only been encouraged by the impending arrival of Andy Burnham as prime minister, and his stated intentions to redress the London-centrism of British politics. Even among football fans, where regional animosities are often insurmountable, there has been a softening of sympathies towards England’s so-called second city: last season, many southern neutrals found themselves rooting against the odds for Manchester City, the Premier League’s established fat-cat villains, to triumph, when the alternative was the soul-suckingly defensive football of Mikel Arteta’s Arsenal.
+
+![England’s Harry Kane (centre), England’s Declan Rice (centre left), Jude Bellingham (left) and teammates celebrating the win over Mexico](https://static.the-independent.com/2026/07/07/14/9c0676368906965ae74d2a994ae2d433Y29udGVudHNlYXJjaGFwaSwxNzgzNTE1Mjcx-2.85201116.jpg)
+
+As an adoptive anthem, “Wonderwall” makes logistical sense: it’s easy to sing, and everyone knows the words. (Well, everyone except for Eberechi Eze – to the on-camera bemusement of Kane.) Lyrically Noel Gallagher’s knack for vague affirmations makes “Wonderwall” fit more or less every scenario. Think about it: “All the roads we have to walk are winding / And all the lights that lead us there are blinding.” These are words that could just as easily refer to the football as they could the romantic grumbles of a twentysomething Mancunian lad. The inevitable knockout-stage exit, the bitter disappointment of losing a final, the delirium of victory: it’s all there, if you just squint hard enough.
+
+More than anything though, it’s a matter of vibe. England’s unofficial anthems of yore have often been designed to uplift – from “Three Lions”, with its impotent repetition of “It’s coming home”, to “Vindaloo”, a work of daft nothingness. “Sweet Caroline” was in many ways a fitting accompaniment to the Gareth Southgate era – a naff but upbeat song, for an era when the England camp was defined by cosy optimism and fangless positivity. Southgate’s managerial approach transformed the mood around the men’s national team, and led to England’s most successful period in many decades – albeit, crucially, a period devoid of a major trophy win. By the time England were again spat out of the 2024 Euros as runners up, the crowd had begun to sour on “Sweet Caroline”, and on Southgate’s coaching.
+
+Southgate’s replacement, the German ex-Chelsea manager Thomas Tuchel, is cut from a coarser cloth. A brilliant tactician with a reputation for falling out with his players and his bosses – his last four jobs have gone off the rails two to three years in – he is in many ways the anti-Southgate. Naturally, “Sweet Caroline” isn’t going to cut it. If only Neil Diamond had written a song called “Irascible Martha”, he might have retained his spot.
+
+But, no, ultimately, it had to be “Wonderwall”: the stars feel aligned. More than anything, the song captures the bittersweet reality of being an England supporter at the moment – the torment and the release, the ever-more-real promise of success tempered only by the even-realer possibility of heartbreak. “Maybe, you’re gonna be the one that saves me,” sings Liam – the operative word here being “maybe”. Maybe, maybe, maybe…
