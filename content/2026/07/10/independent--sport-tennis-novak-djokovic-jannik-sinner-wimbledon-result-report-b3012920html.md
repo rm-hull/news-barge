@@ -1,0 +1,32 @@
+---
+title: Novak Djokovic’s new normal painfully repeats itself in Wimbledon ‘blowout’
+source_url: https://www.independent.co.uk/sport/tennis/novak-djokovic-jannik-sinner-wimbledon-result-report-b3012920.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-10T21:16:26Z'
+published: '2026-07-10T00:00:00Z'
+description: After a straight-sets defeat to Jannik Sinner, Djokovic once again leaves
+  a grand slam knowing that the right pieces did not quite fall into place, having
+  already peaked in his epic five-set victory over Felix Auger-Aliassime in the quarter-finals
+image: https://static.independent.co.uk/2026/07/10/20/092fd061365bfeddb9253efbe54fc4d2Y29udGVudHNlYXJjaGFwaSwxNzgzNzk0OTY1-2.85262425.jpg?width=1200&height=800&crop=1200:800
+---
+
+As Novak Djokovic prepared to step out on Centre Court for the most important moment of his Wimbledon fortnight, he did not have to look far for inspiration. Djokovic’s five-set victory over Jannik Sinner in the semi-finals of the Australian Open this season showed that, even now, the 39-year-old could defeat the world No 1 on the sport’s biggest stages. It was the boost he needed ahead of what could be his final opportunity to win a record 25th grand slam title.
+
+But there was one glaring problem. The memory of that night in Melbourne also burned in the back of Sinner’s mind, and the reigning Wimbledon champion ensured there would be no repeat. Instead, the Italian wound back time and fell back into the groove of what had, until January, developed into a one-sided rivalry. Sinner was relentless, producing a masterful serving performance to allow Djokovic just one break point and snuffing out any opportunities the Serbian had to find momentum. His 6-4 6-4 6-4 win also bore a striking resemblance to last year’s semi-final. “Was a good old blowout,” Djokovic smiled. “Nothing much I could do.”
+
+![Sinner produced a serving masterclass to beat Djokovic in straight sets](https://static.independent.co.uk/2026/07/10/20/01KX6JMNHFDP1DDSB6206RKRJY.jpg)
+
+For another reason, too. Djokovic was subdued. Not, like last year’s dismantling on Centre Court, due to injury, but perhaps by fatigue. On Tuesday night, Djokovic played the longest match of his Wimbledon career in defeating the third seed Felix Auger-Aliassime in five hours and 15 minutes. Djokovic had said following his late-night victory that he wished “it was the final”, aware of the difficulty of returning two days later and having to find the same spark against an even tougher opponent. The brutal truth is that, once again, Djokovic had peaked before the biggest challenge of his long quest to claim the standalone grand slam record.
+
+That should not diminish what Djokovic has achieved in reaching the semi-finals of another grand slam, at this stage of his career. “I’m proud of what I achieved three nights ago,” he said. “Proven to myself and others that I can still play at the highest level, and I have. I reached the last four of Wimbledon. Losing in straight sets against the best player in the world, okay. It is what it is. It's the reality you have to accept.” But it also, once again, leaves Djokovic in something of a no man’s land; a level above the rest, yet below what’s required to win a 25th grand slam title. “For me, it's good, but not good enough,” Djokovic said.
+
+Djokovic’s record on grass and his preparation before Wimbledon, where he had been injury free following his early exit from the French Open, raised the possibility that this fortnight could have been his best chance to end his elusive quest for the grand slam record. He confirmed following his defeat to Sinner that he finished a major tournament having stayed injury free, leaving Djokovic having to accept that his performance in the semi-final wasn’t at the “desired level”. Djokovic will be 40 next year and although he expects to be back, the passing of that opportunity left a “bitter taste”.
+
+He could have no complaints that Sinner powered him off the court. The defending champion won 88 per cent of his first-serve points and won the opening point in all but one of his 15 service games, as if playing downhill. “He was just at cruising speed and I couldn't catch him,” Djokovic, perhaps the game’s greatest ever returner, said. Sinner only faced one break point and it came when he was two sets and a break up. Djokovic’s supporters had been waiting for a moment and Centre Court stirred. “Things could have gone in a very tough way, because that’s how tennis is,” Sinner said. He responded with an ace, forehand winner, and another ace.
+
+“Attack? You cannot attack his first serve,” Djokovic said. “You can try to read it, chip it, block it, get it back in play. [It’s a] very unpredictable serve, great variety, great balance, great pop. He's using his height extremely well. Also second serve very deep in the box. A lot of rotation. He can go for speed. He doesn't make many double-faults. He's just super solid. He backs it up with first aggressive shot. If you play a shorter return, you're, again, on your back foot. It's really, really tough to play him, particularly when he serves.”
+
+Then, on the return, Sinner also gave Djokovic no space to breathe. Djokovic’s second serve was pulverised, winning just 34 per cent of those points, as the forehands and backhands lasered across the court by Sinner generated a steady flow of opportunities. In Australia, Djokovic denied Sinner by saving 16 of the 18 break points he faced, including all eight in the deciding fifth set. This time, Djokovic saved 10 of 13, and occasionally raised his level and produced the type of pinpoint serving to save. It’s just, Sinner kept coming back. “I was just not sharp enough, not reactive enough, not balanced enough to play him,” Djokovic said.
+
+The result was Sinner recording his sixth victory from his last seven matches against Djokovic. The defeat in Australia, which ended a run of five victories in a row, proved to be the exception. In hindsight, the circumstances around Djokovic’s path to the semi-finals in Melbourne, with the fourth-round withdrawal of Jakub Mensik and the quarter-final retirement of Lorenzo Musetti, appear more decisive now. Djokovic did not have the same luck at Wimbledon. Instead, his highlight of the tournament arrived before the business end. “I’m not upset with myself,” he said. “I don't think I've done too much wrong.” He will be back next year, still in the hope that the right pieces he needs to fall the right way might just, this time, click into place.
