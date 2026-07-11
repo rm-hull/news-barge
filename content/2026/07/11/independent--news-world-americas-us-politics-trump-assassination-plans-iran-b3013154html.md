@@ -1,0 +1,69 @@
+---
+title: Trump has ‘left instructions’ if he’s assassinated by Iran, he reveals
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/trump-assassination-plans-iran-b3013154.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-11T13:48:32Z'
+published: '2026-07-11T00:00:00Z'
+description: The president repeats a threat to destroy Iran should anything happen
+  to him as a ceasefire collapse in the months-long US war
+image: https://static.independent.co.uk/2026/07/10/18/2284674106..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+After spending several days labeling himself Iran’s “No. 1 target” and warning that he is under constant threat of assassination, President Donald Trump stressed that he left his advisers specific instructions should anything ever happen to him.
+
+“I’ve left instructions — if anything happens, to just literally bomb them at levels that they’ve never seen before,” he told *The New York Post* on Friday. 
+
+Trump has repeatedly indicated that he wants the U.S. military to destroy the country should Iranian officials follow through on alleged plans to assassinate the president. While signing an executive order threatening “maximum pressure” against the regime in February 2025, the president said the country “would be obliterated” if he is killed.
+
+“I’ve left instructions if they do it, they get obliterated, there won’t be anything left,” he said at the time.
+
+Trump swatted away reports that Israel identified a fresh Iranian plot to kill the president, but his latest remarks follow a series of statements and mysterious security measures after leaving this week’s NATO summit in Ankara, Turkey, where he repeatedly said he was at the top of Iran’s kill list and even told reporters they could be on a “dangerous flight” back home as a ceasefire in the months-long war collapsed.
+
+The president said Israel “came up with nothing.”
+
+“No, no. Israel came up with nothing. No, no,” he told *The Post*. “I’ve been No. 1 [on Iran’s kill list] for a long time, and it’s the way life is, you know. … I hope you’ll miss me.”
+
+During a press conference on Wednesday, Trump again put himself at “No. 1 on the list for killing.”
+
+Asked by a reporter why they were told to close their window blinds on Air Force One during a return trip, Trump said, “Because you’re probably on a dangerous flight.”
+
+Asked whether he was aware of any credible threat by Iran against the fortified presidential plane, Trump said, “Well, I have a threat all the time. I’m No. 1 on their list, before you. But if I go, you go. Perhaps someday you want to change professions.”
+
+Iran has openly vowed to retaliate against Trump for a lethal drone strike in 2020 that killed Qassem Soleimani, commander of the elite Quds Force with Iran’s Revolutionary Guards Corps, after he had survived several assassination attempts from western, Israeli and Arab states over the past two decades.
+
+Calls for Trump’s death have only accelerated with the monthslong U.S.-Israel war in Iran that has killed Supreme Leader Ali Khamenei, among other top Iranian officials.
+
+By 2024, U.S. intelligence officials had reportedly collected evidence they believe shows Tehran was seeking ways to kill then-candidate Trump.
+
+In September of that year, Trump claimed there were “big threats on my life by Iran.” The two assassination attempts against then-candidate Trump that summer were not linked to Iran.
+
+One month earlier, a Pakistani national with alleged ties to Iran was accused of seeking to carry out a murder-for-hire plot targeting U.S. government officials, according to federal prosecutors.
+
+Asif Raza Merchant was accused of joining a complex plot to carry out the assassinations, including trying to hire hit men who were undercover officers, according to an indictment.
+
+In November 2025, a fugitive Iranian government operative was accused of hiring a pair of New Yorkers he met in prison to carry out an assassination plot against a critic of the regime. He allegedly admitted to FBI agents that he’d also been tasked with finding a hit squad to kill Trump, who had just been elected president.
+
+Farhad Shakeri claimed he was asked by regime officials to “put aside his other efforts... and focus on surveilling, and, ultimately, assassinating” Trump, according to a criminal complaint in Manhattan federal court.
+
+Weeks after he returned to the White House in February 2025, Trump threatened that Iran would be “obliterated” if he was assassinated by state actors.
+
+“That would be a terrible thing for them to do,” he told reporters. “Not because of me. If they did that, they would be obliterated. That would be the end. I’ve left instructions: if they do it, they get obliterated. There won’t be anything left.”
+
+Last January, weeks before the U.S. launched a series of strikes on Iran’s nuclear facilities, Iranian President Masoud Pezeshkian stressed that Iran “never attempted” to kill Trump, “and we never will.”
+
+“This is another one of those schemes that Israel and other countries are designing to promote Iranophobia,” Pezeshkian told NBC News at the time. “Iran has never attempted to, nor does it plan to assassinate anyone. At least as far as I know.”
+
+Asked whether there have been any plots against the president under Iran, he insisted there have been “none whatsoever.”
+
+Iranian foreign ministry spokesperson Esmaeil Baghaei also said at the time that the allegations were part of a “repulsive” plot by Israel to “complicate matters between America and Iran.”
+
+Trump, meanwhile, has repeatedly threatened to destroy the entire country.
+
+Iran will be “blown off the face of the earth” and “a whole civilization will die” if ceasefire negotiations fall apart and attacks on ships through the Strait of Hormuz continue, the president said earlier this year.
+
+In his remarks to NATO this week, Trump recounted the toll of U.S. strikes in Iran over the last several months before adding that he also might be “gone” if the war continues.
+
+“They had leaders. They’re gone, and they had another set of leaders. They’re gone,” he said.
+
+“Now they have another set of leaders, they may be gone, who knows, and you know what, I may be gone too, because I’m their No. 1 target,” he added.
