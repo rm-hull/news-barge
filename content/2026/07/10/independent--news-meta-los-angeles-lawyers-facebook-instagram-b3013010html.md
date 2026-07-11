@@ -1,0 +1,36 @@
+---
+title: Meta appeals landmark jury verdict that found it to blame for social media
+  addiction for young users
+source_url: https://www.independent.co.uk/news/meta-los-angeles-lawyers-facebook-instagram-b3013010.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-11T03:35:23Z'
+published: '2026-07-10T00:00:00Z'
+description: Meta, the parent company of Instagram and Facebook, is appealing the
+  verdict of a landmark social media addiction lawsuit in Los Angeles
+image: https://static.independent.co.uk/2026/07/11/00/Social_Media_Kids_Trial_76726.jpg?width=1200&height=800&crop=1200:800
+---
+
+Meta, the parent company of Instagram and Facebook, has appealed the verdict of a landmark social media addiction lawsuit in Los Angeles, challenging the jury's determination that the company designed its platforms to hook young users without concern for their well-being.
+
+Lawyers representing Meta filed a notice of appeal Tuesday in Los Angeles County Superior Court. The lawyers will provide their arguments related to the appeal in subsequent court filings.
+
+The case centered on a 20-year-old woman who said she became addicted to social media as a child and that it worsened her mental health struggles. The jury found that negligence by both Meta and Google-owned YouTube, which was also a defendant in the case, was a substantial factor in causing harm to the young woman, identified in court only by her initials, KGM, and her first name, Kaley.
+
+The jury awarded her $3 million in damages and recommended an additional $3 million in punitive damages. Her lead attorney, Mark Lanier, said in a statement Friday that the legal team is expecting the appellate court to “continue the careful application of the law to this case, affirming the verdict of the trial court.”
+
+A notice of appeal starts what can be a lengthy process. A Meta spokesperson provided a statement Friday that they also gave when the jury returned the verdict in March, saying that teen mental health is “profoundly complex and cannot be linked to a single app.”
+
+José Castañeda, a spokesperson for Google, said in a statement Friday that YouTube plans to appeal and that “these are standard motions for this case to move forward.”
+
+Meta and Google had each filed post-trial motions for judgment notwithstanding the verdict — a routinely filed motion by defense lawyers asking a judge to toss out the jury’s verdict — and for a new trial. The trial judge, Carolyn B. Kuhl, denied those motions in early June.
+
+Tech companies like Meta and YouTube are shielded from legal responsibility for content posted by third parties, based on Section 230 of the 1996 Communications Decency Act. To get around those protections, the plaintiffs focused on the design features of the platforms like “infinite scroll,” or the endless nature of feeds on the platforms, and autoplay functions.
+
+Questions about encroaching into content-related territory were the subject of many objections from the defendants throughout the five-week trial.
+
+The verdict in this case came during a time of legal woes for Meta, the parent company of Instagram and Facebook. A jury in New Mexico returned a verdict finding that Meta's platforms harm children’s mental health and safety just one day before the California jury reached its decision. The New Mexico jury, siding with state prosecutors who brought the case, landed on a penalty of $375 million. Meta has said the company disagrees with the verdict and will also appeal in that case.
+
+“We will continue to defend ourselves vigorously, and we remain confident in our record of protecting teens online,” a Meta spokesperson said in a statement at the time of the verdicts and again on Friday.
+
+Kaley's case was a first-of-its-kind lawsuit, and the verdict could influence the outcome of thousands of similar lawsuits accusing social media companies of deliberately causing harm. TikTok and Snapchat parent company Snap Inc. were also initially named as defendants in the case, but each settled for undisclosed sums before the trial began.
