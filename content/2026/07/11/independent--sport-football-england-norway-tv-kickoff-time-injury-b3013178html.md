@@ -1,0 +1,18 @@
+---
+title: What you need to know about England v Norway
+source_url: https://www.independent.co.uk/sport/football/england-norway-tv-kickoff-time-injury-b3013178.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-11T17:10:50Z'
+published: '2026-07-11T00:00:00Z'
+description: ''
+image: https://static.independent.co.uk/2026/07/09/13/18/GettyImages-2284813724.jpeg?trim=7,0,7,0&width=1200&height=800&crop=1200:800
+---
+
+From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financials of Elon Musk's pro-Trump PAC or producing our latest documentary, 'The A Word', which shines a light on the American women fighting for reproductive rights, we know how important it is to parse out the facts from the messaging.
+
+At such a critical moment in US history, we need reporters on the ground. Your donation allows us to keep sending journalists to speak to both sides of the story.
+
+The Independent is trusted by Americans across the entire political spectrum. And unlike many other quality news outlets, we choose not to lock Americans out of our reporting and analysis with paywalls. We believe quality journalism should be available to everyone, paid for by those who can afford it.
+
+**Your support makes all the difference.**
