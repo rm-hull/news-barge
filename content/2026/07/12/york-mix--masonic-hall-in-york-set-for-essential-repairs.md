@@ -1,0 +1,50 @@
+---
+title: Masonic Hall in York set for ‘essential’ repairs
+source_url: https://www.yorkmix.com/masonic-hall-in-york-set-for-essential-repairs
+source_site: York Mix
+source_slug: york-mix
+scraped_at: '2026-07-12T21:03:26Z'
+published: '2026-07-12T00:00:00Z'
+description: ''
+image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/eboracum-masonic-lodge-st-saviourgate-york-wk.webp
+---
+
+An historic Freemasons’ meeting hall is set for repairs under new plans.
+
+The Masonic Hall, in St Saviourgate, would undergo repairs including removing loose paint and filling cracks to stop water seeping into the front of the building.
+
+An application lodged by planning agents Bartlett Mettham stated the replacement of existing finishes with traditional materials would reverse the damage caused by inappropriate maintenance.
+
+Plans lodged with City of York Council would see works done to the Grade II-listed building, which was constructed in 1845-6, to address deterioration caused by weathering.
+
+The deterioration has been caused by water run-off and trapped moisture, according to the application.
+
+Large, irregular sheets of white topcoat have peeled away to expose heavily-weathered render underneath in what applicants said was the most severe defect.
+
+Water pooling has also lead to dark green algae staining first floor across arched windowsills on the first floor with weeds also growing in rainwater pipes and elsewhere.
+
+Widespread paint flaking, bubbling and staining has also been found on base plinths and under window recessed panels.
+
+Approval of the plans would see scaffolding go up at the front of the building so repairs could take place.
+
+![](https://wp.theyorkmix.com/wp-content/uploads/2026/07/york-masonic-hall-damage-pd.webp)
+
+St Saviourgate would remain open to traffic during the works.
+
+Weeds and other organic matter would be cleared and non-destructive masonry biocide would be applied to the building.
+
+Failing paint layers would be stripped back and the substrate would then be inspected for underlying defects.
+
+Structurally compromised or blown render would be cut back and repaired using traditional methods.
+
+The front of the building would then be finished with materials such as a material silicate paste or traditional limewash.
+
+Plans stated the repairs aimed to preserve the historic building, extend its lifespan and safeguard its long-term structural survival.
+
+The application stated: “The proposed conservation works represent a highly beneficial, restorative, and essential intervention for the Masonic Hall.
+
+“Adopting a strategy of minimal intervention ensures that the historic fabric is structurally safeguarded, avoiding the accelerated decay, freeze thaw spalling, and internal dampness that would inevitably occur under a do nothing scenario.
+
+“Ultimately, these sensitive repairs will restore the building’s classical symmetry and architectural clarity, delivering a substantial visual enhancement to the streetscape and the wider York Central Historic Core Conservation Area.”
+
+The hall was originally built opened as the Institute for Popular Science and Literature in 1846 before being converted into a Masonic Hall in the 1880s.
