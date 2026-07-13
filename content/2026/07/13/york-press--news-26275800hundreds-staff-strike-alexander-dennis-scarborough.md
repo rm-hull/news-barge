@@ -1,0 +1,35 @@
+---
+title: Second wave of strikes to shut down major North Yorkshire factory
+source_url: https://www.yorkpress.co.uk/news/26275800.hundreds-staff-strike-alexander-dennis-scarborough/
+source_site: York Press
+source_slug: york-press
+scraped_at: '2026-07-13T14:56:30Z'
+published: '2026-07-13T00:00:00Z'
+description: Industrial action at a major North Yorkshire bus factory will ‘not end’
+  until an improved pay offer is presented, a trade union has said.
+image: https://www.yorkpress.co.uk/resources/images/21176354.jpg?type=og-image
+---
+
+Industrial action at a major North Yorkshire bus factory will ‘not end’ until an improved pay offer is presented, a trade union has said.
+
+Around 400 workers are set to walk out for a second time in weeks at the bus manufacturer Alexander Dennis’ Scarborough factory in a dispute over wages.
+
+The first round of strike action took place from June 25 to July 1, and workers have rejected a four per cent offer from the company after “the cost-of-living crisis was compounded by years of sub-par pay increases”.
+
+They are set to strike again, shutting down the factory’s operations from July 16 to 20.
+
+Further dates will be scheduled if the dispute is not resolved, according to trade union officials.
+
+The union Unite said that between August 2021 and May 2026, the Retail Prices Index (RPI) rose by approximately 35.1 per cent and factoring in pay rises increases to date, the wages of workers had fallen 19.8 per cent behind the cost of living.
+
+Unite general secretary Sharon Graham said: “These workers have seen their pay plummet in real terms. Enough is enough. Alexander Dennis must come back with a pay offer that matches their hard work and commitment. Strikes will not end until that happens.”
+
+A spokesperson for Alexander Dennis previously said it was “one of the top-paying employers in Scarborough” and had made “a very fair and above-inflation offer of a four per cent pay rise”.
+
+They added: “The UK bus manufacturing sector is under intense pressure – costs are rising and half of all new buses now come from overseas. Against this backdrop, it is incredibly disappointing that our offer has been rejected.
+
+“We are committed to working with the union and our team members to bring this matter to a resolution. We do not expect customer deliveries to be affected in the meantime.”
+
+Unite regional officer Dan Stephens said: “Alexander Dennis is entirely responsible for the disruption at its Scarborough factory.
+
+“It could put forward an acceptable offer but is choosing not to. That is the only way this dispute will end.”
