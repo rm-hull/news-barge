@@ -1,0 +1,27 @@
+---
+title: BBC murder mystery show I, Jack Wright is frustratingly shallow
+source_url: https://www.independent.co.uk/arts-entertainment/tv/reviews/i-jack-wright-review-bbc-cast-episodes-b3013606.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-13T07:33:03Z'
+published: '2026-07-13T00:00:00Z'
+description: New release from the writer of ‘Unforgotten’ can’t decide whether it’s
+  a pantomime potboiler or a more refined dynastic drama
+image: https://static.the-independent.com/2026/07/10/9/21/568968.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+All the conventions of a Golden Age murder mystery are present in BBC One’s new six-part drama, *I, Jack Wright*. There’s the big country house, the ageing patriarch and his disappointing children, the suspicious new wife, and then a shocking and contested will reading. But can this family saga, set in the present day, successfully evoke the worlds of Christie and Sayers? Or is it doomed to feel like an exhumed corpse, tired and derivative, lacking in the realism that typifies the modern detective drama?
+
+Jack Wright (Trevor Eve) is a millionaire industrialist. He lives in a rambling pile with his third wife Sally (Nikki Amuka-Bird) and their two children. His relationship with his older kids is more strained: there’s feckless layabout Gray (John Simm), who has run into serious money troubles, and try-hard John (Daniel Rigby), who is determined to inherit his father’s brick-baking business. Then there’s Gray’s daughter Emily (Ruby Ashbourne Serkis, daughter of Andy), a tech entrepreneur and the apple of grandad’s eye. When Jack is found dead from an apparent suicide, the family gathers for a reading of his will. But nothing, from there, turns out quite as expected. “Certainly I thought I knew him,” Sally admits. “Obviously I was wrong.”
+
+This is a classic rug pull, one that has been deployed in everything from Agatha Christie’s *The Mysterious Affair at Styles* to AA Milne’s*The Red House Mystery*. Writer Chris Lang, creator of ITV’s* Unforgotten*, faithfully recreates these tropes in a modern setting. His detective, DCI Hector Morgan (Harry Lloyd) is a cypher, given some vague backstory but largely confined to pursuing members of the Wright family across the country. “Even on a murder investigation, most of the people you encounter are normal, decent human beings,” he says. “But this bunch…” 
+
+Indeed, Morgan is often on the periphery of the action, which usually takes place behind closed doors, as the Wrights cross-examine each other. Lloyd is charming, in a low-key way, but the detective is an important vector in crime dramas, carrying clues and suspicions from one suspect to another. Here, he feels rather superfluous, as though the show had run out of character descriptions.
+
+Murder mysteries don’t necessarily encourage subtlety, but *I, Jack Wright* draws attention to that by the use of a mockumentary device to bookend each episode. Characters are interviewed, two years later, for an apparent true crime documentary, but the tone of the scripts remains heightened, the performances broad. In fact, across the series, the quality of acting and writing is rather variable. “He had a gnawing void in his soul that he filled with houses and wives and money, rather than love,” rages Simm’s discontented son, rather hysterically, as he finds out the true depths of his father’s disregard. Simm, alongside the headline cast members like Eve and Gemma Jones as the terminally ill first wife, Rose, enjoy themselves with indulgent performances, but some of the extended cast feel strangely subdued. Dramatically there are two shows happening simultaneously: a rather pantomime potboiler, and a more refined dynastic drama. As a result, the show feels like it was assembled from slightly disconnected parts. 
+
+To some extent, a crime drama like this can only truly be judged on how satisfying the mystery element is. Unlike Lang’s previous work on *Unforgotten*,* I, Jack Wright*does not aspire to much beyond the pure pleasure of the puzzle. Alibis are broken and secrets unveiled, yet the cast of characters remain frustratingly shallow. To some extent this is true of the archetypes of the genre (Simm’s Gray is the wastrel, Rigby’s John is the striver, Jones’s Rose is the martyr) yet, over the course of six 45-minute episodes, they start to feel unengaging. And while Lang is clearly enamoured with the conventions of Golden Age fiction, the more modern elements of the narrative (a social media app, corporate due diligence proceedings, a deeply indebted record label) drag the show towards the contemporary crime thriller. This creates a contradiction: the classic detective ticks are the most successful parts of the show, yet it could learn something from the likes of* Unforgotten*, in terms of the emotional heft.
+
+![The cast of 'I, Jack Wright'](https://static.the-independent.com/2026/07/10/9/09/568943.jpeg)
+
+After the success of the *Knives Out* franchise and cozy crime thrillers like*The Thursday Murder Club*, it feels as though the Golden Age murder mystery is back with a vengeance.* I, Jack Wright* is undoubtedly cashing in on that trend, albeit in a rather ham-fisted way. It’s hard to escape the feeling that the show could have done with a more distinctive detective presence and some added emotional profundity. Otherwise, it might be asking too much, for a lot of viewers, to endure all six episodes to finally arrive at the solution to the crime.
