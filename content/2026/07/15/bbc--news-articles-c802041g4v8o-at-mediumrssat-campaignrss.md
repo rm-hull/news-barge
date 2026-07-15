@@ -1,0 +1,67 @@
+---
+title: UK's extreme weather is the new normal - Met Office
+source_url: https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-15T14:05:04Z'
+published: '2026-07-15T00:00:00Z'
+description: The latest report on the UK's climate warns cold mountainous areas are
+  also being lost.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg
+---
+
+![A woman with a bandana holding a blue fan sitting on the London underground](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/3c0a/live/6c1a2520-8039-11f1-86b6-ffbb9ce74513.jpg)
+
+Public transport can overheat during heatwaves in the UK
+
+**Weather that was once considered extreme is becoming the "new normal", according to the latest Met Office report on the UK's climate.**
+
+It shows the hottest day of the year in the south of England is now typically 4.5C warmer than it was in 1961-1990.
+
+The scientists say that the country's climate is "on the move" as northern areas of Britain now see warmer temperatures that used to only affect southern England.
+
+Homes, schools, hospitals, and transport networks are struggling to cope with back-to-back heatwaves this summer, exposing how unprepared the UK is for climate change.
+
+"We are right now living in a time of historic and unprecedented change, and in terms of temperature, on annual, seasonal, monthly and daily timescales, this evidence shows the climate of the 20th Century has now gone," said Mike Kendon, Met Office climate information scientist.
+
+The report confirmed that 2025 was the warmest year on record since data began to be collected in 1884.
+
+It highlighted that we are now experiencing the effects of climate change.
+
+The decade 2016-2025 was 1.33C warmer than 1961-1990. Seemingly small increases in average temperatures can increase the likelihood of spikes in extreme temperatures.
+
+The report focused on extremes in high temperatures because these often have the greatest impact on people.
+
+The number of days over 30C and nights over 18C has more than quadrupled for Greater London in the period 2016-2025, compared to 1961-1990.
+
+![A man leaning over a fountain to pour water on his neck. A woman holding a water bottle under the fountain tap.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/5c9a/live/17f0c6b0-803a-11f1-86b6-ffbb9ce74513.jpg)
+
+Amber alerts have been issued during heatwaves this year warning people about the dangers of heat
+
+In the southeast of England, "we are seeing the emergence of new warmer climates", explains Kendon.
+
+At the same time areas including Vale of York and Lancashire have similar temperatures now to those seen in Greater London in 1961-1990.
+
+"Think of this warming as moving north and uphill," Kendon explains, highlighting that the UK is losing the coldest habitats from the tops of mountains.
+
+The impacts of extreme heat have been seen this summer, as people in many parts of the UK experienced days of above-average temperatures and high humidity.
+
+More than 2,700 people may have died from heat-related causes in England and Wales during the exceptionally hot weather in May and June, according to experts at Imperial College London, the Met Office and the London School of Hygiene and Tropical Medicine.
+
+The scientists also assessed availability of water in spring and summer, and drought frequency.
+
+In spring 2025, most of England and Wales received less than half of the 1991-2020 average rainfall. England had its driest spring for over 100 years.
+
+The total amount of water moving through rivers in England in March to August 2025 was the second lowest since 1961.
+
+Climate change is expected to bring more severe winter rainfall and flooding in the UK, but hotter and drier summers are projected to bring more severe droughts in the future.
+
+Lack of rainfall also affects soil and food production.
+
+This year soils were drier than average for the time of year across central and southern England towards the end of June.
+
+Plant growth can be stunted in dry soil, affecting animals or birds that rely on them for food or the success of a food crop.
+
+Parched landscapes increase the risk of wildfires, and dry soil heats up more quickly and can amplify heatwaves.
+
+![Thin, green banner promoting the Future Earth newsletter with text saying, “The world’s biggest climate news in your inbox every week”. There is also a graphic of an iceberg overlaid with a green circular pattern.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8c6c/live/f9295fc0-0fde-11f0-ba12-8d27eb561761.png)

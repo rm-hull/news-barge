@@ -1,0 +1,58 @@
+---
+title: Trump’s Reflecting Pool fence could be up until January 2027, docs show
+source_url: https://www.independent.co.uk/news/world/americas/us-politics/lincoln-memorial-reflecting-pool-donald-trump-fence-b3014887.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-15T14:05:01Z'
+published: '2026-07-15T00:00:00Z'
+description: 'First in The Independent: National Construction Rentals, Inc. of Mission
+  Hills, California was awarded the $37,263 job, which runs through January 8, 2027,
+  an official contract summary shows'
+image: https://static.independent.co.uk/2026/07/14/19/15/GettyImages-2284781898.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+The “temporary” chain link fence blocking public access to the Lincoln Memorial Reflecting Pool in the aftermath of President Trump’s shambolic overhaul of the iconic site could be in place until early next year, according to federal procurement records reviewed by *The Independent*.
+
+National Construction Rentals, Inc. of Mission Hills, California, was awarded the $37,263 job, which runs through January 8, 2027, an official contract summary shows. The Secret Service hired the same company in 2019 to erect “barricades and fencing” around Trump’s private Mar-a-Lago club in South Florida, which cost taxpayers some $17,000.
+
+The fence went up following Trump’s bungled revamp of the historic Washington, D.C. landmark, which the president wrongfully claimed had been poorly maintained by presidents Joe Biden and Barack Obama. In April, Trump said the renovation would be completed ahead of the July 4 holiday, at a cost of $2 million.
+
+Since then, the price ballooned to nearly $15 million, the “American Flag Blue” paint Trump specified for the pool’s bottom – a no-bid contract given to the president’s “pool guy” – peeled off in large swaths, while a massive algae bloom turned the water a dull, murky green.
+
+Trump has not been forthcoming about when the fencing would come down, issuing a White House missive that blamed “[c]razed and deranged lunatics,” without providing evidence, for the damage. Numerous people have been arrested and charged with vandalism, including U.S. Olympic canoeist David Hearn, 67, who pleaded not guilty last week, contending he merely reached into the pool and briefly touched the bottom, out of interest.
+
+![Although the White House has been tight-lipped about when the fencing will come down, procurement data tells a different story](https://static.independent.co.uk/2026/07/14/19/00/GettyImages-2284781898.jpeg)
+
+Craig Holman, a federal ethics and government affairs expert at Public Citizen, the nonprofit D.C. watchdog, told *The Independent* that the entire project has been a bust from the get-go.
+
+“The fencing around the reflecting pool is wholly unnecessary and the result of Trump trying to cover up a costly mistake,” Holman said. “There are no dangers either to the reflecting pool or to sightseers curious about the flaking of the paint job. The purpose of the fencing is simply to prevent curious citizens from gathering and displaying the fraying paint flakes, which Trump fears would further publicize the foolishness of his decision to paint the pool and to choose political supporters who otherwise lack the qualifications to do the painting.”
+
+Before the project became an embarrassment for Trump, he proudly told reporters that he had lined up a contractor that did work at his golf course in Sterling, Virginia.
+
+“I have a guy who’s unbelievable at doing swimming pools up the road,” Trump said. “He looked at it. He called me up. He said, ‘Sir, we can do something on it.’”
+
+In a previous statement to *The Independent*, White House spokesperson Taylor Rogers said the pool modernization was “being completed at ‘Trump Speed.’”
+
+But when the results were not up to par, Trump suddenly insisted that he had no connection to the painting company he purportedly selected.
+
+The president grumbled that the 104-year-old reflecting pool “never looked great,” claiming that the muted dark grey stone lining the basin was “not really meant to be… underwater for that much of a period of time.”
+
+![Visitors are less than enchanted by the chain link fence now surrounding the Lincoln Memorial Reflecting Pool, and it could be in place until January 2027. The fencing was put up after President Donald Trump claimed vandals had attacked the renovations](https://static.independent.co.uk/2026/07/14/19/27/GettyImages-2283104680.jpeg)
+
+Yet, the original color of the pool’s bottom was “fundamental to the solemn and hallowed visual and spatial connection between the Washington Monument and the Lincoln Memorial,” between which the 2,030-foot landmark sits.
+
+“A blue-tinted basin is more appropriate to a resort or theme park,” Charles Birnbaum, founder of the nonprofit Cultural Landscape Foundation, said in May, when the paint job was announced.
+
+The organization filed a lawsuit seeking to stop the pool’s redo, arguing that the Trump administration never bothered to have the project reviewed as mandated by the National Historic Preservation Act.
+
+Lawmakers also stepped into the fray, with Sen. Richard Blumenthal (D-CT), ranking member of the Permanent Subcommittee on Investigations, penning a letter to the CEO of Atlantic Industrial Coatings, which painted the pool.
+
+“The American people deserve to know whether excess taxpayer dollars are being used – without the authorization of Congress – to reward the President’s preferred partners and desecrate national landmarks,” Blumenthal wrote.
+
+Last week, crews began hanging black tarps on the fence surrounding the Reflecting Pool, which will now be drained for the second time in three months, for continuing repairs.
+
+“It’s not very welcoming,” one tourist told WTOP. “It makes me feel like we are in a construction zone, or somebody’s done something very bad.”
+
+Another called the entire endeavor “disappointing,” and said they viewed the Trumpian vanity project as “quite frankly, a waste of money.”
+
+Asked for comment, the White House referred *The Independent* to the National Park Service, which did not immediately respond to emailed questions about the apparent January date for the fence’s removal.
