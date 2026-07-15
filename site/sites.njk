@@ -6,7 +6,7 @@ permalink: /sites/
 <section class="index-section">
   <h1 class="page-title">Tracked sites</h1>
   <ul class="site-list">
-    {% for site in sites | sort(attribute='name') %}
+    {% for site in sites | sort(attribute='sortName') %}
     <li class="site-card">
       <a href="/sites/{{ site.slug }}/">{{ site.name }}</a>
       <span class="site-meta">{{ collections.articlesBySite[site.slug] | length }} articles</span>

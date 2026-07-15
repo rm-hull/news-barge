@@ -26,7 +26,11 @@ export default function (eleventyConfig) {
   // Make sites.yaml available as {{ sites }} in templates
   eleventyConfig.addGlobalData('sites', () => {
     const raw = readFileSync(join(__dirname, '../sites.yaml'), 'utf-8');
-    return yaml.load(raw).sites;
+    const sites = yaml.load(raw).sites;
+    sites.forEach((site) => {
+      site.sortName = site.name.replace(/^The\s+/i, '').toLowerCase();
+    });
+    return sites;
   });
 
   // ── Collections ──────────────────────────────────────────────────────────
