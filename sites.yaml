@@ -70,7 +70,7 @@ sites:
     listing_url: https://www.yorkpress.co.uk/news/
     force_playwright: true
     listing_class: "omnicard"
-    listing_link_pattern: '/news/'
+    listing_link_pattern: "/news/"
     resolve_relative_to_root: true
     limit: 50
 
@@ -137,3 +137,9 @@ sites:
     limit: 50
     trust_insecure_certs: true
     categories: [Local, Government, Knaresborough]
+
+  - name: Yorkshire Post
+    slug: yorkshire-post
+    feed: https://www.yorkshirepost.co.uk/news/rss
+    categories: [Local, Harrogate, York]
+    limit: 100
