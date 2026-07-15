@@ -1,0 +1,18 @@
+---
+title: Why the England v Argentina referee could be a good omen for Lionel Messi
+source_url: https://www.independent.co.uk/bulletin/sport/england-v-argentina-referee-ismael-elfath-messi-b3015686.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-15T21:11:58Z'
+published: '2026-07-15T00:00:00Z'
+description: ''
+image: https://static.independent.co.uk/2026/07/15/20/2026-07-15T190303Z_535429605_UP1EM7F1GX0S9_RTRMADP_3_SOCCER-WORLDCUP-ENG-ARG.JPG?trim=0,15,0,15&width=1200&height=800&crop=1200:800
+---
+
+# Why the England v Argentina referee could be a good omen for Lionel Messi
+
+- American official Ismael Elfath has been appointed as the referee for England’s World Cup semi-final against Argentina on Wednesday.
+- This could be a good omen for Argentine superstar Lionel Messi, as Elfath was the referee when Messi’s Inter Miami won the 2023 Leagues Cup, while he has also been the man in the middle for three MLS regular season wins for Messi’s team.
+- Elfath was also the fourth official when Argentina beat France on penalties in the 2022 World Cup final.
+- Elfath, 44, was the referee when Norway knocked Brazil out of the World Cup in the last-16, while he also took charge of group matches between the Netherlands and Japan, plus Spain v Uruguay.
+- England will hope to end Messi’s winning run when Elfath is the referee, as the Three Lions aim to reach their first World Cup final since 1966.
