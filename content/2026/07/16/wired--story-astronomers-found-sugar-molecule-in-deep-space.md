@@ -1,0 +1,33 @@
+---
+title: Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever
+source_url: https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-07-16T10:20:36Z'
+published: '2026-07-16T00:00:00Z'
+description: Researchers identified traces of erythrulose, a monosaccharide, thousands
+  of light-years away.
+image: https://media.wired.com/photos/6a57c0134de2a00b6b98bb26/191:100/w_1280,c_limit/centro%20de%20la%20galaxia.jpg
+---
+
+For the first time in history, astronomers have detected a sugar molecule floating among the gas clouds of interstellar space.
+
+Erythrulose has four carbon atoms, and on Earth, it occurs naturally in some fruits. Its presence 26,000 light-years away could help untangle the mystery of the origin of life on our planet.
+
+The study was published this week in Nature Astronomy. The team, led by Izaskun Jiménez Serra, analyzed data captured by radio telescopes in Spain to identify the molecule’s signature in the microwave frequencies it produces as it rotates.
+
+Sugar molecules are essential for life. They fuel cells and are part of RNA and DNA. Yet scientists still don't know how they accumulated in large enough quantities on the early Earth. One possibility is that some of the molecules did not originate on the planet but instead reached Earth via meteorites.
+
+For the new study, the researchers focused on molecular cloud G+0.693−0.027, a location they didn't choose at random. G+0.693−0.027 is among the regions richest in molecules in the entire Milky Way. It is located near the supermassive black hole at the center of the galaxy, and collisions with another cloud appear to have turned the region into a veritable chemical factory. Researchers had already detected alcohols, aldehydes, urea, ethanolamine, hydroxylamine, and dozens of complex organic molecules. Now, sugar is in the mix.
+
+The idea that some sugars might have come from space gained traction in December 2025, when scientists confirmed that the asteroid Bennu contained ribose and other monosaccharides. Ribose is a fundamental sugar in RNA. The new study reveals another type of space sugar, this one from the ketose family. On Earth, it's found in tanning lotions and raspberries.
+
+The data came from two radio telescopes located in Spain. One is at the Yebes Observatory, northeast of Madrid, while the other is at the Institute for Radio Astronomy in the Millimeter Range, which is sited near a ski resort in the Sierra Nevada mountains.
+
+“The presence of multiple prebiotic organic molecules in meteorites and asteroids is well known, including some monosaccharides, but their origin is unclear," Jesús R. Flores, a professor at the University of Vigo who did not participate in the study, told *Science Media Center Spain*. “One obvious possibility is that they form, initially, in the so-called interstellar medium. However, until now, no true saccharide had been detected there. Erythrulose, a four-carbon ketomonosaccharide, is the first.”
+
+This is a major advance in understanding of space molecules, but the presence of sugars does not constitute evidence of extraterrestrial life, nor does it explain the origin of life on Earth or RNA. What an increasing number of studies indicate is that the chemical building blocks associated with prebiotic chemistry can also be found in space.
+
+The new study demonstrates, for the first time, that an interstellar monosaccharide can be synthesized. This particular sugar isn't essential for life, though it can be converted into building blocks that might be.
+
+*This story originally appeared on* WIRED en Español*and has been translated from Spanish.*
