@@ -1,0 +1,35 @@
+---
+title: Amusement arcade's repair works given the green light
+source_url: https://www.gazetteherald.co.uk/news/26291017.decision-whitby-amusement-arcades-retrospective-repair-works/?ref=rss
+source_site: Gazette & Herald
+source_slug: gazette-herald
+scraped_at: '2026-07-17T21:06:04Z'
+published: '2026-07-17T00:00:00Z'
+description: A popular amusement arcade in Whitby has been given the green light for
+  repair works to its building.
+image: https://www.gazetteherald.co.uk/resources/images/21020068.jpg?type=og-image
+---
+
+A popular amusement arcade in Whitby has been given the green light for repair works to its building.
+
+The owners of Funland and Fun City Amusements at 24 Pier Road, Whitby, applied for planning permission for repair works that had already been carried out.
+
+Mark Miller’s retrospective application was for the removal and replacement of the building’s roof at Pier Road, which forms one of the town’s most prominent historic frontages.
+
+Concerns were raised by North Yorkshire Council about the use of uPVC tiles – made from a rigid and durable synthetic material – which it said was a deviation from the previous and more traditional clay pantiles that would have been historically used.
+
+“It is stated in the submitted heritage statement that the tiles that have since been removed were not original and have been replaced several times over the years. There are no historic planning applications for re-roofing on the council’s record, and as such this cannot be verified,” a planning report notes.
+
+However, due to the site’s location and the position of the roof tiles, officers said the views of the roof from street level are “limited” and that they did not consider it to have a “detrimental impact on the visual amenity of the surrounding area”.
+
+They added that the development was considered appropriate and would not cause any harm to the visual appearance of the host property or surrounding area.
+
+Although the application site is not listed, it is directly adjacent to 23 Pier Road, a Grade-II listed property of 18th century origin.
+
+Planners said the site itself had limited architectural significance due to the historic fabric of the conservation area.
+
+A planning report said: “On balance, while uPVC would often not be acceptable in the area, its location and limited visual aspect would mean that it has a neutral impact on the conservation area.
+
+“The proposal would be sympathetic to the existing building and would not result in a disproportionate impact on the character of the conservation area and neighbouring amenity”.
+
+North Yorkshire Council approved the application, subject to conditions, on Thursday, July 9.
