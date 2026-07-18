@@ -1,0 +1,83 @@
+---
+title: Labour pins hopes on Andy Burnham reboot as he plans policy blitz
+source_url: https://www.bbc.co.uk/news/articles/cjd45xmexnyo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-18T03:23:27Z'
+published: '2026-07-17T00:00:00Z'
+description: There is belief in the party that the new leader could put Labour back
+  in the political match, political editor Chris Mason writes.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04ef/live/10bca980-8220-11f1-b966-41edf3b346b4.jpg
+---
+
+![Newly confirmed Labour Party leader Andy Burnham speaks with local stakeholders and party supporters about his plan to deliver good growth in every postcode across the country, during a visit to Gravesend Town Pier in Kent. The former Greater Manchester mayor, who returned to Westminster last month as Makerfield MP, will take over as prime minister and enter No 10 on Monday. Picture date: Friday July 17, 2026.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/04ef/live/10bca980-8220-11f1-b966-41edf3b346b4.jpg)
+
+**It must feel like one of the biggest weekends of Andy Burnham's life. Downing Street beckons for a man who has long dreamed of leading his party and his country.**
+
+"16 years we've been thinking about this, and it's still felt like a rush in the last few weeks," admitted one supporter.
+
+A key thing to remember with Burnham's rise to this moment is that it happened slowly for a long time, and then happened quickly in next to no time at all.
+
+It was way back in 2010 that Burnham's designs on Downing Street first became explicit and public.
+
+In the aftermath of Labour's defeat in that year's general election, he contested the vacancy left by Gordon Brown. He was to do the same in 2015, in the wake of his party losing again.
+
+On both occasions he lost – and, as some have pointed out in a rather barbed way, on both occasions he lost to those who themselves were losers at general elections – Ed Miliband in 2015 and Jeremy Corbyn in 2017 and 2019.
+
+2026, then, is third time lucky for Burnham.
+
+And yet as recently as January he was barred from standing as Labour's candidate for a parliamentary seat.
+
+Now, the man who barred him, Sir Keir Starmer, is packing his bags in Downing Street – a removal van has already been spotted. Sir Keir and his family will leave on Monday morning.
+
+## Handover steps up
+
+In the end no one formally challenged Sir Keir for the leadership and, once he had resigned, no one took on Burnham to replace him. In other words, a process that could have been drawn out, wasn't.
+
+So little wonder some in Team Burnham had expected to have quite a bit more time to complete their preparations – hence that feeling of being rushed.
+
+In recent days, we are told, what are known as access talks have continued, with Burnham and his team talking to the civil service about their plans for government and the early events they want to hold next week and beyond.
+
+The indications are they want to hit the ground running – in something of a blitz of appearances and announcements in his opening days and weeks in office.
+
+The next prime minister has also begun to receive national security briefings. The handover of power, which has been underway for some time, has stepped up a gear.
+
+Burnham claimed, as he became Labour leader, in an ear-catchingly absolute phrase, that "I haven't made any decisions yet about who will be in that top team."
+
+Later, when asked if this really was the case, or whether in some instances he did know but would wait until next week to make announcements, he said he was "finalising those decisions."
+
+This is the weekend for that finalising. Yes, there is the headline-generating question of who will be chancellor but there are plenty more jobs to sort too.
+
+According to the Institute for Government, external, there are 149 ministerial posts, held by 122 people.
+
+Some seek to dismiss the journalistic intrigue as to who might get which roles as soap opera – but it matters because the people selected shape the outlook, style and tone of a government.
+
+And it is not remotely easy – it amounts to organisational jenga in which a prime minister and their team have to take account of politics, gender, geography and experience.
+
+And plenty, including serving cabinet ministers, have been kept in the dark. Those hoping to stay on have, unsurprisingly, been privately making the case for stability and continuity.
+
+Others have accepted they are on their way out.
+
+As for the Labour Party itself, the stand out human observation is it appears to have remembered how to smile again.
+
+There is a hope from many among their tribe that, with this leadership reboot, they might, just might, be back in the political match.
+
+Clutching a water bottle and wearing a huge grin, one Labour MP said "think of this as a hydration break!" in a nod to the footballing novelty many of us have been trying to adjust to at the World Cup.
+
+And yes, the Labour Party has decided – before the half time point of this parliament – to go for a change of tactics and a key substitution.
+
+Their new captain, Andy Burnham, is of towering ambition, claiming he will personify "the most significant change" in our politics in 40 years.
+
+Let's see.
+
+Burnham's enthusiasm for taking on the tough stuff appears genuine, for now at least: social care in England being the most striking example.
+
+But the tough stuff will be visible wherever he looks come Monday, at home and abroad.
+
+Which poses the big picture question: to what extent does Brand Burnham survive contact with the facts of governing life? Does his blokeish easy charm have the resilience for what lies ahead?
+
+And – within the scope of Labour's manifesto from two years ago, the pamphlet of promises which carries the party's mandate to govern – can he deliver enough, and quickly, to justify those smiles I was talking about?
+
+Our fifth prime minister in four years takes office shortly, a role with vanishing little job security of late.
+
+And yet again, an impatient, expectant electorate looks on.
