@@ -1,0 +1,68 @@
+---
+title: The US and Iran have blown past red lines as they lurch back toward all-out
+  war
+source_url: https://www.independent.co.uk/news/strait-of-hormuz-donald-trump-qatar-ayatollah-ali-khamenei-kuwait-b3017345.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-18T13:43:49Z'
+published: '2026-07-18T00:00:00Z'
+description: The United States and Iran are crossing each other's red lines, one after
+  the other
+image: https://static.independent.co.uk/2026/07/15/19/APTOPIX_Iran_War_8_948.jpg?width=1200&height=800&crop=1200:800
+---
+
+A week after the United States and Iran signed a preliminary deal aimed at ending the war, an Iranian drone slammed into a cargo ship sailing through the Strait of Hormuz.
+
+There were no casualties or major damage, but the June 25 attack set off a chain of hostilities that would put the two countries on a path back toward all-out war less than a month after they agreed to stop fighting.
+
+Each strike and counterstrike chipped away at the pillars of the agreement, which has now collapsed, though there are still efforts to salvage it. Red lines set by both sides have been crossed. A return to full-scale war that would further destabilize the Middle East and disrupt the world economy appears increasingly likely.
+
+Here's a look at how we got here.
+
+Iran attacks ships using a route bypassing its control
+
+The attack on the cargo ship came after Iran had warned vessels not to use an alternative route through the Strait of Hormuz that is overseen by the U.S. military and intended to be outside Tehran's control.
+
+Iran had largely shut down the waterway — which carried a fifth of the world's traded oil and gas in peacetime — after the surprise U.S.-Israeli attack on Feb. 28 that started the war. Tehran has come to see control over the strait, and its far-reaching economic impact, as a key pressure point in its confrontation with the U.S.
+
+The preliminary agreement called for the strait to be fully reopened, but it also contained language suggesting Iran would manage traffic and potentially charge fees in the future. Iran has seized on that, saying it has the right to control the strait and that the alternative route is a violation of the deal.
+
+The U.S. and others dispute that, saying the strait should be open to all and toll-free, as it was before the war.
+
+US strikes Iran, which retaliates against Gulf states
+
+The U.S. launched strikes on Iran a day after the June 25 attack, hitting what the U.S. military said were missile and drone locations and coastal radar sites.
+
+The following day, Iran attacked a tanker using the alternative route through the strait, and the U.S. responded with more strikes. This time, Iran lashed out at nearby Gulf states, attacking Kuwait and Bahrain, both of which host American troops.
+
+The two sides pulled back the following week, each sending delegations to Qatar, which had played a key role in mediating the agreement. But they did not meet directly.
+
+Iran reiterated its warning against using the alternative route as it prepared for the dayslong funeral of Supreme Leader Ayatollah Ali Khamenei, who was killed in the opening U.S.-Israeli strikes. The funeral began on July 4, with crowds calling for revenge against U.S. President Donald Trump.
+
+Fighting resumes after attacks on 3 ships
+
+Days later, Iran attacked three ships in the Strait of Hormuz.
+
+The U.S. responded with a wave of strikes that it said targeted air defense systems, radars and over 60 small boats used by Iran's paramilitary Revolutionary Guard. Such boats have been used to harass ships in the strait.
+
+The U.S. also revoked a waiver that had allowed Iran for the first time in years to sell its oil on the international market for U.S. dollars. The waiver was part of the interim deal.
+
+Iran condemned the U.S. strikes and the restoration of oil sanctions as violations of the agreement while insisting it had the right to control the strait, which the military command says is an “unbreakable red line.” Iran also broadened its retaliatory strikes, hitting Bahrain, Kuwait and mediator Qatar.
+
+Trump, after departing from a NATO summit, offered mixed messages.
+
+He said the U.S. strikes were in response to the attacks on shipping, warning that “if it happens again, it will get much worse!” But he also appeared to rule out long-term military action, saying “anything that happens is going to happen very fast." He also suggested the U.S. military might “just finish the job.”
+
+The fighting has steadily escalated since then. On Wednesday, the U.S. restored its blockade on Iran's ports, which had been lifted as part of the interim agreement.
+
+The next red line is civilian infrastructure, and it may have been crossed
+
+In recent days, the U.S. has expanded its strikes to northern Iran, hitting targets far from the strait. On Friday, it struck bridges and power stations in the south, collapsing a tower that it said was used by the Revolutionary Guard for maritime surveillance at one of Iran's main ports.
+
+Iran said Friday that U.S. strikes have killed at least 46 people and wounded more than 400 since hostilities resumed.
+
+Trump has repeatedly threatened to target civilian infrastructure in Iran, at one point earlier in the war vowing to annihilate Iran's “whole civilization.” Until now, he has repeatedly backed off from such threats, citing diplomatic progress.
+
+But Iran's leaders may already believe that yet another line has been crossed. On Friday and again Saturday, Iran attacked a water desalination plant in extremely arid Kuwait.
+
+Trump has also mused about taking control of the strait by force, possibly by seizing one or more strategic islands held by Iran. That would likely require a far larger naval presence and potentially tens of thousands of ground troops.

@@ -1,0 +1,49 @@
+---
+title: What the choice of Shabana Mahmood tells us about the new prime minister
+source_url: https://www.independent.co.uk/voices/shabana-mahmood-andy-burnham-prime-minister-b3017384.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-18T13:43:25Z'
+published: '2026-07-18T00:00:00Z'
+description: If Andy Burnham is willing to have such a strong chancellor, this can
+  only be a good thing writes John Rentoul
+image: https://static.independent.co.uk/2026/07/16/9/36/GettyImages-2238387815-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+Shabana Mahmood knows nothing about economics, we were told by supporters of Ed Miliband in their attempt, which seems to have failed, to stop her being appointed chancellor of the Exchequer on Monday.
+
+She has no experience of the Treasury, they said, and will therefore be controlled by the overmighty department. Only Miliband, with his deep experience, would be able to steer the machine and resist Treasury orthodoxy.
+
+As soon as someone starts complaining about Treasury orthodoxy, though, you know they are in trouble. What they mean is that the Treasury insists on making the numbers add up and the complainer would rather it didn’t, because it stops them doing all the “bold” and “ambitious” things they want to do.
+
+It is extraordinary, less than four years after Liz Truss crashed her premiership by resisting Treasury orthodoxy that the same course is urged on Andy Burnham.
+
+Fortunately, Burnham seems disinclined to make Truss’s mistake. His decision to make Mahmood chancellor, which he still implausibly insists that he hasn’t made, is the most hopeful sign in the tide of depressing, backward-looking verbiage that accompanies his progress to No 10.
+
+She is the most forceful member of Keir Starmer’s cabinet. The worst that can be said about her is that she hasn’t had the chance to prove that she can finish what she has started, because she was promoted from the Ministry of Justice after 14 months, and has been home secretary for just 10 months.
+
+![The significance of Mahmood’s expected appointment is that Burnham is not afraid of appointing the strongest cabinet minister to the job](https://static.independent.co.uk/2026/07/16/9/36/GettyImages-2238387815-copy.jpeg)
+
+But she made that promotion happen because Starmer needed someone to get a grip on the immigration system. She leaves unfinished business there, but she has made her next promotion happen because Burnham needs someone to get a grip on the economy.
+
+By which I do not just mean getting a grip on the public finances, although that is what makes everything else possible. Mahmood has to give a better account than Rachel Reeves managed of how her policies will lead to people being better off.
+
+This has to be more than the word soup briefed to journalists as a preview of what Burnham will say as he enters Downing Street on Monday about “breathing space on the cost of living”. No chancellor should offer instant relief, which usually takes the form of bribing taxpayers with their own money, as Reeves did with switching some costs on energy bills to general taxation.
+
+What a good chancellor should do is to take decisions that allow people to better themselves – and make them feel that this is likely to happen over the next few years. You do not need to be good at economics to do that; you need to be good at politics. As Stanley Baldwin said when Winston Churchill, offered the post of chancellor in 1924, protested that he was no good with numbers, “They give you the numbers.”
+
+The significance of Mahmood’s expected appointment, which she too has false-modestly resisted, letting it be known that she would have liked to stay at the Home Office, is that Burnham is not afraid of appointing the strongest cabinet minister to the job.
+
+He knows that there is always tension between the prime minister and the chancellor and yet he is prepared to appoint someone with whom he has no deep relationship because she would be best at the job.
+
+Even the closest political partnerships come under pressure, because No 10 always wants to spend more and No 11 always tries to stop it. Margaret Thatcher and Nigel Lawson started off in harmony and ended in discord. Tony Blair and Gordon Brown, the longest-lasting and one of the most successful partnerships, was riven with psychological flaws. Even in the case of the best friends David Cameron and George Osborne, Osborne wanted a mansion tax but Cameron said no.
+
+And one of the problems of the last two years is that Reeves allowed herself to be overruled by Starmer, who insisted on reversing the winter fuel payment cut, abandoning the attempt to restrain the growth of disability benefits and restoring benefits to larger families.
+
+For all that it has become fashionable to complain about the Treasury being “too powerful” – that is, insisting that the sums add up – a strong chancellor pursuing the right policies is essential to the success of any government.
+
+Never mind what Burnham says, then; judge him by what he does. If he appoints Mahmood to the Treasury on Monday it will show that he is brave and right, unafraid of challenge, knowing that a strong government needs a strong chancellor (although it does help that Mahmood does not want to be prime minister).
+
+If Burnham also moves Miliband, possibly the second most forceful minister in Starmer’s cabinet, out of the energy department, his government will be even stronger. Burnham may have to offer Miliband the high-status impotence of the Foreign Office to succeed where Starmer failed, but it would be worth it. One of the biggest drags on prosperity is the high energy costs imposed by excessively fast and expensive decarbonisation.
+
+How Burnham deals with the two strongest ministers in Starmer’s cabinet will define his government more than any of his vacuous and backward-looking words.

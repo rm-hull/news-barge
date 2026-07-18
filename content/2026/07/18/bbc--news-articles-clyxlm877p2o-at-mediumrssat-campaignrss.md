@@ -1,0 +1,70 @@
+---
+title: Russian online retail warehouses hit by deadly Ukrainian strikes
+source_url: https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-18T13:43:21Z'
+published: '2026-07-18T00:00:00Z'
+description: Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's
+  leader called them "major logistics facilities" supplying "sanctioned components".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg
+---
+
+Watch: Huge warehouse blaze in Moscow region following Ukrainian strikes
+
+**Eight people have been killed and 62 injured after Ukrainian drones struck two warehouses belonging to Russia's biggest online retailer, Wildberries, according to Russian officials.**
+
+Seven deaths and 25 injuries occurred at a warehouse in the city of Tambov, roughly 295 miles (475km) south-east of Moscow. One death and 37 injuries occurred at another Wildberries warehouse in Elektrostal in the Moscow region.
+
+Ukrainian President Volodymyr Zelensky said the attacks had struck "major logistics facilities" which had been used to "supply sanctioned components for drone production and navigation equipment".
+
+He added that Ukraine had also struck targets in the Sea of Azov, the Black Sea, and Russian-annexed Crimea.
+
+Unverified images from the scene of one of the warehouse strikes showed flames and huge plumes of black smoke rising from a vast logistics building, with dozens of workers running into a car park area.
+
+The attacks appear to have started at night, with some videos showing terrified and injured staff attempting to flee as explosions continue. Another clip appears to show the walls of a warehouse disintegrating as they are engulfed by flames.
+
+Zelensky said Ukraine's operations were in response to "Russian strikes on our civilian infrastructure and on our cities and communities". Overnight into Wednesday, 14 people were killed in Russian attacks across Ukraine.
+
+Wildberries is often described as the Russian equivalent of Amazon. The merged RWB group, which combines Wildberries with advertising company Russ, was valued at about $12.6bn (£9.3bn) by Forbes Russia in 2026.
+
+![people walk away from a burning warehouse](https://ichef.bbci.co.uk/ace/standard/483/cpsprodpb/6743/live/ca87eb10-8291-11f1-b45b-4f689a4d3399.png)
+
+Footage showed flames engulfing a large warehouse as workers evacuate
+
+Serhii Kuzan, chairman of the Ukrainian Security and Cooperation Centre, told the BBC that Wildberries was a "vital component" of Russian logistics, and that its website had been used by Russian volunteers to purchase military equipment including walkie-talkies, body armour and drone components.
+
+"The primary rationale for striking Wildberries' warehouses is to disrupt Russian logistics and the supply of dual-use goods, critical electronics, sanctioned goods and the like to the Russian army and Russian arms manufacturers," he said.
+
+"The collateral damage from such strikes could also have a serious impact on the Russian economy, as well as a psychological effect on Russian society and, likely, on continued support for the war."
+
+Russia has targeted similar facilities in Ukraine since the start of the war, including its postal service and some electronics distributors.
+
+Wildberries CEO Tatyana Kim - one of Russia's first female billionaires - said it had been a "terrible night" for Russia and for the company.
+
+"Seven people working the night shift died on the spot," governor of the Tambov region Evgeniy Pervyshov wrote on Telegram, adding that 28 drones were also shot down on approach.
+
+He said 25 people had been injured, including seven in serious condition. Most of these injuries were caused by shrapnel wounds, he said.
+
+It was the "largest and most inhumane" attack on the region in terms of the number of drones used and the number of casualties, he added.
+
+Meanwhile, governor of the Moscow region Andrei Vorobyov said eight of those injured in the strikes on the Wildberries warehouse in Elektrostal were in a "serious condition".
+
+He added that a total of 48 drones were shot down in the region overnight, and that a Russian oil depot had also been struck by a falling drone, which he described as the incident with "the most serious consequences".
+
+"Firefighters, emergency services, and the Ministry of Emergency Situations continue to work at the scene," he wrote on Telegram. He did not describe the level of damage in detail. Zelensky separately confirmed Ukraine had struck "an oil facility".
+
+Ukraine has recently intensified its long-range drone attacks on Russia's critical energy infrastructure, causing widespread fuel shortages. Earlier this month, Kyiv said nearly 43% of Russia's oil refining capacity had been "disabled" as a result.
+
+The BBC has not independently verified this figure.
+
+Ukraine says Russian oil and gas facilities are legitimate targets as Moscow relies heavily on fossil fuel exports to finance its full-scale invasion, which began in February 2022.
+
+Russian President Vladimir Putin made a rare admission in June that fuel shortages had been caused by Ukrainian attacks, and signed into law a bill aimed at boosting supplies to the domestic fuel market in early July.
+
+## More on the Ukraine War
+
+- Published18 hours ago
+ ![Mykhailo Fedorov, head and shoulders pic with blue background](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg) 
+![A man in a grey shirt holds his right arm to his forehead as he looks at a man out of the picture who is wearing a medical glove](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bb9a/live/ea7f3760-8201-11f1-b9b1-0bb7578872ce.jpg) 
+![A resident stands on a balcony of an apartment building damaged by a Russian missile strike, amid Russia's attack on Ukraine, in Odesa, Ukraine. Ph July 15, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg)
