@@ -24,6 +24,10 @@ import trafilatura
 from lxml import html as lxml_html
 import yaml
 from playwright.async_api import async_playwright
+import re
+
+IMAGE_URL_RE = re.compile(r"https?://[^\s\]]+")
+ALT_RE = re.compile(r'alt="([^"]*)"')
 
 # ---------------------------------------------------------------------------
 # Config
@@ -200,50 +204,54 @@ def linkify_text(text: str) -> str:
     return re.sub(pattern, replace, text)
 
 
+def _find_block_end(text: str, start: int) -> int:
+    """Given the index right after an opening '{{', scan forward and
+    return the index just past the matching closing '}}', accounting
+    for nested {{ }} pairs."""
+    n = len(text)
+    depth = 1
+    i = start
+    while i < n and depth > 0:
+        pair = text[i : i + 2]
+        if pair == "{{":
+            depth += 1
+            i += 2
+        elif pair == "}}":
+            depth -= 1
+            i += 2
+        else:
+            i += 1
+    return i
+
+
 def fix_template_image_blocks(text: str) -> str:
     """
     Convert template-specific image blocks (like {{image ...}}) to markdown images.
     This is for sites that output template syntax instead of markdown for images.
     """
     result = []
-    i = 0
-    n = len(text)
-    while i < n:
-        # Check for the start of an image block: "{{image"
-        if i + 7 <= n and text[i:i+7] == '{{image':
-            # Start of an image block
-            start = i
-            brace_count = 2  # we've seen the first {{
-            i += 7  # skip '{{image'
-            while i < n and brace_count > 0:
-                if i + 1 < n and text[i:i+2] == '{{':
-                    brace_count += 2
-                    i += 2
-                elif i + 1 < n and text[i:i+2] == '}}':
-                    brace_count -= 2
-                    i += 2
-                else:
-                    i += 1
-            # Now i is at the position after the closing }}
-            end = i
-            block = text[start:end]
-            # Extract the first URL that looks like an image URL
-            import re
-            urls = re.findall(r'https?://[^\s\]]+', block)
-            if urls:
-                img_url = urls[0]
-                # Extract alt text
-                alt_match = re.search(r'alt="([^"]*)"', block)
-                alt = alt_match.group(1) if alt_match else ""
-                result.append(f"![{alt}]({img_url})")
-            else:
-                # If we can't find a URL, we skip the block (don't add anything)
-                pass
-        else:
-            result.append(text[i])
-            i += 1
-    return ''.join(result)
+    pos = 0
+    for match in re.finditer(r"\{\{image", text):
+        start = match.start()
+        if start < pos:
+            continue  # inside a block we already consumed
 
+        result.append(text[pos:start])  # copy the plain text before this block
+
+        end = _find_block_end(text, match.end())
+        block = text[start:end]
+
+        url_match = IMAGE_URL_RE.search(block)
+        if url_match:
+            alt_match = ALT_RE.search(block)
+            alt = alt_match.group(1) if alt_match else ""
+            result.append(f"![{alt}]({url_match.group(0)})")
+        # else: drop the block entirely, same as before
+
+        pos = end
+
+    result.append(text[pos:])
+    return "".join(result)
 
 
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
