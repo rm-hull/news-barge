@@ -1,0 +1,43 @@
+---
+title: Andrew Tate and Tristan Tate arrested in US after more UK charges laid
+source_url: https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-19T03:43:50Z'
+published: '2026-07-19T00:00:00Z'
+description: The Crown Prosecution Service says it has requested their extradition
+  from the US, while their lawyer says they are "innocent".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg
+---
+
+![Andrew Tate and Tristan Tate are pictured sitting together at a UFC match.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg)
+
+**Controversial influencer Andrew Tate and his brother Tristan have been arrested in the US after British authorities announced they were bringing further charges against them.**
+
+The UK's Crown Prosecution Service (CPS) said Andrew Tate was being charged with seven further counts of rape, as well as other charges relating to alleged crimes including sex trafficking and child pornography.
+
+Tristan Tate has been charged with one count of sexual assault, two counts of rape and three counts of arranging or facilitating trafficking for sexual exploitation.
+
+The alleged offending is said to have taken place between July 2010 and August 2017. The Tates have previously denied any wrongdoing.
+
+"These charging decisions followed receipt of a further file of evidence from Bedfordshire Police and bring the total number of alleged victims in this case to seven," Malcolm McHaffie, Head of the Special Crime Division at the Crown Prosecution Service, said.
+
+The US Marshals confirmed to the BBC that the Tates had been taken into custody, while a US Department of Justice spokesperson said the arrests were "pursuant to extradition proceedings".
+
+The CPS said in its statement it has requested the extradition of the brothers, who are dual British-US citizens, from the US.
+
+A lawyer who represents the Tates, Joseph McBride, said "the world knows Andrew and Tristan are innocent" in a statement released after their arrest on Saturday evening.
+
+"Their enemies know it best of all. That is exactly why they have been attacked," McBride continued, describing the new UK charges as a "political hit".
+
+He said the new charges were designed to counter a defamation action filed by the brothers in the US.
+
+"We are confident that once a competent judge sees the facts, and once the Department of Justice confronts this egregious abuse of its own authority, Andrew and Tristan Tate will walk free. America does not do Britain's political dirty work," he continued.
+
+In May 2025, prosecutors confirmed a list of 21 charges Andrew Tate, 39, and Tristan Tate, 37, will eventually face in the UK.
+
+These alleged offences are said to have taken place between 2012 and 2016.
+
+In 2024, Bedfordshire Police secured European arrest warrants for the pair to have them returned from Romania, where they are based and are under criminal investigation.
+
+In June, the brothers lost a legal bid to be told the names of their UK accusers, after the CPS decided it was necessary to withhold the names of their alleged victims until legal action formally started.
