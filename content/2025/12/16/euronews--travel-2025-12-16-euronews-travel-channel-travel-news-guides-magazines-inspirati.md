@@ -3,7 +3,7 @@ title: Euronews Travel Channel – Travel News, Guides, Magazines & Inspiration 
 source_url: https://www.euronews.com/travel/2025/12/16/euronews-travel-channel-travel-news-guides-magazines-inspiration-247
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-04T16:04:43Z'
+scraped_at: '2026-07-19T09:20:00Z'
 published: '2025-12-16T00:00:00Z'
 description: Discover the world with the Euronews Travel Channel, now live streaming
   24/7 on YouTube.
@@ -26,10 +26,10 @@ Read the latest travel news: [https://www.euronews.com/travel](https://www.euron
 
 ## Read more
 
-![destinations will need to strengthen their ability to anticipate and adapt to uncertainty, according to a new report.](https://images.euronews.com/articles/stories/09/82/46/39/480x270_cmsv2_9d950d60-0258-5527-80a1-bdb3178a7f62-9824639.jpg) 
+![To avoid having possessions confiscated or paying fines, here are all the rules you might not know about when spending time on Europe’s beaches this summer.](https://images.euronews.com/articles/stories/09/83/39/31/480x270_cmsv2_fa57a3e7-3db7-5d8c-a991-a9d54170dc3e-9833931.jpg) 
 
     
-          ![file photo](https://images.euronews.com/articles/stories/09/82/37/58/480x270_cmsv2_066b60ba-fb1a-5660-8918-c377f004c218-9823758.jpg) 
+          ![All 50 of United's new Airbus A321XLR aircraft will include a special row in Economy Plus](https://images.euronews.com/articles/stories/09/84/03/39/480x270_cmsv2_a1f75f85-3d03-555e-8096-4c06055e015e-9840339.jpg) 
 
     
-          ![Aegean Airlines has relaunched flights between Paphos and Athens](https://images.euronews.com/articles/stories/09/82/39/24/480x270_cmsv2_357f390d-9400-5cca-9d50-15e8760bf3da-9823924.jpg)
+          ![The new direct London-Cologne rail services will shave as much as two hours off the current journey time.](https://images.euronews.com/articles/stories/09/84/07/79/480x270_cmsv2_64f0dab3-fb1b-59b6-a880-8ef13c21d5ae-9840779.jpg)

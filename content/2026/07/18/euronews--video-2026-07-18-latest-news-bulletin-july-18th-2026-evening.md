@@ -3,7 +3,7 @@ title: Video. Latest news bulletin | July 18th, 2026 – Evening
 source_url: https://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-evening
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T17:09:19Z'
+scraped_at: '2026-07-19T09:20:01Z'
 published: '2026-07-18T00:00:00Z'
 description: Video. Catch up with the most important stories from around Europe and
   beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment,

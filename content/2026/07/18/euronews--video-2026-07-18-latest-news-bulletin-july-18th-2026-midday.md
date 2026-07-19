@@ -3,7 +3,7 @@ title: Video. Latest news bulletin | July 18th, 2026 – Midday
 source_url: https://www.euronews.com/video/2026/07/18/latest-news-bulletin-july-18th-2026-midday
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T13:43:29Z'
+scraped_at: '2026-07-19T09:19:58Z'
 published: '2026-07-18T00:00:00Z'
 description: Video. Catch up with the most important stories from around Europe and
   beyond this July 18th, 2026 - latest news, breaking news, World, Business, Entertainment,

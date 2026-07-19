@@ -3,7 +3,7 @@ title: 'When Messi met Yamal: The master and apprentice story of the World Cup'
 source_url: https://www.euronews.com/2026/07/16/when-messi-met-yamal-the-master-and-apprentice-story-behind-the-world-cup-final
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-16T14:16:11Z'
+scraped_at: '2026-07-19T09:19:59Z'
 published: '2026-07-16T00:00:00Z'
 description: 'In 2007, at a UNICEF charity event, Messi bathed five‑month‑old Lamine
   Yamal in the Camp Nou dressing room. Nineteen years later they meet in the 2026

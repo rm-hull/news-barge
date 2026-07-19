@@ -3,7 +3,7 @@ title: Hungarian president signs constitutional amendment ending own mandate
 source_url: https://www.euronews.com/2026/07/18/hungarian-president-tamas-sulyok-signs-constitutional-amendment-ending-his-own-mandate
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T21:03:38Z'
+scraped_at: '2026-07-19T09:20:02Z'
 published: '2026-07-18T00:00:00Z'
 description: President Tamás Sulyok signed the seventeenth amendment to the Fundamental
   Law on Saturday, he announced on Facebook. The sitting president’s mandate will

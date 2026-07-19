@@ -1,9 +1,9 @@
 ---
-title: Iranian attacks kill two US troops in Jordan in renewed fighting
+title: US says it struck Iranian forces linked to Jordan attack
 source_url: https://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T21:03:30Z'
+scraped_at: '2026-07-19T09:19:59Z'
 published: '2026-07-18T00:00:00Z'
 description: The two servicemen were killed Friday as the US and partner forces defended
   against Iranian ballistic missile and drone attacks, according to a statement from
@@ -12,6 +12,16 @@ image: https://images.euronews.com/articles/stories/09/84/30/11/1200x675_cmsv2_7
 ---
 
 ## The two servicemen were killed Friday as the US and partner forces defended against Iranian ballistic missile and drone attacks, according to a statement from the US military.
+
+The United States carried out an eighth consecutive night of strikes against Iran, targeting military facilities and units it said were responsible for the attack that killed two American service members in Jordan.
+
+US Central Command (CENTCOM) said on Saturday that the operation targeted Iranian military infrastructure as well as Islamic Revolutionary Guard Corps (IRGC) forces "that launched attacks against U.S. service members in Jordan on July 17."
+
+The strikes come as tensions continue to escalate between Washington and Tehran following a series of military exchanges across the region.
+
+Meanwhile, Kuwait said it was responding to a new wave of Iranian missile and drone attacks after the Gulf state was hit by barrages a day earlier that struck a power plant and an oil facility.
+
+"Kuwaiti air defenses are currently confronting hostile missile and drone attacks, following the sinful Iranian aggression," the country's military said in a statement early on Sunday.
 
 The US military on Saturday announced two of its troops are dead and one is currently missing after Iranian attacks on a base in Jordan, the first US death due to direct Iranian fire since the opening days of the war.
 
@@ -31,8 +41,6 @@ The impasse with the Strait has sent the price of oil soaring since the war star
 
 Despite an interim ceasefire signed about a month ago, Iranian forces in recent days fired on some ships attempting to cross the strait, a move that has caused crossings in the key shipping passage to fall to a three-week low, according to an international shipping tracker.
 
-US forces have attacked in response with the aim to force Iran to give up its grip on the strait.
-
 ## Iran warns US of “unforgettable lessons”
 
 On Saturday, Iran’s supreme leader, Mojtaba Khamenei, warned of “unforgettable lessons” if the United States keeps attacking the Islamic Republic, as reported on State Television.
@@ -50,13 +58,3 @@ US airstrikes hit an electricity and desalination plant in Iran’s southern Hor
 The IRNA state media said the Bonji desalination plant was destroyed, cutting off water supplies to about 10,000 people, and that a desalination plant on strategic Qeshm Island inside the strait was damaged.
 
 It reported that three bridges were hit Saturday, including one on a route to Bandar Abbas, Iran’s main port that sits near the narrowest part of the strait.
-
-## Kuwait sees most damage from Iranian response
-
-In response to the US strikes, Iranian forces have been attacking US bases in its Gulf-Arab neighbours, with the most significant damage from Iranian strikes on Saturday occurring in Kuwait, forcing the aviation authorities to briefly close its airspace and reschedule most flights to and from the capital.
-
-According to the Kuwait Petroleum Corporation, the strikes injured several people at an oil facility and caused a fire at the desalination plant, forcing several power generation units offline. It was the second attack against a desalination plant in two days in the tiny desert nation that depends on desalination for 90% of its drinking water.
-
-According to the Kuwait Fire Force, several firefighters and a worker were injured while battling two other blazes sparked by Iranian strikes.
-
-Meanwhile, Iraq said it shot down attack drones over the city of Irbil. Jordan’s state-run Petra news agency said the kingdom’s air defence systems had downed Iranian missiles, while air sirens sounded multiple times in Bahrain throughout the day and in Saudi Arabia in the morning, according to their governments.

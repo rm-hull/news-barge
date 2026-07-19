@@ -3,7 +3,7 @@ title: Rajoy pens new column after Spain beat France and refuses to apologise
 source_url: https://www.euronews.com/2026/07/16/rajoy-repeats-column-after-world-cup-win-over-france-and-stands-by-controversial-remark
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-16T10:21:44Z'
+scraped_at: '2026-07-19T09:20:00Z'
 published: '2026-07-16T00:00:00Z'
 description: The former president has published a new column in 'El Debate' after
   Spain’s win over France in the semi-finals, refusing to retract his remarks about

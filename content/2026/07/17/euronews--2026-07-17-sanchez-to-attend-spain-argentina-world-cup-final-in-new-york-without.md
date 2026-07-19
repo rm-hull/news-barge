@@ -3,7 +3,7 @@ title: Sánchez to watch Spain bid for second star in New York
 source_url: https://www.euronews.com/2026/07/17/sanchez-to-attend-spain-argentina-world-cup-final-in-new-york-without-his-wife
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-17T10:08:56Z'
+scraped_at: '2026-07-19T09:19:58Z'
 published: '2026-07-17T00:00:00Z'
 description: Pedro Sánchez will fly to New York for the World Cup final between Spain
   and Argentina, after days of doubt about his timetable. After the match, the prime

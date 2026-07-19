@@ -3,7 +3,7 @@ title: 'Home sales in Europe: Where did they rise most in 2025?'
 source_url: https://www.euronews.com/business/2026/07/19/home-sales-rose-in-most-european-countries-in-2025-where-did-they-increase-the-most
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-19T06:41:59Z'
+scraped_at: '2026-07-19T09:20:01Z'
 published: '2026-07-19T00:00:00Z'
 description: Home sales rose in 17 of 20 European countries in 2025 as lower borrowing
   costs helped revive demand. France recorded more than one million transactions,

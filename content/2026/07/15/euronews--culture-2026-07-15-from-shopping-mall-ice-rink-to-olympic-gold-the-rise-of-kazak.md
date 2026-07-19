@@ -3,7 +3,7 @@ title: The rise of Kazakh skater Mikhail Shaidorov
 source_url: https://www.euronews.com/culture/2026/07/15/from-shopping-mall-ice-rink-to-olympic-gold-the-rise-of-kazakh-skater-mikhail-shaidorov
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-15T14:05:24Z'
+scraped_at: '2026-07-19T09:19:59Z'
 published: '2026-07-15T00:00:00Z'
 description: After winning Kazakhstan’s first Olympic gold medal in figure skating,
   Mikhail Shaidorov became a global sensation and one of the country’s most celebrated

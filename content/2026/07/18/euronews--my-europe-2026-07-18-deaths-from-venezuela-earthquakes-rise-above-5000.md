@@ -3,7 +3,7 @@ title: Death toll from the two earthquakes that hit Venezuela hits 5,069
 source_url: https://www.euronews.com/my-europe/2026/07/18/deaths-from-venezuela-earthquakes-rise-above-5000
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T17:08:45Z'
+scraped_at: '2026-07-19T09:20:01Z'
 published: '2026-07-18T00:00:00Z'
 description: Venezuela has been able to unlock €302 million of funding from the International
   Monetary Fund to support recovery and reconstruction following the devastating earthquakes

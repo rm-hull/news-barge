@@ -3,7 +3,7 @@ title: 'Wildlife holiday bucket list: The animals travellers want to see most'
 source_url: https://www.euronews.com/travel/2026/07/19/wildlife-holiday-bucket-list-the-new-big-five-animals-that-travellers-want-to-see
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-19T06:42:00Z'
+scraped_at: '2026-07-19T09:19:58Z'
 published: '2026-07-19T00:00:00Z'
 description: Forget safaris, there’s a new 'big five' to see in the wild. From pandas
   and kangaroos to whales and koalas, research suggests today's travellers are looking

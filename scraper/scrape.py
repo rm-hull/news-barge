@@ -200,6 +200,52 @@ def linkify_text(text: str) -> str:
     return re.sub(pattern, replace, text)
 
 
+def fix_template_image_blocks(text: str) -> str:
+    """
+    Convert template-specific image blocks (like {{image ...}}) to markdown images.
+    This is for sites that output template syntax instead of markdown for images.
+    """
+    result = []
+    i = 0
+    n = len(text)
+    while i < n:
+        # Check for the start of an image block: "{{image"
+        if i + 7 <= n and text[i:i+7] == '{{image':
+            # Start of an image block
+            start = i
+            brace_count = 2  # we've seen the first {{
+            i += 7  # skip '{{image'
+            while i < n and brace_count > 0:
+                if i + 1 < n and text[i:i+2] == '{{':
+                    brace_count += 2
+                    i += 2
+                elif i + 1 < n and text[i:i+2] == '}}':
+                    brace_count -= 2
+                    i += 2
+                else:
+                    i += 1
+            # Now i is at the position after the closing }}
+            end = i
+            block = text[start:end]
+            # Extract the first URL that looks like an image URL
+            import re
+            urls = re.findall(r'https?://[^\s\]]+', block)
+            if urls:
+                img_url = urls[0]
+                # Extract alt text
+                alt_match = re.search(r'alt="([^"]*)"', block)
+                alt = alt_match.group(1) if alt_match else ""
+                result.append(f"![{alt}]({img_url})")
+            else:
+                # If we can't find a URL, we skip the block (don't add anything)
+                pass
+        else:
+            result.append(text[i])
+            i += 1
+    return ''.join(result)
+
+
+
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
     date_path = date.strftime("%Y/%m/%d")
     filename = f"{site_slug}--{article_slug}.md"
@@ -470,6 +516,7 @@ async def process_article(
 
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
+    md_body = fix_template_image_blocks(md_body)
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
 
     # Fallback to first image in markdown if metadata image is missing

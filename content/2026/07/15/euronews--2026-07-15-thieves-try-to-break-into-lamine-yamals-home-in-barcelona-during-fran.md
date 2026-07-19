@@ -3,7 +3,7 @@ title: Burglars attempt to break into Lamine Yamal's home in Barcelona
 source_url: https://www.euronews.com/2026/07/15/thieves-try-to-break-into-lamine-yamals-home-in-barcelona-during-france-match
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-15T10:12:40Z'
+scraped_at: '2026-07-19T09:19:58Z'
 published: '2026-07-15T00:00:00Z'
 description: Security cameras spotted two hooded men trying to break into the property
   in Esplugues de Llobregat but they fled before police arrived.

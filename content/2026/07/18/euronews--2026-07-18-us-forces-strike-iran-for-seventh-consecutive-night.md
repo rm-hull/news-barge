@@ -3,7 +3,7 @@ title: US forces strike Iran for seventh consecutive night
 source_url: https://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T06:15:52Z'
+scraped_at: '2026-07-19T09:20:01Z'
 published: '2026-07-18T00:00:00Z'
 description: Iran's Fars state news agency reported that Iranian forces had responded
   by attacking US allies and bases in the region, including the Ali Al Salem airbase

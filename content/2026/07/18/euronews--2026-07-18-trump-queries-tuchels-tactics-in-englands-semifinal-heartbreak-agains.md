@@ -3,7 +3,7 @@ title: Trump queries Tuchel's tactics in England's World Cup semifinal loss
 source_url: https://www.euronews.com/2026/07/18/trump-queries-tuchels-tactics-in-englands-semifinal-heartbreak-against-argentina
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-18T09:43:05Z'
+scraped_at: '2026-07-19T09:20:01Z'
 published: '2026-07-18T00:00:00Z'
 description: '"They took their best player, and they put him on defence," Trump said,
   referring to England striker Harry Kane.'

@@ -3,7 +3,7 @@ title: Grand Voyager | Exploring Budapest
 source_url: https://www.euronews.com/travel/2026/07/15/grand-voyager-exploring-budapest
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-15T14:05:16Z'
+scraped_at: '2026-07-19T09:20:00Z'
 published: '2026-07-15T00:00:00Z'
 description: In 2025, Budapest welcomed a record eight million visitors, making it
   one of Central Europe's most popular destinations. So what is it about this city

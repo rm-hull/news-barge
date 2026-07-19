@@ -3,7 +3,7 @@ title: Small businesses drive poverty reduction efforts
 source_url: https://www.euronews.com/business/2026/07/14/from-greenhouses-to-family-businesses-entrepreneurship-reshapes-rural-livelihoods
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-07-14T14:08:42Z'
+scraped_at: '2026-07-19T09:19:57Z'
 published: '2026-07-14T00:00:00Z'
 description: Farmers, livestock breeders and family-run businesses are expanding through
   loans, subsidies and local support programmes. According to the Ministry of Employment
