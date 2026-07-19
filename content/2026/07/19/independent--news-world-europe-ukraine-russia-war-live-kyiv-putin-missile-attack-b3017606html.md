@@ -1,0 +1,120 @@
+---
+title: 'Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-kyiv-putin-missile-attack-b3017606.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-19T09:25:17Z'
+published: '2026-07-19T00:00:00Z'
+description: Ukrainian foreign minister Andrii Sybiha says attack on Kyiv involved
+  four dozen ballistic missiles, with explosions heard across Ukrainian capital for
+  several hours
+image: https://static.independent.co.uk/2026/07/19/06/2026-07-19T024941Z_498319555_RC2NGMAI52BS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?trim=447,752,570,667&width=1200&height=800&crop=1200:800
+---
+
+At least one person has died and 16 have been injured in a major Russian aerial assault on Kyiv this morning, which Ukrainian officials said included a record number of ballistic missile strikes.
+
+The attack on Ukraine’s capital began at 1.30am local time and explosions could be heard across the city for several hours.
+
+The Kyiv government said firefighters were responding to blazes in five different districts after the attack, one of the biggest in recent weeks, hit residential buildings, office and industrial sites, a dormitory and vehicles.
+
+Ukrainian foreign minister Andrii Sybiha said the raid involved “around four dozen” ballistic missiles, the largest number in a single attack since the war began.
+
+The attack on Kyiv comes a day after Ukrainian drone strikes killed at least nine people at warehouses belonging to a major Russian shopping website.
+
+Around 60 people were also injured after two huge warehouses of Russia's major online retailer, Wildberries, were hit by Ukrainian drones overnight, according to Russian officials.
+
+Volodymyr Zelensky said the strikes targeted “significant logistical facilities”, accusing Wildberries of providing equipment for drones and navigation equipment for the Russian military.
+
+## Photos show devastation after Russia’s latest strikes on Kyiv
+
+## Cash makes a comeback in Russia as wartime strains deepen – report
+
+More Russians are reportedly relying on cash as repeated mobile internet shutdowns, imposed to counter Ukrainian drone attacks, disrupt card payments and add fresh strain to the country’s slowing wartime economy.
+
+A BBC report found that cash in circulation has risen by 1.56 trillion roubles since the start of the year – the biggest increase for the same period outside the Covid-19 pandemic.
+
+The surge has coincided with frequent internet blackouts, which have left shoppers unable to pay by card in some areas.
+
+The trend is also making it harder for the Kremlin to collect tax revenue as it grapples with a widening budget deficit and the rising cost of the war. Businesses facing higher taxes and weaker economic growth are increasingly encouraging customers to pay in cash, allowing some transactions to stay off the books.
+
+One Moscow resident told the BBC: “Having cash on hand gives you some sense of control and security. If there’s an emergency in the city, I know I’ll still be able to buy basic necessities, even if the mobile network goes down.”
+
+## Ukraine says it downed 18 of 41 Russian missiles in overnight attack
+
+Ukraine said its air defences intercepted 18 of the 41 missiles fired by Russia overnight, but dozens of projectiles still broke through as Moscow launched what Kyiv described as its biggest ballistic missile assault since the full-scale invasion began.
+
+According to Ukraine's air force, another 23 missiles and 10 drones struck 20 locations across the country, with Kyiv the main target.
+
+Air defences also destroyed 108 of the 125 drones launched by Russia.
+
+Acting foreign minister Andrii Sybiha said Moscow had fired “around four dozen” ballistic missiles at the capital in what he called “the largest number of ballistic missiles since the start of the war”.
+
+He urged Ukraine's allies to step up pressure on Russia, saying: “We need devastating pressure on Moscow to end this terror.”
+
+## Kyiv claims overnight strikes on two Russian oil tankers in Black Sea
+
+Ukraine’s military said it struck two Russian oil tankers in the Black Sea in an overnight attack.
+
+In a statement on Sunday, Ukraine’s General Staff said its forces also hit a floating crane in the Sea of Azov, adding that all three vessels were being used to support Russia’s war effort.
+
+## Russia hits Ukraine with largest ballistic missile attack since war began
+
+Russia struck Ukraine this morning with the largest number of ballistic missiles in a single attack since the start of its full-scale invasion in 2022, according to Ukraine’s acting foreign minister.
+
+Andrii Sybiha wrote on X: “Russia unleashed the largest number of ballistic missiles since the start of the war – around four dozen – in a brutal terrorist attack on the Ukrainian capital, killing and injuring people.
+
+“We urge appropriate and strong responses. We need devastating pressure on Moscow to end this terror.”
+
+## One dead and 13 injured as Russia pounds Kyiv with ballistic missiles
+
+Russia has pounded Kyiv with airstrikes overnight that included ballistic missiles, killing one and wounding at least 13 people, according to local officials.
+
+Fires were reported across five districts of the city as the attack damaged residential buildings, office and industrial sites, a dormitory and vehicles, according to Ukraine’s State Emergency Service.
+
+Explosions began to ring out at around 1.30am on Sunday morning and continued for several hours.
+
+Rescue workers pulled four people from a burning private home in the Sviatoshynskyi district, while in the Shevchenkivskyi district they rescued residents from a burning three-story building. A fire in a non-residential building was also contained. One person was later found dead.
+
+Firefighters also responded to blazes in the Solomyanskyi, Desnianskyi and Dnipro districts.
+
+A resident who identified himself as Vlad told Reuters he had been inside his apartment when a blast tore off his balcony door, which smashed him in the head. "My grandmother lives with me, and she can't walk. How could I run away and leave her behind?" he said.
+
+Russia has launched several large-scale attacks on Kyiv in recent weeks as Ukraine faces a shortage of Patriot air defence missiles.
+
+## Recap: Ukraine launches devastating drone strikes on Russian shopping website warehouses
+
+Ukrainian drones struck two sprawling warehouses, one of them just east of Moscow, as part of attacks overnight and on Saturday afternoon that killed nine people and wounded more than 80, Russian officials said.
+
+Kyiv's forces have pressed their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow’s war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.
+
+Two sprawling warehouses of Russia's major online retailer, Wildberries, were hit by Ukrainian drones overnight, according to Russian officials — one in the town of Kotovsk in the Tambov region, some 360km (220 miles) from the border with Ukraine, and another in the city of Elektrostal, about 50km (30 miles) east of Moscow.
+
+A Ukrainian drone also hit an oil depot in the city of Noginsk, just north of Elektrostal, sparking a fire and prompting evacuations of a nearby maternity hospital and a residential building, according to the governor of the Moscow region, Andrei Vorobyov. Drone debris also hit a kindergarten building, Vorobyov said, sparking a fire that has since been put out.
+
+Seven night shift workers were killed at the warehouse in Kotovsk and 25 others were wounded, Tambov regional Gov. Yevgeny Pervyshov said.
+
+Ukrainian president Volodymyr Zelensky said in a Telegram post on Saturday that Ukrainian long-range strikes hit two “significant logistical facilities in the Moscow and Tambov regions.”
+
+“These facilities were used by the aggressor to supply sanctioned components for the production of drones and navigation equipment,” he wrote. An oil facility was also hit, he said.
+
+## One dead as Russia fires ballistic missiles at Kyiv
+
+Russian missiles hit Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine others as fires broke out across the city, officials said.
+
+Witnesses heard a series of powerful explosions rock the capital, as Ukraine's air force warned of a ballistic missile threat.
+
+Two people were injured in the Kyiv region, according to the military administration, and warehouses there were also damaged.
+
+Fires broke out at a dormitory, a residential block and a supermarket, Kyiv mayor Vitali Klitschko said on the Telegram app.
+
+Several non-residential buildings and warehouses were struck in the attack, while parked cars and office buildings were set on fire in several districts, Klitschko said.
+
+## Russia weaponises traditional family values to boost its ‘catastrophic’ birth rate
+
+![](https://static.independent.co.uk/2026/07/06/16/40/GettyImages-2283194515.jpeg?trim=2,0,2,0&width=1200&height=800&crop=1200:800)
+
+## Putin ‘will never make peace in Ukraine’ – Here’s the reason why
+
+Despite four grinding years and Ukraine now successfully smashing Russia’s energy infrastructure, Vladimir Putin has no interest in trying to end the war for one key reason, Bill Browder tells **Sam Kiley** on the ‘World of Trouble’ podcast.
+
+![](https://static.independent.co.uk/2026/07/13/9/12/6767561-library-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800)

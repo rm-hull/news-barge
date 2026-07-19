@@ -1,0 +1,121 @@
+---
+title: 'World Cup final: Who are the ITV and BBC commentators, pundits and presenters?'
+source_url: https://www.independent.co.uk/sport/football/world-cup-final-2026-itv-bbc-pundits-commentators-presenters-b3017610.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-19T09:24:54Z'
+published: '2026-07-19T00:00:00Z'
+description: The star-studded line-ups aim to bring enthusiasm, insight and analysis
+  across a packed summer of football
+image: https://static.independent.co.uk/2026/06/28/13/01KW5PEWPN9A04HJC3Y89JTTCM.jpg?trim=84,0,84,0&width=1200&height=800&crop=1200:800
+---
+
+Both ITV and BBC Sport have star-studded line-ups for their commentary, presenter and pundit teams at the 2026 World Cup.
+
+With 104 matches in the United States, Canada and Mexico, fans have been able to watch plenty of games on BBC television, while ITV Sport has shown a selection from its Brooklyn studio. The two broadcasters will share coverage of the final, which pits Spain against Argentina.
+
+It is expected that Sam Matterface and Lee Dixon will provide ITV commentary from New York New Jersey stadium, while the studio team will likely consist of Mark Pougatch, Gary Neville, Ian Wright and Roy Keane. Meanwhile, BBC’s commentary pair could comprise Alan Shearer and Guy Mowbray, with Wayne Rooney, Joe Hart and Micah Richards in the studio. It is also possible that Cesar Azpilicueta features on BBC, due to his history in the Spain side.
+
+**Here are the punditry and commentary line-ups to look out for at this summer’s tournament:**
+
+## Full list of pundits
+
+## BBC Sport
+
+Rachel Corsie
+
+James McFadden
+
+Hassan Kachloul
+
+Darren Cann
+
+## ITV Sport
+
+Jobi McAnuff
+
+Bradley Wright-Phillips
+
+Christina Unkel
+
+Gary Lineker - the former BBC presenter made an appearance as an analyst during ITV’s coverage on Saturday, 20 June.
+
+## Full list of commentators
+
+## BBC Sport
+
+Guy Mowbray
+
+Steve Wilson
+
+Steve Bower
+
+Jonathan Pearce
+
+Robyn Cowen
+
+Steven Wyeth
+
+Liam McLeod
+
+## ITV Sport
+
+Sam Matterface
+
+Jon Champion
+
+Seb Hutchinson
+
+Joe Speight
+
+![BBC Sport unveils its World Cup 2026 line-up](https://static.independent.co.uk/2026/05/18/14/41/BBC-Sport-unveils-its-World-Cup-2026-line-up.jpeg)
+
+## Full list of co-commentators
+
+## BBC Sport
+
+Alan Shearer
+
+Danny Murphy
+
+Stephen Warnock
+
+Efan Ekoku
+
+Sue Smith
+
+Rachel Corsie
+
+James McFadden
+
+Paul Robinson
+
+## ITV Sport
+
+Ally McCoist
+
+## Full list of presenters
+
+## BBC Sport
+
+Kelly Cates
+
+Kelly Somers
+
+Eilidh Barbour
+
+## ITV Sport
+
+Mark Pougatch
+
+Semra Hunter
+
+Daniyal Khan
+
+## Additional Reporters
+
+## ITV Sport
+
+Gabriel Clarke
+
+Connie McLaughlin
