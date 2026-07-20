@@ -1,0 +1,79 @@
+---
+title: Argentina’s World Cup ends with punches and in disgrace
+source_url: https://www.independent.co.uk/sport/football/leandro-paredes-red-card-argentina-spain-world-cup-b3017827.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-20T03:57:25Z'
+published: '2026-07-20T00:00:00Z'
+description: Paredes was involved in an ugly clash with Spain’s Eric Garcia and Gavi
+  following the full-time whistle
+image: https://static.independent.co.uk/2026/07/19/23/2026-07-19T220446Z_435910754_UP1EM7J1PBX28_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG.JPG?trim=0,111,0,111&width=1200&height=800&crop=1200:800
+---
+
+Argentina’s World Cup ended with punches thrown and the former champions left in disgrace following a 1-0 defeat to Spain in the final.
+
+There were chaotic scenes after the full-time whistle in New Jersey as the Spain substitutes ran onto the pitch to celebrate victory.
+
+Nahuel Molina, the Argentina defender, appeared to swing a punch into the stomach of Spain captain Rodri as he ran past him onto the field.
+
+Then, there was a violent clash involving midfielder Leandro Paredes, who was pictured shoving Spain’s Eric Garcia by the throat.
+
+Paredes wrestled Spain’s Gavi to the ground and pushed into his face while holding him by his substitute bib.
+
+Spain’s Mikel Oyarzabal and Rodri sprinted past Molina after the final whistle was blown and *La Roja* were crowned champions. 
+
+Molina appeared to swing at Rodri, leading to the Spain captain stopping in his tracks and approaching the Argentina defender while shouting.
+
+Molina then squared up to Rodri and bumped him in the chest, which was the flashpoint that triggered Spain’s Eric Garcia to step in.
+
+Paredes, who was booked during the final and was fortunate to not receive a second yellow card, then flew towards Garcia. He jabbed him in the throat just as Argentina coach Lionel Scaloni approached, wagging his finger and trying to break up the scuffles.
+
+With Scaloni separating Garcia and other Argentina coaching staff members getting involved, Paredes then turned his attention to Spain’s 21-year-old midfielder Gavi - who by that point was already wrestling with Argentina’s Thiago Almada.
+
+Paredes, 32, spun Gavi to the ground and appeared to push into his face while holding him by the bib. Several of Gavi’s Spanish team-mates then stepped in to shield him, with Spain’s Borja Iglesias crashing into Paredes.
+
+It was a sorry way for Argentina’s tournament to end after they had taken an emotional path to the final. They were attempting to a second World Cup in a row for captain Lionel Messi, who was playing on the World Cup stage for the final time.
+
+But the antics of the rest of the Argentina team were quickly condemned as the scenes after the final whistle soured Spain’s deserved victory, with former England goalkeeper Joe Hart labelling Argentina’s behaviour “disgusting”.
+
+"It's a disgrace,” Gary Neville said on ITV. “I love the competitiveness of the Argentines, fighting and scrapping for their lives, Messi has propped them up, but it’s been a disgrace the last few games.”
+
+“Paredes threw two or three haymakers into someone's face. He went for them,” Alan Shearer said on BBC. “There is no place or space for that.
+
+“We know how much it means to them and we know how much it hurts to lose, but there is a way to lose. Too many times we have seen that from Argentina. The reaction after the final whistle is terrible.”
+
+BBC pundit Hart said: “There was one man on the pitch who did have class and that was Lionel Messi, who shook hands with every one of those Spanish players.“The game’s done. They could have absolutely no complaints about what happened today. Disgusting behaviour.”
+
+Hart added: “Spain fully deserve it. They have been absolutely superb all tournament.“They have dominated all game against a rigid, rugged Argentina. The best team has won this World Cup.”
+
+Argentina were previously criticised for their aggressive behaviour during their 2-1 semi-final win over England, after which players unveiled a banner claiming sovereignty of the Falklands Islands.
+
+Fellow pundit Wayne Rooney said of Argentina’s behaviour: “Does it surprise you? It doesn’t surprise me.“We’ve seen this with Argentina before. It’s just not the reaction you want. We’ve seen some of the reaction after knocking England out in the last round.“That’s just sad. If you lose a game of football, be graceful and get out of there. It’s really poor from them.”
+
+ITV’s co-commentators were in agreement that Spain were deserved winners, with Lee Dixon accusing Argentina of “anti-football” and questioning how Paredes had remained on the pitch, while Ally McCoist said Spain were “the only team trying to win this game”.
+
+Meanwhile, the tears rolled down Lionel Messi’s face as he watched the Argentina fans following defeat to Spain.
+
+Messi, 39, is yet to confirm his future plans but the expectation is that one of the greatest to grace the game has played his final World Cup before retirement.
+
+The Argentina captain was left frustrated as Spain dominated the final, with the European champions winning 1-0 thanks to Ferran Torres’ goal after extra time.
+
+Messi had inspired a series of brilliant comebacks in the knockout stages to help Argentina to a second successive final but Spain were deserved winners.
+
+Messi scored eight goals in an incredible tournament and the Argentina fans chanted his name as Spain’s Rodri collected the player of tournament award.
+
+Messi then led his team-mates to collect their runners-up medals. He then stood and cried while he watched the Argentina fans serenade him.
+
+The record eight-time Ballon d’Or winner will be 43 at the next men’s World Cup, which takes place in Spain, Portugal and Morocco - but will kick off in Argentina.
+
+Messi waited until Spain lifted the World Cup, but then quickly left the pitch in what was perhaps a bitter end to his World Cup journey.
+
+By playing in the final, Messi became just the third player to appear in three men’s World Cup finals - after Brazil’s Cafu.
+
+Elsewhere, Argentina centre-back Cristian Romero snubbed Donald Trump’s handshake during the presentation of the runners-up medals.
+
+Romero started the match at the heart of the Argentine defence, alongside Lisandro Martinez, but was subbed off at the 70-minute mark.
+
+However, the 28-year-old Tottenham defender still made his mark after that as he snubbed a handshake from Trump when the US president was conducting the medal presentation.
+
+Trump was handing out medals to both teams, as well the individual tournament awards, and Romero shook the hand of both Fifa president Gianni Infantino and Mexican president Claudia Sheinbaum, who were either side of Trump, but did not engage with the US president.
