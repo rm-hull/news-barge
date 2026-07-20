@@ -1,0 +1,39 @@
+---
+title: World’s biggest lottery game to launch in the UK this week – with £1bn jackpot
+source_url: https://www.independent.co.uk/news/uk/home-news/national-lottery-uk-powerball-jackpot-b3017908.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-20T07:23:37Z'
+published: '2026-07-20T00:00:00Z'
+description: British players could have a chance to win £311 million in Thursday’s
+  opening draw
+image: https://static.independent.co.uk/2026/07/06/12/7a58fac4d8c464646960925108c684a5Y29udGVudHNlYXJjaGFwaSwxNzgzNDIyNzAy-2.85203473.jpg?width=1200&height=800&crop=1200:800
+---
+
+The world’s biggest jackpot game is set to launch in the UK this week, the National Lottery operator has announced.
+
+Players will be able to buy into the National Lottery’s Powerball from Tuesday at £4 per line to compete with their US counterparts for shared jackpots that can balloon into billions, paid out over 30 years.
+
+If the Powerball jackpot, currently estimated at $416 million (£311 million), continues to roll until the UK launch, British players will have a chance to win it in Thursday’s opening draw.
+
+This marks the first time the game has operated outside the US, offering UK players uncapped jackpots starting at £12 million, which can grow into hundreds of millions and even billions.
+
+The UK game features an extra “match two main numbers” prize tier, which is only available to UK players and offers a fixed prize of £8.
+
+The “match five main numbers” tier also offers a fixed prize of £1 million, while all other UK prize tiers will vary depending on the balls drawn and the number of winners.
+
+![Players will be able to buy into the game from Tuesday](https://static.independent.co.uk/2026/07/20/02/bb191054e5cf7d2d649cbb231b21207cY29udGVudHNlYXJjaGFwaSwxNzg0Mjk0Mzcx-2.85203501.jpg)
+
+Allwyn chief executive Andria Vidler said: “Powerball jackpots can soar into the billions, offering breathtaking sums with the potential to transform lives and communities.
+
+“We’re encouraging players to get involved when tickets go on sale and we’ll be crossing our fingers for our first UK winner.”
+
+The National Lottery recently made the biggest overhaul to its draw-based Lotto game since its launch in 1994, with players being given two chances to win for every £2 ticket.
+
+The change, which was rolled out from June 7, is expected to more than double the number of Lotto millionaires – from about 140 a year to about 345.
+
+It also follows the recent completion of a £450 million major tech upgrade to the lottery, which involved moving 18 million player records and more than three billion historical transactions from old platforms to new ones, and transforming the technology used by retail partners.
+
+Latest figures from Allwyn show total National Lottery sales, including lottery tickets bought in shops, came in at £8.1 billion in 2025, up 3.5 per cent on the previous year.
+
+More than £1.7 billion was generated for good causes, which incorporates funding for health, education, arts, sports heritage and charitable causes, and £967 million was raised in taxes.

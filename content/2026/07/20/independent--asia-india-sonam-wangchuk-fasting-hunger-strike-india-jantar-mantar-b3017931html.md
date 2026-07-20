@@ -1,0 +1,87 @@
+---
+title: Why is Indian activist Sonam Wangchuk on hunger strike?
+source_url: https://www.independent.co.uk/asia/india/sonam-wangchuk-fasting-hunger-strike-india-jantar-mantar-b3017931.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-20T07:23:53Z'
+published: '2026-07-20T00:00:00Z'
+description: Climate activist has joined student-led protests over alleged exam leaks,
+  but his worsening health has become a growing concern
+image: https://static.independent.co.uk/2026/07/20/07/2026-07-20T062200Z_801247301_RC2XGMAJ3W1Z_RTRMADP_3_INDIA-GEN-Z-ACTIVIST.JPG?trim=9,0,9,0&width=1200&height=800&crop=1200:800
+---
+
+Indian activist Sonam Wangchuk was forcibly moved to hospital on Saturday amid an ongoing hunger strike in the Indian capital Delhi after a court ruled police should take responsibility for monitoring his wellbeing.
+
+Although the 59-year-old is well known for his work on climate adaptation in the Himalayas and for inspiring a major Bollywood film, his current protest is not related to climate change.
+
+Instead, he has joined a wider national movement demanding accountability after a series of irregularities shook India’s higher education system and affected one of its most important competitive examinations.
+
+Here’s what we know:
+
+## Why is Wangchuk fasting?
+
+The hunger strike centres on demands made by the Cockroach Janta Party (CJP), a satirical citizens’ movement founded by activist Abhijeet Dipke. The CJP, founded by 30-year-old Mr Dipke, has caught the imagination of young Indians on Instagram, gaining 22 million followers within a few days of being set up in May.
+
+The group launched protests at Delhi’s Jantar Mantar on 20 June, following allegations of widespread irregularities in competitive examinations, including the cancellation of India’s national medical entrance examination after a paper leak.
+
+Mr Wangchuk joined the protest on 28 June and began an indefinite fast in solidarity with students.
+
+The protesters are demanding the resignation of federal education minister, Dharmendra Pradhan, arguing that he should accept political responsibility for the examination controversies. The exam leaks led to the cancellation of a medical college entrance paper taken by 2.3 million candidates, with retakes held weeks later. The exams are fiercely competitive, with only 5 to 6 per cent of students taking the exam, known as the National Eligibility cum Entrance Test, securing seats at medical schools.
+
+*The Independent* has reached out to Mr Pradhan’s office for comment. Mr Pradhan had said authorities would ensure a "fair and transparent" re-test.
+
+Protesters are demanding greater accountability and reforms in India’s examination system and $116,000 in compensation for families of students who allegedly died by suicide following examination-related distress, according to the CJP.
+
+“As you know, 20 students have committed suicide. It should not happen that next year the number rises to 40 or 80. We are sitting here to prevent such situations,” Mr Wangchuk was quoted as saying by *The Telegraph* online newspaper earlier. 
+
+## Why has this protest attracted so much attention?
+
+Mr Wangchuk is one of India’s best-known public figures outside mainstream politics.
+
+A mechanical engineer from the Himalayan region of Ladakh, he has spent decades working on education reform and sustainable technologies designed for mountain communities.
+
+His best-known innovation is the “ice stupa” – an artificial glacier that stores winter water for use during the spring farming season.
+
+He received the Ramon Magsaysay Award in 2018, often described as Asia’s equivalent of the Nobel Prize, and became widely recognised after inspiring the character played by Aamir Khan in the 2009 Bollywood blockbuster 3 Idiots.
+
+However, Mr Wangchuk has often distanced himself from the film.
+
+His involvement has elevated the public profile of the student-led protest, attracting participation and comment from politicians, academics, activists and public figures from across India.
+
+## How is his health?
+
+Doctors monitoring Mr Wangchuk say his condition has steadily worsened during the fast.
+
+According to health updates released by the protest organisers, he has lost more than 8.4kg since beginning the hunger strike. His blood pressure and blood sugar levels have also fallen, prompting repeated warnings from doctors.
+
+On Saturday, after he was moved to hospital, doctors said he was suffering from dehydration but that his vitals were otherwise normal. They said they would treat him for dehydration before discharging him, and quickly moved him to an ordinary ward.
+
+Earlier in the protest, Mr Wangchuk said his body had adjusted to the fast and that although he had lost muscle mass, he remained mentally strong.
+
+He has said he intends to continue fasting until the protest reaches what he describes as its logical conclusion, telling Reuters three days into the hunger strike that he was willing to die for the cause.
+
+## Who else is on hunger strike?
+
+Mr Wangchuk is not fasting alone.
+
+Several students and activists, including members of student organisations such as the All India Students’ Association (AISA), are also observing indefinite hunger strikes at the protest site in Delhi. At least one participant has reportedly been hospitalised after their health deteriorated.
+
+## What are protesters planning next?
+
+Organisers say they have received no formal response from the federal government of prime minister Narendra Modi despite weeks of demonstrations.
+
+The CJP has announced a peaceful march to India’s parliament on 20 July, the opening day of the monsoon session, when lawmakers reconvene.
+
+The organisers say students, parents and citizens from across the country will be invited to participate if their demands continue to go unanswered.
+
+Mr Dipke, the CJP’s founder, said after Mr Wangchuk was taken to hospital that the party would escalate their protests, and called on Mr Modi to step down.
+
+## Wangchuk’s previous protests:
+
+In recent years, Mr Wangchuk has become one of the leading voices on issues affecting Ladakh, India’s high-altitude Himalayan region.
+
+He has campaigned for stronger constitutional safeguards, environmental protection, and greater political representation for Ladakh after it was separated from the former state of Jammu and Kashmir and made a federally administered territory in 2019.
+
+Last year, he was arrested while leading a protest march linked to those demands. Authorities accused him of inciting unrest, allegations he denied. He spent about 170 days in prison before the charges were dropped and he was released.
+
+*If you are experiencing feelings of distress and isolation, or are struggling to cope, The Samaritans offers support; you can speak to someone for free over the phone, in confidence, on 116 123 (UK and ROI), email**[jo@samaritans.org](mailto:jo@samaritans.org)**, or visit the Samaritans website to find details of your nearest branch.If you are based in the USA, and you or someone you know needs mental health assistance right now, call National Suicide Prevention Helpline on 1-800-273-TALK (8255). The Helpline is a free, confidential crisis hotline that is available to everyone 24 hours a day, seven days a week.If you are in another country, you can go to** www.befrienders.org**to find a helpline near you.*
