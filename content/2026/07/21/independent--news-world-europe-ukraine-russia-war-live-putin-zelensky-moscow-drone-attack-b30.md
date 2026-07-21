@@ -1,0 +1,153 @@
+---
+title: 'Ukraine war live: Chinese nationals among 10 injured in drone attack on Moscow'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-moscow-drone-attack-b3018561.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-21T06:39:08Z'
+published: '2026-07-21T00:00:00Z'
+description: Monday morning's drone assault on Moscow involved around 400 UAVs, officials
+  say
+image: https://static.independent.co.uk/2026/07/18/17/2285996189..?trim=0,223,0,223&width=1200&height=800&crop=1200:800
+---
+
+At least three Chinese nationals have been wounded in a major Ukrainian drone attack on Moscow, Chinese state media announced this morning.
+
+The attacks were carried out over Sunday night and Monday morning and included 400 drones, targeting the Russian capital and its surrounding region.
+
+Separately, India also confirmed four casualties to its nationals in a Russian attack on a ship leaving the southern port city of Odesa in Ukraine.
+
+Ukraine said Russia hit the Golden Leo – a Guinea-Bissau-flagged ship manned by a crew from India and Syria – with three cruise missiles on Sunday.
+
+This comes as Volodymyr Zelensky said he spoke with the new British prime minister Andy Burnham, shortly after he took office yesterday in London.
+
+Burnham has promised to Zelensky that Britain's support for Ukraine would remain unchanged under his leadership, just hours after he replaced Sir Keir Starmer in No 10.
+
+## Chinese nationals injured in drone attack on Moscow
+
+At least three Chinese nationals have been reported injured during a Ukraine drone attack on Moscow, Chinese state media announced this morning.
+
+The Chinese embassy in Russia said two people were receiving treatment at a local hospital and were in stable condition without life-threatening injuries, while another had asked to be discharged for treatment back in China.
+
+The embassy said it immediately activated its emergency response mechanism and asked Russian authorities to take all necessary measures to treat the injured and protect the safety and property of Chinese citizens.
+
+The three Chinese nationals were among 10 people injured in an attack carried out over Sunday night and Monday morning.
+
+## Four Indian seafarers killed in ‘Russian strike’ on ship leaving Ukraine
+
+Four Indian nationals were among 10 people killed in an alleged Russian cruise missile strike on a cargo ship leaving Ukraine's southern port of Odesa over the weekend.
+
+India's foreign ministry said on Monday that the vessel, MV Golden Leo, was attacked on Sunday evening just as it was departing Odesa with 17 crew members, including five Indians.
+
+The surviving Indian crew member was critically injured, the foreign ministry added.
+
+The Ukrainian navy alleged that the vessel, flying the Guinea-Bissau flag and owned by a Turkish company, was targeted by Russian forces with three cruise missiles.
+
+Ten people were killed, including a Ukrainian pilot, Ukraine’s Sea Ports Authority said after launching a search and rescue operation.
+
+![](https://static.independent.co.uk/2026/07/21/4/13/HNm8IvaWMAAiR8s.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800)
+
+## Russia expels two Italian diplomats, foreign ministry says
+
+Russia said it had declared two Italian diplomats persona non grata, calling it a reciprocal measure in response to the expulsion of two Russian embassy staff in Italy.
+
+Italian foreign minister Antonio Tajani said on 9 July that Rome had expelled two military attaches at the Russian embassy in Italy who were allegedly involved in espionage activities.
+
+The Russian foreign ministry said in a statement that Vittorio Parrella, the assistant defence attache at the Italian embassy, and Davide D’Aprile, an attache, were persona non grata and must leave Russia with their families within three days.
+
+The ministry also said it had summoned Italian interim Charge d'Affaires Giovanni Scopa in connection with the expulsion of Russian embassy staff.
+
+"The Russian Federation has expelled, without reason, the Italian military attache in Moscow along with one of his collaborators. This is an act of blatant retaliation for the expulsion from Italy of two Russian military attaches, who were indeed caught red-handed while carrying out espionage activities to the detriment of our national security," Tajani wrote on X on Monday.
+
+## Andy Burnham to pledge he will ‘be there’ for Zelensky on first call as PM
+
+Andy Burnham has pledged he will “be there for” Ukraine’s Volodymyr Zelensky and the UK’s support would remain “resolute” under his premiership.
+
+The new Prime Minister indicated that the President of Ukraine would be one of the first foreign leaders he would speak to after replacing Sir Keir Starmer in No 10.
+
+He also indicated plans for a call with US President Donald Trump.
+
+Mr Burnham has little foreign policy experience from his time in government, but he said he had worked with Ukrainian mayors while he was running Greater Manchester.
+
+He said he would support Mr Zelensky personally, as well as offer the UK’s backing to Ukraine.
+
+Mr Burnham told broadcasters: “Those will be my first calls, and I’ll be making very clear later today to President Zelensky that there is no change.
+
+## Burnham speaks to Zelensky and Trump in first calls after taking office
+
+Andy Burnham has spoken with Ukraine's Volodymyr Zelensky and US president Donald Trump as part of his first set of phone calls with world leaders as prime minister.
+
+Burnham promised that Britain's support for Ukraine would remain unchanged under his leadership, just hours after he replaced Sir Keir Starmer in No 10.
+
+Zelensky confirmed the call on his Telegram channel and said the two sides reaffirmed their unwavering support for Ukraine and agreed to speak on bilateral cooperation in the near future, including within the Anti-Ballistic Coalition.
+
+"I was happy to speak with Andy Burnham and congratulate him on taking office as prime minister of the United Kingdom. I truly appreciate that the support for Ukraine and our people will remain steadfast," he said.
+
+Zelensky thanked Burnham for “warm words of respect for the Ukrainian people and for your condolences to the families and loved ones of those killed in Russia's recent attacks”.
+
+Trump said on Truth Social that he had spoken to Burnham in one of his first phone calls as PM. "The call was interesting, and went very well," Trump wrote.
+
+Burnham, who has little previous foreign policy experience, has said that Britain will remain a firm United States ally.
+
+## IMF approves $690m for Ukraine after review
+
+The International Monetary Fund's board completed a review of Ukraine's financing arrangement, clearing the way for immediate access to about $690m, the Fund said on Monday.
+
+IMF managing director Kristalina Georgieva said on Monday that maintaining macroeconomic stability remained Ukraine's immediate priority and called for prudent fiscal and monetary policies as well as measures to safeguard financial-sector resilience.
+
+The war-torn nation is operating under an $8.1bn IMF loan programme.
+
+The latest funding brings total disbursements under the programme to about $2.2bn, the IMF said in a statement.
+
+The review is a key test for Ukraine as it struggles to sustain economic stability and advance reforms while battling intensified Russian attacks on its infrastructure.
+
+The IMF said Ukraine had maintained macroeconomic and financial stability despite Russia's war.
+
+However, it said the economic outlook had weakened largely due to intensified attacks on critical infrastructure and spillover effects from the war in the Middle East.
+
+To keep the programme on track, IMF staff and Ukrainian authorities agreed in June to a revised timeline for implementing reforms, corrective actions to address slippages and additional policy commitments, the IMF said in June.
+
+## Watch: Moscow under attack as Zelensky vows to intensify pressure on Russia
+
+## Why young Ukrainians in the streets want wartime military general gone
+
+Thousands of angry protesters in Ukraine have taken to the streets triggering the largest protests the war-hit nation has seen since Russia's invasion in 2022.
+
+For several days in a row now, these protesters have defied martial law to protest against last week's removal of young reformer Mykhailo Fedorov as defence minister and to demand the dismissal of Commander-in-Chief Oleksandr Syrskyi.
+
+The protests have exposed deep divisions in the defence leadership on how to stop Russia's battlefield advances, as the war's overall momentum has swung in Kyiv's favour.
+
+A poll from Gradus research company showed that 61 per cent of Ukrainians were against the dismissal of Fedorov.
+
+Zelensky said he spoke with Fedorov, 35, "at length" over the weekend as the tussle between the two sides intensified, with the ousted young defence minister refusing to return to the government.
+
+A source close to Fedorov told Reuters that he had discussed other roles with Zelensky, but that he was only ready to return as defence minister.
+
+Ukrainian media reported that Fedorov had been offered roles overseeing military technology and innovation.
+
+Dmytro Koziatynskyi, a war veteran and one of the organisers of the protests, called on supporters to launch a "general, indefinite protest" unless Syrskyi is removed and Fedorov reappointed as defence minister by 24 July.
+
+Syrskyi, 60, faces criticism from civil society, soldiers and lawmakers for his Soviet-style command culture and high casualty tactics.
+
+## Four Indians killed in attack on ship leaving Ukraine port, confirms New Delhi
+
+An attack on a ship leaving Ukraine's southern port of Odesa on Sunday killed four Indians and left another in a critical condition in hospital, India's foreign ministry said in a statement late on Monday.
+
+Russia hit the Golden Leo – a Guinea-Bissau-flagged ship manned by a crew from India and Syria – with three cruise missiles on Sunday, Ukraine's navy wrote on the Telegram messaging app.
+
+"India condemns such attacks and reiterates that targeting commercial shipping and endangering innocent civilian crew members, or otherwise impeding freedom of navigation and commerce, is deplorable and should be avoided," the ministry statement said.
+
+## Zelensky meets military commanders amid street protests against army chief
+
+President Volodymyr Zelensky met some of Ukraine’s top military commanders on Monday to try to ease growing discontent with the defence leadership that has triggered the largest street protests since Russia's invasion in 2022.
+
+Ukraine's military commander-in-chief Oleksandr Syrskyi, 60, is facing mounting criticism from civil society, soldiers and lawmakers for his Soviet-style command culture and high casualty tactics.
+
+Zelensky met five generals and one colonel, viewed by political analysts as potential replacements for Syrskyi, one after another to discuss the battlefield situation as fighting rages along more than 1,200km (746 miles) of the frontline.
+
+The six most well-known and respected military commanders, including Commander of the Joint Forces Mykhailo Drapatyi and Deputy Chief of the General Staff Volodymyr Horbatyuk, represent a younger generation of Ukrainian officers whose careers were shaped in combat against Russian troops.
+
+Oleh Apostol, commander of the air assault forces, and commanders of the three army corps – Andriy Biletsky, Ihor Obolenskyi, and Denys Prokopenko also met Zelensky, who posted pictures from his study following each meeting.
+
+Zelensky's chief of staff, Kyrylo Budanov, called for unity and restraint in the wake of the protests, promising a constructive response.
+
+“The public’s views have been heard," he said. "Work is underway. Results will follow.”
