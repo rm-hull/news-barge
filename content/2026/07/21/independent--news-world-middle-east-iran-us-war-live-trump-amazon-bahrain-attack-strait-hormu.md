@@ -1,0 +1,106 @@
+---
+title: 'Iran war live: Amazon data centre hit by cruise missiles as Tehran steps up
+  attacks'
+source_url: https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-amazon-bahrain-attack-strait-hormuz-b3018601.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-21T10:32:52Z'
+published: '2026-07-21T00:00:00Z'
+description: ‘Our missiles and drones will rain down on American criminals,’ wrote
+  the IRGC as it vowed to fight to the end
+image: https://static.independent.co.uk/2026/07/20/10/2286051854..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+Iran's Revolutionary Guards said they targeted infrastructure belonging to US company Amazon AMZN.O in Bahrain, according to a statements published by state media on Tuesday.
+
+There was no official confirmation from Bahrain and Reuters could not independently verify the incident. Iran’s semi-official Tasnim news agency said that the facility was part of the company’s central data infrastructure.
+
+US president Donald Trump has vowed to make Iran pay "many times over" for the deaths of US soldiers as his troops launched the 10th consecutive night of attacks.
+
+Trump issued the warning on Monday after he claimed the US had hit Iran "very hard" in retaliation for the deaths of three American soldiers in Jordan and Iraq.
+
+This morning the Iranian army claimed to have targeted three major US military installations in Kuwait using attack drones. Iran on Monday had vowed to continue striking American targets “for years” if required as diplomacy slipped further out of view.
+
+Iran's Revolutionary Guard also pushed back on Trump’s recent claims that Iran is running out of munitions, as the regime continues to pound US facilities in neighbouring countries.
+
+“[Trump] should know that, by God's grace, even if this war lasts for several years, until the very last day, our missiles and drones will rain down on American criminals,” the statement said.
+
+## US strikes unlikely to change Iranian position, say intelligence reports
+
+New US intelligence reports suggest that a new round of US strikes on facilities is unlikely to influence Iran’s position, both current and former US officials told*The Washington Post*. 
+
+The spy agencies have concluded that Tehran and Washington are stuck in a limbo between war and peace.
+
+The findings have been briefed to President Donald Trump’s administration, according to the reports.
+
+## Reza Pahlavi says he received DMs from IRGC members wanting to 'break away'
+
+In an interview with DRM News, Reza Pahlavi has said that he receives social media messages from members of the Iranian establishment that are hoping to break away from it.
+
+“I began receiving some DMs in my social media by elements that say, you know, ‘I'm a basij in Mashhad,’ or ‘I'm a member of the IRGC in such and such country. We hate this regime. We're not with them. We're looking for an opportunity to break away’,” he said.
+
+“It's not that I'm in fact talking to the IRGC command — not at all. But there were elements of the Sepah, of course the military as well, that would communicate with me discreetly.”
+
+## Pentagon withheld information on dozens of US military injuries in Iran war: report
+
+The Pentagon withheld information on dozens of military injuries suffered by US forces during the war in Iran, according to a report.
+
+At least two service members were killed and one missing after Iranian attacks on the Muwaffaq Salti US Air Base in Jordan on Friday.
+
+They were identified on Monday as 25-year-old 1st Lt Tyler James Feehan from Ewa Beach, Hawaii and 19-year-old Pvt. Isabella Gonzales from Carrolton, Texas.
+
+But in the week leading up to the incident, Iran carried out three other attacks against the US in Jordan that injured dozens of service members and damaged several helicopters, US officials told the *New York Times*.
+
+The Pentagon did not disclose the attacks nor release details of the casualties and damage inflicted.
+
+## Oil prices remain close to one-month high as Yemen announces Red Sea blockade
+
+Oil prices held close to a one-month high on Tuesday despite efforts to broker a truce between the US and Iran as the widening conflict and a new threat to Red Sea shipping kept supply fears alive.
+
+Brent crude, the international benchmark, slipped 0.4 per cent to $88.87 a barrel, while US West Texas Intermediate held steady at $82.47. Both remained near the highs reached the day before, when Brent broke above $90 for the first time in more than a month.
+
+The slight retreat came after reports of a mediation effort to pause the fighting between US and Iran. Tehran had received a proposal from mediators for a 10-day ceasefire, an effort to salvage an interim deal signed on 17 June to end the US-Israeli war on Iran that started on 28 February, a senior Iranian official told Reuters.
+
+## Iran's Guard target Amazon infrastructure in Bahrain
+
+Iran's Revolutionary Guard have claimed to have targeted US retail giant Amazon's infrastructure in Bahrain.
+
+The Guard have also launched attacks on US bases in Jordan and Kuwait.
+
+## Iran claims strikes on US bases in Jordan
+
+Iran's Revolutionary Guard this morning claimed it launched an attack on US military bases in Jordan.
+
+The Guard claimed it destroyed a missile defence radar system and an F-15 aircraft inside a shelter during the attack.
+
+## Pentagon chief says 100 US troopers injured in attack
+
+The Pentagon’s chief spokesperson said nearly 100 US service members have been injured since the US restarted strikes on 7 July, and 96 per cent of them have returned to duty.
+
+“The vast majority of injuries experienced were minor concussions,” Sean Parnell posted on X in response to a *New York Times* report that the Pentagon has withheld information about troop injuries from Iranian strikes. He denied that the Pentagon was hiding data about injuries.
+
+However, the Defense Casualty Analysis System, the military’s clearinghouse for reporting deaths and injuries in conflict, has not been updated as of last night with the latest attacks.
+
+## Yemen’s Houthis declare fresh naval blockade in the Middle East
+
+Yemeni rebel group, the Houthis, have declared a naval blockade on Saudi Arabia, a move that would mark a major escalation in conflict in the region and further disrupt global energy supplies beyond the Gulf.
+
+In a statement, the Iran-aligned armed group said that they were declaring “a maritime embargo against the criminal Saudi enemy, based on the equation of 'an eye for an eye', effective immediately”.
+
+They said the decision was in response to what they described as “an unjust and oppressive siege” imposed on Yemen by the Saudis.
+
+*More here.*
+
+## Israeli strikes kill five in Gaza
+
+At least five Palestinians were killed and several others injured in Israeli airstrikes across Gaza.
+
+A man and his daughter were killed when an Israeli drone struck the Al-Yaman Al-Saeed shelter for displaced people in the Jabalia refugee camp in northern Gaza, Anadolu reported.
+
+Three others were earlier killed when another Israeli drone struck a vehicle belonging to the Desert Sands Insurance Company near the British Field Hospital in the Al-Mawasi area of Khan Younis, according to reports.
+
+## Explosions heard in western Iranian city
+
+Several explosions were heard during the early hours of the day in the western Iranian city of Abdanan, governor Behzad Nourmohammadi said.
+
+“Fortunately, this incident did not result in any casualties, and the responsible agencies are investigating the dimensions of the issue,” he said.
