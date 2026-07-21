@@ -1,0 +1,57 @@
+---
+title: Brazil's Amazon sees sharp decline of area burned in 2025
+source_url: https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-21T17:41:14Z'
+published: '2026-07-21T00:00:00Z'
+description: The amount of land burned in the world's largest rainforest was the smallest
+  since MapBiomas records began in 1985.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg
+---
+
+![An aerial view of lush green trees and a windy river winding through it, in the indigenous village of Pykany on the banks of Brazil's Xixe River in the Menkragnoti Indigenous Territory, south-western Pará State, in May.](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg)
+
+The low figures for 2025 are welcome news after a peak in areas burned in 2024
+
+**The area burned in Brazil's Amazon in 2025 was far smaller in size than the previous year, according to the deforestation monitoring group MapBiomas.**
+
+A MapBiomas report states that 3.1 million hectares of Brazil's Amazon were burned last year, compared with a record-breaking 15.8 million hectares in 2024.
+
+The amount of land burned in the world's largest rainforest last year covered the smallest area since MapBiomas records began in 1985.
+
+Protecting the Amazon was one of the pledges President Luiz Inácio Lula da Silva made when he was running for running for office four years ago. These latest figures will be seen as a boost to his campaign for re-election in October.
+
+In 2024, the Amazon rainforest experienced its worst forest fires in over two decades, which the Copernicus Climate Change Service put down to "climate extremes and human activity".
+
+"The 2025 figures are significant and show that it is possible to reduce the burned area in the country," Vera Arruda, a researcher at the Amazon Environmental Research Institute (IPAM) and co-ordinator at MapBiomas, told the BBC.
+
+"The 31% drop compared to the historical average - driven primarily by the lowest number of fires recorded in the Amazon in 41 years - is positive news, but it does not yet allow us to conclude that this is an established trend or to scale back prevention efforts," Arruda added.
+
+The MapBiomas report shows a dramatic drop in area burned not just in the Amazon, but across the whole of Brazil in 2025.
+
+Figures show around 12.7 million hectares burned in Brazil in 2025, compared to 30 million hectares in 2024.
+
+The highest number of hectares burned in Brazil since records began was in 2007, when 30.7 million were recorded across the country.
+
+The decline in the 2025 figures partly reflects an easing of the unprecedented fires of 2024, helped by cooler La Niña conditions instead of the warmer El Niño.
+
+But MapBiomas warned the natural weather pattern of El Niño, which pushes up global temperatures, could extend this year's dry season and increase the risk of forest fires.
+
+![An aerial view of land affected by forest fires, with black burnt down trees on the floor beside lush green bushes in Breves, in the Amazon region of the Marajó Archipelago, in Brazil's state of Pará](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0ceb/live/9a980950-84dd-11f1-bee8-53ce494e1abc.jpg)
+
+In 2024, larges swathes of Amazon rainforest burned as climate extremes and human activity fuelled fires
+
+Tropical rainforests like the Amazon are home to millions of species, and in a healthy state they absorb vast quantities of planet-warming carbon dioxide, helping to keep the Earth cool.
+
+They have come under increasing pressure as a result of decades of deliberate land clearance for agriculture and logging, as well as climate change, which scientists warn can create the conditions for bigger fires to spread.
+
+When he took office, President Lula promised to reverse the deforestation which occurred during the presidency of his predecessor, Jair Bolsonaro.
+
+Bolsonaro argued that more farming and mining in the Amazon would reduce poverty in the region and environmentalists accused him of allowing deforestation to accelerate.
+
+Three years into Bolsonaro's four-year term, the amount of trees cut down in the Amazon rainforest went up by 75%.
+
+On his first day in office, on 1 January 2023, Lula insisted that "our goal is to achieve zero deforestation in the Amazon".
+
+While that pledge was warmly welcomed by environmentalists, there has been widespread criticism of Lula's decision to approve oil exploration at the mouth of the Amazon river, which activists say flies in the face of his promise to protect the Amazon region.
