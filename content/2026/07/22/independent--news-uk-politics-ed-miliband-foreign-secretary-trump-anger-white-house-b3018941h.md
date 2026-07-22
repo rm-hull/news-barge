@@ -1,0 +1,76 @@
+---
+title: Trump furious at Miliband’s appointment as foreign secretary
+source_url: https://www.independent.co.uk/news/uk/politics/ed-miliband-foreign-secretary-trump-anger-white-house-b3018941.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-22T10:34:33Z'
+published: '2026-07-22T00:00:00Z'
+description: Andy Burnham has been warned that the US president ‘will not forget’
+  Ed Miliband’s fierce criticism of him in the past and that he has some ‘serious
+  diplomatic repair to undertake’ in his new role
+image: https://static.independent.co.uk/2026/07/21/12/01KY2763GGZVKVPBCH0PP2X79J.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+The White House is “deeply concerned” about Ed Miliband’s appointment as foreign secretary, with a warning that Donald Trump has not forgotten scathing remarks the former Labour leader has made about him in the past.
+
+New prime minister Andy Burnham has been cautioned that Mr Miliband has some “serious diplomatic repair to undertake” in the US, after his promotion to the role on Monday sparked anger from the Trump administration.
+
+The former energy secretary has previously clashed with Mr Trumpover net zero and his attitudes to democracy and in 2016 he described the president as “a racist, misogynistic, self-confessed groper”.
+
+One source close to the president told *The Independent*: “There’s genuine anger about this appointment.”
+
+![Ed Miliband’s appointment has ruffled feathers in Washington DC](https://static.independent.co.uk/2026/07/21/12/01KY2763GGZVKVPBCH0PP2X79J.jpg)
+
+The two men have been attacking one another for more than a decade. Mr Miliband previously said of the president: “We must do our best at home and abroad to resist the worst of Trumpism… These are dark days for America and the world. There can be little solace right now.”
+
+In 2017, he said Mr Trump had “lowered the bar for idiocy” and later joined a Stop Trump March in London. He also criticised the president’s "incredibly peculiar relationship with Russia" and accused him of lowering standards in politics.
+
+The new foreign secretary has also described Mr Trump’s criticism on social media of the UK’s stance on drilling for oil and gas as “irrelevant”, with the president highly critical of his “net zero zealotry" and accusing him of blocking the UK from expanding oil and gas operations in the North Sea.
+
+On Mr Miliband’s past remarks, one ally close to the president told *The Independent*: “Trump doesn’t forget. He will not forget. Miliband has some serious diplomatic repair to undertake.”
+
+A consultant who works with both the White House and State Department added: “It [Mr Miliband’s appointment] is going down like a lead balloon. The US government no longer takes the UK seriously.
+
+“Ed Miliband is known in Washington for all the wrong reasons. Ed Miliband is seen as an unreasonable ‘nut zero’ extremist who blocked North Sea oil production but was happy for the UK to purchase Norway's fossil fuels from the North Sea.”
+
+The White House is said to be “deeply concerned” about the appointment even though Mr Miliband has previously described how much he loves the US.
+
+They also noted that Mr Burnham himself said in 2021: “Any UK politician who gave Trump the time of day should be ashamed.”
+
+Mr Burnham chose Mr Miliband as foreign secretary partly because he decided against making him chancellor, following a backlash from those on the right of the party.
+
+However, the plan, as revealed over the weekend by *The Independent*, is for Mr Miliband to reform the Foreign Office around the UK’s climate goals and find a roadmap back to spending 0.7 per cent of Gross Domestic Product on overseas aid, which was slashed under Sir Keir Starmer.
+
+But there is also anger in the US over Mr Miliband’s time as Labour leader when he withdrew his support for bombing Syria after the regime there was responsible for a number of atrocities in 2013. The coalition government lost the vote in parliament as a result and the US was left alone in wanting to take action.
+
+Former prime minister Boris Johnson, who is close to senior Republicans, suggested on Tuesday that this emboldened Vladimir Putin to invade the Crimea in Ukraine in 2014.
+
+He wrote on X: “The failure to stand up to Bashar al-Assad – for which Miliband bears much guilt – led directly to Putin’s first invasion of Ukraine. An appalling choice for foreign secretary. The Kremlin will be delighted.”
+
+Mr Miliband lived in Boston, Massachusetts, as a boy for brief periods while his father, the Marxist academic Ralph Miliband, was teaching there. He is a big fan of baseball and a supporter of the Boston Red Sox. He later returned to the US as an adult in the early 2000s to spend several semesters teaching economics at Harvard University.
+
+![Burnham hosts his first cabinet meeting on Tuesday](https://static.independent.co.uk/2026/07/21/16/da7d66fe820388eb1568ab96f8d0f4c3Y29udGVudHNlYXJjaGFwaSwxNzg0NzMyNDA3-2.85373311.jpg)
+
+Another ally of the president working on his Iranian policy told *The Independent* that Mr Miliband was not the only choice raising eyebrows in the US.
+
+They said: “Miliband is a bit of an odd choice – as is Wes Streeting as defence secretary.”
+
+But former Labour foreign minister Bill Rammell said he believes Mr Miliband and Mr Trump will be able to put their differences behind them.
+
+He pointed out that both Sir Keir and the former foreign secretary David Lammy had developed a good relationship with President Trump despite their previous remarks about him.
+
+Added to that, JD Vance had never been a Trump supporter before becoming his pick for vice-president in 2024.
+
+*For the latest political headlines delivered straight to your inbox, sign up for our daily View from Westminster newsletter**here**.*
+
+Mr Rammell told *GB News:* “I am sure Ed Miliband will be able to build a working relationship.”
+
+In a statement following his appointment, Mr Miliband appeared to look towards the EU first, promising to deepen ties with the bloc before speaking about Britain’s “essential alliance with the United States”.
+
+Mr Miliband pledged to fight for “Britain’s interests and our values of democracy, freedom and the rule of law on the world stage”.
+
+He added: “I will seek to deepen and strengthen our strategic alliance with the European Union, which is so important for our prosperity and security and at the same time nurture our strong, enduring and essential alliance with the United States.”
+
+Steve Bannon, an outspoken ally of President Trump, told *The Telegraph*: “The Trump administration took the extraordinary step of warning the new prime minister that the United States would view the appointment of “red diaper” baby and self-described socialist Ed Miliband as very injurious to the ‘special relationship’. Burnham could not care less – he appointed this twit anyway.”
+
+*The Independent* has contacted Mr Miliband’s office but they have declined to comment.

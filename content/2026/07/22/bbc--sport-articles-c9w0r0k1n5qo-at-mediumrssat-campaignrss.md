@@ -1,0 +1,129 @@
+---
+title: 'Commonwealth Games: Five big names to look out for at Glasgow 2026'
+source_url: https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-22T10:33:48Z'
+published: '2026-07-22T00:00:00Z'
+description: These are the stars to look out for across the 10 sports at the 2026
+  Commonwealth Games in Glasgow.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3b88/live/aa17dfe0-841f-11f1-b976-0b9c15b0ccfc.png
+---
+
+![Scotland's Josh Kerr, England's Kadeena Cox and South Africa's Chad le Clos are among the biggest names competing in Glasgow](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/3b88/live/aa17dfe0-841f-11f1-b976-0b9c15b0ccfc.png)
+
+Scotland's Josh Kerr, England's Kadeena Cox and South Africa's Chad le Clos are among the biggest names competing in Glasgow
+
+**With 215 golds up for grabs at the Glasgow 2026 Commonwealth Games, highlighting just five medal hopefuls is no easy feat.**
+
+Scotland's largest city is set to welcome more than 3,000 athletes from 10 sports, all of whom have the ambition of leaving with a slab of metal resting on their chest.
+
+For some, a podium-finish is paramount. The bare minimum. For others, competing at the Games is a win in itself.
+
+Much has been made of the reduced programme, the city's readiness and the 'what next?' once Glasgow has passed on the hosting baton again, but for now, the attention - finally - is fully on the athletes.
+
+Here, BBC Scotland highlights some of the biggest names set to compete in the upcoming Commonwealth Games.
+
+## Can record-breaking Kerr make more history?
+
+We couldn't start with anyone else, could we?
+
+Even before he walked the walk after talking the talk, new mile world-record holder Josh Kerr was the poster boy for his home Games.
+
+The brazen - arguably gallus - boy from Edinburgh has won the hearts of many Scots, and athletics fans generally, in recent years for his no-nonsense, bullish approach on and off the track.
+
+He set out his stall months ago, targeting the men's mile world record - which had stood for 27 years - at London's Diamond League on Saturday.
+
+Kerr didn't just break it, he smashed it by nearly half a second, running a simply sublime three minutes 42.66 seconds.
+
+The Scot now heads to his homeland for his second Games appearance, competing in the Commonwealth Mile in search of his first medal for Team Scotland.
+
+The 28-year-old told BBC Scotland earlier this year that "gold in Scotland is what I grew up thinking about" and you'd be a brave soul to wager against him when he's in this mood.
+
+**Men's one mile final:** Scotstoun Stadium on Saturday, 1 August.
+
+'Oh my word!' - Scotland's Kerr breaks mile world record
+
+## Ten years on from Rio... Cox to swoop gold again?
+
+It's hard to believe Kadeena Cox has not yet competed at a Commonwealth Games.
+
+The para-cyclist, who won gold in athletics and cycling at the 2016 Paralympics in Rio, has missed the last two Commonwealth Games because of injury.
+
+But the 35-year-old, who was a contestant on I'm A Celebrity... Get Me Out of Here in 2021 after winning Celebrity Masterchef earlier that year, will be hopeful of cooking up a storm at the ever-rowdy Sir Chris Hoy Velodrome for Team England.
+
+In an expanded para-track cycling programme, Cox will compete in the C4-5 event with her sights set on another podium finish.
+
+Cox made the watching world sit up and take notice 10 years ago in Brazil. Sure to be well-backed in Glasgow, it would be right on brand for the vivacious Cox to star in the Glasgow velodrome.
+
+**Women's C4-5 4000m individual pursuit final:** Sir Chris Hoy Velodrome on Thursday, 30 July.
+
+![Kadeena Cox](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/ed7c/live/02b9d380-8432-11f1-8db9-6b4471749e2a.jpg)
+
+Kadeena Cox won gold in the women's C4-5 500m time trial at the Rio Paralympics 10 years ago
+
+## Can Le Clos become most decorated male in Games history?
+
+When it comes to the Commonwealth Games, names don't get much bigger than Chad le Clos.
+
+The South African swimmer is one medal away from becoming the most decorated male athlete in the Games' history. His current haul of 18 - seven gold, four silver and a further seven bronze - is deeply impressive.
+
+A good number of them were collected in Glasgow 12 years ago when he equalled the legendary Ian Thorpe's record of seven medals in one Games.
+
+At 34, Le Clos won't compete in as many races this time but is set to be on the blocks for the men's 50m and 100m butterfly events.
+
+He won gold in the 100m butterfly here back in 2014 and also pocketed a bronze in the 50m - but he claimed a gold in that distance on the Gold Coast in 2018.
+
+Any medal will secure the record for the man from Durban and Glasgow, where he produced such a remarkable show in 2014, is the perfect stage to make history.
+
+**Men's 50m butterfly final:** Tollcross Swimming Centre on Wednesday, 29 July.
+
+**Men's 100m butterfly final:** Tollcross Swimming Centre on Sunday, 26 July.
+
+![Chad le Clos](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/2a39/live/44c554d0-8427-11f1-96d8-4b9d5565f166.jpg)
+
+Chad le Clos won seven medals at the last Commonwealth Games held in Glasgow
+
+## Teenage superstar Stowers to steal show?
+
+This rising superstar is more a 'if you don't know, get to know' athlete.
+
+Remember the name: Seine Stowers.
+
+A junior Commonwealth Games champion, Stowers marked her 18th birthday earlier this year with four gold medals - breaking 12 records along the way - at the Universal Weightlifting Championship in her homeland of Samoa.
+
+Competing in the women's 77kg - as she will in Glasgow - she lifted 142kg in the clean and jerk category as she established herself as one of Samoa's most exciting medal prospects for years.
+
+Weightlifting runs in the family, too, with her sister, Feagaiga, a gold medal winner on the Gold Coast and a silver medallist in Birmingham four years ago.
+
+Already, though, Seine appears to be taking centre stage.
+
+American Olivia Reeves holds the world record at 77kg in both snatch (123kg) and clean and jerk (155kg), but with Stowers on the scene, who knows for how much longer?
+
+**Women's weightlifting (77kg) final:** SEC Armadillo on Wednesday, 29 July.
+
+## More medals for 'Rhys 2.0' McClenaghan?
+
+![Gold medalist Rhys McClenaghan of Team Ireland](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/c428/live/09051590-8434-11f1-be27-59702776fcc9.jpg)
+
+Rhys McClenaghan made history for Team Ireland at the Olympics two years ago
+
+Rhys McClenaghan has done it all.
+
+A European, World, Commonwealth and Olympic champion on the pommel horse, he is undeniably one of the sport's greats, but we've been warned to expect 'Rhys 2.0' in Glasgow.
+
+Northern Ireland's gymnastics golden boy - who secured Ireland's first Olympic gymnastics medal with his gold in Paris two years ago - was forced into a spell on the sidelines last year with a shoulder injury, but he is ready to bring a new routine over to Glasgow.
+
+"The Commonwealth Games is a good chance to show your work in progress. At the Olympic Games, you want to see your finished product," he said.
+
+"It's going to be a work in progress, but hopefully one that is the best in the world too.
+
+"Part of me is striving be like a younger Rhys, but the reality is I'm doing a completely new routine and the rule changes have pushed me into that direction - that's the Rhys 2.0 there."
+
+McClenaghan won gold eight years ago, pipping England's Max Whitlock - who has had to withdraw from these Games with injury - before collecting silver in Birmingham four years ago.
+
+He was the first gymnast to complete the Grand Slam and so arrives at these Games as one of Team NI's wise heads - despite only being 26 years old.
+
+It's a frightening prospect for the rest of the field. Even more frightening is the fact he's rebooting for version 2.0.
+
+**Men's pommel horse final:** The Arena on Monday, 27 July.
