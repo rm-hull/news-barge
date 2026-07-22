@@ -1,0 +1,43 @@
+---
+title: US to announce deal allowing Saudi Arabia a nuclear programme, reports say
+source_url: https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-22T14:19:27Z'
+published: '2026-07-22T00:00:00Z'
+description: The agreement would fulfil a long-held Saudi ambition but could attract
+  concern in Israel and from some US lawmakers.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg
+---
+
+![A file image of Saudi Crown Prince Mohammed bin Salman holding an extended handshake in the White House Oval Office with US President Donald Trump](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg)
+
+Under the deal, US President Donald Trump has reportedly not required his Saudi counterpart Mohammed bin Salman to give diplomatic recognition to Israel
+
+**The US and Saudi Arabia are expected to announce a deal that will allow the Gulf kingdom to develop a civilian nuclear programme, according to US media reports.**
+
+An announcement is expected from US President Donald Trump's administration on Wednesday, US officials were cited as saying.
+
+The agreement could be worth billions of dollars to the US, whose companies could be involved in building a facility to produce enriched uranium, which can be used as fuel for power plants but also to make nuclear bombs.
+
+Nuclear experts and former officials in Israel - the US's top ally in the Middle East - have voiced concern that the plan could ultimately lead to Saudi Arabia being able to develop a nuclear weapon.
+
+The BBC has asked the White House for comment.
+
+The US media reports say that, under the terms of the arrangement, after undertaking a joint study with the US, Saudi Arabia may be allowed to enrich uranium on its soil to produce fuel at a US-built enrichment facility instead of relying on imported fuel.
+
+That provision would distinguish this agreement from another one that was struck by the US in 2009 with Saudi Arabia's neighbour, the United Arab Emirates, under which the UAE does not produce its own fuel and accepts a host of other restrictions.
+
+For that reason, the agreement is also expected to attract the concern of nuclear non-proliferation campaigners, whose ultimate aim is to prevent an increase in the number of nuclear weapons worldwide.
+
+The nuclear issue has been at the centre of the months-long US-Israeli conflict with Iran. The two nations say one of the reasons they attacked Iran in February was to prevent the country from ever developing a nuclear weapon - something that Tehran denies planning to do.
+
+Saudi Arabia's de facto ruler, Crown Prince Mohammed bin Salman, told CBS News in 2018 that his own nation was not planning to acquire a nuclear weapon, but that "without a doubt if Iran developed a nuclear bomb, we will follow suit as soon as possible".
+
+The US-Saudi deal due to be unveiled on Wednesday has already been approved by Trump and will last 30 years, according to the Wall Street Journal.
+
+If the US objects to enrichment taking place in Saudi Arabia following the joint study, the kingdom would not be allowed to do so on its own or with another foreign partner for 10 years, the newspaper says.
+
+The plan will now be sent to the US Congress. Some lawmakers on both sides of the political aisle are also expected to oppose the deal, though Trump's Republican Party controls both the upper and lower chambers.
+
+The US-Saudi deal has not been made contingent on the Saudis normalising diplomatic ties with Israel, the New York Times reports. The push for Saudi-Israeli normalisation has been an aspiration of successive US presidents.
