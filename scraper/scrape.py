@@ -333,7 +333,7 @@ async def urls_from_feed(
         session,
         logger=logger,
         headers=feed_headers,
-        allow_redirects=False,
+        allow_redirects=True,
         ssl=ssl,
     )
     if not body:
