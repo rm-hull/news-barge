@@ -1,0 +1,54 @@
+---
+title: 'Commonwealth Games: Katerina Johnson-Thompson out injured - why do athletes
+  keep withdrawing?'
+source_url: https://www.bbc.co.uk/sport/athletics/articles/crrv0nzq8wgo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-23T14:26:47Z'
+published: '2026-07-23T00:00:00Z'
+description: Olympic silver medallist Katarina Johnson-Thompson pulls out of the Commonwealth
+  Games because of injury.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1cf/live/2b5a5600-868c-11f1-b976-0b9c15b0ccfc.jpg
+---
+
+![Katarina Johnson-Thompson](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e1cf/live/2b5a5600-868c-11f1-b976-0b9c15b0ccfc.jpg)
+
+Johnson-Thompson won silver at the 2024 Olympics and is a two-time world champion
+
+**Olympic silver medallist Katarina Johnson-Thompson has pulled out of the Commonwealth Games because of injury.**
+
+Dina Asher-Smith and 400m Olympic silver medalist Matt Hudson-Smith, who were both set to run relays for Team England in Glasgow, have also been replaced, as has Asher-Smith's sprint team-mate Daryll Neita and 400m runner Amber Anning.
+
+Johnson-Thompson, 33, was due to compete in her third Commonwealth Games heptathlon, having won gold on the Gold Coast in 2018 and at Birmingham in 2022.
+
+Team England gave no details of her issue, only confirming she had been replaced in the squad by Niamh Emerson, who took bronze behind Johnson-Thompson in 2018.
+
+The withdrawal of such high-profile names is a significant blow to the event on the day the opening ceremony takes place.
+
+Renee Regis, Ebuka Nwokeji, Tara Simpson-Sullivan and Tom Keen have all been added to England's athletics squad in Glasgow. The track and field competition begins on Monday.
+
+England's Olympic 800m champion Keely Hodgkinson had already skipped the event to prioritise the European Championships, which begin in Birmingham on 10 August, leading many to question the event's significance in the sporting calendar.
+
+The squad for the European Championships is expected to be announced next week.
+
+St Lucia's 100m Olympic champion Julien Alfred has also pulled out of the Glasgow Games, while Canadian swimmer Summer McIntosh, one of the sport's biggest stars, is favouring the Pan Pacific Swimming Championships.
+
+With the likes of the United States, China and major European nations not part of the Commonwealths, some athletes favour other, more competitive events.
+
+These Games were also hurt by the late confirmation of its dates and schedule, which only came in October last year. The event was originally scheduled for March, but the Australian state of Victoria pulled out as hosts in 2023.
+
+Speaking on Thursday, organisers insisted the event would be a success despite the absence of some big names.
+
+Scottish athletics medal hopes include new mile world record holder Josh Kerr and defending 10,000m champion Eilish McColgan, while Glasgow 2026 chief executive Phil Batty said focus should be on younger athletes.
+
+"We have got an incredible field of athletes," he said.
+
+"It is really important to make sure we have those athletes at the pinnacle of their career and you can see that across the sports.
+
+"It is equally exciting to see, just like what happened in 2014 [previous Glasgow Games], which athletes this starts that breakthrough moment."
+
+Commonwealth Sport chief executive Katie Sadlier said her organisation would have conversations with other events in the future to create a clearer window.
+
+"This Games was a little bit of a challenge because we only had 18 months and it was really difficult to say 'where is the gap in the two-year period?'.
+
+"As we move forward more of those conversations will happen."

@@ -1,0 +1,158 @@
+---
+title: Wildfires and record dry conditions triggers drought in parts of Wales
+source_url: https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-23T14:27:42Z'
+published: '2026-07-22T00:00:00Z'
+description: Wales has seen about 5% of the average rainfall for July, after a series
+  of back-to-back heatwaves.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ad1f/live/d80c2c40-8653-11f1-8bc3-95f8c3a93002.jpg
+---
+
+![The view from Nantglyn, Denbigshire of an agricultural landscape covered with parched fields. There is a fence in the foreground, with dry hills in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ad1f/live/d80c2c40-8653-11f1-8bc3-95f8c3a93002.jpg)
+
+Wales is the first part of the UK to face an announcement of drought status so far this summer
+
+**Widespread wildfires, river levels approaching all-time lows and the mounting impacts of successive heatwaves have triggered a drought status for parts of Wales, Natural Resources Wales (NRW) has confirmed.**
+
+Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves and a drier than usual April to June.
+
+Afonydd Cymru, which represents Wales' rivers trusts, said low river flows were causing "significant problems", killing fish and other wildlife, while farming unions warned of failing crops and heat-stressed livestock.
+
+NRW said the areas affected included North and South Gwynedd, Ynys Môn, also known as Anglesey, Dee, Clwyd and Upper Severn.
+
+It is the first part of the UK to face an announcement of drought status so far this summer.
+
+![The river Elwy. The bank is made up of pebbles, with the river behind it. Trees line both banks.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6e11/live/fe287d70-8653-11f1-8bc3-95f8c3a93002.jpg)
+
+The river Elwy in Denbighshire is among those running low
+
+NRW announced last week that north and south-east Wales were moving to "prolonged dry weather" status - classed as a first step towards drought.
+
+It triggered enhanced monitoring and checks of waterways and important sites for wildlife as well as advice for farmers and others who use water from rivers.
+
+Now the regulator says the threshold has been reached for a drought to be declared across north and parts of mid Wales - based on exceptionally low river and groundwater levels, dry soils, impacts on wildlife, farming and forestry.
+
+The rest of mid and south Wales was also now classed as being in "prolonged dry weather" status.
+
+July is on course to become the driest in Wales for almost 190 years if significant rainfall does not arrive before the end of the month.
+
+Rivers classed as exceptionally low include the Clwyd, Alwen, Alyn, Clywedog, Dyfi and Conwy in north Wales as well as the Wye, which runs through parts of mid Wales and south along the border with England.
+
+Extra water was being released from reservoirs to support flows on the Clwyd and Wye, as well as the river Severn in the south east and the Dee in north-east Wales.
+
+Rhian Thomas, sustainable water and nature manager at NRW, said: "The prolonged period of hot, dry weather we have experienced this summer is now having serious impacts on the environment across parts of Wales.
+
+"We have seen rivers fall to exceptionally low levels, groundwater continuing to decline and increasing reports of environmental impacts affecting wildlife, fisheries, farming and sensitive habitats.
+
+She added that the recent wildfires across north and south east Wales were "one of the clearest and most visible signs of how dry our landscapes have become".
+
+"While drought status does not automatically mean water shortages for customers, it does reflect the growing pressure being placed on our environment," Thomas said.
+
+"We are asking everyone to play their part by using water wisely and helping to protect Wales' natural resources during this exceptionally dry period."
+
+![Llyn Aled Isaf in Conwy. The banks of the lake are dried up, the nearest bank is sandy with pebbles on, the bank in the distance is green, with a hill rising up behind it.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8b68/live/37bfd650-8654-11f1-8bc3-95f8c3a93002.jpg)
+
+Much of Wales has gone for weeks without a drop of rain
+
+## What is an environmental drought?
+
+An environmental drought occurs when a prolonged lack of rainfall and high temperatures cause severe stress on the natural ecosystem.
+
+NRW says it results in critically low river flows, diminished reservoir reserves and exceptionally low groundwater levels, negatively impacting wildlife, fisheries and protected habitats.
+
+This type of drought typically develops before agricultural impacts (like failing crops) or public water shortages occur. Impacts include:
+
+- Shrunken rivers - a decrease in oxygen levels, an increase in water temperatures and a restriction in the migration of species like salmon 
+- Habitat loss - reduced water levels cause riverbeds to dry up, leading to the loss of biodiversity and fish kills 
+- Private water pressures - natural springs and private boreholes can run dry 
+
+When environmental drought conditions, external are identified, NRW often transitions areas to a "prolonged dry weather" status.
+
+This triggers enhanced monitoring of waterways, restricts water abstraction licenses to protect low flows and leads to the release of additional water from reservoirs into rivers.
+
+![A dried up river in the middle of a valley](https://ichef.bbci.co.uk/ace/standard/587/cpsprodpb/726b/live/a7e24160-8673-11f1-8c77-df97511a6b05.png)
+
+Despite rain in the forecast for the weekend, it will take time for river systems to recover
+
+Gail Davies-Walsh, chief executive of Afonydd Cymru, said the country's waterways were already under strain due to pollution.
+
+"The lack of rainfall and decline in river flows is really starting to exacerbate water quality," she said.
+
+"We've already had a couple of rivers that have dried up and we're getting reports through of fish that have been killed because of a lack of water."
+
+High river temperatures were also leading to concerns for the survival of aquatic life, she added, with water temperatures as high as 28C recorded in the Wye and Usk.
+
+Davies-Walsh said she was worried that people's frustrations at water companies over sewage spills and leakages was making them less likely to heed advice about being careful with their use of water.
+
+"I'm looking at social media comments and I totally understand those frustrations," she said.
+
+"But we've really got to think about the fact that our water usage is directly impacting the flow in our rivers and directly impacting fish and other wildlife's survival.
+
+"We really need to do our little bit to protect them."
+
+![A man with a white and black checked shirt looking at the camera. He has short, dark hair and their are cows behind him.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7ce8/live/1804c9f0-8687-11f1-b60e-a7e0943a9c78.jpg)
+
+Tudor Roberts says he is having to carry water about a mile as he lives in the town
+
+Tudur Roberts farms in Abergele, keeping 27 pedigree Angus cows and 200 sheep, and said the weather has been "really bad the last two weeks".
+
+"It's dried up, we're on well water and the well's dried up, we've got one spring going.
+
+"We've been carrying water up from the local town to supply the cows and things. It's getting really desperate for water," he said.
+
+"[It's] a really tough time at the moment.
+
+"We are majorly in drought already. I'm 1000ft above sea level, there's no mains or anything up there so [I'm] really, really struggling."
+
+![Stephanie Hafferty standing in her garden holding a wicker basket of homegrown vegetables.  She is wearing a blue top and jeans, and has long white hair.](https://ichef.bbci.co.uk/ace/standard/682/cpsprodpb/dc83/live/77f9f200-8654-11f1-8bc3-95f8c3a93002.jpg)
+
+Stephanie Hafferty says gardeners will need to adapt to the changing climate
+
+In the horticulture and flower marquees of the Royal Welsh Agricultural Show in Llanelwedd, Powys, both farmers and growers were talking about the weather's impacts.
+
+"People are going to have to adapt, think about gathering their own water," said Paul Thomas of the National Vegetable Society.
+
+"In the spring when it was crazy rain, everything was delayed - sowing and planting -because it was just relentless, and then it was almost like an off-switch," added garden and food writer Stephanie Hafferty.
+
+"One of the things I noticed this morning is the trees are going into autumn colour, and that's a big worry, it's not even August yet."
+
+Elen Hughes of Trelawnyd, Flintshire, said the fields on her family's farm were "bone dry, nothing's growing".
+
+"They've just last week had to feed the second silage cut to the cows because there's no food for the cattle."
+
+![A landscape view showing parched fields in Denbighshire](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cece/live/a84eafe0-8654-11f1-8bc3-95f8c3a93002.jpg)
+
+Farming unions have warned of failing crops and heat-stressed livestock
+
+"We've had really dry weather but also it's been really hot - and those things combined if you're a livestock farmer means excessive pressure on livestock," said Abi Reader, president of NFU Cymru.
+
+"You have to make sure they have enough water and shade, and we are getting farms with springs and streams drying up," she told BBC Walescast.
+
+"If you're an arable farmer the heat and dry weather have also forced a lot of the crops to come to ripening a lot earlier than they normally would.
+
+"It's unprecedented early harvesting this year and farmers are going to see lower crop yields."
+
+Welsh Water emphasised that NRW's drought declarations were different to its own announcements.
+
+The company has already brought in a hospipe ban for 33,000 properties in west Wales.
+
+"NRW's drought status reflects environmental conditions, including factors such as rainfall, river flows and groundwater levels," a spokesperson said.
+
+"By contrast, Welsh Water's Temporary Use Ban is an operational measure based on local water demand and our ability to replenish service reservoirs with drinking water at the same rate, or faster, than customers are using water.
+
+"It is driven by the capacity of the local treatment works and distribution network to keep up with sustained demand.
+
+"This means different parts of Wales can experience different operational pressures, even if they are not in the same environmental drought category declared by NRW."
+
+Cabinet Minister for Rural Resilience and Sustainability, Llyr Gruffydd, said: "This is an environmental drought classification. It's about the state of water levels in our rivers.
+
+"It does not speak to public water supplies which I can assure people are there, there is sufficient supplies but we would of course urge people to be careful and diligent in their use of water so that that can be protected."
+
+## More top stories
+
+![Baby asleep in hospital bed surrounded by tubes and wires - and a teddy bear](https://ichef.bbci.co.uk/ace/standard/961/cpsprodpb/2904/live/120ad6e0-85ae-11f1-9454-77c2271a5b4a.png) 
+![A woman in a green top stands in front of a wall with large pillars visible behind her.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1063/live/a93f3930-858a-11f1-823e-ab1811245d2b.png) 
+- Published2 days ago
+ ![Police officers coming our of a van](https://ichef.bbci.co.uk/ace/standard/688/cpsprodpb/29ed/live/02b19b70-8509-11f1-8b9b-a724b687bb3b.png)
