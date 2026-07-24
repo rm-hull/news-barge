@@ -1,0 +1,93 @@
+---
+title: UK complacent about war threat, warns BAE Systems' boss
+source_url: https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-24T03:36:46Z'
+published: '2026-07-23T00:00:00Z'
+description: The threat of attack has never been higher, the boss of Europe's biggest
+  defence contractor has warned. Dr Charles Woodburn
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cf8/live/60e4b350-86a6-11f1-a0b6-435e4178a497.jpg
+---
+
+![Fighter jets over the London cityscape at sunset](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8cf8/live/60e4b350-86a6-11f1-a0b6-435e4178a497.jpg)
+
+**The UK has been too complacent about the risk of foreign attack, the boss of Europe's biggest defence contractor BAE Systems has warned.**
+
+Dr Charles Woodburn told the BBC in an exclusive interview that the level of threat was the highest he'd seen in his lifetime.
+
+He welcomed the recent boost to defence spending but said much more would be needed to hit the government's commitment to spend 3.5% of GDP on defence by 2035.
+
+He also warned we were not far from the use of autonomous lethal weapons by countries that may not follow the UK's policy of maintaining human control.
+
+In a rare interview, Woodburn told the BBC the reality of modern warfare had "changed quite profoundly" and that UK defence spending had to change with it.
+
+He said Russia and Ukraine had become "incredibly adept" at using autonomy in the form of drones and counter drones.
+
+"It's something that we now have to really understand and make sure that we're able to provide the capabilities that can counter that and deter aggression," he said.
+
+![Brontanax, a BAE Systems uncrewed Collaborative Combat Aircraft (CCA), is unveiled at Farnborough International Airshow](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f773/live/c8220520-86a3-11f1-a0b6-435e4178a497.jpg)
+
+BAE Systems unveiled a model of Brontanax, an uncrewed Collaborative Combat Aircraft at Farnborough International Airshow
+
+BAE Systems unveiled a life-size model of an unmanned fighter jet in front of the new Defence Secretary Wes Streeting at the Farnborough International Air Show.
+
+Four of these so-called Collaborative Combat Aircraft will accompany a manned fighter to massively increase firepower but at just 20% of the cost of a piloted aircraft.
+
+However, Woodburn said there was still a role for the traditional battleships and submarines that BAE has been manufacturing for decades.
+
+"If you look at what our adversaries are building, they're also building significantly large platforms - aircraft, ships, submarines. And they're supplemented by some of these unmanned capabilities." It is the combination of the two that has the "winning" formula, he said.
+
+It is hardly surprising that the boss of a defence company would like to see more defence spending. But Woodburn said the UK had been complacent for some time about the level of threat it faced - particularly from Russia.
+
+"This is by far the most threatening time I've seen," he said. "Even when I joined the company in 2016 I was amazed at what we saw Russian submarines doing, the cyber attacks. I think that's come a long way sadly as a result of the Ukraine conflict we're much more aware of the proximity of a hot war in Europe."
+
+![Dr. Charles Woodburn, Group Chief Executive Officer of BAE Systems, speaks at the BAE Systems stand during the launch of the uncrewed Collaborative Combat Aircraft (CCA) named Brontanax on July 22, 2026 in Farnborough](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7120/live/766c17b0-86a4-11f1-b976-0b9c15b0ccfc.jpg)
+
+Dr Charles Woodburn CEO of BAE Systems, speaks at Farnborough International Airshow
+
+The war readiness of the UK's armed forces has been questioned by senior armed services figures and openly mocked by the US general Sir Gwyn Jenkins, the First Sea Lord, recently said the navy is not ready for war.
+
+Pete Hegseth, the US defence secretary sarcastically referred to the "big bad Royal Navy" while President Donald Trump described the UK's aircraft carriers as "toys".
+
+That impression was not helped by the tardiness of mobilising the destroyer HMS Dragon – built by BAE - to provide air cover for Cyprus against Iranian and Hezbollah threats.
+
+Woodburn insisted the company had responded as soon as the Ministry of Defence had asked for its help.
+
+He said BAE gets "things in place as quickly as we're able to but at the end of the day you need a signal to move".
+
+![Britain's former Defence secretary John Healey leaves 10 Downing Street in London as cabinet appointments are being made after Andy Burnham became Britain's new Prime Minister.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b82a/live/5e9d77e0-86a5-11f1-926f-c90d1bcfbc84.jpg)
+
+Former Defence Secretary John Healey has been made Chancellor
+
+Woodburn welcomed the promotion of former Defence Secretary John Healey to chancellor. Healey very publicly resigned from the post insisting that the extra money awarded to defence "falls well short of what is needed to protect the country".
+
+An additional £13.5bn was boosted to an extra £15bn after he resigned but that will only bring spending on defence to 2.68% of GDP by 2030 – well short of the 3% Healey said was required. A further massive increase in spending will be needed to hit the government goal of 3.5% by 2035.
+
+Shares in defence companies – including BAE – rose on the news that Healey was moving into number 11 but Woodburn knows he will have other departments competing for cash.
+
+"We have tremendous respect for John," he said. "He understands what is needed and I think in that sense its very good he's in the Treasury role."
+
+He recognised Healey would have a host of complicated national finances to tackle. "But the fact that he understands the requirements of defence we see as a very positive thing", he said.
+
+The UK's armed forces have dwindled since the end of the cold war. In 1990 – the army had 153,000 regular soldiers. Today that number is just 74,000.
+
+But it is debatable how many human soldiers you need these days and Woodburn said a new era of autonomous lethal weaponry was close at hand.
+
+"We're not far from that. While we follow rules of 'man in the loop' we know very well that our adversaries are not always doing that," he said.
+
+![A pre-recorded message by UK Prime Minister Andy Burnham is played prior a speech by Defence Secretary Wes Streeting during the Farnborough International Air Show 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e281/live/cab6c450-86a4-11f1-926f-c90d1bcfbc84.jpg)
+
+A video message by UK Prime Minister Andy Burnham was played prior a speech by Defence Secretary Wes Streeting during the Farnborough International Air Show
+
+At the air show, new UK Prime Minister Andy Burnham sent a video with a message that defence could play a big role in his plans to reindustrialise the economy and provide thousands of skilled jobs.
+
+And in his keynote speech at the airshow Streeting said: "Defence will not just be a recipient of the proceeds of economic growth. It will be a central contributor to building that growth, a driver of prosperity in parts of the country that are crying out for the backing they need to make their contribution to the challenge of our time."
+
+Woodburn said he wanted to help make the case for the knock-on benefits of defence spending.
+
+"We need to make sure that the industrial benefits, the jobs benefits are well told so people understand this is money well spent," he said.
+
+But does he ever lose sleep over the fact that his products are ultimately intended to kill people?
+
+"The thing I always think about is that the best thing we can do is to deter. Detering war means our brave men and women have the best kit they could possibly have. Our mission as a business is to protect those who protect us and we take that incredibly seriously."
