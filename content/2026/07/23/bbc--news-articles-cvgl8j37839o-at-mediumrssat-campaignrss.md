@@ -1,0 +1,169 @@
+---
+title: How much is Edinburgh's tourist tax and who pays it?
+source_url: https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-24T10:27:57Z'
+published: '2026-07-23T00:00:00Z'
+description: The Scottish capital has become the first city in the country to introduce
+  a charge for overnight stays.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/986c/live/814a9620-86a9-11f1-a0b6-435e4178a497.jpg
+---
+
+![A bare-chested male street performer in front of a crowd on Edinburgh's Royal Mile.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/986c/live/814a9620-86a9-11f1-a0b6-435e4178a497.jpg)
+
+Thousands of people descend on Edinburgh during the festival season in August
+
+**Edinburgh has become the first city in Scotland to introduce a tourist tax.**
+
+The visitor levy, which comes into effect on Friday, will see those staying overnight in hotels, bed and breakfasts and self-catering accommodation, charged an additional 5% on top of their original booking cost.
+
+It is hoped the charge, which aims to raise about £50m annually, could be used to fund improvements to the capital, including new housing, cultural initiatives and a wider police presence.
+
+However, opponents claim the additional cost could put some potential visitors off.
+
+The Scottish government passed the Visitor Levy (Scotland) Bill in May 2024, granting councils power to impose a tourist tax.
+
+City of Edinburgh Council voted in favour of introducing the charge in January last year.
+
+It brought the city in line with other popular European destinations including Amsterdam, Paris and Rome in taxing visitors.
+
+## How much is the tourist tax?
+
+Visitors will be charged a 5% fee on top of the cost of their accommodation booking.
+
+That will be collected by accomodation providers and passed to the city council.
+
+However, the charge is capped at five nights, so those booking for the whole month of August, for example, will not face a 5% cost on every night of their stay.
+
+A £100-per-night room for five nights, costing a total of £500, would end up as £525 with the levy applied.
+
+Booking that same room for 10 nights, at a cost of £1,000, would end up as £1,025, with the tax.
+
+The rate does not go up or down depending on the time of year.
+
+![People walking along street below Edinburgh Castle](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0b48/live/d198c0c0-86a9-11f1-b976-0b9c15b0ccfc.jpg)
+
+Edinburgh Castle is a big draw for tourists
+
+Exemptions are applied in certain circumstances, including for those presenting as homeless and housed in emergency accommodation, those at risk of domestic abuse or other forms of violence and those who have to be temporarily rehoused due to poor living conditions.
+
+Asylum seekers and refugees are also exempt, as are some of those who receive disability benefits.
+
+All of those covered by the exemption will pay the levy initially, but can claim it back at a later date.
+
+## Who pays the tourist tax?
+
+The levy is not paid by everyone arriving in the city, only those who stay overnight.
+
+The charge is being introduced in time for Edinburgh's traditional summer festival season in August.
+
+The Edinburgh International Festival, Festival Fringe, Art Festival, Book Festival, Film Festival and Royal Military Tattoo all take place across the month.
+
+That means those taking a day trip from elsewhere in Scotland or the wider UK do not have to pay.
+
+The council has backed exploring a separate tax on those arriving by cruise ship, external in response to a Scottish government consultation.
+
+The tax applies to those staying in a range of accommodation.
+
+Those staying in hotels, self-catering apartments, holiday lets such as AirBnbs, aparthotels, bed and breakfasts, guest houses and hostels are all eligible.
+
+But it also applies to those staying on vessels or boats which are moored in one location; such as house boats or barges, student lets when not being used by Edinburgh students, and caravan and camp sites.
+
+An exact number on the amount of people arriving in the city during August is not available.
+
+City of Edinburgh Council estimates about 3.85 million attendances at events across the month.
+
+That does not necessarily equate to 3.85 million people, but rather the number of times events were attended. For example, one person attending five shows in August would count as five separate attendances.
+
+Fewer than half of those, about 1.54 million, are Edinburgh residents. An estimated 860,000 come from elsewhere in Scotland.
+
+Figures presented to the local authority by the Edinburgh Tourism Action Group (ETAG) showed hotel occupancy in the city centre during August 2025 was at 90.6%, rising slightly to 91.1% in the surrounding area.
+
+## How much is the tax expected to raise?
+
+City of Edinburgh Council estimates about £45m-£50m will be raised by the tax by the 2028/29 financial year.
+
+Under the terms of the legislation, funds generated by the tax must be reinvested in local services and facilities "substantially used by business and leisure visitors".
+
+A range of projects and measures set to be funded by the charge have already been announced.
+
+A £5m fund to build 472 homes between the 2026/27 and 2028/29 financial years was approved by councillors in February, alongside money for public realm improvements at Hunter Square, Cramond and Portobello.
+
+An additional £5m has been diverted to funding the restoration of Leith Theatre, while £3m will be given to the long-running project aimed at turning the Old Royal High School into a national music centre.
+
+![Uniformed police officers standing in a row in front of the City Chambers. Councillor Margaret Graham, who is wearing a mint green blazer and black trousers stands in the middle.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/3292/live/6876c370-7624-11f1-ac11-19a4319081d7.jpg)
+
+Part of the tourist tax funding will pay for new city centre police officers
+
+A further £3m has been allocated for new and upgraded public toilet facilities.
+
+Earlier this month, it was announced about £1m from the tourist tax profits would be used to launch a new city centre policing unit dedicated to supporting events.
+
+It will be made up of an inspector, three sergeants and 45 constables. Police Scotland said it would help free up frontline officers to respond to incidents elsewhere in the city.
+
+Accommodation providers will also be reimbursed for administrative costs of collecting the levy, receiving about 2% of the overall pot.
+
+A review of the overall scheme is planned for 2029.
+
+## What has the reaction been?
+
+Council leader Jane Meagher said the levy had the potential to bring "huge benefits".
+
+She said: "Visitor numbers in Edinburgh, as anyone who lives here will tell you, have risen, not just confined to summer.
+
+"It inevitably costs us more to maintain the city to the high standards needed and it didn't seem fair that residents had to pay for that, so it seems fair that visitors should contribute."
+
+![Council leader Jane Meagher holding a broom and wearing an orange hi-viz jacket.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8de6/live/b61c56d0-868c-11f1-a8a9-6d36c8f2857e.jpg)
+
+Council leader Jane Meagher said the charge had the potential to bring 'huge benefits'
+
+Roddy Smith, chief executive of Essential Edinburgh, said the tax should generate income to "improve" the city.
+
+"We all know the public purse is under some stress, so additional income is welcome," he said.
+
+"But the most important thing of all is that the residents and the tourists who visit our city see a discernible improvement in the cleanliness, the security and the services we provide to our tourists, who are vital to the city's economy."
+
+But not everyone sees the charge as a positive.
+
+Scottish Ballet said it already faced a £200,000 bill for accommodating its 150 performers and crew and the levy put it under further strain.
+
+The Glasgow-based company has cut the number of performances of its winter production to 17 in December, citing the "unsustainable economics of touring to Edinburgh".
+
+![Ellie Jeffrey looking slightly off camera. She is wearing a grey polo shirt with a green logo on it.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/46b1/live/f1670500-868c-11f1-b60e-a7e0943a9c78.jpg)
+
+Ellie Jeffrey said the charge was causing 'frustration' for some regular guests
+
+Fiona Campbell, chief executive of the Association of Scotland's Self-Caterers, said she was concerned about a lack of uniformity in collecting the tax.
+
+"There just isn't enough guidance for businesses, we're scrabbling around in the dark trying to do our best," she said.
+
+"Different people are collecting the charge in different ways. Everyone is doing their best, but there is no simple way of doing it, so each individual business is having to make its own decisions on how to collect it, how to deliver it and how to remit it."
+
+Ellie Jeffrey, who manages the Linwater Caravan Park, said the charge had caused "frustration" for guests coming from nearby.
+
+"It's local guests who are coming for a couple of nights away from their own home, just as a respite," she said.
+
+"Paying that extra tax, because they are already residents, they don't feel that they should be paying that extra tax to a city they already live in or around that they are already paying their taxes to."
+
+## What is the situation in the rest of Scotland?
+
+Edinburgh is not the first city in the UK to introduce a tourist tax.
+
+Manchester brought in a charge in 2023, with Liverpool following suit in 2025.
+
+In Wales, the Senedd approved plans for local councils to roll out their own taxes from 2027.
+
+Elsewhere in Scotland, a 5% levy in Glasgow is due to come into force from January 2027, while in Aberdeen a 7% charge will be introduced in April 2027 at the earliest.
+
+But some of Scotland's most popular tourist destinations, including the Scottish Borders, Dumfries and Galloway, Orkney and Shetland have rejected any proposals.
+
+There is also the prospect that the scheme could be revamped under revised legislation passed earlier this year.
+
+The Visitor Levy (Amendment) (Scotland) Bill, passed at Holyrood ahead of the 2026 election, meant councils would be allowed to change their tax from a percentage to a flat fee.
+
+The terms of that bill state there must be an 18-month "lead in" before schemes already put in place by local authorities can be switched.
+
+However, that drops to six months if the tax is already up and running.
+
+Local authorities will also be required to consider whether schemes should be revoked after a three-year review of the scheme.

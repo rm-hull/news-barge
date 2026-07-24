@@ -1,0 +1,57 @@
+---
+title: 'Newcastle: Aladji Bamba £34m deal completed'
+source_url: https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-24T10:28:10Z'
+published: '2026-07-23T00:00:00Z'
+description: Newcastle United have signed Monaco midfielder Aladji Bamba for a fee
+  which could rise to £34m.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4771/live/107a3170-8682-11f1-b60e-a7e0943a9c78.jpg
+---
+
+![Aladji Bamba](https://ichef.bbci.co.uk/ace/standard/918/cpsprodpb/4771/live/107a3170-8682-11f1-b60e-a7e0943a9c78.jpg)
+
+Aladji Bamba has played for France Under-18s, Under-19s and Under-20s
+
+**Newcastle Unitedhave signed Monaco midfielder Aladji Bamba for a fee which could rise to £34m.**
+
+The Frenchman has joined the club on a five-year deal after undergoing a medical on Tyneside on Thursday.
+
+"I was very excited when I heard Newcastle were interested in signing me," the 20-year-old said.
+
+"I know about the history of the club and I've visited the stadium already, which is amazing. I can't wait to be on the pitch there and hope to have some great times with the fans.
+
+"I'm excited to test myself in a new league, the biggest league in the world. I learned a lot last season and now I feel ready for this new opportunity. I will give my all for this club."
+
+Bamba only made his professional debut last season, but caught the eye of Newcastle with his performances in Ligue 1 and the Champions League.
+
+Among Ligue 1 midfielders who played at least 500 minutes last season, Bamba ranked in the top five for duels won (9.1 per game on average), tackles (3.6), successful take-ons (1.6) and aerial duels won (1.9).
+
+Newcastle head coach Eddie Howe said he was "another exciting, young signing who we're really looking forward to working with".
+
+"Aladji adds depth and a range of qualities to our midfield options, with huge potential for growth," he added.
+
+"His development since breaking through at Monaco has been really impressive and something we believe we can help him build on."
+
+## Analysis: Bamba has high potential
+
+This move for Bamba underlines a marked shift in transfer strategy for Newcastle.
+
+It is certainly hard to imagine the club spending £55m on a 29-year-old again like they did when they signed forward Yoane Wissa from Brentford last summer.
+
+Instead, Newcastle have targeted players aged 20 and under on the continent this time around.
+
+Bamba, like fellow new arrivals Sean Steur, Ewen Jaouen and Bazoumana Toure, will need time to adapt to the physicality and intensity of the Premier League.
+
+It is worth stressing Bamba has made only 12 competitive starts in all competitions for Monaco.
+
+But Newcastle have to take calculated risks this summer before such talents become potentially out of reach.
+
+Just like Newcastle's £23m move for Steur, negotiations were carried out discreetly by all parties involved.
+
+News that an agreement had been reached arrived only when Bamba was on his way to Tyneside.
+
+Further reinforcements are needed, but Newcastle have now completed their fourth signing of the summer.
+
+By contrast, at this stage of a particularly turbulent window a year ago, the club had brought in only Anthony Elanga.

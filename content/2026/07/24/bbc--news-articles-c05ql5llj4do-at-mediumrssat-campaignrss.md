@@ -1,0 +1,55 @@
+---
+title: US and Iran trade more strikes as fears of escalation mount
+source_url: https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-24T10:28:05Z'
+published: '2026-07-24T00:00:00Z'
+description: It comes as Iran condemned the US plan to use frozen Iranian assets to
+  pay for war damages.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg
+---
+
+![Vessels float in the Strait of Hormuz.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg)
+
+Vessels sighted in the Strait of Hormuz from Oman on 23 July
+
+**Iran says it has carried out drone strikes on US military facilities and bases across the Middle East in retaliation for the 13th consecutive night of American attacks on the country.**
+
+Explosions were reported along Iran's Gulf coast, and in western, northern and central areas. Four people were killed and five injured in an attack in the south-west, Iranian state media said.
+
+Iran later announced strikes on US-allied Kuwait, while sirens sounded in Bahrain and Jordan, and flights were suspended at a major Iraqi airport after a reported drone crash.
+
+It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages, in a sign of further escalation between the two countries.
+
+On Thursday, US President Donald Trump said damages to ships and cargo in the Strait of Hormuz would be paid for by "Iranian Money that the United States has in its possession, and controls".
+
+"These damages may be very substantial but, nevertheless, this is the fair and equitable thing to do," he posted on his Truth Social platform.
+
+Iranian Foreign Minister Abbas Araghchi responded by saying that seizing another country's assets to "pay for unrelated future claims is an incendiary precedent".
+
+"Ensuing chaos will not be pretty or peaceful," he added.
+
+In June, the US and Iran agreed on a 14-point Memorandum of Understanding (MOU) to halt military operations and reopen the Strait of Hormuz, as well as to reach an agreement to end the war over the following 60 days.
+
+But three weeks after it was signed, Trump declared the ceasefire "over" after Iranian attacks on ships in the strait, and US strikes in response.
+
+Point 11 of the MoU detailed that the "United States of America undertakes to make fully available for use the frozen or restricted funds and assets of the Islamic Republic of Iran".
+
+As the US pushes to regain control over the Strait of Hormuz, there's growing concern over new threats to shipping in the Red Sea from Yemen's Iran-backed Houthis.
+
+That has helped push the price of crude oil back over$100 (£74.96) a barrel - the highest level since May.
+
+Trump separately on Thursday vowed "major military punishment" against Iran for Houthi attacks.
+
+He later told the Axios news website he was considering restarting major combat operations in Iran and launching strikes "bigger than ever before".
+
+Tensions have been escalating between the US and Iran since the start of July.
+
+On Thursday night, the US military says it carried out strikes to degrade Iran's ability to threaten civilian shipping in regional waters.
+
+US Central Command (Centcom) said it had targeted "Iranian military command centers, drone storage facilities, communication networks, coastal surveillance sites and maritime capabilities".
+
+Iran's army claimed it had launched attacks on US bases in Kuwait, while Bahrain's Interior Ministry reported that its air sirens had been sounded and Iranian state media also said alarms had been activated in Jordan.
+
+The AFP and Reuters news agencies both reported a drone crash at Iraq's Erbil International Airport, causing a temporary stoppage. Flights have since resumed.
