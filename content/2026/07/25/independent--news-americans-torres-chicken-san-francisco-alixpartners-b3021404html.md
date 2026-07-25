@@ -1,0 +1,120 @@
+---
+title: Americans rewire their grocery shopping routines while digesting the biggest
+  price jump in 50 years
+source_url: https://www.independent.co.uk/news/americans-torres-chicken-san-francisco-alixpartners-b3021404.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-25T09:58:52Z'
+published: '2026-07-25T00:00:00Z'
+description: Living through the biggest jump in grocery prices in a half-century has
+  many Americans changing their eating and food shopping habits
+image: https://static.independent.co.uk/2026/07/25/10/Grocery_Prices_Affordabilty_86433.jpg?width=1200&height=800&crop=1200:800
+---
+
+What’s for dinner? Lately, at Apral Jack’s house, it’s whatever is on sale.
+
+Jack scouts an app for deals at her local supermarket before she buys groceries. When she reaches the store, she grabs the weekly circular to look for coupons she might have missed. If the shelf prices look too high, she scratches items off her list or tries to find lower prices someplace else.
+
+“The apples went up here, the ones I eat, so now I’m not going to get them here. I’ll go to Market Basket, where I can get them cheaper,” Jack, 50, said as she pushed a cart into a Stop & Shop near her home in Lexington, Massachusetts.
+
+Couponing, comparison shopping and cutting back on favorite foods are new habits for her and millions of other Americans as they absorb the biggest jump in grocery prices in a half-century. Buying food to eat at home has gotten 33% more expensive in U.S. cities since the beginning of 2019, according to government figures. In the 7 1/2 years before that, prices rose 6.4%.
+
+The historic increase happened for numerous reasons. The coronavirus pandemic snarled supply chains and raised labor and transportation costs. Droughts, hurricanes and diseases like bird flu drove down production. Tariffs raised prices on foreign products like coffee, tomatoes and chocolate. Russia's ongoing war in Ukraine disrupted oil and fertilizer supplies.
+
+With a fresh conflict in the Middle East accelerating food price inflation again this year, the cost of filling their refrigerators, freezers and pantries has become a frustration for Americans and made affordability a central issue in the fall midterm elections.
+
+By some measures, Americans are better equipped to handle the higher prices, if only slightly. The average weekly earnings of people with full-time jobs job have gone up a bit faster than the cost of groceries since 2019, according to data from the U.S. Bureau of Labor Statistics.
+
+But consumers have long memories when it comes to food shopping, and they know their dollars aren’t going as far as they used to, said Jared Bernstein, a senior policy fellow at the Stanford Institute for Economic Policy.
+
+Wages grew much more quickly than grocery prices before the pandemic, Bernstein said. Even if a typical worker's paycheck still outpaces supermarket receipts by a small margin, consumers may feel stressed and aggrieved because other costs, like housing and electricity, have climbed significantly as well, he said.
+
+“People have a well-honed sense of those prices, just as much as gas and maybe more so,” Bernstein, who served as chair of the Council of Economic Advisers under former President Joe Biden, said. “You need groceries to live.”
+
+An economic indicator like median wages does not capture the capacity of family budgets to accommodate additional price hikes. Americans spent an average of 12.9% of their pretax incomes on eating out and at home in 2024, but the share was 33% for the one-fifth of U.S. households with the lowest earnings, according to the U.S. Department of Agriculture.
+
+Prices also can vary substantially by region. In St. Louis, food for home use cost 2% more in June compared to a year earlier; in San Francisco, it was 6%, the consumer price index showed.
+
+In interviews, residents of four urban areas where food price inflation has exceeded the national average shared how steadily rising prices are changing the way they shop. They described hunting for discounts, switching brands and feeling grateful for food banks. Some are more cautious about buying nonessentials like takeout coffee. Others are buying less meat or less food overall.
+
+“It’s almost like a strategy, a household strategy, where financial pressure just hasn’t disappeared, so consumers are really developing their own playbook on how to navigate it,” said Sally Lyons Wyatt, a global executive vice president at market research company Circana.
+
+Meat has become a luxury for a family in Texas, the nation's top beef producer
+
+Beef epitomizes out-of-control grocery prices for many Americans. The price of a pound of ground beef reached $6.82 in June, which is 79% more than at the beginning of 2019, according to Bureau of Labor Statistics data. Contributing factors include a shrinking U.S. cattle herd, drought in the West, and the costs of feed and fuel.
+
+Demand for ground beef is falling as a result, according to market research company NielsenIQ. Ada Torres, 60, is one of the people no longer buying it: with five pounds of ground beef costing almost $20, meat has become a luxury for her family of five, she said.
+
+Torres lives 45 miles northeast of Houston in Cleveland, Texas, where she shares a home with her 36-year-old daughter and three grandchildren. Her daughter, who works for a mobile car-washing service, is the family's main provider. Torres does the grocery shopping and cooking.
+
+“Prices are sky-high. One hundred dollars’ worth of groceries these days is nothing. Maybe you can bring home seven family-size items, if you manage to find a good deal,” she said.
+
+Swapping Goya canned beans and Hunt’s tomato sauce for products from Walmart’s Great Value range is one way Torres tries to cut costs. Chicken and cold cuts are now the family’s main source of animal protein, she said.
+
+Torres worries that too much deli meat will be bad for the health of her grandchildren, ages 12, 15 and 16. They miss beef dishes that were once staples on their table, like lasagna with ground beef, beef fajitas and steak with plantain chips, she said.
+
+Torres' daughter's work dwindles during the rainy season in Texas, and the family only can afford one complete meal a day. Breakfast and dinner consist of simple fare like eggs and generic cereals.
+
+Shopping outside Boston takes research, multiple stores and chicken recipes
+
+Apral Jack's grocery-shopping trips included going to Whole Foods until recently. She liked the selection and has fewer mouths to feed now that her three daughters are adults.
+
+“I don’t have to worry about buying for them anymore,” Jack said with a smile, noting that her days of loading up a cart at Costco and BJ's Wholesale Club are in the past.
+
+But she spends more cautiously than she once did. She buys steak only if she can get it at a discount. Her weekly menu planning starts at home with an app that displays special offers and digital coupons. She builds her shopping list around what's on sale.
+
+“Typically, I’ll try to pick the meals based on that. So like chicken fajitas: there was a three-day sale on chicken. I’ll sauté chicken with vegetables and rice,” Jack said.
+
+Her list includes fewer canned goods. Nabisco’s Ginger Snaps and Nilla Wafers are off it completely because she thinks they cost too much. She doesn't buy store-brand replacements; to Jack, they don't taste the same.
+
+Matt Hamory, who leads the global grocery practice at the consulting company AlixPartners, said consumers generally have an amount they’re comfortable spending on food each week. They will go to a more expensive store or splurge on a treat if prices fall below that. But if prices seem unreasonable or the economic outlook is uncertain, they’ll look for cheaper alternatives or cut back.
+
+“I’m going to spend $250 a week, so if I’m shopping at Stop & Shop and they’re getting more expensive, then I’ll start splitting my trips with cheaper places and eventually maybe I’ll lose Stop & Shop entirely,” Hamory said.
+
+Three generations stretch their dollars and share canned food, eggs and produce to get by in San Francisco
+
+San Francisco has a reputation as a great city for foodies. Food preoccupies 33-year-old Jack Chang for other reasons. The self-employed barber has three young children and a partner who is unemployed. The money he makes cutting hair five or six days a week sometimes doesn't go far enough.
+
+"Since I have five mouths I have to feed, basically — and then sometimes my mom, too — it’s a lot on me financially,” Chang said.
+
+They are not a family that goes out for boba milk teas or artisanal ice cream, both of which abound in San Francisco. They visit Round 1 Bowling & Arcade, a Japanese entertainment center with $1 ice cream cones.
+
+Like a lot of Bay Area residents, Chang has felt surrounded by rising costs in the last year. The rent for his barbershop increased 10% as he was losing clients laid off from their tech jobs, he said. He bought a used minivan, so now he has a monthly car payment.
+
+“I look at my credit card every month and I’m like, ‘Wow, how am I going to pay this?’ So I’m a little behind on bills, honestly,” Chang said.
+
+Chang and his partner, Tina Chhous, try to economize by buying generic brands of food and medicine. They buy organic milk but otherwise stick to conventional products.
+
+When their 4-year-old daughter’s preschool has leftover lunch items like meat or bread, Chhous offers to take it. She also receives monthly food assistance through the federal Supplemental Nutrition Assistance Program, or SNAP.
+
+“Without that, I don’t know what I would do,” Chang said.
+
+Fewer people have the same buffer after the Trump administration tightened SNAP eligibility requirements last year. As of April, 37 million Americans were enrolled in the program, a 12% decline from a year earlier, according to the U.S. Department of Agriculture.
+
+Chang's 77-year-old mother, Lien, receives SNAP aid, too, and visits two different food banks each week. She shares the canned food, eggs and produce she gets with the rest of the family.
+
+Chang loves doting on his children, and acknowledges that money would be less worrisome if he were single.
+
+“But I try to be optimistic and do what I have to do in order to support my family," he said. "Failure is not an option for me.”
+
+Prices in the Honolulu area keep a pastry chef from shopping and eating local
+
+High grocery bills come with living in Hawaii. The state gets nearly all its food from cargo ships that have traveled thousands of miles, making prices and the selection at stores vulnerable to oil market spikes.
+
+Prices for local products also took an upswing this year. The cost of shipping goods between the Hawaiian Islands has skyrocketed amid rising fuel prices tied to the Iran conflict and financial instability within the company that has a near-monopoly on interisland shipping.
+
+Amanda Tabadero, 28, a pastry chef from Kāneʻohe, a community on the Hawaiian island of Oahu, remembers buying Maui-grown strawberries and blueberries for $7.99 per pound in 2024. Now that they cost $11, she buys berries grown in California or Mexico at Costco for $5 when she needs a bulk supply for baking.
+
+Tabadero also doubts she will buy lychee fruit again anytime soon. Kaimana lychee, the variety grown in Hawaii, mostly comes from the Big Island. Tabadero said an iced coffee and a bag of lychee she recently bought in the Chinatown section of Honolulu came to $30.
+
+“It makes me sad,” Tabadero said. “I want to use local stuff.”
+
+One of her favorite sweets is butter mochi, a chewy dessert made from rice flour. But even that simple recipe has gotten harder to make. One essential ingredient, milk, now costs $9 a gallon at a locally owned supermarket chain, Tabadero said.
+
+“Foodland is not affordable” for locals, she said, referring to the chain known for its poke and which has a central Honolulu location that is popular with tourists. Tabadero has switched to shopping at Target or Times Supermarket, another Hawaii-based chain.
+
+At home, where she lives with her parents and younger sister, three cats and a dog, making dinner has required adjustments. Chuck roast for Hawaii-style beef stew, a local staple, crept up last year to roughly $10 a pound from $7.99 or less before the pandemic. Unless she snags a $5 Friday deal at Safeway, “we do have to find substitutes, even if we’re craving it,” Tabadero said.
+
+___
+
+This report is a collaboration between The Associated Press and The Lexington Observer in Massachusetts, La Esquina in Texas and Honolulu Civil Beat in Hawaii. AP Video Journalist Terry Chea contributed from San Francisco.
