@@ -1,0 +1,160 @@
+---
+title: 'Gangs, violence and dumped dead animals: The hidden world of illegal hare
+  hunts'
+source_url: https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-25T06:27:57Z'
+published: '2026-07-25T00:00:00Z'
+description: Farmers talk of attacks as police receive nearly 9,000 reports of banned
+  hare coursing, the BBC finds.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ecbb/live/2f920700-8762-11f1-b8ee-9b3c26ad07bb.png
+---
+
+![A designed composite image featuring a background of a grassy field with a running hare, which is overlaid with abstract coloured circles as if in a spotlight. In the foreground, a man in a black balaclava stares out.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ecbb/live/2f920700-8762-11f1-b8ee-9b3c26ad07bb.png)
+
+Farmers say they have been threatened by balaclava-clad hare coursers at night
+
+**On a remote Cambridgeshire farm, where his nearest neighbour is half a mile away, Mathew Latta was making lunch when the peace was shattered by the sound of loud exhausts.**
+
+Latta ran to the window to see a convoy of more than a dozen 4x4s heading towards his farm. His iron gates were cut open with an angle grinder and concrete blocks were shifted out of the way to clear the convoy's path.
+
+The vehicles drove right over his fields at speed, tearing up the crops and skirting the fence by the family's garden. Then more than 70 people got out of the vehicles, men dressed in military fatigues and balaclavas, cheering and playing music.
+
+Dogs were brought out on leads and began to hunt hares.
+
+"They were all stood up on their cars with binoculars," says Latta. "I would say this is 100% a properly organised coursing event, with competitors and competitive dogs. People watching the course - and watching and betting on that sport. It was quite terrifying."
+
+*Warning: This story contains images of dead animals*
+
+Latta and his family were trapped in their home. They kept calling the police, but nobody came. His daughter, then aged seven, was terrified and kept asking: "Are these men gonna come inside, daddy?"
+
+More than three hours later, the bloodsport was finally over and the crowd dispersed. They left behind four cars, one of them a burnt-out wreck. It emerged that, earlier that day, the convoy had rampaged through an area 20 miles (32km) long in the county, forcing other cars off the road and even robbing a petrol station.
+
+![A split image showing Mathew Latta on the left, a man with short brown hair, wearing a raincoat over a blue collared shirt, standing in a green field by a hedge. On the right is a 4x4 in a field, which appears covered in dirt and scorch-marks, with the front grill having fallen off along with other damage.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e695/live/0508a150-86aa-11f1-926f-c90d1bcfbc84.jpg)
+
+Cars were abandoned on Mathew Latta's farm after it was taken over by hare coursers
+
+This is the modern reality of hare coursing. It is an ancient sport where dogs such as greyhounds or lurchers are used to hunt hares, which the coursers usually scare out from the wild. Points are awarded for the number of times the dogs force the hare to twist and turn as it runs - as well as for the kill.
+
+The sport reached a peak of popularity in the 19th Century, but went underground after it was banned in the UK in 2005.
+
+We began investigating this underworld for the BBC Radio 4 podcast Dead Rabbit after the bodies of dead hares and other animals were mysteriously dumped in two picturesque Hampshire villages in 2024.
+
+In Awbridge, more than 20 carcasses - mostly hares and rabbits, along with a muntjac deer with a severed head - were strewn outside a primary school. Children were in tears when they arrived for lessons and found a horror-movie scene.
+
+About seven miles north, in Broughton, about 50 hares were scattered near the entrance of the village's community shop, with blood smeared on the doors and a dead barn owl and kestrel tied to the door handles.
+
+![A paved area outside a modern building which houses the village community shop in Brought is covered in the bodies of dead hares and rabbits.](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/12c7/live/8f0e16a0-86af-11f1-8e17-395fea5a1d61.png)
+
+Dozens of dead animals were strewn in front of the village shop in Broughton
+
+What our investigation found was a hidden world of highly organised illegal bloodsport events taking place in rural areas, often by lamplight in the dead of night, with trophies, big money prizes, valuable hunting dogs and sometimes even international gambling.
+
+And it is all kept secret by organised crime gangs using intimidation and violence.
+
+## 'A proper operation'
+
+There have been almost 9,000 reports of hare coursing across the UK in the past three years, according to police responses to Freedom of Information Act requests by the BBC.
+
+The figures are not definitive - some incidents may have been reported more than once, while others may not have been reported at all - but in the absence of official crime figures for illegal hare coursing, they give us an indication of the scale of the problem.
+
+Cambridgeshire Constabulary says it was "very stretched" on the January day last year when Mathew Latta's farm was invaded, and the force says it did not respond the way it would have wanted. Supt Ben Martin tells us that the coursers had rampaged through the county deliberately, to distract police and send them to the wrong places.
+
+![An archive photo from 2004, showing one of the last Waterloo Cup hare coursing competitions, with a greyhound wearing a red collar leaning to its left as it follows the turns of the hare in front of it, as mud flies up from its paws.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/1e59/live/0d978740-86ab-11f1-a0b6-435e4178a497.jpg)
+
+Until the 2005 ban, hare coursing used to take place at well-attended events such as the Waterloo Cup
+
+Having been caught out, the force stepped up its efforts to investigate who was behind the illegal event, eventually arresting more than 40 people and charging 25, several of whom have now been convicted.
+
+As officers tracked down the coursers, it turned out they had come from all over the country: Lincolnshire, Leicestershire, Berkshire, north Wales. "People had come hundreds of miles to be there that day," says Martin. "It was a proper operation."
+
+Then, after searching an address belonging to one of the arrested men, police found the trophy the coursers had been competing for - the Super 8 Cup, etched with images of dogs and hares, standing maybe 2ft (61cm) tall, about the size of the FA Cup.
+
+The invasion of Latta's farm had been a highlight of the illegal hare coursing calendar, a recurring cup competition whose previous winners are engraved on the base of the trophy - both the owners and the dogs, which had names such as "Beyoncé" and "Bunny".
+
+## 'Like a small army'
+
+A scene after the cup final last year, captured on video obtained by the BBC, shows how hare coursing involves serious money. A group of eight men can be seen drinking pints in a pub and shouting, as they haggle over a lurcher standing on the table before them. The dog was the Super 8 Cup champion of 2025 and sold for £55,000.
+
+It is not the only evidence of the cash that flows through the illegal bloodsport: we were told the Super 8 Cup prize was about £50,000, while the entry fee for the competition was £1,000, as revealed by a seized phone belonging to one of the kingpins. Police say this cash funds the prize money and covers expenses, such as a pool of vehicles and even court costs in case the hare coursers are raided.
+
+Ch Insp Kevin Lacks-Kelly, head of the UK National Wildlife Crime Unit, tells the BBC that money had also flowed into the illegal sport through livestreams for gamblers in China on one or two occasions. But he says the gangs in the UK did not need overseas bets to fund their illicit hobby.
+
+![A large silver cup, with etchings of greyhound-type dogs and hares, on a wooden base with silver plating around it. The cup stands on some utilitarian-looking cabinets which are used for storing ammunition, in a non-descript office.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6606/live/9abcf240-8755-11f1-b2ab-0dd01740f9f6.jpg)
+
+The Super 8 Cup is now kept in a police storage room
+
+Hare coursers were linked to crimes involving significant sums of money, says Lacks-Kelly, not "minimum-wage crimes". "Some of these lads are making a fortune. You've got some of the country's best organised criminals," he adds.
+
+There are some localised events that still just involve a handful of men and dogs, Lacks-Kelly says, but the level of organisation in bigger events "has increased tenfold" with the influx of organised crime.
+
+"They've got the advantage in numbers. And they will go anywhere and do anything and commit this crime at all costs," he says.
+
+"They're like a small army, just do what they want, don't they? Turn up en masse, block roads off, drive over fields, cause damage, dump the cars, burn the cars out. Mass participation events that are designed to overwhelm."
+
+![A view from what appears to be a combine harvester or some other farm machinery, driving along a narrow road seemingly lit only by the headlights, with the hedgerows either side blurred slightly from the movement. Ahead on the road is what appears to be a silver SUV, which by its position appears to have emerged from a gate to the left of the image.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9c36/live/db53cd90-874d-11f1-97b5-935c9a6ea48f.jpg)
+
+Farmers say their vehicles have sometimes been rammed by hare coursers
+
+Lacks-Kelly says his team has homed in on 27 of the country's worst offenders for hare coursing and all but five of them have links to organised crime.
+
+"These are violent criminals that abuse people, animals, women. Carry weapons, firearms, and make threats. These are not the people that you want in your community," he says.
+
+## 'No-one's gonna hear you scream'
+
+The BBC contacted members of the Country Land and Business Association, which represents 30,000 rural landowners and businesses in England and Wales, to ask about their experiences with hare coursing.
+
+About 50 responded, nearly all of them saying their land or property had been damaged. Someone in Cheshire said it happened every week, a farmer in Essex said it had happened more than 100 times, while one in North Yorkshire said 150 times.
+
+And 29 of the respondents said they had been threatened with violence.
+
+According to the survey responses, hare coursers had threatened to kidnap farmers' dogs, shouted that they would burn their buildings down, had thrown bricks through windows, made anonymous phone threats to stab them in the neck, used catapults to fire ball-bearings at them, rammed and damaged vehicles with people inside, and warned the farmers that they knew where they lived and where their kids go to school.
+
+Wiltshire farmer David Lemon showed us his 3,000-acre farm, where hare coursers have previously torn up the fields with miles of tyre tracks. He has tried to fortify the land, closing off gateways, putting in concrete blocks or piles of logs, and digging rows of deep ditches to make it undrivable. But they still get in and, when he has tried to confront them, he has been threatened.
+
+![David Lemon, a man with greying hair and stubble, wearing a checked shirt, stands in one of the large fields of his farm against a blue sky with a few small clouds.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9d08/live/25f5c440-86a7-11f1-926f-c90d1bcfbc84.jpg)
+
+David Lemon says he has been threatened by balaclava-clad figures when he has interrupted hare coursing
+
+In his vast, isolated farm, a confrontation at night means "no-one's gonna hear you scream", he says.
+
+"First thing you see is a face with a balaclava on, with a catapult in his hand with ball bearings in," he says. "That's one eye gone. And is it worth the struggle?"
+
+He fears that someone will get killed before long - either because a farmer overreacts to the intrusion or the hare coursers take their intimidation tactics too far.
+
+"You get red mist when you see them trashing your years' work and this is all you've got. And they're just trashing it," says Lemon. "This is not fair. You can't be hostage in your own home. This is our farm. This is our home."
+
+Elsewhere in the county, a woman who called police on hare coursers at her father's farm received rape threats on social media as a result, according to Wiltshire Police and Crime Commissioner Phillip Wilkinson.
+
+## 'We can do what we want'
+
+One gamekeeper was run over and badly injured when he tried to confront hare coursers on land he managed, says Tim Weston from the National Gamekeepers' Organisation.
+
+"He broke both his legs, pelvis, ruptured lungs." Weston says. "They left at high speed, potentially could have left him for dead." Fortunately, the man is now back and work and recovering, he said.
+
+As we talked, it turned out that Weston, who is now based in Wiltshire, grew up in a village near Broughton in Hampshire, where the animals were dumped outside the shop. In 2024, he was working in deer management on an estate where he suspects the dead hares had been killed.
+
+The night before they were dumped, there had been wheel marks across the estate, he says. The local gamekeeper had stopped the hare coursers three or four times.
+
+Weston says the abandoned animals were a message to say: "We've been. You didn't catch us this time."
+
+Using dead animals to taunt landowners is common, Weston says. In our survey of farmers and landowners, 35 of the respondents said animal bodies had been deliberately left on their land.
+
+It is a message to the local community that "we can do what we want because no-one's going to police it", Weston says.
+
+![A black-and-white still frame from CCTV cameras outside the village shop in Broughton. Fne spider webs can be seen across the image, but behind them can be seen a man holding a rabbit or a hare in each hand and tossing them on to the paved area in front of the shop, where several dead animals are already lying. The man appears to be wearing a hood which is drawn tight over his face, so his identity isn't clear. Behind him, the tailgate of a 4x4 is open and the legs of another man can just be seen.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/f9e2/live/d0ae8360-874f-11f1-97b5-935c9a6ea48f.jpg)
+
+CCTV showed two men dumping the dead animals in Broughton
+
+Hampshire Police did arrest a man over the dumped animals at Broughton community shop, however. The force commissioned a forensic analysis of the dead kestrel and barn owl left on the doors and took DNA samples. James Kempster, a man who police say had a prior record of wildlife crimes, was arrested as a result.
+
+At trial, Kempster denied he had abandoned the animals. CCTV footage of two men casually tossing dozens of dead hares outside the shop - one of them ripping one of the bodies in half to smear its blood around - were not clear enough to reveal their identities.
+
+Kempster was convicted of handling the dead birds, a crime in itself because they are protected species. But he was found not guilty of criminal damage - the charge that related to abandoning the carcasses.
+
+So was the incident really a warning or a taunt to the local community from hare coursers? With the perpetrators still unidentified, their motive cannot be known for certain.
+
+One police officer recalls an arrangement of dead animals' whose message seemed undeniable, however. He tells us how he had sometimes found bodies strung over speed limit signs and street furniture in villages or left outside people's houses.
+
+Once, he says, he had seen them laid out in the road, the corpses spelling out the words: "Catch me".
