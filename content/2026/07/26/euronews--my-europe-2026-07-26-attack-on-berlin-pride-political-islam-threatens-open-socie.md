@@ -1,0 +1,42 @@
+---
+title: 'Attack on Berlin Pride: political Islam threatens open society'
+source_url: https://www.euronews.com/my-europe/2026/07/26/attack-on-berlin-pride-political-islam-threatens-open-society
+source_site: Euronews
+source_slug: euronews
+scraped_at: '2026-07-26T17:13:13Z'
+published: '2026-07-26T00:00:00Z'
+description: 'The attack on Berlin''s Christopher Street Day (CSD), allegedly by an
+  Islamist, is an assault on free Western society, writes CDU member Rene Powilleit
+  in a Euronews op-ed. He leads Berlin''s ''Lesbians and Gays in the Union''. #EuropeNews'
+image: https://images.euronews.com/articles/stories/09/85/11/92/1200x675_cmsv2_3f964c92-2a33-5871-9a2d-c04736314664-9851192.jpg
+---
+
+**René Powilleit, Berliner Landesvorsitzender des Verbandes "Lesben und Schwule in der Union" (LSU), einer politischen Sonderorganisation innerhalb der Christlich Demokratischen Union Deutschlands (CDU)**
+
+## The attack on Berlin's Christopher Street Day (CSD), allegedly by an Islamist, is an assault on free Western society, writes CDU member Rene Powilleit in a Euronews op-ed. He leads Berlin's 'Lesbians and Gays in the Union'.
+
+What began as a day of joy, freedom and love in the heart of the German capital turned into an unimaginable tragedy in the evening. Hundreds of thousands were celebrating Berlin's Christopher Street Day until a suspected Islamist attack using a delivery vehicle cut a trail of destruction through the Tiergarten park. One woman lost her life, and many others were injured, some of them seriously.
+
+## No backing down: "Our love is stronger than any hatred!"
+
+For the lesbian, gay, bisexual, trans and queer community, a fundamental certainty has been shattered: public space, which was meant to offer protection, has now become a deadly threat.
+
+Queer life in Berlin has long been under pressure from extremists and Islamists, but this attack marks a new and horrific dimension. For many, a painful question arises: can you still stand up for your rights and your identity in this city without fear? The answer must never be to give in, yet the fear is palpable and the sense of security deeply shaken. And still, one thing remains true: our love is stronger than any hatred!
+
+## Criticism of Islamism is mistaken for Islamophobia
+
+The warning signs had long been there. Back in 2021, a gay couple was attacked in Dresden by an Islamist and one person was killed. For years we have been witnessing a creeping radicalisation and growing anti-queer incitement, fuelled not only by right-wing extremists but also by Islamist circles.
+
+Anyone who closes their eyes to these ideological hotspots is acting negligently and irresponsibly. What we are dealing with here is not isolated lone attackers but a climate in which radical ideologies thrive and deliberately target open societies. Criticism of Islamism is far too often mistaken for Islamophobia.
+
+We finally need to have honest debates. Democracy is demanding, too. What is needed NOW is a clear stance, including from within the queer community itself.
+
+## Political Islam: a threat to Western, liberal and free coexistence
+
+After the pain and deep sympathy for the victims and their families, the full force of the law must be brought to bear. Our response must not be empty rhetoric of concern without consequences.
+
+Anyone who abuses the protection of our free and democratic constitutional order to spread fear and terror has forfeited that protection. The rule of law must use every instrument at its disposal, review the consequences for integration and residence status, monitor dangerous individuals without gaps and, where necessary, deport them.
+
+We need to look reality in the eye: political Islam is one of the greatest threats to our Western, liberal and free way of living together. We need an honest and robust debate about this ideology and an end to all naivety and support for Islamist structures in Germany.
+
+Berlin is and will remain a city of freedom. But freedom is not a given; it has to be defended — against anyone who seeks to destroy it.
