@@ -1,0 +1,64 @@
+---
+title: Manhunt for suspect, 21, after Berlin Pride crowd struck in ‘Islamist terror
+  attack’
+source_url: https://www.independent.co.uk/news/world/europe/berlin-pride-islamist-terror-attack-abdul-ballout-lgbtq-b3021798.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-26T21:09:12Z'
+published: '2026-07-26T00:00:00Z'
+description: Chancellor Merz says attackers ‘have only one purpose ... to take away
+  our openness and freedom’
+image: https://static.independent.co.uk/2026/07/26/07/2026-07-26T063802Z_1948700643_RC2ILMA105PU_RTRMADP_3_GERMANY-LGBT-PRIDE-ACCIDENT.JPG?trim=160,0,160,0&width=1200&height=800&crop=1200:800
+---
+
+Police have captured and shot dead the man suspected of killing a woman and injuring 29 others at a Pride event in Berlin in what authorities believe was an Islamist terror attack.
+
+The attacker, named as Abdul Ballout, a 21-year-old German citizen with Lebanese roots, was found at an allotment site in the Spandau area of the city on Sunday evening almost 24 hours after the car and machete rampage.
+
+Berlin police said he ran at emergency services personnel with a “stabbing weapon”, before armed officers fatally shot him.
+
+Three victims were still fighting for their lives in hospital on Sunday after sustaining life-threatening injuries, and eight others were seriously injured in the attack.
+
+Police believe Ballout drove into crowds in the Tiergarten park near the Brandenburg Gate at about 8pm on Saturday. He then got out of the car and lashed out at victims with the blade.
+
+His death ended a manhunt in which residents were warned Ballout he may be armed and dangerous.
+
+“Everything we see here points to us dealing with an Islamic terror attack,” interior minister Alexander Dobrindt said earlier, adding that the suspect had "drawn attention to himself through a high volume of criminal offences, radicalisation and affiliation with the Islamist scene".
+
+He was previously sentenced to one year and 10 months in prison, which was later suspended.
+
+Victims were a mix of festival goers and other locals in the park, which is a few hundred metres from the Christopher Street Day parade closing party at Brandenburg gate.
+
+Hundreds of thousands of people had come to Berlin to celebrate at the Pride parade, which is one of Europe’s largest LGBTQ+ celebrations.
+
+The celebration was abruptly called off around 10:15pm and a band’s performance on stage was interrupted as people were urged to go home and to avoid taking the route through the park.
+
+As crowds gathered for a vigil at St Mary's Church in Berlin on Sunday, German chancellor Friedrich Merz urged those celebrating at Pride events not to be intimidated.
+
+“I would like to say this to Christopher Street Day participants here in Berlin but also across Germany: Don’t let yourselves, let us not let ourselves be intimidated," he said.
+
+"These acts have only one purpose: They aim to divide our society. They want to take away from us the most important thing we have: Namely our openness and our freedom.”
+
+He said officials will do everything in their power to catch the perpetrator.
+
+Alexander Dobrindt, the interior minister, promised to review security measures at other major events in Germany, including Pride events elsewhere, admitting they cannot rule out copycat attacks. He said: “This is not typical of such situations, but it also can’t be ruled out.”
+
+There were emotional scenes as festival goers gathered at Brandenburg gate on Sunday for an impromptu protest, leaving flowers and paying tribute to victims of the attack. One sign, left with a bouquet of flowers at the park read simply: “Love wins.”
+
+![Photos show the aftermath of a van-ramming attack near Berlin's Pride festival](https://static.independent.co.uk/2026/07/26/12/Germany_Pride_16331.jpg)
+
+Defence secretary Wes Streeting joined other world politicians in condemning the “absolutely horrific” incident. The cabinet minister suggested the attack showed why such LGBTQ+ events were still necessary.
+
+He told Sky News’*Sunday Morning with Trevor Phillips:* “There are lots of people who I think don’t accept diversity and difference in our society, and that’s why pride is a celebration but it’s also a protest against those who do not accept life in the 21st century, do not accept people loving each other in same-sex relationships, and in the very worst cases, would seek to do us harm.”
+
+The attack came a week before Britain’s biggest Pride festival is due to take place in Brighton and Hove.
+
+Mr Streeting said: “The home secretary will obviously, with police chiefs, make the right determinations around what kind of policing presence we need.”
+
+Organisers of Brighton and Hove Pride joined other LGBTQ+ groups in an outpouring of support following the attack. “This is why we march for our rights,” they said in a post on social media. “Pride should be a place of celebration and joy. Brighton stands with Berlin.”
+
+Pride in London said their “hearts are broken” by news of the Berlin attack, adding: “Pride is a movement built on community, courage and solidarity. In moments of unimaginable pain, we come together. We remember why we march, why we speak out and why we stand with one another.”
+
+Manchester Village Pride said it was “deeply saddened” by the events and sent “love, strength, and unwavering support” to the Berlin Pride community.
+
+“Pride is a celebration of love, diversity, inclusion, and the freedom to be who you are. When one Pride community is impacted, we all stand together in solidarity,” they added.
