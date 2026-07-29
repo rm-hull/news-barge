@@ -1,0 +1,58 @@
+---
+title: I joined the fight against France’s wildfires. What I witnessed was extraordinary
+source_url: https://www.independent.co.uk/news/world/europe/france-wildfires-i-joined-amateur-firefighters-witness-gironde-lacanau-bordeaux-b3023362.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-29T10:48:34Z'
+published: '2026-07-29T00:00:00Z'
+description: As France battles its biggest crisis since World War 2, James C. Reynolds
+  describes his time with the relentless volunteer firefighters in Gironde who are
+  using everything from watering cans to water bowsers to dampen the flames
+image: https://static.independent.co.uk/2026/07/28/21/36/7632bde4-e1ce-4983-8a01-6d966701a11c.jpeg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+---
+
+The pick-up truck shudders to a halt and an outstretched arm signals the silhouette of a lone deer racing through the blackened woods.
+
+There are six of us squeezed into the back of the Toyota Hilux, all clinging onto a caged water tank as we bounce along the dirt roads of a forest ravaged by wildfires. Sandy firebreaks have created a stark contrast between the verdant woodland surrounding Lacanau and the devastated areas in monochrome, still heavy with smoke.
+
+Lacanau, a coastal town some 30 miles west of Bordeaux, has mobilised over the past week to meet the fire threat head on. Dozens of volunteers - some as young as 18 - are now working around the clock to guide firefighters, feed the displaced and to put out fires.
+
+I arrived in the commune as visitors were ordered to leave, with a looming heatwave expected to exacerbate the situation in the coming days.
+
+![Clinging to a water tank on the back of a pick-up truck in the forests around Lacanau, James Reynolds (pictured) joined volunteers on Tuesday on a patrol to spot break out fires](https://static.independent.co.uk/2026/07/28/21/36/7632bde4-e1ce-4983-8a01-6d966701a11c.jpeg)
+
+Taxis and buses refused to go directly to the town, and Google regularly showed there was no viable route to Lacanau at all.
+
+Police had set up checkpoints around the perimeter and there was a steady stream of motorhomes coming the other way as we tried to press in.
+
+My guide was Pao Borecka, a 31-year-old who had moved to the woodland commune six years ago and started organising cultural events and painting.
+
+![People in Lacanau say around a fifth of the homes in Le Porge have been destroyed. The area was inaccessible on Tuesday](https://static.independent.co.uk/2026/07/27/18/35/3254rw-ff02f177.jpeg)
+
+Now, she says, she has no time to paint while running between the canal at Pont du Hourbiel - where volunteers are pumping water and running patrols - and the town, where locals are preparing food and tending to evacuees.
+
+Residents have been playing their part for nearly a week since the wildfires broke out on 22 July, razing hundreds of buildings and forcing nearly a quarter of a million people in the wider area from their homes.
+
+The fires have drawn in emergency services from across the country, but they seem to depend on the bravery of the locals, willing to risk their lives to show them through the woods. Every few minutes, a patrol car arrives back at the canal and another heads off laden with volunteers, sometimes in front of fire trucks.
+
+After several days in the forest, some of the volunteers have eyes reddened and voices broken from the smoke. The long walks into the woods have left others with burns on their ankles and blisters upon blisters on their feet. Pao says she has lost two pairs of shoes already walking through the smouldering forests, which warm your feet if you stand too long. The job is hard, but it has to be done.
+
+The visit itself is bleak; the air is thick and poisonous, refugees rest on camp beds in an empty hall, and people speak candidly of plans to flee the commune and rescue loved ones if the fire worsens. But it is the fundamental good-heartedness of the people of Lacanau that shines through.
+
+![Volunteers rest between patrols of the burned out countryside](https://static.independent.co.uk/2026/07/28/21/59/WhatsApp-Image-2026-07-28-at-23-47-22.jpeg)
+
+![Firefighters stopped to rest and eat at the centre offering food in town](https://static.independent.co.uk/2026/07/28/21/52/WhatsApp-Image-2026-07-28-at-23-47-22-(3).jpeg)
+
+All expect to be here until the fire is out. None hesitate or falter in giving all they have to the gargantuan effort ahead of them. Some say they have been here for five days already, some working 15 hours a day, but nobody for a moment seems to lose sight of their task.
+
+Many have lost businesses and had to take in friends, relatives and strangers displaced by the fires. But they also know how much they still have to lose; in Le Porge - half an hour south - it is said more than 150 homes have been gutted since last week.
+
+And so, despite the tiredness, despite the sun and the mental strain that everybody acknowledges, columns of volunteers continue to march from the canal to the forest “like ants”, with watering cans and buckets to stop ashes from reigniting.
+
+In the town, people do the same. Grandparents make sandwiches for delivery to the volunteers. Local restaurants, closed by the fires, offer what they can. Pick-up trucks stream back and forth with water and aid while Canadair water bombers swoop overhead, the frontlines now just two kilometres away.
+
+And even as an outsider, the locals ensure I am safe: they offer me a face mask before fixing their own; they encourage me to eat when we are tired from carrying water; they call through a list of taxi companies to find one willing to drive me back out while they remain.
+
+I am in awe of Pao and her unwavering energy for doing what is right. She acknowledges the risk to herself by continuing her work, and recognises when she needs to rest or laugh, to self-regulate. But she and her neighbours move with an infectious sense of duty to keep going in spite of all that has been lost.
+
+We see on our journey from the back of the pickup truck spreads of animal feed and water left out in the charred forests for the other lives touched by the fires. This job, like that, demands at times a calm detachment to carry on without being overwhelmed by emotion. But at others, it is impossible not to be moved by the gentle reminders, in the worst of times, of the prevailing good in humanity.
