@@ -1,0 +1,38 @@
+---
+title: FIFA opens disciplinary cases against Argentina after World Cup
+source_url: https://www.euronews.com/2026/07/30/fifa-opens-disciplinary-cases-against-argentina-for-world-cup-final-scuffle-and-malvinas-b
+source_site: Euronews
+source_slug: euronews
+scraped_at: '2026-07-30T10:33:34Z'
+published: '2026-07-30T00:00:00Z'
+description: Argentina midfielder Leandro Paredes faces three charges of assault in
+  the post-game clashes after Spain’s 1-0 win on July 19, defender Nahuel Molina faces
+  two charges and coach Roberto Ayala one.
+image: https://images.euronews.com/articles/stories/09/85/55/60/1200x675_cmsv2_87e6e469-afbf-5bb6-a696-def9553c3c3e-9855560.jpg
+---
+
+## Argentina midfielder Leandro Paredes faces three charges of assault in the post-game clashes after Spain’s 1-0 win on July 19, defender Nahuel Molina faces two charges and coach Roberto Ayala one.
+
+FIFA has lodged disciplinary charges against two Argentina players for their behaviour towards Spanish players after losing the World Cup final, as well as showing a political banner about the Falkland Islands after beating England in the semifinals.
+
+The list of disciplinary cases opened by FIFA against Argentina also includes “discriminatory chants and gestures” by fans, alleged assault by an assistant coach after the final and “throwing of objects by spectators in relation to several matches” at the World Cup.
+
+Argentina midfielder Leandro Paredes faces three charges of assault in the post-game clashes after Spain’s 1-0 win on July 19, defender Nahuel Molina faces two charges and coach Roberto Ayala one.
+
+Paredes physically tangled with Spain players Eric Garcia and Gavi, and Spain captain Rodri was hit in the stomach as he ran past Molina.
+
+Molina and Thiago Almada are also charged with unsporting behaviour, with the same charge levelled against Spain player Gavi.
+
+Last week, Spain coach Luis de la Fuente has described the incidents as “intolerable and unacceptable.”
+
+“It cannot be allowed,” De la Fuente told Spanish public broadcaster TVE, adding he did not see the incidents at the time while “celebrating with other people.”
+
+“In any case, I find it intolerable and unacceptable from players of that caliber, whom I had been praising in the days before and who have a magnificent coach,” the Spain coach said.
+
+Argentina also faces a charge of “using a sports event for demonstrations of a non-sporting nature", FIFA confirmed on Wednesday.
+
+After beating England 2-1 in the semi-finals, the Argentina players unfurled a banner bearing the slogan "Las Malvinas son Argentinas" — “The Malvinas are Argentine”.
+
+Argentina claims sovereignty over the archipelago, which it calls the Malvinas Islands, while the United Kingdom refers to it as the Falkland Islands. In 1982, the then Argentine military dictatorship invaded the territory, triggering a ten-week war that ended in a British victory.
+
+Following the display of the banner, members of the British government called on FIFA to investigate the matter.
