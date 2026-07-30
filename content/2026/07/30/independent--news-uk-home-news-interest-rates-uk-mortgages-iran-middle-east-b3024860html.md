@@ -1,0 +1,96 @@
+---
+title: Why the Bank of England kept interest rates the same and what could happen
+  next
+source_url: https://www.independent.co.uk/news/uk/home-news/interest-rates-uk-mortgages-iran-middle-east-b3024860.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-07-30T21:21:03Z'
+published: '2026-07-30T00:00:00Z'
+description: Despite the central bank's primary tool for combating inflation being
+  interest rate hikes, the committee chose to maintain the current level
+image: https://static.independent.co.uk/2026/07/30/7/50/GettyImages-1229472876.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+The Bank of England has opted to hold its key interest rate at 3.75 per cent, following a split decision by its rate-setting committee on Thursday.
+
+This move comes amidst growing concerns over the economic fallout from the ongoing conflict in the Middle East.
+
+Despite the central bank's primary tool for combating inflation being interest rate hikes, the committee chose to maintain the current level.
+
+The Bank indicated that rising energy prices, a direct consequence of the Middle East situation, are expected to fuel UK inflation in the coming months.
+
+Elevated fuel costs directly impact various sectors, including production, manufacturing, energy, and transport.
+
+The Bank's decision reflects a delicate balancing act, as it seeks to prevent inflation from spiralling out of control while navigating global uncertainties.
+
+Here’s what it all means...
+
+## What happened to interest rates on Thursday?
+
+The Bank decided to keep rates unchanged at 3.75%.
+
+Six members of the bank’s monetary policy committee (MPC) voted to keep the rate the same, while three members – Huw Pill, Megan Greene and Catherine Mann – voted for rates to be increased to 4%.
+
+It is the fifth meeting in a row where rates have been held at this level, having previously come down gradually from a peak of 5.25% in August 2024.
+
+## What does it actually mean?
+
+The base rate helps dictate how expensive it is to take out a mortgage or a loan.
+
+Many lenders had been chopping rates early this year in expectation of the Bank of England lowering its base rate but started increasing rates sharply following the outbreak of the Middle East conflict.
+
+The re-escalation of the conflict in recent days has put upward pressure on mortgage rates.
+
+However, savings rates are also linked to the interest rate and are also likely to increase.
+
+## What is happening with inflation in the UK and why does this influence rates?
+
+Raising interest rates is the central bank’s main way of reducing inflation – the measure of how fast prices increase over time.
+
+The Bank’s aim is to put policy in place which will help keep inflation at the 2% target rate set for it by the Government.
+
+![The Bank of England said UK inflation had been falling but was expected to rise again later this year](https://static.independent.co.uk/2026/07/30/16/e53a8b149a95df44757c0d8848f7aff0Y29udGVudHNlYXJjaGFwaSwxNzg1NTA5MTkw-2.85452593.jpg)
+
+The latest official figures showed the rate of Consumer Prices Index (CPI) inflation dipped to 2.6% in June, compared with 2.8% a month earlier.
+
+Although lower, this remained above the target level set by the Government and the Bank.
+
+## What is most likely to happen to inflation in the future?
+
+The Bank of England said it expects inflation to increase in the coming months.
+
+It predicted that inflation will peak around 3.2% later this year in its base scenario, primarily driven by a rise in energy prices linked to the conflict in the Middle East.
+
+However, it also indicated that inflation could jump above 4% if there is a prolonged conflict and oil prices rise higher for a protracted period.
+
+Rate-setters also said that other factors, such as an AI-driven memory chip shortage and food supply disruption linked to hot weather, could also contribute to rising inflation.
+
+## What else could happen in the economy?
+
+Broadly, the Bank’s main economic forecasts showed a slightly improved outlook compared with its previous forecasts.
+
+Its projected peak for inflation was marginally lower than its prediction last month.
+
+The report also said the UK economy is on track to grow by 1.1% both this year and in 2027.
+
+This was stronger than the prediction of 0.8% this year in its most optimistic estimate from the Bank’s previous full set of forecasts from April.
+
+The picture for unemployment is also slightly improved, with the Bank suggesting this will reach 5.3% next year, having predicted it could be 5.5% in 2027 in April.
+
+## Will interest rates have to rise?
+
+Many economists are now expecting interest rates to stay as they are for the rest of the year.
+
+However, the financial markets have also priced in one or two increases in the interest rate by the end of next year.
+
+On Thursday, the MPC “recognised the potential need for additional policy restraint” should further pressures on inflation materialise, and found that there “remains scope for the outlook to change materially as events in the Middle East unfold”, according to the minutes from the latest meeting.
+
+This indicates that interest rates could be raised in response to further re-escalation of the US-Israel’s conflict with Iran.
+
+## What does this mean for Prime Minister Andy Burnham?
+
+This was the first monetary policy report since Andy Burnham became Prime Minister earlier this month.
+
+It indicated that the economic outlook has slightly improved over recent months.
+
+Improved growth projections could result in stronger revenues for the Treasury and help to boost the spending potential for the Prime Minister and Chancellor.
