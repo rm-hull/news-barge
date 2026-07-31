@@ -1,0 +1,44 @@
+---
+title: Archbishop of Canterbury vows to support £100m pledge helping communities affected
+  by enslavement
+source_url: https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-07-31T14:29:42Z'
+published: '2026-07-31T00:00:00Z'
+description: During visit to Ghana, Sarah Mullally expresses regret and says controversial
+  fund symbolises Christian belief in repentance
+image: https://i.guim.co.uk/img/media/53ce70eac4b4c4b5e140a0977a74d94c5be23bcb/237_0_5573_4458/master/5573.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24394c0d152097b78551c0a26ca0add7
+---
+
+At a former British castle where thousands of enslaved Africans were held before being shipped across the Atlantic, the archbishop of Canterbury expressed “lament” for the Church of England’s involvement in transatlantic chattel slavery and reaffirmed her commitment to a controversial £100m fund for affected communities.
+
+Sarah Mullally made the comments during a visit to the Cape Coast castle, a 17th-century fortress built by Swedish traders, but occupied by the Danish and the Dutch, before the British seized it in 1664.
+
+It was part of a 10-day tour of Ghana and Cameroon at the invitation of the head of the Anglican church’s west Africa province, the archbishop Cyril Kobina Ben-Smith.
+
+“Being at Cape Coast castle today and seeing the horrific conditions that thousands of people were kept in, it is impossible not to feel the weight of the immense evil that drove the transatlantic slave trade,” Mullally said on Thursday.
+
+She was shown the dungeons used to keep enslaved people, before praying in a former Anglican chapel above them. She also visited the “Door of No Return”, where enslaved people were loaded on to ships and ferried across the Atlantic. It has since been renamed the “Door of Return”.
+
+![The archbishop of Canterbury faces a large wooden door with a sign above it saying 'Door of Return'](https://i.guim.co.uk/img/media/4521e2ab3d8176edc96f42bae256e49a96ee455d/0_0_1638_1311/master/1638.jpg?width=445&dpr=1&s=none&crop=none)
+
+Her trip began in the Ghanaian capital of Accra, about 90 miles (145km) east of Cape Coast on Sunday. There, Mullally visited four local parishes and delivered the sermon at a special Eucharistic service at St Joseph the Worker Anglican church in the Kaneshie area. According to local reports, the service was officiated by an all-female clergy from the Anglican church of Ghana.
+
+Mullally, who in March became the 106th head of the 492-year-old denomination and the only woman to do so, also met the Ghanaian president, John Mahama, earlier in the tour, along with her husband, Eamonn Mullally.
+
+Since the government launched the Year of Return scheme in 2019 to help Africans and their descendants in the diaspora reconnect with their roots, Ghana has had a surge in visitors. As part of Mullally’s visit, she laid a foundation stone for a hostel belonging to the local church’s culture resort initiative, to accommodate pilgrims from the diaspora wanting to engage in the scheme.
+
+The archbishop also preached at a service of more than 1,000 nurses in the town of Mampong, where she commissioned a new campus clinic named after her. On Friday, she was heading to Yaoundé, the Cameroonian capital, and will then proceed to Douala and the English-speaking cities of Buea and Limbe.
+
+Ghana has been spearheading a global campaign to seek reparative justice and last month hosted a landmark conference attended by more than 80 heads of state.
+
+The archbishop’s visit comes three years after her predecessor Justin Welby formally apologised for the church’s role in the transatlantic slave trade, including using a fund for poor clergy to invest in enslaving Africans. “It is a stain on the wider church that some Christians did not see their brothers and sisters as created in the image of God, but as objects to be exploited,” he said.
+
+The church set up a £100m fund committed to “a programme of investment, research and engagement” in communities affected by slavery, prompting diverse reactions. At the time, an independent oversight group argued that the amount was insufficient to address the generational damage slavery had caused and urged the church to expand that commitmentto £1bn. Upon Mullally’s ascension to the role of archbishop, a committee of Conservative MPs urged her to spend the money on wages for the church’s clergy.
+
+However, on Thursday, the archbishop reaffirmed her commitment tothe fund. “We played a part in the transatlantic slave trade … part of the Christian belief in repentance is about action, so we are putting in place action to support those communities that feel the legacy of the slave trade,” she said.
+
+Across Ghana, the mood has largely been celebratory. On a visit to the palace of the Asantehene, the traditional ruler of the Asante people, in the city of Kumasi on Wednesday, Mullally wore a special cassock and cape lined with kente cloth that pleased palace chiefs.
+
+Among the less enthused was Accra-based accountant Kenneth Mordzro, who said he believes the church can play a greater role in reparation efforts. “They should bring back the gold and artefacts they stole from our ancestors during the colonial days,” he said, referring to items looted by the British government during the Anglo-Asante wars of the 19th century.
