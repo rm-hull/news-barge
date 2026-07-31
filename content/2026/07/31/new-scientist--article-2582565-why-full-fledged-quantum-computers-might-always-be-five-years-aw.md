@@ -1,0 +1,54 @@
+---
+title: Why full-fledged quantum computers might always be five years away | New Scientist
+source_url: https://www.newscientist.com/article/2582565-why-full-fledged-quantum-computers-might-always-be-five-years-away/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
+source_site: New Scientist
+source_slug: new-scientist
+scraped_at: '2026-07-31T10:50:29Z'
+published: '2026-07-31T00:00:00Z'
+description: To predict when we’ll have a truly useful quantum computer, we need to
+  know precisely what one is. Columnist Karmela Padavic-Callaghan finds that’s harder
+  to pin down than you might think
+image: https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306891714.jpg
+---
+
+![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306891714.jpg?w=840)
+
+What is a quantum computer? The question feels deceptively simple. It is a computer that uses quantum effects to run calculations – or at least, that is what I have been saying to friends and acquaintances for years. Because I report about the latest advances in quantum computing nearly constantly, I have felt confident in this answer. Recently, however, I have had to re-examine that confidence. A more detailed question makes clear why: though I can name many different components and functions of a quantum computer, could I identify exactly when they all become a quantum computer? One recent philosophical study suggests that this is at the root of the difficulty of forecasting the future of quantum computing.
+
+For Christophe Jurczak at investment firm Quantonation, it all started at a conference that had nothing to do with quantum computing. Researchers were discussing a different emerging technology, and Jurczak realised that he had first heard about it 30 years ago. Back then, everyone was saying that it was only “five years away”. Déjà vu. Then, a worry set in – could quantum computers also be such a “perpetual five-year technology” (PFYT)? This drove him to do a year-long deep dive into philosophical literature. The paper I read was its outcome.
+
+In it, he argues that, right now, quantum computers are firmly in the PFYT category. All attempts to forecast when quantum computers will truly arrive are misguided so long as they presuppose that we already know what quantum computers are, he writes. “If the identity of a quantum computer is still being settled as the machine develops, that presupposition fails.”
+
+Advertisement
+
+As someone who thinks about quantum computing an awful lot, I wanted to know what exactly brought Jurczak to this somewhat alarming conclusion. In the nearly five years that I have spent writing about quantum computers for *New Scientist*, they have certainly made measurable progress. Several firms have presented road maps for the future of their devices, including goals for their overall size and the performance of some of their components, and then they met those goals.
+
+Quantum computers are also much closer to being useful devices than they were just a handful of years ago. Sure, they haven’t yet changed the world by aiding the discovery of some groundbreaking drug or battery redesign, but you could access a quantum computer through the cloud right now and use it as a scientific tool if you happen to be a chemist or a material scientist.
+
+Jurczak doesn’t deny this. He even tells me that he recently ran an experiment remotely on a quantum computer made from extremely cold atoms that was housed in a lab in Canada while he was on his couch in Texas. But this doesn’t mean that the question of quantum computing is settled, he says. One way to see this is to note the diversity of approaches for building a quantum computer, as well as the many, many metrics that are important for capturing how well one might work.
+
+The basic components of quantum computers are called qubits, and they can be built in many different ways, from using extremely cold atoms to tiny superconducting circuits or particles of light. Then, there are the things you may want to measure about your quantum computer: how many qubits it has, how well connected they are, how reliably they can be used for different parts of a computation, how quickly they can be controlled and so on. Perfecting one or even a few of these metrics typically doesn’t guarantee that all the others will become excellent too.
+
+Having spoken to many researchers and executives within the field, I have come to recognise a certain mix of excitement and anxiety in how they often speak: celebrating all the components of a truly powerful machine having been proven to work by themselves, while trying to keep at bay the worry about what may happen when they are all put together.
+
+In his paper, Jurczak, together with Brooke Abeles at ENS Paris-Saclay in France, collected data about some of these metrics across the industry and inferred a clear trend – once a threshold is crossed for one metric, such as guaranteeing that a single qubit makes errors less often than once in a thousand times, the five-year horizon doesn’t collapse. Instead, it resets. This is a consequence of discovering what a quantum computer is as it is being built.
+
+This was distinctly not the case during the development of conventional computers. Jurczak says sometimes researchers like to compare today’s quantum computers to ENIAC, the world’s first programmable general-purpose electronic computer, but building that room-sized digital behemoth was much more of an engineering challenge. “[Classical computing] was a very much more mature ecosystem at the time when it started,” says Jurczak. While he was digging through philosophical literature, he found that an idea more relevant for quantum computers from the philosopher of technology Gilbert Simondon.
+
+His theory of “technical individuation” says a shifting assembly of elements becomes a coherent “individual” through a process that includes a whole ecosystem, which consists of infrastructure, knowledge and practices maturing through iterative steps of trial and error. A collection of qubits and the devices that control and house them, for example, becomes a quantum computer only through interconnected developments in, for instance, laser and cryogenics systems, the building of special chip foundries, the growth of a specialised quantum workforce and basic research in quantum physics and computer science. Really, the list goes on; the ecosystem is large and complex.
+
+![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306891532.jpg?w=840)
+
+As we talked, I found myself increasingly won over to Jurczak’s view of what has happened with quantum computing. The fact that we don’t have a fully useful quantum computer yet isn’t a failure of prediction, nor a failure of the market, but rather reflects the groundbreaking, paradigm-shifting nature of trying to corral the denizens of the quantum world into doing computational work for us. The technology is still too close to scientific discovery to be easily wrangled, easily scaled, easily accelerated by the usual tricks of the economy. “Don’t despair,” Jurczak puts a positive spin on it, “this is highly nonlinear, it takes time.”
+
+Currently, the quantum computing industry has its sights on reaching “fault tolerance”, or building a quantum computer that is so good at catching its own errors that it can reliably run unprecedentedly complex computations. Once this goal is reached – and many firms are projecting they will do so by the end of the decade – will quantum computers have arrived? Will we know which type of qubit won the quantum-computing race? And what will be the next milestone?
+
+Though Jurczak says that his framework isn’t predictive, it does begin to unravel some of these questions. Almost certainly the horizon will shift again, and not all the machines will be fully individuated. He says he is excited about the possibility of a really heterogenous quantum-computing system – no specific qubit design will win, they will just, through their own process of individuation, find applications they are well suited for. The question of what a quantum computer is won’t be answered by just one device. “The people who will build and use these machines should have more of an open mind about what a quantum computer is as a technical individual and how it concretises and how it’s going to be used as well,” says Jurczak.
+
+Quantum computers won’t remain PFYTs forever, but he speaks about them currently being in that category with excitement. When he says that the constantly resetting horizon represents possibility, I can’t help but find that compelling. But what should quantum-computing firms do with this philosophical insight, I asked him. Certainly, they will still have to put out road maps and announce their goals. It’s important to have strategies for the next five years, he conceded. “We all want that and that’s needed, but think beyond and have a little bit of imagination as well, would be my take,” says Jurczak.
+
+One way to achieve that may be to start working with people outside physics, maybe even philosophers themselves. The ecosystem for a quantum computer ought to be interdisciplinary. AI companies are already hiring across not just the sciences, but also the humanities, and it ought to happen with quantum-computing firms as well, he says. Jurczak believes AI agents themselves may also help accelerate some of that interdisciplinary work, as they aren’t trained in the specialised ways that human researchers are. He and several researchers at quantum-computing company Pasqal, which he co-founded, have already tested several examples of how such agents could help quantum-computing novices run computations on real quantum hardware. “If you ask me in five years what failure would really be, [it would be] that we still have these silos,” he says.
+
+My own physics education was definitely siloed, and I was never asked to take a class in philosophy or the history of technology. Because a reporter’s job is to take both the broad view and the long view, I have, at times, felt the lack of that training rather sharply. The sheer amount of research in quantum computing is both impressive and overwhelming, and making sense of it has required a different skill set than merely being literate in the mathematics of quantum theory and somewhat conversant in materials science.
+
+To be fair, the next time someone asks me what a quantum computer is, I will almost definitely not be telling them that it is a technical individual in an ever-evolving state of becoming. For anyone who isn’t actively trying to shape the fast-growing quantum computing industry, that won’t be very helpful. But the next time a paper reporting some narrow yet impressive advance crosses my desk, I will file it away as part of this evolution, reset my personal expectations clock and get at least a little excited about the quantum-computing horizon having just shifted.

@@ -1,0 +1,105 @@
+---
+title: 'Franco Baresi: AC Milan and Italy great dies aged 66'
+source_url: https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-07-31T10:49:59Z'
+published: '2026-07-31T00:00:00Z'
+description: AC Milan and Italy great Franco Baresi has died at the age of 66, the
+  Italian club announces.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a661/live/91ce3570-8cac-11f1-a1f4-f50057266998.jpg
+---
+
+![Franco Baresi](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a661/live/91ce3570-8cac-11f1-a1f4-f50057266998.jpg)
+
+Franco Baresi became captain of AC Milan at the age of 22
+
+**Franco Baresi has died at the age of 66, with AC Milan saying their former captain's "example and integrity will be forever etched into the club's DNA".**
+
+Baresi spent his entire 20-year playing career with the club from 1977 until he retired in 1997, winning six Serie A titles and three European Cups/Champions Leagues.
+
+Regarded as one of the greatest defenders to play the game, Baresi captained Milan for 15 seasons, making 719 appearances and scoring 33 goals.
+
+He was capped 81 times by Italy and was part of the squad which won the 1982 World Cup. He played and was captain in the 1994 final, which Italy lost to Brazil.
+
+In 2020, Baresi became honorary vice-president of AC Milan, with the club retiring his number six shirt four years later.
+
+![Fabio Capello and Franco Baresi celebrate AC Milan's 1993-94 Serie A title at the San Siro](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4f53/live/edb33c90-8cb2-11f1-b49b-bb9fc846a015.jpg)
+
+In the 1993-94 season, Baresi and AC Milan manager Fabio Capello lifted a third consecutive Serie A title, the Champions League and the Supercoppa Italiana
+
+Baresi formed part of one of European football's most celebrated defences alongside Paolo Maldini, Alessandro Costacurta and Mauro Tassotti.
+
+He also lifted four Supercoppa Italianas, two European Super Cups and the Intercontinental Cup twice.
+
+In the 1994 World Cup, he returned from a knee injury to play in the final and largely nullified the threat of Brazil's Romario and Bebeto in a 0-0 draw.
+
+It was the first World Cup final to be decided by a shootout and Baresi missed the first penalty, with Brazil eventually winning it 3-2.
+
+Baresi had surgery in August 2025 to remove a lung nodule, and his last public appearance was at the San Siro Stadium for the Winter Olympics opening ceremony in February.
+
+In a statement on X, AC Milan wrote: "Milan is in tears following the passing of Franco Baresi. His example and integrity will be forever etched into the club's DNA, just as his iconic number 6 shirt is."
+
+In a further post on the club's website,, external they added: "Announcing the loss of someone who embodied the heart and soul of AC Milan is incredibly difficult. But everyone at the club and all the Milanisti must live up to Franco Baresi's memory.
+
+"In memory of Franco, we stand united, knowing he'll guide and push us throughout our Rossoneri journey. Forever. Because Baresi is forever."
+
+## 'How will we manage without our captain?' - tributes to Baresi
+
+Maldini, 58, who also spent his entire career at Milan, paid tribute to his former team-mate, writing on Instagram:, external "Today, I feel the same way I did whenever - for whatever reason - you couldn't take the field alongside us: how will we manage without our captain?
+
+"You taught me to fight until my very last breath, and showed me the meaning of devotion to the jersey and the true value of leadership.
+
+"You protected me when I was a child, guided me as a young man, and inspired me as an adult.
+
+"You were the greatest footballer I ever had the honour of playing with."
+
+Former Italy goalkeeper Gianluigi Buffon shared memories of his debut for Parma competing against Baresi as a 17-year-old in 1995.
+
+He wrote: "For a boy my age, finding myself on the field against champions like him was something incredible. From that day on, I had an even clearer understanding of what it meant to represent football with class, leadership and respect."
+
+Inter Milan said:, external "Farewell to Franco Baresi, protagonist of the great clashes in the Milan derby and one of the figures who most defined the history of the rivalry.
+
+"Captain, team man and flagbearer of AC Milan, he lived every match-up with Inter between competition and respect, within a challenge that wrote unforgettable pages of Italian soccer."
+
+Inter Milan manager Cristian Chivu said Baresi's death "is a sad day for the whole world, he represented being one of the greats in the history of football".
+
+Italian prime minister Giorgia Meloni said Baresi "was not only one of the greatest champions in (Italian) sports history, but also an example of loyalty, seriousness, and dedication".
+
+The head of the Italian football federation (FICG), Giovanni Malago, praised Baresi for the "romantic choice" of staying loyal to AC Milan throughout his career, "which rightfully made him enter the hearts of the fans and millions of Italians."
+
+## One of the last 'flags' - analysis
+
+![Franco Baresi and Carlo Ancelotti of Milan celebrate the Intercontinental Cup](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2216/live/78351200-8cb1-11f1-b49b-bb9fc846a015.jpg)
+
+Franco Baresi and Carlo Ancelotti celebrate winning the Intercontinental Cup with AC Milan in 1989
+
+Everyone is hurting, it is a very sad day.
+
+Franco Baresi is a legend in Italy, one of the last so-called 'flags' - a one-club player, a player who has only worn one shirt for his entire career.
+
+After 15 years as AC Milan captain, his shirt had already been retired so no-one will ever wear the number six again - it shows how important he was for Milan, a symbol of the city.
+
+At AC Milan they called him 'Piscinin' - it means a fragile, thin youngster in Milan dialect. That was his nickname when he started back in the 1970s and it was given to him by a famous Italian journalist called Gianni Brera.
+
+He had a trial at Inter when he was 12 and his brother Beppe was already at the club, but they rejected him. He ended up at AC Milan that way. But even Inter are mourning, his value has been recognised by all opponents as he is a legend not only for AC Milan. Find me a fan who didn't like or recognise the value of Franco Baresi - it is not going to happen. That is how loved he was.
+
+He played alongside some of the biggest champions, Marco van Basten, Paolo Maldini, Ruud Gullit, Frank Rijkaard and he was always at the same level. Baresi was one of the immortal AC Milan players.
+
+He won three European Cups, but there were also some sad times - the World Cup in 1994 and the penalty miss. He couldn't play for much of the tournament given the injury he suffered at the beginning, but he made a speedy recovery to play a great game in the final against Brazil.
+
+To then miss a penalty in the shootout was a very sad moment for the whole of Italy. But we have never been angry, because Franco Baresi was one of the pillars of the team and the fact he recovered to play in the final was simply inhuman.
+
+And in 1989, he finished second in the Ballon d'Or to his team-mate Van Basten - back then, it was inconceivable a defender could win the Ballon d'Or, but Baresi got that close and deserved to win it for the player he was, the quality he had and all he represented - his leadership, importance, quality and his belonging to a club. He deserved that recognition.
+
+![Franco Baresi clears the ball under pressure from Brazil's Romario in the 1994 World Cup final](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a9ff/live/0004b100-8cb6-11f1-b49b-bb9fc846a015.jpg)
+
+Baresi captained Italy in the World Cup final in 1994, just three weeks after having surgery on his right knee. Here, he clears the ball under pressure from Brazil's Romario
+
+![Italians Franco Baresi, Daniele Massaro, Paolo Maldini, Roberto Donadoni and Demetrio Albertini show their disappointment after losing the World Cup final in 1994](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4866/live/2c8e32e0-8cb2-11f1-b49b-bb9fc846a015.jpg)
+
+Franco Baresi (far left), Daniele Massaro, Paolo Maldini, Roberto Donadoni and Demetrio Albertini show their disappointment after losing the 1994 World Cup final
+
+![Franco Baresi and Giuseppe Bergomi carry the Olympic torch at the Winter Olympics](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bbaa/live/26621090-8cbb-11f1-8437-e79e1d37ad96.jpg)
+
+Baresi and his former Italy team-mate and Inter Milan legend Giuseppe Bergomi were two of the torchbearers at the Winter Olympics opening ceremony earlier this year
