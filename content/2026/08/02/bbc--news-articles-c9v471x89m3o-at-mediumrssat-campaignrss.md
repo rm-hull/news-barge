@@ -1,0 +1,49 @@
+---
+title: Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission
+source_url: https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-02T17:12:29Z'
+published: '2026-08-02T00:00:00Z'
+description: Yonatan Netanyahu was the only Israeli soldier to die as he led a mission
+  to free more than 100 hostages.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png
+---
+
+![A black and white portrait photograph of Yonatan Netanyahu. Blurred grey bars are either side of the photo.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/618e/live/1b88d040-8e8d-11f1-b2ab-0dd01740f9f6.png)
+
+**Uganda has unveiled a statue of Yonatan Netanyahu, the older brother of Israel's prime minister, who was killed during the Entebbe hostage rescue mission 50 years ago.**
+
+Uganda's army chief Gen Muhoozi Kainerugaba said the monument honoured his courage and selfless service.
+
+Netanyahu was the only Israeli soldier killed in the raid, which rescued more than 100 hostages, after two Palestinians and two Germans hijacked an Air France flight that had taken off from Tel Aviv and diverted it to Uganda's international airport.
+
+Kainerugaba described the mission as "one of the most significant episodes in modern history" and spoke of the now close ties between the two countries as a "remarkable journey".
+
+The statue of Netanyahu, striding forward with a machine gun in his hands, stands outside the old airport terminal where the rescue happened.
+
+During the operation, three hostages - Jean-Jacques Mimouni, Pasco Cohen and Ida Borochovitch - also died, and Dora Bloch was later murdered in hospital in the capital, Kampala, while being treated there.
+
+"May their memories continue to inspire future generations in the pursuit of peace, justice and human dignity," the army chief said.
+
+The hijackers and three accomplices who joined them in Uganda were also killed, as well as at least 45 Ugandan soldiers, in fighting with the Israelis.
+
+Acknowledging the deaths of the soldiers, Kainerugaba said they had "fought valiantly... in what they believed was a justified cause. Of course, today, we know that the government of Idi Amin, which they served, was a brutal dictatorship which did not represent the Ugandan people."
+
+The Paris-bound plane, which had taken off from Tel Aviv on 27 June 1976, made a stop in Athens, which is where the hijackers, from the Popular Front for the Liberation of Palestine, boarded the aircraft.
+
+They took control and forced the plane to divert to Libya, where it refuelled. The Airbus A300 then flew to Uganda, where Amin welcomed it as it landed.
+
+The hijackers demanded $5m and the freeing of 53 militants jailed in Israel, France, Germany, Switzerland and Kenya in return for the hostages. Some of the hostages were released on 30 June and 1 July, but Israelis and Jews remained.
+
+On 3 July, after flying from Israel via Kenya, elite commandos landed at Entebbe and launched the operation that lasted less than 90 minutes.
+
+The rescue mission was celebrated in Israel but was a profound humiliation to Amin.
+
+Prime Minister Benjamin Netanyahu visited Entebbe a decade ago where he said: "I learned from my brother that you need two things to defeat the terrorists: clarity and courage."
+
+Kainerugaba called what happened half a century ago "a painful chapter in our history" but, he added, Uganda-Israel relations have developed into a "partnership characterised by mutual trust, respect and co-operation".
+
+## You may also be interested in:
+
+![To the right of the banner a woman with sunglasses on her head and wearing a denim jacket and yellow T-shirt looks down at her mobile phone. A graphic for BBC News Africa in black and red is on the left of the image which has a pale golden brown background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a743/live/681bd460-6ee0-11f1-8e1d-bbbb1017d210.png)
