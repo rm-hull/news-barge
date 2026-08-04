@@ -1,0 +1,40 @@
+---
+title: WhatsApp stops sending photos in major outage
+source_url: https://www.independent.co.uk/tech/whatsapp-down-photos-not-sending-b3027016.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-04T10:48:29Z'
+published: '2026-08-04T00:00:00Z'
+description: The Meta-owned app says it has more than three billion users globally
+image: https://static.the-independent.com/2026/07/10/21/216bb2dd0852fb4f402345a6d62e9483Y29udGVudHNlYXJjaGFwaSwxNzgzNzk5OTYw-2.34320044.jpg?trim=11,0,12,0&width=1200&height=800&crop=1200:800
+---
+
+WhatsApp has been hit by a major outage, during which users found themselves unable to send photos.
+
+The messaging app broke overnight UK time – and users found that it was misbehaving in one specific way, not allowing them to send images to friends. Videos and the app’s sticker feature also seemed to be affected.
+
+The problem appeared to be fixed by the morning.
+
+But in the meantime, vast numbers of users complained about the problem, according to tracking website Down Detector. It showed a spike in issues around 10.30pm UK time.
+
+Unlike many other major services, WhatsApp, which says it has more than three billion users globally, does not operate a status page to give users updates on such outages.
+
+The issue appeared to be specifically with delivering multimedia, with many users reporting that normal messages continued to send.
+
+The problems also did not appear to extend to other Meta services, such as Facebook and Instagram. Parent company Meta has been moving the various services so they use the same infrastructure behind the scenes, which can sometimes mean that an outage can affect all of its various platforms at once.
+
+![Down Detector showed a spike in issues around 10.30pm UK time](https://static.the-independent.com/2025/12/22/11/40/GettyImages-2248779969.jpeg)
+
+In June, WhatsApp announced users would soon get the option of going by usernames instead of phone numbers to address a privacy blind spot.
+
+The app said it has started allowing users to reserve unique usernames, which can be used to contact WhatsApp users when the feature is launched later this year.
+
+WhatsApp has until now allowed users to be contacted by anyone who has their phone number. The app said in a blog post that over the “coming months” users will get the option to be found and contacted only by their username, and not their number. It wasn’t more specific about the timeline.
+
+“We have designed this as a core privacy feature,” Alice Newton-Rex, WhatsApp’s vice president of product, said
+
+There won’t be a directory of usernames on the app, and the app won’t suggest names as you type.
+
+“People will need to know your exact username to contact you for the first time,” she said.
+
+WhatsApp’s current privacy settings are limited to blocking individual users and silencing unknown callers. The app also allows users to add a profile name, but that’s only displayed in chat groups for other people who don’t have the user’s contact info saved.
