@@ -1,0 +1,34 @@
+---
+title: Top Sealy Promo Codes and Mattress Deals
+source_url: https://www.wired.com/story/sealy-promo-code/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-08-06T06:41:38Z'
+published: '2025-08-15T00:00:00Z'
+description: Whether you’re switching from springs to memory foam or just want to
+  sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and
+  with cash left in your wallet.
+image: https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/191:100/w_1280,c_limit/WIRED-Coupons-R2_15.png
+---
+
+Sealy is a mattress brand that is tried and true for many people, given that it has been around since 1881. That’s a lot of time to refine your product. Sealy has kept pace with the times by offering modern variations like memory foam and hybrid mattresses while also maintaining a strong lineup of traditional innerspring beds.
+
+For example, the Cocoon Chill by Sealy is one of our favorite cooling mattresses that passed our week of testing with flying colors. While I’ve only been in the mattress industry for five years (a blip compared to Sealy’s timeline), I’m the resident sleep writer, reviewer, and certified sleep science coach here at WIRED. These are beds to keep an eye on, especially when they go on sale. Without further ado, here are some Sealy promo codes for this very case.
+
+But if Sealy isn’t the only brand you’re contemplating, you can find our top-tested picks on our best mattresses list, plus the best bedsheets to go with them.
+
+## Save $200 on an Ease Power Base With This Sealy Coupon
+
+Sealy doesn't just make mattresses, and their coupons aren’t just for mattresses—you can also score deals on products like bed frames. The Sealy Ease Power Base allows you to modify the angle of the head and foot of the bed, along with adjustable leg heights to best match your stature. If you plan on getting one to accompany your new Sealy Elite mattress, use Sealy promo code on this page to knock $200 off your bed and Ease power base purchase.
+
+## Grab Two Adjustable Support Pillows for $69
+
+Your head and shoulders need as much support as your knees and toes, which is why you’re looking for the best pillow out there *and* a good deal. Sealy’s got a good thing going with its adjustable pillows, which have the same pressure-relieving memory foam that works to contour around your head. No Sealy promo code needed for this one, because you can bundle to save $29 with a purchase of two pillows.
+
+## Get Savings on the Best Mattresses With Sealy
+
+Sealy beds are everywhere. And there’s a reason this mattress is so popular, as they have tons of different models for every type of sleeper. Be sure to check out their complete lineup, including some of their most popular mattresses: the Sealy Posturepedic Hybrid Mattress, the entire Posturepedic Elite Collection, which helps to cradle and support the whole body, and the Cocoon Chill Mattress, ever-popular with hot sleepers who need a cooling mattress.
+
+## Sleep on It (Literally) With Sealy’s 90-Night Trial and 10-Year Warranty
+
+Sealy offers you 90 nights and 10 years to back up your new mattress purchase, which is the industry standard. Your body needs at least 30 days to get used to the new bed, and 60 nights beyond that initial timeframe helps you be extra sure it’s the one for you. Ten years is generally how long you can expect a mattress to last, so this is another way of Sealy standing by the durability of its product, whether you plan on buying online or in-store.
