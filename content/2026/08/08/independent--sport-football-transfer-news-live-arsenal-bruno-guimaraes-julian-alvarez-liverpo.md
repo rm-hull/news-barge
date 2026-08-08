@@ -1,0 +1,92 @@
+---
+title: 'Transfer news LIVE: Man City reject Rodri bid, Arsenal eye Vinicius Jr alternatives'
+source_url: https://www.independent.co.uk/sport/football/transfer-news-live-arsenal-bruno-guimaraes-julian-alvarez-liverpool-bradley-barcola-b3029103.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-08T08:54:35Z'
+published: '2026-08-08T00:00:00Z'
+description: Vinicius has signed a contract extension at Real Madrid ending Arsenal’s
+  hopes of signing the Brazilian and forcing them to look elsewhere as they seek to
+  bring in reinforcements
+image: https://static.independent.co.uk/2026/08/06/13/2277167771..?trim=19,0,19,0&width=1200&height=800&crop=1200:800
+---
+
+Rodri looks set to leave Manchester City amid interest from Barcelona and Real Madrid. The World Cup winning captain is into the final year of his contract and favours a move to Barca – though an initial offer of £38m has been rejected.
+
+Arsenal were dealt a blow in one of their summer transfer pursuits as Vinicius Jr has signed a contract extension with Real Madrid. The Gunners have moved on from targeting the winger and have reignited their interest in Atletico Madrid’s Julian Alvarez while PSG’s Bradley Barcola is also on their list.
+
+In more positive news, Bruno Guimaraes has completed a medical at Arsenal ahead of his £75m move from Newcastle United. The 28-year-old midfielder is now expected to be announced as a new Gooner on Friday ahead of Arsenal’s pre-season fixtures this weekend. The deal represents a key piece of business of Mikel Arteta ahead of Arsenal’s title defence.
+
+Liverpool, meanwhile, also want to sign Barcola from Paris Saint-Germain and have also lined up his teammate Ibrahim Mbaye in what could be a double swoop for Andoni Iraola’s side. The European champions may be willing to let them go especially following Maghnes Akliouche signing from Monaco.
+
+Elsewhere, Manchester United have added to their ranks by bringing in a teenage midfielder and they are exploring their options at left-back with Lewis Hall reportedly now set on a move to Old Trafford, but Newcastle are determined to stop the exodus and insist he is not for sale.
+
+*Follow all of the latest news, rumours and done deals with our live blog below:*
+
+## Arsenal hold nerve after missing out on Vinicius Jr with three alternative targets
+
+Arsenal intend to hold their nerve and assess alternative options after missing out on Vinicius Jr with the Real Madrid superstar signing a contract extension at the Bernabeu on Thursday.
+
+Mikel Arteta is still eager to bring in a new left winger, though, with three notable options still on the table.
+
+Arsenal made a serious bid to sign Vinicius Jr, with an agreement close on personal terms, but the 26-year-old ultimately opted to commit his future to Madrid in a deal until 2032.
+
+## Manchester City reject first Barcelona bid for Rodri
+
+The Spanish champions offered €45m (£38.7m) for Spain’s World Cup-winning captain, which City do not deem a serious price for the Ballon d’Or winner.
+
+No meaningful talks have taken place between the clubs yet with City reluctant to enter negotiations until there is the prospect of a deal near their valuation of the midfielder.
+
+## Man City line up James Trafford replacement as Leeds pay record fee to solve goalkeeper woes
+
+Leeds United have signed James Trafford from Manchester City for a club-record fee of up to £45m and City are already lining up a replacement.
+
+The England goalkeeper has inked a five-year deal at Elland Road and has become Daniel Farke’s third signing of the summer.
+
+City, who have inserted a 20 per cent sell-on clause, also have a matching rights option to sign Trafford for a third time if and when he leaves Leeds.
+
+![](https://static.independent.co.uk/2026/08/06/16/18/GettyImages-2261620746.jpeg?trim=270,1352,1296,996&width=1200&height=800&crop=1200:800)
+
+## Why Arsenal had to sign Bruno Guimaraes – and how he fits into Mikel Arteta’s midfield
+
+It’s a significant signing for Arsenal – and perhaps one they had to make. **Jamie Braidwood** explains: 
+
+![](https://static.independent.co.uk/2026/08/05/10/07/guimaraes-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800)
+
+## Newcastle sporting director admits Bruno Guimaraes wanted to leave
+
+Ross Wilson, Newcastle’s sporting director, has revealed that Bruno Guimaraes expressed his desire to leave the club – providing little choice as they granted him a switch to Arsenal.
+
+"What we had to weigh up was, very respectfully from Bruno with his behaviour towards us, very emotionally as well, he effectively told us he wanted to leave and move on," he said.
+
+"That doesn't mean he can go, but it certainly plays a part in what our thinking is when we hit a certain range of number.
+
+"There's no part in saying it was part of our strategy and was in our thinking this summer - it wasn't.
+
+"But we have got to be flexible and react to things that happen."
+
+## Manchester United continue squad overhaul by offloading goalkeeper
+
+The Spanish club have an option to buy the Turkey international, reportedly for a fee of £3.5m, which would give United a high sell-on clause on top of that.
+
+## The real reason Chelsea signed Jordan Henderson
+
+Speaking of former Liverpool players, Jordan Henderson is a surprise signing for Chelsea but, as **Jack Rathborn** explains, Xabi Alonso could lean on the 36-year-old to help establish his ideas at an unstable club:
+
+![](https://static.independent.co.uk/2026/08/04/15/23/henderson-chelsea-e870f49d.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800)
+
+## The cold truth behind Mohamed Salah’s move to Turkey’s fourth-biggest club
+
+Mohamed Salah will be something of an incongruous sight at Trabzonspor – a stark drop in prestige from Liverpool – but the move to football’s growing, lucrative retirement home does offer intrigue, **Richard Jolly** writes:
+
+## Manchester United told Lewis Hall not for sale
+
+According to *Sky Sports*, Manchester United have been told that Lewis Hall is not for sale by Newcastle as the Tyneside club bid to hold on to at least one key figure this summer. Manchester United are keen to add a versatile left-back option but knew a deal for Hall might be difficult – and it appears he’s likely to stay at St James’ Park.
+
+## Martin O’Neill health update after Celtic boss hospitalised for ‘small procedure’
+
+Celtic manager Martin O’Neill is out of hospital and in “good form”, assistant Shaun Maloney has confirmed.
+
+The Parkhead club announced on Wednesday that the 74-year-old Northern Irishman had undergone a “small procedure”.
+
+![](https://static.independent.co.uk/2026/08/07/14/01KZ9DSAZ3DTPTX4ZMPVCSE15W.jpg?trim=16,0,16,0&width=1200&height=800&crop=1200:800)
