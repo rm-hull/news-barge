@@ -1,0 +1,140 @@
+---
+title: 'Ukraine war latest: Zelensky warns North Korea could send 50,000 troops to
+  Russia'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-putin-zelensky-nato-drone-strikes-b3029907.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-09T08:56:20Z'
+published: '2026-08-09T00:00:00Z'
+description: North Korea previously sent troops and munitions to support Russia’s
+  war effort against Ukraine
+image: https://static.independent.co.uk/2026/08/07/12/2026-08-07T113950Z_1415936230_RC2MTMA9EZNH_RTRMADP_3_RUSSIA-PUTIN.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+---
+
+Volodymyr Zelensky believes that North Korea is preparing to send up to 50,000 troops for deployment in Russia, amid fresh warnings Moscow could order an attack on a Nato country within weeks.
+
+The Ukrainian president told United News on Saturday: “If at first it was about hundreds, then thousands, now it has been decided that from 30 to 50 thousand North Koreans [will go to] the territory of Russia.”
+
+He claimed Pyongyang was planning to study the lessons of the war in Ukraine and could present a “threat” to “other states in the Asian direction”, urging closer cooperation between Kyiv and South Korea.
+
+Earlier this week it emerged that US intelligence believes that Russian president Vladimir Putin could order an attack on a Nato member within weeks to test the alliance’s resolve.
+
+US officials told the *Wall Street Journal* that the new reports considered the possibility of a small land incursion or cyber attacks across eastern Europe sometime between this autumn and 2029.
+
+The likelihood of the worst case scenario - a cross-border incursion - gets more probably with time, according to the reports. The US has reportedly depleted key missile stockpiles in the war with Iran.
+
+## Russia says it struck vessels and military facilities supporting Ukraine in Odesa and Mykolaiv
+
+Russia continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military, Russia's defence ministry said on Saturday.
+
+The ministry said Russian forces used precision air-launched weapons and attack drones to hit military warehouses containing communications and electronic warfare equipment in the Black Sea port of Odesa.
+
+In the port of Mykolaiv, Russian forces struck a cargo vessel carrying military equipment and a warehouse storing weapons and military supplies, the ministry said.
+
+It added that another dry cargo vessel transporting military supplies for Ukraine's armed forces was hit in the Black Sea.
+
+## Turkey says Russia told that Ukraine should declare moratorium in Black Sea
+
+Turkish foreign minister Hakan Fidan said that Ankara had conveyed to Russia and Ukraine they should declare a moratorium on their attacks in Black Sea.
+
+Speaking to the state-run Anadolu news agency, Fidan said Turkey had conveyed its concerns about attacks on vessels in the Black Sea to both countries and was implementing certain security measures of its own, but did not elaborate further.
+
+## A drone likely from Ukraine explodes in Bulgaria near a gas pipeline
+
+A drone entered Bulgarian airspace and exploded close to an international gas pipeline shortly after crossing the border from Romania.
+
+There were no casualties or damage.
+
+The defence ministry in Sofia, Bulgaria's capital, later said there were indications the drone was the kind used by Ukrainian armed forces and that the incident was likely accidental.
+
+Bulgaria and Romania are both members of Nato and the European Union.
+
+A Ukrainian foreign ministry spokesperson said the Ukrainian military was looking into the incident but that it did not deliberately target Bulgaria.
+
+Heorhii Tykhyi said on Saturday that Ukraine and Bulgaria were in “close contact” to establish the circumstances of the incident.
+
+Bulgaria’s prime minister Rumen Radev said the drone exploded just after 5am about 100 metres (109 yards) inside Bulgarian territory.
+
+It was not detected or identified while flying through either Romanian or Bulgarian airspace.
+
+## German minister warns of daily 'hybrid warfare' after suspected drone attack
+
+Germany faces daily hybrid warfare attacks from abroad, interior minister Alexander Dobrindt was quoted as saying on Sunday, following a suspected attack attempt involving an explosive-laden drone at Leipzig/Halle Airport.
+
+Dobrindt told the newspaper Bild am Sonntag that foreign powers wanted to subdue Germany politically and socially by stirring up fear there.
+
+Dobrindt highlighted the expansion of drone research in Germany as part of the response to the new threats.
+
+“We're not at war, but we are the daily target of hybrid warfare,” Dobrindt said.
+
+“Espionage, sabotage, cyberattacks, or covert operations by foreign powers aimed at destabilising Germany or inflicting direct harm are a constant reality.”
+
+The newspaper's advance release of the interview did not say whether he identified any countries in particular.
+
+After the drone loaded with explosives was discovered at the airport in eastern Germany on Tuesday, some German lawmakers pointed the finger at Russia, which has been at war with Ukraine since its military invasion of the country in 2022.
+
+The Russian embassy in Berlin on Friday dismissed the Leipzig event as a "fabricated provocation", saying it was another example of accusations against Russia without evidence.
+
+## Russia wants 30,000 more North Korean soldiers to fight Ukraine. Is the West at risk?
+
+Soldiers, weapons and now a missile unit have all been deployed by North Korea in a bid to support Russia in its ongoing war against Ukraine.
+
+It marks the country’s most significant involvement in a conflict since the 1950s.
+
+In light of recent reports, here’s everything we know about the two countries’ growing military ties.
+
+**What are the latest reports?**
+
+According to an official at Ukraine's GUR military intelligence agency, a North Korean missile unit that could be equipped with up to 120 ballistic missiles and six launchers for attacks on Ukraine has begun deploying to western Russia.
+
+The official added that the unit comprises around 90 North Korean personnel and is expected to be based in the Voronezh region of Russia.
+
+![](https://static.independent.co.uk/2026/04/27/05/2026-04-27T031249Z_1151913000_RC2BXKAS3VLD_RTRMADP_3_NORTHKOREA-RUSSIA-MEMORIAL.jpg?trim=0,10,0,10&width=1200&height=800&crop=1200:800)
+
+## Ukraine honours its 'collector of souls' volunteer killed while recovering the war dead
+
+Ukraine paid tribute on Saturday to Oleksiy Yukov, a volunteer who spent more than two decades recovering bodies of civilians and soldiers — many of them Russian — killed by war.
+
+An Orthodox Christian service was held at the Cathedral of Saint Volodymyr, in central Kyiv, where thousands of people gathered to pay their respects following his death in a landmine explosion during a recovery mission on Wednesday.
+
+Mourners also gathered at Kyiv's main Maidan Square, many dropping to their knees as a sign of respect as his casket was brought to the site. Memorial services were also held in other cities.
+
+Yukov, 40, founded the organisation known as Platsdarm, or Bridgehead, because he believed that all the dead deserve a proper burial. He became known as a “collector of souls.”
+
+## Trump brushes off Russia’s attacks on civilian targets in Ukraine
+
+Donald Trump brushed off a question about Russia’s attacks on civilian targets in Ukraine, stating that the United States is “separated by an ocean.”
+
+The US president was speaking to reporters in the Oval Office on Thursday when a journalist said: “Russia seems to have increased their attacks on civilians. That must be of concern to you?”
+
+“We’re not involved... We’re separated by an ocean,” the US president replied. “But I hate to see 25,000 young people a month get killed and that’s what’s happening between Russia and Ukraine.”
+
+“We’re working on it and I think we’re making progress.”
+
+![](https://cdn.jwplayer.com/v2/media/dJdUKktu/poster.jpg?width=720)
+
+## Ukraine’s latest strike on Russian Wildberries warehouse shown in satellite images
+
+Kyiv launched another drone strike on a Wildberries warehouse yesterday in Yekaterinburg, Russia, marking the 20th such attack since 18 July as part of a three-week campaign to 'bring the war home' to ordinary Russians.
+
+The latest incident involved three drones hitting the roof of the logistics centre, though the company reported the resulting blaze was contained and most goods remained undamaged.
+
+Satellite imagery from Reuters indicates that these Ukrainian attacks have collectively destroyed one-fifth of the Russian online retailer Wildberries' total storage capacity.
+
+## North Korea to send up to 50,000 troops to Russia, says Zelensky
+
+Volodymyr Zelensky says that North Korea is preparing to send 30-50,000 troops to be deployed in allied Russian territory.
+
+Speaking to Ukraine’s United News, he says Pyongyang is “studying” the conflict between Russia and Ukraine, and hoping to “gain experience in modern warfare under Russia”.
+
+He said: “We have already found North Korean missiles on the territory of Ukraine. Today, this is already an established fact.”
+
+## Russia says it struck vessels and military facilities supporting Ukraine in Odesa and Mykolaiv
+
+Russia continued strikes on Ukrainian port infrastructure and vessels supporting the Ukrainian military, Russia's defence ministry said on Saturday.
+
+The ministry said Russian forces used precision air-launched weapons and attack drones to hit military warehouses containing communications and electronic warfare equipment in the Black Sea port of Odesa.
+
+In the port of Mykolaiv, Russian forces struck a cargo vessel carrying military equipment and a warehouse storing weapons and military supplies, the ministry said.
+
+It added that another dry cargo vessel transporting military supplies for Ukraine's armed forces was hit in the Black Sea.
