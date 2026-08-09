@@ -1,0 +1,50 @@
+---
+title: London mayor orders council to drop plan to ban new pubs and bars in Soho and
+  West End
+source_url: https://www.theguardian.com/uk-news/2026/aug/09/london-mayor-sadiq-khan-westminster-ban-new-pubs-restaurants-soho-west-end
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-09T19:31:32Z'
+published: '2026-08-09T00:00:00Z'
+description: 'Exclusive: Sadiq Khan urges Westminster council to adopt ‘positive vision
+  of economic growth’ of nightlife'
+image: https://i.guim.co.uk/img/media/03613f8c7ee3464153270403fdaa1f03ca89b6e9/230_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=613f7f64fbb496ace5011f947e066db3
+---
+
+Sadiq Khan has ordered Westminster council to scrap a policy that would ban new pubs and bars from opening in Soho and the West End of London.
+
+This comes after the Guardian revealed the council’s new licensing policy asks pubs to stop customers from standing up while consuming beverages, which it calls “vertical drinking”. The policy is under consultation and also asks pubs to have table service rather than allowing orders at the bar.
+
+There was widespread anger at the plans to direct those applying to open new bars and restaurants in Westminster to implement the restrictions.
+
+The mayor of London has new powers, granted by the government this year, to intervene in licensing decisions. He is using these for the first time to ask the council to rewrite the draft policy.
+
+The Conservative Westminster councillors decree in the draft policy that newly licensed pubs should have to serve last orders at 10pm, and nightclubs should shut by 11.30pm on weekdays and at midnight on weekends.
+
+It also labels the entirety of Soho and the West End as a “cumulative impact zone”, which means no more pubs, bars or night clubs should be allowed to open unless under exceptional circumstances. This is despite the West End being one of the most popular nightlife areas in Europe.
+
+Khan pointed out that Home Office alcohol licensing data shows that only 41 licence applications were made in the West End cumulative impact area in 2023-24, with only 16 granted.
+
+Data also shows only 3.5% of applications that went to a licensing subcommittee in Westminster were approved exactly as applied for between 2023 and 2026, and pub and wine bar applications were down 80% in 2022-24.
+
+There are also plans to label Mayfair and the Victoria area as special zones where nightlife is restricted due to noise and other “nuisance behaviours”.
+
+Khan is asking the council to scrap all of these zones and allow new bars and pubs to open, in his formal response to the consultation. He is also directing it to get rid of the “core hours” policy and allow venues to be open late into the night.
+
+The prime minister, Andy Burnham, waded into the row this week when he said standing up to drink in pubs was “British life” and should not be curtailed by local councillors.
+
+after newsletter promotion
+
+Khan said: “Licensing decisions that could make or break our city’s nightlife have, in my view, been skewed towards the interests of a handful of highly vocal residents and councillors, without giving enough weight to the effects on London’s wider economy and culture.”
+
+He added that the draft proposals “undermine City Hall’s efforts to make London’s nightlife the best in the world”.
+
+In his formal response he asks the council to “remove this cumulative impact policy altogether, instead setting out a positive vision of the economic growth that is being promoted, rather than the activity that is to be restricted”. This means the ban on opening new bars and pubs in Soho and the West End other than in exceptional circumstances would be lifted.
+
+The mayor said that Manchester city council is an example of a local authority that allows economic growth and supports bars, pubs and restaurants.
+
+Khan said: “Manchester city council’s policy has adopted a more enabling approach, with no core hours policy, no cumulative impact policy and a clear vision for what they are looking to promote across their different local neighbourhoods.
+
+“As envisioned by the Licensing Act 2003, there is a presumption to grant licences for pubs, bars, clubs and other premises where applicants can demonstrate effective management and compliance with the licensing objectives.”
+
+Westminster city council has been contacted for comment.
