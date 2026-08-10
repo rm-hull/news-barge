@@ -1,0 +1,103 @@
+---
+title: More than two-thirds of England now in drought
+source_url: https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-10T20:56:54Z'
+published: '2026-08-10T00:00:00Z'
+description: The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex,
+  and Solent and the South Downs have moved into drought status.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5992/live/acdd8170-94e7-11f1-870d-5d08c49babb2.jpg
+---
+
+![An aerial view shows Clifton Observatory next to Clifton suspension bridge west Bristol, with parched parkland around it with people walking on the brown grass, on 9 August.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/5992/live/acdd8170-94e7-11f1-870d-5d08c49babb2.jpg)
+
+All of Wales and parts of England were already in drought conditions - including Clifton in Bristol, pictured here
+
+**Drought officials have declared 71.3% of England is now in drought, after the nation recorded its driest July since records began in 1836.**
+
+The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs moved into drought status on Monday, joining half of England and the whole of Wales.
+
+The National Drought Group – made up of regulators, government officials, water companies and agricultural bodies - made the decision after a meeting on Monday.
+
+A total of 45 million people are now living in a drought area in England, with more than 27 million facing water use restrictions.
+
+It comes after an exceptionally hot and dry summer, with heatwave conditions set to return for many this week.
+
+![A map of England which shows all of southern England, as well as East Midlands, Lincolnshire and Northamptonshire, are in drought, which are coloured in brown on the map. Yorkshire and the north-east of England are coloured in beige, which represents  "prolonged dry weather status".](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6c37/live/c8bdf010-94d2-11f1-a7ab-8b30adf0800a.png)
+
+Chair of the National Drought Group, Tony Grayling, said that drought conditions will continue to worsen until "significant and sustained rainfall".
+
+The week ahead is forecast to remain mostly dry, as the fifth heatwave of the year intensifies, although there are signs of some rain coming into the UK on Sunday.
+
+"We know the hot and dry weather is taking a real toll on farming and there will be long-lasting impacts on our environment," Grayling said in a statement, adding that "we need everyone's help in using a little less water to make sure our current water reserves last".
+
+The National Drought Group said most of England is now experiencing a flash drought, which "develops very quickly" and is "brought about by a combination of very low rainfall and higher temperatures."
+
+Yorkshire and north-east England have been moved to "prolonged dry weather" status, which is the stage before drought.
+
+Nowhere in England is now under a "normal" status.
+
+Hot weather is continuing, with the UK Health Security Agency issuing amber heat health alerts for all of England apart from the North East from Tuesday at 09:00 BST until Friday at 21:00 BST.
+
+An amber alert means significant impacts "are likely" across health and social care services due to the high temperatures.
+
+The continued hot and dry conditions increase the risk of wildfires. Dozens of firefighters are currently battling a fire in the New Forest, which earlier on Monday was estimated to be the size of 140 football pitches (247 acres).
+
+Scotland and Northern Ireland have not been experiencing drought conditions and are expected to see spells of heavy rain over the week ahead.
+
+Scotland does not declare drought, but monitors "water scarcity".
+
+While conditions have improved in some parts of Scotland following recent rainfall, some eastern areas remain in the two most extreme categories of "moderate" or "significant" scarcity, according to the Scottish Environment Protection Agency.
+
+![An aerial view of Brockwell Park in London which is brown and dry. It is surrounded by green trees and buildings in the distance.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f63f/live/33bf77a0-9495-11f1-b2ab-0dd01740f9f6.jpg)
+
+Parks and green areas across England have dried out due to the hot weather, as seen at Brockwell Park in London
+
+## Farmers and rivers impacted by water shortage
+
+Last month, England and Wales saw the driest July since records began in 1836 - while for southern England, it was the driest month ever recorded.
+
+South-east England received 1% of the expected average rainfall for July, while some parts of Hampshire, Isle of Wight and West Sussex have not had a rain day for 59 days.
+
+All of England is experiencing pressure on water resources, the National Drought Group said.
+
+Farmers have reported reduced output after their earliest harvests in 20 years, with the National Farmers Union (NFU) warning that continued dry weather could lead to some food shortages.
+
+NFU president Tom Bradshaw said yields of wheat and oats were "very, very poor" this year and warned livestock farmers have had to use their winter feed rations because they have been unable to grow grass.
+
+Water Minister Emma Hardy said the government is working to make it easier for farmers to build more on-site irrigation reservoirs, which capture and hold water.
+
+Only 14% of England's rivers are considered to be at normal levels, while 22% are "exceptionally low" - including the River Avon in south-west England and the River Ely Ouse in eastern England.
+
+The Environment Agency has warned that low water levels have resulted in potential navigation issues for boats on the Thames, Lark and Ouse.
+
+Reservoir levels have also continued to decline, with almost all across England below normal and five classed as "exceptionally low", according to the agency.
+
+Warmer water is putting fish under "severe stress," Head of Fisheries at the Angling Trust Mark Owen said, as it holds less dissolved oxygen.
+
+Emma Pinchbeck, chief executive of the Climate Change Committee, said the UK is "not prepared at all" for the prolonged dry weather.
+
+"We're seeing right now with the impacts on farming from this drought and the extreme heat we're experiencing, our infrastructure, our agricultural sector and lots of areas of the economy are not really ready for the weather we now have and how that weather will change up to 2050," she told BBC Radio 4's Today programme.
+
+## How climate change and droughts are linked
+
+What has been striking about this summer is not any single record, but the way weather extremes are piling up.
+
+Climate change does not cause every heatwave or drought, but it does shift the odds.
+
+By raising average temperatures, it makes extreme heat more likely and, when rain fails, increases evaporation and dries soils faster.
+
+That creates a feedback - dry ground cools the air less, allowing temperatures to climb still higher.
+
+The UK is now seeing the kind of hotter, drier summers climate scientists have long projected, part of a global pattern of heat.
+
+There have been three droughts in the past five years – in 2022, 2025 and now 2026.
+
+This year, there have been 34 days with temperatures that have reached 30C or above somewhere in England, including 13 consecutive days in July.
+
+Heat extremes are becoming more likely and more intense due to human-caused climate change, the Met Office says.
+
+Meanwhile, El Niño - the recurring climate pattern in which unusually warm Pacific Ocean waters can affect weather around the world - is giving global temperatures an additional, natural boost.
+
+The World Meteorological Organisation, the UN agency for climate and weather, says a strong El Niño event is developing and is expected to "dominate global climate patterns" in the coming months.
