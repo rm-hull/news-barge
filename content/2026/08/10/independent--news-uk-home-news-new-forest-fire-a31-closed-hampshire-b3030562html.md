@@ -1,0 +1,69 @@
+---
+title: New Forest may take decades to recover as 120 firefighters tackle fire
+source_url: https://www.independent.co.uk/news/uk/home-news/new-forest-fire-a31-closed-hampshire-b3030562.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-10T17:06:09Z'
+published: '2026-08-10T00:00:00Z'
+description: Emergency services say a vehicle fire spread to the A31 central reservation
+  and nearby heathland
+image: https://static.independent.co.uk/2026/08/10/11/01KZNM0DEYFN4PT3M656KQ5C8E.jpg?trim=67,0,67,0&width=1200&height=800&crop=1200:800
+---
+
+More than 120 firefighters are continuing to tackle a "devastating" fire across internationally protected heathland in the New Forest National Park, a habitat described as being "rarer than rainforests".
+
+The incident began on Sunday after a van caught fire on the eastbound A31 near Ringwood. According to the New Forest National Park Authority, the land affected is protected heathland that is home to a number of rare species.
+
+Hampshire Fire and Rescue Service, supported by neighbouring services, initially dispatched 26 fire engines and four water carriers to the eastbound A31 after receiving 160 emergency calls reporting an HGV had caught fire.
+
+The fire service said the blaze spread from the vehicle onto the central reservation before moving in a south-easterly direction into nearby heathland towards Backley Bottom, in what remains a "challenging rural location".
+
+![Firefighters tackle the fire at a major heathland blaze in the New Forest (Andrew Matthews/PA)](https://static.independent.co.uk/2026/08/10/15/e260fee263f47cbb19f8c84134dc8395Y29udGVudHNlYXJjaGFwaSwxNzg2NDU2NzU2-2.85531970.jpg)
+
+Gillie Molland, lead ranger for New Forest National Park Authority, said: “Globally, heathland is more rare than rainforest and takes decades to develop – the New Forest has the most extensive area of lowland heath remaining in Europe.
+
+“It’s home to many nationally and internationally rare species – including all six of the UK’s reptiles, insects, plants and birds such as Dartford warblers and nightjar.
+
+“The loss of rare species and biodiversity is devastating and upsets the delicate ecological balance of the Forest , as well as reducing grazing land available for commoners’ animals.
+
+“Recovery is possible but it can take many years, with some features of mature heathland taking decades to return.
+
+“Some rare heathland species may be lost or recover very slowly if local populations have been affected.”
+
+On Monday afternoon, the fire service was using drones to monitor the spread of the fire – with 10 fire engines and 13 off-road vehicles still involved in the operation.
+
+![According to the New Forest National Park Authority, the land affected is protected heathland that is home to a number of rare species](https://static.independent.co.uk/2026/08/10/11/01KZNJ33VYZX2FYTJVZ1HYK5W5.jpg)
+
+It said: “There are more than 120 firefighters on the scene battling the heat and arduous terrain, in order to prevent further fire spread.
+
+“We are monitoring the fire, which is affecting a one square kilometre area of heathland off of the A31, with police drones.
+
+“Currently, we have 10 fire engines and 13 off-road vehicles in attendance, and we plan to maintain this number of vehicles until at least midnight, although it is likely to be required for longer.
+
+“We are grateful for the support from our neighbouring fire services, as well as others from across the country who are working alongside our firefighters with specialist vehicles and equipment, to resolve this incident.
+
+“We know that the A31 is a crucial part of our road network, and in these summer months, many of you will want to go out to enjoy the New Forest, but we ask that you continue to avoid this area, with road closures still in place, whilst our teams work to save this part of our beautiful countryside.”
+
+The fire service has warned people living nearby that it may need to lay hoses across their property as it draws water from a nearby lake.
+
+![A major heathland blaze in the New Forest near Ringwood in Hampshire on Sunday evening](https://static.independent.co.uk/2026/08/10/14/b15071e659404176772e684970057d47Y29udGVudHNlYXJjaGFwaSwxNzg2NDU0NzY3-2.85531770.jpg)
+
+The statement added: “At present, there is no need for any properties to be evacuated. Should this situation change, affected households will be contacted directly.”
+
+Sue Bassett, a worker at a Shell garage at services on the A31 near to where the fire started, said: “It’s almost scary with the rivers running low on water, it’s a challenge.”
+
+Forestry England said in a statement that it was supporting the emergency services tackling the fire, which it said had spread to Bratley Wood and the surrounding area which includes a Canadian war memorial.
+
+The statement continues: “Incidents like this can be devastating to all of the things that make the New Forest so special.
+
+“Our team will be carefully assessing the impact once the incident is fully resolved.”
+
+A Hampshire Constabulary spokeswoman said that 23 vehicles were left behind by motorists on Sunday, which were moved by police, with the owners asked to call 101 to be reunited with their vehicles.
+
+![A Hampshire Constabulary spokeswoman said that 23 vehicles were left behind by motorists on Sunday, which were moved by police, with the owners asked to call 101 to be reunited with their vehicles](https://static.independent.co.uk/2026/08/10/7/05/c9bba610-9487-11f1-9b8c-ebcb08834ef4-copy.jpeg)
+
+A National Highways spokesman said its contractors were on the scene, and added: “There is significant damage to the road surface, road safety barrier and boundary fencing as a result of the fire and a subsequent oil spillage from the burnt-out vehicle.
+
+“All of which will require emergency repairs when safe to do so.
+
+Meanwhile, Nottinghamshire Fire and Rescue Service declared a major incident on Sunday as two large fires in woodland put a strain on resources with several wildfires having broken out in the UK during recent weeks.

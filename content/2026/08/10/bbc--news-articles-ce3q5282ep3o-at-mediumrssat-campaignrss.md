@@ -1,0 +1,93 @@
+---
+title: Benjamin Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be
+  final word
+source_url: https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-10T17:05:44Z'
+published: '2026-08-10T00:00:00Z'
+description: The Trump administration is said to be unbothered by the Israeli prime
+  minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general
+  election.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1688/live/5a6f2b30-94c1-11f1-adb5-bd19050a74a5.jpg
+---
+
+![Close up of Benjamin Netanyahu from the shoulders up. He has short, grey hair and is wearing a shirt, tie and suit.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/1688/live/5a6f2b30-94c1-11f1-adb5-bd19050a74a5.jpg)
+
+Benjamin Netanyahu is facing an uphill contest in a general election scheduled for October
+
+**Israel's Prime Minister Benjamin Netanyahumay have categorically rejected the new Board of Peace roadmapto disarm Hamas in Gaza, but that is unlikely to be the final word.**
+
+The White House has not officially commented. However, it is reportedly "not bothered" by Netanyahu's statement and views it as campaign rhetoric in the run-up to a heated general election.
+
+"We understand Bibi's political needs" the Israeli journalist, Barak Ravid, quotes a senior US official as saying – using a nickname to refer to the Israeli leader. "We have no problem with it as long as he continues to do what we ask – especially regarding restraining attacks in Gaza."
+
+Recent days have seen an apparent pause in Israel's strikes on Gaza – something Hamas had demanded when signing on to the US-backed, 15-point roadmap.
+
+And there is another suggestion that Israel is ready to advance US President Donald Trump's peace plan for Gaza – getting ready for the deployment of the International Stabilization Force (ISF). The force is made up of international troops, with the plan being for them to work with a new Palestinian police force to secure the territory.
+
+The expected construction of the first ISF base is still scheduled to begin amid the ruins of Rafah in southern Gaza at the end of this month, according to Israeli public radio, Kan News, which would allow reconstruction to begin at last.
+
+In July, after months of delicate negotiations, Trump announced a "major milestone" in the implementation of his plan to end Israel's war in Gaza.
+
+Writing on his Truth Social platform, Trump said that the Board of Peace had reached an agreement for the complete disarmament of Hamas and other Palestinian armed groups in the territory.
+
+The deal is meant to be carried out in phases, with all weapons decommissioned and stored by a new Palestinian administration in Gaza – which reports to the Board of Peace - and Israeli forces withdrawing from the more than 60% of Gaza they currently control.
+
+Senior Hamas officials confirmed that they had agreed to the new framework, conditioning it on mutual compliance by Israel. This was widely viewed as a major potential breakthrough in the conflict. The UK welcomed it and the European Union hailed it as a "crucial step".
+
+However, for more than a week, Israel did not give its formal response.
+
+An Israeli spokesman said only that the roadmap did not "reflect Israel's positions." A far-right member of the government, Itamar Ben-Gvir, wrote on X that the deal was "unacceptable."
+
+Increasingly, mainstream Israeli opposition politicians also raised doubts. They questioned whether all small arms would be decommissioned and the sequencing of the plan.
+
+Finally on Sunday, Netanyahu told his cabinet, "I wish to be precise here: Israel does not accept the 15-point document."
+
+He added: "The IDF [Israel Defense Forces] will not carry out any withdrawal until Hamas is disarmed. And when I say the disarming of Hamas, it means heavy weaponry, lighter weaponry, all weaponry. And we are talking about genuine disarmament, not fictitious disarmament."
+
+In the same statement, the prime minister described President Trump as "the greatest of our friends in the White House" but said that Israel knew "how to stand firm" against unacceptable ideas.
+
+In Israel, there is widespread scepticism that Hamas intends to follow through on its commitments.
+
+The Islamist movement has long seen "armed struggle" as a core precept, its legitimate response to Israeli occupation of Palestinian lands. In recent months, there had been signs of it reasserting its authority in Gaza.
+
+"Israel can certainly never agree to retreating anywhere where the terrorist group that caused the worst massacres since the Holocaust is still there and is still ruling the Strip," Fleur Hassan-Nahoum, an Israeli commentator and former deputy mayor of Jerusalem told the BBC.
+
+She stressed that the "trauma of the Israeli people" from the deadly Hamas-led attacks on 7 October 2023, which ignited the devastating Gaza war, should not be underestimated.
+
+![A wide view of displaced Palestinians walking between destroyed houses in Jabaliya, northern Gaza City, on 7 August.](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8232/live/30e0b980-94c8-11f1-9730-59a19ad5a9b7.jpg)
+
+Much of Gaza has been left in ruins after Israel's war in the territory
+
+Any potential concessions for Netanyahu would come at a politically sensitive moment.
+
+He is facing an uphill contest in the upcoming general election, scheduled for 27 October. It will be Israel's first since the 7 October assault and three years on, Netanyahu has failed to secure what he vowed: "absolute victory" over Hamas.
+
+The former American diplomat and veteran Middle East negotiator, Aaron David Miller, said the Israeli leader is facing "the most consequential election" of his political life.
+
+"He's navigating a very fine line between keeping his constituents happy and not angering or alienating President Trump," he told the BBC.
+
+For now, he believes the White House recognises the situation and is giving Netanyahu "a pass."
+
+Miller added: "It's hard to believe that you're going to see any serious movement before you have another Israeli government."
+
+In the meantime, the Board of Peace has been trying to reassure the Israeli public about the roadmap.
+
+The High Commissioner for Gaza, Nickolay Mladenov – who led months of delicate negotiations with Hamas – gave an interview to Israel's Channel 12 just hours after Netanyahu's formal rejection of the roadmap.
+
+"Its goal is to make sure that Gaza is never again a threat to Israeli security and that what happened before, [on] October 7, never happens again," he said.
+
+He said the deal takes "a step-by-step approach" meaning: "If there is verified decommissioning of weapons, that they are taken away from the factions and stored and ultimately rendered unusable, Israel then withdraws from Gaza."
+
+Ultimately, Mladenov said that nothing was being built "on the basis of trust" but on "verification."
+
+Hamas has since indicated that it still remains committed to the roadmap. It called on mediators and the Board of Peace to push for Israel to stick to the terms agreed.
+
+The Israeli prime minister has confirmed that talks with the Americans are continuing.
+
+Meanwhile heavy pressure from Washington is likely to increase.
+
+Trump is also looking at an important election this year – November's midterm elections for the US Congress. His Republican party faces the prospect of heavy losses, with petrol and grocery prices pushed up, in part due to Washington's unpopular five-month-long war in Iran.
+
+The US president's own approval rating has tumbled, and he may well demand positive developments in his peace plan for Gaza in an effort to score a much-needed foreign policy win.
