@@ -143,3 +143,9 @@ sites:
     feed: https://www.yorkshirepost.co.uk/news/rss
     categories: [Local, Harrogate, York]
     limit: 100
+
+  - name: The Northern Echo
+    slug: norther-echo
+    categories: [Local, UK, News]
+    feed: https://www.thenorthernecho.co.uk/news/rss/
+    limit: 50
