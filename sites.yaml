@@ -145,7 +145,7 @@ sites:
     limit: 100
 
   - name: The Northern Echo
-    slug: norther-echo
+    slug: northern-echo
     categories: [Local, UK, News]
     feed: https://www.thenorthernecho.co.uk/news/rss/
     limit: 50
