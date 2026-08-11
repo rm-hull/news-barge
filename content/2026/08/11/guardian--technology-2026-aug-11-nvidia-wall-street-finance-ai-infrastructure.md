@@ -1,0 +1,35 @@
+---
+title: Nvidia links with Wall Street firms for $500bn AI financing deal
+source_url: https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-11T09:11:51Z'
+published: '2026-08-11T00:00:00Z'
+description: Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker
+  to fund infrastructure
+image: https://i.guim.co.uk/img/media/60c16c51afb0ee89b7d02519aa2c93e163f953f3/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9360332400c702d4af93aa6edccf3199
+---
+
+Nvidia has struck a deal with six large Wall Street firms to raise more than $500bn (£370bn) to fund the datacentres, chip factories and power stations needed to fuel the artificial intelligence boom.
+
+The Nvidia chief executive, Jensen Huang, said on X that it marked “a major milestone for Nvidia and the AI industry”, as he posted a photo of himself smiling and giving a thumbs up alongside finance bosses involved in the deal, including the head of Goldman Sachs, David Solomon.
+
+He confirmed that Nvidia, which has a market value of $5.3tn, had signed memorandums of understanding with Goldman, Apollo, BlackRock, Blackstone, Brookfield and KKR to offer funding for what the industry calls “compute”, referring to hardware such as datacentres and chips that are used to run train and build AI.
+
+“Many great AI companies, enterprises and AI clouds have demand for compute but do not yet have access to financing at the scale or cost required to build quickly,” Huang said, adding that the funding “will make AI factories more accessible to the companies, industries and nations building the future”.
+
+The move highlights how rising demand for AI computing capacity is drawing institutional investors, as governments, companies and startups race to build out datacentres. Big tech companies have signalled that spending on AI was likely to surpass $730bn this year. However, there have been concerns over the link between high valuations of tech companies and the need for vast investments to support their ambitions.
+
+Last month, the Bank of England warned that AI developments could pose a risk to financial stability, particularly if the companies who take on debt end fail to deliver sustainable profits, or face big disruptions.
+
+“The pace of investment is unprecedented historically,” the Bank of England said in its financial stability report in July, noting that AI companies were increasingly taking on debt “to support investment in infrastructure”.
+
+“If the scale of AI debt financing grows as expected over the coming years, an adverse shock to AI companies that results in losses or affects their ability to service debt could more materially affect global financing conditions,” it said, suggesting that it could lead to a credit crunch in which it would be harder and more expensive for businesses and households to secure loans.
+
+The Bank also warned banks and private credit firms to consider they may not be getting the full picture about the risks they were taking in relation to the AI industry. “Given the different funding sources from which AI companies are drawing, and different levels of transparency in those arrangements, it may be difficult for financial firms to be aware of the full extent of their direct and indirect exposures to the AI ecosystem and AI companies,” policymakers said. “This could increase the risk that exposures to developments in AI are greater than anticipated, or not fully reflected in firms’ risk management.”
+
+after newsletter promotion
+
+Nvidia said the funding arrangements would “create dedicated pools of capital at significant scale at attractive rates” for its customers. The company did not disclose the financial terms, investment commitments by individual firms or a timetable for deploying the planned $500bn.
+
+“Every industrial revolution has been built on infrastructure: electricity, transportation, communications and computing, with every build-out enabled by external financing,” Huang said. “AI factories are the infrastructure of the intelligence era.”
