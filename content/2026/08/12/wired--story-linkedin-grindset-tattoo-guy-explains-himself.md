@@ -1,0 +1,43 @@
+---
+title: The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself
+source_url: https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-08-12T13:38:57Z'
+published: '2026-08-12T00:00:00Z'
+description: LemonLime cofounder Jordan Zietz hears your criticism loud and clear.
+  That’s why he got his startup’s logo tattooed on his shoulder.
+image: https://media.wired.com/photos/6a6be4d16746777c3b768c1c/191:100/w_1280,c_limit/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business%20(0-00-00-23).jpg
+---
+
+Jordan Zietz wants to be clear: He has never, and will never, force anyone to tattoo his startup’s logo on their body.
+
+The 24-year-old briefly became the internet’s most hated person after LemonLime, his AI-for-small-business startup, hosted a party following Y Combinator's Startup School in late July. In a LinkedIn post, Zietz wrote that he brought an “actual tattoo artist” to the party and “offered an instant interview to anyone who got a LemonLime tattoo.” Seven people, Zietz wrote, left with ink.
+
+The backlash was quick. Zietz’s LinkedIn posts were flooded with angry comments calling him “disgusting” and “very unfair,” the perpetrator of a “textbook display of predatory corporate behavior, a gross abuse of power, and a profound violation of professional ethics.” A screenshot of his post went viral on X. One representative response read: “The job market cannot be this cooked that kids have to get permanent tattoos to get interviews.”
+
+In an interview with WIRED on Tuesday, Zietz attempted to set the record straight.
+
+He says that, despite what his original post suggested, no one permanently branded themselves with LemonLime’s corporate logo at the party. While there were predesigned tattoos of lemons and limes, attendees could pick any design. (At least one said she got a personal tattoo; she added that she was “not seeking a job.”) According to Zietz, he told everyone at the party that getting a tattoo—citrus-themed or otherwise—was not a job requirement. In fact, he says, any attendee who wanted an interview got one.
+
+“A decent amount of people who got tattoos never wanted to even take us up on any offer to chat” about a job, Zietz says. “They just wanted to get a tattoo for free.”
+
+Three of LemonLime’s five employees received LemonLime-themed flash tattoos, including Zietz and his cofounder, Daniela Muñoz. So did at least one person who didn’t work for the startup, according to Zietz.
+
+On Monday, Zietz got his second tattoo in less than month: the actual LemonLime logo, on his other shoulder. It is one of many. He got his first ever tattoo on a first date, and his thigh tattoos include a dinosaur doodle and text that says “This Is The Correct Knee,” with an X underneath.
+
+“I would never ask anyone to do something I would not do myself,” Zietz says, while emphasizing, again, that he is the only person, to his knowledge, with the actual logo tattooed on his body. He plans to release a glossy video of himself getting the tattoo on social media.
+
+Though Zietz insists the tattoos weren’t a prerequisite for employment at his startup, you’d be forgiven for assuming that was the case, and the language of his LinkedIn post certainly made people think it was. After reading various angry comments and posts, he says he understands why people were uncomfortable with the power dynamic.
+
+Still, part of the reason Zietz hired the tattoo artist was to identify candidates who would be a good cultural fit for LemonLime. Zietz says his original post was “half-and-half” earnest, serving as something of a test for cultural alignment. He didn’t want people to feel obligated to get tattoos. But he did want people to see the tattoo station and think that what LemonLime was doing was “out there.” Then he wanted them to make a judgement call: Did they love it or did they hate it?
+
+If partygoers were turned off by the tattoo station, they probably wouldn’t be a good fit for the startup, he reasons. Sure!
+
+Zietz is trying to hire people who appreciate what he calls his “eccentric” approach to life. When he was a student at Stanford, Zietz was suspended from his role as the university’s mascot, the Tree, after unfurling a banner that said “Stanford Hates Fun” during a football game. Prior to LemonLime, Zietz cofounded a social-media platform called Confetti, and part of the hiring process, Zietz wrote last year on LinkedIn, involved an interview while skydiving.
+
+“I get hundreds of applications for roles at LemonLime every single day, 80 to 90 percent of which are dead serious: Here's my resume, I am the most professional candidate you will ever meet,” Zietz says. “And I think that it’s very clear to me that this person should not be at LemonLime.”
+
+“There is nothing about this team that is more important to me than the culture,” he says. “The most important thing for us has always been—and will always be—are you someone that we want to be around for 18 hours a day, seven days a week?”
+
+“There is something to be said about the genuineness of that grindset,” he adds.
