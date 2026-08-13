@@ -1,0 +1,81 @@
+---
+title: Romania shuts only nuclear plant as heat causes drop in Danube River level
+source_url: https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-13T20:56:55Z'
+published: '2026-08-13T00:00:00Z'
+description: The Cernavodă plant, which produces 20% of Romania's electricity, is
+  not expected to be restarted within the next 10 days.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg
+---
+
+![A view of the Cernavodă plant on the Danube River. Photo: 13 August 2026](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/73db/live/5d4d0250-9728-11f1-808c-532494fd22c7.jpg)
+
+The second of the two 706-megawatt nuclear reactors at Cernavodă was disconnected just before midday on Thursday
+
+**Romania has shut down its only nuclear power station because of extremely low water levels in the Danube river caused by prolonged hot weather affecting much of Europe.**
+
+The Cernavodă plant, where two reactors produce about 20% of Romania's electricity, is not expected to be restarted within the next 10 days.
+
+Earlier this week, authorities tried to increase the water flow to the plant - which uses the Danube for cooling - by sinking barges loaded with rocks in the river.
+
+Neighbouring Hungary has so far avoided a shutdown of its only nuclear plant in Paks, which also uses the Danube. The waters in Europe's second-longest river have fallen to the lowest levels for 30 years in several countries.
+
+The second of the two 706-megawatt reactors at Cernavodă was disconnected from the Romanian electricity grid just before midday on Thursday.
+
+"We do not foresee a restart within the next 10 days," plant director Romeo Urjan told the AFP news agency.
+
+The first reactor had already been shut down in July.
+
+Until now, Cernavodă had only been shut down once before in 2003.
+
+The shortfall in power is usually covered by solar and wind during the hot, windy daytimes - but traditional coal- and gas-powered generation will have to be supplemented by imports during the evenings.
+
+Romania also has huge hydropower capacity, although that has been heavily cut by the same low river levels that caused the nuclear shutdown.
+
+In Hungary, Prime Minister Péter Magyar warned last month that the Soviet-era Paks, which has four nuclear reactors, could be forced to shut down entirely for the first time.
+
+Plant officials said that levels in the Danube were so low that the suction nozzles used to take in water could not reach it.
+
+Sunken WW2 ships emerge from Danube after drop in water levels
+
+Climate change is driving up temperatures around the world - but particularly in Europe.
+
+It is the fasting warming continent, heating up twice as fast as the global average, according to the Copernicus climate service.
+
+This is causing increased summer heatwaves, greater pressure on Europe's waters and more intense wildfires.
+
+The Rhine - another of Europe's key waterway - is also suffering low water levels, which is severely limiting traffic.
+
+The continent's agricultural sector has also taken a noticeable hit.
+
+Italy's largest agricultural trade association, Coldiretti, said climate-related damage - such as hail, drought and wildfires could exceed €3bn (£2.6bn; $3.5bn).
+
+France's Environment Minister Monique Barbut warned that data from the country's national statistics agency suggested the recent heatwaves could rack up €10bn to €15bn in direct and indirect costs.
+
+The Dutch bank Triodos said the extreme heat and its consequences could wipe out much of the projected economic growth for the EU.
+
+The European Commission had forecast growth of 1.1%, while the IMF expected the euro area to grow by around 0.9%.
+
+![A firefighter works to extinguish a wildfire near Siviri, northern Greece. Photo: 13 2026](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/d893/live/decbac60-974a-11f1-8018-bb0d8774389b.jpg)
+
+Greek firefighters have been deployed to stop a wildfire from spreading further into the residential areas of the popular Siviri resort
+
+In Greece, more than 200 people - mostly tourists - were evacuated on Friday from the popular resorts of Siviri and Fourka in the northern Halkidiki peninsular because of a raging wildfire.
+
+Meanwhile, as many as 80 departments across France are now on a heatwave alert, as temperatures are expected to exceed in some places 40C (104F) on Friday.
+
+The country has already been devastated by fires in recent weeks, with the blazes causing more damage this year than at any time since World War Two.
+
+Spain - which is also still recovering after recent deadly wildfires - on Thursday recorded temperatures as high as 37C in central areas.
+
+![A woman covers from the sun with an umbrella during a heatwave in London, the UK. Photo: 13 August 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d16f/live/6e1979e0-972a-11f1-b2ab-0dd01740f9f6.jpg)
+
+The UK on Thursday saw its hottest day of the year so far, with the Met Office reporting a provisional recording of 38.1C in London
+
+The UK on Thursday saw its hottest day of the year so far, with the Met Office reporting a provisional recording of 38.1C in London's Kew Gardens.
+
+Multiple fires were burning across the West Midlands, with several people reported injured and four homes destroyed.
+
+Rain is expected to arrive in more places of the UK over the weekend, but the BBC climate and science team says it will take more than showers to bring the UK's widespread drought to an end.
