@@ -1,0 +1,20 @@
+---
+title: 'Farm on the M62: Devastating effect of Bluetongue - Jill Thorp'
+source_url: https://www.yorkshirepost.co.uk/country-and-farming/farm-on-the-m62-devastating-effect-of-bluetongue-jill-thorp-8920578
+source_site: Yorkshire Post
+source_slug: yorkshire-post
+scraped_at: '2026-08-14T13:34:50Z'
+published: '2026-08-14T00:00:00Z'
+description: The impact of the Bluetongue Virus is really taking hold, especially
+  down in the Southwest as depressing numbers of fatalities are being reported. It’s
+  yet another blow for livestock farmers who are already under immense financial pressure.
+image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1NzRlMzgwLTIwODEtNDkyYy1iOThhLWY0YjNkY2QyMzQ4OTo1ZjNjNWZjYi02N2Q4LTQ2MDEtYWFiNC0wMDM3ZWUwZDRhYmE=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+---
+
+# Farm on the M62: Devastating effect of Bluetongue - Jill Thorp
+
+## The impact of the Bluetongue Virus is really taking hold, especially down in the Southwest as depressing numbers of fatalities are being reported. It’s yet another blow for livestock farmers who are already under immense financial pressure.
+
+The virus evolved in warmer climes than ours; Africa and South-southeast Asia, but with temperatures on the rise, the virus is being carried via infected midges and has blown across into Europe and eventually us. We were warned about the arrival of the latest strain a couple of years ago, but little seemed to come of it. However, it’s really got it’s foot in the door this summer and looks like the devastating threat we’d been warned about really is coming to fruition. Some vaccinated, some didn’t. It was felt to be yet another huge financial burden on farmers who were already treading water and at the time, we heard of no cases and the dire warnings felt somewhat unjustified. It’s hard to know where to draw the line with all these vaccines when there are so many different strains of a virus. A couple of years ago there were endless reports of the vaccine affecting fertility in both cattle and sheep, which of course made anyone with breeding stock wary. We’re told there is no scientific evidence of this and that the vaccine is perfectly safe and gives them a significantly higher chance of survival than the unvaccinated. Unfortunately there is now a waiting list at most vets if you decide to go with the vaccine leaving thousands in a vulnerable state. After much deliberating and consultation with our vet we made the disappointing decision to call it a day with our show team. The virus is spreading at an alarming rate, the vaccine proving virtually impossible to get hold of and the potential risk of taking our sheep to a show was just too high. Whilst the virus cannot be transmitted from one sheep to another, we felt it to be irresponsible to be moving sheep and attending shows. I feel terribly for the show organisers especially as some are having to cancel their livestock sections. It’s been a real blow for us as showing is something we absolutely love, but our frustration is nothing compared to that of the farmers who are watching their stock succumb to the virus. It seems to be a never ending stream of challenges, a constant uphill struggle to keep going; surviving not thriving. This is just another blow for hardworking farmers and whilst those in the southwest are really being hit hard, I have no doubt it will soon be widespread.
+
+Our cattle are now out on the moors, sporting their “no fence collars”. It’s been a slow process creating imaginary fence lines that the cattle must not cross and training them to the collars. A few fell off to begin with and the bull needed an extension on his just to reach around his huge neck. Paul can watch the cattle on his phone; small red dots appear on his map, indicating where they are and where they’ve been. Despite the odd one straying over the invisible fence line, they come back and wanderings into no mans land are getting less and less. It’s bringing us closer to being less reliant on rented grazing away from home, which in my book, can only be a good thing!
