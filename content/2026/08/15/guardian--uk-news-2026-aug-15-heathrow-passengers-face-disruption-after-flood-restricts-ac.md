@@ -1,0 +1,49 @@
+---
+title: Heathrow airport roads reopen after flooding from burst water main
+source_url: https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-15T16:37:14Z'
+published: '2026-08-15T00:00:00Z'
+description: Heathrow says airport operating as normal after passengers told not to
+  travel by road and use rail and tube instead
+image: https://i.guim.co.uk/img/media/f06f600992d24b2f5089b7bb32276006e839a537/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fca70a0b15acb4e3ea0f69f64ce7949
+---
+
+Disruptions caused by flooding from a burst water main on a ring road at Heathrow airport restricted access to Terminals 2 and 3 on Saturday morning. The leak has been contained and the affected areas are operating as normal.
+
+Water in the central terminal area prevented anyone trying to travel by road to or from Terminals 2 and 3. Passengers had to travel by rail and tube instead. Access to the carparks was also impeded, leaving people with parked cars unable to access them.
+
+A spokesperson for Heathrow said: “Following earlier flooding in the central terminal area impacting access to Terminals 2 and 3, all roads have now reopened and the airport continues to operate as normal.
+
+“We apologise for any inconvenience caused and we thank passengers for following the advisories we had put in place while our teams worked to resolve the situation.”
+
+The disruption occurred during the school holidays, one of the airport’s busiest periods. Heathrow said 19 July had been its busiest day of the year so far with more than 267,000 passengers passing through the airport as many schools broke up for summer.
+
+The airport was recently affected by disruption to rail services after a water leak prompted the closure of a tunnel.
+
+The airport is one of the busiest in the world, with as many as 1,300 flight movements – takeoffs and landings – every day.
+
+Julie Hamilton, 54, had been staying in the Isle of Sheppey and was due to fly from Heathrow to her home in New Jersey in the US.
+
+Asked how the flooding had affected her, she said: “Well I wasn’t notified so I just had to go via Terminal 5 and get a train over here because I obviously can’t get dropped to Terminal 2.”
+
+Hamilton said the airline with whom she was flying had not informed her about the disruption and she only realised there were issues when her father read about it on the news.
+
+Hamilton, who runs a non-profit bookstore in New Jersey, told the Press Association: “It’s really frustrating. Luckily, I got my brother to drop me to Terminal 5 and I just had to navigate how to get from Terminal 5 to Terminal 2.
+
+“I have to be here three hours early and now I’m half an hour late.”
+
+after newsletter promotion
+
+Trish Macfarlane, 59, and Cindy Hastie, 65, arrived at Terminal 2 without any issues. Macfarlane, an accoutant, who was due to fly to Singapore, said: “We got a cab from Kensington and it was fine. He just drove us straight here.
+
+“We booked a taxi yesterday and we came in that. There’s been no flooding we have seen.” She said she saw news about the flooding on Facebook on the way to the airport.
+
+Earlier, the consumer rights group Which? urged passengers to check airline policies on booked flights and advised against unnecessary travel.
+
+The editor of Which? Travel, Rory Boland, said: “Passengers heading to Heathrow today will understandably be worried, so it’s important to follow the airport’s advice and avoid travelling by road to Terminals 2 and 3, instead allowing extra time and using public transport where possible.
+
+“If you’re worried you may miss your flight because of the disruption, contact your airline as soon as possible. Airlines have different policies on missed flights, so it’s worth finding out if you are entitled to a free rebooking or refund if your flight has operated.
+
+“If you’ve paid for airport parking but can no longer use it because of the road closures, contact the parking provider as soon as possible to see if you can amend your booking or get a refund. You should also check your travel insurance to see whether you’re covered for any costs you incur because of the disruption, such as a missed flight or additional travel expenses.”
