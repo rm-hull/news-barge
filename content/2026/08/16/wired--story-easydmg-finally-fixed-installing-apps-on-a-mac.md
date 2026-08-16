@@ -1,0 +1,33 @@
+---
+title: Someone Finally Fixed Installing Apps on a Mac
+source_url: https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-08-16T12:57:52Z'
+published: '2026-08-16T00:00:00Z'
+description: The installation utility EasyDMG makes it so you never drag and drop
+  an icon again.
+image: https://media.wired.com/photos/6a7faa218588d7c31b9a75f5/191:100/w_1280,c_limit/Someone-Fixed-App-Install-Mac-Gear.jpg
+---
+
+One of the oddest things about macOS is the installation dance. Dealing with disk images, dragging and dropping—it's the main way of installing software from outside the Mac App Store, and it's annoying.
+
+You download a DMG file, open it to mount a virtual disk, and drag the application from there to your Applications folder. Then, to keep things tidy, you need to unmount the virtual disk and delete the DMG file. It's … convoluted. To be fair, it was relatively streamlined back in 2001 when it became the main way to install applications on the then-new Mac OS X. But that was a quarter-century ago, and there has to be a better way by now.
+
+Developer Jeff Schumann agrees, so he built a tool that does all these steps for you: EasyDMG. This completely free app has an adorable hamster mascot and the slogan “Created out of spite.” It lets you double-click DMGs to install software, the way it always should have worked.
+
+To get started, simply download the application and install it using the very same installation dance you're trying to avoid. (Ironic, sure, but hopefully this is the last time.) After that you need to set EasyDMG as the default application for opening DMG files—there's a button right in the settings that will do this for you.
+
+Do that and you're basically done. The next time you need to install software from a DMG file you'll see EasyDMG pop up instead of the virtual disk. A window with a progress bar will let you know how the process is going, from mounting the virtual disk to verifying the application to doing the actual installation.
+
+By default, EasyDMG will automatically delete the DMG file for you, then open a Finder window revealing your new application in the Applications folder. You can double-click on it to open it from there.
+
+EasyDMG doesn't run in the background—it doesn't have to. The application only launches when you open a DMG file, then politely closes itself after the installation is complete. The application doesn't have any telemetry, either; the only network request it makes is checking for updates.
+
+There are a few things you can tweak in the settings, which you can open by launching EasyDMG directly.
+
+First, you can stop EasyDMG from automatically deleting DMG files. Second, you can toggle whether the Finder opens after you install an application. You can also set EasyDMG to launch the app right after installing, which is potentially handy.
+
+You can disable all warnings about apps from unidentified developers (you probably shouldn't do this). Also, if you don't like progress bars, you can disable the window and simply get a notification when installation is complete.
+
+That’s not a long list of options, sure, but a streamlined application like this doesn't need many. You can configure it to work the way you want once, then never look at the settings again.
