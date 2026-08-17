@@ -1,0 +1,48 @@
+---
+title: Top album releases linked to rise in fatal crashes as ‘distracted’ drivers
+  access music
+source_url: https://www.theguardian.com/world/2026/aug/17/top-album-releases-linked-to-rise-in-fatal-crashes-as-distracted-drivers-access-music
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-17T16:40:58Z'
+published: '2026-08-17T00:00:00Z'
+description: Harvard study finds traffic fatalities increase by 15% on release dates
+  compared with similar days either side
+image: https://i.guim.co.uk/img/media/ceb6efa5e0b3fa7484a125c58a2363f5c20af2fb/679_0_6142_4912/master/6142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5ea5cc6909219ea30a7374950590de2
+---
+
+The release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes.
+
+The team behind a new study say it sheds light on the impact of distracted driving. “You can’t randomise people into using their phones, and drivers rarely volunteer what they were doing in the seconds before a crash,” said Dr Vishal Patel, first author of the study based at Harvard Medical School.
+
+“Album releases give you something closer to an experiment – a day when smartphone use jumps nationally for reasons that have nothing to do with road conditions, weather or who happens to be driving.”
+
+Writing in the journal Jama Network Open, Patel and colleagues report how they focused on the release of 10 major albums, launched between 2017 and 2022, selected for having the highest number of Spotify streams over a single day.
+
+These included Midnights, released by Taylor Swift on 21 October 2022; Scorpion, released by Drake on 29 June 2018; and Harry’s House, released by Harry Styles on 20 May 2022.
+
+The team found streaming volume for the top 200 songs in the US was 43% higher on the date of major album releases compared with the days surrounding the releases – although such data does not reveal whether the music was being streamed in a car.
+
+“What it establishes is that these days are genuinely different in terms of national engagement with music, which is the premise the whole study rests on,” said Patel.
+
+The researchers used data from a population-based registry of fatal US motor vehicle crashes to look at the number of traffic fatalities on the dates these albums were released, as well as for the 10 days either side.
+
+After taking into account the day of the week upon which the album was released, as well as federal holidays, and time of year, the researchers found the number of US traffic fatalities showed a relative increase of 15.1% on the date of major album releases, compared with similar days either side.
+
+“This is equivalent to approximately 182 fatalities in the US attributable to the release days of the 10 included albums,” the team writes.
+
+Patel said the release of a new album could distract drivers because accessing music is a search task, not a single button press.
+
+“You unlock the phone, open the app, find the release, read down a tracklist, tap the right song. That’s several seconds of looking at a screen,” he said, adding unfamiliar music also demands more attention, while research has suggested listening to new, high-energy music measurably degrades driving performance.
+
+The researchers add the rise in traffic fatalities was greater among certain groups – such as younger drivers, male drivers, people who were driving alone, and people driving cars with a built-in infotainment platform.
+
+The authors say the results suggest that “online music streaming through smartphones may significantly contribute to distracted driving and traffic fatalities”.
+
+However, the study has limitations, including that it does not directly investigate whether smartphone use was involved in the traffic fatalities. Patel suggested streaming platforms could adapt their notifications when promoting forthcoming albums.
+
+“A line about setting your music up before you drive would cost them nothing,” he said.
+
+Patel also said drivers should make sure they finish fiddling with their phones before they start moving. Many countries have already implemented hands-free laws.
+
+“Pick the album, hit play, put the phone down,” he said. “If someone’s in the passenger seat, hand it to them – the increase showed up almost entirely among drivers who were alone.”

@@ -1,0 +1,39 @@
+---
+title: 'Bruno Fernandes transfer news: Manchester United will reject any offer for
+  captain amid Galatasaray interest'
+source_url: https://www.bbc.co.uk/sport/football/articles/clyj7rn31dpo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-17T16:40:19Z'
+published: '2026-08-17T00:00:00Z'
+description: Manchester United have no intention of selling captain Bruno Fernandes
+  despite Turkish club Galatasaray being prepared to lodge a bid for the 31-year-old
+  later this week.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5927/live/800367c0-9a3f-11f1-a291-b542ee92de7c.jpg
+---
+
+![Manchester United skipper Bruno Fernandes](https://ichef.bbci.co.uk/ace/standard/928/cpsprodpb/5927/live/800367c0-9a3f-11f1-a291-b542ee92de7c.jpg)
+
+Manchester United captain Bruno Fernandes scored nine goals and claimed a record 21 assists in the Premier League last season
+
+**Manchester Unitedintend to reject any offer for Bruno Fernandes before next month's transfer deadline.**
+
+BBC Sport was told last week that Turkish club Galatasaray, plus Italian giants Juventus and AC Milan, were considering whether to test United's resolve to keep their captain.
+
+It is thought Galatasaray had a deal they were intending to put to United, which would reach a final fee of 50m euros (£42.7m).
+
+However, the message from senior sources at Old Trafford is that Galatasaray would be wasting their time.
+
+Although last summer they told Fernandes it was his call whether to accept the mammoth offer put to him by Saudi Pro-League outfit Al-Hilal, with the Portuguese later admitting he felt "hurt" by that stance, this time around United have made their position clear.
+
+Club sources say, as yet, there have been no bids for the 31-year-old, but add that he is not for sale at any price.
+
+Fernandes has one year left on his current deal, with an option for an additional season. It is known he would prefer to stay.
+
+A £57m release clause in the Portugal international's contract has now expired.
+
+So far, there has been no agreement over an extension.
+
+While United are in a strong negotiating position, the enthusiastic reception for Fernandes in Dublin for last week's pre-season encounter with Leeds would have left the club in no doubt supporters would react badly if it was not clear they are doing everything possible to keep their talisman.
+
+Fernandes recorded a Premier League record 21 assists last season and is favourite to be crowned PFA Player of the Year for 2025-26 in Manchester next week.
