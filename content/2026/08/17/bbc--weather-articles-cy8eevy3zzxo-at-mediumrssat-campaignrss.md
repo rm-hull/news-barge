@@ -1,0 +1,77 @@
+---
+title: UK to turn cooler with rain after exceptional heat and dry spell
+source_url: https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-17T04:54:51Z'
+published: '2026-08-17T00:00:00Z'
+description: After and exceptional summer of heatwaves and drought, the weather will
+  turn wetter and cooler this week, as Simon King explains
+image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/f957/live/2ee17340-994b-11f1-8f52-c9b39dabc99d.jpg
+---
+
+![wet street with a man walking along with an umbrella and two women posing for selfie in the rain](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f957/live/2ee17340-994b-11f1-8f52-c9b39dabc99d.jpg)
+
+Rain forecast to hit this week will be welcome for many
+
+**Following a record-breaking summer of extreme heat and prolonged dry weather, UK weather patterns are set to change.**
+
+Wisley in Surrey has now notched up 60 days with no recorded rainfall. Significant rain has been lacking elsewhere with most areas of England and Wales in drought.
+
+There is some welcome rain forecast this week, though it's not likely to be significant or bring any change to the dry conditions.
+
+It will also turn noticeably cooler in the coming days with temperatures falling below average across the UK.
+
+![Map of the UK with rainfall accumulation over the next five days.  Rain is likely across most of the UK with around 40-50mm in the wettest area of western Scotland and maybe only 1-5mm in southern England](https://ichef.bbci.co.uk/ace/standard/990/cpsprodpb/5f9f/live/86e3bb90-9949-11f1-8f52-c9b39dabc99d.png)
+
+Rainfall accumulation over the next five days shows a chance of some rainfall for most of the UK, though no significant amount in southern England
+
+High pressure has been dominant this summer leading to hot and dry weather, particularly across England and Wales.
+
+There's been no significant rain in southern England for around two months which has led water levels in our rivers and reservoirs to drop significantly. All of Wales and most of England are in drought.
+
+However, through this week high pressure will be replaced by the influence of low pressure and more unsettled conditions.
+
+Some light rain is likely on Monday, mostly across northern areas of the UK.
+
+Into Tuesday and Wednesady this will turn heavier and start to move into southern England.
+
+While rain is therefore finally going to fall across the south, it may become more showery. This means the exact location and distribution of rainfall is still uncertain.
+
+And while of course any rain will be welcome, it won't bring much improvement to conditions.
+
+It will take weeks of above average rainfall into the autumn to make any significant changes to the drought.
+
+However, it is likely to make a big difference to the emergency services who have been battling against the extreme weather and wildfires over the last few weeks.
+
+The fire severity index —how severe a fire could be, should one to start — will come down to low or moderate, according to forecasts from Natural England and the Met Office.
+
+![map of the UK and Europe showing temperature anomaly.  In the UK blue hue indicates temperatures below average.  The same for much of western Europe but some orange hues - warmer than average - show in eastern Europe](https://ichef.bbci.co.uk/ace/standard/957/cpsprodpb/97a0/live/405dafa0-9949-11f1-8f52-c9b39dabc99d.png)
+
+Temperatures will fall below average - indicated by the blue hue on map above - through this week
+
+## Turning much cooler
+
+On Saturday the temperature peaked at 30.6C in southern England. Making it the 40th day somewhere in the UK exceeded 30C this year.
+
+It's looking unlikely temperatures will peak this high again for the rest of the summer, which meteorologically ends on 31 August.
+
+Temperatures on Monday and Tuesday will still be above average across England and Wales with highs of 20 to 26C.
+
+But they will drop during the rest of the week as a mostly northerly airflow starts to have more influence.
+
+By the end of the week, temperatures across the UK will be around 2 to 4 C below average. Something we haven't seen much - if really at all - this summer.
+
+Across Scotland and Northern Ireland temperatures will be around 14-17C and for England and Wales, 17-21C.
+
+Nights will become much cooler, and in some part, even colder, too.
+
+By Friday morning temperatures will be in single figures and as low as 3 or 4 C in parts of southern England.
+
+This drop in temperature might come as a bit of a shock for some after being accustomed to the hotter-than-average weather we've seen for weeks.
+
+There are no real signs of any hot spells or heatwaves returning.
+
+As for the beginning of September, which ushers in the start of autumn, there are some indications of a bit of warmth returning, though there is still a lot of uncertainty in the forecast computer models.
+
+You can keep up to date with the longer-range forecast in the monthly outlook.
