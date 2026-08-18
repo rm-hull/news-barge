@@ -149,3 +149,17 @@ sites:
     categories: [Local, UK, News]
     feed: https://www.thenorthernecho.co.uk/news/rss/
     limit: 50
+
+  - name: Telegraph & Argus
+    slug: telegraph-and-argus
+    categories: [Local, Bradford, News]
+    feed: https://www.thetelegraphandargus.co.uk/news/rss/
+    limit: 50
+
+  - name: TechCrunch
+    slug: techcrunch
+    categories: [Tech, Startups, News]
+    feed: https://techcrunch.com/feed/
+    limit: 50
+
+
