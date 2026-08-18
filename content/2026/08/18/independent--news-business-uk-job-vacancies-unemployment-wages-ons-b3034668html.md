@@ -1,0 +1,53 @@
+---
+title: UK job vacancies slip to five-year low in latest worrying sign for economy
+source_url: https://www.independent.co.uk/news/business/uk-job-vacancies-unemployment-wages-ons-b3034668.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-18T08:50:24Z'
+published: '2026-08-18T00:00:00Z'
+description: The ONS said its survey found that small firms may not be recruiting
+  because of increased labour costs and other business expenses
+image: https://static.independent.co.uk/2026/08/18/07/641781b6954ba83bdd74f2fcf916ab76Y29udGVudHNlYXJjaGFwaSwxNzg3MDc4Njcx-2.85072987.jpg?width=1200&height=800&crop=1200:800
+---
+
+Vacancies in the UK jobs market have fallen to the lowest level since 2014, other than during Covid, with 6,000 fewer openings between May and July compared to the three months to April.
+
+While the overall unemployment rate remains steady at 4.9 per cent, private sector pay growth has also fallen to a six-year low as the British economy struggles to escape concerns over the increased cost of labour.
+
+The Office for National Statistics (ONS) said its early estimates brings the level of job vacancies down to the lowest in more than five years, having slumped earlier in the year. In total, 707,000 job vacancies remained open.
+
+The ONS said its survey found that small firms may not be recruiting because of increased labour costs and other business expenses.
+
+The data also revealed that regular average wage growth in the UK’s private sector fell to 2.8 per cent in the three months to June – the lowest level since the three months to October 2020.
+
+This is despite overall regular wage growth rising to 3.5 per cent in the same period, from 3.4 per cent in the three months to April, driven by a 6.1 per cent increase across the public sector as a result of NHS pay awards.
+
+ONS director of economic statistics Liz McKeown said: “Vacancies remain broadly flat, though a small fall in the latest period puts them at the lowest level in more than five years.
+
+“The latest decrease was driven mainly by smaller businesses, which cite labour and operating costs as reasons for not hiring new staff or replacing leavers.
+
+“Regular wage growth has remained broadly stable in recent months.
+
+“However, private sector pay growth has continued to ease, while public sector pay growth remains elevated due to the timing of the latest NHS pay awards.”
+
+Experts said the downturn in private sector pay could signal a squeeze in the cost of living amid higher energy costs linked to the Iran war.
+
+Patrick Milnes, head of policy at the British Chambers of Commerce, said the unchanged headline unemployment rate “cannot hide the wider problems bedeviling the UK’s jobs market” and suggested it could get worse as the year goes on.
+
+“Business confidence is at a post-Pandemic low and the squeeze on firms’ finances shows no signs of easing,” he continued.
+
+“With last week’s announcement that changes to zero hours contracts could cost businesses almost £3bn, many will be reassessing their recruitment plans.
+
+“BCC calculations shows that costs for the average SME have increased by more than 70 per cent in the last ten years due to successive governments’ policies.
+
+“Much more must now be done to bolster business confidence and unlock hiring by tackling cost pressures on firms, including a holiday on employer national insurance contributions for under 25s.”
+
+Suren Thiru, chief economist for the Institute of Chartered Accountants in England and Wales (ICEAW) said: “The UK labour market remains stuck in a low-churn limbo, with employers reluctant to hire, fire or offer bigger pay rises as they grapple with rising costs, intensifying global headwinds and heightened policy uncertainty.
+
+“Cooling private sector wage growth is a double-edged sword for the economy, reducing the risk of interest rate rises by limiting inflationary spillovers from the Iran war-induced energy shock, but also signalling a deepening cost of living squeeze.
+
+“The persistent slide in vacancies is a red flag for the jobs market, suggesting labour demand is shrinking amid soaring employment and energy costs, while greater automation is also squeezing some entry-level roles.”
+
+Ben Harrison, director at think tank Work Foundation at Lancaster University, said the “figures indicate the UK remains trapped in a deepening jobs drought,” while Kevin Fitzgerald, UK managing director at Employment Hero, said “small businesses are still being asked to do a lot with very little room to manoeuvre”.
+
+“The willingness to hire is there, but confidence is holding businesses back. Ahead of the Autumn Budget, the Government needs to focus on creating the conditions for small businesses to grow and take people on. That means greater certainty, fewer barriers and policies that support businesses rather than pile more pressure on them. If we get that right, there’s a real opportunity to turn cautious optimism into stronger employment growth,” Mr Fitzgerald added.
