@@ -1,0 +1,39 @@
+---
+title: Fewer than 1,800 free spaces for male prisons in England and Wales
+source_url: https://www.bbc.co.uk/news/articles/c1w1v9elzvdo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-19T21:32:41Z'
+published: '2026-08-19T00:00:00Z'
+description: Male prisons have less than 1,800 spaces available in England and Wales,
+  the lowest level since March
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg
+---
+
+![The ground floor central walkway of Benbow wing inside HMP/YOI Portland in Dorset, United Kingdom.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg)
+
+**Male prisons have fewer than 1,800 spaces available in England and Wales, the lowest level since March.**
+
+More than 83,000 spaces are occupied by male inmates, despite the government introducing a presumption against jailing anyone for under one year to free up more space.
+
+Prison staff told the BBC the high level of offenders being recalled to prison for breaching license conditions given on their release or re-offending has cancelled out much of the extra room. Since June, there has been a downward trend in the number of vacant spaces.
+
+The spike comes before the government is set to release about 5,000 inmates early from October to alleviate overcrowding.
+
+The Ministry of Justice (MoJ) said it was building more prisons while exploring early release options and expanding electronic tagging.
+
+The figures come after Prime Minister Andy Burnham made more prisoners exempt from the upcoming early release scheme following backlash from victims.
+
+Burnham came under further pressure after the killers of PC Andrew Harper would still be eligible for early release.
+
+PC Harper, 28, was killed in 2019 when he was dragged by a car down a country road as three teenagers fled the scene of a quad bike theft in Berkshire.
+
+Last week, Burnham said he was "confident" PC Harper's killers could be excluded from the government's early release scheme
+
+On August 3, Burnham said in a written article, external he had "wanted to go even further" but had "pushed to the very limits of what is possible to do".
+
+A spokesperson for the MoJ said "public safety will always be our priority".
+
+"We are fast-tracking a plan to keep more of the most serious offenders behind bars, on top of murderers, anyone on life sentences and those in prison for rape, serious child sexual abuse and grooming offences who are already blocked from any changes," they said.
+
+"We share the public's anger that these options are even being considered, after we inherited a prison system on the brink of collapse."
