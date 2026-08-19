@@ -1,0 +1,30 @@
+---
+title: Police searching for missing North Yorkshire woman say a body has been found
+source_url: https://www.yorkmix.com/police-searching-for-missing-north-yorkshire-woman-say-a-body-has-been-found
+source_site: York Mix
+source_slug: york-mix
+scraped_at: '2026-08-19T13:10:55Z'
+published: '2026-08-19T00:00:00Z'
+description: ''
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/police-jacket-radio-nyp.webp
+---
+
+Police searching for a missing North Yorkshire woman issued a sad update this afternoon (Wednesday).
+
+Tracey Smith from the Stokesley area was last seen driving from her house in a black Fiat Panda on Friday, 24 July.
+
+Last night, North Yorkshire Police were called by a member of the public after they noticed a black vehicle had come to rest in undergrowth down an embankment on the A172 at its junction with the A19 near the Cleveland Tontine.
+
+A North Yorkshire Police spokesperson said: “Sadly, the sole occupant of the vehicle was found deceased inside.
+
+“While formal identification is yet to take place, officers believe the deceased to be missing Tracey Smith from the Stokesley area.
+
+“The road was closed and is expected to remain closed for some time. This is to allow investigators to examine the scene and to recover the vehicle.
+
+“Due to the location of the vehicle, recovery is expected to take some time.
+
+“Our thanks go to members of the public who responded to appeals for help to find Tracey, including the person who called in after noticing a vehicle in the undergrowth.
+
+“An investigation will be carried out to determine how the car came to leave the road.
+
+“Our thoughts are with Tracey’s family and friends at this very sad time.”
