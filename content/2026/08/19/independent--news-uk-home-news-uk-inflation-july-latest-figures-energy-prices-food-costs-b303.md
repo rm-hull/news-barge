@@ -1,0 +1,55 @@
+---
+title: Soaring energy prices see inflation rise to highest level since March
+source_url: https://www.independent.co.uk/news/uk/home-news/uk-inflation-july-latest-figures-energy-prices-food-costs-b3035172.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-19T08:51:54Z'
+published: '2026-08-19T00:00:00Z'
+description: The rise in energy bills has driven a sharp increase in inflation, moving
+  further away from the Bank of England’s target
+image: https://static.independent.co.uk/2026/05/25/10/2238091047..?width=1200&height=800&crop=1200:800
+---
+
+Inflation has soared to its highest rate since March after the price of energy was pushed up by the conflict in the Middle East, according to official figures.
+
+In figures announced today, Consumer Prices Index (CPI) inflation has risen to 2.9 per cent in July, up from a 15-month low of 2.6 per cent in June.
+
+The rise in inflation follows the 13 per cent hike in Ofgem’s energy price cap last month, which saw the average gas and electricity bill increase by £221 to £1,862 a year.
+
+![Chancellor John Healey said the Iran war ‘continues to impact prices here at home’](https://static.independent.co.uk/2026/08/19/07/aeb88c87603ecee43892dd7897d3d44fY29udGVudHNlYXJjaGFwaSwxNzg3MjA3NzA2-2.85365880.jpg)
+
+That hike in energy bills has contributed significantly to the rise, as shown by core inflation - which does not include energy and food costs - remaining locked at 2.6 per cent, unchanged from June. But with no end in sight to Donald Trump’s war on Iran, households can expect to continue to feel the squeeze.
+
+There are also concerns over food inflation, with producers warning earlier this week that soaring temperatures and droughts across the UK and Europe are set to drive prices higher.
+
+CPIH figures, which include household costs and is the ONS’ preferred metric, rose from 2.8 per cent to 3.1 per cent, with housing and household services, as well as furniture, making the largest upward contributions.
+
+ONS deputy director for prices Mike Hardie said: “Inflation rose in July, driven by a sharp increase in gas prices following this month’s change to the energy price cap. This was the largest rise in gas prices for almost four years.
+
+“Other upward pressures included furniture prices falling by less than usual for this time of year, and also a smaller fall for clothing prices due to reduced discounting.
+
+“The prices of raw materials and goods leaving factories slowed again, driven by a drop in the prices of crude oil and refined petroleum respectively.”
+
+Despite expectations of rises in future, the Food and Drink Federation said: “It’s good news for consumers as food inflation continued to fall for another month in July. This isn’t what we’d historically expect to see following a supply chain shock like the war in Iran. This is partly due to the time it takes for these shocks to pass through to consumer prices and partly due to the fact that food manufacturers have learnt from the previous energy shock brought on by the war in Ukraine, adapting contracts and diversifying suppliers to keep costs down.”
+
+However, the FDF’s chief economist, Dr Liliana Danila, warned that supply chain disruption and “extreme weather” will make it “very challenging for manufacturers to swallow any higher costs.”
+
+Food and drink annual inflation fell from 1.7 per cent in June to 1.3 per cent in July, with fish (13.6 per cent) and fruit (8.1 per cent) rising fastest and pizza (-8.5 per cent) and butter (-5.3 per cent) falling quickest.
+
+Kevin Brown, savings expert at Scottish Friendly, cautioned households that the months ahead could see more concerning numbers when it comes to their grocery shopping.
+
+“Energy may only be exerting part of the pinch this autumn. Expensive fuel and fertiliser are adding pressure to food production and supply chains, while an exceptionally hot summer raises another threat to harvests,” he said. “As a result, families may continue to feel the inflationary fallout from this at the till as well as through their utility bills.”
+
+However, despite inflation remaining well above the Bank of England’s two per cent target, few analysts currently expect this level of inflation to strong-arm the BoE’s Monetary Policy Committee into raising interest rates.
+
+With unemployment still close to 5 per cent and job vacancies at five-year low levels, the UK is “better placed than most developed economies to avoid second-round inflation effects,” said David Rees, head of global economics at Schroders.
+
+Yael Selfin, chief economist at KPMG, said that inflation was likely to continue an upward curve to reach a peak of about 3.5 per cent by year’s end, though with the caveat that “the outlook remains highly dependent on how the conflict in Iran evolves and its impact on global energy prices.”
+
+Meanwhile, business leaders urged Andy Burnham’s government to do more to support firms in the lead-up to the Budget.
+
+“Just as it adds to the cost of living, rising inflation pushes up the cost of doing business. Ministers should act now to bolster business confidence as the fallout from the Iran war, a spike in energy prices and higher costs of employment are holding back firms across the capital and beyond,” said Matthew Fell of BusinessLDN.
+
+“Making good on a manifesto commitment to overhaul business rates, postponing the introduction of a new levy that will make housebuilding more expensive, and ensuring the proceeds of any new overnight visitor levy for London are used to support growth would all help to put the economy on a surer footing.”
+
+The British Chambers of Commerce added: “The government must use the Budget as an opportunity to back business, cut costs and deliver growth. The Chancellor needs to give firms the breathing space they desperately need by outlining ambitious measures to drive forward trade, investment and productivity.”
