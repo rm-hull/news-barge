@@ -1,0 +1,64 @@
+---
+title: Travelodge boss steps down amid fallout from sexual assault in hotel room
+source_url: https://www.independent.co.uk/news/uk/home-news/travelodge-jo-boydell-resigns-assault-b3036120.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-20T08:52:17Z'
+published: '2026-08-20T00:00:00Z'
+description: Staff mistakenly issued a key card to a woman’s attacker
+image: https://static.independent.co.uk/2026/03/18/14/25c79305d09525a62b0c0cf2810be4e9Y29udGVudHNlYXJjaGFwaSwxNzczOTI5Njg0-2.16022320.jpg?trim=216,0,1034,0&width=1200&height=800&crop=1200:800
+---
+
+Travelodge’s chief executive Jo Boydell has stepped down, the hotel chain has announced.
+
+It comes amid the fallout of a 2022 sexual assault at a Maidenhead Travelodge hotel, where staff mistakenly issued a key card to a woman’s attacker.
+
+Travelodge said it is continuing to “overhaul its safety procedures” after the assault.
+
+In February, Kyran Smith was given a seven-and-a-half year prison sentence for the attack.
+
+In March, Ms Boydell apologised to the victim, who cannot be named, in a statement.
+
+She added that the company had made “immediate changes” to its door key policy.
+
+![Travelodge chief executive Jo Boydell apologised to the victim and was set to meet with MPs, but the meeting was cancelled (Travelodge/PA)](https://static.independent.co.uk/2026/03/18/14/25c79305d09525a62b0c0cf2810be4e9Y29udGVudHNlYXJjaGFwaSwxNzczOTI5Njg0-2.16022320.jpg)
+
+Ms Boydell was meant to meet with MPs that month about safety issues at the hotel chain, but that was cancelled – a decision that the victim said she was “shocked” by.
+
+She told *Good Morning Britain*: “I think if you are the CEO of a company, then you have a responsibility to answer these questions and engage in that situation, and say how you’re going to now improve.
+
+“You’re not protecting people and I mean, I personally find it quite shocking.”
+
+Speaking to *GMB*, Ms Boydell said of the woman: “I’m really sorry if she did feel dismissed, and we are definitely listening to what she has to say.
+
+“The hotels with key cards have deadbolts, but clearly something went wrong here, and that needs to be investigated.”
+
+She apologised in interviews with ITV and the BBC, telling the latter that she was “genuinely sorry” for the company’s handling of the incident.
+
+![Travelodge staff mistakenly gave a woman’s attacker a key to her room (file photo)](https://static.independent.co.uk/2026/03/25/11/4b62bea65159a6edd3e289fbcc909430Y29udGVudHNlYXJjaGFwaSwxNzc0NTIyOTg0-2.64929881.jpg)
+
+Former prime minister Sir Keir Starmer then stepped in, urging Ms Boydell to “seriously engage” with the government on the issue.
+
+On Thursday, the firm said that Ms Boydell is leaving after 13 years with the group.
+
+She will be replaced by chief financial officer Ray Reidy on an interim basis while they hunt for a permanent successor.
+
+Mr Reidy said: “We remain focused on the safety and wellbeing of our guests and will continue taking the actions necessary to strengthen the business.
+
+“We will also continue to engage proactively and constructively with government and the wider hospitality industry on the issue of safety and security.”
+
+Travelodge said it had “acted quickly” to improve safety procedures following the assault and as claims emerged that staff were giving out duplicate keys without the proper security checks.
+
+The group said an independent review by Paul Greaney KC had been carried out, and an internal review is ongoing, with changes being rolled out, including new room access security that is live across more than 600 of its hotels and extra training for its 12,000 customer-facing staff.
+
+It said a guest must now give explicit permission for an extra or replacement room key to be given out and that it will never confirm to a third party if a guest is staying at one of its hotels.
+
+The firm has also taken action to check and confirm that all key-card doors have a secondary deadbolt.
+
+Travelodge bosses are also undertaking a training programme put together by an expert in tackling violence against women and girls.
+
+Ms Boydell was appointed chief executive in May 2022 after serving as the chief financial officer from March 2013.
+
+*Rape Crisis offers support for those affected by rape and sexual abuse. You can call them on 0808 802 9999 in England and Wales, 0808 801 0302 in Scotland, and 0800 0246 991 in Northern Ireland, or visit their website at**www.rapecrisis.org.uk**. If you are in the US, you can call Rainn on 800-656-HOPE (4673).*
+
+*Subscribe here**to get the latest updates from The Independent.*
