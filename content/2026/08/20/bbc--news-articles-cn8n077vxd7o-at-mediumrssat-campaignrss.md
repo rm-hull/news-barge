@@ -1,0 +1,55 @@
+---
+title: Como mayor hit by electric bike and issues blanket ban in Italian city
+source_url: https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-20T20:41:40Z'
+published: '2026-08-20T00:00:00Z'
+description: Alessandro Rapinese said the prohibition was for public safety, adding
+  "I know what it's like to be hit by one of these beasts".
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg
+---
+
+![Sunny yellow buildings and greenery sit infront of green mountains overlooking Lake Como.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg)
+
+Como sits alongside several other historic towns overlooking the famous lake
+
+**The mayor of Como has banned riding bicycles in certain areas of the historic Italian city after he was hit by an electric one.** 
+
+Alessandro Rapinese said the ban was necessary to improve public safety. It means from September, cyclists will have to dismount through an area of around 30 streets.
+
+He told Italian news agency Ansa: "People act based on their own experiences and I know what it's like to be hit by one of these beasts."
+
+Several other local authorities around Europe, including in the UK, have restricted where and how e-bikes and other single-person vehicles can be used.
+
+The measure put forward by Rapinese is part of a package of new traffic regulations, establishing a Limited Traffic Zone (ZTL) to manage tourist growth, and which impose stricter rules on cars and vans in the city centre.
+
+Many of the roads covered by the ban are the widest in the old town and are popular with delivery drivers.
+
+The measure applies to both electric and push bikes, as the Italian highway code does not distinguish between models.
+
+Rapinese explained his decision in a video as part of a series of online videos he produces himself, known as RapiNews24.
+
+He recounted an incident in which he had been leaving city hall in July and collided with an e-bike shortly after his administration had discussed traffic restrictions in the city centre.
+
+The cyclist involved in the collision has not been identified.
+
+"In this case, I didn't even end up in the hospital," Rapinese said. "I was hit by a bike. I gathered information, and that's where the measure came from."
+
+![A man rides a bike along street near Lake Como.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/18ae/live/4d0079d0-9cb0-11f1-84cf-fd4cfd9d6c84.jpg)
+
+Como's Roman-walled centre is already covered by a limited-traffic zone, and bicycles have become a go-to method of transport for locals.
+
+The new traffic regulations for the ZTL mean some vehicles will require an annual permit and, for each day of entry, a €3 (£2.60) permit.
+
+Deliveries to shops and restaurants will only be allowed between 06:00 and 23:00, while tourists staying in hotels will only be able to drive into the centre if their accommodation has parking.
+
+The ban has faced a backlash from locals and an online petition has been launched to block the resolution.
+
+Civitas Como, a local citizens group, has challenged the legitimacy of ban, describing it as "questionable and erroneous".
+
+The Nova Como association has organised a protest bike ride for 12 September.
+
+Como is not the first Italian city to restrict bicycles in historic or busy parts. In Palermo, bikes have been restricted in some sections of the main streets since 2023.
+
+Meanwhile, Paris recently clamped down on safety requirements for e-scooter users, having banned rental e-scooters outright in 2023.
