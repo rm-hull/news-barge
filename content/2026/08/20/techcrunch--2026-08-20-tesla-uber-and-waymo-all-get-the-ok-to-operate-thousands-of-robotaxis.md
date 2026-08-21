@@ -1,0 +1,36 @@
+---
+title: Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in
+  Nevada | TechCrunch
+source_url: https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/
+source_site: TechCrunch
+source_slug: techcrunch
+scraped_at: '2026-08-21T01:54:14Z'
+published: '2026-08-20T00:00:00Z'
+description: Together, these permits would allow up to 8,000 robotaxis to be deployed
+  over the next 12 months.
+image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801
+---
+
+Nevada, get ready for the robotaxis.
+
+The Nevada Transportation Authority unanimously approved three permits Thursday that will allow Tesla, Uber, and Waymo to operate commercial robotaxi services in Clark County, home to Las Vegas. Together, these permits would deploy up to 8,000 robotaxis across the county over the next 12 months.
+
+Tesla’s permit allows it to deploy up to 5,000 robotaxis, while Waymo is allowed operate up to 1,000 autonomous vehicles over the next year. Uber was also approved for 1,000 robotaxis, which it will operate through partnerships with Hyundai subsidiary Motional and Zoox. Zoox already holds an autonomous vehicle network company permit that allows it to operate 100 robotaxis.
+
+Whether these companies will be able to launch that many robotaxis is an unanswered question. Testimony from Tesla representatives and the other companies suggests the answer is no.
+
+“The 5,000 has always been a ceiling for us,” said Eric Early, Tesla’s Cybercab chief engineer, during the meeting. “I don’t think we’ll be in a position by this time next year to deploy 5,000 vehicles, and it’s not [because of] the technology. … I think we would be extremely happy and satisfied if we could get ourselves up to 2,500, maybe a bit higher than that in the next year.”
+
+Even if these three companies roll out only half of those totals, Clark County — and Las Vegas specifically — is shaping up to be a major robotaxi battleground, with Tesla, Uber (via its autonomous vehicle partners Motional and Zoox), and Waymo all competing for the same riders.
+
+That kind of fast, large-scale robotaxi deployment is poised to change the city — and specifically its workforce. Depending on who you ask, these companies will either deliver a whole new category of jobs designed to maintain, charge, and clean these vehicles or will wipe out an entire category of workers: human taxi and gig drivers.
+
+Representatives from the Livery Operators Association and local taxi companies opposed the permits, arguing the approvals move too far, too fast.
+
+“These applications raise two grave concerns,” said Kimberly Maxson-Rushton, a lawyer representing the Livery Operators Association, at the hearing. “One deals with the oversaturation of the commercial transportation industry as a whole in Nevada,” she said. “And the second one deals with the overcrowding of the roadways, and specifically the Golden Triangle.”
+
+The Golden Triangle, an area between the airport and Las Vegas Boulevard and the surrounding area, is where most of the AV testing has occurred to date. Motional is also testing in the downtown area and in a shopping district known as Town Square.
+
+Uber has tried to position itself as the Goldilocks option in this fight, advocating for a hybrid approach in which ride-hailing networks are made up of humans and robotaxis. The company has even lobbied for a system that would require robotaxis to operate on a ride-hailing network that also uses human drivers, a stance that puts it at odds with Waymo and doubles as a hedge against its own autonomous ambitions falling short of Tesla’s or Waymo’s.
+
+Uber made a similar pitch during the NTA meeting, noting that a hybrid approach would allow cities to gradually integrate vehicles to meet peak demand rather than flooding the market all at once.
