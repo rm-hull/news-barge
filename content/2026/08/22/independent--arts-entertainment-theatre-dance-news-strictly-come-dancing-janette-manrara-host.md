@@ -1,0 +1,42 @@
+---
+title: 'Strictly It Takes Two host makes career change after BBC axe: ‘New chapter’'
+source_url: https://www.independent.co.uk/arts-entertainment/theatre-dance/news/strictly-come-dancing-janette-manrara-host-bbc-b3037445.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-22T08:41:52Z'
+published: '2026-08-22T00:00:00Z'
+description: ‘Strictly’ star hosted BBC companion show until last year
+image: https://static.the-independent.com/2026/06/11/12/31/569217.jpg?trim=0,338,0,262&width=1200&height=800&crop=1200:800
+---
+
+Janette Manrara is leaving *Strictly Come Dancing* behind for the stage, with the professional dancer announcing her “new chapter” after being axed from*It Takes Two.*
+
+The Florida-born dancer, 42, was a member of the *Strictly* cast from 2013 until 2021 before becoming the co-presenter on its companion show,*It Takes Two*, alongside ex-contestant Fleur East. 
+
+Manrara announced in June that she had been dropped from the show ahead of its 2026 series. “*Strictly Come Dancing* has changed hugely, and I am no longer a part of*It Takes Two* or the main show,” she told her YouTube followers. 
+
+Now, she’s set to flex her acting muscles later this year in new play *Affluenza* at London’s Riverside Studios, alongside*Stranger Things* star Noah Schnapp,*Bridgerton*’s Rupert Young,* EastEnders*actor Juliet Cowan, and* Madam Secretary*’s Wallis Currie-Wood. 
+
+Announcing the news on Instagram, she wrote: “I can finally say that I will be joining the cast of the world premiere of *AFFLUENZA* at Riverside Studios in London.
+
+“I have always loved telling stories – through dance, movement and presenting. Now, I get to tell one in a whole new way… and this one is a conversation starter. New chapter. New challenges. Excited for what’s to come.”
+
+Manrara’s former *Strictly* colleagues flooded the comment section with congratulatory messages, with Carlos Gu writing: “This is amazing!!! X,” while Katya Jones commented: “So proud! can’t wait.” 
+
+The dancer’s husband Aljaz Skorjanec, who will be dancing on *Strictly* once again this year, wrote: “Proud doesn’t describe it! well done Bučka.” 
+
+Although Manrara starred as Roxie Hart in the hit musical *Chicago* last year,*Affluenza* will be her first solely dramatic role. Written and directed by theatre producer Andy Sandberg – not to be confused with the American actor Andy Samberg – the play looks at the consequences when a “teen’s drunken car ride ends in devastation”. 
+
+“Inspired by true events surrounding a shocking legal defence, *Affluenza* explores the ripple effects of power and privilege,” the synopsis teased. The play is set against the backdrop of New York’s wealthy seaside village, the Hamptons. 
+
+![Fleur East and Janette Manrara were dropped from 'It Takes Two' earlier this year](https://static.the-independent.com/2026/03/23/8/17/Stridtly-Fleur-East-Janette-Manrara.png)
+
+*Affluenza* will be on at Riverside Studios from 26 September until 21 November, premiering around the same time as*Strictly Come Dancing*’s forthcoming series. New hosts Emma Willis, Josh Widdicombe and Johannes Radebe are taking the reins from Claudia Winkleman and Tess Daly following the duo’s departure last year, while* It Takes Two*will be fronted by ex-contestant and* Ted Lasso* star Ellie Taylor. 
+
+Announcing the news last week, Taylor said that she’s “so thrilled to be back in the *Strictly* world”, describing the job as a “dream come true”. 
+
+Taylor also noted that this time around, they will be aiming for “slightly more candid conversation” and “involvement from the viewers at home”.
+
+“You know when you have a WhatsApp chat and you’re gossiping about what’s going on with *Strictly*?” she said. “We want it to feel like that. One big, fat celebration of the wonderful world of* Strictly*.”
+
+*Strictly Come Dancing* begins on Saturday 19 September on BBC One.
