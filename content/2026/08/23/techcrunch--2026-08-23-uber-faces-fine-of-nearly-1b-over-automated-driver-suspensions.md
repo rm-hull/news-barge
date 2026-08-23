@@ -1,0 +1,37 @@
+---
+title: Uber faces fine of nearly $1B over automated driver suspensions | TechCrunch
+source_url: https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
+source_site: TechCrunch
+source_slug: techcrunch
+scraped_at: '2026-08-23T20:35:09Z'
+published: '2026-08-23T00:00:00Z'
+description: The Dutch Data Protection Authority is fining Uber €825 million in the
+  second largest penalty issued under Europe’s GDPR.
+image: https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800
+---
+
+The Dutch Data Protection Authority is fining Uber €825 million (around $966 million) — the second largest penalty issued so far under Europe’s General Data Protection Regulation, according to Reuters.
+
+The Dutch regulator was investigating complaints that Uber had deactivated driver accounts through an automated process without sufficient warning or human oversight. In a statement, deputy chair Monique Verdier said that the company had “committed serious infringements.”
+
+“A computer should not make decisions on its own that have [such] major consequences,” Verdier said.
+
+Uber, however, argued that most driver suspensions are brief, that no permanent deactivations take place without human review, and that drivers have the ability to appeal. (Dutch regulators said some drivers were permanently deactivated without human review, which Uber disputes.) The company said it will appeal the decision.
+
+“We strongly disagree with this decision and disproportionate fine,” an Uber spokesperson told Reuters. TechCrunch has reached out to the company for additional comment.
+
+Brahim Ben Ali, a former Uber driver in France, told the Dutch newspaper de Volkskrant that after his account was deactivated in 2019, he collected testimonies from 170 other Uber drivers and eventually brought his complaint to the Netherlands, where Uber’s European headquarters are located.
+
+Ben Ali was assisted in this effort by a Swiss nonprofit focused on digital rights called PersonalData.io, which helped the drivers collect data about how the deactivation decisions were made. Founder Paul-Olivier Dehaye said a driver “can complete a thousand journeys with satisfied passengers, but if just one person reports a very serious problem, the consequences can be enormous.”
+
+Dehaye told me that this is the third fine that the Dutch regulator has levied on Uber, following a €290 million fine over its handling of drivers’ personal data and a €10 million fine stemming from related issues. He also said he plans to start a class action suit through which drivers can seek compensation.
+
+In fact, Dehaye said these fines all originate with complaints made by the same group of drivers. And he’s starting a new company called StartClaims to support the litigation and other regulatory action — first against Uber and then eventually expanding to other gig economy cases, as well as related areas like adtech.
+
+While discussing the case with Dehaye (who I’ve known casually since college), I brought up a blog post by Daring Fireball’s John Gruber, in which Gruber worried that this fine makes it “unlawful in the EU for Uber to monitor its drivers for pulling scams against customers, or just never picking riders up, leaving them stranded.”
+
+Gruber also took issue with Verdier’s statement, arguing, “Saying that ‘a computer’ made these decisions is like saying that when a company suspends or fires a habitually late employee, that ‘the time clock’ made the decision. Managers at the company set the policies, and the devices measure employee compliance.”
+
+Dehaye countered that Gruber “misses the point.”
+
+“Uber is free to use humans to punish drivers who scam, but then [it] has to take responsibility for this decision making (like ‘being an employer’, not ‘being a marketplace’),” he said.
