@@ -3,6 +3,7 @@ import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
+const PAGE_SIZE = 50;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function byDescendingPublishedDate(a, b) {
@@ -78,7 +79,6 @@ export default function (eleventyConfig) {
       grouped[key].push(art);
     }
 
-    const PAGE_SIZE = 30;
     const pages = [];
 
     for (const [dateKey, articles] of Object.entries(grouped)) {
@@ -137,7 +137,6 @@ export default function (eleventyConfig) {
       grouped[slug].push(art);
     }
 
-    const PAGE_SIZE = 30;
     const pages = [];
 
     for (const [slug, articles] of Object.entries(grouped)) {
@@ -177,7 +176,6 @@ export default function (eleventyConfig) {
       }
     }
 
-    const PAGE_SIZE = 30;
     const pages = [];
 
     for (const [category, articles] of Object.entries(grouped)) {
