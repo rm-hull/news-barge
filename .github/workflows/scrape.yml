@@ -16,6 +16,11 @@ on:
         description: "Force overwrite if article already exists"
         type: boolean
         default: false
+      retention_months:
+        description: "Don't create articles older than this many months"
+        required: false
+        type: string
+        default: "1"
 
 permissions:
   contents: write
@@ -70,6 +75,7 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             ARGS="$ARGS --force"
           fi
+          ARGS="$ARGS --retention-months ${{ github.event.inputs.retention_months || '1' }}"
           uv run scrape.py $ARGS
 
       - name: Commit new content

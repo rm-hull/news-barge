@@ -8,6 +8,7 @@ and writes dated .md files with YAML frontmatter.
 
 import argparse
 import asyncio
+import calendar
 import hashlib
 import os
 import re
@@ -198,6 +199,25 @@ def linkify_text(text: str) -> str:
         return match.group(0)
 
     return re.sub(pattern, replace, text)
+
+
+def months_ago(months: int = 1) -> datetime:
+    """UTC cutoff `months` calendar-months ago, with the day clamped to the
+    target month length (e.g. Aug 31 -> Jul 31, Mar 31 -> Feb 28).
+
+    Mirrors GNU ``date -d "N months ago"`` so the scraper and the archive
+    workflow agree on what "older than N months" means.
+    """
+    now = datetime.now(timezone.utc)
+    year, month = now.year, now.month - months
+    while month <= 0:
+        month += 12
+        year -= 1
+    while month > 12:
+        month -= 12
+        year += 1
+    day = min(now.day, calendar.monthrange(year, month)[1])
+    return datetime(year, month, day, tzinfo=timezone.utc)
 
 
 def output_path(site_slug: str, article_slug: str, date: datetime) -> Path:
@@ -434,6 +454,7 @@ async def process_article(
     browser_semaphore: asyncio.Semaphore,
     fetch_semaphore: asyncio.Semaphore,
     logger: SiteLogger,
+    retention_months: int = 1,
 ) -> bool:
     slug = url_to_slug(url)
     site_slug = site["slug"]
@@ -503,6 +524,18 @@ async def process_article(
     }
 
     path = output_path(site_slug, slug, file_date)
+
+    # Don't create articles older than the retention window. The archive job
+    # deletes them anyway, so writing them only creates churn — and an archive
+    # dry-run preview is meant to show exactly the articles that survive here.
+    if retention_months > 0:
+        cutoff = months_ago(retention_months)
+        if file_date.date() < cutoff.date():
+            logger.log(
+                f"  · older than {retention_months} month(s) "
+                f"(published {file_date.date()} < {cutoff.date()}), skipping"
+            )
+            return False
 
     if path.exists() and not force:
         logger.log(f"  · already exists, skipping: {path.name}")
@@ -642,6 +675,7 @@ async def main_async(args):
                     browser_semaphore=browser_semaphore,
                     fetch_semaphore=fetch_semaphore,
                     logger=logger,
+                    retention_months=args.retention_months,
                 )
                 for url, site, logger in all_tasks
             ]
@@ -694,6 +728,12 @@ def main():
     parser.add_argument("--site", help="Only process this slug")
     parser.add_argument(
         "--force", action="store_true", help="Force regeneration of existing files"
+    )
+    parser.add_argument(
+        "--retention-months",
+        type=int,
+        default=1,
+        help="Don't write articles older than this many months (default: 1)",
     )
     parser.add_argument(
         "--concurrency",
