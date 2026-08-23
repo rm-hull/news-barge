@@ -1,0 +1,159 @@
+---
+title: 'F1 live streams: Link to watch Dutch GP race online'
+source_url: https://www.independent.co.uk/f1/f1-live-stream-link-free-dutch-gp-race-b3035835.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-23T12:58:08Z'
+published: '2026-08-23T00:00:00Z'
+description: Sky Sports broadcasts coverage of F1 in the United Kingdom while Apple
+  TV will stream the sport in the US
+image: https://static.independent.co.uk/2026/08/19/17/2233042160..?width=1200&height=800&crop=1200:800
+---
+
+Formula 1 returns after the summer break with the Dutch Grand Prix and the fifth sprint weekend of the 2026 season.
+
+Kimi Antonelli leads the world championship standings by 50 points and secured a podium last time out in Hungary. His nearest challenger is Ferrari’s Lewis Hamilton, while Mercedes teammate George Russell is a further five points off the pace.
+
+Lando Norris claimed his and McLaren’s first victory of the season in Budapest and the reigning world champions will be looking to continue their decent form after the three-week summer recess.
+
+Yet this year’s event at Zandvoort will be the last at the old-school circuit, with the Dutch GP’s contract not being renewed with F1 beyond 2026. It gives Max Verstappen one last opportunity to add to his three wins in front of his adoring orange-clad supporters.
+
+**Here’s everything you need to know about the Dutch Grand Prix.** 
+
+## **When is the Dutch Grand Prix?** 
+
+*Time BST*
+
+**Sunday 23 August**
+
+- **Race:** 2pm
+
+## **How can I watch it online and on TV?**
+
+The Dutch Grand Prix will be broadcast live on *Sky Sports* in the United Kingdom. Sky’s coverage of Sunday’s race starts at 12:30pm (BST). 
+
+**Sky Sports subscribers can watch all the action from Zandvoort on the Sky Go app. If you’re not a Sky customer, you can grab aNOWTV Day Pass hereto watch without a subscription.**
+
+In the United States, every practice, qualifying and race session will be streamed on Apple TV this year. You can stream Apple TV for FREE, with Apple TV’s seven-day free trial.
+
+*If you’re travelling abroad and want to watch, then you might need a VPN to unblock your streaming app. Our**VPN roundup** is here to help.* 
+
+## **Driver standings ahead of Dutch GP** 
+
+1. Kimi Antonelli (Mercedes) - 219 points
+
+2. Lewis Hamilton (Ferrari) - 169 points
+
+3. George Russell (Mercedes) - 160 points
+
+4. Charles Leclerc (Ferrari) - 138 points
+
+5. Lando Norris (McLaren) - 128 points
+
+6. Max Verstappen (Red Bull) - 109 points
+
+7. Oscar Piastri (McLaren) - 92 points
+
+8. Isack Hadjar (Racing Bulls) - 68 points
+
+9. Liam Lawson (Racing Bulls) - 43 points
+
+10. Pierre Gasly (Alpine) - 42 points
+
+11. Arvid Lindblad (Racing Bulls) - 23 points
+
+12. Franco Colapinto (Alpine) - 19 points
+
+13. Ollie Bearman (Haas) - 18 points
+
+14. Gabriel Bortoleto (Audi) - 10 points
+
+15. Carlos Sainz (Williams) - 6 points
+
+16. Alex Albon (Williams) - 5 points
+
+17. Esteban Ocon (Haas) - 3 points
+
+18. Nico Hulkenberg (Audi) - 2 points
+
+19. Fernando Alonso (Aston Martin) - 1 point
+
+20. Lance Stroll (Aston Martin) - 0 points
+
+21. Valtteri Bottas (Cadillac) - 0 points
+
+22. Sergio Perez (Cadillac) - 0 points
+
+## **Constructor standings ahead of Dutch GP**
+
+1. Mercedes - 379 points
+
+2. Ferrari - 307 points
+
+3. McLaren - 220 points
+
+4. Red Bull - 177 points
+
+5. Racing Bulls - 66 points
+
+6. Alpine - 61 points
+
+7. Haas - 21 points
+
+8. Audi - 12 points
+
+9. Williams - 11 points
+
+10. Aston Martin - 1 point
+
+11. Cadillac - 0 points
+
+## **What is the 2026 race calendar?** 
+
+### ROUND 12 - NETHERLANDS *(sprint weekend)*
+
+Circuit Zandvoort - 21-23 August
+
+### ROUND 13 - ITALY
+
+Monza Circuit - 4-6 September
+
+### ROUND 14 - SPAIN (Madrid)
+
+Circuito de Madring - 11-13 September
+
+### ROUND 15 - AZERBAIJAN
+
+Baku City Circuit - 25-27 September
+
+### ROUND 16 - MALAYSIA/BAHRAIN
+
+Sepang International Circuit - 2-4 October
+
+### ROUND 17 - SINGAPORE *(sprint weekend)*
+
+Marina Bay Street Circuit - 9-11 October
+
+### ROUND 18 - UNITED STATES
+
+Circuit of the Americas, Austin - 23-25 October
+
+### ROUND 19 - MEXICO
+
+Autodromo Hermanos Rodriguez, Mexico City - 30 October-1 November
+
+### ROUND 20 - BRAZIL
+
+Interlagos Circuit, Sao Paulo - 6-8 November
+
+### ROUND 21 - LAS VEGAS
+
+Las Vegas Street Circuit - 19-21 November
+
+### ROUND 22 - QATAR
+
+Lusail International Circuit - 27-29 November
+
+### **ROUND 23 - ABU DHABI** 
+
+Yas Marina Circuit - 4-6 December
