@@ -47,7 +47,8 @@ jobs:
           set -euo pipefail
           CONTENT_DIR="content"
           MONTHS="${{ github.event.inputs.retention_months || '1' }}"
-          DRY_RUN="${{ github.event.inputs.dry_run == true && '1' || '0' }}"
+          # github.event.inputs are strings, so check both string 'true' and boolean true
+          DRY_RUN="${{ (github.event.inputs.dry_run == true || github.event.inputs.dry_run == 'true') && '1' || '0' }}"
           CUTOFF=$(date -d "${MONTHS} months ago" +%Y%m%d)
           CUTOFF_DISPLAY="${CUTOFF:0:4}-${CUTOFF:4:2}-${CUTOFF:6:2}"
           echo "Today:               $(date -u +%Y-%m-%d)"
@@ -79,9 +80,10 @@ jobs:
           echo "removed_day_dirs=$COUNT" >> "$GITHUB_OUTPUT"
           echo "months=$MONTHS" >> "$GITHUB_OUTPUT"
           echo "has_removals=$([ "$COUNT" -gt 0 ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+          echo "dry_run=$DRY_RUN" >> "$GITHUB_OUTPUT"
 
       - name: Commit deletions
-        if: ${{ steps.prune.outputs.has_removals == '1' && github.event.inputs.dry_run != true }}
+        if: ${{ steps.prune.outputs.has_removals == '1' && steps.prune.outputs.dry_run != '1' }}
         run: |
           git add -A content/
           if git diff --cached --quiet; then
@@ -94,7 +96,7 @@ jobs:
           fi
 
       - name: Dry-run summary
-        if: ${{ steps.prune.outputs.has_removals == '1' && github.event.inputs.dry_run == true }}
+        if: ${{ steps.prune.outputs.has_removals == '1' && steps.prune.outputs.dry_run == '1' }}
         run: |
           echo "Dry run: would have removed ${steps.prune.outputs.removed_day_dirs} day directory(ies) of articles."
           echo "Re-run without 'dry_run' to apply."
