@@ -1,0 +1,100 @@
+name: Archive old articles
+
+# Removes articles older than the retention window. Runs at a different time
+# of day than the scrape workflow to avoid concurrent writes to content/.
+on:
+  schedule:
+    # Daily at 05:30 UTC
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+    inputs:
+      retention_months:
+        description: "Remove articles older than this many months"
+        required: false
+        type: string
+        default: "1"
+      dry_run:
+        description: "Dry run (no commits/pushes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "archive-old-articles"
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    name: Archive articles older than ${{ github.event.inputs.retention_months || '1' }} month(s)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: Configure Git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Remove old articles
+        id: prune
+        run: |
+          set -euo pipefail
+          CONTENT_DIR="content"
+          MONTHS="${{ github.event.inputs.retention_months || '1' }}"
+          DRY_RUN="${{ github.event.inputs.dry_run == true && '1' || '0' }}"
+          CUTOFF=$(date -d "${MONTHS} months ago" +%Y%m%d)
+          CUTOFF_DISPLAY="${CUTOFF:0:4}-${CUTOFF:4:2}-${CUTOFF:6:2}"
+          echo "Today:               $(date -u +%Y-%m-%d)"
+          echo "Cutoff (keep newer): $CUTOFF_DISPLAY"
+          echo "Retention:           ${MONTHS} month(s)"
+          echo "Dry run:             $DRY_RUN"
+
+          COUNT=0
+          # Each article day lives in content/<YYYY>/<MM>/<DD>/.
+          # Remove any whose date is strictly older than the cutoff.
+          while IFS= read -r -d '' day_dir; do
+            rel="${day_dir#${CONTENT_DIR}/}"
+            IFS='/' read -r year month day <<< "$rel"
+            article_date="${year}${month}${day}"
+            if [ "$article_date" -lt "$CUTOFF" ]; then
+              echo "  removing: $rel (date=$article_date < $CUTOFF)"
+              if [ "$DRY_RUN" != "1" ]; then
+                rm -rf "$day_dir"
+              fi
+              COUNT=$((COUNT + 1))
+            fi
+          done < <(find "$CONTENT_DIR" -mindepth 3 -maxdepth 3 -type d -print0)
+
+          # Tidy up directories emptied by the removal above.
+          if [ "$COUNT" -gt 0 ] && [ "$DRY_RUN" != "1" ]; then
+            find "$CONTENT_DIR" -mindepth 1 -type d -empty -delete 2>/dev/null || true
+          fi
+
+          echo "removed_day_dirs=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "months=$MONTHS" >> "$GITHUB_OUTPUT"
+          echo "has_removals=$([ "$COUNT" -gt 0 ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+
+      - name: Commit deletions
+        if: ${{ steps.prune.outputs.has_removals == '1' && github.event.inputs.dry_run != true }}
+        run: |
+          git add -A content/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            DELETED=$(git diff --cached --name-only --diff-filter=d | wc -l)
+            echo "Staged $DELETED file deletion(s)."
+            git commit -m "archive: remove articles older than ${{ steps.prune.outputs.months }} month(s) [$(date -u +%Y-%m-%d)]"
+            git push
+          fi
+
+      - name: Dry-run summary
+        if: ${{ steps.prune.outputs.has_removals == '1' && github.event.inputs.dry_run == true }}
+        run: |
+          echo "Dry run: would have removed ${steps.prune.outputs.removed_day_dirs} day directory(ies) of articles."
+          echo "Re-run without 'dry_run' to apply."
