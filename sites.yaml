@@ -117,7 +117,9 @@ sites:
 
   - name: The Independent
     slug: independent
-    feed: https://www.independent.co.uk/rss
+    # Homepage /rss mixes in sport, arts/entertainment, lifestyle and AP
+    # bulletins. The News section feed keeps it to straight news coverage.
+    feed: https://www.independent.co.uk/news/rss
     limit: 100
     categories: [News, UK, World]
 
