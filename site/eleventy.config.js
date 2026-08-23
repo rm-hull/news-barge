@@ -289,6 +289,14 @@ export default function (eleventyConfig) {
   // ── Passthrough ───────────────────────────────────────────────────────────
   eleventyConfig.addPassthroughCopy({ 'public/css': 'css' });
   eleventyConfig.addPassthroughCopy({ 'public/js': 'js' });
+  eleventyConfig.addPassthroughCopy({
+    'public/favicon.svg': 'favicon.svg',
+    'public/favicon.ico': 'favicon.ico',
+    'public/apple-touch-icon.png': 'apple-touch-icon.png',
+    'public/icon-192.png': 'icon-192.png',
+    'public/icon-512.png': 'icon-512.png',
+    'public/site.webmanifest': 'site.webmanifest',
+  });
 
   // ── Config ────────────────────────────────────────────────────────────────
   return {
