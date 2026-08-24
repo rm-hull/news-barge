@@ -1,0 +1,38 @@
+---
+title: Former world snooker champion Graeme Dott found guilty of sexually abusing
+  children
+source_url: https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-24T16:51:08Z'
+published: '2026-08-24T00:00:00Z'
+description: Five-day trial at high court in Glasgow heard Dott subjected a girl and
+  a boy to multiple incidents of abuse
+image: https://i.guim.co.uk/img/media/1b91859d4ce2f1c824e5cd608e6f26b15d82920c/635_238_4894_3916/master/4894.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c24b80afd63c055260a9d64bfb87fcc3
+---
+
+The former world snooker champion Graeme Dott has been found guilty of sexually abusing two primary school age children. The 49-year-old subjected a girl and a boy to multiple incidents of abuse, with the girl targeted between 1993-96 and the boy between 2006-10.
+
+A five-day trial at the high court in Glasgow heard Dott exposed himself in front of both children, touched them inappropriately, and kissed them. On Monday, he was found guilty of two counts of lewd, indecent and libidinous behaviour towards them. In both cases the abuse happened in the Glasgow area.
+
+During the trial, jurors heard from one of Dott’s victims, a woman now in her 40s, who told the court Dott had sexually abused her on multiple separate occasions while she was a child. She said the abuse had started with Dott “caressing” her bottom over her clothing while giving her a piggyback.
+
+The woman also described an occasion when she said Dott suggested playing a “guessing game” where she had to guess what he was doing. She told the court she lay down and he exposed himself to her and then began touching her with different parts of his body, including his penis. The woman told the court that Dott told her not to tell anyone he was sexually abusing her.
+
+The second victim, a man who is now in his late 20s, said he was sexually abused by Dott on multiple occasions, with the snooker player touching him inappropriately, kissing him and performing sexual acts. He told the court a lot of the abuse took place while he was in a shower, when Dott would come in either partly or completely undressed.
+
+“He would … come into the shower and put soap on my body and wash me in the shower,” the man told the court. “While he was washing me he would touch me in inappropriate places.”
+
+He said looking back at it now, Dott was “clearly getting sexual gratification from it”, and he was “pleasuring himself” while this was taking place. The man said that because of his age at the time, he “did not know what was going on”, and it was only later he realised the interaction “wasn’t right”. The witness also described abuse which took place in a car, where he said Dott would kiss him on the face, head and lips and “push himself up against me”.
+
+Giving evidence last week, Dott had said there was “absolutely no way” he sexually abused two children. Under cross-examination by prosecutor Lindsey Dalziel, Dott denied being attracted to the girl when she was young, calling the idea “disgusting”.
+
+When Dalziel put it to Dott that he touched the first victim and told her what to do, he denied the allegation and called it “lies”. Speaking about the second victim, Dott said he was “never in my company” and denied all allegations of abuse.
+
+In her closing speech on Friday, Dalziel called on the jury to find Dott guilty of both charges. She said: “The Crown’s case is that Graeme Dott subjected vulnerable children to the worst kind of abuse with a course of conduct which relied on opportunity, for his own gratification.”
+
+Dott’s lawyer, Euan Dow, had invited jurors to clear his client of both charges. But Dott, who won the World Snooker Championship in 2006, was found guilty on Monday following the trial which began on 18 August, with verdicts by majority.
+
+Judge Lord Harrower told him: “You have been convicted of charges involving sexual abuse of young children. I will refrain from passing comment further on any of these offences until I receive a background report from a social worker as I must in order to consider the full range of sentences open to me. You must register your name and address with the police so your name can be added to the sex offenders register.”
+
+He deferred sentence until 29 September at the high court in Edinburgh. Dott was remanded in custody.
