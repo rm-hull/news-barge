@@ -1,0 +1,30 @@
+---
+title: Palace gives health update on Norway’s King Harald as 89-year-old remains in
+  hospital
+source_url: https://www.independent.co.uk/news/world/europe/king-harald-norway-health-hospital-latest-b3038080.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-24T11:48:11Z'
+published: '2026-08-24T00:00:00Z'
+description: King Harald of Norway's health has deteriorated, according to the royal
+  palace
+image: https://static.independent.co.uk/2026/06/23/15/2276683971..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+The health of King Harald of Norway deteriorated over the weekend, the royal palace has said.
+
+The 89-year-old monarch, who has been on sick leave for several weeks, was admitted to the National Hospital a week ago. He has been on sick leave for several weeks.
+
+He is now receiving antibiotics for a bacterial blood infection and has responded to treatment, the palace said late Sunday, adding that his condition is stable.
+
+His son, Crown Prince Haakon, has been serving as regent during that time, the palace said.
+
+The king suffers from hemolytic anemia and was being treated with cortisone, leading to fluid accumulation in the body that required hospital treatment, the palace said last week.
+
+Harald has been in and out of the hospital several times in recent years.
+
+In February, he was admitted to a hospital in Spain’s Canary Islands during a winter vacation. He was treated for a skin infection at the time.
+
+Two years ago, the king fell ill during a private vacation with the queen in Malaysia and received a temporary pacemaker there. Harald returned aboard a medical airplane to Norway, where he was fitted with a permanent pacemaker.
+
+Harald has been Norway’s monarch since 1991.

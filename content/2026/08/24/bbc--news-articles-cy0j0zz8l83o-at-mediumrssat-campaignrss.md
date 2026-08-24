@@ -1,0 +1,110 @@
+---
+title: '''Half of my business will be gone'' - Bracing for fallout in the Canada-US
+  trade war'
+source_url: https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-24T11:46:14Z'
+published: '2026-08-24T00:00:00Z'
+description: Business owners in both countries are navigating uncertainty and worry
+  as the tit-for-tat import taxes ratchet up.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg
+---
+
+![Cindy Baldassi is in the foreground wearing sunglasses and a dark hoody and navy blue dress. She is looking at the camera and behind her is a beautiful blue lake and towering mountain peaks with snow on top of them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/327a/live/4f7e5860-9fa0-11f1-a291-b542ee92de7c.jpg)
+
+Most of Cindy Baldassi's US sales will be wiped out, she says
+
+**Cindy Baldassi relies on American buyers to keep her stone-and-glass jewellery company going.** 
+
+Some 75% of sales of pieces including amethyst, sea glass and agates from her business, CindyLouWho2, based in Calgary, Alberta, come from Americans. 
+
+But after trade talks between the US and Canada collapsed over the weekend and leaders of both countries pledged to slap 50% tariffs on each other's products, business owners on both sides of the border are bracing for the fallout.
+
+With a majority of the items she sells falling under US President Donald Trump's newly imposed tariffs, Baldassi says she will need to add 50% to the price of most of her products to stay afloat.
+
+"It's quite likely that it will wipe out most of my US sales," Baldassi told the BBC. "I expect that at least half of my business will be gone."
+
+Canadian Prime Minister Mark Carney has pledged levies starting on 8 September on US steel, dairy, appliances and electronics. Trump tariffs went into effect on Saturday, hitting Canadian wine, dairy, cement, clothing and hockey equipment.
+
+## 'We may get killed'
+
+In Canada, it is not clear how much more severe the impacts will be, since the country has grown somewhat used to the on-again-off-again trade war.
+
+Lind Furniture has been in business for almost 60 years in the Canadian province of Ontario, selling leather furniture to big store clients like Sears and Costco over the years.
+
+Sales dropped when Trump took office in 2025. "As soon as there were tariffs in the air, people put purchases on hold," Michael Saifer, general manager of Lind Furniture, told the BBC.
+
+Now, his concern centres around Canadians' chances for victory.
+
+"Everyone wants to sell to the Americans - they can buy from whoever they want," he said. "I don't know that we're going to win a war with them; we may get killed."
+
+The US tariffs that took effect after talks broke off on Friday apply to about $20bn (£15bn; C$28bn) worth of Canadian exports to the US - about 5% of what Canada ships to the US annually. The levies add to US tariffs already in place on Canadian steel, aluminium, automobiles and lumber.
+
+Canada would be very exposed if the import taxes multiply on both sides because 70% of its exports are to the US.
+
+Navigating what comes next as both sides are dug in is proving a delicate balance for some business owners.
+
+![Matteo Sgaramella sits on a concrete slab with the skyline of Toronto in the background](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/8d74/live/88491fd0-9f5b-11f1-afe5-dbb1b019f3db.jpg)
+
+Matteo Sgaramella
+
+Like many retailers, Matteo Sgaramella, founder of Toronto-based menswear brand Outclass, told the BBC that his company collects orders from clothing designers months before they are due to arrive in stores.
+
+Products that US stores ordered in January will arrive in September but now with a new tariff.
+
+"If I contact them now and tell them, hey, you know, you may get an extra 50% bill from UPS on top of what you need to pay me for this shipment, they're all going to say, 'no way, don't ship it,'" Sgaramella said.
+
+He still has to figure out where that additional cost will go.
+
+"There's going to be a lot of people that go out of business because of this," Sgaramella said, but noted that only 20% of his wholesale sales and 20% of his e-commerce come from the US.
+
+"Big business can, you know, always find a way... but small businesses are going to get smashed by this."
+
+## 'It's going to get worse before it gets better'
+
+The impacts are not only being felt north of the US-Canada border. Carney promised his tariffs hitting US products in September will match Trump's "dollar-for-dollar". Details of the countermeasures will be released in the coming days, he said.
+
+For Mike Roach and Kim Osgood, owners of Paloma Clothing, a clothing store in Portland, Oregon, that means preparing for one of their best-selling items to potentially increase sizably in price.
+
+Osgood creates designs that she has a Montreal-based company transfer onto pillows the couple sells in their store.
+
+![Mike Roach and Kim Osgood outside their shop](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/acd4/live/6ba558a0-9f59-11f1-a3b0-ad35dfa813f1.jpg)
+
+Mike Roach and Kim Osgood
+
+Those pillows are their best-selling gift item, retailing at $59. With the newly imposed tariffs, a normal markup would bring the price of that pillow to somewhere between $86 and $90, Osgood told the BBC.
+
+"Gift items are really price-point sensitive; people have in their mind what they're going to pay for a gift, and they're not going to pay more than that," Roach said.
+
+The couple, whose shop has been operating for 51 years, say they will likely hold the original price and hope the "tariff problem," as Roach calls it, gets worked out.
+
+"It would be one thing if we had three months' notice; that would be something you could plan around, do some work with the vendors, but when it happens literally overnight you're really stuck," he said.
+
+![Pillows on a shelf](https://ichef.bbci.co.uk/ace/standard/496/cpsprodpb/aea9/live/c87d0480-9f5c-11f1-b109-879e35c24276.jpg)
+
+Pillows for sale at Paloma Clothing
+
+While the tariffs could mean changes for the Paloma Clothing company, other American companies are facing the same battle they have faced since Trump returned to office and began imposing his levies.
+
+Bill Easton, owner of Terre Rouge Wines in Plymouth, California, has been unable to ship his wine north to Canada for the past year and a half due to a boycott of US alcohol.
+
+He is currently paying $2,400 a month to store that wine in a warehouse in the hope that he will one day be able to ship it to the Canadian markets he sells to.
+
+"The wine has just gotten better in the warehouse, but I can't expect my customer in Canada to pay that extra cost that I've assumed over the last year and a half as part of the price, if I was able to sell it tomorrow," Easton told the BBC.
+
+And then there are the American businesses impacted by proximity to the Canadian border.
+
+The number of Canadian customers travelling across the border to shop at Heather Seevers' craft shop, Northwest Yarns and Mercantile in Bellingham, Washington, has gone down some 20% since the tariff war began over a year ago. What has further irked Canadians has been Trump musing on Canada becoming a 51st US state.
+
+The shop sits 25 minutes from the US-Canada border and since the "war" ensued Seevers said her business received emails from Canadian customers saying they could not patronise her business "due to anti-Canadian rhetoric".
+
+"We completely understood that," she said.
+
+But the combined impact of fewer customers and higher prices has left the shop asking for help from the community recently via a fundraising initiative to stay afloat.
+
+And then, over the weekend, when the new tariffs struck, Seevers saw another hurdle appear.
+
+"It's going to get worse before it gets better," she said. "It's going to take years and years and years to get a relationship back with Canada, and I think these new tariffs are digging us deeper into a hole."
+
+*Additional reporting from Nadine Yousif*
