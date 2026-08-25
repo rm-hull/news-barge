@@ -1,0 +1,54 @@
+---
+title: Australia may face a rush of datacentre construction as AI firms look to dodge
+  upcoming rules, experts say
+source_url: https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-08-25T16:50:58Z'
+published: '2026-08-25T00:00:00Z'
+description: Regulations will require new sites to avoid pushing up power prices by
+  building renewable energy plants and minimising water use
+image: https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da167a063e0d57be2a75a4bc255f0117
+---
+
+Planned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.
+
+The prime minister is aiming to come to an agreement with national cabinet on federal regulations for datacentres at a meeting on Wednesday.
+
+The rules will require datacentres to avoid pushing up power prices – including by bringing renewable energy to the grid to cover their electricity demands – while meeting their own connection costs and minimising water use.
+
+Developers will also need to ensure their datacentres are appropriately sized and located away from schools, homes, potential housing or agricultural locations.
+
+However, the rules will not be retrospective. This means any project that’s been approved before the legislation passes next year will only be subject to existing state or territory laws.
+
+The Australian Energy Market Operator (Aemo) reported on Tuesday there were 225 datacentres in development, and electricity demand from them was expected to grow from 5 to 34 terawatt hours by 2036.
+
+There is uncertainty over the number of projects that will ultimately go ahead. More than 40% of datacentre projects since Aemo’s 2025 report either dropped off the list or regressed in status.
+
+But some of the projects currently in the pipeline could receive approval before the new rules apply.
+
+The New South Wales government is now considering a 90MW datacentre about 9km from Sydney’s CBD. Named Project Mars, the three-storey centre will cover 22,000sqm near Lane Cove River under current plans.
+
+Goodman Group, the company behind the project, is consulting with the community about the proposal, amid strong local pushback in an area where five datacentres are already approved or being proposed.
+
+The project’s website states it will use existing power, and 3.5ML a day of water from Sydney Water should it go ahead. There will be 200kW-worth of solar panels on the building, but the company has limited information on more renewables to offset its power demands, stating it is “exploring opportunities to source additional renewable generation to support its proposed datacentre rollout in Australia.”
+
+Sasha Titchkosky, a representative of Lane Cove Responsible Planning group, said developers should consider the potential damage to their brand should they proceed with datacentre projects under the old rules. But she said governments should enact a moratorium on approvals until the new rules are in place.
+
+“At the very least, a moratorium on approvals in established residential areas … [it]seems to me that would be the responsible thing for governments to do,” Titchkosky said.
+
+after newsletter promotion
+
+“I don’t think it’s an unreasonable ask, to actually have the government doing what they should be doing to protect the citizens.”
+
+Goodman Group was approached for comment.
+
+Prof Crystal Legacy, an urban planning researcher at the University of Melbourne, said developers would probably want to get in “before the new regulatory levers come into play”. She warned that state governments, which may try to fast-track applications before new rules come into effect, would do so “at your political peril.”
+
+“People are now noticing, and there’s always going to be a political backlash,” Legacy said.
+
+“We call people Nimbys, but I think that’s an unfair characterisation for people who are just concerned about the environmental impacts, as well as the amenity impacts of these massive datacentres.”
+
+The Greens have previously called for a moratorium on approvals until the new rules are in place.
+
+While Albanese works to get the states and territories to sign off on his proposed changes, the community pressure is likely to continue, with a federal inquiry into datacentres currently accepting submissions, along with state inquiries in NSW and Tasmania.
