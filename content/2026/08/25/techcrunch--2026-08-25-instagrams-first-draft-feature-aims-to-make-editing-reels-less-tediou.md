@@ -1,0 +1,30 @@
+---
+title: Instagram’s 'First Draft' feature aims to make editing Reels less tedious |
+  TechCrunch
+source_url: https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/
+source_site: TechCrunch
+source_slug: techcrunch
+scraped_at: '2026-08-25T20:41:01Z'
+published: '2026-08-25T00:00:00Z'
+description: Instagram is making one of the most tedious parts of creating Reels easier.
+  The company announced Tuesday in a Threads post that it’s rolling out “First
+image: https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801
+---
+
+Instagram is making one of the most tedious parts of creating Reels easier. The company announced Tuesday in a Threads post that it’s rolling out “First Draft,” a new editing feature that automatically trims selected video clips and removes pauses, pulling together the best moments into an initial cut.
+
+Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don’t have much experience with editing software. Instead of manually working through every clip, creators can start with an automatically assembled draft and refine it from there.
+
+First Draft is initially rolling out on iPhone. Users can access it directly from Instagram’s camera while recording or from the Reels gallery after selecting multiple clips.
+
+![](https://techcrunch.com/wp-content/uploads/2026/08/Instagram-FirstDrafts.png?w=680)
+
+**Image Credits:** Instagram
+
+The feature itself isn’t revolutionary. Similar automated editing tools already exist in products such as Adobe Firefly’s Quick Cuts and CapCut’s Auto Cut. But Instagram’s decision to build the functionality directly into its own app gives creators less reason to move footage into a separate editor.
+
+Instagram has introduced several creator tools this year, such as a “Replace Audio” tool that lets users swap the music on existing feed posts and carousels without deleting and re-uploading them. The company is also working on launching a new AI assistant in its video-editing app Edits.
+
+Additionally, it has been testing “Series,” which lets creators group related Reels together so viewers can watch them in a specific order, potentially turning individual short videos into more structured content.
+
+Notably, First Draft was announced on the same day that Instagram head Adam Mosseri is expected to testify in Meta’s high-profile social media addiction trial. The lawsuit accuses Meta of designing Instagram and Facebook in ways that encouraged children to use the platforms compulsively while failing to address potential harms. Meta has rejected the allegations.
