@@ -1,0 +1,61 @@
+---
+title: Andy Burnham refuses to rule out tax rises in autumn Budget
+source_url: https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-25T08:55:02Z'
+published: '2026-08-25T00:00:00Z'
+description: Experts have warned that he and Chancellor John Healey will have little
+  room to manoeuvre in their first Budget.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg
+---
+
+![Andy Burnham reacts as he stands in a metro carriage among passengers during the journey between the metro stations Zoloti Vorota and Lukanivska on August 24, 2026 in Kyiv, Ukraine.](https://ichef.bbci.co.uk/ace/standard/936/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg)
+
+Andy Burnham has refused to rule out tax rises in the autumn Budget
+
+**Andy Burnham has refused to rule out tax rises in the upcoming autumn Budget, saying he "won't be unrealistic" about the "challenging" state of public finances.**
+
+The prime minister said he would take a "careful approach" to the economy, and defended his previously announced cost of living pledges as funded spending commitments.
+
+Burnham became prime minister in July promising to give people breathing space and help with the cost of living, but questions remain over how major policies such as social care reforms will be funded.
+
+Experts have previously warned that he and Chancellor John Healey will have little financial room to manoeuvre in their first Budget on 28 October.
+
+Speaking during his first visit to Ukraine, Burnham said the policies announced so far including capping bus fares at £2 and cutting VAT on household electricity bills were "the first steps that I've felt able to make", and were doable because he was able to reprioritise funding from elsewhere.
+
+"I took the decision early on that digital ID wasn't the top priority for now. And so we've reprioritised funding to other priorities," he said in an interview with ITV.
+
+Asked if the public needed to accept some of the new policies would have to be paid for in tax rises, Burnham said they wouldn't necessarily have to accept that.
+
+Pushed on whether he would need to raise taxes to cover spending gaps, he said: "I will always take a careful approach to things. I ran Greater Manchester for 10 years and we ran a very tight ship with rock solid finances.
+
+"Nothing will change as I come into this role as prime minister. I won't take risks with people's jobs or their livelihoods or their family finances.
+
+"I will try to help them in whatever way I can, I have already done some things that will help them."
+
+Burnham previously told the BBC he accepts his earlier announcements aimed at tackling the cost of living are not enough on their own and hinted at further support.
+
+Speaking during his first official overseas visit on Monday, he said while he would do what he could, "I won't be unrealistic and people really need to understand that.
+
+"We are in a challenging position, whatever I do will be carefully thought through, it will be funded and there will be more to come as we go into the autumn."
+
+Last week official figures showed the the government borrowed more than expected in July, despite a record month for income tax receipts.
+
+Inflation also reached a four-month high of 2.9% in July and is expected to rise further due to the ongoing impact of the Iran war, which has hit energy prices and fuel costs.
+
+Experts have warned Burnham and Healey that they need to either raise taxes or cut spending elsewhere as pressure on the public finances has left no room for extra borrowing.
+
+Both the prime minister and chancellor have vowed to stick to the fiscal rules set by former chancellor Rachel Reeves.
+
+The rules are designed to ensure day-to-day spending is funded through tax revenue by the end of the Parliament, and to reduce debt as a proportion of GDP.
+
+Rain Newton-Smith, the chief executive of the Confederation of British Industry, said business owners wanted to create opportunities for young people but "the cost of employing people has gone up so much".
+
+"The business leaders I speak to say that the cost of doing business has gone up so much that it's holding them back from creating opportunities," she told the Today programme.
+
+She said targeted support for businesses would create "more growth and more opportunities that saves money for the government and ultimately leads to higher tax receipts".
+
+![Your Voice banner image. Your Voice is written in white against a purple background.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d048/live/80825d90-55a8-11f1-b682-cf91850925ea.png)
+
+![Thin, red banner promoting the Politics Essential newsletter with text saying, “Top political analysis in your inbox every day”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6133/live/2bce6ee0-0b00-11f0-97d3-37df2b293ed1.png)

@@ -1,0 +1,26 @@
+---
+title: Omega Just Released a Mini Moonwatch
+source_url: https://www.wired.com/story/omega-just-released-a-mini-moonwatch/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-08-25T08:55:35Z'
+published: '2026-08-25T00:00:00Z'
+description: Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.
+image: https://media.wired.com/photos/6a8d4a7500aa0aeb44d47176/191:100/w_1280,c_limit/32430385001002_SP_Packshot_ThreeQuarter_4x5_RVB.jpg
+---
+
+I have skinny wrists. So skinny, in fact, that during the craze from the late 1990s to early 2010s, when watch cases started to tip over 48 mm, it became hard to find pieces that suited those of us not blessed (or cursed) with Schwarzenegger-sized forearms. Thankfully, watch case sizes have calmed down considerably since then, and now it's easy to find smaller models, particularly around that 38- to 40-mm Goldilocks zone.
+
+This brings us neatly to Omega's latest collection of Speedmasters, all of which come in that ideal 38-mm size. The seven references in new color variations have been tweaked to improve the existing 38-mm Speedy collection. The most notable improvement? The oval subdials have been banished in favor of proper rounded versions seen on the Moonwatch. The bezels have also been overhauled in Moonwatch style and are now thicker with the essential Dot-Over-Ninety.
+
+Across the new collection, two self-winding movements power the pieces. The Caliber 3330 powers the six references with date functions, including a $11,700 “cappuccino” style version with an ivory-color main dial, contrasting brown PVD-coated subdials, a stainless steel case, and an 18K Sedna gold bezel.
+
+It's the seventh Black Dial reference with no date that's the pick of the bunch, however, powered by the Caliber 3332. Omega positions the $6,500 watch as much more “closely aligned with the signature look of the Moonwatch,” which it certainly is, compared to the existing black 38-mm model with a date window and inferior bezel design.
+
+The reduced sizing, clean, uncluttered black matte-finish varnished dial, Moonwatch-style five-link bracelet, and much-improved black aluminum bezel bring to mind the classic Speedmaster Reduced from the late 1980s. A friend of mine has a Reduced, and I have coveted it for years as, when I see it, it always looks the perfect size on the wrist.
+
+Launched in 1988, the Speedmaster Reduced had an ideal 38.5-mm case size, rather than the 38 mm in this new model. Other subtle differences include the crown position on the Reduced, which is lower and visibly offset from the pushers, and the bezel doesn't have the Dot-Over-Ninety, either.
+
+The biggest giveaway that this is not a faithful reissue of the Reduced is that the subdials are in different positions. On the Reduced, the layout was running seconds at 3, 12-hour totalizer at 6, and 30-minute totalizer at 9. On this 38 mm, it's reversed, with the 30-minute totalizer at 3, and running seconds at 9, just as on the larger Moonwatch.
+
+So perhaps it's best to think of this enticingly sized new 38-mm black Speedy as a “mini Moonwatch,” as it shares more design cues with the iconic Speedmaster, even if its diminutive dimensions conjure up memories of the Reduced models from the ’80s. Either way, the 38-mm’s price makes it the cheapest black-dial “Moonwatch” Speedmaster now available, which is most welcome—and it's a rare thing indeed to be rewarded for having skinny wrists.

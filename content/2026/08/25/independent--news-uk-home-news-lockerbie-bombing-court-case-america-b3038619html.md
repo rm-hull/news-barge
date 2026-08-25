@@ -1,0 +1,57 @@
+---
+title: Judge postpones trial for man charged in Lockerbie bombing over ‘new evidence’
+source_url: https://www.independent.co.uk/news/uk/home-news/lockerbie-bombing-court-case-america-b3038619.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-25T08:55:50Z'
+published: '2026-08-25T00:00:00Z'
+description: The explosion killed all 259 passengers and crew members and 11 people
+  on the ground in Lockerbie
+image: https://static.independent.co.uk/2026/08/24/23/Lockerbie_Suspect_Trial_66843.jpg?width=1200&height=800&crop=1200:800
+---
+
+The US trial of a former Libyan intelligence operative accused over the 1988 Pan Am Flight 103 bombing has been delayed after fresh evidence came to light, a federal judge ruled on Monday. Defence attorneys requested time to review the material in the case, which spans nearly four decades.
+
+Jury selection was due to start on Wednesday in Washington, D.C., for Abu Agila Mohammad Mas’ud Kheir Al-Marimi, in what will be the first trial held in the US regarding the attack on 21 December 1988.
+
+An order issued by U.S. District Judge Dabney Friedrich did not elaborate on the nature of the newly revealed details. Al-Marimi’s legal team said prosecutors disclosed the evidence on Saturday, adding that their "constitutional and ethical obligations require the defense to investigate this development."
+
+A status hearing in Washington has been scheduled for 1 September to discuss the case.
+
+Al-Marimi is charged in the US with building the bomb that destroyed the aircraft, killing 270 people, mostly Americans. Flight 103 was travelling from London Heathrow Airport to John F. Kennedy International Airport in New York when the device exploded in the forward cargo area 38 minutes after takeoff, 31,000 feet (9.45 kilometres) above Lockerbie.
+
+![The artist sketch depicts Assistant U.S. Attorney Erik Kenerson, front left, watching as Whitney Minter, a public defender from the eastern division of Virginia, stands to represent Abu Agila Mohammad Mas'ud Kheir Al-Marimi, accused of making the bomb that brought down Pan Am Flight 103 over Lockerbie, Scotland, in 1988, in federal court in Washington, Dec. 12, 2022, as Magistrate Judge Robin Meriweather listens. (Dana Verkouteren via AP)](https://static.independent.co.uk/2026/08/24/23/Lockerbie_Suspect_Trial_99483.jpg)
+
+The blast killed all 259 passengers and crew members and 11 people on the ground in Lockerbie, where the wreckage destroyed an entire city block. Citizens of 21 countries were killed, including 190 Americans and 43 from the United Kingdom. The passengers included 35 Syracuse University students returning home from a semester abroad.
+
+Prosecutors allege Al-Marimi and others carried out the bombing at the direction of Libyan leader Moammar Gadhafi, who was ousted and killed during a 2011 civil war.
+
+Two other Libyan intelligence agents were tried by a panel of Scottish judges on a former U.S. military base in the Netherlands in 2000. The tribunal convicted one official and acquitted the other, but the bombmaker’s possible identity remained a mystery for years.
+
+Kara Weipz, president of Victims of Pan Am Flight 103, lost her brother Rick Monetti in the atrocity and said she was shocked to hear of the postponement.
+
+She told BBC Radio Scotland’s Breakfast programme: “As we’re processing the shock, there’s a lot of, ‘I can’t believe this is happening’.
+
+“There’s so much anxiety leading into this week and obviously with jury selection this week, and with the anticipation of opening statements next week, people were getting ready to travel at the end of the week – and then knowing that all of a sudden it’s not happening right now, it’s just we have to live in this anxiety for however long until we actually get to trial.
+
+“And you know, everyone needs to stay healthy. You know, everything needs to fall into place. Everything still needs to work out right so that we can have this trial.”
+
+She added: “I was floored today when I found out, absolutely floored.”
+
+However, she said that while the postponement has come as a surprise, the delay could be worth it if the evidence helps discover more of the truth.
+
+She said: “That’s always been my goal… for as many family members to be able to witness this trial as possible, and to gain more of the truth.
+
+“And listen, if that’s what this evidence brings, that’s what the families have been fighting for for almost four decades.
+
+“We want the truth. We want to know what happened. And if that’s what this brings, then this time will be worth it.”
+
+A hearing is scheduled to take place in Washington next month to discuss the status of the case.
+
+Scottish prosecutors have always maintained that Megrahi acted with others in carrying out the attack.
+
+Commenting on the postponement, Laura Buchan, head of the Lockerbie investigation team at the Crown Office and Procurator Fiscal Service, said: “I recognise that this adjournment will be disappointing for the families and for those who have followed this case over many years.
+
+“As the matter remains before the court, it would not be appropriate to comment on the reasons for the adjournment.
+
+“Although these proceedings are being led by the United States authorities, Scottish prosecutors and police officers remain fully committed to supporting the pursuit of justice.”
