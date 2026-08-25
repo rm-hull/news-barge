@@ -1,0 +1,72 @@
+---
+title: Developer ordered to plant 100 new trees and building holiday lets in Yorkshire
+  woodland
+source_url: https://www.yorkshirepost.co.uk/country-and-farming/developer-ordered-to-plant-100-new-trees-and-building-holiday-lets-in-yorkshire-woodland-8940122
+source_site: Yorkshire Post
+source_slug: yorkshire-post
+scraped_at: '2026-08-25T13:07:18Z'
+published: '2026-08-25T00:00:00Z'
+description: Unauthorised works to a Yorkshire woodland area need to be removed and
+  100 trees planted in their place, a planning inspector has decided.
+image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiMWZkOWI1LTYwOTItNGUxNi04MTNlLTc1NTEwMTZmZjI5ZjplNzY5ZmRlYi1hYzYzLTQ3MTktODUxYy05Mzk2NGE0OTViZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+---
+
+# Developer ordered to plant 100 new trees and building holiday lets in Yorkshire woodland
+
+## Unauthorised works to a Yorkshire woodland area need to be removed and 100 trees planted in their place, a planning inspector has decided.
+
+The developer behind the works will also have to pay Bradford Council “significant” costs after their appeal against an enforcement notice failed.
+
+Works to create a series of holiday lets at Jacob’s Wood in Silsden had been carried out by a company called AZARA GIDA SAN.VE TIC.LTD.ŞTİ, despite no planning permission having been submitted for the protected Green Belt site.
+
+Earlier this year Bradford Council issued an enforcement notice calling for work on the site to halt, and for buildings and concrete pads and access roads to be removed.
+
+![The site of the work being carried out in Silsden](https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiMWZkOWI1LTYwOTItNGUxNi04MTNlLTc1NTEwMTZmZjI5ZjplNzY5ZmRlYi1hYzYzLTQ3MTktODUxYy05Mzk2NGE0OTViZTU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
+
+
+
+It also required the site’s owners to plant 300 trees on the site to repair the “irreplaceable” woodland.
+
+But the company appealed this enforcement notice, and during a four-day planning inquiry last month, a representative for the developer argued that the work had taken place over four years before the notice was issued.
+
+Under current planning laws, this would mean the development would be immune from enforcement.
+
+The inquiry saw planning inspector Paul Hocking grill both sides to determine whether the structures on the site were new, or had been there for years without the council realising.
+
+His judgement has now been released.
+
+He concluded two structures are likely to have been built over four years ago – and so can remain on the site – but the rest of the enforcement notice has been upheld.
+
+Making his findings, he said some of the evidence from photos of site and a visit he made during the inquiry “directly contradicts the appellant’s version of events.”
+
+Mr Hocking has also awarded Bradford Council permission to reclaim costs from the appellants.
+
+During the inquiry, the appellants claimed they were an “innocent party” and had bought the land after the work had already been done.
+
+A Mr Henderson, representing the company, argued the work to install new holiday lets on the site was carried out by the previous owners in and around 2020.
+
+This would mean the council was out of time to issue the enforcement notice
+
+But the authority questioned claims the buildings had been on the site that long ago, and argued work to develop the site seemed to be ongoing when officers visited in 2025 after first being informed of the development.
+
+At the inquiry, the inspector was told a sales brochure for the site compiled by Carter Jonas in 2024 made no mention of the development – despite the company claiming the buildings had already been in place for several years.
+
+In his findings, Mr Hockings criticised the fact a builder who would have been able to provide significant detail about the appellants case did not attend the inquiry because he was unavailable.
+
+He said: “The reason given simply of personal unavailability was not particularly convincing given he is said to remain involved in the site and was seemingly able to provide two invoices and a photograph to the appellant just days before the inquiry opened.
+
+“Put simply, the evidence of the builder potentially raised a number of points that could not be tested.”
+
+On claims landslides were responsible for the loss of many of the trees on the site, and not felling, the inspector’s decision said: “I do not accept that landslides are responsible for the majority loss of trees and because it is plain from the photographic evidence that stockpiling of the type and scale could not have been undertaken if trees had remained in situ.”
+
+Although two of the structures on the site have been deemed immune to enforcement by the decision, other structures, hard standings, septic tanks mounds of construction materials and some access roads will have to be removed.
+
+Bradford Council had originally demanded the applicants plant 300 trees to help the site recover from the works. The final decision instead amends that figure to 100.
+
+One reason for the appeal was the applicants claimed they had not been given enough time to carry out the works – six months to remove the structures and until March 2027 to plant the trees.
+
+The decision gives them 12 months to remove all the items from the site and 20 months to plant the 100 trees.
+
+The decision says: “Any longer period would accordingly unnecessarily perpetuate the breaches of planning control.”
+
+AZARA GIDA SAN.VE TIC.LTD.ŞTİ will also have to pay Bradford Council costs for the appeal, which the decision says will likely end up being “significant.”
