@@ -1,0 +1,29 @@
+---
+title: Robotics startup Generalist reaches $3B valuation, sources say | TechCrunch
+source_url: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
+source_site: TechCrunch
+source_slug: techcrunch
+scraped_at: '2026-08-26T01:54:44Z'
+published: '2026-08-25T00:00:00Z'
+description: The $200 million extension comes just months after the physical AI startup
+  reached a $2 billion valuation.
+image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849
+---
+
+Generalist, a robotics startup, is now valued at $3 billion after raising additional capital led by 8VC, according to two people with knowledge of the funding.
+
+The fresh capital totals nearly $200 million according to a regulatory filing. That additional capital is an extension of a $400 million Series B led by Radical Ventures that the company announced in June at a $2 billion valuation, the people said. The new capital brings the round’s total funding to $600 million.
+
+Generalist and 8VC didn’t respond to a request for comment.
+
+Generalist was founded in 2024 by former Google DeepMind researchers Pete Florence and Andy Zeng, along with former Boston Dynamics engineer Andrew Barry. It received early backing from 8VC and Radical Ventures as well as Nvidia, Union Square Ventures, Bezos Expeditions, and AI researcher Fei-Fei Li.
+
+Until recently, the startup operated quietly and with little publicity.
+
+Generalist is developing an AI foundation model that can work with various robots. It claims its newly released Gen 1.5 model enables robots to master new tasks from video demonstrations as short as 3 to 12 seconds long.
+
+The startup is working with a handful of customers, using their feedback to tailor the model for specific use cases, according to one source.
+
+Generalist isn’t alone in its pursuit of building a brain for a broad range of robots. Other competitors include Physical Intelligence, which is reportedly valued at $11 billion, and SoftBank-backed Skild AI, valued at $14 billion, as well as Genesis AI, which was in talks as of last month to raise capital at a $3 billion valuation.
+
+The funding surge reflects a bet from some investors that robotics may soon reach its own “ChatGPT moment,” meaning that robots will be able to perform general tasks without being explicitly trained for each one. However, because robots cannot be trained on the entirety of the internet’s data the way LLMs can, some VCs warn that a truly general robotics model may still be years away.
