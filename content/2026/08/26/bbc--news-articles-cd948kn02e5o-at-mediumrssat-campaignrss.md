@@ -1,0 +1,94 @@
+---
+title: What we know about deadly Nepal-Tibet floods
+source_url: https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-26T23:24:27Z'
+published: '2026-08-26T00:00:00Z'
+description: Hundreds are feared to have died in flooding and landslides on the border
+  of Nepal and Tibet.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg
+---
+
+Video shows scale of flash flood hitting Nepal-Tibet border
+
+**Massive landslides and flash floods on the Nepal-Tibet border have caused widespread damage and left hundreds dead or missing.**
+
+Search and rescue operations are under way. Chinese state media has said there are significant casualties, while Nepalese officials anticipate "huge scale loss".
+
+Here is what we know so far.
+
+![An aerial view of the flooded riverside with houses and buildings partially submerged at Trishuli Bazar in Nepal's Nuwakot district](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg)
+
+Building were submerged in Nepal's Nuwakot district
+
+## What caused the deadly landslide?
+
+Nepal's foreign minister earlier said an earthquake was reported on the Tibet-Nepal border shortly before the landslide, suggesting it may have triggered the disaster.
+
+But the United States Geological Survey's latest analysis suggests there was no earthquake, raising questions about what caused the landslide itself.
+
+![Map of central Nepal showing four flood-affected districts: Gorkha, Rasuwa, Nuwakot and Dhading. A marker north of Rasuwa, across the border in Tibet, indicates the epicentre of a magnitude 4.4 earthquake. Kathmandu is shown to the south-east of the affected area. An inset map locates the region within Asia.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/eeb0/live/9fab5190-a170-11f1-a291-b542ee92de7c.png)
+
+One possibility is that water from rainfall or melting ice may have destabilised the ground or ice, triggering a chain reaction.
+
+Climate change is known to be driving faster glacier melt in the Hindu Kush Himalaya region, but scientists say it is too soon to pinpoint its role in this specific event.
+
+Scientists are now trying to piece together the order of events.
+
+They'll be looking at satellite images of exactly where the landslide occurred, whether any glacial lakes suddenly drained, and where the river might have become blocked, as well as data on recent rainfall.
+
+Watch: BBC Nepali's Shreejana Shrestha is at a hospital in Kathmandu, where some survivors are being flown in by helicopter
+
+A deluge of material careered towards northern Nepalese towns, including areas popular with mountaineering tourists and pilgrims. The border is around 40 miles (64.4km) north of Nepal's capital city Kathmandu.
+
+Footage showed a wall of mud and rock sweeping away buildings, roads and vehicles, as people fled the fast-moving wave of material in the Nuwakot region.
+
+In one video, a towering wall of water and mud was seen rushing down a gorge along the Trishuli River and enveloping the Rasuvagadhi Border check point, a multi-storey building.
+
+Severe flooding have been reported along the Bhote Koshi, Trishuli and Narayani rivers.
+
+Deaths have also been reported in villages on the Tibetan side of the border.
+
+![A combination satellite images showing Khadga Bhanjyang on 23 August before the flash flood and 26 August after the flash flood. The first image shows the river with buildings near and the second shows flooding stretched out onto land](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/41a0/live/26518660-a162-11f1-aed2-8d6da8d75094.jpg)
+
+Satellite images of Khadga Bhanjyang on the Trishuli River three days apart show the scale of flooding
+
+## How many people are dead and missing?
+
+The number of people killed or missing is still becoming clear.
+
+Nepal police have reported 157 bodies have been found, while China, which controls Tibet, says at least three people have died.
+
+However, the eventual death toll is expected to be much higher.
+
+According to Nepal's tourism board, 403 people are thought to be missing, including 341 foreign nationals, many from India.
+
+Other foreign nationals from 26 countries are also thought to have been caught up in the landslide, including 47 people from the US and 33 from the UK.
+
+![Police officers carrying an elderly woman who survived the flash flood at Trishuli in Nuwakot district of Nepal](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/18b3/live/c3bd3520-a162-11f1-81f3-a1eb67c44aaf.jpg)
+
+## How are governments responding?
+
+Nepal's Prime Minister said "the entire nation has been left shocked and deeply distressed" and that officials would coordinate with China on the response.
+
+China's President Xi Jinping urged an "all-out" search effort, and promised stronger monitoring and early warning systems to prevent secondary impacts.
+
+In neighbouring India, Prime Minister Narendra Modi said his government was "prepared to provide Nepal with all possible types of humanitarian assistance".
+
+UK Prime Minister Andy Burnham said the British government will do "everything we can" to support British nationals in Nepal.
+
+Aerial footage shows flash flood on Nepal-Tibet border
+
+## What countries are the missing tourists from?
+
+Tourists from all over the world come to Nepal for its mountains and sacred sites. Official figures suggested at least 291 foreigners are among the missing, including:
+
+- **India** - the Nepal Tourism board said 142 nationals from neighbouring India were missing
+- **Ukraine** - Ukraine's Foreign Ministry said Nepal's Tourist Police informed them 53 Ukrainian nationals were missing
+- **Malaysia** - seventeen Malaysians travelling with Fishtail Tours and Travels and are missing in the floods, the board said
+- **United Kingdom** - Nepal Police have confirmed that 33 British nationals are missing
+- **Canada** - a tourism board spokesman in Nepal said that 24 Canadians have been reported missing
+- **US** - the latest update from Nepal's tourist board is that 54 US tourists are known to be among the missing
+
+Smaller numbers of travellers from South Korea, South Africa, Portugal, Australia and the Netherlands are also among the missing.
