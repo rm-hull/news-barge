@@ -1,0 +1,72 @@
+---
+title: 'Champions League draw: Champions Paris St-Germain to face Manchester City
+  and Aston Villa'
+source_url: https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-27T22:14:09Z'
+published: '2026-08-27T00:00:00Z'
+description: European champions Paris St-Germain will face Premier League duo Manchester
+  City and Aston Villa in the league phase of this season's Champions League.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/766b/live/f7c57550-a237-11f1-80a2-67c89a95284e.jpg
+---
+
+![A view of UEFA Champions League trophy ahead of UEFA Champions League phase draw](https://ichef.bbci.co.uk/ace/standard/879/cpsprodpb/766b/live/f7c57550-a237-11f1-80a2-67c89a95284e.jpg)
+
+The 2026-27 Champions League final will be held at Metropolitano Stadium in Madrid
+
+**European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa as well as five-time winners Barcelona in the league phase of this season's Champions League.** 
+
+The back-to-back Champions League winners will welcome Barca to Parc des Princes, while they were also handed trips to Villa Park and Manchester in the draw for the league phase.
+
+Premier League champions Arsenal, meanwhile, will host 15-time winners Real Madrid at Emirates Stadium, and have also been handed a trip to Bayern Munich.
+
+Mikel Arteta's men, who were beaten by PSG on penalties in the final last season, will face Borussia Dortmund, Real Betis, Lille, Napoli, Azerbaijan champions Sabah and Slavia Prague as well.
+
+Enzo Maresca's City will welcome PSG to Etihad Stadium and travel to Barcelona, where they will have a reunion with Spanish World Cup-winner Rodri, who moved to the Nou Camp in a £65m deal this summer.
+
+City will also be up against another of their former midfielders in Kevin de Bruyne when Napoli visit Manchester, with Sporting, Porto, RB Leipzig, AEK Athens and Lens their other opponents.
+
+Europa League winners Villa, returning to the competition after a season away, will host PSG and Dortmund and travel to Barcelona and Galatasaray.
+
+Unai Emery's side also face Club Brugge, Fenerbahce, Viking and Slavia Prague.
+
+Manchester United, returning after a two-year hiatus, will meet Bayern, Atletico Madrid, Roma, Sporting, Leipzig, Villarreal, Sabah and Como.
+
+Liverpool, meanwhile, host Atletico, Porto, Villarreal and Lens while visiting Inter Milan, Brugge, Fenerbahce and LASK.
+
+The first league-phase matches will be played on Tuesday, 8 September and the last round of games will take place on 27 January 2027, with the exact schedule to be released on Saturday.
+
+This season's final will be held in Madrid on 5 June.
+
+## Who the Premier League sides will face
+
+**Arsenal:** Real Madrid (home), Bayern Munich (away), Borussia Dortmund (home), Real Betis (away), Lille (home), Napoli (away), Sabah (home), Slavia Prague (away)
+
+**Aston Villa:** PSG (home), Barcelona (away), Borussia Dortmund (home), Club Brugge (away), Fenerbahce (home), Galatasaray (away), Viking (home), Slavia Prague (away)
+
+**Liverpool:** Atletico Madrid (home), Inter Milan (away), Porto (home), Club Brugge (away), Villarreal (home), Fenerbahce (away), Lens (home), LASK (away)
+
+**Manchester City:** PSG (home), Barcelona (away), Sporting Club (home), Porto (away), Napoli (home), Leipzig (away), AEK Athens (home), Lens (away)
+
+**Manchester United:** Bayern Munich (home), Atletico Madrid (away), Roma (home), Sporting Club (away), Leipzig (home), Villarreal (away), Sabah (home), Como (away)
+
+## How does the league phase work?
+
+Each of the 36 teams plays eight different teams - four at home and four away - in the league phase.
+
+Teams who finish in the top eight automatically qualify for the last 16, while those placing ninth to 24th will compete in a two-legged knockout play-off for the chance to join them.
+
+Sides who finish 25th or lower will be eliminated, and will not drop into the Europa League.
+
+Last season, eventual runners-up Arsenal topped the league phase standings with 24 points after eight wins from as many matches.
+
+Liverpool were third - behind second-placed Bayern Munich - with 18 points while Tottenham finished one point behind in fourth.
+
+Chelsea and Manchester City also qualified directly for the last 16 after finishing sixth and eighth respectively while Newcastle finished 12th.
+
+Chelsea, Manchester City, Newcastle and Spurs were knocked out in the last 16 last season while Liverpool were beaten in the quarter-finals by PSG, who also edged Arsenal in the final for their second consecutive title.
+
+*Watch highlights of every Champions League game from 22:00 on Wednesday on BBC iPlayer and the BBC Sport website and app.*
+
+*There will also be a Champions League Match of the Day on BBC One on Wednesday, from 22:40 to 00:00.*

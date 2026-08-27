@@ -1,0 +1,46 @@
+---
+title: Haitians demand answers from police after gangs kill 47, kidnap more than 50
+source_url: https://www.independent.co.uk/news/portauprince-gang-violence-latin-america-caribbean-b3040571.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-27T22:13:43Z'
+published: '2026-08-27T00:00:00Z'
+description: Haiti’s National Police is coming under fire as a growing number of people
+  question why authorities failed to prevent a recent gang attack in which 47 people
+  were killed and more than 50 kidnapped
+image: https://static.independent.co.uk/2026/08/27/18/APTOPIX_Haiti_Gang_Violence_83_88.jpg?width=1200&height=800&crop=1200:800
+---
+
+Haiti’s National Police faced mounting criticism Thursday over why authorities failed to prevent a recent gang attack in which 47 people were killed and more than 50 kidnapped.
+
+Police spokesperson Garry Desrosiers took only a handful of questions from journalists at a news conference Thursday, just days after gangs attacked Kenscoff, a once-peaceful farming community nestled in the hills near Port-au-Prince.
+
+Asked what police are planning to do about those kidnapped, Desrosiers said he could not answer that question publicly.
+
+“We cannot talk about any plans,” he said.
+
+One gang leader has threatened to execute all the hostages if any gang members are killed as police work to secure Kenscoff.
+
+Desrosiers expressed condolences to all those affected by the violent attack launched late Sunday.
+
+Hundreds of people fled, and anger and frustration are mounting. Desrosiers said police are working on helping them return home, but he did not provide specifics.
+
+One journalist questioned whether there was any intelligence gathered prior to the attack, with Desrosiers responding that authorities have been working on gathering intelligence.
+
+He added that police are aware that one gang leader is threatening to attack Tabarre, a neighborhood within Port-au-Prince where the U.S. embassy is located.
+
+“I’m not in a position to give you detailed information,” Desrosiers said.
+
+Vladimir Paraison, head of Haiti’s National Police, was not present at the news conference. He recently defended security measures in Kenscoff and said that an investigation was underway to establish the truth about the attack “whether due to complicity or negligence."
+
+Between January and August this year, security operations had managed to reduce violence in Kenscoff by 66% prior to Sunday’s attack, according to the nonprofit Armed Conflict Location & Event Data.
+
+The attack comes as Haiti prepares to hold its first general election in more than a decade, although experts warn that insecurity persists.
+
+Armed men control an estimated 70% of Port-au-Prince and swaths of land in Haiti’s central region and beyond.
+
+Gang violence has displaced a record 1.5 million people across Haiti, where more than 3,050 people were reported killed from January to June, according to U.N. statistics.
+
+___
+
+Follow AP’s coverage of Latin America and the Caribbean at [https://apnews.com/hub/latin-america](https://apnews.com/hub/latin-america)
