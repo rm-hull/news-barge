@@ -1,0 +1,51 @@
+---
+title: Wife of man who died after turbulence sues Singapore Airlines
+source_url: https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-28T22:15:13Z'
+published: '2026-08-28T00:00:00Z'
+description: Lawyers for Linda Kitchen say her husband was "fatally injured" after
+  the flight dropped 6,000 ft.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg
+---
+
+![Linda and Geoff Kitchen smile together. Both wear rectangular glasses, with Geoff in a red t-shirt. They appear to be sitting on a balcony, with buildings and the cloudy sky visible in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg)
+
+Linda and Geoff Kitchen were beginning a six-week holiday to Singapore, Indonesia and Australia when the incident happened
+
+**A widow whose husband died after "severe turbulence" on a flight has begun legal action against the airline.**
+
+Lawyers for Linda Kitchen, 74, from Thornbury near Bristol, who broke her back during the incident, said her husband, Geoff, 73, was "fatally injured" when the Singapore Airlines flight from London Heathrow suddenly dropped around 6,000 ft (1,828 metres).
+
+She has now begun proceedings at the High Court seeking damages from the airline to help her access specialist support for her back. The BBC has contacted the airline for comment.
+
+"When I got separated from Geoff, I knew he was in a bad way, but nothing prepared me for hearing he had died. It was absolutely devastating," she said.
+
+## More from Bristol
+
+Kitchen and her husband, described as her "soul mate", were starting a six-week holiday to Singapore, Indonesia and Australia when the incident happened in May 2024.
+
+The turbulence hit over Myanmar, with the flight then diverted to Bangkok, in Thailand, for an emergency landing.
+
+"There had been some turbulence over Europe, and it had been shaky over the water, but it was around 10 hours into the flight when we encountered the main turbulence," Kitchen said.
+
+"It was so severe; it felt like the aircraft was dropping. I noticed my Kindle and Geoff's phone had fallen to the floor, and I thought the plane was going down."
+
+As the aircraft plummeted, Kitchen said her husband fell on top of her, squashing her into the armrest. Eventually, others helped to move him and a doctor on board began CPR.
+
+Kitchen was taken to hospital while her husband was still on the plane. It was two days before she was told he had died.
+
+It is understood that Geoff suffered a heart attack after the plane suddenly dropped at high altitude.
+
+![Oxygen masks hang from the ceiling inside an aircraft cabin. Rows of seats sit empty beneath them.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/3b39/live/b41e1080-a301-11f1-aed2-8d6da8d75094.jpg)
+
+Oxygen masks were deployed in the cabin during the incident
+
+"I spent 10 days in hospital before I was airlifted back to Bristol. I was in so much pain that the journey was a blur. Once back in the UK, I remained in hospital for around a week and, following my discharge, required significant assistance at home," Kitchen said.
+
+Anthe Korelidou, a specialist aviation lawyer who is representing Kitchen, said: "That Geoff was fatally injured and Linda suffered severe injuries vividly highlights the severity of what happened.
+
+"While it's more than two years since Geoff's death, Linda and the rest of her family continue to have a number of questions and concerns about what happened and if more could have been done to prevent their injuries.
+
+"All Linda wants is for the most thorough investigations to be conducted. The issuing of High Court proceedings is a major milestone in being able to provide Geoff's loved ones with the answers they deserve."
