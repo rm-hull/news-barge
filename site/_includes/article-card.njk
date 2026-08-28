@@ -16,9 +16,13 @@
     <h2 class="article-card-title">
       <a href="{{ url }}">{{ data.title }}</a>
     </h2>
-    {% if data.description %}
-      <p class="article-card-deck">{{ data.description }}</p>
-    {% endif %}
+    <p class="article-card-deck">
+      {% if data.description %}
+        {{ data.description }}
+      {% else %}
+        {{ article.templateContent | striptags | truncate(240) }}
+      {% endif %}
+    </p>
   </div>
 </li>
 </li>
