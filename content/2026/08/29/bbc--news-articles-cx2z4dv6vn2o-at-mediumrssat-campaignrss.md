@@ -1,0 +1,107 @@
+---
+title: What tariffs will really cost Canadians and Americans
+source_url: https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-29T06:58:46Z'
+published: '2026-08-29T00:00:00Z'
+description: Households and businesses have become used to tariffs impacting the cost
+  of living for more than year now, so what will change now?
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3575/live/40950170-a24b-11f1-b3a6-2bc501807fe4.jpg
+---
+
+![US President Donald Trump (left) speaks with Canada's Prime Minister Mark Carney during a work lunch as part of the G7 summit, in Evian, eastern France, on June 16, 2026. Trump is sitting down while Carney is standing over but leaning into the conversation.](https://ichef.bbci.co.uk/ace/standard/935/cpsprodpb/3575/live/40950170-a24b-11f1-b3a6-2bc501807fe4.jpg)
+
+Donald Trump and Mark Carney have both declared tariffs on each other's country
+
+**A raft of new tariffs have been announced during the latest escalation of the trade war between the US and Canada.**
+
+The North American neighbours have been locked in a bitter economic conflict since US President Donald Trump launched his flagship trade policy on his return to the White House.
+
+This week saw the latest move by the Canadians with Prime Minister Mark Carney imposing retaliatory import taxes on a host of US goods, after Trump threatened hikes of his own.
+
+As the dust settles in this tit-for-tat tariff row, what will be affected most on both sides of the border?
+
+## Cars
+
+If Trump's threat to raise tariffs on Canadian vehicles from 25% to 50% from 1 January 2027 becomes a reality, then that would deal a further blow to the automotive industry.
+
+Cars, trucks and parts are among the main goods traded between the US, Canada and Mexico, with the manufacturing sector and supply chains stretching across borders.
+
+Despite previous tariffs increasing costs for manufacturers, car dealerships have absorbed the "lion's share" to date, according to Bernard Yaros, lead economist at Oxford Economics.
+
+"But that cushion is wearing thin," he adds. "The recently threatened 50% tariffs on Canadian autos, trucks, and car parts would feed through to consumer prices more readily than before."
+
+Yaros thinks higher costs on imports to the US could accelerate a trend of manufacturers prioritising luxury cards, SUVs and pick-up trucks and push up prices in the used-car market if supplies of new but less-expensive vehicles becomes tight.
+
+Carney has decided not to match Trump's 50% tariff threat so far, but a 25% import tax on certain American vehicles has been in place since last year.
+
+## Homes
+
+Construction materials such as steel, aluminium as well as lumber wood have had tariffs in place before the latest escalation, though Canada has now matched US rates on the metals at 50%.
+
+Carney has also imposed import taxes on several US wood products, such as plywood, and even screws used to fix timber together.
+
+That means building firms that import such materials will face higher costs and may choose to pass those on through higher prices - pushing up the cost of homes, for example.
+
+The Forest Products Association of Canada says tariffs would "raise costs on both sides of the border", while on the US side, Bill Owens, chairman of the National Association of Home Builders (NAHB) urged Trump to make building materials exempt from his tariff agenda due to an "ongoing housing affordability crisis".
+
+"Building material tariffs heighten market uncertainty, strain supply chains and increase construction costs," he says.
+
+In 2024 the US imported $23bn (C$32bn, £17bn) worth of wood products, with almost half from Canada, according to a US Congress report.
+
+But the so-called "lumber wars" between the nations on soft wood used in housebuilding are not new and stretch back decades.
+
+Famous Montreal sandwich shop drops iconic US cherry pop amid tariff row
+
+## Household items
+
+A key factor in this episode of the tariff war is the volume of household items that have been specifically targeted as opposed to raw materials.
+
+Carpets, washing machines, furniture, fridges and even knives, forks and spoons are set to have tariffs applied by Canada.
+
+While there is a risk prices on some of those goods being imported from the US could rise, the more likely scenario is that consumers will turn to domestic alternatives, according to Bradley Saunders, North America economist at Capital Economics.
+
+He says Carney's latest move has intentionally targeted goods where Canadians can "shift to domestic suppliers instead".
+
+"Like hair care products, you really can just buy that domestically instead," he adds.
+
+Saunders explains Carney's response aims to "minimise the impact on Canadian households as much as possible by picking very fungible goods".
+
+The Budget Lab at Yale, which monitors the impact of US government policy on the economy, says it anticipates seeing marginal increases in furnishing and other household equipment for Americans largely due to tariffs on lumber and other materials.
+
+## Alcohol
+
+There may not be a material impact on alcohol prices, but it's clear the trade war has had an impact on Canadians' choice of drink.
+
+Many provinces in the country banned US alcohol sales last year in response to previous tariffs, with the American wine and spirits industry saying exports to the country dropped more than 70%.
+
+Carney asked the provinces to restore US alcohol to the shelves during trade talks, but now that they have collapsed, it's likely the ban will return.
+
+Saunders says there's been a big push to "buy Canadian" from politicians and it has been successful when it comes to the strong stuff.
+
+"That's really had an impact on the American alcohol industry," he adds.
+
+Saskatchewan and Alberta are the only provinces that still sell American alcohol, but the former has announced its own 50% charge on US imported booze, set to kick in on 8 September, when the wider Canadian tariffs do.
+
+## Jobs and wider economy
+
+While tariffs can end up hitting consumers in the pocket, there are other impacts on households.
+
+Import taxes can complicate trade for businesses that have cross-border supply. As well as the higher costs, the uncertainty created by the trade war could put off investment plans and stunt job creation.
+
+Saunders suggests the biggest impact on households may not just be through prices, but job losses instead.
+
+"If you're, let's say, a bespoke furniture producer in BC [British Columbia], you're now facing a 50% tariff on your exports to the US - that could really shut the business down. I think that would be more the direct impact on households as opposed to these retaliatory measures."
+
+Canada's forest industry employs almost 200,000 people and has called on the government to boost domestic demand through federal housing programs to make greater use of Canadian wood, though it admits "no support package can replace reliable access to our largest export market".
+
+When it comes to US, consumers are unlikely to see much of a difference in terms of the cost of living as result of this latest battle with Canada, but frictions to trade can have longer-term economic impacts.
+
+Such tensions also feed into concerns over the free-trade agreement between Canada, the US and Mexico, known as the USMCA. Both Canada and Mexico have said they want the USMCA extended for another 16 years, but the US has said it will not renew in its current form.
+
+Despite the deal remaining operational, tariffs risk putting off talks in the near future, creating more uncertainty for cross-border trade.
+
+John Iselin, associate director at the Budget Lab at Yale, estimates the cost will only be about $3 per American household on average, but when taking into account Trump's wider trade war with the rest of the world, and particularly China, the added costs rise to about $1,000 for the average family.
+
+"It's hard to view this particular instance with Canada in isolation because we've had similar interactions with a range of other countries, all of which makes doing business harder. It's just another in a series of tariff shocks."
