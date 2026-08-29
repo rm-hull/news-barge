@@ -1,0 +1,99 @@
+---
+title: Big Church Festival 'devastated' as man dies after sign falls
+source_url: https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-29T13:48:57Z'
+published: '2026-08-29T00:00:00Z'
+description: Police say at least six other people were also injured in the incident
+  at the Big Church Festival.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png
+---
+
+What we know about the incident at the Big Church Festival
+
+**Organisers of a Christian festival say they are "devastated" after a man died and six other people were injured by a falling sign.**
+
+Sussex Police said it had been called to the Big Church Festival at Wiston Park, near Steyning in West Sussex, at about 15:38 BST on Friday.
+
+It was later confirmed a 41-year-old man from Eastbourne in East Sussex had died.
+
+The Archbishop of Canterbury said she was "sad and shocked" to hear about the fatal incident.
+
+Dame Sarah Mullally said: "I pray for his family, friends and loved ones as they grieve. I pray for those receiving treatment, and the healthcare workers looking after them.
+
+"And I pray too for the other festival goers, staff and event organisers as they come to terms with these tragic events.
+
+"May the God of comfort and healing be with them all."
+
+South East Coast Ambulance service said four of the six people injured were taken to local hospitals for further treatment, with two people having serious injuries.
+
+The Big Church Festival, which describes itself as the UK's biggest Christian festival, was founded in 2009.
+
+The festival began on Friday and was due to continue until Sunday, but a decision was made by organisers to cancel the remainder of the event after the incident.
+
+"We are working with the emergency services, police and the Health and Safety Executive as they establish the circumstances surrounding today's incident," the organisers said.
+
+"We are incredibly grateful to everyone who responded, and to our teams and community for the care they have shown one another."
+
+![An electric green sign telling people at the festival the show has been cancelled.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8fb0/live/f3fa4e20-a398-11f1-b666-4bd8c8e39163.jpg)
+
+The festival was due to run between Friday and Sunday
+
+On social media, author Andrew Ollerton said he was "reeling" after seeing the incident.
+
+"My wife Charlotte and I were walking just a few paces behind when a huge overhead sign came crashing down on the people in front of us," he said.
+
+"We rushed with others to lift the sign off them and then administered first aid with others as best we could until the paramedics arrived."
+
+Judah Martin, from Kent, was at the event and said he saw vehicles "speeding" towards the area where the incident happened before campers were told to return to their tents "immediately".
+
+"As we had no internet connection, we were unable to access information, except that word spread that there were serious injuries due to a falling sign," the 20-year-old told Your Voice.
+
+"The sign in question was a huge wooden sign on the top of a hill which we walked under earlier that day."
+
+![Map of southern England showing the location of the Big Church Festival near Steyning in West Sussex, north of Worthing on the south coast. An inset map highlights the festival site in southeast England within the UK](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2df1/live/0a8c09f0-a310-11f1-a291-b542ee92de7c.png)
+
+Jessica Schuffenhauer travelled from Leipzig in Germany for the festival.
+
+She said people were "united" inside after the incident as they sang and prayed together.
+
+Carla Diamond, from Hertfordshire, said: "We've got lots of friends here and it was really uncertain not knowing who was directly involved and if people were safe."
+
+Peter Heard, from Wiltshire, said him and his friends were "all pretty bewildered" after the incident and "a little dazed".
+
+## 'Emotional whiplash'
+
+The Reverend James Di Castiglione, rector of the parish of Chanctonbury in which Big Church Festival takes place, says the incident has been a "huge shock to everyone locally".
+
+"We are all experiencing emotional whiplash about what's happened really because Big Church Festival is such a time of joy and unity and love and celebration," he added.
+
+Di Castiglione said at the event there was "just a sense of confusion and shock that was rippling across the site".
+
+"[It is] just the worst lightning bolt of tragic news striking everybody's hearts," he said.
+
+The Salvation Army in Hove had opened its hall on Friday to allow people to stay the night if they could not get home after the event was cancelled.
+
+Martin Bellshaw, from the Hove branch, said they welcomed about 20 people from Bristol and the north-west of England.
+
+![An ariel view of a festival.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/efad/live/c7f987b0-a301-11f1-80b3-bf1a174ac193.jpg)
+
+The festival was cancelled after the incident
+
+Christian parent support charity ParentFuel said its people at the festival were all safe.
+
+"We cannot praise the BCF (Big Church Festival) team enough for the way things have been handled," they said on social media on Saturday morning.
+
+"We are currently sat in the volunteer tent with a brew in hand, worship music being played and the warmth of chatter around us."
+
+The charity said it was a "freak accident".
+
+"Life is so precious and so, so short. This weekend brought that ever closer for us all," they added.
+
+Sussex Police is urging anyone with information about the incident to contact them.
+
+The Health and Safety Executive and local authority had also been informed, the force added.
+
+*Additional reporting by Kris Bramwell*
+
+*Follow BBC Sussex on**Facebook*, external*,**X*, external*, and**Instagram*, external* and listen to BBC Radio Sussex on**Sounds**. Send your story ideas to** [southeasttoday@bbc.co.uk](mailto:southeasttoday@bbc.co.uk)* , external* or WhatsApp us on 08081 002250.*
