@@ -1,0 +1,63 @@
+---
+title: Fears for communities near Colorado River as drought means future is uncertain
+source_url: https://www.independent.co.uk/news/world/americas/colorado-river-drought-farming-business-b3041624.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-08-29T22:38:05Z'
+published: '2026-08-29T00:00:00Z'
+description: The severely depleted Colorado River is causing grave concern for those
+  who rely on it
+image: https://static.independent.co.uk/2026/08/29/13/Colorado_River_Drought_914_6.jpg?width=1200&height=800&crop=1200:800
+---
+
+Located on the outskirts of Phoenix, a small town hugely reliant on the Colorado River has restricted development, reopened disused wells and negotiated new water agreements.
+
+Yet Cave Creek Mayor Robert Morris fears these efforts will prove insufficient to sustain the desert enclave of roughly 5,000 residents long into the future. Furthermore, a recent federal initiative intended to tackle the worsening crisis across the river basin will offer no help.
+
+Cave Creek draws almost all its supply from the river, which provides water to 40 million people across the US West but has been shrinking due to climate change, demand and excessive use. The town was compelled to reduce consumption this year and stands to lose even more under the new federal proposal.
+
+Morris likened the situation to planning for a meteor strike.
+
+“You can see it coming, but you can't get out of the way and you don't know what the damage is going to be,” he said.
+
+![A person stands at an overlook near the Wahweap Marina on Lake Powell at the Glen Canyon National Recreation Area](https://static.independent.co.uk/2026/08/29/13/Colorado_River_Drought_9_943.jpg)
+
+The uncertainty stretches across seven U.S. states, tribal nations and Mexico. Farmers are deciding which crops are worth the investment. Phoenix could lose some municipal and industrial water for the first time and turn to backup supplies. And residents could face even more costly water.
+
+Nevada raised the stakes this week by suing the Interior Department and the U.S. Bureau of Reclamation, saying basic needs in the Las Vegas region will go unmet if the area has to absorb planned reductions of up to 70% of its Colorado River water in the next decade.
+
+The bureau said Thursday it does not comment on litigation.
+
+“The uncertainty is going to continue to build in the wrong direction,” said Tom Buschatzke, director of the Arizona Department of Water Resources.
+
+## Western reservoirs see record lows
+
+In the U.S. West, water is stored primarily in reservoirs, aquifers and snowpacks. But a record snow drought means there's far less water to recharge those sources.
+
+The two largest reservoirs in the country serve as barometers of health for the Colorado River system: Lake Mead and Lake Powell. Both hit record lows this month.
+
+Eight other reservoirs operated by the Bureau of Reclamation recently recorded the lowest levels in at least the last 30 years. Among them is Elephant Butte Lake in New Mexico that's critical for supplying water for crops in southern New Mexico, Texas and Mexico. The Green Mountain Reservoir serves the western part of Colorado, and the Guernsey Reservoir in Wyoming funnels water to farmers in the eastern part of the state and western Nebraska.
+
+Under the Bureau of Reclamation’s plan, California, Nevada and Arizona will collectively reduce water use by 1.25 million acre-feet (about 1.54 billion cubic meters) — enough to fill over 600,000 Olympic-sized swimming pools — annually in the next two years, with the possibility of larger cuts depending on conditions. Colorado, Utah, Wyoming and New Mexico are not required to make cuts for now but could voluntarily reduce water.
+
+While El Niño could bring intense moisture to the northern Rockies and the Southwest in the coming months, it won't erase decades of drought.
+
+![Tom Brundy looks over his field that is being prepared for planting near Calexico, California](https://static.independent.co.uk/2026/08/29/13/Colorado_River_Drought_33549.jpg)
+
+“Drought is a slow-moving phenomena and it can take some time to come into it and also come out of it,” said David Mocko, senior research scientist who authored a recent U.S. Drought Monitor map.
+
+## Farmers are reluctant to plant
+
+John Boelts grows vegetables, melons, durum wheat and other crops in Yuma, Arizona — a region that produces about 90% of leafy greens eaten in North America during the winter.
+
+Farmers there have high-priority rights and may avoid cuts to their Colorado River supply over the next two years but, Boelts said, the reprieve isn't enough to make longer-term plans. That makes farmers reluctant to plant new acreage.
+
+Citrus, date and other orchard crops that thrive in the region take years to become commercially productive, he said.
+
+“There's no food that we grow in a hurry,” said Boelts, the Arizona Farm Bureau president. “Beef takes years to produce. The lettuce you eat today? A farmer was working on how they would grow that crop six plus months ago.”
+
+Ray Martinez grows alfalfa on a reservation that's home to the Colorado River Indian Tribes. The tribe holds some of the river’s oldest rights, and while its Arizona allocation is huge, an old irrigation system and the lack of infrastructure have kept much of the water out of reach.
+
+Martinez and the water department are concerned about having enough water to finish this growing season. He has left some fields unplanted for years to help prop up Lake Mead. If the reservoir keeps dropping, he said, surface water coming to him and neighboring farms will be further limited.
+
+“Unfortunately, Mother Nature has its own way of doing things, and we have no control of that,” he added.
