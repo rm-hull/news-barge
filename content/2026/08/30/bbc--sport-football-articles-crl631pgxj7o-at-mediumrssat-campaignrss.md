@@ -1,0 +1,78 @@
+---
+title: 'Tottenham transfer news: Spurs advancing move for Iliman Ndiaye with Richarlison
+  set to rejoin Everton'
+source_url: https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-30T13:47:37Z'
+published: '2026-08-30T00:00:00Z'
+description: Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with
+  Richarlison set to move in the opposite direction as part of separate negotiations.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c386/live/8c089d30-a45b-11f1-a291-b542ee92de7c.png
+---
+
+![Richarlison and Iliman Ndiaye](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c386/live/8c089d30-a45b-11f1-a291-b542ee92de7c.png)
+
+Richarlison (left) joined Spurs from Everton in 2022, while Iliman Ndiaye joined the Toffees from Marseille in 2024
+
+**Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.**
+
+Although a deal for Ndiaye is largely agreed between the two clubs, it remains unclear whether he will make the switch to north London, with Manchester City among the clubs to have expressed an interest.
+
+City have also held talks to sign Liverpool forward Cody Gakpo, another Spurs target, although the Reds would need to secure a replacement before sanctioning any move.
+
+Everton are open to selling Ndiaye, 26, after he rejected multiple contract offers and held talks with Saudi club Al-Hilal earlier this summer.
+
+Meanwhile, Everton have agreed terms in principle to re-sign striker Richarlison after he told Spurs head coach Roberto de Zerbi "too many times that he wants to leave".
+
+The Brazil international has entered the final year of his Tottenham contract and would provide competition for first-choice striker Thierno Barry, with uncertainty surrounding Beto's future at Hill Dickinson Stadium.
+
+Everton are also growing increasingly confident of completing a loan deal to bring Jack Grealish back from Manchester City, although the precise terms of any agreement remain complicated as the England international enters the final year of his contract at Etihad Stadium.
+
+Grealish has prioritised a return to Everton, where he spent last season on loan, over the option of rejoining his boyhood club Aston Villa, who have also expressed an interest.
+
+Everton are also targeting a right-back and are close to agreeing a £9m deal for Fulham's Kenny Tete, who came close to joining last summer.
+
+Fulham are already assessing potential replacements and have entered talks to sign Rayo Vallecano's Andrei Ratiu.
+
+It is part of a chain of interconnected Premier League deals before Tuesday's transfer deadline.
+
+## Richarlison, Danso and Sarr ask to leave Spurs
+
+![Kevin Danso, Richarlison, Pape Matar Sarr](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/429e/live/2d891b70-a45d-11f1-aed2-8d6da8d75094.png)
+
+Tottenham have signed eight first-team players this summer
+
+Richarlison is one of three players who De Zerbi says have asked to leave Tottenham.
+
+He, Kevin Danso and Pape Matar Sarr have all been linked with moves away from Spurs and none were included in De Zerbi's match squad as Tottenham lost 2-0 at home to Newcastle on Saturday.
+
+Asked about their status after the loss, De Zerbi said: "Richarlison, I don't know. He said too many times he wants to leave.
+
+"Danso came to me two days ago and he said wants to leave and Pape Sarr the same, but he suffered a small injury, but he is almost ready to train.
+
+"I have very good relationships but if they want to leave, they have to bring the solution, the economic solution, to the club, and they can go."
+
+Spurs have spent more than £300m this summer in an effort to restore their competitive edge following back-to-back 17th-place Premier League finishes.
+
+But Tottenham are bottom of the table, having lost their first two games to Brentford and Newcastle and failing to score a goal.
+
+With 11 goals, Richarlison was Tottenham's top scorer last season and a key figure during their struggle for Premier League survival, which was secured on the final day.
+
+Earlier in August, De Zerbi said that the Brazilian was uncertain about his future, noting that "it's not easy to find another striker like Richarlison".
+
+Last week, Manchester City striker Omar Marmoush joined Spurs on loan and he replaced Richarlison in De Zerbi's starting XI against Newcastle.
+
+Danso's first-team opportunities may be limited this season as Marcos Senesi and Jan Paul van Hecke arrive to challenge for his place in central defence, where Micky van de Ven's spot was secured by the signing of a new contract and the award of the captaincy.
+
+Sunderland made an offer to take Danso, who has 36 Austria caps, on a season-long loan - but Spurs rejected it.
+
+In midfield, Sarr's chance to play has been impacted by the arrivals of Mateus Fernandes and Sandro Tonali early in the window, as Tottenham kicked off their a statement summer of transfers by breaking their club record fee twice in one week.
+
+The Senegal international, 23, has attracted interest from a number of clubs, including several in the Premier League and Turkish side Besiktas.
+
+However, Juventus are understood to be confident of winning the race for his signature on a loan deal that includes a conditional obligation to buy.
+
+![Pape Sarr](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/4b78/live/ae7aae40-a45f-11f1-b370-b9b7934350c8.jpg)
+
+Sarr joined Spurs from Metz in 2021
