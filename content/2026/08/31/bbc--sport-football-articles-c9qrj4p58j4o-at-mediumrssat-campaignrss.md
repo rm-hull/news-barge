@@ -1,0 +1,57 @@
+---
+title: Barcola completes £123m Liverpool move
+source_url: https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-08-31T16:08:17Z'
+published: '2026-08-31T00:00:00Z'
+description: Liverpool complete the signing of France forward Bradley Barcola from
+  Paris St-Germain for a fee worth up to £123m.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg
+---
+
+![Bradley Barcola](https://ichef.bbci.co.uk/ace/standard/873/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg)
+
+Barcola made 152 appearances in all competitions for PSG
+
+**Liverpoolhave completed the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.**
+
+PSG initially valued the 23-year-old at £145m, but Liverpool will pay an initial £106m plus £17m in potential add-ons.
+
+Barcola has signed a five-year contract to become the fifth new arrival at Anfield this summer, following the signings of winger Victor Munoz and defenders Jeremy Jacquet, Ronald Araujo and Ifeanyi Ndukwe.
+
+"It took a long time but I'm really happy today to be able to play for Liverpool and all I want is to be on the pitch and be able to play," Barcola said.
+
+"I hope to achieve very big things. First of all, winning the Premier League - it's one of my biggest dreams in my life.
+
+"It is to do that and to stay in this team in the long term - that's why I signed a long contract – and I hope I can do it."
+
+Barcola, who will wear the number 29 shirt at Anfield, prefers to play on the left wing but can operate across the forward line.
+
+The France international will add depth to Andoni Iraola's squad following the departure of Mohamed Salah, the long-term injury absence of Hugo Ekitike, and the potential sale of Cody Gakpo.
+
+Last season, Barcola scored 13 goals and provided seven assists in 49 games in all competitions for PSG.
+
+He featured in all eight of France's games at the 2026 World Cup, scoring three goals as Les Bleus reached the third-place play-off.
+
+Barcola joined PSG from Lyon in 2023 for a reported £38.5m and won three Ligue 1 titles, two Champions Leagues, the French Cup twice, the Uefa Super Cup and the Fifa Intercontinental Cup.
+
+The fee Liverpool have agreed to pay includes covering a solidarity payment PSG owe Lyon as part of the deal that took Barcola to Paris three years ago.
+
+## The stats that show Barcola's strengths
+
+Barcola is a left winger by trade, having played almost all of his Champions League minutes for PSG on that flank, but his game is shaped by a centre-forward's instincts. He played as a striker until the age of 17, something reflected in his movement and shot selection.
+
+Last season, he averaged 3.5 shots per 90 minutes in Ligue 1, placing him among the division's most active shooters despite operating from wide areas.
+
+His 9.83 expected goals (xG) ranked in the 95th percentile among wingers across Europe's top five leagues, meaning only around 5% of wide players consistently found themselves in better goalscoring positions.
+
+Barcola converted those chances into 11 league goals, outperforming his xG, while no PSG player or Ligue 1 winger recorded a higher xG total during the 2025-26 campaign.
+
+Those instincts are reflected in how he attacks defenders. Barcola was the only player across Europe's top five leagues to average more than two shot-ending carries per 90 minutes (2.06), illustrating his ability to drive at opponents before creating shooting opportunities for himself.
+
+He also averaged 8.69 touches in the opposition penalty area per 90 minutes - the seventh-highest figure among more than 1,500 eligible players - reinforcing the profile of a winger who consistently occupies goalscoring positions.
+
+His shot map highlights a player who attacks dangerous central areas rather than settling for speculative efforts from distance. Only Ousmane Dembele had a better combined shot volume with chance creation in Ligue 1, underlining Barcola's rare ability to both finish attacks and create opportunities for team-mates.
+
+His work without the ball is another reason Liverpool's recruitment team admired him. Barcola ranked ninth across Europe's top five leagues for possessions won in the final third last season, a metric that reflects the aggressive pressing and intensity demanded under Andoni Iraola.
