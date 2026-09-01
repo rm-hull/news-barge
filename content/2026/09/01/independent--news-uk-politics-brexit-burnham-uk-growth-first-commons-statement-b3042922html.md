@@ -1,0 +1,78 @@
+---
+title: Burnham blames Brexit for decade of UK decline
+source_url: https://www.independent.co.uk/news/uk/politics/brexit-burnham-uk-growth-first-commons-statement-b3042922.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-01T19:23:40Z'
+published: '2026-09-01T00:00:00Z'
+description: The prime minister used his first statement to the Commons since taking
+  over from Keir Starmer to argue Brexit was one of ‘a series of wrong turns’ taken
+  by the UK since the 1980s
+image: https://static.independent.co.uk/2026/09/01/19/01M1F1E7HJMWCE762FVJDTBD03.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+Andy Burnham has lashed out at the legacy of Brexit, saying it “ushered in a decade of low growth” which the UK is still paying for, as he made his first statement as prime minister to the Commons.
+
+In an unexpected attack on the legacy of leaving the EU, he listed the “series of wrong turns” the UK has made since the 1980s and warned Brexit had embedded the problems caused by over-centralisation of government, deindustrialisation and privatisation of industry.
+
+The statement was framed as Mr Burnham laying out his vision for government after he took over from Sir Keir Starmer in a bloodless coup in July. But while he has stated he will stick to Sir Keir’s red lines on Brexit of not rejoining the EU, single market or customs union, his words will provide hope that he may well look to change course by the next election.
+
+In his statement, Mr Burnham also laid out his other key priorities:
+
+- He paid tribute to Sir Keir Starmer, who announced he was quitting as an MP after being ousted from Downing Street
+- He recommitted the UK’s support for Ukraine and praised his Tory and Labour predecessors in providing the leadership to take on Vladimir Putin
+- Insisted he would not back down from net zero policies in the wake of the climate crisis being responsible for the major flash flooding tragedy in Nepal
+- But he ducked questions from Tory leader Kemi Badenoch on defence spending, taxes and cutting the welfare bill
+- And he hinted electoral reform could be on the cards after Lib Dem leader Sir Ed Davey called for a national commission to change politics
+
+![Andy Burnham gave his first statement to the Commons since becoming PM](https://static.independent.co.uk/2026/09/01/16/01M1ERDDTE5P82WTB6B0FXVBH3.jpg)
+
+The statement marked a significant change of tone from Sir Keir’s two years in office, with Mr Burnham emphasising that he wanted to move away from “point scoring” to working with other parties to fix problems.
+
+He warned: “Britain is not where any of us would wish it to be. Things are not working as they should. Life is too expensive and too hard for too many. This is why this government’s first moves were to give businesses and people a little breathing space.”
+
+Turning to the series of wrong turns that have led to the decline of living standards in the UK, he made a point of blasting Brexit, having said a year ago when he was mayor of Manchester that he favoured rejoining the EU.
+
+He told MPs: “From the 1980s, this country took a series of wrong turns. Political power was centralised, economic power privatised. The country deindustrialised. Austerity followed, hollowing out councils and depriving them of the agency to act to reverse any of this, and then Brexit, compounding the damage, ushering in a decade of low growth and stalled regeneration.”
+
+The comments have been welcomed by pro-EU campaigners just days after *The Independent* revealed the £11.7bn a year loss in exports Brexit has caused for British business as well as a survey showing 98.2 per cent of businesses want the UK to rejoin the single market.
+
+![Kemi Badenoch claimed Burnham was living in the past](https://static.independent.co.uk/2026/09/01/17/01M1ERDCT6WDNHGRAV4MD9B5CD.jpg)
+
+Already, Mr Burnham is taking action on decentralisation with a new devolution agenda to hand powers to elected mayors, and he also vowed to take things back into public ownership, hinting that water companies could be an early target.
+
+Pro-EU campaigners now hope he will apply the same logic to reversing Brexit.
+
+Naomi Smith, chief executive of Best for Britain, said: “It’s hugely welcome to hear a prime minister stand at the despatch box and say loudly and clearly that Brexit harmed Britain; far from taking back control, it shrank our economy, left us poorer, weaker, less safe and more divided.”
+
+She warned: “If Burnham is serious about delivering a politics done differently – and giving the public what our polling proves they want more of – he must keep all options on the table to single-mindedly pursue the profound economic transformation – some £92bn at the very least – that rejoining the EU would mean for our economy, while persuading progressives who have abandoned the party to trust Labour with their votes.
+
+“That’s how you get good growth in every postcode, and how you deliver hope in every heart.”
+
+But his claims were mocked by Ms Badenoch, who chided the new prime minister for not being available to be scrutinised by MPs for his first 43 days in office.
+
+With Labour MPs chuntering in the background, she said: “The year is 2026. Yet the prime minister said in his statement that everything has gone wrong since the 1980s, still complaining about Margaret Thatcher.
+
+![Sir Ed Davey called for electoral reform](https://static.independent.co.uk/2026/09/01/17/01M1ES77GRPX09E24FMYYDSN5G.jpg)
+
+“I may not look it, but I’m 46 years old. He is talking about a woman who became prime minister before I was born. He is living in the past, and he wants to take us back to the 1970s. On this side of the house, we [Conservatives] are for the future not the past.”
+
+The intervention by Mr Burnham identifying Brexit as a “wrong turn” will raise hopes that his pledge last week to stick to Sir Keir’s red lines can be reversed by the time of the next election.
+
+Former prime minister Sir John Major warned in an interview with *The Independent* that the first priority of any prime minister must be to get the UK back into the EU’s single market as a precursor to fully rejoining the bloc to reverse the economic decline caused by leaving the EU.
+
+Mike Galsworthy, chair of the European Movement UK, told *The Independent*: “The biggest opportunity for Andy Burnham lies less in how he handles Starmer’s restrictions from the last Labour manifesto and much more in the bigger move he can make with the next manifesto. A promise in the next manifesto to open accession talks for full EU membership is the prize here."
+
+![Join the Independent’s new campaign](https://static.independent.co.uk/2026/06/04/16/17/europe-way-back-banner.jpeg)
+
+**What you will get by joining:**
+
+- A dedicated community: We are fully committed to the long haul, consistently campaigning to secure the absolute best deal for Britain within Europe.
+- Free weekly newsletter: Every Wednesday, political editor David Maddox and political correspondent Millie Cooke will be in your inbox with exclusive reporting, analysis and insight on the biggest developments shaping relations between Britain and Europe. Each week, they will explain what’s happened, what it means, and what the key political figures, experts and decision-makers are saying about it.
+- Essential continental updates: Stay informed with regular briefings on the biggest developments in European politics and the specific policies that could pave the way for closer EU relations.
+
+**There are even more benefits if yousubscribe for just £1 for seven months:**
+
+- Exclusive content: Get the highest-quality analysis, opinion and debate from political experts across the UK and Europe by subscribing to our premium service.
+- The Brexit Effect: You’ll get exclusive access to extracts from Anthony Seldon’s major new book, *The Brexit Effect* , offering an unparalleled analysis of the 10 years since the referendum.
+- Inform the debate: Receive exclusive invitations to live events, webinars, expert Q&As and podcast recordings.
