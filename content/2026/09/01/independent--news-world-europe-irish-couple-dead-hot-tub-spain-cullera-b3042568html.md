@@ -1,0 +1,41 @@
+---
+title: Irish woman found dead by children at Spanish villa pictured for first time
+source_url: https://www.independent.co.uk/news/world/europe/irish-couple-dead-hot-tub-spain-cullera-b3042568.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-01T13:28:33Z'
+published: '2026-09-01T00:00:00Z'
+description: Thomasina Tobin and her husband Patrick were renting the property in
+  Cullera, on the Valencian coast
+image: https://static.independent.co.uk/2026/09/01/8/04/pic.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+An Irish woman found dead by her young children at a rented holiday villa in Spain last week has been pictured for the first time.
+
+Chartered surveyor Thomasina Tobin, 51, and her husband Patrick, 48, who lived in London, were discovered in a hot tub at an upscale property in Cullera, on the Valencian coast, last Tuesday.
+
+Investigators now believe that Ms Tobin may have died while desperately trying to free her husband from the suction system of the jacuzzi, after he became trapped by the pressure from a suction outlet.
+
+Initial reports say marks and cuts found on Ms Tobin’s body suggest she was involved in a violent struggle to save her husband, while Mr Tobin’s more obvious suction marks suggest he was pulled under the water first, according to Valencian outlet *Levante-EMV.*
+
+Local media said police ruled out drowning as the formal cause of death and believe the couple died “from cardiopulmonary arrest due to the extreme effort” exerted during the struggle.
+
+The leading hypothesis is yet to be confirmed and the investigation remains open, the news outlet reported, citing initial progress reports from the police.
+
+Ms Tobin, who worked in the London real estate market, was identified over the weekend as her company paid tribute in comments to the *Sunday Times*.
+
+A spokesman for Turner & Townsend Alinea told the newspaper: “We are deeply saddened by the tragic death of Thomasina Tobin and her husband. Thomasina was a valued member of our team, and our thoughts are with her family at this incredibly difficult time. We are liaising with her family to provide support.”
+
+In a post on LinkedIn, Daniel Englender, managing director at Benjamin West International, remembered Ms Tobin as “one of the most bubbly characters, always smiling and hugely supportive of her colleagues and those in the professional teams around her”.
+
+Three relatives flew out to look after the “traumatised” children who found their parents at the Villa Luna property, according to *The Times*.
+
+The family are understood to have been staying at the residential development on holiday. Cullera is a town of around 25,000 people situated some 25 miles south of Valencia.
+
+![Cullera Bay beach on the Mediterranean Sea, on a sunny day with many umbrellas](https://static.independent.co.uk/2026/08/26/9/43/iStock-2229109030-4057073f.jpeg)
+
+A spokesperson for Ireland’s department of foreign affairs told the Irish Mirror: “The Department is aware of this case and is providing consular assistance in the case of the Irish citizen concerned.
+
+“As with all consular cases, the Department does not comment on the details of individual cases.”
+
+The Spanish civil guard initially identified the couple in comments to *The Independent* last week. They said they were discovered by their two children on Tuesday, 25 August, and that initial reports indicate that foul play was not the cause of death.

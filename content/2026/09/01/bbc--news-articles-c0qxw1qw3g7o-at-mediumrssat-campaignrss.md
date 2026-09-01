@@ -1,0 +1,132 @@
+---
+title: 'Nepal floods: The remote Nepal-China border crossing at the heart of a Himalayan
+  tragedy'
+source_url: https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-01T13:28:39Z'
+published: '2026-09-01T00:00:00Z'
+description: More than 100 Indians are missing at a vital Nepal-China trade crossing
+  after devastating Himalayan floods.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg
+---
+
+Video shows scale of flash flood hitting Nepal-Tibet border
+
+**The video lasts only seconds.**
+
+A dark wall appears from behind the buildings at Gyirong, on the Chinese side of the Nepal-Tibet border. At first, it looks almost like a black cloud. Then it gathers shape and speed: water, mud, boulders, ice and rock surging down the valley. The CCTV footage, whose timestamp reads 10:59:53, went viral.
+
+For many, it was the first visual evidence of the sheer scale of the destruction that was unfolding.
+
+What happened in the minutes that followed is still difficult to reconstruct. But fragments of video and satellite imagery show much of the border complex swept away, with buildings that once crowded the valley floor simply gone.
+
+Electronic immigration records from Nepal's Rasuwagadhi border post are filling some gaps, as well as insights from its only surviving staff member. Tika Ram Pokharel, who happened to be in Kathmandu sitting an exam on the day, tells the BBC the crossing was unusually busy when floodwater hit.
+
+![Vantor satellite image shows the area near the Nepal-China border and Rasuwagadhi border post before the devastating floods swept away multiple buildings and vehicles.](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/a8e0/live/e5e34150-a601-11f1-83fc-0df57e6b3866.jpg)
+
+A satellite image shows the area around the Nepal-China border before devastating floods swept away buildings and vehicles
+
+"This is a historic travel route between Kathmandu and Tibet. The area is geologically vulnerable, characterised by deep gorges and steep rivers that flow at high velocity, carry heavy sediment and can bring down huge boulders," says Ajay Dixit, a Kathmandu-based hydrologist.
+
+It is a place where pilgrims heading towards Mount Kailash cross paths with traders travelling between Nepal and China, truck drivers, customs officials, tourists and people who live along the border.
+
+On the morning of the flood, more than 100 Indians may have been in or around the crossing. At least 275 Indians remain missing in Nepal, according to India's foreign ministry.
+
+Nepal's immigration department has been trying to reconstruct who passed through Rasuwagadhi in the final hours before the disaster.
+
+Electronic records show that 89 Nepali and foreign nationals had cleared immigration to leave Nepal for Tibet, while four people had registered their entry into Nepal.
+
+![CCTV footage shows people fleeing as a wall of mud and water destroys buildings at the Nepal-China border in Gyirong, Tibet, China, on August 26, 2026.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0be7/live/210a8900-a602-11f1-83fc-0df57e6b3866.jpg)
+
+CCTV footage shows people fleeing as mud and water engulf buildings at the Nepal-China border in Gyirong on 26 August
+
+The immigration system recorded its final transaction at 08:35:03 local time (10:52 Tibet time), less than 10 minutes before the torrent appeared on the CCTV footage at Gyirong.
+
+Four immigration employees, including the head of the Rasuwagadhi office, went missing in the floods. His body was later recovered far downstream. The female official who recorded the final transactions is still missing.
+
+Among the foreign nationals recorded leaving Nepal that morning were 32 Indians, 12 Chinese nationals and nine Americans, as well as citizens of Britain, Canada, Australia and Italy.
+
+Tika Ram Pokharel, the surviving senior immigration assistant at Rasuwagadhi, says the electronic records capture only part of what was happening at the border that morning.
+
+The immigration office stood at Ghatte Khola Bazar, about 1.5km north of Timure, a small trading settlement clustered around the crossing. From there, it was another 2km to the Friendship Bridge marking the border with Tibet. Along that stretch were shops, hotels and parking areas where travellers and vehicles gathered before crossing.
+
+The Nepalese immigration office opened at 08:00, Pokharel says. Once travellers had cleared immigration, they could continue towards the border or wait in the area before crossing.
+
+![The Rasuwagadhi flood destroys a Friendship bridge, road, a hydropower substation, and sweeps away vehicles in Rasuwa, Nepal, on July 11, 2025.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d17c/live/fe53f4c0-a514-11f1-aed2-8d6da8d75094.jpg)
+
+Flooding in Rasuwagadhi destroyed the Friendship Bridge, roads and a hydropower substation, and swept away vehicles in Rasuwa, Nepal, last July
+
+When Pokharel called a colleague at 08:20 that morning, he was told the crossing was unusually busy. Around 300 to 400 people were waiting to leave Nepal for Tibet, he says, while others arriving from the Chinese side were also in the area.
+
+"Those who completed the immigration formalities that morning, I don't think were able to complete their immigration process on the Chinese side," Pokharel tells the BBC.
+
+Pokharel says it took 15 to 20 minutes to walk from the Nepalese immigration office to the bridge after travellers had cleared immigration.
+
+Travellers arriving late the previous afternoon sometimes had to wait until the border reopened the next morning, while those travelling in groups or by bus would often wait for everyone to clear immigration before moving on together.
+
+That makes it difficult to know where those 89 people were when the flood struck.
+
+At 08:37 - less than two minutes after the immigration system recorded its final transaction - seismic instruments detected movement in the mountains above the border, according to a timeline compiled by Nepal's Centre of Hydrology and Water Resources Research. Researchers later attributed the signal to the collapse of part of a glacier that triggered the flood.
+
+China said the mudslide reached the border crossing from its origin in around seven minutes.
+
+![Tika Ram Pokharel, works as the Senior Immigration Assistant in the Rashuwagadi Immigration Office](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/a254/live/41ebff50-a553-11f1-9acf-19576105f049.jpg)
+
+Tika Ram Pokharel, senior immigration assistant at the Rasuwagadhi Immigration Office, was the only staff member to survive. He was in Kathmandu for an exam when the floods struck
+
+People at the crossing could have been making their way towards the bridge, waiting in Ghatte Khola or preparing to cross towards the Chinese facility. Exactly where each person was remains unclear.
+
+And Ghatte Khola itself was far more than a waiting area. Pokharel says 50 to 60 houses stood there, alongside hotels, local businesses and four hydropower offices.
+
+It was also the final stop for buses from Kathmandu, and a base for drivers, helpers, tourist guides and cargo workers waiting for customs clearance. Travellers heading into Tibet often queued there from the previous day.
+
+"My 40-50 close friends are missing," Pokharel said.
+
+Pokharel believes the toll there could be far higher than official figures suggest, estimating that "2,000 to 2,500 people" may have been caught in the flood. The figure is his estimate and has not been independently verified.
+
+![A man shows a photo of his missing family members outside the Maithili Barrack, an army training centre, which serves as a primary base to airlift survivors from Rasuwa following flash floods and mudslide at Trishuli in Nuwakot district, Nepal, August 27, 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/14d0/live/7780bdb0-a53d-11f1-a291-b542ee92de7c.jpg)
+
+More than 100 Indians may have been at the crossing when the flood struck. At least 275 remain missing in Nepal, according to India's foreign ministry.
+
+The immigration office itself stood about 100 metres above the river, Pokharel says. But during the flood, the water appeared to surge even higher. He initially hoped his missing colleagues might have escaped to grazing land several kilometres away.
+
+For some of the Indian pilgrims at the border, the morning had begun almost casually. They made video calls and reels for relatives back home, showing them the mountains as they waited for the Chinese immigration office to open.
+
+Sudipto Bhattacharya was receiving messages from his wife, Subhrasree Chakraborty, who was travelling with a group of more than 60 people. At 07:57 Nepal time, she sent him a photograph of the departure stamp in her passport: Nepalese immigration was done.
+
+Six minutes later, at 08:03, she sent another message: "We are waiting to enter China." Then the messages stopped.
+
+Among those at the Chinese immigration facility was a group of 77 pilgrims associated with the Isha Foundation, returning from Mount Kailash. They, along with three staff members, were unaccounted for after the flood swept through the area.
+
+![Rescuers carry out search and rescue operations at the mudslide-hit area on August 30, 2026 in Gyirong, Xizang Autonomous Region of China.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4ebd/live/b7b27c20-a515-11f1-a291-b542ee92de7c.jpg)
+
+Rescuers carry out search and rescue operations at the mudslide-hit area in Gyirong
+
+When a 21-member Chinese rescue team reached Gyirong on 28 August, one rescuer told Chinese state media: "As far as the eye could see, there was nothing but ruins."
+
+The crossing had only recently recovered from another major flood. In July 2025, flooding shut Rasuwagadhi for nearly six months. It reopened on 1 January after China built a temporary bridge.
+
+Traffic had since returned. Chinese border authorities say more than 100,000 people had passed through Gyirong by June, while Nepali immigration records show 53,742 arrivals and departures at Rasuwagadhi in the year to mid-July. The two figures are based on different reporting periods and counting systems, making a direct comparison difficult.
+
+Indians were the largest group recorded at the Nepali immigration point, followed by Nepalis and Chinese.
+
+Gyirong had also become one of the main arteries linking Nepal and China.
+
+Posh Raj Pandey, chairman emeritus of the Kathmandu-based South Asia Watch on Trade, Economics and Environment, says Rasuwagadhi is one of Nepal's two main trading points with China, alongside Tatopani, and accounts for about a third of Nepal's $2.95bn trade with its northern neighbour.
+
+Around 60 to 70 trucks passed through the gorge each day, carrying electronics, machinery, vehicles, fruit, clothing and other goods towards Kathmandu. Pandey says the route also handled about 80% of Nepal's electric-vehicle imports from China.
+
+Its closure has left Nepal increasingly dependent on Tatopani - which Chinese authorities have also temporarily closed, external because of landslide risks on the Nepali side, the Kathmandu Post reports.
+
+The crossing also lies along the proposed route of the railway connecting the region to Kathmandu, part of plans by Nepal and China to develop a trans-Himalayan rail network.
+
+"Nepal should develop an alternative China trade route and reconsider its wider development strategy, including its heavy concentration of hydropower projects along the same river system," Pandey says.
+
+"We have put all eggs here. We need to develop an alternative border port."
+
+Across the border, Pokharel was left thinking about conversations he had with the colleagues who were now missing.
+
+The previous year's flood had made staff at the Rasuwagadhi immigration office acutely aware of the danger. At night, he says, they sometimes "felt vibrations" and went outside to check the river. They had even discussed among themselves about escaping uphill if another flood struck.
+
+"But my friends could not get that chance," he said.

@@ -1,0 +1,69 @@
+---
+title: Keir Starmer to stand down as MP
+source_url: https://www.independent.co.uk/news/uk/politics/keir-starmer-quits-mp-holborn-st-pancras-andy-burnham-b3042695.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-01T13:28:19Z'
+published: '2026-09-01T00:00:00Z'
+description: The former prime minister said he would be turning his concentration
+  to international affairs
+image: https://static.independent.co.uk/2026/08/20/10/37/GettyImages-2177658423-005456e7.jpeg?trim=1,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+Former prime minister Sir Keir Starmer is to step down as the MP for Holborn and St Pancras, a move that will trigger a by-election in the London seat.
+
+Sir Keir announced his resignation earlier this summer after losing the support of his party in the wake of dire local election results, with Andy Burnham replacing him.
+
+He told the *Camden New Journal* that he felt it was the “right time” to leave the House of Commons to focus on new work around international affairs. 
+
+He said: “It has been a huge honour and privilege to represent the best constituency in the country and to have taken over from Frank Dobson, who was such a great constituency MP and a member of the last Labour government.
+
+“I will now focus on other things and that will be international affairs including defence, security, trade and technology in a fast-changing world.
+
+“I will also continue, as I have done for a long time now with others, work on combating violence against women and girls; that is an issue that matters to me hugely.
+
+“It’s work I started before I became an MP and it’s work I’m keen to continue after I’m an MP. So international affairs on the one hand, and continuing my work on violence against women and girls on the other.”
+
+He has informed local Labour constituency party staff of his decision to exit Parliament after eleven years representing the north London seat.
+
+In his statement, he said his legacy as an MP and as a prime minister will benefit his constituency going forwards, which has included free school meals and lifting the two-child benefit cap.
+
+![Sir Keir Starmer will turn his attention towards international affairs (Gareth Fuller/PA)](https://static.independent.co.uk/2026/09/01/12/124fda7292e076ee07ca3963b96e3bb0Y29udGVudHNlYXJjaGFwaSwxNzg4MzQ4MjM5-2.85362582.jpg)
+
+“I want to thank all of those I was privileged to work with in the constituency on issues that matter hugely: affordable housing, first-class education and the work we did on knife crime through the Camden youth support, which was really, really important,” he said.
+
+Sir Keir took office in July 2024 following a landslide victory at the general election, but oversaw a massive decline in popularity for the government as discontent with his leadership grew.
+
+Labour suffered back-to-back record defeats at the local ballot box, with Sir Keir’s party losing 1,496 councillors across England and losing control of 38 councils in local elections.
+
+Mr Burnham’s victory in the Makerfield by-election effectively fired the starting gun for a leadership challenge against Sir Keir, and was the final trigger for his long-awaited resignation.
+
+In a statement on X, Sir Keir said it was the right time to “hand the baton over to a successor”.
+
+He said: “Over the summer, I have had time to reflect and consider my future. I have decided that now is the right time to step down as MP for Holborn and St Pancras and hand the baton over to a successor.”
+
+Reflecting on his time as prime minister, Sir Keir again pointed to Labour’s 2024 election victory, and said: “Whoever is lucky enough to become the Labour candidate here will have my full support and backing and I will continue to give my full support to the prime minister and this Labour government.”
+
+In July, two men were jailed for conspiring to carry out arson attacks targeting a property and a car connected to Sir Keir, which were believed to have been ordered on behalf of Russia.
+
+The Tories said Sir Keir’s decision to step down marked “another U-turn”.
+
+Conservative Party chairman Kevin Hollinrake said: “Whilst we have disagreed with almost all of Sir Keir Starmer’s decisions, I wish him and his family well for the future.
+
+“It is fitting that his final act as a Member of Parliament is yet another U-turn having pledged to stay on.
+
+“The decision to stand down will mean a costly by-election for taxpayers at a time when Andy Burnham and John Healey are plotting tax rises on hardworking families across the country.
+
+“The Conservatives look forward to giving the people of Holborn and St Pancras a chance to vote for a stronger economy and a stronger country in the weeks ahead.”
+
+*For the latest political headlines delivered straight to your inbox, sign up for our daily View from Westminster newsletter**here**.*
+
+Meanwhile, *Sky News* have reported that the Green Pary have not ruled out if their leader Zack Polanski could content the seat as a way into parliament. 
+
+Mr Polanksi is currently a member of the London Assembly and has not stood in any by-elections.
+
+A Green Party spokesperson said: "Zack has always made it clear he would like to be a London MP.
+
+"London has been his home for over 20 years."
+
+*Subscribe here**to get the latest updates from The Independent*

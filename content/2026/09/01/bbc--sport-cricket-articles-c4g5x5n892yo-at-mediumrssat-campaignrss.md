@@ -1,0 +1,51 @@
+---
+title: 'Pakistan v England: Shahid Afridi says seven changes ''most shocking decision
+  ever'''
+source_url: https://www.bbc.co.uk/sport/cricket/articles/c4g5x5n892yo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-01T13:29:03Z'
+published: '2026-09-01T00:00:00Z'
+description: Pakistan's decision to make dramatic changes to their squad during the
+  series in England is the "most shocking decision ever", according to former captain
+  Shahid Afridi.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e86/live/15697fe0-a5e7-11f1-a019-f3ea5e194221.jpg
+---
+
+![Former Pakistan captain Shahid Afridi](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6e86/live/15697fe0-a5e7-11f1-a019-f3ea5e194221.jpg)
+
+Shahid Afridi was part of the Pakistan side that won the 2009 World Twenty20
+
+**Pakistan's decision to make wholesale changes to their squad and coaching set-up during the series in England has been branded the "most shocking decision ever by a selection committee" by former captain Shahid Afridi.**
+
+The tourists have dropped seven players and called up five uncapped players, while head coach Sarfaraz Ahmed and his assistant Umar Gul have been replaced by Pakistan white-ball coach Mike Hesson and former Australia seamer Ashley Noffke.
+
+Pakistan, who were thrashed in the opening two Tests, face England in the third and final match of the series at Edgbaston, starting on Wednesday, 9 September.
+
+"Not sure what is the logic or reasoning behind this decision!", Afridi wrote on social media.
+
+"Even the replacements make no sense - T20 players have been included for a Test match in England?
+
+"What is this thinking and approach? Why has the coach been axed after five Test matches?
+
+"This is the most shocking decision ever by a selection committee which includes so many experienced selectors."
+
+Five of the players dropped - Muhammad Rizwan, Imam-ul-Haq, Salman Ali Agha, Ali Usman and Khurram Shahzad - have featured in the series so far, while Aamir Jamal and Muhammad Awais Jafar have been sent home without playing.
+
+A total of seven players have been called up. Batters Saim Ayub and Abdullah Fazal have previous Test experience and join the quintet of uncapped newcomers.
+
+Spin-bowling all-rounder Arafat Minhas, left-arm seamer Mohammed Imran Jr, wicketkeeper Said Baig and all-rounders Mohammad Imran and Razaullah have all received call-ups.
+
+Ex-Pakistan captain Ramiz Raja, also a former chairman of the Pakistan Cricket Board (PCB) told BBC Radio 5 Live: "I'm trying to convince myself this is all OK, but it is not.
+
+"It just shows Pakistan cricket has hit a panic button."
+
+Pakistan are scheduled to have an audience with King Charles at Clarence House this week in an engagement that was planned before the series against England began.
+
+However, it is set to take place despite the series almost coming to controversial early end during the second Test.
+
+At lunch on the first day, the PCB threatened to cancel the remainder of the match and tour because of an interview with the sons of Imran Khan that was broadcast by Sky.
+
+Imran, the former Pakistan captain and prime minster, has been in prison for three years on charges of corruption, which he denies.
+
+Pakistan ultimately completed the Test, with both captain Babar Azam and head coach Sarfaraz denying any knowledge of a planned boycott.
