@@ -1,0 +1,52 @@
+---
+title: 'Folarin Balogun transfer news: Monaco striker has medical at Everton before
+  abandoning move'
+source_url: https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-02T12:45:19Z'
+published: '2026-09-01T00:00:00Z'
+description: Everton's move for Folarin Balogun collapses after the striker changes
+  his mind following a medical at the club's Finch Farm training base.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg
+---
+
+![Folarin Balogun playing for the United States](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg)
+
+Balogun joined AS Monaco from Arsenal in 2023
+
+**Everton's move for Folarin Balogun collapsed after the striker changed his mind over the move following a medical at the club's Finch Farm training base.**
+
+Issues with the medical meant Everton and Monaco renegotiated the initial £40m deal for the 25-year-old striker.
+
+The United States international and both clubs signed a deal sheet before the transfer window closed at 23:00 BST only for Balogun to have a change of heart and walk away.
+
+Balogun had emerged as a late target after Guinea-Bissau frontman Beto completed a permanent switch to Serie A club Fiorentina.
+
+The Toffees did also explore moves for Manchester United striker Joshua Zirkzee and Aston Villa frontman Tammy Abraham, but were unable to convince either to join.
+
+Also on transfer deadline day, Everton signed Jack Grealish on a season-long loan deal from Manchester City.
+
+Grealish spent the 2025-26 season on loan with Everton, making 20 appearances, before sustaining a season-ending foot injury in January.
+
+The 30-year-old had been linked with other teams - including boyhood club Aston Villa - but has opted to reunite with David Moyes on Merseyside.
+
+"I think I'm at my best at everything in life, not just football, when I feel loved. That's what the manager has given me, what my team-mates have given me and especially what the fans have given me," Grealish said.
+
+"Every time I see an Everton fan, it's just pure love and the way they've welcomed me since that first game against Leeds, I'll never forget that."
+
+Grealish, who joined City from Villa for £100m in August 2021, scored twice and provided six assists in 20 appearances during his previous spell with Everton - winning the Premier League Player of the Month for August.
+
+The England international returned from injury during Manchester City's Community Shield defeat against Arsenal on 16 August.
+
+He also featured under Enzo Maresca in City's opening game of the 2026-27 Premier League season as they beat Bournemouth 2-1.
+
+Why did Balogun's move to Everton collapse?
+
+Everton have also completed the signing of Ainsley Maitland-Niles from French side Lyon.
+
+The 29-year-old former Arsenal player has won five caps for England and can operate as a full-back or in midfield.
+
+Meanwhile, Scotland right-back Nathan Patterson has completed a permanent move to Serie A club Torino.
+
+Patterson, 24, joined Everton from Rangers in January 2022 and made 68 appearances across all competitions.
