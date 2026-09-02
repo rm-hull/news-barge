@@ -1,0 +1,59 @@
+---
+title: US and Iran exchange more airstrikes, fuelling fears of wider return to hostilities
+source_url: https://www.theguardian.com/world/2026/sep/01/us-iran-airstrikes-launch
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-02T04:21:48Z'
+published: '2026-09-02T00:00:00Z'
+description: Attacks on Iran’s Revolutionary Guard and reprisals against US bases
+  in Middle East quash hopes that flare-up last weekend was limited in nature
+image: https://i.guim.co.uk/img/media/853afd454de97afef88edc3dd0f63c0ccf1d6c64/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd12907a757fb738bed0881e703ad97b
+---
+
+The US has launched new airstrikes on Iranian targets, prompting counter strikes by Tehran targeting American interests in Bahrain, Kuwait, Jordan and Iraq, fuelling concerns about a wider renewal of hostilities.
+
+US Marine Corps base Camp Titin in Jordan was targeted for an “intense ballistic missile attack”, Iran’s Revolutionary Guards (IRGC) said early on Wednesday, according to Iranian news outlet Tasnim.
+
+The Jordanian army said it intercepted 10 ballistic missiles fired from Iran, and did not confirm any injuries or hits on the US training camp located on the Gulf of Aqaba, near the borders with Israel and Saudi Arabia. Three other missiles landed in remote areas, it said.
+
+Missile and drone attacks were also reported in Kuwait, where the army said it was responding to Iranian hostilities. Agence France-Presse reporters in Bahrain heard alert sirens for airborne attacks go off early on Wednesday. The IRGC also claimed it struck a US base in Erbil, Iraq.
+
+US central command (CentCom) said it had completed a new wave of strikes that targeted the IRGC. It said the strikes were in response to attempted attacks on commercial shipping in the strait of Hormuz and against American service members.
+
+The Iranian Red Crescent said four people, including a child, were killed and more than 50 were wounded when shrapnel from a US missile attack hit a home where a wedding celebration was taking place in the city of Kuhestak.
+
+Asked if the US military had received any credible reports of civilian casualties, US CentCom spokesperson Captain Tim Hawkins said “the US military never targets civilians, unlike the IRGC”.
+
+Iran’s state broadcaster reported explosions on Iran’s Qeshm Island, on the northern side of the strait, and state-linked news agency Nour News reported explosions in the port city of Bandar Abbas and in Chabahar, a port on the southern coast.
+
+Oil prices are already on the rise after an exchange of attacks by the US and Iran at the weekend, the first since July, and after reports that two tankers had been hit in the strait of Hormuz, the global oil supply waterway that Iran has effectively closed to shipping.
+
+Tehran warned that it would prevent oil being exported from the Gulf, despite a threat by Donald Trump to hit Iran “hard” in response to the Iranian strikes, and a warning from Scott Bessent, the US treasury secretary, that Washington was about to impose new sanctions.
+
+The six-month conflict had shifted into an economic standoff before the weekend strikes, in which US forces attacked Iran’s Larak Island on Sunday and Iran responded by launching missiles at two US airbases in Jordan.
+
+On Tuesday, Trump warned that if Iran retaliated against the US’s latest strikes, “they will be hit again at a much harder and higher level, but it will not be the biggest attack of them all, that is waiting in the wings and, when it is over, there will be very little left of the Islamic Republic of Iran”.
+
+The US president has in the past made threats that could amount to war crimes if carried out, including threatening to destroy critical civilian infrastructure, bomb Iran “back to the Stone Ages”, and an April threat that “a whole civilization will die tonight” if a peace deal wasn’t reached.
+
+In Iran, the Fars news agency quoted an IRGC spokesperson as saying the US “will regret its new attacks”. The IRGC later said it had begun a “regretful response to the aggressors”, state broadcaster IRIB reported.
+
+In its statement, the IRGC said that “in blind and desperate attacks”, the US had bombed several locations, including civilian areas. It described them as “attacks that tightened the blockade of the strait of Hormuz and strengthened the determination of the fighters to suppress the foreign forces interfering in the strait of Hormuz.”
+
+Recent pledges by both sides to respond to further attacks have highlighted how quickly a conflict that has increasingly been fought through sanctions, blockades and economic pressure could spill back into military action.
+
+Masoud Pezeshkian, Iran’s president, had said early on Tuesday that Tehran would reciprocate immediately if Washington honoured its commitments under a June memorandum of understanding (MOU) that was intended to halt the conflict.
+
+The MOU declared an end to fighting that has now killed thousands in Iran and Lebanon since US and Israeli strikes began on 28 February. But it also deferred many of the most difficult issues and paved the way for a broader 60-day negotiation period – which passed without further agreement.
+
+“I am stating clearly that if the US returns to its commitments under the memorandum of understanding, the Islamic Republic of Iran will immediately reciprocate,” Pezeshkian said in the Kyrgyz capital, Bishkek, at a summit of the Shanghai Cooperation Organisation, which includes Russia and China.
+
+But Iranian officials have shown no public sign of bowing to pressure.
+
+“If the enemy wants us not to export oil from the Persian Gulf, no one will be able to export oil,” Mohammad Baqer QalibafIran’s parliament speaker was quoted as saying by Iranian media. If the US intensified its “siege”, he said Tehran would respond militarily.
+
+Esmaeil Baghaei, Iran’s foreign ministry spokesperson, told a press conference in Tehran that Washington was “addicted to making excessive demands and has mistaken negotiations for dictating terms”.
+
+“As long as they act in this manner, they will certainly get no result other than what they have achieved so far,” he added, warning that Tehran would “use all our capabilities, whether on the battlefield or through our diplomatic apparatus”.
+
+*Reuters contributed**reporting*

@@ -1,0 +1,51 @@
+---
+title: US officials defend Venezuela oil deal amid questions over rebuilding plan
+source_url: https://www.theguardian.com/us-news/2026/sep/01/trump-venezuela-oil-deal
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-02T04:21:04Z'
+published: '2026-09-02T00:00:00Z'
+description: Government talks up pact but Venezuelan opposition alarmed that democracy
+  yet to return after Maduro exit
+image: https://i.guim.co.uk/img/media/b34a6037ec5d54ecd289711958e3558a35c0a8d0/482_0_4796_3839/master/4796.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8dc58cf84f0ba94276f0b5382c894dd7
+---
+
+Trump administration officials on Tuesday defended a highly contentious deal giving the US control of a significant chunk of Venezuelan oil reserves, arguing that the sweeping agreement would help stabilize and rebuild democracy in the shattered South American country while giving Washington vital access to strategic crude reserves.
+
+Last week, Donald Trump announced a “groundbreaking” deal that would give the US “majority” control over 65bn barrels – roughly one-fifth – of Venezuela’s oil reserves.
+
+On Tuesday, US officials argued that the agreement would create a stable economic platform to restore Venezuelan democracy after nearly three decades of autocratic rule under former president Nicolás Maduro and his predecessor Hugo Chávez. But the pact, forged after months of secret talks, has provoked outrage among Venezuela’s opposition, already furious that democracy has still to return to the country eight months after the removal of Maduro by US special forces.
+
+“They are inheriting a government that is generating revenue that can be used to rebuild that country,” a US official said during a conference call with journalists on Tuesday.
+
+According to a White House factsheet released on Monday, the agreement granted the US-backed North American Blue Energy Partners (Nabep) 100-year rights over 17 oil fields in what it touted as “the biggest oil deal in world history”.
+
+On Tuesday, said allowing Nabep, which is owned by the controversial Venezuelan businessman Alejandro Betancourt, to take over some oil field would provide capital to “ramp up production rapidly”.
+
+“That in turn will generate royalty revenue for the government – initially, the interim government for the time being – but ultimately for the republic, for the democratic elected government,” the official said.
+
+“We can hand over a more stable Venezuela. But no matter what, a democratically elected Venezuela is still going to face challenges after 20 somewhat years of the disaster of Chavismo [the leftist ideology promoted by Chávez] and Maduro after the country was dismantled from the inside out, and it needs to be rebuilt.
+
+“That’s going to take time. You don’t reverse 20 years of corruption, 20 years of kleptocracy, 20 years of no democracy, no freedom.”
+
+The justification for the takeover of 17 oil fields previously controlled by Chinese and Russian companies came as Trump met oil refinery executives to discuss ways of converting crude into petrol and lowering prices for motorists at the pumps.
+
+Chris Wright, the energy secretary, was due to fly to Caracas, the Venezuelan capital, on Tuesday to follow up last week’s deal, which Trump has hailed as “a historic transaction” to fill the US’s strategic oil reserves.
+
+The oil deal has been given added urgency by Trump’s decision to go to war with Iran last February, which has caused fuel prices to soar after the Iranian forces retaliated by closing the strait of Hormuz, previously a passageway for 20% of the world’s oil supplies. Petrol prices now average about $4.10 a gallon compared with under $3 before the war started.
+
+Increased petrol prices have filtered into the rest of the economy and led to significant drops in Trump’s popularity, with polls showing a majority of voters disapproving of his handling of the war and the economy.
+
+The economic outlook formed the backdrop to the oil deal with Venezuela, first announced last Friday.
+
+The agreement was backed by Venezuela’s national assembly – dominated by the ruling United Socialist party – on Tuesday after the country’s president, Delcy Rodriguez, defended it at the weekend.
+
+“The benefits are endless,” claimed Rodríguez, a former vice-president whom Trump backed after ordering Maduro’s capture.
+
+Opposition critics have complained that the Trump administration has made no attempt to promote a transformation to democracy or stage new elections since Maduro was detained by US forces and taken to New York to face criminal charges after a raid on his Caracas residence in January.
+
+Instead, the White House has chosen to work with Rodriguez, Maduro’s former vice-president, despite her past vocal hostility to the US and previous roles in anti-opposition crackdowns in a regime that Washington believes has stolen recent elections.
+
+The official said talks between the Venezuelan government and the opposition were set to resume later this month. “The last thing we want to see is a new democratic elected government inherit a country in crisis,” he said.
+
+*Joseph Gedeon contributed reporting*
