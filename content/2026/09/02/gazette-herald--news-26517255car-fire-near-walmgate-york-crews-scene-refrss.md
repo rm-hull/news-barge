@@ -1,0 +1,16 @@
+---
+title: '''Bang like a shot'' heard before car burst into flames in York street - LIVE'
+source_url: https://www.gazetteherald.co.uk/news/26517255.car-fire-near-walmgate-york---crews-scene/?ref=rss
+source_site: Gazette & Herald
+source_slug: gazette-herald
+scraped_at: '2026-09-02T19:22:12Z'
+published: '2026-09-02T00:00:00Z'
+description: Emergency services have swooped in Navigation Road, off Walmgate in York,
+  after reports of a fire.
+image: https://www.gazetteherald.co.uk/resources/images/21403905.jpg?type=og-image
+---
+
+- Emergency services have swooped in a York street after a car fire.
+- Police and firefighters are on the scene in Navigation Road, off Walmgate, on Wednesday evening (September 2).
+- Eyewitnesses reported the car bursting into flames after hearing "popping" and a bangs.
+- Want to get in touch with us about this story? Email: [newsdesk@thepress.co.uk](mailto:newsdesk@thepress.co.uk)

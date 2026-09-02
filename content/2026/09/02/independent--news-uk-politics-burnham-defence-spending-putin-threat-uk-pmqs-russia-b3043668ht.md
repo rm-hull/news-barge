@@ -1,0 +1,69 @@
+---
+title: Burnham warned cash ‘not vibes’ needed to stop Putin as Russian threats intensify
+source_url: https://www.independent.co.uk/news/uk/politics/burnham-defence-spending-putin-threat-uk-pmqs-russia-b3043668.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-02T19:23:23Z'
+published: '2026-09-02T00:00:00Z'
+description: Burnham was grilled over his defence policy at Prime Minister’s Questions
+  as Putin ratcheted up threats against the UK
+image: https://static.independent.co.uk/2026/09/02/13/2e732fe31bbe90f0344cfa242d793a66Y29udGVudHNlYXJjaGFwaSwxNzg4NDM2NTg0-2.85717482.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+---
+
+Andy Burnham has been warned that cash, “not vibes”, is needed to stop Vladimir Putin amid the growing threat of Russian aggression towards the UK.
+
+Senior Labour backbencher Tan Singh Dhesi, the chair of the Commons Defence Select Committee, issued the stark warning amid confusion over whether the prime minister will commit to spending 3 per cent of GDP on defence by 2030.
+
+In a fiery exchange during Mr Burnham’s first outing in Prime Minister’s Questions – just hours after the Russian president issued yet another threat against the UK – Mr Dhesi cautioned the government on failing to front the cash needed to protect the UK.
+
+He said: “The British people should be under no illusion that the nation faces a significantly increased threat level, especially from Russia, but also we have a US leadership for whom European security is no longer a focus or priority, and that is why it is imperative that we invest in our armed forces in the here and now, rather than be sorry later.”
+
+To cheers from Tory MPs, Mr Dhesi added: “Indeed defence is definitely one area where vibes alone just isn’t going to be enough.
+
+“So rather than kick the can down the road waiting for a fiscal event in a future year, will the prime minister urgently commit to charting a pathway to reaching 3 per cent of GDP spend on defence by 2030, which, as his chancellor rightly noted, is critical to keeping our country safe?”
+
+![Vladimir Putin says it is a ‘military secret’ whether Russia would target the UK over its continued support for Ukraine](https://static.independent.co.uk/2026/09/02/17/2026-09-02T144425Z_152094020_RC21BNAJ364V_RTRMADP_3_RUSSIA-FORUM-PUTIN-DING.JPG)
+
+Mr Dhesi’s warning comes after the Russian president issued a veiled threat against UK targets over its support for Ukraine.
+
+Asked how he would respond to the UK’s decision to provide Kyiv with blueprints for the Scalp weapon, a version of the British Storm Shadow missile – and whether he is weighing up possible strikes on UK military sites on British territory – the Russian president said: “That’s a secret, a military secret.”
+
+He added that “any military facilities in Ukraine are our legitimate target, British or otherwise”.
+
+It was the third such warning from Russia in recent weeks, after Russian foreign minister Sergei Lavrov said his country had a right to regard the “direct involvement of British missile forces” as “participation in the war, with all the ensuing consequences”.
+
+During PMQs, the prime minister appeared to suggest he was committed to the 3 per cent defence target, but later Downing Street issued a clarification admitting it was not a commitment.
+
+![Tan Singh Dhesi told Burnham ‘vibes alone’ won’t work](https://static.independent.co.uk/2026/03/02/18/38/Statement-Middle-East-Prime-Minister-P_26_072-10_70895.jpeg)
+
+Mr Burnham said: “I’ve made that commitment very clear, and I have done for a considerable period of time. I was in Ukraine last week for a very specific reason, to repeat it on the world stage there.
+
+“I also think that alongside our commitment to defence we also have to build the resilience of Britain; we need to ensure that the maximum amount of that funding committed to the defence investment plan goes back into the reindustrialisation of our communities, that we do more to maintain sovereign manufacturing and production capability here, and this will be a theme of my government.
+
+“Making sure that British taxpayers’ money goes into supporting industry in our own country to make us more resilient going into the future.”
+
+The exchanges came after Mr Burnham and Tory leader Kemi Badenoch locked horns over the state of the country’s finances as borrowing went up £12bn as a result of the gilt markets ratcheting up the value of British debt.
+
+Mr Burnham informed Conservative leader Ms Badenoch that there was “no problem” regarding the party’s defence stance.
+
+He insisted that he had appointed John Healey as chancellor because of his commitment to defence spending, having resigned from Sir Keir Starmer’s government over a shortfall in the military plans, which ultimately contributed to the end of Sir Keir’s time in No 10.
+
+![Kemi Badenoch called on Burnham to cut welfare spending and use the money on the UK’s defence](https://static.independent.co.uk/2026/09/02/12/01M1GWX4PRFSFV7QEK9CQTCQ9X.jpg)
+
+Mr Healey was later named chancellor by Mr Burnham, expected to deliver 3 per cent defence spending by 2030 and 3.5 per cent by 2035. But reports now suggest Mr Healey may back away from his 2030 goal, despite him insisting over the weekend that he is “not a hypocrite” on the issue in an interview with *The Times*.
+
+Proposals in the Defence Investment Plan (Dip) will increase defence spending to 2.7 per cent of GDP by 2027/28, but there is a lack of detail on further rises.
+
+The Treasury maintains that plans to reach 3 per cent and 3.5 per cent will be outlined at next year’s spending review.
+
+Mr Burnham assured Ms Badenoch that he would fully fund the Dip as she urged him to “cut welfare spending and invest that money in our defence”.
+
+She added: “The honeymoon is over. Isn’t it time for the prime minister to ditch the vibes and get serious about defending our nation?"
+
+Mr Burnham responded: “The very reason I appointed this chancellor [Mr Healey] to his position is because of his strong commitment to the defence of our country and to defence spending.
+
+“We will fully fund the Defence Investment Plan and, at the spending review, we will set out a plan to meet our Nato commitment by 2035. There is no problem with our commitment to defence.”
+
+Tory shadow armed forces minister Mark Francois said: “The first duty of government is the defence of the realm and Andy Burnham comprehensively failed that test today.”
+
+He warned that Moscow would now see “the British prime minister as weak on defence”.
