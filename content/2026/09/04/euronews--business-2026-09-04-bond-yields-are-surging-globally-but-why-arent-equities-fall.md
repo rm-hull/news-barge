@@ -1,0 +1,121 @@
+---
+title: Bond yields are surging globally but why aren’t equities falling?
+source_url: https://www.euronews.com/business/2026/09/04/bond-yields-are-surging-globally-but-why-arent-equities-falling
+source_site: Euronews
+source_slug: euronews
+scraped_at: '2026-09-04T18:59:14Z'
+published: '2026-09-04T00:00:00Z'
+description: Higher bond yields are alarming investors, but strong growth and record
+  earnings may help equity markets absorb the rising borrowing costs.
+image: https://images.euronews.com/articles/stories/09/90/05/96/1200x675_cmsv2_ac6e7514-cf6d-5cc1-9cdb-918e05b1acb2-9900596.jpg
+---
+
+## Higher bond yields are alarming investors, but strong growth and record earnings may help equity markets absorb the rising borrowing costs.
+
+The 30-year US Treasury yield remains above 5%, near levels last seen in 2007.
+
+At the same time, government borrowing costs have climbed to multi-decade highs across Germany, Japan and the UK.
+
+By almost any conventional measure, this should be bad news for equity markets.
+
+Higher bond yields raise borrowing costs, pressure equity valuations and give investors a more attractive alternative to shares.
+
+Yet equities have barely blinked.
+
+The S&P 500 is up roughly 13% this year and sits less than 1% below its 13 August record. Europe’s STOXX 600 has gained about 9.5%, while Japan’s Nikkei 225 has surged more than 27%.
+
+That leaves investors with a puzzle: if higher yields are supposed to hurt stocks, why are equity markets still so resilient?
+
+The answer may lie not in how high yields are, but in why they are rising.
+
+### Higher yields can be a symptom of economic strength
+
+New York Fed President JohnWilliams offered an unusually important clue this week.
+
+Speaking to CNBC, Williams said the rise in long-term yields was largely being driven by economic strength and investment in artificial intelligence and data centres.
+
+“What’s driving it…is really a strong U.S. economy and a strong economic outlook fuelled by big investments in AI and data centres and technology in general,” Williams said.
+
+That changes the equation for investors.
+
+If yields rise because investors expect stronger growth, companies may also generate stronger revenues and profits.
+
+Higher financing costs become a headwind, but rising earnings can offset part of that pressure.
+
+Williams made the distinction even clearer. He said it was not necessarily a case of financial conditions weakening the economy.
+
+“It’s more about the economy affecting financial conditions,” he said.
+
+### Kevin Warsh sees an economy still absorbing the pressure
+
+Fed Chair Kevin Warsh made a version of the same argument at Jackson Hole on 28 August.
+
+Warsh said real consumer spending had increased by more than 2% over the previous four quarters. Private domestic final purchases, a measure combining consumption and investment, had risen at almost a 3% annual pace during 2026.
+
+He also highlighted a labour market that remains relatively stable.
+
+“The jobless rate, at 4.1 percent, remains low by historical standards and has not changed much for a couple of years,” Warsh said.
+
+More importantly for the bond-equity debate, Warsh said:
+
+“On balance, I would be hard pressed to describe broad financial conditions as restrictive.”
+
+That is a remarkable statement in an environment where long-term borrowing costs have risen sharply.
+
+It suggests that higher yields have not yet translated into the kind of financial tightening that would normally threaten the economic cycle.
+
+## The earnings boom is giving stocks a cushion
+
+The strongest support for equities is arithmetic, and it comes from company results.
+
+According to FactSet's Earnings Insight published on 28 August, with 97% of the S&P 500 having reported second-quarter results, 86% beat earnings estimates and 77% beat on revenue, both above their five-year and 10-year averages.
+
+Blended earnings growth for the quarter stands at 52%, which would be the fastest since the second quarter of 2021.
+
+Revenue grew 15.5% and the net profit margin reached 17%, the highest FactSet has recorded since it began tracking the measure in 2009.
+
+## Even the bond vigilantes are not panicking yet
+
+The most interesting voice in this debate may be Ed Yardeni, a well-known Israeli-born American economist and the president of Yardeni Research.
+
+Yardeni coined the term “bond vigilantes” in 1983 to describe investors who pressure governments through the bond market when they believe fiscal policy has become irresponsible or monetary policy too timid against inflation.
+
+He is not sounding the alarm.
+
+The 10-year Treasury yield remains broadly within his 4%–5% “old normal” range, which he says characterised the period between the pre-financial-crisis years and the pandemic. He also notes that the yield remains below nominal US GDP growth.
+
+“We’ll worry about the government’s debt when the Bond Vigilantes do,” Yardeni wrote.
+
+That does not mean investors should ignore rising yields.
+
+It means the critical threshold may not be a particular number such as 5%.
+
+The bigger warning would come if yields continued rising while economic growth weakened, earnings estimates fell and inflation expectations accelerated.
+
+That would create the combination stocks fear most: higher discount rates and lower profits.
+
+### The real test is what happens next
+
+For now, the evidence points to a market facing higher rates with unusually strong earnings support.
+
+The lesson of 2026 so far is that the level of yields matters less than what sits next to them.
+
+That does not make equities immune to rising yields but it does suggest that investors may be asking the wrong question.
+
+Instead of asking whether higher bond yields are automatically bad for stocks, they should ask what is driving them.
+
+If yields rise because productivity, investment and economic growth are strengthening, equities can potentially absorb the shock.
+
+If yields rise because governments are losing control of inflation and debt markets are demanding compensation for greater risk, the story changes completely.
+
+The next test comes on 16 September, when the Federal Reserve meets for the first time since Warsh told the world that policy is not restrictive.
+
+If he means it, bond investors may finally get the answer they have been demanding.
+
+## Read more
+
+![FILE - Jensen Huang, president and CEO of Nvidia, at a ceremony on June 16, 2026, in Sherman, Texas. (AP Photo/Jeffrey McWhorter, File)](https://images.euronews.com/articles/stories/09/90/01/66/480x270_cmsv2_9033d9f7-c709-51b6-94af-bbeb144b664b-9900166.jpg) 
+
+![President of European Central Bank Christine Lagarde addresses the media in Frankfurt, Germany, Thursday, July 23, 2026, after a meeting of the ECB's governing council.](https://images.euronews.com/articles/stories/09/88/16/94/480x270_cmsv2_73befe30-e5bb-5a67-838d-3dbaddbb68fa-9881694.jpg) 
+
+![File - A trader watches his screens when the German stock index DAX went over 11 000 points at the stock market in Frankfurt, Germany, Thursday, 19. Nov. 2015.](https://images.euronews.com/articles/stories/09/89/67/44/480x270_cmsv2_b17e48ea-85be-5cfc-9948-788fd7c0392c-9896744.jpg)
