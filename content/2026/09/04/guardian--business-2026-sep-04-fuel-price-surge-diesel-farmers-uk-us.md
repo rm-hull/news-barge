@@ -1,0 +1,49 @@
+---
+title: ‘Astronomical’ fuel price surge hits farmers in UK and US
+source_url: https://www.theguardian.com/business/2026/sep/04/fuel-price-surge-diesel-farmers-uk-us
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-04T12:42:10Z'
+published: '2026-09-04T00:00:00Z'
+description: Intensification of Middle East conflict and ongoing Russian export ban
+  leads to diesel prices rising 10% in less than a week
+image: https://i.guim.co.uk/img/media/4ef2d81d1b7e24db17355a0c098764333a96ffb8/451_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08a50d5d2f8167f65e97a01c39a0c698
+---
+
+Farmers are facing an “astronomical” jump in the price of fuel needed to operate their vehicles and machinery after a surge in diesel costs in the UK and the US.
+
+Renewed fighting between the US and Iran has driven up the price of crude oil, while last week Russia extended a ban on diesel exports, further pushing up market prices.
+
+An intensification of Middle East hostilities over the weekend pushed fuel costs even higher for farmers, said Alex Harrison, a fuel buyer at Fram Farmers, a not-for-profit farmer-owned co-operative. The price of all fuels had gone up by “an astronomical amount in just a few days”, she said, rising by between 10p and 14p a litre since Monday.
+
+This represents about a 10% increase in the cost of red diesel – fuel used for agricultural vehicles and machinery that is taxed at a lower rate to standard diesel – which currently costs about £1.10 a litre.
+
+The average price of diesel for UK motorists had climbed to 183.5p a litre on Thursday, according to government data, up from 164.5p in mid-July.
+
+On Friday, US diesel prices at the pump reached an all-time high of $5.85 a gallon compared with an average of $3.71 a year ago, according to the American Automobile Association. The figure outstripped the previous high that followed Russia’s full-scale invasion of Ukraine in 2022.
+
+The volatility in oil wholesale markets has left farmers struggling to decide how much fuel to buy and when, with many calling for advice from Fram Farmers, which represents more than 1,400 farm businesses across the UK.
+
+While the harvest peak demand for red diesel and other fuels has passed, many growers traditionally buy more fuel at this time of year as they begin to prepare their land for winter.
+
+“This latest spike has really caught everybody by surprise and hit them quite hard because it’s been such a large spike and because of the time of year,” Harrison said. Farmers are “trying to decide what’s best to do, how to order for [managing their] cashflow”.
+
+The co-operative’s members have changed their buying patterns since the outbreak of war in Iran sent oil prices soaring. Harrison said: “A lot of people have ordered in much smaller increments and more often, as they are trying to hedge their bets a little.”
+
+![A green tractor in a Gloucestershire field spraying a crop.](https://i.guim.co.uk/img/media/1830c6c8d20565432c7a8d0dfaaf394c6d7c5c9d/0_0_5100_3388/master/5100.jpg?width=445&dpr=1&s=none&crop=none)
+
+The rise in diesel prices comes amid a squeeze on global refining capacity. Russia, which normally supplies about 10% of the world’s diesel despite western sanctions, has been hit by Ukrainian drone attacks on its refineries in August, prompting the export ban extension.
+
+That has been compounded by a wider increase in the price of crude oil. The international benchmark Brent crude was trading at close to $97 a barrel on Thursday, its highest point in about six weeks.
+
+after newsletter promotion
+
+There was a major flare-up in attacks in the Middle East last weekend, the first US strikes since July. Two Saudi supertankers were hit in the strait of Hormuz late on Monday, fuelling concerns of a longer-term return to hostilities.
+
+Tehran warned that it would prevent oil being exported from the Gulf despite a threat by Donald Trump to hit Iran “hard” in response to the Iranian strikes.
+
+Small businesses and larger companies that rely on vehicle fleets, such as delivery firms and construction companies, will also face higher running costs as a result.
+
+Back in the UK, the price of paraffin, or heating oil – widely used on farms to heat buildings including farmhouses and barns – is also higher, at a time of year when many households, mostly in rural communities that are not connected to the gas network, would usually be starting to think about filling their tanks ahead of the winter.
+
+The current price for paraffin is close to £1 a litre compared with prices of about 60p a litre just before the Iran war.
