@@ -1,0 +1,82 @@
+---
+title: '‘Guilt by association’: why seven international aid workers were killed in
+  Israeli airstrike'
+source_url: https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-05T04:17:45Z'
+published: '2026-09-05T00:00:00Z'
+description: 'Exclusive: Guardian investigation reveals targeting of World Central
+  Kitchen convoy was result of widely used military tactic'
+image: https://i.guim.co.uk/img/media/07dcae18edb859f43f16e9b15b3db1e8ebbaabf5/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e59aadf9057617b8771fcc480c9bd1c
+---
+
+Seven aid workers killed in an airstrike in Gaza were marked as targets under an Israeli military practice of establishing guilt by association, a Guardian investigation shows.
+
+A top Israeli military prosecutor announced last month that he would not pursue criminal proceedings for the April 2024 incident in which drones fired missiles at three clearly marked World Central Kitchen (WCK) cars soon after they had escorted a food aid delivery to Gaza. Three British humanitarian workers along with an Australian, a Palestinian, a Pole and a dual US-Canadian national were killed.
+
+The official Israel Defense Forces (IDF) version of events pointed to specific mistakes made by a handful of officers. The victims of the strike were also blamed for hiring armed guards to protect a food aid convoy and for allegedly “deviating” from their agreed route.
+
+However, interviews with senior Israeli officers involved in the incident or familiar with the official Israel investigation suggest it glossed over the role played in the killings by a common IDF practice used to designate targets, which endangers aid workers and civilians in general, especially when combined with the army’s open-ended mission to end Hamas’s civil control in Gaza.
+
+More than 70,000 Palestinians have been killed by the Israeli military in the three years of the Gaza war. The army’s own internal data suggests more than three-quarters of the dead have been civilians.
+
+The reserve colonel who ordered the strikes, Nochi Mendel, said the WCK workers became potential targets after they had a brief encounter, lasting just minutes, with armed guards assumed to be from Hamas (an assumption later shown to be groundless).
+
+He deemed them to have “mixed together” with alleged Hamas militants, where mixing together was defined as being “near them, talking, playing, hanging out and so on”. Asked whether the presence of armed men made the entire convoy a target, Mendel replied: “Certainly.”
+
+He concluded: “They were not innocent because they were connected to Hamas.”
+
+![A destroyed aid vehicle](https://i.guim.co.uk/img/media/07dcae18edb859f43f16e9b15b3db1e8ebbaabf5/0_0_5472_3648/master/5472.jpg?width=445&dpr=1&s=none&crop=none)
+
+Mendel was referring to a general policy of *haflala*, “incrimination”, which gives commanders in the field wide discretion on designating someone as a “terrorist”, including those “incriminated” by association. The manner in which* haflala* is to be applied in a given sector is often conveyed in a commander’s mission brief delivered verbally to other officers.
+
+He said his unit had been commended by the army hierarchy for its involvement in several strikes on what were deemed to be Hamas attempted commandeering of aid. “They applauded us and were pleased with our action,” he said. The difference in the WCK incident was that foreign nationals were killed, he said. “That’s the whole difference. Not a substantive difference.”
+
+When the WCK convoy was destroyed, it was nowhere near Israeli troops. Several Israeli officers familiar with the incident said the strikes were not ordered on the basis of an imminent threat to Israeli lives, but to fulfil the mission to thwart Hamas attempts to control aid deliveries.
+
+The IDF was approached for comment on the issues raised by the airstrikes and subsequent investigations but had not responded three days after the request.
+
+The WCK said the Israeli decision not to pursue criminal proceedings was “inconsistent with the full truth and deeply offensive”.
+
+“At the time of the lethal attacks, our team in Gaza was unarmed and posing a threat to nobody,” the WCK said. “The IDF had full visual clarity on our clearly marked humanitarian vehicles during the extended, multiple airstrikes. It knew our team’s movements, identities and activities in advance.”
+
+Britain, Australia and Canada denounced the prosecutor’s decision as “shameful”, saying they would “continue to seek answers” on behalf of the slain aid workers. The UK opened an inquest in 2024 into the deaths of the three British team members: James Kirby, James Henderson and John Chapman.
+
+Saifeddin Abutaha, a Palestinian, Australian Zomi Frankcom, Damian Sobol, a Pole, and a dual Canadian-US citizen, Jacob Flickinger, were the other victims. The UK inquest was adjourned pending the outcome of the Israeli investigation.
+
+![Mourners carry the coffin of James Kirby covered in a union flag](https://i.guim.co.uk/img/media/c5af861dc591e642869e695006d2a661cf87787a/0_0_7782_5188/master/7782.jpg?width=445&dpr=1&s=none&crop=none)
+
+Mendel, who is the only officer of such high rank to have been dismissed for his actions in the Gaza war, has been portrayed in army command briefings as a rogue operator. Questions have been raised about a political motive. Mendel is a settler who is reported to have been one of the 130 signatories of a 20 January 2024 letter to the IDF calling for the flow of aid to Gaza to be restricted.
+
+However, the way the Israeli army operates in Gaza – rules of engagement are made contingent on local circumstances and passed on, often verbally, down the chain of command – gives officers at Mendel’s level wide discretion in subjective judgments as to who is a “terrorist” and therefore a target.
+
+An IDF officer familiar with the WCK killings said that given the circumstances and the standing IDF procedures, the overwhelming majority of officers would have acted in the same way. “There were armed men next to them,” the officer said. “If you took qualified people and put them on the call, in 90% of cases this is what would have happened,” the officer said. “In my guess, 99% of the time the first bomb would have been dropped; 90% of the time the second; 80% of the time the third.”
+
+Reserve Brigadier General Oren Solomon, the battle manager of Gaza Division, said that a mistake had been made in determining that an armed man had entered one of the vehicles, but added that once that error had been committed, the incrimination procedure led inevitably to the three missile strikes.
+
+“If I incriminated this vehicle beforehand as Hamas — anyone who escapes from it and enters another vehicle: death comes,” Brig Gen Solomon said. “Together with him they will die. That meets the incrimination rules, no problem.”
+
+A senior officer involved in the initial Israeli military investigation into the WCK case, argued Mendel overstepped in interpreting the rules of incrimination.
+
+“You can’t incriminate 20 people if there’s one armed,” he said. The officer argued that the first strike could have been justified by the initial misidentification, even at the cost of citizen casualties, but not the subsequent missiles.
+
+“You struck someone you suspected, a vehicle you suspected had an armed man in it. The moment two people came out, nobody with a weapon, the second and third strikes are contrary to orders because you don’t know whom you’re striking,” he said.
+
+The other systemic factor that contributed to the deaths of the seven aid workers, and potentially countless more civilians, was one of the missions given to the army in Gaza by Benjamin Netanyahu’s coalition government: to destroy Hamas’s influence and control. That meant anyone deemed to be involved in – or assisting – the Hamas administration, including by distributing aid, could find themselves in the sights of an Israeli drone operator.
+
+“I remind you that part of our mission was to crush Hamas’s ability to govern,” Mendel said. “Part of the mission was to hit that [Hamas-controlled aid deliveries], and we hit it.””
+
+Interviews with IDF officers suggest there was a widespread belief in the ranks that Hamas had wrested control of the bulk of aid deliveries into Gaza. That assumption was unfounded, later analysis showed. It was a period of widespread hunger caused by an Israeli blockade, when food convoys were being mobbed by desperate civilians, criminal gangs and Hamas militia.
+
+The belief that Hamas hijacks were widespread meant that the appearance of armed men in proximity to the WCK vehicle in April 2024 fitted a “pattern of activity” that helped incriminate the whole convoy in the eyes of Mendel and his unit.
+
+The IDF officer familiar with the incident said it was common practice to designate any armed man in Gaza as Hamas or a “terrorist”, as Mendel did. The officer added: “How you define that it’s Hamas – he’s in proximity to weapons, and because he touches the trucks, and because he does all sorts of things that look as if he’s going to take over the trucks.”
+
+The role of the incrimination principle in the WCK killings shows how it has become a factor in the historically high proportion of civilians killed in the Gaza war. This sits alongside the routine acceptance of high “collateral damage” in the targeting of Hamas militants, the designation of large and shifting areas as free-fire zones, and the deliberate levelling of neighbourhoods to prevent the return of Palestinian communities.
+
+The common factor is that constraints on targeting were minimised in the interests of an open-ended mission. Since the start of the war in 2023, no Israeli soldier has been convicted of wrongful death or war crimes in Gaza operations.
+
+“I came to defeat Hamas,” Mendel said. “If such an event came before me again, I would do exactly the same thing.”
+
+He also dismissed the significance of the killings. “I think it’s an idiotic side event,” Mendel said. “It really isn’t a serious event.”
