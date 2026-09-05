@@ -1,0 +1,33 @@
+---
+title: Egyptian TV presenter among 12 sentenced to death for drug crime
+source_url: https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-05T22:03:35Z'
+published: '2026-09-05T00:00:00Z'
+description: Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture
+  and traffick drugs
+image: https://i.guim.co.uk/img/media/2b21dab2c27129a9519848c80bdafef75e9cfea3/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d414d9e199048818dfdb0b1f6257453
+---
+
+An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday.
+
+The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime.
+
+The state-linked Al-Ahram newspaper said a Cairo court sentenced “Khalifa and 11 other defendants to death by hanging on charges of forming an organised criminal gang specialising in procuring materials used in manufacturing narcotics, with the intent to traffic them, and possessing and carrying unlicensed firearms and ammunition”.
+
+The verdict came after the court consulted the Grand Mufti of Egypt for his religious opinion, a procedure required by Egyptian law in capital cases.
+
+The verdict is subject to appeal.
+
+Khalifa also owns a cosmetic surgery clinic and a production company that specialises in organising parties and events.
+
+According to the state-run Akhbar el-Yom newspaper, the defendants were charged with “manufacturing synthetic drugs with the intent to traffic them, by importing the materials used in manufacturing from abroad”.
+
+Al-Ahram reported that authorities seized more than 750kg of narcotics and raw materials, and found two apartments used as laboratories as well as unlicensed firearms and ammunition.
+
+The court also sentenced Khalifa and others to five years in prison over a separate case involving the kidnapping and assault of a young man.
+
+Egypt applies the death penalty for premeditated murder, terrorism, some rape offences and drug trafficking.
+
+According to the Egyptian Commission for Rights and Freedoms, 541 death sentences were issued in Egypt in 2025.
