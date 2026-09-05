@@ -1,0 +1,124 @@
+---
+title: 'Ukraine war latest: Putin official warns Trump over peace talks'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-peace-talks-news-b3045126.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-05T11:49:10Z'
+published: '2026-09-05T00:00:00Z'
+description: Witkoff and Kushner are set to visit Moscow and Kyiv over the weekend
+image: https://static.independent.co.uk/2026/06/30/08/2282101138..?trim=0,356,1010,588&width=1200&height=800&crop=1200:800
+---
+
+Vladimir Putin’s deputy foreign minister has issued a warning to Donald Trump as envoys for the US president are believed to be heading to Moscow for talks to end Russia’s invasion of Ukraine.
+
+"The key question is the extent to which the US administration is prepared to invest in finding a real solution to the current crisis, considering the realities on the ground,” Sergei Ryabkov said.
+
+This, Mr Ryabkov sought to claim, was a situation which was not developing in Kyiv's favour, Russian state news agency TASS reported.
+
+Trump’s envoys, Jared Kushner and Steve Witkoff, are expected to meet Russian president Vladimir Putin in Moscow on Saturday before travelling to Kyiv on Sunday to meet Ukrainian president Volodymyr Zelensky, according to US officials.
+
+The trip comes as Russia continues its attacks despite Zelensky’s offer of a temporary air truce. “There will be no airstrikes from our side, and Russia must reciprocally ensure a period of calm, with no airstrikes on its part for as long as necessary to hold these talks,” Zelensky said on Friday.
+
+Russia nevertheless launched overnight strikes on Ukraine, killing four people and injuring five in Kamianske in Dnipropetrovsk Oblast, while Russian drones also struck Kyiv.
+
+## Witkoff and Kushner land in Moscow for fresh Ukraine peace push
+
+US special representatives Steve Witkoff and Jared Kushner have arrived in Moscow for talks on ending Russia’s war in Ukraine, according to two people familiar with the visit.
+
+The pair were met at Moscow’s government airport by Russian presidential envoy Kirill Dmitriev, with a motorcade carrying all three later leaving the airport for the city, Reuters reported.
+
+![A motorcade believed to be carrying US officials, including President Donald Trump's special envoy Steve Witkoff and son-in-law Jared Kushner, leaves Vnukovo International Airport in Moscow, Russia](https://static.independent.co.uk/2026/09/05/11/2026-09-05T104028Z_1347561880_RC2YCNA0DAQ0_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG)
+
+Dmitriev has taken part in Witkoff and Kushner’s previous meetings with Vladimir Putin and remained in contact with US negotiators during a pause in their Moscow visits. He also helped negotiate US sanctions waivers for Russian oil this year.
+
+Witkoff and Kushner are expected to meet Putin before travelling to Kyiv on Sunday to meet Volodymyr Zelensky. Trump said on Friday that the envoys were carrying a new proposal to end the war, saying: “We have an idea for peace.”
+
+## Russia kills five in Ukraine as US envoys arrive in Moscow
+
+US envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday for talks aimed at reviving stalled efforts to end Russia’s war in Ukraine, as fresh Russian strikes killed five people and wounded five more.
+
+The envoys were met at the airport by Russian negotiator Kirill Dmitriev, Russia’s TASS news agency reported. They are expected to meet Vladimir Putin before travelling to Kyiv on Sunday for talks with Volodymyr Zelensky.
+
+Ukraine’s air force said Russia launched 167 attack drones and ballistic missiles overnight, including around 80 jet-powered Shahed-type drones.
+
+In the Dnipropetrovsk region, five workers were killed at an industrial facility. Regional official Oleksandr Hanzha described them as “people of peaceful professions” who were “simply working their shift”.
+
+Russian strikes also damaged a residential building in Boryspil and hit a shopping centre in Mykolaiv region, where two people were wounded.
+
+## Putin official issues warning to Trump
+
+Vladimir Putin’s deputy foreign minister has issued a warning to Donald Trump as envoys for the US president are believed to be heading to Moscow for talks to end Russia’s invasion of Ukraine.
+
+"The key question is the extent to which the US administration is prepared to invest in finding a real solution to the current crisis, considering the realities on the ground,” Sergei Ryabkov said.
+
+This, Mr Ryabkov sought to claim, was a situation which was not developing in Kyiv's favour, Russian state news agency TASS reported.
+
+The trip comes as Russia continues its attacks despite Zelensky’s offer of a temporary air truce.
+
+## Four killed, five injured in latest Russian attack on Ukraine
+
+Russia launched fresh attacks across Ukraine on Saturday, killing at least four people and injuring five, as Kyiv called for a temporary air truce ahead of US peace talks.
+
+In Kamianske, Dnipropetrovsk region, a Russian strike hit an industrial facility overnight, killing four people and injuring five, Ukrainska Pravda reported. Three of those wounded were hospitalised, with one in intensive care, according to regional governor Oleksandr Hanzha.
+
+![A woman looks out of a window of her apartment damaged by a Russian missile strike in the town of Boryspil](https://static.independent.co.uk/2026/09/05/08/2026-09-01T070651Z_2040822783_RC25ANA8EV3O_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION.JPG)
+
+Russian drones also struck the Kyiv region, damaging a nine-storey residential building in Boryspil and starting fires on its roof and in an apartment. Two women were injured and taken to hospital, according to the Kyiv regional authorities.
+
+The attacks came despite Volodymyr Zelensky’s proposal for a temporary halt to airstrikes while US envoys Steve Witkoff and Jared Kushner travel to Moscow and Kyiv.
+
+## Plane believed to be carrying US envoys Witkoff and Kushner lands in Moscow
+
+A business jet believed to be carrying US president Donald Trump's special envoy Steve Witkoff and his son-in-law Jared Kushner arrived in Moscow on Saturday, Russia's Interfax news agency reported, citing aviation sources.
+
+On Friday, Trump said the envoys were heading abroad to attempt to reach a peace deal between Russia and Ukraine.
+
+## Ukraine warns Russia preparing plans for northern offensive
+
+Ukraine says Russia is preparing several possible scenarios for a new offensive in the north, including towards Kyiv and Chernihiv, according to presidential aide Pavlo Palisa.
+
+Palisa told journalists last week that Russian military leadership had been tasked with preparing the plans and that Ukrainian intelligence had verified the information through several sources. “Several options were considered,” he said, according to the *Kyiv Independent*.
+
+However, he added that Ukraine was not currently detecting new Russian offensive groupings in those directions. “Our top priority is to prevent the conditions from emerging that would allow Russia to launch any offensive operations at all,” Palisa said.
+
+Ukraine has prepared its own response, Palisa said, including plans to “defend, protect, and counter” any Russian move.
+
+## Putin’s friends finally tell him the truth: Get out of Ukraine to save yourself
+
+Authoritarian populists like Vladimir Putin know that when fellow anti-democrats start calling them “my friend”, the writing may be on the wall.
+
+No wonder the Russian president shifted in his seat and tapped his feet impatiently while his erstwhile buddy, the OG populist and Hindu nationalist, Narendra Modi, gave him a mini-lecture – in public – on how he’s got to end his war against Ukraine.
+
+The Russian president didn’t like what Narendra Modi told him but India’s PM is trying to keep the global gang together, explains world affairs editor Sam Kiley
+
+## Kyiv seeks EU help as Ukraine faces €23bn defence gap
+
+Ukraine is facing a €23bn (£19.7bn) funding gap for its defence needs this year, as Kyiv warns it may have to cut non-military spending unless allies provide more support.
+
+President Volodymyr Zelensky has asked the EU to bring forward part of its €90bn (£77.2bn) Ukraine Support Loan, which is divided into €45bn for 2026 and €45bn for 2027. The shortfall is meant to cover weapons purchases, personnel, and social support, including around €6bn (£5.1bn) in advance payments for weapons due to be delivered early next year.
+
+“Frontloading the EU loan is not a silver bullet,” Chentsov told *Euronews*, as Kyiv also seeks support from countries outside the EU.
+
+## ICYMI: Trump envoys head to Moscow for Putin peace talks
+
+Donald Trump’s special envoys Steve Witkoff and Jared Kushner are travelling to Moscow on Saturday for talks with Vladimir Putin before heading to Kyiv on Sunday to meet Volodymyr Zelensky, in a fresh US push to revive stalled peace efforts.
+
+The pair are due to meet Putin at the Kremlin on Saturday, while Zelensky confirmed their Kyiv visit for Sunday, reported *Axios*.
+
+Trump said the envoys were taking a proposal to end the war, telling reporters: “We have an idea for peace” and saying there was “a good chance” something could be achieved.
+
+Zelensky has called for a temporary halt to airstrikes during the envoys’ mission, saying: “There will be no airstrikes from our side, and Russia should reciprocally ensure a period of calm.”
+
+However, Russian attacks continued into Saturday, as a strike on Kamianske in Dnipropetrovsk region killed four people and injured five, while Russian drones also hit the Kyiv region, injuring two women in Boryspil.
+
+This followed Friday’s Russian drone strike on the headquarters of Ukraine’s Security Service in central Kyiv, which injured 12 people, according to Zelensky.
+
+## Russian attacks devastate Ukraine's food distribution network
+
+Russian attacks have destroyed around 90 per cent of the food-logistics infrastructure used by Ukraine’s retail chains, according to the country's agriculture minister.
+
+“As of today, roughly speaking, 90 per cent of food logistics for retail chains have been destroyed, but that does not mean Ukrainians will be left without food,” Taras Vysotskyi said last week.
+
+Vysotskyi said retailers were switching to alternative arrangements, including direct deliveries by truck, to keep food moving. “There will be no threat of hunger or systemic physical shortages of food,” he said.
+
+Ukraine’s agriculture ministry said exports in August were running at only about a third of potential volume, while data from Spike Brokers showed total agricultural exports in the first 27 days of August had fallen 47.5 per cent from the equivalent period in July.

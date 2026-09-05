@@ -1,0 +1,41 @@
+---
+title: The Watch World Went Crazy This Week. Here Are the 10 You Need to See
+source_url: https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-09-05T11:49:54Z'
+published: '2026-09-05T00:00:00Z'
+description: The main action took place at Geneva Watch Days, but others dialed in
+  remotely to make sure it wasn't just a Swiss party.
+image: https://media.wired.com/photos/6a9b0cbfa95fee1cd7b0f651/191:100/w_1280,c_limit/WatchWeek.jpg
+---
+
+While Watches and Wonders every April is undoubtedly the watch world's main event of the year, Geneva Watch Days—which inauspiciously launched in 2020, the year Covid was declared a pandemic—is now establishing itself as a serious follow-up. Big brands can hold back key releases and gain valuable space to shout about new pieces away from the horological hubbub of W&W.
+
+A second bite of the marketing apple in the latter half of the year seems like a good idea, as Swiss watch exports declined again in 2025 after a drop in 2024. However, despite America's tariff seesaw, the US is still by far the single largest market for Swiss watches. And, more positively for watch fans, signs suggest the industry downturn could be over.
+
+Here are WIRED's picks of the best watches that dropped this week.
+
+Inspired by the 1960s Breitling Navitimer 806 Mk5 worn by none other than Miles Davis, this manual-wind B09 with a display caseback takes cues from the original beyond the manual winding: the Twin Jet logo, reverse-panda dial, faux-aged cream-colored lume, and the original 41-mm dimensions. The pitch is that you get what made the 806 Mk5 great but with a modern overhaul. This model is limited to 500 pieces: You could go for the stainless steel on calf leather strap for $8,900, but we think you'd be kind of blue (sorry) to miss the superb bracelet model, complete with round vents, for $9,600.
+
+Not part of Geneva Watch Days, here's something genuinely new from Casio's G-Shock line that's leaked and could break the internet. The GAC-2500 series is a resin analog lineup supposedly built from the DNA of the DW-5000C, the very first G-Shock made back in 1983. But that's not the real story of this piece. Much like the famous “CasiOak” that many G-Shock fans love for its passing resemblance to Audemars Piguet's Royal Oak, this GAC-2500 series has more than a whiff of Patek Philippe’s Nautilus about it.
+
+So far, nicknames like “CasioNaut” and “CasioTilus” are being thrown around. Leaks suggest four resin colors at launch in November—white, black, green, and yellow—and the price is rumored to be 20,900 Japanese yen (about $134) each. There might be stainless-steel versions too—the GMC-2500D series, going for about $320.
+
+Following Miss Piggy and Kermit editions, Oris clearly feels it's on to a winning formula with Muppets collaborations. This one is more interesting than the solid pink-and-green colors of the previous dalliances. The Gonzo is a reworking of Oris' ProPilot X but with subtle, classy nods to Gonzo the Great that chime perfectly with the subtle, classy performance art that is his trademark. While the showman himself appears on the watch’s mainspring, at 11 o’clock, the thumping 10-day power reserve indicator is a red chili, inspired by one of Gonzo’s favorite shirts. Such subtlety comes at a cost, however, as at $10,500, the Gonzo is twice the price of a Kermit.
+
+A volume play from Zenith, and a good one. Bringing its famed El Primero movement to a cheaper—sorry, “more accessible”—price, the Solo Sport is a 40-mm steel diver watch, not a chronograph, with 200 meters of water resistance and a unidirectional rotating ceramic bezel. The black ceramic dial reveals the movement's capabilities, with a high-frequency pattern and “Shark tooth” minute track, showcasing the caliber’s prize feature: 5 Hz or 36,000 vph (vibrations per hour). You can grab this for $10,900 with a date window, but those in the know will get the cleaner no-date for $9,800.
+
+Not physically at Geneva Watch Days either, Swatch Group's Hamilton decided to crash the party and release an upgraded version of its successful *Interstellar* Murph timepiece. Dialing up the model's association with Christopher Nolan's classic sci-fi film, Hamilton has added a version to its collection with a dappled “comet-inspired” face where the blue center is intended to reflect the glow of ionized gases in space. Whether you understand this cosmic connection is immaterial when the outcome is this pleasing. Sensibly, Hamilton has chosen to release the new Murph in the preferred 38-mm sizing at $995.
+
+More comets? Yes indeed. Founded in 2017 by designer and photographer Ming Thein, this independent watch brand is known for a winning blend of refined aesthetics and innovative engineering. Here, this 40-mm stainless-steel worldtimer features a first-of-its-kind, patent-pending system for adjusting the time to account for daylight saving. Borrowing its name from the de Havilland Comet, the world’s first commercial jet airliner, the watch's split bezel divides cities according to whether they observe daylight saving. Those that don’t are fixed on the inner bezel, but the ones that do are on the outer ring. Rotating this outer bezel advances only the affected cities by one hour. Clever.
+
+The limited run of 200 pieces has already been snapped up, but you can register online for future availability. If you get lucky, shun the $9,750 leather strap model for the $10,875 Polymesh bracelet version.
+
+Another no-show at Geneva Watch Days was this new piece from Tudor. Well, not new exactly. After discontinuing the North Flag as recently as 2021, Tudor is bringing it back. Originally launched in 2015 at Baselworld, the North Flag was the first Tudor to boast one of the company's in-house movements. The new 40-mm “reissue” (now Northflag, not North Flag) sports a 24-hour hand for a second time zone. Water resistance is a respectable 100 meters, and there's a display caseback, too. Inside is Tudor's 4-Hz METAS-certified automatic movement. The uncluttered, functional black dial with yellow seconds and 24-hour hands is nicely contrasted by blue lume for the hands and markers. This watch, plus an integrated bracelet with Tudor's T-Fit micro-adjustment in the clasp, goes for $5,525.
+
+Bulgari's multi-award-winning watch line now stars the “Dazzle,” an 80-piece limited-edition, super-thin Octo Finissimo built around the brand's 40-mm sandblasted titanium case. Despite its slender proportions, the watch manages a 60-hour power reserve. However, the highlight is the laser-engraved pattern on the case and bracelet, which looks more like it belongs in the world of Minecraft than horology. The geometric pattern is actually based upon “dazzle camouflage” devised by British zoologist John Graham Kerr, who proposed (to Winston Churchill, no less, in 1914) that the disruptive design would, much like zebra stripes, break up the perceived outline of ships at sea. Bulgari's Octo “Dazzle” will set you back $18,300.
+
+The resurrection of Gallet, 200 years after its foundation in La Chaux-de-Fonds, completes Breitling's “House of Brands,” with Breitling taking on the center ground of the Swiss luxury watch market, Universal Genève going high-end, and now the relaunched Gallet slipping in below them both. The first model from the much-anticipated Gallet revival is the Flying Officer, and it's landing in two variations: the Flying Officer Chronograph 40 and the Flying Officer Automatic 40. The 40-mm chrono in light blue at $4,400 would be our pick, along with the orange Automatic 40 at $2,900.
+
+Never a brand to shy away from doing something more than a little “out there,” Hublot has given its iconic Big Bang Original a new feel with a fabric makeover thanks to a velvet-like rubber invention. Two Soft Touch models see the case, bezel, dial, and strap wrapped in a specially developed textured rubber compound. Created through an overmolding process, the unique microscopic surface structure is composed of thousands of fine micro-elements, creating softness to the touch while supposedly keeping the durability and resistance of Hublot's signature rubber. The 43-mm model comes in black, but the red at $29,000 is tantalizing.
