@@ -1,0 +1,108 @@
+---
+title: 'Ukraine live: Putin ally warns West of ‘start of real war’ as US envoys meet
+  Zelensky'
+source_url: https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-talks-witkoff-kushner-b3045408.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-06T12:07:50Z'
+published: '2026-09-06T00:00:00Z'
+description: Steve Witkoff and Jared Kushner are visiting Moscow and Kyiv over the
+  weekend
+image: https://static.independent.co.uk/2026/09/05/20/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?trim=159,0,160,0&width=1200&height=800&crop=1200:800
+---
+
+Negotiations between Ukraine and the US have officially begun in Kyiv as US envoys Steve Witkoff and Jared Kushner arrived in the capital following their three-hour meeting with Vladimir Putin in Moscow.
+
+Volodymyr Zelenskyy shared video footage on social media showing himself greeting and hugging both Kushner and Witkoff, captioning the post: "Negotiations have begun."
+
+The high-stakes diplomatic effort comes as Russian Foreign Minister Sergei Lavrov issued a stark escalation in rhetoric, claiming accusations from Berlin that the Kremlin coordinated a recent drone attack at Germany's Leipzig airport represent "by and large the start of real war".
+
+As Donald Trump’s administration has stepped up efforts to broker an end to the Ukraine war, Kremlin aide Yuri Ushakov said the talks were “substantive, constructive and extremely frank”, but gave no indication of any breakthrough.
+
+Putin said he had ordered Russian forces to halt strikes on Kyiv after receiving a request through diplomatic and intelligence channels, while Ukraine has said it will similarly refrain from striking Moscow through Monday.
+
+## All the ways Putin could attack the UK with devastating consequences
+
+As Europe directly calls Russia out over an attempted drone attack on a German airport, defence expert Francis Tusa explains how a Russian hybrid warfare campaign could easily cause widespread disruption and panic at home
+
+## Kyiv faces tougher winter as Russian drone attacks intensify
+
+Kyiv is facing a more difficult winter after Russia moved towards sustained, round-the-clock drone attacks, with faster jet-powered drones increasingly striking infrastructure and disrupting electricity, transport, and food supplies.
+
+Vitaliia Poliakova, who was injured when a drone struck near her car, told Reuters: “We were just driving along, talking about our own things. There was a sudden hit, the airbags deployed and we had to climb out the window.”
+
+![People wait for the end of the air raid alert and resumption of metro train service during a Russian drone attack](https://static.independent.co.uk/2026/09/06/08/2026-09-05T080019Z_150169525_RC2J9NAU9HDQ_RTRMADP_3_UKRAINE-CRISIS-KYIV-LIFE.JPG)
+
+The attacks have repeatedly halted Kyiv’s metro, disrupted shopping, and forced schools to move lessons underground during air-raid alerts. The city of about three million people has also seen power outages and damage to warehouses and other infrastructure as the attacks intensify.
+
+“To be honest, this winter we’re planning to move away from Kyiv,” a resident named Bohdan said. “After this, as you can see, it will probably be even harder, so we’re moving away.”
+
+Ukraine is trying to strengthen its defences and prepare its energy system for another winter of Russian strikes, but shortages of interceptors remain a major concern. Russia has increasingly used jet-powered drones that are faster and harder to intercept, while Ukraine says US-made Patriot systems remain its only effective defence against Russian ballistic missiles.
+
+![A man looks on as smoke rises over a warehouse, which was hit by a Russian drone strike, in Kyiv region](https://static.independent.co.uk/2026/09/06/08/2026-09-05T080028Z_867125654_RC2T6NABLBRA_RTRMADP_3_UKRAINE-CRISIS-KYIV-LIFE.JPG)
+
+## Zelensky says Russia deliberately targeted Kyiv airports ahead of US visit
+
+Russia struck Kyiv’s Zhuliany and Boryspil airports overnight on Friday and Saturday, in what president Volodymyr Zelensky said was a deliberate response to preparations for US envoys Steve Witkoff and Jared Kushner potentially flying into Ukraine.
+
+“Clearly, these Russian strikes on the airports are a reaction to the discussions and preparations for the possibility of the US side using an aircraft to travel to Ukraine and land at Kyiv Airport or Boryspil Airport,” Zelensky said. He said Ukraine had recorded the move and would adjust its operations concerning Russian airspace the following week.
+
+The overnight attacks also damaged a nine-storey residential building in Boryspil, where two women were injured, while fires were reported in the Kyiv region. The strikes came hours before Witkoff and Kushner met Putin in Moscow; the pair are due to travel to Kyiv on Sunday.
+
+![A woman looks out of a window of her apartment damaged by a Russian missile strike in the town of Boryspil](https://static.independent.co.uk/2026/09/05/08/2026-09-01T070651Z_2040822783_RC25ANA8EV3O_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-REGION.JPG)
+
+## India ready to help end Russia-Ukraine war, says foreign minister on visit to Kyiv
+
+India is ready to help bring an end to the Russia-Ukraine war, the country’s external affairs minister S Jaishankar said on Thursday during his visit to Kyiv.
+
+“If India can be of any help, in any manner, we are there,” he said, standing alongside his Ukrainian counterpart Andrii Sybiha, Reuters reported.
+
+The foreign minister’s visit to Kyiv comes just days after Indian prime minister Narendra Modi met Russian president Vladimir Putin on the sidelines of the Shanghai Cooperation Organisation (SCO) summit at Bishkek in Kyrgyzstan on Monday.
+
+During the meeting, Mr Modi told Mr Putin that “India supports all efforts towards peace, and will continue to do so”.
+
+## Russia’s wartime budget deficit reaches 2.8 per cent of GDP
+
+Russia’s budget deficit increased by 40 per cent between January and July to 2.8 per cent of GDP, as the cost of its war in Ukraine continues to weigh on government finances, Vladimir Putin said on Thursday.
+
+The official target for the full year is 1.6 per cent of GDP, with Moscow relying on higher taxes and borrowing to help finance spending.
+
+Putin dismissed concerns over the widening deficit, saying: “Considering that we have one of the lowest levels of national debt in the world, there is nothing critical here.” He said Russia would manage the shortfall despite the deterioration in its finances.
+
+## Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life
+
+![](https://static.independent.co.uk/2026/09/04/05/Russia_Ukraine_War_Mood_43628.jpg?width=1200&height=800&crop=1200:800)
+
+## G7 and IMF assess Ukraine’s finances as war strains economy
+
+G7 ambassadors in Kyiv have met an International Monetary Fund mission led by Gavin Gray to discuss Ukraine’s economic outlook, with the G7 saying reforms aligned with EU standards remain a priority.
+
+The IMF mission began meetings on 31 August and is examining Ukraine’s macroeconomic policies and reforms under its four-year, $8.1bn Extended Fund Facility, as well as the draft 2027 budget.
+
+Ukraine’s $8.1bn four-year IMF programme remains a key source of international financing. The IMF approved a $690m disbursement in July, taking total payments under the programme to about $2.2bn, but said the economic outlook had weakened because of intensified Russian attacks on critical infrastructure and spillovers from the Middle East war.
+
+## ICYMI: Putin meets Trump envoys as limited truce takes effect
+
+Russian president Vladimir Putin held more than three hours of talks with Donald Trump’s envoys Steve Witkoff and Jared Kushner in Moscow on Saturday, with Kremlin aide Yuri Ushakov describing the meeting as “substantive, very frank, and constructive”.
+
+Ushakov said the envoys “put forward a number of ideas on possible routes to a settlement” and would take Putin’s views to Ukrainian president Volodymyr Zelensky in Kyiv.
+
+A White House official said the sides had discussed “substantive plans for next steps”, to be announced in the coming weeks.
+
+![](https://static.independent.co.uk/2026/09/05/21/2026-09-05T190803Z_223495989_RC26DNATNNUI_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG)
+
+Putin told the envoys Russia was making “real progress” on the battlefield and insisted that “all the root causes of the conflict” had to be addressed. At the start of the meeting, he asked them to convey his “very best wishes and words of gratitude” to Trump, saying the US president was continuing efforts to resolve the conflict despite “a difficult situation”.
+
+The talks took place during a limited pause in strikes on the two capitals. Putin said he had ordered Russian forces not to strike Kyiv for three days after receiving a request through diplomatic and intelligence channels, saying: “I issued the relevant order, and no strikes have been carried out on Kyiv since midnight.”
+
+Zelensky said Ukraine would refrain from striking Moscow through Monday.
+
+## Germany once cosied up to Putin. Now they are Russia’s public enemy number one in Europe
+
+## Norway seizes Russian vessel over $4.2bn Ukraine claim
+
+Norway seized a Russian research vessel in Svalbard on Wednesday at the request of Ukraine’s state-owned energy company Naftogaz, as part of efforts to enforce a $4.22bn arbitration award over Russia’s seizure of Ukrainian energy assets in Crimea.
+
+An arbitration tribunal in The Hague ordered Russia to pay the sum in 2023, but Moscow has refused to do so.
+
+The vessel, the Professor Molchanov, was seized after Naftogaz sought enforcement through Norwegian courts. The company has been pursuing Russian commercial assets in several countries as it tries to recover the award stemming from Russia’s 2014 annexation of Crimea.
