@@ -1,0 +1,29 @@
+---
+title: Australian social media users to be offered choice to opt out of algorithms
+source_url: https://www.independent.co.uk/news/australian-anthony-albanese-canberra-tiktok-facebook-b3046438.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-08T12:52:02Z'
+published: '2026-09-08T00:00:00Z'
+description: Australian social media users would be given a choice to opt out of algorithms
+  under proposed laws announced by the government
+image: https://static.independent.co.uk/2026/09/08/10/Australia_Social_Media_81339.jpg?width=1200&height=800&crop=1200:800
+---
+
+Australian social media users would be given a choice to opt out of algorithms under proposed laws announced by the government Tuesday that would let users have more control over what they see on their social media feeds.
+
+“We’ll require social media platforms to provide user empowerment tools that give people over the age of 16 genuine and enduring choice about what they see in their feeds,” Prime Minister Anthony Albanese told reporters in Canberra.
+
+The proposed legislation would also protect children from content that promotes eating disorders, hostile ideas about women, pornography, crime, dangerous stunts and that causes serious mental health distress.
+
+The move for more user control and to keep children safer online follows Australia introducing world-first laws in December last year that ban children younger than 16 from holding accounts on the world’s largest social media platforms including Instagram, Facebook and TikTok.
+
+“It gives users choice and it will hold the big tech companies responsible for inaction. If they don’t follow our laws, they will face significant penalties,” Albanese added. Penalties under the proposed Digital Duty of Care legislation could be as high as 109.2 million Australian dollars ($78.6 million).
+
+Social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed, a government statement said.
+
+Users would be able to opt in to having their default feed include personalized content recommended by an algorithm. Alternatively, users could see the content of friends and creators they choose to follow.
+
+Digital services including online games, apps and artificial intelligence chatbots would also be required to protect children from design features that have negative behavioral impacts such as addictive features and those that have an effect on self-esteem, the statement said.
+
+In April, Australia’s online safety watchdog said it was considering court action against Facebook, Instagram, Snapchat, TikTok and YouTube, alleging they are not doing enough to keep Australian children younger than 16 off their platforms.
