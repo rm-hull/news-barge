@@ -1,0 +1,49 @@
+---
+title: Cities in Great Britain most vulnerable to extreme heat revealed
+source_url: https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-09T22:29:10Z'
+published: '2026-09-09T00:00:00Z'
+description: OS index examines which ‘urban heat islands’ suffer the most – and which
+  cope the best with rising temperatures
+image: https://i.guim.co.uk/img/media/49d7b3f457e0616c21017ac579210da91b6c4fa1/197_0_4948_3958/master/4948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cab1675f63e8fe8f07d4a9e527727c86
+---
+
+Portsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that warm the most by the end of this century as global heating turns British cities into urban heat islands, according to research.
+
+Analysis from Ordnance Survey (OS) has created a heat vulnerability index for all cities in Great Britain. Portsmouth, which sits on the south coast of England and is home to 208,000 people, is the most vulnerable to extreme heat today and into the future, according to the research from the OS, the Met Office and the data analysis company 4 Earth Intelligence.
+
+Concrete, asphalt, buildings and hard surfaces in cities absorb solar radiation during the day and act like giant radiators, holding on to the heat rather than cooling down at night as in more rural areas. Cities can be up to 10C hotter than surrounding areas.
+
+Areas most at risk of extreme warming are those with the least tree cover, green space and waterways.
+
+![People walking around Spinnaker Tower in Portsmouth.](https://i.guim.co.uk/img/media/9447d2d643a34afe4014903f3d225a9e27808480/0_541_3849_4894/master/3849.jpg?width=445&dpr=1&s=none&crop=none)
+
+This summer was provisionally the UK’s hottest on record, and the research reveals which cities are suffering now from intense urban heat and which will be among the warmest in future.
+
+The research analyses 71 cities granted by royal charter across England, Scotland and Wales but excluding Northern Ireland. The OS heat vulnerability index suggests that by 2040 all 71 cities will reach high heat vulnerability. By the turn of the century, almost two-thirds could reach the most severe level. Those facing the most severe impact by the end of the century are predicted to be Portsmouth, the City of Westminster, Plymouth, Leicester and Exeter, according to the analysis.
+
+Nick Bolton, the chief executive of Ordnance Survey, said: “Cities are where millions of people live, work and spend their everyday lives.
+
+“Extreme and sustained heat can affect people’s health and wellbeing, how comfortable our homes and workplaces are, and put additional pressure on transport, energy and emergency services. Understanding how and where this vulnerability is changing depends on an accurate view of how the country is built, based on trusted authoritative data, which is critical for planners, developers and local authorities preparing for a warmer future.”
+
+Portsmouth is today the most heat-vulnerable city and will remain at the highest level for warming until the end of the century, according to the research. The city of Leicester is projected to show the biggest rise in Britain’s heat vulnerability rankings, climbing from 10th now to fourth by the end of the century, while Exeter and Nottingham also rise into the 10 most vulnerable cities, alongside Bristol and Brighton and Hove by the end of this century.
+
+Leaders in Portsmouth have identified areas including Somerstown, Portsea, Southsea and Fratton as those particularly exposed to urban heat because of their limited green areas and hard surfaces, and noted that areas with less green space overlap with those of deprivation.
+
+The City of London and the City of Westminster areas rank among the most heat-retentive urban environments in the UK.
+
+The City of London records the highest built-environment score and the least effective natural cooling of any city, given the concentration of buildings, roads and hard surfaces as well as limited green space, trees and water. Westminster ranks third for overall heat vulnerability today and second in both future periods behind Portsmouth.
+
+A study commissioned by the mayor of London has put the total economic cost of the 2022 London heatwaves at £1.5bn, including productivity losses, health impacts, education disruption, energy demand, transport and emergency services.
+
+The OS heat vulnerability index combined current observed temperatures with the structural characteristics of Britain’s built environment and climate projections into the future to produce a score for every city on a scale of 1 to 5, where 3 to 4 is high and 4 to 5 is severe.
+
+![People walking on a tree-lined avenue in dappled sunshine.](https://i.guim.co.uk/img/media/5b2301baab2881c695caa5170832e346db8cc297/108_8_5578_3908/master/5578.jpg?width=445&dpr=1&s=none&crop=none)
+
+Among cities coping the best with the changing climate is Milton Keynes, which ranks 69th out of 71 cities for heat vulnerability today. Milton Keynes has the lowest built-environment vulnerability in England and the most effective natural cooling of any city in the analysis, with 46 sq km of natural surfaces, against almost 40 sq km of hard made surfaces.
+
+Jonathan Hendry, the chief executive of 4 Earth Intelligence, said exposure varied street by street within a single city. “The areas consistently subjected to higher temperatures than their surroundings are the ones that overheat first during a heatwave,” he said.
+
+“We’re mapping how to turn thermal threats into actionable blueprints for urban resilience, supporting decisions on where heat refuges are sited and how emergency responses are planned in advance rather than in the middle of climate events.”
