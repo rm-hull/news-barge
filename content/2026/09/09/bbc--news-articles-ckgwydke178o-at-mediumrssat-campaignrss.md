@@ -1,0 +1,92 @@
+---
+title: Mother demands answers, weeks after black woman found hanging from Mississippi
+  tree
+source_url: https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-09T19:14:58Z'
+published: '2026-09-09T00:00:00Z'
+description: Her demands for information about what happened to Tasia Fortune have
+  been echoed by shocked locals.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17c/live/ff226520-ac63-11f1-be57-03729df1d736.jpg
+---
+
+![A selfie taken by Christy Spivey of her and her daughter Tasia Fortune](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/357f/live/8cad6670-ac63-11f1-be57-03729df1d736.jpg)
+
+Christy Spivey told the BBC she was angered by the investigative hold-ups over the death of her daughter, Tasia Fortune
+
+**The mother of a black woman whose body was found hanging from a tree in Jackson, Mississippi, has told the BBC she is still waiting for answers from officials more than a month later.**
+
+Her demands have been echoed by a community in the southern US state that has been left shocked and angry.
+
+After weeks of silence, police on Tuesday confirmed for the first time that they were investigating the death of Tasia Fortune, 29, as a potential homicide - while clarifying that her official cause of death has yet to be confirmed.
+
+Authorities discovered Fortune's body on 3 August, hanging from a tree in the lot of an abandoned home.
+
+Local concern over her death has been heightened by the fact that the state has a dark history of racial violence and lynchings.
+
+The majority-black city has been left on edge. As the question lingers as to how Fortune died, petitions online signed by tens of thousands of people have called for more transparency, and members of US Congress have asked for federal intervention.
+
+"It's making me angry," Fortune's mother, Christy Spivey, said. "What is the hold up?"
+
+Spivey described desperate attempts to understand the status of the investigation and how multiple enquiries to police had gone unanswered.
+
+The first update she had received from authorities in weeks came in a public city meeting on Tuesday evening as Jackson Police Chief RaShall Brackney discussed the case and said the department "has been investigating this case from day one as a homicide".
+
+Brackney, in a statement to the BBC, elaborated and said the department always treats any pending death case as a "potential homicide" so that crucial evidence is not lost as police wait on autopsy results.
+
+The department, though, had only previously described the case as a death investigation.
+
+Tuesday's statement from Brackney said "we are conducting the investigation at the highest appropriate level while we await the medical examiner's findings", which would include an official cause and manner of death.
+
+The medical examiner's office said it would not comment on the pending case.
+
+![Tasia Fortune holds a finger to her lips and smiles in a family handout photo](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1408/live/cd13e950-ac63-11f1-be57-03729df1d736.jpg)
+
+Spivey last saw her daughter alive on 26 July, when Fortune had travelled from Mississippi, where she had lived for roughly the last decade, to Kentucky, where Spivey lives, for a family reunion.
+
+The next time she saw her daughter - in a funeral home, days before her burial - she could barely look at her body.
+
+"I didn't look straight at her. Her daddy did," she said. "I kind of looked from the side."
+
+Spivey remembered their last conversation. "She was talking about, you know, maybe even coming home," she explained.
+
+Fortune's death has left the community concerned that racial violence in Mississippi could be on the rise again. And in the absence of concrete details about the case, their suspicions are left to fester.
+
+Fortune's death was the third incident in Mississippi in less than a year where police found someone dead and hanged from a tree.
+
+The other two bodies - one black male, one white - were discovered in September 2025, on the exact same day.
+
+Both were ruled a suicide, though the mother of one of the deceased - Trey Reed - contests those findings.
+
+Fed-up residents have launched an online petition, which has gathered more than 50,000 signatures, for an independent investigation into the state's chief medical examiner, Dr Staci Turner, over the handling of a recent spate of cases involving people of colour. Another petition asks for the FBI to launch an investigation into Fortune's death
+
+The BBC has asked Turner for comment.
+
+Jackson City Councilman Kenneth Stokes has also expressed concerns about the police investigation, saying he'd been outside the home where Fortune was thought to have lived multiple times and has never seen officers.
+
+"All cases are important, but this one - a hanging in Mississippi - should rise to the top of the food chain," Stokes said.
+
+He told the BBC he sent letters to both federal prosecutors at the Mississippi US attorney's office and the FBI weeks ago, urging that the investigation was "in dire need of assistance". He has yet to hear back from either.
+
+"Nothing from nobody," Stokes said. "It's like nobody cares."
+
+The BBC has reached out to the Mississippi US attorney's office and the local FBI office for comment.
+
+US Congresswoman Jasmine Crockett has similarly requested federal intervention. In a letter to the US Department of Justice, she asked for an investigation into recent deaths in Mississippi - including that of Tasia Fortune - calling them "possible cases of modern-day lynchings". She cited the state's "appalling historical reputation of violent terrorism against black Americans".
+
+In addition to Mississippi, there have been multiple other cases nationally of black Americans found hanged from trees, including four in North Carolina this year alone. Three were ruled a suicide. An autopsy is pending for the fourth death.
+
+The BBC has reached out to the justice department for comment.
+
+Stokes is clear that he does not know whether Fortune's death was a lynching, or whether race played a part at all. Nor does he care. He just wants answers.
+
+Brandon King, president of the student National Association for the Advancement of Colored People (NAACP) chapter at nearby Jackson State University, said the mystery of Fortune's death, combined with minimal updates from police, has led him and others to be "extra cautious" around campus.
+
+The feeling, King said, was that "hey, you could be next. This is in Jackson. This is in your backyard".
+
+The thought is extra worrying, he continued, because "this is supposed to be the capital. This is where I'm supposed to feel the most safe".
+
+As for Spivey, she cried before heading to a funeral home for her daughter, dreading having to fill out a death certificate and decide whether to cremate or bury her firstborn child.
+
+She wanted to cremate her daughter but decided, in the end, for a burial. She said she was holding out hope there would be updates in the investigation, which might mean needing to exhume her corpse.

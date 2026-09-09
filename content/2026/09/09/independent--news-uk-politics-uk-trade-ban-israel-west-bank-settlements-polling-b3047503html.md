@@ -1,0 +1,48 @@
+---
+title: Majority of Britons back UK sanctions on Israeli settlements in West Bank,
+  poll finds
+source_url: https://www.independent.co.uk/news/uk/politics/uk-trade-ban-israel-west-bank-settlements-polling-b3047503.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-09T19:15:04Z'
+published: '2026-09-09T00:00:00Z'
+description: Survey finds more than half of British public back ban on imports from
+  Israeli settlements
+image: https://static.independent.co.uk/2026/09/09/18/2293792065..?width=1200&height=800&crop=1200:800
+---
+
+A majority of the British public backs the government’s decision to ban imports from Israeli settlements in the West Bank, a new poll has found.
+
+The snap YouGov survey, conducted on Wednesday, revealed 52 per cent of respondents support the trade restrictions announced by foreign secretary Ed Miliband as part of Labour’s promise to take a tougher stance in support of Gaza.
+
+One-third (33 per cent) of the 4,506 British adults surveyed said they "completely approve" of the ban, while 19 per cent stated they "somewhat approve".
+
+In contrast, just 17 per cent expressed opposition — with 10 per cent saying they "completely" opposed the ban and 7 per cent stating they were "somewhat" against it — while 31 per cent said they did not know.
+
+Prime minister Andy Burnham defended the sanctions in the Commons during Prime Minister’s Questions on Wednesday.
+
+"In this difficult and dangerous world, Britain has to stand for something," Mr Burnham told the Commons on Wednesday. "Britain has to show leadership, Britain has to stand for fairness against injustice."
+
+The measures restrict the import of settlement-produced goods, impose financial sanctions on developers, and halt arms export licences contributing to the occupation.
+
+The move comes amid heightening international backlash surrounding Israel’s controversial plans for further development in the E1 corridor.
+
+![Defending the trade ban, Andy Burnham insisted "Britain has to stand for something"](https://static.independent.co.uk/2026/09/09/18/2026-09-09T143913Z_1606436935_RC2MFNARRV1G_RTRMADP_3_BRITAIN-POLITICS-PMQS.JPG)
+
+Construction in E1 severs the northern and southern West Bank from East Jerusalem, rendering a contiguous two-state solution geographically impossible.
+
+Under international law, all Israeli settlements in the occupied territories are considered illegal — a stance that was reaffirmed by the International Court of Justice in July 2024.
+
+While welcoming the policy shift, the Stop the War Coalition has stressed that the announcement must serve as a "floor, not a ceiling".
+
+In a statement issued on Tuesday, the campaign group welcomed the ban as a "positive step toward ending Britain’s decades-long complicity," adding that nearly three years of "relentless grassroots organising made this moment impossible to avoid".
+
+However, the coalition said loopholes remain, particularly regarding ongoing exports of arms, including F-35 fighter jet components, which have been used by Israel in Gaza.
+
+"If the government is serious about ending complicity, a full two-way arms embargo must follow," the group said, arguing that settlement restrictions address only part of "a wider system of occupation and apartheid."
+
+Israel has labelled the measures a "grave miscalculation,” where foreign minister Gideon Sa'ar has issued a direct warning to the UK: "If Britain acts against Israel, Israel will act against Britain."
+
+Announcing retaliatory counter-measures, Sa'ar confirmed Israel would close the British Consulate in East Jerusalem, remove British officials from the international Gaza coordination centre, and ban entry to 12 British MPs and activists.
+
+Sir Ephraim Mirvis, Britain’s chief rabbi, described the announcement as “gesture politics” that would “succeed only in bolstering the very extremism they seek to target”.
