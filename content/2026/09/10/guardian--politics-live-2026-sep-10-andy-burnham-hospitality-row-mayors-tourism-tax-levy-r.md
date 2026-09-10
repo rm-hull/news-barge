@@ -1,0 +1,280 @@
+---
+title: No 10 defends plan for visitor tax, saying communities will keep ‘more of the
+  benefits of tourism’ – UK politics live
+source_url: https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-10T12:53:48Z'
+published: '2026-09-10T00:00:00Z'
+description: Downing Street gives more details of plan, saying it would be charged
+  as a percentage of accommodation costs, not a flat fee
+image: https://i.guim.co.uk/img/media/45115f572138b196d42a0a1c618e0c98b21a3cc2/797_159_3160_2528/master/3160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7863bc3d8760f9f044d66ba9a073a1b0
+---
+
+No 10 says visitor levy in England will mean communities keep 'more of the benefits of tourism'
+
+Downing Street has said that its plans for an overnight visitor levy – or tourism tax, as it is being called – will ensure that communities keep more of the benefits from tourism.
+
+At the No 10 lobby briefing, the PM’s spokesperson said:
+
+This afternoon, mayors will meet at No 10 North to discuss the government’s devolution agenda.
+
+As part of that, we are confirming plans to give local leaders the power to introduce an overnight visitor levy.
+
+The fundamental principle behind this is that we trust local leaders to make decisions for their areas. That’s why we’re shifting power out of Whitehall and giving communities more control.
+
+More than 42 million international visitors came to the UK last year, spending more than £32bn.
+
+So this levy is about ensuring more of the benefits of that tourism stay in local communities, with leaders able to reinvest funding in priorities such as transport to high streets and public spaces.
+
+The spokesperson also gave some further details of how the levy will work.
+
+She said that the levy would only apply to people paying for overnight accommodation.
+
+She confirmed that the levy would be charged as a percentage of accommodation cost, and that it would not be a flat fee. That would mean “cheaper accommodation automatically pays less”, she said. This is in line with the recommendation from the Centre for Cities in this report which said England should follow Scotland, which has a percentage-rate levy, and not Wales, which has a flat fee levy.
+
+She said there would be no cap on the levy. But the government would expect it to be set at a level that was “proportionate”, she said.
+
+She stressed that it would be optional.
+
+She said mayors would be allowed to introduce exemptions for sites such as campsites.
+
+She said shelters and refuges would be automatically exempt.
+
+She said mayors would be able to decide how the money should be spent.
+
+The spokesperson was unable to say if areas without mayors would be able to introduce a visitor levy, or if mayors would be able to impose the levy in some bits of their region but not others.
+
+Downing Street has not said at what rate it expects the levy to be applied. But one model is the rate that applies in Edinburgh, where the rate is 5%, but capped so that it can only apply for five nights.
+
+Burnham says he will scrap 'archaic' laws preventing Catholic or Jewish PMs advising king on church appointments
+
+Andy Burnham has said that he intends to scrap “archaic” laws that prevent a Catholic or Jewish PM from advising the king on church appointments.
+
+In the past prime ministers used to take an active role in senior Church of England appointments, but now Downing Street just rubber-stamps decisions taken by the church leaders themselves.
+
+But Burnham, who is Britain’s first Catholic PM, has nevertheless had to recuse himself from this process because of his faith.
+
+Restrictions set out in the Roman Catholic Relief Act 1829 and the Jews Relief Act 1858 prevent persons professing the Roman Catholic and Jewish faiths only from advising the sovereign on appointments to the Church of England and Church of Scotland.
+
+I have therefore transferred my constitutional responsibility to advise the sovereign on Church appointments to the lord chancellor [Alex Norris].
+
+Burnham went on:
+
+It is, however, unacceptable for there to be a legislative bar against people of any faith performing all the functions of my office.
+
+The government will therefore introduce a bill at the earliest possible opportunity to correct this antiquated and archaic anomaly.
+
+As the Press Association reports, the prime minister’s role in religious appointments is largely symbolic, with candidates interviewed and selected by a church committee, on which the king is represented by the ecclesiastical secretary to the Crown and lord chancellor.
+
+According to official guidance from the Cabinet Office, approval from the prime minister and the king is only sought “once a candidate has been chosen and accepted the post”.
+
+Stephen Evans, chief executive of the National Secular Society, welcomed the announcement but called for the government to go further. He said:
+
+These anomalies exist only because government remains entangled with the Church of England. In a modern democracy, the state should have no role in appointing bishops. The long-term answer is a clear separation of Church and state.
+
+Burnham has been described as Britain’s first lifelong Roman Catholic, but other PMs have had Catholic leanings. Tony Blair is married to a Catholic, attended Catholic services while he was PM and converted to Catholicism within months of leaving No 10. He said he would have done it earlier had it not been for his job as PM.
+
+Unlike Blair, Boris Johnson showed no interest in faith while he was PM, and was widely assumed to be a non-church-going Anglican.
+
+But he surprised many people by marrying in a Catholic cathedral – despite the fact that he had already twice been divorced. This was apparently allowed because he had been baptised as a Catholic as a baby, before switching to Anglicanism as a schoolboy.
+
+No 10 says visitor levy in England will mean communities keep 'more of the benefits of tourism'
+
+Downing Street has said that its plans for an overnight visitor levy – or tourism tax, as it is being called – will ensure that communities keep more of the benefits from tourism.
+
+At the No 10 lobby briefing, the PM’s spokesperson said:
+
+This afternoon, mayors will meet at No 10 North to discuss the government’s devolution agenda.
+
+As part of that, we are confirming plans to give local leaders the power to introduce an overnight visitor levy.
+
+The fundamental principle behind this is that we trust local leaders to make decisions for their areas. That’s why we’re shifting power out of Whitehall and giving communities more control.
+
+More than 42 million international visitors came to the UK last year, spending more than £32bn.
+
+So this levy is about ensuring more of the benefits of that tourism stay in local communities, with leaders able to reinvest funding in priorities such as transport to high streets and public spaces.
+
+The spokesperson also gave some further details of how the levy will work.
+
+She said that the levy would only apply to people paying for overnight accommodation.
+
+She confirmed that the levy would be charged as a percentage of accommodation cost, and that it would not be a flat fee. That would mean “cheaper accommodation automatically pays less”, she said. This is in line with the recommendation from the Centre for Cities in this report which said England should follow Scotland, which has a percentage-rate levy, and not Wales, which has a flat fee levy.
+
+She said there would be no cap on the levy. But the government would expect it to be set at a level that was “proportionate”, she said.
+
+She stressed that it would be optional.
+
+She said mayors would be allowed to introduce exemptions for sites such as campsites.
+
+She said shelters and refuges would be automatically exempt.
+
+She said mayors would be able to decide how the money should be spent.
+
+The spokesperson was unable to say if areas without mayors would be able to introduce a visitor levy, or if mayors would be able to impose the levy in some bits of their region but not others.
+
+Downing Street has not said at what rate it expects the levy to be applied. But one model is the rate that applies in Edinburgh, where the rate is 5%, but capped so that it can only apply for five nights.
+
+The Centre for Cities, a thinktank that focuses on promoting growth in cities, has welcomed the government’s plans to let mayors in England impose a tourism tax. This is from its chief executive, Andrew Carter.
+
+The overnight visitor levy is a great step forward for fiscal devolution. This marks the first time that mayors in England have gained more autonomy over funding.
+
+The overnight visitor levy means places will get rewarded for doing what they need to attract more visitors and grow their local economies.
+
+It’s good that the decision is left up to mayors because they know their areas best. Rightly, some will choose to introduce it, and some will decide it doesn’t suit their place.
+
+This shows the importance of mayors to the economic agenda. It will now be up to them to ensure their visitor levy is set at the right rate and that they do what they need to fulfil the potential for growth in their local hospitality industry, alongside their new powers.
+
+The thinktank has said that visitor levies are normal and accepted in other countries, and that England is an outlier in not having them. Earlier this year it published this report explaining how they work around the world.
+
+The Conservative party has now issued a statement about the government’s plans to let mayors in England levy a tourism tax if they want. David Simmonds, the shadow local government minister, said:
+
+Labour’s solution to every issue is always to hike taxes. This is just the latest method they’ve found to squeeze more money out of hardworking families and the economy.
+
+The hospitality industry has already been hit by colossal business rates hikes thanks to Labour, on top of their Jobs Tax and employment red tape that have driven up costs. Now hotels and other businesses face another blow that will harm local economies and discourage local tourism. VAT is already charged at 20% on hotels - much higher than in other countries - and now they’ll pay VAT on this tourism tax too: a Labour double whammy.
+
+John Swinney asks Burnham to agree 'legal mechanism' governing when Scotland can hold independence referendum
+
+Yesterday Downing Street made it clear that the government will not allow Scotland to hold a second independence referendum – despite Andy Burnham suggesting at PMQs that Scotland should be in “exactly the same” position as Northern Ireland, where the Good Friday agreement says a referendum should take place if a majority of people seem to be in favour.
+
+That has not stopped John Swinney, the Scottish first minister, challenging Burnham to match his PMQs words with action and set up a “legal mechanism” that would establish when Scotland gets the right to hold a referendum.
+
+Swinney has written an open letter to Burnham asking him to arrange this. Here is an excerpt.
+
+I am encouraged that you have reconsidered your previous comments that the democratic right of the people of Scotland to choose their own future is “off limits”.
+
+This is a long-overdue acceptance of the reality that the people of Scotland will decide their own future, not the UK government, and a clear endorsement of the fact that the UK must be a voluntary union …
+
+Now that you have agreed the principle that Scotland should have a referendum when it is likely that people would vote for independence, it is important for us to meet to discuss how we turn that principle into an agreed legal mechanism, as exists in Northern Ireland.
+
+I have asked my office to take forward the necessary arrangements.
+
+Under the Scotland Act setting up the Scottish parliament, the right to decide whether an independence referendum should take place was reserved to Westminster. David Cameron agreed to the referendum that took place in 2014 after the SNP won a majority at Holyrood. Scotland voted by 55% to 45% to remain part of the UK.
+
+The SNP now argues another referendum is justified – because pro-independence parties have a majority at Holyrood, because polling suggests a majority of Scots would vote for independence, because Brexit changed the premise on which some people voted to stay in the UK, and because the last referendum was more than a decade ago.
+
+But the Scottish government cannot hold one without the consent of the PM, and Burnham, like every other PM since Cameron, does not support the idea.
+
+Kemi Badenoch made her claim about her policies not being likely to increase homelessness (see 9.49am) in an interview with Emma Barnett on the Today programme. In terms of what was said, it was not particularly illuminating, but it was remarkable for the belligerence on display. Badenoch kept interrupting Barnett quite forcefully. The Tory leader may have felt that she was being assertive in response to a hostile broadcaster, but many neutral listeners may have been alienated by her tone.
+
+Ethan Croft from the New Statesman has a good summary here.
+
+Pretty poor Today programme interview with Kemi Badenoch in which she repeated a bunch of her usual mistakes
+
+- begins by saying it’s fine for her to creatively interpret the PM’s words on “social security” however she likes, then a minute later gets mad with Emma Barnett for interpreting her own words on housing benefits. Reaping/sowing in record time 🤣
+
+- getting angry when anyone mentions the reputation of the previous Tory government despite that being a massive drag anchor on the party with the public which she refuses to address (then wonders why they can’t break 20%)
+
+- repeating dumb X memes in the real world and expecting no one to point out this is dumb (UK/Canada/France launches sanctions so Labour can win a by election in Camden 🤪)
+
+- claiming that foreign policy is not the concern of LOTO when she is asking to be the next PM, seemingly because she just doesn’t know/care what is going on in Israel (Bibi is ‘very concerned’ about settler violence apparently!??)
+
+Badenoch obviously has strengths but those sort of interviews need a lot of work
+
+Right now we’re not even getting the number of tourists that we used to get. They’re going to so many other places.
+
+We need to create jobs and grow our economy. Business does that. Taxing does not create jobs. It reduces them. We saw that with Rachel Reeves’ budget. I wish Labour had learned that lesson.
+
+Waiting list figures since 2012 Photograph: NHS England
+
+Long waits for NHS hospital treatment in England have also increased. PA says:
+
+An estimated 111,379 people had been waiting more than a year to start routine treatment at the end of July, up from 105,711 at the end of June.
+
+Some 1.52% of people on the list for hospital treatment had been waiting more than 52 weeks in July, up month on month from 1.45%.
+
+The government and NHS England had set a target of March this year for the figure to be reduced to less than 1%.
+
+Meanwhile, an estimated 65.4% of patients in July began hospital treatment within 18 weeks of referral, down from 65.8% in June but above the target of 65% that the government and NHS England had set for March of this year.
+
+The government has also pledged that 92% of patients in England will begin treatment within 18 weeks by the end of the current parliament in 2029.
+
+A total of 79.3% of patients in England urgently referred for suspected cancer were diagnosed or had cancer ruled out within 28 days in July. “This is up slightly from 79.0% in June but is below the target of 80%,” PA says.
+
+The proportion of patients who began their first definitive treatment for cancer in July within 62 days of an urgent referral or consultant upgrade was 71.2%, up from 69.9% in June. “The government and NHS England had set a target of March 2026 for this figure to reach 75%,” PA says.
+
+In its own press release on these figures, NHS England says: “More patients than ever before were seen within four hours in A&E this summer, despite record demand on the NHS.”
+
+Daily average for number of patients receiving corridor care in English hospitals down slightly in August, figures show
+
+An average of 2,973 patients in England received corridor care each day in August, with 2,296 in A&E departments and 677 in other hospital areas, NHS figures show. The Press Association reports:
+
+This is down slightly from an average of 3,028 patients per day in July, made up of 2,300 in A&Es and 728 in other areas.
+
+It is the fourth month in a row that data has been published showing the level of corridor care in hospitals in England.
+
+The figures cover patients who have been receiving corridor care for at least 45 minutes.
+
+A patient is classed as receiving corridor care if their treatment does not take place in a clinically appropriate and safe setting.
+
+The criteria used for defining an appropriate setting include at-bed services such as oxygen and call bells; whether privacy can be maintained; access to food, water and toilets; and whether lights can be turned off and noise levels minimised to allow sleep.
+
+Badenoch rejects claim Tory cuts would increase homelessness, saying people would just move 'somewhere cheaper'
+
+Kemi Badenoch, the Conservative leader, has been doing an interview round this morning. She is keen to escalate her attack on Andy Burnham over his comment at PMQs yesterday that “we do everything to support our national security, but it can’t come at the expense of social security.”
+
+In an interview on the Today programme this morning, Badenoch rejected this claim. She said the Tory plans would “protect existing clients”, but some people would have to move somewhere cheaper.
+
+She told the programme:
+
+What we’re doing is making sure that people are protected, but capping the amount that people get on benefits because we need to look after our national security.
+
+Without national security, there aren’t going to be any benefits. We’re all going to be in danger, far more people will be homeless, and the government’s first duty is defence of the realm …
+
+What we are saying is that where people are living in areas where it’s too expensive. They’ll have to move somewhere cheaper. Moving somewhere cheaper is what everybody else does.
+
+In August the Conservatives announced plans to “end social housing for foreign nationals”. They said that “almost 230,000 households currently in social housing would become ineligible under the policy, freeing homes for British families as tenancies turn over.”
+
+The government has responded to concerns about its tourism tax plans by stressing that it will be for mayors to decide if they want to use these powers. (See 8.58am.) A government source said:
+
+We have always been clear that while central government will set the framework for this power, it will be up to local leaders and local voters to decide what is right for their area.
+
+Hospitality sector claims thousands at jobs at risk from Burnham's plan to let mayors levy tourism tax
+
+Good morning. Last year Andy Burnham, who was then mayor of Greater Manchester, and his close friend and ally Steve Rotheram, mayor of the Liverpool city region, were urging the government to allow mayors in England to bring in what they called a visitor levy.
+
+Burnham and Rotheram were pushing at an open door. In May this year Keir Starmer included plans for an overnight visitor levy bill in the king’s speech.
+
+Now Burnham’s government is about to announce further details of the plan. The Daily Telegraph has the story.
+
+Telegraph splash Photograph: Daily Telegraph
+
+In May the government was not specific about whether or not there would be a cap on how high the levy could go. In their Telegraph story, Szu Ping Chan, Harry Brennan and Eir Nolsøe say the plans being announced by the government will be more extensive than the hospitality industry expected. They report:
+
+Officials stunned the hospitality industry late on Wednesday by announcing that English mayors and other local leaders will be able to impose an uncapped “overnight visitor levy” on anyone staying in hotels, holiday lets and bed and breakfasts.
+
+Bosses said they had been led to believe that the levy would be capped, as is the case in Wales. However, England will now follow the Scottish model, where there is technically no upper limit on what can be charged.
+
+Andrew Griffith, the shadow chancellor, told the paper: “An unlimited tourist tax would be hugely limiting for the chances of the young people who might otherwise be employed in tourism and hospitality.”
+
+This morning Allen Simpson, chief executive of UK Hospitality, the trade body for the sector, claimed that this proposal would cost thousands of jobs. He told the Today programme:
+
+What we’re talking about here is an open-ended power for mayors to set tourism taxes at any level they want.
+
+Remember, if you go to Paris, if you go to Rome, if you go to Berlin, you’re paying a small tourism tax, but it’s capped. This one isn’t. And VAT is only 10%.
+
+So even before England introduces this new tax, the tax on a holiday in the UK is already more expensive than our peers.
+
+When it was put to him that mayors would not have to introduce this tax, Simpson accepted that. But he went on:
+
+We know that local government is struggling for funds. It was hit very hard by austerity. And if you only devolve one tax-raising power, of course local mayors are going to pull that lever till it snaps.
+
+If it’s a 5% tax, which is entirely possible, that’s what it is in Edinburgh – but that’s lower than it is in, say, Aberdeen – the economic analysis is that it’s 33,000 jobs which will go.
+
+Simpson said UK Hospitality was able to come up with a specific figure because the sector could measure quite precisely what impact price has on demand. He also claimed taxes on the hospitality sector were already very high.
+
+Simpson went on:
+
+For anyone who takes a holiday in the UK, it’s going to be an average of about £100, £120, on the cost of a family holiday, which is more than double the benefit from the energy VAT cut that we saw earlier in the year. So it is not going to be painless.
+
+Here is the agenda for the day.
+
+9.30am: NHS England publishes its monthly hospital performance figures.
+
+9.30am: The actor Michael Sheen gives evidence to the Commons Welsh affairs committee about contaminated land, a topic he investigated for a highly-praised documentary.
+
+11.30am: Downing Street holds a lobby briefing.
+
+After 11.30am: Wes Streeting, the defence secretary, is due to make a statement to MPs about Ukraine and the threat from Russia.
+
+Afternoon: Angela Rayner, the communities secretary, chairs a meeting with regional mayors from No 10 North to discuss plans for a tourism tax. Later Lucy Powell, the education secretary, hosts a summit there on making England a “technical education superpower”.
