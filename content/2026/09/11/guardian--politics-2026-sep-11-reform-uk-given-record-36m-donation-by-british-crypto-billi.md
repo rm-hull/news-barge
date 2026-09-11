@@ -1,0 +1,51 @@
+---
+title: Reform UK given record £36m donation by British crypto billionaire
+source_url: https://www.theguardian.com/politics/2026/sep/11/reform-uk-given-record-36m-donation-by-british-crypto-billionaire
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-11T22:29:40Z'
+published: '2026-09-11T00:00:00Z'
+description: Ben Delo was convicted in US for failing to implement adequate anti-money
+  laundering controls but pardoned by Trump
+image: https://i.guim.co.uk/img/media/319efaaa8a51b89f1a7c7c8d9f333b4f9a9a3f10/3526_1231_3953_3162/master/3953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=365f3caad23fdfd6135bf06b674cdfb6
+---
+
+Reform UK has been given a record £36m donation by Ben Delo, a British cryptocurrency billionaire convicted in the US for failing to implement adequate anti-money laundering controls.
+
+The businessman, who has moved back to the UK from Hong Kong, is now the biggest UK political donor by far, dwarfing the £15m contribution to Reform UK from Thailand-based Christopher Harborne.
+
+The huge donation will be a boost for party leader Nigel Farage at a time when he is facing a police investigation into overseas funding for Reform, plus a standards inquiry into a £5m undeclared personal gift from Harborne.
+
+It had been thought Delo could be caught by the overseas cap requiring donors to have been resident in the UK for 12 months before giving more than £100,000 but Reform insisted earlier this month that they were confident Delo would not have to take back any cash.
+
+Delo was convicted in the US in 2022 for failing to implement adequate anti-money laundering controls in his trillion-dollar cryptocurrency business BitMEX, before being pardoned by Donald Trump. He has previously given Reform £8m since the start of the year.
+
+His gifts show the rise of Reform’s mega-donors, which Labour has been considering clamping down on.
+
+Keir Starmer shied away from the idea of a cap on all donations and Andy Burnham also recently backed away from supporting a cap. However, more recently the government said it was looking at ways of dealing with mega-donations to make sure a few figures are not having an excessive influence in politics.
+
+On Friday night, Stella Creasy, the Labour MP pushing for a cap, said: “The government has admitted UK mega-donors are a problem – donations like this show why we must act and the good news is it’s not too late to do something about them.
+
+“We can still stop these people from distorting the next election by confirming what the cap should be on UK donations in the representation of the people bill in the Lords.
+
+“This donation tonight – more for Reform on one day than the entire amount spent by Labour in the general election – shows that cannot come too soon to protect British democracy.”
+
+Many more Labour MPs were also horrified by the prospect of such a huge cash injection for Reform ahead of the next election.
+
+Delo’s donation was revealed in the Telegraph, which was given the information by Reform after the party was approached by the Sunday Times earlier on Friday.
+
+Farage said: “I am honoured and humbled that Ben Delo has shown such confidence in Reform. Ben knows that we are the only party that can turn the country around and reverse Britain’s decline.”
+
+In a Telegraph article in April, Delo explained his motivation for turning to Reform, saying England was his home and that “the biggest obstacle to national recovery is the entrenched self-deception of our elites”.
+
+“Their regime of nonsense now poses such a grave threat to the UK that, for the first time in my life, I’ve become politically active,” he wrote.
+
+He said that as a person on the autism spectrum, he did not like it that “the official culture of government now forces everyone to be chronically dishonest”, citing expression of views on transgender people.
+
+In his Telegraph article, he wrote: “I helped build one of the world’s first major crypto trading platforms, fell foul of US regulators, accepted a plea bargain and a civil fine for a regulatory failing that isn’t even a crime in the UK, but then ended up being pardoned by Donald Trump, the US president, anyway.”
+
+Delo, an Oxford graduate who describes himself as a champion of free speech, supports more than 50 organisations across the political spectrum and public life, as well as non-affiliated groups and individuals, from a political base near Westminster Abbey.
+
+A Guardian investigation into Delo’s political base found he had given support in kind to Rupert Lowe, the anti-migration MP challenging Farage from the right, while also connecting with more mainstream figures including the Conservative leader, Kemi Badenoch, and the former Tory cabinet minister Michael Gove.
+
+Delo’s lawyers previously told the Guardian that he provided space for those with diverse views to express them, and financial support to a broad range of organisations, many of which had conflicting views. This did not mean he endorsed the opinions of each, they said.
