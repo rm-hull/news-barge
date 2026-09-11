@@ -1,0 +1,65 @@
+---
+title: Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
+source_url: https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-11T19:09:29Z'
+published: '2026-09-11T00:00:00Z'
+description: The Iran-backed Houthis are also reported to have seized Perim - a strategic
+  island on the major shipping route.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg
+---
+
+![A dozen Houthi men wearing combat clothes, berets and holding large guns. The sky is blue and the men are looking straight ahead.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg)
+
+The Houthis escalated fighting last week and have now reportedly taken over a strategic island in the Red Sea
+
+**Yemen's Houthis have claimed a major advance on the western Red Sea coast, consolidating their grip on the key international shipping route.**
+
+The Iran-backed group seized Perim Island at the mouth of the waterway in the Bab al-Mandab Strait, a source from Yemen's internationally-recognised government told the BBC.
+
+It comes a day after the Houthis captured the strategic port city of Mokha from Saudi-backed pro-government forces, according to military sources. A Yemeni military official told the AFP news agency the Houthis now control the entire coastline.
+
+The Houthis earlier said they posed no threat to international shipping but reiterated their threat to target vessels from Saudi Arabia.
+
+Saudi Crown Prince Mohammed bin Salman, the country's de facto ruler, has personally pressed US President Donald Trump to take military action against the Houthis during their rapid advance, two sources familiar with the matter told CBS News - the BBC's media partner in North America.
+
+Trump has so far declined to involve the US military directly, offering instead to assist with intelligence and targeting support, the sources said.
+
+A senior Trump administration official later told the BBC: "We are in continuous dialogue with Saudi Arabia and the Republic of Yemen government regarding regional stability."
+
+![Map of Yemen with Perim, Dhubab and Mokha represented with black dots](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6510/live/7f21d1a0-add8-11f1-b1d1-571ed4d7ff2c.png)
+
+On Friday, Yemeni pro-government forces withdrew from Perim (also known as Mayyun).
+
+Witnesses and news agencies reported that Houthi forces moved on to the island.
+
+The Houthis later issued a statement, saying that their military operation to expel Saudi-backed forces had been a "success" and that "maritime navigation is safe for all companies except for Saudi vessels".
+
+Houthi military spokesman Yahya Sarea said the "large-scale" military operation was launched on 3 September due to Saudi Arabia's "blatant aggression" against "our dear people".
+
+Sarea also said the Houthis had expelled "Saudi enemy" forces from six districts in the Taiz and Hodeidah regions, claiming that hundreds of troops had been killed, wounded or captured.
+
+The Houthi statement, however, did not mention Perim Island.
+
+Saudi Arabia has not publicly commented on the latest developments.
+
+Perim Island sits at the narrowest point of the Bab al-Mandab Strait, which has become increasingly important following the effective closure of the Strait of Hormuz - another crucial waterway - in the conflict between the US and Iran.
+
+Saudi Arabia has been relying on the Red Sea and the Bab al-Mandab Strait for shipping oil to customers in Asia.
+
+The escalation of the conflict between the Houthis, Yemen's government and Saudi Arabia has contributed to a surge in oil prices.
+
+Hundreds of people have reportedly been killed and thousands displaced since the Houthis launched an offensive in the south-west a week ago.
+
+A Saudi-led coalition has also carried out air strikes on Houthi-controlled areas in western Yemen in support of the pro-government forces, and the Houthis have launched missiles and drones at cities and oil facilities in southern Saudi Arabia.
+
+Since fighting escalated, at least 46,000 people have been displaced in Yemen, according to the International Organization for Migration (IOM).
+
+On Friday, the IOM said the number was "alarmingly rising by the hour".
+
+Amy Pope, IOM director general, said: "Families are being forced to flee for the second or third time in this conflict, with almost nothing left."
+
+The Houthis ousted the internationally-recognised government in 2015, triggering Saudi military intervention in the civil war.
+
+The group currently control much of Yemen, including the capital Sanaa. A truce that had largely held for more than four years effectively collapsed in July.

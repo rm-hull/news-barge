@@ -1,0 +1,41 @@
+---
+title: France joins Slovakia in asking to delist Russian oligarch Usmanov
+source_url: https://www.euronews.com/my-europe/2026/09/11/exclusive-france-joins-slovakia-in-asking-to-delist-russian-oligarch-usmanov
+source_site: Euronews
+source_slug: euronews
+scraped_at: '2026-09-11T19:10:08Z'
+published: '2026-09-11T00:00:00Z'
+description: 'France joins Slovakia in demanding delisting of Russian oligarch Usmanov
+  ahead of sanctions deadline in sensitive talks held among EU ambassadors. #EuropeNews'
+image: https://images.euronews.com/articles/stories/09/91/06/44/1200x675_cmsv2_439a750c-fb96-5730-a4c3-2e5cc49ff457-9910644.jpg
+---
+
+## France joins Slovakia in demanding delisting of Russian oligarch Usmanov ahead of sanctions deadline in sensitive talks held among EU ambassadors.
+
+The French government has joined Slovakia in seeking the delisting of Russian-Uzbek businessman Alisher Usmanov, causing “huge frustration” among other EU countries, four EU diplomats told Euronews.
+
+Slovakia has long pushed for Usmanov and another Russian oligarch, Mikhail Fridman, to be removed from the EU's sanctions list targeting individuals close to Vladimir Putin's regime and the military-industrial complex sustaining the war in Ukraine.
+
+But Bratislava is no longer alone. Paris has also called for Usmanov, who has been under EU sanctions since Russia's full-scale invasion in 2022, to be delisted.
+
+Usmanov is an Uzbek-born Russian billionaire who built his fortune through investments in metals, mining, telecommunications and technology and is considered close to the Kremlin.
+
+The French move has caused “huge frustration” among other member states, particularly against the backdrop of escalating hybrid threats in Europe, including the latest case of an attempted drone attack on Leipzig airport in Germany.
+
+“It raised a lot of questions about the motivation — seems mostly economic reasons at play here. Not a lot of understanding on the side of other member states,” an EU diplomat told Euronews, speaking on condition of anonymity given the sensitivity of the talks.
+
+The EU sanctions regime currently targets more than 3,000 individuals and entities linked to Russia's military-industrial complex and its contribution to the invasion of Ukraine. The regime is due for renewal on 15 September, with member states under pressure to reach an agreement by then.
+
+Individual listings have so far been renewed every six months, but a 12-month renewal is now on the table. Sectoral sanctions already shifted from six-month to 12-month renewal cycles in July.
+
+In several meetings of EU ambassadors, Slovakia has opposed the renewal, pushing for both oligarchs to be delisted and the six-month timeframe to remain in place.
+
+The Slovak demands are not new. Bratislava has repeatedly called for the delisting of the two high-profile Russian oligarchs, including when the sanctions were last extended in March.
+
+EU sanctions require unanimous approval for renewal, meaning a single country can veto an extension. Slovakia's opposition has already caused frustration among member states, but France's new position is likely to complicate the talks further.
+
+Paris presented Usmanov's delisting as a political compromise, betting that Slovakia would not abandon its two delisting demands as it did last time.
+
+EU ambassadors are due to meet again on Monday to discuss the renewal and will be under pressure to reach a political agreement before the 15 September deadline.
+
+A spokesperson for France's permanent representation to the EU said Paris supported the renewal of sanctions, but declined to comment on the discussions, citing confidentiality.
