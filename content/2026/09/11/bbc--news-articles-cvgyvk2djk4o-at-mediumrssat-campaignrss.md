@@ -1,0 +1,53 @@
+---
+title: Hong Kong's Tiananmen activists sentenced to up to seven years in prison
+source_url: https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-11T04:29:45Z'
+published: '2026-09-11T00:00:00Z'
+description: Hong Kong used to be one of the only places in Chinese territory where
+  people could gather to mark the 1989 crackdown.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ba/live/11753770-ad8b-11f1-8ea7-df517b57beba.jpg
+---
+
+![Chow Hang-Tung](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/48ba/live/11753770-ad8b-11f1-8ea7-df517b57beba.jpg)
+
+Speaking to the BBC before her arrest in 2022, Chow said she was "prepared to be arrested"
+
+**Three Hong Kong activists who organised annual vigils commemorating Beijing's 1989 crackdown on Tiananmen Square protests have been handed prison sentences of up to seven years.**
+
+Two of the defendants - Lee Cheuk-yan, 69, and Chow Hang-tung, 41 - were convicted last month of inciting others to subvert state power, under the city's controversial national security law.
+
+A third defendant, Albert Ho, 74, had pleaded guilty in January.
+
+For years, Hong Kong was one of the only places in Chinese territory where people could hold gatherings to mark the Tiananmen Square crackdown - a topic that is highly sensitive and heavily censored in mainland China.
+
+These gatherings were banned by Hong Kong's authorities in 2020, citing Covid-19 policies, but never resumed. That same year, the national security law, which makes illegal a wider range of dissenting acts, officially came into force.
+
+Authorities say the law is necessary to maintain stability, but critics argue it has eroded Hong Kong's autonomy and created a climate of fear.
+
+Lee, Chow and Ho were charged in 2021. They faced up to 10 years in prison after their conviction.
+
+On Friday, the court sentenced Lee to seven years in prison, while Chow was handed seven years and three months. Ho, who pleaded guilty, was sentenced to five years in prison.
+
+According to a court summary in August, Lee and Chow had "incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power", according to a summary on Friday.
+
+Chow told the court in May the law itself was on trial.
+
+Speaking to the BBC before her arrest in 2022, Chow said she was "prepared to be arrested" and "willing to pay the price for fighting for democracy".
+
+![A crowd gathers at night, with many people holding candles](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d635/live/2c8e07f0-ad84-11f1-967c-9d10dcded25d.jpg)
+
+People in Hong Kong used to hold yearly vigils commemorating Beijing's 1989 Tiananmen Square crackdown
+
+The defendants were leaders of the now-disbanded Hong Kong Alliance, a group founded in May 1989 to support students holding pro-democracy rallies.
+
+Weeks later, the Chinese Communist Party sent troops and tanks to crush pro-democracy protests in Beijing's Tiananmen Square. Estimates of the death toll range from a few hundred to many thousands.
+
+Over the next three decades, the Hong Kong Alliance called on authorities to accept responsibility for the crackdown, free dissidents and introduce democratic reform.
+
+The group also held yearly vigils commemorating the Tiananmen Square crackdown. Organisers said some of the gatherings attracted more than 100,000 people, though police had lower estimates of the turnout.
+
+On Friday, the court also handed a HK$1.5m fine ($191,000; £142,000) to the Hong Kong Alliance.
+
+"This sentencing is a triple tragedy: for the activists being unjustly punished; the survivors and victims of the Tiananmen crackdown itself; and the generations of Hongkongers denied the space to discuss one of the most consequential events in modern Chinese history," said Amnesty International's Deputy Regional Director Sarah Brooks.
