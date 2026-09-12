@@ -158,10 +158,38 @@ sites:
     feed: https://www.thetelegraphandargus.co.uk/news/rss/
     limit: 50
 
-  - name: TechCrunch
-    slug: techcrunch
-    categories: [Tech, Startups, News]
-    feed: https://techcrunch.com/feed/
+  - name: Der Spiegel International
+    slug: spiegel-international
+    feed: https://www.spiegel.de/international/index.rss
+    categories: [Berlin, Germany, News]
     limit: 50
+
+  - name: Berlin News
+    slug: berlin-news
+    feed: https://www.berlin.de/en/news/index.rss
+    categories: [Berlin, Germany, News]
+    limit: 50
+
+  - name: The Berliner
+    slug: the-berliner
+    listing_url: https://www.the-berliner.com/english-news-berlin/
+    force_playwright: true
+    listing_link_pattern: "/english-news-berlin/"
+    remove_suffix: "- The Berliner"
+    limit: 50
+    categories: [Berlin, Germany, News]
+
+
+  - name: The Local Germany
+    slug: the-local-germany
+    feed: https://feeds.thelocal.com/rss/builder/de
+    categories: [Berlin, Germany, News]
+    limit: 50
+
+
+
+
+
+
 
 
