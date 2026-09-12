@@ -1,11 +1,12 @@
 ---
-title: Amazon’s Prime Air is taking off in nearly 500 US cities | TechCrunch
+title: Amazon’s Prime Air is taking off in nearly 500 US cities
 source_url: https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:31:34Z'
-published: '2026-08-19T00:00:00Z'
-description: Amazon is significantly expanding its Prime Air drone delivery service,
+scraped_at: "2026-08-19T21:31:34Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  Amazon is significantly expanding its Prime Air drone delivery service,
   with plans to reach nearly 500 U.S. cities by the end of 2026.
 image: https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200
 ---

@@ -1,11 +1,12 @@
 ---
-title: Greenland meltwater is intensifying European heatwaves | New Scientist
+title: Greenland meltwater is intensifying European heatwaves
 source_url: https://www.newscientist.com/article/2585659-greenland-meltwater-is-intensifying-european-heatwaves/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-21T16:48:15Z'
-published: '2026-08-21T00:00:00Z'
-description: The cooling of the North Atlantic is creating waviness in the jet stream
+scraped_at: "2026-08-21T16:48:15Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  The cooling of the North Atlantic is creating waviness in the jet stream
   and high-pressure ridging over Europe, a study finds
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308998450.jpg
 ---
@@ -34,7 +35,7 @@ These pulses of meltwater cooling come on top of the “cold blob,” a long-ter
 
 As warm air masses rise to the south of the front and cold masses descend to the north of it, they begin to swirl and generate cyclones. This makes the jet stream wavier. It tends to meander southward of these cyclones, then back northward over western Europe, creating the persistent, high-pressure ridges and heatwaves there.
 
-![Atlantic Ocean from space](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg?crop=0px,0px,1347px,899px&resize=900,600) 
+![Atlantic Ocean from space](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg?crop=0px,0px,1347px,899px&resize=900,600)
 
 The critical current could remain stable beyond 5°C of warming, but only if the warming happens very slowly
 

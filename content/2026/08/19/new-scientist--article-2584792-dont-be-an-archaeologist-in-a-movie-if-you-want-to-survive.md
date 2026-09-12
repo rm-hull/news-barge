@@ -1,11 +1,12 @@
 ---
-title: Don't be an archaeologist in a movie if you want to survive | New Scientist
+title: Don't be an archaeologist in a movie if you want to survive
 source_url: https://www.newscientist.com/article/2584792-dont-be-an-archaeologist-in-a-movie-if-you-want-to-survive/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-19T21:31:43Z'
-published: '2026-08-19T00:00:00Z'
-description: Feedback is our weekly column of bizarre stories, implausible advertising
+scraped_at: "2026-08-19T21:31:43Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  Feedback is our weekly column of bizarre stories, implausible advertising
   claims, confusing instructions and more Archaeologists RIP In July, Feedback
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308737156.jpg
 ---
@@ -18,7 +19,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308737156.jpg
 
 In July, Feedback reported that geologist characters in movies were surprisingly likely to die, often from “work related” causes like volcanic eruptions, but remarkably frequently by murder. We wondered how other scientists fared.
 
-Andrew Hardwick flags *The Avengers* – not the Marvel superheroes, but the British spy series from the 1960s. “Any character introduced as a scientist was certain to be killed off,” Andrew says, due to the limited budget for hiring guest actors. “Exposition characters had to double up as victims or villains.” Feedback briefly considered performing an analysis to estimate the scientist death toll, but then we learned that the show ran for 161 hour-long episodes and decided we had better things to do.
+Andrew Hardwick flags _The Avengers_ – not the Marvel superheroes, but the British spy series from the 1960s. “Any character introduced as a scientist was certain to be killed off,” Andrew says, due to the limited budget for hiring guest actors. “Exposition characters had to double up as victims or villains.” Feedback briefly considered performing an analysis to estimate the scientist death toll, but then we learned that the show ran for 161 hour-long episodes and decided we had better things to do.
 
 Advertisement
 
@@ -26,7 +27,7 @@ Meanwhile, David Hawke pulls us up on a detail. We claimed that one indicator a 
 
 However, our main focus here is a missive from Andy Chapman. “As a now retired archaeologist I feel fortunate to have made it this far,” he writes, “given the film death rate for archaeologists.” They are particularly likely to die in films involving Egyptian mummies. “Here the death rate must approach 100 per cent, with only the heroic/romantic leads exempted, but often not their trusted assistants.”
 
-Andy’s argument rests in part on the *Indiana Jones* and*Tomb Raider* films, alongside the various incarnations of*The Mummy*. Andy notes “an unhealthy death rate” in many of these franchises, albeit with a caveat. “Much of this would apply to people unlikely to be regarded as qualified archaeologists, as I don’t believe training in weapons and explosives feature on the syllabus of many archaeology departments.”
+Andy’s argument rests in part on the _Indiana Jones_ and*Tomb Raider* films, alongside the various incarnations of*The Mummy*. Andy notes “an unhealthy death rate” in many of these franchises, albeit with a caveat. “Much of this would apply to people unlikely to be regarded as qualified archaeologists, as I don’t believe training in weapons and explosives feature on the syllabus of many archaeology departments.”
 
 Andy’s more sedate approach to the field appears to have kept him safe. He spent his time “working largely in British commercial archaeology ahead of quarrying and construction projects”, which tended to yield less treasure or cursed swords, and more “boxes of broken pottery and animal bone”. Such finds, informative as they are, “don’t often lead to homicide”.
 
@@ -52,4 +53,4 @@ Meanwhile, Chris Kendall tells us about Leicester, UK, home to the National Gas 
 
 **Got a story for Feedback?**
 
-*You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website.*
+_You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website._

@@ -1,11 +1,12 @@
 ---
-title: Frontier AI labs still won't say how they'd contain a rogue model | TechCrunch
+title: Frontier AI labs still won't say how they'd contain a rogue model
 source_url: https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-22T16:37:07Z'
-published: '2026-08-22T00:00:00Z'
-description: A new study finds leading AI labs have few publicly documented plans
+scraped_at: "2026-08-22T16:37:07Z"
+published: "2026-08-22T00:00:00Z"
+description:
+  A new study finds leading AI labs have few publicly documented plans
   for containing rogue models, raising questions about preparedness as AI systems
   increasingly demonstrate unexpected and potentially dangerous behavior.
 image: https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638

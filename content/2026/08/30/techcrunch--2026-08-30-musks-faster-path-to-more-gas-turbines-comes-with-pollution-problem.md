@@ -1,11 +1,12 @@
 ---
-title: Musk's faster path to more gas turbines comes with pollution problem | TechCrunch
+title: Musk's faster path to more gas turbines comes with pollution problem
 source_url: https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-30T19:17:47Z'
-published: '2026-08-30T00:00:00Z'
-description: Elon Musk says a secretive new SpaceX foundry will let him cast his own
+scraped_at: "2026-08-30T19:17:47Z"
+published: "2026-08-30T00:00:00Z"
+description:
+  Elon Musk says a secretive new SpaceX foundry will let him cast his own
   turbine blades and get gas power online 18 months faster than anyone else — but
   it's a bet on a fuel source that's already triggering lawsuits and health studies
   everywhere his (and others') turbines have gone in.

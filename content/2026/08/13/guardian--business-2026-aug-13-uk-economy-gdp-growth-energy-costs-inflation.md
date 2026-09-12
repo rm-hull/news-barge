@@ -1,12 +1,13 @@
 ---
-title: UK economy shows surprising resilience – but that might not last | Richard
+title: UK economy shows surprising resilience – but that might not last
   Partington
 source_url: https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation
 source_site: The Guardian
 source_slug: guardian
-scraped_at: '2026-08-13T13:38:47Z'
-published: '2026-08-13T00:00:00Z'
-description: Weaker growth, rising energy costs and persistent inflation mean Britain
+scraped_at: "2026-08-13T13:38:47Z"
+published: "2026-08-13T00:00:00Z"
+description:
+  Weaker growth, rising energy costs and persistent inflation mean Britain
   could face tougher times in the autumn
 image: https://i.guim.co.uk/img/media/96ac372d7409315b7187f24be0185c5dc13730d9/307_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4447c55c6203075f2f1e593797914ac
 ---

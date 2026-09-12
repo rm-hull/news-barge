@@ -1,11 +1,12 @@
 ---
-title: Brake problems in GM EVs draw greater federal scrutiny | TechCrunch
+title: Brake problems in GM EVs draw greater federal scrutiny
 source_url: https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-24T16:50:52Z'
-published: '2026-08-24T00:00:00Z'
-description: In one crash, the driver of a 2024 Blazer EV said they had to "deliberately
+scraped_at: "2026-08-24T16:50:52Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  In one crash, the driver of a 2024 Blazer EV said they had to "deliberately
   steer the vehicle into a concrete curb" to slow it down and avoid a "catastrophic
   intersection collision."
 image: https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632
@@ -29,4 +30,4 @@ In one crash reported to NHTSA, the driver of a 2025 Lyriq said they lost their 
 
 In another, the driver of a 2024 Blazer EV said they had to “deliberately steer the vehicle into a concrete curb” to slow it down and avoid a “catastrophic intersection collision.”
 
-*This story has been updated with a statement from GM.*
+_This story has been updated with a statement from GM._

@@ -1,11 +1,12 @@
 ---
-title: How to watch today's spectacular solar eclipse | New Scientist
+title: How to watch today's spectacular solar eclipse
 source_url: https://www.newscientist.com/article/2531639-where-when-and-how-to-watch-the-2026-solar-eclipse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-12T13:38:21Z'
-published: '2026-08-12T00:00:00Z'
-description: A total solar eclipse is set to be visible across parts of Europe today,
+scraped_at: "2026-08-12T13:38:21Z"
+published: "2026-08-12T00:00:00Z"
+description:
+  A total solar eclipse is set to be visible across parts of Europe today,
   while a partial eclipse will sweep across about a quarter of the planet – here’s
   how to see it
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308057735.jpg

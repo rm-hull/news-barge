@@ -1,11 +1,12 @@
 ---
-title: The most breathtaking photos of the total solar eclipse | New Scientist
+title: The most breathtaking photos of the total solar eclipse
 source_url: https://www.newscientist.com/article/2584532-the-best-photos-of-the-total-solar-eclipse/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-13T13:39:01Z'
-published: '2026-08-13T00:00:00Z'
-description: Photographers in Spain captured spectacular images of the rare alignment
+scraped_at: "2026-08-13T13:39:01Z"
+published: "2026-08-13T00:00:00Z"
+description:
+  Photographers in Spain captured spectacular images of the rare alignment
   of the moon and the sun, as it cast a dark shadow over much of the country
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308167856.jpg
 ---

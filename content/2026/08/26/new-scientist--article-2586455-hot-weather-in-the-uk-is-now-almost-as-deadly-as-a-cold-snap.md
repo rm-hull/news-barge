@@ -1,11 +1,12 @@
 ---
-title: Hot weather in the UK is now almost as deadly as a cold snap | New Scientist
+title: Hot weather in the UK is now almost as deadly as a cold snap
 source_url: https://www.newscientist.com/article/2586455-hot-weather-in-the-uk-is-now-almost-as-deadly-as-a-cold-snap/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-26T13:12:10Z'
-published: '2026-08-26T00:00:00Z'
-description: Cold weather has always killed more people than hot weather in England
+scraped_at: "2026-08-26T13:12:10Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Cold weather has always killed more people than hot weather in England
   and Wales – but that's about to change
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309546666.jpg
 ---

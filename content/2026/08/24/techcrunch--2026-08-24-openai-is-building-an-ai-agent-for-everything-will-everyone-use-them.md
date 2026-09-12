@@ -1,11 +1,12 @@
 ---
-title: OpenAI is building AI agents for everything. Will everyone use them? | TechCrunch
+title: OpenAI is building AI agents for everything. Will everyone use them?
 source_url: https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-24T16:50:50Z'
-published: '2026-08-24T00:00:00Z'
-description: Inside the frontier lab’s push to bring AI agents from software engineers
+scraped_at: "2026-08-24T16:50:50Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  Inside the frontier lab’s push to bring AI agents from software engineers
   to the masses.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729
 ---
@@ -62,7 +63,7 @@ For now, OpenAI is pitching this tool as best suited for routine, data-intensive
 
 I’ve spoken to VCs using agents to assemble relevant communications and analysis about companies into investment memos, and ops teams spinning up bespoke dashboards and data visualizations. Sam Altman is using it to plan his vacations. One OpenAI engineer described asking the program to look at a Slack conversation about an engineering problem and “make some charts,” then receiving back a series of insightful plots.
 
-“There is a deluge of information for the average worker or employee of any of these companies, including myself,” Akshay Nathan, who leads the product engineering team at OpenAI, said. “We’re actually quite limited by our ability to parse everything that’s available to us, and then take action on it. That information lives in all these system records tools [like, Salesforce]…the value of ChatGPT is you already have access to this, but now you *truly* have access to it.”
+“There is a deluge of information for the average worker or employee of any of these companies, including myself,” Akshay Nathan, who leads the product engineering team at OpenAI, said. “We’re actually quite limited by our ability to parse everything that’s available to us, and then take action on it. That information lives in all these system records tools [like, Salesforce]…the value of ChatGPT is you already have access to this, but now you _truly_ have access to it.”
 
 This, then, could be the digital personal assistant that AI evangelists dream about. As with Claude Cowork or Perplexity AI browsing agent, ChatGPT Work links agents to your existing workspace — email, web browser, a slew of SaaS platforms — and puts that context to work for you.
 

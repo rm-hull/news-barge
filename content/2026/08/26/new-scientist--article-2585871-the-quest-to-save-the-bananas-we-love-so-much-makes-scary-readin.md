@@ -1,11 +1,12 @@
 ---
-title: The quest to save the bananas we love so much makes scary reading | New Scientist
+title: The quest to save the bananas we love so much makes scary reading
 source_url: https://www.newscientist.com/article/2585871-the-quest-to-save-the-bananas-we-love-so-much-makes-scary-reading/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-26T23:24:52Z'
-published: '2026-08-26T00:00:00Z'
-description: Without serious technical efforts, banana crops faces collapse worldwide.
+scraped_at: "2026-08-26T23:24:52Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Without serious technical efforts, banana crops faces collapse worldwide.
   James Woodford enjoys a passionate plea from leading researcher James Dale in his
   new book, The Future of Bananas
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733669.jpg
@@ -29,15 +30,15 @@ The first bunch of bananas I harvested was enormous. It was so big that I have a
 
 ![2X2T582 Hands of woman buying fresh yellow bananas from supermarket](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308733625.jpg?w=840)
 
-Ever since, I have been fascinated by bananas, and so was intrigued by a new book, *The Future of Bananas*, by James Dale (UK | US), a leading banana researcher at Queensland University of Technology, Brisbane.
+Ever since, I have been fascinated by bananas, and so was intrigued by a new book, _The Future of Bananas_, by James Dale (UK | US), a leading banana researcher at Queensland University of Technology, Brisbane.
 
 It is a short book, and I consumed it much like a banana – in a few quick bites, in one sitting.
 
-For decades, alarm has sounded about the threats facing the universally eaten variety known as the Cavendish (*Musa acuminata*), including here at New Scientist.
+For decades, alarm has sounded about the threats facing the universally eaten variety known as the Cavendish (_Musa acuminata_), including here at New Scientist.
 
-Cavendish may not be the most delicious of the hundreds of the world’s weird and wonderful banana varieties, but it is the most ubiquitous of the *Musa* world – tough-skinned and tasty, aesthetically pleasing and cheap.
+Cavendish may not be the most delicious of the hundreds of the world’s weird and wonderful banana varieties, but it is the most ubiquitous of the _Musa_ world – tough-skinned and tasty, aesthetically pleasing and cheap.
 
-Dale runs through the fascinating history of the Cavendish but, like every banana variety that has ever existed, hot on its tail has been fungal disease. In response to the cat-and-mouse games played by various killer fungi, including strains of the *Fusarium* banana-killing fungus, humanity has spent centuries working to assist the fruit in outrunning its pathogenic adversaries.
+Dale runs through the fascinating history of the Cavendish but, like every banana variety that has ever existed, hot on its tail has been fungal disease. In response to the cat-and-mouse games played by various killer fungi, including strains of the _Fusarium_ banana-killing fungus, humanity has spent centuries working to assist the fruit in outrunning its pathogenic adversaries.
 
 The immense effort farmers and scientists have put into guaranteeing the supply of bananas is a testament to how much we value them as a globally important commodity – and to how much we want to protect what is one of the world’s favourite fruits.
 

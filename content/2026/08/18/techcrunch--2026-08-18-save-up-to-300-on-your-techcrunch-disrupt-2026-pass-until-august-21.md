@@ -1,11 +1,12 @@
 ---
-title: Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 | TechCrunch
+title: Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21
 source_url: https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-18T19:35:56Z'
-published: '2026-08-18T00:00:00Z'
-description: If you’ve been circling around Disrupt, then now’s the best time to lock
+scraped_at: "2026-08-18T19:35:56Z"
+published: "2026-08-18T00:00:00Z"
+description:
+  If you’ve been circling around Disrupt, then now’s the best time to lock
   in your pass and start getting ready to join the rest of the startup community gathering
   in San Francisco from October 13-15 at Moscone West!
 image: https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800

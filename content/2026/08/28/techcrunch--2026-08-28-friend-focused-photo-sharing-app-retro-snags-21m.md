@@ -1,11 +1,12 @@
 ---
-title: Friend-focused photo-sharing app Retro snags $21M | TechCrunch
+title: Friend-focused photo-sharing app Retro snags $21M
 source_url: https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-28T22:14:29Z'
-published: '2026-08-28T00:00:00Z'
-description: Retro, a friend-focused photo-sharing app built by former Instagram employees,
+scraped_at: "2026-08-28T22:14:29Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  Retro, a friend-focused photo-sharing app built by former Instagram employees,
   has raised more than $21 million in Series A funding.
 image: https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792
 ---

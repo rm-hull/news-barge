@@ -1,12 +1,13 @@
 ---
-title: 'Interview: Vicky McClure & Jonny Owen ahead of Day Fever in Leeds | Harrogate
-  Informer'
+title: "Interview: Vicky McClure & Jonny Owen ahead of Day Fever in Leeds
+  Informer"
 source_url: https://www.harrogate-news.co.uk/2026/08/19/interview-vicky-mcclure-jonny-owen-ahead-of-day-fever-in-leeds/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-08-19T13:10:27Z'
-published: '2026-08-19T00:00:00Z'
-description: There aren't many live events where strangers become friends before the
+scraped_at: "2026-08-19T13:10:27Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  There aren't many live events where strangers become friends before the
   first song has finished. Fewer still where the dancefloor is full by mid-afternoon,
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/McClure.webp
 ---

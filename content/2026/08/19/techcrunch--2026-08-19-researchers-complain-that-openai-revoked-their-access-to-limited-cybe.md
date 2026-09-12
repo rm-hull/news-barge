@@ -1,11 +1,12 @@
 ---
-title: Researchers say OpenAI revoked their access to limited cyber program | TechCrunch
+title: Researchers say OpenAI revoked their access to limited cyber program
 source_url: https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:28Z'
-published: '2026-08-19T00:00:00Z'
-description: The idea behind OpenAI's Trusted Access for Cyber program is to give
+scraped_at: "2026-08-19T21:32:28Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  The idea behind OpenAI's Trusted Access for Cyber program is to give
   trusted defenders better models so they can report bugs and vulnerabilities to companies,
   with the aim of getting flaws patched faster.
 image: https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798
@@ -41,4 +42,4 @@ At the same time, the company also introduced a higher tier called Daybreak Red 
 
 In recent months, both defensive and offensive security researchers have complained about the guardrails imposed by Anthropic and OpenAI, arguing that the guardrails prevent them from doing legitimate work.
 
-*Updated with comment from OpenAI.*
+_Updated with comment from OpenAI._

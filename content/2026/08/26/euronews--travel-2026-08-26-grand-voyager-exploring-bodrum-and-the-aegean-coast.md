@@ -1,11 +1,12 @@
 ---
-title: Grand Voyager | Exploring Bodrum and the Aegean Coast
+title: Grand Voyager
 source_url: https://www.euronews.com/travel/2026/08/26/grand-voyager-exploring-bodrum-and-the-aegean-coast
 source_site: Euronews
 source_slug: euronews
-scraped_at: '2026-08-26T16:57:04Z'
-published: '2026-08-26T00:00:00Z'
-description: Bodrum has long been shaped by its people and its landscape. Set along
+scraped_at: "2026-08-26T16:57:04Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Bodrum has long been shaped by its people and its landscape. Set along
   Türkiye’s Aegean Coast, the region combines ancient ruins, olive groves and a reputation
   for luxury travel.
 image: https://images.euronews.com/articles/stories/09/85/53/10/1200x675_cmsv2_b27207bb-7f99-5fca-b489-f7fc34b802c8-9855310.jpg
@@ -31,8 +32,8 @@ Through Lilly’s journey, Bodrum becomes more than just a luxury beach destinat
 
 ## Read more
 
-![©](https://images.euronews.com/articles/stories/09/81/92/15/480x270_cmsv2_4843c196-6026-5219-82f2-6752253d32da-9819215.jpg) 
+![©](https://images.euronews.com/articles/stories/09/81/92/15/480x270_cmsv2_4843c196-6026-5219-82f2-6752253d32da-9819215.jpg)
 
-![©](https://images.euronews.com/articles/stories/09/84/05/21/480x270_cmsv2_78fb9dff-6bb4-5df3-80cc-a49dcb9b050c-9840521.jpg) 
+![©](https://images.euronews.com/articles/stories/09/84/05/21/480x270_cmsv2_78fb9dff-6bb4-5df3-80cc-a49dcb9b050c-9840521.jpg)
 
 ![©](https://images.euronews.com/articles/stories/09/79/62/63/480x270_cmsv2_1ac5cd86-e729-5eff-9f18-fb632fe591f6-9796263.jpg)

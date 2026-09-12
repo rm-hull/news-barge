@@ -1,11 +1,12 @@
 ---
-title: The $225 Pebble Time 2 is a refreshingly fun smartwatch | TechCrunch
+title: The $225 Pebble Time 2 is a refreshingly fun smartwatch
 source_url: https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-21T20:36:52Z'
-published: '2026-08-21T00:00:00Z'
-description: The $225 Pebble Time 2 pairs quirky watch faces and apps with physical
+scraped_at: "2026-08-21T20:36:52Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  The $225 Pebble Time 2 pairs quirky watch faces and apps with physical
   buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
 image: https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923
 ---

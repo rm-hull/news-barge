@@ -1,11 +1,12 @@
 ---
-title: a16z brings growth fund to $8.5B days after launching new $1.1B fund | TechCrunch
+title: a16z brings growth fund to $8.5B days after launching new $1.1B fund
 source_url: https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-09-01T04:59:22Z'
-published: '2026-08-31T00:00:00Z'
-description: Andreessen Horowitz held out its hand and returned with billions more
+scraped_at: "2026-09-01T04:59:22Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  Andreessen Horowitz held out its hand and returned with billions more
   in new funds to invest in startups.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-495510896.jpg?w=1024
 ---

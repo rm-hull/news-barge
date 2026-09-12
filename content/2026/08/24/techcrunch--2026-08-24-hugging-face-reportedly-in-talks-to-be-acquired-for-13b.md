@@ -1,11 +1,12 @@
 ---
-title: Hugging Face reportedly in talks to be acquired for $13B | TechCrunch
+title: Hugging Face reportedly in talks to be acquired for $13B
 source_url: https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-24T16:51:50Z'
-published: '2026-08-24T00:00:00Z'
-description: Hugging Face has reportedly been fielding acquisition offers that would
+scraped_at: "2026-08-24T16:51:50Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  Hugging Face has reportedly been fielding acquisition offers that would
   value the company at around $13B. But with the founders' feeling of responsibility
   to community, doubts arise as to whether a sale will happen.
 image: https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800

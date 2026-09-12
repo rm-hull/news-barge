@@ -1,5 +1,5 @@
 ---
-title: 'Last Word: Why do we feel emotional about fictional characters? | New Scientist'
+title: 'Last Word: Why do we feel emotional about fictional characters?
 source_url: https://www.newscientist.com/article/2585877-why-do-we-feel-emotional-about-fictional-characters/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
@@ -14,7 +14,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306065072.jpg
 
 ![B0729K Television and cartoon characters, depicted in the form of toy dolls, making up a window display.. Image shot 03/2008. Exact date unknown.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306065072.jpg?w=840)
 
-*Fiona Lyczynska**Tadley, Hampshire, UK*
+_Fiona Lyczynska\*\*Tadley, Hampshire, UK_
 
 I suggest it is driven by our social and tribal nature and our emotional and practical needs.
 
@@ -26,12 +26,11 @@ Additionally, it may appeal to our emotions or desires, or on the other side, pe
 
 If we detect enough of the hallmarks of human interaction, we are likely to have an emotional response
 
-
 With respect to big ideas, it may typically be a small minority that come up with the better ideas. Most humans, even in this day and age, probably lean on social bonds, hierarchies and social contagion to decide who to trust and what to adopt, rather than only deciding after doing their own research and using scientific methods.
 
 Fiction might not be real, but it is often sufficient to stimulate our emotions. When we can relate to a character, it can be self-affirming; we may see ourselves reflected, which gives us hope and courage to act in the world. It is also relatively safe compared with the stress and inequities of messy real-life relationships. So, we often happily adopt fictions that may hold metaphorical truth for us, even when we are aware they are fictions.
 
-*Richard Hind**Chapel Haddlesey, North Yorkshire, UK*
+_Richard Hind\*\*Chapel Haddlesey, North Yorkshire, UK_
 
 I have been pondering a related question for some time: how can I harness this effect in my teaching to help my students get a better understanding of the subject in the context of the real world through the use of narratives?
 
@@ -45,12 +44,12 @@ When we read fictional stories, they can resonate with our internal world model,
 
 I’ll leave the last word to Fletcher: “Narrative intelligence is an engine of empirical science, medicine, engineering, technical innovation and physiological resilience.”
 
-*Jean Whitney**San Diego, California, US*
+_Jean Whitney\*\*San Diego, California, US_
 
 The loneliness epidemic is one answer. Maybe the covid-19 pandemic had something to do with it, too. Social media and the entertainment industry create an artificial world of perfection, which generates unreasonable expectations, thus real humans are, well, such disappointments. Enter fictional characters, initially created by people, now also created by AI, who save the day. We choose the ones who please us, and dismiss the ones we deem flawed. No painful partings, tears, guilt; simply click the X and close. What’s not to like?
 
-*To answer this question – or ask a new one – email [lastword@newscientist.com.](mailto:lastword@newscientist.com.)*
+_To answer this question – or ask a new one – email [lastword@newscientist.com.](mailto:lastword@newscientist.com.)_
 
-*Questions should be scientific enquiries about everyday phenomena, and both questions and answers should be concise. We reserve the right to edit items for clarity and style. Please include a postal address, daytime telephone number and email address.*
+_Questions should be scientific enquiries about everyday phenomena, and both questions and answers should be concise. We reserve the right to edit items for clarity and style. Please include a postal address, daytime telephone number and email address._
 
-*The use of AI tools (e.g. ChatGPT, Claude) to write either questions or answers is forbidden, and any submissions found to have been written using AI tools will be withdrawn.*
+_The use of AI tools (e.g. ChatGPT, Claude) to write either questions or answers is forbidden, and any submissions found to have been written using AI tools will be withdrawn._

@@ -1,10 +1,10 @@
 ---
-title: How do we explain OpenAI's executive exodus? | TechCrunch
+title: How do we explain OpenAI's executive exodus?
 source_url: https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T23:24:16Z'
-published: '2026-08-26T00:00:00Z'
+scraped_at: "2026-08-26T23:24:16Z"
+published: "2026-08-26T00:00:00Z"
 description: Was Greg Brockman the right executive all along?
 image: https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024
 ---

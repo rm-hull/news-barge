@@ -1,12 +1,13 @@
 ---
-title: See the stunning contenders for the Wildlife Photographer of the Year | New
+title: See the stunning contenders for the Wildlife Photographer of the Year
   Scientist
 source_url: https://www.newscientist.com/article/2585388-see-the-stunning-contenders-for-the-wildlife-photographer-of-the-year/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-26T01:53:31Z'
-published: '2026-08-25T00:00:00Z'
-description: These images of nature in action are just some of the highly commended
+scraped_at: "2026-08-26T01:53:31Z"
+published: "2026-08-25T00:00:00Z"
+description:
+  These images of nature in action are just some of the highly commended
   shots in the running for the prestigious nature photography award
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg
 ---
@@ -15,7 +16,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg
 
 From a viper with a bloodthirsty hitchhiker to a bullfrog narrowly missing its lunch, these photographs, all of which are in the running for this year’s Wildlife Photographer of the Year competition, offer a glimpse into the drama unfolding across the animal kingdom.
 
-*Biting Back,* an intimidating shot captured by Andrea and Maceo Grammatico, was highly commended in the contest’s Animal Portraits category. The twins say it wasn’t until reviewing their photographs that they spotted a mosquito drinking from the head of the fer-de-lance – the most dangerous snake in Central America. 
+*Biting Back,* an intimidating shot captured by Andrea and Maceo Grammatico, was highly commended in the contest’s Animal Portraits category. The twins say it wasn’t until reviewing their photographs that they spotted a mosquito drinking from the head of the fer-de-lance – the most dangerous snake in Central America.
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747234-1.jpg?w=840)
 
@@ -23,7 +24,7 @@ There was a near miss in Jens Cullmann’s *Split-Second Escape,* highly com
 
 Advertisement
 
-Hiding not hunting is the speciality of the lichen dragon katydid captured by Gil Wizen, below. Named *Hidden Dragon,* Wizen’s shot, highly commended in the Behaviour: Invertebrates category, captures the almost perfectly camouflaged, 15-millimetre-long, spiky insect – a rare species found only in the Ecuadorian Andes mountains.
+Hiding not hunting is the speciality of the lichen dragon katydid captured by Gil Wizen, below. Named _Hidden Dragon,_ Wizen’s shot, highly commended in the Behaviour: Invertebrates category, captures the almost perfectly camouflaged, 15-millimetre-long, spiky insect – a rare species found only in the Ecuadorian Andes mountains.
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747009.jpg?w=840)
 

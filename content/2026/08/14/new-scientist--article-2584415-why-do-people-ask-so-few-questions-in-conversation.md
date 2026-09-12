@@ -1,11 +1,12 @@
 ---
-title: Why do people ask so few questions in conversation? | New Scientist
+title: Why do people ask so few questions in conversation?
 source_url: https://www.newscientist.com/article/2584415-why-do-people-ask-so-few-questions-in-conversation/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-14T09:17:37Z'
-published: '2026-08-14T00:00:00Z'
-description: We've perhaps been conditioned to not ask too many questions, in case
+scraped_at: "2026-08-14T09:17:37Z"
+published: "2026-08-14T00:00:00Z"
+description:
+  We've perhaps been conditioned to not ask too many questions, in case
   it comes across as rude or prying. But columnist David Robson argues that asking
   people open-ended questions benefits our wellbeing, and doesn't have to be complicated
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307991933.jpg
@@ -31,7 +32,7 @@ The big question, then, is why we don’t do it more often. Way suggests that we
 
 Earlier this year, Way published a paper that tackled this topic head-on. To measure their adherence to masculine stereotypes, each adolescent was asked to rate their agreement with statements such as “I do not let it show to my friends when my feelings are hurt” and “It is necessary for me to fight others in order to gain respect.” As hypothesised, the team found that these scores were inversely correlated with interpersonal curiosity, meaning that the more someone endorsed macho values, the less likely they were to say they enjoyed hearing others’ stories. And this, in turn, seemed to have a big influence on the quality of their friendships, measured by things like the amount of free time they spent with their closest friend and the amount of social support they received from them.
 
-![Elderly women gossiping](https://www.newscientist.com/wp-content/uploads/2025/06/06144407/SEI_254508408.jpg?w=900&h=600&crop=1) 
+![Elderly women gossiping](https://www.newscientist.com/wp-content/uploads/2025/06/06144407/SEI_254508408.jpg?w=900&h=600&crop=1)
 
 If you struggle with small talk or find it hard to express yourself, research by psychologist Alison Wood Brooks and others will help you master the art of conversation
 
@@ -41,7 +42,7 @@ Sexist assumptions about interpersonal curiosity may even explain why it has bee
 
 Can we ever overcome this cultural conditioning? Way argues that children are born to be interpersonally curious, and that innate interest can be reawakened with the right education. To do so, she designed the Listening with Curiosity Project, a 26-lesson curriculum for adolescent students in New York Public Schools. It includes advice on asking open-ended questions and techniques to encourage people to open up about their experiences with greater nuance and detail – with plenty of opportunity for practice. The early evidence suggests it works: by the end of the curriculum, the students showed greater curiosity and increased friendship quality, with boys showing the biggest gains.
 
-![](https://www.newscientist.com/wp-content/uploads/2023/06/06144420/SEI_159141518.jpg?w=900&h=600&crop=1) 
+![](https://www.newscientist.com/wp-content/uploads/2023/06/06144420/SEI_159141518.jpg?w=900&h=600&crop=1)
 
 The brain processes voices differently depending on the volume of the speaker and if the listener is focused on them
 

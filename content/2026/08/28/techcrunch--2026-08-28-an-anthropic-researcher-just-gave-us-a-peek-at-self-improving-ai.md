@@ -1,11 +1,12 @@
 ---
-title: An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch
+title: An Anthropic researcher just gave us a peek at self-improving AI
 source_url: https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-28T22:14:27Z'
-published: '2026-08-28T00:00:00Z'
-description: Given 10 benchmarks for specific misaligned behaviors, the automated
+scraped_at: "2026-08-28T22:14:27Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  Given 10 benchmarks for specific misaligned behaviors, the automated
   systems were able to improve performance on every single one without degrading overall
   performance.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901

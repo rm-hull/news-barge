@@ -1,11 +1,12 @@
 ---
-title: Rivian's CFO is leaving the company | TechCrunch
+title: Rivian's CFO is leaving the company
 source_url: https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T22:13:36Z'
-published: '2026-08-27T00:00:00Z'
-description: Claire McDonough is stepping down on October 30 to pursue a new opportunity,
+scraped_at: "2026-08-27T22:13:36Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Claire McDonough is stepping down on October 30 to pursue a new opportunity,
   the company said in a filing on Thursday.
 image: https://techcrunch.com/wp-content/uploads/2026/08/claire-mcdonough-getty.jpg?resize=1200,899
 ---

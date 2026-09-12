@@ -1,11 +1,12 @@
 ---
-title: Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required | TechCrunch
+title: Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required
 source_url: https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:31:56Z'
-published: '2026-08-19T00:00:00Z'
-description: Amazon is making its AI-powered Alexa+ assistant free on all compatible
+scraped_at: "2026-08-19T21:31:56Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  Amazon is making its AI-powered Alexa+ assistant free on all compatible
   Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe
   to Prime.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675

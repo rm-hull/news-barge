@@ -1,11 +1,12 @@
 ---
-title: Three black holes discovered in a young galaxy for the first time | New Scientist
+title: Three black holes discovered in a young galaxy for the first time
 source_url: https://www.newscientist.com/article/2584294-three-black-holes-discovered-in-a-young-galaxy-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-12T13:39:03Z'
-published: '2026-08-12T00:00:00Z'
-description: Three massive black holes have been found in a galaxy that existed during
+scraped_at: "2026-08-12T13:39:03Z"
+published: "2026-08-12T00:00:00Z"
+description:
+  Three massive black holes have been found in a galaxy that existed during
   the earliest times of the universe
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308051730.jpg
 ---
@@ -32,7 +33,7 @@ An accreting black hole is a super dense area of space, so compressed that light
 
 Until now, there was no evidence that massive black hole triplets existed within the first 1.2 billion years of cosmic history, says Übler. “This discovery shows us that processes in the early universe were efficient at bringing massive black holes together,” she says. “It also suggests that black hole merging may have been an additional, fast route for their rapid growth in the early universe.”
 
-![This sequence of artist's illustrations shows how a black hole can devour a bypassing star. 1. A normal star passes near a supermassive black hole in the center of a galaxy. 2. The star's outer gasses are pulled into the black hole's gravitational fie](https://www.newscientist.com/wp-content/uploads/2026/01/05135439/SEI_272987256.jpg?w=900&h=600&crop=1) 
+![This sequence of artist's illustrations shows how a black hole can devour a bypassing star. 1. A normal star passes near a supermassive black hole in the center of a galaxy. 2. The star's outer gasses are pulled into the black hole's gravitational fie](https://www.newscientist.com/wp-content/uploads/2026/01/05135439/SEI_272987256.jpg?w=900&h=600&crop=1)
 
 Black holes may appear to be shaped like a doughnut, but the truth is more complicated than that, explain our readers
 

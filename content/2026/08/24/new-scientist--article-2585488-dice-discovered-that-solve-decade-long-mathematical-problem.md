@@ -1,11 +1,12 @@
 ---
-title: Dice discovered that solve decade-long mathematical problem | New Scientist
+title: Dice discovered that solve decade-long mathematical problem
 source_url: https://www.newscientist.com/article/2585488-dice-discovered-that-solve-decade-long-mathematical-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-24T16:52:17Z'
-published: '2026-08-24T00:00:00Z'
-description: After years of searching, mathematicians have found dice that can allow
+scraped_at: "2026-08-24T16:52:17Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  After years of searching, mathematicians have found dice that can allow
   five players to fairly decide who moves first in a board game, with a winner guaranteed
   from just a single roll
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309038172.jpg

@@ -1,11 +1,12 @@
 ---
-title: Viral AI startup Instinct has raised $350M at a $2.5B valuation | TechCrunch
+title: Viral AI startup Instinct has raised $350M at a $2.5B valuation
 source_url: https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T12:01:08Z'
-published: '2026-08-26T00:00:00Z'
-description: The startup is only a year old but it has already generated a massive
+scraped_at: "2026-08-27T12:01:08Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  The startup is only a year old but it has already generated a massive
   amount of hype (and money) while also spurring privacy concerns.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795
 ---

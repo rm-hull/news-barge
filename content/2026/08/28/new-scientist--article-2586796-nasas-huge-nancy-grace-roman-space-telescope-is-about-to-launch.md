@@ -1,11 +1,12 @@
 ---
-title: NASA’s huge Nancy Grace Roman Space Telescope is about to launch | New Scientist
+title: NASA’s huge Nancy Grace Roman Space Telescope is about to launch
 source_url: https://www.newscientist.com/article/2586796-nasas-huge-nancy-grace-roman-space-telescope-is-about-to-launch/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-28T22:15:16Z'
-published: '2026-08-28T00:00:00Z'
-description: The Nancy Grace Roman Space Telescope, which launches on 30 August, will
+scraped_at: "2026-08-28T22:15:16Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  The Nancy Grace Roman Space Telescope, which launches on 30 August, will
   observe space with the same detail as the Hubble Space Telescope, but over a much
   larger area
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg
@@ -37,7 +38,7 @@ This will enable it to see planets that are 100 million times fainter than stars
 
 If the launch goes smoothly, Roman should reach its final position at L2 – a gravitationally stable point about 1.5 million kilometres further from the sun than Earth – in about a month. It will then undergo another three months or so of instrument testing and calibration before beginning its science phase, so the first scientific observations are expected to begin around the start of 2027.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/07/Main-shutterstock_2601376011.jpg?crop=0px,0px,2667px,2000px&resize=800,600) 
+![](https://www.newscientist.com/wp-content/uploads/2026/07/Main-shutterstock_2601376011.jpg?crop=0px,0px,2667px,2000px&resize=800,600)
 
 ## The science of space exploration and astronomy: US
 

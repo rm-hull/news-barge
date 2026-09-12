@@ -1,11 +1,12 @@
 ---
-title: Google packs Search and Gemini with new AI study tools | TechCrunch
+title: Google packs Search and Gemini with new AI study tools
 source_url: https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:33:01Z'
-published: '2026-08-19T00:00:00Z'
-description: The launch of the new study features marks Google's latest effort to
+scraped_at: "2026-08-19T21:33:01Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  The launch of the new study features marks Google's latest effort to
   make Gemini the AI assistant that students turn to when learning and studying, as
   it continues to compete with companies like OpenAI.
 image: https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800

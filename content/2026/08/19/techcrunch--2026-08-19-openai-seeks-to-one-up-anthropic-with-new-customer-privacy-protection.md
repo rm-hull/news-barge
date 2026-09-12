@@ -1,11 +1,12 @@
 ---
-title: OpenAI seeks to one-up Anthropic with new customer privacy protections | TechCrunch
+title: OpenAI seeks to one-up Anthropic with new customer privacy protections
 source_url: https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-20T01:48:20Z'
-published: '2026-08-19T00:00:00Z'
-description: A competition is developing between OpenAI and Anthropic over who can
+scraped_at: "2026-08-20T01:48:20Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  A competition is developing between OpenAI and Anthropic over who can
   provide the best privacy protections for enterprise customer data.
 image: https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800
 ---

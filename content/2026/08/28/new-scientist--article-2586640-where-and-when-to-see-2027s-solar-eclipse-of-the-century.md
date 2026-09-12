@@ -1,11 +1,12 @@
 ---
-title: Where and when to see 2027’s ‘solar eclipse of the century’ | New Scientist
+title: Where and when to see 2027’s ‘solar eclipse of the century’
 source_url: https://www.newscientist.com/article/2586640-where-and-when-to-see-2027s-solar-eclipse-of-the-century/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-28T11:16:42Z'
-published: '2026-08-28T00:00:00Z'
-description: The total solar eclipse on 2 August 2027 is due to be the longest one
+scraped_at: "2026-08-28T11:16:42Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  The total solar eclipse on 2 August 2027 is due to be the longest one
   until the year 2114, and researchers, eclipse chasers and tourists alike are on
   the edge of their seats
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309648588.jpg
@@ -29,7 +30,7 @@ For scientists, eclipses like this one present a perfect opportunity to observe 
 
 The corona is more than 150 times hotter than the surface of the sun, and researchers have been trying to understand why for decades. It is also strangely patchy, making the mystery even more puzzling. While there are scientific instruments, called coronagraphs, that block out the sun’s disc to study the corona, the area blocked during a natural eclipse is much tighter against the sun, allowing us to observe the closest-in areas of the corona, which could be crucial to understanding it.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/07/Baileys-beads-and-prominences.jpg?crop=0px,295px,1913px,1435px&resize=800,600) 
+![](https://www.newscientist.com/wp-content/uploads/2026/07/Baileys-beads-and-prominences.jpg?crop=0px,295px,1913px,1435px&resize=800,600)
 
 ## Total solar eclipse tours and cruises
 

@@ -1,10 +1,10 @@
 ---
-title: Gamma acquires Accel-backed design startup Lica | TechCrunch
+title: Gamma acquires Accel-backed design startup Lica
 source_url: https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T16:50:40Z'
-published: '2026-08-25T00:00:00Z'
+scraped_at: "2026-08-25T16:50:40Z"
+published: "2026-08-25T00:00:00Z"
 description: Lica co-founders are going to work on Gamma's new research team.
 image: https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960
 ---

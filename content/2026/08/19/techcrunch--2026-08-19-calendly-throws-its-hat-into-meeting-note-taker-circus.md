@@ -1,10 +1,10 @@
 ---
-title: Calendly throws its hat into meeting note-taker circus | TechCrunch
+title: Calendly throws its hat into meeting note-taker circus
 source_url: https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:31:31Z'
-published: '2026-08-19T00:00:00Z'
+scraped_at: "2026-08-19T21:31:31Z"
+published: "2026-08-19T00:00:00Z"
 description: Calendly is also releasing a meeting scheduling assistant called Callie.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675
 ---

@@ -1,11 +1,12 @@
 ---
-title: Hold up, there's a new Twitter in town | TechCrunch
+title: Hold up, there's a new Twitter in town
 source_url: https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T22:13:14Z'
-published: '2026-08-27T00:00:00Z'
-description: Former Twitter trademark counsel Stephen Coates said in a LinkedIn post
+scraped_at: "2026-08-27T22:13:14Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Former Twitter trademark counsel Stephen Coates said in a LinkedIn post
   that the company is not trying to re-create Twitter.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg?w=938
 ---

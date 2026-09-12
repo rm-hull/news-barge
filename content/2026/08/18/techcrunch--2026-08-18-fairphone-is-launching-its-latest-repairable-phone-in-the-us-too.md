@@ -1,11 +1,12 @@
 ---
-title: Fairphone is launching its latest repairable phone in the US too | TechCrunch
+title: Fairphone is launching its latest repairable phone in the US too
 source_url: https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-18T19:36:02Z'
-published: '2026-08-18T00:00:00Z'
-description: The Fairphone 6+ is a midrange Android offering, but given the increasing
+scraped_at: "2026-08-18T19:36:02Z"
+published: "2026-08-18T00:00:00Z"
+description:
+  The Fairphone 6+ is a midrange Android offering, but given the increasing
   prices of consumer gadgets amid the ongoing component shortages, a repairable device
   that can be made to last for years may prove a good proposition.
 image: https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200

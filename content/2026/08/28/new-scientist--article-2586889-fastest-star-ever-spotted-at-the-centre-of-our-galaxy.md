@@ -1,11 +1,12 @@
 ---
-title: Fastest star ever spotted at the centre of our galaxy | New Scientist
+title: Fastest star ever spotted at the centre of our galaxy
 source_url: https://www.newscientist.com/article/2586889-fastest-star-ever-spotted-at-the-centre-of-our-galaxy/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-28T11:16:10Z'
-published: '2026-08-28T00:00:00Z'
-description: A newfound star called S301 is both the fastest ever seen and the closest
+scraped_at: "2026-08-28T11:16:10Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  A newfound star called S301 is both the fastest ever seen and the closest
   to a supermassive black hole –and it could make bafflingly difficult tests of gravity
   possible at last
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg
@@ -29,7 +30,7 @@ Measuring Earth’s spin is relatively easy, but a black hole’s spin is much h
 
 “We drop a leaf in the wind and see how the air is moving by measuring that leaf,” says Gillessen. “A star is just the perfect leaf to drop to see the movement of space-time.”
 
-Actually measuring the spin of Sagittarius A* using this method will probably take around a decade, he says, but that may speed up if we find more stars like it.
+Actually measuring the spin of Sagittarius A\* using this method will probably take around a decade, he says, but that may speed up if we find more stars like it.
 
 “With one star, it would take a while, but it would still be the best constraint on spin that we’ve ever had by far,” says Ziri Younsi at University College London. “If you can find another star that’s even closer, that’s better still. If you can find a population of these stars, then you’re in business.”
 

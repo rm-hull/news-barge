@@ -1,11 +1,12 @@
 ---
-title: Nvidia’s AI advantage is moving beyond the GPU | TechCrunch
+title: Nvidia’s AI advantage is moving beyond the GPU
 source_url: https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-29T13:49:58Z'
-published: '2026-08-29T00:00:00Z'
-description: The new generation of data center systems is increasing efficiency with
+scraped_at: "2026-08-29T13:49:58Z"
+published: "2026-08-29T00:00:00Z"
+description:
+  The new generation of data center systems is increasing efficiency with
   smarter traffic control instead of just more processor cycles.
 image: https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800
 ---

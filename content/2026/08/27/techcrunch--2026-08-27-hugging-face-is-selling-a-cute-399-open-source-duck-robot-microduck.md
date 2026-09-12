@@ -1,11 +1,12 @@
 ---
-title: Hugging Face is selling a cute $399 open source duck robot, Microduck | TechCrunch
+title: Hugging Face is selling a cute $399 open source duck robot, Microduck
 source_url: https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T22:13:11Z'
-published: '2026-08-27T00:00:00Z'
-description: Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source
+scraped_at: "2026-08-27T22:13:11Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source
   robot you can teach new tricks with reinforcement learning.”
 image: https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750
 ---

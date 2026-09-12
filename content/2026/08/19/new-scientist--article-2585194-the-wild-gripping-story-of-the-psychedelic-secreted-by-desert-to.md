@@ -1,12 +1,13 @@
 ---
-title: The wild, gripping story of the psychedelic secreted by desert toads | New
+title: The wild, gripping story of the psychedelic secreted by desert toads
   Scientist
 source_url: https://www.newscientist.com/article/2585194-the-wild-gripping-story-of-the-psychedelic-secreted-by-desert-toads/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-19T21:32:28Z'
-published: '2026-08-19T00:00:00Z'
-description: Kimon de Greef's The Ego Trip chronicles the rise of a potent psychedelic
+scraped_at: "2026-08-19T21:32:28Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  Kimon de Greef's The Ego Trip chronicles the rise of a potent psychedelic
   drug, from the toads that secrete it to the man who claimed it has amazing powers.
   Olivia Goldhill discovers an extraordinary tale
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974307.jpg
@@ -16,7 +17,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974307.jpg
 
 **The Ego TripKimon de Greef, White Rabbit (UK); Doubleday (US)**
 
-If you have heard tales of 5-MeO-DMT, the psychedelic substance secreted by desert toads, then chances are it is due to one man. *The Ego Trip* tells the story of physician Octavio Rettig Hinojosa, who popularised the use of this intense drug, claiming it could treat addiction and trauma. He portrays 5-MeO-DMT as an ancient practice of the Seri people in Sonora, Mexico, and preaches its therapeutic benefits to his many disciples, promising it can reveal new planes of enlightenment.
+If you have heard tales of 5-MeO-DMT, the psychedelic substance secreted by desert toads, then chances are it is due to one man. _The Ego Trip_ tells the story of physician Octavio Rettig Hinojosa, who popularised the use of this intense drug, claiming it could treat addiction and trauma. He portrays 5-MeO-DMT as an ancient practice of the Seri people in Sonora, Mexico, and preaches its therapeutic benefits to his many disciples, promising it can reveal new planes of enlightenment.
 
 ![The Ego Trip by Kimon de Greef](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307977366.jpg?w=840)
 
@@ -25,7 +26,6 @@ Only, as Kimon de Greef writes, Rettig Hinojosa’s narrative is full of fiction
 As de Greef writes, 5-MeO-DMT (in full, 5-methoxy-N,N-dimethyltryptamine), has been called the “Everest” of psychedelics. Whereas LSD distorts reality, creating vivid hallucinations, 5-MeO-DMT completely shatters all perception and sense of the self. The experience is brief, lasting less than half an hour, but creates a total obliteration of the ego. The psychedelic is found in Sonoran desert toads, and de Greef opens his book by describing, in graphic detail, how to extract the toxin. “One presses hard on their glands, which discharge explosively, like pimples,” he writes.
 
 LSD distorts reality, creating vivid hallucinations, while 5-MeO-DMT shatters all sense of the self
-
 
 This practice is ancient, says Rettig Hinojosa, having once been performed (but forgotten) by the Seri people. His work was initially welcomed by the group’s elders, and many of the Seri became 5-MeO-DMT practitioners. The importance of Indigenous customs are often heralded by psychedelic enthusiasts, who hark back to ancient ceremonies, but, in the case of 5-MeO-DMT, de Greef convincingly argues, there’s all too little evidence. Rettig Hinojosa latched on to the idea as an outsider, changing how the Seri are seen and their view of their history, but the relationship is shallow and the notion of ancestral toad psychedelics is a modern invention. A lot of Seri people have since distanced themselves from Rettig Hinojosa, asking him to stop using their name to champion the drug.
 
@@ -51,13 +51,13 @@ Contemporary supporters of psychedelics included the late Amanda Feilding, the a
 
 Incredibly, though, it has had impressive results in clinical trials as a medication for treatment-resistant depression. But de Greef suggests the data may not capture the full story: some participants may be more distressed after the experience than the results reflect.
 
-After reading de Greef’s book, 5-MeO-DMT seems like a questionable mental health cure –and certainly not one that should be taken with “gurus”. *The Ego Trip*, though, is compelling, guiding us through the dangerous industries and characters surrounding this supposedly ego-dissolving drug.
+After reading de Greef’s book, 5-MeO-DMT seems like a questionable mental health cure –and certainly not one that should be taken with “gurus”. _The Ego Trip_, though, is compelling, guiding us through the dangerous industries and characters surrounding this supposedly ego-dissolving drug.
 
 ## Four similar books to explore
 
 ![Dreamland Sam Quinones](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307352390.jpg?w=840)
 
-*Dreamland: The true tale of America’s opiate epidemic* 
+_Dreamland: The true tale of America’s opiate epidemic_
 
 by Sam Quinones
 
@@ -65,7 +65,7 @@ Vivid on-the-ground reporting exposes the extensive pharmaceutical supply of opi
 
 ![How to change your mind. Michael Pollan](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307352392.jpg?w=840)
 
-*How to Change Your Mind: The new science of psychedelics* 
+_How to Change Your Mind: The new science of psychedelics_
 
 by Michael Pollan
 
@@ -87,4 +87,4 @@ by Olivia Goldhill
 
 A cheeky extra – but my forthcoming book looks at psychedelic medical research, and the power of the healthcare industry to change our understanding of mental illness.
 
-*When you make a purchase via the links on this page, we receive a commission.*
+_When you make a purchase via the links on this page, we receive a commission._

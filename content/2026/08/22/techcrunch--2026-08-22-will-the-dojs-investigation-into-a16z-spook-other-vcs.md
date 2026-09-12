@@ -1,11 +1,12 @@
 ---
-title: Will the DOJ's investigation into a16z spook other VCs? | TechCrunch
+title: Will the DOJ's investigation into a16z spook other VCs?
 source_url: https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-22T20:36:14Z'
-published: '2026-08-22T00:00:00Z'
-description: On the latest episode of Equity, we wonder why the DOJ is investigating
+scraped_at: "2026-08-22T20:36:14Z"
+published: "2026-08-22T00:00:00Z"
+description:
+  On the latest episode of Equity, we wonder why the DOJ is investigating
   startup board seats.
 image: https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800
 ---

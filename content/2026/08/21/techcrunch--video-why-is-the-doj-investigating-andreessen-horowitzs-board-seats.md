@@ -1,11 +1,12 @@
 ---
-title: Why is the DOJ investigating Andreessen Horowitz’s board seats? | TechCrunch
+title: Why is the DOJ investigating Andreessen Horowitz’s board seats?
 source_url: https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-21T20:37:29Z'
-published: '2026-08-21T00:00:00Z'
-description: Watch as Equity digs into the DOJ's antitrust probe of Andreessen Horowitz,
+scraped_at: "2026-08-21T20:37:29Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  Watch as Equity digs into the DOJ's antitrust probe of Andreessen Horowitz,
   what happens to AI startups that aren't Anthropic, OpenAI, or Nvidia, and more deals
   of the week.
 image: https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200

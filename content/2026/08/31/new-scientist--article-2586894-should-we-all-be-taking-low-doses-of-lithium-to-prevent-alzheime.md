@@ -1,12 +1,13 @@
 ---
-title: Should we all be taking low doses of lithium to prevent Alzheimer’s? | New
+title: Should we all be taking low doses of lithium to prevent Alzheimer’s?
   Scientist
 source_url: https://www.newscientist.com/article/2586894-should-we-all-be-taking-low-doses-of-lithium-to-prevent-alzheimers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-31T16:08:32Z'
-published: '2026-08-31T00:00:00Z'
-description: Animal studies have shown that lithium orotate could help stave off dementia,
+scraped_at: "2026-08-31T16:08:32Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  Animal studies have shown that lithium orotate could help stave off dementia,
   and a human trial is about to start to see if the effects hold. Columnist Alice
   Klein takes a look at the benefits and downsides of lithium
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676623.jpg
@@ -24,7 +25,7 @@ Advertisement
 
 These findings don’t prove a causal link between lithium deficiency and dementia; however, they are certainly intriguing, and they have inspired many people to rush out and buy lithium supplements. Is it too early to jump on this bandwagon? And are there any risks of boosting your lithium levels with supplements?
 
-Lithium is the lightest metal element on Earth and is named after the Greek word *lithos* for “stone” because it naturally occurs in rocks. It is best known for its use in rechargeable batteries, but also has a long history of use in psychiatry, particularly in the treatment of bipolar disorder. Interestingly, the soft drink 7UP started out in the 1920s as a lithium-containing lemon-lime-flavoured beverage marketed for curing hangovers and boosting energy. No one knows why “7” was included in the name, but one theory is that it referred to the approximate atomic mass of lithium.
+Lithium is the lightest metal element on Earth and is named after the Greek word _lithos_ for “stone” because it naturally occurs in rocks. It is best known for its use in rechargeable batteries, but also has a long history of use in psychiatry, particularly in the treatment of bipolar disorder. Interestingly, the soft drink 7UP started out in the 1920s as a lithium-containing lemon-lime-flavoured beverage marketed for curing hangovers and boosting energy. No one knows why “7” was included in the name, but one theory is that it referred to the approximate atomic mass of lithium.
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685258.jpg?w=840)
 
@@ -44,6 +45,6 @@ Beyond its potential role in preserving cognition, lithium may also reduce the r
 
 Personally, I think I’ll wait for the results of the clinical trial of lithium orotate to come out before I consider taking supplements. But if I ever find myself in Texas, I will definitely stop in at Mineral Wells for a big glass of Crazy Water.
 
-*Need a listening ear? UK Samaritans: 116123; US 988 Suicide & Crisis Lifeline: 988; hotlines in other countries.*
+_Need a listening ear? UK Samaritans: 116123; US 988 Suicide & Crisis Lifeline: 988; hotlines in other countries._
 
-*Don’t make changes to your diet, exercise or medication regimes without first speaking to a doctor*
+_Don’t make changes to your diet, exercise or medication regimes without first speaking to a doctor_

@@ -1,11 +1,12 @@
 ---
-title: Cognition CEO denies report that SpaceX tried to acquire the startup | TechCrunch
+title: Cognition CEO denies report that SpaceX tried to acquire the startup
 source_url: https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-20T01:48:29Z'
-published: '2026-08-19T00:00:00Z'
-description: SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX
+scraped_at: "2026-08-20T01:48:29Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX
   has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic
   in enterprise AI.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024

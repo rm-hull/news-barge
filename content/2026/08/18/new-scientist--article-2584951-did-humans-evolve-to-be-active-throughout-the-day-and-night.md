@@ -1,11 +1,12 @@
 ---
-title: Did humans evolve to be active throughout the day and night? | New Scientist
+title: Did humans evolve to be active throughout the day and night?
 source_url: https://www.newscientist.com/article/2584951-did-humans-evolve-to-be-active-throughout-the-day-and-night/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-18T13:04:09Z'
-published: '2026-08-18T00:00:00Z'
-description: Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral,
+scraped_at: "2026-08-18T13:04:09Z"
+published: "2026-08-18T00:00:00Z"
+description:
+  Evidence from hunter-gatherers suggests humans aren't diurnal but cathemeral,
   with bouts of activity at nighttime – a sleep pattern similar to some lemurs
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg
 ---
@@ -14,7 +15,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308290189.jpg
 
 Humans are generally considered diurnal, or mainly active during the day, but this may not be strictly accurate. Data from hunter-gatherers suggests they are fairly active at night, and don’t simply rest and sleep after the sun goes down.
 
-This finding means that the human sleep pattern is closer to that of some lemur species, says David Samson at the University of Toronto in Canada, author of *The Sleepless Ape*. Instead of being primarily active in the day and restful at night, humans may be “cathemeral”, meaning they spread their activities throughout each 24-hour period. “The key point is that day and night activity are both regular parts of the behavioural repertoire,” says Samson.
+This finding means that the human sleep pattern is closer to that of some lemur species, says David Samson at the University of Toronto in Canada, author of _The Sleepless Ape_. Instead of being primarily active in the day and restful at night, humans may be “cathemeral”, meaning they spread their activities throughout each 24-hour period. “The key point is that day and night activity are both regular parts of the behavioural repertoire,” says Samson.
 
 Cathemerality was first described by primatologist Ian Tattersall, who studied the lemurs of Madagascar. Some lemur species are not primarily active in the day (diurnal) or during the night (nocturnal), but instead are active for a few hours at a time during both periods. Tattersall coined the word “cathemeral” in 1987.
 
@@ -30,7 +31,7 @@ Samson argues that humans have evolved to defy our internal circadian rhythms. W
 
 “Humans show very flexible patterns in when we sleep and when we’re active,” says Kathleen Reinhardt at the University of Calgary in Canada, but she thinks we are still primarily diurnal.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307353181.jpg?crop=2px,0px,1348px,900px&resize=900,600) 
+![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307353181.jpg?crop=2px,0px,1348px,900px&resize=900,600)
 
 Since the 2000s, our light exposure has changed drastically as we make our buildings more energy-efficient. Now, we’re discovering how this may mess with our mitochondria, contributing to diabetes, dementia and more
 

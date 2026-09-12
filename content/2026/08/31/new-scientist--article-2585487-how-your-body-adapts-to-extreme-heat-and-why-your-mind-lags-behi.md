@@ -1,12 +1,13 @@
 ---
-title: How our bodies adapt to extreme temperatures – until it gets too hot | New
+title: How our bodies adapt to extreme temperatures – until it gets too hot
   Scientist
 source_url: https://www.newscientist.com/article/2585487-how-your-body-adapts-to-extreme-heat-and-why-your-mind-lags-behind/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-31T16:08:07Z'
-published: '2026-08-31T00:00:00Z'
-description: No matter where you’re from, there are things you can do to cope better
+scraped_at: "2026-08-31T16:08:07Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  No matter where you’re from, there are things you can do to cope better
   with extreme temperatures. But it takes work to stop our bodies’ adaptations from
   slipping backwards over winter, and there are limits to how far we can go
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309026179.jpg
@@ -58,7 +59,7 @@ In these psychological and behavioural senses, therefore, early-life exposure to
 
 ![Drought 1976 - Residents Collect Water From A Standpipe In Northam Devon.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308823477.jpg?w=840)
 
-The urgency of the climate crisis could also be affecting our psychological responses to peaks in temperature. Notably, one of the previous hottest years in the UK’s history – 1976 – is often remembered as its happiest ever, despite the temperature reaching 35.9°C (96.6°F) and surpassing 32°C (90°F) for 15 consecutive days (although it was less humid than this summer’s heatwave). “There was that long, hot summer… Everyone in the country was happier and more relaxed,” recalled writer Will Self when describing 1976 to the *Guardian* newspaper. Photos of the time show children gleefully splashing in paddling pools and shirtless adults sunning themselves in parks. But now that climate change is front of mind, our perception of heatwaves has changed, and we tend to find them worrying and ominous rather than enjoyable.
+The urgency of the climate crisis could also be affecting our psychological responses to peaks in temperature. Notably, one of the previous hottest years in the UK’s history – 1976 – is often remembered as its happiest ever, despite the temperature reaching 35.9°C (96.6°F) and surpassing 32°C (90°F) for 15 consecutive days (although it was less humid than this summer’s heatwave). “There was that long, hot summer… Everyone in the country was happier and more relaxed,” recalled writer Will Self when describing 1976 to the _Guardian_ newspaper. Photos of the time show children gleefully splashing in paddling pools and shirtless adults sunning themselves in parks. But now that climate change is front of mind, our perception of heatwaves has changed, and we tend to find them worrying and ominous rather than enjoyable.
 
 ## How to get better at being hot
 
@@ -86,10 +87,10 @@ According to modelling led by Jennifer Vanos, an environmental health researcher
 
 Older people are more vulnerable to heat because, as we age, our hearts become less efficient at pumping blood to our skin and we sweat less. Vanos and her team estimate that regardless of humidity, a person over the age of 65 couldn’t withstand anything above 46°C (115°F) for more than 5 hours. Older people can also succumb to temperatures in the 30s if they are repeated over many days, because of the prolonged pressure on their hearts, which is why thousands are estimated to have died in the European heatwave in June.
 
-If current rates of global warming continue, some places on Earth will go above the survivable limits of heat and humidity modelled by Vanos and her colleagues, says David Romps, who studies the climate at the University of California, Berkeley. “*Homo sapiens* has been around for 300,000 years and over that time, the Earth has been 100 per cent habitable, meaning I could put you anywhere on the planet, in any one of those 300,000 years, at any time of day, and you would be fine with the heat, humidity or cold, so long as I gave you adequate shade, water or clothing. You wouldn’t necessarily be happy, but you would survive,” he says. But if things continue as they are, he says, “parts of the Earth will become uninhabitable for the first time in human history”.
+If current rates of global warming continue, some places on Earth will go above the survivable limits of heat and humidity modelled by Vanos and her colleagues, says David Romps, who studies the climate at the University of California, Berkeley. “_Homo sapiens_ has been around for 300,000 years and over that time, the Earth has been 100 per cent habitable, meaning I could put you anywhere on the planet, in any one of those 300,000 years, at any time of day, and you would be fine with the heat, humidity or cold, so long as I gave you adequate shade, water or clothing. You wouldn’t necessarily be happy, but you would survive,” he says. But if things continue as they are, he says, “parts of the Earth will become uninhabitable for the first time in human history”.
 
 These no-go regions could include parts of India, China, Australia, Africa, South America, the Middle East and the US Midwest, says Romps. In these places, people might be able to live inside artificially cooled buildings, but going outside for extended periods would be fatal.
 
 On our current climate change trajectory, the first place on Earth to become unsurvivable will likely be the Persian Gulf, says Romps. Modelling has found that Kuwait City could experience temperatures above 60°C (140°F) by around 2070. The outlook for Australia is also alarming, with some studies forecasting that Sydney and Melbourne will experience 50°C days by 2060 if there is 2°C of global warming above pre-industrial levels. With 2.5°C of warming, even the UK could experience 45°C days by 2056.
 
-I might be able to bear 40°C days, but 50°C or 60°C sounds unimaginable. We all have the ability to adapt to a bit more heat than we are used to now, but ultimately there is a limit to what we can stand. As Romps says, “the human body has adapted to deal with the worst conditions the planet has historically doled out to us, but we’re not *that* far away from conditions in which the human body runs out of tricks.” At that point, no amount of exercise or sauna bathing will be able to prepare us.
+I might be able to bear 40°C days, but 50°C or 60°C sounds unimaginable. We all have the ability to adapt to a bit more heat than we are used to now, but ultimately there is a limit to what we can stand. As Romps says, “the human body has adapted to deal with the worst conditions the planet has historically doled out to us, but we’re not _that_ far away from conditions in which the human body runs out of tricks.” At that point, no amount of exercise or sauna bathing will be able to prepare us.

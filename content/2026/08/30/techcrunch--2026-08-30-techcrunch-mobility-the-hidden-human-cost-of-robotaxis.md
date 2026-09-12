@@ -1,5 +1,5 @@
 ---
-title: 'TechCrunch Mobility: The hidden human cost of robotaxis | TechCrunch'
+title: 'TechCrunch Mobility: The hidden human cost of robotaxis
 source_url: https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/
 source_site: TechCrunch
 source_slug: techcrunch
@@ -10,7 +10,7 @@ description: Welcome back to TechCrunch Mobility, your hub for the future of tra
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633
 ---
 
-*Welcome back to**TechCrunch Mobility**, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!*
+_Welcome back to**TechCrunch Mobility**, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!_
 
 Proponents of autonomous vehicle technology have long argued that robotaxis and other self-driving vehicles will reduce crash incidents and make roads safer. And there is some evidence of that. But that doesn’t mean there hasn’t been a cost to those who are working (or have worked) for the companies developing that tech.
 

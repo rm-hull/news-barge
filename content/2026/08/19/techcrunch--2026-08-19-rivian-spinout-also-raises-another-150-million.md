@@ -1,11 +1,12 @@
 ---
-title: Rivian spinout Also raises another $150M | TechCrunch
+title: Rivian spinout Also raises another $150M
 source_url: https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:54Z'
-published: '2026-08-19T00:00:00Z'
-description: The round, led by Prysm Capital, will fund the company's expansion beyond
+scraped_at: "2026-08-19T21:32:54Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  The round, led by Prysm Capital, will fund the company's expansion beyond
   pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.
 image: https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900
 ---

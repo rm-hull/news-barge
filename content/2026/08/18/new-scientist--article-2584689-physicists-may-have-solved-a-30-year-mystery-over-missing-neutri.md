@@ -1,11 +1,12 @@
 ---
-title: Physicists may have solved a 30-year mystery over missing neutrinos | New Scientist
+title: Physicists may have solved a 30-year mystery over missing neutrinos
 source_url: https://www.newscientist.com/article/2584689-physicists-may-have-solved-a-30-year-mystery-over-missing-neutrinos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-18T08:50:06Z'
-published: '2026-08-18T00:00:00Z'
-description: Since the 1990s, researchers have wondered if unexpected results from
+scraped_at: "2026-08-18T08:50:06Z"
+published: "2026-08-18T00:00:00Z"
+description:
+  Since the 1990s, researchers have wondered if unexpected results from
   gallium-based neutrino detectors are a sign of a new kind of particle, but a new
   study suggests that revising their calculations could explain the anomaly
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308318508.jpg

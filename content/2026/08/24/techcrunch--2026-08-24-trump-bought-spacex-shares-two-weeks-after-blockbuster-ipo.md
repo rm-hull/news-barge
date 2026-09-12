@@ -1,11 +1,12 @@
 ---
-title: Trump bought SpaceX shares two weeks after blockbuster IPO | TechCrunch
+title: Trump bought SpaceX shares two weeks after blockbuster IPO
 source_url: https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T01:48:15Z'
-published: '2026-08-24T00:00:00Z'
-description: The president bought when the stock was in the mid-$150 range. SpaceX
+scraped_at: "2026-08-25T01:48:15Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  The president bought when the stock was in the mid-$150 range. SpaceX
   finished trading on Monday back at its IPO price of $135.
 image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800
 ---

@@ -1,12 +1,13 @@
 ---
-title: Super El Niño could lead to mega CO2 emissions from Indonesian fires | New
+title: Super El Niño could lead to mega CO2 emissions from Indonesian fires
   Scientist
 source_url: https://www.newscientist.com/article/2585948-super-el-nino-could-lead-to-mega-co2-emissions-from-indonesian-fires/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-21T13:05:50Z'
-published: '2026-08-21T00:00:00Z'
-description: Intense fires are already burning in Indonesia, and there could be much
+scraped_at: "2026-08-21T13:05:50Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  Intense fires are already burning in Indonesia, and there could be much
   worse to come as the Super El Niño ramps up
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg
 ---
@@ -39,7 +40,7 @@ Ground-based sensors in the region are measuring levels of smoke that have previ
 
 In much of the region thick layers of peat have built up beneath rainforests over millennia, storing vast amounts of carbon. The clearing of forests leads to peat drying out, making it more likely to catch fire during hot, dry conditions. Peat fires are very difficult to put out as they can burn underground.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/06/18155536/SEI_301916749.jpg?w=900&h=600&crop=1) 
+![](https://www.newscientist.com/wp-content/uploads/2026/06/18155536/SEI_301916749.jpg?w=900&h=600&crop=1)
 
 A planet-warming El Niño climate phase has begun, but while the phenomenon can influence Europe’s weather through long-distance atmospheric teleconnections, the effects are often uncertain
 

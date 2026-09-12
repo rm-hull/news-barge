@@ -1,12 +1,13 @@
 ---
-title: Does shapewear make us less prone to taking risks? Weirdly, maybe yes | New
+title: Does shapewear make us less prone to taking risks? Weirdly, maybe yes
   Scientist
 source_url: https://www.newscientist.com/article/2583967-does-shapewear-make-us-less-prone-to-taking-risks-weirdly-maybe-yes/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-12T17:08:19Z'
-published: '2026-08-12T00:00:00Z'
-description: Feedback is a little nonplussed by an experiment that involved wearing
+scraped_at: "2026-08-12T17:08:19Z"
+published: "2026-08-12T00:00:00Z"
+description:
+  Feedback is a little nonplussed by an experiment that involved wearing
   (or not wearing) compressing shapewear, and then playing cards
 image: https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png
 ---
@@ -23,7 +24,7 @@ Surely it would be better if people just didn’t do these dangerous things. The
 
 Advertisement
 
-Or perhaps we could all just put on some shapewear. This is the startling conclusion of a little study in *Biological Psychiatry*, highlighted to us by news editor Alexandra Thompson while, presumably, giggling like a hyena. The study indicates that wearing shapewear can make us less likely to take risks.
+Or perhaps we could all just put on some shapewear. This is the startling conclusion of a little study in _Biological Psychiatry_, highlighted to us by news editor Alexandra Thompson while, presumably, giggling like a hyena. The study indicates that wearing shapewear can make us less likely to take risks.
 
 Feedback isn’t normally one for doing anything so responsible as actually reporting the details of an experiment, but in this case we feel readers will demand it. The authors recruited 44 volunteers, who visited the lab on two consecutive days. On one day, each person was asked to wear compressing shapewear; on the other, they were given a loose garment. They were given tests of their interoception: their ability to perceive the internal state of their body, specifically their heartbeat and their gastrointestinal system.
 
@@ -59,4 +60,4 @@ The Stroke Association subsequently posted: “Just to reiterate: we talk about 
 
 **Got a story for Feedback?**
 
-*You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website.*
+_You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website._

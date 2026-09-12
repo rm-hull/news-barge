@@ -1,11 +1,12 @@
 ---
-title: Meet the startup helping Wall Street put a price on AI compute | TechCrunch
+title: Meet the startup helping Wall Street put a price on AI compute
 source_url: https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:37Z'
-published: '2026-08-19T00:00:00Z'
-description: Watch as Silicon Data's Steve Hou joins the Equity podcast to break down
+scraped_at: "2026-08-19T21:32:37Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  Watch as Silicon Data's Steve Hou joins the Equity podcast to break down
   the index tracking what it costs to rent a GPU.
 image: https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800
 ---

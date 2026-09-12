@@ -1,11 +1,12 @@
 ---
-title: Google’s new Fitbit Air brings Pokémon Sleep to your wrist | TechCrunch
+title: Google’s new Fitbit Air brings Pokémon Sleep to your wrist
 source_url: https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T22:14:26Z'
-published: '2026-08-27T00:00:00Z'
-description: Google teamed up with the Pokémon Company to introduce a special-edition
+scraped_at: "2026-08-27T22:14:26Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Google teamed up with the Pokémon Company to introduce a special-edition
   Fitbit Air that works with the Pokémon Sleep app.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Pokemon_Fitbit_Air.png?w=1200
 ---

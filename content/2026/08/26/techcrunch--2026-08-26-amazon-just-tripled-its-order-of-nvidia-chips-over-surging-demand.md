@@ -1,11 +1,12 @@
 ---
-title: Amazon just tripled its order of Nvidia chips over 'surging demand' | TechCrunch
+title: Amazon just tripled its order of Nvidia chips over 'surging demand'
 source_url: https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-27T12:01:12Z'
-published: '2026-08-26T00:00:00Z'
-description: Amazon is adding another 2 million Nvidia GPU chips to its data centers
+scraped_at: "2026-08-27T12:01:12Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Amazon is adding another 2 million Nvidia GPU chips to its data centers
   over the next two years. But this extended partnerships stretches beyond buying
   more chips.
 image: https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800

@@ -1,10 +1,10 @@
 ---
-title: Open-weight AI companies are the Valley's hottest acquisition targets | TechCrunch
+title: Open-weight AI companies are the Valley's hottest acquisition targets
 source_url: https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-28T22:14:00Z'
-published: '2026-08-28T00:00:00Z'
+scraped_at: "2026-08-28T22:14:00Z"
+published: "2026-08-28T00:00:00Z"
 description: There's a lot of capital pouring into the business of giving models away.
 image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024
 ---

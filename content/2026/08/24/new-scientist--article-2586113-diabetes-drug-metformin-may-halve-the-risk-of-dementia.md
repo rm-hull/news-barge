@@ -1,11 +1,12 @@
 ---
-title: Diabetes drug metformin may halve the risk of dementia | New Scientist
+title: Diabetes drug metformin may halve the risk of dementia
 source_url: https://www.newscientist.com/article/2586113-diabetes-drug-metformin-may-halve-the-risk-of-dementia/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-24T16:50:58Z'
-published: '2026-08-24T00:00:00Z'
-description: Taking metformin, a type 2 diabetes drug, has been linked to a lower
+scraped_at: "2026-08-24T16:50:58Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  Taking metformin, a type 2 diabetes drug, has been linked to a lower
   risk of dementia over the following decades, but the association isn't conclusive
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg
 ---
@@ -36,7 +37,7 @@ A 2023 study of more than 210,000 people with type 2 diabetes also suggests that
 
 It is unclear how metformin may reduce dementia risk because it affects many organs and systems in the body, including hormone-producing glands and the immune system. “Does metformin decrease vascular disease in the brain, for example, or does it decrease inflammation in the brain?” says Luchsinger. “Does metformin decrease the risk of amyloid [the protein implicated in Alzheimer’s disease] in the brain?”
 
-![](https://www.newscientist.com/wp-content/uploads/2026/04/24125411/SEI_2944460911.jpg?w=900&h=600&crop=1) 
+![](https://www.newscientist.com/wp-content/uploads/2026/04/24125411/SEI_2944460911.jpg?w=900&h=600&crop=1)
 
 People with cognitive decline or early-stage dementia saw their symptoms improve when given bespoke treatment plans that targeted their personal nutritional deficiencies, ongoing infections and environmental exposures
 

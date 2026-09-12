@@ -1,12 +1,13 @@
 ---
-title: Breast-augmentation method uses your own fat in dissolving scaffolds | New
+title: Breast-augmentation method uses your own fat in dissolving scaffolds
   Scientist
 source_url: https://www.newscientist.com/article/2584253-breast-augmentation-method-uses-your-own-fat-in-dissolving-scaffolds/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-12T13:38:25Z'
-published: '2026-08-12T00:00:00Z'
-description: A new approach to breast augmentation injects fat from elsewhere in the
+scraped_at: "2026-08-12T13:38:25Z"
+published: "2026-08-12T00:00:00Z"
+description:
+  A new approach to breast augmentation injects fat from elsewhere in the
   body into dissolvable scaffolds shaped like bra cups, which may lead to a more natural
   look and fewer complications
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308055333.jpg

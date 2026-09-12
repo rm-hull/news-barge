@@ -1,11 +1,12 @@
 ---
-title: Microsoft tests fix for latest hours-long Outlook outage | TechCrunch
+title: Microsoft tests fix for latest hours-long Outlook outage
 source_url: https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-31T21:27:45Z'
-published: '2026-08-31T00:00:00Z'
-description: Microsoft says it's testing a fix for the widespread Outlook issues that
+scraped_at: "2026-08-31T21:27:45Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  Microsoft says it's testing a fix for the widespread Outlook issues that
   have led to email delays and failures.
 image: https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800
 ---
@@ -26,4 +27,4 @@ Those impacted by the outage may see delays and failures in sending or receiving
 
 As of 5 PM ET on Monday, Microsoft was still trying to resolve the problem.
 
-*This article was updated after publication as Microsoft posted more information about the status of the outage.*
+_This article was updated after publication as Microsoft posted more information about the status of the outage._

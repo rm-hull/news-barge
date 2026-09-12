@@ -1,11 +1,12 @@
 ---
-title: The Theragun Sense makes everyday recovery surprisingly easy | TechCrunch
+title: The Theragun Sense makes everyday recovery surprisingly easy
 source_url: https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-29T19:23:59Z'
-published: '2026-08-29T00:00:00Z'
-description: As my 20s are set to come to an end later this year, I’ve officially
+scraped_at: "2026-08-29T19:23:59Z"
+published: "2026-08-29T00:00:00Z"
+description:
+  As my 20s are set to come to an end later this year, I’ve officially
   reached the age where sleeping in the wrong position or stretching just a little
   too
 image: https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788

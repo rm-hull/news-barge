@@ -1,11 +1,12 @@
 ---
-title: Is it legal to train AI models on copyrighted books? It’s complicated | TechCrunch
+title: Is it legal to train AI models on copyrighted books? It’s complicated
 source_url: https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-23T20:35:06Z'
-published: '2026-08-23T00:00:00Z'
-description: Most published authors have, without their knowledge or consent, contributed
+scraped_at: "2026-08-23T20:35:06Z"
+published: "2026-08-23T00:00:00Z"
+description:
+  Most published authors have, without their knowledge or consent, contributed
   to the development of the same AI tools that threaten to undermine their livelihoods.
   That seems illegal, right?
 image: https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749

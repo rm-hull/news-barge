@@ -1,10 +1,10 @@
 ---
-title: Is the best way to watch a movie on a pair of sunglasses? | TechCrunch
+title: Is the best way to watch a movie on a pair of sunglasses?
 source_url: https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-29T06:59:30Z'
-published: '2026-08-28T00:00:00Z'
+scraped_at: "2026-08-29T06:59:30Z"
+published: "2026-08-28T00:00:00Z"
 description: Are XREAL's smart glasses the way of the future for home entertainment?
 image: https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901
 ---

@@ -1,11 +1,12 @@
 ---
-title: Quantum entanglement is key to solving 250-year-old maths problem | New Scientist
+title: Quantum entanglement is key to solving 250-year-old maths problem
 source_url: https://www.newscientist.com/article/2584226-quantum-entanglement-is-key-to-solving-300-year-old-maths-problem/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-13T17:08:43Z'
-published: '2026-08-13T00:00:00Z'
-description: Analysis of a mathematical puzzle that Leonhard Euler deemed unsolvable
+scraped_at: "2026-08-13T17:08:43Z"
+published: "2026-08-13T00:00:00Z"
+description:
+  Analysis of a mathematical puzzle that Leonhard Euler deemed unsolvable
   in the 1700s reveals that the crucial ingredient for cracking it after all is quantum
   entanglement
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308082391.jpg
@@ -35,7 +36,7 @@ He and Ball translated the problem of filling up the 6-by-6 grid into a specific
 
 “This shows that our solution is, in a sense, as simple as possible, since the effect of quantum entanglement is indispensable,” says Życzkowski.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/06/15110211/SEI_301507625.jpg?w=900&h=600&crop=1) 
+![](https://www.newscientist.com/wp-content/uploads/2026/06/15110211/SEI_301507625.jpg?w=900&h=600&crop=1)
 
 Quantum computing firm QuEra says it plans to make a fault-tolerant quantum computer and offer it to users through the cloud in 2028, which will require a real leap in engineering
 

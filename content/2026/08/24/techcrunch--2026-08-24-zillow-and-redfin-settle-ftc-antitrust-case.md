@@ -1,11 +1,12 @@
 ---
-title: Zillow and Redfin settle FTC antitrust case | TechCrunch
+title: Zillow and Redfin settle FTC antitrust case
 source_url: https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T01:48:56Z'
-published: '2026-08-24T00:00:00Z'
-description: Zillow and Redfin reached a settlement with the FTC, which requires Redfin
+scraped_at: "2026-08-25T01:48:56Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  Zillow and Redfin reached a settlement with the FTC, which requires Redfin
   to reenter the rental advertising business.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Zillow-website-1.jpg?w=1200
 ---

@@ -1,11 +1,12 @@
 ---
-title: Fishers detonate a bomb every hour on one Indonesian coral reef | New Scientist
+title: Fishers detonate a bomb every hour on one Indonesian coral reef
 source_url: https://www.newscientist.com/article/2584701-fishers-detonate-a-bomb-every-hour-on-one-indonesian-coral-reef/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-14T13:34:25Z'
-published: '2026-08-14T00:00:00Z'
-description: The use of explosives to kill fish is widespread across the tropics,
+scraped_at: "2026-08-14T13:34:25Z"
+published: "2026-08-14T00:00:00Z"
+description:
+  The use of explosives to kill fish is widespread across the tropics,
   and acoustic monitoring in an Indonesian archipelago detected more than 3500 explosions
   in 483 days
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308280914.jpg

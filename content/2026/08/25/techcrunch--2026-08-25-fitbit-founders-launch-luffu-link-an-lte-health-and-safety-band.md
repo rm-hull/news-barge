@@ -1,11 +1,12 @@
 ---
-title: Fitbit founders launch Luffu Link, an LTE health and safety band | TechCrunch
+title: Fitbit founders launch Luffu Link, an LTE health and safety band
 source_url: https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T13:08:32Z'
-published: '2026-08-25T00:00:00Z'
-description: Luffu Link combines all day health sensing, voice logging, location awareness,
+scraped_at: "2026-08-25T13:08:32Z"
+published: "2026-08-25T00:00:00Z"
+description:
+  Luffu Link combines all day health sensing, voice logging, location awareness,
   and the ability to get help from trusted contacts into a single device, all without
   needing a phone nearby.
 image: https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754

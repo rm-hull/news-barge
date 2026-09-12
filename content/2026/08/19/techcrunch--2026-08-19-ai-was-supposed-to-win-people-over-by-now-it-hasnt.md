@@ -1,11 +1,12 @@
 ---
-title: AI was supposed to win people over by now -- it hasn't | TechCrunch
+title: AI was supposed to win people over by now -- it hasn't
 source_url: https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:18Z'
-published: '2026-08-19T00:00:00Z'
-description: As AI becomes harder to avoid, consumers are growing more wary of the
+scraped_at: "2026-08-19T21:32:18Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  As AI becomes harder to avoid, consumers are growing more wary of the
   technology — and Silicon Valley is discovering that widespread adoption doesn’t
   necessarily lead to acceptance.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024

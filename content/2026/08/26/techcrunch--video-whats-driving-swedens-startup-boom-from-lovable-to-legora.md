@@ -1,11 +1,12 @@
 ---
-title: What’s driving Sweden’s startup boom, from Lovable to Legora | TechCrunch
+title: What’s driving Sweden’s startup boom, from Lovable to Legora
 source_url: https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T16:56:58Z'
-published: '2026-08-26T00:00:00Z'
-description: Watch as Cherry Ventures partner Sophia Bendz joins Equity to dig into
+scraped_at: "2026-08-26T16:56:58Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Watch as Cherry Ventures partner Sophia Bendz joins Equity to dig into
   Sweden’s startup boom, from Lovable and Legora to founder networks, U.S. capital,
   and the forces shaping the Nordic tech ecosystem.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800

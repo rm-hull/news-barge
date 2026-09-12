@@ -1,11 +1,12 @@
 ---
-title: Robotics startup Generalist reaches $3B valuation, sources say | TechCrunch
+title: Robotics startup Generalist reaches $3B valuation, sources say
 source_url: https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T01:54:44Z'
-published: '2026-08-25T00:00:00Z'
-description: The $200 million extension comes just months after the physical AI startup
+scraped_at: "2026-08-26T01:54:44Z"
+published: "2026-08-25T00:00:00Z"
+description:
+  The $200 million extension comes just months after the physical AI startup
   reached a $2 billion valuation.
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849
 ---

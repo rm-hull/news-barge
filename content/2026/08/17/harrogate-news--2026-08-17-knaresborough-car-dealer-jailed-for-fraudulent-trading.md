@@ -1,11 +1,12 @@
 ---
-title: Knaresborough car dealer jailed for fraudulent trading | Harrogate Informer
+title: Knaresborough car dealer jailed for fraudulent trading
 source_url: https://www.harrogate-news.co.uk/2026/08/17/knaresborough-car-dealer-jailed-for-fraudulent-trading/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: '2026-08-18T01:50:09Z'
-published: '2026-08-17T00:00:00Z'
-description: Andrew Mearns (57, of Colwyn Place, Llandudno in Wales), is a director
+scraped_at: "2026-08-18T01:50:09Z"
+published: "2026-08-17T00:00:00Z"
+description:
+  Andrew Mearns (57, of Colwyn Place, Llandudno in Wales), is a director
   of a high-value sports car dealership in Knaresborough, and has been jailed for
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/mearns.webp
 ---
@@ -26,7 +27,6 @@ The offences connected to Mearns centred around 14 separate reports submitted be
 - **The Crime:** Mearns took Porsches from clients to sell on a commission basis. Instead of paying the clients after the sales, he secretly kept the money to prop up his failing business.
 - **The Investigation:** Victims realized what happened and reported him to the police between 2017 and 2019. This triggered a major, complex fraud investigation by North Yorkshire Police that lasted for several years.
 - **The Conviction:** On 14 August 2026, Andrew Mearns (now living in Llandudno, Wales) pleaded guilty to 14 counts of fraud totaling over £1 million at Sheffield Crown Court. He was sentenced to two and a half years in prison.
-
 
 **Police Staff Investigator Corrina Graham-Merrett from North Yorkshire Police said:**
 

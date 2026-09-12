@@ -1,11 +1,12 @@
 ---
-title: Michael Polansky is training an AI model on skin that’s still alive | TechCrunch
+title: Michael Polansky is training an AI model on skin that’s still alive
 source_url: https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-22T01:47:05Z'
-published: '2026-08-21T00:00:00Z'
-description: Michael Polansky — better known publicly as Lady Gaga's partner and a
+scraped_at: "2026-08-22T01:47:05Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  Michael Polansky — better known publicly as Lady Gaga's partner and a
   former top deputy to Sean Parker — has quietly spent years building an AI-driven
   startup that keeps living human skin tissue alive for weeks outside the body to
   discover new skincare compounds, and is only now going public about it.

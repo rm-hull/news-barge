@@ -1,11 +1,12 @@
 ---
-title: Glaciers in the Alps are on track for record-breaking ice loss | New Scientist
+title: Glaciers in the Alps are on track for record-breaking ice loss
 source_url: https://www.newscientist.com/article/2586209-glaciers-in-the-alps-are-on-track-for-record-breaking-ice-loss/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-27T12:00:35Z'
-published: '2026-08-27T00:00:00Z'
-description: Glacier loss could break the 2022 record after a series of heatwaves
+scraped_at: "2026-08-27T12:00:35Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Glacier loss could break the 2022 record after a series of heatwaves
   this summer, raising the risk of falling river levels and deadly ice avalanches
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309541914.jpg
 ---
@@ -36,7 +37,7 @@ The Rhône glacier has lost 30 million tonnes of ice this year, enough melt to f
 
 “More ice is melting quickly because more water is flowing down there,” she says. “More holes will open on that side of the glacier.”
 
-The Rhône glacier features in the 1964 James Bond film *Goldfinger* as a steep cascade of gnarled white ice next to the Belvédère Hotel. Today, it has retreated almost 2 kilometres back into the valley and the hotel has been abandoned.
+The Rhône glacier features in the 1964 James Bond film _Goldfinger_ as a steep cascade of gnarled white ice next to the Belvédère Hotel. Today, it has retreated almost 2 kilometres back into the valley and the hotel has been abandoned.
 
 A glacier’s lifeblood is snowfall. In summer, the snow starts melting at lower elevations, exposing the ice underneath to warm air and sunlight. If the melt has only reached midway up the glacier by the next winter, new ice can form above it when fresh snowfall compacts the older snow. The flow of new ice from the top compensates for ice melt below.
 

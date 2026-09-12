@@ -1,11 +1,12 @@
 ---
-title: India's Airbound bags $37M to take on trucks with rocket-like drones | TechCrunch
+title: India's Airbound bags $37M to take on trucks with rocket-like drones
 source_url: https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T04:50:12Z'
-published: '2026-08-24T00:00:00Z'
-description: Airbound's ultra-lightweight approach to drone delivery has attracted
+scraped_at: "2026-08-25T04:50:12Z"
+published: "2026-08-24T00:00:00Z"
+description:
+  Airbound's ultra-lightweight approach to drone delivery has attracted
   backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.
 image: https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800
 ---

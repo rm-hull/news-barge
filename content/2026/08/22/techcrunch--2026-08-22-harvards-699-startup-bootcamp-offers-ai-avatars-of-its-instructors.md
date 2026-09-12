@@ -1,11 +1,12 @@
 ---
-title: Harvard’s $699 startup bootcamp offers AI avatars of its instructors | TechCrunch
+title: Harvard’s $699 startup bootcamp offers AI avatars of its instructors
 source_url: https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-23T01:56:35Z'
-published: '2026-08-22T00:00:00Z'
-description: In the HBS Foundry program, AI avatars provide feedback during practice
+scraped_at: "2026-08-23T01:56:35Z"
+published: "2026-08-22T00:00:00Z"
+description:
+  In the HBS Foundry program, AI avatars provide feedback during practice
   pitches and board meetings.
 image: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800
 ---

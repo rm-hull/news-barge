@@ -1,11 +1,12 @@
 ---
-title: SpaceX will build a second, $100B 'Starbase' spaceport in Louisiana | TechCrunch
+title: SpaceX will build a second, $100B 'Starbase' spaceport in Louisiana
 source_url: https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T20:40:54Z'
-published: '2026-08-25T00:00:00Z'
-description: The company says it will start construction in 2027 and that a Starship
+scraped_at: "2026-08-25T20:40:54Z"
+published: "2026-08-25T00:00:00Z"
+description:
+  The company says it will start construction in 2027 and that a Starship
   rocket could take flight as soon as 2029.
 image: https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899
 ---

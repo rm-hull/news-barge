@@ -1,11 +1,12 @@
 ---
-title: Running with a stroller seems to reduce the risk of injuries | New Scientist
+title: Running with a stroller seems to reduce the risk of injuries
 source_url: https://www.newscientist.com/article/2584315-running-with-a-pram-seems-to-reduce-the-risk-of-injuries/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-12T20:58:45Z'
-published: '2026-08-12T00:00:00Z'
-description: Pushing a pram while running may reduce the force produced with each
+scraped_at: "2026-08-12T20:58:45Z"
+published: "2026-08-12T00:00:00Z"
+description:
+  Pushing a pram while running may reduce the force produced with each
   foot strike, decreasing the risk of injuries
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308064434.jpg
 ---
@@ -26,7 +27,7 @@ The two groups of parents covered similar total distances and were relatively we
 
 Overall, 30 per cent of the non-pram runners reported having had running-related injuries, compared with 19 per cent of the pram runners. These included a higher incidence of ankle pain, calf muscle injury, plantar fasciitis (heel pain that occurs when the thick band of tissue on the bottom of the foot becomes irritated or inflamed) and Achilles tendinitis (injury of the Achilles tendon).
 
-![Late runners at the London Marathon 2017.; Shutterstock ID 626426177; purchase_order: -; job: -; client: -; other: -](https://www.newscientist.com/wp-content/uploads/2024/07/23105428/SEI_213745399.jpg?w=900&h=600&crop=1) 
+![Late runners at the London Marathon 2017.; Shutterstock ID 626426177; purchase_order: -; job: -; client: -; other: -](https://www.newscientist.com/wp-content/uploads/2024/07/23105428/SEI_213745399.jpg?w=900&h=600&crop=1)
 
 The slow-running movement, in which people meet for unhurried jogs, is booming – but don’t be fooled into thinking that if there’s no pain, there’s no gain
 

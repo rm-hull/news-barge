@@ -1,11 +1,12 @@
 ---
-title: Arga is building a better way to train enterprise AI agents | TechCrunch
+title: Arga is building a better way to train enterprise AI agents
 source_url: https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T13:11:41Z'
-published: '2026-08-26T00:00:00Z'
-description: Arga has raised $10 million in a seed funding round that was led by General
+scraped_at: "2026-08-26T13:11:41Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Arga has raised $10 million in a seed funding round that was led by General
   Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200
 ---

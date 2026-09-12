@@ -1,11 +1,12 @@
 ---
-title: Anthropic’s Opus 4.6 is a smut-machine | TechCrunch
+title: Anthropic’s Opus 4.6 is a smut-machine
 source_url: https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-22T01:47:02Z'
-published: '2026-08-21T00:00:00Z'
-description: Anthropic forbids its Claude models from generating sexually explicit
+scraped_at: "2026-08-22T01:47:02Z"
+published: "2026-08-21T00:00:00Z"
+description:
+  Anthropic forbids its Claude models from generating sexually explicit
   content. But a series of tests conducted by TechCrunch found that it didn't take
   much to get past the restriction.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915

@@ -1,11 +1,12 @@
 ---
-title: Clipto uses AI to search terabytes of video and is now valued at $250M | TechCrunch
+title: Clipto uses AI to search terabytes of video and is now valued at $250M
 source_url: https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-31T16:08:46Z'
-published: '2026-08-31T00:00:00Z'
-description: The three-year-old startup says it reached $15 million in ARR and profitability
+scraped_at: "2026-08-31T16:08:46Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  The three-year-old startup says it reached $15 million in ARR and profitability
   before raising its latest $15 million round.
 image: https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675
 ---

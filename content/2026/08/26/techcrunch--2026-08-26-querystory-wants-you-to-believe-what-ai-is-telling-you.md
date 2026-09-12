@@ -1,11 +1,12 @@
 ---
-title: QueryStory wants you to believe what AI is telling you | TechCrunch
+title: QueryStory wants you to believe what AI is telling you
 source_url: https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T13:11:29Z'
-published: '2026-08-26T00:00:00Z'
-description: The startup came out of stealth with $6 million in seed funding and a
+scraped_at: "2026-08-26T13:11:29Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  The startup came out of stealth with $6 million in seed funding and a
   plan to use LLMs and cybersecurity know-how to make AI queries coherent.
 image: https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799
 ---

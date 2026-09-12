@@ -1,12 +1,13 @@
 ---
-title: Exercise may create new neurons by making other brain cells contract | New
+title: Exercise may create new neurons by making other brain cells contract
   Scientist
 source_url: https://www.newscientist.com/article/2586505-exercise-may-create-new-neurons-by-making-other-brain-cells-contract/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-27T12:01:48Z'
-published: '2026-08-27T00:00:00Z'
-description: Physical activity causes a type of brain cell called astrocytes to contract,
+scraped_at: "2026-08-27T12:01:48Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Physical activity causes a type of brain cell called astrocytes to contract,
   which then leads to the formation of new neurons, according to a study in mice
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg
 ---
@@ -35,7 +36,7 @@ It’s unclear why astrocyte contraction provokes neurogenesis, but Rhodes sugge
 
 “This is a fascinating and novel finding,” says Flaminia Ronca at University College London. “It is biologically plausible that some version of it operates in humans, because we share the broad cell types and cellular machinery involved.”
 
-![Jogging in mist and fog](https://www.newscientist.com/wp-content/uploads/2026/01/07142905/SEI_279845969.jpg?w=900&h=600&crop=1) 
+![Jogging in mist and fog](https://www.newscientist.com/wp-content/uploads/2026/01/07142905/SEI_279845969.jpg?w=900&h=600&crop=1)
 
 A comprehensive review confirms the benefits of exercise for treating depression, even if the exact reasons remain unclear
 

@@ -1,10 +1,10 @@
 ---
-title: Robot brain builders are pushing out of their GPT-2 era | TechCrunch
+title: Robot brain builders are pushing out of their GPT-2 era
 source_url: https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T16:56:23Z'
-published: '2026-08-26T00:00:00Z'
+scraped_at: "2026-08-26T16:56:23Z"
+published: "2026-08-26T00:00:00Z"
 description: Robot bodies are waiting for their AI brains to catch up.
 image: https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800
 ---

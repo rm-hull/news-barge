@@ -1,10 +1,10 @@
 ---
-title: Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman | TechCrunch
+title: Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman
 source_url: https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:02Z'
-published: '2026-08-19T00:00:00Z'
+scraped_at: "2026-08-19T21:32:02Z"
+published: "2026-08-19T00:00:00Z"
 description: The actress' firm Kinship Ventures is an investor in the company.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2266702439.jpg?w=1024
 ---

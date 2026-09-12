@@ -1,11 +1,12 @@
 ---
-title: T-Mobile 'chopped a cable' to expel Chinese hackers from its network | TechCrunch
+title: T-Mobile 'chopped a cable' to expel Chinese hackers from its network
 source_url: https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-19T21:32:03Z'
-published: '2026-08-19T00:00:00Z'
-description: The U.S. phone provider escaped a large-scale breach of its network after
+scraped_at: "2026-08-19T21:32:03Z"
+published: "2026-08-19T00:00:00Z"
+description:
+  The U.S. phone provider escaped a large-scale breach of its network after
   identifying Chinese-backed hackers early on.
 image: https://techcrunch.com/wp-content/uploads/2025/01/t-mobile-store-times-square.jpg?resize=1200,800
 ---

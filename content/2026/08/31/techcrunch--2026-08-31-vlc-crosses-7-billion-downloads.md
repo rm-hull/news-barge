@@ -1,11 +1,12 @@
 ---
-title: VLC crosses 7 billion downloads | TechCrunch
+title: VLC crosses 7 billion downloads
 source_url: https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-31T21:28:11Z'
-published: '2026-08-31T00:00:00Z'
-description: In our world of expensive streaming platforms, the very free and offline
+scraped_at: "2026-08-31T21:28:11Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  In our world of expensive streaming platforms, the very free and offline
   VLC media player has crossed 7 billion downloads.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-590060556.jpg?resize=1200,800
 ---

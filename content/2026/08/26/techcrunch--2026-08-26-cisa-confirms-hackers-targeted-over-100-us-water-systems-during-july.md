@@ -1,11 +1,12 @@
 ---
-title: CISA confirms hackers targeted over 100 US water systems during July | TechCrunch
+title: CISA confirms hackers targeted over 100 US water systems during July
 source_url: https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T16:57:37Z'
-published: '2026-08-26T00:00:00Z'
-description: The federal cyber agency's warning comes amid a wave of suspected Iran-backed
+scraped_at: "2026-08-26T16:57:37Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  The federal cyber agency's warning comes amid a wave of suspected Iran-backed
   cyberattacks targeting critical water systems across the United States.
 image: https://techcrunch.com/wp-content/uploads/2026/08/water-waste-water-2099931275.jpg?resize=1200,917
 ---

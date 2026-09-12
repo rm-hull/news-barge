@@ -1,11 +1,12 @@
 ---
-title: The Pentagon now has its own version of ChatGPT and Grok | TechCrunch
+title: The Pentagon now has its own version of ChatGPT and Grok
 source_url: https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-31T21:28:15Z'
-published: '2026-08-31T00:00:00Z'
-description: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini
+scraped_at: "2026-08-31T21:28:15Z"
+published: "2026-08-31T00:00:00Z"
+description:
+  Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini
   on the Pentagon's central portal for AI tools.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024
 ---

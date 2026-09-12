@@ -1,11 +1,12 @@
 ---
-title: Apple rescues Hide My Email feature from the privacy scrap heap | TechCrunch
+title: Apple rescues Hide My Email feature from the privacy scrap heap
 source_url: https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-25T16:50:27Z'
-published: '2026-08-25T00:00:00Z'
-description: Apple says it will no longer ditch using its icloud.com domain for hiding
+scraped_at: "2026-08-25T16:50:27Z"
+published: "2026-08-25T00:00:00Z"
+description:
+  Apple says it will no longer ditch using its icloud.com domain for hiding
   people's email addresses.
 image: https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675
 ---

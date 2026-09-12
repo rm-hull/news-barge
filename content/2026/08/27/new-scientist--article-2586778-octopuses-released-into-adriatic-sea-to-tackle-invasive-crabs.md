@@ -1,11 +1,12 @@
 ---
-title: Octopuses released into Adriatic Sea to tackle invasive crabs | New Scientist
+title: Octopuses released into Adriatic Sea to tackle invasive crabs
 source_url: https://www.newscientist.com/article/2586778-octopuses-released-into-adriatic-sea-to-tackle-invasive-crabs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-27T22:13:43Z'
-published: '2026-08-27T00:00:00Z'
-description: Atlantic blue crabs have moved into the Mediterranean and Adriatic seas,
+scraped_at: "2026-08-27T22:13:43Z"
+published: "2026-08-27T00:00:00Z"
+description:
+  Atlantic blue crabs have moved into the Mediterranean and Adriatic seas,
   where they are a problem both for ecosystems and local economies, but octopuses
   might offer a solution
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg
@@ -13,7 +14,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg
 
 ![A team of scientists releasing 150,000 baby common octopuses](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309444627.jpg?w=840)
 
-Some 150,000 baby common octopuses (*Octopus vulgaris*) have just been released into the waters off Italy’s Adriatic coast in one of Europe’s first pilot experiments to test whether the species can help control the invasive blue crab (* Callinectes sapidus*), which eats native shellfish and threatens the fishing industry and marine ecosystems.
+Some 150,000 baby common octopuses (_Octopus vulgaris_) have just been released into the waters off Italy’s Adriatic coast in one of Europe’s first pilot experiments to test whether the species can help control the invasive blue crab (_ Callinectes sapidus_), which eats native shellfish and threatens the fishing industry and marine ecosystems.
 
 “The project is appropriate as a carefully controlled pilot experiment, but it is not yet a proven effective control strategy,” says Rom Lipcius, a marine ecologist at the Virginia Institute of Marine Science, who isn’t involved in the initiative.
 
@@ -33,7 +34,7 @@ Earlier this week, the scientists released 150,000 millimetre-long, lab-raised l
 
 They estimate that only 1 per cent will survive to adulthood. After hatching, octopuses start their lives as tiny, free-floating larvae known as paralarvae. They drift through the water and may be eaten by fish. The hope is that a few will escape this fate and grow large enough to begin preying on blue crabs — a feat even small common octopuses weighing less than 800 grams are capable of, the researchers say.
 
-![Common Octopus](https://www.newscientist.com/wp-content/uploads/2026/01/19152509/SEI_281033908.jpg?w=900&h=600&crop=1) 
+![Common Octopus](https://www.newscientist.com/wp-content/uploads/2026/01/19152509/SEI_281033908.jpg?w=900&h=600&crop=1)
 
 A popular idea suggests a link between big brains and a rich social life, but octopuses don't fit the pattern, which suggests something else is going on
 

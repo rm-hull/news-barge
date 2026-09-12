@@ -1,11 +1,12 @@
 ---
-title: Radar makes podcasts searchable — and usable by AI agents | TechCrunch
+title: Radar makes podcasts searchable — and usable by AI agents
 source_url: https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-26T16:57:18Z'
-published: '2026-08-26T00:00:00Z'
-description: Particle’s new podcast intelligence platform transcribes and analyzes
+scraped_at: "2026-08-26T16:57:18Z"
+published: "2026-08-26T00:00:00Z"
+description:
+  Particle’s new podcast intelligence platform transcribes and analyzes
   more than 130,000 podcasts, making their conversations searchable on the web and
   accessible to AI agents through an API and MCP.
 image: https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800

@@ -1,11 +1,12 @@
 ---
-title: How Sweden built one of Europe’s hottest startup ecosystems | TechCrunch
+title: How Sweden built one of Europe’s hottest startup ecosystems
 source_url: https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: '2026-08-28T22:14:21Z'
-published: '2026-08-28T00:00:00Z'
-description: Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to
+scraped_at: "2026-08-28T22:14:21Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to
   break down the latest in the Swedish tech ecosystem.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?resize=1200,800
 ---

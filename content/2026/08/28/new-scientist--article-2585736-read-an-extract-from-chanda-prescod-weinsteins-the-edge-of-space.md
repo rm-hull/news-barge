@@ -1,12 +1,13 @@
 ---
-title: Read an extract from Chanda Prescod-Weinstein's The Edge of Space-Time | New
+title: Read an extract from Chanda Prescod-Weinstein's The Edge of Space-Time
   Scientist
 source_url: https://www.newscientist.com/article/2585736-read-an-extract-from-chanda-prescod-weinsteins-the-edge-of-space-time/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: '2026-08-28T11:16:26Z'
-published: '2026-08-28T00:00:00Z'
-description: The opening chapter to the New Scientist Book Club's read for September
+scraped_at: "2026-08-28T11:16:26Z"
+published: "2026-08-28T00:00:00Z"
+description:
+  The opening chapter to the New Scientist Book Club's read for September
   sees Chanda Prescod-Weinstein explore what we gain when we look at the universe
   from the margins
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659683.jpg
@@ -22,7 +23,7 @@ Advertisement
 
 We are called to go back and get the history of space-time. And who am I to argue with the ancestors?
 
-Even so, I do. *Science in this society is often done for the wrong reasons,* I find myself telling them. And they remind me that because it’s my job to study the origin and evolution of the universe and everything inside it,*I* know there is a location in space-time where the universe became transparent to light: the first place where light could fly free. The ancestors insist: This is a story that I have learned so I could tell it to others. To do cosmology—to study the beginning and evolution of space, time, and matter—is to be a griot, a keeper of stories and history. To do cosmology is to go back and get the beginning, to map out the future.
+Even so, I do. _Science in this society is often done for the wrong reasons,_ I find myself telling them. And they remind me that because it’s my job to study the origin and evolution of the universe and everything inside it,_I_ know there is a location in space-time where the universe became transparent to light: the first place where light could fly free. The ancestors insist: This is a story that I have learned so I could tell it to others. To do cosmology—to study the beginning and evolution of space, time, and matter—is to be a griot, a keeper of stories and history. To do cosmology is to go back and get the beginning, to map out the future.
 
 So: Quite nearly at the beginning, the universe said let there be light. And particles of light—photons—all of them traveling at the speed of light, the fastest in the universe, couldn’t get very far. They were stuck in a plasma stew where they constantly bumped into particles, especially electrons, which swallowed their energy and spat it out in the form of new photons and other particles.
 
@@ -32,7 +33,7 @@ This light is a cosmic edge: We cannot look past it because at any time earlier 
 
 …
 
-The book you are reading is about the queer, poetic wonder that is our universe and what we gain when we look at it from the margins. It is my version of what historian Aimé Dafon Sègla calls cosmovisions, a response to the question of why we should bother trying to get beyond the edges of human knowledge about the physical universe. *The Edge of Space-Time* is part of a larger tradition that includes not just scientists but also artists. People like jazz percussionist, artist, and technologist Milford Graves, who used percussion, sound, and observations of praying mantises and plant growth to understand a phenomenon he termed “cosmic energy.” Graves, a maker working in a long tradition of Black artists, was not formally trained as a scientist, and “cosmic energy” sounds a little like mystic talk. But when I listened to him describe his ideas in the documentary*Milford Graves Full Mantis,* I heard a familiar sensibility about how matter is linked with and through space-time, a relationship that takes center stage in this book.
+The book you are reading is about the queer, poetic wonder that is our universe and what we gain when we look at it from the margins. It is my version of what historian Aimé Dafon Sègla calls cosmovisions, a response to the question of why we should bother trying to get beyond the edges of human knowledge about the physical universe. _The Edge of Space-Time_ is part of a larger tradition that includes not just scientists but also artists. People like jazz percussionist, artist, and technologist Milford Graves, who used percussion, sound, and observations of praying mantises and plant growth to understand a phenomenon he termed “cosmic energy.” Graves, a maker working in a long tradition of Black artists, was not formally trained as a scientist, and “cosmic energy” sounds a little like mystic talk. But when I listened to him describe his ideas in the documentary*Milford Graves Full Mantis,* I heard a familiar sensibility about how matter is linked with and through space-time, a relationship that takes center stage in this book.
 
 As a set of knowledges and techniques, physics provides a pathway toward answering the same questions Graves asked about the fundamental nature of our cosmos and the relationship between matter, energy, and space-time. It allows us to specify in great detail the relationship between photons and the plants in Graves’s garden which transformed the photons into living particles. It is another entry point to what plant biologist and Black feminist theorist of intersectionality in science Beronda L. Montgomery calls lessons from plants.
 
@@ -42,4 +43,4 @@ In a world where genocides (plural) can be live-streamed and still continue unab
 
 **This is an extract from * The Edge of Space-Time*by Chanda Prescod-Weinstein (Canongate Books)**,** the September read for the New Scientist Book Club. Sign up for the club here, and join the discussion on Discord here**.
 
-*When you make a purchase via the links on this page, we receive a commission.*
+_When you make a purchase via the links on this page, we receive a commission._
