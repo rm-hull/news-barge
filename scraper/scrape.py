@@ -510,6 +510,8 @@ async def process_article(
     file_date = pub_date or now
 
     title = (meta.title if meta else None) or slug
+    if title and "|" in title:
+        title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
 
     frontmatter = {
