@@ -1,12 +1,11 @@
 ---
-title: Nvidia closes in on Hugging Face acquisition
+title: Nvidia closes in on Hugging Face acquisition | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T12:01:13Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Nvidia has reportedly agreed to buy Hugging Face, the popular open-source
+scraped_at: '2026-08-27T12:01:13Z'
+published: '2026-08-26T00:00:00Z'
+description: Nvidia has reportedly agreed to buy Hugging Face, the popular open-source
   AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip
   empire and jump back into the cloud business.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801

@@ -1,12 +1,11 @@
 ---
-title: Shingles vaccine may lower risk of stroke and heart failure
+title: Shingles vaccine may lower risk of stroke and heart failure | New Scientist
 source_url: https://www.newscientist.com/article/2586346-shingles-vaccine-may-lower-risk-of-stroke-and-heart-failure/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T13:11:17Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Being vaccinated against shingles has been linked to a lower risk of
+scraped_at: '2026-08-26T13:11:17Z'
+published: '2026-08-26T00:00:00Z'
+description: Being vaccinated against shingles has been linked to a lower risk of
   cardiovascular disease before, but now a study suggests that the vaccine that is
   currently being used reduces the odds more than earlier versions of the shot
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg
@@ -40,7 +39,7 @@ The availability of Shingrix in the US in October 2017 coincided with eligibilit
 
 How Shingrix curbs cardiovascular issues is unclear, but prior research suggests that AS01 reprogrammes immune cells known as monocytes to produce fewer inflammatory molecules, called cytokines, said team member Betty Raman, also at the University of Oxford, during the press briefing. These promote the clogging of blood vessels, she said.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/05/14153737/SEI_297098571.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/05/14153737/SEI_297098571.jpg?w=900&h=600&crop=1) 
 
 We think of our body clock ticking over on a 24-hour cycle, but evidence is growing that it has seasonal rhythms, which could affect our response to vaccines
 

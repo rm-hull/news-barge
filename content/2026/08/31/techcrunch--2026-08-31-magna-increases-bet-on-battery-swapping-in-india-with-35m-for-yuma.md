@@ -1,12 +1,11 @@
 ---
-title: Magna increases bet on battery swapping in India with $35M for Yuma
+title: Magna increases bet on battery swapping in India with $35M for Yuma | TechCrunch
 source_url: https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-09-01T13:29:21Z"
-published: "2026-08-31T00:00:00Z"
-description:
-  Magna's investment in Yuma Energy has reached $87 million as the Canadian
+scraped_at: '2026-09-01T13:29:21Z'
+published: '2026-08-31T00:00:00Z'
+description: Magna's investment in Yuma Energy has reached $87 million as the Canadian
   auto supplier increases its majority stake in the Indian battery-swapping firm.
 image: https://techcrunch.com/wp-content/uploads/2026/08/yuma-energy.jpg?resize=1200,800
 ---

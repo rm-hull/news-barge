@@ -1,12 +1,11 @@
 ---
-title: Tesla’s solar roof is dead — here’s what went wrong
+title: Tesla’s solar roof is dead — here’s what went wrong | TechCrunch
 source_url: https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-21T20:36:45Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  Tesla's solar roof was an experiment that never really caught on for
+scraped_at: '2026-08-21T20:36:45Z'
+published: '2026-08-21T00:00:00Z'
+description: Tesla's solar roof was an experiment that never really caught on for
   the company. But does that mean the concept of roof-integrated solar is dead?
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1233610093.jpeg?resize=1200,800
 ---

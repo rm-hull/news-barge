@@ -1,12 +1,11 @@
 ---
-title: Einstein thought time dilation was both real and not – he was right
+title: Einstein thought time dilation was both real and not – he was right | New Scientist
 source_url: https://www.newscientist.com/article/2586888-einstein-thought-time-dilation-was-both-real-and-not-he-was-right/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-28T11:16:04Z"
-published: "2026-08-28T00:00:00Z"
-description:
-  What even is time? Columnist Karmela Padavic-Callaghan takes on this
+scraped_at: '2026-08-28T11:16:04Z'
+published: '2026-08-28T00:00:00Z'
+description: What even is time? Columnist Karmela Padavic-Callaghan takes on this
   mind-bending question by exploring the proof we have that time dilation is both
   a physical phenomenon and a psychological one
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685329.jpg

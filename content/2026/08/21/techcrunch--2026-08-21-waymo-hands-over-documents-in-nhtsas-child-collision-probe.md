@@ -1,12 +1,11 @@
 ---
-title: Waymo hands over documents in NHTSA's child collision probe
+title: Waymo hands over documents in NHTSA's child collision probe | TechCrunch
 source_url: https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-21T20:35:54Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  The responses to NHTSA's questions so far are redacted entirely, citing
+scraped_at: '2026-08-21T20:35:54Z'
+published: '2026-08-21T00:00:00Z'
+description: The responses to NHTSA's questions so far are redacted entirely, citing
   "confidential business information."
 image: https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800
 ---

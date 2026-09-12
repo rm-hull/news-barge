@@ -1,12 +1,11 @@
 ---
-title: TikTok reaches $400M settlement over children’s privacy lawsuit
+title: TikTok reaches $400M settlement over children’s privacy lawsuit | TechCrunch
 source_url: https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-21T20:37:20Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  Two years after the U.S. Department of Justice alleged that TikTok violated
+scraped_at: '2026-08-21T20:37:20Z'
+published: '2026-08-21T00:00:00Z'
+description: Two years after the U.S. Department of Justice alleged that TikTok violated
   the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800
 ---

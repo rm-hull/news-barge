@@ -1,13 +1,12 @@
 ---
-title: Lack of sleep may cause anxiety by making us less adaptable to threats
+title: Lack of sleep may cause anxiety by making us less adaptable to threats | New
   Scientist
 source_url: https://www.newscientist.com/article/2586177-lack-of-sleep-may-cause-anxiety-by-making-us-less-adaptable-to-threats/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-24T16:51:52Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  People who were deprived of sleep overnight didn't seem to adapt to being
+scraped_at: '2026-08-24T16:51:52Z'
+published: '2026-08-24T00:00:00Z'
+description: People who were deprived of sleep overnight didn't seem to adapt to being
   in a potentially threatening space, which may help explain the link between a lack
   of shuteye and anxiety
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308905889.jpg
@@ -33,7 +32,7 @@ The next morning, all the participants entered an immersive virtual world, start
 
 Meanwhile, the researchers monitored their heart rates and skin-conductance levels, tiny changes in sweating that reflect whether someone is in the fight-or-flight response.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307908789.jpg?crop=0px,0px,1348px,900px&resize=900,600)
+![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307908789.jpg?crop=0px,0px,1348px,900px&resize=900,600) 
 
 To gain the benefits of sleep, it was thought that the whole brain must switch off. But experiments suggest the right kind of rest can encourage our brain to improve memory and learning while we’re awake.
 

@@ -1,10 +1,10 @@
 ---
-title: Google's Gemini has a branding problem, and so does the rest of AI
+title: Google's Gemini has a branding problem, and so does the rest of AI | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T23:23:55Z"
-published: "2026-08-26T00:00:00Z"
+scraped_at: '2026-08-26T23:23:55Z'
+published: '2026-08-26T00:00:00Z'
 description: Consumer AI apps need to stop making users learn their product architecture.
 image: https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024
 ---

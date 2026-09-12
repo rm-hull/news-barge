@@ -1,10 +1,10 @@
 ---
-title: Uber launches live video streaming for teen accounts
+title: Uber launches live video streaming for teen accounts | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T13:08:24Z"
-published: "2026-08-25T00:00:00Z"
+scraped_at: '2026-08-25T13:08:24Z'
+published: '2026-08-25T00:00:00Z'
 description: Uber said no one will be able to access the video once the ride ends
 image: https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800
 ---

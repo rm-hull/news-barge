@@ -1,12 +1,11 @@
 ---
-title: How bad is the UK drought and how long will it continue?
+title: How bad is the UK drought and how long will it continue? | New Scientist
 source_url: https://www.newscientist.com/article/2584619-how-bad-is-the-uk-drought-and-how-long-will-it-continue/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-14T13:34:07Z"
-published: "2026-08-14T00:00:00Z"
-description:
-  Almost three-quarters of England is now in drought conditions, resulting
+scraped_at: '2026-08-14T13:34:07Z'
+published: '2026-08-14T00:00:00Z'
+description: Almost three-quarters of England is now in drought conditions, resulting
   in restrictions on water use in many areas and severe wildfires – here's how it's
   affecting farming, wildlife and trees
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308198316.jpg

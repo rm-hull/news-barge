@@ -1,12 +1,11 @@
 ---
-title: Plastic bottles can be turned into edible, vanilla-flavour cookies
+title: Plastic bottles can be turned into edible, vanilla-flavour cookies | New Scientist
 source_url: https://www.newscientist.com/article/2585463-plastic-bottles-can-be-turned-into-edible-vanilla-flavour-cookies/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-24T11:45:44Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  Hundreds of millions of tonnes of plastic pollution are created each
+scraped_at: '2026-08-24T11:45:44Z'
+published: '2026-08-24T00:00:00Z'
+description: Hundreds of millions of tonnes of plastic pollution are created each
   year. One option may be to turn the pollution into food, but critics voice concerns
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008441.jpg
 ---
@@ -33,7 +32,7 @@ Team member Lahiru Jayakody, also at Southern Illinois University Carbondale, sa
 
 But not everyone is convinced that µBites can make a meaningful impact on plastic pollution. Jason Hallett at Imperial College London says the research is fun and interesting, but also, in all likelihood, a practical dead end.
 
-![](https://www.newscientist.com/wp-content/uploads/2025/09/17102707/SEI_265739296.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2025/09/17102707/SEI_265739296.jpg?w=900&h=600&crop=1) 
 
 Making all shampoo or detergent bottles look the same isn’t anti-capitalist, and it’s the only way to make a truly circular economy for plastics, says Saabira Chaudhuri
 

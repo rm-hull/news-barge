@@ -1,10 +1,10 @@
 ---
-title: Anthropic's annualized revenue surges to $65B
+title: Anthropic's annualized revenue surges to $65B | TechCrunch
 source_url: https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-18T19:35:43Z"
-published: "2026-08-17T00:00:00Z"
+scraped_at: '2026-08-18T19:35:43Z'
+published: '2026-08-17T00:00:00Z'
 description: The model maker added $18 billion in annualized revenue in two months.
 image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798
 ---

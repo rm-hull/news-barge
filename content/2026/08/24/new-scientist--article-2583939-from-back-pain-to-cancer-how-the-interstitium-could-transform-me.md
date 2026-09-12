@@ -1,13 +1,12 @@
 ---
-title: From back pain to cancer, how the interstitium could transform medicine
+title: From back pain to cancer, how the interstitium could transform medicine | New
   Scientist
 source_url: https://www.newscientist.com/article/2583939-from-back-pain-to-cancer-how-the-interstitium-could-transform-medicine/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-24T11:45:05Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  For centuries, we’ve ignored the interstitium, but research is now revealing
+scraped_at: '2026-08-24T11:45:05Z'
+published: '2026-08-24T00:00:00Z'
+description: For centuries, we’ve ignored the interstitium, but research is now revealing
   that this body-wide network of fluid is instrumental to our health and points the
   way to new treatments
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308205819.jpg

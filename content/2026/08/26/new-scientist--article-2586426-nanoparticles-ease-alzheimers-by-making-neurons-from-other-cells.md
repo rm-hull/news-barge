@@ -1,12 +1,11 @@
 ---
-title: Nanoparticles ease Alzheimer's by making neurons from other cells
+title: Nanoparticles ease Alzheimer's by making neurons from other cells | New Scientist
 source_url: https://www.newscientist.com/article/2586426-nanoparticles-ease-alzheimers-by-making-neurons-from-other-cells/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T16:56:36Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  A drug made up of a cage of nanoparticles and antibodies created neurons
+scraped_at: '2026-08-26T16:56:36Z'
+published: '2026-08-26T00:00:00Z'
+description: A drug made up of a cage of nanoparticles and antibodies created neurons
   from another type of brain cell, which relieved symptoms of Alzheimer's disease
   in mice
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg
@@ -40,7 +39,7 @@ The team intravenously injected half of the mice with TN-PTBP1 twice over two we
 
 When the researchers analysed samples of the mice’s hippocampi, an area of the brain involved in memory and learning, they found that TN-PTBP1 had caused new neurons to sprout in the brain.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306980417.jpg?crop=2px,0px,1348px,900px&resize=900,600)
+![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI_306980417.jpg?crop=2px,0px,1348px,900px&resize=900,600) 
 
 Surgery that aims to enhance the clearance of Alzheimer’s-associated proteins from the brain has been banned in China, but only after thousands of people had the procedure
 

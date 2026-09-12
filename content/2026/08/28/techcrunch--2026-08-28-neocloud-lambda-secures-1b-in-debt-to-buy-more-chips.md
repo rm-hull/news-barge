@@ -1,12 +1,11 @@
 ---
-title: Neocloud Lambda secures $1B in debt to buy more chips
+title: Neocloud Lambda secures $1B in debt to buy more chips | TechCrunch
 source_url: https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-28T22:14:03Z"
-published: "2026-08-28T00:00:00Z"
-description:
-  Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips
+scraped_at: '2026-08-28T22:14:03Z'
+published: '2026-08-28T00:00:00Z'
+description: Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips
   and lease them to Microsoft. It's the latest in a string of loans, underscoring
   the high cost of the AI boom.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960

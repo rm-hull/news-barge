@@ -1,12 +1,11 @@
 ---
-title: Accel-backed Keenable is indexing the web for AI agents
+title: Accel-backed Keenable is indexing the web for AI agents | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T13:08:53Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  Now exiting stealth mode with a $26 million seed round, Keenable has
+scraped_at: '2026-08-25T13:08:53Z'
+published: '2026-08-25T00:00:00Z'
+description: Now exiting stealth mode with a $26 million seed round, Keenable has
   been building a vast web search index for AI agents.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200
 ---

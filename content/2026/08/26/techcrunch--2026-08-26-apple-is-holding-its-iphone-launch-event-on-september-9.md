@@ -1,12 +1,11 @@
 ---
-title: Apple is holding its iPhone launch event on September 9
+title: Apple is holding its iPhone launch event on September 9 | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T16:57:39Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  The event is expected to be a notable one, as Apple is rumored to unveil
+scraped_at: '2026-08-26T16:57:39Z'
+published: '2026-08-26T00:00:00Z'
+description: The event is expected to be a notable one, as Apple is rumored to unveil
   its long-awaited foldable iPhone. It'll also be the first Apple event with John
   Ternus as CEO, who is scheduled to take the reins of the tech giant from Tim Cook
   on September 1.

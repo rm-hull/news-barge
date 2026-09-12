@@ -1,12 +1,11 @@
 ---
-title: Claude Cowork finally remembers what you told the app in chat
+title: Claude Cowork finally remembers what you told the app in chat | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T20:40:50Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  Anthropic is giving Claude a shared memory across chat and Cowork, so
+scraped_at: '2026-08-25T20:40:50Z'
+published: '2026-08-25T00:00:00Z'
+description: Anthropic is giving Claude a shared memory across chat and Cowork, so
   users no longer have to repeatedly brief the AI on projects, preferences, and other
   context.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842

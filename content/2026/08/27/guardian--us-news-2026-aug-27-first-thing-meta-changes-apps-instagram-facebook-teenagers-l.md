@@ -1,13 +1,12 @@
 ---
-title: "First Thing: Meta agrees to make sweeping changes to apps for teens
-  Belam"
+title: 'First Thing: Meta agrees to make sweeping changes to apps for teens | Martin
+  Belam'
 source_url: https://www.theguardian.com/us-news/2026/aug/27/first-thing-meta-changes-apps-instagram-facebook-teenagers-landmark-lawsuit
 source_site: The Guardian
 source_slug: guardian
-scraped_at: "2026-08-27T12:00:34Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  Safety features including usage limits and night-time blocks to be set
+scraped_at: '2026-08-27T12:00:34Z'
+published: '2026-08-27T00:00:00Z'
+description: Safety features including usage limits and night-time blocks to be set
   by default. Plus changes to famous French cheeses
 image: https://i.guim.co.uk/img/media/c4959fa18c8e7d36edb0ba226c7475d8bf77e429/572_47_4722_3776/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f24aeea2833ed15a25ef7b3e233f74e
 ---
@@ -16,9 +15,12 @@ Good morning. Meta has agreed to significant changes to its Instagram and Facebo
 
 California and 28 other US states sued the $1.36tn (£1tn) company over allegations that Meta deliberately designed addictive products that hooked young people, leading to mental health issues, including anxiety, depression and suicide. As part of the settlement, the company denies wrongdoing.
 
-- **What will be changing in the apps?** The biggest alteration is that Meta, the parent company of Instagram and Facebook, is now required to make many of its safety limitations the default setting for accounts created by teens, a pivot from its previous opt-in approach to child safety. Nick Robins-Early and Johana Bhuiyan explain more in this piece: six key takeaways from the end of the Meta trial.
-- **Will other companies be affected?** Meta is putting the agreement forward as a precedent for other social media companies to follow. The company’s chief legal officer, CJ Mahoney, said: “Because teens move fluidly across dozens of apps, we need an industry-wide solution. We therefore call on our industry peers … to implement this new framework.” Meta, YouTube, TikTok and Snap face thousands more similar US lawsuits brought by families, individuals, school districts and other attorneys general.
-- **Are campaigners satisfied with the result?** Arturo Béjar, an ex-Facebook employee and whistleblower, said the outcome “is not an all-clear to say the product is safe. The limitations that are in the agreement are the equivalent of saying: ‘Well, you can smoke as many cigarettes as you can in two hours a day’. It doesn’t make the cigarettes any safer.”
+- 
+  **What will be changing in the apps?** The biggest alteration is that Meta, the parent company of Instagram and Facebook, is now required to make many of its safety limitations the default setting for accounts created by teens, a pivot from its previous opt-in approach to child safety. Nick Robins-Early and Johana Bhuiyan explain more in this piece: six key takeaways from the end of the Meta trial.
+- 
+  **Will other companies be affected?** Meta is putting the agreement forward as a precedent for other social media companies to follow. The company’s chief legal officer, CJ Mahoney, said: “Because teens move fluidly across dozens of apps, we need an industry-wide solution. We therefore call on our industry peers … to implement this new framework.” Meta, YouTube, TikTok and Snap face thousands more similar US lawsuits brought by families, individuals, school districts and other attorneys general.
+- 
+  **Are campaigners satisfied with the result?** Arturo Béjar, an ex-Facebook employee and whistleblower, said the outcome “is not an all-clear to say the product is safe. The limitations that are in the agreement are the equivalent of saying: ‘Well, you can smoke as many cigarettes as you can in two hours a day’. It doesn’t make the cigarettes any safer.”
 
 ## **Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 165**
 
@@ -28,7 +30,8 @@ Nearly 1,400 people are missing, the majority of them tourists, authorities have
 
 Videos from the event on Wednesday showed a massive wall of water crashing down on the border as people attempted to flee. Trucks were upended and houses, roads and power projects swept away in Nepal, while officials in Tibet said they feared “major casualties” after a mudslide hit a border crossing.
 
-- **How did it happen?** As this visual guide explains, at 8.37am on Wednesday an enormous section of a glacier in the Himalayas sheared free and crashed on to the valley floor in Nepal’s Langtang national park, about 60km north of the capital Kathmandu, near the mountainous Nepal-Tibet border.
+- 
+  **How did it happen?** As this visual guide explains, at 8.37am on Wednesday an enormous section of a glacier in the Himalayas sheared free and crashed on to the valley floor in Nepal’s Langtang national park, about 60km north of the capital Kathmandu, near the mountainous Nepal-Tibet border.
 
 ## **Trump downplays Moscow visit by CIA director as ‘semi-routine’**
 
@@ -50,10 +53,14 @@ Texas’s move was just one across several states in 2023, driven by a rightwing
 
 ![Busy Philipps.](https://i.guim.co.uk/img/media/3ad13bd182f72adda78ec3456856c980c04a72e9/250_0_2500_2000/master/2500.jpg?width=445&dpr=1&s=none&crop=none)
 
-- **Busy Philippshas revealed she had a brain tumour removed** , which was diagnosed shortly after her Dawson’s Creek co-star James Van Der Beek died from bowel cancer.
-- **A trial date has been set for four men for their alleged involvement in the 9/11 attack** , including Khalid Sheikh Mohammed, who is accused as the mastermind of the plot.
-- **A California man who was arrested this week for having a wooden guillotine near the US Capitol grounds pleaded not guilty** at an arraignment to a misdemeanor weapon charge.
-- **A fake US thinktank set up and funded by Israel sought to game AI for propaganda** , attempting to prime chatbots to make pro-Israel arguments.
+- 
+  **Busy Philippshas revealed she had a brain tumour removed** , which was diagnosed shortly after her Dawson’s Creek co-star James Van Der Beek died from bowel cancer.
+- 
+  **A trial date has been set for four men for their alleged involvement in the 9/11 attack** , including Khalid Sheikh Mohammed, who is accused as the mastermind of the plot.
+- 
+  **A California man who was arrested this week for having a wooden guillotine near the US Capitol grounds pleaded not guilty** at an arraignment to a misdemeanor weapon charge.
+- 
+  **A fake US thinktank set up and funded by Israel sought to game AI for propaganda** , attempting to prime chatbots to make pro-Israel arguments.
 
 ## **Stat of the day: Nvidia CEO declares ‘golden age’ as quarterly revenue doubles to nearly $100bn**
 

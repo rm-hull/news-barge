@@ -1,12 +1,11 @@
 ---
-title: Amazon hikes hardware prices by 60 percent, blaming memory shortage
+title: Amazon hikes hardware prices by 60 percent, blaming memory shortage | TechCrunch
 source_url: https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-24T20:44:01Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  As the memory shortage continues to cause trouble for hardware makers,
+scraped_at: '2026-08-24T20:44:01Z'
+published: '2026-08-24T00:00:00Z'
+description: As the memory shortage continues to cause trouble for hardware makers,
   Amazon says it is now being forced to pass on the costs to its consumers.
 image: https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675
 ---

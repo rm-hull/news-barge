@@ -1,12 +1,11 @@
 ---
-title: Will muscle-boosting meds be the next big thing after GLP-1 drugs?
+title: Will muscle-boosting meds be the next big thing after GLP-1 drugs? | New Scientist
 source_url: https://www.newscientist.com/article/2585855-will-muscle-boosting-meds-be-the-next-big-thing-after-glp-1-drugs/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-25T13:08:26Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  A number of drugs designed to prevent muscle loss and boost muscle growth
+scraped_at: '2026-08-25T13:08:26Z'
+published: '2026-08-25T00:00:00Z'
+description: A number of drugs designed to prevent muscle loss and boost muscle growth
   are being tested in clinical trials. Columnist Michael Le Page looks at whether
   building and maintaining muscles is about to get a whole lot easier
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308827907.jpg

@@ -1,12 +1,11 @@
 ---
-title: Rogue hacking AIs have changed the cybersecurity landscape
+title: Rogue hacking AIs have changed the cybersecurity landscape | New Scientist
 source_url: https://www.newscientist.com/article/2583927-rogue-hacking-ais-have-changed-the-cybersecurity-landscape/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T08:56:35Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  Attackers with no technical skills can now use AI models to find and
+scraped_at: '2026-08-17T08:56:35Z'
+published: '2026-08-17T00:00:00Z'
+description: Attackers with no technical skills can now use AI models to find and
   exploit loopholes quickly and they can deploy them on a massive scale, raising fears
   that organisations without large budgets for cyber defence will be much more vulnerable
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308069689.jpg

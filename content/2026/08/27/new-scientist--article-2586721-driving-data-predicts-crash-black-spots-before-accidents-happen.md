@@ -1,12 +1,11 @@
 ---
-title: Driving data can predict crash black spots before accidents happen
+title: Driving data can predict crash black spots before accidents happen | New Scientist
 source_url: https://www.newscientist.com/article/2586721-driving-data-predicts-crash-black-spots-before-accidents-happen/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-27T12:00:47Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  An analysis of data collected from hundreds of thousands of cars in Australia
+scraped_at: '2026-08-27T12:00:47Z'
+published: '2026-08-27T00:00:00Z'
+description: An analysis of data collected from hundreds of thousands of cars in Australia
   offers an insight into driving behaviour that can be used to identify sections of
   road where crashes may occur in the future
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549209.jpg
@@ -52,7 +51,7 @@ Nirajan Shiwakoti at RMIT University in Melbourne says he is cautious about whet
 
 However, he says the data is a “potential early-warning signal for road-safety problems, complementing traditional crash data”.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/06/09170226/SEI_300741524.jpg?w=900&h=600&crop=1) 
 
 A near miss with a Waymo while cycling through London hasn’t changed my optimistic stance on driverless cars, but we can’t ever let our guard down, says Matthew Sparkes
 

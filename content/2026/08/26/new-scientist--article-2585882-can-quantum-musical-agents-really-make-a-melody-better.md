@@ -1,12 +1,11 @@
 ---
-title: Can 'quantum musical agents' really make a melody better?
+title: Can 'quantum musical agents' really make a melody better? | New Scientist
 source_url: https://www.newscientist.com/article/2585882-can-quantum-musical-agents-really-make-a-melody-better/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T23:23:44Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Feedback wonders if a bum note is being struck in a new paper exploring
+scraped_at: '2026-08-26T23:23:44Z'
+published: '2026-08-26T00:00:00Z'
+description: Feedback wonders if a bum note is being struck in a new paper exploring
   "quantum teleportation in multi-agent systems for interactive music”
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309454589.jpg
 ---
@@ -19,7 +18,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309454589.jpg
 
 The history of popular music is, in part, a history of technology. From George Beauchamp inventing the electric guitar to whoever came up with the wobble bass that was briefly ubiquitous in dubstep, what we listen to has been shaped by inventive engineers.
 
-Feedback was therefore intrigued to receive a tip-off from reporter Karmela Padavic-Callaghan about “music-making on the future quantum Internet”. Karmela directed our attention to a paper published on 5 August called “Teleportation game: Quantum teleportation in multi-agent systems for interactive music”. It was published in a scientific journal with the gloriously all-encompassing title _International Journal of Parallel, Emergent and Distributed Systems_.
+Feedback was therefore intrigued to receive a tip-off from reporter Karmela Padavic-Callaghan about “music-making on the future quantum Internet”. Karmela directed our attention to a paper published on 5 August called “Teleportation game: Quantum teleportation in multi-agent systems for interactive music”. It was published in a scientific journal with the gloriously all-encompassing title *International Journal of Parallel, Emergent and Distributed Systems*.
 
 Advertisement
 
@@ -31,11 +30,11 @@ Curious to know who came up with this, Feedback looked up the lead author.
 
 Eduardo Miranda is a composer and computer scientist who has created music using everything from brain-computer interfaces to slime moulds and, latterly, quantum computers. In 2024, he released an album called QUBISM, entirely created using quantum computers.
 
-Feedback listened to a couple of tracks and was mildly bemused. Opener _Lumina Grooves 1_ is built around cheery xylophone-like notes: it sounds like something you would hear in an elevator or, perhaps, as background music for a wildlife documentary about marine invertebrates. In contrast,_Spinnings_ uses eerie mechanical groans and could be an off-cut from the soundtrack to*Blade Runner 2049*.
+Feedback listened to a couple of tracks and was mildly bemused. Opener *Lumina Grooves 1* is built around cheery xylophone-like notes: it sounds like something you would hear in an elevator or, perhaps, as background music for a wildlife documentary about marine invertebrates. In contrast,*Spinnings* uses eerie mechanical groans and could be an off-cut from the soundtrack to*Blade Runner 2049*.
 
 We really wanted to know what the quantum musical agents in the new paper came up with, but the study doesn’t include any audio, so we don’t know. However, Feedback did note that the authors developed the agents to support “ambiguous, transformative interactions reminiscent of free Jazz improvisation” and that their system is one “in which divergence and ambiguity are tolerated”. To crib a line from the late, great Tom Lehrer, we think this means the quantum agents play a wrong note every now and then.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg?crop=2px,0px,1348px,900px&resize=900,600)
+![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg?crop=2px,0px,1348px,900px&resize=900,600) 
 
 A review of thousands of scientific papers about quantum computers finds that most don’t provide code that can be tested on independent devices or that the code doesn’t work
 
@@ -53,7 +52,7 @@ Then, a faint memory flickered in our mind. Scouring past columns, we realised w
 
  revisited the topic in 2012 and delved into the health benefits of “hexagonal water” earlier this year (28 March). This had faded from our consciousness, but not, it seems, from the minds of those eager to sell you overpriced water.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg?crop=0px,0px,1348px,900px&resize=900,600)
+![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg?crop=0px,0px,1348px,900px&resize=900,600) 
 
 Water is essential for good brain function, with a handful of convincing studies suggesting that dehydration could be slowing you down, cognitively speaking. Columnist Helen Thomson explores how much water we should be drinking to stay sharp
 
@@ -65,4 +64,4 @@ Reader Pete Lloyd was reminded of a reorganisation at his workplace, which resul
 
 **Got a story for Feedback?**
 
-_You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website._
+*You can send stories to Feedback by email at [feedback@newscientist.com.](mailto:feedback@newscientist.com.) Please include your home address. This week’s and past Feedbacks can be seen on our website.*

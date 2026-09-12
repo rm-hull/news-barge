@@ -1,12 +1,11 @@
 ---
-title: A glacier collapse is most likely cause of the Nepal disaster
+title: A glacier collapse is most likely cause of the Nepal disaster | New Scientist
 source_url: https://www.newscientist.com/article/2586497-a-glacier-collapse-is-most-likely-cause-of-the-nepal-disaster/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T16:56:44Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Melting snow appears to have weakened a steep glacier at an altitude
+scraped_at: '2026-08-26T16:56:44Z'
+published: '2026-08-26T00:00:00Z'
+description: Melting snow appears to have weakened a steep glacier at an altitude
   of 5 kilometres, causing it to plummet around a kilometre into the river valley
   below
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309559746.jpg
@@ -34,7 +33,7 @@ The melting of ice due to the release of potential energy caused the Chamoli fla
 
 This event, however, was much larger. “These videos that we’re seeing are off the charts. This is horrific,” he says. “It looks like this will rank very high on the list of historic mountain disasters in terms of people killed, and cost.”
 
-![October 16 2012 Photo by: James Yungel Public Domain Thwaites iceshelf: see source link for full caption info](https://www.newscientist.com/wp-content/uploads/2026/05/14163813/SEI_251372465.jpg?w=900&h=600&crop=1)
+![October 16 2012 Photo by: James Yungel Public Domain Thwaites iceshelf: see source link for full caption info](https://www.newscientist.com/wp-content/uploads/2026/05/14163813/SEI_251372465.jpg?w=900&h=600&crop=1) 
 
 The loss of Antarctica’s doomsday glacier would transform our planet. Now scientists are revealing the secrets of this remotest of places, and asking the question: is its demise inevitable?
 

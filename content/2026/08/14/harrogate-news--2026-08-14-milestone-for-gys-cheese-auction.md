@@ -1,12 +1,11 @@
 ---
-title: Milestone for GYS cheese auction
+title: Milestone for GYS cheese auction | Harrogate Informer
 source_url: https://www.harrogate-news.co.uk/2026/08/14/milestone-for-gys-cheese-auction/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: "2026-08-14T20:40:06Z"
-published: "2026-08-14T00:00:00Z"
-description:
-  Cheese loving visitors to the Great Yorkshire Show have now helped raise
+scraped_at: '2026-08-14T20:40:06Z'
+published: '2026-08-14T00:00:00Z'
+description: Cheese loving visitors to the Great Yorkshire Show have now helped raise
   an incredible £70,000 for good causes over the years, with Field Nurse and Saint
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/L-R-Kathryn-Philips-and-Richard-Schofield-of-Field-Nurse-GYS-Chief-Cheese-Dairy-Steward-Caroline-Bell-and-Lucy-Wiltshire-of-Saint-Michaels-Hospice-1.webp
 ---

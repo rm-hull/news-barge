@@ -1,12 +1,11 @@
 ---
-title: In The Room
+title: In The Room | What happens when the PM meets Trump and Putin
 source_url: https://www.independent.co.uk/tv/in-the-room/in-the-room-peter-hill-theresa-may-donald-trump-podcast-b3038661.html
 source_site: The Independent
 source_slug: independent
-scraped_at: "2026-08-25T08:55:19Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  "Being prime minister can be a lonely job. Everyone wants your attention,
+scraped_at: '2026-08-25T08:55:19Z'
+published: '2026-08-25T00:00:00Z'
+description: 'Being prime minister can be a lonely job. Everyone wants your attention,
   your approval and a say in the decisions you make. But when the fanfare dies down,
   it’s you holding the pen and making the biggest calls. Fortunately, every prime
   minister has one person at their side: their principal private secretary. Peter
@@ -18,7 +17,7 @@ description:
   what they’re really like in the room, the unexpected humour behind closed doors,
   and the reality of being at a prime minister’s right hand through thick and thin.
   New episodes of In The Room come out weekly. Listen to the latest on Apple Podcasts
-  and Spotify, or watch on YouTube."
+  and Spotify, or watch on YouTube.'
 image: https://cdn.jwplayer.com/v2/media/jRNMDbiI/poster.jpg?width=720
 ---
 

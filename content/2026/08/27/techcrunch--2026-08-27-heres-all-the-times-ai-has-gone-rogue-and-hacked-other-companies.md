@@ -1,12 +1,11 @@
 ---
-title: Here’s all the times AI has gone rogue and hacked other companies
+title: Here’s all the times AI has gone rogue and hacked other companies | TechCrunch
 source_url: https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T22:14:13Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  A recap of all the incidents involving LLMs made by Anthropic, Meta,
+scraped_at: '2026-08-27T22:14:13Z'
+published: '2026-08-27T00:00:00Z'
+description: A recap of all the incidents involving LLMs made by Anthropic, Meta,
   and OpenAI, which went rogue and attacked real companies and individuals on the
   internet.
 image: https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800

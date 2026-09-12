@@ -1,12 +1,11 @@
 ---
-title: US battery startups have found a lifeline in defense
+title: US battery startups have found a lifeline in defense | TechCrunch
 source_url: https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-22T16:36:36Z"
-published: "2026-08-22T00:00:00Z"
-description:
-  U.S. battery startups pulled in $500 million in grants from the Department
+scraped_at: '2026-08-22T16:36:36Z'
+published: '2026-08-22T00:00:00Z'
+description: U.S. battery startups pulled in $500 million in grants from the Department
   of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives
   were slashed.
 image: https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742

@@ -1,12 +1,11 @@
 ---
-title: Brave's browser one-ups Chrome with its new support for email aliases
+title: Brave's browser one-ups Chrome with its new support for email aliases | TechCrunch
 source_url: https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-28T22:14:45Z"
-published: "2026-08-28T00:00:00Z"
-description:
-  The feature, announced this week, allows Brave's users to sign up for
+scraped_at: '2026-08-28T22:14:45Z'
+published: '2026-08-28T00:00:00Z'
+description: The feature, announced this week, allows Brave's users to sign up for
   websites and other online services without having to share their personal email
   addresses.
 image: https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800

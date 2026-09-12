@@ -1,12 +1,11 @@
 ---
-title: Grand Voyager
+title: Grand Voyager | Exploring Switzerland
 source_url: https://www.euronews.com/travel/2026/08/12/grand-voyager-exploring-switzerland
 source_site: Euronews
 source_slug: euronews
-scraped_at: "2026-08-12T17:07:55Z"
-published: "2026-08-12T00:00:00Z"
-description:
-  Switzerland is a country of stunning landscapes and historic cities.
+scraped_at: '2026-08-12T17:07:55Z'
+published: '2026-08-12T00:00:00Z'
+description: Switzerland is a country of stunning landscapes and historic cities.
   In this episode, Lilly Douse explores one of Europe's most picturesque destinations.
 image: https://images.euronews.com/articles/stories/09/81/92/15/1200x675_cmsv2_4843c196-6026-5219-82f2-6752253d32da-9819215.jpg
 ---
@@ -35,8 +34,8 @@ Switzerland is a country of rich heritage and stunning natural beauty. With Zuri
 
 ## Read more
 
-![©](https://images.euronews.com/articles/stories/09/84/05/21/480x270_cmsv2_78fb9dff-6bb4-5df3-80cc-a49dcb9b050c-9840521.jpg)
+![©](https://images.euronews.com/articles/stories/09/84/05/21/480x270_cmsv2_78fb9dff-6bb4-5df3-80cc-a49dcb9b050c-9840521.jpg) 
 
-![©](https://images.euronews.com/articles/stories/09/79/62/63/480x270_cmsv2_1ac5cd86-e729-5eff-9f18-fb632fe591f6-9796263.jpg)
+![©](https://images.euronews.com/articles/stories/09/79/62/63/480x270_cmsv2_1ac5cd86-e729-5eff-9f18-fb632fe591f6-9796263.jpg) 
 
 ![Grand Voyager | Exploring Nairobi](https://images.euronews.com/articles/stories/09/73/94/20/480x270_cmsv2_37d4486a-81f7-524c-8c41-413f81d2cdc4-9739420.jpg)

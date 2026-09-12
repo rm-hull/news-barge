@@ -1,12 +1,11 @@
 ---
-title: Kalshi bans George Santos for life over State of the Union bets
+title: Kalshi bans George Santos for life over State of the Union bets | TechCrunch
 source_url: https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-31T21:27:45Z"
-published: "2026-08-31T00:00:00Z"
-description:
-  The disciplinary action comes two months after the Commodity Futures
+scraped_at: '2026-08-31T21:27:45Z'
+published: '2026-08-31T00:00:00Z'
+description: The disciplinary action comes two months after the Commodity Futures
   Trading Commission settled charges against Santos.
 image: https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1824575665.jpg?resize=1200,800
 ---

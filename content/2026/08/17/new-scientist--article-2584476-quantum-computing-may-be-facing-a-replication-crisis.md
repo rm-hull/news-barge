@@ -1,12 +1,11 @@
 ---
-title: Quantum computing may be facing a replication crisis
+title: Quantum computing may be facing a replication crisis | New Scientist
 source_url: https://www.newscientist.com/article/2584476-quantum-computing-may-be-facing-a-replication-crisis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T13:02:01Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  A review of thousands of scientific papers about quantum computers finds
+scraped_at: '2026-08-17T13:02:01Z'
+published: '2026-08-17T00:00:00Z'
+description: A review of thousands of scientific papers about quantum computers finds
   that most don’t provide code that can be tested on independent devices or that the
   code doesn’t work
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308174944.jpg

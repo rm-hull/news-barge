@@ -1,13 +1,12 @@
 ---
-title: How much water do you really need to drink to keep your brain sharp?
+title: How much water do you really need to drink to keep your brain sharp? | New
   Scientist
 source_url: https://www.newscientist.com/article/2586088-how-much-water-do-you-really-need-to-drink-to-keep-your-brain-sharp/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-24T16:52:13Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  Water is essential for good brain function, with a handful of convincing
+scraped_at: '2026-08-24T16:52:13Z'
+published: '2026-08-24T00:00:00Z'
+description: Water is essential for good brain function, with a handful of convincing
   studies suggesting that dehydration could be slowing you down, cognitively speaking.
   Columnist Helen Thomson explores how much water we should be drinking to stay sharp
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg
@@ -29,7 +28,7 @@ In other studies, dehydration wasn’t found to have a significant impact on cog
 
 Although that sounds fairly extreme, Kempton reckons you might lose this amount of water on a hot day if you didn’t drink. The students drank 500 ml of water the night before the trial and another 500 ml just before they began exercising. The team then used fMRI to measure activity in the students’ brains during a test of executive functions like planning ahead and spatial processing.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI306580932.jpg?crop=3px,0px,1347px,899px&resize=900,600)
+![](https://www.newscientist.com/wp-content/uploads/2026/07/SEI306580932.jpg?crop=3px,0px,1347px,899px&resize=900,600) 
 
 An increasing number of studies have linked ultra-processed foods with depression, anxiety and even dementia. Columnist Helen Thomson explores how strong the evidence is for the brain effects of a diet full of these foods
 
@@ -61,7 +60,7 @@ Crucially, some of this value comes from water produced by metabolism, and in hi
 
 For a typical person in the US or Europe, that leaves a rough drinking requirement of around 1.5 to 1.8 litres, according to John Speakman at the University of Aberdeen, who led the study. Obviously, pregnancy, lifestyle factors, age and exercise, among other things, can shift these numbers substantially.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/05/22201229/SEI_298455942.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/05/22201229/SEI_298455942.jpg?w=900&h=600&crop=1) 
 
 In the age of AI, instant answers to our questions are readily available. But columnist Helen Thomson finds that continuing to encourage those delicious flashes of insight that come from your own thoughts may be beneficial both for your everyday life and your long-term brain health
 

@@ -1,12 +1,11 @@
 ---
-title: Main section of A59 Kex Gill route set to open within weeks
+title: Main section of A59 Kex Gill route set to open within weeks | Harrogate Informer
 source_url: https://www.harrogate-news.co.uk/2026/08/13/main-section-of-a59-kex-gill-route-set-to-open-within-weeks/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: "2026-08-13T17:08:42Z"
-published: "2026-08-13T00:00:00Z"
-description:
-  The main section of North Yorkshire's landmark new A59 Kex Gill route
+scraped_at: '2026-08-13T17:08:42Z'
+published: '2026-08-13T00:00:00Z'
+description: The main section of North Yorkshire's landmark new A59 Kex Gill route
   is set to open to traffic in the next few weeks, marking a major milestone for North
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/KexGill1.webp
 ---
@@ -16,6 +15,7 @@ The main section of North Yorkshire’s landmark new A59 Kex Gill route is set t
 The new 4.2-kilometre route, which will replace a section of road repeatedly affected by landslips, is entering its final stages of construction.
 
 The majority of the new road is expected to open in the next few weeks, by early September, providing motorists with a safer, more reliable route between Harrogate and Skipton.
+
 
 **North Yorkshire Council’s executive member for highways and transportation, Cllr Malcolm Taylor, said:**
 
@@ -27,11 +27,14 @@ Within weeks, road users will begin benefiting from a modern, resilient route th
 
 This is the largest highways project ever undertaken by North Yorkshire Council and represents a huge achievement by everyone involved in its delivery.
 
+
+
 The scheme has been introduced to provide a solution to a long-standing problem. Since 2000, the existing A59 at Kex Gill has suffered 15 landslips, resulting in more than £6 million of repair costs and repeated closures.
 
 The majority of the construction works are now complete, with only the tie-ins to the existing road network and the completion of road markings remaining.
 
 Once finished, this will enable two of the three carriageways to open to traffic.
+
 
 **A regional engineer at Sisk Infrastructure, Lauren Luck, said:**
 
@@ -40,6 +43,8 @@ We are delighted to reach this crucial milestone at Kex Gill.
 The project has presented significant engineering challenges, which our team and supply chain partners have successfully delivered solutions in very difficult terrain with significant environmental considerations to manage.
 
 We hope that this achievement creates a lasting, positive difference for communities across North Yorkshire.
+
+
 
 More than 12,700 native trees have been planted across the site, alongside extensive wildflower planting, habitat creation, balancing ponds and biodiversity measures designed to support local wildlife.
 

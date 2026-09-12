@@ -1,12 +1,11 @@
 ---
-title: Liux's Big microcar bets on sustainability to take on Chinese rivals
+title: Liux's Big microcar bets on sustainability to take on Chinese rivals | TechCrunch
 source_url: https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-30T19:19:07Z"
-published: "2026-08-30T00:00:00Z"
-description:
-  The Liux Big microcar is made in Spain. The startup thinks it can compete
+scraped_at: '2026-08-30T19:19:07Z'
+published: '2026-08-30T00:00:00Z'
+description: The Liux Big microcar is made in Spain. The startup thinks it can compete
   in a crowded market with its tiny electric car built around sustainability.
 image: https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800
 ---

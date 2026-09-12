@@ -1,12 +1,11 @@
 ---
-title: OpenAI releases its official report on the Hugging Face breach
+title: OpenAI releases its official report on the Hugging Face breach | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T23:24:44Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  The report, which spans several discrete cybersecurity compromises, is
+scraped_at: '2026-08-26T23:24:44Z'
+published: '2026-08-26T00:00:00Z'
+description: The report, which spans several discrete cybersecurity compromises, is
   the most complete accounting of the incident to date.
 image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798
 ---

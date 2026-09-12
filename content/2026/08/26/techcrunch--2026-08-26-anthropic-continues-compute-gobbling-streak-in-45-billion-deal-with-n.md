@@ -1,12 +1,11 @@
 ---
-title: Anthropic continues compute-gobbling streak in $45B deal with Nscale
+title: Anthropic continues compute-gobbling streak in $45B deal with Nscale | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T23:23:57Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  The new deal with the infrastructure provider is the latest example of
+scraped_at: '2026-08-26T23:23:57Z'
+published: '2026-08-26T00:00:00Z'
+description: The new deal with the infrastructure provider is the latest example of
   Anthropic's white-hot compute-gobbling streak.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024
 ---

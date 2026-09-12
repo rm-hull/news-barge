@@ -1,12 +1,11 @@
 ---
-title: Who's behind the new ‘stealth model’ Ox Alpha?
+title: Who's behind the new ‘stealth model’ Ox Alpha? | TechCrunch
 source_url: https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-23T20:35:29Z"
-published: "2026-08-23T00:00:00Z"
-description:
-  A mysterious new AI model called Ox Alpha has driven certain corners
+scraped_at: '2026-08-23T20:35:29Z'
+published: '2026-08-23T00:00:00Z'
+description: A mysterious new AI model called Ox Alpha has driven certain corners
   of the internet into a frenzy of speculation.
 image: https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675
 ---

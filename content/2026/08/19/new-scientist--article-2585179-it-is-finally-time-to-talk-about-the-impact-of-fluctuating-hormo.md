@@ -1,12 +1,11 @@
 ---
-title: It is finally time to talk about the impact of fluctuating hormones
+title: It is finally time to talk about the impact of fluctuating hormones | New Scientist
 source_url: https://www.newscientist.com/article/2585179-it-is-finally-time-to-talk-about-the-impact-of-fluctuating-hormones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-19T21:32:25Z"
-published: "2026-08-19T00:00:00Z"
-description:
-  For decades, women have felt the need to hide the impact of changes in
+scraped_at: '2026-08-19T21:32:25Z'
+published: '2026-08-19T00:00:00Z'
+description: For decades, women have felt the need to hide the impact of changes in
   their hormones, while scientists have excluded women from research to avoid hormonal
   fluctuations complicating their research. Thankfully, this is starting to change
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308643212.jpg
@@ -25,6 +24,7 @@ Advertisement
 Here again, hormones play a role, as scientists uncover what many women with ADHD already feel: that hormonal fluctuations and shifts can profoundly affect ADHD symptoms, sometimes undermining treatments and pushing their coping techniques to breaking point.
 
 Hormonal fluctuations and shifts can profoundly affect ADHD symptoms and treatments
+
 
 The hope, of course, is that a better understanding of how sex hormones affect brain function will lead to better treatments, but as we report, this work also gives women with ADHD a powerful self-understanding, finally allowing them to predict and work around changes in attention and motivation.
 

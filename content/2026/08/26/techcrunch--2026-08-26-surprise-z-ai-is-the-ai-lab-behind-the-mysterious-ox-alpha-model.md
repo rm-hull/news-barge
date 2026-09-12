@@ -1,5 +1,5 @@
 ---
-title: 'Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model
+title: 'Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch'
 source_url: https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/
 source_site: TechCrunch
 source_slug: techcrunch

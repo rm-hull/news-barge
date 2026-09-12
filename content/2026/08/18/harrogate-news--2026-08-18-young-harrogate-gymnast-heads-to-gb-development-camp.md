@@ -1,12 +1,11 @@
 ---
-title: Young Harrogate gymnast heads to GB Development Camp
+title: Young Harrogate gymnast heads to GB Development Camp | Harrogate Informer
 source_url: https://www.harrogate-news.co.uk/2026/08/18/young-harrogate-gymnast-heads-to-gb-development-camp/
 source_site: Harrogate News
 source_slug: harrogate-news
-scraped_at: "2026-08-18T13:03:58Z"
-published: "2026-08-18T00:00:00Z"
-description:
-  A Harrogate gymnast is preparing to attend a GB Development Squad camp
+scraped_at: '2026-08-18T13:03:58Z'
+published: '2026-08-18T00:00:00Z'
+description: A Harrogate gymnast is preparing to attend a GB Development Squad camp
   next week, after progressing from preschool classes at Harrogate Gymnastics to
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/gym1.webp
 ---
@@ -21,11 +20,14 @@ Andi-Mae, who lives in Harrogate, has trained at Harrogate Gymnastics since pres
 
 Her recent achievements include finishing second on beam at the English Championships in Telford in February, as well as placing seventh overall from the top 60 gymnasts in England.
 
+
 ![Andi-Mae](https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/gym2.webp)
+
 
 This secured her a place at the British Championships at the M&S Bank Arena Liverpool in March, where her performance led to selection for the England Squad and a trial for the GB Development Squad.
 
 Andi-Mae has already attended one three-day squad camp and, following her performance, was selected as a full GB Development Squad member.
+
 
 Andi-Mae said:
 
@@ -37,6 +39,8 @@ At the trial I tried my very hardest to impress the coaches, and when I got back
 
 I can’t wait to go to the next GB camp as an official squad member. I love gymnastics and I feel like I’m living in a dream at the moment. A massive thank you to all my coaches at Harrogate Gymnastics for encouraging and supporting me all along.
 
+
+
 **Chloe Carey, founder of Harrogate Gymnastics, said:**
 
 We are incredibly proud of Andi-Mae. She has been part of Harrogate Gymnastics since she was very young, so to see her progress all the way from preschool classes to national competition and GB Development Squad selection is really special.
@@ -45,7 +49,10 @@ Her achievement reflects years of hard work, commitment and determination. It is
 
 For us, gymnastics is about confidence, enjoyment, passion and choice. Some children come to us for fun, fitness and friendship, and others go on to compete. Andi-Mae’s story shows what can happen when a young person finds something they love and is supported to keep progressing.
 
+
+
 Andi-Mae currently trains 20 hours a week and is coached by Chloe Carey.
+
 
 **Andi-Mae’s parents, Sarah King and Steve Bendelow, said:**
 
@@ -53,7 +60,10 @@ As a family we are so incredibly proud of everything Andi-Mae has achieved so fa
 
 The consistent support, dedication and hard work from Andi-Mae and all her coaches have allowed her to thrive, while keeping a good balance between gym, school and downtime with family and friends. We cannot wait to see what comes next.
 
+
+
 Harrogate Gymnastics is based at The Zone, Hornbeam Park, Harrogate, and provides gymnastics opportunities for children, young people and adults across Harrogate and the surrounding area, from early years and recreational classes through to competitive squad training.
+
 
 - Harrogate Gymnastics is based in Harrogate and provides gymnastics opportunities for children, young people and adults across Harrogate and the surrounding area.
 - The club offers recreational classes, preschool classes, family free play, holiday activities, parties and adult gymnastics, alongside competitive pathways through Harrogate Gymnastics Club. Its competitive disciplines include Women’s Artistic Gymnastics, trampoline and DMT, TeamGym and cheer.

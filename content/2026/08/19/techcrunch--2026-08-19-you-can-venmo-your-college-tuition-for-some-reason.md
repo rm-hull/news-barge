@@ -1,10 +1,10 @@
 ---
-title: You can Venmo your college tuition, for some reason
+title: You can Venmo your college tuition, for some reason | TechCrunch
 source_url: https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-19T13:09:56Z"
-published: "2026-08-19T00:00:00Z"
+scraped_at: '2026-08-19T13:09:56Z'
+published: '2026-08-19T00:00:00Z'
 description: Kids these days don't know how good they have it.
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800
 ---

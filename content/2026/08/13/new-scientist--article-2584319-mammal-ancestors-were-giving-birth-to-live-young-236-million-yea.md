@@ -1,20 +1,19 @@
 ---
-title: Mammal ancestors were giving birth to live young 236 million years ago
+title: Mammal ancestors were giving birth to live young 236 million years ago | New
   Scientist
 source_url: https://www.newscientist.com/article/2584319-mammal-ancestors-were-giving-birth-to-live-young-236-million-years-ago/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-13T05:46:42Z"
-published: "2026-08-13T00:00:00Z"
-description:
-  Almost all mammals give birth rather than laying eggs, and we have new
+scraped_at: '2026-08-13T05:46:42Z'
+published: '2026-08-13T00:00:00Z'
+description: Almost all mammals give birth rather than laying eggs, and we have new
   clues about when they began to do so
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307993659.jpg
 ---
 
 ![life reconstruction of a group of Chiniquodon theotonicus](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307993659.jpg?w=840)
 
-_Chiniquodon theotonicus_
+*Chiniquodon theotonicus*
 
 Creatures that bridged the gap between reptiles and mammals may have been bearing live young 90 million years earlier than we thought.
 
@@ -26,7 +25,7 @@ Advertisement
 
 “Whether mammalian ancestors were oviparous or viviparous has been considered a mystery,” says Leandro Gaetano at Argentina’s National Scientific and Technical Research Council. “We had no clues on how or when one of the most distinctive traits of the majority of present-day mammals, viviparity, evolved in the mammalian lineage.”
 
-This has now changed, thanks to a chance observation made during a postgraduate class at the University of Buenos Aires in Argentina. The students were examining a fossil of _Chiniquodon theotonicus_, a cynodont that lived 236 million years ago and was unearthed in the Talampaya National Park in north-western Argentina in 2011. Part of the analysis involved using a microscope to examine thin slices taken from one of the ancient animal’s leg bones. At that point, the class noticed a curious growth line inside the bone.
+This has now changed, thanks to a chance observation made during a postgraduate class at the University of Buenos Aires in Argentina. The students were examining a fossil of *Chiniquodon theotonicus*, a cynodont that lived 236 million years ago and was unearthed in the Talampaya National Park in north-western Argentina in 2011. Part of the analysis involved using a microscope to examine thin slices taken from one of the ancient animal’s leg bones. At that point, the class noticed a curious growth line inside the bone.
 
 Gaetano and his colleagues investigated further and eventually concluded that this line, analogous to a tree’s growth ring, recorded the moment that the ancient mammal relative went through a growth spurt after its birth.
 

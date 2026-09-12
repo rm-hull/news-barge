@@ -1,12 +1,11 @@
 ---
-title: Fate of the AMOC may depend on how quickly CO2 rises
+title: Fate of the AMOC may depend on how quickly CO2 rises | New Scientist
 source_url: https://www.newscientist.com/article/2584353-fate-of-the-amoc-may-depend-on-how-quickly-co2-rises/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-13T09:22:09Z"
-published: "2026-08-13T00:00:00Z"
-description:
-  The critical current could remain stable beyond 5°C of warming, but only
+scraped_at: '2026-08-13T09:22:09Z'
+published: '2026-08-13T00:00:00Z'
+description: The critical current could remain stable beyond 5°C of warming, but only
   if the warming happens very slowly
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308081143.jpg
 ---
@@ -27,7 +26,7 @@ But under current rates, the AMOC collapses at about 2°C of warming. Unless the
 
 The modelling indicates the AMOC’s stability “is not controlled by some magical temperature level”, he says, but “by how fast the climate is warming”.
 
-![October 16 2012 Photo by: James Yungel Public Domain Thwaites iceshelf: see source link for full caption info](https://www.newscientist.com/wp-content/uploads/2026/05/14163813/SEI_251372465.jpg?w=900&h=600&crop=1)
+![October 16 2012 Photo by: James Yungel Public Domain Thwaites iceshelf: see source link for full caption info](https://www.newscientist.com/wp-content/uploads/2026/05/14163813/SEI_251372465.jpg?w=900&h=600&crop=1) 
 
 The loss of Antarctica’s doomsday glacier would transform our planet. Now scientists are revealing the secrets of this remotest of places, and asking the question: is its demise inevitable?
 
@@ -43,7 +42,7 @@ Keeping the warming at a slow pace allows both the surface water and the deep wa
 
 The findings suggest that a dramatic slowdown in the rate of CO2 pollution could rescue the AMOC from collapse, even if the world doesn’t manage to achieve net-zero emissions in the medium term.
 
-![Wave](https://www.newscientist.com/wp-content/uploads/2024/08/12104014/SEI_217142055.jpg?w=900&h=600&crop=1)
+![Wave](https://www.newscientist.com/wp-content/uploads/2024/08/12104014/SEI_217142055.jpg?w=900&h=600&crop=1) 
 
 For decades, the oceans have absorbed much of the excess heat caused by greenhouse gases. The latest observations suggest they are reaching their limits, so how worried should we be?
 

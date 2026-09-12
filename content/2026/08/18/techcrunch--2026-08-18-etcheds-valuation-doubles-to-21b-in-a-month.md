@@ -1,12 +1,11 @@
 ---
-title: Etched's valuation doubles to $21B in a month
+title: Etched's valuation doubles to $21B in a month | TechCrunch
 source_url: https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-18T19:35:58Z"
-published: "2026-08-18T00:00:00Z"
-description:
-  Jane Street has installed Etched's first shipped AI cluster system, and
+scraped_at: '2026-08-18T19:35:58Z'
+published: '2026-08-18T00:00:00Z'
+description: Jane Street has installed Etched's first shipped AI cluster system, and
   was so impressed, it led another massive round, the startup says.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200
 ---

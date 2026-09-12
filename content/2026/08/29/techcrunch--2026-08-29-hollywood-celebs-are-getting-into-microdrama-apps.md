@@ -1,13 +1,12 @@
 ---
-title: Hollywood celebs are getting into microdrama apps
+title: Hollywood celebs are getting into microdrama apps | TechCrunch
 source_url: https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-29T19:24:47Z"
-published: "2026-08-29T00:00:00Z"
-description:
-  "Several Hollywood celebs are ditching the massive eight-figure checks
-  and exotic movie sets for a rising format: microdramas."
+scraped_at: '2026-08-29T19:24:47Z'
+published: '2026-08-29T00:00:00Z'
+description: 'Several Hollywood celebs are ditching the massive eight-figure checks
+  and exotic movie sets for a rising format: microdramas.'
 image: https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717
 ---
 

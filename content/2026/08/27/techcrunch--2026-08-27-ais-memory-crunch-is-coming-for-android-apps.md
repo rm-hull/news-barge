@@ -1,12 +1,11 @@
 ---
-title: AI's memory crunch is coming for Android apps
+title: AI's memory crunch is coming for Android apps | TechCrunch
 source_url: https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T22:14:17Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  Google is setting new memory-use limits for Android apps as AI data centers
+scraped_at: '2026-08-27T22:14:17Z'
+published: '2026-08-27T00:00:00Z'
+description: Google is setting new memory-use limits for Android apps as AI data centers
   contribute to hardware shortages that could leave lower-cost phones with less memory.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675
 ---

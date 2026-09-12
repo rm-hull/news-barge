@@ -1,13 +1,12 @@
 ---
-title: Huge progress made in attempt to upgrade standard model of particles
+title: Huge progress made in attempt to upgrade standard model of particles | New
   Scientist
 source_url: https://www.newscientist.com/article/2586411-huge-progress-made-in-attempt-to-upgrade-standard-model-of-particles/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-27T12:00:46Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  A challenging mathematical effort undertaken by a team of undergraduates
+scraped_at: '2026-08-27T12:00:46Z'
+published: '2026-08-27T00:00:00Z'
+description: A challenging mathematical effort undertaken by a team of undergraduates
   has put bounds on a promising set of ways to break and upgrade the standard model
   of particle physics
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309553154.jpg
@@ -43,7 +42,7 @@ They also accounted for the fact that these experiments were conducted on Earth,
 
 Tasson says that mathematically modelling all 132 scenarios didn’t necessarily require unconventional mathematical techniques, but did involve a lot of patience. “The problem is big and the bookkeeping is big and challenging,” he says. “This work has been under way for something like seven years, and at the beginning of that time, we didn’t know exactly how it was going to turn out.”
 
-![](https://www.newscientist.com/wp-content/uploads/2025/05/12191209/SEI_250940951.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2025/05/12191209/SEI_250940951.jpg?w=900&h=600&crop=1) 
 
 Experiments with hydrogen atoms could soon reveal whether particles that were long thought to be forbidden by physics actually do exist
 

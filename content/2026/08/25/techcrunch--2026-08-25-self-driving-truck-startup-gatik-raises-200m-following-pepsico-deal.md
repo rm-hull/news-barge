@@ -1,12 +1,11 @@
 ---
-title: Self-driving truck startup Gatik raises $200M following PepsiCo deal
+title: Self-driving truck startup Gatik raises $200M following PepsiCo deal | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T16:50:40Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  The funding, Gatik's largest so far, was led by Qatar Investment Authority
+scraped_at: '2026-08-25T16:50:40Z'
+published: '2026-08-25T00:00:00Z'
+description: The funding, Gatik's largest so far, was led by Qatar Investment Authority
   and Koch Disruptive Technologies.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800
 ---

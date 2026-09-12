@@ -1,12 +1,11 @@
 ---
-title: Burns improve more rapidly after treatment with fish skin
+title: Burns improve more rapidly after treatment with fish skin | New Scientist
 source_url: https://www.newscientist.com/article/2586000-burns-heal-more-rapidly-after-treatment-with-fish-skin/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-21T16:48:24Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  Severe burns are often treated with synthetic products ahead of skin
+scraped_at: '2026-08-21T16:48:24Z'
+published: '2026-08-21T00:00:00Z'
+description: Severe burns are often treated with synthetic products ahead of skin
   graft surgery, but there is evidence that a product made from minimally processed
   cod skin is more effective
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309025637.jpg
@@ -22,7 +21,7 @@ Every day, more than 30,000 people worldwide develop burns that require medical 
 
 Advertisement
 
-Prior to graft surgery, many patients undergo temporary wound coverage to prepare the area and manage infection risk. This can involve applying synthetic or biosynthetic scaffolds made up of collagen, the most abundant protein in skin. But an Icelandic company called Kerecis manufactures products made from wild Atlantic cod (_Gadus morhua_), which are approved to treat burns and other wounds in the US and the UK. 
+Prior to graft surgery, many patients undergo temporary wound coverage to prepare the area and manage infection risk. This can involve applying synthetic or biosynthetic scaffolds made up of collagen, the most abundant protein in skin. But an Icelandic company called Kerecis manufactures products made from wild Atlantic cod (*Gadus morhua*), which are approved to treat burns and other wounds in the US and the UK. 
 
 To compare these approaches, Lantis and his colleagues used data from 465 adults who attended 49 burn centres between 2019 and 2025.
 
@@ -34,7 +33,7 @@ The researchers found that the individuals treated with GraftGuide spent 12 fewe
 
 What’s more, rates of complications were twice as high in the synthetic-substitute group, with 16 per cent experiencing issues like sepsis, compared with 8 per cent who received GraftGuide.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/07/02110823/SEI_303476907.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/07/02110823/SEI_303476907.jpg?w=900&h=600&crop=1) 
 
 How much sunscreen should you be using, when should you apply it, and are there any downsides to doing so? Skin cancer expert Rachel Neale is here to answer all of these questions and more
 

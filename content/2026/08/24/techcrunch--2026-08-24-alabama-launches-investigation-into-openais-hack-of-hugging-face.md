@@ -1,12 +1,11 @@
 ---
-title: Alabama launches investigation into OpenAI's hack of Hugging Face
+title: Alabama launches investigation into OpenAI's hack of Hugging Face | TechCrunch
 source_url: https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-24T20:44:03Z"
-published: "2026-08-24T00:00:00Z"
-description:
-  Weeks after OpenAI disclosed that one of its cybersecurity models had
+scraped_at: '2026-08-24T20:44:03Z'
+published: '2026-08-24T00:00:00Z'
+description: Weeks after OpenAI disclosed that one of its cybersecurity models had
   gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General
   announced an investigation into the incident.
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800
@@ -24,4 +23,4 @@ Earlier this month, Marshall, along with the attorneys general of fourteen other
 
 In the wake of the Hugging Face incident, and several other incidents disclosed by Anthropic, the UK’s AI Security Institute, and Meta, workers at AI companies — including executives and technical leaders — signed an open letter called “Pacing The Frontier,” which called for developing AI capabilities slowly and more responsibly The letter also called for the U.S. government to support an “international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development.”
 
-_Updated with comment from OpenAI._
+*Updated with comment from OpenAI.*

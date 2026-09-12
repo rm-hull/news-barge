@@ -1,12 +1,11 @@
 ---
-title: Bluesky now lets you upload 10-minute long videos
+title: Bluesky now lets you upload 10-minute long videos | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T16:56:32Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Bluesky's new 10-minute video support includes faster upload speeds,
+scraped_at: '2026-08-26T16:56:32Z'
+published: '2026-08-26T00:00:00Z'
+description: Bluesky's new 10-minute video support includes faster upload speeds,
   too.
 image: https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024
 ---

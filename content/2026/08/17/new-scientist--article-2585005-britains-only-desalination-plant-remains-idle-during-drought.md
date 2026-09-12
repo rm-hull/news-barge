@@ -1,12 +1,11 @@
 ---
-title: Britain's only desalination plant remains idle during drought
+title: Britain's only desalination plant remains idle during drought | New Scientist
 source_url: https://www.newscientist.com/article/2585005-britains-only-desalination-plant-remains-idle-during-drought/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T16:40:30Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  Water flow in the river Thames has dropped low enough to warrant the
+scraped_at: '2026-08-17T16:40:30Z'
+published: '2026-08-17T00:00:00Z'
+description: Water flow in the river Thames has dropped low enough to warrant the
   use of England’s only large-scale desalination plant, but it hasn’t been switched
   on at all this year
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308664894.jpg
@@ -24,7 +23,7 @@ Advertisement
 
 Under Thames Water’s drought plan, the firm is allowed to start using its desalination plant if a drought is declared and if water flow rates in the Thames drop below 3000 megalitres per day (Ml/d).
 
-A drought was declared in England on 29 July 2026, and data obtained by _New Scientist_ suggests water flow rates at Teddington in south-west London, the lowest point of the freshwater Thames, have been well below the 3000 Ml/d mark for weeks.
+A drought was declared in England on 29 July 2026, and data obtained by *New Scientist* suggests water flow rates at Teddington in south-west London, the lowest point of the freshwater Thames, have been well below the 3000 Ml/d mark for weeks.
 
 In fact, the current rates are around 220 Ml/d, below even the target river flow threshold for Teddington of 300 Ml/d agreed by Thames Water and the Environment Agency during the current drought. Normally, the target flow rate for the river is 800 Ml/d, to protect the river’s ecology and surrounding environment from over-abstraction by Thames Water.
 

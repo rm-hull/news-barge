@@ -1,12 +1,11 @@
 ---
-title: Perplexity’s free AI offer left it with millions more users in India
+title: Perplexity’s free AI offer left it with millions more users in India | TechCrunch
 source_url: https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-18T19:36:09Z"
-published: "2026-08-18T00:00:00Z"
-description:
-  Perplexity's India revenue rose about 60% after the Airtel offer ended
+scraped_at: '2026-08-18T19:36:09Z'
+published: '2026-08-18T00:00:00Z'
+description: Perplexity's India revenue rose about 60% after the Airtel offer ended
   for new users, even as downloads declined.
 image: https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800
 ---

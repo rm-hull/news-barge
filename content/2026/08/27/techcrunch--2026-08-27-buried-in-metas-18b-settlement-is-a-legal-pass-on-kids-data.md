@@ -1,12 +1,11 @@
 ---
-title: Buried in Meta's $18B settlement is a legal pass on kids' data
+title: Buried in Meta's $18B settlement is a legal pass on kids' data | TechCrunch
 source_url: https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T22:13:18Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  Meta’s settlement with 29 states allows it to retain certain data from
+scraped_at: '2026-08-27T22:13:18Z'
+published: '2026-08-27T00:00:00Z'
+description: Meta’s settlement with 29 states allows it to retain certain data from
   children under 13 to train and test age-detection models, highlighting a privacy
   trade-off built into the deal.
 image: https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800

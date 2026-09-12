@@ -1,12 +1,11 @@
 ---
-title: DNA reveals a society organised around women in pre-Roman Britain
+title: DNA reveals a society organised around women in pre-Roman Britain | New Scientist
 source_url: https://www.newscientist.com/article/2584364-dna-reveals-a-society-organised-around-women-in-pre-roman-britain/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-13T17:07:48Z"
-published: "2026-08-13T00:00:00Z"
-description:
-  Descent passed from mother to daughter rather than from father to son,
+scraped_at: '2026-08-13T17:07:48Z'
+published: '2026-08-13T00:00:00Z'
+description: Descent passed from mother to daughter rather than from father to son,
   a study of more than 500 Iron Age individuals from north-east England suggests
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308186686_d4ce22.jpg
 ---
@@ -43,7 +42,7 @@ The genetics also show that individuals from the same maternal lineage avoided h
 
 The exceptions to this were the three individuals – two male, one female – buried with chariots. “The individuals afforded chariot burials at Wetwang Slack stood apart by showing recurrent close kin unions, consistent with a reproductive strategy in which high status, identity and claims to particular forms of burial were concentrated within a restricted descent group,” the study says.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/05/08160452/SEI_296279252.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/05/08160452/SEI_296279252.jpg?w=900&h=600&crop=1) 
 
 Genetic analysis of 1039 people buried in Britain between the Bronze Age and the Norman conquest highlights the impact of the Romans, Anglo-Saxons and Vikings on the island’s ancestry
 

@@ -1,12 +1,11 @@
 ---
-title: Instagram puts new limits on undisclosed AI profiles
+title: Instagram puts new limits on undisclosed AI profiles | TechCrunch
 source_url: https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-31T21:27:44Z"
-published: "2026-08-31T00:00:00Z"
-description:
-  As frustration over AI influencers has been growing, Instagram is limiting
+scraped_at: '2026-08-31T21:27:44Z'
+published: '2026-08-31T00:00:00Z'
+description: As frustration over AI influencers has been growing, Instagram is limiting
   the reach of undisclosed AI profiles.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200
 ---

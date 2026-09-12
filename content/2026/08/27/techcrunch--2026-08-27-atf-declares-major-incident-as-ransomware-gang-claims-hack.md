@@ -1,12 +1,11 @@
 ---
-title: ATF declares 'major incident' as ransomware gang claims hack
+title: ATF declares 'major incident' as ransomware gang claims hack | TechCrunch
 source_url: https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T22:13:35Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  The ATF is the latest federal government agency in recent years to notify
+scraped_at: '2026-08-27T22:13:35Z'
+published: '2026-08-27T00:00:00Z'
+description: The ATF is the latest federal government agency in recent years to notify
   Congress of a "major incident" involving its cybersecurity.
 image: https://techcrunch.com/wp-content/uploads/2026/08/atf-police-1233760688.jpg?w=1024
 ---

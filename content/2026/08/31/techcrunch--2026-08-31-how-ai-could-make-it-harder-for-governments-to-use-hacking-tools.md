@@ -1,12 +1,11 @@
 ---
-title: How AI could make it harder for governments to use hacking tools
+title: How AI could make it harder for governments to use hacking tools | TechCrunch
 source_url: https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-31T16:08:26Z"
-published: "2026-08-31T00:00:00Z"
-description:
-  AI is proving effective at finding and exploiting vulnerabilities. Some
+scraped_at: '2026-08-31T16:08:26Z'
+published: '2026-08-31T00:00:00Z'
+description: AI is proving effective at finding and exploiting vulnerabilities. Some
   say this will make it harder for governments to use hacking tools and spyware and
   could reignite calls to backdoor devices.
 image: https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675

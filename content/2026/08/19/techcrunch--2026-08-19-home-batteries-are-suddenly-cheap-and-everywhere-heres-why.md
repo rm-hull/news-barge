@@ -1,12 +1,11 @@
 ---
-title: Home batteries are suddenly cheap and everywhere. Here’s why.
+title: Home batteries are suddenly cheap and everywhere. Here’s why. | TechCrunch
 source_url: https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-19T21:31:52Z"
-published: "2026-08-19T00:00:00Z"
-description:
-  Companies including Tesla and Base Power are vying for a piece of the
+scraped_at: '2026-08-19T21:31:52Z'
+published: '2026-08-19T00:00:00Z'
+description: Companies including Tesla and Base Power are vying for a piece of the
   rapidly growing market for home batteries. One technology has made it all possible.
 image: https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901
 ---

@@ -1,12 +1,11 @@
 ---
-title: OpenAI to start showing ads on ChatGPT's free and Go tiers in India
+title: OpenAI to start showing ads on ChatGPT's free and Go tiers in India | TechCrunch
 source_url: https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-27T12:01:44Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  OpenAI has more than 100 million weekly active ChatGPT users in India,
+scraped_at: '2026-08-27T12:01:44Z'
+published: '2026-08-27T00:00:00Z'
+description: OpenAI has more than 100 million weekly active ChatGPT users in India,
   a huge chunk of whom are on the free or the lower-priced Go tiers.
 image: https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800
 ---

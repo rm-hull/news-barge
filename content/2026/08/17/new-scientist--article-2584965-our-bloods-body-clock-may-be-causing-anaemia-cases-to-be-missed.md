@@ -1,12 +1,11 @@
 ---
-title: Our blood's body clock may be causing anaemia cases to be missed
+title: Our blood's body clock may be causing anaemia cases to be missed | New Scientist
 source_url: https://www.newscientist.com/article/2584965-our-bloods-body-clock-may-be-causing-anaemia-cases-to-be-missed/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T13:01:40Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  Blood tests may give different results depending on when in the day,
+scraped_at: '2026-08-17T13:01:40Z'
+published: '2026-08-17T00:00:00Z'
+description: Blood tests may give different results depending on when in the day,
   or the year, they are taken, which could result in people missing out on an anaemia
   diagnosis
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308295201.jpg
@@ -36,7 +35,7 @@ The age finding fits with what we already know about how our circadian rhythm ch
 
 For instance, teenagers and young adults are generally more like night owls and become more lark-like as they get older, says Martino. The sex differences could partly reflect the influence of sex hormones, she says, but the study didn’t look into this.
 
-![Team of EMS Paramedics React Quick to Provide Medical Help to Injured Patient and Get Him in Ambulance on a Stretcher. Emergency Care Assistants Arrived on the Scene of a Traffic Accident on a Street.](https://www.newscientist.com/wp-content/uploads/2025/07/29150910/SEI_260420264.jpg?w=900&h=600&crop=1)
+![Team of EMS Paramedics React Quick to Provide Medical Help to Injured Patient and Get Him in Ambulance on a Stretcher. Emergency Care Assistants Arrived on the Scene of a Traffic Accident on a Street.](https://www.newscientist.com/wp-content/uploads/2025/07/29150910/SEI_260420264.jpg?w=900&h=600&crop=1) 
 
 New tests to gauge an individual’s circadian rhythms could be put to good use helping night workers fend off the ill effects of their unsocial hours
 

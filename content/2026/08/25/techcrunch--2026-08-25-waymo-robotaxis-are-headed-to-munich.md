@@ -1,12 +1,11 @@
 ---
-title: Waymo robotaxis are headed to Munich
+title: Waymo robotaxis are headed to Munich | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T20:40:58Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  Germany's autonomous vehicle regulations have made it a hotspot for autonomous
+scraped_at: '2026-08-25T20:40:58Z'
+published: '2026-08-25T00:00:00Z'
+description: Germany's autonomous vehicle regulations have made it a hotspot for autonomous
   vehicle testing and eventual commercial robotaxi deployment.
 image: https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800
 ---

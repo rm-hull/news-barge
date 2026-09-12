@@ -1,12 +1,11 @@
 ---
-title: We should decide how AI shapes the future, not tech firms
+title: We should decide how AI shapes the future, not tech firms | New Scientist
 source_url: https://www.newscientist.com/article/2584064-we-should-decide-how-ai-shapes-the-future-not-tech-firms/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-12T17:07:57Z"
-published: "2026-08-12T00:00:00Z"
-description:
-  OpenAI and its competitors want to dictate the role that artificial intelligence
+scraped_at: '2026-08-12T17:07:57Z'
+published: '2026-08-12T00:00:00Z'
+description: OpenAI and its competitors want to dictate the role that artificial intelligence
   will play in our society – it's time to take back control of the narrative
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307632363.jpg
 ---
@@ -24,6 +23,7 @@ Advertisement
 In subsequent weeks, other AI firms including Anthropic and Meta have made similar disclosures, suggesting such incidents are widespread across the industry. As the tech firms tell it, these are accidents, and they are now cleaning up their mess. But why are we allowing them to write the story?
 
 AI models are building the future, but that doesn’t mean the rest of us must idly stand by
+
 
 If a human employee of these companies had hacked another organisation, we would expect a criminal investigation. Uncertainty about the autonomy of AI models, fuelled by the AI firms themselves, seems to have avoided legal consequences thus far. If society was less willing to buy the AI narrative, the outcome could be very different.
 

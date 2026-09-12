@@ -1,12 +1,11 @@
 ---
-title: THC in cannabis may reduce nightmares in people with PTSD
+title: THC in cannabis may reduce nightmares in people with PTSD | New Scientist
 source_url: https://www.newscientist.com/article/2584744-thc-in-cannabis-may-reduce-nightmares-in-people-with-ptsd/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-14T17:05:30Z"
-published: "2026-08-14T00:00:00Z"
-description:
-  A drug made up of THC, the main psychoactive component of cannabis, reduced
+scraped_at: '2026-08-14T17:05:30Z'
+published: '2026-08-14T00:00:00Z'
+description: A drug made up of THC, the main psychoactive component of cannabis, reduced
   the severity and incidence of nightmares in people with PTSD
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308173108.jpg
 ---
@@ -35,7 +34,7 @@ THC’s psychoactive effects meant that around 4 in 5 of the participants who to
 
 One idea is that THC alters signalling in the brain’s endocannabinoid system. This helps regulate processes including sleep and how brain cells communicate, which could lead to fewer nightmares. It may also suppress the rapid eye movement (REM) stage of sleep, when most vivid dreaming occurs, although studies on this have produced mixed results.
 
-![](https://www.newscientist.com/wp-content/uploads/2025/08/11170537/SEI_261839950.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2025/08/11170537/SEI_261839950.jpg?w=900&h=600&crop=1) 
 
 In people with traumatic brain injury, administering the psychedelic drug ibogaine seems to slow down brainwaves, which may explain why it helps treat PTSD
 

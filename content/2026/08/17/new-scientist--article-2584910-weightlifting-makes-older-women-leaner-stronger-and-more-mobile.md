@@ -1,12 +1,11 @@
 ---
-title: Weightlifting makes older women leaner, stronger and more mobile
+title: Weightlifting makes older women leaner, stronger and more mobile | New Scientist
 source_url: https://www.newscientist.com/article/2584910-weightlifting-makes-older-women-leaner-stronger-and-more-mobile/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T13:02:21Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  Lifting at least 50 kilograms twice a week improved older women's muscle
+scraped_at: '2026-08-17T13:02:21Z'
+published: '2026-08-17T00:00:00Z'
+description: Lifting at least 50 kilograms twice a week improved older women's muscle
   mass, mobility and balance
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308638138.jpg
 ---
@@ -31,7 +30,7 @@ By the end, the women also wobbled less while standing with their eyes closed an
 
 Having better strength, balance and mobility makes it easier to perform everyday movements, like getting in and out of a car and lifting oneself off the toilet, says Burton, who has researched other strength-training programmes for older adults. “We’ve had women come in using a walking stick, and by the end of the programme, they no longer need it,” she says. “We also had a woman with fibromyalgia [a long-term condition that causes pain all over the body], and after a 12-week strength training programme, she said it was the first time she could do things without pain.”
 
-![](https://www.newscientist.com/wp-content/uploads/2026/03/19212118/SEI_290076825.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/03/19212118/SEI_290076825.jpg?w=900&h=600&crop=1) 
 
 We know that a person’s outlook can have a huge effect on their health, and it’s no different when it comes to ageing. Columnist Graham Lawton looks at new evidence of just how powerful our attitude is – and how to use it to age better
 

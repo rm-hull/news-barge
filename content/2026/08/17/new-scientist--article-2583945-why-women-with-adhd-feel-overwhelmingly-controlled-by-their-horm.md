@@ -1,13 +1,12 @@
 ---
-title: Why women with ADHD feel overwhelmingly 'controlled' by their hormones
+title: Why women with ADHD feel overwhelmingly 'controlled' by their hormones | New
   Scientist
 source_url: https://www.newscientist.com/article/2583945-why-women-with-adhd-feel-overwhelmingly-controlled-by-their-hormones/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-17T16:40:59Z"
-published: "2026-08-17T00:00:00Z"
-description:
-  People with ADHD are unusually sensitive to hormone shifts. Psychiatrists
+scraped_at: '2026-08-17T16:40:59Z'
+published: '2026-08-17T00:00:00Z'
+description: People with ADHD are unusually sensitive to hormone shifts. Psychiatrists
   have started to pay attention, creating strategies to address the intense emotions
   and cognitive challenges caused by these changes
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308278702.jpg
@@ -41,7 +40,7 @@ But while the pressure to hide socially unacceptable ADHD traits is real, there 
 
 Kooij was intrigued, so she designed a study, published in 2021, evaluating the experiences of 200 women with ADHD. Questionnaires measured their symptoms through the menstrual cycle and post-pregnancy, with the results confirming that they did seem to be unusually sensitive to hormonal fluctuations. Almost half the participants met the criteria for premenstrual dysphoric disorder, which can be debilitating and is estimated to affect 3 to 8 per cent of the female population. What’s more, almost 60 per cent of the women in the study who had given birth experienced postpartum depression, more than double the proportion in the overall population. This chimes with other research suggesting that women with ADHD have a significantly higher risk of developing depression while on hormonal contraception. Together, these findings indicate that women with ADHD have unusually strong emotional reactions to hormonal fluctuations.
 
-![A group of teen girls and their coach in a huddle, discussing game play](https://www.newscientist.com/wp-content/uploads/2025/03/31111758/SEI_245100108.jpg?w=900&h=600&crop=1)
+![A group of teen girls and their coach in a huddle, discussing game play](https://www.newscientist.com/wp-content/uploads/2025/03/31111758/SEI_245100108.jpg?w=900&h=600&crop=1) 
 
 By studying the brains of autistic girls, we now know the condition presents differently in them than in boys, suggesting that huge numbers of women have gone undiagnosed
 
@@ -67,7 +66,7 @@ This range of evidence has established a clear connection between ADHD and hormo
 
 Fortunately, there is already at least two decades’ worth of evidence, first from studies in rats, and more recently in humans, to explain why this matters for brain function. Alongside its role as a reproductive hormone, oestrogen plays several important roles in the brain, activating pathways that protect existing neural connections and support the formation of new ones. Oestrogen also supports cell energy release while reducing oxidative stress, and is tied to progesterone, which helps maintain brain connections. Research from 2018 suggests the benefits of progesterone are evident only if they follow a surge in oestrogen. “You have to prime the brain with oestrogen before progesterone,” says Juan Pablo Del Rio, a psychiatrist at the University of Chile in Santiago, who conducted the study.
 
-![](https://www.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2026/06/18103936/SEI_3018099901.jpg?w=900&h=600&crop=1) 
 
 The brain undergoes a full renovation during menopause. Although these changes are profound, we’re learning that the long-term impact needn’t be all bad
 
@@ -91,7 +90,7 @@ Kooij stresses that all nine women were closely monitored by their prescribing p
 
 For now, those at the forefront of research agree that increasing awareness of the hormone-ADHD link is a priority. Doing so influences treatment options and hands a little power back to women who feel like they are living at the mercy of their own hormones. Understanding why motivation and focus vary from week to week could make it easier for those affected to plan their workload and self-care practices more effectively – perhaps even scheduling therapy for a week where changes are more likely to stick, Martel suggests.
 
-![](https://www.newscientist.com/wp-content/uploads/2025/09/02193804/SEI_263948120.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2025/09/02193804/SEI_263948120.jpg?w=900&h=600&crop=1) 
 
 For women going through perimenopause, there is no shortage of advice on how to deal with the symptoms – but which strategies show real results, and which are social media hype?
 

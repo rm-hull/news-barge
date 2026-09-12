@@ -1,13 +1,12 @@
 ---
-title: "Definitely no or maybe yes: what tipped the Icelandic referendum
-  Bryant"
+title: 'Definitely no or maybe yes: what tipped the Icelandic referendum | Miranda
+  Bryant'
 source_url: https://www.theguardian.com/world/2026/aug/30/definitely-no-or-maybe-yes-what-tipped-the-icelandic-referendum
 source_site: The Guardian
 source_slug: guardian
-scraped_at: "2026-08-30T13:47:09Z"
-published: "2026-08-30T00:00:00Z"
-description:
-  The no campaign was well-funded and accused of scaremongering, but the
+scraped_at: '2026-08-30T13:47:09Z'
+published: '2026-08-30T00:00:00Z'
+description: The no campaign was well-funded and accused of scaremongering, but the
   wording of the question may also have made a difference
 image: https://i.guim.co.uk/img/media/d9543fc38639f7f029358cc034406c5d578ad86b/724_0_6616_5293/master/6616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7d210b0411faf11edc96a7526a5d87c
 ---
@@ -22,7 +21,7 @@ But it was perhaps also the question on the ballot paper that, despite the allur
 
 The question Icelanders were asked was “Should Iceland resume accession negotiations with the European Union?”. A second referendum was to be held once a deal had been reached. Iceland, it is important to note, is already a member of the European Economic Area (EEA) and the Schengen passport-free travel area.
 
-This meant that a vote yes would have actually been a “yes, maybe”, whereas a no vote was always a clearer, more decisive move. One of the “yes, maybe” campaign’s slogans was “Já til að sjá” (“yes to see”), which felt vague in comparison to the bullish claims of the no campaign. Among the “no” campaign’s claims were that the EU would act as a “new superpower” over Iceland and that it could turn the country into a “quota-free fishing village” where foreign companies could invest in Iceland’s prized and highly valuable fishing industry, putting fishing rights and profits in the hands of external parties.
+This meant that a vote yes would have actually been a “yes, maybe”, whereas a no vote was always a clearer, more decisive move. One of the “yes, maybe” campaign’s slogans was “Já til að sjá” (“yes to see”), which felt vague in comparison to the bullish claims of the no campaign. Among the “no” campaign’s claims were that the EU would act as a “new superpower” over Iceland and that it could turn the country into a “quota-free fishing village” where foreign companies could invest in Iceland’s prized and highly valuable fishing industry, putting fishing rights and profits in the hands of external parties. 
 
 At a yes campaign party at Reykjavík Art Museum in the Icelandic capital’s downtown area, at a point in the election night where yes seemed to have edged ahead, Þòrir Snoor, a yes supporter, said: “The no side has done a lot of fearmongering and done it very very well.”
 

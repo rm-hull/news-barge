@@ -1,13 +1,12 @@
 ---
-title: Stunning image of a polar bear with an outsized snack wins major award
+title: Stunning image of a polar bear with an outsized snack wins major award | New
   Scientist
 source_url: https://www.newscientist.com/article/2584937-stunning-image-of-a-polar-bear-with-an-outsized-snack-wins-major-award/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-19T21:32:42Z"
-published: "2026-08-19T00:00:00Z"
-description:
-  Roie Galitz's breathtaking shot is one of the winners of the 2026 World
+scraped_at: '2026-08-19T21:32:42Z'
+published: '2026-08-19T00:00:00Z'
+description: Roie Galitz's breathtaking shot is one of the winners of the 2026 World
   Press Photo Contest, praised for its unusual perspective and scale
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg
 ---
@@ -18,7 +17,7 @@ image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307517761.jpg
 
 Dwarfed by her dinner, a female polar bear feasts on the carcass of a sperm whale more than 100 times her mass, a deep-diving giant weighing more than 35 tonnes and usually found far below the ocean’s surface.
 
-This shot, _Polar Bear on Sperm Whale_, was captured by Roie Galitz, and is one of the winners of the 2026 World Press Photo Contest. The image was taken from a small boat, using a drone. “Its unusual perspective and scale provoke curiosity and wonder, turning the frame into a visual and conceptual study of nature,” said the competition’s jury in an announcement about Galitz’s win.
+This shot, *Polar Bear on Sperm Whale*, was captured by Roie Galitz, and is one of the winners of the 2026 World Press Photo Contest. The image was taken from a small boat, using a drone. “Its unusual perspective and scale provoke curiosity and wonder, turning the frame into a visual and conceptual study of nature,” said the competition’s jury in an announcement about Galitz’s win.
 
 Advertisement
 

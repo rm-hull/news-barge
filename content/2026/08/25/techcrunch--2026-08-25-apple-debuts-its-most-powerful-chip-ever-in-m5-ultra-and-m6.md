@@ -1,12 +1,11 @@
 ---
-title: Apple debuts its 'most powerful chip ever' in M5 Ultra and M6
+title: Apple debuts its 'most powerful chip ever' in M5 Ultra and M6 | TechCrunch
 source_url: https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-25T16:51:31Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  Apple unveils these new processors alongside an updated Mac Mini and
+scraped_at: '2026-08-25T16:51:31Z'
+published: '2026-08-25T00:00:00Z'
+description: Apple unveils these new processors alongside an updated Mac Mini and
   Mac Studio.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675
 ---

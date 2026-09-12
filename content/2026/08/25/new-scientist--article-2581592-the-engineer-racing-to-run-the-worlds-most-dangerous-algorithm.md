@@ -1,12 +1,11 @@
 ---
-title: The engineer racing to run the world’s most dangerous algorithm
+title: The engineer racing to run the world’s most dangerous algorithm | New Scientist
 source_url: https://www.newscientist.com/article/2581592-the-engineer-racing-to-run-the-worlds-most-dangerous-algorithm/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-25T16:50:34Z"
-published: "2026-08-25T00:00:00Z"
-description:
-  Craig Gidney is largely unknown outside of quantum computing, but his
+scraped_at: '2026-08-25T16:50:34Z'
+published: '2026-08-25T00:00:00Z'
+description: Craig Gidney is largely unknown outside of quantum computing, but his
   pioneering work on quantum circuits could have huge consequences for us all, ushering
   in both useful quantum computers, and the end of digital privacy and security as
   we know it

@@ -1,12 +1,11 @@
 ---
-title: Nvidia partners with data center developer Cloverleaf
+title: Nvidia partners with data center developer Cloverleaf | TechCrunch
 source_url: https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-22T01:47:34Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  Nvidia continues to pour money into data center development — just as
+scraped_at: '2026-08-22T01:47:34Z'
+published: '2026-08-21T00:00:00Z'
+description: Nvidia continues to pour money into data center development — just as
   AI data centers bring lots of money into Nvidia.
 image: https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750
 ---

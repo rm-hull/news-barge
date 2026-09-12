@@ -1,12 +1,11 @@
 ---
-title: Ex-Meta scientists want to bring visual AI to the factory floor
+title: Ex-Meta scientists want to bring visual AI to the factory floor | TechCrunch
 source_url: https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-26T16:56:24Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Perceptron offers an AI model that it says can help machines navigate
+scraped_at: '2026-08-26T16:56:24Z'
+published: '2026-08-26T00:00:00Z'
+description: Perceptron offers an AI model that it says can help machines navigate
   the world while also providing in-depth visual intelligence.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800
 ---
@@ -43,4 +42,4 @@ Those industries include manufacturing, logistics and warehousing, security, mob
 
 “Nothing like this really exists out there,” said Aghajanyan. “We’re really excited about it.”
 
-_An earlier version of this story incorrectly reported recent funding round. It has been updated to correct this information._
+*An earlier version of this story incorrectly reported recent funding round. It has been updated to correct this information.*

@@ -1,13 +1,12 @@
 ---
-title: Richard Feynman’s 80-year-old quantum postulate has now been validated
+title: Richard Feynman’s 80-year-old quantum postulate has now been validated | New
   Scientist
 source_url: https://www.newscientist.com/article/2586608-richard-feynmans-80-year-old-quantum-postulate-has-now-been-validated/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T23:24:56Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Decades after it was posited as a foundational principle of quantum physics,
+scraped_at: '2026-08-26T23:24:56Z'
+published: '2026-08-26T00:00:00Z'
+description: Decades after it was posited as a foundational principle of quantum physics,
   Richard Feynman’s “path integral” has been directly measured in an experiment for
   the first time
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309575998.jpg
@@ -37,7 +36,7 @@ Specifically, they measured five propagators for a given photon across the exper
 
 He says that the experiment was very challenging because the sheer number of tested paths opened the door for errors and experimental noise, which could easily have accumulated and made the final result unintelligible.
 
-![](https://www.newscientist.com/wp-content/uploads/2025/10/30204834/SEI_270583733.jpg?w=900&h=600&crop=1)
+![](https://www.newscientist.com/wp-content/uploads/2025/10/30204834/SEI_270583733.jpg?w=900&h=600&crop=1) 
 
 The uncertainty inherent to quantum mechanics has long left physicists wondering whether the observations we make on the quantum level reflect reality – a new test suggests they do
 

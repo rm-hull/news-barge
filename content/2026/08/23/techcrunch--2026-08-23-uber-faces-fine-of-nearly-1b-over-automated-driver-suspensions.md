@@ -1,12 +1,11 @@
 ---
-title: Uber faces fine of nearly $1B over automated driver suspensions
+title: Uber faces fine of nearly $1B over automated driver suspensions | TechCrunch
 source_url: https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-23T20:35:09Z"
-published: "2026-08-23T00:00:00Z"
-description:
-  The Dutch Data Protection Authority is fining Uber €825 million in the
+scraped_at: '2026-08-23T20:35:09Z'
+published: '2026-08-23T00:00:00Z'
+description: The Dutch Data Protection Authority is fining Uber €825 million in the
   second largest penalty issued under Europe’s GDPR.
 image: https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800
 ---

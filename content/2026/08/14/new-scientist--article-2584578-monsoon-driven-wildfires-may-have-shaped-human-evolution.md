@@ -1,12 +1,11 @@
 ---
-title: Monsoon-driven wildfires may have shaped human evolution
+title: Monsoon-driven wildfires may have shaped human evolution | New Scientist
 source_url: https://www.newscientist.com/article/2584578-monsoon-driven-wildfires-may-have-shaped-human-evolution/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-14T09:17:17Z"
-published: "2026-08-14T00:00:00Z"
-description:
-  A reconstruction of East Africa's environment 1.75 million years ago
+scraped_at: '2026-08-14T09:17:17Z'
+published: '2026-08-14T00:00:00Z'
+description: A reconstruction of East Africa's environment 1.75 million years ago
   suggests wildfires spiked during wetter times, which may have influenced human evolution
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308061496.jpg
 ---
@@ -39,7 +38,7 @@ For instance, frequent natural fires would have increased hominin opportunities 
 
 “It is far easier to keep a fire going than it is to start one,” says Matt Grove, a study co-author at the University of Liverpool, UK. “In this way, hominins could have started to reap the benefits of fire long before they were able to create it.”
 
-![illustration of faces in the desert](https://www.newscientist.com/wp-content/uploads/2021/08/19153807/final-noman-web-crop2.jpg?w=900&h=600&crop=1)
+![illustration of faces in the desert](https://www.newscientist.com/wp-content/uploads/2021/08/19153807/final-noman-web-crop2.jpg?w=900&h=600&crop=1) 
 
 New evidence reveals that Arabia was not a mere stopover for ancestral humans leaving Africa, but a lush homeland where they flourished and evolved
 

@@ -1,12 +1,11 @@
 ---
-title: Doctors are finally learning to manage antidepressant withdrawal
+title: Doctors are finally learning to manage antidepressant withdrawal | New Scientist
 source_url: https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T16:56:43Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  Withdrawal symptoms following long-term SSRI use appear far more pervasive
+scraped_at: '2026-08-26T16:56:43Z'
+published: '2026-08-26T00:00:00Z'
+description: Withdrawal symptoms following long-term SSRI use appear far more pervasive
   and serious than previously realised. Now medical bodies are rethinking how and
   when to stop taking them
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg

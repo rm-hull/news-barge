@@ -1,13 +1,12 @@
 ---
-title: Are mushroom-growing kits seeding a biodiversity crisis across Europe?
+title: Are mushroom-growing kits seeding a biodiversity crisis across Europe? | New
   Scientist
 source_url: https://www.newscientist.com/article/2516432-are-mushroom-growing-kits-seeding-a-biodiversity-crisis-across-europe/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-26T16:57:20Z"
-published: "2026-08-26T00:00:00Z"
-description:
-  What began as a seemingly harmless and delicious hobby may have released
+scraped_at: '2026-08-26T16:57:20Z'
+published: '2026-08-26T00:00:00Z'
+description: What began as a seemingly harmless and delicious hobby may have released
   an invasive species across the continent. Experts fear that these desirable fungi,
   now classed in the UK as "high risk", could radically reshape forest ecosystems.
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_285964902.jpg
@@ -29,7 +28,7 @@ What’s more, there are signs that hobbyist breeding programmes may have superc
 
 ## Golden oyster mushrooms
 
-The golden oyster mushroom (_Pleurotus citrinopileatus_) is a prized edible mushroom, foraged from the wild in its native range of East Asia and eastern Russia. It is also cultivated across this region, where it is enjoyed in soups and stir-fries and has been recognised in modern research as having potential health benefits, including antioxidant properties.
+The golden oyster mushroom (*Pleurotus citrinopileatus*) is a prized edible mushroom, foraged from the wild in its native range of East Asia and eastern Russia. It is also cultivated across this region, where it is enjoyed in soups and stir-fries and has been recognised in modern research as having potential health benefits, including antioxidant properties.
 
 But in recent decades, golden oysters have also been widely cultivated in the US and elsewhere. In the early 2010s, the species escaped into the wild in the US, quickly expanding from these niche cultivations to a continent-scale invasion now spanning some 2 million square kilometres. The events that followed in North America suggest what might be in store for the UK, too. “We already have the evidence of what this species can do,” says Veerabahu. “If it has escaped and taken hold in the UK, I have no doubt that the same thing will follow.”
 
@@ -69,13 +68,13 @@ The risk assessment echoes this view, encouraging people to grow native species 
 
 ![Oyster mushroom (Pleurotus ostreatus), New Forest National Park, Hampshire, England, UK. October.](https://www.newscientist.com/wp-content/uploads/2026/03/02181511/SEI_285987007.jpg?w=840)
 
-_Pleurotus ostreatus,_ instead of golden oyster mushrooms
+*Pleurotus ostreatus,* instead of golden oyster mushrooms
 
-The golden oyster mushroom isn’t the only non-native fungus already being sold in mushroom-growing kits. For example, the pink oyster mushroom, _Pleurotus djamor_, is another fast-growing, selectively bred, non-native fungus that has been recorded in the wild in the UK on the citizen-science website iNaturalist. What sets the golden oyster apart is that its spread in the US has generated a body of research substantial enough to inform a formal risk assessment.
+The golden oyster mushroom isn’t the only non-native fungus already being sold in mushroom-growing kits. For example, the pink oyster mushroom, *Pleurotus djamor*, is another fast-growing, selectively bred, non-native fungus that has been recorded in the wild in the UK on the citizen-science website iNaturalist. What sets the golden oyster apart is that its spread in the US has generated a body of research substantial enough to inform a formal risk assessment.
 
-Even if the golden oyster mushroom’s spread is curbed, this isn’t the first, nor will it be the last, invasive fungus to cause harm. One notorious example is the death cap mushroom (_Amanita phalloides_), a highly toxic species that has spread into new regions around the world in recent decades. In places where it is non-native but now widespread, such as parts of California, poisonings have risen well above historical levels. “The invasive species story is a completely repeated pattern,” says Veerabahu. “We see it over and over again.”
+Even if the golden oyster mushroom’s spread is curbed, this isn’t the first, nor will it be the last, invasive fungus to cause harm. One notorious example is the death cap mushroom (*Amanita phalloides*), a highly toxic species that has spread into new regions around the world in recent decades. In places where it is non-native but now widespread, such as parts of California, poisonings have risen well above historical levels. “The invasive species story is a completely repeated pattern,” says Veerabahu. “We see it over and over again.”
 
-![Deadly poisonous white mushrooms (Amanita phalloides, death cap) grow in forest](https://www.newscientist.com/wp-content/uploads/2025/08/26144959/SEI_263391915.jpg?w=900&h=600&crop=1)
+![Deadly poisonous white mushrooms (Amanita phalloides, death cap) grow in forest](https://www.newscientist.com/wp-content/uploads/2025/08/26144959/SEI_263391915.jpg?w=900&h=600&crop=1) 
 
 Surprising discoveries about the species responsible for 90 per cent of mushroom-related deaths is revealing the fungi kingdom to be even stranger than we had thought
 

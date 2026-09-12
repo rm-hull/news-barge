@@ -1,12 +1,11 @@
 ---
-title: Bluesky says its recent outage was caused by another DDoS attack
+title: Bluesky says its recent outage was caused by another DDoS attack | TechCrunch
 source_url: https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-18T19:36:20Z"
-published: "2026-08-18T00:00:00Z"
-description:
-  This is the latest large-scale DDoS attack to hit the social networking
+scraped_at: '2026-08-18T19:36:20Z'
+published: '2026-08-18T00:00:00Z'
+description: This is the latest large-scale DDoS attack to hit the social networking
   site this year.
 image: https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024
 ---

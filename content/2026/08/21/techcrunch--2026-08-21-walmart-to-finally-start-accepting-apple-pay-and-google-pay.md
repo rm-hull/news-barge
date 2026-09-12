@@ -1,12 +1,11 @@
 ---
-title: Walmart to finally start accepting Apple Pay and Google Pay
+title: Walmart to finally start accepting Apple Pay and Google Pay | TechCrunch
 source_url: https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-21T16:47:21Z"
-published: "2026-08-21T00:00:00Z"
-description:
-  Are pigs flying? Walmart has finally caved on its refusal to support
+scraped_at: '2026-08-21T16:47:21Z'
+published: '2026-08-21T00:00:00Z'
+description: Are pigs flying? Walmart has finally caved on its refusal to support
   Apple Pay and Google Pay.
 image: https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_186861932.jpg?w=1000
 ---

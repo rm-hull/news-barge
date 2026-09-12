@@ -1,12 +1,11 @@
 ---
-title: Galapagos corals suggest climate change drives stronger El Niños
+title: Galapagos corals suggest climate change drives stronger El Niños | New Scientist
 source_url: https://www.newscientist.com/article/2586758-galapagos-corals-suggest-climate-change-drives-stronger-el-ninos/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-27T22:14:19Z"
-published: "2026-08-27T00:00:00Z"
-description:
-  Coral records from the Galapagos Islands indicate El Niños have been
+scraped_at: '2026-08-27T22:14:19Z'
+published: '2026-08-27T00:00:00Z'
+description: Coral records from the Galapagos Islands indicate El Niños have been
   gathering strength over the past 40 years, in line with rising global temperatures
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309669877.jpg
 ---
@@ -33,7 +32,7 @@ The team found that, over the past 40 years, variability in the ENSO cycle has i
 
 The corals collected by the team covered about half the 1000-year time period. Nevertheless, Cole is confident in the overall trend identified. “I think we show pretty clearly that the increase in variability in ENSO is tracking global temperature closely,” she says.
 
-![firefighters work to extinguish a land fire in South Sumatra, Indonesia](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg?crop=2px,0px,1348px,900px&resize=900,600)
+![firefighters work to extinguish a land fire in South Sumatra, Indonesia](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg?crop=2px,0px,1348px,900px&resize=900,600) 
 
 Intense fires are already burning in Indonesia, and there could be much worse to come as the Super El Niño ramps up
 

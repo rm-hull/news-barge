@@ -1,12 +1,11 @@
 ---
-title: Stripe didn't really buy OpenRouter because of the 'singularity'
+title: Stripe didn't really buy OpenRouter because of the 'singularity' | TechCrunch
 source_url: https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/
 source_site: TechCrunch
 source_slug: techcrunch
-scraped_at: "2026-08-20T01:47:53Z"
-published: "2026-08-19T00:00:00Z"
-description:
-  What does a payments giant want with a startup that routes prompts between
+scraped_at: '2026-08-20T01:47:53Z'
+published: '2026-08-19T00:00:00Z'
+description: What does a payments giant want with a startup that routes prompts between
   different AI models? Stripe says it's because of "the singularity" but it's really
   for a far more real and powerful reason.
 image: https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801

@@ -1,10 +1,10 @@
 ---
-title: From the mine to the grid
+title: From the mine to the grid | New Scientist
 source_url: https://www.newscientist.com/article/2581325-from-the-mine-to-the-grid/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS
 source_site: New Scientist
 source_slug: new-scientist
-scraped_at: "2026-08-13T02:40:17Z"
-published: "2026-08-12T00:00:00Z"
+scraped_at: '2026-08-13T02:40:17Z'
+published: '2026-08-12T00:00:00Z'
 description: How Komatsu machines help build Atlassian Williams F1 Team’s FW48
 image: https://www.newscientist.com/wp-content/uploads/2026/08/FW48-Challenger1.jpg
 ---
@@ -35,7 +35,7 @@ Together with the incredible people behind every operation, Komatsu machines ens
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/260119_Williams_F1_JAMES_TEAM_KIT_0066_HR_RGB_Estrella_resize-for-web.png?w=840)
 
-_“As a team, we never stop finding new ways to use materials, exploring different manufacturing methods to extract every last bit of performance. Komatsu is the same, and today they operate at the cutting edge of their industry.”_
+*“As a team, we never stop finding new ways to use materials, exploring different manufacturing methods to extract every last bit of performance. Komatsu is the same, and today they operate at the cutting edge of their industry.”*
 
 **James Vowles**
 
