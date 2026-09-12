@@ -218,6 +218,12 @@ export default function (eleventyConfig) {
       }
       return data.permalink;
     },
+    title: function (data) {
+      if (data.title && typeof data.title === 'string' && data.title.includes(' | ')) {
+        return data.title.split(' | ')[0].trim();
+      }
+      return data.title;
+    }
   });
 
   // Add last updated time
