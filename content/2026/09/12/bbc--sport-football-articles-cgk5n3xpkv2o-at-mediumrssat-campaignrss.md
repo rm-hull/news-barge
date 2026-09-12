@@ -1,0 +1,105 @@
+---
+title: 'Anthony Gordon: How Barcelona''s England winger hit ground running'
+source_url: https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-12T12:09:02Z'
+published: '2026-09-12T00:00:00Z'
+description: Anthony Gordon's £70m move to Barcelona was questioned by some - but
+  the England winger is already proving his worth for the free-scoring Spanish giants.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg
+---
+
+![Anthony Gordon, in Barcelona's blue-and-red training kit, sits on the bench during a match](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg)
+
+Anthony Gordon has called Barcelona "the biggest club on the planet" and said he had dreamed about playing for them as a child
+
+**Anthony Gordon has only played five matches for Barcelona since joining in May, but the England winger is making a big impression.**
+
+The former Newcastle United player has provided four assists already for the free-scoring Spanish giants.
+
+The 25-year-old is still hunting his first goal but has slotted seamlessly into Barcelona's attack - in the left-wing spot that was often filled by on-loan Marcus Rashford last term.
+
+And Gordon is not just making an impression on the pitch.
+
+He delivered his welcome speech in Spanish - a language he said he learned with the help of one of Newcastle's Spanish physios - before adding a couple of phrases in Catalan when speaking with fans.
+
+While there were some questions over the decision to pay £70m for Gordon, it is easy to see why Barcelona's supporters are already chanting his name.
+
+## From speculation to celebration
+
+When Gordon completed his move this summer to become only the second English player to join Barcelona on a permanent deal, after Gary Lineker in 1986, there was plenty of curiosity surrounding the transfer.
+
+It was a significant investment in a player who, despite enjoying an outstanding Champions League campaign, had been inconsistent in the Premier League and posted relatively modest numbers.
+
+Newcastle finished 12th in the league, while Gordon managed six league goals and two assists in 26 appearances - with three goals coming from the penalty spot.
+
+Naturally, that raised questions about whether he could slot straight into Barcelona's starting XI.
+
+Just a few months earlier, Gordon had been given a glimpse of exactly what playing at the Nou Camp would feel like when Newcastle travelled to Barcelona for the second leg of their Champions League last-16 tie.
+
+The Magpies were beaten 7-2 on the night - losing 8-3 on aggregate - but for Gordon, there was something significant about being in Barcelona and the occasion offered a taste of the stadium he would ultimately find himself calling home.
+
+His European record also told a very different story to his domestic campaign.
+
+Gordon netted 10 goals in 12 Champions League appearances, consistently raising his level against the best teams in Europe.
+
+Only Real Madrid forward Kylian Mbappe (15) and Bayern Munich striker Harry Kane (14) scored more than Gordon in the Champions League last season.
+
+## Fitting in immediately
+
+The Englishman has hit the ground running in Spain and become an influential presence in Hansi Flick's Barcelona attack.
+
+Gordon's pace and directness are well suited to Barcelona's attack.
+
+"Our idea of play is much more linked to Anthony's," Barcelona sporting director Deco replied when asked why they had chosen Gordon over Rashford.
+
+"His style fits with what the coach is looking for."
+
+And it seems Gordon has settled in very quickly.
+
+"I feel at home already," Gordon said. "The city is amazing. The guys have made me feel so welcome. I think I will get better and better the longer I'm here."
+
+Playing primarily from the left, he has given Flick another way of hurting opponents.
+
+His ability to attack space stretches the defence, while his movement without the ball creates opportunities for team-mates.
+
+That has been particularly noticeable alongside Lamine Yamal and Raphinha.
+
+Barcelona boss Flick said: "I think as a striker, from his side, you want to score goals. He has had some chances and he missed them.
+
+"But he has made the final pass to prepare the goals and this is also very important."
+
+Gordon produced two assists in the space of four minutes against Elche in his debut league game.
+
+He went one-on-one with the Elche keeper and had the opportunity to score a debut goal.
+
+However, Gordon chose to square the ball across the face of goal for Fermin Lopez, who made no mistake from close range.
+
+That moment revealed plenty about Gordon's mentality to supporters. Rather than chasing the glory of a debut goal, he prioritised the better option for the team.
+
+"You always want to win but it's always about the team first," Gordon said after the match. "Especially at this club."
+
+For Barcelona supporters, it was another indication they had signed a player who is not simply interested in making an individual impact, but in doing whatever it takes to help the team succeed.
+
+## Barca's 22 goals in five games
+
+Flick's side have exploded out of the blocks this season, scoring 22 goals across their first five games while conceding only three.
+
+It is the club's most prolific start since Flick took charge in May 2024.
+
+Goals have come from all over the pitch, with Raphinha (eight) and Lamine Yamal (five) leading the way.
+
+But Gordon's qualities have proved particularly valuable, with his ability to make aggressive runs and press from the front fitting naturally into Flick's system.
+
+He can stay wide and isolate a full-back, attack the space behind a defence or drift inside and combine with Barcelona's other forwards.
+
+And when the ball is lost, his willingness to immediately press helps Barcelona when they are out of possession.
+
+It would be premature to suggest Gordon has answered every question after only a handful of games.
+
+Maintaining this level of performance and intensity over an entire season will also be a challenge.
+
+But that is a very different conversation from the one surrounding him before his move.
+
+Instead of asking whether he belongs at Barcelona, people are now discussing just how important he could become.

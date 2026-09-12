@@ -1,0 +1,43 @@
+---
+title: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere
+source_url: https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-09-12T12:09:21Z'
+published: '2026-09-12T00:00:00Z'
+description: 'Plus: The US disrupts the internet’s biggest black market, a Conti ransomware
+  hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.'
+image: https://media.wired.com/photos/6aa46eadc13527261cbf310c/191:100/w_1280,c_limit/SecurityRoundUp_From%20State-Sponsored%20Hacking%20to%20Bioweapons,%20Claude%20Abuse%20is%20Now%20Everywhere_v1.jpg
+---
+
+*Editor’s note: After more than a decade, this is the last* WIRED*Security News This Week. “The roundup,” as we call it internally, started as a way to ensure that our readers knew about the latest key cybersecurity and privacy news even if we didn’t write about it ourselves. It was a simple way to highlight our own work and the wealth of other great journalism and research published in this realm every week.*
+
+*Over the years, the roundup has developed a devoted following, and some editions have even become viral hits—which is honestly weird, but the cybersecurity community is great and weird, so it feels right. Rest assured that something new and exciting is coming in the roundup’s place, so stay tuned for that! For now, as always, stay safe out there.*
+
+Meta failed to catch roughly 350 AI child abuse ads, according to new research this week, including some that included images of real kids. In one case, a child depicted in an ad was a member of a European royal family. Lawmakers have said they intend to investigate, and the San Francisco City Attorney’s Office ordered the company this week to stop “allowing” AI child abuse ads.
+
+In other Meta news, the company announced a new personal AI agent this week that can book your plane tickets or sell your car, but it emphasized heavy investment in security and privacy features, seemingly anticipating mistrust from consumers. In this vein, the company was hit with a proposed class action lawsuit this week over alleged illegal harvesting of Facebook and Instagram photos for training AI and face-recognition systems.
+
+Clearview AI is testing a previously unreported prototype AI tool known as InquiryIQ that would help law enforcement find a target’s associates, social media accounts, and other personal information. And Apple announced a set of new “audio intelligence” features for its Apple Watch Series 12 and Ultra 4 devices this week that involve processing audio in a user’s environment. The company extensively emphasized the security and privacy protections built into the features, perhaps anticipating that they could come across as, well, creepy.
+
+The US and Mexico have a new joint operation to detect, track, and take down drones at the border using laser tech. And there’s a new *GTA V* mod that lets you make (in-game) money destroying (in-game) Flock license plate recognition cameras.
+
+But wait, there’s more! Here’s the security and privacy news we didn’t cover in depth ourselves this week. Click the headlines to read the full stories.
+
+Anthropic has been perhaps more vocal than any other AI company about the ways in which its tools are prone to misuse. It published some of the first reports of its AI service Claude being used in cybercriminal hacking operations and the discovery that its AI agents had, like those of its competitor OpenAI, escaped their sandbox and autonomously breached the networks of several organizations as part of their attempts to fulfill their users’ commands.
+
+This week, the company released a new overarching report on how Claude has been abused over the last eight months, and the results are staggering in their breadth—if, perhaps, inevitable in a world where AI is simply used as a productivity shortcut for just about everything. In case study after case study, the company documents how Claude was exploited for state-sponsored and cybercriminal hacking, disinformation campaigns and influence operations, and even attempted development of bioweapons. In all of these cases, Anthropic says that it disrupted the activity in progress.
+
+In one case, a group of Russian state-sponsored hackers identified by Microsoft as Midnight Blizzard used Claude for reconnaissance, breaching targets that included Ukrainian and other European government networks, and stole data and maintained access. Cybercriminal group ShinyHunters used Claude in practically every stage of its hacking and extortion campaigns. Disinformation campaigns focusing on politics everywhere from Kenya to Bangladesh used the tool. And perhaps most disturbingly, in a handful of cases, Anthropic discovered what appeared to be users of its tools attempting to develop potential bioweapons like disease pathogens and toxins.
+
+While Anthropic touts its success in the report in heading off these threats—while implicitly humblebragging at the power of its tools—the effect of the case studies is more unnerving than reassuring. After all, there’s no guarantee Anthropic has spotted every malevolent use of its AI. Factor in its competitors and less safeguarded open-source AI tools, and the report reads like less of a victory lap for AI’s guardrails than a preview of AI-enabled chaos to come.
+
+Xinbi Guarantee, over its four-year lifespan, grew into the biggest illicit marketplace on the internet. It carried out an estimated $30 billion–plus in sales, most of which took the form of money laundering for “pig butchering” crypto scam operations—largely based in Southeast Asia—but which also included sex trafficking and harassment for hire. All of it thrived on the Telegram messaging service, which shut down Xinbi a year ago only for it to rebuild and eventually grow larger than ever. This week, finally, the US government stepped in to do what Telegram did not, seizing the Xinbi’s channels on Telegram’s platform and sanctioning the market. The Justice Department simultaneously announced raids on 13 scam compounds in Madagascar—a sign that Western law enforcement is beginning to take seriously the epidemic of forced labor crypto scamming, but also evidence of how widely the operations have spread.
+
+The ransomware gang Conti was, until it officially disbanded in 2022, one of the most dangerous hacker crews in the world. According to US law enforcement, it hit more than a thousand victims, extorting millions and at one point disrupting government systems in Costa Rica so completely that it triggered a state of emergency. Now one member of that group is facing justice: 44-year-old Ukrainian Oleksii Oleksiyovych Lytvynenko was sentenced to four years in prison this week, in a rare example of a ransomware actor who will see the inside of a US prison.
+
+Facebook is hosting a large network of accounts uploading AI-generated videos that depict violence against children, according to Futurism, which spent days cataloging the material and kept finding more than it could count. The clips show young children being beaten, burned, confined, and starved. Many attract thousands of reactions from users who appear to think the footage is real. Futurism said it found most of the accounts by opening one and then following Facebook’s recommendation feed, which supplied a continuous stream of similar videos—a sign Meta’s own systems can already identify the category of content the company says it bans.
+
+Futurism reported eight of the accounts through the standard user channel. Meta removed two, one of them after first rejecting the report. Several decisions took more than a week. The company deleted most of the videos sent to its press office, but initially left others up, including one showing a child locked in a freezer.
+
+In addition to blanket bans on child sexual abuse material, Meta’s written policy bars depictions of nonsexual child abuse whether real or synthetic, with exceptions for art, cartoons, movies, and games. It does not say whether AI-generated video falls under those exceptions. In a statement, Meta told the reporters that some flagged links did not break its rules and asked them not to write otherwise.
