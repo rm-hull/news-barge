@@ -3,7 +3,9 @@
   {% set url = article.url or url %}
   <div class="article-card-thumbnail">
     {% if data.image %}
-      <img src="{{ data.image }}" alt="{{ data.title }}" loading="lazy">
+      <a href="{{ url }}">
+        <img src="{{ data.image }}" alt="{{ data.title }}" loading="lazy">
+      </a>
     {% endif %}
   </div>
   <div class="article-card-content">

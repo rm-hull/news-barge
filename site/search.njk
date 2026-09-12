@@ -14,7 +14,9 @@ permalink: /search/
       <li class="article-card">
         <div class="article-card-thumbnail">
           {{#if meta.thumbnail}}
-            <img src="{{ meta.thumbnail }}" loading="lazy">
+            <a href="{{ url | safeUrl }}">
+              <img src="{{ meta.thumbnail }}" loading="lazy">
+            </a>
           {{/if}}
         </div>
         <div class="article-card-content">
