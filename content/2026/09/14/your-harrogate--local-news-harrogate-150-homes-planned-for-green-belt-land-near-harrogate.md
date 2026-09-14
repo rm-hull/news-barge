@@ -1,0 +1,47 @@
+---
+title: 150 homes planned for green belt land near Harrogate
+source_url: https://www.yourharrogate.co.uk/local-news/harrogate/150-homes-planned-for-green-belt-land-near-harrogate/
+source_site: Your Harrogate
+source_slug: your-harrogate
+scraped_at: '2026-09-14T15:00:48Z'
+published: '2026-09-14T00:00:00Z'
+description: Plans for up to 150 new homes in green belt land near Harrogate would
+  help address a severe shortage of housing in the area, according to the developer
+  behind the scheme.
+image: https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg
+---
+
+![](https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg) 
+
+Plans for up to 150 new homes in green belt land near Harrogate would help address a severe shortage of housing in the area, according to the developer behind the scheme.
+
+Forward Investments LLP has submitted an outline application for land south of Smithy Close and west of Thirkhill Drive and the A61 in Pannal.
+
+The 7.93-hectare site includes three agricultural fields as well as an existing recreation ground containing two playing fields, a car park and play area.
+
+The developer describes the proposals as the third phase of development around the former Dunlopillo site, following earlier housing, a care home and commercial development.
+
+Up to 150 properties could be built alongside new public open space, ecological habitat and landscaping.
+
+A planning statement submitted with the application says the former Harrogate district currently has just 2.2 years of deliverable housing land, compared with the five-year supply required by national planning policy.
+
+It calculates that 5,492 homes are required over five years, including the relevant buffer, while the latest available figures identify a deliverable supply of 3,111 properties.
+
+![](https://mmo.aiircdn.com/409/6aa7e13f4babd84d6de.jpg)
+
+
+The developer describes the situation as a “severe level of under supply”.
+
+The undeveloped part of the site is within the green belt and the site is outside Pannal’s development limits.
+
+However, the applicant argues that the land meets the Government’s definition of “grey belt” because it does not strongly contribute to several of the purposes of the green belt.
+
+The application proposes 50 per cent affordable housing, above the 40 per cent normally required for greenfield sites, to comply with national planning policy’s “golden rules” for green belt development.
+
+Almost half of the site — around 3.7 hectares — would be green infrastructure, including an enhanced community park, an enlarged play area, new paths, planting and green corridors.
+
+Vehicle access would be from Thirkhill Drive, while new pedestrian and cycle links are proposed. The developer highlights that Pannal railway station would be within an 800-metre walk of all the new homes.
+
+Its transport assessment concludes the development would not have a “severe” impact on the highway network.
+
+The application has been submitted to North Yorkshire Council.

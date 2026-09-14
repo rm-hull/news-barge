@@ -1,0 +1,134 @@
+---
+title: US environment agency reportedly set to scrap power-plant pollution limits
+  – live
+source_url: https://www.theguardian.com/us-news/live/2026/sep/14/donald-trump-mail-in-voting-supreme-court-blocked-ukraine-oil-diplomat-latest-news-updates
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-14T15:01:03Z'
+published: '2026-09-14T00:00:00Z'
+description: The Environmental Protection Agency also plans rule repealing federal
+  finding that greenhouse gases from power plants specifically pose a threat
+image: https://i.guim.co.uk/img/media/d8a0602d001fe27589a958c1ef430867291db5fd/465_180_2454_1964/master/2454.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=932cc3dd3ac34baef2e1653500a9554b
+---
+
+EPA set to scrap power-plant pollution limits - reports
+
+The Environmental Protection Agency (EPA) is expected to repeal carbon pollution limits for coal- and gas-fired power plants, according to several outlets.
+
+According to Bloomberg News, citing unnamed officials familiar with the matter, the EPA also plans to propose a separate rule repealing the federal finding that greenhouse gases from power plants specifically pose a threat.
+
+The new measure is likely to be met with legal challenges from environmental groups. But, as the New York Times notes, if the move survives these battles, it could also prevent future administrations from regulating greenhouse gas emissions from power plants.
+
+Trump claims 'sick conspiracy' over calls for more guardrails on AI companies
+
+Donald Trump has claimed there is a “SICK conspiracy” against artificial intelligence and data centers in response to the growing calls for greater checks on AI development.
+
+“The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!” Trump wrote on Truth Social, insisting that the administration has stopped leaders of AI companies from “doing bad, or potentially bad” things. However, he didn’t point to any concrete examples for how he has curbed possible abuse or malfeasance in the industry.
+
+The president said over the weekend that the AI arms race is of the upmost importance to the US national security. “Whoever wins AI wins,” he told reporters on a visit to Ireland, before repeating it on social media today. Trump also chided Dario Amodei, CEO of Anthropic, who we noted earlier has called slow down AI’s advancement to ensure public safety. This comes after company whistleblowers claimed that the technology has the potential to “kill all of humanity” within the decade.
+
+Trump accused Amodei of “now pretending to be a ‘perfect little angel’”, and claimed that the administration has “tremendous CRIMINAL and REGULATORY power over these companies”.
+
+The president added:
+
+There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China … We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE!
+
+As he returned from Ireland, Trump took some time on Truth Social to shout out the work being done on the White House facade – part of his ongoing obsession with renovating the residence.
+
+“The White House was in very bad condition, both inside and out,” Trump wrote on social media. “Frankly, it was a ‘dump’ Past Presidents did not take care of it. I love renovating it during my spare time, which is not much.”
+
+The president said that the exterior “skin” of the White House was “practically falling off” but is now “in better shape than when built in 1792”.
+
+Trump also shared the first renderings of the new ballroom that was mired in legal challenges until the supreme court recently ruled could go ahead.
+
+Johnson says Congress should not be in charge of AI guardrails, insists its tech companies responsibilities
+
+During an interview with CNN on Sunday, Mike Johnson also said that it’s imperative that tech companies, not Congress, to guarantee the safety of their artificial intelligence products work. “We cannot put a moratorium on this because China will overlap us, and that’s the challenge,” said the House speaker. “It’s national security balanced with the immediate security of making sure the models are safe.”
+
+This comes as both the issue of datacenter construction becomes a flashpoint ahead of the November midterms, and Donald Trump insists that any checks on AI development are ultimately a hinderance.
+
+“We can put guardrails, we can do this and that, but I think you have a lot of negative forces that are bringing it up,” the president said during a trip to Ireland over the weekend. Trump later said that AI is ultimately “going to be more good than bad” and “whoever wins with AI wins”.
+
+Last week, however, three researchers at Anthropic warned that AI now has the potential to kill off humanity within the decade. Now, as my colleague Nick Robbins-Early reports, Anthropic’s CEO, Dario Amodei, issued a proposal at the weekend to slow down the technology’s advancement to ensure public safety.
+
+In response, the OpenAI CEO Sam Altman, Google DeepMind chief Demis Hassabis and xAI owner Elon Musk also posted support for Amodei’s proposal for slowing AI development.
+
+Johnson says he will 'debate and discuss' Trump's $5k midterm pledge, says incentive needs approval from Congress
+
+Mike Johnson, the Republican House speaker, said in interviews on Sunday that Donald Trump’s pledge to pay all US adult citizens $5,000 if the GOP win the midterm elections will require congressional approval. This, despite the president’s belief that he wouldn’t need both chambers to pass legislation to issue they payouts.
+
+“I would assume, yes, he’d need Congress to act,” Johnson said in an interview with CNN on Sunday, while calling the incentive “a creative idea”. A reminder that the bill for doling out the $5,000 checks would amount to well over $1tn.
+
+Speaking with NBC News, Johnson also said it was an idea that we’ll “process through Congress and talk through and debate and discuss”.
+
+However, he did not say whether he supports the idea outright.
+
+EPA set to scrap power-plant pollution limits - reports
+
+The Environmental Protection Agency (EPA) is expected to repeal carbon pollution limits for coal- and gas-fired power plants, according to several outlets.
+
+According to Bloomberg News, citing unnamed officials familiar with the matter, the EPA also plans to propose a separate rule repealing the federal finding that greenhouse gases from power plants specifically pose a threat.
+
+The new measure is likely to be met with legal challenges from environmental groups. But, as the New York Times notes, if the move survives these battles, it could also prevent future administrations from regulating greenhouse gas emissions from power plants.
+
+Donald Trump is in Washington today, after a weekend in Ireland meeting with leaders and various officials. He’ll be at the White House, but has no public events on his schedule. He’ll spend the day in closed-door meetings, but we’ll let you know if anything changes.
+
+When Florida governor Ron DeSantis signed a law erasing the words “climate change” from state statutes in May 2024 – colloquially known as the “don’t say climate change” law – Democrats were outraged.
+
+Just six months later, many liberal politicians began to go quiet on the issue themselves. After Donald Trump won the 2024 election, mentions of the climate crisis started to disappear from Democrats’ rhetoric. As the 2026 midterms approach, that retreat is still shaping how some candidates talk about climate on the campaign trail.
+
+The trend, known as “climate-hushing”, may reflect the limitations of Joe Biden’s climate policies, said Daniel Aldana Cohen, assistant sociology professor at the University of California, Berkeley, who studies climate politics and inequality. Green jobs and housing investments fell short of the climate movement’s desires, consumer incentives disproportionately benefited wealthier households, and Democrats struggled to effectively communicate their accomplishments. The president has since rolled back many Biden-era clean energy incentives and regulations.
+
+The climate crisis, however, is still rearing its head around the country, fueling the heatwaves, wildfires and floods plaguing communities around the US. It also lurks behind issues animating voters, from datacenter expansion to rising home insurance rates. And while some pundits have concluded from their polling and research that Americans don’t want to hear about global warming, other surveys directlycontradict those findings.
+
+“Maybe people don’t rank climate as their main or top issue … but nobody really experiences everyday life like walking around the world rank-ordering the things that they care about,” said Aldana Cohen, who is also founding co-director of the thinktank Climate and Community Institute that calls for “green economic populism”. “What’s important is to learn how to embed the climate issue organically amidst the other issues that people care most about.”
+
+Leaders of the Kennedy Center who have sought to add president Donald Trump’s name to the storied institution say it is facing bankruptcy and possible closure in days, the Washington Post reports.
+
+According to documents obtained by the paper, the center’s board of trustees is expected to vote on Tuesday on whether to close the main building of Washington’s performing arts center, due to financial and safety needs.
+
+Officials warn in the documents that the center “could be unable to make payroll or pay routine maintenance contracts” within weeks, the Post reported.
+
+Publicly recognizing Trump at the center, they argue in the 57-page pre-meeting packet, would help ensure fundraising help to keep it afloat.
+
+“Trustees are being asked to choose among 10 texts that could be placed on the building’s exterior beneath its name,” to publicly credit Trump with the renovation, the Post reported.
+
+The Democrats intend to train tens of thousands of volunteers to monitor the polls and counter possible voter intimidation under a new plan to protect November’s US midterm elections from anticipated interference from Donald Trump and his allies.
+
+The nationwide initiative, dubbed the New Battlefield Project, will help state Democratic committees build up a vast coalition of volunteers to monitor the polls, push voters to cast their ballots early and create a network to respond to disinformation.
+
+The Association of State Democratic Committees (ASDC), an arm of the Democratic National Committee (DNC), plans to train volunteers across 57 states and territories. It hopes to train volunteers for 25% of the nation’s 95,000 election day polling places, focusing on districts with competitive races.
+
+These volunteers will wear blue vests to provide a visible presence intended to counter any voter intimidation, including by federal agents. Each state party has a trained election protection director.
+
+The Trump administration has not explicitly ruled out sending federal agents to cities during the election, and some of the president’s allies have called on him to send immigration agents to the polls. The homeland security secretary, Markwayne Mullin, previously said immigration agents’ job isn’t to patrol polling places, but they could go to polling places if there was a threat or to serve a warrant.
+
+The president has personally made a series of interventions that have fanned fears that he could meddle in the upcoming elections, and even declare a national emergency in a bid to exert greater control over the process.
+
+A second federal judge has prevented Donald Trump’s administration from implementing a new US Postal Service rule that would tighten mail-in voting requirements.
+
+However, the US supreme court is still weighing the administration’s request to overturn a separate order blocking the rule. Late on Sunday, District Judge Carl J Nichols in Washington, DC, handed down a similar hold on the rule, which was issued 21 August.
+
+“Plaintiffs have demonstrated that, absent an injunction, there is an increased risk that a significant number of otherwise appropriate absentee or mail-in ballots will ultimately not be counted in the upcoming elections,” Nichols wrote in issuing the preliminary injunction.
+
+“The public has a strong interest in ensuring that doesn’t happen.”
+
+Nichols in May had refused to issue an injunction because he ruled the lawsuit seeking one was brought too early. That was the high court’s reasoning late last month when it lifted an earlier freeze by Talwani.
+
+But because the administration had just issued its rule to move ahead with Trump’s plan, the plaintiffs in Boston and Washington, DC, refiled their lawsuits. Talwani was nominated by former president Barack Obama and Nichols was nominated by Trump.
+
+The new Postal Service regulations stem from an executive order Trump issued earlier this year. Election officials say it would be impossible to implement the changes this close to a general election.
+
+In other developments:
+
+Trump on Sunday called on Ukrainian president Volodymyr Zelenskyy to halt strikes on Russian oil refineries and other infrastructure used to produce and distribute diesel, saying the attacks are causing a global shortage. He spoke after diesel prices in the US hit a record on Friday, soaring past $6 a gallon on average.
+
+British ministers face calls to act after US authorities secretly flew out of the UK a diplomat accused of possessing indecent images of children. US officials reportedly raided the diplomat’s London flat in August before taking him to an American airbase and flying him out of the country, without warning the Metropolitan police.
+
+A newly unveiled statue of the rightwing activist Charlie Kirk was vandalized at the Turning Point USA headquarters in Phoenix, Arizona. The statue was found with red spray-paint. A nearby poster memorial in front of the statue was vandalized with red paint as well.
+
+A coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak.Two previous deaths in the state were in infant children. In one case, the infant was born with a genetic defect that made her vulnerable to infection. The second infant child was infected with measles, and died of a ruptured spleen.
+
+A Republican congressman said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday. Representative Tom Tiffany says he was returning from the La Crosse county Lincoln Day Dinner when the light aircraft lost power as it approached Wausau downtown airport. The pilot made an emergency landing in Lake Wausau. They both ended up in the water and swam to safety.
+
+Barack Obama urged Democrats to prioritize a “public conversation” about AI management and safety in a closed-door Manhattan fundraiser last week. The comments by the former US president reportedly urged the party to create a sweeping framework for everything from a safety “slow-down” to domestic job losses and children’s wellbeing.
