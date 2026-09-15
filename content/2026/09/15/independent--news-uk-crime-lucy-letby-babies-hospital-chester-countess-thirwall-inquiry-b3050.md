@@ -1,0 +1,96 @@
+---
+title: Former hospital bosses criticised over devastating failures in Letby case
+source_url: https://www.independent.co.uk/news/uk/crime/lucy-letby-babies-hospital-chester-countess-thirwall-inquiry-b3050714.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-15T19:41:29Z'
+published: '2026-09-15T00:00:00Z'
+description: ‘There was a complete failure to protect babies,’ said Lady Justice Thirlwall
+  in her final report in an inquiry in the wake of Lucy Letby’s multiple convictions
+  for murder and attempted murder of infants at the Countess of Chester Hospital
+image: https://static.independent.co.uk/2026/02/04/19/28/The_Investigation_of_Lucy_Letby_n_00_01_32_09.jpeg?trim=0,972,0,972&width=1200&height=800&crop=1200:800
+---
+
+“Foolhardy”, “dishonest” and “untruthful”. Just three of the damning adjectives used by a senior judge to describe bosses at the hospital where serial killer Lucy Letby murdered seven babies.
+
+Lady Justice Thirwall’s 800-word report into Countess of Chester Hospital, where Letby committed her crimes in 2015 and 2016, uncovered dysfunctional governance, a gulf between leadership and clinicians and a failure to act on safeguarding.
+
+Issuing 14 recommendations following the inquiry in the wake of the killer nurses’ convictions, Lady Thirwall said she did not know how many lives could have been saved had the hospital acted differently.
+
+But, in a scathing assessment of its management, she added: “It is clear that some babies would have been saved and some attacks would have been prevented if action was taken earlier”.
+
+Among those in the firing line in her report were the hospital’s top brass at the time Letby worked there. They included former chief executive Tony Chambers, former medical director Ian Harvey and former director of nursing Alison Kelly.
+
+![Letby, from Hereford, who maintains her innocence, is serving 15 whole-life terms for the murders of seven babies and attempted murders of seven others by various means between June 2015 and June 2016](https://static.independent.co.uk/2026/09/15/00/f9078e349857ba85bd0a2c3335a2874cY29udGVudHNlYXJjaGFwaSwxNzg5NTAxMDQ3-2.79448115.jpg)
+
+Failings were identified involving the executive team.
+
+In response, the trio issued a statement alongside former head of HR Sue Hodkinson, stating they would review the report while their thoughts remained with the families affected by the “tragic events” that took place under their watch.
+
+## Lives could have been saved
+
+The inquiry heard that an important meeting in May 2016 took place in which concerns were raised to senior managers, including Ms Kelly and Mr Harvey, about the high mortality rate and the commonality of the presence of Letby.
+
+Safeguarding was not considered at the meeting, the inquiry found, and Letby remained on the ward. Lady Thirlwall said: “This should not have happened, and babies O and P [murdered in June 2016] should not have died.”
+
+In the absence of safeguarding, there was an agreement to “wait and see”, which Lady Thirlwall called a serious mistake. She added: “Whilst ‘wait and see’ may be a well-recognised approach in clinical practice, it could never be appropriate when what is being waited for is, at a minimum, harm to a baby.
+
+![Alison Kelly did not raise initial concerns over baby deaths and Letby as a safeguarding matter, the inquiry heard](https://static.independent.co.uk/2023/08/21/12/Alison%20Kelly.png)
+
+“It was clear that the nurses in the room, including Ms Kelly, simply did not believe Letby was responsible for any deaths, and so ‘waiting and seeing’ would presumably be expected to reveal nothing.”
+
+When Ms Kelly was asked at the inquiry why she did not raise the matter as a safeguarding issue, she said she had “reflected a lot about my safeguarding role in all of this case and reflecting back, maybe I should have done, yes”.
+
+If raised as a safeguarding issue, she could have placed Letby under formal supervision or suspension, made a referall to the local authority designated officer and involved the police.
+
+Lady Thirwall said: “Ms Kelly should have done all of the above. Had she done so in May 2016, any risk that Letby posed could have been removed then.”
+
+## Delay in calling in police showed ‘foolhardy’ approach of executives
+
+The inquiry heard that hospital bosses became aware of concerns over a high number of baby deaths and Letby at the end of June 2016. But rather than contact Cheshire Police, executives at the hospital decided to commission a series of reviews to look at the increased mortality.
+
+It was not until May 2017 when police were formally called in to investigate.
+
+Five months earlier, at a board meeting, Mr Chambers said that if they really believed that Letby was the factor for the change of survival rates on the neonatal unit, then the executives would have called the police, but they did not feel that was the case, the inquiry heard.
+
+![Former chief executive Tony Chambers ‘intended’ to obstruct a police investigation, Lady Thirwall said](https://static.independent.co.uk/2026/09/15/11/15/tony-chambers-letby.jpeg)
+
+Lady Thirwall said this was a “revealing statement” that made it clear that the executives did not believe the concerns were well-founded, and so ignored safeguarding, patient safety and the need to protect whistleblowers.
+
+And when the executives did not follow a recommendation by The Royal College of Paediatrics and Child Health for an external review of unexpected deaths, Lady Thirwall said: “This was high-handed, contrary to all safeguarding principles and foolhardy.
+
+“None of the executives seem to have reflected on their decisions and asked themselves the question: ‘What if the paediatricians’ concerns are, or at least may be, well founded?’ Had they done so, there would have been only one approach to take: safeguarding and calling the police.”
+
+## Former chief executive ‘intended’ to obstruct police probe
+
+Addressing Mr Chambers’ role in the delayed police investigation, Lady Thirwall said: “He denied seeking to stall or obstruct a police investigation. That was precisely what he had done and was what he intended to do.
+
+“The effect of the actions of the executives from June 2016 was that the police investigation was delayed by a year.”
+
+Also, “in one of the most revealing documents submitted as part of the inquiry”, a note taken by Ms Hodkinson of a meeting with Mr Chambers showed, Lady Thirwall said, an "aggressive plan to get rid" of two consultants who had pushed their concerns over Letby.
+
+The note, taken after Mr Chambers had spoken to police in May 2017, was put to him during the inquiry, but he said he did not recollect the meeting with Ms Hodkinson and that it was really on patient safety.
+
+In her report, Lady Thirwall said it was on a par with an earlier "wordy and untruthful explanation" he had made in the inquiry. She added: "His obvious intention was to punish the consultants for persisting with their concerns."
+
+## ‘Last thing we want is sensational press’, said former chief executive
+
+In further criticism of Mr Chambers, Lady Thirwall reviewed a meeting he held alongside senior staff with Letby and her parents in February 2017.
+
+Notes from the meeting showed that Mr Chambers told Letby: "Don't worry, we have got your back". Such a comment was described as "clumsy language" to avoid any possible escalation by Mr Chambers when giving evidence at the inquiry. But Lady Thirwall described it as "misconceived and dishonest".
+
+Mr Chambers also said at the meeting, according to its minutes, "last thing we want is sensational press", before saying to Letby: "We don't want the story to be about you; that would be horrific."
+
+Lady Thirwall said fears of a story in the press were clearly a matter of concern to Mr Chambers.
+
+Minutes from the meeting also recorded Sue Hodkinson, former director of HR, respond to a question from Letby, asking "what if I leave?".She said: “There will be nothing on your record; it will not affect your reference or any other matters."
+
+Police were formally called in to investigate in May 2017, before Letby was arrested the following year.
+
+## Former senior managers ‘carefully reviewing’ the Thirlwall report
+
+In a joint statement, Ms Hodkinson, Ms Kelly, Mr Harvey and Mr Chambers said: “We are carefully reviewing the Thirlwall report and its recommendations.
+
+“Given that there are a number of investigations under way, and that the work of the Criminal Cases Review Commission has not yet completed, it would be inappropriate for us to offer any further comment at this time.
+
+“Our thoughts remain with the families affected by the tragic events that took place at the Countess of Chester Hospital.”

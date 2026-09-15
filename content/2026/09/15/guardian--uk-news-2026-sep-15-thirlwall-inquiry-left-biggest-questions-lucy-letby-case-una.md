@@ -1,0 +1,55 @@
+---
+title: Thirlwall inquiry has left biggest questions around the Letby case unanswered
+source_url: https://www.theguardian.com/uk-news/2026/sep/15/thirlwall-inquiry-left-biggest-questions-lucy-letby-case-unanswered
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-15T19:41:46Z'
+published: '2026-09-15T00:00:00Z'
+description: Decision not to pause proceedings means £18m report does not engage with
+  concerns over former nurse’s conviction
+image: https://i.guim.co.uk/img/media/34bf9b009b636427984013404537ed58a0c1583d/1272_0_6484_5188/master/6484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe4256bb6e34c42ed06bc0055c80483
+---
+
+Just two months before Lady Justice Kathryn Thirlwall opened her inquiry into events at the Countess of Chester hospital and the crimes of Lucy Letby, a report by Chris Henley KC was published into the “atrocious” wrongful conviction of Andrew Malkinson for rape.
+
+Henley prefaced that report with a plea for the legal establishment to recognise that the criminal courts produce miscarriages of justice. Right up to top judges in the court of appeal, Henley wrote, the system has “a deep-seated … cultural reluctance” to accept it “will on occasion make mistakes” and that “entirely innocent defendants will sometimes be convicted”.
+
+He said the system needed a culture that acknowledges mistakes can be made and ensures “in our various roles when making decisions we are all alive to this potential risk”.
+
+The Thirlwall inquiry was set up in 2023 by the then health secretary, Steve Barclay, on the basis that Letby was guilty of murdering seven babies, and attempting to murder seven more, at the Countess of Chester hospital’s neonatal unit where she was a nurse. Thirlwall’s terms of reference were to spotlight the hospital’s management, and whether their actions and culture “contributed to the failure to protect babies from Lucy Letby”.
+
+![Lady Justice Kathryn Thirlwall](https://i.guim.co.uk/img/media/c7dc22028b794f883a2754c76cb9ed84f392ef0c/0_99_2952_2360/master/2952.jpg?width=445&dpr=1&s=none&crop=none)
+
+Many distinguished experts had already looked at the evidence and expressed very serious concerns that the system had made another of its mistakes and convicted an entirely innocent person. As the Guardian reported, 24 experts wrote to Wes Streeting, who took over as health secretary after Labour’s general election win in 2024, urging him to pause the inquiry or widen its terms of reference to examine the possibility of a miscarriage of justice. Streeting did not do so.
+
+In her opening speech in September 2024, Thirlwall, a court of appeal judge, referred to the criticisms of Letby’s convictions dismissively, referring to “a huge outpouring of comment” since the court of appeal refused Letby leave to appeal in May 2024, and to “all of this noise” that had caused distress to the bereaved parents.
+
+“It’s not for me to set about reviewing the convictions,” she said. “The court of appeal has done that with a very clear result. The convictions stand.”
+
+The core premise of the inquiry from the start was that the hospital’s managers had not acted on warnings about Letby from the consultants, and should have called in the police earlier. That was the central conclusion Thirlwall has reached in her 822-page report.
+
+She criticised “a prolonged delay by senior managers in calling the police” after the triplets, babies O and P at the trial, died in June 2016. There was an assumption throughout that the police, the Cheshire constabulary, were uniquely equipped to find the forensic truth about how the babies died.
+
+Thirlwall again emphasised in her final statement that her inquiry was “not an investigation into the criminal convictions or the guilt of Letby”. But the report is based on it being a fact that Letby is guilty and Thirlwall has delivered the devastating conclusion that babies would have been protected if the hospital had acted more quickly to safeguard them from the nurse.
+
+There was almost no moment in any of the gruelling inquiry sessions in the long, glittering ballroom of Liverpool town hall that engaged with the question looming over the proceedings: whether Cheshire constabulary may have got the case catastrophically wrong.
+
+A large group of British and international experts, led by the renowned Canadian neonatologist Dr Shoo Lee, who has argued relentlessly that his own research was misrepresented by the prosecution, concluded that there were no murders, only vulnerable newborn and premature babies, and poor care on the unit.
+
+![Mark McDonald, David Davis and Dr Shoo Lee answering questions while sat at a table with microphones on it](https://i.guim.co.uk/img/media/c77045c006a675f3613f218aa57f4fad630a5c65/1444_0_5733_4588/master/5733.jpg?width=445&dpr=1&s=none&crop=none)
+
+Thirlwall heard in exhaustive detail about the actions the medical director, Ian Harvey, his management colleagues and the consultants took when considering the deaths and collapses of the babies. Postmortems had been carried out by three very experienced consultant pathologists at Alder Hey, Liverpool’s renowned children’s teaching hospital. They found no deliberate harm or any suspicion of it.
+
+Harvey had asked the Alder Hey pathologists to review their conclusions and they confirmed their original findings. He also had the babies’ deaths reviewed by a consultant neonatologist, Dr Jane Hawdon, of London’s Royal Free hospital. She also did not find any deliberate harm, but identified many areas of “sub-optimal care” on the unit.
+
+Harvey invited a review by the Royal College of Paediatrics and Child Health, whose team came to a conclusion grimly familiar to maternity and children’s units in the NHS around the country. It had insufficient consultants and not enough consultant time was being spent on babies of such medical vulnerability, just two ward rounds each week. The management downgraded the unit so that it would no longer care for babies born so prematurely.
+
+Thirlwall examined all those processes and has concluded that none were adequate. Her conclusions are that when the consultants had raised concerns about Letby, safeguarding should immediately have been introduced and the police should have been called in earlier.
+
+So during two years and £18m spent on so much legal inquiry, the question has not been answered, nor was it allowed to be asked: how and why did Cheshire constabulary and the Crown Prosecution Service, and the doctors they recruited as expert witnesses, come to so wholly different a conclusion about the causes of death, from all the experts that had looked at the same medical evidence before?
+
+And nor was there permitted to be any solid engagement with the new experts, led by Lee, as to why they so fundamentally disagree with the prosecution’s case and convictions.
+
+In his call for more vigilance after the Malkinson catastrophe, Henley wrote: “Miscarriages of justice disfigure the lives of all connected to the case and make the public generally less safe.”
+
+The Criminal Cases Review Commission, the strained body whose role is to refer potential miscarriages of justice back to the court of appeal, is still looking at Letby’s application, and the copious expert reports submitted with it. In the meantime, a public inquiry chaired by a senior judge was set from beginning to end not to consider the possibility that the police, CPS and courts might have made a mistake, and served up a terrible injustice.
