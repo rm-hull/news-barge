@@ -1,0 +1,119 @@
+---
+title: 'Iran war live: US facing weapons shortages after dozens of aircraft destroyed'
+source_url: https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-oil-tanker-hormuz-b3050243.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-15T11:27:19Z'
+published: '2026-09-15T00:00:00Z'
+description: Trump says he is open to negotiations to end the war with Iran, but stresses
+  the final decision rests with him
+image: https://static.independent.co.uk/2026/09/15/08/2284105153..?trim=0,0,0,1&width=1200&height=800&crop=1200:800
+---
+
+The US military is facing a weapons shortage after dozens of aircraft have been destroyed in its war on Iran, the Pentagon has said, as the cost of the war hit $33.4 billion (£24.8bn).
+
+In a report to Congress on Monday, the Defense Department’s inspector general noted the destruction of four F-15 fighter jets and as many as 30 MQ-9 Reaper drones, and damage to one F-35 jet and seven KC-135 tanker aircraft.
+
+It also said that Iranian attacks had “damaged and destroyed hundreds of buildings and structures at US bases in Kuwait, Bahrain, Qatar, UAE, Saudi Arabia, Iraq, Oman, and Jordan during the conflict”.
+
+Some $22.3bn of cost is down to expended munitions, the report said.
+
+Between 28 February and 30 June, Operation Epic Fury has caused “strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply”.
+
+It comes as President Donald Trump has said he is “open” to negotiations to end the war with Iran, but stressed the final decision rests with him.
+
+## Saudi authorities warn of danger in Mecca amid Houthi escalation
+
+Saudi authorities have warned of a potential danger in Mecca, home to Islam’s holiest site, amid an escalation with Yemen’s Houthis.
+
+Minutes later, Saudi civil defence said the danger had cleared.
+
+The brief alerts had also covered the provinces of Taif and Jeddah, state TV reported.
+
+The Iran-aligned Houthis have launched a new wave of attacks on Saudi Arabia and are seizing positions on the western coast of Yemen along the Red Sea, Yemeni officials said, with discussions ongoing in Riyadh over how to respond to their lightning advance.
+
+![](https://static.independent.co.uk/2026/09/15/11/2026-09-15T091021Z_1931178679_RC22JNANRKLM_RTRMADP_3_SAUDI-MECCA-UMRAH.JPG)
+
+## Vessel struck in Strait of Hormuz, says UKMTO
+
+A vessel has been hit by an unknown projectile in the Strait of Hormuz, a verified source has told the United Kingdom Maritime Trade Operations (UKMTO).
+
+No damage or environmental impact was reported after the Tuesday strike, the UKMTO said, and authorities are investigating.
+
+We’ll bring you more as it comes in.
+
+## UN Security Council to hold meeting over the Bab el-Mandeb Strait
+
+The UN Security Council will hold a meeting on Tuesday to discuss the situation in the Bab el-Mandeb Strait, two French diplomats have told the Reuters news agency.
+
+The meeting, which was called by France, will be held on Tuesday afternoon, New York time, they said.
+
+## Full report: US watchdog tallies Iran war's hit to weapons stockpiles, military bases and more
+
+A U.S. government watchdog released its first report on the impact of the Iran war on Monday, acknowledging the military's advanced weapons shortfalls and offering the first public look at the damage to American aircraft, bases and diplomatic outposts in the Middle East.
+
+Much of the information has been previously reported over the past six months, but the Pentagon inspector general's report offered the fullest official accounting so far of the conflict's costs in American lives, taxpayer dollars and physical damage. It included information from the watchdogs for the Defense and State departments as well as the U.S. Agency for International Development.
+
+*Read our full report here:*
+
+![](https://static.independent.co.uk/2026/09/14/23/Iran_US_Pentagon_648_9.jpg?width=1200&height=800&crop=1200:800)
+
+## Iranian foreign minister to meet Chinese counterpart in Beijing
+
+Iranian foreign minister Abbas Araghchi is set to visit China on 16 September, the foreign ministry in Beijing has said.
+
+Araghchi will meet with Chinese foreign minister Wang Yi.
+
+The pair met in Kyrgyzstan in late July, where they discussed the situation in the Middle East, described in a statement by the Chinese mission to the UN as a “matter of deep concern to China”.
+
+## Trump: Countries must reimburse us for securing Strait of Hormuz
+
+Donald Trump has demanded that the “Countries of the World” pay the US for its military action to secure the Strait of Hormuz.
+
+"The Countries of the World, which have been no help to us whatsoever, should, and will, reimburse the United States of America when this SCAM Confligration is all over,” he wrote in a post on Truth Social.
+
+The US president was repeating his claim that Tehran “wants to make a deal, quickly and badly”.
+
+He added: "I will determine whether or not the U.S.A. will choose to engage - The concept of which we are open to."
+
+## Watch: US Air Force officer recalls 'free-falling' to ground with damaged parachute after plane was shot down over Iran
+
+## US facing weapons shortages after dozens of aircraft destroyed - as cost of war hits $33bn
+
+The US military is facing weapons shortages as a result of its war on Iran, the Defense Department’s inspector general has said, after dozens of aircraft were destroyed in the region.
+
+In a report to Congress on Monday, the inspector estimated that the US war on Iran has cost Washington $33.4 billion (£24.8 bn), most of which was spent on expended munitions.
+
+The US military has lost dozens of aircraft, including the destruction of four F-15 fighter jets and as many as 30 MQ-9 Reaper drones, and damage to one F-35 jet and seven KC-135 tanker aircraft.
+
+"Iranian strikes damaged and destroyed hundreds of buildings and structures at US bases in Kuwait, Bahrain, Qatar, UAE, Saudi Arabia, Iraq, Oman, and Jordan during the conflict," the report says, without confirming what the cost was of the damage to these buildings.
+
+Between 28 February and 30 June, Operation Epic Fury has caused “strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply”.
+
+## Saudi crown prince to meet Egypt's leader
+
+Egypt's president Abdel Fattah al-Sisi is set to roll out the red carpet for Saudi crown prince Mohammed bin Salman on Tuesday, the Egyptian presidency said.
+
+The meeting comes against the backdrop of intensified fighting between Iranian-backed Houthi rebels and Yemen's Saudi-backed government.
+
+The two leaders will hold a bilateral meeting to discuss the Houthi offensive and developments in Iran.
+
+The Houthi rebels’ weeklong offensive has culminated in the capture of Yemen's Red Sea coast, cementing their hold on the Bab el-Mandeb Strait, through which Saudi oil transits.
+
+Earlier, Cairo rejected a proposal from the Houthis for direct talks to coordinate maritime traffic through the waterway and the Red Sea, according to Qatari media outlet Al-Araby Al-Jadeed.
+
+## US imposes fresh sanctions on Russia's VTB Bank over alleged Iran ties
+
+The United States imposed new sanctions on Russia's VTB Bank on Monday, accusing the lender of helping Iran evade Western sanctions and warning that foreign institutions that continue doing business with Russia's second-largest bank could face additional penalties.
+
+Already cut off from the dollar system over Russia's invasion of Ukraine, VTB now faces Iran-related sanctions that Treasury officials said could expose foreign banks and businesses that continue to deal with it to additional penalties.
+
+Treasury said VTB had opened offices in Iran, established banking relationships with sanctioned Iranian lenders and helped build financial channels designed to facilitate trade and financial coordination between Moscow and Tehran.
+
+The action, taken under an executive order aimed at increasing pressure on the Iranian economy, adds to US sanctions already in place against VTB Bank that were imposed in February 2022.
+
+The Treasury said in a statement that state-controlled VTB was now "among the most comprehensively sanctioned financial institutions in the world." The Iran-related penalties would increase the risk of secondary sanctions against foreign institutions that continue to do business with VTB, the Treasury added.
+
+"Under Operation Economic Outcast, Treasury will continue to target and disrupt those who provide material, technological, or financial support that allows the Iranian regime to sustain its terrorist enterprise,” Treasury Secretary Scott Bessent said in the statement.
+
+"Treasury will not tolerate any support to the regime and will continue to identify, expose, and isolate Iran’s enablers," it quoted him as saying.
