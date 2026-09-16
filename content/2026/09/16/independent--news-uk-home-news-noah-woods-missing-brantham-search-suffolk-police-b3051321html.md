@@ -1,0 +1,73 @@
+---
+title: Body found in desperate search for missing three-year-old Noah Woods
+source_url: https://www.independent.co.uk/news/uk/home-news/noah-woods-missing-brantham-search-suffolk-police-b3051321.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-16T19:32:43Z'
+published: '2026-09-16T00:00:00Z'
+description: More than 1,000 volunteers joined the search for Noah in the village
+  of Brantham in Suffolk
+image: https://static.independent.co.uk/2026/09/16/13/dd51551ffcc2ce8a03b3dc3ce283cbb0Y29udGVudHNlYXJjaGFwaSwxNzg5NjQ3MzIx-2.85866824.jpg?width=1200&height=800&crop=1200:800
+---
+
+A body has been found in the search for three-year-old Noah Woods, who vanished after a visit to a village playground.
+
+A massive search operation involving more than 1,000 volunteers was underway for Noah, who went missing after he ran down an alleyway in Brantham, Suffolk, on Tuesday afternoon.
+
+Suffolk Police superintendent Tom Pearse said that the body of a child had been discovered in a nearby pond and that Noah’s family had been informed. The discovery was being treated as unexplained but not suspicious, he said.
+
+“First and foremost, our thoughts are with Noah’s family and all those who knew him,” he told journalists at Brantham Leisure Centre, calling for the public to give them “time, space and privacy”.
+
+![Noah playing in the park before he vanished](https://static.independent.co.uk/2026/09/16/18/8ed90fd33b22043ca7aade1e73893082Y29udGVudHNlYXJjaGFwaSwxNzg5NjYzNjkx-2.85873252.jpg)
+
+He added: “These five teams this afternoon have sadly found the body of a child in Decoy Pond in Brantham. Formal identification is yet to take place. The family of Noah Woods has been informed of these developments.
+
+“We have been overwhelmed by the outpouring of public support and people putting on their boots to help us with this search.
+
+“As a parent myself, I completely understand why people would want to help, and such a response is one that typifies the strong sense of community and the heartwarming nature of Suffolk people that make the county such a special place.”
+
+Noah’s father, Rhys Woods, previously issued a desperate plea for the public “not to give up on” the young boy, who is mildly autistic, non-verbal and has partial hearing loss.
+
+Suffolk Police issued CCTV images of him shortly after he went missing, showing him happily playing at Merriam Close playground and said there was nothing to suggest “anything sinister or any element of criminality” in his disappearance.
+
+![Noah Woods went missing after he became separated from a relative near a playground at Merriam Close](https://static.independent.co.uk/2026/09/16/17/01M2N6X1FEHZ94T0NMP9DBPBE6.jpg)
+
+The force deployed a specialist diving team, dog units, and a helicopter as it ramps up efforts to find him.
+
+His heartbroken father said: “I cannot go another night knowing he’s out there alone. Please don’t give up on him, guys. He is out there somewhere and I appreciate every single one of you.”
+
+He said emergency services were “very confident” that high-risk areas, including a nearby lake and railway lines, were “all clear”.
+
+One of those volunteers, Rebecca Lucas, 46, said: “Everybody’s come together to try and do what they can.
+
+“I think within the local community everyone’s really close-knit and it just touches at the heartstrings, everybody just wants to get involved and see if there’s anything we can do rather than just sit at home.”
+
+![More than a 1,000 people have showed up to help find the three-year-old](https://static.independent.co.uk/2026/09/16/17/01M2N5KDN9AW2REH5P67TXJ6YH.jpg)
+
+The mother, a theatre production company worker from Essex, said: “I’ve got two children – I’ve got a seven-year-old and a three-year-old, and obviously this hits quite close to home with Noah being three.
+
+“I can’t even begin to put myself in that position as a mother; it really pulls at you.”
+
+Ms Lucas had gone to a briefing at the village hall earlier on Wednesday, where the community has been gathering, and was given an area to search for “anything that could possibly give us a clue, but we haven’t found anything as yet”.
+
+Suffolk Police carried out door-to-door enquiries and asked residents to thoroughly check their gardens, sheds and outbuildings, as well as private CCTV, dashcam, or doorbell cameras.
+
+Noah was last seen wearing a white T-shirt featuring the TV character Bluey, shorts and black Vans trainers with a white stripe.
+
+![The last confirmed sighting of Noah was from CCTV in a park in Brantham](https://static.independent.co.uk/2026/09/16/11/46/noah-cctv-split.jpeg)
+
+Local Sharon Auton, 60, who went out to help as soon as she saw the news on social media on Tuesday afternoon, said it was “amazing how much the community has got together over this”.
+
+The charity Missing People’s policy & partnerships manager Sam Roberts stressed that the first 48 hours are crucial for police to gather witness accounts, sightings, and review CCTV, and asked the public to share anything that felt relevant.
+
+Ms Roberts told *The Independent*: “With any person that has a loved one missing, it’s always a very difficult situation. 
+
+![Members of HM Coastguard Search and Rescue continue their search for Noah](https://static.independent.co.uk/2026/09/16/16/01M2N9FZWNY9CY5Q5T26BM1VX9.jpg)
+
+“We understand people naturally want answers and naturally want to help, but speculation, rumours, or anything that’s not verified can create more and added confusion, not to mention the distress that it’s going to be causing for the family.”
+
+Search efforts were supported by the National Police Air Service, HM Coastguard, Suffolk Fire & Rescue Service, and Suffolk Lowland Search & Rescue.
+
+Suffolk Police and Crime Commissioner Tim Passmore thanked emergency services for working “tirelessly”, and “the army of Suffolk citizens” who have volunteered to help.
+
+“This is an extremely distressing situation which has rocked communities in Suffolk,” he added.
