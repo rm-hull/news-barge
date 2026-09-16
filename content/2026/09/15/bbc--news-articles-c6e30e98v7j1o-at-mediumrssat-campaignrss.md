@@ -1,0 +1,57 @@
+---
+title: UK in talks about joining global defence bank led by Canada
+source_url: https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-16T04:43:44Z'
+published: '2026-09-15T00:00:00Z'
+description: Supporters of the scheme say the bank would enable governments to get
+  cheaper loans to spend on defence projects.
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png
+---
+
+![A soldier holds standing in a wooded area](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png)
+
+A British soldier taking part in a Nato exercise in Finland
+
+**The UK government is in discussions about joining a global investment bank, aimed at raising more money for defence spending.**  
+
+Chancellor John Healey is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
+
+Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
+
+Treasury officials stressed that no decision has been made. A government spokesperson said it was "fully committed to working alongside our international partners to scale defence industrial capacity."
+
+Before he cancelled commitments due to the death of his father, Prime Minister Andy Burnham had been due to meet Canada's Prime Minister Mark Carney in the UK on Wednesday.
+
+Nato Secretary General Mark Rutte is also travelling to the UK for his first meeting with the prime minister.
+
+He is giving a speech in Oxfordshire, where he is expected to say the UK is "serious about security" and praise the country's efforts supporting Ukraine.
+
+He will also say that Nato will "not be intimidated by Russia's campaign of hostile actions.
+
+"Russia wants to stop us helping Ukraine – but their actions will only lead us to do more for Ukraine."
+
+It comes after Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.
+
+And on Tuesday Denmark also accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
+
+The DSRB is a multilateral bank aimed at providing cheaper loans to fund defence projects and has backing from Albania, Bulgaria, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine.
+
+Membership of the bank for the UK and other G7 countries would come with an upfront investment cost of around £870m spread over three years.
+
+Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
+
+The government has so far avoided committing to raising defence spending to 3% of national income by 2030, only repeating the longer term goal of 3.5% by 2035.
+
+As defence secretary, Healey privately pushed for the UK to join the DSRB as a means of raising money.
+
+He resigned in June, accusing the Treasury of being unwilling to provide the resources needed to defend the country.
+
+In his resignation letter, he said there were "credible ways" to fund extra defence spending, including "working multinationally".
+
+A government spokesperson said: "We are fully committed to working alongside our international partners to scale defence industrial capacity.
+
+"We are working closely with our Canadian allies on ensuring the Multilateral Defence Mechanism and Defence Security Resilience Bank are complementary."
+
+![Thin, red banner promoting the Politics Essential newsletter with text saying, “Top political analysis in your inbox every day”. There is also an image of the Houses of Parliament.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6133/live/2bce6ee0-0b00-11f0-97d3-37df2b293ed1.png)
