@@ -1,0 +1,45 @@
+---
+title: Vini Jnr, Mbappe and Konate obscure Ceuta message ahead of Real Madrid match
+source_url: https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-16T13:27:10Z'
+published: '2026-09-16T00:00:00Z'
+description: Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of
+  Real Madrid's match against Elche.
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg
+---
+
+![Real Madrid have won six out of seven matches in all competitions this season](https://ichef.bbci.co.uk/ace/standard/951/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg)
+
+Real Madrid have won six out of seven matches in all competitions this season
+
+**Kylian Mbappe, Vinicius Junior and Ibrahima Konate rolled up their pre-game T-shirts ahead of Real Madrid's match at Elche on Tuesday to obscure the message of support for the people of Ceuta.**
+
+Ceuta is a Spanish autonomous city on the North African coast, bordering Morocco and separated from mainland Spain by the Strait of Gibraltar.
+
+Players from both sides walked on to the pitch at Elche's ground, Martinez Valero, wearing white T-shirts carrying the message "Todos somos caballas" – translated as "We are all Ceutans" – along with references to the Spanish autonomous city.
+
+While most of the players wore the shirts fully, Mbappe, Vinicius and Konate had theirs rolled up to around chest height, obscuring some of the slogan.
+
+Mbappe and Vinicius then removed their shirts before the pre-match handshake, while Konate kept his on for longer. Their team-mates and the Elche players continued to wear the shirts through the pre-match formalities.
+
+This is not the first time Real Madrid have shown support for Ceuta. Before their Champions League meeting with Inter Milan at the Santiago Bernabeu on 8 September, supporters in the south stand displayed cards featuring the coat of arms of the autonomous city, while the rest of the stadium joined the tribute with a round of applause.
+
+The initiative was part of a wider show of support for Ceuta, following a major migration crisis in the Spanish territory after thousands of people entered from Morocco.
+
+At least 72,000 migrants crossed from Morocco into Ceuta on 30 and 31 July. Most swam around a border fence and at least 100 people died during the crossing, according to figures from Ceuta's mayor.
+
+Although most returned, as many as 5,000 remain in makeshift camps or are sleeping on the city's streets and beaches, leading to unrest in the autonomous Spanish city in North Africa.
+
+Locals have expressed safety concerns and some have destroyed shelters and blocked aid being supplied to the migrants.
+
+The representatives of the players have been asked for comment.
+
+The episode came shortly before a dramatic night for Real Madrid, who recovered from surrendering a two-goal lead to beat Elche 3-2, with Carlos Espi scoring the winner in stoppage time.
+
+Mbappe was among Madrid's scorers, while Vinicius started the game.
+
+The pre-match gesture also highlighted the differing approaches among players and clubs to the Ceuta campaign.
+
+Barcelona did not take part in the initiative, while players at other La Liga fixtures had worn the shirts as intended.
