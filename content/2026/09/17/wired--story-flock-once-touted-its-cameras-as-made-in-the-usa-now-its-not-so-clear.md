@@ -1,0 +1,81 @@
+---
+title: Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear
+source_url: https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/
+source_site: Wired
+source_slug: wired
+scraped_at: '2026-09-17T13:23:21Z'
+published: '2026-09-17T00:00:00Z'
+description: Flock reveals little about where its license plate readers are assembled,
+  but the answer could have geopolitical and cybersecurity implications.
+image: https://media.wired.com/photos/6aa9b61b437d0124621287e4/191:100/w_1280,c_limit/Where-Flock-Cameras-Are-Made-Business.jpg
+---
+
+Flock CEO Garrett Langley has said the company made its first license plate cameras in his Atlanta home, permanently scratching his dining table with drill marks. A decade later, where the company assembles its signature—and fiercely debated—product has become more of a mystery.
+
+For years, Flock touted publicly that its devices were produced in the United States. But more recent marketing materials from the company reviewed by WIRED no longer specify where its cameras come from. One US manufacturer that previously identified Flock as a customer quietly removed a mention of the company from its website earlier this year as public backlash against the company’s surveillance technology grew.
+
+The startup has become the subject of a nationwide protest movement that has prompted dozens of local governments to abruptly stop using its cameras. Congress is also considering legislation that would cut federal funding to states that fail to limit use of Flock and other license plate readers. While police have argued the cameras are crucial tools for deterring and solving crime, activists have criticized Flock for enabling officers to track the cars of their exes, share footage with immigration authorities, and follow the movements of pedestrians.
+
+But Flock’s manufacturing supply chain has received scant attention, even though where its hardware is produced could have implications for US national security. WIRED spoke with current and former Flock employees and supply chain analysts, reviewed data from US import records, and watched past marketing videos featuring Langley to piece together the first account of how its hardware pipeline has evolved.
+
+| Got a Tip? | 
+|---|
+| Do you know more about Flock’s assembly and supply chain? We’d like to hear from you. Using a nonwork phone or computer, contact the reporter securely on Signal at peard33.24. | 
+
+Flock’s cameras largely rely on suppliers around the world that provide non-custom parts, which are also used in products from other companies. “Our value is in the aggregation and the packaging of all of these things … in a nice waterproof, consumer-friendly device,” Langley said in one marketing video from 2021.
+
+Import records collected by ImportGenius show the company has been increasingly bringing “commodity” cameras, radar systems, and other components over from Primax Electronics in Thailand. Primax is based in Taiwan, but has manufacturing facilities in China, Thailand, and elsewhere.
+
+“My understanding is that these are components, but it looks like Primax manufactures whole security camera solutions,” ImportGenius’ analyst Lynn Hughes says. “Quite a few shipments include ‘Radar’ in the product description which might be related to the radar sensor pods they’re attaching to their cameras.”
+
+Flock didn’t respond to most of the detailed questions WIRED asked for this story, though it did provide some general information. “All products that Flock builds are National Defense Authorization Act compliant,” Flock spokesperson Paris Lewbel said in an email, referring to a US law that effectively bars government contractors from using parts made by a handful of Chinese tech companies over security concerns.
+
+Cris van Pelt, creator of the anti-Flock advocacy project Have I Been Flocked, says that while where the cameras are made may have relatively minor implications for US communities, the lack of transparency about their origins underscores a broader problem.
+
+“It all speaks to the fact that there is no real oversight, and that tens of thousands of literal and figurative black boxes are being installed on American roads,” van Pelt says. “If any part of the supply chain is compromised, we would never know. That’s a much bigger problem than where the final product is assembled.”
+
+## “Aggregation”
+
+The earliest Flock prototypes were made using cameras ripped out of Android phones bought on Alibaba, which were then attached to batteries and soldered onto a solar panel, Langley recalled in one video. The goal was to prove that a useful device could be created from parts collectively costing between $200 to $300. (WIRED reported earlier this week that Flock’s cameras continue to use smartphone-style processors and leave significant data unencrypted.)
+
+As Flock began securing contracts with homeowners associations, it shifted into a corporate office that also doubled as an assembly line. Langley described the setup as fun, but also unprofessional and arduous—pallets of parts shipped in from China had to be dragged a quarter of a mile through the building multiple times a week.
+
+Around 2020, Flock moved its assembly line to a WeWork-style warehouse facility in Atlanta, according to a marketing video produced by the space’s operator. A handful of Flock employees cranked out as many cameras as they could, with engineers assembling the main camera device and less technical staff attaching solar panels and mounts.
+
+Rather than opening up warehouses, Flock stored cameras in self-storage locations across the country for its installation crews to retrieve as needed, according to two former employees. One described the system as “janky,” noting it may have left cameras more vulnerable to tampering than they would have been if kept in more secure locations operated by Flock itself.
+
+In marketing materials from 2019, Flock touted its cameras as “manufactured in the United States.” The following year, it said they were “made in the USA.” In 2021, it got more specific, telling potential customers that assembly was done by “Flock Safety in Atlanta, GA.”
+
+Over the next couple of years, Flock began shifting final assembly to contract facilities in North Carolina and Wisconsin operated by East West Manufacturing and Plexus, according to a person familiar with the matter. It also opened up its own warehouses.
+
+The person says Flock wanted to keep assembly in North America, both to ease security concerns—particularly about potential Chinese surveillance—and to keep factories close enough that it could quickly customize products in response to customer needs.
+
+A Flock marketing brochure from 2023 described its cameras as “designed & manufactured in the U.S.” By 2024, Flock’s manufacturing partners were capable of producing 500 cameras a day, a ten-fold leap from several years prior, one of the people familiar with matter says. Parts still largely came from Asia.
+
+In mid-May, as backlash against the startup swelled, East West removed reference to Flock from a list of case studies on its website, according to archived versions on the Wayback Machine. (A video from East West promoting its work for Flock shared on LinkedIn in late 2021 remains online.)
+
+East West and Plexus didn’t respond to requests for comment.
+
+WIRED was unable to determine where Flock’s cameras are assembled now. A Flock marketing presentation from this year does not mention a location.
+
+In July, the US Occupational Safety and Health Administration cited Flock for allegedly failing to promptly report a June incident in which an employee was hospitalized for a leg amputation, according to records from the workplace regulator. The records indicate the injury happened at a Flock “audio and video equipment manufacturing” site in Houston, Texas. It’s possible that the location is actually the site of a camera, and the injury came during an installation or maintenance procedure. Flock and OSHA did not respond to WIRED’s requests asking for clarification about the nature of the site and what work may occur there.
+
+Flock is contesting a proposed penalty of about $9,500, saying it reported the injury quickly after learning about it.
+
+Even if Flock’s manufacturing supply chain remains in the United States, it may do little to calm bipartisan backlash against the company.
+
+“Domestic manufacturing is no substitute for accountability over how these systems are built, sold, and used,” says Matthew Guariglia, senior policy analyst at the civil liberties advocacy group Electronic Frontier Foundation. "The multi-billion dollar industry churning out mass surveillance technology is not safer or more acceptable based on where it is assembled.”
+
+Flock’s top competitors vary in terms of how much they disclose about their manufacturing. Motorola Solutions has described its license plate cameras as being assembled at its own facility in Richardson, Texas. Axon has said little about where its Outpost cameras are produced, but has noted it assembles other products in Scottsdale, Arizona.
+
+Motorola and Axon didn’t respond to requests for comment.
+
+## US-Made Drone
+
+Flock has been more upfront about the manufacturing of its new surveillance drone. Last October, it announced the opening of its own facility in Smyrna, Georgia to assemble drones and solar panels, as well as refurbish various other products. US law now largely restricts foreign-made drones, including the models from China-based DJI that Flock has been deploying. No similar US rules apply to license plate cameras.
+
+It’s unclear how well the Smyrna operation is faring. Flock repeatedly postponed the timeline for launching its first so-called Alpha drone, which finally “hit the field” in May, according to a company executive. This year, Flock told Berkeley, California officials it would swap out DJI drones for the US model “within two years.”
+
+Lewbel, the Flock spokesperson, says it continues to “bring more Alpha drones online.”
+
+*Additional reporting by Caroline Haskins.*
