@@ -1,0 +1,67 @@
+---
+title: Interest rates held at 3.75% but Bank warns Iran war could mean future hike
+source_url: https://www.independent.co.uk/news/business/bank-of-england-mpc-john-healey-interest-rates-andrew-bailey-b3051835.html
+source_site: The Independent
+source_slug: independent
+scraped_at: '2026-09-17T19:44:04Z'
+published: '2026-09-17T00:00:00Z'
+description: The decision to hold interest rates at 3.75% marks the sixth time in
+  a row that the MPC has not changed borrowing costs.
+image: https://static.independent.co.uk/2026/09/17/12/915193ba3141fdefb9ebcd9793c14df3Y29udGVudHNlYXJjaGFwaSwxNzg5NzE3ODYx-2.81206558.jpg?width=1200&height=800&crop=1200:800
+---
+
+The Bank of England has held interest rates at 3.75%, but policymakers warned that pressure to raise rates is building as the Iran war goes on.
+
+The Bank’s monetary policy committee (MPC) said global energy prices were volatile and likely to push inflation higher by the end of the year than it was previously expecting.
+
+The decision to hold interest rates at 3.75% marks the sixth time in a row that the MPC has not changed borrowing costs.
+
+But it follows a split vote among the nine-person committee, with six members voting to hold them steady and three calling to raise rates to 4%.
+
+Governor Andrew Bailey, who voted for a hold, said: “So far higher global energy costs have had a limited effect on price and wage setting in the UK.”
+
+This refers to so-called second-round effects, meaning things such as higher wage demands among the UK workforce and prices that are charged in shops.
+
+He went on: “But the longer this volatility persists, the bigger the impact it will have on inflation, and the more likely it is we will need to raise Bank rate to ensure that inflation falls back to our 2% target.”
+
+Economists have been warning that borrowing costs may have to be hiked in the months ahead to tackle rising inflation in the UK.
+
+The rate of Consumer Prices Index (CPI) inflation rose to 3.1% last month, up from 2.9% in July and reaching a five-month high, the latest official figures showed.
+
+This was driven largely by petrol and diesel prices, which have risen to multi-year highs.
+
+Households are also facing another rise in their gas and electricity bills from next month when Ofgem’s new price cap comes into effect.
+
+October will also be when Chancellor John Healey delivers his first autumn Budget, which he may use as an opportunity to introduce policies that will help ease the cost of living.
+
+The Government already announced that it is scrapping VAT from energy bills between October and March to help provide “breathing space” for households.
+
+Based on recent wholesale energy prices, the MPC said it was now expecting CPI inflation to rise to about 3.75% by the end of 2026 and peak at about 4% by the start of 2027.
+
+This compares to its previous forecast of CPI at about 3.2% by the end of the year.
+
+The committee said the conflict in the Middle East and the impact on energy prices at the UK economy “remained the dominant source of uncertainty for the inflation outlook”.
+
+Other policymakers on the MPC said the case for raising interest rates was building the longer the war goes on.
+
+Economist Suren Thiru, of the Institute of Chartered Accountants in England and Wales, said the Bank has left the “door wide open” to a November rate hike.
+
+“Interest rates are at a critical cliff-edge moment,” he said.
+
+“While policy could still remain on hold this year, persistent US-Iran hostilities mean the risk of a rate hike has shifted from a possibility to a probability.”
+
+Meanwhile, the Bank of England announced a shake-up of its government bond selling programme, known as quantitative tightening (QT).
+
+It is asking Mr Healey to approve a new method of effectively selling a stock of government bonds, known as gilts, back to the Government rather than to the financial markets.
+
+This means pausing its current gilt auctions until the decision is finalised.
+
+The next stage of the QT programme will see the overall stock of gilts reduced at an average pace of £46 billion a year over the next eight years, both as they mature and through average annual sales of £20 billion.
+
+A substantial portion of the gilts will not be sold and will be set aside to back the issuance of bank notes.
+
+Mr Bailey said the Bank had “provided clarity over the future” of its QT programme.
+
+The announcement triggered a drop in government borrowing costs on Thursday, known as gilt yields, which have soared to fresh highs in recent weeks.
+
+The yield on 30-year gilts fell to about 5.72%, the lowest level in more than a month.
