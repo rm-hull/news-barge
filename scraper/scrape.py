@@ -157,9 +157,9 @@ def clean_markdown_formatting(text: str) -> str:
 
     # 1. Normalize internal spacing (strip spaces inside tags, NO NEWLINES)
     # Matches: (** or *) + horizontal-space + (content) + horizontal-space + (** or *)
-    text = re.sub(r"(\*\*|\*)[ \t]+(.+?)[ \t]*\1", r"\1\2\1", text)
+    text = re.sub(r"(\*\*|\*)[ \t]+([^*\n]+?)[ \t]*\1", r"\1\2\1", text)
     # Matches: (** or *) + (content) + horizontal-space + (** or *)
-    text = re.sub(r"(\*\*|\*)(.+?)[ \t]+\1", r"\1\2\1", text)
+    text = re.sub(r"(\*\*|\*)([^*\n]+?)[ \t]+\1", r"\1\2\1", text)
 
     # 2. Ensure a space follows closing tags if followed by alphanumeric
     # Target: **Header:**Hard -> **Header:** Hard
@@ -170,6 +170,35 @@ def clean_markdown_formatting(text: str) -> str:
     text = re.sub(r"\*\*\s*\*\*", "", text)
 
     return text.strip()
+
+
+def normalize_inline_spacing(extracted_html: str) -> str:
+    """Move boundary whitespace outside inline formatting elements."""
+    tree = lxml_html.fromstring(extracted_html)
+    inline_elements = tree.xpath(".//em | .//strong | .//b | .//i")
+
+    for element in inline_elements:
+        if not element.text:
+            continue
+
+        leading = re.match(r"[ \t]+", element.text)
+        if leading:
+            whitespace = leading.group(0)
+            element.text = element.text[len(whitespace) :]
+            previous = element.getprevious()
+            if previous is not None:
+                previous.tail = (previous.tail or "") + whitespace
+            else:
+                parent = element.getparent()
+                parent.text = (parent.text or "") + whitespace
+
+        trailing = re.search(r"[ \t]+$", element.text)
+        if trailing:
+            whitespace = trailing.group(0)
+            element.text = element.text[: -len(whitespace)]
+            element.tail = whitespace + (element.tail or "")
+
+    return lxml_html.tostring(tree, encoding="unicode")
 
 
 def linkify_text(text: str) -> str:
@@ -494,6 +523,7 @@ async def process_article(
         url=url,
         output_format="html",
         include_comments=False,
+        include_formatting=True,
         include_images=True,
         include_tables=True,
         favor_precision=True,
@@ -504,6 +534,7 @@ async def process_article(
         report_error(f"extraction returned nothing for {url}", logger=logger)
         return False
 
+    extracted_html = normalize_inline_spacing(extracted_html)
     md_body = to_markdown(extracted_html, heading_style="ATX")
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
@@ -533,9 +564,7 @@ async def process_article(
         if "|" in title:
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
-    generated_categories = await asyncio.to_thread(
-        classify_article, title, description
-    )
+    generated_categories = await asyncio.to_thread(classify_article, title, description)
     categories = list(
         dict.fromkeys((site.get("categories") or []) + generated_categories)
     )
