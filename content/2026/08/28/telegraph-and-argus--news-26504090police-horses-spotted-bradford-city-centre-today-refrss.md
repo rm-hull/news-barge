@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Several police horses were seen in Bradford city centre this morning
   - raising concerns amongst passer-byers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384391.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Mike Simmonds)*

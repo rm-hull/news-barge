@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: 'Fujifilm took Nikon''s #3 spot in camera shipments in 2025. Is the retro
   trend to thank? What can we expect moving forwards?'
 image: https://cdn.mos.cms.futurecdn.net/pZ2WtfVv5DkRGr6HomJ8UF-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Fujifilm x Half in the hand (left) and the Nikon Zr on a wooden table](https://cdn.mos.cms.futurecdn.net/pZ2WtfVv5DkRGr6HomJ8UF.jpg) 

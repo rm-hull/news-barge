@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Hundreds of thousands of Iranians have rallied in the biggest government-organized
   show of defiance since the war began
 image: https://static.independent.co.uk/2026/09/18/13/APTOPIX_Iran_War__1552.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Hundreds of thousands of Iranians rallied Friday in a government-organized show of defiance after months of war, pledging their readiness to take up arms in the biggest such demonstration since the United States and Israel attacked in February.

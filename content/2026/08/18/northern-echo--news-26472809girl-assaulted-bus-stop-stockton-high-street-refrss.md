@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Police are trying to trace a man after a 12-year-old girl was assaulted
   at a bus stop in Stockton.
 image: https://www.thenorthernecho.co.uk/resources/images/21333354.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: CLEVELAND POLICE)*

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: The US government wrote a letter in support of OpenAI’s argument that
   training AI on others' intellectual property is fair use.
 image: https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/191:100/w_1280,c_limit/GettyImages-2214107176.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The Trump Administration just took OpenAI’s side in the artificial intelligence company’s legal battle with the New York Times.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An inquest into the death of Soham killer Ian Huntley will remain suspended
   pending the outcome of the trial of a fellow prisoner charged with his murder.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU1YzZmZjM5LTQ1ZjQtNDRhMS04MTIxLTAxZDIxYzQ1NmEzYTplYTM2YzAyNy04NDQxLTRjMzMtODU3YS05NTFlYTQyNDdlOTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Ian Huntley inquest remains suspended pending murder trial

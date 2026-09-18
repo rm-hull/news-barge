@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: The U.S. Labor Department is expected to report that the American job
   market bounced back last month from a dismal July
 image: https://static.independent.co.uk/2026/08/07/05/US_Economy_Jobs_Report_47938.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 The U.S. Labor Department is expected to report Friday that the American job market bounced back last month from a dismal July, even though jobseekers continue to struggle and pay gains are slight.

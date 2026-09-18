@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: A US content creator and his brother say they were victims of racism
   at Lisbon's K-Urban nightclub, which has previously faced similar accusations.
 image: https://images.euronews.com/articles/stories/09/88/41/72/1200x675_cmsv2_e1bef0c7-2c05-5968-aea0-c7d6737a73d6-9884172.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## A US content creator and his brother say they were victims of racism at Lisbon's K-Urban nightclub, which has previously faced similar accusations.

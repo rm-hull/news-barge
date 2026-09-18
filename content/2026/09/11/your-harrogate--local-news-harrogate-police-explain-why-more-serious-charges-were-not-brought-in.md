@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police has responded to questions about why more serious
   charges were not brought following the death of Bailey Chadwick.
 image: https://mmo.aiircdn.com/409/687e7a24bf2db.png
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/687e7a24bf2db.png) 

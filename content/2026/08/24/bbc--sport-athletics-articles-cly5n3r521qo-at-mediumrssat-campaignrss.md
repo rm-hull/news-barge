@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Keely Hodgkinson withdraws from the women's 800 metres at Thursday's
   Diamond League meeting in Zurich because her "body is not quite ready".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Keely Hodgkinson](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg)

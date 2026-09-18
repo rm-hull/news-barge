@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: European regulators have imposed billions in penalties on US technology
   companies due to privacy, competition and digital market rules
 image: https://i.guim.co.uk/img/media/42dcbe50e263403769a169ca812482719ab67cdb/217_0_3084_2467/master/3084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c462fd813823221f1a7c92f983e0a444
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Dutch data protection authority has fined Uber €825m ($966m) for deactivating driver accounts through automated systems without adequately informing them, according to a 17 August decision.

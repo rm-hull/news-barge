@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Becky Jones is among more than 40 people taking legal action against
   a hospital trust.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Becky Jones has shoulder-length brown hair with a fringe. She is standing in a park and is wearing a dress with multi-coloured flowers on it.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3d40/live/fd679f40-ad33-11f1-9bc8-3509bd1a4ead.jpg)

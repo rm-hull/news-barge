@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A new state-of-the-art health and fitness club has offered a sneak peak
   inside the historic York building it has taken over ahead of its opening.
 image: https://www.gazetteherald.co.uk/resources/images/21413586.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 ### What is the Public Notice Portal?

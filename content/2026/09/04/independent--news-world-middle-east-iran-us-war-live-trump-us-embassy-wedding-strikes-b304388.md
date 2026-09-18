@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Vice president claimed that major combat operations ‘lasted about six
   weeks’
 image: https://static.independent.co.uk/2026/09/03/20/2293379972..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 US vice president JD Vance has claimed that China is “willing to play ball” in efforts to economically isolate Tehran, despite Beijing previously declaring that US sanctions would not disrupt their trade with the country.

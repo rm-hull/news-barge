@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Tesco and Waitrose are among the UK supermarkets with 'do not eat' warnings
   on some products.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21418326.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

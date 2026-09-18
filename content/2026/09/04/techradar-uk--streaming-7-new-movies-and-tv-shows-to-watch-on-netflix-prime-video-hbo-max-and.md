@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: From the latest Star Wars movie to The Gentlemen's return, here's what's
   worth watching this weekend.
 image: https://cdn.mos.cms.futurecdn.net/zAPcojoWRoRkmyMRn7WBYm-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ![Baby Yoda and Din Djarin riding on a speeder bike through a tunnel in The Mandalorian and Grogu](https://cdn.mos.cms.futurecdn.net/zAPcojoWRoRkmyMRn7WBYm.jpg) 

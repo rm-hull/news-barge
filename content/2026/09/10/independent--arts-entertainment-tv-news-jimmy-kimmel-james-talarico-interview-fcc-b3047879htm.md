@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Kimmel’s interview with James Talarico will be shown on YouTube, the
   late night host announced
 image: https://static.the-independent.com/2026/09/10/10/20/Jimmy-Kimmel-and-James-Talarico.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Jimmy Kimmel’s upcoming interview with Democratic Senate hopeful James Talarico will not air on ABC, the talk show host announced, citing the network’s legal troubles with Trump’s FCC as the cause.

@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: The Ugreen Magic E Ink Screen Case gives you a new way to view your photos,
   but I'll be sticking with my magnetic ereader.
 image: https://cdn.mos.cms.futurecdn.net/RzSRf3zX3P3Gupftpv7FkP-1271-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Ugreen Magic E Ink Screen Case](https://cdn.mos.cms.futurecdn.net/RzSRf3zX3P3Gupftpv7FkP.jpg) 

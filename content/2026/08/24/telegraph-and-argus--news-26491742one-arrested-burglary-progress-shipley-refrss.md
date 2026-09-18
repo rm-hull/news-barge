@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A woman has been arrested after police responded to reports of a burglary
   in progress.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14942344.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

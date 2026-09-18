@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: A NATIONAL competition is on the hunt for Britain’s most outstanding
   railway stations.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439906.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- History
 ---
 
 *(Image: Supplied)*

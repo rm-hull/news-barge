@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The leaders of China, Russia and India are among the heads of state gathering
   at a meeting billed as a counterweight to U.S. global influence
 image: https://static.independent.co.uk/2026/08/31/05/SCO_Summit__8599.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The leaders of China, Russia and India are among the heads of state gathering in Kyrgyzstan this week for the summit of the Shanghai Cooperation Organization, a group billed as a counterweight to U.S. global influence.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The U.S. Southern Command has sunk another Ecuadorian vessel that the
   U.S. alleged was linked to the criminal group Los Choneros
 image: https://static.independent.co.uk/2026/09/08/04/Ecuador_US_Boats_36774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The U.S. Southern Command on Monday sank another Ecuadorian vessel that the U.S. alleged was linked to the criminal group Los Choneros.

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'Star Wars: Galactic Racer developer suggests players should channel
   their inner Sebulba and try playing with their feet.'
 image: https://cdn.mos.cms.futurecdn.net/L6uGAyvUYCkkac6gpWy3pZ-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Iconic character Sebulba in Star Wars: Galactic Racer.](https://cdn.mos.cms.futurecdn.net/L6uGAyvUYCkkac6gpWy3pZ.jpg) 

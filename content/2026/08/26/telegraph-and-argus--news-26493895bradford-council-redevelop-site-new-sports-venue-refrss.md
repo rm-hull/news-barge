@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Bradford Council are planning to redevelop a neglected site as a possible
   new sports venue – it has been revealed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369250.jpg?type=og-image&xType=0&yType=128
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Green Party)*

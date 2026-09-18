@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Military Mate, a new online directory supporting serving personnel, veterans
   and their families, will launch at Catterick Leisure Centre in North…
 image: https://www.thenorthernecho.co.uk/resources/images/21465890.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: WILLIAM JOSEPH)*

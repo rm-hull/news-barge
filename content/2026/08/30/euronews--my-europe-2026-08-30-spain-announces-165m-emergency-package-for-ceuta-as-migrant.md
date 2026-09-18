@@ -9,6 +9,10 @@ description: 'The Council of Ministers will on Tuesday approve an emergency pack
   to revive the economy and strengthen public services in Ceuta, one month after the
   mass arrival of migrants. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/16/50/1200x675_cmsv2_535cefd1-de1c-5e74-b74d-e96e8068ac1e-9881650.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The Council of Ministers will on Tuesday approve an emergency package to revive the economy and strengthen public services in Ceuta, one month after the mass arrival of migrants.

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Access to a former Calderdale quarry where waste has been illegally dumped
   has been blocked by the Environment Agency.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIxOTljNDk3LWQzOWYtNDFkYy1iNTc5LWYyMDA3ODNjNWZhMDoyOWY2ZWNjZC0wYWI0LTRmNGUtYTRhMy0wOTIzYjg1NjY3YTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'Coming down hard' - Access blocked to Yorkshire quarry where waste was illegally dumped

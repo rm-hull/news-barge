@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A firefighter has issued a warning to parents after repeated fires at
   a disused mill.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453696.jpg?type=og-image&xType=0&yType=45
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 A top firefighter is pleading with parents to keep "curious children" away from from a "very unstable" disused mill after repeated fires at the historic site.

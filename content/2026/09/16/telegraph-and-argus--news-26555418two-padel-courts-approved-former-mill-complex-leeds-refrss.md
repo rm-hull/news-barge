@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Racket sport courts will be created at a former mill complex after plans
   were agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21226470.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google)*

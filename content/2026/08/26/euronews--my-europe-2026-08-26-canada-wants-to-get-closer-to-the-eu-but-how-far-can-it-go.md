@@ -10,6 +10,11 @@ description: 'In the midst of a trade war with the US, Canada’s Prime Minister
   on 16 September, with a summit between Ottawa and Brussels to follow. However, EU
   membership is not an option. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/93/00/1200x675_cmsv2_4ab7069e-3355-5f9d-9901-008faad1bd69-9889300.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ## In the midst of a trade war with the US, Canada’s Prime Minister Mark Carney will attend Ursula von der Leyen's State of the Union speech in Strasbourg on 16 September, with a summit between Ottawa and Brussels to follow. However, EU membership is not an option.

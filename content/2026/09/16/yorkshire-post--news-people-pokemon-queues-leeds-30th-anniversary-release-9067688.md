@@ -9,6 +9,11 @@ description: Excitement was high in Leeds for the release of the Pokémon Tradin
   Game’s’ 30th anniversary set as eager fans queued around the corner for the chance
   to get their hands on it.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/9/35/20260916_093246.jpeg?trim=66,0,67,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Pokémon TCG’s 30th anniversary release: Pictures show huge queues in Yorkshire

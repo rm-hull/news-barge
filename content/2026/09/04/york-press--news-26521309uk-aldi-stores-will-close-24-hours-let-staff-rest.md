@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: All Aldi stores in the UK will close for 24 hours later this year, giving
   staff a "chance to rest".
 image: https://www.yorkpress.co.uk/resources/images/20147663.jpg?type=og-image&xType=0&yType=139
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

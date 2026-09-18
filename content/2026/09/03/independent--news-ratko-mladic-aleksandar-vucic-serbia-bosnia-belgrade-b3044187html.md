@@ -10,6 +10,9 @@ description: The body of former Bosnian Serb army commander Ratko Mladic, who di
   last week while serving a life sentence for genocide, will be flown to Serbia on
   Thursday
 image: https://static.independent.co.uk/2026/08/28/16/APTOPIX_Bosnia_Obit_Mladic_36568.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The body of the former Bosnian Serb army commander Ratko Mladic, who died last week while serving a life sentence for genocide and other atrocities during the war in Bosnia, will be flown to Serbia on Thursday, President Aleksandar Vucic said.

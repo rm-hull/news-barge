@@ -9,6 +9,10 @@ description: The USS Abraham Lincoln's arrival has drawn global media interest a
   reports of deteriorating living conditions on board after more than 280 days at
   sea.
 image: https://images.euronews.com/articles/stories/09/90/09/94/1200x675_cmsv2_3003ac40-4d49-56d8-9a3b-a57a1a1eabf4-9900994.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The USS Abraham Lincoln's arrival has drawn global media interest after reports of deteriorating living conditions on board after more than 280 days at sea.

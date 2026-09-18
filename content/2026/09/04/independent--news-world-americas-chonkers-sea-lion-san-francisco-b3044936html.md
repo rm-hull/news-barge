@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The real Chonkers arrived at Pier 39 in March and unusually stayed for
   two months, turning him into a viral sensation
 image: https://static.independent.co.uk/2026/09/04/16/15/Untitled-design-(9).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Chonkers, the massive celebrity sea lion, has some competition, and the lookalike was ready for his close-up in San Francisco this week.

@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Two people have been arrested on suspicion of murder after a house fire
   in Grangetown claimed the lives of two people, including a child.
 image: https://www.thenorthernecho.co.uk/resources/images/21374229.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: STUART BOULTON)*

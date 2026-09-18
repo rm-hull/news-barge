@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nintendo reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Nintendo](https://cdn.mos.cms.futurecdn.net/kW5bsKx4FR5T3m3PeYqGDL-320-80.png)

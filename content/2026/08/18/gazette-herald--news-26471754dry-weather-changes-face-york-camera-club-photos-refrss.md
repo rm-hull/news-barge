@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Prolonged dry weather is taking its toll on York and its landmarks with
   parched grass, low water levels and dusty paths transforming familiar views.
 image: https://www.gazetteherald.co.uk/resources/images/21310188.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 York and the surrounding countryside are showing the effects of prolonged dry weather, with parched grass, low water levels and dusty paths transforming familiar views.

@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A four-bedroom bungalow with a summer house and large garden space has
   been placed on the market for £700,000 in Grange Park Road.
 image: https://www.gazetteherald.co.uk/resources/images/21336195.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 A four-bedroom bungalow with a summer house and large garden space has been placed on the market for £700,000.

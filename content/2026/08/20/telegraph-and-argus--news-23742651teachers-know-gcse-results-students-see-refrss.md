@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: It's GCSE results day and while students prepare to pick up their exam
   results, do teachers get to find out before them?
 image: https://www.thetelegraphandargus.co.uk/resources/images/19845355.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Getty)*

@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Acting secretary picked for top role as critics accuse president of overworking
   sailors during war with Iran
 image: https://i.guim.co.uk/img/media/85bc4989e8e1abc315739c73d1d988bb6664be4a/436_0_4356_3485/master/4356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0def70623730b56f2905877d1e0f7029
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump said Tuesday that he is nominating acting navy secretary Hung Cao for the permanent job, giving the navy combat veteran the nod as concerns have emerged that some sailors have been stretched to the limit during the Iran war.

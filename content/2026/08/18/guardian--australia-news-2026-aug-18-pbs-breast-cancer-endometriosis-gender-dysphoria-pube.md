@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Triptorelin, already listed for prostate cancer, should have unrestricted
   use, the Pharmaceutical Benefits Advisory Committee says
 image: https://i.guim.co.uk/img/media/592d9592e01942ce2d80387db8e6aac438d0b01e/0_1_5000_3998/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=734a1d67d869dfc01401e33e37d6173b
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The federal government should fund treatment for thousands of women with breast cancer or endometriosis, and children with gender dysphoria, according to the Pharmaceutical Benefits Scheme’s advisory committee.

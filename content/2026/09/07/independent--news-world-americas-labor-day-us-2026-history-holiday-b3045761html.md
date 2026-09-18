@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:48Z'
 published: '2026-09-07T00:00:00Z'
 description: It is celebrated on the first Monday in September every year
 image: https://static.independent.co.uk/2026/09/07/8/58/iStock-2164175487.jpeg?trim=83,0,83,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 This Monday, millions of Americans will take a public holiday as the country marks its annual Labor Day.

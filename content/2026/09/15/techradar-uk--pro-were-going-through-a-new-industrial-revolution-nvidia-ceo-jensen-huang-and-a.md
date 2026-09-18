@@ -8,6 +8,9 @@ scraped_at: '2026-09-15T22:53:35Z'
 published: '2026-09-15T00:00:00Z'
 description: Top tech CEOs share their views on AI at Dreamforce 2026
 image: https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih-2525-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/a6CcNrCYzbRg8G8yoReCih.jpg) 

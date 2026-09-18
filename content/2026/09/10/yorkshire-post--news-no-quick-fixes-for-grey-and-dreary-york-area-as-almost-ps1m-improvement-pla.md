@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: THERE are no quick fixes to turn around a grey and dreary part of York,
   an activist has said ahead of planned improvements worth almost £1m.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVhZTM5ZDY1LWQ5YjUtNGRiOS05YzA5LWZmYWYzNjc0ZjI0MjowZTI3YTQxZi0zZTBhLTQ0OWUtYmNlNi1lODAwNTZkMGY5YjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # 'No quick fixes' for 'grey and dreary' York area as almost £1m improvement plans backed

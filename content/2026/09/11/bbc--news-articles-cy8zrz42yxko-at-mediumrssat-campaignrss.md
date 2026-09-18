@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Hampshire and Isle of Wight Constabulary says it will use powers under
   the Crime and Policing Act.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97c6/live/422ddd40-adf9-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Protesters in Dover wearing black balaclavas](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/97c6/live/422ddd40-adf9-11f1-ad53-0d91a06f3150.jpg)

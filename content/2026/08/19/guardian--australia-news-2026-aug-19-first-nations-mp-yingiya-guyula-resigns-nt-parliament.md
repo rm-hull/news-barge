@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Yolngu independent Yiŋiya Guyula accused the CLP of ‘contributing to
   the breakdown of our culture and people, in what is becoming a slow genocide’
 image: https://i.guim.co.uk/img/media/572ae231764ce32db54c4e23715e7bbafa002bc6/972_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=918efe5fd8d05a2c0506af2f5a4142dc
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A First Nations MP from the Northern Territory has resigned from parliament, accusing the ruling Country Liberal party of introducing laws that are “dehumanising, oppressing and destroying our communities and our people”, and contributing to a breakdown of culture that he says is “becoming a slow genocide”.

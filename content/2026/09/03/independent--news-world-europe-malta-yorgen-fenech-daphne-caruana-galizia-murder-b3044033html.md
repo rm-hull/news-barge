@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Yorgen Fenech was found not guilty of orchestrating the 2017 murder of
   the investigative journalist in Malta
 image: https://static.independent.co.uk/2026/09/03/10/2026-09-02T195448Z_173704648_RC26BNAITLH0_RTRMADP_3_MALTA-DAPHNE-TRIAL.JPG?trim=124,0,572,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Malta's government has urged calm after the acquittal of a businessman accused of commissioning the 2017 murder of investigative journalist Daphne Caruana Galizia.

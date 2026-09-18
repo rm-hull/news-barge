@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Analysis of barn owl pellets reserve has revealed a rich variety of small
   mammals on at a North East nature reserve while helping researchers…
 image: https://www.thenorthernecho.co.uk/resources/images/21347243.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Analysis of barn owl pellets reserve has revealed a rich variety of small mammals on at a North East nature reserve while helping researchers monitor the spread of the invasive greater white-toothed shrew.

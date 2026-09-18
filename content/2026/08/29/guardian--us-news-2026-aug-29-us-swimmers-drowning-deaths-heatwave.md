@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Recent deadly water-related incidents amid heatwave leads National Park
   Service to issue water-safety reminders
 image: https://i.guim.co.uk/img/media/f60eb6ce957614453856486dc51296a8e9083d69/193_0_3308_2646/master/3308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=319868e886bd3b2e4855921538364f3a
+categories:
+- UK
+- News & Politics
 ---
 
 As a heatwave continues to bake the western and central US, officials are urging swimmers to be cautious when seeking respite from the summer heat, especially amid a score of recent deadly water-related incidents.

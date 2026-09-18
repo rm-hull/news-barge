@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: There was a good turnout at Hellifield Station today (Tuesday) for steam
   locomotive 60007 Sir Nigel Gresley.
 image: https://www.gazetteherald.co.uk/resources/images/21458264.jpg?type=og-image&xType=0&yType=42
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 Iconic steam locomotive 60007 Sir Nigel Gresley visited a North Yorkshire village today.

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Jess Partington, 34, who has lived at her home on Lyne Road in Middlestone
   Moor, near Spennymoor, for the last two years, first noticed the issues…
 image: https://www.thenorthernecho.co.uk/resources/images/21375967.jpg?type=og-image&xType=0&yType=292
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A County Durham mum has hit out at her landlord, saying an uncapped pipe leaves her home stinking of sewage every time neighbours flush the loo.

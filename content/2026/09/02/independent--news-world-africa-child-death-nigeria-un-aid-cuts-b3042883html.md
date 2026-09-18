@@ -9,6 +9,11 @@ description: 'Exclusive: Field chief for the UN’s agency for children in Niger
   ensuring infants reach their 5th birthday is a ‘top priority’ – as organisations
   warn of an unprecedented reversal in progress on child mortality due to aid cuts'
 image: https://static.independent.co.uk/2026/09/01/16/1242149901..?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 Ensuring children across the world reach their fifth birthday is set to be a “top priority” in Unicef Nigeria’s strategy into the 2030s, the UN agency’s field chief has told *The Independent –* as aid cuts risk reversing years of progress*.*

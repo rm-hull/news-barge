@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: About 125 firefighters tackle blaze at Neasden waste facility as nearby
   Amazon warehouse is evacuated
 image: https://i.guim.co.uk/img/media/d6294e52db43e0c31e4997a4b9cd874af4e646b9/968_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f18c943864f20ced9b25a59b3f6a1
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A large fire has broken out at a waste facility close to Wembley Stadium in north-west London, disrupting tube and train lines in the area.

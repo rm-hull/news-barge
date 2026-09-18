@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: Before you post that proud uniform shot, cybersecurity experts are urging
   families to consider the hidden dangers of AI image scraping
 image: https://cdn.mos.cms.futurecdn.net/Kgx6YYpiArhcD5M3Ga8TSb-2121-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Rear view of girls wearing backbacks and going to school](https://cdn.mos.cms.futurecdn.net/Kgx6YYpiArhcD5M3Ga8TSb.jpg) 

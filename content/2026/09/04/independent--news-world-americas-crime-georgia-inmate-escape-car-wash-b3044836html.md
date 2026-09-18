@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The 21-year-old escapee was an inmate trustee assigned to work at the
   sheriff’s office car wash
 image: https://static.the-independent.com/2026/09/04/14/34/Untitled-design-(8).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A Georgia inmate is back in police custody after escaping from a sheriff’s office car wash Thursday morning in a sedan driven by a woman.

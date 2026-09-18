@@ -10,6 +10,11 @@ description: Research shows that short practices of mindfulness are as good as, 
   not better than, long ones. Columnist David Robson takes a look at how we can incorporate
   these microhabits into our daily lives
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311638153.jpg
+categories:
+- Science
+- Technology & Software
+- Self-Improvement
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311638153.jpg?w=840)

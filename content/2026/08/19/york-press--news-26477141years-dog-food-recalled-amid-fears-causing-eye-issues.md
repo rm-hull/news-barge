@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Years has recalled its Signature Meals, which are stocked at major brands
   Pets at Home and Just for Pets.
 image: https://www.yorkpress.co.uk/resources/images/21338991.jpg?type=og-image
+categories:
+- Local
+- York
+- Pets & Animals
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

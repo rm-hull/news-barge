@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Manchester City striker Erling Haaland reveals his new buzz cut on social
   media.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Composite of Erling Haaland with long hair next to a more recent image of his shorter buzz cut haircut](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png)

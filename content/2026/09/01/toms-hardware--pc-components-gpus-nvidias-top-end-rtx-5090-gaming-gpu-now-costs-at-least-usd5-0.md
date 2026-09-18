@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T13:28:19Z'
 published: '2026-09-01T00:00:00Z'
 description: It's all down to AI
 image: https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![GeForce RTX 5090 Founders Edition](https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom.jpg) 

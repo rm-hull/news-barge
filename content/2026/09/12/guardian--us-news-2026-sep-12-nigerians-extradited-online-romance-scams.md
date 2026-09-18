@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Alleged members of Black Axe criminal network that swindled US women
   out of $6m flown from South Africa
 image: https://i.guim.co.uk/img/media/9deae01a52e3e94497a48c92870265ed21388757/531_0_2688_2151/master/2688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53d19518c5179b2767c4a82b3ddcf4bb
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online romance scams were extradited to the United States on Friday.

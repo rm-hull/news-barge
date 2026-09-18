@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A Russian drone strike that hit a warehouse west of the Ukrainian capital,
   Kyiv, killed at least 37 people, making it the war's deadliest attack of the year
 image: https://static.independent.co.uk/2026/08/29/19/Russia_Ukraine_War_24355.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 At least 37 people were killed when a Russian drone struck a warehouse in the village of Myla, west of Kyiv. The attack Friday night was the deadliest this year in the war and came as Russia steps up the frequency of major attacks on its neighbor in the hopes of exhausting Ukraine's defenses.

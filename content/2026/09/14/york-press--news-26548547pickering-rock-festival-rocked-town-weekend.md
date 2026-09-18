@@ -7,6 +7,12 @@ scraped_at: '2026-09-14T15:00:20Z'
 published: '2026-09-14T00:00:00Z'
 description: Pickering Rocks has once again struck a chord with the community.
 image: https://www.yorkpress.co.uk/resources/images/21452655.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 ## Crowds enjoy day of music, entertainment and fun

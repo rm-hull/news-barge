@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Spiders usually start to come out in early September, with their presence
   noticeable in homes until around mid-October.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19919547.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

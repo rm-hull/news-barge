@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: County Durham-born Countryfile star Matt Baker will lead the cast of
   Beauty and the Beast at Darlington Hippodrome this Christmas, alongside Liv…
 image: https://www.thenorthernecho.co.uk/resources/images/20757539.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A County Durham-born television star will take centre stage in Darlington Hippodrome's this Christmas pantomime.

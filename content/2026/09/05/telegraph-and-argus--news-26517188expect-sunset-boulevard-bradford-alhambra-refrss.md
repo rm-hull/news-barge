@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: SUNSET Boulevard - the tale of a struggling screenwriter pulled into
   the delusional, tragic world of an ageing silent film star - is heading for…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403777.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 SUNSET Boulevard - the tale of a struggling screenwriter pulled into the delusional, tragic world of an ageing silent film star - is heading for Bradford’s Alhambra Theatre next week.

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: AI's memory appetite gives Kioxia a reason to turn ultra-fast NAND into
   a serious DRAM alternative for data centers
 image: https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii-1920-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Kioxia's CXL module is currently undergoing client reviews.](https://cdn.mos.cms.futurecdn.net/RTo7FdeFYTobu2FVQZfMii.png) 

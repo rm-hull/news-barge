@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T13:03:25Z'
 published: '2026-08-18T00:00:00Z'
 description: 'From: Roger Backhouse, Orchard Road, Upper Poppleton, York.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3OTE3YzZkLTVlMzUtNDU3OS1hMGI0LTIwZTJkYjk4ZWU2MTpjOTYzYzhiYi0wY2U5LTQxMmQtOTMyZS1iYjgxMWJmNWUxMTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Why politicians should be encouraged to go on holiday - Yorkshire Post Letters

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Male police officer caught on camera during 9 February protest against
   visit of Israeli president Isaac Herzog
 image: https://i.guim.co.uk/img/media/8f7429a42a0eab6a1f80fd1195c42893315ec3d8/302_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=816617b12b99b155544d20237027fa90
+categories:
+- UK
+- News & Politics
 ---
 
 Video footage has emerged capturing a New South Wales police officer boasting about “punching” a protester in the head “when he was down”, before the protester was charged with assaulting police.

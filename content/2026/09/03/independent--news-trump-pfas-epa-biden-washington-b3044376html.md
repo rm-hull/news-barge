@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Trump administration has stalled a study that would help identify
   industries dumping harmful PFAS chemicals in wastewater, two former officials say
 image: https://static.independent.co.uk/2026/09/03/19/Stalled_PFAS_Study_Trump_1_535.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration has stalled a study that would help regulators understand which industries dump harmful forever chemicals with their wastewater, according to two former agency officials who were involved in its development.

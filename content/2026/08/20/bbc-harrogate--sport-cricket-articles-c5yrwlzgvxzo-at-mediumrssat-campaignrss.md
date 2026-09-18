@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Hampshire end day one on 60-4, 113 runs behind Yorkshire, after Kyle
   Abbott helps dismiss the visitors for 173.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8b84/live/c905b920-9cc2-11f1-b109-879e35c24276.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Kyle Abbott bowls for Hampshire](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8b84/live/c905b920-9cc2-11f1-b109-879e35c24276.jpg)

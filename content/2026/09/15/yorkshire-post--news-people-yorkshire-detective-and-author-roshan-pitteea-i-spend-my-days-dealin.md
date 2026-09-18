@@ -11,6 +11,12 @@ description: Roshan Pitteea is a Bradford-based detective and crime writer. He s
   to Laura Reid about his influences as he launches his own independent publishing
   company.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg5YjkyM2ZhLWNlMjItNGVjYS1iMmVkLTU3ODNjMjJlYTk5MjpiYmFkNWY1Yy1kODJlLTQ5YWItODk5My0wZGI5NmQ0YzQ2ODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- True Crime
 ---
 
 # Yorkshire detective and author Roshan Pitteea: 'I spend my days dealing with child abuse, rape and death and in my crime fiction, I want people to feel the realism of policing'

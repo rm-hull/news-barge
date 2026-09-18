@@ -10,6 +10,8 @@ description: With Reacher season 4 currently streaming on Prime Video, there's n
   been a better time to put your Jack Reacher knowledge to the test. But can you hack
   this quiz?
 image: https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Reacher looks at something offscreen](https://cdn.mos.cms.futurecdn.net/Gn9nWawP4WKKK6YZpH2sKm.jpg) 

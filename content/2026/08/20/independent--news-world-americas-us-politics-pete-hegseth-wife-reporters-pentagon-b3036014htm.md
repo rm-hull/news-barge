@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Jennifer Hegseth has emerged as her husband’s ‘most influential advisor,’
   according to a new report
 image: https://static.independent.co.uk/2026/08/19/22/18/GettyImages-2270042852.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Defense Secretary Pete Hegseth’s wife was a driving force behind the effort to bar reporters from the Pentagon, according to a new report.

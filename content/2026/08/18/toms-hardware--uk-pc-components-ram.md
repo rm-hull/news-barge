@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: RAM reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/cLYptTjVsVn3A49e2N8ayV-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Adata XPG Novakey RGB DDR5-6000 C30](https://cdn.mos.cms.futurecdn.net/cLYptTjVsVn3A49e2N8ayV-320-80.jpg)

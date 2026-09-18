@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: If you do one of these four things when sorting your bin collection,
   you can be issued with a fixed penalty.
 image: https://www.yorkpress.co.uk/resources/images/21391611.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 ## Avoid doing these 4 things when putting out your bins or be issued with an £80 fine

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: A rescue worker said the site had been struck twice as civilians gathered
   for a meditation retreat.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Mats and rugs can be seen on the floor of an open-walled space for meditation](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg)

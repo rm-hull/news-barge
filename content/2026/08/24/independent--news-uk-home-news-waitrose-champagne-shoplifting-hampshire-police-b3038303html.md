@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Comes after Andy Burnham said he wants police forces to take a ‘strong
   line against shoplifting’
 image: https://static.independent.co.uk/2026/08/24/14/44/Screenshot-2026-08-24-at-15-27-04.png?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have issued an appeal after £850 worth of Champagne was stolen from Waitrose.

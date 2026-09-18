@@ -9,6 +9,10 @@ description: Deal with South American ally worth $140 million and comes after Pr
   Donald Trump indicated he might not side with the U.K. should a new conflict erupt
   over the ownership of the Falkland Islands
 image: https://static.independent.co.uk/2026/09/11/11/2219165701..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The State Department has announced a deal to sell four UH-60L Black Hawk helicopters and related equipment to Argentina for $140 million.

@@ -10,6 +10,9 @@ published: '2026-09-14T00:00:00Z'
 description: '''It''s wild what people throw away these days'' says successful tech
   scavenger.'
 image: https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![County landfill trash to treasure picking](https://cdn.mos.cms.futurecdn.net/ihsSqsHBGmoax6s82AtRz5.jpg) 

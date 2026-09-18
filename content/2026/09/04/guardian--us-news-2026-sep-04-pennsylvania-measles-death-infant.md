@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Officials decline to confirm whether death was one of two announced last
   week as Lancaster county outbreak grows
 image: https://i.guim.co.uk/img/media/a157c31176f97b64db41b33fd2a055b6e45e4720/0_172_3060_2447/master/3060.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73e65a0e5cd7fd8c7e084037a6705a82
+categories:
+- UK
+- News & Politics
 ---
 
 A six-week-old child in Pennsylvania died from measles, the Lancaster County coroner has determined, following two measles-related deaths in the county last week.

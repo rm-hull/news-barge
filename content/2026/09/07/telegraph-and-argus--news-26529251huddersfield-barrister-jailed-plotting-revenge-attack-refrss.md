@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T19:53:17Z'
 published: '2026-09-07T00:00:00Z'
 description: A barrister has been jailed for plotting a violent revenge attack.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421604.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

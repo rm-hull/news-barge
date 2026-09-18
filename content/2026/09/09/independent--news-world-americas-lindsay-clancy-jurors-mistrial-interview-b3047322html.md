@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The holdout juror was described as ‘very arrogant’ by some of the other
   jury members
 image: https://static.independent.co.uk/2026/09/09/14/2026-09-04T204806Z_663411225_RC2GCNAVW01H_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY-NEXT.JPG?trim=0,225,0,225&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Three jurors in the Lindsay Clancy trial described thinking they had an acquittal — until a single holdout juror declared that he wouldn’t say Clancy was not guilty by reason of insanity.

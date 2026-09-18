@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A North East leisure centre's £1million gym transformation has earned
   national recognition after it was shortlisted for one of the fitness…
 image: https://www.thenorthernecho.co.uk/resources/images/21459150.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: Supplied)*

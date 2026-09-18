@@ -9,6 +9,9 @@ description: PM Andy Burnham on Sunday announced changes to the next early relea
   scheme - scheduled to start in October - which mean PC Harper's killers will stay
   in jail.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e2a/live/13967520-a398-11f1-b666-4bd8c8e39163.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Unidentified prisoners return from their jobs to their wings for lunch at Wandsworth prison](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e2a/live/13967520-a398-11f1-b666-4bd8c8e39163.jpg)

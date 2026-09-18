@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Amanda Serrano is made to work for her 50th career win against Lucrecia
   Manzur., which draws over three million views on TikTok.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f8e/live/eb6ae880-9df0-11f1-898b-91bf436c749f.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Amanda Serrano fighting Lucrecia Manzur in California](https://ichef.bbci.co.uk/ace/standard/939/cpsprodpb/4f8e/live/eb6ae880-9df0-11f1-898b-91bf436c749f.jpg)

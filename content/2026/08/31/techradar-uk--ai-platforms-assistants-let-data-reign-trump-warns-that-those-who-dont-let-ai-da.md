@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: AI has supercharged data center growth and sparked power, resource, and
   noise concerns, turning it into one massive hot-button topic for consumers
 image: https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![President Donald Trump speaks at a White House press briefing after a Black Hawk helicopter collided with American Airlines flight 5342 by DCA airport.](https://cdn.mos.cms.futurecdn.net/vV9tZyUzrznNHkCv2bd9Kb.jpg) 

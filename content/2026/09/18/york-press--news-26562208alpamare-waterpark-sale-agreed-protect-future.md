@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A major waterpark in North Yorkshire is expected to be sold to a new
   owner after it was taken over by North Yorkshire Council.
 image: https://www.yorkpress.co.uk/resources/images/21472739.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Major North Yorkshire waterpark to be sold after successful bid secured

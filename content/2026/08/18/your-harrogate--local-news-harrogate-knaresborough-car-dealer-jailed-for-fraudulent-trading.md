@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A director of a high-value sports car dealership in Knaresborough has
   been jailed for fraudulent trading.
 image: https://mmo.aiircdn.com/409/6a84059d14c2a7f8c56.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6a84059d14c2a7f8c56.jpg) 

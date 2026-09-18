@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:51Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/yorkshire-wolds-dreamstime.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 A new Yorkshire Wolds ‘Area of Outstanding Natural Beauty’ (AONB) could be created after an official organisation submitted a bid to the government.

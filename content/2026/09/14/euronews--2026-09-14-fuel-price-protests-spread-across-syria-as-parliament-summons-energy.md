@@ -9,6 +9,10 @@ description: Demonstrators blocked oil tanker routes and roads in six provinces 
   the second consecutive day of unrest over a 25-40% fuel price rise, as more than
   50 MPs signed a demand to question the energy minister.
 image: https://images.euronews.com/articles/stories/09/91/30/92/1200x675_cmsv2_e5d90759-96b2-55ee-8c5c-91fc7405e6a1-9913092.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Demonstrators blocked oil tanker routes and roads in six provinces on the second consecutive day of unrest over a 25-40% fuel price rise, as more than 50 MPs signed a demand to question the energy minister.

@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Electric cars are cleaner to drive - but their tyres pose a pollution
   problem. Better materials could help fix the problem.
 image: https://images.euronews.com/articles/stories/09/80/40/14/1200x675_cmsv2_66137d08-10c0-5f87-8763-9b39be4a0229-9804014.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- Technology & Software
+- Automotive
 ---
 
 **Denis Loktev**

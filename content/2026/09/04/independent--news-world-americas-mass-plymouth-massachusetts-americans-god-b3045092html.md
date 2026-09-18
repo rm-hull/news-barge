@@ -8,6 +8,10 @@ scraped_at: '2026-09-05T04:17:09Z'
 published: '2026-09-04T00:00:00Z'
 description: The judge has declared a mistrial in the Lindsay Clancy murder trial
 image: https://static.independent.co.uk/2026/09/05/00/Lindsay_Clancy_Trial_47573.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A mistrial was declared in the Lindsay Clancy murder trial on Friday after jurors failed to reach a verdict on whether she was criminally responsible for killing her three young children at her Massachusetts home.

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Police have detained dozens of demonstrators outside a courthouse in
   Istanbul
 image: https://static.independent.co.uk/2026/09/15/15/Turkey_LGBTQ%2B_348_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police on Tuesday detained dozens of demonstrators who staged a protest outside a courthouse in Istanbul to demand the release of LGBTQ+ activists taken into custody during a sweeping crackdown days earlier.

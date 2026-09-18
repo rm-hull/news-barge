@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Cheaper foreign imports have flooded the seafood market in the United
   States
 image: https://static.independent.co.uk/2026/08/19/20/00/iStock-474164285.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Coastal Georgia is renowned for its hospitality as well as for its shrimp-abundant estuaries and waterways. However, many dining spots along the coast do not source their seafood locally, while allowing patrons to assume that they do.

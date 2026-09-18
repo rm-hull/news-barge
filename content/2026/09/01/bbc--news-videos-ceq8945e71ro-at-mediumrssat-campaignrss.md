@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Norway's new King takes the first major step of his reign as his father,
   the late King Harald V, lies in state at the Royal Palace.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ef3/live/c7860520-a611-11f1-8637-5b46bde23e50.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Norway's new king takes oath as mourners pay respects to his late father

@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: Barracuda explains why attackers are moving beyond the inbox and into
   calendar apps, and what security teams need to change to keep up
 image: https://cdn.mos.cms.futurecdn.net/5SZMvKovSPYfFCNFA9RxaV-1280-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![URL phishing](https://cdn.mos.cms.futurecdn.net/5SZMvKovSPYfFCNFA9RxaV.jpg) 

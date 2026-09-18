@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A NORTH Yorkshire MP has warned about the impacts on ‘very price-sensitive’
   domestic tourism from the possible introduction of a new overnight…
 image: https://www.gazetteherald.co.uk/resources/images/21164227.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A NORTH Yorkshire MP has warned about the impacts on ‘very price-sensitive’ domestic tourism from the possible introduction of a new overnight visitor levy by regional mayors.

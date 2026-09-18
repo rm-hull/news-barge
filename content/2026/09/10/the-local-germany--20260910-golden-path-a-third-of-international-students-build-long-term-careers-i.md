@@ -9,6 +9,12 @@ description: Thinking of building a future in Germany after graduation? New rese
   suggests you're far from alone, with one in three international students staying
   until retirement.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-546010520.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Careers & Productivity
+- Education & Learning
 ---
 
 Germany's universities are doing something many countries struggle to achieve – attracting international talent and convincing a large share of it to stay.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Photos of Mount Fuji, bowls of ramen and the bustle of Shibuya Crossing
   are filling up social media feeds.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b5e/live/9e9feb10-a22b-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![A photo taken from behind of a woman looking up at a snow-topped Mount Fuji, with a lake in front of it](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b5e/live/9e9feb10-a22b-11f1-aed2-8d6da8d75094.jpg)

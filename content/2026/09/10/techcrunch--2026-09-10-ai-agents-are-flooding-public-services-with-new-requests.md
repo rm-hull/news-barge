@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: “The vast majority of cases we find are people who are entitled to claim
   for something, claiming for that thing,” the researcher told TechCrunch.
 image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 As AI makes it easier to fill forms and file complaints, public services around the world are seeing enormous jumps in applications and other requests.

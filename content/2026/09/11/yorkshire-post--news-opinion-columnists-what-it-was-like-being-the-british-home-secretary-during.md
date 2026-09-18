@@ -9,6 +9,13 @@ description: Today is the 25th anniversary of the tragic death of 3,000 people i
   the World Trade Center in New York on September 11, 2001. Others were killed in
   the bringing down of a plane and the attack on the Pentagon.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkyZDM2ZWYzLTZjNTAtNDg5OS1hNjBlLTg4ZTM1NWFlZjcyMTo0ZTY4NmI4NC1hZGQ5LTQwMTktOTc2OS00NGEwNWYxMzg2NTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
+- True Crime
 ---
 
 # What it was like being the British Home Secretary during 9/11 - David Blunkett

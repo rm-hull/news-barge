@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: The weather may have turned slightly this week – but the sun was still
   shining on one of Yorkshire’s agricultural shows this week.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyZjlmNTBlLWNjZDMtNDRkOS1iZTA2LWY3NWI1ODk0NzI3NzpmMzY0MmYxMS03MTUzLTQ2MGQtYmQzYi1iNGU2ZGE0OTUwNzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 The 135th Egton Show took place on Wednesday (Aug 26) in the pretty village in the North York Moors National Park.

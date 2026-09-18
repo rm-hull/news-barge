@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Other social media firms are yet to respond, while the debate from campaigners
   is far from over.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![A phone screen with the facebook and instagram logos on it. In the background is the meta logo.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg)

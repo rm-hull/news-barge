@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: A man has been given a four-year motoring ban after his careless driving
   caused serious injuries to a female motorist on a main road near Wetherby.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM5M2JkZmVjLTE4ZTMtNDkyMS04ZTQ5LTMzNzAzMjA3OTczZDozYTk0NGVmZC1mNWEyLTQ3ZWQtYWZlNC1iNDEyMzc0M2U5NWE=.jpg?crop=3:2,smart&trim=&width=1028&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Automotive
 ---
 
 # Man banned from driving for four years for causing catastrophic injuries to Wetherby schoolteacher

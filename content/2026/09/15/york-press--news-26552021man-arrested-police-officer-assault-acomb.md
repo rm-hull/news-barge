@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A man has been arrested after allegedly assaulting a police officer in
   a busy York high street.
 image: https://www.yorkpress.co.uk/resources/images/21457867.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

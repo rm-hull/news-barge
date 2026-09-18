@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T19:41:08Z'
 published: '2026-09-15T00:00:00Z'
 description: Parking charges have been put up at two West Yorkshire hospitals.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458178.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 PARKING charges have been put up at two West Yorkshire hospitals.

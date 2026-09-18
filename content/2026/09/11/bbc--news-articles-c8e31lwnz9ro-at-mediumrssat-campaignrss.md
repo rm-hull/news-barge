@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A quarter of a century since the 9/11 attacks, Charles Wolf reflects
   on his wife's final moments.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66ee/live/8db13e30-ad9d-11f1-9c00-532e2e73065b.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 ![A picture of Charles Wolf and his wife smiling at the camera. They are stood outside a door to a house. He is wearing a dark suit jacket and a black shirt. He has short, brown hair and is wearing spectacles. She is leaning into him, wearing a green jumper. She has short, red hair.](https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/66ee/live/8db13e30-ad9d-11f1-9c00-532e2e73065b.jpg)

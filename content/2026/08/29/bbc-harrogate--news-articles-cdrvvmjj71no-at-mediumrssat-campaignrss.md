@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The race will go through Lincolnshire, East Yorkshire and North Yorkshire
   before ending in Scotland.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb9/live/9672c8f0-997e-11f1-a4eb-59b79ff5ff4f.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- History
 ---
 
 ![A peloton of cyclists riding on a countryside road. People are crowded around, watching from behind metal barriers.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aeb9/live/9672c8f0-997e-11f1-a4eb-59b79ff5ff4f.jpg)

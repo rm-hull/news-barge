@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Pakistan’s Supreme Court has ordered authorities to take imprisoned former
   Prime Minister Imran Khan to a private hospital in the capital for a medical examination
 image: https://static.independent.co.uk/2026/08/18/12/Pakistan_Imran_Khan__8746.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Pakistan’s Supreme Court on Tuesday ordered authorities to take imprisoned former Prime Minister Imran Khan to a private hospital in the capital for a medical examination, following months of concerns from his family and personal physicians about his health and access to medical care, his lawyers and party officials said.

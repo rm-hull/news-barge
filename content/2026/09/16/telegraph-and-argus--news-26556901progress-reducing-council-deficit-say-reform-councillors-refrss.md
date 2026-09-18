@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A council facing a projected £5.4 million overspend by the end of this
   council year is nonetheless making progress to reduce costs, says a senior…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21108154.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A council facing a projected £5.4 million overspend by the end of this council year is nonetheless making progress to reduce costs, says a senior councillor.

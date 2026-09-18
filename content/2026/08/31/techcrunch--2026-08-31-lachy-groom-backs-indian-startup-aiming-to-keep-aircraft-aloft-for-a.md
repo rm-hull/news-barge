@@ -9,6 +9,8 @@ published: '2026-08-31T00:00:00Z'
 description: Founded by a 20-year-old, Alteon is developing autonomous aircraft that
   hopes to harvest wind energy to stay aloft for several months.
 image: https://techcrunch.com/wp-content/uploads/2026/08/alteon-airplane.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Prominent solo investor Lachy Groom has backed a Bengaluru startup attempting an ambitious feat: keeping an aircraft in the sky for more than a year by harvesting energy from ocean winds.

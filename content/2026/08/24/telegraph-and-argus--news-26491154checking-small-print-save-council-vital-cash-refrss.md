@@ -8,6 +8,13 @@ published: '2026-08-24T00:00:00Z'
 description: A local authority's administration is going through the small print in
   council contracts to find savings which might help it out of a budget…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21101235.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 A local authority’s administration is going through the small print in council contracts to find savings which might help it out of a budget deficit hole.

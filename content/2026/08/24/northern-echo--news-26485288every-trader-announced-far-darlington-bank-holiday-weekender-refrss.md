@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: From wood-fired pizzas and loaded fries to Brazilian açaí and homemade
   cakes, here's every trader announced for Darlington's Bank…
 image: https://www.thenorthernecho.co.uk/resources/images/21355560.jpg?type=og-image&xType=0&yType=472
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 From loaded hot dogs to wood-fired pizzas and indulgent desserts, there’s something for every appetite at Darlington Market’s Bank Holiday Weekender.

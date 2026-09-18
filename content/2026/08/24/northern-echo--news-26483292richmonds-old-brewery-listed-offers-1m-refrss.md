@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Dating from the early 19th century, The Old Brewery is an attractive
   Grade II-listed home on Richmond’s green – just a short walk from the town…
 image: https://www.thenorthernecho.co.uk/resources/images/21353352.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 *(Image: FINE & COUNTRY)*

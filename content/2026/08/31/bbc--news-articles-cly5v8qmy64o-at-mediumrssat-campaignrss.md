@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Ukraine says Russia is deliberately attacking its culture, after strikes
   on publishers and churches.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b91/live/ac7c04f0-a2e7-11f1-a789-b16da4059b6b.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A young woman clutches a book to her chest and looks sad. Behind her is a bombed-out market structure. Destroyed books litter the ground around her](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6b91/live/ac7c04f0-a2e7-11f1-a789-b16da4059b6b.jpg)

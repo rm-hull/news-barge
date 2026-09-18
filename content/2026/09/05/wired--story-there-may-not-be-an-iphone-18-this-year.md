@@ -9,6 +9,10 @@ description: Apple is expected to announce several products at its September eve
   next week—including a folding phone—but the iPhone 18 might not be among them. It
   would be a first for the company.
 image: https://media.wired.com/photos/6a9728f10bab9c8d3b25021e/191:100/w_1280,c_limit/Might-Not-Be-iphone-18-Gear-2241791725.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Every year around this time, Apple announces new iPhones. The products go on sale soon after, usually ranging from a base model to more premium and more expensive Pro models. But this year will likely be different—not just because the company has a brand-new CEO.

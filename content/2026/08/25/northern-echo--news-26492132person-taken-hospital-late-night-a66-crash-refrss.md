@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A person has been taken to Darlington Memorial Hospital after a late-night
   crash on the A66 between the A1(M) Scotch Corner and Bowes in County…
 image: https://www.thenorthernecho.co.uk/resources/images/21366783.jpg?type=og-image&xType=6&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: GOOGLE)*

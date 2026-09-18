@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: 'Sept. 3 - Sept. 9, 2026 AP Mobile Scroll: a selection of standout vertical
   images published by The Associated Press in the last week.'
 image: https://static.independent.co.uk/2026/09/09/10/US_Open_Tennis_44_99.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Sept. 3 - Sept. 9, 2026 AP Mobile Scroll: a selection of standout vertical images published by The Associated Press in the last week.

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Police has issued two CCTV images of a man and a woman
   following a theft from a garden centre in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRlODAyOWUzLTEzYTktNGIyMi04NmM4LWFmMzQ5ODgwZTgwODo2ODIxZDBiOS04MTBkLTRkYjItYTI3Yi1mYTUzNjU4MTZkMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 # North Yorkshire Police release CCTV images of man and woman following theft at garden centre in Harrogate

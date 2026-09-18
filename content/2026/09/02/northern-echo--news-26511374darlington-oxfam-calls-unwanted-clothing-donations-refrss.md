@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Darlington Oxfam charity shop is encouraging people to donate their unused
   clothes as part of its Second Hand September campaign.
 image: https://www.thenorthernecho.co.uk/resources/images/21395708.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Society & Culture
 ---
 
 *(Image: Oxfam)*

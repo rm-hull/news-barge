@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Former prime minister Sir Keir Starmer has announced he will stand down
   as an MP, just weeks after being dethroned by Andy Burnham.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/28/05/v2-image-production-98728edf86503937cba23efd62e283d6Y29udGVudHNlYXJjaGFwaSwxNzc4NDQ4NDkz-2.84560750.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Sir Keir Starmer: former prime minister to stand down as MP

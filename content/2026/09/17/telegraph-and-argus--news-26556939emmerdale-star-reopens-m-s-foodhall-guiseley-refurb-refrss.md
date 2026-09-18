@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T04:45:13Z'
 published: '2026-09-17T00:00:00Z'
 description: An Emmerdale star has reopened a newly revamped food store.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464799.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: UGC)*

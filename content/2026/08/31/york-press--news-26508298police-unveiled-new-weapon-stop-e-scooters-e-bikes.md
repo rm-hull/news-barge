@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Police forces across the UK have unveiled a new weapon to stop e-bikes,
   e-scooters and motorcycles.
 image: https://www.yorkpress.co.uk/resources/images/20895754.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Thames Valley Police)*

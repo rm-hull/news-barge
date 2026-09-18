@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A driver stopped for speeding is now in custody due to suspected outstanding
   immigration matters.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470468.jpg?type=og-image&xType=0&yType=629
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

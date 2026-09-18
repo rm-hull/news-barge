@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: The venerable newsmagazine “60 Minutes” opened its 59th season on CBS-TV
   on Sunday night
 image: https://static.independent.co.uk/2026/09/01/14/2187869220..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 When CBS’s venerable newsmagazine "60 Minutes" launched its 59th season on Sunday night, it made no direct mention of the turmoil and staff departures unfolding behind the scenes in recent months.

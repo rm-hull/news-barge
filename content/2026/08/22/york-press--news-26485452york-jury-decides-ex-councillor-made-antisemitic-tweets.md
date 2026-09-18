@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The CPS and York's top judge speak after a former North Yorkshire town
   mayor was found to have posted antisemitic tweets when a councillor.
 image: https://www.yorkpress.co.uk/resources/images/21356025.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Ex-North Yorkshire mayor posted antisemitic tweets, jury decides

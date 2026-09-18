@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: More than £750,000 has been raised for the families of two officers who
   were killed when a car driving the wrong way on the A66 collided into their…
 image: https://www.thenorthernecho.co.uk/resources/images/21367256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 More than £750,000 has been raised for the families of two officers who were killed when a car driving the wrong way on the A66 collided WITH their vehicle.

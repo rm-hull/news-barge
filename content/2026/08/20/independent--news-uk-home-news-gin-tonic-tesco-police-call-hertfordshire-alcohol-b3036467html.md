@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Furious shopper ‘not having it’ as he tells police he is ‘so angry he’ll
   get arrested’
 image: https://static.independent.co.uk/2026/08/20/14/12/gordons.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An angry Tesco customer called 999 after he mistakenly bought alcohol-free gin and tonic.

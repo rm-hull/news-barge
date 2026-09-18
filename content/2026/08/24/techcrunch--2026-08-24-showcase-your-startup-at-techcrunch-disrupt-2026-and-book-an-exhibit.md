@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Make the most of Disrupt's crowds of potential investors and partners
   by exhibiting your startup from October 13-15.
 image: https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 You don’t need a keynote session to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15.

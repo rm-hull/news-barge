@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Netflix is now charging £7.99 a month for its cheapest standard plan,
   with adverts.
 image: https://static.independent.co.uk/2025/12/05/13/05150001-6c79299d-12fa-4652-8f76-3242ffb79de0.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Film & TV
+- Business & Entrepreneurship
 ---
 
 Netflix has raised the prices of its UK subscriptions, with its cheapest plan jumping by a third in the latest round of hikes.

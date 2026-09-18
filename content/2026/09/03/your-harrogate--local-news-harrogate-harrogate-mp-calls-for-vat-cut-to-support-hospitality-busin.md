@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has called for a cut in VAT
   to support local hospitality businesses.
 image: https://mmo.aiircdn.com/409/6a99307da2ff2842aa8.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99307da2ff2842aa8.jpg) 

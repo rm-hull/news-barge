@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Europe's hottest defence startup just found an unlikely Japanese ally
   as Rakuten helps Helsing enter the military market
 image: https://cdn.mos.cms.futurecdn.net/Pez3cA3RhTyZ3h9UGj8h4Z-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Helsing HX-2 strike drone](https://cdn.mos.cms.futurecdn.net/Pez3cA3RhTyZ3h9UGj8h4Z.png) 

@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: The US and Iran are caught in ‘terrible stalemate’, former CIA chief
   says
 image: https://static.independent.co.uk/2026/09/06/15/2167177814..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The US war with Iran is likely to last another six months, according to former defence secretary Leon Panetta.

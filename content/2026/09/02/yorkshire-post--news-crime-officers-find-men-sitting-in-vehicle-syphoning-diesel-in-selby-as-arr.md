@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Two men have been arrested after police were called to a building contractor’s
   site in Selby.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIxNDRmNDkzLTRjNDQtNGYwZS1hOWZjLTBjN2E3YjU0Y2JjNDo4YjA1ODdhMy0xZWY0LTQzZWItYmU0NC02MDcyOTZkMTBkY2I=.png?crop=3:2,smart&trim=&width=968&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Officers find men sitting in vehicle syphoning diesel in Selby as arrests made

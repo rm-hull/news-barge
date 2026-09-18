@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: President Donald Trump serves up gourment hamburgers to invited guests
   as voters priced out of favorite meal
 image: https://static.independent.co.uk/2026/09/03/16/download..?trim=0,411,0,411&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump hosted an “End of Summer BBQ” in the White House Rose Garden Wednesday where his guests were served gourmet hamburgers - a choice that has provoked an uproar in light of the ongoing affordability crisis.

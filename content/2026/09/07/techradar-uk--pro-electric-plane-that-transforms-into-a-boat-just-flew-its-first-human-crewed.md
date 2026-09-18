@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: This 15,000 lb electric seaglider just took humans airborne, while REGENT
   prepares for commercial production across six continents
 image: https://cdn.mos.cms.futurecdn.net/4yeCjs9etD4eueSMCBxwCL-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![REGENT Viceroy Seaglider, a boat that flies completes its first test with people onboard](https://cdn.mos.cms.futurecdn.net/4yeCjs9etD4eueSMCBxwCL.jpg) 

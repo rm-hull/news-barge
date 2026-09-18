@@ -10,6 +10,9 @@ published: '2026-08-29T00:00:00Z'
 description: The Noble Audio Vanguard supply detailed, balanced sound at a relatively
   modest price-point.
 image: https://cdn.mos.cms.futurecdn.net/scrie39iTJsMJTRR3m8jcV-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ### TechRadar Verdict

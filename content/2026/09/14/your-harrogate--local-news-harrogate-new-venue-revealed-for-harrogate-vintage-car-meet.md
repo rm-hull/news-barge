@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Harrogate Car Enthusiasts Club has announced a new venue for its monthly
   meet this evening (Monday).
 image: https://mmo.aiircdn.com/409/6aa798e923ebeac23cd.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa798e923ebeac23cd.jpg) 

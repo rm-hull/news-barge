@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Dreamforce conference became an unlikely battleground for the CEOs
   of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.
 image: https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/191:100/w_1280,c_limit/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Decked out in purple and plaid, Gwen Stefani belted her 2002 single “Underneath It All” to a packed conference center in San Francisco on Tuesday morning—but she was just the warm-up. At the end of her performance, Stefani shouted “Dreamforce! Let’s go!” into a checkered microphone before Salesforce CEO Marc Benioff strode into the spotlight. Dreamforce is billed as the world’s largest enterprise software conference but feels more like attending a megachurch—especially this year.

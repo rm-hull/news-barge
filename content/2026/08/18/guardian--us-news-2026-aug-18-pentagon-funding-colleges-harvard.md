@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Harvard, Yale, Stanford and others face directive to review and cut alliances
   Pentagon deems national security risk
 image: https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87af98941400395df7a44384d53bf0b0
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese institutions.

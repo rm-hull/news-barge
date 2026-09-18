@@ -10,6 +10,11 @@ description: Six months ago, when we named Barnsley as the UK’s first Tech Tow
   were some naysayers. People who couldn’t see how, or even why, we’d want to plot
   Britain’s AI future, in the heart of South Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIwYjgzYTdhLTY5YTktNDdlZS1iMDliLTYwNTZlOGU5NTZhMzpiYWMxOGJlZC02MjExLTQ0MzAtYTM3NS02MGQyNDBkY2FiZDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Barnsley is already showing the potential of AI as Britain’s first Tech Town - Andrew Western

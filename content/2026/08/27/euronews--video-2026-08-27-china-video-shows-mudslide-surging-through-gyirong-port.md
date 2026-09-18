@@ -9,6 +9,10 @@ description: Video. A flash flood swept through China’s Gyirong port on 26 Aug
   after a major disaster struck nearby Nepal. Footage shows mud and debris engulfing
   the border trade hub.
 image: https://images.euronews.com/articles/stories/09/89/17/88/1200x675_cmsv2_69d59ee9-fba0-54be-937a-7b8c564ef82d-9891788.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Surveillance footage posted on Chinese social media shows a wall of mud and debris rushing towards the port, with people running as parked vehicles were surrounded by floodwater.

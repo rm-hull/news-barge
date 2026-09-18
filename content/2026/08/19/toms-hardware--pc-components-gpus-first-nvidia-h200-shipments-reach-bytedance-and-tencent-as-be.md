@@ -9,6 +9,10 @@ scraped_at: '2026-08-19T13:10:20Z'
 published: '2026-08-19T00:00:00Z'
 description: Roughly 10,000 accelerators each have entered mainland China.
 image: https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia server GPUs](https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf.jpg) 

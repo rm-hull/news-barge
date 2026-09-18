@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Police in Nigeria have fired tear gas at protesters demanding justice
   for 37 miners who died in custody
 image: https://static.independent.co.uk/2026/09/18/11/Nigeria_Miners_Deaths__944.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 Police in Nigeria fired tear gas at dozens of people who gathered Friday to protest the deaths of 37 miners while they were in custody.

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Netherlands has relocated 86 tonnes of the shiny stuff - what's going
   on?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 ![Gold bars stacked up](https://ichef.bbci.co.uk/ace/standard/652/cpsprodpb/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg)

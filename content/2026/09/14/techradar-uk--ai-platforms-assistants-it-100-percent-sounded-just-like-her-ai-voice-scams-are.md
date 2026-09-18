@@ -8,6 +8,8 @@ scraped_at: '2026-09-14T20:17:45Z'
 published: '2026-09-14T00:00:00Z'
 description: AI means you can’t trust a familiar voice on the phone anymore
 image: https://cdn.mos.cms.futurecdn.net/qa2vdH9ywWNaTcjgaZuxL3-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Caucasian adult man male guy at home living room nervous looking at mobile phone.](https://cdn.mos.cms.futurecdn.net/qa2vdH9ywWNaTcjgaZuxL3.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: How Brentford and Tottenham's players rated following their Premier League
   match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/101a/live/a39b9870-9e58-11f1-92d9-fda6ee78d386.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Sandro Tonali looking sad](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/101a/live/a39b9870-9e58-11f1-92d9-fda6ee78d386.jpg)

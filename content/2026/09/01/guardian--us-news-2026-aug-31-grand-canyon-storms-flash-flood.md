@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Officials say one person still unaccounted for as forecast heavy rain
   and thunderstorms threaten further flooding
 image: https://i.guim.co.uk/img/media/9e8f7192343ef9b5b5fcfb76f3855d6e6c9595ea/179_0_5354_4284/master/5354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c43a979bdc8a1becee24fe0798a2c7d9
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A second death was confirmed by National Park Service officials on Monday after a flash flood sent a surge of water and debris through an area of the Grand Canyon over the weekend.

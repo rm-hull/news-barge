@@ -9,6 +9,11 @@ description: 'Recent comments by Portugal''s prime minister have prompted discus
   about which EU country currently has the best-performing economy and employment
   growth rate. #TheCube'
 image: https://images.euronews.com/articles/stories/09/90/87/55/1200x675_cmsv2_4581658c-46f5-5a9a-a466-1d533d35f278-9908755.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Recent comments by Portugal's prime minister have prompted discussion about which EU country currently has the best-performing economy and employment growth rate.

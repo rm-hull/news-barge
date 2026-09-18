@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Woman, her daughter, her son and his girlfriend identified as victims
   in incident that also critically wounded a child
 image: https://i.guim.co.uk/img/media/951d6f6f50004556048e4442e422d6d4b83814d4/0_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40b4a385dbb97a26fd87fbc09e694214
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 A Louisiana woman, her daughter, her son and his girlfriend have been identified as the four victims killed in a stabbing spree on Saturday that also left a young child critically wounded in the southern part of the state, according to a relative and family advocate.

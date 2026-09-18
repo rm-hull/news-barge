@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: UK public sector has awarded more than 2,000 contracts for AI-related
   projects in past eight years, analysis found
 image: https://static.independent.co.uk/2025/12/18/16/13/homeofficeindycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Ministers are putting the interests of Big Tech ahead of the public by spending billions on AI and not being transparent about its use, MPs and rights groups have warned.

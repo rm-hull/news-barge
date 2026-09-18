@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Trick or Treat Street will run from Saturday, October 24, to Saturday,
   October 31, at William’s Den, Castle Farm, near North Cave.
 image: https://www.yorkpress.co.uk/resources/images/21435648.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Halloween adventure returns to William's Den near North Cave this autumn

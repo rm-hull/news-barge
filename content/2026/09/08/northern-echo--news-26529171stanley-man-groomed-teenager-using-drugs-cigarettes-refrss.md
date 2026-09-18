@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Stanley man allegedly used drugs and cigarettes to groom a teenager
   into a sexual relationship and called her his ‘sexy s***’.
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Newsquest)*

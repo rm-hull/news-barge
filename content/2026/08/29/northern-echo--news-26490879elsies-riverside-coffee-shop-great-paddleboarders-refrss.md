@@ -8,6 +8,13 @@ published: '2026-08-29T00:00:00Z'
 description: Elsie's Riverside Coffee Shop is a great place to stop during a paddleboarding
   trip for some food and a coffee.
 image: https://www.thenorthernecho.co.uk/resources/images/21364755.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty)*

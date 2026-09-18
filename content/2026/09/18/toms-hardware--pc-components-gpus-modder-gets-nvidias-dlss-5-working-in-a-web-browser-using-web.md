@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T13:00:14Z'
 published: '2026-09-18T00:00:00Z'
 description: Neural rendering in a browser tab, no game install needed
 image: https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![NBA 2K27 gameplay](https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: More than 300 motorcyclists are set to ride in convoy through the Tyne
   Tunnel as part of a charity fundraiser supporting life-saving first aid…
 image: https://www.thenorthernecho.co.uk/resources/images/21449895.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

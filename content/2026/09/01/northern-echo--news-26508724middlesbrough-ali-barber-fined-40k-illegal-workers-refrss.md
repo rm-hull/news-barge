@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: S3 Barbers Limited, linked to Ali Barber in Middlesbrough, has been handed
   a £40,000 Home Office penalty for employing illegal workers.
 image: https://www.thenorthernecho.co.uk/resources/images/21391668.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA MEDIA)*

@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: Andrew White watches Paul Hendy’s affectionate, laugh-out-loud play in
   which three comedy legends share a dressing room and dissect the secret of…
 image: https://www.thenorthernecho.co.uk/resources/images/21338849.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: PAMELA RAITH)*

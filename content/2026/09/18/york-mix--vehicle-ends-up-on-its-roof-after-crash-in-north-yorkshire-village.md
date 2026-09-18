@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:01:46Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/08/ambulance-parliament-street-york-crop.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 One vehicle ended up on its roof after a crash this afternoon (Friday).

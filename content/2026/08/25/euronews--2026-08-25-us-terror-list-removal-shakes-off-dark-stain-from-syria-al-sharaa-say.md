@@ -10,6 +10,9 @@ description: Washington rescinded a designation in place since 1979, lifting sev
   Department also removed the terror designation from HTS, the group al-Sharaa led
   to topple Assad.
 image: https://images.euronews.com/articles/stories/09/88/77/29/1200x675_cmsv2_13789729-643c-56b9-b9eb-de06fdbc9719-9887729.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: HOUSEHOLDS on the North Yorkshire coast are facing renewed cost-of-living
   pressure as energy prices are set to rise.
 image: https://www.yorkpress.co.uk/resources/images/14371924.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Households on North Yorkshire coast face fresh energy bill increase

@@ -9,6 +9,12 @@ description: The first Yorkshirewoman to become head of a historic City of Londo
   livery company has vowed to help talented people working in industry get the recognition
   and opportunities they deserve.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlOWI3YmQ4LTU4Y2QtNGQwMC1iNjc2LTk5ZDdhODBkZGZlNjphYjZiMGExYy1lYzRmLTRiOTUtODcxMy00MjMzOTFmOTBkNTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- History
 ---
 
 # Skills champion becomes first Yorkshirewoman to lead historic livery company

@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Office of inspector general’s report says practice at Florida immigration
   jail is not aligned with ‘humane treatment’
 image: https://i.guim.co.uk/img/media/917c6c1c703ffefa53cc958b0aaa79c67bef2597/0_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=090bc8c68da8dd6980b43531ddc162ae
+categories:
+- UK
+- News & Politics
 ---
 
 Before the facility was shuttered, detainees at Florida’s “Alligator Alcatraz” federal immigration jail were frequently locked in outside metal cages no bigger than a phone booth, according to a damning government watchdog report that said the practice “does not align with standards for humane treatment”.

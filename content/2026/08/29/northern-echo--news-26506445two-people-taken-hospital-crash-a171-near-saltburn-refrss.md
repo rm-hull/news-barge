@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Two people are in hospital at James Cook University Hospital in Middlesbrough
   after a crash on the A171 near Saltburn.
 image: https://www.thenorthernecho.co.uk/resources/images/11215002.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NEAS)*

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A seasonal parking ban in place during a major York shopping centre's
   annual event could be enforced year-round under council plans.
 image: https://www.gazetteherald.co.uk/resources/images/21464138.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A SEASONAL parking ban in place during a major York shopping centre's annual event could be enforced year-round under council plans.

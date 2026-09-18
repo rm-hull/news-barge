@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Police have said they will have a visible presence at an A66 crash funeral
   amid concerns over its impact and school closures.
 image: https://www.thenorthernecho.co.uk/resources/images/21409880.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: THE NORTHERN ECHO)*

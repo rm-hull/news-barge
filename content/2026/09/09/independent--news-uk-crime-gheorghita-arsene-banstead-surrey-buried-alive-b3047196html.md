@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Gheorghita Arsene was buried alive after a ditch collapsed on him in
   June 2020
 image: https://static.independent.co.uk/2026/05/22/10/57/woodstown-house.png?trim=0,141,0,141&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two firms have received fines exceeding £1 million after a worker was buried alive in a trench collapse.

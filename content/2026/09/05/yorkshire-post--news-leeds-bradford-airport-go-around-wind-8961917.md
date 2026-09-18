@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A plane performed a go-around manoeuvre in strong winds at Leeds Bradford
   Airport on Friday.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/05/9/00/Red-And-Black-Modern-Tips-Trick-YouTube-Thumbnail-(1600-x-1080-px)-(1600-x-1080-px)-(1600-x-1080-px).jpg?trim=7,0,7,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Leeds Bradford Airport: Watch moment plane performs go-around in strong winds

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Police say train came off tracks between Rouen and Caen after striking
   unidentified object
 image: https://static.independent.co.uk/2026/09/12/05/2294258557..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 At least 44 people were injured, one critically, after a passenger train derailed in Normandy, northern France, on Friday evening.

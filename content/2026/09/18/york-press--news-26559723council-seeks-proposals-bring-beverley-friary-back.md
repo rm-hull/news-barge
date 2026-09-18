@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Council leaders are seeking proposals to bring Beverley Friary, a centuries-old
   East Yorkshire landmark, back into long-term use.
 image: https://www.yorkpress.co.uk/resources/images/21469269.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Supplied)*

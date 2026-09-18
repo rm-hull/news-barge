@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: She had been driving a car which was involved in a collision with an
   Audi being chased by police.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2606/live/dfad3c70-a474-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![A road with trees on either side and a number of police vehicles plus two dark cars parked on it](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/2606/live/dfad3c70-a474-11f1-aed2-8d6da8d75094.png)

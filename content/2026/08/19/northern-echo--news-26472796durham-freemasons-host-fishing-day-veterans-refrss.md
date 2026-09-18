@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Durham Freemasons hosted their annual Veterans Fishing Day at Aldin Grange
   Fishery in Bearpark, bringing together veterans from across County Durham…
 image: https://www.thenorthernecho.co.uk/resources/images/21333315.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Keith Blundy – Durham Freemasons)*

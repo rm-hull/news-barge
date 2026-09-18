@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A major fire at Dalton Mills in Keighley is now under control, but firefighters
   continue to remain at the scene this morning. Join us for updates…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21446549.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

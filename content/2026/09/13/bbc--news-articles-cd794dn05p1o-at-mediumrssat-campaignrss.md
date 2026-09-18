@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: New school food rules for England and ex-PM Boris Johnson "flees Vlad
   drone blitz" are the top stories in Monday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1791/live/a72ea9a0-afc4-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 !["No ice cream and compulsory lentils in school meal shake-up," reads the headline on the front page of the Daily Telegraph.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a7c2/live/348aa550-afbc-11f1-bc1f-3f186ca4140c.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: A NATIONAL singing competition is set to hit pubs across Bradford, offering
   locals the chance to become the UK’s next Pub Idol.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20702528.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Sports
 ---
 
 *(Image: Google Street View)*

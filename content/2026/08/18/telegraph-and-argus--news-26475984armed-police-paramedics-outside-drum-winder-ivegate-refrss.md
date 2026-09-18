@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Armed police and paramedics were present in the city centre earlier this
   afternoon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

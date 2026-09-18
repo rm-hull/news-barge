@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The U.S. Army is actively incorporating drone tactics learned from Ukrainian
   troops
 image: https://static.independent.co.uk/2026/09/12/12/Ukraine_Drones_34972.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A lone American soldier stood on a dusty road in Germany, fussing with a controller. Moments later, a drone, with wings that stretched almost as wide as his arms, whirred to life and shot into the sky.

@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: John Ternus made the case in his first keynote as Apple CEO that the
   iPhone isn't going anywhere.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Apple CEO John Ternus wants you to know that the iPhone isn’t going anywhere.

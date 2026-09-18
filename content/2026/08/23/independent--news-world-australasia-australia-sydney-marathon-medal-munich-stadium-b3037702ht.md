@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Marathon organisers laugh off mistake saying they’re ‘not going to run
   from it’
 image: https://static.independent.co.uk/2026/08/21/16/2232946833..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The organisers of the Sydney Marathon have acknowledged that the runners taking part in the event next week will receive a medal that features a football stadium in Germany.

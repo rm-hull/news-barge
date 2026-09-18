@@ -9,6 +9,10 @@ description: Alpharetta, Georgia, cops share data with thousands of Flock users,
   from federal agencies to a fish and wildlife commission. The reasons why show how
   vast—and invasive—the network has become.
 image: https://media.wired.com/photos/6a7f8e790de212bebbf00f21/191:100/w_1280,c_limit/Mid-Size-Town-Sharing-Flock-Data-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Alpharetta, a prosperous suburb of Atlanta, Georgia, is home to about 67,000 people, served by about 120 local police officers. It also hosts several dozen cameras sold by Flock Safety, the increasingly controversial surveillance company that collects license plate data and other information and makes it searchable by police.

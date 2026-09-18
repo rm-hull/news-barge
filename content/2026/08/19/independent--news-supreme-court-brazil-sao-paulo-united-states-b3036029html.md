@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Brazil’s Supreme Court unanimously ruled on Wednesday to significantly
   expand the scope of the country’s landmark law to protect women from violence
 image: null
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Brazil's Supreme Court ruled unanimously on Wednesday to significantly expand the scope of the country's landmark law to protect women from violence.

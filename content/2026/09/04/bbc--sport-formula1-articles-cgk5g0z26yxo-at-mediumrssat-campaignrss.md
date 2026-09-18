@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Charles Leclerc leads Lewis Hamilton in first practice at the Italian
   Grand Prix to start the weekend off on a positive note for Ferrari.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5fa1/live/ccbb9570-a858-11f1-ae45-e9984fc27c77.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Charles Leclerc on track in his Ferrari during Italian Grand Pric first practice](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5fa1/live/ccbb9570-a858-11f1-ae45-e9984fc27c77.jpg)

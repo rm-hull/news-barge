@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The predicted increase comes despite the Prime Minister’s plan to remove
   VAT from household electricity bills from October.
 image: https://static.independent.co.uk/2026/07/21/14/21135751-35c5b236-21b4-4223-8d15-655db0c34b7d.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Household energy prices are set increase again to the highest level for three years heading into winter, according to new forecasts.

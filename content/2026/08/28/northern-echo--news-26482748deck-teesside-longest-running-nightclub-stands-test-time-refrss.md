@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Deck nightclub in Redcar is preparing for its 60th anniversary after
   welcoming generations of Teessiders through its doors since 1967.
 image: https://www.thenorthernecho.co.uk/resources/images/18920212.jpg?type=og-image&xType=0&yType=98
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 From changing music trends to the rise of social media - one Teesside nightclub has stood the test of time and is now gearing up to celebrate its 60th anniversary.

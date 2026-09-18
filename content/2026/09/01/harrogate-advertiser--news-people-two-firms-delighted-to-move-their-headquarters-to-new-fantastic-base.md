@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Knaresborough’s St James Business Park has been hailed “a fantastic base”
   after two healthcare businesses decided to move their headquarters to there.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdjZDQyMWNlLWE4MmUtNDJlMi05MzUyLWE2Y2I5NmM5Nzc3OTozZTMwYmQ4MS1hMDAyLTQxNzEtYThjYS01MjA1ZjYwZGNmODU=.jpg?crop=3:2,smart&trim=&width=480&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Two firms 'delighted' to move their headquarters to new fantastic base at Knaresborough

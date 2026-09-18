@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Four French fighter jets have embarked on a 40-day flight to showcase
   the country's military might and international cooperation
 image: https://static.independent.co.uk/2026/09/11/12/Alaska_Pegase_2_26_94186.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Four fighter jets rose into the air over a French military base and settled into formation at the start of a 40-day flight taking them through the icy Arctic and steamy tropics before ending in a desert.

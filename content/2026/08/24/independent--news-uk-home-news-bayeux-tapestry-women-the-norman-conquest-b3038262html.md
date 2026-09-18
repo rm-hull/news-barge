@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T16:51:58Z'
 published: '2026-08-24T00:00:00Z'
 description: Three women are depicted in the main body of the tapestry
 image: https://static.independent.co.uk/2026/08/17/08/01M075GSWNR4HR21780366AMH9.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Bayeux tapestry is one of the most famous pieces of material culture produced in medieval England. The tapestry is fundamentally important for our understanding of the Norman conquest, telling us what happened and how it was remembered.

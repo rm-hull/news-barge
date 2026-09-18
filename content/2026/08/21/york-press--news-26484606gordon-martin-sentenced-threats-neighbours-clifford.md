@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: A man has been sentenced after making repeated threats to burn down his
   neighbours' homes over a parking dispute.
 image: https://www.yorkpress.co.uk/resources/images/19815117.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Anna Gowthorpe/PA)*

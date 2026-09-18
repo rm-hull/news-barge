@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: History could be made in Tadcaster this weekend when a polo legend aims
   to become the sport’s oldest active player.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjU1MDcwYzMyLTg0YTMtNDFkYS1hMTZhLTBhMWY5NDJhZWJmNzozMjNkNDA1My1lOTE5LTQzMzgtODRlMi1kZWFiZDkzMjBlN2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
+- Video Gaming
 ---
 
 # Yorkshire polo legend John Nash aims to break Guinness World Record by becoming the sport's oldest active player at Toulston Open in Tadcaster

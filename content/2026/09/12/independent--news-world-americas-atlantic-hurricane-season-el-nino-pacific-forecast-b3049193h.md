@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The last time there were no hurricanes during the Atlantic season was
   before the satellite era
 image: https://static.independent.co.uk/2026/09/10/17/48/GettyImages-2282081504-(1).jpeg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 Forecasters say it’s possible that the U.S. may not see any Atlantic hurricanes this season, potentially breaking a century-old record.

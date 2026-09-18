@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: An “exceptional” County Durham nursery school where children “thrive”
   has just made Ofsted history.
 image: https://www.thenorthernecho.co.uk/resources/images/21441398.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Arts & Culture
 ---
 
 *(Image: WINGATE NURSERY SCHOOL)*

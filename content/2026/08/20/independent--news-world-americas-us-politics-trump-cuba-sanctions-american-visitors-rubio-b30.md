@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Treasury and State departments announced measures against nine government-run
   mining, metal and construction firms
 image: https://static.independent.co.uk/2026/08/20/21/aNWi6pvrrxfvh-D9w1yjDkQDEUBAesjSmUwMCd1xtt3tzToL8LZywAcDdcyRcOzaoA1waTXrw1lGw2IwIfADZLXUdYOLEXf_J-VW..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump's administration has intensified financial restrictions on Cuba, targeting key commercial sectors and strengthening the enforcement of rules prohibiting American visitors from transacting with state-affiliated entities.

@@ -9,6 +9,10 @@ description: Elena Rybakina arrived in New York unable to walk without pain afte
   injuring her foot. She leaves the city as the US Open champion and new world number
   one.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9928/live/7fc5de80-af04-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Elena Rybakina holds the US Open trophy](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c61e/live/36f67ba0-af00-11f1-b1d1-571ed4d7ff2c.jpg)

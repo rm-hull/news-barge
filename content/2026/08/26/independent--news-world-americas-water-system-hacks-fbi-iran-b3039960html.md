@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The breach occurred amid a spate of hacks directed at PLCs in Minnesota
   and at least six other states
 image: https://static.independent.co.uk/2026/01/14/14/29/GettyImages-2217967320.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The FBI is investigating another cyberattack in the United States’ water sector, this time involving a small developer of water utility technology.

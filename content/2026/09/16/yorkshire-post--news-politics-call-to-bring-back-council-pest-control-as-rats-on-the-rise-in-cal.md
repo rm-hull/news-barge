@@ -9,6 +9,11 @@ description: Three years after the phasing out of a council’s pest control ser
   a councillor is urging it should be brought back, claiming rat infestations are
   on the rise.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJiODIzMjRlLTJjMWMtNDRhYS1iMzdiLTkzZDEyYTUwZGI5Mzo0NTc3MzBjZC1hYmVjLTQ4ZTUtYTA1Ny1kMDJiZjY0Yjg1Y2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Call to bring back council pest control as rats on the rise in Calderdale

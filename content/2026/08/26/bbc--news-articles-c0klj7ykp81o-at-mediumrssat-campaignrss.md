@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: John Ratcliffe travelled to the Russian capital on Tuesday in a rare
   and unannounced visit.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7061/live/1bd005c0-a141-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Director of the Central Intelligence Agency (CIA) John Ratcliffe](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7061/live/1bd005c0-a141-11f1-9311-09d4e1fc9016.jpg)

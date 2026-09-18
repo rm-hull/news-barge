@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Singalong nostalgia, psychological horror and prehistoric adventure are
   all on the programme as outdoor cinema returns to York Museum Gardens.
 image: https://www.yorkpress.co.uk/resources/images/21370140.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Submitted)*

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Gunmen attacked worshippers in Dekara village on Friday taking women,
   children and older people
 image: https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=817a020deaeb4328da40ed95b0bba10e
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 An armed group has posted a video showing what residents said were about 600 women, children and older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.

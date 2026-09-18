@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The Bayeux Tapestry arrived in the UK in July following a top secret,
   high security operation
 image: https://static.independent.co.uk/2026/09/03/16/09/GettyImages-79521129.jpg?trim=49,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Two broken threads have been discovered in the Bayeux Tapestry after its journey from France to Britain, the French culture minister has said, although it was not significantly damaged.

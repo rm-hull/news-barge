@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T11:52:43Z'
 published: '2026-08-24T00:00:00Z'
 description: MOTORISTS are facing delays on a main road in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21287521.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

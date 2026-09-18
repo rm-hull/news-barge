@@ -9,6 +9,9 @@ description: The ChatGPT maker says its upcoming Astra model may have reached �
   cyber capabilities, prompting it to halt a significant number of training runs while
   it tightens internal safeguards.
 image: https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/191:100/w_1280,c_limit/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 OpenAI announced Tuesday that it has halted “a significant number” of training workloads and evaluations for its forthcoming frontier artificial intelligence model—codenamed Astra—while it implements new procedures meant to address cybersecurity risks. The ChatGPT maker says it is introducing a number of new monitoring, security, and alignment requirements to better address the increasingly advanced hacking abilities of its frontier AI models.

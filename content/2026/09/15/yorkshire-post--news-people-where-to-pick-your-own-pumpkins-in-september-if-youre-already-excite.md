@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T04:46:03Z'
 published: '2026-09-15T00:00:00Z'
 description: Halloween is on the horizon, and pumpkin-carving is a rite of passage.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3Y2YwZmM5LTRiY2ItNGQwNS1iMmQ4LWQ0MzBmOTIxZjIwNToyNGExYjQzNi1hZDBlLTQ5MjAtODhkOS03ODE4NTAwN2IxODM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Shopping & Deals
 ---
 
 # Where to pick your own pumpkins in September – if you're already excited for Halloween

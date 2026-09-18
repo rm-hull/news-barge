@@ -9,6 +9,10 @@ description: Video. Thousands of Yemenis are fleeing renewed fighting and arrivi
   at makeshift Al Kadha camp in Taiz. The UN says 125,000 people have been displaced
   in the past two weeks.
 image: https://images.euronews.com/articles/stories/09/91/52/02/1200x675_cmsv2_85b6d870-fa4d-5256-aca1-022979d5ef10-9915202.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 Yemen has seen a new wave of displacement as fighting between Houthi rebels and Saudi‑backed forces intensifies, forcing families from their homes in Taiz province. On Tuesday, 15 September, displaced people arrived at makeshift camps with few belongings, while others built shelters from wooden branches and plastic sacks.

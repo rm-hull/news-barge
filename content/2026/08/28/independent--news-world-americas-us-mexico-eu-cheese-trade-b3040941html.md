@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The U.S. is objecting to Mexico's new trade deal with the European Union,
   which extends special protections to hundreds of European products
 image: https://static.independent.co.uk/2026/08/28/11/2026-08-28T090037Z_980290385_RC2J6NAFS3H0_RTRMADP_3_USA-MEXICO-TRADE-CHEESE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Disagreements over cheese nomenclature have become a major point of friction in trade negotiations between the United States and Mexico, according to two Mexican government sources speaking on condition of anonymity because of the delicate nature of the diplomatic talks.

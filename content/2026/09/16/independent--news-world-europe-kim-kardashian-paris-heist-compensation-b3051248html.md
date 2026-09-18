@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A Paris court has awarded Kim Kardashian 1 euro in compensation for an
   armed robbery she experienced in 2016
 image: https://static.independent.co.uk/2026/07/31/21/2280329859..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Kim Kardashian was awarded symbolic compensation of 1 euro ($1.15) by a Paris court on Tuesday following her 2016 armed robbery in the French capital, matching the precise amount she had requested, according to a lawyer involved in the ongoing legal proceedings.

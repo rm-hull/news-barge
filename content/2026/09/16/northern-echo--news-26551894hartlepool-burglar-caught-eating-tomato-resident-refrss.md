@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Hartlepool burglar Stephen Young, a third-strike offender, jailed for
   876 days after being caught eating a tomato inside a home he entered by…
 image: https://www.thenorthernecho.co.uk/resources/images/21457805.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A brazen burglar who broke into a house in broad-daylight was caught munching on a tomato by the homeowner.

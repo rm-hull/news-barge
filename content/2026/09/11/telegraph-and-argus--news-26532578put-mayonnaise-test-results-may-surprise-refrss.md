@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: OPEN any fridge in any kitchen across the UK and there is likely to be
   a jar of mayonnaise inside.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21426310.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 OPEN any fridge in any kitchen across the UK and there is likely to be a jar of mayonnaise inside.

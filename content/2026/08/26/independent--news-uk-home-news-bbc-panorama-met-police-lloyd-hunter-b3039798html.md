@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The BBC Panorama journalist spent seven months as a detention officer
   at the central London police station covertly filming officers
 image: https://static.independent.co.uk/2026/08/17/18/6a3f29a3616d5606b7cc9d992c65ef13Y29udGVudHNlYXJjaGFwaSwxNzg3MDcwMDIy-2.85580192.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Metropolitan Police officer who said he “couldn’t wait” to taser homeless people has been sacked from the force.

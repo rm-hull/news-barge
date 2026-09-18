@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T16:51:30Z'
 published: '2026-08-25T00:00:00Z'
 description: Fire crews were called out to two incidents in Scarborough on Monday.
 image: https://www.gazetteherald.co.uk/resources/images/20504761.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Society & Culture
 ---
 
 *(Image: Pexels)*

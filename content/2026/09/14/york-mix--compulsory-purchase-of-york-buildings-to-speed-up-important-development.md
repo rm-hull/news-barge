@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:56Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/willow-house-york-may-2026-1.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Moves to avoid potential delays to a York housing development have been approved.

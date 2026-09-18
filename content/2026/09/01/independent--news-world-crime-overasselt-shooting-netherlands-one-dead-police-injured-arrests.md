@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The shooting took place in the early hours of Tuesday morning in a rural
   village in the Netherlands
 image: https://static.independent.co.uk/2026/09/01/18/2292508951..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Dutch police arrested 34 suspects following a huge manhunt on Tuesday after a man was fatally shot and two police officers were wounded in what appeared to be a gangland attack that involved some 30 masked men walking down a street in a rural village in the Netherlands.

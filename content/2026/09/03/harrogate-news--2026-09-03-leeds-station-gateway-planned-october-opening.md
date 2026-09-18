@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Leeds Station Sustainable Travel Gateway is expected to begin opening
   in October.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/TCF-Bishopgate-Street.webp
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 The Leeds Station Sustainable Travel Gateway is expected to begin opening in October.

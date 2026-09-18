@@ -9,6 +9,12 @@ description: FBI director Kash Patel claimed to US senators that the removal of 
   bar on hiring people who had engaged in bestiality was aimed at protecting sexual
   assault survivors.
 image: https://media.wired.com/photos/6aa978ce718bdbe1c32c1f60/191:100/w_1280,c_limit/GettyImages-2294918085.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Film & TV
+- Society & Culture
 ---
 
 Kash Patel, director of the Federal Bureau of Investigation, told confused members of the Senate judiciary committee on Thursday that new FBI hiring standards are aimed at protecting “victims of bestiality.”

@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T13:07:35Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-gcse-results-2026-joseph-rowntree-school-2.webp
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 Thousands of students have been getting their GCSE results today (Thursday).

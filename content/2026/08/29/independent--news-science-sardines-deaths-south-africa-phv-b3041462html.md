@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T13:49:49Z'
 published: '2026-08-29T00:00:00Z'
 description: Water temperature can make fish more vulnerable to disease
 image: https://static.independent.co.uk/2026/07/20/15/01/SEI305882615.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Scientists are investigating the death of masses of sardines along the coast of South Africa.

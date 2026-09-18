@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Rail services have been disrupted today, with no services departing from
   London King's Cross or Peterborough until further notice after a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/10160690.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 Rail services have been disrupted today after a person was hit by a train.

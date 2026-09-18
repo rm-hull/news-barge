@@ -9,6 +9,11 @@ description: A jury in the Lindsay Clancy trial is struggling to reach a verdict
   whether the Massachusetts mother is criminally responsible for killing her three
   young children
 image: https://static.the-independent.com/2026/09/03/05/Lindsay_Clancy_Trial_35326.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Family & Parenting
 ---
 
 A deadlocked jury was sent back to deliberate Thursday as Plymouth Superior Court teeters on the brink of a mistrial in the trial of Lindsay Clancy, the former nurse accused of strangling her three young children to death in their basement.

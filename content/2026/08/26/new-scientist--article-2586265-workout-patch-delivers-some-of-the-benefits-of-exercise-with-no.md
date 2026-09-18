@@ -10,6 +10,10 @@ description: Injecting muscle cells beneath the skin of mice led to a patch of s
   cells that boosted their muscle mass, bone density and even markers of good brain,
   immune and liver function
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309451690.jpg?w=840)

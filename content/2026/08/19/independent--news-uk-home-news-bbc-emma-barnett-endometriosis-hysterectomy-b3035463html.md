@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The presenter had the procedure just two days before her documentary
   Fighting Endometriosis aired
 image: https://static.independent.co.uk/2026/08/19/08/6igqzb-F3dESMK_rqnHOZ65JEw4gjbIYA9cVCuNEn9LRPLdhJsbgChgmYsjy2cp_2Lk1fAhmCTQtKms8QLmSVAEru8DPQHBRABeQ..?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 BBC presenter Emma Barnett has revealed that she had to undergo a hysterectomy that she “didn’t want to have” as a result of her crippling endometriosis.

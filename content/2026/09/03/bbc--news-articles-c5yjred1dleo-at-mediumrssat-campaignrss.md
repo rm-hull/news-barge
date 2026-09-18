@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: More than 800 barrels of the stout have been stolen from a depot in Runcorn,
   Cheshire, say police.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c09/live/a3704fe0-a7b2-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![The entrance to the Diageo Packaging on Whitehouse Industrial Estate in Runcorn. There is a red and white barrier for vehicles at the entrance.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9c09/live/a3704fe0-a7b2-11f1-b5cf-8556ae508a51.jpg)

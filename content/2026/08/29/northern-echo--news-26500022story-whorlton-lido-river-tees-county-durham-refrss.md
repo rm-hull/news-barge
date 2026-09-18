@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Whorlton Lido was once one of County Durham’s best-loved summer attractions,
   drawing families to the River Tees for picnics, paddling and rides on…
 image: https://www.thenorthernecho.co.uk/resources/images/21378162.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 For generations of families across County Durham, Whorlton Lido was one of those places that came to define summer.

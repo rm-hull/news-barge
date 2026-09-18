@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Southern regions have the higher number of jobs for young people, research
   finds
 image: https://static.independent.co.uk/2026/09/15/11/23/neetsindycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Young people across the UK face major regional disparities in finding work, new research has found, as the worst areas to be not in education, training or employment (Neet) are revealed.

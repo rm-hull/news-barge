@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:10Z'
 published: '2026-09-08T00:00:00Z'
 description: ‘People got sick because the leaders they trusted lied,’ the mayor says
 image: https://static.independent.co.uk/2026/09/08/16/06/stewart-mamdani-911-dust-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 New York City Mayor Zohran Mamdani released more than 170,000 pages of internal records Tuesday that show officials misled people about the safety of the air around Ground Zero after the September 11 terror attacks.

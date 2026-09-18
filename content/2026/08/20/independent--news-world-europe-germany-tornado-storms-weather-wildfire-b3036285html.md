@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:06:58Z'
 published: '2026-08-20T00:00:00Z'
 description: A tornado struck the town of Fürstenwalde
 image: https://static.independent.co.uk/2026/08/20/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A woman has dies and at least two other people have been injured as severe storms hit parts Germany.

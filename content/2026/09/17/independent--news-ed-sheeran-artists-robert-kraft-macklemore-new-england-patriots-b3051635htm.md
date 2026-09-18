@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Ed Sheeran's Loop Tour faces chaos after four supporting acts quit in
   solidarity with Macklemore
 image: https://static.independent.co.uk/2026/09/14/22/Music_Macklemore_Ed_Sheeran_425_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Concert promoters wield great power. Venue owners can too but they rarely choose to. And artists capable of filling stadiums like Ed Sheeran usually have approval over everything that happens under their name.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A play café in County Durham has opened to a warm welcome from families
   across the region.
 image: https://www.thenorthernecho.co.uk/resources/images/21422133.jpg?type=og-image&xType=0&yType=229
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A play café in County Durham has opened to a warm welcome from families across the region.

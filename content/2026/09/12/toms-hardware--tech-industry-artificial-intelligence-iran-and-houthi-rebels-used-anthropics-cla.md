@@ -9,6 +9,9 @@ scraped_at: '2026-09-12T15:40:58Z'
 published: '2026-09-12T00:00:00Z'
 description: '''Great Satan''s'' AI comes in handy.'
 image: https://cdn.mos.cms.futurecdn.net/jNaH2yBJasgYEJyKmaCjMB-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![U.S. Navy](https://cdn.mos.cms.futurecdn.net/jNaH2yBJasgYEJyKmaCjMB.jpg) 

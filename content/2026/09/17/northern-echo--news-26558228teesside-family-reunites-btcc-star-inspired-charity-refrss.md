@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Middlesbrough man with cerebral palsy has reunited with BTCC driver
   Nicolas Hamilton, whose example inspired his family to launch a charity…
 image: https://www.thenorthernecho.co.uk/resources/images/21468433.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 A Middlesbrough man has reunited with the racing driver who inspired his family to start a charity for people with complex needs.

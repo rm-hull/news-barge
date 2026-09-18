@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The parents of Celeste Rivas Hernandez say execution "would be perfect"
   if D4vd is found guilty.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba73/live/c09843a0-abc4-11f1-a601-7d96c5d5b6ea.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A portrait of the late Celeste Rivas Hernandez is shown during a press briefing by Los Angeles County District Attorney Nathan J Hochman (out of frame) on 20 April 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ba73/live/c09843a0-abc4-11f1-a601-7d96c5d5b6ea.jpg)

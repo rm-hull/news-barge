@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The case essentially goes back to the same status as before the trial
   began, and prosecutors have to decide whether to try again
 image: https://i.guim.co.uk/img/media/b4a3a306209909b10f10c0de1632d63a4efbed44/219_0_2646_2118/master/2646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a26aa8d595c9982dcd419e321a86c4ae
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A Massachusetts jury was unable to come to a unanimous decision in the trial of Lindsay Clancy, a mother accused of murdering her three children, and a mistrial has been declared by Judge William Sullivan.

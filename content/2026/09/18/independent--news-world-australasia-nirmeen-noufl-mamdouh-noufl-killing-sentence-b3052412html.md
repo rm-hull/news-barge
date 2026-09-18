@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Nirmeen Noufl, 55, pleaded guilty last month to killing her husband in
   self-defence
 image: https://static.independent.co.uk/2026/08/10/08/2232549309..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Sydney woman who killed and dismembered her abusive husband was sentenced on Friday to three years in jail, with a further year added for disposing of the body.

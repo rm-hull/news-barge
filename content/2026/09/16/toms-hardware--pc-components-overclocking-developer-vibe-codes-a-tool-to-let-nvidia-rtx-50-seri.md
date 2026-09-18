@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The tool appears to be fully vibe-coded and highly experimental, but
   it does seem to work on at least some laptops.
 image: https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf-2240-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia RTX 50-series gaming laptops](https://cdn.mos.cms.futurecdn.net/D7aZSgz5tphrHEQWcDEtPf.jpg) 

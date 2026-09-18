@@ -10,6 +10,10 @@ description: The US attacks on Iran are the first in around a month as the Trump
   says the strikes were aimed at preventing Iranian forces from disrupting global
   shipping through the Strait of Hormuz.
 image: https://images.euronews.com/articles/stories/09/89/47/85/1200x675_cmsv2_e4ed40bf-a149-5e98-a1a3-6512a031d2d8-9894785.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The US attacks on Iran are the first in around a month as the Trump administration had shifted its war objective to inflict maximum economic pain on Tehran. Washington says the strikes were aimed at preventing Iranian forces from disrupting global shipping through the Strait of Hormuz.

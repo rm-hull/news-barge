@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Charles Perrottet, the younger brother of the former premier, tells Icac
   that claims made by Jean Nassif in the call were ‘bravado’ and ‘far-fetched’
 image: https://i.guim.co.uk/img/media/dd8992b62aae46d8073f89599af9dc6503485c02/0_525_2800_2240/master/2800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=302970ac444e6875a2ea879e27e56f1a
+categories:
+- UK
+- News & Politics
+- True Crime
+- Business & Entrepreneurship
 ---
 
 A property developer who allegedly made prohibited donations to support factional Liberal work claimed “the premier is my best friend” in a secretly recorded phone call the day after Dominic Perrottet was chosen as New South Wales premier, an inquiry has heard.

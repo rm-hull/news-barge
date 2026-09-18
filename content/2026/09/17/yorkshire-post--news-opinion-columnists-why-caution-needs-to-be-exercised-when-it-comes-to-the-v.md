@@ -11,6 +11,12 @@ description: North Yorkshire has one of the strongest visitor economies in the c
   that people, internationally, nationally and locally, choose to visit because of
   its landscapes, heritage, hospitality and sense of place.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNmM2VjZDhlLWJjYjQtNGU1ZS1iNDQ0LTFkNTE1MjUyODcwMDo0NGRkMzdjYy0yMTllLTRmZDUtYTQ4NC03YTQ4ODFkZDhmMWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- History
 ---
 
 # Why caution needs to be exercised when it comes to the visitor levy in North Yorkshire - Carl Les

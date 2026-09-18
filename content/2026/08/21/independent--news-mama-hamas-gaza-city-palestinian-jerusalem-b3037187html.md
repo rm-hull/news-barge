@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The mother of a 5-year-old Palestinian girl who was found dead days after
   Israeli forces fired on her family’s car wants an independent inquiry into her death
 image: https://static.independent.co.uk/2026/08/21/16/ADDITION_Mideast_Wars_Hind_Rajab_265_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- True Crime
 ---
 
 The mother of a 5-year-old Palestinian girl who was found dead days after Israeli forces fired on her family’s car in Gaza City wants an independent inquiry into her death, saying an Israeli military investigation announced this week is insufficient.

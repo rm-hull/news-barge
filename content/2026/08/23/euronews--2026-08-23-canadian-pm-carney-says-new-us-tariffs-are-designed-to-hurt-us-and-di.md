@@ -9,6 +9,10 @@ description: '"We cannot accept what they''ve offered, and we will not give what
   asked," Carney said during a speech outlining Canada''s position on the trade dispute
   with the US.'
 image: https://images.euronews.com/articles/stories/09/88/50/54/1200x675_cmsv2_a389cc41-fc5e-5ea5-8b99-40c4370111e6-9885054.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## "We cannot accept what they've offered, and we will not give what they've asked," Carney said during a speech outlining Canada's position on the trade dispute with the US.

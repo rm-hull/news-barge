@@ -7,6 +7,9 @@ scraped_at: '2026-08-19T21:32:03Z'
 published: '2026-08-19T00:00:00Z'
 description: Democratic lawmakers quickly and forcefully denounced Trump’s pick online
 image: https://static.independent.co.uk/2026/08/19/19/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump announced Wednesday that Dr. Heidi Overton, a senior White House adviser, has been selected to head the Food and Drug Administration.

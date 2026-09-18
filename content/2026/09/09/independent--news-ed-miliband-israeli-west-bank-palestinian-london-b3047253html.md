@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: British Foreign Secretary Ed Miliband has defended the decision to ban
   trade with Israeli settlements in the West Bank
 image: https://static.independent.co.uk/2026/09/09/12/Britain_Israel_Sanctions_35924.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 British Foreign Secretary Ed Miliband said Wednesday he was disappointed with Israel’s response to the government's decision to ban trade with Israeli settlements in the occupied West Bank, and rejected criticism from the U.K.'s chief rabbi.

@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: ChatGPT has just updated its Images tool to version 2.5, and it comes
   with a bunch of improvements. Here are the three you really need to know about.
 image: https://cdn.mos.cms.futurecdn.net/cnVjXWRmXoPTjoBqcL78aJ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Images from the new ChatGPT Images 2.5](https://cdn.mos.cms.futurecdn.net/cnVjXWRmXoPTjoBqcL78aJ.jpg) 

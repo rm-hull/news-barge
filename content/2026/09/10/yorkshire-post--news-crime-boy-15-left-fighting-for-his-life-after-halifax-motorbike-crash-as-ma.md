@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A 15-year-old boy has been left with life-threatening injuries after
   a motorbike and van crash in Halifax.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/9/36/Ovenden-Way-in-Halifax.png?trim=0,48,0,48&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Boy, 15, left fighting for his life after Halifax motorbike crash as man arrested

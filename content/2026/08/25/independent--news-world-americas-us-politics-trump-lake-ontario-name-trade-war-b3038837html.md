@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Ontario’s premier had earlier slammed Trump as a ‘dictator’ and ‘the
   king of bankruptcies’
 image: https://static.independent.co.uk/2026/08/25/00/2026-08-24T202227Z_1102145854_RC275NA3BY3Q_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump threatened to rename Lake Ontario to “Lake America” amid his escalating tariff war with Canada.

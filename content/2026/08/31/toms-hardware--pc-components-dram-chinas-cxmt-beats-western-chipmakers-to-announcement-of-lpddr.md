@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: LPDDR6 arrives in less than a year after CXMT started mass-producing
   LPDDR5.
 image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg) 

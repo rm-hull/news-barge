@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The move aligns with the rollback of transgender rights since Donald
   Trump returned to office
 image: https://static.independent.co.uk/2026/08/21/20/2255524105..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Log Cabin Republicans, the conservative gay rights group, announced it will be known as an “LGB” advocacy organization going forward, dropping the “T” and distancing itself from the transgender rights movement.

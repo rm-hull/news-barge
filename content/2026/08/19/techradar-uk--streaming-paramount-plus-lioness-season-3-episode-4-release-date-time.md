@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: A plan to leak information back to Russia is now underway after all hope
   is lost. So, when does Lioness season 3 episode 4 land on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/qLYDVdsBfuxsD6DJttmccM-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Morgan Freeman speaks into a red corded telephone](https://cdn.mos.cms.futurecdn.net/qLYDVdsBfuxsD6DJttmccM.jpg) 

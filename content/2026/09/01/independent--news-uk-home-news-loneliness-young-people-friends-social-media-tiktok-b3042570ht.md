@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Young people ‘experiencing distress and loneliness at every turn’, think
   tank finds
 image: https://static.independent.co.uk/2021/04/09/18/newFile-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
+- Society & Culture
 ---
 
 Young people in the UK are becoming the “loneliest generation” as they are five times more likely to have no close friends than 10 years ago, new research has found.

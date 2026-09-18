@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: It comes as Beijing is aiming to reshape its economy in the face of a
   number of challenges.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![People sit and rest in front of a closed ICBC credit card service centre, shielding themselves from the sun with umbrellas, on 19 April, 2025 in Chongqing, China.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg)

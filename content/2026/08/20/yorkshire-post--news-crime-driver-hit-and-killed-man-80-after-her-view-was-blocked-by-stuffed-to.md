@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A driver who caused the death of an 80-year-old when her view was blocked
   by stuffed toys in her car has been spared jail.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/20/16/11/TOYS.jpeg?trim=0,127,0,127&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Driver hit and killed man, 80, after her view was blocked by stuffed toys

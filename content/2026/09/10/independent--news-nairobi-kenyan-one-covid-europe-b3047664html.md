@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Acrobats are materializing at traffic stops in and around the Kenyan
   capital of Nairobi, providing entertainment to motorists stuck in jams
 image: https://static.independent.co.uk/2026/09/10/01/APTOPIX_Kenya_Street_Acrobats_17561.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 As the light turns red at a busy intersection in the Kenyan capital, a young man costumed in leopard print emerges into the street to perform somersaults. He is joined by five others, dressed similarly, as they execute a combination of acrobatic stunts.

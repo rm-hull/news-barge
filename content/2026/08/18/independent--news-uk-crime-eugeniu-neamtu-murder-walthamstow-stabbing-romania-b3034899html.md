@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Eugeniu Neamtu has been found guilty of stabbing his flatmate Gheorghe
   Trica to death in Walthamstow in February
 image: https://static.independent.co.uk/2026/08/18/13/2022467708..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 A foreign killer who served a prison sentence in Romania for murder went on to commit an almost identical fatal stabbing in east London just three years after his release, it can now be reported following his conviction.

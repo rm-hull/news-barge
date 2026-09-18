@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Railway enthusiasts are expected to flock to Knaresborough for two events
   shining a light on the town’s forgotten rail heritage.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiZTYzM2JkLWJjZmQtNDRkMy04OTc0LWM3ODVjZjU0MWY2Zjo5YjVlNzc0ZC03ZDQ1LTRkNjAtOWFmZS04YTM0MDFmMzVmYmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
+- Arts & Culture
 ---
 
 # Knaresborough is to welcome back rare historic railway artefact last seen in the town 180 years ago

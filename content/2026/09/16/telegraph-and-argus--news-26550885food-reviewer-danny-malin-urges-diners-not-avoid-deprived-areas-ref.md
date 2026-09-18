@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A popular food reviewer and YouTuber has urged people to give good businesses
   in deprived areas a chance.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456445.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: YouTube)*

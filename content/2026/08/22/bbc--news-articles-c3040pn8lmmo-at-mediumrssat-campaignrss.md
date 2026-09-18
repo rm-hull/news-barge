@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The Canadian prime minister will have the sell his gamble that walking
   away from talks with the White House will be worth the consequences.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Mark Carney stands in profile, facing to the left, against a clear light blue sky. He wears a dark blue suit and tie.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Four of Nurat Osman’s alleged abductors were killed during rescue after
   she was taken from outside her home last week
 image: https://i.guim.co.uk/img/media/ef213b9c8bdcfe26c44aecf9ce3022053056e171/0_91_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89e1c3f2e768802c9456c28e9b63d2a7
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abductors were killed.

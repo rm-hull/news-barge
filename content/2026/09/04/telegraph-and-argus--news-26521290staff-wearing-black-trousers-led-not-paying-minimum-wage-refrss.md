@@ -9,6 +9,13 @@ published: '2026-09-04T00:00:00Z'
 description: A Bradford firm says it did not pay minimum wage over an issue with staff
   wearing black trousers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407871.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

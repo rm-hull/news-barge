@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A County Durham cafe has announced it is closing its doors for good,
   saying the decision has “not been an easy” one.
 image: https://www.thenorthernecho.co.uk/resources/images/21329471.jpg?type=og-image&xType=117&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: GOOGLE MAPS)*

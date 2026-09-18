@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A York car dealership has been liquidated and a report says it owes more
   than £400,000.
 image: https://www.yorkpress.co.uk/resources/images/21354431.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Street View)*

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A man is calling for changes to police record retention policies after
   discovering details of his arrest remain on police databases despite a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337062.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: T&A)*

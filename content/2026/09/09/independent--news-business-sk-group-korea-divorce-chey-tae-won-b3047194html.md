@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: SK Group Chairman Chey Tae-won and Roh Soh-yeong married in 1988 and
   have three children
 image: https://static.independent.co.uk/2026/07/24/09/South_Korea_SK_Divorce_833_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Billionaire SK Group Chairman Chey Tae-won is expected to accept 700 billion won (£386 million) of the 944 billion won (£520 million) property division ordered by a South Korean court in a case that has been dubbed the “divorce of the century”.

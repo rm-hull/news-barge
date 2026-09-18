@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: BBC Verify tracks the changes in design, spec, manufacture and release
   date of the T1 phone from Trump Mobile.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/289b/live/3ae595f0-9d82-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing

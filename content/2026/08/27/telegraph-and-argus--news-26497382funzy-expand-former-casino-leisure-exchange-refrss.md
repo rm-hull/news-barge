@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A popular Bradford business will expand into one of the city centre’s
   biggest empty units to create “the best family entertainment centre in the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21069493.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

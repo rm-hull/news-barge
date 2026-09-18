@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Senior football correspondent Sami Mokbel goes inside Arsenal's bid to
   capitalise on their Premier League title and strengthen their squad this summer.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7364/live/28ce1350-a95e-11f1-99c3-dba02712eb49.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 **Going into the summer transfer window as Premier League champions, hope sprang eternal forArsenal.**

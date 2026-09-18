@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: Police say anyone who has buried the drugs and would like it back is
   ‘asked to get in contact with us’
 image: https://static.independent.co.uk/2026/08/24/16/01M0SXSK4SJ1D41SCYRC5HRT78.jpg?trim=127,0,128,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ecstasy, ketamine and more than 200 canisters of nitrous oxide have been found buried beneath the grounds of the Creamfields festival site.

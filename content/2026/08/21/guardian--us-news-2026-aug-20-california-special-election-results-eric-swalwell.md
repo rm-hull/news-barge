@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: State senator beats rival Melissa Hernandez and will replace US congressman
   who quit amid sexual misconduct claims
 image: https://i.guim.co.uk/img/media/774d94c1f7d07c77543d4efd89f83b72e3bbf1f4/714_0_6070_4856/master/6070.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b565c3b88199a38cc5c5b2b43fdcd8d1
+categories:
+- UK
+- News & Politics
 ---
 
 Progressive Aisha Wahab has been elected to Congress in a special election following a bitter intra-party battle over the seat formerly held by Eric Swalwell, who resigned in April after facing sexual misconduct allegations. Swalwell has denied the allegations.

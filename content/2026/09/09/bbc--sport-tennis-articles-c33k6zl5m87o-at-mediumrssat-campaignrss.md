@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen
   in a thrilling comeback to reach the US Open semi-finals.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/91af/live/25f87ff0-abe1-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Frances Tiafoe consoles Alex Michelsen](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/91af/live/25f87ff0-abe1-11f1-a291-b542ee92de7c.jpg)

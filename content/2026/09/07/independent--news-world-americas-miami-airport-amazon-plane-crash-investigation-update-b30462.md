@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T22:47:32Z'
 published: '2026-09-07T00:00:00Z'
 description: The crash killed five people and injured five others
 image: https://static.independent.co.uk/2026/09/07/21/2294021462..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Amazon cargo plane that killed five people when it overshot the runway and crashed in Miami on Sunday left behind a scene of “utter devastation,” according to the National Transportation Safety Board.

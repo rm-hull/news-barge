@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Today marks 20 years since Billy Dunlop admitting murdering Julie Hogg
   at The Old Bailey in London, ending Ann Ming's tireless fight for…
 image: https://www.thenorthernecho.co.uk/resources/images/21432138.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

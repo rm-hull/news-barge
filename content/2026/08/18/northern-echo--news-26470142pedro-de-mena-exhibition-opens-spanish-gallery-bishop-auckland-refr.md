@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Rare 17th-century sculptures by Spanish master Pedro de Mena are now
   on display at Bishop Auckland’s Spanish Gallery, bringing together three…
 image: https://www.thenorthernecho.co.uk/resources/images/21329311.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

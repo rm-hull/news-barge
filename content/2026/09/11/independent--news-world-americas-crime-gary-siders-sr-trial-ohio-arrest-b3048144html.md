@@ -10,6 +10,10 @@ description: Child protective services investigated the family in 2020 following
   of severe educational neglect, but permitted the parents to retain custody before
   closing the file five months later
 image: https://static.the-independent.com/2026/09/09/23/Ohio_Abused_Children_3167_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A southern Ohio grandfather whose 16 grandchildren were found living in squalid conditions was declared mentally incompetent to stand trial on Wednesday — but the case is still set to continue against other members of his family.

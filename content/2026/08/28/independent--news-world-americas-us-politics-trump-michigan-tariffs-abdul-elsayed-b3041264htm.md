@@ -9,6 +9,9 @@ description: Mike Rogers wants to create permission for Democrats to pick him ov
   Abdul El-Sayed, Eric Garcia writes. Trump’s tariffs and lake renaming hurts those
   opportunities
 image: https://static.independent.co.uk/2026/08/05/07/2180449693..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On Thursday, President Donald Trump signed an executive order renaming Lake Ontario “Lake America.” The move was part of Trump’s larger trade war with Canada, wherein he’s slapped a 50-percent tariff on Canadian auto parts, vehicles and steel.

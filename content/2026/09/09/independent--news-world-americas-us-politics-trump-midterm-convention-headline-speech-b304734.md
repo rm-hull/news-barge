@@ -9,6 +9,9 @@ description: Attendees include Speaker of the House Mike Johnson, Senate Majorit
   Leader John Thune, Texas Senator Ted Cruz, Ohio Senator Jon Husted and Ohio Senator
   Bernie Moreno.
 image: https://static.independent.co.uk/2026/09/09/14/2294241582..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump is set to kick off the Republican Party’s first-ever midterm convention with a pair of speeches spanning both nights of the Texas confab, even as GOP candidates in close races avoid the entire spectacle.

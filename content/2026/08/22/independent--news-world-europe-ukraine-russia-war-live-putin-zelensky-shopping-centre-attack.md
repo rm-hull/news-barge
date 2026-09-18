@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Nine people, including two children, are missing following Russia’s attack
   on a Ukrainian mall, according to local official
 image: https://static.independent.co.uk/2026/08/22/04/download..?trim=92,0,92,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 At least 16 people were killed and more than 130 wounded yesterday when several Russian drones struck a shopping centre in central Ukraine, authorities said.

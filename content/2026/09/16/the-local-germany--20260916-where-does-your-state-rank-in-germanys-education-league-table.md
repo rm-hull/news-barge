@@ -9,6 +9,11 @@ description: A new nationwide education ranking has once again put Saxony top of
   class and Bremen at the bottom. The study also warns that educational standards
   are slipping across all 16 German states.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-588158387.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Education & Learning
 ---
 
 Just days after the latest PISA assessment delivered another shock for Germany’s schools, a new study appears to reinforce the message.

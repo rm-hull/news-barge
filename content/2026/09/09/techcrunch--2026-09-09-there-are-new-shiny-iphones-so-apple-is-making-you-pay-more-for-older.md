@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Apple is raising the price of its existing iPhone models by $100, including
   iPhone 16, iPhone 17, and iPhone Air.
 image: https://techcrunch.com/wp-content/uploads/2026/08/apple-store-iphone-17.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple on Wednesday unveiled its new iPhone 18 and its first foldable iPhone, the iPhone Duo. But amid all the attention on Apple’s newest and most expensive devices, there’s another change: Apple is raising the price of its existing iPhone models by $100.

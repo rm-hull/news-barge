@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The dispute between the AI company and the government broke out in February
   when Trump and Hegseth accused Anthropic of endangering national security
 image: https://static.independent.co.uk/2026/08/27/08/2291623777..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 In a legal victory for artificial intelligence firm Anthropic, a federal judge has ruled against the Pentagon over its decision earlier this year to designate the company a supply chain risk.

@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: A TOURING family theatre show described as magical is set to stop in
   Bradford this October.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20602248.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Insecure Men singer has now been dropped by his record label and had
   tour dates cancelled after two women shared allegations about his behaviour
 image: https://i.guim.co.uk/img/media/e22bd56f4e8ba812e86b4573a7d3978600c1841e/160_1085_1535_1228/master/1535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1682a1931ea9dcb981635bd255b31ec
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Saul Adamczewski of Insecure Men and formerly of Fat White Family has been dropped by his record label and had tour dates cancelled after two women shared allegations of physical and emotional abuse against the musician.

@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: In a new review, scientists argue that reading boosts mental health and
   academic performance, leads to greater empathy and lowers the risk of dementia
 image: https://static.independent.co.uk/2026/09/14/16/30/iStock-2208594414.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
+- Self-Improvement
 ---
 
 Reading for pleasure offers significant health benefits no matter the material chosen, according to scientists from the University of Cambridge.

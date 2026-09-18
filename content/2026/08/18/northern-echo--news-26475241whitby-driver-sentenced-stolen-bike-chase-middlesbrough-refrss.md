@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A 20-year-old man has been sentenced after a police pursuit involving
   a stolen off-road motorbike in Teesside.
 image: https://www.thenorthernecho.co.uk/resources/images/21336825.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Cleveland Police)*

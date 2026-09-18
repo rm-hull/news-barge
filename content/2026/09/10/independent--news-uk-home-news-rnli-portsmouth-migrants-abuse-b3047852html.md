@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Neil says the abuse and intimidation online following Sunday’s incident
   in Portsmouth have not put him off his work as a volunteer at the RNLI
 image: https://static.independent.co.uk/2026/09/10/8/29/rnli-neil-250d1352.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A RNLI volunteer who was wrongly accused of helping small boat migrants come to the shore in Portsmouth has issued a message for those attacking him online: “I’m not a traitor”.

@@ -10,6 +10,11 @@ description: A Bradford building company and its director have been fined after 
   extension work exposed a homeowner and her two children to the risk of gas leaks,
   fire, explosion and carbon monoxide poisoning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU5NTE3MWI5LWJmMGQtNDBmNi1hNmVhLTljNDQ0MGUzMzJjZDo1N2FhM2NjNS1kZmM5LTQwNmMtOTQ3My1hYjlhNDE2ZDVlZGI=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Bradford building firm fined after botched extension put family at risk of explosion

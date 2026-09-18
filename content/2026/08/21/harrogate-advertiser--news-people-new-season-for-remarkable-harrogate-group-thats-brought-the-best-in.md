@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Harrogate society which has been bringing the best in world cinema
   to the town since at least 1955 has unveiled the line-up for its new season.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFlNjcyNjFjLTM5ZWEtNGFhMS04OTI0LTQzNWM0MTYzOTZjNzo0MjFiYzY4OS0yOTYzLTQzMDQtOGZiZC01Nzg4NzIwYjQ3YmQ=.jpg?crop=3:2,smart&trim=&width=1133&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 # New season for remarkable Harrogate group that's brought the best in world cinema to the town since 1955

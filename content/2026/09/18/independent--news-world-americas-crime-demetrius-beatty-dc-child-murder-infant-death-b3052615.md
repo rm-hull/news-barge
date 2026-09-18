@@ -10,6 +10,11 @@ description: Investigators say Demetrius Beatty gave police three conflicting ex
   for the infant’s fatal injuries, claiming at various points that another child tossed
   the baby or that he was in the hallway during the incident
 image: https://static.the-independent.com/2026/09/18/16/54/Beatty.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Family & Parenting
 ---
 
 A 40-year-old Washington, D.C., man fatally beat a two-month-old girl in a jealous rage before attempting to blame the injuries on his six-year-old autistic son, prosecutors allege.

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A former TV soap actor has been arrested in Spain after jumping bail
   before his trial for a £13.6 million fraud that conned would-be models.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/15/27/01M2TF4QT8Y6X4K0ATWF8NY1Z0.jpeg?trim=405,0,405,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # Ex-Brookside actor arrested in Spain after jumping bail ahead of fraud trial

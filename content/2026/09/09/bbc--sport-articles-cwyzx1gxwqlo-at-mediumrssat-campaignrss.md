@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Women have beaten men in some high-profile endurance events in recent
   months - are they better suited to these challenges?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9881/live/864cfb20-ab63-11f1-9647-01c7ddc5a2b1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 **"The race is too hard for women. They are simply not tough enough to do it."**

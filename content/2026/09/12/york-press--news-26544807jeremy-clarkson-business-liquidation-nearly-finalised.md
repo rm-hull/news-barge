@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:09:48Z'
 published: '2026-09-12T00:00:00Z'
 description: A Jeremy Clarkson-owned company has nearly finalised its liquidation.
 image: https://www.yorkpress.co.uk/resources/images/19805621.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A Jeremy Clarkson-owned company has nearly finalised its liquidation.

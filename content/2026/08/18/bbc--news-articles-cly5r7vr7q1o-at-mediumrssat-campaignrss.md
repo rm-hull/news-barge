@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Meta argued social media addiction does not exist, as a trial stemming
   from a major lawsuit brought by US states got under way.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Technology & Software
 ---
 
 ![Paul Schmidt, a lead attorney for Meta, heads into an Oakland, California courthouse for the first day of trial in a major lawsuit against the company brought by several state attorneys.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg)

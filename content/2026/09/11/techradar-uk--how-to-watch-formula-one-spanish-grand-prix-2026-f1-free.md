@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: F1's newest track, the Madring near Madrid, could produce a lot of yellow
   and red flags
 image: https://cdn.mos.cms.futurecdn.net/gFLbtJ8WkkNNzy76Z7EKR-1024-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Kimi Antonelli, draped in an Italian flag, raises a finger to celebrate his victory at the Italian Grand Prix 2026.](https://cdn.mos.cms.futurecdn.net/gFLbtJ8WkkNNzy76Z7EKR.jpg) 

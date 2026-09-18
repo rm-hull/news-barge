@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Astronomers will test equipment that, if it’s successful, will one day
   be crucial for discovering Earthlike planets.
 image: https://media.wired.com/photos/6a90143f13ea49f13acf54b5/191:100/w_1280,c_limit/Nasa.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Two mirrors, each small enough to fit in the palm of your hand, are set to change how we understand the cosmos.

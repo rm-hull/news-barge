@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Harrogate-based charity Henshaws announces a major leadership transition
   with Chief Executive Sally Daniels and Chair Alistair How stepping down.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/henshaws-knaresborough.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 **HARROGATE**— Harrogate-headquartered disability and sight loss charity Henshaws is facing a complete top-down governance overhaul following the sudden announcement that both its Chief Executive and Chair of Trustees are stepping down simultaneously.Chief Executive Sally Daniels will officially vacate her role in October, followed immediately by Chair of Trustees Alistair How. While the charity’s official statement frames the dual departures as a managed transition to “the next stage of development,” the simultaneous exit of both executive and non-executive heads represents a total clean sweep of the organisation’s highest leadership levels.

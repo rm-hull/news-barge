@@ -9,6 +9,8 @@ description: Ideal for small business and online crafting stores, this giant Any
   Kobra 3 Max V2 3D printer has a 500mm build height, and it's $330 / £330 off right
   now.
 image: https://cdn.mos.cms.futurecdn.net/3cx2BMFJ6FE9KQgCoByqV7-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Anycubic Kobra 3 Max V2 Combo 3D printer](https://cdn.mos.cms.futurecdn.net/3cx2BMFJ6FE9KQgCoByqV7.jpg) 

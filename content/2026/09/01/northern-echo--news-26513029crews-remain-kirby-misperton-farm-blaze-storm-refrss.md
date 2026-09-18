@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Fire crews are expected to remain at the scene of a major blaze at a
   farm in North Yorkshire ‘for some time’.
 image: https://www.thenorthernecho.co.uk/resources/images/21396918.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Fire crews are expected to remain at the scene of a major blaze at a farm in North Yorkshire ‘for some time’.

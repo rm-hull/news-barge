@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Hamza Chowdhury says he has received nominations from six of the other
   nine Green councillors for the local authority
 image: https://i.guim.co.uk/img/media/962293bc8456ad1840997b1e1b92676b83b79a6d/500_0_3983_3188/master/3983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4f330dda9b26191374336374361d006d
+categories:
+- UK
+- News & Politics
 ---
 
 Polanski faces challenge to be Greens' candidate for Holborn and St Pancras, as most Greens on local council back rival

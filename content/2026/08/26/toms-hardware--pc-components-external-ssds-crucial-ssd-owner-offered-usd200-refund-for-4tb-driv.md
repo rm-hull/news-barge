@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T13:12:38Z'
 published: '2026-08-26T00:00:00Z'
 description: Customer rejects Micron’s lowball SSD refund.
 image: https://cdn.mos.cms.futurecdn.net/V5oXmXxBJcyKZ2KE6GifJ7-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Crucial X6 Portable SSD](https://cdn.mos.cms.futurecdn.net/V5oXmXxBJcyKZ2KE6GifJ7.jpg) 

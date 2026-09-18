@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: As climate change makes cities around the world unlivable, one city is
   using art and new infrastructure to adapt
 image: https://static.independent.co.uk/2026/08/22/13/Climate_Miami_Adaptation_87759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 One day there was a roof. The next morning it was gone.

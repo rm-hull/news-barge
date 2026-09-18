@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: NINJA Warrior UK Leeds is marking its fifth birthday with a weekend of
   £5 sessions and VIP meal deals.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21168643.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Alan Milner)*

@@ -7,6 +7,12 @@ scraped_at: '2026-09-05T15:06:43Z'
 published: '2026-09-05T00:00:00Z'
 description: The firm says it needs to save about £1.7bn over the next two years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee01/live/b5506920-8c0f-11f1-b2ab-0dd01740f9f6.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![The silver leaping Jaguar emblem is on a grey pillar sign outside one of its factories with the green, oval Land Rover badge below.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ee01/live/b5506920-8c0f-11f1-b2ab-0dd01740f9f6.jpg)

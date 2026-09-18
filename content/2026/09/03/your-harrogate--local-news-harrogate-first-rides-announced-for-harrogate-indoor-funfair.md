@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The first rides have been announced ahead of the return of Harrogate
   Indoor Funfair.
 image: https://mmo.aiircdn.com/409/6a996e2f9ba66453114.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a996e2f9ba66453114.jpg) 

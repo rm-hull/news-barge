@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: A Coronation Street legend will star as Captain Hook in this year’s Alhambra
   Theatre pantomime.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331890.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Bradford Theatres)*

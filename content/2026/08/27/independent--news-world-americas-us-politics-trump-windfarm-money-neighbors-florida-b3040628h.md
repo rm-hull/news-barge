@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The White House has insisted there is no conflict of interest in the
   settlement deal, which ends offshore projects in New York, California and Louisiana
 image: https://static.independent.co.uk/2026/08/27/19/25/GettyImages-1247189290.jpeg?trim=0,114,0,114&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 A company run by a neighbor of President Donald Trump is set to earn a nearly billion-dollar windfall as a result of a settlement deal to end U.S. offshore wind projects, according to a new report.

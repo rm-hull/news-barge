@@ -9,6 +9,9 @@ description: Snap thinks its chunky, pricey smart glasses are the future of huma
   computing, powered by a new AI app and features that do everything from translating
   languages to improving your golf swing.
 image: https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/191:100/w_1280,c_limit/Kaia_Gerber_SPECS_Visionary.png
+categories:
+- Technology & Software
+- Science
 ---
 
 Snap, the company behind Snapchat and a new pair of $2,195 augmented-reality smart glasses, is finally sharing more about what its glasses can actually do. Details came at a launch event in Los Angeles, where the company also announced a new AI service that anticipates what you want to do while wearing the glasses—or even just using your phone or laptop.

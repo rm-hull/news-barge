@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T14:59:59Z'
 published: '2026-09-14T00:00:00Z'
 description: AI might not necessarily be taking jobs
 image: https://cdn.mos.cms.futurecdn.net/Z89KwLLBdGLuNm2q4tXDKL-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 ![An office worker speaking to a colleague in an office at night. The co-worker is seated in front of computers](https://cdn.mos.cms.futurecdn.net/Z89KwLLBdGLuNm2q4tXDKL.jpg) 

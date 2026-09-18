@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: A YouTube food reviewer has sparked debate after insisting on paying
   for his meal at a fish and chip shop.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414613.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Technology & Software
 ---
 
 *(Image: Danny Malin / YouTube)*

@@ -7,6 +7,9 @@ scraped_at: '2026-09-05T15:05:31Z'
 published: '2026-09-05T00:00:00Z'
 description: Plus a NAS that packs in AMD's Ryzen AI Max+ 495
 image: https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL-1999-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![IFA 2026](https://cdn.mos.cms.futurecdn.net/3eVeeBHyLEGu6GTU69gJWL.png) 

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Postpartum psychosis is a psychiatric emergency that can involve mania,
   depression, hallucinations and delusions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Lindsay Clancy on the stand](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/38e3/live/56feb170-91e0-11f1-9bc8-c9e5b4077192.jpg)

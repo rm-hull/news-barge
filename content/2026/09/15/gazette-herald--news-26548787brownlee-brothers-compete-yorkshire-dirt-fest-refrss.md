@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Olympic triathlon champions Jonny and Alistair Brownlee will line up
   alongside amateur athletes at an off-road sports festival in North Yorkshire…
 image: https://www.gazetteherald.co.uk/resources/images/21453793.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Travel
 ---
 
 Two of Yorkshire's most famous athletes are set to line up alongside amateur athletes at an off-road sports festival in North Yorkshire this autumn.

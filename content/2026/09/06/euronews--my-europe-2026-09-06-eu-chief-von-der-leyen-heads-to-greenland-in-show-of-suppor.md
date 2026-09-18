@@ -9,6 +9,11 @@ description: 'Speaking at the World Economic Forum''s annual meeting in Davos th
   year, von der Leyen said the EU was working on a "massive European investment surge"
   in Greenland in a bid to ramp up Arctic security. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/32/09/1200x675_cmsv2_2579e600-ad18-56c4-ba0d-abc6e6df0c4e-9903209.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Speaking at the World Economic Forum's annual meeting in Davos this year, von der Leyen said the EU was working on a "massive European investment surge" in Greenland in a bid to ramp up Arctic security.

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The owner of the much-loved Bish'n'Chips, who is leaving in a few weeks,
   says the business will continue under new owners.
 image: https://www.yorkpress.co.uk/resources/images/21349869.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Update issued on popular chippy's future with owner leaving

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A major global retailer arrives in York on Friday promising a “playground
   of endless fun and excitement.”
 image: https://www.yorkpress.co.uk/resources/images/21361894.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Major retailer promising 'endless fun and excitement' opens in York on Friday

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: 'Exclusive: Traveler Yvonne Martin survived, but, her attorney told The
   Independent, the incident has left her ‘permanently marred’'
 image: https://static.independent.co.uk/2026/09/11/18/45/GettyImages-2253909556.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A U.S. tourist claims she was attacked by a shark while vacationing in the Caribbean, and blames a sailing instructor at her resort for the “permanent nerve damage” and “massive scarring” that resulted, according to a federal lawsuit reviewed by *The Independent*.

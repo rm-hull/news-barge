@@ -9,6 +9,11 @@ description: According to the Baboua public prosecutor, the incident is believed
   have been caused by "the collapse of several underground tunnels in which miners
   were operating."
 image: https://images.euronews.com/articles/stories/09/84/93/90/1200x675_cmsv2_76a10e68-61b7-55e1-abf3-808d7acac710-9849390.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
+- History
 ---
 
 ## According to the Baboua public prosecutor, the incident is believed to have been caused by "the collapse of several underground tunnels in which miners were operating."

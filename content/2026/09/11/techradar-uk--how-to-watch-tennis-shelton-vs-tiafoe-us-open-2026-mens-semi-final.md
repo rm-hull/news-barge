@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Arthur Ashe Stadium will be rocking as the two Americans meet for a place
   in the final
 image: https://cdn.mos.cms.futurecdn.net/3s6tWQbZzY2D6f74iMWwAP-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Ben Shelton reacts against Stefanos Tsitsipas during a Men's Singles match on Day Eight of the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/3s6tWQbZzY2D6f74iMWwAP.jpg) 

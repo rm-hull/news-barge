@@ -9,6 +9,11 @@ description: The inquiry into maternity services at Leeds Teaching Hospitals NHS
   by highly-respected senior midwife Donna Ockenden has been widely welcomed. If anyone
   is going to deliver a robust review of the failings at the Trust it is Donna Ockenden.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcxNjY5MTc3LWMxZjYtNGE1ZS05NTU1LTQ1ZDcxNWYyMzU1MTpiZDMwYjllZC1hMzYzLTQ2ZGUtYmQwMS02MzMyOWE5MmFiMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Heartbreaking story of Liberty a reminder of need for change at Trust

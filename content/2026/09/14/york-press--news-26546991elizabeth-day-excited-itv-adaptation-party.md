@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Elizabeth Day’s The Party is a five-part ITV thriller starring Luke Evans
   and Tom Cullen, exploring friendship, identity and belonging, coming to…
 image: https://www.yorkpress.co.uk/resources/images/21447202.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: James Manning/PA Wire)*

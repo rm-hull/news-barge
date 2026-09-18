@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T19:32:49Z'
 published: '2026-09-16T00:00:00Z'
 description: The seat of innovation
 image: https://cdn.mos.cms.futurecdn.net/tt4GGu4uCFHLPTg3puu6x6-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![John Ternus Greg Joswiak](https://cdn.mos.cms.futurecdn.net/tt4GGu4uCFHLPTg3puu6x6.jpg) 

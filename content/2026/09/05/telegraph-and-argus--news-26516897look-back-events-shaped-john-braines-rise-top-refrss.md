@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: THE intention of my two features on John Braine is to historically describe
   his life and influences, not to make comment on his changing political…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403332.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 THE intention of my two features on John Braine is to historically describe his life and influences, not to make comment on his changing political or religious views and background.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Dr. Heidi Overton called the overturning of Roe v. Wade ‘a huge victory
   for life’
 image: https://static.independent.co.uk/2026/08/19/19/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A White House health adviser who previously called on the Food and Drug Administration to limit access to abortion drugs has been nominated to lead the agency.

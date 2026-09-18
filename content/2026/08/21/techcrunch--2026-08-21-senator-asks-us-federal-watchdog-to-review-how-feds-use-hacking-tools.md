@@ -10,6 +10,8 @@ description: Senator Ron Wyden sent a letter to the U.S. federal watchdog reques
   a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use
   hacking tools and spyware against Americans.
 image: https://techcrunch.com/wp-content/uploads/2026/08/sen-ron-wyden.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Democratic senator Ron Wyden is asking the U.S. government to review how federal law enforcement agencies use hacking tools and spyware against Americans, citing a lack of transparency into how often or for what reasons these tools are deployed.

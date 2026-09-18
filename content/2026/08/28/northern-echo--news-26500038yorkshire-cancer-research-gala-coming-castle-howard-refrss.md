@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A GALA dinner is set to return to Castle Howard in 2027 in support of
   cancer research.
 image: https://www.thenorthernecho.co.uk/resources/images/21378171.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Jonathan Pow)*

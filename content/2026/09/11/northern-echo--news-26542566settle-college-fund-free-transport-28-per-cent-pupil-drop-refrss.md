@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A North Yorkshire secondary school is to provide free transport for eligible
   pupils after its Year 7 intake fell by almost 30 per cent following the…
 image: https://www.thenorthernecho.co.uk/resources/images/21440548.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A North Yorkshire secondary school is to provide free transport for eligible pupils after its Year 7 intake fell by almost 30 per cent following the introduction of the council’s new home-to-school transport policy.

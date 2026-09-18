@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: St Helen’s Square in York is the latest area to benefit from a fresh
   new look through York BID’s Rejuvenation Days.
 image: https://www.gazetteherald.co.uk/resources/images/21435973.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A city centre square has been given a fresh new look through a volunteer-powered makeover and public art project.

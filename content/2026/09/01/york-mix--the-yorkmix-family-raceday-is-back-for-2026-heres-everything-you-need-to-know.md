@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T19:23:22Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/yorkmix-family-raceday-mixie.jpg
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 The YorkMix Family Raceday is back this Sunday! Here’s everything you need to know about all the family fun and racing entertainment.

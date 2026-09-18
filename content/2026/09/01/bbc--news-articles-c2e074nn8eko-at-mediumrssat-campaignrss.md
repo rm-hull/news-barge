@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: As of August, the number forced to return this year from Pakistan and
   Iran had reached another million.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 Watch: BBC's Lyse Doucet reports on the biggest cross-border movement of people

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Getting hot under the collar about our Prime Minister’s polo shirts has
   achieved nothing but a self-diagnosed rise in blood pressure levels.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNiZGUyNjhkLWFkZTQtNDgzYS1hOGQ2LTM1YzUwZDE4MTQ5Yzo4Y2Y1OTlhYi0zMjgyLTQxNWQtODYxMS05OTllY2NlZDY2N2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # What on earth are food manufacturers doing using foreign eggs? - Sarah Todd

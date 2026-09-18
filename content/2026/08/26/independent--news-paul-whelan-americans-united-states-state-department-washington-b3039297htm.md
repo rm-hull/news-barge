@@ -10,6 +10,10 @@ description: Robert Gilman is the latest in a succession of high-profile prisone
   freed by Russia going back years, but his release hardly cleared the decks of Americans
   behind bars there
 image: https://static.independent.co.uk/2026/08/26/05/American_Detainees_Russia_8563_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Robert Gilman’s release from Russian custody this month heralded a long-awaited homecoming for the Marine veteran after more than four years behind bars.

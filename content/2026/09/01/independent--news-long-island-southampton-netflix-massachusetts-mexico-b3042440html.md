@@ -9,6 +9,10 @@ description: Researchers are catching a wide range of sharks off the New York’
   and outfitting them with small trackers as they seek to understand more about one
   of the world’s few confirmed great white shark nurseries
 image: https://static.independent.co.uk/2026/09/01/05/Sharks_Hamptons_56898.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Just off one of New York’s famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day’s prize catches: a young but powerful sand tiger shark.

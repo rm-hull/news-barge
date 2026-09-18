@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Video. Maurizio Cattelan's Night exhibition opens in Berlin, featuring
   his Hitler sculpture, an exhausted horse and works exploring power and doubt.
 image: https://images.euronews.com/articles/stories/09/90/79/98/1200x675_cmsv2_43c1c8db-a479-5ae9-8d7e-fd37ce0b8719-9907998.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 A new exhibition by Italian artist Maurizio Cattelan has opened at Berlin's Neue Nationalgalerie, bringing together works that question power, violence and belief.

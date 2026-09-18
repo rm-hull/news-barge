@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: The chief executive of North Yorkshire Council has spoken of his “immense
   pride” in his career after taking the “extremely difficult decision” to retire.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk4MmU1MDg1LTg0N2MtNDQzMy05OWJmLTI3YmY4NWIxNjM1YzpmNWYzNmExYi0xYzJkLTQxYTUtODk5MS04YTEwYWNjODk2Mjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- News & Politics
 ---
 
 # 'Extremely difficult decision’ as North Yorkshire Council’s chief executive announces his retirement

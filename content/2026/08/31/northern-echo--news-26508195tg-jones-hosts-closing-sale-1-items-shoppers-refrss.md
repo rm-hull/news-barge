@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: TG Jones, formerly known as WH Smith, with close around 150 stores in
   a major restructuring plan.
 image: https://www.thenorthernecho.co.uk/resources/images/21390784.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

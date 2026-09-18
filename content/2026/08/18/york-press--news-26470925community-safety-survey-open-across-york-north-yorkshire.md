@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: People across York and North Yorkshire are being asked to share their
   views on violence and community safety in a survey led by Jo Coles.
 image: https://www.yorkpress.co.uk/resources/images/21330278.jpg?type=og-image&xType=0&yType=295
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: York and North Yorkshire Council)*

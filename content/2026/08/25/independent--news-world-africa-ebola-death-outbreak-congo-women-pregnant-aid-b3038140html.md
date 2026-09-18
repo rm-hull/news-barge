@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: 'Exclusive: More than 60,000 women still at risk as deadly impact of
   virus takes toll in epicentre of Ituri'
 image: https://static.independent.co.uk/2026/08/05/21/2026-07-31T085504Z_1086036890_RC2EQLA5ZO6Q_RTRMADP_3_HEALTH-EBOLA.JPG?trim=0,62,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Maternal deaths in Ituri province, the epicentre of the Democratic Republic of Congo’s deadliest Ebola epidemic, are surging as the fastest-growing outbreak in history outpaces the health response.

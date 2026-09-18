@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Trump ousted major arts donor David Rubenstein in 2025 as the president
   pushed to rename the venue after himself
 image: https://static.independent.co.uk/2026/09/07/21/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The former chair of the Kennedy Center, who was ousted from the institution’s board by President Donald Trump last year, has reportedly purchased a beloved blue sculpture that was removed from the venue’s grounds last week.

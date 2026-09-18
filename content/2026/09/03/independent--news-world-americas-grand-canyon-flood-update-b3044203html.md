@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Within minutes, torrential rains, gusting winds and even hail enveloped
   hikers along the creek
 image: https://static.independent.co.uk/2026/09/03/14/40/AP26243667230212.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Late-afternoon cloud cover builds with predictable regularity across the desert, accompanied by swirling winds and darkening skies before the downpour begins.

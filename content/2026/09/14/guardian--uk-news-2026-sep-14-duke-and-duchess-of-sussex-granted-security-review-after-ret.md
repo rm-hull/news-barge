@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Committee to reconsider Harry and Meghan’s publicly funded police protection
   now they are full-time residents
 image: https://i.guim.co.uk/img/media/cb275fc6c364bc5cc6ad6a5a8415d8518e2c9fb4/240_0_2031_1625/master/2031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4daaee4270744a4188b148b7263e53ab
+categories:
+- UK
+- News & Politics
 ---
 
 The Duke and Duchess of Sussex will have a review of their publicly funded security following their return to the UK.

@@ -11,6 +11,8 @@ description: A boutique StrictlyVC evening returns to New York's West Village on
   and Deven Parekh — covering AI, sports investing, community-building, venture economics,
   and politics, with cocktails, food, and networking throughout the night.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024
+categories:
+- Business & Entrepreneurship
 ---
 
 Mark your calendars: on Thursday night, September 10, StrictlyVC — TechCrunch’s boutique evening series — is heading to New York’s West Village (the real one — brownstones, cobblestones, and all — not the Mission Bay stretch of San Francisco that’s earned the nickname “Vest Village” for all the Patagonia-clad VCs roaming around).

@@ -10,6 +10,10 @@ description: ‘There was no hesitation at all. I don’t even think I thought a
   I think you just, like as a mom, you just try to protect your kid,’ Brittany Cardinal
   said after the attack
 image: https://static.independent.co.uk/2021/03/13/17/Coyote_in_Alaska.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 An Arizona mother was left with lacerations and puncture wounds on her face after a vicious coyote began attacking her 4-year-old daughter as they tried to fly a kite.

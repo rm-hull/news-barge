@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Solid-state cooling is real and shipping, but its limitations might also
   be on display with Project AeroBlade on the cards from Lenovo
 image: https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Lenovo's Project AeroBlade Proof of Concept Laptop](https://cdn.mos.cms.futurecdn.net/wftnJHPVgPMNuUH8pmCH8c.jpg) 

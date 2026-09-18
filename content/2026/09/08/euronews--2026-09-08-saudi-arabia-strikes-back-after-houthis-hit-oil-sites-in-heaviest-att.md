@@ -10,6 +10,10 @@ description: Houthi missiles struck Abha International Airport, King Khalid Air 
   Saudi Arabia launched strikes on Taiz and Marib provinces, as analysts said Riyadh
   now faced a "spiral of escalation".
 image: https://images.euronews.com/articles/stories/09/90/60/76/1200x675_cmsv2_a3ec4a9b-9187-5305-904d-bd799f8c59bd-9906076.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Houthi missiles struck Abha International Airport, King Khalid Air Base and Aramco facilities, injuring 73 and forcing temporary shutdowns at oil sites. Saudi Arabia launched strikes on Taiz and Marib provinces, as analysts said Riyadh now faced a "spiral of escalation".

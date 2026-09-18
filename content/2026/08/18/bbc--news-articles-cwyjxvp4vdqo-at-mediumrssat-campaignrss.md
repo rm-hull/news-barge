@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Former workers have described a "chaotic atmosphere" of under-staffing
   and inadequate training.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15f7/live/aef4e190-97cd-11f1-a927-0dfab640b8c9.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![The front of a modern prison with a high brick wall giving way to a modern-looking frontage made up of black glass and grey cladding. A sign in large white letters reads "HMP Millsike".](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/15f7/live/aef4e190-97cd-11f1-a927-0dfab640b8c9.jpg)

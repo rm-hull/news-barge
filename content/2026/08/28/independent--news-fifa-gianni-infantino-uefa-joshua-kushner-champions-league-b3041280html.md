@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Gianni Infantino, the FIFA president, is facing backlash from European
   soccer leaders over a failed World Cup investment plan
 image: https://static.independent.co.uk/2026/08/24/01/France_Saudi_Arabia_88355.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Gianni Infantino, the increasingly embattled FIFA president, was everywhere in the conversations as European soccer leaders gathered this week in Monaco for the Champions League draw.

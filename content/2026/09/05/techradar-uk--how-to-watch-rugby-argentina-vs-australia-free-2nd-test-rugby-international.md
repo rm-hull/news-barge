@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: All the ways to watch Argentina vs Australia for free from anywhere,
   as the Pumas and Wallabies face off for their 2nd Test at Estadio Malvinas Argentinas.
 image: https://cdn.mos.cms.futurecdn.net/9xXvfjSuaDXo3d3Hkbg2pT-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Santiago Carreras being tackled by Rob Valetini during the Argentina vs Australia match on August 29, 2026](https://cdn.mos.cms.futurecdn.net/9xXvfjSuaDXo3d3Hkbg2pT.jpg) 

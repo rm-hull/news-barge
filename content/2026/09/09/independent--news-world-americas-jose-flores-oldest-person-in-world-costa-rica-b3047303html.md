@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T19:14:54Z'
 published: '2026-09-09T00:00:00Z'
 description: Jose Flores is pushing to be recognised as the oldest person in the world
 image: https://static.independent.co.uk/2026/09/09/15/2026-09-09T141102Z_1395926511_RC2DDNA57MAX_RTRMADP_3_COSTA-RICA-LONGEVITY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 In the warm town of Sardinal, a 20-minute drive from the Pacific coast of Costa Rica, Jose Flores passes his days in a modest wooden home, taking naps, sharing meals cooked by his granddaughter, and engaging in friendly arm-wrestling matches with her.

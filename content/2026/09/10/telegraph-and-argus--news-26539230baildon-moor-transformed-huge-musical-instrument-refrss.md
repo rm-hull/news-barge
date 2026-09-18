@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Visitors to a moorland in the Bradford district have been wowed by a
   striking art installation that surprises the ears as well as the eyes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435518.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

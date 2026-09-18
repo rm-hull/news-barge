@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A County Durham woman who has been battling for answers into her mum's
   death for six years says she's still "heartbroken, angry and…
 image: https://www.thenorthernecho.co.uk/resources/images/21346452.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: FAMILY)*

@@ -10,6 +10,10 @@ published: '2026-09-16T00:00:00Z'
 description: The inventor of the computer mouse long believed we were on the cusp
   of the greatest phase of humanity
 image: https://cdn.mos.cms.futurecdn.net/xcgVWCudC73jqhTAemtzjF-829-80.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 ![Douglas Englebart](https://cdn.mos.cms.futurecdn.net/xcgVWCudC73jqhTAemtzjF.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Hardwick's Garden Centre can be found on the edge of Boroughbridge and
   has everything you could need to grow your perfect garden.
 image: https://www.yorkpress.co.uk/resources/images/21457360.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Yorkshire garden centre with huge Christmas displays and 'locally sourced' plants

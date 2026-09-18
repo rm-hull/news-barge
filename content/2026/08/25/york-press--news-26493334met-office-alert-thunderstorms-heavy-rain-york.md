@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A yellow warning has been issued for thunderstorms and heavy rain over
   York later this week - with lighting and hail expected.
 image: https://www.yorkpress.co.uk/resources/images/19716503.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Getty)*

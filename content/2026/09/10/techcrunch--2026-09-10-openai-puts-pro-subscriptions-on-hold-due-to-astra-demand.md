@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The company said Pro subscriptions put the most strain on its systems,
   so it's pausing sign-ups while adding more capacity.
 image: https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Demand for OpenAI’s newest and most powerful model, Astra, has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure.

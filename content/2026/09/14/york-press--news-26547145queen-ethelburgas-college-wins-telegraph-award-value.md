@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Queen Ethelburga's College, 12 miles outside York on the way to Harrogate,
   was recognised for its high A-level results by The Telegraph.
 image: https://www.yorkpress.co.uk/resources/images/17718253.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Staff)*

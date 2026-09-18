@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The inquiry found a "complete failure to protect babies on the neonatal
   unit" where the nurse worked.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Image shows Lucy Letby, wearing a blue hooded top, being led in handcuffs from her house, in footage captured on a police body camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8230/live/82d26b60-b0ea-11f1-b1d1-571ed4d7ff2c.jpg)

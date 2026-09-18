@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The FCDO has warned holidaymakers to make sure they know what to do if
   their passport becomes lost or is stolen.
 image: https://www.thenorthernecho.co.uk/resources/images/21352787.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Getty)*

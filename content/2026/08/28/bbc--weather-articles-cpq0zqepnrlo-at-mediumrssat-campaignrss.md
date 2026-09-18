@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The weather will remain unsettled across the next few days with showers,
   longer spells of rain and thunderstorms all likely at times across the weekend.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A woman walks along in the rain pulling a shopping trolley](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg)

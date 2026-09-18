@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The impact of long-standing roadworks in Harrogate town centre is beginning
   to be felt this week by motorists as work progresses.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjhkOTFlNGRjLThlNjctNDhkMC1hOWQ1LTc3OTI0NjUwMDMzODpmZTg1MjA2ZC1mYmVlLTRiY2EtYmRiZC1mMWI2MDQ5YTQ4NGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Road disruption hits Harrogate town centre area of bistros and estate agents

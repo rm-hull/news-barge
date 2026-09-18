@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Bradford headteacher has apologised and explained why the school had
   to close on the first day of term yesterday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399322.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Google Street View)*

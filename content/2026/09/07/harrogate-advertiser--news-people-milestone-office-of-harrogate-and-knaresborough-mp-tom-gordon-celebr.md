@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: The office of Harrogate and Knaresborough MP Tom Gordon has processed
   the 20,000th piece of casework in just over two years since the general election.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ3OTg1NTY2LWQyOTMtNGIxNy1iNDY2LTJjZGY3YWUzNjU4Yjo2NGI3NmYxNi0zZjVkLTQ2MzgtYTRkNC1jMTk1NmMwMDYyM2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Milestone: Office of Harrogate and Knaresborough MP Tom Gordon celebrates 20,000th piece of casework for constituents

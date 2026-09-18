@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Yorkshire’s canals have been ferrying traffic for up to 250 years, but
   volunteers are being sought to help with the maintenance of a much younger structure.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFjYzgxZTAyLTc4ZmEtNDVjYi04NmExLWE2ZjZiMDAzZDY0NDpkZGUzZDE4ZS04NjJlLTRkMmEtODlkNS05NWM3YWZlNDJmMGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Tuel Lane Lock: Appeal to keep UK's deepest lock working

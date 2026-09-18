@@ -9,6 +9,10 @@ scraped_at: '2026-08-19T13:09:38Z'
 published: '2026-08-19T00:00:00Z'
 description: Nice software you have there; shame if anyone was to QCRACK it
 image: https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a person playing Quake III on a computer from 2001](https://cdn.mos.cms.futurecdn.net/KeSsu2KwokVwaR4LSBRDFL.png) 

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Reform MP seeks to heap pressure on Tory leader amid confusion around
   details of meeting with Giorgia Meloni
 image: https://i.guim.co.uk/img/media/ccacd25b2e6be51be19b23dff8f12b3215330bd6/602_0_4776_3821/master/4776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3bd09cde8ef1f1d1e87e80360ecc1bc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Robert Jenrick has accused Kemi Badenoch of telling “a pack of lies” about her meeting with the Italian prime minister, Giorgia Meloni, as he launched a deeply personal attack on his former boss.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Government officials nationwide are under pressure to take steps to prevent
   the soaring cost of data center power needs from being passed on to average households
 image: https://static.independent.co.uk/2026/09/16/14/39/GettyImages-2286055476.jpg?trim=0,45,0,44&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The U.S. House of Representatives could vote as early as Wednesday on cross-party legislation designed to curb rising utility bills linked to the rapid expansion of artificial intelligence data centers.

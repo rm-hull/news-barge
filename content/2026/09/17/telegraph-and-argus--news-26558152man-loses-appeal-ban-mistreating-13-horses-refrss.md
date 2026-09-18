@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Bradford district man who mistreated 13 horses has lost his appeal
   against a 10-year ban.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466874.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 A BRADFORD district man who mistreated 13 horses has lost his appeal against a 10-year ban.

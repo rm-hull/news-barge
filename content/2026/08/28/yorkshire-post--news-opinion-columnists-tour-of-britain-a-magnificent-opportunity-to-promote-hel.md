@@ -9,6 +9,12 @@ description: As the Tour of Britain returns to Helmsley, our local community has
   working hard to replicate last time’s triumph and make this spectacular event as
   successful as four years ago.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEwMTlhOTZmLTg4ZTMtNDFmMS1iMDQwLTNkYTJiNTYzOGVmYjo5MjBlYmUzMC0yOWE2LTRjM2UtYWY4Yy1lYTc0OWJiYmU0ZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- History
 ---
 
 # Tour of Britain a magnificent opportunity to promote Helmsley - George Jabbour

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The event has triggered a ‘nationwide wave of anti-Black racism and incitement,’
   according to local organisers
 image: https://static.independent.co.uk/2026/08/07/16/21/SEI307615562.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A swimming day providing Black children and their families exclusive access to a local pool in Berlin has been scrapped after organisers found themselves facing a litany of racist abuse.

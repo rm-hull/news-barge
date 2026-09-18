@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:01:43Z'
 published: '2026-08-27T00:00:00Z'
 description: GTA 6's first extended gameplay look is coming to Netflix and YouTube
 image: https://cdn.mos.cms.futurecdn.net/vnqWwfMB57mcwYz93X6ANC-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/vnqWwfMB57mcwYz93X6ANC.jpg) 

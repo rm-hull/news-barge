@@ -10,6 +10,11 @@ description: A man from Yorkshire who runs a YouTube channel dedicated to theme 
   across Europe went upside down more than 400 times in just a few hours during his
   latest challenge – riding a Flamingo Land roller coaster continuously all day.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY2NjU0YzVmLThkNjAtNDRiZi04MDQzLWRjMmU3MjdlMjg2YjoxNGEzZjExOC1lZDE1LTRjOWItYWU5MC02NzE1YTI2NWEzMWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # YouTuber from Yorkshire goes upside down 400 times in same day during Flamingo Land roller coaster challenge

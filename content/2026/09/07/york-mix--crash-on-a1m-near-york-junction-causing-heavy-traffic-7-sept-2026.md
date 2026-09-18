@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:20Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/traffic-jam-congestion-dreamstime.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 There was a crash on the A1M this morning.

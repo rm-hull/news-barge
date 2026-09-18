@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Long-term plans are to be drawn up to reduce the impact of the historic
   Scott Trial on ancient woodland and archaeological remains in the Yorkshire…
 image: https://www.thenorthernecho.co.uk/resources/images/21381945.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Long-term plans are to be drawn up to reduce the impact of the historic Scott Trial on ancient woodland and archaeological remains in the Yorkshire Dales.

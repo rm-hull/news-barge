@@ -10,6 +10,10 @@ description: Macklemore says he has been dropped from Ed Sheeran’s Loop tour f
   pro-Palestinian comments he made onstage earlier this month at New Jersey’s MetLife
   Stadium
 image: https://static.independent.co.uk/2026/09/14/22/Music_Macklemore_Ed_Sheeran_29_28.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Macklemore said Monday that he has been dropped from Ed Sheeran 's tour over pro-Palestinian comments made by the Grammy-winning rapper earlier this month onstage at New Jersey's MetLife Stadium.

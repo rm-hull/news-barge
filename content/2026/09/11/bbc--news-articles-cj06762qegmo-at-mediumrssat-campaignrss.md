@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The cost of administration and medical checks has now topped £83m, according
   to new figures.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 ![A collage showing two separate images - on the left, a hand holding a Covid vaccine and syringe, and on the right, three vials containing the AstraZeneca Covid vaccine. The images are in three colourways - grey, white and blue.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png)

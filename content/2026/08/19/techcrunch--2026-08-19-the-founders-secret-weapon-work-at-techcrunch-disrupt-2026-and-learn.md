@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how
   world-class tech events get built and more.
 image: https://techcrunch.com/wp-content/uploads/2026/08/TC-Disrupt-2025.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Want to know what separates the founders and operators who build industry-defining companies from everyone else? They understand how ecosystems work. They’ve seen how the best events are orchestrated, how networks are built, and how real opportunities emerge.

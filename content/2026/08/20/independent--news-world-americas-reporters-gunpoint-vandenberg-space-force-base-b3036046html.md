@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:47:12Z'
 published: '2026-08-20T00:00:00Z'
 description: The reporters were held for more than 30 minutes
 image: https://static.independent.co.uk/2026/08/20/01/download.-1.?trim=168,0,168,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Security officers at Vandenberg Space Force Base in California briefly held five news reporters and two members of the military at gunpoint after mistaking the invited attendees for gatecrashers, according to local news outlets.

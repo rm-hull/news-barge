@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T16:51:02Z'
 published: '2026-08-25T00:00:00Z'
 description: A kitchen retailer has opened a new showroom in Harrogate town centre.
 image: https://www.gazetteherald.co.uk/resources/images/21367629.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Pic supplied)*

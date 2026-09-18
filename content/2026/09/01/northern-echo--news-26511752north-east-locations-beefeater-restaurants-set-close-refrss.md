@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Here are the four Beefeater restaurants across the north east that are
   set to close next week.
 image: https://www.thenorthernecho.co.uk/resources/images/21396333.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 *(Image: Getty)*

@@ -7,6 +7,8 @@ scraped_at: '2026-09-01T13:28:53Z'
 published: '2026-09-01T00:00:00Z'
 description: Website performance is reshaping visibility in AI search
 image: https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A person typing on a laptop and using a tablet. Only their upper torso, arms and hands are visible. Text superimposed on the image shows AI](https://cdn.mos.cms.futurecdn.net/Rb6YDzdRZjccpn6MQ26KML.jpg) 

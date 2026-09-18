@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Key regions of the brain linked to movement, learning and emotions were
   affected and may lead to cognitive problems
 image: https://i.guim.co.uk/img/media/b51e55df330640864b621f7eafdfd622daf8756e/1297_888_3180_2544/master/3180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5bb50549e03f4b9e45bab882e2bed8
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.

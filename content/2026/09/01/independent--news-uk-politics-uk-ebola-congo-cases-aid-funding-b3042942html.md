@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: The UK is increasing its commitment to efforts to contain the fastest
   spreading Ebola outbreak ever to £78.7 million
 image: https://static.independent.co.uk/2026/08/21/23/2026-08-21T112538Z_1019628448_RC23WLAWITCL_RTRMADP_3_HEALTH-EBOLA-UN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
+- Technology & Software
 ---
 
 The UK is almost tripling its funding to tackle the deadly Ebola outbreak in the Democratic Republic of Congo (DRC), announcing a further £51.8 million as the virus continues to spread rapidly.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: When choosing to drive between Sheffield and Manchester, on paper, it
   should be a picturesque journey.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE1NjQ4ODI0LWU3MmQtNGNjNS1hMmU5LTU3YmNlZjU2MjI3OTo4Njg1ZDcyNy1iOTM5LTRjYTEtYmFkMC0xNGFkMWUxZWE4Mzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Snake Pass: What does the future look like for legendary Pennine pass?

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A team representing a Ripon pub will attempt to drive two £600 cars around
   1,300 miles to Benidorm for charity.
 image: https://mmo.aiircdn.com/409/6a8c086539058955440.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c086539058955440.jpg) 

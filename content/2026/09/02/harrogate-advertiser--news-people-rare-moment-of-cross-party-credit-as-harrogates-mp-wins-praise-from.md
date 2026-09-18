@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Harrogate’s MP has been thanked in public by Andy Burnham in his first
   day as Prime Minister at the new session of Parliament.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUyODhjMjQzLWMxNTQtNGVlYy1iYTlhLTM0ZDY5OTZiNGJlOTowNTU4Mjk2OS03YzY3LTRmNTktYTlmYy0wYzA4YThjMzY0ZGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Rare moment of cross-party credit as Harrogate's MP wins praise from Andy Burnham

@@ -10,6 +10,11 @@ description: The cash injections represent the first major wave of allocations f
   the "Great Ideas" scheme, a £2.5 million initiative tucked inside regional Mayor
   David
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Belle-Richardson_Great-Ideas-presentation.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **YORK**— Micro-businesses and regional entrepreneurs across York and North Yorkshire have secured a combined £800,000 in public funding following a series of high-stakes, Dragons’ Den-style competitive pitches at West Offices.

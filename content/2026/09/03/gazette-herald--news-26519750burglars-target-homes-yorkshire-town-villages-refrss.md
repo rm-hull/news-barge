@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Police have announced increased patrols after burglars targeted homes
   in Pateley Bridge, Dacre Banks, and Summerbridge .
 image: https://www.gazetteherald.co.uk/resources/images/21407476.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Pixabay)*

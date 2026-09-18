@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Ozon says its warehouses across southern Russia, including in Dagestan
   and Krasnodar, were hit in the overnight strikes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![A screengrab from a video on social media showing flames rise from an Ozon facility following a Ukrainian drone strike in Makhachkala, Dagestan, Russia.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Yorkshire Ambulance Service team members are lacing up their trainers
   for this year’s Great North Run to raise funds for their official charity.
 image: https://www.yorkpress.co.uk/resources/images/21429027.jpg?type=og-image&xType=0&yType=66
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Yorkshire ambulance staff take on Great North Run for service charity

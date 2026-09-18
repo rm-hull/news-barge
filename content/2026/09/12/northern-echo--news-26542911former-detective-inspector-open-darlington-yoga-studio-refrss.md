@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A former detective inspector who turned to yoga after stress forced her
   to retire early from policing is preparing to open a new studio in…
 image: https://www.thenorthernecho.co.uk/resources/images/21443818.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A former detective inspector who turned to yoga after stress forced her to retire early from policing is preparing to open a new studio in Darlington.

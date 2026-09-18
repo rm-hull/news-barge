@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: A number of current and former footballers unite against Fifa president
   Gianni Infantino, stating that "change is necessary" at the global governing body.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1074/live/aaa414a0-a04a-11f1-aacc-21a045d9c0c6.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Gianni Infantino, wearing a dark suit and tie, looks to his right](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/1074/live/aaa414a0-a04a-11f1-aacc-21a045d9c0c6.jpg)

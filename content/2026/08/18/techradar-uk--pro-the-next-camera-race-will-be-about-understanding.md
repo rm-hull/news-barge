@@ -7,6 +7,8 @@ scraped_at: '2026-08-18T19:35:56Z'
 published: '2026-08-18T00:00:00Z'
 description: How AI inference is reshaping what camera sensors are for
 image: https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An abstract pattern of blue lines and orange-yellow dots on a dark blue background, to represent a digital environment](https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Time is ticking as election officials fear thousands of eligible voters
   could be wrongly disenfranchised under new rules
 image: https://static.independent.co.uk/2026/08/31/18/2278806479..?trim=20,0,20,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has blocked new mail-in ballot rules from the U.S. Postal Service that were ordered by Donald Trump after states and election officials warned that it would be “virtually impossible” to comply with changes that could spark chaos for voters in the middle of midterm elections.

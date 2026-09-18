@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Michael P Desronvil has spoken out after judge forced to declare mistrial
   in case of mother accused of murdering her three young children
 image: https://static.the-independent.com/2026/09/14/08/2026-09-09T142045Z_724793447_RC2JCNAJL0RC_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The lone holdout juror in the Lindsay Clancy trial, who refused to accept the defendant’s not guilty by reason of insanity plea, has insisted he never wavered in his opinion on the case.

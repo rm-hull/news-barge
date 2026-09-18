@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: Prime Air Vice President David Carbon has opened up on why Amazon chose
   Darlington to launch its Europe-first drone delivery service.
 image: https://www.thenorthernecho.co.uk/resources/images/21445081.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 On a small concrete slab, beside a mammoth Amazon warehouse in Darlington, lies the dawn of a new era of drone deliveries for the whole of Europe.

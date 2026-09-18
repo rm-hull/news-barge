@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Middlesbrough residents and businesses say they are ‘living in fear’
   as a spate of violent incidents continue to grip the town.
 image: https://www.thenorthernecho.co.uk/resources/images/21387046.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Middlesbrough residents and businesses say they are 'living in fear' as a spate of violent incidents continue to grip the town, claiming the lives of nine.

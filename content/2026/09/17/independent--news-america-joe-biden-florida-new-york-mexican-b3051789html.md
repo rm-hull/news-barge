@@ -10,6 +10,11 @@ description: 'A surge in border crossings over the past decade reshaped America:
   of people from more than 150 countries arrived, bringing the immigrant population
   to its highest levels'
 image: https://static.independent.co.uk/2026/09/17/11/After_the_Border_Overview_22856.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 An unprecedented surge in border crossings over the past decade reshaped America: Millions of people from more than 150 countries arrived, bringing the U.S. immigrant population to its highest levels ever.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Joan Rubinger, a nurse practitioner, built a sports medicine practice
   treating top athletes
 image: https://static.independent.co.uk/2026/08/28/08/DEA-Pain_Specialist-Athletes-Opioids_22819.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Joan Rubinger built a prominent sports medicine practice treating some of the biggest names in professional sports. The nurse practitioner's website touts a client list that includes 169 NFL Pro Bowl selections, 29 NBA and WNBA champions and 15 Olympic medalists.

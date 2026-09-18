@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T12:48:36Z'
 published: '2026-09-03T00:00:00Z'
 description: You don't need a pricey HDMI Sync Box, either.
 image: https://cdn.mos.cms.futurecdn.net/AhHmZUWRemw5FvZT2Nfvjm-800-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Philips Hue Play Screen Sync camera](https://cdn.mos.cms.futurecdn.net/AhHmZUWRemw5FvZT2Nfvjm.jpg) 

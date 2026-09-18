@@ -10,6 +10,9 @@ description: The US president told conservative commentator Glenn Beck that Kham
   Khamenei has not appeared publicly since his appointment in March and was absent
   from his father's funeral in July.
 image: https://images.euronews.com/articles/stories/09/89/00/96/1200x675_cmsv2_3ef656ee-e2b4-552d-968a-ec346ff08100-9890096.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

@@ -9,6 +9,9 @@ scraped_at: '2026-09-18T12:59:12Z'
 published: '2026-09-18T00:00:00Z'
 description: ICS phishing has finally "hit the mainstream"
 image: https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d.jpg) 

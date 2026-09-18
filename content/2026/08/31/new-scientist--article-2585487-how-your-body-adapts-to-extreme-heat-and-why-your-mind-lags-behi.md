@@ -10,6 +10,9 @@ description: No matter where you’re from, there are things you can do to cope 
   with extreme temperatures. But it takes work to stop our bodies’ adaptations from
   slipping backwards over winter, and there are limits to how far we can go
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309026179.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309026179.jpg?w=840)

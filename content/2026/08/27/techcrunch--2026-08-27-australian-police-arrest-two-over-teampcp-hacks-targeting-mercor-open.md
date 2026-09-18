@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: The arrests come after a wave of cyberattacks earlier this year targeting
   tech companies that rely on high-profile and widely used open source software.
 image: https://techcrunch.com/wp-content/uploads/2026/08/teampcp-hacker-afp.jpg?resize=1200,744
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Australian police have arrested two people in Perth accused of being members of TeamPCP, a prolific hacking group blamed for high-profile hacks against big tech giants in recent months. The two have been charged with more than a dozen hacking, money laundering, and other cybercrime offenses and are expected in court later on Thursday.

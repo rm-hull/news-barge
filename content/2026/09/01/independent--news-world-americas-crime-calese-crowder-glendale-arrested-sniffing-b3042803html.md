@@ -9,6 +9,9 @@ description: A registered sex offender with a history of arrests for allegedly c
   behind women and smelling them is back behind bars after police accused him of similar
   behavior at stores in Glendale.
 image: https://static.the-independent.com/2026/09/01/13/46/Calese-Crowder.jpeg?trim=110,0,110,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A registered sex offender with a history of arrests for allegedly crouching behind women and smelling them is back behind bars after police accused him of similar behavior at stores in Glendale.

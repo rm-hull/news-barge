@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Planning permission for a £30m expansion of Broomfield SILC (specialist
   inclusive learning centre) in Yorkshire has been approved by Leeds City…
 image: https://www.yorkpress.co.uk/resources/images/21407878.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Norse Group)*

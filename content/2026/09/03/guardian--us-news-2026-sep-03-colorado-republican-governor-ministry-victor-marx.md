@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Marx’s All Things Possible Florida model uses private funds for cop pay
   and surveillance tools without public oversight
 image: https://i.guim.co.uk/img/media/a0b11b2113a93ae1a52b70db9effd282bcffd4ca/349_0_3501_2800/master/3501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99dbe000057b93e0438c562d364dc7d6
+categories:
+- UK
+- News & Politics
 ---
 
 The All Things Possible ministry (ATP) is an unusual, and critics say potentially dangerous, operation. It has in the last year funded surveillance equipment and salaries for out-of-state law enforcement agencies, hired a range of private security and intelligence contractors, and is connected to a network of other self-appointed sex-trafficking rescue groups whose leading figures have attracted significant controversy.

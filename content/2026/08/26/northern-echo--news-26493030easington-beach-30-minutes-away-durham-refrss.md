@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Easington beach is a great place for relaxing and might be worth a visit
   during the last weeks of summer.
 image: https://www.thenorthernecho.co.uk/resources/images/21368075.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 *(Image: Getty)*

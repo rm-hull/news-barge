@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: ‘She’s not the White House press secretary. She’s not a household name,’
   CNN pundit says of the president’s 35-year-old aide
 image: https://static.independent.co.uk/2026/03/27/20/38/GettyImages-2231711597.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Combative MAGA mouthpiece Scott Jennings is defending the “honor” of White House aide Natalie Harp in an apparent audition for the job of press secretary — following a reported private meeting with President Donald Trump's chief of staff.

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Courtney Hadwin, the County Durham singer who rose to fame on America’s
   Got Talent, is heading back to the North East as part of a UK tour.
 image: https://www.thenorthernecho.co.uk/resources/images/21443824.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: TRAE PATTON/NBC/PA WIRE)*

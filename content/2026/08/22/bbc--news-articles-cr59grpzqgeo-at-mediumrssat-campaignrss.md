@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:46:56Z'
 published: '2026-08-22T00:00:00Z'
 description: The gallery, which has been closed since 1943, will reopen from 16 September.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b55e/live/e3703910-9d3b-11f1-bc05-aff3aa1f91c7.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Historic museum gallery displaying animal skeletons, with a hippopotamus skeleton in the foreground. Glass cases filled with specimens and skulls line the hall beneath an arched ceiling.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/b55e/live/e3703910-9d3b-11f1-bc05-aff3aa1f91c7.png)

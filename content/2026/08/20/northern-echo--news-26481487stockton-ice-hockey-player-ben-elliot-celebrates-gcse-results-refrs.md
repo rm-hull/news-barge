@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Stockton student Ben Elliott successfully balanced exam revision with
   a demanding ice hockey schedule, travelling to Leeds four times a week to…
 image: https://www.thenorthernecho.co.uk/resources/images/21349719.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

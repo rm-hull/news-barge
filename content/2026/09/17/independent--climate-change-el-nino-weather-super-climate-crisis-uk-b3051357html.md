@@ -9,6 +9,9 @@ description: ‘Rather than striving to deliver genuine climate and nature outco
   the government has been cutting corners to maintain spending commitments,’ says
   chair of parliament’s International Development Committee, Sarah Champion
 image: https://static.independent.co.uk/2026/07/01/16/2199642717..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The UK government is “cutting corners” on its commitments to provide climate aid, MPs have warned in a new report, just as __a record-breaking ‘super’ El Niño weather event__ begins to intensify extreme weather and humanitarian crises around the world.

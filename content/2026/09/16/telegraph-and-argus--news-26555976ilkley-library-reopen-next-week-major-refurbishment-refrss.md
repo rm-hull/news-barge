@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Ilkley Library and Visitor Information Centre will reopen next week following
   major refurbishment work.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463545.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

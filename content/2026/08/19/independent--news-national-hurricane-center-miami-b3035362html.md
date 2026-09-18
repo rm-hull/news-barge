@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A storm system moving west away from Hawaii has strengthened into a Category
   3 hurricane
 image: https://static.independent.co.uk/2026/08/17/17/Tropical_Weather_Hawaii_Extreme_Weather_31426.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Lala strengthens into a hurricane while moving west away from Hawaii

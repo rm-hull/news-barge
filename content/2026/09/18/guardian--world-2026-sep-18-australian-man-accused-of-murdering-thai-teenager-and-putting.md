@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Simon Peter Carman appeared in a Pattaya court on Friday charged with
   killing Tunchanok Donhomla
 image: https://i.guim.co.uk/img/media/bd07e075ba8a7e76d7405ddb57b379d97f91a179/17_0_1685_1348/master/1685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c369b515279abbb2b7fc4c659d1cf1b
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday in a hearing in the seaside resort city of Pattaya, a court official said.

@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Washington denies Iran's claims of successful attack on a US military
   vessel as a ‘total lie’
 image: https://static.independent.co.uk/2026/09/07/06/2293376208..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Iran has said it will unveil new sanctions for ships trying to pass through the Strait of Hormuz following a weekend of renewed exchanges with the United States, casting fresh doubt on progress towards an end to the six month conflict.

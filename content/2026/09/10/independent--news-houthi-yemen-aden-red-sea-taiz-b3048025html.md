@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Iranian-backed Houthi rebels have entered Yemen's strategic Red Sea port
   city of Mokha
 image: https://static.independent.co.uk/2026/09/10/15/Yemen_War_64125.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iranian-backed Houthi rebels have entered Yemen's strategic Red Sea port city of Mokha, several residents said Thursday, which could bring them closer to targeting shipping through a critical waterway to the Red Sea.

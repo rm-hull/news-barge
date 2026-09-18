@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Iran said it reached an agreement with Oman over a plan for ships to
   transit the Strait of Hormuz
 image: https://static.independent.co.uk/2026/08/17/22/2290381635..?trim=0,2,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A vessel was struck by an unknown projectile while leaving the Strait of Hormuz on Tuesday morning, a day after a 60-day memorandum of understanding between the US and Iran expired.

@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T13:04:17Z'
 published: '2026-08-18T00:00:00Z'
 description: That's ahead of schedule, apparently
 image: https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF-2000-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Windows 11 on a laptop](https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF.jpg) 

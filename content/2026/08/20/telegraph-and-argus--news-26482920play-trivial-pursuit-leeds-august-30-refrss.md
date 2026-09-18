@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T16:48:22Z'
 published: '2026-08-20T00:00:00Z'
 description: Leeds has been turned into a giant version of Trivial Pursuit.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21254336.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Tom Arber)*

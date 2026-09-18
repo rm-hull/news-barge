@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A motorcyclist has suffered serious injuries after a crash on a residential
   Leeds street on Thursday (September 10).
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/12/12/11/Newlay-Lane-2.jpg?trim=0,122,0,121&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist taken to hospital with serious injuries after late-night crash in Yorkshire

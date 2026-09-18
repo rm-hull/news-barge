@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T16:56:23Z'
 published: '2026-08-26T00:00:00Z'
 description: Robot bodies are waiting for their AI brains to catch up.
 image: https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Science
 ---
 
 Physical AI is one of the hottest sectors in venture investing, with companies raising billions to apply the tools that gave us Large Language Models to robotics.

@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The FDA has greenlit the first CGM wearable to monitor both blood sugar
   and ketone levels simultaneously.
 image: https://cdn.mos.cms.futurecdn.net/fFVLZDuyDxjBzSATQtMHoD-1920-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![The Libre Duo 10 Day continuous glucose monitor (CGM) from Abbott Diabetes Care.](https://cdn.mos.cms.futurecdn.net/fFVLZDuyDxjBzSATQtMHoD.jpg) 

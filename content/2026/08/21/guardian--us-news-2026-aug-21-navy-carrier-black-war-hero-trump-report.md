@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Sources say US navy is working to rename carrier originally planned to
   honor second world war sailor Dorris Miller
 image: https://i.guim.co.uk/img/media/5b8d9132af55955e74691e6bdfc6562717e575c7/0_132_4865_3890/master/4865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a66e64ccacefcc460b53a267f34ce568
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The Trump administration has been accused of delivering a “slap in the face” to US military veterans after reports that a navy aircraft carrier set to honor a Black war hero may, instead, be named after Donald Trump.

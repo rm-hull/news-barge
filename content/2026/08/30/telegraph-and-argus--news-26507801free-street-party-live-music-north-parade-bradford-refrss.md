@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Bradford’s North Parade Street Party returned today (August 30) running
   from 12pm to 9pm.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390004.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: T&A)*

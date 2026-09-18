@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The incident has escalated security concerns in Germany following accusations
   of Russian interference
 image: https://static.independent.co.uk/2026/09/07/09/2026-09-07T080009Z_939353476_RC27ENAGMHN7_RTRMADP_3_GERMANY-SECURITY.JPG?trim=130,0,131,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Police are investigating a fire and an apparent break-in at power substations across Germany, further escalating security concerns over a series of sabotage attacks on the power grid.

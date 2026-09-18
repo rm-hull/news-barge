@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Thai navy says ‘routine’ visit’ will allow personnel to rest and recuperate
   amid reports of poor conditions onboard
 image: https://i.guim.co.uk/img/media/5758a75a524914fa038da01db0eea4dd1a42ffd4/543_0_2715_2172/master/2715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3bd8b6efc9fd0c05df0c90cea4f42ba
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in Thailand next week as it heads back to the United States, Thai navy officials said, after spending more than 250 consecutive days at sea supporting US operations against Iran amid recent reports of poor living conditions and low morale onboard the vessel.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A spotted wildcat long mistaken for relatives has been identified as
   a new species in Bolivia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg
+categories:
+- UK
+- News & Politics
+- Outdoors & Nature
 ---
 
 ![A small cat with amber eyes peers at the camera. The cat has a black nose, a striped forehead and triangular ears. Its coat is grey-brown and it has spots like a leopard.  The wire netting of an enclosure and tropical foliage are visible behind.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f924/live/5c6733f0-b2b8-11f1-ad9d-efc12ace03e0.jpg)

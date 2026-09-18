@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:51:21Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/a1246-holyrood-lane-junction-selby-gsv.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police are investigating a fatal crash near Selby.

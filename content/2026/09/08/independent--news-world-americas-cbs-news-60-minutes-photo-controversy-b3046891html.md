@@ -9,6 +9,10 @@ description: According to CBS, the promotional shoot took place in Grand Central
   Oyster Bar as a deliberate homage to network pioneers Edward R. Murrow and Walter
   Cronkite
 image: https://static.independent.co.uk/2026/08/20/00/2253294279..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 CBS News is pushing back against online claims that a promotional photograph for the upcoming 59th season of “60 Minutes” was digitally altered or artificially generated.

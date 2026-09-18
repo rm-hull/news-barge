@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The ‘first meaningful rain for a long time’ in parts of the UK could
   result in surface flooding
 image: https://static.independent.co.uk/2026/08/17/22/2026-08-17T184505Z_43292167_RC2H0NAVIPXR_RTRMADP_3_EUROPE-WEATHER-BRITAIN.JPG?trim=108,0,108,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Flooding could hit parts of the country this week as heavy rain is forecast to hit drought-stricken land, but temperatures could take a “shock” drop later in the week.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Desperate relatives trying to reach loved ones last seen in area where
   entire villages have been swept away
 image: https://i.guim.co.uk/img/media/b8b087079ca3e898d252c98b7dd352ece06e5f17/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522e55d6f505949fb3ed9e027888d20
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Families are rushing to Nepal to search for the 33 British nationals who are still missing, as fears mount over the risk of a second wave of flooding in the region.

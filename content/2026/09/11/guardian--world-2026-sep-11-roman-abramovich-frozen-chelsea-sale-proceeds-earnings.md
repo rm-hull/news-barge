@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Proceeds are in a UK account amid a dispute about how the money should
   be used and a separate criminal investigation
 image: https://i.guim.co.uk/img/media/001bc01270d3ebd5a30a09c6ef3022a6ed878b66/0_0_1959_1567/master/1959.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=031bb84d651751c94b4167ab4e764f37
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Funds from Roman Abramovich’s sale of Chelsea FC have earned at least £175m in interest while locked in a UK bank account, new accounts show, leading one analyst to describe the company housing the frozen cash as “the most profitable football business in the world”.

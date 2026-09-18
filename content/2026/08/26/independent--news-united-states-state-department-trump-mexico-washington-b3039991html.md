@@ -10,6 +10,11 @@ description: The Trump administration has trained much of its immigration crackd
   on people who entered the United States illegally from Mexico and elsewhere, but
   it is intensifying another battle, this time with people who come legally
 image: null
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 The Trump administration has trained much of its immigration crackdown on people who entered the United States illegally from Mexico and elsewhere, but it is intensifying another battle, this time with people who come legally.

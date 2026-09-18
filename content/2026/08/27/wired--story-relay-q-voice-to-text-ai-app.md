@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The Relay Q, due next year, is the latest attempt to reposition voice
   as the most seamless method for human-computer interaction.
 image: https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/191:100/w_1280,c_limit/118.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 How much do you hate typing? The advent of large language models has rapidly advanced voice-to-text technology. Whether it's Wispr Flow joining your meetings to summarize discussions or Google debuting smarter on-device dictation in its latest Pixel smartphone, these tools do far more than transcribe: They intelligently strip filler words, clean up unscripted thoughts on the fly, and seamlessly mediate multilingual conversations.

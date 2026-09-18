@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Email addresses, phone numbers, vehicle registrations and postcodes of
   up to 8.7 million customers were stolen
 image: https://cdn.mos.cms.futurecdn.net/yLTkpXkRjzyqfh2RQyFi2F-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A queue at an airport check-in](https://cdn.mos.cms.futurecdn.net/yLTkpXkRjzyqfh2RQyFi2F.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: John Healey insisted UK economy is ‘turning a corner’ in first major
   speech as chancellor
 image: https://static.independent.co.uk/2026/09/07/10/1e21aead29a2337ef7c664f525e0cc13Y29udGVudHNlYXJjaGFwaSwxNzg4ODYwMDQ4-2.85771854.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 John Healey has refused to rule out further tax rises ahead of the Budget as he delivered his first major speech as chancellor.

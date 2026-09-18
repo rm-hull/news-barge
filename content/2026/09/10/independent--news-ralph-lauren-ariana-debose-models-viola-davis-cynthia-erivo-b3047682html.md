@@ -9,6 +9,10 @@ description: Ralph Lauren's New York Fashion Week show featured a starry guestli
   with actors from Meghann Fahy, Cynthia Erivo, Viola Davis and Elizabeth Debicki
   in attendance
 image: https://static.independent.co.uk/2026/09/10/03/NYFW_-_Ralph_Lauren_S_S_2_27_8636_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The Ralph Lauren womenswear brand is a love letter to the designer’s wife of more than 60 years.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:05Z'
 published: '2026-09-17T00:00:00Z'
 description: The lawsuit seeks at least $6 million on behalf of more than 40 people
 image: https://static.the-independent.com/2026/05/19/16/83614e97f0967ab2f548bda74016dfd1Y29udGVudHNlYXJjaGFwaSwxNzc5Mjg4NjA1-2.67647057.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two women whose images as girls were found in Jeffrey Epstein’s collection of child sexual abuse material have filed a class action lawsuit seeking damages from the late sex offender's estate.

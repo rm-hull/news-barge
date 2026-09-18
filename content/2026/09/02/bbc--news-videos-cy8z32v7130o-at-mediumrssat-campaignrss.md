@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: For a second time in two days, jurors told the judge they could not agree
   on a verdict in the murder trial.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ed4/live/0c97e9f0-a70a-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Law & Justice
 ---
 
 # Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case

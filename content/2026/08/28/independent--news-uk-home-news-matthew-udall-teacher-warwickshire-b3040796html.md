@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T11:16:47Z'
 published: '2026-08-28T00:00:00Z'
 description: Matthew Udall has been permanently banned from the classroom
 image: https://static.independent.co.uk/2026/08/28/07/2194500610..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A teacher gave a young pupil a pen containing a hidden camera – and encouraged her to change her clothes before using it.

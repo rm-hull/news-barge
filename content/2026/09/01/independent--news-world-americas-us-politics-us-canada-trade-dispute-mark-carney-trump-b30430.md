@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Carney’s plea comes after Pete Hegseth mocked Canada's military in a
   post that was immediately met with backlash
 image: https://static.independent.co.uk/2026/09/01/18/33/GettyImages-2240456889.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Canadian Prime Minister Mark Carney urged the Trump administration Tuesday to "stop doing memes, stop throwing shade and stop trying to be tough" after a fresh round of verbal attacks by Washington.

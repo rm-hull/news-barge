@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:54:31Z'
 published: '2026-09-10T00:00:00Z'
 description: IBM will help NASA researchers analyze decades of lunar observation data
 image: https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![IBM and NASA AI Moon model](https://cdn.mos.cms.futurecdn.net/AoSnvT34Emj7hEhn4MXqjf.jpg) 

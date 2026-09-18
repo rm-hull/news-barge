@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Third seed Felix Auger-Aliassime says he was "dizzy and seeing spots"
   in a surprise second-round loss to Karen Khachanov at the US Open.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4080/live/1bcf8840-a7de-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Felix Auger-Aliassime wipes his brow during his US Open defeat by Karen Khachanov](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4080/live/1bcf8840-a7de-11f1-b109-879e35c24276.jpg)

@@ -9,6 +9,10 @@ description: The company also disclosed previously unreported incidents in which
   AI models behaved in misaligned ways, including uploading files to the internet
   without being asked.
 image: https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/191:100/w_1280,c_limit/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI announced a new framework on Wednesday for how it publicly discloses AI misalignment incidents, which the company says it hopes will help inform similar standards across the industry. The company is also releasing new information about several examples of AI model misalignment it identified in the past year.

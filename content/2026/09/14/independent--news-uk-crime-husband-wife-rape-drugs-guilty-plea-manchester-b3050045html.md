@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The man entered his guilty pleas at Manchester Minshull Street Crown
   Court on Monday
 image: https://static.independent.co.uk/2026/06/26/11/2193896022..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 A man has admitted to drugging and raping his wife without her knowledge over a 20-year period.

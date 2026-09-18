@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:57Z'
 published: '2026-09-14T00:00:00Z'
 description: Devine, 38, was arrested Sunday by Morgantown police
 image: https://static.the-independent.com/2026/09/14/08/107037752..?trim=46,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 West Virginia assistant football coach Noel Devine has been arrested on a felony strangulation charge, according to jail records.

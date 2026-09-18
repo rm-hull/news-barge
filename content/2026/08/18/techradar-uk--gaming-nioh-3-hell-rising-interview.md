@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: 'Nioh 3: Hell Rising is here, and we''ve spoken to Team Ninja developers
   to give you an idea of what to expect in the game''s first DLC.'
 image: https://cdn.mos.cms.futurecdn.net/z9t7kNnqiafJwYvEHiWvKF-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A Nioh 3: Hell Rising screenshot in which the protagonist faces a towering yokai with a giant blade](https://cdn.mos.cms.futurecdn.net/z9t7kNnqiafJwYvEHiWvKF.jpg) 

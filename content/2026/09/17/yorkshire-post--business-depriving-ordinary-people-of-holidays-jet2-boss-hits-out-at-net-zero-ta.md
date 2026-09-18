@@ -10,6 +10,11 @@ description: The boss of Leeds-headquartered airline and holiday company Jet2 ha
   hit back at proposals to make flights more expensive as a way of reducing aviation
   emissions.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMxNDNiMmM5LTNlMTEtNDhmZi1iMGE1LTkyM2RkODU5ZmNlODphNjJhMDdhNS1mMjYwLTRmODQtOTE4Yy1lMGRlNDlhNDBkNWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # 'Depriving ordinary people of holidays': Jet2 boss hits out at net zero tax proposals to make flights more expensive

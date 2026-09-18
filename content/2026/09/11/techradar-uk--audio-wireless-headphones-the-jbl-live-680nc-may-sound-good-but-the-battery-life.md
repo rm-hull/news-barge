@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: They're almost a budget buy at $150, plus they sound pretty good, come
   with a ridiculous amount of features and a long, long battery life.
 image: https://cdn.mos.cms.futurecdn.net/eVNYZhCfJaAXndxfw6UkB9-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ### TechRadar Verdict

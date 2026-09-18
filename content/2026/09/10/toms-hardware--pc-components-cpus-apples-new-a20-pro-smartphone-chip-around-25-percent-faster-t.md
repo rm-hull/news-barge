@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Geekbench single-core score indicates the A20 delivers a significant
   generational CPU performance boost this year.
 image: https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Apple A20 Pro](https://cdn.mos.cms.futurecdn.net/BSzu4mJ9YD7LDAdyLJoKZd.jpg) 

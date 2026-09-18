@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T22:35:52Z'
 published: '2026-09-08T00:00:00Z'
 description: 'One X user questioned: ‘Is she racing to her nuclear bunker?’'
 image: https://static.independent.co.uk/2026/09/08/19/32/FotoJet-(43).jpeg?trim=97,0,303,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Ivanka Trump faced a wave of online criticism after sharing a horseback-riding video that many viewers dismissed as out of touch with everyday Americans.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Tiny plastic pellets known as nurdles have washed up on parts of the
   coastline.
 image: https://www.thenorthernecho.co.uk/resources/images/21357878.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Nurdles have washed up on County Durham shores after one billion plastic pellets are believed to have spilled into the River Tyne following a crash between two vessels.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T19:08:48Z'
 published: '2026-09-11T00:00:00Z'
 description: REPAIRS to a riverside wall in Gargrave are likely to cost around £100,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441746.jpg?type=og-image&xType=0&yType=293
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Knaresborough’s first junior parkrun launches Sunday](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=5:4,smart&trim=&quality=70&width=616)

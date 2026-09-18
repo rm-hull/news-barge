@@ -9,6 +9,10 @@ description: Iceland summoned the U.S. ambassador on Monday after President Dona
   Trump posted an image on social media showing the island and other countries covered
   by the American flag
 image: https://static.independent.co.uk/2026/02/10/23/02/GettyImages-2257408985.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Diplomatic tensions flared on Monday when Iceland summoned the U.S. ambassador after President Donald Trump posted an uncaptioned social media image showing the island alongside several other countries under the American flag.

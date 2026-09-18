@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Two Reform UK officials step down and party launches investigation after
   allegations it breached donation rules
 image: https://static.independent.co.uk/2026/09/04/12/2292886076..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nigel Farage said Reform has done “nothing wrong” following allegations they breached political donation rules by having polling paid for by an overseas company.

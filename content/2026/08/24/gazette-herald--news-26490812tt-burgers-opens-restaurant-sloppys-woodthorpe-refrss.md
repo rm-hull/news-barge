@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The newly-opened TT Burgers in Woodthorpe is earning five star reviews
   for food that diners describe as ‘banging.’
 image: https://www.gazetteherald.co.uk/resources/images/21364685.jpg?type=og-image&xType=0&yType=429
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A newly-opened burger bar is earning five star reviews for food that diners describe as ‘banging.’

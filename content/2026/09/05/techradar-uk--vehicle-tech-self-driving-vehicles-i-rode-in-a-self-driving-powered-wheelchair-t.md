@@ -9,6 +9,9 @@ scraped_at: '2026-09-05T11:49:23Z'
 published: '2026-09-05T00:00:00Z'
 description: The Strutt ev1c adds autonomous smarts and that are smartly implemented
 image: https://cdn.mos.cms.futurecdn.net/EemEYNJey6DHFNvqqzemoR-2560-80.jpg
+categories:
+- Technology & Software
+- Automotive
 ---
 
 ![The Strutt ev1c with TechRadar Editor Matt Bolton sitting on it, in a booth at the IFA trade show](https://cdn.mos.cms.futurecdn.net/EemEYNJey6DHFNvqqzemoR.jpg) 

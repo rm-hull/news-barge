@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Analysis of the chemistry of ancient T. rex tooth enamel adds weight
   to the idea that the fierce Cretaceous predator controlled its body temperature
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Tyrannosaurus in forest](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312582694.jpg?w=840)

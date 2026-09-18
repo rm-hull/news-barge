@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: US president pivots towards ‘crushing’ economic operation against Iran
   and its trading partners as military strikes fail to bring Tehran to the table
 image: https://i.guim.co.uk/img/media/d43051433cb016c208dfc647c9f2517efbfe04cf/1375_65_4125_3301/master/4125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e698869a3b52ffd82bd8db7bece15693
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Donald Trump has announced a new campaign to isolate Iran’s economy, threatening “tremendous economic consequences” on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented.

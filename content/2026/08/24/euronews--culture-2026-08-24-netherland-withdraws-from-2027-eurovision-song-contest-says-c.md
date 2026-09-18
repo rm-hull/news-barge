@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The 2026 competition was watched by 131 million viewers, down 35 million
   on the year before after five countries boycotted it over Israel's participation.
 image: https://images.euronews.com/articles/stories/09/88/60/41/1200x675_cmsv2_66d472a9-a498-5b87-af0a-0b823f73ccda-9886041.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ## The 2026 competition was watched by 131 million viewers, down 35 million on the year before after five countries boycotted it over Israel's participation.

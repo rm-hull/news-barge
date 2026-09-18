@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Former cabinet minister Baroness Therese Coffey has called for the pensions
   triple lock to be replaced.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414411.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: James Manning/PA Wire)*

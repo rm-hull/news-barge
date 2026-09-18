@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The Great British Schools Guide has released data highlighting the hardest
   and easiest secondary schools to get into around Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21443096.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Data has revealed the hardest and easiest secondary schools to get into around Darlington.

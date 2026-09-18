@@ -10,6 +10,10 @@ description: Thousands of people have rallied in Kosovo in support of a former p
   and three other ex-fighters ahead of their verdicts next week at a Netherlands-based
   court
 image: https://static.independent.co.uk/2026/09/12/15/Kosovo_War_Crimes_17829.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of people rallied in Pristina on Saturday in support of Kosovo's former President Hashim Thaci and three other ex-fighters ahead of their verdicts next week in a war crimes trial.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A door fitter from Hull has been awarded compensation of £90,000 after
   a drill dropped off a ladder and penetrated his leg.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJjNWNiZGIyLWZhNmYtNGI4NC1iNWRmLWYzMTNjMTU2NzA0OTpjMzI0ZGQwZC1kNDk5LTRlMWMtYmU3Mi0zMWU4YWY1YzJjNTI=.jpg?crop=3:2,smart&trim=&width=851&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Worker gets £90,000 after drill falls off ladder and punctures leg

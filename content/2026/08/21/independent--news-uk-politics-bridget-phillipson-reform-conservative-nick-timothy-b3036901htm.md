@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Equalities minister warns racism and sexism are ‘becoming normal’ in
   the UK
 image: https://static.independent.co.uk/2026/07/15/09/01KXJEJMMN3VWJEJRBTQHE4MAG.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Bridget Phillipson has accused senior Reform and Conservative politicians of making racist statements as she warns racism and sexism are “becoming normal” in the UK.

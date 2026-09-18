@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Parts of a major North East road remain closed after a burst main flooded
   the carriageway and left it covered in debris.
 image: https://www.thenorthernecho.co.uk/resources/images/21449472.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Travel
 ---
 
 Parts of a major North East road remain closed after a burst main flooded the carriageway and left it covered in debris.

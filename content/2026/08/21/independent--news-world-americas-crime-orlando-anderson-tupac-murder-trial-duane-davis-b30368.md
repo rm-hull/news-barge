@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: This 2008 interview was the first time Duane Davis directly discussed
   his involvement in the killing with authorities
 image: https://static.the-independent.com/2026/08/21/07/2290737730..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors on Thursday heard Duane “Keffe D” Davis tell detectives in a 2008 interview that his nephew, Orlando “Baby Lane” Anderson, was the man who fired the shots that killed Tupac Shakur.

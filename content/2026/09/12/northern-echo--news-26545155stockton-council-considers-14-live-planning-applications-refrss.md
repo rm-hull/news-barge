@@ -8,6 +8,13 @@ scraped_at: '2026-09-12T15:00:53Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://www.thenorthernecho.co.uk/resources/images/21445650.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 ### Here are a selection of recent live planning applications currently under consideration by Stockton Council:

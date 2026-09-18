@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The European Central Bank is inviting people across Europe to vote on
   the designs for future euro banknotes before its public survey closes on 21 September.
 image: https://images.euronews.com/articles/stories/09/91/29/49/1200x675_cmsv2_580928c3-4c3a-5ea2-ab5f-d8173691b84e-9912949.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The European Central Bank is inviting people across Europe to vote on the designs for future euro banknotes before its public survey closes on 21 September.

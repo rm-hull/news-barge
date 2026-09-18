@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:05:47Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/GAD5.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 York’s ghosts will once again gather in York Museum Gardens this November for five nights of spooky fun.

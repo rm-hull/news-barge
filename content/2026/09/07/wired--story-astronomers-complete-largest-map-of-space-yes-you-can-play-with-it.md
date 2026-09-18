@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: The intricate, 5.6 trillion-pixel map covers approximately 75 percent
   of the sky and includes about 4 billion celestial objects.
 image: https://media.wired.com/photos/6a98bd433546f162bf782073/191:100/w_1280,c_limit/noirlab2620a.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The driving force behind our universe’s accelerated expansion remains one of the greatest mysteries in astronomy. While this force, which scientists refer to as dark energy, pervades our universe, we know almost nothing about it.

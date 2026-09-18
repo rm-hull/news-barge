@@ -10,6 +10,9 @@ published: '2026-08-18T00:00:00Z'
 description: Standardized SIM command from the modem era lets a hostile card run code
   inside an EV charger
 image: https://cdn.mos.cms.futurecdn.net/uLTVZ33PJNJAQnchjt5Ngn-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![SIM card going into an iPhone](https://cdn.mos.cms.futurecdn.net/uLTVZ33PJNJAQnchjt5Ngn.jpg) 

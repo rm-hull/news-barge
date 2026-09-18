@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Researchers are catching a wide range of sharks off the New York’s Hamptons
   and outfitting them with small trackers
 image: https://static.independent.co.uk/2026/09/01/05/Sharks_Hamptons_74985.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Just off the coast of New York’s Hamptons, marine researcher Greg Metzger reels in a powerful young sand tiger shark. Working alongside a fellow scientist, he secures the female predator's tail to the side of the boat to gather tissue samples and attach electronic tracking equipment.

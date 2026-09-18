@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A £1 million water mains upgrade is underway to improve supply and reduce
   leaks in villages near Thirsk.
 image: https://www.yorkpress.co.uk/resources/images/21396743.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Yorkshire Water)*

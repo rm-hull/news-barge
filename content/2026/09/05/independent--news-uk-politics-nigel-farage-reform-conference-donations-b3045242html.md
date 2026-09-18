@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Reform leader says there will be ‘many more’ probes into his party in
   the wake of fresh allegations made by Channel 4
 image: https://static.independent.co.uk/2026/09/05/14/2293102248..?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage has said he expects “many more investigations” into Reform UK over the coming months as the fallout over a major donations scandal continues.

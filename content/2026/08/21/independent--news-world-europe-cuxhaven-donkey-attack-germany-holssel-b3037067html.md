@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A 33-year-old woman who stepped in to assist with restraining the equine
   was also taken to hospital for treatment
 image: https://static.independent.co.uk/2026/08/21/13/download..?trim=419,0,656,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Sports
 ---
 
 This photo released by the Cuxhaven Police Department shows a donkey named Freddy in its enclosure in Holssel near Cuxhaven, Germany, Friday, Aug. 21, 2026. (Polizei Cuxhaven via AP) (AP)

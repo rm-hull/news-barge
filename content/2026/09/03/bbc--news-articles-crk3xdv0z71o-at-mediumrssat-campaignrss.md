@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Andy Burnham has committed to reaching the Nato target of 3.5% spending
   by 2035, but not 3% by 2030.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/866e/live/265146b0-a7a1-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Badenoch is pictured from below the podium where she is giving a speech, at London Scottish House in Westminster, with a royal blue background and a Union flag to her left. She wears her braided hair tied back in a low ponytail, with a navy jacket and a turquoise top.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/866e/live/265146b0-a7a1-11f1-a291-b542ee92de7c.jpg)

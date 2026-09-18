@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Former Premier League referee Mike Dean has revealed he occasionally
   set himself unofficial challenges during top-flight matches.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405488.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Jamie Vardy's Having A Party YouTube)*

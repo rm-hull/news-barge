@@ -9,6 +9,10 @@ description: High school misfit Evan lies to comfort a grieving mother, telling 
   of a friendship with her late son that never existed. The falsehoods soon escalate,
   leaving Evan further to fall.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0j24ylw.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 # Dear Evan Hansen

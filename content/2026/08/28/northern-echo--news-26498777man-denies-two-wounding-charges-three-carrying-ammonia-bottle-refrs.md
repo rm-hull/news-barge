@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A man has denied two serious assault charges and other counts relating
   to the carrying of a bottle of ammonia in various parts of Spennymoor on the…
 image: https://www.thenorthernecho.co.uk/resources/images/21090404.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: The Northern Echo)*

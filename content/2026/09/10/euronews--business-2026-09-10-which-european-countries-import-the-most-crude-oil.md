@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Brent topped $100 after fresh Strait of Hormuz attacks. Eurostat data
   shows which European countries buy the most oil and who is most exposed.
 image: https://images.euronews.com/articles/stories/09/90/72/96/1200x675_cmsv2_0f487370-4989-59bf-9ca9-d76abd8b9ed2-9907296.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Brent topped $100 after fresh Strait of Hormuz attacks. Eurostat data shows which European countries buy the most oil and who is most exposed.

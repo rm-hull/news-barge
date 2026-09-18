@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Former Cleveland police man, Ben Burgess, who appeared on a Channel 5's
   Inside the Force has been barred after pursuing a sexual relationship…
 image: https://www.thenorthernecho.co.uk/resources/images/21335809.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 A police officer with a starring role in a TV show has been barred after having a sexual relationship with a vulnerable woman he met on duty, sending her 250 messages in a day.

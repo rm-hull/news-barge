@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate Town have appointed Karen Tyson as the club's new Managing
   Director, subject to regulatory approval.
 image: https://mmo.aiircdn.com/409/6aa28b7fd443fa27529.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa28b7fd443fa27529.jpg) 

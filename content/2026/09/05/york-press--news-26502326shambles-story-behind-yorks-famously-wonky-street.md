@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: We look at the remarkable history behind Shambles, York's most famous
   street where wonky buildings have been causing people to crane their…
 image: https://www.yorkpress.co.uk/resources/images/21381642.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Society & Culture
 ---
 
 ## Forget Pisa: York's own leaning landmark has been turning heads for centuries

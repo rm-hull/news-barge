@@ -10,6 +10,9 @@ description: 'Exclusive: From behind the bars of a brutal Iranian prison, a poli
   dissident awaiting execution describes life behind bars - and says the war with
   the US has made carrying out executions easier for the regime. Alex Croft reports'
 image: https://static.independent.co.uk/2026/09/04/9/27/Screenshot_20260818_115455_WhatsApp.jpg?trim=870,113,868,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Awaiting execution in one of Iran’s most notorious jails, Mehtab makes a simple - and urgent - plea to the outside world: do not let those on death row be forgotten in the smokescreen of war.

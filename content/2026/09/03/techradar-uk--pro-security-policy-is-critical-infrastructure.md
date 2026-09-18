@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T12:48:34Z'
 published: '2026-09-03T00:00:00Z'
 description: In banking and utilities, regulators define certain systems as essential
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

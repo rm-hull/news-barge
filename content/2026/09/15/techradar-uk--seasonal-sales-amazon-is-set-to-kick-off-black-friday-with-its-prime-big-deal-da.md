@@ -10,6 +10,9 @@ description: Amazon has announced that its Prime Big Deal Days sale is coming ba
   on October 6 - 7, 2026, with 48 hours of deals available exclusively for Prime members
   — here's all the info and what to expect.
 image: https://cdn.mos.cms.futurecdn.net/jVKFhGmWN2EMD2XR88248S-1320-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A row of brown Amazon packages with blue tape on them on a blue background](https://cdn.mos.cms.futurecdn.net/jVKFhGmWN2EMD2XR88248S.jpg) 

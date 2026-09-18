@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH
   TAKES SOLE RESPONSIBILITY FOR THE CONTENTS
 image: https://static.independent.co.uk/2026/07/22/20/16/Centric-Software_Header-Image_iStock-1426874952.jpeg?trim=0,34,0,34&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 *Centric Software is a Business Reporter client*

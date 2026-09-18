@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: Samsung's 8TB P9 portable SSD offers USB4 connectivity, 4,000 MB/s reads,
   rugged protection, broad compatibility and an unusually high price.
 image: https://cdn.mos.cms.futurecdn.net/NejUbjTuqWjDG8RPjPsADk-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Samsung 8TB P9 USB4 Portable SSD](https://cdn.mos.cms.futurecdn.net/NejUbjTuqWjDG8RPjPsADk.png) 

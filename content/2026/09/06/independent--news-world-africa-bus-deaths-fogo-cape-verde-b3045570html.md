@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Cape Verde's government has announced two days of mourning after the
   tragedy
 image: https://static.independent.co.uk/2026/09/06/18/2293345898..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 At least 25 people, many of them teenagers, have been killed after a bus plunged into a ravine on Fogo, one of Cape Verde’s islands.

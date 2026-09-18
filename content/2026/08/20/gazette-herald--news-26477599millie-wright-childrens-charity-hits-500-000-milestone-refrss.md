@@ -9,6 +9,13 @@ published: '2026-08-20T00:00:00Z'
 description: A charity set up in memory of a young girl has raised more than half
   a million pounds to support seriously ill children and their families.
 image: https://www.gazetteherald.co.uk/resources/images/20904064.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Family & Parenting
+- Health & Fitness
 ---
 
 A CHARITY set up in memory of a young girl has raised more than half a million pounds to support seriously ill children and their families.

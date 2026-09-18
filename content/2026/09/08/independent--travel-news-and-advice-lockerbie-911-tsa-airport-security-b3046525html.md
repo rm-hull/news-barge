@@ -10,6 +10,10 @@ description: As the 25th anniversary of 9/11 nears, here’s how those attacks, 
   earlier bombing of Pan Am Flight 103 and subsequent plots shaped airline and airport
   security
 image: https://static.independent.co.uk/2026/09/08/11/Sept_11_Air_Travel_7_139.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Reaching a gate for a commercial flight at a U.S. airport today typically demands a valid boarding pass, federal government security screening, and careful attention to the contents of carry-on luggage.

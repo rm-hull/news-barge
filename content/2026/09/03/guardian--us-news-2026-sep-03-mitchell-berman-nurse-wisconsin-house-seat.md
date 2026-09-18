@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Mitchell Berman is among Democrats the party hopes can flip a Republican-leaning
   district in November’s midterms
 image: https://i.guim.co.uk/img/media/8f1daf8441fcbee6026b27b95cac7a0578ab1ec9/245_0_6881_5504/master/6881.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd2bfa6e4d8e1c00f590b9e6025d4be6
+categories:
+- UK
+- News & Politics
 ---
 
 Democrats are targeting vulnerable seats this midterm election with working-class candidates they hope will resonate with voters exhausted by the economy.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Amanda Owen's Anty John's renovation is described as the farm next door,
   but just how close is the historic farmhouse to Ravenseat Farm?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429888.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 Our Farm Next Door may leave viewers wondering how close Amanda Owen's huge renovation project really is to Ravenseat Farm.

@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The BBC's LA correspondent Shaimaa Khalil spoke to fans gathered to mourn
   the country music star at her Hollywood Walk of Fame star on Tuesday evening.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5676/live/da0f4680-a0f2-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Comedy & Entertainment
+- Film & TV
 ---
 
 # BBC at Dolly Parton's Hollywood star as fans pay tribute

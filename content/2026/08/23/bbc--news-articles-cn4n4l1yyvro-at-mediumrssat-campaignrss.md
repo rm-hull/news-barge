@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Runners will receive a medal at the 2026 Sydney Marathon with an engraving
   of a German stadium.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A photo showing the Sydney Marathon medal, as shared by organisers on social media.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg)

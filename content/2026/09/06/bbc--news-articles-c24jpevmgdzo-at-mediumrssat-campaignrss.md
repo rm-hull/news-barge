@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The beauty and resilience of women living with cancer is celebrated though
   photography.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb25/live/ef6a93a0-aa79-11f1-ada1-797c5422f980.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Rhiannon looking into the camera with a thoughtful expression on her face. She is almost completely bald.  She has a silver hoop nose ring and silver heart stud earrings.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fb25/live/ef6a93a0-aa79-11f1-ada1-797c5422f980.jpg)

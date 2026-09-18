@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: County Durham and Darlington Fire and Rescue Service (CDFRS) was called
   to Tesco Extra in St Helen Auckland on Saturday (August 22) at 6.25pm.
 image: https://www.thenorthernecho.co.uk/resources/images/21362602.jpg?type=og-image&xType=0&yType=242
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Dramatic pictures show black plumes of smoke being sent into the sky after a car burst into flames.

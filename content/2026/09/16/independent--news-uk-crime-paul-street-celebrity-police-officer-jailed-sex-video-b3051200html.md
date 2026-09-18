@@ -8,6 +8,11 @@ scraped_at: '2026-09-16T13:27:14Z'
 published: '2026-09-16T00:00:00Z'
 description: Street was sentenced at the Old Bailey on Wednesday
 image: https://static.independent.co.uk/2026/09/16/13/01M2MD57D651DW1DTC7W1PHX0Y.jpg?trim=71,0,1780,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Film & TV
 ---
 
 A disgraced celebrity police officer who established a "toxic" environment on WhatsApp has been sentenced to four years in prison after requesting an intimate video of a female suspect.

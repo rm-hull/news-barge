@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Construction is underway on more than 150 new prison cells at HMP Kirklevington
   Grange in a bid to keep streets safer.
 image: https://www.thenorthernecho.co.uk/resources/images/21345533.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: THE NORTHERN ECHO)*

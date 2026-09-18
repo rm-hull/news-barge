@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Badapple Theatre's "Back to the Land Girls" opened in Stillingfleet with
   a sold-out performance at the local village hall.
 image: https://www.yorkpress.co.uk/resources/images/21435519.jpg?type=og-image&xType=0&yType=236
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Wartime comedy launches Yorkshire tour with sold-out village hall show

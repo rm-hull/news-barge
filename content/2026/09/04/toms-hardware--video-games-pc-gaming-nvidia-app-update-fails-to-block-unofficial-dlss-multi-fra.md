@@ -10,6 +10,10 @@ published: '2026-09-04T00:00:00Z'
 description: Enterprising game modders have found ways to enable NVIDIA's own DLSS-G
   pipeline intended for Blackwell on Ada Lovelace.
 image: https://cdn.mos.cms.futurecdn.net/uWtej5aJNqQwbgnjf5BLDM-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![An NVIDIA slide showing the benefits of DLSS 4 multi frame generation.](https://cdn.mos.cms.futurecdn.net/uWtej5aJNqQwbgnjf5BLDM.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Residents are opposing plans for the new clubhouse and gym - with more
   than 70 people signing a petition at a meeting held on Sunday, August 23.
 image: https://www.thenorthernecho.co.uk/resources/images/21369027.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 ### What is the Public Notice Portal?

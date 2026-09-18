@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: MOTORISTS are being reminded to plan ahead for major traffic changes
   during one of the region’s biggest music events, in Leeds Festival.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18441802.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Matthew Eachus)*

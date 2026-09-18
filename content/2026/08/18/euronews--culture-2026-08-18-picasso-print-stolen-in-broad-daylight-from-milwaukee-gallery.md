@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'A local landlord discovered the stolen artwork while clearing out a
   vacant apartment and took it to police after an antique dealer recognised it. #Art'
 image: https://images.euronews.com/articles/stories/09/87/86/96/1200x675_cmsv2_7cf3eb2f-e123-5a28-a3e9-e94c2186bf42-9878696.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## A local landlord discovered the stolen artwork while clearing out a vacant apartment and took it to police after an antique dealer recognised it.

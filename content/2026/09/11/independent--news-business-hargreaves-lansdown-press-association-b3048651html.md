@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Last month, Next upgraded its profit guidance for the second time this
   financial year.
 image: https://static.independent.co.uk/2026/09/11/13/51daa2da2be1aaae146c7702d1672db2Y29udGVudHNlYXJjaGFwaSwxNzg5MjE1NDM5-2.58154276.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Investors will be hoping Next can point towards continued sales growth after positive recent updates by the retail giant.

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A woman has been taken to hospital with life-threatening injuries after
   lines between York and London were disrupted today.
 image: https://www.yorkpress.co.uk/resources/images/21364932.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Chris Radburn/PA)*

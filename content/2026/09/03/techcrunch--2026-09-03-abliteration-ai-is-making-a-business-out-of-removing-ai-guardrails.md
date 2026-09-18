@@ -9,6 +9,9 @@ description: Abliteration.AI is making powerful AI models without guardrails eas
   to access, arguing that giving defenders the same tools as bad actors could ultimately
   improve cybersecurity.
 image: https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 It just became much easier to access one of the world’s most capable open-weight AI models, stripped of its guardrails and refusals to perform harmful tasks.

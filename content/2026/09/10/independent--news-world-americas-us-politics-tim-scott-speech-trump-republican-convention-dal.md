@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T04:30:23Z'
 published: '2026-09-10T00:00:00Z'
 description: One commentator compared Scott’s speech to something from a ‘TV character’
 image: https://static.independent.co.uk/2026/09/10/01/2294397455..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Social media users are roasting Senator Tim Scott after the South Carolina Republican delivered an animated speech at the GOP midterm convention in Texas that saw him yell and pretend to rip his heart out of his chest.

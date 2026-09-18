@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:47Z'
 published: '2026-09-02T00:00:00Z'
 description: At least 28 people were injured in the accident in South Sinai
 image: https://static.independent.co.uk/2024/09/04/13/04121950-222e5f46-2b7b-4b87-a95c-ebb912f1f4bc.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Sixteen people were killed and 28 injured in a bus accident in eastern Egypt on Wednesday, local authorities have said.

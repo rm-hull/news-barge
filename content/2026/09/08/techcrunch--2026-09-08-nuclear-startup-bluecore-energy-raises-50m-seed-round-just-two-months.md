@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Bluecore Energy announced Tuesday an oversubscribed $50 million seed
   round — just months after raising a $10 million pre-seed and coming out of stealth.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A finalist from Britain’s Got Talent is set to perform in Saltaire next
   month as part of the annual Saltaire Festival.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21032911.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Sanjay Zalke)*

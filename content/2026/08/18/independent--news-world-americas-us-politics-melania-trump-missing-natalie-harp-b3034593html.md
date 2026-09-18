@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The first lady, who reportedly spends time in Florida and New York, has
   not been seen publicly in nearly a month, according to reports
 image: https://static.independent.co.uk/2026/08/18/0/34/GettyImages-2280108972.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 First Lady Melania Trump has been absent from public view for weeks, missing a string of high-profile events attended by her husband, according to recent reports.

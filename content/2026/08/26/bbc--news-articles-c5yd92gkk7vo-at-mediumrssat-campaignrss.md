@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Curry was best known for playing the outlandish Frank-N-Furter in cult
   film The Rocky Horror Picture Show.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/834e/live/cfbc6d30-a164-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Music
 ---
 
 ![Tim Curry](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/834e/live/cfbc6d30-a164-11f1-aaf8-119f176ff4ce.jpg)

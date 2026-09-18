@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Monitor reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/cbmoKPwsVdQKy3cefhXsGZ-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # Monitors

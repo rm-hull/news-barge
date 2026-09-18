@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man has been arrested after around 70 people descended on Middlesbrough
   town centre for a 'save our town' protest.
 image: https://www.thenorthernecho.co.uk/resources/images/12855408.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: POLICE)*

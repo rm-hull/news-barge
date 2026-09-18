@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A court has heard how two young men were part of a balaclava-clad gang
   that threatened a youth with a machete and robbed him of his car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470360.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

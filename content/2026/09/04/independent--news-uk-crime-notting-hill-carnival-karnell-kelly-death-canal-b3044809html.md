@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Officers and members of the public entered the canal to pull him from
   the water
 image: https://static.independent.co.uk/2026/09/04/14/1926353724..?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A police watchdog investigation has been launched after a man who died upon jumping into a canal while fleeing from officers was named as 25-year-old Karnell Kelly.

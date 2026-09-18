@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal
   for £60m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf1e/live/61713bd0-a4b6-11f1-a35f-6d34e03b9d9f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Gabriel Martinelli](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/cf1e/live/61713bd0-a4b6-11f1-a35f-6d34e03b9d9f.jpg)

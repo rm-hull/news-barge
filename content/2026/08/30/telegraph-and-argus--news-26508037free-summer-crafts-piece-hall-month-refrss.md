@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Children can get creative this month with free craft sessions taking
   place in Halifax.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390464.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Pixabay)*

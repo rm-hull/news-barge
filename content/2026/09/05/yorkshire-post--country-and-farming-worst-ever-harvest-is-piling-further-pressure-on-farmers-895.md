@@ -9,6 +9,11 @@ description: As a harvest dubbed “the worst ever” by some farmers enters its
   stages in Yorkshire, the shadow farming minister has urged the government to prioritise
   food security.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiYzU2OTlkLTMyODctNDc0Yy05OWUxLTdiMmM0ZjNjMzhlMTozNTA2Yzk0OS1kYmVkLTQ5ZDctYjhkNC05ZjRhZjdjOGMzN2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # ‘Worst ever’ harvest is piling further pressure on farmers

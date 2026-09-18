@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Work begins on removing carriages from a train that derailed near Lewes,
   as investigations continue.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde7/live/ac962db0-9c86-11f1-95d8-5b0dba89a322.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![A large orange rail crane towers above a Southern train carriage as recovery crews prepare it for lifting. Several workers in orange high-visibility clothing stand beside the carriage on the railway line, with trees and vegetation surrounding the site.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/bde7/live/ac962db0-9c86-11f1-95d8-5b0dba89a322.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The United States has deported nearly 2,300 Mexicans to Guatemala this
   year and sent dozens more to Honduras
 image: https://static.independent.co.uk/2026/08/20/21/Guatemala_Migrants_Deported_44_31.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The United States has deported nearly 2,300 Mexicans to Guatemala this year and sent at least dozens more to Honduras, according to official data, a shift from the beginning of U.S. President Donald Trump’s second term when such transfers were minimal.

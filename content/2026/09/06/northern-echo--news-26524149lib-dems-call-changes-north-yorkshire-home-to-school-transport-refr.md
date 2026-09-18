@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: North Yorkshire opposition councillors are asking for three three immediate
   changes to the authority’s home-to-school transport policy amid claims…
 image: https://www.thenorthernecho.co.uk/resources/images/21107121.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: NEWSQUEST)*

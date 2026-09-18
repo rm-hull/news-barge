@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: The Cats visit the Dockers at the Optus Stadium, aiming to dump the minor
   premiers out
 image: https://cdn.mos.cms.futurecdn.net/c8Z2CffZKtFzuShvdtAKEi-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Luke Jackson of the Dockers punches his fist in celebration during the AFL 2026](https://cdn.mos.cms.futurecdn.net/c8Z2CffZKtFzuShvdtAKEi.jpg) 

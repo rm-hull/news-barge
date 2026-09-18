@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Brent crude up by about 3% after latest fire between US and Iran in Gulf
   and Houthi attacks on Saudi cities
 image: https://i.guim.co.uk/img/media/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/master/6341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6442cf223721d4465e58c3a137567547
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Cycling fans attending the Lloyds Tour of Britain Men’s Stage 4 finish
   in Leyburn can avoid road closures and congestion by using a special…
 image: https://www.thenorthernecho.co.uk/resources/images/21355250.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Cycling fans heading to the finish of one of Britain's biggest road races will be able to avoid congestion and road closures thanks to a special rail service being laid on in North Yorkshire.

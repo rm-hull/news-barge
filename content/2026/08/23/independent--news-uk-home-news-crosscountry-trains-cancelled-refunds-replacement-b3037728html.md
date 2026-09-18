@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T12:58:53Z'
 published: '2026-08-23T00:00:00Z'
 description: Journeys are suspended ‘across almost all routes’ until further notice
 image: https://static.independent.co.uk/2026/08/23/12/01M0Q273P1A64W0C2KKWZ2B0AH.jpg?trim=0,12,0,12&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 CrossCountry has cancelled most of its Sunday services throughout the UK following a power cut in Birmingham.

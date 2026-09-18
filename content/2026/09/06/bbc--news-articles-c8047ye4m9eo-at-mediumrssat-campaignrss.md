@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Diana Memorial Fountain remains closed following a sequence of technical
   faults.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4c/live/1db64540-a7c0-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A wide, curving granite water channel of the Diana Memorial Fountain sitting empty and dry in Hyde Park, with dry leaves scattered in the basin and trees in the background.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/8a4c/live/1db64540-a7c0-11f1-b5cf-8556ae508a51.jpg)

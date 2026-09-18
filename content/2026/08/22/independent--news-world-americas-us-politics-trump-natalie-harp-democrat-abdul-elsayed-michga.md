@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Harp was thrust into the spotlight when Democratic Senator Jon Ossoff
   of Georgia alluded to her relationship with the president during a campaign rally
 image: https://static.independent.co.uk/2026/08/18/16/34/GettyImages-2287538819.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Progressive Democrat Abdul El-Sayed became the second Senate candidate to invoke the controversy surrounding President Donald Trump’s relationship with embattled White House aide Natalie Harp — telling her on social media Saturday that her 80-year-old boss “needs his rest.”

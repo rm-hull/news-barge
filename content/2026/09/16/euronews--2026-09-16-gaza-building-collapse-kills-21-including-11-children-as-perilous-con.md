@@ -9,6 +9,10 @@ description: At least 21 people, including 11 children, have died and dozens mor
   are missing after an apartment building collapsed in Gaza from damage sustained
   in earlier Israeli strikes.
 image: https://images.euronews.com/articles/stories/09/91/61/35/1200x675_cmsv2_e9a6bd97-ac85-5df2-993b-60ac793649c8-9916135.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## At least 21 people, including 11 children, have died and dozens more are missing after an apartment building collapsed in Gaza from damage sustained in earlier Israeli strikes.

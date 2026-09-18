@@ -9,6 +9,10 @@ description: More than 100 people remain trapped in a hydropower tunnel in Nepal
   while rescuers across the border in Tibet have been forced to withdraw as fears
   grow of renewed flooding.
 image: https://images.euronews.com/articles/stories/09/89/22/36/1200x675_cmsv2_34bb60a5-88c3-55cb-b995-811099e70dbe-9892236.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## More than 100 people remain trapped in a hydropower tunnel in Nepal, while rescuers across the border in Tibet have been forced to withdraw as fears grow of renewed flooding.

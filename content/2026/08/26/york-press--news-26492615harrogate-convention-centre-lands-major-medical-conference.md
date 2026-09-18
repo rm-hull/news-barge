@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Harrogate Convention Centre has secured the 2027 contract to host the
   14th Meeting of the International Society of Systemic Autoinflammatory…
 image: https://www.yorkpress.co.uk/resources/images/21367388.jpg?type=og-image&xType=0&yType=115
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Harrogate Convention Centre)*

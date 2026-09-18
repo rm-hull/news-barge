@@ -10,6 +10,11 @@ description: The U.N. Security Council has voted unanimously to briefly extend t
   current arms embargo on Sudan’s western Darfur region while negotiations continue
   on a contentious U.S. proposal to expand the embargo throughout the country
 image: https://static.independent.co.uk/2026/08/24/23/Sudan_War_17595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 The U.N. Security Council voted unanimously Friday to briefly extend the arms embargo on Sudan’s western Darfur region while negotiations continue on a contentious U.S. proposal to expand the embargo throughout the country to pressure the warring parties to end their more than three-year conflict.

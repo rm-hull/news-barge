@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The United Arab Emirates has suspended all trade with Iran after it said
   it had come under renewed fire from the country
 image: https://static.independent.co.uk/2026/08/13/11/APTOPIX_Iran_War_Strait_of_Hormuz_783_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The United Arab Emirates suspended all trade with Iran on Wednesday after it said it had come under renewed fire from the country — a move that will further isolate the Islamic Republic, which is suffering under American sanctions and a blockade.

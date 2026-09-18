@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A simple tweak to your boiler could cut gas bills by nearly 10 without
   leaving you in the cold, according to experts.
 image: https://www.yorkpress.co.uk/resources/images/21389137.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

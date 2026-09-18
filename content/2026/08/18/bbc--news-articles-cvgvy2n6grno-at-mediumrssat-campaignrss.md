@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Rough sleepers in England will be offered housing, in a move likened
   to the “Everyone In” initiative during the pandemic.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Two women walk past a person lying on the pavement in London, 28 July](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/70bd/live/9fb7ae20-9b50-11f1-83d8-cfa02e83b41a.jpg)

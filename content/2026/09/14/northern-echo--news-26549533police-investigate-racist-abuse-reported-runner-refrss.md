@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A runner who says she was subjected to racist abuse while taking part
   in the Great North Run has described it as the "worst experience"…
 image: https://www.thenorthernecho.co.uk/resources/images/21454225.jpg?type=og-image&xType=0&yType=201
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A runner faced the "worst experience" as she was subjected to racial abuse while taking part in the Great North Run over the weekend.

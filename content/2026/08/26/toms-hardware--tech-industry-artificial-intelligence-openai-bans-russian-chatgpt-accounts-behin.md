@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T13:11:27Z'
 published: '2026-08-26T00:00:00Z'
 description: The operation reached almost no one.
 image: https://cdn.mos.cms.futurecdn.net/cEbR4mtnyeS4CXrXrG7ZVi-666-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![ChatGPT quality declines](https://cdn.mos.cms.futurecdn.net/cEbR4mtnyeS4CXrXrG7ZVi.jpg) 

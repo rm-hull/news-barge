@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Following a dispute over the length of his contract, will Jean-Philippe
   Mateta stay at Crystal Palace beyond the transfer window?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f0d9/live/24f29b60-9f2d-11f1-9470-1de69dec5d33.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Jean-Philippe Mateta warming up for Crystal Palace](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f0d9/live/24f29b60-9f2d-11f1-9470-1de69dec5d33.jpg)

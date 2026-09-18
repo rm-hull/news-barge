@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:16:08Z'
 published: '2026-08-28T00:00:00Z'
 description: LONG delays are being reported on a main road in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/20667669.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- Travel
 ---
 
 *(Image: Submitted)*

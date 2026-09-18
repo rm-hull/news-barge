@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:52Z'
 published: '2026-08-20T00:00:00Z'
 description: Nathan Cofnas has claimed he advocates for ‘race realism’
 image: https://static.independent.co.uk/2026/08/20/15/2290433734..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An academic who made plagiarism allegations against Professor Jason Arday before his death has been suspended by a university.

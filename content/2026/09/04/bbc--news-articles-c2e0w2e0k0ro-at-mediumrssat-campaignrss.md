@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: BBC News visits town where violence has escalated after the fatal crash
   and residents say they are living in fear.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d60/live/49f29f30-a885-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ![Two young men wearing balaclavas sit on a red quad bike](https://ichef.bbci.co.uk/ace/standard/854/cpsprodpb/656e/live/72644780-a884-11f1-a291-b542ee92de7c.jpg)

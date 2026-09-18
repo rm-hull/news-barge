@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: PC Blades coached FC Hartlepool’s U10 Reds and had recently joined Seaton
   Carew FC, where he was preparing to coach the new U7 Seahawks team.
 image: https://www.thenorthernecho.co.uk/resources/images/21360641.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Two football clubs have paid tribute to a coach and serving policeman who died in a devastating crash on the A66.

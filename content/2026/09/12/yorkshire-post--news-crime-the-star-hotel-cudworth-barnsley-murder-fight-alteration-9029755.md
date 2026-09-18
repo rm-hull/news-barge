@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: Police have arrested a man on suspicion of murder following an altercation
   outside a Yorkshire village pub.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/12/12/11/The-Star-Inn.png?trim=0,56,0,55&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # 'Devastating incident' - Murder arrest after death of man outside Yorkshire village pub

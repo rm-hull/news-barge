@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A court has heard how a persistent sexual deviant caught with hundreds
   of thousands of indecent images of children set up multiple cameras to film a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351372.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: West Yorkshire Police)*

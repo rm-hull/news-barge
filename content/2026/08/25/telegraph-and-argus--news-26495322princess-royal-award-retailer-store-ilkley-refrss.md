@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: NORTHERN retailer Booths, which has a store in Ilkley, has been recognised
   with a 2026 Princess Royal Training Award for its Specialist Training…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20916874.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: submitted)*

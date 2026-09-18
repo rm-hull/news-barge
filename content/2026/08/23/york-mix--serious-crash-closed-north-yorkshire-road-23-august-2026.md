@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T20:36:07Z'
 published: '2026-08-23T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/02/police-slow-dreamstime.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 A serious crash has closed a North Yorkshire road this afternoon (Sunday).

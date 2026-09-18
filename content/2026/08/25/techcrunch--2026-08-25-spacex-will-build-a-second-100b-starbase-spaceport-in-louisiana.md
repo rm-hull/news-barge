@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The company says it will start construction in 2027 and that a Starship
   rocket could take flight as soon as 2029.
 image: https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 SpaceX has announced it will build a second spaceport for future launches of its Starship mega-rocket at a former Exxon property in Louisiana, ending what the company says was a seven-year search for a suitable location.

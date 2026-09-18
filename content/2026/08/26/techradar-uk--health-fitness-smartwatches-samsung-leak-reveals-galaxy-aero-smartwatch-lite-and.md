@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: A leak has revealed hints pointing towards a low-cost Samsung Galaxy
   Aero smartwatch.
 image: https://cdn.mos.cms.futurecdn.net/ToekjsZYgiP3deznTYY3VL-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Samsung Galaxy Watch FE](https://cdn.mos.cms.futurecdn.net/ToekjsZYgiP3deznTYY3VL.jpg) 

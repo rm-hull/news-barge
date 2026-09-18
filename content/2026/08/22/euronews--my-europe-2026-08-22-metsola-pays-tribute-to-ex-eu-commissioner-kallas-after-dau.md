@@ -9,6 +9,9 @@ description: '“It is with sadness that I must announce that my dear father, Si
   passed away last night,” posted EU foreign affairs chief Kaja Kallas on Instagram.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/48/81/1200x675_cmsv2_b035a50a-37ce-52e0-ae40-f4b461a0c5cb-9884881.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## “It is with sadness that I must announce that my dear father, Siim Kallas, passed away last night,” posted EU foreign affairs chief Kaja Kallas on Instagram.

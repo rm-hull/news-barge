@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Organisers say each of the 2,977 drones in the display represents a victim
   of the 9/11 attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Drone display recreates the Twin Towers over New York City

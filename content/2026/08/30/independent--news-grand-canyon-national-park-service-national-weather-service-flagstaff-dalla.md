@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Officials say dozens of people have been evacuated from the depths of
   the Grand Canyon because of heavy rain and flooding
 image: https://static.independent.co.uk/2026/08/30/22/Grand_Canyon_Flooding_4_194.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A major flash flood at the Grand Canyon forced the evacuation of dozens of people and swept large boulders, metal structures and other debris into the Colorado River that runs through it, the National Park Service said.

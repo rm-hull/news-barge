@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Now I've seen all 10 episodes of The Paper season 2, its ending is by
   far my favorite thanks to one 'uncomfortable' moment.
 image: https://cdn.mos.cms.futurecdn.net/Bm8yZxQDDSBhPSsiYGX4vg-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Esmeralda tries to light herself with multiple portable lighting sticks](https://cdn.mos.cms.futurecdn.net/Bm8yZxQDDSBhPSsiYGX4vg.jpg) 

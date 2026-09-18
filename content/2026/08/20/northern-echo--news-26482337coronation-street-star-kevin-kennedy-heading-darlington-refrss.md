@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Former Coronation Street star Kevin Kennedy will appear at Darlington
   Hippodrome in October in The Picture of Dorian Gray – A New Musical.
 image: https://www.thenorthernecho.co.uk/resources/images/21351006.jpg?type=og-image&xType=0&yType=34
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 A familiar face from one of Britain's biggest soap operas is coming to Darlington this autumn as the star of a new musical.

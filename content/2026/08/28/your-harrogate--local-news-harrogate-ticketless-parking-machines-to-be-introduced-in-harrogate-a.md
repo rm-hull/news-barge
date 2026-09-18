@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: New ticketless parking machines are set to be installed in council-run
   car parks across Harrogate and Ripon this autumn.
 image: https://mmo.aiircdn.com/409/6a9131df32d911778ee.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Automotive
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9131df32d911778ee.jpg) 

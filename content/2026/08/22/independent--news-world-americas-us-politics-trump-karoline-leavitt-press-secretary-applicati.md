@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Leavitt is the youngest person to serve as White House press secretary
   and has a long history working alongside Trump
 image: https://static.independent.co.uk/2026/08/22/18/2290824810..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump insisted Friday that a lot of people are interested in taking over as White House Press Secretary, and noted that outgoing Karoline Leavitt made the job look “very glamorous.”

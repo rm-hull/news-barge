@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Massachusetts has long been a national leader in expanding access to
   health care, with one of the lowest uninsured rates in the U.S.
 image: https://static.independent.co.uk/2026/09/14/08/2026-09-09T142045Z_724793447_RC2JCNAJL0RC_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The governor of Massachusetts has proposed new measures to help struggling parents after the Lindsay Clancy trial sparked renewed concern about postpartum care.

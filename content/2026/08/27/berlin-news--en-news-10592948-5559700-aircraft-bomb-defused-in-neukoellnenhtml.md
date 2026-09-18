@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The 100-kilogram aerial bomb found in Berlin-Neukölln was successfully
   defused late Wednesday evening.
 image: https://www.berlin.de/binaries/asset/image_assets/10595315/ratio_4_3/1787813211/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 © dpa

@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:30Z'
 published: '2026-09-18T00:00:00Z'
 description: ST Margarets Road will close temporarily on Monday for water works.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469664.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Google Street View)*

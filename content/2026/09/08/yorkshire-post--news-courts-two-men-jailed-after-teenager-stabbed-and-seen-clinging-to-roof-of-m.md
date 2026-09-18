@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Two men have been jailed after a 19-year-old was stabbed before being
   seen severely injured and clinging to the roof of a moving van.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/10/53/jail.png?trim=0,50,0,50&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Two men jailed after teenager stabbed and seen clinging to roof of moving van

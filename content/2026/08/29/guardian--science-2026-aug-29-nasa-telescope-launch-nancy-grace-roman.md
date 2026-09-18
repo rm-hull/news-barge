@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Searching for exoplanets and clues on planet formation, the Roman telescope
   will lift off Sunday morning in Florida
 image: https://i.guim.co.uk/img/media/a08b673d569ee236fe0d5c3de8f6a28b2838fbb3/497_0_4950_3963/master/4950.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06e835d3fd572484707e6e4502533da1
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A $4.3bn space telescope that Donald Trump tried to kill is set to lift off from Florida early on Sunday as Nasa embarks on the next stage of its quest to unlock the secrets of the universe.

@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Liz Oyer claims she was told to ignore her concerns because Gibson is
   an acquaintance of Donald Trump
 image: https://static.independent.co.uk/2026/09/03/20/2209074826..?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The former U.S. pardon attorney has sued the Justice Department, alleging she was wrongly fired last year in the face of pressure from the Trump administration after she refused to recommend that actor Mel Gibson have his gun rights reinstated.

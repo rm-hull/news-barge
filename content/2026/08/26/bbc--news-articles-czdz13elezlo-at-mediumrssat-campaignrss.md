@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: A hospital official told the BBC that the door to the ward was not locked,
   but manned with security guards, to protect the babies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/226e/live/30231dc0-a11c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Samiullah, the father of a newborn who was killed in the PIMS hospital blaze, is comforted.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/506d/live/b7a51620-a119-11f1-92eb-a9b3bbcf6f4a.jpg)

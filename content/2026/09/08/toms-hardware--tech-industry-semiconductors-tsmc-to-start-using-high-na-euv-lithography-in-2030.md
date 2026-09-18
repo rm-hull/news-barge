@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T19:25:46Z'
 published: '2026-09-08T00:00:00Z'
 description: But with which node?
 image: https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: The authors of Myth-Made Machines explain how ancient myths and science
   fiction shaped our hopes and fears about today’s AI.
 image: https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 ![Authors David Bradly and Kelly Vero with their book Myth-Made Machines](https://cdn.mos.cms.futurecdn.net/crwCbqY6PhFTZf8MAZtG4M.jpg) 

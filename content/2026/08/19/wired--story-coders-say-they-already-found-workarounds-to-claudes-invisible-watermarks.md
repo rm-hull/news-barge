@@ -9,6 +9,10 @@ description: Anthropic announced last week it would include invisible watermarks
   AI-generated content to comply with new EU rules. Within hours, overrides were being
   touted online.
 image: https://media.wired.com/photos/6a85ca54d0110f6d404e46bf/191:100/w_1280,c_limit/081926_AI-Watermark-Removal.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Within four hours of Anthropic confirming that Claude models would globally embed invisible, machine-readable watermarks into any AI-generated content, developer Guillaume Meyer had published his override.

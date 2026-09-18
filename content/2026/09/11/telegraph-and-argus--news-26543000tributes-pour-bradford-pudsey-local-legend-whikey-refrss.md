@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A much-loved man who visited the same pub everyday for the last 10 years
   has died.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441576.jpg?type=og-image&xType=0&yType=69
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

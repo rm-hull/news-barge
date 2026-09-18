@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: The Atlantic hurricane season is unusually quiet this year due to a strong
   El Nino, which disrupts storm formation over that ocean
 image: https://static.independent.co.uk/2026/09/12/14/Climate_No_Hurricanes_72164.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Atlantic is quiet — record quiet — this hurricane season thanks to an enormous El Nino that crushes storms before they get going.

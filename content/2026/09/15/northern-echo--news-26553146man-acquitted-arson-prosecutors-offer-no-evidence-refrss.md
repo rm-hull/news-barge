@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Malcolm Stewart acquitted of arson with intent to endanger life after
   no evidence was offered over a Stockton storage unit fire on March 30.
 image: https://www.thenorthernecho.co.uk/resources/images/19967899.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

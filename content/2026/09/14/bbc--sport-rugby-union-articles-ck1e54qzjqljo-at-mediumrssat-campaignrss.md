@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Henry Pollock continues to play hardball in his negotiations over a Northampton
   Saints contract extension, insisting he is still open to offers from elsewhere.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a77f/live/1d6b53e0-b063-11f1-b9fd-8be7457ad079.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Henry Pollock runs past Harvey Skinner](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/96d4/live/7a9ed830-b062-11f1-b9fd-8be7457ad079.jpg)

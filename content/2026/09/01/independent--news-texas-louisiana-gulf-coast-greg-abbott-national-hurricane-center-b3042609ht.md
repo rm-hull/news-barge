@@ -10,6 +10,10 @@ description: Tropical Storm Edouard has formed in the Gulf of Mexico and is expe
   to gain strength before bringing potentially heavy rains and flooding into parts
   of Texas and Louisiana
 image: https://static.independent.co.uk/2026/09/01/10/Extreme_Weather_Tropical_Cyclone_652_.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Tropical Storm Edouard was heading toward the Gulf Coast early Tuesday and expected to gain strength before bringing potentially heavy rains and flooding into parts of Texas and Louisiana.

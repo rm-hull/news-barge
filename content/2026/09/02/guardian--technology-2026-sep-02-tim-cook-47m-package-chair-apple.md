@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Pay and shares deal nearly matches $58m award to John Ternus, his successor
   as CEO at the $4.7tn tech company
 image: https://i.guim.co.uk/img/media/fb3012d09f0ab2b0465797bf80bced5fb684c326/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67b413b08227fb1aad0b3963dcda0bcf
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Tim Cook has received a $47m (£35m) pay deal as Apple’s executive chair, a remuneration package that nears the level set for his successor as chief executive.

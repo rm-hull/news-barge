@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Efra Committee said bondholder takeover plans are not in the best
   interests of Thames Water, customers or the environment.
 image: https://static.independent.co.uk/2026/09/18/00/0328443cc09236f29e9c1b2bd7417bb5Y29udGVudHNlYXJjaGFwaSwxNzg5NzQyNzE1-2.75028289.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Thames Water’s rescue deal by lenders should be rejected and the Government should take it back into public control after the stricken supplier has been left in a damaging “doom loop”, according to an influential group of MPs.

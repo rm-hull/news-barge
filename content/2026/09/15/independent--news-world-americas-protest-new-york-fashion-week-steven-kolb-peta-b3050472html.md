@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: ‘There is no justification for physically restraining another person,’
   the CEO writes
 image: https://static.independent.co.uk/2026/09/15/11/00/Screenshot-2026-09-15-at-12-50-54.png?trim=55,0,34,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 A fashion CEO has apologized after restraining two protesters at a New York Fashion Week show.

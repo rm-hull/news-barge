@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A CADET from Bradford has been named as one of the Lord-Lieutenant’s
   Cadets of West Yorkshire
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439375.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

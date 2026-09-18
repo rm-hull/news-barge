@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Federal law enforcement warned the parents of Caleb Vazquez about his
   concerning online comments days before the attack
 image: https://static.the-independent.com/2026/05/20/07/2276592593..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 Federal law enforcement officials warned parents that their teenage son was making concerning comments about school shootings on the dark web just days before he carried out a mass shooting at a San Diego mosque, according to new details included in a recently filed lawsuit.

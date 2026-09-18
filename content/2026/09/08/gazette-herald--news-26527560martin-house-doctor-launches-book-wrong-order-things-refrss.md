@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Dr Michelle Hills, chief medical officer at Martin House Children's Hospice,
   has written The Wrong Order of Things.
 image: https://www.gazetteherald.co.uk/resources/images/21419061.jpg?type=og-image&xType=0&yType=1088
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: Martin House Children's Hospice)*

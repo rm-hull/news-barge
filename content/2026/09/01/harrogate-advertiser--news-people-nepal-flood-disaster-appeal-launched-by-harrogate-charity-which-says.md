@@ -10,6 +10,10 @@ description: A Harrogate charity with close ties to Nepal has already raised mor
   than £10,000 for the country after the devastating floods which have cost so many
   lives.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxMWNiNmFkLWRjNmUtNDI5NS04N2MxLTFiMWQ4YjY2YjAyNjo2YWRmOGNhYi0yNGY3LTQzNzQtYmRmMy03MGFiZDg1M2RiOTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Nepal flood disaster appeal launched by Harrogate charity which says country is ‘close to its heart’

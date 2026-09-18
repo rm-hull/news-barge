@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: American TikTok star Kalani Ghost Hunter, who has 3.4m followers, praised
   Newcastle on JaackMaate's podcast, saying the city reminds him of…
 image: https://www.thenorthernecho.co.uk/resources/images/21298445.jpg?type=og-image&xType=0&yType=250
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 An American TikTok star with millions of followers has spoken of his affection for the North East after travelling across Britain.

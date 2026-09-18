@@ -10,6 +10,10 @@ description: The story of the U.S. is intertwined with its military history, fro
   its creation in 1776 to the expansion of its physical borders to its role in the
   global political and economic order
 image: https://static.independent.co.uk/2026/09/02/05/America_25__Military_The_Disconnect_46_12.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The soldiers. The sailors. The battles. The conflicts.

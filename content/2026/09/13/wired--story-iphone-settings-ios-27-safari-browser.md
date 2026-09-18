@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Apple’s Safari browser gets a few helpful automation and personalization
   features in iOS 27.
 image: https://media.wired.com/photos/6aa44ab510c4340f2d52e7b4/191:100/w_1280,c_limit/iPhone-Settings-Safari-ios27-2213391517.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 At Apple’s recent hardware event, the software powering its foldable iPhone Duo stood out, with translucent Liquid Glass effects and vertically stacked icons. But you don’t need to snatch a folding smartphone to reap the benefits of Apple’s iOS 27 updates.

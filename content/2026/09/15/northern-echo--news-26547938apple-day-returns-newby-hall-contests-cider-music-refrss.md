@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An attraction is set to bring its season to a close with a day of apple-themed
   entertainment, competitions and family activities expected to draw…
 image: https://www.thenorthernecho.co.uk/resources/images/21452249.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Helen Tabor)*

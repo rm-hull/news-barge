@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Charlotte Iveson from Bishop Auckland ran the Great North Run in memory
   of her husband David Iveson, raising funds and awareness for Sarcoma UK as…
 image: https://www.thenorthernecho.co.uk/resources/images/21470152.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

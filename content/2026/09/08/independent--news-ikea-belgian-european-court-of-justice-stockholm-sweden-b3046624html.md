@@ -10,6 +10,10 @@ description: Europe’s top court has ruled that a far-right Belgian party likel
   IKEA’s trademarks in an anti-immigration campaign, potentially harming the company’s
   reputation
 image: https://static.independent.co.uk/2026/09/08/14/EU_Belgium_Ikea_58665.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A far-right Belgian party was not entitled to use IKEA’s trademarks to promote an anti-immigration campaign and may have caused “significant detriment” to the furniture giant’s reputation, the European Union's highest court ruled on Tuesday.

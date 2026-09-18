@@ -9,6 +9,11 @@ description: North Yorkshire Council's housebuilding company is forecast to make
   further £5.8m loss this year, with its financial problems wiping out profits generated
   elsewhere in the authority’s Brierley Group.
 image: https://mmo.aiircdn.com/409/68c1768dc9e73.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/68c1768dc9e73.jpg) 

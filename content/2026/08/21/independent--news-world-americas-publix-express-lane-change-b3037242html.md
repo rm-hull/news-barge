@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Supermarket chain operates more than 1,400 stores across eight southeastern
   states
 image: https://static.independent.co.uk/2021/09/06/18/newFile-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Publix is changing its 10-items-or-less express lane policy as the supermarket chain seeks to reduce checkout wait times.

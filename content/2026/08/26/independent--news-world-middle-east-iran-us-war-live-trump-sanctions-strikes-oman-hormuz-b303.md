@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Three-minute video claims Barron Trump is being monitored and that there’s
   a $10m bounty for his killing
 image: https://static.independent.co.uk/2026/08/26/06/2026-08-25T110408Z_709592613_RC2J5NAXPBT8_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The US secret service says it is aware of an Iranian state television video discussing an alleged plot to assassinate Donald Trump’s youngest son, Barron Trump, 20.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Kiwi the Capybara is among animals getting their annual health check
   while data is gathered and shared.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1cc/live/1349e570-9fab-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 ![A furry brown capybara named Kiwi chomps on a leaf as she is weighed by a ZSL employee in a green polo and black shirt.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/321f/live/55ea1130-9f96-11f1-a291-b542ee92de7c.jpg)

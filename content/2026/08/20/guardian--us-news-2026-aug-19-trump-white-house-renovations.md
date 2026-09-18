@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Former real estate developer leads press corps on tour of grounds and
   says ‘one thing I know how to do is build’
 image: https://i.guim.co.uk/img/media/3ef237f56dc1970de92b1654771262764b3bb866/408_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d08a84f070a541db034fe735179b230
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 As the US national debt climbed past $40tn for the first time on Wednesday, and the war with Iran he started nearly six months ago dragged on, forcing Americans already struggling to pay the bills to spend more on fuel, Donald Trump led the press corps on a tour of the extensive remodeling of the White House grounds he is personally overseeing in his role as the self-styled “builder-in-chief”.

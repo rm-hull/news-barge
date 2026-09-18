@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: New rules introduced on Tuesday mean establishments will be able to accept
   digital ID apps alongside physical documents.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A pair of beer-filled glasses being knocked together in a bar setting.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Bronwen James, 30, admitted offences against two girls at schools in
   Wiltshire and Hampshire, and found guilty of charges involving boy
 image: https://i.guim.co.uk/img/media/80e615b5be24f00bfcfcc96ae7d7c02bc0480779/0_96_1436_1148/master/1436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ec1751fd4ea20275f30a383f99bf20c
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A former PE teacher is facing a lengthy jail sentence for grooming and sexually abusing three pupils at two schools.

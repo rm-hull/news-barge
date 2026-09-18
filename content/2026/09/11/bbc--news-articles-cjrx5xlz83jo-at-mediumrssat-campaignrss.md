@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The makers of Grand Theft Auto deny staff were sacked for union organising
   and were instead dismissed for sharing confidential information online.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed64/live/10265130-adf7-11f1-ad53-0d91a06f3150.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Dayne Oram looking straight at the camera. Oram is wearing a white t-shirt over a white shirt and has a ginger beard and long ginger hair swept back. Oram has black framed glasses.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ed64/live/10265130-adf7-11f1-ad53-0d91a06f3150.jpg)

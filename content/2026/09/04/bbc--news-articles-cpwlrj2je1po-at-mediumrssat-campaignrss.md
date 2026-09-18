@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The mistrial now puts the murder case - and Clancy's future - in limbo
   as to whether she will be held criminally liable in the deaths of her three kids.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

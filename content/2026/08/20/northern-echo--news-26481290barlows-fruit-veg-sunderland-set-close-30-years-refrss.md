@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A family-run Sunderland fruit and vegetable shop is set to close its
   doors for the final time after more than three decades serving the community.
 image: https://www.thenorthernecho.co.uk/resources/images/21348632.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -9,6 +9,11 @@ description: Pope Leo XIV has praised San Marino as a model of political freedom
   service to the common good, using a visit to the tiny republic to warn against political
   and economic systems that place power above human dignity
 image: https://static.independent.co.uk/2026/08/22/10/San_Marino_Pope_98_16.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Pope Leo XIV on Saturday hailed the tiny Republic of San Marino as a model of political freedom and civic responsibility, praising its centuries-old republican traditions while warning against political and economic systems that place power above the human person.

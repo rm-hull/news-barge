@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: STRICTLY Come Dancing star Johannes Radebe is bringing his latest stage
   show to Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Newsquest)*

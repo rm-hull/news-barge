@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:53:42Z'
 published: '2026-09-10T00:00:00Z'
 description: Lenovo wants Eva Longoria to help solve all your business woes
 image: https://cdn.mos.cms.futurecdn.net/yNcWZ2ykHVetwjTWbE4o7c-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Eva Longoria for Lenovo's "call eva" SMB program](https://cdn.mos.cms.futurecdn.net/yNcWZ2ykHVetwjTWbE4o7c.jpg) 

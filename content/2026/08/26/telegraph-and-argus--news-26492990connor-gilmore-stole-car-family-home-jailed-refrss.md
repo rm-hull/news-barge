@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A burglar who stole a car after he “fell in with the wrong crowd” has
   been locked up for two years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368031.jpg?type=og-image&xType=0&yType=507
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:55Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Going-steady-with-Buddy-the-Snowman-at-Yorkshires-Winter-Wonderland.webp
+categories:
+- Local
+- York
+- Travel
+- Lifestyle & Fashion
 ---
 
 One of York’s favourite festive events has announced its return.

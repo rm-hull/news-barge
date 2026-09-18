@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Met Office has warned that an "unprecedented" El Nino could bring
   wetter and stormier conditions to the UK this autumn and winter.
 image: https://www.yorkpress.co.uk/resources/images/21352621.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Getty)*

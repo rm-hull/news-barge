@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Langley Park in County Durham played a key role in Sir Bobby Robson's
   childhood and early football career before he became an England and…
 image: https://www.thenorthernecho.co.uk/resources/images/3167937.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Few figures are as closely associated with North East football as Sir Bobby Robson, but before he managed England, Newcastle United and Barcelona, he spent much of his childhood in a County Durham pit village.

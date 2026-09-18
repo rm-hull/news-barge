@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: ‘Let’s remind everybody, this guy is 80 years old,’ the Fox News host
   said. ‘He just gives this barn-buster speech’
 image: https://static.independent.co.uk/2026/09/10/13/34/Screenshot-2026-09-10-at-9-48-35-AM.png?trim=211,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fox News anchor Bret Baier praised President Donald Trump’s speech at the Republican midterm convention on Wednesday — just days after the two played golf together.

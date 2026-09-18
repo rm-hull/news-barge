@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: France is co-hosting a major space summit with Germany this week, as
   Europe finds itself at a strategic crossroads.
 image: https://images.euronews.com/articles/stories/09/90/68/83/1200x675_cmsv2_1bf6f0a2-de06-5cd8-968e-5d2514bc26bc-9906883.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## France is co-hosting a major space summit with Germany this week, as Europe finds itself at a strategic crossroads.

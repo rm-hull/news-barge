@@ -9,6 +9,10 @@ description: The rapper, who was dismissed from the tour after stadium owners ob
   to his on-stage speech in support of Palestine, challenged Robert Kraft to do the
   same.
 image: https://i.guim.co.uk/img/media/c774c5f2d2cb2399ee186608f9d5144211b26850/973_942_3820_3056/master/3820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02f6cd607934a8631c78ea36522fc146
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Macklemore has announced that he will donate the $1m salary he was paid as an opening act for Ed Sheeran’s Loop tour to organizations working with Palestinian people and relief in Gaza, after being dropped from the tour following backlash to his onstage comments in support of Palestine.

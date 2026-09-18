@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Brancepeth, near Durham City, was previously named among the UK's poshest
   places to live thanks to its castle, historic homes and rural setting.
 image: https://www.thenorthernecho.co.uk/resources/images/21392569.jpg?type=og-image&xType=0&yType=364
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 *(Image: JULIE HAZEL/CAMERA CLUB)*

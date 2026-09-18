@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The crossing set a record for the largest number of migrants to reach
   the UK on a single boat
 image: https://static.independent.co.uk/2026/09/18/13/2026-09-18T123652Z_1590386453_RC2E6NAKDO6Y_RTRMADP_3_MIGRATION-EUROPE-BRITAIN-COURT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A teenager who piloted a boat with a then-record 165 migrants across the English Channel has been jailed for two years and three months.

@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Caleb Klaces from York has been awarded the Hawthornden Prize for Literature
   for his second novel, Mr Outside.
 image: https://www.gazetteherald.co.uk/resources/images/21421985.jpg?type=og-image&xType=0&yType=306
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
 ---
 
 *(Image: Supplied)*

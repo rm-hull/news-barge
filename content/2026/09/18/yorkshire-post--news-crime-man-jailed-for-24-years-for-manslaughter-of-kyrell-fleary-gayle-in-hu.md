@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A criminal who fatally stabbed a man in Huddersfield has been jailed
   for more than 20 years.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI5YzI5OTc3LWIwNzYtNGNkOS04NTQ1LWE1OTI3M2ExM2JlYzozYjBiNmJlNC03YTEwLTQ0ZGQtYWU4ZC03ZDYyNTIzMWM1NTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man jailed for 24 years for manslaughter of Kyrell Fleary-Gayle in Huddersfield

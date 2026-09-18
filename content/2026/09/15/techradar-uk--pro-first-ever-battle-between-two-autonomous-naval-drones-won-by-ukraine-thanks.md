@@ -8,6 +8,8 @@ scraped_at: '2026-09-15T19:41:49Z'
 published: '2026-09-15T00:00:00Z'
 description: Sink or win
 image: https://cdn.mos.cms.futurecdn.net/tjGhVgpSTxatNP7EfQqAEb-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Sargan-3000 with RWS machine gun turrent mounting](https://cdn.mos.cms.futurecdn.net/tjGhVgpSTxatNP7EfQqAEb.jpg) 

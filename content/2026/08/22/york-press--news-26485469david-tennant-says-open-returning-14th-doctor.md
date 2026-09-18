@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: David Tennant has not yet returned in audio form as the 14th Doctor,
   despite featuring as the 10th Doctor in new stories.
 image: https://www.yorkpress.co.uk/resources/images/17459258.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: BBC Studios)*

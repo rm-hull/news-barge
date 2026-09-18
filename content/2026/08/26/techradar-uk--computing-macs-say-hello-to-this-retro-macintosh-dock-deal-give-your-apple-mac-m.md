@@ -8,6 +8,8 @@ published: '2026-08-26T00:00:00Z'
 description: We couldn't love the Apple Mac mini more, but this clever vintage-style
   dock adds a 5-inch display, NVMe enclosure, and plenty of extra connectivity.
 image: https://cdn.mos.cms.futurecdn.net/xu7oufXqata4cXnjQbHiXS-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Wokyis Retro Dock Station for Mac mini](https://cdn.mos.cms.futurecdn.net/xu7oufXqata4cXnjQbHiXS.jpg) 

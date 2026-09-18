@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: It’s the small Sheffield gallery that has long punched well above its
   weight when it comes to artistic talent.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYxOTI5YTgzLTU0YmEtNGNmYS04Nzk1LWI3MTYzZGM2NzZkYzoxN2E5OTJlYi1hNGM4LTQyN2UtOTMxNy03ZTg3NDg5MGFhNTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Cupola Gallery: The Yorkshire gallery punching above its weight for 35 years

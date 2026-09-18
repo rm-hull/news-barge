@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping
   benchmarks and leaderboards, and its weights are set to be released soon.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024
+categories:
+- Technology & Software
+- Science
 ---
 
 Over the weekend, the nerds were buzzing with speculation over which AI lab was behind Ox Alpha, the mysterious new open-weight AI model launched onto OpenRouter anonymously and already topping benchmarks and leaderboards against the best models.

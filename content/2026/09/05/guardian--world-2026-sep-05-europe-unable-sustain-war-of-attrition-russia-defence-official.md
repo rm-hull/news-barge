@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Security experts fear Putin may be winning hybrid war with the west amid
   rise of pro-Kremlin, far-right parties
 image: https://i.guim.co.uk/img/media/94a35d9501122320820ef52ab6c8435e33744e8c/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c68d992cc4e177e75f9b8615b2225b85
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week.

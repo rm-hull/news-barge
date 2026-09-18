@@ -9,6 +9,11 @@ description: Prime Minister Andy Burnham took time out to speak at length to thi
   newspaper this morning, on a broad range of issues, though his focus was on his
   latest instruction to ministers to put an end to the illegal dumping of waste.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhjM2UxMTg4LWQwYjMtNGVhMi05OWQ0LWQwZWY4M2FkMzE5ZDo4ZDBmNWUyZS1kYTBmLTQ5NjMtOTJjOS04NzRmMGE3NjVhZjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Criminal waste gangs: Prime Minister Andy Burnham locks dumping crooks in his crosshairs

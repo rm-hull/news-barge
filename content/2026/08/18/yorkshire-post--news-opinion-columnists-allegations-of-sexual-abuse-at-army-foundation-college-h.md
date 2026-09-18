@@ -11,6 +11,12 @@ description: As a lawyer who has spent most of his career representing survivors
   abuse and sexual harassment at the Army Foundation College Harrogate (AFC), reported
   widely by the BBC recently.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFjNjM5OGEyLWRkODMtNGQ2MC1hNWEyLTVkODhmNTc4YjNhMDpjNDIxYWQxMy1hMjkyLTQ2ZGUtOGUwMS04MTExOTQyNmFiN2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Allegations of sexual abuse at Army Foundation College Harrogate show the need for a culture change - Ahmed Al-Nahhas

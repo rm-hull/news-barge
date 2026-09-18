@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: DIY system will be stocked by big retailers, starting with Argos, enabling
   more homes to lower bills by generating own electricity
 image: https://i.guim.co.uk/img/media/a3c7aa28a0d3eb66717231c4b2fce69f8f8f691c/1768_0_6134_4910/master/6134.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e2529c24e9b214838036ac21aea75f6
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Plug-in solar panels will go on sale in the UK for the first time from Thursday, allowing households unable to use rooftop panels to also generate their own cheap electricity.

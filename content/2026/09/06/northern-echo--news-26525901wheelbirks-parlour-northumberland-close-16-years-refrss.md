@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Wheelbirks Parlour, in Northumberland, is set to close after 16 years
   of welcoming visitors.
 image: https://www.thenorthernecho.co.uk/resources/images/21415272.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Wheelbirks Parlour)*

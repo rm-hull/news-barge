@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:26Z'
 published: '2026-08-27T00:00:00Z'
 description: In-house AI-based counsel and financing advice in play?
 image: https://cdn.mos.cms.futurecdn.net/be83179733a5f75b64a917e1fa430080-887-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Google](https://cdn.mos.cms.futurecdn.net/be83179733a5f75b64a917e1fa430080.jpg) 

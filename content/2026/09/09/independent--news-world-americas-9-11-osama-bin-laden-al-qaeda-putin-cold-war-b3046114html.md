@@ -9,6 +9,11 @@ description: The horror of the attacks 25 years ago and their aftermath has seen
   Cold War replaced by endless conflict between competing cultures and religions,
   explains world affairs editor Sam Kiley
 image: https://static.independent.co.uk/2021/09/07/14/09444725.jpg?trim=543,0,543,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 It’s unlikely that Osama bin Laden picked up the idea of a clash of civilizations from a Harvard professor’s essay in a 1993 edition of *Foreign Affairs*, but when Al Qaeda terrorists slammed two aircraft into New York’s Twin Towers and attacked the Pentagon eight minutes later - that’s what he got.

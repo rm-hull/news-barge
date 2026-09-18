@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Penny Garth Cafe in Hawes has become a popular stop for Yorkshire Dales
   bikers, with visitors praising its breakfasts, homemade food and friendly…
 image: https://www.thenorthernecho.co.uk/resources/images/21392046.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

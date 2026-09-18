@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: A home appliance expert's guide to the cheap accessories that'll take
   your air fryer gastronomy to another level.
 image: https://cdn.mos.cms.futurecdn.net/JgYmzLxfuf6dTmSS7BKEWG-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Selection of air fryer accessories on a background of torn paper](https://cdn.mos.cms.futurecdn.net/JgYmzLxfuf6dTmSS7BKEWG.jpg) 

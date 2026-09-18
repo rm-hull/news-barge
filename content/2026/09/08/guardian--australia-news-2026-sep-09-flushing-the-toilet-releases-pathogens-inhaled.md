@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: New research shows turbulent flushes create toilet-generated aerosols
   that can transmit legionella, influenza and norovirus
 image: https://i.guim.co.uk/img/media/c07077c66e22637cb89a10c1112622622a8d04cd/591_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61e03cc1ca19fae986c4f5b6a454024b
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Flushing toilets release particles into the “breathing zone” of adults and can remain suspended in the air for at least 20 seconds, a new study has found.

@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Migration minister asked how he intends to stop deportations of people
   ‘who had lived in Sweden for decades’
 image: https://i.guim.co.uk/img/media/c3af4373bad2383888ee39dd1705321ce262d9e5/96_0_4354_3484/master/4354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b44c9d4e2a8af35b602b77a84262a1b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations with the UK amid efforts to improve links with London, a Swedish MP has said.

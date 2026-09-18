@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Hong Kong's leader has unveiled a five-year plan to broaden the city's
   identity beyond finance
 image: https://static.independent.co.uk/2026/09/16/08/Hong_Kong_Policy_Address_57573.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Hong Kong Chief Executive John Lee on Wednesday unveiled the city's first five-year plan in a politically symbolic step that echoes Beijing's approach to development, pushing to broaden Hong Kong's identity beyond international finance to also encompass technology and higher education.

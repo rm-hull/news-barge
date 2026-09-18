@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Made in Europe scheme is designed to protect the continent’s manufacturing
   from global competition like China
 image: https://static.independent.co.uk/2026/09/18/09/2214092878..?trim=260,31,59,449&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Chancellor John Healey will urge EU finance ministers not to exclude the UK from measures protecting European industry against unfair competition when he meets counterparts in Dublin on Friday.

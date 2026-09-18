@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: THERE can’t be many live events where strangers become friends before
   the first song has finished. Or where the dancefloor is full by…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347939.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 THERE can’t be many live events where strangers become friends before the first song has finished. Or where the dancefloor is full by mid-afternoon, with a multi-generational vibe, and everyone is home in time for the evening.

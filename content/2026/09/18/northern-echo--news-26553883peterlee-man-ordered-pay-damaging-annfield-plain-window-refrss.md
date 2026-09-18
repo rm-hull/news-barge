@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Alan Metcalfe, 27, formerly of Paradise Lane, Peterlee, was ordered to
   pay compensation and costs after admitting criminal damage to a double-glazed…
 image: https://www.thenorthernecho.co.uk/resources/images/19733238.jpg?type=og-image&yType=592
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: The Northern Echo)*

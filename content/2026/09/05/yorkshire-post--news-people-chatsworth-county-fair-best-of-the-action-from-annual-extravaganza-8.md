@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T15:06:20Z'
 published: '2026-09-05T00:00:00Z'
 description: Chatsworth Country Fair is one of the most popular events of the year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg5ZjNhMGIwLWYxNjQtNDk2My1hMTIzLWVhYzNmYmY0NzhmZTpmMzY5ZTRhNi1iMzM1LTQ5NGQtOTY5ZC01ZGZhMGFkOGY5YWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 Held at Chatsworth in Derbyshire, the event has entertainment, inspirational cookery masterclasses, food, shopping and plenty of have-a-go activities.

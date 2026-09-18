@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A HIGH-ENERGY dance show featuring four stars from Strictly Come Dancing
   is heading to Bradford next summer
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Newsquest)*

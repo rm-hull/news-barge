@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Motorists are being reminded of a series of closures scheduled for a
   major road into York.
 image: https://www.yorkpress.co.uk/resources/images/21389121.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Three-mile stretch of major road into York set for two weeks of closures

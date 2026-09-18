@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Leading second-wave feminist co-founded Women’s Media Center with Jane
   Fonda and Gloria Steinem
 image: https://i.guim.co.uk/img/media/43991a5628b70be3e66de22528cda3a95c1d125b/2592_135_2855_2284/master/2855.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c964c86a5dd41a6b586b4c5836bcf66a
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 Robin Morgan, a child star of the 1940s and 50s who grew up to become an all-American radical as a poet, essayist, editor and second-wave feminist, has died. She was 85.

@@ -9,6 +9,13 @@ published: '2026-08-21T00:00:00Z'
 description: Dennis Smith, who was from Dormanstown and lived in Eston, was just a
   teenager when he took part in the Normandy landings on D-Day.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5MmVlZDViLWE1ZWYtNGZjMy1iMjY4LTNkYjMzMjYxNjBkMjpmNGZlYWE1Ny01ZjUyLTRjODAtYmYzZC0xMTk3YWI4OTZjNWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
+- Society & Culture
 ---
 
 # Last Post send off as funeral for 100 year-old Second World War veteran is held

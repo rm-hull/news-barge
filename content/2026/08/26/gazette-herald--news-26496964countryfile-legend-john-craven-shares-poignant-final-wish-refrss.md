@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: BBC Countryfile legend John Craven has shared a "poignant final wish"
   according to a new report as he shares his love of Whitby and…
 image: https://www.gazetteherald.co.uk/resources/images/21012662.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Jon Lewis)*

@@ -9,6 +9,11 @@ scraped_at: '2026-08-23T20:36:26Z'
 published: '2026-08-23T00:00:00Z'
 description: You can actually buy up to ten of them at once.
 image: https://cdn.mos.cms.futurecdn.net/wcb9tJ6dZa9eMEetcMLWJN-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/wcb9tJ6dZa9eMEetcMLWJN.jpg) 

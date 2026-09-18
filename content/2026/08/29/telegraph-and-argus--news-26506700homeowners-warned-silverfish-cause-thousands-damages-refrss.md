@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: It's peak season for silverfish and they love moisture and will feed
   on household items like fabric, books, wallpaper and more, causing…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381249.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty)*

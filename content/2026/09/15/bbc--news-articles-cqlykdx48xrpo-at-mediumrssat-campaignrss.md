@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: He becomes the first person to win two lead acting prizes in one night
   at the prestigious TV ceremony.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Matthew Rhys, winner of the Outstanding Lead Actor in a Comedy Series Award for "Widow's Bay" and the Outstanding Lead Actor in a Limited or Anthology Series or Movie Award for "The Beast in Me" poses in the press room during the 78th Primetime Emmy Awards at Peacock Theater on September 14, 2026 in Los Angeles, California](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Beverley Westwood is set to host a variety of cycling-based activities
   for families as part of the 2026 Lloyds Tour of Britain.
 image: https://www.gazetteherald.co.uk/resources/images/21369101.jpg?type=og-image&xType=0&yType=41
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Zac Williams/SWpix.com)*

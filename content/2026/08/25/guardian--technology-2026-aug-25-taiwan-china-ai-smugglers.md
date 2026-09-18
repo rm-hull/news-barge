@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Among those charged are two Super Micro employees and one from Nvidia,
   marking another flashpoint in US-China AI rivalry
 image: https://i.guim.co.uk/img/media/0fbe91525cf1b46d937c6aa22ad80106e8a4af29/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=344590bc58be169e0b2d702d72a316be
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Taiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI rivalry between China and the United States.

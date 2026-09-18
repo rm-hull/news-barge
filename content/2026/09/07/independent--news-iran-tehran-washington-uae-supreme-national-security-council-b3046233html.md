@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Iran state media says a ballistic missile with improved capabilities
   demonstrates Tehran's shifting stance toward taking preemptive action against threats
 image: https://static.independent.co.uk/2026/09/07/22/APTOPIX_Iran_War_Strait_of_Hormuz_29749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat, even before it is carried out.”

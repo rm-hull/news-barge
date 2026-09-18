@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Car 79, the oldest Pullman dining coach at the North Yorkshire Moors
   Railway (NYMR), was built in 1928 and is now back on the rails.
 image: https://www.thenorthernecho.co.uk/resources/images/21401412.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A historic dining carriage has returned to service after a decade-long restoration project.

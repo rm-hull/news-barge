@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: King Charles has written to the families of the two brave police officers
   who were killed in the A66 horror crash in Middlesbrough last weekend, reports suggest.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY0YTA4ZDQ5LWViMTgtNDQ5OC1iY2FhLTkzNzMwMTAxYWUxNzoyMjdhN2ZlOS1kN2EyLTRlNTktYmYxMy03Yzc1NTI5YmUwNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # King writes to families of brave police officers killed in A66 crash

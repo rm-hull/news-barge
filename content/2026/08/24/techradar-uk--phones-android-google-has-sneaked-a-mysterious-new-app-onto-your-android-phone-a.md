@@ -9,6 +9,8 @@ published: '2026-08-24T00:00:00Z'
 description: Android Pulse is a new app that might already be on your phone, and while
   you can't interact with it, it's likely doing some good.
 image: https://cdn.mos.cms.futurecdn.net/kETbkoMDQW6w45SQSqZfHN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel 11 Hands On](https://cdn.mos.cms.futurecdn.net/kETbkoMDQW6w45SQSqZfHN.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:58Z'
 published: '2026-08-28T00:00:00Z'
 description: The 150-metre-long trail of waste took more than five months to remove
 image: https://static.independent.co.uk/2026/08/27/22/01M120RS0SSG236Q6TMDSB4H6S.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A major five-month project to remove an illegal waste dump near the River Cherwell in Oxfordshire has been completed – landing taxpayers with a £6 million bill.

@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Drivers faced delays on the motorway this morning after traffic slowed
   significantly.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21423264.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Motorway Cameras)*

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Photo revealed first floor of the new ballroom nearing completion, with
   walls going up on second floor
 image: https://static.independent.co.uk/2026/08/22/16/06/16a724c8d949a6d1.jpg?trim=48,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 President Donald Trump gloated over the rapid progress being made on the White House ballroom, less than a day after the Supreme Court said that he could continue building the vast structure - for now.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Air bases used by US in UAE and Kuwait hit as Israeli defence chief says
   Iran’s regime fears collapse due to economic pressures
 image: https://i.guim.co.uk/img/media/8f4a45f95df2ef9ba347abaecb8da3d529f1bb83/384_0_3848_3079/master/3848.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4b2a290a84f4d94c2a7f574c57f51ad
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump administration as an “economic D-day”.

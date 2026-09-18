@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Rivals season 2 part 2 is officially returning to Hulu and Disney+ this
   November — and the first-look photos have left me yearning for one inevitable storyline.
 image: https://cdn.mos.cms.futurecdn.net/8KThriBpbcj2H6NQUtSjUW-1920-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Rupert Campbell Black rides a horse while holding a polo mallet](https://cdn.mos.cms.futurecdn.net/8KThriBpbcj2H6NQUtSjUW.jpg) 

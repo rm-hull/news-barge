@@ -9,6 +9,10 @@ description: Video. Thousands gathered in Oslo as Norway held a funeral for King
   V, with European royals and world leaders joining the final farewell to the long-serving
   monarch.
 image: https://images.euronews.com/articles/stories/09/90/72/04/1200x675_cmsv2_39425d3d-0b00-52ae-95b2-dda5539c6479-9907204.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 King Harald V's coffin leaves the Royal Palace in Oslo on Wednesday, 9 September, as a funeral procession makes its way to Oslo Cathedral. King Haakon VIII walks behind the coffin and salutes the troops, followed by senior members of the royal family.

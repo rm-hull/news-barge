@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The winning video features tiny hair-like structures, called cilia, in
   the airways of a child with a rare genetic disease.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dca/live/8e772c30-b301-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 # See tiny organisms on show in microscopic video competition

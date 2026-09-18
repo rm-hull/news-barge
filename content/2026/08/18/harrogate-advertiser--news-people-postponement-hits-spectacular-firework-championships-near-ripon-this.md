@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Fears over ‘tinderbox Britain’ after a summer of intense heat have led
   to the postponement of a spectacular Firework Championships at Newby Hall this weekend.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNkNTg1MmZlLTI0MDMtNDRhZi04MjBkLTcxYjg1YmM2ZjQxZjowZjFkOGE3Ni1iYzFlLTQ2OTQtOTYzMi1lNmUzNzU4OWU0N2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Postponement hits spectacular Firework Championships near Ripon this weekend amid threat of wildfires

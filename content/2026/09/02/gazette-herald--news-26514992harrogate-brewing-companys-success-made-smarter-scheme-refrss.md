@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A family-run brewery has more than doubled in size after embracing digital
   technology.
 image: https://www.gazetteherald.co.uk/resources/images/21400623.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

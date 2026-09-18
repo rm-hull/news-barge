@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Thousands of visitors are expected in Scarborough next weekend as the
   popular Goldwing Light Parade returns to the town.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Gold1.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Travel
 ---
 
 ![Goldwing motorcycles will be on display on Scarborough Pier on September 12 prior to the annual parade of machines in the resort which raises money for the Yorkshire Air Ambulance.](https://www.northyorks.gov.uk/sites/default/files/2026-09/Gold1.jpg) 

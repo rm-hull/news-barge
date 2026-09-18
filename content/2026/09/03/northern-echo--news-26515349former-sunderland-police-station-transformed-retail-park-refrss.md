@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:11Z'
 published: '2026-09-03T00:00:00Z'
 description: A FORMER police station has been transformed into a bustling retail park.
 image: https://www.thenorthernecho.co.uk/resources/images/21401067.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

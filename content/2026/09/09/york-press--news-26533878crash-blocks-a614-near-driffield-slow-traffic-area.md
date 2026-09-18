@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The AA Traffic News is reporting that the A614 southbound near Driffield
   is blocked after the incident which is said to have happened before 7am,…
 image: https://www.yorkpress.co.uk/resources/images/19468610.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

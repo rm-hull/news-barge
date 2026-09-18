@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Critics had criticized administration for nominating Schroyer, who has
   no formal experience working in ICE
 image: https://i.guim.co.uk/img/media/ddcb8497736428a9759d6c7561509aab5a035bde/0_50_1334_1067/master/1334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1aac279a4c7d862102d5605bd8d23892
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 The White House has withdrawn the nomination of Lance Schroyer, a former Oklahoma state trooper, to head Immigration and Customs Enforcement, less than three months after announcing his role.

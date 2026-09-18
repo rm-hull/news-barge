@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Marie Ebert, Alexander Cromie and their pilot died when their aircraft
   crashed on island of Sifnos
 image: https://i.guim.co.uk/img/media/72a4b460e5e4d7932dabda79cb27226726aa5d09/0_0_4869_3897/master/4869.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab08563d2fa5a263ca9400500eb107ca
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot.

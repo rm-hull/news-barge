@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A student who dragged a man from the River Wear in Durham City after
   hearing a 'commotion' has described the moment he dived into the…
 image: https://www.thenorthernecho.co.uk/resources/images/21356863.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A humble student who dived into the River Wear and dragged a man to safety has insisted he's no hero and acted as anyone else would have done.

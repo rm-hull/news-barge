@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: More than 1,000 babies have taken part in a pioneering genetic research
   study at The James Cook University Hospital in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21437980.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 More than 1,000 babies have taken part in a pioneering genetic research study in Middlesbrough.

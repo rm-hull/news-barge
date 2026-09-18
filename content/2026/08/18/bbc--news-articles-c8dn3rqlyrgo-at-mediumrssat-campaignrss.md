@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: While hailing Zhu’s legacy, authorities are wary that the nostalgia could
   lead to criticisms of Xi’s rule.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ![Poster of book with former Chinese premier Zhu Rongji on the cover and a blurred image of a man and a TV camera in the foreground](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg)

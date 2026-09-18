@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A Bradford pub has closed its kitchen for good after food service was
   deemed “financially unsustainable.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412800.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

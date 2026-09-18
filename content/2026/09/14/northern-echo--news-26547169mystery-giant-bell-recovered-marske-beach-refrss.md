@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A giant bell recovered from the sea has sparked widespread speculation,
   with theories linking it to a shipwreck, buoy and a stolen cemetery bell.
 image: https://www.thenorthernecho.co.uk/resources/images/21450380.jpg?type=og-image&xType=0&yType=136
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 A giant bell hauled on to an East Cleveland beach has left locals asking where it came from and how it ended up underwater.

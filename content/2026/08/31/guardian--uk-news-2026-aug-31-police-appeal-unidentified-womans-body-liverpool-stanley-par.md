@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Body of victim thought to be in her 70s found in bin bag in walled garden
   area of Stanley Park on Friday
 image: https://i.guim.co.uk/img/media/68d80be887bd90e8a23460a7b830c4cbb603d859/879_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c937a8f1b3bbbc19ae2d58ccf721b404
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Police in Liverpool have urged members of the public to come forward with information after the body of an unknown woman believed to be in her 70s was found in a black bin bag in a popular park.

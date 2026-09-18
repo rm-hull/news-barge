@@ -9,6 +9,12 @@ description: A man who was found dead in prison less than a year after he was co
   of murdering police officer Sharon Beshenivsky died from natural causes, a coroner
   has ruled.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2024/05/10/14/53/MixCollage-10-May-2024-03-07-PM-9747.jpg.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Robber jailed for murder of Sharon Beshenivsky died in prison of natural causes, inquest told

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The scheme allows people to get care for certain common illnesses from
   qualified pharmacists without needing to see a GP first
 image: https://static.independent.co.uk/2026/06/20/15/01KMFA1YZATZ8N4S13WNBRKATW.jpg?trim=0,234,0,234&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Patients suffering from acne, migraines, and further types of ear infection will soon be able to receive treatment directly from qualified pharmacists as the NHS expands its "pharmacy first" scheme.

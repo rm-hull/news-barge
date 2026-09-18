@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Alaska's North Slope tundra may look desolate, but crouch down and you'll
   see a lush jungle
 image: https://static.independent.co.uk/2026/08/25/14/Climate_Arctic_Jungle_7_634.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 With no tall trees reaching to the sky, Alaska's North Slope tundra can look desolate — especially to outsiders from the Lower 48 who are used to in-your-face greenery.

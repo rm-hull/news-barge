@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: In a tragic attempt to reach Europe, dozens of Moroccans died trying
   to cross into Spain
 image: https://static.independent.co.uk/2026/08/18/05/Migration-Ceuta-The_Dead_35556.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 Ayoub Akbili needed money for his mother’s surgery. Hamza Haibouri wanted a shot at a professional soccer career. Abdelouahed Iken was chasing the glossy life a friend posted about on Facebook from Italy.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Former Balfour Beatty boss Ian Tyler has been the interim chairman since
   May and joined the BP board as a non-executive director last year.
 image: https://static.independent.co.uk/2026/02/10/08/09152229-e04999ba-bcbe-4aba-840c-ca94fde38859.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 BP has appointed Ian Tyler as the energy giant’s new chairman, after his predecessor was ousted due to concerns over conduct and governance.

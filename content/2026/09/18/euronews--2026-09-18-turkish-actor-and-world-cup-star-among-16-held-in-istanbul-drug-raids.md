@@ -10,6 +10,10 @@ description: Istanbul police detained Galatasaray veteran Hasan Şaş and Netfli
   fourth such celebrity drug operation since late 2025. Prosecutors said the investigation
   covers use, facilitation and supply of narcotics.
 image: https://images.euronews.com/articles/stories/09/91/86/99/1200x675_cmsv2_51fd9ce1-4c21-5862-98be-81c2f90748f0-9918699.jpg
+categories:
+- Europe
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ## Istanbul police detained Galatasaray veteran Hasan Şaş and Netflix actor Aras Bulut İynemli alongside a rapper, a sports journalist and influencers in the fourth such celebrity drug operation since late 2025. Prosecutors said the investigation covers use, facilitation and supply of narcotics.

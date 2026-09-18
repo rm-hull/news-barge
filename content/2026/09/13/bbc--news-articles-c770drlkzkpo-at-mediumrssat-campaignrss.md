@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: It's the month when many of us embark on a new chapter so here's how
   to start strong and keep the good habits.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdd5/live/a73cf380-aded-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
+- Careers & Productivity
 ---
 
 ![A woman with long brown hair smiling, her head is titled to the side and she is wearing a blue v-neck strapless top, she is standing in front of a woodland area.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/fdd5/live/a73cf380-aded-11f1-9a5c-a7a4083eb832.jpg)

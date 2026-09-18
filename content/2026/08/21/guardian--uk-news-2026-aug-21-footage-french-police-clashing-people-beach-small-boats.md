@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Film emerges as France says it has stopped 185 small boat ‘events’ in
   three months since new £660m deal with UK
 image: https://i.guim.co.uk/img/media/afecf88020efa5f0de21e72877b9aee6630929bd/475_0_4745_3796/master/4745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0e53f643ed17cebf9ec4a49f9a1d094
+categories:
+- UK
+- News & Politics
 ---
 
 Footage has captured the moment French police officers clashed with people on a beach in northern France as the authorities tried to intercept a dinghy attempting to reach the UK.

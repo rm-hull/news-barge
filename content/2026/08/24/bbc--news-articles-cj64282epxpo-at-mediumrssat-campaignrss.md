@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Police said four viable explosive devices were found and removed from
   the property for forensic examination.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3398/live/e2bbb520-9fb7-11f1-b703-13ae65ccf6b5.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![White and yellow security vehicles and a police officer in dark clothing with blonde hair at scene of alert in Gardenville Avenue, Omagh.](https://ichef.bbci.co.uk/ace/standard/878/cpsprodpb/3398/live/e2bbb520-9fb7-11f1-b703-13ae65ccf6b5.jpg)

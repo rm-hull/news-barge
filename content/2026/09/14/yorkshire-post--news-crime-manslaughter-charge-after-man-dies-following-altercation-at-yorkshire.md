@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A 33-year-old man has been charged with manslaughter after a man in his
   50s died following an altercation at a Barnsley pub.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/12/12/11/The-Star-Inn.png?trim=0,56,0,55&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Manslaughter charge after man dies following altercation at Yorkshire pub

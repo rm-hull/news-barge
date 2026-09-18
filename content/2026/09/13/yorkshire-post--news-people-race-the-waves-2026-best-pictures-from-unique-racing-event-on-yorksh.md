@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: One of Yorkshire’s most unique events took place this weekend as a plethora
   of vintage vehicles took to one of the region’s beaches.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUyMGI5MTJlLTRiY2QtNGRjNS1iNjU5LWRmNjM0YzY1YjAwOTphZGU0YThlMi00MDYxLTRkNTktYTUwMC00NDQ0NjBhZDgwYmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Race The Waves 2026 saw classic cars and bikes race the waves along Bridlington's South beach in pairs from a flagged start.

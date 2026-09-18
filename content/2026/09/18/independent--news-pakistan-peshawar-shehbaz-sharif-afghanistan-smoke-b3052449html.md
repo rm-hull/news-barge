@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A powerful bomb has exploded at a mosque near police offices in northwestern
   Pakistan, killing at least 15 people and wounding 56 others
 image: https://static.independent.co.uk/2026/09/18/11/Pakistan_Mosque_Bombing__2166.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A powerful bomb exploded Friday at a mosque near a building housing police offices in northwestern Pakistan, killing at least 15 people and wounding 56 others, police and rescue officials said. The attack came as violence has surged in the region with security forces targeting militants.

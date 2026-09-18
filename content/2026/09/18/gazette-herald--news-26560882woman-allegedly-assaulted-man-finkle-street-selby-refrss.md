@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A woman was taken to hospital after an alleged assault by a man in Finkle
   Street, Selby.
 image: https://www.gazetteherald.co.uk/resources/images/20378495.jpg?type=og-image&xType=0&yType=95
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Newsquest Archive)*

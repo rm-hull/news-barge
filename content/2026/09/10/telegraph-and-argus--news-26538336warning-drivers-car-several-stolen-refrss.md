@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Police have issued a warning to drivers who own a certain model of car
   after several were stolen in recent days.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12163589.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

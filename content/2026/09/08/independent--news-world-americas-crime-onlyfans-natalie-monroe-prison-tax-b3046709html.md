@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Natalie Monroe, real name Kylie Leia Perez, had more than 2.8 million
   followers across various platforms
 image: https://static.the-independent.com/2026/09/08/18/29/Jam_Press_JMP909678.jpg?trim=757,0,1291,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 An OnlyFans star who made millions from her content has been sentenced to a year in prison for filing a false tax return and non-payment of taxes.

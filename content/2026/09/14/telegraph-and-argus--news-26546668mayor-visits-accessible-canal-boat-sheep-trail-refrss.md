@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Knitted sheep and canal boats are bringing together community spirit
   and creativity.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449198.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Submitted)*

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Trumpworld has gone nuclear on the freshman senator from Georgia. That
   was the point, Eric Garcia writes
 image: https://static.independent.co.uk/2026/08/21/19/2179988018..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The past week, President Donald Trump has had to respond to and tamp down stories about Natalie Harp, his super-eager executive assistant who calls herself the “human printer.”

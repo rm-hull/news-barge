@@ -8,6 +8,12 @@ scraped_at: '2026-09-01T19:22:59Z'
 published: '2026-09-01T00:00:00Z'
 description: The Oscar statuette is a piece of American culture
 image: https://static.independent.co.uk/2026/09/01/19/America_25__Objects_Oscar_Statuette_36867.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Film & TV
+- History
 ---
 
 I’d like to thank the Academy for the Oscar.

@@ -10,6 +10,11 @@ description: Concerned councillors have questioned whether North Yorkshire Counc
   loss-making housing company will ever turn its finances around — despite a five-year
   recovery plan being drawn up.
 image: https://mmo.aiircdn.com/409/6aa12318218ed9a82fc.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa12318218ed9a82fc.jpg) 

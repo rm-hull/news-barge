@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: John Herb Hayes III and Geordyn Nichole Hayes have been charged with
   unlawfully placing a child at risk
 image: https://static.the-independent.com/2026/09/02/12/41/Saylor-Hayes.png?trim=34,44,234,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The parents of a missing nonverbal 5-year-old girl have been arrested after her body was found near a South Carolina beach, authorities said.

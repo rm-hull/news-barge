@@ -10,6 +10,10 @@ description: 'EU ambassadors want COP31 to deliver faster clean-energy deploymen
   energy, doubling energy-efficiency improvements and cutting methane and other non-CO2
   emissions by 2030, according to a document seen by Euronews. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/56/46/1200x675_cmsv2_b0f640cf-933b-50a1-916f-4687a81d37a7-9915646.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## EU ambassadors want COP31 to deliver faster clean-energy deployment, a transition away from fossil fuels, greater electrification, tripling renewable energy, doubling energy-efficiency improvements and cutting methane and other non-CO2 emissions by 2030, according to a document seen by Euronews.

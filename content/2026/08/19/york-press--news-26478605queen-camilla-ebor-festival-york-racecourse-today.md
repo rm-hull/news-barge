@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Queen has visited York Racecourse today to meet 'unsung heroes' of
   the racing community.
 image: https://www.yorkpress.co.uk/resources/images/21342415.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## PICTURES - Queen visits York Racecourse to meet community's 'unsung heroes'

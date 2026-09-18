@@ -10,6 +10,10 @@ description: The U.S. Treasury has imposed sanctions on a Turkish financial inst
   as part of its latest effort to sever “critical financial lifelines” for the Iranian
   government
 image: https://static.independent.co.uk/2026/09/02/16/G2__Finance_Ministers_21744.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The U.S. Treasury announced Friday it has imposed sanctions on a Turkish financial institution as part of its latest effort to sever “critical financial lifelines” for the Iranian government.

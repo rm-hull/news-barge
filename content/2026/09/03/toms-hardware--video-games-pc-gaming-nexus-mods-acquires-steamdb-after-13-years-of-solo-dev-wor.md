@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Integration between SteamDB data and Nexus Mods should also help mod
   gamers
 image: https://cdn.mos.cms.futurecdn.net/G2LZD5GiGxVJr8ZM8pFJ8i-1154-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![SteamDB screenshot](https://cdn.mos.cms.futurecdn.net/G2LZD5GiGxVJr8ZM8pFJ8i.png) 

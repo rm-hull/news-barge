@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A greengrocer worker who has spent 34 years at one of Darlington Market’s
   best-known stalls says its closure will be a “huge loss” for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21403915.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A greengrocer who has spent three decades at one of Darlington Market’s best-known stalls says its closure will be a “huge loss” for the town, warning older shoppers will lose a vital place to buy fresh produce.

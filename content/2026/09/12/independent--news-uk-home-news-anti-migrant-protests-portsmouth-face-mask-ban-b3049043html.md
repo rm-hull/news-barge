@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Hampshire Police warned anyone wearing a face covering will be committing
   an offence and faces arrest
 image: https://static.independent.co.uk/2026/09/10/17/369d8d519bdbb038a37c7b7082fce369Y29udGVudHNlYXJjaGFwaSwxNzg5MTQyOTg0-2.85766975.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Anti-migrant protesters are plotting ways to bypass police rules that have banned face coverings at marches in Portsmouth this weekend.

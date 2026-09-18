@@ -9,6 +9,11 @@ description: US President Donald Trump has cast doubt on US support for the UK i
   a potential conflict over the territory, pointing to Britain's lack of backing in
   the Iran war.
 image: https://images.euronews.com/articles/stories/09/90/08/92/1200x675_cmsv2_c5dc8e00-6f1e-5c9c-b589-6a045947264b-9900892.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ## US President Donald Trump has cast doubt on US support for the UK in a potential conflict over the territory, pointing to Britain's lack of backing in the Iran war.

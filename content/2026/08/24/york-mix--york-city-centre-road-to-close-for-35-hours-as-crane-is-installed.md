@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T20:43:16Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/road-ahead-closed-sign-york.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 York drivers have been warned that a key city centre route will be hit by a closure tomorrow (Tuesday).

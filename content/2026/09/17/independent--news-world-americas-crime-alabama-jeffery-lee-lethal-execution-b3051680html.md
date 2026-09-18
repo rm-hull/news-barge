@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Alabama is set to execute a man with a chemical injection, months after
   a judge blocked the state from putting him to death with nitrogen gas
 image: https://static.the-independent.com/2026/09/17/05/Alabama_Execution_86191.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Alabama is scheduled to execute Jeffery Lee by lethal injection Thursday evening, three months after a court blocked plans to put him to death using nitrogen gas. Lee, 49, is scheduled to be executed beginning at 6 p.m. at William C. Holman Correctional Facility in southern Alabama.

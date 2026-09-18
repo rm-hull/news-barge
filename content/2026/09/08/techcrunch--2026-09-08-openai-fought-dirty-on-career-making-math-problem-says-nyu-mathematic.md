@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: There is a $1 million bounty for the first person providing a solution
   to the Navier-Stokes existence and smoothness problem.
 image: https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 NYU mathematics professor Tristan Buckmaster announced three proofs on Tuesday with a preliminary finding on one of the major unsolved problems in theoretical mathematics. The findings, made in collaboration with Anthropic mathematician Levent Alpöge and using both Codex and Claude AI models, are significant in themselves — but they’re also accompanied by an unusual controversy surrounding OpenAI’s attempts to solve the same problem.

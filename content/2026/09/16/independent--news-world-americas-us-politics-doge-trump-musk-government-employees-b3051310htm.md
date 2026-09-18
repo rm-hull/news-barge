@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: ‘Trump spent billions to push out experienced and badly needed experts
   across government,’ a top Democrat said
 image: https://static.independent.co.uk/2026/08/18/23/00/GettyImages-2217852298.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Federal workers were paid $9.5 billion not to work during the DOGE-led drive to shrink the government, according to a congressional watchdog.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T04:29:20Z'
 published: '2026-09-11T00:00:00Z'
 description: ChatGPT can help you think better without telling you what to do
 image: https://cdn.mos.cms.futurecdn.net/CUB5dHBZDJoczb2xqmTYZD-2560-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![Laptop, headache and man in cafe.](https://cdn.mos.cms.futurecdn.net/CUB5dHBZDJoczb2xqmTYZD.jpg) 

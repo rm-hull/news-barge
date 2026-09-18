@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The origin of the drone is currently unknown, but authorities say it
   likely entered Lithuania from neighbouring Belarus, an ally of Russia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A Rafale B standard F4 fighter jet of France's air force flies as part of Nato's Enhanced Air Policing (eAP) mission in the Baltic States, on December 17, 2024 at Siauliai airbase in Lithuania.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg)

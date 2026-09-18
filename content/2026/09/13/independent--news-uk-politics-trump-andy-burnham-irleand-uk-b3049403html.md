@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Trump also reiterated his belief that Burnham intended to approve more
   drilling in the North Sea
 image: https://static.independent.co.uk/2026/09/13/15/117ca64b50df957e9b77de5aec38b56aY29udGVudHNlYXJjaGFwaSwxNzg5Mzk2Mjk0-2.85842166.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump described Andy Burnham as “a very nice guy” but on “on the liberal side”, as he continued his visit to Ireland.

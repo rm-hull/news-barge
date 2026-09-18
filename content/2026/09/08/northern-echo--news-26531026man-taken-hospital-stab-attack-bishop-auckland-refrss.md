@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:35Z'
 published: '2026-09-08T00:00:00Z'
 description: A man was taken to hospital after a 'stab attack' in Bishop Auckland
 image: https://www.thenorthernecho.co.uk/resources/images/21424325.jpg?type=og-image&xType=0&yType=220
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

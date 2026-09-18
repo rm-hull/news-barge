@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Police have launched an urgent appeal after three high-performance cars
   were stolen overnight from a North Yorkshire market town.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/20/16/13/CARS.jpeg?trim=0,127,0,127&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Police appeal after high-performance cars stolen in Stokesley

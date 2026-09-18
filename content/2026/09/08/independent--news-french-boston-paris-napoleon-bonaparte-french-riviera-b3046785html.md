@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Thieves have hit the Renoir Museum on the French Riviera and made off
   with four valuable paintings by the French impressionist master
 image: https://static.independent.co.uk/2026/09/08/14/France_Renoir_Heist_6639_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 Thieves hit the Renoir Museum on the French Riviera and made off with four valuable works by the French impressionist master, though they ditched two in the museum garden as they fled, the mayor of Cagnes-sur-Mer said Tuesday.

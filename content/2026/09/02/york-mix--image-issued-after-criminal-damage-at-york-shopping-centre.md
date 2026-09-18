@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:52Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-damage-to-bus-stop-monks-cross-york-19-aug-2026.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police investigating criminal damage at a York shopping centre want to talk to this man.

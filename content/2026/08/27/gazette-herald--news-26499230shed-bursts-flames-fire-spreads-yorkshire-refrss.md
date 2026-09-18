@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A shed has burst into flames after a fire spread from a hedge and fence
   in Knaresborough.
 image: https://www.gazetteherald.co.uk/resources/images/19699918.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Haydn Lewis)*

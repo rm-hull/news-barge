@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A man who fatally stabbed a 20-year-old in Huddersfield has been jailed
   for 24 years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470466.jpg?type=og-image&xType=0&yType=83
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 A man who fatally stabbed a 20-year-old in West Yorkshire has been jailed for 24 years.

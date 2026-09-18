@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: McDonald’s is teasing its customers with a new post that reveals hints
   to its next move - could it be a new menu or a new promotion to replace…
 image: https://www.yorkpress.co.uk/resources/images/21470934.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Getty)*

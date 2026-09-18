@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: With affordable replacement parts, a five-year warranty, and updates
   through 2033, the Fairphone proves sustainability doesn’t mean major compromise.
 image: https://media.wired.com/photos/6aa09d752aae4c10b2468bbb/191:100/w_1280,c_limit/Fairphone%20(Gen.%206+)%20SOURCE%20Julian%20Chokkattu(2).jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The 6.3-inch AMOLED, 120-Hz screen is more than adequate. It’s colorful, sharp, and bright enough to read in sunlight. Fairphone’s adaptive brightness mode can be a little aggressive, so I often manually adjusted the brightness slider, but I don’t have much else to complain about.

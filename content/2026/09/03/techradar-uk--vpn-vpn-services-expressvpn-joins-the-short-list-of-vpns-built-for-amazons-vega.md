@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: The provider brings a remote-friendly, Lightway-powered app to Amazon's
   Linux-based streaming platform, widening a still-limited field of options
 image: https://cdn.mos.cms.futurecdn.net/BAWDjCWJk8dwJ5PastxcBC-2048-80.png
+categories:
+- Technology & Software
 ---
 
 ![ExpressVPN's VegaOS app](https://cdn.mos.cms.futurecdn.net/BAWDjCWJk8dwJ5PastxcBC.png) 

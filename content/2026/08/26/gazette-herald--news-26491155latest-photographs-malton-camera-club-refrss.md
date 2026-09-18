@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T08:56:35Z'
 published: '2026-08-26T00:00:00Z'
 description: Malton and Norton Camera Club members latest work is highlighted in these
 image: https://www.gazetteherald.co.uk/resources/images/21365181.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Arts & Culture
 ---
 
 Malton and Norton Camera Club members latest work is highlighted in these

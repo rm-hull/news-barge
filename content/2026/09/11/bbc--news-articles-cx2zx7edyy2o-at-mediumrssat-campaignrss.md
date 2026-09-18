@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Last week 13-year-old Ethan became the youngest Ulster Chess champion
   in history across all ages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c48e/live/f1f7fd90-ada0-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 ![Ethan Cole is a boy with dark hair and wearing a blue polo shirt. He is holding a trophy and smiling to the camera with his back to a white wall](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/cb7f/live/cea34bc0-ad3b-11f1-85f8-e90160a10ad0.jpg)

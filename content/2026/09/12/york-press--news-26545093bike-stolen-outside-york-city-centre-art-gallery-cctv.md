@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T15:00:54Z'
 published: '2026-09-12T00:00:00Z'
 description: A bike has been stolen outside an art gallery in York city centre.
 image: https://www.yorkpress.co.uk/resources/images/21445529.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: North Yorkshire Police)*

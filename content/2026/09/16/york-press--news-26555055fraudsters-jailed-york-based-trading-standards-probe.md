@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Fraudsters who targeted vulnerable people across persuaded homeowners
   to pay vastly inflated prices for unnecessary or poor-quality roofing and…
 image: https://www.yorkpress.co.uk/resources/images/21462379.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

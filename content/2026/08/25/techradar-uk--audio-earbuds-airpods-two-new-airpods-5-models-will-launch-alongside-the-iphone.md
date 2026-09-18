@@ -10,6 +10,9 @@ published: '2026-08-25T00:00:00Z'
 description: A new report suggests that two Apple AirPods 5 model are coming, and
   both are expected alongside the new iPhones in September.
 image: https://cdn.mos.cms.futurecdn.net/AUygxygHNL2yDSUJ2pCTiG-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The open cases for AirPods Pro 2 and AirPods 4 held next to each other, showing the tops of the earbuds poking out](https://cdn.mos.cms.futurecdn.net/AUygxygHNL2yDSUJ2pCTiG.jpg) 

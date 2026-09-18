@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Liam Tadeo and his father are being held inside a notorious family detention
   center in rural Texas where Liam Conejo Ramos was held earlier this year
 image: https://static.independent.co.uk/2026/02/18/16/09/Liam-Conejo-Ramos.jpeg?trim=0,192,0,191&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A five-year-old boy was on his way to a soccer game when federal immigration agents detained him and his father, who are now being held in a notorious Texas detention center that local officials and members of Congress are demanding be shut down.

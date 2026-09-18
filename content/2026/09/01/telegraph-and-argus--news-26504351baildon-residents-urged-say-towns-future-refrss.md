@@ -8,6 +8,11 @@ scraped_at: '2026-09-01T13:27:55Z'
 published: '2026-09-01T00:00:00Z'
 description: A DRAFT Neighbourhood Development Plan is now open for public consultation
 image: https://www.thetelegraphandargus.co.uk/resources/images/18103294.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

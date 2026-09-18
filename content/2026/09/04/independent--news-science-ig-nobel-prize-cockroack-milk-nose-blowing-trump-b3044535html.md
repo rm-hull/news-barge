@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Research into evolutionary history of kissing and how soil organisms
   break down buried underwear receive top comic science award as well
 image: https://static.independent.co.uk/2026/09/04/08/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Researchers who studied the milk of cockroaches and the science of blowing one's nose were among the winners of this year's Ig Nobel Prize, the satirical award given for scientific research deemed so unusual as to raise a laugh.

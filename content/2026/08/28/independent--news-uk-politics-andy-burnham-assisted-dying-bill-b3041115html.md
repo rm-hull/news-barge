@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The Terminally Ill Adults (End of Life) Bill, which ran out of time in
   parliament’s last session
 image: https://static.independent.co.uk/2026/08/27/07/2026-08-27T060009Z_1735238501_RC2Z4NA80W5U_RTRMADP_3_BRITAIN-POLITICS-BURNHAM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Prime minister Andy Burnham has said he will abstain in the next Commons vote on the assisted dying Bill so as not to “unduly influence the debate” in a letter to the Parliamentary Labour Party.

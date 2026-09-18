@@ -10,6 +10,10 @@ description: Tina Peters was convicted of seven counts related to election inter
   in 2024. Now, she’s fielding an offer from a county that’s become a hotbed of voting-related
   conspiracy theories.
 image: https://media.wired.com/photos/6a84a77abfc92084d8656772/191:100/w_1280,c_limit/Politics_Tina%20Peters%20Was%20Convicted%20of%20Election%20Tampering.%20This%20MAGA%20County%20Wants%20Her%20to%20Help%20It%20Run%20Elections_v5.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Last week, Clint Curtis, the top election official in Shasta County, California, publicly accused members of his own staff of bypassing security, which he later claimed was an attempt “to sabotage a federal election.”

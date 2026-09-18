@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Party leader dealt blow as two key aides step down hours before conference
   speech – and police say they are in talks with Electoral Commission
 image: https://static.independent.co.uk/2026/09/04/18/01M1PRGPN4CH42R64NFJYCCSTH.jpg?trim=0,25,0,25&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An embattled Nigel Farage is fighting for his political survival as a major donations scandal completely overshadowed what Reform UK hoped would be a major comeback speech at its party conference in Birmingham.

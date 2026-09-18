@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: US president suggests he might support his Argentinian ally’s drive to
   reclaim sovereignty of disputed islands
 image: https://i.guim.co.uk/img/media/7d2459a3317f9883ce74703ba281d9cbe990e2cd/0_0_4021_3216/master/4021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae09b1e1751505987c2c99c2bb1b1d82
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.

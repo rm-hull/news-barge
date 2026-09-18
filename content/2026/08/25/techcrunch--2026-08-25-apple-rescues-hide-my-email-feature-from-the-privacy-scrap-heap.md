@@ -8,6 +8,8 @@ published: '2026-08-25T00:00:00Z'
 description: Apple says it will no longer ditch using its icloud.com domain for hiding
   people's email addresses.
 image: https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Apple has reneged on a planned change to its Hide My Email feature that users said would have made the privacy tool less effective.

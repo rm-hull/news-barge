@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: He was so preoccupied about whether he could, he didn't stop to think
   about whether he should.
 image: https://cdn.mos.cms.futurecdn.net/6sXhZsyDZFqzFQmRwMjbx-2214-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Rust code](https://cdn.mos.cms.futurecdn.net/6sXhZsyDZFqzFQmRwMjbx.jpg) 

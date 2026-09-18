@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The foreign secretary disagrees with the UK's chief rabbi who warns sanctions
   on Israeli settlements could put British Jews at greater risk.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a5b8/live/26e45300-ac43-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: 'I thought it was important to call out what's happening', says Miliband

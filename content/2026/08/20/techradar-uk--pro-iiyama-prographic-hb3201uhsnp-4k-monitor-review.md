@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: High-contrast IPS Black 2.0 panel tech and a strong feature set makes
   this 32-inch 4K panel a tantalising prospect for pro creator workflows.
 image: https://cdn.mos.cms.futurecdn.net/QtyibTMtSamwyBXsDbGZgb-2100-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

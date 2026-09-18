@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Victoria Thompson, 55, of South Hetton, has been banned from driving
   for three years after admitting drug driving and driving without insurance.
 image: https://www.thenorthernecho.co.uk/resources/images/20765304.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Newsquest)*

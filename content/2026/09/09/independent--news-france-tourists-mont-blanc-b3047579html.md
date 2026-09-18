@@ -9,6 +9,10 @@ description: Tourists visit France’s shrinking Mer de Glace glacier, where tar
   melting as record summer heat thaws Alpine permafrost, triggers rockfalls and makes
   routes up Mont Blanc increasingly dangerous.
 image: https://static.independent.co.uk/2026/09/09/20/APTOPIX_France_Mont_Blanc_Climate_Change__3255.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Tourists visit France’s shrinking Mer de Glace glacier, where tarps slow melting as record summer heat thaws Alpine permafrost, triggers rockfalls and makes routes up Mont Blanc increasingly dangerous.

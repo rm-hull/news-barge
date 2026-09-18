@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: ‘It is staggering how predictable the fiscal decline of a global power
   can become,’ the president of the Committee for a Responsible Federal Budget said
 image: https://static.independent.co.uk/2023/04/29/22/GettyImages-53002540.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 United States national debt has surpassed $40 trillion for the first time, the Treasury Department confirmed on Wednesday, prompting fresh warnings of an impending fiscal crisis as rising costs for entitlement programs and interest payments outpace revenue constrained by tax cuts.

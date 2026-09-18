@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: PM promises to mount ‘Covid-style campaign’ to get homeless people off
   streets in winter
 image: https://i.guim.co.uk/img/media/8193aaa5a41635d0478a86832f5f6a99be697174/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=00247a5b74820c2a6162f50c50104aa0
+categories:
+- UK
+- News & Politics
 ---
 
 Andy Burnham talks to Hubar, a homeless person in London, as he meets rough sleepers with staff from The Passage Homeless Charity. Photograph: Christopher Furlong/Getty Images

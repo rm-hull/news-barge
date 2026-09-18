@@ -8,6 +8,12 @@ scraped_at: '2026-08-23T12:58:27Z'
 published: '2026-08-23T00:00:00Z'
 description: Walmart clearance strikes again.
 image: https://cdn.mos.cms.futurecdn.net/PGsSSZgSSxXDE7MJYVXRM7-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 ![A retail unit of the PNY GeForce RTX 5080 OC with a marked down price of $702.56 at Walmart](https://cdn.mos.cms.futurecdn.net/PGsSSZgSSxXDE7MJYVXRM7.jpg) 

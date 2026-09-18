@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Jayden Williams of Stockbridge alleged to have made inappropriate texts
   to teen and using city funds improperly
 image: https://i.guim.co.uk/img/media/2c2d1ac5856849d0c1b47d0f0d21678b8c42146d/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44dc6e518922de53f1fcd173f9016953
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 City leaders in a suburb outside Atlanta have voted to remove the youngest mayor in their community’s history amid allegations of questionable spending of municipal funds and inappropriate communications with an 18-year-old high school student.

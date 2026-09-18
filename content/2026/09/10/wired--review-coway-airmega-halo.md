@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Coway’s new Airmega Halo runs quietly and clears visible smoke quickly,
   but its air-quality readings weren’t always reassuring.
 image: https://media.wired.com/photos/6aa45187942761b808ef31e7/191:100/w_1280,c_limit/Review--Coway-Airmega-Halo.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 I cannot overstate the importance of having an air purifier that not only has enough power to actually purify a room's air but also caters to your home's particular needs. Pollutants like wildfire smoke, pollen, unventilated gas stoves, pet allergens, and even litter box odors can be potentially harmful additions to the air you breathe in your home.

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Russia warns Britain is ‘playing with fire’ by supplying Storm Shadow
   missile technology to Ukraine
 image: https://static.independent.co.uk/2026/08/26/13/2026-08-26T121543Z_673387593_RC2B6NAXZ06P_RTRMADP_3_RUSSIA-PUTIN.JPG?trim=91,0,91,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Russia has warned it could strike British military targets over the UK’s support for Ukraine.

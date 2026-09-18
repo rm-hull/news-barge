@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A convicted sex offender has been jailed for longer after being found
   guilty of further offences.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401405.jpg?type=og-image&xType=0&yType=411
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
+- Lifestyle & Fashion
 ---
 
 *(Image: West Yorkshire Police)*

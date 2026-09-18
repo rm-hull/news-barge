@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Jamaica is pushing for Britain to pay reparations for the trans-Atlantic
   slave trade
 image: https://static.independent.co.uk/2026/09/07/09/Britain_Jamaica_Petition_65479.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Jamaica is taking its campaign for Britain to pay reparations for the ravages of the trans-Atlantic slave trade to King Charles III.

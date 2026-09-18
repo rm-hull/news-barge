@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Chronic traumatic encephalopathy is a progressive brain disease linked
   to repeated head impacts
 image: https://static.independent.co.uk/2025/09/26/21/Shooting_New_York_City_NFL_CTE_Explainer_Football_50019.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least one in four NFL players could develop chronic traumatic encephalopathy, a progressive brain disease linked to repeated head impacts, new research suggests.

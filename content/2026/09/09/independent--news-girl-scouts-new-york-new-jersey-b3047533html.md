@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T19:15:24Z'
 published: '2026-09-09T00:00:00Z'
 description: Man’s best friend is getting some love from the Girl Scouts
 image: https://static.independent.co.uk/2026/09/09/19/Girl_Scouts_Dog_Cookies_3_296.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 Man’s best friend is getting some love from the Girl Scouts.

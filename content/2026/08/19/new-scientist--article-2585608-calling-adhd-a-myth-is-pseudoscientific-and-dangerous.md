@@ -9,6 +9,9 @@ description: ADHD is a real condition that can have serious consequences if undi
   An ill-informed documentary that suggests it is a modern, social construct could
   cause harm, says Caroline Williams
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308835355.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Max Pemberton, a National Health Service doctor, fronted the show "The Great ADHD Myth?"](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308835355.jpg?w=840)

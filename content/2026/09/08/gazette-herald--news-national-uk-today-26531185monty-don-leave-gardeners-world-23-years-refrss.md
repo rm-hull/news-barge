@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Monty Don has announced he is stepping down as the presenter of Gardeners'
   World after 23 years.
 image: https://www.gazetteherald.co.uk/resources/images/21424218.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: BBC Studios)*

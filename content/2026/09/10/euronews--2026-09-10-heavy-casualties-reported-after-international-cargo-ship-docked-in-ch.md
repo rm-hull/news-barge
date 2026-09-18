@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A total of 42 people had been on the vessel, and 17 of them were safely
   evacuated, state media reported.
 image: https://images.euronews.com/articles/stories/09/90/85/98/1200x675_cmsv2_f9afb379-67ca-54d7-a6f8-49b198b34fb2-9908598.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## A total of 42 people had been on the vessel, and 17 of them were safely evacuated, state media reported.

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Heather Watson will face compatriot Harriet Dart for a place in the US
   Open main draw as six British players reach the final qualifying round.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4edf/live/5156e430-a1a9-11f1-bbde-d5b9c47bbf6b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Heather Watson clenches her fist in celebration after winning a point in US Open qualifying](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/4edf/live/5156e430-a1a9-11f1-bbde-d5b9c47bbf6b.jpg)

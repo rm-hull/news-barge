@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: While a survey found Labour, Lib Dem and Green voters to be the strongest
   backers of such a ban on trade, even Tory and Reform voters were in favour overall
 image: https://i.guim.co.uk/img/media/04b431b2cc99c7e8dad2dd2d9409a8a320b84361/1533_703_2673_2140/master/2673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f96aae7f554c0ce232e4316798c553e6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 There was a time when placing Israel under strict trade sanctions would have been a politically risky thing for a British prime minister to do. Andy Burnham, however, considers it an electoral asset.

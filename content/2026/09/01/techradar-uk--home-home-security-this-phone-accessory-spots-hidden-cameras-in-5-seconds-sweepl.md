@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: SweepLED is cheap, accurate, and easy to use, and it can spot hidden
   cameras that other detectors can't.
 image: https://cdn.mos.cms.futurecdn.net/4vpZp5qqy56tjehxfevZfh-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![SweepLED](https://cdn.mos.cms.futurecdn.net/4vpZp5qqy56tjehxfevZfh.jpg) 

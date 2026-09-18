@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Does Mauricio Pochettino have a case that Tottenham should be retrospectively
   crowned Premier League champions?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Eden Hazard of Chelsea poses with the Premier League trophy in 2017](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg)

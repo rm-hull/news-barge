@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The Yorkshire Traction Engine Rally 2026 returned this weekend at Scampston
   Hall.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2YTNmYWQ2LTIyMWUtNDNmMi04MjFmLTcxZThhMzRhYmFhYzpiZDkwN2RhMi01ODJhLTRhZTgtYmRjZi1iN2FiMTA4MTk2ODY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 The popular event featured impressive traction engines, vintage cars, tractors, motorcycles and military vehicles.

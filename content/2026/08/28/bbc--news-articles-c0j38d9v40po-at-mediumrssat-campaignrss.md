@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: King Oyo ascended to the throne of Uganda's Tooro kingdom when he was
   just three years old.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f05/live/e8034d20-a2ca-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![King Oyo pictured at 18 during his coronation wearing a gold embroidered jacket and hat.](https://ichef.bbci.co.uk/ace/standard/967/cpsprodpb/dba6/live/93622e00-a2c8-11f1-941c-8741c1a72471.jpg)

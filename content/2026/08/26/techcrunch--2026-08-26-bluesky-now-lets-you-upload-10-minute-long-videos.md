@@ -8,6 +8,8 @@ published: '2026-08-26T00:00:00Z'
 description: Bluesky's new 10-minute video support includes faster upload speeds,
   too.
 image: https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Social network Bluesky said on Tuesday that it is now increasing video limits on the platform to 10 minutes. Previously, the platform allowed three-minute-long videos, a limit that it raised last year. This makes it more competitive with other text-based platforms that by default allow for shorter video uploads

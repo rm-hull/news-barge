@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Rain, a 20-year-old beluga rescued from Canada, and Beethoven, a 34-year-old
   who had been at Chicago’s Shedd Aquarium for decades, both died on Wednesday
 image: https://static.independent.co.uk/2026/09/03/14/2026-09-01T165744Z_222906137_RC2DANAOR9GV_RTRMADP_3_CANADA-WHALES.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two beluga whales, including one recently rescued from a shuttered Canadian theme park, have died at a Chicago aquarium — days after another rescued beluga died at the facility.

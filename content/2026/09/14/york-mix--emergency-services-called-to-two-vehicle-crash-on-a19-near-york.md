@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T20:19:06Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a19-shipton-road-near-skelton-york-gsv.webp
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 Emergency services were called to a crash on the A19 this afternoon (Monday).

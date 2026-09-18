@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The eastbound A64 outside York has been affected from the A659 to the
   Bilbrough junction.
 image: https://www.gazetteherald.co.uk/resources/images/21361279.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Contributed)*

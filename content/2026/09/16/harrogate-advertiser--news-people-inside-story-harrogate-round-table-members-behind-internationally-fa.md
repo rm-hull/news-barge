@@ -10,6 +10,10 @@ description: Three Harrogate friends who launched a pop-up festival in their spa
   time have revealed how it turned into one of the world's best-known horror film
   festivals.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBmNzgzNGVkLWFlN2EtNDYzMi05NjlmLWUzZWFlNWY2MGExMzpjNGU3NTQ2NS1jYzZmLTQxNmItODk4OS1jMjg1MTU0YWJhNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Film & TV
 ---
 
 # Inside story: Harrogate Round Table members behind internationally famous horror film festival

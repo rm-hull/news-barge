@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: A report from Nats found that the disruption stemmed from a manual request
   for a squawk code that was corrupted during processing.
 image: https://cdn.mos.cms.futurecdn.net/noaDwoAvNKqQgbHVYkMYQM-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![London Heathrow Terminal 5, the home of British Airways. Looking down on the runways and bays of BA planes. Strike action may cause them to be grounded during summer 2019.](https://cdn.mos.cms.futurecdn.net/noaDwoAvNKqQgbHVYkMYQM.jpg) 

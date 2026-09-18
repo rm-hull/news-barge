@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A 23-year-old man has been charged with 21 offences after he was detained
   by members of the public at a social club in South Bank.
 image: https://www.thenorthernecho.co.uk/resources/images/21464385.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NEWSQUEST)*

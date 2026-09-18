@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man has appeared before York Magistrates Court accused of offences
   of blackmail, vandalising one house and threatening to drive a vehicle into a…
 image: https://www.gazetteherald.co.uk/resources/images/21215946.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: LDRS)*

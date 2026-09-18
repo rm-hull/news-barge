@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire has been ranked as one of the best places in the UK for
   nature access, according to new research from Blacks.
 image: https://www.yorkpress.co.uk/resources/images/21371053.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## North Yorkshire ranked among UK's best places for access to nature

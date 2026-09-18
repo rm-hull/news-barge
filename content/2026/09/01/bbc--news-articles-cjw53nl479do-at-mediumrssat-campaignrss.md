@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: One menopause specialists says she has seen women with up to 12 times
   the safe level of the hormone.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/250c/live/64760600-a2b6-11f1-9024-715001d09aeb.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Different types of HRT are laid out on a table, including tablets, patches, spray and gel. In the centre is a small sachet of testosterone gel.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/250c/live/64760600-a2b6-11f1-9024-715001d09aeb.jpg)

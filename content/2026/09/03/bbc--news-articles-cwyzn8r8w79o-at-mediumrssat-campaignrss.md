@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Hollywood actress is starring in a new thriller series using her
   natural Swansea accent.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ac1/live/3a9b2fc0-a7a4-11f1-a7ad-37a1f7dc081c.png
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Catherine Zeta-Jones holding a gun up, wearing a scarf around her head and a maroon jacket in the Kill Jackie series.](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/6ac1/live/3a9b2fc0-a7a4-11f1-a7ad-37a1f7dc081c.png)

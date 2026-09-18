@@ -8,6 +8,13 @@ published: '2026-08-29T00:00:00Z'
 description: Dolly Parton, who has died at 80, was a star whose influence extended
   way beyond the world of country music in which she made her name.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI3ZGJmMTI3LWUwNmEtNDA2Yy05NDk2LWQwMWI1YTVmMzgxZDo4YmVjMDEwZS0xMWIzLTQxYmMtYjY4OC0wZDZlMTM0YjUzNTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
+- Society & Culture
 ---
 
 # Dolly Parton obituary: The country music star who became a worldwide icon - and loved a South Yorkshire town

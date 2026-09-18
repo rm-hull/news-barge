@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: CrossCountry says its "key priority" is now restoring as close to a normal
   service as possible.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![The cab and first carriage of a CrossCountry train travels on tracks in the countryside. In the background trees and fields can be seen.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg)

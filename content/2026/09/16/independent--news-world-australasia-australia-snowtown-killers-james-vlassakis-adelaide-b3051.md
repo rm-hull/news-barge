@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: James Vlassakis and his associates murdered 11 people over a span of
   seven years in one of the country’s most notorious criminal cases
 image: https://static.independent.co.uk/2026/09/16/09/2126135040..?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 The youngest person jailed for the Snowtown murders in Australia is set to walk free after 26 years in what the families of the victims are calling a “distressing” development.

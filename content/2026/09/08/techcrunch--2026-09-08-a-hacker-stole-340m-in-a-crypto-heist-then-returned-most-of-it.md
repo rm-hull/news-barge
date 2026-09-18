@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T19:26:03Z'
 published: '2026-09-08T00:00:00Z'
 description: The latest heist is one of the largest thefts of cryptocurrency to date.
 image: https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 A hacker stole thousands of bitcoins worth about $340 million in a heist at a settlement exchange used by several cryptocurrency exchanges, representing one of the largest known thefts of crypto this year.

@@ -9,6 +9,9 @@ description: Some parents have described Frome Community College as ‘like a mi
   base’ – but interim principal Dan Jeffries has defended his actions, saying the
   children were suspended for ‘persistent disruption’
 image: https://static.independent.co.uk/2026/09/17/10/31/Dan-Jeffries-Frome-Community-College-14ac2f5d.jpeg?trim=0,206,104,141&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A school’s new headteacher has sparked fury among parents after he suspended 25 pupils in the first week back at school for reasons including “zipping their bag too loudly” and “nervously laughing”.

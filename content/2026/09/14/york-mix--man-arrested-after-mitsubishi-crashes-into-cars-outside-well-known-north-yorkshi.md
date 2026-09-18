@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T20:18:24Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/08/police-library-breathalyser-breathalyzer-drink-driving.jpg
+categories:
+- Local
+- York
+- Automotive
 ---
 
 A man has been arrested after a crash near a well-known North Yorkshire pub.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: TODAY, for young people across the district, their anxious wait for their
   GCSE exam results comes to an end when they discover their grades.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344988.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Image submitted)*

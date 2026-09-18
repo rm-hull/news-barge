@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A Harrogate gymnast is preparing to attend a GB Development Squad camp
   next week, after progressing from preschool classes at Harrogate Gymnastics to
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/gym1.webp
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Sports
 ---
 
 A Harrogate gymnast is preparing to attend a GB Development Squad camp next week, after progressing from preschool classes at Harrogate Gymnastics to competing at national level.

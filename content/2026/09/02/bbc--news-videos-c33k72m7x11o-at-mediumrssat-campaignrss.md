@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: President Donald Trump said he was not a fan of the couple and added
   that they treated the Royal Family with "great disrespect".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16ac/live/d143f780-a70a-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Watch: Trump 'happy' that Prince Harry and Meghan left the US

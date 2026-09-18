@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Suffolk police have urged people to check gardens, outbuildings, and
   home CCTV devices in the hunt for missing 3-year-old Noah Woods.
 image: https://static.independent.co.uk/2026/09/16/13/01M2N373Z6YBQ77HAHMZFNYSVQ.jpg?trim=843,0,1333,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Suffolk police have urged people to check gardens, outbuildings, and home CCTV devices in the hunt for missing 3-year-old Noah Woods.

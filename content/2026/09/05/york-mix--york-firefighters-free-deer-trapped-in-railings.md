@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T18:12:05Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/chantry-lane-bishopthorpe-york-gsv.webp
+categories:
+- Local
+- York
+- Crafts & Hobbies
 ---
 
 Firefighters were called on an unusual rescue mission this morning (Saturday).

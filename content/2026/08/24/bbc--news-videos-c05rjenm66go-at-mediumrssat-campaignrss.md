@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: At least one of the young people killed in the crash appears in videos
   posted on TikTok showing dangerous driving.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/557e/live/de106e00-9fe2-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 # Videos showing dangerous driving easily found on social media

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Heavy traffic is building in York after part of the city's inner ring
   road was closed after storm damage. The section of Fishergate that had…
 image: https://www.gazetteherald.co.uk/resources/images/21394078.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 - Motorists are being reminded of heavy and building traffic in York city centre after part of the city's inner ring road was closed.

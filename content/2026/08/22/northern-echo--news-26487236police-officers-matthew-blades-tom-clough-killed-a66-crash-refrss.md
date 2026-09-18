@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: The two police officers killed in this morning’s crash on the A66 were
   Pc Matthew Blades and Pc Tom Clough, Cleveland Police Chief Constable…
 image: https://www.thenorthernecho.co.uk/resources/images/21358197.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SARAH CALDECOTT)*

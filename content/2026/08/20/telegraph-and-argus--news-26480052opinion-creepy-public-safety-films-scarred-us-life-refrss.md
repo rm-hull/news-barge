@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: KIDS were crying and dogs were howling, apparently, when the Government’s
   ‘severe alert’ appeared on our mobile phones last Friday evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Society & Culture
 ---
 
 *(Image: Crown Copywright)*

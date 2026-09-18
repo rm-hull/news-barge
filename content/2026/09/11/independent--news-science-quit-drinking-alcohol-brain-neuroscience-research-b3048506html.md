@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Addiction researchers believe the brain changes that occur during abstinence
   may increase a person’s risk of relapse
 image: https://static.independent.co.uk/2026/08/19/15/01KCK0C3B54ZFNB48JY7DZQNZV.jpg?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 For some, abstaining from alcohol can subsequently increase compulsive drinking. Our research team found that, in abstaining mice, this urge to drink is preceded by changes in the activity of a particular brain region, pointing to potential new screening opportunities to identify and help those most vulnerable to relapse.

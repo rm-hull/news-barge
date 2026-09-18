@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: ‘I don't think anyone was expecting citizens to personally be held liable
   to a civil lawsuit,’ says Kimberly Twente, who was sued by her local government
 image: https://static.independent.co.uk/2026/08/31/18/download..?trim=168,0,168,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Some Americans who oppose data centers being built in their communities have learned you can fight city hall — but the battle will wind up in court.

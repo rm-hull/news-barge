@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The world’s first aerosol soft drink, which became a cult favourite after
   its launch in 2011, is returning this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21145335.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 A fan favourite Tango drink is making a comeback this month after 15 years.

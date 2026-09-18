@@ -8,6 +8,11 @@ scraped_at: '2026-09-08T12:50:56Z'
 published: '2026-09-08T00:00:00Z'
 description: Patients have described it as the “best hospital they’ve been to”.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422234.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

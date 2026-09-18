@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: In another message to a colleague, Lee Hessey said ‘Buckingham Palace
   will be a lim city soon’
 image: https://static.independent.co.uk/2025/03/26/00/eeecf07c6871a4b0859cb42405f6c4c8Y29udGVudHNlYXJjaGFwaSwxNzQyOTk2Mjg5-2.78890203.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A school trust chief who sent racist messages to colleagues and called parents ‘low life’ has been banned from teaching.

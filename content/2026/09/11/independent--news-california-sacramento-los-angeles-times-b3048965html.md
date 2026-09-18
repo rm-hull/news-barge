@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A California labor leader behind a proposal to tax billionaires has been
   accused of harassing and intimidating several women who work for an affiliated union
 image: https://static.independent.co.uk/2026/09/12/00/California_Union_Leader_Harassment_21_44.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The California labor leader behind a proposal to tax billionaires has been accused of harassing and intimidating several women who work for an affiliated union.

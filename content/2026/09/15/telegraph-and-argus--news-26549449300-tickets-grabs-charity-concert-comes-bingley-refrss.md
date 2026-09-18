@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A CHARITY concert will help raise funds for a cause supporting people
   with sight loss.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454052.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Promo)*

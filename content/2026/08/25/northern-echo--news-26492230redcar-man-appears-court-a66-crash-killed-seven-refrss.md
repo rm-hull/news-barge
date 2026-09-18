@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A man, one of 12 arrested after a crash on the A66 which killed seven,
   including two police officers, has appeared before magistrates charged with…
 image: https://www.thenorthernecho.co.uk/resources/images/19896183.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SARAH CALDECOTT)*

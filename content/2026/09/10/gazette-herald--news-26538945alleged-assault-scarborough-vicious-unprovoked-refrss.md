@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Police are appealing for information following a "vicious
   and unprovoked" alleged assault in Scarborough.
 image: https://www.gazetteherald.co.uk/resources/images/21435128.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

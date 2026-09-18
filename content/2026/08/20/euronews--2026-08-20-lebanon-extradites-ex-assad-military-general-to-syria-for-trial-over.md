@@ -10,6 +10,11 @@ description: The move comes as the new Syrian government, led by interim Preside
   crimes committed during the country’s civil war, which resulted in the deaths of
   hundreds of thousands of people.
 image: https://images.euronews.com/articles/stories/09/88/13/76/1200x675_cmsv2_b6c550e6-df6c-53fb-bd6b-a8eeb5ab00b7-9881376.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ## The move comes as the new Syrian government, led by interim President Ahmad al-Sharaa looks to hold senior members of al-Assad’s regime accountable for crimes committed during the country’s civil war, which resulted in the deaths of hundreds of thousands of people.

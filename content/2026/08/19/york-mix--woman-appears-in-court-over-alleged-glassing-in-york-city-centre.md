@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:09:54Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-police-incident-stonebow-whipmawhopmagate-co-op-17-aug-2026-5.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 A York woman has appeared in court charged with wounding with intent following an alleged daytime “glassing” in the city centre.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T12:49:47Z'
 published: '2026-09-11T00:00:00Z'
 description: Boundaries between physical and digital operations are harder to define
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

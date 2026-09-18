@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Apple is hosting its iPhone release event next week, which is rumored
   to feature the first-ever foldable iPhone.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 John Ternus has officially taken the reins as Apple CEO, succeeding Tim Cook, who held the role for 15 years.

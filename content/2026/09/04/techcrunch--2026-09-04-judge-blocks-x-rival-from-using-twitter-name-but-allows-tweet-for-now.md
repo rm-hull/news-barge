@@ -10,6 +10,9 @@ description: A federal judge temporarily barred an X rival from using the Twitte
   name, but found that X was likely to have abandoned the “Tweet” trademark and bird
   logo. The startup has since relaunched as Tweet.app.
 image: https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A federal court in Delaware has ruled on a trademark fight between Elon Musk’s X and a startup trying to launch a rival social network. The startup, Operation Bluebird, originally launched under the name Twitter.now, but the court barred it from using that name, siding with X on the core “Twitter” trademark. However, the court also found that X had likely abandoned two other, related trademarks: the word “tweet” and the Twitter bird logo, making them available to use. Operation Bluebird has since rebranded its website as Tweet.app, using the freed-up “tweet” name, and launched to the public.

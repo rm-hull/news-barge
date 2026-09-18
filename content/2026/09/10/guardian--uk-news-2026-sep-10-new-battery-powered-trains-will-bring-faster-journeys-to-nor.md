@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: No 10 says 29 new trains to be built in Derby will support 350 local
   jobs, as well as nearly 6,000 across the UK
 image: https://i.guim.co.uk/img/media/7c2e58c8a262fd5acb081dd04ab7eab673ff7505/581_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3e40a35cf97432436f2f103e91756bd
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 No 10 has announced the construction of a new fleet of battery-powered trains that will “bring faster, more reliable journeys to the north”.

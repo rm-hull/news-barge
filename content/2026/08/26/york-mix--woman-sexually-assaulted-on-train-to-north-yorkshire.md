@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:57:36Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-btp-sexual-assault-leeds-to-skipton-train-24-july-2026.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Police are investigating a sexual assault on a train to North Yorkshire.

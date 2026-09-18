@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Tourists are scrambling to find lodging elsewhere after deadly flash
   flooding in the Grand Canyon
 image: https://static.independent.co.uk/2026/09/01/22/Grand_Canyon_Flooding_36533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Deadly flooding at the Grand Canyon threatens to cause economic damage, with a washed-out pipeline severing the South Rim's water supply and shutting down lodging at the popular tourist vista for an indefinite period.

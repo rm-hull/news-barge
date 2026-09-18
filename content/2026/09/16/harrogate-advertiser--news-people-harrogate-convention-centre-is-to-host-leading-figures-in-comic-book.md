@@ -10,6 +10,10 @@ description: The first details of one of the most important festivals in the glo
   comics calendar has been revealed as Harrogate gears up to play a major role this
   year.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY0ZmMwMWFhLWE2NmUtNDNlOS1iNjllLTRmZjMwYzA1ZTQ3Zjo2NTNlZjk3OC0xODdhLTQ4OTEtOTM5YS05ODYxNmQ4ZTI1MWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Harrogate Convention Centre is to host leading figures in comic book industry for Thought Bubble Festival

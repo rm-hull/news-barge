@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Attackers are teaching their models by asking GPT and Claude millions
   of questions
 image: https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![ChatGPT vs Gemini comparison](https://cdn.mos.cms.futurecdn.net/cWc9CWu3UHCubh8PtKXmVS.jpg) 

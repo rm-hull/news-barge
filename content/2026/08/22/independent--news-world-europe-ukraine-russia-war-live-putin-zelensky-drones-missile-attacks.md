@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Zelensky has urged Trump and other American officials to facilitate Ukraine's
   access to Musk's Starlink to strike deep inside Russia
 image: https://static.independent.co.uk/2025/03/06/9/50/Volodymyr-Zelenskyy-Zelenskyi-Zelensky-Elon-Musk-Donald-Trump-Outfit-IndyComp-2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukrainian officials are seeking approval to use Starlink-equipped drones against ballistic missile launchers, according to a report.

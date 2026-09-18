@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A cycling club has responded to criticism after the cancellation of a
   community event.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399515.jpg?type=og-image&xType=0&yType=65
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A cycling club has responded to criticism after the cancellation of a community event.

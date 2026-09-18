@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Grammy award-winning American artist selected as 13th person to submit
   written work to Oslo-based project
 image: https://i.guim.co.uk/img/media/b04d228014d78dc516389789400c5d1610a50dc0/270_295_769_615/master/769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d52f132f4a969109aeb6cc8617da175
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The next manuscript by the American artist Laurie Anderson will remain unseen for 88 years, as she becomes the 13th figure to contribute to the Future Library project.

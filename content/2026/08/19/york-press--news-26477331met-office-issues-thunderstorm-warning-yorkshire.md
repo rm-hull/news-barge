@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Met Office has issued a yellow weather warning thunderstorms covering
   Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21340442.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Getty)*

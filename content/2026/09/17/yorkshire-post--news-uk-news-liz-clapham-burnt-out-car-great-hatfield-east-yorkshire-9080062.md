@@ -9,6 +9,11 @@ description: A wedding venue owner has said she’s ‘fed-up’ after both poli
   local council refused to remove a burnt-out car dumped on her land three months
   ago.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/17/16/45/WhatsApp-Image-2026-09-17-at-17-15-18.jpeg?trim=0,498,0,129&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Wedding venue boss 'fed up' with torched car on her land which police and council won't move

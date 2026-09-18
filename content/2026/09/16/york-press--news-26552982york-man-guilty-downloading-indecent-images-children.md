@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A York man has lost his job but kept his freedom after he admitted committing
   online sex crimes involving children between five and 24 years ago.
 image: https://www.yorkpress.co.uk/resources/images/13921999.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

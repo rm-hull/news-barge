@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: DRIVERS are being invited to test drive the latest fully electric SUV
   at an exclusive event.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21276807.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

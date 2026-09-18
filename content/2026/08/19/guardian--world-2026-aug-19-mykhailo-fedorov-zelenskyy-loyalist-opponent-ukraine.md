@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Mykhailo Fedorov’s blistering critique comes at a time of growing pressure
   for democratic renewal in Ukraine
 image: https://i.guim.co.uk/img/media/d4984b511db36a08cd300c2f909da8c48b594224/464_84_1546_1237/master/1546.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f55ed71d0f4fb3acfab39fa38066440c
+categories:
+- UK
+- News & Politics
 ---
 
 For more than a month, demonstrators have gathered in Ivan Franko Square outside Volodymyr Zelenskyy’s office. The protesters have been chanting a name – not that of Ukraine’s embattled president but that of the man he recently sacked as defence minister, Mykhailo Fedorov. On Sunday evening, 2,000 people marched along Khreshchatyk, Kyiv’s main boulevard, waving cardboard banners in support of their ousted hero.

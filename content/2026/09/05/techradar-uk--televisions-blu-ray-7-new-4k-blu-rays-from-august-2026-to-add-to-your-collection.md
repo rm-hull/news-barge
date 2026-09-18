@@ -10,6 +10,10 @@ published: '2026-09-05T00:00:00Z'
 description: August 2026 has been another stacked month of 4K Blu-ray releases, and
   I've picked seven new titles to see if they're worth adding to your collection
 image: https://cdn.mos.cms.futurecdn.net/QNJ955Tgc9T5RXUWjQVmzY-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Music
 ---
 
 ![Blu-ray Bounty August 2026 hero image showing shot of Ryland Grace from Project Hail Mary](https://cdn.mos.cms.futurecdn.net/QNJ955Tgc9T5RXUWjQVmzY.jpg) 

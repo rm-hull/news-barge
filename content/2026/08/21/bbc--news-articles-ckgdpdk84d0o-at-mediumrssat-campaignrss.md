@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Greenock wants to attract immigrants to settle in the town and reverse
   its declining population.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A coastal cityscape with a tall clock tower in the foreground, surrounded by historic and modern buildings. Behind it, a large white cruise ship is docked beside red industrial cranes. Beyond the harbour, green hills and mountains rise under a partly cloudy blue sky.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg)

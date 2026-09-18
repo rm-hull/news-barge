@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: From rare bacteria to ‘forever chemicals’, a series of cases of violations
   or alleged pollution has prompted alarm
 image: https://i.guim.co.uk/img/media/926a2c9dd537e55929b7e5f7e29077547012a56f/666_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc753319b7390128cd985645fde217b2
+categories:
+- UK
+- News & Politics
+- Science
+- True Crime
 ---
 
 When officials in Wyoming conducted a routine test on the water that was being discharged from a massive under-construction Meta datacenter, it was a shock to find it contained a rare and potentially hazardous bacterium.

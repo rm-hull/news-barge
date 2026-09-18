@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: ‘It will be a photo you live to regret forever if you shake his hand
   at the 9/11 memorial,’ Laura Loomer, a right-wing provocateur, wrote on X
 image: https://static.independent.co.uk/2026/07/24/05/UCRANIA-GUERRA-LAURA_LOOMER_38562.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Right-wing provocateur Laura Loomer publicly urged Vice President JD Vance to refuse a handshake with New York City Mayor Zohran Mamdani at an upcoming 9/11 anniversary ceremony.

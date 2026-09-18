@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:36:13Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/police-drone-b1222-sherburn-august-2026-nyp.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Drivers on a notorious stretch of North Yorkshire road have been hit with penalties after being observed by a police eye-in-the-sky.

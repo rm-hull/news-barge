@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The York Walking Festival is returning this autumn, promising guided
   walks and fresh perspectives across the city.
 image: https://www.gazetteherald.co.uk/resources/images/21434211.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Society & Culture
 ---
 
 *(Image: City of York Council)*

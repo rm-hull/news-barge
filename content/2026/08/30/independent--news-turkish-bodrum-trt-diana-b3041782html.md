@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: At least seven people have died after a ferry carrying nearly 270 passengers
   and crew capsized off the coast of northern Cyprus
 image: https://static.independent.co.uk/2026/08/30/14/Turkey_Cyprus_Ferry_92561.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least seven people have died after a ferry carrying nearly 270 passengers and crew capsized off the coast of northern Cyprus on Sunday, Turkish media reported.

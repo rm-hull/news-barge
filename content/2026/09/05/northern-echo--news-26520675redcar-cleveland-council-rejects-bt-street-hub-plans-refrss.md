@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Redcar and Cleveland Council has rejected plans by BT for so-called ‘street
   hubs’ in Redcar High Street and Eston High Street.
 image: https://www.thenorthernecho.co.uk/resources/images/21408750.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Redcar and Cleveland Council has rejected plans by BT for so-called ‘street hubs’ in Redcar High Street and Eston High Street.

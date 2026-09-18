@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A rare migratory bat - the Nathusius’ pipistrelle - has been found for
   the first time at a Yorkshire Water reservoir.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcyYTRmNmU5LTZmNWEtNDA3ZC04MmJmLTBhMjg2YzE0YjRkMzpkZWU5MTAwMC1mZTY1LTQyZjItODkzOS04M2NhNzAyN2JjNWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Nathusius' pipistrelle: Rare migratory bat species found roosting at a Yorkshire Water reservoir for first time

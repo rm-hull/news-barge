@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Californians are spotting swarms of dragonflies in parks and farms, likely
   due to warm spring rains
 image: https://static.independent.co.uk/2026/08/25/05/California_Dragonflies__3_85.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Californians are spotting swarms of dragonflies flitting around parks, chasing mosquitoes in ponds and hunting flies on farms, a phenomenon experts say was likely fueled by unusually warm spring rains.

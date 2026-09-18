@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:33:31Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Stories-Nature-and-Resilience.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Discover a new way to explore York’s rivers in returning trail.

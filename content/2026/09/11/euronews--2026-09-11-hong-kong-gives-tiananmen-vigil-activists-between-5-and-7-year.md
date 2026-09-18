@@ -9,6 +9,10 @@ description: Three Hong Kong Tiananmen vigil activists were jailed for five to s
   years under the national security law. Their convictions have drawn condemnation
   from the UN, human rights groups and foreign governments.
 image: https://images.euronews.com/articles/stories/09/90/94/28/1200x675_cmsv2_634872e3-b3b6-5cd9-be9e-c9ab51cdd9a4-9909428.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Three Hong Kong Tiananmen vigil activists were jailed for five to seven years under the national security law. Their convictions have drawn condemnation from the UN, human rights groups and foreign governments.

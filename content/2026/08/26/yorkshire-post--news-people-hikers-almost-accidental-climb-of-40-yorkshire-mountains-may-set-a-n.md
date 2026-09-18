@@ -10,6 +10,11 @@ description: A simple challenge to climb all the mountains in the Yorkshire Dale
   was to prove more than Christian Stocker anticipated when he realised just how many
   there actually are.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZmNjIxODI3LTc0ZTQtNGY2OS04MTQwLTgwMzQ2MTBmNTQ3Yjo3OTNhOGViNC0xYmVhLTQ2Y2QtYjZhZi0wNThlMjYxMGZkNGM=.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Hiker's almost accidental climb of 40 Yorkshire mountains may set a new world record

@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T01:46:22Z'
 published: '2026-08-22T00:00:00Z'
 description: Prosecutors called rebuttal witnesses ahead of closing arguments
 image: https://static.the-independent.com/2026/08/22/01/download..?trim=98,0,98,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 The defense rested its case Friday in the Lindsay Clancy murder trial after presenting further testimony about her mental state before she strangled her three young children.

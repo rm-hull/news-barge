@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Apple's audioOS code reveals support for four-speaker HomePod audio,
   which isn't currently available in any of Apple's products
 image: https://cdn.mos.cms.futurecdn.net/cgFeTahtvuGr2RSFPUcFX4-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![HomePod 2 on shelf in a home](https://cdn.mos.cms.futurecdn.net/cgFeTahtvuGr2RSFPUcFX4.jpg) 

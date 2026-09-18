@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: More than 200 additional officers have been deployed to support Cleveland
   Police.
 image: https://www.thenorthernecho.co.uk/resources/images/21382137.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -9,6 +9,10 @@ description: President Donald Trump, at Wednesday's Republican midterm conventio
   promised $5,000 to every American adult if Republicans retain control of Congress
   in November, while defending US war in Iran and antagonising Democrats.
 image: https://images.euronews.com/articles/stories/09/90/79/74/1200x675_cmsv2_3022a22a-29a4-5c26-aa51-7144a78401c6-9907974.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## President Donald Trump, at Wednesday's Republican midterm convention, promised $5,000 to every American adult if Republicans retain control of Congress in November, while defending US war in Iran and antagonising Democrats.

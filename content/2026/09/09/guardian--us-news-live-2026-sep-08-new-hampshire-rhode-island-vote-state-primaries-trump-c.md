@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T04:31:58Z'
 published: '2026-09-09T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/964b147427feba0ecbd6eb2cc4a4aa6a10fa7f48/923_201_3109_2487/master/3109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=83e0ec5a0f0654600ed0b2a17235282c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Protestor Steve Perry holds a sign in opposition to Missouri’s congressional redistricting plan on 2 September outside the state Capitol, in Jefferson City. Photograph: David A Lieb/AP

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Hiker Timothy Smith, 53, missing after late-August floods but officials
   decline to identify remains
 image: https://i.guim.co.uk/img/media/109fb134bdb79e6606edbc4e9f9ffdbebc38f7ca/186_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43b77219872b40a682f1aa55dbce51d1
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Human remains have been discovered near Arizona’s Crystal Rapids, over two weeks after a flash flood tore through the Grand Canyon, leaving two people dead and one person missing.

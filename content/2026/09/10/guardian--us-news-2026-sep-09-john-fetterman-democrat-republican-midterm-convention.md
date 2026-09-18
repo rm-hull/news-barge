@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Senator praises ‘great friend’ Dave McCormick and says he will help him
   and Trump to support steel in Pennsylvania
 image: https://i.guim.co.uk/img/media/174f5aa3ed1c9eac548f3c3b737504c7365ebb0b/673_0_6807_5448/master/6807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60a67a0af791ffab03bb5c4dfcd1efd2
+categories:
+- UK
+- News & Politics
 ---
 
 Democratic senator John Fetterman made a surprise virtual appearance at the Republican midterm convention, delivering a video address supporting Dave McCormick, a Republican senator in Pennsylvania.

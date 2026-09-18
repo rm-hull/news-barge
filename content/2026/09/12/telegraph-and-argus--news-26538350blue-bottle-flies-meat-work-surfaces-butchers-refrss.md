@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: A butchers boasting 'quality halal meat and poultry' was forced to close
   following a damning food hygiene inspection.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435688.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Food & Cooking
 ---
 
 *(Image: T&A)*

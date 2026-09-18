@@ -9,6 +9,10 @@ description: Former Formula 1 boss Bernie Ecclestone says he was stopped by offi
   at an airport in Portugal after arriving with a shotgun he intended to use in a
   clay pigeon shooting competition.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Former F1 chief executive Bernie Ecclestone](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg)

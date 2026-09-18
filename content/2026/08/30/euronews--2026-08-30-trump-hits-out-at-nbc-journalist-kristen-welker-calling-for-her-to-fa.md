@@ -9,6 +9,10 @@ description: Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Commu
   Commission, said the FCC "has no authority to punish journalists this administration
   doesn’t like."
 image: https://images.euronews.com/articles/stories/09/89/47/55/1200x675_cmsv2_2fa436a4-3dc0-52c5-8cdc-b7de230ac8d2-9894755.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Communications Commission, said the FCC "has no authority to punish journalists this administration doesn’t like."

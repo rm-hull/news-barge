@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:35:53Z'
 published: '2026-08-18T00:00:00Z'
 description: Reach Capital announced Tuesday an oversubscribed $265 million Fund V.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Reach Capital announced Tuesday the close of a $265 million Fund V. The thesis of the 11-year-old San Francisco firm is to back founders building AI applications that can “expand human potential,” Tony Wan, head of platform at Reach Capital, told TechCrunch. In practice, he added, that means looking at founders building across three areas: learning, health, and work.

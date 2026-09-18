@@ -10,6 +10,11 @@ description: Everyone in Yorkshire is familiar with the sinking feeling of comin
   across illegally dumped waste in a place they love, whether it is a favourite urban
   park or alongside a footpath through the countryside.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY2ZWMzNWFmLTM5YzgtNGZlZS1iOGJmLWJhNWEyMGQ5MDdlNTozMzMzNTVlZC1mNmRlLTQyZGYtYWRhYy00YjQ3NmJkOWEwMTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Government’s pledge to crackdown on illegal waste dumps is welcome but there’s a whiff of style over substance to it - Andrew Vine

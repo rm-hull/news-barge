@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The RAF base in North Yorkshire was almost devastated by the biggest
   wildfire in the UK last year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2ODI2Y2M3LTM1OWItNDBmOS04ZjRlLTcyN2YwMDZlNTVhODo5MDRlNzdhZS1lNDAxLTRmMDEtOTc2MS1jNWM0Y2NmNTk0MzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # RAF Fylingdales praised for 'extraordinary role in keeping UK safe' a year after devastating fire

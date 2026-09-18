@@ -10,6 +10,10 @@ description: Water is essential for good brain function, with a handful of convi
   studies suggesting that dehydration could be slowing you down, cognitively speaking.
   Columnist Helen Thomson explores how much water we should be drinking to stay sharp
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309374573.jpg?w=840)

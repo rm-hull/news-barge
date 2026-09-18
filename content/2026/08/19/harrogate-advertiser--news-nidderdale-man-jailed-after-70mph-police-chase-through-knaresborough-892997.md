@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Nidderdale man has been jailed after a high-speed police chase saw
   him narrowly miss oncoming vehicles and an elderly pedestrian.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/19/13/32/Ethan-Wells-Smith-07-08-1993-(1).jpeg?trim=634,0,152,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 # Nidderdale man jailed after 70mph police chase through Knaresborough

@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: The Oliver Glasner era begins with a tricky test against a Whites side
   that excelled in pre-season
 image: https://cdn.mos.cms.futurecdn.net/Xo5AfxvbGsoQbQjQkVpt25-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Chris Wood of Nottingham Forest celebrates after scoring from the penalty spot to make it 1-0 during the Pre-season Friendly match between Nottingham Forest and Stade Brestois.](https://cdn.mos.cms.futurecdn.net/Xo5AfxvbGsoQbQjQkVpt25.jpg) 

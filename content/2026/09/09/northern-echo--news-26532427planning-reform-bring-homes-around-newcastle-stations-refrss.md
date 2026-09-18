@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: More than a million homes could be built around train stations in Newcastle
   if planning rules were reformed.
 image: https://www.thenorthernecho.co.uk/resources/images/21426159.jpg?type=og-image&xType=0&yType=304
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Arena Photo UK)*

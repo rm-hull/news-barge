@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Timescales for proposals to ditch recycling boxes for wheelie bins in
   York have been set out along with more details about the scheme.
 image: https://www.yorkpress.co.uk/resources/images/21036245.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ## When recycling boxes could be ditched for wheelie bins in York

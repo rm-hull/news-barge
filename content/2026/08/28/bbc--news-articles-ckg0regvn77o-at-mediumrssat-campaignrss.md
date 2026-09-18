@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Damari, who was held for 15 months, married partner Dani Amit in a ceremony
   attended by other ex-hostages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/53e6/live/6b877680-a271-11f1-b9a0-bdb734817beb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Two women hold hands in white bridalwear; one wears a white tailored suit, while the other wears a lace dress.](https://ichef.bbci.co.uk/ace/standard/847/cpsprodpb/53e6/live/6b877680-a271-11f1-b9a0-bdb734817beb.jpg)

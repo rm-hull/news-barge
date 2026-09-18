@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Police have taped off a Middlesbrough street after a man clambered onto
   the roof of a property.
 image: https://www.thenorthernecho.co.uk/resources/images/21447709.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE)*

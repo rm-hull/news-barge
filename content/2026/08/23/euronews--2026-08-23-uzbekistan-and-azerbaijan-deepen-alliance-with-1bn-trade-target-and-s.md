@@ -9,6 +9,10 @@ description: Presidents Shavkat Mirziyoyev and Ilham Aliyev signed a Treaty on E
   Friendship in Tashkent and launched new projects in banking, energy, tourism and
   mining. The two countries will also co-host the FIFA U-20 World Cup in 2027.
 image: https://images.euronews.com/articles/stories/09/88/54/28/1200x675_cmsv2_0d63147f-0f8c-51f8-aa6a-4694810194e4-9885428.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Presidents Shavkat Mirziyoyev and Ilham Aliyev signed a Treaty on Eternal Friendship in Tashkent and launched new projects in banking, energy, tourism and mining. The two countries will also co-host the FIFA U-20 World Cup in 2027.

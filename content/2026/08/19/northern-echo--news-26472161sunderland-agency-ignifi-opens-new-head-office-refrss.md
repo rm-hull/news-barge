@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A specialist communications agency providing marketing support to some
   of Europe’s leading healthcare and pharmaceutical brands has opened a new…
 image: https://www.thenorthernecho.co.uk/resources/images/21332238.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

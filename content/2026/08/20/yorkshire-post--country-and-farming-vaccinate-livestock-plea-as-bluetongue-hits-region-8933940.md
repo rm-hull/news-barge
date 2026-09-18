@@ -9,6 +9,11 @@ description: Livestock farmers have issued a plea to others across the region to
   their animals against bluetongue virus serotype 3 (BTV-3) as the first case of a
   rapidly escalating outbreak of the virus was confirmed in North Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgzNzczYmI0LWYyOWQtNDkwOC1hZjM4LTkwNmM3MDRiYjMyNjpjNGVmMjZhMy1mZmMwLTRhZGMtYTVkYS1hNzc5YmY5NWYxMzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Vaccinate livestock plea as bluetongue hits region

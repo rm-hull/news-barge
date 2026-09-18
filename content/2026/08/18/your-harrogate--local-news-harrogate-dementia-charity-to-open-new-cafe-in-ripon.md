@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A leading dementia charity is preparing to open a new weekly wellbeing
   café in Ripon.
 image: https://mmo.aiircdn.com/409/6a8467528407edf6697.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8467528407edf6697.jpg) 

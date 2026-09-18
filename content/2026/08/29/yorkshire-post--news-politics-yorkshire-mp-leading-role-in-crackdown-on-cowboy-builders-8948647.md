@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Halifax’s MP has had a key role developing new regulations to crack down
   on “cowboy builders” and rogue traders.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhkMjY3MjNlLTg2NmYtNDIwYi1hZmExLTg5YWZjZjQ0OTFiMToyZmU1NGZhMC0xMzQ0LTRkZTMtYTA5OC0xNjZjMzFiNDE4N2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Yorkshire MP leading role in crackdown on ‘cowboy builders’

@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: A father-of-three with just £4.73 in his bank account has won a £1 million
   dream home
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424481.jpg?type=og-image&xType=0&yType=25
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

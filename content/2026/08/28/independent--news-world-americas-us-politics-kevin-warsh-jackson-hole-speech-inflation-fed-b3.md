@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Questions about Warsh’s approach have intensified amid President Donald
   Trump’s continued calls for lower interest rates
 image: https://static.independent.co.uk/2026/08/28/14/02/GettyImages-2291773172.jpg?trim=0,788,1200,1010&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Federal Reserve Chair Kevin Warsh offered his most explicit assessment of the economy on Friday, warning that persistent inflation remains excessively high and suggesting that monetary policymakers may need to raise interest rates over the coming months to bring prices under control.

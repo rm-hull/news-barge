@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T19:23:12Z'
 published: '2026-09-01T00:00:00Z'
 description: North Koreans are going to great lengths to get hired in the west
 image: https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![North Korean flag with a hooded hacker](https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The 400mm F4.5 R LM OIS WR super-telephoto prime is a top-grade lens
   that proves Fujifilm can do wildlife photography
 image: https://cdn.mos.cms.futurecdn.net/zK3FyvEjY4uWtYKXA6qdDb-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Photography & Video
 ---
 
 ![A black-chested buzzard eagle in flight (left) and TechRadar Cameras Editor Tim Coleman holding a Fujifilm camera and telephoto lens in same location outdoors (right)](https://cdn.mos.cms.futurecdn.net/zK3FyvEjY4uWtYKXA6qdDb.jpg) 

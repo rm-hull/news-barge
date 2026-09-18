@@ -9,6 +9,11 @@ description: A Bradford man has been jailed after police uncovered more than 87,
   indecent images and videos of children on his devices, including material obtained
   using secret cameras.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/20/18/43/richard_pooley.jpeg?trim=393,0,393,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Man jailed after police find 87,000 indecent images of children on devices

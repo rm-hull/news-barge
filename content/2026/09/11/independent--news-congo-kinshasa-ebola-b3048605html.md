@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Ebola outbreak in eastern Congo has now spread to seven provinces
   in the country, local authorities said
 image: https://static.independent.co.uk/2026/09/11/12/Congo_Ebola_Burial_Teams_59868.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Ebola outbreak in eastern Congo has now spread to the country's seventh province, officials say

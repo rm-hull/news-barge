@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: THE gap between GCSE pass rates between London and regions like the North
   East should make everyone really angry.
 image: https://www.thenorthernecho.co.uk/resources/images/21351568.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 THE gap between GCSE pass rates between London and regions like the North East should make everyone really angry.

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The former prince was evicted following revelations about his friendship
   with Jeffrey Epstein
 image: https://static.independent.co.uk/2026/07/13/18/d6469c93c8437b1b4ec552d8330c3254Y29udGVudHNlYXJjaGFwaSwxNzg0MDM2MzY1-2.83536875.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Royal Lodge, which was formerly home to Andrew Mountbatten-Windsor, is set to go back up for lease.

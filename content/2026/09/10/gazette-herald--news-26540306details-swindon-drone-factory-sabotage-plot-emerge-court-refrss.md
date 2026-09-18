@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: More details have emerged as a man accused of preparing to sabotage a
   drone factory for Russian intelligence forces appears in court.
 image: https://www.gazetteherald.co.uk/resources/images/21435208.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Police)*

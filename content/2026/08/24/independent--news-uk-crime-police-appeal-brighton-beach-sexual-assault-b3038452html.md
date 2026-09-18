@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T20:44:04Z'
 published: '2026-08-24T00:00:00Z'
 description: Police said the alleged offence took place in the water
 image: https://static.independent.co.uk/2026/08/24/18/48/20260824-brighton-beach-appeal-47260151450.jpg?trim=109,0,431,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have issued a CCTV appeal to trace two men after a teenage girl was “sexually touched” on Brighton beach.

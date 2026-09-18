@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Party with neo-Nazi roots is in line for key ministerial positions if
   rightwing bloc wins the election
 image: https://i.guim.co.uk/img/media/ac057a10bd99664cc4d41efe583008dfed92c1d8/548_0_5330_4264/master/5330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cb55171960df7996a1362f0d2fc2631
+categories:
+- UK
+- News & Politics
 ---
 
 Voting is under way in Sweden in a high-stakes election that could lead to the far-right Sweden Democrats (SD) entering government for the first time.

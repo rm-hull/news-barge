@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Sandra Bullock and Nicole Kidman view “Practical Magic” very differently
   today than they did when they made it 28 years ago
 image: https://static.independent.co.uk/2026/09/07/22/LA_Premiere_of__Practical_Magic_2__24_51.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Sandra Bullock and Nicole Kidman view “Practical Magic” very differently today than they did when they made it 28 years ago.

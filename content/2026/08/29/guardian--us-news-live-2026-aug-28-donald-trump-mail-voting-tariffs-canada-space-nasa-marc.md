@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T06:58:48Z'
 published: '2026-08-29T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/master/2575.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=944d1efd0d62db7527dc36209202999a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump holds models of an arch monument during a ballroom dinner in the East Room at the White House in Washington DC on 15 October 2025. Photograph: Jonathan Ernst/Reuters

@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T20:44:00Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/heslington-house-flats-fulford-place-hospital-fields-road-york-aerial-gsv.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Works are planned to improve fire safety at a block of York flats more than 20 years after it was badly damaged by a blaze.

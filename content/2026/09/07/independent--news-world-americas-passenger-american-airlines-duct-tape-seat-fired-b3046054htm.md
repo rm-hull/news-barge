@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Other passengers claimed Lundeen was using vulgar and bigoted language
   toward the flight crew
 image: https://static.independent.co.uk/2026/09/07/12/29/Screenshot-2026-09-07-at-13-13-59-(3)-copy.jpeg?trim=17,192,547,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man who was allegedly so unruly on a commercial flight that he had to be duct-taped to his seat has been fired from his real estate company.

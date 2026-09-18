@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: First submission cycle for Surfshark's Cybersecurity Advocacy Fund opens
   in September
 image: https://cdn.mos.cms.futurecdn.net/ioiB44h6kTna9zt7qmvW8W-700-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Surfshark's graphic showing a megaphone to symbolize a cybersecurity advocacy fund](https://cdn.mos.cms.futurecdn.net/ioiB44h6kTna9zt7qmvW8W.png) 

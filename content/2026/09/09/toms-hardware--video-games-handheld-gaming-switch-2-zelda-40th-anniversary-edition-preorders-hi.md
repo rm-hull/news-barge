@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T19:15:34Z'
 published: '2026-09-09T00:00:00Z'
 description: Save your rupees and don't pay scalper prices.
 image: https://cdn.mos.cms.futurecdn.net/yMZtJH9oArUtdKJCfVvKXV-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Nintendo Switch 2 The Legend of Zelda 40th Anniversary Edition](https://cdn.mos.cms.futurecdn.net/yMZtJH9oArUtdKJCfVvKXV.jpg) 

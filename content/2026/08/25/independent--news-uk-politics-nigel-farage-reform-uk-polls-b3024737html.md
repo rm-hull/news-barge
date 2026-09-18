@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Peter Hill says Labour still holds the advantage despite Nigel Farage's
   rise in the polls, reports Maja Anushka
 image: https://static.independent.co.uk/2026/08/25/8/30/hero-image-(85).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Nigel Farage's chances of becoming prime minister are being overstated, according to a former Downing Street adviser, who believes the next general election remains "Labour's to lose".

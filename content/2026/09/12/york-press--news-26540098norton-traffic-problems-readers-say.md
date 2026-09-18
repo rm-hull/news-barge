@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: READERS have shared their views on action to tackle traffic chaos that
   has turned a North Yorkshire neighbourhood into a "rat-run."
 image: https://www.yorkpress.co.uk/resources/images/21426182.jpg?type=og-image&xType=0&yType=1079
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Freelancer)*

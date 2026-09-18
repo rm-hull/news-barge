@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The UK has agreed a £662m deal with France to pay for French police to
   stop small boat launches
 image: https://static.independent.co.uk/2026/08/10/13/30/772236011_1070994918704873_7057024088834130507_n-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A new team of 45 officers will be deployed on French beaches in the coming weeks, specifically tasked with stopping “mega dinghy” launches along the coast.

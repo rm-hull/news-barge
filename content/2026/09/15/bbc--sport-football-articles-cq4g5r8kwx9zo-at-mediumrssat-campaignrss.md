@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium
   after England's epic World Cup win against Mexico.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Thomas Tuchel, wearing a dark polo shirt, clenches two fists and grins in celebration](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg)

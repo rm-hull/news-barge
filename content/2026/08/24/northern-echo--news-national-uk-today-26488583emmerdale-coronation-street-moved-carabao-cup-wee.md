@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Emmerdale and Coronation Street won't air as usual on one day this week
   due to ITV1 airing the EFL Carabao Cup match on Tuesday, August 25.
 image: https://www.thenorthernecho.co.uk/resources/images/21360926.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: ITV)*

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Video. A major fire tore through Marseille’s Marché du Soleil, with firefighters
   battling the blaze at the market near Saint-Charles station.
 image: https://images.euronews.com/articles/stories/09/90/97/91/1200x675_cmsv2_3377f51b-ca0f-50c6-855a-f88bf161c8a4-9909791.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A major fire broke out early Thursday at the Marché du Soleil in Marseille, a large market near Saint-Charles station known for selling counterfeit goods.

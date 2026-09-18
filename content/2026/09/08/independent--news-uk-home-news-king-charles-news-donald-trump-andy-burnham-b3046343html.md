@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T12:50:38Z'
 published: '2026-09-08T00:00:00Z'
 description: In the past year, Charles undertook official duties on 164 separate days
 image: https://static.independent.co.uk/2026/09/08/08/2275422283..?trim=107,0,1842,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 King Charles has maintained a prominent public profile throughout the fourth year of his reign, driven by an energetic diary of duties.

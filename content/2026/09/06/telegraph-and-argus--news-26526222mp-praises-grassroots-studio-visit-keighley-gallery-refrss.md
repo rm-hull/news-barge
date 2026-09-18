@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A grassroots art studio has been praised by an MP for its role in championing
   creativity and community.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21416938.jpg?type=og-image&xType=0&yType=898
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Freddie Anderson)*

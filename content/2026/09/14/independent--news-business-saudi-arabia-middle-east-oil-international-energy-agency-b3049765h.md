@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The price of a barrel of Brent crude oil was up by around 3% to 108 US
   dollars (£80) on Monday morning.
 image: https://static.independent.co.uk/2026/04/01/09/01090427-34ba425f-c8c6-4d5f-a6da-a731fe7a576d.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Oil and gas prices have climbed higher after Saudi Arabia shut down a vital oil pipeline in response to a series of drone attacks.

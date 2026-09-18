@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A PIONEERING women-only outdoor wellbeing weekend at Nell Bank has been
   hailed a major success after attracting 100 attendees from across the north…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435638.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Heidi Marfitt)*

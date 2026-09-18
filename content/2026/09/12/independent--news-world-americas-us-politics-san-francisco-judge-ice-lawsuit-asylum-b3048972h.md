@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Lawsuit claims Chloe Dillon was fired for questioning ICE tactics and
   seeking to give a teenage asylum-seeker more time to pursue their case
 image: https://static.independent.co.uk/2026/09/12/02/2285549117..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A San Francisco-based federal immigration judge was fired after she questioned Trump administration legal tactics and resisted a request from Immigration and Customs Enforcement to fast-track the deportation of a teen asylum seeker, a lawsuit claims.

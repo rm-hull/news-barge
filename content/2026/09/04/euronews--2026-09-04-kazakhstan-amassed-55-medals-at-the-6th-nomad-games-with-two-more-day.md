@@ -9,6 +9,10 @@ description: With less than two days to go Kazakhstan stands a good chance to be
   the overall winner of the 6th Nomad Games held in Kyrgyzstan. With 55 medals won
   the largest country of Central Asia is well ahead of the other teams.
 image: https://images.euronews.com/articles/stories/09/90/17/51/1200x675_cmsv2_629bf999-d199-5ab4-80d2-8a03e65840bb-9901751.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## With less than two days to go Kazakhstan stands a good chance to become the overall winner of the 6th Nomad Games held in Kyrgyzstan. With 55 medals won the largest country of Central Asia is well ahead of the other teams.

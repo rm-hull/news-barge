@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Police have released an image of two teenagers they want to speak to
   following a deliberate fire at the former Doctor Browns pub in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21354458.jpg?type=og-image&xType=0&yType=11
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Police have released an image of two teenagers they want to speak to following a deliberate fire at a former Middlesbrough pub.

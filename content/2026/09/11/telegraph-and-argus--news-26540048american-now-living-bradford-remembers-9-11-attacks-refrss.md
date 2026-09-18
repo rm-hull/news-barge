@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T04:29:54Z'
 published: '2026-09-11T00:00:00Z'
 description: The 9/11 terrorist attacks are a horrific memory I will never forget.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21436808.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: UGC)*

@@ -8,6 +8,8 @@ scraped_at: '2026-08-21T13:06:55Z'
 published: '2026-08-21T00:00:00Z'
 description: Could the UK actually ban Meta AI 'pervert glasses' for good?
 image: https://cdn.mos.cms.futurecdn.net/ybeBQ2LJHw4KGcFqAN5fjm-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Mark Zuckerberg wearing a pair of Meta Ray-Ban AI glasses during the Meta Connect event in Menlo Park, California, on Sept. 17, 2025, plus the Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/ybeBQ2LJHw4KGcFqAN5fjm.png) 

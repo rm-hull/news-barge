@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: 'WHILE volunteering at the Hanson Academy Museum, one surname surfaced
   again and again: Symes.'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380339.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 WHILE volunteering at the Hanson Academy Museum, one surname surfaced again and again: Symes.

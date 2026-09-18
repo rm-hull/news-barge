@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The couple were reportedly ‘surprised’ by the memorandum issued by King
   Charles
 image: https://static.independent.co.uk/2026/08/26/13/Britain_Prince_Harry_944_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Harry and Meghan Markle were disappointed by the King’s decision to brand them as private citizens and instead hoped to be known as “public figures”, it has been reported.

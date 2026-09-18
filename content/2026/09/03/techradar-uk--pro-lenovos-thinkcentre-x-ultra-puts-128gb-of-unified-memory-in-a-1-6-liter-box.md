@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Lenovo capped the ThinkCentre X Ultra at 128GB on a chip that supports
   up to 192GB, but you can interlink four of them together
 image: https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![The Lenovo ThinkCentre X Ultra pictured with its LED lighting on display](https://cdn.mos.cms.futurecdn.net/R6LuaJe4a7BAAD7CBMgQUG.jpg) 

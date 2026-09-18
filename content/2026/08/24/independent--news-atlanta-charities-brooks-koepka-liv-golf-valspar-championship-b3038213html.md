@@ -10,6 +10,11 @@ description: Former PGA Tour commissioner Tim Finchem and his wife are donating 
   million to PGA Tour Charities as the tour reshapes its charity strategy amid so
   much attention on profit and earnings
 image: https://static.independent.co.uk/2026/08/24/13/PGA_Tour_Charity_57131.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Ten years after he retired as commissioner, Tim Finchem and his wife are donating $13 million to help launch a new charity strategy at a time when so much emphasis in golf is on profit in the new commercial enterprise of the PGA Tour.

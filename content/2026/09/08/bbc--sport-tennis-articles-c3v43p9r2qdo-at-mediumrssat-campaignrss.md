@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Aryna Sabalenka battles back to beat sixth seed Linda Noskova in three
   sets and advance to the semi-finals.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6342/live/4c500960-abb5-11f1-bb85-fd7540ffe1df.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Aryna Sabalenka, wearing an orange sleeveless dress, stands side on and raises a clenched left fist](https://ichef.bbci.co.uk/ace/standard/986/cpsprodpb/6342/live/4c500960-abb5-11f1-bb85-fd7540ffe1df.jpg)

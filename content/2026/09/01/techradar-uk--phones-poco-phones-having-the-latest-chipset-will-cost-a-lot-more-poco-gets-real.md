@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: In a briefing for the Poco F9 Ultra, Xiaomi sub-brand Poco explained
   why its new flagship phone doesn’t come with a chipset upgrade.
 image: https://cdn.mos.cms.futurecdn.net/WshsojgHQVikdE4xD4L5b8-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Poco F9 Ultra being held in the hand on a yellow background](https://cdn.mos.cms.futurecdn.net/WshsojgHQVikdE4xD4L5b8.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Joshua Cammidge, 31, will appear before a court on Thursday accused of
   two offences under the National Security Act.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32fa/live/68f07c80-ac78-11f1-994b-c7df927931ed.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A policeman wearing a high-visibility jacket with the word police written on the back](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/32fa/live/68f07c80-ac78-11f1-994b-c7df927931ed.jpg)

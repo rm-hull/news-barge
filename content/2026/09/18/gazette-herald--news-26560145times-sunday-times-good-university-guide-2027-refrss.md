@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The Times and Sunday Times published its Good University Guide 2027 today
   (Friday, September 18).
 image: https://www.gazetteherald.co.uk/resources/images/10209672.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 YORK's two major higher education institutions have been ranked in both regional and national tables of a university guide now in its 33rd year.

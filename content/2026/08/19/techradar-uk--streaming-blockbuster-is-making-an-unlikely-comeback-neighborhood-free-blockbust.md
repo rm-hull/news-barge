@@ -10,6 +10,9 @@ published: '2026-08-19T00:00:00Z'
 description: The Blockbuster brand is now dormant, but its aesthetics are back for
   both physical media and streaming.
 image: https://cdn.mos.cms.futurecdn.net/YchM3KNLiELDvYYMgDaGDE-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A Free Blockbuster library box next to a screenshot of the virtual video store BingeBrowse](https://cdn.mos.cms.futurecdn.net/YchM3KNLiELDvYYMgDaGDE.jpg) 

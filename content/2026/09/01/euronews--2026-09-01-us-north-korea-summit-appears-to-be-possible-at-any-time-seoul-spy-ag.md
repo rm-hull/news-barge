@@ -9,6 +9,11 @@ description: Trump met Kim three times during his first term, once declaring the
   were "in love," in high-profile summits aimed at securing a denuclearisation deal,
   but no tangible progress was made.
 image: https://images.euronews.com/articles/stories/09/89/67/12/1200x675_cmsv2_dd50b6de-eb6d-593e-bbf9-2a3344fecfa5-9896712.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## Trump met Kim three times during his first term, once declaring they were "in love," in high-profile summits aimed at securing a denuclearisation deal, but no tangible progress was made.

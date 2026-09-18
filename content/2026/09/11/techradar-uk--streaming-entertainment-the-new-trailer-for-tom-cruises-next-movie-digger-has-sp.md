@@ -10,6 +10,10 @@ published: '2026-09-11T00:00:00Z'
 description: An unusual new theory about Tom Cruise's forthcoming black comedy film
   has divided the internet.
 image: https://cdn.mos.cms.futurecdn.net/tgr8gky2wzrRagRMG7TAK7-1920-80.jpg
+categories:
+- Technology & Software
+- Comedy & Entertainment
+- Film & TV
 ---
 
 ![Tom Cruise's Digger Rockwell and Riz Ahmed's Ganesh looking down into the camera in Digger](https://cdn.mos.cms.futurecdn.net/tgr8gky2wzrRagRMG7TAK7.jpg) 

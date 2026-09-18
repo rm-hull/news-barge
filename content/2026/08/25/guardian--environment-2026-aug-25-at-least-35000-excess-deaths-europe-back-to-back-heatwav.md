@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Figure only covers about half of continent and does not include August
   totals
 image: https://i.guim.co.uk/img/media/2891e6ab0092b67db39326b3f6d122e2340d62fa/654_0_6015_4814/master/6015.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=183c802c4a15a014ef8240b96134e5e9
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 At least 35,000 more people died during Europe’s four record-breaking, back-to-back heatwaves this summer than would normally be expected, according to incomplete figures from barely half the continent.

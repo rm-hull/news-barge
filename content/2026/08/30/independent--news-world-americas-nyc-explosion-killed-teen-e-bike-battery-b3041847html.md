@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T19:18:06Z'
 published: '2026-08-30T00:00:00Z'
 description: The explosion set the building on fire
 image: https://static.independent.co.uk/2026/08/30/17/46/NYCHA-Albany-house-Brooklyn.png?trim=13,0,14,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 An explosion at a New York City housing authority building that left a teenager dead and set the building on fire over the weekend was linked to an e-bike’s lithium-ion battery, according to a report.

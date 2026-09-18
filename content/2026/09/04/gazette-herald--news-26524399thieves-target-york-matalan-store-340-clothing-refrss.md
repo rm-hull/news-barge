@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire Police said three people entered the Matalan in Clifton
   Moor at about 1.30pm on Tuesday, August 4th, put £340 of clothing into a…
 image: https://www.gazetteherald.co.uk/resources/images/21413899.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: North Yorkshire Police)*

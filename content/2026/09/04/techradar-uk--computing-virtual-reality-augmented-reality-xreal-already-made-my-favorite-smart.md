@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: I test smart glasses for a living, and the RayNeo GT Max could be the
   best I’ve seen in 2026 so far for one important reason.
 image: https://cdn.mos.cms.futurecdn.net/JZTUbG9xrw6xjPGDC2eAaU-2000-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Hamish wearing the Xreal Aura glasses](https://cdn.mos.cms.futurecdn.net/JZTUbG9xrw6xjPGDC2eAaU.png) 

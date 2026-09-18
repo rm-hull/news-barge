@@ -10,6 +10,10 @@ description: A fundraising appeal has been launched to help re-build a much-love
   cricket pavilion at Studley Royal in Ripon after it was destroyed in a devastating
   fire that has left the local cricket community heartbroken.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRiMWRlNGIzLWZmNDktNGIyNS05NGQxLTA5Y2E0MzM0ZGI4MDpkZThmNzFhNS1lMTRhLTQ3OTctOTdkOS05ZjU3YmRlMDVlYmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # 'Together, we can do this': Fundraising appeal launched to rebuild beloved Studley Royal Cricket Club pavilion after devastating fire

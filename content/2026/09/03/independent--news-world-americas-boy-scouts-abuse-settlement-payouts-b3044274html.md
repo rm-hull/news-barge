@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T19:17:41Z'
 published: '2026-09-03T00:00:00Z'
 description: The Boy Scouts of America filed for Chapter 11 bankruptcy in 2024
 image: https://static.independent.co.uk/2026/09/03/15/06/GettyImages-160661158.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Survivors of abuse who successfully sued the Boy Scouts and are seeking compensation from a bankruptcy trust have been disappointed with the payouts they've been receiving.

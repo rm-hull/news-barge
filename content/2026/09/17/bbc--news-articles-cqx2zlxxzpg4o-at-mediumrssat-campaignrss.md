@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The writer and actress announced the birth of her daughter in an op-ed
   published by Vogue on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0114/live/d64e0be0-b221-11f1-b3fd-69f13ae092e7.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Luis Felber and Lena Dunham attend "Storytellers: Lena Dunham with Michelle Buteau" during the 2025 Tribeca Festival at Spring Studios on June 14, 2025 in New York City.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/0114/live/d64e0be0-b221-11f1-b3fd-69f13ae092e7.jpg)

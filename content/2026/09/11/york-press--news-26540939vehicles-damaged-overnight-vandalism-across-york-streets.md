@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police said cars and vans were vandalised overnight between
   September 6 and 7 in The Groves area of York.
 image: https://www.yorkpress.co.uk/resources/images/20490747.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Travel
 ---
 
 *(Image: Alice Kavanagh)*

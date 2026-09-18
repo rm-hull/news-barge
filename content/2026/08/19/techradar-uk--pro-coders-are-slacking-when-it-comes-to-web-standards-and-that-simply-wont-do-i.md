@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T21:32:53Z'
 published: '2026-08-19T00:00:00Z'
 description: Web standards — remember them?
 image: https://cdn.mos.cms.futurecdn.net/DVYr26EgcJb68CRrjxuAW4-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hacker with malware code in computer screen. Cybersecurity, privacy or cyber attack. Programmer or fraud criminal writing virus software. Online firewall and privacy crime. Web data engineer](https://cdn.mos.cms.futurecdn.net/DVYr26EgcJb68CRrjxuAW4.jpg) 

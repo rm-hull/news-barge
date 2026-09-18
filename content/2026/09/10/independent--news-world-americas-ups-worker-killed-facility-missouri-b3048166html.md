@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Paul Roberts had worked for UPS since he was 18 years old, his sister
   said
 image: https://static.independent.co.uk/2026/08/13/15/26/GettyImages-2267714258.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A longtime UPS worker was fatally struck by a vehicle at a UPS facility in Missouri last week — less than two weeks before he planned to retire from the job after 44 years.

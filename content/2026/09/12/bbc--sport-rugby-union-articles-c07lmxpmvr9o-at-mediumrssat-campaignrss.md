@@ -9,6 +9,10 @@ description: South Africa complete a 3-1 series win over New Zealand as the worl
   champions' consistency, power and cohesion proves too much in the fourth Test in
   Baltimore.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae03/live/38959ac0-af02-11f1-af5c-49f655b484f8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![South Africa captain Siya Kolisi applauds fans in Baltimore after the Springboks' win over New Zealand](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ae03/live/38959ac0-af02-11f1-af5c-49f655b484f8.jpg)

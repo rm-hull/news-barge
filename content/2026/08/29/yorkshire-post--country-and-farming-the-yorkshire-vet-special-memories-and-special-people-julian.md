@@ -15,6 +15,11 @@ description: A few weeks ago, I was back in Cambridge. The main reason was to at
   I was very grateful that Mary De St Pol decided to found this college, for it afforded
   me a home for my six years at Cambridge while I studied to become a vet.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ5OTIzNzE4LWIzYjAtNDFhZS1iZmE1LTFmZjg5MmQwNjI2NDphZjZiZTllZC1mNGZjLTRkYWMtYjljNC04OTkzY2Q3MGQ4YjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # The Yorkshire Vet: Special memories and special people - Julian Norton

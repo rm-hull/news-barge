@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Lindsay Clancy killed the couple’s three young children at their Massachusetts
   home in 2023
 image: https://static.the-independent.com/2026/09/17/16/32/Patrick-Clancy-and-his-wife-Dr--Rachel-Danis.png?trim=0,356,0,105&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Patrick Clancy has revealed he speaks to his dead children "all the time,” in an emotional interview with *60 Minutes* this coming Sunday where he will be joined by new wife.

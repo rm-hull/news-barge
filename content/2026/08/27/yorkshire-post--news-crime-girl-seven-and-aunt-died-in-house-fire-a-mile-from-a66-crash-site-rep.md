@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: A seven-year-old girl and her aunt died in a house fire less than a mile
   from the site of a crash on the A66 which killed seven people, according to reports.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/11/12/01M0YVQJ7M7DSF5SN35PM4MJHS.jpeg?trim=928,1723,798,669&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- True Crime
 ---
 
 # Girl, seven, and aunt died in house fire a mile from A66 crash site – reports

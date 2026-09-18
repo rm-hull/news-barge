@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The 2025 coin, featuring King Charles III on the front and a bee design
   on the reverse, was sold for £122.08
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406494.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images/iStockphoto)*

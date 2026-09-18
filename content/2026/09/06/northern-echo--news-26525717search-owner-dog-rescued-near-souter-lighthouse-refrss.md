@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A search is under way for the owner of a dog after it was rescued from
   the base of a cliff near Souter Lighthouse.
 image: https://www.thenorthernecho.co.uk/resources/images/21416114.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 A search is underway for the owner of a dog rescued from the foot of a cliff on a North East beach.

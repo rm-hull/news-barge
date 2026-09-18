@@ -11,6 +11,11 @@ published: '2026-08-27T00:00:00Z'
 description: 'Asobo Studio used A Plague Tale: Requiem''s music while motion-capturing
   Resonance: A Plague Tale Legacy, so the cast could get in the mood for darker scenes.'
 image: https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk-1280-80.jpg
+categories:
+- Technology & Software
+- Music
+- Arts & Culture
+- Film & TV
 ---
 
 ![A screenshot from Resonance: A Plague Tale](https://cdn.mos.cms.futurecdn.net/6mZnEp48vfbpKbexSm6qkk.jpg) 

@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: The Voice UK is finally back for 2026, but who are the judges on the
   show for its latest series?
 image: https://www.gazetteherald.co.uk/resources/images/21358505.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Sports
 ---
 
 *(Image: ITV)*

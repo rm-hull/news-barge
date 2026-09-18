@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: In May, Honda abandoned its long-term electric vehicle sales targets,
   which included a goal to have EVs represent 20% of its new car sales by 2030
 image: https://static.independent.co.uk/2026/08/19/12/52/AP26226506384551.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Automotive
 ---
 
 Plans for an eighth assembly plant in North America could be shelved by Honda unless a crucial regional trade agreement is extended, according to a top executive at the Japanese vehicle manufacturer.

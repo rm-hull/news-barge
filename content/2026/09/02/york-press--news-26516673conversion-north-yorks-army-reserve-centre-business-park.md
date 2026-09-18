@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: THE conversion of a North Yorkshire army reserve centre into a business
   park has been officially approved by the council.The former Territorial…
 image: https://www.yorkpress.co.uk/resources/images/21403004.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Green light for conversion of former Army Centre into business park

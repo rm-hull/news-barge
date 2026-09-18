@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Tributes have been paid Steve Matheson, who was on the water with a childhood
   friend near Tampa Bay when a sudden storm approached
 image: https://static.independent.co.uk/2026/09/01/14/00/mathesonfamily.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A father-of-four has died after he was fatally struck by lightning while jet skiing in Florida.

@@ -9,6 +9,10 @@ scraped_at: '2026-09-05T18:12:29Z'
 published: '2026-09-05T00:00:00Z'
 description: VPA IRL showed up at QuakeCon last month, as well.
 image: https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![GPU prices for current-gen Nvidia and AMD](https://cdn.mos.cms.futurecdn.net/YFFrf4eYE3Q6QpkEfGBua5.jpg) 

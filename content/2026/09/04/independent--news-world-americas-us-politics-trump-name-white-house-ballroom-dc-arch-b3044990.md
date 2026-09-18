@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: The president thinks his name ‘should’ be on the White House ballroom
   as he speedruns through legacy-defining construction projects
 image: https://static.independent.co.uk/2026/08/07/15/11/GettyImages-2242296293-(1).jpg?trim=0,20,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump is hoping a massive ballroom and military installation on the White House grounds will one day bear his name as he speedruns through several multi-million dollar construction projects across the nation’s capital to secure his presidential legacy.

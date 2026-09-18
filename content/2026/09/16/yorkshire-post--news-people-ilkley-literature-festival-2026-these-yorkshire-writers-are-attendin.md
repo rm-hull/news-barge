@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: From Simon Armitage to Kate Atkinson, there is a famous list of Yorkshire-born
   creatives performing at Ilkley Literature Festival.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUyYjUzYTAwLThlZGQtNGM1Ny1hNGE1LWYwZDk0MmI4MmRkNjplODhiOThiMi03ZDY3LTRkMGQtOWU4ZS02Y2EyNjIxMmMxNTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Ilkley Literature Festival 2026: These Yorkshire writers are attending the event

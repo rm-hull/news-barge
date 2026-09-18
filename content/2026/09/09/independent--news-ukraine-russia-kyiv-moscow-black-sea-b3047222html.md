@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Ukrainian President Volodymyr Zelenskyy is criticizing the international
   community for not taking a tougher stance against Russia's attacks on civilian areas
 image: https://static.independent.co.uk/2026/09/09/11/APTOPIX_Russia_Ukraine_War_83867.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Ukrainian President Volodymyr Zelenskyy chided the international community Wednesday for not taking a tougher stance against Russia over its escalating bombardment of civilian areas of Ukraine.

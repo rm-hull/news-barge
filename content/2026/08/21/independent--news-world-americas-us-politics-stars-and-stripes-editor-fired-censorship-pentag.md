@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The publisher of the military newspaper announced his retirement earlier
   this week but also received a separation notice, the editor-in-chief says
 image: https://static.independent.co.uk/2026/07/01/18/2189090619..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The editor-in-chief of *Stars and Stripes* says he’s been fired by the Pentagon, along with the publisher and a reporter, after he spoke out against censorship. 

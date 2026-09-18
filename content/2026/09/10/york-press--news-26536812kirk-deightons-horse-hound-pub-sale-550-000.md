@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T04:30:37Z'
 published: '2026-09-10T00:00:00Z'
 description: A pub in Kirk Deighton is up for sale at £550,000.
 image: https://www.yorkpress.co.uk/resources/images/21432372.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Popular North Yorkshire village pub for sale as a £550,000 investment

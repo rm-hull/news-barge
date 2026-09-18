@@ -9,6 +9,10 @@ description: ‘I deported people to 180 countries last year, so I don't care if
   from Asia, you're from Europe, or you're from other countries,’ border czar Tom
   Homan says
 image: https://static.independent.co.uk/2026/07/23/16/2286928416..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 President Donald Trump's border czar offered a stunning denial Saturday to the claim that immigration officials engage in racial profiling — by calling himself “an equal opportunity deporter.”

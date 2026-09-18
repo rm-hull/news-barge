@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Trump administration maintains the U.S. food supply is safe, even
   though officials still don’t know what’s causing several outbreaks
 image: https://static.independent.co.uk/2026/08/18/17/2188720794..?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Untraced outbreaks of the “explosive diarrhea” illness cyclosporiasis are still on the rise, even as the Trump administration says nationwide spread has been “contained.”  

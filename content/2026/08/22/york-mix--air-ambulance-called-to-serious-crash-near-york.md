@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T12:56:52Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/yorkshire-air-ambulance-york-august-2026-1.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 There’s been a serious crash near York this morning (Saturday).

@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T12:48:34Z'
 published: '2026-09-03T00:00:00Z'
 description: Actor and SAG-AFTRA president praised Trump’s ‘vocal and determined leadership’
 image: https://static.the-independent.com/2026/07/27/09/2264347909..?trim=168,679,807,514&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s call for a federal incentive to bring film and television production back to the United States won support Tuesday from three major unions representing Southern California entertainment workers.

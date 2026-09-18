@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Cleveland Police said they ‘cannot rule out any links to wider organised
   crime at this time’
 image: https://static.independent.co.uk/2026/08/26/12/01M0YVQJ7M7DSF5SN35PM4MJHS.jpg?trim=73,0,73,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A murder investigation has been launched after two people died in a house fire in Grangetown near Middlesbrough.

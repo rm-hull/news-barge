@@ -10,6 +10,11 @@ description: City of York Council’s Executive will meet on Wednesday 9 Septemb
   to consider the recommendations of an independent review into community car parks
   and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Paying-for-Council-car-parking_cropped.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 City of York Council’s Executive will meet on Wednesday 9 September 2026 to consider the recommendations of an independent review into community car parks and on-street parking charges, following sustained pressure from local traders and residents.

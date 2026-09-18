@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: 'Exclusive: Dr Will Tullett says better understanding of scents can improve
   wellbeing and perception of the world'
 image: https://i.guim.co.uk/img/media/9e1156d92ff3a8e109c3a63186a72c45ed0261ab/1254_244_3967_3174/master/3967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b78ab26221012ab64be375054416a5f
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Children need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them.

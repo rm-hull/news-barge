@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The group said UK and Ireland like-for-like sales growth jumped to 6%
   in the 17 weeks since its May 2 year-end.
 image: https://static.independent.co.uk/2026/09/10/09/65cc426c08f46506a1fe78b2ef295febY29udGVudHNlYXJjaGFwaSwxNzg5MTE0MTYz-2.78422763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Electricals chain Currys has revealed a jump in UK sales growth over the summer as World Cup fever and heatwaves helped offset a flagging wider market.

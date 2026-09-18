@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Brown believes it is a ‘critical moment’ in the war between Ukraine and
   Russia
 image: https://static.independent.co.uk/2026/08/28/14/08262193666b2ef51baebba1807bbe6bY29udGVudHNlYXJjaGFwaSwxNzg4MDA4NTky-2.85675138.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ukraine is facing its "worst winter" since the conflict with Russia began, Gordon Brown has warned, urging Britain and allies to press Donald Trump to bolster support for the nation.

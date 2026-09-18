@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Razer PC peripherals, mobile controllers, and a bag for the ROG Xbox
   Ally make up the licensed lineup.
 image: https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh-1536-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Xbox marks 25 years with a translucent green accessory line, but none of it is Xbox hardware](https://cdn.mos.cms.futurecdn.net/GKhBbdqqZH3ZQa8xFuuvUh.jpg) 

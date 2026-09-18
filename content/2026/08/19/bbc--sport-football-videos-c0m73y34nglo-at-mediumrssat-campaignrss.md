@@ -9,6 +9,11 @@ description: Celtic take a huge step towards the Champions League as two stunnin
   Camilo Duran strikes help carve out a commanding first-leg play-off lead against
   LASK.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8fea/live/91b7b210-9c14-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 # Duran stars as Celtic ease to comfortable win over LASK

@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Helena Foulkes beats incumbent Dan McKee after criticizing handling of
   Providence’s Washington bridge, now expected to be completed in 2028
 image: https://i.guim.co.uk/img/media/edf9803cbf6e6c2780e773b619bcda95fda3c1df/1306_344_6395_5119/master/6395.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4958ef57922d97ba8d35fe74a189aa20
+categories:
+- UK
+- News & Politics
 ---
 
 Rhode Island’s Dan McKee became the first sitting governor to lose a primary in nearly a decade, bested not by a more progressive challenger or a more youthful upset but by frustration over a bridge.

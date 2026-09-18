@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: I confess to being shocked and sad, when I heard the news about the death
   of Dolly Parton. It wasn’t just the music, memorable as it is.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGI3YWQwLWQyZmItNDhkZi1iOGMxLWUyM2NiYmJiNzAyYjpiZjVlYjIwMC03YzE5LTRmOGItOTgyYS0xYjk1ZDQ3ZDE1MzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- Family & Parenting
+- Music
 ---
 
 # OPINION: Dolly’s childhood in poverty inspired scheme that helped millions of our children

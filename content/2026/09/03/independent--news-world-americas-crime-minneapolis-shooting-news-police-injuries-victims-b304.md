@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Two police officers were also struck during the shooting in the Loring
   Park neighborhood.
 image: https://static.the-independent.com/2026/09/02/23/33/SEI310452210.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two people were killed and six wounded, including three police officers, in a shooting in a downtown Minneapolis apartment building.

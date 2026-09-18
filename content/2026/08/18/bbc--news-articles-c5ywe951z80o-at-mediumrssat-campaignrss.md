@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: The former heavyweight boxing champion shares a child with the Heroes
   actress, who died on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Actress Hayden Panettiere (left) and Wladimir Klitschko attend the World Music Awards 2010 in Monte Carlo, Monaco](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a08e/live/b953e5a0-9ad9-11f1-b2f7-5d1639b20e22.jpg)

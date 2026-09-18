@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Please explain any changes.Can you NOT put every new sentence as a new
   paragraph?
 image: https://www.thenorthernecho.co.uk/resources/images/20711442.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NORTH NEWS AND PICTURES)*

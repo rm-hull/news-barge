@@ -9,6 +9,11 @@ description: 'Every GCSE results day, we ask why some parts of England outperfor
   others. Yet after decades of reform, one uncomfortable truth remains: England’s
   attainment map still looks remarkably like its poverty map.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2ZjgyNTVkLWY2MzMtNGQ2ZS04ZjQ0LWZhYWM2N2I4NTkxMzozYzYyY2EzZS0zN2VkLTQ4NDItOTk2Ni01N2ZjOWVjOWNmNzQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Why we must look beyond school to help pupils - Raksha Pattni

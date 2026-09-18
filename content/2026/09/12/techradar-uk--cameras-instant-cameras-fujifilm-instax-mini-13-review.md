@@ -10,6 +10,9 @@ description: The Instax Mini 13 is Fujifilm's 2026 update to its entry-level ins
   camera series, offering a fresh look, useful self-timer feature, and a handy angle
   adjuster on the strap.
 image: https://cdn.mos.cms.futurecdn.net/EWihn9KtgNWc9r4TXso7DR-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

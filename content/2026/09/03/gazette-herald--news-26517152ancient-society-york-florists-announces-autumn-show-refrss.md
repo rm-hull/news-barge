@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: The Ancient Society of York Florists will host the event on Saturday,
   12 September, at Wigginton Recreation Hall.
 image: https://www.gazetteherald.co.uk/resources/images/21403708.jpg?type=og-image&xType=1073&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Society & Culture
 ---
 
 *(Image: The Ancient Society of York Florists)*

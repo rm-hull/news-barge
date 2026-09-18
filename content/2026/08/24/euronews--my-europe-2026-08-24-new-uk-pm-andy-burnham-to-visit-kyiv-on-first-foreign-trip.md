@@ -9,6 +9,11 @@ description: 'UK Prime Minister Andy Burnham will co-chair the meeting of the so
   Coalition of the Willing in Kyiv on Monday, along with French President Emmanuel
   Macron and German Chancellor Friedrich Merz. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/55/16/1200x675_cmsv2_066a93e1-0f33-5ff0-806e-4c22d3aaba01-9885516.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 ## UK Prime Minister Andy Burnham will co-chair the meeting of the so-called Coalition of the Willing in Kyiv on Monday, along with French President Emmanuel Macron and German Chancellor Friedrich Merz.

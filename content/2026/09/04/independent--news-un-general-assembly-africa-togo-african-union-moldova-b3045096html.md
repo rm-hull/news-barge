@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The United Nations General Assembly has voted to endorse a new world
   map that shows Africa's large size more accurately
 image: https://static.independent.co.uk/2026/09/05/00/UN_Africa_Map_975_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The United Nations General Assembly on Friday endorsed a new world map that represents Africa more accurately in its larger size, a culmination of a recent campaign led by African countries and advocacy groups.

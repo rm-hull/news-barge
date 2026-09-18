@@ -9,6 +9,10 @@ description: A recent rule passed by the NCAA has resulted in confusion, lawsuit
   and the once-unthinkable notion of players leaving college, signing with NFL teams,
   and now leaving those teams to head back to college
 image: https://static.independent.co.uk/2026/08/24/22/Green_Bay_Steelers_Football_85_8_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 These used to be among the fundamental facts about going to college in America: College lasts four years. And though that timeline had been flexible when it comes to sports, there was never much debate over the notion that once a player moved on to the pros their days as a college athlete were over.

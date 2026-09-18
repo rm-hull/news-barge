@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:17Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/carla-finney-and-frederick-finney-cyc-court.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Members of rogue builders gang which targeted multiple victims – including a widow in her 70s – have been sentenced.

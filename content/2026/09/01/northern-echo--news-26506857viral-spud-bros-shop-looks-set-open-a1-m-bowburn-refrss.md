@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A job advert has revealed that TikTok sensation Spud Bros is set to open
   a new store just off the A1(M) in Bowburn, near Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/20693034.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

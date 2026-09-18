@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T04:30:12Z'
 published: '2026-09-10T00:00:00Z'
 description: Republicans have reportedly expressed doubts that plan will move forward
 image: https://static.independent.co.uk/2026/09/10/09/2294430499..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Top Republicans were reportedly not given any warning that President Donald Trump would propose sending $5,000 checks to Americans after the midterms, a plan they reportedly have doubts will ever become reality.

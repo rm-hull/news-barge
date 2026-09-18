@@ -9,6 +9,8 @@ published: '2026-08-29T00:00:00Z'
 description: I caught up with Samsung's Jeremy Demont and Pepe Distra at Gamescom
   2026 to talk through the 2027 Odyssey range.
 image: https://cdn.mos.cms.futurecdn.net/AykeKsm3in9S2G92F9bJNA-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Man holding gamepad and playing RPG](https://cdn.mos.cms.futurecdn.net/AykeKsm3in9S2G92F9bJNA.jpg) 

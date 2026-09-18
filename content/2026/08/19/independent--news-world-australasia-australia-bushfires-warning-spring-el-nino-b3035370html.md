@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Dry conditions in the east and heavy fuel loads across central and northern
   Australia are driving the picture, the council said
 image: https://static.independent.co.uk/2026/08/19/05/2289897046..?trim=0,128,0,128&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Australia is facing a heightened risk of bushfire in almost every state and territory this spring, the country’s fire authorities have warned, as an El Nino dries out the east of the country.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A woman has been taken to hospital after being knocked unconscious from
   a fallen tree branch along a main road in Beverley.
 image: https://www.yorkpress.co.uk/resources/images/21366147.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

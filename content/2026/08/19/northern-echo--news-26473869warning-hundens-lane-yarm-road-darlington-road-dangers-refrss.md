@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A councillor has warned that it's "only a matter of time until someone
   is killed" at a Darlington junction where off-road bikers in…
 image: https://www.thenorthernecho.co.uk/resources/images/21337581.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A councillor has warned that it's "only a matter of time until someone is killed" at a Darlington junction where he says balaclava-clad bikers cause chaos.

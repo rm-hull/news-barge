@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: North Yorkshire Council bought Resolution House in Scarborough and is
   moving staff from other sites.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fb3/live/12d29750-a766-11f1-8888-832c5829c86c.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![A large round council building with a large car park surrounded by green spaces and trees](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/9fb3/live/12d29750-a766-11f1-8888-832c5829c86c.jpg)

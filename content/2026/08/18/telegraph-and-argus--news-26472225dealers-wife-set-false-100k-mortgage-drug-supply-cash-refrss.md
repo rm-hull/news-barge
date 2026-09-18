@@ -8,6 +8,13 @@ published: '2026-08-18T00:00:00Z'
 description: A court has heard how the wife of a convicted drug dealer set up a false
   £100,000 mortgage using cash from drug supply.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19321595.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Real Estate
 ---
 
 *(Image: West Yorkshire Police)*

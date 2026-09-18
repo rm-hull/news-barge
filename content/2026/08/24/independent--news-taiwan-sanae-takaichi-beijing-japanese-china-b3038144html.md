@@ -10,6 +10,10 @@ description: Lawmakers from Japan have traveled to Beijing to meet with Chinese 
   in the first visit since tensions rose after Prime Minister Sanae Takaichi's comment
   on Taiwan angered China
 image: null
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A cross-party group of Japanese lawmakers headed to Beijing on Monday seeking to mend strained ties following Prime Minister Sanae Takaichi’s comment on Taiwan that angered China and led to tensions that have spilled over into the economy.

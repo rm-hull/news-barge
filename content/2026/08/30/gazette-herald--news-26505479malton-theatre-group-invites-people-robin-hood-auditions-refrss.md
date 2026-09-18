@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: The Malton and Norton Theatre Group has announced auditions for its new
   pantomime production of Robin Hood.
 image: https://www.gazetteherald.co.uk/resources/images/21386371.jpg?type=og-image&xType=0&yType=96
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 *(Image: Malton and Norton Theatre Group)*

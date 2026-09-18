@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Video. Nepal Army images show two hydropower workers rescued alive after
   nine days trapped inside a flood-buried tunnel in Rasuwa.
 image: https://images.euronews.com/articles/stories/09/90/08/88/1200x675_cmsv2_036c5251-19aa-5d44-87f4-6689ec3e35ff-9900888.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Nepal Army handout images show the rescue of two hydropower workers who survived for nine days inside a tunnel buried by mud and debris after devastating floods swept through the country’s Trishuli Valley.

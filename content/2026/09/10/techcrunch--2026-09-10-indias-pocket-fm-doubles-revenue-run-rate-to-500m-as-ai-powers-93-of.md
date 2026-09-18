@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Pocket FM uses AI to produce 99% of its new content, helping make content
   production about 80 times cheaper.
 image: https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Creator Economy & Marketing
+- Business & Entrepreneurship
 ---
 
 Pocket FM, an Indian audio storytelling platform, has doubled its annualized revenue run rate to $500 million over the past year as it increasingly turns to artificial intelligence to produce its content.

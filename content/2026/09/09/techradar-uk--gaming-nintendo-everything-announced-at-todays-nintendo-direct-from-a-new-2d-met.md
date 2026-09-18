@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T19:15:44Z'
 published: '2026-09-09T00:00:00Z'
 description: Everything announced at the November 9, 2026, Nintendo Direct.
 image: https://cdn.mos.cms.futurecdn.net/sKspbBqFfNwy2af2Btoqyi-2560-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The next Metroid game.](https://cdn.mos.cms.futurecdn.net/sKspbBqFfNwy2af2Btoqyi.png) 

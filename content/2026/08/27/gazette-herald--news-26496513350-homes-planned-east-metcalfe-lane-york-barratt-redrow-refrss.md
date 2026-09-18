@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Plans for a major new housing development from Barratt Redrow are moving
   forward on the edge of York.
 image: https://www.gazetteherald.co.uk/resources/images/21373131.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Pic supplied)*

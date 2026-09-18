@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Carl Robert Minto, 33, of Langhurst in Sunderland, has been charged after
   a 'stab attack' left another man with 'serious…
 image: https://www.thenorthernecho.co.uk/resources/images/13768454.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SUBMITTED)*

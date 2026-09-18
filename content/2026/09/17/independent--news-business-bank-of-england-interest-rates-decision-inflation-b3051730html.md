@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: This would mark the sixth consecutive occasion the Monetary Policy Committee
   has chosen to freeze rates
 image: https://static.independent.co.uk/2025/06/19/12/40/iStock-1394239178.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Bank of England is anticipated to maintain interest rates at 3.75%, though economists caution that rising inflation is increasing pressure for a rate rise.

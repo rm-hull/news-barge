@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Far-right German party’s newly elected representatives face fresh scrutiny
   as it tries to form government in Saxony-Anhalt
 image: https://i.guim.co.uk/img/media/5749d7ec9d0bcc6b9a3b96761a8435e16820a9b9/2284_778_2642_2114/master/2642.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b212ba656c827dda247251d289f186af
+categories:
+- UK
+- News & Politics
 ---
 
 The Alternative für Deutschland is facing scrutiny over the suitability of some of its prospective new MPs – including a former Stasi officer and a former pornography actor – just days after its historic win in the German state of Saxony-Anhalt.

@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: Five new features are rolling out across various Android services, including
   Google Messages, Gemini Live, and more.
 image: https://cdn.mos.cms.futurecdn.net/ycAgU6Md4TjW6QecczYgZn-1937-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Motion Assist](https://cdn.mos.cms.futurecdn.net/ycAgU6Md4TjW6QecczYgZn.jpg) 

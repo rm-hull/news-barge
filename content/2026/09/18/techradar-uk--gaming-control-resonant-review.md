@@ -7,6 +7,8 @@ scraped_at: '2026-09-18T19:02:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Control Resonant goes big with a reality-defying New York.
 image: https://cdn.mos.cms.futurecdn.net/P6W39ycnTknNJyhtpCKXHa-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

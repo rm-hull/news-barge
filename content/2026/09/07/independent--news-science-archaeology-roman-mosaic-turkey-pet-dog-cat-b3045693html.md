@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:10Z'
 published: '2026-09-07T00:00:00Z'
 description: Cat’s name likely hints at villa owner’s link to North Africa
 image: https://static.independent.co.uk/2026/09/07/4/24/Colourful-floor-mosaic-in-Roman-era-villa-at-Adramytteion.png?trim=0,13,0,13&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
 ---
 
 Unique mosaic engravings unearthed at the ruins of a Roman-era villa in Turkey could be memorialising its rich owner’s beloved pet dog “Ocean” and cat “Emerald”, archaeologists say.

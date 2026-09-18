@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: FROM a wealth of immaculately presented accommodation that combines original
   Victorian features with a contemporary aesthetic to grounds that extend…
 image: https://www.thenorthernecho.co.uk/resources/images/21380033.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 FROM a wealth of immaculately presented accommodation that combines original Victorian features with a contemporary aesthetic to grounds that extend to approximately 1.8 acres and a location from where its elevated position means it enjoys spectacular and far-reaching views over Barnard Castle and the countryside beyond, East House has plenty to appeal to buyers who are in the market for a home that stands out from the crowd.

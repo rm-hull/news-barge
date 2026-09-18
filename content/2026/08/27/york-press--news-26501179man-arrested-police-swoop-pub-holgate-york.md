@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A man has been arrested after police swooped on the Fox pub in Holgate,
   York.
 image: https://www.yorkpress.co.uk/resources/images/21380518.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Anttoni James Numminen)*

@@ -7,6 +7,8 @@ scraped_at: '2026-08-27T12:01:17Z'
 published: '2026-08-27T00:00:00Z'
 description: ChatGPT’s plugin directory is growing, and these are my favorites
 image: https://cdn.mos.cms.futurecdn.net/TpMDb544qbMe84XyqqCADh-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Spotify ChatGPT](https://cdn.mos.cms.futurecdn.net/TpMDb544qbMe84XyqqCADh.png) 

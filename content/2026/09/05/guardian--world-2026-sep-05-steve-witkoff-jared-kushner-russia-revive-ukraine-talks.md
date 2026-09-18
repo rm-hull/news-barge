@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: US envoys expected to meet Vladimir Putin before going to Kyiv, after
   peace efforts floundered in recent months
 image: https://i.guim.co.uk/img/media/9635fdcc3219b058c16a65ef0c5ed078c38b14cd/101_343_788_630/master/788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4cf1f2047b458459256e369a99457ad3
+categories:
+- UK
+- News & Politics
 ---
 
 The US envoys Steve Witkoff and Jared Kushner have arrived in Moscow to try to resuscitate a deal to end Russia’s invasion of Ukraine, as both sides said they would halt airstrikes for the visit.

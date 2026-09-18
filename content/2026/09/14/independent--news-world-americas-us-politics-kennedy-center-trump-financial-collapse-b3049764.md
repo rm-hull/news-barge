@@ -10,6 +10,9 @@ description: Performing arts venue embroiled in legal battle over President Dona
   Trump’s efforts to have his name added to its exterior ahead of planned closure
   to allow for costly renovations
 image: https://static.independent.co.uk/2026/08/11/20/44/GettyImages-2279557870.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The John F Kennedy Memorial Center for the Performing Arts in Washington, D.C., is facing “certain fiscal collapse” in a matter of weeks if President Donald Trump’s name is not restored to the front of the building, according to its leadership.

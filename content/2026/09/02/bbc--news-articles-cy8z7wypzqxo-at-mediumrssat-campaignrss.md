@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The British actor had significant conditions, cited on his death certificate
   in Los Angeles County.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Tim Curry attends the 40th Anniversary Of The Rocky Horror Picture Show at Los Angeles City Hall on 30 October 2015 in Los Angeles, California.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg)

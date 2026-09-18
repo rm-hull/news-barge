@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Arman Alexander Malik, a 34-year-old Texas man, was arrested after police
   walked into a bloody crime scene
 image: https://static.the-independent.com/2026/09/09/21/11/790398003_1588467052723810_3966535826049375809_n.jpeg?trim=81,0,57,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Texas man has been charged with murder after cops found the remains of his 73-year-old mom stuffed in a duffle bag.

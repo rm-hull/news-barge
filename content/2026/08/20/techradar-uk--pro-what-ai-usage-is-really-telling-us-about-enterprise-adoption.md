@@ -7,6 +7,9 @@ scraped_at: '2026-08-20T16:47:23Z'
 published: '2026-08-20T00:00:00Z'
 description: For business adoption, AI usage should matter more than model rankings
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

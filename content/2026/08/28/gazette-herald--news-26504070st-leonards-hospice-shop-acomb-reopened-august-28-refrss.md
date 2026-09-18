@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A York charity shop which has served a suburb for 35 years has undergone
   a modern and fresh makeover.
 image: https://www.gazetteherald.co.uk/resources/images/21384608.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A YORK charity shop which has served a suburb for 35 years has undergone a modern and fresh makeover.

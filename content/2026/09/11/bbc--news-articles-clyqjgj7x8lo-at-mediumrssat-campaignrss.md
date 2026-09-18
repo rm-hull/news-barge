@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Patriot Platform wants to build a group of working-class voters to influence
   political parties on the right.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ece/live/26dbdab0-ae08-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Men in black and balaclavas getting out of the back of a lorry.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/0356/live/4058a380-adb6-11f1-a540-61c3f7fc4e6c.jpg)

@@ -10,6 +10,10 @@ description: Sixty-one percent of likely voters say they doubt President Trump w
   deliver on his midterms ‘dividend’ pledge, with just 22 percent thinking he will
   follow through, survey finds
 image: https://static.independent.co.uk/2026/09/11/20/2294071728..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump’s promise to send out a $5,000 check to every American adult if Republicans hang on to the House of Representatives and Senate in November’s midterms is being met with deep skepticism, a new poll has found.

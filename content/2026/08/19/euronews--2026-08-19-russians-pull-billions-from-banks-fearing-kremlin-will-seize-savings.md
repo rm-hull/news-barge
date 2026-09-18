@@ -9,6 +9,10 @@ description: Russia's central bank reported that billions of roubles have been w
   from banks each month, as Russians pull out cash amid fears of the Kremlin seizing
   their savings to fund the war in Ukraine amid a deteriorating economy.
 image: https://images.euronews.com/articles/stories/09/87/97/38/1200x675_cmsv2_d300740e-003a-5b49-b30e-e9e12a89a043-9879738.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Russia's central bank reported that billions of roubles have been withdrawn from banks each month, as Russians pull out cash amid fears of the Kremlin seizing their savings to fund the war in Ukraine amid a deteriorating economy.

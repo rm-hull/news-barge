@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: More than 530 tonnes of food waste have been recycled in Darlington since
   June, helping generate green energy and fertiliser for farmland.
 image: https://www.thenorthernecho.co.uk/resources/images/20111880.jpg?type=og-image&xType=0&yType=133
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Darlington Borough Council)*

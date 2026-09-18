@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: A survey on attitudes towards accents suggests that so-called "accent
   bias" is still an issue in many workplaces.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Close up head and shoulders of a young woman in a sleeveless shirt looking serious. There are out of focus tables and chairs in the background.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/81f3/live/e2c54a10-9d9e-11f1-b160-9b29341ab62f.jpg)

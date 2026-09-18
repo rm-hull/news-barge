@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The city’s mayor and Tennessee’s governor threw their support behind
   the name change last month
 image: https://i.guim.co.uk/img/media/fcdedf6371d0db5a913a7aeaddbccfbbdce182d9/36_0_5828_4663/master/5828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15efdf900115ab942f338963fd2dca82
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The Nashville airport is to be renamed after Dolly Parton, a board of commissioners voted on Friday, in tribute to the Smoky Mountain singer who is estimated to bring $1.8bn each year to Tennessee through her Dollywood theme park.

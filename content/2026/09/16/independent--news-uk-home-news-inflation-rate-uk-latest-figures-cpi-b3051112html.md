@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Office for National Statistics said Consumer Prices Index (CPI) inflation
   increased to 3.1 per cent in August
 image: https://static.independent.co.uk/2026/07/22/10/22101958-cd7cb68c-a20b-4661-8c90-39b5309faa59.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Inflation increased to a five-month high last month on the back of rising fuel prices and air fares.

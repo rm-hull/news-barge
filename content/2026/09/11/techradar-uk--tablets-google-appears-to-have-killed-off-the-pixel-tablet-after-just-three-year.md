@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: The Google Pixel tablet is no more, Google appears to have pulled it
   from its online store.
 image: https://cdn.mos.cms.futurecdn.net/5jSC4sHMtqXWkRhnf8hXMJ-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Pixel Tablet with speaker dock](https://cdn.mos.cms.futurecdn.net/5jSC4sHMtqXWkRhnf8hXMJ.jpg) 

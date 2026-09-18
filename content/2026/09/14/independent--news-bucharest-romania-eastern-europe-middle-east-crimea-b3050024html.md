@@ -9,6 +9,11 @@ description: Vadim Ghirda is a Bucharest, Romania-based Associated Press photogr
   who has documented major news, conflict and humanitarian stories for more than 35
   years
 image: https://static.independent.co.uk/2026/09/06/20/APTOPIX_Romania_Angels_Parade_15913.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 Vadim Ghirda is a Bucharest, Romania-based Associated Press photographer who has documented major news, conflict and humanitarian stories for more than 35 years.

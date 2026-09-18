@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Nepali tour operator fears 15 Australians who had been on a trek near
   the border with China have died after devastating flood
 image: https://i.guim.co.uk/img/media/fef48d42ba9a970e317fd97c380d9d3cda806661/969_0_5760_4608/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7e3064498f2fbd3f55c7f0431996cda
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A New South Wales couple on a spiritual pilgrimage are among the first of 35 Australians identified as missing after flash flooding ravaged the Nepal-Tibet border.

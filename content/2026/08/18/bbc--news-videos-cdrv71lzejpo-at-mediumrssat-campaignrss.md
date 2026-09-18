@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: BBC Verify has used satellite imagery to monitor the warship on one of
   the longest ever US deployments.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8809/live/152b22c0-9b30-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 # Tracking USS Lincoln's months-long mission as concerns about conditions grow

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: A court in Bali has sentenced a Swiss tourist to one year in prison for
   insulting a sacred Hindu observance
 image: https://static.independent.co.uk/2026/08/20/13/Indonesia_Switzerland_Tourist_Trial_85238.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A court on the Indonesian resort island of Bali sentenced a Swiss tourist on Thursday to one year in prison for insulting a sacred Balinese Hindu observance.

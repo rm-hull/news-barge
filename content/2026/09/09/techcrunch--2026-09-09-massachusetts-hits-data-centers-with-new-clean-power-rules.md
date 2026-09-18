@@ -8,6 +8,8 @@ published: '2026-09-09T00:00:00Z'
 description: Massachusetts has become the third state in as many months to slap new
   restrictions on data center development.
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Massachusetts became the latest state to force data centers to bring their own power, but this time there’s a twist. A new state mandate would require developers building data centers larger than 25 megawatts to provide clean power or pay into a ratepayer protection fund.

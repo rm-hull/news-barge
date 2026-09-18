@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: CHATTING to Ainsley Harriott is like catching up with an old friend.
   It’s like joining him for a relaxed brunch or a dinner with pals.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337548.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Food & Cooking
 ---
 
 CHATTING to Ainsley Harriott is like catching up with an old friend. It’s like joining him for a relaxed brunch or a dinner with pals.

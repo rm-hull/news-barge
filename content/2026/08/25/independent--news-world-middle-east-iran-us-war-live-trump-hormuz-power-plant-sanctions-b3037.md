@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Iran’s new security chief warns Gulf neighbours they will be treated
   as ‘enemies’ if they join Trump’s economic war
 image: https://static.independent.co.uk/2026/08/24/07/2291195686..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 US defence secretary Pete Hegseth has said US strikes against Iran are possible after Washington unveiled an “economic D-Day” against Tehran.

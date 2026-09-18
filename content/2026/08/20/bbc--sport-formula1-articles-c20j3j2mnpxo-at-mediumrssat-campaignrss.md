@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Four-time world champion Max Verstappen signs a contract extension with
   Red Bull, keeping him with the Formula One team until 2030.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c891/live/b9546870-9c66-11f1-827b-69a6492daae1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Max Verstappen in a black Red Bull racing outfit](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/c891/live/b9546870-9c66-11f1-827b-69a6492daae1.jpg)

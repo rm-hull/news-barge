@@ -9,6 +9,11 @@ description: Leeds United and Rangers co-owner Jed York was sentenced to two day
   in jail and fined a total of £873 after being arrested for two criminal charges
   in Ohio on Sunday.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/11/14/01M0W9AERCDRZ6B8TMQ2TJ78G1.jpeg?trim=19,0,20,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Leeds United and Rangers co-owner Jed York sentenced to two days in US jail

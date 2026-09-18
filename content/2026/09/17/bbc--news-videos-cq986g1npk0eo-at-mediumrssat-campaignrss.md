@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: US stadium owner Robert Kraft says Sheeran asked him to match his own
   $2m (£1.5m) donation for "aid in the region".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc37/live/44fc58a0-b2b1-11f1-819c-176371125270.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Ed Sheeran's tour in 'damage control mode' after Macklemore backlash

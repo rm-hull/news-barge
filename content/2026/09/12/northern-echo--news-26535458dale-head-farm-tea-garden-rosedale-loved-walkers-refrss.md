@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Dale Head Farm Tea Garden sits at the head of Rosedale, overlooking the
   valley in the North York Moors National Park.
 image: https://www.thenorthernecho.co.uk/resources/images/21430372.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: TRIPADVISOR)*

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Local police have warned residents about approaching the ‘unusually aggressive’
   animal as it could have rabies
 image: https://static.independent.co.uk/2026/09/03/19/00/Screenshot-2026-09-03-at-3-15-15-PM.jpg?trim=0,40,0,40&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
 ---
 
 A mysterious wild animal has been terrorizing a neighborhood in New Hampshire after a third attack by the creature was reported in less than two days.

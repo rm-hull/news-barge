@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A County Durham Italian restaurant has announced it will close after
   six years, following what its owners described as an “incredibly difficult…
 image: https://www.thenorthernecho.co.uk/resources/images/21369807.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

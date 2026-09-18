@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Can India continue their 11-year unbeaten streak against Sri Lanka in
   Tests?
 image: https://cdn.mos.cms.futurecdn.net/HLysYakTSsDAxNjGy6ySYY-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Devdutt Padikkal of India reacts to his century during day one of the First Test match in the series between Sri Lanka and India at Galle International Stadium](https://cdn.mos.cms.futurecdn.net/HLysYakTSsDAxNjGy6ySYY.jpg) 

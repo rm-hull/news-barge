@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Andy Burnham made the comments as the Government urged TikTok and other
   social media firms to remove wrong-way driving videos.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/13/cs-12a23700-8300-42c6-90bc-7f4ff731cc86.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # A66 crash: glorifying dangerous driving is ‘truly reprehensible’, Burnham says after seven-death smash

@@ -9,6 +9,12 @@ description: German company Isar Aerospace has placed its Spectrum rocket in low
   orbit at the second attempt, becoming the first European firm to do so with its
   own launcher and hitting the first milestone of ESA's European Launcher Challenge.
 image: https://images.euronews.com/articles/stories/09/90/29/90/1200x675_cmsv2_40b60dad-ac6d-56f5-b221-1962ea326d53-9902990.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## German company Isar Aerospace has placed its Spectrum rocket in low Earth orbit at the second attempt, becoming the first European firm to do so with its own launcher and hitting the first milestone of ESA's European Launcher Challenge.

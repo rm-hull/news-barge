@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T14:14:42Z'
 published: '2026-09-07T00:00:00Z'
 description: A modern take on retro TV.
 image: https://cdn.mos.cms.futurecdn.net/3VAcuPTMp8k4VxtWSvxXV3-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Film & TV
 ---
 
 ![The Unico Traveller ULW10 monitor for retro gaming](https://cdn.mos.cms.futurecdn.net/3VAcuPTMp8k4VxtWSvxXV3.jpg) 

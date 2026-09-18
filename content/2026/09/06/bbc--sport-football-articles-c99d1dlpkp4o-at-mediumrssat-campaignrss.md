@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Fifa president Gianni Infantino will stand for re-election in March,
   the world governing body has confirmed.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96b8/live/e7bc1650-a9ee-11f1-921b-6365210e1c9d.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Fifa president Gianni Infantino](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/96b8/live/e7bc1650-a9ee-11f1-921b-6365210e1c9d.jpg)

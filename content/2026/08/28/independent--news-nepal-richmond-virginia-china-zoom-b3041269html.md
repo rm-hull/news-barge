@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: A Virginia family with four relatives missing in the flash floods along
   the Nepal-China border is calling for more resources to help with rescue efforts
 image: https://static.independent.co.uk/2026/08/28/20/China_Nepal_Flash_Floods_37687.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Mukti Patel has huddled with family and friends at her parents' Richmond, Virginia, home since her dad, sister and two other relatives went missing in the catastrophic flash floods along the Nepal-China border.

@@ -8,6 +8,12 @@ scraped_at: '2026-08-30T13:47:30Z'
 published: '2026-08-30T00:00:00Z'
 description: The southern African kingdom is seeing more men becoming midwives
 image: https://static.independent.co.uk/2026/08/30/06/Lesotho_Male_Midwife__575_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
+- Society & Culture
 ---
 
 On a cold morning, Ntlhane Sehloho grabbed his backpack containing medical equipment and embarked on a three-hour journey, navigating the curving gravel roads leading to a clinic nestled in a valley of mountainous Lesotho.

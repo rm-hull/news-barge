@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:45Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/medieval-weekend-barley-hall.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Celebrate the sights, sounds, and skills of the Middle Ages this bank holiday – as Barley Hall host a Medieval Weekend.

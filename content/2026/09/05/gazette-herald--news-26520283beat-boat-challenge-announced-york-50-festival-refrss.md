@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A new riverside challenge, Beat the Boat, is coming to York as part of
   this year’s 50+ Festival.
 image: https://www.gazetteherald.co.uk/resources/images/21408320.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A new riverside challenge is coming to the city as part of this year’s 50+ Festival.

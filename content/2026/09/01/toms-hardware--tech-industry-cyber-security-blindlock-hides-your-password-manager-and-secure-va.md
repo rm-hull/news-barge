@@ -10,6 +10,9 @@ published: '2026-09-01T00:00:00Z'
 description: Local-only app keeps this sensitive info fully encrypted and steganographically
   concealed on your device.
 image: https://cdn.mos.cms.futurecdn.net/uQMYLjh67msn8Uha5tACb-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![BlindLock](https://cdn.mos.cms.futurecdn.net/uQMYLjh67msn8Uha5tACb.jpg) 

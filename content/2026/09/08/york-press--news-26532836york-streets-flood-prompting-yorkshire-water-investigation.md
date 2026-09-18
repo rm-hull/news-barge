@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:23Z'
 published: '2026-09-08T00:00:00Z'
 description: Flooding in a York village's streets has prompted concerns and an investigation.
 image: https://www.yorkpress.co.uk/resources/images/21426789.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Streets 'inches deep in water' in York village prompts concerns and probe

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: FEMALE founders, CEOs and community leaders will be in the spotlight
   this October for a major health and beauty event
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466699.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

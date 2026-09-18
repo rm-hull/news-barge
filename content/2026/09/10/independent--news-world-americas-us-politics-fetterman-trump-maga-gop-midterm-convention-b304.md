@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Democratic senator praised Republican colleague from Pennsylvania, Dave
   McCormick in surprise appearance
 image: https://static.independent.co.uk/2026/09/10/00/2293866466..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Democratic Sen. John Fetterman was a surprise virtual guest at Wednesday’s Republican convention in Dallas, Texas.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Roadmap for increasing department’s share of GDP will be deferred until
   next year’s review
 image: https://i.guim.co.uk/img/media/74be507303f27aac2281af5d24f3edcfb60b7be0/371_0_4410_3531/master/4410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcef49f18212be6bc155176bd90a72b7
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The chancellor will delay setting out when the UK will meet the target of allocating 3% of GDP on defence until next year’s spending review, the Treasury has confirmed.

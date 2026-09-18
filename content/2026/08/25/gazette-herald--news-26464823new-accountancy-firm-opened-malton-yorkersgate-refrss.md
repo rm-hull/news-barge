@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T08:55:25Z'
 published: '2026-08-25T00:00:00Z'
 description: A new independent tax and accountancy firm has opened its doors.
 image: https://www.gazetteherald.co.uk/resources/images/21319906.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A new independent tax and accountancy firm has opened its doors.

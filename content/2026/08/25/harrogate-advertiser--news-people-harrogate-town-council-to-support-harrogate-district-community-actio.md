@@ -10,6 +10,10 @@ description: Harrogate Town Council has awarded £12,500 to an independent chari
   in support of a new project to empower young people to take part in volunteering
   programmes in the town.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg2ZGJjMzU0LTA3YjAtNGNhNy1hMzU4LTgwMTkyNjIzODljZTowNTZkMjVlZi05YjIyLTQ2YzYtODFjMy1kYzkwMzc0ZDdkZjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Harrogate Town Council to support Harrogate & District Community Action in new volunteering project

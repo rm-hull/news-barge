@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Jump lifts currency to highest level against dollar in a month, while
   global markets remain jittery
 image: https://i.guim.co.uk/img/media/b258258b4224aca28e3a1d3e6d43221a4a6a36bb/970_15_4875_3903/master/4875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcccec0baf6b3c3bc48d8a8b80ffa277
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Japanese yen has soared by more than 1.7% against the dollar amid speculation the Bank of Japan is set to raise interest rates.

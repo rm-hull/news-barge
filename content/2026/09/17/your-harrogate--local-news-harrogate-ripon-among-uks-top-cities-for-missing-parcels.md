@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:35Z'
 published: '2026-09-17T00:00:00Z'
 description: Ripon has ranked fourth in a study of online searches about missing parcels.
 image: https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg) 

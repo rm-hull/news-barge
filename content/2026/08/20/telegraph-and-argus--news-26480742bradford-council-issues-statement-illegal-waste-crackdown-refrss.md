@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Bradford Council has welcomed a Government crackdown on waste dumping
   linked to organised crime.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21138495.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

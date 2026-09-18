@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Joe Root said "it would be nice to have a choice" over the venues where
   his England team play as they leave Headingley until 2029.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bbe4/live/ad48e160-9d82-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England ease to huge win against Pakistan on day three at Headingley

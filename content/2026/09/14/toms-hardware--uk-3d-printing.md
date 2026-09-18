@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: 3D Printer reviews, news, and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # 3D Printing

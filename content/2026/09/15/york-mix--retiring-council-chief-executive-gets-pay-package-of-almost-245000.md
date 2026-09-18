@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T04:45:58Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/01/north-yorkshire-council-chief-executive-richard-flinton.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 North Yorkshire Council’s retiring chief executive received a total pay package worth almost £245,000 during the last financial year, new figures show.

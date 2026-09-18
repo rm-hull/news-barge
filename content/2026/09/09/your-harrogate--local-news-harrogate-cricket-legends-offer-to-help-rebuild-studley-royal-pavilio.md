@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Former England cricket stars have offered to support Studley Royal Cricket
   Club following the destruction of its historic pavilion.
 image: https://mmo.aiircdn.com/409/6aa156971a6720650ee.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- History
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa156971a6720650ee.jpg) 

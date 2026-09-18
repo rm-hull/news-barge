@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: A staggering new report reveals that top mobile VPN apps are secretly
   tracking your physical location and sending data to foreign tech companies
 image: https://cdn.mos.cms.futurecdn.net/v8LYyvBfpYanyKNXKLA8RF-2291-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![VPN Shield Security. Phone Concept - stock photo](https://cdn.mos.cms.futurecdn.net/v8LYyvBfpYanyKNXKLA8RF.jpg) 

@@ -8,6 +8,13 @@ published: '2026-08-29T00:00:00Z'
 description: Darlington business owner James Logan is targeting a top-five finish
   in a national motorbike championship while running his growing company.
 image: https://www.thenorthernecho.co.uk/resources/images/21379998.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
+- Careers & Productivity
 ---
 
 A Darlington businessman is on course for a top five finish in a national motorbike racing championship while continuing to run a growing company.

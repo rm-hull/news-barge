@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Teesside clean technology firm Nova Pangaea Technologies has completed
   successful endurance trials at its Wilton demonstration plant, saying it…
 image: https://www.thenorthernecho.co.uk/resources/images/21365862.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

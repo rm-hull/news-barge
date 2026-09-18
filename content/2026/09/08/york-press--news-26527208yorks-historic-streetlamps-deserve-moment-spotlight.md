@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: York’s often overlooked historic streetlights are the forgotten features
   that help make the city unique - and are worth saving.
 image: https://www.yorkpress.co.uk/resources/images/21418501.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## Shining a light on the overlooked piece of York heritage hiding in plain sight

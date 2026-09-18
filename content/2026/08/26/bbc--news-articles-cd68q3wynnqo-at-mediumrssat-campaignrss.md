@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The deal has been reached during a California federal court trial over
   claims brought by US states.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa89/live/9a0f4c00-a152-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 'Finally, something was done' - Parent reacts to social media trial settlement

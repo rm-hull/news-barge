@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The man was held captive and filmed being repeatedly assaulted before
   escaping, police say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1e7/live/3193f400-a83c-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Victim jumps out of window to escape kidnappers

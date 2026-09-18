@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Plans to close a major stretch of road in North Yorkshire have been delayed
   again.
 image: https://www.yorkpress.co.uk/resources/images/20549287.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Google Maps)*

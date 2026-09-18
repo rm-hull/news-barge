@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Olympic long jump champion Tara Davis-Woodhall says she is "lucky and
   blessed to be alive" after being involved in a car crash.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/701b/live/4c3fb1b0-a6ff-11f1-9deb-1f1584451e2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Tara Davis-Woodhall](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/701b/live/4c3fb1b0-a6ff-11f1-9deb-1f1584451e2c.jpg)

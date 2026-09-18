@@ -8,6 +8,9 @@ scraped_at: '2026-09-18T13:00:47Z'
 published: '2026-09-18T00:00:00Z'
 description: Huawei accelerates AI roadmap.
 image: https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR-2560-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Huawei Ascend](https://cdn.mos.cms.futurecdn.net/GgPdYEHgr4MXhF4VFT3HtR.png) 

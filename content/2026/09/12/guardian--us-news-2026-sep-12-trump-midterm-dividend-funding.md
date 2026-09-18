@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Lutnick said $500bn of estimated $1tn needed to fund checks to all US
   adults could come from new visa program
 image: https://i.guim.co.uk/img/media/4324b5b609cac359000f928ded4ad6e19f20641f/147_0_5637_4511/master/5637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=795228a5c5d2a75fb881224478ee5894
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s controversial proposal to give a $5,000 “dividend” to all US adults if Republicans maintain control of Congress in November’s elections would not be paid out from US tax revenues, according to the US commerce secretary, Howard Lutnick.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: FIVE drivers have earned top honours for their commitment to safe and
   smooth journeys
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340014.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: 'The Infinite State review: A riveting tale of an oppressive galactic
   empire'
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974440.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![3d render abstract art illustration with surreal cyber punk industrial urban city landscape with super high told skyscrapers with neon red glowing lights in with pink rose smoke clouds ; Shutterstock ID 2196765695; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307974440.jpg?w=840)

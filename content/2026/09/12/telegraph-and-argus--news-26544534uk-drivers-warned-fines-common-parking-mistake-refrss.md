@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Parking across two bays may not seem like a serious offence, but experts
   have warned that it can lead to financial penalties.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438583.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

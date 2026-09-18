@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T08:53:10Z'
 published: '2026-08-20T00:00:00Z'
 description: A DAY by the water can quickly turn into tragedy.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21093993.jpg?type=og-image&xType=0&yType=389
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Yorkshire Water)*

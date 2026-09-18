@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A NORTH Yorkshire museum is appealing for information after a photo dating
   back over 110 years was found in a pub.
 image: https://www.yorkpress.co.uk/resources/images/21370847.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 *(Image: Public)*

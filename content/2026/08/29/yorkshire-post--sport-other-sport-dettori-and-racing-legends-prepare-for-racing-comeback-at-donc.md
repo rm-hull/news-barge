@@ -10,6 +10,12 @@ description: A star-studded cast, including six-time St Leger winner Frankie Det
   is preparing to come out of retirement at Doncaster’s Town Moor to compete in the
   only British charity race for ex-professional jockeys.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFjMzNjMzI0LTI4ZDctNDYwZC04MmQxLTYyNzk5ZjEwZmM2ODo0YzA1NDY2Ny0wNGE4LTQzNTItODlhOS00YTNhMTA0MGJkZjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Video Gaming
 ---
 
 # Dettori and racing legends prepare for racing comeback at Doncaster's 250th Leger Festival

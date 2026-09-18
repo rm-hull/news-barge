@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: South Korea’s joint chiefs of staff said the Ulchi Freedom Shield exercise
   would end on 21 August at the request of the US
 image: https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78fc3f968fc56c5b4eabcdc140638d68
+categories:
+- UK
+- News & Politics
 ---
 
 South Korea’s military has confirmed that joint military drills with the US will be cut short, days after Donald Trump ordered the Pentagon to scale back the exercises.

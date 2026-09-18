@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Authorities say the blaze at Studley's Royal's ground is currently under
   investigation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c4c/live/6c0c29a0-a610-11f1-8637-5b46bde23e50.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Burnt remains of metal twisted on the floor. On top of it is burnt remains of a corrugated metal](https://ichef.bbci.co.uk/ace/standard/637/cpsprodpb/0c4c/live/6c0c29a0-a610-11f1-8637-5b46bde23e50.jpg)

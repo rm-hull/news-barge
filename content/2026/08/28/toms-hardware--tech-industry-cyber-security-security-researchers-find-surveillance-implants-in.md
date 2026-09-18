@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: The surveillance seems aimed at the domestic market, but it knocks huge
   holes in the security of the devices it's found in.
 image: https://cdn.mos.cms.futurecdn.net/sb4UNrZUbaibqDXRTgybjF-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Royalty free](https://cdn.mos.cms.futurecdn.net/sb4UNrZUbaibqDXRTgybjF.jpg) 

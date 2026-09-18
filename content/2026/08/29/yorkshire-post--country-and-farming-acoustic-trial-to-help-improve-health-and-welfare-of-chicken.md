@@ -9,6 +9,11 @@ description: An East Yorkshire egg farmer has spoken of his hopes that a pioneer
   trial he hosted exploring the use of acoustic technology will help support producers
   following turbulence in the sector.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjczNGViYTc1LWIxOWQtNGRhNi04MTU1LWU4ODE0NmQ0ZjU4MTo5MTUyNDRlMi1iOTI3LTQxOTMtYWE0YS1jNTA2YzE5NDM5ZjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Acoustic trial to help improve health and welfare of chickens

@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: An affordable, feature-packed parental control app with a refreshingly
   transparent approach to monitoring
 image: https://cdn.mos.cms.futurecdn.net/EExNhwE5PAJhumDnKkPEJJ-1741-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

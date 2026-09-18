@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Rubio visits Ecuador and welcomes cooperation after campaign of unilateral
   strikes on alleged ‘narco-terrorists’
 image: https://i.guim.co.uk/img/media/f8781809b67187827f23610e3a4f3ec053e31c16/3_0_6398_5121/master/6398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e084fd2bb9c160b287d84171e95ec913
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 US secretary of state Marco Rubio gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused on working with allied countries and aligning with their laws but insisting the military will “still blow up ships if need be.”

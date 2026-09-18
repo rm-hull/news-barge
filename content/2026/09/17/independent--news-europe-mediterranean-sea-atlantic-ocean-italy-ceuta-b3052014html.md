@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The U.N. migration agency reports that significantly fewer migrants are
   reaching Europe by sea this year, but more are dying on increasingly dangerous journeys
 image: https://static.independent.co.uk/2026/08/21/20/Migration_Spain_Ceuta_Burials_538_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Significantly fewer migrants are reaching Europe by sea this year, and yet more are dying as people take increasingly dangerous journeys to reach the continent, the U.N. migration agency warned Thursday.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The Buckden Pike Circular walk offers hikers great views and an old fashioned
   pub to stop off at.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378136.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty)*

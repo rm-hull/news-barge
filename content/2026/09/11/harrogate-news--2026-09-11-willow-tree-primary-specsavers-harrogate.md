@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Pupils from Willow Tree Primary School have visited Specsavers Harrogate
   on Beulah Street for free NHS eye tests, with one in four needing new glasses.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/opticiams.webp
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 **HARROGATE**— A class of primary school children from the district have taken part in a dedicated educational screening visit to their local opticians, following classroom observations regarding potential vision difficulties.

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Judge Kent Savoie acknowledged that he made mistake in sentencing of
   former DeRidder Mayor Misty Roberts, but denied request to amend ruling
 image: https://static.the-independent.com/2024/08/02/16/misty-roberts.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 A former Louisiana mayor, Misty Roberts, is out of jail after serving her 90-day prison sentence for raping a 16-year-old boy during her tenure.

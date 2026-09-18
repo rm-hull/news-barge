@@ -7,6 +7,12 @@ scraped_at: '2026-09-15T11:26:22Z'
 published: '2026-09-15T00:00:00Z'
 description: The rival company established itself under an almost identical name
 image: https://static.independent.co.uk/2026/09/15/8/02/FlowerbxFounder.jpeg?trim=51,0,302,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
+- History
 ---
 
 A high-end floral business catering to celebrity clients, including Victoria Beckham, has won a High Court legal battle against a rival enterprise that established itself under an almost identical name.

@@ -10,6 +10,9 @@ description: 'Tethered display glasses are truly practical face computers. They 
   bulky spatial computing for simplicity: Plug in, recline, and get a massive screen
   right in front of your nose.'
 image: https://media.wired.com/photos/6a87862020408e2e1b24b43a/191:100/w_1280,c_limit/All-Work-Virtual-Play-Gear.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 “URGENT: Immediate Action Required” blasts into my eyeballs as I scroll through the impossibly giant email inbox looming directly in front of my face.

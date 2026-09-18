@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Aldi is bringing back its popular cheap stand mixer this weekend — a
   budget-friendly KitchenAid alternative.
 image: https://cdn.mos.cms.futurecdn.net/4FoQPapMeJYq8TJ25qNnVM-1920-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![The Aldi store sign next to the KitchenAid Artisan stand mixer](https://cdn.mos.cms.futurecdn.net/4FoQPapMeJYq8TJ25qNnVM.jpg) 

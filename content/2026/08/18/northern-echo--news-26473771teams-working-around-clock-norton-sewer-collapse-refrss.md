@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Teams are "working around the clock" to fix a collapsed sewer in Norton
   - and said the road will reopen as soon as possible.
 image: https://www.thenorthernecho.co.uk/resources/images/21334570.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Technology & Software
 ---
 
 *(Image: NORTHUMBRIAN WATER)*

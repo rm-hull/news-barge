@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Moves to give councils greater powers over local high streets have been
   welcomed in York amid fears over a blanket crackdown.
 image: https://www.gazetteherald.co.uk/resources/images/21352012.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 MOVES to give councils greater powers over local high streets have been welcomed in York amid warnings traders could be caught up in a blanket crackdown.

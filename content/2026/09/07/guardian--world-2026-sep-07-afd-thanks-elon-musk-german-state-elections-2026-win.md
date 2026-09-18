@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Lead candidate in Saxony-Anhalt welcomes further ‘strong’ cooperation
   with Musk as French minister says ‘we cannot forget our history’
 image: https://i.guim.co.uk/img/media/1f2347cd67b123d62a8aeb95074332a837a87df0/109_30_1651_1321/master/1651.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=204140f6dfdfb615b17e3a8cbd89f3c2
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The candidate who led the far-right Alternative für Deutschland party to a historic state election victory in Germany has thanked Elon Musk for his support, as one French minister warned that this was a “serious moment” for Europe.

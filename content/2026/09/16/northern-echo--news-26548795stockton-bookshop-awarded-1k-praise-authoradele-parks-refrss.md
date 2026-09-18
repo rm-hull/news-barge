@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A much-loved independent bookshop has been awarded £1,000 by HarperCollins
   after being singled out for praise by a bestselling author.
 image: https://www.thenorthernecho.co.uk/resources/images/21453642.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Supplied)*

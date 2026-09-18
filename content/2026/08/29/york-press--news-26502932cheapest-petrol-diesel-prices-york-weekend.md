@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Here's a list of the cheapest garages in and around York, according to
   petrolprices.com.
 image: https://www.yorkpress.co.uk/resources/images/15726968.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

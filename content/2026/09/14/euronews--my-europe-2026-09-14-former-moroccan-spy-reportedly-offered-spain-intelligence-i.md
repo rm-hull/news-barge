@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: 'Mehdi Hijaouy was reportedly forced into exile following a conflict
   with some of his intelligence colleagues in Morocco. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/22/83/1200x675_cmsv2_98e73218-b8a1-5356-a928-88af7bebc1f6-9912283.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Mehdi Hijaouy was reportedly forced into exile following a conflict with some of his intelligence colleagues in Morocco.

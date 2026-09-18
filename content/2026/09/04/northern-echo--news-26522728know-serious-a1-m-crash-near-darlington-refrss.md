@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The A1(M) has been closed near Darlington following a serious three-vehicle
   crash - here is everything we know so far.
 image: https://www.thenorthernecho.co.uk/resources/images/21411584.jpg?type=og-image&xType=0&yType=7
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The A1(M) has been closed near Darlington following a serious three-vehicle crash.

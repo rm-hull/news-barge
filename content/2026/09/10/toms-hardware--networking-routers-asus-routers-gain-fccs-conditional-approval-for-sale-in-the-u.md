@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T22:30:14Z'
 published: '2026-09-10T00:00:00Z'
 description: Upcoming Wi-Fi 8 products from Asus get the green light from the FCC
 image: https://cdn.mos.cms.futurecdn.net/2DKYashZMVpNXMqTy2ueQo-1694-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Asus ROG Rapture GT-BN98 Pro](https://cdn.mos.cms.futurecdn.net/2DKYashZMVpNXMqTy2ueQo.jpg) 

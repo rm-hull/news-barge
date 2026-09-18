@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A much-loved member of the school community in the Bradford district
   is retiring after 32 years of service.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21228799.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Steeton Primary School)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Royal Mail recently committed to satisfying Ofcom’s targets by May 2027
   under a five-year, £500 million investment plan
 image: https://static.independent.co.uk/2026/08/21/11/1241622695..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Royal Mail has fallen short of its delivery targets once again, though the postal operator maintains it is making headway as it implements a major restructuring that includes ending Saturday second-class mail.

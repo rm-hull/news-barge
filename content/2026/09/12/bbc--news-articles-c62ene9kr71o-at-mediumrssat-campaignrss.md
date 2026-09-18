@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Officials say more than 300 Russians remain missing after the 2024 Kursk
   offensive, but no-one really knows the true figure.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Local resident watches a video message of her relative on the smartphone of a Chechen Akhmat battalion fighter in the village of Kazachya Loknya in March 2025](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d027/live/be384650-ae03-11f1-a8b6-3d61421c71fa.jpg)

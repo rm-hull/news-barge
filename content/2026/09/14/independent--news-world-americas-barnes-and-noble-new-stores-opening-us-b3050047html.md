@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:18:25Z'
 published: '2026-09-14T00:00:00Z'
 description: So far this year, 28 stores have opened or are scheduled to open soon
 image: https://static.independent.co.uk/2026/09/14/17/143594119..?trim=28,0,28,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Barnes & Noble is expanding with a slew of new bookstores across America.

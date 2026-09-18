@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: England again demolish the dismal Pakistan batting to move on course
   for a 3-0 clean sweep on the opening day of the third Test at Edgbaston.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db04/live/0dd61fc0-ac6f-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England in control of final Test after dominating opening day

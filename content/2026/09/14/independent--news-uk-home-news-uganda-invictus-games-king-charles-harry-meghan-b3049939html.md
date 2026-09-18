@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The King’s private secretary called Uganda’s chief of defence forces
   to give a green light to the nation’s participation in the Invictus Games
 image: https://static.independent.co.uk/2026/07/27/16/2224570386..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Uganda has announced it will reverse its withdrawal from Prince Harry’s Invictus Games after King Charles intervened.

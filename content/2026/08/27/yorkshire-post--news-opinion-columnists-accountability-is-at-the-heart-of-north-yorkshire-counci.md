@@ -12,6 +12,12 @@ description: Last week was the first quarterly performance meeting of the new co
   in public, with 200+ pages of supporting data as befits an organisation of the size
   and scale of the Council.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkwOTExMWMyLTFkYWMtNDg1NS05MWJkLWEzZWJmNGRiYTEzMDo5YmQwOGFkMi1hODgzLTQ2NzItYWVhNy1hM2FkMzM2MGQ2ZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 # Accountability is at the heart of North Yorkshire Council’s performance - Carl Les

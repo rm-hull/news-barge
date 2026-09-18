@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Police were called to a County Durham car park after a fight broke out.
   Ambulance crews were stood down before arriving.
 image: https://www.thenorthernecho.co.uk/resources/images/21447748.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: GOOGLE)*

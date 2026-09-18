@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The best gaming chair is actually an office chair. Here are our top picks
   from our real-life testing so far.
 image: https://media.wired.com/photos/6a9b6a469669a9bf64691e5b/191:100/w_1280,c_limit/The-Best-Gaming-Chairs.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
 ---
 
 ## Featured in this article

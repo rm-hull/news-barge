@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A County Durham Working Men’s Club is determined to keep the community
   spirit alive despite “fighting to keep its doors open”.
 image: https://www.thenorthernecho.co.uk/resources/images/21366374.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: GRANGE VILLA WORLING MEN'S CLUB)*

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Welham Hall, first listed at £2.75 million in 2024 with Savills, is currently
   available with Blenkin and Co and Hewetson & Johnson, York.
 image: https://www.gazetteherald.co.uk/resources/images/21433750.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A country house near Malton has had it price reduced after being on the market for two years.

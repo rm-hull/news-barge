@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: York's inner ring road has fully reopened after work to repair a crossing
   uplifted during a thunderstorm.
 image: https://www.yorkpress.co.uk/resources/images/21404370.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

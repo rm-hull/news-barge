@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The farm failed to qualifiy for tax relief as it registered a loss year
   after year
 image: https://static.independent.co.uk/2026/09/14/8/54/JodySheckterBuffalo.jpeg?trim=0,103,0,101&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Former Formula One world champion Jody Scheckter has lost a high-profile court battle against HM Revenue and Customs over a £1.4m tax bill connected to his organic buffalo farming enterprise.

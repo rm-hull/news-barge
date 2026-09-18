@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A WALKER suffered a suspected broken ankle after slipping on rocks near
   Victoria Cave, Settle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428884.jpg?type=og-image&xType=0&yType=381
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: CRO)*

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Canvas has expanded its Canvas L soundbar with Dolby Surround and Atmos
   support via a new control box
 image: https://cdn.mos.cms.futurecdn.net/TtUukdqFv2MjnGRQhNMJLS-2048-80.png
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Lifestyle photos of the Canvas BACCH 3D with Silverback speakers from System Audio](https://cdn.mos.cms.futurecdn.net/TtUukdqFv2MjnGRQhNMJLS.png) 

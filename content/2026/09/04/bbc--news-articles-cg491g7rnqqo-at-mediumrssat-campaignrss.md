@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The comedian says his son Felix died earlier this year shortly after
   his wife Cerys had given birth.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- True Crime
 ---
 
 ![Russell Howard pictured at the BBC's New Broadcasting House, wearing a blue T-shirt](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg)

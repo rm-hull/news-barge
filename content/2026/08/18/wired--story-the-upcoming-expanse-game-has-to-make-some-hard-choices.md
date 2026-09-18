@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The universe may never tell you if your choices mattered. Owlcat’s ‘Osiris
   Reborn’ might not either.
 image: https://media.wired.com/photos/6a834b7b336b4da04ecfb65b/191:100/w_1280,c_limit/The-Expanse-Gear15.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 A main theme of the nine-book sci-fi series *The Expanse* is that sometimes you may never know the consequences of a choice you made. The universe, utterly indifferent black box that it is, “never tells us if we did right or wrong,” as the character Naomi Nagata puts it in*The Expanse* TV show.

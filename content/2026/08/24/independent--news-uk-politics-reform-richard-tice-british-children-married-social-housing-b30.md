@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Richard Tice also said ‘British-born children’ are a ‘good thing’ and
   should be encouraged
 image: https://static.independent.co.uk/2026/08/07/13/01KZBCV0RDQBV8WXTRQZ2E1DAB.jpg?trim=94,0,94,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 Reform UK’s deputy leader has said that couples with children should be married “in an ideal world” and that having “British-born children” should be encouraged.

@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: PASSENGERS using mobility scooters can now travel on all types of trains
   in Northern’s fleet
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457570.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Travel
 ---
 
 *(Image: Northern)*

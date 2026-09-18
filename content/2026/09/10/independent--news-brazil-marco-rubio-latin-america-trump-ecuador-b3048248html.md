@@ -10,6 +10,9 @@ description: Bolsonaro backers paraded a Trump effigy ahead of Brazil’s genera
   Ecuador honored Marco Rubio, while Argentines remembered the late singer Gilda.
   This gallery was curated by photo editor Leslie Mazoch, based in Mexico City.
 image: https://static.independent.co.uk/2026/09/10/21/APTOPIX_Brazil_Independence_Day_15_17.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Trump fans in Brazil, Rubio honored, and other top photos from Latin America and the Caribbean

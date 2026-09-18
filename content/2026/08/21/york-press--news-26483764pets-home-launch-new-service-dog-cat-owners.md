@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: UK pet retailer Pets at Home is launching a new service with three new
   products for cat and dog owners.
 image: https://www.yorkpress.co.uk/resources/images/21351452.jpg?type=og-image
+categories:
+- Local
+- York
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 ## Pets at Home to launch new service for dog and cat owners from September

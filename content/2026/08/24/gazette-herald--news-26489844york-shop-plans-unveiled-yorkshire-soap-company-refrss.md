@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: A new shop could be coming to York under plans from an established city
   retail business selling locally-made goods.
 image: https://www.gazetteherald.co.uk/resources/images/20769138.jpg?type=og-image&xType=0&yType=321
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Shopping & Deals
 ---
 
 ### What is the Public Notice Portal?

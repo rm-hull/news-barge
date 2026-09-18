@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Tees Active has relaunched its Schools Ice Skating Initiative, giving
   students free entry to Billingham Forum Ice Arena’s disco sessions.
 image: https://www.thenorthernecho.co.uk/resources/images/21408025.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A school ice skating programme in Stockton is returning for a second year.

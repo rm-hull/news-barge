@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: PC Tom Clough and PC Matthew Blades’ families said they had served and
   died ‘in the line of duty’
 image: https://static.independent.co.uk/2026/08/23/21/01M0R0HNYBGEY9PNWDJE9EQJ7Q.jpg?trim=0,20,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
 ---
 
 Moving tributes have been paid to two “hero” police officers who died in a collision near Middlesborough as their families described their “pain beyond words”.

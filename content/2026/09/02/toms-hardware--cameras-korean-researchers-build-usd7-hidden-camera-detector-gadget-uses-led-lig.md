@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T19:22:23Z'
 published: '2026-09-02T00:00:00Z'
 description: This is a good use of AI tools.
 image: https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a hidden camera held by a person in front of some plants](https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm.png) 

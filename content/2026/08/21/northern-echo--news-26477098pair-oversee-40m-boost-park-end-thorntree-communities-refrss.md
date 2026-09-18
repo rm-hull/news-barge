@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Charlotte Dinsdale and Gary Hamilton have been named co-chairs of a £40m
   regeneration programme aimed at delivering major improvements in…
 image: https://www.thenorthernecho.co.uk/resources/images/21340025.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

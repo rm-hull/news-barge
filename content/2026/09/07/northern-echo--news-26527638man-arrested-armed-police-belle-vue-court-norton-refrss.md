@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Armed police have arrested a man on Belle Vue Court in Norton after reports
   that he was trying to break into a property with a knife.
 image: https://www.thenorthernecho.co.uk/resources/images/21419194.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: PA MEDIA)*

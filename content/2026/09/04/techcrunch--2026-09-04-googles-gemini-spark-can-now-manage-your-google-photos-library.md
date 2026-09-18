@@ -9,6 +9,8 @@ description: Gemini Spark can edit and curate photo albums, create shared collec
   turn photos into calendar events, and handle other Google Photos tasks for AI Pro
   and Ultra subscribers.
 image: https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Google is integrating more of its services with AI, as the company announced that its personal agent, Gemini Spark, can now manage your Google Photos library. That means you can ask Gemini Spark to execute tasks in Google Photos, like editing images, curating albums, automatically creating shared albums with your favorite shots, turning concert flyer photos into calendar appointments, running workflows, and more.

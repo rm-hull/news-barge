@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: The World of James Herriot attraction will be opening its new visitor
   experience, unveiled by Heartbeat star David Lonsdale.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwMzcxNTA0LTI5ZjgtNDc1NS04YWEwLTViMzhkNDhmOTA2YjphMTFhNWY3OC0wY2I3LTRkZTQtODk1Ni1lY2FjNGY0ZGRlYjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # World of James Herriot, Thirsk: Heartbeat star David Lonsdale to unveil new visitor experience at Yorkshire attraction

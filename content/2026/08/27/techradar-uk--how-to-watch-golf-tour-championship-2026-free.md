@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The FedExCup Champion will be crowned at East Lake in the final Playoff
   event
 image: https://cdn.mos.cms.futurecdn.net/VE3prsMtf9pFgFZLoEWNVo-2427-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Wyndham Clark of the United States celebrates after winning the BMW Championship 2026 at Bellerive Country Club on August 23, 2026 in St Louis, Missouri](https://cdn.mos.cms.futurecdn.net/VE3prsMtf9pFgFZLoEWNVo.jpg) 

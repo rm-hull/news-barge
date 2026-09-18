@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Chinese and Gulf state airlines are among those still using Russian airspace.
   Meanwhile, Russia says it will intensify its own attacks on Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Ukraine's President Volodymyr Zelensky gives a press conference in Kyiv, standing in front of a blue and yellow flag.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Administration’s plan to scrap drilling-free buffer zone around New Mexico
   site prompts scrutiny from Unesco
 image: https://i.guim.co.uk/img/media/cbebb6d23025b15804dfb0b7a3292e549a58cacf/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845ce236e5e80117fe163877e3e5bc3b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Trump administration’s push to expand oil and gas extraction across the US is set to bring drilling near cherished natural and cultural sites, raising alarm among conservationists and prompting questions from the UN’s heritage body.

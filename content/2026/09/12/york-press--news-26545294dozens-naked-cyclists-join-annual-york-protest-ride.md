@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The naked bike ride has returned to York - with dozens of nude cyclists
   turning out for the annual protest ride.
 image: https://www.yorkpress.co.uk/resources/images/21445925.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Dylan Connell)*

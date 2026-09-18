@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Drivers participating in the 1.7-mile circuit around the nation’s capital
   did practice laps Saturday afternoon ahead of the qualifying round
 image: https://static.independent.co.uk/2026/08/22/20/2026-08-22T193006Z_1270363974_RC2U3NA5WP00_RTRMADP_3_USA-250-GRAND-PRIX.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Drivers vying for the top spots in the Freedom 250 IndyCar lineup participated in practice rounds and the qualifiers Saturday ahead of the high-speed Grand Prix taking place Sunday.

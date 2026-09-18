@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T19:15:30Z'
 published: '2026-09-09T00:00:00Z'
 description: What are the privacy implications?
 image: https://cdn.mos.cms.futurecdn.net/AUgmEzzhf6AXktdm4ZT2cR-1911-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/AUgmEzzhf6AXktdm4ZT2cR.jpg) 

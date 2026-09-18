@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Househunters looking to buy a spacious family home that also offers the
   potential for more might find that this property in a hamlet just outside…
 image: https://www.thenorthernecho.co.uk/resources/images/21352730.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Real Estate
+- Home, Garden & DIY
 ---
 
 *(Image: youngsRPS)*

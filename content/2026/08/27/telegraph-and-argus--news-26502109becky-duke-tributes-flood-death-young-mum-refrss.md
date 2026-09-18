@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Tributes have poured in after the "heart-breaking" loss of a Bradford
   mum, who died aged 36.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381497.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Getty Images)*

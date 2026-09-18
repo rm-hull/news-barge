@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:56:19Z'
 published: '2026-09-09T00:00:00Z'
 description: EMERGENCY service workers are lacing up their trainers for a good cause.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429027.jpg?type=og-image&xType=0&yType=66
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: YAS)*

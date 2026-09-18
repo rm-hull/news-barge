@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Settle woman marked her 100th birthday at Anley Hall Nursing Home,
   where she remains a “picture of glamour and class”.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356648.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A Settle woman marked her 100th birthday at Anley Hall Nursing Home, where she remains a “picture of glamour and class”.

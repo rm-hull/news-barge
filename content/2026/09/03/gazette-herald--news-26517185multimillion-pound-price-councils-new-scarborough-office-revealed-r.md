@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: THE multimillion-pound cost of purchasing a new office building has been
   disclosed by North Yorkshire Council.
 image: https://www.gazetteherald.co.uk/resources/images/20672329.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 THE multimillion-pound cost of purchasing a new office building has been disclosed by North Yorkshire Council.

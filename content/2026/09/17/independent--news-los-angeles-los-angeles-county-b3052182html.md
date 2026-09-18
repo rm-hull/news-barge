@@ -10,6 +10,11 @@ description: The driver who slammed her SUV into a Los Angeles bus, killing two 
   before a news helicopter that was covering it crashed will face murder charges,
   a prosecutor said Thursday
 image: https://static.independent.co.uk/2026/09/17/22/Helicopter_Crash_Los_Angeles_83432.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- True Crime
 ---
 
 Driver who slammed into LA bus before news helicopter crash to face murder charges, prosecutor says

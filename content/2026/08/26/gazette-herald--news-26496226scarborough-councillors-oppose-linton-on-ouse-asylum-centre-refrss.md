@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: PLANS to house asylum seekers at a former North Yorkshire military base
   have been formally opposed by a town council 50 miles away from the site.
 image: https://www.gazetteherald.co.uk/resources/images/21242487.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 PLANS to house asylum seekers at a former North Yorkshire military base have been formally opposed by a town council 50 miles away from the site.

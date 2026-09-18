@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: An NHS consultant neurologist has appeared in court accused of posting
   her support for Hamas on social media.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18905201.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

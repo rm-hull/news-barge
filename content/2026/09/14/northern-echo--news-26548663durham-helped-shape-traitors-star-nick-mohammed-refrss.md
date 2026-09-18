@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Nick Mohammed is now known around the world as the Emmy-nominated star
   of Ted Lasso, but before television success and sold-out comedy tours, he was…
 image: https://www.thenorthernecho.co.uk/resources/images/21452857.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: PA)*

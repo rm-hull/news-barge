@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Traffic chaos was sparked on a busy Yarm roundabout after traffic lights
   failed - with one driver even ‘going the wrong way around’ to avoid it.
 image: https://www.thenorthernecho.co.uk/resources/images/21456653.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Diesel has hit a new record price in the U.S., soaring to an average
   of $5.85 a gallon for the first time ever
 image: https://static.independent.co.uk/2026/09/02/16/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Fuel costs hit an unprecedented high in the U.S. on Friday, with diesel soaring to a record national average of $5.85 a gallon as an ongoing six-month war with Iran continues to disrupt global fuel flows.

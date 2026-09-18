@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: HMS Duncan, HMS St Albans and HMS Severn used radars to monitor four
   vessels as they passed through the North Sea and English Channel last week.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a833/live/9b14df80-a39f-11f1-bb7c-3b1918839019.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Science
 ---
 
 ![A grey Royal Navy warship is in the foreground with a grey Russian vessel in water in the background](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a833/live/9b14df80-a39f-11f1-bb7c-3b1918839019.jpg)

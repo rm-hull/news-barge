@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:24Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/police-jacket-radio-nyp.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A teenager was hurt after being assaulted in a York alleyway.

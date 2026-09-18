@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: First secretary to set out benefits of AI to union conference while vowing
   government will take safety seriously
 image: https://i.guim.co.uk/img/media/a725dd07e2ae5e7c8ef13c06bdecc2ba0bbae768/250_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb86a212d06b66877b243eef8548aa43
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Ministers must “heed the warnings” from industry leaders about the threat posed by AI as the government looks to capitalise on the technology, the first secretary, Louise Haigh, will say on Tuesday.

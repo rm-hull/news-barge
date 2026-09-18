@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Apple showed off at an event the first major design change to the iPhone
   in almost 20 years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An image of the new foldable iPhone Duo in a woman's hands, being opened like a book.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png)

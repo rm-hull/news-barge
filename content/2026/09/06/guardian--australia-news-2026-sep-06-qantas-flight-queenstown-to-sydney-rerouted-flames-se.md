@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’
   after suspected engine issue
 image: https://i.guim.co.uk/img/media/3ca12bde3a74a85c19b5ac0c15a38e92cccb1f2e/465_0_2423_1939/master/2423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=849c1dc786e3c86846045d0deaad2ef1
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Liza-Jayne Loch was returning home from a business trip to New Zealand when her Qantas flight ran into trouble.

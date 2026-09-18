@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A bike has been stolen in the Groves in York - with police issuing a
   photograph of a person officers want to speak to in relation to the theft.
 image: https://www.gazetteherald.co.uk/resources/images/21443106.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: North Yorkshire Police)*

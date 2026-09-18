@@ -9,6 +9,11 @@ description: 'Anyone travelling in Berlin and Brandenburg today should be prepar
   for unpleasant weather: rain, isolated thunderstorms and gusty winds are sweeping
   across the region.'
 image: https://www.berlin.de/binaries/asset/image_assets/8779879/ratio_4_3/1788507618/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Travel
 ---
 
 © dpa

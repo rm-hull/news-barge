@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T04:25:23Z'
 published: '2026-09-07T00:00:00Z'
 description: A "Robotics Readiness Gap" has been identified
 image: https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A robot's hand typing on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L.jpg) 

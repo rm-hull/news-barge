@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: BRADFORD residents have been urged to help end the “misery” of firework
   misuse by having their say on a national survey.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16089182.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

@@ -10,6 +10,9 @@ description: Georgia senator who made fun of President Donald Trump’s relation
   with his aid Natalie Harp, drawing an angry reaction from the White House, is being
   tipped as his potential successor in the Oval Office
 image: https://static.independent.co.uk/2026/09/07/16/2285603531..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Georgia Sen. Jon Ossoff has surged level with New York Rep. Alexandria Ocasio-Cortez in the race to find the Democratic Party’s next presidential nominee, according to Coinbase’s live prediction odds.

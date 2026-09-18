@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The US rapper was condemned by Jewish groups after making comments criticising
   Israel.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3eae/live/99bf3820-b064-11f1-b9fd-8be7457ad079.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Close up of Macklemore, who has shaved blonde hair, and is wearing a blue striped shirt.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0833/live/c4a7c1f0-b065-11f1-a540-61c3f7fc4e6c.jpg)

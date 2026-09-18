@@ -9,6 +9,9 @@ description: A Lebanese man held prisoner in Israel has been released, marking t
   first such handover since the latest Israel-Hezbollah conflict began six months
   ago
 image: https://static.independent.co.uk/2026/09/03/13/Lebanon_Israel_3416_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Lebanese man who had been held prisoner in Israel was released Thursday, the first such handover since the outbreak of the latest Israel-Hezbollah war six months ago, the International Committee of the Red Cross and two Lebanese security officials said.

@@ -8,6 +8,11 @@ scraped_at: '2026-09-08T12:51:34Z'
 published: '2026-09-08T00:00:00Z'
 description: No core or VRAM, but pure profit.
 image: https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![GeForce RTX graphics card](https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM.jpg) 

@@ -9,6 +9,11 @@ description: 'The European Union Agency for Asylum said this decline is due to t
   ongoing political transition in Syria as well as the EU''s cooperation with countries
   of origin and transit. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/85/12/1200x675_cmsv2_ec3e00a8-d0c2-5272-bce2-3d8ad513879d-9908512.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Society & Culture
 ---
 
 **Euronews** with

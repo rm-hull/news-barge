@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Campaigners are urging new Prime Minister Andy Burnham to introduce “proper
   devolution” to ensure West Yorkshire finally gets a tram network.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBlNjNmNzc4LWE1YjgtNDNkYy1hZGRmLWIyOWEwYjg2ZTEyMDo2ZWU5NmQ3ZC00MWFjLTQzYzgtYmQ1My1iMmIxNDkwMzQ1YTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Tram network: Calls for Prime Minister Andy Burnham to introduce ‘proper devolution’ to make plans a reality

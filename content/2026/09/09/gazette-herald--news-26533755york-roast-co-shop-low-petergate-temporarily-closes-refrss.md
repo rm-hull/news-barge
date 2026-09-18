@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The York Roast Co’s Low Petergate shop in York has temporarily closed
   for a transformation.
 image: https://www.gazetteherald.co.uk/resources/images/21428154.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A POPULAR sandwich shop in York city centre has "temporarily" closed its doors.

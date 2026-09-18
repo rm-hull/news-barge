@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: First Secretary Louise Haigh said artificial intelligence had the potential
   to improve lives but guardrails were needed to prevent harm.
 image: https://static.independent.co.uk/2026/09/15/16/b068d8311f9c4590c2679739ff7c68d2Y29udGVudHNlYXJjaGFwaSwxNzg5NTcxMDg0-2.85863973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Artificial intelligence (AI) poses “huge risks” to national security unless the proper safeguards can be put in place, First Secretary Louise Haigh has warned.

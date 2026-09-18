@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: A local woman who lost her five children in the disaster told reporters,
   ‘I have lost all my children. All I can do is put my trust in God’
 image: https://static.independent.co.uk/2026/08/23/21/2291155947..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A catastrophic landslide at the primary landfill in c's capital of Conakry killed 30 people early on Sunday morning, according to an updated casualty toll released by the central government, after heavy rainfall caused a massive mound of waste to collapse onto surrounding homes.

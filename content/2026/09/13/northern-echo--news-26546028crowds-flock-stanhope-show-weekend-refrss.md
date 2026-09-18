@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Crowds have flocked to Stanhope show this weekend, enjoying livestock
   competitions, rural crafts, and agricultural displays.
 image: https://www.thenorthernecho.co.uk/resources/images/21447458.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Crowds have flocked to Stanhope show this weekend, enjoying livestock competitions, rural crafts, and agricultural displays.

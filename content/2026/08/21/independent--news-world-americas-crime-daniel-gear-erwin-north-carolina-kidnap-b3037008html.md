@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Good Samaritan who helped the girl in Harnett County, North Carolina,
   said she was ‘very scratched up’ when she found her
 image: https://static.the-independent.com/2026/08/21/11/01/Screenshot-2026-08-21-at-12-19-55.png?trim=0,0,29,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A 12-year-old girl kidnapped at a sleepover and taken into the woods was found barefoot in a ditch, says the Good Samaritan who rescued her.

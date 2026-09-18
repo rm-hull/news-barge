@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Almost half of UK professionals (46%) now take a packed lunch to work
   more frequently than they did a year ago, the poll for online grocer Ocado found
 image: https://static.independent.co.uk/2026/09/14/13/14131826-4d9fa866-ed1b-438e-9d3c-585e7582cec1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Office workers are increasingly returning to packed lunches as they seek to protect household budgets from the rising cost of living, a survey has suggested.

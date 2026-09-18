@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:28:18Z'
 published: '2026-09-16T00:00:00Z'
 description: Gemma Robins, 30, died 40 days after the birth of her first baby in 2024
 image: https://static.independent.co.uk/2026/09/16/7/40/gemma-robins.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A coroner has raised concerns about how hospitals communicate with one another after the death of a new mother.

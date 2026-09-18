@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:09:44Z'
 published: '2026-09-12T00:00:00Z'
 description: Temperatures could reach a warm 25C in London
 image: https://static.independent.co.uk/2026/09/12/8/56/Screenshot-2026-09-12-at-09-46-33.png?trim=317,0,19,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Summer-like temperatures are set to return early next week following a rainy start to September, with temperatures set to soar to 25C.

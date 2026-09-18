@@ -10,6 +10,9 @@ description: Kirsty McNeill – the new minister for development, who formerly w
   at Save the Children – has emphasised that she is a ‘huge believer in aid’ in two
   speaking engagements that mark her taking up the post
 image: https://static.independent.co.uk/2025/06/12/10/4a8a6de827e94779d642fe61e2c5199dY29udGVudHNlYXJjaGFwaSwxNzQ5ODA0NjI3-2.78734141.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 “Saving and changing lives” is set to the “new focus” of UK aid, the government’s new minister for development has said this week, as she outlined her ambition for a more “values-led” approach to UK development that emphasises moral purpose.

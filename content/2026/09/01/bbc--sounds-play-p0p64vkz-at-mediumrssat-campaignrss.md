@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Former Prime Minister Keir Starmer to stand down as an MP triggering
   a by-election.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ## Episode details

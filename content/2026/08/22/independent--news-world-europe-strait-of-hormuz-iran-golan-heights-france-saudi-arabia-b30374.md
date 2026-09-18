@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Iran's president claims the world has accepted that Iran won its war
   with the United States
 image: https://static.independent.co.uk/2026/08/22/11/Trump_22_3_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iran's president says the world has accepted that it's won the war with the United States, while France and Saudi Arabia are expected to discuss plans to bypass the Strait of Hormuz, which has been effectively closed since the U.S. and Israel launched a war with Iran nearly six months ago.

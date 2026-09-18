@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: A clear plan must be published over the future of British Steel, MPs
   warn today, amid concerns over uncertainty and “significant” taxpayer costs.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEwYjIzMDY1LTYzZjItNDgxMS04NzRhLWU3MjBjZmQwMGNjNzo5ZDJmZWMxZC0xOWZlLTRiMTAtYTViYi03ZjhiZGQxYWYyZTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Call for clear plan over future of British Steel to secure sector and 4,000 jobs

@@ -9,6 +9,12 @@ description: Determining which accounts belong to children is the linchpin of on
   child safety measures that Meta, Google, TikTok, Roblox and other companies are
   ramping up as public and regulatory sentiment increasingly turns against them
 image: https://static.independent.co.uk/2026/08/27/05/Meta_Trial_Settlements_56488.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
+- Technology & Software
 ---
 
 'Of the child safety measures agreed to in Meta's landmark legal settlement, no category contains more detailed requirements than its commitments on age assurance — and for good reason. No matter how well the protections work, they are of little use if Meta can't tell which users are kids.

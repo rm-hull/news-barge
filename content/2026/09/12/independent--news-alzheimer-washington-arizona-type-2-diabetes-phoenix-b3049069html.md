@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: New blood tests are helping doctors diagnose whether Alzheimer’s or something
   else is causing a patient’s memory problems
 image: https://static.independent.co.uk/2026/09/12/13/Be_Well-Alzheimer%27s-Blood_Tests_54566.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 New blood tests that might predict Alzheimer’s years before symptoms begin may sound tantalizing for people who worry about later-in-life dementia. But doctors say they aren't quite ready yet — and besides, you don’t need a test before trying to lower your risk.

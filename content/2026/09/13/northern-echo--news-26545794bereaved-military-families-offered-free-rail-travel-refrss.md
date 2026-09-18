@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Hundreds of bereaved military relatives will travel free by train this
   Remembrance weekend under a scheme helping them honour loved ones who died…
 image: https://www.thenorthernecho.co.uk/resources/images/21108325.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: STUART BOULTON)*

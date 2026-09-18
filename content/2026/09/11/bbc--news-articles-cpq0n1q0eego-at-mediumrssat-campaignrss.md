@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Actresses Maisie Williams and Joey King feature in the upcoming sequel
   of the 1998 fantasy romcom.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcdf/live/d9d20260-ac56-11f1-9e64-05835b0b18f8.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Joey King and Maisie Williams attend the Practical Magic 2 European Premiere in London. Joey wears a cream dress with a lace overlay and flower details and her red hair is worn down in waves. Maisie wears a red dress and her brunette hair in an updo.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/bcdf/live/d9d20260-ac56-11f1-9e64-05835b0b18f8.jpg)

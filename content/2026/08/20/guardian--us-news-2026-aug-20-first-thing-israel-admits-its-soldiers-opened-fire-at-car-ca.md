@@ -10,6 +10,9 @@ description: Israeli military orders criminal investigation into deaths of Hind 
   six family members. Plus, FCC chair Brendan Carr’s close coordination with White
   House revealed
 image: https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc4a5797a30663109fea050e2fe5566f
+categories:
+- UK
+- News & Politics
 ---
 
 Good morning.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Pakistan begin an inquiry into “discipline and conduct” in the latest
   twist on a turbulent tour of England.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/47f0/live/8a9f1770-aac4-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Pakistan cricket team celebrate a wicket](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/47f0/live/8a9f1770-aac4-11f1-9bcd-4de40c4158ea.jpg)

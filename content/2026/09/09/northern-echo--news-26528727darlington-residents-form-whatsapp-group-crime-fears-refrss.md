@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Residents have joined forces after reports of people trying front doors
   and targeting cars and vans across parts of Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21420929.jpg?type=og-image&xType=0&yType=167
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Residents have joined forces after reports of people trying front doors and targeting cars and vans across parts of Darlington.

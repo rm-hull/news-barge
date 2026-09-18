@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Michael Cohen, Trump’s former fixer turned key witness against him, said
   it was their first public conversation in eight years
 image: https://static.independent.co.uk/2026/08/20/23/20/GettyImages-2289908104-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump and Michael Cohen discussed Iran, the economy, immigration and their own repaired relationship in a newly released WABC radio interview.

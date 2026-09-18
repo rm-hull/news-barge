@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A knife-wielding drunk who threatened to kill a housemate has avoided
   jail.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17073605.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Archive photo)*

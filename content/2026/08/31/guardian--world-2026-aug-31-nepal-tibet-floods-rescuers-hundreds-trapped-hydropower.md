@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Workers thought to be stuck in underground areas at 11 sites after last
   week’s devastating flash floods
 image: https://i.guim.co.uk/img/media/a7a6832938f63907d11e64703b1e5f0934fcf540/0_295_2397_1916/master/2397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6a47d2101ba504fcb275e2fcd5e753c
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Rescue teams are working to reach more than 900 missing hydropower workers, hundreds of whom are feared trapped in the tunnels and underground areas of 12 hydropower projects in Nepal after the devastating flash floods, the country’s disaster management authority has said.

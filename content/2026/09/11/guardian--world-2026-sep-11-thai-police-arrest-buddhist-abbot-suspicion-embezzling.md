@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Phra Wachirayan Wi arrested alongside woman he was filmed having sex
   with in latest scandal to hit country’s clergy
 image: https://i.guim.co.uk/img/media/ea4f2e5883e687faf4c37af96a4350d8289aa967/0_0_3173_2538/master/3173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=340ab4d10d3ecee13d60908311eece30
+categories:
+- UK
+- News & Politics
 ---
 
 Police in Thailand have arrested a senior Buddhist monk on suspicion of embezzling $2.8m intended for his monastery, alongside a suspected female accomplice he was filmed having sex with.

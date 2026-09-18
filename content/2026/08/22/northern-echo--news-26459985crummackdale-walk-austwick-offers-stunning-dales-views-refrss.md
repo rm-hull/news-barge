@@ -8,6 +8,11 @@ scraped_at: '2026-08-22T08:43:15Z'
 published: '2026-08-22T00:00:00Z'
 description: Crummackdale, a hidden gem.
 image: https://www.thenorthernecho.co.uk/resources/images/21310171.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Jonathan Smith)*

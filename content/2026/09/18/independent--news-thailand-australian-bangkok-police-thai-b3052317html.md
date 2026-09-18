@@ -9,6 +9,10 @@ description: An Australian man has appeared in a Thai court for the first time o
   charges of murder and concealment of a body in connection with the death of a teenage
   girl
 image: https://static.independent.co.uk/2026/09/18/08/Thailand_Australia_Killing_7_671.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Australian man appeared in court for the first time Friday on charges of murder and concealment of a body in connection with the death of a teenage girl in an eastern tourist city in Thailand, police said.

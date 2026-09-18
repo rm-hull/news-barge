@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: Many fear chancellor is wrong man for the job at a time when Germany’s
   defences against far right are crumbling
 image: https://i.guim.co.uk/img/media/77c897b509cf0697ded118227ba6c384383862e2/577_177_4910_3928/master/4910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a706bcf598f02a1714c8e84ca63c823d
+categories:
+- UK
+- News & Politics
 ---
 
 A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of Germany’s joyous reunification three decades ago, and a threat to the democratic postwar order.

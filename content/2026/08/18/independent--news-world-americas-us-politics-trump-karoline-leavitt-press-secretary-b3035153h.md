@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Trump ‘genuinely doesn’t know who to pick and has expressed zero urgency,’
   a White House official told CNN
 image: https://static.independent.co.uk/2026/08/18/17/31/GettyImages-2286677276.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump is in no hurry to name a successor to outgoing White House Press Secretary Karoline Leavitt and is considering a temporary arrangement in which several officials rotate through the role, according to a new report.

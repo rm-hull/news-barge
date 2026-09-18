@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Andy Burnham is likely to face fresh pressure to further change the rules
   on party donations, writes Jack Fenwick.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7114/live/73ceb2f0-af95-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Reform UK leader Nigel Farage is wear a turquoise-coloured suit jacket, white shirt and a red tie with white dots.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7114/live/73ceb2f0-af95-11f1-a540-61c3f7fc4e6c.jpg)

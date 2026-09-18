@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Lebanon’s president has made a rare visit to a southern city amid fears
   of more Israeli attacks
 image: https://static.independent.co.uk/2026/09/12/09/Lebanon_Israel_War_5669_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Lebanon’s president made a rare visit to a southern city Saturday, close to where Israel captured a strategic hill, amid fears of more Israeli attacks.

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: In Ghana, a grassroots movement is championing nutritious, homegrown,
   climate-resilient produce, rather than western imports
 image: https://i.guim.co.uk/img/media/d283de3e11da985ed88e5ee89ee456ad3f3b43df/129_0_1659_1327/master/1659.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=470d2067e60d88b3b3c133fdf0677598
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Food & Cooking
 ---
 
 After three years at catering school, Abiro Wisdom was certain of one thing – he did not want to go into catering. At least not the route that he might be expected to take. His course at Accra Technical University had prepared students for working in international hotels, focusing on French, Italian and Mexican cuisine. The nutritious, homegrown food that Wisdom had eaten while growing up in Bolgatanga, northern Ghana, did not feature at all.

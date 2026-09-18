@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Manchester City agree a deal in principle for 18-year-old Lille midfielder
   Ayyoub Bouaddi worth 100m euros (£86m).
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0b05/live/65d79880-9eea-11f1-bd7c-915bb85b5513.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Lille midfielder Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/936/cpsprodpb/0b05/live/65d79880-9eea-11f1-bd7c-915bb85b5513.jpg)

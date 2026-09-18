@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The Government announced the maternity review into University Hospitals
   Sussex NHS Foundation Trust which will look at cases dating back to 2018
 image: https://static.independent.co.uk/2026/08/30/17/07/01M18RGR97SKAN8GYE89A32Z70.jpg?trim=0,0,1007,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A grieving mother hopes an upcoming review into maternity care will provide answers regarding the death of her baby son, as the investigation team prepares to meet with affected families for the first time.

@@ -9,6 +9,10 @@ description: Why do humans have a common sense of beauty for things like sunsets
   and do other animals share this appreciation? And why can’t we cool water as quickly
   as we can heat it?
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307973960.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![beautiful sunset on some beach in the world with the best friend; Shutterstock ID 1970811404; purchase_order: -; job: -; client: -; other:](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307973960.jpg?w=840)

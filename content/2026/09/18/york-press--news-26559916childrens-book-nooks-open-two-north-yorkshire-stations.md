@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A new children’s Book Nook has opened at Thirsk station in North Yorkshire,
   with author Amelia Tait launching the reading space donated by…
 image: https://www.yorkpress.co.uk/resources/images/21466216.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: TransPennine)*

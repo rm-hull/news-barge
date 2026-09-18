@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Vice-president suggests payment would not go to all and would be paid
   for by tariff revenues despite supreme court rulings against much of Trump’s program
 image: https://i.guim.co.uk/img/media/bdc76f472be7743c3f9bc47d9edbe086122e11c6/702_0_6949_5559/master/6949.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=fb874ed94ae6f9871d1972386977cdc1
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Vance appears to walk back Trump’s offer of $5,000 ‘dividend’ if Republicans win midterms – US politics live

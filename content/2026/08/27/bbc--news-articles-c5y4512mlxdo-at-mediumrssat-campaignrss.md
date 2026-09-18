@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Hundreds of former UK service personnel have had their pensions cut after
   being overpaid.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a26/live/e0fbfd20-a2bf-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- History
+- Personal Finance & Investing
 ---
 
 ![An older man wearing glasses, a dark suit and striped tie sits on a purple sofa in a living room, looking towards the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2a26/live/e0fbfd20-a2bf-11f1-a291-b542ee92de7c.png)

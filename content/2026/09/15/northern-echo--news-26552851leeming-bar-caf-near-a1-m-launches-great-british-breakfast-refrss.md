@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Simply Café, at Leeming Bar in North Yorkshire, has launched its Great
   British Breakfast featuring ingredients associated with England, Scotland,…
 image: https://www.thenorthernecho.co.uk/resources/images/21459247.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A North Yorkshire café has created a new unique breakfast bringing together food from across Britain after its boss misheard a customer's order.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: She was running up against the Greek government's 54-year age limit for
   women to complete in vitro fertilization procedures
 image: https://static.independent.co.uk/2026/09/11/16/Greece_Frozen_Embryo__9448.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A woman in Greece has given birth at the age of 54, beating a government deadline to use one of her embryos which had been frozen for 22 years.

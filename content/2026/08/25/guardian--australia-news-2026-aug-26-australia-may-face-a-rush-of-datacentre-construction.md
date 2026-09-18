@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Regulations will require new sites to avoid pushing up power prices by
   building renewable energy plants and minimising water use
 image: https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da167a063e0d57be2a75a4bc255f0117
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Planned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.

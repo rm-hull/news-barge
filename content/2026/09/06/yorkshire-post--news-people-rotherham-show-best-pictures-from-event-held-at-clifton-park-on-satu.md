@@ -8,6 +8,11 @@ scraped_at: '2026-09-06T12:07:30Z'
 published: '2026-09-06T00:00:00Z'
 description: Rotherham Show attracted huge crowds to Clifton Park this weekend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjExZGZlYTdhLTI4MzgtNDc4ZC1hNDlkLTc2YjU2ZGZmYTExODo0NzU1ZjI1OS0wZmY5LTRjMzItOWY3Yi1kOGRkNmRjMTJjZWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 The region’s biggest free cultural festival returned for two busy days on Saturday and Sunday.

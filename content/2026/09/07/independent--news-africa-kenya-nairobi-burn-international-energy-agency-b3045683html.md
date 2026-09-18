@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Carbon credit financing is helping to drive Africa’s clean cooking transition
   by making cleaner stoves affordable for millions of low-income households
 image: https://static.independent.co.uk/2026/09/07/05/Africa_Carbon_Finance_Cooking_41888.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Every morning, Mary Kavutha prepares breakfast for her two young children using an induction cooker in her Nairobi home. Two years ago, the businesswoman relied on a charcoal stove that filled her kitchen with smoke and cost about $1.15 in fuel each day.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T22:03:31Z'
 published: '2026-09-05T00:00:00Z'
 description: National Rail said the fire had caused an electricity supply failure
 image: https://static.independent.co.uk/2026/09/05/19/01M1SB5H1K62RBHTVSYA02HHS4.jpg?trim=336,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Train services to Heathrow Airport have been cancelled due to a grass fire near a train track in the London Paddington area.

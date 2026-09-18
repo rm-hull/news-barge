@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Port of Tyne nurdle spill recovery continues across North East beaches,
   as crews change cleaning tactics, add local workers and prepare for spring…
 image: https://www.thenorthernecho.co.uk/resources/images/21217352.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Environmental recovery efforts are entering a new phase following the major nurdle spill on the UK coastline.

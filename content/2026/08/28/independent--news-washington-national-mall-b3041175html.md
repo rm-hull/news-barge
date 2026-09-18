@@ -9,6 +9,10 @@ description: Thousands of protesters gather on the National Mall in Washington f
   the 2026 “Defend the Vote” March on Washington, calling for voting rights and racial
   justice ahead of the midterm elections.
 image: https://static.independent.co.uk/2026/08/28/16/March_on_Washington_9_299.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands march in Washington to defend voting rights, in photos

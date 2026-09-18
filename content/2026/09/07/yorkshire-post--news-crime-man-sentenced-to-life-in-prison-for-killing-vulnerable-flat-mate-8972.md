@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man has been sentenced to life in prison after being found guilty of
   murdering his vulnerable flat-mate in Leeds.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQwMmY0MmU3LWJjZTYtNDY0YS05ODc4LWQyNTUxNDViNjc3Yjo3MTliZWNhMy05NTYxLTQ3ZGUtOWEwNS00NGY3ZGIzODY0ODA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man sentenced to life in prison for killing vulnerable flat-mate

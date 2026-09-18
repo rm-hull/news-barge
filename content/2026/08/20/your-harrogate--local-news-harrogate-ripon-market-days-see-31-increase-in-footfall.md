@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Thursday footfall in Ripon has increased by almost a third during a programme
   of free live music and family entertainment in the city centre.
 image: https://mmo.aiircdn.com/409/6a86fd6dc6e3969f44e.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86fd6dc6e3969f44e.jpg) 

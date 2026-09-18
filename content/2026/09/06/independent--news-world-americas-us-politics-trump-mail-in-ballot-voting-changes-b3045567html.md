@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: President Donald Trump has long sought to limit mail voting, even though
   he himself often uses that method to cast his own ballot
 image: https://static.independent.co.uk/2026/07/28/02/2278806877..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration has renewed its appeal to the Supreme Court to allow new restrictions on mail ballots ahead of the midterms after a federal judge issued a preliminary injunction.

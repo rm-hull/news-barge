@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: An Ohio man has been found incompetent to stand trial after his 16 grandchildren
   were found living in filthy conditions
 image: https://static.independent.co.uk/2026/09/09/23/Ohio_Abused_Children_3167_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A man whose 16 grandchildren were discovered living in squalid conditions at a rural southern Ohio home was found mentally incompetent to stand trial Wednesday.

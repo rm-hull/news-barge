@@ -9,6 +9,8 @@ published: '2026-09-17T00:00:00Z'
 description: A homeowner in Beckton, Newham, now has a broadband line which offers
   8,200Mbps for both downloading and uploading.
 image: https://cdn.mos.cms.futurecdn.net/tJ3jYk6MGwR9XE2p3WUgGg-1803-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Community Fibre van with engineer stood in front wearing high-vis jacket](https://cdn.mos.cms.futurecdn.net/tJ3jYk6MGwR9XE2p3WUgGg.jpg) 

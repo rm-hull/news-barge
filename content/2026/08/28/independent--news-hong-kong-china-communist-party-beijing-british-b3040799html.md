@@ -10,6 +10,9 @@ description: Three former organizers of Hong Kong’s annual vigils in remembran
   the 1989 Tiananmen Square crackdown have returned to court for arguments over their
   upcoming sentences
 image: https://static.independent.co.uk/2026/08/28/07/Hong_Kong_Tiananmen_Trial_26338.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Three former organizers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square crackdown returned to court Friday to argue over their sentences after being convicted of inciting subversion under a national security law imposed by China.

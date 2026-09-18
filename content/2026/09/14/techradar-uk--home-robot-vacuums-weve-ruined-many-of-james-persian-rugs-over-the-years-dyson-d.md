@@ -8,6 +8,8 @@ scraped_at: '2026-09-14T15:00:21Z'
 published: '2026-09-14T00:00:00Z'
 description: I got the insider scoop on the new Nurovi range
 image: https://cdn.mos.cms.futurecdn.net/iFneAQaE78U2UX8roMSHgN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dyson Nurovi robot vacuum](https://cdn.mos.cms.futurecdn.net/iFneAQaE78U2UX8roMSHgN.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Jurors are expected to resume deliberating the Lindsay Clancy murder
   case Friday morning at 9 a.m. ET
 image: https://static.independent.co.uk/2026/08/28/13/Lindsay_Clancy_Trial_36_99.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors in the Lindsay Clancy murder trial are expected to return to court Friday morning at 9 a.m. ET in Plymouth, Massachusetts, where they must decide whether to hold the former labor and delivery nurse criminally responsible for killing her three children in 2023.

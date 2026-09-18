@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Nathan Cofnas says he is being investigated for discriminating against
   the late Cambridge professor.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Head shot showing Professor Jason Arday sitting in the Sunday with Laura Kuennsberg studio. He is smiling at the camera with long black locs, wearing a white shirt with a grey waist coat.](https://ichef.bbci.co.uk/ace/standard/812/cpsprodpb/1f74/live/00f620c0-8dc5-11f1-99b6-11db6bdc35da.jpg)

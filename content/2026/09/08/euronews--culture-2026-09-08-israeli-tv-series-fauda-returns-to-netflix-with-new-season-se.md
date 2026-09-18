@@ -9,6 +9,10 @@ description: Lior Raz, one of the show's creators, told Netflix's Tudum site tha
   he hoped viewers would understand "how peace is important, and how we need to think
   differently and how war is ruining the universe."
 image: https://images.euronews.com/articles/stories/09/90/63/26/1200x675_cmsv2_40dadc13-1bb2-50d6-b400-af6691d7705b-9906326.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
 ---
 
 ## Lior Raz, one of the show's creators, told Netflix's Tudum site that he hoped viewers would understand "how peace is important, and how we need to think differently and how war is ruining the universe."

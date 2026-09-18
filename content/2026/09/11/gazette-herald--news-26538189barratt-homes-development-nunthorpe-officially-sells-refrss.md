@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Barratt Homes’ Grey Towers Village development in Nunthorpe has officially
   sold out.
 image: https://www.gazetteherald.co.uk/resources/images/21434123.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Barratt Homes)*

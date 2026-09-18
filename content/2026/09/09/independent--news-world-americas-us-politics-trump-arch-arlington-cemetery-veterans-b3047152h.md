@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The 250-foot arch could involve 20 hours of construction per day and
   take two to three years to complete
 image: https://static.independent.co.uk/2026/09/09/10/2026-09-04T210411Z_738635944_RC2ABMAYHP3C_RTRMADP_3_USA-TRUMP-ARCH.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Veterans and families of fallen U.S. soldiers say that President Donald Trump’s 250-foot Triumphal Arch in Washington, D.C. risks disrupting military burials at Arlington National Cemetery, as their fight against the project ramps up.

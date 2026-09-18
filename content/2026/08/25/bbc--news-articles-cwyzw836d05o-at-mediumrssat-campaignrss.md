@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Iran has closed the vital waterway since the beginning of the conflict
   causing wild fluctuations in oil prices worldwide.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e344/live/b6975340-a0a3-11f1-84a9-276d1a8e5a22.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: What are these sanctions and who will be affected?

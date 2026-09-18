@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Based in Alcoutim, in the Algarve, Solara4 has been operating for five
   years, but over that time it has repeatedly run into a series of setbacks.
 image: https://images.euronews.com/articles/stories/09/88/66/90/1200x675_cmsv2_23366f2f-8311-5e16-8cdc-13e4a62d13db-9886690.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Based in Alcoutim, in the Algarve, Solara4 has been operating for five years, but over that time it has repeatedly run into a series of setbacks.

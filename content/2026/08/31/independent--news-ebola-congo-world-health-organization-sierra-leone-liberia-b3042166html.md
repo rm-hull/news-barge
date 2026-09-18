@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Congo’s authorities report that the fastest-growing Ebola outbreak in
   history has topped 6,000 cases with 2,911 deaths
 image: https://static.independent.co.uk/2026/08/24/14/Congo_Ebola_26494.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Congo’s authorities said Monday that the fastest-growing Ebola outbreak in history has topped 6,000 cases with 2,911 deaths.

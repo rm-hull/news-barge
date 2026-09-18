@@ -10,6 +10,10 @@ published: '2026-09-18T00:00:00Z'
 description: The rush to build semiconductor plants in the U.S. is fueling the demand
   for engineers and technicians.
 image: https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![TSMC Arizona Fab 21 entrance](https://cdn.mos.cms.futurecdn.net/ouCnDodNxZsDysigzb7rsd.png) 

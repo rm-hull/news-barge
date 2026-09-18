@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Christian Democratic Union leadership throws its weight behind the chancellor
   ahead of two state elections this weekend.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![German Chancellor Friedrich Merz appears at a news conference wearing a blue suit and tie, white shirt and glasses.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg)

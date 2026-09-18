@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Thousands of music fans are expected to descend on Darlington town centre
   as the free Rhythm & Tunes festival returns with tribute acts, live…
 image: https://www.thenorthernecho.co.uk/resources/images/19952856.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: SARAH CALDECOTT)*

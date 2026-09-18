@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:54:46Z'
 published: '2026-08-21T00:00:00Z'
 description: DRIVERS are being reminded of the dangers of drug driving this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16485300.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Pixabay)*

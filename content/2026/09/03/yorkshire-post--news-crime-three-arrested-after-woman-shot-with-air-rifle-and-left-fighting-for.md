@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Three people have been arrested after a woman was shot with an air rifle
   and left with life-threatening injuries in Barnsley.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/5/28/Windsor-Street-in-Thurnscoe-Barnsley.png?trim=0,18,0,18&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Three arrested after woman shot with air rifle and left fighting for her life

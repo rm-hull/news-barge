@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: People have objected to Nigel Farage’s appointment to a role in North
   Yorkshire after stepping down from the House of Commons.
 image: https://www.yorkpress.co.uk/resources/images/21319055.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Objections raised against Nigel Farage’s appointment in North Yorkshire

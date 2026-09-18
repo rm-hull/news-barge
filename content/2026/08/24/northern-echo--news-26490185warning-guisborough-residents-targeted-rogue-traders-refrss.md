@@ -8,6 +8,13 @@ published: '2026-08-24T00:00:00Z'
 description: A Guisborough councillor has warned residents to stay vigilant after
   a rise in reports of rogue traders targeting vulnerable people in the area.
 image: https://www.thenorthernecho.co.uk/resources/images/16195205.jpg?type=og-image&xType=0&yType=100
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 Residents in part of North Yorkshire are being warned to stay vigilant after reports of rogue traders targeting vulnerable people on their doorsteps.

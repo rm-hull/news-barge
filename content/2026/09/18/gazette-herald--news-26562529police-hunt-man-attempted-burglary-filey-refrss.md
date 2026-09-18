@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Police are investigating a suspected attempted burglary
   in a quiet street in Filey.
 image: https://www.gazetteherald.co.uk/resources/images/21473180.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

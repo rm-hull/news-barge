@@ -7,6 +7,12 @@ scraped_at: '2026-09-05T11:50:09Z'
 published: '2026-09-05T00:00:00Z'
 description: Liz Cottam has opened a new restaurant, Byre, at Storiths.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21320100.jpg?type=og-image&xType=0&yType=592
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

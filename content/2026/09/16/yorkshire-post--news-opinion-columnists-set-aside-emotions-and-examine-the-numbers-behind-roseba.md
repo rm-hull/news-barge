@@ -8,6 +8,11 @@ scraped_at: '2026-09-16T13:28:30Z'
 published: '2026-09-16T00:00:00Z'
 description: 'From: Julian Briggs, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUyOGJhMjE1LTU4YTktNDJjYS1hYmE4LTBiZjQ5NDYxNmQ4NDoyMjc5ZDJlYy1mZGZhLTQ5NDMtOWMyNi04NjBmNDQ1ODhhMTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Set aside emotions and examine the numbers behind Rosebank and Jackdaw - Yorkshire Post Letters

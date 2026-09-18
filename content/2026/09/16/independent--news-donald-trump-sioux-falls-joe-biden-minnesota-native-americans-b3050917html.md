@@ -10,6 +10,11 @@ description: An audit report of the Bureau of Indian Affairs' Missing and Murder
   Unit released this month reveals staffing challenges, a backlog of hundreds of case
   referrals and families left without required victims' services
 image: https://static.independent.co.uk/2026/09/16/05/Missing_Indigenous_Audit_89292.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Peter Martin went missing two years ago from the Fond Du Lac reservation in Minnesota. His family hasn't stopped looking, but they say the U.S. Bureau of Indian Affairs investigation into Martin's disappearance has stalled since the agent assigned to the case left the role in early 2025.

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Bestselling author Ben Kane will discuss A Land Aflame, the latest Hannibal
   novel, at a literary event in Seaton Carew on September 15 at 6.30pm.
 image: https://www.thenorthernecho.co.uk/resources/images/21436885.jpg?type=og-image&xType=0&yType=37
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Provided)*

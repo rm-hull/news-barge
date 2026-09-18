@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Harvey Nichols has temporarily shut down its website and won't be giving
   out refunds to customers in the usual way following a takeover of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21330927.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

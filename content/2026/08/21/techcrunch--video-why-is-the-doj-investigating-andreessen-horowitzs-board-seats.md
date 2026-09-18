@@ -9,6 +9,9 @@ description: Watch as Equity digs into the DOJ's antitrust probe of Andreessen H
   what happens to AI startups that aren't Anthropic, OpenAI, or Nvidia, and more deals
   of the week.
 image: https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs.

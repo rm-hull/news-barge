@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T13:04:29Z'
 published: '2026-08-18T00:00:00Z'
 description: There are expected to be 12 additional £100,000 prizes
 image: https://static.independent.co.uk/2026/02/24/10/40/nsi-premium-bonds.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 NS&I has revealed it will make changes to Premium Bonds from September in a boost to players.

@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Iran's president has defended a memorandum of understanding with the
   U.S. as the best way to end a stalled conflict
 image: null
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Iran's president defended a memorandum of understanding with the United States as the best way out of a stalled war.

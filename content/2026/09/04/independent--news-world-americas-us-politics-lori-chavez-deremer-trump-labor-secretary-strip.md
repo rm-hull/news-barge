@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Lori Chavez-DeRemer maintained a ‘toxic, intimidating and humiliating’
   workplace, federal watchdog finds
 image: https://static.independent.co.uk/2026/09/04/15/2233150320..?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Donald Trump’s former labor secretary reportedly instructed a member of her security detail to drop banknotes on a stripper, had an “inappropriate relationship” with a bodyguard and maintained a workplace that more than three dozen witnesses described as “toxic, intimidating and humiliating.”

@@ -9,6 +9,10 @@ description: More than 15 politicians from across the country have signed on to 
   AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,”
   says Senate candidate Dan Osborn of Nebraska.
 image: https://media.wired.com/photos/6a8ded27f4779156570e0f64/191:100/w_1280,c_limit/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Dan Osborn was finishing up his fourth town hall last Sunday, he says, when a “hardcore MAGA” guy approached him. Osborn, who is running for the US Senate in Nebraska as an independent against Republican incumbent Pete Ricketts, said that he and the man didn’t have much common ground—at first.

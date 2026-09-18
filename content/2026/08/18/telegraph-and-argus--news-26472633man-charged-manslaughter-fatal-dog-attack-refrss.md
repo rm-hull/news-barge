@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man charged with manslaughter following the death of a 55-year-old
   man who was fatally injured in a dog attack in Wakefield will appear in a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333640.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: SWNS)*

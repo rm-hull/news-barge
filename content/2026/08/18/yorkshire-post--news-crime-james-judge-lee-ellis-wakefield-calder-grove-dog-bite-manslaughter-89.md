@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man has appeared in court accused of manslaughter after his dog fatally
   bit a man on a footpath in an argument about a right of way.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/18/12/v2-image-production-85c9e426b1a54f9d619894ee69b09b4eY29udGVudHNlYXJjaGFwaSwxNzg3MTM5NjA3-2.85593478.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Farrier’s dog fatally bit man on path after ‘right of way’ argument, court told

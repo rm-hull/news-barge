@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The study examined how cancer risk and mortality differed between men
   and women over more than 25 years
 image: https://static.independent.co.uk/2025/12/10/21/13/iStock-645011548.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Men with heart disease are at a higher risk of developing and dying from cancer, new research suggests.

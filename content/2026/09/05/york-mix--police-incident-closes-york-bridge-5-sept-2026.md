@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T22:03:10Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/police-incident-ouse-bridge-york-5-sept-2026-4.webp
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 A police incident has closed a York bridge tonight (Saturday).

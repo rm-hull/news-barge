@@ -8,6 +8,8 @@ published: '2026-08-21T00:00:00Z'
 description: The $225 Pebble Time 2 pairs quirky watch faces and apps with physical
   buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.
 image: https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923
+categories:
+- Technology & Software
 ---
 
 The new $225 Pebble Time 2 smartwatch feels like a toy, and we mean that in the best sense of the word. The refreshed version of the indie smartwatch brand, rebooted by its original founder, feels casual, fun, and playful, — not like a mini-computer on your wrist. Its quirky watch faces and simple apps and games give it a sort of hacker energy, while its physical buttons, e-paper screen, and long battery life provide its retro vibes.

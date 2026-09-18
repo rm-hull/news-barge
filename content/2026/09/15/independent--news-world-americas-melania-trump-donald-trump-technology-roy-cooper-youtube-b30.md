@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: First lady Melania Trump visited an elementary school in northwestern
   North Carolina Tuesday, where she said the U.S. must lead on artificial intelligence
 image: https://static.independent.co.uk/2026/09/15/19/Melania_Trump_333_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 First lady Melania Trump visited an elementary school in northwestern North Carolina Tuesday, where she said the U.S. must lead on artificial intelligence as she spoke with elementary school students, teachers and staff about how they're using technology and AI in the classroom.

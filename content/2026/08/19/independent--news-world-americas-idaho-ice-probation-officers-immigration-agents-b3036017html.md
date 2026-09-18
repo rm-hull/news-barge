@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: More than half on the compiled list were on probation for driving under
   the influence, records show
 image: https://static.independent.co.uk/2026/08/19/22/2026-08-13T010844Z_2039020134_RC2MMEAR62Y2_RTRMADP_3_USA-TRUMP-ICE-GLOVES.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In May, a senior probation officer in southwestern Idaho alerted immigration authorities about a man scheduled to attend a routine check-in the next day.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Culture correspondent Noor Nanji explores how the country legend's signature
   style helped her take over the world.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2867/live/be773670-a152-11f1-92f3-2381193e5eb4.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # How Dolly Parton became a fashion icon

@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:58Z'
 published: '2026-09-02T00:00:00Z'
 description: A new Latin American-inspired food brand has launched in Harrogate.
 image: https://mmo.aiircdn.com/409/6a97ce2f72c8cd3bd93.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97ce2f72c8cd3bd93.jpg) 

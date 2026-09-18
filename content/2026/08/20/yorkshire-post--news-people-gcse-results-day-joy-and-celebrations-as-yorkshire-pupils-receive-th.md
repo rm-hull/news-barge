@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Pupils across Yorkshire have been celebrating after opening their GCSE
   results and discovering the grades secured after years of hard work.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ3N2Y1MTk2LWJjYjMtNDhkYy1hZmViLWEwODQ3NmFiZDg1MzoyZTk1MTdhMi1kZGNlLTQwNTktODA5My05NjNjMzA5MmM0YmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 Smiles, celebrations and some nervous moments marked GCSE results day as pupils across Yorkshire discovered how they had performed.

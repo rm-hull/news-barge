@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Hundreds of former workers are owed around £489,000 in employee wages
   arrears and holiday pay
 image: https://static.independent.co.uk/2026/03/02/16/2db842733379103021c51e39a23a114dY29udGVudHNlYXJjaGFwaSwxNzcyNTU0NjQ4-2.71014288.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Ex-workers and certain creditors of BrewDog’s collapsed retail division are expected to receive no money following its administration.

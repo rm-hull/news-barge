@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Maya’s Football Match will take place at Consett AFC on Sunday, September
   6, in memory of murdered County Durham toddler Maya Chappell.
 image: https://www.thenorthernecho.co.uk/resources/images/21352713.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A charity football match is being held in memory of murdered County Durham toddler Maya Chappell, with money raised set to support families dealing with child loss.

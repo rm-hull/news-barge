@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: At IFA 2026, Anker's Soundcore unveiled 7 new audio products, including
   open earbuds which take features from my favorite pair of buds so far this year.
 image: https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![The Soundcore Liberty 5 Pro and 5 Pro Max cases, stacked atop each other.](https://cdn.mos.cms.futurecdn.net/tbB5m6zJHVjPjb73cSP4sG.jpg) 

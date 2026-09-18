@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Police renew appeal after a motorcyclist dies following crash involving
   two motorcycles near Westow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2047/live/4cc1a620-a2d1-11f1-941c-8741c1a72471.png
+categories:
+- Local
+- Harrogate
+- Automotive
+- Technology & Software
 ---
 
 ![This image shows a rural road junction in open countryside. A two-lane road runs from the foreground into the distance, descending through  farmland.

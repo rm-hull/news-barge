@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A royal florist will headline a special event for a national movement
   in sustainable church flowers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471104.jpg?type=og-image&xType=0&yType=82
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A ROYAL florist will headline a special event in the Yorkshire Dales for a national movement in sustainable church flowers.

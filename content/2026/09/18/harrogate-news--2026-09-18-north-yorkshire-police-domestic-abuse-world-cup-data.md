@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: While it is true that football itself does not cause domestic abuse,
   it is a well-established sociological and policing reality that high-stakes tournaments
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/football-splash.webp
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
 ---
 
 **NORTH YORKSHIRE**— Newly published police statistics have revealed a significant escalation in local domestic abuse crimes recorded during key England match dates throughout the recent World Cup tournament.Data obtained from North Yorkshire Police via a Freedom of Information (FOI) request by researchers at 101 Great Goals shows that recorded domestic offences surged by 46 per cent on Tuesday, 23 June 2026, when England fought out a 0-0 group-stage draw against Ghana.The force logged 26 separate domestic abuse crimes during the fixture window, compared to a baseline average of fewer than 18 offences across the preceding four Tuesdays.

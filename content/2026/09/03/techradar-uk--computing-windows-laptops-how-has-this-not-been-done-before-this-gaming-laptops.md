@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Japanese laptop boasts a clever cooling innovation that might catch on
   elsewhere.
 image: https://cdn.mos.cms.futurecdn.net/DxdHRFXtcupEi746b5FutZ-1000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Iiyama PC Level 15FX167 laptop shown from the rear with stand extended](https://cdn.mos.cms.futurecdn.net/DxdHRFXtcupEi746b5FutZ.jpg) 

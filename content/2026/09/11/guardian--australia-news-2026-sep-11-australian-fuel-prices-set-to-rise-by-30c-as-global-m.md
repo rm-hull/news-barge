@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Global oil price at its highest since May while investors dump stocks
   and bonds after Donald Trump’s $5,000 ‘dividend’ promise
 image: https://i.guim.co.uk/img/media/44de57bc3016c00e710f1421118d07f71a5b9065/278_0_3602_2883/master/3602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=018c68b907deeac7d11c7d8581639ed8
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Fuel prices are on track to climb a further 20-30 cents per litre over the coming weeks, after the escalating Middle East conflict pushed the global oil price to its highest since mid-May.

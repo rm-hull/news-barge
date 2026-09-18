@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A popular dessert sold at Waitrose has been recalled due to oats being
   missed off the ingredients label.
 image: https://www.thenorthernecho.co.uk/resources/images/21414301.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Getty)*

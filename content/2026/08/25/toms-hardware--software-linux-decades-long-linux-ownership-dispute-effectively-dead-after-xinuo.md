@@ -10,6 +10,10 @@ published: '2026-08-25T00:00:00Z'
 description: Xinuos plans to petition for a full‑bench rehearing of its case, but
   this kind of request has only a 0.03% success rate according to IBM’s lawyers.
 image: https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Linux](https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB.jpg) 

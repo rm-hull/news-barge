@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A group of small Harrogate village schools say being “proactive” is paying
   off as they lead the way with a new curriculum model.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzNzE1ODM0LTJiNDUtNDJmNy1hZmJhLTk3MThjYTFhOTM2MjpkNDc4Y2JlNy1hYTU2LTRiODQtYWM5Mi1hYTg5ZWRhOWM2MTc=.jpg?crop=3:2,smart&trim=&width=730&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate federation of small village schools 'at forefront of national education improvments'

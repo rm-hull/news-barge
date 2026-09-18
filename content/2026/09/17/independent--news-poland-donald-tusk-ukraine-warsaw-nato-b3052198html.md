@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Polish Prime Minister Donald Tusk warns that Russia is planning hybrid
   strikes with drones and rockets on European countries supporting Ukraine
 image: https://static.independent.co.uk/2026/09/17/23/Poland_Russia_12747.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Polish Prime Minister Donald Tusk warned on Thursday that Russia is planning hybrid strikes with drones or rockets on European countries supporting Ukraine, among them Poland.

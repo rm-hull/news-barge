@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A man is due to go on trial today accused of the Christmas Eve killing
   of a man at a Willington pub.
 image: https://www.thenorthernecho.co.uk/resources/images/21356471.jpg?type=og-image&xType=0&yType=32
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: DURHAM POLICE)*

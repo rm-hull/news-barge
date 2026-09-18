@@ -10,6 +10,9 @@ description: 'A series of social media posts has attacked the Red Cross for how 
   men to the Spanish mainland, and others alleging it chose to help migrants over
   Spaniards. The Cube investigates. #TheCube'
 image: https://images.euronews.com/articles/stories/09/89/71/36/1200x675_cmsv2_5b880a60-f89c-53af-b7ab-68fb73b28fc1-9897136.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A series of social media posts has attacked the Red Cross for how it handled the Ceuta crisis, with some claiming it has helped to transport Moroccan men to the Spanish mainland, and others alleging it chose to help migrants over Spaniards. The Cube investigates.

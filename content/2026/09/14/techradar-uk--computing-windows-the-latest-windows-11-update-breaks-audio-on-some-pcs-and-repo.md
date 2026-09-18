@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: 'The sound of silence: Microsoft admits that the September update is
   killing audio on some PCs'
 image: https://cdn.mos.cms.futurecdn.net/BNheaVg8e7uEWCkwVhpCPj-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Angry woman using a Windows 11 laptop at a desk](https://cdn.mos.cms.futurecdn.net/BNheaVg8e7uEWCkwVhpCPj.jpg) 

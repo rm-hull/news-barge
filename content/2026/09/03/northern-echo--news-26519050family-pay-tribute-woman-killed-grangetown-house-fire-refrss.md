@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: The family of Natalie McDonald killed in the devastating Grangetown house
   fire have paid tribute to her.
 image: https://www.thenorthernecho.co.uk/resources/images/21406409.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: NORTHERN ECHO/ CLEVELAND POLICE)*

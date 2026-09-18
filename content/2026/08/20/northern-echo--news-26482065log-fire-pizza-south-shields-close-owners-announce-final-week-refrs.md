@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: South Shields restaurant Log Fire Pizza Co will close this weekend after
   owners Craig and Sarah Shelmerdine announced their final week of trading.
 image: https://www.thenorthernecho.co.uk/resources/images/21350398.jpg?type=og-image&yType=287
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Google Maps)*

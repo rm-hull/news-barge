@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The United Nations reports foreign networks are fueling Sudan's brutal
   war between the army and the Rapid Security Forces since 2023
 image: null
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The United Nations said in a report Thursday that foreign networks are helping fuel the brutal war in Sudan that has raged between the army and the paramilitary group Rapid Security Forces since 2023, killing at least 59,000 people, displacing some 13 million and pushing many parts of the African nation into famine.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T19:40:55Z'
 published: '2026-09-15T00:00:00Z'
 description: Plans for double yellow lines in a York road have sparked objections.
 image: https://www.gazetteherald.co.uk/resources/images/21459824.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 PLANS for double yellow lines in a York road have sparked objections.

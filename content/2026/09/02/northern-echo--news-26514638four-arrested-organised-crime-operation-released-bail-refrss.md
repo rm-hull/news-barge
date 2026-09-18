@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Four men arrested in a police operation targeting serious and organised
   crime in Middlesbrough have been released on conditional bail.
 image: https://www.thenorthernecho.co.uk/resources/images/21359753.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A row is growing over Wandsworth Council's rise, which the local authority
   is blaming on government funding cuts.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44bf/live/a35a45d0-b2f5-11f1-b1d1-571ed4d7ff2c.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Watch: Badenoch says she will challenge government over Wandsworth tax hike

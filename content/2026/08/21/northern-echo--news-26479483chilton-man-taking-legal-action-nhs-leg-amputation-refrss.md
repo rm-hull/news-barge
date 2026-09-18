@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A County Durham father-of-two says he has been left struggling to come
   to terms with losing his leg after a wound on his foot failed to heal.
 image: https://www.thenorthernecho.co.uk/resources/images/21343951.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: SARAH CALDECOTT)*

@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Tributes have been paid to much-loved Whitley Bay pianist Mike Waller,
   described as being “part of the heart and soul” of the town’s famous…
 image: https://www.thenorthernecho.co.uk/resources/images/21392094.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: GOFFY MEDIA)*

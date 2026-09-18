@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Acer is the current owner of the now 100-year-old Packard Bell brand,
   and is also showing off an eclectic range of Dot accessories.
 image: https://cdn.mos.cms.futurecdn.net/DKo7Rjbd4qwkWErVv8cF6b-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Packard Bell Dot family devices and accessories](https://cdn.mos.cms.futurecdn.net/DKo7Rjbd4qwkWErVv8cF6b.jpg) 

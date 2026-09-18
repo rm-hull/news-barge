@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: While many medics are ‘excited’ about so-called AI scribes, the ‘experiences
   of patients are poorly considered, experts said
 image: https://static.independent.co.uk/2026/09/03/17/32/iStock-1349579530.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Technology & Software
 ---
 
 Artificial intelligence tools used by doctors to generate clinical notes are failing to record "potentially vital information" conveyed through non-verbal cues like facial expressions and gestures, a study suggests.

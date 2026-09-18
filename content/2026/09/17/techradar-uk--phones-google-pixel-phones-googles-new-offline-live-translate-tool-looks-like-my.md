@@ -9,6 +9,8 @@ published: '2026-09-17T00:00:00Z'
 description: Google Translate's Live Translate mode now works offline across 11 languages,
   but with some major restrictions.
 image: https://cdn.mos.cms.futurecdn.net/irD7cpLwK9R2EEn6VHZu38-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Translate](https://cdn.mos.cms.futurecdn.net/irD7cpLwK9R2EEn6VHZu38.jpg) 

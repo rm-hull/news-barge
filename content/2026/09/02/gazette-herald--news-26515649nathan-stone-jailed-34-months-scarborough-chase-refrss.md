@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: A drug dealer who bragged about living "like a rock star" and was caught
   by police within minutes of starting a police chase has been…
 image: https://www.gazetteherald.co.uk/resources/images/21401596.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

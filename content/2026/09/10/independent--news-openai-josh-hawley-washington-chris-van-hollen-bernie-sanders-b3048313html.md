@@ -10,6 +10,11 @@ description: Lawmakers are demanding information from OpenAI with separate queri
   that underscore growing concerns in Washington about the potential for artificial
   intelligence programs eluding human control
 image: https://static.independent.co.uk/2026/08/21/05/Education_AI_Literacy_35547.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Lawmakers worried about the existential risk posed by new artificial intelligence products demanded information from OpenAI on Thursday with separate queries that underscored growing concerns in Washington about the technology's potential to elude human control.

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Norway will bid its final farewell to King Harald V with a funeral paying
   tribute to the 35-year reign of the popular monarch who died on Aug. 28, aged 89
 image: https://static.independent.co.uk/2026/08/18/08/Norway_Royals_51994.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 Norway will bid its final farewell to King Harald V on Wednesday with a funeral attended by royalty and leaders from across Europe and beyond, who will pay tribute to the popular monarch's 35-year reign.

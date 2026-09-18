@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: More than 2,000 people in Finland are participating in the largest civil
   defense drill in Europe since the end of World War II
 image: https://static.independent.co.uk/2026/09/03/07/Finland_Civil_Defense_57595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
+- Society & Culture
 ---
 
 In a civil defense shelter hewn into rock, behind doors designed to withstand a nuclear or biological attack, two Finnish conscripts wearing hazmat suits and breathing masks are measuring radiation levels as they take part in an exercise to turn a cave into a place of safety for thousands of people.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The prominent campaigner for the legalisation of assisted dying insisted
   the law must ‘change quickly’
 image: https://static.independent.co.uk/2025/06/20/17/9a15983319a528a2cdb202e8a5c235f5Y29udGVudHNlYXJjaGFwaSwxNzUwNTIwODg3-2.32129300.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dame Esther Rantzen has said she is ‘too physically fragile’ to travel to Switzerland to end her life at an assisted dying clinic.

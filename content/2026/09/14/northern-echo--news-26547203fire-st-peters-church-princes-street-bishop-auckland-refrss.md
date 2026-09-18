@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Emergency services were called to St Peter’s Church on Princes Street,
   Bishop Auckland, at around 4.40pm on Sunday (September 13), following…
 image: https://www.thenorthernecho.co.uk/resources/images/21450356.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: GOOGLE)*

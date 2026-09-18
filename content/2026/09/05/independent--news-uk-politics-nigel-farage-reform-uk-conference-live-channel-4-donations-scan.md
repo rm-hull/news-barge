@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Nigel Farage is to close Reform UK’s conference as the party finds itself
   embroiled in a row about political donations
 image: https://static.independent.co.uk/2026/09/04/18/01M1PRGPN4CH42R64NFJYCCSTH.jpg?trim=0,25,0,25&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nigel Farage is battling to contain a fresh scandal into donations after footage appeared to show senior Reform figures discussing how to disguise donations from foreign sources.

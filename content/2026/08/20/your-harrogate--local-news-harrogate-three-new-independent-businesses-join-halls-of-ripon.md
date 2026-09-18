@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Three independent businesses have joined Halls of Ripon following a major
   refurbishment of the city centre department store.
 image: https://mmo.aiircdn.com/409/6a86dd909e1535fb907.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86dd909e1535fb907.jpg) 

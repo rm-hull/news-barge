@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: An elderly couple challenged the man after watching him dump the contents
   of a wheelbarrow near their home
 image: https://static.independent.co.uk/2026/09/16/17/52/Jamie-Allen-Northamptonshire-Police.png?trim=47,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A 29-year-old man who threatened to stab an elderly woman after she caught him fly-tipping has been jailed for more than three years.

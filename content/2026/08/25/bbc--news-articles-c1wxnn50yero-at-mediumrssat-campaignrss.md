@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The death of country music legend and philanthropist Dolly Parton at
   aged 80 dominates Wednesday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70b9/live/a06e53b0-a0d1-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ![The headline on the front page of the Daily Star reads: "We will always love you Dolly."](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/c68c/live/6b94a390-a0c9-11f1-a291-b542ee92de7c.jpg)

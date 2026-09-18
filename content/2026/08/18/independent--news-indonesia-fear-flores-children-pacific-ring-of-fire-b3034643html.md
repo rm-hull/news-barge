@@ -10,6 +10,10 @@ description: Thousands of people are still displaced on Indonesia’s Flores isl
   three days after a magnitude 7.7 earthquake killed at least 68 people, injured 213
   and damaged more than 4,500 homes
 image: https://static.independent.co.uk/2026/08/18/06/Indonesia_Earthquake__2_86.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of people remained displaced on the Indonesian island of Flores on Tuesday, three days after a powerful earthquake killed at least 68 people, injured more than 200 others and damaged thousands of homes. The disaster left many children struggling with fear and trauma.

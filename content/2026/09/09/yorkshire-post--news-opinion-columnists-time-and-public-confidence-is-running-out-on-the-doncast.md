@@ -9,6 +9,13 @@ published: '2026-09-09T00:00:00Z'
 description: Time is running out for an agreement to be reached over the lease for
   Doncaster Sheffield Airport (DSA) and so is patience amongst the public.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwMWQyOGZlLTZlOWMtNDNmYy1iNjA3LWNjYjY0Y2RhNzEzNDo3NTA5ZTkyNi1mMjQ3LTRhYTUtYmM1Yy1jMjc4OTlkMzQxMzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
+- Sports
 ---
 
 # Time and public confidence is running out on the Doncaster Sheffield Airport reopening project

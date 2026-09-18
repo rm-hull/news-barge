@@ -8,6 +8,13 @@ published: '2026-08-28T00:00:00Z'
 description: ONE of the finest 17th century properties in the Keighley area is East
   Riddlesden Hall.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380752.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
+- Society & Culture
 ---
 
 ONE of the finest 17th century properties in the Keighley area is East Riddlesden Hall.

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Uncertainty over future immigration policy may be driving applications
   for British citizenship
 image: https://static.independent.co.uk/2026/01/06/11/32/PA-40886183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Applications for British citizenship, which have been on the rise since Brexit, have surged to a record high, analysis of government figures shows.

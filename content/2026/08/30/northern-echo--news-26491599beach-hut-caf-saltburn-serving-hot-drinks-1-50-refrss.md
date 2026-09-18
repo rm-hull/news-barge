@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Saltburn's Beach Hut Café is winning praise for its sea views and low
   prices, with tea and coffee costing just £1.50.
 image: https://www.thenorthernecho.co.uk/resources/images/17640080.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 A seaside café tucked away in East Cleveland is becoming the go-to spot to grab a hot drink by the coast, with tea and coffee available for just £1.50.

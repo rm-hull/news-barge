@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: AN esteemed historian whose latest book coincides with the British Museum’s
   Bayeux Tapestry exhibition is coming to Malton.
 image: https://www.yorkpress.co.uk/resources/images/21364683.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## Esteemed historian and archaeologist to visit North Yorkshire

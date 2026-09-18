@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police enquiries are continuing after a man was found dead outside a
   Bradford petrol station.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331982.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 POLICE enquiries are continuing today after a man was found dead outside a busy Bradford petrol station.

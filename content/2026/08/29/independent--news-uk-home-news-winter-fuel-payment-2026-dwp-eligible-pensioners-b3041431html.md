@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:48Z'
 published: '2026-08-29T00:00:00Z'
 description: Five groups of pensioners will not be eligible for the payout
 image: https://static.independent.co.uk/2025/10/15/10/7e29dcf79d7433c7bd8a6bb00481c144Y29udGVudHNlYXJjaGFwaSwxNzYwNjA2NDA1-2.21510323.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 More than nine million pensioners are set to receive hundreds of pounds to help with heating costs this year through the government’s winter fuel payment scheme.

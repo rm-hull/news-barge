@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Government announce plan for ‘stepping stone’ qualification as 620,000
   year 11 students face retaking maths or English after failure to achieve grade 4
 image: https://i.guim.co.uk/img/media/cea001d6d80b9b4bcefa0086fb2b1bad49bfd72c/597_0_5983_4785/master/5983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf622398fbe3345219ff8a57ae07699e
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Self-Improvement
+- Careers & Productivity
 ---
 
 The government’s plans to make young people continue studying maths and English if they fail GCSEs could be demotivating and ineffective, according to education experts and school leaders after retake pass rates slumped this year.

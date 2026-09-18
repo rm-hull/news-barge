@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:36:31Z'
 published: '2026-08-18T00:00:00Z'
 description: 'Star Wars: Galactic Racer draws on the whole film series.'
 image: https://cdn.mos.cms.futurecdn.net/vzbLAZqwsGmnFhDzqGBrA9-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Star Wars: Galactic Racer](https://cdn.mos.cms.futurecdn.net/vzbLAZqwsGmnFhDzqGBrA9.jpg) 

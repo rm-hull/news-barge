@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A stolen car was recovered just 20 minutes after police received a tip-off
   from a member of the public.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21410054.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 A stolen car was recovered just 20 minutes after police received a tip-off from a member of the public.

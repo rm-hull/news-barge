@@ -10,6 +10,10 @@ description: Amy Hunt's strong late-season form showed no signs of letting up as
   clocked a season's best to finish third in the 200m at the Diamond League final
   in Brussels.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Alfred wins 200m as Hunt finishes third in Brussels

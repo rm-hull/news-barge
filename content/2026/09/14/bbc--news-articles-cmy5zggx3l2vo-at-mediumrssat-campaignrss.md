@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:42Z'
 published: '2026-09-14T00:00:00Z'
 description: The incident is not the result of hostile action, the BBC understands.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A close-up shot of a British soldier's uniform. A black and brown Union Jack patch is visible on their shoulder. The rest of the uniform is green, white and brown camouflage.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a82e/live/8fe632e0-b04b-11f1-b1d1-571ed4d7ff2c.jpg)

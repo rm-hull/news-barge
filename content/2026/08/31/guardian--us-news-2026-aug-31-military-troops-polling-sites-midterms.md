@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Letter from chair of joint chiefs of staff addresses concerns over Trump
   officials using military to interfere with vote
 image: https://i.guim.co.uk/img/media/327c6cb367b771b6be82da03d22645c83462e2b1/629_0_6288_5033/master/6288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e15a002bdab8f999519dd653b399703b
+categories:
+- UK
+- News & Politics
 ---
 
 The highest‑ranking US military officer says there are no plans to deploy troops to polling places during the November midterm elections – responding to Senator Elissa Slotkin’s request for information amid concerns about whether the Trump administration might send service members to election sites.

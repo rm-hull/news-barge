@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Camilla has spoken about keeping her husband’s cancer diagnosis a secret
   prior to the official announcement
 image: https://static.independent.co.uk/2026/08/19/07/01M0CA6Y3K453KPSHQKWRNH3QH.jpg?trim=102,890,1065,863&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The Queen has reflected publicly for the first time on the emotional strain of keeping the King’s cancer diagnosis private prior to the official announcement.

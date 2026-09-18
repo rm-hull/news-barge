@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The clip claimed that an unnamed young woman had evaded Secret Service
   protection and met privately with Barron Trump, according to a report
 image: https://static.independent.co.uk/2026/08/24/14/36/Screenshot-2026-08-24-at-10-52-39-AM.png?trim=0,228,0,227&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iranian state media has claimed there is a $10 million bounty on Barron Trump, President Donald Trump’s 20-year-old son, according to a new report nearly six months into the U.S. war with Iran.

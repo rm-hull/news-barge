@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Fresh answers are questioning the broader applicability of the Wardian
   case – and note the importance of where on the moon the plants are grown
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_299709923.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 **Are there any plants and creatures that could be taken to the moon and would survive, reproduce and be a viable food source in, say, 25 years’ time? (continued)**

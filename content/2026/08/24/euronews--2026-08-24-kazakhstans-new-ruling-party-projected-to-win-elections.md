@@ -10,6 +10,9 @@ description: Kazakhstan's new ruling Adilet party has taken a decisive lead in e
   its unicameral parliament which could give it roughly 105 of the 145 seats in the
   new legislative chamber.
 image: https://images.euronews.com/articles/stories/09/88/53/47/1200x675_cmsv2_1a26c3ef-ad54-56c9-861d-3549673d9c5c-9885347.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Kazakhstan's new ruling Adilet party has taken a decisive lead in early exit polls, with more than 70% of the vote in the country's early elections for its unicameral parliament which could give it roughly 105 of the 145 seats in the new legislative chamber.

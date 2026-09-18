@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Hi-fi company British Castle has four new loudspeakers, all inspired
   by English fortifications.
 image: https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![The Castle Tantagel and Walmer speakers, in a dramatic black room](https://cdn.mos.cms.futurecdn.net/XpjbvHkgn6UM5hFcyC9Rjc.jpg) 

@@ -9,6 +9,10 @@ description: Being vaccinated against shingles has been linked to a lower risk o
   cardiovascular disease before, but now a study suggests that the vaccine that is
   currently being used reduces the odds more than earlier versions of the shot
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![An illustration of the the varicella zoster virus, which causes chickenpox and shingles](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309449846.jpg?w=840)

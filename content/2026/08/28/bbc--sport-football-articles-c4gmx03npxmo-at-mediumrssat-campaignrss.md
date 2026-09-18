@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Explosive court documents reveal the growing bitterness of Uefa's feud
   with Fifa president Gianni Infantino, Dan Roan reports.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Fifa president Gianni Infantino during a visit to a sports complex in Cali, Colombia, on August 7, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg)

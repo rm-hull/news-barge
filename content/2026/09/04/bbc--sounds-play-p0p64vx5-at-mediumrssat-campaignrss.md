@@ -7,6 +7,9 @@ scraped_at: '2026-09-04T18:59:34Z'
 published: '2026-09-04T00:00:00Z'
 description: Two senior Reform UK officials step down after undercover donations report.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

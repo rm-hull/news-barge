@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Twisha Sharma, a model and actor, had been married for just five months
   when she was found dead in May.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Twisha Sharma](https://ichef.bbci.co.uk/ace/standard/743/cpsprodpb/36b9/live/47feec00-9ad0-11f1-a291-b542ee92de7c.jpg)

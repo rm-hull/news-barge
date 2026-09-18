@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The beauty of the Yorkshire Wolds often flies under the radar but that
   could finally be about to change.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBjN2RlMWE4LWI1MjUtNDFiOS05ZWZlLTUyMGQ1OWQ5NjZkYzpmMGM3ZGI4ZS1hYzlkLTRiZjEtYTFmOC01YWMxMzUzOGE3Zjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Yorkshire Wolds designation as a Natural Landscape to be welcomed

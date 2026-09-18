@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: While the strengthening El Niño helped boost temperatures, climate change
   is the main culprit for making August so hot.
 image: https://media.wired.com/photos/6aa2fe8bf61e32d0e5c27220/191:100/w_1280,c_limit/You-Just-Lived-Through-the-Hottest-Month-Ever-Science-2286431827.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 August was the planet’s hottest month ever recorded, capping a remarkably grim summer of heat records. With El Niño strengthening—and climate change continuing to heat things up—more records are likely in store well into next year.

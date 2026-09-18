@@ -9,6 +9,12 @@ description: A restaurant in Beijing is preserving culinary traditions associate
   with China’s imperial court, from pastries once served to emperors to techniques
   passed down through generations of chefs
 image: https://static.independent.co.uk/2026/08/19/02/China_Imperial_Cuisine_64889.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- History
+- Arts & Culture
 ---
 
 It is said that Empress Dowager Cixi once dreamed of a pastry during the final decades of imperial China.

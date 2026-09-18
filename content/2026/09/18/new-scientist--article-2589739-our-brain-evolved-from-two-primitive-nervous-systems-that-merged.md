@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: The front and back parts of our brain come from different progenitor
   cells in embryos, which suggests they evolved as separate entities
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A 9.5-day-old mouse embryo. The front of the brain is blue and the back of the brain is red, which extends into the spinal cord](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312848573.jpg?w=840)

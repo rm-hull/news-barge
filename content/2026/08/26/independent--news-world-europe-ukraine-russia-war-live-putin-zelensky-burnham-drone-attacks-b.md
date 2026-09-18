@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T01:53:24Z'
 published: '2026-08-26T00:00:00Z'
 description: Flightradar 24 tracked the plane leaving Moscow on Tuesday
 image: https://static.independent.co.uk/2026/08/25/14/25/nrtegfwrbf.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 CIA Director John Ratcliffe was on board the mystery US military transport aircraft that landed at Moscow's Vnukovo International Airport, it has been reported.

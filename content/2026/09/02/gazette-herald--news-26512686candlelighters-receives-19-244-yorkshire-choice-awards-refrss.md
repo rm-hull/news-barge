@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:44:57Z'
 published: '2026-09-02T00:00:00Z'
 description: The Yorkshire Choice Awards, held in June, raised £19,244 for Candlelighters.
 image: https://www.gazetteherald.co.uk/resources/images/21397425.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Candlelighters)*

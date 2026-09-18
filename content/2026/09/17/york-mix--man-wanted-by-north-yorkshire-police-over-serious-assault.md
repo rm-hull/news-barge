@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T19:43:26Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/nathan-cammish.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police are searching for 35-year-old Nathan Cammish.

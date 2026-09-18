@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Forget 101 - these six Dalmatians, a birthday cake, Champagne and a campsite
   full of wagging tails near York made for a memorable celebration.
 image: https://www.gazetteherald.co.uk/resources/images/21369769.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 Six Dalmatians, a birthday cake, Champagne and a campsite full of wagging tails near York made for a memorable celebration.

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Former Bishop Auckland care home Howlish Hall which previously closed
   after a damning watchdog report has been put up for sale, a year later.
 image: https://www.thenorthernecho.co.uk/resources/images/21341657.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: WATLING REAL ESTATE)*

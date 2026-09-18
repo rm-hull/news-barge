@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:41:23Z'
 published: '2026-09-15T00:00:00Z'
 description: Intel's gaming APU won't show up in the next generation, apparently.
 image: https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Intel 12th Generation Alder Lake CPU](https://cdn.mos.cms.futurecdn.net/6dhScSyVh9hBM75rUoJ4qN.jpg) 

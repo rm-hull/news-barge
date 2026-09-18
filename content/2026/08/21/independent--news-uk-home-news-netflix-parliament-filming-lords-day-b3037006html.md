@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Members of the public could spot actors playing armed police alongside
   simulated emergency responses around the Houses of Parliament this coming weekend.
 image: https://static.independent.co.uk/2026/08/04/10/2288126629..?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Members of the public could spot actors playing armed police alongside simulated emergency responses around the Houses of Parliament this coming weekend.

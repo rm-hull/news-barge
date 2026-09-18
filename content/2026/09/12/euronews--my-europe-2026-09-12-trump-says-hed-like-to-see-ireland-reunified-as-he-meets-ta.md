@@ -9,6 +9,10 @@ description: 'The US president criticised Europe over trade, energy and immigrat
   and called relations with European allies "disappointing" over their response to
   his Iran war efforts #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/11/27/1200x675_cmsv2_8727f663-d8d6-55c5-b323-e7e8a2db1377-9911127.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The US president criticised Europe over trade, energy and immigration, and called relations with European allies "disappointing" over their response to his Iran war efforts

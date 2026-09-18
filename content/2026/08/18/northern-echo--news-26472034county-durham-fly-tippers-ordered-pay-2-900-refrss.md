@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Three people have been ordered to pay more than £2,900 in fines, surcharges
   and court costs after separate fly-tipping offences in Chilton and…
 image: https://www.thenorthernecho.co.uk/resources/images/21331996.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Three people have been ordered to pay more than £2,900 in fines and costs following fly-tipping incidents.

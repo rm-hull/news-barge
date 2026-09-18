@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Guide Post in Ryhope could soon gain a new games room, revamped beer
   garden and create new jobs under the plans.
 image: https://www.thenorthernecho.co.uk/resources/images/21368262.jpg?type=og-image&xType=0&yType=246
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Google Maps)*

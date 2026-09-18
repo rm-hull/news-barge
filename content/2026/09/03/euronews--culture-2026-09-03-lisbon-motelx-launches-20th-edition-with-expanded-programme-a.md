@@ -10,6 +10,11 @@ description: 'Marking its 20th edition, the festival stretches over more days an
   more venues, packed with new discoveries and cult favourites at Portugal''s scariest
   film event. #Cinema'
 image: https://images.euronews.com/articles/stories/09/90/03/45/1200x675_cmsv2_aab1bcbd-780e-5e40-8eb9-9d1bf9bf7ec3-9900345.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ## Marking its 20th edition, the festival stretches over more days and more venues, packed with new discoveries and cult favourites at Portugal's scariest film event.

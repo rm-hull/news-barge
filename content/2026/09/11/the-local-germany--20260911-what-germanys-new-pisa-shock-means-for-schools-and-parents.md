@@ -9,6 +9,12 @@ description: Germany's school system has recorded its worst results since PISA a
   began 25 years ago. Politicians are calling for language tests and tougher standards,
   while experts argue the real problem lies elsewhere.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-617779156.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Education & Learning
+- Society & Culture
 ---
 
 When the latest PISA study was published this week, German 15-year-olds recorded their lowest scores yet in reading, maths and science.

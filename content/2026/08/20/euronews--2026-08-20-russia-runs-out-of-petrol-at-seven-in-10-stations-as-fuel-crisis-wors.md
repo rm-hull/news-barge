@@ -10,6 +10,9 @@ description: Ukrainian drone campaign on Russia's energy infrastructure has caus
   forming for the first time, and Russia has brought back banned low-grade fuel to
   plug the gap, while detaining residents who complained publicly.
 image: https://images.euronews.com/articles/stories/09/88/07/39/1200x675_cmsv2_828a9d1d-cc10-5005-b156-f3f466e5ed20-9880739.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Ukrainian drone campaign on Russia's energy infrastructure has caused fuel shortages so severe that the Kremlin has admitted it. Queues in Moscow are forming for the first time, and Russia has brought back banned low-grade fuel to plug the gap, while detaining residents who complained publicly.

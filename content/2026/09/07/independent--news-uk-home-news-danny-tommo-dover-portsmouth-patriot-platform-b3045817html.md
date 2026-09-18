@@ -9,6 +9,10 @@ description: After being released from prison for attempted kidnapping, Danny To
   real name Daniel Thomas, claimed to have turned his life around – and now helps
   organise protests under the banner Patriot Platform
 image: https://static.independent.co.uk/2026/09/07/12/2164049567..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 “Something is about to go down and it’s about to send a f***ing shockwave,” said Danny Tommo, real name Daniel Thomas, in a firm rallying call to dozens of white men assembled in a housing estate park.

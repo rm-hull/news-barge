@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: $12.7 billion goes to online safety initiatives, and billions more if
   chief competitors YouTube and TikTok fall into line
 image: https://cdn.mos.cms.futurecdn.net/iiobK7D8pysDnhkkAGDsgH-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Silhouette of smartphone with Facebook, Messenger, WhatsApp, Instagram, Oculus apps and blurred META logo on background](https://cdn.mos.cms.futurecdn.net/iiobK7D8pysDnhkkAGDsgH.jpg) 

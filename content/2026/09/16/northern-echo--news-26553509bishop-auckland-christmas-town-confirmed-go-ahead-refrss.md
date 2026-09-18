@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Organisers of one of County Durham's biggest festive events have confirmed
   this year's Christmas Town will go ahead after questions were…
 image: https://www.thenorthernecho.co.uk/resources/images/21453157.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: STUART BOULTON)*

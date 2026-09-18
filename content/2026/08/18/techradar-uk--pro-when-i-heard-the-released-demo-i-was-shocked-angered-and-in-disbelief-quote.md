@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Deepfakes are a rising concern, but OpenAI threw fuel onto the fire with
   its impersonation of the 'Her' actor
 image: https://cdn.mos.cms.futurecdn.net/xGoVcjC3XVTQRRpsY4yG5f-2000-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A phone on a pink background showing the ChatGPT app next to a photo of Scarlett Johansson](https://cdn.mos.cms.futurecdn.net/xGoVcjC3XVTQRRpsY4yG5f.jpg) 

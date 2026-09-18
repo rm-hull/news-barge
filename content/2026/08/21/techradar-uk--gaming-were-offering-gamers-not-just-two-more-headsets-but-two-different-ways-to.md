@@ -10,6 +10,8 @@ published: '2026-08-21T00:00:00Z'
 description: German audio specialist beyerdynamic has announced two new wireless headsets,
   the closed-back MMX 100 wireless and the open-back MMX 130 wireless.
 image: https://cdn.mos.cms.futurecdn.net/vueyxHtUcWFWACcFGVUiwd-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Beyerdynamic MMX 100 wireless](https://cdn.mos.cms.futurecdn.net/vueyxHtUcWFWACcFGVUiwd.jpg) 

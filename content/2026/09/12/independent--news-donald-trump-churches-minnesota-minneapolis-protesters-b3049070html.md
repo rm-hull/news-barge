@@ -10,6 +10,10 @@ description: Court cases involving Twin Cities churches and immigration enforcem
   highlight how the acrimonious debate continues to roil faith communities more than
   six months since the federal surge in Minnesota
 image: https://static.independent.co.uk/2026/09/12/13/Immigration_Minnesota_Churches_83583.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge turned Minnesota into a symbol of defiance of the Trump administration’s policies.

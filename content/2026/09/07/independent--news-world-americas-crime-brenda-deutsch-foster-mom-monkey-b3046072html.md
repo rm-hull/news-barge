@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Girl forced to endure dirty conditions and live among exotic animals
   in Texas, according to court documents
 image: https://static.the-independent.com/2026/09/07/15/15/Screenshot-2026-09-07-at-16-24-10.png?trim=0,0,105,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A Missouri foster mother accused of swapping a teenage girl for a monkey has been found guilty of child endangerment but escaped jail time.

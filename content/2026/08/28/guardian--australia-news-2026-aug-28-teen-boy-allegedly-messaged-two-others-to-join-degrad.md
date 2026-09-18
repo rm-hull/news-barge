@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Two 17-year-olds accused of subjecting teenage girl to hours-long sexual
   assault granted bail
 image: https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/402_0_2155_1724/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5cfca270bb96a0318667745a61712764
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Two boys allegedly invited to join a “degrading” and “humiliating” gang-rape in Sydney have been granted bail.

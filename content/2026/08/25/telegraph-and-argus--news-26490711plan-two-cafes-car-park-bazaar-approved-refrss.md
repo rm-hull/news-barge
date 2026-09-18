@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Two cafes can be built in the car park of a Bradford bazaar – planners
   have decided.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21364495.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Google)*

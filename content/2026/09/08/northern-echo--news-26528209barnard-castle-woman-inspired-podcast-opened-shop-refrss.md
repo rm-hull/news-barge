@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A Barnard Castle woman who was inspired by a business podcast decided
   she had "nothing to lose" has opened her own shop, Bowes Occassions.
 image: https://www.thenorthernecho.co.uk/resources/images/21421840.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Business & Entrepreneurship
 ---
 
 *(Image: STUART BOULTON)*

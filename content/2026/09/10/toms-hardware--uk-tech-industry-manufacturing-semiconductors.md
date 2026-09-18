@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Discover more about Semiconductor with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-320-80.jpg)

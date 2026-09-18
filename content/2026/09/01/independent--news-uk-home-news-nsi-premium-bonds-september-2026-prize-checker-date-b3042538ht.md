@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:06Z'
 published: '2026-09-01T00:00:00Z'
 description: This month’s prize draw is imminent
 image: https://static.independent.co.uk/2026/05/14/11/13/GettyImages-2268452157.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Every month, savers have the chance to win big prizes as the Premium Bonds winning numbers are announced. There are now 22 million people taking part in the government-backed savings scheme, with more than £137bn banked.

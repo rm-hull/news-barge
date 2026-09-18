@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Video. Decorated cows descend from Alpine pastures into Gstaad for Switzerland's
   Züglete festival, drawing crowds, music and visitors from around the world.
 image: https://images.euronews.com/articles/stories/09/90/51/06/1200x675_cmsv2_a52836ac-730e-58ee-90da-992ccf0c0daf-9905106.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- Travel
 ---
 
 Decorated cows made their way from the Alpine pastures into Gstaad on Saturday for the annual Züglete festival in Switzerland. Families dressed their animals with floral crowns before leading them down the mountain and through the busy town centre.

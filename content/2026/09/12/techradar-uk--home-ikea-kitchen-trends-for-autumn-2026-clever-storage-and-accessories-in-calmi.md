@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: The nights are getting cooler, but this colour palette is surprisingly
   warm, especially when teamed with natural wood.
 image: https://cdn.mos.cms.futurecdn.net/KpE8i6iS7HdtgXuyvW6UjE-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Kitchen with various IKEA accessories in shades of black and duck egg blue](https://cdn.mos.cms.futurecdn.net/KpE8i6iS7HdtgXuyvW6UjE.jpg) 

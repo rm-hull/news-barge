@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Lord Mayor and Sheriff of York are inviting 400 residents aged 65
   and over to the annual Christmas Cheer Receptions.
 image: https://www.yorkpress.co.uk/resources/images/19980039.jpg?type=og-image&xType=0&yType=103
+categories:
+- Local
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: City of York Council)*

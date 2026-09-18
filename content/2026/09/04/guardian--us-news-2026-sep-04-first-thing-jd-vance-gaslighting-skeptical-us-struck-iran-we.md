@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Vice-president’s claim US-Iran conflict is not war draws ridicule from
   Democrat Ro Khanna. Plus, iconic feminist Gloria Steinem dies at 92
 image: https://i.guim.co.uk/img/media/9a432202cf1bc62bc0d557af4ba71f2491f222d2/1834_0_6674_5344/master/6674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91eb5fee30b7f17178ca6be1a274f963
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Good morning. The US vice-president, JD Vance, has responded to claims that an American strike was responsible for killing four people, including a child, at a wedding celebration in southern Iran by saying that “sometimes things happen”. The deaths were reported by the Iranian Red Crescent, which operates independently of Tehran and is treated by most international monitors as a credible source on casualty figures.

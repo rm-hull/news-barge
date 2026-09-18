@@ -10,6 +10,10 @@ description: A remarkable former Harrogate businesswoman woman whose life change
   direction at the age of 40 after surviving brain surgery has won the top award at
   a drama festival.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVhODJmYmIzLTA5MDAtNGFjZi05MzRjLTQ4Y2VhYjI3ZGUwNzphY2YwMjE3ZS1kMDY3LTRlNDktODlhMC1kMzEyMjNiYmFiMTU=.jpg?crop=3:2,smart&trim=&width=722&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Remarkable Harrogate woman talks about 'life-changing' moments after brain surgery

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Beverley has been named one of the friendliest places to retire to in
   England thanks to its great weekly market and hall with loads of activities.
 image: https://www.thenorthernecho.co.uk/resources/images/21451228.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty)*

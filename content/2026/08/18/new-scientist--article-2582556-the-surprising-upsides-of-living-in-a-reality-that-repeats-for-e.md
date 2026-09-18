@@ -10,6 +10,9 @@ description: Having faced the prospect that our minds are random fluctuations in
   dead universe, quantum cosmologist Sean Carroll suggests that we may be stuck in
   an eternally repeating reality
 image: https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/RZ_NS_Space-Theory_RGB_1350x900pix_72dpi_left-v2.gif?w=840)

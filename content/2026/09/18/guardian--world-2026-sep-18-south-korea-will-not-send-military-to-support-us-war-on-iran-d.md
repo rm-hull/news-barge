@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Seoul resolves recent speculation over sending military to strait of
   Hormuz, saying ‘there won’t be deployment that would involve or enter war’
 image: https://i.guim.co.uk/img/media/8d6e3c560c3b65c564e854088a72a2646843b9b7/1275_222_6202_4964/master/6202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d451087505fad0bed93430d9ec322181
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 South Korea’s president, Lee Jae Myung, has said he will not deploy the military to the Middle East in a way that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran.

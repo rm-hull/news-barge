@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A BBC team joined a humanitarian mission of the UN peacekeeping force,
   which says Israeli troops are fortifying positions and continuing demolitions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Watch: BBC sees Israeli military presence in southern Lebanon

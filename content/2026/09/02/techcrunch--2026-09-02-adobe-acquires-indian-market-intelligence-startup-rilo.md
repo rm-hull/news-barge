@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: This is Adobe's second acquisition out of India after Rephrase.ai in
   2023
 image: https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Adobe has acquired India-based marketing intelligence startup Rilo in a deal involving licensing and team acquisition, TechCrunch learned and the company confirmed. This is Adobe’s second acquisition from India after it bought video platform Rephrase.ai in 2023. The companies didn’t disclose the deal’s terms.

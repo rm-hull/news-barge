@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Fully electric SUV unveiled after year-long delay and will be built at
   Jaguar Land Rover’s plant in Solihull
 image: https://i.guim.co.uk/img/media/d445f7f198b16669700973a152ed8edc4363e6bd/2068_0_6789_5434/master/6789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1adfe4a4d0f8f842e68a32577aee0218
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of gargantuan British-made SUVs who are also conscious about the climate crisis.

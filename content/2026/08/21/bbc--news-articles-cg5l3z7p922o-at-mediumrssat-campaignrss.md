@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Passivhaus standard is growing in popularity as UK homeowners adapt
   to hotter summer temperatures.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![A terraced house with light grey brick walls, a series of windows on the upper floor, two windows and a yellow door on the ground. There is a garden path and bushes on the side](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg)

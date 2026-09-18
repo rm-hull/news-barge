@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Record inundations wrecked homes and took seven lives but Trump has not
   approved emergency aid and the state has cut funds for environmental agencies
 image: https://i.guim.co.uk/img/media/8e219044cc26c03a8378fffa7042b4183db9a571/429_0_4294_3434/master/4294.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0141257b98395a4773e25df9d3c9e78
+categories:
+- UK
+- News & Politics
 ---
 
 It’s been 10 days since the floodwater receded from Cambridge City’s main street and yet signs of disaster are all around.

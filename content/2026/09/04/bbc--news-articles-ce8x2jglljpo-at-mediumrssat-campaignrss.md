@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Mabon ap Gwynfor says he respects the decision but has questions for
   the health board responsible.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/026f/live/6a267320-a854-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A crowd of people walking down a busy shopping street. The young person at the front of the group has tied-back brown hair and glasses and is wearing a red face mask. Their sign, which they are holding above their head, says: "Surgery saves lives".](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/026f/live/6a267320-a854-11f1-aed2-8d6da8d75094.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: “This settlement is a major victory for American children and parents,”
   associate Attorney General Stanley Woodward Jr. said.
 image: https://images.euronews.com/articles/stories/09/87/49/15/1200x675_cmsv2_7c9a737b-a785-5c2d-ba70-90547dc0f520-9874915.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 ## “This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.

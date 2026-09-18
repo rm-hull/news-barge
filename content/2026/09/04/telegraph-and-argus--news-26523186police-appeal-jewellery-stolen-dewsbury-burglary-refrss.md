@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: West Yorkshire Police are appealing for information following a burglary
   which occurred last month in Staincliffe Road, Dewsbury.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412201.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 West Yorkshire Police are appealing for information following a burglary which occurred last month.

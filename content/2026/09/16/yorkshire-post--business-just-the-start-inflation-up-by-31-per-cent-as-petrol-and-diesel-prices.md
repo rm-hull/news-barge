@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Surging fuel prices helped drive UK inflation higher again last month,
   according to official figures.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ1MWQ5NWE3LTY4YTMtNDE3Yi1iZTkxLWMwMWZkYTQzZTljYjo0N2UwYWFhYi02Y2MxLTRhODYtYjhkNy01NTcyYzgwMjkxOWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # 'Just the start': Inflation up by 3.1 per cent as petrol and diesel prices soar

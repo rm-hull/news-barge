@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: Bailee Lynn Rios, 36, accused of driving on wrong side of road to cause
   fatal crash NBC news helicopter was covering
 image: https://i.guim.co.uk/img/media/fc2f1992b77d00ce4f1051157ff22e5c2715336a/442_0_4423_3538/master/4423.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b7785471a0ba0dae711d0e0af6a446
+categories:
+- UK
+- News & Politics
+- Automotive
+- True Crime
+- Technology & Software
 ---
 
 A California woman was allegedly driving under the influence when she sped down the wrong side of the road, ran a red light and plowed her SUV into a Los Angeles metro bus on Tuesday, killing two passengers, prosecutors say, in a tragedy compounded when a news helicopter covering the crash plummeted from the sky, killing three.

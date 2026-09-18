@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Cleveland Mountain Rescue Team was called to help a male after he suffered
   a medical incident in Square Corner near Osmotherley.
 image: https://www.thenorthernecho.co.uk/resources/images/21405942.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: CLEVELAND MOUNTAIN RESCUE TEAM)*

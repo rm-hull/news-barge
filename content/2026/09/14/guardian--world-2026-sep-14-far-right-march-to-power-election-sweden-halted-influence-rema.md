@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: The Sweden Democrats slipped to third after decades of growth, but their
   hardline positions have already reshaped the political mainstream
 image: https://i.guim.co.uk/img/media/8a7b42661ddfe61586da0d7fa225d82144d62e55/591_0_5906_4725/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55de123ccefcd7783115eae28bc293ec
+categories:
+- UK
+- News & Politics
 ---
 
 Since the party was founded in 1988, the story of the far-right Sweden Democrats (SD) has been one of such continuous growth that a triumph in Sunday’s general election seemed inevitable.

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Tara Westover is returning with a second memoir nearly 10 years after
   her million-selling “Educated.”
 image: https://static.independent.co.uk/2026/09/17/12/Books_-_Tara_Westover_92424.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Nearly 10 years after the publication of the million-selling “Educated,” Tara Westover is returning with a second memoir in which she reflects on the fallout from her celebrated and controversial debut.

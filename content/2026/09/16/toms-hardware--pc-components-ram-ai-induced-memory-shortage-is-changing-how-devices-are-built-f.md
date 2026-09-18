@@ -9,6 +9,9 @@ scraped_at: '2026-09-16T13:27:04Z'
 published: '2026-09-16T00:00:00Z'
 description: Memory shortage continues to hit smaller brands.
 image: https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Framework Laptop 13 Pro](https://cdn.mos.cms.futurecdn.net/GMkiJ6bxuBFHx5hvS2ZjgN.jpg) 

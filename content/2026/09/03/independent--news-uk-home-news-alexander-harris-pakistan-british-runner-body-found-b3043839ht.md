@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Alexander Harris went missing on Saturday, triggering a major search
   operation
 image: https://static.independent.co.uk/2026/09/02/16/16/f0eb1540-a6ac-11f1-b048-153395f36aa1-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A British trail runner who disappeared has been found dead in northern Pakistan following a widespread search, his running group has confirmed.

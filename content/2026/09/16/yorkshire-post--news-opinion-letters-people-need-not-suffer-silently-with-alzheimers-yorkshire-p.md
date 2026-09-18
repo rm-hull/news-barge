@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: 'From: Dr Hilda Hayo OBE, chief admiral nurse and chief executive at
   Dementia UK, London.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwNTEwMGVhLWQyNzctNGUwYy1hMzkwLWViOWYzNjZiZGEwMzpkMzFhOTU3Zi1mODg2LTRiZjUtYjQzNS02YmYzZmJmMjZmY2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # People need not suffer silently with Alzheimer’s - Yorkshire Post Letters

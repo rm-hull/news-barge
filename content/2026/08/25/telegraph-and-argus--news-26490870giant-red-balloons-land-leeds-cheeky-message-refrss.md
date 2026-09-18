@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: GIANT red balloons have landed in Leeds with a message that’s turning
   heads and raising eyebrows.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21367077.jpg?type=og-image&xType=0&yType=626
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

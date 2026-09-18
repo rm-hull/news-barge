@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A woman in her late 50s, who lived in Harrogate, has been found dead
   by police.
 image: https://www.yorkpress.co.uk/resources/images/21460154.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Archive)*

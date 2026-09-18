@@ -9,6 +9,9 @@ description: 'A month of nationwide demonstrations demanding Mykhailo Fedorov’
   as defence minister appears to be ending after protest organisers rejected and criticised
   his call for elections during wartime. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/11/74/1200x675_cmsv2_6d31b522-b21e-5c8c-8890-fd138239c8da-9881174.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A month of nationwide demonstrations demanding Mykhailo Fedorov’s return as defence minister appears to be ending after protest organisers rejected and criticised his call for elections during wartime.

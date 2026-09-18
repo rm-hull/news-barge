@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: It’s an exciting time for Huddersfield, with the first elements of the
   town’s multi-million pound Our Cultural Heart scheme gearing up for opening.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIxMjcwZjg4LTY2YTQtNDMyMC1hNjQ4LWE4ZDBjNTRjODgyYTpkZTQ2ODZhMi1iNjhjLTQ2ZmUtOWY0Yi05YTUxZjM0NDFkYTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # WATCH: First look at Huddersfield’s new library hub ahead of opening

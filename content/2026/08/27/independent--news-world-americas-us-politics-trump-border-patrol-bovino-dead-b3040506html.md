@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: ‘Do I think they want me killed? Absolutely,’ former Border Patrol Commander-at-large
   Gregory Bovino told Tucker Carlson
 image: https://static.independent.co.uk/2026/08/27/15/03/GettyImages-2252442755.jpeg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A former Border Patrol official who helped spearhead President Donald Trump’s immigration crackdown has claimed the administration now wants him dead.

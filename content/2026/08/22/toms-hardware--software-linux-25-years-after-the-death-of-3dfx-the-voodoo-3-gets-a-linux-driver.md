@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: It's been a quarter-century since the firm folded, but the graphics chips
   still have utility in esoteric use cases.
 image: https://cdn.mos.cms.futurecdn.net/X6iB5cWC9stabSJtgczKnd-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Marketing image for the Voodoo 3 graphics card](https://cdn.mos.cms.futurecdn.net/X6iB5cWC9stabSJtgczKnd.jpg) 

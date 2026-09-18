@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Thailand puts 166 data center projects on hold after officials discover
   major gaps in power, water, and site planning
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

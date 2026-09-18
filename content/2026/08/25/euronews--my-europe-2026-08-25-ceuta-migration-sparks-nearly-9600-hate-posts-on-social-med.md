@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: 'The Spanish Observatory on Racism and Xenophobia logged 9,590 hate messages
   in two days tied to a July influx of some 80,000 migrants into Ceuta. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/16/50/1200x675_cmsv2_535cefd1-de1c-5e74-b74d-e96e8068ac1e-9881650.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The Spanish Observatory on Racism and Xenophobia logged 9,590 hate messages in two days tied to a July influx of some 80,000 migrants into Ceuta.

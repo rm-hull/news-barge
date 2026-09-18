@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Prime Minister Andy Burnham has refused to be drawn on the Duke and Duchess
   of Sussex's future security arrangements, describing the issue as…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351561.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Alex Brandon)*

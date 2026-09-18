@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The National Crime Agency (NCA), which deals with organised immigration
   crime, carried out its own analysis of small boat crossings
 image: https://static.independent.co.uk/2026/08/19/07/tGGpd2QdBw7Hnf8Yj34wfR17kYT67vz5KACOX5tdP-1CVRNeXbAPN6Rks-IkhJMMlapfVacUKXEQOME48eHciqLuV_qM9ivvYF_K..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Heightened law enforcement operations and falling demand among migrants were major drivers behind the decline in small boat arrivals to the UK during the first half of this year, according to a new report.

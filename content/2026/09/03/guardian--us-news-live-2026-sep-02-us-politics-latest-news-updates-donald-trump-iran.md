@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T04:14:45Z'
 published: '2026-09-03T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/7689edc64c614bf12a2640c1c006a9261dcd2224/467_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b118c12b4aeebef56a14caf32877442
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Donald Trump speaks with Mark Carney at a working lunch with leaders of G7 and the Middle East on 16 June 2026 in Evian-les-Bains, France. Photograph: Getty Images

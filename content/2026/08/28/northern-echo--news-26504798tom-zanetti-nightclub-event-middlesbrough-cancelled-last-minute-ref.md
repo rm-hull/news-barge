@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Tom Zanetti's planned appearance at Middlesbrough nightclub Prohibition
   has been cancelled after discussions with his management over…
 image: https://www.thenorthernecho.co.uk/resources/images/19738924.jpg?type=og-image&xType=0&yType=13
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A major event at a Middlesbrough nightclub tonight has been cancelled at short notice.

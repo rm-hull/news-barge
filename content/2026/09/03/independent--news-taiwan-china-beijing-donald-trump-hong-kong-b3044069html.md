@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: A Chinese lawyer who defended an underground church in Beijing has fled
   to Taiwan and is seeking help for resettlement
 image: https://static.independent.co.uk/2026/09/03/11/Taiwan_China_Lawyer_58_8_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Chinese lawyer who defended a prominent underground church in Beijing fled to Taiwan and is seeking help for resettlement, following mounting pressure from Chinese authorities on her firm and her colleagues.

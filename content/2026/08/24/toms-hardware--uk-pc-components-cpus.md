@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: CPU reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/mDC76z55tQaYVFSYMAzKMH-1200-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 Microprocessors are the beating heart of your computer, and cutting edge technical advances continue to drive the technology forward. From chiplet tech and nanoprocessing to AI chips and more, Tom's Hardware is the industry standard for CPU news and reviews.

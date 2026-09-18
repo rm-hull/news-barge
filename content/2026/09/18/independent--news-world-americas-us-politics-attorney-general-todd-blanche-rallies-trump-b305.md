@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Attorneys general have typically stayed away from political rallies and
   at arm's length from the White House
 image: https://static.independent.co.uk/2026/09/18/13/34/GettyImages-2294411138.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Attorney General Todd Blanche’s recent speeches at political events have significantly blurred traditional boundaries between federal law enforcement and politics, marking a sharp departure from norms designed to shield the Justice Department from the appearance of partisan bias.

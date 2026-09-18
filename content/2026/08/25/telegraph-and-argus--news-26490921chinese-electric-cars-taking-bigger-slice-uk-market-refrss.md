@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T08:55:48Z'
 published: '2026-08-25T00:00:00Z'
 description: CHINESE electric vehicles are gaining ground in the UK market.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20133880.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Matt Vosper Photography Ltd)*

@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Tom Homan says rightwing influencer overstayed visitor visa after receiving
   final order of removal
 image: https://i.guim.co.uk/img/media/698ce8e4ef2bd9a7f2a2a6c331b8d40eb40b231c/917_0_4555_3648/master/4555.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ffc5b064c32e5d8d2ad13937dabc57c
+categories:
+- UK
+- News & Politics
 ---
 
 The White House “border czar,” Tom Homan, denied on Sunday that the British far-right commentator Milo Yiannopoulos was deported just a day after being arrested by US Immigration and Customs Enforcement (ICE) for political reasons.

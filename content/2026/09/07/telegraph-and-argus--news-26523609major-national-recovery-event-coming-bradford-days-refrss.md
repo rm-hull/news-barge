@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A NATIONAL event celebrating recovery from addiction is set to take place
   in Bradford this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412700.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

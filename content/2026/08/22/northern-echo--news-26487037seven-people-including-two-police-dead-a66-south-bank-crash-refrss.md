@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Two police officers are among seven people who have died following a
   serious crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21357848.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: NORTH NEWS LTD)*

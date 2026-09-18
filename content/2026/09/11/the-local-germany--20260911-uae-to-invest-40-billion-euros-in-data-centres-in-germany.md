@@ -9,6 +9,12 @@ description: President Mohamed bin Zayed Al Nahyan received a warm welcome behin
   closed doors in Berlin as the UAE looks to build "strategic partnerships" through
   big investments in Germany.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260910__C7WQ3LD__v3__MidRes__TopshotGermanyUaeDiplomacy.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The leader of the United Arab Emirates was on a state visit to Germany on Thursday that resulted in a promise to invest 40 billion euros into Europe's top economy.

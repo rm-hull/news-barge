@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The new models can travel at speeds of up to 300mph, faster than Ukraine's
   air defence interceptors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bfd/live/d80b0030-ac65-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Two Ukrainian first responders carry the remains of a Russian jet-powered drone engine after an attack. They are wearing body armour and helmets and are holding opposite ends of the engine.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9bfd/live/d80b0030-ac65-11f1-a540-61c3f7fc4e6c.png)

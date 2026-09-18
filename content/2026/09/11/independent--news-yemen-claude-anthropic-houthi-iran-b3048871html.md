@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Anthropic says Claude users in northern Yemen tried to use the AI model
   to develop advanced missiles
 image: https://static.independent.co.uk/2026/09/10/19/Yemen_War_85952.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Anthropic says Claude users in northern Yemen, territory controlled by Iran-backed Houthi rebels, tried to use the AI model to develop advanced missiles.

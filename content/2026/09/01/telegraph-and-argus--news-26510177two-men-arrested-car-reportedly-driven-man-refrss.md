@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Police have now confirmed two men were arrested after a car was reportedly
   driven at a man on a street in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/9273836.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A City of Durham Parish Council-backed volunteer group collected 37 bags
   of rubbish in a Viaduct clean-up and plans further action to tackle litter…
 image: https://www.thenorthernecho.co.uk/resources/images/21336031.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: City of Durham Parish Council)*

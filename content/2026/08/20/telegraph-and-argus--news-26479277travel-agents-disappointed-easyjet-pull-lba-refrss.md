@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Local travel agents have responded to the news that easyJet will no longer
   be operating out of Leeds Bradford Airport - and, unsurprisingly,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343577.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: T&A)*

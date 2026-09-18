@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Two European hopefuls go head-to-head at St James' Park on the opening
   weekend
 image: https://cdn.mos.cms.futurecdn.net/57fMeBrjBnFSskQmmu4b5h-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Alexander Isak of Liverpool looks on during the pre-season friendly match between Liverpool FC and Como Calcio at Anfield on August 16, 2026](https://cdn.mos.cms.futurecdn.net/57fMeBrjBnFSskQmmu4b5h.jpg) 

@@ -10,6 +10,10 @@ description: President Trump insists federal government is a ‘fine tuned crime
   machine’ and urges Illinois Gov. JB Pritzker to request support, despite widespread
   local opposition to last year’s incursion by immigration agents
 image: https://static.independent.co.uk/2026/09/01/12/2242927216..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump has issued another dire warning about the extent of street crime in Chicago, urging Illinois Gov. JB Pritzker to call him and formally request federal military support.

@@ -11,6 +11,11 @@ description: There are prizes galore in the agricultural show world but with thi
   Seymour of Dromonby Farm, Kirkby in Cleveland, vice chairman of the executive committee,
   has won in the past.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFkZmM5OTZiLWIxZjAtNGIwMS05ZjBhLWUwOGNhODU1ZDM1NzoyODlhZjk4NC0xYzQ5LTRmZjItOTRjOS00YWM1NGFjNDRkYjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # Stokesley Show: The Yorkshire show where a joke category has become very competitive

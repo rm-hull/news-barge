@@ -9,6 +9,9 @@ description: The woman behind the attack has reportedly had a history of mental 
   issues with New York police but no arrest record prior to her stabbing attacks on
   Tuesday.
 image: https://images.euronews.com/articles/stories/09/89/64/31/1200x675_cmsv2_41adb06c-790f-5320-aa24-d5b1a74e2fd9-9896431.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The woman behind the attack has reportedly had a history of mental health issues with New York police but no arrest record prior to her stabbing attacks on Tuesday.

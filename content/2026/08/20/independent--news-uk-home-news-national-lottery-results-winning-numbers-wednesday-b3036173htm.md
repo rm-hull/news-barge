@@ -7,6 +7,12 @@ scraped_at: '2026-08-20T08:52:44Z'
 published: '2026-08-20T00:00:00Z'
 description: No-one matched all five plus the Thunderball to win £500,000
 image: https://static.independent.co.uk/2025/08/18/14/318f65897962a242d0b065327f7a07c3Y29udGVudHNlYXJjaGFwaSwxNzU1NjEwNDM4-2.80489827.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Sports
 ---
 
 A single ticket-holder claimed a £4.3 million jackpot in Wednesday’s Lotto draw, while five further players won £1 million each.

@@ -9,6 +9,9 @@ description: Israeli Prime Minister Benjamin Netanyahu has maintained that milit
   forces will remain in place across Gaza until every weapon in Hamas’s arsenal is
   surrendered
 image: https://static.independent.co.uk/2026/08/27/22/2275453130..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The lead envoy overseeing President Donald Trump’s Gaza ceasefire strategy voiced sharp criticism of Israel on Wednesday over its persistent bombardments of the enclave, cautioning that rejecting the U.S. proposal leaves only the prospect of renewed conflict.

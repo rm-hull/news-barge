@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:57:02Z'
 published: '2026-09-09T00:00:00Z'
 description: A MOTORWAY has been named the most dangerous in Britain for injury collisions
 image: https://www.thetelegraphandargus.co.uk/resources/images/17813216.jpg?type=og-image&xType=0&yType=4
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: T&A)*

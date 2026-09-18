@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The UK Cinema Association (UKCA) said many venues have already banned
   or limited the use of the glasses over both privacy and piracy concerns.
 image: https://www.yorkpress.co.uk/resources/images/21355383.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Getty Images)*

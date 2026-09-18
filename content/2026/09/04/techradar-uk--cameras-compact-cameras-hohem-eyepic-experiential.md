@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: I saw the Hohem Eyepic in action at IFA Berlin 2026, and it massively
   impressed me with its versatile design and native 4K video capabilities.
 image: https://cdn.mos.cms.futurecdn.net/DPekvGmMGaj56xpuW3cnRA-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Man holding the Hohem Eyepic](https://cdn.mos.cms.futurecdn.net/DPekvGmMGaj56xpuW3cnRA.jpg) 

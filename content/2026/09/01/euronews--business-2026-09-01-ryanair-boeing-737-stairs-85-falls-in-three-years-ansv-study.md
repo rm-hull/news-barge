@@ -9,6 +9,10 @@ description: 'A study examined 104 falls in Italy between 2023 and 2025: 85 invo
   travellers using the built-in stairs of Boeing 737s, but analysts say the key factor
   was passenger inattention.'
 image: https://images.euronews.com/articles/stories/09/89/76/16/1200x675_cmsv2_ff7b1ab4-076c-563e-a04f-50c60286f499-9897616.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## A study examined 104 falls in Italy between 2023 and 2025: 85 involved travellers using the built-in stairs of Boeing 737s, but analysts say the key factor was passenger inattention.

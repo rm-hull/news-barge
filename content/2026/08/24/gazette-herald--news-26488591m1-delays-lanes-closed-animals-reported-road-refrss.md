@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Lanes were closed and queues formed on the M1 northbound between junction
   40 for the A638 Wakefield Road and junction 41 for Carrgate.
 image: https://www.gazetteherald.co.uk/resources/images/21360979.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Highways England)*

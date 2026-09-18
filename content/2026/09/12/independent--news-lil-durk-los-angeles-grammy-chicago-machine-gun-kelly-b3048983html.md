@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A federal jury has found rapper Lil Durk not guilty of attempted murder
   for hire of rival rapper Quando Rondo
 image: https://static.independent.co.uk/2026/09/12/03/Lil_Durk_Trial_34816.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 A federal jury on Friday found rapper Lil Durk not guilty of the attempted killing for hire of rival rapper Quando Rondo at a Los Angeles gas station, a shooting that resulted in the death of Rondo’s cousin.

@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Drivers in Darlington face eight sets of road restrictions, including
   temporary traffic signals and a lane closure. These include the A68.
 image: https://www.thenorthernecho.co.uk/resources/images/21148761.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

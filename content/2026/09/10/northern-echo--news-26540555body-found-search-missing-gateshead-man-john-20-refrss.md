@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A body has been found in the search for missing 20-year-old man John
   from Gateshead.
 image: https://www.thenorthernecho.co.uk/resources/images/21437442.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: NORTHUMBRIA POLICE)*

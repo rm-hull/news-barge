@@ -9,6 +9,11 @@ description: The US used Guantanamo, an isolated naval base, to hold militants c
   during the "War on Terror" that followed the September 11 attacks in a bid to keep
   the defendants from claiming rights under US law.
 image: https://images.euronews.com/articles/stories/09/89/07/51/1200x675_cmsv2_9fbfd39f-3765-5533-9511-367d186a29fc-9890751.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- True Crime
 ---
 
 ## The US used Guantanamo, an isolated naval base, to hold militants captured during the "War on Terror" that followed the September 11 attacks in a bid to keep the defendants from claiming rights under US law.

@@ -8,6 +8,11 @@ scraped_at: '2026-08-21T13:06:12Z'
 published: '2026-08-21T00:00:00Z'
 description: 'From: John Riseley, Harrogate.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkZjUyNjdmLTNiOWYtNGRmYi04MTM5LTRlMzlkZmM1MjY0Mjo5MjI0MjViOC1jZWE3LTQwYmItYTFjYS1hNjYxM2UzYWU5NTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Why should our social care system become reliant on migrant workers? - Yorkshire Post Letters

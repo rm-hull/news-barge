@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Conservatives say £4bn could be cut from the housing benefit bill
   to help fund increased defence spending.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/94b0/live/2f79d1f0-acef-11f1-a8ae-35fb3e785e0c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A head and shoulders shot of Badenoch in a BBC studio. She is wearing a white jacket over a royal blue top and has her braided hair tied back in a low ponytail.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/94b0/live/2f79d1f0-acef-11f1-a8ae-35fb3e785e0c.jpg)

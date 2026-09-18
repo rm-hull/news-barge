@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A new 426-space multi-storey car park is set to open in Bridlington next
   month.
 image: https://www.gazetteherald.co.uk/resources/images/21424036.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: East Riding of Yorkshire Council)*

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Hidden pubs, scenic riverside strolls, and wide-open green spaces have
   been revealed by Wheelwrights York.
 image: https://www.gazetteherald.co.uk/resources/images/12214290.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

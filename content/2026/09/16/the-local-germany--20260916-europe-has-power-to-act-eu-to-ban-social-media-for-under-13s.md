@@ -9,6 +9,10 @@ description: The European Union will ban social media for children under 13 and 
   only limited, supervised access until the age of 15 under plans unveiled Wednesday
   by EU chief Ursula von der Leyen.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260204__967J6W6__v1__MidRes__SpainGovernmentChildrenSocialMedia.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 A global backlash against social media has piled pressure on policymakers, with a rising body of evidence showing negative impacts on children's physical and mental health.

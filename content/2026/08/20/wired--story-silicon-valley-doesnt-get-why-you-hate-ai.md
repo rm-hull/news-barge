@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Technology leaders don’t seem to understand society’s gripes about AI,
   but boy, are they posting through it.
 image: https://media.wired.com/photos/6a8606ab1997359abc4212b4/191:100/w_1280,c_limit/Model-Behavior-Silicon-Valley-Doesnt-Understand-AI-Backlash-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Society & Culture
 ---
 
 Silicon Valley is trying to make sense of the growing backlash against artificial intelligence, but so far, it’s not going that well. The inconvenient truth is that a significant portion of the world is not optimistic about the technology they’re building. But recent attempts to diagnose the root of the problem by CEOs like Meta’s Mark Zuckerberg and Anthropic’s Dario Amodei indicate they don’t understand what’s actually driving society’s disdain for AI.

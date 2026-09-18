@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Teesside MPs and a council leader say communities need to feel safe after
   the incidents over the past week.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3441/live/f48b6120-a204-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A composite image of Natalie McDonald and Valentina Foster. McDonald is wearing a white wedding dress with a tiara perched on her head. She has long dark hair and is holding a bouquet of white roses with four blue ones dotted within it. Valentina wears an electric blue dress with white flowers on the neckline and waist. She has long light brown hair with a blue and white headband. She is holding a small white basket with white and blue roses and she wears white gloves.](https://ichef.bbci.co.uk/ace/standard/907/cpsprodpb/d43b/live/59b0d4a0-a1f0-11f1-bf30-b9c45f18ad85.jpg)

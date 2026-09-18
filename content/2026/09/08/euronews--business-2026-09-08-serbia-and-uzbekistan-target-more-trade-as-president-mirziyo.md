@@ -9,6 +9,11 @@ description: Bilateral trade reached a record $41.9m in 2025, while Serbian agri
   exports rose 54.1% in the first seven months of 2026. The two sides are also discussing
   a free trade agreement and new investment projects.
 image: https://images.euronews.com/articles/stories/09/90/45/51/1200x675_cmsv2_ee76b255-7960-5fc5-8bd4-038ce79d3826-9904551.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **KATARINA MIĆIĆ by Euronews Serbia**

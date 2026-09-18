@@ -8,6 +8,13 @@ published: '2026-08-18T00:00:00Z'
 description: A major road near York is currently blocked after a crash with queues
   beginning to mount.
 image: https://www.gazetteherald.co.uk/resources/images/13699323.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Technology & Software
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

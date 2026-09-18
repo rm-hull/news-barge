@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Millions more Brits could face the £100,000 tax trap by 2031 as a frozen
   threshold creates an effective 60 marginal tax rate.
 image: https://www.thenorthernecho.co.uk/resources/images/21049574.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images/iStockphoto)*

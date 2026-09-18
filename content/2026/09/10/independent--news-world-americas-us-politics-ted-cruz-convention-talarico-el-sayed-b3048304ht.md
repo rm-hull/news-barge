@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Republicans increasingly seek to tie Democrats to left-wing members of
   the caucus and personalities like Hasan Piker
 image: https://static.independent.co.uk/2026/09/10/23/2294584107..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Hecklers shouted “he should be shot” during Sen. Ted Cruz’s speech at Donald Trump’s midterm convention in Dallas when the Texas Republican mentioned a string of prominent Democrats.

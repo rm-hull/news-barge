@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T12:58:04Z'
 published: '2026-08-23T00:00:00Z'
 description: Discover more about Drones with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![clouds behind some solar panels](https://cdn.mos.cms.futurecdn.net/vNEVWceFT8L4AN8TD2885j-320-80.png)

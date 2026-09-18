@@ -9,6 +9,9 @@ description: 'Swing state Republicans are in dire straits and are eyeing Trumpâ€
   in South Carolina, but it comes with a cost: Association with an unpopular president,
   writes John Bowden'
 image: https://static.independent.co.uk/2026/08/25/16/54/GettyImages-2290843264.jpeg?trim=0,78,0,78&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republican candidates and political operatives in battleground states are hopeful that Donald Trump is getting ready to put his money where his mouth is.

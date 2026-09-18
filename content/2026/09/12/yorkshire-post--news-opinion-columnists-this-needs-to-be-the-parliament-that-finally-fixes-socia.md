@@ -10,6 +10,12 @@ description: With Parliament returning after the summer recess, there will under
   be many pressing issues competing for the Government’s attention. But we must not
   allow social care reform to slip down the political agenda yet again.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU3NGY2YWE2LWMwNjItNDYyNC1iYWE5LWM5NjVkMmEwZDNhYjpkYTcxYzZiZC04NWI3LTQ3NGYtOTUzOS1hMzE3OWE3ZjdlNGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # This needs to be the Parliament that finally fixes social care once and for all - Mike Padgham

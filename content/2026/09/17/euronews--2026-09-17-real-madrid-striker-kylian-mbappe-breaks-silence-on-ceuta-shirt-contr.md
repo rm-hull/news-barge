@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Real Madrid's striker has for the first time explained why he, Vinícius
   Jr and Ibrahima Konaté partly covered up a message on a t-shirt backing Ceuta.
 image: https://images.euronews.com/articles/stories/09/91/68/43/1200x675_cmsv2_e78fa6bc-8b58-5818-9a6b-001a254a679f-9916843.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Real Madrid's striker has for the first time explained why he, Vinícius Jr and Ibrahima Konaté partly covered up a message on a t-shirt backing Ceuta.

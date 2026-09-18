@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: A council has delayed plans to construct a multi-million pound footbridge
   to connect two Yorkshire villages.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVjNWVkZjJlLWYwZmQtNDA4ZC04NjAyLTI4MDM1ZDk5ZjVmNTo1NmFlMDliNy0xN2UwLTRkNzQtYjNiOS03MjA1Y2UyZTYxZGI=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # A6120: Multi-million pound footbridge to link two Yorkshire villages across one of busiest Leeds roads delayed due to rising costs

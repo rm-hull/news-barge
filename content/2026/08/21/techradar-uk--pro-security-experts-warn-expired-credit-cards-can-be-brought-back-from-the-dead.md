@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T01:46:39Z'
 published: '2026-08-21T00:00:00Z'
 description: Back from the dead to pay for someone's grocery run?
 image: https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![A credit card passed between two hands](https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK.jpg) 

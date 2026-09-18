@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A woman was hit with three parking tickets and a debt collector's letter
   while fighting for her life in hospital - despite paying for weekly permits.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYwNDg4OTkxLTFmZWItNDUyNS1hYTU0LTY0ZWQ5YzZhNDNhNDoxMjljZjM1YS1lNWNkLTRjODYtODBmYi1lMTMyOWFlZDRlOTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Family's fury after woman hit with hospital parking fines while in intensive care

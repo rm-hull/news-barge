@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Police reportedly fired into the air on Friday morning as they struggled
   to contain crowds jostling to secure a place at the tented site.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Police officers in riot gear push back a densely packed crowd of migrants during a chaotic transfer operation in Ceuta's port area](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg)

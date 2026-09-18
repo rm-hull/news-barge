@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T12:07:55Z'
 published: '2026-09-06T00:00:00Z'
 description: An electric bike has been seized following reports of anti-social riding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21416193.jpg?type=og-image&xType=0&yType=69
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

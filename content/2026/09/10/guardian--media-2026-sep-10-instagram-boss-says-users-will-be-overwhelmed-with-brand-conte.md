@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company
   trying to give users more control after Labor announces opt-out plan
 image: https://i.guim.co.uk/img/media/57bcc184764741c612885e75fb81ba5d750337bc/45_0_2525_2019/master/2525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d99f16d8c078e1667a06ff8ec7f973d7
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Instagram’s chief executive has said users will have a worse experience in an algorithm-free world, seeing more brand-related content, and spend less time on the app.

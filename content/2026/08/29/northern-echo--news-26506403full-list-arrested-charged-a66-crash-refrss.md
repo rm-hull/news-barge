@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Twenty-four people have been arrested, and three charged during a major
   Cleveland Police operation launched in the aftermath of the A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21387880.jpg?type=og-image&xType=0&yType=480
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Twenty-four people have been arrested, and three charged in an organised crime crackdown in the aftermath of the A66 crash which killed seven people.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:06Z'
 published: '2026-09-04T00:00:00Z'
 description: Jonathan Swan gained unprecedented access to Trump’s inner circle.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ## Episode details

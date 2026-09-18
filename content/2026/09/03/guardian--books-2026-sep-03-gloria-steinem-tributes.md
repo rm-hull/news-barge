@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Former secretary of state joins Nancy Pelosi, Jill Biden, Roxane Gay
   and others in heralding groundbreaking feminist
 image: https://i.guim.co.uk/img/media/9f10da87a3220b215cfd37e138f281648b9b0657/79_0_4180_3347/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dad4f9ca71e2b944501e0410392eb4b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Leading figures from politics, entertainment and wider society led glowing tributes to Gloria Steinem on Thursday, with Hillary Clinton hailing the American feminist icon who died at 92 at home in New York City as “one of the architects of the entire structure of women’s equality”.

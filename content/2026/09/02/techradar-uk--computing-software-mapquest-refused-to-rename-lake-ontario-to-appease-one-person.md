@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: MapQuest is the new mapping darling, topping download lists, but it's
   missing one key feature
 image: https://cdn.mos.cms.futurecdn.net/gGsVUXqCdbkceqyLcVw8Fk-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![MapQuest](https://cdn.mos.cms.futurecdn.net/gGsVUXqCdbkceqyLcVw8Fk.jpg) 

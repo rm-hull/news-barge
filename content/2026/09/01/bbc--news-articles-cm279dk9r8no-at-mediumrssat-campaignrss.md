@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Swedish retailer has seen revenue decline as the rising cost of living
   reduces people's ability to buy new furniture.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![People outside an Ikea City shop](https://ichef.bbci.co.uk/ace/standard/953/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg)

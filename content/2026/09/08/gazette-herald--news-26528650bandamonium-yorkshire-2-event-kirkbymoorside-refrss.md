@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:50:57Z'
 published: '2026-09-08T00:00:00Z'
 description: A North Yorkshire town came alive to the sound of brass at the weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21420758.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A North Yorkshire town came alive to the sound of brass at the weekend.

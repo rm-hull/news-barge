@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T13:28:05Z'
 published: '2026-09-16T00:00:00Z'
 description: Trump is scheduled to meet with Xi on September 24 in Washington
 image: https://static.independent.co.uk/2026/09/16/10/2026-09-15T215938Z_1687729828_RC2VJNAUKMMW_RTRMADP_3_USA-TRUMP-CHINA-NVIDIA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nvidia CEO Jensen Huang is set to attend a state dinner hosted by President Donald Trump for Chinese President Xi Jinping, according to a source familiar with the matter on Tuesday.

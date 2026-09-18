@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: ST AIDAN'S CE Academy, in Darlington, is celebrating a year of strong
   GCSE results after more than one in five students achieved top Grades 7…
 image: https://www.thenorthernecho.co.uk/resources/images/21350987.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ST AIDAN'S CE Academy, in Darlington, is celebrating a year of strong GCSE results after more than one in five students achieved top Grades 7 to 9 in both English and Mathematics.

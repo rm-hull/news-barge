@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: MPs vote against the assisted dying bill with 286 votes against and 270
   in favour.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ## Episode details

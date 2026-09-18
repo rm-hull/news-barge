@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: An 89-year-old North East man who joined a gym to stay strong enough
   to care for his wife has become an unlikely internet star after inspiring…
 image: https://www.thenorthernecho.co.uk/resources/images/21374762.jpg?type=og-image&xType=0&yType=391
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: Pioneer Gym on Instagram)*

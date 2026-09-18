@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Martial law has been in place in Ukraine since February 2022, under which
   elections are suspended.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Ukraine's Defence Minister Mykhailo Fedorov attends a meeting of the Ukraine Defence Contact Group in February 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg)

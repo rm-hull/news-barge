@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A NORTH Yorkshire MP has objected to the use of a hotel as emergency
   accommodation due to ‘serious concerns’.
 image: https://www.gazetteherald.co.uk/resources/images/21368725.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A NORTH Yorkshire MP has objected to the use of a hotel as emergency accommodation due to ‘serious concerns’.

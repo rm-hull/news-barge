@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Much of the grass and surrounding tree areas of the lawn ‘require significant
   restoration,’ the National Park Service said
 image: https://static.independent.co.uk/2026/09/03/12/33/National-Mall-4783b9b7.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration is closing off large sections of the National Mall lawn for restorations as the site was home to America’s 250th celebrations and vandalism that infuriated President Donald Trump.

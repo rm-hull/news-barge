@@ -10,6 +10,9 @@ description: House Clerk records show the South Carolina Republican missed more 
   36 percent of roll call votes this year, leaving her absent for over 100 legislative
   measures
 image: https://static.independent.co.uk/2026/09/01/23/2275355550..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. Rep. Nancy Mace claims she works for her constituents seven days a week, but her actual attendance record on Capitol Hill says otherwise.

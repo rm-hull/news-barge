@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:03Z'
 published: '2026-09-08T00:00:00Z'
 description: A SUNDAY pub visit could end with a £1,000 cash prize.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20702528.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Google Street View)*

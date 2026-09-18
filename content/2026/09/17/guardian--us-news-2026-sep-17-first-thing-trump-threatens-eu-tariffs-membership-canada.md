@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Canada’s prime minister, Mark Carney, is due to address the European
   parliament on Thursday. Plus, how the attention economy overwhelmed children’s TV
 image: https://i.guim.co.uk/img/media/00ec2c231c1ff9196462a7ad6c4f931209db2815/458_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7957f79aa787e7eaafd1c05585e454fb
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Good morning.

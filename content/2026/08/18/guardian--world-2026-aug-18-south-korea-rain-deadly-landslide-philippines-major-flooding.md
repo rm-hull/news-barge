@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: More than 800mm of rain was recorded in the South Korean city of Geoje,
   which triggered a landslide that killed one person
 image: https://i.guim.co.uk/img/media/e08ba5aded94da9bd89a537e9a855562f93d3738/558_0_3920_3136/master/3920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3868e6d686183e96f59064e98e6c6e66
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Torrential downpours that have pounded southern parts of South Korea have killed one person and injured four others, officials have confirmed.

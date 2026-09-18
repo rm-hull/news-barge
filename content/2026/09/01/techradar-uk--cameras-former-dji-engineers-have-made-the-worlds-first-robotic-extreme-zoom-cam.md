@@ -10,6 +10,8 @@ published: '2026-09-01T00:00:00Z'
 description: Keep your subjects in the frame and focused even at long distances. Oh,
   and it identifies bird species too.
 image: https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm-1600-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![FarseerTech RocXZoom](https://cdn.mos.cms.futurecdn.net/eisKX3ZnUHS8WKDTuAHEQm.jpg) 

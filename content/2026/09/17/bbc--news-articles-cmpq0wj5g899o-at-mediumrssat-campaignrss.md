@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The firm also announced a new system to track, investigate and disclose
   cases of models misbehaving, or "misalignment".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![OpenAI CEO Sam Altman at the Moscone Center on 15 September, 2026 in San Francisco, California.](https://ichef.bbci.co.uk/ace/standard/823/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg)

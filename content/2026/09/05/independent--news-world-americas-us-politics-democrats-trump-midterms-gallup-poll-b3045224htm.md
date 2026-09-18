@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Democrats now hold their largest party-affiliation advantage over Republicans
   in years
 image: https://static.independent.co.uk/2026/09/05/13/15/GettyImages-1037387008.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A growing number of Americans now identify as Democrats, a shift that presents fresh political headwinds for President Donald Trump and the Republican party ahead of the November midterms, according to a new poll.

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Shoppers at supermarkets across the UK, including Tesco and Asda, have
   been issued warnings this week as products were recalled by the FSA and OPSS
 image: https://www.thetelegraphandargus.co.uk/resources/images/21230158.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

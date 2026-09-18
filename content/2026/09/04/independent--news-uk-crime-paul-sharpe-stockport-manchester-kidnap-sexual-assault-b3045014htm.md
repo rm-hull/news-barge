@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Paul Sharpe, 56, put his victim in a chokehold and bundled her into his
   car in Altrincham, Greater Manchester, on May 18
 image: https://static.independent.co.uk/2026/09/04/19/01M1PCWWWW435NA1FE25HAFNEV.jpg?trim=240,0,199,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 15-year-old girl managed to help ensnare a convicted murderer who kidnapped and sexually assaulted her by pulling out strands of her own hair to leave crucial DNA evidence.

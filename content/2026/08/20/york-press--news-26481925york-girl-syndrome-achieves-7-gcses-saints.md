@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:47:40Z'
 published: '2026-08-20T00:00:00Z'
 description: A York teen with down syndrome has achieved seven GCSEs
 image: https://www.yorkpress.co.uk/resources/images/21350096.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Provided)*

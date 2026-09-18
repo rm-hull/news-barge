@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T01:49:38Z'
 published: '2026-08-19T00:00:00Z'
 description: Routing to the ideal AI agent to save compute
 image: https://cdn.mos.cms.futurecdn.net/TwTNQ2vfXDVQryv6YuEVjU-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nvidia's Computex keynote pictured](https://cdn.mos.cms.futurecdn.net/TwTNQ2vfXDVQryv6YuEVjU.jpg) 

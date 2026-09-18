@@ -9,6 +9,11 @@ description: There is "nowhere like Halkidiki" say locals and more than a millio
   foreign tourists each year, yet geopolitical shifts in the past five years have
   changed who visits the area – an on-the-ground report by Euronews.
 image: https://images.euronews.com/articles/stories/09/88/05/50/1200x675_cmsv2_34febef0-7dee-573b-b03f-a6d2b6e63baa-9880550.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## There is "nowhere like Halkidiki" say locals and more than a million foreign tourists each year, yet geopolitical shifts in the past five years have changed who visits the area – an on-the-ground report by Euronews.

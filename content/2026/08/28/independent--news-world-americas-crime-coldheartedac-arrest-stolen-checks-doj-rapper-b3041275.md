@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: More than 100 stolen or altered checks were found in the aspiring rapper’s
   car, including tax refund and federal benefits checks, according to the DOJ
 image: https://static.the-independent.com/2026/08/28/19/09/coldheartedac-arrest-doj.jpeg?trim=109,505,206,18&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 An aspiring Los Angeles rapper is among three people accused of stealing more than $8.1 million in checks, including Social Security and benefit payments.

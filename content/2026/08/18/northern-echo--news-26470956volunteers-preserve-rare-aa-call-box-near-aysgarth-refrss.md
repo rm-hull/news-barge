@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Volunteers from the Yorkshire Dales National Park have helped preserve
   one of Britain’s rare surviving AA roadside call boxes, carrying out…
 image: https://www.thenorthernecho.co.uk/resources/images/21330703.jpg?type=og-image&xType=0&yType=86
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Volunteers from the Yorkshire Dales National Park have helped spruce up the surroundings of one of Britain's rare surviving AA roadside call boxes, preserving a distinctive reminder of the early days of motoring.

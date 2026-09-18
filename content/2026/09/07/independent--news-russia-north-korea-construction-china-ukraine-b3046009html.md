@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Russia and North Korea have opened their first road bridge for car traffic,
   enhancing their growing ties
 image: https://static.independent.co.uk/2026/09/07/14/Russia_North_Korea_39555.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Russia and North Korea opened the first road bridge across their shared border on Monday, a development Russian officials hailed as boosting the nations' deepening ties.

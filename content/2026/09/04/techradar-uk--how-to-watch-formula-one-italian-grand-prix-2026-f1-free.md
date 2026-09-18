@@ -7,6 +7,8 @@ scraped_at: '2026-09-04T12:41:28Z'
 published: '2026-09-04T00:00:00Z'
 description: Can Ferrari beat Mercedes and McLaren to a home win at Monza?
 image: https://cdn.mos.cms.futurecdn.net/xx853zVsPmHMZxwcFTdLei-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Race winner Lando Norris of Great Britain and McLaren celebrates on arrival in parc ferme during the F1 Grand Prix of Netherlands at Circuit Zandvoort](https://cdn.mos.cms.futurecdn.net/xx853zVsPmHMZxwcFTdLei.jpg) 

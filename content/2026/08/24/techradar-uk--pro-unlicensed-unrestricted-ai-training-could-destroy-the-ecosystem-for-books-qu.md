@@ -9,6 +9,8 @@ published: '2026-08-24T00:00:00Z'
 description: Many of today's widely used AI systems have been trained on material
   sourced from books
 image: https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Ultra-rare books are being destroyed by AI](https://cdn.mos.cms.futurecdn.net/sAKNxTKFKv2WboLS6v4Zw7.jpg) 

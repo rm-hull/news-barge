@@ -13,6 +13,11 @@ description: Humanoid robots participated in a tug-of-war competition at the 202
   showing advances in robotics are enabling machines to perform increasingly physical
   and complex tasks once associated mainly with humans.
 image: https://cdn.jwplayer.com/v2/media/LVISNkzc/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 ## Showing now | News

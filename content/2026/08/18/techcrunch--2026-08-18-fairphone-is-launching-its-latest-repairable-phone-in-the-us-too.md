@@ -9,6 +9,9 @@ description: The Fairphone 6+ is a midrange Android offering, but given the incr
   prices of consumer gadgets amid the ongoing component shortages, a repairable device
   that can be made to last for years may prove a good proposition.
 image: https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Fairphone, the Dutch company known for its sustainable and repair-friendly phones, on Tuesday said its latest smartphone, Fairphone (Gen 6+), is now available in the U.S., starting at $649.

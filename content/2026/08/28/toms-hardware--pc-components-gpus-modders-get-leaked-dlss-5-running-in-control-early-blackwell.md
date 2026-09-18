@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T11:16:03Z'
 published: '2026-08-28T00:00:00Z'
 description: There she blows.
 image: https://cdn.mos.cms.futurecdn.net/aRSiWBgcRxFsTpt9SXgjRd-1429-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Sports
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/aRSiWBgcRxFsTpt9SXgjRd.jpg) 

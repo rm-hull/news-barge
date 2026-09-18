@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Villagers have called for a Home Office minister to visit RAF Linton-on-Ouse
   near York where the government is proposing to house 1,200 asylum…
 image: https://www.gazetteherald.co.uk/resources/images/21405986.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Ryan McDougall/PA Wire)*

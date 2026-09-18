@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A new wave of queens raised on the hit reality show are among the 12
   contestants set to compete for the series eight crown.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a925/live/ed86e030-a6ef-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mocha wears a fushia pink off-the-shoulder dress with matching pink gloves and has a large brunette wig on. She has dramatic eye makeup. She is standing in front of a poster board which has her face on it.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a925/live/ed86e030-a6ef-11f1-9e4c-79c1c0e340c6.jpg)

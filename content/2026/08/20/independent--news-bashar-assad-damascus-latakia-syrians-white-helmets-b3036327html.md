@@ -10,6 +10,10 @@ description: An official probe in Syria's Latakia province has found that a poli
   investigator slapped a young man with hemophilia during interrogation, despite warnings
   about his medical condition
 image: https://static.independent.co.uk/2026/08/20/12/Syria_Detention_Abuse_13419.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Syrian police investigator who slapped a man during interrogation despite having been warned that he had hemophilia will face prosecution, officials said Thursday.

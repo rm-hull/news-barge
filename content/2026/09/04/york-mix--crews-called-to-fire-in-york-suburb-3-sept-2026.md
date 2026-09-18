@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:41:55Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/crossfield-crescent-york-gsv.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Fire crews were called to an incident in a York suburb last night (Thursday).

@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: We found out if people are happy to pay 50p to use the public toilets
   in Silver Street in York and how the cost compares to other cities in Europe.
 image: https://www.yorkpress.co.uk/resources/images/21407535.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ## We found out if people are happy spending 50p to use public toilets in York

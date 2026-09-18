@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Lifeboat Fish Bar might be tiny but it offers some of the best fish
   and chips on the Yorkshire coast, visitors say.
 image: https://www.yorkpress.co.uk/resources/images/21361719.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## 'Best ever' Scarborough fish and chip shop that constantly has queues out the door

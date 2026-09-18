@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T18:59:31Z'
 published: '2026-09-04T00:00:00Z'
 description: Xreal better watch out
 image: https://cdn.mos.cms.futurecdn.net/J7XynJMyFc9r4n3pRSuLMk-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![The RayNeo GT Max glasses](https://cdn.mos.cms.futurecdn.net/J7XynJMyFc9r4n3pRSuLMk.jpg) 

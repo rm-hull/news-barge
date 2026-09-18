@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Police have issued an urgent appeal to find a missing 14-year-old boy
   from Holgate in York.
 image: https://www.yorkpress.co.uk/resources/images/21442611.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: US president claimed ‘very negative forces’ have been raising concerns
   about the rapidly developing technology
 image: https://static.independent.co.uk/2026/09/13/20/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump has downplayed the necessity for his administration to restrict artificial intelligence development, arguing that maintaining the United States’ lead over China in global competition is paramount and that securing victory will help mitigate the hazards of the evolving technology.

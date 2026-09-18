@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: TV presenter Richard Hammond has revealed he kept cars from his time
   presenting on Top Gear and The Grand Tour.
 image: https://www.gazetteherald.co.uk/resources/images/21435989.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 TV presenter Richard Hammond has revealed he kept cars from his time on Top Gear and The Grand Tour.

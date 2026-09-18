@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man carried out a plan to have sex with a teenage boy he met on an
   online chat forum, a court heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21432337.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Durham Constabulary)*

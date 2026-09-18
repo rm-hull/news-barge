@@ -10,6 +10,11 @@ description: Canadian Prime Minister Mark Carney is courting some of the worldâ€
   investors as he tries to reduce Canadaâ€™s economic dependence on the United States
   during an escalating trade war with President Donald Trump
 image: https://static.independent.co.uk/2026/09/14/05/Canada_Carney_97229.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 U.S. President Donald Trump wants factories and investment moving south to the United States. Canadian Prime Minister Mark Carney is betting he can make billions flow north.

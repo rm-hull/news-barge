@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Shoppers have been warned not to use some products and not to eat some
   foods this week, including items sold at Tesco and Waitrose.
 image: https://www.yorkpress.co.uk/resources/images/21354711.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Getty)*

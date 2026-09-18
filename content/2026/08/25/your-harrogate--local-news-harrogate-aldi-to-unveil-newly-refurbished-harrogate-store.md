@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Aldi's Harrogate supermarket is set to reopen this week following a temporary
   closure for refurbishment.
 image: https://mmo.aiircdn.com/409/6a1f04d11d1e5.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a1f04d11d1e5.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Airbus workers in Spain, France and Britain had protested the plans to
   work on-site four days a week by September
 image: https://static.independent.co.uk/2026/08/21/12/2026-08-18T132448Z_212568501_RC2MVS9N8D6W_RTRMADP_3_AIRBUS-A350F.JPG?trim=0,24,0,24&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Airbus has backtracked on its plan to reduce remote working after protests from unions, including a series of strikes in its Spanish facilities, according to people familiar with the matter.

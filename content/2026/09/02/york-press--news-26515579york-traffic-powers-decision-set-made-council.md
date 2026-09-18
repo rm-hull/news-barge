@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Powers used during York's Christmas Market which saw Blue Badge holders
   and others barred from the city centre could become permanent.
 image: https://www.yorkpress.co.uk/resources/images/20196842.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Powers to bar traffic from York to help stop terror attacks branded 'draconian'

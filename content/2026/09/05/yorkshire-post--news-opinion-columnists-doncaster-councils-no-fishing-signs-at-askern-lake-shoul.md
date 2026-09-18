@@ -11,6 +11,12 @@ description: Recently, the City of Doncaster Council informed us that it had tak
   fishing’ signs. The move followed communications with Askern Town Council regarding
   concerns over alleged anti-social behaviour and environmental impact.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE5YjZjZTc4LTE3YzEtNDc5ZS04MDg5LWU5YmI1NDYxMmQ3ZTplNjEyNzU3Ny01YjQ5LTRkMDAtOWQyYS1mMDBmNzg0NjAyOTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Sports
 ---
 
 # Doncaster Council’s no-fishing signs at Askern Lake should never see the light of day - Mo Metcalf-Fisher

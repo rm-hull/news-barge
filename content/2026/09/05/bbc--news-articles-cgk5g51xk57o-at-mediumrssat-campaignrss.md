@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The party says the tax cut will be paid for by reducing public spending
   by £80bn.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3230/live/60ba9ca0-a901-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Robert Jenrick on Reform's proposed increase in tax-free personal allowance

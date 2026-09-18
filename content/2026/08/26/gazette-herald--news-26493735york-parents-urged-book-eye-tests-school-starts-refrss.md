@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Specsavers York and Specsavers Vangarde are encouraging families to book
   appointments for their children ahead of the new school term.
 image: https://www.gazetteherald.co.uk/resources/images/21368991.jpg?type=og-image&xType=0&yType=40
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Education & Learning
 ---
 
 *(Image: Specsavers)*

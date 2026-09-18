@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Whitby’s famous whale bone arch that has stood in the town for two decades
   is being removed today ahead of a £70,000 bronze replacement.
 image: https://www.thenorthernecho.co.uk/resources/images/21394427.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 One of Whitby’s most recognisable landmarks has been removed after more than two decades overlooking the town’s famous seafront.

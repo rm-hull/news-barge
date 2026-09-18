@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A new Channel 4 series, Geordie Coppers, will follow Northumbria Police,
   NE1 Street Rangers and Newcastle City Council as they work to keep the city…
 image: https://www.thenorthernecho.co.uk/resources/images/21419772.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Channel 4)*

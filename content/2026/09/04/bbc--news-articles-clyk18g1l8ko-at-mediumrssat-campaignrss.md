@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Javier Milei reiterates his country's claim on the British overseas territory,
   saying the "winds of change" favour it.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Argentina's President Javier Milei delivers a speech at the opening ceremony of the 5th Regional Meeting of the Madrid Forum, in Santiago, Chile, September 3](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/60ba/live/95a27d40-a7fb-11f1-aed2-8d6da8d75094.jpg)

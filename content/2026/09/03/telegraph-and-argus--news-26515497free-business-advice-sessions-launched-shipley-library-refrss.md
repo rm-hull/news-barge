@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A NEW series of drop-in advice sessions is offering free business support
   to the community.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16720283.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

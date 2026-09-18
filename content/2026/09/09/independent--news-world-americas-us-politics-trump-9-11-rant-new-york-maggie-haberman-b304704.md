@@ -10,6 +10,9 @@ description: President Donald Trump lashes out at New York Magazine and New York
   correspondent Maggie Haberman for questioning his record on the September 11 attacks
   in latest diatribe against ‘Fake News’
 image: https://static.independent.co.uk/2026/09/08/19/2294161678..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has lashed out furiously at the media over reporting questioning his record on 9/11.

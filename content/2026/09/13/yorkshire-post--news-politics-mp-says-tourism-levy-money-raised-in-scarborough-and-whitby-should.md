@@ -10,6 +10,11 @@ description: A Yorkshire MP has warned about the impacts on ‘very price-sensit
   domestic tourism from the possible introduction of a new overnight visitor levy
   by regional mayors.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA0MDg3MmQxLTczYTktNDA0OC04MGNjLTM1OGVlMDkzMzdkODo4NmU4MjgyOS02ZWZkLTRlMTEtYjkzMS0xOTI1OTY3ZDlhNjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # MP says tourism levy money raised in Scarborough and Whitby ‘should stay on coast’

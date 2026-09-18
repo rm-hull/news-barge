@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: Hartlepool EuroMillions winner misses September 9 deadline to claim £1m
   prize from March 13 draw - the unclaimed funds will support National…
 image: https://www.thenorthernecho.co.uk/resources/images/20452658.jpg?type=og-image&xType=0&yType=114
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Yui Mok/PA Wire)*

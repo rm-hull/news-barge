@@ -9,6 +9,8 @@ published: '2026-09-12T00:00:00Z'
 description: The iPhone Duo is Apple’s most exciting phone in years, but I’m wondering
   who is actually going to buy it.
 image: https://cdn.mos.cms.futurecdn.net/YLRkQdbWeVWJhUM2FSxnNe-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iPhone Duo on a light colored background](https://cdn.mos.cms.futurecdn.net/YLRkQdbWeVWJhUM2FSxnNe.jpg) 

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Rain has returned to parts of the UK this week but is it enough to end
   the drought some regions are facing?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a0d/live/415c1440-9af3-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![An aerial view of a river winding through a parched grass field, on both sides are green trees and the left hand side there is a walking path winding through the trees](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0a0d/live/415c1440-9af3-11f1-930b-57cfba7235f9.jpg)

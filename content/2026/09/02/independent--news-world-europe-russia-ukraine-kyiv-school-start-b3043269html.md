@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Ukrainian students are beginning their fifth school year since Russia’s
   invasion, with no end to the war in sight
 image: https://static.independent.co.uk/2026/09/02/08/APTOPIX_Russia_Ukraine_War_45667.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Balloons drifted over a schoolyard in Kyiv’s Obolon district on Tuesday, hours after Russian ballistic missiles shook the Ukrainian capital overnight.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: ‘ I absolutely love it,’ Trump’s son said of the passport depicting his
   father
 image: https://static.independent.co.uk/2026/09/03/9/27/Screenshot-2026-09-03-at-10-24-17.png?trim=0,0,124,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Eric Trump has shown off his new U.S. passport – which features a portrait of his glowering father.

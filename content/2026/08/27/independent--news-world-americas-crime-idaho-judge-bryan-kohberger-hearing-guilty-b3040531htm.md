@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Man who admitted murdering four University of Idaho students is arguing
   that he was ‘convinced to falsely confess’ to the killings by his legal team
 image: https://static.the-independent.com/2026/04/17/06/2222522310.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Bryan Kohberger, the man who has pleaded guilty to killing four University of Idaho students, will return to the courtroom next year in an effort to see his case reopened.

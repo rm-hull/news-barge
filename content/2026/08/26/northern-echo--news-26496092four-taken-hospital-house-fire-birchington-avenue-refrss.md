@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Four people have been taken to hospital after an early morning house
   blaze.
 image: https://www.thenorthernecho.co.uk/resources/images/21372172.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Four people have been taken to hospital after an early-morning house blaze.

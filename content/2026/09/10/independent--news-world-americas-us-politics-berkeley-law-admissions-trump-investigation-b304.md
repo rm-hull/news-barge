@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A joint probe by the two federal departments whose findings were announced
   on Wednesday marked the latest crackdown on diversity initiatives in universities
 image: https://static.independent.co.uk/2026/09/10/10/2149770857..?trim=0,65,0,65&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Federal officials from the Justice and Education Departments alleged on Wednesday that admissions procedures at the University of California, Berkeley School of Law intentionally favored Black applicants while discriminating against white and Asian candidates.

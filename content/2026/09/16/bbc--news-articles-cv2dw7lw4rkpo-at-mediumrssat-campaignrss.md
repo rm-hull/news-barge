@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Summer holidays and disruption to global oil supplies by the Middle East
   conflict stoked price growth.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d847/live/6dc55eb0-b1be-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A woman prepares to pay for fuel at the pump in a petrol station. She is wearing a pink cardigan over a pink and white patterned blouse](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d847/live/6dc55eb0-b1be-11f1-b1d1-571ed4d7ff2c.jpg)

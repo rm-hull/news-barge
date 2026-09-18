@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:08:24Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/04/north-yorkshire-police-car-rural-road-ny.webp
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 North Yorkshire Police officers are appealing for information following the theft of a motorcycle from Tockwith.

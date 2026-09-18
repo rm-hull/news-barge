@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:34:30Z'
 published: '2026-09-17T00:00:00Z'
 description: Flash flood warnings in effect for parts of northwestern New Mexico
 image: https://static.independent.co.uk/2026/09/17/20/download..?trim=128,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Three people have died after they were swept away in floodwaters on the Navajo Nation early Wednesday morning.

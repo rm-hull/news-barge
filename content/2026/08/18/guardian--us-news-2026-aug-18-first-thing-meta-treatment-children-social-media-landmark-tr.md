@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Multiple US states have accused Instagram and Facebook’s parent company
   of deliberately causing young people harm with its products
 image: https://i.guim.co.uk/img/media/ea2305ab1653d12dcaccb85c1a235e83c5938a49/992_0_3008_2406/master/3008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff0e7155874cc53bdfe7d7ec42afd27a
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Good morning. More than half of the states in the US have joined together in an unprecedented lawsuit against Meta that goes to trial on Tuesday, accusing the parent company of Instagram and Facebook of deliberately designing addictive products that lured in young people and caused them harm.

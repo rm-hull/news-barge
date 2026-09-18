@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: Grassington and Askrigg have both become Darrowby on television as All
   Creatures Great and Small brings James Herriot's Yorkshire stories to…
 image: https://www.thenorthernecho.co.uk/resources/images/21381647.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: CHANNEL 5)*

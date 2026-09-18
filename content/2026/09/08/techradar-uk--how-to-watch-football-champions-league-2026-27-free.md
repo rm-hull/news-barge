@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: All the ways to watch Champions League 2026/27 live streams from anywhere,
   as Real Madrid vs Inter and Liverpool vs Atletico Madrid headline matchday 1.
 image: https://cdn.mos.cms.futurecdn.net/EmFJdr3DFHSheAPJEvu7kF-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Real Madrid's Jose Mourinho and Vinicius Junior](https://cdn.mos.cms.futurecdn.net/EmFJdr3DFHSheAPJEvu7kF.jpg) 

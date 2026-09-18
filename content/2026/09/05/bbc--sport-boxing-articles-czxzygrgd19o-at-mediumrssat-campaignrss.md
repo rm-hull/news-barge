@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Some of the biggest names in women's boxing pay tribute to Katie Taylor
   after the Irish great ended her career with victory over Flora Pili at Croke Park.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf73/live/598dbda0-a982-11f1-bc2e-61004864d4a3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Katie Taylor celebrates after her win](https://ichef.bbci.co.uk/ace/standard/991/cpsprodpb/bf73/live/598dbda0-a982-11f1-bc2e-61004864d4a3.jpg)

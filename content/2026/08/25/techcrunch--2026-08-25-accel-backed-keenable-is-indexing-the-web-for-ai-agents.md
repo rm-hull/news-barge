@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Now exiting stealth mode with a $26 million seed round, Keenable has
   been building a vast web search index for AI agents.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Search engines were built and optimized for people, who can’t spare the time or attention required to scan entire webpages. But as people increasingly use AI chatbots to search the web and do tasks, there’s a line of thinking that the Internet’s current infrastructure needs to be updated to cater to AI instead, as these bots can read and process much larger portions of information.

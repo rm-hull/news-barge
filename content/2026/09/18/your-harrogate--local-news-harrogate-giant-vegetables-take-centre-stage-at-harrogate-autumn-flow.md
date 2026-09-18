@@ -9,6 +9,10 @@ description: The biggest vegetables in the region have been revealed at the Harr
   Autumn Flower Show, which opened today (Friday 18 September) at Newby Hall & Gardens
   near Ripon.
 image: https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg) 

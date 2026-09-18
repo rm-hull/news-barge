@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Around 10,900 new bladder cancer cases are diagnosed every year in the
   UK
 image: https://static.independent.co.uk/2025/04/10/00/1ac572a6555a9eadd3b305bd48d25b12Y29udGVudHNlYXJjaGFwaSwxNzQ0Mjg3MzA1-2.79581494.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 An at-home urine test can detect more than nine in 10 bladder cancer cases, a study has revealed.

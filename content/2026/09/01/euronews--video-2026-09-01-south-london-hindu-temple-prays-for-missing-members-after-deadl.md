@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Video. Sixteen members of a south London Hindu temple remain missing
   after a flood near Nepal and Tibet, leaving families waiting for news of loved ones.
 image: https://images.euronews.com/articles/stories/09/89/57/12/1200x675_cmsv2_a24f0d75-b635-59c2-b8e8-9371a7c2dd29-9895712.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 Members of a south London Hindu temple gathered for a prayer meeting as 16 members remain missing following a catastrophic flood in the border area between Nepal and Tibet.

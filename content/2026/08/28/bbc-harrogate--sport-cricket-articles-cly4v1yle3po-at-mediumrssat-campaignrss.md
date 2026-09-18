@@ -9,6 +9,10 @@ description: George Hill posts 62 and Josh Hull completes a three-wicket haul as
   and Leicestershire play out a heavily weather-interrupted day of County Championship
   cricket at Scarborough.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf62/live/c166b550-a2ff-11f1-80b3-bf1a174ac193.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![George Hill batting for Yorkshire](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bf62/live/c166b550-a2ff-11f1-80b3-bf1a174ac193.jpg)

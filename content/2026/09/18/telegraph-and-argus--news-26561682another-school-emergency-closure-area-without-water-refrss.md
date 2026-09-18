@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A second Bradford primary school has been forced to shut in an area that
   has no water supply.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472035.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

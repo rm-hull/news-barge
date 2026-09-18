@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Members of the public tried to save a seven-year-old and her aunt who
   were killed in a house fire, an inquest heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/16/cs-8cb59f5b-bed0-4a19-9367-ea3439cf0056.jpg?trim=208,0,208,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Members of public tried to rescue girl and aunt from house fire, says coroner

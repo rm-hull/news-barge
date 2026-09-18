@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Park Blue Homes in Harrogate has expanded its operations with the acquisition
   of 10 homes.
 image: https://www.yorkpress.co.uk/resources/images/21419868.jpg?type=og-image&xType=0&yType=274
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Ron Wain of business news specialist DSM)*

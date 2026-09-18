@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Dr. Dre has admitted he uses AI in his music producing, despite most
   music streaming services trying to ban the stuff.
 image: https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS-2000-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Dr. Dre and Eminem pose backstage during the 36th Annual Rock & Roll Hall Of Fame Induction Ceremony](https://cdn.mos.cms.futurecdn.net/UVNxuGjYyv6pUpS9AdXSnS.jpg) 

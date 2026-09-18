@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Russian ballistic missiles rain on Ukraine just a day after US peace
   envoys held a press conference in Kyiv alongside Zelensky
 image: https://static.independent.co.uk/2026/09/08/08/download.-3.?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Russia has reportedly held secret war games in which their soldiers defeated Nato and seized a key Swedish island, according to a report.

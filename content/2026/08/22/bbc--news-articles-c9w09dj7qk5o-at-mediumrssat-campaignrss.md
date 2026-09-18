@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: A table tennis tournament and a throat lozenge could help Erin Patterson's
   lawyers overturn her convictions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1c1/live/1bf3a560-9d46-11f1-a137-179a8d1c790b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Erin Patterson, looking at the camera in the back of a prison van](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c1c1/live/1bf3a560-9d46-11f1-a137-179a8d1c790b.jpg)

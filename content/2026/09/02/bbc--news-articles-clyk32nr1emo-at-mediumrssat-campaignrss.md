@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: The US Defence Secretary is facing criticism for his apparent online
   mocking of members of Canada's cadet programme.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d4e/live/6d347390-a6ed-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Pete Hegseth gestures by lifting his hand as he frowns](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9d4e/live/6d347390-a6ed-11f1-aed2-8d6da8d75094.jpg)

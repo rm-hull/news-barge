@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Steve Witkoff and Jared Kushner leave Moscow talks with hopes for "equally
   productive meetings" in Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Jared Kushner, U.S. President Donald Trump's son-in-law, and U.S. Special Envoy Steve Witkoff wait before a meeting with Russian President Vladimir Putin at the Kremlin in Moscow, Russia](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg)

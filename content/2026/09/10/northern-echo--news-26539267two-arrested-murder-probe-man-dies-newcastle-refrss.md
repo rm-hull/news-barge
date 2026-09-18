@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A murder probe has been launched after a man died in a late night 'altercation'
   in the Brunswick Village area of Newcastle.
 image: https://www.thenorthernecho.co.uk/resources/images/13473301.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTHUMBRIA POLICE)*

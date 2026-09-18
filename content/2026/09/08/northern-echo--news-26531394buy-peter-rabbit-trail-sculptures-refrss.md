@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: 'Forty sculptures from the Peter Rabbit: Tales on the Tyne art trail
   will be auctioned at Newcastle Civic Centre on October 13 to support St…'
 image: https://www.thenorthernecho.co.uk/resources/images/21424580.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: St Oswald’s Hospice)*

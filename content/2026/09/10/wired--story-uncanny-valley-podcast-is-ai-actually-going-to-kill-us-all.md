@@ -9,6 +9,10 @@ description: This week on “Uncanny Valley,” we dig into a former Anthropic r
   AI doomsday warning, the latest upgrades from Apple’s event, and the census report
   that claimed Trump won the 2020 election.
 image: https://media.wired.com/photos/6aa216877d79a224cda3a43a/191:100/w_1280,c_limit/Uncanny-Valley-Anthropic-Employee-Business.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 This week on *Uncanny Valley*, an AI researcher’s resignation from Anthropic went viral on social media after he claimed there’s a real chance AI could wipe out humanity within a decade. WIRED’s Will Knight joins Brian Barrett and Leah Feiger to assess whether the doom narrative is overblown or overdue. We also discuss Apple’s debut of its $2,000 foldable iPhone, the iPhone Duo, and the new “always listening” Apple Watch features that have Brian feeling more than a little uneasy. Plus, a WIRED investigation found that the US Census Bureau used faulty data to create a misleading report touted by the Trump administration.

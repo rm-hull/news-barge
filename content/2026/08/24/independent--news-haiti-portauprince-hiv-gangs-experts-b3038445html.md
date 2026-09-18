@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A powerful gang coalition in Haiti has attacked a once peaceful farming
   community nestled in the hills above the country's capital
 image: https://static.independent.co.uk/2026/08/21/04/Haiti_Displaced_499_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A powerful gang coalition attacked a once peaceful farming community nestled in the hills above Haiti’s capital, killing multiple people, an official told The Associated Press on Monday.

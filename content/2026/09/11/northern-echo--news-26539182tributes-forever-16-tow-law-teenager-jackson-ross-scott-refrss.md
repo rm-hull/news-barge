@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A much-loved Tow Law teenager who "lit up the room" has been remembered
   by his family as a caring young man who lived life to the full.
 image: https://www.thenorthernecho.co.uk/resources/images/21435423.jpg?type=og-image&xType=0&yType=100
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A County Durham teenager who "lit up the room" has been remembered by his family as a caring young man who lived life to the full.

@@ -9,6 +9,10 @@ description: Palestinian potters in the Israeli-occupied West Bank use generatio
   skills to make clay wares sold across the territory. Despite rising costs, cheap
   imports and falling sales, one family is preserving a 400-year tradition.
 image: https://static.independent.co.uk/2026/08/27/17/Palestinians_West_Bank_Pottery_61455.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Photos of Palestinian potters preserving a 400-year West Bank tradition

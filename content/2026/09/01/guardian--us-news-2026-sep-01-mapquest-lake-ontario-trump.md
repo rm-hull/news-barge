@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Navigating app surpasses Google and Apple Maps on top-downloaded US chart
   after posting ‘we’re not changing it’
 image: https://i.guim.co.uk/img/media/607a7f7d9a44bbc6ef8f3a7be73b54bd608f4800/96_0_1093_874/master/1093.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a88f93136426c36787afc2902638f9e8
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US.

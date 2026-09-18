@@ -9,6 +9,10 @@ description: Starting a new medication is relatively easy once you have a prescr
   from your doctor, but stopping is much harder, because from research to revenue,
   the healthcare industry has little interest in getting people off drugs
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309362393.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Top view of assorted prescription pills and capsules in colorful blister packs. Pharmaceutical medication background representing healthcare, drug treatment, medical industry, overmedication and pharmacy concept.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309362393.jpg?w=840)

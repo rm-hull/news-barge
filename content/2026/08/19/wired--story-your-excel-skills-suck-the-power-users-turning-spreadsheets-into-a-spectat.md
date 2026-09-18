@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Data and finance professionals are competing in Excel obstacle courses—amassing
   huge followings and keeping the Microsoft program relevant.
 image: https://media.wired.com/photos/6a7cbffe2af0c97aac0b3217/191:100/w_1280,c_limit/Excel-Power-Users-Are-Running-Obstacle-Courses-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 For many people, Microsoft Excel is to be avoided at all costs.

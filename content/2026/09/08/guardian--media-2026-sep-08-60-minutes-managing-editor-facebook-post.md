@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Guy Campanile addresses ouster in Facebook post and says ‘we were told
   to leave because we insisted on doing our jobs’
 image: https://i.guim.co.uk/img/media/7d5de1c275b7cf4658fcc2b62f6a1cf763dde18f/622_0_4162_3330/master/4162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50094f890c07b9501225c2da80f33197
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 The former managing editor at 60 Minutes, who was fired in May with several other top correspondents, has spoken out about the ouster, saying he and his colleagues, were dismissed because they “would not compromise our principles or reputations by jamming unverifiable notions or White House talking points into our reporting”.

@@ -9,6 +9,12 @@ description: The aim of the additional funding is to make Berlin a safer and mor
   attractive city. Berlin will receive €5 billion for culture and security between
   2028 and 2037
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863626226h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Arts & Culture
+- Personal Finance & Investing
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863626226h-scaled.jpg)

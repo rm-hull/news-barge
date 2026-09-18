@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A major energy project in the Netherlands is being supported by the rapid
   work of Goole-based engineering firm Salko UK.
 image: https://www.yorkpress.co.uk/resources/images/21340742.jpg?type=og-image&xType=0&yType=102
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## Goole firm supports major energy project with rapid turbine repairs

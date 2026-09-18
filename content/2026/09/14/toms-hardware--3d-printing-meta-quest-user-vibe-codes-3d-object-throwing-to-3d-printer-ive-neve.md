@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T15:00:19Z'
 published: '2026-09-14T00:00:00Z'
 description: Will share the vibe-coded integrations on GitHub if there is enough interest.
 image: https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A futuristic Meta Quest plus 3D printer workflow](https://cdn.mos.cms.futurecdn.net/WDffuQhncCk9VdDuCyomBg.jpg) 

@@ -8,6 +8,8 @@ scraped_at: '2026-09-14T15:00:47Z'
 published: '2026-09-14T00:00:00Z'
 description: Is an AI kill switch even possible?
 image: https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![AI crime](https://cdn.mos.cms.futurecdn.net/QojumHtS3deMPxm4GGbE6Z.jpg) 

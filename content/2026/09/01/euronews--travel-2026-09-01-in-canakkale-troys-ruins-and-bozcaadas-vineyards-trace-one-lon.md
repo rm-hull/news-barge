@@ -9,6 +9,11 @@ description: From the mythical walls of Troy to the ancient vineyards of Bozcaad
   Çanakkale's history stretches back thousands of years and still shapes daily life
   in this corner of Türkiye today.
 image: https://images.euronews.com/articles/stories/09/85/20/52/1200x675_cmsv2_48788c09-d28d-565b-b357-05ac6eddcbab-9852052.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Travel
 ---
 
 ## From the mythical walls of Troy to the ancient vineyards of Bozcaada, Çanakkale's history stretches back thousands of years and still shapes daily life in this corner of Türkiye today.

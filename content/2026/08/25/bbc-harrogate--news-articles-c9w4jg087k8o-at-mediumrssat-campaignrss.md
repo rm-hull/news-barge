@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Planning officers say the project in Harrogate 'represents sustainable
   development'.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3765/live/73be5cc0-9fd2-11f1-ba89-8d0bd2eb1384.png
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![The end of a lane surrounded by trees and bushes.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/3765/live/73be5cc0-9fd2-11f1-ba89-8d0bd2eb1384.png)

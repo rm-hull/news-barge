@@ -9,6 +9,9 @@ description: 'Following his election victory, AfD lead candidate in Saxony-Anhal
   Ulrich Siegmund, has sparked outrage with comments on the defence industry and migration.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/12/24/1200x675_cmsv2_989c4240-28f7-52e8-aa8b-08e694a0a8b4-9911224.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Berlin**

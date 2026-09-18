@@ -9,6 +9,10 @@ description: From synthetic drugs to concealed cargo, trained dogs can detect wh
   scanners may miss. At a WCO forum in Tashkent, experts showed how canine units and
   new technology are increasingly working side by side.
 image: https://images.euronews.com/articles/stories/09/90/51/45/1200x675_cmsv2_7028a99c-8370-5587-a134-0e13bd89c342-9905145.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## From synthetic drugs to concealed cargo, trained dogs can detect what scanners may miss. At a WCO forum in Tashkent, experts showed how canine units and new technology are increasingly working side by side.

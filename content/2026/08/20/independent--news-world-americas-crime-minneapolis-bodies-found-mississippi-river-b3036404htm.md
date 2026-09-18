@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T20:40:45Z'
 published: '2026-08-20T00:00:00Z'
 description: Two of the three people found dead have been identified by police
 image: https://static.independent.co.uk/2026/08/20/15/17/Untitled-design-(4).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Three bodies were found within three days, just a few miles of each other, in Minneapolis, with police investigating the string of unexplained deaths.

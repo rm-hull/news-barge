@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: This year's multiple heat waves have increased the numbers of fridges
   and freezers breaking down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A huge pile of broken fridges is pictured, with white doors removed from some units.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg)

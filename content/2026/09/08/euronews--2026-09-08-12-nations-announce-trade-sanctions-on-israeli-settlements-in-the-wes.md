@@ -10,6 +10,10 @@ description: British Foreign Secretary Ed Miliband accused "settler terrorists" 
   "import ban on goods from illegal settlements." Israel closed the British consulate
   in Jerusalem in response.
 image: https://images.euronews.com/articles/stories/09/90/60/12/1200x675_cmsv2_57e9ef3b-eab1-583c-ac7e-8fafb61b627f-9906012.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## British Foreign Secretary Ed Miliband accused "settler terrorists" of "ethnic cleansing" in areas of the West Bank and said the UK was bringing in an "import ban on goods from illegal settlements." Israel closed the British consulate in Jerusalem in response.

@@ -9,6 +9,9 @@ description: 'Juan Jesús Vivas accused Rabat of pursuing a “harassment policy
   at suffocating the exclave, while the Spanish government and the EU continue to
   regard Morocco as a trusted partner in addressing irregular migration. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/52/45/1200x675_cmsv2_1430ae14-2242-53a3-a24b-c64a5eb7c688-9905245.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Juan Jesús Vivas accused Rabat of pursuing a “harassment policy” aimed at suffocating the exclave, while the Spanish government and the EU continue to regard Morocco as a trusted partner in addressing irregular migration.

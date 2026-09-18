@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: One woman died in hospital, while another woman remains in a life-threatening
   condition
 image: https://static.independent.co.uk/2026/08/19/17/13/7d47bb80-9bf2-11f1-8470-d18257d2d589-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 A murder investigation has been launched after a 48-year-old woman died and a further eight people were taken to hospital following a house fire in Hounslow.

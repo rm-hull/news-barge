@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The administration denounced Canadian rhetoric despite Trump building
   his political brand around personal attacks against political opponents
 image: https://static.independent.co.uk/2026/08/29/13/28/GettyImages-2291733692.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A senior Treasury official on Monday condemned “name-calling” in politics following critical remarks from Canadian leaders, glossing over President Donald Trump’s long track record of using personal insults against his political opponents.

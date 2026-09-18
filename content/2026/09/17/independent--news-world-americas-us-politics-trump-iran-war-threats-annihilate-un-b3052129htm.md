@@ -7,6 +7,9 @@ scraped_at: '2026-09-18T04:34:27Z'
 published: '2026-09-17T00:00:00Z'
 description: ‘It's a big decision. Anything could happen with me,’ Trump said
 image: https://static.independent.co.uk/2026/09/17/19/47/GettyImages-2295653697.jpeg?trim=61,0,62,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump said he is weighing whether to “annihilate” Iran as the war nears the seven-month mark with no clear end in sight.

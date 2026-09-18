@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A landmark announcement by the frontier AI lab has been overshadowed
   by accusations of impropriety.
 image: https://media.wired.com/photos/6aa02435e4af4176b7305e6a/191:100/w_1280,c_limit/OpenAI-Antrophic-MathProblem.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI said today that it has found an AI-generated solution to one of the biggest problems in mathematics—a 200-year-old equation that describes the natural behavior of fluids like water and air.

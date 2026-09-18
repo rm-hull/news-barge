@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Whether you want a comedy movie or can't decide on which Modern Family
   episode to re-watch, Playlists do the hard work for you.
 image: https://cdn.mos.cms.futurecdn.net/xTzdG3qrwaRAPEzWtxvTkP-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![A remote pointing at a TV and a TV frame with the Disney+ homepage](https://cdn.mos.cms.futurecdn.net/xTzdG3qrwaRAPEzWtxvTkP.jpg) 

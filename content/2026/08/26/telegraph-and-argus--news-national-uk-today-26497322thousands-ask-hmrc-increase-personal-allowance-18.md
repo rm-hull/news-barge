@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A petition calling for the £12,570 Personal Allowance to rise to £18,000
   has attracted nearly 65,000 signatures.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21214839.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Stefan Rousseau)*

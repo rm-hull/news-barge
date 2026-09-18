@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Dolly Parton lived an extraordinary life, with her music reaching millions
   of people around the world
 image: https://www.thenorthernecho.co.uk/resources/images/21371822.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Country singer Dolly Parton has passed away aged 80, it has been confirmed by her family.

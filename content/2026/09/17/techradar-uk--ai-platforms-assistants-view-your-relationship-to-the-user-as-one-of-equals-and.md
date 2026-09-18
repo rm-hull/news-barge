@@ -9,6 +9,9 @@ scraped_at: '2026-09-18T04:33:50Z'
 published: '2026-09-17T00:00:00Z'
 description: Some very big misalignment
 image: https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1920-80.jpg
+categories:
+- Technology & Software
+- Relationships & Dating
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

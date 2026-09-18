@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Experts told the BBC the pressures of childhood stardom can put actors
   at an unusually higher risk of substance abuse issues.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Hayden Panettiere](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg)

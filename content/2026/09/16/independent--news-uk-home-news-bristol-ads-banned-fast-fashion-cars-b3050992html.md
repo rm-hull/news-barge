@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: It’s the first city in the UK to introduce restrictions on advertising
   fast fashion
 image: https://static.independent.co.uk/2025/08/15/16/35/01K2P1H5TDS65JPFJY7PXMMCDW.jpeg?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Bristol City Council has become the first council in the United Kingdom to ban ads promoting the buying of fast fashion.

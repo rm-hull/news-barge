@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Prime Minister Mark Carney said Canada was seeking a ‘unique alliance’
   with the EU – but not membership
 image: https://static.independent.co.uk/2026/09/16/13/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The European Union will open the door for Canada to become its first "associate member", European Commission President Ursula von der Leyen said on Wednesday as Ottawa seeks out closer ties with Europe amid a deepening spat with Washington.

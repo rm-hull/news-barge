@@ -9,6 +9,9 @@ scraped_at: '2026-08-19T13:10:18Z'
 published: '2026-08-19T00:00:00Z'
 description: Hopefully they didn't have to buy extra RAM for this.
 image: https://cdn.mos.cms.futurecdn.net/BGkNLt7nZdYAUhzj84X62d-1817-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![LLM in Minecraft](https://cdn.mos.cms.futurecdn.net/BGkNLt7nZdYAUhzj84X62d.png) 

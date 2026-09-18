@@ -9,6 +9,12 @@ description: Families have been enjoying a classic Great British Summer at Scarb
   Castle, inspired by timeless holiday traditions and a fun day out for the whole
   family.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBkMWM0MTI1LTZhMDQtNGJjYy04ZjMxLTBhNTUxNTRlNjdlYTo3YmM1NDQ1Yi04YmQwLTQ0N2UtOGZlZi03ZDliNmI3ZTI1MTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Family & Parenting
 ---
 
 The circus skills station has given people chance to learn some new tricks, other attractions have included puppet antics and a tin can alley at the fairground – along with a chance to kick back in a deck chair with a delicious ice cream.

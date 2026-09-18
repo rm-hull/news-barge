@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Units in the UK not preparing to be deployed have been told to cut back
   on training exercises due to cost pressures.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ce6/live/dda514b0-a7c7-11f1-8174-fd95759f3bfe.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 ![Soldiers of 1st Battalion London Guards take part in a training exercise on Hankley Common in Farnham](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ce6/live/dda514b0-a7c7-11f1-8174-fd95759f3bfe.jpg)

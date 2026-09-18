@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Hebden Bridge based Rozie Kelly takes us through her perfect Yorkshire
   weekend
 image: https://www.thetelegraphandargus.co.uk/resources/images/21070554.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Harvey Williams-Fairley Photography)*

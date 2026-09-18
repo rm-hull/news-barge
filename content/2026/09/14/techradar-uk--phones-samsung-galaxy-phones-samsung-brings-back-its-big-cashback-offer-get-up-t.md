@@ -11,6 +11,10 @@ description: Samsung has brought back its big cashback offer for this month, giv
   smartwatches, earbuds, or SSDs from eligible retailers — here's all you need to
   know.
 image: https://cdn.mos.cms.futurecdn.net/uRgKFzh2jBmFJqxeMRHotT-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra on a table](https://cdn.mos.cms.futurecdn.net/uRgKFzh2jBmFJqxeMRHotT.jpg) 

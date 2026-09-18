@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The two women have been charged after a post-mortem found the girl to
   have suffered multiple injuries
 image: https://static.independent.co.uk/2025/07/04/17/9d7ef1a6691f5542d22bfceb039101aeY29udGVudHNlYXJjaGFwaSwxNzUxNzExOTEw-2.11686942.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A mother has appeared in court charged with the murder of her 17-month-old daughter in Dudley.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Defence minister Luke Pollard says "there's no place" for social media
   trend showing people driving the wrong way down roads.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 ![A young woman holding her iPhone while showing the TikTok app.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg)

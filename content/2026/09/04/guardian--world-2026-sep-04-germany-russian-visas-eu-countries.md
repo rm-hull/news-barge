@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Belarusian said to have had tourist visa issued by Italy is investigated
   over alleged attempt to attack Leipzig airport
 image: https://i.guim.co.uk/img/media/5dcec3766f78f953eff08ea5c4283af209af87d6/231_0_1745_1396/master/1745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f59612071628fc4c1ca4cc1b8c6678f1
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Germany is urging its European partners to introduce tighter limitations on Russian citizens entering the EU on tourist visas, after recent sabotage attacks which Berlin has blamed on Moscow.

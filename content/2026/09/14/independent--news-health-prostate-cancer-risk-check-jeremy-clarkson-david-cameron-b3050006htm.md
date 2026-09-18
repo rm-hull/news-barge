@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Clarkson and Lord Cameron’s openness about prostate cancer diagnosis
   praised for encouraging others to get checked
 image: https://static.independent.co.uk/2026/09/10/07/d3d037194a3b3db01eed3360dc42f852Y29udGVudHNlYXJjaGFwaSwxNzg5MTA3Mjg4-2.85194308.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 High-profile figures including presenter Jeremy Clarkson and former prime minister Lord Cameron have earned praise for "shining a light" on prostate cancer, helping to persuade more men to evaluate their health risk.

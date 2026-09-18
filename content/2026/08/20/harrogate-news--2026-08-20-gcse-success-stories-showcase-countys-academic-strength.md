@@ -9,6 +9,10 @@ description: Thousands of pupils across North Yorkshire have collected a strong 
   of GCSE results as some of the county’s schools have witnessed record levels of
   success.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Boroughbridge-Phoebe-Addison-1.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Thousands of pupils across North Yorkshire have collected a strong set of GCSE results as some of the county’s schools have witnessed record levels of success.

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has been praised by the Prime
   Minister for his campaign to remove time restrictions from disabled bus passes.
 image: https://mmo.aiircdn.com/409/6a991466268598112d3.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a991466268598112d3.jpg) 

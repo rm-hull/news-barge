@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Other brands affected by the recall include Chinese carmakers XPeng,
   Xiaomi and Geely.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A customer inspects the minimalistic hidden door handles on an electric car in a showroom.](https://ichef.bbci.co.uk/ace/standard/970/cpsprodpb/0e1b/live/441b98f0-9f52-11f1-8ce1-5fe0b29a148d.jpg)

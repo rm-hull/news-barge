@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Hundreds of mourners have gathered at a church near Haiti’s capital for
   the funeral of four victims of a brutal gang attack
 image: https://static.independent.co.uk/2026/08/27/21/APTOPIX_Haiti_Gang_Violence_83_88.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Hundreds of people crowded into a church near Haiti’s capital on Sunday for the funeral of four of the 47 people killed in a recent gang attack so brutal that it shook a country that has long struggled with violence.

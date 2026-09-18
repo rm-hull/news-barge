@@ -10,6 +10,8 @@ published: '2026-09-16T00:00:00Z'
 description: The reaction to DLSS 5 is changing already, and no doubt AMD is watching
   keenly, whether or not this rumor is true.
 image: https://cdn.mos.cms.futurecdn.net/TV2LAbyqdZGeqpRGVnXNEa-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An AMD Radeon RX 9070 XT made by Sapphire on a table with its retail packaging](https://cdn.mos.cms.futurecdn.net/TV2LAbyqdZGeqpRGVnXNEa.jpg) 

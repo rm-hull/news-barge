@@ -8,6 +8,8 @@ published: '2026-09-13T00:00:00Z'
 description: The Vari Electric Standing Desk with TechTrack is a dream to build, and
   the dream keeps going with a unique ecosystem of accessories elevates the usability.
 image: https://cdn.mos.cms.futurecdn.net/GtciKoS9KrGxdzk9bifFRR-2048-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A strike at a Yorkshire factory could lead to shortages of Coca-Cola,
   beer, whisky, and wine across the UK.
 image: https://www.gazetteherald.co.uk/resources/images/20556872.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Butlin's)*

@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Renowned climate scientist James Hansen says the developing super El
   Niño has already "blown past" previous events with months to go before it peaks
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309030472.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![floods caused by monsoon rains in Philippines on 20 August 2026.](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309030472.jpg?w=840)

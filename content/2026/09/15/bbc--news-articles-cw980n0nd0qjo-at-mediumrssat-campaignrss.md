@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The US president's comments come after Anthropic co-founder Jack Clark
   told the BBC an AI "kill switch" may need to be mandatory.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: "Great" or "alarming" - Should AI be reined in?

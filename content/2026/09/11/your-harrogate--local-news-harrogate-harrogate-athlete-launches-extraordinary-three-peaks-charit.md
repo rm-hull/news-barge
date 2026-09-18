@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A Harrogate man will complete three gruelling mountain challenges in
   five days to raise money for a heart charity.
 image: https://mmo.aiircdn.com/409/6aa3d6f608ebb05d5a6.jpg
+categories:
+- Local
+- Harrogate
+- Self-Improvement
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa3d6f608ebb05d5a6.jpg) 

@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T16:48:17Z'
 published: '2026-08-21T00:00:00Z'
 description: A petrol bomb was thrown at a Thornaby home in a "targeted" arson attack.
 image: https://www.thenorthernecho.co.uk/resources/images/18503269.jpg?type=og-image&xType=0&yType=182
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: STUART BOULTON)*

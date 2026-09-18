@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Gates is mostly in the Responsible AI camp, but there are a few ideas
   in here we hadn't heard before.
 image: https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Bill Gates posted a long essay to his Gates Notes site today, showing just how much the Microsoft co-founder has been thinking about the social impacts of AI.

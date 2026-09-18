@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Campaigners are calling for a County Durham leisure centre to be saved
   after the charity running it said it could no longer afford to keep it open.
 image: https://www.thenorthernecho.co.uk/resources/images/21469037.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Campaigners are calling for a County Durham leisure centre to be saved after the charity running it said it could no longer afford to keep it open.

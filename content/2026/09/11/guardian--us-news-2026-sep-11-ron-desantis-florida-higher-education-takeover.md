@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Term-limited, hard-right governor instituted an ideological infiltration
   of universities by placing allies in powerful posts
 image: https://i.guim.co.uk/img/media/9229064ead1d59bcc62f41dabc144462b8947ce9/999_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e2aba86ca3da3627f0d120dd628e3cd
+categories:
+- UK
+- News & Politics
 ---
 
 In fewer than four months’ time, Ron DeSantis, Florida’s hard-right governor, will be termed out of office, and what critics saw as his relentless eight-year, “anti-woke” assault on higher education in the state will finally be over.

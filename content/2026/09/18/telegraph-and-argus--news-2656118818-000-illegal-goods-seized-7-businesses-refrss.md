@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Illegal goods worth around £18,000 have been seized in a crackdown on
   crime.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21471319.jpg?type=og-image&xType=0&yType=297
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

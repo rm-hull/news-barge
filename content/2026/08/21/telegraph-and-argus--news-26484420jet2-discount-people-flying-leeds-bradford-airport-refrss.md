@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Jet2 is offering a £100 discount for travellers flying from Leeds Bradford
   Airport after easyJet said it would no longer be flying from there.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354302.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty)*

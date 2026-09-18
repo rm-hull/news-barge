@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Bishop Auckland has been named one of the most wallet-friendly places
   to retire to in England - see why it is so great.
 image: https://www.thenorthernecho.co.uk/resources/images/21457003.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Travel
 ---
 
 A market town in County Durham has been named one of the most wallet-friendly spots to retire to in England.

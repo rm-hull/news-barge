@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:32:40Z'
 published: '2026-09-16T00:00:00Z'
 description: The previous 2026 fatalities happened in Bay, Palm Beach and Marion counties
 image: https://static.independent.co.uk/2025/08/13/18/26/Vibrio-vulnificus-kqj7yche.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A fourth person has died in Florida this year from an infection caused by Vibrio vulnificus, a potentially deadly bacterium commonly associated with eating raw or undercooked shellfish, particularly oysters.

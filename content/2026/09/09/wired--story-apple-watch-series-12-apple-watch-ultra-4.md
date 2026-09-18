@@ -9,6 +9,10 @@ description: Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra
   a faster chip, expanded health tracking, and new Siri capabilities. Plus, the ceramic
   finish is back.
 image: https://media.wired.com/photos/6aa19f72a20ddd7dd10b4b42/191:100/w_1280,c_limit/Apple-Watch-Series-12-2up-260909.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Apple has unveiled the Apple Watch Series 12 and Ultra 4 today during its September hardware event.

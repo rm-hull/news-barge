@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Diablo 5 devs say that doubling down on the darkness of Diablo 4 is the
   way to go to set the scene for Diablo 5.
 image: https://cdn.mos.cms.futurecdn.net/P2CS58Ni88aZQ69W2XgGin-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Key artwork from Diablo 5 showing the bleak and barren world of Sanctuary](https://cdn.mos.cms.futurecdn.net/P2CS58Ni88aZQ69W2XgGin.jpg) 

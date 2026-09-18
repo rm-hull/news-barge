@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:03Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/police-car-crime-tape-york.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A 19-year-old woman has been arrested on suspicion of causing serious injuries by dangerous driving after a car crashed onto its roof.

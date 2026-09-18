@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A former gift shop is set to become a deli and sandwich business in one
   of Halifax's historic buildings dating to the town centre's…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472062.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ### What is the Public Notice Portal?

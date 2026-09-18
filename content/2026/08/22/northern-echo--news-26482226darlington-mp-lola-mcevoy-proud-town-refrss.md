@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Summer in Darlington, where else would you want to be? After a few turbulent
   weeks before Parliament broke up for the summer recess, I was really…
 image: https://www.thenorthernecho.co.uk/resources/images/21350815.jpg?type=og-image&xType=0&yType=122
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: LOLA MCEVOY)*

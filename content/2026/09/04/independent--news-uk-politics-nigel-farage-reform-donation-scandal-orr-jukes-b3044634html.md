@@ -9,6 +9,9 @@ description: Nigel Farage will probably survive this latest scandal but he canno
   survive the dysfunctionality of his own party – and it could destroy Reform’s hopes
   of winning an election, as David Maddox reports
 image: https://static.independent.co.uk/2026/09/04/09/2026-09-04T074434Z_78941661_RC24N8A518ZZ_RTRMADP_3_BRITAIN-ELECTION-FARAGE.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The hubris of Nigel Farage and senior figures in Reform appears to have finally caught up with them – and this time it could be fatal for their chances of winning an election.

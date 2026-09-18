@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Around 800 people have already been notified about the compensation they
   will receive
 image: https://static.independent.co.uk/2026/05/27/13/27112732-72cb199e-d30c-482a-8601-3db82dc19e80.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Hundreds of people affected by suppliers cancelling heating oil orders when energy prices spiked following the war with Iran are to receive compensation, the UK’s competition regulator has announced.

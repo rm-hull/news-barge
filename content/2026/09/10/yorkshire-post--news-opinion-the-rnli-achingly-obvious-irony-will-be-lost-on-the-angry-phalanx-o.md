@@ -11,6 +11,11 @@ description: Because you are all good human beings, who go about your business w
   which has reached dangerous levels of incitement, has passed you by. If it had,
   then, sorry about this…
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZmMDRkMTE0LTE0YjMtNDJkMy05MmQyLWU5YzViODQwZTcwMjo5YzVmNjY3MS1iZTk4LTQ2NDQtYWFmOS0zNDc2Y2ZiNmIxNmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # The RNLI: achingly obvious irony will be lost on the angry phalanx of seaboard warriors

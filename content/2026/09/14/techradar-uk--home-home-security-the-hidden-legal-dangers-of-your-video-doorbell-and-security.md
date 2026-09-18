@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: Home surveillance is a complex topic, so make sure you're fully informed
   before installing cameras to protect your home.
 image: https://cdn.mos.cms.futurecdn.net/W2tK5uyVfnMFhne645bVc8-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Man holding smartphone fitting home security camera](https://cdn.mos.cms.futurecdn.net/W2tK5uyVfnMFhne645bVc8.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Iran’s new security chief warns Gulf neighbours they will be treated
   as ‘enemies’ if they join Trump’s economic war
 image: https://static.independent.co.uk/2026/08/24/04/2026-08-24T003543Z_1996957514_RC2H4NA2UI82_RTRMADP_3_USA-250-GRAND-PRIX.JPG?trim=161,0,161,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Donald Trump’s administration is set to lay out a programme of sanctions against Iran it has dubbed “economic D-Day”, despite warnings from Tehran that this will be met with an immediate response.

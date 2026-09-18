@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Palestinians strongly back a ban on settlement goods, but Israel's government
   says it is a "big mistake".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Dates on an date palm at an Israeli settler farm in the Jordan Valley, in the occupied West Bank](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg)

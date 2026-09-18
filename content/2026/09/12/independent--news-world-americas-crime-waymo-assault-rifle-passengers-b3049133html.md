@@ -7,6 +7,11 @@ scraped_at: '2026-09-12T18:20:03Z'
 published: '2026-09-12T00:00:00Z'
 description: Waymo does not allow riders to carry weapons in its vehicles
 image: https://static.the-independent.com/2026/07/26/23/03/iStock-2149191965.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 Two minors were arrested last week in San Francisco after a Waymo allegedly detected they were carrying a gun and alerted the police.

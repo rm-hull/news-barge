@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Residents are demanding urgent action to tackle traffic chaos that has
   turned their neighbourhood into a "rat-run."
 image: https://www.gazetteherald.co.uk/resources/images/21426182.jpg?type=og-image&xType=0&yType=1079
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Freelancer)*

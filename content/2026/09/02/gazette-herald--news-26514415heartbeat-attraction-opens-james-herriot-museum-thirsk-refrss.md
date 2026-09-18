@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: What a weekend I had over the August bank holiday! As I revealed a few
   weeks ago, the World of James Herriot offered to recreate my dad’s study in…
 image: https://www.gazetteherald.co.uk/resources/images/21399948.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: PMH Images.)*

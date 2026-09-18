@@ -9,6 +9,11 @@ description: 'Harry returns to the UK with Meghan and their children as the bill
   losing against the Daily Mail arrives: £9.54 million, about €11 million, to be paid
   jointly with six other claimants. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/43/27/1200x675_cmsv2_12870b63-a263-530c-98c7-e9db6a850ecb-9884327.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **Euronews**

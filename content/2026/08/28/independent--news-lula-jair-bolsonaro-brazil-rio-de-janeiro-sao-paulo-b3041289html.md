@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Brazil's top presidential candidates, Luiz Inácio Lula da Silva and Flávio
   Bolsonaro, are using free TV and radio ads to sway voters
 image: https://static.independent.co.uk/2026/08/28/20/APTOPIX_Brazil_Election_46133.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Brazil's top presidential candidates, Luiz Inácio Lula da Silva and Flávio Bolsonaro, beginning Friday will seek to draw votes through free advertisements on television and radio stations, which continue to play a fundamental role in the campaign despite the rise of social media, experts say.

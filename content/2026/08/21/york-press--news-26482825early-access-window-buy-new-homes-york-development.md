@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: People in York can get early access to buy new homes in a new Persimmon
   development.
 image: https://www.yorkpress.co.uk/resources/images/21351924.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## People in York get early access to buy homes in new development

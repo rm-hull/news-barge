@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: OpenAI has disclosed six reports on unexpected or concerning behavior
   in artificial-intelligence models
 image: https://static.independent.co.uk/2026/09/17/05/Open_AI_Safety__4766.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated.

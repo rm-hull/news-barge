@@ -10,6 +10,12 @@ description: Sales of previously occupied U.S. homes declined in August to their
   annual pace in more than a year as home shoppers grappled with rising mortgage rates
   and home prices
 image: https://static.independent.co.uk/2026/09/02/13/AI_Luxury_Home_Sales_27323.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 Sales of previously occupied U.S. homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.

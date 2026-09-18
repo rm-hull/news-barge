@@ -9,6 +9,10 @@ description: Trump caused outrage among hundreds of renowned medical groups afte
   he signed an executive order this month recommending splitting up the MMR vaccine
   into separate shots
 image: https://static.independent.co.uk/2026/08/24/14/52/MixCollage-24-Aug-2026-10-39-AM-4484.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Trump official Dr. Mehmet Oz has risked the ire of the president by refuting his unsubstantiated claims about the safety of the MMR shot and stating it is “not a lethal vaccine.”

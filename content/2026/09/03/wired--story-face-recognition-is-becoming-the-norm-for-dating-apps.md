@@ -9,6 +9,9 @@ description: To keep scammers at bay, dating apps are embracing biometric scanni
   tools and “verified human” badges. These moves are sparking concerns about surveillance
   and privacy.
 image: https://media.wired.com/photos/6a9723660bab9c8d3b250211/191:100/w_1280,c_limit/Dating-Arms-Race-Culture.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 In 2025, AI deepfakes flooded Tinder. According to the company, 98 percent of the content-moderation actions on the app were focused on combating fake accounts, scamming, and spam, pushing the company to expand its moderation efforts for its 60 million global users.

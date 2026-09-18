@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Trump has faced bribery accusations after promising Americans $5,000
   if voters help Republicans keep control of Congress during the midterm elections
 image: https://static.independent.co.uk/2026/09/15/17/08/GettyImages-2294919543.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Treasury Secretary Scott Bessent has backed the $5,000 checks Donald Trump wants to give Americans after the midterm elections, but has refused to say how the country would pay for them.

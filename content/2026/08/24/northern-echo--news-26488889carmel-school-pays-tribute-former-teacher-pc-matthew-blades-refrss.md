@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Darlington school has paid tribute to its former “much-loved” English
   teacher, PC Matthew Blades, who was killed in a crash on the A66 over…
 image: https://www.thenorthernecho.co.uk/resources/images/21361588.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Carmel College.)*

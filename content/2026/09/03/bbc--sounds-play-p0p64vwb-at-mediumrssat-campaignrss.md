@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T19:17:17Z'
 published: '2026-09-03T00:00:00Z'
 description: How is the global economic picture shaping Andy Burnham’s first budget?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Episode details

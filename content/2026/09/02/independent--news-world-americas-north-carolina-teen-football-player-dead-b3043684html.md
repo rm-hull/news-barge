@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Caden Sorrell loved the Pittsburgh Steelers and was remembered as ‘brilliant,
   sweet, smart, kind’
 image: https://static.independent.co.uk/2026/09/02/18/57/Untitled-design-(4).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A 13-year-old North Carolina football player has died days after he went into cardiac arrest during practice.

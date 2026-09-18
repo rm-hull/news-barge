@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Harry and Meghan enjoyed some showbusiness success, but their Hollywood
   reign proved short-lived.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54f8/live/3968b500-9cf5-11f1-8cdc-014599ccd660.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Watch: How Harry and Meghan are ending their 'American dream'

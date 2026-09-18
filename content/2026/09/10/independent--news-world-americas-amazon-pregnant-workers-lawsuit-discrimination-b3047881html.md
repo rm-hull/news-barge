@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A group of former Amazon warehouse employees is suing the company for
   systemically discriminating against pregnant workers
 image: https://static.independent.co.uk/2026/08/19/11/Amazon_Drone_Delivery_Expansion_61751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Amazon is facing a proposed nationwide class action lawsuit brought by four former warehouse employees who allege the retail giant systematically discriminates against pregnant staff members.

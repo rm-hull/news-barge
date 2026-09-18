@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Under the proposed law, firms like Meta could be fined up to 10% of their
   global revenue if they fail to comply.
 image: https://images.euronews.com/articles/stories/09/88/60/75/1200x675_cmsv2_52fbe328-cc3c-5651-bb87-65148b708d73-9886075.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: A Hong Kong court has convicted the publisher of The Wall Street Journal
   of deterring its reporter from taking up a trade union role
 image: https://static.independent.co.uk/2026/09/10/06/Hong_Kong_Wall_Street_Journal_62858.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Hong Kong court on Thursday convicted the publisher of The Wall Street Journal of deterring its reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city. The court acquitted Dow Jones Publishing Co. (Asia) Inc. of the charge of dismissal over the union role.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Nine North Yorkshire roads are due to face temporary vehicle restrictions
   according to the latest public notice.
 image: https://www.yorkpress.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Christian Castro is charged in Minnesota with assault and falsely reporting
   a crime by another
 image: https://i.guim.co.uk/img/media/7df4d0df5b76ca491876826c9b8652156d1fa293/664_0_3613_2891/master/3613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c31ca7d5dac318d7d9b400d79752a6de
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A US Immigration and Customs Enforcement (ICE) agent accused of firing his gun and wounding a Venezuelan man in the leg is caught in an interstate extradition dispute between Texas and Minnesota – and could walk out of a Texas jail as soon as Wednesday if a federal judge does not intervene.

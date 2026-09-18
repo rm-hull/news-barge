@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: NHS investment will keep a vital rural health service running in North
   Yorkshire after a long-serving doctor retired, allowing patients to see a GP…
 image: https://www.thenorthernecho.co.uk/resources/images/21467108.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Other)*

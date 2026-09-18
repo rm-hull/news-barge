@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Amanda Reid persuaded those around her that she was ‘at the point of
   death’
 image: https://static.independent.co.uk/2026/04/14/15/01KP5ZVD3BFYYK5M01FFXVKN3A.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A children’s nurse shaved her head daily to pretend she had terminal leukaemia and claim £185,422.95 in pension payments.

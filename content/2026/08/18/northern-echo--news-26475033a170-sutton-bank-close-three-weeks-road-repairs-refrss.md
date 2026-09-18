@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Sutton Bank on the A170 in North Yorkshire will close for three weeks
   as essential maintenance and safety improvement works are carried out. The
 image: https://www.thenorthernecho.co.uk/resources/images/18485562.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NYC)*

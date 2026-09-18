@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A multi-million-pound sports facility in County Durham is attracting
   professional goalkeepers from across Europe while benefiting elite athletes,…
 image: https://www.thenorthernecho.co.uk/resources/images/21466828.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Office for Students made decision to punish University of Sussex last
   year after claiming it breached free speech regulations
 image: https://i.guim.co.uk/img/media/7e3ab2775aae155ba53ed134c17618ef05f57f73/950_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5274574719c179afd8842ec5187c235
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Business & Entrepreneurship
 ---
 
 England’s higher education regulator has apologised for a string of mistakes in its decision to punish the University of Sussex with a record fine that was later overturned by the high court.

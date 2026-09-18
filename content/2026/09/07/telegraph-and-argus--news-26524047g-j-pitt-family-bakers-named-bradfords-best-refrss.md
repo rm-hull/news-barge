@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A family-run bakery is in the running to be named the best in Bradford
   for the third year in a row.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19921614.jpg?type=og-image&xType=0&yType=68
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

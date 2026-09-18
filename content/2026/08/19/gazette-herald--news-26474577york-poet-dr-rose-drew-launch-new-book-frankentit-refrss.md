@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: Poet Dr Rose Drew has turned her cancer diagnosis into a 'candid' book
   that blends humour, honesty, and a call for awareness.
 image: https://www.gazetteherald.co.uk/resources/images/21335797.jpg?type=og-image&xType=0&yType=57
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
+- Comedy & Entertainment
 ---
 
 A poet has turned her cancer diagnosis into a 'candid' book that blends humour, honesty, and a call for awareness.

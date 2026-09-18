@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: There will be five celestial events this autumn to look out for from
   a supermoon to meteor showers
 image: https://static.independent.co.uk/2024/10/21/09/orionids-meteor-shower-peak-tonight.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Meteor shower season is upon us, with longer, darker nights offering more opportunities to catch a glimpse of the wonders of the night sky.

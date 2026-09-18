@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The UD series debuted in 1970, and these Type I cassettes earned a reputation
   as a worthy rival to TDK SD and Sony HF ferric alternatives.
 image: https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Music
 ---
 
 ![UD-60U cassette tapes](https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF.jpg) 

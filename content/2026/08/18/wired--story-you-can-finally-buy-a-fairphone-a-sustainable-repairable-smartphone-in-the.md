@@ -9,6 +9,10 @@ description: More than a decade after launching in Europe, the Netherlands compa
   is now selling its repairable phones in the US, starting with the Fairphone (Gen
   6+).
 image: https://media.wired.com/photos/6a834ef61807e061ff4c4b86/191:100/w_1280,c_limit/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Your iPhone, Samsung Galaxy, and Google Pixel have a 1-year warranty. Unless you cough up extra dough for an extended service plan, you'll pay a hefty fee if you damage the screen and need a replacement (around $329 for an iPhone 17 done directly from Apple).

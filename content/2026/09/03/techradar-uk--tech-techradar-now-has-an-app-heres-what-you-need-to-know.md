@@ -8,6 +8,8 @@ published: '2026-09-03T00:00:00Z'
 description: Pssssst.... you also have the option to read our stories without those
   pesky ads
 image: https://cdn.mos.cms.futurecdn.net/ptN8ZQVMsfuSUCPCRzECwN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The TechRadar app as shown on a tablet, iPhone and Android](https://cdn.mos.cms.futurecdn.net/ptN8ZQVMsfuSUCPCRzECwN.jpg) 

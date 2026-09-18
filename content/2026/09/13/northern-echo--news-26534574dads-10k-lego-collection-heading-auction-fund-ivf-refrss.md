@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A dad is putting his £10,000 LEGO collection under the hammer at a Thornaby
   auction house to help fund IVF treatment as he and his wife hope to…
 image: https://www.thenorthernecho.co.uk/resources/images/21429303.jpg?type=og-image&xType=0&yType=24
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 A dad is selling a £10,000 LEGO collection through a Thornaby auction house to help fund IVF treatment as he and his wife hope to have a second child.

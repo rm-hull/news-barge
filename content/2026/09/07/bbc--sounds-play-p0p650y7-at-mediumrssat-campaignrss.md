@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Chancellor John Healey aims for ‘vibes boost’ in first major economic
   speech.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Creator Economy & Marketing
 ---
 
 ## Episode details

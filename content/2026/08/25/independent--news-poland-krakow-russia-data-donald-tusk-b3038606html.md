@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: A Ukrainian migrant in Poland has faced online hate despite her efforts
   to help others
 image: https://static.independent.co.uk/2026/08/25/06/EU_Poland_Ukraine_Refugees_519_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 When Nastya Podorozhnya's relatives fled the war in Ukraine for neighboring Poland, volunteers welcomed them with open arms.

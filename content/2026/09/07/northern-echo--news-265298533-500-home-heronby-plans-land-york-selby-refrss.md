@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Fresh plans are being developed for a new community of around 3,500 homes
   between York and Selby.
 image: https://www.thenorthernecho.co.uk/resources/images/21422449.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Fresh plans are being developed for a new community of around 3,500 homes between York and Selby.

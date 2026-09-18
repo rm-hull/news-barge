@@ -11,6 +11,11 @@ description: As the war between the US, Israel and Iran continues to disrupt fli
   the surprising winners. Global Travel Editor Annabel Grossman reports on how conflict
   is reshaping where we holiday in the latest Travel Insider newsletter
 image: https://static.independent.co.uk/2025/07/22/12/09/iStock-914097184.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Turkey, Romania and Hungary are out – while Albania, North Macedonia, Serbia and Slovenia are in.

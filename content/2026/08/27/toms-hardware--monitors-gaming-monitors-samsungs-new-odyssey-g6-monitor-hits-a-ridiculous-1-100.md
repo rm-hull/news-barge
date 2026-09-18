@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Ironically, the display with the four-digit refresh rate is actually
   the bottom of the display stack Samsung is showing off at Gamescom 2026.
 image: https://cdn.mos.cms.futurecdn.net/XSQPA95wqvih9ZaU6ftKAb-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Film & TV
 ---
 
 ![A render showing four upcoming Samsung Odyssey gaming monitors.](https://cdn.mos.cms.futurecdn.net/XSQPA95wqvih9ZaU6ftKAb.jpg) 

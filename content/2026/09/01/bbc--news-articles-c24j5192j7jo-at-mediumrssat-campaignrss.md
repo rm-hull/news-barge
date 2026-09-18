@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The verdict ends decades of mystery as to who was behind the rapper's
   death.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4e/live/2eecbe10-a334-11f1-84e6-5f05e8e26a23.png
+categories:
+- UK
+- News & Politics
+- Music
+- True Crime
 ---
 
 Watch: What it was like inside court for Tupac Shakur’s murder trial verdict

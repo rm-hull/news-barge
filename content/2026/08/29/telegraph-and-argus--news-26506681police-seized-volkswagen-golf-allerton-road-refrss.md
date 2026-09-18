@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A Volkswagen was seized in Bradford West after police discovered a fraudulent
   insurance policy.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21388144.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: WYP)*

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Durham County Council leader Andrew Husband has accused three former
   Reform UK councillors of "conning" voters after they quit the party…
 image: https://www.thenorthernecho.co.uk/resources/images/21309065.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 The leader of Durham County Council has accused three former Reform UK councillors of "letting residents down" after they quit the party and left his administration with a majority of just three.

@@ -9,6 +9,10 @@ description: Texts from imperial China suggest that some crimes were punishable 
   unusual amputations and a 700-year-old skeleton appears to offer the first physical
   evidence of the practice
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426152.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![Skull showing nasal amputation](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312426152.jpg?w=840)

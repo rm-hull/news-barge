@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: No monthly contracts and tons of calls, texts, and data for home and
   abroad with EE's Unlimited Rolling SIM deal.
 image: https://cdn.mos.cms.futurecdn.net/LVwvrotpj7wLWo2iahQrki-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![An EE SIM pack with the words 'Unlimited Rolling SIM' printed on it, on a purple background next to a white TechRadar badge in the upper left corner that reads 'Big Savings'](https://cdn.mos.cms.futurecdn.net/LVwvrotpj7wLWo2iahQrki.jpg) 

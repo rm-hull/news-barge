@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Venice Film Festival this year focused more on global issues than
   Hollywood
 image: https://static.independent.co.uk/2026/09/11/20/Italy_Venice_Film_Festival_Wild_Horse_Nine_Red_Carpet_238_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The Venice Film Festival was lighter on blockbuster Hollywood fare this year, but that might have been a good thing in the end: There were more important things to talk about.

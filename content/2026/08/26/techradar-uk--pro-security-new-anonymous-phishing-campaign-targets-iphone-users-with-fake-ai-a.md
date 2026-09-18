@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T13:11:37Z'
 published: '2026-08-26T00:00:00Z'
 description: Crooks are automating fake support calls
 image: https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Girl typing something on mobile phone](https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ.jpg) 

@@ -9,6 +9,9 @@ scraped_at: '2026-08-23T12:58:31Z'
 published: '2026-08-23T00:00:00Z'
 description: The regulator said it granted the certification in error.
 image: https://cdn.mos.cms.futurecdn.net/ZpExHbLD5manvAjc3XKnte-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![HoverAir Versa](https://cdn.mos.cms.futurecdn.net/ZpExHbLD5manvAjc3XKnte.png) 

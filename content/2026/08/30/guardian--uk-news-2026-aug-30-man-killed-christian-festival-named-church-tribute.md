@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Robert Guanco, 41, a pastor at Jesus Living Water church in Eastbourne,
   described as having ‘touched many lives’
 image: https://i.guim.co.uk/img/media/3019148d087166ea76672aa0807e3758a3cf59b2/38_201_1339_1071/master/1339.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=985c4d4d3aa165b67a988d9ec465067e
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A 41-year-old man who died after a large wooden sign fell at a Christian festival on Friday has been named as Robert Guanco, a pastor at a church in Eastbourne, East Sussex.

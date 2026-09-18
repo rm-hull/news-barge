@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T19:43:32Z'
 published: '2026-09-17T00:00:00Z'
 description: The bracketed competition kicks off next Tuesday
 image: https://static.independent.co.uk/2026/09/17/16/39/BEARS.jpeg?trim=0,139,0,137&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Fat Bear Week buzz is back at Alaska’s Katmai National Park - and so is last year’s champion.

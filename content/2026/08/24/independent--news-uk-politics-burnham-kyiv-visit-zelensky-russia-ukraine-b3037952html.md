@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: The prime minister is to chair his first meeting of the coalition of
   the willing as he arrives in Kyiv on Monday
 image: https://static.independent.co.uk/2026/08/19/19/14/GettyImages-2287244853.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham has promised Britain is “100 per cent behind” Ukraine as he arrives in Kyiv on his first foreign trip to mark the country’s independence day.

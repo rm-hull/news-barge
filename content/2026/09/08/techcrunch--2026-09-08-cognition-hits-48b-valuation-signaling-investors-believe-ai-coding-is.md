@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Cognition's valuation multiple is higher than Cursor's was before selling
   to SpaceX.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Cognition, the startup developing coding assistant Devin, announced it raised $2 billion at a $48 billion valuation. The round, which comes just four months after Cognition’s previous fundraise at a $26 billion valuation, was led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst, and Avenir.

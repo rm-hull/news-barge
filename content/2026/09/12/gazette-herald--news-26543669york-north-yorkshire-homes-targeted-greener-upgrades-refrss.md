@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The York and North Yorkshire Combined Authority has set out plans to
   deliver greener, warmer and more affordable buildings.
 image: https://www.gazetteherald.co.uk/resources/images/21442741.jpg?type=og-image&xType=0&yType=278
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: York and North Yorkshire Combined Authority)*

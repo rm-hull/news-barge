@@ -10,6 +10,9 @@ description: President Donald Trump was reportedly briefed by then-director of n
   intelligence Tulsi Gabbard that overthrowing regime in Tehran could bring more hard-line
   successor in its place
 image: https://static.independent.co.uk/2024/11/25/07/newFile.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump was warned against attacking Iran in February by U.S. intelligence chiefs, who suggested it could backfire and usher in an even more hard-line regime, according to a report.

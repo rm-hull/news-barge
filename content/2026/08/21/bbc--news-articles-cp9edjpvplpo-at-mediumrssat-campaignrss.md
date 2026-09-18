@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: German intelligence believes guns found last year were for carrying out
   assassinations on behalf of Moscow, reports say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Science
 ---
 
 ![A German police officer standing next to a police vehicle. The officer wears an operational vest that reads "polizei".](https://ichef.bbci.co.uk/ace/standard/787/cpsprodpb/3237/live/ba89ed70-9d72-11f1-a291-b542ee92de7c.jpg)

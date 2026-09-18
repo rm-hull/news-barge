@@ -10,6 +10,9 @@ description: A Euronews Farsi exclusive shows how a reinstated US naval blockade
   mode. From stranded cargo to empty tables, Iranian citizens speak out on the worsening
   humanitarian crisis.
 image: https://images.euronews.com/articles/stories/09/89/49/65/1200x675_cmsv2_a0651928-5d4e-5c40-8c0b-47f7f5eaccd2-9894965.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A Euronews Farsi exclusive shows how a reinstated US naval blockade is paralysing Iran’s trade, driving 70% inflation and pushing families into survival mode. From stranded cargo to empty tables, Iranian citizens speak out on the worsening humanitarian crisis.

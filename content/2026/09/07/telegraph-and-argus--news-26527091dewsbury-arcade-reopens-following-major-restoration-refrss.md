@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Large crowds gathered over the weekend as shopping arcade reopened its
   doors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21418364.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Kirklees Council)*

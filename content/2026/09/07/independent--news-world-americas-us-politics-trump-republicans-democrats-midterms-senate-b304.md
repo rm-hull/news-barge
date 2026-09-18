@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: With Labor Day marking the traditional start of the fall campaign, Republicans
   are fighting to protect narrow congressional majorities, writes Joseph Ax
 image: https://static.independent.co.uk/2026/09/07/11/2026-09-07T100030Z_1391584662_RC2CBNALGN6U_RTRMADP_3_USA-ELECTION-MIDTERM-CAMPAIGNS.JPG?trim=70,0,70,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump's sagging approval ratings are threatening Republicans' grip on Congress as the midterm campaign enters its final two-month sprint.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:15:32Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Cllr_Anne_Hook_Cllr_Emilie_Knight_flooded_A1237_underpass-e1787945936218.jpg
+categories:
+- Local
+- York
+- Travel
 ---
 
 WALKERS, cyclists and others using a York underpass have had to traverse a large pool of stagnant water, with works to planned to address it.

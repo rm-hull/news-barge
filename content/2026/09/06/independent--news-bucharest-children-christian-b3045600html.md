@@ -9,6 +9,10 @@ description: Children dressed as angels took to the streets of Bucharest, Romani
   for the Little Angels’ Parade, a Christian-themed performance featuring young participants
   in angel costumes.
 image: https://static.independent.co.uk/2026/09/06/20/APTOPIX_Romania_Angels_Parade_29271.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Bucharest’s Little Angels’ Parade brings children to the streets, in photos

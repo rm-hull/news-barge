@@ -10,6 +10,9 @@ published: '2026-08-31T00:00:00Z'
 description: Asobo Games has said it "would love" to make a new Plague Tale game set
   in the modern day, since Naughty Dog's The Last of Us influenced the series.
 image: https://cdn.mos.cms.futurecdn.net/E6bY2mzEnZhSGRHLS7nxpb-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Resonance: A Plague Tale Legacy](https://cdn.mos.cms.futurecdn.net/E6bY2mzEnZhSGRHLS7nxpb.jpg) 

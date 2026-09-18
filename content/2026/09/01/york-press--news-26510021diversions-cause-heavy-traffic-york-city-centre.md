@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Heavy traffic is building in York after part of the city's inner ring
   road was closed after storm damage.
 image: https://www.yorkpress.co.uk/resources/images/21394078.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Our live feed has now finished.

@@ -10,6 +10,10 @@ description: Video. Russia’s parliamentary election is under way, with voting 
   three days. Polls will remain open until Sunday evening, when voters will have chosen
   all 450 members of the State Duma.
 image: https://images.euronews.com/articles/stories/09/91/84/70/1200x675_cmsv2_76598e9a-e4ba-557e-8961-b47ce79c5ced-9918470.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 Russia has begun a three-day parliamentary election to fill all **450 seats in the State Duma**, with about** 111 million people eligible to vote**. Polling stations opened first in** Kamchatka, Chukotka, Magadan and other eastern regions**, where local officials urged residents to turn out. The Kremlin is closely watching participation, with Vladimir Putin presenting high turnout as a sign of national unity and support for the war in Ukraine.

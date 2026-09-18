@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A partnership in the North East is already helping young people take
   their first steps into one of the region’s most in-demand industries, after a…
 image: https://www.thenorthernecho.co.uk/resources/images/21371995.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

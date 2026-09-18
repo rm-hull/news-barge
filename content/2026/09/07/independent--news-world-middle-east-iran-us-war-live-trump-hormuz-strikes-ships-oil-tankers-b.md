@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Centcom denies Iran's claims of successful attack on a US military vessel
   as a ‘total lie’
 image: https://static.independent.co.uk/2026/09/05/16/01/Video-News-Graphic-Designs-(66).png?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Iran has said Tehran plans to establish an “exclusion zone” outside the Strait of Hormuz targeting vessels it believes are attempting to transit the strategic waterway.

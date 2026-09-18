@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Russian officers have been overly optimistic about the battlefield situation
   in areas of the Donetsk region, military bloggers say
 image: https://static.independent.co.uk/2026/09/10/10/2026-09-09T133421Z_607582912_RC2OFNA95ABP_RTRMADP_3_RUSSIA-VIETNAM.JPG?trim=78,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Russian army has a “pervasive culture of lying” over battlefield gains which has left Vladimir Putin with a “severely distorted” view of the frontline situation in Ukraine, military analysts have said.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: COWBUY builders and rogue bailiffs are being targeted under new government
   plans to protect households.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382589.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Cathal McNaughton/PA Wire)*

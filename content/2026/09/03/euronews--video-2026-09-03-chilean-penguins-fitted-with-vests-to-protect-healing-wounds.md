@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Video. Injured Humboldt penguins in Chile are fitted with recovery vests
   designed to protect wounds and prevent them from damaging stitches as they heal.
 image: https://images.euronews.com/articles/stories/09/89/98/27/1200x675_cmsv2_a73a5232-d2fa-587d-9679-f369cf80dd6b-9899827.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 Care in the community has a very particular meaning for penguins in Chile. Injured Humboldt penguins are being fitted with specially designed recovery vests to protect wounds as they heal.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T04:26:56Z'
 published: '2026-09-06T00:00:00Z'
 description: A new survey has highlighted the abuse that staff face on a daily basis
 image: https://static.independent.co.uk/2025/08/12/09/d03e49021dd134e64d3f5b024b3fce57Y29udGVudHNlYXJjaGFwaSwxNzU1MDczODcx-2.70616415.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Emergency department workers face daily or weekly violence and aggression, with staff being kicked and racially abused, health leaders have warned.

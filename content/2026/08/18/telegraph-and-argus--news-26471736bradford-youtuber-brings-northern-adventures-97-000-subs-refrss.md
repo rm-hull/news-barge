@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A YouTuber is bringing the outdoors to audiences from the comfort of
   their living rooms.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331650.jpg?type=og-image&xType=0&yType=414
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Denise Welch is one of the North East’s best-known television personalities,
   but did you know her teenage years were spent in the County Durham…
 image: https://www.thenorthernecho.co.uk/resources/images/16934373.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Denise Welch is one of the North East’s best-known television personalities, but before Coronation Street, Waterloo Road and Loose Women, her teenage years were spent in the County Durham.

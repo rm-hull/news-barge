@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The tactical approach — often referred to as letting drugs ‘walk’ — persisted
   into Trump's second administration
 image: https://static.independent.co.uk/2026/08/31/14/DEA_Unseized_Fentanyl__7895.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Republicans on the House Oversight Committee have opened an investigation into a contentious law enforcement strategy that permitted significant quantities of lethal fentanyl to reach American streets while federal agents built larger narcotics cases.

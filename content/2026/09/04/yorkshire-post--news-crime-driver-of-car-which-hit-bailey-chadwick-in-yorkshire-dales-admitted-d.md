@@ -9,6 +9,11 @@ description: The driver of a car which hit 19-year-old Bailey Chadwick near Pate
   Bridge in the Yorkshire Dales has admitted he had been drinking alcohol before he
   got behind the wheel.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlMmI1MTNjLWZkNDEtNGMzMC1iMTExLWUyNmRhMzE0ZTFlNDo0NmMwYzhkZS1iMDY3LTRjYjAtYTIxMS01MGMyMTI4ZDI1Mzc=.jpg?crop=3:2,smart&trim=&width=1079&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Driver of car which hit Bailey Chadwick in Yorkshire Dales admitted drinking alcohol before driving

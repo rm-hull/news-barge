@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Harrogate is in the UK top ten after new research revealed the UK destinations
   serving up Britain’s best food-focused breaks for 2026.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxYzc4Mzc3LTQ4YjktNGEzYS1hMjY3LWIyNDgwNzVmYjhiYjphZmMwNjJjMi01YjA4LTQ2NzYtYmM1OS1kYmM5NDBmNWEwYjQ=.jpg?crop=3:2,smart&trim=&width=500&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Edinburgh crowned top location for foodie staycations and breaks but Harrogate also rated highly

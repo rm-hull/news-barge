@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Authors say publishers seem to be claiming more than their fair share
   of settlement payments.
 image: https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Some authors hoping to receive their share of Anthropic’s $1.5 billion copyright settlement said they received surprising emails this week — emails informing them that someone else was making a claim on their payments.

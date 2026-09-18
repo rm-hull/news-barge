@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A street dealer who conceived a marketing campaign to advertise a drugs
   line he dubbed “the West Yorkshire Cartel” has been jailed for almost…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374577.jpg?type=og-image&xType=0&yType=651
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

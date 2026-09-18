@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Claims that horses were being chased by e-bike riders near Otley have
   been dismissed by a local farmer, who says the incident was "blown out of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20447313.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

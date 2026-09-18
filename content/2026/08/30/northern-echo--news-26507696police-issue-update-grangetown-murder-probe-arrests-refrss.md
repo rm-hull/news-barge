@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Police have issued an update about two men who were arrested on suspicion
   of murder in connection with a fatal fire that killed two people in…
 image: https://www.thenorthernecho.co.uk/resources/images/21389824.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man arrested on suspicion of murder after a fire that killed a seven-year-old girl and her aunt has been released.

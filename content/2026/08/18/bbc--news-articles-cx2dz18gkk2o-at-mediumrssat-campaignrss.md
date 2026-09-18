@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: From safety risks to photography tips, here is what you need to know
   about the deer in London's Royal Parks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f111/live/6f036230-9aef-11f1-b792-a710e56a11dc.jpg
+categories:
+- UK
+- News & Politics
+- Outdoors & Nature
 ---
 
 ![A sign at Richmond Park telling visitors not to feed the deer.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3505/live/268038a0-9aed-11f1-aed2-8d6da8d75094.jpg)

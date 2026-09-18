@@ -8,6 +8,13 @@ scraped_at: '2026-08-26T16:56:52Z'
 published: '2026-08-26T00:00:00Z'
 description: Rocky Horror Picture Show star and legendary actor Tim Curry has died
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376125.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: YouTube)*

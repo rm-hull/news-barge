@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Nine points from three games, one goal conceded and big players stepping
   up - are Arsenal still ahead of the rest in the race for the Premier League title?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3715/live/5e5aa660-aa2f-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 Champions Arsenal come from behind to beat Chelsea

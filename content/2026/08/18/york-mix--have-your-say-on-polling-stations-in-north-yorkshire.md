@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:24Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2017/06/york-dogs-polling-stations-2017-main.jpg
+categories:
+- Local
+- York
+- Travel
 ---
 
 The council wants residents in North Yorkshire to share their views on polling arrangements.

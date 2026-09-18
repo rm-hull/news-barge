@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Police are appealing for witnesses and footage after a motorcyclist has
   been left fighting for his life following a serious crash.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

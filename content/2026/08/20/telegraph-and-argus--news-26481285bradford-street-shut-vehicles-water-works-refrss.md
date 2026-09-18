@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T13:07:52Z'
 published: '2026-08-20T00:00:00Z'
 description: A BRADFORD street will temporarily close for water works
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348560.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

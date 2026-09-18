@@ -9,6 +9,10 @@ description: 'Droughts across Europe have also been churning up military vehicle
   and weapons from the era, with shrinking rivers revealing German warships, a Wehrmacht
   motorbike, and a bomb. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/46/89/1200x675_cmsv2_05b977e7-26a5-57d9-a4fb-0739013b05d3-9884689.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Droughts across Europe have also been churning up military vehicles and weapons from the era, with shrinking rivers revealing German warships, a Wehrmacht motorbike, and a bomb.

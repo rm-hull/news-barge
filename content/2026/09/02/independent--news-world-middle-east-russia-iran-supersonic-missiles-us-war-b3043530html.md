@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Trump administration has played down reports that Russia is providing
   material support to its ally in Tehran
 image: https://static.independent.co.uk/2026/09/02/15/2292481530..?trim=148,0,148,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russia has been helping Iran to develop supersonic cruise missiles in secret for years, including through the US-Iran war, according to a report.

@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: A man brandished a gym weight at Sainsbury's staff as he raided one of
   its stores in York and stole Stella Artois, the city’s crown court…
 image: https://www.yorkpress.co.uk/resources/images/21442891.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

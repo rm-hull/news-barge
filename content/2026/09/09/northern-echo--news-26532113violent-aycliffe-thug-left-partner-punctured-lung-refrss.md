@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Newton Aycliffe man Gordon Nicholson jailed for 41 months after strangling
   partner and causing a punctured lung in drink and drug-fuelled attack.
 image: https://www.thenorthernecho.co.uk/resources/images/21426163.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: DURHAM POLICE)*

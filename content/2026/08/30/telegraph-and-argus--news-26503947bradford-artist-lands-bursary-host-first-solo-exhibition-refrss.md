@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A FIRST solo exhibition will go on display this September thanks to a
   bursary honouring a respected West Yorkshire artist
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384205.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A FIRST solo exhibition will go on display this September thanks to a bursary honouring a respected West Yorkshire artist.

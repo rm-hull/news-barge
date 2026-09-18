@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Foundayo will be available on private prescription, with pharmacists
   warning of counterfeit GLP-1 problem
 image: https://i.guim.co.uk/img/media/94deaef40564803859d8d728f746f155532b23d0/589_0_5873_4701/master/5873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5bf9889e2e35a2d683b8f2dab863a8c
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A new daily pill that treats diabetes and helps with weight loss will be available in UK pharmacies from Monday.

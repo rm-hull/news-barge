@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: 'Viewers tuning into Our Yorkshire Farm on Channel 5 and its More4 spin-off
   Our Farm Next Door: Amanda, Clive and Kids often ask where is it filmed?'
 image: https://www.yorkpress.co.uk/resources/images/20507303.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: CHANNEL 4)*

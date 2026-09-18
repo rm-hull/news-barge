@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Landerius Hayes not only graduated high school, but was adopted by Burnside
   and his wife, Angel
 image: https://static.independent.co.uk/2026/08/25/14/41/Landerius-Dee-Dee-Hayes-and-Rob-Burnside.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 A high school principal in Ohio who lost his job for allowing a homeless student to keep attending classes has spoken out about his dismissal, saying he has no regrets.

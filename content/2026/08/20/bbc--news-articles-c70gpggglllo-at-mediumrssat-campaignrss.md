@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas,
   14, and her family who died.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70af/live/7a09f860-9c70-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 ![A headshot photo of Sara El-Khawas wearing a hijab and looking at the camera smiling against a white background.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/70af/live/7a09f860-9c70-11f1-a291-b542ee92de7c.jpg)

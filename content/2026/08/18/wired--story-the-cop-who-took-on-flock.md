@@ -9,6 +9,10 @@ description: After Noel Pichardo called out his city's embrace of Flock surveill
   cameras, he was subjected to five internal affairs investigations in less than two
   years.
 image: https://media.wired.com/photos/6a82f21cb090060b28185a08/191:100/w_1280,c_limit/20260809-wired-pichardo-0211.jpg
+categories:
+- Technology & Software
+- Science
+- True Crime
 ---
 
 On an early fall afternoon in 2023, midway through a shift in Pawtucket’s District Five, Rhode Island police officer Noel Pichardo noticed a strange camera perched on a utility pole over West Avenue.

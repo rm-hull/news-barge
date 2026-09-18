@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:50:48Z'
 published: '2026-09-08T00:00:00Z'
 description: The comments constituted gross misconduct
 image: https://static.independent.co.uk/2026/02/11/9/43/GettyImages-86045399.jpeg?trim=0,16,0,15&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A tribunal has ruled that calling someone a ‘slapper’ in the workplace is a sackable offence.

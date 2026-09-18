@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The NYC verdict comes as a Massachusetts jury deliberates in Lindsay
   Clancy’s murder trial
 image: https://static.the-independent.com/2026/05/04/11/1237251431.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A New York City mother was found not criminally responsible due to mental disease or defect by a Bronx judge Monday for the 2022 killings of her two young sons at a Bronx family shelter.

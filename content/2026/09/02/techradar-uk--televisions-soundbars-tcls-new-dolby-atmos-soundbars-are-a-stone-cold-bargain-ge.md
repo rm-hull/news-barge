@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:17Z'
 published: '2026-09-02T00:00:00Z'
 description: TCL's latest S-Class soundbars promise premium sound for a very low price
 image: https://cdn.mos.cms.futurecdn.net/eaw2jvoekpyXWwAoFHDTEg-2048-80.png
+categories:
+- Technology & Software
+- Music
 ---
 
 ![TCL S65K soundbar in front of a TCL TV](https://cdn.mos.cms.futurecdn.net/eaw2jvoekpyXWwAoFHDTEg.png) 

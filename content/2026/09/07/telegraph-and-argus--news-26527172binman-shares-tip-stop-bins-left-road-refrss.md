@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The No.1 Binman on TikTok has shared his simple and easy trick to avoid
   Bradford residents having bins left down the road after collection.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21391611.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 If you simply put your house number in the correct place, your bin will be returned to the correct place. (Image: Getty)

@@ -9,6 +9,12 @@ published: '2026-09-06T00:00:00Z'
 description: THIS is the Balder Viaduct seen majestically rising through the trees
   of Teesdale, on the outskirts of Cotherstone, by Northern Perspectives.
 image: https://www.thenorthernecho.co.uk/resources/images/21404644.jpg?type=og-image&xType=0&yType=1197
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 THIS is the Balder Viaduct seen majestically rising through the trees of Teesdale, on the outskirts of Cotherstone, by Northern Perspectives.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T01:47:51Z'
 published: '2026-08-21T00:00:00Z'
 description: New data indicates 100,000 more men have prostate cancer than in 2020
 image: https://static.independent.co.uk/2026/06/17/13/01KVASEB2XEABFZ4WKG2SV6PE5.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 More than 100,000 additional men are living with prostate cancer in the UK compared with 2020, according to new estimates from Macmillan Cancer Support.

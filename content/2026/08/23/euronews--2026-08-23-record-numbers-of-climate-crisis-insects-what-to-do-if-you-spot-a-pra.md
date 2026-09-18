@@ -10,6 +10,10 @@ description: This summer, unusually many praying mantises can be spotted in Germ
   gardens. How to distinguish the "Mantid religiosa" from a grasshopper and what to
   do…
 image: https://images.euronews.com/articles/stories/09/87/81/41/1200x675_cmsv2_b83a92ec-0563-5336-b5a7-6de921fbd79d-9878141.jpg
+categories:
+- Europe
+- News & Politics
+- Religion & Spirituality
 ---
 
 ## This summer, unusually many praying mantises can be spotted in German gardens. How to distinguish the "Mantid religiosa" from a grasshopper and what to do…

@@ -9,6 +9,9 @@ description: 'Latvia has been experiencing a rise in irregular migration in rece
   months, something that European leaders call a hybrid attack by Aliaksandr Lukashenka’s
   regime #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/38/13/1200x675_cmsv2_03e7ea7e-fb46-5451-b83b-a0d69ea7939a-9883813.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Latvia has been experiencing a rise in irregular migration in recent months, something that European leaders call a hybrid attack by Aliaksandr Lukashenka’s regime

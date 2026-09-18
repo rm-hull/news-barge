@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Dolly Parton grew up in rural Sevier County and transformed the theme
   park into the county's largest employer and a major tourist destination
 image: https://static.independent.co.uk/2026/09/02/21/2292209770..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Dollywood has shared how it plans to honor "dreamer-in-chief” Dolly Parton after her death at the age of 80.

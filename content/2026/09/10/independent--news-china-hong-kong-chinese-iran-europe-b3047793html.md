@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Industry data show China’s passenger car exports surpassed last year’s
   total in the first eight months of this year
 image: https://static.independent.co.uk/2026/09/10/09/China_Auto_Sales_341_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 China’s passenger car exports in the first eight months of this year already surpassed last year's total, an industry association said Thursday, though domestic sales continued to decline.

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Gas station displays typically only have four digits, meaning they can’t
   show $10 or more per gallon prices
 image: https://static.independent.co.uk/2026/09/10/20/2293564613..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Diesel prices in California are so high that some gas stations can't show the correct price on their pumps.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: BBC historian and presenter Lucy Worsley has spoken to this newspaper
   ahead of her upcoming UK show on the history of the royals.
 image: https://www.yorkpress.co.uk/resources/images/21007722.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- News & Politics
 ---
 
 ## Lucy Worsley to share fascinating royal insight in York next month

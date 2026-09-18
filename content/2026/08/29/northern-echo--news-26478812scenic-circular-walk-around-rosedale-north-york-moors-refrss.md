@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:59:41Z'
 published: '2026-08-29T00:00:00Z'
 description: Rosedale, the heart of the North York Moors.
 image: https://www.thenorthernecho.co.uk/resources/images/21342480.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Jonathan Smith)*

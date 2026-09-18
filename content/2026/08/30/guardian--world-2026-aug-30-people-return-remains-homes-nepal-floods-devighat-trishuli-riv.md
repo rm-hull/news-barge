@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Precariousness of living in Devighat by the Trishuli River underlined
   as waters swell again and residents flee to higher ground
 image: https://i.guim.co.uk/img/media/d5a6f44c1ab1c5102963a91c32eab82809a81e03/573_252_3981_3186/master/3981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b65fcb8f7458e878fdb7789847e1260c
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The bodies continue to wash up. But the morgues have already run out of room.

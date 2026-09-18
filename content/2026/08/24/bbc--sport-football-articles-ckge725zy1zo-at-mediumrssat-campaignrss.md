@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Former Liverpool manager Rafael Benitez on his former players Xabi Alonso
   and Alvaro Arbeloa who face each other as managers on Monday when Fulham host Chelsea.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b064/live/471e3800-9bd8-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Alvaro Arbeloa and Xabi Alonso celebrating after winning the 2012 European Championships with the Spanish national team](https://ichef.bbci.co.uk/ace/standard/973/cpsprodpb/4749/live/3bc6edd0-9bd8-11f1-bb4d-1147ef2e78e5.jpg)

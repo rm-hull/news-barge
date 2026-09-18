@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The free-scoring Seagulls will be confident of achieving another win
   at Old Trafford
 image: https://cdn.mos.cms.futurecdn.net/SBvM4UJHhuoVf6C5um35wk-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Lewis Dunk of Brighton & Hove Albion celebrates scoring his team’s fourth goal with teammates during the Premier League 2026/27 match between Coventry City and Brighton & Hove Albion.](https://cdn.mos.cms.futurecdn.net/SBvM4UJHhuoVf6C5um35wk.jpg) 

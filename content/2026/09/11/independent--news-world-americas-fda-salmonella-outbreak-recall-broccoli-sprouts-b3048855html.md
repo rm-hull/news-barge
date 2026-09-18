@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The outbreak does not appear to be related to others tied to alfalfa
   sprouts, the agency said
 image: https://static.independent.co.uk/2026/09/11/19/07/Picture1.jpeg?trim=46,0,103,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A multi-state outbreak of salmonella that sickened 22 people has been tied to contaminated broccoli sprouts, federal regulators said Friday.

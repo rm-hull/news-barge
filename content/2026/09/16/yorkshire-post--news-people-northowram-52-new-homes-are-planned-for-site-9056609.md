@@ -8,6 +8,13 @@ published: '2026-09-16T00:00:00Z'
 description: Plans to build 52 homes at a site in Northowram have been submitted to
   council planners.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZkYWI0ZDFiLWNjZTYtNDY1NS04NTJlLTI5NDkyZTZlNDIwMTplN2U4OWEyNi0xZTlhLTQ1NTgtOWIxMi0zMzExM2UxZmNlZWU=.jpg?crop=3:2,smart&trim=&width=858&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Home, Garden & DIY
+- Personal Finance & Investing
 ---
 
 # Northowram: 52 new homes are planned for site

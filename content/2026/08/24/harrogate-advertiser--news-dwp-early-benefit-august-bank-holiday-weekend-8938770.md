@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T16:50:49Z'
 published: '2026-08-24T00:00:00Z'
 description: Benefit payments will be paid early this August bank holiday weekend.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/24/14/52/GettyImages-860933824.jpg?trim=0,347,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # DWP confirms full list of 11 benefits to be paid early this August bank holiday weekend

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Lawyer Baltasar Garzón, representing Chambers, said case against his
   client is ‘very strange’ as US requests extradition
 image: https://i.guim.co.uk/img/media/4a5946271078ee87786e4a910228a6f380431cd4/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1da075092fa53365ba8e4e7b04607fc3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- True Crime
 ---
 
 FBI agents raided the Ibiza, Spain, vacation rental of 41-year-old James “Fergie” Chambers, a US citizen and wealthy donor to leftwing and humanitarian projects worldwide, in the days following his arrest last month, the Guardian has learned.

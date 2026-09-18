@@ -8,6 +8,10 @@ scraped_at: '2026-08-23T12:57:47Z'
 published: '2026-08-23T00:00:00Z'
 description: Monitoring shows threats have stayed elevated since April.
 image: https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![No Data Center sign on a rural road](https://cdn.mos.cms.futurecdn.net/cAkbprtpxDB6ChwJfP7Thg.png) 

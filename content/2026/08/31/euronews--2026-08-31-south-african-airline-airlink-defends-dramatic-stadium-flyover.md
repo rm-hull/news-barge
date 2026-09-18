@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Footage of the flyover quickly began circulating on social media, prompting
   mixed reactions as some expressed concerns over safety.
 image: https://images.euronews.com/articles/stories/09/89/58/90/1200x675_cmsv2_01640820-d26f-5929-942b-88a41f2e68eb-9895890.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Footage of the flyover quickly began circulating on social media, prompting mixed reactions as some expressed concerns over safety.

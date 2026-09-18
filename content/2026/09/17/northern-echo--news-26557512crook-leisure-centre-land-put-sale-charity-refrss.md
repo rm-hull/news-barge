@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Crook Community Leisure in County Durham has put its sports centre and
   adjoining land on the market, saying it can no longer afford to run the…
 image: https://www.thenorthernecho.co.uk/resources/images/21466116.jpg?type=og-image&xType=0&yType=348
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

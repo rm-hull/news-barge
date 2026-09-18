@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: A new book is shedding light on the life of a footballer who became a
   national hero.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21392079.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Sports
 ---
 
 *(Image: Iain McMullen)*

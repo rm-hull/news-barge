@@ -9,6 +9,10 @@ description: The Somali-flagged TEDY was hit near Odesa and struck twice more ov
   with two other crewmembers hospitalised with burns. Azerbaijan's foreign ministry
   did not attribute responsibility for the attack.
 image: https://images.euronews.com/articles/stories/09/90/93/04/1200x675_cmsv2_b82dde44-02f0-5412-aa66-e53b1a186b01-9909304.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The Somali-flagged TEDY was hit near Odesa and struck twice more overnight, with two other crewmembers hospitalised with burns. Azerbaijan's foreign ministry did not attribute responsibility for the attack.

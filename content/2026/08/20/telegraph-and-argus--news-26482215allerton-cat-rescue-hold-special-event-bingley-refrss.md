@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A Bradford cat rescue charity is hosting a coffee and cake afternoon
   to raise money.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350799.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Newsquest)*

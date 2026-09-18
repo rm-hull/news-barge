@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The future of the former Marks and Spencer store remains unclear after
   a planned department store opening failed to take place last week.
 image: https://www.thenorthernecho.co.uk/resources/images/21400869.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The future of a former Marks and Spencer store remains unclear after a new department store and café failed to open.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Bricks have been thrown at a home in Kingsway North, Clifton, York –
   smashing several windows, police said.
 image: https://www.gazetteherald.co.uk/resources/images/21092212.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

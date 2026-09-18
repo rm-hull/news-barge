@@ -9,6 +9,11 @@ description: A club hero, David Gray ends his time as Hibs head coach not to the
   of euphoria from fans, but to the sound of a support collectively exhaling in relief,
   writes Tom English.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1a5b/live/601cf190-b20b-11f1-95f2-19e1a2e8eef2.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Sports
 ---
 
 ![Ex Hibernian manager David Gray claps the supporters](https://ichef.bbci.co.uk/ace/standard/969/cpsprodpb/1a5b/live/601cf190-b20b-11f1-95f2-19e1a2e8eef2.jpg)

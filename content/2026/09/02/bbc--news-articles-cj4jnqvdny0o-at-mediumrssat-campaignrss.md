@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: The new plan shows Andy Burnham's government kept the promised original
   schedule of how and when offenders will leave jail.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9956/live/1b8820b0-de2f-11ef-a37f-eba91255dc3d.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A prison officer with his left hand on a cell door. His upper and lower body is out of shot.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9956/live/1b8820b0-de2f-11ef-a37f-eba91255dc3d.jpg)

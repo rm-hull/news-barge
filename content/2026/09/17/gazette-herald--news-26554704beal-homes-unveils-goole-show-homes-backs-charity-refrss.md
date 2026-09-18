@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Goole-based Beal Homes has unveiled three new show homes at The Greenways
   development while supporting children’s brain tumour charity OSCAR’s
 image: https://www.gazetteherald.co.uk/resources/images/21462317.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Jordan Taylor, Beal Homes)*

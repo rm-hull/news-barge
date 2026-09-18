@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Some say scrapping the parliament for 11 to 18-year-olds would be a blow
   for democracy, while others say it is overdue.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6261/live/9de122a0-b2b8-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![Members of Youth Parliament smile while sat on the benches of the House of Commons.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/6261/live/9de122a0-b2b8-11f1-a430-4d16ee157c41.jpg)

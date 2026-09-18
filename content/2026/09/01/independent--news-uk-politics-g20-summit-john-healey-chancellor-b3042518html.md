@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The new Chancellor urged a need to ‘step up international co-operation’
   on the Middle East and energy prices
 image: https://static.independent.co.uk/2026/09/01/08/2026-08-31T143243Z_455624637_RC2P9NAXJMHX_RTRMADP_3_G20-FINANCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The UK’s new Chancellor called on his international counterparts to “step up” co-operation in response to a “number of challenges” including the Middle East crisis, energy prices, cost of living and growth, as he arrived at his first G20 summit.

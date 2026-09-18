@@ -10,6 +10,10 @@ description: Conor Benn says making the welterweight limit for his world-title c
   against Ryan Garcia has felt like being "dragged down to the pits of hell" but insists
   he is healthy and will make weight.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5633/live/aa567df0-ac8c-11f1-ab14-5b9069dc795d.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Behind the scenes with Conor Benn

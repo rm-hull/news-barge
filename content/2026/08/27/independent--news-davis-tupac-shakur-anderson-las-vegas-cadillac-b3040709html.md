@@ -8,6 +8,10 @@ scraped_at: '2026-08-27T22:13:57Z'
 published: '2026-08-27T00:00:00Z'
 description: Both sides have rested in the murder trial of Duane “Keffe D” Davis
 image: https://static.independent.co.uk/2026/08/27/22/Tupac_Trial_63_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The murder trial of Duane “Keffe D” Davis in the 1996 killing of Tupac Shakur is headed to closing arguments after the defense rested Thursday following testimony from three former Las Vegas police officers.

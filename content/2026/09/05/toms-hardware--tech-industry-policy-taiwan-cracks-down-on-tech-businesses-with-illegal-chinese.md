@@ -8,6 +8,10 @@ scraped_at: '2026-09-05T11:49:24Z'
 published: '2026-09-05T00:00:00Z'
 description: Some companies are hiding their Chinese roots to hire Taiwanese experts.
 image: https://cdn.mos.cms.futurecdn.net/UT7m8qPkTNnATrTXAKokZi-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![the flags of Taiwan and China on semiconductor prints](https://cdn.mos.cms.futurecdn.net/UT7m8qPkTNnATrTXAKokZi.png) 

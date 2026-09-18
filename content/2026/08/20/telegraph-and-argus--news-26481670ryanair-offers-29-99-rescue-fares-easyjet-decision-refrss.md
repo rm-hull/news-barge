@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Ryanair is offering £29.99 "rescue fares" for passengers affected by
   easyJet's decision to scrap its full Leeds Bradford schedule.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20125699.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: UGC)*

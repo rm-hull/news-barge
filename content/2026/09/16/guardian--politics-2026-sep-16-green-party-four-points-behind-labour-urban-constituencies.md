@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: 'Exclusive: UK’s Green parties could take 40 seats if result replicated
   at next election, according to Labour-linked thinktank'
 image: https://i.guim.co.uk/img/media/7d38fe0863cd23a6491b3b600f2ec16f213c0cc3/681_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c047b9747422ab772f2cba6d9e3d9add
+categories:
+- UK
+- News & Politics
 ---
 
 The Greens are just four points behind Labour in urban constituencies across the UK, putting them within touching distance of taking as many as 40 seats if the result was replicated at the next election, according to new polling by a Labour-linked thinktank.

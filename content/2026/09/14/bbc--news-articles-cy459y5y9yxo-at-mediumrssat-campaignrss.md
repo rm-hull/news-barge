@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Scientists say the record-breaking journey by three brothers offers hope
   wildlife can survive growing pressures.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Close-up of an African wild dog looking into the distance, showing its large, rounded ears and speckled tan, black and white fur.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9fde/live/01feacf0-9cb4-11f1-84cf-fd4cfd9d6c84.jpg)

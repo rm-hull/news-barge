@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: York marked Ukrainian Independence Day with a public show of solidarity
   and support at York Minster.
 image: https://www.yorkpress.co.uk/resources/images/21378729.jpg?type=og-image&xType=0&yType=209
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Ukrainians gather at York Minster to mark 35 years of independence

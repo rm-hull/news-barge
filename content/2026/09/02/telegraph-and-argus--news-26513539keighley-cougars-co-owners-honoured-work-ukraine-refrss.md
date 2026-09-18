@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: KEIGHLEY Cougars co-owners Ryan O’Neill and Kaue Garcia have been honoured
   for their work helping Ukrainian rugby league.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20751991.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Shaun Harrison)*

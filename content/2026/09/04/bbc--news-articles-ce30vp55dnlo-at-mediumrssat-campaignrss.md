@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Togo-sponsored resolution was backed by 164 nations - the US the
   only nation to vote against it.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![Side-by-side maps of Africa comparing two map projections. The Mercator projection on the left makes Africa appear smaller in comparison with Europe to its north. The Equal Earth projection on the right shows a longer, more proportionally accurate shape of the continent.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/722b/live/e7c4b610-a873-11f1-b109-879e35c24276.png)

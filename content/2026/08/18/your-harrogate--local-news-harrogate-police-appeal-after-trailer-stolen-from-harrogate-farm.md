@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police are appealing for information after a trailer was stolen from
   a farm near Harrogate.
 image: https://mmo.aiircdn.com/409/6a8466b46397a2a39e4.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8466b46397a2a39e4.jpg) 

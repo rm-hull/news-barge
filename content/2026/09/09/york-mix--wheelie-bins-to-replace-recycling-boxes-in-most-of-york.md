@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T22:29:32Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/colourful-wheelie-bins-recycling-pawel-czerwinski-unsplash.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Most York residents are set to see their recycling boxes swapped for bins.

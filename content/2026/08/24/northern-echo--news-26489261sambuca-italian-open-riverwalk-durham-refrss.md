@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: Italian restaurant chain Sambuca is preparing to open at the Riverwalk
   developent in Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21363625.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Travel
 ---
 
 *(Image: CHRIS BOOTH)*

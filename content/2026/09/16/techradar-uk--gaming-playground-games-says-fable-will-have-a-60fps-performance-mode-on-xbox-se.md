@@ -10,6 +10,9 @@ published: '2026-09-16T00:00:00Z'
 description: Playground Games is being a bit cagey about Fable's graphics settings,
   but has confirmed the Xbox Series X version will offer a 60fps performance mode.
 image: https://cdn.mos.cms.futurecdn.net/nRn6eoq9z2QdNzGTXG4eQN-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Fable](https://cdn.mos.cms.futurecdn.net/nRn6eoq9z2QdNzGTXG4eQN.jpg) 

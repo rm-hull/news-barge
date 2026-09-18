@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said crews from Tadcaster and
   Huntington were called to College Road in Copmanthorpe around 10.05pm…
 image: https://www.yorkpress.co.uk/resources/images/19596005.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

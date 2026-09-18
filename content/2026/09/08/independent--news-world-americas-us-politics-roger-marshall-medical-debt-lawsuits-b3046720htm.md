@@ -9,6 +9,10 @@ description: An analysis of court records found that lawsuits filed by Kansas Re
   Senator Roger Marshall or his medical practice routinely assessed an 18 percent
   interest rate on unpaid balances, causing some bills to double over time
 image: https://static.independent.co.uk/2026/09/08/17/2250667330..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Kansas Republican Senator Roger Marshall filed debt-collection lawsuits against more than 700 former patients during his career as an obstetrician-gynecologist, leading to the arrest of 81 people for missed court appearances, according to a new report.

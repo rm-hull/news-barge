@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Art of Protest Gallery is launching a new exhibition exploring the connection
   between music and visual art in Walmgate.
 image: https://www.gazetteherald.co.uk/resources/images/21425411.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 Art of Protest Gallery is launching a new exhibition exploring the connection between music and visual art.

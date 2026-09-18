@@ -9,6 +9,11 @@ description: Holidaymakers from Leeds told of how they’d been left scared afte
   of anti-migrant demonstrators dressed in black and wearing masks blocked roads in
   Dover.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMyODViZTIzLTZhMWItNDJkOS1iOWI1LTRlODA0ZTMzYzRjMjo1YmYxNjBjNi1jY2U4LTRjYTYtOGI3Zi00MDFiN2NjOTZmOTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Holidaymakers from Yorkshire tell of fear after masked demonstration at Dover

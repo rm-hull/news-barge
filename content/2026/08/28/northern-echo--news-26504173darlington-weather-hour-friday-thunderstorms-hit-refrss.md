@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: An hour-by-hour look at today's weather in Darlington as a Met Office
   thunderstorm warning brings the risk of heavy rain, localised flooding…
 image: https://www.thenorthernecho.co.uk/resources/images/20509386.jpg?type=og-image&xType=0&yType=29
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 People across Darlington and County Durham are being urged to keep an eye on the skies today after the Met Office issued a yellow thunderstorm warning over the North East.

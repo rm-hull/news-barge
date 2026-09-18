@@ -10,6 +10,10 @@ description: Pakistani authorities have asked the Supreme Court to review or wit
   an order requiring imprisoned former Prime Minister Imran Khan to receive a medical
   exam at a private hospital
 image: https://static.independent.co.uk/2026/08/19/12/Pakistan_Imran_Khan_82865.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Pakistani authorities on Wednesday asked the Supreme Court to review or withdraw an order requiring imprisoned former Prime Minister Imran Khan to receive a medical exam at a private hospital of his choice.

@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: President Donald Trump admits high fuel prices won’t likely drop before
   November’s crucial elections for control of Congress
 image: https://static.independent.co.uk/2026/09/10/20/2293564613..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The recent surge in gas prices has experts saying the issue could drive the results of November's midterm elections — signaling trouble for Republicans as President Donald Trump admits relief won't likely come before then.

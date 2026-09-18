@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Here's all you need to know about Ted Lasso season 4 episode 6's forthcoming
   release on Apple TV.
 image: https://cdn.mos.cms.futurecdn.net/8mnGGgexpLzr2pCNCbNBG4-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Ted smiling while sitting down in Ted Lasso season 4 episode 6](https://cdn.mos.cms.futurecdn.net/8mnGGgexpLzr2pCNCbNBG4.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Four recent job starters share their tips on what helped them have a
   smooth transition and survive their first few days.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![A four-way split pic using headshots of case studies Sarisha Ganesan, Oliver Walker, Chinaza Eke and Elijah Amoako](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg)

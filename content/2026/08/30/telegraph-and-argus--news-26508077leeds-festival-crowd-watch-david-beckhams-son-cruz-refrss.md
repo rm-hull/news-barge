@@ -7,6 +7,13 @@ scraped_at: '2026-08-30T22:42:34Z'
 published: '2026-08-30T00:00:00Z'
 description: Cruz Beckham took to the stage at Leeds Festival over the weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390556.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Arts & Culture
+- Travel
 ---
 
 David and Victoria Beckham could not have been more proud as son Cruz Beckham took to the stage at Leeds Festival over the weekend.

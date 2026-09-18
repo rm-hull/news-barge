@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Morocco moved towards normalising relations with Israel in 2020 under
   the US-engineered Abraham accords
 image: https://static.independent.co.uk/2026/09/17/10/18/iStock-1093199576.jpeg?trim=0,110,0,110&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israel and Morocco have agreed to step up diplomatic ties, including opening embassies and appointing ambassadors, according to an Arabic statement posted Wednesday on X by an official Israeli government account.

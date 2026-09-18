@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Fans queued outside a York shop to celebrate the Pokémon 30th anniversary
   trading cards.
 image: https://www.gazetteherald.co.uk/resources/images/21467994.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Dump site in Conakry, which minister had just promised to move, collapsed
   after heavy rain in west African state
 image: https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc53dab6bf10c633046eb1bbcb9bd87e
+categories:
+- UK
+- News & Politics
 ---
 
 A landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to collapse, engulfing nearby tents and shacks.

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: HMRC and creditors look set to lose further millions from the second
   administration of Black Sheep Brewery in less than four years.
 image: https://www.yorkpress.co.uk/resources/images/20865352.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## No payout for HMRC and creditors in second administration of North Yorkshire brewery

@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Burnham was grilled over his defence policy at Prime Minister’s Questions
   as Putin ratcheted up threats against the UK
 image: https://static.independent.co.uk/2026/09/02/13/2e732fe31bbe90f0344cfa242d793a66Y29udGVudHNlYXJjaGFwaSwxNzg4NDM2NTg0-2.85717482.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham has been warned that cash, “not vibes”, is needed to stop Vladimir Putin amid the growing threat of Russian aggression towards the UK.

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: York's Barley Hall is hosting a medieval-themed weekend with immersive
   activities and displays this bank holiday weekend.
 image: https://www.yorkpress.co.uk/resources/images/21375743.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 ## Step back in time as medieval warriors take over historic York attraction

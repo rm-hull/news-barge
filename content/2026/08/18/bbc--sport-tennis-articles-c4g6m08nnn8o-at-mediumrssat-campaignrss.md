@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Serena and Venus Williams lose a thriller at the Cincinnati Open in their
   first doubles match together for four years.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Serena Williams bumps fists with Venus Williams during their first round match at the Cincinnati Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg)

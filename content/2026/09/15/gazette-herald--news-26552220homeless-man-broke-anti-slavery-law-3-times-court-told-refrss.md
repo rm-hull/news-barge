@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A homeless man subject to an anti-slavery order repeatedly defied court
   attempts to protect vulnerable people from his bids to get accommodation.
 image: https://www.gazetteherald.co.uk/resources/images/19813190.jpg?type=og-image&xType=0&yType=119
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

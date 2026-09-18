@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Nine scholars recently attended a seminar at the University of Michigan
   to learn about conserving papyrus manuscripts
 image: https://static.independent.co.uk/2026/08/20/07/Conserving_Papyri_32542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Self-Improvement
 ---
 
 Shijin Jiang pulled the precision binocular headband magnifier over her eyes and hunched down within a few inches of the ancient text resting on a light board.

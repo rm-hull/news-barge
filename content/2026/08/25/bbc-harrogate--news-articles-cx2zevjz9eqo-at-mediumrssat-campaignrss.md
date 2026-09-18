@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The £82m Kex Gill bypass replaces a section of road which has suffered
   15 landslips since 2000.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd6f/live/e1dc9720-a064-11f1-ab55-41a63a22b55d.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![Vehicles travelling on a newly laid road with red and white cones lining the road on the far right of the picture. To the left of the picture is soil and a few light brown stones with short green grass.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fd6f/live/e1dc9720-a064-11f1-ab55-41a63a22b55d.jpg)

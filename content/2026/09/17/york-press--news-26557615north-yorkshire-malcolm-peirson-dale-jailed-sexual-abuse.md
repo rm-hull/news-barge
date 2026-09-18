@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A 62-year-old man from the Pickering area has been jailed for more than
   11 years after being found guilty of multiple sexual offences against a…
 image: https://www.yorkpress.co.uk/resources/images/21466147.jpg?type=og-image&xType=0&yType=257
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Police)*

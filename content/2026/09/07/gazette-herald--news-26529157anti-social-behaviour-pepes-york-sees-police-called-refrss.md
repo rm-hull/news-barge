@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Police were called to reports of anti-social behaviour involving youths
   at Pepe's takeaway in York city centre.
 image: https://www.gazetteherald.co.uk/resources/images/21421457.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Newsquest)*

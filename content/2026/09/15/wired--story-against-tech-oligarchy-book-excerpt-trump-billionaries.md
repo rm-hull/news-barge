@@ -9,6 +9,10 @@ description: Following mass layoffs in 2022 and 2023, many tech workers turned a
   their employers. When liberal politicians also rallied against Silicon Valley, their
   backers turned to Donald Trump.
 image: https://media.wired.com/photos/6aa887b1bd1baa3b3b2e9879/191:100/w_1280,c_limit/excerpt-template_Why%20the%20Postpandemic%20Tech%20Bust%20Sent%20Billionaires%20to%20Trump_Color.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home en masse. Platforms like Zoom, Slack, and Microsoft Teams surged in usage as WFH became ubiquitous. From remote schooling and virtual weddings to app-based grocery delivery and livestreamed concerts, the pandemic accelerated and cemented society’s increasing reliance on digital platforms. Already one of the most powerful forces in the American economy, the tech sector suddenly became the infrastructure underpinning every aspect of life.

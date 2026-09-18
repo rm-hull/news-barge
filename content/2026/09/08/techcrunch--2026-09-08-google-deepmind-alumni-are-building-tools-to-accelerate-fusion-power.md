@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Fusionality is developing control systems and simulation environments
   to help fusion power startups move faster.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Sometimes founders search high and low for the right startup idea, while other times it comes to them. Federico Felici and Jonas Buchli are two of the lucky ones.

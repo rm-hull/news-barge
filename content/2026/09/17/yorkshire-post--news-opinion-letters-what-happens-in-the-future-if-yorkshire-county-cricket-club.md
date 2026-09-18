@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: 'From: John Jackson, Yorkshire CCC member, former member-elected director,
   Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIyNTZhMGVmLWIzMTUtNDYyYy04ZWFmLTA3NTM2MTUwYWY0NTo5NDEzMTcxMi0yMTUzLTQ2MTEtYWY3Ni00YWNlYTc0M2Y0MTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # What happens in the future if Yorkshire County Cricket Club is demutualised? - Yorkshire Post Letters

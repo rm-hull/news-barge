@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The state department will revoke B1 and B2 visas issued between 2016
   and 2026, whose holders have sought or are now seeking asylum
 image: https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/256_0_3288_2632/master/3288.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50dc53fe3664e69a9e760136a5cc9af1
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown.

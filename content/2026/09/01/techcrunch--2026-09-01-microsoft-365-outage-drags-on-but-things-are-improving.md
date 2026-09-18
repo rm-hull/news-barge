@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Microsoft 365 and Outlook are still seeing service degradations on Tuesday,
   the company's status page indicates.
 image: https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748-e1697104507888.jpg?resize=1200,676
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Microsoft’s efforts to fix what is now a multi-day outage affecting customers’ access to Outlook email and other Microsoft 365 services are entering day two.

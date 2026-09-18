@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: It’s not clear who created the site, but the Republican National Committee
   pinned the blame on Democrats
 image: https://static.independent.co.uk/2026/09/05/18/22/GettyImages-2182395261.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A website purporting to host details about the Republican National Committee’s 2026 midterm convention instead redirected visitors’ attention to a subject President Donald Trump has long sought to put behind him, according to a new report.

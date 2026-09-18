@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Rhys Woods pays tribute to his three-year-old son and offers "deepest
   gratitude" for community support.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea4d/live/01db9030-b28f-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Noah, a three-year-old boy who has ginger hair. He is pictured sitting on a bed with a grey headboard and is looking directly at the camera and smiling.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/ea4d/live/01db9030-b28f-11f1-b1d1-571ed4d7ff2c.jpg)

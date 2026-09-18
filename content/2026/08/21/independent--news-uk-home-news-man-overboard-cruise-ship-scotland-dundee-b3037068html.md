@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The man reportedly went overboard around 40 nautical miles from Anstruther,
   Fife, police said
 image: https://static.independent.co.uk/2026/03/02/20/07/Breaking-News.avif?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A major search operation has been launched after reports a man went overboard from a cruise ship near Scotland.

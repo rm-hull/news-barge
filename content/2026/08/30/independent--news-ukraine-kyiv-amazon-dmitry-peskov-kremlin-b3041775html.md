@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The death toll from a Russian strike on a warehouse west of Kyiv, the
   war’s deadliest attack so far this year, rose to 38 with four people still missing
 image: https://static.independent.co.uk/2026/08/30/01/APTOPIX_Russia_Ukraine_War_88416.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The death toll from a Russian strike on a warehouse west of Kyiv, the war's deadliest attack so far this year, rose to 38 with four people still missing, Ukrainian President Volodymyr Zelenskyy said on social media Sunday.

@@ -9,6 +9,9 @@ description: 'Maroš Šefčovič said the Commission is ready to explore a wide 
   of options to deepen cooperation with Ottawa as Canadian Prime Minister Mark Carney
   calls for a closer partnership with the EU. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/75/12/1200x675_cmsv2_790c6028-64fa-5c55-a6a3-2a0187bd53b0-9897512.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Maroš Šefčovič said the Commission is ready to explore a wide range of options to deepen cooperation with Ottawa as Canadian Prime Minister Mark Carney calls for a closer partnership with the EU.

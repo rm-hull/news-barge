@@ -9,6 +9,8 @@ published: '2026-09-17T00:00:00Z'
 description: ChatGPT can now create eerily realistic images. I mixed them with my
   own travel photos, can you spot the fakes?
 image: https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Real vs AI picture](https://cdn.mos.cms.futurecdn.net/JKAptBzRC3Gh5pZmRJhQjA.jpg) 

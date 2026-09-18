@@ -10,6 +10,10 @@ description: The man who sprayed vinegar at Democratic U.S. Rep. Ilhan Omar duri
   and the deaths of two U.S. citizens is expected to be sentenced Wednesday after
   reaching a deal with prosecutors
 image: https://static.independent.co.uk/2026/09/17/05/Omar_Sprayed_Minnesota_54_59.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The man who sprayed vinegar at Democratic U.S. Rep. Ilhan Omar during a Minneapolis town hall meeting as the city was going through an immigration crackdown and the deaths of two U.S. citizens is expected to be sentenced Wednesday after reaching a deal with prosecutors.

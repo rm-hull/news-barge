@@ -10,6 +10,10 @@ published: '2026-09-03T00:00:00Z'
 description: Two other city leaders who said yes to the tax breaks lost their re-election
   bids earlier this year.
 image: https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![a protester holding up a sign against a data center](https://cdn.mos.cms.futurecdn.net/v4E3LjqELKvVQfSbGgM4bh.png) 

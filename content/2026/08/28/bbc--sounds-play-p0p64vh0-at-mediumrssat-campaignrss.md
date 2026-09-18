@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:11Z'
 published: '2026-08-28T00:00:00Z'
 description: And, did CIA chief travel to Moscow to warn Putin against attacking Nato?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

@@ -10,6 +10,10 @@ description: The Trump administration has ordered caregivers for migrant childre
   to stop reporting human trafficking concerns directly to the office created to help
   victims
 image: https://static.independent.co.uk/2026/09/16/17/Immigration_Human_Trafficking_Claims_2_923.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Trump administration has ordered caregivers for migrant children to stop reporting human trafficking concerns directly to the office created to help victims, a change that critics say could make some vulnerable minors easier to deport.

@@ -8,6 +8,13 @@ published: '2026-09-08T00:00:00Z'
 description: Police are appealing for information following an alleged sexual assault
   by a man on a woman who was walking on parkland in a North Yorkshire town.
 image: https://www.gazetteherald.co.uk/resources/images/20906881.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Travel
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

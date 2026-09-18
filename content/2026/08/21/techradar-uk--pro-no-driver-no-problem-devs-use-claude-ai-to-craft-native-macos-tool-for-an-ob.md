@@ -8,6 +8,8 @@ scraped_at: '2026-08-21T20:36:29Z'
 published: '2026-08-21T00:00:00Z'
 description: '"Cannot access printer? It''s here!"'
 image: https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Man coding programmer, software developer working on digital tablet with binary, html computer code on virtual screen](https://cdn.mos.cms.futurecdn.net/ywSwn3oGxXv4PfcRPZmTrc.jpg) 

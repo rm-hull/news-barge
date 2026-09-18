@@ -9,6 +9,13 @@ published: '2026-09-11T00:00:00Z'
 description: A COMMUNITY could get its first new council housing in decades if plans
   are approved for 25 flats.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441205.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 *(Image: Leeds City Council)*

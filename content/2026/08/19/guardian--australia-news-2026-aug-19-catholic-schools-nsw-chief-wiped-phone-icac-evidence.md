@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Dallas McInerney tells inquiry he wiped data from his devices over the
   weekend after receiving a security warning from his bank
 image: https://i.guim.co.uk/img/media/281a21f6ae5158af797bf75121878c67939055fa/168_0_5326_4261/master/5326.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d524aea21cf290d75844cb7f58c1e91e
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The chief executive of Catholic Schools NSW has denied he performed a factory reset on a work phone and iPad to wipe critical evidence for an investigation into allegations of corruption in the New South Wales Liberal party, an inquiry has heard.

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Motorists face months of disruption near Darlington Station as major
   roadworks begin this autumn. Here's what is happening, where and why.
 image: https://www.thenorthernecho.co.uk/resources/images/21413363.jpg?type=og-image&xType=269&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 Drivers and rail passengers are being warned to prepare for months of disruption around Darlington railway station as the final phase of the station's redevelopment project gets underway.

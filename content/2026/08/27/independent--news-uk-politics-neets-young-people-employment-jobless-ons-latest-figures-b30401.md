@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Crisis of young people not in education, employment or training ‘long
   way from easing’ despite fall in official figures
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/07/16/11/Job-centre.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 The scale of young people not in education, employment or training is a “scar on this country”, an expert has said despite new figures showing the number of Neets has fallen by 30,000.

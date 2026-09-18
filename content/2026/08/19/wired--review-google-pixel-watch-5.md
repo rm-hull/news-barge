@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: With smarter gym tracking, new health alerts, and offline Gemini, the
   Pixel Watch 5 fine-tunes a winning formula—for a price.
 image: https://media.wired.com/photos/6a85c42a5f006be0a12bd5bd/191:100/w_1280,c_limit/Stephen%20Curry%20Special%20Edition%20%5Bcourtesy%20of%20Google%5D.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Remains a stunning design. New Health Guardian features with proactive wellness insights. Strength Training experience is useful for gymgoers. Gemini now has offline functionality. Double the storage.

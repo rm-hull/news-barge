@@ -9,6 +9,11 @@ description: Search teams have found the remains of American climber Mallory Gei
   the last missing member of a 10-member international team killed in an avalanche
   on Broad Peak
 image: https://static.independent.co.uk/2026/08/11/19/10/AP26223591969889.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Travel
 ---
 
 Search teams in northern Pakistan have found the remains of American mountaineer Mallory Geis following an avalanche that killed all 10 members of an international climbing expedition on Broad Peak, officials said Friday.

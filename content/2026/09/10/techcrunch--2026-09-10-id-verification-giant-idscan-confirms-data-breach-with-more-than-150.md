@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: The ID checking company said the data breach included people's full names
   and driver's licenses and other government-issued identity documents.
 image: https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-681253878.jpg?resize=1200,788
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ID verification service IDScan has confirmed that a data breach involved the theft of driver’s licenses from its systems, a week after a report said the identity document checker had been breached during a year-long hack.

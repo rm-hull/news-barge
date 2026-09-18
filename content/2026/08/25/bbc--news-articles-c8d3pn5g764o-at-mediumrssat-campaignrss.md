@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The boy's family say he is "happy to be home" after undergoing seven
   operations in hospital.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7626/live/931ca240-85b8-11f1-bd07-3b1b1452001a.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A view from above of a crocodile on a sandy or muddy ground, sitting next to brown-coloured water in an enclosure. There is green foliage to the left.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7626/live/931ca240-85b8-11f1-bd07-3b1b1452001a.jpg)

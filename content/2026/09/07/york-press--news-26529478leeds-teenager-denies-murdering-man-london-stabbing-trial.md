@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A Leeds teenager denies murdering a man in Westminster after travelling
   150 miles to London armed with a knife, Old Bailey hears.
 image: https://www.yorkpress.co.uk/resources/images/20763007.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Google Maps)*

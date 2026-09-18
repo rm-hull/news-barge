@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Selby Civic Society will host its next speaker event in September, exploring
   the history of Selby’s War Memorial Hospital.
 image: https://www.yorkpress.co.uk/resources/images/21369746.jpg?type=og-image&xType=0&yType=236
+categories:
+- Local
+- York
+- History
 ---
 
 ## History of Selby's War Memorial Hospital to be explored in upcoming talk

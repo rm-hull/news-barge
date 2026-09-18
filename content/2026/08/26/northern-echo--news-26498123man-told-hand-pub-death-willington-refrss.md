@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Police hunting a man accused of killing a Crook man he had just learned
   was his dad was urged to hand himself in on Christmas Day.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man who drunkenly claimed to be Frank Sinatra's lovechild told his mum he was "gutted" after killing a man he'd just learnt was actually his dad, a trial heard.

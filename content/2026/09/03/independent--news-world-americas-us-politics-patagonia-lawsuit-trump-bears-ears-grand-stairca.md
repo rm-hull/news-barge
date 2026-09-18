@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Patagonia was among the groups that sued the first Trump administration
   to block a similar move
 image: https://static.independent.co.uk/2026/07/23/14/49/GettyImages-682629702.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Outdoor retailer Patagonia joined a coalition of Indigenous and environmental groups suing the Trump administration on Wednesday over its decision this summer to massively shrink two national monuments in Utah, Bears Ears and Grand Staircase-Escalante.

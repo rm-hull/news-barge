@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Work to replace stands in poor condition and temporary stands with new
   “Sheffield” style stands begins in York city centre.
 image: https://www.yorkpress.co.uk/resources/images/21385752.jpg?type=og-image&xType=0&yType=58
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: City of York Council)*

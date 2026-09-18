@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T04:15:12Z'
 published: '2026-09-03T00:00:00Z'
 description: The date for Bradford's Christmas lights switch-on has been revealed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401003.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 THE date for Bradford's Christmas lights switch-on has been revealed.

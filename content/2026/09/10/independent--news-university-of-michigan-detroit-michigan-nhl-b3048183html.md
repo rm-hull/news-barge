@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T19:06:30Z'
 published: '2026-09-10T00:00:00Z'
 description: More than a dozen former hockey players are suing the University of Michigan
 image: https://static.independent.co.uk/2026/09/10/19/Michigan_Hockey_Hazing_24_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 More than a dozen former hockey players are suing the University of Michigan, alleging their coach and other staff were aware of sexual hazing that included the forced shaving of their genitals and other abuse by teammates decades ago.

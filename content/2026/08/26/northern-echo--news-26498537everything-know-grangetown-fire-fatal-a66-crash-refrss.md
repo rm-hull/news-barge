@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Here is everything we know so far as two dead in Grangetown just days
   after A66 crash killed seven people.
 image: https://www.thenorthernecho.co.uk/resources/images/21376570.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NORTH NEWS/ PA)*

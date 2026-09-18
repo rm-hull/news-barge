@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: And if your tap water is undrinkable, you have no “constitutional right
   to truthful information” about it.
 image: https://media.wired.com/photos/6aa4488052c971537654b906/191:100/w_1280,c_limit/GettyImages-1431034639.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 *This story originally appeared on Mother Jones and is part of the Climate Desk collaboration.*

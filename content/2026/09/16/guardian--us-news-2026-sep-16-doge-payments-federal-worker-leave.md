@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: GAO report shows how use paid administrative leave rose by 435% from
   2023 to 2025 and incurred a sixfold cost
 image: https://i.guim.co.uk/img/media/b271e6e665f09a46888e5fdbb03ee08ec99405ed/478_0_4775_3820/master/4775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1424d173606c5351d071385d6861ab5f
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The US government paid federal workers $9.5bn not to work in 2025 as part of the Trump administration’s attempts to shrink the federal workforce.

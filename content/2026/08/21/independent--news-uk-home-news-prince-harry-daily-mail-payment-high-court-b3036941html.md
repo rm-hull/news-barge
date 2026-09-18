@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The celebrities could be forced to pay millions more to the publisher,
   which spent £34m defending the claims
 image: https://static.independent.co.uk/2026/08/21/14/39/Daily-Mail-split-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Prince Harry and six other prominent public figures have been ordered to pay £9.5m in an initial payment to the publisher of the *Daily Mail* after accusing them of unlawful information gathering.

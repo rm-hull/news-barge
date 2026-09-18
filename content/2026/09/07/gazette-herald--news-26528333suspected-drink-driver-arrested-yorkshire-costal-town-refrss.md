@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A suspected drink driver has been arrested after police reportedly saw
   a man trying to start a car in Beverley while under the influence.
 image: https://www.gazetteherald.co.uk/resources/images/13615894.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Newsquest)*

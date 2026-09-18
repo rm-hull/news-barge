@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Four stand-up comedians from the UK and international circuits will be
   performing at Pocklington Arts Centre later this year.
 image: https://www.yorkpress.co.uk/resources/images/21385250.jpg?type=og-image&xType=0&yType=213
+categories:
+- Local
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: Pocklington Arts Centre)*

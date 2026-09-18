@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The number of horses reported stolen across West Yorkshire has more than
   halved this year, according to new figures released by the force's…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432623.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Pixabay)*

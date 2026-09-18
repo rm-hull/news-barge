@@ -10,6 +10,10 @@ description: Mississippi police say they were still investigating the death of T
   Fortune, a Black woman found hanging from a tree last month, a day after a man was
   arrested in connection with the killing
 image: https://static.independent.co.uk/2026/09/12/00/Mississippi_Woman_Hanging_97212.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Mississippi police said Saturday they were still investigating the death of Tasia Fortune, a Black woman found hanging from a tree last month, a day after a man was arrested in connection with the killing.

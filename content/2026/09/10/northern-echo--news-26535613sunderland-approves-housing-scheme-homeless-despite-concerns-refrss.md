@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Sunderland approves supported housing at The Elms West, offering seven
   bedrooms and 24/7 support for homeless people moving towards independent…
 image: https://www.thenorthernecho.co.uk/resources/images/21430581.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

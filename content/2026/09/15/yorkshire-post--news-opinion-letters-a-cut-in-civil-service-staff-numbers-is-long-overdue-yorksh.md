@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:54Z'
 published: '2026-09-15T00:00:00Z'
 description: 'From: Clark Cross, Linlithgow, West Lothian.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU2YzNmNDc1LTcwODEtNGY4Zi1hMTFhLWQzZjlkOThiZTA2MjozZGE5YTM2MS1jOWU5LTQ2MDAtOGZhMy04ZTcwYWFlMDA1NTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 # A cut in civil service staff numbers is long overdue - Yorkshire Post Letters

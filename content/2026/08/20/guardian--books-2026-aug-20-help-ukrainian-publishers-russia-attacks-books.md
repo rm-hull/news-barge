@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The country risks ‘the collapse of the entire book ecosystem’ following
   destruction of warehouses in July and August, say Ukrainian publishers
 image: https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81b2937a105ea61f9940f7be890266f1
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity.

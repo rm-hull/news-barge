@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Work is set to begin on a major redevelopment of the main entrance at
   Harrogate District Hospital.
 image: https://mmo.aiircdn.com/409/6a969c717d2445fce62.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a969c717d2445fce62.jpg) 

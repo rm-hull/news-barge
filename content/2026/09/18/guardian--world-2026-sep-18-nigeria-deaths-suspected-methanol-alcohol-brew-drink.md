@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Drinking locally made alcohol is common in Nigeria, especially in rural
   areas where it is more affordable and poorly regulated.
 image: https://i.guim.co.uk/img/media/71fdac6096eda7c5dea33c289145b44460bfb090/163_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa10235625ec1dfc3212ff12525b75a9
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.

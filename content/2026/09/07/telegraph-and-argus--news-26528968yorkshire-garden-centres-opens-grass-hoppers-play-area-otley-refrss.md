@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A new play centre has opened after a major investment, creating jobs
   and expanding facilities for families.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421072.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: submitted)*

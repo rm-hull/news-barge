@@ -9,6 +9,10 @@ description: Video. An Amazon cargo plane overran the runway at Miami Internatio
   Airport, hit vehicles and caught fire. Five died, five were injured. FAA and NTSB
   investigate.
 image: https://images.euronews.com/articles/stories/09/90/39/41/1200x675_cmsv2_6be82e88-1aa3-564d-a7da-d892df14b5ab-9903941.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 An Amazon cargo plane overran the runway at Miami International Airport on Sunday, hitting several vehicles and catching fire.

@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: We're big fans of the lightweight Asus Zenbooks, and now AO has slashed
   £350 off this portable 14-inch OLED laptop.
 image: https://cdn.mos.cms.futurecdn.net/rkyraWRmq5fLLn86WjpfKg-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Asus Zenbook 14 OLED Laptop](https://cdn.mos.cms.futurecdn.net/rkyraWRmq5fLLn86WjpfKg.jpg) 

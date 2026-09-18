@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The Filey Kite Festival will take place from September 18 to September
   20 at Filey Brigg Country Park.
 image: https://www.yorkpress.co.uk/resources/images/21419334.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 ## Filey Kite Festival returns with spectacular new Friday Night Flight

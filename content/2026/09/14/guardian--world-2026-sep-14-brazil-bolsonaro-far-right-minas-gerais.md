@@ -9,6 +9,10 @@ description: Neck-and-neck with Lula in polls, Flávio Bolsonaro fires up his ba
   in the bellwether state of Minas Gerais – starting at the scene of his father’s
   stabbing
 image: https://i.guim.co.uk/img/media/84db8d853097e7607dbfa3d622ba2011d0f1ec6a/288_1_3624_2899/master/3624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bf6054b9d2c8690f0937cfe033dabb4
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A giant banner of Brazil’s incarcerated former president Jair Bolsonaro fluttered in the morning breeze as his eldest son, Flávio, touched down at an airfield on the fringe of a city that will soon help decide the future of one of the biggest democracies on earth.

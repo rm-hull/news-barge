@@ -10,6 +10,10 @@ description: The return is to happen soon of one of North Yorkshire’s most fam
   scarecrow competitions which last year saw a reenactment in straw of the cover of
   the Beatles’ Abbey Road album.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdmN2IyYTljLTA2ODQtNGZhZS05ODA1LWQ5MTE4ZGM2NTBmYTpmNTlhNWVlYy1hYjEyLTQ4OTEtOTU1NC1kYWY1OTg0OTM4NDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Preview: Harrogate villagers' scarecrow creations have included classic Beatles album covers and more

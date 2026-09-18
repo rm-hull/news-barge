@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The new scoring system will use a broader range of data, such as how
   account balances have changed over time
 image: https://static.independent.co.uk/2026/08/26/9/38/iStock-1406738168.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A second major credit score firm has announced significant changes to its system, including the number consumers see on their file and the data used to assess them.

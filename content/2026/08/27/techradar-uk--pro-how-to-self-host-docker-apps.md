@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T22:13:06Z'
 published: '2026-08-27T00:00:00Z'
 description: Run containerized applications on any server
 image: https://cdn.mos.cms.futurecdn.net/xYCHJYF6osxKvsgCfkwmRo-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Docker website on a macbook](https://cdn.mos.cms.futurecdn.net/xYCHJYF6osxKvsgCfkwmRo.jpg) 

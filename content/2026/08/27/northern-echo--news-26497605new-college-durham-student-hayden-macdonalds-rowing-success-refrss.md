@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: New College Durham student Hayden MacDonald is earning national recognition
   after a series of rowing successes with Sunderland Rowing Club,…
 image: https://www.thenorthernecho.co.uk/resources/images/21375318.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

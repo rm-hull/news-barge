@@ -10,6 +10,12 @@ description: North Yorkshire Council has been called on to show evidence of cost
   resulting from its controversial home-to-school transport changes as Reform say
   they will cancel the policy if they get chance.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI3NmI3MmZmLTkxOGEtNGFkYi1iNmZlLTBhMDkxODdmOWY2Yjo3OTRkZWZjZS05OWQ0LTQwNDgtODA1NC1lMDAwOTVjODc3Yzk=.png?crop=3:2,smart&trim=&width=837&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Personal Finance & Investing
 ---
 
 # North Yorkshire Council urged to 'show me the money' and provide evidence of home-to-school policy change savings

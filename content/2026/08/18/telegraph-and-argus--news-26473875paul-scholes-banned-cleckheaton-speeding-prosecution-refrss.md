@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Former Manchester United footballer Paul Scholes has been handed a six-month
   road ban after he racked up two driving convictions in the space of two…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21334534.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 Former Manchester United footballer Paul Scholes has been handed a six-month road ban after he racked up two driving convictions in the space of two days.

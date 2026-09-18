@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Two new studies provide chilling testimony about the spike in threats
   against federal judges
 image: https://static.independent.co.uk/2026/09/01/21/Political_Violence-Judges_24189.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Federal judges have varied their commutes, hired private security and fortified their homes, including with panic buttons, amid a barrage of threats and harassment in recent months that has left many of them anxious about their safety, according to two new studies.

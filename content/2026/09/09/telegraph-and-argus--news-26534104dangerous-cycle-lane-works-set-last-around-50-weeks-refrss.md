@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Residents are demanding that the construction of cycle lanes along a
   key route to Bradford be paused, over fears that the impact of the build was…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428429.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

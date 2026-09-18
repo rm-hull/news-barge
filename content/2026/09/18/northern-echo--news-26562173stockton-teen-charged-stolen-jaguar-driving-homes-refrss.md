@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: An 18-year-old man has been charged after a stolen Jaguar allegedly rammed
   two Stockton homes hours after overturning in a dramatic crash in…
 image: https://www.thenorthernecho.co.uk/resources/images/16613784.jpg?type=og-image&xType=0&yType=51
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: POLICE)*

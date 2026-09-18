@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: There is a long list of supplements taken by elite athletes in the pursuit
   of marginal gains - what do they take and why?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c70/live/83d9e3d0-97d1-11f1-b1e0-bbc28f2688df.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 **It was at the 1992 Olympics in Barcelona when the mutterings about a new "secret weapon" started.**

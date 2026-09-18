@@ -9,6 +9,11 @@ description: Prized by celebrities and designers the world over, Yorkshire weave
   Abraham Moon & Sons is playing a vital role in making British tailoring cool again,
   as Yorkshire Post Fashion Editor Stephanie Smith discovers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1YjU1NGMwLTJhZGMtNDMwNi04ODI1LTkyZGRhNTg2YzUyMzpjNDQxNGJlZi02MWJkLTRlZGItODJlNi0xM2VjZGI2Y2NkYWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'We have a wall of fame from Billie Eilish to Shania Twain': Why celebs across the world love Moon’s tweeds and wool cloth

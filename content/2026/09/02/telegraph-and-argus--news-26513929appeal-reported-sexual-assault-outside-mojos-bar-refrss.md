@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Police are appealing for two women to come forward following a reported
   sexual assault.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20852665.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A Camera Club)*

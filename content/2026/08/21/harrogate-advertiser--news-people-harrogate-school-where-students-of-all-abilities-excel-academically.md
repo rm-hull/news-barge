@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Students, staff and families at St John Fisher Catholic Academy in Harrogate
   are once again celebrating an outstanding set of GCSE results.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjhmYWU2ODI2LWZhZWQtNGM4ZC1iYWYxLTg0MTM0NjAyOTkwZjo2MWNlM2I5NC1lNjBiLTQyZmItYWYyNC01YmM5NzRmNTY5OTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Harrogate school where 'students of all abilities excel academically'

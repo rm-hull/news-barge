@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Several of the papers home in on a warning to Andy Burnham from the City
   of London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/289d/live/cf26e510-a724-11f1-8e43-0d7692a13e5b.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![The headline on the front page of the Daily Telegraph reads: “Tories will cut benefits to hit 3pc on defence”.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/cbbd/live/37f18ea0-a717-11f1-b109-879e35c24276.jpg)

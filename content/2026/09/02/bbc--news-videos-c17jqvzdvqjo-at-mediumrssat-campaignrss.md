@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The stars of Netflix's The Gentlemen season two reacted to the swirling
   rumours that Meghan, Duchess of Sussex may be joining the cast.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2e3/live/9c9cd070-a6ff-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 # Stars of The Gentlemen react to Meghan rumours

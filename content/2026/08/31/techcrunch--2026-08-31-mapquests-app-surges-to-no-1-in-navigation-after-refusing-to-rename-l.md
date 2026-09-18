@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: MapQuest is getting an unexpected boost from its decision to defy President
   Trump’s renaming of Lake Ontario.
 image: https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891
+categories:
+- Technology & Software
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 MapQuest stood up to President Donald Trump, and now its app is reaping the rewards.

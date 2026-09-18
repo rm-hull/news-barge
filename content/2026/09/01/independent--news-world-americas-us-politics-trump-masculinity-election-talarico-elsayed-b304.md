@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: '"Democratic voters want a candidate who will fight," said Beth Reingold,
   an Emory University professor who specializes in gender and politics'
 image: https://static.independent.co.uk/2026/08/28/21/2288706972..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 While major policy disputes over inflation, health care, taxes, tariffs, immigration, and the war in Iran dominate headline debates this midterm election cycle, an underlying cultural question is quietly shaping key congressional battles: what defines a real man?

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: In the spring of 1951, Jack Kerouac's muse struck hard, leading him to
   create a full-length manuscript for “On the Road” in just three weeks
 image: https://static.independent.co.uk/2026/09/02/17/American_Objects_The_Kerouac_Scroll_78246.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 In the spring of 1951, the muse landed so hard in the caffeinated mind of Jack Kerouac that within three weeks he had hurried out a full-length, single-spaced manuscript — a draft for “On the Road” that he taped together into a scroll some 120 feet long.

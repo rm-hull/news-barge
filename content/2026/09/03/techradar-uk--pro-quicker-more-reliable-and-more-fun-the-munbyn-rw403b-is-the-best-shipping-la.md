@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: In our tests, we found Munbyn's thermal label printer "makes light work
   of labelling", and it's our top choice for ecommerce and small business use.
 image: https://cdn.mos.cms.futurecdn.net/WG9yvogEjLgX9mmQtdNR8Y-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Munbyn RealWriter 403B during our review](https://cdn.mos.cms.futurecdn.net/WG9yvogEjLgX9mmQtdNR8Y.jpg) 

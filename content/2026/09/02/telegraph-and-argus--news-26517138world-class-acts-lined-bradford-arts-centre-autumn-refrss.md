@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: THERE’S a vibrant mix of comedy, storytelling and South Asian dance at
   Bradford Arts Centre this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21159035.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 THERE’S a vibrant mix of comedy, storytelling and South Asian dance at Bradford Arts Centre this autumn.

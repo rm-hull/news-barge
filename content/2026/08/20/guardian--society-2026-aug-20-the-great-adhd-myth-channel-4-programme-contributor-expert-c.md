@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Prof Katya Dubia withdraws support for The Great ADHD Myth? as other
   leading figures voice criticisms
 image: https://i.guim.co.uk/img/media/c47359d78f777fadcbf2096e35670c91255cafe2/397_126_3382_2706/master/3382.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bd4797f6bfd21c770afa54136f51a05
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Arts & Culture
 ---
 
 A contributor to a controversial Channel 4 documentary on attention deficit hyperactivity disorder has withdrawn her support for the programme, saying it was biased and could lead to an increased suicide risk by encouraging parents to take their children off medication.

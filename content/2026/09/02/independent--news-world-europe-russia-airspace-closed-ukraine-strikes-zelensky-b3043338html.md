@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Ukraine’s threat may force Putin into negotiations to end the conflict,
   say experts
 image: https://static.independent.co.uk/2026/09/02/10/2291455323..?trim=136,0,136,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Volodymyr Zelensky has issued a stark threat to airlines and businesses using Russian airspace, saying it will be “effectively closing” as Ukraine escalates its drone campaign.

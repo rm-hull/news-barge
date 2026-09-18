@@ -8,6 +8,8 @@ scraped_at: '2026-08-25T13:07:24Z'
 published: '2026-08-25T00:00:00Z'
 description: And the Mac Studio gets even speedier with M5 Max and M5 Ultra
 image: https://cdn.mos.cms.futurecdn.net/kjA6jxhGVVxpYqX6qsvtKa-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Mac mini with M6, 2026](https://cdn.mos.cms.futurecdn.net/kjA6jxhGVVxpYqX6qsvtKa.jpg) 

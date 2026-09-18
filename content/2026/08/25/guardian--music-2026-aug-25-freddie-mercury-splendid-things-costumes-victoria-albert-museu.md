@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Eight costumes spanning Queen frontman’s career will feature in a free
   trail developed with his former fiancee
 image: https://i.guim.co.uk/img/media/6296be5b37cbab6c090ad706bb35a8a7e6155cd2/1078_106_4608_3687/master/4608.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b85a56e662e3082c3582ddc35b008bb
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Eight famous costumes worn by Freddie Mercury, including the outfit featured on the cover of Queen’s debut album and the catsuit from the video for Bohemian Rhapsody, are to go on display at the V&A in London this autumn to mark what would have been the singer’s 80th birthday.

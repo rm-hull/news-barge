@@ -10,6 +10,10 @@ description: Ethel Caterham, who lives in Surrey, UK, was born in 1909 and celeb
   her 117th birthday today. She inherited the title of Oldest Person in the World
   last year and is one of the oldest people to survive Covid-19.
 image: https://images.euronews.com/articles/stories/09/88/32/27/1200x675_cmsv2_91a43360-aed9-51bc-830c-9fa59565d2bf-9883227.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Ethel Caterham, who lives in Surrey, UK, was born in 1909 and celebrates her 117th birthday today. She inherited the title of Oldest Person in the World last year and is one of the oldest people to survive Covid-19.

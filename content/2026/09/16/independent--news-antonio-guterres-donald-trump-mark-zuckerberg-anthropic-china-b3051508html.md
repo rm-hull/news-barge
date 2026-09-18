@@ -10,6 +10,10 @@ description: The United Nations chief is urging global competitors in artificial
   to cooperate in addressing threats from the technology, warning that “the world
   cannot afford a race to the bottom on AI safety.”
 image: null
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The United Nations chief urged global competitors in artificial intelligence on Wednesday to cooperate in addressing threats from the technology, warning that “the world cannot afford a race to the bottom on AI safety.”

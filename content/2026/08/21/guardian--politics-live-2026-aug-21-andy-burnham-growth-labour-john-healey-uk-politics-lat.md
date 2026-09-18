@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The PM will be working alongside chancellor John Healey, Lou Haigh, Angela
   Rayner and Sally Jameson with regional mayors expected to be involved
 image: https://i.guim.co.uk/img/media/c70f7b83ff148365fc77c827775be895eb653782/454_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=52d92147fb3269878517a1bde68ff5ca
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Hello and welcome to the UK politics live blog.

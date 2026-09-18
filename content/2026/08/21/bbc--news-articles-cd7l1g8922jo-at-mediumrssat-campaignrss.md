@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: A jury last month cleared the YouTuber of several sexual assault offences,
   but it couldn't reach a decision on three others,
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Yung Filly, wearing a cream hoodie](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/663b/live/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg)

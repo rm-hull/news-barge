@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T23:23:55Z'
 published: '2026-08-26T00:00:00Z'
 description: Consumer AI apps need to stop making users learn their product architecture.
 image: https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google gets something right in its Wednesday announcement about new Gemini Live voice features when it says, “You shouldn’t have to guess whether a task requires Spark, a Daily Brief, or a quick inbox search.” Google means that as a promise — that the updated Gemini app can handle a variety of tasks via voice commands. But there’s a ridiculousness here: Google has given every Gemini AI feature under the sun its own branding, which undercuts that very message.

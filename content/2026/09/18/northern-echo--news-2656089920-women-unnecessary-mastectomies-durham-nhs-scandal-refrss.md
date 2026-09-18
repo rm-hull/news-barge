@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: At least 20 women underwent unnecessary mastectomies, and more than 300
   patients have been harmed during treatment at a North East NHS breast cancer…
 image: https://www.thenorthernecho.co.uk/resources/images/21471008.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Twenty women have undergone unnecessary mastectomies, and more than 300 patients have been harmed while under the care of an NHS trust's breast cancer services.

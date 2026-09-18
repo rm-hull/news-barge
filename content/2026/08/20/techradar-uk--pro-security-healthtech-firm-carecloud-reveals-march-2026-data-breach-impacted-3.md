@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T16:47:49Z'
 published: '2026-08-20T00:00:00Z'
 description: Impacted individuals are being notified
 image: https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH-1981-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 ![healthcare](https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH.jpg) 

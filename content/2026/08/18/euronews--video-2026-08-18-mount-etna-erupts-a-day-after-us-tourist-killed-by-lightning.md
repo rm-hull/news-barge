@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Video. Mount Etna erupts in Sicily, sending smoke and ash into the sky,
   a day after a US tourist died from a lightning strike while hiking on the volcano.
 image: https://static.euronews.com/articles/stories/09/32/75/15/1200x675_cmsv2_b07b100e-19cd-545b-a1e2-c6b4c78b8925-9327515.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Mount Etna erupted on Monday, 17 August, sending plumes of smoke and ash into the sky over Sicily. Footage shows fresh eruptions and a whirlwind of dust forming near the volcano's slopes.

@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Dogs and other much-loved pets were welcomed into Hull Minster for a
   special celebration of the animals which enrich people's lives.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI3NzZkODFjLTY4Y2EtNGZlNC04N2QwLTQyMGUyMGQxYTUzNjo1ZTExZWM1NS03Y2FmLTRhMzEtYjRmMy01NDIyMDg0MDEwZWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
+- Comedy & Entertainment
 ---
 
 Four-legged friends took centre stage at Hull Minster as pets and their owners gathered for a special celebration of animals.

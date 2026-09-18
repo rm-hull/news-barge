@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Bishop Auckland charity founder Clair McGregor, who launched Angel Trust
   from a hotel bedroom with a borrowed laptop, has received a High…
 image: https://www.thenorthernecho.co.uk/resources/images/21374589.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

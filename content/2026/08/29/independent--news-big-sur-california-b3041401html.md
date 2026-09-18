@@ -10,6 +10,10 @@ description: The Plaskett Fire erupted Wednesday in steep terrain in Monterey Co
   Thursday afternoon as firefighters scrambled to keep the flames from running through
   canyons.
 image: https://static.independent.co.uk/2026/08/29/08/APTOPIX_California_Wildfires_274_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Wildfires burn along California's scenic Big Sur coast, in photos

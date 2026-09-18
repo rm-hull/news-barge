@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Police investigating a money laundering case in Norway have recovered
   thousands of U.S. silver coins
 image: https://static.independent.co.uk/2026/09/17/17/Norway_US_Silver_Coins_351_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- True Crime
 ---
 
 On a yearslong hunt for thousands of U.S. silver coins squirreled away in Norway, police investigating a money laundering case finally got a lucky break: A tip about a van swerving on a highway outside Oslo last year.

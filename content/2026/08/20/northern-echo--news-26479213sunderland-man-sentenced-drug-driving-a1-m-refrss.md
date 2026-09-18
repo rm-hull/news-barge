@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Marc Moody, 28, of Sulgrave Road, Sunderland, has been given a suspended
   prison sentence and a 30-month driving ban after admitting three…
 image: https://www.thenorthernecho.co.uk/resources/images/20765304.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Newsquest)*

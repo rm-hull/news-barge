@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Cadbury has changed its tubs to cardboard boxes and have removed eclairs
   from some of them.
 image: https://www.yorkpress.co.uk/resources/images/21348908.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Getty)*

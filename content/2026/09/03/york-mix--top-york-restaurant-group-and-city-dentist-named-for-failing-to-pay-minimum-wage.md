@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T19:17:07Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/01/uk-cash-stirling-banknotes-mix-pa.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Two York businesses have today been named by the government for failing to pay their staff the minimum wage.

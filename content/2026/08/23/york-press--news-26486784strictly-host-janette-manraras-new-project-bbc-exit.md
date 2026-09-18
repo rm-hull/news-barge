@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Former Strictly Come Dancing star Janette Manrara has landed a new role
   after leaving the BBC show.
 image: https://www.yorkpress.co.uk/resources/images/21354376.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Yui Mok/PA Wire)*

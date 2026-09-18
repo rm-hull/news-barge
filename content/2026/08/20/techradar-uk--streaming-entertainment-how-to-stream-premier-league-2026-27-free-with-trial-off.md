@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: How to stream Premier League 2026/27 free with trial offers, as the new
   season begins with a raft of managerial changes, including Enzo Maresca at Man City.
 image: https://cdn.mos.cms.futurecdn.net/ZeuDe2H2LagZzEwN39GVog-1920-80.png
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Antoine Semenyo celebrates scoring his team's second goal during the Premier League match between Man City and Wolves at Etihad Stadium on January 24, 2026 in Manchester, England.](https://cdn.mos.cms.futurecdn.net/ZeuDe2H2LagZzEwN39GVog.png) 

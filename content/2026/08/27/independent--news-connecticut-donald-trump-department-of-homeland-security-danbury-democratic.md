@@ -10,6 +10,10 @@ description: Federal immigration authorities have arrested dozens of people in t
   city of Danbury, Connecticut, this week, despite intense opposition from elected
   officials and protesters
 image: https://static.independent.co.uk/2026/08/27/21/US_Immigration_Arrests_Connecticut_55161.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Federal immigration authorities have detained dozens of people in the city of Danbury, Connecticut, this week, despite intense opposition from elected officials and protesters.

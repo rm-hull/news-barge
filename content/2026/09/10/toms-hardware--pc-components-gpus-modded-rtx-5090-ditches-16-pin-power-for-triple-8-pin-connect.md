@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:53:21Z'
 published: '2026-09-10T00:00:00Z'
 description: Modders push 8-pin power beyond its limits.
 image: https://cdn.mos.cms.futurecdn.net/4pk3zA6rRHSUmT43HstFU4-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A modified Galax RTX 5090 graphics card with triple 8-pin PCIe power connectors](https://cdn.mos.cms.futurecdn.net/4pk3zA6rRHSUmT43HstFU4.png) 

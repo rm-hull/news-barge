@@ -9,6 +9,11 @@ description: Unison’s analysis of the latest industry employment figures has f
   the number of new international recruits hired into care jobs plunged from 105,000
   in 2023-24 to 30,000 in 2025-26.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/09/cs-2f739f2e-d04f-44d6-a676-243282d2dd7f.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # National care service at risk over plumetting social care staff numbers

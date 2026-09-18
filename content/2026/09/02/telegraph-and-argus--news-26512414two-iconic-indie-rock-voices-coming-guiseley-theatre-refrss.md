@@ -7,6 +7,13 @@ scraped_at: '2026-09-02T12:45:44Z'
 published: '2026-09-02T00:00:00Z'
 description: TWO iconic voices of British indie rock are set to take the stage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397195.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: Google Street View)*

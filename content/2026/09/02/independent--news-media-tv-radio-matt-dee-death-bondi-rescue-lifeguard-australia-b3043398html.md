@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Matt Dee became a well-known cast member of the reality series Bondi
   Rescue set on Australia’s Bondi beach
 image: https://static.independent.co.uk/2026/09/02/11/59/matt-dee1.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Matt Dee, a former lifeguard on Bondi Rescue, has passed away.

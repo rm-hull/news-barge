@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Winter Fuel Payment recipients soared by 9.6 million to 10.9 million
   in England and Wales last winter after the Government widened eligibility.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21186452.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

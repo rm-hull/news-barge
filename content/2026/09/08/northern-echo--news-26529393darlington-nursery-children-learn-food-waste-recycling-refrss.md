@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Nursery-age children across Darlington are learning to recycle food waste
   with the help of a friendly kitchen caddy named Colin.
 image: https://www.thenorthernecho.co.uk/resources/images/21421806.jpg?type=og-image&xType=0&yType=180
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Chris Booth)*

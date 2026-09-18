@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Southampton firm NVD U.K. Ltd applies to keep 10 more goods vehicles
   and 10 trailers at its operating centre in Chester-le-Street, County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/19325251.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

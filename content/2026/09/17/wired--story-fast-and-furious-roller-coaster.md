@@ -9,6 +9,10 @@ description: Vin Diesel, the star of the series, didn’t make a planned appeara
   at the grand opening of its dynamite new theme park ride. But it didn’t stop his
   fans from having a good time.
 image: https://media.wired.com/photos/6aa442b0dc225a8b7147e278/191:100/w_1280,c_limit/We-Rode-New-Fast-Furious-Rollercoaster-Culture-2264810530.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
 ---
 
 Toward the end of my college days, I harbored a not-so-secret crush. She and I carried on a mild flirtation, dancing around the possibility of more, but it wasn’t until she found out I’d never seen *The Fast and the Furious* that she gave me an opening.

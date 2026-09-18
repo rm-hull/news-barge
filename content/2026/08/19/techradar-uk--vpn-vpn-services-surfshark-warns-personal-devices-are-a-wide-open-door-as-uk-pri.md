@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Personal smartphones have become unmonitored attack vectors, allowing
   low-level scammers to execute intelligence-grade operations on high-value targets
 image: https://cdn.mos.cms.futurecdn.net/LxFe2C42sDwvfzeJwuAj7U-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![UK Prime Minister Andy Burnham reacts as he meets with local business owners and guests during a visit to The Hub cafe on August 11, 2026 in Ilkeston, England.](https://cdn.mos.cms.futurecdn.net/LxFe2C42sDwvfzeJwuAj7U.jpg) 

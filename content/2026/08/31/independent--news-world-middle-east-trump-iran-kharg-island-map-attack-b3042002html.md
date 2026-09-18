@@ -9,6 +9,10 @@ description: The U.S military later said it had not launched overnight strikes o
   the strategically-important Kharg Island, which handles around 90 per cent of Iran’s
   oil exports
 image: https://static.independent.co.uk/2026/08/31/7/54/trump-kharg-2.JPG?trim=0,173,0,120&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump claimed Iran’s energy hub of Kharg Island has been “blown to smithereens” - alongside a AI video of an explosion.

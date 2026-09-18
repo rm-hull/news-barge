@@ -10,6 +10,12 @@ description: A new academic year has started across Congo despite concerns by pa
   and teachers that the country’s Ebola outbreak still poses risks to children in
   the epicenter
 image: https://static.independent.co.uk/2026/09/01/13/Congo_Ebola_37296.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Family & Parenting
+- Society & Culture
 ---
 
 A new academic year began across Congo on Tuesday despite concerns by parents and teachers that the country's Ebola outbreak still poses risks to children in the epicenter.

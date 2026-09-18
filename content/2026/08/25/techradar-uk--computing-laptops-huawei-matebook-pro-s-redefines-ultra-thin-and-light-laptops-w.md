@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: The latest Feature,/features,,features, breaking news, comment, reviews
   and features from the experts at TechRadar
 image: https://cdn.mos.cms.futurecdn.net/5zgeLkiUszoCEu6Q59fg65-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 You must confirm your public display name before commenting

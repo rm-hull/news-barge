@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: The mayor of Paris said an investigation would be launched into the incident,
   which left female employees "humiliated", according to a union representative.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d22e/live/141311a0-ab0b-11f1-b04e-03281e16415e.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A man wearing a backpack is out of focus in the foreground of the picture, which shows the entrance to the Eiffel Tower and a sign showing that it is closed.](https://ichef.bbci.co.uk/ace/standard/862/cpsprodpb/003c/live/32769c20-ab0b-11f1-8752-55e448d02b6b.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: M&S shoppers across the North East can now get their hands on one of
   its most sought-after festive treats after they returned to shelves this…
 image: https://www.thenorthernecho.co.uk/resources/images/21408577.jpg?type=og-image&xType=0&yType=510
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 M&S shoppers across the North East can now get their hands on one of its most sought-after festive treats after they returned to shelves this week.

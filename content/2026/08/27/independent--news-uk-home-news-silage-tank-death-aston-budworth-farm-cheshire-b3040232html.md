@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The men, aged 72 and 42, were rescued from the container but declared
   dead at the scene
 image: https://static.independent.co.uk/2026/03/02/20/07/Breaking-News.avif?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two men have died following an industrial accident at a farm on Cann Lane in Aston by Budworth, Cheshire Police announced. 

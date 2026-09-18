@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Findings based on workplace surveys conducted during 2024 presidential
   primary season
 image: https://static.independent.co.uk/2026/09/17/20/2054033618..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Society & Culture
 ---
 
 It doesn’t matter if you’re talking about politics in the office or not: new research shows it’s probably coming to work with you, anyway.

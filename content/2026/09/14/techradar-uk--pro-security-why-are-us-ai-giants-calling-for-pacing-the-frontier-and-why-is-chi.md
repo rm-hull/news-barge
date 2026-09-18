@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:18:14Z'
 published: '2026-09-14T00:00:00Z'
 description: AI companies say it is time to pace the frontier
 image: https://cdn.mos.cms.futurecdn.net/PRCsQfoXPXi2t4jsGwWr6L-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A human shakes a robot's hand in front of blue concentric circles](https://cdn.mos.cms.futurecdn.net/PRCsQfoXPXi2t4jsGwWr6L.jpg) 

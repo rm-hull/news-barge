@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A dog who had been missing in Harrogate for almost two weeks has been
   found alive – but faces surgery after suffering serious injuries during his ordeal.
 image: https://mmo.aiircdn.com/409/6a854c3b7b7fe516d47.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a854c3b7b7fe516d47.jpg) 

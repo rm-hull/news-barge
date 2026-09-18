@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Communities across North Yorkshire have been awarded funding to help
   them celebrate the arrival of the Lloyds Tour of Britain in the county.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Tour-of-Britain-2025-image-one-Pic-credit-swpix.com_.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Communities across North Yorkshire have been awarded funding to help them celebrate the arrival of the Lloyds Tour of Britain in the county.

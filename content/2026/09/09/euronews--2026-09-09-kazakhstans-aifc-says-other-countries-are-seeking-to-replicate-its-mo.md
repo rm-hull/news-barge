@@ -9,6 +9,12 @@ description: Kazakhstan’s financial hub says its model is attracting interest 
   as competition between financial centres intensifies, while limited market liquidity
   remains a key challenge.
 image: https://images.euronews.com/articles/stories/09/90/59/43/1200x675_cmsv2_95813332-5c09-5e96-b77b-27826e292d63-9905943.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ## Kazakhstan’s financial hub says its model is attracting interest abroad as competition between financial centres intensifies, while limited market liquidity remains a key challenge.

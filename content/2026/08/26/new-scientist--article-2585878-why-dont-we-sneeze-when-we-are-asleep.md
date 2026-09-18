@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Our readers don’t agree with this statement, and even broaden out their
   evidence base to their furry companions
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![A woman falls asleep in a deckchair during the sunny weather on Blackpool beach, in Blackpool, Lancashire, UK, Circa 1985. (Photo by Bryn Colton/Getty Images)](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg?w=840)

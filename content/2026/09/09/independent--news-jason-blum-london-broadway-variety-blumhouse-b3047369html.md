@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Movie producer Jason Blum, known for revolutionizing horror films, praises
   a stage adaptation of his “Paranormal Activity” franchise
 image: https://static.independent.co.uk/2026/09/09/15/Theater_-_Paranormal_Activity_38921.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 Movie producer Jason Blum, who has revolutionized the modern horror genre, gets invited, as you might expect, to tons of plays billed as scary.

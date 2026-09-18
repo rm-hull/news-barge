@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T12:01:16Z'
 published: '2026-08-26T00:00:00Z'
 description: McDonalds drive-thru facing a fresh fight - against tree blight.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21157936.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 ### What is the Public Notice Portal?

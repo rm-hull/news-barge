@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A missing 75-year-old woman from East Yorkshire has been found safe and
   well, police said.
 image: https://www.gazetteherald.co.uk/resources/images/13369636.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: PA)*

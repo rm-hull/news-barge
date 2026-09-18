@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The construction of three new parks was given the green light after a
   €6bn investment from Saudi Arabia.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ![A graphic from the Dragon Ball Z comic is seen displayed on a wall above several people on computers](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg)

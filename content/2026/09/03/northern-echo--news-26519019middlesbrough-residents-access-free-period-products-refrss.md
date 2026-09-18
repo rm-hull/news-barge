@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Residents can now access free period products at Middlesbrough's community
   hubs and libraries as part of efforts to tackle period poverty.
 image: https://www.thenorthernecho.co.uk/resources/images/21319927.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Free period products are being made available throughout Middlesbrough, ensuring residents can access essential items when they need them.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A new camera angle shows the ball coming off Nottingham Forest defender
   Neco Williams' arms as he scores his disallowed goal against Tottenham.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0725/live/0a71fe30-aaa3-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 New camera angle shows the ball hitting Williams' arm in the lead-up to disallowed goal

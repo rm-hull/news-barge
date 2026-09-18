@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A NEW project shining a light on ‘forgotten suffragettes’ will be launched
   this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21451346.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A NEW project shining a light on ‘forgotten suffragettes’ will be launched this weekend.

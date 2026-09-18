@@ -9,6 +9,10 @@ description: The cycling legend tells BBC Scotland that the onus to encourage me
   to get tested for prostate cancer should not just be on high profile individuals
   like him.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8759/live/66433610-9faf-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Chris Hoy says men must understand their prostate cancer risk

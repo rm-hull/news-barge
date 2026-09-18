@@ -10,6 +10,10 @@ description: Arsenal will face holders Barcelona and record winners Lyon in the 
   Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern
   Munich.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d77/live/f5a0f4e0-a85c-11f1-ae45-e9984fc27c77.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Arsenal striker Alessia Russo celebrates scoring against Lyon](https://ichef.bbci.co.uk/ace/standard/615/cpsprodpb/0d77/live/f5a0f4e0-a85c-11f1-ae45-e9984fc27c77.jpg)

@@ -7,6 +7,8 @@ scraped_at: '2026-08-21T08:54:23Z'
 published: '2026-08-21T00:00:00Z'
 description: Critical infrastructure faces a common challenge
 image: https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A digital grid criss-crossing the lights of a city below](https://cdn.mos.cms.futurecdn.net/aBt4xDYv6hbiB3JyuDnEuM.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A sea eagle that confounded experts by surviving with a broken wing has
   been spotted back above Scotland's west coast.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![The image shows a sea eagle with a marked bump in its left wing - its wings spread against the background of a grey sky.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/38af/live/acdb7c20-a79f-11f1-aed2-8d6da8d75094.jpg)

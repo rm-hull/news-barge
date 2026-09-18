@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T08:52:32Z'
 published: '2026-08-20T00:00:00Z'
 description: Overall pass rates have now settled back to pre-Covid levels
 image: https://static.independent.co.uk/2026/08/20/09/2291241386..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Top grades for GCSE entries have seen an increase compared with 2025, though overall pass rates have now settled back to pre-pandemic levels, according to national data.

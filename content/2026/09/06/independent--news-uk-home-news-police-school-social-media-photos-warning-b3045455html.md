@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Parents need to be aware of details that can be exploited by AI tools,
   caution watchdogs
 image: https://static.independent.co.uk/2026/06/04/14/04135015-1d073687-4c08-46ce-b465-e4d1687664d6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Police forces and online safety watchdogs across the UK are urging parents to think twice before sharing back-to-school photos on social media.

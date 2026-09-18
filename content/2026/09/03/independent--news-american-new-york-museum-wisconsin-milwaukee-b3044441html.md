@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Bobbleheads, those quirky figurines with oversized, springy heads, have
   become a beloved pop culture icon in America
 image: https://static.independent.co.uk/2026/09/03/21/America_25__Objects_Bobblehead_36768.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Comedy & Entertainment
 ---
 
 It's all in the name. Bobble. Head.

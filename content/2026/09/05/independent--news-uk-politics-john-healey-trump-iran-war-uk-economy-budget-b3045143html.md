@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:49:18Z'
 published: '2026-09-05T00:00:00Z'
 description: John Healey is set to deliver a key speech on the economy on Monday
 image: https://static.independent.co.uk/2026/08/27/12/01M11GYSSK5HCA2R24E62PDGSX.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The Chancellor has warned of a difficult autumn Budget as the British economy faces the impact of US president Donald Trump’s war in the Middle East.

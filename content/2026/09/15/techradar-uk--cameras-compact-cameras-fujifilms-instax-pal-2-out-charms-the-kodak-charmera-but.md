@@ -10,6 +10,8 @@ description: Fujifilm has unveiled the Instax Pal 2, only the retro compact came
   design is nothing like the original — it takes aim at the Kodak Charmera and features
   twin displays. However, it can't match the Charmera's low price tag
 image: https://cdn.mos.cms.futurecdn.net/6ktBgFmJmWH2CTvTEe8KU3-2500-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Fujifilm Instax Pal 2 compact camera in person's hands at night with neon lights in the background](https://cdn.mos.cms.futurecdn.net/6ktBgFmJmWH2CTvTEe8KU3.jpg) 

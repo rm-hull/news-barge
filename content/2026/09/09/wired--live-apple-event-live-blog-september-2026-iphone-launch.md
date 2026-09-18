@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Get all the news when it happens, as our reporters bring you live updates
   from Apple Park, the company’s headquarters in Cupertino, California.
 image: https://media.wired.com/photos/6a9725dc72949d665b63352f/191:100/w_1280,c_limit/Apple-Live-Blog-Gear-1178079028.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Good morning everyone! Welcome to our live coverage of today's Apple media showcase.

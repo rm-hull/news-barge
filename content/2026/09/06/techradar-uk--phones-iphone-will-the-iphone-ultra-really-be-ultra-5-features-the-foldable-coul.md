@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Apple's first foldable phone will probably be very expensive yet might
   lack several major features found on other iPhones.
 image: https://cdn.mos.cms.futurecdn.net/UMXPMhSxLwjs5j7URVUMXD-1600-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A foldable iPhone concept against a multi-colored background.](https://cdn.mos.cms.futurecdn.net/UMXPMhSxLwjs5j7URVUMXD.jpg) 

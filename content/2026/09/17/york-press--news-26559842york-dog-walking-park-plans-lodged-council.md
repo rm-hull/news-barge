@@ -7,6 +7,12 @@ scraped_at: '2026-09-17T19:42:46Z'
 published: '2026-09-17T00:00:00Z'
 description: Plans for a new dog walking spot in York have been lodged.
 image: https://www.yorkpress.co.uk/resources/images/21469390.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Travel
+- Outdoors & Nature
 ---
 
 ## New dog walking park with 'distinctive rural feel' could be coming to York

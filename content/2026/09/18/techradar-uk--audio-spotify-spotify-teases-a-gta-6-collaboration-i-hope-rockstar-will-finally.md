@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Spotify's mysterious billboards point to the streamer's involvement in
   GTA 6, which could include account integration.
 image: https://cdn.mos.cms.futurecdn.net/DaoW3R2z3NM8seL2WEAqoh-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A Spotify GTA 6 billboard next to a promo photo for GTA 6](https://cdn.mos.cms.futurecdn.net/DaoW3R2z3NM8seL2WEAqoh.jpg) 

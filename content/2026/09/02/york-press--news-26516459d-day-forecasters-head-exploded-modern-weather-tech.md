@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A veteran RAF meteorologist from North Yorkshire has described how Jim
   Stagg’s “head would have exploded” if the D-Day forecaster had access…
 image: https://www.yorkpress.co.uk/resources/images/21402714.jpg?type=og-image
+categories:
+- Local
+- York
+- Science
+- History
+- Technology & Software
 ---
 
 *(Image: PA Wire)*

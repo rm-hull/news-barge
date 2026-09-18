@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Investigation work at the scene of last month's fatal fire at a large
   building in Batley remains ongoing, police have said.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21104997.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

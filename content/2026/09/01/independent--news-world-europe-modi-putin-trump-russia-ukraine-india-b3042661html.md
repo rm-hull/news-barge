@@ -9,6 +9,9 @@ description: The Russian president didn’t like what Narendra Modi told him but
   PM is trying to keep the global gang together, explains world affairs editor Sam
   Kiley
 image: https://static.independent.co.uk/2026/09/01/10/2292456192..?trim=17,0,17,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Authoritarian populists like Vladimir Putin know that when fellow anti-democrats start calling them “my friend”, the writing may be on the wall.

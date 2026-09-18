@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Telecoms company to benefit from soaring prices for recycled metal recovered
   from full-fibre broadband rollout
 image: https://i.guim.co.uk/img/media/259f9d4ca52c567d9b6f1afd244f15e8c5317bf9/373_367_2946_2356/master/2946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=82af4e9abf4c0a14ff8a54ace909e60d
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 BT is on track for an estimated £2bn-plus windfall over the next decade from selling off old copper cabling, as it cashes in on soaring prices amid the AI market frenzy and switches the UK’s network to full-fibre broadband.

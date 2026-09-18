@@ -10,6 +10,9 @@ description: Chanda Prescod-Weinstein, New Scientist columnist and author of the
   read for the New Scientist Book Club, The Edge of Space-Time, on why the big questions
   in physics matter so much
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659943.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308659943.jpg?w=840)

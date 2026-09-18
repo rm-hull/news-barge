@@ -10,6 +10,10 @@ published: '2026-09-07T00:00:00Z'
 description: 'Warlock: Dungeons & Dragons draws much inspiration from the TTRPG, but
   Invoke Studios says the game will still offer mystery for experienced D&D players.'
 image: https://cdn.mos.cms.futurecdn.net/4t9mHZ2DZq7ZqJMPidyyHj-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
+- Video Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/4t9mHZ2DZq7ZqJMPidyyHj.jpg) 

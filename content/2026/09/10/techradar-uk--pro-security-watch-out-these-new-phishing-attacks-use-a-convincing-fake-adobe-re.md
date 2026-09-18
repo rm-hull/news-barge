@@ -8,6 +8,8 @@ scraped_at: '2026-09-10T19:06:38Z'
 published: '2026-09-10T00:00:00Z'
 description: Crooks are deploying cheeky browser-in-the-browser techniques
 image: https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![PDF](https://cdn.mos.cms.futurecdn.net/ncL98vteKnP9dydmNAHGqN.png) 

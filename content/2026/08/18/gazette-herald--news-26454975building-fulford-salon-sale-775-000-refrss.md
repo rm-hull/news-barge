@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: An eight-bedroom property in Fulford, with apartments and a salon, is
   up for sale for offers over £775,000.
 image: https://www.gazetteherald.co.uk/resources/images/21302391.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Real Estate
 ---
 
 An eight-bedroom property in Fulford is up for sale for offers over £775,000.

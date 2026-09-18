@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T20:42:48Z'
 published: '2026-08-24T00:00:00Z'
 description: AMD says it is already beating its own energy efficiency goals
 image: https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM-1781-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/57WmYG5XhZW4LrESt9okBM.jpg) 

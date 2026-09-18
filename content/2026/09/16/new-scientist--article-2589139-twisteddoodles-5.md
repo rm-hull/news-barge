@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T19:32:33Z'
 published: '2026-09-16T00:00:00Z'
 description: This week's cartoon from Twisteddoodles
 image: https://www.newscientist.com/wp-content/uploads/2024/04/17102106/new-scientist-social-meta-image.png
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312417169.jpg?w=840)

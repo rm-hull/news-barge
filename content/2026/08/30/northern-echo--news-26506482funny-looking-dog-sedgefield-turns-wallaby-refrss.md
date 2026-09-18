@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: A Sedgefield man was left stunned on his journey to work when a “funny-looking
   dog” at the side of the road turned out to be what he believes…
 image: https://www.thenorthernecho.co.uk/resources/images/21387923.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A County Durham man thought he was hallucinating on his journey to work when he spotted what appeared to be an escaped wallaby at the side of the road.

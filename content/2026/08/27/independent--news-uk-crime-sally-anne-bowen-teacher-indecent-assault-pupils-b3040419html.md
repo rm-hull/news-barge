@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:28Z'
 published: '2026-08-27T00:00:00Z'
 description: Sally-Anne Bowen was found guilty at Harrow Crown Court on Thursday
 image: https://static.independent.co.uk/2026/08/24/10/01M0SGGF6XEKQF54YV0DTTJKSE.jpg?trim=44,194,511,318&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A chemistry teacher has been convicted of having sexual relationships with two teenage pupils at an all-boys school back in the late 1980s.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Analysis of 29 studies highlights potentially heightened danger from
   small particulate matter and nitrogen dioxide
 image: https://i.guim.co.uk/img/media/419f9e3a0e1be81c44171ccd8d552486224f5a18/498_0_5020_4016/master/5020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7a8c9d43186b99794c7c7bc3c98937b
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Air pollution is associated with an increased risk of suicide and suicidal thoughts, according to research.

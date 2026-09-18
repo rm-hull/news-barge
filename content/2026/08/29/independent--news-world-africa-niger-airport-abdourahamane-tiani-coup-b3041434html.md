@@ -7,6 +7,9 @@ scraped_at: '2026-08-29T13:49:41Z'
 published: '2026-08-29T00:00:00Z'
 description: Attack marks the latest threat to the rule of Abdourahamane Tiani
 image: https://static.independent.co.uk/2026/08/29/11/2291885874..?trim=0,316,0,316&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Gunfire and explosions rang out across several areas of Niger's capital on Saturday mroning, including the airport and near the presidency, in what has been described as an attack by mutinous soldiers.

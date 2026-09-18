@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Iran says El Gaia caught fire after hitting mines, but the US says the
   oil tanker was struck by a missile and then a drone.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Handout photo from Oman's Maritime Security Centre showing a fire on board the Panama-flagged oil tanker El Gaia, in the Strait of Hormuz, off the coast of Oman](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Wetherspoon pubs have introduced a ban on people playing music or taking
   calls on speaker due to the issue of noise
 image: https://www.yorkpress.co.uk/resources/images/21333632.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: Getty Images)*

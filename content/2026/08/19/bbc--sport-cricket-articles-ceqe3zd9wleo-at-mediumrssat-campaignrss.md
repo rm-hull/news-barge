@@ -10,6 +10,10 @@ description: England seamers Josh Tongue and Ollie Robinson find a solution as t
   who keeps the ball after the both claim a five-wicket haul at Headingley - split
   it in half.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0299/live/bb922da0-9c1d-11f1-ae5d-4b5a57168e23.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The halved cricket ball](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/0299/live/bb922da0-9c1d-11f1-ae5d-4b5a57168e23.jpg)

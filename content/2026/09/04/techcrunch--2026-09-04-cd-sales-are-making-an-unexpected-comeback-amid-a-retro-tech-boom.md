@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last
   year’s decline as interest in retro tech and physical media continues to grow.
 image: https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Retro tech is making a comeback, and this week, the Recording Industry Association of America (RIAA) put hard numbers to that trend in terms of music consumption habits. Surprisingly, the organization reported that CDs — yes, the shiny, round things that Spotify supposedly killed — are growing once again.

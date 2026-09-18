@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Three men are due in court after police recovered heroin and crack cocaine
   with a street value worth more than £100,000 in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18740769.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

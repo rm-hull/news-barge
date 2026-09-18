@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Microbats and wombats among the most common species found in buildings,
   with some discovered in letter boxes or air conditioning systems
 image: https://i.guim.co.uk/img/media/6b16d8832e49ea2ff32254b75ca95733db69b7ec/195_1641_2455_1964/master/2455.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e91dd292685b438b13b266a1d3b79d5
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Possums in the roof, bats in the curtains and ducks on the balcony: new research has revealed how native animals are making themselves at home in our houses.

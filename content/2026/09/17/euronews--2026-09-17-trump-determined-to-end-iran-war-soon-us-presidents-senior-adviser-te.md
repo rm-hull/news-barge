@@ -9,6 +9,10 @@ description: Massad Boulos, senior adviser to the US president on Arab and Middl
   Eastern affairs, said Donald Trump was working to end the months-long war, pointing
   out he was a "person who delivers".
 image: https://images.euronews.com/articles/stories/09/91/77/13/1200x675_cmsv2_4c44ca5b-6b3d-5bd7-8175-cba994e67722-9917713.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Massad Boulos, senior adviser to the US president on Arab and Middle Eastern affairs, said Donald Trump was working to end the months-long war, pointing out he was a "person who delivers".

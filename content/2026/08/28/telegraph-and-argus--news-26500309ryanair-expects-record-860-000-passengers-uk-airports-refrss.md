@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: RYANAIR expects to carry a record number of passengers from UK airports
   this bank holiday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20305376.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Police is appealing for information to locate 26-year-old
   Ethan Anderson, who is wanted on recall to prison for breaching his…
 image: https://www.gazetteherald.co.uk/resources/images/21430332.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

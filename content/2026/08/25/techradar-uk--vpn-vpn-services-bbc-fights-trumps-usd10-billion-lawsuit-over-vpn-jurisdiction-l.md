@@ -9,6 +9,10 @@ description: The British broadcaster warns that allowing unauthorized VPN stream
   to establish legal jurisdiction could upend international law for foreign media
   companies
 image: https://cdn.mos.cms.futurecdn.net/JVkUNJkcVerxuwptkNLt9k-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![US President Donald Trump speaks to the press as he signs an executive order to create a US sovereign wealth fund, in the Oval Office of the White House on February 3, 2025, in Washington, DC.](https://cdn.mos.cms.futurecdn.net/JVkUNJkcVerxuwptkNLt9k.jpg) 

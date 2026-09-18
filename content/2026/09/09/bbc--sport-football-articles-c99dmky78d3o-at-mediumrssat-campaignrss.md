@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Spanish second-division side Eldense say Argentina great Lionel Messi
   has reached a "preliminary agreement" to become the club's majority shareholder.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lionel Messi holding his arms aloft in celebration while playing for Inter Miami](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg)

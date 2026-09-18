@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: In new court filings, the FCA is accused of making decisions partly led
   by a desire to limit the financial strain to lenders.
 image: https://static.independent.co.uk/2026/09/01/13/64131f2931799ab2839899c828e28557Y29udGVudHNlYXJjaGFwaSwxNzg4MzUwODIw-2.84119677.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The UK’s financial watchdog prioritised making its £9.1 billion motor finance compensation scheme cheaper for lenders over protecting drivers, a consumer rights group has claimed.

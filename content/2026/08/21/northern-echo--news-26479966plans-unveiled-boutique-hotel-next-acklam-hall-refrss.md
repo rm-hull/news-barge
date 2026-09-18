@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: New plans have been unveiled for a new 59 bedroom boutique hotel next
   to the Grade I Listed Acklam Hall in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21344980.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Shopping & Deals
 ---
 
 ### What is the Public Notice Portal?

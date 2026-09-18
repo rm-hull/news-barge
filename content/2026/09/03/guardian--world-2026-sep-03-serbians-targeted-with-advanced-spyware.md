@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Student protesters among those hacked, says digital rights group, though
   Aleksandar Vučić’s government denies spying
 image: https://i.guim.co.uk/img/media/ae0aac5465ad3cebc026a1a93415ec31b229a2d8/475_0_4740_3793/master/4740.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78bf7155a9427303fd4d86386c57289e
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this year in what the digital rights group Share Foundation said was the largest documented wave of such infection in Serbia to date.

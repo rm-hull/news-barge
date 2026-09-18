@@ -9,6 +9,10 @@ description: Key speech to be delivered this week at Jackson Hole said to focus 
   productivity and demographics in the US. Plus, how do you vaccinate 1,000 little
   penguins in the wild?
 image: https://i.guim.co.uk/img/media/8a52e2628172d7b6407f8757a2519cd195ecc884/704_0_5417_4335/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d61264bc52e024e3e598f803c995171d
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Good morning. The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans. As the world’s most powerful central bank prepares for its annual Jackson Hole conference, analysts said bond traders would be looking for signals from Warsh over its commitment to fighting inflation.

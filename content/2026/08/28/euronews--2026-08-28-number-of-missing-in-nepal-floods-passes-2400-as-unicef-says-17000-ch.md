@@ -9,6 +9,10 @@ description: Rescuers were battling through mud even as the threat of new floods
   with emergency teams recovering 586 bodies so far and some of the dead swept downstream
   as far away as India.
 image: https://images.euronews.com/articles/stories/09/89/34/97/1200x675_cmsv2_c4700f6d-725d-5d15-871c-2e627e7f61ce-9893497.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Rescuers were battling through mud even as the threat of new floods loomed, with emergency teams recovering 586 bodies so far and some of the dead swept downstream as far away as India.

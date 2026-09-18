@@ -10,6 +10,11 @@ description: The NBA has handed down one of the biggest punishments in the histo
   of the league to the Clippers after finding the franchise circumvented salary cap
   rules
 image: https://i.guim.co.uk/img/media/99da623fca83b071d9dfa81bf378da8a04f5a26c/359_0_3595_2877/master/3595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24b7be27321d1065c277fde6ba2daf3e
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 The NBA has handed down one of the biggest punishments in the history of the league to the Los Angeles Clippers after finding that the franchise circumvented salary cap rules when it courted Kawhi Leonard as a free agent.

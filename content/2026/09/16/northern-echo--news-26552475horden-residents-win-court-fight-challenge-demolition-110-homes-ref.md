@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Residents fighting to save their County Durham homes from demolition
   have spoken of their relief after winning the first stage of their High Court…
 image: https://www.thenorthernecho.co.uk/resources/images/21458613.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

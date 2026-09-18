@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Viewers are being urged to retune their TVs after nine channel changes
   were made in the latest Freeview update on September 16, 2026.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20947484.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 *(Image: Getty Images/Freeview)*

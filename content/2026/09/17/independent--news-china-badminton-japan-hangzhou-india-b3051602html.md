@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Asian Games are larger in numbers than the Summer Olympics, which
   gives you an idea of the magnitude and logistics
 image: https://static.independent.co.uk/2026/09/17/02/Asian_Games_Preview_16189.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 How big are the Asian Games?

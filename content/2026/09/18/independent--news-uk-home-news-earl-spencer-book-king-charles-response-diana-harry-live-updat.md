@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Future King’s reaction ‘reflected how this might free him to marry the
   woman he loved’, Diana’s brother says
 image: https://static.independent.co.uk/2026/09/18/09/51028098..?trim=61,0,61,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The late Queen offered to restore Diana’s HRH title on the day of her funeral, Earl Spencer has claimed.

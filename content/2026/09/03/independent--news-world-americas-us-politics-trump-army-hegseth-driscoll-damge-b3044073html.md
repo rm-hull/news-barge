@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Hegseth, a former Fox News host, has publicly declared that he wants
   to drastically change the Department of Defense
 image: https://static.independent.co.uk/2026/09/02/10/2293012597..?trim=157,0,157,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The outgoing U.S. Army Secretary Dan Driscoll accused the defense secretary of doing “generational damage” to the military, according to a report.

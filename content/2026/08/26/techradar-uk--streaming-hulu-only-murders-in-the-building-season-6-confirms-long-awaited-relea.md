@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: We finally know when Only Murders in the Building season 6 will be landing
   on Hulu and Disney+ — but I wish it hadn't made one unnecessary change.
 image: https://cdn.mos.cms.futurecdn.net/6VPsLQjta8qhTdVHXQiYcS-1920-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Charles, Mabel and Oliver have tea on a sofa](https://cdn.mos.cms.futurecdn.net/6VPsLQjta8qhTdVHXQiYcS.jpg) 

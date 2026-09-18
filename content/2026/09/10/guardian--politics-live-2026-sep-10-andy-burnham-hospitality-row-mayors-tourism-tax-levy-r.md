@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Downing Street gives more details of plan, saying it would be charged
   as a percentage of accommodation costs, not a flat fee
 image: https://i.guim.co.uk/img/media/45115f572138b196d42a0a1c618e0c98b21a3cc2/797_159_3160_2528/master/3160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7863bc3d8760f9f044d66ba9a073a1b0
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 No 10 says visitor levy in England will mean communities keep 'more of the benefits of tourism'

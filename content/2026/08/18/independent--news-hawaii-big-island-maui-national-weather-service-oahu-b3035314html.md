@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Recovery efforts are underway in Hawaii after Tropical Storm Lala battered
   the archipelago and caused destructive flooding and widespread power outages
 image: https://static.independent.co.uk/2026/08/17/17/Tropical_Weather_Hawaii_Extreme_Weather_31426.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Crews were working to restore power to thousands of Hawaii residents Tuesday after the outer bands of Lala battered the archipelago over the weekend, causing destructive flooding and killing one person, before weakening from a hurricane to a tropical storm.

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Symptoms include abdominal pain, severe tiredness, and feeling generally
   unwell
 image: https://static.independent.co.uk/2026/08/27/15/29/iStock-2211291151.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Diagnoses of a liver condition linked to obesity and type 2 diabetes have increased fivefold over a decade, according to a new study.

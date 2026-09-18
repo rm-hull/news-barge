@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A recent paper argues that AI is often better at doctoring than doctors.
   Guess who isn't thrilled.
 image: https://media.wired.com/photos/6a909d466b1fcc4b68700cd4/191:100/w_1280,c_limit/Backchannel-AI-Doctors-Business-1267508918.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Don’t be fooled by the question mark in the title of an article published this month in the Journal of the American Medical Association. When the authors, including medical superstar Ezekiel Emanuel and venture capitalist Vinod Khosla, asked, “Will Autonomous AI Exceed AI-Physicians as the Best Medical Care?” they were being rhetorical. Their answer is an emphatic YES. Many in the medical world are begrudgingly coming to terms with the premise that patients can get the best treatment by a hybrid approach where doctors work in consultation with well-trained bots. But this article’s thesis is that AI *alone* can deliver the best outcomes.

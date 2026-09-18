@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’
   after far-right victory in Saxony-Anhalt
 image: https://i.guim.co.uk/img/media/1fcd2115a5ad282859f294cc943341055dff9b93/0_0_6327_5063/master/6327.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcddaee94186e616e1243ebf0cfd6b65
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election that has brought anti-immigrant, pro-Kremlin politicians within striking distance of power.

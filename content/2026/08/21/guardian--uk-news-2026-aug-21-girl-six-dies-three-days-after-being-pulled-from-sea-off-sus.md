@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Saja El-Khawas had been in critical condition after being pulled from
   sea in West Sussex
 image: https://i.guim.co.uk/img/media/bb3ce51e64a8105ed15299f9251115b4ba955d33/520_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd7739c7bfe7ff2087bb5ae8cc9280bf
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A six-year-old girl has died in hospital three days after being pulled from the sea off Shoreham in West Sussex, in an incident that also killed her mother, father and sister.

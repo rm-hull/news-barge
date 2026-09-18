@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Left-wing opposition parties led by Magdalena Andersson look set to form
   the next government.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Ulf Kristersson, who has short brown hair and round glasses, poses for the cameras in a TV studio before a debate ahead of the election](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg)

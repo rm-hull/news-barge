@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A salon owner has described the launch of her second business as a "huge
   milestone" after opening a new premises in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21447253.jpg?type=og-image&xType=0&yType=739
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A salon owner has described the launch of her second business as a "huge milestone" after opening a new premises in Darlington.

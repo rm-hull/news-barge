@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Open earbuds are tricky to get right, so are Amazon's super bargain buds
   really worth your time?
 image: https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Three pairs of open earbuds pictured in their charging case on a wooden surface](https://cdn.mos.cms.futurecdn.net/fpWCwMY7qXkjUvskiAEz7U.jpg) 

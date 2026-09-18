@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Reacher spinoff Neagley arrives on Prime Video on September 16 — and
   it'll solve one of the biggest mysteries we've sat with for years.
 image: https://cdn.mos.cms.futurecdn.net/YboGzbiBu5Xg5UcSF97zA5-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Neagley looks at something offscreen](https://cdn.mos.cms.futurecdn.net/YboGzbiBu5Xg5UcSF97zA5.jpg) 

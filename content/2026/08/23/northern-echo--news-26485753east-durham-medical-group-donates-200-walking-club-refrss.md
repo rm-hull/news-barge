@@ -8,6 +8,13 @@ published: '2026-08-23T00:00:00Z'
 description: A County Durham medical group has donated £200 to a walking club after
   a drop in income threatened to affect its activities, highlighting the…
 image: https://www.thenorthernecho.co.uk/resources/images/21357139.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

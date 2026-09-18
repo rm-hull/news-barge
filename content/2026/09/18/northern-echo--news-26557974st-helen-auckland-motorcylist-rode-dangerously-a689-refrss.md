@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: John Bentley, 20, of St Helen Auckland, received a suspended 24-week
   sentence at Peterlee Magistrates’ Court after admitting riding a motorcycle…
 image: https://www.thenorthernecho.co.uk/resources/images/19733238.jpg?type=og-image&yType=592
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: The Northern Echo)*

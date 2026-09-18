@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Grants and expert advice are helping businesses grow and revitalise the
   high street in Pocklington.
 image: https://www.yorkpress.co.uk/resources/images/21451646.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

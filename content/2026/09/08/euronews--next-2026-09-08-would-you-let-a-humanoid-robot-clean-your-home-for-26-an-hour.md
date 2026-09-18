@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The company says demand is growing, with prospective customers now joining
   a waiting list.
 image: https://images.euronews.com/articles/stories/09/90/44/54/1200x675_cmsv2_fde49ccd-a3ed-507f-b5d4-f90c572032cd-9904454.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## The company says demand is growing, with prospective customers now joining a waiting list.

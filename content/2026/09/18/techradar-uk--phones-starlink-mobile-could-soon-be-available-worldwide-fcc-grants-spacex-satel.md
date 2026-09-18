@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Starlink Mobile now has FCC authorization to operate globally, so it
   could soon become a mobile powerhouse.
 image: https://cdn.mos.cms.futurecdn.net/cHBeEddBzHteQrko8xM5ZM-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Starlink](https://cdn.mos.cms.futurecdn.net/cHBeEddBzHteQrko8xM5ZM.jpg) 

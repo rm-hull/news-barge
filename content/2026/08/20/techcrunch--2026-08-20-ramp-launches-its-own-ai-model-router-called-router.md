@@ -9,6 +9,9 @@ description: Ramp has launched its own AI model routing service, dubbed Router, 
   lets users and companies use and switch between various large language models via
   an API.
 image: https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Corporate expense management platform Ramp is hot on the heels of Stripe in setting up toll houses for AI inference.

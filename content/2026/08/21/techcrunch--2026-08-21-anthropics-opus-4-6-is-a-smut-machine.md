@@ -9,6 +9,8 @@ description: Anthropic forbids its Claude models from generating sexually explic
   content. But a series of tests conducted by TechCrunch found that it didn't take
   much to get past the restriction.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915
+categories:
+- Technology & Software
 ---
 
 Anthropic’s universal usage standards for Claude forbid the model from generating sexually explicit content, including depicting or requesting sexual intercourse or sex acts, generating content related to sexual fetishes or fantasies, or engaging in erotic chats. But that hasn’t stopped Claude Opus 4.6, an Anthropic model released earlier this year, from readily engaging in erotic role-play scenarios that its safeguards are designed to prevent.

@@ -9,6 +9,11 @@ description: Thinking about your first Oktoberfest? Readers say it's all about p
   ahead, pacing yourself and looking after your friends. Unfortunately, The Local's
   Tom Pugh had to learn those lessons the hard way.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-11350255.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Education & Learning
 ---
 
 When The Local recently asked readers to share their top tips for a successful Oktoberfest, the advice was strikingly consistent – reserve early, bring cash, avoid overdoing it and have a plan.

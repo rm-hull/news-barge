@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: I DIDN'T know much about Public Service Broadcasting, but I liked their
   name. Being a bit late to the party, I had to do some homework on the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363861.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Technology & Software
 ---
 
 I DIDN'T know much about Public Service Broadcasting, but I liked their name. Being a bit late to the party, I had to do some homework on the 'London-based masters of conceptual pop historiography' ahead of their gig at Piece Hall.

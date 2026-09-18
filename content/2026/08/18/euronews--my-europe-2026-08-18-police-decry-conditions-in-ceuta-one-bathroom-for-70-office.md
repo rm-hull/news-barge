@@ -9,6 +9,9 @@ description: 'Complaints about the conditions have already been formally submitt
   and the CEP expects measures to be taken as soon as possible to remedy the shortcomings
   and resolve the situation. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/91/24/1200x675_cmsv2_ba4eaeb6-4f5e-5fe8-8b72-8b518fa252b5-9879124.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Complaints about the conditions have already been formally submitted and the CEP expects measures to be taken as soon as possible to remedy the shortcomings and resolve the situation.

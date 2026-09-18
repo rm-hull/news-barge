@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: U.S. Customs and Border Protection faces criticism after a watchdog group
   warns that forced labor persists on sugarcane fields in the Dominican Republic
 image: https://static.independent.co.uk/2026/08/18/20/Dominican_Republic_US_Forced_Labor_15671.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 U.S. Customs and Border Protection faced scrutiny Thursday after a watchdog group warned that forced labor persists on sugarcane fields in the Dominican Republic, which exports large amounts of sugar and other products to the U.S.

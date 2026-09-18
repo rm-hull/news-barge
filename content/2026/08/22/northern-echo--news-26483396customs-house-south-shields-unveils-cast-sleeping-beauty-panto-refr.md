@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Dame Bella and Dennis return to the stage this Christmas as The Customs
   House, in South Shields, brings a fresh twist to Sleeping Beauty.
 image: https://www.thenorthernecho.co.uk/resources/images/21352754.jpg?type=og-image&xType=0&yType=267
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Scott Akoz)*

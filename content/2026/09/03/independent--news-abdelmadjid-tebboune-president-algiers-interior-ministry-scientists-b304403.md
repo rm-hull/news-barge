@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Algerian firefighters are battling unprecedented wildfires that have
   devastated the country
 image: https://static.independent.co.uk/2026/09/03/10/Algeria_Wildfires_3_445.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 Algerian firefighters are struggling against an unprecedented wave of deadly and devastating wildfires that have prompted the president to call for reinstating the death penalty for arsonists.

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Ranchers in northern Mexico are preparing to resume cattle exports to
   the U.S. as a yearlong ban ends
 image: https://static.independent.co.uk/2026/08/22/11/Mexico_US_Cattle_Screwworm_12564.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 At daybreak, rancher Martín Alfonso Ibarra takes advantage of the cooler hours in northern Mexico’s desert to oversee the milking of his cows and tend to 16 prized calves. Soon, he hopes, they will be headed north to the United States as a yearlong ban on Mexican cattle imports comes to an end.

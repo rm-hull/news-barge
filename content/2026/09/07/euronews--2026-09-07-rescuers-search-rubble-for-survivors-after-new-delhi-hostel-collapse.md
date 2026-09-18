@@ -9,6 +9,10 @@ description: Building collapses are a recurring hazard in parts of India during 
   June-to-September monsoon season, when heavy or prolonged rain can weaken older
   structures.
 image: https://images.euronews.com/articles/stories/09/90/42/81/1200x675_cmsv2_c98e65de-2769-5bbd-bb6c-72ed618908e3-9904281.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Building collapses are a recurring hazard in parts of India during the June-to-September monsoon season, when heavy or prolonged rain can weaken older structures.

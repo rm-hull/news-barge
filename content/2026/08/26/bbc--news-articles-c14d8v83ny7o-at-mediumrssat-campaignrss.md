@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The announcement comes as Burnham holds his first official visit to Wales
   since becoming prime minster.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b9/live/b1b9ec70-a17a-11f1-87d4-e91caee13898.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Andy Burnham wearing a black suit and white shirt, looking to the left of the frame of the photograph. The picture is a close up with most of Burnham out of shot bar his head and shoulders.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/68b9/live/b1b9ec70-a17a-11f1-87d4-e91caee13898.jpg)

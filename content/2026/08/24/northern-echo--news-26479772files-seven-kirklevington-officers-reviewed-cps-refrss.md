@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Police are awaiting a decision on whether to charge seven officers of
   the "torture camp" Kirklevington Detention Centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21345533.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Police are awaiting a decision on whether to charge seven officers of a "torture camp" detention centre.

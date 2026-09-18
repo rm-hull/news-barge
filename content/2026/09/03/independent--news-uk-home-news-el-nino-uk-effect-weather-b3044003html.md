@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Forecasters warn the El Nino will peak towards the end of this year and
   last until spring 2027
 image: https://static.independent.co.uk/2026/09/03/9/19/Screenshot-2026-09-03-at-10-13-50.png?trim=0,63,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The risk of floods, drought and extreme heat is expected to intensify as forecasters warn it is almost certain that this year's El Nino will develop into a very strong event in the coming months.

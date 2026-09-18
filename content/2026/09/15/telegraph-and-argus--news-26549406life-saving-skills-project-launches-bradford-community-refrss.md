@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:12Z'
 published: '2026-09-15T00:00:00Z'
 description: A NEW project is bringing life-saving skills to Yorkshire communities.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19515582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Freelance)*

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: An exit slip road near Bradford was closed after a shed load of offal
   was spilled this morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21372065.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Highways England)*

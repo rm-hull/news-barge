@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:16:48Z'
 published: '2026-08-28T00:00:00Z'
 description: David Zinsner, chief financial officer of Intel, boasted at a conference
 image: https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Intel silicon spin qubit progress](https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC.jpg) 

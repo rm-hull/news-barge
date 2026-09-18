@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Tadcaster-based Sam Smith’s brewery appears to be selling a growing number
   of its pubs.
 image: https://www.yorkpress.co.uk/resources/images/21442296.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Fleurets)*

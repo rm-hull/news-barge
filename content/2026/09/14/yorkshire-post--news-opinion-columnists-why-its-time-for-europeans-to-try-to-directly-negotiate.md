@@ -10,6 +10,12 @@ description: Britain is now heavily involved in two ongoing military conflicts. 
   such circumstances the debate about how strongly we get involved and which of the
   consequences the public is prepared to accept needs to be much clearer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYzNGY0OTg4LWQyYTMtNDBjOS1hNjY2LTY4NjI5Y2NhOTllZTowMzAwMTc2Zi1kNWM3LTQ1M2EtYjc1Yi0xMmJmOGYyYTE3ZDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- History
 ---
 
 # Why it’s time for Europeans to try to directly negotiate a peace deal with Vladimir Putin - Andy Brown

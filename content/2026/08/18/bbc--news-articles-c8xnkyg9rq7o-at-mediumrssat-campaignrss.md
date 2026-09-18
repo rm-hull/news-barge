@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Around 400 homes in Benenden, Cranbrook and Rolvenden continue to be
   affected, South East Water says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c905/live/24feaf40-9acd-11f1-ad7d-21d5090bbb0d.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A sign at the water station in Cranbrook, Kent. The signs says: "We apologise for water service disription - stations open 7am-10pm. Average wait time is 30 min."](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/c905/live/24feaf40-9acd-11f1-ad7d-21d5090bbb0d.jpg)

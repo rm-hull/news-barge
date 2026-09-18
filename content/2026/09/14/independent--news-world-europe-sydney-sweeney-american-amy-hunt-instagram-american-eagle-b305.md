@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: An ad campaign featuring actor Sydney Sweeney has sparked backlash from
   female athletes who say it sexualizes women in sports
 image: https://static.independent.co.uk/2026/09/14/21/Italy_Venice_Film_Festival_Armani_Beauty_Event_Arrivals_93243.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An advertising campaign featuring American actor Sydney Sweeney has sparked widespread backlash from female athletes who say it is sexualizing women in sports.

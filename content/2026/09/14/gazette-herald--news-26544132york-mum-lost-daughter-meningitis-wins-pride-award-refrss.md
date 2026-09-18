@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: An Inspirational York fundraiser who has dedicated herself to raising
   awareness of the symptoms of meningitis has been presented with a Community…
 image: https://www.gazetteherald.co.uk/resources/images/21443444.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 An inspirational fundraiser who has dedicated herself to raising awareness of the condition which took her daughter’s life has been presented with a York Community Pride award.

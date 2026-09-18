@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The boyfriend’s mother allegedly gave him latex gloves and told him to
   clean himself up and change clothes
 image: https://static.the-independent.com/2026/08/21/14/57/pennwest-inset-e7dda3da.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 An 18-year-old Pennsylvania college soccer player was allegedly stabbed to death by her boyfriend, who claimed “demons” told him to kill her before turning to his mother for help disposing of her body.

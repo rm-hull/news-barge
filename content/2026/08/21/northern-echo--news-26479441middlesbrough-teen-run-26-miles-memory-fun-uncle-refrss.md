@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Lilah Sweeting, 14, will run 26 miles in 26 hours in memory of David
   Gallagher, while raising money for Teesside Hospice.
 image: https://www.thenorthernecho.co.uk/resources/images/21343896.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A Middlesbrough teenager will run 26 miles in 26 hours in memory of the uncle who shaped her childhood and created lasting family memories in his final weeks.

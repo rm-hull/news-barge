@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Tasia Fortune's body was found in the lot of an abandoned home in Mississippi
   in August.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Tasia Fortune, 29, poses for a photo during a family reunion in Kentucky](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg)

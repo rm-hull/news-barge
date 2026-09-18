@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: More than 200 women accuse Christian Nègre of drugging them to make them
   urinate - two share their stories.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d295/live/233416b0-9af4-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
 ---
 
 ![Anaïs de Vos is wearing a dark blue shirt with an open neck and is standing in front of bushes and a low, bright blue wall. She is wearing a gold necklace and has light, curly hair.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/d295/live/233416b0-9af4-11f1-930b-57cfba7235f9.jpg)

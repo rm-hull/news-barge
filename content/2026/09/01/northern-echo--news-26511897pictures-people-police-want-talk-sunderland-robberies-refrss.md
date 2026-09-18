@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Police have released CCTV images of two men they want to identify as
   part of an investigation into two linked robbery incidents in Sunderland and…
 image: https://www.thenorthernecho.co.uk/resources/images/21396461.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police are appealing for help to identify two men they want to speak to as part of an investigation into two reported robberies in the Sunderland area.

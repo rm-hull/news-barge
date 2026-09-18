@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Jarrow teen Anissa Khalfa is calling for tougher alcohol delivery app
   rules after her cousin Tom’s death, warning rapid online sales fuel…
 image: https://www.thenorthernecho.co.uk/resources/images/21440979.jpg?type=og-image&xType=0&yType=75
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Provided)*

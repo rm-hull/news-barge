@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:17:00Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/fire-engine-field-ryedale-fir-station.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 A North Yorks fire officer is currently responding to reports of flooding in the open near Scarborough.

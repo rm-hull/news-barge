@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A defibrillator and five water rescue throw lines have been donated to
   the Burton Constable parkland team.
 image: https://www.yorkpress.co.uk/resources/images/21404638.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Life-saving equipment donated to Burton Constable parkland team

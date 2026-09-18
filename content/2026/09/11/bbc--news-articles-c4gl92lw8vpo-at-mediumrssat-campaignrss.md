@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The powerful blast registered as the equivalent of a magnitude 4.1 earthquake,
   according to the US Geological Survey.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 ![Huge flames and pillars of smoke rise from the ground in a night-time picture](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg)

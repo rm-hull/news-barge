@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Nine in 10 mobile wallet users have their debit card loaded as their
   default payment method, new data shows.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Woman sitting in a cafe with a coffee cup on the table in front of her puts her phone on a payment terminal held by a waitress.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg)

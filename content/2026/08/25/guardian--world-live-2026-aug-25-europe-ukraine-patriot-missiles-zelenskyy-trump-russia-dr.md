@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: UK PM to join delegation of leaders lobbying US president to step up
   supplies, as Kremlin accuses Burnham of wanting to continue war
 image: https://i.guim.co.uk/img/media/36c84248610af0ec823feca23e5ca89bdcf2bea9/519_0_5885_4708/master/5885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=16f780729ec0c82f557a233b0c85ccbe
+categories:
+- UK
+- News & Politics
 ---
 
 Kremlin accuses Burnham of wanting Ukraine war to continue

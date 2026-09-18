@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The company will give select partners early access to its Astra AI model—so
   they have time to shore up their defenses.
 image: https://media.wired.com/photos/6a9613c7a31f896f81e828e0/191:100/w_1280,c_limit/OpenAI-AI-Safety-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 OpenAI announced Tuesday that its forthcoming AI model, Astra, is its first to reach the company’s threshold for what it calls “critical” cyber capabilities. OpenAI says it plans to publicly release a version of Astra “soon,” but will make the model’s advanced cyber capabilities available only to select partners in its Daybreak Blue early-access program at launch.

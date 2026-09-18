@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Andy Burnham stops short of pledging further help as gas and electricity
   prices due to increase by 4% in October
 image: https://i.guim.co.uk/img/media/418a09fb88cb2accf037a1de2d48ca13618da2ea/149_0_1767_1414/master/1767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=400da7b4d6a92cd32ee67e93782667be
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Households are unlikely to receive further energy bills support before the October price cap, though more targeted measures could be looked at if there is a further shock in January, government sources said.

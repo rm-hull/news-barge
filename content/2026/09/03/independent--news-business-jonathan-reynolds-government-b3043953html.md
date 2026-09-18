@@ -7,6 +7,12 @@ scraped_at: '2026-09-03T12:48:26Z'
 published: '2026-09-03T00:00:00Z'
 description: Ministers say they are determined to stop firms short changing staff.
 image: https://static.independent.co.uk/2026/09/03/08/03083322-3be1706e-5e11-4378-a9ab-17808e0fd977.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Hundreds of employers have been named by the Government for failing to pay workers the National Minimum Wage.

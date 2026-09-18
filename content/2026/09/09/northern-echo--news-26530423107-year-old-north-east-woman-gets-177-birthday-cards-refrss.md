@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Irene Gibson, from Newcastle, celebrated her 107th birthday after receiving
   177 cards from well-wishers across the UK and abroad following a…
 image: https://www.thenorthernecho.co.uk/resources/images/21425732.jpg?type=og-image&xType=0&yType=28
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A 107-year-old woman from the North East has been left astonished after being showered by love on her special birthday.

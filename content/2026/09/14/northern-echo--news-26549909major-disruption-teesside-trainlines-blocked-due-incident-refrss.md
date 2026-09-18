@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Train services between Middlesbrough and Redcar have been brought to
   a halt - with a Manchester Airport route affected - as police deal with an…
 image: https://www.thenorthernecho.co.uk/resources/images/20708431.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: LDRS)*

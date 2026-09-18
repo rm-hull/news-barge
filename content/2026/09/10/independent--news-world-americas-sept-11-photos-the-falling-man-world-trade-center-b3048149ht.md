@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The photographer behind the devastating ’Falling Man’ photo says he can’t
   get the image out of his head
 image: https://static.independent.co.uk/2026/09/10/17/11/GettyImages-1164556.jpg?trim=0,56,0,56&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 On Sept. 11, 2001, Karen Matthews was inside her Manhattan apartment preparing her three-year-old daughter for preschool when an unfamiliar, thunderous boom echoed outside.

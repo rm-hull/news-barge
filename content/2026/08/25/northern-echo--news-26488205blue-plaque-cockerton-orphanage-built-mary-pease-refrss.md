@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A modest blue plaque on a Cockerton cottage opens a window on to Darlington’s
   Victorian welfare history — and the quiet legacy of a…
 image: https://www.thenorthernecho.co.uk/resources/images/21359845.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: STUART BOULTON)*

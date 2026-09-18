@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Hundreds of staff may have worked without legally required face-fitted
   masks over 20 years
 image: https://i.guim.co.uk/img/media/db76c34e97619d029e19ba52f162ef81ec03e4e1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df1f6adf6f1f0577fcedcf614cfe073c
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Hundreds of London Underground workers could have been exposed to asbestos for almost 20 years without protection required under safety regulations, according to documents seen by the Guardian.

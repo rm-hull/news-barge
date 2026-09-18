@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The team at a long-standing Harrogate cafe say they are “heartbroken”
   after closing the doors for the final time today.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkwNjgwNDA2LWM1N2UtNGE2Mi05NmMwLWE5MGM1Mjk4YmVmYToyMzJjNDUxMC00NzhiLTRmZDMtYjAwNC1mNGM1YWUwMjZiYjE=.jpg?crop=3:2,smart&trim=&width=1161&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Rising costs blamed as popular independent Harrogate cafe shuts its doors for the final time

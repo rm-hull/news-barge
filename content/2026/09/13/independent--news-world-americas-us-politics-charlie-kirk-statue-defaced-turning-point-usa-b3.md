@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The statue will be moved inside Turning Point USA’s headquarters for
   security reasons
 image: https://static.independent.co.uk/2026/09/13/22/10/Screenshot-2026-09-13-at-5-59-47-PM.png?trim=59,0,231,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A newly unveiled statue of conservative podcaster and organizer Charlie Kirk was defaced outside Turning Point USA’s headquarters in Phoenix, Arizona, on Sunday.

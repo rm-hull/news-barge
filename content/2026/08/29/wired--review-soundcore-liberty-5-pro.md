@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Soundcore’s Liberty 5 Pro earbuds are a jack-of-all-trades, a master
   in voice quality, and somehow cost less than $200.
 image: https://media.wired.com/photos/6a925150bb3a85e785f50cc3/191:100/w_1280,c_limit/Review--Soundcore-Liberty-5-Pro.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The Soundcore Liberty 5 Pro did something I wasn't expecting: It made me call my family more.

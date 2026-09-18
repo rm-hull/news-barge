@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A community choir entertained crowds with a selection of popular songs
   at a Harrogate pub’s summer garden party.
 image: https://mmo.aiircdn.com/409/6a8d97691c22afafe5a.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d97691c22afafe5a.jpg) 

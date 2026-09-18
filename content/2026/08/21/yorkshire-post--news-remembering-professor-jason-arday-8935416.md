@@ -11,6 +11,11 @@ description: Jason Arday, who has died at 41, was a sociologist whose remarkable
   resigned after an investigation into his academic qualifications and allegations
   of plagiarism.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ2YjY3ZGJjLTlkOTQtNDFmNS04OWJlLTI0MjMxMmE5YzY0MToyMWYwZTZiOS1hZmI0LTRkZGItOTlmNy01YzFhMTA4MGUzNTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Remembering Professor Jason Arday

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Green councillors have welcomed plans for an £18.1m investment in temporary
   accommodation across North Yorkshire
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/15/08/Mike_Schofield__1789458424_27f6c6da-aeb8b2ca151e0e60.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Home, Garden & DIY
 ---
 
 # Green councillors say North Yorkshire's £18m homelessness plan must be matched by affordable homes

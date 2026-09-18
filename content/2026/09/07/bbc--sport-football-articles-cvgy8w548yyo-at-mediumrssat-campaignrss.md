@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Lithuanian coach Valdas Dambrauskas cut his teeth in English football,
   and now returns in the Champions League with Sabah.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0cb2/live/b13ef080-a853-11f1-80f8-c33181935c5a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Sabah's Valdas Dambrauskas looks ahead to Manchester United and Arsenal games

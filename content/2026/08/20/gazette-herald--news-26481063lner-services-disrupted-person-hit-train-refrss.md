@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T13:07:23Z'
 published: '2026-08-20T00:00:00Z'
 description: Trains services to and from York have been disrupted by a major incident.
 image: https://www.gazetteherald.co.uk/resources/images/10160688.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 TRAIN services to and from York have been disrupted by a major incident.

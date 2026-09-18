@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Secretary of State Marco Rubio said on Tuesday the U.S. was announcing
   a new visa restriction policy
 image: https://static.independent.co.uk/2026/09/16/09/2026-09-15T223924Z_1988841089_RC24DDAC8MJY_RTRMADP_3_USA-TRUMP-SAFRICA-VISAS.JPG?trim=53,0,53,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The U.S. has introduced a new visa restriction policy targeting specific foreign nationals from South Africa, Secretary of State Marco Rubio said Tuesday, marking a further diplomatic decline between Washington and Pretoria under President Donald Trump’s administration.

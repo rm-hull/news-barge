@@ -9,6 +9,12 @@ description: The ‘unchecked spread’ of vape shops, betting shops and rogue b
   is set to be tackled by new government powers announced by the Prime Minister Andy
   Burnham.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjljMTEwMjk3LWIzODUtNDAxYi04OWZjLWE1N2MwYTk5MDNhNjo5OWZhZTAzZS1jM2E0LTQyOGEtODg0Ny1kYTVkZmY2NTdlM2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Mayor welcomes new powers to crackdown on rogue retailers to improve high streets

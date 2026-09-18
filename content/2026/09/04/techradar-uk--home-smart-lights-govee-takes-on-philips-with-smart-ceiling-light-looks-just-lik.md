@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T12:42:18Z'
 published: '2026-09-04T00:00:00Z'
 description: No windows? No problem — this smart light is the next best thing.
 image: https://cdn.mos.cms.futurecdn.net/dkvx8HDSnqCgSMjaKzN4xS-1530-80.png
+categories:
+- Technology & Software
 ---
 
 ![Govee Sky Ceiling Light installed in room](https://cdn.mos.cms.futurecdn.net/dkvx8HDSnqCgSMjaKzN4xS.png) 

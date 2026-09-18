@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:15:29Z'
 published: '2026-08-28T00:00:00Z'
 description: 'From: Keith Davey, Bingley.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI1MmJjNWQ4LTFlOTMtNGE2Ny1iMzk2LThmNjBmMjVlZjZiOTpjMWJmMTcwMi1mNjhhLTQ3M2ItOWVlMy1jZTU3ZjhkMmU1N2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # The Glorious Twelfth: What is glorious about seeing a dead or injured bird dropping to the ground? - Yorkshire Post Letters

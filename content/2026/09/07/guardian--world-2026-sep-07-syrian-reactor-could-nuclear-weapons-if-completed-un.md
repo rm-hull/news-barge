@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Chief of nuclear watchdog says secret Assad-era facility would have been
   able to produce fissile material
 image: https://i.guim.co.uk/img/media/904fb44d433a9f5a97503200f9b4d43993305151/1261_1155_2856_2285/master/2856.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cc486d9cd103dad0bc74b6648cb2c4b
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A nearly complete nuclear reactor built secretly during the rule of the toppled Syrian leader Bashar al-Assad would have been able to produce fissile material for possible use in nuclear weapons, the chief of the UN nuclear watchdog has revealed.

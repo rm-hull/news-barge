@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T22:42:09Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-storm-damage-tower-street-30-aug-2026-2.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A main road in York is closed after being damaged during the storm this evening (Sunday).

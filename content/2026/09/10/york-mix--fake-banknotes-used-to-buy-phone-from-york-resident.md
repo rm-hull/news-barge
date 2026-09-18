@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:30Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-counterfeit-notes-york-4-sept-2026.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Police are investigating after fake banknotes were used in a doorstep sale.

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Leeds Bradford Airport (LBA) has announced the next step in its long-term
   transformation programme including proposed changes to night-time operations.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1ZDkxYmI3LTcyYjYtNGFhYS1iODVmLWM5MDM2NGQxMjk3YTo0OGEwNjcxZi1lMDEwLTRhNjMtOTljMy0yZDczMjU4OTNlZDE=.jpg?crop=3:2,smart&trim=&width=489&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Leeds Bradford Airport proposes changes to night-time operations and a Night Noise Insulation Scheme

@@ -10,6 +10,10 @@ description: The U.K. government warned against any attempt by Israel to remove 
   officials from the Gaza ceasefire coordination center after reports that Israel
   was considering expelling U.K. and potentially other European officials
 image: https://static.independent.co.uk/2026/08/27/11/APTOPIX_Israel_Palestinians_Gaza_62183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The U.K. government warned against any attempt by Israel to remove British officials from the Gaza ceasefire coordination center after reports that Israel was considering expelling U.K. and potentially other European officials.

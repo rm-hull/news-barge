@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:00:57Z'
 published: '2026-08-27T00:00:00Z'
 description: AI success depends on a strong technology foundation
 image: https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A representative abstraction of artificial intelligence](https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj.jpg) 

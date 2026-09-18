@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Surveillance footage allegedly captured an instructor encouraging her
   own child to attack the victim before shaking the child
 image: https://static.independent.co.uk/2026/09/11/21/22/Arka-Montessori-Academy-of-Risinger.png?trim=0,124,0,114&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A family from Fort Worth, Texas, has filed a lawsuit against a local daycare facility following an incident in which surveillance footage allegedly captured an adult employee instigating a fight involving a 4-year-old boy.

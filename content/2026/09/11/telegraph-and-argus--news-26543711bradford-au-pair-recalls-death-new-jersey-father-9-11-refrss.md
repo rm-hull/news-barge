@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A Bradford woman has spoken out about losing the father of the New Jersey
   family she worked for.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442784.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 A Bradford woman has spoken out about losing the father of the New Jersey family she worked for.

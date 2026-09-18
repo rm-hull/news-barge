@@ -9,6 +9,12 @@ description: More households facing homelessness are set to benefit from plans t
   expand the delivery of temporary accommodation across North Yorkshire by almost
   25 per cent.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Harrogate1.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Personal Finance & Investing
 ---
 
 ![A view of Harrogate](https://www.northyorks.gov.uk/sites/default/files/2026-09/Harrogate1.jpg) 

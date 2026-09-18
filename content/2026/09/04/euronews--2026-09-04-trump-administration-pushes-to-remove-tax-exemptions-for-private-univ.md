@@ -9,6 +9,11 @@ description: The Trump administration says its proposed legislation aims to make
   equal and accessible to all and end “woke” campaigns which deliberately favour certain
   students over others due to socioeconomic or racial backgrounds.
 image: https://images.euronews.com/articles/stories/09/90/08/12/1200x675_cmsv2_e7001315-c0cc-576d-a2f1-0ed76d647f34-9900812.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ## The Trump administration says its proposed legislation aims to make university equal and accessible to all and end “woke” campaigns which deliberately favour certain students over others due to socioeconomic or racial backgrounds.

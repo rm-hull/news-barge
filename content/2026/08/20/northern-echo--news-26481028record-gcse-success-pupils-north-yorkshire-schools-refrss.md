@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Thousands of pupils across North Yorkshire have collected a strong set
   of GCSE results as some of the county’s schools have witnessed record…
 image: https://www.thenorthernecho.co.uk/resources/images/21347688.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: NYC)*

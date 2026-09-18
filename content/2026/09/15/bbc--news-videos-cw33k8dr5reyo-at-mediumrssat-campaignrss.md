@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The video shows a helicopter holding steady mere feet from a cliff face
   in the Sierra Nevada mountains while a rescue team secures an injured climber.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d618/live/a4b0f360-b10c-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Watch: Helicopter hovers feet from cliff face during rescue

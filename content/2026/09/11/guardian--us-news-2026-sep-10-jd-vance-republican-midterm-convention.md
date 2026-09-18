@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Vice-president dog-whistled, exaggerated claims of success and echoed
   Trump talking points to excited audience
 image: https://i.guim.co.uk/img/media/746f626fc4ba04f20e7c658e959c13238251c8ad/270_0_2690_2153/master/2690.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45ae4e28e10040d27113436d718ad7b1
+categories:
+- UK
+- News & Politics
 ---
 
 JD Vance made a clear pitch that he should be the heir to Donald Trump on Thursday night, closing out the Republicans’ midterm convention with a blistering speech that featured exaggerated claims of success, criticism of Democrats as “lunatics” and an aggressive dismissal of a protester waving a Mexican flag.

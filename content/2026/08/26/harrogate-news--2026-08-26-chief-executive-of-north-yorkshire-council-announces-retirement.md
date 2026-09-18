@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The chief executive of North Yorkshire Council has spoken of his “immense
   pride” at helping to shape the authority’s future as he has announced he is to
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Richard-Flinton-in-grounds-of-County-Hall.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 The chief executive of North Yorkshire Council has spoken of his “immense pride” at helping to shape the authority’s future as he has announced he is to retire next year.

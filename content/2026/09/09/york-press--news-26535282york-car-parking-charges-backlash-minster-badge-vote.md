@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Parking charges in York are putting off customers and tourists, a shop
   has claimed ahead of a decision on whether to cut some fees.
 image: https://www.yorkpress.co.uk/resources/images/21430053.jpg?type=og-image&xType=0&yType=427
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Customers and tourists put off by York parking charges, shop claims

@@ -9,6 +9,10 @@ description: 'In today’s newsletter: As rescuers search for survivors after ca
   floods, the disaster offers a stark warning about the climate risks facing the region,
   and the world'
 image: https://i.guim.co.uk/img/media/0651c5c9f39317a6a1e396addaa893d29cac41e8/140_0_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=145594ec280e45087b90845c10dfcc51
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Good morning. Over the weekend, rescue workers in Nepal and Tibet raced to find people who are still trapped in villages affected by catastrophic flash floods. As of this morning, the death toll stands at 903, and more than 4,000 people are missing.

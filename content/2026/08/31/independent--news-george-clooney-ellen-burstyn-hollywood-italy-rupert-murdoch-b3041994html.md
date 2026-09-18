@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Some of Hollywood's biggest stars are heading to Italy for the 83rd Venice
   Film Festival, starting Wednesday
 image: https://static.independent.co.uk/2026/08/31/07/What_to_Know-George_Clooney-Venice_944_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Some of Hollywood’s biggest stars are heading to Venice, Italy, for the 83rd edition of the Venice Film Festival, which kicks off on Wednesday.

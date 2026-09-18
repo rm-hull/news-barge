@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Police has provided an update after the body of a man
   was discovered in the Ripon canal on Sunday morning.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjllZDU2NTNjLWM0ZWMtNDVmMS05YzYwLWZmMGI2ZDc4OGY1MjowZGRmMTM0Yy0xM2RjLTQ1ZjQtYmM0Yy04NWU2NmUyMzY2NGU=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 # UPDATE: Body of man found in Ripon canal – death not being treated as suspicious

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Greggs has announced its hugely popular Steak and Stilton Bake will be
   returning to its autumn menu.
 image: https://www.yorkpress.co.uk/resources/images/21345755.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Getty)*

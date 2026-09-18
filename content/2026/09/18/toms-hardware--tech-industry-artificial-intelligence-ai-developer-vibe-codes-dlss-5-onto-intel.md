@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: You won't be playing any games with DLSS 5 on integrated GPUs, but it
   might be fun to use with photo modes.
 image: https://cdn.mos.cms.futurecdn.net/jyBsQv3HMAD6GKyN3aksrV-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![A before/after comparison of Tekken 7's Sergei Dragunov with DLSS 5 Neural Rendering.](https://cdn.mos.cms.futurecdn.net/jyBsQv3HMAD6GKyN3aksrV.jpg) 

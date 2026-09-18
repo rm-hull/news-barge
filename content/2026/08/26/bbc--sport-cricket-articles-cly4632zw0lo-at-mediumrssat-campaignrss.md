@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Joe Root has shown himself to be the off-field leader England need -
   now comes a chance to show his credentials as captain on-field.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8fc0/live/899e9f50-a16c-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England Test captain Joe Root holding a bat and talking to Rob Key](https://ichef.bbci.co.uk/ace/standard/946/cpsprodpb/8fc0/live/899e9f50-a16c-11f1-aaf8-119f176ff4ce.jpg)

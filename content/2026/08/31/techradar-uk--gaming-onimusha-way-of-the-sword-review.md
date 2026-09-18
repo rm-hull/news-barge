@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: 'Capcom has nailed it yet again, this time with Onimusha: Way of the
   Sword, with an entry that is bound to fully revitalize the franchise.'
 image: https://cdn.mos.cms.futurecdn.net/pp9XEBJTH8dGAKJvEpSbCd-2560-80.png
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

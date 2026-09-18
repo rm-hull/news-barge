@@ -10,6 +10,10 @@ description: Detainees at a now-closed immigrant detention center in the Florida
   — known as “Alligator Alcatraz” — were held for up to two hours in small metal enclosures
   used as “calming areas.”
 image: https://static.independent.co.uk/2026/09/14/22/Florida_Immigration_Detention_Center_8832_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Detainees at a now-closed immigrant detention center in the Florida Everglades — known as “Alligator Alcatraz” — were held for up to two hours in small metal enclosures used as “calming areas,” a practice that “does not meet standards for humane treatment,” according to a new report by the Department of Homeland Security’s Inspector General released on Monday.

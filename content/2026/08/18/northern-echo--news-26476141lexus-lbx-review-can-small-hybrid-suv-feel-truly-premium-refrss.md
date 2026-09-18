@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T01:49:19Z'
 published: '2026-08-18T00:00:00Z'
 description: The Lexus LBX is a small car with a big job.
 image: https://www.thenorthernecho.co.uk/resources/images/21338818.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 From the moment it was launched in the UK, the Lexus LBX was a small car with a big job.

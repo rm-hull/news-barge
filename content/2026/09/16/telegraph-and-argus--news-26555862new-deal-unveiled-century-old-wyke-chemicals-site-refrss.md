@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: A major site in Bradford has secured its future through a new operations
   partnership.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463540.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: BBC Verify's Ben Chu examines what impact rising energy costs could have
   on the global economy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2a/live/d6d03600-b1e6-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A oil industry worker in Saudi Arabia wearing a protective helmet walks next to a pipe with several valves](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1a2a/live/d6d03600-b1e6-11f1-bc1f-3f186ca4140c.png)

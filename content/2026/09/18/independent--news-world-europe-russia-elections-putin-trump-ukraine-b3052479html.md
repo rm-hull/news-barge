@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Sam Kiley, world affairs editor, explains the significance of the insignificant
   Russian Duma elections
 image: https://static.independent.co.uk/2026/09/18/09/2026-09-18T075538Z_1987698724_RC2HLNA5SX1V_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ELECTION.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russians go to the polls in elections to its parliament amid a fuel crisis, mortuaries swollen with war dead, and an economy that is shrinking. All ingredients point to what should be a landslide against the ruling United Russia Party.

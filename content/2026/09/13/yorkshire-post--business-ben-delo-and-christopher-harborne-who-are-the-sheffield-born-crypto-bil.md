@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Ben Delo and Christopher Harborne have hit the headlines this weekend
   for donating a combined £72m to Reform.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU1YmI5ZDE0LWU3NTItNGY0NS1iYTkyLTIxYjE5ZmM5NWIyNjpmZWZiZjZiNy01NDY0LTQ2NDQtYTg1Yy1iZTcyZDRkNjg2NDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Ben Delo and Christopher Harborne: Who are the Sheffield-born crypto-billionaires who have donated £72m to Reform?

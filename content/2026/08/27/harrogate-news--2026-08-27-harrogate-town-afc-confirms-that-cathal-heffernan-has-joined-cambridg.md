@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Harrogate Town AFC has comfirmed that Cathal Heffernan has joined Cambridge
   United for an undisclosed fee.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Cathal-Heffernan.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Harrogate Town AFC has comfirmed that Cathal Heffernan has joined Cambridge United for an undisclosed fee.

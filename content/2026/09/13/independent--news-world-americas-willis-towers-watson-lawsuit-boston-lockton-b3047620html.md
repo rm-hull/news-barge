@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: The departing workers generated more than $5 million in annual revenue
   for Willis Towers Watson, according to court documents
 image: https://static.independent.co.uk/2026/09/09/23/1245300688..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Global insurance brokerage and risk management firm Willis Towers Watson has filed a lawsuit in Boston after 18 employees resigned within 44 minutes and moved to a rival brokerage down the street.

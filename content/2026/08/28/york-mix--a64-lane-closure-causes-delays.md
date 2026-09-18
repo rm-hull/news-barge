@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:35Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/09/a64-traffic-jam-near-york-wk.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 There are delays on the A64 around Claxton and traffic building in both directions.

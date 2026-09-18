@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: BRADFORD City have been ranked ninth in the Think Fan Engagement Index
   – a rise of three places from the year before.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21360922.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Tom Pearson)*

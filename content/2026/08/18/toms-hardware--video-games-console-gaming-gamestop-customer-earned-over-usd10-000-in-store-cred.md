@@ -8,6 +8,11 @@ scraped_at: '2026-08-18T13:03:41Z'
 published: '2026-08-18T00:00:00Z'
 description: Maybe ‘Josh’ can buy a couple of RTX 5090s now.
 image: https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
+- Business & Entrepreneurship
 ---
 
 ![Josh and his GameStop trade credit cards](https://cdn.mos.cms.futurecdn.net/SUJQMts6oFkL8scWtiQF4T.jpg) 

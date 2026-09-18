@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Delivery robots are facing calls for a ban on pavements over safety and
   accessibility concerns.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20053323.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: UGC)*

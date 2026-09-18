@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: It follows his decision to stop personally profiting from rent on the
   abandoned Dartmoor Prison
 image: https://static.independent.co.uk/2026/09/15/15/2294918126..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Prince of Wales has visited Princetown, an isolated village next to the shuttered Dartmoor Prison, to launch a new regeneration fund.

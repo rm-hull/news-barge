@@ -9,6 +9,10 @@ description: Twenty-five years, 94 days and countless twists later, Coventry Cit
   have started life back in the Premier League, but it was a tough baptism of fire
   with a 3-0 loss at defending champions Arsenal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/03e0/live/5b50d680-9db2-11f1-9537-fb0a2e1c2505.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Arsenal start title defence with comfortable win over Coventry

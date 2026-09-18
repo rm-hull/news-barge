@@ -7,6 +7,9 @@ scraped_at: '2026-09-15T04:45:51Z'
 published: '2026-09-14T00:00:00Z'
 description: My clues will help you solve Quordle today and keep that streak going
 image: https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Quordle on a smartphone held in a hand](https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL.jpg) 

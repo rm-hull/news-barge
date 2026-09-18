@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Keld is the tiny Upper Swaledale village close to Amanda Owen's Ravenseat
   Farm, surrounded by waterfalls and famous walking routes.
 image: https://www.thenorthernecho.co.uk/resources/images/21384097.jpg?type=og-image&xType=0&yType=346
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Brett Giroux/CAMERA CLUB)*

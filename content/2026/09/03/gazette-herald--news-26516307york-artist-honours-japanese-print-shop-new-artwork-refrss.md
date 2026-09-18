@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Artist Ric Liptrot is preserving the memory of a beloved York shop in
   a new artwork, reports MAXINE GORDON
 image: https://www.gazetteherald.co.uk/resources/images/21402474.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Music
 ---
 
 *York artist Ric Liptrot honours Japanese Print Shop in new artwork, reports MAXINE GORDON*

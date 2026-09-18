@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: THE NSPCC is not just here to help children, but to help families and
   those who are worried about children too.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380521.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: PA)*

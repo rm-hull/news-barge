@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The FTSE 100 index ended down 39.44 points, 0.4%, at 10,658.13. It had
   earlier traded as low as 10,586.39.
 image: https://static.independent.co.uk/2026/09/15/17/ed05f3bf5a38df4cfc8f626b99cb2fbbY29udGVudHNlYXJjaGFwaSwxNzg5NTc1MjQ3-2.83117613.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The FTSE 100 ended lower on Tuesday, albeit well above early worse levels, as high bond yields, fears of higher interest rates and elevated oil prices kept buyers on the sidelines.

@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The crucial waterway's operator says low rainfall caused by the ocean
   pattern had led to the decision.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A view from an event marking the 10th anniversary of the inauguration of the expanded Panama Canal in Panama City, Panama, on 26 June, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg)

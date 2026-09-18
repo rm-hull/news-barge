@@ -10,6 +10,11 @@ description: Every week we put one of our premium business stories in front of o
   paywall to showcase the benefits of becoming a Yorkshire Post subscriber. This story
   is this week’s selection.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc5YjVhY2RkLTVjYTMtNGE5YS04MjU1LWMyYjM2NjE5ZDcyNzo5OTBmZDE2Ny0xNGQyLTQ0YmUtOGU4Ny1kOWM2YWI2NmI1YjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Loan Charge: MPs hit out for failure to undertake ‘glaringly obvious’ joint investigation into suicides

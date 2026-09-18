@@ -8,6 +8,13 @@ published: '2026-09-17T00:00:00Z'
 description: Staff owed £489,000 in wages and holiday pay will receive nothing from
   BrewDog Retail's administration after squatter removals, collapsed…
 image: https://www.thenorthernecho.co.uk/resources/images/21088576.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: BrewDog)*

@@ -10,6 +10,9 @@ description: The head of Iran’s Atomic Energy Organization is not expected to 
   the annual gathering of the U.N. nuclear watchdog’s member nations in Vienna for
   the first time in many years
 image: https://static.independent.co.uk/2026/09/14/00/Iran_US_AEA_96_34.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The head of Iran’s Atomic Energy Organization is not expected to attend the annual gathering of the U.N. nuclear watchdog’s member nations in Vienna for the first time in years because he is banned from international travel, an official briefed on the matter said.

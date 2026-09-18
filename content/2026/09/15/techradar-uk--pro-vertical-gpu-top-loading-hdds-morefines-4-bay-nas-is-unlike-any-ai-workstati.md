@@ -8,6 +8,8 @@ published: '2026-09-15T00:00:00Z'
 description: This candybar-shaped workstation hides a full NAS server and a serious
   gaming GPU inside one compact aluminum shell
 image: https://cdn.mos.cms.futurecdn.net/LeRkdgSaKf7NcFkAkdT6NF-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Morefine MNAS-X1 NAS](https://cdn.mos.cms.futurecdn.net/LeRkdgSaKf7NcFkAkdT6NF.jpg) 

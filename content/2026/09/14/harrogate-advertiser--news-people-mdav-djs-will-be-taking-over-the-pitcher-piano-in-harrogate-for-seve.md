@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Harrogate is to host a seven-hour Halloween House music party thanks
   to a locally-based DJ and events business.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmNGQ4NDRmLTJlNjMtNDlkNC05MWUyLTAwYjliMzA1NWUzMzo5NzhlNjJjYS05ODI0LTQ0ZGEtYWZmNy03ODE2Mzg3NGIzNTM=.jpg?crop=3:2,smart&trim=&width=1079&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # MDAV DJs will be taking over the Pitcher & Piano in Harrogate for seven hour party

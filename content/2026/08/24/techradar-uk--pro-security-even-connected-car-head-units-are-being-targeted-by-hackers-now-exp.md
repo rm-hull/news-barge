@@ -8,6 +8,8 @@ published: '2026-08-24T00:00:00Z'
 description: A BadBox-linked campaign is now reaching car head units, raising fresh
   concerns about malware spreading through vehicles
 image: https://cdn.mos.cms.futurecdn.net/U4kKJiuR4cLoeEoYecZQPK-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Spotify Car Thing](https://cdn.mos.cms.futurecdn.net/U4kKJiuR4cLoeEoYecZQPK.jpg) 

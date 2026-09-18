@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: In a strategic retreat, the United Nations concedes that Earth has lost
   its chance to prevent some of the worst impacts of global warming
 image: https://static.independent.co.uk/2026/09/02/05/Nepal_Flash_Floods_46372.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.

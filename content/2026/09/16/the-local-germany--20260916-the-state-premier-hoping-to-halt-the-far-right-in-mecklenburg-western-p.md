@@ -9,6 +9,11 @@ description: Germany's anti-immigration AfD party is eyeing another election tri
   on Sunday in a northeastern coastal state where the popular premier is campaigning
   on a promise to hold back a rising far-right tide.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260916__C8G47CT__v1__HighRes__FilesGermanyPoliticsVoteStateNortheast.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 Manuela Schwesig of the centre-left SPD – a cancer survivor with high personal approval ratings and a large social media following – is fighting a battle that is being closely watched, especially in the office of Chancellor Friedrich Merz.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T22:33:47Z'
 published: '2026-09-02T00:00:00Z'
 description: Cassandra Wilson, the two-time Grammy-winning jazz singer, has died
 image: https://static.independent.co.uk/2026/09/02/21/Cassandra_Wilson_63_53.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Cassandra Wilson, the two-time Grammy Award-winning jazz singer, songwriter and producer has died. She was 70.

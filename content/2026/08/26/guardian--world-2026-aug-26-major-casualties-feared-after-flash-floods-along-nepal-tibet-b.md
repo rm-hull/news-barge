@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Hundreds missing and at least 22 people dead after floods sweep away
   houses, roads, bridges and power projects
 image: https://i.guim.co.uk/img/media/a8cacd27dfa091ae1dfc7e9bcf3da88abe3a5032/371_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b02d2a439aa63af82d007d8a33e5fa5c
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Hundreds are missing and at least 22 people have died after torrential floods hit the Himalayan border areas of Nepal and in Tibet in China.

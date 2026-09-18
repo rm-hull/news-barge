@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Workers should weigh no more than 19.5st fully clothed so that they can
   be winched to safety in an emergency.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03b1/live/adfb8a10-bbea-11f0-8669-5560f5c90fbe.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A helicopter lands on an oil rig and a man in orange overalls is climbing up steps and heading towards it](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/7ef7/live/c9a8ab10-a6e2-11f1-9e4c-79c1c0e340c6.jpg)

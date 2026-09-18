@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Tens of thousands of Rohingya refugees in Bangladesh held a rally Tuesday
   to demand safe return to Myanmar
 image: https://static.independent.co.uk/2026/08/25/15/APTOPIX_Bangladesh_Rohingya_Anniversary_93343.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Tens of thousands of Rohingya refugees from Myanmar living in dozens of camps in Bangladesh held a rally Tuesday to demand their safe return to their home state, nine years after they fled a government crackdown.

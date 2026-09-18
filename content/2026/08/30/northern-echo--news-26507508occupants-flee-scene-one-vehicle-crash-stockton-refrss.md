@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Emergency services were called to Durham Road in Stockton at around 12.35am
   this morning (August 30), following reports of a single-vehicle crash.
 image: https://www.thenorthernecho.co.uk/resources/images/13963373.jpg?type=og-image&xType=0&yType=76
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: POLICE)*

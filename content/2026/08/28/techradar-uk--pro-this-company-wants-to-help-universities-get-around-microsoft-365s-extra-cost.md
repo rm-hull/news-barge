@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: The free storage decade is over, and one company is helping institutes
   navigate the chaos it brings.
 image: https://cdn.mos.cms.futurecdn.net/DT3XDbTaUC2nQB3Wfi9tR3-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Student watching video with a cup of coffee in a library](https://cdn.mos.cms.futurecdn.net/DT3XDbTaUC2nQB3Wfi9tR3.jpg) 

@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: New images from Redcar council reveal progress at Eston Precinct, with
   retail units now clearly visible as work continues on the transformation.
 image: https://www.thenorthernecho.co.uk/resources/images/21405117.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

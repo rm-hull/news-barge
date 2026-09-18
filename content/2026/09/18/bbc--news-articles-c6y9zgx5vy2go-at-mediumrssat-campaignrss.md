@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Sway, whose hits included Still Speedin' and Level Up, was living in
   Ghana at the time of his death.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/774b/live/fd00ea80-b34f-11f1-b949-71f91f81d1ab.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Sway wearing a blue cap and white shirt with his hands clasped in front of him](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/774b/live/fd00ea80-b34f-11f1-b949-71f91f81d1ab.jpg)

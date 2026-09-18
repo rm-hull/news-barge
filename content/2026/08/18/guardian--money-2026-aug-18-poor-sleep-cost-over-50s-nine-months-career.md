@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Findings highlight importance of sleep health during middle age, particularly
   for those with lower socioeconomic status
 image: https://i.guim.co.uk/img/media/1af6e87f46b87921ef75be03d4245a0cfed097b5/446_0_4468_3574/master/4468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da54c6ca0efd21497f69e131adc0be46
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Personal Finance & Investing
 ---
 
 Sleep that is extremely disrupted or that goes on too long could mean a loss of nine months from working life after the age of 50, a study has found.

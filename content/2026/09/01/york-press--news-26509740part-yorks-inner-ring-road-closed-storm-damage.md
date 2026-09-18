@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Part of the inner ring road in York city centre remained closed today
   (Tuesday, September 1) after a thunderstorm caused damage to the road surface.
 image: https://www.yorkpress.co.uk/resources/images/21393488.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Part of major road in York city centre remains closed following storm damage

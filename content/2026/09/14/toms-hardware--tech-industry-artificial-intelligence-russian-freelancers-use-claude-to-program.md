@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T14:59:23Z'
 published: '2026-09-14T00:00:00Z'
 description: Including bioweapons, though Anthropic does not formally admit that.
 image: https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Claude on an iPhone screen](https://cdn.mos.cms.futurecdn.net/L3LMrxAsdXV8GhdVLWYvdZ.jpg) 

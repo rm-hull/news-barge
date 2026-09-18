@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A paedophile has been jailed for more than 12 years for a months-long
   campaign of sexual abuse against an underage girl in Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21373349.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

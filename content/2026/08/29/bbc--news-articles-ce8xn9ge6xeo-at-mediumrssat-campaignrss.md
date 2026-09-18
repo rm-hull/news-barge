@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: The former Duchess of York is renting a six-bed house in the Home Counties,
   reports say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sarah Ferguson, with her dark red hair half tied up, in a green dress and fuchsia dress and diamond earrings](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg)

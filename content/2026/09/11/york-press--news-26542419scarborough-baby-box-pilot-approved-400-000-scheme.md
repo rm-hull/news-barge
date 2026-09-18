@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A Nordic-inspired maternity support package will be trialled in a North
   Yorkshire town after plans were approved by the county’s elected mayor.
 image: https://www.yorkpress.co.uk/resources/images/21426582.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 ## North Yorkshire to trial Finnish-inspired baby boxes for new parents

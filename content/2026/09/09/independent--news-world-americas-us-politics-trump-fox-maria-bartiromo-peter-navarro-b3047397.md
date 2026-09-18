@@ -9,6 +9,9 @@ description: President’s senior counselor alleges that conservative network’
   do not dare to discuss ‘key MAGA issues’ and put advertisers’ preferences ahead
   of their viewers’ concerns
 image: https://static.independent.co.uk/2026/09/09/14/47/Kelly-Navarro.png?trim=0,236,0,235&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Peter Navarro, a senior counselor to the president, has attacked Fox News following the firing of Maria Bartiromo, claiming the media corporation “has not treated Donald Trump very well.”

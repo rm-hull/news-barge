@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Newby Hall & Gardens will host the Autumn Sports Cars in the Park show
   on Sunday, September 6.
 image: https://www.yorkpress.co.uk/resources/images/21340156.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

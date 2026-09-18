@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Zack Polanski will stand in the Holborn and St Pancras by-election next
   month
 image: https://static.independent.co.uk/2026/09/14/16/e6c5d59285cf76e4dbde492b0d6fb2a0Y29udGVudHNlYXJjaGFwaSwxNzg5NDg1OTYz-2.85491683.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Green Party weighed up delaying its annual conference to direct resources towards securing a parliamentary seat for leader Zack Polanski, officials have confirmed.

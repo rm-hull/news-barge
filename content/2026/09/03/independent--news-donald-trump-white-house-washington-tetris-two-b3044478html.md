@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The White House website has unveiled Arcade, a collection of five low-resolution
   video games that promote different aspects of President Donald Trump’s agenda
 image: https://static.independent.co.uk/2026/08/29/17/Trump_88761.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The White House website on Thursday unveiled Arcade, a collection of five low-resolution video games that promote different aspects of President Donald Trump's agenda.

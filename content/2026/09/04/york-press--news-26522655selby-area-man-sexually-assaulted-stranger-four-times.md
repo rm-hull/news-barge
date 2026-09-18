@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A man from near York who subjected a woman to a "terrifying and traumatic"
   sexual assault has been jailed for five years.
 image: https://www.yorkpress.co.uk/resources/images/21411510.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
+- Health & Fitness
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

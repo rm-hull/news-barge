@@ -10,6 +10,11 @@ description: Five professional sports leagues and their players associations hav
   aligned forces to ask for protections for players and staff who face threats and
   harassment from sports bettors
 image: null
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Five professional sports leagues and their players associations have aligned forces to ask for protections for players and staff who face threats and harassment from sports bettors.

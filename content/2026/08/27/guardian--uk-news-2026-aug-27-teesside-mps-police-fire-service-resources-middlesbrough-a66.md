@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Labour’s Andy McDonald says gangs ‘clearly featuring’ in a series of
   incidents and police are underfunded
 image: https://i.guim.co.uk/img/media/e44597e6d709187b1efd03f5ea653da4ac64838f/1984_187_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa8074fb11afaf5382dcb702549c8437
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Five MPs on Teesside have called on the government to provide more help to local police and fire services after a week in which nine people have died in two incidents.

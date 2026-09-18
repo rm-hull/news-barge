@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: He covered many of the subjects he has returned to time and again - with
   a few surprises thrown in.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec7b/live/154b0560-accc-11f1-b6b4-2922c333d280.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Trump tells supporters their vote will decide if country "stumbles" or "moves forward"

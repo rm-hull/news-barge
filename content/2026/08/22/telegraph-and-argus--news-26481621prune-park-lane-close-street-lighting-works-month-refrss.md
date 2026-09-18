@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:31Z'
 published: '2026-08-22T00:00:00Z'
 description: A ROAD in Allerton is set to close for over a month in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349677.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Street View)*

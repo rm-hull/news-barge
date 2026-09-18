@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Yorkshire Shepherdess Amanda Owen, of Channel 5 fame, has released
   a new children’s book.
 image: https://www.gazetteherald.co.uk/resources/images/21340684.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 THE Yorkshire Shepherdess Amanda Owen has released a new children’s book.

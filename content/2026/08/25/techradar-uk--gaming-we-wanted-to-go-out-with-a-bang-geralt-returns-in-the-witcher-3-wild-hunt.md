@@ -10,6 +10,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'CD Projekt Red has unveiled the first look at The Witcher 3: Wild Hunt''s
   third and final expansion, Songs of the Past, and it looks incredible.'
 image: https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA.jpg) 

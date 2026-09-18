@@ -10,6 +10,11 @@ description: Indonesia is welcoming its first aircraft carrier, the former Itali
   Navy vessel ITS Giuseppe Garibaldi, marking a major step in President Prabowo Subianto’s
   military modernization drive
 image: https://static.independent.co.uk/2026/09/18/03/Indonesia_Italy_Aircraft_Carrier_33864.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Technology & Software
 ---
 
 Indonesia welcomed its first aircraft carrier on Friday, a former Italian warship that the government says will strengthen the archipelago nation's maritime security and disaster response capabilities.

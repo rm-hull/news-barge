@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Police have released an image of a man they want to speak to as part
   of an investigation into an attempted burglary in West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336124.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

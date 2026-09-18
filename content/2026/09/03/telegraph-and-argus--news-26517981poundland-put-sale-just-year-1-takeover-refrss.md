@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Poundland has been put up for sale just over a year after Gordon Brothers
   bought the discount chain for £1 and began a major turnaround.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20380825.jpg?type=og-image&xType=0&yType=233
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

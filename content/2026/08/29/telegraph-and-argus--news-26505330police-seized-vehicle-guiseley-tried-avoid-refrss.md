@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A vehicle was seized in Guiseley after the driver attempted to avoid
   police while on patrol.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386097.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: WYP)*

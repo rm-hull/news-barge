@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A council spent more than £11,000 on an ‘AI slop’ deckchair trail as
   part of a North Yorkshire town’s 400th anniversary celebration.
 image: https://www.gazetteherald.co.uk/resources/images/21159180.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A council spent more than £11,000 on an ‘AI slop’ deckchair trail as part of a North Yorkshire town’s 400th anniversary celebration.

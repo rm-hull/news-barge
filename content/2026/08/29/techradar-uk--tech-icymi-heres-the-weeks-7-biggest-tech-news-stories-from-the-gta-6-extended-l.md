@@ -9,6 +9,8 @@ published: '2026-08-29T00:00:00Z'
 description: The week's biggest tech news stories from Netflix, Meta, Nokia and more
   for August 29, 2026.
 image: https://cdn.mos.cms.futurecdn.net/Z25io8bySrbCf4Q288TnQY-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![The GTA 6 Extended Look, new Nokia phone, and Apple's invite.](https://cdn.mos.cms.futurecdn.net/Z25io8bySrbCf4Q288TnQY.png) 

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: A rock music legend who is coming to Harrogate next month has given his
   own firm views on what the town’s best live venue is.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlmMDVlYjQzLWJjZjYtNGEzOC04MGIyLTBkZWY5OWE5MmI2NTo1ZjNlYTA0OS04ZjkzLTRmMDYtOTFkZi02YzJiYTgwMjlkOWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Status Quo founder opens up on Live Aid, fitness and rocking all over the world at 77

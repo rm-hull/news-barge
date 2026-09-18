@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The ring maker says that its business has shown significant revenue growth
   over the past year.
 image: https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Oura, the smart ring maker, has filed to go public.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Guy Fawkes Arms in Scotton has won a Tripadvisor Travellers' Choice
   award for the seventh consecutive year.
 image: https://mmo.aiircdn.com/409/6aacdf1830090751d66.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6aacdf1830090751d66.jpg) 

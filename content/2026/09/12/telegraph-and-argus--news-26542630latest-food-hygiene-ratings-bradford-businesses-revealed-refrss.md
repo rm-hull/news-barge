@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The latest batch of food hygiene ratings for Bradford restaurants, cafes,
   takeaways, and businesses has been revealed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17876730.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: FSA)*

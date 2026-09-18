@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A long-standing York city centre shop is set to close its doors next
   month – in a move that will also shut the city’s main post office for the…
 image: https://www.yorkpress.co.uk/resources/images/21400320.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Long-standing York city centre shop and Post Office set to close next month

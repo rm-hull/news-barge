@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Claude is moving beyond screens as Anthropic tests a system for controlling
   robots, microscopes, and laboratory machines
 image: https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Anthropic Claude](https://cdn.mos.cms.futurecdn.net/ym4JdN8tZyMYq4wNvoyNWJ.jpg) 

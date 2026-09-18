@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: We've compared the specs, features and prices of Apple's latest Ultra
   watch against last year's version.
 image: https://cdn.mos.cms.futurecdn.net/CDCmiReKGE8kxiCqradbrC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch Ultra 4 vs Apple Watch Ultra 3 on-wrist](https://cdn.mos.cms.futurecdn.net/CDCmiReKGE8kxiCqradbrC.jpg) 

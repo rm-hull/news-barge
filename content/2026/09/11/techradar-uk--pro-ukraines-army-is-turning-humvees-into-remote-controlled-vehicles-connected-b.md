@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Why spend resources building new war robots when you already own 5,000
   Humvees?
 image: https://cdn.mos.cms.futurecdn.net/XraUSAVdVR8XEueiDifoCR-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A US-made M1151 Enhanced Armament Carrier also known as a Humvee](https://cdn.mos.cms.futurecdn.net/XraUSAVdVR8XEueiDifoCR.jpg) 

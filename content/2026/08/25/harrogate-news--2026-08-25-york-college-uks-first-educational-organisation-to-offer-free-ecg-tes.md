@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: York College has become the UK’s first educational organisation to offer
   fully-funded ECG heart screening tests to its sports team students and elite
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Footballer-Megan-Atkins-holds-up-a-torso-dummy-with-electrode-patches-on-it-as-part-of-the-ECG-testing-kit.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Business & Entrepreneurship
 ---
 
 York College has become the UK’s first educational organisation to offer fully-funded ECG heart screening tests to its sports team students and elite athletes, using a new form of technology.

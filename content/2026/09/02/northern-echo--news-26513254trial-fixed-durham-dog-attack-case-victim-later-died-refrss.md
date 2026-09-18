@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A woman has denied a charge relating to an attack said to have been committed
   by her dog on a man who suffered injuries in the incident and…
 image: https://www.thenorthernecho.co.uk/resources/images/19554091.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: The Northern Echo)*

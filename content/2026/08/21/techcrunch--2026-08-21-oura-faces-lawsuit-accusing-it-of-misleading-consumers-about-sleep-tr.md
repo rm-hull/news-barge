@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: The lawsuit alleges that Oura rings are unable to measure any of the
   physiological signals needed to assess sleep quality or determine sleep stages.
 image: https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800
+categories:
+- Health & Fitness
+- Technology & Software
 ---
 
 A proposed class action lawsuit is accusing smart ring maker Oura of deceiving consumers about the accuracy of its sleep tracking features.

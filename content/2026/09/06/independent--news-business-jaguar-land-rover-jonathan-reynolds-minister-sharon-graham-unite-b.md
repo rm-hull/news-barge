@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: The firm is expected to formally announce a major redundancy programme
   on Monday.
 image: https://static.independent.co.uk/2026/09/06/12/4e843e313dc547ca2d096db8b159e1fcY29udGVudHNlYXJjaGFwaSwxNzg4NzgwMjIw-2.79453908.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The Business Secretary has said there will be no bailout for Jaguar Land Rover amid reports that the UK’s largest car manufacturer is to cut 4,000 jobs.

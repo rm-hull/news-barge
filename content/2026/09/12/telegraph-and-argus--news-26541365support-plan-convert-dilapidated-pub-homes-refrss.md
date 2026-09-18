@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A PLAN to convert a Craven pub closed for six years to residential use
   has been given the backing of nearby residents.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19038393.jpg?type=og-image&xType=0&yType=87
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

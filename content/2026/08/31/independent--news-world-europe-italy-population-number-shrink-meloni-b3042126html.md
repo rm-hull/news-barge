@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Prime Minister Giorgia Meloni said when she took office in 2022 that
   boosting the birth rate would be a priority
 image: https://static.independent.co.uk/2026/07/29/11/59/iStock-1265037247.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Italy's population will shrink by almost 4 million by 2050, undermining the sustainability of its economy and welfare system as the proportion of elderly people increases, national statistics bureau ISTAT warned on Monday.

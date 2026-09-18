@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Kinky was not expected to survive after he broke his wing as a chick
   in 2023
 image: https://static.independent.co.uk/2026/09/04/9/48/kinky-mull.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A “death-defying” sea eagle that wildfire experts feared wouldn’t survive to adulthood has been spotted in the skies above Scotland’s west coast.

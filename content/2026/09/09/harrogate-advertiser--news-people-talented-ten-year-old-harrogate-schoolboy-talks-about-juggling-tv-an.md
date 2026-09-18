@@ -10,6 +10,11 @@ description: A ten-year-old Harrogate actor who was discovered while travelling 
   his family on the London Underground has won a top award at an international film
   event.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjYxMTU2YjExLTFiMGMtNDNhMC1iMWYwLTYzMjQ0YjEwNDMxMzo3MmE0M2QwYS0wYjkyLTQ3NzMtYTgyMS0wMGE2MjM1ZTRlN2Y=.jpg?crop=3:2,smart&trim=&width=720&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Film & TV
+- Arts & Culture
 ---
 
 # Talented ten-year-old Harrogate schoolboy talks about juggling TV and film roles with schoolwork

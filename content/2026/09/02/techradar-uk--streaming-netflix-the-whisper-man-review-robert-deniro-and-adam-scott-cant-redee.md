@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: The Whisper Man is another dud for Netflix, which is a shame considering
   a star-studded cast was attached to the project.
 image: https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

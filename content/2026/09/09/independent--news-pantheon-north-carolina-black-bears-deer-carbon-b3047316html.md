@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Scientists and investors are restoring a 23-square-mile tract of peatland
   in North Carolina to help curb climate-warming emissions and restore native habitat
 image: https://static.independent.co.uk/2026/09/09/14/Climate_Peatlands_Restoration__1427.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The birds are up with the sunrise — warblers, flycatchers, sparrows and towhees calling across the treetops. Deer browse on tender buds emerging from dense shrubs. Black bears scrounge for roots, insects and other edibles.

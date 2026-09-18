@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: A pair of transformer units, each weighing more than 180 tonnes, are
   being delivered to Eggborough by barge.
 image: https://www.yorkpress.co.uk/resources/images/21358059.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Caspar River and Canal Transport)*

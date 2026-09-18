@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T22:28:41Z'
 published: '2026-09-09T00:00:00Z'
 description: What is known? The species - previously only seen in Mexico - bites humans
 image: https://static.independent.co.uk/2026/09/09/20/51/CLOSE-UP.jpeg?trim=0,3,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A new species of mosquito has been found in the United States for the first time, Florida researchers announced this week.

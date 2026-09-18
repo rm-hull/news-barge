@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Diving teams have joined the search for a missing soldier as police continue
   to probe a disturbance and crash on the night of his disappearance
 image: https://www.thenorthernecho.co.uk/resources/images/21335336.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: MOD)*

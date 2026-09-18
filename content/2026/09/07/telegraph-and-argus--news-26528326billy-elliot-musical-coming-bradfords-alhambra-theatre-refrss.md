@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:14:55Z'
 published: '2026-09-07T00:00:00Z'
 description: Hit musical Billy Elliot is coming to Bradford's Alhambra Theatre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420256.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 HIT musical Billy Elliot is coming to Bradford's Alhambra Theatre.

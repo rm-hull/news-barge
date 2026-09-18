@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Vivek Ramaswamy, the GOP candidate for Ohio governor, has an estimated
   net worth of about $3 billion
 image: https://static.independent.co.uk/2026/09/06/18/03/HReMW83boAAIHuq.jpeg?trim=653,0,371,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ohio governor hopeful Vivek Ramaswamy was mocked online after attending Ohio State’s home opener in what commenters described as a “knockoff” jersey.

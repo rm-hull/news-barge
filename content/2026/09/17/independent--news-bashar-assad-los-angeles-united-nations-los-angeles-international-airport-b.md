@@ -11,6 +11,10 @@ description: A former Syrian military official convicted of torturing prisoners 
   in the U.S. A federal judge in Los Angeles is scheduled to sentence Samir Ousman
   Alsheikh on Thursday
 image: https://static.independent.co.uk/2026/09/17/05/Syrian_Official_California_93117.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A former Syrian military official convicted of torturing prisoners during President Bashar Assad's regime is facing a possible decades-long prison sentence in the U.S.

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: These images of nature in action are just some of the highly commended
   shots in the running for the prestigious nature photography award
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg
+categories:
+- Science
+- Technology & Software
+- Outdoors & Nature
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308747016.jpg?w=840)

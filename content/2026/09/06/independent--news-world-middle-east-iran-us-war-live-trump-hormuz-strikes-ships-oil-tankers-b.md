@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: The latest exchange of attacks followed an escalation in the past week
   which threatens to deepen the conflict
 image: https://static.independent.co.uk/2026/09/05/16/01/Video-News-Graphic-Designs-(66).png?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Business & Entrepreneurship
 ---
 
 The US and Iran have traded strikes on ships, the latest round of attacks since the conflict flared a week ago after a period of relative calm.

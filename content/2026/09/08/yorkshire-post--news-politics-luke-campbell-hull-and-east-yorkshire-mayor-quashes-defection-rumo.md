@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: The Hull and East Yorkshire Mayor, Luke Campbell, has slammed the political
   rumour mill amid claims he is considering a defection from Reform UK to Labour.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwMWIwYTg4LTgxZDQtNDE2NC1iOWIxLTM1ZTMzZWJiZDU1MDozNjhkYmRhOS03ZTliLTQzNTctODIyNi1iZDdmYWYwYTk3Yjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
 ---
 
 # Luke Campbell: Hull and East Yorkshire Mayor quashes defection rumours and underlines commitment to Reform

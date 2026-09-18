@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The York and North Yorkshire Combined Authority has approved a strategic
   Bus Service Improvement Plan to enhance rural connectivity and explore fare reforms
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2025/04/David_Skaith_Headshots_05-2.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 **HARROGATE**— A comprehensive strategic plan designed to upgrade public transport networks across York and North Yorkshire has received official cabinet approval at a Combined Authority meeting today.

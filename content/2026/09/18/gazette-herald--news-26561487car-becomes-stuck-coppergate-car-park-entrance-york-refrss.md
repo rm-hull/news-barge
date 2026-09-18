@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A fire and rescue crew has been called to a car that became stuck at
   the entrance to Coppergate Centre Car Park in York.
 image: https://www.gazetteherald.co.uk/resources/images/21471750.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A FIRE and rescue crew has been called to a car that became stuck at the entrance to a York city centre car park.

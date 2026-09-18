@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: HOUSE prices have surged by 44 per cent in one area of Bradford, according
   to a new report.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20399123.jpg?type=og-image&xType=0&yType=54
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 *(Image: Adam Clark Photography)*

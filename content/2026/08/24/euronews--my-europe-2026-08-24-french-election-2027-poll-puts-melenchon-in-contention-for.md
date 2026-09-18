@@ -9,6 +9,10 @@ description: 'Eight months before the presidential election, Jean-Luc Mélenchon
   surging in the polls. The LFI leader could now reach the run-off, while the left
   is split between his bid and the alternative championed by Raphaël Glucksmann. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/57/41/1200x675_cmsv2_9af2142f-4a56-5ff0-a0c4-211354136939-9885741.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Eight months before the presidential election, Jean-Luc Mélenchon is surging in the polls. The LFI leader could now reach the run-off, while the left is split between his bid and the alternative championed by Raphaël Glucksmann.

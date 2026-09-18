@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Elena Rybakina sweeps aside two-time champion Naomi Osaka to reach the
   US Open quarter-finals and close in on becoming world number one.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/00ab/live/06e41e10-ab07-11f1-ae93-9908ac6d5d2d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Elene Rybakina celebrates beating Naomi Osaka at the US Open](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/00ab/live/06e41e10-ab07-11f1-ae93-9908ac6d5d2d.jpg)

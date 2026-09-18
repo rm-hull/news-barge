@@ -9,6 +9,11 @@ description: Every young person deserves the chance to build a bright future, wh
   their background, circumstances or starting point. Yet for too many young people,
   the journey into education, training or employment is not straightforward.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0MTc1MWUxLTM5OWQtNGNiMC1iZTM1LWQ0YjQzMTRhOTVlMzo4Yzc3OTdjZS1kMWRmLTQwYWItODgwYy03Zjk0MTlhNmRjMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # The gap between talent and opportunity needs to be addressed - Meredith Dixon-Teasdale

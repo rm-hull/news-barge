@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Latest data to defy economic gloom shows 0.5% rise boosted by purchases
   of sports items, aircon units and fans during heatwaves
 image: https://i.guim.co.uk/img/media/aff9803da86a14af4834f9719faa63ae12304e49/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1103532510785e69f3853eaf51d18701
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget.

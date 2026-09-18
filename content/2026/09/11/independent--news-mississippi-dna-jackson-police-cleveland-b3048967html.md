@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Mississippi police have arrested a man in the death of Tasia Fortune,
   a Black woman found hanging from a tree last month
 image: https://static.independent.co.uk/2026/09/12/00/Mississippi_Woman_Hanging_97212.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Mississippi police have arrested a man in the death of Tasia Fortune, a Black woman found hanging from a tree last month.

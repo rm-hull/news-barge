@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Campaigners welcome plan to bring IPP sentences to a close but say the
   move is long overdue
 image: https://i.guim.co.uk/img/media/c384e1d386feb4ca365b2474c6d43b912c531811/1309_381_5805_4644/master/5805.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=947fe11a0412fe2c895eb66bebfce61c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Campaigners have hailed Andy Burnham’s pledge to bring an end to indefinite jail terms as “a day that thousands of families have spent years fighting for”.

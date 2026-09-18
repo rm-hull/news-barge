@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Nigeria's President Bola Tinubu has ordered an investigation into a man
   accused of creating a fake government agency
 image: https://static.independent.co.uk/2026/08/06/09/Nigeria-Rescue_41129.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigeria's President Bola Tinubu on Friday ordered an investigation into a man accused of creating and running a fake government agency, the second such agency uncovered in the country in recent weeks.

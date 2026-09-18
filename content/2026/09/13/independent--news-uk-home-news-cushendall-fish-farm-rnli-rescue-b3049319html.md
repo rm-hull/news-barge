@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The RNLI crew faced Force 9 gusting winds, heavy driving rain and total
   darkness throughout during the rescue
 image: https://static.independent.co.uk/2026/09/13/9/21/red_bay_rnli_rescue_six_people_in_seven-hour_overnight_operation.jpg?trim=400,0,400,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Six sailors have been rescued by the RNLI after a dramatic seven-hour overnight rescue in gale-force conditions off the coast of Cushendall.

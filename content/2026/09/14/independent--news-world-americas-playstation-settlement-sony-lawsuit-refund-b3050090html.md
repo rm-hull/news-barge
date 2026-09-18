@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The lawsuit argues that Sony’s practices violated federal antitrust laws
   and some state competition laws by limiting how and where those games could be sold
 image: https://static.independent.co.uk/2026/05/07/14/16/900x600.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 It ready to be “game on” for PlayStation users, after Sony agreed to pay $7.85 million as part of a preliminary settlement in a class-action lawsuit over purchases made on the PlayStation Store.

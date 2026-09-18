@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Families could save up to £1,200 a year as free school meals, breakfast
   clubs and cheaper uniforms help cut back-to-school costs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21297313.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A sapling from the well-known Sycamore Gap tree will be planted at the
   Lavender Fields Care Village in Barmby Moor.
 image: https://www.yorkpress.co.uk/resources/images/21443234.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Care village near York chosen to receive special Sycamore Gap sapling

@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:08:41Z'
 published: '2026-08-25T00:00:00Z'
 description: It is believed the man died from a cardiac arrest
 image: https://static.independent.co.uk/2026/08/24/15/01M075GV2FKC3W5VSWEAQEGSB8.jpg?trim=0,131,0,131&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An unidentified man found in the wheel compartment of a plane that landed at Gatwick airport died after being in extremely cold conditions with a lack of oxygen, an inquest opening has heard.

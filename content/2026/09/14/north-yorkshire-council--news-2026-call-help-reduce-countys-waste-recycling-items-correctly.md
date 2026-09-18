@@ -9,6 +9,12 @@ description: Residents in North Yorkshire are being encouraged to build on their
   recycling record by checking that all recyclable items are being placed in the correct
   container.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/1RecyclingWeek.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Home, Garden & DIY
 ---
 
 ![resident Alexis Flint shows how to recycle waste correctly with North Yorkshire Council’s executive member for managing our environment, Cllr Richard Foster.](https://www.northyorks.gov.uk/sites/default/files/2026-09/1RecyclingWeek.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The higher oil price fuelled fears of rising inflation, putting pressure
   on global bond yields.
 image: https://static.independent.co.uk/2026/09/01/17/988066d3887bf98e6af59857412969c3Y29udGVudHNlYXJjaGFwaSwxNzg4MzY2MzE3-2.83117733.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Stock prices in London closed lower on Tuesday as government bond yields soared on the back of rising oil prices, reigniting worries over inflation.

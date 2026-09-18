@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A VIKING-THEMED pub in Whitby has applied to change its name ahead of
   its official opening next week.
 image: https://www.gazetteherald.co.uk/resources/images/19027713.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 A VIKING-THEMED pub in Whitby has applied to change its name ahead of its official opening next week.

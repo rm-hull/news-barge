@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: 'Here’s another place the AI frenzy is making itself felt: the market
   for luxury homes'
 image: https://static.independent.co.uk/2026/09/02/13/AI_Luxury_Home_Sales_263_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Real Estate
 ---
 
 Here’s another place the AI frenzy is making itself felt: the market for luxury homes.

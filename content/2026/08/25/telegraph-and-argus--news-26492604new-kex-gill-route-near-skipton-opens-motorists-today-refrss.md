@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A new road has opened after landslips forced repeated closures on the
   old route.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21367208.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: UGC)*

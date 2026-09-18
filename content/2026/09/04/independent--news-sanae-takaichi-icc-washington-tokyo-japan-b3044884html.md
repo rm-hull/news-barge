@@ -10,6 +10,9 @@ description: A Japanese former defense minister on Friday called Washington’s 
   attack on the rules-based international order, urging Prime Minister Sanae Takaichi
   to more firmly protest and demand the U.S. withdraw the measures
 image: https://static.independent.co.uk/2026/08/26/13/Japan_Netherlands_ICC_89643.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A former Japanese defense minister on Friday described a U.S. decision to sanction the International Criminal Court and its Japanese president as an outright attack on the rules-based international order.

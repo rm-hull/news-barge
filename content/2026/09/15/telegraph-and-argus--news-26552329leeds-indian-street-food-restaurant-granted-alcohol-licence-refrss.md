@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An Indian street food restaurant will be allowed to serve alcohol after
   it opens in a busy Leeds student area.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458351.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 AN Indian street food restaurant will be allowed to serve alcohol after it opens in a busy student area.

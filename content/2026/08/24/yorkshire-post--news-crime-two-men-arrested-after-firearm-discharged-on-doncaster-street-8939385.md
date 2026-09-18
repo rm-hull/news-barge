@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Two men have been arrested on suspicion of firearms offences after a
   gun was reportedly discharged on a street in Doncaster.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/16/20/Gordon-Street-Doncaster.png?trim=0,59,0,59&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Two men arrested after firearm discharged on Doncaster street

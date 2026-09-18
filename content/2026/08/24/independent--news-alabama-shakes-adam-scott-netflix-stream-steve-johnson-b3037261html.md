@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: New streaming entertainment options are arriving soon, including a film
   adaptation of “The Whisper Man” and a new album from Alabama Shakes
 image: https://static.independent.co.uk/2026/08/21/17/The_Stream_53843.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 “The Whisper Man” film adaptation and a new album from the Alabama Shakes are some of the new television, films, music and games headed to a device near you.

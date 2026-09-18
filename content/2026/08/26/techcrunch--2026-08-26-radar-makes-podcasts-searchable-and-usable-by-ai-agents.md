@@ -9,6 +9,10 @@ description: Particle’s new podcast intelligence platform transcribes and anal
   more than 130,000 podcasts, making their conversations searchable on the web and
   accessible to AI agents through an API and MCP.
 image: https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Particle, the AI newsreader startup founded by former Twitter engineers, is shifting its focus to a potentially more lucrative idea: indexing the spoken conversations buried in podcasts and making them discoverable. On Wednesday, the company introduced Radar, a podcast search engine that not only transcribes podcast audio but also understands what it means, enabling it to pull out key quotes and highlights.

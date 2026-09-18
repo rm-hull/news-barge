@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Maura Higgins, known for her appearance on Love Island UK, will front
   the return of the iconic British dating show, set to return to screens in 2027.
 image: https://www.thenorthernecho.co.uk/resources/images/20864790.jpg?type=og-image&xType=0&yType=119
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Getty Images)*

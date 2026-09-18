@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:02:15Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/whitby-marina-car-park-river-rescue-18-sept-2026-coastguard-1.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A rescue operation was launched today (Friday) after a car went into the water at Whitby.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Plans for an Australia and New Zealand-inspired café and bar in a major
   York street have taken a step forward.
 image: https://www.yorkpress.co.uk/resources/images/20356956.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ## Australia-inspired café and bar in major York street takes step forward

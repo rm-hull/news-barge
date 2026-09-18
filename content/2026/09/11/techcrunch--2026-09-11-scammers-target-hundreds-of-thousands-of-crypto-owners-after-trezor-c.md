@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: This is the second data breach affecting a company that hardware crypto
   wallet maker Trezor relies on.
 image: https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Hardware crypto wallet maker Trezor is warning customers for the second time in as many months that one of the companies it relies on was hacked, exposing the data of Trezor’s customers to hackers.

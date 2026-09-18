@@ -10,6 +10,10 @@ description: Mike Evans, Demarcus Robinson and Deebo Samuel caught touchdown pas
   from Brock Purdy, and the San Francisco 49ers routed the Los Angeles Rams 27-7 in
   the first NFL regular-season game in Australia
 image: https://static.independent.co.uk/2026/09/11/04/APTOPIX_49ers_Rams_Football_83358.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Mike Evans, Demarcus Robinson and Deebo Samuel caught touchdown passes from Brock Purdy, and the San Francisco 49ers routed the Los Angeles Rams 27-7 Friday in the first NFL regular-season game in Australia.

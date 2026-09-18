@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The York and North Yorkshire Combined Authority has formally adopted
   a Retrofit Strategy aiming to modify 250,000 homes and commercial buildings by 2038
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2023/11/cropped-logosquare.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 **HARROGATE**— A new infrastructure policy blueprint addressing building energy efficiency and greenhouse gas targets across York and North Yorkshire has been formally adopted by cabinet members today.

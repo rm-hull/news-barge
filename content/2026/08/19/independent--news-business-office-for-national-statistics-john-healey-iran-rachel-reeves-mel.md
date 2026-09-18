@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The Office for National Statistics said Consumer Prices Index inflation
   rose to 2.9% in July, up from a 15-month low of 2.6% in June.
 image: https://static.independent.co.uk/2024/08/23/11/23105007-4f5042e4-78de-4f88-bcf7-0ddc52697677.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 UK inflation has jumped to its highest rate since March after energy prices were pushed up by the Iran war, according to official figures.

@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Google says it has updated its maps application to rename Lake Ontario
   as “Lake America” for users in the United States
 image: https://static.independent.co.uk/2026/08/15/00/Digital_Ad_Tax_3497_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 Google has updated its maps application to rename Lake Ontario as ‘Lake America’ for users in the United States, reflecting a recent order by President Donald Trump that changed the name of the lake, the global technology giant says.

@@ -9,6 +9,11 @@ scraped_at: '2026-08-31T16:08:29Z'
 published: '2026-08-31T00:00:00Z'
 description: There's a reason they say be loyal to the product, not the brand.
 image: https://cdn.mos.cms.futurecdn.net/faFwi2WakHkP45Nbq4hbhT-1186-80.webp
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Asus ROG Delta II KJP gaming headset](https://cdn.mos.cms.futurecdn.net/faFwi2WakHkP45Nbq4hbhT.webp) 

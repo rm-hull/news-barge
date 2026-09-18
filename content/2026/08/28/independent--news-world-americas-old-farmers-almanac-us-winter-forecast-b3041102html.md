@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:15:05Z'
 published: '2026-08-28T00:00:00Z'
 description: The season is looking mild for much of the country - with a few key exceptions
 image: https://static.independent.co.uk/2026/08/28/17/2263168212..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 This winter is looking mild for most of the U.S., according to the Old Farmer’s Almanac’s new winter forecast.

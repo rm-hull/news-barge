@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A yellow weather warning has been issued by the Met Office for thunderstorms
   - here is how you can prepare.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340366.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Getty)*

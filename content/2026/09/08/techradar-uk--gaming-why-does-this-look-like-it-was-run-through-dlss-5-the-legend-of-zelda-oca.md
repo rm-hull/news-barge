@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: 'The first Legend of Zelda: Ocarina of Time Remake trailer, showcasing
   realistic graphics and modernized controls, has divided the fanbase.'
 image: https://cdn.mos.cms.futurecdn.net/CyNTvUWHyFkHoRVAMptmGa-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Legend of Zelda: Ocarina of Time Remake](https://cdn.mos.cms.futurecdn.net/CyNTvUWHyFkHoRVAMptmGa.jpg) 

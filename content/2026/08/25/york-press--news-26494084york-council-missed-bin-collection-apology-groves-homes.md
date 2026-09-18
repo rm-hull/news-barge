@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Bin bags left uncollected for weeks in a York neighbourhood have been
   ripped open by animals and infested with flies, a resident has said.
 image: https://www.yorkpress.co.uk/resources/images/21369480.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Bin bags 'ripped apart and fly-infested' after weeks of missed collections in York

@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A historic Yorkshire golf club has been acquired by the UK’s largest
   owner and operator of country clubs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407427.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Sports
 ---
 
 *(Image: Supplied)*

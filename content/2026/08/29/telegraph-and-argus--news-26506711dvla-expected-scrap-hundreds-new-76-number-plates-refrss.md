@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Hundreds of new 76 number plate combinations are expected to be withheld
   by the DVLA before they are released on September 1, 2026.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384960.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty)*

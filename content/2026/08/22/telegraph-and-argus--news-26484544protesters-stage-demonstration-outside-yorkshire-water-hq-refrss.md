@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: A police presence was present at a protest outside Yorkshire Water's
   headquarters in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354606.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Mike Simmonds)*

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Liverpool are exploring a move for Crystal Palace's Ismaila Sarr after
   Brighton reject their two bids for Yankuba Minteh.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0236/live/67fb3470-a15e-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ismaila Sarr celebrating for Crystal Palace](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0236/live/67fb3470-a15e-11f1-aaf8-119f176ff4ce.jpg)

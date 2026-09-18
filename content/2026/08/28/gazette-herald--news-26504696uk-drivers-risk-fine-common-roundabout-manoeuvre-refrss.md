@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: '"Slingshotting" involves entering a roundabout from the right-hand lane
   and circling around to take a left exit, avoiding a line of…'
 image: https://www.gazetteherald.co.uk/resources/images/21383097.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

@@ -9,6 +9,11 @@ description: Detectives are appealing for any further victims to come forward af
   a former church deacon and youth group leader was jailed for sexual offences against
   four young men over a period of nearly 40 years.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/16/48/01M2G19T8F5GKQZTQ0VV6MT79B.jpeg?trim=562,0,651,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Former church deacon and youth group leader jailed for sexual offences

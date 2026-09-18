@@ -10,6 +10,9 @@ description: Nvidia has provided more color on its Vera CPU for agentic data cen
   at Hot Chips 2026, showcasing the benefits of spatial multithreading and power benefits
   of the LPDDR5X memory system.
 image: https://cdn.mos.cms.futurecdn.net/nxDGgasmtR5gDDCsVXUGtG-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia Vera CPU](https://cdn.mos.cms.futurecdn.net/nxDGgasmtR5gDDCsVXUGtG.jpg) 

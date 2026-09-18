@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: A Harrogate village school is celebrating its 175th anniversary by opening
   up some of its rarest archives to parents.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjgzODA4MmVmLTI0Y2EtNGRlMi1iOTYzLWUyMjc0NGFkNmU1ZjphMzZiYTVmZS1lMjFkLTQ3YmItYWM1Yy05NDFjZTk0ODQ5ZWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # 175th anniversary of Harrogate village school whose history began in a 1769 Sunday school

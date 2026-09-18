@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Standard UK meat chickens drive up risk of diarrhoea and sickness bug
   at least 100-fold, says charity
 image: https://static.independent.co.uk/2026/08/25/14/47/Copy-of-210522-IMG_6455.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Higher-welfare chicken farming could be a “secret weapon” in curbing the UK’s most common cause of food poisoning, the RSPCA says, after a study linked factory-farmed birds to soaring rates of infection in people.

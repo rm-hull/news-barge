@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T22:22:30Z'
 published: '2026-09-13T00:00:00Z'
 description: Seven officers were treated at the scene for injuries
 image: https://static.independent.co.uk/2026/09/13/19/02/comp.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have released photos of six men they’d like to speak to after disorder at an anti-migrant protest last weekend.

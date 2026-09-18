@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Stanley Druckenmiller said he was ‘proud of using it’ as wider media
   grapples with parameters around AI use
 image: https://i.guim.co.uk/img/media/6b01fb3eb37cae07f49af38f9fecf97dd8606915/0_0_5270_4219/master/5270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5fda542c276ad4a91437d747854c575
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Stanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his viral Wall Street Journal op-ed in which he sharply criticized the interference of Scott Bessent, the US treasury secretary, in the US bond market.

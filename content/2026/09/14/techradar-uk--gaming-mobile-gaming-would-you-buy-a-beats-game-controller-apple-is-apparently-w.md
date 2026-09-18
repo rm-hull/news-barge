@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Apple is apparently working on its own iPhone controller, and the Beats
   team could be leading on how it looks and feels.
 image: https://cdn.mos.cms.futurecdn.net/N9HDYHaxijy8qbqFCFQqeS-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Backbone One](https://cdn.mos.cms.futurecdn.net/N9HDYHaxijy8qbqFCFQqeS.jpg) 

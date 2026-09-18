@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The crash of the twin-seat Phantom F4 jet occurred during a low-altitude
   manoeuvre
 image: https://static.independent.co.uk/2026/09/05/15/2293099887..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Two pilots were killed when a Greek air force jet crashed at an annual air show north of Athens on Saturday, officials said.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: 33 vehicles were found to be speeding during a community speed watch
   operation.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369547.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

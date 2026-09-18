@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Atlanta’s Bradley Carlisle first played Kris Kringle for kids with Down’s
   syndrome and has now completed elite Santa Academy
 image: https://i.guim.co.uk/img/media/865ce1b9653571395a8a8ac0a50fd2c2f139539a/0_216_3344_2675/master/3344.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad80698da218d8d49fc12b23385ec343
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 After recently gaining recognition as the first professional Santa Claus with Down’s syndrome in the US, Bradley Carlisle has already gotten a lot more than the traditional serving of milk and cookies that is usually left out for Father Christmas each year.

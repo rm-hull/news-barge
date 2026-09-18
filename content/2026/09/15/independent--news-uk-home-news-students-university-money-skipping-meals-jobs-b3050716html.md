@@ -10,6 +10,10 @@ description: The government has been urged to ensure any student loan reforms in
   increasing maintenance funding to help tackle the cost-of-living crisis facing current
   students
 image: https://static.independent.co.uk/2026/09/15/17/39/iStock-1564600287.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Students are missing meals and balancing multiple jobs because financial support provided through maintenance loans is failing to cover basic living costs, a report has warned.

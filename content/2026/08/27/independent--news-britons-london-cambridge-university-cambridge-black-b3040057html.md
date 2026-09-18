@@ -10,6 +10,9 @@ description: Britons who saw Professor Jason Arday’s life and death dissected 
   of headlines covering allegations about his academic qualifications and personal
   accomplishments can now read his version of the story
 image: https://static.independent.co.uk/2026/08/27/05/Britain_Cambridge_Professor_27398.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Britons who saw Professor Jason Arday’s life and death dissected by weeks of headlines covering allegations about his academic qualifications and personal accomplishments can now read his version of the story.

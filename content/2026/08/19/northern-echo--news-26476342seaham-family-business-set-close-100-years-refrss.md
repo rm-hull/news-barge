@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A beloved Seaham family business is set to close its doors after more
   than 100 years serving the town.
 image: https://www.thenorthernecho.co.uk/resources/images/21339150.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

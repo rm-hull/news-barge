@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: U.S. ostrich farmers say they’re finding new customers who developed
   a red meat allergy triggered by tick bites
 image: https://static.independent.co.uk/2026/09/06/12/Alpha-Gal-Ostrich_Meat_41681.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 When a friend approached Brent Williams four years ago with a business proposition to start an ostrich farm, he was more than intrigued — he had a personal motivation as someone who developed a life-threatening allergy to red meat, triggered by tick bites.

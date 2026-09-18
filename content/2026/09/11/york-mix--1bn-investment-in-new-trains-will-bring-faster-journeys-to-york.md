@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:48:37Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/battery-powered-trains-transpennine-express-visual.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 A £1 billion investment into 29 new battery-electric trains will “bring faster, more reliable journeys to the North”, Andy Burnham has said.

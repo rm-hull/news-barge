@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Police say they are working to identify the victims and contact their
   families after the crash on Teesside.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![Breaking News](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png)

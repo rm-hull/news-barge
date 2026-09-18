@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate
   Russian Flag Day.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Cars line up at a petrol station in Moscow on Thursday](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2fd9/live/71e79330-9d5c-11f1-a979-27696fc3a013.jpg)

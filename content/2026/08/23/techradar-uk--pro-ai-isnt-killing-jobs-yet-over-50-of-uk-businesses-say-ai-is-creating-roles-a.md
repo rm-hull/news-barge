@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: UK businesses are pouring up to £250000 into AI skills training even
   as workforce gaps stay wide open
 image: https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Accelerating SMB Business with Dell AI PCs](https://cdn.mos.cms.futurecdn.net/YviqDhkc8Uz4W7yjbrCF7o.png) 

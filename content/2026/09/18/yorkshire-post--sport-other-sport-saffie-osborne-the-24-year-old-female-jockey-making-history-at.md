@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: The result of the 250th St Leger Stakes was a monumental moment as a
   female jockey won a British Classic for the first time. Stuart Minting reports.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA3ODgxNzJlLTQ1MTItNDJmOS05N2U3LTJiNDk3YmZhZDU2MzphN2Y1YzM1MC03MDM0LTQ3YmQtODIxYi04OWU5MTAzNjQ2NmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Sports
 ---
 
 # Saffie Osborne: The 24-year-old female jockey making history at the St Leger

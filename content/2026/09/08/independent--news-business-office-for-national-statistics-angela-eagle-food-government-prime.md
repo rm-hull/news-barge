@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A £100 grocery shop in January 2020 would cost £138.60 today – a rise
   of 38.6%, based on latest Office for National Statistics figures.
 image: https://static.independent.co.uk/2026/09/09/00/34d1dbe00feedca9f5a3589fe2b03eeeY29udGVudHNlYXJjaGFwaSwxNzg4OTU1NTEw-2.71079005.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Food inflation is expected to reach almost 4% by Christmas, and peak at 6.4% in July next year, as pressures from conflict and extreme weather reach supermarket shelves, the industry has warned.

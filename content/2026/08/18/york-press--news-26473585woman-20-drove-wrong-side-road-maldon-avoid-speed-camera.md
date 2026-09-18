@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A woman drove on the wrong side of the road with her headlights off to
   avoid being caught speeding in England.
 image: https://www.yorkpress.co.uk/resources/images/20073013.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- Travel
 ---
 
 *(Image: Getty)*

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: People have spotted Hawes looking very festive with filming for the Tesco's
   Christmas advert taking place.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21416369.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Getty)*

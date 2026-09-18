@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A plea has been made to build five maisonettes above what locals have
   dubbed “one of the best shops” in the world.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJhMmY2M2NjLWM2N2QtNDI2Mi1hNGNhLTE5MGM5MWRiMWEzZTo0MmJjMWE3My1jZWQxLTQ1ZDktOWY0YS01ZWI2NDU4Njc5ODI=.jpg?crop=3:2,smart&trim=&width=989&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Exciting plans pitched for Batley’s ‘best shop in the world’

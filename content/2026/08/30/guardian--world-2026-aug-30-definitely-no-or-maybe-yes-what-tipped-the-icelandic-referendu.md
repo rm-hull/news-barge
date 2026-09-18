@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: The no campaign was well-funded and accused of scaremongering, but the
   wording of the question may also have made a difference
 image: https://i.guim.co.uk/img/media/d9543fc38639f7f029358cc034406c5d578ad86b/724_0_6616_5293/master/6616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7d210b0411faf11edc96a7526a5d87c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 It was always going to be a close contest. But on the night, the figures showed just how divided Iceland was on the issue of whether or not to restart negotiations with the European Union.

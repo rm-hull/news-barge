@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Dominick Cebula, 13, was looking for fish at Cunningham Falls State Park
   when he was set upon, his family said
 image: https://static.independent.co.uk/2026/09/16/11/39/106955735_1787404532428970_r.jpeg?trim=105,0,218,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A teenage boy was mauled by a rabid beaver while swimming on a family trip to a state park in Maryland.

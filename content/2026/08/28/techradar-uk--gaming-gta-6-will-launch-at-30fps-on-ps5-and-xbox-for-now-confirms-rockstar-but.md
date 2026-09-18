@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Grand Theft Auto 6 won't run at 60fps and will reportedly launch at 30fps
   on consoles, but Rockstar Games may add more performance modes later.
 image: https://cdn.mos.cms.futurecdn.net/RDwBQB9JUkbCwEtzDErsf5-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/RDwBQB9JUkbCwEtzDErsf5.jpg) 

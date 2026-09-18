@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: An eight-week course of self-administered laughter therapy helped a small
   number of people with chronic obstructive pulmonary disease breathe more easily
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310661272.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![A group practises laughter yoga](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310661272.jpg?w=840)

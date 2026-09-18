@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A man involved in a domestic row with his then partner made racist remarks
   in the hearing of her neighbour.
 image: https://www.thenorthernecho.co.uk/resources/images/18443428.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

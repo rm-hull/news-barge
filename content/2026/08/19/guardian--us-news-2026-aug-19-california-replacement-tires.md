@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Regulations that would block sale of older tires praised by environmental
   groups amid rightwing backlash
 image: https://i.guim.co.uk/img/media/c0b320bd4121d9d212bc551bbe2be76a3b0474bc/947_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c792e75c55679a9be7112e983ede0e48
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 California has become the first state in the nation to mandate that replacement tires be energy efficient, a major auto industry regulation set to block the sale of older tires and make vehicles on the road greener.

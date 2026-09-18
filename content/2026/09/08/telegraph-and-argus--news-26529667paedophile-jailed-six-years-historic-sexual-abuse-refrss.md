@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A convicted paedophile from Halifax who received a 10-year prison sentence
   in 2012 for child sex offences has been jailed again.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422194.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 *(Image: Google Maps)*

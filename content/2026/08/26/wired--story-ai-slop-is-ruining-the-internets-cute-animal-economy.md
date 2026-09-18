@@ -9,6 +9,10 @@ description: Pet owners, rescue agencies, and wildlife groups are calling for ne
   safeguards as AI makes it harder to tell whether animals, from polar bears to house
   cats, are real or fake.
 image: https://media.wired.com/photos/6a863dcae60bdcf9fa334f31/191:100/w_1280,c_limit/AI-Slop-Is-Ruining-Internets-Cute-Animal-Economy-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Pets & Animals
 ---
 
 AI-generated videos and pictures are destroying one of the largest and most enduring sources of joy and compassion on the internet: animals. Whether the imagery features sailors rescuing a polar bear, baby cows separated from their mothers, or a lost pet that was miraculously found, many people have reached the point where they can’t take the creatures on their feeds at face value anymore. The explosion of deepfakes and AI slop over the past few years has led to widespread frustration among viewers, creators, and organizations that support animals, forcing everyone to hunt in the pixels for glitches or other telltale signs of AI.

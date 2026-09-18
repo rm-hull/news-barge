@@ -9,6 +9,10 @@ description: 'France is redrawing its world map: deeming the Mercator projection
   the foreign ministry will drop it in favour of a map that better reflects actual
   continental sizes, especially Africa.'
 image: https://images.euronews.com/articles/stories/09/90/23/43/1200x675_cmsv2_04a42231-05ff-5154-8bb2-a860d58695f0-9902343.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## France is redrawing its world map: deeming the Mercator projection misleading, the foreign ministry will drop it in favour of a map that better reflects actual continental sizes, especially Africa.

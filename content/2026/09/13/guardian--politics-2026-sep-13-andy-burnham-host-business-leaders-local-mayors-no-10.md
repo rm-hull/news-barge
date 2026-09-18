@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Prime minister vows to ‘reindustrialise Britain’ through new partnership
   with business
 image: https://i.guim.co.uk/img/media/a0cac622860a5bd34d5fc74415a28b00182fbf8a/417_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dcd0a0d999f97f5b2f0b196e32d8897
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to pitch his government as a “partner for growth” that can offer a stable platform for investment and jobs in the UK.

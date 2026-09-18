@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Marianne Flippo is taking West Point graduate and onetime ‘companion’
   Greggory Starr to court in an attempt to get her money back
 image: https://static.independent.co.uk/2026/09/15/20/35/GettyImages-2265529069.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The grieving widow of an early Roblox employee who died by suicide in 2024 says a male escort she met in the aftermath was in fact a scheming con artist who pilfered $6 million of the fortune she inherited from her late husband – and was on the cusp of extracting another $4 million from her when the alleged scheme finally came undone, according to a tranche of lawsuit-related documents obtained by *The Independent*.

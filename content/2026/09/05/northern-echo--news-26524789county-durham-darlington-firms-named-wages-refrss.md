@@ -9,6 +9,13 @@ published: '2026-09-05T00:00:00Z'
 description: County Durham businesses have been named and shamed by the Government
   after workers were denied thousands of pounds in wages.
 image: https://www.thenorthernecho.co.uk/resources/images/20686805.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: PA MEDIA)*

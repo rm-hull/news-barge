@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A 55-year-old woman was arrested by Humberside Police after reportedly
   failing a breathalyser test after being found asleep in her car in…
 image: https://www.yorkpress.co.uk/resources/images/2595675.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Submitted)*

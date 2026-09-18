@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Karabakh is moving from reconstruction towards a new phase of economic
   development, with new industrial and logistics zones attracting investment.
 image: https://images.euronews.com/articles/stories/09/86/99/59/1200x675_cmsv2_5b2f6a86-6200-5648-a378-b15648f919d0-9869959.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **Euronews**

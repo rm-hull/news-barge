@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A lunch club supporting people affected by homelessness in Harrogate
   has received funding for another year.
 image: https://mmo.aiircdn.com/409/6a97f77e867e0e3c7c4.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97f77e867e0e3c7c4.jpg) 

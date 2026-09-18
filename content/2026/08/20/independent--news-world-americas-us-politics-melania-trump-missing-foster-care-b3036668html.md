@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The first lady ended her month-long absence amid heightened scrutiny
   into the president’s top aide Natalie Harp
 image: https://static.independent.co.uk/2026/08/20/20/2291326170..?trim=201,0,201,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 First Lady Melania Trump made her first public appearance in more than a month as she delivered remarks from the White House to tout her foster care initiative.

@@ -9,6 +9,8 @@ published: '2026-08-23T00:00:00Z'
 description: Don't understand what a Googlebook is, or how it's different from a Chromebook?
   We cut through the confusion for those hunting out a new laptop.
 image: https://cdn.mos.cms.futurecdn.net/i9GhqXus4QKgjaz6BDHiaH-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![HP Chromebook Plus 15.6-inch on table with pink wall and plant in background](https://cdn.mos.cms.futurecdn.net/i9GhqXus4QKgjaz6BDHiaH.jpg) 

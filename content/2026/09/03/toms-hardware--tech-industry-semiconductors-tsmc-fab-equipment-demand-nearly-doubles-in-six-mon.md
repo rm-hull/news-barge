@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:48:02Z'
 published: '2026-09-03T00:00:00Z'
 description: Why the CapEx is just 15% up this year?
 image: https://cdn.mos.cms.futurecdn.net/dqa9GQXHrqhhgMVZAPVBNi-1280-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![TSMC](https://cdn.mos.cms.futurecdn.net/dqa9GQXHrqhhgMVZAPVBNi.png) 

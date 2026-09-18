@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Police said man’s body was found in a house in Dungannon alongside an
   injured young girl
 image: https://static.independent.co.uk/2026/08/29/15/01M16W529SV2G5S12H2A9V0JQH.jpg?trim=67,0,67,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A male has been arrested on suspicion of murder and attempted murder after a man was found dead next to a seriously injured young girl.

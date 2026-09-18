@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Jeff Wayne’s War of the Worlds concert tour will visit UK theatres and
   concert halls in October 2026.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432847.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 *(Image: Bradford Live)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T08:55:03Z'
 published: '2026-08-25T00:00:00Z'
 description: WALLACE and Gromit are coming to Brighouse in a brand-new way.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339792.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

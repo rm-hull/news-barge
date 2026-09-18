@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A free event is set to highlight the urgent need for action on climate
   and nature crises, taking place at the Barlow Room in Middlethorpe Hall &…
 image: https://www.gazetteherald.co.uk/resources/images/21409467.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A free event is set to highlight the urgent need for action on climate and nature crises.

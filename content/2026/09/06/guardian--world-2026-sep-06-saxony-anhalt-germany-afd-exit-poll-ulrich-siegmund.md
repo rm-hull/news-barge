@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Exit poll shows Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt
   after huge turnout, with votes still being counted
 image: https://i.guim.co.uk/img/media/eabad25ad64cbcb78ce194592dff54c12e76611f/357_0_4806_3847/master/4806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2beb2af9b27281f17da26069752fba4
+categories:
+- UK
+- News & Politics
 ---
 
 The populist far-right, anti-immigration Alternative für Deutschland has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support, and appearing to be on the brink of becoming the first far-right party to gain power at state level since the second world war. 

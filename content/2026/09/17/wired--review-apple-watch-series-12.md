@@ -9,6 +9,9 @@ description: After wearing it day and night for a week, I found that better heal
   tracking, faster charging, and a simpler interface make Apple’s latest smartwatch
   noticeably easier to live with.
 image: https://media.wired.com/photos/6aab51d5fb7533563c98fa41/191:100/w_1280,c_limit/GettyImages-2293832395.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 On the surface, the Apple Watch Series 12 doesn’t appear to be a major upgrade over last year’s release and, in many ways, it isn’t. But after a week of wearing it day and night, I noticed that the Series 12 feels more intuitive, putting fewer steps between me and the information I need from my everyday smartwatch.

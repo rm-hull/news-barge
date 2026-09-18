@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: ChatGPT filtered my inbox all afternoon, and only three emails made the
   cut
 image: https://cdn.mos.cms.futurecdn.net/sQdG76fgbnKWhaKwUGbUBm-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT and Gmail on a mobile phone.](https://cdn.mos.cms.futurecdn.net/sQdG76fgbnKWhaKwUGbUBm.jpg) 

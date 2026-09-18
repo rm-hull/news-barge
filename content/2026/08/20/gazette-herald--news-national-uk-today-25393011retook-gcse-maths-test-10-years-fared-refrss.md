@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: I decided to test just how much of GCSE maths I remember, and retake
   a past paper 11 years on. But how did I get on?
 image: https://www.gazetteherald.co.uk/resources/images/19835616.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 *(Image: Newsquest)*

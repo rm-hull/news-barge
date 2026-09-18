@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Isar Aerospace plans rapid expansion amid race to capitalise on expanding
   satellite-launch market
 image: https://i.guim.co.uk/img/media/172434774f2fbc7efb0751cb504e5c9d76b5babb/515_0_6646_5317/master/6646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f6c278870395b728156e5ea1ecee7e2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Science
 ---
 
 A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.

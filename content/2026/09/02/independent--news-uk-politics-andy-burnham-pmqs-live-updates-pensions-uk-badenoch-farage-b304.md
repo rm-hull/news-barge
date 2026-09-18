@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:03Z'
 published: '2026-09-02T00:00:00Z'
 description: Tory leader warns markets worried about Labour spending plans
 image: https://static.independent.co.uk/2026/09/02/11/2026-09-02T104522Z_1139170343_RC2YANAR69YE_RTRMADP_3_BRITAIN-POLITICS-PMQS.JPG?trim=163,113,3,128&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has refused to rule out further tax rises in his October Budget, in his first Prime Minister’s Questions, as Kemi Badenoch accused him of being a “people-pleaser”

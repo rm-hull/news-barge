@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The family contacted authorities after realizing text messages to those
   onboard were not going through
 image: https://static.independent.co.uk/2026/09/08/16/28/iStock-984370770.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Four family members aboard a small plane that vanished off the Bahamas were found dead Tuesday after relatives launched their own search effort, according to a family member.

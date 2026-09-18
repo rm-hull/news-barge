@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Tottenham and their forward Richarlison are in dispute over the remaining
   nine months on his contract.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Richarlison](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f4ff/live/b33e3330-ad46-11f1-ae59-91d2b63bf2a3.jpg)

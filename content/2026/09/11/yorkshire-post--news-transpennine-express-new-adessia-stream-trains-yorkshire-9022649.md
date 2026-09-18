@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The government’s pledge to bring ‘faster, more reliable journeys to the
   North’ will be delivered by a new fleet of 29 battery-electric trains.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/14/04/TPE-TRU-Trains-2.png?trim=10,0,11,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Inside the 29 new trains which 'will bring faster, more reliable travel to Yorkshire'

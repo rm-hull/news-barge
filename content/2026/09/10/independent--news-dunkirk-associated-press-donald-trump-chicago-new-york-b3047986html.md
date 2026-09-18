@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Thousands of water systems nationwide still have not accounted for potentially
   dangerous lead pipes supplying homes and businesses with drinking water
 image: https://static.independent.co.uk/2026/09/10/14/Climate_Lead_Water_Enforcement_714_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Kathryn Pilgrim knew the century-old Victorian she bought in Dunkirk, New York, came with old plumbing. She replaced pipes she suspected of containing lead and later installed a kitchen filter designed to remove heavy metals.

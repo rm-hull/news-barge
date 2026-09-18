@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: AN AWAY following of 556 in a crowd of just 3,165 saw Bradford City beat
   Leyton Orient in the Carabao Cup last night. Can you spot yourself?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431201.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 AN AWAY following of 556 in a crowd of just 3,165 saw Bradford City beat Leyton Orient in the Carabao Cup third round last night.

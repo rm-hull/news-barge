@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: An awarding winning village pub at Riccall in North Yorkshire has gone
   under, with its company owner owing more than £80,000.
 image: https://www.yorkpress.co.uk/resources/images/21342917.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Award-winning North Yorkshire pub liquidates owing more than £80,000

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: If you are moving to Darlington, you might want to see how easy or hard
   it is to get into certain schools in the area.
 image: https://www.thenorthernecho.co.uk/resources/images/21413200.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 If you are thinking of moving to Darlington with your family, one of the most important things to consider is schools.

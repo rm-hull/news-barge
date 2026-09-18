@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Liverpool's draw at Newcastle emphasised once again their midfield fragility
   but will they act in the market and bring in a defensive-minded player?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ccd1/live/a22c1ad0-a085-11f1-bfeb-dfb02ea642ef.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ryan Gravenberch looks downcast during Liverpool's game at Newcastle](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/ccd1/live/a22c1ad0-a085-11f1-bfeb-dfb02ea642ef.jpg)

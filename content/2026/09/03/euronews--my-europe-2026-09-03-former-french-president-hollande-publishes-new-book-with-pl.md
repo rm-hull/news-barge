@@ -9,6 +9,10 @@ description: 'François Hollande on Thursday released a book setting out 80 poli
   proposals. Despite its manifesto tone, the former president says he will wait until
   December to decide whether to run. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/96/76/1200x675_cmsv2_43185b02-94fe-5fa6-aea9-60b0578d53fd-9899676.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## François Hollande on Thursday released a book setting out 80 policy proposals. Despite its manifesto tone, the former president says he will wait until December to decide whether to run.

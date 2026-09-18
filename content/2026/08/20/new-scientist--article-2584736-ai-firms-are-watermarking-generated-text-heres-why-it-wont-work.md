@@ -9,6 +9,10 @@ description: AI companies have begun embedding watermarks in the output of their
   to improve transparency and help crack down on misinformation, disinformation and
   cheating on homework, but there are limitations to this approach
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308808886.jpg?w=840)

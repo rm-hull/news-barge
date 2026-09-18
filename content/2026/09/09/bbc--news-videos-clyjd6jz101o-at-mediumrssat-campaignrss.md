@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Tens of thousands of people lined the streets to pay their respects after
   13 days of national mourning.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2743/live/198c4c70-ac67-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 # Watch: Norway bids farewell to King Harald

@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Trump says US could strike Pickaxe Mountain after construction activity
   seen at deeply buried complex
 image: https://static.independent.co.uk/2026/09/09/1/07/GettyImages-2289908029.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/ZUkJaoRl/poster.jpg?width=720)

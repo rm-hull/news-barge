@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A litre of unleaded now costs 167.17p which is the biggest weekly increase
   since April, data shows.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Woman filling her car at a petrol station in the North East of England. The woman is looking worriedly at the price on the screen](https://ichef.bbci.co.uk/ace/standard/1552/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg)

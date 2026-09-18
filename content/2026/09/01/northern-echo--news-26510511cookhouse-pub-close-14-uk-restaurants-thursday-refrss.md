@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Cookhouse + Pub will close all 14 of its UK sites on Thursday (September
   3) as part of Whitbread’s decision to shut its standalone branded…
 image: https://www.thenorthernecho.co.uk/resources/images/21394115.jpg?type=og-image&xType=0&yType=107
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

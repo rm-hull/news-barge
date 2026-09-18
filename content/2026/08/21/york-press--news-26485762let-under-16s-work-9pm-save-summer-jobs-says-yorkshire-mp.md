@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: AN MP has called for action to ‘save summer jobs’ in North Yorkshire
   by removing barriers to young people entering work.
 image: https://www.yorkpress.co.uk/resources/images/21356034.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## MP calls for law change to 'save summer jobs' for young people

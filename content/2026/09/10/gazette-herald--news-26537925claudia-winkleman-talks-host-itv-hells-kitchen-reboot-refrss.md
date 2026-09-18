@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Claudia Winkleman could be set to front the UK revival of Hell’s Kitchen
   with ITV looking to bring it back after 17 years.
 image: https://www.gazetteherald.co.uk/resources/images/19494605.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: ITV)*

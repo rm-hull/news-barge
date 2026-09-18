@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: In latest extracts from upcoming memoir, Diana’s brother suggests some
   in Buckingham Palace were ‘relieved’ at her death
 image: https://i.guim.co.uk/img/media/578dce81dd1ea6b5839ce9b0f9bf2aa5e4ae7cc0/0_65_5000_4001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=360b96c34e6bc464496f868ee628f44a
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 The brother of the late Diana, Princess of Wales, has claimed in published extracts of his new memoir that King Charles sounded “giddily elated – like a lottery winner” in a phone call to him immediately after her death.

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: An investigation has been launched into tree felling carried out as part
   of works linked to a proposed car park at the former Norman Lodge care home…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21318605.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

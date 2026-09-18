@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: There is a stunning seaside town with great restaurants and sandy beaches
   between Manchester and Liverpool.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20415810.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 *(Image: Tripadvisor)*

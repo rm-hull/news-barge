@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: The Auckland Project’s Bishop’s Alive campaign has boosted tourism interest
   in Bishop Auckland, reaching more than 3.5 million people and…
 image: https://www.thenorthernecho.co.uk/resources/images/21352992.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Travel
 ---
 
 A campaign promoting Bishop Auckland as a visitor destination has helped drive a sharp rise in tourism interest, with website visits and ticket sales climbing significantly since its launch.

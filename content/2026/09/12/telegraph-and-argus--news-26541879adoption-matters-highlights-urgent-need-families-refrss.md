@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: A NEW report from Adoption England warns that by 2030 there may only
   be enough approved adoptive families for just 13 per cent of children in need…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439444.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,9 @@ description: The Asus PG27UCWM brings a new sub-pixel layout to the world of OLE
   gaming monitors, and in my testing, I appreciated the improvements it brings to
   the table.
 image: https://media.wired.com/photos/6a8929628708f4555b819a56/191:100/w_1280,c_limit/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.

@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: The Pentagon, which provides partial financial backing for the outlet,
   terminated the three staff members last week
 image: https://static.independent.co.uk/2026/08/22/16/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Three staff members from the military publication Stars and Stripes have launched a legal challenge over their termination by the Pentagon, accusing the Trump administration of breaching their First Amendment rights to oppose state interference in their reporting.

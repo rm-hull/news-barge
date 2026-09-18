@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Rail services serving Bradford Interchange are beginning to return to
   normal this afternoon after a vehicle crashed into a railway bridge in Bramley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21027747.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 Rail services serving Bradford Interchange are beginning to return to normal this afternoon after a vehicle crashed into a railway bridge in Bramley.

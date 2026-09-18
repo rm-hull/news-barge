@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: An organic health and food store has been told it needs to improve after
   receiving a one-star food hygiene rating.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433553.jpg?type=og-image&xType=0&yType=94
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Food & Cooking
 ---
 
 *(Image: Google Maps)*

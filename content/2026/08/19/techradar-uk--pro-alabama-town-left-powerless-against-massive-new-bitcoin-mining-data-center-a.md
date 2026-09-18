@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The county has resorted to requesting that the bitcoin mining data center's
   owner not build out instead
 image: https://cdn.mos.cms.futurecdn.net/qwVMPmsWLzogqXauUuG87a-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Best Cloud Mining](https://cdn.mos.cms.futurecdn.net/qwVMPmsWLzogqXauUuG87a.jpg) 

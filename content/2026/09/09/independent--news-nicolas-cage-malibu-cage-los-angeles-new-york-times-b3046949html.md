@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The driveway of a coastal mansion in Malibu owned by actor Nicolas Cage
   has collapsed and opened a giant hole in front of the house
 image: https://static.independent.co.uk/2026/09/09/03/Nicolas_Cage_Driveway_Collapse_75_39.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The driveway of a coastal mansion in Malibu owned by actor Nicolas Cage collapsed Tuesday morning, opening up a giant hole in front of the house.

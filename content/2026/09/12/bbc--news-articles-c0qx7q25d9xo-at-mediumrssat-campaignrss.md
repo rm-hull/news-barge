@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Several of the papers consider on the fall of the assisted dying bill
   in the House of Commons on Friday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0608/live/eb82adc0-ae2c-11f1-933b-b9c22df145d4.png
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![The headline on the front page of the FTWeekend reads: “Military jet tripped air traffic chaos”.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/1e3e/live/07306810-ae22-11f1-a540-61c3f7fc4e6c.jpg)

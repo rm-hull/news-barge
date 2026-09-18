@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A new café is preparing to open its doors for the first time in Bishop
   Auckland.
 image: https://www.thenorthernecho.co.uk/resources/images/21329418.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE MAPS)*

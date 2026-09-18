@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The victim of a “glassing” and his attacker have both received suspended
   prison sentences following an incident at a cocktail bar in Selby, York…
 image: https://www.yorkpress.co.uk/resources/images/21397453.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Google Street View)*

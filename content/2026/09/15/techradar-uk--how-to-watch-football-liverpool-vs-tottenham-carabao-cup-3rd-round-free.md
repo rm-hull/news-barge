@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Reds will aim to inflict further misery on a Spurs side that has
   yet to score a league goal this season
 image: https://cdn.mos.cms.futurecdn.net/RVgqjxWw28YWjmNCaSEotC-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Alexis Mac Allister of Liverpool celebrates after scoring a goal to make it 2-1 during the UEFA Champions League 2026/27 League Phase MD1 match between Liverpool FC and Atletico de Madrid at Anfield](https://cdn.mos.cms.futurecdn.net/RVgqjxWw28YWjmNCaSEotC.jpg) 

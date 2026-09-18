@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman has died following an incident which led to the overnight closure
   of a stretch of the M62 in West Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21428157.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Motorway Cameras)*

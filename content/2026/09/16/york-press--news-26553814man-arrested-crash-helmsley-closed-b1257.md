@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: North Yorkshire Police said the incident happened at 12.55pm on Saturday,
   September 12, on the B1257 outside The Feversham Arms and involved a…
 image: https://www.yorkpress.co.uk/resources/images/19226588.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

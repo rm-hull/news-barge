@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: How are women really faring in Silicon Valley? Submit your questions
   to our panel and we'll give you the scoop.
 image: https://media.wired.com/photos/6aabf7dd25a79073598690d5/191:100/w_1280,c_limit/Livestream%20Top%20Art%20-%20Women%20In%20Tech.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 In 2026, as DEI and woke were declared over, WIRED set out to investigate the state of gender in Silicon Valley. As tech titans embraced Trump and the right, as Mark Zuckerberg declared that “masculine energy” was needed and Elon Musk cut federal female workers most of all, the backlash was in full swing. In our effort to understand the state of women in tech, we found frustrated females, confusion over who are the new AI girlbosses, and a total lack of interest in talking about gender at all.

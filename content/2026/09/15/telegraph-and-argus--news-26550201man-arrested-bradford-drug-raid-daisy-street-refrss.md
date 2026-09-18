@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:28:07Z'
 published: '2026-09-15T00:00:00Z'
 description: A man has been arrested following a drug raid at a property.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20824189.jpg?type=og-image&xType=0&yType=161
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pixabay)*

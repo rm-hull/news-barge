@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Chris Wright tells ABC there ‘may not’ be an agreement that would prevent
   Iran from having nuclear weapons
 image: https://i.guim.co.uk/img/media/ccc6df5c5160ccabf5586177abf886151fbfd850/617_0_4583_3668/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e7793b1f7c8036b33b13ba9ee9cd883
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 US energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a nuclear agreement with Iran that would prevent the country from having nuclear weapons.

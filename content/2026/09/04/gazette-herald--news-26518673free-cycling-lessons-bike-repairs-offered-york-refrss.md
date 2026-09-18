@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A new cycling scheme is aiming to help adults build confidence on two
   wheels at Burnholme Leisure Centre.
 image: https://www.gazetteherald.co.uk/resources/images/21405860.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: City of York Council)*

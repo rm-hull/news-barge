@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:08:00Z'
 published: '2026-09-06T00:00:00Z'
 description: Rare Victorian casts of the Bayeux Tapestry are set to go on display.
 image: https://www.yorkpress.co.uk/resources/images/21402112.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Rare Victorian casts of the Bayeux Tapestry to go on display in North Yorkshire

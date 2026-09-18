@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Flash floods caused by a glacier collapse along the Nepal-China border
   have killed hundreds and caused widespread destruction
 image: https://static.independent.co.uk/2026/08/28/18/Nepal_Flash_Floods_56231.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
 ---
 
 The mountain range along the Nepal-China border has its dangers, most recently seen this week in the flash floods spurred by a glacier collapse that have killed hundreds and brought a wide swath of destruction.

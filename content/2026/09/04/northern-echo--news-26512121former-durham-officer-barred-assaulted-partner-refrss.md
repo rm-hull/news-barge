@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A former Durham police officer assaulted his partner and subjected her
   to repeated domestic abuse, a misconduct panel has found.
 image: https://www.thenorthernecho.co.uk/resources/images/17293165.jpg?type=og-image&xType=0&yType=40
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

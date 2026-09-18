@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Advocacy groups expand legal challenges and condemn president’s ‘self-serving
   attempts to take over midterms’
 image: https://i.guim.co.uk/img/media/8ab9befadd491a27434c5c4f1be2af8b111c64c5/0_0_1895_1516/master/1895.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e0fdfba1dcebb0552abb567a035604
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A cluster of advocacy groups that boast veteran lawyers, voting experts and ex-judges have expanded legal challenges to Donald Trump’s authoritarian executive orders on voting and other presidential actions they see as a “war” on the rule of law in the US.

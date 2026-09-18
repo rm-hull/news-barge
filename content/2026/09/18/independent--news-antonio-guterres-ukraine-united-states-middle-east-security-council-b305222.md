@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The United Nations’ top official acknowledges the world is deeply divided
   and the U.N.’s most powerful body is paralyzed when it comes to ending conflicts
 image: https://static.independent.co.uk/2026/09/18/02/UN_Secretary_General_AP_Interview_57994.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The world is deeply divided and the U.N.’s most powerful body is paralyzed when it comes to ending conflicts. But there’s a way forward. So says the United Nations’ top official.

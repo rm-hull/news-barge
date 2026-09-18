@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A cannabis farmer, previously deported to his homeland of Albania, is
   facing the same return journey upon completion of a second sentence in a UK…
 image: https://www.thenorthernecho.co.uk/resources/images/21350631.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A cannabis farmer deported to his homeland of Albania in 2024 returned to the UK and was caught tending a grow in County Durham.

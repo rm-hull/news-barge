@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The home had fallen into disrepair, with water damage and mold from a
   burst pipe, and a colony of feral cats taking up residence
 image: https://static.independent.co.uk/2026/09/12/18/Trump_Boyhood_Home_27177.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 The former childhood home of Donald Trump has sold for nearly $2 million after a renovation project on the mold-ridden cat den.

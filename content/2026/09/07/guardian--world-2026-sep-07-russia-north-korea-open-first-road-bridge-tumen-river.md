@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Connection across Tumen River is further sign of closer ties between
   the two countries since start of war in Ukraine
 image: https://i.guim.co.uk/img/media/02ab90d34f797f0e25c81421ef84944b67018c7f/760_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd8c493ef796a855a4f2a51c1cd277e2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
+- Travel
 ---
 
 Russia and North Korea have opened the first road bridge across their shared border, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Data Protection Commission found the system ‘risked unauthorised
   access to sensitive medical information’
 image: https://static.independent.co.uk/2026/08/05/9/17/AdobeStock_272047316.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Ireland's health service operator has been fined €645,000 by the country's data regulator after medical records were found in "profound disarray" in areas including a turf shed and a disused bathroom that, in some cases, were contaminated by animal droppings.

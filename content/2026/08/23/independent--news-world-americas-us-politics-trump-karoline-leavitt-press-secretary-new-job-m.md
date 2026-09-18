@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Leavitt is the youngest person to serve as White House press secretary
   and has a long history working alongside Trump
 image: https://static.independent.co.uk/2026/08/17/18/2026-08-14T173500Z_1029957585_RC2HYMANS325_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Outgoing White House Press Secretary Karoline Leavitt, 28, has said she is leaving her job at the White House at the end of the month to spend more time with her family. She told reporters Friday she will join MAGA Inc., the super PAC that supports the president, and also become one of Trump’s top outside advisers.

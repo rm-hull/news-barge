@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The deeply personal question came after Watters asked the progressive
   Democrat whether he supports gender-affirming surgery for minors
 image: https://static.independent.co.uk/2026/08/25/0/37/Screenshot-2026-08-24-at-8-56-46-PM.jpg?trim=0,188,0,187&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dr. Abdul El-Sayed, the Democratic nominee for U.S. Senate in Michigan, has raised eyebrows after asking Fox News’ Jesse Watters if he is circumcised during a combative prime-time interview.

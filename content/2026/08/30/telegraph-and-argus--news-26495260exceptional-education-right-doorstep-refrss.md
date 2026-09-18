@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: At Queen Ethelburga’s, excellence isn’t about fitting a mould. It’s about
   discovering what makes each child unique and giving them the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336708.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 Brought to you by

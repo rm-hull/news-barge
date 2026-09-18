@@ -9,6 +9,11 @@ scraped_at: '2026-08-19T13:10:45Z'
 published: '2026-08-19T00:00:00Z'
 description: TSMC prints chips; Taipei prints checks.
 image: https://cdn.mos.cms.futurecdn.net/DvLvu2QDq683q2QdEwm3fC-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A bundle of New Taiwan Dollar notes.](https://cdn.mos.cms.futurecdn.net/DvLvu2QDq683q2QdEwm3fC.png) 

@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: A council has described “vexatious” complaints to its adult social care
   department which led to formal restrictions on contact with officers being invoked.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBjODQ4OWE4LWFlNWMtNGEwMC1hOTViLTQ4M2VjYzc2NTFmNTpjZmVlZmVhZi1iZDdkLTQyYWEtYTExYS1jOGZkYWU2MmI4ZWM=.jpg?trim=0,150,0,150&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # ‘Vexatious’ complaints highlighted in annual council adult social care report

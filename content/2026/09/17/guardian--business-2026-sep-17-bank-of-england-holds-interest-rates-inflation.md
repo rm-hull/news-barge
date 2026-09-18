@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Central bank announces surprise plan to sell billions of pounds in government
   bonds back to the Treasury
 image: https://i.guim.co.uk/img/media/6e3b12bca9fb99ec43022e8cbb01315f38893f76/221_0_4375_3501/master/4375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b62cfe2a2ae0514acd9d0bf25c6281
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Bank of England has kept interest rates on hold as it warned a continuation of the bitter fighting in the Middle East could force it to raise borrowing costs amid mounting fears over inflation.

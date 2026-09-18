@@ -7,6 +7,8 @@ scraped_at: '2026-09-15T22:52:41Z'
 published: '2026-09-15T00:00:00Z'
 description: Huawei declared its phones America-free in 2019
 image: https://cdn.mos.cms.futurecdn.net/NbsqfmYTY28UkRJGm9vRhj-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A slide announcing the Kirin 9050 Pro SoC](https://cdn.mos.cms.futurecdn.net/NbsqfmYTY28UkRJGm9vRhj.jpg) 

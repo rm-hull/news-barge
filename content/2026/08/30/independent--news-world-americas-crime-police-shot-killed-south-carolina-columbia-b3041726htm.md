@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:01Z'
 published: '2026-08-30T00:00:00Z'
 description: The suspect, a 33-year-old man with a lengthy criminal record, also died
 image: https://static.the-independent.com/2026/08/30/06/Officers_Shot_44231.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A police officer in South Carolina has died and a second has been injured in a "gunfight" on Saturday.

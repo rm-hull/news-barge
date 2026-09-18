@@ -9,6 +9,9 @@ description: Some have claimed cultivating seaweed could remove hundreds of mill
   of tonnes of CO2. But as warming waters kill off kelp, we need to refocus on preserving
   what we have, a study argues
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310678184.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Kelp farmers harvest fresh kelp in China](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310678184.jpg?w=840)

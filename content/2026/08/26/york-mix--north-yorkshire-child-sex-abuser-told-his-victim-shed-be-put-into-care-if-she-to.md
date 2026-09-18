@@ -8,6 +8,11 @@ scraped_at: '2026-08-26T13:11:50Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/carl-stevenson.webp
+categories:
+- Local
+- York
+- Family & Parenting
+- Society & Culture
 ---
 
 A man who sexually abused a teenager multiple times has been jailed for 12 and a half years.

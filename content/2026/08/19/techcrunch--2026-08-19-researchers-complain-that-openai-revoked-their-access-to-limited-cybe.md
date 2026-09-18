@@ -9,6 +9,9 @@ description: The idea behind OpenAI's Trusted Access for Cyber program is to giv
   trusted defenders better models so they can report bugs and vulnerabilities to companies,
   with the aim of getting flaws patched faster.
 image: https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Several security researchers say OpenAI suddenly revoked their access to a limited-access program that removes some restrictions on using its AI tools for cybersecurity research. OpenAI confirmed that the issue was caused by an error.

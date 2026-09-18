@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The chain is known for its fresh, local ingredients and made from scratch
   biscuits
 image: https://static.independent.co.uk/2026/09/13/15/11/Biscuitville.jpeg?trim=0,16,0,14&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 The beloved Southern breakfast chain, Biscuitville, has earned the title of America’s best fast-food breakfast, beating out bigger national chains for the fourth year in a row.

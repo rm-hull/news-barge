@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Trump’s pledge to buy American voters has shocked many but such practices
   have been taking place in elections across the globe for decades, Bryony Gooch reports
 image: https://static.independent.co.uk/2026/09/10/11/25/2294432281-getty-673bba04.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Donald Trump has been accused of attempting electoral bribery after promising every American voter $5,000 if the Republicans triumph in the 2026 midterms.

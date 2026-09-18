@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Two best friends have built a six-figure construction business with clients
   booked until the end of 2026.
 image: https://www.gazetteherald.co.uk/resources/images/21429334.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

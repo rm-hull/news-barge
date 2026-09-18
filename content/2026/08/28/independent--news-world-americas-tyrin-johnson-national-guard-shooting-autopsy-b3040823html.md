@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: An autopsy shows that an armed man killed by the Tennessee National Guard
   was shot in the back
 image: https://static.independent.co.uk/2026/07/06/22/Memphis_National_Guard_shooting_32436.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An autopsy has raised new questions about the fatal shooting of a 20-year-old man by Tennessee National Guard members assigned to President Donald Trump’s federal anti-crime operation in Memphis, finding that he was shot once in the back despite authorities saying he had turned toward troops with a gun.

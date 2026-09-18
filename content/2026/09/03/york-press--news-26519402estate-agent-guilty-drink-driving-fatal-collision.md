@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A man who drove over a North Yorkshire teenager and left him fatally
   injured on the road is not responsible for his death, a court heard.
 image: https://www.yorkpress.co.uk/resources/images/20437186.jpg?type=og-image&xType=0&yType=631
+categories:
+- Local
+- York
+- True Crime
 ---
 
 ## Man who drove over teen and left him fatally injured was 'grossly irresponsible'

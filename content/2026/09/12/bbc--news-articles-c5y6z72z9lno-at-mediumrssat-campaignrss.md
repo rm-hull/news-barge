@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai
   in the 1980s and grew up in the Netherlands.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8366/live/5eb0b810-ac10-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Indian-born women Meena Geltink, 43, and Minal Tijssen, 44, adopted separately as babies and raised near each other in the Netherlands, meet after a DNA test revealed they were biological sisters, in 's-Hertogenbosch, Netherlands, August 11, 2026. REUTERS/Marta Fiorin](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dbca/live/a4810570-97c0-11f1-9963-d1f200dff659.jpg)

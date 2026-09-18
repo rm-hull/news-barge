@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: John Kennedy says Trump needs to give Ken Paxton a fundraising boost
   after polls show Democratic candidate James Talarico closing in
 image: https://static.independent.co.uk/2026/05/27/15/22/GettyImages-2263397115.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Republican who won Texas’s Senate primary with Donald Trump’s backing is now hoping the president and Senate Republicans will help him keep the seat from falling into Democratic hands in the midterms.

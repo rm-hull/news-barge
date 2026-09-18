@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Voters in an autonomous southern Philippine region will cast their ballots
   Monday in the region's first parliamentary elections
 image: https://static.independent.co.uk/2026/09/13/05/Philippines_Elections_Bangsamoro_What_to_Know_5341_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Voters in an autonomous southern Philippine region will cast their ballots Monday in the region's first parliamentary elections, seen as a crucial step in the quest for self-determination and lasting peace after decades of insurgency and violence.

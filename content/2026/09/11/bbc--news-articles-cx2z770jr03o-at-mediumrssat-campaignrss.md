@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The proposal was backed by a majority of MPs earlier this year but did
   not become law after its progress was stalled by peers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1128/live/6e351bf0-ad96-11f1-b5a9-5fbcf10a299c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Pro and anti-assisted dying campaigners gather outside Houses of Parliament to demonstrate their support and opposition as Terminally Ill Adults (End of Life) Bill reaches Third Reading debate and a critical vote on the Bill as a whole in the House of Commons in London, United Kingdom on June 20, 2025.](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/1128/live/6e351bf0-ad96-11f1-b5a9-5fbcf10a299c.jpg)

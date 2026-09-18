@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:20Z'
 published: '2026-09-15T00:00:00Z'
 description: The man told no-one about the hoard, which was hidden away for 50 years
 image: https://static.independent.co.uk/2026/09/15/8/44/BNPS_BiscuitTinGold_02.jpeg?trim=1388,0,1390,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A widow clearing out a shed near Penzanze, Cornwall, was left stunned after an old biscuit tin was discovered, containing more than £113,000 worth of gold coins.

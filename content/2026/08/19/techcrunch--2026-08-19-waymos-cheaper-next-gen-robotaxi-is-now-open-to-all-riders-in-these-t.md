@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The next-generation robotaxi, called the Waymo Ojai, is central to the
   company's push towards mass scale, and eventually, profitability.
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Waymo has opened its next-generation robotaxi to all riders in Los Angeles, Phoenix, and San Francisco — a notable milestone for the Alphabet company as it pushes to expand its fleet with vehicles that are cheaper to build, operate, and maintain.

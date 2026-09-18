@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A mentally ill man terrified two builders by pointing a shotgun at them
   and ordering them out of their van in broad daylight, York Crown Court heard.
 image: https://www.yorkpress.co.uk/resources/images/21407481.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: North Yorkshire Police)*

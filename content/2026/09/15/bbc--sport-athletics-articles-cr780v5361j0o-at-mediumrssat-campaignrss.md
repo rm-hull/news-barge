@@ -9,6 +9,10 @@ description: British sprinter Amy Hunt says she is concerned about the controver
   advert starring Sydney Sweeney being part of a "barrier" to girls' participation
   in sport.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/71a4/live/690f19c0-b0e6-11f1-b427-b9b4ddc559ae.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'Sydney Sweeney, this is what women in sport look like!' - Hunt on controversial ad

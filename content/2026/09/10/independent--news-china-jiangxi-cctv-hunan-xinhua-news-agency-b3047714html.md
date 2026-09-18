@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Searchers in southeastern China have found another body from rain-triggered
   landslides in Jiangxi province
 image: https://static.independent.co.uk/2026/09/06/03/China_Jiangxi_Mudslide_82877.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Searchers in southeastern China have found another body from rain-triggered landslides last weekend in Jiangxi province, raising the death toll to 16, state media said Thursday.

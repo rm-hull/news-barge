@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:51Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/01/police-ambulance-canva.webp
+categories:
+- Local
+- York
+- Travel
+- Automotive
 ---
 
 Emergency services were called to a crash in a North Yorkshire village last night (Tuesday).

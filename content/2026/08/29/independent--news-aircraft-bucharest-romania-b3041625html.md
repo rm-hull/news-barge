@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The annual Bucharest International Air Show brings spectacular aerobatics,
   military aircraft and aerial demonstrations to the Romanian capital.
 image: https://static.independent.co.uk/2026/08/29/22/Romania_International_Air_Show_71_27.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The annual Bucharest International Air Show brings spectacular aerobatics, military aircraft and aerial demonstrations to the Romanian capital.

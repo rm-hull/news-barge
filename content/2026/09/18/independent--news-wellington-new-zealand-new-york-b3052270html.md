@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Authorities have called off the search for survivors after a ferry sank
   off Vanuatu, leaving 39 people presumed dead
 image: https://static.independent.co.uk/2026/09/15/04/Vanuatu_Ferry_Sinking_62852.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A search has ended for those missing after a passenger ferry sank in rough seas off the coast of Vanuatu, with 39 people believed dead, an official told The Associated Press on Friday.

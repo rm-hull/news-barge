@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A former Knaresborough pub has gone up for sale - with a condition that
   it cannot reopen as a pub.
 image: https://mmo.aiircdn.com/409/6aa9052b54e5bd910bf.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa9052b54e5bd910bf.jpg) 

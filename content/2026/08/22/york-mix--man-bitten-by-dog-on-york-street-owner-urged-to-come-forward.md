@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T12:57:43Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/police-dog-bite-weddall-close-york-1.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A man was bitten by a dog in York – and police are urging the owner to come forward.

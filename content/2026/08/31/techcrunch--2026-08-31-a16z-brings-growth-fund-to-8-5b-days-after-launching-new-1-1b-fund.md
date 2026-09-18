@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Andreessen Horowitz held out its hand and returned with billions more
   in new funds to invest in startups.
 image: https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-495510896.jpg?w=1024
+categories:
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Venture capital firm Andreessen Horowitz has expanded its fifth growth fund to $8.5 billion. That means the firm added another $1.75 billion since the fund launched in January with $6.75 billion.

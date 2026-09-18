@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The university tried to make adjustments for her, including letting her
   book twice as far in advance as other staff members
 image: https://static.independent.co.uk/2026/09/10/12/52/iStock-1050335980-fbae204f.jpeg?trim=0,0,48,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An agoraphobic university employee who needed to be on campus just four days a year has claimed she was discriminated against when her parking spot was taken away.

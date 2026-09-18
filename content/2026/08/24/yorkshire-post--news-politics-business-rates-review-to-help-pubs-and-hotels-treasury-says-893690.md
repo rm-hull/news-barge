@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The Treasury has enlisted an expert to review how business rates are
   calculated for pubs and hotels and make recommendations for reform of the system.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/ugc/2026/07/28/09/John_Healey_and_Andy_Burnham_at_The_Hare_pub_Harlow_1785138812_36816e09-386cf459a7c5064c.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Business rates review to help pubs and hotels, Treasury says

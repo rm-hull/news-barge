@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Police in Pennsylvania say a teenager is charged in the fatal stabbing
   of his girlfriend
 image: https://static.the-independent.com/2026/08/21/14/23/Untitled-design-(6).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A chilling 37-minute police bodycam video released Thursday captures the gruesome moment officers discovered the body of a Pennsylvania college student hidden inside her own vehicle — a brutal killing her teenage boyfriend blamed on a "demon," court records show.

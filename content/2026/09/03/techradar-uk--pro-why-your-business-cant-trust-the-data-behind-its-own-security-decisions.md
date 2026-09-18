@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:23Z'
 published: '2026-09-03T00:00:00Z'
 description: Hidden asset visibility gaps are undermining cyber risk management
 image: https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

@@ -10,6 +10,9 @@ published: '2026-09-08T00:00:00Z'
 description: 'My preview of The Wolf Among Us 2 at Gamescom 2026 promised me one thing:
   it''ll be worth the long wait.'
 image: https://cdn.mos.cms.futurecdn.net/9vAcD45oGxEhDzfoWGjpcS-1920-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Bigby in The Wolf Among Us 2](https://cdn.mos.cms.futurecdn.net/9vAcD45oGxEhDzfoWGjpcS.png) 

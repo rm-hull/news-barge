@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A lunar eclipse coincided with August's full Moon to make the celestial
   display even more spectacular
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/92d7/live/c076bb30-a2ab-11f1-ab20-f9f4f61e8913.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Full moon with a red tinge over the majority of the Moon](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/92d7/live/c076bb30-a2ab-11f1-ab20-f9f4f61e8913.jpg)

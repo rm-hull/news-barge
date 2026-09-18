@@ -9,6 +9,10 @@ description: Young people across Latin America are gathering on beaches, parks a
   other public spaces to take part in "aura battles," a trend that has moved from
   the internet to the real world
 image: https://static.independent.co.uk/2026/09/02/02/Peru_Aura_Farming_Battles_48_5_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dozens of young people gathered recently on a beach in Peru’s capital to dance, pose and show off their most creative moves — all in pursuit of one thing: aura.

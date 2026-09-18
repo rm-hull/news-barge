@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Ripon Cathedral is inviting past choir members to return for a special
   anniversary Evensong.
 image: https://www.gazetteherald.co.uk/resources/images/21364493.jpg?type=og-image&xType=0&yType=29
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Ripon Cathedral)*

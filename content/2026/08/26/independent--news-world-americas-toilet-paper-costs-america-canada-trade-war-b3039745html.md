@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:56:51Z'
 published: '2026-08-26T00:00:00Z'
 description: Canada’s retaliatory tariffs are set to take effect September 8
 image: https://static.independent.co.uk/2025/06/06/18/28/GettyImages-505882858.jpeg?trim=0,23,0,22&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The trade war between the United States and Canada may leave Americans in an uncomfortable position as toilet paper prices are set to rise.

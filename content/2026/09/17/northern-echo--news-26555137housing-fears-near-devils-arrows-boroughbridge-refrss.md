@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Land near the Devil’s Arrows in Boroughbridge has been submitted for
   possible housing, prompting concerns about the prehistoric monument’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21462598.jpg?type=og-image&xType=0&yType=132
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 Residents and visitors have raised concerns after land surrounding one of North Yorkshire’s most important prehistoric monuments was put forward as a possible location for housing.

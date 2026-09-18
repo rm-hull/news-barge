@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Residents are taking data center operators to court as noise complaints
   expose gaps in America’s monitoring standards
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- Society & Culture
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

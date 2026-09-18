@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Serena Williams and Carlos Alcaraz were among the star double-acts in
   New York as the US Open mixed doubles competition got under way on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c61/live/244bbbd0-a0d4-11f1-879c-376a9fd2230d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Serena Williams and Carlos Alcaraz laugh together during the US Open mixed doubles competition](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6c61/live/244bbbd0-a0d4-11f1-879c-376a9fd2230d.jpg)

@@ -9,6 +9,9 @@ scraped_at: '2026-08-23T12:58:29Z'
 published: '2026-08-23T00:00:00Z'
 description: The finish line ending was quite epic, too.
 image: https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the Honor Lightning running at the 2026 World Humanoid Robot Games](https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC.jpg) 

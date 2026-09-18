@@ -9,6 +9,10 @@ description: Recent progress on alternatives to animal testing is hugely welcome
   But talk of "phasing out" animal research completely is misleading and could even
   be dangerous to scientists
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501763.jpg
+categories:
+- Science
+- Technology & Software
+- Pets & Animals
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310501763.jpg?w=840)

@@ -10,6 +10,10 @@ description: A new poster campaign released ahead of the Berlin state election i
   aimed at those without a German passport. We spoke with Volt's Matt Bristow to discover
   what it's all about.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-Volt-who-the-f-2.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 It's been quite the intriguing Berlin election, at least when it comes to election posters.

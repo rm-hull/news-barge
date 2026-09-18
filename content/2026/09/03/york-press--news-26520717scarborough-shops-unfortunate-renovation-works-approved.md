@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A NORTH Yorkshire shop’s ‘unfortunate’ retrospective renovation works
   have been approved despite residents’ objections.
 image: https://www.yorkpress.co.uk/resources/images/20503940.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Shop’s ‘unfortunate’ retrospective repair works approved despite objections

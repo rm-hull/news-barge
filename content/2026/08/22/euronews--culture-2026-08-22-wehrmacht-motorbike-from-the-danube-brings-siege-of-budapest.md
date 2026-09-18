@@ -10,6 +10,10 @@ description: Which unit did the Wehrmacht motorbike found near Budapest belong t
   military historian at the Institute and Museum of Military History, about this rare
   find.
 image: https://images.euronews.com/articles/stories/09/88/20/29/1200x675_cmsv2_20779d18-c5b9-5c65-9af0-4d7ec40b73fb-9882029.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Which unit did the Wehrmacht motorbike found near Budapest belong to, and how did it end up in the Danube? Euronews asked Lt Col Norbert Számvéber, a military historian at the Institute and Museum of Military History, about this rare find.

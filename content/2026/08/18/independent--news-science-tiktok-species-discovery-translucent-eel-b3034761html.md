@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Scientists manually pumped thousands of litres of water from local handpumps
   to procure a specimen
 image: https://static.independent.co.uk/2026/08/18/9/20/Gangaichthys-indonepalicus.jpeg?trim=0,207,0,38&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Scientists have identified a new genus and species of underground earthworm eel living beneath northern India’s Bihar after watching a 2024 TikTok video that showed the unusual tiny fish emerging from a borewell.

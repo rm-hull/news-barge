@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: Helmsley Traditional Sweet Shop is packed with jars of nostalgic favourites,
   offering visitors an old-fashioned sweet shop experience in North…
 image: https://www.thenorthernecho.co.uk/resources/images/21343611.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Arts & Culture
 ---
 
 *(Image: TRIPADVISOR)*

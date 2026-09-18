@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Count Binface could be set for a third by-election of the year if he
   were to run in the race for Holborn and St Pancras
 image: https://static.independent.co.uk/2026/08/14/07/2026-08-14T053450Z_1661690861_RC25YMA3UPZ0_RTRMADP_3_BRITAIN-POLITICS-FARAGE.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Count Binface has hinted he could run in a by-election in Holborn and St Pancras after Sir Keir Starmer announced he will step down as MP.

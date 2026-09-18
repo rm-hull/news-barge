@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Kent Police says it was told of possible protests on Friday but information
   "was not fully assessed".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e6b9/live/b9936e00-aba0-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A group of people in black clothing wearing black balaclavas. A number of police officers are in the crowd.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e6b9/live/b9936e00-aba0-11f1-aed2-8d6da8d75094.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Pilates centre says it has been overwhelmed by demand after opening
   in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21329034.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

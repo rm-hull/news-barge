@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: ‘I thought as the member is so proficient in Urdu, that I would speak
   in Urdu’, London mayor quips at Green leader
 image: https://static.independent.co.uk/2026/09/17/13/18/zack-and-sadiq.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 London mayor Sadiq Khan has mocked Zack Polanski by speaking to him in Urdu in a nod to the Green leader’s recent, much commented on, by-election campaign video.

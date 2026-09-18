@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man accused of starting a house fire that killed an elderly woman has
   denied being responsible for her death.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYyMzFhOWUwLWJlODktNGExMy04YTlmLTZhYjNjYWQ2N2Y0ZDo5MTZkZjhkZC04MDgyLTQ1M2EtOTY1ZS02YTkyNjJjOWEyNDE=.png?crop=3:2,smart&trim=&width=1148&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Young man denies murdering elderly woman in Yorkshire house fire

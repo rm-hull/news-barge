@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The cuts come as the carmaker struggles with Chinese competition, US
   tariffs, and the transition to electric vehicles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![A photo taken in Halewood in 2025 shows rows of Range Rovers on the tarmac at a JLR factory outside on a sunny day.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg)

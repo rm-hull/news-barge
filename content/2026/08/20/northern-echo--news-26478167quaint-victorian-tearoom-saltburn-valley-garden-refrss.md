@@ -9,6 +9,13 @@ published: '2026-08-20T00:00:00Z'
 description: Saltburn Valley Gardens is home to woodland walks, Italian gardens, a
   miniature railway and a Victorian tearoom hidden among one of the North…
 image: https://www.thenorthernecho.co.uk/resources/images/21341831.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 Tucked away among beautifully landscaped gardens on the North Yorkshire coast, this quaint Victorian tearoom feels like a step back in time.

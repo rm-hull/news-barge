@@ -10,6 +10,10 @@ description: Backup quarterback Drew Lock led two late scoring drives and the Se
   early injury to starter Sam Darnold and beat the New England Patriots 13-10 in a
   Super Bowl rematch
 image: https://static.independent.co.uk/2026/09/10/04/APTOPIX_Patriots_Seahawks_Football_58385.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch

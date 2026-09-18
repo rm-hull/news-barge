@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Enhertu, which can give patients an extra seven months to live on average,
   has been prescribed in Scotland for more than two years and is available.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e519/live/c64517f0-b20a-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Watch the moment Kate Wills found out she would be able to access Enhertu

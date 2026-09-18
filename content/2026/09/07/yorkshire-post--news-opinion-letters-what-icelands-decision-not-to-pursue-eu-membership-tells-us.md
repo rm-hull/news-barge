@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T14:14:16Z'
 published: '2026-09-07T00:00:00Z'
 description: 'From: James Bovington, Church Grove, Horsforth, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiMDgwNWViLTdmNmYtNDY3ZC1iNmMxLTFhNmY5MzZjOWFmYToxMGY1ZjhlMy00NDliLTQwMmQtOTYyYS1mM2U0MTg5YjQzNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # What Iceland’s decision not to pursue EU membership tells us - Yorkshire Post Letters

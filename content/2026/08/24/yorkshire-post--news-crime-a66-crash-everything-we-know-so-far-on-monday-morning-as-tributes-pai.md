@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: Two police officers were among seven people who died in a crash on the
   A66 near Middlesbrough in the early hours of Saturday morning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1Y2FhODM3LTJhZGUtNDNlYi1iYzg2LWY5OTZkM2JjMzcwNDoyNTI1ZTFmYS1jNWFlLTQ1OGYtYmIyNC1mZTczMzA5YzU2Mzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # A66 crash: Everything we know so far on Monday morning as tributes paid to officers

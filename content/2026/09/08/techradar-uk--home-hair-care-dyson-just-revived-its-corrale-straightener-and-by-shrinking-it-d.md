@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T12:50:52Z'
 published: '2026-09-08T00:00:00Z'
 description: The second-gen Corrale also boasts a clever shine-boosting feature
 image: https://cdn.mos.cms.futurecdn.net/UY7ZD3njciyMaV3fY89KpG-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Close up of Dyson Corrale CoolShine straightener plates](https://cdn.mos.cms.futurecdn.net/UY7ZD3njciyMaV3fY89KpG.jpg) 

@@ -9,6 +9,12 @@ description: Nigel Farage denied that Reform UK had broken any laws or “taken 
   dodgy money” as two party officials stood down amid allegations the party breached
   political donation rules.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/11/cs-433b4bf0-041c-4b58-b55c-7208d0f65922.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Nigel Farage: Reform UK leader says party has 'broken no laws' as aides quit over fresh allegations

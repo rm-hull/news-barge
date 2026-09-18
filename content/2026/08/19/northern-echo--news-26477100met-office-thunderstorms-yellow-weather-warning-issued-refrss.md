@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The Met Office has issued a thunderstorms yellow weather warning across
   parts of the North East as heavy showers set to hit.
 image: https://www.thenorthernecho.co.uk/resources/images/19608389.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: CHRIS DURIE)*

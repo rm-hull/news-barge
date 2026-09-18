@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Gaps in the state pension forecast can help show people how long they
   need to work to receive the full amount
 image: https://static.independent.co.uk/2023/05/31/05/fe6aa378e427c63ef0eb143a8b51bc71Y29udGVudHNlYXJjaGFwaSwxNjg1NTkyNzAz-2.71287982.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Almost seven million people in the UK have never checked their state pension record, new government data shows.

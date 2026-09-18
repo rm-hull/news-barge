@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Plans to turn a house in a Consett cul-de-sac into a children's home
   have been refused by Durham County Council after attracting 35 objections…
 image: https://www.thenorthernecho.co.uk/resources/images/21452013.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Home, Garden & DIY
 ---
 
 *(Image: GOOGLE)*

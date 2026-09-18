@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Queen Camilla will visit York tomorrow to attend the Ebor Festival at
   York Racecourse.
 image: https://www.yorkpress.co.uk/resources/images/18464027.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Queen to visit York tomorrow for major event

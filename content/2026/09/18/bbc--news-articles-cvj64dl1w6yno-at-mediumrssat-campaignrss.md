@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Since taking control in 1965, Buffett grew a struggling textile mill
   into a global conglomerate.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Warren Buffett listens as his son Howard Buffett speaks during an interview in New York on 22 October 2013.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg)

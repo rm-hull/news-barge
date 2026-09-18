@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Watch as AI safety expert Connor Leahy joins the Equity podcast to explain
   the risks of superintelligent AI and the new legislation aiming to stop it.
 image: https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can’t reliably control what these systems do?

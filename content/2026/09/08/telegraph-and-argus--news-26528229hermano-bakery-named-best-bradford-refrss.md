@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford bakery built on family recipes could be named best in the
   district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420312.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Hermano Bakery)*

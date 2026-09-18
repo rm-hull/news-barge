@@ -9,6 +9,10 @@ description: Sen. Flávio Bolsonaro is under a Supreme Court investigation for a
   receiving $12 million from a disgraced banker to finance a movie about his father,
   former President Jair Bolsonaro
 image: https://static.independent.co.uk/2026/09/11/18/Brazil_Election_32_13.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Brazilian presidential candidate Sen. Flávio Bolsonaro is under a Supreme Court investigation for receiving millions of dollars from a disgraced banker to finance a movie about his father, former President Jair Bolsonaro.

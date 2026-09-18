@@ -11,6 +11,12 @@ description: In December last year, the Government published its action plan to 
   UK would become the first country in the world where it would be impossible for
   children to take, share or view nude images online.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBjYjM4YzdmLWQ2NDMtNDAwNi1iOTdkLTgwN2I3NTQ3OWE4ZDo4NmI5YjFiNC1lYmQyLTQxNjQtYTAxMC1lNTExMmVlMjczMWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # The Government will protect young people from online harms - Lisa Nandy

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Rare bats found at the Georgian mansion have delayed his plans to build
   a padel court and luxury car garage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37c9/live/79135860-a91e-11f1-a3dc-e78e2c02425d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Richard Hammond is photographed from the shoulders up, standing in front of a promotional sign for the TV series 'The Grand Tour'. His face is facing slightly to the side and he is not looking at the camera. He is wearing a black suit jacket and a white shirt, with the top button undone.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/71bf/live/f22fc350-a8a6-11f1-b9ae-958b89fa84e3.jpg)

@@ -9,6 +9,10 @@ description: South Korean police are pushing for an indictment of music tycoon B
   Si-Hyuk, chairperson of the agency behind K-pop supergroup BTS, over alleged investor
   fraud
 image: https://static.independent.co.uk/2026/09/03/09/South_Korea_K_pop_Mogul_61_4_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 South Korean police are pushing for an indictment of music tycoon Bang Si-Hyuk, the chairperson of the agency behind K-pop supergroup BTS, over alleged investor fraud.

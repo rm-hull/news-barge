@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A grave-digging contest in a Hungarian cemetery showcases the skills
   of the trade and aims to shake off death-related taboos
 image: https://static.independent.co.uk/2026/09/05/18/Hungary_Grave_Digging_Contest_45876.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 Like death itself, this was no joke.

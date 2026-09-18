@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: 'Microsoft is busy improving Windows 11, and there''s an obvious easy
   win it''s missing: porting over smart PowerToys features.'
 image: https://cdn.mos.cms.futurecdn.net/g9ufuu4EbkfF7nb45pnwud-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Happy man with a Windows 11 laptop on his lap](https://cdn.mos.cms.futurecdn.net/g9ufuu4EbkfF7nb45pnwud.jpg) 

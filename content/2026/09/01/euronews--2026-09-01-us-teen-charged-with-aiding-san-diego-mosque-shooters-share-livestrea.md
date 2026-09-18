@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Sarah Santiago, 17, will be charged as an adult, according to a press
   release issued by prosecutor James O'Neill's office.
 image: https://images.euronews.com/articles/stories/09/89/65/23/1200x675_cmsv2_2a44885d-7bfd-5fae-ac39-e83e6f42f053-9896523.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 ## Sarah Santiago, 17, will be charged as an adult, according to a press release issued by prosecutor James O'Neill's office.

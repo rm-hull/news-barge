@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: ‘ChickenAndy’, who declined to give his full name, told The Independent
   he wouldn’t take the footage down
 image: https://static.independent.co.uk/2026/09/08/19/04/Untitled-design-(10).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Film & TV
 ---
 
 A live-streamer who filmed the scene of a deadly plane crash and posted it on his revenue-generating channel is unrepentant and won’t be taking it down, he told *The Independent*, despite fierce online backlash.

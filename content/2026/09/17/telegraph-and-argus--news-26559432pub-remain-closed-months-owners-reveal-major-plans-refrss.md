@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A popular Bradford district pub will remain closed for "a number of months"
   while major structural works and refurbishment are carried…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468739.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google Maps)*

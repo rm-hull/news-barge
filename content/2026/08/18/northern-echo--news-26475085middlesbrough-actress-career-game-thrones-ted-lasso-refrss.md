@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Born in Middlesbrough, actress Faye Marsay has gone on to appear in Game
   of Thrones, Pride, Darkest Hour, Adolescence and the latest series of Ted…
 image: https://www.thenorthernecho.co.uk/resources/images/16759021.jpg?type=og-image&xType=0&yType=235
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 From Middlesbrough to some of television's biggest shows, this Teesside-born actress has quietly built an impressive career in Hollywood films and award-winning dramas.

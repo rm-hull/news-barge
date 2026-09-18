@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The private equity giant confirms a breach, weeks after Google researchers
   said hackers were targeting financial companies.
 image: https://techcrunch.com/wp-content/uploads/2026/08/apollo-1825445522-e1787320209622.jpg?resize=1200,1048
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Private equity giant Apollo Global Management has confirmed a data breach in which hackers stole reams of personal information from the company’s cloud systems.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Exposure to two compounds approved can result in ‘sudden death’ and range
   of other serious health risks, lawsuit warns
 image: https://i.guim.co.uk/img/media/7a717ee0deb45162c8e2abe72807c31843e381b1/630_0_6270_5016/master/6270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5219a3e23e5efd1cba837ba471c712e
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The Trump administration has approved two new datacenter chemicals to which exposure can result in “sudden death” and a range of other serious health risks, like cancer, eye corrosion, neurological damage and reproductive harm, a new lawsuit warns.

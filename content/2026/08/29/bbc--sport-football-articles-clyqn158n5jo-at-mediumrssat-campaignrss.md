@@ -10,6 +10,10 @@ description: Having spent more than £300m in the summer, Tottenham find themsel
   bottom of the Premier League, without a point or a goal, but boss Roberto de Zerbi
   remains optimistic.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/496a/live/c01cf330-a3ef-11f1-863f-8dae62681d3a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Jaissle claims first Premier League win at lacklustre Spurs

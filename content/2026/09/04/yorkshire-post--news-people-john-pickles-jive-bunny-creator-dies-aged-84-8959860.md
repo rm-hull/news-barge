@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: John Pickles who created the Jive Bunny music mixes has died aged 84,
   the Mastermix company he founded has confirmed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA0MDkxZjE5LWM1MGItNGVkYS05MTA4LTRhNmYxYzZiYjE3ZDo2OWU3NjM3ZC0xNDNjLTRhYmMtYmRkYy0xMzhkNzk5ZWU2MmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # John Pickles: Jive Bunny creator dies aged 84

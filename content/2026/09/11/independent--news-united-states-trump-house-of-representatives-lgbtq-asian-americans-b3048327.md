@@ -10,6 +10,10 @@ description: The Trump administration is proposing a dramatic overhaul around th
   based on status and key racial and ethnic data, jeopardizing the allocation of resources
   and the country’s voting map
 image: https://static.independent.co.uk/2026/09/11/03/Census_Immigrants_Race_Ethnicity_76_14.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Trump administration is proposing a dramatic overhaul of the once-a-decade U.S. Census head count that could leave out millions of immigrants based on status and key racial and ethnic data, jeopardizing the allocation of resources and the country's voting map.

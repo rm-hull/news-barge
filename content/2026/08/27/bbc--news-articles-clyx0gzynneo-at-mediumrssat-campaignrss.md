@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The disorder may affect hundreds of thousands in the UK, but many face
   delays in getting a diagnosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 Ella, who was diagnosed at 24, explains the symptoms of HSD

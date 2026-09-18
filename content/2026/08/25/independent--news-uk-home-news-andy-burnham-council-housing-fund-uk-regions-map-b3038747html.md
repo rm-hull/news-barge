@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T13:07:21Z'
 published: '2026-08-25T00:00:00Z'
 description: Over £2.5bn has been earmarked for local mayors by the government
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/21/09/housebuilding-0.gif?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The areas in line for a multi-billion pound boost in housing funding have been revealed as the government promises the “biggest council housebuilding revival in decades”.

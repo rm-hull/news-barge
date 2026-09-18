@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Adam Irving, 32, has been banned from driving for 20 months after admitting
   drink-driving a blue Ford Focus in Evenwood, County Durham, with a…
 image: https://www.thenorthernecho.co.uk/resources/images/13615894.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Newsquest)*

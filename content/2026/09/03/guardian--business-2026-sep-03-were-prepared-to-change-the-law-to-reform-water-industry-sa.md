@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: 'Exclusive: New environment secretary insists ‘nothing is off the table’
   in dealing with ailing Thames Water'
 image: https://i.guim.co.uk/img/media/05ada8d3fecfc249122a5840184f552c67c09adc/474_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31a47cfc4d6a782b43f3c7fb3d0fac77
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Britain’s insolvency laws cannot deal with the aggressive behaviour shown by the companies that control Thames Water, the environment secretary has said, as she confirmed ministers were prepared to take it into public ownership.

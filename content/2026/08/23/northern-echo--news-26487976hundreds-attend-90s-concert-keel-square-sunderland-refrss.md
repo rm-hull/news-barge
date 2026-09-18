@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Hundreds of music fans packed Keel Square as 90s pop stars brought a
   day of nostalgic hits to Sunderland.
 image: https://www.thenorthernecho.co.uk/resources/images/21359280.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Hundreds of music fans packed Keel Square as 90s pop stars brought a day of nostalgic hits to Sunderland.

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: As a major new biography of the former prime minister goes on sale, he
   talks about meeting the Queen, Trump’s aims, and why his big vision will never fade
 image: https://i.guim.co.uk/img/media/e4c8444a529e4bb28f6e09ca3b39d1032138d4a1/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2372952cda0c22b5dc5275446a07fa3c
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Queen Elizabeth II met Paul Keating “alone, to her credit” in what the prime minister was informed was her great-great-grandmother, Queen Victoria’s, favourite room at Balmoral Castle.

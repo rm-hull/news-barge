@@ -9,6 +9,12 @@ description: Thousands of pupils across North Yorkshire have collected a strong 
   of GCSE results as some of the county’s schools have witnessed record levels of
   success.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/Bedale%20Simon%20Lewis.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- News & Politics
 ---
 
 ![A student with parents looking at GCSE results.](https://www.northyorks.gov.uk/sites/default/files/2026-08/Bedale%20Simon%20Lewis.jpg) 

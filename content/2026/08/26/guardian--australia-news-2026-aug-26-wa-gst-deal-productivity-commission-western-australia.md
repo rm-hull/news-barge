@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Commissioner Angela Jackson also said it was ‘disappointing’ that Anthony
   Albanese had ruled out changes to Western Australia’s GST arrangements
 image: https://i.guim.co.uk/img/media/8f1bac64cf0024319475de2fe23b287a3bcbccb5/490_0_4188_3350/master/4188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d10eff89af46dd35cfeeca79071e0387
+categories:
+- UK
+- News & Politics
 ---
 
 The Productivity Commission has condemned attacks on its integrity as “unacceptable” after its scathing assessment of Western Australia’s sweetheart GST deal as a costly mistake sparked a fierce political backlash and name-calling.

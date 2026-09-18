@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: An eye witness has told a jury how he heard a Crook man challenge his
   ‘son’ to a fight minutes before he was killed by a push.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A man accused of killing his dad the first time they met was challenged to a fight by his father minutes earlier, a jury was told.

@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T13:09:56Z'
 published: '2026-08-19T00:00:00Z'
 description: Kids these days don't know how good they have it.
 image: https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800
+categories:
+- Education & Learning
 ---
 
 College is a constellation of Venmo requests — your roommate’s cut of the utilities, your half of an Uber ride, the ticket to your friend’s a capella performance that you don’t actually want to go to. On Wednesday, Venmo’s parent company PayPal announced that you will now be able to use its services to pay your tuition.

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A resident trying for two months to discuss an application with planners
   wants the situation to improve.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21372762.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

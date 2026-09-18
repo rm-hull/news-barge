@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: A new feature added to Comcast's newest routers can detect if there is
   motion is inside your home without needing traditional motion sensors.
 image: https://techcrunch.com/wp-content/uploads/2026/08/xfinity-1232480636.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Comcast has rolled out a new motion-sensing technology to its latest home routers, allowing homeowners to receive notifications about activity detected inside their house while they are away.

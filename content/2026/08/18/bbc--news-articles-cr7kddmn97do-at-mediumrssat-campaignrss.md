@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Law appeared in films alongside both of her daughters, Dame Emma and
   Sophie, including 1996's Emma.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ad0/live/4c65de10-9b1c-11f1-a8a4-83462463c9fa.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Family & Parenting
 ---
 
 ![Law posing for pictures alongside her daughters Sophie (left) and Emma (right) after having been made an OBE in 2014](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/3ad0/live/4c65de10-9b1c-11f1-a8a4-83462463c9fa.jpg)

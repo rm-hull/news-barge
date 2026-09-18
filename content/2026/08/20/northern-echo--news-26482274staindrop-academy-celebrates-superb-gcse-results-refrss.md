@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A STAINDROP Academy student who achieved five Grade 9s was left speechless
   after collecting her GCSE results today.
 image: https://www.thenorthernecho.co.uk/resources/images/21350854.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 A STAINDROP Academy student who achieved five Grade 9s was left speechless after collecting her GCSE results today.

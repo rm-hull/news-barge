@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Of all the threats presented by uncontrollable artificial intelligence,
   scientists say death by plague ranks low.
 image: https://media.wired.com/photos/6aa943ce7410d0aed42be028/191:100/w_1280,c_limit/091526-Bioweapon%20AI.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Concerns about an AI-induced apocalypse are reaching a fever pitch, from Silicon Valley to Washington, DC.

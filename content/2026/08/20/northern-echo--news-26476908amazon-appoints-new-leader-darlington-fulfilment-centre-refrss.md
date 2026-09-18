@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Jack Docherty, from Middlesbrough, has been appointed site leader of
   Amazon’s Darlington fulfilment centre after a decade with the company.
 image: https://www.thenorthernecho.co.uk/resources/images/21339749.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: UNP)*

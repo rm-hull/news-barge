@@ -9,6 +9,10 @@ description: Withdrawal symptoms following long-term SSRI use appear far more pe
   and serious than previously realised. Now medical bodies are rethinking how and
   when to stop taking them
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg?w=840)

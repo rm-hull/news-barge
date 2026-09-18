@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: A disused rail tunnel that has been gated off for over two decades was
   opened to the public on Saturday and Sunday.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYxOTdlZWEzLWU2YjEtNDJhNy1hYTFiLTU5NzA2ODUxZjZmNTo3ZTFhYzk5ZS0wZWExLTRlOTItODIzMC1lNWMyZTk1NTQzM2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
 ---
 
 # The Greenside Tunnel: Tunnel closed in 1960s opened after being gated off for two decades could be possible route for planned tram system

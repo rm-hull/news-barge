@@ -9,6 +9,10 @@ description: The finalists for the 2026 Harrogate Business Excellence Awards hav
   been revealed, with judges praising the “incredibly high calibre” of entries submitted
   this year.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/21/15/2026_08_21_14_31_09_580_ASH_FE6F009CA20A4CB3B700DCD230E7D9FD.JPG?trim=110,0,110,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Harrogate Business Excellence Awards finalists revealed as judges praise high calibre of entries

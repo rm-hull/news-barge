@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: MARKET traders have welcomed the restoration of one of the most recognisable
   landmarks in a North Yorkshire town and said it had given the area ‘a…
 image: https://www.yorkpress.co.uk/resources/images/21377985.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Business & Entrepreneurship
 ---
 
 ## Traders return to historic ‘market unlike any other’ after £1.3m restoration

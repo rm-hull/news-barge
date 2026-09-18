@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Following six years of talks, Pitt Rivers Museum will return body parts
   collected by British colonial administrators to north-east India
 image: https://i.guim.co.uk/img/media/d5065cead2c8e17b546317cb841a92c6507b5968/161_271_1795_1436/master/1795.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=284d65503a679bce3ea830e873bb984a
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 Anthropologists and community leaders from Nagaland, a remote state in north-eastern India bordering Myanmar, have expressed joy and relief that human remains belonging to their ancestors that had been on display in a British museum for nearly a century are finally being returned.

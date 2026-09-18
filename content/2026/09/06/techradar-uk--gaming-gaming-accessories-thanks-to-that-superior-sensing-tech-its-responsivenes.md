@@ -10,6 +10,8 @@ published: '2026-09-06T00:00:00Z'
 description: The new Scuf Valor Wired controller I tested rocks great features like
   TMR thumbsticks and dual-mode triggers for a truly fantastic price.
 image: https://cdn.mos.cms.futurecdn.net/Nqc4GjTZaybEwSL7zsa5RE-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

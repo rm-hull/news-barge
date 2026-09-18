@@ -9,6 +9,11 @@ description: Wakefield food destination, Blacker Hall Farm, has announced that i
   has appointed award-winning chef and Great British Menu star, Stephanie Moon, as
   chef consultant.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ3MDY2MTQyLTE0MWEtNDIzMy04ZWVlLTI5N2ExYTA4N2MyYzoyN2VhMWYyOC03ZmE1LTQ1YzctOGU3Mi1iZDdkNTk4MWEyM2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Great British Menu star Stephanie Moon to join Wakefield's Blacker Hall Farm

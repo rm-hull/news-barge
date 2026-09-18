@@ -11,6 +11,11 @@ description: I know that the past year has been incredibly difficult for many fa
   and climate-driven outbreaks of disease, and most notably bluetongue, which we’re
   having to deal with at the moment.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmYzk4Y2Y3LTc4ZGMtNGY5OS1iNGI1LWNjMTExZWNkYzY3ZDo4ODEyYTYyNS1kNThmLTRiNDYtODE5NC0wZmM0NTUwNzMzNTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # British farmers shouldn’t have to shoulder the risks of changing climate - Angela Eagle

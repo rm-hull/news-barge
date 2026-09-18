@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Manor Park Care Home in Old Malton is opening its doors for a day of
   traditional fun and fundraising.
 image: https://www.yorkpress.co.uk/resources/images/11217094.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 *(Image: NQ)*

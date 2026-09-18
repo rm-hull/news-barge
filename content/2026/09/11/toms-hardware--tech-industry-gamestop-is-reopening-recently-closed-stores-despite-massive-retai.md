@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T19:08:45Z'
 published: '2026-09-11T00:00:00Z'
 description: GameStop hits rewind.
 image: https://cdn.mos.cms.futurecdn.net/PYqxToxvLd5QJrp4jevHuK-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![A photo of a GameStop store opening](https://cdn.mos.cms.futurecdn.net/PYqxToxvLd5QJrp4jevHuK.jpg) 

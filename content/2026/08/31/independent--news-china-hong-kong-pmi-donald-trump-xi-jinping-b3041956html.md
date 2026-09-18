@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: An official survey shows China's factory activity improved in August,
   with export demand holding strong
 image: https://static.independent.co.uk/2026/08/31/06/China_Economy__2862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 China’s factory activity improved marginally in August as export demand remained robust, though overall manufacturing still was in a contraction.

@@ -10,6 +10,10 @@ description: Spain's football season kick-off has revived LaLiga's court-backed 
   IP blocking against piracy, but thousands see websites and services fail whenever
   a match begins.
 image: https://images.euronews.com/articles/stories/09/91/03/90/1200x675_cmsv2_6cb05931-ebd0-5050-a51f-0cd76e690367-9910390.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Spain's football season kick-off has revived LaLiga's court-backed mass IP blocking against piracy, but thousands see websites and services fail whenever a match begins.

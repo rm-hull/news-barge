@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The London-born banker served 14 months in jail and says his career was
   ruined by the crash
 image: https://static.independent.co.uk/2026/09/10/7/04/Robert-Ebert-spider.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A top banker accusing Ferrari of a "cover up" over claims the brakes failed on his supercar leading to a fatal accident has lost his bid to sue for millions in the UK.

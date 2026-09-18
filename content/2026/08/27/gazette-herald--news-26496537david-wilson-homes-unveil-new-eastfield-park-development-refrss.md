@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: David Wilson Homes is set to unveil Eastfield Park, a new 44-home scheme
   in Dunnington.
 image: https://www.gazetteherald.co.uk/resources/images/20450887.jpg?type=og-image&xType=0&yType=106
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: David Wilson Homes)*

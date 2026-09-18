@@ -11,6 +11,8 @@ description: Blaze Entertainment has revealed that it uncovered hidden features 
   the source code for Banjo-Kazooie and Banjo-Tooie when developing the Evercade Nexus
   ports.
 image: https://cdn.mos.cms.futurecdn.net/QVc9ScPzRSyee3yujeasSL-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Evercade Nexus](https://cdn.mos.cms.futurecdn.net/QVc9ScPzRSyee3yujeasSL.jpg) 

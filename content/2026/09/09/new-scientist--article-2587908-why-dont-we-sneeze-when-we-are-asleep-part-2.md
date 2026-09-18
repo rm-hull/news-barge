@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: It turns out some of our readers do sneeze in their sleeps – but only
   in certain circumstances
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_303479822.jpg?w=840)

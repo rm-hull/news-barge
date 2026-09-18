@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The performers are asking the government to give every person in the
   UK a legal right to own their voice.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 ![A composite image of Matt Lucas and Hugh Bonneville](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg)

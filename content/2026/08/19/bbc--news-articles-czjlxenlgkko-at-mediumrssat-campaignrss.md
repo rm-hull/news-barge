@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Erin Patterson's defence team appeal against her conviction for killing
   relatives with a beef Wellington laced with toxic mushrooms.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Food & Cooking
 ---
 
 ![A courtroom sketch shows Erin Patterson attending proceedings via a video link from the Dame Phyllis Frost Centre, in the Victorian Court of Appeal in Melbourne, Australia, August 19,](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b9b9/live/222707b0-9b9d-11f1-a291-b542ee92de7c.jpg)

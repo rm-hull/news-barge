@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:58:52Z'
 published: '2026-09-04T00:00:00Z'
 description: The driver of the car, a man in his late 40s, was taken to hospital
 image: https://static.independent.co.uk/2026/09/04/12/55/iStock-1542571267-b6e7f0df.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A 12-year-old boy has died after the car he was travelling in was struck by a train at a level crossing in Co Mayo, Ireland.

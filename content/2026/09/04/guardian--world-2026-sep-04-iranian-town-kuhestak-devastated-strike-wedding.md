@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Mourning turns to anger as residents of Kuhestak say Baloch communities
   are being placed in path of conflict
 image: https://i.guim.co.uk/img/media/18f773c2509d082c5aaba2bc7b24de2d73d6a8fc/403_0_2532_2025/master/2532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84a15c7ff927de6180a06aeb929a909c
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 People in Kuhestak, a predominantly Baloch city in Iran’s southern Hormozgan province, are mourning after a strike on a wedding killed at least four people, including a child, and injured more than 60, according to local authorities.

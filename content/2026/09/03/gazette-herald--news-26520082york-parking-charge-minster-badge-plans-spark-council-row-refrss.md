@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Plans to cut some parking charges in York do not go far enough to reverse
   the effects of previous hikes, opposition councillors and a trader have…
 image: https://www.gazetteherald.co.uk/resources/images/21408038.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: York BID)*

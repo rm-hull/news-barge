@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Prosecutors could seek a new trial in the case of the US mother charged
   with murdering her three children in 2023.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f14/live/e9476f60-a87c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch moment judge in Clancy case says a mistrial likely

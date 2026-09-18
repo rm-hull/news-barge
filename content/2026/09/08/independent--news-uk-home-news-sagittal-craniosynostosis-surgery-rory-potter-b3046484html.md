@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Sagittal craniosynostosis affects around one in every 2,000 babies in
   the UK
 image: https://static.independent.co.uk/2026/09/07/15/01M1XHGX4ES7WT4PAAC8SSE3KA.jpg?trim=316,0,481,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
+- Family & Parenting
 ---
 
 A one-year-old boy who was born with a rare skull condition that put him at risk of a learning disability has received a world-first operation.

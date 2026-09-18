@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Ratko Mladic died last week at the age of 84 while serving a life sentence
   for genocide
 image: https://static.independent.co.uk/2026/09/05/11/2292408449..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Uefa has issued a fine to Serbian club Red Star Belgrade following chants by supporters in tribute to convicted war criminal Ratko Mladic, who died on the day of their European fixture last week.

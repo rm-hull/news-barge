@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A pile of fly-tipping just yards from a hospital helipad has “potentially
   put lives at risk” – a councillor has claimed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350143.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Bradford Conservatives)*

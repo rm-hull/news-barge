@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The idea is to create nine new regional bodies responsible for planning,
   setting objectives and holding water companies to account.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b962/live/661bcf50-b173-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![UK Prime Minister Andy Burnham speaks at the House of Commons in London, while wearing a navy suit with a burgundy tie and brown glasses.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/207e/live/73d40960-b172-11f1-b1d1-571ed4d7ff2c.png)

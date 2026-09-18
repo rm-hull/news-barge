@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The West Sussex airport said 19.1 million passengers travelled through
   the airport over the first half, down 4.7% compared with a year earlier.
 image: https://static.independent.co.uk/2026/08/26/08/7171f06463939a77c0606a82634a6ed9Y29udGVudHNlYXJjaGFwaSwxNzg3ODEzNDc3-2.85590966.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Gatwick airport has revealed half-year profits fell by nearly a fifth as fewer passengers passed through its terminals due to the Iran war hit to international travel.

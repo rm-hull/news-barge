@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: RCS isn't working for some Google Messages users, but an old VPN trick
   has reemerged as a potential solution.
 image: https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The bottom left corner of an Android phone, showing the Phone, Messages, Google icons and Google Search bar](https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa.jpg) 

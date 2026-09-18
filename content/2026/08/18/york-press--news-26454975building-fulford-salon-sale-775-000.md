@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: An eight-bedroom property in Fulford, with apartments and a salon, is
   up for sale for offers over £775,000.
 image: https://www.yorkpress.co.uk/resources/images/21302391.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Real Estate
 ---
 
 ## Eight-bedroom Fulford property with beauty salon on sale for £775,000

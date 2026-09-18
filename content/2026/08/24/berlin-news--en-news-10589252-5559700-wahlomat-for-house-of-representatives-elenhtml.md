@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The Wahl-O-Mat for the Berlin House of Representatives election is now
   available. Here's how it works and what issues it covers.
 image: https://www.berlin.de/binaries/asset/image_assets/10589246/ratio_4_3/1787573885/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 © dpa

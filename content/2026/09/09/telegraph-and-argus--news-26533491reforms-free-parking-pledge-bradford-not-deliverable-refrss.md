@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A PLEDGE by Bradford Council’s Leader to introduce free parking across
   the District is currently “not deliverable.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/20994162.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: T&A)*

@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Rebelle 8 from Escape Motions is all about recreating the real-world
   effect of painting with brushes and paints on a canvas in a virtual environment.
 image: https://cdn.mos.cms.futurecdn.net/wX6GH7koTbtqJoUbQGYX4k-2100-80.png
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

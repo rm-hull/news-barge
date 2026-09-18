@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Tiger Woods has entered a plea agreement to a reckless driving charge
   in Florida following his rollover crash in March
 image: https://static.the-independent.com/2026/09/02/14/2026-09-02T130554Z_602611770_RC20BNAIQ97H_RTRMADP_3_GOLF-TIGERWOODS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
 ---
 
 Golfing icon Tiger Woods entered a a no-contest on Wednesday to a reckless driving charge after a rollover crash in March near his home in Florida.

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Family relationships remain damaged and there is no clarity on how Sussexes’
   security concerns have been resolved
 image: https://i.guim.co.uk/img/media/5679cc0f033ac90ec636fccd0c05ed57bd87e099/159_0_1594_1275/master/1594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4ea5f9a74e60a495f911d3d00710b0b
+categories:
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 Just as the departure of the Duke and Duchess of Sussex’ from the UK six years ago came as a complete surprise, so too is their shock announcement they now intend to return.

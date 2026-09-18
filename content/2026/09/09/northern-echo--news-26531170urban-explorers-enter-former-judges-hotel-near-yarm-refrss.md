@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Urban explorers have gone inside a former country house near Yarm that
   is set to become a five-star luxury hotel.
 image: https://www.thenorthernecho.co.uk/resources/images/19099234.jpg?type=og-image&xType=0&yType=110
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Urban explorers have gone inside a former country house near Yarm that is set to become a five-star luxury hotel.

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: CONVERTED from a detached agricultural building in 2022 – almost certainly
   from where it inherited its name – The Cow Shed is today a…
 image: https://www.thenorthernecho.co.uk/resources/images/21440160.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 CONVERTED from a detached agricultural building in 2022 – almost certainly from where it inherited its name – The Cow Shed is today a contemporary and appealing barn conversion set in large gardens.

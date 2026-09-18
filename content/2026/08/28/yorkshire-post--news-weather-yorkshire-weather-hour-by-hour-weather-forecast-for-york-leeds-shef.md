@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Amid thunderstorm warnings, here is an hourly breakdown of the weather
   forecast for Yorkshire ahead of the bank holiday weekend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFkYWZjNGUzLWNjNzQtNDBjNS05Njk0LWJkMjk4ODJiOTUwYjo3YTBkN2U0YS1hMDkzLTQzZjYtODVlOC0yOTVlNzc2MjNlYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Yorkshire weather: Hour by hour weather forecast for York, Leeds, Sheffield, Bradford and Hull ahead of bank holiday weekend

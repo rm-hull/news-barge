@@ -8,6 +8,8 @@ published: '2026-09-08T00:00:00Z'
 description: The Vernal Core3 Standing Desk has smooth height adjustment, great build
   quality, and some great customization options
 image: https://cdn.mos.cms.futurecdn.net/uuSNMeHMtkZezWbrMvQ7sF-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

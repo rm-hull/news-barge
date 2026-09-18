@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:07Z'
 published: '2026-09-03T00:00:00Z'
 description: A NURSERY has been rated 'strong' by Ofsted.
 image: https://www.thenorthernecho.co.uk/resources/images/21400743.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

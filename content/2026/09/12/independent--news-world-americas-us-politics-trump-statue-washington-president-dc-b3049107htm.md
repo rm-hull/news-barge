@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘He is easily America’s Greatest Hero,’ Trump wrote. ‘Without him, our
   Country and our Freedoms wouldn’t exist’
 image: https://static.independent.co.uk/2026/09/12/14/58/862dff864571b002.jpeg?trim=0,84,0,104&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump called for a towering statue of George Washington to be erected outside the Smithsonian’s National Museum of American History, the latest in a series of efforts to reshape the nation’s capital and the institutions that tell its history.

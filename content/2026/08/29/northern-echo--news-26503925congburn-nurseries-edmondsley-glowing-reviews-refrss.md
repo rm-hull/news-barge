@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: A family-run County Durham garden centre has received glowing reviews
   from "delightfully blown away" customers.
 image: https://www.thenorthernecho.co.uk/resources/images/21384554.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 A family-run County Durham garden centre has received glowing reviews from "delightfully blown over" customers.

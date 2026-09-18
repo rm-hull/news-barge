@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The ThinkBook 14x Gen 2 lacks Thunderbolt, offers a limited HDMI port,
   and supports Wi-Fi 7 at half channel width
 image: https://cdn.mos.cms.futurecdn.net/mzXddSuzWyY7FevoQJBSA4-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Lenovo ThinkBook 14x Gen 2 in a Celestial White trim](https://cdn.mos.cms.futurecdn.net/mzXddSuzWyY7FevoQJBSA4.jpg) 

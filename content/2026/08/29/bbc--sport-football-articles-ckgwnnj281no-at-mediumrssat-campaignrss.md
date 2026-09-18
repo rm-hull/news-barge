@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: How Liverpool and Nottingham Forest's players rated following their Premier
   League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9324/live/09c7f330-a3ab-11f1-af36-fffc938dca63.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Morgan Gibbs-White](https://ichef.bbci.co.uk/ace/standard/983/cpsprodpb/9324/live/09c7f330-a3ab-11f1-af36-fffc938dca63.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: To evaluate the impact of rest on career duration, researchers in Finland
   examined data from individuals aged 50 to 68
 image: https://static.independent.co.uk/2026/08/03/09/01KZ33DR60DPZNG5C93AX8TJX3.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Maintaining good sleep habits in middle age could help people stay in the workforce for longer, research suggests.

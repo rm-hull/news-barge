@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Rubbish left in York streets for weeks has now been collected following
   anger over bin bags being ripped open and becoming fly-infested.
 image: https://www.gazetteherald.co.uk/resources/images/21369479.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 RUBBISH left in York streets for weeks has now been collected following anger over bin bags being ripped open and becoming fly-infested.

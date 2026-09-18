@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Anger is growing after schools “felt they had no option but to close
   early” due to fears of disruption from an A66 crash funeral.
 image: https://www.thenorthernecho.co.uk/resources/images/21408905.jpg?type=og-image&xType=0&yType=243
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Anger is growing after schools “felt they had no option but to close early” due to fears of disruption from an A66 crash funeral.

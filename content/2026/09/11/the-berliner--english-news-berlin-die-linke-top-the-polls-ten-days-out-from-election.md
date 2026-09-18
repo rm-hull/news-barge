@@ -9,6 +9,10 @@ description: Latest poll puts Die Linke in the lead, just 1% ahead of the CDU. B
   state elections are happening in ten days, the most recent polls show that Die Linke
   are in the lead, just 1% ahead of the CDU.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0850476718h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0850476718h-scaled.jpg)

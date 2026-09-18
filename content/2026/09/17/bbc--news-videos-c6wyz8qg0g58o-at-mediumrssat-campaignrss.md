@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Patients in England with an incurable breast cancer can now access a
   life-extending drug on the NHS.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa84/live/e7a8c1a0-b28f-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 # 'I can get more time - that's everything': Breast cancer patient finds out she can get life extending drug

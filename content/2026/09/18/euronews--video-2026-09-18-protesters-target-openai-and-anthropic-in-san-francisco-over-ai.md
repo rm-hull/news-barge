@@ -10,6 +10,10 @@ description: Video. Protesters in San Francisco urged OpenAI and Anthropic to pa
   powerful AI, calling for global rules and an AI emergency amid safety and climate
   fears.
 image: https://images.euronews.com/articles/stories/09/91/82/89/1200x675_cmsv2_2b5f1060-bcd0-53eb-85e1-5e3baf8d4662-9918289.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Dozens of protesters** marched through San Francisco on 17 September, calling on**AI companies** to *“stop the AI race”*. The demonstration began outside**OpenAI’s headquarters** in Mission Bay before moving to**Anthropic’s offices** at 500 Howard Street, next to the**Dreamforce conference**. The march ended at** City Hall**, where protesters urged Mayor Daniel Lurie and the Board of Supervisors to** declare a local AI state of emergency**.

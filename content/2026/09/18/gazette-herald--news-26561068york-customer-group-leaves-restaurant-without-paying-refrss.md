@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Police said it happened around 6.45pm on Friday, September
   4.
 image: https://www.gazetteherald.co.uk/resources/images/21471207.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

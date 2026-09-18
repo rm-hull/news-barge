@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Global struggle for control of Bab al-Mandab strait threatens to turn
   Yemen’s on-off conflict into a forever war
 image: https://i.guim.co.uk/img/media/d87abdac0b036f500e399324f955f7bf9c4a0a0d/472_0_2630_2104/master/2630.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fed01c031141b3f4e20a928e3c4c32d4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Nearly 50,000 people have fled a sudden advance by Houthi forces in western Yemen, with entire villages emptied and families trapped near frontline fighting with depleting food supplies, according to aid workers.

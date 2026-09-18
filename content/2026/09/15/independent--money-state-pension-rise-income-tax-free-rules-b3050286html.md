@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Some pensioners will be dragged into paying income tax – but there are
   exemptions
 image: https://static.independent.co.uk/2026/02/11/15/14/01KH6FG8M11DHK27PQGQY53S9Y.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The state pension is set to rise by £489 next year– but may drag pensioners into paying tax.

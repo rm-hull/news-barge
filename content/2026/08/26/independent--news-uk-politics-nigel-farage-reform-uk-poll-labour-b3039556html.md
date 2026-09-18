@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T13:11:18Z'
 published: '2026-08-26T00:00:00Z'
 description: The dip comes after weeks of infighting within the party
 image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe2-bb82-a82020391510.jpg?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Reform UK have slumped to their lowest performance in opinion polls in over 18 months as Nigel Farage’s by-election win fails to boost the party’s popularity.

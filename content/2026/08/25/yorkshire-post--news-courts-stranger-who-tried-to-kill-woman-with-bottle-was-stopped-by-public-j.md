@@ -9,6 +9,11 @@ description: A woman who was attacked by stranger who tried to kill her with a b
   bottle as she walked home from a meal out was saved by members of the public who
   had to knock the man unconscious to make him stop, a court has heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/17/08/ibrahim_albashir.jpeg?trim=393,0,393,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Stranger who tried to kill woman with bottle was stopped by public, judge hears

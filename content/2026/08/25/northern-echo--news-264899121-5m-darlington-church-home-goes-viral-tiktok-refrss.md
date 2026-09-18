@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A former Victorian church in Middleton One Row has gone on the market
   for £1.5m, featuring a working pipe organ, stained glass and seven bedrooms.
 image: https://www.thenorthernecho.co.uk/resources/images/21363230.jpg?type=og-image&xType=0&yType=73
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A mesmerising church has turned into a luxury property in Darlington - and now a lucky buyer can call it home.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A Chinese humanoid robot has set a new 100-meter sprint record of 8.86
   seconds in Beijing
 image: https://static.independent.co.uk/2026/08/25/17/China_Humanoid_Robot_Games_95173.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Chinese humanoid robot set a new 100-meter sprint record of 8.86 seconds in Beijing on Tuesday, beating its robot competitors — and the fastest recorded human time.

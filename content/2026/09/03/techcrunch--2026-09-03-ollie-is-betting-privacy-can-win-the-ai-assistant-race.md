@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: The family-focused AI assistant wants access to the details of your everyday
   life, but says it won’t use that data to train AI models or share it with others.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847
+categories:
+- Technology & Software
 ---
 
 For an AI assistant to become truly useful, it first has to know a lot about you. Ollie, a personal assistant for everyday life, is betting that doesn’t mean you have to hand over all your data and sacrifice your privacy in the process.

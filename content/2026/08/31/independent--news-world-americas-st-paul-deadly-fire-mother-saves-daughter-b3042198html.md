@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Bonnie Pierce initially made it out safely, but re-entered the burning
   structure after realizing her youngest child was still trapped inside
 image: https://static.independent.co.uk/2026/08/31/15/35/Minnesota-mom.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Minnesota mother died after re-entering a burning duplex to save her 3-year-old daughter, shielding the toddler with her own body until firefighters reached them.

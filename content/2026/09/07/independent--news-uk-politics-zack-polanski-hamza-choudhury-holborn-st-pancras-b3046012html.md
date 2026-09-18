@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:41Z'
 published: '2026-09-07T00:00:00Z'
 description: The Greens are likely to pose the greatest threat to Labour in the by-election
 image: https://static.independent.co.uk/2026/09/03/16/2263298083..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Green Party leader Zack Polanski will face an internal challenge to become his party’s candidate in the by-election caused by Sir Keir Starmer leaving Parliament.

@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: A freshly upgraded walking and cycling route in Bingley has officially
   opened to the public.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336498.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 A FRESHLY upgraded walking and cycling route has officially opened to the public.

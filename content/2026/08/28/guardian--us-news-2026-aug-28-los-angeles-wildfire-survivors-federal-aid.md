@@ -10,6 +10,10 @@ description: Nearly 600 days after the devastating 2025 fires, thousands of Los 
   residents are still waiting for more than $15bn in federal funds to rebuild their
   communities
 image: https://i.guim.co.uk/img/media/d6341b9be80af45b46afcc83ce09f2a0f866b987/336_0_3347_2679/master/3347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33ed313af076ce9acb54e4cbf842ecbd
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 As thousands of residents in Spokane, Washington, begin to grapple with a long recovery after a destructive set of blazes that consumed hundreds of homes in the state’s second most populated city this month, victims of the Los Angeles firestorm broke a grim record – they have faced the longest delay in modern history for federal aid.

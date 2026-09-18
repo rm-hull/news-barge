@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: An unused stone barn in North Yorkshire could be given a new lease of
   life as an eco-friendly community café — with the public being urged to…
 image: https://www.thenorthernecho.co.uk/resources/images/21403938.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 An unused stone barn in North Yorkshire could be given a new lease of life as an eco-friendly community café — with the public being urged to help shape the project.

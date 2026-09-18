@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: An teenager is fighting for his life following a collision involving
   an e-scooter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Reform UK has received a second £36 million donation from a cryptocurrency
   billionaire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/07/cs-89823fe5-a4ea-4f55-8550-76e5e1337ba0.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Yorkshire-born billionaire Christopher Harborne donates £36m to Reform

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Several Connecticut towns are installing AI-powered license plate readers
   on school buses to catch drivers who illegally pass stopped buses
 image: https://static.independent.co.uk/2026/09/08/23/License_Plate_Readers_School_Buses_45392.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 City and town leaders across Connecticut have been fielding growing pushback from residents over automated license plate readers, which opponents say raise a range of concerns about privacy.

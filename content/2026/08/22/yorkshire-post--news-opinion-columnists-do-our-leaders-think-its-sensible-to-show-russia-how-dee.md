@@ -11,6 +11,11 @@ description: There’s a rather pretty phrase in French, ‘folie à plusieurs�
   is, I think that many of our military and political leaders must be suffering from
   a serious dose of this dangerous psychosis.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVlZmMwYTMxLWZmOTMtNDYyMy1iM2RhLWYwNWU5MjBiYmY3MTowNjFhOTMzNy02Y2JmLTQ5ZTgtODZjOS0wMDdlY2IzODlkOGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Do our leaders think it’s sensible to show Russia how deeply we’re involved in this war? - Patrick Mercer

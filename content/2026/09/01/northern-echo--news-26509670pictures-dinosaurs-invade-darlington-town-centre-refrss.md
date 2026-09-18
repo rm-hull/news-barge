@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Darlington town centre was transported to prehistoric times as families
   flocked to Dinosaur Day for an afternoon of roaring entertainment.
 image: https://www.thenorthernecho.co.uk/resources/images/21393374.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: SARAH CALDECOTT)*

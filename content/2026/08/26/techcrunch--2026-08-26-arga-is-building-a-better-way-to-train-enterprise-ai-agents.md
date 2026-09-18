@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Arga has raised $10 million in a seed funding round that was led by General
   Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Making AI agents work is turning out to be a lot harder than many companies expected. Luckily for them, there’s help on the way: A new crop of startups is finding better ways to test and train agents before they are deployed, particularly on the complexities of the modern enterprise.

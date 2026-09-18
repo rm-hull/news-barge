@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: 'The transfer was carried out partially by buying and selling and partly
   by physically transferring gold, the Dutch national bank said. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/86/30/1200x675_cmsv2_d64dbf35-a4c3-5571-a655-403afea1acd9-9898630.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- History
 ---
 
 ## The transfer was carried out partially by buying and selling and partly by physically transferring gold, the Dutch national bank said.

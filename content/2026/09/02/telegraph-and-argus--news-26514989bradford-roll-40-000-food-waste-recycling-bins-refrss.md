@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Bradford has begun rolling out weekly food waste collections to almost
   25,000 households, with 40,000 bins set to be distributed across the district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401263.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Bradford Council)*

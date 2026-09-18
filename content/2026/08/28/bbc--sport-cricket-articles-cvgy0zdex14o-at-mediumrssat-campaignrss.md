@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Former England captain Michael Vaughan predicts England's new pace quartet
   will trouble Australia - so what is making them effective against Pakistan?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4421/live/ec36fe60-a30f-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Relentless Robinson finishes with 4-11 in brilliant performance

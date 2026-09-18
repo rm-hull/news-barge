@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:27:06Z'
 published: '2026-09-15T00:00:00Z'
 description: Reform launches mobile game amid questions over party’s £72 million donations
 image: https://static.independent.co.uk/2026/09/09/15/2293084304..?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Reform UK has been accused of trying to “distract” voters from controversy over the party’s financial affairs after it launched a small boats mobile “game”.

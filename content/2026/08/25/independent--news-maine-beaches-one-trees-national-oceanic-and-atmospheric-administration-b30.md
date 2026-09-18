@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Maine's Popham Beach has been using old Christmas trees to help rebuild
   sand dunes after harsh winter storms
 image: https://static.independent.co.uk/2026/08/25/20/Living_Shorelines_Maine__4712.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 For years, Maine residents and visitors alike have flocked to Popham Beach in Phippsburg expecting to see a variety of shells, seabirds and rock outcroppings. This summer, visitors also encountered the occasional Christmas tree carcass strewn along sections of the beach’s uppermost sand dunes. These old trees are not the result of a holiday mishap — they were intentionally laid out to help rebuild the dunes after they were ravaged by harsh winter storms in December 2023 and January 2024.

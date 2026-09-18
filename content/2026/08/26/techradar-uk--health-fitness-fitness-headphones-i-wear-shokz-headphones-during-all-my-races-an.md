@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Shokz headphones are ideal for runners, and sometimes required during
   organised races.
 image: https://cdn.mos.cms.futurecdn.net/LfGnosZK78tzKzucc8sW2h-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![A side view of a male wearing the Shokz OpenFit Air headphones](https://cdn.mos.cms.futurecdn.net/LfGnosZK78tzKzucc8sW2h.jpg) 

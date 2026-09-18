@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T12:01:12Z'
 published: '2026-08-27T00:00:00Z'
 description: An EastEnders legend is due to appear in court in two weeks' time.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19975410.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: BBC)*

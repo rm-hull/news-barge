@@ -10,6 +10,11 @@ published: '2026-09-01T00:00:00Z'
 description: Haas runs Arm while also holding a senior executive role inside Arm’s
   controlling shareholder, SoftBank.
 image: https://cdn.mos.cms.futurecdn.net/CpBAJsLmPLaYfQUJATbWt3-1000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![arm](https://cdn.mos.cms.futurecdn.net/CpBAJsLmPLaYfQUJATbWt3.jpg) 

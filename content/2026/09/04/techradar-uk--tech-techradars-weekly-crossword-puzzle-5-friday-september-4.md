@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:58:58Z'
 published: '2026-09-04T00:00:00Z'
 description: Test your tech knowledge with our weekly brainteaser
 image: https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Education & Learning
 ---
 
 ![A crossword puzzle with the words TechRadar Crossword in pink and other clues filled in with categories from across the site](https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh.jpg) 

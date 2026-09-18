@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Stockton Council has published a series of planning applications affecting
   conservation areas and listed buildings across the borough, with…
 image: https://www.thenorthernecho.co.uk/resources/images/19049599.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

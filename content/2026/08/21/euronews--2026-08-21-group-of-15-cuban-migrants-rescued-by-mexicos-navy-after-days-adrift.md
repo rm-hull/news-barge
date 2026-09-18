@@ -9,6 +9,9 @@ description: Cubans seeking to leave the communist-run island have risked their 
   in flimsy boats for decades in a bid to cross the treacherous Florida Straits to
   the United States or across the Caribbean to Mexico.
 image: https://images.euronews.com/articles/stories/09/88/31/00/1200x675_cmsv2_f1b17ec3-672c-5456-a36d-60c67b3ec3fd-9883100.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Cubans seeking to leave the communist-run island have risked their lives in flimsy boats for decades in a bid to cross the treacherous Florida Straits to the United States or across the Caribbean to Mexico.

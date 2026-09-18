@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The suspect, a 35-year-old woman, allegedly purchased bomb materials
   and spent weeks surveilling the Capitol building
 image: https://static.independent.co.uk/2026/08/20/18/40/GettyImages-1333624649.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- True Crime
 ---
 
 Federal authorities arrested a woman accused of plotting an ISIS-inspired attack on the New York State Capitol in Albany.

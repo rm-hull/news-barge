@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Saltburn Cliff Tramway will reopen on Friday (August 28) after months
   of closures following a major refurbishment and installation of new…
 image: https://www.thenorthernecho.co.uk/resources/images/21213538.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 One of the North East's most iconic seaside attractions will welcome visitors back after months of closures and delays.

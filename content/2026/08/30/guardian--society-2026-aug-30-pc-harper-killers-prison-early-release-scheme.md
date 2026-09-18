@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Critics say the move, which will keep PC Harper’s killers in jail, leaves
   number of prison spaces ‘too close to the bone’
 image: https://i.guim.co.uk/img/media/f1dd397fe21a5765771c44122d7f95512dd1d392/1198_0_5992_4796/master/5992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e33d4eb546c9da7bdb2eecc283d5b31
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 PC Andrew Harper’s killers will remain behind bars after a critical intervention by Andy Burnham, but the move has led to warnings that overcrowded prisons will be left “one major event away from disaster”.

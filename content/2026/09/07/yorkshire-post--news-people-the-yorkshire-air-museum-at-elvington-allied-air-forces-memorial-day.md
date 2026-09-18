@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The Yorkshire Air Museum at Elvington near York hosted its annual Allied
   Air Forces Memorial Day on Sunday (Sep 6).
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgyMjc5OWFmLWVmMGYtNDIzYi1hNTk2LTQxYWIyZjI4Zjc3YTplNjIwODYzMy1jZWE0LTQ0YjQtYmJmZS1hNzhlYmJkNzAxZTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 Visitors watched a colourful parade featuring 18 ceremonial Standards, while official representatives from France, Belgium, Poland, Canada, Australia and New Zealand joined the commemorations.

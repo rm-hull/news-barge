@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: A rare bicycle used by an adventurer from West Yorkshire has gone on
   display at Bradford Industrial Museum.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429499.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Mike Simmonds/Newsquest)*

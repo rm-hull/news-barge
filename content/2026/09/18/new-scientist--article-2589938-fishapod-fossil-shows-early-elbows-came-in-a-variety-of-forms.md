@@ -9,6 +9,10 @@ description: The fish that preceded the first four-legged land animals came in a
   variety of forms than we had thought, and fossils show that one had an elbow joint
   that moved in an oddly restrictive way
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312707974.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![A new Devonian fin from Ellesmere Island](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312707974.jpg?w=840)

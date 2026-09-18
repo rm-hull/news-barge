@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: £10bn for housing with 60% social renting is at odds with PM’s previous
   call for programme to be spent entirely on social homes
 image: https://i.guim.co.uk/img/media/bde04cf97a3ddf798e20b45db767cc0d3ecb0133/572_158_4132_3305/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=dcfffc40588f0860791c3a7b078875a7
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Good morning and welcome to the UK politics live blog.

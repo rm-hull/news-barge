@@ -9,6 +9,9 @@ description: The AI giant acknowledges that it could have done far more to preve
   its AI agents from going rogue. But it still fails to explain why it didn't see
   this fiasco coming.
 image: https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/191:100/w_1280,c_limit/OpenAIFaceHug.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 OpenAI announced Wednesday that it completed an investigation into what happened when its AI agents hacked into Hugging Face last month and published its most comprehensive report on the incident to date. For the most part, though, the 37-page document raises more questions than it answers, including about what preceded the incident and how OpenAI can stop another one like it from happening again.

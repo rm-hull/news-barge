@@ -8,6 +8,8 @@ published: '2026-08-23T00:00:00Z'
 description: A mysterious new AI model called Ox Alpha has driven certain corners
   of the internet into a frenzy of speculation.
 image: https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation about who actually built it.

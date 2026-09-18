@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Trump administration has started building the border wall in the
   Big Bend region of west Texas
 image: https://static.independent.co.uk/2026/09/18/18/Immigration_Border_Wall_8_396.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration has started building the border wall through a west Texas section of the Big Bend region, marking the first major construction in an area of the U.S.-Mexico border where the administration's plans have met with heavy opposition.

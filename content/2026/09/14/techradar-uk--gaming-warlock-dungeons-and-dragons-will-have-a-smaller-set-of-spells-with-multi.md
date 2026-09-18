@@ -10,6 +10,9 @@ published: '2026-09-14T00:00:00Z'
 description: 'Invoke Studios has confirmed that Warlock: Dungeons & Dragons has a
   smaller spell set, mainly for controller accessibility.'
 image: https://cdn.mos.cms.futurecdn.net/TzTMAAQh5iyR8ZUQLzcS4C-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Warlock Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/TzTMAAQh5iyR8ZUQLzcS4C.jpg) 

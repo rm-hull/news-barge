@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Are pigs flying? Walmart has finally caved on its refusal to support
   Apple Pay and Google Pay.
 image: https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_186861932.jpg?w=1000
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apparently, hell has frozen over. Walmart on Friday said it will finally accept payments via both Apple Pay and Google Pay at its stores, including Walmart and Sam’s Club.

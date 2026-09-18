@@ -9,6 +9,12 @@ description: Andrew Davies, the master of literary adaptations such as Pride & P
   House of Cards, and Bridget Jones, is turning the spotlight onto himself at the
   Ilkley Literature Festival.
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
 ---
 
 # Davies takes centre stage at festival

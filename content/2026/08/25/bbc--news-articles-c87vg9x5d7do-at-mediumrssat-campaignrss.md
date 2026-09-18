@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Flight tracking data confirms an American military aircraft travelled
   to Russia from the US via Latvia on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- History
 ---
 
 ![John Ratcliffe seen in a navy suit, with a red tie.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg)

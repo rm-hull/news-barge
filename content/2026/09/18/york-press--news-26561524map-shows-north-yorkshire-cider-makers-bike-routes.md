@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A map has been launched showing the cidermakers of North Yorkshire and
   how to get to them by bike.
 image: https://www.yorkpress.co.uk/resources/images/21471844.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## New map charts North Yorkshire’s cider makers and cycle routes to their orchards

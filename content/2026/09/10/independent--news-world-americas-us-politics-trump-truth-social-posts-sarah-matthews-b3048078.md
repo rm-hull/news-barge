@@ -9,6 +9,10 @@ description: Ex-White House official Sarah Matthews says President Donald Trump 
   the zone’ with so many memes ‘we’ve become numb to just how bizarre it is,’ mocking
   him for promoting delusional ‘fan fiction’
 image: https://static.independent.co.uk/2026/09/10/16/2217179973..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 A former White House aide has likened President Donald Trump’s recent run of bizarre posting on Truth Social to “watching his brain rot in real time” amid growing exasperation over his online trolling.

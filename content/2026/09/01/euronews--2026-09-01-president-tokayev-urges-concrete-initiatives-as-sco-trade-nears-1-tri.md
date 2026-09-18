@@ -10,6 +10,11 @@ description: The SCO Council of Heads of State met in Bishkek, bringing together
   President Kassym-Jomart Tokayev proposed new initiatives on security, trade, connectivity
   and technology.
 image: https://images.euronews.com/articles/stories/09/89/82/18/1200x675_cmsv2_8db4e7bb-ad24-557e-a099-ad79cafec871-9898218.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The SCO Council of Heads of State met in Bishkek, bringing together leaders of its ten member countries. With SCO trade approaching $1 trillion, Kazakhstan’s President Kassym-Jomart Tokayev proposed new initiatives on security, trade, connectivity and technology.

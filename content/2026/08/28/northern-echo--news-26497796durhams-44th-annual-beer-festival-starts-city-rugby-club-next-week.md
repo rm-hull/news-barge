@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Real ale enthusiasts are looking forward to wetting their whistle at
   a long-running annual regional beer festival next week.
 image: https://www.thenorthernecho.co.uk/resources/images/18479789.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Real ale enthusiasts are looking forward to wetting their whistle at a long-running annual regional beer festival next week.

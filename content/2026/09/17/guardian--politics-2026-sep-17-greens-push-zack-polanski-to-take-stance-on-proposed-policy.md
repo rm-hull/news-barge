@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Green leader has not spoken publicly about the motion, which is likely
   to be debated at the party’s conference in October
 image: https://i.guim.co.uk/img/media/82bbdcfdc218c59be421d972b030bec0c6684b16/537_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54838257e038ec1659e559389e70ce43
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Greens are pushing Zack Polanski to take a stance on a potential party policy stating “Zionism is racism”, with some fearing it could alienate Jewish supporters if it was passed.

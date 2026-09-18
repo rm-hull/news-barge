@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: A mound of rubbish at a major waste site buried several homes in the
   capital, the government says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Rescuers use an excavator to comb through a mountain of scattered rubbish at a major waste site in Conakry, Guinea, as local residents gather nearby. Photo: 23 August 2026](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Pennsylvania police officer who fatally shot a 22-year-old college
   student has been charged with voluntary manslaughter
 image: https://static.independent.co.uk/2026/09/01/19/Wrong-House-Shooting_64958.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Pennsylvania police officer who fatally shot a 22-year-old college student has been charged with voluntary manslaughter, a prosecutor said Tuesday.

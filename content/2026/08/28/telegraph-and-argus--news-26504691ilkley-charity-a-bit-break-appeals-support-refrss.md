@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: AN Ilkley charity set up by a mother-of-two a decade ago after her own
   cancer diagnosis is appealing for support as it aims to provide a record…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385165.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: submitted)*

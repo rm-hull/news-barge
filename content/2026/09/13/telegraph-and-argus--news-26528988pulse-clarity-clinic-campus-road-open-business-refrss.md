@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A new private health, wellness, and aesthetics clinic has just opened
   at Listerhills Science Park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421254.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 A new private health, wellness, and aesthetics clinic has just opened at Listerhills Science Park.

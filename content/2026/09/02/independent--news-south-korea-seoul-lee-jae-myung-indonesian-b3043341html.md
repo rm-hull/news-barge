@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A tugboat capsized and sank off South Korea's southeastern coast, leaving
   one crew member dead and six others missing
 image: https://static.independent.co.uk/2026/09/02/10/South_Korea_Ship_Sinks_31658.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A tugboat capsized and sank off South Korea's southeastern coast on Wednesday, leaving one crew member dead and six others missing, the coast guard said.

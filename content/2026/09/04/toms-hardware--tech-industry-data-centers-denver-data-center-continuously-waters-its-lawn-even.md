@@ -10,6 +10,9 @@ published: '2026-09-04T00:00:00Z'
 description: Denver Water’s water collection system watersheds are now in an Extreme
   to Exceptional Drought.
 image: https://cdn.mos.cms.futurecdn.net/3DKtaekbQ6h6AeAJcp8rNE-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![a lawn being watered by sprinklers](https://cdn.mos.cms.futurecdn.net/3DKtaekbQ6h6AeAJcp8rNE.png) 

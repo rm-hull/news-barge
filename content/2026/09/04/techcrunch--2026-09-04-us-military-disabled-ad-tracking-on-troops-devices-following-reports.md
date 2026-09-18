@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: A senator's letter confirms the U.S. military moved to prevent the tracking
   after foreign adversaries used location data to target troops.
 image: https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-160989986.jpg?resize=1200,831
+categories:
+- Technology & Software
 ---
 
 The U.S. Department of Defense has disabled advertising tracking on troops’ phones and computers as part of an effort to protect them from threats that target their locations, according to a letter shared with Senator Ron Wyden.

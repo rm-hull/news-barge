@@ -9,6 +9,13 @@ description: Artificial intelligence and robotics are no longer technologies of 
   distant future. They are already changing how we work, how we deliver healthcare,
   how businesses innovate and how public services operate.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU4ZjRkNDgzLWYxMDctNDg0My1iZDQzLTk1MDIyYjk4ZjEwNjo1ZjE2NDM4OC1lOWYxLTRlYjYtODE1Mi0wY2FiMGRlYWE0YTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 # Why AI cannot belong to computer science alone - Alessandro Di Nuovo

@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:27:56Z'
 published: '2026-09-01T00:00:00Z'
 description: Police remain at the scene of a 'stab attack' in Dormanstown.
 image: https://www.thenorthernecho.co.uk/resources/images/21395541.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 - Welcome to The Northern Echo's live breaking news blog on a 'stab attack' in Dormanstown.

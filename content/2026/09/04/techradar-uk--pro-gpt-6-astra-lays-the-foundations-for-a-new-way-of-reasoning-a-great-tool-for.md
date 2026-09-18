@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T18:59:36Z'
 published: '2026-09-04T00:00:00Z'
 description: GPT-6 Astra is a major upgrade for businesses
 image: https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36-1280-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![OpenAI GPT-6 Astra](https://cdn.mos.cms.futurecdn.net/S8KxZGx6n8eh2LiPG7yz36.jpg) 

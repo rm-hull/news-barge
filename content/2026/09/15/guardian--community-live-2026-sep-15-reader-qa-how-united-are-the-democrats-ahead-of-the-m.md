@@ -12,6 +12,10 @@ description: 'Who are the Democrats running in the midterms, and where do they s
   and left wing candidates and key races to watch. Drop your questions and join us
   live at 12pm (EDT) on 16 September'
 image: https://i.guim.co.uk/img/media/7f3d7ed379db80c152f911d7cb16842b44dc8b5a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=26e8d2d5a521b4dc069d2ac30033ab66
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 We’re less than two months from the midterm elections that could have an outsized impact on the future of the United States.

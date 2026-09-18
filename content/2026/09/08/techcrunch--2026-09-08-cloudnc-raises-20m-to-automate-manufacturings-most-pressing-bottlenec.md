@@ -10,6 +10,9 @@ description: UK-based manufacturing software startup CloudNC announced Wednesday
   $20 million B extension round, bringing its lifetime total raised amount to $128
   million.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 UK-based manufacturing software startup CloudNC announced a $20 million B extension round on Wednesday, bringing its lifetime total raised amount to $128 million. The company’s last major raise was four years ago, its co-founder and CEO Theo Saville told TechCrunch.

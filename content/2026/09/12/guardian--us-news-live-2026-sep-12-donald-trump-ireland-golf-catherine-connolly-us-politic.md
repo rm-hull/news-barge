@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: US president is meeting politicians and business leaders – and playing
   golf – during two-day trip to Ireland
 image: https://i.guim.co.uk/img/media/940819e55a0c4db9da28dac9e164b246df7aa257/449_316_2551_2042/master/2551.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=41733be5c7859c8d86b40fee3aaa6675
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Trump has weighed in on the question of Irish unity, saying he would “love to see it unified” and predicting that a united Ireland is “going to happen eventually”.

@@ -10,6 +10,10 @@ description: Andy Murray has long been a guiding figure for British tennis, but 
   Katie Boulter will not be following his lead when it comes to keeping her wedding
   ring safe as she prepares for the US Open.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ee3/live/67a94d80-a317-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Katie Boulter and Alex de Minaur](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2ee3/live/67a94d80-a317-11f1-a291-b542ee92de7c.jpg)

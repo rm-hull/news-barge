@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: 'Exclusive: Ukrainian media partners with OpenAI in bid to stay profitable
   as war bites'
 image: https://static.independent.co.uk/2026/08/18/15/19/4.jpg?trim=670,0,670,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 In the weeks leading up to Vladimir Putin’s invasion of Ukraine, the headlines in a Kyiv newspaper looked much like they would anywhere else.

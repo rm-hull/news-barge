@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T19:17:01Z'
 published: '2026-09-03T00:00:00Z'
 description: The details about the compromised files are unknown at this time
 image: https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 ![Back view of hooded internet criminal hacking laptop in the dark, stealing credit card details](https://cdn.mos.cms.futurecdn.net/y7GLevUTEjLYdujEYsv668.jpg) 

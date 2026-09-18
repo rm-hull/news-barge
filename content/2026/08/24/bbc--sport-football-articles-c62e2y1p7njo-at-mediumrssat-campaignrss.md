@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: While Chelsea's front three produced a sparkling display in their win
   over Fulham, goalkeeper Robert Sanchez remains a major concern.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/17e6/live/ebcc3540-a007-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Palmer shines as Chelsea edge Fulham in Alonso debut win

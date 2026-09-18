@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: SIX people have been arrested as part of a police investigation into
   organised cargo theft.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12278004.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Supplied)*

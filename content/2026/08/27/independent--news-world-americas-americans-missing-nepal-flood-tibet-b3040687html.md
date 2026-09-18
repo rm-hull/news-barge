@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A large number of the missing individuals were participating in a pilgrimage
   to Tibet’s Mount Kailash
 image: https://static.independent.co.uk/2026/08/27/19/Nepal_Flash_Floods_22183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Roughly 90 U.S. citizens remain unaccounted for after devastating flash floods swept through a border region between China and Nepal, leaving hundreds dead, U.S. officials said on Thursday.

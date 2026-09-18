@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Test your football knowledge with today's Who Am I?, Five in Five and
   Brainteaser quizzes.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A graphic saying "Today's quizzes" on a green background next to a football, calendar and question mark](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Our Yorkshire Farm star Miles Owen is now a full-time farmer at Ravenseat,
   works alongside brother Reuben and has plans for his own future in…
 image: https://www.thenorthernecho.co.uk/resources/images/21420196.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Miles Owen was still growing up when millions of viewers first watched him helping mum Amanda and dad Clive on their remote Yorkshire Dales farm.

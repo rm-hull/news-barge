@@ -10,6 +10,10 @@ description: The art portfolio platform Cara, designed for creators who don’t 
   their work used to train AI, has been under assault by trolls seizing and publishing
   its data.
 image: https://media.wired.com/photos/6a8f719f1780b42ea22395f3/191:100/w_1280,c_limit/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 Since early 2023, photographer Jingna Zhang and a small crew of volunteers have worked tirelessly to maintain an image-sharing social media and portfolio app called Cara. So far, it has attracted about 1.5 million artists. What drew them to the platform? A shared opposition to the unauthorized use of their work to train AI models and a desire to publicize their art while avoiding exploitation by Big Tech.

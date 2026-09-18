@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Christopher Harborne has previously donated to the Brexit Party and the
   Conservatives, while Ben Delo was pardoned by Donald Trump just last year
 image: https://static.independent.co.uk/2026/09/12/14/33/Ben-Dalo-and-Christopher-Harborne.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Reform UK has received £72m as two cryptocurrency billionaires have backed Nigel Farage’s party with major donations just days apart.

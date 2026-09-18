@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Trump’s schedule had no events between his intelligence briefing and
   ‘signing time’ set for 2:00 pm
 image: https://static.independent.co.uk/2026/08/26/14/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 With the war he started in Iran approaching the six-month mark and the American economy still beset by rising prices amid the trade wars he has started with almost every major American trading partner, the President of the United States took time Wednesday afternoon posting and reposting content to glorify himself and air niche grievances.

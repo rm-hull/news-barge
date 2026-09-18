@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police say both vehicles were travelling in the same
   direction at the time.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9f6/live/42a51ea0-b263-11f1-b67f-2b40fa83cfed.jpg
+categories:
+- Local
+- Harrogate
+- Automotive
+- Travel
 ---
 
 ![A two-lane rural road curving gently and rising uphill through a countryside landscape. The road surface is grey asphalt with white lane markings running along the centre and a dashed white line marking the edge of a junction or side road in the foreground.

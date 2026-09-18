@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The PM exchanging text messages with a person posing as Donald Trump's
   chief is prominent across Tuesday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9466/live/38848b00-9a8e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![The headline on the front page of the Daily Mail reads: "Who was the White House hoaxer who duped PM?"](https://ichef.bbci.co.uk/ace/standard/810/cpsprodpb/367d/live/2d455a80-9a7f-11f1-aed2-8d6da8d75094.jpg)

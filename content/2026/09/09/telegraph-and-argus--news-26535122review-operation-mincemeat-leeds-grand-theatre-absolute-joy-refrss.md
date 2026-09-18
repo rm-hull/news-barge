@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: 'BRILLIANT, brilliant and brilliant again: Operation Mincemeat is undoubtedly
   prime beef masquerading as a cheap cut and, more than any show I have…'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429844.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 BRILLIANT, brilliant and brilliant again: Operation Mincemeat is undoubtedly prime beef masquerading as a cheap cut and, more than any show I have seen in many a year, deserved the instant standing ovation it was given by a packed house.

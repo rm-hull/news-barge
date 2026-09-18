@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Independent senator had denounced as ‘cruel’ the plan to impose a $5,000
   cap on allied health services for veterans
 image: https://i.guim.co.uk/img/media/c77b4097e6bc6d537ce69033d8082f733485c8ae/264_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9a0c5b73223fe15592eb4a2193148f9
+categories:
+- UK
+- News & Politics
 ---
 
 Labor has backed down on plans to impose a $5,000 cap on health services for defence veterans, caving to growing political pressure after weeks of criticism.

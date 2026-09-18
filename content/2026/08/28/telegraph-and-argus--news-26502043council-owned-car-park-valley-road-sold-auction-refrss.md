@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A council-owned car park that generates £2,300 a year income will be
   sold at auction next month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381243.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: BTG Eddisons)*

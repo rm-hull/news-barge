@@ -9,6 +9,11 @@ description: Indonesia has more than 120 active volcanoes and frequently experie
   eruptions due to its location along the Pacific "Ring of Fire," the ring of seismic
   faults around the Pacific Ocean where most global seismic activity occurs.
 image: https://images.euronews.com/articles/stories/09/90/50/61/1200x675_cmsv2_b51bd53e-4588-5f9e-a8cc-3dbe9b7dcd9c-9905061.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 ## Indonesia has more than 120 active volcanoes and frequently experiences eruptions due to its location along the Pacific "Ring of Fire," the ring of seismic faults around the Pacific Ocean where most global seismic activity occurs.

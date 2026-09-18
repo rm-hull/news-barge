@@ -9,6 +9,13 @@ published: '2026-09-03T00:00:00Z'
 description: Leeds City Council has said it aims to begin long-delayed repairs on
   a historic street this month.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/8/16/Lower-Kirkgate.jpeg?trim=0,43,0,42&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Leeds City Council awards £680,000 contract for urgent maintenance on Lower Kirkgate

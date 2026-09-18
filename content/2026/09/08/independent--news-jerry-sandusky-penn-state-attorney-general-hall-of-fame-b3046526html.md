@@ -10,6 +10,10 @@ description: Former Penn State assistant football coach Jerry Sandusky is schedu
   to appear in court remotely for a hearing on a claim that an accuser will recant
   allegations that Sandusky sexually abused him years ago
 image: https://static.independent.co.uk/2026/08/28/16/Jerry_Sandusky_85493.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Penn State assistant football coach Jerry Sandusky was scheduled to appear in court remotely Tuesday for a hearing on a claim that an accuser wants to recant allegations that Sandusky sexually abused him years ago.

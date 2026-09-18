@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Evie Rowlands, 14, has been crowned best drum major in the UK – after
   being in the role for just four months.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFlYjY4YTg5LWQzZGMtNGEwYS1hMzIxLTJmMTMyNDUzNjBmNTo4ZmIyNGNjOC00OGM4LTQ2ZGItOTJjNy03YjY5ZWEzMjhhMTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Music
 ---
 
 # 'The best experience' - Yorkshire sea cadet named best drum major in the country

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The 250th anniversary of U.S. independence was just months away when
   National Park Service employees received a directive from Washington
 image: https://static.independent.co.uk/2026/08/21/21/Lincoln_Memorial_Reflecting_Pool_3444_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 The 250th anniversary of U.S. independence was just months away when National Park Service employees received a surprising directive from Washington: Maintenance projects approved for this year at sites across the nation were being relegated to a new “low priority” list.

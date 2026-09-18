@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: An MP has welcomed maternity services at York Hospital being upgraded
   from 'inadequate' to 'good' following an inspection by the…
 image: https://www.yorkpress.co.uk/resources/images/21050678.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

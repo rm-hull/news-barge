@@ -9,6 +9,10 @@ description: It comes after US Secretary of State Marco Rubio made a trip to Sou
   America last week, where he met with the conservative leaders of Peru, Colombia
   and Ecuador to pledge further support and cooperation.
 image: https://images.euronews.com/articles/stories/09/91/49/23/1200x675_cmsv2_df24be31-bb99-5e21-be23-5a2827096553-9914923.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## It comes after US Secretary of State Marco Rubio made a trip to South America last week, where he met with the conservative leaders of Peru, Colombia and Ecuador to pledge further support and cooperation.

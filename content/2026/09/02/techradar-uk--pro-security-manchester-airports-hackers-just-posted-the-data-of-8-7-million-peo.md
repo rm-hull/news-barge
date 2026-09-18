@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: FulcrumSec attempted to extort Manchester Airports Group, but failed.
   Now, the cyber-criminals have published the information online.
 image: https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A hand about to touch a phone. Superimposed on top of it is a pink triangle with exclamation mark inside it. Behind it is a computer display with code on it](https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL.jpg) 

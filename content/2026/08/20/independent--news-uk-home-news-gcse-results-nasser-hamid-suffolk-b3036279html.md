@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Nasser recently oversaw a charity football match at Ipswich Town’s ground
   and said he would love to referee at a future World Cup
 image: https://static.independent.co.uk/2026/08/20/11/01M0FC8EQH3N6XS1B0R723676D.jpg?trim=79,0,79,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A student who escaped conflict in Sudan to live in the UK described passing his GCSE exams in maths and English as "one of the proudest moments in my life".

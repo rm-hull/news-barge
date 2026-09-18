@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A family-run Bishop Auckland bakery has been serving customers for more
   than 30 years, building a loyal following with its range of freshly baked…
 image: https://www.thenorthernecho.co.uk/resources/images/21435963.jpg?type=og-image&xType=0&yType=25
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 *(Image: SARAH CALDECOTT)*

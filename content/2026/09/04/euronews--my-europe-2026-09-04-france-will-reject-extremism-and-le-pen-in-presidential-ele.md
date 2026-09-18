@@ -9,6 +9,9 @@ description: 'Polls suggest far-right veteran Marine Le Pen is on course to beco
   France’s next president, though the race remains in its early stages. But EU minister
   Haddad says voters will reject her. #12MinutesWith'
 image: https://images.euronews.com/articles/stories/09/90/04/77/1200x675_cmsv2_fc5483a6-ec64-53fc-afd6-42ff47849ba4-9900477.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Polls suggest far-right veteran Marine Le Pen is on course to become France’s next president, though the race remains in its early stages. But EU minister Haddad says voters will reject her.

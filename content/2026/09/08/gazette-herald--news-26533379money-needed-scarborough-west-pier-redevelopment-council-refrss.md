@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The cost of a major harbour redevelopment project in North Yorkshire
   has increased since it was approved, the council has said.
 image: https://www.gazetteherald.co.uk/resources/images/21000465.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 The cost of a major harbour redevelopment project in North Yorkshire has increased since it was approved, the council has said.

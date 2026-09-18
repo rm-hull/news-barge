@@ -9,6 +9,12 @@ scraped_at: '2026-08-28T22:15:13Z'
 published: '2026-08-28T00:00:00Z'
 description: They don't want to get left behind.
 image: https://cdn.mos.cms.futurecdn.net/r4EqVPQPb5RUnrXurEfjbM-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/r4EqVPQPb5RUnrXurEfjbM.jpg) 

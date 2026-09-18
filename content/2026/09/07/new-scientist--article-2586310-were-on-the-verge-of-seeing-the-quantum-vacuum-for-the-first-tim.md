@@ -9,6 +9,9 @@ description: Quantum theory says a vacuum isn’t truly empty, but proving it di
   has remained out of reach. A new experiment using immensely powerful lasers could
   finally expose its hidden structure – and perhaps offer clues to dark matter
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310380555.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A person skipping stones and seeing the ripples left on a lake. The lake is abstract and looks like the night sky, full of stars](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310380555.jpg?w=840)

@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: The Old Barn Coffee Shop near Thirsk is praised for homemade cakes, all-day
   breakfasts, Brymor ice cream and its welcoming, dog-friendly setting.
 image: https://www.thenorthernecho.co.uk/resources/images/21340420.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: Siemens Energy’s Newcastle facility will manufacture steam turbine parts
   for Rolls-Royce’s Small Modular Reactor programme.
 image: https://www.thenorthernecho.co.uk/resources/images/21409801.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 A historic engineering site will supply key turbine components for a new generation of nuclear power.

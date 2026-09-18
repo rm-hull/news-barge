@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The visit to Ashe County comes as technology executives and political
   figures clash over artificial intelligence regulation
 image: https://static.independent.co.uk/2026/09/15/13/30/GettyImages-2267795161-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 First lady Melania Trump is scheduled to travel to northwestern North Carolina on Tuesday where she will speak with elementary school students, teachers, and staff about classroom technology.

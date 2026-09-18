@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Gene-edited pig kidneys could offer a lifeline to patients stuck waiting
   for a human donor.
 image: https://media.wired.com/photos/6a99964bab64da8be39c7ad7/191:100/w_1280,c_limit/20250125_kaf_transplant_001_srgb.jpg
+categories:
+- Technology & Software
+- Science
+- Family & Parenting
 ---
 
 A woman has lived with a pig kidney for more than nine months without needing dialysis, a record-setting achievement.

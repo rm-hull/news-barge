@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Larry Montes, already facing state charges, allegedly attacked 63-year-old
   woman and security guard on Friday
 image: https://i.guim.co.uk/img/media/cf5d7d57f4ad81e72c8963a63b1c0dbbb32bb26b/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32b981a578cde15b346b49a9f4836020
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The man accused of attacking a woman and security guard at a New York City synagogue during Shabbat services Friday has been charged with hate crimes in Manhattan federal court, prosecutors said.

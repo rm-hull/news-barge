@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: FRANKLIN Pele left Bradford Bulls under a huge cloud less than 18 months
   ago, but now South Sydney Rabbitohs have handed him a shock NRL lifeline.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18488175.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Tom Pearson)*

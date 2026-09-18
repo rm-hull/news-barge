@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Former SBS newsreader had been accused by Zionist Federation of Australia
   of breaching Racial Discrimination Act when sharing X posts
 image: https://i.guim.co.uk/img/media/ec9a46f3bb24cbf4f513ab30030e55271ad72895/296_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8973fff42f606a94042fa15859113fcb
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Federal court proceedings brought by the Zionist Federation of Australia (ZFA) against journalist Mary Kostakidis have been discontinued “by consent” with “no order as to costs”.

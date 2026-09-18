@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Republican gubernatorial candidate Tom Tiffany and pilot swim to safety
   after plane made emergency landing in lake
 image: https://i.guim.co.uk/img/media/5eaa9b5171fdcbf637d3345a00c8b06fd41426e5/459_0_4594_3675/master/4594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a93e9d293d48a3ed89046d20e2e5b03
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A Republican congressman said he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday.

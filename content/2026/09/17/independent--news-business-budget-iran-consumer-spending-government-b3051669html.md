@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The retail giant cut its outlook for UK sales growth in the second half
   on consumer spending concerns.
 image: https://static.independent.co.uk/2026/09/17/08/d3c65558ed43383ed3293220c37a2c3fY29udGVudHNlYXJjaGFwaSwxNzg5NzE0MDAy-2.85839377.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Retail giant Next has warned against tax increases in next month’s Budget as it said consumers were already under mounting pressure from Iran war inflation and a weak jobs market.

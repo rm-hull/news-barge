@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: You can now set custom wallpapers and themes in Google Messages, and
   it's easy to do so.
 image: https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The bottom left corner of an Android phone, showing the Phone, Messages, Google icons and Google Search bar](https://cdn.mos.cms.futurecdn.net/PXTh8bHDXfS59UARHwbQWa.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Cull of animals that eat native shrubs, causing spread of fast-igniting
   grasses, to go ahead despite fierce opposition
 image: https://i.guim.co.uk/img/media/6f51954cfd240593f67ce6e279c25e6738c44c4a/193_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=313eb4ad0185f9915b890160e5128879
+categories:
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 Locals and tourists have long fawned over Catalina Island’s mule deer population. For nearly a century, the ungulates have roamed the land’s waterfronts and woodlands, so comfortable around humans that it is not uncommon to spot deer roaming downtown Avalon.

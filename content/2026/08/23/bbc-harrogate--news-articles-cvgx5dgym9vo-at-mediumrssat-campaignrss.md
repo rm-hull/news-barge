@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The friends from Harrogate, who met playing golf, are hoping to raise
   £35,000 by cycling 480 miles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1286/live/ff2d3d70-97d1-11f1-870d-5d08c49babb2.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Six men wearing yellow branded cycling jerseys which read "B T R S, brain tumour research and support". They are standing with bicycles in a park, and most wear cycling helmets.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/1286/live/ff2d3d70-97d1-11f1-870d-5d08c49babb2.jpg)

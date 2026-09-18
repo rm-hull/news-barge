@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T18:20:50Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/las-iguanas-york-closed-2.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 A prominent bar and restaurant in York city centre has closed for good.

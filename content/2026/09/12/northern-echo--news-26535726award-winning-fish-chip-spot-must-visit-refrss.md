@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Trenchers in Whitby was named the best fish and chip restaurant in the
   UK at the National Fish and Chip awards 2026.
 image: https://www.thenorthernecho.co.uk/resources/images/21430861.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Food & Cooking
 ---
 
 *(Image: Tripadvisor)*

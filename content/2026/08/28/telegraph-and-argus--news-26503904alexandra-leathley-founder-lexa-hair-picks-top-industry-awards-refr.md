@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A hair salon owner who started her business with just £1,000 and a loyal
   client list has been ranked among the UK's top entrepreneurs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383991.jpg?type=og-image&xType=0&yType=86
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: submitted)*

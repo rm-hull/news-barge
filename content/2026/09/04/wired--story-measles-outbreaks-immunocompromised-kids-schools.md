@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: With the risk of infection rising, parents and young adults are facing
   agonizing choices about being out in public as school starts back up.
 image: https://media.wired.com/photos/6a999184075950c219e9520c/191:100/w_1280,c_limit/GettyImages-2166820737.jpg
+categories:
+- Technology & Software
+- Science
+- Society & Culture
+- Family & Parenting
 ---
 
 As students head back to school, parents have all the usual worries about their kids, like remembering to pack lunch and making it to the bus stop on time. But parents of immunocompromised kids have a new one: How to deal with the resurgence of measles.

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A consultant radiologist, Dr William Thompson, who spent decades transforming
   cancer care, has retired after nearly 40 years of service.
 image: https://www.thenorthernecho.co.uk/resources/images/21406763.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: NHS university Hospitals Tees)*

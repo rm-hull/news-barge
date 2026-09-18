@@ -9,6 +9,10 @@ description: Learn how to maximize your savings on major appliances, electronics
   and mattresses using verified ABT discount codes, rebates, and special coupons and
   save up to $1,200 this summer.
 image: https://media.wired.com/photos/67b63b985c0507c1bb18ab66/191:100/w_1280,c_limit/WIRED-Coupons-R2_14.png
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
 ---
 
 ABT Electronics is known for selling electronics like Canon cameras, Sony headphones, and Samsung TVs. It’s in the name, after all. But in addition to electronics, the giant retailer also offers furniture, mattresses, exercise equipment, appliances, and more. With only a single location—a warehouse in the suburbs of Chicago—it might not be feasible to shop in-store. Luckily, you can check out the massive selection online and save some cash with an ABT promo code or ABT coupon.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Yorkshire Air Ambulance's lead pilot warns of the dangers of having lasers
   pointed at helicopters in flight.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4684/live/69d838d0-ad46-11f1-ae59-91d2b63bf2a3.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![Owen McTeggart stands in front of a bright yellow air ambulance helicopter which is on a helipad by a field. He wears a navy pilot uniform.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4684/live/69d838d0-ad46-11f1-ae59-91d2b63bf2a3.jpg)

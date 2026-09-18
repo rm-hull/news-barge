@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: The Princess Royal will visit a Yorkshire racecourse this weekend marking
   a landmark moment in the history of a world-famous race.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQxMmFhNTliLTNhNmQtNDY0ZS04ZDQ1LTQ5MGFiZWJmNTU0NDozNGM3ODdjYi1mNGIzLTRjZTEtYWNhZS0zZGNhZDQ2MjEyNDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- History
 ---
 
 # Princess Anne: Princess Royal to attend 250th St Leger race this weekend

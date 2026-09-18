@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Two people have pleaded guilty to attacking a man and woman with weapons
   outside a Hull home, leaving both victims with serious head injuries.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/16/52/harrison-and-davis-guilty-social-media-graphic.png?trim=0,303,241,308&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # 'Dangerous duo' admit attack that left man and woman with serious head injuries

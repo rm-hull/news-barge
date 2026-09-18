@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: ‘This case represents a parent’s worst nightmare,’ the family’s attorney
   said
 image: https://static.independent.co.uk/2026/08/21/15/42/Screenshot-2026-08-21-at-16-01-39.png?trim=0,0,77,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 A heartbroken New Jersey family has sued a sports company after their six-year-old daughter died in a freak badminton accident.

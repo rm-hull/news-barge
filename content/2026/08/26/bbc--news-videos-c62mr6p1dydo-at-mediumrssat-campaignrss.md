@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: More than 150 people have been killed after a massive flash flood on
   the Nepal-Tibet border, as hundreds still missing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee9e/live/e69b63c0-a18d-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # BBC visits hospital in Kathmandu as families wait for news

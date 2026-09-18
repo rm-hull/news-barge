@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:41:06Z'
 published: '2026-09-15T00:00:00Z'
 description: Sterling appeared at Basingstoke Magistrates’ Court on Tuesday
 image: https://static.independent.co.uk/2026/09/15/14/01M2JD3829MYF4ZZ12M9PC4AER.jpg?trim=54,1237,1912,1627&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Raheem Sterling has pleaded guilty to dangerously driving a Lamborghini on the motorway earlier this year.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Kelly Rowland is a new coach on The Voice UK, but who is she and what
   has her career looked like?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358477.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: ITV)*

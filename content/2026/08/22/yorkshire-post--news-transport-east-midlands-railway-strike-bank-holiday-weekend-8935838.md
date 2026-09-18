@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Workers at East Midlands Railway (EMR) - that run between Sheffield and
   London - are to stage fresh strikes in a long-running dispute over safety.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY1Y2M5NjY1LWYwYjYtNDNmYS1hMGQ4LTZkYmMwOWNhMjg5MDo2Y2UyMGMyNy03NmQ4LTQ4N2MtYjgxOC0yNzNhZTdhYzlhZWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # East Midlands Railway strike: EMR workers to walk out over bank holiday weekend

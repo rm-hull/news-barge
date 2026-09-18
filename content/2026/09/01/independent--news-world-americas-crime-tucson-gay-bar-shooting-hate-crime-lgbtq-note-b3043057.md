@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The shooting at a gay bar in Arizona left three people dead, including
   the shooter
 image: https://static.the-independent.com/2026/09/01/21/download..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A shooting at a gay bar in Tucson that left three people dead, including the shooter, is being investigated as a possible hate crime, police say.

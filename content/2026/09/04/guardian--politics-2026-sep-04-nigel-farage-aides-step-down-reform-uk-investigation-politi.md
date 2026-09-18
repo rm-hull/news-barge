@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Revelations are further blow to Nigel Farage before conference speech,
   with Labour reporting party to police
 image: https://i.guim.co.uk/img/media/878526afaa236ee3c1103937ba50a80570bdcca3/638_0_2012_1610/master/2012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee7ebcb81a7e0245157b4a5b03b4f00
+categories:
+- UK
+- News & Politics
 ---
 
 Reform UK has suspended two senior officials after they were filmed in an undercover investigation appearing to plot to get around electoral laws on foreign donations.

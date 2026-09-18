@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: North Yorkshire Council has installed the machines at Applegarth Short
   Stay Car Park and parts of the High Street, where drivers must enter their…
 image: https://www.thenorthernecho.co.uk/resources/images/21428328.jpg?type=og-image&xType=0&yType=257
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Motorists have questioned a North Yorkshire town's new ticketless parking machines, the cost of longer stays and fears that they will push cars into nearby streets.

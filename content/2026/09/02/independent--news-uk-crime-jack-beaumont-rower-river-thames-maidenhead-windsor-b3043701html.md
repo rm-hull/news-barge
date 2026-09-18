@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A 67-year-old man from Windsor was arrested after the alleged incident
   but has since been released on conditional police bail
 image: https://static.independent.co.uk/2026/09/02/18/1330457522..?trim=296,967,909,841&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 An Olympic rower has recalled the “frightening” moment he feared a motorboat rider was going to “ram” him on the River Thames.

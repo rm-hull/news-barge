@@ -9,6 +9,10 @@ description: 'Luxembourg insists that if France is able to get a particular olig
   delisted, it should be able to do the same, raising fears of a domino effect among
   member states. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/88/83/1200x675_cmsv2_e234c027-aaa9-5c98-88d3-2edbf8646a6e-9918883.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Luxembourg insists that if France is able to get a particular oligarch delisted, it should be able to do the same, raising fears of a domino effect among member states.

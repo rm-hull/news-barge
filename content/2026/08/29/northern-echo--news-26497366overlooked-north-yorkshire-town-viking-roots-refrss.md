@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: From Viking roots and Domesday Book history to ironstone mining and Cleveland
   Way walks, discover why Loftus is an overlooked town.
 image: https://www.thenorthernecho.co.uk/resources/images/21374342.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 Perched between the North York Moors and the coast is a town where Viking heritage, Victorian ambition and East Cleveland's industrial past still leave their mark today.

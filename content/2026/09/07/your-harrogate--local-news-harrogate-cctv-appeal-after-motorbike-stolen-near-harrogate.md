@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:14:52Z'
 published: '2026-09-07T00:00:00Z'
 description: Police have issued a CCTV image following the theft of a motorbike.
 image: https://mmo.aiircdn.com/409/6a9e58b3f12cd00ae56.jpg
+categories:
+- Local
+- Harrogate
+- Automotive
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e58b3f12cd00ae56.jpg) 

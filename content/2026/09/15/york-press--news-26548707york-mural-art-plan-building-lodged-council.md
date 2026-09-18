@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: PLANS to tackle graffiti which has been scrawled on the side of an historic
   York building for years have been lodged.
 image: https://www.yorkpress.co.uk/resources/images/21452963.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## Years of graffiti scrawled on historic York building prompts mural plan

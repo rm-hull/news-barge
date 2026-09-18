@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Sharon Anfield managed the spa at Carnoustie Golf Hotel & Spa - ranked
   as the 15th best golf course in the world - and was in charge of her own work rota
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/22/12/Carnoustie-20.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The spa manager at one of the most famous golf courses in the world put herself down to work 10 days in a row without telling anyone - then tried to sue over it.

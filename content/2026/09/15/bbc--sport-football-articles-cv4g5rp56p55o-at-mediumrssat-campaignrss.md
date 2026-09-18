@@ -9,6 +9,10 @@ description: Referees' chief Howard Webb has admitted that the video assistant r
   (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's
   controversial winner in Sunday's Manchester derby.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Refereeing decisions were 'baffling' - Rooney

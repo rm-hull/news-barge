@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Journalist Gabriel Macarthur has taken a look at the challenges facing
   the business incubator Spark York in helping traders take the next step…
 image: https://www.gazetteherald.co.uk/resources/images/21420025.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *Journalist Gabriel Macarthur has taken a look at the challenges facing the business incubator Spark York in helping traders take the next step towards independent high street success.*

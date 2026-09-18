@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Opposition politicians accused Reform UK of helping create Durham County
   Council's financial problems.
 image: https://www.thenorthernecho.co.uk/resources/images/20052721.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Opposition politicians have accused Reform UK of helping create Durham County Council's financial problems.

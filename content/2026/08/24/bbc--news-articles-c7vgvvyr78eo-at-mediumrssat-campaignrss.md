@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The Montagu Harrier successfully nested for the second year running in
   the same secret location.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b099/live/38250e40-9f62-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A handout photograph of a small fluffy harrier chicks, with a curved yellow and black beak.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b099/live/38250e40-9f62-11f1-aed2-8d6da8d75094.jpg)

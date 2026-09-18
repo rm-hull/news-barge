@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A man wanted by British police over the killings of his wife and two
   daughters has pleaded guilty to firearms offenses in South Africa
 image: https://static.independent.co.uk/2026/09/08/16/South_Africa_UK_Fugitive_69871.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A man wanted by British police over the killings of his wife and two daughters pleaded guilty Tuesday to firearms offenses in South Africa, where he was arrested in July while on the run.

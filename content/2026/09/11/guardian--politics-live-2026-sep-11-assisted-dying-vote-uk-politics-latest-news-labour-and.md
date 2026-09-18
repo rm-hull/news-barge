@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Bill would allow terminally ill adults with less than six months to live
   to end their lives, after the approval of a panel of experts
 image: https://i.guim.co.uk/img/media/bda97ddc628ceb4fa53f31b2cc34f951693967ec/1100_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e4f337042ade2030cc81393940bfa227
+categories:
+- UK
+- News & Politics
 ---
 
 Assisted dying bill sponsor opens debate with criticism of Lords

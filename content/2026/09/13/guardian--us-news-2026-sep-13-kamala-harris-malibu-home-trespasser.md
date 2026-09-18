@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Former vice-president and her husband were not home when person entered
   their property, no arrests were made
 image: https://i.guim.co.uk/img/media/6ab29aa6e2fe9fca9a068fa1278a5b6fefe820cf/172_0_2278_1823/master/2278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb377ea54e08540032b7d7cca0131cd9
+categories:
+- UK
+- News & Politics
 ---
 
 Law enforcement officials and a spokesperson for former vice-president Kamala Harris said a trespasser was stopped at her Malibu home in California on Friday night.

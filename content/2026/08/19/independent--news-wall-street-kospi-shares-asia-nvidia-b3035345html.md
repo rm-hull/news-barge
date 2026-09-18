@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Shares are sharply lower in Asia after Wall Street pulled further from
   its all-time high as artificial-intelligence stocks resumed their decline
 image: https://static.independent.co.uk/2026/08/19/04/South_Korea_Financial_Markets_74256.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Shares slipped Wednesday in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The three Indian companies are accused of using hackers to steal information
   used to sway litigation.
 image: https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 A bipartisan group of U.S. lawmakers has asked the U.S. government to ban several hack-for-hire firms — companies that carry out cyberattacks on behalf of paying clients. The lawmakers accuse the firms of targeting Americans and abusing foreign courts to silence U.S. reporting on their activities.

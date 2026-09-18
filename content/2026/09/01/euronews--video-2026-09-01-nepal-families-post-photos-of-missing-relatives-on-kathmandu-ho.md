@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Video. Families in Kathmandu post photos of missing relatives after Nepal
   floods kill more than 1,000 people, with thousands still unaccounted for.
 image: https://images.euronews.com/articles/stories/09/89/71/21/1200x675_cmsv2_8945049b-ebb9-5329-94b2-c46ca404f786-9897121.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 In Nepal’s capital, families searching for relatives missing after last week’s devastating floods are posting photographs on a wall outside Tribhuvan University Teaching Hospital.

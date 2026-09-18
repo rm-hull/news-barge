@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The former ‘Great British Bake Off’ judge also said she would like to
   see free school meals for every child, and for the meals to be compulsory
 image: https://static.independent.co.uk/2026/08/25/16/01M0VRCBJ2VBC691FAF2SBC9RK.jpg?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Dame Prue Leith has welcomed a forthcoming “revolution” in school meals while calling for even tougher measures, including a total ban on lunchboxes.

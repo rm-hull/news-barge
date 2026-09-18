@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Hawk fire has covered more than 13,000 acres as blaze approaches University
   of Nevada campus in Reno
 image: https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41f190a1f62684a65d2fa95de77e0afe
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus.

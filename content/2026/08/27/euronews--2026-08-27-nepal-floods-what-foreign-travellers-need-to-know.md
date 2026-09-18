@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: European governments have issued safety guidance and emergency contacts
   for travellers as flooding and landslides disrupt transport across parts of Nepal.
 image: https://images.euronews.com/articles/stories/09/89/07/25/1200x675_cmsv2_4327c854-891a-5a65-bea7-513e483fae20-9890725.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## European governments have issued safety guidance and emergency contacts for travellers as flooding and landslides disrupt transport across parts of Nepal.

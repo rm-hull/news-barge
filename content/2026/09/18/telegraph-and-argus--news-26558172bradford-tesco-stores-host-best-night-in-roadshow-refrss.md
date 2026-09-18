@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:05Z'
 published: '2026-09-18T00:00:00Z'
 description: TESCO is bringing its Best Night In roadshow to the city
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432447.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

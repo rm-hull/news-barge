@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Two United Nations peacekeepers were killed in an ambush in South Sudan
   on Monday
 image: https://static.independent.co.uk/2026/08/24/16/2261696320..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two United Nations peacekeepers have been killed following an ambush by unidentified gunmen in a remote region of South Sudan, the UN mission in the country has confirmed.

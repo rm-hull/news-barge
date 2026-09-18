@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: BRADFORD Festival Choral Society is asking people across the district
   to search old family albums, scrapbooks and boxes of photographs for missing…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434836.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 BRADFORD Festival Choral Society is asking people across the district to search old family albums, scrapbooks and boxes of photographs for missing pieces of the choir’s 170-year history.

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The invasive European green crab has long been seen as a nuisance in
   New England, hurting local fisheries and damaging ecosystems
 image: https://static.independent.co.uk/2026/08/26/14/APTOPIX_Invasive_Species_Green_Crabs_61769.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 As a morning fog lifted over Maine's York River, Mike Masi and his two interns stood on a dock sorting through a mound of one of the region's most despised crabs and hoped to find a few that would end up on a gastronome's plate somewhere in New England.

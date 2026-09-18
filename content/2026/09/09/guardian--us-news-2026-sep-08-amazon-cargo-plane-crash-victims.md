@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The five people killed were employees of an aircraft cleaning company
   who were in a van struck by the plane after it overran the Miami airport runway
 image: https://i.guim.co.uk/img/media/166f3ef8cfeb7e218246406ba0becfbdcb30a850/961_1095_1868_1494/master/1868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d688c1e829e6d48d951dc3f006349bb8
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Officials in Florida on Tuesday said evidence collected from Saturday’s Amazon cargo plane crash at Miami international airport suggests the pilots considered aborting the flight’s landing before it crashed and killed five people on the ground.

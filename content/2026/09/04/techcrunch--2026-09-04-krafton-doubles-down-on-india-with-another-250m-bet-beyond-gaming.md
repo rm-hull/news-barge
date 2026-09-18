@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Krafton's planned investment in India is set to surpass $500 million
   with its latest commitment.
 image: https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Krafton, the South Korean gaming company behind titles including PUBG and Battlegrounds Mobile India (BGMI), plans to invest another $250 million in India over the next three to four years as it pushes beyond gaming into AI, robotics, and deep tech.

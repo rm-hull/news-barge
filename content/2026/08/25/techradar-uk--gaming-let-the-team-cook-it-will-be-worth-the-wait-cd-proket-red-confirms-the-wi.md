@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: CD Projekt Red has confirmed that The Witcher 4 is officially targeting
   a 2028 release window.
 image: https://cdn.mos.cms.futurecdn.net/oPUwdJ3LGi2hRghutXLTfV-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Witcher 4](https://cdn.mos.cms.futurecdn.net/oPUwdJ3LGi2hRghutXLTfV.jpg) 

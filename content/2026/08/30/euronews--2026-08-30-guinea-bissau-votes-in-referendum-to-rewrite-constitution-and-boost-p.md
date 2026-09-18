@@ -10,6 +10,10 @@ description: Voters in military-ruled Guinea-Bissau, after a coup, vote on Sunda
   in a referendum to boost presidential powers before elections to restore civilian
   rule, a process mired in controversy.
 image: https://images.euronews.com/articles/stories/09/89/44/63/1200x675_cmsv2_aebc0f76-ad89-58fd-9047-b863590f6e54-9894463.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Voters in military-ruled Guinea-Bissau, after a coup, vote on Sunday in a referendum to boost presidential powers before elections to restore civilian rule, a process mired in controversy.

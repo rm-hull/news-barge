@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:13:31Z'
 published: '2026-09-07T00:00:00Z'
 description: It’s called the Edge Panel. Here’s how to make the most of it.
 image: https://media.wired.com/photos/6a995c3bbf4e66136bddb446/191:100/w_1280,c_limit/GettyImages-2286563830.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 If you opt for an Android phone over an iPhone, there are certain features you get as standard as part of Android. Then there are other features specific to certain manufacturers, as each Android phone maker puts its own spin on the software.

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Alleged offenders at large after man in his early 20s fatally shot in
   early hours of Tuesday
 image: https://i.guim.co.uk/img/media/3f3ea57854e32ae76adc806360e6bbb03bd05d0f/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cd8acd387342d53b45f742db3389969
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
 ---
 
 A man in his early 20s has been fatally shot in an alleged home invasion in Sydney’s south-west that police believe was a “targeted attack”. A homicide investigation is under way, with the alleged offenders still at large.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Passengers with mobility scooters can now travel on all trains across
   Northern’s fleet using a free permit scheme after the operator updated…
 image: https://www.thenorthernecho.co.uk/resources/images/21457167.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Northern)*

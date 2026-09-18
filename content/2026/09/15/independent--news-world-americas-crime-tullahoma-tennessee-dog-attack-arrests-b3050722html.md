@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Investigators are examining whether the fatal dog attack caused the deaths
   or occurred after the grandfather and infant had already died
 image: https://static.the-independent.com/2026/09/15/18/07/James-Smith-dog-attack.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Three people have been taken into custody in Tennessee over a December 2025 incident in which a 50-year-old man and his three-month-old granddaughter died after being attacked by family dogs.

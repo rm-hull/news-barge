@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: AfD could become first far-right party to gain power at regional or parliament
   level in Germany since the Nazis
 image: https://static.independent.co.uk/2026/09/06/18/2293360060..?trim=77,0,77,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Germany’s beleaguered chancellor said on Monday that the far-right AfD party’s historic election victory over the weekend shows the need for deep reforms in government, while vowing to press with his steady reform agenda.

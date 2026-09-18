@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: London has lost to Nairobi in its bid to host the World Athletics Championships
   in 2029, while the 2031 event will be held in Munich.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c14f/live/72c190c0-b0ea-11f1-8d94-cf0ec84c39cd.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![General view of the London Stadium athletics track](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c14f/live/72c190c0-b0ea-11f1-8d94-cf0ec84c39cd.jpg)

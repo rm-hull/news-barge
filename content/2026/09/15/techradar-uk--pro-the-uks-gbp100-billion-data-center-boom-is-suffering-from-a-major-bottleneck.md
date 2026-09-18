@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:41:20Z'
 published: '2026-09-15T00:00:00Z'
 description: Cabling is holding back the UK data center boom
 image: https://cdn.mos.cms.futurecdn.net/y3xw2vYVSzNi7hadSMRpsh-1620-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Glasfaser-Kabelstränge in der Nahaufnahme](https://cdn.mos.cms.futurecdn.net/y3xw2vYVSzNi7hadSMRpsh.jpg) 

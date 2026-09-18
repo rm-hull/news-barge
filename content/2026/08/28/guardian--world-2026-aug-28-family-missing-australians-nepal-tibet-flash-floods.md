@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Relatives ‘really worried, but hopeful’ as they wait anxiously for news
   in the aftermath of the flash flooding disaster
 image: https://i.guim.co.uk/img/media/b13331200f050e02caee7ece44264ecb6200bdfc/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85fa0a540649f7a900d7d7d626f0bdf1
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The families of an Australian defence force member and two Sydney boys who went missing with their parents in Nepal remain hopeful they will be found safe.

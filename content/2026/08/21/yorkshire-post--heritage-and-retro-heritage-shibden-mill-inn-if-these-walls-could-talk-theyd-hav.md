@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: There is so much history to the Shibden Mill Inn ‘if the walls could
   talk, they would have a lot of interesting stories to share’.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI5YTRhMjM0LTBhNGYtNDUwOS1iNzlhLTVmOWIzYWZjOTY0NToxNWMxZDY1MS01MDFkLTRjNWUtOWYxZS00NDAwMGExMWU4ODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Society & Culture
 ---
 
 # Shibden Mill Inn: ‘If these walls could talk they’d have a lot of interesting things to say’ - The historic Yorkshire gastropub that belonged to Anne Lister’s brother

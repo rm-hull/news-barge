@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Rapper won prestigious award as an unsigned artist before breaking UK
   Top 10 and nurturing artists including KSI
 image: https://i.guim.co.uk/img/media/1aaac50e0b0920ba3b8303d400d713038db031b0/80_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=973a1b3fa1c8fe43036e98a9d8212206
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 The British rapper Sway, who proved inspirational to a generation of Black British musicians thanks to his independence and frank, dextrous storytelling, has died aged 44.

@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:17:06Z'
 published: '2026-08-28T00:00:00Z'
 description: A hair salon has been named among the best in the UK for business branding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379757.jpg?type=og-image&xType=0&yType=506
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

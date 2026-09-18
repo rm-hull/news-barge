@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: President’s United Russia party faces no meaningful opposition after
   liberal anti-war party barred from ballot
 image: https://i.guim.co.uk/img/media/7ec8bddc32c541f2ecf2f3f4e833fe60d2531904/36_0_4790_3833/master/4790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f2785980972fec07b46ad4e7b293a82
+categories:
+- UK
+- News & Politics
 ---
 
 Russians are going to the polls to elect a new State Duma in a tightly controlled vote stripped of meaningful competition and with little doubt about the result.

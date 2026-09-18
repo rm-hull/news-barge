@@ -7,6 +7,9 @@ scraped_at: '2026-08-21T08:54:09Z'
 published: '2026-08-21T00:00:00Z'
 description: Can Russell and Hamilton challenge 19-year-old Antonelli in the championship?
 image: https://cdn.mos.cms.futurecdn.net/KSD4QMzRN2Ffh6Q253tBRF-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Andrea Kimi Antonelli of Italy and Mercedes AMG Petronas F1 Team looks on in the garage during final practice ahead of the F1 Grand Prix of Hungary](https://cdn.mos.cms.futurecdn.net/KSD4QMzRN2Ffh6Q253tBRF.jpg) 

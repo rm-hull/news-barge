@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: North America, South America, and Europe are ideally placed for the 96.2%
   partial lunar eclipse on August 27-28
 image: https://cdn.mos.cms.futurecdn.net/2Gb6q8dQGiYSFm72SZKtgZ-900-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Red moon during lunar eclipse](https://cdn.mos.cms.futurecdn.net/2Gb6q8dQGiYSFm72SZKtgZ.jpg) 

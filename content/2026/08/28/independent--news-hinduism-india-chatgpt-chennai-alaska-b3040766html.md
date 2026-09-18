@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: An increasing number of spiritual seekers are finding that artificial
   intelligence is giving them non-judgmental access to spiritual insights
 image: https://static.independent.co.uk/2026/08/28/05/Artificial_Intelligence_Gurus_89636.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
+- Arts & Culture
 ---
 
 When Kripa Vaidyanathan’s 27-year-old niece died in an Alaska car crash in 2024, her family in Chennai, India, felt shell-shocked. They questioned why this tragedy would befall them when they had such “immense faith in God.”

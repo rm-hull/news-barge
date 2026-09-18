@@ -10,6 +10,9 @@ published: '2026-09-13T00:00:00Z'
 description: A new class, The Plague Knight, will head up the largest ever roster
   of classes in a Diablo game.
 image: https://cdn.mos.cms.futurecdn.net/ZjkMXzhAPQ4GXb5n3zNJeH-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Key art from Diablo 5 showing a the new character class, the Plague Knight](https://cdn.mos.cms.futurecdn.net/ZjkMXzhAPQ4GXb5n3zNJeH.jpg) 

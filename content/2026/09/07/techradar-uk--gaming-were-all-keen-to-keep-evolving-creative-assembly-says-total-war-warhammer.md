@@ -11,6 +11,10 @@ published: '2026-09-07T00:00:00Z'
 description: 'Creative Assembly has shared that it developed Total War: Warhammer
   40,000''s battle system and controller support simultaneously.'
 image: https://cdn.mos.cms.futurecdn.net/BG2J8ppcFjhzUKU5qiL2o-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/BG2J8ppcFjhzUKU5qiL2o.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Three people have been ordered to pay more than £7,500 between them after
   being found guilty of breaching council enforcement notices in County…
 image: https://www.thenorthernecho.co.uk/resources/images/21148503.jpg?type=og-image&xType=0&yType=408
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: NORTHERN ECHO)*

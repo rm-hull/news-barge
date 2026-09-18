@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Assisted Dying Bill has been defeated in the Commons. Read the full
   pros and cons analysis alongside Harrogate MP Tom Gordon's moving personal speech.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-house-2.webp
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 **WESTMINSTER**— A fresh legislative bid to legalise assisted dying in England and Wales has failed to become law this afternoon, following a historic and highly charged free vote in the House of Commons.The

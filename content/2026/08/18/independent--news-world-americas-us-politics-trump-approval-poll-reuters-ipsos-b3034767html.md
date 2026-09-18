@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Just 33 percent of respondents said they approved of Donald Trump’s performance
   in the White House
 image: https://static.independent.co.uk/2026/08/18/04/2026-08-16T215031Z_1613976147_RC2XZMAT6DVO_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump's approval rating has fallen to the lowest level of his presidency, according to a new Reuters/Ipsos poll that concluded on Monday.

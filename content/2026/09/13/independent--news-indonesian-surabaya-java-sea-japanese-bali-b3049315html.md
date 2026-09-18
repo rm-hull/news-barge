@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Indonesian rescuers say about 130 passengers and crew are missing after
   a ferry carrying more than 240 people overturned in bad weather in the Java Sea
 image: https://static.independent.co.uk/2026/09/13/10/Indonesia_Passenger_Ship_79268.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Indonesian rescuers say about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday. At least 107 people were rescued and the bodies of six passengers were recovered as the search operation expanded in waters around the vessel’s last known position.

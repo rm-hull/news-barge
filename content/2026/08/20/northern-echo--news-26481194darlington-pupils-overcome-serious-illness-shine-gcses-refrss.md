@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: TWO Darlington pupils have particular reason to be proud after overcoming
   serious health challenges to do well in their GCSEs.
 image: https://www.thenorthernecho.co.uk/resources/images/21348189.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 TWO Darlington pupils have particular reason to be proud after overcoming serious health challenges to do well in their GCSEs.

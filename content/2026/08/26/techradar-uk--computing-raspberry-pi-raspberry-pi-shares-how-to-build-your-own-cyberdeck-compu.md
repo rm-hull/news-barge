@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: A guide to putting together a fully working Pi computer you can pick
   up and take anywhere.
 image: https://cdn.mos.cms.futurecdn.net/waZYTJp9Cw2ghTwchtqwnn-1600-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Raspberry Pi cyberdeck](https://cdn.mos.cms.futurecdn.net/waZYTJp9Cw2ghTwchtqwnn.jpg) 

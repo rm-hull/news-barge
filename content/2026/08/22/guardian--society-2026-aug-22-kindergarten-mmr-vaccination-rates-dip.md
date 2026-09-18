@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: New CDC data shows MMR vaccination among kindergarteners declining slightly
   as non-medical exemptions climb to 4.2%
 image: https://i.guim.co.uk/img/media/46a05a7c5abbdad1de23446537f1ad216e553d86/183_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e79ef9756294d885be5e2d34384433c
+categories:
+- UK
+- News & Politics
 ---
 
 A week after Donald Trump made a series of misleading claims about vaccines – including that some injections look “like the size of a soda bottle” – the Centers for Disease Control and Prevention (CDC) released the latest data on national kindergarten vaccination rates.

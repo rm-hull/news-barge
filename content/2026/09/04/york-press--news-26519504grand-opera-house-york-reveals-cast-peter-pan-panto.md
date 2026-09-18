@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: 'The Grand Opera House York has announced the cast for its Christmas
   show, Peter Pan: The Return of Captain Hook.'
 image: https://www.yorkpress.co.uk/resources/images/21407078.jpg?type=og-image&xType=0&yType=1283
+categories:
+- Local
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: Grand Opera House York)*

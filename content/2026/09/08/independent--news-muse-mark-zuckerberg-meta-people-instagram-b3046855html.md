@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Meta is launching a personal artificial intelligence agent, Muse, for
   people 18 and over
 image: https://static.independent.co.uk/2026/08/27/05/Meta_Trial_Settlements_56488.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Meta launched on Tuesday a personal artificial intelligence agent, Muse, for people 18 and over who are looking for help with day-to-day tasks like schedules, shopping and, in the company's words, turning “long-term goals into action plans.”

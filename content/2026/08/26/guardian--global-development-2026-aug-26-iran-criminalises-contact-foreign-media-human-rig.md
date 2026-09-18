@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: As photojournalist sentenced to 15 years, rights groups warn law would
   turn civic engagement into security crime
 image: https://i.guim.co.uk/img/media/cbb47ed3ed3d204b3517bb213722c9176f89f705/557_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac13ead3496bce860221221b49d0ae0f
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said attempts to “sever the entire Iranian society from the rest of the world”.

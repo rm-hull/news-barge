@@ -9,6 +9,11 @@ description: When the Mitte district office denied them a permit, the Senate rep
   "We don't need a permit." The Berlin Senate is planning to fell 32 trees on Torstraße
   without a permit
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865514802h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0865514802h-scaled.jpg)

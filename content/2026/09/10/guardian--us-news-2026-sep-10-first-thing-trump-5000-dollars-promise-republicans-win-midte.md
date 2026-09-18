@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Speaking in Dallas, the president raised ethical concerns with an apparent
   $1tn offer to the electorate
 image: https://i.guim.co.uk/img/media/1b4a969940eaf7d49c91ec04248aa379ebb22f88/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ffffdcfe4d74ae47be3103368e41ba3
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Good morning. Donald Trump has pledged to pay every adult citizen in the US $5,000 if Republicans retain the House and Senate in the midterm elections. The outlandish proposal, which would cost over $1tn, immediately raised ethical concerns.

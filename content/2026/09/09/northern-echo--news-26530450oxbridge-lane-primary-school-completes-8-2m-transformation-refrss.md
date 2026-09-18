@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Oxbridge Lane Primary School has been fully refurbished in an £8.2 million
   redevelopment.
 image: https://www.thenorthernecho.co.uk/resources/images/21423300.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

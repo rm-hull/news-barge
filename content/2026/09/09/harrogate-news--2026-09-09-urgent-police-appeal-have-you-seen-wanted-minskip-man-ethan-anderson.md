@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Police launch an urgent public appeal to find 26-year-old
   Ethan Anderson, wanted on prison recall with links to Boroughbridge and Ripon.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/missing-minskip.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 North Yorkshire Police have launched an urgent public appeal to locate 26-year-old Ethan Anderson, who is currently wanted on immediate recall to prison. Officers have turned to the community for assistance following extensive, ongoing enquiries to track his whereabouts across the region after he breached the explicit conditions of his release licence.

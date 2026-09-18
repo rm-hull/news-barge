@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: British Transport Police have issued an update after a major incident
   disrupted trains between York and North Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19188317.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 POLICE have issued an update after a major incident caused major travel problems today.

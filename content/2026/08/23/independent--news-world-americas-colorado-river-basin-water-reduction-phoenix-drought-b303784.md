@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T01:54:27Z'
 published: '2026-08-23T00:00:00Z'
 description: ‘The chickens have come home to roost,’ says former Phoenix water director
 image: https://static.independent.co.uk/2026/08/18/09/2290368728..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Arizona is threatening to sue the Trump administration over its plan to limit the state's access to the drought-stricken Colorado River, which supplies Phoenix — America's fifth-biggest city — with about 40 percent of its water.

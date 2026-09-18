@@ -10,6 +10,10 @@ description: Head coach Sarfaraz Ahmed says he and his players did not know abou
   a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky
   interview with the sons of Imran Khan.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/992d/live/e2384280-a313-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Sarfaraz denies knowing about Pakistan threat to end tour

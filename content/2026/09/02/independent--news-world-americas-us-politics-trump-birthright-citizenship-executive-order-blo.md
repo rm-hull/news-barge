@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The president’s new ‘carveouts’ to limit citizenship ‘are almost certainly
   unconstitutional,’ judge says
 image: https://static.independent.co.uk/2026/09/02/22/2026-09-01T210618Z_1828115232_RC29TMA8X1YI_RTRMADP_3_USA-TRUMP-BIRTHRIGHT-CITIZENSHIP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge has blocked Donald Trump’s administration from enforcing his latest executive orders targeting birthright citizenship after the president lost a landmark Supreme Court case challenging his attempt to unilaterally redefine who gets to be a citizen.

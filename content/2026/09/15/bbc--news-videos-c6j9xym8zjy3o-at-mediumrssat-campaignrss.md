@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska
   Hargitay at the Peacock Theatre in Los Angeles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2239/live/96cacb20-b0c3-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Film & TV
 ---
 
 # Superstars and broken records: 2026 Emmy highlights

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A 16-year-old student was shot dead by an army sniper, while it was unclear
   if a 19-year-old was shot by a soldier or a settler
 image: https://static.independent.co.uk/2026/09/04/05/2292736246..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two Palestinian teenagers have been shot dead in the West Bank as the military razed an entire village near Hebron in the latest escalation of violence in the occupied territory.

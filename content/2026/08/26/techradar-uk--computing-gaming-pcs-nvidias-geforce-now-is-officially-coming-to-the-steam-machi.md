@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Some gamers have been hoping for official GeForce Now support on Valve's
   PC — and that dream is now a reality.
 image: https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![The Valve Steam Machine, pictured on a dark marble worktop.](https://cdn.mos.cms.futurecdn.net/VMKgcaDNbTSdCRMzKFwqf4.jpg) 

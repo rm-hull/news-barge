@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Operation Mincemeat, the award-winning musical based on a Second World
   War spy mission, will come to Darlington Hippodrome in April 2027 as part of…
 image: https://www.thenorthernecho.co.uk/resources/images/21075045.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 One of the West End's biggest recent hits is coming to Darlington next year.

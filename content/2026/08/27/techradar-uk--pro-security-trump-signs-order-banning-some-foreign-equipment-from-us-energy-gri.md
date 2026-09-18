@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T22:13:51Z'
 published: '2026-08-27T00:00:00Z'
 description: Trump bans foreign kit once again
 image: https://cdn.mos.cms.futurecdn.net/JVkUNJkcVerxuwptkNLt9k-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![US President Donald Trump speaks to the press as he signs an executive order to create a US sovereign wealth fund, in the Oval Office of the White House on February 3, 2025, in Washington, DC.](https://cdn.mos.cms.futurecdn.net/JVkUNJkcVerxuwptkNLt9k.jpg) 

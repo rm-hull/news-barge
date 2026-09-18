@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: At IFA 2026, JLab unveiled three new pairs of earbuds, as well as its
   'Jelle' range of fashion-focused devices.
 image: https://cdn.mos.cms.futurecdn.net/UbbUpNTVsE476z4TxctPyf-1500-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A basketball player with the JLab JBuds Mini ANC in their ear.](https://cdn.mos.cms.futurecdn.net/UbbUpNTVsE476z4TxctPyf.jpg) 

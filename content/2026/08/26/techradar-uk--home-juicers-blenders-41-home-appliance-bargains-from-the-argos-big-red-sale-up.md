@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T16:57:30Z'
 published: '2026-08-26T00:00:00Z'
 description: Unmissable discounts on home appliances of all shapes and sizes
 image: https://cdn.mos.cms.futurecdn.net/PQLw5Q4aqJDx6SqLZuJ6ZN-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Selection of home appliances in situ in the home](https://cdn.mos.cms.futurecdn.net/PQLw5Q4aqJDx6SqLZuJ6ZN.jpg) 

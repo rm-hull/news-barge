@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: York-based Frango Eduardo Ltd, which offers authentic Portuguese food,
   has entered a creditor’s voluntary liquidation, with debts approaching…
 image: https://www.yorkpress.co.uk/resources/images/21348203.jpg?type=og-image&yType=477
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## 40 jobs saved but popular York firm's liquidation leaves near £500,000 debts

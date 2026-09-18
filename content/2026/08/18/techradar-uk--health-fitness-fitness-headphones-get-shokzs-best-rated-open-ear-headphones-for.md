@@ -10,6 +10,9 @@ description: There's a massive sale on Shokz headphones right now at Amazon, wit
   savings of up to 30% available on the OpenRun, OpenFit, OpenMove, and more — I've
   picked out the best deals.
 image: https://cdn.mos.cms.futurecdn.net/xuLSzibouvKPhQgrAF4Rrf-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Shokz OpenRun Pro 2 in the foreground with an athletics track in the background.](https://cdn.mos.cms.futurecdn.net/xuLSzibouvKPhQgrAF4Rrf.jpg) 

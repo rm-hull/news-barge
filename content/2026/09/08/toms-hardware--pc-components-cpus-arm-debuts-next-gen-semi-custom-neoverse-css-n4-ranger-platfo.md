@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T04:26:20Z'
 published: '2026-09-08T00:00:00Z'
 description: Putting a little pep in Neoverse N-series’ step.
 image: https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi-1600-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![An Arm CPU in a motherboard.](https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi.jpg) 

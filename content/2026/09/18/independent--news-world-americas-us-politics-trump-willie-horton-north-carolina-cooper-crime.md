@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: As President Donald Trump tries to convince voters that Democrats have
   let crime run amok, he’s digging into the country’s political past
 image: https://static.independent.co.uk/2026/09/18/08/2295080822..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has revived one of the most controversial tactics in modern US political history, invoking Willie Horton as he campaigns on crime ahead of the midterms.

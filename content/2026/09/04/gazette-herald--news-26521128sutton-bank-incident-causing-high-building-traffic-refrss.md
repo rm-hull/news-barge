@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: An incident on a stretch of Sutton Bank in North Yorkshire is causing
   slow and building traffic.
 image: https://www.gazetteherald.co.uk/resources/images/21409418.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Council Weather Camera)*

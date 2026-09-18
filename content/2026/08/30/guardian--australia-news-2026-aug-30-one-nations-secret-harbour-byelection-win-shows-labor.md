@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Even after a week in which Pauline Hanson and One Nation candidates tripped
   over themselves trying to explain key policies, voters still backed the party
 image: https://i.guim.co.uk/img/media/78bab8fec87b3634837de0a122850d7c6a16070e/297_0_3474_2779/master/3474.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2754dd7baae38c1b4eb9140e909c49ee
+categories:
+- UK
+- News & Politics
 ---
 
 The One Nation hype machine went into overdrive after Saturday’s Secret Harbour byelection but one thing is clear from the thumping victory.

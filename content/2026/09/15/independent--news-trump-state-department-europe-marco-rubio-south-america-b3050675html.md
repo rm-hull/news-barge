@@ -10,6 +10,11 @@ description: The Trump administration is stripping tens of millions of dollars i
   U.S. military assistance to countries in Europe and the Middle East to support conservative-leaning
   governments in Central and South America
 image: https://static.independent.co.uk/2026/09/15/17/Peru_US_Rubio_12861.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 US strips millions in military aid from Europe and Mideast to back Trump-aligned nations in Americas

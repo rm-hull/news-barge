@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A Harrogate pizza delivery company has gone into liquidation owing more
   than £30,000.
 image: https://www.yorkpress.co.uk/resources/images/21386311.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Street View)*

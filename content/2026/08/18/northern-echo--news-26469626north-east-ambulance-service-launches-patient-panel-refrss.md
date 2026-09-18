@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: North East Ambulance Service (NEAS) is inviting patients and carers across
   the region to join a new Patient Experience Panel, giving people the…
 image: https://www.thenorthernecho.co.uk/resources/images/21328296.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Helen Smith Photography)*

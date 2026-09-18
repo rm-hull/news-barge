@@ -9,6 +9,10 @@ description: Criminal proceedings against a model and social media influencer ac
   of stealing from people she met through dating apps were suspended Thursday after
   questions were raised about her mental competency to stand trial.
 image: https://static.the-independent.com/2025/10/09/20/18/Screenshot-2025-10-09-at-4-30-11-PM.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Criminal proceedings against a model and social media influencer accused of stealing from people she met through dating apps were suspended Thursday after questions were raised about her mental competency to stand trial.

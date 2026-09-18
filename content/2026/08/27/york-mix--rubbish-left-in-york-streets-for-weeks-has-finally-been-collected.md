@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:13:48Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/groves-york-bins-not-collected-august-2026-ldrs-7.webp
+categories:
+- Local
+- York
+- News & Politics
+- Society & Culture
 ---
 
 Household waste left in streets in York for weeks has now been collected following anger over bin bags being ripped open and becoming fly-infested.

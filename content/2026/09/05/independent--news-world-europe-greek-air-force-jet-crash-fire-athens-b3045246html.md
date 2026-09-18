@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A Greek air force jet crashed in front of thousands of spectators at
   an aerial show north of Athens
 image: https://static.independent.co.uk/2026/09/05/15/2293099887..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Thousands of spectators looked on as a Greek air force jet crashed during an aerial display north of Athens on Saturday, triggering a fire that sent large plumes of black smoke into the sky.

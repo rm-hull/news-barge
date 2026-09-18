@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Housing market has been stymied by borrowing costs, as Iran war pushed
   mortgage rates higher
 image: https://i.guim.co.uk/img/media/11cb2d940350d5b2eed42b662b099876b5442a59/336_0_3328_2664/master/3328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b49131c65a4d0b47beb58823cb7ecdd6
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers grappled with rising mortgage rates and home prices.

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: North Yorkshire Police have issued a CCTV image of a man they would like
   to speak to following a theft from a vehicle in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI4YWY3OTZiLWVkYjAtNDRhOC1iMDlhLWQ0ZThmZTliOGZiZjoxZTA2ZGQ0Yi03N2JlLTQ3NmUtYjIxOS0zZjI4NDdhMjZjNjc=.jpg?crop=3:2,smart&trim=&width=997&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Automotive
 ---
 
 # North Yorkshire Police issue CCTV appeal after tools stolen from vehicle in Harrogate

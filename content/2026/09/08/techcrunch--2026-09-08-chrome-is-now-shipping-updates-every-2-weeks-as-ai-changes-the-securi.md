@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: Google is speeding up Chrome’s release schedule to ship security patches
   and new features faster.
 image: https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Chrome has officially switched from a four- to a two-week release schedule, as Google promised earlier this year, with Tuesday’s launch of Chrome 153 on desktop, iOS, and Android.

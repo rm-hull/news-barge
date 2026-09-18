@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: NATURE, creativity and community are helping support mental health recovery
   thanks to a partnership with an NHS trust.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21329394.jpg?type=og-image&xType=0&yType=890
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

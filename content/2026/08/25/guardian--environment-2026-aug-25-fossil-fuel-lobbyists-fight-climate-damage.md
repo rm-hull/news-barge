@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Analysis of federal lobbying disclosures shows local governments working
   with firms also linked to fossil fuel giants
 image: https://i.guim.co.uk/img/media/9378353e75bad5029b7512f5ef66e32b1594c137/2112_1298_2554_2045/master/2554.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c16cb17cac7c4143784f36b620b9ee3
+categories:
+- UK
+- News & Politics
 ---
 
 Congressional lobbyists working for fossil fuel firms that are exacerbating the climate crisis are simultaneously representing more than 300 local governments raising funding to recover from climate damage, according to a new analysis.

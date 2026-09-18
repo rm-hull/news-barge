@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A major report has found that 12.5 trillion tons of ice from Greenland
   and Antarctica have melted since 1979
 image: https://static.independent.co.uk/2026/09/16/10/Climate_Lost_Ice_99372.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 About 12.5 trillion tons (11.3 trillion metric tons) of ice from glaciers in Greenland and Antarctica have melted since 1979, which is enough frozen water to stack ice five feet deep across the continental United States, according to a major scientific report.

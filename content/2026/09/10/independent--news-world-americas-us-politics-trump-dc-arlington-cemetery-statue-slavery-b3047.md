@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Trump administration has worked to restore monuments tied to Confederate
   leaders while criticizing Smithsonian exhibits that touch on slavery
 image: https://static.independent.co.uk/2026/09/09/23/1863292075..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Trump administration removed materials from Arlington National Cemetery that criticized a former monument to Confederate soldiers for its romanticized depiction of slavery, the latest in its campaign to drastically change the representation of the Civil War in high-profile public spaces.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: A “very concerned” Harrogate resident claims the protection of ancient
   hedgerow has been sacrificed in a new housing development in the town.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU0YzkxOTFiLTE5ZjEtNDE3Yy1iZjcwLTA3MzgzNDU3NzM5MTplZGNiNjI1MS04YTBjLTQ0YWYtYjdiMS04ZjU4ZGJiMDBjMjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # New housing development in Harrogate 'sacrifices' ancient hedgerow claims angry resident

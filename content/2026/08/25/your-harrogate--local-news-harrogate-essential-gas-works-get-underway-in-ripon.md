@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A series of road closures and temporary traffic lights will be in place
   during essential gas mains work in Ripon.
 image: https://mmo.aiircdn.com/409/6a8d625024cb1aec6e6.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d625024cb1aec6e6.jpg) 

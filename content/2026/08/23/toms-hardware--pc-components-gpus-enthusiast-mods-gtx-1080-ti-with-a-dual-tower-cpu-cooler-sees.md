@@ -8,6 +8,9 @@ scraped_at: '2026-08-23T12:58:24Z'
 published: '2026-08-23T00:00:00Z'
 description: It actually ends up consuming less power, too.
 image: https://cdn.mos.cms.futurecdn.net/vrMEFCJwqm8ifxxPiMTShN-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Bolting-on a CPU cooler on a GTX 1080 Ti](https://cdn.mos.cms.futurecdn.net/vrMEFCJwqm8ifxxPiMTShN.png) 

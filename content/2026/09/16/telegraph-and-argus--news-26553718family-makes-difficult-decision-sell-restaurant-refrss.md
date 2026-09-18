@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A restaurant on a major road connecting Bradford with Halifax has shut
   - with its owner citing ongoing challenges facing the hospitality industry as…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21460606.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A RESTAURANT on a major road connecting Bradford with Halifax has shut - with its owner citing ongoing challenges facing the hospitality industry as the reason behind the closure.

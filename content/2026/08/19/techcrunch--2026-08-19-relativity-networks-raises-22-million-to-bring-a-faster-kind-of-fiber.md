@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Relativity Networks deals in hollow-core fiber, a rarely deployed technology
   that allows data to be transmitted 30% faster than conventional fiber.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Data center developers are expected to spend as much as $4 trillion by the end of the decade — and they’re already heavily constrained by both political and power-grid considerations in where they can build. But while most treat the speed of fiber as a given, one company is betting that faster fiber could change the geographical math behind the data center buildout.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Philip Jerome was sentenced on Tuesday after breaching a stalking prevention
   order
 image: https://static.independent.co.uk/2026/08/25/12/01M0W2XEGNN6NV1D4DBG482QS3.jpg?trim=91,0,1552,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An individual described as an "obsessive" fan with a "sexual interest" in Billie Piper has been sentenced to 12 months in prison for breaching a stalking prevention order protecting the former Doctor Who actor.

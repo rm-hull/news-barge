@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Police has released an image and launched an appeal to
   help find a wanted man who could be in the Harrogate district.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA0ZWMwM2I0LTBiMWQtNDE4OS04YjllLWVlMTU0NmE2MmY5OTpmOTU0YjRmYS00OTY5LTRiYTYtYmQwOS00OWVlOTQ1MGZjMDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire Police launch appeal to help find wanted man who could be in Harrogate district

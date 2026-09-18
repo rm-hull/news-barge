@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Office for National Statistics revealed that inflation accelerated
   to a five-month-high of 3.1% last month.
 image: https://static.independent.co.uk/2026/09/16/12/362fd848847ad5aa7c62a3da051490d2Y29udGVudHNlYXJjaGFwaSwxNzg5NjQyNTEx-2.85793891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Government “will not take risks with people’s living standards” in the Budget next month, Prime Minister Andy Burnham said, after official figures showed another jump in inflation.

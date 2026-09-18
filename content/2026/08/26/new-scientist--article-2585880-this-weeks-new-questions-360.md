@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Is there such a thing as an olfactory illusion, and what forces make
   a particle of fluid start spiralling down a pipe instead of flowing smoothly?
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732950.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308732950.jpg?w=840)

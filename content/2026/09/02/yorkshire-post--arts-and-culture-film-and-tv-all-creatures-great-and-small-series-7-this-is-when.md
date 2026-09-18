@@ -11,6 +11,11 @@ description: Channel 5 has announced when the new season of All Creatures Great 
   and Mrs Hall, Tristan and Charlotte, and of course, James and Helen Herriot and
   their children.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM2ZTZlNmYxLTgzNGEtNDZlMC05Y2ZkLTc0MmUyZDk3ODFiZDo1ZTQ0MDRkZi04MmUxLTRiOTktOWVkMC1lNWIyZmIzMjRiMzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # All Creatures Great and Small Series 7: This is when the new series will air as romance blooms at Skeldale House

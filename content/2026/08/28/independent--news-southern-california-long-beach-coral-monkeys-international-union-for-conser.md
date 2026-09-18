@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Aquarium of the Pacific has taken in nearly 1,000 trafficked marine
   animals this summer
 image: https://static.independent.co.uk/2026/08/28/20/Saving_Sea_Creatures.__9286.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Clownfish clamber around a watery enclosure, a couple of brownbanded bamboo sharks weave between rocks and lines of coral sit in tanks basking under artificial grow lights — all creatures seized from illegal wildlife trafficking and placed at the Aquarium of the Pacific for care and a home.

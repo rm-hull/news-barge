@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: County Durham and Darlington NHS Foundation Trust (CDDFT) used its first
   ‘Love Your Lounge Month’ campaign throughout August to highlight the…
 image: https://www.thenorthernecho.co.uk/resources/images/21374477.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Music, glamour and big-name performances took over Lumley Castle as the
   first ever Opulence festival brought two days of entertainment to the…
 image: https://www.thenorthernecho.co.uk/resources/images/21428433.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 Music, glamour and big-name performances took over a County Durham castle as its first ever festival brought two days of entertainment.

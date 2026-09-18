@@ -11,6 +11,10 @@ description: The lone fire truck racing across the Brooklyn Bridge toward the bu
   September 11. The man who took the picture tells Bruce Golding what remains seared
   in his memory
 image: https://static.independent.co.uk/2026/09/09/20/09/white-circle-ladder-118-fire-truck-hero.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Aaron McLamb was cleaning a bookbinding machine in a Brooklyn factory when he happened to glance out a window and see history unfolding on the morning of September 11, 2001.

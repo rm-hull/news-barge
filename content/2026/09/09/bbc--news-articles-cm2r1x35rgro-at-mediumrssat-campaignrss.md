@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The prince's new project aims to use the reach of sport to raise awareness
   about suicide and to show people the help available in a crisis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2843/live/401ec8f0-ac70-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A composite image of Harry Kane, Prince William and Alan Shearer](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2843/live/401ec8f0-ac70-11f1-bc1f-3f186ca4140c.jpg)

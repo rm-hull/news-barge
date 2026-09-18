@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Closing arguments are about to start in a trial which has drawn global
   attention to the rare condition postpartum psychosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a96f/live/a2753300-9fdb-11f1-b1e7-f78d213f1364.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Watch: What is postpartum psychosis and why is it central in the Lindsay Clancy trial?

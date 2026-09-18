@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A top TV chef has visited York as part of a tour of the north of England
   - which will see him donate thousands of pounds to good causes.
 image: https://www.yorkpress.co.uk/resources/images/21336437.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 ## WATCH - 'He’s a man who creates a crowd' - top TV chef brings joy to York supermarket

@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: A historic Bradford district country house has been put on the market
   for £1.85 million.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21391546.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Personal Finance & Investing
 ---
 
 *(Image: UGC)*

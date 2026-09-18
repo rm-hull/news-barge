@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A food hall in a North Yorkshire village has applied to build an extension
   to meet demand near Scarborough in Seamer. Wilson’s Food Hall has…
 image: https://www.gazetteherald.co.uk/resources/images/20980006.jpg?type=og-image&xType=0&yType=89
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A POPULAR food hall in a North Yorkshire village has applied to build an extension to meet year-round demand.

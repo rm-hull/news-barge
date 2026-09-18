@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Experts say more must be done to adapt to changing climate, after two
   trains derailed within 24 hours during a recent heatwave
 image: https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63675b923b64c159ebff942772b5dacc
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Railway companies are racing to prepare for another brutal summer next year, as a developing El Niño could see 2027 break more heat-related records.

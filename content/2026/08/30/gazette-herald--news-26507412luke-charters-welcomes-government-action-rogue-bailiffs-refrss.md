@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Luke Charters, the Labour MP for York Outer, has been calling for tougher
   oversight of the industry and welcomed plans to introduce new regulations…
 image: https://www.gazetteherald.co.uk/resources/images/21032956.jpg?type=og-image&xType=0&yType=281
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A York MP has welcomed action on rogue bailiffs after two years of campaigning.

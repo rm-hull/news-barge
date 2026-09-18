@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: More and more people are experiencing delusional thinking fuelled by
   AI, but how should we talk about it?
 image: https://cdn.mos.cms.futurecdn.net/vJGbWePXHGczj9neZTZcEa-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
+- Science
+- Society & Culture
 ---
 
 ![Man at laptop meditating](https://cdn.mos.cms.futurecdn.net/vJGbWePXHGczj9neZTZcEa.jpg) 

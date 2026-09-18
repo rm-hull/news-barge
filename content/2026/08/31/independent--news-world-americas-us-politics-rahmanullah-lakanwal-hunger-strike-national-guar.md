@@ -10,6 +10,10 @@ description: A judge agreed to order ‘nonconsensual’ nutrition and medical t
   for Rahmanullah Lakanwal, who was rushed to a hospital in July after he stopped
   eating
 image: https://static.independent.co.uk/2026/08/31/20/53/GettyImages-2249808822.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The man jailed for allegedly shooting two National Guard troops near the White House, killing one of them, can be fed against his will under a judge's emergency order.

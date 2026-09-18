@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:26Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/b250f53b-8edc-4212-aca1-c541d8c0c7d0.jpg
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Cyclists in York can’t wait to try it out but as huge wooden planters block the route of York’s new Station Gateway Cycle Track, the council says **most** of it will soon be ready to use.

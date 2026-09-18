@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The withdrawals are causing liquidity problems in Russia, a senior finance
   official said
 image: https://static.independent.co.uk/2026/08/18/17/2290478126..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 People in Russia are withdrawing billions from the nation’s banks over fears that the Kremlin could begin to seize money to finance the war with Ukraine, a report says.

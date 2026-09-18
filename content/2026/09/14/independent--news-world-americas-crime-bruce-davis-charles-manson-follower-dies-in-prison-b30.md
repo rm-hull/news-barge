@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Bruce Davis was convicted for his role in the 1969 slayings of musician
   Gary Hinman and stuntman Donald ‘Shorty’ Shea
 image: https://static.the-independent.com/2026/09/14/19/09/Manson-follower.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Bruce Davis, a former follower of cult leader Charles Manson who was convicted of two murders more than half a century ago, has died while serving a life sentence, according to officials.

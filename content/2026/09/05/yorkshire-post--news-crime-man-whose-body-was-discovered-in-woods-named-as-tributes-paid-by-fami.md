@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The man whose body was found in Ecclesall Woods earlier this week has
   been named by police.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ2ZmViNzc5LWFhNjMtNGZiMi1hZTQ0LTdjYWZjMmFhZGNmNjo2NGY3YzEyZC00YjQ1LTQ1NGMtOWNhMy05MWNlMTdkMDI2MDA=.jpg?crop=3:2,smart&trim=&width=499&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Man whose body was discovered in woods named as tributes paid by family

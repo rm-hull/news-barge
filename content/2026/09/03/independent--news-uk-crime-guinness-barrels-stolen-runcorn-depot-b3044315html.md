@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The barrels, with an estimated value of £115,000, were taken from an
   industrial estate in Runcorn on Monday
 image: https://static.independent.co.uk/2026/09/03/17/01M1M0NDF6P821HDEGJJS9MJCE.jpg?trim=111,0,110,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Police have launched an appeal after thieves stole more than 70,000 pints worth of Guinness from a depot.

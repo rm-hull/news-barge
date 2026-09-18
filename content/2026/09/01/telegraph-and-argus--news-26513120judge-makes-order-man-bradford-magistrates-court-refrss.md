@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: A man has been made subject to a Criminal Behaviour Order (CBO) after
   being sentenced at Bradford Magistrates' Court.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21398224.jpg?type=og-image&xType=0&yType=187
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

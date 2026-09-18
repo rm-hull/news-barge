@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Johannesburg is struggling with a deepening waste crisis marked by unreliable
   collections, rapidly shrinking landfill space and a rise in illegal dumping
 image: https://static.independent.co.uk/2026/09/18/04/South_Africa_Urban_Waste__5516.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Two men sit on top of a hill at the end of a narrow road in Johannesburg ’s industrial suburb of Kya Sands. But the hill is no natural feature — it is a mountain of illegally dumped trash, piled so high it now swallows the road beyond.

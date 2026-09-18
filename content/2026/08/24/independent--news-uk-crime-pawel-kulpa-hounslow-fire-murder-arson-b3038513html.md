@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Pawel Kulpa, 34, will appear at Willesden Magistrates’ Court on August
   25
 image: https://static.independent.co.uk/2026/08/19/22/01M0DVDFB9MJ8947XR1YSYBRGT.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man has been charged with murder after a house fire in west London which left a woman dead and hospitalised eight others.

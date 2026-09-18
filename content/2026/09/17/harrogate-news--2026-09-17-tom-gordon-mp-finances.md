@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: The primary financial driver behind the local MP’s political operations
   remains a highly structured network of political party donations. Rather than being
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/tom-gordon-house-2.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 **HARROGATE**— The complete, itemised financial logs detailing political party donations, statutory government allowances, and benefits-in-kind linked to Harrogate and Knaresborough MP Tom Gordon have been formally published across Westminster transparency registers.Tracked through the Independent Parliamentary Standards Authority (IPSA) and the formal Register of Members’ Financial Interests, the legally mandated disclosures map the structural resource limits governing the Liberal Democrat representative’s operation since his election on 4 July 2024.

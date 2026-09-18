@@ -9,6 +9,10 @@ description: 'Morocco proposes creating a dialogue mechanism to address the futu
   of Ceuta and Melilla, but Spain''s Foreign Ministry rejects its demands and reaffirms
   Spanish sovereignty over both cities. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/45/38/1200x675_cmsv2_37ccd7be-baac-542a-a4bb-c10a0f36af99-9884538.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Morocco proposes creating a dialogue mechanism to address the future of Ceuta and Melilla, but Spain's Foreign Ministry rejects its demands and reaffirms Spanish sovereignty over both cities.

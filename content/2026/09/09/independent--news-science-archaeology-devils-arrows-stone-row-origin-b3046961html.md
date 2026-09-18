@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Prehistoric Britons likely chose megalithic stones from sources holding
   personal meaning for them rather than sites offering logistical convenience
 image: https://static.independent.co.uk/2026/09/09/3/17/Devils-Arrows-Yorkshire.png?trim=11,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prehistoric builders brought 25-tonne stones from at least 18km away to build Britain’s iconic Devil’s Arrows, archaeologists noted in a new study.

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: California workplace safety officials have fined Blackbird Mountain Guides
   after an avalanche killed three guides and six skiers in February
 image: https://static.independent.co.uk/2026/08/21/22/California_Avalanche_Fines_55_46.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 California workplace safety officials have fined a guide company that was leading backcountry skiers down a mountain in February when an avalanche was triggered, killing nine members of the group in the deadliest avalanche in the state's modern history.

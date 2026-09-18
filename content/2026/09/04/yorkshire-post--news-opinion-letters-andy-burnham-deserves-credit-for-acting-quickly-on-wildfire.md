@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T12:41:38Z'
 published: '2026-09-04T00:00:00Z'
 description: 'From: Barry Cohen, Totnes.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwNTcyMzIxLWE0NzMtNGJjYi1iMTAzLTdmNTBiM2IxZDk5MTpiNmVlNzE1MC01MzJjLTQyY2MtYTY5Ni0yZDVlZDg4YjU5NTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # Andy Burnham deserves credit for acting quickly on wildfires but the risks will not disappear - Yorkshire Post Letters

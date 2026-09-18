@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: This year's El Niño is expected to be the strongest in living memory
   and could lead to a range of impacts of the UK - including a stormy autumn.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A huge wave crashes over a breakwater and lighthouse, with grey skies overhead and stormy seas in the background](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg)

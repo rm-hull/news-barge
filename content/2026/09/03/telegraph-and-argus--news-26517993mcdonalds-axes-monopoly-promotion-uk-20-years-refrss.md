@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: McDonald’s has axed its popular Monopoly game promotion in the UK after
   nearly 20 years - see how customers have reacted.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19823408.jpg?type=og-image&xType=0&yType=124
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

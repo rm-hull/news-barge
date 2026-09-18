@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A MAIN road in a North Yorkshire town has closed for roadworks as concerns
   are raised over the cost and length of time being taken.
 image: https://www.gazetteherald.co.uk/resources/images/21377843.jpg?type=og-image&xType=0&yType=880
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Keane Duncan)*

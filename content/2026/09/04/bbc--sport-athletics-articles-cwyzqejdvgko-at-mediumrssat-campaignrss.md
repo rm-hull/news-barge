@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Jonny Brownlee, a former Olympic triathlon champion and six-time world
   champion, says "it's over for professional sport".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c15f/live/d48877e0-a77d-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Jonny Brownlee during the run leg of the triathlon at Rio 2016 Olympics](https://ichef.bbci.co.uk/ace/standard/971/cpsprodpb/c15f/live/d48877e0-a77d-11f1-b2d5-535b3b3d379f.jpg)

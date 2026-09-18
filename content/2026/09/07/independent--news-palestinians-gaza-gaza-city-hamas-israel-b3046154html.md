@@ -10,6 +10,10 @@ description: With building supplies scarce, Palestinians make mud bricks and use
   fabric and plastic to rebuild homes and shops destroyed in the Israel-Hamas war,
   sometimes building directly atop the rubble.
 image: https://static.independent.co.uk/2026/09/07/18/APTOPIX_Israel_Palestinians_Gaza__2476.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Photos show Palestinians using handmade mud bricks, wood and plastic to rebuild amid Gaza’s rubble

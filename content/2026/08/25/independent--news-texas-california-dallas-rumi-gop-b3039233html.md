@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: A California couple in an escalating fight with their surrogate over
   a newborn with a life-threatening heart defect have testified in a Texas court
 image: https://static.independent.co.uk/2026/08/25/23/Surrogate_Medical_Treatment_91_41.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A California couple in an escalating fight with their surrogate over a newborn with a life-threatening heart defect told a Texas court Tuesday that the child's condition has worsened and they are anguished by attempts to deny them parental rights because they previously wanted an abortion.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Trial court told witnesses intimidated at behest of suspects ahead of
   proceedings
 image: https://static.independent.co.uk/2024/05/06/16/missing%20surfers%206.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Three men accused of murdering two Australian brothers and their American friend two years ago have gone on trial in Mexico, with the parents of the victims attending the proceedings.

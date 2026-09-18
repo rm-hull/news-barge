@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A driver crashed into a railway barrier with their car coming to a rest
   on Redcar train tracks.
 image: https://www.thenorthernecho.co.uk/resources/images/21429136.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

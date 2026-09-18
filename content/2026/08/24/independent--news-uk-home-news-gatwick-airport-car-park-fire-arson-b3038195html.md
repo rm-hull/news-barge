@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A man has been arrested on suspision of arson over the fire, which happened
   at Caldryne Business Park in Rowfant
 image: https://static.independent.co.uk/2026/08/04/12/2026-07-26T124522Z_1379075628_RC2K7GAUV057_RTRMADP_3_LONDON-GATWICK-AIRPORT-WATER.JPG?trim=65,0,65,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A suspected arson attack took place at an industrial estate used for parking by holidaymakers flying from Gatwick Airport, raising fears several customers may have been impacted.

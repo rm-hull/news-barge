@@ -7,6 +7,9 @@ scraped_at: '2026-08-19T08:53:00Z'
 published: '2026-08-19T00:00:00Z'
 description: Joe Root is back as full-time England red-ball captain
 image: https://cdn.mos.cms.futurecdn.net/mVLKYAtanPNempfkdaGFiL-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![England captain Joe Root waits to bat during day five of the 2nd Rothesay Test Match between England and New Zealand at The Kia Oval](https://cdn.mos.cms.futurecdn.net/mVLKYAtanPNempfkdaGFiL.jpg) 

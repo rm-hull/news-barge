@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A man has been taken to hospital after a crash on the A64 at Grimston
   Bar in York.
 image: https://www.yorkpress.co.uk/resources/images/17739359.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Supplied)*

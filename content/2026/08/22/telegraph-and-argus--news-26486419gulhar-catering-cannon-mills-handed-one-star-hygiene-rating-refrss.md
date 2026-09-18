@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: A Bradford catering business has been handed a one-star food hygiene
   rating.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357027.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 *(Image: Pexels)*

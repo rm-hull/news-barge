@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T08:57:42Z'
 published: '2026-08-26T00:00:00Z'
 description: A NEW exhibition based on a popular television show opens this weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21322008.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 A NEW exhibition based on a popular television show opens this weekend.

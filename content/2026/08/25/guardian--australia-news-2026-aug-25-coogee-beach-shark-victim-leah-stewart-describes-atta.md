@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: In her first media interview since the June incident, Leah Stewart, 34,
   says her thoughts while being bitten were of her one-year-old daughter
 image: https://i.guim.co.uk/img/media/25433135061085fd870b5ac4f2932eefc92102c9/0_0_508_406/master/508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e3d485014c18589fc5af1a9007eaa2a
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 An Australian woman who lost an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”.

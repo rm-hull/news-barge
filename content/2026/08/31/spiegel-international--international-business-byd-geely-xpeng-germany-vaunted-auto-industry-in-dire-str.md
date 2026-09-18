@@ -10,6 +10,12 @@ description: The numbers of Chinese cars on European roads is skyrocketing as ca
   from the People’s Republic rush to build factories in the EU. Germany’s traditional
   brands are struggling to respond.
 image: https://cdn.prod.www.spiegel.de/images/81604c7a-1dee-4217-86fd-328435c0bcdd_w1200_r1.778_fpx37_fpy49.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 On the outskirts of Szeged, the procession of Chinese construction workers begins in the early evening. On foot or on mud-caked bicycles, dozens set out for the supermarket across from the construction site in southern Hungary.

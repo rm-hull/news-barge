@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Reform UK leader has accused Sky News of sending reporters to a house
   where his adult daughter lives.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Nigel Farage, wearing a grey suit with a Union Jack pin on his lapel, and a red tie is speaking in front of a lecturn with a Reform UK logo on the front. The background is blurred.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg)

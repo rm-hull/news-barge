@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: If there's a single sandwich associated with childhood and school lunches
   in the U
 image: https://static.independent.co.uk/2026/09/09/13/Food-Education-School_Lunch-PB%26amp%3BJ_18415.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 If there is a single sandwich associated with childhood and school lunches in the U.S.A, it has to be the PB&J.

@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: 'Their move back from California comes amid continuing uncertainty over
   their security arrangements and whether the state will fund any protection. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/47/75/1200x675_cmsv2_4e344822-6181-58d6-88bb-228fbdd079f7-9904775.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Their move back from California comes amid continuing uncertainty over their security arrangements and whether the state will fund any protection.

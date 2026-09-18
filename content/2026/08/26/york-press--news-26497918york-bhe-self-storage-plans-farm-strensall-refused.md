@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A York farm has had its planning bid to keep 73 self-storage containers
   installed as part of a side business to boost its income refused.
 image: https://www.yorkpress.co.uk/resources/images/21375047.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## York farm struggling with Brexit, coronavirus and Ukraine war suffers planning blow

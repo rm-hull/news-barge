@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Amazon - AWS logo](https://cdn.mos.cms.futurecdn.net/83tohMm46WQCYhhbLZ9CT6-320-80.jpg)

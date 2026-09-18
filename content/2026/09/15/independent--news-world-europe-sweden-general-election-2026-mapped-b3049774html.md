@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Sweden’s election is on a knife-edge, with final results likely not to
   be confirmed until Wednesday
 image: https://static.independent.co.uk/2026/09/15/12/2294684165..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sweden’s left-leaning bloc has crept ahead of the ruling right-wing coalition in a neck-and-neck general election.

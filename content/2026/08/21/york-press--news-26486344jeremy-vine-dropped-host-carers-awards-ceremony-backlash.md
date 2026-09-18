@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Jeremy Vine has been dropped as the host of a carers awards ceremony
   after a furious backlash.
 image: https://www.yorkpress.co.uk/resources/images/20172716.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Peter Byrne / PA)*

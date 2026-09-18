@@ -9,6 +9,12 @@ description: When Vanessa Dobson took the helm of the family dairy farm followin
   her husband’s Alzheimer’s diagnosis five years ago she didn’t know how to milk a
   cow.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMyOWZjZDFhLTkxZDMtNGViNS04MWUyLWUzYzdhODZhODY2MzozZjEyMjNkNS1hYzdiLTRhZWQtOTQ1Mi05M2NmNGVkMWY4YzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Health & Fitness
 ---
 
 # 'I took over my family farm when my husband was diagnosed with Alzheimer's - I couldn't even milk a cow at the time'

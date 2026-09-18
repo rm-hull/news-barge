@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: 'Remembering 9/11 in York: from shock in The Evening Press newsroom to
   York''s response to the September 11 terror attacks that changed the world.'
 image: https://www.gazetteherald.co.uk/resources/images/21431744.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
+- History
 ---
 
 A routine morning in York was shattered by news that would change the world.

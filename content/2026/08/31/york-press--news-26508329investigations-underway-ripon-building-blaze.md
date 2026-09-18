@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T16:07:34Z'
 published: '2026-08-31T00:00:00Z'
 description: Investigations are under way after a Ripon building fire.
 image: https://www.yorkpress.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

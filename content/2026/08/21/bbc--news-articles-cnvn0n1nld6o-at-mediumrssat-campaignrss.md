@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Narendra Modi's new, more casual online persona is drawing attention
   from young Indians - but also plenty of scepticism.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7fd/live/1444d8f0-9cc6-11f1-9182-d13e1a2797dc.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Indian Prime Minister Narendra Modi speaks at the Global Fintech Fest](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/92eb/live/ee9e5420-9dae-11f1-a291-b542ee92de7c.jpg)

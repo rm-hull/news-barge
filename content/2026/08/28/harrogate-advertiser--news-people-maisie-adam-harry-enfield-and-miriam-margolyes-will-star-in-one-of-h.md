@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:15:59Z'
 published: '2026-08-28T00:00:00Z'
 description: The countdown is on for the feast of fun that is Harrogate Comedy Festival.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmIxY2MyMmZlLWVhYzctNDFiOS1hZjJiLTExY2Q0M2U0ZDZmOToxNzQxODIwNy00NDU3LTQyMWQtODEyOS03MWQ2YjgxOWQyZTU=.jpg?crop=3:2,smart&trim=&width=750&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 # Maisie Adam, Harry Enfield, and Miriam Margolyes will star in one of Harrogate's highlights of the year

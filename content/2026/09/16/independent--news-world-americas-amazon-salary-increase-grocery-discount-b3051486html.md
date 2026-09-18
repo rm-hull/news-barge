@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: The $1 increase will bring average hourly pay for U.S. core operations
   employees to nearly $24
 image: https://static.independent.co.uk/2025/12/01/16/34/Operations-on-Cyber-Monday-at-Amazon-Robbinsville-fulfillment-center-in-New-Jersey-1pweca0m.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Amazon is raising starting wages for some workers and giving all U.S. employees new grocery discounts and access to a banking benefit.

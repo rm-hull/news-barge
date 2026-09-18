@@ -9,6 +9,9 @@ description: While K3's usage figures have declined slightly in recent months, O
   data currently shows as many as 300 billion tokens being generated each day by K3
   models on the system.
 image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Friday, Bloomberg reported that the lab is targeting $2 billion in annualized revenue by the end of the year, double the company’s reported revenue run rate for August. It’s an aggressive goal that reflects the success of the company’s K3 model since its release this summer.

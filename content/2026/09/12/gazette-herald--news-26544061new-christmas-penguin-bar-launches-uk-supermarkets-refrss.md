@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: The new Christmas Penguin bar is inspired by the popular McVitie’s Penguin
   biscuit.
 image: https://www.gazetteherald.co.uk/resources/images/21189968.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: Getty Images/iStockphoto)*

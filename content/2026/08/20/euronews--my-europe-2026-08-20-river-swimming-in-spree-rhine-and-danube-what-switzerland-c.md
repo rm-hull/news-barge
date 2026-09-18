@@ -9,6 +9,10 @@ description: 'Basel has spent decades making the Rhine safe for swimmers, while 
   cities are imposing bans. Could a growing European push to reclaim urban waterways
   change that? #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/85/52/1200x675_cmsv2_42b0d2ab-1b9b-5416-bba5-206f564cef2d-9878552.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Basel has spent decades making the Rhine safe for swimmers, while German cities are imposing bans. Could a growing European push to reclaim urban waterways change that?

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Day Fever, the daytime clubbing craze, co-founded by actress Vicky McClure,
   is heading to York for two feel-good dance parties.
 image: https://www.yorkpress.co.uk/resources/images/20227918.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Sports
 ---
 
 *(Image: Submitted)*

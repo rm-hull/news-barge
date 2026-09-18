@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Bradford hosts UK Recovery Walk 2026 as hundreds celebrate addiction
   recovery, challenge stigma and share stories of sobriety, support and hope…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464037.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: T&A)*

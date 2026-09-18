@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A motor museum will remain open to the public in the New Forest despite
   the National Motor Museum Trust searching for a new home, the attraction has…
 image: https://www.gazetteherald.co.uk/resources/images/21199925.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Beaulieu)*

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Sunderland shirt was handed to Pope Leo XIV ahead of the club's first
   European game in 53 years, with the pontiff offering prayers for the…
 image: https://www.thenorthernecho.co.uk/resources/images/21466371.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: VATICAN MEDIA)*

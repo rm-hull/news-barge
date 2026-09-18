@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: At an event meant to support GOP midterm candidates like Paxton, Trump
   couldn’t help but insult his fashion sense...twice
 image: https://static.independent.co.uk/2026/09/11/3/54/GettyImages-2293864342.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Texas Attorney General Ken Paxton forced a smile as President Donald Trump mocked him mercilessly for a second night in a row at a Republican convention meant to boost his and other GOP candidates’ chances in November’s midterm elections.

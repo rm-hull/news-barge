@@ -8,6 +8,8 @@ scraped_at: '2026-09-18T19:01:05Z'
 published: '2026-09-18T00:00:00Z'
 description: The update brings an interactive server map and a new multi-hop function
 image: https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH-2498-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Mullvad VPN app logo on screen](https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH.jpg) 

@@ -9,6 +9,9 @@ description: State veterinary regulator confirmed batch 20 of Multican-8 contain
   a live Aujeszky's disease virus — typically fatal in dogs — after owners across
   at least 10 Russian regions reported hundreds of deaths since August.
 image: https://images.euronews.com/articles/stories/09/91/73/05/1200x675_cmsv2_b3d55de4-db65-53f4-ab91-35bc429b6adb-9917305.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## State veterinary regulator confirmed batch 20 of Multican-8 contained a live Aujeszky's disease virus — typically fatal in dogs — after owners across at least 10 Russian regions reported hundreds of deaths since August.

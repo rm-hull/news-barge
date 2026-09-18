@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: AN eye surgeon has warned that regular eye exams are essential for protecting
   long-term health.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20591414.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Oasis has announced a new tour for 2027 with shows in Glasgow and Manchester,
   and Knebworth.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453870.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Doug Peters/PA)*

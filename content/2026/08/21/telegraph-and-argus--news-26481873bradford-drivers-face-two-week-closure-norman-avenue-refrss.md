@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T16:47:53Z'
 published: '2026-08-21T00:00:00Z'
 description: A ROAD in Bradford is set to close for gas works.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349998.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

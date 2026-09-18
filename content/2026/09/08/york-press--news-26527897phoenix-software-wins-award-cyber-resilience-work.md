@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: York-based Phoenix Software was recently named the winner of Rubrik’s
   2026 EMEA Partner Award in the Pipeline Contributor category.
 image: https://www.yorkpress.co.uk/resources/images/21419497.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Phoenix)*

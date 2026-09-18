@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Lisa Jacobs will step down by September next year after joining the firm
   in 2012.
 image: https://static.independent.co.uk/2026/09/08/09/08090638-19f5bff2-3b26-4515-adc3-f252fd3cd59d.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Small business lender Funding Circle has revealed plans for its boss of more than four years to step down by next September as it upped its annual profit outlook.

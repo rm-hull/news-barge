@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prince Harry wants communities to better apply their service members'
   skills when they enter the workforce
 image: https://static.independent.co.uk/2026/08/20/04/Philanthropy_Prince_Harry_183_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Prince Harry urged communities to better apply service members' skills when they return to the workforce during an intimate gathering with U.S. veterans Wednesday night.

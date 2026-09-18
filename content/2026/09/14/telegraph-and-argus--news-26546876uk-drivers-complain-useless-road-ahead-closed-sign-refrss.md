@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A number of UK drivers have complained about the Road Ahead Closed sign
   and how it needs to be updated
 image: https://www.thetelegraphandargus.co.uk/resources/images/18200249.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Ben Birchall/PA Wire)*

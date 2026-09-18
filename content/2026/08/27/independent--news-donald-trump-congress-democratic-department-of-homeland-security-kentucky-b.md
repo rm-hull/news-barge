@@ -10,6 +10,11 @@ description: U.S. Immigration and Customs Enforcement has awarded a $16.7 millio
   contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks,
   saying officers would use them to control detainees and protesters who resist
 image: https://static.independent.co.uk/2026/08/13/21/Immigration_ICE_Shock_Gloves_35675.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 U.S. Immigration and Customs Enforcement has awarded a $16.7 million contract to purchase 6,000 pairs of gloves that can deliver painful electric shocks, saying officers would use them to control detainees and protesters who resist.

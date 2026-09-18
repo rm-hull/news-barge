@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:41:13Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/motorbike-tactical-collision-police-water-end-york-13-sept-2026-nyp.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 This is the moment a motorbike rider who failed to stop for police came into contact with the full force of the law in York.

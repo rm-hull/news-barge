@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: President Donald Trump has tore up two White House lawns and demolished
   one wing of the building since his return to office
 image: https://static.independent.co.uk/2026/09/10/16/2290721704..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 First Lady Melania Trump skipped out on her husband’s GOP's midterm convention to discuss the redesign going on at the White House.

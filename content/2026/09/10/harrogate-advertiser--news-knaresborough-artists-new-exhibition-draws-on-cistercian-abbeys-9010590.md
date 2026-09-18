@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:07:02Z'
 published: '2026-09-10T00:00:00Z'
 description: Knaresborough artist Simon Crawford opens new exhibition at Ryedale
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/10/13/Simon_Crawford_at_Byland_Abbey__1789041123_36f0a0fe-b19dc477495480f9.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # Knaresborough artist's new exhibition draws on Cistercian abbeys

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Fire survivors and bereaved urge Barnet Group to ‘reconsider’ appointment
   of Laura Johnson, who pushed for cheaper contractor
 image: https://i.guim.co.uk/img/media/c159298720998cb1c6c3614ff012e7787cff3611/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c17181c9b1ece9886d776570a9e2eaa
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Grenfell survivors and bereaved relatives have criticised the “outrageous decision” to hire a director who oversaw cost-cutting at Grenfell Tower in a £150,000-a-year senior council housing role.

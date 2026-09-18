@@ -10,6 +10,10 @@ description: As families await news of missing loved ones, the disaster is a sta
   reminder of how the climate crisis is creating a fast-growing threat. Plus, the
   town considered India’s ‘Jurassic Park’
 image: https://i.guim.co.uk/img/media/a240b9f1967c7d70dc221f795b9609164da9936e/496_0_6934_5549/master/6934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de739d67a7033ea78c5631acf2d09388
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 It has been hard not to despair while watching the ruinous floods swallow parts of Nepal, and harder, still knowing that the agony compounds each passing day for dozens of Indian families whose members remain unaccounted for.

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Mercedes' Kimi Antonelli takes a breathtaking victory in an incident-packed
   Italian Grand Prix from 19th place on the grid.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9919/live/00d7bba0-aa06-11f1-afb5-a367f96884d3.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Kimi Antonelli clenches his right fist in celebration after getting out of his car following his win in the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9919/live/00d7bba0-aa06-11f1-afb5-a367f96884d3.jpg)

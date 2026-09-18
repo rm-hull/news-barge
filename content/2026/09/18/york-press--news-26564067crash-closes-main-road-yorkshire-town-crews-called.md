@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A crash closed Leeds Road in Harrogate with emergency services called
   to the scene.
 image: https://www.yorkpress.co.uk/resources/images/21128613.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

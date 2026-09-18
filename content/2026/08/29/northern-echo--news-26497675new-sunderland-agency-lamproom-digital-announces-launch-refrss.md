@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: An award-winning North East marketer has launched a new search agency
   in Sunderland, driven by the ambition to create jobs and opportunities in the…
 image: https://www.thenorthernecho.co.uk/resources/images/21374792.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

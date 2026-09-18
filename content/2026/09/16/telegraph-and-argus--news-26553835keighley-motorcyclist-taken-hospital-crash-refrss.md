@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A 62-year-old motorcyclist was injured after crashing into a traffic
   island.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16524140.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: T&A)*

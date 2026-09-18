@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: If you fit into one of these seven categories, you can apply for a refund
   on your TV licence and claim back some money.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20575142.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty)*

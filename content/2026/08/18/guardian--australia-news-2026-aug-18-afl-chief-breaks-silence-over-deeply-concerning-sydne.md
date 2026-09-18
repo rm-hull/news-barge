@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Club’s board meets on Tuesday night to decide penalties after league
   boss calls reports ‘deeply concerning’
 image: https://i.guim.co.uk/img/media/8e4dec039d993f32cb2289c74b5a6b8de8d2d7d6/191_0_2768_2214/master/2768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b4776f22fbd11033f06d03fcb7c3e3a
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The Sydney Swans AFL club will decide on sanctions for players for “serious breach” of standards over an incident that led to a report of sexual assault.

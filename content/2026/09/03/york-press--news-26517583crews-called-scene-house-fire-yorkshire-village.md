@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Emergency services have been called to a house fire in Appleton le Street,
   near Malton.
 image: https://www.yorkpress.co.uk/resources/images/21123281.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

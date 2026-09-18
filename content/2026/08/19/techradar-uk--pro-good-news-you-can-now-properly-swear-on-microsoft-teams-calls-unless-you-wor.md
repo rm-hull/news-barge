@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T13:10:34Z'
 published: '2026-08-19T00:00:00Z'
 description: Government Teams users are ****** a little longer
 image: https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU-2560-80.jpeg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Shocked woman worker looking at laptop screen](https://cdn.mos.cms.futurecdn.net/qKKtmFjSZtfjvQ9BGRm6zU.jpeg) 

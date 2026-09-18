@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: 'Artificial intelligence (AI), chatbots, and machine learning: News,
   R&D, and more'
 image: https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1500-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![image of brain over circuit board](https://cdn.mos.cms.futurecdn.net/visRdjSzfsihBG9wNfqPQY-1200-80.png) 

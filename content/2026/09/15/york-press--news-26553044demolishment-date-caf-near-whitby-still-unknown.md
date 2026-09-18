@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: It is hoped that Sandsend Café, near Whitby, will close for demolition
   this winter, officials say.
 image: https://www.yorkpress.co.uk/resources/images/21459469.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Date to be announced soon for demolition of café after nearly 50 years

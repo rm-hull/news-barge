@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A public meeting has aired opposition to plans substantially expanding
   a pig farm operation in Loftus.
 image: https://www.thenorthernecho.co.uk/resources/images/21416057.jpg?type=og-image&xType=0&yType=360
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

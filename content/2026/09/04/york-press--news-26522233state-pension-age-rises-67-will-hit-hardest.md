@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Millions face a longer wait for their State Pension as the age rises
   to 67 by 2028. Seven groups could be most at risk.
 image: https://www.yorkpress.co.uk/resources/images/21405741.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 *(Image: Getty Images/iStockphoto)*

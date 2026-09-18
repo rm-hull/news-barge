@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Campaigners say some care boards in England flouting their legal duty,
   resulting in ‘cruel’ postcode lottery
 image: https://i.guim.co.uk/img/media/20be84d02f8b217d8b5179a5454389fc12125b85/0_240_899_719/master/899.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8551750bd43304b37953810ab98d5f9
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Seriously ill children are being denied the chance to die at home because the NHS in many parts of England is flouting its legal duty to provide the care needed to make that happen, critics say.

@@ -9,6 +9,11 @@ description: Botox is Germany's most popular non-surgical cosmetic treatment, bu
   not everyone offering injections is legally allowed to do so. Here's how to check
   whether your provider is authorised and what the rules actually say.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-pexels-cottonbro-7581583.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Health & Fitness
 ---
 
 Germany's booming cosmetic-injections market has also created opportunities for illegal providers. In recent months, courts in Berlin have dealt with multiple cases involving beauticians who allegedly injected Botox and hyaluronic-acid fillers despite lacking the necessary legal authorisation.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T19:17:27Z'
 published: '2026-08-30T00:00:00Z'
 description: Three years after Warner Bros
 image: https://static.independent.co.uk/2026/08/30/17/Film_Review_-_Coyote_vs._Acme_13365.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Three years after Warner Bros. abruptly canned “Coyote vs. Acme,” the Looney Tunes feature film that was given a new lease on life by Ketchup Entertainment debuted with an estimated $15.5 million in ticket sales over the weekend.

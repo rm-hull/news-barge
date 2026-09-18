@@ -9,6 +9,9 @@ description: The Trump administration is moving ahead with plans to rescind a qu
   rule that blocked logging and other development on national forest lands, drawing
   the ire of environmentalists nationwide
 image: https://static.independent.co.uk/2026/08/18/20/Roadless_Rule_National_Forests_17496.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration announced Tuesday it is moving ahead with plans to rescind a quarter-century-old rule that blocked logging, road building and other development on national forest lands, drawing the ire of environmentalists nationwide.

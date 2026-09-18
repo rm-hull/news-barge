@@ -10,6 +10,12 @@ description: As All Creatures Great and Small returns to Channel 5, main cast me
   Nicholas Ralph, Rachel Shenton, Samuel West, Anna Madeley and Callum Woodhouse have
   been having their say about their storylines for series seven.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNmZDc4ZTBjLTJhZTEtNGQ5ZC05MDE2LWUwZmM4ZTI1OGRmZDo1YjUyNDM1OC1lMDBhLTRiZDMtYmYyYy1kOGE2ZTZiYzg4ODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 # All Creatures Great and Small season 7: Actors speak out about new storylines set in James Herriot’s Yorkshire Dales

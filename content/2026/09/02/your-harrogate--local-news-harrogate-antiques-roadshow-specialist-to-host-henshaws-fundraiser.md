@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A jewellery specialist from BBC's Antiques Roadshow is set to appear
   at a fundraising event in Knaresborough.
 image: https://mmo.aiircdn.com/409/6a9827449b836ebb294.jpg
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9827449b836ebb294.jpg) 

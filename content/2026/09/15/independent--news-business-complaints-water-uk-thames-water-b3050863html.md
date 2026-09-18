@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Complaints to the Consumer Council for Water are up 84% – the biggest
   year-on-year rise in the watchdog’s 20-year history.
 image: https://static.independent.co.uk/2026/09/16/00/15121928-dd741534-fb59-49c7-bf78-3c547541f363.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Household complaints about water companies to the sector watchdog have seen their largest-ever annual increase following the steepest hike in charges since privatisation.

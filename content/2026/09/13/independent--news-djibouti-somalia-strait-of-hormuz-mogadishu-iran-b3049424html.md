@@ -10,6 +10,10 @@ description: Somali businesses are seeking alternative shipping routes due to di
   Iran-backed Houthis captured a key port city and an island, sending thousands of
   Yemenis fleeing to neighboring Djibouti
 image: https://static.independent.co.uk/2026/09/13/16/Somalia_Mideast_Crisis_46351.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Somalia's business community is seeking alternative shipping routes due to disruptions and security concerns around the Bab al-Mandab Strait and the Strait of Hormuz after Iran-backed Houthis captured a key port city and an island, sending thousands of Yemenis fleeing to neighboring Djibouti.

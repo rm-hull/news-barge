@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: South Tyneside Council has completed a £5 million redevelopment of its
   Middlefields Depot, transforming the 60,000-square-metre site into a modern…
 image: https://www.thenorthernecho.co.uk/resources/images/21337455.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Angela Carrington)*

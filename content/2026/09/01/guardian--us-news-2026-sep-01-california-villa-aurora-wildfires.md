@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Spectacular Villa Aurora, which was nearly destroyed in last year’s fires,
   leading the recovery as Pacific Palisades emerges from a dark chapter
 image: https://i.guim.co.uk/img/media/65b2f17b2820617d0e858b09555f3de853888822/389_0_2221_1779/master/2221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cf851680ec2e14f6520794522489a57
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A hillside villa that served as a cultural hub for German writers and artists fleeing the Nazis and narrowly escaped destruction in last year’s Los Angeles wildfires reopened its doors to the public this weekend, marking the latest milestone in the city’s slow recovery from one of the darkest chapters in its history.

@@ -9,6 +9,10 @@ description: A drug made up of a cage of nanoparticles and antibodies created ne
   from another type of brain cell, which relieved symptoms of Alzheimer's disease
   in mice
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549347.jpg?w=840)

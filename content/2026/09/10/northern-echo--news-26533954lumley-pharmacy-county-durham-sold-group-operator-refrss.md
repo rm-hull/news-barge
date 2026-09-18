@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Lumley Pharmacy in County Durham has been sold to an experienced group
   operator.
 image: https://www.thenorthernecho.co.uk/resources/images/21425576.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

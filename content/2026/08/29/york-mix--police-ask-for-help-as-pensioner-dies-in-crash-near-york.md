@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:39Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/788563318_1376348077993742_4054717335995899187_n.png.jpeg
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 **Police are appealing for information after a man in his 70s died in hospital following a car crash.**

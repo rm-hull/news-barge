@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Aaron Donald, one of the greatest defensive players in NFL history, is
   coming out of retirement to rejoin his only professional team, the Los Angeles Rams
 image: https://i.guim.co.uk/img/media/541f9e36e41b73c911e4698a909ead6fe07c6b79/918_0_6736_5389/master/6736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc9ac75fe8112d398a5254438d23b673
+categories:
+- UK
+- News & Politics
+- Sports
+- Careers & Productivity
 ---
 
 Aaron Donald, one of the greatest defensive players in NFL history, is coming out of retirement to rejoin his only professional team, the Los Angeles Rams.

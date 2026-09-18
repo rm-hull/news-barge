@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Emergency services have been called to an incident on Ouse Bridge in
   York.
 image: https://www.yorkpress.co.uk/resources/images/19757750.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Emergency services close York city centre road following incident

@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T04:20:45Z'
 published: '2026-09-02T00:00:00Z'
 description: A mother and son duo have captured hearts online with their candid storytelling.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380405.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

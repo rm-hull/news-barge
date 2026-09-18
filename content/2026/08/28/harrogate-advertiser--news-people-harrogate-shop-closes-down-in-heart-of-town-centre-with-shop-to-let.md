@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: A shop has closed down in Harrogate town centre in a setback which highlights
   the growing pressures on the charity sector in Britain.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc4MDQxNjU1LWQ3ZjYtNDk1MC04YTE1LTQ4YmI4YWE3YmY3Zjo0N2U4ZGJhYy1iMmE3LTRhYzktYjRlNC01MzE0NmM2ZTgxMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Harrogate shop closes down in heart of town centre with 'shop to let' signs going up

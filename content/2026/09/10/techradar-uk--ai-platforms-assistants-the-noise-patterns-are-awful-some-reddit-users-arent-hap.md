@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: ChatGPT Images 2.5 is impressively detailed, but its smooth surfaces
   tell another story
 image: https://cdn.mos.cms.futurecdn.net/DoHy7583XmBKgGrtPbUUN8-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT Image 2.5](https://cdn.mos.cms.futurecdn.net/DoHy7583XmBKgGrtPbUUN8.png) 

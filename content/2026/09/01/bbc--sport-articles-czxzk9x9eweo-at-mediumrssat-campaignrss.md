@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:22:45Z'
 published: '2026-09-01T00:00:00Z'
 description: The BBC is to end its Ski Sunday programme after nearly 50 years.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/640f/live/16a777f0-a604-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Chemmy Alcott and Ed Leigh](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/640f/live/16a777f0-a604-11f1-83fc-0df57e6b3866.jpg)

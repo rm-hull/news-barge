@@ -7,6 +7,8 @@ scraped_at: '2026-09-08T19:25:58Z'
 published: '2026-09-08T00:00:00Z'
 description: $99 MX Keypad looks ideal for coding and AI workflows
 image: https://cdn.mos.cms.futurecdn.net/uumSLoxAsh3jXpviKkDB7M-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Logitech MX Keypad](https://cdn.mos.cms.futurecdn.net/uumSLoxAsh3jXpviKkDB7M.jpg) 

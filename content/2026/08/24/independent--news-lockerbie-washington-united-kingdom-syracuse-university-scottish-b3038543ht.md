@@ -10,6 +10,10 @@ description: A federal judge has postponed a trial in the U.S. for a Libyan man 
   in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that
   defense attorneys want to examine
 image: https://static.independent.co.uk/2026/08/24/23/Lockerbie_Suspect_Trial_66843.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A federal judge on Monday postponed a trial in the U.S. for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that defense attorneys want to examine in the nearly 40-year-old case.

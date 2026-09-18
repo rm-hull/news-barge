@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:21Z'
 published: '2026-09-18T00:00:00Z'
 description: A person has died following an incident at a Bradford railway station.
 image: https://www.thetelegraphandargus.co.uk/resources/images/6186329.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

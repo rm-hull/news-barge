@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:13:06Z'
 published: '2026-08-27T00:00:00Z'
 description: A liquidator has been appointed to a UK civil engineer firm.
 image: https://www.yorkpress.co.uk/resources/images/21376363.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

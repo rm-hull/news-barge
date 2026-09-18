@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Ryanair will charge you if you do not check in online before arriving
   at the airport.
 image: https://www.thenorthernecho.co.uk/resources/images/19892344.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

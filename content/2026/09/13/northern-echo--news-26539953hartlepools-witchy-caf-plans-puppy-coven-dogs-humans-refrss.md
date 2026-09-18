@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Hartlepool's witchy café Gina’s Coven is planning a magical ‘puppy coven’,
   adding a dog-friendly space to its tarot and crystal shop for…
 image: https://www.thenorthernecho.co.uk/resources/images/21436615.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Provided)*

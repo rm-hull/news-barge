@@ -9,6 +9,9 @@ description: Trump last week suggested renaming the Strait of Hormuz as "Trump S
   as the war with Iran continues, then hours later implied he was not serious about
   the plan.
 image: https://images.euronews.com/articles/stories/09/90/52/13/1200x675_cmsv2_d5a21036-2523-5c60-ae23-0c8b6d43c0b3-9905213.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump last week suggested renaming the Strait of Hormuz as "Trump Strait" as the war with Iran continues, then hours later implied he was not serious about the plan.

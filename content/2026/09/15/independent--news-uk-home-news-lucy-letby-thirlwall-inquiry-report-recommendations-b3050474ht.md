@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The Thirlwall Inquiry report says NHS England should ‘set out a road
   map’ for changes to be implemented by next year
 image: https://static.independent.co.uk/2026/09/15/7/41/lucy-letby-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A total of 14 recommendations have been made in the Thirlwall Inquiry report, which looked at events at the Countess of Chester Hospital that led to former nurse Lucy Letby’s convictions for the murder of seven babies.

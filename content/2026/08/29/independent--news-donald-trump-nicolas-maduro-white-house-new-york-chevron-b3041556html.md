@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: There's a lot that's not immediately clear about President Donald Trump's
   deal giving the United States a stake in Venezuela’s vast oil reserves
 image: https://static.independent.co.uk/2026/08/29/17/Trump_Venezuela_Oil_What_To_Know_12435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Besides a social media post from President Donald Trump, the White House has said little about what he is calling “THE BIGGEST OIL DEAL IN WORLD HISTORY” in Venezuela.

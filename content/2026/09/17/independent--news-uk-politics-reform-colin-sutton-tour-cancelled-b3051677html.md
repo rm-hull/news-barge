@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Colin Sutton was to host a live stage production called The Makings Of
   A Murderer – Double Jeopardy
 image: https://static.independent.co.uk/2026/07/21/13/01KY28YVBWKB7TE783H7P8MPA5.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Reform UK’s first police and crime commissioner (PCC) has called off a planned national theatre tour after backlash.

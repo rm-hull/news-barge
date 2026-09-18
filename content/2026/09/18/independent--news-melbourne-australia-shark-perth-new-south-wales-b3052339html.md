@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A man has been killed by a shark as he swam off a Western Australian
   city beach
 image: https://static.independent.co.uk/2026/09/18/09/Australia_Shark_Attack_81_15.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man was killed by a shark as he swam off a Western Australian city beach Friday, police said.

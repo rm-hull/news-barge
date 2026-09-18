@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The future of two much-loved community centres will be secured after
   they are taken over by charities based in the city.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464517.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google)*

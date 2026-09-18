@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:10:51Z'
 published: '2026-08-19T00:00:00Z'
 description: Defence lays out seven grounds for appeal
 image: https://static.independent.co.uk/2026/08/19/10/2026-08-19T035122Z_364885960_RC2F1NAZEJVT_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS.JPG?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Lawyers for Erin Patterson, the Australian mushroom killer appealing her conviction, argued on Wednesday that putting her jurors up in the same hotel as police and prosecution officials was a “catastrophic” failure of the justice system.

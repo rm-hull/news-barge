@@ -17,6 +17,10 @@ description: An arsonist torched two cars parked on a driveway in the middle of 
   the same court on Wednesday 19 August, Orzechowski was jailed for five years and
   seven months with an extended period of three years.
 image: https://cdn.jwplayer.com/v2/media/c9pvkRNF/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 ## Showing now | News

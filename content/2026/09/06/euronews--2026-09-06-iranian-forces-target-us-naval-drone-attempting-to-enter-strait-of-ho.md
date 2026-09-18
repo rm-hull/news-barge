@@ -9,6 +9,10 @@ description: It comes after the US military announced that it had struck three I
   oil tankers in response to what it said were ballistic missile strikes launched
   by the IRGC against two navy warships.
 image: https://images.euronews.com/articles/stories/09/90/23/92/1200x675_cmsv2_8ce95bd3-180a-51b5-ba64-5d10fac653f9-9902392.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.

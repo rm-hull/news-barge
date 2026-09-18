@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Newcastle restaurant is bringing back a 'really special' historic pottery
   workshop, with pottery classes available for all skill levels,…
 image: https://www.thenorthernecho.co.uk/resources/images/21365034.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: CULLEN WORKS)*

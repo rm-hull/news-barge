@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Heartland virus and Bourbon virus, which are transmitted by lone star
   ticks, have killed at least seven people in the US
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308899267.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308899267.jpg?w=840)

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: California state Sen. Aisha Wahab will serve out the rest of former Rep.
   Eric Swalwell’s term after securing victory
 image: https://static.independent.co.uk/2026/08/21/11/2290518694..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 California state Sen. Aisha Wahab won a special election Thursday to complete former Rep. Eric Swalwell’s term, overcoming millions of dollars in outside spending against her and becoming the first Afghan American elected to Congress.

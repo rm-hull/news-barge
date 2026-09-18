@@ -10,6 +10,10 @@ description: Six months after succeeding his father, Mojtaba Khamenei has made n
   outlets as a film buff familiar with Christopher Nolan, interested in start-ups
   and cognitive science, and diligent about learning English.
 image: https://images.euronews.com/articles/stories/09/91/35/76/1200x675_cmsv2_67773285-3b8b-5ae2-9a7d-e66e834d4991-9913576.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Euronews Persian**

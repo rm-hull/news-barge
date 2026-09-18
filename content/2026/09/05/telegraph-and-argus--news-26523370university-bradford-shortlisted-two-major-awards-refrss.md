@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: THE University of Bradford has been shortlisted for two categories at
   this year’s Times Higher Education (THE) Awards
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412375.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The September 11 attacks 25 years ago left a lasting impact on the United
   States, affecting not just those who lost loved ones but the entire nation
 image: https://static.independent.co.uk/2026/09/07/13/Sept_11_Many_Different_Griefs_84999.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 When the planes crashed and the buildings fell on that sunny September morning 25 years ago, the shock waves of dismay and grief went far past downtown New York City, rural western Pennsylvania and just outside Washington, D.C.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: SPECIALIST teams focused on tackling rape and sexual offences will be
   in place across all police forces in England and Wales by December 2027
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384185.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

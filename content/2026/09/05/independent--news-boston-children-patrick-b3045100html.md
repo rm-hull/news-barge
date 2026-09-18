@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: A hearing later this month could determine the next steps in the murder
   case against Lindsay Clancy
 image: https://static.independent.co.uk/2026/09/05/01/Lindsay_Clancy_Trial_82832.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The trial to decide if Lindsay Clancy was criminally responsible when she strangled her three children in 2023 ended in a mistrial Friday after jurors were unable to reach a consensus after weeks of conflicting testimony about her post-pregnancy mental health and seven days of deliberations.

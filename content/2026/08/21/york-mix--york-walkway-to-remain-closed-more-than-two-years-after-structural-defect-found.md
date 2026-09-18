@@ -8,6 +8,11 @@ scraped_at: '2026-08-21T08:54:09Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/01/ouse-walkway-york-closed-jan-2026-1.webp
+categories:
+- Local
+- York
+- History
+- Society & Culture
 ---
 
 A York walkway is due to stay closed for another six months.

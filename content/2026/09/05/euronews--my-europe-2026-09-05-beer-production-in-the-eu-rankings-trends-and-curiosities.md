@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: 'The latest Eurostat figures show a trend: beer production is slowly
   declining year after year. Germany leads in 2025, closely followed by Spain. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/23/94/1200x675_cmsv2_e4057e89-5742-5324-8a28-de713cfbd4ca-9902394.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The latest Eurostat figures show a trend: beer production is slowly declining year after year. Germany leads in 2025, closely followed by Spain.

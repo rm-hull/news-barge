@@ -10,6 +10,10 @@ description: The blast at a temporary storage site for wartime munitions near th
   A person is killed or wounded by unexploded ordnance every six hours in Syria today,
   according to humanitarian workers.
 image: https://images.euronews.com/articles/stories/09/90/76/68/1200x675_cmsv2_9b1d25fd-203c-5ef2-bba9-bc7a781f9dc1-9907668.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The blast at a temporary storage site for wartime munitions near the town of Sarmada left 11 others injured, with rescue teams still searching for survivors. A person is killed or wounded by unexploded ordnance every six hours in Syria today, according to humanitarian workers.

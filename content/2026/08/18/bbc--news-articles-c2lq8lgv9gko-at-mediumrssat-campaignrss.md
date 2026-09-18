@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Queen Camilla's first remarks about the King's cancer journey are prominent
   across Wednesday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a026/live/8edea4b0-9b54-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The headline on the front page of the Sun reads: "Look at my husband, nothing stopped him."](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4fb4/live/99d8dbc0-9b49-11f1-a291-b542ee92de7c.jpg)

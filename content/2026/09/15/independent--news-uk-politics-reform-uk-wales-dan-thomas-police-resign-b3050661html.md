@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Dan Thomas says he was ‘reported to the police and was released without
   charge’
 image: https://static.independent.co.uk/2026/09/15/15/17/6560308-library.jpeg?trim=31,0,31,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Reform UK’s leader in Wales has stood down after he was arrested on suspicion of assault and controlling or coercive behaviour.

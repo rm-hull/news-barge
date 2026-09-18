@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Outbreak was linked to iceberg lettuce from Taylor Farms, which infected
   12,882 people and led to two deaths
 image: https://i.guim.co.uk/img/media/89bdef85141697cc32398bc845f1a075100327c3/0_1723_3792_3032/master/3792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c48d5b54aeb3ead627843bc00be09590
+categories:
+- UK
+- News & Politics
 ---
 
 The US’s largest recorded multi-state outbreak of sickness caused by the cyclospora parasite has ended, federal health officials announced on Friday.

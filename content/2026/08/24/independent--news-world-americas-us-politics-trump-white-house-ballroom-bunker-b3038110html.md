@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Nuclear-proof underground facility built in response to 9/11 already
   in place to safeguard president, officials argue
 image: https://static.independent.co.uk/2026/08/20/17/2026-08-20T164940Z_846175624_RC2G2NABWAVS_RTRMADP_3_USA-TRUMP-HELIPAD.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s insistence that his $600 million White House ballroom is justified because of the security upgrades it will bring is undermined by the fact that the complex already has a secret bunker, according to former officials.

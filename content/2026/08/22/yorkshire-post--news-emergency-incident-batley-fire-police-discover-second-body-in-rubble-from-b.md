@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Emergency services have tragically discovered a second body amongst the
   rubble of a building fire in Batley, with homicide detectives now investigating.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ3ZTBiNjUzLTZlYWItNDY2MS1hMjY2LTViMGI5ZTAwZTAzMDowYTE3YzdjNi1jNDZiLTRiNzgtYmQwNC02ZmQ5YmM3MDgxOWM=.png?crop=3:2,smart&trim=&width=1038&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Batley fire: police discover second body in rubble as homicide team lead probe

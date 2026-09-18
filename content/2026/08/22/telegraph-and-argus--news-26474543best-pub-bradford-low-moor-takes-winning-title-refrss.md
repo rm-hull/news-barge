@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T12:56:48Z'
 published: '2026-08-22T00:00:00Z'
 description: A pub is celebrating after being named the best in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337169.jpg?type=og-image&xType=0&yType=224
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A PUB is celebrating after being named the best in Bradford.

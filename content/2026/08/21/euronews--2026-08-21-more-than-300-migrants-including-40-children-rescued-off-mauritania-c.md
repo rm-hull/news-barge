@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Thousands of people have for years attempted the perilous Atlantic route
   on overloaded and often dilapidated boats to reach Europe via Spain's Canary Islands.
 image: https://images.euronews.com/articles/stories/09/88/36/69/1200x675_cmsv2_57015ce1-7296-5ccc-9fc0-a5ac31bd700b-9883669.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Thousands of people have for years attempted the perilous Atlantic route on overloaded and often dilapidated boats to reach Europe via Spain's Canary Islands.

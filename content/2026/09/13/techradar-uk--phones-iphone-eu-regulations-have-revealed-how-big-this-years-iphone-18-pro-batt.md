@@ -9,6 +9,8 @@ published: '2026-09-13T00:00:00Z'
 description: Bigger batteries than last year, though there are variations in the modem
   you get depending on where you live.
 image: https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Hands-On](https://cdn.mos.cms.futurecdn.net/NyJLbMZhUHKPaQza65Pb4n.jpg) 

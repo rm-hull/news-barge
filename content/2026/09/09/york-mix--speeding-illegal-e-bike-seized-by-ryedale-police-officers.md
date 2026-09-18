@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:11Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/801670021_1090225307032575_5194703871362481348_n-e1788974045733.jpg
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Ryedale Neighbourhood Policing Team responded to multiple reports of youths riding two Surron e-bikes at extreme speeds on roads in the Pickering area last night (Tuesday 8 September).

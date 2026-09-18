@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T12:42:38Z'
 published: '2026-09-04T00:00:00Z'
 description: 'From: Elisabeth Baker, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIxNTBkNzBiLTZlYjYtNDhlMi04ZmQ0LTUwMmFiMWRhNGEyYzo4NWQzNmEwNi1kYzExLTQ5MTYtOGFlNy03NzVmYTdlNzkzMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
 ---
 
 # What about animal welfare concerns around greyhound racing? - Yorkshire Post Letters

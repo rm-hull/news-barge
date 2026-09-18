@@ -9,6 +9,10 @@ description: A U.S. Coast Guard-operated Gulfstream V jet carrying Homeland Secu
   Secretary Markwayne Mullin safely diverted to Reagan Washington National Airport
   on Wednesday
 image: https://static.independent.co.uk/2026/09/03/11/download..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A U.S. Coast Guard plane carrying Homeland Security Secretary Markwayne Mullin was forced to make an emergency landing at Reagan Washington National Airport on Wednesday after its right engine failed mid-flight.

@@ -10,6 +10,9 @@ description: Trump also claims he’s ‘actually making it much safer’ for So
   by scaling back joint military drills just days after North Korea test-fired ballistic
   missiles
 image: https://i.guim.co.uk/img/media/52559c1e1c5daeeff5af9103bae7999e74139051/565_0_3826_3060/master/3826.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=259a5da5ac9356d76a12007bb585381e
+categories:
+- UK
+- News & Politics
 ---
 
 Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live

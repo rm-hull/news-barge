@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A major family pub restaurant chain has shut its doors for the final
   time today as owner Whitbread presses ahead with a major overhaul of its…
 image: https://www.thenorthernecho.co.uk/resources/images/21162483.jpg?type=og-image&xType=0&yType=131
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Christie Owen & Davies)*

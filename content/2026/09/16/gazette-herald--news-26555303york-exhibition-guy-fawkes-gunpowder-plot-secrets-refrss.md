@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: 'York’s Bar Convent''s new exhibition, The Gunpowder Plot: York’s Untold
   Story, features Guy Fawkes, Catholic history and rare artefacts…'
 image: https://www.gazetteherald.co.uk/resources/images/21462793.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 A new exhibition in York will retell the story of the Gunpowder Plot.

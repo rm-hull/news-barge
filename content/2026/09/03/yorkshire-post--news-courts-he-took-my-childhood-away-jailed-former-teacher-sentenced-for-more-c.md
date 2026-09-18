@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A former teacher already serving 23 years for sexually abusing schoolboys
   has been given a further jail term after two more survivors came forward.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/8/48/keith_lockwood.jpeg?trim=515,0,271,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 # ‘He took my childhood away’: Jailed former teacher sentenced for more child sex offences

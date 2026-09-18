@@ -9,6 +9,12 @@ description: A historic Grade II listed bridge in North Yorkshire has been close
   to all traffic after it was struck by a heavy goods vehicle (HGV) causing significant
   damage to the structure.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Bridge%20damage%201a.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- History
 ---
 
 ![The damaged arch on Middleham Bridge has lost sections of stonework and has also become displaced creating a significant structural risk following a collision involving a heavy goods vehicle.](https://www.northyorks.gov.uk/sites/default/files/2026-09/Bridge%20damage%201a.jpg) 

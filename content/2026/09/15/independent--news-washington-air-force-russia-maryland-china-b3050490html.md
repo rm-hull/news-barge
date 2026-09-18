@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The U.S. has confirmed for the first time that it has deployed weapons
   in space
 image: https://static.independent.co.uk/2026/09/15/13/Space_Weapons_994_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 The United States has confirmed for the first time that it has deployed weapons in space.

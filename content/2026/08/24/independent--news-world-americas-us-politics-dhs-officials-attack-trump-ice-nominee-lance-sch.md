@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Critics inside DHS question the qualifications of former Oklahoma state
   trooper Lance Schroyer
 image: https://static.independent.co.uk/2026/06/27/20/09/Screenshot-2026-06-27-at-4-18-30-PM.png?trim=8,0,8,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Department of Homeland Security officials are reportedly up in arms over President Donald Trump's controversial choice to lead Immigration and Customs Enforcement — as his nomination remains in limbo over the fatal shootings of two American protesters in Minneapolis.

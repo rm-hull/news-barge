@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: North Yorkshire Police has issued a CCTV image of a man they would like
   to speak to following an alleged assault in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmMzlkYmFhLTViYjMtNDczNi1iYjViLTIxMmJlOWRmZDlhMDpiMDM5N2YwNi04MTE2LTQ3YzItYjgyMy04OWEzOTM4MmIwOTc=.jpg?crop=3:2,smart&trim=&width=258&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire Police release CCTV image of man following alleged assault in Harrogate town centre

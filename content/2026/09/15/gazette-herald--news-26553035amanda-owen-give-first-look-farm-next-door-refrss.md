@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Amanda Owen is set to give fans a first look at the latest series of
   her family’s hit TV show.
 image: https://www.gazetteherald.co.uk/resources/images/20424681.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Channel 4)*

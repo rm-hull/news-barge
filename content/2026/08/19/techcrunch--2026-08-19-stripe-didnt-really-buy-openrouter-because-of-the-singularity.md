@@ -9,6 +9,9 @@ description: What does a payments giant want with a startup that routes prompts 
   different AI models? Stripe says it's because of "the singularity" but it's really
   for a far more real and powerful reason.
 image: https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Stripe confirmed on Wednesday that it was buying OpenRouter. While the company didn’t disclose the deal price, sources told the New York Times that it paid $7.5 billion.

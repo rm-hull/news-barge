@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Former West Brom midfielder Quevin Castro dies at the age of 25 after
   collapsing during a match in Portugal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a597/live/92492c30-9e4f-11f1-8871-ff7211da55c9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Quevin Castro playing for West Brom](https://ichef.bbci.co.uk/ace/standard/887/cpsprodpb/a597/live/92492c30-9e4f-11f1-8871-ff7211da55c9.jpg)

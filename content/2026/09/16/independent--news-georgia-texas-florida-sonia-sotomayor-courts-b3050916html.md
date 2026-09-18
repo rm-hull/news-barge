@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A man convicted of killing three people is set to be executed Wednesday
   in Texas
 image: https://static.independent.co.uk/2026/09/16/05/US_Executions_39244.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A man convicted in the shooting deaths of three people is set to be executed Wednesday in Texas. Meanwhile, another execution that was scheduled for the same time in Georgia has been halted by a judge.

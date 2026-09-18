@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The leaders have spoken twice on the phone but have recently been at
   odds over major issues including the Falkland Islands and Northern Ireland
 image: https://static.independent.co.uk/2026/07/19/15/39/Burnham-Trump-split.png?trim=0,108,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Andy Burnham is expected to meet Donald Trump face-to-face for the first time since entering No 10 in New York next week.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Torrential downpours washed out popular hiking trails and left the historic
   Phantom Ranch Lodge cabins under five feet of water
 image: https://static.independent.co.uk/2026/08/31/17/2026-08-31T152512Z_1909896766_RC2R9NASAI9Y_RTRMADP_3_USA-FLOODS-GRAND-CANYON.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Outdoors & Nature
 ---
 
 At least two people are dead and 15 others still missing in Arizona’s Grand Canyon National Park after flash flooding from a storm that dropped nearly an inch of rain per hour this weekend.

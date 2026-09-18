@@ -10,6 +10,10 @@ description: Lindsay Clancy’s defense argues she killed her three kids because
   postpartum psychosis. But armchair detectives, including many fed-up mothers, are
   laying blame with her ex-husband.
 image: https://media.wired.com/photos/6a7e03f989f89b7e89310fc9/191:100/w_1280,c_limit/Clancy-Murder-Case-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Family & Parenting
 ---
 
 For many watching Lindsay Clancy’s murder trial, the primary takeaway has been how the deaths of her three small children—Cora, 5; Dawson, 3; and Callen, eight months—were tragically preventable.

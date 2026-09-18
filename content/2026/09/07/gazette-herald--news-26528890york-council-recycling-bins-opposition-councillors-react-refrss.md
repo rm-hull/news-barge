@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Moves to ditch recycling boxes and replace them with bins in York could
   prove difficult for some households, an opposition councillor has said.
 image: https://www.gazetteherald.co.uk/resources/images/20503955.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 MOVES to ditch recycling boxes and replace them with bins in York could prove difficult for some households, an opposition councillor has said.

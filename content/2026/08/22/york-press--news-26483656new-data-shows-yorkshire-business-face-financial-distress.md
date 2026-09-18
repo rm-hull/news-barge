@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Nearly 3,700 companies in Yorkshire are now in 'critical' financial distress,
   according to new research from BTG.
 image: https://www.yorkpress.co.uk/resources/images/20478417.jpg?type=og-image&xType=0&yType=277
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: BTG)*

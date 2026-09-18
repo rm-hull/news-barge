@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: President Donald Trump wants to transform East Potomac Park's golf course
   in Washington, D.C., into a world-class venue
 image: https://static.independent.co.uk/2026/09/05/12/APTOPIX_East_Potomac_Park_Golf_Course_98353.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A pack of cyclists whisked by along the circuit at East Potomac Park while the golf course parking lot filled with luxury SUVs parked next to older, inexpensive economy cars, all with the Washington Monument in the background.

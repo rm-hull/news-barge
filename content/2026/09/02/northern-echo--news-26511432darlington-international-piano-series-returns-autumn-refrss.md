@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Darlington Piano Society's 2026-27 International Piano Series is set
   to begin on Sunday, October 4.
 image: https://www.thenorthernecho.co.uk/resources/images/21395790.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Darlington Piano Society)*

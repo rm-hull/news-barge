@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A UN official has confirmed over 2,500 people have died during the Ebola
   epidemic
 image: https://static.independent.co.uk/2026/08/21/12/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Ebola outbreak in the Democratic Republic of Congo has claimed more than 2,500 lives and is expanding exponentially across a region larger than France, a senior official has warned.

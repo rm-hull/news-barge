@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Mayor David Skaith says improving buses and transport links is vital
   as York and North Yorkshire prepares a long-term transport plan.
 image: https://www.yorkpress.co.uk/resources/images/20285390.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *Regional mayor DAVID SKAITH wants your views on York and North Yorkshire transport plan*

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Before-and-after images show villages, bridges and a key Nepal-Tibet
   border crossing washed away by devastating floodwaters.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787d/live/19ed92c0-a305-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Tracing the deadly path of the Nepal-Tibet flash flood

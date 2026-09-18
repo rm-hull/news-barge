@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Khamenei has not been seen in public since being injured in US-Israeli
   airstrikes six months ago
 image: https://static.independent.co.uk/2026/08/28/14/2026-08-13T160901Z_117769817_RC2PXMAS2RQ3_RTRMADP_3_IRAN-CRISIS-TRUMP-AIRPLANES.JPG?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Iran’s Supreme Leader Mojtaba Khamenei has urged Muslim nations, particularly those in the Gulf, to unite against their "real enemy", warning that divisions among Muslims serve the interests of their adversaries.

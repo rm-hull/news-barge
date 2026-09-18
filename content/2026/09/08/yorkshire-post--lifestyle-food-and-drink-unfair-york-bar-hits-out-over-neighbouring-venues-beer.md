@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Yorkshire bar has branded opposition from a neighbouring venue to its
   plans for a beer garden unfair.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiMTkzYzVlLTNhN2MtNGIxZi1iOTc1LTc2NWZlZGFiMTYwNzo3NmEyYWZiNy01OTBlLTRkMWEtYTIyYi1mNWRjMTQwYzA4NTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'Unfair' - York bar hits out over neighbouring venue's beer garden opposition as plans approved

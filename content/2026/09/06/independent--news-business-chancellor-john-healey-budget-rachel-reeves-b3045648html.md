@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: The Chancellor will set out how an ‘active state’ will seek to boost
   investment across Britain.
 image: https://static.independent.co.uk/2026/09/07/00/8ebaa2780e05b4303b3be9dcf3f8aa8bY29udGVudHNlYXJjaGFwaSwxNzg4Nzk2MDQ4-2.85373993.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Chancellor will unveil a £150 million fund for fast-growing northern firms as he sets out plans to grow the economy through an “active” state.

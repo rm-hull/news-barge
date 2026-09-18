@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:54Z'
 published: '2026-08-19T00:00:00Z'
 description: Why IT change visibility matters
 image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

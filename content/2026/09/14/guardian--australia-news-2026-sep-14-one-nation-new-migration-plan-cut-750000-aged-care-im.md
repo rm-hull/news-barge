@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: New immigration policy has attracted bipartisan condemnation, with Labor
   warning it would damage construction, healthcare and agriculture
 image: https://i.guim.co.uk/img/media/ab2acbb6cc5eb09159166ba7e3f5073621a93fcb/833_0_5825_4660/master/5825.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fdea25fd6a71348499987a3fd8a32aa8
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 One Nation says it will cut the number of temporary migrants in Australia by more than 750,000 over three years, targeting international students and family members of skilled migrants in a “net-negative” plan.

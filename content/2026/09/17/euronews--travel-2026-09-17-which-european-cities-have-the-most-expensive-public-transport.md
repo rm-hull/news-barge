@@ -9,6 +9,10 @@ description: A new Greenpeace study has found that fares have risen in 14 Europe
   capitals since 2023, with some cities seeing prices climb by more than 50% – although
   public transport has become cheaper in four others.
 image: https://images.euronews.com/articles/stories/09/91/43/40/1200x675_cmsv2_afc2ce8c-1fd3-556d-8027-55c3b0c702d6-9914340.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## A new Greenpeace study has found that fares have risen in 14 European capitals since 2023, with some cities seeing prices climb by more than 50% – although public transport has become cheaper in four others.

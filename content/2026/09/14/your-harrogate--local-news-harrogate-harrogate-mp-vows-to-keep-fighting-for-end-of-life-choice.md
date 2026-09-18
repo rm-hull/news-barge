@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has vowed to continue campaigning
   for dignity and choice at the end of life.
 image: https://mmo.aiircdn.com/409/681f78c66f1e0.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/681f78c66f1e0.jpg) 

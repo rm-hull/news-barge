@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T16:08:46Z'
 published: '2026-08-31T00:00:00Z'
 description: Investigations into the deadly shooting are ongoing, police confirm
 image: https://static.independent.co.uk/2026/08/31/12/Switzerland_Shooting_52996.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Swiss police have confirmed they arrested a 43-year-old suspect in relation to a deadly shooting incident at a rave in Aarau.

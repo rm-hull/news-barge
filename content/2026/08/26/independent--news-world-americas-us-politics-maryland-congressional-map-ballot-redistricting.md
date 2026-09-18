@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The state lodged a notice of appeal with the Maryland Supreme Court shortly
   after the verdict was delivered
 image: https://static.independent.co.uk/2026/08/26/22/2288380651..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Maryland state court has struck down a proposed constitutional amendment designed to give Democrats the scope to redraw the state’s congressional map ahead of the 2028 elections.

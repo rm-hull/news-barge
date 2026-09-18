@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Unions say ban will take time to enact, while president also wants under-15s
   social media ban as key legacy
 image: https://i.guim.co.uk/img/media/2b45e35f57c1c7611d9de95356a6647c2f642238/325_0_3028_2423/master/3028.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ffd69b6718512b2f2ff4fe0eb14bdda0
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 French high schools are rushing to put in place a ban on mobile phones this week as Emmanuel Macron pushes for children to spend less time in front of screens.

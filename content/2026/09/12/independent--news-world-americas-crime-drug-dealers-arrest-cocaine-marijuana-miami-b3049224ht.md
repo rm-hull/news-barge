@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: Both men are Cuban nationals and are being detained on immigration holds,
   according to jail records
 image: https://static.the-independent.com/2026/09/12/21/53/Screenshot-2026-09-12-at-5-18-01-PM.png?trim=0,29,0,29&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Miami drug bust at a house filled with cocaine, marijuana, and guns ended with two senior citizens facing charges for drug dealing.

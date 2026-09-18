@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Workers face huge pension shortfalls, with some £312,000 behind their
   retirement target. Experts reveal five ways to boost your pension pot.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368446.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

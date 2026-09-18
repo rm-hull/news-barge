@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Data analysts CricViz answer your questions on successful reviews, hat-tricks,
   Joe Root and more.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5ae/live/d6f75ff0-a075-11f1-bf10-9547e884d7b7.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Stuart Broad appeals for Tom Latham's wicket](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f5ae/live/d6f75ff0-a075-11f1-bf10-9547e884d7b7.jpg)

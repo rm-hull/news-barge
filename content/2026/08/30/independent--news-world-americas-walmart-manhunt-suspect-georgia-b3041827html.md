@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Social media users questioned ‘what happened to finder’s keepers’ after
   police posted about the theft online
 image: https://static.independent.co.uk/2026/08/30/15/31/AlbanyPDGA.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- True Crime
 ---
 
 A man who seemingly thought he lucked out after finding $30 on the ground at a Georgia Walmart instead became the subject of a police manhunt after pocketing the cash.

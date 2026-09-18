@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Two men have been given “words of advice” after a fight in Walmgate,
   York, police said.
 image: https://www.gazetteherald.co.uk/resources/images/21406279.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

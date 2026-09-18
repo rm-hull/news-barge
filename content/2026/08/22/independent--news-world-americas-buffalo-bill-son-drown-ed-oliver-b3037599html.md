@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: ‘It's an unthinkable tragedy for any parent,’ the NFL team’s general
   manager, Brandon Beane, says in a statement
 image: https://static.independent.co.uk/2026/08/22/18/2287510700..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 The Buffalo Bills have confirmed the death of defensive tackle Ed Oliver's two-year-old son, who reportedly drowned in a swimming pool at the family's Texas home earlier this summer.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T20:43:06Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/police-pic-york-races-assault-22-aug-2026.webp
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
 ---
 
 A police officer was assaulted shortly after the end of York Races on Saturday.

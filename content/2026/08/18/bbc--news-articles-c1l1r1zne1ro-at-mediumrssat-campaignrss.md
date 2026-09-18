@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Children's lung capacity caught up with their peers in less polluted
   areas once a clean air zone came in, a study shows.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![Young child with brown hair, blowing air into plastic measuring device. She wears a red ribbon and red cardigan and a white shirt, She is in school, sitting on a green chair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg)

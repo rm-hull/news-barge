@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A man was injured by a BMW which was driven into him in Keighley on Sunday
   night.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkyYTM0ZmUzLWRhZDUtNDI3Yi05NTkxLWU4MGVhMWY4YTNmZTpmYjljM2M3NC0wMTJkLTQwNzctYWEzYi1kMGNlMzAyYTJlZTY=.jpg?crop=3:2,smart&trim=&width=862&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Hunt for BMW driver who assaulted man and then drove car at him in Keighley

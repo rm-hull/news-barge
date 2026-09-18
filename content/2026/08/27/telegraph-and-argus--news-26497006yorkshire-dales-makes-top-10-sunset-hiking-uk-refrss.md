@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: THE Yorkshire Dales has been named one of the UK’s top destinations for
   sunset hikes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12856171.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Thomas Beresford)*

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Harrogate Convention Centre has secured a major international medical
   conference expected to boost the local economy by more than £600,000.
 image: https://mmo.aiircdn.com/409/69b1183c53b1e.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/69b1183c53b1e.jpg) 

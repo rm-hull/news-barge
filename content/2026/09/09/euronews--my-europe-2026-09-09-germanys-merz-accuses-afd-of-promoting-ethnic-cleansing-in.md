@@ -9,6 +9,9 @@ description: 'The AfD, which fell three seats short of an absolute majority, in 
   elections in Saxony-Anhalt said it was now in talks with other groups and MPs in
   an effort to form a state government. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/71/39/1200x675_cmsv2_fc8fa911-2dfe-5776-a668-7bb636e90a37-9907139.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The AfD, which fell three seats short of an absolute majority, in state elections in Saxony-Anhalt said it was now in talks with other groups and MPs in an effort to form a state government.

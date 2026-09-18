@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Fragmented infrastructure and reliance on US continue to hinder ‘defence
   readiness’, says European court of auditors
 image: https://i.guim.co.uk/img/media/3687b0dcb945ef4e931bf862da36b3409ac9e77e/864_0_5808_4648/master/5808.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a745c0d588e6f2c5d1d98eb70df9a68
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The EU’s ability to respond to a foreign invasion by 2030 remains in doubt due to a continuing reliance on the US and fragmented national defence systems, according to a report from its official auditor.

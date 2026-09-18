@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: York's Sharmini’s Inspirational Indian Cuisine Cookery School has been
   named a Nation’s Favourite Business as founder announces online…
 image: https://www.gazetteherald.co.uk/resources/images/21426013.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Submitted)*

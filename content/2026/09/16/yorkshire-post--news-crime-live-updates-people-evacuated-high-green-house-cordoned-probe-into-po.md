@@ -9,6 +9,13 @@ description: Dozens of evacuated residents continue to be affected by an ongoing
   in the High Green area of Sheffield, centred around an investigation into potentially
   explosive substances.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/13/23/High-Green-incident.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 # LIVE: updates on evacuation in Yorkshire as police and council issue statement

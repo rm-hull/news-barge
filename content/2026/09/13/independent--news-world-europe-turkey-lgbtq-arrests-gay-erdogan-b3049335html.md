@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The Turkish government has been accused increasingly targeting the LGBTQ+
   community in recent years
 image: https://static.independent.co.uk/2026/09/13/11/2283129677..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 Authorities in Turkey have detained 26 people and searched the offices of six LGBTQ+ associations in a series of raids. prosecutors said.

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Plans for more than 1,000 homes, a hotel, offices, shops, a park and
   leisure spaces for a major York regeneration scheme are set for a decision.
 image: https://www.gazetteherald.co.uk/resources/images/21406161.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The Assize of Ale and Bread tradition will return to York later this
   month.
 image: https://www.gazetteherald.co.uk/resources/images/21421043.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 The Assize of Ale and Bread tradition will return to York on Saturday, September 26, 2026.

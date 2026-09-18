@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Sharangan Maheswaran denies message he received about NSW minister was
   related to work for fugitive property developer
 image: https://i.guim.co.uk/img/media/94350aafd8dfa44ccfd4bc9c24430e79f862f00b/417_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a89d70eef9ec9338467cbdd92db7160
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A former Labor councillor says he had a “common interest” with a conservative Liberal operative, but denied that a message he received about damaging the reputation of NSW Liberal minister David Elliott was related to political work for a fugitive property developer, an inquiry has heard.

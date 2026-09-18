@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Archaeologists working beside Scotch Corner uncovered a huge Roman settlement,
   rare treasures and evidence of ancient coin production near the A1(M).
 image: https://www.yorkpress.co.uk/resources/images/4401501.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Science
 ---
 
 ## Huge Roman settlement uncovered by archaeologists at famous A1 junction

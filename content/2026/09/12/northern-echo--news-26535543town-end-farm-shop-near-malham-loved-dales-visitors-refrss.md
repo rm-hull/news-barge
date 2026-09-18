@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Town End Farm Shop near Malham has won over walkers and cyclists with
   huge breakfasts, homemade food and spectacular views towards Malham Cove.
 image: https://www.thenorthernecho.co.uk/resources/images/21430544.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

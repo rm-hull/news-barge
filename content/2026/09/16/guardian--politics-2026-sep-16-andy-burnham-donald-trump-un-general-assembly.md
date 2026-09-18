@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Andy Burnham will attend UN general assembly, where he is expected to
   try to drum up more support for Ukraine
 image: https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd10974ec14e63c08cf61bd9fff0f243
+categories:
+- UK
+- News & Politics
 ---
 
 Andy Burnham is expected to meet Donald Trump for the first time in person at the UN general assembly next week in New York.

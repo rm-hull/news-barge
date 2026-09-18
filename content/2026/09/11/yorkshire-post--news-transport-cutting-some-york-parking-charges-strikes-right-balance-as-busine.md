@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Cuts to some York parking charges have been approved following a backlash
   which prompted a review into hikes brought in last year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZmZWExYWRkLWFhZDctNDYxYS05NDg2LWI1ZWNjNWU3NDkwYjoyNmQ0NWU0YS05MjZhLTRlNDgtYTQ1MC0wMWMyOTliOWUwNDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Cutting some York parking charges 'strikes right balance' as businesses slam 'over-zealous' hikes

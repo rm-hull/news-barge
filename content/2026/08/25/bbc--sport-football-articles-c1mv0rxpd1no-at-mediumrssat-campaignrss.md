@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Manchester United sign Cameroon midfielder Carlos Baleba from Brighton
   in a £70m deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9550/live/37514d90-a0a1-11f1-84a9-276d1a8e5a22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Carlos Baleba pictured smiling in a Manchester United shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9550/live/37514d90-a0a1-11f1-84a9-276d1a8e5a22.jpg)

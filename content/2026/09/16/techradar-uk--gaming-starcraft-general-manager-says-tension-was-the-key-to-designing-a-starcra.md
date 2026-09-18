@@ -11,6 +11,8 @@ description: StarCraft general manager and creative director Dan Hay has explain
   the process of designing a new game in first-person, revealing that "tension" was
   crucial.
 image: https://cdn.mos.cms.futurecdn.net/x47xXao6zoUBoaKUYVruYd-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/x47xXao6zoUBoaKUYVruYd.jpg) 

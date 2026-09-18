@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A replica of the historic Kirkdale sundial, crafted by York Minster’s
   team, has been unveiled by King Charles III and President Emmanuel Macron.
 image: https://www.gazetteherald.co.uk/resources/images/21405931.jpg?type=og-image&xType=0&yType=209
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: York Minster)*

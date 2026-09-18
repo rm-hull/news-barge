@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Roads and footpaths on Burn Park Road in Houghton-le-Spring are set to
   close for up to six months while cable installation works are carried out
 image: https://www.thenorthernecho.co.uk/resources/images/19155903.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Newsquest)*

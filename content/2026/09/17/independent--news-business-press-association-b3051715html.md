@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Drax group chief executive Will Gardiner said strong recent trading continued
   into the second half of 2026.
 image: https://static.independent.co.uk/2026/09/17/09/12409ded674c87917d070afb32158910Y29udGVudHNlYXJjaGFwaSwxNzg5NzE4NDQx-2.18425539.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Power generation firm Drax has lifted its profit outlook for the year after demand was boosted by the summer heatwave.

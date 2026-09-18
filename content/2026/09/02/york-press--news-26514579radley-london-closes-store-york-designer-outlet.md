@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Radley London- a luxury retailer of handbags loved by celebrities including
   Pippa Middleton and Paloma Faith- has closed its branch at the York…
 image: https://www.yorkpress.co.uk/resources/images/21400330.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Luxury retailer loved by Pippa Middleton and Paloma Faith closes York store

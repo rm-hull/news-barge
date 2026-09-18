@@ -8,6 +8,11 @@ scraped_at: '2026-09-02T19:22:07Z'
 published: '2026-09-02T00:00:00Z'
 description: A man has been found dead after being reported missing over the weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/14462773.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NEWSQUEST)*

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Concerns about the quality of recent highway works in two North Yorkshire
   towns have been raised by a local councillor.
 image: https://www.gazetteherald.co.uk/resources/images/21452497.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Keane Duncan)*

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The prediction that this season’s El Nino will be stronger than normal
   has alarmed the Ecuadorian scientific community
 image: https://static.independent.co.uk/2026/09/09/22/Ecuador_El_Nino_Galapagos_8_658.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The prediction that this season’s El Nino phenomenon will be stronger than normal has alarmed the Ecuadorian scientific community, which has warned of its impact on the flora and fauna of the Galapagos Islands, home to the highest concentration of species not found elsewhere on Earth.

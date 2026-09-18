@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Fiscal devolution is a significant piece of the jigsaw puzzle if the
   shift in power to communities is going to be successful.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFkMDRlYzJmLWQzMTMtNGJlOC05NWU3LWE1ZjZlNmM3ZDIyNjo0MTg4ZjA1OS1lOTNlLTQ4YzEtYTE2MC1lNDA1ZjQwMzdlODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Fiscal devolution is a key piece of the economic puzzle but must fit in the right place

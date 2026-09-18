@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Former officials say a rushed process to recruit and train thousands
   of new agents endangered the public
 image: https://static.independent.co.uk/2026/09/01/19/2287296637..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An anonymous Immigration and Customs Enforcement official in charge of evaluating new recruits has warned that the Trump administration’s fast-tracked hiring process exposed the U.S. to “grave national security risks.”

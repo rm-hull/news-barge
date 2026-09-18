@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Residents at a Saltburn care home are going the extra mile to help people
   thousands of miles away who lack access to clean water and safe sanitation.
 image: https://www.thenorthernecho.co.uk/resources/images/21348916.jpg?type=og-image&xType=0&yType=152
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Lifestyle & Fashion
 ---
 
 Residents at a North Yorkshire care home are going the extra mile to help people thousands of miles away who lack access to clean water and safe sanitation.

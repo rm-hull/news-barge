@@ -10,6 +10,10 @@ published: '2026-09-04T00:00:00Z'
 description: If the allegations hold, the move was geopolitcs-scale plan worthy of
   Dr. Evil himself.
 image: https://cdn.mos.cms.futurecdn.net/kZ6DksKsTnL5JWKit4UwyV-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![CXMT Chip](https://cdn.mos.cms.futurecdn.net/kZ6DksKsTnL5JWKit4UwyV.jpg) 

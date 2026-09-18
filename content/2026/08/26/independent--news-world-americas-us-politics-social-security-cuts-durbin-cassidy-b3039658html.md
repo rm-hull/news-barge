@@ -9,6 +9,10 @@ description: Democrat Dick Durbin and Republican Bill Cassidy are spending their
   months as senators attempting to protect tens of millions of Social Security beneficiaries
   from a projected 22% cut starting in six years
 image: https://static.independent.co.uk/2026/08/26/13/25/GettyImages-1346574898.jpeg?trim=0,29,0,29&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Democrat Dick Durbin and Republican Bill Cassidy are spending their final months as senators attempting to protect tens of millions of Social Security beneficiaries from a projected 22% cut starting in six years.

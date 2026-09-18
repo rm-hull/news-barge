@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Growing interest in African languages is creating new business opportunities
   as people in the diaspora seek to connect with their relatives and roots
 image: https://static.independent.co.uk/2026/09/06/02/African_Languages_5799_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A television game show in Nigeria’s commercial hub of Lagos has an unforgiving rule: Speak English and you lose. For a U.S.-born millennial in the audience and a student of her parents' mother tongue, the high-stakes setting is a perfect classroom.

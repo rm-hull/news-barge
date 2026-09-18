@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T01:49:23Z'
 published: '2026-08-18T00:00:00Z'
 description: Major rail disruption is expected until the end of the day
 image: https://static.independent.co.uk/2026/08/18/23/01M0BCHDZV62Y570Q0RH6FZAYW.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A fire near railway lines in London has resulted in cancelled services as around 100 firefighters tackle the blaze.

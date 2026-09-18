@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: In an era when reputations can be made or broken with a single post,
   getting the balance right is tricky.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ed6/live/18b0d390-9bdf-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Matt Chorley](https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1662/live/d5ec8760-9bda-11f1-b109-879e35c24276.png)

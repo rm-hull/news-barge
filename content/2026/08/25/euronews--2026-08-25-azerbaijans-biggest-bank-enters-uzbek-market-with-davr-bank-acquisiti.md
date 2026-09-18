@@ -9,6 +9,11 @@ description: Azerbaijan's largest financial institution, the International Bank 
   Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling
   stake in Uzbekistan's Davr Bank in a deal valued at $150 million (€128.5m).
 image: https://images.euronews.com/articles/stories/09/88/77/45/1200x675_cmsv2_5096e261-da93-5d15-a91c-412ab0abc525-9887745.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at $150 million (€128.5m).

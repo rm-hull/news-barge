@@ -9,6 +9,11 @@ description: Calls are growing louder in Europe for action against "pervert" sma
   glasses after secretly filmed footage of girls and women appeared online -- with
   a petition in Britain demanding a ban on their sale.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20230927__33WV8UB__v2__MidRes__UsInternetAdvertisingMeta.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 Anyone wearing smart glasses can take photos, film videos, listen to music, make phone calls, translate text or interact with an AI assistant, with sales now hitting the millions.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Oxford United apologises for the image, which features the call sign
   of one of the planes used in the 9/11 attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Female model wearing a yellow and blue shirt with "United 93" on the back](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg)

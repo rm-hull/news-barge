@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Mercedes' Kimi Antonelli heads McLaren's Lando Norris in practice at
   the Dutch Grand Prix at Zandvoort.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/26dc/live/f9230980-9d55-11f1-aac2-870643eea2ac.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Kimi Antonelli on track at Zandvoort](https://ichef.bbci.co.uk/ace/standard/965/cpsprodpb/26dc/live/f9230980-9d55-11f1-aac2-870643eea2ac.jpg)

@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:48:59Z'
 published: '2026-09-03T00:00:00Z'
 description: 'From: Peter Auty, Great Hatfield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE0MDBlY2U2LTJiNzYtNDVhMS05MzE1LWI0MzNkNTY0Mjk2MTphMzZjNjdiZC0yZTBiLTQ0ZDUtYTk3Yi00Mzc2NzVmNDVmMTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Is the sanitary and phytosanitary agreement with the EU a good deal? - Yorkshire Post Letters

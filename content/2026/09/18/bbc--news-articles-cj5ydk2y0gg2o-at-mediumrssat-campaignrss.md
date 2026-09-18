@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The field in Buffalo was decked out with the flags of both countries,
   as tensions simmer and a trade war escalates.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/088b/live/dc7b2e60-b372-11f1-9023-9990160baacc.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 Watch: In a border city stadium, American NFL fans sing Canada’s anthem with gusto

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Podcaster suggests bright future of post-human leadership as debate continues
   to rage over the development of artificial intelligence
 image: https://static.independent.co.uk/2026/09/16/11/54/Joe-Rogan.png?trim=0,233,0,232&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 Podcaster Joe Rogan has offered his own take on the debate over artificial intelligence, saying he looks forward to the technology replacing humans in government and bringing an end to all wars.

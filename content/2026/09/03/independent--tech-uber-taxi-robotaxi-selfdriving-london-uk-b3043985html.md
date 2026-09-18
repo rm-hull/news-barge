@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: European streets pose a particular challenge to autonomous vehicles,
   and regulators have been much slower than in the US to approve them
 image: https://static.the-independent.com/2026/09/03/8/37/WAYVE_CN_6B0501-2-2048x1365.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Automotive
+- Business & Entrepreneurship
 ---
 
 Uber’s taxis are now driving themselves around London’s streets.

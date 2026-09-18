@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:40:52Z'
 published: '2026-09-15T00:00:00Z'
 description: It's Google’s largest European investment to date
 image: https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ-1920-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Nuclear Power Plant](https://cdn.mos.cms.futurecdn.net/tHmeSzeFHMpEMVM3KENNUQ.png) 

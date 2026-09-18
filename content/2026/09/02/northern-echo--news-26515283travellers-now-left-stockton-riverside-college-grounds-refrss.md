@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Travellers who camped at Stockton Riverside College as students returned
   for the new term have now left, officials have confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/21395729.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Travellers who camped at a North East college as students returned for the new term have now left.

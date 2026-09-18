@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Charities warn proposed DWP changes to health-related Universal Credit
   for under-22s could push thousands of young people into poverty.
 image: https://www.gazetteherald.co.uk/resources/images/21377280.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Robert Perry)*

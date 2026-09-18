@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: New York's prestigious-yet-secretive venture firm Thrive Capital finally
   speaks out about its involvement in the messy drama upending international soccer.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Josh-Kushner.jpg?resize=1200,817
+categories:
+- Business & Entrepreneurship
 ---
 
 New York’s prestigious-yet-secretive venture firm Thrive Capital has been hauled into the center of a messy drama that could result in criminal charges against Gianni Infantino, the controversial president of global soccer organization FIFA.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:25Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/York-minster-centre-for-excellence-c-mike-tonkin.webp
+categories:
+- Local
+- York
+- Music
 ---
 
 York Minster will offer a behind-the-scenes glimpse into its world-renowned conservation work – as it opens its doors to their Centre for Excellence.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The 101 Dalmatians Zip Purse, sold in Primark stores across the UK between
   March and June 2026, has been found to contain unsafe levels of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437955.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

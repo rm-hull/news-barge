@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The extraordinary scenes when Hollywood star Johnny Depp arrived in York
   and sent the city into a fan frenzy.
 image: https://www.yorkpress.co.uk/resources/images/21324789.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ## The time Hollywood star Johnny Depp causes a fan frenzy in York

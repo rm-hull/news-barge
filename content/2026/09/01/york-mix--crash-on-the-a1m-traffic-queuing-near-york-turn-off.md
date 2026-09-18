@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: There's congestion on on the A1(M) Northbound from J44 A64 (York / Tadcaster)
   to J45 A659 Wattlesyke after a crash
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/queuing-traffic-a1m-north-yorkshire-19-sept-2025-webcam-2.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A crash on the A1M is causing slow traffic this morning (Tuesday).

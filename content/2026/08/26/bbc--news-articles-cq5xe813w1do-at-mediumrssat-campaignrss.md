@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:11:57Z'
 published: '2026-08-26T00:00:00Z'
 description: Craig Guildford, three police officers and a staff member face IOPC investigation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/020d/live/fd0a59e0-a147-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Mounted police officers wearing high-vis jackets over uniform stand outside Aston Villa Football ground. Behind them many other officers wearing bright yellow jackets can be seen](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/020d/live/fd0a59e0-a147-11f1-9311-09d4e1fc9016.jpg)

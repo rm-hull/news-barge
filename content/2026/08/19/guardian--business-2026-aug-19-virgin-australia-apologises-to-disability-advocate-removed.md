@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Shane Hryhorec’s viral video showing the interaction with flight staff
   has already garnered 16 million views
 image: https://i.guim.co.uk/img/media/44efdd6009bf0c6c5f4b25013d4e8cbbe8b49ad5/0_387_1215_971/master/1215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=317a1a9150a3ce00cf888e66df7176d9
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Virgin Australia has apologised to a disability advocate who said he was “humiliated” by his removal from a flight over his wheelchair motor.

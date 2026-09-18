@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A dispersal order has been enforced after a black Jaguar was rammed into
   multiple properties which are believed to be linked.
 image: https://www.thenorthernecho.co.uk/resources/images/19948927.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NEWSQUEST)*

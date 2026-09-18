@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: High pressure over the UK next week will bring a break from the wet and
   windy weather so far this month.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/ba8a/live/2fab1210-b2f8-11f1-870c-cd28519f9c5b.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A woman walks her dogs through parched fields. There is a pond with low water level in the background and some buildings. The woman has short grey hair and  is wearing white shorts and a white blouse and has three small dogs.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/ba8a/live/2fab1210-b2f8-11f1-870c-cd28519f9c5b.jpg)

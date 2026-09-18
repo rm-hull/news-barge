@@ -9,6 +9,13 @@ published: '2026-09-18T00:00:00Z'
 description: More than 100 workers at a Stanley factory will go without pay after
   being told the company has filed for administration.
 image: https://www.thenorthernecho.co.uk/resources/images/21472796.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: GOOGLE)*

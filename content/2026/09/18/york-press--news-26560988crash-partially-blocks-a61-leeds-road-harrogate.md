@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Drivers are being warned of a crash which has partially blocked the A61
   Leeds Road in Harrogate.
 image: https://www.yorkpress.co.uk/resources/images/19250893.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

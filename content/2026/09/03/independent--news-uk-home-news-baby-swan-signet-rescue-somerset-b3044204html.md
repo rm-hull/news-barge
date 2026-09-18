@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:16:45Z'
 published: '2026-09-03T00:00:00Z'
 description: The wildlife charity described the swan rescue as an ‘exceptional situation’
 image: https://static.independent.co.uk/2026/09/03/14/27/cygnets2-a6548b6f.jpeg?trim=0,0,455,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Eight baby swans were rescued using IKEA bags after being found on a road in Somerset.

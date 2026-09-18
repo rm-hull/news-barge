@@ -8,6 +8,8 @@ scraped_at: '2026-09-12T22:12:56Z'
 published: '2026-09-12T00:00:00Z'
 description: Rides like a bike, safety tech of a car
 image: https://cdn.mos.cms.futurecdn.net/Cvt8R44Egy3uvj5dcjrpVC-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![Hamish riding on the Volkswagen e-bike at IFA 2026](https://cdn.mos.cms.futurecdn.net/Cvt8R44Egy3uvj5dcjrpVC.png) 

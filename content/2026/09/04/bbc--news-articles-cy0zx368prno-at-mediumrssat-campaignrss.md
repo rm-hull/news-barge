@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: More than 10% of Nepal's energy generation capacity was knocked out by
   last week's floods.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A buzzing hive of activity with shops and vehicles lit-up at an intersection in Kathmandu, the capital of Nepal](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b62c/live/8fac6600-a87b-11f1-824a-0fc4c5d895ae.jpg)

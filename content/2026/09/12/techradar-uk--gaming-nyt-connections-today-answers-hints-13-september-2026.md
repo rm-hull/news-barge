@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: My clues will help you solve the NYT's Connections puzzle today and keep
   that streak going
 image: https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk-1920-80.jpg
+categories:
+- Technology & Software
+- Relationships & Dating
 ---
 
 ![NYT Connections homescreen on a phone, on a purple background](https://cdn.mos.cms.futurecdn.net/RCGfdf3yhQ9W3MHbTRT6yk.jpg) 

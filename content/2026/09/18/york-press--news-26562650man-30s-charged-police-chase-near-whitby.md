@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A man in his 30s has been charged with a string of motoring offences
   after his arrest following a police chase along the A171 to Whitby.
 image: https://www.yorkpress.co.uk/resources/images/19126184.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 ## Man in his 30s charged after dramatic police chase in North Yorkshire

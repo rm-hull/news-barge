@@ -10,6 +10,10 @@ description: Video. "I would like to work with you on opening the door for Canad
   minister, who was attending her annual keynote speech -- drawing a standing ovation
   in the chamber.
 image: https://images.euronews.com/articles/stories/09/91/61/38/1200x675_cmsv2_5d24af12-a137-504e-8e9d-86a39442d05e-9916138.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Canadian Prime Minister Mark Carney received a standing ovation at the European Parliament in Strasbourg on Wednesday.

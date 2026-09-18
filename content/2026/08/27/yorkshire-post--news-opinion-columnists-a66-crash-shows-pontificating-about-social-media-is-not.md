@@ -11,6 +11,13 @@ description: The horrific death of seven people on the A66 in Cleveland makes sa
   under 16, covering TikTok, Snapchat, Instagram, Facebook, YouTube and X, by spring
   2027 - many cynics wondered just how enforceable this might be.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYyNjExYTg5LWQxNTUtNGY3Yi1iOTVmLWYxMjdjMWU2Yjc2ZjozNDYyNjE1Yi1hYjQ2LTQxZGEtOGY0Ny0xMTRmNTI0OTc3OGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
+- Technology & Software
 ---
 
 # A66 crash shows pontificating about social media is not enough - Jayne Dowle

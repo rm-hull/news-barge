@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A bike was stolen from outside a York city centre gallery in the dead
   of night
 image: https://www.gazetteherald.co.uk/resources/images/21374255.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

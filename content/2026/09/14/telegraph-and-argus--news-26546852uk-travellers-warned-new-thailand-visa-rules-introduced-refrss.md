@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: British tourists will face shorter trips to Thailand under new visa rules
   that cut the maximum stay from 60 days to just 30.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21447615.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Getty Images)*

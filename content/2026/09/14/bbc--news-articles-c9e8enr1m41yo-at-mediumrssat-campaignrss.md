@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: A jury fails to reach a verdict for Tim Speers who was accused of planning
   a protest at the event.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/add8/live/9297cc10-ccea-11ef-94cb-5f844ceb9e30.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Boris Johnson standing next to his wife Carrie with his arm around her. He is wearing a black suit, white shirt and blue tie. Carrie is wearing a lace wedding dress with intricate detailing down the middle and on the sleeves. She is also wearing a white rose flower crown and smiling at her husband. They are standing on an outdoor staircase surrounded by foliage and flowers.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/add8/live/9297cc10-ccea-11ef-94cb-5f844ceb9e30.jpg)

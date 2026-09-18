@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Scientists say the growing El Niño weather pattern is an "unprecedented
   event" and means 2027 is likely to be the world's hottest year on record.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Six women walk along a road carrying buckets of water on their heads, with dry-looking ground, animals and a building in the background.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg)

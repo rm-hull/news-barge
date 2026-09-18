@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: US Southern Command has struck another vessel in the eastern Pacific,
   killing two accused of trafficking drugs
 image: https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ce7acf2b72af505c96807bd242b9b94
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 After a pause of more than two months, the US military announced Monday that it once again carried out a strike on a vessel in the eastern Pacific Ocean, killing two people accused of trafficking drugs.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: 5 planning applications were decided by Durham County Council last week,
   covering education, housing, retail, leisure and children’s care.
 image: https://www.thenorthernecho.co.uk/resources/images/11139699.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: The Northern Echo)*

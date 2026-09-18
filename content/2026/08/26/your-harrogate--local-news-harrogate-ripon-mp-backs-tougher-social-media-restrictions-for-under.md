@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Ripon MP Sir Julian Smith has reiterated his support for Government plans
   to ban children under 16 from using social media.
 image: https://mmo.aiircdn.com/409/6a8eb3b778909369eab.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8eb3b778909369eab.jpg) 

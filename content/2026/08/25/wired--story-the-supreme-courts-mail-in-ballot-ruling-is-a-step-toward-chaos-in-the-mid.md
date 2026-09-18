@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Supreme Court has removed one roadblock from the Trump administration’s
   attempts to impose severe restrictions on voting.
 image: https://media.wired.com/photos/6a8357e533de3b388535fa56/191:100/w_1280,c_limit/Politics_Here's%20What%20The%20Supreme%20Court%20Mail-In%20Ballot%20Ruling%20Means%20For%20the%20Mid-Terms_v2.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 The US Supreme Court ruled on Monday that President Donald Trump’s executive order imposing severe restrictions on voting by mail ahead of November’s midterms can proceed. While a nationwide injunction preventing the US Postal Service from implementing the order remains in place, election officials and experts believe Monday’s ruling could still result in chaos and voters being disenfranchised.

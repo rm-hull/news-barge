@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Readers provide different perspectives to tackle the question of why
   humans so readily adopt fiction into our lives
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_306065072.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
+- Books & Literature
+- Society & Culture
 ---
 
 **Why do humans so readily adopt fiction into our lives, and feel emotion about characters as though they were someone close to us in real life?**

@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Plans to turn a derelict site on one of Bradford’s main roads into a
   new business park could finally be moving ahead.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374952.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

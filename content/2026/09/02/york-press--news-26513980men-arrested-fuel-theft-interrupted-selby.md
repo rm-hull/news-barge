@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Two men have been arrested after police interrupted a fuel theft in progress
   at a building site in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21399422.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,13 @@ published: '2026-08-31T00:00:00Z'
 description: Two children gained access to a dangerous abandoned building in Harrogate,
   prompting a police warning to parents.
 image: https://www.gazetteherald.co.uk/resources/images/21392482.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
+- News & Politics
 ---
 
 Two children gained access to a dangerous abandoned building, prompting a police warning to parents.

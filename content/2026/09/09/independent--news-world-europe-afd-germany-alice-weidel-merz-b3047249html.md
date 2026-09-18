@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T12:57:15Z'
 published: '2026-09-09T00:00:00Z'
 description: Merz also took aim at the AfD's calls for ending support for Ukraine
 image: https://static.independent.co.uk/2026/09/09/12/2293733422..?trim=0,456,0,456&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 German Chancellor Friedrich Merz has accused the Alternative for German of supporting Russia and advocating anti-migration policies that were tantamount to "ethnic cleansing".

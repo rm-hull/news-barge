@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T16:36:03Z'
 published: '2026-08-22T00:00:00Z'
 description: From blog rings to crime rings
 image: https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK-2560-80.jpg
+categories:
+- Technology & Software
+- True Crime
 ---
 
 ![Wordpress brand logo on computer screen. Man typing on the keyboard.](https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK.jpg) 

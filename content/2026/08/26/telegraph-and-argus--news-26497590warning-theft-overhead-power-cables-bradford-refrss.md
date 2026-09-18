@@ -9,6 +9,13 @@ published: '2026-08-26T00:00:00Z'
 description: A warning has been issued following the theft of overhead cables from
   street lighting infrastructure in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374628.jpg?type=og-image&xType=0&yType=518
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Bradford Council)*

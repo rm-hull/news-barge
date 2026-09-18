@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The county's fire and rescue service said a crew from Harrogate was called
   to Summerbridge at 8.50am today (Thursday, September 3).
 image: https://www.yorkpress.co.uk/resources/images/21071169.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

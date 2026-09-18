@@ -9,6 +9,9 @@ description: After I removed the safety guardrails from a powerful open-source m
   it found vulnerabilities in my household devices and hacked into a PC. But it also
   told me how to make everything a lot more secure.
 image: https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 As the author of a newsletter about artificial intelligence, I consider it my duty to experience the bleeding edge of this technology firsthand. This week, that meant embracing some agentic mayhem.

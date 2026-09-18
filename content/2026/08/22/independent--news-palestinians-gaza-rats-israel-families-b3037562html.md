@@ -9,6 +9,10 @@ description: Hundreds of thousands of displaced Palestinians in Gaza make the di
   choice every day between digging into garbage dumps for combustible materials to
   help cook their meals or crowding around the territory's scarce charity kitchens.
 image: https://static.independent.co.uk/2026/08/22/16/APTOPIX_Israel_Palestinians_Gaza_313_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Hundreds of thousands of displaced Palestinians in Gaza make the difficult choice every day between digging into garbage dumps for combustible materials to help cook their meals or crowding around the territory's scarce charity kitchens.

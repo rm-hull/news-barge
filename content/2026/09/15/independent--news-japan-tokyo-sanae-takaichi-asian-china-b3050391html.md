@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Japan's air force has lost contact with one of its surveillance drones
   during a flight off the northwestern coast
 image: https://static.independent.co.uk/2026/09/15/10/Japan_Global_Hawk_69665.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Japan's air force lost contact on Tuesday with one of its long-distance surveillance drones after it went missing during a flight off the country's northwestern coast.

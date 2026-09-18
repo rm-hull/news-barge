@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Adderstone Civils has secured a multi-million-pound contract from Strata
   to deliver infrastructure works for a 248-home development in Spennymoor,…
 image: https://www.thenorthernecho.co.uk/resources/images/21459584.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Adderstone Civils)*

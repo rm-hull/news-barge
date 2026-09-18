@@ -9,6 +9,9 @@ description: 'Exclusive: Hours after his warning, Cameron told voters Sunak was 
   to call early election – and did not reveal he had privately counselled against
   it, new book claims'
 image: https://static.independent.co.uk/2026/08/21/16/20/GettyImages-2158609439-(1)-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 David Cameron begged Rishi Sunak to call off the decision to hold the snap election in July 2024 which led to the biggest Conservative defeat in history, according to a new book.

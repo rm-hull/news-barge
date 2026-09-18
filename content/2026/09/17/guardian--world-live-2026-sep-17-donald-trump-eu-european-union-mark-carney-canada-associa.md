@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Official results confirmed that his right-leaning bloc lost last Sunday’s
   parliamentary election
 image: https://i.guim.co.uk/img/media/9f2661b34427c01edaf8291a0589125ad652a1fb/445_278_2851_2281/master/2851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=08d5afef494cd879ca76cddcb38a1ca3
+categories:
+- UK
+- News & Politics
 ---
 
 Swedish PM Kristersson resigns after election defeat

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Financier refused to comply with subpoenas seeking his testimony for
   the investigation into the late sex offender
 image: https://i.guim.co.uk/img/media/2ab98ba9168f46fd99f01ff6205d91bf9a7e9a73/641_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b57209c7964b95acea672ec66e62b23d
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The House oversight committee voted unanimously Tuesday to recommend that the House of Representatives hold Leon Black, the billionaire financier, in contempt of Congress, after he refused to comply with subpoenas seeking his testimony and nondisclosure agreements (NDAs) sought by the panel as part of its investigation into Jeffrey Epstein. Black contends the subpoenas are “invalid” and he is suing to block them.

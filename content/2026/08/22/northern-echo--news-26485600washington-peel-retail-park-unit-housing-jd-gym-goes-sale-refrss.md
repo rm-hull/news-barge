@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A retail park unit, home to a charity superstore and a busy gym, has
   come onto the market at a North East shopping complex.
 image: https://www.thenorthernecho.co.uk/resources/images/21355815.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Northcap)*

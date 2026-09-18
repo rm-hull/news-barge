@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service was called to a field fire off
   the A59 in Whixley.
 image: https://www.yorkpress.co.uk/resources/images/21154694.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Dylan Connell)*

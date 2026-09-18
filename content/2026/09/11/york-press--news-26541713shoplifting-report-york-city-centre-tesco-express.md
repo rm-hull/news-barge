@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Police have been called to a report of shoplifting at a York city centre
   Tesco.
 image: https://www.yorkpress.co.uk/resources/images/21439230.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

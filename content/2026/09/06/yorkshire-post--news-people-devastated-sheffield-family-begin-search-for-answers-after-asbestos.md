@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A devastated family has released a desperate plea for information after
   a “completely devoted” dad died from suspected asbestos exposure.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/10/03/Your-paragraph-text-2026-09-04T110626-904.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Devastated Yorkshire family search for answers after asbestos-related death of "completely devoted" dad

@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:10:11Z'
 published: '2026-09-12T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/firefighters-istock-modified.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 One person was taken to hospital after a fire in a North Yorkshire town.

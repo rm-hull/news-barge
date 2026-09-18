@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Lauren Somerville, Chair of Cleveland Police Federation, has paid tribute
   to PC Matthew Blades ahead of his funeral in Hartlepool today (Wednesday,…
 image: https://www.thenorthernecho.co.uk/resources/images/21427331.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: CLEVELAND POLICE)*

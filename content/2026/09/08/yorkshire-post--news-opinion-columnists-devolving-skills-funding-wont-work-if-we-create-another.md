@@ -11,6 +11,12 @@ description: The Government has announced its plans to devolve the 16-19 skills 
   change will bring education closer to local labour market needs, giving regional
   leaders greater influence over how funding is invested.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIxZmQzYWM0LWNkNDktNGZmMi05OTIzLWEzNjY2NGY1MDE3NDpjZWZhODU5Ni0yNjE2LTRkODgtOTU4NC0wOWY2YWRmNWM4NDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Devolving skills funding won’t work if we create another layer of bureaucracy - Louise McClelland

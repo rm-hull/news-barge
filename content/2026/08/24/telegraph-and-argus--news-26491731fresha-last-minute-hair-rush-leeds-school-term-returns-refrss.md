@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: A back-to-school haircut rush is putting pressure on salons and parents
   alike.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21366071.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Lifestyle & Fashion
 ---
 
 *(Image: Pixabay)*

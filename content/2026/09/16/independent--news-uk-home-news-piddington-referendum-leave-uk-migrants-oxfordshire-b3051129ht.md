@@ -9,6 +9,10 @@ description: As villagers in Piddington vote overwhelmingly to become an indepen
   state, Alex Ross discovers a rural middle class community engrained with a not-in-my-back-yard
   mindset
 image: https://static.independent.co.uk/2026/09/16/12/01M2MFPNNEAWQGV5P7K4PYPWN0.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 As Susannah Parden, the vice-chair of Piddington Parish Council, triumphantly declared the result of the village’s independence “referendum” to leave the UK, there appeared a mischievous glint in her eye.

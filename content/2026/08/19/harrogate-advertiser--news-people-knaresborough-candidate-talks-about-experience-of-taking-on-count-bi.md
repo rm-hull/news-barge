@@ -10,6 +10,10 @@ description: A Knaresborough man has talked about his experiences as a candidate
   the recent Clacton by-election – battling Nigel Farage and a ‘colourful’ cast of
   characters.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk3Mzc4ZDU0LThmYjMtNDliYi05MTQ1LWRkYTVjMjYxNDJlNToyZDJlYjhjNi0xNjRlLTQ5MTYtYmM0Ni1lNDhhY2U3NWNmZGI=.jpg?crop=3:2,smart&trim=&width=1146&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Knaresborough candidate talks about experience of taking on Count Binface and Nigel Farage at Clacton by-election

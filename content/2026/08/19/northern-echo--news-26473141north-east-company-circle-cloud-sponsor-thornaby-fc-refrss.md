@@ -7,6 +7,12 @@ scraped_at: '2026-08-19T08:52:08Z'
 published: '2026-08-19T00:00:00Z'
 description: Teesside-based Circle Cloud has become a sponsor of Thornaby FC
 image: https://www.thenorthernecho.co.uk/resources/images/21334288.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: Supplied)*

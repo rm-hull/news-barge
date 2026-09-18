@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The co-founder of the Millie Wright Children's Charity, Ceri Wright,
   was honoured with an Outstanding Contribution Award at York Community…
 image: https://www.yorkpress.co.uk/resources/images/21441945.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 ## York mum who turned daughter’s tragic death into charity legacy wins top honour

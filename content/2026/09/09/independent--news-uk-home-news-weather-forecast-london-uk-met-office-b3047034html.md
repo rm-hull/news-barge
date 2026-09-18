@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Despite the wet weather, most of England and all of Wales is still in
   drought
 image: https://static.independent.co.uk/2026/09/09/8/45/Screenshot-2026-09-09-at-09-00-20.png?trim=126,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Sports
 ---
 
 Milder conditions are set to return following a rainy start to the week as temperatures are forecast to creep back up to 23C.

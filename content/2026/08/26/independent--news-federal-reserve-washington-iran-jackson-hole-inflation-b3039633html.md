@@ -9,6 +9,10 @@ description: An inflation measure closely watched by the Federal Reserve was unc
   last month in the latest sign that many Americans are still struggling with higher
   costs
 image: https://static.independent.co.uk/2026/08/26/13/Retail_Sales_69369.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 An inflation measure closely watched by the Federal Reserve was unchanged last month in the latest sign that many Americans are still struggling with higher costs.

@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Voters in Sweden are heading to the polls on Sunday to decide if the
   conservative leader stays in power or if the center-left returns
 image: https://static.independent.co.uk/2026/09/13/07/Sweden_Election_89624.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Voters in Sweden will head to the polls on Sunday for an election that will determine whether a conservative leader remains in charge and a hard-right party wins ministerial jobs for the first time, or whether the center-left returns to power.

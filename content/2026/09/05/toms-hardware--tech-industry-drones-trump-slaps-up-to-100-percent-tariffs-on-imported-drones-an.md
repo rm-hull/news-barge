@@ -10,6 +10,10 @@ published: '2026-09-05T00:00:00Z'
 description: White House labels specific drone categories "particularly sensitive
   for national security purposes."
 image: https://cdn.mos.cms.futurecdn.net/VaAC9e5oeKohRSaFxAFD58-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![DJI drones](https://cdn.mos.cms.futurecdn.net/VaAC9e5oeKohRSaFxAFD58.jpg) 

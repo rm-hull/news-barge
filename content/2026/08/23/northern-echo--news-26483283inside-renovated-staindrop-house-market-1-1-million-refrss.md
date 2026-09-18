@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Staindrop House is a limewash-rendered 18th-century family home that
   stands proudly in the heart of the village after which it is named, its clearly…
 image: https://www.thenorthernecho.co.uk/resources/images/21352856.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- History
 ---
 
 *(Image: Strutt & Parker)*

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The BBC Radio 4 Today programme presenter explained her recent absence
   on her return on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8625/live/15d6ccd0-9bc4-11f1-98c6-93bfcdb08681.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Emma Barnett wearing glasses while filming part of her Fighting Endometriosis documentary](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/8625/live/15d6ccd0-9bc4-11f1-98c6-93bfcdb08681.jpg)

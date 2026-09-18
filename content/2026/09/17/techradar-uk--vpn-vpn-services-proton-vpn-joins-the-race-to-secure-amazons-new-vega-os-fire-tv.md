@@ -8,6 +8,8 @@ published: '2026-09-17T00:00:00Z'
 description: The Swiss-based provider has just dropped a dedicated app for Amazon's
   new operating system, ensuring your streaming habits stay private
 image: https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Amazon Fire TV Stick HD (2026)](https://cdn.mos.cms.futurecdn.net/sEfyxXKf6ReEmH3nwypnr6.jpg) 

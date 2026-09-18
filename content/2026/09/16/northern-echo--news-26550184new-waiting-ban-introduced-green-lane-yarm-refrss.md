@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Motorists in Yarm face a new no-waiting-at-any-time restriction on sections
   of B1264 Green Lane after Stockton Council brought a Prohibition of…
 image: https://www.thenorthernecho.co.uk/resources/images/20237062.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Web)*

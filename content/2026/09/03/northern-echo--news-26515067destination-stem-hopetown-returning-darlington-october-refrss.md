@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:13Z'
 published: '2026-09-03T00:00:00Z'
 description: A MAJOR STEM event is returning to Darlington this autumn.
 image: https://www.thenorthernecho.co.uk/resources/images/21400706.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Darlington Borough Council)*

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Louise Stone, founder of Sunderland-based social enterprise Pigments
   in Positivity, is helping people rebuild confidence after cancer, surgery and…
 image: https://www.thenorthernecho.co.uk/resources/images/21457998.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Helen Smith Photography)*

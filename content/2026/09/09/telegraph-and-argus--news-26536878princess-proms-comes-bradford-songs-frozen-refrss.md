@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: THE Princess Proms will bring magical music to Bradford for one afternoon
   performance this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19347416.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

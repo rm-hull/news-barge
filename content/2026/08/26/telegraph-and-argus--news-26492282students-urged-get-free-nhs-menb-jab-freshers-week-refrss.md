@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Nearly one million students are being urged to get a free NHS MenB vaccination
   before heading to university
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340906.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Health & Fitness
 ---
 
 BRADFORD students are being urged to get a free NHS MenB vaccination before heading to university, with experts warning the window to complete the two-dose course is closing.

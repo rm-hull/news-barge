@@ -12,6 +12,11 @@ description: As a family lawyer, working with separating couples is a routine pa
   counterparts. For example, building a home together, raising children and sharing
   their finances.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2OTdjNzU0LTgxNTMtNGNjNS05MWY5LTY5YTRhNGU5YTQyODo5MmIwMGM3Zi0yMGNjLTQ0MTItYjI5Yy1kMjQ5N2E0NzFjYzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # Cohabitation reform: The law needs to catch up with modern family structures - Siobhan Jeffels

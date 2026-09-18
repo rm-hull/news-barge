@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: There's lots to like about the Nokia 300 Charge, including a power bank
   mode and expandable storage.
 image: https://cdn.mos.cms.futurecdn.net/aofZErny5tL3S9w8sbVQFY-2000-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![The Nokia 300 Charge](https://cdn.mos.cms.futurecdn.net/aofZErny5tL3S9w8sbVQFY.jpg) 

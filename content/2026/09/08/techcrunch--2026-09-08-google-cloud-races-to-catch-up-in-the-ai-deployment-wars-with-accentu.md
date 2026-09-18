@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Google Cloud expands its enterprise AI push with Accenture, betting on
   forward-deployed engineers to drive adoption and overcome deployment bottlenecks.
 image: https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google Cloud and Accenture are working together on a joint unit dedicated to sending engineers into enterprises to help them better adopt Google’s AI tools and services.

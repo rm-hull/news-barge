@@ -10,6 +10,11 @@ published: '2026-09-11T00:00:00Z'
 description: The Marvel Phase 7 film's cast has grown by one with the addition of
   a former Gen V and Scream 7 actor.
 image: https://cdn.mos.cms.futurecdn.net/uqMRv3xhzzkiQSkWxATdjN-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 ![A screenshot of Warren Worthington III/Angel in a Marvel comic book](https://cdn.mos.cms.futurecdn.net/uqMRv3xhzzkiQSkWxATdjN.jpg) 

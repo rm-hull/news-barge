@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:46:45Z'
 published: '2026-08-30T00:00:00Z'
 description: Discover more about Drones with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![an anti-drone laser system mounted on a vehicle](https://cdn.mos.cms.futurecdn.net/3gZ5WyVBpLHbxDQhWgzTek-320-80.jpg)

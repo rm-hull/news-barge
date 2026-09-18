@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T19:36:31Z'
 published: '2026-08-18T00:00:00Z'
 description: Some companies argue the data is years old
 image: https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hands on a laptop with overlaid logos representing network security](https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Watchdog launches inquiry into collision in which seven people died involving
   police car and another vehicle
 image: https://i.guim.co.uk/img/media/7d0cb854dab87bce5653e5c682006025c87a120e/402_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f26026d5b02bfcbd285cd552fa6c1e3a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named.

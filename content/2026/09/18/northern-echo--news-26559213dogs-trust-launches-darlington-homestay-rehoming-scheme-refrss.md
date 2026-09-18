@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Dogs Trust has launched its Homestay scheme in Darlington, allowing struggling
   owners to keep their dogs at home while the charity finds new…
 image: https://www.thenorthernecho.co.uk/resources/images/21468228.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 Dogs Trust has launched a Darlington service helping struggling owners rehome their dogs without sending them to kennels.

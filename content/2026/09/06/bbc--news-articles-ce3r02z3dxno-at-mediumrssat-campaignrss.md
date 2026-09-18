@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The comedian is making his stage acting debut and says he wants to move
   away from social content.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72ef/live/2168d460-a6ac-11f1-b048-153395f36aa1.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Munya Chawawa in a black suit with red shirt and tie, posing for the camera in front of a red background](https://ichef.bbci.co.uk/ace/standard/1408/cpsprodpb/72ef/live/2168d460-a6ac-11f1-b048-153395f36aa1.jpg)

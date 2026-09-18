@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: York MP backs tighter fireworks controls, with loudest fireworks restricted
   to professional displays to protect veterans, neurodiverse people and…
 image: https://www.gazetteherald.co.uk/resources/images/21463965.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Submitted)*

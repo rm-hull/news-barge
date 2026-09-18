@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:33Z'
 published: '2026-09-07T00:00:00Z'
 description: Gas prices in the US hit a national high over Labor Day weekend
 image: https://static.independent.co.uk/2026/09/07/15/2293564552..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The war in Iran is costing Americans $100 billion in extra energy costs — and that number is going up by $1 million every two minutes, according to an estimate from Brown University.

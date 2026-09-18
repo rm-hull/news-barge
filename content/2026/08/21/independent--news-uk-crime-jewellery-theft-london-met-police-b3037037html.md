@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:06:56Z'
 published: '2026-08-21T00:00:00Z'
 description: Metropolitan Police officers foiled the suspected jewellery heist
 image: https://static.independent.co.uk/2026/08/21/12/42/Met-Police-heist.png?trim=0,12,0,12&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A trio of thieves who were caught trying to tunnel their way into a south London jewellery shop have been linked to a series of burglaries worth more than £700,000.

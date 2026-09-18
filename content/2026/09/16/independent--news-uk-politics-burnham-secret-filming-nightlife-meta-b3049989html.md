@@ -9,6 +9,11 @@ description: 'Exclusive: The PM has been urged to close gaps in the law, warning
   are subject to ‘surveillance and exploitation’ by non-consensual filming in public
   spaces'
 image: https://static.independent.co.uk/2026/09/16/13/13/iStock-842107238-a59d0275.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Society & Culture
 ---
 
 The government must take action on the covert “nightlife” filming of women and girls for profit on social media, which is driving them out of public spaces, leading women’s charities have warned.

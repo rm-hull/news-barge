@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Redcar and Cleveland Council has become one of the first in the UK to
   use graphene-enhanced asphalt on a commercial road resurfacing scheme in…
 image: https://www.thenorthernecho.co.uk/resources/images/21372977.jpg?type=og-image&xType=0&yType=130
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Travel
 ---
 
 A council in East Cleveland has become one of the first in the UK to use a new road resurfacing technology.

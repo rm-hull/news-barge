@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Bradford Council will look “how best to respond to concerns relating
   to e-bikes and e-scooters” in the coming months.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20811994.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

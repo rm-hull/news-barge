@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Burnham faced questions from Kemi Badenoch and other MPs amid speculation
   over budget
 image: https://i.guim.co.uk/img/media/f89dcc944b11e120270f68907c76b430c496ed95/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=41bc77a252f052e8fb14fc3b4ab71a97
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Burnham offers to work with Tories on getting welfare spending down

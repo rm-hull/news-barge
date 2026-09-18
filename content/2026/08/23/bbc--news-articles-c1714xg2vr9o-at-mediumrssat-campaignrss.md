@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: There has been disagreement between queuers and others skipping the line
   to reach the top of Yr Wyddfa.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7191/live/600d5190-9f7d-11f1-994f-5b14ccb35057.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 One climber was told "there's a queue" when he reached the mountain summit

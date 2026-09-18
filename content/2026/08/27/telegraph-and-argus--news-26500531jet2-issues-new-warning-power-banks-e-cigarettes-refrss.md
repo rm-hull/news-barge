@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Jet2 has issued a new safety warning about power banks, e-cigarettes
   and items containing lithium batteries and how to store them when flying.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376623.jpg?type=og-image&yType=34
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Jet2)*

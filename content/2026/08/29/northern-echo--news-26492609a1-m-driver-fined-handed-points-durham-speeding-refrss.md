@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Andy Walton, 54, of Burnopfield, has been fined £769 and handed six penalty
   points after admitting speeding on the A1(M) in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21367377.jpg?type=og-image&xType=0&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA MEDIA)*

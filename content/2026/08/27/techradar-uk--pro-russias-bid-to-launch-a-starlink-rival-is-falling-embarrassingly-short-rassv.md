@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Moscow's broadband satellite dream hits trouble as Rassvet spacecraft
   struggle to climb toward their planned orbit
 image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

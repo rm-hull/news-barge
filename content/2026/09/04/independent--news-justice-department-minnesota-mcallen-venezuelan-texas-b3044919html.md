@@ -11,6 +11,11 @@ description: Federal authorities allege that a U.S. Immigration and Customs Enfo
   before he shot and wounded a Venezuelan man during the Minnesota immigration crackdown
   last winter
 image: https://static.independent.co.uk/2026/08/26/05/Immigration_ICE_Arrests_7832_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 A U.S. Immigration and Customs Enforcement officer falsely told investigators he was being attacked with a broom and shovel before he shot and wounded a Venezuelan man during the Minnesota immigration crackdown last winter, according to a federal indictment unsealed Friday.

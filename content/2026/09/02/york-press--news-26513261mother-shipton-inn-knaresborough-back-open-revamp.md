@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The well-known Mother Shipton Inn at Knaresborough reports a “absolutely
   crazy” re-opening.
 image: https://www.yorkpress.co.uk/resources/images/21398385.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 ## Well-known North Yorkshire pub reports "absolutely crazy reopening"

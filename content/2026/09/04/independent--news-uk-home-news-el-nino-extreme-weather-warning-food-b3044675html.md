@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Forecasters predict the biggest El Nino in 1,000 years which is set to
   bring and wet and stormy winter to the UK
 image: https://static.independent.co.uk/2026/09/04/08/2026-09-03T215023Z_2000154535_RC2KBNAWRYXS_RTRMADP_3_COLOMBIA-WEATHER-WATER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Britons have been urged to stock up on enough food and water to survive a few days without power or a water supply.

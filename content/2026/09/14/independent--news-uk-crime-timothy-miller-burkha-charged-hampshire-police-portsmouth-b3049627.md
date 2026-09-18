@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Police had promised to crack down on face coverings after hundreds of
   masked protestors descended on Portsmouth earlier this month
 image: https://static.independent.co.uk/2026/09/14/07/2294886560..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A man has been charged with concealing his identity after wearing a burkha at an anti-migrant demonstration in Portsmouth on Saturday.

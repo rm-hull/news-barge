@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: A simple guide to HDMI passthrough, including how it works, when you
   need it and what to look for when you're buying a new soundbar.
 image: https://cdn.mos.cms.futurecdn.net/q3aGUhpccyAe8RtvMtUNN5-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![HDMI ports on soundbars](https://cdn.mos.cms.futurecdn.net/q3aGUhpccyAe8RtvMtUNN5.jpg) 

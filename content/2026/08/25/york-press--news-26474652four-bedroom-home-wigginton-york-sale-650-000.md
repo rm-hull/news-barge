@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A four-bedroom detached home in Wigginton, York, is on the market for
   £650,000 with Ashtons.
 image: https://www.yorkpress.co.uk/resources/images/21335877.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Take a look inside this £650,000 detached family home near York

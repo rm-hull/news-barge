@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Last month, a Claude user noticed his account was consuming tokens even
   though he wasn't working. Anthropic has since warned users about hackers.
 image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 On August 4, Grant De Swardt, an independent AI consultant in East Sussex, U.K., noticed something strange going on with his Claude Max 20x account. He hadn’t been working that day, yet his token usage was climbing.

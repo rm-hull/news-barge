@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: A new boxing gym has opened in the North East, offering everything from
   fitness-focused sessions to serious ring craft.
 image: https://www.thenorthernecho.co.uk/resources/images/21381501.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 A new boxing gym has opened in the North East, offering everything from fitness-focused sessions to serious ring craft.

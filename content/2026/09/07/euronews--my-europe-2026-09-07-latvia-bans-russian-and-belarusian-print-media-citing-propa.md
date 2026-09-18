@@ -9,6 +9,10 @@ description: 'Latvia has become the first European country to ban imports of Rus
   consumer goods including books and print media, framing the move as a defense against
   Kremlin disinformation and hybrid warfare. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/44/38/1200x675_cmsv2_f714fe04-acd9-5227-83f9-084fee3e3288-9904438.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Latvia has become the first European country to ban imports of Russian consumer goods including books and print media, framing the move as a defense against Kremlin disinformation and hybrid warfare.

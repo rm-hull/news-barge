@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Away at the champions is as tough as it gets for Coventry on their EPL
   return
 image: https://cdn.mos.cms.futurecdn.net/9EE7ozMDbPf4gCdqMyXFRU-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Kai Havertz of Arsenal celebrates after scoring a goal to make it 2-0 during the 2026 FA Community Shield match between Arsenal and Manchester City at Principality Stadium on August 16, 2026 in Cardiff, Wales.](https://cdn.mos.cms.futurecdn.net/9EE7ozMDbPf4gCdqMyXFRU.jpg) 

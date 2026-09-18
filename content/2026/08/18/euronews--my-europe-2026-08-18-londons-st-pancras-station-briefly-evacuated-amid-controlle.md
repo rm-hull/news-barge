@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: 'Eurostar services are continuing to operate as normal. Police have since
   declared the incident as non-suspicious. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/82/02/96/1200x675_cmsv2_23eb9548-66ab-5098-b206-db1d661547f0-9820296.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Eurostar services are continuing to operate as normal. Police have since declared the incident as non-suspicious.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Taylor Wimpey North Yorkshire has donated £1,000 and essential supplies
   to food banks in Harrogate and Darlington.
 image: https://www.gazetteherald.co.uk/resources/images/21395488.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Taylor Wimpey)*

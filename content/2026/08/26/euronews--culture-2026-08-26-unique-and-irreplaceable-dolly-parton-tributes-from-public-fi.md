@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Tributes have been paid after the news that Dolly Parton, one of the
   most legendary artists in country music history, has died at the age of 80.
 image: https://images.euronews.com/articles/stories/09/88/90/22/1200x675_cmsv2_6e3e8070-609d-5423-848f-7ea9724f4a2c-9889022.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- Arts & Culture
+- History
 ---
 
 ## Tributes have been paid after the news that Dolly Parton, one of the most legendary artists in country music history, has died at the age of 80.

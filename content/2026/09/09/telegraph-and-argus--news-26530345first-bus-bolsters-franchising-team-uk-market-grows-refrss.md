@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: TWO new directors have joined First Bus as it expands its presence in
   the UK’s growing franchised bus market.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21423474.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 TWO new directors have joined First Bus as it expands its presence in the UK’s growing franchised bus market.

@@ -9,6 +9,10 @@ description: Qatar says its officials are speaking to the parties daily to resta
   US-Iran negotiations, while urging Tehran to reopen and immediately restore freedom
   of navigation through the key energy route.
 image: https://images.euronews.com/articles/stories/09/85/94/60/1200x675_cmsv2_c48954a8-b9eb-5c75-a0b2-8ab6eaec878f-9859460.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Qatar says its officials are speaking to the parties daily to restart US-Iran negotiations, while urging Tehran to reopen and immediately restore freedom of navigation through the key energy route.

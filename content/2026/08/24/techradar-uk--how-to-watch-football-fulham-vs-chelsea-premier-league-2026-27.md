@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T16:51:23Z'
 published: '2026-08-24T00:00:00Z'
 description: The opening weekend of the season concludes with a West London derby
 image: https://cdn.mos.cms.futurecdn.net/3dtVaYYvyJfey7GHzE2d2h-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Joao Pedro of Chelsea FC reacts during the preseason friendly between Chelsea and Juventus at the Kai Tak Stadium on August 5, 2026 in Hong Kong, China.](https://cdn.mos.cms.futurecdn.net/3dtVaYYvyJfey7GHzE2d2h.jpg) 

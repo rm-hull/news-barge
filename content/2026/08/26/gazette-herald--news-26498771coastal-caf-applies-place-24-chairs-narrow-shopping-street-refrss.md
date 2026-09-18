@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A NEW dog-friendly café in North Yorkshire has applied to place dozens
   of chairs outside its business.
 image: https://www.gazetteherald.co.uk/resources/images/21376282.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A NEW dog-friendly café in North Yorkshire has applied to place dozens of chairs outside its business.

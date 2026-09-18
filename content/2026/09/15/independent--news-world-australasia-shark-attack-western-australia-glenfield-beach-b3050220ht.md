@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: No shark activity had been reported around Glenfield Beach before the
   attack
 image: https://static.independent.co.uk/2026/09/15/05/2233287124..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man is in a serious but stable condition after being attacked by a shark at Glenfield Beach in Western Australia.

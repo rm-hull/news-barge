@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Trump wants to relabel New Mexico as New America days after changing
   the name of Lake Ontario to Lake Ameria
 image: https://static.independent.co.uk/2026/09/06/19/22/GettyImages-2292329268.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has already changed the name of the Gulf of Mexico and Lake Ontario, and now he’s targeting a US state for a rebrand.

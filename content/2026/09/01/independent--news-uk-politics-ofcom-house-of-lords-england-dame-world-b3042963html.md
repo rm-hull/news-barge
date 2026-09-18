@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Dame Rachel De Souza has threatened to use her statutory powers to access
   the risk assessments.
 image: https://static.independent.co.uk/2026/09/01/18/28636554485e681187fcb324ba6414beY29udGVudHNlYXJjaGFwaSwxNzg4MzY0Mzg4-2.82555656.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Children’s Commissioner for England has threatened to use her statutory powers to access tech companies’ risk assessments after Ofcom refused her request to see them, she told a House of Lords committee.

@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The crime of intentional foreign interference carries a penalty of 20
   years' imprisonment in Australia.
 image: https://images.euronews.com/articles/stories/09/88/30/35/1200x675_cmsv2_ef7929ac-fa11-52f7-986b-024f56958356-9883035.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The crime of intentional foreign interference carries a penalty of 20 years' imprisonment in Australia.

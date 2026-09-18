@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Joanna Wietrzyk posts that she regrets her decision to keep racing but
   has decided to forfeir her win in the Beijing race
 image: https://i.guim.co.uk/img/media/3c0e0d11160d263f2163109ae1db89e24c09cea4/169_0_1686_1349/master/1686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61f32829619253fbf0095703bdf389fb
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The Australian athlete who caused a storm by winning a Hyrox event in China despite soiling herself during the race has apologised to the “people of China” and rival athletes in a statement online.

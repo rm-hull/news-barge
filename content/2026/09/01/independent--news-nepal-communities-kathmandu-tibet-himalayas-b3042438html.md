@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Floods along the Nepal-Tibet border have left many like Tsering Gelbu
   Lama grappling with loss
 image: https://static.independent.co.uk/2026/09/01/05/Nepal_Floods_Culture_13229.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 In the days since Tsering Gelbu Lama’s wife was swept away by devastating floods along the Nepal-Tibet border, he still hasn't told his 4-year-old daughter that her mother is dead.

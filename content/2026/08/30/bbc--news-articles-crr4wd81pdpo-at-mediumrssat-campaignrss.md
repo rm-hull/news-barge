@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will
   be excluded from the early release scheme in the Sentencing Act.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8781/live/6da35de0-a3bf-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: PM confirms PC Harper's killers will remain in prison

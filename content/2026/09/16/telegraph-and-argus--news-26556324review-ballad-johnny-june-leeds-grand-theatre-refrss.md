@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: THE challenge of any musical biopic is to allow the story to shine through
   whilst avoiding any temptation to introduce audience-pleasing cheap…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464137.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 THE challenge of any musical biopic is to allow the story to shine through whilst avoiding any temptation to introduce audience-pleasing cheap tricks - aka the finale mega mix!

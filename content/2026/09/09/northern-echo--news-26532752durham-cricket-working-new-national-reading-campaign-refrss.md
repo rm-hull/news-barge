@@ -7,6 +7,13 @@ scraped_at: '2026-09-09T12:57:28Z'
 published: '2026-09-09T00:00:00Z'
 description: CRICKET and reading have come together in a new literacy drive.
 image: https://www.thenorthernecho.co.uk/resources/images/21426579.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

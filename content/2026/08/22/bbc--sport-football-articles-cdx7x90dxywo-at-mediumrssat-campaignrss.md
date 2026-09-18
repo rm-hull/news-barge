@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Jean-Philippe Mateta is challenging the validity of the final 10 months
   on his Crystal Palace contract.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Jean-Philippe Mateta playing in the Uefa Conference League final](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg)

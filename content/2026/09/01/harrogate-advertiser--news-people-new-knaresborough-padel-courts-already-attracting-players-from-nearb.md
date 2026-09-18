@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: New padel courts are to be launched in a Knaresborough village with coaching
   and lessons available.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFhMmZhOTBhLTNlMmYtNDg3Ni1hZTY3LWFiZWY2OWQyNWU5NjpiZjI0MWU3YS0yYTA0LTQ1OGQtOTM1MC0wZTc1OTU2OWJhNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # New Knaresborough padel courts already attracting players from nearby villages, Boroughbridge and Harrogate

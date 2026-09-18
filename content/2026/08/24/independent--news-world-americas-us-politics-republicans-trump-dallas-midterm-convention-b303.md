@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: When the Sept. 9-10 gathering was announced, some GOP strategists dismissed
   it as an unnecessary distraction weeks before the November midterms
 image: https://static.independent.co.uk/2026/08/24/11/2026-08-24T100012Z_289830958_RC2HSMAZ9AKN_RTRMADP_3_USA-ELECTION-REPUBLICANS-CONVENTION.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Republicans are increasingly looking to an unusual midterm convention in Dallas next month to revive the party’s momentum as voters sour on the economy and the war with Iran.

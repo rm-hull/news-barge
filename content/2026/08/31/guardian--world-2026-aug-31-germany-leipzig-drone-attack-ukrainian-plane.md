@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Berlin expected to outline response to incident this month widely speculated
   to have been coordinated by Russia
 image: https://i.guim.co.uk/img/media/75971a963382642aa08a659a6f0dcc715587aa8f/520_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1e4ab6c9376cc84bdb8aaa6949ee95a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The German government is imminently expected to announce who it believes was behind a suspected drone attack on a Ukrainian cargo plane earlier this month and to outline its response to the incident in coordination with its European and Nato partners.

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Tanya Brasted insisted she had ‘nothing to hide’ after Reform launched
   an investigation
 image: https://static.independent.co.uk/2026/09/04/13/21/Counci-split-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A row has erupted at Reform-led North East Lincolnshire Council over allegations of misconduct and missing Christmas party funds.

@@ -10,6 +10,10 @@ description: Expanding deforestation in Indonesia caused by the country’s wood
   Areas, and Indigenous territories in the archipelago, according to new satellite
   analysis from Indonesia-based nongovernmental organizations
 image: https://static.independent.co.uk/2026/09/14/02/Indonesia_Deforestation_Biomass_39913.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A surge in Indonesia’s wood pellet and chip production is driving a new wave of deforestation, threatening the vast archipelago’s remaining tropical forests, vital biodiversity hot spots and the land of Indigenous peoples, according to new satellite analysis from environmental nongovernmental organizations.

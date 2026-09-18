@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire Police said it happened in the early hours of Saturday,
   July 25 in Blake Street, close to some bicycle racks.
 image: https://www.yorkpress.co.uk/resources/images/21413842.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

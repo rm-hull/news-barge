@@ -9,6 +9,13 @@ published: '2026-08-21T00:00:00Z'
 description: A MULTI-MILLION pound energy upgrade plan has been approved at a major
   North Yorkshire hospital.
 image: https://www.gazetteherald.co.uk/resources/images/21036780.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A MULTI-MILLION pound energy upgrade plan has been approved at a major North Yorkshire hospital.

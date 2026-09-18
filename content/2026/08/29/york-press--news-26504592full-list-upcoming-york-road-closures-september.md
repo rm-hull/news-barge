@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Temporary traffic restrictions have been announced for York, affecting
   ten key locations for maintenance and development works.
 image: https://www.yorkpress.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

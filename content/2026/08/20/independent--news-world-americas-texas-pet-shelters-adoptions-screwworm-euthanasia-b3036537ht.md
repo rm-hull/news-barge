@@ -9,6 +9,11 @@ description: The first New World screwworm outbreak in Texas in 60 years is hind
   efforts to move rescued dogs and cats out of crowded animal shelters to states where
   they would be adopted
 image: https://static.independent.co.uk/2026/08/20/16/22/AP26230798159223.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 Thousands of dogs and cats across Texas face adoption holds and a heightened risk of euthanasia as officials work to stop the spread of the New World screwworm, an insect that has crossed from Mexico into the United States for the first time in 60 years.

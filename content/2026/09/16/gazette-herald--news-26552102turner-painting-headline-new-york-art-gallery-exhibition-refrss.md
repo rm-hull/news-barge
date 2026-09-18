@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: An exhibition featuring one of JMW Turner’s most celebrated paintings
   is set to open in York, with curators putting the finishing touches to a…
 image: https://www.gazetteherald.co.uk/resources/images/21223445.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 An exhibition featuring one of JMW Turner’s most celebrated paintings is set to open in York, with curators putting the finishing touches to a showcase bringing together works by some of Britain's and Europe’s most renowned artists.

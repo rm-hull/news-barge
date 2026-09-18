@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: The family of PC Tom Clough has expressed their heartfelt thanks to the
   people of Teesside for the support shown during his funeral on Thursday,…
 image: https://www.thenorthernecho.co.uk/resources/images/21360436.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Technology & Software
 ---
 
 The family of PC Tom Clough has expressed their heartfelt thanks to the people of Teesside for the support shown during his funeral on Thursday, September 10.

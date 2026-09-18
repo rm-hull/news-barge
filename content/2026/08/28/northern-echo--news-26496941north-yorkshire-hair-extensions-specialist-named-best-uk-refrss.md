@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A hair extensions specialist working from a farm studio near Bedale has
   been named the best in the country, in her first year of trading in North…
 image: https://www.thenorthernecho.co.uk/resources/images/21375401.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: PR)*

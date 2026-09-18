@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:27Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/coffee-canva.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Two North Yorkshire cafés will close at the end of this week.

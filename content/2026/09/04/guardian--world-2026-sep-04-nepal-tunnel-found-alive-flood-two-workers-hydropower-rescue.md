@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Officials say pair were rescued from Trishuli 3A hydropower tunnel in
   Nepal after being trapped in depth of 170 metres
 image: https://i.guim.co.uk/img/media/48855307f6ce4ed9ec2e91a7134eb5658c9fe585/214_0_1066_853/master/1066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8db208878d390e70701c43e0410a3d60
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Two people have been pulled out alive from a hydropower tunnel in Nepal nine days after deadly flash floods buried the projects in deep mud and left them trapped.

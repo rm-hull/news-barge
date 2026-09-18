@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Supporters of the scheme say the bank would enable governments to get
   cheaper loans to spend on defence projects.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A soldier holds standing in a wooded area](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/96d0/live/1ab4a860-b160-11f1-84df-a1b833410ec4.png)

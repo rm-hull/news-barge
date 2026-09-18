@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said crews were called at 6.13pm
   yesterday evening (Wednesday, September 16) to the incident in Malton.
 image: https://www.gazetteherald.co.uk/resources/images/21428200.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

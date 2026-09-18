@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Joey Logano says he would love to get a cameo in the upcoming sequel
   to “Days of Thunder.”
 image: https://static.independent.co.uk/2026/09/02/22/NASCAR_Daytona_Auto_Racing_89763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Joey Logano has won 71 NASCAR races and three Cup Series championships during his illustrious career.

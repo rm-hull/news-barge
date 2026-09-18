@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Using AI to plan the route was a ‘critical misstep,’ the sheriff’s office
   says
 image: https://static.independent.co.uk/2026/09/04/10/20/Screenshot-2026-09-04-at-11-06-00.png?trim=0,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A trio of hikers were rescued from a California mountain after using A.I. to plan their route.

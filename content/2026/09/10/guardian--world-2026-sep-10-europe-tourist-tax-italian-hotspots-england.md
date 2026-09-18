@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: While England makes its first foray into unfamiliar territory, it’s proved
   a boon for Italy’s cash-strapped municipalities
 image: https://i.guim.co.uk/img/media/a316ca16ae88c26e723b4e97ed0ee506cd6543f9/195_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c40a124d30c65fbe73e4c77919242b4
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A nightly tourist tax may be unfamiliar territory in the UK, but countries in continental Europe have been cashing in on these kinds of levies for decades.

@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Chinese factory seemingly gives AI consumers a new monster GPU at a 35%
   discount
 image: https://cdn.mos.cms.futurecdn.net/yKgCHUZBWk6YpMUXeA2TiU-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia GeForce RTX GPU](https://cdn.mos.cms.futurecdn.net/yKgCHUZBWk6YpMUXeA2TiU.jpg) 

@@ -9,6 +9,11 @@ description: A bus driver lost control of his vehicle late last night and six we
   people taken to hospital. A BVG bus driver lost control of his vechicle and collided
   with a tree in Neukölln on Sunday, 15 people including the driver were injured.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0105896055h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0105896055h-scaled.jpg)

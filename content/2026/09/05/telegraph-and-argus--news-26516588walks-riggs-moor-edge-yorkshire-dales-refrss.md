@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:48:58Z'
 published: '2026-09-05T00:00:00Z'
 description: A remote area has been described as "possibly the most remote in England."
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402924.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 RIGGS Moor on the National Park/Nidderdale border is a remote spot, possibly the most remote in England.

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Passenger journeys in chaos over ‘technical issue’ hitting hundreds of
   take-offs
 image: https://static.independent.co.uk/2026/09/08/16/59/PXL_20260908_16274a4028-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Airports have warned of further disruption on Wednesday after more than 1,000 flights to and from the UK were cancelled due to a “technical issue”.

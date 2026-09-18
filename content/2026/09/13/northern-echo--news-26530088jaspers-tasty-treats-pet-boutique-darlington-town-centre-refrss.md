@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A Darlington pet boutique named in memory of a much-loved beagle is going
   from “strength to strength” after moving into its own town centre shop.
 image: https://www.thenorthernecho.co.uk/resources/images/21025938.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Darlington pet boutique named in memory of a much-loved beagle is going from “strength to strength” after moving into its own town centre shop.

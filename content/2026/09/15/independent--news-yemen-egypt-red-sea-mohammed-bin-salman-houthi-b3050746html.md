@@ -10,6 +10,10 @@ description: Saudi Arabia’s crown prince is seeking back from the president of
   his ally across the Red Sea, as the kingdom faces increased attacks by Yemen’s Houthi
   rebels
 image: https://static.independent.co.uk/2026/09/15/19/APTOPIX_Mideast_Wars_Yemen_73211.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Saudi Arabia’s crown prince sought backing Tuesday from the president of Egypt, his ally across the Red Sea, as the kingdom faces increased attacks by Yemen’s Houthi rebels on Saudi shipping and infrastructure that have helped drive a surge in global oil prices.

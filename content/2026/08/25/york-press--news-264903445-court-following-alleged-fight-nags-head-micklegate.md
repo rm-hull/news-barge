@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Five men have appeared before York Crown Court accused of taking part
   in a pub fight in the city centre.
 image: https://www.yorkpress.co.uk/resources/images/21244883.jpg?type=og-image&xType=0&yType=73
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Google Street View)*

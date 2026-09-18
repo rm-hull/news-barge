@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A Knaresborough councillor is calling for answers from EE following continued
   reports of poor mobile coverage across the town.
 image: https://mmo.aiircdn.com/409/6a913768bb515b76b54.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a913768bb515b76b54.jpg) 

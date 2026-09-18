@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The suspect is charged with murder and participation in a criminal street
   gang, Bakersfield police say
 image: https://static.the-independent.com/2026/08/23/0/52/teen-arrested.jpeg?trim=9,0,1015,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Gunfire erupted during a gang-related fight at a high school football game in California — leaving a 17-year-old boy dead and a 15-year-old boy charged in his slaying.

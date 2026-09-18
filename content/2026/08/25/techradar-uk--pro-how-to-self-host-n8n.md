@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T13:07:47Z'
 published: '2026-08-25T00:00:00Z'
 description: Run your own automation platform, your rules
 image: https://cdn.mos.cms.futurecdn.net/NuuAdt9MomVTTvn9K6vxzB-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![n8n workflow](https://cdn.mos.cms.futurecdn.net/NuuAdt9MomVTTvn9K6vxzB.jpg) 

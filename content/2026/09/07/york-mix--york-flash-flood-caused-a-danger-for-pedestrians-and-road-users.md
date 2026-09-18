@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:05Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/heslington-york-flooding-31-august-2026-yld-1.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A flash flood that caused “a danger for any pedestrian or road users” is to be investigated.

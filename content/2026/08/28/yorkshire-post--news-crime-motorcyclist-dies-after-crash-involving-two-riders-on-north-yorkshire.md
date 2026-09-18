@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A motorcyclist has died after he and another rider suffered serious injuries
   in a crash on a North Yorkshire road.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/14/04/Mook-Street.png?trim=0,93,0,93&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist dies after crash involving two riders on North Yorkshire road

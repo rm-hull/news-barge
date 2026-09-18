@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Claire Bentley-Smith says the mural is both a tribute to the late owner
   of the brewery and the horses.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f84/live/10c81640-9c6e-11f1-827b-69a6492daae1.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![Grey shire horse with white legs stood in front of a boarded up shop with a drawing on either side of the door of a shire horse](https://ichef.bbci.co.uk/ace/standard/412/cpsprodpb/7f84/live/10c81640-9c6e-11f1-827b-69a6492daae1.jpg)

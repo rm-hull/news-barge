@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:35:53Z'
 published: '2026-08-18T00:00:00Z'
 description: A stolen vehicle has been seized by police in Keighley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336121.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:48:16Z'
 published: '2026-09-03T00:00:00Z'
 description: Russia says it will shutter German cultural centers across the country
 image: https://static.independent.co.uk/2026/09/03/06/Russia_Indonesia__5185.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Russia will shutter German cultural centers across the country, Foreign Minister Sergey Lavrov said Thursday.

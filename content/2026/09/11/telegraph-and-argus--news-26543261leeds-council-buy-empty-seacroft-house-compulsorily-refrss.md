@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Leeds City Council will use compulsory purchase powers to acquire a derelict
   empty house in Seacroft, tackling anti-social behaviour and housing…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441892.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Google)*

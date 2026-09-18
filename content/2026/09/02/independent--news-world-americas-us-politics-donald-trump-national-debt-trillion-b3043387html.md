@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The national debt has surged past $40 trillion in the first 19 months
   of Trump’s second term
 image: https://static.independent.co.uk/2026/09/01/20/01/GettyImages-2292878242.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 President Donald Trump re-entered office pledging to restore stability to the United States' finances by scaling back federal governance, ending expensive foreign conflicts, and promoting economic expansion to curb mounting deficits.

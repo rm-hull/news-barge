@@ -9,6 +9,9 @@ description: The Nancy Grace Roman Space Telescope is expected to discover as ma
   as 200,000 new planets and reveal details about the elusive nature of dark matter
   and dark energy.
 image: https://media.wired.com/photos/6a88d79a698bcff0e7cf9df9/191:100/w_1280,c_limit/Science_NASA%E2%80%99s%20New%20Space%20Telescope%20Is%20Poised%20to%20Discover%20Hidden%20Facets%20of%20the%20Universe_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Astronomers have known for decades that an invisible substance permeates the cosmos. Detected only by its gravitational influence on visible objects, dark matter accounts for some 85 percent of all matter, enveloping entire galaxies in great spheroids that branch and interweave to form the scaffolding of the universe.

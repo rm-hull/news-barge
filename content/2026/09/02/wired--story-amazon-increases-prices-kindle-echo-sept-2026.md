@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and
   Fire TV devices ahead of the holiday shopping season.
 image: https://media.wired.com/photos/6a98485377625f71bd332e04/191:100/w_1280,c_limit/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 If you've been shopping for an Amazon Kindle or smart speaker in the past week, you might've noticed some brand-new prices. That’s right: Amazon has hiked prices by $20 to $100 on its popular devices like the Echo, Eero, and Fire Stick.

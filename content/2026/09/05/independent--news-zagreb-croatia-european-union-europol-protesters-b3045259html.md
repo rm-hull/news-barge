@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Tens of thousands of people have rallied in Croatia in an environmental
   demonstration
 image: https://static.independent.co.uk/2026/09/05/15/Croatia_Illegal_Waste_Protest_26485.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Tens of thousands of people rallied on Saturday in Croatia, furious that authorities for months haven't cleared a huge amount of illegally dumped hazardous waste that has triggered fears of major environmental damage in the European Union country.

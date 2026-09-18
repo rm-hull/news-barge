@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Chilli Padi Durham has built a reputation for authentic Malaysian cuisine,
   colourful flavours and highly rated dishes inspired by traditional recipes
 image: https://www.thenorthernecho.co.uk/resources/images/21396131.jpg?type=og-image&xType=0&yType=261
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Celebrity visits are nothing new for successful restaurants, but not every Durham eatery can count Hollywood actor Charlie Hunnam among its admirers.

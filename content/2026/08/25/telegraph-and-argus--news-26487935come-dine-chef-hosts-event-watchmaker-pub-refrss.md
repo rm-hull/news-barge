@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A local chef who won over viewers on Come Dine with Me is returning to
   his roots by hosting a special food event at his local pub this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20567331.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Comedy & Entertainment
 ---
 
 A Bradford chef who won over viewers on Come Dine with Me is returning to his roots by hosting a special food event at his local pub this Bank Holiday weekend.

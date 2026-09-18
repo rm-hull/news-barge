@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: We found this vibrant 15.6-inch laptop delivered 'provides plenty of
   runway for productivity and personal tasks.'
 image: https://cdn.mos.cms.futurecdn.net/rF4iZ3MzgSf6hvwrTQyDG-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Samsung Galaxy Book 4 Edge](https://cdn.mos.cms.futurecdn.net/rF4iZ3MzgSf6hvwrTQyDG.jpg) 

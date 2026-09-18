@@ -8,6 +8,9 @@ scraped_at: '2026-09-13T13:17:43Z'
 published: '2026-09-13T00:00:00Z'
 description: One Mono escapes the chopping block.
 image: https://cdn.mos.cms.futurecdn.net/vQD4izcoidZSwM4iDnNEHR-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The Intel One Mono open-source font](https://cdn.mos.cms.futurecdn.net/vQD4izcoidZSwM4iDnNEHR.png) 

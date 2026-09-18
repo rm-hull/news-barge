@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Home affairs minister Tony Burke will detail long-awaited changes as
   support for One Nation surges amid immigration debate
 image: https://i.guim.co.uk/img/media/db5f34658eedd1f991f58606442f3214db770673/366_0_3350_2680/master/3350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cd11f098e6e245f4419838e271a88c6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Foreign students will face tough restrictions on the ability to bring family members into Australia, as the federal government shifts sections of the country’s immigration system away from demand-driven settings.

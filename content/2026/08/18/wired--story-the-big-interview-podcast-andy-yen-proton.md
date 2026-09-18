@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Proton’s CEO is a champion of encryption for everyone. So why is he going
   all in on un-encryptable AI?
 image: https://media.wired.com/photos/6a834c04b090060b28185af1/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Andy-Yen-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 In the eyes of many privacy advocates, AI is just another surveillance technology. It supercharges online tracking and real-world spying tools, sifts through vast troves of everyone’s data to spit out its results, and then encourages users to share their deepest secrets and desires with a cloud-hosted large-language model. Surveillance capitalism made AI possible, and AI returns the favor by making surveillance more powerful and the businesses that run on it more data-rich and profitable than ever.

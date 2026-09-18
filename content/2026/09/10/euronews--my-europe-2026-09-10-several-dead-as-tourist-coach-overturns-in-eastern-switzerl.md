@@ -9,6 +9,11 @@ description: 'A coach believed to be carrying tourists through one of Switzerlan
   most scenic Alpine valleys has overturned near the entrance to the country''s national
   park. #EuropeNews'
 image: https://static.euronews.com/articles/stories/04/63/01/94/1200x675_cmsv2_c6a92aeb-53b9-5d78-a5d4-933b2961183c-4630194.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Sports
 ---
 
 ## A coach believed to be carrying tourists through one of Switzerland's most scenic Alpine valleys has overturned near the entrance to the country's national park.

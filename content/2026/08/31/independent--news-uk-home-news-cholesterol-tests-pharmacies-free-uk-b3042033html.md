@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:08:14Z'
 published: '2026-08-31T00:00:00Z'
 description: The pin-prick test will analyse a patient’s cholesterol profile
 image: https://static.independent.co.uk/2026/05/06/09/1215814790.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 High-street pharmacies in England are to start free seven-minute cholesterol tests.

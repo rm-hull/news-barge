@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Beefeater and Brewers Fayre sites across the UK will close their doors
   for the last time in the coming days.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21391867.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Tripadvisor)*

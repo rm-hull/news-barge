@@ -9,6 +9,12 @@ description: When the Prime Minister stood on the doorstep of 10 Downing Street,
   of the first things he promised was to end rough sleeping and tackle homelessness.
   It is an issue that is evident across many towns and cities.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZkZmZkZjFlLThhNjEtNDEwZC1hZTYwLWZjZjc2ZTY4OTY5ODpiMjc0OGMzMS05ZTBhLTRmYmUtOTk3OC03NjJjMTRhOWMxNmY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Homelessness crisis in rural Yorkshire needs to be addressed

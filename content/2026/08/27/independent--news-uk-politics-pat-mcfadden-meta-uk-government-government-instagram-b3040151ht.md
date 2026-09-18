@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Facebook and Instagram’s owner has agreed to pay up to 18 billion dollars
   (£13.3 billion) as part of a settlement ending a legal battle in the US.
 image: https://static.independent.co.uk/2026/08/27/09/43a699f4ad194acc9e020fb58b5dd01eY29udGVudHNlYXJjaGFwaSwxNzg3OTAzOTAw-2.78643383.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 The Government expects Meta’s new protections for teenagers in the US to also apply to the UK, Work and Pensions Secretary Pat McFadden has said.

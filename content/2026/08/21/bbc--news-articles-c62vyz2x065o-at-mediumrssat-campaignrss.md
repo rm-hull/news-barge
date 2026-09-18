@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Living a healthy life doesn't have to just be about pricey studio classes
   and luxury retreats.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d919/live/d5f042d0-9bd8-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![Anastasia sits cross-legged meditating in a garden on a sunny day](https://ichef.bbci.co.uk/ace/standard/749/cpsprodpb/d919/live/d5f042d0-9bd8-11f1-bb4d-1147ef2e78e5.jpg)

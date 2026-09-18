@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: I've been using Fable for a year, and it's overtaken Goodreads as my
   favorite way to keep of what I'm reading.
 image: https://cdn.mos.cms.futurecdn.net/ect3XgAHyecmRQCN5pbo9T-2000-80.jpg
+categories:
+- Technology & Software
+- Books & Literature
 ---
 
 ![The Fable app icon and a list of Sci-fi books](https://cdn.mos.cms.futurecdn.net/ect3XgAHyecmRQCN5pbo9T.jpg) 

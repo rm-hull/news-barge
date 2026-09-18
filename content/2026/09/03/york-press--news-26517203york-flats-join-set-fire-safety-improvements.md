@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: New details have emerged about plans to improve fire safety at a block
   of flats gutted by a blaze in York.
 image: https://www.yorkpress.co.uk/resources/images/21364996.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## New details emerge on fire safety plans for York flats gutted by blaze

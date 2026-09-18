@@ -10,6 +10,10 @@ description: There’s rare chance to step inside one of Harrogate's most intrig
   historic landmarks this weekend as the Masonic Hall opens its doors for one day
   only.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzYzViMzYxLTFiN2QtNDg0Yi1iZDllLTIxNDk1YmJlMmE0MjoyMGUxYjkyNC1iYWVmLTQ3MzEtOTZjNi0wMDZjYTAxYTRjYmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Harrogate’s Masonic Hall is to opens its doors to the public for one day only this Sunday

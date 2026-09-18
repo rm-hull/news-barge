@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T04:25:24Z'
 published: '2026-09-08T00:00:00Z'
 description: Someone hasn’t locked the door
 image: https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG-2560-80.jpeg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![art of a human hand with artificial intelligence via laptop](https://cdn.mos.cms.futurecdn.net/fNuLsYSse5LcaYMLXDUsbG.jpeg) 

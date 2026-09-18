@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: City Cruises York is offering up to 50 per cent off river experiences
   during the inaugural York Attractions' Week.
 image: https://www.gazetteherald.co.uk/resources/images/21333491.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

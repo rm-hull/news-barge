@@ -10,6 +10,9 @@ description: Apple's "Surprise and Shine" event on September 9 is the moment you
   learn if Apple built a folding phone, but, more importantly, we'll finally learn
   about John Ternus' CEO style.
 image: https://cdn.mos.cms.futurecdn.net/raChgVbmQ5trahWJ2suVsW-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![John Ternus](https://cdn.mos.cms.futurecdn.net/raChgVbmQ5trahWJ2suVsW.jpg) 

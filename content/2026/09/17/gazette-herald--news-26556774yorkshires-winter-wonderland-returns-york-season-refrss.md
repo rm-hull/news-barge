@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:23:45Z'
 published: '2026-09-17T00:00:00Z'
 description: YORKSHIRE'S Winter Wonderland is returning for its 21st season.
 image: https://www.gazetteherald.co.uk/resources/images/21464699.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

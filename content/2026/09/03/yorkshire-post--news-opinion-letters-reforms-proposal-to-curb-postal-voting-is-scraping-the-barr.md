@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:48:46Z'
 published: '2026-09-03T00:00:00Z'
 description: 'From: Roger Backhouse, Upper Poppleton, York.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQxOWU1NTAwLTg3YmQtNDdjOS05OTYwLTkwN2RmNzM3OGQ1MDo5N2YxNWM4Zi0wZWU4LTQyNWQtODI5Ni1mNDQwMmQwZDE5NjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Reform’s proposal to curb postal voting is scraping the barrel - Yorkshire Post Letters

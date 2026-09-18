@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: John Healey will detail plans to spread growth more widely across the
   UK, ahead of his first Budget.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![An image of John Healey from the waist up. He is walking and wearing a dark suit with a white shirt and red patterned tie. He is carrying a red folder. The background is blurred by you can see that he is outside from the outline of bushes.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/a295/live/6f3c1770-aa2f-11f1-bdbb-8bb5df16290b.jpg)

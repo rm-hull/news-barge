@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: The BBC's reboot of Top Gear is set to be hosted by comedian Jimmy Carr,
   according to reports.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358856.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 *(Image: PA)*

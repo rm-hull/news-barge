@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: All the ways to watch Patriots vs Seahawks for free online, with AJ Brown
   and Sam Darnold set to star in the 2026 NFL Kickoff Game at Lumen Field.
 image: https://cdn.mos.cms.futurecdn.net/vL3TF7FWGb6m9PSUBCMvBM-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![New England Patriots teammates Drake Maye and AJ Brown in conversation](https://cdn.mos.cms.futurecdn.net/vL3TF7FWGb6m9PSUBCMvBM.jpg) 

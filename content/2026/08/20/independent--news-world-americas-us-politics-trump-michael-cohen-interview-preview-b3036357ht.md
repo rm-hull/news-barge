@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The president’s former personal attorney emerged as a star witness in
   a hush money case that resulted in 34 guilty verdicts
 image: https://static.independent.co.uk/2026/08/19/20/2167636905..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Less than four months after a gunman tried to assassinate President Donald Trump in a Washington hotel ballroom, his ex-fixer is leaning into firearms metaphors to tease an unexpected sit-down with the man for whom he once said he’d “take a bullet.”

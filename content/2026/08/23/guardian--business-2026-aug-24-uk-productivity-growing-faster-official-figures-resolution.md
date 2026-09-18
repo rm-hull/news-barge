@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Resolution Foundation suggests economy may finally be emerging from shadow
   of 2008 financial crisis
 image: https://i.guim.co.uk/img/media/88c9a76b09941bcb2fc4a8eed26e0ecf45ffbe43/598_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1384f1bc54dc55f941dcb0453f164d5b
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation.

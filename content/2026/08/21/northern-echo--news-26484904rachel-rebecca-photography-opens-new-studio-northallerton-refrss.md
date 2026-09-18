@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Teesside photographer, who discovered her passion at secondary school,
   has opened her first studio in Northallerton.
 image: https://www.thenorthernecho.co.uk/resources/images/21354955.jpg?type=og-image&yType=171
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Teesside woman who found a passion for photography in secondary school has taken the next step in her career by opening her first studio in North Yorkshire.

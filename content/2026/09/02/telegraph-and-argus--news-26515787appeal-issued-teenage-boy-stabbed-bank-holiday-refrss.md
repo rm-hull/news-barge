@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Police are appealing for witnesses after a 13-year-old boy was stabbed
   in Leeds on Bank Holiday Monday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20422423.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

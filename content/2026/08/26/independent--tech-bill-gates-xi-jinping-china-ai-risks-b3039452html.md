@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Gates wants countries to monitor AI's ability to create molecules and
   carry out biological attacks
 image: https://static.the-independent.com/2026/08/26/10/2026-08-26T070142Z_515142383_RC2L5JABE2HB_RTRMADP_3_GATES-AI-CHINA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 Bill Gates is seeking to meet with Chinese President Xi Jinping later this year to propose joint international initiatives to address the escalating risks of artificial intelligence.

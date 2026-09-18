@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: The Suri Core 1.0 is a great no-frills sonic option, with free recycling
   of used heads.
 image: https://cdn.mos.cms.futurecdn.net/V5pfo38Pg8bWmiNwNZR57Z-2526-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ### TechRadar Verdict

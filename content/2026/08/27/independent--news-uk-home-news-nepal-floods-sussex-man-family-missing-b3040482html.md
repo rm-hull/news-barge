@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Pramod Poudel said he believes ‘90 per cent’ of his family’s village
   has been swept away
 image: https://static.independent.co.uk/2026/08/27/16/2292288106..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Sussex man has said he has not heard from his wife, mother, father, brother, and uncle in Nepal since the country was hit by a devastating flash flood.

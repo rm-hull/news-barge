@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Unannounced trip reported by US media is said to be Ratcliffe’s first
   known visit to Russia as CIA chief
 image: https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/751_0_2175_1740/master/2175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc825c61ddfaafc6b91b1f0a5a2cf897
+categories:
+- UK
+- News & Politics
 ---
 
 The CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted.

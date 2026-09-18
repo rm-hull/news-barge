@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Piers Morgan joined those donating to the fundraiser to help Peter Mehuish
   captain his team at Lord’s next Saturday
 image: https://static.independent.co.uk/2026/08/29/17/03/75d270_79cd6040a1ab472a95ff90fad5fbfe82~mv2.avif?trim=125,0,862,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 A village cricket player has raised enough money to fly by helicopter from his wedding in Wales to Lord’s Cricket Ground to captain his team in a can’t-be-missed final.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A judge has been appointed to lead the public inquiry into mental health
   care provided by Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV).
 image: https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg) 

@@ -10,6 +10,11 @@ description: Racegoers brought colour, glamour and some spectacular hats to Donc
   Racecourse as Ladies Day returned during a milestone year for the Betfred St Leger
   Festival.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFhZmE5MzJlLTljYzEtNDRmNC04NDNmLTVkMGM1ZTA0ZDdiMTo0MzI1Y2MzZC0wYjk2LTQ5MzYtYTg5MC1jNDBiNDIwYTJhMGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 The popular occasion, billed as “Yorkshire’s biggest social event of the year”, forms part of the prestigious festival, which is celebrating its 250th anniversary in 2026.

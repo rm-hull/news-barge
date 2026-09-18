@@ -8,6 +8,13 @@ published: '2026-08-29T00:00:00Z'
 description: City of York Council said the A64 between the Askham Fields junction
   to the former Buckles Inn pub will close from 8pm on Tuesday, September 1 and…
 image: https://www.gazetteherald.co.uk/resources/images/21385382.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Sports
+- Travel
 ---
 
 *(Image: Dylan Connell)*

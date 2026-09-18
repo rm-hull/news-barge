@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Reighton Nurseries might be worth a visit if you are looking for colourful
   plants to brighten up your garden.
 image: https://www.thenorthernecho.co.uk/resources/images/21398751.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 While summer might be coming to an end, that does not mean your garden can’t still look lovely throughout the autumn and winter.

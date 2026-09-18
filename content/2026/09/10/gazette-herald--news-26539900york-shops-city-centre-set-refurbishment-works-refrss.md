@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T19:06:31Z'
 published: '2026-09-10T00:00:00Z'
 description: Shops said to be in a very poor condition are set for a revamp.
 image: https://www.gazetteherald.co.uk/resources/images/21436433.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Bench Mark Designs)*

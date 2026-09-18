@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Cleveland Police has thanked the community for their support during an
   A66 crash funeral.
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Cleveland Police has thanked the community for their support after an A66 crash funeral.

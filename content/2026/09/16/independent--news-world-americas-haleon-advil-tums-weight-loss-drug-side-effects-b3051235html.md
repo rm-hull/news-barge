@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Haleon said it is collaborating with US retailers like CVS Pharmacy to
   display its inventory in tailored GLP-1 spaces
 image: https://static.independent.co.uk/2026/09/16/13/19/iStock-2175103842.jpg?trim=0,468,0,388&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Consumer healthcare business Haleon has reported increasing United States sales for products aimed at mitigating the side-effects of weight-loss drugs, taking advantage of the growing market for GLP-1 treatments.

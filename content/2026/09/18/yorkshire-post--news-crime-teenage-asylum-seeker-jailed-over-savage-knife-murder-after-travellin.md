@@ -10,6 +10,11 @@ description: A teenage asylum seeker has been locked up for life after he travel
   more than 150 miles and killed a man in a “savage” knife attack over a personal
   grudge.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU4MDkyODUwLTRhNzktNDdjMS05ZjgwLTdmMzRiMGQ4MTBjMzpkMGZiZWViZS1hZDQzLTQzZGItOGIxZC1lZWZjYTkxODY2ZjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Teenage asylum seeker jailed over ‘savage’ knife murder after travelling to London

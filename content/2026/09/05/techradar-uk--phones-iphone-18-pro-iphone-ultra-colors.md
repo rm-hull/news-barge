@@ -9,6 +9,8 @@ published: '2026-09-05T00:00:00Z'
 description: Colors for the iPhone 18 Pro and iPhone Ultra have appeared in new leaks.
   Here’s what we know.
 image: https://cdn.mos.cms.futurecdn.net/3CbRMhRDg5cDMbT5VgAEpa-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A hand holding the iPhone 17 Pro Max next to a hand holding the Huawei Pura X Max](https://cdn.mos.cms.futurecdn.net/3CbRMhRDg5cDMbT5VgAEpa.jpg) 

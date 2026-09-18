@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Contractor replaced for work on plant that’s key to government aim of
   reducing UK’s reliance on foreign gas
 image: https://static.independent.co.uk/2026/08/26/14/26/18_02_25-Sheet-Piling-on-the-TCA-17.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The new Sizewell C nuclear project that forms part of the government’s strategy to reduce gas imports could be delayed after a falling-out over road building.

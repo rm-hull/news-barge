@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Unusual heat this year may have melted ice and thawed bonds that hold
   glaciers in place – leading to catastrophe
 image: https://i.guim.co.uk/img/media/5047152474a5fbb7639496dc7d411fe6496b8726/559_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64353e8fedcbff18288df46388173afa
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The devastating flash flood that has ripped through the border communities of Nepal and Tibet has heightened fears that the climate crisis is destabilising the geology of mountain and polar regions, threatening millions of people.

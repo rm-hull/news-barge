@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Congressman Jamie Raskin asks president’s son to detail firm’s recent
   success after he joined 1789 Capital as partner
 image: https://i.guim.co.uk/img/media/68bd6720a9d9924d8dbb93f13aa55617d27b07d6/470_0_4683_3749/master/4683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7db754bbf8c36f589692e324f77343e6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Democrats on a powerful US congressional committee have launched an investigation into a venture capital firm which has thrived since recruiting Donald Trump’s son.

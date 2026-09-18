@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: US president Donald Trump accused Tehran of not being ready to make the
   ‘right deal’
 image: https://static.independent.co.uk/2026/08/22/03/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Tehran has cautioned its Gulf neighbours against joining Donald Trump’s “economic D-Day” sanctions after the US said it would look to hit Iran’s financial interests.

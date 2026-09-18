@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Actress Brenda Blethyn played DCI Vera Stanhope in ITV drama Vera and
   said she'd love to return for a special episode.
 image: https://www.thenorthernecho.co.uk/resources/images/21332444.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: ITV)*

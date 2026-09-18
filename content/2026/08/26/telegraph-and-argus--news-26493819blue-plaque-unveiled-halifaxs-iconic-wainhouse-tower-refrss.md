@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A BLUE plaque has been unveiled at one of Halifax’s most iconic landmarks,
   the Wainhouse Tower
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369098.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

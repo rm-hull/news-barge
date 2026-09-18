@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: BRADFORD Industrial Museum will host a car boot sale later this month,
   after the success of a similar event earlier this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18038062.jpg?type=og-image&xType=0&yType=154
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

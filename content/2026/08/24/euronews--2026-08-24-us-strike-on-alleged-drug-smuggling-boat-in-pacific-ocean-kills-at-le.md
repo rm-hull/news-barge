@@ -9,6 +9,10 @@ description: The US military launched operation "Southern Spear" in early Septem
   with President Donald Trump arguing Washington is effectively at war with drug cartels
   operating out of Latin America.
 image: https://images.euronews.com/articles/stories/09/88/59/29/1200x675_cmsv2_96911c78-a943-5dab-9c03-2a0fd1a83f7c-9885929.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The US military launched operation "Southern Spear" in early September, with President Donald Trump arguing Washington is effectively at war with drug cartels operating out of Latin America.

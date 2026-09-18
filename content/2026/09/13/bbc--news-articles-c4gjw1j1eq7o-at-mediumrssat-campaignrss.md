@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: The individual worked at the US embassy in Vauxhall, south London, had
   diplomatic protection, despite not being a diplomat.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0008/live/2a3caf10-af5f-11f1-8b54-ef4b26bcf610.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A building that looks like a silver metal cube with crystal style metal decoration covering it entirely. A US flag can be seen flying on a pole to its left.](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/0008/live/2a3caf10-af5f-11f1-8b54-ef4b26bcf610.jpg)

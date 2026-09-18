@@ -10,6 +10,9 @@ description: 'Exclusive: A spokesperson for The Box House Hotel in Brooklyn said
   retrained their staff after the outbreak, but argued that norovirus ‘was everywhere’
   in New York that winter'
 image: https://static.independent.co.uk/2026/08/24/20/05/Norovirus_3D_structural_rendering_-_1111.jpeg?trim=136,0,76,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A bride and groom – plus more than a quarter of their guests – were allegedly sickened by tainted charcuterie, croquettes and a “seasonal” dessert served at the trendy Brooklyn boutique hotel hosting their wedding reception, according to a state lawsuit reviewed by *The Independent*.

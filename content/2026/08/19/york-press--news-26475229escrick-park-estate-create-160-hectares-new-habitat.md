@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: National Grid has appointed Escrick Park Estate, located between York
   and Selby, to deliver Biodiversity Net Gain (BNG).
 image: https://www.yorkpress.co.uk/resources/images/21336794.jpg?type=og-image&xType=0&yType=125
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: National Grid)*

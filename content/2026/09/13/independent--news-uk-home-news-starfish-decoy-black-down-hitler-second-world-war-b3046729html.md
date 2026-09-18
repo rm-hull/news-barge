@@ -9,6 +9,10 @@ description: Eighty-five years on from the Battle of Britain, the fascinating st
   of a major wartime deception on home soil is only now emerging. Alex Ross explored
   one of the top-secret sites near Bristol to find out more
 image: https://static.independent.co.uk/2026/09/09/12/55/83-1-2-Starfish-Blackdown-crew-PU-1940-(Jim-Morris)-jpg.jpeg?trim=0,39,0,38&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 It would play a part in one of the most cunning and downright dangerous Second World War deceptions on British soil – but the stories of those who built and ran it remain largely unknown.

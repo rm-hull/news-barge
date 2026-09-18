@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Uefa dropped their plans to boycott Fifa tournaments on Wednesday, but
   will still move forward with efforts to remove Gianni Infantino.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad8f/live/60372850-a14c-11f1-92f3-2381193e5eb4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Gianni Infantino at the 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/876/cpsprodpb/ad8f/live/60372850-a14c-11f1-92f3-2381193e5eb4.jpg)

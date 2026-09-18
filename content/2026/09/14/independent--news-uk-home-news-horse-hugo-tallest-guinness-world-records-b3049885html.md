@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T15:00:54Z'
 published: '2026-09-14T00:00:00Z'
 description: His height came as a surprise as both his parents were of average size
 image: https://static.independent.co.uk/2026/09/14/14/09/coverimages56002862.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Shire horse named Hugo has officially been recognised as the world's tallest living horse – and he is still growing.

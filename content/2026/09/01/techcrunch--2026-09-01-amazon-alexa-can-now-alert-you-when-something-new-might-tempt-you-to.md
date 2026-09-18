@@ -10,6 +10,8 @@ description: Amazon is adding a new Alexa-powered feature called “Update Me Wh
   that can send personalized alerts about product launches, tours, books, shows, and
   other events that could trigger a purchase.
 image: https://techcrunch.com/wp-content/uploads/2026/09/update-me-when.jpeg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Amazon continues to experiment with how AI can be used to improve the shopping experience, resulting in Tuesday’s launch of a new feature within its Alexa for Shopping AI assistant called “Update Me When.” This latest addition can send consumers personalized notifications when something new or relevant happens that could lead to a purchase.

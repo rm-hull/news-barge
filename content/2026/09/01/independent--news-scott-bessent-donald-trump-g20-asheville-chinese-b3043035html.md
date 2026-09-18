@@ -10,6 +10,10 @@ description: Treasury Secretary Scott Bessent says he’s urging his G20 counter
   to take a page from the Trump administration’s playbook of using tariffs to crack
   down on trade imbalances
 image: https://static.independent.co.uk/2026/09/01/20/G2__Finance_Ministers_81157.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Treasury Secretary Scott Bessent says he's urging some of his G20 counterparts to take a page from the Trump administration's playbook of using tariffs and other measures to crack down on trade imbalances.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:31:54Z'
 published: '2026-08-19T00:00:00Z'
 description: An AI isn't secure if it's gullible
 image: https://cdn.mos.cms.futurecdn.net/GxSNrV6MwnmZHmLEQHF58B-1600-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Copilot keyboard button](https://cdn.mos.cms.futurecdn.net/GxSNrV6MwnmZHmLEQHF58B.jpg) 

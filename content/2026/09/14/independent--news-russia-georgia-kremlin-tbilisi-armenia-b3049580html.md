@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Some Russians have left the country this year amid rumors of a new mobilization
   of troops for the war in Ukraine as well as a crackdown on their personal freedoms
 image: https://static.independent.co.uk/2026/09/14/05/Russia_Fearful_and_Fleeing_19774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 This summer, a 28-year-old digital content marketer packed up his suitcases and duct-taped boxes and fled Russia, leaving behind his family and friends and not knowing when he'll be able to return.

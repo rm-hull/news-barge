@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Sonos is cramming AI into its software because it’s “very hot these days.”
   The new features, which include agentic automation, are opt-in.
 image: https://media.wired.com/photos/6a95b91888d28650c3255bcd/191:100/w_1280,c_limit/Sonos%20Ace%20Ultra%201.JPG
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Sonos has a new app. Stop me if you’ve heard this one before.

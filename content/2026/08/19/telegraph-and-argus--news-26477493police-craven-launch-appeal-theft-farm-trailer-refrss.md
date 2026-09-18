@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T13:10:45Z'
 published: '2026-08-19T00:00:00Z'
 description: Police in Craven have issued an appeal after the theft of a farm trailer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340545.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

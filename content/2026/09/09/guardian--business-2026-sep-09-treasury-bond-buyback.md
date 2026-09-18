@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Scott Bessent made announcement on Wednesday as bond yields rose to highest
   point since 2008 financial crisis
 image: https://i.guim.co.uk/img/media/1a911ae996dc514699adf57c6dc341a0f83c0cab/682_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9777475965f251bdcba916e013e0cf40
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The US treasury will buy back $6bn worth of government debt in an effort to alleviate a sell-off in the US bond market, the treasury secretary, Scott Bessent, announced on Wednesday.

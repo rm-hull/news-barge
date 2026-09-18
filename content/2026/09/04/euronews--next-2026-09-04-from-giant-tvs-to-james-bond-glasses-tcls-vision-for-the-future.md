@@ -9,6 +9,10 @@ description: TCL is showcasing its vision of a more connected home at IFA 2026. 
   spoke to TCL Europe chief marketing officer Stefan Streit about where AI and display
   technology could take everyday life next.
 image: https://images.euronews.com/articles/stories/09/89/90/31/1200x675_cmsv2_31478c82-7321-5a0a-b82b-f56db1e78cc3-9899031.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## TCL is showcasing its vision of a more connected home at IFA 2026. Euronews spoke to TCL Europe chief marketing officer Stefan Streit about where AI and display technology could take everyday life next.

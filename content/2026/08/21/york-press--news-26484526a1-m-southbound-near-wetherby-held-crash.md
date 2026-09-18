@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:06:29Z'
 published: '2026-08-21T00:00:00Z'
 description: All vehicles have been held on a major North Yorkshire road this lunchtime.
 image: https://www.yorkpress.co.uk/resources/images/21173013.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 ## Delays of more than 60 minutes after multi-vehicle crash on A1

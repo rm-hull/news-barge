@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Bags from some of the world’s biggest fashion brands are up for grabs,
   including Louis Vuitton, Christian Dior, Gucci, Prada, Burberry, Celine,…
 image: https://www.gazetteherald.co.uk/resources/images/21466634.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Jam Press/Greggs)*

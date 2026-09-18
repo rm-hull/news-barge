@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: The move comes as OpenAI had already essentially dismantled his job across
   three different executives
 image: https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The OpenAI logo displayed on a screen with the flag of the United States in the background.](https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Eastbourne Borough Council did not install the first public toilets for
   ladies until 1900.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65af/live/2495eeb0-9cb7-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![The Queens Hotel in Eastbourne during the 1900s. The black and white image shows the hotel, which is on the seafront.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/65af/live/2495eeb0-9cb7-11f1-a291-b542ee92de7c.jpg)

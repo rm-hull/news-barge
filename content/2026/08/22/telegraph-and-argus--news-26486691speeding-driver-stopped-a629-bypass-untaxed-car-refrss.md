@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: A driver stopped for speeding on the A629 bypass was found to be driving
   a vehicle that had allegedly been untaxed since November 2022.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357331.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

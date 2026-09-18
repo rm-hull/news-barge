@@ -10,6 +10,11 @@ description: Six Nigerian nationals linked to a criminal network accused of swin
   American women out of over $6 million through online romance scams will be extradited
   to the United States on Friday
 image: https://static.independent.co.uk/2026/09/11/11/South_Africa_US_Extradition_8447_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Six Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of over $6 million through online romance scams will be extradited to the United States on Friday, South African police said.

@@ -9,6 +9,9 @@ description: Video. Spain began relocating migrants from a makeshift camp on Ceu
   El Trampolín beach on Thursday, 20 August, nearly three weeks after a mass border
   surge left thousands living without adequate shelter in the North African enclave.
 image: https://images.euronews.com/articles/stories/09/88/29/17/1200x675_cmsv2_beae143a-af19-5387-b93e-61e7b56203c1-9882917.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 National Police and Civil Guard officers escorted migrants to temporary reception sites at Loma Margarita and El Embolsamiento. More than 1,200 people had been transferred by late morning, while local reports put the total at up to 1,700. The beach was later cleared, although some migrants returned.

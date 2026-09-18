@@ -8,6 +8,8 @@ scraped_at: '2026-09-11T19:08:40Z'
 published: '2026-09-11T00:00:00Z'
 description: Maybe ease off little?
 image: https://cdn.mos.cms.futurecdn.net/uFka7M2YjcFGhhtPTMDnJY-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Abstract digital human face. Artificial intelligence concept of big data or cyber security](https://cdn.mos.cms.futurecdn.net/uFka7M2YjcFGhhtPTMDnJY.jpg) 

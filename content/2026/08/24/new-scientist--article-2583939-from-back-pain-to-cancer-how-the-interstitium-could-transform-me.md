@@ -10,6 +10,10 @@ description: For centuries, we’ve ignored the interstitium, but research is no
   that this body-wide network of fluid is instrumental to our health and points the
   way to new treatments
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308205819.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308205819.jpg?w=840)

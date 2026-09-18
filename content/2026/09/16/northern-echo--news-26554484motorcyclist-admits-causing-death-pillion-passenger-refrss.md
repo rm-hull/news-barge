@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Darlington motorcyclist Gabriel Horsley-Ling admits causing death by
   dangerous driving after Yarm Road crash killed pillion passenger Carla Scown.
 image: https://www.thenorthernecho.co.uk/resources/images/17810817.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 A motorcyclist has admitted causing the death of his pillion passenger in a horror crash.

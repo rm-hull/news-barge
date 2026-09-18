@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: A man acted as a look-out in an early hours' house burglary and was then
   a passenger in a car taken from outside the targeted home, which went…
 image: https://www.thenorthernecho.co.uk/resources/images/21355769.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Durham Constabulary)*

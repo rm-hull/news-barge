@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Tensions are rising in northeastern Syria as a Kurdish-led force integrates
   into Syria’s army
 image: https://static.independent.co.uk/2026/09/14/21/Syria_Kurds_Funeral_266_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of oil tanker trucks were stranded in northeastern Syria's Kurdish region Wednesday after demonstrators blocked a major highway near the town of Tal Tamr in protest over rising fuel prices.

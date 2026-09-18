@@ -9,6 +9,12 @@ description: Veterans from Huddersfield were among hundreds of bikers who descen
   on the National Memorial Arboretum to mark the opening of the UK’s first memorial
   to service personnel who have ended their own lives.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhlYTBiOTc5LTBkYWMtNDY2ZS1hMjAzLTY3N2E2MDI2MGE3YTo3YmYxYjI5Yy0zZjg1LTRiMTctOTc5Ni01YzA5ZWI5ZjU3ZGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- True Crime
 ---
 
 # New veterans' memorial aims to bring suicide 'out of the shadows'

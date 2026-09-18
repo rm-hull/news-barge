@@ -10,6 +10,10 @@ description: Tyson Fury has sparked more speculation his all-British heavyweight
   with Anthony Joshua is on the verge of collapse by suggesting he needs a new opponent
   for November.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0002/live/e1644db0-aa87-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Tyson Fury holds up his hand and is wearing a boxing glove and Anthony Joshua holds up two fingers and has a Union Jack over his shoulders](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png)

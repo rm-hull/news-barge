@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The trust's new chief executive says he apologises unreservedly - "What
   happened was utterly unacceptable."
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d14d/live/5bf37fc0-b356-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 Watch: Denise (pictured), Pam and other women describe how they were failed

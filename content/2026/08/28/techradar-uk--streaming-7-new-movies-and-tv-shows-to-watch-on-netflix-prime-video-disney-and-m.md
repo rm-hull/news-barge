@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The final week of August 2026 is light on must-see new movies and TV
   shows to watch at home.
 image: https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Pete, Tom, and Amanda staring at something off-camera in Netflix movie The Whisper Man](https://cdn.mos.cms.futurecdn.net/LW2EUhsGBATa5fCPATgzof.jpg) 

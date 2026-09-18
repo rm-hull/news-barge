@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Hartlepool United held a two-minute silence before its match with Eastleigh
   in tribute to PC Matthew Blades and PC Tom Clough, who died in the A66…
 image: https://www.thenorthernecho.co.uk/resources/images/21387323.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: NORTHERN ECHO)*

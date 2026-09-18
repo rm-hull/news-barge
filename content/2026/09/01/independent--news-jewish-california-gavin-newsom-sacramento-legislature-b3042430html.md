@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Lawmakers in California have passed a bill that would require state agencies
   that collect demographic information to allow people to identify their Jewish identity
 image: https://static.independent.co.uk/2026/09/01/04/California_Legislature_52774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 California would allow Jews to voluntarily identify their Jewish heritage on state forms under a bill the state Assembly passed Monday.

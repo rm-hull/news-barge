@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police said officers were called to a property on Stockton
   Lane at 2.49am on Tuesday, September 15, following a report from the…
 image: https://www.yorkpress.co.uk/resources/images/20441587.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

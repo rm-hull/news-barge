@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The IKEA marketplace will allow people to upload photos of their old
   IKEA items to sell.
 image: https://www.yorkpress.co.uk/resources/images/21336338.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Popular homeware brand to launch new second-hand marketplace in the UK

@@ -9,6 +9,9 @@ description: Amazon is making its AI-powered Alexa+ assistant free on all compat
   Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe
   to Prime.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 AI is coming to your TV, whether you want it or not.

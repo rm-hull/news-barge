@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T13:06:51Z'
 published: '2026-08-20T00:00:00Z'
 description: ThreadPort moves active conversations between all three AI assistants
 image: https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![ChatGPT, Gemini and Claude on smartphones in one image.](https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A family-run North East restaurant has announced it is closing its doors,
   with owners saying the decision had been made with a "heavy…
 image: https://www.thenorthernecho.co.uk/resources/images/21332197.jpg?type=og-image&xType=0&yType=210
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Danish toymaker also scores success with KPop Demon Hunters, Star Wars
   and botanicals products
 image: https://i.guim.co.uk/img/media/b54cca2a81fa14bb8e8748b6b674896c9f6ea69c/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e432cbe76de1be3be363c22900c2c8ef
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Lego sales have risen by more than a fifth as tie-ups with the football World Cup, Formula One and the hit film KPop Demon Hunters as well as its flower-based and Star Wars kits drive demand.

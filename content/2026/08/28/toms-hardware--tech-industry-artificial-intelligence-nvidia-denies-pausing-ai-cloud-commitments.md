@@ -9,6 +9,10 @@ scraped_at: '2026-08-28T22:14:18Z'
 published: '2026-08-28T00:00:00Z'
 description: Why pause after giving $36 billion of commitments?
 image: https://cdn.mos.cms.futurecdn.net/dRrumQbyPzGfGLECutnkSU-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia logo](https://cdn.mos.cms.futurecdn.net/dRrumQbyPzGfGLECutnkSU.jpg) 

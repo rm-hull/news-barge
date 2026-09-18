@@ -10,6 +10,10 @@ description: AI model-training startup AfterQuery has reportedly raised a round 
   valued it at $3.2 billion, just five months after announcing its $30 million Series
   A at a $300 million valuation in April.
 image: https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. This just five months after announcing its $30 million Series A at a $300 million valuation in April.

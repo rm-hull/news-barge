@@ -9,6 +9,9 @@ description: 'The 46-year-old former essayist, MEP and head of the centre-left p
   "Place Publique" is expected to use a prime-time interview tonight to announce his
   bid, joining an already crowded field of left-wing contenders. #EuropeInMotion'
 image: https://images.euronews.com/articles/stories/09/88/51/81/1200x675_cmsv2_5306d639-3898-55a6-9e6b-dcb87a4ff76a-9885181.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Serge Duchêne**

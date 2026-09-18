@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Frances Blair said one of her biggest hopes has been to revisit her favourite
   outlet
 image: https://static.independent.co.uk/2026/09/06/20/01M1TRBAZZNX0BZ39VAHTJGVJR.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A 101-year-old Marks & Spencer superfan has made a special trip to her favourite retailer after four years.

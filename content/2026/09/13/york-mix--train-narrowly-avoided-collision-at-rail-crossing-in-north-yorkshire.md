@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T07:25:55Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/hopperton-old-railway-crossing-gsv.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 An investigation has been launched after a train had a near miss on a stretch of track in North Yorkshire.

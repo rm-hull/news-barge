@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A Harrogate charity has launched an appeal to support communities affected
   by devastating floods in Nepal.
 image: https://mmo.aiircdn.com/409/6aa0097a125daab7849.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa0097a125daab7849.jpg) 

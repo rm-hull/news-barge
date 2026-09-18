@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Here are the latest planning applications validated by Durham County
   Council in the past week, featuring proposals for tree works, school…
 image: https://www.thenorthernecho.co.uk/resources/images/18954964.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: NQ)*

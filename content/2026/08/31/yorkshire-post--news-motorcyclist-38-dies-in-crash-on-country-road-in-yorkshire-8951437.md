@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: A motorcyclist died after crashing into a fence on a country road in
   East Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2YTg4NTdlLWZmZTAtNGZjNi05MDdhLTVmMGVmMTFhYWZmZDpkYmFkZGQyMy1iNDQ4LTRjYTAtODZjMS05ODAzZDM1YTZjM2M=.jpg?crop=3:2,smart&trim=&width=958&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Travel
 ---
 
 # Motorcyclist, 38, dies in crash on country road in Yorkshire

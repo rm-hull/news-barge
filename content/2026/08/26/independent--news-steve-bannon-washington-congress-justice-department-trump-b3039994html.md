@@ -11,6 +11,10 @@ description: A federal judge has rejected the Justice Department’s request to 
   congressional committee that investigated a mob’s Jan. 6, 2021, attack on the U.S.
   Capitol
 image: https://static.independent.co.uk/2026/08/07/00/Capitol_Riot_Oath_Keepers_33411.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A federal judge on Wednesday rejected the Justice Department's request to erase Trump ally Steve Bannon's criminal conviction for refusing to testify before the congressional committee that investigated a mob's Jan. 6, 2021, attack on the U.S. Capitol. But it may not be a final decision on the matter.

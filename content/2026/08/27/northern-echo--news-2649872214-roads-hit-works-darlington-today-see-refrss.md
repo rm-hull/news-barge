@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: 14 sets of roadworks are affecting Darlington roads on Thursday, August
   27, here's what you need to know.
 image: https://www.thenorthernecho.co.uk/resources/images/20588896.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service attended 850 fires between June
   and August, with 550 of those in open areas.
 image: https://www.yorkpress.co.uk/resources/images/21383892.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Sharp rise in outdoor fires puts pressure on North Yorkshire firefighters

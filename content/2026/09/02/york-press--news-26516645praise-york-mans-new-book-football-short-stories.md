@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: York man John Wheatcroft's new book about the “strange death of football”
   has been praised by well-known writer Jonathan Wilson.
 image: https://www.yorkpress.co.uk/resources/images/21403079.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Books & Literature
 ---
 
 *(Image: John Wheatcroft)*

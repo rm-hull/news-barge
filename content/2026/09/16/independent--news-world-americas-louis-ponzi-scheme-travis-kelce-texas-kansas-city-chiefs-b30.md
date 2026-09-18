@@ -10,6 +10,10 @@ description: The creator of a Texas-based investment company has been sentenced 
   11 years in federal prison for running a Ponzi scheme that prosecutors say bilked
   dozens of people, including Kansas City football star Travis Kelce
 image: https://static.independent.co.uk/2026/09/16/23/Broncos_Chiefs_Football__2697.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The creator of a Texas-based investment company has been sentenced to 11 years in federal prison for his role in a Ponzi scheme that prosecutors say bilked 64 victims, including Kansas City Chiefs tight end Travis Kelce.

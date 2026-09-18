@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: Nintendo has officially confirmed the new UK price for the Nintendo Switch
   2, which increases next month.
 image: https://cdn.mos.cms.futurecdn.net/J9Y8r9CSs7Q8Kd4Hvw32uC-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Nintendo Switch 2 and a controller in front of a red background](https://cdn.mos.cms.futurecdn.net/J9Y8r9CSs7Q8Kd4Hvw32uC.jpg) 

@@ -9,6 +9,10 @@ description: The former foreign secretary and Braintree MP says the capital need
   ‘a champion, someone who understands its potential and is prepared to fight for
   its future’
 image: https://static.independent.co.uk/2026/07/31/11/1b91a9e6c879028602a79c091e123b74Y29udGVudHNlYXJjaGFwaSwxNzg1NTgwNDY4-2.84183940.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Sir James Cleverly is quitting the shadow cabinet to run for London mayor.

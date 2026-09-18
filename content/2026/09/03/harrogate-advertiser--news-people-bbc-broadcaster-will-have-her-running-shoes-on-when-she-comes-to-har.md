@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Runners in Harrogate are being invited to join BBC broadcaster Sophie
   Raworth on an early morning 5k through the town next month.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJiNDgyNmIzLWIyODUtNDQxNy04OWQ5LWU4NGY4NzNlN2MzMDplY2ZjNjU5NS05MDlmLTQ4YTktODkyNy0yZTUwZDliOTg0YWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # BBC broadcaster will have her running shoes on when she comes to Harrogate for Raworths Harrogate Literature Festival

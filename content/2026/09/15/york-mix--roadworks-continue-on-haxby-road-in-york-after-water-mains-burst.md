@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:58Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/haxby-road-york-water-roadworks-mains-burst-dd-1.jpg
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Roadworks are continuing on Haxby Road in York this morning (Tuesday).

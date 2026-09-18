@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: As has often been the case with such incidents, no group was immediately
   publicly blamed or claimed responsibility for the actions.
 image: https://images.euronews.com/articles/stories/09/88/57/47/1200x675_cmsv2_d35a29a9-c4b3-5c77-a605-666798aae174-9885747.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ## As has often been the case with such incidents, no group was immediately publicly blamed or claimed responsibility for the actions.

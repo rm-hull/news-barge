@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Right to assisted dying established for patients with conditions assessed
   as incurable and causing unbearable pain
 image: https://i.guim.co.uk/img/media/28b1af7ff82cb37b3dfb6d482703534345d485b7/555_300_3182_2547/master/3182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=996c8be14b3d44b2bf2d893832d82312
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
+- Law & Justice
 ---
 
 Legislation granting incurably ill adults the right to assisted dying has been formally adopted in France after the text was approved by the country’s highest constitutional authority and published in the official journal.

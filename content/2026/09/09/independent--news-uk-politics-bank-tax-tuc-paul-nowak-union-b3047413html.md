@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The general secretary of the TUC Paul Nowak called on the Labour leader
   to go ‘further and faster’ on cutting bills
 image: https://static.independent.co.uk/2025/11/27/18/aacea8d1dddd2268bf8378fe73bcc1e4Y29udGVudHNlYXJjaGFwaSwxNzY0MzUyNDY1-2.81515222.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The UK’s most powerful union leader has called on Andy Burnham to “go further and faster” in solving the cost of living crisis by slapping a tax on banks.

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Bettys tea room in Harlow Carr, Harrogate, will be temporarily closed
   during a renovation ahead of its transformation.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBkZWEzOTM4LTdhMjUtNGQ2ZC1hZjVjLThkMjM5NDRjZGY4NDowNmQxYjY0Mi1kYmU0LTQzZmQtOTZiYy1iZDQ5ZDY2NjQ5MWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Bettys Harlow Carr: Yorkshire cafe and tea room to close for a month ahead of its transformation

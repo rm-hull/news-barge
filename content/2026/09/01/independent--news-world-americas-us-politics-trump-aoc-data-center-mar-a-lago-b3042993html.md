@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: President Trump has come out strongly in support of data centers, even
   as the projects attract bipartisan opposition
 image: https://static.independent.co.uk/2026/09/01/19/2292915794..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Representative Alexandria Ocasio-Cortez had a cheeky response on Monday when asked about President Trump’s recent comments that opponents of data centers want to be “backwards and poor.”

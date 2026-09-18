@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The comments on BBC Newsnight come after the UK announced it has agreed
   to hand over blueprints for British-made missile components to Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Ukrainian President Volodymyr Zelensky (R) and Prime Minister of Britain Andy Burnham (L) pose as they attend a signing documents ceremony during their meeting at the Presidential office in Kyiv, Ukraine, 24 August 2026, amid the ongoing Russian invasion.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg)

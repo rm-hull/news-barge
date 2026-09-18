@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Hundreds have fallen ill with salmonella infections in an outbreak linked
   to imported eggs.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A carton of eggs are in focus, with a hand picking up on egg.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg)

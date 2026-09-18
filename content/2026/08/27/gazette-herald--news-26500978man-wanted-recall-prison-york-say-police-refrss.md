@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Police believe Anthony Jackson, 39, who is wanted on recall to prison
   is in York.
 image: https://www.gazetteherald.co.uk/resources/images/21379503.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

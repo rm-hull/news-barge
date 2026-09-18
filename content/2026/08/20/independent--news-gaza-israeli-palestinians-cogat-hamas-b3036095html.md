@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T08:52:19Z'
 published: '2026-08-20T00:00:00Z'
 description: The smuggling of goods restricted by Israel into Gaza has boomed
 image: https://static.independent.co.uk/2026/08/20/06/Israel_Palestinians_Gaza_34312.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Palestinians face inflated prices for groceries and batteries, hospitals have turned to smugglers for medicine and equipment, and Israeli soldiers and other middlemen are accused of pocketing millions of dollars as the smuggling of goods restricted by Israel into the Gaza Strip has boomed, according to an Associated Press investigation based on court documents and interviews with traders, truckers and officials.

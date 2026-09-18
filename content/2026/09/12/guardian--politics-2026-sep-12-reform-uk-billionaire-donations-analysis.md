@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Party can boost its campaign power with funds from billionaire backers,
   but it can also lose support from ordinary Britons
 image: https://i.guim.co.uk/img/media/061f13a224d30f4577e345596b379b5528eb35ce/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b94efecbbb225218dd730f346dc57cd
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 All things being equal, pretty much any political strategist would welcome a £72m war chest; a sum higher than the combined spending of every major party at the 2024 general election. But all things are not equal, and with such a huge amount comes risk.

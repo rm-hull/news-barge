@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: After years of delay, the jury has reached a verdict but some questions
   remain unanswered over what happened to the 14-year-old.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/868e/live/eda15b10-7470-11f1-8546-8f19e4fe30f4.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Noah Donohoe, a boy with dark hair, wearing a black blazer, white shirt and green black and white tie.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/868e/live/eda15b10-7470-11f1-8546-8f19e4fe30f4.jpg)

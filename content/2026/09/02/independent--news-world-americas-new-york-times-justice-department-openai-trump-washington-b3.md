@@ -10,6 +10,11 @@ description: The Trump administration is backing OpenAI over the New York Times 
   a closely watched case over how it builds its AI technology using millions of news
   articles
 image: https://static.independent.co.uk/2026/09/02/20/G2__Finance_Ministers_Media__7825.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Trump administration is wading into a legal fight between OpenAI and the New York Times, backing the ChatGPT-maker's argument in a closely watched case over how it builds its AI technology by ingesting and processing millions of news articles.

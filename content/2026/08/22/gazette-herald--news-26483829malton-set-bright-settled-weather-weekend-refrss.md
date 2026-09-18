@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: The Met Office has forecast a mix of sunshine and clouds across Malton
   this weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21095045.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Matthew Evans)*

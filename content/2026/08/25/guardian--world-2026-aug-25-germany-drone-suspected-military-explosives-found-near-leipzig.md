@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Local media report discovery by German investigators after attempted
   attack on cargo and military logistics hub
 image: https://i.guim.co.uk/img/media/905e68e9072ad94a0fada6f94806012c003dc6fe/491_0_3411_2730/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02d376c652c47ba5c9f6afff633f8d85
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 German investigators uncovered a third drone and suspected military explosives thought to be connected to an attempted attack on Leipzig airport, local media have reported.

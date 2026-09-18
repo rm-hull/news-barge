@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Former Army secretary said last week that his ex-boss was doing ‘generational’
   damage to America’s armed forces
 image: https://static.independent.co.uk/2026/09/03/16/download.-1.?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A former secretary of the Air Force who was stripped of his security clearance by the Trump administration last month accused Defense Secretary Pete Hegseth of leading a “culture of fear” at the Pentagon where commanders feared speaking their minds due to the risk of losing their careers.

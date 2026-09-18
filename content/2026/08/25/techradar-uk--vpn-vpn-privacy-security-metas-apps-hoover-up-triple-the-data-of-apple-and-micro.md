@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: A Surfshark analysis of 171 iOS apps found Meta's software self-reports
   collecting 25 of 35 possible data types, dwarfing its Big Tech rivals
 image: https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![In this photo illustration, the Meta Platforms, Inc. logo is displayed on a smartphone screen.](https://cdn.mos.cms.futurecdn.net/QjbKdMt7whnQrYoGM6Mqvm.jpg) 

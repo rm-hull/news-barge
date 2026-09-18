@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Polling stations open in Saxony-Anhalt with anti-immigration party AfD
   predicted to gain 41% vote share
 image: https://i.guim.co.uk/img/media/b184393eaadd1a0bf01849ed0eb6fe17d004b1b4/238_0_2379_1903/master/2379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ad8daeb758a853b5ad45cc1a010cf45
+categories:
+- UK
+- News & Politics
 ---
 
 Polls have opened in the east German state of Saxony-Anhalt, where the populist, far-right, anti-immigration Alternative für Deutschland (AfD) is predicted to emerge on top in an election that could have a groundbreaking effect on Germany’s political landscape.

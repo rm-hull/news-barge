@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Some 18 months after opening, HMP Millsike continues to have hundreds
   of empty cells with inspectors saying it is unsafe to ramp up capacity further.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc3MGY5M2FjLWE5NTktNGRlOC04ZjUzLWYzOThkYWM4NTQyMDo2MTQzYWJlYS00MWFlLTQ1YTctODk2OS0yZjQzMzZmZWNjNWI=.jpg?crop=3:2,smart&trim=&width=937&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # HMP Millsike: super prison's opening was 'unsafe' and empty cells continue over 'chronic shortage of staff'

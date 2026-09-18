@@ -8,6 +8,9 @@ scraped_at: '2026-09-07T22:47:06Z'
 published: '2026-09-07T00:00:00Z'
 description: Increased use of GLP-1s fueled current protein craze, report finds
 image: https://static.independent.co.uk/2026/09/07/21/2283910672..?trim=0,8,0,8&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Americans’ need for protein — amid “protein-maxxing” trends — appears to be here to stay.

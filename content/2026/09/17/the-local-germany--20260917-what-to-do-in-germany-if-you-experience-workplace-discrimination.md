@@ -9,6 +9,12 @@ description: Figures released this week suggest workplace discrimination is beco
   more common in Germany. If you experience it, knowing your rights and acting quickly
   can make a significant difference.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-213738676.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
+- Careers & Productivity
 ---
 
 If you work in Germany, the latest anti-discrimination figures are worth paying attention to.

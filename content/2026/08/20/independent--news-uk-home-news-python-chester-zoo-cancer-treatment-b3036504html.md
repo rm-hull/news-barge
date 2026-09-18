@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The 23-year-old reticulated python has returned to her ‘bright and feisty
   self’ after receiving electrochemotherapy
 image: https://static.independent.co.uk/2026/08/20/16/01M0EW6MWED210RFQZSTN57W62.jpg?trim=0,41,0,41&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A 40kg, 15-foot python named after actress Jodie Foster is thought to be the first snake in the world to benefit from a cancer treatment normally used on humans.

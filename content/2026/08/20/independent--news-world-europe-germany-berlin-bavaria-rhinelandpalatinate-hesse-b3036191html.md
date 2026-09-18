@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Severe storms have caused extensive damage in parts of Germany, leaving
   one woman dead and at least two people injured
 image: https://static.independent.co.uk/2026/08/20/09/Germany_Extreme_Weather_Storm_82771.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A woman died and at least two other people were injured as severe storms caused extensive damage overnight across parts of Germany.

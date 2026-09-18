@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: “Practical Magic 2” conjures a box-office victory this weekend, topping
   the North American charts nearly three decades after its predecessor
 image: https://static.independent.co.uk/2026/09/10/20/Film_Review_-_Practical_Magic_2_3829_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 “Practical Magic 2" conjured a box-office victory this weekend, opening atop the North American charts nearly three decades after its predecessor grew from a modest theatrical performer into a cult favorite.

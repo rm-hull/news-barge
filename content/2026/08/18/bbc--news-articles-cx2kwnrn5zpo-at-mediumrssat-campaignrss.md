@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Several thousands of Vinted users say they have been wrongly suspended
   or permanently banned from the preloved app.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Emma Neil with blonde hair holding her black sandals in her kitchen](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6230/live/713856f0-97f7-11f1-9577-b1309b6ea3af.jpg)

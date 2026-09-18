@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: The news that easyJet is scrapping flights from Leeds Bradford Airport
   (LBA) next year will affect huge numbers of holidaymakers in West Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmViYWI5OGNjLTcwZjMtNDE3NC05YzQwLThhMzE4ZjYzMGZlOTplNGRhNWQxMS1lZTA1LTQ1NGYtOTNhOC0xZDI2OTJiM2IwNjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Holidaymakers react to easyJet's 'disappointing' scrapping of Leeds Bradford flights

@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:29Z'
 published: '2026-09-07T00:00:00Z'
 description: Now is the time to start preparing, G7 says
 image: https://cdn.mos.cms.futurecdn.net/UVm4pWzxzFfM3waNQDdPrD-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Quantum computing concept. Digital communication network. Technological abstract.](https://cdn.mos.cms.futurecdn.net/UVm4pWzxzFfM3waNQDdPrD.jpg) 

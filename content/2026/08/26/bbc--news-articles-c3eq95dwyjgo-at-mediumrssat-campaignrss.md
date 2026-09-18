@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The victim, believed to be a 17-year-old, was found fatally injured at
   Brent Council's headquarters.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a98/live/65dd42d0-a124-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
 ---
 
 ![A police cordon is in place outside Brent Civic Centre.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0a98/live/65dd42d0-a124-11f1-92eb-a9b3bbcf6f4a.jpg)

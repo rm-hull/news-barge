@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: ONE of the top-rated cafés in a popular North Yorkshire resort has applied
   for a new licence from the council.
 image: https://www.yorkpress.co.uk/resources/images/21379962.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## Top rated café applies for new licence in North Yorkshire town

@@ -9,6 +9,11 @@ description: Passengers at German rail stations face much longer delays than in 
   major European cities, a new survey has revealed, with waiting times at Berlin Central
   Station averaging 20 minutes.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/11/watermarks-logo-557722739.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 For commuters used to seeing *"Züg verspätet"* (train delayed) notices flashing at their local station, seeing the names of German cities at the bottom of reliability rankings may not come as a surprise.

@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A BEATLES album once owned by Ringo Starr has become the world’s most
   valuable vinyl record, selling for more than £500,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20383516.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

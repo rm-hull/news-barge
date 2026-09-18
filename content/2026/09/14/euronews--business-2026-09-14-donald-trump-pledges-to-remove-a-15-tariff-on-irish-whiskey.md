@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: US President Donald Trump announced on Sunday at the close of a golf
   tournament in Ireland that he plans to remove a 15% tariff on Irish whiskey.
 image: https://images.euronews.com/articles/stories/09/91/19/97/1200x675_cmsv2_7bdb11e3-bf8d-5c40-9032-9e867a9c5011-9911997.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## US President Donald Trump announced on Sunday at the close of a golf tournament in Ireland that he plans to remove a 15% tariff on Irish whiskey.

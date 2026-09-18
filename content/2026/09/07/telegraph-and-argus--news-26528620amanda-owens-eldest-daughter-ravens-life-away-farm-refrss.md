@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: Raven Owen grow up helping with life on the windswept hills of Ravenseat,
   Amanda Owen’s eldest daughter has since forged a very different path…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20954163.jpg?type=og-image&xType=0&yType=104
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: James Speakman/PA Media Assignments)*

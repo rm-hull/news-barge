@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Technical progress has encouraged a new batch of companies to jump in
   on the promise of profits from humanoid robots. And they're all Chinese automakers.
 image: https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848
+categories:
+- Technology & Software
 ---
 
 The hype around humanoid robots isn’t particularly new. Thank Tesla CEO Elon Musk and his Optimus robot, as well as the myriad videos of Boston Dynamics’ Atlas robot, for that.

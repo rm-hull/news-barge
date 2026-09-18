@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Residents have been begging for recycling bins in York, the council’s
   environment spokesperson has said, as plans to ditch boxes face calls for a rethink.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE4N2ZhZDgzLTFhMzQtNGEzOC1iOTliLWQ1NGRkNmU5NDQ1Nzo2NWFkNmI2ZC0wNzQ0LTRhODItYTIyYy02OTMxODI2YWJiMjM=.png?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # People 'begging for recycling bins' in York as roll out branded 'a mess'

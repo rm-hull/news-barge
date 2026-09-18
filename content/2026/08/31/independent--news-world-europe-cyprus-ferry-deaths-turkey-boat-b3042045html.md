@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: ‘We saw and witnessed a family’s children, boys and girls, very young
   children, drowning’
 image: https://static.independent.co.uk/2026/08/30/17/2026-08-30T145628Z_272988605_RC229NATPGZ3_RTRMADP_3_CYPRUS-VESSEL-CAPSIZE-RESCUE.JPG?trim=0,280,0,281&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 The survivors of a ferry disaster off the coast of Cyprus that killed eight people described the chaotic moments of terror as they scrambled to escape the sinking vessel as others drowned around them.

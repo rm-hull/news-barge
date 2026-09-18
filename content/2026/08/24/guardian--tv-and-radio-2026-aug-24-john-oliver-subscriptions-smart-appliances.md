@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The host also discussed the rise of forgotten monthly subscriptions for
   anything from dishwashers to litter boxes
 image: https://i.guim.co.uk/img/media/3a5d863e691b791dd98abaf903fbb3e99e349d37/379_0_2040_1632/master/2040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05bf12d085df81eebd43071c1019b7cc
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 On the Sunday night episode of his HBO show, John Oliver discussed the rise of subscription-based business models across the worlds of music, film and TV, beauty, food, cleaning services and more.

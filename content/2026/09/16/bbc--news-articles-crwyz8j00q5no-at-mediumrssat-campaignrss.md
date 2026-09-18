@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Rachida Dati, 61, is accused of taking money from the carmaker in return
   for political influence.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e01/live/c6d18b00-b1be-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Rachida Dati speaks at a podium with two microphones, wearing dark-framed glasses and an olive-green shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5e01/live/c6d18b00-b1be-11f1-bdcf-d393eb724fa3.jpg)

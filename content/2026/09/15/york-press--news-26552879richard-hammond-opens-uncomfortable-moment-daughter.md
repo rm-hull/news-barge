@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Richard Hammond of The Grand Tour has spoken about the "uncomfortable"
   moment his daughter crashed a Formula E car.
 image: https://www.yorkpress.co.uk/resources/images/17772032.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 *(Image: Carver PR)*

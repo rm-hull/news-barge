@@ -11,6 +11,12 @@ description: A man who set fire to a police van, an 18-year-old jailed for rapin
   a driver who caused a pensioner's death are among the latest cases heard in Yorkshire
   courts.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/21/16/18/onecms_10e5a999-7a26-469b-9406-7c3d7fcd4fcf.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Court round-up: Police van arsonist jailed, child abuser sentenced and driver spared prison

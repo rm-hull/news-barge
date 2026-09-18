@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: In a letter, the entrepreneur accuses the prime minister of "jumping
   on 'everyday fixes' or bandwagons" with his latest cost of living and retail policies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a954/live/16d5b030-a25c-11f1-a2c3-9b22da0a32fd.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Businessman Mike Ashley wearing a white shirt, and green suit jacket, smiling at the camera as he walks with a man behind him](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/a954/live/16d5b030-a25c-11f1-a2c3-9b22da0a32fd.jpg)

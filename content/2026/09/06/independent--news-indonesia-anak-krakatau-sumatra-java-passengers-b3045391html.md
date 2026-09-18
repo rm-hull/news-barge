@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Indonesia’s Anak Krakatau volcano has erupted, forcing the temporary
   suspension of flights at Jakarta’s Soekarno-Hatta International Airport
 image: https://static.independent.co.uk/2026/09/06/03/Indonesia_Volcano_Eruption_34678.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Indonesia’s Anak Krakatau volcano erupted early Sunday, prompting the cancellation of all flights at Jakarta’s Soekarno-Hatta International Airport as volcanic ash drifted across parts of western Indonesia.

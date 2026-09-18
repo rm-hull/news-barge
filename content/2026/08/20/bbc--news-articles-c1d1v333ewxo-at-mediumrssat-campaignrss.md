@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Home Office credits France with intercepting hundreds of potential
   crossings this summer using new tactics.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2f9/live/1b511ae0-9ce5-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 French police slash migrant small boat

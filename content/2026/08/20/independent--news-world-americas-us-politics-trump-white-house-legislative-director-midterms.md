@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Word that the key liaison between Trump and Congress is leaving comes
   a week after his press secretary revealed she was stepping down
 image: https://static.independent.co.uk/2026/08/14/17/2026-08-05T143301Z_714340899_RC2ESMA13LIL_RTRMADP_3_USA-VANCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s main liaison to Congress will leave the White House a week after White House Press Secretary Karoline Leavitt announced her exit.

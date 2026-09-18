@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A man who murdered his 41-year-old stepmother by strangling her with
   her own headscarf will not face a further trial for downloading indecent images…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20670480.jpg?type=og-image&xType=0&yType=499
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

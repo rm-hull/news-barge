@@ -10,6 +10,10 @@ description: The Shajareh Tayyebeh school in Minab, Iran, is now a memorial for 
   and others killed in the Feb. 28 attacks that sparked the war with the United States
   and Israel
 image: https://static.independent.co.uk/2026/09/06/14/Iran_War_16346.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 This will never be a school again.

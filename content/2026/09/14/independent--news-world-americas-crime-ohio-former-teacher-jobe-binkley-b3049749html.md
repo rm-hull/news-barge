@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The ex-teacher was fired last year for violating the school district’s
   policy, according to one report
 image: https://static.the-independent.com/2026/09/14/10/21/housejobe.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 An Ohio teenager who had been missing for 263 days was found at the home of a former teacher, according to authorities.

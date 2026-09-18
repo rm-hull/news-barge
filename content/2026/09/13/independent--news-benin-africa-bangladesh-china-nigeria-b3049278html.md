@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T07:26:09Z'
 published: '2026-09-13T00:00:00Z'
 description: The fabrics made by Fatoumata Dosso carry the tag “Made in Benin.”
 image: https://static.independent.co.uk/2026/09/13/05/Benin_Cotton_Hopes_49948.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 The “Made in Benin” tags on Fatoumata Dosso’s fabrics represent an ambition much bigger than her fashion business: keeping more of the value of Africa’s largest cotton producer at home.

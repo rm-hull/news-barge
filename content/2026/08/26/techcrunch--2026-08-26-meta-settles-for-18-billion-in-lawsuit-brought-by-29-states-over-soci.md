@@ -10,6 +10,8 @@ description: The lawsuit alleged that Meta knowingly designed platforms like Ins
   and Facebook to addict children, despite knowing about the harms the platforms could
   pose to young users.
 image: https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Meta has agreed to pay up to $18 billion to settle claims from 29 U.S. states over children’s safety.

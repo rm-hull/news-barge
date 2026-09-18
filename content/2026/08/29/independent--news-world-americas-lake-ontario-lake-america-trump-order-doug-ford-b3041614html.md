@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Doug Ford unveiled a giant billboard along the Canadian shore bearing
   the message ‘Lake Ontario. Now and Always’
 image: https://static.independent.co.uk/2026/08/29/21/download..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canadian figures have met President Donald Trump’s command to rename Lake Ontario as "Lake America" with ridicule rather than anger.

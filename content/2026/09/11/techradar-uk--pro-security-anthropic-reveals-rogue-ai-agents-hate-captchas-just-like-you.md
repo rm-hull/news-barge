@@ -7,6 +7,8 @@ scraped_at: '2026-09-11T19:08:53Z'
 published: '2026-09-11T00:00:00Z'
 description: '"WHAT THE HELL IS WRONG WITH THE ANSWERS?" AI cried, in vain'
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

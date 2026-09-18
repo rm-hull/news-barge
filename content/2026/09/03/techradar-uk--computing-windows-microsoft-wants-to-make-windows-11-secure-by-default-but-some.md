@@ -10,6 +10,9 @@ published: '2026-09-03T00:00:00Z'
 description: Some gamers are up in arms, while others believe that this security feature
   is a must-have for keeping their PC safe.
 image: https://cdn.mos.cms.futurecdn.net/Kvd2C5GUQeqhGqTh6M3w66-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Man upset at gaming PC, resting head on arms](https://cdn.mos.cms.futurecdn.net/Kvd2C5GUQeqhGqTh6M3w66.jpg) 

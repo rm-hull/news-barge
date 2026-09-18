@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Then House candidate joined Democratic Socialists of America in 2018
   but didn’t renew membership after a year
 image: https://i.guim.co.uk/img/media/10432f43a4cc290ab420af85557ee66cfb1ed102/917_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35f4a8bdf8a85f713fe20dead592e5f3
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Alexandria Ocasio-Cortez has rejoined the Democratic Socialists of America after not renewing her membership for seven years, amid speculation that she might run for president in 2028.

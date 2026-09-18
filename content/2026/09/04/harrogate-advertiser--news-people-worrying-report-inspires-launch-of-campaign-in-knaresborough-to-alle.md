@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A new campaign to tackle loneliness in older people that “isn't always
   visible” is being launched by Harrogate Neighbours and Knaresborough Library.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNlMjIyN2ZiLTA4NTctNDU0OS04NWMyLWY1ODA0NmQyNTQ5NjpiNDUyNGQwZi0xMTk5LTQ3OTgtYTVjNC01NDg5YjhlZWE1ZTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
 ---
 
 # Worrying report inspires launch of campaign in Knaresborough to alleviate 'hidden loneliness' among older people

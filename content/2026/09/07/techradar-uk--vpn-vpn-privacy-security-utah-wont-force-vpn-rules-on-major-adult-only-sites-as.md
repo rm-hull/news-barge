@@ -10,6 +10,11 @@ description: The state's Department of Commerce won't enforce the first-of-its-k
   legislation while a federal judge reviews the ongoing lawsuit from Pornhub's parent
   company
 image: https://cdn.mos.cms.futurecdn.net/f4dKojZG636GgdShdHj94M-2159-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- News & Politics
+- Law & Justice
 ---
 
 ![State Capital Building of Utah](https://cdn.mos.cms.futurecdn.net/f4dKojZG636GgdShdHj94M.jpg) 

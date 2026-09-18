@@ -10,6 +10,12 @@ description: Shein is seeking a valuation of up to approximately $27 billion (â‚
   peak of $100 billion in 2022. Europe is a key market, but new customs rules and
   regulatory scrutiny threaten its low-cost model.
 image: https://images.euronews.com/articles/stories/09/73/24/38/1200x675_cmsv2_551e0ddb-c2d5-5c7c-91e0-dea61ac97ced-9732438.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Shein is seeking a valuation of up to approximately $27 billion (â‚¬23.1bn) in its September flotation on the Hong Kong Stock Exchange, far below its reported peak of $100 billion in 2022. Europe is a key market, but new customs rules and regulatory scrutiny threaten its low-cost model.

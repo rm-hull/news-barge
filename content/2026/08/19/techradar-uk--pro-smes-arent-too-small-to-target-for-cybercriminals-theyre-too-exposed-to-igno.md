@@ -8,6 +8,8 @@ scraped_at: '2026-08-19T08:52:50Z'
 published: '2026-08-19T00:00:00Z'
 description: SMEs are an easy route in for hackers
 image: https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Hands on a laptop with overlaid logos representing network security](https://cdn.mos.cms.futurecdn.net/pVCXKrhThqmUjYVSZBjV5Z.jpg) 

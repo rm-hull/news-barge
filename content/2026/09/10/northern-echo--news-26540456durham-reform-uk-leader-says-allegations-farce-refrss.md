@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Andrew Husband, the leader of Durham County Council has brushed off allegations
   made against him as a ‘farce’.
 image: https://www.thenorthernecho.co.uk/resources/images/20941096.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: SARAH CALDECOTT)*

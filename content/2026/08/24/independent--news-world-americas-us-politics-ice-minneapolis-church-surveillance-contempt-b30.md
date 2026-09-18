@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Homeland Security could be held in contempt for spying on churchgoers
   in recently revealed ‘Operation Puppet Master’ scheme
 image: https://static.independent.co.uk/2026/08/12/01/VnR3TyjB9qI8wh8BudbY0TGHw4xmjyuSYUD1kQKJL1676BNjGyUGQ0vNA8B4MXUfcYFOeNanlNTfooxRbarWwIHQTV0v9NVfCSCb..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A federal judge will decide whether to hold Donald Trump’s administration in contempt after immigration agents violated court orders barring them from entering places of worship.

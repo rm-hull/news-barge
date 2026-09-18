@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The woman was convicted and jailed in 2023 but in 2025 senior judges
   ruled those convictions were unsafe.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d86a/live/c3286b20-b0f8-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Two teddy bears, small brown furry toys, with a bunch of flowers, against a railing. There is a handwritten note that reads "RIP little one xoxoxoxox with the angels".](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d86a/live/c3286b20-b0f8-11f1-bc1f-3f186ca4140c.jpg)

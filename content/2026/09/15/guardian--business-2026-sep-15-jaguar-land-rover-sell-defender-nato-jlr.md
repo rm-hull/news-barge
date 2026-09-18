@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Carmaker builds on relationship with British armed forces by seeking
   to cash in on Europe’s rearmament drive
 image: https://i.guim.co.uk/img/media/444c0d99d8956790de78ed45e4bcb7e03273f00c/529_0_5316_4252/master/5316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=099a3953e1b88577227f0fc9f81a40d5
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Jaguar Land Rover is in talks with Nato countries about selling them the newly revamped Defender military vehicle, as the UK-based carmaker seeks to tap into Europe’s defence spending boom.

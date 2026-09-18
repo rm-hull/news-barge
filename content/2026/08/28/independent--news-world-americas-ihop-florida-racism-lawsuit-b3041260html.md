@@ -9,6 +9,11 @@ description: 'Exclusive: An IHOP manager in Florida allegedly subjected Black em
   to ceaseless racism, referring to herself as their ‘master,’ making light of Juneteenth,
   and reportedly telling them, ‘If it''s not white, then it''s not right’'
 image: https://static.independent.co.uk/2026/08/28/18/57/GettyImages-1341707550.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A group of BlackIHOP employees are suing the pancake chain over allegations they endured ceaseless bigotry from a supervisor who allegedly subjected them to “repeated racial slurs, disparaging comments, and an atmosphere of intimidation, ridicule and humiliation,” according to a lawsuit reviewed by *The Independent*.

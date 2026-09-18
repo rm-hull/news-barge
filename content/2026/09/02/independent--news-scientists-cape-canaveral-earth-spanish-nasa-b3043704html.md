@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Scientists have discovered an enormous 10-sided wave pattern in the icy
   ammonia clouds over Saturn's south pole
 image: https://static.independent.co.uk/2026/09/02/19/Saturn_South_Pole_39428.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 Scientists have discovered an enormous 10-sided wave pattern in the icy ammonia clouds over Saturn’s south pole.

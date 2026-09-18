@@ -9,6 +9,10 @@ description: Delegates of 179 members of the UN Convention to Combat Desertifica
   engage with local communities and business partners to find solutions for land degradation
   which affects half of world's population and creates poverty and mass migration.
 image: https://images.euronews.com/articles/stories/09/88/44/53/1200x675_cmsv2_980fd3bc-de54-5157-8183-4a293d89325d-9884453.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Delegates of 179 members of the UN Convention to Combat Desertification engage with local communities and business partners to find solutions for land degradation which affects half of world's population and creates poverty and mass migration.

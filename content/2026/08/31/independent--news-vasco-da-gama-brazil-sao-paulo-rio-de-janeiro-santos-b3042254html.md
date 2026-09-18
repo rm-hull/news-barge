@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Brazilian police have searched the home of Vasco da Gama footballer David
   Corrêa in connection with a drugs and arms trafficking investigation
 image: https://static.independent.co.uk/2026/08/31/17/Brazil_Footballers__78_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Brazilian police searched the home of a footballer of top-flight club Vasco da Gama in connection with a drugs and arms trafficking investigation, officials said Monday. A second division player is also under investigation.

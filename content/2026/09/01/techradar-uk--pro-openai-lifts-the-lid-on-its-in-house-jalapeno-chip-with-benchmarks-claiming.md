@@ -8,6 +8,9 @@ scraped_at: '2026-09-01T19:22:45Z'
 published: '2026-09-01T00:00:00Z'
 description: A custom ASIC to rule AI efficiency domestically?
 image: https://cdn.mos.cms.futurecdn.net/UgCf3tNYvSJsCa9pAqzrvL-1920-80.webp
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A render of OpenAI's first generation Jalapeño chip](https://cdn.mos.cms.futurecdn.net/UgCf3tNYvSJsCa9pAqzrvL.webp) 

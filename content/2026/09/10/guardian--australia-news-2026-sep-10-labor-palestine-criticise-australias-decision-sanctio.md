@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Australia will not join move by UK, Canada and France in banning trade
   with Israeli settlements in West Bank
 image: https://i.guim.co.uk/img/media/97764efc9dbd39fbfc0c3ea9a98e2c2a4c121769/16_0_2938_2352/master/2938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c91f5bc992197bca2ee683d5cd2c2f01
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ed Husic has urged the Albanese government to take concrete action against illegal Israeli settlements in the West Bank, warning Palestine cannot be “sticky-taped” back together with “yet another statement”.

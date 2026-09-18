@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Barcelona are closing in on a move for Arsenal striker Gabriel Jesus
   in a deal worth £8.6m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46bd/live/0cb9e950-a477-11f1-bed8-470734b5b662.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Gabriel Jesus](https://ichef.bbci.co.uk/ace/standard/582/cpsprodpb/46bd/live/0cb9e950-a477-11f1-bed8-470734b5b662.jpg)

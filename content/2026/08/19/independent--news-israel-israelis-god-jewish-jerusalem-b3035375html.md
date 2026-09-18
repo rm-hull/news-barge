@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T08:51:53Z'
 published: '2026-08-19T00:00:00Z'
 description: Ultra-Orthodox Jewish families are an unmissable facet of Israeli life
 image: https://static.independent.co.uk/2026/08/19/06/Israel_Ultra_Orthodox_94683.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Ultra-Orthodox Jewish families are an unmissable facet of Israeli life. Immediately recognizable, the men dress in black suits and hats, the women in modest long sleeves and skirts with wigs, turbans or scarves covering their hair, and numerous children tag along, often in matching outfits.

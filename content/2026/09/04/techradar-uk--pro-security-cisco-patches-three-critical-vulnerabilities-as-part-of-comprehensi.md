@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T18:59:27Z'
 published: '2026-09-04T00:00:00Z'
 description: A total of eight flaws were fixed
 image: https://cdn.mos.cms.futurecdn.net/4vPx4qpVwRADJoMvv3gttX-970-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Cisco](https://cdn.mos.cms.futurecdn.net/4vPx4qpVwRADJoMvv3gttX.jpg) 

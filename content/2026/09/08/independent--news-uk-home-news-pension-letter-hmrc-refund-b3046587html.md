@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Thousands of lower earners who saved into workplace pensions could be
   eligible for about £70
 image: https://static.independent.co.uk/2026/03/26/16/04/hmrc.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 HM Revenue and Customs (HMRC) is set to write to thousands of people explaining they are eligible for top-up payments.

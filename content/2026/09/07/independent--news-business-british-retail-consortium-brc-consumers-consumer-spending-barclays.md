@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Total UK retail sales increased by just 0.7% year on year, down from
   last August’s 3.1%.
 image: https://static.independent.co.uk/2026/09/08/00/6c53834675a20a586dd055516930bae0Y29udGVudHNlYXJjaGFwaSwxNzg4ODYyMDU5-2.85728420.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Retailers suffered a disappointing August as looming household bill increases saw consumers reining in their spending, figures show.

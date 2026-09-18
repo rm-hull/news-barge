@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A County Durham woman who successfully overcame cervical cancer is raising
   thousands of pounds for Macmillan Cancer Support while encouraging other…
 image: https://www.thenorthernecho.co.uk/resources/images/21457544.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A County Durham woman who successfully overcame cervical cancer is raising thousands of pounds for Macmillan Cancer Support while encouraging other women to attend potentially life-saving screening appointments.

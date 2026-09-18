@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Investigators are sifting through the charred remnants of a Montana home
   where four generations of a family were killed as they gathered for Sunday dinner
 image: https://static.independent.co.uk/2026/08/26/22/Montana_Family_Killed_88576.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Shovelful by shovelful, investigators sifted through the charred remnants of a Montana home where four generations of a family were killed as they gathered for Sunday dinner, searching for evidence that might help explain what happened and why.

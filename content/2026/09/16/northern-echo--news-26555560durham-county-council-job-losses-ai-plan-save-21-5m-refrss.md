@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Durham County Council is proposing more than £21.5 million of savings
   as it attempts to tackle a forecast £83.7 million budget shortfall over four…
 image: https://www.thenorthernecho.co.uk/resources/images/21463139.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Four years of maximum council tax rises, job cuts and a greater reliance on artificial intelligence are being considered by Durham County Council as Reform UK's administration attempts to plug an £83.7 million funding gap while clinging to power with a majority of just three councillors.

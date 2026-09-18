@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Yorkshire couple’s horsebox sauna business, äyup sauna, has moved to
   Otley and will pop up at Bramley Baths on September 19 and 20 as part of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20890727.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 The Yorkshire couple who turned a horsebox into a wood-fired sauna have settled into a new Otley location and are preparing to take their business on the road for a special event at Bramley Baths.

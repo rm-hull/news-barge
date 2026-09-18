@@ -9,6 +9,8 @@ published: '2026-08-24T00:00:00Z'
 description: An app has been spotted that makes Bing your default search, and some
   users see it as another reason to leave Windows 11.
 image: https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N-2121-80.jpeg
+categories:
+- Technology & Software
 ---
 
 ![Young woman using a Windows 11 laptop, looking annoyed](https://cdn.mos.cms.futurecdn.net/T5tUn7q7ko5tgMxUjPnP8N.jpeg) 

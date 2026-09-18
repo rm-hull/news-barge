@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Newborn baby girl found unresponsive by police in the Wincobank area
   of Sheffield
 image: https://static.independent.co.uk/2023/04/07/07/iStock-1217602682.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Seven people have been arrested on suspicion of murder after the death of a newborn girl in Sheffield.

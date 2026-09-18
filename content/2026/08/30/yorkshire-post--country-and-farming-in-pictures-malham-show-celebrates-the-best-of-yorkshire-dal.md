@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Livestock, horses and traditional countryside skills took centre stage
   as Malham Show returned to the Yorkshire Dales.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFmNWU2MmYwLWNkMzAtNGE0Ni1iMjMzLTFkNjdhNTg5YWFjNjoxZTAzODhiMy1hYmFkLTQ1YzktYTgyYS0yMjk0NDZlZjU0NmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 Malham Show returned on Saturday (Aug 29), bringing a celebration of farming and rural traditions to the heart of the Yorkshire Dales.

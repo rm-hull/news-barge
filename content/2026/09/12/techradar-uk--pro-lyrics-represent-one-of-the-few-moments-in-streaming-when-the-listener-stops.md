@@ -8,6 +8,9 @@ published: '2026-09-12T00:00:00Z'
 description: 'Exclusive: I spoke to Marco Paglia, Chief Product Officer at Musixmatch,
   about how lyrics are changing the game for musicians and their listeners.'
 image: https://cdn.mos.cms.futurecdn.net/qafjr7aU3HQXEj2mTytryj-1920-80.png
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A band on stage during a concert with fans watching on, singing along](https://cdn.mos.cms.futurecdn.net/qafjr7aU3HQXEj2mTytryj.png) 

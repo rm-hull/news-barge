@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: The CIA cover-up still needs answers, so when does Reacher season 4 episode
   5 arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/tm25dD9huDvUssdRu9JJiP-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Reacher looks back over his right shoulder](https://cdn.mos.cms.futurecdn.net/tm25dD9huDvUssdRu9JJiP.jpg) 

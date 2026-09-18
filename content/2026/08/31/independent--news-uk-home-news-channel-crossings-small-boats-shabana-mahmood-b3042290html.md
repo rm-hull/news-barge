@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Home Secretary Shabana Mahmood said ‘there is more to do’ as she vowed
   to continue targetting criminal gangs behind crossings
 image: https://static.independent.co.uk/2026/08/26/17/01KZ1GCR6Y79R5MECK279GAYP4.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Government action against small boat Channel crossings is starting to "bear fruit," according to the Home Secretary, following a drop in summer arrivals to their lowest point since 2019.

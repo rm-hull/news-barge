@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A female prison officer could end up behind bars, herself, after admitting
   having been in a relationship with a Deerbolt inmate.
 image: https://www.thenorthernecho.co.uk/resources/images/20569956.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

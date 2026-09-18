@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T19:35:40Z'
 published: '2026-08-18T00:00:00Z'
 description: A flash of the admantium blades
 image: https://cdn.mos.cms.futurecdn.net/o9tQ43pUjqF3zX5gpjJ5BG-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Live

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: An Israeli strike has killed at least four people in northern Gaza, including
   two children
 image: https://static.independent.co.uk/2026/09/10/07/Yemen_War_32131.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Israeli strike killed at least four people in northern Gaza, including two children. And a media outlet controlled by Iran-backed Houthi rebels claims Saudi-backed forces have launched airstrikes on several areas.

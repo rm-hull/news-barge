@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Anne Lister’s life as Gentleman Jack will come to the stage in a new
   ballet at Bradford’s St George’s Hall next month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357009.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Northern Ballet)*

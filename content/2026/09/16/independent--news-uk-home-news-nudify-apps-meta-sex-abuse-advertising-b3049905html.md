@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The Advertising Standards Agency said the adverts ‘condoned and encouraged’
   the creation of illegal sexually explicit deepfakes
 image: https://static.independent.co.uk/2026/08/26/15/2290577446..?trim=38,0,38,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The UK’s advertising watchdog has banned a series of adverts for “nudify” AI apps which appeared on Meta platforms over sex abuse concerns.

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: A new report warns Himalayan glaciers are melting faster, threatening
   India’s water, economy and communities.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Kupup Lake, also known as Bitan Cho or Elephant Lake, is a high-altitude glacial lake near Jelep La Pass in East Sikkim, India, on April 17, 2026. The lake, situated at approximately 13,066 feet, is part of the Old Silk Route loop near the India-China border and is often frozen from winter through mid-May. I](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg)

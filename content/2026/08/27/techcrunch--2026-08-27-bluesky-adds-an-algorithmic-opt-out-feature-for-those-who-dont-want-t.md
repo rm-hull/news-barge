@@ -8,6 +8,8 @@ scraped_at: '2026-08-27T22:13:33Z'
 published: '2026-08-27T00:00:00Z'
 description: Sometimes people just want to post to their followers, Bluesky says.
 image: https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 After adding support for longer videos just yesterday, open social network Bluesky on Thursday introduced a new algorithmic opt-out feature that allows users to stop their posts from appearing in the app’s main Discover feed.

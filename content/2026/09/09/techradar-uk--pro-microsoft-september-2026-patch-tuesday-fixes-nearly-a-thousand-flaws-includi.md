@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T19:15:52Z'
 published: '2026-09-09T00:00:00Z'
 description: The latest Microsoft Patch Tuesday is a big one
 image: https://cdn.mos.cms.futurecdn.net/yBsirNxrnuBxshrCgrFwsQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Windows 10 Logo on Laptop](https://cdn.mos.cms.futurecdn.net/yBsirNxrnuBxshrCgrFwsQ.jpg) 

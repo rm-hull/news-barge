@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Ben Shelton was not even a year old the last time an American man won
   a Grand Slam tennis title
 image: https://static.independent.co.uk/2026/09/13/15/US_Open_Tennis_78928.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Ben Shelton was not even a year old the last time an American man won a Grand Slam tennis title.

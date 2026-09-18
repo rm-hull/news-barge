@@ -8,6 +8,13 @@ published: '2026-09-03T00:00:00Z'
 description: Irish rock band Fontaines DC are set to play a huge summer gig at St
   James’ Park - with tickets on sale next week.
 image: https://www.thenorthernecho.co.uk/resources/images/19672864.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Sports
+- Travel
 ---
 
 Irish rock band Fontaines DC are set to play a huge summer gig at St James’ Park.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Research shows firms are branded as beauty and convenience but apparently
   operate in money-laundering and terrorist financing sectors
 image: https://i.guim.co.uk/img/media/4379b5dd50ca5a2217045a8386aef6338c06f83f/477_0_4464_3574/master/4464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92ea1f5db4ddd8ac4db5dd4b01844b41
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty and convenience stores but apparently operating in the money-laundering and terrorist financing sectors, a new analysis sets out.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The couple's return to the UK is imminent - and what they'll be focusing
   on here is gradually becoming clearer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4648/live/54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Meghan holds onto Harry's arm as they wave at crowds while they walk from a car. Both are wearing brown. They are smiling.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4648/live/54b5a5b0-9fdf-11f1-9c90-a93a719154c7.jpg)

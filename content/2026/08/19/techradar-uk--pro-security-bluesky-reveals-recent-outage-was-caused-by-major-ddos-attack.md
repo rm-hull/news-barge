@@ -7,6 +7,8 @@ scraped_at: '2026-08-19T13:10:18Z'
 published: '2026-08-19T00:00:00Z'
 description: Iranian state-backed threat actors claim responsibility for Bluesky attack
 image: https://cdn.mos.cms.futurecdn.net/n2uEkSyW5LSHxg5dkMHRjE-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Bluesky app logo appears on the screen of a smartphone lying on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/n2uEkSyW5LSHxg5dkMHRjE.jpg) 

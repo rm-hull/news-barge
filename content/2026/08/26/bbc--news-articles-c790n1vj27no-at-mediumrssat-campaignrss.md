@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The cultural icon was one of the rare celebrities adored by Americans
   of all ages, races and political persuasions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f39/live/5ae78d50-a0e7-11f1-ae86-873e58ca67d5.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Comedy & Entertainment
 ---
 
 The life of an iconic country singer

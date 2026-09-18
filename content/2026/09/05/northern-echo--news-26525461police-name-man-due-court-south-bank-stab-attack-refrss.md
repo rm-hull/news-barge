@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A man is due to appear in the dock following a 'stab attack' in South
   Bank.
 image: https://www.thenorthernecho.co.uk/resources/images/19896183.jpg?type=og-image&xType=0&yType=110
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SARAH CALDECOTT)*

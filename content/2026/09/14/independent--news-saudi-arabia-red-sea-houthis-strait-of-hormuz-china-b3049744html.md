@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Yemen's Houthi rebels have seized the strategic islands of Greater and
   Lesser Hanish in the southern Red Sea
 image: https://static.independent.co.uk/2026/09/14/08/APTOPIX_Yemen_War_5667_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Yemen’s Houthi rebels have seized the strategic islands of Greater and Lesser Hanish in the southern Red Sea, bolstering the Iranian-backed rebels' ability to control a key maritime shipping route.

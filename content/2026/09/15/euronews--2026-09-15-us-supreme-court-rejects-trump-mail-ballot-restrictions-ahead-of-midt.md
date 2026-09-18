@@ -9,6 +9,10 @@ description: The decision allows states to continue sending out mail ballots und
   the same processes they’ve used for years and have accounted for nearly a third
   of votes cast.
 image: https://images.euronews.com/articles/stories/09/91/35/03/1200x675_cmsv2_e5315405-6d94-54fa-b14e-9dc9195e263a-9913503.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The decision allows states to continue sending out mail ballots under the same processes they’ve used for years and have accounted for nearly a third of votes cast.

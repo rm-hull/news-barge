@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Telling the story of 9/11 has become the labor of U.S. schools now that
   about 1/3 of Americans weren’t yet born on Sept. 11, 2001
 image: https://static.independent.co.uk/2026/09/08/08/US_Sept_11-Education_37774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Society & Culture
 ---
 
 For three days this summer, teachers converged at the Flight 93 National Memorial in remote western Pennsylvania to talk about 9/11.

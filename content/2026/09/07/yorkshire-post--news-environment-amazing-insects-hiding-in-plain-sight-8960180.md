@@ -9,6 +9,11 @@ description: Each summer I seem to discover another amazing creature that I didn
   know existed in Britain. It started decades ago when I was living in a crummy flat
   in Swansea and a stag beetle flew into my room on a warm summer’s night.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM0YmU4Njk1LWFmOWYtNGZjNS04OTVkLWQ0OWExOGNhOTZjZDoxMTkwY2FkOS1lMGUxLTRkNGUtYWY5NC0xYTYxMzJmNzE5YjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Amazing insects hiding in plain sight

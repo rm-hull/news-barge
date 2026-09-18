@@ -10,6 +10,10 @@ description: The Tohono O’odham Nation says armed federal agents accompanied c
   who trespassed on tribal land this week as they began construction of an Arizona
   section of a border wall
 image: https://static.independent.co.uk/2026/08/28/01/Immigration_Border_Wall_316_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration has begun work on a project to build a stretch of border wall in southern Arizona along part of a Native American tribe’s reservation, pushing ahead with one of its signature projects despite protests from the tribe.

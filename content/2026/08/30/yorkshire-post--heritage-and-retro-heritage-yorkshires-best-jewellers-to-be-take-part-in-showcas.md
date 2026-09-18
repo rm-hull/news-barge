@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: There can be few things more sentimental than entrusting an expert jeweller
   to create a bespoke piece.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU1ZThjNThlLThiOGEtNDgxZC1iZjBiLTQzNmZkOTE1MzkzNjo5NTNjYTFkZS0wZjI3LTRkNzYtYjU3Ni0yNjlkN2Y2ODNiNmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Yorkshire's best jewellers to be take part in showcase at Ampleforth Abbey

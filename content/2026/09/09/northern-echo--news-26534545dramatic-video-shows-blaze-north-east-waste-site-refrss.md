@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A lithium battery is believed to have caused a fire at North Shields
   Waste Transfer Station on August 26, as North Tyneside urges safe disposal…
 image: https://www.thenorthernecho.co.uk/resources/images/21429012.jpg?type=og-image&xType=0&yType=28
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: North Tyneside Council)*

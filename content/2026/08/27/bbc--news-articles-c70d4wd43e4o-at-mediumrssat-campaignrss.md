@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Sally-Anne Bowen, 65, was convicted at Harrow Crown Court of seven counts
   of indecent assault.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/341f/live/13573240-a224-11f1-bd6a-3d72a7f54a3e.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A woman with blonde hair is wearing a purple shirt and sunglasses and hoop earrings.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/341f/live/13573240-a224-11f1-bd6a-3d72a7f54a3e.png)

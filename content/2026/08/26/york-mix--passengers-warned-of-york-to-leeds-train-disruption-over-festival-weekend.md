@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:57:09Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/brotherton-rail-bridge-taziker-aerial.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Trains between York, Selby and Leeds are being disrupted this weekend due to an engineering project.

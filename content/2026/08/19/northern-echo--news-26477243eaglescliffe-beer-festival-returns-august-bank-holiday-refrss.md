@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Three Brothers Brewing Company will bring beers, live music, street food
   and celebrations as it celebrates its 10th anniversary.
 image: https://www.thenorthernecho.co.uk/resources/images/21340300.jpg?type=og-image&xType=0&yType=69
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 A Teesside beer festival is returning this month with organisers promising a few extra surprises as they celebrate a major milestone.

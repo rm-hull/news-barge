@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A major memorial event is being planned at the Yorkshire Air Museum to
   honour the service and sacrifice of Allied air forces.
 image: https://www.yorkpress.co.uk/resources/images/19910616.jpg?type=og-image&xType=0&yType=180
+categories:
+- Local
+- York
+- History
 ---
 
 ## Yorkshire Air Museum to honour Allied air forces with major memorial event

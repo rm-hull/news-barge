@@ -7,6 +7,12 @@ scraped_at: '2026-09-13T07:26:46Z'
 published: '2026-09-13T00:00:00Z'
 description: A BRADFORD firm is applying for a Goods Vehicle Operator's Licence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19049599.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

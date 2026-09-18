@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: During the latest American bombardment of southern Iran, a missile hit
   a home where a wedding was being celebrated
 image: https://static.independent.co.uk/2026/09/02/19/APTOPIX_Iran_US_War_89381.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A U.S. missile hit a home in southern Iran where dozens were gathered to celebrate the wedding of a fisherman’s daughter, according to a rights group and Iranian media.

@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Archaeologists working beside Scotch Corner uncovered a huge Roman settlement,
   rare treasures and evidence of ancient coin production near the A1(M).
 image: https://www.gazetteherald.co.uk/resources/images/4401501.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Science
 ---
 
 Thousands of drivers pass through Scotch Corner every day, but beneath the roads around one of the North's best-known junctions archaeologists uncovered evidence of another major transport hub dating back almost 2,000 years.

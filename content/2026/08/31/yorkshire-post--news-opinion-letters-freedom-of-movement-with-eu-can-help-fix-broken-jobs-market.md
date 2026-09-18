@@ -8,6 +8,11 @@ scraped_at: '2026-08-31T16:07:27Z'
 published: '2026-08-31T00:00:00Z'
 description: 'From: James Bovington, Church Grove, Horsforth, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ4MTA1YjIzLWEyMDYtNGMzOC04ZWM5LTk4ZDljMTc5YjMxNToyZmQ4NGM5MS0yNzg1LTRlNWEtODFkMi02ZjViMDY5NzJiMGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Freedom of movement with EU can help fix broken jobs market for young people - Yorkshire Post Letters

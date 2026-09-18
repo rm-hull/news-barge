@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: 'Exclusive: The Australian Criminal Intelligence Commission, which has
   access to NDIA data, used Palantir as part of a multi-agency fraud taskforce'
 image: https://i.guim.co.uk/img/media/ba117415b0ce5a84437694933b4777aa0c31cd19/493_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2e61772be9e934562ca82b471371626
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Personal information of national disability insurance scheme participants may have ended up in controversial software company Palantir’s analytics platform as part of a massive multi-agency sharing program investigating fraud, Guardian Australia can reveal.

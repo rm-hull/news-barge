@@ -10,6 +10,11 @@ description: Bolivian teachers protested. Chile remembered the 1973 coup that to
   President Salvador Allende. Mexico and Guatemala celebrated independence. This gallery
   was curated by photojournalist Moises Castillo, based in Guatemala City.
 image: https://static.independent.co.uk/2026/09/17/20/APTOPIX_Bolivia_Protest_49765.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Protests, festivals and independence in top photos from Latin America and the Caribbean

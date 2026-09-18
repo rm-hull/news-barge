@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: College sports are undergoing a transformation with the rise of NIL deals,
   allowing athletes to profit from their name, image, and likeness
 image: https://static.independent.co.uk/2026/08/19/18/House_Era_Pay_To_Play_Football_58636.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Technology & Software
 ---
 
 Left tackle Dan Moore of the Tennessee Titans can list all the sponsorship deals he has done as a pro on one hand: A few meet and greet opportunities when he was with the Steelers, a grill company that gave him some barbecue tools in exchange for his endorsement.

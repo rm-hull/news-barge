@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A collection of items dating back to the 1800s includes Blank Littlewoods
   Football Pool betting coupons from 1957
 image: https://static.independent.co.uk/2026/09/13/21/01M2D02R59PJ51ZZKGTENJ1E8H.jpg?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A ticket to a card game night organised by the Royal Household’s social club nearly eight decades ago is among a collection of forgotten objects uncovered during ongoing restoration work at Buckingham Palace.

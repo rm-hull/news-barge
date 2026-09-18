@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The catastrophic floods have killed more than 380 people and left hundreds
   more missing
 image: https://static.independent.co.uk/2026/08/26/13/2026-08-26T121306Z_2040069821_RC296NAHEHEG_RTRMADP_3_NEPAL-FLOODS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A nurse from Kent has been identified among the Britons missing in Nepal after the devastating flash floods in the country.

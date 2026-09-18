@@ -10,6 +10,10 @@ published: '2026-09-16T00:00:00Z'
 description: This bot took on the hardest combination in the game and lived to tell
   the tale.
 image: https://cdn.mos.cms.futurecdn.net/7EnQP6MrzTXoPhA5PurbcT-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Balatro logo showing multiple playing cards.](https://cdn.mos.cms.futurecdn.net/7EnQP6MrzTXoPhA5PurbcT.jpg) 

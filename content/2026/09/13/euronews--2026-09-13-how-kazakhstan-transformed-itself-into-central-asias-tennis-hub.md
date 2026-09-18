@@ -10,6 +10,10 @@ description: Since 2007, Kazakhstan has invested more than $200 million in tenni
   Today, nearly 45,000 people play the sport and the country has produced its first
   world No. 1, Elena Rybakina.
 image: https://images.euronews.com/articles/stories/09/90/79/49/1200x675_cmsv2_017eae47-5a15-5731-ba7a-958e9b37d019-9907949.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Since 2007, Kazakhstan has invested more than $200 million in tennis, expanding tennis infrastructure nationwide and developing professional academies. Today, nearly 45,000 people play the sport and the country has produced its first world No. 1, Elena Rybakina.

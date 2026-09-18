@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:10:55Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/police-jacket-radio-nyp.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Police searching for a missing North Yorkshire woman issued a sad update this afternoon (Wednesday).

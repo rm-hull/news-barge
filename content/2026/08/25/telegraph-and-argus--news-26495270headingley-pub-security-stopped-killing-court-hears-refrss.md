@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A man who launched a sustained glass-bottle attack on a woman has been
   detained in hospital.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371349.jpg?type=og-image&xType=0&yType=605
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: WYP)*

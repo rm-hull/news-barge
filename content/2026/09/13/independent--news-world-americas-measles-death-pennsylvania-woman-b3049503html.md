@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: In addition to the 40-year-old woman, two infants have died in Pennsylvania
   of measles complications, officials said
 image: https://static.independent.co.uk/2026/08/21/13/58/GettyImages-2260061420.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A 40-year-old woman has become the third person to die from measles complications in Pennsylvania — amid a 35-year high in infections in the U.S.

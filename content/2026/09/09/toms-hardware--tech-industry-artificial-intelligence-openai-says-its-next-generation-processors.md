@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T19:15:52Z'
 published: '2026-09-09T00:00:00Z'
 description: Samsung may join TSMC producing OpenAI's next-generation AI ASICs.
 image: https://cdn.mos.cms.futurecdn.net/fG6k3NRNFC6buLLATBY3Z7-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![OpenAI's Jalapeno ASIC.](https://cdn.mos.cms.futurecdn.net/fG6k3NRNFC6buLLATBY3Z7.jpg) 

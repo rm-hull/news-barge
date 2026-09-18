@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Thieves are reported to have stolen high-value gardening equipment from
   a York home.
 image: https://www.yorkpress.co.uk/resources/images/12967385.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 *(Image: Popplewell, Hannah)*

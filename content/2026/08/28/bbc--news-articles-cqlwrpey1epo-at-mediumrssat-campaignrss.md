@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Lawyers for Linda Kitchen say her husband was "fatally injured" after
   the flight dropped 6,000 ft.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Linda and Geoff Kitchen smile together. Both wear rectangular glasses, with Geoff in a red t-shirt. They appear to be sitting on a balcony, with buildings and the cloudy sky visible in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: A North Yorkshire bridge has been closed indefinitely after being struck
   by a heavy goods vehicle just hours before the Tour of Britain cycle race…
 image: https://www.yorkpress.co.uk/resources/images/21412448.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Road closed indefinitely after HGV strike damages historic Grade II listed bridge

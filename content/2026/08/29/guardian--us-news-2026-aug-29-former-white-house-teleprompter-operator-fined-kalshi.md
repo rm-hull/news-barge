@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi
   about words president used in speeches
 image: https://i.guim.co.uk/img/media/b39b79415bdf547d72acf0ac99fd1bbb210ae2b6/516_0_4241_3392/master/4241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a942f8fcb964fe267ec7a2be3971911
+categories:
+- UK
+- News & Politics
 ---
 
 A White House teleprompter operator who left his post amid accusations that he used inside knowledge to make bets on Donald Trump’s speeches on an online prediction market has been fined $172,000, according to federal regulators.

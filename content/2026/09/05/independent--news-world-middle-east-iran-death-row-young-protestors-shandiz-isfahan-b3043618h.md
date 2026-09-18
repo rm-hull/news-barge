@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: As Iran ramps up executions of protestors, Amirhossein Miresmaeili speaks
   to the families and friends of those on death row
 image: https://static.independent.co.uk/2026/09/02/13/39/Prison-Indycomp-India.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 *This article appeared on our partner site,**Independent Persian*

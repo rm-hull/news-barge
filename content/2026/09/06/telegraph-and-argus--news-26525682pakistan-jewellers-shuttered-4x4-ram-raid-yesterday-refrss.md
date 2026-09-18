@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T12:06:54Z'
 published: '2026-09-06T00:00:00Z'
 description: A jewellers is shuttered and boarded up following a ram raid.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415968.jpg?type=og-image&xType=0&yType=184
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 A jewellers is shuttered and boarded up following a ram raid.

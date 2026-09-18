@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Residents at Boroughbridge Manor care home in Boroughbridge, North Yorkshire,
   marked National Beer Lovers’ Day with a pub-style celebration…
 image: https://www.yorkpress.co.uk/resources/images/21450614.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## North Yorkshire care home hosts pub-style beer celebration for residents and guests

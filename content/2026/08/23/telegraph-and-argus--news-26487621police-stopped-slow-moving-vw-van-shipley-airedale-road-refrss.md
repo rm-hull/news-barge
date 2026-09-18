@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A van was stopped by roads policing officers in Bradford after its manner
   of driving attracted attention.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358847.jpg?type=og-image&xType=0&yType=987
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

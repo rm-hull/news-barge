@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Video. Hundreds of Tibetan exiles gathered in New Delhi on Thursday,
   20 August, to protest against China’s new Ethnic Unity and Progress Law.
 image: https://images.euronews.com/articles/stories/09/88/18/66/1200x675_cmsv2_bc487464-50cd-5e92-805f-0be56b917cb2-9881866.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Some demonstrators shaved their heads in a symbolic gesture, while others chanted slogans against Chinese President Xi Jinping and called on the United Nations to intervene.

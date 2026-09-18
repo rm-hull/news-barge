@@ -9,6 +9,9 @@ description: The Nancy Grace Roman Space Telescope, which launches on 30 August,
   observe space with the same detail as the Hubble Space Telescope, but over a much
   larger area
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![An artist's impression of the Nancy Grace Roman Space Telescope mapping the infrared universe](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309673819.jpg?w=840)

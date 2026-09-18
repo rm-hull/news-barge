@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Images of the act were circulating on social media and two people have
   been detained, police say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d5d7/live/0d7a46b0-b1aa-11f1-8b77-cd7827f05bee.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 ![A North Yorkshire Police van with blue‑and‑yellow markings is parked on a street in front of worn shopfronts, including a One Stop and other closed or faded stores.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/d5d7/live/0d7a46b0-b1aa-11f1-8b77-cd7827f05bee.jpg)

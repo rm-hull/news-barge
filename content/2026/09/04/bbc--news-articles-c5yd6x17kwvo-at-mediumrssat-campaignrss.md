@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Some 400 challengers and 2,000 spectators are expected at the world stone
   skimming championships.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05b5/live/ae916440-a875-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A man in a green pullover with 161 pinned to it is seen having just released a stone in the contest](https://ichef.bbci.co.uk/ace/standard/846/cpsprodpb/05b5/live/ae916440-a875-11f1-a291-b542ee92de7c.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Shoppers can sign a petition that calls for 90 minutes of free parking
   in town centres to help high streets that are under pressure.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21392290.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty)*

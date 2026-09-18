@@ -10,6 +10,12 @@ description: Some of the five young men who died as their Volkswagen Passat coll
   with a police car, killing two brave officers in the line of duty, had posted apparent
   joyriding videos on TikTok in the months before the crash.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/23/14/40/01M0MMTWZNMRN6G2Q2N1J2N8AZ.jpg?trim=527,784,546,826&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Technology & Software
 ---
 
 # A66 crash: men killed in horror smash posted TikToks joyriding before fatal collision with police car

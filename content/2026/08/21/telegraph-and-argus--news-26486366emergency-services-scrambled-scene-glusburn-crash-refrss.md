@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Emergency services were scrambled to the scene of a two-car crash at
   rush hour today.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20437938.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

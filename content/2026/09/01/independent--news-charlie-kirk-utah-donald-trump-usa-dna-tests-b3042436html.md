@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Utah judge is set to decide whether there's enough evidence against
   the man accused of killing Charlie Kirk to put him on trial for aggravated murder
 image: https://static.independent.co.uk/2026/09/01/05/Charlie_Kirk_Shot_94113.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 LAYDOWN TO RUN TUESDAY 9/1 AT 12:01 A.M. ET//Hearing starts at 10 a.m. MDT

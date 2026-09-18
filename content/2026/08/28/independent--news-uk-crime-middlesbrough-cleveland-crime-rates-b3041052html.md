@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The town and its surrounds top the country for shoplifting, burglary,
   arson, and sexual offences
 image: https://static.independent.co.uk/2026/08/26/15/2292153080..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 The area of the country covered by Cleveland Police – which includes Middlesbrough – has the highest crime rate in England and Wales.

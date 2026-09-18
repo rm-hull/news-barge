@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: An unnamed White House official suggested the administration was going
   to respond to Canadian levies with their own set of actions
 image: https://static.independent.co.uk/2026/08/24/14/55/GettyImages-2290822189.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump is reportedly considering additional tariffs or other trade actions against Canada as the two countries exchange retaliatory measures over failed trade negotiations.

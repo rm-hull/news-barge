@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: York has “led the way” in addressing poverty in communities, former prime
   minister Gordon Brown has said.
 image: https://www.yorkpress.co.uk/resources/images/21414094.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Dylan Connell)*

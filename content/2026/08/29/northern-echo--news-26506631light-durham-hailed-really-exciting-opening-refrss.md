@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Durham’s new cultural venue The Light has been hailed as "really exciting”
   after a successful opening weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21326045.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Durham’s new cultural venue The Light has been hailed as "really exciting and thrilling” after a successful opening weekend.

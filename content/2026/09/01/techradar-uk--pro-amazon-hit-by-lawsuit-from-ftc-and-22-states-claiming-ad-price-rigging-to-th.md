@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T19:23:19Z'
 published: '2026-09-01T00:00:00Z'
 description: Amazon accused of inflating ad prices
 image: https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/oNrrePMk5FLbsKsmuTFcPn.jpg) 

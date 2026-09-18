@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: More than 200 days into the conflict, congressional Republicans have
   yet to hold single standalone public hearing
 image: https://static.independent.co.uk/2026/09/17/13/2026-09-17T080243Z_1024746519_RC227NAG1YF6_RTRMADP_3_IRAN-CRISIS-UN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s war in Iran has eclipsed 200 days, with no end in sight. At least 18 U.S. service members are dead and more than 750 are injured. Thousands of Iranians have been killed. The government estimates the war is costing taxpayers $246 million per day, and billions of dollars every month. Global energy prices are spiking, and threats to key shipping lanes, military bases and civilian infrastructure risk blowing up the conflict into a wider, endless war.

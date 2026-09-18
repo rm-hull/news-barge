@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Lanterns reaches it midpoint this week — here's when and where you'll
   be able to stream its fourth episode.
 image: https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![John Stewart powering up a Green Lantern ring next to Hal Jordan in Lanterns on HBO Max](https://cdn.mos.cms.futurecdn.net/wefxSz6WqR5Xgr3pG4ynXA.jpg) 

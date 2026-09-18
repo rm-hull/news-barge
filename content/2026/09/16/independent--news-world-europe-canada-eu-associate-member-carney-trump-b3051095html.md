@@ -10,6 +10,10 @@ description: Canada is looking for closer ties with the European Union amid a de
   trade war with the United States and clashes with Donald Trump. James C. Reynolds
   looks at what we know so far
 image: https://static.independent.co.uk/2026/09/16/14/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 European Commission president Ursula von der Leyen has proposed Canada becoming the EU’s first associate member, just as relations between Ottawa and its historic ally in Washington deteriorate.

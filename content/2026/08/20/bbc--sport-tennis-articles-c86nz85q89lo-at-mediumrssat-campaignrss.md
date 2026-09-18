@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The severity of the ban facing Nick Kyrgios for testing positive for
   cocaine depends on whether he can prove he took the drug out of competition.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/41a7/live/951572e0-9c9f-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Nick Kyrgios, wearing a baseball cap backwards, looks out while slightly squinting](https://ichef.bbci.co.uk/ace/standard/725/cpsprodpb/41a7/live/951572e0-9c9f-11f1-a5a0-114ca9d4a1bc.jpg)

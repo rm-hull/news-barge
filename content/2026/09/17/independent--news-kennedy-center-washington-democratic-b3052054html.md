@@ -10,6 +10,10 @@ description: A top official at the Kennedy Center says he closed the iconic perf
   arts centers temporarily due to “acute risks to public safety resulting from continued
   structural deterioration” of the aging building
 image: https://static.independent.co.uk/2026/09/17/17/Trump_Kennedy_Center_92164.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A top official at the Kennedy Center said Thursday that he closed the iconic performing arts center temporarily due to “acute risks to public safety resulting from continued structural deterioration" of the aging building.

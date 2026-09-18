@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Prime minister’s office tells families of those missing ‘the nation stands
   with you’ as search and rescue efforts continue
 image: https://i.guim.co.uk/img/media/d7a7d4a14fd360ada3d22c0346776c1ed20e540d/1109_411_1424_1139/master/1424.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67eefd50470ce3638b0b5503456b3c57
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 One person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says.

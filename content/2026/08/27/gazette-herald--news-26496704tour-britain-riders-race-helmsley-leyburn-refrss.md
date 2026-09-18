@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The Tour of Britain race begins in September and marks the second time
   in four years that the event has called at Helmsley.
 image: https://www.gazetteherald.co.uk/resources/images/21370917.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Sports
 ---
 
 Helmsley will host the penultimate stage of a national cycling race.

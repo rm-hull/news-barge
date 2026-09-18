@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: 'In today’s newsletter: A collapsing trade deal has united Canadians
   more than ever, in an existential confrontation with the US president'
 image: https://i.guim.co.uk/img/media/d566017a6a71b6186f521cb125afc3f2a9a400c6/165_292_2056_1645/master/2056.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fed6249be579d4e40f622bb97dfa9d0
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Good morning. When the Guardian asked Canadian readers whether they planned to boycott US products after dramatic escalations in the ongoing DC/Ottawa trade war, we received more than 2,000 responses within 12 hours.

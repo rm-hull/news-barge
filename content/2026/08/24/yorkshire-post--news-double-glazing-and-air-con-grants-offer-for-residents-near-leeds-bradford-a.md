@@ -9,6 +9,11 @@ description: Grants towards double glazing and air conditioning in bedrooms coul
   be given to residents as part of plans which campaigners claim will “dramatically
   increase” the number of night flights to and from Leeds Bradford Airport.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI2MTc5ZTM4LWFjYmEtNDM3Zi1hOWRjLTI0MGQyM2MyMzNiNTo4MDVkNzIzNi02N2UzLTQ3MmQtOTFiMy0yMDRmM2MyOTljYzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Double glazing and air con grants offer for residents near Leeds Bradford Airport

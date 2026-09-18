@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Shaffaq Mohammed, a “working class lad from Sheffield,” reflected on
   ayear and a half spent in Westminster as a Lord.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI5YzlkNzg5LTNjYzAtNGU4Ny1hMTBiLWU1NzNhOTA5M2U0Nzo5Yzk4NWRmOS04NDhhLTQxNTYtOGQ3OS03MTM5ZjA3OTI0ZjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # “You can’t take Tinsley out of the lad”: What life is like as a Sheffield Lord

@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Schools, businesses and public transport are all struggling with the
   surge in Russian air attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b166/live/63ecaa80-a884-11f1-824a-0fc4c5d895ae.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
+- Technology & Software
 ---
 
 Watch: Kyiv residents on living under daily attacks by Russia

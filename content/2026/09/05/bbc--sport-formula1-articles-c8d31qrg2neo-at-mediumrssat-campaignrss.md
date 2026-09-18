@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Alpine driver Pierre Gasly takes a stunning pole position at the Italian
   Grand Prix, ahead of Mercedes' George Russell.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/44b4/live/56deb6f0-a945-11f1-9167-99717d2756e1.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Alpine's Pierre Gasly poses with a picture of the '1' board after taking pole position at the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bae4/live/431e57f0-a93c-11f1-a24a-1f5107675b0f.jpg)

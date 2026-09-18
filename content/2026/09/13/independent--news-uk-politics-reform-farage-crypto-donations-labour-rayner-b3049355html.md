@@ -9,6 +9,9 @@ description: In being so brazen about trying to remove funding that Nigel Farage
   party has received, Labour opens an entire new Pandora’s box on the issue, as political
   editor David Maddox reports
 image: https://static.independent.co.uk/2026/09/13/10/86e96160adfe46080c883034e2fead10Y29udGVudHNlYXJjaGFwaSwxNzg5Mzc3Nzk5-2.85751860.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It is unprecedented in British politics for a ruling party to state that it is planning to change the law retrospectively with the intention of cancelling a rival’s donations.

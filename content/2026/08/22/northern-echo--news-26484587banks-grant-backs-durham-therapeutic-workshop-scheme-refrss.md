@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: St Margaret’s Centre in Durham has secured a second four-figure grant
   from a regional employer to expand its therapeutic workshops, boosting…
 image: https://www.thenorthernecho.co.uk/resources/images/21354639.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

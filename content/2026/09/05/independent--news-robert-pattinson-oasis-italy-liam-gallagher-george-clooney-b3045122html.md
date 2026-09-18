@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Venice Film Festival is buzzing as Robert Pattinson and Oasis frontmen
   Noel and Liam Gallagher arrive for premieres on Saturday
 image: https://static.independent.co.uk/2026/09/05/06/Venice_Film_Festival-Day_4_79173.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 The worlds of rock and movie stardom are colliding at the Venice Film Festival, as both Robert Pattinson and Oasis frontmen Noel and Liam Gallagher arrive on the Lido for world premieres on Saturday.

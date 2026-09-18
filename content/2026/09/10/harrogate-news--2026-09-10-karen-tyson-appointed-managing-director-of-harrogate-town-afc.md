@@ -9,6 +9,11 @@ description: Harrogate Town AFC are delighted to confirm the appointment of Kare
   Tyson as Managing Director, subject to regulatory approval, bringing more than 20
   years of senior leadership experience.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/town-AFC-CEO.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Harrogate Town AFC have appoined Karen Tyson as Managing Director, subject to regulatory approval, bringing more than 20 years of senior leadership experience across hospitality, sport and business to the club.

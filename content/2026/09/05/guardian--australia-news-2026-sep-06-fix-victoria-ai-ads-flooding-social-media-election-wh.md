@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition
   talking points outspend major parties
 image: https://i.guim.co.uk/img/media/23bb7bec440eac48f806944c326eb626620703ab/264_0_1264_1012/master/1264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adc739b856e1aaa3cf7c934f5d234948
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A man clad in a balaclava and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out.

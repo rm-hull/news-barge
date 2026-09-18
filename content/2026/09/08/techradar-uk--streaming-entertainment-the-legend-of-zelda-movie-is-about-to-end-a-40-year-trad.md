@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: The Legend of Zelda Movie's official title has been revealed — and it
   breaks a major tradition for the universally adored Nintendo franchise.
 image: https://cdn.mos.cms.futurecdn.net/5kyzriZumgihLMworumSpU-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
+- Film & TV
 ---
 
 ![A close up of Benjamin Evan Ainsworth's Link in The Legend of Zelda movie](https://cdn.mos.cms.futurecdn.net/5kyzriZumgihLMworumSpU.jpg) 

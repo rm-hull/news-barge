@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Police are not ruling out a possible link between a fatal house fire
   near Middlesbrough and a crash on the A66 less than two miles away that killed…
 image: https://www.thenorthernecho.co.uk/resources/images/21372168.jpg?type=og-image&xType=0&yType=142
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Police are not ruling out a possible link between a fatal house fire near Middlesbrough and a crash on the A66 less than two miles away that killed seven people.

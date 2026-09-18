@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:44Z'
 published: '2026-09-07T00:00:00Z'
 description: LNER train services between London and York have been disrupted.
 image: https://www.yorkpress.co.uk/resources/images/16128265.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: UGC)*

@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A new campaign is calling for the State Pension to be increased to £14,500
   a year,
 image: https://www.thetelegraphandargus.co.uk/resources/images/21247364.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: PA)*

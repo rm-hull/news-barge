@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Native communities in northwest New Mexico are concerned about the potential
   harm to Mount Taylor from resumed uranium mining
 image: https://static.independent.co.uk/2026/09/15/19/Cultural_Landscape_Uranium_Mining_4_652.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 For Native communities in northwest New Mexico’s Grants mineral belt, one of the central concerns with the idea of resumed uranium mining is the potential harm to Mount Taylor. That concern led the state to designate Mount Taylor as a traditional cultural property nearly two decades ago. But as uranium mining companies hoping to operate within the area move through the state permitting process, state regulators still can’t say what role the designation will play in their decisions.

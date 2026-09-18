@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Concerns have once again been raised over the use of e-scooters after
   an 11-year-old was seriously injured after falling off one.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381909.jpg?type=og-image&xType=0&yType=630
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: YappApp)*

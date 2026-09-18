@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Florida man convicted of fatally shooting a 16-year-old girl who rejected
   his romantic advances and wounding two of her friends is set to be executed
 image: https://static.the-independent.com/2026/09/01/9/52/harold-gene-lucas.webp?trim=46,0,320,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Florida man who murdered a 16-year-old girl after she rebuffed his romantic interests and injured two of her companions is scheduled for execution on Tuesday, marking the first of three lethal injections set to occur in the state this month.

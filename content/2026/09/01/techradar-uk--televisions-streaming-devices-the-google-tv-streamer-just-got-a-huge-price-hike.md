@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Google's TV streamer has gone up 50% in the US, with other countries
   set to follow.
 image: https://cdn.mos.cms.futurecdn.net/LHTtPgpY5Rn5t6fyT5P9SR-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The Google TV Streamer interface with two Google Home Speakers connected on either side](https://cdn.mos.cms.futurecdn.net/LHTtPgpY5Rn5t6fyT5P9SR.jpg) 

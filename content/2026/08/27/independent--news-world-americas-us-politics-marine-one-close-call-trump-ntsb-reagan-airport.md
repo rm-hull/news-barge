@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Marine One and the plane were just over 0.8 mile (1.3 kilometers) apart
   laterally and about 700 feet (215 meters) apart vertically during the incident
 image: https://static.independent.co.uk/2026/08/27/20/2290822210..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Air traffic controllers and the pilots of President Donald Trump’s helicopter met to discuss communication problems one week before a passenger jet took off just as Marine One departed the White House, federal investigators said Thursday.

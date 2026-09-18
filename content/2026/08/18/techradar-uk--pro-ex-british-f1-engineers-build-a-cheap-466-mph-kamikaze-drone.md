@@ -7,6 +7,8 @@ scraped_at: '2026-08-18T19:36:12Z'
 published: '2026-08-18T00:00:00Z'
 description: TigerShark, TigerShark, burning bright
 image: https://cdn.mos.cms.futurecdn.net/boEYJagQZWAKs6UtUqrvcX-1000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![MGI Defence TigerShark drone](https://cdn.mos.cms.futurecdn.net/boEYJagQZWAKs6UtUqrvcX.jpg) 

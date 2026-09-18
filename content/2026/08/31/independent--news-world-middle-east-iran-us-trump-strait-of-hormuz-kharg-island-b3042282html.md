@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Trump has vowed further escalation after Iran retaliated for US attacks
   on rocket launchers on Larak Island in the Strait of Hormuz
 image: https://static.independent.co.uk/2026/08/29/21/2026-08-28T235450Z_217972940_RC2S7NADDE5K_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump has vowed to “hit Iran hard” after fighting broke out between the US and Tehran for the first time in a month.

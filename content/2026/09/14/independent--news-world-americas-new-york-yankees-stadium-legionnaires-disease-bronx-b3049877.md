@@ -9,6 +9,10 @@ description: Ten people have tested positive for the illness so far, including o
   individual who died and three who are currently hospitalized, according to the Health
   Department
 image: https://static.independent.co.uk/2026/09/14/13/38/GettyImages-2291465370.jpg?trim=8,0,8,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Bacteria that cause potentially fatal Legionnaires' disease have been detected in a cooling tower at Yankee Stadium, one of 10 Bronx structures testing positive amid a cluster of cases that has resulted in one death, New York City health officials said.

@@ -7,6 +7,12 @@ scraped_at: '2026-08-20T08:53:25Z'
 published: '2026-08-20T00:00:00Z'
 description: A NEW project is inviting people to share stories behind treasured objects
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342074.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Arts & Culture
 ---
 
 A NEW project is inviting people to share stories behind treasured objects.

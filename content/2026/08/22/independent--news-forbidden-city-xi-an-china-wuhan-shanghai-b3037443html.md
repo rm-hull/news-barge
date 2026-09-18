@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: One of China’s best-known comedians is under investigation after changing
   lyrics of a revolutionary song during a performance
 image: https://static.independent.co.uk/2026/08/22/07/China_Comedian_78871.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 One of China’s best-known comedians is under investigation and several of his shows have been canceled after he changed the lyrics of a revolutionary song during a performance.

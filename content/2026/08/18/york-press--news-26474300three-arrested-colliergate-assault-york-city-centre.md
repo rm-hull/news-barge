@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A woman is recovering from her injuries and police investigations are
   continuing following an alleged assault in York city centre.
 image: https://www.yorkpress.co.uk/resources/images/21335458.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 ## Update on woman taken to hospital with head injuries after city centre 'assault'

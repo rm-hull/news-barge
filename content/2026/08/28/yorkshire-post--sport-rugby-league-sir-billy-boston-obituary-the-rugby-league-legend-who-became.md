@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: One statue was never going to be enough to recognise the immense contribution
   Billy Boston made to rugby league.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNhNDgxMDc1LTljMmMtNGQ4NC05MDZkLTBhMDkwZTMzM2VlNTo3OTkwZjkyYy01MGQ4LTQ5ZmItODU2MS04NTFkMzkzYzUwMjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- History
 ---
 
 # Sir Billy Boston obituary: The rugby league legend who became the sports first knight

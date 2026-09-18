@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Amazon's longtime human workforce platform is disappearing as newer AI
   companies recruit workers for increasingly complex training tasks
 image: https://cdn.mos.cms.futurecdn.net/jwfiVfSRJQF3ZsFfk78EaA-1520-80.png
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Amazon](https://cdn.mos.cms.futurecdn.net/jwfiVfSRJQF3ZsFfk78EaA.png) 

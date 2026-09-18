@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: THOUSANDS of students are being urged to get vaccinated before starting
   university.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21220131.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

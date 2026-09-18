@@ -10,6 +10,11 @@ description: A Ripon Grammar School student who overcome the loss of her grandfa
   and another who coped with the disruption frequent house moves are among those celebrating
   A levels success.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcyYzJjN2FhLTBkZjEtNGJhYi1hZGRlLTU0NTU5Zjk0MWU4ODo2NDAyZDlmZi00Y2MwLTQxYmUtOTRjZC1iNWQyNTFiYWFhYjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Self-Improvement
 ---
 
 # Ripon school’s top-performing student faced 'devastating loss' of grandfather shortly before final exams

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A couple who married at Britain’s highest pub after spotting it in a
   magazine have returned to the Yorkshire Dales landmark 30 years later to…
 image: https://www.thenorthernecho.co.uk/resources/images/21367937.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A couple who married at Britain’s highest pub after spotting it in a magazine have returned to the Yorkshire Dales landmark 30 years later to celebrate their pearl wedding anniversary with their family.

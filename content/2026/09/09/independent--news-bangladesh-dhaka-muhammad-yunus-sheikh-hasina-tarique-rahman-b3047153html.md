@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Bangladesh is struggling to tackle a measles outbreak that has killed
   almost 1,000 children this year despite a renewed vaccination campaign
 image: https://static.independent.co.uk/2026/09/09/10/Bangladesh_Measles_Outbreak_24_92.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Eight-month-old Rojatun Jannat Ramisa is struggling to breathe in a hospital in Bangladesh’s capital as her parents sit helplessly beside her. She's one of thousands of children sickened by a measles outbreak that's sweeping across the country and has killed hundreds of children following setbacks to the country's vaccine program.

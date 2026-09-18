@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Four of PC Tom Clough's closest friends have had his police badge number
   tattooed on their bodies to ensure they carry his memory with them…
 image: https://www.thenorthernecho.co.uk/resources/images/21454105.jpg?type=og-image&xType=0&yType=62
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SOCIAL MEDIA)*

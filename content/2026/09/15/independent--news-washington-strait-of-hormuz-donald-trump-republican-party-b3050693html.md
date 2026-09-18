@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The U.S. military says it opened fire and destroyed two small Iranian
   boats this week trying to steal a drone ship in the waters off Iran
 image: https://static.independent.co.uk/2026/09/15/17/Pentagon_31_79.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The U.S. military said Tuesday that it opened fire and destroyed two small Iranian boats this week trying to steal a drone ship in the waters off Iran.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: AN evening of friendly competition is set to raise vital funds for animals
   in need
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466467.jpg?type=og-image&xType=0&yType=124
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Supplied)*

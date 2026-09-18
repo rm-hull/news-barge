@@ -9,6 +9,11 @@ description: Video. Michaelmania took over the Mexican capital as fans gathered 
   honour Michael Jackson on what would have been the King of Pop's 68th birthday,
   performing Thriller’s iconic dance and dressing as zombies.
 image: https://images.euronews.com/articles/stories/09/89/51/13/1200x675_cmsv2_73b909a1-e4f6-55e5-85f0-06f30830c052-9895113.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Hundreds of Michael Jackson fans and impersonators gathered in Mexico City on Saturday to honour the King of Pop on what would have been his 68th birthday.

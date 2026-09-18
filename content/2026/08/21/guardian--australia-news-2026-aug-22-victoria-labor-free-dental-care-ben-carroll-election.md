@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Premier Ben Carroll says $230m would be earmarked for 10 public dental
   clinics to operate on a walk-in basis
 image: https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=112237f21d0eb8b83c56ebdff052592f
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election.

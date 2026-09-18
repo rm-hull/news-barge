@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:51Z'
 published: '2026-09-15T00:00:00Z'
 description: Harrogate woman’s challenge to honour grandfather James Whale MBE
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/15/10/Ella_Whale_-_Yorkshire_Three_Peaks_Challenge__1__1789462394_1164fed8-0f4d4c50136874b8.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 # Harrogate woman honours late grandfather James Whale with Three Peaks Challenge for Kidney Cancer UK

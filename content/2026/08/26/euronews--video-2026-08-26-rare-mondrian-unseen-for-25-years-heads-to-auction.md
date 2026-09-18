@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Video. A rare 1920 Mondrian painting, Composition III, unseen for 25
   years, will sell at Christie's London in October with an estimate of £20m to £30m.
 image: https://images.euronews.com/articles/stories/09/88/93/80/1200x675_cmsv2_67dece18-4822-5b8f-9ced-ad4e8acfcf08-9889380.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 A rare 1920 painting by Dutch master Piet Mondrian, Composition III, is set to go under the hammer at Christie’s in London this October. The abstract work, unseen in public for more than 25 years, is expected to fetch between £20m and £30m during the auction house’s Frieze Week sale.

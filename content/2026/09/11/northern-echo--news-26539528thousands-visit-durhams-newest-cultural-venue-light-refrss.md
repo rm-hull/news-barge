@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: MORE than 5,000 people visited Durham’s newest cultural venue in its
   opening week.
 image: https://www.thenorthernecho.co.uk/resources/images/21435872.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

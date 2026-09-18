@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Reform UK’s conference in Birmingham begins as the party has sunk to
   third place in polls
 image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe2-bb82-a82020391510.jpg?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nigel Farage will try to shake off ongoing scrutiny about funding both he and Reform UK have received as the party’s conference begins.

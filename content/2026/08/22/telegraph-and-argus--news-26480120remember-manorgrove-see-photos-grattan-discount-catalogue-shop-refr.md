@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: IN 1986 Grattan’s third discount catalogue shop, Manorgrove, opened in
   St James Street, selling a range of goods, such as fashion, bedding,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345158.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 IN 1986 Grattan’s third discount catalogue shop, Manorgrove, opened in St James Street, selling a range of goods, such as fashion, bedding, jewellery and hi-fi.

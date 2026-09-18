@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: George Mason, originally from Hinckley in Leicestershire, is facing deportation
   from Sweden.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f53/live/feae0f20-a094-11f1-91dc-4919512f173f.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![George Mason looking towards the camera](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3f53/live/feae0f20-a094-11f1-91dc-4919512f173f.jpg)

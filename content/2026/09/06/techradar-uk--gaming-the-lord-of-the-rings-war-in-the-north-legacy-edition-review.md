@@ -8,6 +8,9 @@ scraped_at: '2026-09-06T15:24:55Z'
 published: '2026-09-06T00:00:00Z'
 description: Middling-Earth.
 image: https://cdn.mos.cms.futurecdn.net/dJueDrmoVvtpcG8DEjjAJG-1840-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

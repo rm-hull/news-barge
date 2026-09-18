@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Emergency crews responded to two separate incidents at Shipley addresses
   yesterday afternoon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16524140.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

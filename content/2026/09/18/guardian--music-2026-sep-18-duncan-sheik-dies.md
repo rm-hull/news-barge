@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The musician, who went from 90s alt-pop hits to Tony-winning Broadway
   success, died from cardiac arrest
 image: https://i.guim.co.uk/img/media/11900c128efa44f981076ce867965ba4ee9b7941/0_163_2250_1799/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=248add7d22dc1d8b3e854d3f49016481
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Duncan Sheik, the singer-songwriter behind the 90s alt-pop touchstone Barely Breathing and the composer of the Tony-winning musical Spring Awakening, died on Thursday at a Manhattan hospital. He was 56.

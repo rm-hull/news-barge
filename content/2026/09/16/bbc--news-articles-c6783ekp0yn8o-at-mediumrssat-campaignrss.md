@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Nicholas Brandram was a suspect in the incident where a woman was shoved
   into the path of a bus nine years ago.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a10c/live/282a8f90-b1de-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A head-and-shoulders image of Nicholas Brandram, seen with light brown hair and blue eyes, wearing a light blue collared shirt, a dark blue suit jacket, and a burgundy tie with a repeated white pattern. He is facing forward with a neutral expression.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a10c/live/282a8f90-b1de-11f1-a430-4d16ee157c41.jpg)

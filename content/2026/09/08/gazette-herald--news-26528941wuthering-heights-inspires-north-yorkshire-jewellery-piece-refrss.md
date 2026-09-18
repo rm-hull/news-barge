@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Joanne Gowan, from North Yorkshire, is developing a piece based on a
   moment from Emily Brontë’s classic novel, Wuthering Heights.
 image: https://www.gazetteherald.co.uk/resources/images/21421189.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A jeweller is capturing the spirit of Wuthering Heights in a new piece inspired by the Yorkshire landscape and the writing of Emily Brontë.

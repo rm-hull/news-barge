@@ -9,6 +9,9 @@ description: 'Tom Fletcher said the UN needs more than €1.7 billion for its pr
   humanitarian response in Ukraine this year, with winter among his biggest concerns.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/25/80/1200x675_cmsv2_39418316-0a75-5840-a210-afe0ac77fffe-9882580.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Tom Fletcher said the UN needs more than €1.7 billion for its prioritised humanitarian response in Ukraine this year, with winter among his biggest concerns.

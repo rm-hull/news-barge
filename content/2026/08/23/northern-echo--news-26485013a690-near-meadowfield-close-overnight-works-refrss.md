@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Motorists are being warned of overnight A690 road closures between Meadowfield
   and Langley Moor near Durham as resurfacing works are carried out on…
 image: https://www.thenorthernecho.co.uk/resources/images/18699764.jpg?type=og-image&yType=2
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Archive)*

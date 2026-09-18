@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Gurpreet Singh Johal says his brother’s bail is a ‘huge relief’ but court
   yet to set conditions for release
 image: https://static.independent.co.uk/2026/06/05/16/be9d60f5c7682e4944eb4c965bd97024Y29udGVudHNlYXJjaGFwaSwxNzgwNzU5NzEx-2.82269803.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A court in India has granted bail to Briton Jagtar Singh Johal after almost nine years behind bars over terror allegations.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Vault Seven in Lendal, York, is preparing to close its doors after nearly
   two years.
 image: https://www.yorkpress.co.uk/resources/images/21414307.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Well-loved vintage shop set to close in York city centre

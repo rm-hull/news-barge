@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Durham County Council has agreed to buy back a long-derelict County Durham
   care home.
 image: https://www.thenorthernecho.co.uk/resources/images/21464743.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

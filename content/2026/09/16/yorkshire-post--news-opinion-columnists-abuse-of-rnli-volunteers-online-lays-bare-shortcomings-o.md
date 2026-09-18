@@ -10,6 +10,12 @@ description: Illegal immigration into the country is understandably an emotive i
   the demands placed on it by the arrival of thousands of asylum seekers. Small boat
   crossings continue to present a challenge to the authorities here.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk5NDAyODMxLWQ3ODMtNDA0NC1hYzI5LTdiZGY5NjgzZjg0YjowNTg3ZGU1Ny0zZTcxLTQ5ZTQtYjU4ZC1mNDk0OGY4NzhiMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Abuse of RNLI volunteers online lays bare shortcomings of social media platforms

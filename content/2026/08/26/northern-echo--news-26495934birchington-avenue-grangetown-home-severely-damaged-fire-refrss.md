@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Pictures from the scene show extensive damage to a Grangetown home after
   firefighters were called to an early morning blaze.
 image: https://www.thenorthernecho.co.uk/resources/images/21372160.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Pictures from the scene show extensive damage to a Grangetown home after firefighters were called to an early morning blaze.

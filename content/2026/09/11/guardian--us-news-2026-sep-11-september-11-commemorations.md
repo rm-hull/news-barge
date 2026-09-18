@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Memorials and remembrances will mark the 25 years since the attacks that
   killed nearly 3,000 on 11 September 2001
 image: https://i.guim.co.uk/img/media/c31fecd2d483549c31414ed588fc2e1c66bac273/273_0_6829_5464/master/6829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df6d89f2cba9f2f7e5623f7c42198510
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The United States is marking the 25th anniversary of the September 11, 2001  terrorist attacks on Friday, with memorials and remembrance ceremonies taking place across the country to honor the nearly 3,000 people killed in the attacks.

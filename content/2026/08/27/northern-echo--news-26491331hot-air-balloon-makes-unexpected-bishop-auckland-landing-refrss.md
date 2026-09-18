@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Residents on a Bishop Auckland street were left “shocked” when a hot
   air balloon landed outside their homes.
 image: https://www.thenorthernecho.co.uk/resources/images/21365899.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Society & Culture
 ---
 
 Residents on a Bishop Auckland street were left “shocked” when a hot air balloon landed outside their homes.

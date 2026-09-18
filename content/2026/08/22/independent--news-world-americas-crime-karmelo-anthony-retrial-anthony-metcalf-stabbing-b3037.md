@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: It was not clear when the judge will issue a ruling on whether to grant
   a new trial
 image: https://static.the-independent.com/2025/04/03/16/09/Screenshot-2025-04-03-at-12-26-39-PM.png?trim=0,42,0,68&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Health & Fitness
 ---
 
 Karmelo Anthony had planned to testify at his Texas murder trial over the fatal stabbing at a high school track meet but ultimately decided against it after concerns emerged that prosecutors could introduce potentially damaging evidence about his past, one of his attorneys said Friday.

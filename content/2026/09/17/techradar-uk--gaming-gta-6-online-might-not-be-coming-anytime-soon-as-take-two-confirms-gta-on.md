@@ -8,6 +8,8 @@ scraped_at: '2026-09-17T19:43:15Z'
 published: '2026-09-17T00:00:00Z'
 description: Fans think GTA 6 Online could be its own standalone title
 image: https://cdn.mos.cms.futurecdn.net/knPikneiqQ4a4p7AEdGPra-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/knPikneiqQ4a4p7AEdGPra.jpg) 

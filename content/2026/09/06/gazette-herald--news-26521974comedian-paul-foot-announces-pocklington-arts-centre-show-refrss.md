@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Comedian Paul Foot is bringing his critically acclaimed stand-up show
   to Pocklington Arts Centre in May.
 image: https://www.gazetteherald.co.uk/resources/images/21410488.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: Pocklington Arts Centre)*

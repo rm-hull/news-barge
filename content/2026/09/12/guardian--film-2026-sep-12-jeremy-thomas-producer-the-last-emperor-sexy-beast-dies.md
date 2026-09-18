@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Thomas was noted for collaborations with directors including Bernardo
   Bertolucci and David Cronenberg
 image: https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21c3a25d44e9edd895fe0e668f8cbc3e
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 Jeremy Thomas, the distinguished British producer of films including Sexy Beast, High-Rise and the multi-Oscar-winning The Last Emperor, has died aged 77.

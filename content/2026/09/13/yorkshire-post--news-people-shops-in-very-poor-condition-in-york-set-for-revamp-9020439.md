@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T07:26:25Z'
 published: '2026-09-13T00:00:00Z'
 description: Shops said to be in a very poor condition are set for a revamp.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMxYzA3Y2JlLTc5Y2QtNGY3ZS1hMWI4LTI1Y2Y3ZTIzNTYzZjo0YzQ4ZmI0Ny1iZTdmLTRiZjYtYTdiZC0zYmI2NDZmOTg5MGI=.jpg?crop=3:2,smart&trim=&width=719&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Shops in 'very poor condition' in York set for revamp

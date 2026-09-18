@@ -9,6 +9,9 @@ description: As India’s capital prepares to host a summit of the BRICS groupin
   countries this weekend, parts of one of the world’s busiest urban centers have been
   turned into tightly controlled security zones
 image: https://static.independent.co.uk/2026/09/11/05/India_BRICS_11435.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Bad traffic is a fact of life in New Delhi, but it's often at its worst when foreign dignitaries come to town.

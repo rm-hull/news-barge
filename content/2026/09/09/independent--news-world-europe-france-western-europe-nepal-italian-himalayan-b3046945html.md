@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Mont Blanc, western Europe's highest peak, is experiencing dramatic changes
   due to climate warming
 image: https://static.independent.co.uk/2026/09/09/02/France_Mont_Blanc_Climate_Change_281_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 For centuries, French and Italian mountain communities on the flanks of Western Europe's highest peak have gazed upon seemingly eternal glaciers and snow that gave the colossus its name: Mont Blanc, the white mountain.

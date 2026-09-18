@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Paradox Interactive has revealed Afterworld, its next grand strategy
   game.
 image: https://cdn.mos.cms.futurecdn.net/TSnBS9XDRinhCadwFDtWYC-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Key art for Afterworld.](https://cdn.mos.cms.futurecdn.net/TSnBS9XDRinhCadwFDtWYC.jpg) 

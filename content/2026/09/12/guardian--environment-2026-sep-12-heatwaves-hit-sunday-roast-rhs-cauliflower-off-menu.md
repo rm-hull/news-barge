@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant
   crops
 image: https://i.guim.co.uk/img/media/284dd2c56c11b173432d520ec1cf7d5539ccbef5/328_0_4660_3729/master/4660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4283b23aa6d33ad518a4d61a88a0e9a2
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 They are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, according to the Royal Horticultural Society.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: One critic accuses the nonprofit established by Jacqueline Kennedy of
   ‘complicity’ in the president’s controversial renovations to the ‘People’s House’
 image: https://static.independent.co.uk/2026/08/24/13/26/GettyImages-2277112556.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 A nonprofit group created to help preserve the character of the White House is being accused of “complicity” in President Donald Trump's controversial remaking of the iconic building to suit his taste.

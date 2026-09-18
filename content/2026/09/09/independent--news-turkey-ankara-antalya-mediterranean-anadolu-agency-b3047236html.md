@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A volunteer firefighter has died while battling a large wildfire in Turkey’s
   Antalya province
 image: https://static.independent.co.uk/2026/09/08/18/Turkey_Wildfire_95_83.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A volunteer firefighter died on Wednesday in Turkey after helping local emergency services tackle a large wildfire in the Mediterranean coastal province of Antalya, an official said.

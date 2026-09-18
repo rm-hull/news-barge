@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: An unlicensed and uninsured motorcyclist has been jailed after knocking
   down and killing a 75-year-old grandfather on a Leeds ring road.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/8/15/MixCollage-03-Sep-2026-09-51-AM-2079.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Unlicensed motorcyclist jailed after grandfather killed on Leeds road

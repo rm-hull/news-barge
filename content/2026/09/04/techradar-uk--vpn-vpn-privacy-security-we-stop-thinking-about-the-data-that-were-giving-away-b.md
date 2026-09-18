@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: As the boundary between style and surveillance blurs, are we prepared
   to give up privacy in the name of fashion?
 image: https://cdn.mos.cms.futurecdn.net/vrUrZ7JpBBaBFYfG7R6kSX-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Halfton eye on black background, Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/vrUrZ7JpBBaBFYfG7R6kSX.png) 

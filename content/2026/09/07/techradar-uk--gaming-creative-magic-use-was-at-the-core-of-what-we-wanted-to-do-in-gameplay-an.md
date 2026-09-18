@@ -10,6 +10,9 @@ published: '2026-09-07T00:00:00Z'
 description: 'Invoke Studios has explained why it chose a warlock protagonist for
   Warlock: Dungeons & Dragons, explaining that "creative magic" was central to gameplay.'
 image: https://cdn.mos.cms.futurecdn.net/8ofKa4iq2BZakkqB37tmhL-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Warlock: Dungeons & Dragons](https://cdn.mos.cms.futurecdn.net/8ofKa4iq2BZakkqB37tmhL.jpg) 

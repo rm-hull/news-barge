@@ -10,6 +10,9 @@ description: Patreon is overhauling how creators get discovered, adding short-fo
   Clips, topic-based communities, and a revamped recommendation system designed to
   give smaller creators more visibility.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Header-Image.png?resize=1200,675
+categories:
+- Creator Economy & Marketing
+- Technology & Software
 ---
 
 The team at Patreon, the membership platform for creators, has been building like crazy and is now revealing the result. On Thursday, the company debuted dozens of new features to help creators get discovered, build their community, learn from insights, and more.

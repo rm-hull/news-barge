@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T09:45:11Z'
 published: '2026-08-23T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/shipton-road-york-gsv.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 An investigation was launched after was was seen “seen pouring out” of a building in York.

@@ -9,6 +9,12 @@ description: A City of York Council report stated a review of library services c
   out since the cuts were first approved in 2024 found now was not the right time
   to proceed with them.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmExMWY4ZGU1LTRkZjQtNDk3YS1iYmY0LWQzODQyM2IyNzVjZDpmOGJmZTYxMS02NzcxLTRlY2ItYjQ4MS0xNDdlZGZjMTFmYTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- History
 ---
 
 # £600,000 cuts to York library contract shelved as 'now isn't the right time'

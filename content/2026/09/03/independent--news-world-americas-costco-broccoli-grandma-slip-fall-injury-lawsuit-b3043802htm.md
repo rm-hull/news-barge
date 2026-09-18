@@ -9,6 +9,10 @@ description: Felicia Romain was ‘traversing the aisle with her son and grandso
   she wiped out on the wayward floret, according to a court filing reviewed by The
   Independent
 image: https://static.independent.co.uk/2026/09/02/22/36/GettyImages-169815537.jpeg?trim=0,163,0,163&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A New York grandmother is threatening a lawsuit against Costco after claiming she slipped on a piece of broccoli and badly injured herself while shopping at the discount warehouse club.

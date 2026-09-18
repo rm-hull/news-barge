@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The footage and other evidence the FBI failed to share undermine Omar
   al-Bayoumi's 25 years of denials.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c38c/live/5aeca320-aabb-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?

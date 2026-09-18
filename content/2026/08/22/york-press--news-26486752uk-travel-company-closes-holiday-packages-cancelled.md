@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: UK travel company Golf Villa Rentals Ltd has ceased trading (as of August
   18), with all holiday packages cancelled - are you affected?
 image: https://www.yorkpress.co.uk/resources/images/21355114.jpg?type=og-image&xType=0&yType=244
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Travel
 ---
 
 *(Image: Getty Images)*

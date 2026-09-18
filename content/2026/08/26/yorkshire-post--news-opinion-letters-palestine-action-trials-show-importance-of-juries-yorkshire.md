@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T13:11:57Z'
 published: '2026-08-26T00:00:00Z'
 description: 'From: Dave Roberts, Morley, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZlNGI0MWE4LWQ4YmEtNGIyZS1hNDhmLWRlNjIzMTUyNzJiMjo1MjY5YTg3ZC01OGFkLTQ4NTMtOTliNy1hNWM2YjQ4NmI4OTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Palestine Action trials show importance of juries - Yorkshire Post Letters

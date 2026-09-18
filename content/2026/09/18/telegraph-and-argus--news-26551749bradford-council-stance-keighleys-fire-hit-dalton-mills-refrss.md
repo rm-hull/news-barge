@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: Bradford taxpayers could be left exposed to significant liabilities and
   costs if the Council were to make an ill-judged intervention in the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20981511.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Bradford taxpayers could be left exposed to significant liabilities and costs if the Council were to make an ill-judged intervention in the long-running saga over a fire-ravaged mill, it is feared.

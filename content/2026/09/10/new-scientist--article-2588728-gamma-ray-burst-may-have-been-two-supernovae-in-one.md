@@ -9,6 +9,9 @@ description: A group of astronomers proposes that a series of events in a distan
   galaxy formed both a black hole and a pulsar, but other experts say the conclusion
   is premature
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A black hole with high energy gamma ray beams](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311507648.jpg?w=840)

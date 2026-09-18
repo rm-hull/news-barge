@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Dr. Ben Carson was promoting healthy school lunches that mean pupils
   ‘won’t have a craving for the unhealthy foods’
 image: https://static.independent.co.uk/2026/08/24/23/59/Screenshot-2026-08-24-at-7-06-59-PM.jpg?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Food & Cooking
+- Pets & Animals
 ---
 
 President Donald Trump’s nutrition adviser has said kids should eat food fresh from the ground, and then suggested hot dogs as an option.

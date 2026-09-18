@@ -10,6 +10,9 @@ description: Year after year, investors who've explored the Expo Halls, met foun
   and learned from peers have proven why you need to be on the ground at Disrupt this
   year.
 image: https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 TechCrunch Disrupt 2026 is built around one question for founders: How do you build an enduring company in the AI era? For investors, it’s the opposite: How do you find that company before someone else does?

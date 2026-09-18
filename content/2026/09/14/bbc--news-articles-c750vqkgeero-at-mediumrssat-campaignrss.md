@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Hundreds of Britons have been detained in Thailand on suspicion of attempting
   to smuggle cannabis to the UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b0d/live/66d0b2d0-b033-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Large bags of cannabis next to a row of suitcases in an airport](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/0b0d/live/66d0b2d0-b033-11f1-9ae0-e316eeb4632d.jpg)

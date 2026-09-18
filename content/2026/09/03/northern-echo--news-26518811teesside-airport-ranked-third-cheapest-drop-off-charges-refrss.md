@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A North East airport has been named one of the cheapest in the UK for
   dropping off passengers in a new study by Lapland Famille.
 image: https://www.thenorthernecho.co.uk/resources/images/17504559.jpg?type=og-image&xType=24&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A North East airport has been named one of the cheapest in the UK for dropping off passengers in a new study.

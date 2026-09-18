@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Authorities believe handguns found in forest near Berlin were to be used
   to carry out assassinations for Russian intelligence, Sueddeutsche reports
 image: https://i.guim.co.uk/img/media/e102476750d2357adb4c1b05d061b9a5a3bb9f37/1118_702_5936_4751/master/5936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5a72baca6e8efd74a9efc65388f7cc3
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 German security authorities discovered handguns stashed in a forest near Berlin last year that they believe were to be used to carry out assassinations on behalf of Russian intelligence, Süddeutsche Zeitung reported on Friday.

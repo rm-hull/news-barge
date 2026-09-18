@@ -9,6 +9,12 @@ description: Sheffield City Council’s education committee will create a public
   rather than an ‘all out ban’ on smartphones, following concerns raised by a parent-led
   campaign group.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU0MzMxMmVjLTc3ZDktNDlkYy05NmM1LTdkYjJlMDcxMjZiNTpmNGI3MmVhNi1kNjRjLTQ0MmItYjc2MC02NmU0NDcyYjYyMDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 # Sheffield Council to create public campaign over smartphone ban

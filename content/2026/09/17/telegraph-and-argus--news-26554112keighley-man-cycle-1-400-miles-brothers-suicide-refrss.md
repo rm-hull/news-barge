@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Keighley man will complete a 1,400-mile cycle ride in memory of his
   brother, who died by suicide.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461149.jpg?type=og-image&xType=0&yType=591
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A Keighley man will complete a 1,400-mile cycle ride in memory of his brother, who died by suicide.

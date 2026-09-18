@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: BASSLINE meets classical in a groundbreaking concert coming to Bradford
   this autumn
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383408.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: Promo)*

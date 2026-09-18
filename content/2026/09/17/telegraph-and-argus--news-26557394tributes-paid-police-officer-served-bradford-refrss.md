@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: The death of a "well-respected" police officer has prompted a wave of
   tributes from colleagues and the wider community.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21465864.jpg?type=og-image&xType=0&yType=101
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Hannah Cooper / GoFundMe)*

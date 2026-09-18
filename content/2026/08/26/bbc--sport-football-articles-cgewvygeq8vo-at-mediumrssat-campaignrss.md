@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Manchester City are set to make an opening offer for priority midfield
   target Enzo Fernandez.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/532f/live/e79a2900-a133-11f1-8c37-3f30331ac537.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Enzo Fernandez in action for Chelsea during pre-season](https://ichef.bbci.co.uk/ace/standard/920/cpsprodpb/532f/live/e79a2900-a133-11f1-8c37-3f30331ac537.jpg)

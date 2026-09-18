@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Alexander Jefferson, 26, of Roseberry Park Hospital in Middlesbrough,
   was given a conditional discharge after admitting three assaults on NHS…
 image: https://www.thenorthernecho.co.uk/resources/images/19515582.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

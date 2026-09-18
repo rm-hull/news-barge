@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T04:15:34Z'
 published: '2026-09-03T00:00:00Z'
 description: The York National Book Fair will take place over two days in York.
 image: https://www.yorkpress.co.uk/resources/images/19318696.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Pixabay)*

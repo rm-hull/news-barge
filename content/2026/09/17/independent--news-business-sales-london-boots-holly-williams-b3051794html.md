@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The group expects to report half-year underlying earnings of ‘not less
   than’ £2 million, following losses of £12.5 million a year earlier.
 image: https://static.independent.co.uk/2025/01/02/08/02081002-f1f37ade-8114-4c5c-ae23-0b1659658d06.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Revolution Beauty is set to return to profit in its first half as the firm’s turnaround continues to gather pace.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: It comes after a boy was diagnosed with erythema ab igne (EAI) after
   resting his laptop on his stomach for up to eight hours a day
 image: https://static.independent.co.uk/2026/09/08/17/01M1ZSRTBFPMNDZBPGKR6WNYXF.jpg?trim=0,128,0,128&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Medical professionals have warned of a rise in children suffering skin reactions from resting electronic devices against bare skin.

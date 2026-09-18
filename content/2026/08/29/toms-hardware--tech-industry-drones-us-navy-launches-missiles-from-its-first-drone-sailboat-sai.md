@@ -10,6 +10,10 @@ published: '2026-08-29T00:00:00Z'
 description: Successful live-fire tests took place near Hawaii during the recent RIMPAC
   2026 exercises.
 image: https://cdn.mos.cms.futurecdn.net/uFUvCuBYpLznCPB9MPruAm-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Saildrone Surveyor SD-3001](https://cdn.mos.cms.futurecdn.net/uFUvCuBYpLznCPB9MPruAm.jpg) 

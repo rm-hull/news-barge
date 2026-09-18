@@ -9,6 +9,10 @@ description: Video. Serbia has seen the remains of a century-old steam tug emerg
   from the Sava River near Sremska Mitrovica, after prolonged heat and drought drove
   water levels exceptionally low.
 image: https://images.euronews.com/articles/stories/09/88/19/68/1200x675_cmsv2_22d8e092-deea-57c7-ac74-0669c5a70b17-9881968.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 Recent heatwaves and severe droughts across Europe have caused river levels to fall sharply, bringing long-hidden traces of the continent’s past to the surface.

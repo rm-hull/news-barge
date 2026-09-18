@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: Here are 5 weirdly specific and clever ways people are actually using
   AI for everyday tasks.
 image: https://cdn.mos.cms.futurecdn.net/6ixcxHCCwE4kJWQVMrcsUR-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![3-way image. ChatGPT, wine and washing machine.](https://cdn.mos.cms.futurecdn.net/6ixcxHCCwE4kJWQVMrcsUR.jpg) 

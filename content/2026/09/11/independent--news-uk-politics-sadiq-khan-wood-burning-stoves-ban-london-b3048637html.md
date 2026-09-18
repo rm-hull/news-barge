@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: The Mayor of London has written to the government asking for more power
   to ban burning certain fuels
 image: https://static.independent.co.uk/2026/09/04/12/01M1P2XAZAEHJDDTMBA12DVDK5.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sadiq Khan is pushing to ban wood-burning stoves in parts of London as he ramps up clean air efforts in the capital, according to reports.

@@ -9,6 +9,11 @@ description: 'Spain''s Interior Ministry has extended checks on travellers arriv
   from Italy for a further 15 days, until 22 September, mirroring Rome''s move after
   the Ceuta migration crisis. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/25/03/1200x675_cmsv2_ab13f44c-2e35-549e-ae00-494ce2e5adb5-9902503.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 ## Spain's Interior Ministry has extended checks on travellers arriving from Italy for a further 15 days, until 22 September, mirroring Rome's move after the Ceuta migration crisis.

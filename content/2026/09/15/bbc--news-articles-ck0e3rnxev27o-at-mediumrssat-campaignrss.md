@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Canadian PM is in Strasbourg this week seeking a "unique alliance"
   - and there is one clear catalyst.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45cc/live/43719d00-b1cc-11f1-8493-1910d79d53eb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![File image of Canadian Prime Minister Mark Carney embracing European Commission President Ursula von der Leyen](https://ichef.bbci.co.uk/ace/standard/699/cpsprodpb/e7a9/live/c11ca250-b108-11f1-a451-6b1ff10ed362.jpg)

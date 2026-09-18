@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T19:14:55Z'
 published: '2026-09-09T00:00:00Z'
 description: Readers continue to share stories of how their own dogs respond to aircrafts
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_307973960.jpg
+categories:
+- Science
+- Technology & Software
+- Pets & Animals
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_304354522.jpg?w=840)

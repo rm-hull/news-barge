@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: OpenAI has more than 100 million weekly active ChatGPT users in India,
   a huge chunk of whom are on the free or the lower-priced Go tiers.
 image: https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 It seems there is no escaping the ad industry.

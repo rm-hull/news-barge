@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: THE RT was the great, red London double decker of the 1940s through to
   the 1960s, but during that period buses and bus usage changed dramatically.
 image: https://www.thenorthernecho.co.uk/resources/images/21353017.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 The RT was the great, red London double decker of the 1940s through to the 1960s, but during that period buses and bus usage changed dramatically.

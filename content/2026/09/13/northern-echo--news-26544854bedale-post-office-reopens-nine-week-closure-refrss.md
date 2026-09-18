@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A North Yorkshire post office has reopened following a nine-week closure,
   with new operators promising expanded services and a renewed focus on…
 image: https://www.thenorthernecho.co.uk/resources/images/21445115.jpg?type=og-image&xType=0&yType=194
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE MAPS)*

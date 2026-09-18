@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A St Aidan's teacher has received national recognition for helping sixth
   form students carry out independent research.
 image: https://mmo.aiircdn.com/409/6aac042bb5f7ad8512d.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6aac042bb5f7ad8512d.jpg) 

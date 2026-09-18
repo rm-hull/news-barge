@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A man wanted for eight years has been charged with alleged offences against
   a woman in Stanley.
 image: https://www.thenorthernecho.co.uk/resources/images/21464385.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NEWSQUEST)*

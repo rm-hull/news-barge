@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T19:09:07Z'
 published: '2026-09-11T00:00:00Z'
 description: Clans of London offers highly tactical five-minute matches.
 image: https://cdn.mos.cms.futurecdn.net/Kw8k7KYU34TuS74oE7jTC-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Vampire: The Masquerade Clans of London](https://cdn.mos.cms.futurecdn.net/Kw8k7KYU34TuS74oE7jTC.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Consett man Ben Aitken transformed his health after an NHS check revealed
   he had an 18 per cent risk of a heart attack or stroke.
 image: https://www.thenorthernecho.co.uk/resources/images/21391111.jpg?type=og-image&xType=0&yType=941
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A County Durham man was left shocked after being told that he had a one in five chance of having a heart attack or stroke in the next decade, despite thinking he was 'broadly healthy'.

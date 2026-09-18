@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The elite Oxbridge institutions have dropped out of the top three for
   only the second time in the Times guide’s 33-year history
 image: https://static.independent.co.uk/2026/03/08/17/40/iStock-186862698.jpeg?trim=0,5,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The University of St Andrews has claimed the top spot in *The Times* and*The Sunday Times* Good University Guide 2027.

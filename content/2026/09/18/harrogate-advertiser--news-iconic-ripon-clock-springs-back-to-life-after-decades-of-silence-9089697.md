@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:29Z'
 published: '2026-09-18T00:00:00Z'
 description: Ripon Grammar clock working again
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/12/M_5_OTO-2026-09-18-08-26-26_6_1789729603_6188ac34-8cbad2356e02c9c0.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Self-Improvement
+- Careers & Productivity
 ---
 
 # Iconic Ripon clock springs back to life after decades of silence

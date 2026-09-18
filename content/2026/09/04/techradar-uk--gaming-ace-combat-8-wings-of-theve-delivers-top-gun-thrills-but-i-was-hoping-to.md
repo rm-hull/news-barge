@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T18:59:05Z'
 published: '2026-09-04T00:00:00Z'
 description: We go hands-on with the next Ace Combat game at Gamescom 2026.
 image: https://cdn.mos.cms.futurecdn.net/atKfEcic3a5tSFqqtr5KNX-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![A promotional Ace Combat 8 screenshot.](https://cdn.mos.cms.futurecdn.net/atKfEcic3a5tSFqqtr5KNX.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Cygnet St William’s and Cygnet Victoria House, both based in Darlington,
   raised £463 in support of The Listening Post.
 image: https://www.thenorthernecho.co.uk/resources/images/21404708.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Two care services have teamed up and raised hundreds with a charity football match.

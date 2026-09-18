@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: IT’S HARD to believe that in the days when lives are lived through the
   click of a keypad traders still go round communities delivering goods in a…
 image: https://www.yorkpress.co.uk/resources/images/21357047.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Butcher, baker, fishmonger -you name it, they did their rounds

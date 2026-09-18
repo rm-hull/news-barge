@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Ironically, Let it Die is being kept alive after its live service shut
   down.
 image: https://cdn.mos.cms.futurecdn.net/eZ5RWyALiNgHge6jjAeHg7-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A Let it Die banner on a promotional Let it Die image.](https://cdn.mos.cms.futurecdn.net/eZ5RWyALiNgHge6jjAeHg7.jpg) 

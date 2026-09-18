@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: This Brazilian steakhouse brings a taste of southern Brazil to Leeds,
   as Granary Wharf's Fogo de Chão (formerly Fazenda) serves up authentic Churrasco.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/18/13/28/Leeds_Main_DR.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Fogo de Chão Leeds (formerly Fazenda) – inside the Brazilian steakhouse serving up a Churrasco Experience

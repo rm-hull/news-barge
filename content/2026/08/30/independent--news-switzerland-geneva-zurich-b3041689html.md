@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Swiss police and media say that a shooting at a rave in the northern
   Swiss canton of Aargau has killed one person and left five injured
 image: https://static.independent.co.uk/2026/08/30/07/Switzerland_Shooting_67217.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A shooting at a rave in the northern Swiss canton of Aargau killed one person and left five injured, local police and media reported Sunday.

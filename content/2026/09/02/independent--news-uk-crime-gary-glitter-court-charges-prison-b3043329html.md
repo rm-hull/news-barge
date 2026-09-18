@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:44:43Z'
 published: '2026-09-02T00:00:00Z'
 description: Glitter was accompanied by a lawyer in prison
 image: https://static.independent.co.uk/2026/08/05/14/6b29ed7442fc6d5b1d5f8a262f46137cY29udGVudHNlYXJjaGFwaSwxNzg2MDIxNDU0-2.75137579.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Ex-pop star Gary Glitter has pleaded not guilty to eight allegations of sexual abuse against a girl when she was aged between eight and 11.

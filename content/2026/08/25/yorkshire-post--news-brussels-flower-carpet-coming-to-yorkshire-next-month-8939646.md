@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Brussels’ popular Flower Carpet is coming to Bradford – and is taking
   inspiration from the city’s textiles industry. Alex Wood reports.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI5MWM4ZWQwLWRmYmEtNGUzMy05YTQyLTNhYTUxYzZjMDI1Zjo4YTZiNGNjYi0zYzAwLTQ1MGMtOGRjMi0wMTA2OGJiYmQ3NzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Brussels’ Flower Carpet coming to Yorkshire next month

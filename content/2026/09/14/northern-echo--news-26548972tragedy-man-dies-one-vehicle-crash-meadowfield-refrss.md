@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A man has died following a one-vehicle crash in Meadowfield that sparked
   an air ambulance response.
 image: https://www.thenorthernecho.co.uk/resources/images/21453313.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Andrew Kylie)*

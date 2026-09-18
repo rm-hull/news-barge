@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T16:47:52Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://www.devsite.spectramedia.co.uk/mix/images/yorkmix-logo.png
+categories:
+- Local
+- York
+- Home, Garden & DIY
+- Food & Cooking
 ---
 
 Two fire crews responded to reports of a house fire in Huntington, York, this morning (Friday).

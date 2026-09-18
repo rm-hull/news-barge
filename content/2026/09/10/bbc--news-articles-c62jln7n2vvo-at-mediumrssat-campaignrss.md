@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The father had threatened to behead a female primary school teacher near
   Toulouse.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![File pic showing the courthouse in Toulouse](https://ichef.bbci.co.uk/ace/standard/906/cpsprodpb/3cb0/live/7f4afc60-ad47-11f1-ae59-91d2b63bf2a3.jpg)

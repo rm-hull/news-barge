@@ -10,6 +10,11 @@ description: 'France’s far right responded in markedly different ways to the A
   a conspicuous silence on Monday while Éric Zemmour’s Reconquête openly celebrated
   the result. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/44/71/1200x675_cmsv2_7a78b415-d031-5ef2-a79d-af94047462d4-9904471.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ## France’s far right responded in markedly different ways to the AfD’s sweeping victory in Germany’s regional elections, with the National Rally (RN) maintaining a conspicuous silence on Monday while Éric Zemmour’s Reconquête openly celebrated the result.

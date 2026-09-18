@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Mount School in York where Dame Judi Dench attended is “thriving”
   despite it facing a deficit of more than £580,000, its chair of governors…
 image: https://www.gazetteherald.co.uk/resources/images/21464426.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Duncan Lomax)*

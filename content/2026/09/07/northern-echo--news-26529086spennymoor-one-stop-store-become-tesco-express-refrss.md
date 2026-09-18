@@ -8,6 +8,11 @@ scraped_at: '2026-09-07T22:47:34Z'
 published: '2026-09-07T00:00:00Z'
 description: Spennymoor's One Stop store is to become a Tesco Express.
 image: https://www.thenorthernecho.co.uk/resources/images/21421549.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The spy agency released 71 declassified presidential briefings, with
   one showing it had thought Al Qaeda's plans were 'widely known' by extremists.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Floor at CIA lobby in Virginia](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5309/live/fded5d10-ae0f-11f1-b502-e5cdfe1c097c.jpg)

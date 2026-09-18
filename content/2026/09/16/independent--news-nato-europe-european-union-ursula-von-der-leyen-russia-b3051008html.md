@@ -10,6 +10,10 @@ description: The European Union needs a NATO-like mechanism to better respond to
   incidents, acts of sabotage and cyberattacks across Europe, many of them blamed
   on Russia, European Commission President Ursula von der Leyen said Wednesday
 image: https://static.independent.co.uk/2026/09/15/10/France_Space_Summit_87422.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The European Union needs a NATO-like mechanism to better respond to drone incidents, acts of sabotage and cyberattacks across Europe, many of them blamed on Russia, European Commission President Ursula von der Leyen said Wednesday.

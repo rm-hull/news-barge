@@ -9,6 +9,9 @@ scraped_at: '2026-09-16T13:27:34Z'
 published: '2026-09-16T00:00:00Z'
 description: They're just like us...
 image: https://cdn.mos.cms.futurecdn.net/Nrm6dVjxQpX5QQxjFZiWHo-1200-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Astra minecraft](https://cdn.mos.cms.futurecdn.net/Nrm6dVjxQpX5QQxjFZiWHo.jpg) 

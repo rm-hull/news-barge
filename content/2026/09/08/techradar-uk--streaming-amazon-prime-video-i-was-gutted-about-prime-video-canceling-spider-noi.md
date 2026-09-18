@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T19:25:44Z'
 published: '2026-09-08T00:00:00Z'
 description: If Nicolas Cage can get over it, so can I
 image: https://cdn.mos.cms.futurecdn.net/FGT7yjKHe4bM4U7BWejund-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Nic Cage's Ben Reilly/The Spider squatting on a beam at night in Spider-Noir](https://cdn.mos.cms.futurecdn.net/FGT7yjKHe4bM4U7BWejund.jpg) 

@@ -11,6 +11,9 @@ description: Venezuelans buried quake victims as Colombians surveyed damage. Lul
   resume some cattle imports from Mexico in August. Bolivians celebrated the patron
   saint of dogs.
 image: https://static.independent.co.uk/2026/08/20/21/APTOPIX_Venezuela_Earthquake_84756.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Quake aftermath, Brazil election campaigns and other top photos from Latin America and the Caribbean

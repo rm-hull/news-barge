@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Rose & Crown in Romaldkirk has launched a new ‘Sniffari’ route in
   the Durham Dales, encouraging dog owners to prioritise their pets’…
 image: https://www.thenorthernecho.co.uk/resources/images/21373006.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Dog owners are being encouraged to slow down and let their pets lead the way as a new countryside attraction launches in the Durham Dales to celebrate the benefits of sniffing.

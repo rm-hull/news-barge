@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: Apple's first folding phone, the iPhone Duo, is already an unexpected
   delight.
 image: https://cdn.mos.cms.futurecdn.net/AFhxLLs8QJArr5s2N8Kur4-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![iPhone Duo Hands On](https://cdn.mos.cms.futurecdn.net/AFhxLLs8QJArr5s2N8Kur4.jpg) 

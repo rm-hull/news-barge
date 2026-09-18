@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A motorcyclist in his 30s has died following a collision with a car on
   the A171 near Fylingdales.
 image: https://www.gazetteherald.co.uk/resources/images/21326829.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Google Maps)*

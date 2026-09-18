@@ -9,6 +9,10 @@ description: Tickets for an 80,000-seater stadium event in France sold out in le
   than an hour, with young people among those hoping to catch a glimpse of a very
   modern pontiff
 image: https://static.independent.co.uk/2026/08/17/16/2287064316..?trim=0,392,803,813&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Vast crowds steamed through Rome last September, to witness the historic canonization of the Catholic Church’s first millennial saint, 15-year-old Carlo Acutis.

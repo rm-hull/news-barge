@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Joseph Gibson, 35, told his victims he had cancer and needed money to
   fund his treatment, as well as impressing them with his so-called wealth
 image: https://static.independent.co.uk/2026/08/20/9/37/Joseph-Gibson-in-Hospital.jpg?trim=70,0,71,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Joseph Gibson claimed he had cancer, said he had been blown up by a bomb and even claimed to be worth more than £440m – but his devious pack of lies were all part of a trap to swindle his victims out of almost £70,000 and uphold the illusion of a luxurious lifestyle.

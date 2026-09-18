@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:01:56Z'
 published: '2026-09-18T00:00:00Z'
 description: Ratepayer Protection Act gets 417-3 win
 image: https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Electrical pylons and high voltage power lines are behind a barbed wire fence. critical infrastructure](https://cdn.mos.cms.futurecdn.net/fvSuoQXyuYpY9Y7Tgk4e2a.png) 

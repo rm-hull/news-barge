@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: An advertising agency in North Yorkshire has voluntarily liquidated owing
   £3,600.
 image: https://www.yorkpress.co.uk/resources/images/21343456.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Street View)*

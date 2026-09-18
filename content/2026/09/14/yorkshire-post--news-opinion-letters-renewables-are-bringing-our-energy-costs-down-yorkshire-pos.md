@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T14:59:04Z'
 published: '2026-09-14T00:00:00Z'
 description: 'From: Nicholas Knox, Langley Park, Durham.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE1NGEzZGQ3LTNlNzMtNDZiNi04MmZkLTViMjE0MzdlYTFhYzo0ZmE0OTVkNS05M2NiLTRlNWYtODRmMS0yZjVmNTg2YmM1MGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Renewables are bringing our energy costs down - Yorkshire Post Letters

@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: Russia’s Tass news agency said Witkoff and Kushner were scheduled to
   visit Moscow and Kyiv on Saturday and Sunday
 image: https://static.independent.co.uk/2026/09/04/11/2283167703..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has claimed the US has “an idea for peace” as he sends his special envoy Steve Witkoff for talks with both Moscow and Kyiv.

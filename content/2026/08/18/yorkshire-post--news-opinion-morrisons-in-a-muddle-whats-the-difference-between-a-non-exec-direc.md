@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Upon his passing in 2017, The Yorkshire Post recorded the death of Sir
   Ken Morrison as the loss of ‘the gentleman grocer who broke the mould.’
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhlOGZiZDFkLWY3YjEtNGQ5Zi1iNDhhLTBlODI4ZjUyMzJjOTpiYmM3ZWFhNi1lOWYwLTQ1OTItOGVkZC1hMjg4ODIwY2RjZmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Morrisons in a muddle: what's the difference between a non-exec director and a shopping trolley?

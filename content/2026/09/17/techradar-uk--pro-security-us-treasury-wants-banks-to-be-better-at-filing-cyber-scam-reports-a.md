@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T04:45:30Z'
 published: '2026-09-17T00:00:00Z'
 description: The US Treasury says $12.7bn is tied to crypto scam centers since 2023
 image: https://cdn.mos.cms.futurecdn.net/VuBMgidwKAh2uEAV7UMikB-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Users display warnings about the use of artificial intelligence (AI), access to malicious software or threats to online hackers. computer cyber security Warning concept or tech scam.](https://cdn.mos.cms.futurecdn.net/VuBMgidwKAh2uEAV7UMikB.jpg) 

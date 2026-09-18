@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Portuguese Water Dog spent 13 years with the family, meeting many
   high-profile visitors in the White House, including Pope Francis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bb2/live/d2c7e010-b1d9-11f1-8c0b-c1113bf3b7c0.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Presidential dog Sunny walks outside the White House Press Room as she was brought out by her handler September 9, 2013 at the White House in Washington, DC](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0bb2/live/d2c7e010-b1d9-11f1-8c0b-c1113bf3b7c0.jpg)

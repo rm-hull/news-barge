@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: UK competition watchdog investigation is part of broader clampdown on
   illegal ‘drip pricing’
 image: https://i.guim.co.uk/img/media/d9980663e015e46291252fd247d56e1c31babcf9/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=116c49771f6246076e9a6cc080d11627
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The UK’s competition watchdog has launched investigations into Trainline, Virgin Atlantic and Red Driving School over concerns that all three companies displayed misleadingly low prices to their customers.

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Family-run bakery Lark has become the first business to open in the newly
   refurbished retail units at Redcar Central Station.
 image: https://www.thenorthernecho.co.uk/resources/images/21464873.jpg?type=og-image&xType=0&yType=208
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 An East Cleveland bakery is the first business to open in the refurbished retail units at a train station.

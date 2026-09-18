@@ -10,6 +10,12 @@ description: Overlooking the main A65 route from Leeds to Skipton, the core of t
   building served as the gatehouse to the 12th century Cistercian monastery of Kirkstall
   Abbey.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVmZWNjYjllLTkyYmMtNDgwNi1hMmI1LTM5NDIwYmYzZTE4NjpiMGExY2IzZC0zYjgzLTRhODMtODQ2OC05ZmVjNzMxNWQ4Mjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 # The Abbey House: Gatehouse to the 12th century Cistercian monastery of Kirkstall Abbey

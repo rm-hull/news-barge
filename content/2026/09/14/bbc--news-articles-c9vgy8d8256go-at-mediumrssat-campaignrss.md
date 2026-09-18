@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The film accuses the Israeli army of mass civilian killing in Gaza, and
   Israeli officials say it could be treasonous.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Directors Yuval Abraham and Rachel Szor hold the Special Jury Award for their documentary film, Naza, during the closing ceremony of the 83rd Venice International Film Festival, Italy (12 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg)

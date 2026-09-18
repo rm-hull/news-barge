@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Crocs is coming to Dalton Park this autumn, with shoppers offered 20
   per cent off during the opening weekend and free Jibbitz charms on qualifying…
 image: https://www.thenorthernecho.co.uk/resources/images/20457017.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A major shoe retailer will launch a new store at Dalton Park shopping centre very soon.

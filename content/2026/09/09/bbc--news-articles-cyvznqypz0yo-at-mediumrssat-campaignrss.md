@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat
   strikes between the US and Iran.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76ef/live/6d545a00-ac03-11f1-afbf-77fe6d25f635.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: Missile interceptions seen in Jordan's night sky

@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Police have released an image as they investigate an incident in which
   a man allegedly exposing himself to a woman and child in a car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406455.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

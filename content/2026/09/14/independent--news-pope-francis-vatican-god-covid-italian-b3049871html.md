@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Pope Leo XIV has celebrated his 71st birthday but it is Vatican employees
   who got the gift
 image: https://static.independent.co.uk/2026/09/14/14/Vatican_Pope_Exhibit_AQVA__6474.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Pope Leo XIV celebrated his 71st birthday on Monday but it was Vatican employees who got the gift.

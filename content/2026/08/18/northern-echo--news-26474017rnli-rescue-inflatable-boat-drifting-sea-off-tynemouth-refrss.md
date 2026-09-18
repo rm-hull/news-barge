@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Tynemouth RNLI crews were training on their new Tamar-class lifeboat
   when they spotted a lone RIB drifting out to sea off South Pier after its…
 image: https://www.thenorthernecho.co.uk/resources/images/21334938.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Tynemouth RNLI lifeboat)*

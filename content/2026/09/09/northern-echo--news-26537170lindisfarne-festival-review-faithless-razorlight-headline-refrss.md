@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T19:15:26Z'
 published: '2026-09-09T00:00:00Z'
 description: Review – Lindisfarne Festival, Beal Farm – Northumberland
 image: https://www.thenorthernecho.co.uk/resources/images/21432804.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Review – Lindisfarne Festival, Beal Farm – Northumberland

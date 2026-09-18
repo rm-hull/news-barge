@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The third and final ODI of the series between England and Ireland at
   New Road, Worcester.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p82cx2.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Women's ODI Cricket - 2026 Highlights : England v Ireland - 3rd ODI

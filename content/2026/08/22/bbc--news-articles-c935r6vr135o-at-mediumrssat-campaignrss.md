@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Financial concerns and the Duchess of Sussex's possible return to television
   acting lead Saturday's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/505b/live/51332850-9db3-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 !["Fiscal worries mount for Burnham" reads the headline on the front page of the Financial Times.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/a53f/live/28b807f0-9da5-11f1-a291-b542ee92de7c.jpg)

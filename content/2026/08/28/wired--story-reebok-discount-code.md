@@ -9,6 +9,10 @@ description: Score deep discounts on running shoes, athletic apparel, and classi
   with the latest verified Reebok promo codes, student discounts, and member-only
   savings.
 image: https://media.wired.com/photos/67b63b9c2c751893c256c1e8/191:100/w_1280,c_limit/WIRED-Coupons-R2_13.png
+categories:
+- Technology & Software
+- Science
+- Sports
 ---
 
 If you’ve been outside, to the gym, or on a basketball court, there’s a good chance you’ve seen someone wearing Reeboks. The brand has had its fair share of ups and downs, but is riding a wave of increased interest driven by smart business moves like a refocus on sports and lifestyle, alongside a number of high-profile collaborations like the Reebok G-Unit G6 50 Cent.

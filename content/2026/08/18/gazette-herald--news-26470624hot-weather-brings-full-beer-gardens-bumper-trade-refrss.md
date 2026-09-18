@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Hospitality businesses across York and North Yorkshire report a boost
   to trade thanks to our hot summer but also some challenges.
 image: https://www.gazetteherald.co.uk/resources/images/21329830.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Hospitality businesses across York and North Yorkshire are reporting a boost to trade thanks to our hot summer - but also some challenges.

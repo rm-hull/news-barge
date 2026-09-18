@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Asian shares are mostly lower and oil prices have declined at the start
   of a week capped by a meeting of top U.S. economic officials at Jackson Hole
 image: https://static.independent.co.uk/2026/08/24/06/Japan_Financial_Markets_28571.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Asian shares were mostly lower and oil prices slipped on Monday at the outset of a week capped by a meeting of top U.S. economic officials at Jackson Hole.

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: A year after giving birth, Alice Kinsella takes the latest step on her
   groundbreaking return to gymnastics at an international meeting for Great Britain.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b96e/live/78e30e90-ad19-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Alice Kinsella in a teal coloured leotard competing at the British Artistic Gymnastics Championship.](https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/0654/live/c00fdc70-ad06-11f1-beae-535b95a24b3e.jpg)

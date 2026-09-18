@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: If the carbon dioxide in the atmosphere declines, the Southern Ocean
   is likely to begin emitting more carbon than it absorbs, prolonging global warming
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A violent storm in the Southern Ocean](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311470659.jpg?w=840)

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: An Army veteran is calling for stronger support for those who have served
   their country.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21366044.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Si Brown)*

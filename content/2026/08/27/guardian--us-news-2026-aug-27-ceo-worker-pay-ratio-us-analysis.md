@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Analysis by Institute for Policy Studies found that between 2019 and
   2025, CEO compensation increased 41.4%
 image: https://i.guim.co.uk/img/media/82063c12448e028a39170760ff99039a92eae59b/243_0_2425_1941/master/2425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=266e7d4da47bf1657ac374a9268aee3c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average worker last year, according to an analysis by the Institute for Policy Studies (IPS).

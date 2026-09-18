@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The singer spoke candidly about her childhood in rural Tennessee, her
   family's poverty, and the determination that helped her rise to international stardom.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8a3/live/4041d880-a0c3-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # 'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview

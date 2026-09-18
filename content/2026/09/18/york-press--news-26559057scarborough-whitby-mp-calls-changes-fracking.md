@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:34:16Z'
 published: '2026-09-18T00:00:00Z'
 description: AN MP is pressing for changes to energy legislation.
 image: https://www.yorkpress.co.uk/resources/images/18536507.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Supplied)*

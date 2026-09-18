@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: NORTH Yorkshire Council has said current roadworks in a market town are
   not causing any 'issues'.
 image: https://www.yorkpress.co.uk/resources/images/21377843.jpg?type=og-image&xType=0&yType=916
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Cllr Keane Duncan)*

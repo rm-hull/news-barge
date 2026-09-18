@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: The disciplinary action comes two months after the Commodity Futures
   Trading Commission settled charges against Santos.
 image: https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1824575665.jpg?resize=1200,800
+categories:
+- Sports
 ---
 
 Kalshi has banned former Republican Rep. George Santos from its platform for life, the first time the prediction market company has taken such an action.

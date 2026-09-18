@@ -9,6 +9,11 @@ description: After a five-storey building collapsed in Delhi, focus is on how ur
   areas can adapt to growing populations. Plus, Ahmedabad’s ace newspaper delivery
   driver goes viral
 image: https://i.guim.co.uk/img/media/639e0ccb03edd39ef8f15bf7c7505316df5caf8e/195_0_2803_2243/master/2803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d613a2511706eb19d60a9f19adbeb060
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Recently, I may have saved a woman’s life on the road. Somehow, this was something I had expected to happen.

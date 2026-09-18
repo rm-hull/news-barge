@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The trial will give the drug Trontinemab to those at high risk of Alzheimer’s
   to see if the disease can be delayed or prevented
 image: https://static.independent.co.uk/2026/06/10/16/28/iStock-1089332974.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An Alzheimer’s drug will be offered to people without symptoms who are at high risk of the disease in an NHS trial that is unique in Europe.

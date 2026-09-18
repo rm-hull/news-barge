@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Eight critically ill kittens who were "on the brink of death" have made
   an incredible transformation in just two weeks at the RSPCA.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21423854.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 EIGHT critically ill kittens who were "on the brink of death" have made an incredible transformation in just two weeks.

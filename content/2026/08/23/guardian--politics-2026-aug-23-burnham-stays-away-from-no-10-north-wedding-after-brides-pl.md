@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: PM sends video message to newlyweds instead after bride Sarah Burwin
   asked him not to ‘ruin’ vibe at Heron House
 image: https://i.guim.co.uk/img/media/28ce282dad72f048044a593d5d1cc06c6a2da37f/1077_1269_1948_1559/master/1948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c3b30293fa463d608bb1e72dde0651d
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Andy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she asked him not to spoil her big day as she got married at the building housing No 10 North.

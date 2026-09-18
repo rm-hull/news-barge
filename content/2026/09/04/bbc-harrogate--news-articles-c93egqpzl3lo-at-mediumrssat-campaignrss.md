@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire prepares to welcome the Tour of Britain Men on the race's
   most difficult stage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff2/live/a54acb50-a7a9-11f1-a7ad-37a1f7dc081c.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- History
 ---
 
 ![A man looks at the camera with a slight smile. There are bicycles behind him and he is standing outside.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/4ff2/live/a54acb50-a7a9-11f1-a7ad-37a1f7dc081c.jpg)

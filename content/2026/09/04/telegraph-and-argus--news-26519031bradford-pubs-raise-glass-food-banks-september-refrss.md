@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T04:22:45Z'
 published: '2026-09-04T00:00:00Z'
 description: PUBS in Bradford are raising a glass for a good cause this September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20702528.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google Street View)*

@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: Nvidia has its finger in every pie, and sees another year of plenty in
   its future, Jensen Huang says. But, he insists, its deals are not circular.
 image: https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781
+categories:
+- Business & Entrepreneurship
 ---
 
 Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of next year.

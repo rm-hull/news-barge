@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Senior Associate has been welcomed to the team at a leading Harrogate
   law firm.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdhZDM3YTJiLTJlMmQtNDE3ZS1hZDE2LTdjNTVhMWY2MzI0NDo1ZGRhNTY1Ny1mZWFmLTQzOTgtODk3ZC1jMDg3NjBhOGIwM2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # New member of Harrogate company's team 'will bring in-depth experience'

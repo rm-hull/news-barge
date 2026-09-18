@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A family have paid tribute to a man who died in a Bradford collision
   - saying he " made the world brighter".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424187.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: West Yorkshire Police)*

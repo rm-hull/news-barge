@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T12:10:01Z'
 published: '2026-09-12T00:00:00Z'
 description: Oyo was crowned in 1995, at the age of 3, after his father’s death
 image: https://static.independent.co.uk/2026/09/12/10/2026-09-12T092739Z_1102870080_RC2KHNAM45LM_RTRMADP_3_UGANDA-KING.JPG?trim=0,211,0,211&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The funeral has been held in western Uganda for a traditional monarch who ascended the throne of the Tooro Kingdom as an infant in 1995 and died last month at 34, triggering a succession dispute that has rocked the royal family and gripped the nation.

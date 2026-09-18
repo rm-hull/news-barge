@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: A group of migrants is accused of throwing stones at a military vehicle,
   while some locals set fire to their camps on the beach.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Spanish armed police with riot shields on Trampolin beach, Ceuta, as anti-migrant protesters set fire to a migrant camp there. Their faces are blurred. Smoke can be seen rising in the air.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0b39/live/e5d60180-a2f9-11f1-8d5b-155abe464768.jpg)

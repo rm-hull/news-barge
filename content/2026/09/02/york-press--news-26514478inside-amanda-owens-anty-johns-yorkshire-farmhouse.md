@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Amanda Owen and her family are transforming derelict Anty John's farmhouse
   near Ravenseat into a four-bedroom home in the Yorkshire Dales.
 image: https://www.yorkpress.co.uk/resources/images/21384179.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Arts & Culture
+- Home, Garden & DIY
 ---
 
 *(Image: CHANNEL 4)*

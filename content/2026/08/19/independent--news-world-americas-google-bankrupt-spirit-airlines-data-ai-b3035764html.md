@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Tech giant has assured former airline employees and customers that the
   data will be scrubbed of identifying information
 image: https://static.independent.co.uk/2026/05/18/13/17/GettyImages-2274586037.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Google has reportedly bought the data from the now-defunct Spirit Airlines to use in its AI model training.

@@ -10,6 +10,9 @@ description: Pc Idominik Efeotor, who worked in the Parliamentary and Diplomatic
   Command, was dismissed without notice after an accelerated misconduct hearing on
   Monday
 image: https://static.independent.co.uk/2026/08/11/18/xf7z5DQHJ1fUhAJ9rJhmhvS-YvJAQJXmf3Xxr4KHa1K4uFNBwRZGTnoDkF3bIN9ibY_VEENJI5KOm2OKCdZGnmKouk7OCkhcGhuL..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Metropolitan Police officer has been sacked following persistent breaches of social media regulations, according to an official statement from the force.

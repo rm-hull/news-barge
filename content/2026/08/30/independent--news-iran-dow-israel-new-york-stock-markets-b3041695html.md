@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Six months after the U.S. and Israel launched their war against Iran,
   the direst economic predictions haven't come true
 image: https://static.independent.co.uk/2026/08/30/08/Financial_Markets_Wall_Street_24_78.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 As the U.S. and Israel relentlessly bombed Iran in the opening days of war, the most dramatic predictions of the conflict’s toll were unsparing: surging oil prices, worldwide recession and economic catastrophe.

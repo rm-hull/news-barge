@@ -9,6 +9,13 @@ published: '2026-09-18T00:00:00Z'
 description: More than 100 people visited the Brontë Birthplace in Thornton to explore
   a new exhibition on the building's history after the Brontë family…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21468020.jpg?type=og-image&xType=0&yType=643
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Travel
+- Arts & Culture
 ---
 
 The Brontë Birthplace has attracted fresh interest thanks to a new exhibition exploring its lesser-known history.

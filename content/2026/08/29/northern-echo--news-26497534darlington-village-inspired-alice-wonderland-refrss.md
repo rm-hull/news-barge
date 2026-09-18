@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Croft-on-Tees is a quiet village on the southern edge of Darlington —
   but it has an extraordinary place in history as the childhood home of Lewis…
 image: https://www.thenorthernecho.co.uk/resources/images/20221945.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Croft-on-Tees is a quiet village on the southern edge of Darlington — but it has an extraordinary claim to literary history as the childhood home of Lewis Carroll, creator of Alice’s Adventures in Wonderland.

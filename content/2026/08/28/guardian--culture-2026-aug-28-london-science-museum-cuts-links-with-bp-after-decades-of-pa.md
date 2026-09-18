@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Campaigners say ‘seismic shift’ follows years of pressure to sever ties
   with oil and gas firm
 image: https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c09aa9c1dcbcfb42ffaadcf0f272832e
+categories:
+- UK
+- News & Politics
+- Science
+- History
 ---
 
 The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum.

@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: A database of trusted tradespeople and a system to protect customers'
   money is being launched by the government next month.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ![A couple looks at plans with a builder in their home, which is under renovation](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg)

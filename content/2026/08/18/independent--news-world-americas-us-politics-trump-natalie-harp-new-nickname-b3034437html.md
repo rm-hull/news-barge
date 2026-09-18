@@ -9,6 +9,9 @@ description: The longtime presidential aide was one of three staffers who flew a
   a separate flight with the president to evade a possible Iranian missile attack
   in July
 image: https://static.independent.co.uk/2026/08/17/17/2290770417..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump White House staffer once labeled as the president’s “human printer” now has a new nickname after she was revealed to be one of the few aides chosen to accompany him during his clandestine escape from Air Force One in Turkey after this year’s NATO summit last month.

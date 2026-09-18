@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Holby City and Coronation Street star Claire Sweeney is set to star in
   the musical Annie at the Grand Opera House in York.
 image: https://www.yorkpress.co.uk/resources/images/21343780.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Grand Opera House York)*

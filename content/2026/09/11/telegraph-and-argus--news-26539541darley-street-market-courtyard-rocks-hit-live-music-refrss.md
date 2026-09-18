@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: ONE year on from opening, Darley Street Market’s outdoor space was transformed
   into a live music venue for the inaugural Live at the Courtyard…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435885.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 ONE year on from opening, Darley Street Market’s outdoor space was transformed into a live music venue for the inaugural Live at the Courtyard line-up of concerts.

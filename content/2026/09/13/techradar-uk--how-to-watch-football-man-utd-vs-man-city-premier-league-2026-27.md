@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: An early-season Manchester derby as Enzo Maresca's side defend their
   100 percent start
 image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

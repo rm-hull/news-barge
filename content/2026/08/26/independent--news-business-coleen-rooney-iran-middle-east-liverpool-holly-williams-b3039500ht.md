@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The health and wellness brand now expects annual underlying earnings
   to jump by 40% to around £43.3 million after sales soared to £160 million.
 image: https://static.independent.co.uk/2024/10/24/09/24090606-8032480d-38cb-4311-8d78-cfeef2946fe3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Health & Fitness
+- Personal Finance & Investing
 ---
 
 Applied Nutrition has hiked its earnings outlook thanks to a 50% surge in sales and forecast more growth over the year ahead despite pressure from rising whey prices.

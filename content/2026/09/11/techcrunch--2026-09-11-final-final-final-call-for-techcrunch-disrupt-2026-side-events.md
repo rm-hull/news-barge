@@ -8,6 +8,8 @@ published: '2026-09-11T00:00:00Z'
 description: Final chance to host a Side Event at TechCrunch Disrupt 2026. Apply by
   midnight tonight to create connections, opportunities, and visibility. No more extensions.
 image: https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 The **absolute last chance** to apply to host an official Side Event during**TechCrunch Disrupt 2026** is**tonight, September 11, at 11:59 p.m. PT.**

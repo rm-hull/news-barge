@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Experts say fires caused by wrongly discarded lithium batteries, such
   as those in vapes, are putting lives at risk
 image: https://i.guim.co.uk/img/media/2058df30df69be6092ae9b64b2aa939286c42c4d/604_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0eb64f1d34cf750c1c1a5a4a091b4dff
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Fires at recycling centres caused by wrongly discarded lithium batteries such as those found in vapes are occurring at the rate of more than 10 a week, according to new figures.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The introduction of a tourism levy in North Yorkshire is currently under
   consideration.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![This picture shows James and Angela Rusden - who run a B&B once voted the world's best - preparing one of the rooms. James, on the left of the image, has short brown hair, is wearing a white polo-neck T-shirt and a gold bracelet. Angela, on the right, has shoulder-length blonde hair and is wearing a gold necklace and a white polo-neck T-shirt. A huge photo of Scarborough Castle and the town's North Bay is hanging on the wall.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A well-known bakery that has recently undergone a refurbishment could
   be named the best bakery in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385915.jpg?type=og-image&xType=0&yType=148
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Holly Marshall)*

@@ -10,6 +10,11 @@ description: A woman who started a group that advocates for the mental health of
   officers is being sought by authorities after a Massachusetts cop was found dead
   at the home they owned together
 image: https://static.independent.co.uk/2026/08/19/22/Charity_Founder_Officer_Killed_49272.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Health & Fitness
 ---
 
 A woman who started a group that advocates for the mental health of police officers was being sought by authorities Wednesday after a Massachusetts cop was found dead at the home they owned together.

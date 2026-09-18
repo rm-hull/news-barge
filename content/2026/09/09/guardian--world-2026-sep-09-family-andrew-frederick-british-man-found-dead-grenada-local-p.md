@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Andrew Frederick’s body was found in property he was staying at in Grenada
   in January
 image: https://i.guim.co.uk/img/media/c601f3cefd8c2ed9566d6f0f45ec20f5e9f80c3e/593_0_6014_4810/master/6014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09674e5e88864e2182347c74ca1f412a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the truth about his death.

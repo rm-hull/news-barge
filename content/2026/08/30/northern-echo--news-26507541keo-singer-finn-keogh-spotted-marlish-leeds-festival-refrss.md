@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: There was a little bit of the North East on the Leeds Festival main stage
   on Saturday - thanks to KEO band frontman Finn Keogh.
 image: https://www.thenorthernecho.co.uk/resources/images/21389531.jpg?type=og-image&xType=0&yType=525
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: LIAM RUSSELL)*

@@ -10,6 +10,12 @@ description: The villagers of Linton-on-Ouse have repeatedly made clear why they
   It is a small village that does not have the infrastructure to cope with a huge
   influx of migrants.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1NjU0YmRmLTM2M2YtNDE4NS1iNGRmLWYyMTc2OGRlMTMwNTpmOGQ2ZDBmYi03MWM1LTRiOWYtODc5MC1kYTVjNWVlMWZjY2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Minister should accept invitation and engage with Linton-on-Ouse villagers

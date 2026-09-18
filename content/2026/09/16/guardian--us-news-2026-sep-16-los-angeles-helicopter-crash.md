@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Accident occurred as news crews in Los Angeles were covering a bus crash
   that had killed at least two people hours earlier
 image: https://i.guim.co.uk/img/media/c7cf9c1086b42c27fd309ae974845d44bbb33dfb/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25ad16ead1b8f298a9eac048ac9180fb
+categories:
+- UK
+- News & Politics
 ---
 
 A news helicopter crash in a Los Angeles neighborhood has killed at least three people, after it came to the ground and burst into flames near the site of a bus crash that occurred hours earlier.

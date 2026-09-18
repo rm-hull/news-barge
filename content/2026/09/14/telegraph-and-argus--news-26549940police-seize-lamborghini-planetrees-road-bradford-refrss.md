@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A Lamborghini hire ended abruptly after police seized the supercar on
   a Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454904.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 A Lamborghini hire ended abruptly after police seized the supercar on a Bradford road.

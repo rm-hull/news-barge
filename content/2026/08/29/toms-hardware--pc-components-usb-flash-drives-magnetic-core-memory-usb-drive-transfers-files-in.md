@@ -8,6 +8,9 @@ scraped_at: '2026-08-29T19:24:12Z'
 published: '2026-08-29T00:00:00Z'
 description: An attached LED array shows the live status of each magnetic core.
 image: https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![PC-to-PC USB magnetic core memory tests.](https://cdn.mos.cms.futurecdn.net/HNpDmLCjrkFoXeseCfpDVn.jpg) 

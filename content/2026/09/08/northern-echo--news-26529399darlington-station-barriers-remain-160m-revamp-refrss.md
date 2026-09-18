@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Red barriers still block pavements, weeds and rubbish continue to gather,
   and temporary traffic lights are causing daily queues outside Darlington…
 image: https://www.thenorthernecho.co.uk/resources/images/21421897.jpg?type=og-image&xType=0&yType=222
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Peter Reimann)*

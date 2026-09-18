@@ -10,6 +10,10 @@ description: 'Exclusive: US-controlled weapons corporations and forces have cont
   or access to more than 100 facilities across the continent, which some analysts
   describe as a ‘colonisation’ of Australia’s military. Find a map of them here'
 image: https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8f99917fec51d5440c1b0a69bd50b89
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 US military interests control or have access to more than 100 defence facilities on Australian soil, in what some analysts describe as a “saturation” – even a “colonisation” – of the Australian continent.

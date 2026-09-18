@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: A motoring expert has revealed common mistakes people make when washing
   their car and it can cost you over £3000 in repairs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437296.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Automotive
+- Technology & Software
 ---
 
 If you are cleaning your car at home, it is most likely to save an extra bit of money.

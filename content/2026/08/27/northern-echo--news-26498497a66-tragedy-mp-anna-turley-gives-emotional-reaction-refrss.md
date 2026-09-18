@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: In the aftermath of tragedy, Redcar MP Anna Turley pays tribute to the
   emergency workers, volunteers and community champions whose courage,…
 image: https://www.thenorthernecho.co.uk/resources/images/21302888.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NEWSQUEST)*

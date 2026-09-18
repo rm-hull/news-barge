@@ -10,6 +10,9 @@ description: 'This week on The Ring, EU lawmakers clash over the Ceuta migration
   to help out when one member state comes under pressure, the debate raises more questions
   than answers. #TheRing'
 image: https://images.euronews.com/articles/stories/09/90/73/21/1200x675_cmsv2_7b7173a4-67d2-5956-81b9-30df0974a271-9907321.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## This week on The Ring, EU lawmakers clash over the Ceuta migration crisis. From Morocco’s role and Spain’s response to whether EU member states are doing enough to help out when one member state comes under pressure, the debate raises more questions than answers.

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Here are a list of the top 10 hardest and easiest primary schools to
   get into around County Durham - do any of them surprise you?
 image: https://www.thenorthernecho.co.uk/resources/images/21401604.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 When moving to a new area with your family, one of the most important things to look at is how good the schools are for your children and whether they are easy to enrol in.

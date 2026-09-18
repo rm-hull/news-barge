@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:11Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/strangers-on-a-train-hitchcock.png
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 A major national tour of Craig Warner’s stage adaptation of *Strangers on a Train* is coming to York next year.

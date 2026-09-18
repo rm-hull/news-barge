@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Plans for a 700-body mortuary in York have sparked concerns from a local
   funeral director and councillor.
 image: https://www.gazetteherald.co.uk/resources/images/21356002.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

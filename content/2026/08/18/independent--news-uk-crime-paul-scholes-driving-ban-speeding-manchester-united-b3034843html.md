@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The former Manchester United midfielder was caught exceeding the speed
   limit on two occasions over the past year
 image: https://static.independent.co.uk/2026/08/18/11/697fb05d99ff86d5514b5f336e0f3095Y29udGVudHNlYXJjaGFwaSwxNzg3MTM1MTg2-2.74560334.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Manchester United player Paul Scholes has received a six-month driving ban after receiving two motoring convictions within the space of just two days.

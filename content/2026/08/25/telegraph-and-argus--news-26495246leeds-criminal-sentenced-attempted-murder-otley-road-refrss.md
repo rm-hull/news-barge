@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T20:39:50Z'
 published: '2026-08-25T00:00:00Z'
 description: A man has been sentenced for attempting to murder a woman in Leeds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371291.jpg?type=og-image&xType=0&yType=119
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Social media footage shows vehicles on fire at a gathering for Michael
   Cahill
 image: https://static.independent.co.uk/2026/08/28/7/49/Screenshot-2026-08-28-at-07-54-58.png?trim=159,0,169,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Cars appear to have been torched and flares set off at a gathering for one of the men killed in a head-on collision with police on the A66.

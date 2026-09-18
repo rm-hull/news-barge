@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A woman who has spent the past 16 weeks protesting outside a TUI store
   over a holiday she describes as the "worst holiday" of her life…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429339.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A woman who has spent the past 16 weeks protesting outside a TUI store over a holiday she describes as the "worst holiday" of her life says she will continue her campaign despite the travel firm investigating her complaint, offering compensation and having its decision upheld by ABTA.

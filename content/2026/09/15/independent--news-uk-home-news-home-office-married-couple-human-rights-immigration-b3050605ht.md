@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: A Muslim man and his Hindu wife were kept apart as they awaited removal
   to India
 image: https://static.independent.co.uk/2026/09/15/15/01M2J70ZN8QQSQ33DQ2NXM0CYX.jpg?trim=155,0,155,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Home Office could be forced to pay damages after breaching the human rights of a married couple held in separate accommodation prior to their planned deportation to India, the High Court has ruled.

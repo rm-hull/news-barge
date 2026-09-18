@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Talks remain ongoing with “several interested parties” over the future
   of the historic Darlington Binns building six months after it shut.
 image: https://www.thenorthernecho.co.uk/resources/images/20532515.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

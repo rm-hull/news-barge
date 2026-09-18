@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Bradford Live welcomed thousands of visitors in its first year as a city
   entertainment venue.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385856.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

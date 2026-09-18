@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Great North Run runners look set for favourable conditions as the latest
   weather forecast points to mild temperatures, dry spells and coastal…
 image: https://www.thenorthernecho.co.uk/resources/images/19929500.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SARAH CALDECOTT)*

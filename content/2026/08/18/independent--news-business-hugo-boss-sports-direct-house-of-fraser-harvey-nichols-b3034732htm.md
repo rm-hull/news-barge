@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The retail giant behind Sports Direct and House of Fraser said it had
   increased its shareholding of the German fashion brand to nearly 48%.
 image: https://static.independent.co.uk/2026/08/18/09/a054f18d851c9dc90c203c2dee3ce458Y29udGVudHNlYXJjaGFwaSwxNzg3MTI3MzIx-2.15687836.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mike Ashley’s Frasers Group has increased its stake in Hugo Boss a month after a takeover approach was rebuffed by bosses of the German fashion brand.

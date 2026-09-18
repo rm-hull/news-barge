@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Emergency services were called to a Darlington street after reports of
   a person injured on Tuesday afternoon.
 image: https://www.thenorthernecho.co.uk/resources/images/21425908.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: THE NORTHERN ECHO)*

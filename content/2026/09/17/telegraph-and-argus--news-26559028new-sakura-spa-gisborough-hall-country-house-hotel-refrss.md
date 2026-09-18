@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Gisborough Hall unveils Sakura Spa, a luxury North Yorkshire wellness
   retreat with thermal facilities, treatments, Welnamis therapy and Koyo dining…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386238.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Michael Lazenby)*

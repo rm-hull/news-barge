@@ -10,6 +10,10 @@ description: 'In today’s newsletter: The Houthi advance along the Red Sea coas
   fears for global trade and energy supplies, while more than 100,000 Yemenis have
   been displaced by the fighting'
 image: https://i.guim.co.uk/img/media/b35015985c8d9594e95275f872b322ee2b4806fe/138_0_980_784/master/980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff8987b30a84ce41d27a6c3e0a0c7a2a
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Good morning. The lightning advance of Houthi militants along the west coast of Yemen over the past week has prompted fears of a spiralling conflict in the region and a new oil supply crisis.

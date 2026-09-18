@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Bill Lee says he favors proposal to rename Nashville’s international
   airport after legendary country singer
 image: https://i.guim.co.uk/img/media/8500502483ee733addf800774c3d71e830ec78a6/219_0_2041_1633/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76a91ccde626db1ddbe3dbedca48cad3
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Bill Lee, the Tennessee governor, on Friday said he favored a proposal to rename Nashville’s international airport after legendary country singer Dolly Parton, who died three days earlier at age 80.

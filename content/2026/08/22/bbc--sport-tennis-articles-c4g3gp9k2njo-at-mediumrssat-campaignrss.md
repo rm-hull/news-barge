@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Serena Williams will pair up with Carlos Alcaraz for the mixed doubles
   at the US Open at Flushing Meadows.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/234d/live/2510b660-9d9b-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Serena Williams and Carlos Alcaraz smile on the court](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/234d/live/2510b660-9d9b-11f1-a291-b542ee92de7c.png)

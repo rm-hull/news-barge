@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The airline added that it had contingency plans to minimise any impact
   on operations in the event of a strike
 image: https://static.independent.co.uk/2026/08/31/11/2255600493..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ground crew at Qantas Airways, Australia's largest airline, voted overwhelmingly on Monday in favour of strike action over pay and job conditions.

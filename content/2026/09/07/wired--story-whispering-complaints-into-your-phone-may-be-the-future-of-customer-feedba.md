@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Forget email surveys or long calls spent on hold. Voicebox lets people
   send customer feedback by recording a voice note on their phone.
 image: https://media.wired.com/photos/6a994fa2bf4e66136bddb432/191:100/w_1280,c_limit/HowYouReallyFeel.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Some of the hottest software this year revolves around capturing voices. Whether it’s the sharp dictations of Wispr or the always-listening ears of Granola, voice-centered software currently feels inescapable. Voice dictation is getting so sharp, in fact, that I often write drafts in my notepad and then dictate aloud to my laptop.

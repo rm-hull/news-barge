@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Minnesota Governor Tim Walz has suspended state work on proposed mining
   projects in the Boundary Waters Canoe Area Wilderness
 image: https://static.independent.co.uk/2026/08/18/17/Mining_Boundary_Waters_21746.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Minnesota Gov. Tim Walz on Tuesday suspended state work on proposed mining projects in the Boundary Waters Canoe Area Wilderness, four months after Congress and President Donald Trump's administration lifted a federal ban.

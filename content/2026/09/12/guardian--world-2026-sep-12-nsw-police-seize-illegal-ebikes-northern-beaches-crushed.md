@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Officers found one 14-year-old’s ebike was capable of hitting 90km/h.
   Owners have two weeks to appeal the seizure before the bikes will be crushed
 image: https://i.guim.co.uk/img/media/44fdbcef82225b9534c275ebaf0a0ef8dbc3ab90/995_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd508c6c64d9ec5bd49867caeeebb55d
+categories:
+- UK
+- News & Politics
+- Travel
+- Sports
 ---
 
 Dozens of high-powered and illegal ebikes have been seized by police on Sydney’s northern beaches just weeks after the force was granted new powers to destroy dangerous bikes.

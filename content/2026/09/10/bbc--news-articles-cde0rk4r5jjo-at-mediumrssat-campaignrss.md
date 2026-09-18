@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Anthony Lee passed confidential information to his wife Laura Lee about
   when the 2024 election would be held.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b35/live/2d096810-2f13-11ef-90be-b75b34b0bbb2.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Anthony Lee and Laura Lee.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1b35/live/2d096810-2f13-11ef-90be-b75b34b0bbb2.jpg)

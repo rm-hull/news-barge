@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Clips appearing to show the highly anticipated game have appeared online,
   but will they really hurt it?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Video Gaming
 ---
 
 ![A screenshot from GTA 6 shows main characters Lucia and Jason standing back-to-back against a palm tree-lined sunset. She wears tinted glasses, her long dark hair styled in side-parted cornrows. She wears a tan suede jacket over a string bikini top. He also wears tinted shades and a white shirt with an oversized collar and floral pattern.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/bc9d/live/861576b0-9d89-11f1-b109-879e35c24276.jpg)

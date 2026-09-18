@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta
   fumed about the penalty that could have cost his side a result.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc2b/live/ec65d630-aefa-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Arsenal hold off energetic Sunderland to continue perfect title defence

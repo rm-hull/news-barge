@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Three more people have been arrested as police continue investigating
   violence at a major Newcastle boxing event over the weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/18398193.jpg?type=og-image&xType=0&yType=6
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Three more people have been arrested after violence broke out at a packed Newcastle boxing event last weekend.

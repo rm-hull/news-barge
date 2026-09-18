@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Comté, beaufort and abondance makers can temporarily supplement cows’
   diets as there is ‘no grass left to eat’
 image: https://i.guim.co.uk/img/media/eb043f7fa4269379e1fb69964342a3bf2ee78777/189_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ad2276073bba39277f4c28e06e91e8a
+categories:
+- UK
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 Strict production rules will be loosened for some of France’s most famous cheeses after drought and repeated heatwaves dried out grazing pastures, threatening the livelihoods of traditional dairy workers.

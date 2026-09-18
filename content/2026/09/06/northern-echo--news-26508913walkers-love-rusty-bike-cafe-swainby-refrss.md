@@ -8,6 +8,13 @@ published: '2026-09-06T00:00:00Z'
 description: The Rusty Bike Cafe in Swainby is winning praise from Coast to Coast
   walkers for its cakes, friendly welcome, dog-friendly atmosphere and village…
 image: https://www.thenorthernecho.co.uk/resources/images/21392086.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Dr Julian Morris Morris said he had "reason to suspect that Professor
   Arday died an unnatural death".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ba/live/bb9c5310-a13c-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Jason Arday appearing on BBC show Sunday with Laura Kuenssberg. He is pictured smiling at the camera and wearing a dark shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/27ba/live/bb9c5310-a13c-11f1-b109-879e35c24276.jpg)

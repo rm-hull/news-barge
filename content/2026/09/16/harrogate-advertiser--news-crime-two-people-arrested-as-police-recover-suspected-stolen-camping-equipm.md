@@ -10,6 +10,10 @@ description: North Yorkshire Police is appealing for the public's help after rec
   a trolley and a quantity of camping equipment believed to have been stolen from
   a vehicle in the Harrogate area.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFkNjNjNmVjLTZkNGUtNDMzZS1iMmQ1LTgzYTg0NTlmZThiZDpmNzQyODZiNC0yZWNkLTQ2NjYtODAzYy0wMTYzY2NlN2M4ZWU=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Two people arrested as police recover suspected stolen camping equipment in Harrogate

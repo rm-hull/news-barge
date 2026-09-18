@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:51:30Z'
 published: '2026-08-25T00:00:00Z'
 description: A $350 (£202) denim jacket went missing from a mannequin at Jewel Changi
 image: https://static.independent.co.uk/2026/08/25/10/29/iStock-2239080344.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A 26-year-old British man has been arrested more than two years after allegedly stealing a denim jacket from a Singapore airport terminal.

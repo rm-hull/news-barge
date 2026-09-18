@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Real Madrid forward Kylian Mbappe says this could be a good year for
   him to win the Ballon d'Or for the first time.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b5ea/live/f9220eb0-aab4-11f1-bdcc-b5edf6495ed5.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Kylian Mbappe](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b5ea/live/f9220eb0-aab4-11f1-bdcc-b5edf6495ed5.jpg)

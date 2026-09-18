@@ -9,6 +9,11 @@ description: More than 2,000 humanoid robots run, play table tennis and soccer, 
   are setting records at the ongoing World Humanoid Robot Games in Beijing, highlighting
   China’s rapid advances in robotics amid a tech race with the United States.
 image: https://static.independent.co.uk/2026/08/23/20/China_Humanoid_Robot_Games_98213.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Sports
 ---
 
 Humanoid robots sprint, play soccer and set records at Beijing games, in photos

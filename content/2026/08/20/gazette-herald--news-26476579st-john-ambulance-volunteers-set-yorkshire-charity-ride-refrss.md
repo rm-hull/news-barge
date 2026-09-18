@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A group of St John Ambulance volunteers will be taking on the Great Yorkshire
   Pump and Pedal 2026 to raise funds for their lifesaving work.
 image: https://www.gazetteherald.co.uk/resources/images/21339298.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: St John Ambulance)*

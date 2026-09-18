@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Hoomanely has developed a smart bowl to measure and record dogs' feeding
   data, then tells owners if behaviors change.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Hoomanely-Executives_Harshal-Hinger-COO_Sai-Supriya-Sharath-CEO_Vipin-Ravindran-CTO.jpeg?resize=1200,800
+categories:
+- Technology & Software
+- Pets & Animals
 ---
 
 Dogs are amazing. But as many pet parents will tell you, they can be remarkably good at hiding when something is wrong. My Labrador-Great Dane mix, for example, contracted tick fever several times over his 14 long years, and it was always at least a couple of weeks before I suspected something was off. It nearly gave me anxiety ulcers a few times.

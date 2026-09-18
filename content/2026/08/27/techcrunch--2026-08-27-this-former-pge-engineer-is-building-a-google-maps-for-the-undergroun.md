@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: The startup just raised a $26 million Series A to grow its customer base
   and help reduce red tape for utility and construction work.
 image: https://techcrunch.com/wp-content/uploads/2026/08/civilgrid-platform-project-frames.jpg?resize=1200,953
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Josh Mackanic left a 10-year engineering career at Pacific Gas and Electric because he kept thinking about what the utility company doesn’t know about what’s buried underground.

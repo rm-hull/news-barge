@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Google is expanding its AI-driven contrail reduction project to a new
   part of the world.
 image: https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN-2000-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A Cathay Pacific plane and contrails](https://cdn.mos.cms.futurecdn.net/uVTCmyofGQbaQupjQWUttN.jpg) 

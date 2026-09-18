@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A mile-long trail of light installations is set to illuminate the grounds
   of a historic estate.
 image: https://www.yorkpress.co.uk/resources/images/21413524.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- History
 ---
 
 ## IN PICTURES: Amazing light show to return to North Yorkshire country estate

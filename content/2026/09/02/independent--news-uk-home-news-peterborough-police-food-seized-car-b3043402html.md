@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Cambridgeshire Police revealed piles of packaged chorizo, parmesan, Lurpak
   butter, Babybel nets, and cheddar stacked four-deep on the floor
 image: https://static.independent.co.uk/2026/09/02/11/58/793159081_3046264039038571_5107778294162874265_n.jpeg?trim=74,0,74,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Police officers discovered more than £5,000 worth of suspected stolen food, including olive oil, chocolate, cheese and chorizo, after pulling over a car that appeared unusually low to the ground.

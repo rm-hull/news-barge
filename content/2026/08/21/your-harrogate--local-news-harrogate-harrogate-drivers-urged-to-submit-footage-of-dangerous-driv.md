@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Motorists in Harrogate are being urged to submit dashcam footage of dangerous
   or careless driving to police.
 image: https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg) 

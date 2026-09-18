@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The United Arab Emirates’ air force has intercepted an Iranian drone
   over its territorial waters
 image: https://static.independent.co.uk/2026/08/31/08/Iran_US_131_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The United Arab Emirates’ air force intercepted an Iranian drone over its territorial waters Monday, the Defense Ministry said, an attack that comes after the U.S. and Iran exchanged fire on the weekend, the first significant military action in a month.

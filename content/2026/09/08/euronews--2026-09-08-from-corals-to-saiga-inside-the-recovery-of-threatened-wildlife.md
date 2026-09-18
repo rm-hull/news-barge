@@ -9,6 +9,10 @@ description: From heat-resilient corals in the Gulf of Oman to saiga antelopes o
   the Ustyurt Plateau, scientists and conservationists are using research, technology
   and hands-on protection to safeguard threatened wildlife.
 image: https://images.euronews.com/articles/stories/09/87/75/09/1200x675_cmsv2_03aabbc1-efb6-5ce7-aa64-dbf17e295c6c-9877509.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## From heat-resilient corals in the Gulf of Oman to saiga antelopes on the Ustyurt Plateau, scientists and conservationists are using research, technology and hands-on protection to safeguard threatened wildlife.

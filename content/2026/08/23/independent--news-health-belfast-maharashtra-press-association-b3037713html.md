@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: The tiny patch has been developed by researchers from Queen’s University,
   Belfast
 image: https://static.independent.co.uk/2026/08/23/11/23082139-6f24e991-05bc-481a-8761-b18f307274ca.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A new dissolvable 3D-printed patch has been developed by researchers in Belfast with the aim of improving treatment for localised skin cancer.

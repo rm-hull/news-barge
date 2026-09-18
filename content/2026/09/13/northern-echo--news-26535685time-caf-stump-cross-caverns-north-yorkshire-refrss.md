@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Time Café at Stump Cross Caverns offers Yorkshire Dales views and homemade
   food above one of North Yorkshire's best-known underground…
 image: https://www.thenorthernecho.co.uk/resources/images/21430780.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

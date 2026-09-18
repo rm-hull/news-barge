@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Road users report standing traffic on the A64 both ways due to roadworks
   at Flaxton Moor
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/traffic-jam-congestion-dreamstime.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 There’s standstill traffic on the A64 north of York this morning (Tuesday).

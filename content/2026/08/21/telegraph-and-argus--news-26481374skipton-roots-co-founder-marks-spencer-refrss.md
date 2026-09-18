@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: THOMAS Spencer was born in 1851 in Queen’s Place, off Queen’s Court,
   Caroline Square in Skipton - all named after Queen Caroline, the popular…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348785.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 THOMAS Spencer was born in 1851 in Queen’s Place, off Queen’s Court, Caroline Square in Skipton - all named after Queen Caroline, the popular consort of King George IV.

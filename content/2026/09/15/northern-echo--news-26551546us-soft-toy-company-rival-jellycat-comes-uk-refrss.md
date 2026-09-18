@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Premium soft toy company Mon Ami will debut in John Lewis stores and
   online this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21157433.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

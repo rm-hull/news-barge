@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Kelly Granado Montano, a Venezuelan living in the U.S., has been grappling
   with the aftermath of devastating earthquakes in Venezuela
 image: https://static.independent.co.uk/2026/09/09/13/Philanthropy_Venezuela_Coping_21849.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 After her parents went missing under the rubble of their Venezuela apartment building, Kelly Granado Montano spent her days here “lost, worried, on the phone,” her body in one country, her mind in another.

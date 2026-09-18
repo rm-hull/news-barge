@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:54:10Z'
 published: '2026-09-10T00:00:00Z'
 description: AI data centers are less likely to support as many jobs
 image: https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/EvwjyiKQ3AfWBgAwjcAL4c.jpg) 

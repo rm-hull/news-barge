@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Spark York is holding two weekends of celebrations after its temporary
   closure for a roof installation, with music, events, food and community…
 image: https://www.gazetteherald.co.uk/resources/images/21458664.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Newsquest)*

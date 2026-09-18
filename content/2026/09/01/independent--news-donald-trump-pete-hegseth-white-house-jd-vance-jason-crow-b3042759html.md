@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:58Z'
 published: '2026-09-01T00:00:00Z'
 description: Army Secretary Dan Driscoll is stepping down
 image: https://static.independent.co.uk/2026/08/26/21/Army_Nuclear_Reactors_24_2_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Army Secretary Dan Driscoll is stepping down after just 18 months on the job. The White House announced his departure after Driscoll spoke with President Donald Trump about the current state of the Army, an Army official told The Associated Press on condition of anonymity. He's only the latest top military leader to leave during the Trump administration.

@@ -9,6 +9,10 @@ description: Summer 2026 saw unprecedented heatwaves hit the UK, setting it up t
   be the hottest on record. Ahead of the new academic year, experts share what needs
   to change
 image: https://static.independent.co.uk/2026/08/28/9/32/school-aerial-view-istock.jpeg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A summer of record-breaking heatwaves saw UK schools pushed to their limit this year. As the threat of climate change becomes a reality – with experts warning 2026 may point to a ‘new normal’ – there are growing concerns ahead of the new academic year.

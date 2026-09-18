@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Keighley has a confusing name to pronounce so here is a guide to help
   you out.
 image: https://www.yorkpress.co.uk/resources/images/21355321.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 ## How to pronounce the confusing name of this Yorkshire town

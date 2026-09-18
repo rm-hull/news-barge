@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Rampant Yemeni fighters take control of island in narrow point of Bab
   al-Mandab strait, which Saudi is relying on for oil exports
 image: https://i.guim.co.uk/img/media/30ef346df5ca7fd3f57dc99c54e37de2403f8eb0/692_34_4903_3923/master/4903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63f4f8098febaeeab97bcfff18eb4aa1
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Yemen’s rampant Houthi forces have captured a strategic island in the Bab al-Mandab strait, expanding their control of the narrow waterway, one of the world’s vital shipping routes.

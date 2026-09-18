@@ -10,6 +10,9 @@ published: '2026-09-04T00:00:00Z'
 description: Svelte 10 Gbps drive is aimed at Apple users recording directly from
   iPhones.
 image: https://cdn.mos.cms.futurecdn.net/wyV9G2zTf4QEdFPCxQM9Hb-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Lexar Muse](https://cdn.mos.cms.futurecdn.net/wyV9G2zTf4QEdFPCxQM9Hb.jpg) 

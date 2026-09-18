@@ -10,6 +10,9 @@ description: While this year’s surge was dominated by an outbreak across 21 st
   linked to iceberg lettuce, thousands of other cyclosporiasis cases have not been
   linked to that outbreak
 image: https://static.independent.co.uk/2026/09/11/19/2290352203..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Federal health authorities have declared the largest cyclospora food poisoning outbreak in U.S. history over as questions remain about how the parasite that causes it ended up in our food supply.

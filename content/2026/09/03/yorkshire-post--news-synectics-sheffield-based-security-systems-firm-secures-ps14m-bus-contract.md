@@ -10,6 +10,12 @@ description: Yorkshire-based security systems firm, Synectics, has announced tha
   it has secured a £1.4m contract to provide on-vehicle surveillance technology for
   220 new buses being introduced by a UK regional authority.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUzMGVhNjYzLTE5MTUtNDgwNi05MWU0LTdjZTM5MmVmZGU2YzpkOGMyZTg3MS02YWZjLTRiMjEtOTBiYy03MjdiOThjYjNlYTQ=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 # Synectics: Sheffield-based security systems firm secures £1.4m bus contract with regional authority

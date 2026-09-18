@@ -10,6 +10,9 @@ description: A police officer who allegedly gunned down his wife at the kinderga
   where she was a teacher in eastern Thailand surrendered Thursday after an 18-hour
   standoff with authorities
 image: https://static.independent.co.uk/2026/09/09/09/Thailand_Shooting_835_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A police officer who allegedly gunned down his wife at the kindergarten where she was a teacher in eastern Thailand surrendered Thursday after an overnight standoff with authorities, officials said.

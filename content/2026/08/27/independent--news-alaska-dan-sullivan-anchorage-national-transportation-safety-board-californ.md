@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Authorities have identified the pilot and three passengers killed in
   a small plane crash in Alaska
 image: https://static.independent.co.uk/2026/08/27/06/Alaska_Plane_Crash_14961.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The pilot and three passengers killed when a small plane crashed in shallow waters near a remote coastal town in Alaska have been identified.

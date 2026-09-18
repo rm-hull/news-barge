@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Police say one man has been arrested, while several other local schools
   were locked down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Armed police officers at the scene of the Sweden school shooting](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg)

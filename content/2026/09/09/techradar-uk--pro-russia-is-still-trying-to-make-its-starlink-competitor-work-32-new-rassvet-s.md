@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Russia is spending $1.3 billion on Rassvet as technical failures threaten
   its plan for a working satellite network
 image: https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 ![A satellite in orbit around the earth](https://cdn.mos.cms.futurecdn.net/9Km7ky9AU7NcrTGcdP5ZTe.jpg) 

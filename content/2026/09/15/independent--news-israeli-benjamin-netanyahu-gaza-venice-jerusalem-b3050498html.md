@@ -10,6 +10,9 @@ description: An Israeli documentary about the civilian death toll from the war i
   Gaza has sparked a fierce backlash in Israel after being awarded the special jury
   prize at the Venice International Film Festival
 image: https://static.independent.co.uk/2026/09/15/13/Italy_Venice_Film_Festival_Closing_Ceremony__4978.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An Israeli documentary about the civilian death toll in the war in Gaza has sparked fierce backlash at home after being awarded the special jury prize last week at the Venice Film Festival, drawing anger from top officials and even calls to strip the filmmakers of Israeli citizenship.

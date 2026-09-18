@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: There's a new alternative, off-grid power solution available for your
   consideration, with early bid offers now available.
 image: https://cdn.mos.cms.futurecdn.net/cSxx39qwgFnchgmhSDNS4S-1600-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Ventyra R1](https://cdn.mos.cms.futurecdn.net/cSxx39qwgFnchgmhSDNS4S.jpg) 

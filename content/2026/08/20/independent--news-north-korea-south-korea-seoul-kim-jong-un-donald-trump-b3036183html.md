@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Yonhap News Agency has reported that South Korea says North Korea
   fired an unidentified projectile off the North’s east coast
 image: https://static.independent.co.uk/2026/08/20/09/Koreas_US_78439.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 North Korea fires an unidentified projectile off its east coast, South Korea says

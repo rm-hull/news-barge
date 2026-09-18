@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T20:19:01Z'
 published: '2026-09-14T00:00:00Z'
 description: The GeForce RTX 5090 has a new mission.
 image: https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![RTX Pro 5500 Blackwell GPU](https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: City of York Council announced that Tower Street will be closed in phases
   between its junctions with The Castle (Eye of York) and Paragon Street.
 image: https://www.yorkpress.co.uk/resources/images/20861479.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

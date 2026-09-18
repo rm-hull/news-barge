@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Harp traveled with Trump to attend Irish Open amid scrutiny over her
   relationship with the president
 image: https://static.independent.co.uk/2026/09/13/16/01M2AZXFKX18ADMW74QPQTYFG4.jpg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The White House social media team took time to lash out at a reporter after the journalist pointed out that Donald Trump’s aide Natalie Harp was among the aides following the president to his golf club in Ireland this weekend.

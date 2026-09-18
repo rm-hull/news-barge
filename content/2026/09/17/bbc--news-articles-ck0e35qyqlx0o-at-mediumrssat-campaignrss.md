@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Joanna Wietrzyk has also forfeited her win in the fitness competition
   after competing last week.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae40/live/65f662f0-b2a5-11f1-bd7d-0f16235ccc4c.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 ![Joanna Wietrzyk wears a black sports bra and a dark headband with the words 'the feed' printed in green letters. Her hair is tied back into a plait and she is mid-run.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/ae40/live/65f662f0-b2a5-11f1-bd7d-0f16235ccc4c.jpg)

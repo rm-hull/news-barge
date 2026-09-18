@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The Very Beautiful South will perform at Leeds Irish Centre, promising
   a night of nostalgia and classic hits.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21367498.jpg?type=og-image&xType=0&yType=472
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Fans of The Beautiful South can enjoy a night of nostalgia with a tribute show in Leeds.

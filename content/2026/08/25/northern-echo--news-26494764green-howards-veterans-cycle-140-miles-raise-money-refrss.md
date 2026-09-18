@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Veterans from North Yorkshire have raised £7,000 after undertaking a
   140 mile cycle ride across the North East
 image: https://www.thenorthernecho.co.uk/resources/images/21370684.jpg?type=og-image&xType=0&yType=165
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 North Yorkshire veterans have raised £7,000 after undertaking a 140-mile cycle ride across the North East.

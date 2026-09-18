@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: It was a huge honour to welcome the Prime Minister, Andy Burnham, to
   Bradford last month, so early into his premiership.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348624.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *This week's MP column is written by Bradford West MP Naz Shah*

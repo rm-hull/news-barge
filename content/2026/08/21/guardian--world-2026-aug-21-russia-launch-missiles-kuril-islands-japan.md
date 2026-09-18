@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Pacific fleet launched missile drills near what Moscow calls the Kuril
   Islands but Japan regards as its Northern Territories
 image: https://i.guim.co.uk/img/media/bba5ad816991650cc42b46206bd989c8c07236a1/317_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2cb1d57da959c2eb084e0bc3addee28
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Japan has criticised missile tests carried out by Russia’s navy around the disputed islands visited by Vladimir Putin last week amid continuing tensions between the two countries.

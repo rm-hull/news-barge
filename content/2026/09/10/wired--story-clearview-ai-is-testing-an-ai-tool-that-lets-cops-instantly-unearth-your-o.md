@@ -9,6 +9,10 @@ description: InquiryIQ, a previously unreported prototype, tested a model from x
   maker of Grok, to surface associates, social accounts, and other information about
   people identified through Clearview.
 image: https://media.wired.com/photos/6aa1c412411a289a7d31a71a/191:100/w_1280,c_limit/Security_Clearview%20AI%20Is%20Testing%20an%20AI%20Tool%20That%20Lets%20Cops%20Instantly%20Unearth%20Your%20Online%20Activity_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 In 2020, face-recognition firm Clearview AI became infamous for scraping more than 3 billion photos from the internet to turn faces into names for police and security professionals. Now the company is experimenting with trawling the web again, this time using AI to potentially help law enforcement fill in the person behind the name—who they are, who they know, where they live, and what they’ve left behind online.

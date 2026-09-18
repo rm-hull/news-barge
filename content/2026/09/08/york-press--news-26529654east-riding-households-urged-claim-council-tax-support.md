@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: East Riding of Yorkshire Council is urging residents to check if they
   are eligible for council tax support.
 image: https://www.yorkpress.co.uk/resources/images/21422142.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: East Riding of Yorkshire Council)*

@@ -10,6 +10,9 @@ description: Kamala Harris, Hillary Clinton and Oprah Winfrey are among a slew o
   politicians, celebrities, writers and activists who are lauding Gloria Steinem as
   a revolutionary and inspiring figure
 image: https://static.independent.co.uk/2026/09/04/01/Gloria_Steinem_81_68.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Kamala Harris, Hillary Clinton and Oprah Winfrey are among a slew of politicians, celebrities, writers and activists who are lauding Gloria Steinem as a revolutionary and inspiring figure.

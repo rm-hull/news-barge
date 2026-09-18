@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A new dog-friendly café in North Yorkshire has applied to place dozens
   of chairs outside its business.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIwZjljNzVkLWNlN2UtNGQxOS04MzBlLWQyNjhlMjk5NGI3YjphNTVmOTRlNS03OTZiLTRiMTYtYjBjMi1hNmI5MjU0MGJjOGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Coastal café applies to place 24 chairs on narrow shopping street

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: As adept at comedy and musicals as she was drama, Law acted alongside
   daughters Emma and Sophie in a career spanning eight decades
 image: https://i.guim.co.uk/img/media/7984977f6a093f9bb4534c093ddcebc398d7ec92/114_0_4079_3264/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e472779694f5cf7665732401a4a60f2a
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
+- Music
 ---
 
 Phyllida Law, whose prolific acting career encompassed a wide range of stage, TV and film roles – a number of which were alongside her daughters Emma and Sophie Thompson – has died aged 94. Her personal manager Jacky Leggo said in a statement that she “died supremely peacefully at home, surrounded by all of her family”.

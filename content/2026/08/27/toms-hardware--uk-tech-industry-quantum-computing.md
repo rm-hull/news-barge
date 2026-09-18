@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Discover more about Quantum Computing with insights from the experts
   at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CqJ42hzEZ8GuCYZCd3VZjS-320-80.jpg)

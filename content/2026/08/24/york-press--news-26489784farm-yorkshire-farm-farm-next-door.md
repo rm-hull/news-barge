@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Where exactly is Ravenseat Farm, and just how remote is the place made
   famous by Amanda, Clive and their nine children?
 image: https://www.yorkpress.co.uk/resources/images/21340684.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Where is the farm from Our Yorkshire Farm and Our Farm Next Door with Amanda Owen?

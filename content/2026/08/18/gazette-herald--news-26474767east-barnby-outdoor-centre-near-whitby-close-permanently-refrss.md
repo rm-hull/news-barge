@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: AN outdoor education centre on the North Yorkshire coast will permanently
   close after 70 years due to rising repair costs.
 image: https://www.gazetteherald.co.uk/resources/images/21297943.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 AN outdoor education centre on the North Yorkshire coast will permanently close after 70 years due to rising repair costs.

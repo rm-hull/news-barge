@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:32Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/thai-season-hotel-restaurant-wilberfoss-6.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A prominent hotel on a main road near York is up for sale for £1.5 million.

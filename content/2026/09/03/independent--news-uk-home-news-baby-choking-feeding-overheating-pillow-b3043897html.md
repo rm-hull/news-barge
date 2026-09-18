@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Royal Society for the Prevention of Accidents urged parents to be
   cautious of products which do not explain how they have been assessed for safety
 image: https://static.independent.co.uk/2026/09/02/14/53/iStock-930505058.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Parents are being urged to exercise caution before purchasing "must have" feeding products and sleep aids, with experts warning that they could put infants at risk.

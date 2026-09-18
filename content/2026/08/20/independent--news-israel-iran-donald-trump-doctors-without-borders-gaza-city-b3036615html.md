@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Iran has dismissed U.S. President Donald Trump’s threats of economic
   pain and isolation
 image: https://static.independent.co.uk/2026/08/20/19/Israel_Palestinians_Gaza_94817.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Iran on Thursday dismissed threats by U.S. President Donald Trump of economic pain and isolation for the country, while the U.K. and other nations condemned Israel over a settlement project.

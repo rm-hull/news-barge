@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Tech firms operating in a ‘legal grey area’ are leaving Brits with disabilities
   vulnerable, say campaigners
 image: https://static.independent.co.uk/2026/09/15/9/33/Screenshot-2026-09-15-at-10-53-56.png?trim=0,97,0,98&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Autonomous delivery robots should be banned from pavements to protect more vulnerable pedestrians, a leading charity has claimed.

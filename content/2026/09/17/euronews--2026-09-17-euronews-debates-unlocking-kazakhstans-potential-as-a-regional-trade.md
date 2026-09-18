@@ -9,6 +9,11 @@ description: At the Astana Finance Days 2026, speakers discussed how Kazakhstan 
   move beyond its traditional role as a transit country and become a regional hub
   for production, trade and investment.
 image: https://images.euronews.com/articles/stories/09/91/27/39/1200x675_cmsv2_33dfa4a6-6906-5f40-b6ae-bca91d9f72ac-9912739.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 **Euronews**

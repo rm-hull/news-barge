@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Whitby Lit Fest has announced a surprise headline appearance by Hugh
   Bonneville, best known for performances in Downton Abbey and Paddington.
 image: https://www.thenorthernecho.co.uk/resources/images/19802715.jpg?type=og-image&xType=0&yType=265
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Whitby Lit Fest has announced a surprise headline appearance by an actor best known for performances in Downton Abbey and Paddington.

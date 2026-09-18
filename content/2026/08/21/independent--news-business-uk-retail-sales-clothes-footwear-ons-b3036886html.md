@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Office for National Statistics said retail sales volumes declined
   by 0.5 per cent in July, compared with the previous month
 image: https://static.independent.co.uk/2026/03/31/00/30155312-8ebf911d-9321-442d-b32e-c8eb652ced1c.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Official data shows UK retail sales dipped in July, driven primarily by the steepest monthly fall in clothing purchases seen in more than a year.

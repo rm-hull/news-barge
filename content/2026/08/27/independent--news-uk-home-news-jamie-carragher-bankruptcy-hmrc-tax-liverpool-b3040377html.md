@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:03Z'
 published: '2026-08-27T00:00:00Z'
 description: A HMRC spokesperson said they only apply for bankruptcy ‘as a last resort’
 image: https://static.independent.co.uk/2026/06/02/10/e5ed02c48cb929a31606697e4864917bY29udGVudHNlYXJjaGFwaSwxNzgwNDc4NTg0-2.78161099.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Jamie Carragher, the former Liverpool defender, could face bankruptcy after HM Revenue and Customs (HMRC) filed a petition against him over an unpaid tax bill.

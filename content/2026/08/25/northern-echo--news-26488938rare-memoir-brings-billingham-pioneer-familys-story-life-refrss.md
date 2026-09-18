@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A memoir written by Blanche Sayers in her 80th year about her family's
   move from Loftus to Billingham in 1928 to help open the ICI Anhydrite…
 image: https://www.thenorthernecho.co.uk/resources/images/21361786.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A remarkable memoir charting one family's journey from rural North Yorkshire to the industrial heart of the North East is set to be shared publicly for the first time at a special event.

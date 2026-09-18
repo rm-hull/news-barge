@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Trump’s top prosecutor in DC has twice failed to keep another alleged
   vandal in jail after the Reflecting Pool case collapsed
 image: https://static.independent.co.uk/2026/08/04/18/2284372353..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s top federal prosecutor in Washington, D.C. has twice failed to keep an alleged World War II memorial vandal in jail after government lawyers demanded that she stay behind bars while awaiting trial on two felony charges.

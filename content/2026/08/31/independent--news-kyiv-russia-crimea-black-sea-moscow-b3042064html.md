@@ -10,6 +10,10 @@ description: Russian forces have relentlessly battered Kyiv and nearby cities fo
   a fifth straight day, hitting warehouse facilities as Ukraine reels from attacks
   with jet-powered drones
 image: https://static.independent.co.uk/2026/08/31/10/Russia_Ukraine_War_17847.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian forces relentlessly battered Kyiv and cities in the region around the Ukrainian capital for a fifth straight day Monday, leaving some supermarket shelves bare after repeated strikes on warehouses as Ukraine reels from attacks with jet-powered drones.

@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A baker whose cakes attract customers from across the UK has spoken about
   transforming a maternity leave hobby into a thriving business.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408699.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

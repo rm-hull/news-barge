@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: We still don't know the Scouse rapper's true identity, but do music lovers
   really care who he is?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8343/live/15545740-9fb2-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![EsDeeKid performs in front of a blow-up castle during a set in Illinois.  He is seen looking at the crowds while holding a microphone and wearing a black mask with holes and a hoodie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8343/live/15545740-9fb2-11f1-bff6-57f1422ebb0b.jpg)

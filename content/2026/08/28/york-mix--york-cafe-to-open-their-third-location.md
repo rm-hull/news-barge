@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T22:15:04Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/the-curious-coffee-company.webp
+categories:
+- Local
+- York
+- Travel
+- Food & Cooking
 ---
 
 A new cafe is set to open in Clifton, York.

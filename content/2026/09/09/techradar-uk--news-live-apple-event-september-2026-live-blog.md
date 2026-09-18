@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T12:57:22Z'
 published: '2026-09-09T00:00:00Z'
 description: Get ready for what could be the biggest Apple Event in years
 image: https://cdn.mos.cms.futurecdn.net/2V5Cb4btANEft4SXe5HnTV-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An invite for Apple's 'Surprise and shine' event next to a mockup of a foldable iPhone on a yellow background](https://cdn.mos.cms.futurecdn.net/2V5Cb4btANEft4SXe5HnTV.jpg) 

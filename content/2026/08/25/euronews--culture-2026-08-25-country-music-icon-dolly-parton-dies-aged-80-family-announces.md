@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The singer, songwriter and actress was one of the most influential figures
   in country music and shaped music and popular culture over a career spanning decades.
 image: https://images.euronews.com/articles/stories/09/88/86/87/1200x675_cmsv2_4b93afe2-bfef-5fef-8e22-af491224156a-9888687.jpg
+categories:
+- Europe
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ## The singer, songwriter and actress was one of the most influential figures in country music and shaped music and popular culture over a career spanning decades.

@@ -9,6 +9,10 @@ description: The trials of Lyle and Erik Menendez and their conviction for killi
   their parents came at a time when televised trials captured national audiences in
   the 1990s
 image: https://static.the-independent.com/2025/08/19/04/Menendez_Brothers_51394.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Convicted shotgun killers Erik and Lyle Menendez are set to face a parole board more than a year earlier than expected, state officials confirmed.

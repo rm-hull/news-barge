@@ -10,6 +10,9 @@ description: Most notably, Apple is taking aim at the growing wave of AI wearabl
   with new "Audio Intelligence" features that let you rewind moments and remember
   details from daily conversations.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple on Wednesday unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 at its iPhone launch event in Cupertino. While the smartwatches aren’t getting a major hardware makeover, they are getting some significant software updates.

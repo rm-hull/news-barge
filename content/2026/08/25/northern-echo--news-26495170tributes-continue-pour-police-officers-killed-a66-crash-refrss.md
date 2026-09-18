@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Tributes continue to pour in for the two "hero" police officers whose
   lives were cut short after a horror crash on the A66.
 image: https://www.thenorthernecho.co.uk/resources/images/21371168.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Tributes continue to pour in for the two "hero" police officers whose lives were cut short after a horror crash on the A66.

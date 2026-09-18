@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: ‘So basically they’ll allow any POTUS exec order to rename stuff,’ one
   user wrote. ‘No reason he doesn’t just start renaming things after his friends’
 image: https://static.independent.co.uk/2026/08/30/15/05/Screenshot-2026-08-30-at-11-06-26-AM.png?trim=0,138,0,192&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google Maps has changed the name of Lake Ontario to “Lake America” for users in the United States, following President Donald Trump’s executive order rebranding the lake. The move has prompted backlash from critics.

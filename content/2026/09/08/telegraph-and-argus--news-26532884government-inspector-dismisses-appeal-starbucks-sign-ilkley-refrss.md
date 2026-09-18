@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A planning appeal for a large illuminated sign at a Starbucks drive-thru
   has been dismissed by a Government planning inspector.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20664905.jpg?type=og-image&xType=4&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Guy Pierson)*

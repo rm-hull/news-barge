@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: PC Component reviews, news, and features, created for the hardcore PC
   enthusiast by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb-450-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # PC Components

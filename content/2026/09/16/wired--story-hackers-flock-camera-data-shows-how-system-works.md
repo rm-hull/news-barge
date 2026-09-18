@@ -9,6 +9,9 @@ description: A hacker collective pulled down a Flock camera and dumped its data.
   files included thousands of videos and logs showing that the device captured 1.6
   million images of 50,000 vehicles in 21 days.
 image: https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_limit/Security_Hackers%20Got%20Inside%20a%20Flock%20Camera.%20Its%20Data%20Shows%20How%20the%20System%20Really%20Works.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED, revealing in new detail how exactly Flock Safety’s cameras track the movements of both vehicles and people. The hackers say they are also publishing details on how they managed to obtain the software, in the hopes that other people may copy them.

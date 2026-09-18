@@ -9,6 +9,10 @@ description: Bitcoin and gold shot higher this week, with both getting a boost f
   some frantic action surrounding the bond market, and the cryptocurrency also benefiting
   from activity in Washington
 image: https://static.independent.co.uk/2026/08/22/15/Gold_Bitcoin_Moment_61146.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Bitcoin and gold shot higher this week, with both getting a boost from some frantic action surrounding the bond market, and the cryptocurrency also benefiting from activity in Washington.

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Mathematicians now have a formidable tool for breaking open challenging
   problems, but working out how best to use it isn't going to be easy
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311871371.jpg?w=840)

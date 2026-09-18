@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T23:24:05Z'
 published: '2026-08-26T00:00:00Z'
 description: Dozens of people who went missing as children have still not been located
 image: https://static.independent.co.uk/2026/06/08/10/ec24f4658b80c24a47669d6cf3748e36Y29udGVudHNlYXJjaGFwaSwxNzgwOTk3NTk4-2.84548776.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Forty people who disappeared as children from UK asylum seeker hotels have still not been located, prompting parliamentarians to demand the Government outline its efforts to trace them.

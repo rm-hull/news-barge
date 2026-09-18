@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Video. In Accra, Ghanaian coffin makers craft guitars, shoes and microphones
   to reflect the lives, work and passions of the people they are made for.
 image: https://images.euronews.com/articles/stories/09/89/97/43/1200x675_cmsv2_ec59d942-c25a-5418-b7cf-f88e09508691-9899743.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- Technology & Software
 ---
 
 Ghaniana coffin makers craft elaborate wooden caskets shaped like shoes, guitars and microphones, turning funerals into a final reflection of the deceased's life.

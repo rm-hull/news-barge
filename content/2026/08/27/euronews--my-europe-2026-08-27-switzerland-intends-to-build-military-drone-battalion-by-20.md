@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: 'Switzerland''s long-standing position has been one of well-armed neutrality
   and the European country has mandatory conscription for men. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/20/37/1200x675_cmsv2_e2bbce09-981f-51da-b093-476cd304bcfa-9892037.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Switzerland's long-standing position has been one of well-armed neutrality and the European country has mandatory conscription for men.

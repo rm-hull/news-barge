@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Broom House Farm Forest Adventure has puzzles, challenges, and play
   areas to explore.
 image: https://www.thenorthernecho.co.uk/resources/images/21350519.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Tripadvisor)*

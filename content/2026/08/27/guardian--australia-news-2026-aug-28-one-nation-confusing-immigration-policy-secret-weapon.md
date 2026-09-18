@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The party’s key figures are either unable or unwilling to neatly articulate
   their migration targets, contradicting one another – and themselves
 image: https://i.guim.co.uk/img/media/93db5e05411526bdfe9268d631eec0fa8f11431f/995_943_5382_4306/master/5382.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebb6655ae2629daa1b6cde3679134ea9
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 One Nation has experienced a swell in popular support in the past year, and has primarily done so off the back of tough talk on immigration – a policy area almost synonymous with its leader, Pauline Hanson.

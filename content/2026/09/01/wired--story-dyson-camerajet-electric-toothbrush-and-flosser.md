@@ -9,6 +9,9 @@ description: The company known for stick vacuums and hair dryers is coming for y
   teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid
   into the gaps between your teeth.
 image: https://media.wired.com/photos/6a9163be72895b5a248bbc80/191:100/w_1280,c_limit/OC01_PPIDROSSVL_084-CMYK-InSitu-Sink-Tap-A2_MIX.jpeg
+categories:
+- Technology & Software
+- Science
 ---
 
 Whenever Dyson enters a new product category, a ripple effect usually follows, with the buzz growing so loud that competitors are forced to react. The company did this with stick vacuums and premium hair dryers. Now it's aspiring to upend the oral care business.

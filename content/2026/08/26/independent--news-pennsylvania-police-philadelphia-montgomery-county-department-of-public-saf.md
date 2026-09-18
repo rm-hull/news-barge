@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: An investigation is underway after police shot and killed a 22-year-old
   college student in Pennsylvania
 image: https://static.independent.co.uk/2026/08/26/22/Wrong_House_Shooting__1321.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 22-year-old college student killed by Pennsylvania police responding to a possible burglary had just realized he was at the wrong home and was waiting for friends to come get him when he was shot, his father said Wednesday.

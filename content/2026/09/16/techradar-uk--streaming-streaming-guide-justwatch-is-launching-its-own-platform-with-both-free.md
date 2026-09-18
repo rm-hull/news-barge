@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: JustWatch TV is arriving in October, with Paramount, New Regency, and
   more supporting its content launch.
 image: https://cdn.mos.cms.futurecdn.net/HBVUxggn4oYazcHi8JxD7b-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A laptop screen with the JustWatch home page](https://cdn.mos.cms.futurecdn.net/HBVUxggn4oYazcHi8JxD7b.jpg) 

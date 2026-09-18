@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A man has been arrested after a firefighter was assaulted while leading
   people to safety following a fire at an apartment in Yorkshire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/12/50/WhatsApp-Image-2026-09-08-at-15-23-23.jpeg?trim=21,0,177,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man arrested after attacking firefighter leading him to safety during blaze

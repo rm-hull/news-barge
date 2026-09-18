@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:09:45Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Autumn-Sports-Cars-in-the-Park-returns-to-Newby-Hall-on-Sunday-6-September.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Car enthusiasts are set to descend on Newby Hall & Gardens this September – as the Autumn Sports Cars in the Park show returns to the historic estate.

@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Pollster TPSI admits it changed responses from voters supporting Jay
   Collins to indicate greater support for James Fishback
 image: https://static.independent.co.uk/2026/08/20/23/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A second polling firm is under fire after admitting to fabricating data in a key 2026 primary election, this time in Florida.

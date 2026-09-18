@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: A new study found that women who had a higher BMI at 20 appeared to have
   a reduced risk of post-menopausal breast cancer
 image: https://static.independent.co.uk/2026/02/25/00/c8ec0461665687f7184a1bf0129ddd7dY29udGVudHNlYXJjaGFwaSwxNzcxNjYwNzEy-2.3649306.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Women who are overweight in early adulthood may be less likely to develop breast cancer after menopause due to lasting changes in the structure of their breast tissue, a new study suggests.

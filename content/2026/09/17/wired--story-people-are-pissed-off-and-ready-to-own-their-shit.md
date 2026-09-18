@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: A grassroots live tour by YouTuber Louis Rossmann highlights growing
   resistance to companies that keep people from controlling their devices.
 image: https://media.wired.com/photos/6aa929fe3aba230bcb567487/191:100/w_1280,c_limit/S08_RALEIGH_20260820_003.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The train blasts through right as Louis Rossmann starts to speak. This has happened several times already at the event he’s hosting on a Friday night in San Jose, California. All the speakers before him patiently paused when the train on the nearby tracks roared by, its loud horn blaring, then resumed talking. But Rossmann is mid-sentence in his rapid-fire delivery about the topic he’s fiercely passionate about, and he doesn’t stop. He shouts over the train.

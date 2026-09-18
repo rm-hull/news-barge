@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Emissions of planet-heating methane and CO2 from natural sources are
   worsening the climate crisis, paper says
 image: https://i.guim.co.uk/img/media/ed59e1592611bf6cc6e8295775939d4143f7ab79/860_782_4020_3216/master/4020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a891322fd929a2a34743559eddaf49a8
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Rising global temperatures caused by the burning of fossil fuels are transforming the world’s forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has found.

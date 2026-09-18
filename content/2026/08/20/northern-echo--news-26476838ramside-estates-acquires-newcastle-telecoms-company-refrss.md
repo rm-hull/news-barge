@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: County Durham-based Ramside Estates has acquired long-time supplier Select
   Telecom in a move aimed at supporting the hospitality group's future…
 image: https://www.thenorthernecho.co.uk/resources/images/21339654.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

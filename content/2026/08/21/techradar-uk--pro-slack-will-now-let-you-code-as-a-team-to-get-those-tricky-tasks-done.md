@@ -7,6 +7,9 @@ scraped_at: '2026-08-21T13:06:54Z'
 published: '2026-08-21T00:00:00Z'
 description: Slack Code makes coding multiplayer
 image: https://cdn.mos.cms.futurecdn.net/ARwmNkFCWPQ4PbcEHbVexN-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Slack](https://cdn.mos.cms.futurecdn.net/ARwmNkFCWPQ4PbcEHbVexN.jpg) 

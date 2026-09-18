@@ -10,6 +10,10 @@ description: Budapest delivered a thrilling final day as Schimidt, Pavic, Pirell
   while the heavyweights brought three unforgettable days of judo at the Papp László
   Arena to a close.
 image: https://images.euronews.com/articles/stories/09/91/20/85/1200x675_cmsv2_b8f7ee3b-6c70-5ada-a923-25465062525e-9912085.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 **Euronews** with

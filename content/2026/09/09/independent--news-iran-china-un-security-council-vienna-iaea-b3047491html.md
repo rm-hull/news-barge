@@ -10,6 +10,10 @@ description: The U.N. atomic watchdog’s board reported Iran to the U.N. Securi
   for the first time in 20 years for failure to cooperate in a long-running investigation
   into uranium traces detected by inspectors at various undeclared sites in Iran
 image: https://static.independent.co.uk/2026/09/09/15/EU_Syria_Nuclear_21834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The U.N. atomic watchdog’s board on Wednesday reported Iran to the U.N. Security Council for the first time in 20 years for failure to cooperate in a long-running investigation into uranium traces detected by inspectors at various undeclared sites in Iran.

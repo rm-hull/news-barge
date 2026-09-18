@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Ohio officials said the children ‘looked like almost feral animals’ and
   some ‘couldn’t even speak’
 image: https://static.the-independent.com/2026/08/26/18/53/SEI309062537.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
+- Arts & Culture
 ---
 
 The family at the center of a massive child engagement case in Ohio, where 16 kids were rescued from what has been dubbed a “house of horrors,” was previously investigated by child services.

@@ -9,6 +9,10 @@ description: The environmental education center in Britzer Garten in Neukölln i
   be rebuilt as soon as possible, according to a statement from the Senate Chancellery.
   The building was destroyed by a fire in October 2024.
 image: https://www.berlin.de/binaries/asset/image_assets/10592276/ratio_4_3/1787728057/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 © dpa

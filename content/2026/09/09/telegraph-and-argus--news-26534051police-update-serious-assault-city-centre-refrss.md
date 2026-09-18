@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Police have issued an update after a man was taken to hospital following
   a reported serious assault in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428519.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google Maps)*

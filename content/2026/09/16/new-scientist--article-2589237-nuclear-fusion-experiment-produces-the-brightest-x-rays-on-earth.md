@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: A new twist on nuclear fusion ignition emitted X-rays that are as bright
   as some stars, which could enable other extreme experiments
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![An artist's illustration of the X-rays produced during nuclear fusion](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312550456.jpg?w=840)

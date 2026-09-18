@@ -9,6 +9,10 @@ description: Of the Glassdoor reviews from claims adjusters that mentioned AI, a
   98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should
   never be given the keys.”
 image: https://media.wired.com/photos/6a90caf6df5e45f6df862f92/191:100/w_1280,c_limit/You-Know-Who-Really-Hates-AI-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 On the job review platform Glassdoor, one faction hates artificial intelligence more than any other.

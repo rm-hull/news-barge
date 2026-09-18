@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: WHAT was the ‘accident waiting to happen’ that devastated a community?
   What led a parish priest to become an activist? What went on in the old…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403476.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 WHAT was the ‘accident waiting to happen’ that devastated a community? What led a parish priest to become an activist? What went on in the old blacksmiths towpath forge? And who were the heroes of Bradford concert hall?

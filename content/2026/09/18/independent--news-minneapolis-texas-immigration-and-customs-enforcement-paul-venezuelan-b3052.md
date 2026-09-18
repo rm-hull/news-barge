@@ -10,6 +10,10 @@ description: A federal immigration officer who faces state and federal charges i
   the nonfatal shooting of a Venezuelan man during the immigration crackdown in Minneapolis
   is now out of custody
 image: https://static.independent.co.uk/2026/09/18/13/US_Immigration_Enforcement_Minnesota_4_858.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An immigration officer who is accused of shooting a Venezuelan man during the immigration crackdown in Minneapolis early this year, and then lying to investigators about what happened, is scheduled to appear in U.S. District Court on Friday.

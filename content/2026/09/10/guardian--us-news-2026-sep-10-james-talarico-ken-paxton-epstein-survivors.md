@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Democrats are targeting Trump’s relationship with Epstein as part of
   strategy ahead of midterm elections
 image: https://i.guim.co.uk/img/media/bf618d249794abae632467ef42e1dcd4d5b4d66f/652_0_6523_5219/master/6523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f31e6ae61bf91b7059fab7a09945793d
+categories:
+- UK
+- News & Politics
 ---
 
 James Talarico, the Democratic candidate for Senate in Texas, accused his rival Ken Paxton of “ignoring” survivors of Jeffrey Epstein’s sexual abuse, as Democrats seek to increase pressure on Republicans ahead of November’s midterm elections.

@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: With immensely rewarding turn-based tactics gameplay, an authentic Star
   Wars atmosphere, and rich storytelling, Bit Reactor's Star Wars Zero Company delivers.
 image: https://cdn.mos.cms.futurecdn.net/K8RBqm2CE9bw8AoFYwLG4P-2016-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

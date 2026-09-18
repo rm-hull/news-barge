@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: 'If you want to manufacture in space—and bring the products back again—there''s
   a limited set of options: Wait to go to the International Space Station, or'
 image: https://techcrunch.com/wp-content/uploads/2026/09/Besxar-Team.jpg?resize=1200,900
+categories:
+- Science
+- Technology & Software
 ---
 
 If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth.

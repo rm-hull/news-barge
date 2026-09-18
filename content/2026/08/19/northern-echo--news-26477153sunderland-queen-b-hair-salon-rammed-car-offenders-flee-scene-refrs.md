@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Northumbria Police are investigating after a vehicle was deliberately
   driven into the shutters of Queen B Hair and Beauty Clinic on Hylton Road in…
 image: https://www.thenorthernecho.co.uk/resources/images/21340114.jpg?type=og-image&xType=0&yType=180
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 A car was "purposely" driven into the shutters of a hair salon before offenders reportedly fled the scene.

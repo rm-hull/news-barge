@@ -10,6 +10,10 @@ description: Radio host’s indecent assault and sexual touching trial enters fo
   week, with shock jock Jason Morrison telling court complainant C appeared ‘stuck’
   beside Jones
 image: https://i.guim.co.uk/img/media/d41c45e2a459b2a04c57cdc95dd4ef10ca14cf91/1188_529_2934_2347/master/2934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79e003c7a4b9bb9bac7a376f39fa40fb
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fellow shock jock Jason Morrison has told the Alan Jones trial that guests at a luncheon hosted by the 2GB breakfast presenter were joking that Jones and a young staffer “look like a great couple” as the pair sat next to each other at a Sydney restaurant.

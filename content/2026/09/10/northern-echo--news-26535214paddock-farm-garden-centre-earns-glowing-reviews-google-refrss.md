@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Darlington garden centre, home to nine themed gardens, has received
   glowing reviews from customers.
 image: https://www.thenorthernecho.co.uk/resources/images/21430247.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: GOOGLE MAPS)*

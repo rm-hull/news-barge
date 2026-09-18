@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Fully transferring a Calderdale park pavilion to a local cricket club
   to run will allow it to develop it further, with resulting wider community…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422348.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 Fully transferring a Calderdale park pavilion to a local cricket club to run will allow it to develop it further, with resulting wider community benefits, senior councillors are told.

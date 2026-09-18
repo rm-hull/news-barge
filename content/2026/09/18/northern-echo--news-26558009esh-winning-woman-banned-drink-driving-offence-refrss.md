@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Kelly Wilson, 47, of Esh Winning, has been banned from driving for 14
   months and fined after admitting drink-driving a BMW in Quebec, County Durham…
 image: https://www.thenorthernecho.co.uk/resources/images/20189139.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: None)*

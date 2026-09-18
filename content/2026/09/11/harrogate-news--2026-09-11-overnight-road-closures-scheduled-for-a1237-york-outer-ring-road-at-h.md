@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A key section of the A1237 York Outer Ring Road at Haxby Roundabout will
   close overnight for resurfacing from 21 September. Read the full diversion details.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/bad-road-york.webp
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 **TRANSPORT**— Motorists from the Harrogate district planning evening travel around the east side of York are being warned to prepare for significant delays, as a major section of the

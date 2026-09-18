@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Fires between January and July burned more than 200,000 hectares of land,
   an area three times the size of the capital Jakarta, the government said last week.
 image: https://images.euronews.com/articles/stories/09/88/91/08/1200x675_cmsv2_f11e8fbc-da88-5d10-ad04-70eb47de784c-9889108.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Fires between January and July burned more than 200,000 hectares of land, an area three times the size of the capital Jakarta, the government said last week.

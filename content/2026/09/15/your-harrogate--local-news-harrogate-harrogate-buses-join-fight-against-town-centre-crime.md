@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: The Harrogate Bus Company has joined a town centre network that allows
   businesses to share reports of crime and antisocial behaviour.
 image: https://mmo.aiircdn.com/409/6aa90b86d90b71c2ef3.jpg
+categories:
+- Local
+- Harrogate
+- True Crime
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa90b86d90b71c2ef3.jpg) 

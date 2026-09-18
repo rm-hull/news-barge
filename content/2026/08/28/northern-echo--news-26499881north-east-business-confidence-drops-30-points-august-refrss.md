@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: The Lloyds Business Barometer has shown that business confidence in the
   North East has dropped by 30 points.
 image: https://www.thenorthernecho.co.uk/resources/images/21382495.jpg?type=og-image&xType=0&yType=230
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Lloyds)*

@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Police are appealing for information after a minibus belonging to Lister
   House in Ripon was badly damaged.
 image: https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg) 

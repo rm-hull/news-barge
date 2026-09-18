@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A man who carried out a revenge attack “out of rage and anger” by crashing
   his Range Rover into another car containing a woman he knew has been…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

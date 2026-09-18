@@ -9,6 +9,8 @@ description: Amid negotiations for a new EU-wide corporate status, an open lette
   signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered
   down.
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2266663070.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
 ---
 
 Europe could soon have its own equivalent of the Delaware C Corp, but its advocates aren’t releasing the pressure on lawmakers. In an open letter released on Thursday, a who’s who of Europe’s startup scene stressed that this new corporate status shouldn’t be watered down.

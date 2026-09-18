@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T14:59:29Z'
 published: '2026-09-14T00:00:00Z'
 description: Byte-identical output at half the GPU cost
 image: https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The BC 250 board in-hand](https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf.jpg) 

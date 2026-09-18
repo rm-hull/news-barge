@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: Unauthorised works to a Bradford district woodland area need to be removed,
   and 100 trees planted in their place – a planning inspector has…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21226675.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

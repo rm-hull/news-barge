@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Cash raised by a tourist tax in York should stay in the city and be spent
   there, the leader of the council's opposition has said.
 image: https://www.yorkpress.co.uk/resources/images/14663211.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Travel
+- News & Politics
 ---
 
 *(Image: Newsquest)*

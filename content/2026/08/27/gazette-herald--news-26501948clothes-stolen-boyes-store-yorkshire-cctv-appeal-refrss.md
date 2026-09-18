@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T22:13:13Z'
 published: '2026-08-27T00:00:00Z'
 description: Clothes have been stolen from Boyes in Scarborough.
 image: https://www.gazetteherald.co.uk/resources/images/21381088.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Shopping & Deals
 ---
 
 *(Image: North Yorkshire Police)*

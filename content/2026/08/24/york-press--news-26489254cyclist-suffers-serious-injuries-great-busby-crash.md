@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The county's police force said it happened around 12.30pm on Sunday,
   August 2 in Busby Lane, Great Busby.
 image: https://www.yorkpress.co.uk/resources/images/21362048.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The non-emergency line receives ridiculous reports on issues from delayed
   pizza delivery to requests for a lift
 image: https://static.independent.co.uk/2026/07/22/13/22131401-64fcad29-64a3-4fd6-905b-5a9bb7d89599.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Artificial intelligence software is set to be deployed to help clear the police 101 service by filtering out misdirected and nuisance calls.

@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: A FORGOTTEN landscape that once drew the world’s botanists to Yorkshire
   could hold the key to restoring lost wildlife, research suggests.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1ODA2Zjg1LTc1NzUtNDIyOS04MTQzLTNkOTIxNGM4MjI3YjoyZDU3YWQ4MC1lMTdlLTQxZDktYjAxOS02YmE1NDQ3MGRkNGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Science
 ---
 
 # Bid to revive ancient wildflower 'hotspot' discovered at University of York

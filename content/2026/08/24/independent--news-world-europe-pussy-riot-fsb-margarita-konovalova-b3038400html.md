@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Margarita Konovalova, also known as Rita Flores, says she was coerced
   into become an informant
 image: https://static.independent.co.uk/2026/08/24/14/02/Pussy_Riot_by_Igor_Mukhin-7a4b8982.jpeg?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A former member of Russian protest group Pussy Riot has revealed she was recruited to join Russia’s security service to inform on other activists.

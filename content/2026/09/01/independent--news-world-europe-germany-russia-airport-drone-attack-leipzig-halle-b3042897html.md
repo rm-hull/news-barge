@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Germany’s interior minister said the event corresponds with a known pattern
   of ‘Russian hybrid operations’
 image: https://static.independent.co.uk/2026/08/06/7/21/tag_reuters-com-2026_newsml_RC2CSMAYD10V_1792344306-reuters.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Germany has blamed Russia for an attempted explosive drone attack at Leipzig/Halle Airport last month after a device was found near a Ukrainian cargo plane.

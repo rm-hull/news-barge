@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: Duty falls by precedent to William to attend service of late monarch,
   alongside Princess Royal, who is godmother to new king Haakon VIII
 image: https://i.guim.co.uk/img/media/f3fc29bf4bcce23b9f6ac7324dd4a9458d6a2459/777_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11a728c41d54633fd7ec546ef97994f3
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 The Prince of Wales is to represent his father at the funeral of King Harald V of Norway next week, Buckingham Palace has announced.

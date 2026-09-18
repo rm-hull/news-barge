@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: Disney Channel actress Carla Jeffery has been remembered as a “beautiful,
   vibrant and incredibly talented woman” after her death at the age of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381497.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: Getty Images)*

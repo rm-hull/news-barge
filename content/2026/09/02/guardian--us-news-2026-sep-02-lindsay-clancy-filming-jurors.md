@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Jury sent back for more deliberations in case of mother accused of murdering
   her three children
 image: https://i.guim.co.uk/img/media/fd47b29783854138cf8f8efb0bec1df8a5b9da9c/0_0_2907_2326/master/2907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f66f02592a4bdf5301f1f6824126545
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The jury in the Lindsay Clancy murder trial on Wednesday told the judge for a second time that it can’t agree on a verdict in the controversial case of the mother accused of murdering her three children.

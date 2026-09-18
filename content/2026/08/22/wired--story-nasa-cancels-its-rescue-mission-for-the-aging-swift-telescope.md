@@ -9,6 +9,9 @@ description: The LINK probe was supposed to use robotic arms to capture Swift an
   lift it into a safe orbit. Problems with its control system forced NASA to call
   off the attempt.
 image: https://media.wired.com/photos/6a8871d3b0df42666c60d05e/191:100/w_1280,c_limit/sci-award-release-swift-orbit-boost-sept-24.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The Swift space observatory has been in operation since 2004. It specializes in gamma-ray bursts (GRBs), the most energetic electromagnetic explosions known in the universe. Its original mission was supposed to last just two years. More than two decades later, it continues to explore some of the most violent phenomena in the cosmos. Now it is nearing the end of its life.

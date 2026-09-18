@@ -10,6 +10,10 @@ description: Ukraine's drone campaign forced an average of 32 airport closures a
   already exceeding all of 2025, as Zelenskyy warned airlines and insurers that "the
   days of safety in Russia's skies are over."
 image: https://images.euronews.com/articles/stories/09/90/73/93/1200x675_cmsv2_cdda8908-a825-5783-9d40-1b7e99db6457-9907393.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Ukraine's drone campaign forced an average of 32 airport closures a day across 32 Russian airports including Moscow and St Petersburg, with summer totals already exceeding all of 2025, as Zelenskyy warned airlines and insurers that "the days of safety in Russia's skies are over."

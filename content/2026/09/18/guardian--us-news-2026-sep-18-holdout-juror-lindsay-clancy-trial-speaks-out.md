@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Michael P Desronvil was sole juror to vote guilty, resulting in deadlocked
   jury and judge declaring a mistrial
 image: https://i.guim.co.uk/img/media/9c5da6a800f911ba1211d54f7b544ad7cc23653a/340_0_2660_2128/master/2660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72d5b02c65df27f5c642e307aa32ccc5
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The lone holdout juror in the Lindsay Clancy murder trial is speaking out, saying that he “didn’t have any doubts” during the jury’s deliberations of the case which ended in a mistrial.

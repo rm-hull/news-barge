@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Darlington Economic Campus leader Ellie Fotheringham will be the keynote
   speaker at The Northern Echo’s September 25 Impact event on investment,…
 image: https://www.thenorthernecho.co.uk/resources/images/21474101.jpg?type=og-image&xType=0&yType=350
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 One of the leading voices at the Darlington Economic Campus is to be the keynote speaker at the next live Northern Echo event.

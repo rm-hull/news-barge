@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: A 'vital' plan to protect the future of Durham Cathedral and Castle is
   set to be discussed by Durham County Council's cabinet.
 image: https://www.thenorthernecho.co.uk/resources/images/15100232.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: NORTH NEWS)*

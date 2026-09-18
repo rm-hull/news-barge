@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: People are being invited to find out about community projects launching
   under the Pride in Place scheme to shape the future of Scarborough.
 image: https://www.gazetteherald.co.uk/resources/images/21378660.jpg?type=og-image&xType=0&yType=30
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Supplied)*

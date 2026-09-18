@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Now, Apple TV subscriptions will cost $14.99 per month, up from its previous
   price of $12.99 per month.
 image: https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 For the fourth time in four years, Apple TV is hiking its subscription prices.

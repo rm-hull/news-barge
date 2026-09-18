@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The Middlesbrough takeaway has been handed a zero-star food hygiene rating
   for the second time since opening.
 image: https://www.thenorthernecho.co.uk/resources/images/21336088.jpg?type=og-image&xType=0&yType=127
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Middlesbrough takeaway has been handed a zero-star food hygiene rating for the second time in less than two years.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T13:28:27Z'
 published: '2026-09-16T00:00:00Z'
 description: This could potentially be the first HBM manufacturing plant in the U.S.
 image: https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![an SK hynix factory](https://cdn.mos.cms.futurecdn.net/MNAdzZLPoDR82bwxMK4iCk.png) 

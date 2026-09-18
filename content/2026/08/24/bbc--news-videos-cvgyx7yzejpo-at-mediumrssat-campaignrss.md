@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: At 03:30 BST on Saturday, two police officers were killed when a Volkswagen
   Passat collided with their marked car on the A66 motorway.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b10/live/23682330-9fcf-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
+- True Crime
 ---
 
 # How the deadly A66 crash unfolded leaving seven dead

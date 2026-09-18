@@ -9,6 +9,9 @@ description: Kazakhstan's Elena Rybakina has moved to the top of the WTA live ra
   as the 2026 US Open begins, putting her in contention to become the world's official
   No. 1 for the first time.
 image: https://images.euronews.com/articles/stories/09/89/57/21/1200x675_cmsv2_c34bdd83-967e-553c-b9f8-079f771c93f0-9895721.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Kazakhstan's Elena Rybakina has moved to the top of the WTA live rankings as the 2026 US Open begins, putting her in contention to become the world's official No. 1 for the first time.

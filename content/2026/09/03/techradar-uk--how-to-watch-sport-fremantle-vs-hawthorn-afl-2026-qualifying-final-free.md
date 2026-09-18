@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T12:48:20Z'
 published: '2026-09-03T00:00:00Z'
 description: The Hawks squandered a 19-point lead the last time they faced the Dockers
 image: https://cdn.mos.cms.futurecdn.net/UhZoR8pBumNEBNU46sYd5Q-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Jack Gunston catching the ball during Fremantle vs Hawthorn game in Round 9 of the 2026 AFL season](https://cdn.mos.cms.futurecdn.net/UhZoR8pBumNEBNU46sYd5Q.jpg) 

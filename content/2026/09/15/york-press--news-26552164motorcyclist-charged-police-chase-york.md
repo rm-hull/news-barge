@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A motorcyclist in his 20s has been charged with multiple offences after
   failing to stop for police in York and testing positive for cannabis in a…
 image: https://www.yorkpress.co.uk/resources/images/21458180.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

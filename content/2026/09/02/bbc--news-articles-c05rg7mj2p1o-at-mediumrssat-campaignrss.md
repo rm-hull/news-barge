@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The world premiere for series 2 of the Netflix drama took place on Wednesday
   night in London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4a3/live/5aaab140-a70f-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Stars of The Gentlemen react to Meghan rumours

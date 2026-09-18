@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A new state pension tax break could help just 1 in 16 pensioners, with
   experts warning most could miss out.
 image: https://www.yorkpress.co.uk/resources/images/21455266.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: Yui Mok)*

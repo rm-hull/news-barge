@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Authentic Neapolitan pizza served at No.23 Milton Street Pizza is quickly
   becoming a North Yorkshire staple.
 image: https://www.thenorthernecho.co.uk/resources/images/21364488.jpg?type=og-image&xType=0&yType=376
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 Pizza fans seeking an authentic taste of Naples don't need to travel far, thanks to a North East coast restaurant serving traditional wood-fired meals.

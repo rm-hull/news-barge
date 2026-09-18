@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Thune will attend fundraiser for embattled GOP candidate he tried to
   block from winning Texas primary instead of speaking onstage
 image: https://static.independent.co.uk/2026/09/07/15/2289550814..?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 John Thune is noticeably absent from the speaker lineup for the Republican convention in Dallas this week amid reports of a possible rift with President Donald Trump as the Senate leader fights desperately to protect a GOP’s majority.

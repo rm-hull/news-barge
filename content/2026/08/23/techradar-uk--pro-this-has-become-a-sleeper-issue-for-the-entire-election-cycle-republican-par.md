@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Tech giants scramble to fix their toxic reputation before public anger
   over data centers spreads across the entire country
 image: https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![A data center with racks of servers and lots of lights glowing](https://cdn.mos.cms.futurecdn.net/p2uWFBGHtrHTjrYSDny87M.jpg) 

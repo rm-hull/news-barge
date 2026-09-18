@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The complex Norwood procedure performed this week is the first step in
   a multi-stage surgical process expected to stretch over the next several years
 image: https://static.independent.co.uk/2026/08/13/7/37/12nat-txsurrAgate-superJumbo-v5-copy-5d4af364.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A newborn boy at the center of a high-profile custody dispute between his biological parents and their surrogate mother underwent the first of three scheduled open-heart surgeries on Monday, according to legal representatives for the parties.

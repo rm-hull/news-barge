@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:10:19Z'
 published: '2026-08-19T00:00:00Z'
 description: Michele Venton says Ian Bray’s balcony lets him look ‘down into my garden’
 image: https://static.independent.co.uk/2026/08/19/11/24/BNPS_AmazonMillionaireRow_03.jpeg?trim=0,227,0,54&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 An entrepreneur who made a small fortune through her Amazon business is locked in a privacy dispute with a neighbour, who has built an unauthorised balcony looking directly over her garden.

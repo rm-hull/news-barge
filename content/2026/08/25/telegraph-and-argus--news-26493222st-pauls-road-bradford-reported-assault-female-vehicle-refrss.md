@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Police are investigating an assault on a female in a vehicle on St Paul's
   Road in Bradford on Monday evening (August 24).
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

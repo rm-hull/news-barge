@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:22:56Z'
 published: '2026-09-17T00:00:00Z'
 description: Over £8m a day is being spent on emergency provision, new figures show
 image: https://static.independent.co.uk/2026/08/21/14/35/housing-stock-warwick.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Councils in England spent a record £2.9bn on temporary accommodation in the year to April, new official figures show.

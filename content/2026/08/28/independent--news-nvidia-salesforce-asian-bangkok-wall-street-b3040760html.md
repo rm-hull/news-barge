@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Shares are mostly higher in Asia after Nvidia and other technology stocks
   led an advance on Wall Street
 image: https://static.independent.co.uk/2026/08/28/05/South_Korea_Financial_Markets_44188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Shares were mostly higher Friday in Asia after Nvidia and other technology stocks led an advance on Wall Street.

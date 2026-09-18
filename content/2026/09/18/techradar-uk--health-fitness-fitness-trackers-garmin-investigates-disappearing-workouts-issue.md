@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: A bug means the Garmin Connect app is not properly logging Cirqa workouts,
   but there’s a temporary fix.
 image: https://cdn.mos.cms.futurecdn.net/R9z662sA3cqsW9oVrPfcsA-2000-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Garmin Cirqa](https://cdn.mos.cms.futurecdn.net/R9z662sA3cqsW9oVrPfcsA.jpg) 

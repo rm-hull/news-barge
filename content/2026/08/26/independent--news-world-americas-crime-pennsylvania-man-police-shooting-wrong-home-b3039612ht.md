@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Glenn Pysher was remembered by loved ones as a ‘promising young man,
   athlete and scholar who loved his family dearly’
 image: https://static.the-independent.com/2026/08/26/12/16/Glenn-Pysher.jpeg?trim=82,48,1056,48&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 An unarmed Pennsylvania man was shot dead by police after mistakenly trying to enter a stranger’s home instead of his friend’s following a night of drinking.

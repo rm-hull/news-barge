@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: The price and release date for Microsoft's 25th anniversary Xbox Series
   X limited edition console have reportedly leaked.
 image: https://cdn.mos.cms.futurecdn.net/cQEBoRCSgVHAkCcgrdDaxa-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Xbox Series X25 Limited Edition](https://cdn.mos.cms.futurecdn.net/cQEBoRCSgVHAkCcgrdDaxa.jpg) 

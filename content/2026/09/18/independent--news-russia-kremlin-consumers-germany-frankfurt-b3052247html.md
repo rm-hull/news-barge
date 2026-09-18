@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The frictions in Russia’s wartime economy are growing, as massive military
   spending balloons the budget deficit
 image: https://static.independent.co.uk/2026/09/18/05/Russia_Election_Economy_615_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The frictions in Russia’s wartime economy are growing, as massive military spending balloons the budget deficit. Consumers and businesses are gloomier. Growth has slowed.

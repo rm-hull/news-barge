@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: An early-morning coffee rave featuring a live DJ and percussionist is
   coming to Harrogate this autumn.
 image: https://mmo.aiircdn.com/409/6a91395850ed94d8cbf.jpg
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 ![](https://mmo.aiircdn.com/409/6a91395850ed94d8cbf.jpg) 

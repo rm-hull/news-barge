@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: The competition watchdog raised concerns in its latest update over ‘passive
   pricing strategies’ used by the majority of retailers.
 image: https://static.independent.co.uk/2026/08/18/11/18111941-c6f643b2-2be8-4686-8094-bfe0433459c6.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Some petrol stations are still not passing on changes in wholesale prices quickly enough and more than a thousand warning letters have been sent to retailers failing to give prices to the Fuel Finder service, the UK competition watchdog revealed.

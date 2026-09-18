@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: A global engineering and environmental consultancy has been chosen to
   help shape how communities, housing, infrastructure and economic growth are…
 image: https://www.thenorthernecho.co.uk/resources/images/21332172.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: SARAH CALDECOTT)*

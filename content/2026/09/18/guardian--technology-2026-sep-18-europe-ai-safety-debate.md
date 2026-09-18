@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Though Europe has measures that address how consumers might encounter
   AI, technology will impact them if the worst scenarios bear
 image: https://i.guim.co.uk/img/media/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25516001de14b954fade48a256bc3fea
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Europe’s dilemma over AI was rendered in stark terms this week. The head of the continent’s central bank, Christine Lagarde, said Europeans have two options: shun the technology and lose out on growth; or embrace it and become dependent on tools developed by the US and China.

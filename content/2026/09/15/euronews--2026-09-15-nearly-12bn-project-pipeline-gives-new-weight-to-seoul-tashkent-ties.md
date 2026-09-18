@@ -9,6 +9,11 @@ description: Uzbekistan is seeking Korean finance and technology for critical mi
   advanced manufacturing and infrastructure. Mirziyoyev’s visit comes ahead of Wednesday’s
   first C5+Korea leaders’ summit.
 image: https://images.euronews.com/articles/stories/09/91/42/31/1200x675_cmsv2_0c9c22fd-980e-5875-840d-a15db7144ec9-9914231.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Uzbekistan is seeking Korean finance and technology for critical minerals, advanced manufacturing and infrastructure. Mirziyoyev’s visit comes ahead of Wednesday’s first C5+Korea leaders’ summit.

@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: The City of Doncaster Council has revealed it is in the midst of a legal
   process over the delayed reopening of Thorne Leisure Centre.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdhZmY1YjVlLTZiMmQtNDljNS05MTZjLWU3MjkzNGYzNzAyNjo2NzU0NjViMi1kMGJmLTQwYjMtOTI2MC1mOTAxZDQ2OGFmMzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Council begins legal process over delay to leisure centre reopening

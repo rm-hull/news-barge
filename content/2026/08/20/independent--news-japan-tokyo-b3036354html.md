@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Four people working on a railway track in Japan died after an express
   train hit them
 image: https://static.independent.co.uk/2026/08/20/13/Japan_Train_Accident_26681.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Four people doing weed control work on a railway track in Japan died after being hit by an express train as it entered a station while they were still working there on Thursday, officials said.

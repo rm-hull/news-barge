@@ -9,6 +9,9 @@ scraped_at: '2026-08-26T01:53:53Z'
 published: '2026-08-25T00:00:00Z'
 description: '''Word on the neon-soaked street is it will achieve speeds of 77 MHz.'''
 image: https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The Commodore 77](https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC.jpg) 

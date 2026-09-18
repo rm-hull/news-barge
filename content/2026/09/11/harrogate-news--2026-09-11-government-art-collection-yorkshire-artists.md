@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ten new artworks by Yorkshire and East of England creators have been
   acquired by the Government Art Collection to be displayed in British embassies worldwide
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2023/11/cropped-logosquare.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE**— Artworks created by a generation of visual artists from Yorkshire and the Humber have been officially acquired by the** Government Art Collection (GAC)** to represent British culture on the international stage.

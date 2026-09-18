@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:04Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/scarborough-cliff-lift-nyc.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 Households on the North Yorkshire coast are facing renewed cost-of-living pressure as energy prices are set to rise.

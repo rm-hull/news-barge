@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Leaked documents and testimony reveal extent of regime’s crackdown in
   2022 and how it paved the way for more brutal killings of protesters this year
 image: https://i.guim.co.uk/img/media/3031ec3c54175c785d346f7a6e0c036e8a41b128/274_248_2233_1786/master/2233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d640ed7b8c48b4c681bc1c3f78be1f49
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Iranian security forces “coordinated” the killing, torture and sexual abuse of hundreds of people who took part in the women-led nationwide protests in September 2022, according to leaked state documents and interviews.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set
   off from French beaches in small boats
 image: https://i.guim.co.uk/img/media/47a4e4557d95ab2d52d3c29b51e916678c939e86/2662_1191_3888_3111/master/3888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d748af3261fa9be68f38b55655ad33a6
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 People trying to cross the Channel to the UK have reported an increase in French police use of violence on beaches to prevent them from getting into dinghies, according to a French NGO.

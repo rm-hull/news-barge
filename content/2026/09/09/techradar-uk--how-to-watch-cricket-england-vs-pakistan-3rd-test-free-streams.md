@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:57:29Z'
 published: '2026-09-09T00:00:00Z'
 description: Pakistan camp in tatters as England eye a clean sweep in Birmingham
 image: https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Ollie Robinson and Jamie Smith of England appeal for the dismissal of Azan Awais of Pakistan during the fourth day of the second Rothesay Test between England and Pakistan](https://cdn.mos.cms.futurecdn.net/ivQaiBpft2cbYFNXveSCn.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Braden Sinclair has turned his love affair with the restaurant chain
   into an interactive trove of dietary data.
 image: https://media.wired.com/photos/6aa1b0826e35b597d5b3992c/191:100/w_1280,c_limit/OLIVEGARDEN_BRADENSINCLAIR_BONNIEDURHAM-9368.jpg
+categories:
+- Technology & Software
+- Science
+- Lifestyle & Fashion
 ---
 
 Everyone knows that when you’re at Olive Garden, you’re family.

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Tech giant Meta will pay up to $18billion to settle claims its platforms
   harm children
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ## Episode details

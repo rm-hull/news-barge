@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: An investigation has begun into the storage of weapons for Ukraine's
   military near a residential area.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike

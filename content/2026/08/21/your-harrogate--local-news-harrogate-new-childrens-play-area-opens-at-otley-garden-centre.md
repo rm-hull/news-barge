@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A new indoor and outdoor children's play area has opened at Otley Garden
   Centre.
 image: https://mmo.aiircdn.com/409/6a87ef43dd851e73ee5.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6a87ef43dd851e73ee5.jpg) 

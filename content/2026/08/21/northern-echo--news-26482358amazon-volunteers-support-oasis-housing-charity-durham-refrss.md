@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Amazon volunteers from the company's Durham fulfilment centre have spent
   more than three years helping Oasis Community Housing improve outdoor…
 image: https://www.thenorthernecho.co.uk/resources/images/21351477.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Volunteers from Amazon have spent more than three years helping transform outdoor spaces for some of the region's most vulnerable residents.

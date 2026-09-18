@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Bank says gold reserves held in London could be traded more easily and
   the move will allow it to respond more rapidly in a ‘crisis situation’
 image: https://i.guim.co.uk/img/media/62c6dc63a027a4bd45e7f9a84a226e5215ede54b/295_0_3405_2724/master/3405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=674457f5594b55a08104c2d81377f149
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- History
 ---
 
 The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.

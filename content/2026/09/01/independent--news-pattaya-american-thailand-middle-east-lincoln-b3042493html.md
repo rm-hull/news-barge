@@ -10,6 +10,10 @@ description: Thailand's coastal city of Pattaya is preparing for a visit by the 
   Abraham Lincoln, as the aircraft carrier makes its way back to the U.S. following
   a grueling deployment in the Middle East
 image: https://static.independent.co.uk/2026/09/01/07/Thailand_US_Carrier_337_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Thousands of American service members are about to descend on eastern Thailand, as the USS Abraham Lincoln makes a port call near the city of Pattaya, famous for its beaches and nightlife.

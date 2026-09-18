@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Insta360’s latest 360-degree camera uses larger sensors for better low-light
   performance and has a smaller body.
 image: https://media.wired.com/photos/6a9b6ea13bb4feaa34991767/191:100/w_1280,c_limit/Insta360%20X6%20360%20Camera%2001%20SOURCE%20Scott%20Gilbertson.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The combination of good video quality and user-friendly software has kept Insta360 at the forefront of the 360 camera world even as competitors like DJI and GoPro have carved out their own niche. With its latest camera, the Insta360 X6, the company is hoping to leap ahead of the pack again.

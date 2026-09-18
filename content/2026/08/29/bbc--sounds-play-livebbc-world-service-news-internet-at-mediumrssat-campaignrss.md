@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T22:39:10Z'
 published: '2026-08-29T00:00:00Z'
 description: Listen live to World Service on BBC Sounds
 image: https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_world_service/blocks-colour_600x600.png
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ## Live now on World Service

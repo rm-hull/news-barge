@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:19Z'
 published: '2026-08-30T00:00:00Z'
 description: A traditional country show is returning for its 117th year.
 image: https://www.yorkpress.co.uk/resources/images/19903875.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## Traditional country show returns for 117th year on Bank Holiday Monday

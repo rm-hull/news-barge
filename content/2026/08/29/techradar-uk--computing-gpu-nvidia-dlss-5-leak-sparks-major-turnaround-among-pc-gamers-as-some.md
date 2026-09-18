@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: '''Remarkable difference in tone of the reactions'': the negativity around
   DLSS 5 is melting away, it seems.'
 image: https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Happy PC gamer sat at their monitor on a desk](https://cdn.mos.cms.futurecdn.net/WmdEqp2Rrd3xvESLj4yN5P.jpg) 

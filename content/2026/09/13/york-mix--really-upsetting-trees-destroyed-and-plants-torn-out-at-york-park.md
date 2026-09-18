@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T18:46:52Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/rowntree-park-york-damage-sept-2026-1.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Vandals have struck at a York park overnight.

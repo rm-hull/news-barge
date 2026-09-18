@@ -11,6 +11,11 @@ description: We’re in the middle of the school holidays – six weeks that in 
   hours or incur additional childcare costs. It’s no surprise that worries about incurring
   debt over this period may loom.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE2NWM4MTdjLWFhMTktNDE3Mi04OTI5LWQ5ODAxNjRmZGI2YToyMTFjMDUyZS01NTkwLTRmYWUtYjRjNi00ZmQxODdjYmYwZGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Balanced budgets can help families prevent summer hurting their finances for months to come - Vikki Brownridge

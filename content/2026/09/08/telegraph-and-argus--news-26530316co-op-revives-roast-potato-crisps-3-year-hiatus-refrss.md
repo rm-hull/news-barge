@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Fan-favourite Roast Potato Crisps are back at Co-op from September after
   disappearing from store shelves three years ago.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16466015.jpg?type=og-image&xType=0&yType=129
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Co-op)*

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A photographer who picked up a dead deer from the A66 in County Durham
   in a bid to take it home and eat it has ended up in court.
 image: https://www.thenorthernecho.co.uk/resources/images/21422230.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: STU BOULTON)*

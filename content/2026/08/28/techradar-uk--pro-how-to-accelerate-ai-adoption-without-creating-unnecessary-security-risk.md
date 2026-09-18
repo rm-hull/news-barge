@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T11:15:42Z'
 published: '2026-08-28T00:00:00Z'
 description: Balancing AI innovation with enterprise security governance
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

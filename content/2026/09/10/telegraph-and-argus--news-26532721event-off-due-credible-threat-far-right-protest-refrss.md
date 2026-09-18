@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A community group that aims to unite people against "the increase of
   hatred" in the UK says it has been forced to cancel an event due to a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21426524.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Keighley Together)*

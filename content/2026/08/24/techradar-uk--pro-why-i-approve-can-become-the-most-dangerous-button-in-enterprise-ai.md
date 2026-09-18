@@ -7,6 +7,9 @@ scraped_at: '2026-08-24T11:48:48Z'
 published: '2026-08-24T00:00:00Z'
 description: Why human oversight alone fails in agentic AI
 image: https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An abstract pattern of blue lines and orange-yellow dots on a dark blue background, to represent a digital environment](https://cdn.mos.cms.futurecdn.net/wZAaq2s2qH4tHBJTEBNZXM.jpg) 

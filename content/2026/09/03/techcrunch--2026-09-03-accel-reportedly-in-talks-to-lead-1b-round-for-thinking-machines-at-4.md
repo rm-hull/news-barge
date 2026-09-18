@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The high-profile startup's annual revenue run rate stands at over $100
   million.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Thinking Machines, the AI lab founded early last year by former OpenAI CTO Mira Murati, is in discussions to raise $1 billion at a valuation of at least $40 billion, The Information reported Thursday. Existing backer Accel is in talks to lead the fundraise, according to our source and The Information’s reporting.

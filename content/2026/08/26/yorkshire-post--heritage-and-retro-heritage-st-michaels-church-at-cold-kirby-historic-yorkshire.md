@@ -10,6 +10,11 @@ description: A historic church in Cold Kirby that was recently designated as a G
   II listed building by Historic England will now be given a new future through a
   National Lottery Heritage Fund of £122,760.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQzOGYzODZmLWEzN2YtNGU2NC1hZTJhLTZmNTMzOTE4NjZkNzpkOGM0YWRhNC03YjM4LTRhZmUtOGVkMS0yMzlhMTNhOTRlODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # St Michael’s Church at Cold Kirby: Historic Yorkshire church recently designated as Grade II listed building to be given new lease of life after closure through £122,760 grant

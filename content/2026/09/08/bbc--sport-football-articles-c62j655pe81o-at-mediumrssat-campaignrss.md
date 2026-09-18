@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Aston Villa finally found their shooting boots with three goals at Club
   Brugge - but their win was not straightforward.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d692/live/76f5ea40-abc9-11f1-a601-7d96c5d5b6ea.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Emi Buendia and Joao Gomes](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ef22/live/c18a0230-abba-11f1-be3c-77d601a01c16.jpg)

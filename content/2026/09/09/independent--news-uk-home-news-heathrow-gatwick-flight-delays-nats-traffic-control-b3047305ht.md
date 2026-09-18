@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: With problems mounting again for the UK’s air traffic control provider,
   Alex Ross looks at the warning signs from the last major meltdown in 2023
 image: https://static.independent.co.uk/2026/09/09/13/2294307059..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 It was shortly after 1pm on Tuesday afternoon when it first emerged something had gone badly wrong.

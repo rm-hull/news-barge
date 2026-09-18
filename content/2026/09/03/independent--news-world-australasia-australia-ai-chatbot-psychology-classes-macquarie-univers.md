@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:21Z'
 published: '2026-09-03T00:00:00Z'
 description: Academics say using AI for teaching may create ‘damaging issues’
 image: https://static.independent.co.uk/2026/09/02/06/2206939311..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Education & Learning
 ---
 
 An Australian university has introduced an AI chatbot into the weekly teaching of two compulsory psychology subjects, in a move that academics fear could be “damaging”.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A bargain shop in Whitby has revised its expansion plans in the town
   after a series of objections from local groups and council planners.
 image: https://www.gazetteherald.co.uk/resources/images/21432727.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A bargain shop in Whitby has revised its expansion plans in the town after a series of objections from local groups and council planners.

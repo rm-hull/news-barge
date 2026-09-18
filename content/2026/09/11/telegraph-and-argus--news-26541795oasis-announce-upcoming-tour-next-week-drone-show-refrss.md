@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Oasis is expected to announce a new tour next week after a drone show
   at Manchester’s Joie Stadium sparked excitement among fans.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437888.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 *(Image: Peter Byrne/PA Wire)*

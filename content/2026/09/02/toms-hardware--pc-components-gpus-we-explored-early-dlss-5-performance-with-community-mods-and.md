@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A single 12V-2x6 plug might not deliver enough juice to let DLSS 5 run
   free.
 image: https://cdn.mos.cms.futurecdn.net/CBBS7c4u3Y3LJcY55ryv2W-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![A GeForce RTX 5090 graphics card](https://cdn.mos.cms.futurecdn.net/CBBS7c4u3Y3LJcY55ryv2W.jpg) 

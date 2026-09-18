@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Lionel Messi is fined by Major League Soccer after slapping Philadelphia
   Union's Quinn during Inter Miami's draw on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/979c/live/ca9f36a0-9dfb-11f1-898b-91bf436c749f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Quinn Sullivan puts his head to Lionel Messi's forehead during a game](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/979c/live/ca9f36a0-9dfb-11f1-898b-91bf436c749f.jpg)

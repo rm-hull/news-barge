@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T07:27:31Z'
 published: '2026-09-13T00:00:00Z'
 description: The re-opened Sam Smith’s pub, the Wellington Inn, is the toast of York.
 image: https://www.gazetteherald.co.uk/resources/images/21441172.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A re-opened back street Sam Smith’s pub is the toast of York.

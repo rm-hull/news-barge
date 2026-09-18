@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: The rapid development of artificial intelligence has sparked renewed
   debate about its risks, with both the United States and China expressing concerns
 image: https://static.independent.co.uk/2026/09/15/12/China_AI_What_To_Know_1786_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 As the rapid development of artificial intelligence triggers a renewed debate about its risks, the United States and China keep racing to develop increasingly powerful models even as they express their own concerns.

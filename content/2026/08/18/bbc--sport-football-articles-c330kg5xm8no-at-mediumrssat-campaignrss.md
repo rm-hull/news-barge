@@ -10,6 +10,10 @@ description: Bayern Munich midfielder Jamal Musiala says he is being treated for
   "neurological dysfunction" after collapsing during a match for the second time in
   a four-day period.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da05/live/27df2cc0-9b37-11f1-a794-9d45cb2a51de.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Jamal Musiala is helped off the pitch](https://ichef.bbci.co.uk/ace/standard/719/cpsprodpb/da05/live/27df2cc0-9b37-11f1-a794-9d45cb2a51de.jpg)

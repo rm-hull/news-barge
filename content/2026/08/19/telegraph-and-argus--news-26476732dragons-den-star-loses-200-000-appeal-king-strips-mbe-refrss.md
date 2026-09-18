@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Dragons' Den spin-off star has lost a contempt appeal in a £200,000
   dispute after King Charles III stripped her of an MBE.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337625.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: John Walton / PA)*

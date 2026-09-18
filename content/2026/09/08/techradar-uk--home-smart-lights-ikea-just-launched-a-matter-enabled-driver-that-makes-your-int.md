@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T22:36:06Z'
 published: '2026-09-08T00:00:00Z'
 description: Dubbelkisel gives you total control over your spot and strip lights.
 image: https://cdn.mos.cms.futurecdn.net/nDEwjGYsNcCja3oH3Mb7Pa-1920-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![Split image of IKEA Dubbelkisel driver on pink background, and IKEA spotlights in wardrobe full of clothes](https://cdn.mos.cms.futurecdn.net/nDEwjGYsNcCja3oH3Mb7Pa.jpg) 

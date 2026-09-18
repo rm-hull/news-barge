@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Speaking in the Commons for the first time since he became Prime Minister,
   Burnham pledged to take “stronger public control” over “essentials”, such as water
 image: https://static.independent.co.uk/2026/09/01/15/2293011864..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has cautioned that his administration would "find it very difficult to reverse" the privatisation of water companies that occurred in 1989, nearly four decades ago.

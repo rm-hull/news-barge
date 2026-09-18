@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Families across the globe share how free books from Parton's Imagination
   Library helped their children.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Arts & Culture
 ---
 
 ![Dolly Parton sits holding a purple children's book with her pink fingernails, wearing a bright yellow suit and matching chunky jewelry against a childlike backdrop with stars and a googly-eyed pillow](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg)

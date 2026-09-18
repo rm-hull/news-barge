@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Tan argues that frontier models themselves trained on public human knowledge
   so access to capable AI should be "a form of public good."
 image: https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801
+categories:
+- Technology & Software
 ---
 
 When it comes to Chinese AI labs using distillation techniques to extract knowledge from frontier model makers, Y Combinator CEO Garry Tan is hoping regulators stay out of it. In fact, he thinks U.S. AI labs should perhaps play the same game.

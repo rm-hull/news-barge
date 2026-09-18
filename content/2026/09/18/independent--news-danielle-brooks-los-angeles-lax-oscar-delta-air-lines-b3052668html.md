@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Writer-director Walter Thompson-Hernández's feature film "If I Go Will
   They Miss Me" explores connection and healing under the LAX flight path
 image: https://static.independent.co.uk/2026/09/18/17/_If_I_Go_They_Will_Miss_Me__Portrait_Session_32524.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Six years ago, jet fuel was dumped from the sky onto a working-class city near Los Angeles International Airport, spattering onto children at an elementary school. For writer and director Walter Thompson-Hernández, who grew up nearby, the incident sparked a coming-of-age story that grapples with the contradictions of life under the LAX flight path.

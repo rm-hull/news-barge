@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Durham's Riverview Kitchen is open over Bank Holiday weekend and boasts
   stunning River Wear views, brunch favourites and a new terrace.
 image: https://www.thenorthernecho.co.uk/resources/images/21378837.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 As people look to make the most of the Bank Holiday weekend, one Durham café is attracting attention not just for what’s on the plate, but for what’s outside the window.

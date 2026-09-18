@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A TELEVISION era with a strong link to West Yorkshire comes to a fitting
   end next week.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21436066.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 A TELEVISION era with a strong link to West Yorkshire comes to a fitting end next week.

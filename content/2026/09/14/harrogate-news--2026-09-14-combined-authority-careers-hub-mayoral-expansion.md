@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The York and North Yorkshire Combined Authority assumes leadership of
   the Careers Hub, expanding work experience access to 50,000 regional students.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/David-Skaith-Mayor-of-York-and-North-Yorkshire-at-a-school-in-North-Yorkshire.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 **HARROGATE** — Regional governance chiefs have confirmed a major structural overhaul of the district’s youth employment infrastructure, placing a multi-agency network directly under localized mayoral command.

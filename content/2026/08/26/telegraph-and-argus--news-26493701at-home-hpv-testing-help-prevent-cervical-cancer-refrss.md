@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A NEW at-home HPV testing kit could help save lives by catching cervical
   cancer early
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368986.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Yorkshire Cancer Research)*

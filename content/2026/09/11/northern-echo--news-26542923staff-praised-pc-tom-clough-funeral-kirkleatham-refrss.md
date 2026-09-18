@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The historic Kirkleatham Walled Garden was transformed into a place of
   remembrance as thousands gathered to pay their respects to PC Tom Clough,…
 image: https://www.thenorthernecho.co.uk/resources/images/21436092.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 As thousands gathered to bid a final farewell to PC Tom Clough, those behind the scenes at Kirkleatham Walled Garden have been praised for helping transform the historic venue into a fitting place of remembrance.

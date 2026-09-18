@@ -9,6 +9,10 @@ description: The Gibbon Conservation Center, just outside Los Angeles, has spent
   decades caring for and protecting some of the world’s most endangered gibbons. ___
   This is a photo gallery curated by AP photo editors.
 image: https://static.independent.co.uk/2026/08/22/17/APTOPIX_Gibbon_Conservation__2681.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Gibbon Conservation Center, just outside Los Angeles, has spent five decades caring for and protecting some of the world’s most endangered gibbons. ___ This is a photo gallery curated by AP photo editors.

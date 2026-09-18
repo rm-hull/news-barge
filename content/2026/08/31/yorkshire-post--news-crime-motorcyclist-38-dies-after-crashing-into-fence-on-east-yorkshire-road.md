@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A 38-year-old motorcyclist has died after his bike left the road and
   crashed into a boundary fence in East Yorkshire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/31/13/12/Fieldend-Lane-in-Estronwick-near-Burton-Pidsea.png?trim=0,63,0,63&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist, 38, dies after crashing into fence on East Yorkshire road

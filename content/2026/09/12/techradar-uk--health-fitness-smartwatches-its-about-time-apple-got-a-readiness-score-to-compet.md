@@ -8,6 +8,8 @@ scraped_at: '2026-09-12T04:26:49Z'
 published: '2026-09-12T00:00:00Z'
 description: I’m not sure I can justify the upgrade yet.
 image: https://cdn.mos.cms.futurecdn.net/4exKnfgy7DRz4ubm7nRKXC-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch Series 12](https://cdn.mos.cms.futurecdn.net/4exKnfgy7DRz4ubm7nRKXC.png) 

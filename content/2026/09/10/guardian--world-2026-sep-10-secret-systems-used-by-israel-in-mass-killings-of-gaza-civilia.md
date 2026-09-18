@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Testimony from Israeli military insiders involved in surveillance and
   remote killings features in documentary produced by the Guardian
 image: https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/283_78_2506_2005/master/2506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48fe9abf10802cae37b14fb346e978bb
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Testimony from 24 Israeli military insiders on the secret systems used in the war on Gaza has been revealed in a new documentary film about the mass killing of Palestinian civilians.

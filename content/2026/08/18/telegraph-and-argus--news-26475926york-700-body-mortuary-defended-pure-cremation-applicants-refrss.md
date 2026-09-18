@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:36:26Z'
 published: '2026-08-18T00:00:00Z'
 description: Plans for a mortuary storing up to 700 bodies in York have been defended.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337978.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 ### What is the Public Notice Portal?

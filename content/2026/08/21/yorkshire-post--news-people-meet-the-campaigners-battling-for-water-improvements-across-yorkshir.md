@@ -9,6 +9,11 @@ description: Whether it’s for just a little paddle to cool your feet, or you i
   on taking the plunge and going for a proper swim, when the weather is as hot as
   it has been this summer there are few things more appealing than an outdoor dip.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjNmYjg2ZjUwLWY0MmEtNDVjNy1iYzEzLTM5ZjIxMzQwNzk0NTo2ZjI3MjkyZS05NTQ4LTQxZjUtYjJiOC1hMmVmZmViZDAwYzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Meet the campaigners battling for water improvements across Yorkshire

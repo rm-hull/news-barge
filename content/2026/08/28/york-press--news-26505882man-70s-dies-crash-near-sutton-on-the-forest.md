@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T06:59:10Z'
 published: '2026-08-28T00:00:00Z'
 description: A man in his 70s has died after a crash on the outskirts of York.
 image: https://www.yorkpress.co.uk/resources/images/21065858.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Craig Manning / Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Hundreds of men, some in balaclavas, try to prevent asylum seekers’ processing,
   two days after similar scenes in Dover
 image: https://i.guim.co.uk/img/media/72f467ceb30e91ce3b124ceaee03fa04639c7ff9/121_0_3838_3072/master/3838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c352a7c8876368916524fe8e6c60377
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Downing Street has condemned the “thuggish and intimidating behaviour” of far-right activists who blocked roads in Portsmouth when a boat carrying asylum seekers arrived in the city, two days after similar scenes in Dover.

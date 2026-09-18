@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The Swift observatory will now re-enter Earth’s atmosphere in a few months,
   after a mission to boost it higher failed
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308888991.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308888991.jpg?w=840)

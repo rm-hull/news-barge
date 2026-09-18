@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Poll suggests younger workers are more likely to call in sick to cover
   a late night or hangover compared to those aged over 55
 image: https://static.independent.co.uk/2025/11/11/9/10/iStock-945263540.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Generation Z employees are more likely to pull a sickie compared to workers aged over 55, a new poll has suggested.

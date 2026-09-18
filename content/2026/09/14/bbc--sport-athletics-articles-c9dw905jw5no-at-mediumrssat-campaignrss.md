@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: British sprinter Amy Hunt is among the female athletes to criticise the
   controversial betting advert starring actress Sydney Sweeney.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'Sydney Sweeney, this is what women in sport look like!' - Hunt on controversial ad

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A cyclist was rushed to hospital after suffering serious injuries in
   a collision with a vehicle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21000461.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

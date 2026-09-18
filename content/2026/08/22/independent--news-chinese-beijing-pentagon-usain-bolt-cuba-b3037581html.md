@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Chinese humanoid robots have set records including beating Usain Bolt's
   100-meter sprint record at the World Humanoid Robot Games in Beijing
 image: https://static.independent.co.uk/2026/08/22/17/APTOPIX_China_Humanoid_Robot_Games_697_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Chinese humanoid robots broke records set by humans, including beating Usain Bolt's 100-meter sprint world record, on the opening day of the Olympics-like World Humanoid Robot Games in Beijing on Saturday.

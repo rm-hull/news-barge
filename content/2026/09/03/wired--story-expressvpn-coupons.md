@@ -9,6 +9,11 @@ description: Learn how to get the best value from your ExpressVPN subscription p
   whether you need a flexible 1-month plan or want to lock in up to 61% savings on
   multi-year deals.
 image: https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/191:100/w_1280,c_limit/WIRED-Coupons-R2_4.png
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ExpressVPN has been through some uncertain times over the past decade, but the current leadership is solid, and it's worth recommending again. In all that time, tumultuous and otherwise, one thing never changed in our testing: ExpressVPN is insanely fast, packed with features, and simple to use. It's our top pick for setting up a router-level VPN, or for anyone who wants to protect multiple devices.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Lee Hardy quit her job and claimed she had been forced to do it by the
   bosses' treatment of her
 image: https://static.independent.co.uk/2026/08/26/10/41/Screenshot-2026-08-26-at-11-24-10.png?trim=15,0,16,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A worker at a UK mattress company sued for disability discrimination after she claimed a mattress fell on her and gave her brain damage.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: More than 300 people have died of Ebola in eastern Congo in the past
   week, according to government data
 image: https://static.independent.co.uk/2026/08/24/14/Congo_Ebola_21639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 More than 300 people died of Ebola in eastern Congo in the past week, one of the highest weekly tolls yet, government data showed Monday, as health workers struggle to catch up with an outbreak that is spreading at unprecedented speed.

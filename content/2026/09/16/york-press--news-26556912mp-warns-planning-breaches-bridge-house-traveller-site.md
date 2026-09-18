@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Residents are becoming increasingly frustrated over alleged breaches
   of planning at a controversial Traveller site in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/17074384.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Matt Simpson)*

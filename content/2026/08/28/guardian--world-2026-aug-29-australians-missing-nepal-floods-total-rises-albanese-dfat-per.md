@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: There are now 41 Australians missing, and four rapid response team members
   are expected to arrive in Kathmandu
 image: https://i.guim.co.uk/img/media/00bc3a6f28120010da82b2d0ba9dd72d6e740880/767_0_3833_3067/master/3833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=232f5c33a8a4ba7e2beca3f15baebfc4
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The number of Australians who were reported missing in the catastrophic Nepal flooding disaster has risen to 41, as one family celebrates after an unaccounted-for woman made contact with them yesterday.

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: The judge said that he could not stop the county sheriff from releasing
   Christian Castro or compel Texas Governor Greg Abbott to sign an extradition warrant
 image: https://static.independent.co.uk/2026/08/27/01/2259275050..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge on Wednesday declined to force Texas to extradite an Immigration and Customs Enforcement officer accused of shooting a man and lying about the incident during the immigration crackdown in Minneapolis.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The much-loved burger bar and restaurant Sloppy's Bar and Kitchen is
   set to open in Castlegate on Friday.
 image: https://www.gazetteherald.co.uk/resources/images/21336350.jpg?type=og-image&xType=0&yType=790
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A much-loved burger bar and restaurant is set to open in the city centre on Friday.

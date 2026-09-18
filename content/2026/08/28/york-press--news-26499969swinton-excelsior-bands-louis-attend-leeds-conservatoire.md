@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A young musician is heading to Leeds Conservatoire after starting out
   in a training band just six years ago.
 image: https://www.yorkpress.co.uk/resources/images/21378037.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: Swinton & District Excelsior Band)*

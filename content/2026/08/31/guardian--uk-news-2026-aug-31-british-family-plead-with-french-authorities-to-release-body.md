@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Jasmeet Wadhwa, who fled Taliban persecution in Afghanistan, lost his
   life while trying to reach UK in April
 image: https://i.guim.co.uk/img/media/f756c1a8f966355255968d706dafdd5f9d663c8f/292_171_1291_1033/master/1291.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05b4e39732d77066a68c6a154f655810
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A British family is pleading with French authorities to release the body of a relative that officials have held for five months after he died in the Channel in April.

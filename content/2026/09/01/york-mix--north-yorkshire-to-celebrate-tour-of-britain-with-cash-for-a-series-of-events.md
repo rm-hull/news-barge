@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:23:58Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/tour-of-britain-2025-pa.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Communities across North Yorkshire have been awarded funding to help them celebrate the arrival of the Lloyds Tour of Britain in the county.

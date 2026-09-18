@@ -9,6 +9,9 @@ description: Meta's new personal AI agent Muse wants access to users' email, cal
   payments, health services, and more — making the company's biggest consumer AI bet
   yet a major test of whether people still trust Meta with their data.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Less than two weeks after Meta agreed to a massive $18 billion multistate settlement in a lawsuit over social media’s consumer harms, the company announced its biggest bet on consumer AI to date — and one that requires significantly more trust than social media ever did. On Tuesday, the company introduced Muse, its new personal AI agent that helps consumers with everyday tasks and projects for users in the U.S.

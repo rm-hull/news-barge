@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: His Majesty's Chief Inspector of Constabulary said too many victims are
   not receiving the quality of service they should expect.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da77/live/4b8540a0-5e98-11f1-926a-77cd300adf90.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A policeman in a high-vis uniform jacket with 'POLICE' written on the back is facing away from the camera. He is wearing a police hat. There are buildings blurred in the background.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/da77/live/4b8540a0-5e98-11f1-926a-77cd300adf90.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The US Geological Survey (USGS) said the disaster was caused by a glacial
   collapse that triggered a vast flow of icy debris.
 image: https://images.euronews.com/articles/stories/09/89/20/07/1200x675_cmsv2_fea505ce-b474-549f-a106-e2cb941bd309-9892007.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- History
 ---
 
 ## The US Geological Survey (USGS) said the disaster was caused by a glacial collapse that triggered a vast flow of icy debris.

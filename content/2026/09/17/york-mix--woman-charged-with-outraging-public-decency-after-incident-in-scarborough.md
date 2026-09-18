@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:23:37Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/york-magistrates-court-close-tower.webp
+categories:
+- Local
+- York
+- News & Politics
+- Society & Culture
 ---
 
 A woman will appear in court today (Thursday) charged with outraging public decency.

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A Grade II estate which was formerly the home of a prestigious private
   school has been sold.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19814914.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A GRADE II estate which was home to a prestigious private school near York has been sold to a Bradford company.

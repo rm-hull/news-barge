@@ -9,6 +9,11 @@ description: The Assad-era government in Syria was constructing a nuclear reacto
   that was configured to produce fissile material for possible use in nuclear weapons,
   according to the International Atomic Energy Agency
 image: null
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 The Assad-era government in Syria was constructing a nuclear reactor that was configured to produce fissile material for possible use in nuclear weapons, the head of the International Atomic Energy Agency said on Monday.

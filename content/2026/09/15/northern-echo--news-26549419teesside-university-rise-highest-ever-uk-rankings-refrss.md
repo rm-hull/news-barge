@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Teesside University has achieved its highest-ever position in the Guardian
   University Guide after climbing 24 places in the latest rankings.
 image: https://www.thenorthernecho.co.uk/resources/images/21454483.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Teesside University has risen 24 places to its highest-ever position in a UK university league table.

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: 'Ups and downs have followed the Marvel Cinematic Universe since 2019’s
   “Avengers: Endgame,” but “Avengers: Doomsday” might just heal all its wounds'
 image: https://static.independent.co.uk/2026/09/02/11/Fall_Film_Preview_-_Avengers__Doomsday_85_49.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Before they were the most-trusted hands behind Marvel’s largest epics, Joe and Anthony Russo presided over a slightly less potent assemblage of talent: the Bluth family of “Arrested Development.”

@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T12:59:42Z'
 published: '2026-09-18T00:00:00Z'
 description: While SpaceX and Tesla may lose rights to use Terafab brand.
 image: https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25.jpg) 

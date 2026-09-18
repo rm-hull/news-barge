@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The once world-leading producer of crude oil has plunged into an energy
   crisis as Kyiv targets its oil processing plants
 image: https://i.guim.co.uk/img/media/5fb46813dd8af9bff6f199fd121ecf1bd5afd2f1/1405_139_6654_5323/master/6654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51eecdc81a3e8fdeceb1a3bdf14ead69
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A sanctioned shadow fleet tanker carries oil from Nato member Turkey to a Russian Baltic port. A deal is signed for Russian oil to be processed in Kazakhstan. Fuel cargoes arrive from India via Egypt. The Kremlin pressures allies to sell it badly needed fuel.

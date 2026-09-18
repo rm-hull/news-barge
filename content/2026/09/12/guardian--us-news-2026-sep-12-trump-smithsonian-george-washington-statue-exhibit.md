@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Trump, again trying to curate museum, says exhibit would stay until 2032
   for 300th anniversary of Washington’s birth
 image: https://i.guim.co.uk/img/media/94ebbf7ce6382a58fb86ca923e3d7490cefac75f/669_0_4543_3635/master/4543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcbdca40c26b9a83d0fc3678c34dc7c4
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Donald Trump asked the Smithsonian Institution to install a 30ft “Colossus statue” of George Washington outside the National Museum of American History, and a special exhibit honoring the nation’s first president, in a social media post late on Friday.

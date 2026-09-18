@@ -8,6 +8,8 @@ scraped_at: '2026-09-13T07:25:52Z'
 published: '2026-09-13T00:00:00Z'
 description: Here's what brands like Dreame, iRobot Roomba and Dyson have cooking
 image: https://cdn.mos.cms.futurecdn.net/aGXLKSWdx3N5LVn5XtQnsa-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Three different robot vacuums](https://cdn.mos.cms.futurecdn.net/aGXLKSWdx3N5LVn5XtQnsa.jpg) 

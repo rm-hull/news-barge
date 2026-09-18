@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Plug-in solar panels offer reduced bills and can help boost renewable
   energy on Great Britain's grid, but concerns around their safety remain
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312685605.jpg?w=840)

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Infantino was informed in late July that an investigation was being launched
   into Fifa’s ‘sustained campaign’ to curry favour with Donald Trump
 image: https://static.independent.co.uk/2026/07/07/8/13/GettyImages-1024850174.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fifa president Gianni Infantino has failed to respond to a request to appear before the United States House Judiciary Committee or supply documents sought by one of its members more than a month after the deadline passed, the Press Association understands.

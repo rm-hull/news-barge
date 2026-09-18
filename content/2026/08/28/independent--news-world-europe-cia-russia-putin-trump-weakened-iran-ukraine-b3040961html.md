@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Capitalising on the Hormuz crisis to ramp up action in Ukraine will have
   consequences, Ratcliffe warns Putin in secret meeting
 image: https://static.independent.co.uk/2026/08/26/12/2291572781..?trim=91,0,91,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vladimir Putin believes Donald Trump has been “weakened” by the war in Iran and this could allow the Russian president to ramp up aggression in Europe, US intelligence has indicated.

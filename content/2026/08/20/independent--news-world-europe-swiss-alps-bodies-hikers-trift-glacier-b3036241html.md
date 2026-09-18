@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:10Z'
 published: '2026-08-20T00:00:00Z'
 description: The pair went missing in 1992
 image: https://static.independent.co.uk/2026/08/20/10/14/Triftgletscher01-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The bodies of two Belgian climbers who vanished in the Swiss Alps over three decades ago have been recovered, authorities have confirmed.

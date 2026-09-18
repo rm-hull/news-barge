@@ -9,6 +9,10 @@ description: A weekend of steam trains, real ales and live music is coming to th
   Yorkshire Dales as the Embsay & Bolton Abbey Railway gets set to host its Branch
   Line Weekend & Beer Festival.
 image: https://mmo.aiircdn.com/409/6a8ef3b07ba4a749cd2.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef3b07ba4a749cd2.jpg) 

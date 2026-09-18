@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Dolphins were spotted playing off Redcar beach on September 14 after
   a North East MP shared footage of them leaping out of the water.
 image: https://www.thenorthernecho.co.uk/resources/images/21449305.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Dolphins were spotted playing off Redcar beach on September 14 after a North East MP shared footage of them leaping from the water.

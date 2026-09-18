@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Tensions are mounting between the Pentagon and Congress over the flow
   of information to lawmakers about the U.S. military’s priorities
 image: https://static.independent.co.uk/2026/09/01/12/2242927216..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Friction is mounting between Congress and the Pentagon over the flow of information regarding American military priorities, with lawmakers across party lines accusing a senior defense official of opacity.

@@ -10,6 +10,10 @@ description: From China Miéville to Brandon Sanderson via a tribute to Ursula K
   Guin, there are some really huge names with new sci-fi novels out this month - as
   well as a new Doctor Who tale, says Alison Flood
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI309008840.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![Ursula K. Le Guin](https://www.newscientist.com/wp-content/uploads/2026/08/SEI309008840.jpg?w=840)

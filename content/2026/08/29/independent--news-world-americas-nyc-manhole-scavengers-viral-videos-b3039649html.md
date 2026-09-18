@@ -9,6 +9,10 @@ description: Three men mysteriously emerged from a Midtown Manhattan manhole las
   week — in at least the fourth incident involving someone venturing into the Big
   Apple’s sewer system this summer
 image: https://static.independent.co.uk/2026/08/26/19/44/NYC-Manhole-people.jpeg?trim=137,296,41,234&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 People keep popping out of New York City sewers — and no one knows why.

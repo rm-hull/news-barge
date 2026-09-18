@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: A village near Ripon is to host an event revealing how the North bounced
   back from the brutal consequences of William the Conqueror’s invasion.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjNlYjk5OWZhLTZiZDctNDY5Ny05MmUyLTliOTg4ZmI1YTg2ZDozOTNlN2FiNS03MmM4LTRlNzQtYWM2NC1lNGMzZDMyZGQ5NmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # How 'Harrying of the North’ by William the Conqueror’s army affected Ripon area's greatest historic site

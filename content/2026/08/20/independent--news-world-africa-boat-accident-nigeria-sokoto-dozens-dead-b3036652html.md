@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A boat capsized in a river in Nigeria’s northwestern Sokoto state, leaving
   dozens dead
 image: https://static.independent.co.uk/2026/08/20/20/oLHVxvrr7ZJ9Pt__7hF9MXcD-0nS8XK_i_FyzjdVceLQvWNvZgODxJAvHQqqlpeHZY_1BytbNJrsyLftNy1Af7otV7eyjCHhBfac..?trim=73,0,73,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least 47 people have died after a boat capsized in a river in Nigeria’s northwestern state of Sokoto on Thursday, according to officials and local residents.

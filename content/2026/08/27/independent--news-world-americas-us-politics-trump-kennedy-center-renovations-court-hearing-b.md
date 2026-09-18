@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Judge will decide whether Trump-controlled board violated court order
   blocking president’s name from the facade
 image: https://static.independent.co.uk/2026/08/27/22/2026-08-27T204157Z_1298303741_RC287NAYTBZI_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-COURT.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 The Kennedy Center’s Donald Trump-dominated board is trying to illegally flout court orders that block the president from sticking his name on the building, according to the legal team fighting to keep his hands off the venue.

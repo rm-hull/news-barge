@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Plans for a holiday park with 32 chalets at the site of a former York
   pub have been lodged.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZmNTAxY2VjLTRlMjYtNDBiOS04ZTYyLTkwNjVmZTQ4ZTdhOTo0NDU0ZDI5NS0xNmU4LTQ1NWMtYTUxZS1iMzQ5ZWY4MzRiNzE=.jpg?crop=3:2,smart&trim=&width=1118&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Plans lodged for 32-chalet holiday park at site of former York pub

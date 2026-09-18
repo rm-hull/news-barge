@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Presidential deputy chief of staff Iryna Mudra dismissed day after former
   defence minister called for wartime election
 image: https://i.guim.co.uk/img/media/3ad34a2f1bf432f48e58f951effb20d0fc3e6d49/376_0_4646_3715/master/4646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2c7f5f65b33438494a86e87811eaa23
+categories:
+- UK
+- News & Politics
 ---
 
 Ukraine’s president Volodymyr Zelenskyy has fired a senior aide amid a fresh corruption investigation – one day after a former defence minister warned the country was facing “a crisis of governance” and needed to hold a wartime presidential election.

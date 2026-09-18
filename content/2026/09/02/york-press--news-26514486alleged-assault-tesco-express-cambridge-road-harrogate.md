@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:58Z'
 published: '2026-09-02T00:00:00Z'
 description: A person has allegedly been attacked inside a Tesco in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21400062.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: North Yorkshire Police)*

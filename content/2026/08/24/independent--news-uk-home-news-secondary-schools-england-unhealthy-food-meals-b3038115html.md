@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Schools were found to sell crisps, chocolate and pastries instead of
   nuts, fruit and vegetables as snacks
 image: https://static.independent.co.uk/2025/06/04/22/9b19ecc0f8efebae07278b326d2ff853Y29udGVudHNlYXJjaGFwaSwxNzQ5MTI5NjM1-2.80132816.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Health & Fitness
 ---
 
 Most secondary schools in England are serving chicken nuggets, hash browns, chocolate desserts and crisps too often, a new report has revealed.

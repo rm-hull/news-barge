@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Ash Panesar is set to make a comeback to EastEnders and bring "new challenges"
   for her family to take on.
 image: https://www.yorkpress.co.uk/resources/images/20749673.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 *(Image: PA)*

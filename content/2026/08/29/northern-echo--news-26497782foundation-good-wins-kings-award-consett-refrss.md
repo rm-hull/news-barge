@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Foundation For Good in Consett, County Durham, has received The King’s
   Award for Voluntary Service, recognising its volunteers’ life-changing…
 image: https://www.thenorthernecho.co.uk/resources/images/21377353.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

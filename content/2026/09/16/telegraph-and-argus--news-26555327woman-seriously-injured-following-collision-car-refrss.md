@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:34Z'
 published: '2026-09-16T00:00:00Z'
 description: A woman was seriously injured following a collision with a car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17612448.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Archive)*

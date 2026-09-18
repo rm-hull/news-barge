@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: PC Mason O’Connor dismissed following Panorama film showing misogyny
   and racism at London police station
 image: https://i.guim.co.uk/img/media/68f5af0147e8182a8918ef4309451fc5e5cf7a90/544_0_6664_5331/master/6664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8dea437ff75ae0f76aabccdb45463b29
+categories:
+- UK
+- News & Politics
+- True Crime
+- Film & TV
 ---
 
 A 13th serving Metropolitan police officer has been dismissed in relation to an undercover BBC investigation into misogyny and racism at Charing Cross police station.

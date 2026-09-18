@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:32:41Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/10/traffic-chaos-parking-problems-york-designer-outlet-christmas-pd.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A seasonal parking ban in place during a major York shopping centre’s annual event could be enforced year-round under council plans.

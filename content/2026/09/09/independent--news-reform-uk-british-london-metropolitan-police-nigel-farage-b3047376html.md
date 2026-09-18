@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: British police say they have opened a criminal investigation into allegations
   anti-immigration party Reform UK broke rules against foreign donations
 image: https://static.independent.co.uk/2026/09/09/15/Britain_Reform_Party_Conference_53_67.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 British police said Wednesday that they have opened a criminal investigation into allegations that anti-immigration party Reform UK broke rules against foreign donations.

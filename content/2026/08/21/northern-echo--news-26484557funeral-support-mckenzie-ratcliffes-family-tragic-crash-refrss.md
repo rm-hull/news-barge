@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: More than £4,400 has been raised to help the family of North Shields
   teenager McKenzie Ratcliffe after his tragic death in an electric motorcycle…
 image: https://www.thenorthernecho.co.uk/resources/images/21354489.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Provided)*

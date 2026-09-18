@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:54:17Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/yorkshire-trading-company-baxtergate-whitby-numminen-ldrs.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 A bargain shop in Whitby has revised its expansion plans in the town after a series of objections from local groups and council planners.

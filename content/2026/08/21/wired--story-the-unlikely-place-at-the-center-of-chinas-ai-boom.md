@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Cheap energy, abundant land, and proximity to Beijing have turned a city
   in Inner Mongolia into a crucial hub for data centers.
 image: https://media.wired.com/photos/6a86349028fa0a4f102bcd1b/191:100/w_1280,c_limit/Made-in-China-Unlikely-Place-at-Center-of-China-AI-Boom-Business.jpg
+categories:
+- Technology & Software
+- Science
+- History
 ---
 
 Travel just two hours west of Beijing by train, and you’ll find yourself surrounded by the rolling grasslands and ancient cinder cones of Inner Mongolia. This vast, arid land has long been China’s capital of sheep farming and coal mining, but over the last few years, it has become the hottest place in the country to build an AI data center.

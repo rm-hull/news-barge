@@ -10,6 +10,10 @@ description: Alex Jones won a Texas court ruling that reduced one of the defamat
   lawsuit judgments against him for calling the Sandy Hook Elementary School shooting
   massacre a hoax by more than $40 million
 image: https://static.independent.co.uk/2026/08/21/16/Newtown_Shooting_Infowars_65658.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Conspiracy theorist Alex Jones is still under orders to pay more than $1 billion over his false claims surrounding the 2012 Sandy Hook Elementary School massacre despite a Texas court reducing some of the money awarded to families.

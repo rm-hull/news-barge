@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Ambassador Tom Barrack said the US remained deeply concerned by the strikes
   on Abu Duhur airbase
 image: https://static.independent.co.uk/2026/08/18/12/908345612..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Israeli airstrikes targeting the Abu al-Duhur military airbase in north-western Syria represent an "unnecessary escalation" that fails to advance regional stability, according to the US special presidential envoy for Syria and Iraq.

@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Former Ecuadorian President Lenín Moreno has been sentenced to prison
   for accepting bribes from the Chinese company Sinohydro
 image: https://static.independent.co.uk/2026/08/29/02/Ecuador_Ex-President_Trial_533_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former Ecuadorian President Lenín Moreno was sentenced Friday to 5 years in prison after a court found him guilty of accepting bribes from a Chinese company in exchange for helping it secure a contract to build a hydroelectric plant.

@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: All jobs have been lost at an historic UK haulage firm that has gone
   bust
 image: https://www.thenorthernecho.co.uk/resources/images/19417473.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 *(Image: Supplied)*

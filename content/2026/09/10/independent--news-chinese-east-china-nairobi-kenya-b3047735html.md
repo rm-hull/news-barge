@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Africa’s electric motorcycle imports from China surged nearly 60% in
   the first half of 2026, led by Morocco, Egypt and Algeria
 image: https://static.independent.co.uk/2026/09/10/07/Africa_China_EVs_73864.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Africa’s imports of electric motorcycles and three-wheelers from China rose sharply in the first half of 2026, an increase that highlights a divide in the continent's transition to electric vehicles.

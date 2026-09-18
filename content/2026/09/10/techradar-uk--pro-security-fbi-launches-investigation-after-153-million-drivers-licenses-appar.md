@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T19:06:36Z'
 published: '2026-09-10T00:00:00Z'
 description: A breach too far
 image: https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- True Crime
 ---
 
 ![Outline map of US states in glowing blue with exploding streams of binary data illustrating communication, internet and technology](https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf.jpg) 

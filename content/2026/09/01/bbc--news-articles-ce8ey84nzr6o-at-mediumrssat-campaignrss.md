@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: First Minister John Swinney announced the move in his programme for government,
   alongside plans to cut health boards from 14 to two.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4600/live/f56b4470-a623-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A First Bus driving under the bridge at Glasgow Central station](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4600/live/f56b4470-a623-11f1-a291-b542ee92de7c.jpg)

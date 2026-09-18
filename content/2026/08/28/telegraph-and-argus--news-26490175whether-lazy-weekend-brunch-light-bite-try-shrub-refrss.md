@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: GENERAL Manager Howard Blagbrough tells the Telegraph & Argus about The
   Shrub in Brighouse
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363593.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 GENERAL Manager Howard Blagbrough tells the Telegraph & Argus about The Shrub in Brighouse

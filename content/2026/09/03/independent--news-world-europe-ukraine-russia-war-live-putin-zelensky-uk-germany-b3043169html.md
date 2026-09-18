@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Berlin says it expects Russian response after accusing Kremlin of placing
   explosives-laden drones at Leipzig airport
 image: https://static.independent.co.uk/2026/09/02/12/2292555286..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian former president Dmitry Medvedev has threatened Germany with a “direct strike” on military production sites after Berlin accused Moscow of being behind a drone attack on Leipzig Airport last month.

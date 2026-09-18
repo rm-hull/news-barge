@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Tusk warned that there is a ‘real risk’ that a drone or projectile could
   hit a Nato country
 image: https://static.independent.co.uk/2026/09/17/16/2295117062..?trim=1081,12,781,2859&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Poland’s prime minister Donald Tusk has insisted that his country will not surrender any territory whatsoever in any future conflict with Russia.

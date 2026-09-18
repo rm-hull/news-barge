@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Plans for more than 1,000 homes, a hotel, offices, shops, a park and
   leisure spaces for a major York regeneration scheme are set for a decision.
 image: https://www.yorkpress.co.uk/resources/images/21406161.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## 1,014 homes, hotel, and park at major York regeneration site set for decision

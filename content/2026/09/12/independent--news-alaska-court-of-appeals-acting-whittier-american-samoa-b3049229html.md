@@ -10,6 +10,10 @@ description: Alaska prosecutors are dropping voter misconduct cases against a gr
   of residents born in American Samoa after a state appeals court threw out felony
   charges against a woman who wrongly checked a box saying she was a U.S. citizen
 image: https://static.independent.co.uk/2026/09/12/22/Voting_American_Samoans_6_685.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Alaska prosecutors are dropping voter misconduct cases against a group of residents born in American Samo a after a state appeals court threw out felony charges against a woman who wrongly checked a box saying she was a U.S. citizen.

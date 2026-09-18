@@ -10,6 +10,12 @@ description: Prime Minister Andy Burnham has said the idea of mutualising Yorksh
   Water to bring it under greater public control could be considered as part of wider
   industry reform.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg1MTA2ZDc3LWExMDQtNDJiNy04NTE2LTYxOTljOWIwN2UzZjpjODdjOTg1OC1jYTQ0LTQ2MDUtOTUzOC04MTVkYjk4YzhhOTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Andy Burnham says Yorkshire Water mutualisation 'can be looked at' under industry reform plans

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: There are no quick fixes to turn around a grey and dreary part of York,
   an activist has said ahead of planned improvements worth almost £1m.
 image: https://www.yorkpress.co.uk/resources/images/21431962.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: LDRS)*

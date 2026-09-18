@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The facility near Whitby will be handed back to its landlord after 70
   years of outdoor education.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92de/live/543adf90-959b-11f1-976a-4934d54b5403.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![A single-level white building with a black roof and green wooden beams. The sky is overcast and the centre is surrounded by grass.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/92de/live/543adf90-959b-11f1-976a-4934d54b5403.jpg)

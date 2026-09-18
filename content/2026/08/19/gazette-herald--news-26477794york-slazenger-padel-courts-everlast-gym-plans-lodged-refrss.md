@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Courts for a sport which is rapidly growing in popularity in the UK could
   be coming to a York gym under new plans.
 image: https://www.gazetteherald.co.uk/resources/images/17953691.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Sports
 ---
 
 ### What is the Public Notice Portal?

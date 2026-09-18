@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The Government said the feature is designed to be faster and more secure
   than traditional passwords.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456987.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

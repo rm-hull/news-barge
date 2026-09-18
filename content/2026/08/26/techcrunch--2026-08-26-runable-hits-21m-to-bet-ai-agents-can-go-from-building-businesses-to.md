@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Runable says 60%–70% of its 1 trillion-plus token usage in the last 90
   days came from paying customers.
 image: https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 As artificial intelligence makes it easier than ever to build websites and apps, Indian startup Runable is betting the next opportunity lies in what comes after: finding customers and helping businesses grow. The startup has raised $21 million to expand in that direction.

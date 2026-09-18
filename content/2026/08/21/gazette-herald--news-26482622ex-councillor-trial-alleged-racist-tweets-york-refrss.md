@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A jury at York Crown Court has heard that a serving councillor and former
   town mayor allegedly made a dozen antisemitic tweets over nearly a month.
 image: https://www.gazetteherald.co.uk/resources/images/17766826.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 A serving councillor and former town mayor posted a dozen antisemitic tweets over nearly a month, alleged the prosecution at York Crown Court.

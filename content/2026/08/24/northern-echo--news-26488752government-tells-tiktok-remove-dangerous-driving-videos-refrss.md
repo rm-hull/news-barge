@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The Government has urged TikTok to remove wrong-way driving videos as
   court records show one of the men killed in the A66 crash was awaiting trial.
 image: https://www.thenorthernecho.co.uk/resources/images/21361134.jpg?type=og-image&xType=0&yType=416
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The Government has urged TikTok to remove wrong-way driving videos as court records show one of the men killed in the A66 crash was awaiting trial over alleged crimes against police officers.

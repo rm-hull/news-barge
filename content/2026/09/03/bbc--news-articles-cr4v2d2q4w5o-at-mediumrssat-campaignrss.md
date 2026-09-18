@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: How much attention did you pay to what happened in the world over the
   past seven days?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9df0/live/d4a09b20-a77a-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 **This week, Andy Burnham had his firstPrime Minister's Questions, Iceland voted against restarting talks onjoining the European Union, andVictoria Beckham's fashion and beauty businessmade its first operating profit since it was founded in 2008.**

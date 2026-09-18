@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:47:48Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/11/york-cash-money-sterling.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 An almost £10 million black hole is forecast for City of York Council’s budget after it had to find a similar amount in savings last year, according to new analysis.

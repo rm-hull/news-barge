@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The council leader said he has taken the decision following ‘a recent
   change in my personal circumstances’
 image: https://static.independent.co.uk/2026/09/08/14/2275079499..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A Reform UK council leader has announced he is stepping down after four months in the role.

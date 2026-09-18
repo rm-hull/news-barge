@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A £1bn investment deal in 29 British-made trains destined for Yorkshire’s
   train tracks was signed yesterday between the Government and a Derby-based firm.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI5Mzc1OTUzLWRkODQtNDlhMS04MjU1LWIyNzBiZmViZTE5YjowNjQ1ODZhNC0zZDM1LTRiOTMtOGVkNi0zNjBlNjMxNzdmZTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # New £1bn deal for dual-powered trains destined for Yorkshire

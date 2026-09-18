@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: A Georgian family home dating back to the 18th century has been put on
   the market in Sutton-on-the-Forest - for £800,000.
 image: https://www.gazetteherald.co.uk/resources/images/21293387.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A Georgian home located in an “outstanding village setting” in North Yorkshire has hit the market – for £800,000.

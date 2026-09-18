@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Over 4,000 new homes will be built across West Yorkshire thanks to a
   £441 MILLION grant from Government.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20452025.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

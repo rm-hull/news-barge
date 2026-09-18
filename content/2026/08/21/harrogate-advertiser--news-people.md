@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Get all of the latest People news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Careers & Productivity
 ---
 
 ![The research commissioned by Sykes Holiday Cottages hailed Harrogate hailed for its café and tearoom culture. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQxYzc4Mzc3LTQ4YjktNGEzYS1hMjY3LWIyNDgwNzVmYjhiYjphZmMwNjJjMi01YjA4LTQ2NzYtYmM1OS1kYmM5NDBmNWEwYjQ=.jpg?crop=5:4,smart&trim=&quality=70&width=500)

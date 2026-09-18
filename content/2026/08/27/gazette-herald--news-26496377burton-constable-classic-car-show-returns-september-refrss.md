@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A classic car show is set to return this autumn at Burton Constable Hall,
   following record crowds earlier this year.
 image: https://www.gazetteherald.co.uk/resources/images/21372854.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 A classic car show is set to return this autumn following record crowds earlier this year.

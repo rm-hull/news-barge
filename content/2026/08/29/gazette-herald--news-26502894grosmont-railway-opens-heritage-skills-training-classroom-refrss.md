@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A new Mutual Improvement Classroom supplied by Portakabin has been delivered
   to the North Yorkshire Moors Railway.
 image: https://www.gazetteherald.co.uk/resources/images/21382573.jpg?type=og-image&xType=0&yType=150
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Portakabin)*

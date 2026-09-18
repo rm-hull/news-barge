@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A cash-strapped council's new advertising policy - including for some
   of its lamp posts - could bring in some much-needed cash.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21372811.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 A cash-strapped council’s new advertising policy – including for some of its lampposts – could bring in some much-needed cash.

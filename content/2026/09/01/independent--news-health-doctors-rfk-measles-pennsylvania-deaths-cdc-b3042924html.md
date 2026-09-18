@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: The CDC has been ‘thoroughly remade’ in RFK Jr’s image, a Pittsburgh
   infectious disease physician told The Independent
 image: https://static.independent.co.uk/2026/09/01/17/2292889473..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Pennsylvania doctors have blasted the Trump administration over its decision to erase two measles deaths reported by the state from the federal record.

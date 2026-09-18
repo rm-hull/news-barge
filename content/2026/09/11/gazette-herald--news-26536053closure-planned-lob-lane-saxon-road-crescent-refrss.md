@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: East Riding of Yorkshire Council has announced that Lob Lane, Saxon Road,
   and The Crescent will be closed from October 7.
 image: https://www.gazetteherald.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

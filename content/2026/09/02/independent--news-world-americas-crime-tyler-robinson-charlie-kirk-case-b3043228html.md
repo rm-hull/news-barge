@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Prosecutors said Tyler Robinson shot Charlie Kirk from a rooftop more
   than 400 feet (122 meters) away at the open-air event
 image: https://static.the-independent.com/2026/08/19/16/2026-08-13T201950Z_2091551402_RC2JSLA7FWY0_RTRMADP_3_USA-SHOOTING-KIRK.JPG?trim=36,0,36,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 The murder case against Tyler Robinson, accused of killing Charlie Kirk last year is headed for trial.

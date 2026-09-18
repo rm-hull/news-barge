@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A stalled vehicle caused reported delays of up to 32 minutes on a northbound
   section of the A1 this morning.
 image: https://www.yorkpress.co.uk/resources/images/21433299.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 ## Our live feed has now finished.

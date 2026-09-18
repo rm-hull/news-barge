@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Israeli filmmakers Yuval Abraham and Rachel Szor are premiering their
   documentary “NAZA” at the Venice Film Festival Thursday
 image: https://static.independent.co.uk/2026/09/10/17/Italy_Venice_Film_Festival_Naza_Photo_Call_83823.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Twenty-four Israeli military insiders including intelligence officers and soldiers give insight into the war in Gaza and what they say is the systemic killing of Palestinian civilians in “NAZA,” a documentary that's having its world premiere Thursday at the Venice Film Festival.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Breakdown recovery group’s private equity owners reportedly in talks
   with various suitors to sell company
 image: https://i.guim.co.uk/img/media/8cebb5f8a4e904d20f3f61fde999e30ea40284b2/495_38_1696_1357/master/1696.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fca53470f60710f57dffb51d2614290
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The German-based financial services company Allianz is considering a £5bn takeover swoop for AA, the breakdown recovery group, Sky News has reported.

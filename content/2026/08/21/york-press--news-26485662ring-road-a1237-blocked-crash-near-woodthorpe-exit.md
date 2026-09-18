@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:48:39Z'
 published: '2026-08-21T00:00:00Z'
 description: Delays are mounting on a major road in York after a crash.
 image: https://www.yorkpress.co.uk/resources/images/17879035.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Staff)*

@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: England captain Joe Root is "not too concerned" about his recent modest
   returns with the bat, saying he has "14,000 runs for a reason".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3bd5/live/c365d300-a4a7-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England humble poor Pakistan to confirm series win at Lord's

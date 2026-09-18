@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:56:29Z'
 published: '2026-09-09T00:00:00Z'
 description: Officers give PC Matthew Blades' coffin a guard of honour in Hartlepool.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7fe1/live/01e5c160-ab94-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Matthew Blades smiling into the camera. His head and shoulders are visible and he has light brown short hair which is longer on the top. He has short, dark stubble around his mouth and is smiling with his death. He is wearing a white shirt which is open at the top. He is sitting in a garden in front of the High Level Bridge in Newcastle which is a tall, brown structure with arches along the side of it. There are lots of green plants and grass but on the left there is a brown shipping container. There are black fairy lights strung up above the garden and the sky above is blue.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/7fe1/live/01e5c160-ab94-11f1-aa04-efbf6a882854.jpg)

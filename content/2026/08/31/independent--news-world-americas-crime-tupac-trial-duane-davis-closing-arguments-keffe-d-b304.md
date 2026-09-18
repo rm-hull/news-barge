@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The trial was expected to take longer, with prosecutors originally planning
   to call 35 to 45 witnesses
 image: https://static.the-independent.com/2026/08/31/14/2026-08-31T100017Z_1565821469_RC277NALBYZK_RTRMADP_3_PEOPLE-TUPAC-MURDER-COURT.JPG?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Closing statements are expected Monday in one of hip-hop's most anticipated trials for the man accused of orchestrating the death of Tupac Shakur.

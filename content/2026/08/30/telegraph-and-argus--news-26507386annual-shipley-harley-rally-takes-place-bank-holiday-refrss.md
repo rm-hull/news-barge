@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Hundreds of Harley-Davidson motorbikes roared through the streets of
   a quaint town in the Bradford district today. Here's why.
 image: https://www.thetelegraphandargus.co.uk/resources/images/10324910.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 THE streets of West Yorkshire shook as hundreds of Harley-Davidson motorcycles rumbled into Shipley over the weekend.

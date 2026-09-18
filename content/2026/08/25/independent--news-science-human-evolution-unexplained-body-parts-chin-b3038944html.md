@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The human chin has long been fertile ground for arguments between scientists
   over its purpose
 image: https://static.independent.co.uk/2026/08/25/15/2255716584..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The human body is a machine whose many parts – from the microscopic details of our cells to our limbs, eyes, liver and brain – have been assembled in fits and starts over the four billion years of our history.

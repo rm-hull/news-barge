@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Jaden Wright, 23, has appeared at Teesside Crown Court charged with two
   counts of murder
 image: https://static.independent.co.uk/2026/09/01/8/37/Natalie-McDonald-Valentina-Foster.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Members of the public tried to rescue a seven-year-old and her aunt who died in a house fire, an inquest heard.

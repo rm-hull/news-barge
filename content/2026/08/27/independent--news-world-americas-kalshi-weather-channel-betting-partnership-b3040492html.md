@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The partnership will allow the Weather Company to display Kalshi’s odds
   for various weather events
 image: https://static.independent.co.uk/2026/08/27/16/2026-08-15T143215Z_1876213156_RC2MRMAIUS4T_RTRMADP_3_KALSHI-NEVADA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Kalshi, the popular prediction market website, is partnering with The Weather Company, which will see odds data added to forecasts among a host of other changes, the company announced Thursday.

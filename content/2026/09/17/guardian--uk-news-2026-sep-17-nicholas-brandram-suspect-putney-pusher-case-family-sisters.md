@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: 'Exclusive: Sisters of Nicholas Brandram recount 44-year-old’s deteriorating
   mental health in days before he took his life'
 image: https://i.guim.co.uk/img/media/fcc73a7405db371d260f9c81fa743cd553edc11b/0_42_731_584/master/731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bb1302f70217bd25d18652174e3b87a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Days before Nicholas Brandram, the man suspected of being the “Putney pusher”, killed himself, he told his family that the police investigation was “murdering him”.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The fire has burned around 10,500 acres and is completely uncontained,
   officials say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Plumes of smoke seen over Reno as thousands evacuate due to wildfires

@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T04:27:49Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a1079-york-pre-resurfacing-cyc.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Road users are being warned that a key York road is soon to be hit by roadworks.

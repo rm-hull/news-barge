@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Dubai International Airport reports a sharp drop in passengers during
   the second quarter
 image: https://static.independent.co.uk/2026/08/26/13/Emirates_Dubai_Airport_55256.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Dubai International Airport, one of the world’s busiest hubs, said Wednesday it saw a sharp drop in passengers during the second quarter as the Iran war disrupted air travel and prompted many travelers to choose routes that avoided the Middle East.

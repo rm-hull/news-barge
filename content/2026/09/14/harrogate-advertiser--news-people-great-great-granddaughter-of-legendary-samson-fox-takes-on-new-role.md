@@ -10,6 +10,10 @@ description: A descendant of legendary 19th century Harrogate Mayor Samson Fox i
   to continue the family legacy by taking on a senior role at the Royal Hall Restoration
   Trust last filled by the late Dame Fanny Waterman.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmNjNDhkNmZlLThiNGQtNDhjYi1iMmY3LThkMjU4ZWI0OTNiMzo5OWZiMDMxYi1jNjZjLTQyMjMtYTJmOC1jYzYxZDBhZDBmYjI=.jpg?trim=333,0,667,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Great-great granddaughter of legendary Samson Fox takes on new role at Harrogate's Royal Hall Restoration Trust

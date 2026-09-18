@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:49:04Z'
 published: '2026-09-03T00:00:00Z'
 description: Russians have experienced a summer of turmoil because of the war in Ukraine
 image: https://static.independent.co.uk/2026/09/03/05/Russia_Summer_of_Turmoil_6534_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 There were long lines at gas pumps, turning each fill-up into an ordeal. Flights to vacation destinations were canceled, delayed or rerouted. Online orders were disrupted as e-commerce hubs were set ablaze by buzzing drones.

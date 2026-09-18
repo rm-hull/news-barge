@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: New York hard rock band Spread Eagle will perform in Harrogate as part
   of its latest UK tour.
 image: https://mmo.aiircdn.com/409/6a99717a2134d27949b.jpg
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 ![](https://mmo.aiircdn.com/409/6a99717a2134d27949b.jpg) 

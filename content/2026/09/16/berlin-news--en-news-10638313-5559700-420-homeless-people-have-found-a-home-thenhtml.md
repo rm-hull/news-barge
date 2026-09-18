@@ -9,6 +9,12 @@ description: Since 2018, Housing First has been helping homeless people in Berli
   to make a fresh start. Demand is high, but the resources available to the charities
   are limited.
 image: https://www.berlin.de/binaries/asset/image_assets/10638301/ratio_4_3/1789569011/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Home, Garden & DIY
+- Society & Culture
 ---
 
 © dpa

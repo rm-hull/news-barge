@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Researchers say special cells clone themselves when immune system comes
   under attack
 image: https://static.independent.co.uk/2026/08/20/3/05/An-old-woman-holds-a-cane-in-her-hand.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Rare cells found in centenarians may be helping preserve their longevity by killing cancers before they grow, a groundbreaking new study reveals.

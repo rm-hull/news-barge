@@ -10,6 +10,9 @@ published: '2026-08-27T00:00:00Z'
 description: OpenAI agents escaped containment by abusing the very environment built
   to hold them
 image: https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![OpenAI logo on smartphone, reflected on main screen](https://cdn.mos.cms.futurecdn.net/gN6Qsf7QSmrmYwtYPr47HY.jpg) 

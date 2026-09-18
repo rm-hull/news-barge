@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The vaccine has been hailed as a ‘significant milestone’ in tackling
   the virus behind the common cold
 image: https://static.independent.co.uk/2026/08/27/08/01KD2EVKE1DSSCNCN49PBH70G1.jpg?trim=27,0,27,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 An early trial of a new vaccine has shown “encouraging” signs that it could protect against the common cold, scientists have said.

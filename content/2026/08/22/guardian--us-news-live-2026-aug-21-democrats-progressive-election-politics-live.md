@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: President in South Carolina celebrates supreme court’s temporary order
   to allow construction to continue and discusses war in Iran
 image: https://i.guim.co.uk/img/media/f6453d4e6413e28623b152ad5926800a8455eaca/531_0_2985_2388/master/2985.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=234a78e513b217044a87c922d824c50c
+categories:
+- UK
+- News & Politics
 ---
 
 Trump: 'I view the strait of Hormuz as American territory'

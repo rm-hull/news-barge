@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Rightwing activists faced a heavy police presence and counter-demonstrations
   to their march against small boat crossings
 image: https://i.guim.co.uk/img/media/ded57656efdc69f4d95ccc4e6d56488a4b3aec95/1591_515_6186_4949/master/6186.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebbe1b215981837f7da0b5a536fc9592
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Two men and a teenage boy have been arrested in Portsmouth at a far-right protest against immigration.

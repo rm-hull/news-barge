@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Reform UK leader promises to deliver on key priorities in the first
   100 days of government, if the party wins power.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0932/live/294cfdd0-a88e-11f1-96fc-dd627484b0e6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Nigel Farage holds up his hands as he gives his conference speech from behind a podium with Reform UK's logo.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0932/live/294cfdd0-a88e-11f1-96fc-dd627484b0e6.jpg)

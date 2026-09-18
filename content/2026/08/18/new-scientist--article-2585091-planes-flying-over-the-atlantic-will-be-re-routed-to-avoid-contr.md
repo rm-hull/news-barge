@@ -10,6 +10,9 @@ description: Operation Blue Skies is the world’s first trial to deploy contrai
   measures across an entire airspace, aiming to lower the climate impact of flights
   on a large scale
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308675226.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308675226.jpg?w=840)

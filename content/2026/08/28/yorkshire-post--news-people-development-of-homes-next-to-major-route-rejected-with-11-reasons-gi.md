@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A development of homes next to a major route into Baildon have been refused
   – with planning officers giving 11 reasons why they should not go ahead.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ1YjVkMjhhLThiYWItNGY2Ny05NjlmLWZiMDJkNGJhMzIzYTplNzQ0NDU5OS00MGFmLTQ4ZTUtODZjNC1kZGFiNzNjYjIyYzM=.jpg?crop=3:2,smart&trim=&width=973&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Development of homes next to major route rejected with 11 reasons given

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Claire Lomas was fatally injured while filming a series for Apple in
   Jordan
 image: https://static.independent.co.uk/2026/08/20/13/01M0ARRN9QJ1HFCK9CR55ZP577.jpg?trim=71,0,71,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 A coroner has concluded that the death of a paraplegic charity fundraiser, who crashed a microlight while filming a series for Apple, was accidental.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: 'Costa begins a four-week tour of EU capitals to gauge leaders’ appetite
   to compromise on a deal for the bloc’s common budget by year-end. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/69/42/1200x675_cmsv2_999d56d5-0538-5795-a803-8fa8ab2e1dc0-9886942.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Costa begins a four-week tour of EU capitals to gauge leaders’ appetite to compromise on a deal for the bloc’s common budget by year-end.

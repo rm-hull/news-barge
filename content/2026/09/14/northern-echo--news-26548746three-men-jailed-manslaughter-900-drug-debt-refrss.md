@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Cashman, Moor and Bradshaw jailed for manslaughter after Aiden Matthews
   was assaulted over a £900 drug debt in Teesside.
 image: https://www.thenorthernecho.co.uk/resources/images/21452078.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Three men who lured a man into an alleyway on New Year’s Eve and assaulted him over a £900 drug debt have been jailed.

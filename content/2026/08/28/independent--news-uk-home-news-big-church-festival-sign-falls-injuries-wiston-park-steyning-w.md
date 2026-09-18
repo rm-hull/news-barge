@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:14:08Z'
 published: '2026-08-28T00:00:00Z'
 description: Christian festival cancelled as organisers ‘devastated’ by tragic incident
 image: https://static.independent.co.uk/2026/08/28/17/25/big-church.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A man has died and at least six others have been injured after a sign fell on visitors at a Christian festival in West Sussex.

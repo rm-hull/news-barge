@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Aldi is slashing its viral Le Grand Poulet Rosé Magnum to £9.99 – but
   shoppers face a three-bottle limit while stocks last.
 image: https://www.yorkpress.co.uk/resources/images/21373356.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Aldi shoppers now face a three-per-person limit on one popular item

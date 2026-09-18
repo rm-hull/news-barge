@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T20:40:18Z'
 published: '2026-08-20T00:00:00Z'
 description: Ground control to major hack
 image: https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![NASA](https://cdn.mos.cms.futurecdn.net/S52AXmcF8SwjhEHAXXYc7k.jpg) 

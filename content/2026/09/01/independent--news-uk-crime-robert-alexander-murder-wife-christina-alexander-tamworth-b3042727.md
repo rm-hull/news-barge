@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Robert Alexander was sentenced for the murder of his wife on Tuesday
   at Stafford Crown Court
 image: https://static.independent.co.uk/2026/09/01/12/05/a53ef9e0-7092-11f1-b1db-af71d47507d6-copy-8ed83025.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 A man who murdered his wife by stabbing her 77 times, strangling her, and striking her with a dog food can has been sentenced to life imprisonment with a minimum term of 20 years.

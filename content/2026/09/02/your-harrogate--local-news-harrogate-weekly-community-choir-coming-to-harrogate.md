@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A new community choir is opening in Harrogate and inviting singers of
   all abilities to get involved.
 image: https://mmo.aiircdn.com/409/6a97c7908d1b15c55c5.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c7908d1b15c55c5.jpg) 

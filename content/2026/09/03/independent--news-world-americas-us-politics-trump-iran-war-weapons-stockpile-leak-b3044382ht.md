@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T22:30:32Z'
 published: '2026-09-03T00:00:00Z'
 description: The White House and NATO have denied a shortage of critical weapons
 image: https://static.independent.co.uk/2026/03/10/8/36/U-S--Navys-Arleigh-Burke-class-guided-missile-destroyer-USS-Frank-E--Petersen-Jr--fires-a-Tomahawk-L.jpeg?trim=0,280,0,279&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Trump has denied persistent reports that the Iran war has dangerously depleted the U.S. weapons stockpile, blasting the media for what he claimed was false reporting on the state of the American arsenal.

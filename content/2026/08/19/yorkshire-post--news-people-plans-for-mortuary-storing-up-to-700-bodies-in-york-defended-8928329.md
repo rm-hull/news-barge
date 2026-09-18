@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Plans for a mortuary storing up to 700 bodies in York have been defended
   by the company behind them.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE0ZWFiMmYxLWZjOTMtNDk0ZS04Mzg3LWYyYzQ2ZWQyNDgzOTo1MmQxMTJiOS01NDQ0LTQ3N2QtODBhNi03NDc4M2EyYmViNWM=.jpg?crop=3:2,smart&trim=&width=979&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Plans for mortuary storing up to 700 bodies in York defended

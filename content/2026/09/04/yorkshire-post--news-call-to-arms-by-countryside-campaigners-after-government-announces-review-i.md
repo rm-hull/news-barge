@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: The UK's largest shooting organisation is urging members to respond to
   a call for evidence, which they say is likely to lead to a crackdown on game shooting.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1NTc3OTEzLWUxYzAtNDNmNy1hNzk5LWM0NjM1NjAxYTIyZjoyMGFmNTUxYi0zZTRiLTQ2NzctOGRhZS1lZTI2ODlhOGZiOGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- News & Politics
 ---
 
 # Call to arms by countryside campaigners after government announces review into shooting gamebirds

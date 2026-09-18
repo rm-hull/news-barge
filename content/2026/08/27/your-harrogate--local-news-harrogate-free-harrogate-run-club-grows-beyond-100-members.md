@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:21Z'
 published: '2026-08-27T00:00:00Z'
 description: A popular free Harrogate running club has grown to more than 100 members.
 image: https://mmo.aiircdn.com/409/6a900251a11db3d5ca6.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a900251a11db3d5ca6.jpg) 

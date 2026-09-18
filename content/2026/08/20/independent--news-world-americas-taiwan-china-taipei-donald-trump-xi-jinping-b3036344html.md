@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Taiwan's government has proposes a record-high defense budget of over
   1 trillion Taiwan dollars, or $35 billion, for next year
 image: https://static.independent.co.uk/2026/08/20/13/Taiwan_Defense_54192.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Taiwan 's government on Thursday proposed a record-high defense budget of 1.12 trillion Taiwan dollars ($35 billion) for next year, signaling intensifying efforts to deter China's military threats.

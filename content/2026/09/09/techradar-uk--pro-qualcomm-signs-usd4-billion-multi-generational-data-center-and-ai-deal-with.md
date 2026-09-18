@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T12:56:32Z'
 published: '2026-09-09T00:00:00Z'
 description: Amazon will be using Qualcomm hardware to power future data centers
 image: https://cdn.mos.cms.futurecdn.net/KXq3GVvMF8cZSfbx7ukdYA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![AWS re:Invent 2025](https://cdn.mos.cms.futurecdn.net/KXq3GVvMF8cZSfbx7ukdYA.jpg) 

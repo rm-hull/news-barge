@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Britain’s largest car manufacturer has struggled with a cyber attack,
   Trump’s tariffs and Chinese rivals’ cheaper cars
 image: https://static.independent.co.uk/2026/09/07/10/2238334459..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Jaguar Land Rover has announced plans to cut around 4,000 jobs over the next two years as it looks to save £1.7 billion in costs.

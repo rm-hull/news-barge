@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: IKEA's New Lower Prices scheme has been introduced at its 22 UK stores,
   which applies to plenty of furniture items
 image: https://www.gazetteherald.co.uk/resources/images/21389803.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Shopping & Deals
+- Business & Entrepreneurship
 ---
 
 *(Image: IKEA)*

@@ -10,6 +10,10 @@ description: Video. New videos filmed at the Zamboye mining site on 18 August ap
   to show the moment a landslide swept through an artisanal gold mine in the Central
   African Republic, burying miners beneath earth and sand.
 image: https://images.euronews.com/articles/stories/09/88/39/66/1200x675_cmsv2_7cc92447-495a-53e7-a6d5-e582080345b1-9883966.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 The footage captures the moment the ground suddenly gives way at the Zamboye artisanal gold mine, engulfing people gathered nearby. Freddy Metchoubatchou was on site when the landslide struck on 18 August and filmed the collapse from close range. The mine is in Nana-Mambéré prefecture, about 50 kilometres from Baboua near the Cameroonian border. Prosecutors in Baboua said several underground tunnels may have collapsed, causing the disaster.

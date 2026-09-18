@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: DOG owners who miss restriction signs in public spaces could face fines
   of up to £1,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21338991.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Getty Images/iStockphoto)*

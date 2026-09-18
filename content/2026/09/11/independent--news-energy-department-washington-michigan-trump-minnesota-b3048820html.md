@@ -9,6 +9,9 @@ description: A federal court is declaring that the Energy Department exceeded it
   authority when it forced a Michigan coal-fired power plant to stay open past its
   scheduled retirement date last year
 image: https://static.independent.co.uk/2026/09/11/17/Trump_Coal_Plant_77_26.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power to stay open past its scheduled retirement date last year.

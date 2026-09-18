@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The U.S. military says it’s striking targets in Iran as hostilities flare
   again after a month without military action
 image: https://static.independent.co.uk/2026/09/01/17/Trump_92367.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 U.S. military says it's hitting targets in Iran as hostilities flare again

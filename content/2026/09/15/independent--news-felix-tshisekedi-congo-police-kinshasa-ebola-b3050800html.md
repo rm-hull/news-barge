@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Police in Congo have broken up opposition protests using tear gas against
   hundreds of demonstrators
 image: https://static.independent.co.uk/2026/09/15/21/Congo_Protest_5_571.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Police in Congo fired tear gas Tuesday to disperse hundreds of people demonstrating against constitutional changes they said could allow President Felix Tshisekedi to seek a third term in office.

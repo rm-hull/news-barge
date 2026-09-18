@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Leaseholders are demanding answers after being charged nearly £40,000
   for urgent repairs that have yet to be carried out.
 image: https://www.thenorthernecho.co.uk/resources/images/21364910.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

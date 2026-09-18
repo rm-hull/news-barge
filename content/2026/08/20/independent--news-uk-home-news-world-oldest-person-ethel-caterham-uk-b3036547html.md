@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Ethel Caterham has lived through the Titanic disaster, both world wars,
   the fall of the Berlin Wall and six monarchs
 image: https://static.independent.co.uk/2025/08/21/09/21092042-01d0832d-fb96-4e56-9e48-641a43fda59a.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 The world’s oldest person is set to celebrate her 117th birthday on Friday after a year of “many firsts”.

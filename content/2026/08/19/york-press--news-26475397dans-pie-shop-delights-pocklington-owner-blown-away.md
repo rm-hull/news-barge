@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Popular Pocklington piemaker Dan Leaver says he is ‘blown away’ by the
   first day of trading at his new pie shop.
 image: https://www.yorkpress.co.uk/resources/images/21337233.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Piemaker 'blown away' by first day of trading at new shop

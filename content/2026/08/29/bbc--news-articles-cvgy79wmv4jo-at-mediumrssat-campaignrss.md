@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Haakon VIII pays emotional tribute to his late father, Harald V, before
   outlining how he wishes to reign.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ecd7/live/b200b740-a3dc-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 King Haakon paid an emotional tribute to his parents on what would have been their wedding anniversary

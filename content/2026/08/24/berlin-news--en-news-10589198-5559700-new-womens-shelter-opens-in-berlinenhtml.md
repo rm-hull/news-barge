@@ -9,6 +9,11 @@ description: According to police and Senate figures, there were more than 13,000
   of domestic violence in Berlin in 2025. A new facility is providing shelter for
   those affected.
 image: https://www.berlin.de/binaries/asset/image_assets/10589186/ratio_4_3/1787573456/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 © dpa

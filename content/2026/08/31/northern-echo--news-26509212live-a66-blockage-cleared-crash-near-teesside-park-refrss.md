@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: The A66 is 'partially blocked' after a crash near Teesside Park. The
   eastbound road between A1130 Middlesbrough Road and A19 Tees Viaduct…
 image: https://www.thenorthernecho.co.uk/resources/images/21392522.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Travel
 ---
 
 - Good afternoon, welcome to The Northern Echo's live blog on a crash on the A66.

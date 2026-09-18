@@ -10,6 +10,13 @@ description: When people think about finance, they often assume it is the respon
   of accountants, finance directors or specialist teams, writes By Susanne Marchant,
   Head of Enterprise Programmes, Executive Education, Leeds University Business School
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/17/10/38/Susanne_Marchant-(1).jpeg?trim=102,0,580,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Why financial skills matter for non-financial leaders and business decision-makers in Leeds

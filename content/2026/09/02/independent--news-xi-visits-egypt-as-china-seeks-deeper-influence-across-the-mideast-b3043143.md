@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: China’s President Xi Jinping visits Egypt this week for the first time
   in a decade
 image: https://static.independent.co.uk/2026/09/02/02/Egypt_China_72119.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On the surface, Chinese President Xi Jinping’s visit to Egypt this week is a run-of-the-mill opportunity for two countries to strengthen economic and diplomatic ties.

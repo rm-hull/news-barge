@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Detonating over an athletic center and two residential neighborhoods,
   the strikes claimed at least 21 people’s lives, among them seven children
 image: https://static.independent.co.uk/2026/08/31/19/2291278907..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Promoted by its manufacturer as the next generation of ballistic rocketry, Lockheed Martin’s Precision Strike Missile has drawn billions in U.S. military funding to modernize American weapons.

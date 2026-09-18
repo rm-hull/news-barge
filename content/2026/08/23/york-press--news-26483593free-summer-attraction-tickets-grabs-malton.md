@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Parents in Malton could be in with a chance of winning free tickets to
   UK exhibitions during the summer holidays.
 image: https://www.yorkpress.co.uk/resources/images/21352997.jpg?type=og-image&xType=0&yType=116
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

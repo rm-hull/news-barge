@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: There's an incredible energy with a storming lineup for Leeds Festival
   2026 as crowds descend on Bramham Park for Saturday's headliners.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRlODJiOWI3LWE5YjItNGNiNy1hNTczLWNkYThhN2VjYTE3YzowNjIwNWVkNi1jNmJjLTRiZGMtYjRkMC1jMWRmZmI4YjEwY2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Leeds Festival '26: Incredible energy as revellers build to third night and with some 417 items now in Lost Property

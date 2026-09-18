@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Betty Liu has a chapter on “Frying” in her latest cookbook, “The Chinese
   Way.”
 image: https://static.independent.co.uk/2026/09/14/13/Food-Voracious-Sesame-Cumin_Chicken_84533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Deep-fry (zhà), a well-known technique where the food is fried in a pool of hot oil, which both cooks it and creates a crispy exterior, is used throughout the “Frying” chapter in my cookbook “The Chinese Way.”

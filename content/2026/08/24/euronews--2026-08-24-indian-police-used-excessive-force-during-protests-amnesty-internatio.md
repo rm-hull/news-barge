@@ -9,6 +9,10 @@ description: Demonstrations in the capital New Delhi, triggered by the leak of t
   national medical entrance test, turned violent on 20 July when thousands of protesters
   attempted to march towards parliament.
 image: https://images.euronews.com/articles/stories/09/88/56/21/1200x675_cmsv2_9a01ec3a-02ee-5025-bb3d-2093e3983bc6-9885621.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Demonstrations in the capital New Delhi, triggered by the leak of the national medical entrance test, turned violent on 20 July when thousands of protesters attempted to march towards parliament.

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Dave Tonner, 39, has opened Axe-aholics in Newton Aycliffe and already
   secured its place as a European axe throwing championships host.
 image: https://www.thenorthernecho.co.uk/resources/images/21331390.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: AXE-AHOLICS)*

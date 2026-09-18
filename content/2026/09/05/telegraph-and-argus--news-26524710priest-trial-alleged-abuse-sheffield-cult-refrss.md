@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Christopher Brain denies rape and indecent assault allegations as court
   hears the former Sheffield Nine O’Clock Service leader ran a “cult”…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414393.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Freelance)*

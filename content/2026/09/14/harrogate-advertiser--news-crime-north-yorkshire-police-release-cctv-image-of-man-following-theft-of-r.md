@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire Police has released a CCTV image of a man they would
   like to speak to following a theft from a property in Ripon.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI0YTc2ZDg5LTE3M2EtNDgwNS04YWY4LTAyZTc2NmE4ZGJiYjpmMzViZjZhZS0wYWZkLTRhYTAtOGEwMS02MmE4MTAyMTNkMGI=.jpg?crop=3:2,smart&trim=&width=756&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 # North Yorkshire Police release CCTV image of man following theft of radiator in Ripon

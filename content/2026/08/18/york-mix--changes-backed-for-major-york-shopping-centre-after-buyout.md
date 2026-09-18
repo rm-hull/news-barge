@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:50:10Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/york-designer-outlet-easter.webp
+categories:
+- Local
+- York
+- Shopping & Deals
 ---
 
 Changes to a major York shopping centre have been approved after it changed hands earlier this year.

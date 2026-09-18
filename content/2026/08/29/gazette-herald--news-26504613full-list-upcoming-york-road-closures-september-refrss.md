@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Temporary traffic restrictions have been announced for York, affecting
   ten key locations for maintenance and development works.
 image: https://www.gazetteherald.co.uk/resources/images/19217207.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: The Press)*

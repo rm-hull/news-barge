@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Pickering Running Club battled a hot and dusty day in the Hardmoors Farndale
   Half Marathon at the weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21328533.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

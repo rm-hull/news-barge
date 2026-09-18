@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:37Z'
 published: '2026-09-06T00:00:00Z'
 description: The fuel tanker explosion occurred late on Saturday night
 image: https://static.independent.co.uk/2026/09/06/11/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 At least 11 people have been killed and seven injured after a fuel tanker exploded in western Iran, state media said.

@@ -9,6 +9,11 @@ description: The president reasserts that the U.S. will takeover the Middle East
   it hasn’t been able to get under control for months — and even parts of Iran — in
   taunting new Truth Social post
 image: https://static.independent.co.uk/2026/08/18/14/53/GettyImages-2285445594.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Donald Trump posted a map identifying the Strait of Hormuz as “new U.S. territory” on Tuesday, echoing a threat he made last week under the continued pressure of the key waterway’s contested nature.

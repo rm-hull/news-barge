@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Macaulay Culkin remembers Catherine O’Hara as more than just his onscreen
   mother in the “Home Alone” films
 image: https://static.independent.co.uk/2026/09/15/04/2_26_Emmy_Awards_-_Show_655_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 Macaulay Culkin remembered Catherine O’Hara as more than the actor who played his mother in the “Home Alone” films.

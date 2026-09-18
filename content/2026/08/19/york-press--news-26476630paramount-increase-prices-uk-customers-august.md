@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Paramount+ customers can expect their bill to increase by up to £2 per
   month and £24 per year, according to reports.
 image: https://www.yorkpress.co.uk/resources/images/21338169.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

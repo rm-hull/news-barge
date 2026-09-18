@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A grant from a housing association has helped Romanby Parish Councillor
   Nigel Jones transform part of Ainderby Park into a wildflower and wellness…
 image: https://www.thenorthernecho.co.uk/resources/images/21376538.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

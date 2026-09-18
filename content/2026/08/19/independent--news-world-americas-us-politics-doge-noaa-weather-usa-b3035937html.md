@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Fewer weather balloons and wave-monitoring buoys are being launched to
   collect data for weather forecasts
 image: https://static.independent.co.uk/2026/07/23/02/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Cuts to federal weather monitoring programs and workforce — enacted during Elon Musk’s government-gutting days at DOGE — are leaving Americans frustrated as forecasts become less and less reliable.

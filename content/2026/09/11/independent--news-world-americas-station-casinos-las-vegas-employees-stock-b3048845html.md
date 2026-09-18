@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: One employee who has worked for the company since the 1970s received
   $49,000 worth of stock
 image: https://static.independent.co.uk/2026/09/11/17/56/baylee-jo-photo-1-122.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 A Las Vegas casino operator has surprised employees by giving away $70 million in stock to celebrate its 50th anniversary.

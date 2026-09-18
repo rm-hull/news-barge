@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Homelessness charities have warned that a “massive shortage” of housing
   must be reversed if Andy Burnham is to banish the growing scourge of…
 image: https://www.thenorthernecho.co.uk/resources/images/21343996.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Homelessness charities have warned that a “massive shortage” of housing must be reversed if Andy Burnham is to banish the growing scourge of rough sleeping in the North East.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were
   also convicted in the case which led to Leon Baptiste's imprisonment.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/461f/live/e59da700-9ca4-11f1-a5a0-114ca9d4a1bc.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A composition image featuring former British athletes Leon Baptiste, William Sharman, and Lamin Deen](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/461f/live/e59da700-9ca4-11f1-a5a0-114ca9d4a1bc.png)

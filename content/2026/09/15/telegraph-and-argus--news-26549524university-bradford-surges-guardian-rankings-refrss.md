@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The University of Bradford has climbed 18 places in the Guardian University
   Guide 2027, now ranking joint 51st out of 123 UK institutions
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454166.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: University of Bradford/Kiran Mehta@KM Images Ltd)*

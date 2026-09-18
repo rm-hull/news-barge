@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:41Z'
 published: '2026-08-22T00:00:00Z'
 description: Market Day Melodies is helping boost the number of shoppers in Ripon.
 image: https://www.thenorthernecho.co.uk/resources/images/21353729.jpg?type=og-image&xType=0&yType=322
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Market Day Melodies is hitting the right note with shoppers in Ripon.

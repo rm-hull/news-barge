@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Firms manage $7.3tn in assets and could afford to transition away from
   fossil fuels yet invest in natural gas and coal-fired plants to power datacenters
 image: https://i.guim.co.uk/img/media/29af17e3b5ae98c84016fe213e0065457a3a08be/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bab9707e482cfc490648e880d618720
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The energy portfolios of 20 private equity firms produce 1.5bn tons of greenhouse gases a year, more than the annual emissions of any country except China, the US, India and Russia, according to a new report.

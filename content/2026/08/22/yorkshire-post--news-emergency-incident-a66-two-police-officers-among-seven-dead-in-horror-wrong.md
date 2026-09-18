@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: The two police officers killed in the horror crash this morning on the
   A66 near Middlesbrough have been named.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/22/15/30/01M0N0JYG92XV7EZ22F1BVFJMG.jpg?trim=0,1,0,1&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # A66: Two police officers among seven dead in wrong-way horror crash named

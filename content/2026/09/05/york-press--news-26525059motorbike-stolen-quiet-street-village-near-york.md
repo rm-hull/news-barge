@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T15:05:39Z'
 published: '2026-09-05T00:00:00Z'
 description: A motorbike has been stolen from a quiet residential street in Tockwith.
 image: https://www.yorkpress.co.uk/resources/images/21414840.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: North Yorkshire Police)*

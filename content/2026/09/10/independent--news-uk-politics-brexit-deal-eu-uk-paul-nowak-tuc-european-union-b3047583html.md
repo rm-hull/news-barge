@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: TUC general secretary Paul Nowak said the European Union was the UK’s
   ‘most important market‘
 image: https://static.independent.co.uk/2025/11/27/18/aacea8d1dddd2268bf8378fe73bcc1e4Y29udGVudHNlYXJjaGFwaSwxNzY0MzUyNDY1-2.81515222.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Britain’s most powerful union leader has told Andy Burnham that the “time is now” for a new agreement to develop closer ties between the UK and the EU, warning that “we're all paying the price for that bad Brexit deal” agreed under the Conservatives.

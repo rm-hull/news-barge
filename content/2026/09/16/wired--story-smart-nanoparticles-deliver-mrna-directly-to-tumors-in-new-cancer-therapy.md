@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The treatment can reprogram immune cells that have been corrupted by
   the cancer, strengthening the body’s ability to attack.
 image: https://media.wired.com/photos/6aa98fe35f699411f4e1b613/191:100/w_1280,c_limit/celulacancer.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Our immune systems don’t just fight bacteria and viruses invading the body. They are responsible for keeping our own tissues in check, taking out cancerous cells before they have a chance to grow. Once a tumor forms, however, it can create an environment that declaws cancer-fighting immune cells—in some cases even reprogramming them to suppress other parts of the immune system.

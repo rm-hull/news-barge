@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Older people in a rural County Durham village will be able to enjoy more
   social activities and days out thanks to a donation aimed at tackling…
 image: https://www.thenorthernecho.co.uk/resources/images/21340418.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

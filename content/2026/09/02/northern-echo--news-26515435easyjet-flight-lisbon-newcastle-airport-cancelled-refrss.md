@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Around 100 travellers were stranded after their flight home from Lisbon
   to Newcastle was cancelled at the last minute.
 image: https://www.thenorthernecho.co.uk/resources/images/16044712.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Technology & Software
 ---
 
 *(Image: JOHN SLEIGH)*

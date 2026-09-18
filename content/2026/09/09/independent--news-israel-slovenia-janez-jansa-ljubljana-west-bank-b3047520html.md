@@ -9,6 +9,9 @@ description: Israel has opened its embassy in Slovenia, boosting relations with 
   small European Union nation as ties soured with the United Kingdom and some of the
   other longtime allies
 image: https://static.independent.co.uk/2026/09/09/18/Slovenia_Israel_36_33.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israel opened its first embassy in Slovenia on Wednesday, boosting relations with the small European Union nation even as ties sour with some longtime allies over its policy on illegal settlements in the occupied West Bank.

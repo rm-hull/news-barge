@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The star says tour promoters took the decision, after Macklemore made
   pro-Palestinian statements on stage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Singer/songwriter Ed Sheeran (L) and rapper Macklemore perform during the 2014 iHeartRadio Music Festival at the MGM Grand Garden Arena on September 20, 2014 in Las Vegas, Nevada. Sheeran is wearing a checked shirt and holding a guitar. Macklemore is wearing a black jacket.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/fec9/live/093de4c0-b066-11f1-b9fd-8be7457ad079.jpg)

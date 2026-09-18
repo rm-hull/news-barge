@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: These ereader brands are both excellent, but there are distinct differences
   mean one might suit you better than the other.
 image: https://cdn.mos.cms.futurecdn.net/rMTVTNVnUGN9GtLbdqtvUB-2520-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Kobo ereader (left) and Boox e-ink tablet (right)](https://cdn.mos.cms.futurecdn.net/rMTVTNVnUGN9GtLbdqtvUB.jpg) 

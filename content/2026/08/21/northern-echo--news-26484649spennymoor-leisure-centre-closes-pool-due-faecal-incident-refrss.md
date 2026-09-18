@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Spennymoor Leisure Centre pool has been forced to close after a faecal
   incident at the venue.
 image: https://www.thenorthernecho.co.uk/resources/images/21354591.jpg?type=og-image&xType=3&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE MAPS)*

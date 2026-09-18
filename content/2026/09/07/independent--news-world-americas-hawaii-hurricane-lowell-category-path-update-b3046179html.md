@@ -9,6 +9,11 @@ description: The Miami-based center issued the warning for Kauai and Niihau as L
   was forecast to pass the islands to the west late Monday and Tuesday while traveling
   north
 image: https://static.independent.co.uk/2026/09/06/21/Tropical_Weather_Hawaii_192_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 A tropical storm warning has been activated for two islands in Hawaii as Hurricane Lowell, a major Category 3 storm, heads towards the area.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Tioxide Materials has recommenced titanium dioxide pigment production
   at its Greatham plant in Hartlepool after LB Group acquired the former Venator…
 image: https://www.thenorthernecho.co.uk/resources/images/21335489.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: Tioxide)*

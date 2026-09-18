@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The president’s former personal attorney emerged as a star witness in
   a hush money case that resulted in 34 guilty verdicts
 image: https://static.independent.co.uk/2026/08/19/20/2167636905..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Michael Cohen, Donald Trump’s former personal attorney turned star witness in a landmark hush money case resulting in the president’s first-ever criminal conviction, is interviewing his former employer on a podcast set to air Thursday.

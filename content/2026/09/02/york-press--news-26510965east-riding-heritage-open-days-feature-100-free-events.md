@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: More than 100 free events are set to take place across the East Riding
   as part of this year’s Heritage Open Days this month.
 image: https://www.yorkpress.co.uk/resources/images/21395171.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: East Riding of Yorkshire Council)*

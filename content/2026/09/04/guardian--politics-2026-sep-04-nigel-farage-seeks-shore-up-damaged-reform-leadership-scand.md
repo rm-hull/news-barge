@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Splits emerge within party after resignation of officials reported to
   police for apparent plot to evade donations law
 image: https://i.guim.co.uk/img/media/9884b2e9f9016671fff699b1d9843d818460fde6/0_0_5880_4704/master/5880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8301b2c10229143453c8fe33eeed0a37
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Nigel Farage sought to shore up his damaged leadership on Friday as he attempted to distance himself from two of his most senior officials reported to the police for apparently plotting to evade the law on foreign donations.

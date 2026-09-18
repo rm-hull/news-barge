@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Donald Trump’s war with Iran is hitting ‘inflation, growth and borrowing
   costs,’ John Healey warns
 image: https://static.independent.co.uk/2026/08/19/07/aeb88c87603ecee43892dd7897d3d44fY29udGVudHNlYXJjaGFwaSwxNzg3MjA3NzA2-2.85365880.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The upcoming autumn Budget is expected to be tough, the chancellor has warned, as the US-Iran war continues to cripple the economy.

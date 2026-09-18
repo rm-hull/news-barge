@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Prince Harry and Meghan have moved their children to a new school in
   the U.K. due to security concerns
 image: https://static.independent.co.uk/2026/08/26/13/Britain_Prince_Harry_944_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Prince Harry and his wife, Meghan, have moved their two children to a new school over security concerns, a spokesperson said Tuesday, just weeks after the family returned to the U.K. to make a fresh start.

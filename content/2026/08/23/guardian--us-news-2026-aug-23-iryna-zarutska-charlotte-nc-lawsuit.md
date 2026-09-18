@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Relatives of woman fatally stabbed on public transit allege death was
   preventable and Charlotte knew of violent crime issue
 image: https://i.guim.co.uk/img/media/769e6e552843dfb0d83bf047563162428734abf4/451_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=646163bdd6e5e8093a9748482b0e9b0d
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 The family of Iryna Zarutska is suing Charlotte and a security company one year after the Ukrainian refugee was fatally stabbed onboard a light rail train in the North Carolina city.

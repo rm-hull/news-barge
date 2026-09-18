@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The Metropolitan Police arrested two people on suspicion of assisting
   Iran’s intelligence services
 image: https://static.independent.co.uk/2025/03/27/8/01/iStock-522578161.jpg?trim=0,61,0,59&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Counter-terrorism officers in London have arrested a man and a woman suspected of aiding the foreign intelligence service of Iran.

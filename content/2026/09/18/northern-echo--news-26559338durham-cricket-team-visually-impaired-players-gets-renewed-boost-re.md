@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Go North East has renewed its support for County Durham’s only visually
   impaired cricket team for a fourth year, helping players with sight loss…
 image: https://www.thenorthernecho.co.uk/resources/images/21468578.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A transport company has renewed its support for County Durham’s only visually impaired cricket team for a fourth year, helping players with sight loss compete nationally.

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Mallard in Cowling has been named as one of the most wishlisted Airbnb
   properties in the UK - would you stay there?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425060.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 An Airbnb that has “panoramic views” of the Yorkshire countryside has been named one of the most popular in the UK.

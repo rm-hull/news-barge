@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Discover autumn container gardening tips, seasonal plants, fruit tree
   planting advice and peat-free compost solutions for colourful UK gardens…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361429.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Getty)*

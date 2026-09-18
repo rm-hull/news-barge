@@ -9,6 +9,11 @@ description: Concerned residents have shared their worries over a possible housi
   development next to an ancient woodland in Doncaster, which experts have said contains
   rare plants and endangered animal species.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI4ZDg5YTI5LWQzNTctNGJiNC1iN2MzLTMyOWM0ODg3ZDRmYzpkMjliNWI3OS1jMmZjLTRlYzItOTgxNC1hMjE4MGI0NGM3NDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Rossington: Residents fighting 130-home development next to ancient Yorkshire woodland

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Durham County Council has approved plans to turn a house on Newton Drive
   in Framwellgate Moor into a shared home for four people.
 image: https://www.thenorthernecho.co.uk/resources/images/21425206.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: GOOGLE)*

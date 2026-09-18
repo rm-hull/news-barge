@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A TikToker was left stunned after spotting what appeared to be a man
   asleep in estate agent photos of a £328,000 Whitley Bay home.
 image: https://www.thenorthernecho.co.uk/resources/images/21394657.jpg?type=og-image&xType=0&yType=187
+categories:
+- Local
+- UK
+- News & Politics
+- Real Estate
 ---
 
 This is the unusual moment a man appeared to be caught snoozing in bed during a property photoshoot for a house in North Tyneside.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: An innovative Thai restaurant in North Yorkshire is on the market for
   £119,950 leasehold.
 image: https://www.yorkpress.co.uk/resources/images/21432113.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Ernest Wilson & Co)*

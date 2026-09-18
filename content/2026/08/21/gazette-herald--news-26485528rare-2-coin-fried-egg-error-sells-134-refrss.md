@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: A rare £2 coin has sold for more than £134 after its fried egg error
   started a bidding war.
 image: https://www.gazetteherald.co.uk/resources/images/21345752.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A rare £2 coin has sold for more than 67 times its face value due to an error it has, which sparked a bidding war.

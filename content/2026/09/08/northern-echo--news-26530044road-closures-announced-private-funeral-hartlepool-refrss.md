@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Drivers have been warned of possible disruptions as road closures and
   traffic restrictions will be in place on Wednesday due to a funeral.
 image: https://www.thenorthernecho.co.uk/resources/images/21423248.jpg?type=og-image&xType=0&yType=69
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE MAPS)*

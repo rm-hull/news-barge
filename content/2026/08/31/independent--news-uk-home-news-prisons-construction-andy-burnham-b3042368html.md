@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Around 5,000 prisoners were due to be released early from October under
   measures to ease overcrowding
 image: https://static.independent.co.uk/2026/08/11/16/2289162664..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A £110 million investment is being fast-tracked by the Government to accelerate the construction of hundreds of additional prison places, the Justice Secretary is set to announce.

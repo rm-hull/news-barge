@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Trump really wants people to like AI data centers, regardless of pollution
   and noise
 image: https://cdn.mos.cms.futurecdn.net/kzTxKxtGKWoJaMSRhqVoiZ-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Former US President and Republican presidential candidate Donald Trump gestures as he speaks during a campaign rally at Van Andel Arena in Grand Rapids, Michigan on November 5, 2024.](https://cdn.mos.cms.futurecdn.net/kzTxKxtGKWoJaMSRhqVoiZ.jpg) 

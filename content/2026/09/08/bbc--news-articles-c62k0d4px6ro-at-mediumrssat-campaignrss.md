@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A 78-year-old British woman is facing deportation for failing to fill
   out a Brexit residence application on time.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a79/live/19bda140-ab99-11f1-b26f-1588b95519ec.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Joyce Thomas wears a blue jumper in a photo taken inside her home in Sweden.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/6a79/live/19bda140-ab99-11f1-b26f-1588b95519ec.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The train collided with the four men at Shin-Kanuma Station, north of
   Tokyo, authorities say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A train travelling on tracks across a field](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg)

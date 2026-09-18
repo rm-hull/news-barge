@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: North Yorkshire Council reviews plans to manage the upcoming Catterick
   Community and Enterprise Hub internally, saving taxpayers £120,000 annually.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/2CattRegen.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **Plans for the multi-purpose Community and Enterprise Hub in Catterick Garrison have taken a significant step forward**, with North Yorkshire Council seeking approval to manage the facility in-house ahead of its scheduled opening in February 2027. An operational review found that managing the enterprise hub internally will cost approximately £120,000 less each year than outsourcing to alternative providers, securing maximum value for local taxpayers while optimizing communal benefits.

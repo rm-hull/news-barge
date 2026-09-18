@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The case broke open last month when the Georgia man was arrested in a
   separate burglary tied to a ‘highly publicized’ homicide
 image: https://static.the-independent.com/2026/08/19/16/jlTYkGEuUkBdNfcwnBuHWNmFzMKSsXH6gtr8LlvHMBmGEB_era0icURk3mMLobYvnZs52FKZhNT_wTNCNrmk4YC4avfhsUSc4_Of..?trim=180,0,180,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Georgia man is accused of robbing NASCAR legend Greg Biffle’s North Carolina home after learning the driver and his family had been killed in a plane crash.

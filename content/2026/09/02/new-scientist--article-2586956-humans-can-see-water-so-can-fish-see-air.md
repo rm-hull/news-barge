@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: One reader delves into whether or not fish can see air – and question
   if humans can strictly see water
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_300175225.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![D73X1R An colorful adult midnight snapper swims over the reef](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_300175225.jpg?w=840)

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Temperatures could hit the high 30C and even 40C in some parts of southern
   Europe
 image: https://static.independent.co.uk/2026/09/04/8/57/Screenshot-2026-09-04-at-09-54-39.png?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 An intense September heatwave has been forecast across Europe, as a heat dome is set to send temperatures soaring.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: 70 Up is the final instalment in a series which began in 1964 and has
   followed the lives of 14 people.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7de/live/4f95a3f0-a782-11f1-8858-e93489ec40ef.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![The cast of 70 Up pose for a photo in a cinema.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/e7de/live/4f95a3f0-a782-11f1-8858-e93489ec40ef.png)

@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T19:32:42Z'
 published: '2026-09-16T00:00:00Z'
 description: A minute order issued by Young’s clerk did not explain her decision
 image: https://static.the-independent.com/2026/04/29/22/2234223905.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A second judge has removed herself from a lawsuit accusing Aerosmith frontman Steven Tyler of having an illegal sexual relationship with a girl beginning when she was 16 and he was 25.

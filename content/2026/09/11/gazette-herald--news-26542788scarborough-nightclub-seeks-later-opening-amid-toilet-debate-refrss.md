@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A NIGHTCLUB’S bid to extend its opening hours until 3am has sparked a
   debate about the availability of public toilets in a North Yorkshire town.
 image: https://www.gazetteherald.co.uk/resources/images/18764954.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 A NIGHTCLUB’S bid to extend its opening hours until 3am has sparked a debate about the availability of public toilets in a North Yorkshire town.

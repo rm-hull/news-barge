@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: A pivotal trial for Meta Platforms is set to kick off in a California
   federal court
 image: https://static.independent.co.uk/2026/08/15/00/Digital_Ad_Tax_38886.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Opening arguments are set to kick off Tuesday in a pivotal trial for Meta Platforms in a California federal court.

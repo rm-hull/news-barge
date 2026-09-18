@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: THE “I Love NY” T-shirts were faded and frayed, the handwritten messages
   scrawled across them long smudged.
 image: https://www.yorkpress.co.uk/resources/images/21428721.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

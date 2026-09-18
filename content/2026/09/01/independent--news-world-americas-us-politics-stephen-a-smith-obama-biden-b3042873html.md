@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Outspoken pundit claims former president spoke to him during 2024 presidential
   election to discuss his influence
 image: https://static.independent.co.uk/2026/08/04/19/02/GettyImages-1229382449.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 ESPN commentator and podcaster Steven A Smith has revealed that former president Barack Obama called him prior to the 2024 presidential election after he had criticized Joe Biden to discuss the extent of his influence.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: US Central Command says the attacks came after Iran launched ballistic
   missiles at two of its Navy warships.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![An oil tanker in the Strait of Hormuz](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg)

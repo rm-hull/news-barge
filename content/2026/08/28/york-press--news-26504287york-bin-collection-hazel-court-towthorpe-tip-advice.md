@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: York Council has confirmed what is happening with bin collections this
   bank holiday weekend.
 image: https://www.yorkpress.co.uk/resources/images/21036245.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## York bin collections this bank holiday weekend and what tip visitors should know

@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T16:51:53Z'
 published: '2026-08-24T00:00:00Z'
 description: Minneapolis police have said there is no connection between the deaths
 image: https://static.independent.co.uk/2026/08/20/15/17/Untitled-design-(4).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Police in Minneapolis have sought to reassure members of the public after at least four people were found dead over a period of five days.

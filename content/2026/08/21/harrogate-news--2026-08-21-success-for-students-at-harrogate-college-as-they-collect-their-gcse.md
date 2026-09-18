@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Students at Harrogate College have been collecting their GCSE English
   and maths results as they embark on their next steps.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Neil-Thompson.webp
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 Students at Harrogate College have been collecting their GCSE English and maths results as they embark on their next steps.

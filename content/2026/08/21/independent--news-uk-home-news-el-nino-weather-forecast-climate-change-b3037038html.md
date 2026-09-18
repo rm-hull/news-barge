@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Meteorologists warn El Nino could contribute to record global temperatures
   and the hottest year ever in 2027
 image: https://static.independent.co.uk/2026/08/21/11/2290412292..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The term “El Nino” has dominated headlines in recent weeks as much of the world struggles to cope with extreme weather.

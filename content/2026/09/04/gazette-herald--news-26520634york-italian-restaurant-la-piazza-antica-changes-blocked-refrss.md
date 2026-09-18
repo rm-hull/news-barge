@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Changes proposed to a York restaurant would harm its historic building,
   the council has ruled.
 image: https://www.gazetteherald.co.uk/resources/images/16735664.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

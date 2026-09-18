@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Part of Dmitry Donskoy’s right hand sent to ‘spiritually strengthen’
   soldiers
 image: https://i.guim.co.uk/img/media/24294c6f7bb0e48ff169ce85b79590224dc991ca/270_0_2697_2157/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=519da5a6bcb54bf1392c3974189cd136
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The Russian Orthodox church has sent a fragment of a medieval warrior prince’s remains to troops fighting in Ukraine, saying the relic would “spiritually strengthen” soldiers and help them achieve victory.

@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: An exhibition in Fishergate Postern Tower is shedding light on York's
   Irish heritage, tracing the famine migrants who settled beside the…
 image: https://www.gazetteherald.co.uk/resources/images/21370946.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 A major exhibition is running this year on the story of the Irish people of York, *writes Peter Fawcett.*

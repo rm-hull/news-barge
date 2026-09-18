@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A serial burglar is back behind bars after break-ins at shared student
   accommodation in Durham and a family home in Ferryhill earlier this year.
 image: https://www.thenorthernecho.co.uk/resources/images/21351683.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Durham Constabulary)*

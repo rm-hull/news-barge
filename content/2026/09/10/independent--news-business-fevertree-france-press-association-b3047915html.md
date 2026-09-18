@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Nevertheless, shares in the company slipped in early trading as profitability
   narrowed in the US.
 image: https://static.independent.co.uk/2026/09/10/12/20164738-33b08d65-5111-47b0-90ba-6beae95ffd6e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Soft drink and mixer maker Fever-Tree has revealed stronger sales for the first half of the year amid a boost from the summer heatwaves in the UK.

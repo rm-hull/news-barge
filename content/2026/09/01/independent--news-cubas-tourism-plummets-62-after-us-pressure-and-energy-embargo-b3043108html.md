@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Cuba’s tourism has nose-dived as the U.S. ramps up pressure on the island
   this year
 image: https://static.independent.co.uk/2026/09/01/23/Cuba_Daily_Life_51524.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Cuba’s tourism has nosedived since the U.S. has ramped up its pressure on the island this year, threatening international tour operators and imposing an energy embargo.

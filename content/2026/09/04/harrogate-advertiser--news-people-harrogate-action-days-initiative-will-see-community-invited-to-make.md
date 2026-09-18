@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: New Harrogate Action Days are to be launched to “bring back a sense of
   civic pride” in the town centre.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBkYmI4ZWM0LThmOTgtNGQzYy1hNGNiLTE2NjRmMTVkY2YzOTozM2M0YjYzNS02MzQ3LTQ0YjItOWE2YS05ZmMyZTk2MDZiNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
 ---
 
 # Harrogate Action Days initiative will see community invited to 'make a positive difference' to the town they love

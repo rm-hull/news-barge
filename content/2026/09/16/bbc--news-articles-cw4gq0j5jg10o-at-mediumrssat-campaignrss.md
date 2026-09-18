@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T04:43:35Z'
 published: '2026-09-16T00:00:00Z'
 description: The NBCLA news helicopter was flying near the scene of a fatal bus crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4110/live/03c9e4a0-b17c-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Watch: Smoke and flames rise from Los Angeles fatal helicopter crash site

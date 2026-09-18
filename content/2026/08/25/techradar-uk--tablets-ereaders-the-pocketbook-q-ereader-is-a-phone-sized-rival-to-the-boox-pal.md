@@ -9,6 +9,8 @@ published: '2026-08-25T00:00:00Z'
 description: The PocketBook Q ticks a lot of boxes for anyone who wants a compact
   ereader, but it doesn't have access to some key reading apps
 image: https://cdn.mos.cms.futurecdn.net/MNC5FkGMikuSVAkuge4U9J-929-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A hand holding the PocketBook Q](https://cdn.mos.cms.futurecdn.net/MNC5FkGMikuSVAkuge4U9J.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Raby's Harvest Food and Gift Market returns with local produce, street
   food, live music, and shopping this bank holiday.
 image: https://www.thenorthernecho.co.uk/resources/images/21364870.jpg?type=og-image&xType=0&yType=142
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Food lovers, families and shoppers will descend on one of County Durham's best-known destinations this Bank Holiday weekend for the return of a major event.

@@ -9,6 +9,9 @@ description: Riders are risking their lives in races where organisers battle hug
   costs, and cycling's governing body "cannot keep traffic off the roads", according
   to former rider and team boss Jonathan Vaughters.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e97/live/8cdfed20-9b15-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![A split picture of Fin Tarling and Jonathan Vaughters](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1e97/live/8cdfed20-9b15-11f1-aed2-8d6da8d75094.png)

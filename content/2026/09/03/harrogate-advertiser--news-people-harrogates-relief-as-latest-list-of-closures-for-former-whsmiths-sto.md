@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Harrogate has escaped the latest list of closures of TG Jones stores
   in the UK following the takeover of WHSmith's last year by a private equity firm.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlhY2JhODM3LTJmM2MtNDkxMi05OGM2LTM4NjcwYmJjYjk4YjowZjU3OGM0OC02M2IyLTRhNmUtYjM4OS00YzZhZTJkM2M1ZjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Harrogate's relief as latest list of closures for former WHSmiths stores in UK is revealed

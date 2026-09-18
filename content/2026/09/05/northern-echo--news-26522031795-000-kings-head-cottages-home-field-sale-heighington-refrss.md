@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: IF YOU’RE looking for a home with a little added extra, make sure to
   view Kings Head Cottages which comes as a delightful package combining a…
 image: https://www.thenorthernecho.co.uk/resources/images/21410647.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 IF YOU’RE looking for a home with a little added extra, make sure to view Kings Head Cottages which comes as a delightful package combining a modern detached family home with a two-acre field.

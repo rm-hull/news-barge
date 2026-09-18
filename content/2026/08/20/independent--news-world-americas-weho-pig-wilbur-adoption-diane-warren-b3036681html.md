@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The pig was named Wilbur after a TikTok clip of his Saturday outing went
   viral
 image: https://static.independent.co.uk/2026/08/20/20/41/IMG_9130.jpg?trim=213,0,406,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Acclaimed songwriter Diane Warren has given viral runaway pig Wilbur a new home.

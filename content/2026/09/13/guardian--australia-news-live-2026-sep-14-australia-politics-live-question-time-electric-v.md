@@ -8,6 +8,9 @@ scraped_at: '2026-09-13T22:22:57Z'
 published: '2026-09-13T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/b761db48b532645e80099be237c1f8a0d5341fb8/0_0_5707_4569/master/5707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0c7cc1c737107bc617073a6cfe5acbf3
+categories:
+- UK
+- News & Politics
 ---
 
 One Nation reveals ‘net-negative’ migration policy

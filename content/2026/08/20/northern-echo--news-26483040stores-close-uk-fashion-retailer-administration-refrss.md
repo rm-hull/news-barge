@@ -7,6 +7,13 @@ scraped_at: '2026-08-20T20:40:27Z'
 published: '2026-08-20T00:00:00Z'
 description: All UK stores have closed after a popular fashion retailer entered administration.
 image: https://www.thenorthernecho.co.uk/resources/images/20518659.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Shopping & Deals
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest Archive)*

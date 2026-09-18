@@ -11,6 +11,12 @@ description: A mum from Harrogate who says she spent nine months feeling trapped
   with “permanent anxiety”, is sharing her experience publicly for the first time
   as part of a new drive raising greater awareness of neurodivergent motherhood.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEwMzAwYzcyLWE4ZTUtNGMyNC1iYTM0LTQ1M2I4MjMxZjRjMDozMDQzZjQ0Ni0xNzRlLTQ1NmMtOGUwYy0xMTJhNTg5MjJlMjY=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Health & Fitness
 ---
 
 # 'There was no pregnancy glow - I didn’t know neurodivergent motherhood could feel so different'

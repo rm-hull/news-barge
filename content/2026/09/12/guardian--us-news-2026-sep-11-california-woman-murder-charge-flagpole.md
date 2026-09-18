@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: SF Gate reports bond for Vicky Kyung Mi Kim, 65, set at $10m after man
   found dead at couple’s Palm Desert home
 image: https://i.guim.co.uk/img/media/f3725f60137868fa294de8cfc29f6db753de07f0/123_0_3653_2924/master/3653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cafa9d30fc7d4de418211d4751e4526
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A 65-year-old California woman has been arrested on suspicion of murder after allegedly fatally wounding her husband with a flagpole, according to SF Gate.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Thieves took four artworks but it is thought they dropped two in museum
   garden as they fled
 image: https://i.guim.co.uk/img/media/e4b86505e680854b24dd5a3c0f0bc0d99de85996/605_350_4562_3650/master/4562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ebef4e6020db61eb4d3fa40ab954e99
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Two thieves have broken into a museum dedicated to the French impressionist painter Pierre-Auguste Renoir in southern France, stealing four artworks but leaving two behind as they fled.

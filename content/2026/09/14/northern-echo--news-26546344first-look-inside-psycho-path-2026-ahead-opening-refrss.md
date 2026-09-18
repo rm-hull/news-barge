@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Get ready for spine-tingling scares and “more terror than ever before”
   - a County Durham horror maze is almost set to open its doors.
 image: https://www.thenorthernecho.co.uk/resources/images/21448078.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- True Crime
 ---
 
 Get ready for spine-tingling scares and “more terror than ever before” - a County Durham horror maze is set to open in just weeks.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A recently converted stone-built barn with over twelve acres of land
   is for sale close to the village of Queensbury.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21387211.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Zoopla/Dacre Son & Hartley)*

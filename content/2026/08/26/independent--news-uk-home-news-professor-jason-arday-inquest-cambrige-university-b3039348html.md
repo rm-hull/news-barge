@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The 41-year-old was discovered at his home in Battersea, south London,
   on 14 August
 image: https://static.independent.co.uk/2026/08/26/02/117bd8a405c96c4d9abdfee417436ceeY29udGVudHNlYXJjaGFwaSwxNzg3NzU0NDEw-2.85498237.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Professor Jason Arday was found unresponsive by family members days after resigning from his post at the University of Cambridge, an inquest has heard.

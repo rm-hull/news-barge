@@ -10,6 +10,10 @@ description: 'This is not the first time that Oscar-nominated Irish actress Saoi
   and her husband currently rumoured to be the frontrunner for the next 007, we need
   this casting to happen now more than ever. #Cinema'
 image: https://images.euronews.com/articles/stories/09/88/80/09/1200x675_cmsv2_2046c0c9-4be2-5270-aa65-2a54cf24dd42-9888009.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
 ---
 
 ## This is not the first time that Oscar-nominated Irish actress Saoirse Ronan has expressed a desire to play a Bond villain... But with her recent comments and her husband currently rumoured to be the frontrunner for the next 007, we need this casting to happen now more than ever.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Bayern Munich striker Harry Kane is one of three England players nominated
   for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Harry Kane](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/7820/live/aab1d020-ab96-11f1-aa04-efbf6a882854.jpg)

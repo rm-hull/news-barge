@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The 79-year-old was best known for paintings depicting the Palestinian
   landscape and cultural scenes featuring Palestinian symbols of identity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b84/live/4dbe1360-a164-11f1-81f3-a1eb67c44aaf.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Sliman Mansour stands in front of his artwork, On the Wing of an Angel, Part of the Palestinian Museum Permanent Collection, in Birzeit, in the occupied West Bank](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/88f9/live/59ca9fa0-a16b-11f1-aaf8-119f176ff4ce.jpg)

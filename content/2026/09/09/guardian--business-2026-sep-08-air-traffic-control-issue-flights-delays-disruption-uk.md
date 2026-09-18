@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: More than 1,000 flights cancelled with disruption continuing on Wednesday
   and airlines calling for overhaul after third incident in just over three years
 image: https://i.guim.co.uk/img/media/5d9b58fb7bef6b6a747c9b3b06642cd5c998a797/1088_0_6247_5000/master/6247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=915f37a7b212aa0c7190d827f8e067a6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Flight delays and cancellations were expected to continue into Wednesday at UK airports after another air traffic control failure kept planes grounded for hours, affecting hundreds of thousands of passengers.

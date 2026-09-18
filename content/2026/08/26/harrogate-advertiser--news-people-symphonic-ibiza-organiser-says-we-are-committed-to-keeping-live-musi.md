@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T23:24:13Z'
 published: '2026-08-26T00:00:00Z'
 description: 'Review: Symphonic Ibiza, Great Yorkshire Showground, Harrogate'
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmI3ZjVhNjRiLTRhMTgtNDlmZi1iMDRiLTM2M2FmODZiMGY4Nzo4ZTFkNWUxZS1iMWJhLTQzODUtOTFkMy0zMDdiODhkZmU4NTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Symphonic Ibiza organiser says 'we are committed to keeping live music at the Great Yorkshire Showground in Harrogate'

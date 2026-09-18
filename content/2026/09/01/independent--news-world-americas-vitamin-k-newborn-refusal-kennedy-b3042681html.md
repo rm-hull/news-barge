@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Health agency says it is evaluating data and surveillance related to
   vitamin K refusals and bleeding events
 image: https://static.independent.co.uk/2026/09/01/11/2026-08-31T223216Z_883132362_RC25TMAFD678_RTRMADP_3_HEALTH-USA-CHILDREN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The percentage of parents and caregivers in the United States opting out of a standard vitamin K shot for infants at birth has accelerated sharply this year, according to a data analysis, placing more newborns at risk of life-threatening bleeding episodes.

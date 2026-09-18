@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Impasse comes amid growing Saudi anger with Tehran over Houthi advances
   and strikes on airbase and pipeline
 image: https://i.guim.co.uk/img/media/2bf9a04254e947fbbffbf6749438067e8e73ebcd/400_0_3998_3198/master/3998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=896b2249fb7ed5bf2eff30c78d699ee6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Gulf states have postponed a critical meeting with Iran on the future of the strait of Hormuz owing to a lack of Arab consensus and growing Saudi Arabian anger with Tehran for helping the Houthis loosen Riyadh’s grip in Yemen.

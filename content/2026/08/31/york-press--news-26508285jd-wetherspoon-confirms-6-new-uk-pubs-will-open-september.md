@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: JD Wetherspoon has confirmed it will open six new pubs in the UK in September
   2026 - here are the exact locations.
 image: https://www.yorkpress.co.uk/resources/images/21390818.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Getty)*

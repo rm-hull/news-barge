@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Katharine Hoskyns claims there is just one neighbour who objects to her
   garden
 image: https://static.independent.co.uk/2026/09/01/7/12/gran-faces-havi-1596123.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 A council has told an 89-year-old grandma she may have to bin the street garden she has lovingly tended for decades after her neighbours complained about "anti-social behaviour".

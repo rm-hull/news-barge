@@ -10,6 +10,11 @@ description: I have been thinking a great deal about the language we now use wit
   distancing have slipped so easily into our vocabulary that we rarely pause to consider
   what they might be doing to us.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM2ODc1YjQ5LTU2M2MtNGZjOC05YmRlLTgwZmY5YzYyMjdhNjplODQ4OTc4MC1mZjkzLTRhNDktOGI4ZS1iM2EwMTU5NWY1NWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Are contactless payments making us less human? - Daxa Patel

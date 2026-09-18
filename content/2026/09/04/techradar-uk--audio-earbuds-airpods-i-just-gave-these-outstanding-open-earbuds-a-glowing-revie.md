@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: The Baseus Bowie MC2 NC build on some excellent open earbuds by adding
   noise cancellation, a rare feature for the form factor.
 image: https://cdn.mos.cms.futurecdn.net/iSt9mEtya57rSGBDJyLEuD-2533-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Baseus Bowie MC2 on a bronze table.](https://cdn.mos.cms.futurecdn.net/iSt9mEtya57rSGBDJyLEuD.jpg) 

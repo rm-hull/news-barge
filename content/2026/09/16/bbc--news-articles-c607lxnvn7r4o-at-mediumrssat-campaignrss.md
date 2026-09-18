@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The government's climate advisers say Heathrow's third runway cannot
   be approved under current climate policies.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Three British Airways aircraft at Heathrow Airport, one is taking off in the distance with London skyline in the background](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/af1f/live/e6dc9eb0-b134-11f1-a430-4d16ee157c41.jpg)

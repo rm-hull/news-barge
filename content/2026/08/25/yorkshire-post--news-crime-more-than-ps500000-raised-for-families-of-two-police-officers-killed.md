@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: More than half a million pounds has been raised for the families of two
   police officers killed in a dual carriageway crash.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/08/cs-3977191e-c287-4ac8-bcbe-857860f7215d.jpg?trim=52,0,52,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # More than £500,000 raised for families of two police officers killed in crash

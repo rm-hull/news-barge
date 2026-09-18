@@ -12,6 +12,9 @@ description: Sonos is turning its software into an 'OS', and the CEO explains wh
   that means for updates — and talks about how the new features offer something for
   AI fans and skeptics.
 image: https://cdn.mos.cms.futurecdn.net/JDT7HRuXaj2wJdyx9Ea3h6-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A headshot of Sonos CEO Tom Conrad on the left, on the right is a close-up of the Sonos logo on a pair of Sonos Ace headphones](https://cdn.mos.cms.futurecdn.net/JDT7HRuXaj2wJdyx9Ea3h6.jpg) 

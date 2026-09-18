@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Jonathan Freedland speaks to Guardian US tech editor Blake Montgomery
   about why Donald Trump is calling AI doomsday predictions a hoax
 image: https://i.guim.co.uk/img/media/f61f03adb43dbaa65520c5df9a732a8ef4c60824/43_0_4379_3504/master/4379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbbc86ddb4ebb0e113bb86cf6c7717df
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - 

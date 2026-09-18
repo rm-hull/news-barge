@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Globally, sales at stores open at least a year—a critical health indicator
   for retailers—increased 1.7%. Comparable store sales in the U.S. rose 1.3%
 image: https://static.independent.co.uk/2026/08/18/12/29/AP26230361999609.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A focus on smaller summer home improvement projects helped Home Depot deliver improved second-quarter results, even as the wider U.S. housing sector remains bogged down in a slump.

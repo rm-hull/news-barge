@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Study suggests Alzheimer’s may not only damage neurons but also push
   some into abnormal state
 image: https://static.independent.co.uk/2026/09/16/3/46/An-old-person-suffering-from-Alzheimers-disease.jpeg?trim=4,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 A small shift in a brain molecule may explain how Alzheimer’s disease turns from an abnormal nerve connection to a condition affecting memories, a new study suggests.

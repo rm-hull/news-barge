@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Officials said US aircraft carrier and destroyer avoided attacks before
   three Iranian tankers were struck by the US
 image: https://i.guim.co.uk/img/media/edc0c42b860523d09f43539363157598f7bd3bf0/167_0_1205_965/master/1205.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4eb3edc5747066cc6eb96a1478f9e7ac
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The US military said Saturday it struck three Iranian oil tankers after US navy warships came under missile attack, further escalating tensions in the region and warning it would “if necessary, destroy Iran’s limited and exposed oil fleet”.

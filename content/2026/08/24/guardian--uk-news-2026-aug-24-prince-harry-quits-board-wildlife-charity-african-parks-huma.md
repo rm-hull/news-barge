@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’
   of African Parks’ mission
 image: https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01abd1db0242f2476a5c8fec7e294d7d
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T16:48:12Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Annie-202606-Gallery-02863-1200x800-1.webp
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 The sun’ll come out in York next year – as musical favourite *Annie* is heading to the big city.

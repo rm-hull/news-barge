@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The figures are revealed amid a prison overcrowding crisis, with thousands
   of criminals released early to free spaces.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/22/16/2026_08_22_15_35_15_108_ASH_29EAAC85992040CE99A87FB0D1572807.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Nine in 10 free prison places are taken up by recalled prisoners, figures reveal

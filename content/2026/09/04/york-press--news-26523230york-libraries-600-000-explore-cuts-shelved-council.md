@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: CUTS worth £600,000 to the contract to run York's libraries have been
   shelved.
 image: https://www.yorkpress.co.uk/resources/images/21412220.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## £600,000 cuts to York library contract shelved as 'now isn't the right time'

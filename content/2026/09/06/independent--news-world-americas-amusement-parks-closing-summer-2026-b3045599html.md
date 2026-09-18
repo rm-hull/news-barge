@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Amusement parks that have closed for good this summer include Wild Waves,
   Fun Spot America and Fiesta Village
 image: https://static.independent.co.uk/2026/05/22/20/49/Untitled-design-(4).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 For many Americans, Labor Day weekend signifies the start of a new school year — and sadly, the end of summer fun.

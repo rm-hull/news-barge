@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Nigel Farage he was honoured and humbled that Ben Delo and Christopher
   Harborne have ‘shown such confidence in Reform’
 image: https://static.independent.co.uk/2026/09/12/12/2262100109..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Reform UK has received its second £36m donation in just two days as another cryptocurrency billionaire shows his support for Nigel Farage’s party.

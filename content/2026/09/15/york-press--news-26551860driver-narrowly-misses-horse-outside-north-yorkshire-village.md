@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The incident as the horses and riders returned from the gallops at Mick
   and David Easterby's racing stables in Sheriff Hutton.
 image: https://www.yorkpress.co.uk/resources/images/21457655.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## The moment driver narrowly misses hitting horse on country road

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A charity bowling event is aiming for 1,000 games in one night, in a
   collaboration between York Against Cancer and Menfulness.
 image: https://www.yorkpress.co.uk/resources/images/21373399.jpg?type=og-image&xType=0&yType=677
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: York Against Cancer)*

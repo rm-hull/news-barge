@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Romanian residents near the Ukraine border are living in fear due to
   Russian drone strikes
 image: https://static.independent.co.uk/2026/09/17/06/Romania_Europe_Russia_Fears__3698.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The text alerts blare first, then the blasts arrive.

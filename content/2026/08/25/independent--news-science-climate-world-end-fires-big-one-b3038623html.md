@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T08:55:59Z'
 published: '2026-08-25T00:00:00Z'
 description: Science tells us catastrophe is not a question of if, but when
 image: https://static.independent.co.uk/2026/08/25/07/download..?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 In the opening scene of American writer Kim Stanley Robinson’s “The Ministry for the Future,” a heat wave combined with a breakdown of the electrical grid in India kills 20 million people. The devastation causes the world's nations unite to combat climate change.

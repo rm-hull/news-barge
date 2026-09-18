@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Wong, 29, is accused of urging foreign powers to impose sanctions, blockades
   and other hostile measures against China
 image: https://i.guim.co.uk/img/media/f34ca5b0d803cd60ef04b64221e0009eb366619f/162_0_4265_3413/master/4265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7e067f0ce37f1cfbbfd4e118d9bf068
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Joshua Wong, one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a national security charge that carries a maximum life sentence.

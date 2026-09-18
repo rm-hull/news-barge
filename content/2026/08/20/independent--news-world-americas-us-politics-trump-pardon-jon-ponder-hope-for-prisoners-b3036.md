@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: CEO of prison reentry program hailed by the president is accused of exploiting
   his position to abuse inmates
 image: https://static.independent.co.uk/2026/08/20/15/1268596563..?trim=0,584,0,584&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s 2020 pardon for a bank robber-turned-nonprofit CEO called him “a source of inspiration for former inmates who desire to rebuild their lives when they leave prison.”

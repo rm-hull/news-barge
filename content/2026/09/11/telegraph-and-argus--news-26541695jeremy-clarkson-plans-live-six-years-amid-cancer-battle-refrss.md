@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Clarkson's Farm and Top Gear star Jeremy Clarkson has said he plans to
   live for at least another six years after overcoming cancer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422689.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Ian West / PA)*

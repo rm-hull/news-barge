@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Appeal court judges have increased the sentence of a driver who filmed
   her boyfriend hanging out of a car window and causing his death by 50 per…
 image: https://www.gazetteherald.co.uk/resources/images/20666029.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: North Yorkshire Police)*

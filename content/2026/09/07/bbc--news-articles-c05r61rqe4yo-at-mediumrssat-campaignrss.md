@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A judge ruled Next can pay warehouse workers more because it is harder
   to recruit and retain them.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![A next storefront with people outside it.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg)

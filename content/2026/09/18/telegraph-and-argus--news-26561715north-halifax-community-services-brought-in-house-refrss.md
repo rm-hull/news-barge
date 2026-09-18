@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Community services for north Halifax residents will be assured of equal
   weight with the rest of Calderdale now it is being brought…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21211579.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Community services for north Halifax residents will be assured of equal weight with the rest of Calderdale now it is being brought “in-house”, says a senior councillor.

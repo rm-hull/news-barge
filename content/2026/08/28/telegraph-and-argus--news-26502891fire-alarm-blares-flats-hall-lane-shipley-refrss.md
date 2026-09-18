@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Emergency services were called to a block of flats following reports
   of a fire alarm sounding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19257670.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The Kremlin accused Ukraine of pursuing a ‘path of escalation’ and vowed
   retaliation
 image: https://static.independent.co.uk/2026/08/26/10/2026-08-26T094452Z_1868544206_RC296NAH6K1W_RTRMADP_3_UKRAINE-CRISIS-ATTACK-WILDBERRIES.JPG?trim=0,288,0,288&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Russia’s defence ministry has announced it is preparing “massive strikes” on Ukraine’s energy infrastructure in retaliation for a drone campaign by Kyiv attacking warehouses and oil and gas facilities.

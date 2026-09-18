@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A driver has been jailed for 42 months after admitting he caused the
   death of a seven-year-old boy.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437441.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Passionate documentary maker won international acclaim for unsparing
   but poetic films exploring the impact of the Pinochet regime in Chile
 image: https://i.guim.co.uk/img/media/43b24454f17b84b616666f19f2c396e773ad772e/0_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc04cc1b3fb35f230fb25ca87645ece
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol, Guzmán died on Tuesday in Paris after a cardiorespiratory arrest.

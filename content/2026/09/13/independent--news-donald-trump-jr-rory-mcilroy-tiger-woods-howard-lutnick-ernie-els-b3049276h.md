@@ -8,6 +8,9 @@ scraped_at: '2026-09-13T07:26:51Z'
 published: '2026-09-13T00:00:00Z'
 description: President Donald Trump loves golf
 image: https://static.independent.co.uk/2026/09/13/05/Trump_Ireland_17_29.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It's no secret that President Donald Trump loves the game of golf. He likes to watch, play, include pros in his foursomes and even design courses. He also isn't shy about his friendships with the pros.

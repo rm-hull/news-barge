@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A “much-loved husband and father” died of “acute” head injury following
   an alleged incident in Scarborough, Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/20423944.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 *(Image: North Yorkshire Police)*

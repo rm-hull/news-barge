@@ -9,6 +9,13 @@ published: '2026-08-28T00:00:00Z'
 description: Two familiar brick bridges on the Castle Eden Walkway are set to be demolished
   this autumn after inspectors raised concerns about falling masonry…
 image: https://www.thenorthernecho.co.uk/resources/images/21379416.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
+- Society & Culture
 ---
 
 *(Image: Stockton Borough Council)*

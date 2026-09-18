@@ -10,6 +10,10 @@ description: The leader of the Seneca Nation in upstate New York is criticizing 
   a more than 225-year-old treaty and shows a “blatant disrespect” for the Indigenous
   people who gave it its name in the first place
 image: https://static.independent.co.uk/2026/08/29/00/Trump_55623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The leader of the Seneca Nation in upstate New York is criticizing President Donald Trump's decision to rename Lake Ontario as “Lake America,” saying it violates a more than 225-year-old treaty and shows a “blatant disrespect” for the Indigenous people who gave it its name in the first place.

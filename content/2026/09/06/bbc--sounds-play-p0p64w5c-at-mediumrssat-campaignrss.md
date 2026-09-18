@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The new chancellor prepares a speech as the PM tries to seperate the
   party from the past.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

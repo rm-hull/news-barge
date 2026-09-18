@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Robin Morgan is considered ‘one of the architects of the contemporary
   women’s movement’
 image: https://static.independent.co.uk/2026/09/05/22/2265008801..?trim=164,0,164,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 Robin Morgan, a wholesome child star of the 1940s and 1950s who grew up to become a poet, essayist, editor and second-wave feminist, has died. She was 85.

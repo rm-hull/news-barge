@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T04:48:25Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/xianwei-xi.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Extensive searches are underway tonight (Sunday) to find a missing man from York.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T04:31:45Z'
 published: '2026-09-09T00:00:00Z'
 description: Local areas with highest and lowest fertility rates revealed
 image: https://www.thetelegraphandargus.co.uk/resources/images/21026191.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Newsquest)*

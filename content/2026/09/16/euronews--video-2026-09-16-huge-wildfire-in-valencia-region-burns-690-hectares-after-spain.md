@@ -10,6 +10,10 @@ description: Video. Spainâ€™s firefighters were battling a major wildfire in TuÃ
   in the Valencia region, on 15 September, after flames spread through the Alto Turia
   Biosphere Reserve.
 image: https://images.euronews.com/articles/stories/09/91/58/95/1200x675_cmsv2_4c8514fb-95e5-5bc7-9f4c-ded53bed0085-9915895.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 The fire broke out shortly after 3.30pm and had burned around 690 hectares by Wednesday morning, with flames spreading along a 17-kilometre perimeter. Fire engines, helicopters and aircraft were deployed as crews worked to contain the blaze in dense and difficult-to-reach vegetation.

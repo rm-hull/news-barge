@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: FOR newspapers, podcasters and gossipers, the surprise return of Harry
   and Megan from California is great news. They will have loads to speculate…
 image: https://www.thenorthernecho.co.uk/resources/images/21356769.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 FOR newspapers, podcasters and gossipers, the surprise return of Harry and Megan from California is great news. They will have loads to speculate about and talk through.

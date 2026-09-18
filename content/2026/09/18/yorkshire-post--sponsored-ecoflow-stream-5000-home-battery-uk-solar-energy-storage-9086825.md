@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: EcoFlow is taking aim at household energy bills with a new 5kWh home
   battery that stores solar power for when families need it most.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/6/46/Main_Image.jpeg?trim=0,160,0,160&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # EcoFlow launches compact home battery to help UK households get more from solar power and slash energy bills

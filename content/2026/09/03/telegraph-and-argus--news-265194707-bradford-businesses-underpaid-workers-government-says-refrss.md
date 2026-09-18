@@ -9,6 +9,13 @@ published: '2026-09-03T00:00:00Z'
 description: Seven Bradford businesses have been named and shamed by the Government
   for failing to pay the National Minimum Wage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Newsquest)*

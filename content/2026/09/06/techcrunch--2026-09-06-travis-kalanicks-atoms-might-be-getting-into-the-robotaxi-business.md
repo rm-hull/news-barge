@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The Uber founder has said that Atoms will allow him to complete "unfinished
   business."
 image: https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Earlier this summer, Travis Kalanick’s Atoms announced a $1.7 billion funding round led by Andreessen Horowitz. But even after raising that mega round, the Uber founder remained a bit cagey about what he was actually aiming to do.

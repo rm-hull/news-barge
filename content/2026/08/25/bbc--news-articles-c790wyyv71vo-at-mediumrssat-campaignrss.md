@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Jed York pleaded no contest to two charges in Ohio after being arrested
   for soliciting prostitution.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da0/live/b4003d30-a06d-11f1-a9ee-9bb6b032b6a3.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Police mugshot release of Jed York](https://ichef.bbci.co.uk/ace/standard/580/cpsprodpb/7da0/live/b4003d30-a06d-11f1-a9ee-9bb6b032b6a3.jpg)

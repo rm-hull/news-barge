@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Nearly 600 practices in England have withdrawn from NHS dentistry over
   the last 10 years, as the service heads towards a two-tier system.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e3c/live/56fd13c0-9d65-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Young female dentist and assistant working on female patient in chair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3e3c/live/56fd13c0-9d65-11f1-a291-b542ee92de7c.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Video. Dramatic footage shows a flash flood tearing through Nepal’s Rasuwa
   district, killing 157 people and leaving hundreds missing.
 image: https://images.euronews.com/articles/stories/09/89/08/14/1200x675_cmsv2_ae51f50d-617b-51b7-a281-697b3f19eab6-9890814.jpg
+categories:
+- Europe
+- News & Politics
+- Film & TV
 ---
 
 Footage filmed by the Nepal Red Cross shows floodwaters surging through Nepal’s Rasuwa district on 26 August, after an ice and rock avalanche blocked a tributary near the border with Tibet. The natural dam later burst, sending a torrent of water and debris down the Trishuli valley.

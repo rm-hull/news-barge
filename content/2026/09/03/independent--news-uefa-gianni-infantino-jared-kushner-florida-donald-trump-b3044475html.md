@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: FIFA has accused European soccer body UEFA of a “smear campaign” in a
   court filing
 image: https://static.independent.co.uk/2026/08/27/17/FIFA_Infantino_Italy_18367.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 FIFA accused European soccer body UEFA of a “smear campaign” in a court filing on Thursday concerning FIFA President Gianni Infantino's failed plan to sell stakes in the World Cup and other competitions.

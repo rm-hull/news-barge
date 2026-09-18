@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A riding school has gone into partial lockdown after a confirmed case
   of a highly infectious disease.
 image: https://www.thenorthernecho.co.uk/resources/images/21354778.jpg?type=og-image&xType=0&yType=70
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: TRIPADVISOR)*

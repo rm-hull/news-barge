@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Tensions flare between airport fixer Tobias and his new boss Mia in this
   drama series
 image: https://cdn.mos.cms.futurecdn.net/cTGyz3zWHBvfk5WiKPxRNK-584-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The Airport Chaplain](https://cdn.mos.cms.futurecdn.net/cTGyz3zWHBvfk5WiKPxRNK.jpg) 

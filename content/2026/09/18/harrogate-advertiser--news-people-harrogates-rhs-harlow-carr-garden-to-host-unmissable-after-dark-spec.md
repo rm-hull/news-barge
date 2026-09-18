@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Visitors are being invited to experience Harrogate’s RHS Harlow Carr
   gardens in a whole new light with spectacular new light installations.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzODMyYjYyLTQ5NmEtNDMwNS05MWE3LThhMGMwMDAxMzgwNToxMThiMjc2Ny1hNGQ5LTQ2MzgtOTBkZi1mYWMwZmY2NzAwYWM=.jpg?crop=3:2,smart&trim=&width=612&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 # Harrogate’s RHS Harlow Carr garden to host 'unmissable' after-dark spectacle for all the family

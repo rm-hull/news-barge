@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: The second Ushaw Classic Car & Bike Show of 2026 was held at Ushaw Historic
   House, Chapels & Gardens, near Durham, on Sunday (August 30).
 image: https://www.thenorthernecho.co.uk/resources/images/21391408.jpg?type=og-image&xType=0&yType=222
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Hundreds of classic cars and motorbikes descended on the grounds of Ushaw for a major motoring show over the Bank Holiday weekend.

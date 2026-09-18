@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: UK foreign secretary says international community including US shares
   ‘frustration’ at Israel’s failure to constrain illegal settlers
 image: https://i.guim.co.uk/img/media/854d9f1256bb007a8d9bb69877b1d44b3c3d7d48/341_100_4027_3221/master/4027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9997a9eb0bcb2796c9a074118b2f251c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 British intelligence has been given assurances by its Israeli counterpart that information sharing with the UK will continue as before, Ed Miliband, the foreign secretary has said.

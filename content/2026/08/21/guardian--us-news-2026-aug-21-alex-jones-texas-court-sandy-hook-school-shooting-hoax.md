@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Appeals court slashes judgment to $1.5m in a significant legal victory
   for the rightwing Infowars founder
 image: https://i.guim.co.uk/img/media/f6a3d36851aec5e551685ead8806dad79bacdb01/577_0_6372_5096/master/6372.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=14239a5735796ec5371bca75db3cd658
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A Texas appeals court has slashed the $50m judgment to $1.5m against Alex Jones, founder of the rightwing platform Infowars, over falsely calling the 2012 Sandy Hook school shooting in Newtown, Connecticut a hoax.

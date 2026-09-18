@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Video. Flood survivors in Nuwakot cross the swollen Trishuli River on
   a temporary cable as soldiers and residents help pull them to safety.
 image: https://images.euronews.com/articles/stories/09/89/94/48/1200x675_cmsv2_afd9d3e5-bfda-53da-9f43-b6c72e27c9d4-9899448.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Flood survivors in Nepal cross the swollen Trishuli River in Nuwakot district on a makeshift cable, with Nepali soldiers and local residents pulling them to safety. The footage shows people boarding the temporary device and gripping the cable as they are carried high above the fast-flowing river.

@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: The second World Humanoid Robot Games have got underway in China, and
   records are falling.
 image: https://cdn.mos.cms.futurecdn.net/ctrvECd8Kgjado59kyxSdm-2000-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Lightning robot](https://cdn.mos.cms.futurecdn.net/ctrvECd8Kgjado59kyxSdm.jpg) 

@@ -10,6 +10,11 @@ description: Three U.S. Secret Service officials have been placed on administrat
   leave , pending the outcome of an investigation by the agency’s professional standards
   office
 image: https://static.independent.co.uk/2026/08/26/7/58/Anthony-Guglielmi.jpg?trim=66,0,67,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Three non-law-enforcement U.S. Secret Service officials have been placed on administrative leave following the launch of an internal inquiry by the agency’s professional standards office.

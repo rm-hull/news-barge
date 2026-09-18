@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Home Office has identified the former RAF base at Linton-on-Ouse
   as the site for an asylum camp.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1NjU0YmRmLTM2M2YtNDE4NS1iNGRmLWYyMTc2OGRlMTMwNTpmOGQ2ZDBmYi03MWM1LTRiOWYtODc5MC1kYTVjNWVlMWZjY2I=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Linton-on-Ouse: residents urge Asylum Minister to visit village of planned asylum camp

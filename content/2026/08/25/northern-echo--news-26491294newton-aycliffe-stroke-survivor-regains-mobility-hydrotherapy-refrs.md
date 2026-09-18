@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: County Durham stroke survivor Carol, who was told she might never walk
   again after suffering a severe stroke, has credited hydrotherapy at Newton…
 image: https://www.thenorthernecho.co.uk/resources/images/21365435.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

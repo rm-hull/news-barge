@@ -9,6 +9,9 @@ description: The key voting bloc in the upcoming midterms was unfazed by the Rep
   midterm convention in Dallas, during which Donald Trump promised Americans $5,000
   checks if his party held onto power in Congress
 image: https://static.independent.co.uk/2026/09/17/22/53/Trump.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A majority of independent voters in Texas have said the Republican midterm convention in Dallas last week made no impact on their excitement to cast their ballot, despite President Donald Trump calling the event a “winner.”

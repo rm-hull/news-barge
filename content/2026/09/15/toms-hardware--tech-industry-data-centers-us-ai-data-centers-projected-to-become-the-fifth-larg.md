@@ -10,6 +10,10 @@ published: '2026-09-15T00:00:00Z'
 description: Only China, Russia, Iran, and the U.S. itself are expected to use up
   more of this fossil fuel.
 image: https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a row of separation vessels for natural gas production](https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg.png) 

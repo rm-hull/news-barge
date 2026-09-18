@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: It’s a long way from from the gritty streets of New York to Harrogate
   but a legendary hard rock band will be doing just that next month.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJmNDVlZDY5LTVjODQtNGU4NS05YzdjLWJmZDJmYTUyMDM3Nzo3MWI1YjE0Yy0wODlmLTQ2OWUtYjY1ZC1kY2FhNmZhNGMzOTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Major musical coup for Harrogate's Den bar as live date with MTV hard rockers is announced

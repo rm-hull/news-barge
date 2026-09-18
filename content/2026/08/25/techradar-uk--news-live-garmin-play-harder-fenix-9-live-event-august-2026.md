@@ -7,6 +7,8 @@ scraped_at: '2026-08-25T08:55:38Z'
 published: '2026-08-25T00:00:00Z'
 description: Here's our coverage of Garmin's live 'Play Harder' event as it happens.
 image: https://cdn.mos.cms.futurecdn.net/zQtzEtvsQ8XLGMeMPHrUaW-1700-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Garmin Fenix 8 Pro](https://cdn.mos.cms.futurecdn.net/zQtzEtvsQ8XLGMeMPHrUaW.jpg) 

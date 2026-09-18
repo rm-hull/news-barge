@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A powerful tornado caused severe damage south of Carcassonne, ripping
   up trees and roofs, with gusts locally reaching 117 km/h.
 image: https://images.euronews.com/articles/stories/09/73/49/67/1200x675_cmsv2_0f9c7263-9a44-54dc-b24d-1ffc53388d01-9734967.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## A powerful tornado caused severe damage south of Carcassonne, ripping up trees and roofs, with gusts locally reaching 117 km/h.

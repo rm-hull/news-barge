@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Skylark Studio offers great sea views, a cosy place to unwind, and
   a base for exploring the surrounding villages.
 image: https://www.thenorthernecho.co.uk/resources/images/21401159.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A “lovely and peaceful” spot near the Northumberland coast has been named one of the most popular Airbnbs in the UK.

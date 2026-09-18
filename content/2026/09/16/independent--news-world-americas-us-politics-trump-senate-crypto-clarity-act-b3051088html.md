@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The bill, called the Clarity Act, fell 10 short of reaching the 60-vote
   threshold needed to advance
 image: https://static.independent.co.uk/2026/08/19/22/2290596908..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A comprehensive cryptocurrency bill backed by President Donald Trump failed to advance in the Senate on Tuesday, dealing a severe setback to digital asset firms and Republican lawmakers who had spent months pushing the legislation.

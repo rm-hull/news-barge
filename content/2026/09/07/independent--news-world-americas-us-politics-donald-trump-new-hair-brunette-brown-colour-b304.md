@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: President has long had to dispel speculation about his hair, including
   whether it’s fake
 image: https://static.independent.co.uk/2026/09/06/03/2293024720..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Photos of President Donald Trump stepping off Air Force One with hair that appears to be a darker shade than his signature blonde locks have sparked speculation on the internet.

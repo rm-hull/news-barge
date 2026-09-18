@@ -9,6 +9,10 @@ description: Trooper Nekime Oxendine is accused of shooting Sheriff’s Office C
   Adam Bean outside the home of a woman they had both reportedly had romantic relationships
   with
 image: https://static.the-independent.com/2026/09/10/13/21/Nekime-Oxendine-Adam-Bean-split.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A North Carolina state trooper is accused of fatally shooting a fellow cop as a love triangle took a deadly turn.

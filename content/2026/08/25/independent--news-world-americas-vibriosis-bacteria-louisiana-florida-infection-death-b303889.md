@@ -9,6 +9,11 @@ description: One in five people die from infections of vibriosis which can lead 
   blistering skin lesions and septic shock, as well as rapid tissue death that forces
   amputations
 image: https://static.independent.co.uk/2026/08/25/15/2284745736..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 An eighth person has died in the United States this year after being exposed to a flesh-eating bacteria spread through contaminated seawater and by eating oysters.

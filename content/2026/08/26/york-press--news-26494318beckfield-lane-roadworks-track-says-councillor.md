@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A councillor has reassured the public after communication issues have
   caused issues for a major roadworks project in a York suburb.
 image: https://www.yorkpress.co.uk/resources/images/21371119.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- News & Politics
+- Technology & Software
 ---
 
 ## Councillor speaks out over major roadwork project in York suburb

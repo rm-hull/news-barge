@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: The prime minister’s first full term in power could spell the end of
   his political honeymoon
 image: https://static.independent.co.uk/2026/08/28/16/6f69bbd8098626e7f3cf78f8214748c3Y29udGVudHNlYXJjaGFwaSwxNzg4MDE1OTI0-2.85649701.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham will return to parliament on Tuesday, no doubt buoyed by an overwhelming public support for the Labour Party since he took office.

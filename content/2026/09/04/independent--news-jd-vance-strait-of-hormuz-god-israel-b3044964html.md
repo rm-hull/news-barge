@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The small Iranian town of Kuhestak is reeling after a U.S. strike hit
   a house where dozens of women were gathered to celebrate a wedding
 image: https://static.independent.co.uk/2026/09/04/17/APTOPIX_Iran_US_War_72598.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Women with their children were gathered in the house and yard, waiting for the bride and groom to arrive to kick off a wedding celebration in this small town in southern Iran. Then an explosion turned the scene to carnage.

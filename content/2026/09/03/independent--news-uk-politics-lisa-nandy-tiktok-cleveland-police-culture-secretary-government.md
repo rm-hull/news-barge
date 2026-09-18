@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Culture Secretary paid tribute to two police officers who died in
   a collision with a car being driven the wrong way along a dual carriageway.
 image: https://static.independent.co.uk/2026/09/03/11/4f4c7cd0ad9494ec64b5f9baa32f1eb0Y29udGVudHNlYXJjaGFwaSwxNzg4NTE1Mzkw-2.85539992.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Comedy & Entertainment
 ---
 
 Lisa Nandy has said she will meet TikTok “in the coming days” as she told MPs there is more to do to address an “epidemic” of young people using social media to encourage dangerous behaviour.

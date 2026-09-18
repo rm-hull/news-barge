@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Former Duchess of York moved to Swiss chalet during fallout over her
   friendship with convicted child sex offender
 image: https://i.guim.co.uk/img/media/7586d13753226f14ae0809ce31a32fe2020befc2/456_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa7398527d5d2ca79e0766a0925ab810
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Sarah Ferguson is set to return to the UK after relocating to a Swiss chalet amid the fallout over her and ex-husband Andrew Mountbatten-Windsor’s friendship with convicted child sex offender Jeffrey Epstein, according to reports.

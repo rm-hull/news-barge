@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man responded to being told a relationship was over by squeezing his
   partner’s neck so tightly that it caused three blood vessels to burst, a…
 image: https://www.thenorthernecho.co.uk/resources/images/21012932.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

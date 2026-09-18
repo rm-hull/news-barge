@@ -10,6 +10,12 @@ description: One of Britain’s best-loved film and TV actors is coming to Ripon
   a very special fundraising evening in support of Ripon Theatre Festival and he says
   he can’t wait.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUwMWY0ZTY1LTc3YzAtNDBmMS05Y2YwLWI5YjcyMjRkZGY1ODpmOTc1OGJlYS0yOWQ2LTRjMzItYTQ0ZS1hZTgwYjFiYmRiMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 # 'Much-loved' leading actor in Downton Abbey is to fundraise for Ripon Theatre Festival

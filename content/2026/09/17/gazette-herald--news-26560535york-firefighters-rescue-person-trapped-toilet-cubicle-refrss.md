@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Firefighters rescued someone who was trapped inside a toilet cubicle
   in York today, Thursday, September 17.
 image: https://www.gazetteherald.co.uk/resources/images/20468085.jpg?type=og-image&xType=0&yType=1256
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: North Yorkshire Council)*

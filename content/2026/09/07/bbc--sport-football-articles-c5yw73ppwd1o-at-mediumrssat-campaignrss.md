@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The possible candidates to succeed Richard Hughes - plus the numerous
   tasks facing Liverpool's next sporting director.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/702e/live/a2620e90-aaaf-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Barry Hunter, Julian Ward, Michael Edwards, Richard Hughes and David Woodfine pose for a photograph with the Premier League trophy at the end of the 2024-25 season.](https://ichef.bbci.co.uk/ace/standard/872/cpsprodpb/702e/live/a2620e90-aaaf-11f1-9eba-7de947fa7cd1.jpg)

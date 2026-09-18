@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Cambodia’s army says it will resume joint military exercises with the
   United States early next year after a decade-long suspension
 image: https://static.independent.co.uk/2026/09/04/19/Cambodia_US_Military_2_523.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Cambodia ’s army announced Friday that it will resume joint military exercises with the United States early next year after they had been suspended for almost a decade.

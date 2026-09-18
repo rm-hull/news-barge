@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Pupils at Queen Mary's School are celebrating after almost half of all
   GCSE grades were awarded at grades 7 to 9.
 image: https://mmo.aiircdn.com/409/6a870d027b70d51d62a.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6a870d027b70d51d62a.jpg) 

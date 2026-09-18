@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: PlayStation steps away from its collaboration with Kojima Productions
   as Xbox swoops in with a new partnership, and it's another bad move from Sony.
 image: https://cdn.mos.cms.futurecdn.net/wCoJZLka9LsHrUBnP83kqn-2400-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Hermen Hulst and Hideo Kojima announcing collaboration backdrop](https://cdn.mos.cms.futurecdn.net/wCoJZLka9LsHrUBnP83kqn.png) 

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Nepal has reported 538 deaths and Tibet five, with 1,500 people still
   missing amid race to find survivors
 image: https://i.guim.co.uk/img/media/b170e98ad4266b55107bc42714bcf2587b715901/225_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0e29ca8a0c82569121391be4046ef821
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Some more sobering images have just come in from the news wires, as rescue efforts continue to search for the more than 1,500 people missing after a brief pause due to a formed river overflowing.

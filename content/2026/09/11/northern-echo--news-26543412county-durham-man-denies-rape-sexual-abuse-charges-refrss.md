@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: County Durham man Mark Faulds denies rape and sexual abuse charges after
   being accused of grooming a teenager with alcohol, drugs and cigarettes.
 image: https://www.thenorthernecho.co.uk/resources/images/19950741.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

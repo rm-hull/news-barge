@@ -9,6 +9,11 @@ description: Berliners will go to the polls on Sunday to elect a new state parli
   We explain who can vote, the big issues and what you can expect from this nail-biting
   election.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-612317501.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 September is a busy month for elections in Germany this year. Just a couple of weeks after the explosive vote in Saxony-Anhalt that saw the far-right Alternative for Germany (AfD) score over 40 percent of the vote, another key date is coming up.

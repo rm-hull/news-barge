@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Sony has released a new PlayStation 5 ad featuring Grand Theft Auto 6,
   and fans are getting excited over a new sound effect.
 image: https://cdn.mos.cms.futurecdn.net/NuUhRQgBB3yupKcfp2zQjF-2160-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Jason and Lucia in GTA 6](https://cdn.mos.cms.futurecdn.net/NuUhRQgBB3yupKcfp2zQjF.png) 

@@ -9,6 +9,9 @@ description: Former State Adviser Erlan Karin has become Kazakhstan’s vice pre
   Prime Minister Olzhas Bektenov was also nominated for the post but will remain in
   his position as head of Government.
 image: https://images.euronews.com/articles/stories/09/89/49/92/1200x675_cmsv2_1907fc6c-529a-5409-b7cf-ba921447a93c-9894992.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Former State Adviser Erlan Karin has become Kazakhstan’s vice president. Prime Minister Olzhas Bektenov was also nominated for the post but will remain in his position as head of Government.

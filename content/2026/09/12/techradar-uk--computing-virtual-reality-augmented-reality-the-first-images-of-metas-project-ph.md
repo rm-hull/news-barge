@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: We've got our first proper look at Meta Project Phoenix and the headset
   looks more like a pair of smart glasses.
 image: https://cdn.mos.cms.futurecdn.net/MA6U4Hhkfsp3yZqDE9bAhh-1920-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Meta Quest 3S hands on](https://cdn.mos.cms.futurecdn.net/MA6U4Hhkfsp3yZqDE9bAhh.jpg) 

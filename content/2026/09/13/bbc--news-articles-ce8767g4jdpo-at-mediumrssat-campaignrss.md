@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Brics members agree they need a new global order but it's harder to answer
   what should replace it and how to get there.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Russia's President Vladimir Putin, India's Prime Minister Narendra Modi and China's President Xi Jinping pose for a family photo during the BRICS summit in New Delhi, India, September 12, 2026](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg)

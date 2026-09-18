@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: York CAMRA's beer and cider festival is preparing to get underway – in
   St Lawrence Parish Church.
 image: https://www.yorkpress.co.uk/resources/images/21447663.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

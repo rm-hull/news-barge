@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Tony Romo was arrested last month on suspicion of operating a vehicle
   while intoxicated (OWI)
 image: https://static.the-independent.com/2026/07/24/19/50/Untitled-design-(1).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Tony Romo has been hit with three additional citations relating to his arrest last month, an incident that led CBS to place him on leave from his role as lead analyst for NFL broadcasts.

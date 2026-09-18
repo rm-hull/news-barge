@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T04:44:14Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/02/harrogate-lib-dem-pat-marsh.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 A North Yorkshire councillor posted a torrent of bigoted messages likely to stir up racial hatred on social media.

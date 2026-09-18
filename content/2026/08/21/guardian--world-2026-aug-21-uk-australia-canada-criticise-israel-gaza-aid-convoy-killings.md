@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Joint statement issued after IDF said it will not pursue criminal investigations
   into April 2024 strike that killed seven humanitarian workers
 image: https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bba6c893911c846d4d8cb0ce5c622329
+categories:
+- UK
+- News & Politics
 ---
 
 Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The strikes killed seven humanitarian workers from the US-based World Central Kitchen (WCK) organisation.

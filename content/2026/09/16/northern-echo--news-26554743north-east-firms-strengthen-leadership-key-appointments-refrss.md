@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: North East businesses strengthen leadership teams as Commsworld, Maven
   Capital Partners and Aldermore make senior appointments to drive growth and…
 image: https://www.thenorthernecho.co.uk/resources/images/21461998.jpg?type=og-image&xType=0&yType=427
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Maven)*

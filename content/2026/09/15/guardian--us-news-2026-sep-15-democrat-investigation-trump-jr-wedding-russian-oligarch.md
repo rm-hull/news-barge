@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Robert Garcia expresses concern over ‘any possible foreign entanglement’
   between White House and Umar Kremlev
 image: https://i.guim.co.uk/img/media/15d020dd33e5a7c1514b462b89266651c47fafbb/468_0_4707_3765/master/4707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dce92e73fdfc0f247eba1775ad5bbce2
+categories:
+- UK
+- News & Politics
 ---
 
 Robert Garcia, the top Democrat on the House oversight committee, is investigating potential ties between the White House and a Russian oligarch who paid for a portion of Donald Trump Jr’s wedding.

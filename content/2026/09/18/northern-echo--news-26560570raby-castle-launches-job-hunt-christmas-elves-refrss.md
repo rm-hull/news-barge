@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Raby Castle is recruiting festive elves and event support staff for its
   Christmas season, offering training, staff perks and the chance to spread…
 image: https://www.thenorthernecho.co.uk/resources/images/21470410.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Raby Castle is looking to recruit festive elves and event support staff for its Christmas experience.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Bournemouth started a League Two season on -17 points in 2008, now they
   have made a dream start in European competition.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Adam Smith leads Bournemouth players celebrations after win at Real Sociedad](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg)

@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: From Outer Banks' final season to Anne Hathaway's recent A24 film, here's
   what you'll want to be seated for this weekend.
 image: https://cdn.mos.cms.futurecdn.net/ktngE3iaya46B55nNDqHHk-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Anne Hathaway singing into a microphone in A24's Mother Mary movie](https://cdn.mos.cms.futurecdn.net/ktngE3iaya46B55nNDqHHk.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The proposed law sought to introduce one of the biggest societal changes
   in recent years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Watch: MPs share personal stories in assisted dying debate

@@ -10,6 +10,11 @@ description: The population of baleen whales along eastern Greenland has boomed 
   recent decades, and reporter Leah Crane recounts a profound experience of seeing
   them
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309681078.jpg
+categories:
+- Science
+- Technology & Software
+- Society & Culture
+- Travel
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309681078.jpg?w=840)

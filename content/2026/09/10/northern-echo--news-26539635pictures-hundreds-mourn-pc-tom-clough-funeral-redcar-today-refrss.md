@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Hundreds of mourners gathered to pay their respects to PC Tom Clough,
   who was killed in the line of duty on the A66.
 image: https://www.thenorthernecho.co.uk/resources/images/21436311.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Hundreds of mourners gathered to pay their respects to PC Tom Clough, who was killed in the line of duty on the A66.

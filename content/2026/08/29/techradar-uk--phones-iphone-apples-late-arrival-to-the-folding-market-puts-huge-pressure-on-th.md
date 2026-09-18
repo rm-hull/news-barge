@@ -8,6 +8,9 @@ scraped_at: '2026-08-29T13:50:16Z'
 published: '2026-08-29T00:00:00Z'
 description: A big ripple in a small pond
 image: https://cdn.mos.cms.futurecdn.net/RuciS2m74uwnBAVgaoHdNc-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Samsung Galaxy Z Fold 8](https://cdn.mos.cms.futurecdn.net/RuciS2m74uwnBAVgaoHdNc.jpg) 

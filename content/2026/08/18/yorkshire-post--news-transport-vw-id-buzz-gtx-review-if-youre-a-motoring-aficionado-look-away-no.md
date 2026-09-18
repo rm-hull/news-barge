@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: If you are a motoring aficionado, this review of the Volkswagen I.D.
   Buzz is probably not for you. Move along. Nothing to see here.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAzZmIzNTZmLTE1ZGUtNDVmZS05Yzk4LWJkZDVjMzUwOWEzMTo5N2U5OWEzYy03MGZmLTRlMWEtYTBjOS03MmQwOTgyMjU0ZGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # VW ID Buzz GTX review: If you're a motoring aficionado, look away now. This one's for the parents

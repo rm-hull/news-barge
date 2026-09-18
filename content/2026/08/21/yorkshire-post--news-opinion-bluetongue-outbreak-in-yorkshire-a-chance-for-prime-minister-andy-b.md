@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Throughout their tenure as Prime Minister and as Chancellor of the Exchequer
   respectively, Sir Keir Starmer and Rachel Reeves were at war with the countryside.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ4ZmExZTI4LTI2MTQtNGVmMi1hZDY2LWFjYjI3MGNlNWFlYzo2YWY3N2NmYi01NDJkLTRkMTUtYTAwNy1kMzE0OGUzN2U4MjU=.jpg?crop=3:2,smart&trim=&width=900&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Bluetongue outbreak in Yorkshire: a chance for Prime Minister Andy Burnham to show farmers he is on their side

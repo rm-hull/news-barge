@@ -9,6 +9,11 @@ description: A business owner took a shotgun from his former father-in-law’s h
   then used it in an attempted robbery where he demanded two builders hand over their
   works van at gunpoint.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/15/47/Oliver-Battye.jpeg?trim=0,117,0,137&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Shotgun-wielding businessman threatened builders in attempted van robbery

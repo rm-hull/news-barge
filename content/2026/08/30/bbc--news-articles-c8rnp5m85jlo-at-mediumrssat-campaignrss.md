@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Parenting experts give their top tips on how to make sure back-to-school
   runs as smoothly as possible.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ae8/live/fa829fa0-a06d-11f1-a9ee-9bb6b032b6a3.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Education & Learning
+- Self-Improvement
 ---
 
 ![A man wearing a black shirt tying his daughter's hair up, she is wearing a blue school uniform with a white shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/0ae8/live/fa829fa0-a06d-11f1-a9ee-9bb6b032b6a3.jpg)

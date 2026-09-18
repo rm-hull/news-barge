@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: After a 139-day wait, Carlos Alcaraz makes a winning return to the singles
   court as he beats Roman Safuillin in the US Open first round.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7824/live/30db6a50-a587-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Carlos Alcaraz yells in celebration](https://ichef.bbci.co.uk/ace/standard/905/cpsprodpb/7824/live/30db6a50-a587-11f1-b109-879e35c24276.jpg)

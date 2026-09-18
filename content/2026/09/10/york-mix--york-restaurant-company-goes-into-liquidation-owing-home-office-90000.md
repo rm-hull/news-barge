@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:53:30Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/immigration-enforcement-pa.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 A York restaurant company has gone into liquidation owing thousands to the Home Office in fines.

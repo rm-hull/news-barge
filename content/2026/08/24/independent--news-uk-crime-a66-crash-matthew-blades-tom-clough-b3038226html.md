@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Pc Matthew Blades and Pc Tom Clough, were killed when a Volkswagen Passat
   – which had been pursued by police – was driven the wrong way along a dual carriageway
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Nine men and three women, aged between 19 and 61, have been arrested by officers investigating the events leading up to the crash on the A66 which killed two police officers, Cleveland Police said.

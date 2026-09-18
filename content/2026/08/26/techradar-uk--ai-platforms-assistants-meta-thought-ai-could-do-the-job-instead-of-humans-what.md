@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A new report claims Meta once planned to replace 60% of its workforce
   with AI
 image: https://cdn.mos.cms.futurecdn.net/nJb2PZb68M3xpBFzUgJiRS-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![AI Sun](https://cdn.mos.cms.futurecdn.net/nJb2PZb68M3xpBFzUgJiRS.jpg) 

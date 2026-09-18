@@ -9,6 +9,10 @@ description: '"In 1 year alone the robots competing have become twice as fast. T
   highlights the pace of advancement both in the market, and specifically in Chinese
   robotics," organisers of the World Humanoid Robot Games said.'
 image: https://images.euronews.com/articles/stories/09/88/51/26/1200x675_cmsv2_b1e16a4a-2fa7-58e0-b6de-0a5a083ae41f-9885126.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## "In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics," organisers of the World Humanoid Robot Games said.

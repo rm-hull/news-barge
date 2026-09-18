@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Prince of Wales tells the BBC we need to "accelerate" in finding
   solutions to climate challenges as Earthshot nominees are unveiled.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe22/live/5d5c8370-b347-11f1-91a3-393282eb9f17.png
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Prince of Wales, speaks at the Earthshot Prize Impact Assembly at the Guildhall in central London. He stands in a navy suit and blue tie at a lectern with a microphone](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/fe22/live/5d5c8370-b347-11f1-91a3-393282eb9f17.png)

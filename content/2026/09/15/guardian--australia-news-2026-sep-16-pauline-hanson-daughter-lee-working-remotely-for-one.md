@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: 'Exclusive: Lee Hanson also appears to be regularly campaigning for party
   during work hours, social media shows'
 image: https://i.guim.co.uk/img/media/0e584ec4cb5b97c8183b1a65dcd89481ee0e2271/1_0_5142_4115/master/5142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=837e4772087629fe80e281c8a86eb154
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Pauline Hanson’s daughter, Lee Hanson, has been working in Tasmania as a senior adviser to a New South Wales One Nation senator without the required ministerial approval, Guardian Australia can reveal.

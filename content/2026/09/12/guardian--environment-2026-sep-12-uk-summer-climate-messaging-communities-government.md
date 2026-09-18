@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: As trust in institutions wavers, experts say local, collective action
   is more effective in driving change
 image: https://i.guim.co.uk/img/media/dc943034b40d0497059b3c012aec2c89d95bd88a/670_0_3850_3081/master/3850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5434f433abf6960ac3dae2f20208daa
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Wildfires, excess deaths, hosepipe bans, school closures: this summer many British people have experienced the often devastating effects of the climate crisis in ways they had not before. In that sense, policymakers and climate experts have a unique opportunity to engage with the public about what needs to happen to better prepare the country for the years ahead. But as trust in institutions wavers – and yellowed, drought-stricken grass begins to recover – can the messaging cut through?

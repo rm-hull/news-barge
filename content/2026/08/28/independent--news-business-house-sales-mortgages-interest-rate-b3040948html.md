@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: There were an estimated 96,710 home sales in July, according to figures
   from HMRC
 image: https://static.independent.co.uk/2026/07/07/09/2281568603..?trim=0,142,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 The number of home sales dipped last month as the housing market faced a subdued summer amid higher borrowing costs, new data shows.

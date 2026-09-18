@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Bradford Council has been awarded £175,000 to help safeguard its precious
   artwork for the future.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430703.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

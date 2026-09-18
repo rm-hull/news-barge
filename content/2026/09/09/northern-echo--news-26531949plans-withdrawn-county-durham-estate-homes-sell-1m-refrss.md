@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Plans for a new Lanchester home have been withdrawn after residents raised
   concerns about privacy, noise and its impact on neighbouring properties.
 image: https://www.thenorthernecho.co.uk/resources/images/21425448.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: GOOGLE)*

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Michigan officials have a plan that aims to save the Great Lakes' whitefish
   from invasive mussels
 image: https://static.independent.co.uk/2026/09/08/19/Great_Lakes_Whitefish_5_881.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 With time running out to save the Great Lakes’ whitefish from a deadly mussel invasion, Michigan officials have a moonshot plan to pluck fish from Lake Michigan and breed them in captivity.

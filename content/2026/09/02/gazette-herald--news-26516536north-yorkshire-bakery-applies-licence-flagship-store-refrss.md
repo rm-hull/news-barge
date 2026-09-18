@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A NORTH Yorkshire bakery’s flagship store has applied for a new licence
   from North Yorkshire Council.
 image: https://www.gazetteherald.co.uk/resources/images/17285534.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A NORTH Yorkshire bakery’s flagship store has applied for a new licence from North Yorkshire Council.

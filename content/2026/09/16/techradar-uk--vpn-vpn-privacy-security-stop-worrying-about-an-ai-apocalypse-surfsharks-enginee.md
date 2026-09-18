@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Surfshark's Lead System Engineer argues that instead of fearing a sci-fi
   apocalypse, we need to tackle the real problems generative AI is already causing.
 image: https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hologram of the artificial intelligence robot showing up from binary code](https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk.jpg) 

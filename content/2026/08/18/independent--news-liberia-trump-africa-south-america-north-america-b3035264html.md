@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Liberia has agreed to accept up to 1,200 third-country deportees from
   the United States, according to authorities in the West African country
 image: https://static.independent.co.uk/2026/08/18/22/Liberia_US_Deportees_56284.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Society & Culture
 ---
 
 Liberia has agreed to accept up to 1,200 third-country deportees from the United States, authorities in the West African country said Tuesday, in one of the largest such arrangements under the Trump administration’s broader crackdown on immigration.

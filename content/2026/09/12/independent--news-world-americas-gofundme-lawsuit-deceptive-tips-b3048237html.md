@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A recently filed lawsuit against the fundraising site takes issue with
   the automatic tip added at checkout that is allegedly difficult to opt out of
 image: https://static.independent.co.uk/2026/09/10/20/56/GoFundMe.jpeg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 GoFundMe has been accused of deceptively adding “tips” to donations that go to the company and not helping others.

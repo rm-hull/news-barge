@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T19:22:27Z'
 published: '2026-09-02T00:00:00Z'
 description: The 100th Scott Trial will take place in the Yorkshire Dales in October.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e9b6/live/9b5a5440-a6d1-11f1-b0c9-07afcdd8053c.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![Guy Martin rides a red motorbike up a hill on an off-road track. He is dressed in black and is wearing a helmet. Spectators stood behind tape watch on from the surrounding hills.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/e9b6/live/9b5a5440-a6d1-11f1-b0c9-07afcdd8053c.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Video footage captured the moment the dog was struck and rendered unconscious
   for a significant period
 image: https://static.the-independent.com/2026/08/28/20/12/FL-worker.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A heating and air conditioning technician was arrested in Florida and charged with aggravated animal cruelty after a motion-activated camera captured him kicking a customer’s small dog inside a residence, police said.

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Nando's is expected to open a new restaurant in the Bradford district
   by the end of the year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/11399795.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

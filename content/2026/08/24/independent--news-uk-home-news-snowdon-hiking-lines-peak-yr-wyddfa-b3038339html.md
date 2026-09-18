@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: A spokesman for the Eryri National Park Authority said its policy remained
   one of ‘self-policing’
 image: https://static.independent.co.uk/2025/04/14/9/26/iStock-1452849837.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Snowdon authorities have no plan to tackle an ongoing dispute of long lines forming at the top of Wales’s highest mountain.

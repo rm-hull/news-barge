@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Authorities at biggest state hospital in Islamabad say 15 babies were
   in the ward when fire broke out
 image: https://i.guim.co.uk/img/media/7b783590d53713699582e8563b41033429346c13/1223_0_6657_5326/master/6657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=620c5570edd36db7e12537f0284e207d
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 At least 14 newborn babies have died in a fire that broke out in the maternity ward at one of Pakistan’s most prominent state hospitals.

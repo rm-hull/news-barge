@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Oil prices climbed on Monday morning as tensions flared once again in
   the Middle East and as investors weighed a potential US rate hike.
 image: https://images.euronews.com/articles/stories/09/89/48/17/1200x675_cmsv2_d26a49ae-217a-518d-a296-0a0970595e1c-9894817.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Oil prices climbed on Monday morning as tensions flared once again in the Middle East and as investors weighed a potential US rate hike.

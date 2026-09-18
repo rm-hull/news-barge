@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Pacific nation leaders have expressed collective concern over China's
   ballistic missile launch into their waters
 image: https://static.independent.co.uk/2026/09/03/20/Palau_Pacific_Islands_Forum_38454.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Leaders of Pacific nations agreed at their annual regional summit to register collective “concern” about China’s launch of a ballistic missile into their waters, they said Thursday, but failed to reach unanimous agreement on the statement and stopped short of a sterner rebuke of Beijing's actions.

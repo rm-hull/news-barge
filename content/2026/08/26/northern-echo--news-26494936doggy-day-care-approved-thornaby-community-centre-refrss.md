@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Plans to convert a meeting room at the Robert Atkinson Centre in Thornaby
   into a dog day care facility for up to eight dogs have been approved by…
 image: https://www.thenorthernecho.co.uk/resources/images/16937199.jpg?type=og-image&xType=0&yType=216
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 ### What is the Public Notice Portal?

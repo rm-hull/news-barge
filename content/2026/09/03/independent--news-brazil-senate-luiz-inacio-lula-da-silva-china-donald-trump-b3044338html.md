@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Brazil’s Senate has approved a bill to regulate the exploration of critical
   minerals, including rare earths, marking a step toward exploiting its vast reserves
 image: https://static.independent.co.uk/2026/08/20/14/Brazil_Rare_Earth_Mining__6368.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Brazil’s Senate Wednesday night approved a landmark bill to regulate the exploration of critical and strategic minerals in the South American country, a step toward increased exploitation of its vast reserves of rare earths that are second only to China.

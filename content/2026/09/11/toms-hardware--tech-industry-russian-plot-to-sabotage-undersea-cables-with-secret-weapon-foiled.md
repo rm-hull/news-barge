@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: NATO foiled a Russian training exercise simulating the deployment of
   a secret weapon against Norwegian undersea cables.
 image: https://cdn.mos.cms.futurecdn.net/GpokLsbzF6UcPyuqvvoRrT-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- History
 ---
 
 ![Svalbard](https://cdn.mos.cms.futurecdn.net/GpokLsbzF6UcPyuqvvoRrT.jpg) 

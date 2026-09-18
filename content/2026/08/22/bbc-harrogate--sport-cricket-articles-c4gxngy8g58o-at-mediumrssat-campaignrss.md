@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Yorkshire put themselves into a commanding position heading into the
   last day of their County Championship relegation battle with Hampshire.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24bf/live/276aa9b0-9e50-11f1-8871-ff7211da55c9.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![George Hill celebrates](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/24bf/live/276aa9b0-9e50-11f1-8871-ff7211da55c9.jpg)

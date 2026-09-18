@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A DENTAL practice has been named a finalist in six national award categories,
   including patient care and community impact
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454672.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

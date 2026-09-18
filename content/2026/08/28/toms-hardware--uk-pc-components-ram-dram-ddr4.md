@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: DDR4 reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-320-80.jpg)

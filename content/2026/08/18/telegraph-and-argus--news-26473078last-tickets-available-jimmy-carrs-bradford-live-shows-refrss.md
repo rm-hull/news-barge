@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: LIMITED tickets remain for two upcoming performances by comedian Jimmy
   Carr.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20527899.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Bradford Live)*

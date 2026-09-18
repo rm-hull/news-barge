@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T04:43:02Z'
 published: '2026-09-15T00:00:00Z'
 description: Ratings for the Emmy Awards have dropped nearly 10% from last year
 image: https://static.independent.co.uk/2026/09/16/00/APTOPIX_2_26_Emmy_Awards_-_Show_24311.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Emmy Awards ratings down nearly 10% from last year

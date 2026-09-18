@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Armed police descended on Holdenby Drive, Middlesbrough after reports
   of a stabbing as a man was taken to hospital with head and leg injuries.
 image: https://www.thenorthernecho.co.uk/resources/images/17824831.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

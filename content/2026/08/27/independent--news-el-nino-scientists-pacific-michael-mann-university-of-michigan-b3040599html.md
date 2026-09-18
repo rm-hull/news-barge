@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A new study suggests El Nino events have intensified over the past 40
   years due to human-caused climate change
 image: https://static.independent.co.uk/2026/08/27/19/Climate_El_Nino_51118.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A new study suggests that El Ninos — the natural climatic chaos agent that pops up periodically and spikes global temperatures — are getting stronger because of human-caused climate change.

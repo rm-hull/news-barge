@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T18:15:17Z'
 published: '2026-09-06T00:00:00Z'
 description: Beckfield Lane in Acomb is set to close for resurfacing works.
 image: https://www.yorkpress.co.uk/resources/images/21417205.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Bob Hoskins)*

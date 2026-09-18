@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T19:53:48Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/fans-at-scarborough-open-air-theatre-concert.webp
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 The first headliners of Scarborough’s summer 2027 season has been announced – and it’s two of the UK’s most beloved singer-songwriters.

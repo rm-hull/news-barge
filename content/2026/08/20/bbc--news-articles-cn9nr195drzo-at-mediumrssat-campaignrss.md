@@ -9,6 +9,11 @@ description: Men born in Ukraine who fought for Russia are tried for treason, bu
   at a prisoner of war camp in western Ukraine, many believe they were defending their
   homeland.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![The backs of a line of men wearing a navy uniform. They are standing with one hand holding the other behind their backs.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg)

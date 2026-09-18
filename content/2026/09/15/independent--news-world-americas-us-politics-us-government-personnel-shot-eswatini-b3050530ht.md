@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: An Eswatini army spokesperson said the shooting was ‘a diplomatic issue’
   being handled by both countries
 image: https://static.independent.co.uk/2026/09/15/13/Eswatini_US_Personnel_Shot__7_65.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two U.S. government personnel were mistakenly shot by military forces in the African nation of Eswatini last week, according to the country's government.

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Iceberg lettuce is the only product that federal investigators have tied
   to outbreaks so far
 image: https://static.independent.co.uk/2026/08/25/21/preview.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Millions of U.S. households have stopped buying pre-bagged salad this summer following outbreaks of the explosive diarrhea-causing illness, cyclosporiasis, which has been linked to fresh produce.

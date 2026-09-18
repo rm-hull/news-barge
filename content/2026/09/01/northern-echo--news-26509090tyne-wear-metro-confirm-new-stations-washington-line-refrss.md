@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Fresh plans showcasing how the Tyne and Wear Metro’s first extension
   in three decades will look have been unveiled.
 image: https://www.thenorthernecho.co.uk/resources/images/21392297.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

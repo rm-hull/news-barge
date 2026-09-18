@@ -9,6 +9,11 @@ description: Prime Minister Carney hailed "significant progress" in trade talks 
   the two countries seek to hammer out final details ahead of a new weekend tariff
   deadline.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![An image showing US trade representative Jamieson Greer (right) shaking hands with Canada-US trade minister Dominic LeBlanc to his left. Behind them are a US and Canada flag with the seal for the US trade representative in the middle. Both men are wearing suits and smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg)

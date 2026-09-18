@@ -9,6 +9,10 @@ description: Britain's foreign secretary accuses settlers of carrying out the "e
   cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East
   Jerusalem.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: There is ethnic cleansing in areas of the West Bank, says Miliband

@@ -8,6 +8,8 @@ published: '2026-08-21T00:00:00Z'
 description: The redesigned multi-hop adds a "when needed" mode that switches on double-server
   routing by itself, and it is rolling out in beta
 image: https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH-2498-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Mullvad VPN app logo on screen](https://cdn.mos.cms.futurecdn.net/JhREgRH5uPRCdcKqDqxEAH.jpg) 

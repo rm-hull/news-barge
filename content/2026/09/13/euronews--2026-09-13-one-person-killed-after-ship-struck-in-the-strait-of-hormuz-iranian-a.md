@@ -9,6 +9,10 @@ description: Qeshm city governor Amir Teymouri said, according to state TV, "A m
   vessel was struck around 5:00 am (0130 GMT) this morning off the coasts of Hengam
   and Qeshm islands. One person was killed and three others were injured,".
 image: https://images.euronews.com/articles/stories/09/91/14/79/1200x675_cmsv2_229c62b1-aba4-5ca8-800f-b94d54cf5b13-9911479.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Qeshm city governor Amir Teymouri said, according to state TV, "A merchant vessel was struck around 5:00 am (0130 GMT) this morning off the coasts of Hengam and Qeshm islands. One person was killed and three others were injured,".

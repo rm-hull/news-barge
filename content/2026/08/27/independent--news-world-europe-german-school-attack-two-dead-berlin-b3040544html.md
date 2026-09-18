@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Police were called to a school near Berlin on Thursday and found two
   people dead
 image: https://static.independent.co.uk/2026/08/27/17/2291723003..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two dead after attack at German school as teenage suspect detained

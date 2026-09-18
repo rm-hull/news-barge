@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Cuba has reopened most of its schools despite a shortage of transportation,
   uniforms and teachers as the island's crises deepen
 image: https://static.independent.co.uk/2026/09/01/14/Cuba_Daily_Life_4_734.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 The Barroso family rose at dawn and hitched a cart to a borrowed horse to take one of their daughters to school on Tuesday, the first day of classes for many students across Cuba.

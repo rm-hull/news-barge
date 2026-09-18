@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Influencer livestreams event calling for men to travel to port to block
   coaches carrying asylum seekers from leaving
 image: https://i.guim.co.uk/img/media/c2a3840a8d6743190813d001f4d4362351ca26b4/252_0_4000_3201/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a558f3b040394c74d945e6a6df1ee139
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Hundreds of far-right activists have descended on Portsmouth, where a small boat with 140 asylum seekers on board was intercepted heading towards the Portsmouth coast. The vessel’s arrival sparked a major response with a helicopter, an aeroplane and lifeboats sent to the scene.

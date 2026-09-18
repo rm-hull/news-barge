@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Ben Taylorson is taking on the Great North Run in September - inspired
   by his daughter's determination and resilience to overcome hearing loss.
 image: https://www.thenorthernecho.co.uk/resources/images/21398125.jpg?type=og-image&xType=0&yType=366
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A Middlesbrough dad says his daughter’s determination to overcome hearing loss has inspired him in life and on the running track.

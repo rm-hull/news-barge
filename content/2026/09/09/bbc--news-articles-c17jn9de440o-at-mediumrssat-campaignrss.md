@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The owner of Mentmore Towers, which starred in Batman Begins, says a
   repair scheme is under way.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cab9/live/739d10c0-9d6f-11f1-bdcc-8926c4a74c43.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Mentmore Towers - a large, grand stately home with a tiered lawn with steps in front of it. It has several towers with pinnacles at their corners.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cab9/live/739d10c0-9d6f-11f1-bdcc-8926c4a74c43.jpg)

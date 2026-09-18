@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The chief rabbi and Angela Rayner are among speakers at the event, nearly
   a year on from the attack.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be7b/live/1c8724d0-a2c2-11f1-9024-715001d09aeb.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A composite image of of Adrian Daulby and Melvin Cravitz. The former is on the left and has a completely bald head. He is slightly tanned with a healthy complexion and is smiling happily in the head and shoulders shot, in which he wears a blue T-shirt. He is standing close to a bush, the green leaves of which cover the background. Mr Cravitz has a black skull cap and striped, button up shirt of many colours. He has rectangular, thin-rimmed glasses. He is also smiling and sports a short grey beard and moustache.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/be7b/live/1c8724d0-a2c2-11f1-9024-715001d09aeb.jpg)

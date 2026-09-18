@@ -10,6 +10,10 @@ description: A Croatian investigative judge has ordered the detention of a Ukrai
   man wanted in Germany in connection with the 2022 undersea explosions that damaged
   the Nord Stream gas pipelines
 image: https://static.independent.co.uk/2026/08/20/18/Germany_Nord_Stream_Arrest_91457.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Croatian judge on Thursday ordered the detention of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, his lawyer said.

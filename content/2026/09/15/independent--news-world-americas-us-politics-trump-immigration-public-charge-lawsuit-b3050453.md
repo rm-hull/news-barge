@@ -9,6 +9,10 @@ description: Dozens of Democratic-led U.S. states, counties and cities sued Trum
   administration on Monday to block a new rule that would allow immigration officials
   to deny green cards
 image: https://static.independent.co.uk/2026/09/15/12/2289927119..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump's administration faces legal action from a coalition of Democratic-led U.S. states, counties, and municipalities seeking to halt a newly introduced immigration measure. The rule, scheduled to take effect on Friday, allows federal authorities to reject green card applications from individuals who access public assistance programs, including Medicaid and food stamps.

@@ -7,6 +7,12 @@ scraped_at: '2026-09-16T13:27:23Z'
 published: '2026-09-16T00:00:00Z'
 description: Pupils feel safe, valued and ready to learn at a Bradford school.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461282.jpg?type=og-image&xType=0&yType=227
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Self-Improvement
 ---
 
 *(Image: Supplied)*

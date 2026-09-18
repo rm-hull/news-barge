@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Under the theme “The Future is Now”, IFA Berlin 2026 put the focus on
   technology designed for everyday life.
 image: https://images.euronews.com/articles/stories/09/88/26/57/1200x675_cmsv2_4f2ac751-7fd9-5bdf-88f1-e4e75a6ee9a1-9882657.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Under the theme “The Future is Now”, IFA Berlin 2026 put the focus on technology designed for everyday life.

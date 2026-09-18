@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Almost 7 million adults have never checked their State Pension forecast.
   HMRC urges people to check what they could receive before retirement.
 image: https://www.thenorthernecho.co.uk/resources/images/21157976.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

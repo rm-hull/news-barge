@@ -10,6 +10,10 @@ description: With just weeks to go until the life-changing Big Harrogate Sleepou
   event, organisers are calling on local businesses, community groups and residents
   to sign up and help make this year's event the biggest yet.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFhY2ZhZjYyLWJjYjMtNDU0ZS1hNjhkLWFkNDc4NTI3NjZhYTo3MjEwMDUwOC0wZDFiLTQyN2QtODQzOC0xODRkNTcxMjVkNDg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 # 'Fantastic response' so far to forthcoming Big Harrogate Sleepout for vital work of two local charities

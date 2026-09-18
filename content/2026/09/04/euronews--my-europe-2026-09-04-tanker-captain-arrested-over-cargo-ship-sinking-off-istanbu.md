@@ -9,6 +9,11 @@ description: 'Search and resuce operations are ongoing with teams yet to reach t
   wreckage of the Tuğberk İmamoğlu or locate its voyage data recorder (VDR) or "black
   box." #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/14/17/1200x675_cmsv2_9f7c5042-2221-5cc2-84e3-a1e11022d52d-9901417.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ## Search and resuce operations are ongoing with teams yet to reach the wreckage of the Tuğberk İmamoğlu or locate its voyage data recorder (VDR) or "black box."

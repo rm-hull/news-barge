@@ -8,6 +8,8 @@ scraped_at: '2026-08-19T21:31:32Z'
 published: '2026-08-19T00:00:00Z'
 description: Americans are getting more concerned about AI
 image: https://cdn.mos.cms.futurecdn.net/hHvRb3rM4ZJfcLfv9hb9NL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An image depicting machine learning, AI, and connected robots behind binary code depicting technologies impact on job displacement, insecurity, and fear](https://cdn.mos.cms.futurecdn.net/hHvRb3rM4ZJfcLfv9hb9NL.jpg) 

@@ -10,6 +10,10 @@ description: Manchester City manager Enzo Maresca says it is "quite poor" that t
   controversy surrounding Erling Haaland's winner has overshadowed his side's win
   at Manchester United.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Enzo Maresca, manager of Manchester City, celebrates victory at the final whistle during the Premier League 2026-27 match between Manchester United and Manchester City at Old Trafford](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg)

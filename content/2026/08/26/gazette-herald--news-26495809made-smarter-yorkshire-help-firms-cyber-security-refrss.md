@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Small and medium-sized manufacturers are being offered fully funded cyber
   security support to help protect their operations from growing digital…
 image: https://www.gazetteherald.co.uk/resources/images/21372107.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Small and medium-sized manufacturers are being offered fully funded cyber security support to help protect their operations from growing digital threats.

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The crash happened at Cape Newenham Long Range Radar Site Airport, approximately
   450 miles west of Anchorage, Alaska
 image: https://static.independent.co.uk/2026/08/21/03/Alaska_Plane_Crash_66835.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Technology & Software
 ---
 
 All eight people on board a charter flight have died after the aircraft crashed at a remote military radar installation in western Alaska on Thursday, the US military has confirmed.

@@ -10,6 +10,11 @@ description: Every week we put one of our premium features stories in front of o
   paywall to showcase the benefits of becoming a Yorkshire Post subscriber. This story
   is this week’s selection.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg2OTgzOTVjLTM1ZGMtNDJjYy1hYTZjLTk4MDI0OWIzOTY4MzoxMjJlNzIxNC01Yjk5LTRjNTItODcyNi05MTUyOTIxOGI5ZTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Kids Invent Stuff: Yorkshire inventor who sent robot chicken up to space and made world's largest electric toothbrush makes Guinness World Record books again with giant hairdryer

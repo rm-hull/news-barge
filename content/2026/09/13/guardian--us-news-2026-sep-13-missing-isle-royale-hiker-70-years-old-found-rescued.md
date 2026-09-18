@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Craig Berg was hypothermic but alert when located on Isle Royale by Michigan
   police and officials during solo hike
 image: https://i.guim.co.uk/img/media/07546fee30002d67728f029b3ffe39ec2b3a040b/427_0_4267_3413/master/4267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=965b9f51ece278317cd7797f71a9d39f
+categories:
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 A 70-year-old hiker who had been missing for a week on a Michigan island was rescued on Saturday, according to the US Coast Guard.

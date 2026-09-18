@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Video. Communities along Nepal’s Trishuli River face catastrophic damage,
   hundreds missing and destroyed bridges as helicopters race to evacuate the injured.
 image: https://images.euronews.com/articles/stories/09/89/18/53/1200x675_cmsv2_b03ee73f-97c2-5a61-8845-3831e6259ff4-9891853.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Nuwakot district in central Nepal is facing widespread destruction after catastrophic flash floods and landslides swept through the region on 26 August, following the glacial collapse near the Nepal-Tibet border a day before.

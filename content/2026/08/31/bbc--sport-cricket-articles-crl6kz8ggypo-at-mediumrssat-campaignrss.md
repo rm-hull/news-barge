@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Alice Capsey will keep wicket for England this week despite having only
   done it once in her career, but remains confident of successfully doing the job.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92b7/live/b7caa4f0-a54a-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![A smiling Alice Capsey holds up a ball while wearing wicketkeeper gloves](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/92b7/live/b7caa4f0-a54a-11f1-8689-6589354d0f8e.jpg)

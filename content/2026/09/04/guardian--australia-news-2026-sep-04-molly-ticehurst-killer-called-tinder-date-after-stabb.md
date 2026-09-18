@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Daniel Billings said ‘I did what I did’ in call from friend’s house after
   2024 domestic violence murder
 image: https://i.guim.co.uk/img/media/a2c311898328e24b2022697323702925ad16e7f9/592_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e342daace7e46570abf28dae02fbfa06
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two hours after Daniel Billings murdered his ex-girlfriend Molly Ticehurst in a frenzied stabbing, he spoke to a woman he had met on Tinder.

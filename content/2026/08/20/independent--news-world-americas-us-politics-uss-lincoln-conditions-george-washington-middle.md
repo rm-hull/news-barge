@@ -10,6 +10,9 @@ description: The Washington's arrival follows growing concerns about the Lincoln
   extended tour, which included a record-setting uninterrupted stretch at sea of over
   250 days
 image: https://static.independent.co.uk/2026/08/20/18/2026-08-19T143103Z_702194656_RC2PZMAOUIBH_RTRMADP_3_IRAN-CRISIS-USA-CARRIER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Asia-based USS George Washington aircraft carrier has arrived in the Middle East to relieve USS Abraham Lincoln following reports of mental health struggles and supply shortages aboard the warship supporting the Iran conflict.

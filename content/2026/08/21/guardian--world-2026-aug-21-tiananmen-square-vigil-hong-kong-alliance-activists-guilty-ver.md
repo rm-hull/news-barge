@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance
   – were tried under under a 2020 national security law
 image: https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6251578ffb46541c61b952812dcfcbbc
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020.

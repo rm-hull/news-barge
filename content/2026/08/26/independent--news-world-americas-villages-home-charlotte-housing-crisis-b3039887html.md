@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Recent population estimates show that Charlotte, North Carolina, is the
   fastest-growing large city in the United States
 image: https://static.independent.co.uk/2026/08/26/17/42/GettyImages-2279645753.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Recent population estimates show that Charlotte, North Carolina, is the fastest-growing large city in the United States. The city added more than 20,000 residents between 2024 and 2025 and is rapidly approaching a population of 1 million.

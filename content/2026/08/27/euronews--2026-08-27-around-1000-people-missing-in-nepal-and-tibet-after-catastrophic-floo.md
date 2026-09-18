@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Officials in Nepal earlier said 826 people, including some 341 foreigners,
   are missing after the Bhotekoshi-Trishuli floods.
 image: https://images.euronews.com/articles/stories/09/89/05/06/1200x675_cmsv2_259beb96-4a2b-5534-8751-4ae9f73db488-9890506.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Officials in Nepal earlier said 826 people, including some 341 foreigners, are missing after the Bhotekoshi-Trishuli floods.

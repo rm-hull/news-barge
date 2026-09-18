@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Six trees at a Todmorden care home can be removed because they are in
   a poor state, Calderdale planners have agreed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472050.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

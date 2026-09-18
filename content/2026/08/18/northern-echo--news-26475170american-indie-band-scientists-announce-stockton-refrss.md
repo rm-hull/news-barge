@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: We Are Scientists will bring their 20th anniversary tour for With Love
   and Squalor to KU Stockton, giving North East fans the chance to celebrate…
 image: https://www.thenorthernecho.co.uk/resources/images/21337234.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

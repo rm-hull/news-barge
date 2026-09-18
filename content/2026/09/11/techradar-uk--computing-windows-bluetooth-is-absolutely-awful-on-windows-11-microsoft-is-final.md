@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Windows 11's Bluetooth is full of bugs, and has been for years, but Microsoft
   is finally turning its attention towards more of its issues.
 image: https://cdn.mos.cms.futurecdn.net/C7Vj4Vwz4n44LVhoTL64kR-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A PC Gamer looking happy sat in front of their desktop monitor](https://cdn.mos.cms.futurecdn.net/C7Vj4Vwz4n44LVhoTL64kR.jpg) 

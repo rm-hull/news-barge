@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Hard Boiled has been on my most anticipated 4K discs for a while, and
   I finally got a chance to test it — and and it was worth the wait.
 image: https://cdn.mos.cms.futurecdn.net/AfPnxCnFLMNhgdD9n8ST3b-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ![Hard Boiled 4K Blu-ray on LG G6, showing 4K menu screen, with case stood on Samsung soundbar in front of TV](https://cdn.mos.cms.futurecdn.net/AfPnxCnFLMNhgdD9n8ST3b.jpg) 

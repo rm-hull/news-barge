@@ -9,6 +9,11 @@ description: Millions more people may be able to get smaller, lightweight Amazon
   delivered by drones by the end of the year under a plan the company announced Thursday
   to expand the airborne shipping to suburban areas in nearly 500 U.S. cities
 image: https://static.independent.co.uk/2026/08/19/11/Amazon_Drone_Delivery_Expansion_61751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Millions more people may be able to get smaller, lightweight Amazon packages delivered by drones by the end of the year under a plan the company announced Thursday to expand the airborne shipping to suburban areas in nearly 500 U.S. cities.

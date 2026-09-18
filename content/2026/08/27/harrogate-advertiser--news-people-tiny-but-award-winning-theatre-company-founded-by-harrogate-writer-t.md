@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A small Harrogate village theatre company which has punched well above
   its weight for nearly 30 years is to bring back one of its biggest hits shortly.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA0YWNmYzkxLTc1NWMtNDhmOS1hNzAxLWMzOWIxMzAwOTZkOTo3ODQ4NmJiYi1kYzFkLTQyNTQtYmExMi05MDAzMTM1MThkZjU=.jpg?crop=3:2,smart&trim=&width=480&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Tiny but award-winning theatre company founded by Harrogate writer to revive 'much loved' hit

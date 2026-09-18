@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate
   race characterised by personal attacks and insults between the two.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5638/live/ebb6d900-a61c-11f1-9ca2-a3e18de91b7b.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![J D Vance addressing a rally in Michigan](https://ichef.bbci.co.uk/ace/standard/859/cpsprodpb/5638/live/ebb6d900-a61c-11f1-9ca2-a3e18de91b7b.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Iran-aligned militant group rejected the suggestion it had targeted
   Mecca, while the Organisation of Islamic Cooperation condemned the attack
 image: https://i.guim.co.uk/img/media/25ce6a9a06159e676be2ba6afe55306b53c708fc/157_0_3582_2864/master/3582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e214640b52951f199331db8ff9b73f83
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Saudi Arabia’s air defences intercepted and destroyed a Houthi drone south of Mecca on Tuesday before it entered prohibited airspace over the holy city, according to a spokesperson for the Saudi-led military coalition which is fighting the Iran-aligned group in Yemen.

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Member for Solomon was charged after an alleged incident at a cultural
   festival in Darwin in July
 image: https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13e2a9b5efdd5f34e5c31ba126a3d1f5
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Northern Territory police has charged federal Labor MP Luke Gosling with one count of breaching bail conditions less than one month after he was arrested over the alleged assault of the Territory’s administrator, David Connolly.

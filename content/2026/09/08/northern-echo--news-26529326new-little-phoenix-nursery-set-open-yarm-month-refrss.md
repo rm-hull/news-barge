@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Little Phoenix Nursery, located in Yarm on The Spital, will welcome its
   first children on September 14.
 image: https://www.thenorthernecho.co.uk/resources/images/21421682.jpg?type=og-image&xType=0&yType=356
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Little Phoenix Nursery)*

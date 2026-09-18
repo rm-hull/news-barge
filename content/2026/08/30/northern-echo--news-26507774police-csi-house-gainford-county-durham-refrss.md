@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Police and crime scene investigators remain at a property in County Durham
   after an incident which saw one person taken to hospital and the air…
 image: https://www.thenorthernecho.co.uk/resources/images/21389796.jpg?type=og-image&xType=0&yType=223
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Crime scene investigators are scouring a house on a quiet County Durham street after a suspected shooting saw one person taken to hospital.

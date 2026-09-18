@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The coin has been designed to feature King Charles III and a Scottish
   grouse close to extinction.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![New 10p coin in the palm of someone's hand with one coin on the side showing an image of King Charles and dated 2026, with another coin on the reverse side showing a capercaillie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg)

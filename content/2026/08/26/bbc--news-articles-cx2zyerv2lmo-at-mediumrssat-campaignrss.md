@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is
   feared to have swept away villages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Mud and sand are piled up against a hydropower plant affected by a flash flood in northern Nepal](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6bd2/live/72e08190-a11f-11f1-92eb-a9b3bbcf6f4a.jpg)

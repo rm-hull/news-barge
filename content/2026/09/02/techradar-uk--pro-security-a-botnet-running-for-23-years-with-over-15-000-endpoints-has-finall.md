@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T19:22:13Z'
 published: '2026-09-02T00:00:00Z'
 description: Crowdstrike and friends sinkholed thousands of Sality's endpoints
 image: https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD-2121-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Abstract image of robots working in an office environment including creating blueprint of robot arm, making a phone call, and typing on a keyboard](https://cdn.mos.cms.futurecdn.net/2FFajuvJVK8i7Her8gD4aD.jpg) 

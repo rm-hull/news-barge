@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Plans have been submitted to expand a North Yorkshire holiday park to
   meet growing demand for more spacious and private rural holiday…
 image: https://www.thenorthernecho.co.uk/resources/images/21443605.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Home, Garden & DIY
 ---
 
 Plans have been submitted to expand a North Yorkshire holiday park to meet growing demand for more spacious and private rural holiday accommodation.

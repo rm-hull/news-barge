@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Deputy Chief Constable Andy Mariner has said officers are ‘absolutely
   ready’ to use powers to ban face coverings
 image: https://static.independent.co.uk/2026/09/09/14/871a867bf3fb1039c0a8c4047ff83d11Y29udGVudHNlYXJjaGFwaSwxNzg5MDQ0MDcx-2.85766974.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Anti-migration campaigners and anti-racism activists are preparing to march in Portsmouth this weekend after masked men gathered on the streets a week ago.

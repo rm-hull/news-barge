@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Yorkshire Children’s Charity is expecting to support more than 3,000
   children this winter as demand for its Winter Support Campaign continues to rise.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # Thousands of winter items packed at Thorp Arch warehouse to support Yorkshire children

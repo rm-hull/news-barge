@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The brothers are facing a total of 59 charges in the UK, including rape.
   Both men deny any wrongdoing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/028b/live/b27b3be0-b229-11f1-bc3c-e98ae0fcc6b8.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Tristan and Andrew Tate delivering a press statement. The brothers are dressed in black and Andrew has a disgruntled facial expression as he speaks into a microphone.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/028b/live/b27b3be0-b229-11f1-bc3c-e98ae0fcc6b8.jpg)

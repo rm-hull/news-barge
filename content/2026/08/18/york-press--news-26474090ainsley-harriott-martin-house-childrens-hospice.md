@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A top TV chef has cooked up a meal with a difference - lending his culinary
   skills to a children's hospice alongside taking part in a…
 image: https://www.yorkpress.co.uk/resources/images/21335116.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Top TV chef helps out in kitchen at Yorkshire children's hospice

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Works to modernise parts of an historic York hotel have been proposed
   as part of plans for a refurbishment.
 image: https://www.gazetteherald.co.uk/resources/images/21419211.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 ### What is the Public Notice Portal?

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: TfL worker Jorge Ortega, 61, hit his head on the concrete platform at
   Ilford station, east London, after being floored by a single blow from Ayodele Jamgbadi
 image: https://static.independent.co.uk/2026/09/16/21/01M2NMWD35W3PDVHX63W4DQXKW.jpg?trim=58,0,632,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A train passenger who missed his train and threw a fatal punch to the face of an Elizabeth line worker has been told he will be detained in hospital indefinitely.

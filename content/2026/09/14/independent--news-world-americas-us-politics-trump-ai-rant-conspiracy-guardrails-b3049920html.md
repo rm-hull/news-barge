@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: President’s outburst follows calls for a slowdown in AI development by
   some of the industry’s most prominent executives
 image: https://static.independent.co.uk/2026/09/14/08/2294722031..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 President Donald Trump said Monday that a "SICK conspiracy" is being waged against artificial intelligence and the data centers that run it by what he described as a group of "Conspiracy Theorists, Treasonists, Traitors, and Leakers" — two days after the heads of the largest American AI companies publicly called on their own industry to slow down.

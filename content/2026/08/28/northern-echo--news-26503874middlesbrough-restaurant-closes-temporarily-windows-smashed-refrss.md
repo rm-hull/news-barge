@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Waggon in Middlesbrough has been left facing a costly repair bill
   after three large windows were smashed just days before the Bank Holiday…
 image: https://www.thenorthernecho.co.uk/resources/images/21384145.jpg?type=og-image&xType=0&yType=28
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: The Waggon)*

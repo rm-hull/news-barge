@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Beamish Museum will be open throughout the August Bank Holiday weekend,
   with brass-band performances and summer family activities.
 image: https://www.thenorthernecho.co.uk/resources/images/19477964.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Beamish)*

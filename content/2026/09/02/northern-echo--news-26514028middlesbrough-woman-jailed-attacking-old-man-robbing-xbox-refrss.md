@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Leoni Prince has been jailed for more than five years after punching,
   kicking and robbing an elderly man in his own home.
 image: https://www.thenorthernecho.co.uk/resources/images/21399588.jpg?type=og-image&xType=0&yType=124
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Cleveland Police)*

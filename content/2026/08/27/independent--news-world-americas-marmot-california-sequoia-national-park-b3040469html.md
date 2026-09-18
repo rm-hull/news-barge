@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: One California hiker woke from a nap in Sequoia National Park to find
   a marmot licking his ear in one of many unwelcome encounters
 image: https://static.independent.co.uk/2026/08/27/16/39/Marmot_Cover_WaltKaesler_688x344.webp?trim=0,86,0,86&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Cute but cunning, yellow-bellied marmots are wreaking havoc on hikers and campers in California’s Sequoia National Park, stealing shoes and backpacks, chewing through gear and even disabling vehicles.

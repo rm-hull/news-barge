@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Cleanup continues in Hawaii after Hurricane Lala tore roofs off houses,
   uprooted trees and covered roads in mud and rock
 image: https://static.independent.co.uk/2026/08/20/16/Tropical_Weather_Hawaii_471_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Lifestyle & Fashion
 ---
 
 Hawaiian communities still picking up the pieces after last weekend’s hurricane could get pounded again in the coming days.

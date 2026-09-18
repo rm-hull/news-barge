@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: This year's Apple event could be an unusual one in several ways — ahead
   of the big day, we've rated the biggest iPhone 18 rumors.
 image: https://cdn.mos.cms.futurecdn.net/Zg8dfjpbk7w2ub6riq34hW-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Apple iPhone 17 Pro Max HANDS ON](https://cdn.mos.cms.futurecdn.net/Zg8dfjpbk7w2ub6riq34hW.jpg) 

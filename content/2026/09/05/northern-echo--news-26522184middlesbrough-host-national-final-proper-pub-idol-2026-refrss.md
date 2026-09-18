@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: PUBS in the North East are on the hunt for the UK’s next pub singing
   sensation as part of a national competition.
 image: https://www.thenorthernecho.co.uk/resources/images/21410804.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Sports
 ---
 
 *(Image: Proper Pubs)*

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: EMERGENCY services are at the scene of a fire at a property in a North
   Yorkshire town.
 image: https://www.yorkpress.co.uk/resources/images/21427658.jpg?type=og-image&xType=0&yType=164
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Emergency services at scene of property fire in North Yorkshire

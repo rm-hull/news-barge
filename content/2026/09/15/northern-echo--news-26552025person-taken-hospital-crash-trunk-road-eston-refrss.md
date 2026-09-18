@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: One person was taken to James Cook Hospital after a road traffic collision
   in Middlesbrough on Monday (September 14).
 image: https://www.thenorthernecho.co.uk/resources/images/21198796.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Google Maps)*

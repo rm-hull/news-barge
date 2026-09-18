@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: With Sheeran's next gig this weekend, some ticket holders said they were
   in two minds about going.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8931/live/930e7720-b2cb-11f1-aa00-7947ea0dbeab.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Ed Sheeran's tour in 'damage control mode' after Macklemore backlash

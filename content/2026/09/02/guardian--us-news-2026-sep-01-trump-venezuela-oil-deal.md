@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Government talks up pact but Venezuelan opposition alarmed that democracy
   yet to return after Maduro exit
 image: https://i.guim.co.uk/img/media/b34a6037ec5d54ecd289711958e3558a35c0a8d0/482_0_4796_3839/master/4796.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8dc58cf84f0ba94276f0b5382c894dd7
+categories:
+- UK
+- News & Politics
 ---
 
 Trump administration officials on Tuesday defended a highly contentious deal giving the US control of a significant chunk of Venezuelan oil reserves, arguing that the sweeping agreement would help stabilize and rebuild democracy in the shattered South American country while giving Washington vital access to strategic crude reserves.

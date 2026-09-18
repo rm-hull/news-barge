@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Police located the man first reported missing from the
   Heslington area on Sunday, following enquiries involving specialist police…
 image: https://www.gazetteherald.co.uk/resources/images/21366644.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

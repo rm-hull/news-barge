@@ -9,6 +9,10 @@ scraped_at: '2026-09-11T19:10:06Z'
 published: '2026-09-11T00:00:00Z'
 description: But it is still among the fastest storage subsystems in the world.
 image: https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR-2000-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Server SSD installation](https://cdn.mos.cms.futurecdn.net/BZeKHbXtMSgJcRKR9H6zR.png) 

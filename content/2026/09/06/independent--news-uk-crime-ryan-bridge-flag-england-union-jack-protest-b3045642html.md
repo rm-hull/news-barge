@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Ryan Bridge is the leader of an activist group that put up St George
   flags across England
 image: https://static.independent.co.uk/2026/09/06/22/2293102006..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 The founder of a flag campaign group that put up hundreds of Union Jack and St George’s Cross flags across England has been charged with fourteen offences.

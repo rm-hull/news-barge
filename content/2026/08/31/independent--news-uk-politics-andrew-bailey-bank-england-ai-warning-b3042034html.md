@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Warning comes as Chancellor John Healey announced a £100 million fund
   aimed at backing British AI start-ups
 image: https://static.independent.co.uk/2026/08/28/18/f71f8fa89b14d9ec30aad368831eaf9aY29udGVudHNlYXJjaGFwaSwxNzg4MDIxODEz-2.85452618.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The governor of the Bank of England has cautioned governments across the globe that artificial intelligence could trigger a major international financial downturn.

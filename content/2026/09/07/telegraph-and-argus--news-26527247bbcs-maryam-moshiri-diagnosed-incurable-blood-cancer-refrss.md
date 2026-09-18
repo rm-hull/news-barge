@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: BBC presenter Maryam Moshiri has shared her diagnosis of polycythaemia
   vera (PV), a rare blood cancer she says will be with her for life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21417569.jpg?type=og-image&xType=0&yType=239
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 *(Image: PA)*

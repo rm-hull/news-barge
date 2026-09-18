@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: More than 200 people in roles such as engineering, finance, and communications
   will now be represented by the Communications Workers of America.
 image: https://media.wired.com/photos/6a9a07338aae3f350260c9af/191:100/w_1280,c_limit/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 More than 200 staffers at the Wikimedia Foundation, the nonprofit behind the encyclopedia Wikipedia, have voted 158-14 to join the Communications Workers of America labor union. The US National Labor Relations Board counted ballots on Thursday.

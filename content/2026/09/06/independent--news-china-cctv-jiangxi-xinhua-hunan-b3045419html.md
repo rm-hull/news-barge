@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The death toll from a mudslide in eastern China has risen to three after
   days of torrential rain brought by Typhoon Saudel
 image: https://static.independent.co.uk/2026/09/06/03/China_Jiangxi_Mudslide_82877.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel

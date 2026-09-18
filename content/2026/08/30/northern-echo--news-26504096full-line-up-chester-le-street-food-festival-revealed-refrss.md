@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Chester-le-Street's food and drink festival will return for its fifth
   year next month. Here is the full line-up for vendors and what's on.
 image: https://www.thenorthernecho.co.uk/resources/images/21384820.jpg?type=og-image&xType=0&yType=169
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Chester-le-Street's food and drink festival will return for its fifth year next month with its biggest-ever line-up ever promised and new food-and-drink masterclasses.

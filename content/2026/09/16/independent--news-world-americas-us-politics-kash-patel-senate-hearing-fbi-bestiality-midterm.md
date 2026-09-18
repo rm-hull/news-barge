@@ -10,6 +10,9 @@ description: In one of the strangest Trump administration appearances yet, Patel
   into a yelling match with a Democratic senator about the midterms, writes Holly
   Baxter
 image: https://static.independent.co.uk/2026/09/15/16/2295416101..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 FBI director Kash Patel testified to the Senate Tuesday in a hearing that almost immediately descended into discussions about bestiality. Because that’s the world we live in now.

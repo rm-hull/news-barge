@@ -11,6 +11,13 @@ description: For people old enough to remember, 9/11 will forever be etched in t
   fateful day 25 years ago. People remember exactly where they were when they saw
   the planes hit the World Trade Centre in New York.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJmYzE4NWQzLTUwNjYtNDIyYS1hYWU0LWVjNzdkMDUyYmU1YTpiYTM5MTc5Ny03MzFlLTQxNWMtYTVkNy1jZjQ1MjY3ZjlmNTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- History
+- News & Politics
 ---
 
 # Educating future generations on 9/11 is important in an increasingly dangerous world

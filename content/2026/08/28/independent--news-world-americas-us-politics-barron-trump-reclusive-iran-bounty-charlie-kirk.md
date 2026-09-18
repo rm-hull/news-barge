@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Barron Trump ‘doesn’t go out,’ a source familiar with his movements reportedly
   said
 image: https://static.independent.co.uk/2026/08/26/15/2194418489..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s son, Barron, is reportedly keeping a low profile these days due to threats from Iran and the multiple attempts on his father's life.

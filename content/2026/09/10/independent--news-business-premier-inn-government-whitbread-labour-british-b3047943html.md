@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Premier Inn owner Whitbread and Butlin’s were among those to criticise
   the plans to allow mayors to introduce tourist taxes.
 image: https://static.independent.co.uk/2026/09/10/13/10125734-64acbde5-6833-4a30-84a1-ac852f1198be.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Plans to give England’s mayors the power to impose tourist taxes will be “hugely damaging” and hit British holidaymakers hard, hotel and tourism firms have warned.

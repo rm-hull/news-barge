@@ -9,6 +9,10 @@ description: Day two in Budapest delivered four thrilling champions. Megu Danno 
   Japan’s second gold, Rashid Mammadaliyev earned his first Grand Slam title, Elisavet
   Teltsidou celebrated her fifth, while Yoshito Hojo secured another gold for Japan.
 image: https://images.euronews.com/articles/stories/09/91/15/47/1200x675_cmsv2_cf3e7d09-5603-5095-b3fe-8e0874be2b5b-9911547.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 **Euronews** with

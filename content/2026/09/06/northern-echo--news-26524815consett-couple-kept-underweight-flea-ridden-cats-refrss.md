@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Consett couple have been banned from keeping animals for life after
   they were found with five cats in a “shocking condition” despite an…
 image: https://www.thenorthernecho.co.uk/resources/images/21414807.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 A County Durham couple who kept underweight and flea-ridden cats in a "shocking condition" have been banned from keeping animals for life.

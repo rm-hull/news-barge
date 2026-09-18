@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: We'll be bringing you all the latest live traffic, travel and weather
   updates from County Durham and the North East, including the A1(M), A66,…
 image: https://www.thenorthernecho.co.uk/resources/images/21327486.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: STEVEN CURTIS)*

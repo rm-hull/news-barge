@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: 'Exclusive: State government delayed releasing major report into the
   health of the koala population for more than 12 months'
 image: https://i.guim.co.uk/img/media/30cd9753bea6ca79cd578072a27640df2e0c5bbc/547_815_1736_1390/master/1736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fefede9a07d252964b478cb07aaf9285
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
 ---
 
 The Victorian government sat on a report for more than 12 months that found the state’s koala population was in chronically poor health.

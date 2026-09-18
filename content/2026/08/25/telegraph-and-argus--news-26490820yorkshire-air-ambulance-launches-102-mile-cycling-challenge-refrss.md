@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A NEW cycling challenge will take riders on a cross-county journey between
   two air ambulance bases.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21364658.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

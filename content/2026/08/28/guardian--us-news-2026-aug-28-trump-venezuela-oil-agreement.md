@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: US president says US will have ‘majority’ control of 65bn barrels of
   proven oil reserves
 image: https://i.guim.co.uk/img/media/1d68042ed18ea8806bd1af82612aa075ae927bba/408_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38f9a2244b3e6829fd9c33fe964690b7
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves.

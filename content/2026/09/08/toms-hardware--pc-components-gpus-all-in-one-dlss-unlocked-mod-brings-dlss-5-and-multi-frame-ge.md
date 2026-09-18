@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T12:51:00Z'
 published: '2026-09-08T00:00:00Z'
 description: No more artificial limitations.
 image: https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![DLSS 5 in NBA 2K27](https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif)

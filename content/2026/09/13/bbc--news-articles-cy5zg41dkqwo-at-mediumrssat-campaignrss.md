@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The former UK PM said "I don't know what warped logic drove Putin to
   blow up a stationary Ukrainian locomotive on the Polish border this morning".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: Moment Russian strike hits near Ukraine-Poland border

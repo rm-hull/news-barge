@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Malcolm Potier attacked the audience member after she started singing
   along, a judge is told.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35fd/live/20c2d9d0-ad22-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ![Malcolm Potier: A smiling grey-haired man wearing a black hat, a red scarf and a black overcoat. He is standing outside in the dark, with people huddled behind him.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/35fd/live/20c2d9d0-ad22-11f1-a540-61c3f7fc4e6c.jpg)

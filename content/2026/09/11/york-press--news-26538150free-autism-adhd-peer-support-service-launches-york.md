@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A range of peer support services is now available to help neurodivergent
   people in York, delivered by the charity Daisy Chain.
 image: https://www.yorkpress.co.uk/resources/images/21434079.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: City of York Council)*

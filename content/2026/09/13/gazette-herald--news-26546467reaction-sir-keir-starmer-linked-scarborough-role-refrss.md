@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Sir Keir Starmer took up a position linked to Buckinghamshire after quitting
   as an MP and being linked to a Scarborough job.
 image: https://www.gazetteherald.co.uk/resources/images/21402804.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Sir Keir Starmer took up a position linked to Buckinghamshire after quitting as an MP which led to the possibility of him becoming involved with a title in Scarborough.

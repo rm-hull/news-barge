@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Drive to save thousands of Afrikaners from false claims of ‘white genocide’
   appears to show signs of slowing
 image: https://i.guim.co.uk/img/media/7ac2d8623df08d6ecd9811277b2f1248b8373b18/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a0fa9202ff96e62e91cb23df1d49682
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Fewer than 10 people a year are infected in the U.S. but the condition
   is usually fatal
 image: https://static.independent.co.uk/2026/08/31/13/39/408_lores.jpeg?trim=7,0,8,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A North Carolina teenager is critically ill after being infected with a rare brain-eating amoeba commonly found in ponds, lakes and rivers.

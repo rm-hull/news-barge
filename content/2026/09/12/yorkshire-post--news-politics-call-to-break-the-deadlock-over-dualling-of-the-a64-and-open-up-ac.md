@@ -10,6 +10,11 @@ description: A long-running saga over the dualling of the A64 has been brought t
   the new Prime Minister as MPs led by Kevin Hollinrake call on him to “break the
   deadlock”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYyOTIzYTY2LTQ2YmUtNDBmMC04YmE2LTdiZjNjOWNmYjEzNjpiZTczMDY5Yy0yZDAxLTRlYWQtYjY4Yi01OTYxZmM1NDRkNDM=.jpg?crop=3:2,smart&trim=&width=824&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Call to 'break the deadlock' over dualling of the A64 and open up access to Yorkshire's coastline

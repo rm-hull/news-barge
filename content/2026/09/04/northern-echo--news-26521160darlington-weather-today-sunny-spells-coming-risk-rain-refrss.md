@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Darlington is expected to have a mixed day of weather with sunny spells
   and a small chance of rain, according to the Met Office.
 image: https://www.thenorthernecho.co.uk/resources/images/17068673.jpg?type=og-image&xType=0&yType=253
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: NORTHERN ECHO)*

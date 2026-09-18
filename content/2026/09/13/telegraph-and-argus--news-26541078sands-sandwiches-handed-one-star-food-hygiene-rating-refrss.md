@@ -7,6 +7,12 @@ scraped_at: '2026-09-13T18:46:52Z'
 published: '2026-09-13T00:00:00Z'
 description: A sandwich shop has been given a one-star food hygiene rating by inspectors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438257.jpg?type=og-image&xType=0&yType=27
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-29T19:24:40Z'
 published: '2026-08-29T00:00:00Z'
 description: Nvidia wants to play its part in shaping US policy
 image: https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Nvidia CEO Jensen Huang talking at Milken Institute event](https://cdn.mos.cms.futurecdn.net/rR3zuBMSKgRpoWgXYsh5U.jpg) 

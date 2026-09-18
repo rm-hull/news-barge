@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A Harrogate-based teacher training provider has achieved a strong standard
   across every aspect of its primary and secondary provision.
 image: https://mmo.aiircdn.com/409/6aa1161e8cb6f964892.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa1161e8cb6f964892.jpg) 

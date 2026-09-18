@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Rail passengers travelling through York today (Friday, August 28) can
   expect delays following the failure of the electricity supply on the line.
 image: https://www.yorkpress.co.uk/resources/images/20690139.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

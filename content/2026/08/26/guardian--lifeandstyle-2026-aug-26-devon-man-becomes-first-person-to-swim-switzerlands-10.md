@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Neil Gilson completes 230-mile challenge after a ‘tough’ 22-hour crossing
   of Lac Léman
 image: https://i.guim.co.uk/img/media/f453aa147a04caf2be2fb7d4cf6ec2301849ecfc/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d23282ec32457f6978bba863cebc4c53
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 He staggered rather than sprang out of the lake but it wasn’t surprising.

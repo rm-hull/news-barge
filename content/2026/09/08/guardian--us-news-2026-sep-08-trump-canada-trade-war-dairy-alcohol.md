@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Trump responds after Canada imposes $20bn in retaliatory tariffs and
   Canadian PM vows to diversify trade abroad
 image: https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/87_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e330f2a875dd121275c302f66fd76186
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.

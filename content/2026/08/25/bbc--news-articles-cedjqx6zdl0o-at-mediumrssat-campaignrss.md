@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: From baby banks to supermarket deals, there are many ways parents can
   ease the back-to-school burden.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Education & Learning
 ---
 
 ![Two happy smiling school children on their way to school wearing blue school uniforms](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg)

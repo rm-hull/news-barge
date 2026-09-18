@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:22Z'
 published: '2026-09-09T00:00:00Z'
 description: Can the Seahawks soar to a second straight Super Bowl?
 image: https://cdn.mos.cms.futurecdn.net/nkGw5rLRYh4gxPrkxb5vfJ-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Sam Darnold #14 of the Seattle Seahawks drops back to pass against the New England Patriots during the second quarter in Super Bowl LX.](https://cdn.mos.cms.futurecdn.net/nkGw5rLRYh4gxPrkxb5vfJ.jpg) 

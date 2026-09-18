@@ -10,6 +10,11 @@ description: The Abdorrahman Boroumand Center documented 901 executions in the f
   98 members of ethnic minorities — a further rise in death penalties in the Islamic
   Republic in recent years.
 image: https://images.euronews.com/articles/stories/09/88/05/48/1200x675_cmsv2_c368c2f5-794d-5e5e-ae1f-3ddbf86b7564-9880548.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 **Euronews Persian**

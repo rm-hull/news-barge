@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: September is full of opportunities to expand your knowledge of the night
   sky. Mark your calendars.
 image: https://media.wired.com/photos/6a970ab972949d665b63334c/191:100/w_1280,c_limit/474745466
+categories:
+- Technology & Software
+- Science
 ---
 
 August set the bar high for stargazers, with two eclipses and the peak of the Perseids meteor shower. But it’s not time to put away your telescopes, with some lesser-known astronomical events set to arrive across the sky this month.

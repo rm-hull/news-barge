@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: In the California City facility, ‘contact visits’ are strictly forbidden
   – but detained residents aren’t staying quiet. Are officials listening?
 image: https://i.guim.co.uk/img/media/c44144ae2b2a7e0d2a8c94a5392b601177817c0f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38dee9c0af78d2173362757e5cd1ee62
+categories:
+- UK
+- News & Politics
 ---
 
 Teresa Reyes drove 300 miles to be with her son on his 32nd birthday in May, but she couldn’t give him a gift, share a meal with him or give him a hug. She couldn’t even touch him.

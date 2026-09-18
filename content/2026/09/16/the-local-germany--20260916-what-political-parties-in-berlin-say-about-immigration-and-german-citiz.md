@@ -10,6 +10,11 @@ description: Immigration and German citizenship rules are some of the most impor
   round up what political parties in the capital have to say about their immigration
   policies.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/02/watermarks-logo-558432185.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 Voters in Berlin will head to the ballot box on Sunday to elect a new state parliament.

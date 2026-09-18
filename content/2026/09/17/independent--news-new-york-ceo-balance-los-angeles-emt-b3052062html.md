@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Pregnancy and new parenthood can raise complicated issues for women in
   the workplace
 image: https://static.independent.co.uk/2026/09/17/17/Be%20Well-Working%20Well-Pregnancy%20and%20Postpartum.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Family & Parenting
 ---
 
 The ambulance dispatch station where Heydi Fernandez waited for calls as an emergency medical technician didn't have a private place to pump breast milk when she returned to work three months after giving birth to her son.

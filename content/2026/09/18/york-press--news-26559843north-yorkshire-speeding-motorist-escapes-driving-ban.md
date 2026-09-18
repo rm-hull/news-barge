@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A speeding motorist has kept his licence after he told magistrates he
   could become an alcoholic again if he was banned.
 image: https://www.yorkpress.co.uk/resources/images/20326806.jpg?type=og-image&xType=0&yType=12
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: PA)*

@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: 'After the debate rages online we ask: How much does your camera gear
   really matter?'
 image: https://cdn.mos.cms.futurecdn.net/tU2y9cy7hCpY5nYJWnJLSb-2560-80.jpg
+categories:
+- Technology & Software
+- Photography & Video
+- Film & TV
 ---
 
 ![Photograph of a swift flying underneath a Boeing](https://cdn.mos.cms.futurecdn.net/tU2y9cy7hCpY5nYJWnJLSb.jpg) 

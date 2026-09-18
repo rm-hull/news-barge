@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A Bradford man who fatally injured a pensioner when he assaulted him
   on the doorstep of his home has been jailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454383.jpg?type=og-image&xType=0&yType=482
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

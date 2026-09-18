@@ -8,6 +8,11 @@ scraped_at: '2026-08-31T16:07:25Z'
 published: '2026-08-31T00:00:00Z'
 description: The UK really doesn't want more data centers
 image: https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ![An abstract geometric futuristic concept three dimensional map of the United Kingdom with borders](https://cdn.mos.cms.futurecdn.net/owbSSGyfRyGGobNhGmqk2Q.jpg) 

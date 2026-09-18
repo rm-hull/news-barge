@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A RESEARCH project exploring the legacy of a Somali community in Bradford
   has won a national award, it has been confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381776.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A RESEARCH project exploring the legacy of a Somali community in Bradford has won a national award.

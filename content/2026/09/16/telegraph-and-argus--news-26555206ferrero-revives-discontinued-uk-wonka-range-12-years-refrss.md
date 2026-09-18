@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Ferrero has launched a new Wonka range in the UK, after it was previously
   discontinued by Nestle in 2014.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18742694.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Patrick Glover/Newsquest)*

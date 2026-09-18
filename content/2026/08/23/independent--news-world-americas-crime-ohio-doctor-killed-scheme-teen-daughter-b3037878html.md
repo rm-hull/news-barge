@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: ‘Those few girls who kill tend to kill family members,’ Tamela Dutcher
   reportedly wrote in an article over 20 years ago
 image: https://static.the-independent.com/2026/08/23/21/21/Bryanna-Dutcher-mother-murder-mugshot.webp?trim=206,0,55,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Ohio doctor who reportedly once published a paper on “violent and homicidal” adolescents and what leads teens to kill was allegedly shot dead by her 18-year-old daughter’s boyfriend and his friend.

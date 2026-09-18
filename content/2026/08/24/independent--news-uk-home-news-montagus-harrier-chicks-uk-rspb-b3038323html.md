@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T16:51:06Z'
 published: '2026-08-24T00:00:00Z'
 description: The species was placed on the ‘red list’ of birds most at risk in 2021
 image: https://static.independent.co.uk/2022/11/01/12/01120612-4bbbd87b-c91d-4484-8c8e-f7dd356e01d4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The UK’s rarest breeding bird has successfully raised six chicks after returning to nest at a secret location for a second year running, according to conservationists.

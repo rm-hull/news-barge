@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Artist rose to prominence in 2018 by painting his eponymous tag in public
   spots across southern England
 image: https://i.guim.co.uk/img/media/a968603c0eb3e02d7f3398aaa57a3c21e0f9dbd6/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80952ada45bcaa38c8d76d8d31b22ccc
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The street artist Helch, known for murals and tags across England, has died, his gallery has said.

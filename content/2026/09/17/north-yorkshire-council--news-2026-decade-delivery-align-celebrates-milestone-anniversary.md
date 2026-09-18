@@ -9,6 +9,12 @@ description: A property consultancy that has helped drive town centre regenerati
   deliver vital infrastructure for future generations and improve the energy efficiency
   of North Yorkshire homes is celebrating its 10th anniversary.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Align.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Business & Entrepreneurship
 ---
 
 ![Whitby Old Town Hall](https://www.northyorks.gov.uk/sites/default/files/2026-09/Align.jpg) 

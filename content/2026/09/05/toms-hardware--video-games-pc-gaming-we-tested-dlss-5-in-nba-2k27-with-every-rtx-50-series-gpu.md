@@ -10,6 +10,10 @@ published: '2026-09-05T00:00:00Z'
 description: Once you see it, you won't want to turn it off, even with the frame rate
   hit.
 image: https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![NBA 2K27 gameplay](https://cdn.mos.cms.futurecdn.net/peEtJE98WLRCbHo2PH4CQF.jpg) 

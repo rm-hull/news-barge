@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Ben Stokes hits 66 not out and takes 5-17 as Durham wrap up a 338-run
   victory at Derbyshire inside three days in Division Two of the County Championship.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8d0/live/f688a980-9e5b-11f1-92d9-fda6ee78d386.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ben Stokes celebrating taking a wicket for Durham](https://ichef.bbci.co.uk/ace/standard/793/cpsprodpb/f8d0/live/f688a980-9e5b-11f1-92d9-fda6ee78d386.jpg)

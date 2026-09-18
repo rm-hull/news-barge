@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: ‘Unsightly’ and ‘hazardous’ Grade II listed steps in North Yorkshire
   will be repaired and renovated by the council after plans were given the go-ahead.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQyMjNiMTVhLWE0ZGQtNDE0Ni1hN2RiLWVlMzE0NTg2MzA5YTozMWNjZGNjYi0wNDg4LTRkNmItYmJlMy0xMzE4NjZmMTY3NTk=.png?crop=3:2,smart&trim=&width=700&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # ‘Unsightly’ historic steps in Scarborough to be repaired after delays

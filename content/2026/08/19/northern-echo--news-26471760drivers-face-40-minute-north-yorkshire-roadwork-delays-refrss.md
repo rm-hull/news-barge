@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Motorists using Stonesdale Lane near Langthwaite could face a diversion
   of almost 28 miles while a failed retaining wall is rebuilt.
 image: https://www.thenorthernecho.co.uk/resources/images/18636995.jpg?type=og-image&xType=0&yType=58
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: PA MEDIA)*

@@ -10,6 +10,10 @@ published: '2026-09-18T00:00:00Z'
 description: The NYT argues that OpenAI and Microsoft infringed upon its copyright
   over thousands of news articles.
 image: https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![AI](https://cdn.mos.cms.futurecdn.net/tfUHUik9dBB9GKZAFqC6u4.jpg) 

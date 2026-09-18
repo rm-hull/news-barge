@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A councillor has defied opposition to the installation of signs warning
   drivers about hedgehogs on a York village's roads by putting them up…
 image: https://www.yorkpress.co.uk/resources/images/21470317.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## Hedgehog signs put up in York village in spite of 'bewildering' opposition

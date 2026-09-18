@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Backing comes after Yuval Abraham and Rachel Szor were threatened with
   having their citizenship revoked and accused of treason
 image: https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/451_0_4488_3592/master/4488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b519ef90deb7217b7503eea71e24536a
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Society & Culture
 ---
 
 Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”.

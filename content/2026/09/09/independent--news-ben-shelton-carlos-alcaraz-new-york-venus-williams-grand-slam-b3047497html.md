@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Ben Shelton’s five-set thriller to beat reigning champion Carlos Alcaraz
   in the U.S. Open quarterfinals ended at 3:33 a.m. Wednesday
 image: https://static.independent.co.uk/2026/09/09/17/US_Open_Tennis_287_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The late-night action at the U.S. Open has now reached an extreme.

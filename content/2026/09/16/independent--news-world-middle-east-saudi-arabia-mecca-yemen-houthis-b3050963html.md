@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Yemeni group has escalated attacks on the Saudi-led coalition amid
   a push west to squeeze traffic from the Red Sea
 image: https://static.independent.co.uk/2026/09/16/08/2026-09-15T161838Z_781355075_RC2SJNAPG0FC_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Saudi Arabia says its air defences destroyed an incoming Houthi drone south of Mecca before it entered prohibited airspace over the holy city.

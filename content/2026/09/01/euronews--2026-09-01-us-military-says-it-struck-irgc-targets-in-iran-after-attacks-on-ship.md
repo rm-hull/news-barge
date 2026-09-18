@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Hostilities sparked back into life on Sunday after the US carried out
   fresh strikes on what it said were IRGC minelaying forces in the Strait of Hormuz.
 image: https://images.euronews.com/articles/stories/09/89/76/83/1200x675_cmsv2_5c3d3eb1-1a7e-5fc1-8c53-20c8df2cdb96-9897683.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Hostilities sparked back into life on Sunday after the US carried out fresh strikes on what it said were IRGC minelaying forces in the Strait of Hormuz.

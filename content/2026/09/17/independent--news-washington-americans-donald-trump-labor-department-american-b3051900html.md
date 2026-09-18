@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: The number of people applying for unemployment benefits dropped sharply
   last week, another sign that layoffs remain rare and most Americans enjoy job security
 image: https://static.independent.co.uk/2026/09/10/13/Unemployment_Benefits_29_8_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The number of people applying for unemployment benefits dropped sharply last week, another sign that layoffs remain rare and most Americans enjoy job security.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:47:22Z'
 published: '2026-08-20T00:00:00Z'
 description: Chinese Valentine’s Day, or Qixi, is more than just flowers and chocolates
 image: https://static.independent.co.uk/2026/08/20/02/China_Qixi_Festival_78639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Chinese Valentine’s Day is not all about flowers and chocolates. Beyond the romance embraced by some contemporary couples, Qixi is an ancient tradition rooted in legend, prayer and cultural activities that survive to this day.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T13:30:02Z'
 published: '2026-09-15T00:00:00Z'
 description: Sterling arrived at Basingstoke Magistrates’ Court on Tuesday afternoon
 image: https://static.independent.co.uk/2026/09/15/13/01M2JDRFQG3P2W67VE3ZXTXS0Z.jpg?trim=10,0,10,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Raheem Sterling has arrived at court ahead of his first appearance accused of dangerous driving.

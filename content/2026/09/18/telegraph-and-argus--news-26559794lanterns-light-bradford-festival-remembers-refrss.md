@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:00Z'
 published: '2026-09-18T00:00:00Z'
 description: A LANTERN parade will help light up a season of remembrance and celebration
 image: https://www.thetelegraphandargus.co.uk/resources/images/20213313.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A LANTERN parade will help light up a season of remembrance and celebration.

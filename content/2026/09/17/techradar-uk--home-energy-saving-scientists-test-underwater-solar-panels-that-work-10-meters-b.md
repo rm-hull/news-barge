@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Scientists have developed solar panels that can operate at depths of
   up to 10 meters underwater.
 image: https://cdn.mos.cms.futurecdn.net/ybYSyTC4XE6bpppGKTWsCT-2174-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![An image of an underwater solar panel below the surface of the sea.](https://cdn.mos.cms.futurecdn.net/ybYSyTC4XE6bpppGKTWsCT.jpg) 

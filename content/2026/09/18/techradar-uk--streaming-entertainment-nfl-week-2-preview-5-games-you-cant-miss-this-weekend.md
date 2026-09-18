@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Here's our pick of the top five NFL Week 2 games – and who's showing
   them
 image: https://cdn.mos.cms.futurecdn.net/cmm6dJp8cE6hGqRwUAjxZA-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Chicago Bears quarterback Caleb Williams celebrating a touchdown](https://cdn.mos.cms.futurecdn.net/cmm6dJp8cE6hGqRwUAjxZA.jpg) 

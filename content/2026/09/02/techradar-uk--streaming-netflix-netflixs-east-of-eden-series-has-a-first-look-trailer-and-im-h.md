@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Florence Pugh plays Cathy in Netflix's East of Eden adaptation, which
   arrives on October 1.
 image: https://cdn.mos.cms.futurecdn.net/mqrF7Ag4wwQ2uFa5cp6XY5-1956-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Florence Pugh as Cathy in East of Eden](https://cdn.mos.cms.futurecdn.net/mqrF7Ag4wwQ2uFa5cp6XY5.png) 

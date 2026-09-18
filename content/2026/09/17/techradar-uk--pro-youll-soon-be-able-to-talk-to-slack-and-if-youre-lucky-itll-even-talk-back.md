@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:42:28Z'
 published: '2026-09-17T00:00:00Z'
 description: Two-way voice chat is coming to Slack
 image: https://cdn.mos.cms.futurecdn.net/xfdbhHBweThVCebG6jxawT-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/xfdbhHBweThVCebG6jxawT.jpg) 

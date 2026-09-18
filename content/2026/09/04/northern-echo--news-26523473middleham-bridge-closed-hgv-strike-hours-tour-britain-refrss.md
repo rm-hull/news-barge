@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A North Yorkshire bridge has been closed indefinitely after being struck
   by a heavy goods vehicle just hours before the Tour of Britain cycle race…
 image: https://www.thenorthernecho.co.uk/resources/images/21412448.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A North Yorkshire bridge has been closed indefinitely after being struck by a heavy goods vehicle just hours before the Tour of Britain cycle race is due to visit the area.

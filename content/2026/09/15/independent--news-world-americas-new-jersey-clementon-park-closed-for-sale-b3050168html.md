@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Operations officially wrapped up on September 7, bringing a five-year
   run under current ownership to a close
 image: https://static.independent.co.uk/2026/09/15/0/49/Clementon-Park-and-Splash-World.png?trim=0,304,0,69&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 New Jersey’s historic Clementon Park and Splash World has permanently closed following the conclusion of its 2026 season on September 7, with ownership now seeking a buyer to take over the property.

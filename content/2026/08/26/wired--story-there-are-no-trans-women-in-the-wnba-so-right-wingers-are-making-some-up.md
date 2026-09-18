@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: As culture warriors continue to stoke the flames of a gender panic in
   professional sports, wild conspiracy theories are coming into play.
 image: https://media.wired.com/photos/6a8f05363e42b5ddd2f277ef/191:100/w_1280,c_limit/GettyImages-2167460009.jpg
+categories:
+- Technology & Software
+- Science
+- Video Gaming
+- Sports
 ---
 
 “Look, I'm not trying to do a conspiracy here,” wrote right-wing commentator Sydney Watson in an X post on Monday, before proceeding to implicitly endorse one.

@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Eight people have been arrested and more than one kilo of suspected drug
   paraphernalia taken in a major police operation across East Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21339090.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 EIGHT people have been arrested and more than one kilo of suspected drug paraphernalia taken in a major police operation.

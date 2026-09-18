@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Northumbrian Water has issued an update as a major North East road remains
   closed after a burst main flooded the carriageway and left it covered in…
 image: https://www.thenorthernecho.co.uk/resources/images/21447357.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE MAPS)*

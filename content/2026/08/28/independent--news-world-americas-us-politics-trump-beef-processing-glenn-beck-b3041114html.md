@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Earlier this week, conservative media figure Glenn Beck pleaded with
   the president to ‘break the back’ of meat-processing plants
 image: https://static.independent.co.uk/2026/06/06/00/2280066027..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump announced an effort to allow ranchers to process their own beef - only after conservative political commentator Glenn Beck planted the idea in his head days ealirer. .

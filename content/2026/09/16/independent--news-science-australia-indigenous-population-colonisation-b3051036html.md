@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T13:27:24Z'
 published: '2026-09-16T00:00:00Z'
 description: Only about seven per cent of Aboriginal people survived colonisation
 image: https://static.independent.co.uk/2026/09/16/8/18/Aboriginal-Australians-on-the-Tweed-River-New-South-Wales-Australia-circa-1880.jpeg?trim=96,0,96,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Australia may have had a much larger Indigenous population before the arrival of Europeans than previously thought, a new study has found.

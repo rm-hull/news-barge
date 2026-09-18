@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Durham Police and Crime Commissioner Joy Allen is urging employers to
   make road safety a boardroom priority as the campaign spreads across Britain.
 image: https://www.thenorthernecho.co.uk/resources/images/21459842.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Chris Booth)*

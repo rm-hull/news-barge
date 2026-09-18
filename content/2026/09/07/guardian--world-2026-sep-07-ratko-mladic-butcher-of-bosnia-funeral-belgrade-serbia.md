@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Fanfare at Belgrade funeral of man convicted of genocide raises questions
   from EU over Serbia’s membership plan
 image: https://i.guim.co.uk/img/media/e634c5abf808780fbdb461c200e180646d231099/840_480_5315_4252/master/5315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1512f7d25412c0fa15e15c4d0cb1ac43
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Thousands of mourners have gathered in Belgrade for the funeral of Ratko Mladić, a Serbian general convicted of orchestrating the worst massacre in Europe since the second world war, and whose hero’s return home has raised international alarm.

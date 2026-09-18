@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Great British Bake Off is famous for its iconic white tent but where
   is the tent actually placed during filming?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415458.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Channel 4/Love Productions/PA Wire)*

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A £1 tourist levy on overnight stays in York and North Yorkshire is a
   “viable option” worth exploring, a new report commissioned by the…
 image: https://www.gazetteherald.co.uk/resources/images/21411302.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

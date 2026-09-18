@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T01:53:37Z'
 published: '2026-08-25T00:00:00Z'
 description: Andy Burnham has refused to rule out tax rises in the autumn Budget
 image: https://static.independent.co.uk/2026/08/25/18/01M0SX9HTSNN8NVDJQRWPMWCV1.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Britain must rebalance its taxation away from younger workers and towards property and older demographics, according to a report by an influential policy think tank.

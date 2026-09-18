@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A parliamentary petition has been launched urging the Government to launch
   a 90-minute free parking national standard.
 image: https://static.independent.co.uk/2026/09/01/00/27141511-d176e75a-2eea-4657-9788-36ba1489ca02.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Shoppers are being urged to back a campaign calling on the Government to roll out 90 minutes of free parking across town and city centres to help boost Britain’s under-pressure high streets.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Sir Kevin Sinfield's epic 7 in 7 fundraising challenge for the motor
   neurone disease community will see him stop at Bishopthorpe Palace and be…
 image: https://www.gazetteherald.co.uk/resources/images/21456893.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: PA/ Danny Lawson)*

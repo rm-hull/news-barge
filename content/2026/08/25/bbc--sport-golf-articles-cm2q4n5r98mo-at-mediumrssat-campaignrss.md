@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Back-to-back Masters champion Rory McIlroy believes the PGA Tour are
   giving fans what they want by changing their end-of-season play-offs to matchplay.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9461/live/8fee2300-a0b1-11f1-8229-b91d73b62f74.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Rory McIlroy](https://ichef.bbci.co.uk/ace/standard/996/cpsprodpb/9461/live/8fee2300-a0b1-11f1-8229-b91d73b62f74.jpg)

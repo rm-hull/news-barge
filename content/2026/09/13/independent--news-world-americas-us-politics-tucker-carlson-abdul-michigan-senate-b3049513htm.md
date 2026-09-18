@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: Mike Rogers is ‘unfit to serve’, right-wing commentator writes, after
   wave of Islamophobic abuse against El-Sayed and Zohran Mamdani over 9/11
 image: https://static.independent.co.uk/2026/09/13/21/2026-09-07T163651Z_1591705252_RC2DENA3NWNK_RTRMADP_3_USA-ELECTION-MICHIGAN.JPG?trim=128,0,128,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A wave of Republican attacks against two Muslim Democrats has ended with one of the most prominent right-wing commentators in the country endorsing Abdul El-Sayed for Senate.

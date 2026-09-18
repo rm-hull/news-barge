@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The M&S Beauty Advent Calendar returns on October 13 with Estée Lauder,
   Benefit, Aveda and more. Find out how to get early access.
 image: https://www.yorkpress.co.uk/resources/images/21426858.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## M&S Beauty Advent Calendar is back and better than ever – how to get it first

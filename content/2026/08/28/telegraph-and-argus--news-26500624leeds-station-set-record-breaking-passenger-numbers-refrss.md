@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: LEEDS station is gearing up for a record-breaking number of passengers
   over the August bank holiday weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19035819.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Northern)*

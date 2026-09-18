@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Bank of America vice president was killed when a woman randomly attacked
   her and a 68 year-old man
 image: https://static.the-independent.com/2026/09/02/11/11/Erin-Piacenti720-09012026-12895f0e46e54309b8d84620fe262c97-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Bank of America vice president fatally stabbed in Times Square was a new mother on her first week back from maternity leave, according to a report.

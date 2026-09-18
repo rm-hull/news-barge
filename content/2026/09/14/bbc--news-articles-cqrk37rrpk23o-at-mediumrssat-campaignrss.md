@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: DHS inspectors say they found the immigration-detention centre violated
   basic standards for hygiene, medical care, food and safety.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ceb/live/379e3ff0-b056-11f1-9902-771b6dd8af6a.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A metal cage sits within a larger cage that has razor wire across the top. The small cage has a door with a combination lock](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/8ceb/live/379e3ff0-b056-11f1-9902-771b6dd8af6a.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A County Durham school has been shortlisted for a national award for
   its innovative use of technology.
 image: https://www.thenorthernecho.co.uk/resources/images/21464171.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A County Durham school has been shortlisted for a national award for its innovative use of technology.

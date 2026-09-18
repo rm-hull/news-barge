@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: I tried the Pokémon x Krispy Kreme collection — here's how I'd rate each
   donut.
 image: https://cdn.mos.cms.futurecdn.net/zkmG46q92t4fAchTjQ7pj5-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
 ---
 
 ![Pokémon dozen box from the Pokémon x Krispy Kreme collection](https://cdn.mos.cms.futurecdn.net/zkmG46q92t4fAchTjQ7pj5.jpg) 

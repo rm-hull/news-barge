@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: AN academy is inviting families to discover what it offers at an open
   evening this month
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466518.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

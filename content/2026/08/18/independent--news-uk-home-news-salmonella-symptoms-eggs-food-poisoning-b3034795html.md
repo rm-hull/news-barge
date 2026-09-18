@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: People affected include babies and people as old as 90, according to
   the UKHSA
 image: https://static.independent.co.uk/2025/05/05/21/Salmonella_Backyard_Poultry_15491.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 One person has died and hundreds have been taken ill following an outbreak of food poisoning across the country.

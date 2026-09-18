@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Ash cloud from Anak Krakatau affects hundreds of flights and some school
   and fishing activities
 image: https://i.guim.co.uk/img/media/775131d69ba12fbfa80df770ed180d8d85442f32/40_0_1201_960/master/1201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e8c921541dc7fd4b43f9d55a430c7ce
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krakatau volcano.

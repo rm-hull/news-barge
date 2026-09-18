@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The Crown Prosecution Service will now consider whether charges should
   be brought against the suspect
 image: https://static.independent.co.uk/2026/08/15/11/prKCUsfIkifIj5uycKJJ9fpQugnla0XV5jbEAb9joQ7iYwCkGelsHtkDRt1EID5aFcTGtV2jgZwTJblA73bDKEj56SP1Z0E8Wikg..?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Detectives from the Metropolitan Police investigating sexual assault allegations against the late Harrods owner Mohamed Al Fayed have submitted a file of evidence concerning one suspect to prosecutors.

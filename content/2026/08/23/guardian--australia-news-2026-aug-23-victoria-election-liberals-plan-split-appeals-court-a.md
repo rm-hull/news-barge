@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Opposition leader Jess Wilson says new dedicated court of criminal appeal
   would set precedents for tougher sentences
 image: https://i.guim.co.uk/img/media/b21f1d19bda7f0efc07d91e03790c46764f4ca64/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21911e48ec8ff7aa56ac45219e786239
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A radical overhaul of Victoria’s highest court, proposed by the Liberal party to increase sentences, has been criticised by legal and human rights groups who warn it would politicise the judiciary.

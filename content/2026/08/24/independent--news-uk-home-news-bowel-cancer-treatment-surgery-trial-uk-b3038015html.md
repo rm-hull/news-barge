@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Around 80 per cent of patients were spared radical surgery following
   the trial treatment
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/06/28/11/surgery.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Thousands of bowel cancer patients could be spared a life-altering surgery following a landmark trial for earlier-stage rectal cancer.

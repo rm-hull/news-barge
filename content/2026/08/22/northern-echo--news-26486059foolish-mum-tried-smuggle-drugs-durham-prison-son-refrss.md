@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: A "foolish" mum hid drugs in her mouth in a desperate bid to smuggle
   them into Durham Prison for her inmate son.
 image: https://www.thenorthernecho.co.uk/resources/images/21356514.jpg?type=og-image&xType=0&yType=225
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Sarah Caldecott (The Northern Echo))*

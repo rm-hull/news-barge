@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The family of a man found dead in the Ripon Canal on Sunday morning has
   now been informed, North Yorkshire Police has confirmed.
 image: https://mmo.aiircdn.com/409/69e5d62ad4eba.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/69e5d62ad4eba.jpg) 

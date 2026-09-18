@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: This week on “Uncanny Valley,” we discuss three possible AI doomsday
   scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.
 image: https://media.wired.com/photos/6aab06ffc34fee882b3a156d/191:100/w_1280,c_limit/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The debate of whether AI can kill us has been everywhere lately, but what would an actual AI catastrophe look like? This week, Brian Barrett, Zoë Schiffer, and Leah Feiger break down three real-world scenarios experts worry the most about—including hacked water supplies, bioweapons, and autonomous robots. We also discuss the highlights of Salesforce’s annual conference, where OpenAI’s Sam Altman and Anthropic’s Dario Amodei defended their positions on AI safety. Plus, Leah tells us how this backlash against AI has become a rare bipartisan flash point, to the point that Bernie Sanders and Steve Bannon shared a stage over it this week.

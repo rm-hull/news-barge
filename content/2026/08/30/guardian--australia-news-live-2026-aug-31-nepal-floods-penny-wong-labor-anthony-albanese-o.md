@@ -8,6 +8,9 @@ scraped_at: '2026-08-30T22:42:05Z'
 published: '2026-08-30T00:00:00Z'
 description: Follow the day’s news live.
 image: https://i.guim.co.uk/img/media/704cc31ebeb2c73cc3c9bc194580194504885c2c/787_63_2934_2348/master/2934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d01c52b44b41c62ebab7ae5444e09b13
+categories:
+- UK
+- News & Politics
 ---
 
 One Nation’s Barnaby Joyce said the party wouldn’t get ‘carried away’ after claiming a victory in the Secret Harbour state byelection in Western Australia. Photograph: Michael Gorton/AAP

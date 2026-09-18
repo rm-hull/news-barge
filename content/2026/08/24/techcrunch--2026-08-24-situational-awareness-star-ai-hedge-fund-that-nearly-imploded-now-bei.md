@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The AI hedge fund went from "the talk of Wall Street" to "subject of
   federal subpoenas" faster than you can say "diversify your portfolio."
 image: https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Situational Awareness, the AI focused hedge fund that was Wall Street’s fleeting obsession, is having a very bad month.

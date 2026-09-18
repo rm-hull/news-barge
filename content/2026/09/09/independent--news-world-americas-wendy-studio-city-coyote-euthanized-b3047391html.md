@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: A coyote known to Studio City residents as Wendy was euthanized after
   a veterinary examination found a severe infection
 image: https://static.independent.co.uk/2026/09/01/13/32/Screenshot-2026-09-01-at-14-11-53.png?trim=205,0,68,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A coyote known and loved by residents of a Los Angeles neighborhood has been euthanized after veterinarians discovered two pellets lodged in her head and an infection that had severely damaged her jaw.

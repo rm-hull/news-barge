@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A new KFC branch in Monks Cross Drive, York, is seeking a licence to
   serve 'late-night refreshments' until 5am.
 image: https://www.yorkpress.co.uk/resources/images/16476249.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

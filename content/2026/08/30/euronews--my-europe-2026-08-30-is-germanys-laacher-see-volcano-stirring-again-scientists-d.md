@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: 'The Laacher See volcano last erupted around 13,000 years ago. Now, deep
   below the Eifel, scientists are reporting signs it remains active. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/68/15/1200x675_cmsv2_1720090d-7c7b-5dc3-b558-a1d826e56b25-9886815.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 **Franziska Müller**

@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A North Yorkshire bridge has been closed indefinitely after being struck
   by a heavy goods vehicle just hours before the Tour of Britain cycle race…
 image: https://www.gazetteherald.co.uk/resources/images/21412448.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A North Yorkshire bridge has been closed indefinitely after being struck by a heavy goods vehicle just hours before the Tour of Britain cycle race was due to visit the area.

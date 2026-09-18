@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Rail passengers across the North East will soon find it easier to complete
   their journeys when trains are cancelled, as the Government introduces…
 image: https://www.thenorthernecho.co.uk/resources/images/21449872.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: SARAH CALDECOTT)*

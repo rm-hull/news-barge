@@ -8,6 +8,8 @@ scraped_at: '2026-09-08T22:35:05Z'
 published: '2026-09-08T00:00:00Z'
 description: A 1990s jet engine prototype is being revived
 image: https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Axisymmetric Vectoring Exhaust Nozzle](https://cdn.mos.cms.futurecdn.net/PPuZsTqz9G2jF5DbiwqYen.jpg) 

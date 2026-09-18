@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Phillip Ormerod died last month in hospital following an alleged assault
   at his local pub
 image: https://static.independent.co.uk/2026/08/13/17/2c1a4acca41a746595c99a6cb7c95c35Y29udGVudHNlYXJjaGFwaSwxNzg2NzI0Nzc4-2.85554298.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 102-year-old man with dementia who died after he was allegedly assaulted in a pub “deteriorated” after suffering a fractured hip, an inquest opening has heard.

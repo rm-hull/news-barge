@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The U.S. is commemorating the 25th anniversary of the 9/11 attacks that
   left nearly 3,000 people dead and the nation shaken
 image: https://static.independent.co.uk/2026/09/10/19/APTOPIX_Sept_11_Tribute_in_Light_Test_27891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Americans are commemorating the 25th anniversary of 9/11, remembering the shock, the dead and the sweeping consequences of the al-Qaida attacks on symbols of U.S. might and prosperity.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Neither the White House or the Kremlin have offered an explanation for
   the first trip by a US spy chief to the Russian capital in nearly five years
 image: https://static.independent.co.uk/2026/08/25/15/2269548820..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The White House is facing scrutiny after the CIA director made a mysterious visit to Moscow on Tuesday, the first visit by a chief of the intelligence agency in nearly five years.

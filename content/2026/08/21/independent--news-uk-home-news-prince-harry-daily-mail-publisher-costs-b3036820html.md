@@ -9,6 +9,10 @@ description: The Duke of Sussex is among seven high-profile names who failed to 
   Associated Newspapers Limited has engaged in unlawful information gathering for
   stories
 image: https://static.independent.co.uk/2026/06/29/16/2256955714..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Duke of Sussex and six other household names are set to find out how many millions of pounds they will have to pay initially to the Daily Mail’s publisher in legal costs after their failed High Court case.

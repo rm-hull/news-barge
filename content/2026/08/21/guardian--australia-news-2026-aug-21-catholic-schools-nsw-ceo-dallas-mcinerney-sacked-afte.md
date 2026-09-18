@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Watchdog investigating whether Dallas McInerney arranged illegal political
   donations from schools to lobbying companies controlled by the Reformers
 image: https://i.guim.co.uk/img/media/ad63171aea28cf3069565a872d95f26fee90ee62/0_89_1237_989/master/1237.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc05454eb6bb0174f35452ad1fa9f8c5
+categories:
+- UK
+- News & Politics
 ---
 
 The chief executive of Catholic Schools New South Wales, Dallas McInerney, has been sacked after appearing at a watchdog inquiry into allegations of corruption in the state’s Liberal party.

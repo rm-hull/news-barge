@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: EAST Riddlesden Hall will open its doors for free this September as part
   of Heritage Open Days.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21418927.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: ©National Trust Images/Arnhel de)*

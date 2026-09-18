@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: Could the RAM crisis get any gloomier? Yes, it just did, with the latest
   chatter from analysts turning even more pessimistic.
 image: https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![RAM sticks stacked on top of each other](https://cdn.mos.cms.futurecdn.net/usHwZaRSu5KnAjSPZDWDta.jpg) 

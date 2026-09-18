@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The average price of a litre of petrol at UK forecourts reached 170.54p
   on Tuesday, while diesel climbed to 192.86p, RAC said
 image: https://static.independent.co.uk/2026/06/25/7/41/GettyImages-2276831110.jpeg?trim=23,0,23,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The cost of filling a family car with fuel has risen by almost £5 since the start of September, according to the RAC.

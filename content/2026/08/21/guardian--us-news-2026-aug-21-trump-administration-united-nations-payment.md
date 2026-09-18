@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: UN secretary general has said UN faces ‘imminent financial collapse’
   due to unpaid contributions from member states
 image: https://i.guim.co.uk/img/media/0e87cc2684301875dde269ecd3701c1fe814d0b6/270_0_5303_4245/master/5303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d6a89640dca0abf17189cb983aaa0e6
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Trump administration has started the process to transfer $725m to the United Nations, a congressional notification seen by Reuters showed – a move aid experts said was a welcome step towards paying billions in dues owed.

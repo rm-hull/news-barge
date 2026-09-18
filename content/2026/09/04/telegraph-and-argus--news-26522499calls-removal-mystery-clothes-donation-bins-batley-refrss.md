@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Residents have called for the removal of a pair of unmarked clothing
   bins, over fears they will become a “dumping site”.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411243.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 RESIDENTS have called for the removal of a pair of unmarked clothing bins, over fears they will become a “dumping site”.

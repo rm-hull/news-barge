@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:26Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/goughrd1.jpg
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 A request for busy roads in Catterick Garrison to receive a higher level of winter gritting has been rejected by North Yorkshire Council.

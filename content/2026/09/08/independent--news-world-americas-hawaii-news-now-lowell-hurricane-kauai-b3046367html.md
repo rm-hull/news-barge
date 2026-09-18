@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:40Z'
 published: '2026-09-08T00:00:00Z'
 description: The closures take effect across Oahu and Kauai County
 image: https://static.independent.co.uk/2026/09/08/02/HAWAI-TORMENTAS_92735.jpg?trim=167,0,167,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Hawaii Governor Josh Green has closed schools and government offices on Oahu and the westernmost islands of Kauai and Niihau for Tuesday.

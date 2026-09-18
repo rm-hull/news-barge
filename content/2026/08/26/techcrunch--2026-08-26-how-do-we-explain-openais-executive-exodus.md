@@ -7,6 +7,8 @@ scraped_at: '2026-08-26T23:24:16Z'
 published: '2026-08-26T00:00:00Z'
 description: Was Greg Brockman the right executive all along?
 image: https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 OpenAI is the original frontier lab. Its latest publicly released model, GPT-5.6, is one of the most capable and efficient on the market. Its desktop app for agentic coding and workplace tasks has seen its user base grow by about 15 million subscribers in the last two months.

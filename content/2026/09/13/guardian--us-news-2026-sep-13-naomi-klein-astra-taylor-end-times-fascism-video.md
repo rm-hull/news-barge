@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: In a new video, Klein and Taylor outline a ominous evolution taking shape
   on the far right – and how to stay loyal to this planet and each other
 image: https://i.guim.co.uk/img/media/45344e559d9487a96d332fa42972125aa05c13cf/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f37b4b2fa142d0ce2ab3306801074205
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 An ominous evolution is under way on the far right. It is a dangerous shift that is linked to our era of existential crises, defined by its pandemics, climate emergencies, resource wars and rogue tech. Today’s fascists are part of a dangerous and fractious alliance – from messianic venture capitalists to army-controlling theocrats – united by the belief that the end of the world is upon us and that only a chosen few deserve to be saved. That is the thesis of Naomi Klein and Astra Taylor’s new book, End Times Fascism: And the Fight for the Living World.

@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Margaret Rog reportedly made statements to authorities that indicated
   she was aware that her husband needed help — but declined to get him any
 image: https://static.the-independent.com/2026/09/17/13/33/Margaret-Rog.avif?trim=71,0,72,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A West Virginia wife is accused of leaving her ailing husband on the toilet for 19 hours, allowing his condition to worsen before he ultimately died a week later.

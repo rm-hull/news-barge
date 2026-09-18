@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Why did Patricia Marsh's case go to trial after a dementia diagnosis
   - it was a waste of public money and time, says today's lead letter…
 image: https://www.yorkpress.co.uk/resources/images/21378493.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- Science
 ---
 
 *(Image: Newsquest)*

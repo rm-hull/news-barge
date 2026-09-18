@@ -9,6 +9,11 @@ description: US lawmakers have approved sweeping new sanctions targeting Russia'
   economy and Putin's inner circle, with Trump set to sign a bill that also threatens
   steep tariffs on major buyers of Russian oil, including China and India.
 image: https://images.euronews.com/articles/stories/09/91/67/66/1200x675_cmsv2_e8c6846e-48f0-5512-9966-47937d0db90e-9916766.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## US lawmakers have approved sweeping new sanctions targeting Russia's economy and Putin's inner circle, with Trump set to sign a bill that also threatens steep tariffs on major buyers of Russian oil, including China and India.

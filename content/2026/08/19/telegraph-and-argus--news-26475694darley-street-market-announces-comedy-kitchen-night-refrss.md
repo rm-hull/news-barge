@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Comedy in the Kitchen is returning to Bradford's Darley Street Market
   this November.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337632.jpg?type=og-image&xType=0&yType=723
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: City of Bradford Council)*

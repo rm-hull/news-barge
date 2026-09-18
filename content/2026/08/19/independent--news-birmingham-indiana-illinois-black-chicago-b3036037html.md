@@ -9,6 +9,10 @@ description: Tens of thousands of people in northwest Indiana remain without pow
   more than a week after deadly storms leveled trees and knocked down power lines
   across the region
 image: https://static.independent.co.uk/2026/08/20/01/Severe-Weather-Power-Outages_48_48.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Tens of thousands of people in northwest Indiana remained without power Wednesday, more than a week after deadly storms leveled trees and knocked down power lines across the region.

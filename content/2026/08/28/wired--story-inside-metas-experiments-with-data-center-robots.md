@@ -9,6 +9,11 @@ description: The company is testing robots that can swap cables, reset servers, 
   take on other tasks performed by technicians, fueling concerns among some workers
   that their jobs could be at risk.
 image: https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/191:100/w_1280,c_limit/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers, according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars.

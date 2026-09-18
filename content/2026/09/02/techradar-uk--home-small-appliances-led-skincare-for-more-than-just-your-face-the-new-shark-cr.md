@@ -8,6 +8,9 @@ scraped_at: '2026-09-02T12:45:51Z'
 published: '2026-09-02T00:00:00Z'
 description: The Shark Beauty CryoGlow Clinic Face + Body promises fast results
 image: https://cdn.mos.cms.futurecdn.net/Y7fN8BcXHNE5wifVe2fYtE-2048-80.png
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![A woman with a white towel on her head puts on the Shark Beauty CryoGlow Clinic Face + Body mask](https://cdn.mos.cms.futurecdn.net/Y7fN8BcXHNE5wifVe2fYtE.png) 

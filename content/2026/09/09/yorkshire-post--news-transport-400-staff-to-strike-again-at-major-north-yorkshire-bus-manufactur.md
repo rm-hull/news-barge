@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Hundreds of staff at a major North Yorkshire manufacturing business are
   expected to continue strike action in a months-long dispute over pay.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiYmRlYWM5LTQ5NDctNDQyNS04NjEzLWM4NDZmNTMzNzFjMzplOGI4N2I4Ny0yMWE5LTRkNjctODk4Ni00ZTNmMTJmNjdkMjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # 400 staff to strike again at major North Yorkshire bus manufacturer

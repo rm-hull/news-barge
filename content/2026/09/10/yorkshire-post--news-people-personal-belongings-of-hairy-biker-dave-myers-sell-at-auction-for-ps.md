@@ -9,6 +9,11 @@ description: A collection of personal items belonging to the late Hairy Biker Da
   Myers have fetched £20,000 at auction - including his moustache brush and motorbike
   leathers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUxMDA0MmMxLTkzZjEtNDFlYy05MmI5LTU2YzQ4NTczNDlkYjpkYzczNjZkYy1lODhmLTQ5YzUtOGMwZi1hYTA5MzA0MmNlMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Personal belongings of Hairy Biker Dave Myers sell at auction for £20,000

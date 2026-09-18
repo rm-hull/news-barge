@@ -10,6 +10,11 @@ description: A legal settlement last year allowed higher education institutions 
   directly pay athletes a total of about $20.5 million annually, on top of any scholarships
   and other NIL deals they receive
 image: https://static.independent.co.uk/2026/08/20/20/14/GettyImages-2267834832.jpg?trim=0,77,0,77&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Regardless of the score, the North Carolina Tar Heels will already be in elite company when they kick off the college football season against Texas Christian University.

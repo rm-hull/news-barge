@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: 'Marmolada glacier in retreat, permafrost deteriorating and high-altitude
   water dwindling: Legambiente warns of a crisis in the Venetian Dolomites'
 image: https://images.euronews.com/articles/stories/09/88/42/59/1200x675_cmsv2_ca7a4e75-602b-5c1d-a68b-f6df88169c0c-9884259.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Marmolada glacier in retreat, permafrost deteriorating and high-altitude water dwindling: Legambiente warns of a crisis in the Venetian Dolomites

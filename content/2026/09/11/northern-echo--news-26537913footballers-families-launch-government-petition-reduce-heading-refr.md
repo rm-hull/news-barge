@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Families of former Middlesbrough players and coaches launched a petition
   at Middleton Hall near Darlington on Wednesday, September 9, calling for…
 image: https://www.thenorthernecho.co.uk/resources/images/21434178.jpg?type=og-image&xType=0&yType=205
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Former players and footballers’ families have united to demand government action on heading in professional and grassroots football, warning: “The time for action is now, not just shock and condolences”.

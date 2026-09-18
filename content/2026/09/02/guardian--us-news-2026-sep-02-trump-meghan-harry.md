@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: President praises late queen and King Charles but says duke and duchess
   treated royal family ‘with great disrespect’
 image: https://i.guim.co.uk/img/media/b5a30bb5a4b6452d787f2096454bd0898b73af40/188_0_2511_2010/master/2511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c201bb542fb198a7717882a90bd78e6
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump has weighed in on the Duke and Duchess of Sussex’s move back to Britain, declaring: “I’m happy about it.”

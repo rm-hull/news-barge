@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Heavy rain expected in parts of Vietnam and southern China, as another
   storm system, Typhoon Saudel, heads for Japan and Taiwan
 image: https://i.guim.co.uk/img/media/ddc5b89ffe9742f50c75380c051ff9ac6d23aced/566_0_4398_3518/master/4398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7ff2c942e621eaba010f4857701a07d
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.

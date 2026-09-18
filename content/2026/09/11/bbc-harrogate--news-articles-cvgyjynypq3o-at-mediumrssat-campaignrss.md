@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The crash happened in North Yorkshire in 2024, with former decathlete
   Bradley McStravick knocked off his bike.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bef8/live/58fb9160-ae04-11f1-94b8-7786b77e3dd2.png
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Two olympic athletes, in white vests with numbers on, stood on a race track. They are Daley Thompson and Brad McStravick](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9a79/live/32ac1150-adfb-11f1-a540-61c3f7fc4e6c.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: The next of kin of a woman found dead in York has come forward, North
   Yorkshire Police said.
 image: https://www.gazetteherald.co.uk/resources/images/21296296.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Haydn Lewis)*

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Darlington man Christopher Fothergill admitted sending death threats
   on social media but denied stalking a woman.
 image: https://www.thenorthernecho.co.uk/resources/images/20415254.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Getty)*

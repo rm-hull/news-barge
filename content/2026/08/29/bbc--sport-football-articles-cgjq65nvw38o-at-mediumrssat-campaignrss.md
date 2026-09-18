@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Alexander Isak scored his first goal of the season in the 2-2 draw against
   Nottingham Forest - but how do Liverpool get the best out of him?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c79/live/1708fc40-a3bc-11f1-b13c-0d78069132fa.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Alexander Isak celebrates scoring against Forest](https://ichef.bbci.co.uk/ace/standard/633/cpsprodpb/f43c/live/1371b270-a3c1-11f1-b13c-0d78069132fa.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: It seems that the city is washing its hands off the case and passing
   the burden on the county.
 image: https://cdn.mos.cms.futurecdn.net/yyCLdBRnjiQVkMo69tnhrf-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- True Crime
 ---
 
 ![a protester holding a 'stop data centers' sign](https://cdn.mos.cms.futurecdn.net/yyCLdBRnjiQVkMo69tnhrf.png) 

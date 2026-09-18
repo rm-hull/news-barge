@@ -11,6 +11,10 @@ description: These chemicals are crucial for semiconductor manufacturing, but th
   must also come with a lot of safety rules to prevent them from leaking out and poisoning
   the environment.
 image: https://cdn.mos.cms.futurecdn.net/BaNoikMVUSL8sLfjAoD2TQ-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![chemicals on a shelf](https://cdn.mos.cms.futurecdn.net/BaNoikMVUSL8sLfjAoD2TQ.png) 

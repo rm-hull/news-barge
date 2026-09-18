@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Ann Ming spent 17 years fighting for justice for her beloved daughter
   Julie Hogg - and 20 years ago today, her killer finally confessed.
 image: https://www.thenorthernecho.co.uk/resources/images/21441913.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Ann Ming still remembers the last time she saw her daughter Julie Hogg alive.

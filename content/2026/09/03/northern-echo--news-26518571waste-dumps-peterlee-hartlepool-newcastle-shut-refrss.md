@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Three mounding waste dumps featuring almost 3,500 tonnes of rubbish across
   the North East have been shut down.
 image: https://www.thenorthernecho.co.uk/resources/images/21405746.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: ENVIRONMENT AGENCY)*

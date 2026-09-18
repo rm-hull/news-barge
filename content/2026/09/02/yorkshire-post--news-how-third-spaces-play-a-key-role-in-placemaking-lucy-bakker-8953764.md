@@ -9,6 +9,11 @@ description: If you ask someone what makes their neighbourhood special, they wil
   tell you about the independent shop where the barista knows their order, the park
   where they walk their dog, or the square where weekend markets come alive.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI0YmU0YzEzLWRmNjAtNGY1Yy04MjYwLTYwNDVmMjhiODFmNzozNmFlNmQ1Yy00MGQ2LTQ5MTktODFkZS0yYzdiNWIyNmU4NmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # How 'third spaces' play a key role in placemaking: Lucy Bakker

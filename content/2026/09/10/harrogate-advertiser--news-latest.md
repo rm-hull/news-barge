@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Parents and carers across the Harrogate district being urged to apply online for their children's secondary school places ahead of the application deadline at the end of October](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA1NTk1YjEwLWU2ZWEtNDA4Zi1hY2FmLTdmODcxYWVmMTVhZDoxMzJlMjQ3OS1iODU3LTRkNjMtYTNiMy1iMmVlMjViMDA5ZmE=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

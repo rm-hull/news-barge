@@ -11,6 +11,11 @@ description: “By becoming the first African artist to receive this global hono
   and dignity of our entire nation to the highest level," said Benin’s President Romuald
   Wadagni.
 image: https://images.euronews.com/articles/stories/09/87/99/99/1200x675_cmsv2_74edce28-4624-5296-8aad-58ce2e94fdc5-9879999.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ## “By becoming the first African artist to receive this global honour, the Beninese icon has etched her name into history and raised the rhythms, creativity and dignity of our entire nation to the highest level," said Benin’s President Romuald Wadagni.

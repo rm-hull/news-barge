@@ -9,6 +9,10 @@ description: The lone Democratic FCC commissioner left on the panel accused the 
   administration of trying to ‘punish’ ABC and Disney because they don’t like the
   late-night show’s speech
 image: https://static.independent.co.uk/2026/08/18/20/2262361321..?trim=0,50,0,50&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The lone Democratic member on the Federal Communications Commission praised Disney and ABC Tuesday for suing to stop the Trump administration from reviewing its broadcasting license ahead of schedule, accusing her boss of trying to bend the law.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Ahmed Hassoun was convicted of crimes including inciting civil war and
   complicity in intentional killing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![File photo showing Syria's then grand mufti, Ahmed Hassoun, speaking inside the Cathedral of Mar Elias in the northern Syrian city of Aleppo on 20 July 2020](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/0585/live/b475b890-9fef-11f1-88a7-7565f9374fbb.jpg)

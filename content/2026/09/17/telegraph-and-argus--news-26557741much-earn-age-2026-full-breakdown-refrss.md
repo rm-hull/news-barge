@@ -8,6 +8,13 @@ published: '2026-09-17T00:00:00Z'
 description: How much should you really be earning at your age? New salary benchmarks
   reveal what the typical UK worker takes home at different stages of their…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21020650.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

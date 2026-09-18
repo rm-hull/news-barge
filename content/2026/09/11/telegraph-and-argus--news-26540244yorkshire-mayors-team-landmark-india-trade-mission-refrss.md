@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T12:48:40Z'
 published: '2026-09-11T00:00:00Z'
 description: YORKSHIRE is preparing for its first-ever joint trade mission to India
 image: https://www.thetelegraphandargus.co.uk/resources/images/21029714.jpg?type=og-image&xType=0&yType=485
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

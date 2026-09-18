@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: MUSICIANS, comedians, and puppeteers are set to take the stage this autumn
   as part of a packed programme of live entertainment.
 image: https://www.thenorthernecho.co.uk/resources/images/21410745.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 *(Image: Supplied)*

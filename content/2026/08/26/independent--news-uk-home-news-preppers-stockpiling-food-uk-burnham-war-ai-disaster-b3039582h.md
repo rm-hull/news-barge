@@ -9,6 +9,9 @@ description: As Andy Burnham’s government looks to tell more Britons to prepar
   disasters, Alex Ross speaks to those inside the ‘prepper’ community who are already
   well equipped for a full-scale national emergency
 image: https://static.independent.co.uk/2026/08/26/15/35/IMG_2467-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It was eight years ago that Mike, who goes by the name UK Urban Prepper, began stockpiling food and water for his family.

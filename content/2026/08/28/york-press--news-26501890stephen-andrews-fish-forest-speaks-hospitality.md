@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Top York chef Stephen Andrews whose Fish and Forest Ltd has had to restructure
   with new owner says it is “brutal” in hospitality right now.
 image: https://www.yorkpress.co.uk/resources/images/21381129.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## 'It's brutal!' - top York chef speaks on liquidation and restructure of restaurant

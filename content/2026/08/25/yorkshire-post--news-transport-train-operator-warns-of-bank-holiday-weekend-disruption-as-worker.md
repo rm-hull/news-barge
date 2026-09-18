@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A train operator has warned of disruption to its services over the bank
   holiday weekend because of a strike by workers in a dispute over safety.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/04/23/13/15/An-LNER-Azuma-at-Leeds-station-LNER.jpeg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Train operator warns of bank holiday weekend disruption as workers stage walkout

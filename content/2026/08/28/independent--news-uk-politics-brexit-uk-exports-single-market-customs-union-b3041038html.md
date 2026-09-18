@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: 'Exclusive: The damning findings comes as a major new survey shows that
   98.2 per cent of businesses want access to the EU single market restored'
 image: https://static.independent.co.uk/2026/08/28/15/55/burnham-eu.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Brexit is costing the UK £11.7bn a year in lost exports, stark new figures show, piling further pressure on Andy Burnham to rejoin the EU’s single market and customs union.

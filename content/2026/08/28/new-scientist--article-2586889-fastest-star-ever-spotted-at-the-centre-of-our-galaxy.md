@@ -9,6 +9,9 @@ description: A newfound star called S301 is both the fastest ever seen and the c
   to a supermassive black hole –and it could make bafflingly difficult tests of gravity
   possible at last
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Star clouds in the constellation of Sagittarius in the direction of the centre of our Milky Way galaxy](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309765879.jpg?w=840)

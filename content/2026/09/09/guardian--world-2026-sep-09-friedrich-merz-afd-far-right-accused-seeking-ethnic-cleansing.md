@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Friedrich Merz says Alternative für Deutschland is ‘dividing our society’
   after party won nearly 44% of vote in Saxony-Anhalt state election
 image: https://i.guim.co.uk/img/media/8f2db23edd9b98a1a369317376191faac4743978/342_0_4168_3334/master/4168.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69ad34df85479b8f78b7fe258dcf942e
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Germany’s chancellor, Friedrich Merz, has accused the far-right Alternative für Deutschland (AfD) of seeking “ethnic cleansing” with its “remigration” drive, after the nativist party’s seismic weekend victory in a state election.

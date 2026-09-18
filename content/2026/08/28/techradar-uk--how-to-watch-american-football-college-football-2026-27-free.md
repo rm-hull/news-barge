@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Can the Ohio Buckeyes return to winning ways as the Indiana Hoosiers
   defend their National Championship?
 image: https://cdn.mos.cms.futurecdn.net/BSBqBtnoyhCHtUcdtmEKXg-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Arch Manning of the Texas Longhorns looks for a pass during an NCAA college football match.](https://cdn.mos.cms.futurecdn.net/BSBqBtnoyhCHtUcdtmEKXg.jpg) 

@@ -8,6 +8,12 @@ scraped_at: '2026-08-19T13:09:51Z'
 published: '2026-08-19T00:00:00Z'
 description: A UK retailer is shutting a town centre store after five years of trading.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339784.jpg?type=og-image&xType=0&yType=1033
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Discover Ilkley)*

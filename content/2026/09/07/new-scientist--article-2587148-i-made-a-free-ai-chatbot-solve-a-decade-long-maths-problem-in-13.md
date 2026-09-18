@@ -10,6 +10,9 @@ description: After months covering the shocking rise of AI mathematics, reporter
   Sparkes decided to put a free chatbot to the test – and was shocked at the speed
   at which it solved an outstanding problem
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311215204.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311215204.jpg?w=840)

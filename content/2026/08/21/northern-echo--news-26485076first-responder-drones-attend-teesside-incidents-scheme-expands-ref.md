@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The force has expanded its Drone as First Responder programme to five
   sites, with remotely piloted drones able to reach live incidents in as little…
 image: https://www.thenorthernecho.co.uk/resources/images/20851539.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Cleveland Police)*

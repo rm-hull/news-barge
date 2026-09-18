@@ -9,6 +9,11 @@ description: The United States is set to impose 50% tariffs on $20 billion worth
   Canadian products early Saturday after last-ditch negotiations failed to resolve
   the latest strain in already tense relations between the historic allies
 image: https://static.independent.co.uk/2026/08/22/04/Trump_17787.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The United States was set to impose 50% tariffs on $20 billion worth of Canadian products early Saturday after last-ditch negotiations failed to resolve the latest strain in already tense relations between the historic allies.

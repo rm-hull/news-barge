@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: An attorney for Bartiromo, a longtime Fox Business anchor, has denied
   that she was fired
 image: https://static.independent.co.uk/2026/09/10/17/33/GettyImages-2284176154.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Maria Bartiromo broke her silence days after departing Fox News, where she was reportedly fired for sharing internal guidance with the Trump administration, a claim her attorney has denied.

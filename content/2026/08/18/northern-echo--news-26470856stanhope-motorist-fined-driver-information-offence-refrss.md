@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Jason Humble, 25, of Stanhope, has been fined and given penalty points
   after failing to identify the driver of a vehicle when requested to do so by…
 image: https://www.thenorthernecho.co.uk/resources/images/20185751.jpg?type=og-image&xType=0&yType=309
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Newsquest)*

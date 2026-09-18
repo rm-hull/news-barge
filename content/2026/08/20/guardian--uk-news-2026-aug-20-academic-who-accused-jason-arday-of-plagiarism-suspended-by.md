@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Researcher Nathan Cofnas previously claimed Black people would hold few
   high-profile positions in a meritocracy
 image: https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/1703_797_3574_2860/master/3574.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47608c88523bebab63b09bd032c8af80
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Nathan Cofnas, the academic who made plagiarism allegations against Prof Jason Arday before his death, has been suspended by a university.

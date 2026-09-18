@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Ron Bailey has been quietly changing the law for the past 40 years -
   how does he do it?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8077/live/5a45c1d0-7623-11f1-9cba-11a4f8930054.jpg
+categories:
+- UK
+- News & Politics
+- Law & Justice
 ---
 
 ![Ron Bailey, a man with a white beard and glasses, and a bald head. He is wearing a patterned open neck shirt and sitting next to a window in his home](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8077/live/5a45c1d0-7623-11f1-9cba-11a4f8930054.jpg)

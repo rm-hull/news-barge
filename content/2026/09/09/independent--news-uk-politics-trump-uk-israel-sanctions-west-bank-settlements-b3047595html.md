@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The US president seemed unusually hesitant to elaborate on the joint
   sanctions from Britain, Canada and France
 image: https://static.independent.co.uk/2026/07/28/15/35/GettyImages-2209045059-(2).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Donald Trump has raised questions over the timing of a UK ban targeting trade with illegal Israeli settlements in the West Bank.

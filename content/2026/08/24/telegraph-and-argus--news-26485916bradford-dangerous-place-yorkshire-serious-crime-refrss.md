@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: MPs and a local councillor have expressed their concerns after a new
   study revealed Bradford has been named the most dangerous place in Yorkshire…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21026191.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

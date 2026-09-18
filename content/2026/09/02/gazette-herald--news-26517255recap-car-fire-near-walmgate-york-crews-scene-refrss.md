@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Emergency services have swooped in Navigation Road, off Walmgate in York,
   after reports of a fire.
 image: https://www.gazetteherald.co.uk/resources/images/21403905.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 ## Our live feed has now finished.

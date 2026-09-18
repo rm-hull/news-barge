@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A NASA spacecraft circling the moon is providing the sharpest views yet
   of the crater carved by a crashing SpaceX rocket
 image: https://static.independent.co.uk/2026/08/18/22/SpaceX_Moon_Crash_78552.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 A NASA spacecraft circling the moon is providing the sharpest views yet of the crater carved by a crashing SpaceX rocket.

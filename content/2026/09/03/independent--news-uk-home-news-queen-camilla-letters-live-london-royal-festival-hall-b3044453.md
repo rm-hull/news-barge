@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Some audience members gasped and a deafening applause broke out as the
   Queen arrived on stage at the Letters Live event at Royal Festival Hall
 image: https://static.independent.co.uk/2026/09/03/21/01M1MDEP7WXSMQ2Q4DSHSZZ58E.jpg?trim=157,525,658,593&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Audience members at a packed central London show were greeted with an unexpected appearance when the Queen took to the stage to deliver a reading.

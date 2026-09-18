@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: All the ways to watch Rangers vs Celtic live streams, potentially for
   FREE, online as the two sides meet in the Scottish League Cup 2026/27 quarter-finals.
 image: https://cdn.mos.cms.futurecdn.net/wk7k93kQfukqpxp6WjR5uX-819-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Luke McCowan of Celtic vies with Tuur Rommens of Rangers during the Premier League match between Celtic and Rangers at Celtic Park on May 10, 2026 in Glasgow, Scotland.](https://cdn.mos.cms.futurecdn.net/wk7k93kQfukqpxp6WjR5uX.jpg) 

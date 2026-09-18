@@ -8,6 +8,13 @@ published: '2026-09-10T00:00:00Z'
 description: Take a nostalgic look at 10 lost Bradford nightclubs, from Flares and
   The Palace to Lingards, Mickeys and Cavernes, in historic photos from decades…
 image: https://www.thetelegraphandargus.co.uk/resources/images/16310819.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
+- Sports
 ---
 
 *(Image: Newsquest)*

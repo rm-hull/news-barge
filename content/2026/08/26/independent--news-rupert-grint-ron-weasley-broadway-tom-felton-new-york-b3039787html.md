@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Rupert Grint, known as Ron Weasley from the “Harry Potter” movies, will
   reprise his role on Broadway in “Harry Potter and the Cursed Child.”
 image: https://static.independent.co.uk/2026/08/26/16/Theater-Harry_Potter_38651.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Rupert Grint — the original Ron Weasley from the “Harry Potter” movies — will slip into his old role on Broadway next year in “Harry Potter and the Cursed Child.”

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Veterans recall chaos and confusion as the attacks unfolded – followed
   by a ‘war on terror’ that left agency with a tarnished reputation
 image: https://i.guim.co.uk/img/media/9864d139a77ee91af297e9db68ae5dabffe066c3/29_0_2561_2048/master/2561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fad4ecc96adc03f4fa70361a165f4cfd
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A generation of spies had lost an enemy but not yet found a role. Then came 9/11.

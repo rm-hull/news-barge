@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: MPs applaud PM’s ambition and optimism but John Healey has yet to show
   he can match leader’s radical perspective
 image: https://i.guim.co.uk/img/media/bb361e1bca3deb54f4412ce70d4f09557d31ff03/241_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01072a0c2b96293019a57162e5b0c963
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Until now, Andy Burnham has been a lucky prime minister. In office for just over six weeks, no major domestic crisis derailed his plans over the summer, Reform has been on the back foot, and he arrived back at Westminster with his personal approval ratings soaring and optimism undampened.

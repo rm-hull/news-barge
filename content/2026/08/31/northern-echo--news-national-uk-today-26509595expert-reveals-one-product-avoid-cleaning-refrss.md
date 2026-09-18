@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A cleaning expert has warned people to stop using this one product when
   trying to get rid of dirt from their homes.
 image: https://www.thenorthernecho.co.uk/resources/images/21393223.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 It can be incredibly difficult to keep your house clean, especially if you are struggling with tough stains.

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Search for survivors continues with nine people still missing following
   two strikes on a shopping centre in Kryvyi Rih
 image: https://static.independent.co.uk/2026/08/22/09/2026-08-22T073721Z_74185266_RC2J3NA0KPCW_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KRYVYI-RIH.JPG?trim=52,0,52,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Ukraine’s president Volodymyr Zelensky vowed to retaliate after a double-tap drone strike on his home town killed 16 people.

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: As you may know, there’s a few of us in the office that do The Press
   food reviews.
 image: https://www.gazetteherald.co.uk/resources/images/21340158.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 As you may know, there’s a few of us in the office that do our food reviews.

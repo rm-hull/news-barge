@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Despite falls in some parts of the market, prices are showing signs of
   stabilising as investors exit and first-time buyers move in, analysts say
 image: https://i.guim.co.uk/img/media/9f136e9bb6fd696b378b4531727ea7b02b94547d/864_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1021fa5f699a2a8be2b174a1c82b9d29
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 High-end homes are recording steep price falls, while more affordable properties are proving resilient, leaving Australians to experience the market downturn in very different ways, new data shows.

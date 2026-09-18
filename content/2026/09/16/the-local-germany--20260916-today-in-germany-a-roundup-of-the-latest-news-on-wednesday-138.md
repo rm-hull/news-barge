@@ -9,6 +9,11 @@ description: Organised crime in Germany getting more international, digitally co
   and violent, school pupils in Bavaria evacuated after chlorine gas leak, drone maker
   forced underground amid suspected Russian threat and more news on Wednesday.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619472653.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 **Today's top story: Organised crime in Germany becoming more international and digitally connected**

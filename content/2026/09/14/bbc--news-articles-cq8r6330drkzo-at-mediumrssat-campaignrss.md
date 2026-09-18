@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: After a phone call with Buckingham Palace, Uganda now says it will take
   part in the Invictus Games.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Prince Harry announcing Uganda joining the Invictus Games in July](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/08e9/live/9b830a50-ac55-11f1-9e64-05835b0b18f8.jpg)

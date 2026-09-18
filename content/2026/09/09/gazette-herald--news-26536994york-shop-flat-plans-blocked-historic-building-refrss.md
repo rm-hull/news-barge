@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T22:28:56Z'
 published: '2026-09-09T00:00:00Z'
 description: Plans for a shop and flats in a historic York building have been blocked.
 image: https://www.gazetteherald.co.uk/resources/images/21432587.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

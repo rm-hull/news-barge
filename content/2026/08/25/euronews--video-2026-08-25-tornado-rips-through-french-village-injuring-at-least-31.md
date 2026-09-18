@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Video. A tornado tears through Pomas in southern France, damaging homes
   and roofs and injuring 31 people as severe storms hit the Aude region.
 image: https://images.euronews.com/articles/stories/09/88/74/50/1200x675_cmsv2_12e9e26e-cce6-56ac-b09a-371d4ca803a3-9887450.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 A tornado tore through Pomas in France's Aude department, damaging homes and ripping roofs apart.

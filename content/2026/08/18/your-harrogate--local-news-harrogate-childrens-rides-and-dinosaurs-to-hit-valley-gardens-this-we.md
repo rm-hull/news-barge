@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Dinosaurs, children's rides and giant games are set to take over Valley
   Gardens in Harrogate this weekend.
 image: https://mmo.aiircdn.com/409/6a840a630a37e37a961.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6a840a630a37e37a961.jpg) 

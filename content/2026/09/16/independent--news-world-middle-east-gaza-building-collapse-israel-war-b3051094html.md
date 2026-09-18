@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Tens of thousands of Palestinians live in an estimated 2,000 damaged
   buildings across Gaza
 image: https://static.independent.co.uk/2026/09/16/10/2026-09-16T060037Z_1789342663_RC24KNAQ2I9X_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-BUILDING-COLLAPSE.JPG?trim=0,28,0,28&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A war-damaged apartment building in Gaza collapsed overnight, killing at least 16 Palestinians, including children, and trapping dozens of others beneath the rubble.

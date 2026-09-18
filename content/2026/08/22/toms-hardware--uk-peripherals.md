@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Peripherals reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/a7jbVgATx7AS9Xg69P4zi6-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 # Peripherals

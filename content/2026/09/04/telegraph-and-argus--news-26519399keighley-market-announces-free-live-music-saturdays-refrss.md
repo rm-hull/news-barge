@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T04:22:30Z'
 published: '2026-09-04T00:00:00Z'
 description: LIVE music is coming to Keighley Market this September
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406947.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

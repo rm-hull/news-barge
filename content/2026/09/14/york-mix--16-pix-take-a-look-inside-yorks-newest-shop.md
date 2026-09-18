@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:24Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/royal-mile-whiskies-coney-street-11.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Fancy a wee dram in York? Get yourself to Royal Mile Whiskies, now open in the city centre.

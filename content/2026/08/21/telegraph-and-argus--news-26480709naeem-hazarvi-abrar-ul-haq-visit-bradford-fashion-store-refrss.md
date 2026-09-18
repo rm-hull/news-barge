@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: IK Collections on Westgate in Bradford city centre welcomed two leading
   Pakistani music artists during a busy weekend of culture and fashion.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346729.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

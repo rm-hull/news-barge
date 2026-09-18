@@ -10,6 +10,10 @@ description: A judge has sentenced a former forensic analyst for the Colorado Bu
   of Investigation to 10 years in prison after prosecutors said she manipulated and
   omitted data to speed up her work
 image: https://static.independent.co.uk/2026/09/08/22/Colorado_DNA_Scientist_Investigated__7569.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A judge sentenced a former forensic analyst for the Colorado Bureau of Investigation to 10 years in prison on Tuesday after authorities said her manipulation of DNA data raised questions about the validity of hundreds of criminal cases.

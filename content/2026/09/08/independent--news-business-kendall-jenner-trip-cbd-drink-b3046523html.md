@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Model is the latest high-profile star backing the firm after Joe Jonas
   and Rosie Huntington-Whiteley
 image: https://static.independent.co.uk/2026/09/08/12/01M200GS3DH9MS42JBS5X4BR6N.jpg?trim=31,0,329,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Kendall Jenner has taken a stake in Trip, a fast-expanding British drinks and supplements business.

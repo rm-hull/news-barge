@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: With the new season set to premiere Sept. 13, the broadcast team faces
   a compressed summer production schedule
 image: https://static.independent.co.uk/2026/08/18/21/38/GettyImages-457027880.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 Ariel Levy, a staff writer for *The New Yorker*, is joining “60 Minutes” as a contributor, CBS News announced Monday. 

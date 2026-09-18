@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Britain's Josh Tarling finishes third in the opening stage of the Vuelta
   a Espana just eight days after his brother Fin lost his life in a crash.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a533/live/58063060-9e57-11f1-92d9-fda6ee78d386.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Josh Tarling at the Vuelta a Espana](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/a533/live/58063060-9e57-11f1-92d9-fda6ee78d386.jpg)

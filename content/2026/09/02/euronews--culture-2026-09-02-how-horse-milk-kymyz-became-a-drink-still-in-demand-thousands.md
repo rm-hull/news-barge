@@ -9,6 +9,10 @@ description: Fermented horse milk, known as kymyz, is a traditional Central Asia
   drink with thousands of years of history. In Kazakhstan, it remains an important
   part of nomadic heritage, cuisine and hospitality.
 image: https://images.euronews.com/articles/stories/09/88/63/11/1200x675_cmsv2_6e70ef63-a47b-50f3-91e0-87bdf5e16d16-9886311.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Fermented horse milk, known as kymyz, is a traditional Central Asian drink with thousands of years of history. In Kazakhstan, it remains an important part of nomadic heritage, cuisine and hospitality.

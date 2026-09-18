@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Australian-led trial finds low risk of side effects from common cholesterol-lowering
   medication for otherwise healthy older people
 image: https://i.guim.co.uk/img/media/42c1689f2e97196bfead1fd93dcc3cf626442b7b/883_0_4317_3454/master/4317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b342fb397da7c281dbbe56b16dcdbf3
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Taking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found.

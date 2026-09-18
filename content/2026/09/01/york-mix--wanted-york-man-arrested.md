@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:27:55Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/10/north-yorkshire-police-cells-nyp.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Last week (27 August) Police issued an appeal to help find a 39-year-old from York.

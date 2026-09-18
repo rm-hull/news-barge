@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A crash has closed laned of a major road in York. The A64 eastbound between
   the A19 and A1079 Hull Road is seeing speeds down to ten miles per hour.
 image: https://www.gazetteherald.co.uk/resources/images/21385382.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Automotive
 ---
 
 ## Our live feed has now finished.

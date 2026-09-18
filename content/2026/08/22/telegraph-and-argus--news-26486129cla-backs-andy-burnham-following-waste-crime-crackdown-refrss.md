@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: THE Country Land and Business Association has welcomed Andy Burnham’s
   pledge to crack down on organised waste gangs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21348186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

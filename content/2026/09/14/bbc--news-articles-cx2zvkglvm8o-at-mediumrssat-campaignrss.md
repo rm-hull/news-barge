@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Jack Shepherd was sentenced at Isleworth Crown Court after previously
   admitting the violent assault.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbe2/live/1fc1cab0-8a8a-11f1-a7ab-8b30adf0800a.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Jack Shepherd in court. He wears a shirt and jacket and has a beard](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dbe2/live/1fc1cab0-8a8a-11f1-a7ab-8b30adf0800a.png)

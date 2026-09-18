@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Mountaineer Mingma G tells the BBC about the climb to bring home the
   bodies of his closest friends.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37fa/live/48f4dc90-ac1a-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Watch: Mingma G recalls the climb to bring home the bodies of his friends

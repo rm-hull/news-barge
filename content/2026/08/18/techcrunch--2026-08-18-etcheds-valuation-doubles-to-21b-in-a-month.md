@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Jane Street has installed Etched's first shipped AI cluster system, and
   was so impressed, it led another massive round, the startup says.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Etched on Tuesday announced that it has raised another $700 million at a $21 billion valuation, led by Jane Street after the famed quant fund tested and bought the startup’s AI hardware.

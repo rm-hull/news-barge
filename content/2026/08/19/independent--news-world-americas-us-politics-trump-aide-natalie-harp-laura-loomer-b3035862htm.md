@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: ‘A lot of the people who work for President Trump suffer from major professional
   jealousy and they are very bothered by loyalty,’ Laura Loomer wrote
 image: https://static.independent.co.uk/2026/08/19/17/15/GettyImages-2287538819.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 The “nasty” stories about President Donald Trump’s executive assistant Natalie Harp are being leaked from inside the White House, Laura Loomer has claimed.

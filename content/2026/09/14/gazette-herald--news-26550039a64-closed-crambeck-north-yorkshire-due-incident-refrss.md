@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T04:46:29Z'
 published: '2026-09-14T00:00:00Z'
 description: A MAIN road in North Yorkshire is closed both ways.
 image: https://www.gazetteherald.co.uk/resources/images/21234979.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

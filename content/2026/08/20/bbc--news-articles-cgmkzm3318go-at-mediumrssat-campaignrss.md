@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Residents say they have seen groups of riders regularly race through
   the streets.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba79/live/2ad62750-9c84-11f1-98a7-0f0ed51e02be.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A woman in a red England football shirt stands on a street with a red brick block of flats behind her. She has her hair tied up and is looking directly at the camera.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/da87/live/1c74ea00-9beb-11f1-ba30-ddd78081057f.jpg)

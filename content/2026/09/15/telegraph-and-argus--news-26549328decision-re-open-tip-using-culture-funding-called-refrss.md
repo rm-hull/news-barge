@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: THE decision to scrap £400,000 of culture funding to re-open a District
   tip will be further scrutinised by a cross-party committee of Councillors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21254212.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Staff)*

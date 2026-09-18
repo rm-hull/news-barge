@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The fashion retailer's owner has purchased a new warehouse in Sheffield
   to support the plans
 image: https://static.independent.co.uk/2026/04/21/07/6cc354f45de31de4f6ad59d41bf17797Y29udGVudHNlYXJjaGFwaSwxNzc2ODM5NzQ5-2.82275492.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Shopping & Deals
 ---
 
 Primark is set to launch home delivery in the UK in a bid to bolster the retailer’s online offering.

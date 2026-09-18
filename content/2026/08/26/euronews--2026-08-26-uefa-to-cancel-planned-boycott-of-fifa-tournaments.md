@@ -9,6 +9,10 @@ description: In late July, UEFA announced its 55 member associations would take 
   part in FIFA competitions as long as the world governing body's FIFA Forward Enterprise
   (FFE) proposal remained alive.
 image: https://images.euronews.com/articles/stories/09/89/02/68/1200x675_cmsv2_97249a5d-b296-5373-8ec6-8c8a4ea89d0d-9890268.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## In late July, UEFA announced its 55 member associations would take no part in FIFA competitions as long as the world governing body's FIFA Forward Enterprise (FFE) proposal remained alive.

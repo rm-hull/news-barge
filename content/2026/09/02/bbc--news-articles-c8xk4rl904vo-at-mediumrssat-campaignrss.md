@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The About Damn Time singer says she is "relieved" at the outcome and
   will "continue to fight" every claim.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Lizzo sits on a white sofa against an orange curtain and faces out to a crowd with a smile. She wears a white shirt with a pinstrip corset style dress and black tie. Her black hair sits on her shoulders.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/6112/live/6619c9d0-a6ba-11f1-ae1e-219da1d6451a.jpg)

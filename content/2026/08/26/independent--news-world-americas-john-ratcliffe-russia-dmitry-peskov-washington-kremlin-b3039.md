@@ -10,6 +10,9 @@ description: The Kremlin says CIA Director John Ratcliffe held talks in Moscow w
   his intelligence counterparts, a rare and secretive visit at a time when relations
   with Washington remain strained over Russia’s war in Ukraine
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 The Kremlin said Wednesday that CIA Director John Ratcliffe held talks in Moscow with his intelligence counterparts, a rare and secretive visit at a time when relations with Washington remain strained over Russia's war in Ukraine.

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: New statistics confirmed that more than 3,000 people have died since
   the outbreak was declared
 image: https://static.independent.co.uk/2026/08/28/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 More than 3,000 people have died in Congo’s Ebola outbreak from over 6,100 confirmed infections, according to fresh government statistics released on Wednesday.

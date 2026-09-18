@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The FTSE 100 index closed down 0.43 of a point at 10,831.09 on Friday,
   contributing to a 0.4% increase for the week.
 image: https://static.independent.co.uk/2026/09/04/17/a65144c76528720d505ac3924456e45cY29udGVudHNlYXJjaGFwaSwxNzg4NjI1Mzg3-2.82985241.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 European stocks closed little changed on Friday while US equities fell after stronger-than-expected jobs data raised chances of an interest rate hike in September.

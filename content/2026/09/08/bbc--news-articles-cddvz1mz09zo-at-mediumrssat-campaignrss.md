@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The Nottingham Inquiry hears there was a chance one of Valdo Calocane's
   victims may have survived.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/443c/live/5c3356e0-ab5e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A composite image of Barnaby Webber, Grace O'Malley-Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/443c/live/5c3356e0-ab5e-11f1-a291-b542ee92de7c.jpg)

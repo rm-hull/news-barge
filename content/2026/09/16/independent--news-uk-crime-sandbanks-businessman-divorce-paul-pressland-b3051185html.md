@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Property developer attacked his wife after she told him she wanted a
   divorce, court hears
 image: https://static.independent.co.uk/2026/09/16/12/06/BNPS_PaulPressland_05.jpeg?trim=115,391,279,491&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A wealthy property developer strangled his wife in a drunken row after a family Sunday roast at their £3m Sandbanks home, a court has heard.

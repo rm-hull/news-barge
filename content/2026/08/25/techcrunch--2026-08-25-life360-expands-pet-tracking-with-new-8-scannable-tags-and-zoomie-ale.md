@@ -10,6 +10,8 @@ description: Life360’s new $7.99 scannable pet tags alert families when a lost
   is found and share its last known location, while new care-tracking features help
   households keep tabs on feeding, walks, medication, and more.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Life-style-UI-tag.png?resize=1200,800
+categories:
+- Pets & Animals
 ---
 
 Family location-sharing and safety app Life360 is expanding its pet-tracking capabilities on Tuesday with the launch of a new product line of $7.99 scannable pet tags and other pet care features that tap into its tracking network technology.

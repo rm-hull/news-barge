@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:40Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/793159048_3051698758510910_6986349634475671026_n.jpg
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 One of Whitby’s most recognisable landmarks has been removed today (Tuesday, 1 September), with ethical bronze replicas set to be put in its place to preserve the town’s maritime heritage.

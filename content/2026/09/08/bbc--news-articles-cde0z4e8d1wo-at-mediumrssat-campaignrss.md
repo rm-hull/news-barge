@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Immigration protests, Harry and Meghan, and UK-Israel relations dominate
   the front pages on Tuesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1a4/live/6767e530-ab0e-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
 ---
 
 !["Port in a storm" reads the headline on the front page of Metro.](https://ichef.bbci.co.uk/ace/standard/828/cpsprodpb/8057/live/e8f23030-aafd-11f1-a291-b542ee92de7c.jpg)

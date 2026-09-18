@@ -9,6 +9,11 @@ description: Europe’s biggest ice factory says the 2026 British summer has bee
   as it continues to churn out tonnes of its frozen cubes to keep up with customers
   desperate for any relief from the relentless heatwaves.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/18/9/21/01M09QVZ799PJGNJZKMQSVH9ED.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Giant Yorkshire ice cube factory working 24/7 to cool down Britain during 'exceptional' summer

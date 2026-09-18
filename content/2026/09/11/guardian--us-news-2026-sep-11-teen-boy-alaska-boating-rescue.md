@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Teen and his brother and cousin, who both drowned, were fishing off Alaska’s
   St Lawrence Island when boat capsized
 image: https://i.guim.co.uk/img/media/08b396a0fecd03c5189ee4737fb498990562fec2/1944_475_3603_2883/master/3603.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02f2f093fc0cb0e636326af3f88cef55
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A teenaged boy was rescued having clung to a capsized fishing vessel in the Bering Sea for days after the boat overturned and his older brother and cousin drowned.

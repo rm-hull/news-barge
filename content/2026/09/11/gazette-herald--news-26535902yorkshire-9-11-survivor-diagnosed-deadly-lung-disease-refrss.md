@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A Northallerton man buried beneath rubble after the Twin Towers collapsed
   on top of him on September 11, 2001, in New York lived to tell the tale…
 image: https://www.gazetteherald.co.uk/resources/images/21431120.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Paul Berriff)*

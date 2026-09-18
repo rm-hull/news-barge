@@ -9,6 +9,10 @@ description: The best car phone holders keep your phone firmly in place while ne
   getting in your line of sight. I took a dozen on road trips this summer to find
   the best.
 image: https://media.wired.com/photos/6a8cd5bc02f10e19f4a61a9c/191:100/w_1280,c_limit/The-Best-Car-Phone-Mounts-for-Hands-Free-Driving.jpg
+categories:
+- Technology & Software
+- Science
+- Travel
 ---
 
 A car phone mount is no longer an option—it's a necessity. Nearly every US state restricts cell phone use while driving (we see you, Montana!), and most require full hands-free operation. The best car phone mounts offer an easy view of your phone's screen without blocking your view of the road, hold your phone securely, and keep vibration to a minimum.

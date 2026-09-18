@@ -10,6 +10,9 @@ description: If you’ve been circling around Disrupt, then now’s the best tim
   in your pass and start getting ready to join the rest of the startup community gathering
   in San Francisco from October 13-15 at Moscone West!
 image: https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The lowest prices for TechCrunch Disrupt 2026 end tonight at 11:59 p.m. PT. Once that window closes, your chance to save up to $300 on your pass, or get an even larger discount on group pricing, will come to an end.

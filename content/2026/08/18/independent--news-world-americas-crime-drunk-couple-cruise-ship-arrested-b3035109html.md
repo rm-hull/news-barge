@@ -7,6 +7,9 @@ scraped_at: '2026-08-18T19:36:21Z'
 published: '2026-08-18T00:00:00Z'
 description: The couple is in custody in the Brevard County Jail
 image: https://static.the-independent.com/2026/08/18/16/07/Screenshot-2026-08-18-at-12-25-09-PM.png?trim=0,186,0,216&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A couple from Ohio allegedly got drunk during a cruise and forced their way into a family's cabin where they assaulted a family and ended up punching a 9-year-old boy.

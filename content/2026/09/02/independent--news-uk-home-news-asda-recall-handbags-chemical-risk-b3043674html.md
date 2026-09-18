@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T19:22:06Z'
 published: '2026-09-02T00:00:00Z'
 description: Consumers have been urged to stop using the product immediately
 image: https://static.independent.co.uk/2026/08/28/14/01KAGHAM9F7B7E2KHEGFKR0NB7.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Asda has recalled three lines of women’s handbags after they were found to pose a "serious" chemical risk that could cause damage to the reproductive system.

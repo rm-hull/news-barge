@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: MOST people believe young people would stay silent if they knew about
   someone carrying a knife, in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370642.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 *(Image: Supplied)*

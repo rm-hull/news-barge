@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Waite, who had won awards and commendations for his work, resigned from
   the Metropolitan Police in March 2026
 image: https://static.independent.co.uk/2026/09/04/14/656492118..?trim=0,384,0,384&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Relationships & Dating
 ---
 
 The first police officer to respond to the Westminster Bridge terror attack has been barred from policing after asking a subordinate for Viagra and lying about time-off.

@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: The structure could alter visual connections between some of Washington’s
   iconic landmarks
 image: https://static.independent.co.uk/2026/08/29/01/2284475262..?trim=0,91,0,91&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A newly released National Park Service study has backed President Donald Trump’s proposed memorial arch, despite acknowledging its adverse effects on sightlines connecting several major Washington landmarks, including the Washington Monument and the Lincoln and Jefferson memorials.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: An award-winning cafe and food hall will be the only venue in Harrogate
   to host a new feel-good sensation sweeping Britain – morning coffee raves.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2MTAwZWVhLTYwYjUtNGMwOC1hMzNjLTY1MzE2NzhkMTlhNToxYTlmYTk2MC1hOGExLTQ1YTItYTE2MC0zZmQ0OWY5NmI2OWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 # Popular Harrogate cafe to host Rant & Ramble Coffee Rave for a morning filled with music, movement and connection

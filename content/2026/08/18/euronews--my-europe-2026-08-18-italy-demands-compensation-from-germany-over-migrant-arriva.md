@@ -9,6 +9,10 @@ description: 'Since Italian Prime Minister Giorgia Meloni took office in October
   German aid organisations have, according to Rome''s figures, brought around 22,500
   migrants to Italian ports. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/88/24/1200x675_cmsv2_f9d623cd-562a-55d6-aab4-7d252132177c-9878824.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Since Italian Prime Minister Giorgia Meloni took office in October 2022, German aid organisations have, according to Rome's figures, brought around 22,500 migrants to Italian ports.

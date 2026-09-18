@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Premier of Ontario walk back personal insults but doubles down on refusal
   to recognize Great Lakes name change
 image: https://static.independent.co.uk/2026/08/30/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ontario Premier Doug Ford hit back at Donald Trump again on Sunday but seemed to regret the personal nature of their dispute after the two traded insults over Trump’s attempt to rename Lake Ontario.

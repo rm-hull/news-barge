@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Former Russian ambassador to the UK Andrey Kelin left his post on July
   21, having been in the role for over seven years
 image: https://static.independent.co.uk/2022/11/03/19/b947008e230909ba4106b578d9e872daY29udGVudHNlYXJjaGFwaSwxNjY3NTg4MjMy-2.65503259.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Moscow has withdrawn its UK ambassador as relations between Britain and Russia continue to deteriorate amid Vladimir Putin’s war in Ukraine.

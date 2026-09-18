@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: US President Donald Trump said he will delay imposing new tariffs on
   a wide array of Canadian goods for three days as the countries firm up a trade deal.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Donald Trump in a navy suit with a yellow background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3bae/live/e540e6e0-9b79-11f1-afeb-4d7c67d79c36.jpg)

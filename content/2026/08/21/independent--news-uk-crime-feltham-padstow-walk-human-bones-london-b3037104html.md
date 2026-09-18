@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Police say it is also not clear how long the remains have been at the
   location
 image: https://static.independent.co.uk/2026/08/21/16/01M0JDQWS62AEG2M1T7JPV792S.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A murder investigation has been launched after human remains were discovered in a popular woodland in south-west London.

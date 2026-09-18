@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: St Mary’s Church in South Hylton could have its eight bells removed,
   repaired and relocated after the Grade II-listed building closed for worship.
 image: https://www.thenorthernecho.co.uk/resources/images/21340553.jpg?type=og-image&xType=0&yType=42
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Google Maps)*

@@ -8,6 +8,13 @@ published: '2026-09-03T00:00:00Z'
 description: UK travel company Wayfairer Travel Ltd has suspended all services and
   is taking steps to appoint an administrator - how customers are impacted.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384144.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Travel
+- Careers & Productivity
 ---
 
 *(Image: SWNS)*

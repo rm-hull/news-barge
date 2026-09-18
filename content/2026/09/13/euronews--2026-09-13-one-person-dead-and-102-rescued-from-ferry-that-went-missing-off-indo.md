@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: A rescue official said emergency crews faced waves of up to 2.5 metres
   as they fought to reach the ferry amid "extremely risky" conditions.
 image: https://images.euronews.com/articles/stories/09/91/14/73/1200x675_cmsv2_37aef8cb-5736-5c6d-99a5-4eb3045389d4-9911473.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## A rescue official said emergency crews faced waves of up to 2.5 metres as they fought to reach the ferry amid "extremely risky" conditions.

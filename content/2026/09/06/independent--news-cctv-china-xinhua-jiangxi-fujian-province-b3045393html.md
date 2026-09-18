@@ -8,6 +8,10 @@ scraped_at: '2026-09-06T04:27:18Z'
 published: '2026-09-06T00:00:00Z'
 description: A mudslide in eastern China has killed two people and left 10 missing
 image: https://static.independent.co.uk/2026/09/06/03/China_Jiangxi_Mudslide_82877.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A mudslide killed two people and left 10 missing in eastern China, damaging a dozen houses following days of torrential rain brought by tropical cyclone Saudel, state media said Sunday.

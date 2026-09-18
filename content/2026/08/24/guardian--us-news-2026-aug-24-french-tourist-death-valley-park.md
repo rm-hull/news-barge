@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Man, 68, was left searching for help in 116F weather after his car became
   stuck in mud along remote park road
 image: https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7834bfda651c7e7da3b5f0032327c765
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F (47C) weather.

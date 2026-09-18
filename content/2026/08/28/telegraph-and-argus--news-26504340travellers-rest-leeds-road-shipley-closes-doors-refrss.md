@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:15:08Z'
 published: '2026-08-28T00:00:00Z'
 description: A Bradford district pub appears to have closed its doors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384762.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

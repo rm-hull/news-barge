@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A HIP-HOP trio is set to raise the roof in Bradford, West Yorkshire later
   this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395233.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Supplied)*

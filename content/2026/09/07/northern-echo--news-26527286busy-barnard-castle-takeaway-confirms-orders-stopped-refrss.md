@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Babuls' in Barnard Castle will stop its takeaway service from September
   14, citing rising costs, staff pressures and operational challenges.
 image: https://www.thenorthernecho.co.uk/resources/images/21421443.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Customers say it is "such a shame" as a busy Barnard Castle food spot is stopping its takeaways.

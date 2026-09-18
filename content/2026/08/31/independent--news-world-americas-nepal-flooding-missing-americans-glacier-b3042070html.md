@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: More than 4,200 still unaccounted for after glacier collapse near holy
   mountain regularly visited by pilgrims
 image: https://static.independent.co.uk/2026/08/31/10/27/Jitendra-Patel.jpg?trim=411,0,2366,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Fears are growing for the 85 Americans who are among the 4,200 people still missing after being caught up in the devastating flash flooding that rocked Nepal last week.

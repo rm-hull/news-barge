@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Denise Cosco testified against the powerful 'Ndrangheta clan and her
   own father over the murder of her mother in Italy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A woman holds a placard with the portrait of an Italian justice collaborator and victim of the 'Ndrangheta Lea Garofalo during a protest in Milan on 21 March 2023 in Milan, Italy.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/e5cc/live/8a393660-ae09-11f1-b502-e5cdfe1c097c.png)

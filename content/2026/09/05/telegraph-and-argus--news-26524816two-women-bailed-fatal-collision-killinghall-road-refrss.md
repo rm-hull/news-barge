@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T11:49:13Z'
 published: '2026-09-05T00:00:00Z'
 description: Two women who were arrested after a fatal collision have been bailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411697.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

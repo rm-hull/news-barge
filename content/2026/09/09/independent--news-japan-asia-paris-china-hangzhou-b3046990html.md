@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The mayor of Nagoya says athletes who’ve arrived early for the Asian
   Games were unharmed by extensive flooding that hit the central Japanese city
 image: https://static.independent.co.uk/2026/09/09/06/Japan_Asian_Games_Flooding_31_85.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Athletes who've arrived early for the Asian Games were unharmed by extensive flooding that hit the central Japanese city of Nagoya, Mayor Ichiro Hirosawa said Wednesday.

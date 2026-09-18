@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: New York Governor Kathy Hochul’s office posted a screenshot from a popular
   HBO show in response to Eric Trump’s post
 image: https://static.independent.co.uk/2026/09/04/7/22/Screenshot-2026-09-04-at-08-54-19.png?trim=27,0,35,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 The internet has torn into Eric Trump after he posted an image of himself wearing a hat reading “Lake America”.

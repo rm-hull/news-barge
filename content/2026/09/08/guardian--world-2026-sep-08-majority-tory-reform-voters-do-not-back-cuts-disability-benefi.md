@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Nearly half of respondents say spending on personal independence payments
   should be increased
 image: https://i.guim.co.uk/img/media/2a5028d419651d2f1d4a4dd9d99f0cd1cdcdd343/905_0_6139_4912/master/6139.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=950479e0c504fc8ffc7069a636edf2ff
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 There is little appetite for cuts to disability benefits even among Conservative and Reform voters, and proposals to reduce spending could prove politically risky, according to an authoritative national survey.

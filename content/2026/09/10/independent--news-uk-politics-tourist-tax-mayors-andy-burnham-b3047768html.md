@@ -7,6 +7,12 @@ scraped_at: '2026-09-10T12:54:26Z'
 published: '2026-09-10T00:00:00Z'
 description: Hospitality bosses warn the move could put jobs at risk
 image: https://static.independent.co.uk/2026/09/09/18/2026-09-09T143913Z_1606436935_RC2MFNARRV1G_RTRMADP_3_BRITAIN-POLITICS-PMQS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Andy Burnham is set to hand England’s mayors the power to introduce an uncapped tourist tax in a move that has been criticised by hospitality leaders.

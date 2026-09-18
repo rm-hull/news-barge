@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Volunteers are being deployed to several key states with large minority
   populations to protect against potential suppression threats
 image: https://static.independent.co.uk/2026/09/02/16/2276575198..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A coalition of civil rights groups are planning to deploy hundreds of poll watchers in several key states to combat alleged threats of election interference and voter intimidation from Donald Trump’s administration and his MAGA allies.

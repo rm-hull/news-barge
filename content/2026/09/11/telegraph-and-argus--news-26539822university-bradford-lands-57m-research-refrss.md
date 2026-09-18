@@ -8,6 +8,13 @@ published: '2026-09-11T00:00:00Z'
 description: The University of Bradford has secured more than £57 million in research
   and innovation funding over the past five years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21436318.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: University of Bradford)*

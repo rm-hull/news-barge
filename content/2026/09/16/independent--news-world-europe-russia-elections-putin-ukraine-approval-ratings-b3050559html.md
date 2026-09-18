@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Russia has been facing mounting casualties and ‘net-zero’ territorial
   gains since March this year as the public votes this week, Maira Butt reports
 image: https://static.independent.co.uk/2026/09/13/12/2026-09-13T090611Z_1857358687_RC28INAJO2UL_RTRMADP_3_BRICS-SUMMIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russia is holding its first parliamentary elections this week since its full-scale invasion of Ukraine more than four years ago.

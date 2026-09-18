@@ -10,6 +10,10 @@ description: An English judge has issued a scathing report blaming dysfunctional
   for failing to protect babies at the hospital where nurse Lucy Letby was convicted
   of murdering seven infants
 image: https://static.independent.co.uk/2026/09/15/13/Britain_Baby_Deaths_18394.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 An English judge issued a scathing report Tuesday blaming dysfunctional management and a “complete failure at all levels” to protect babies at the hospital where neonatal nurse Lucy Letby was convicted of murdering seven babies.

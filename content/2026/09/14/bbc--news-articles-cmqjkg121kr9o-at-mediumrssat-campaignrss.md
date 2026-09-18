@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: An Instagram post from the couple said two nights of their wedding festivities
   in the Bahamas were partially funded by Umar Kremlev.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Donald Trump Jr. and his wife Bettina Anderson are seen close up with a plane behind them. She is on the right in a blacktop, tan trench coat and black sunglasses. Her hair is pulled back. He is wearing a blue suit and red tie.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg)

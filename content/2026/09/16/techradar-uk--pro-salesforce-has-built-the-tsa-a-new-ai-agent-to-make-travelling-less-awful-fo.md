@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T04:43:48Z'
 published: '2026-09-16T00:00:00Z'
 description: TSA deploys Ace, an AI agent built by Salesforce
 image: https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![5G at Airport](https://cdn.mos.cms.futurecdn.net/v2yK39jVhXuFSfFKyyZcDi.jpg) 

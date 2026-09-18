@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Flights at Leeds Bradford Airport have been disrupted by a technical
   problem affecting air traffic control services across the UK.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20370383.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: UGC)*

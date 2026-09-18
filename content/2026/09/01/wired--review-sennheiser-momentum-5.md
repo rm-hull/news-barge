@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:51Z'
 published: '2026-09-01T00:00:00Z'
 description: Plus they sound great, look good, and get up to 57 hours of battery life.
 image: https://media.wired.com/photos/6a95e27ca31f896f81e826b1/191:100/w_1280,c_limit/Review--Sennheiser-Momentum-5-Wireless.jpg
+categories:
+- Technology & Software
+- Science
+- Self-Improvement
 ---
 
 We’ve waited almost four years for a new pair of Sennheiser Momentum wireless over-ear headphones. That’s eons in a world where Sony, Apple, and Bowers & Wilkins have been busy launching stellar Bluetooth headphones like the Sony WH-1000XM6, Apple AirPods Max 2, and Bowers & Wilkins Px7 S3.

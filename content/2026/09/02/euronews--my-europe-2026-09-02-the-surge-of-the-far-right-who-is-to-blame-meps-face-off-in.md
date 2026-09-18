@@ -9,6 +9,10 @@ description: 'All eyes are on the election in the small east German state of Sax
   A potential absolute majority for the far-right there could shake up German politics
   and rattle Europe. The beginning of a new crisis? #TheRing'
 image: https://images.euronews.com/articles/stories/09/89/85/43/1200x675_cmsv2_efb8ba1d-6940-5094-a07b-1ffd3e9a5b37-9898543.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## All eyes are on the election in the small east German state of Saxony-Anhalt. A potential absolute majority for the far-right there could shake up German politics and rattle Europe. The beginning of a new crisis?

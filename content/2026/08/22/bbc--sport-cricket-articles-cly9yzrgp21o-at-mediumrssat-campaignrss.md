@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Joe Root is praised for his calmness on his return as captain by interim
   coach Marcus Trescothick, who says the pair "are not" Ben Stokes and Brendon McCullum.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4050/live/90cf8650-9e14-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England ease to huge win against Pakistan on day three at Headingley

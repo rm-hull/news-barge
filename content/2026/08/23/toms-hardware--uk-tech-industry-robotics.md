@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: The latest breaking news, comment, reviews and features from the experts
   at Tom's Hardware
 image: https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the Honor Lightning running at the 2026 World Humanoid Robot Games](https://cdn.mos.cms.futurecdn.net/cexYk4Ga5StcDvokkvMvqC-320-80.jpg)

@@ -9,6 +9,8 @@ scraped_at: '2026-09-10T12:54:31Z'
 published: '2026-09-10T00:00:00Z'
 description: This is not your average Roomba
 image: https://cdn.mos.cms.futurecdn.net/VuzQbrQiKqggyvpkNUczSE-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![iRobot Roomba Duo robot vacuum being demoed at IFA](https://cdn.mos.cms.futurecdn.net/VuzQbrQiKqggyvpkNUczSE.jpg) 

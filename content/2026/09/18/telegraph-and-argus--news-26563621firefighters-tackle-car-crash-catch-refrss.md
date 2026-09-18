@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Firefighters have tackled a multi-vehicle crash exercise to sharpen their
   emergency response skills.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21474685.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: WYFRS)*

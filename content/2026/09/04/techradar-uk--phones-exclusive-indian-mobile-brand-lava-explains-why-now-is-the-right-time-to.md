@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Indian mobile brand Lava just launched its first smartphone, the Agni
   4N, in the UK — we asked it why.
 image: https://cdn.mos.cms.futurecdn.net/v8ogtCEaBduBfiwEkjoDWQ-1136-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The Lava Agni 4N phone on a colored background](https://cdn.mos.cms.futurecdn.net/v8ogtCEaBduBfiwEkjoDWQ.jpg) 

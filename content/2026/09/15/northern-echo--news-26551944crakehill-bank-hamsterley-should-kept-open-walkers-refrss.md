@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: People are calling for the C31 Crakehill Bank road to remain open as
   a footpath or cycle path if it can no longer be used by vehicles.
 image: https://www.thenorthernecho.co.uk/resources/images/21427261.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 People are calling for a County Durham road to remain open as a footpath or cycle path if it can no longer be used by vehicles.

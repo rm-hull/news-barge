@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: 'Paris seeks to remove Usmanov from the sanctions list in an apparent
   quid-pro-quo move to secure the release of detained French nationals. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/32/41/1200x675_cmsv2_f98bec57-de7d-52b3-b620-5f227aeb779b-9913241.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Paris seeks to remove Usmanov from the sanctions list in an apparent quid-pro-quo move to secure the release of detained French nationals.

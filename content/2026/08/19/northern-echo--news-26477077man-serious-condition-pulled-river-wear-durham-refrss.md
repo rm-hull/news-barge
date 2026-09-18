@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A 28-year-old man is in a serious condition in hospital after being pulled
   from the River Wear off North Road in Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21340301.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A man who plunged into the River Wear in Durham from an historic bridge is in a serious condition in hospital.

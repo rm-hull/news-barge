@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The US space agency's telescope is starting a multi-year mission to create
   a new map of the universe and learn more about dark energy and dark matter.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Watch: Nasa launches Roman telescope from Kennedy Space Center

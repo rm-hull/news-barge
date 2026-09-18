@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Chief Medical Examiner Greg Hess has spoken about the challenges created
   by
 image: https://static.the-independent.com/2026/05/10/21/2264464801.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Nearly seven months after she vanished, the mystery of Nancy’s Guthrie’s disappearance continues.

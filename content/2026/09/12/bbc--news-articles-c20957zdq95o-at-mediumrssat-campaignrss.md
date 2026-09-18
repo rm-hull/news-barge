@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: More than 12,000 cases of cyclosporiasis, including two deaths, were
   linked to imported lettuce.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cf3/live/9400d280-ae4e-11f1-9561-17f4d4326a2b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A row of green lettuces sits on a shelf](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0cf3/live/9400d280-ae4e-11f1-9561-17f4d4326a2b.jpg)

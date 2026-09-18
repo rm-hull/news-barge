@@ -10,6 +10,10 @@ description: This was my fourth trip to Ukraine as a photojournalist. During my 
   visit, I found confidence and hope that the war might soon end. This time, I saw
   greater exhaustion, resignation and little hope of an immediate end to the fighting.
 image: https://static.independent.co.uk/2026/09/15/15/Russia_Ukraine_War_59841.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 This was my fourth trip to Ukraine as a photojournalist. During my previous visit, I found confidence and hope that the war might soon end. This time, I saw greater exhaustion, resignation and little hope of an immediate end to the fighting.

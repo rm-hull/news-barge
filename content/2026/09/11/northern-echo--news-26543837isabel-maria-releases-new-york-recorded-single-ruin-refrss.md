@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Adam Kennedy speaks with North East-based pensive pop star Isabel Maria
   about her new single, which was recorded in New York, and her upcoming…
 image: https://www.thenorthernecho.co.uk/resources/images/21443035.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: howywhite.com)*

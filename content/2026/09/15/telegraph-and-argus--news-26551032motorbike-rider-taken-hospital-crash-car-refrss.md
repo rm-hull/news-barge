@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A man has been rushed to hospital following a crash involving a motorbike
   and a car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20824189.jpg?type=og-image&xType=0&yType=161
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

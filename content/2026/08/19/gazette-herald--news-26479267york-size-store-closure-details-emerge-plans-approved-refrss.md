@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: New details have emerged about the future of a store in York following
   the approval of changes to the building.
 image: https://www.gazetteherald.co.uk/resources/images/21343540.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

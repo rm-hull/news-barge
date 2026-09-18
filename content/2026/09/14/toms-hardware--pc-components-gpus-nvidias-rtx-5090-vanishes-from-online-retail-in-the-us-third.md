@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: In less than a week, first-party inventory of the RTX 5090 has almost
   completely evaporated.
 image: https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![GeForce RTX graphics card](https://cdn.mos.cms.futurecdn.net/BYTkHA2dMgKEFWWVubRZYM.jpg) 

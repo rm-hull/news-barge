@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A report that highlighted how Samuel Smith’s Brewery aimed to renovate
   its properties in Tadcaster town centre won support from our readers.
 image: https://www.yorkpress.co.uk/resources/images/21356096.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Readers respond to Sam Smith's brewery proposals for North Yorkshire town

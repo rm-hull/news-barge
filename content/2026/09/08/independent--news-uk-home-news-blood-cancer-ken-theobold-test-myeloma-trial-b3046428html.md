@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: About 70 per cent of patients who took part in the trial were still alive
   six years later
 image: https://static.independent.co.uk/2026/09/07/14/11/01M1XDQJPZP86DAREJRNMYQ3H3-(3).jpg?trim=381,760,3083,699&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A pensioner who was given just two years to live after being diagnosed with an aggressive type of blood cancer is still alive eight years later.

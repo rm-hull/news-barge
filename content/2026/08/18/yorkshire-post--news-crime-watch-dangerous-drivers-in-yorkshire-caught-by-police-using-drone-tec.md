@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Officers in North Yorkshire have used drones to catch dangerous drivers
   on a stretch of road in Selby.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5NjE3MDhkLTMxZjgtNDU2NC05ZjM0LWMwOTA3MDI5ZjdiZjo4OTkxMzk5OS0xNGQzLTQ5MDUtOWZlMi1kMjliMDlhYjYyZTU=.png?crop=3:2,smart&trim=&width=608&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # WATCH: Dangerous drivers in Yorkshire caught by police using drone technology

@@ -8,6 +8,8 @@ scraped_at: '2026-08-31T16:08:30Z'
 published: '2026-08-31T00:00:00Z'
 description: NCSC issues new warning over OT and edge devices
 image: https://cdn.mos.cms.futurecdn.net/E6e47o4bL6CgppNM5Byt5Z-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Electrical pylons and high voltage power lines are behind a barbed wire fence. critical infrastructure](https://cdn.mos.cms.futurecdn.net/E6e47o4bL6CgppNM5Byt5Z.jpg) 

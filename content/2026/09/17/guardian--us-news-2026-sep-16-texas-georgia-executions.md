@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: LeJames Norman, 40, killed at Huntsville penitentiary while scheduled
   execution in Georgia halted by judge
 image: https://i.guim.co.uk/img/media/1878e84a1505a49af35f5e3a3ded364a75de5c2a/179_0_1841_1473/master/1841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51ae224811463569d13c4e82d15a6bc1
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A man convicted over the shooting deaths of three people was executed on Wednesday in Texas, while another execution scheduled for the same time in Georgia was halted by a judge.

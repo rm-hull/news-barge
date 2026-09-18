@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T12:49:49Z'
 published: '2026-09-11T00:00:00Z'
 description: 'From: Peter Packham, Chair, Leeds for Europe, Roundhay, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJlNWNiZmUxLWMzZmUtNDk2Ny05NGNjLThkN2MzNjFhZDI1NTplZjVhMzVkYy0zODFlLTQ0OTUtYTUyMi0yMzhjNTZlZDg1OGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Andy Burnham’s admission on Brexit damage is a welcome change - Yorkshire Post Letters

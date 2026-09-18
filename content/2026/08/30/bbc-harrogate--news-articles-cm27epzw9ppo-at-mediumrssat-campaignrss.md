@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Police were called to Smithies Lane in Barnsley on Saturday night to
   reports of a gun being fired.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38a6/live/a7f93bd0-a46f-11f1-8259-2dbebdceda25.png
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Sports
 ---
 
 ![A road junction, with the roads quiet. Trees line the roads.](https://ichef.bbci.co.uk/ace/standard/812/cpsprodpb/38a6/live/a7f93bd0-a46f-11f1-8259-2dbebdceda25.png)

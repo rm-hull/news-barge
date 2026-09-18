@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Magna's investment in Yuma Energy has reached $87 million as the Canadian
   auto supplier increases its majority stake in the Indian battery-swapping firm.
 image: https://techcrunch.com/wp-content/uploads/2026/08/yuma-energy.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 While battery swapping has struggled to take off in much of the world, Canadian auto parts giant Magna International believes the model could work at scale in India, where millions of two- and three-wheelers and a fast-growing delivery economy create a different set of economics.

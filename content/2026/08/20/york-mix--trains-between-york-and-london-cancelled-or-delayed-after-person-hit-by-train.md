@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:48Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-station-passengers-looking-at-info-boards-serena.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 There’s serious disruption on the East Coast Main Line this afternoon (Thursday, 20 August).

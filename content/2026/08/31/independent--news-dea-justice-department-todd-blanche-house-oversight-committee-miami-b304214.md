@@ -10,6 +10,10 @@ description: Republicans on the House Oversight Committee have launched an inves
   into a controversial DEA strategy that allowed large fentanyl shipments to reach
   the streets
 image: https://static.independent.co.uk/2026/08/31/14/DEA_Unseized_Fentanyl__7895.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Republicans on the House Oversight Committee have launched an investigation into a controversial policing tactic that permitted staggering amounts of deadly fentanyl to reach the streets as federal authorities sought to build bigger drug cases.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:53:41Z'
 published: '2026-08-21T00:00:00Z'
 description: Further showers are forecast on Friday for most parts of the UK
 image: https://static.independent.co.uk/2026/08/21/08/01M0FMD1N88SJK7KD0MHYWKVG7.jpg?trim=149,0,149,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Heavy downpours returning to drought-stricken regions across the UK carry a risk of flash flooding, forecasters at the Met Office have warned.

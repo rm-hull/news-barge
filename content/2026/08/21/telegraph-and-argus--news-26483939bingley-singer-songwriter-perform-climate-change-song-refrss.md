@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Singer-songwriter to perform original climate change anthem at Bingley
   awareness event
 image: https://www.thetelegraphandargus.co.uk/resources/images/21353653.jpg?type=og-image&xType=0&yType=764
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Chris Grayston)*

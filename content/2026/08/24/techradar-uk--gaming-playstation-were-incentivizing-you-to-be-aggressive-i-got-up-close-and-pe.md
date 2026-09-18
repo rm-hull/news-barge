@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: We went hands-on with Marvel’s Wolverine, and spoke to Insomniac devs
   and Wolverine himself, Liam McIntyre, about their grounded, gory take on ol' Canucklehead.
 image: https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n-2560-80.png
+categories:
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![A Marvel's Wolverine promotional screenshot.](https://cdn.mos.cms.futurecdn.net/FzMSmg8ynakzfzSLFpiG3n.png) 

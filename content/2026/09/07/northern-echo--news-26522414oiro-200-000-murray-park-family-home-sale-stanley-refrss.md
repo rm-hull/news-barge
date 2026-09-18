@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: SITUATED on Murray Park in Stanley, this impressive home offers a combination
   of contemporary styling, practical features and generous living space…
 image: https://www.thenorthernecho.co.uk/resources/images/21411133.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 SITUATED on Murray Park in Stanley, this impressive home offers a combination of contemporary styling, practical features and generous living space that makes it particularly well suited to modern family life.

@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: The U.S. has around 50,000 troops stationed in the region and around
   20 bases but the Iran war has come at a cost
 image: https://static.independent.co.uk/2025/06/23/17/22/FILES-QATAR-US-IRAQ-UDEID-AIR-BASE-ctzbeasu.jpeg?trim=2,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 The Pentagon is considering reducing U.S. military presence in the Middle East following the conclusion of the Iran war, according to a report.

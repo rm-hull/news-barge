@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: A new 'Home from Home' for families with babies receiving specialist
   neonatal care at Bradford Royal Infirmary is set to open next spring.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433654.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Family & Parenting
 ---
 
 A NEW 'Home from Home' for families with babies receiving specialist neonatal care at Bradford Royal Infirmary is set to open next spring.

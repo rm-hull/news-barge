@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Durham Police issue three Community Protection Warnings over anti-social
   behaviour on Church Street, Seaham, following concerns from residents.
 image: https://www.thenorthernecho.co.uk/resources/images/21470942.jpg?type=og-image&xType=0&yType=33
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: GOOGLE)*

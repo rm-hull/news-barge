@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: More than 180 writers sign letter renewing calls for information on 12
   authors detained incommunicado since 2001 crackdown on free speech by Isaias Afwerki
 image: https://i.guim.co.uk/img/media/448282dbea402f46aeff4583e0117f9b5ece2ec6/172_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2b3a3482002e2b6737ebd6b6b3be050
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 More than 180 writers have signed a letter to Eritrean president Isaias Afwerki calling for proof of life for 12 writers arrested in 2001.

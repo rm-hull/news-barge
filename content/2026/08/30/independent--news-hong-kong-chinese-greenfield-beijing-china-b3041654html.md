@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Independent bookstores in Hong Kong offer a window for mainland Chinese
   readers who seek ideas suppressed at home
 image: https://static.independent.co.uk/2026/08/30/03/Hong_Kong_Independent_Bookstores__1515.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Books & Literature
 ---
 
 Chinese university student Fleming Cheng found the political books he had only glimpsed online in a Hong Kong bookstore last year.

@@ -9,6 +9,11 @@ description: A Harrogate-based Community Interest Company is taking on a gruelli
   24-hour challenge at one of North Yorkshire's most recognisable landmarks to raise
   money for children and families.
 image: https://mmo.aiircdn.com/409/6aad7003959ce8c5644.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aad7003959ce8c5644.jpg) 

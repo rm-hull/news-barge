@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: THREE leaders of Reform-controlled councils in West Yorkshire and Lancashire
   are united in their opposition to a giant windfarm which a company…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347281.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Society & Culture
 ---
 
 THREE leaders of Reform-led councils in West Yorkshire and Lancashire are united in their opposition to a giant windfarm which a company hopes to build on Calderdale moorland.

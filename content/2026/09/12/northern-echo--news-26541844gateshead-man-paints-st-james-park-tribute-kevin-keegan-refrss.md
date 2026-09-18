@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Gateshead artist Ronnie Pattison paints Kevin Keegan fan tributes outside
   Newcastle United’s St James’ Park, raising money for the Sir Bobby…
 image: https://www.thenorthernecho.co.uk/resources/images/21439405.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Steve Brock)*

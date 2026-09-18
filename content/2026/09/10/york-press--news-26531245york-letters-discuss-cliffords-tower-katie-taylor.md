@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Letters debate safety at York's Clifford’s Tower, Katie Taylor’s boxing
   legacy, solar panels on farmland, Reform UK and Labour.
 image: https://www.yorkpress.co.uk/resources/images/21424531.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Photo: Isaac Savage/ Press Camera Club)*

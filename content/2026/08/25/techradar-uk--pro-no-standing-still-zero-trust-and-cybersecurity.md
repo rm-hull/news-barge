@@ -7,6 +7,8 @@ scraped_at: '2026-08-25T13:07:17Z'
 published: '2026-08-25T00:00:00Z'
 description: Zero Trust is essential for modern cybersecurity resilience
 image: https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Malware attack virus alert , malicious software infection , cyber security awareness training to protect business](https://cdn.mos.cms.futurecdn.net/jt92kXfBXVXUWwnKBmDJLn.jpg) 

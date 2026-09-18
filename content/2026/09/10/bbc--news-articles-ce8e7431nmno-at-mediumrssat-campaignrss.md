@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Pharmacies in England will soon offer treatments for a total of 12 common
   conditions which save people going to their GP first.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba4b/live/066b5630-ac68-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Young woman holds her head as if she has a bad headache while standing in a pharmacy in front of a pharmacist wearing a white coat](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/ba4b/live/066b5630-ac68-11f1-80f0-9795d1a5edbc.jpg)

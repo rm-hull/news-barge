@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Trump warned countries against oil smuggling and cash transfers with
   Iran
 image: https://static.independent.co.uk/2026/08/20/05/2290597159..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has declared an “Economic D-Day” against Iran, threatening sanctions on any nation offering a lifeline to the Middle Eastern country.

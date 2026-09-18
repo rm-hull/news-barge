@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's
   hopes of becoming a rare home US Open men's champion.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dc9/live/7facb320-afb2-11f1-a76f-af3985941b96.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Alexander Zverev celebrates during his US Open win over Ben Shelton](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8dc9/live/7facb320-afb2-11f1-a76f-af3985941b96.jpg)

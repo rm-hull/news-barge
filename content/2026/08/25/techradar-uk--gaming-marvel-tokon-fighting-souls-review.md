@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'Marvel Tokon: Fighting Souls is a tremendously fun and rewarding tag
   fighter, but Sony threatens to be the ghost at the feast.'
 image: https://cdn.mos.cms.futurecdn.net/spskqKYWG4h7MfYfWCiysg-1845-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

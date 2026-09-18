@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: LeJames Norman was arrested about five months after the killings while
   trying to cross back into the U.S. from Mexico
 image: https://static.the-independent.com/2026/09/16/19/15/AP26258777739244.jpg?trim=555,0,556,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A judge's late-night intervention has temporarily halted the execution of a man convicted of killing two real estate agents in Georgia as Texas prepares to carry out a separate lethal injection on Wednesday for a man convicted of a triple murder.

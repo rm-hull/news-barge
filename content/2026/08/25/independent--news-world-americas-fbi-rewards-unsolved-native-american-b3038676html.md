@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The FBI has established a minimum reward of $25,000 for help in solving
   some cold cases where people went missing or were killed in Indian Country
 image: https://static.independent.co.uk/2026/08/25/05/Missing_Indigenous_Reward_Money_79547.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The FBI is offering rewards of at least $25,000 in dozens of unsolved killings and missing-person cases in Native American communities, hoping more money will persuade people to come forward with information.

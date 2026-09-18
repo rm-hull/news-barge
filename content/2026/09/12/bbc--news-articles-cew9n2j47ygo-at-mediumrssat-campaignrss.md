@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: This year's event sees 63,000 people take on the half marathon - including
   the prime minister.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/583e/live/fb705b90-af82-11f1-913a-7151f234deb3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 ![Andy Burnham crossing the finishing line in South Shields. He is clenching his fists and looking upwards with an expression of strain, and wearing a pink and purple T-shirt with changing lives on it. Behind him stretch out the hoardings with crowds of spectators, and another runner leans on it to the left, with two more standing on the right.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/583e/live/fb705b90-af82-11f1-913a-7151f234deb3.jpg)

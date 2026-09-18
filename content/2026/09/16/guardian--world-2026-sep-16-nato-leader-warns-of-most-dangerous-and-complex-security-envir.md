@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Mark Rutte asked UK and Europe to ‘provide the hard power Nato needs’
   in face of geopolitical uncertainty
 image: https://i.guim.co.uk/img/media/7946584c9a1642a391b7e58a49948a6dddea6efb/463_0_2365_1891/master/2365.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cc7d23d2a2f8f5ace69e4d92d8e1d92
+categories:
+- UK
+- News & Politics
+- History
+- Science
 ---
 
 Nato needs “more UK and more Europe in the alliance” to deal with the most dangerous security environment faced by the west in a generation, the secretary general of the 32-country military alliance said this afternoon on a visit to the UK.

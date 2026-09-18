@@ -9,6 +9,11 @@ description: The talks follow the UAE’s suspension of trade and financial deal
   with Iran in August and follow UAE's firm position that trust with Iran "is a mountain
   to climb" after Iran's attacks on the Gulf countries.
 image: https://images.euronews.com/articles/stories/09/91/16/45/1200x675_cmsv2_584a341c-80de-561d-a93f-f76353d5cc34-9911645.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The talks follow the UAE’s suspension of trade and financial dealings with Iran in August and follow UAE's firm position that trust with Iran "is a mountain to climb" after Iran's attacks on the Gulf countries.

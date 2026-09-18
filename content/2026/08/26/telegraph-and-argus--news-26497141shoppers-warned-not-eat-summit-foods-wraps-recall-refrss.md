@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Summit Foods is recalling various filled wraps, including its Chicken
   Fajita Wrap and Snacksters Hoi Sin Wrap.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21374293.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Getty Images)*

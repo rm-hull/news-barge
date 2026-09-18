@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Hostinger has launched a new tool driven by a shift in how customers
   are using its platform
 image: https://cdn.mos.cms.futurecdn.net/h7RUjqRBXm327hrsFX8UwS-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 ![Hostinger AI builder on a macbook](https://cdn.mos.cms.futurecdn.net/h7RUjqRBXm327hrsFX8UwS.jpg) 

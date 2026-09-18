@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Dinosaurs roamed Northallerton High Street as families enjoyed games,
   entertainment, photo opportunities and prehistoric fun.
 image: https://www.thenorthernecho.co.uk/resources/images/21332569.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Dinosaurs descended on Northallerton on Sunday (August 16) as families enjoyed a prehistoric-themed day out.

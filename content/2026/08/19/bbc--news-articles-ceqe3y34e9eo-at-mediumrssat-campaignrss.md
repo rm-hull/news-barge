@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The nine-page booklet covers issues including respect in public, sex
   and consent, and gender equality.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a16/live/fe8f7e40-9bec-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![The image is of a cropped poster with a pink background and the Home Office logo. In the top right hand corner, a label reads: Asylum Consequences of Behaviour. In large font, the poster reads "it is illegal to harass people" and in smaller print below, text reads: "In the UK, everyone has the right to feel safe in public. You must never: Make sexual comments to strangers, even as a compliment."](https://ichef.bbci.co.uk/ace/standard/595/cpsprodpb/fe89/live/20b14d70-9be6-11f1-ba30-ddd78081057f.jpg)

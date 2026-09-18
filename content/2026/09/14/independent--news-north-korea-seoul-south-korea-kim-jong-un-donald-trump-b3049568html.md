@@ -10,6 +10,10 @@ description: North Korea says it has conducted a joint live-fire drill involving
   artillery and drones that it claimed demonstrated “the huge destructive power of
   concentrated fire.”
 image: https://static.independent.co.uk/2026/09/14/02/Koreas_Tensions__5257.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 North Korea said Monday it conducted a joint live-fire drill involving missiles, artillery and drones that it claimed demonstrated “huge destructive power.”

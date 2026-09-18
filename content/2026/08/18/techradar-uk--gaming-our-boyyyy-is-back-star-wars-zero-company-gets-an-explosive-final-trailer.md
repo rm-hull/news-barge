@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Bit Reactor has released the final trailer for Star Wars Zero Company,
   which confirms the return of another fan-favorite Star Wars character.
 image: https://cdn.mos.cms.futurecdn.net/UvPn8hm53WHWq2vMydtivE-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Star Wars Zero Company](https://cdn.mos.cms.futurecdn.net/UvPn8hm53WHWq2vMydtivE.jpg) 

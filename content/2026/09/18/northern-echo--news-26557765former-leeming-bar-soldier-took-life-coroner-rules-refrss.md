@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: A former soldier and promising para-snowboarder took his own life after
   struggling with his mental health following his medical discharge from the…
 image: https://www.thenorthernecho.co.uk/resources/images/21467448.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 A former soldier and promising para-snowboarder took his own life after struggling with his mental health following his medical discharge from the Army, an inquest heard.

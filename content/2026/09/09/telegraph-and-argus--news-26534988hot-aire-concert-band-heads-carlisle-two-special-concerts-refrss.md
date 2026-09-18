@@ -8,6 +8,13 @@ published: '2026-09-09T00:00:00Z'
 description: HOT Aire! Concert Band recently returned from Carlisle, where they entertained
   an audience at the Cathedral.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429673.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
+- Sports
 ---
 
 HOT Aire! Concert Band recently returned from Carlisle, where they entertained an audience at the Cathedral.

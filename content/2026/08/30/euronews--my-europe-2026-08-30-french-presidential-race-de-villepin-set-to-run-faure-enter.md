@@ -9,6 +9,10 @@ description: 'With just under eight months to go until the French presidential e
   political manoeuvring is in full swing. Several candidates or would-be candidates
   spoke out this Sunday. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/45/62/1200x675_cmsv2_ec581446-d894-5df5-8ba1-70dc9512879c-9894562.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## With just under eight months to go until the French presidential election, political manoeuvring is in full swing. Several candidates or would-be candidates spoke out this Sunday.

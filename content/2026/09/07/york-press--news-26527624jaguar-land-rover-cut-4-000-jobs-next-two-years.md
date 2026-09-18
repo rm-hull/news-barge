@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: It is understood roles affected will be non-production with the majority
   of cuts affecting its UK operations, where around 34,000 staff are based.
 image: https://www.yorkpress.co.uk/resources/images/21259836.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: Dave Thompson/PA)*

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The former Australian of the Year said she stood with survivors of sexual
   violence ‘everywhere’ and ‘no matter who they are’
 image: https://i.guim.co.uk/img/media/609aa74baabf4cf89f6b0e48550778cb228ddc5b/661_0_6613_5290/master/6613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5088c8b36472285ea0a0a86a9538744
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Grace Tame has apologised for her comments labelling the rape of Israeli women by Hamas during the 7 October attacks as “propaganda” and “debunked”, saying her words were “misinterpreted”.

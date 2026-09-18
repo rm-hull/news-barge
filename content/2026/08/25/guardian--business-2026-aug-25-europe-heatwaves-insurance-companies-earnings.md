@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Rise in claims linked to heat-related deaths and illness, especially
   among older people, could drive up premiums
 image: https://i.guim.co.uk/img/media/b09459c467eb2978c2321c31255d9ebddfcb9f26/387_0_3873_3099/master/3873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a292d32d8b3d8f7e984d1effdf1b4905
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said.

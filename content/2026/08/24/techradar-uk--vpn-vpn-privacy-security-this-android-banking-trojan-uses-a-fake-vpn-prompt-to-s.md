@@ -8,6 +8,8 @@ published: '2026-08-24T00:00:00Z'
 description: The upgraded ToxicPanda malware disguises a network takeover as a routine
   VPN request, then cuts off Google's on-device protections
 image: https://cdn.mos.cms.futurecdn.net/tEhgdM2MKoCYRwV4Ch3awa-2048-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![malware](https://cdn.mos.cms.futurecdn.net/tEhgdM2MKoCYRwV4Ch3awa.jpg) 

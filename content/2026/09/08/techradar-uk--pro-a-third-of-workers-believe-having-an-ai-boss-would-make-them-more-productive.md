@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:50:47Z'
 published: '2026-09-08T00:00:00Z'
 description: Would an AI boss actually help?
 image: https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH-970-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Business people looking at a laptop screen together.](https://cdn.mos.cms.futurecdn.net/CwDEjaBULPiYXj53Px3AXH.jpg) 

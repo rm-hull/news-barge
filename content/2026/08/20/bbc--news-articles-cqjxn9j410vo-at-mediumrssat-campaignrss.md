@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The sudden decision to return leaves lots of questions for the Duke and
   Duchess of Sussex and Royal Family.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a08a/live/bc0c9a80-9c2d-11f1-a207-059c7130f984.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Timeline of Prince Harry and Meghan since leaving UK

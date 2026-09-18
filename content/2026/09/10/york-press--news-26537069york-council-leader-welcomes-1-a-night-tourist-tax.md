@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: It is right that York receives its fair share of any income raised through
   a tourist tax, the council's leader has said.
 image: https://www.yorkpress.co.uk/resources/images/9733891.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## 'It's right York sees its fair share'- council leader on £1-a-night 'tourist tax'

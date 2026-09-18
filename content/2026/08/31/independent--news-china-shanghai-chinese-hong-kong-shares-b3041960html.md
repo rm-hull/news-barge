@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Chinese markets are booming with new public share listings driven by
   the craze for artificial intelligence
 image: https://static.independent.co.uk/2026/08/31/06/China_IPO_Boom_56635.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Chinese markets are booming with new public stock offerings, energized by the craze for artificial intelligence and other advanced technology and a growing preference to list shares in Hong Kong and Shanghai.

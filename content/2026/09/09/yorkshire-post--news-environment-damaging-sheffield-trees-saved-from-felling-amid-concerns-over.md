@@ -9,6 +9,13 @@ published: '2026-09-09T00:00:00Z'
 description: Eight redwood trees in Sheffield city centre will not be felled “for
   the time being” after Sheffield Council hosted a public consultation on their future.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc4N2VkYjAwLTI3ZjEtNGFlOS1iZGM5LTViMTgwMmJiYWMyYzphOTkxZjQ4Ni01ZDdmLTQwMmItODc3Mi0yZDA1M2MzNTg1YWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Technology & Software
+- News & Politics
 ---
 
 # 'Damaging' Sheffield trees saved from felling amid concerns over street shade

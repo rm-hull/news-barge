@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: North Yorkshire’s Gurkha community has voiced its support for Nepal after
   catastrophic floods killed more than 700 people and left thousands…
 image: https://www.thenorthernecho.co.uk/resources/images/21389142.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 North Yorkshire’s Gurkha community has joined an international show of support for Nepal after catastrophic flooding killed more than 700 people and left thousands missing.

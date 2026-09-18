@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: A man, a woman and a teenage girl die, and a younger girl is in critical
   condition, after swimming off Shoreham on the Sussex coast.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12c7/live/b5979a20-9b4b-11f1-a4d5-27953a73ef84.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Emergency services at scene of Shoreham incident

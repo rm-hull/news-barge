@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Chester-le-Street mum died after falling around 20ft during a family
   walk at a Scotland waterfall while on holiday.
 image: https://www.thenorthernecho.co.uk/resources/images/21158708.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Alun Bull)*

@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Pizza Hot in Ferryhill has been linked to a £40,000 Home Office fine
   for employing illegal workers, according to newly released figures.
 image: https://www.thenorthernecho.co.uk/resources/images/21383383.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: GOOGLE)*

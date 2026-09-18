@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Students from across the Bradford district are collecting their GCSE
   results today. Stay with us for live updates, photos, reaction and everything…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344775.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 - GCSE Results Day 2026 is here!

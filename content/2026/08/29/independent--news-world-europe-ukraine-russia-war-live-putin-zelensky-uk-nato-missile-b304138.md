@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: The defence ministry said it had successfully launched the missile on
   Friday
 image: https://static.independent.co.uk/2026/08/29/6/11/Russia-ballistic-missile.jpeg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russia has successfully tested a nuclear-capable intercontinental ballistic missile that could reach the US, its defence ministry has said.

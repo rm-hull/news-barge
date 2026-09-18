@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:12Z'
 published: '2026-09-08T00:00:00Z'
 description: Most fish known to walk on seafloor only do so forward
 image: https://static.independent.co.uk/2026/09/08/3/02/Armored-searobin-fish-observed-in-the-South-China-Sea.png?trim=95,0,96,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 One of the few deep-sea fish known to trot on the ocean floor can also walk backwards, scientists say, calling it a “paradigm-shifting revelation”.

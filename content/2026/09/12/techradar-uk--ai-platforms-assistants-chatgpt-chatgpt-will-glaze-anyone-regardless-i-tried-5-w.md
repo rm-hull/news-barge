@@ -9,6 +9,8 @@ published: '2026-09-12T00:00:00Z'
 description: Is AI less sycophantic now? I tried to make ChatGPT flatter, validate
   and agree with me and was surprised by what it did next.
 image: https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Romantic Relationship with a Sycophantic AI.](https://cdn.mos.cms.futurecdn.net/MqYBjM6MyBnwQUv4UQUTbP.jpg) 

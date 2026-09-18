@@ -10,6 +10,11 @@ description: US CENTCOM said crews were warned to abandon ship before its strike
   missile strikes on US targets in Jordan and warned tankers near Kuwait and Bahrain
   to evacuate.
 image: https://images.euronews.com/articles/stories/09/90/65/57/1200x675_cmsv2_bade7183-da75-50da-acbb-3ba3e44b9da2-9906557.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ## US CENTCOM said crews were warned to abandon ship before its strikes after the IRGC fired missiles at a US Navy warship twice in two days. Tehran launched missile strikes on US targets in Jordan and warned tankers near Kuwait and Bahrain to evacuate.

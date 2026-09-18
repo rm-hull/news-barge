@@ -9,6 +9,11 @@ description: North Yorkshire-raised dressage star Lottie Fry said she produced t
   “test of a lifetime” to claim the first double-double in 60 years of the Dressage
   World Championship.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjViNmJlMjVhLWZmYTUtNDM4MC1iYTk5LWM3ZmVlOTE5MWQ3Mzo1NTRjOTI0MC1hYjk3LTRhNDMtYjAzNS1lYmJhYjczMzJjNzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # World gold again after dressage star Lottie Fry’s ‘test of a lifetime’

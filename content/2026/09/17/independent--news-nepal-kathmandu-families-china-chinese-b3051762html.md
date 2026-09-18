@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Rescuers in Nepal have recovered four bodies from a hydropower plant
   tunnel three weeks after a devastating flash flood
 image: https://static.independent.co.uk/2026/09/17/10/Nepal_Flash_Floods_35486.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Rescuers in Nepal have recovered four bodies from the tunnel of a hydropower plant as search operations continued for those still missing three weeks after the devastating flash flood last month that killed hundreds and left thousands missing.

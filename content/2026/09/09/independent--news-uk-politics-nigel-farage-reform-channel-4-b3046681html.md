@@ -9,6 +9,10 @@ description: It certainly isn’t the first time Reform’s finances have landed
   in hot water. But the latest scandal does show a changing Nigel Farage, says Helen
   MacNamara. Reported by Maja Anushka
 image: https://static.independent.co.uk/2026/09/09/10/43/hero-image-(90).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Reform UK went into its annual conference last week with one piece of apparently comforting intelligence about the impending Channel 4 investigation hanging over the party: there was not much in it.

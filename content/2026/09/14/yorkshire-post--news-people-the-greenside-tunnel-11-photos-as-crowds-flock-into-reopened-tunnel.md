@@ -9,6 +9,11 @@ description: These are the first pictures from inside a disused rail tunnel that
   been gated off for over two decades which was opened to the public on Saturday and
   Sunday for tours.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNlM2M3NWE5LWZjZmMtNDE1YS04ZmQwLTYwZmE1NGRmMDFlNTozMWYzMmMyOS1lZDU2LTRiY2YtOWQ2OS1hYWQzOGFmNDc5M2E=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 The Greenside Tunnel sits between Tyersal and Pudsey, and was closed in the 1960s as part of sweeping changes to the country’s rail system.

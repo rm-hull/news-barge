@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Church of the Holy Sepulcher was built over the spots where Christians
   believe Jesus was crucified, buried and rose from the dead
 image: https://static.independent.co.uk/2026/08/26/06/Night_at_Holy_Sepulcher_65446.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Religion & Spirituality
 ---
 
 The doors were pushed shut, the clanking bolts secured from the outside. Several clergy, pilgrims and one journalist — me — were locked for the night inside one of Christianity's holiest sites in Jerusalem.

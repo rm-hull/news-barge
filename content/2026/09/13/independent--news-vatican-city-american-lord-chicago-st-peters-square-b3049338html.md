@@ -10,6 +10,11 @@ description: Pope Leo XIV, the first American pope, has called for a renewed com
   from St. Peter’s Square on Sunday, he offered prayers for victims and those still
   affected by the tragedy
 image: https://static.independent.co.uk/2026/09/13/11/Vatican_Pope_98_77.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Pope Leo XIV, history's first American pope, called for a renewed commitment to peace on Sunday as he marked the 25th anniversary of the Sept. 11 attacks on his home country.

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Designers delivered levity with their Spring/Summer 2027 collections
   this New York Fashion Week
 image: https://static.independent.co.uk/2026/09/16/18/APTOPIX_NYFW_-_Thom_Browne_S_S_2_27_53728.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Across the runways this New York Fashion Week, designers reimagined spring dressing by shaking up the season’s staples of florals and pastels, opting instead for more modern and irreverent trends.

@@ -9,6 +9,11 @@ description: A Harrogate mum has opened up about experiencing permanent anxiety 
   pregnancy as part of a campaign calling for greater awareness of neurodivergent
   motherhood.
 image: https://mmo.aiircdn.com/409/6a8ef18716553402584.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ef18716553402584.jpg) 

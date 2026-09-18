@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: THERE’S a chance to find out about a new art and music project at a special
   ‘open studio’ event this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458859.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 THERE’S a chance to find out about a new art and music project at a special ‘open studio’ event this weekend.

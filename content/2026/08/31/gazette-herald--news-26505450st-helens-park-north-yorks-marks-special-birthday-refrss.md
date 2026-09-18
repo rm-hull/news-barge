@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: An award-winning caravan and camping park in North Yorkshire is inviting
   former guests to share holiday memories as part of its 50th birthday…
 image: https://www.gazetteherald.co.uk/resources/images/21386417.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 An award-winning caravan and camping park in North Yorkshire is inviting former guests to share holiday memories as part of its 50th birthday celebrations this summer.

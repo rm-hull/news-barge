@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Aryna Sabalenka has lost the world number one ranking to Elena Rybakina
   - but has the chance to take revenge in the US Open final.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7043/live/d4f24ec0-ae37-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Aryna Sabalenka clenches her fist after beating Jessica Pegula in the 2026 US Open semi-finals](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/38c4/live/bd4601d0-ae29-11f1-9093-3900149a77e4.jpg)

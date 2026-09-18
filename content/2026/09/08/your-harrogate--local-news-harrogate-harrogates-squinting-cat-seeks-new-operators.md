@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: New operators are being sought to take over one of Harrogate's oldest
   pubs.
 image: https://mmo.aiircdn.com/409/6aa0146f4b1d6a781cc.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa0146f4b1d6a781cc.jpg) 

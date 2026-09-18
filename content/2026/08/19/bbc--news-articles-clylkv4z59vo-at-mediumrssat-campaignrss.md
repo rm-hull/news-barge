@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven
   people killed in the crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A rescue official works at the site of a tourist helicopter crash on a wooded hillside. The air is thick with smoke and there is wreckage on the ground.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg)

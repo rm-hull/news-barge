@@ -9,6 +9,10 @@ description: A former Harrogate mayor and North Yorkshire councillor is facing a
   of facts over allegations she posted material on X which prosecutors say was likely
   to stir up racial hatred.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVlZDEzNWU5LWY5ZjItNGIxYi04ZDE4LThhMGZlNDUwMTNhZTpkOTM1YTQ0NS03MGNhLTRlMGYtOWViMi0wMmE0MjA1MTk3ODE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Former Harrogate mayor faces trial of facts over alleged antisemitic tweets

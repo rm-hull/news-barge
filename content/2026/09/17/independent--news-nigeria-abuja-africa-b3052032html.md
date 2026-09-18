@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: At least 48 people have died after consuming a locally brewed alcoholic
   concoction in southern Nigeria’s Ondo state
 image: https://static.independent.co.uk/2026/09/17/16/Nigeria_Drink_Deaths_39622.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 At least 48 people have died and around 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.

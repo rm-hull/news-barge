@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The role marks Harington's third collaboration with HBO, after starring
   in the tentpole Game of Thrones and financial drama The Industry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/10a5/live/bee5d940-9ffe-11f1-8a82-5d6af15250d2.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Kit Harrington appears on the red carpet for a premier](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/10a5/live/bee5d940-9ffe-11f1-8a82-5d6af15250d2.jpg)

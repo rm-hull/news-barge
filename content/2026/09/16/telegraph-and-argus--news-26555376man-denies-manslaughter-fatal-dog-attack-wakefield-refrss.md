@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A man has denied manslaughter after his dog fatally bit another man during
   a dispute on a footpath.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19565057.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:31Z'
 published: '2026-08-19T00:00:00Z'
 description: The couple‘s children are set to start at a British school in September
 image: https://static.independent.co.uk/2026/08/19/22/72upjKg60WlgC5Tr8WyLNlfSKvlrUmkl7k3gq8SHKcQC0dWDUJP0ohuvXIERRulAySBgoBxgrfgL3HQfn7fjdA60JgECFFdKKMGj..?trim=201,0,200,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The Duke and Duchess of Sussex are understood to be planning to move their family back to the UK.

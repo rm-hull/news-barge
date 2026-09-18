@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: '''The highlights of my school holidays'' - photo stirs memories when
   a giant tunny was the star attraction of a day trip to Scarborough.'
 image: https://www.gazetteherald.co.uk/resources/images/21348158.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Image: 54North Maritime Training)*

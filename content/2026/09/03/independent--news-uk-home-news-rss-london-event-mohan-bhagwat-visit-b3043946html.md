@@ -9,6 +9,10 @@ description: They say Mohan Bhagwat’s visit ‘will embolden RSS affiliates in
   to promulgate hate speech, further polarise the Indian diaspora, and create an environment
   of fear and intimidation for vulnerable communities’
 image: https://static.independent.co.uk/2026/08/26/06/2288495294..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Civil society organisations have urged British officials to boycott events hosted by a right-wing Hindu national group during the visit of its leader Mohan Bhagwat this week.

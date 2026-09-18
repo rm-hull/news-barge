@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A new yellow warning has been issued by the Met Office for heavy showers
   and thunderstorms, while festivalgoers are set to be hit by more wet weather.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/29/6/34/01M147X41DRQD4AXA44MH9970R.jpeg?trim=0,19,0,19&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Yellow thunderstorm warning issued as Leeds Festival goers face more wet weather

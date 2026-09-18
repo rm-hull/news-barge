@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:31Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/new-born-baby-mother-maternity-canva.jpg
+categories:
+- Local
+- York
+- Health & Fitness
+- Family & Parenting
 ---
 
 Maternity services at York and Scarborough hospitals have been rated ‘good’ by the Care Quality Commission (CQC) following inspections which found significant improvements in the care provided to women and babies.

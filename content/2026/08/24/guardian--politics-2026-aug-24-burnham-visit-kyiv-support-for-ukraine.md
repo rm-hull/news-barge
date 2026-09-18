@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: As well as pledging military help and diplomatic backing, the prime minister
   could be useful in dealing with the US
 image: https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/355_47_4270_3418/master/4270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=411fceb288507f517e26591041a833e8
+categories:
+- UK
+- News & Politics
 ---
 
 Since moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed strong support for Ukraine. But on Monday he saw the bitter human cost of the war up close for the first time, visiting Kyiv during his first international trip as prime minister.

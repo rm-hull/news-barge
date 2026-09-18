@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: App publisher CEO Stan Marchand breaks down what separates a buyable
   product from a gimmick
 image: https://cdn.mos.cms.futurecdn.net/MYTYuWEYLXanF2R8rtssWV-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![headshot of Rocapine CEO/Founder, Stan Marchand on a purple background](https://cdn.mos.cms.futurecdn.net/MYTYuWEYLXanF2R8rtssWV.jpg) 

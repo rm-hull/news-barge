@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Traders in the financial markets reacted to tensions flaring up in the
   Middle East.
 image: https://static.independent.co.uk/2026/03/23/15/23150925-bd96c467-e969-428b-800e-56077ad3e2fd.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Oil prices have risen above 100 dollars a barrel for the first time since July after the latest round of strikes in the Iran war.

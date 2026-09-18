@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Firefighters have issued a warning about the dangers of cooking with
   hot oil after a kitchen fire in Bradford left one person requiring first aid.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20483201.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Pixabay)*

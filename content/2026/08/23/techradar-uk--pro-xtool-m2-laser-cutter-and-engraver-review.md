@@ -8,6 +8,8 @@ published: '2026-08-23T00:00:00Z'
 description: For enthusiasts and pros, xTool's M2 laser cutter & engraver impresses
   with creative versatility with a CMYK inkjet, 3W infrared, and auto material detection.
 image: https://cdn.mos.cms.futurecdn.net/oq2eKCPf4zHrUachCiSDLX-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

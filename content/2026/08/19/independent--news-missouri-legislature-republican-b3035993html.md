@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A Missouri court has rejected a request to let voters decide in November
   whether to make it harder for lawmakers to change laws enacted by citizen initiatives
 image: https://static.independent.co.uk/2026/08/19/22/Election_2_26_Ballot_Initiatives__4868.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
+- Society & Culture
 ---
 
 A Missouri court has rejected a request to let voters decide in November whether to erect some of the nation's strongest protections for laws passed by citizen initiative.

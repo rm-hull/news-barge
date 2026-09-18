@@ -9,6 +9,10 @@ description: The initiative to protect elms forms part of a broader national pus
   to curb forest pests and diseases that jeopardize longstanding industries like logging
   and endanger delicate ecosystems
 image: https://static.independent.co.uk/2026/08/31/15/38/AP26219848212229.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The fungal pathogen that decimated millions of American elms across the U.S. is now being used to restore the iconic species.

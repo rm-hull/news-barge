@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The enormous US debt under Trump will hobble the next Democratic administration
   – just as the GOP planned
 image: https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cb03944ce864ea970fb4420e4774b55
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 You could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme court, forcing the government to return tens of billions of dollars to importers. Elon Musk’s “department of government efficiency” (Doge), ostensibly created to stop wasteful government spending, decimated federal programs and probably killed millions of children, but did nothing to close the budget deficit. The burst of inflation following Trump’s misguided adventure in Iran sharply raised the cost of serving the government’s obligations.

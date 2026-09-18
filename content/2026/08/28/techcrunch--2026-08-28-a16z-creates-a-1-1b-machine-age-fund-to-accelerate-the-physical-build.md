@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: The firm, known for its focus on software, is going to start throwing
   more money at the hardware behind AI.
 image: https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Andreessen Horowitz has launched a new “Machine Age” fund with $1.1 billion raised. The firm’s aim with the new fund is to “open the throttle and accelerate the physical buildout of AI.”

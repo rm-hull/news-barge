@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A man will stand trial next year charged with murdering a seven-year-old
   girl and her aunt in a house fire.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/11/09/01M1KD51Y99A7YBED2YJ3N23HZ.jpeg?trim=955,0,1545,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man charged with murder over Middlesbrough house fire to stand trial next year

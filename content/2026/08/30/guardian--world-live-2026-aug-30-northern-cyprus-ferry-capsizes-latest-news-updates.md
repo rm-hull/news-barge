@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: An estimated 237 people have been rescued after accident off the coast
   of northern Cyprus
 image: https://i.guim.co.uk/img/media/98bd77129cc4c13918f182021142865441ead4ed/440_0_2592_2074/master/2592.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bfd3116c1ce72ec962f1ab2eb4c36acc
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 At least seven people reportedly die after ferry capsizes off northern Cyprus

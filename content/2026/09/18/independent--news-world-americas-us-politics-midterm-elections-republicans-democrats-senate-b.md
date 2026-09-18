@@ -9,6 +9,9 @@ description: Democrats have plenty of structural advantages. But, Eric Garcia wr
   Republicans have a cash advantage and are dipping back into some tactics that worked
   in the past
 image: https://static.independent.co.uk/2026/08/30/20/2291094069..?trim=14,0,14,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 If Republicans feared they would lose the House and Senate, this week showed a tidal wave of polls that makes them think no lifeboat could save them.

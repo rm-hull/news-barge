@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Eight years into his own managerial career, Coventry City boss Frank
   Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1595/live/6e7a2c80-a167-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 'Let's be brave about being in the Premier League' - Lampard

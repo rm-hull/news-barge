@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Newly collated data also shows Indigenous Australians experiencing disproportionally
   high rates of infection
 image: https://i.guim.co.uk/img/media/8c160191037cb676afd7d280b05e21cf5eb6979d/731_0_4264_3413/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0b9d25b6d014ab095759a600b338cf8
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Rates of reported gonorrhoea and infectious syphilis have increased by more than 50% across Australia over the past decade, with experts warning of concerning rises among women.

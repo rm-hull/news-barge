@@ -10,6 +10,12 @@ description: This week, many students across Yorkshire will be nervously awaitin
   their GCSE results. It’s a day many of us remember well, waiting anxiously to see
   if all that hard work has paid off.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMyYjc0N2UxLTIzY2QtNDZiNS1iYzhlLTBiZTE2NTIwMGMwYjpiMDc3Y2QxZi0wZDU4LTQxNGQtOWFlMy01Mzk5OTg5ZjMyZWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Health & Fitness
 ---
 
 # How parents can help support their children awaiting their GCSE results - Matt Buttery

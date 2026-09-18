@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Preliminary investigations by scientists have pointed to a collapsed
   glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c636/live/3c7f9eb0-a1e7-11f1-bf30-b9c45f18ad85.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Aerial footage shows floods on Nepal-Tibet border

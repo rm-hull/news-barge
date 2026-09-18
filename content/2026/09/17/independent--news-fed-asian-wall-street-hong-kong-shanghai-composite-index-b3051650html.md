@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Asian shares are mixed after Wall Street closed lower following the Federal
   Reserve’s interest rate hike decision for the first time in three years
 image: https://static.independent.co.uk/2026/09/17/06/South_Korea_Financial_Markets_62262.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Asian shares were mixed on Thursday after Wall Street closed lower following the Federal Reserve’s interest rate hike decision for the first time in three years.

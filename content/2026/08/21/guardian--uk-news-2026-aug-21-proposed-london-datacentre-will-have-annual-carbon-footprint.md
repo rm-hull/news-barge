@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: 'Exclusive: Planning documents show datacentre in North Ockendon would
   be incompatible with UK net zero targets'
 image: https://i.guim.co.uk/img/media/5e4995a896e3c857e647f342a61e99386d8893db/53_0_3076_2461/master/3076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c47476c3cac5c87be5d8762d6ac038d3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon dioxide a year, equivalent to the carbon footprint of 27,000 flights from London to New York, planning documents show.

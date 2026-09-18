@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A man and a woman have been arrested after an alleged act of outraging
   public decency in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21459772.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

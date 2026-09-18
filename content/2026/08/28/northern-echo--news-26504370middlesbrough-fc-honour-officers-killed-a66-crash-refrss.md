@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Middlesbrough FC will pay tribute to Cleveland Police officers PC Matthew
   Blades and PC Tom Clough before Saturday's match against West Brom…
 image: https://www.thenorthernecho.co.uk/resources/images/21367256.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Middlesbrough Football Club are inviting supporters to join a tribute to two Cleveland Police officers who tragically lost their lives in the A66 crash last weekend.

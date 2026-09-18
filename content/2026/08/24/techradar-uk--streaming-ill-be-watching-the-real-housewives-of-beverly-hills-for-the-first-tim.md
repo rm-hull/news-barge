@@ -10,6 +10,9 @@ description: The Real Housewives of Beverly Hills season 16 has been filming in 
   thanks to Bozoma Saint John's wedding — and it's made the Bravo reality TV series
   all the richer for it.
 image: https://cdn.mos.cms.futurecdn.net/Wji7JJCzM8Zkzj8tFugb95-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A promotional shot of the Real Housewives of Beverly Hills season 15 cast](https://cdn.mos.cms.futurecdn.net/Wji7JJCzM8Zkzj8tFugb95.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Drivers in Darlington face 13 sets of roadworks across the town on Tuesday,
   August 25. Including A68 Woodland Road.
 image: https://www.thenorthernecho.co.uk/resources/images/21230413.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

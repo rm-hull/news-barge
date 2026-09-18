@@ -10,6 +10,10 @@ published: '2026-09-12T00:00:00Z'
 description: But in the long history of bizarre and meme Skyrim mods, this IKEA effort
   isn’t that strange.
 image: https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Skyrim Kallax Storageborn companion](https://cdn.mos.cms.futurecdn.net/G73P3irdKu9575Pe64Doem.jpg) 

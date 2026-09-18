@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T15:00:03Z'
 published: '2026-09-14T00:00:00Z'
 description: A growing number of pubs are being put up for sale by Sam Smith's Brewery.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449512.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Sam Smith's Brewery has put more Yorkshire pubs up for sale.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:08:39Z'
 published: '2026-08-31T00:00:00Z'
 description: A new study highlights the life-saving role of air conditioning
 image: https://static.independent.co.uk/2026/08/31/16/Climate_Air_Conditioning_55258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Cooling from air conditioning saves lives — more than 5,000 a year in the United States alone — but it also heats up the planet and taxes our electrical grid, scientists say.

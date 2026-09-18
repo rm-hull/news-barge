@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: President at rally in South Carolina makes comments on key strategic
   waterway and jokes about bombing Iran
 image: https://i.guim.co.uk/img/media/46152a99661f01725bacb9b6571a9d9744184f38/1247_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2285d48a1925cfc6767fa0c3326f63a
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump called the strait of Hormuz “an American territory” on Friday, as the US continues its military blockade of Iran’s shipping and ports while Trump’s administration struggles to end its war with the country.

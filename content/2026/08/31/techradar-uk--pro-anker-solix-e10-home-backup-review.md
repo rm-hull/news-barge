@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: Amazingly, the Anker Solix E10 is a highly customizable, all-in-one expandable
   home battery system with solar input and connection to a tri-fuel generator.
 image: https://cdn.mos.cms.futurecdn.net/Mu4Pn3gccKcH8wrQCvtHPd-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

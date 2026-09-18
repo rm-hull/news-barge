@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Fraudsters are exploiting enterprise chat apps like Teams and Webex to
   trick Chinese victims into transferring large sums of money, fueling a wave of complaints.
 image: https://media.wired.com/photos/6a909d8a06c510ef6758e71c/191:100/w_1280,c_limit/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Zhao, a 30-something woman living in Beijing, says she lost over $100,000 in May to a romance scammer who claimed to be a researcher working for Microsoft. After initially chatting Zhao up on the Chinese social media platform Xiaohongshu, he asked to move their conversation to Microsoft Teams, where he was happy to provide her with an account and password she could use.

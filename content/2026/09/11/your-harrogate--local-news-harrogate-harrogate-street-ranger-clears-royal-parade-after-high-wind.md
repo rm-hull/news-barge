@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Harrogate BID's Street Ranger has been clearing leaves from Royal Parade
   following recent high winds.
 image: https://mmo.aiircdn.com/409/6aa39f511ae0b7c580e.jpg
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa39f511ae0b7c580e.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man in his 50s has been arrested and one person was taken to hospital
   after an early morning crash in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21372089.jpg?type=og-image&xType=0&yType=82
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: JULIE COATES)*

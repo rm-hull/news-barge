@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Centcom says ‘defective’ drone was surveilling regional waters and was
   not collecting sensitive data
 image: https://i.guim.co.uk/img/media/827374c1982a01d76595d1308fc5b2a80947ff9f/1155_1221_3275_2619/master/3275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e82005b6583145c3eda0cb10769a84de
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Iranian forces claimed to have seized an American underwater drone in the strait of Hormuz that the US military said had “malfunctioned” more than a day earlier.

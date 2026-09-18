@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The US president call the move a ‘hostile act’, as Canada seeks to move
   closer to the EU and diversify its defence ties
 image: https://i.guim.co.uk/img/media/e2dad493fb200e18e4ad270babf95f4d5405ac1a/794_0_4867_3894/master/4867.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6e9056dac23035ec366f66b829462ee
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Donald Trump has threatened the European Union with “serious tariffs” and a cut to trade after the bloc proposed to make Canada its first ever associate member, calling the idea “laughable”.

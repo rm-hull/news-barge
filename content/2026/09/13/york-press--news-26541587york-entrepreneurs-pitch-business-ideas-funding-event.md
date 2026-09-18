@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Emerging entrepreneurs will pitch their business ideas in hopes of winning
   funding.
 image: https://www.yorkpress.co.uk/resources/images/21439164.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Pic supplied)*

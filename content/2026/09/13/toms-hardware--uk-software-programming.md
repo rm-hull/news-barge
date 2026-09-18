@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Discover more about Programming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/AMMnDxVJMstjTqgsYNL2XQ-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ## Latest about Programming

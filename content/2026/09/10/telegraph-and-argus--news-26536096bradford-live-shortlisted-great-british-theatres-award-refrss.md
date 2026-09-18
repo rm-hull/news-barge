@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: BRADFORD Live has been announced as a finalist for the Great Renovation
   award at the Great British Theatres Awards
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

@@ -10,6 +10,10 @@ description: Video. Deadly wildfires have devastated villages in Algeria’s Jij
   nearly 350 kilometres east of Algiers, Residents are assessing the damage as crews
   work to restore electricity and clear affected areas.
 image: https://images.euronews.com/articles/stories/09/89/22/07/1200x675_cmsv2_903627de-e84a-5545-abbe-33920b77977d-9892207.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Algeria is assessing the aftermath of deadly wildfires in the north-east that have killed at least 12 people and injured dozens. Footage filmed by an Instagram user in Agbala village, Jijel province, on 26 August shows flames surrounding a home as firefighters battle to contain the blaze. Separate footage released by Algeria’s Civil Protection Service on 27 August shows firefighters tackling wildfires across Jijel as residents watch flames sweep across a mountainside.

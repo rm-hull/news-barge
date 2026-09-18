@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: In one of Britain's worst disasters, 116 children were killed on the
   morning of 21 October 1966.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/411e/live/81069740-a5c1-11f1-8543-aba44f51f79c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![Janett wears a red floral dress and gold necklace. She has short light blonde hair and is smiling. It is a head and shoulders shot of her.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/411e/live/81069740-a5c1-11f1-8543-aba44f51f79c.jpg)

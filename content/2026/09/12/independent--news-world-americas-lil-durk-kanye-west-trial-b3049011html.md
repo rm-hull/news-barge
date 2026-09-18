@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: High-profile figures such as Ye, previously known as Kanye West, and
   Machine Gun Kelly attended the trial
 image: https://static.independent.co.uk/2026/09/12/08/1762513071..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 US rapper Lil Durk has been cleared by a federal jury of involvement in an alleged murder-for-hire plot targeting rival artist Quando Rondo, which left Rondo's cousin dead at a Los Angeles gas station.

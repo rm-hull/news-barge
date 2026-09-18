@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Rosenheim police detain 27-year-old German man after woman, 31, killed
   outside train station early on Sunday
 image: https://i.guim.co.uk/img/media/efa14cd2b998c2f2a9efc305ec7fef7d0097d2d7/569_0_6298_5040/master/6298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12078e0cdea1e13836ef4c5a2d07b683
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A man has been detained in Germany on suspicion of the fatal stabbing of a 31-year-old British woman in Rosenheim early on Sunday morning, local authorities said.

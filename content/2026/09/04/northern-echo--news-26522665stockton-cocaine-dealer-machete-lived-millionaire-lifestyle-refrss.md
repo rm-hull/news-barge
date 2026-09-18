@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A Stockton drug dealer dubbed 'Machete' who lived the millionaire lifestyle
   has been locked up after one of his drug runners was arrested…
 image: https://www.thenorthernecho.co.uk/resources/images/21412366.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A drug dealer who lived the millionaire lifestyle has been locked up after one of his drug runners was arrested by police.

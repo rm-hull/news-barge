@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: An independent Harrogate travel agency is set to open its first high
   street shop later this month.
 image: https://mmo.aiircdn.com/409/6a9fc95592c4327a737.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fc95592c4327a737.jpg) 

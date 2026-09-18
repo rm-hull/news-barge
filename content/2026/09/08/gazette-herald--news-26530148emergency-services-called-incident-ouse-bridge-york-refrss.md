@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Emergency services have been called to an incident on Ouse Bridge in
   York.
 image: https://www.gazetteherald.co.uk/resources/images/19757750.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 Emergency services were called out to an incident on a major York city centre road.

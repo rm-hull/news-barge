@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Two friends, aged 86 and 80, have played their final squash match at
   the York Railway Institute - after facing each other weekly for more than 50…
 image: https://www.yorkpress.co.uk/resources/images/21448064.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Bev Miller)*

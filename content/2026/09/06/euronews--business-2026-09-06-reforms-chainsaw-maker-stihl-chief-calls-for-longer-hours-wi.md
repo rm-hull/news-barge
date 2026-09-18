@@ -9,6 +9,12 @@ description: In an opinion piece for Euronews, Dr Nikolas Stihl, chairman of wor
   chainsaw maker STIHL, calls for reforms including a 40-hour working week without
   extra pay to safeguard Germany's prosperity and welfare state.
 image: https://images.euronews.com/articles/stories/09/90/14/92/1200x675_cmsv2_eb2cc1d1-5ffb-5c87-90f8-5e9605b72860-9901492.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ## In an opinion piece for Euronews, Dr Nikolas Stihl, chairman of world-leading chainsaw maker STIHL, calls for reforms including a 40-hour working week without extra pay to safeguard Germany's prosperity and welfare state.

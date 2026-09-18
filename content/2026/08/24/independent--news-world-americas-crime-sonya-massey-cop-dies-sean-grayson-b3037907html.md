@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Sean Grayson had served about six months of his 20-year maximum sentence
   for second-degree murder
 image: https://static.the-independent.com/2026/08/23/23/38/Deputy-Shooting-911-Response_46693.jpeg?trim=0,85,0,85&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A former Illinois sheriff's deputy died in prison Sunday while serving time for fatally shooting Sonya Massey after she called 911 about a suspected prowler in her home, his lawyer said.

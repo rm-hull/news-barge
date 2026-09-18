@@ -9,6 +9,10 @@ description: Plans have been submitted to replace an existing BMX track in Patel
   Bridge with a new purpose-built pump track designed to cater for everyone from beginners
   to experienced riders.
 image: https://mmo.aiircdn.com/409/6a9fb96e3871f89eaa6.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fb96e3871f89eaa6.jpg) 

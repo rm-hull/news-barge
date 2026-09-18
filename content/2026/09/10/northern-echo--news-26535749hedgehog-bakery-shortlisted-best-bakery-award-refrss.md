@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A Bishop Auckland bakery has been shortlisted for The Northern Echo’s
   Best Bakery award.
 image: https://www.thenorthernecho.co.uk/resources/images/21431054.jpg?type=og-image&xType=0&yType=152
+categories:
+- Local
+- UK
+- News & Politics
+- Shopping & Deals
 ---
 
 A Bishop Auckland bakery has been shortlisted for a North East award.

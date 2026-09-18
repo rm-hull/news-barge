@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: We discuss the upcoming grand strategy game Afterworld with director
   Dan Lind.
 image: https://cdn.mos.cms.futurecdn.net/LCBzAQCfXpaFRAywqkUHi6-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![Upcoming strategy game Afterworld.](https://cdn.mos.cms.futurecdn.net/LCBzAQCfXpaFRAywqkUHi6.jpg) 

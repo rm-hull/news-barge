@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Ripon is gearing up for the annual Heritage Open Days this weekend with
   a rare chance for the public to step inside some of the city’s best-kept secrets.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjNjMGE2NGExLTA5YzktNDhhZS04MzNlLTdiODI5NDIxYWM3Mjo5NzZiOTc3Yi03YTk2LTRiMzktYTlhYi05ODEzMzJlN2U5ZmM=.jpg?crop=3:2,smart&trim=&width=719&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Ripon Gazette office is to return for starring role in Heritage Open Days but only briefly

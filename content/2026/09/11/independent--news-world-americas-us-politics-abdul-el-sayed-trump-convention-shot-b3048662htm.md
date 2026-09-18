@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: ‘Look, I’m a dad with two daughters, and I hope those daughters get to
   grow up and live with their dad,’ El-Sayed said
 image: https://static.independent.co.uk/2026/09/11/13/08/GettyImages-2292819928.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Abdul El-Sayed, the Democratic nominee for U.S. Senate from Michigan, responded after an audience member at the Republican midterm convention called for him to be “shot.”

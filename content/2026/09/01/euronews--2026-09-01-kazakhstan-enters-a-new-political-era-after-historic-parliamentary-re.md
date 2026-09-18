@@ -9,6 +9,9 @@ description: 'Kazakhstan implemented a major parliamentary reform, replacing the
   bicameral Parliament with a new unicameral legislature, the Kurultai. The new Parliament
   consists of 145 seats, with five parties securing representation. #Focus'
 image: https://images.euronews.com/articles/stories/09/89/08/20/1200x675_cmsv2_870b7577-63de-5d56-9b7c-965bba685dd3-9890820.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Kazakhstan implemented a major parliamentary reform, replacing the former bicameral Parliament with a new unicameral legislature, the Kurultai. The new Parliament consists of 145 seats, with five parties securing representation.

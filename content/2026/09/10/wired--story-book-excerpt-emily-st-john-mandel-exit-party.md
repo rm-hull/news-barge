@@ -9,6 +9,10 @@ description: In Emily St. John Mandel’s new novel “Exit Party,” becoming a
   means running afoul of the state. In this excerpt, a secret agent discovers it doesn’t
   take much.
 image: https://media.wired.com/photos/6aa1b1434eb21a2db77402ae/191:100/w_1280,c_limit/excerpt_culture_Exit%20Party%20by%20Emily%20St_v1.jpg
+categories:
+- Technology & Software
+- Science
+- True Crime
 ---
 
 *True diligence is following the improbable path.* I read the sentence in a detective novel in childhood, when I was 8 or 9 years old, and then the phrase stayed with me forever after.

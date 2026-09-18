@@ -10,6 +10,12 @@ description: Aysgarth Falls are three waterfalls surrounded by woodland and farm
   that were formed following the last Ice Age more than 10,000 years ago - here’s
   the history.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA4MDhjYWQzLWUwZmUtNDE2NC1iMTJiLTVkYmMzNWY5ODc4OTpmNWU3N2ViOS1jN2Q1LTQ5ZWYtOTA1ZC1lNTg4MmJiY2ZlNjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Travel
 ---
 
 # Aysgarth Falls: History of Yorkshire's magnificent waterfalls formed after the last Ice Age where Robin Hood: Prince of Thieves was filmed

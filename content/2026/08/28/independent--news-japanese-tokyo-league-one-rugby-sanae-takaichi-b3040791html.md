@@ -9,6 +9,10 @@ description: Japanese rugby officials say they have reached a settlement to allo
   players who were born elsewhere, but who have Japanese nationality, to qualify for
   the top eligibility category in domestic Rugby League One
 image: null
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Rugby officials in Japan on Friday said they have reached a settlement to allow players with Japanese nationality, but who were born elsewhere, to qualify for the top eligibility category in domestic Rugby League One.

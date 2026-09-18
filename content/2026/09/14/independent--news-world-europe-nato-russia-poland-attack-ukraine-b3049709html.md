@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Poland’s foreign minister said that the alliance had ‘overwhelming air
   superiority’ over Moscow
 image: https://static.independent.co.uk/2026/09/14/10/2292899803..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Poland says it would defeat Russia quickly if Moscow attempted an attack on the alliance amid an increasing number of hybrid attacks on Europe.

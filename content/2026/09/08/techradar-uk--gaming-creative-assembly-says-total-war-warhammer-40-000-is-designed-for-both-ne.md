@@ -11,6 +11,9 @@ published: '2026-09-08T00:00:00Z'
 description: 'Creative Assembly has confirmed that Total War: Warhammer 40,000 will
   be accessible to experienced fans and first-time Total War players.'
 image: https://cdn.mos.cms.futurecdn.net/JniBMxBrYyWXuf7EL5maJV-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Total War: Warhammer 40,000](https://cdn.mos.cms.futurecdn.net/JniBMxBrYyWXuf7EL5maJV.jpg) 

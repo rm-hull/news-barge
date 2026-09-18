@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The U.S. military has attacked another boat suspected of being used to
   smuggle drugs in the Caribbean Sea, killing four people
 image: https://static.independent.co.uk/2026/08/26/02/Panama_U.S._31397.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The U.S. military attacked a boat suspected of being used to smuggle drugs in the Caribbean Sea on Tuesday, killing four people, as the Trump administration continues its monthslong campaign against alleged traffickers in Latin America.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: King and Queen joined by Andy Burnham and Emmanuel Macron to view 11th
   Century artwork at British Museum
 image: https://static.independent.co.uk/2026/09/02/18/2292627024..?trim=0,213,0,213&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 The King, the Queen, the prime minister and the French president visited the Bayeux Tapestry together to mark the historic return of the centuries-old artwork to the UK.

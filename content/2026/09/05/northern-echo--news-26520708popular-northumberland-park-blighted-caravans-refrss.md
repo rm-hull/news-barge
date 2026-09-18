@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: A popular Northumberland park has been blighted by caravans, campervans
   and tents pitching up and camping against regulations.
 image: https://www.thenorthernecho.co.uk/resources/images/21408799.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Outdoors & Nature
 ---
 
 A popular Northumberland park has been blighted by caravans, campervans and tents pitching up and camping against regulations.

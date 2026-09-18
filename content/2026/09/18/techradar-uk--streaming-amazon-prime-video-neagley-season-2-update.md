@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Reacher spinoff Neagley might only have just hit Prime Video, but I'm
   already thinking about season 2 — and despite no renewal, there are plans.
 image: https://cdn.mos.cms.futurecdn.net/crcEw5qCstGpyfZ6H78uYn-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Neagley points a gun at something offscreen](https://cdn.mos.cms.futurecdn.net/crcEw5qCstGpyfZ6H78uYn.jpg) 

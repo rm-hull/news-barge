@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Fueled by warm offshore waters, the storm has rapidly escalated since
   achieving hurricane status on Sunday
 image: https://static.independent.co.uk/2026/08/30/14/KARINA_45774.jpg?trim=394,0,394,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Hurricane Karina strengthened into a major Category 4 system over the Pacific Ocean on Monday, though weather forecasters said it poses no direct threat to land.

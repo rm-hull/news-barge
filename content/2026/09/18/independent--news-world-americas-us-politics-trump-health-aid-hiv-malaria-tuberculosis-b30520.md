@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Funding for tuberculosis, malaria, HIV and maternal healthcare has to
   be released for spending by 30 September
 image: https://static.independent.co.uk/2026/09/08/14/18/GettyImages-2292883112.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 More than $1.3 billion (£975 million) in US funding for tuberculosis, malaria, HIV and maternal healthcare could go unspent within two weeks because it has not yet been released by the Trump administration, potentially resulting in tens of thousands of preventable deaths.

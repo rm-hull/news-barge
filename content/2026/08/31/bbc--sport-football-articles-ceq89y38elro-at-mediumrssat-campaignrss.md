@@ -9,6 +9,10 @@ description: Argentina great Lionel Messi announces his retirement from internat
   football, saying it was a decision that "hurt" but he understands "the time has
   come".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/28f8/live/7a3b35e0-a555-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A jubilant Lionel Messi holds the World Cup trophy in his right hand after the 2022 final, won by Argentina](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/28f8/live/7a3b35e0-a555-11f1-9acf-19576105f049.jpg)

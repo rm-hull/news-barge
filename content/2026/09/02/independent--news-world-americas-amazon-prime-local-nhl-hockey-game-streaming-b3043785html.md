@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: The streams will include the games plus pre- and post-game shows and
   other team programming
 image: https://static.independent.co.uk/2026/09/02/22/2273957723..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Video Gaming
+- Sports
+- Technology & Software
 ---
 
 Some hockey fans will find their favorite teams games exclusively streaming on Amazon Prime starting this season.

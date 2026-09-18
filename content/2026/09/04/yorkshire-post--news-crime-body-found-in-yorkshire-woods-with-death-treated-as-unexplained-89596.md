@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: An investigation has been launched following the discovery of a body
   in woods in Sheffield.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMzMDgzZTNmLTVhNzUtNGZlZC05NjlkLWNiN2I5MmYwNDlkNzo3YzA5NTEzMS1hZjkzLTQwYmYtOWZlMi00NzM5NmIzZDZlMDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Body found in Yorkshire woods with death treated as “unexplained”

@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: Two more news organizations are suing OpenAI and Microsoft over the supposed
   use of their journalism to train AI.
 image: https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.

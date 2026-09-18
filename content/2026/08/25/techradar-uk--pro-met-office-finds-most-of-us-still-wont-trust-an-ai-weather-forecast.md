@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T08:55:08Z'
 published: '2026-08-25T00:00:00Z'
 description: It's raining cats and Groks
 image: https://cdn.mos.cms.futurecdn.net/UEZgdXicuEGvaFQrSYV3EA-1920-80.jpg
+categories:
+- Technology & Software
+- Pets & Animals
 ---
 
 ![The weather app on the Samsung Galaxy S26 Plus against a grass background.](https://cdn.mos.cms.futurecdn.net/UEZgdXicuEGvaFQrSYV3EA.jpg) 

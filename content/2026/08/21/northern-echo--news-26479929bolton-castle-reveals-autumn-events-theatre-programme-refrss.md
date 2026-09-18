@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Bolton Castle in Wensleydale, North Yorkshire, has unveiled a packed
   programme of theatre shows, medieval adventures and family-friendly events for…
 image: https://www.thenorthernecho.co.uk/resources/images/21185765.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 *(Image: Gareth Buddo)*

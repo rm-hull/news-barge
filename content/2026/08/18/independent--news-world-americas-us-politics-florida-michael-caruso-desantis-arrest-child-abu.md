@@ -9,6 +9,9 @@ description: Gov. Ron DeSantis issued an executive order suspending Michael Caru
   from his post as Palm Beach County’s clerk of courts and comptroller following his
   arrest
 image: https://static.independent.co.uk/2026/08/18/20/42/Mike-Caruso.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Florida official appointed by Gov. Ron DeSantis has been arrested on multiple charges including child molestation and kidnapping, state authorities confirmed early Tuesday.

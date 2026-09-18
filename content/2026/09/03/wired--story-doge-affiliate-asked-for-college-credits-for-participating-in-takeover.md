@@ -9,6 +9,10 @@ description: According to new documents obtained through a Freedom of Informatio
   Act request, an undergraduate working with DOGE requested that his work for HUD
   count towards his University of Chicago degree.
 image: https://media.wired.com/photos/6a9871d993f270ee5698863f/191:100/w_1280,c_limit/GettyImages-2203694533.jpg
+categories:
+- Technology & Software
+- Science
+- Education & Learning
 ---
 
 Christopher Sweet, an affiliate of the so-called Department of Government Efficiency, requested college credit for his time in government, according to new documents obtained by a Freedom of Information Act request filed by Democracy Forward, a nonprofit legal organization.

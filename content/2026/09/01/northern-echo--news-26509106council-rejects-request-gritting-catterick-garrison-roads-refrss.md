@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A request for busy roads in Catterick Garrison to receive a higher level
   of winter gritting has been rejected by North Yorkshire Council.
 image: https://www.thenorthernecho.co.uk/resources/images/13451371.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: NORTHERN ECHO)*

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Chase And Status top the bill on first full day of Leeds Festival 2026,
   wsith Blossoms, Violet Grohl and Holly Humberstone also performing.
 image: https://www.thenorthernecho.co.uk/resources/images/21387816.jpg?type=og-image&xType=0&yType=218
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 On Friday afternoon, the first full day of programming got underway at Bramham Park.

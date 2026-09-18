@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Kemi Badenoch is expected to carry out a wider reshuffle of her front
   bench team following high-profile departures.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f0f/live/5d2f5d50-a4bf-11f1-984c-751457a03c14.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Shadow Secretary of State for Foreign, Commonwealth and Development Affairs, Priti Patel, attends a panel discussion with Tony Abbott, former Australian PM on day three of the Conservative party conference at Manchester Central Convention Complex on October 07, 2025](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3f0f/live/5d2f5d50-a4bf-11f1-984c-751457a03c14.jpg)

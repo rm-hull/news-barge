@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Landmark motion declaring local flora has the ‘right to flourish’ passes
   unanimously
 image: https://static.independent.co.uk/2026/09/14/14/01K8410RBA8CSJ8PK94YHX3QGC.jpg?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Lewes in East Sussex has become the first town in England to officially grant rights to its trees, following a local council vote to adopt a new municipal "Tree Charter".

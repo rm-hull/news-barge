@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Each subject and exam board has its own set of grade boundaries, determining
   the minimum number of marks required to achieve each grade.
 image: https://www.yorkpress.co.uk/resources/images/21344649.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 *(Image: Getty Images/iStockphoto)*

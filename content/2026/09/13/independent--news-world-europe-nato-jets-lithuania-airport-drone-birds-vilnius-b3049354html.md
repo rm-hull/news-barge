@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The sighting prompted the closure of Vilinus airport but the alert was
   lifted after 38 minutes
 image: https://static.independent.co.uk/2026/09/13/13/2281919701..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Nato jet scrambled to Lithuania Airport over a possible drone sighting was stood down – after the potential threat was confirmed to be a flock of birds.

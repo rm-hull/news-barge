@@ -9,6 +9,10 @@ description: The home secretary said there was a difference between legitimate c
   felt by Piddington residents over a large-scale asylum centre and extremists who
   were ‘hijacking’ those fears
 image: https://static.independent.co.uk/2026/09/07/16/e0879f09a462f7af598b3dbe2ebabc74Y29udGVudHNlYXJjaGFwaSwxNzg4ODgyMDU5-2.85774700.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Shabana Mahmood has branded anti-migrant activist Daniel Thomas a “far-right and outright racist” and warned he will feel “the full force of the law” if he or his organisation commits any crimes near asylum sites.

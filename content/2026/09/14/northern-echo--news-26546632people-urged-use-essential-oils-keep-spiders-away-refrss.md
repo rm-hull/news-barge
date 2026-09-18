@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: In September as the weather cools, homes across the UK are likely to
   see an increase in spidersseeking warmth and shelter.
 image: https://www.thenorthernecho.co.uk/resources/images/21446064.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Getty Images)*

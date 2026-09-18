@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Sonia Gandhi’s memoir may finally answer questions about power, loss
   and the Gandhi family’s political legacy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cd1/live/7b5d0a50-a2c8-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sonia Gandhi, the president of India's ruling Congress party, delivers a speech, attending the meeting with Russia's participants of "Dialog of Civilizations" World Public Forum in Moscow, 14 June 2005.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9dd8/live/28f7bac0-a4d1-11f1-9430-fd7879458310.jpg)

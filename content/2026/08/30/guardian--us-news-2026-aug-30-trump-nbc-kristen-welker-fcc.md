@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Trump’s threat comes after host described success record of candidates
   whom president had endorsed as ‘mixed’
 image: https://i.guim.co.uk/img/media/c35aed0a7928d75a477a71caa53956b61e3770ab/550_0_5499_4399/master/5499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c6c891b38d15b0d420a63d88271eed3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Donald Trump on Sunday said NBC’s Kristen Welker – host of Meet the Press – should face “rebuke or punishment” from the Federal Communications Commission (FCC).

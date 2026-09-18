@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian
   products comes after trade talks collapsed last week
 image: https://i.guim.co.uk/img/media/6a697afb3cca64dd9d6a07a36783b24b4df59627/393_0_3173_2538/master/3173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b12a06061b9c934ce74de0ae2dce8708
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Canada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood products and outdoor equipment in the coming weeks, as it retaliates roughly “dollar for dollar” against levies imposed by the US.

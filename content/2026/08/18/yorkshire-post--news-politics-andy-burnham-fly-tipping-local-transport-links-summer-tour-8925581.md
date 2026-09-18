@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: The new Prime Minister started with an announcement that eligible disabled
   bus passengers will get free transport all day, every day.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/17/10/cs-754c6290-69bf-447f-b104-50f27c9109a8.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Business & Entrepreneurship
 ---
 
 # Andy Burnham to focus on fly-tipping and local transport links on 'summer tour'

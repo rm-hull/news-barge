@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Cookbook author and food maven Maria Koutsogiannis would like to have
   a word about main dishes
 image: https://static.independent.co.uk/2026/09/07/05/Food-Voracious-Halibut-Halloumi_Skewers_86758.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 The chapter on main dishes in my cookbook, “Greek Out,” starts with an explanation of what “main dish” means to me.

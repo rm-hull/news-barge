@@ -10,6 +10,9 @@ published: '2026-09-15T00:00:00Z'
 description: YM Pro is a Mac music player that bypasses the system mixer and communicates
   directly with your DAC
 image: https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4-1080-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A screenshot of the YM Pro hi-res audio player for Mac](https://cdn.mos.cms.futurecdn.net/uLbazrHsUiBeNkANSwecd4.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The collection documents key moments in Gandhi’s freedom movement as
   well as his personal relationship with close aide.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c967/live/73aefbd0-9d53-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Handwritten notes by Mahatma Gandhi which has three folders and a hand drawn picture of Gandhi](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7109/live/4bb2ebc0-9d1f-11f1-a291-b542ee92de7c.jpg)

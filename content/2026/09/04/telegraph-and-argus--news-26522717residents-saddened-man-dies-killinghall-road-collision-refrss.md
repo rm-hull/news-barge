@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Residents have spoken of their sadness after a man died in a collision
   on a road near a Bradford park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411697.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

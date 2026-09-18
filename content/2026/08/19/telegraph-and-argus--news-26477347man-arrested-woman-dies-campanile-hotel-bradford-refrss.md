@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A man has been arrested after a 25-year-old woman died at a hotel in
   Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341472.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

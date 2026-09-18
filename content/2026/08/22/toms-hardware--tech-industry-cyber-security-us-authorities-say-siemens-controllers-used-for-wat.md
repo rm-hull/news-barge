@@ -10,6 +10,10 @@ published: '2026-08-22T00:00:00Z'
 description: Attacks on these industrial controllers could lead to sabotage of critical
   infrastructure.
 image: https://cdn.mos.cms.futurecdn.net/hHLVFntj9uCp5jj2dwekLW-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Siemens industrial systems](https://cdn.mos.cms.futurecdn.net/hHLVFntj9uCp5jj2dwekLW.png) 

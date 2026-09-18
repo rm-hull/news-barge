@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The DoJ sued TikTok and its former parent company in August 2024 for
   allegedly failing to protect children’s privacy and collecting their information
 image: https://i.guim.co.uk/img/media/b2d9653bdd6c451e907821d5aa66ec50260b3dff/191_288_6470_5176/master/6470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f94f554153470caff28cb90992b62088
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 TikTok and its Chinese former parent company ByteDance on Friday agreed to a $400m settlement to resolve the US Department of Justice’s allegations that the short-form video app violated children’s online privacy.

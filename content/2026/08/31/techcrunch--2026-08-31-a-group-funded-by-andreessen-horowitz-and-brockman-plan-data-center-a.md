@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Build American AI plans to lobby voters in select states about the virtues
   of data centers by spending millions of dollars on ads.
 image: https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 A well-known, pro-AI super political action committee is behind a new group that plans to blast voters in key battleground states with ads advocating for data centers, several outlets are reporting.

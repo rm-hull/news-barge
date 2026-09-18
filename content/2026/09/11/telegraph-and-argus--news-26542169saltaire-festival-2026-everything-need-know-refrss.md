@@ -8,6 +8,11 @@ scraped_at: '2026-09-11T12:49:53Z'
 published: '2026-09-11T00:00:00Z'
 description: Saltaire Festival is set to return this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440497.jpg?type=og-image&xType=0&yType=70
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Saltaire Festival Comms)*

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Workers discovered the man’s body above the kitchen’s frying area at
   the southwest Atlanta establishment after arriving for work on Monday morning
 image: https://static.the-independent.com/2026/09/15/1/57/Walters-Soul-Food-Atlanta.png?trim=0,11,37,88&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An unidentified man was found dead on Monday morning wedged through a kitchen HVAC vent at Walter’s Soul Food Cafe in southwest Atlanta.

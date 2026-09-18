@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Residents of the Swiss village of Kandersteg face a looming threat from
   an unstable mountain rock formation called Spitze Stei
 image: https://static.independent.co.uk/2026/08/18/05/Switzerland_Glacier_34129.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 An unstable mountain rock formation looming above the Swiss village of Kandersteg threatens a landslide that could rival the disaster that destroyed nearby Blatten last year, a collapse scientists linked to thawing permafrost and glacier dynamics.

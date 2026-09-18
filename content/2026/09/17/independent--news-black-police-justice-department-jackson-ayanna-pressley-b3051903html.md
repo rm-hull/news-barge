@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: The death of Tasia Fortune, a Black Mississippi woman found hanging from
   a tree, has stirred distressing memories of the grim U.S. history of lynchings
 image: https://static.independent.co.uk/2026/09/17/13/Mississippi_Woman_Hanging_35985.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 The death of a Black Mississippi woman found hanging from a tree has stirred distressing memories of the grim history of lynchings across the U.S. South.

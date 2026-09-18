@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A shoplifter travelled from London to steal hundreds of pounds of alcohol
   from a superstore at Monks Cross, York magistrates heard. He had no…
 image: https://www.yorkpress.co.uk/resources/images/21337328.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Google Street View)*

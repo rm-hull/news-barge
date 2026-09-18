@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A Chinese animation with crude visuals has unexpectedly surged at the
   box office."
 image: https://static.independent.co.uk/2026/08/18/04/China_Movie_45869.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
 ---
 
 The new sensation among some Chinese moviegoers is an animated film whose characters appear to have been created with rudimentary 3D animation and have been described as “ugly” and “eerie.”

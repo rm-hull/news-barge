@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The North East pub has been named Britain's most dog-friendly venue after
   topping a nationwide ranking of 110 pubs.
 image: https://www.thenorthernecho.co.uk/resources/images/21458386.jpg?type=og-image&xType=0&yType=139
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A pub in the North East has been crowned the most dog-friendly pub in Britain.

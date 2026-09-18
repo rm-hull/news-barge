@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A well-known North East family is preparing to celebrate four decades
   at the helm of a landmark hotel with a special bank holiday weekend event…
 image: https://www.thenorthernecho.co.uk/resources/images/21367563.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied by Goffy Media)*

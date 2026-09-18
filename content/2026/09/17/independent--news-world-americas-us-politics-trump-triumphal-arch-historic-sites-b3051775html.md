@@ -10,6 +10,10 @@ description: National Park Service instead suggests measure to mitigate the impa
   of the planned Memorial Circle monument, which is facing opposition from veterans
   groups
 image: https://static.independent.co.uk/2026/09/09/10/2026-09-04T210411Z_738635944_RC2ABMAYHP3C_RTRMADP_3_USA-TRUMP-ARCH.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 National Park Service officials have acknowledged that President Donald Trump’s planned triumphal arch for Washington, D.C., will unavoidably harm historic sites in the capital but should proceed anyway.

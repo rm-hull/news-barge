@@ -10,6 +10,10 @@ description: Mr Kruger - who has been tasked with overseeing Reform’s preparat
   for government - argued that food boxes ‘should have been organised locally’ rather
   than being introduced by the government
 image: https://static.independent.co.uk/2026/09/18/12/01K8NAPH10F87SBE89YBMY90AZ.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Reform MP Danny Kruger has condemned his colleague Robert Jenrick’s programme of delivering free food boxes to shielding households during the Covid-19 pandemic, describing them as "revolting" and "unhealthy."

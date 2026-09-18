@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: In a newly-obtained letter to Samoa’s prime minister, RFK Jr. used the
   words ‘vaccine’ or ‘vaccination’ eight times
 image: https://static.independent.co.uk/2026/08/27/13/Kennedy_Measles_Samoa_22937.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Newly-obtained documents contradict assurances given by Health Secretary Robert F. Kennedy Jr. to senators during his confirmation process last year, when he repeatedly claimed a 2019 trip to Samoa prior to a deadly measles outbreak had "nothing to do with vaccines."

@@ -10,6 +10,11 @@ description: Carlota Ciganda steals the show after Europe's top pairing of Charl
   Hull and Lottie Woad fail to ignite on day one of the Solheim Cup against the United
   States.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/64e4/live/5b1cdb00-ae15-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 Europe's Ciganda rescues half after dramatic final hole

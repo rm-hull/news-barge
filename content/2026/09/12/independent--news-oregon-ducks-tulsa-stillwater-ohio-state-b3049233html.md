@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Oklahoma State was given no shot at beating No. 6 Oregon, not after losing
   at Tulsa last week nor a 66-point thumping by the Ducks last season
 image: https://static.independent.co.uk/2026/09/12/22/Oregon_Oklahoma_St_Football_84598.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Oklahoma State was given no shot at beating No. 6 Oregon, not after losing at Tulsa last week nor a 66-point thumping by the Ducks last season.

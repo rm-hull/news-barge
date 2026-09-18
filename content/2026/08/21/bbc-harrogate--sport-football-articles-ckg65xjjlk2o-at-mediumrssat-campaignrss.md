@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Harrogate Town sign Burnley left-back Oliver Pimlott on a one-month loan
   deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d97c/live/d734a530-7632-11f1-b976-0b9c15b0ccfc.png
+categories:
+- Local
+- Harrogate
+- Lifestyle & Fashion
 ---
 
 **Harrogate Town have signed Burnley left-back Oliver Pimlott on a month's loan.** 

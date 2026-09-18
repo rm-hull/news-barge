@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Retro, a friend-focused photo-sharing app built by former Instagram employees,
   has raised more than $21 million in Series A funding.
 image: https://techcrunch.com/wp-content/uploads/2023/12/Retro-Header.png?resize=1200,792
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Retro, the friend-focused photo-sharing app built by former Instagram product engineers Nathan Sharp and Ryan Olson, has raised north of $21 million in Series A funding, according to an SEC filing.

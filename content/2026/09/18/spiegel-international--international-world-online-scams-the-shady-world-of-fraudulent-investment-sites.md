@@ -9,6 +9,13 @@ description: Using software from a company in Israel, scammers reel in gullible 
   and steal all their money. DER SPIEGEL dove deep into this world of greed-fueled
   criminal networks - and found a hero.
 image: https://cdn.prod.www.spiegel.de/images/27fdd270-2340-4251-868d-86a5444af304_w1200_r1.778_fpx62_fpy47.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ![Defendant Shay Benhamou in court. Defendant Shay Benhamou in court.](https://cdn.prod.www.spiegel.de/images/27fdd270-2340-4251-868d-86a5444af304_w960_r1.5_fpx62_fpy47.jpg) 

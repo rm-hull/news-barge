@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A teenage boy has died after a motorbike and car crashed in Northumberland
   on Monday.
 image: https://www.thenorthernecho.co.uk/resources/images/21369068.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: GOOGLE)*

@@ -11,6 +11,12 @@ description: A senior Army officer “always believed” a teenage soldier who m
   her lawyer told a judge as she was cleared of deliberately misreporting what she
   had been told.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/11/cs-11a23ad3-3829-4ade-8c39-b6c681a05108.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 # Colonel cleared over Jaysley Beck allegations ‘always believed’ her, court told

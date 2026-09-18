@@ -10,6 +10,10 @@ published: '2026-08-24T00:00:00Z'
 description: The People v. Gorilla Grodd will be a mockumentary series fronted by
   Skyler Gisondo's Jimmy Olsen.
 image: https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK-1280-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Jimmy Olsen sitting at his Daily Planet desk and holding a newspaper in 2025's Superman movie](https://cdn.mos.cms.futurecdn.net/kMhY77mSogaASd6FFy4wgK.jpg) 

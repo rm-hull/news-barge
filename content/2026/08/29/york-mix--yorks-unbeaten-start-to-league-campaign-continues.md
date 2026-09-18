@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T19:24:36Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/jovan-malcolm-york-city.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 York City FC continue to be unbeaten with a 2-1 win over Exeter City in League Two.

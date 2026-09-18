@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: IT was a record-breaking year for Year 11 Lady Lumley pupils who collected
   their GCSE and BTEC results today (Thursday).
 image: https://www.gazetteherald.co.uk/resources/images/21350002.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 IT was a record-breaking year for Year 11 Lady Lumley pupils who collected their GCSE and BTEC results today (Thursday).

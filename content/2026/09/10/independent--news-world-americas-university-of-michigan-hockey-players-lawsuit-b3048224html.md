@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The lawsuit says Red Berenson, who was coach from 1984 to 2017, was aware
   of the abuse and did not intervene
 image: https://static.independent.co.uk/2026/09/10/19/52/AP26253643943337.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 More than a dozen former hockey players have sued the University of Michigan, alleging their coach and other staff were aware of sexual hazing including the forced shaving of their genitals and other abuse by teammates decades ago.

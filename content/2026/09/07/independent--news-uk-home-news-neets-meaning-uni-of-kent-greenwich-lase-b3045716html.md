@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The London and South East University Group (LASE) accommodates more than
   50,000 students across four campuses in London, Medway and Kent
 image: https://static.independent.co.uk/2025/09/10/09/10090656-6489bb47-0da3-4376-9c02-ffa1fe2ddc08.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Tackling the growing Neets crisis will be easier for the universities of Kent and Greenwich following their merger into the UK’s first "super-university", according to the group’s leadership.

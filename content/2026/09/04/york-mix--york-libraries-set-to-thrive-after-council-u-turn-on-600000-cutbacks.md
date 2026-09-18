@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T04:22:34Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/02/save-our-libraries-york-demo-feb-2024-scaled.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 A contentious council plan to force York’s library service into £600,000 worth of cuts has been dropped.

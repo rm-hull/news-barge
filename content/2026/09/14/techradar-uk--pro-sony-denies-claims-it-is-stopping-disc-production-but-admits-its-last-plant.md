@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: Sony's last disc factory is not disappearing yet, despite fears that
   physical games were ending soon
 image: https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![PS5 game disc of Undisputed boxing game in case](https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg.jpg) 

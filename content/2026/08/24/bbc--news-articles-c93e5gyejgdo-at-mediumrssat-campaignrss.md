@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Esther Ogunmabo is accused of selling "retail sachets" of a strain of
   cannabis known as skunk.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba59/live/9b57c1c0-9fb6-11f1-b703-13ae65ccf6b5.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![101 year old Nigerian Esther Ogunmabo alongside her NDLEA offence board after she was arrested for selling cannabis](https://ichef.bbci.co.uk/ace/standard/691/cpsprodpb/ba59/live/9b57c1c0-9fb6-11f1-b703-13ae65ccf6b5.jpg)

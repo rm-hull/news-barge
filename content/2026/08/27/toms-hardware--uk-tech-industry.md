@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Discover more about Tech Industry with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/gvpMevmFmrpYoKystbq537-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 # Tech Industry

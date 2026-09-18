@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Concerns about speeding in a residential York street have prompted plans
   to tackle the issue.
 image: https://www.yorkpress.co.uk/resources/images/21462595.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 This article is brought to you by our exclusive subscriber partnership with our sister title USA Today,

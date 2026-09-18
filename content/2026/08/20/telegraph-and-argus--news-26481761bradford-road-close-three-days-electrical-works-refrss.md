@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T16:47:51Z'
 published: '2026-08-20T00:00:00Z'
 description: A ROAD will be closed temporarily for electrical works.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349757.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

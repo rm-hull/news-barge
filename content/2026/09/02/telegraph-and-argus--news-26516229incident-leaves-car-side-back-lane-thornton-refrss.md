@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Emergency services were called to Thornton on Wednesday morning after
   a vehicle was found on its side.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16485300.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

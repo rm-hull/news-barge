@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The company, which also makes radar equipment, said on Friday that it
   would hand more money back to shareholders as a result.
 image: https://static.independent.co.uk/2026/08/28/08/d63241b0f7db5609c98631eef87888b7Y29udGVudHNlYXJjaGFwaSwxNzg3OTg3NTY0-2.24945727.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Profits have more than doubled at defence supplier Goodwin as it was buoyed by a global increase in military spending.

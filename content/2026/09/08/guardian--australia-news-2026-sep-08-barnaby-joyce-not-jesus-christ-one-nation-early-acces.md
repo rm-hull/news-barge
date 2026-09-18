@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Jim Chalmers says One Nation’s superannuation policy is ‘an absolute
   shambles’
 image: https://i.guim.co.uk/img/media/2ba3b41e1014e2a245750f6928c4e4d9c8e87354/675_0_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f1a6514f25f143472ed1780f2d7eeb7
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Barnaby Joyce, One Nation’s Treasury spokesperson, says his party has not modelled the potential impact on retirement incomes and inflation from his party’s plan to give millions of households early access to their super savings in his second combative interview in two days.

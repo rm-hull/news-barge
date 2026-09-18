@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The tremors followed Saturday's 5.0-magnitude earthquake in the historic
   city of Granada
 image: https://static.independent.co.uk/2026/08/18/12/2026-08-18T110349Z_722685191_RC2X0NAS2VG3_RTRMADP_3_SPAIN-QUAKE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 Three more earthquakes have hit Spain's southern Granada province, causing some damage to buildings and forcing the closure of some museums and sports facilities, including the medieval Alhambra complex, where tourist access was restricted.

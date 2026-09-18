@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The proposal fits into a broader Trump administration effort to promote
   traditional families and raise the birth rate
 image: https://static.independent.co.uk/2026/09/06/16/09/GettyImages-2287386435.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration is considering a new policy that would provide government childcare subsidies to married couples with a stay-at-home spouse, according to a new report.

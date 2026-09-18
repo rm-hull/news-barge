@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Jurors in the Lindsay Clancy murder trial are set to enter their fourth
   day of deliberations
 image: https://static.independent.co.uk/2026/09/01/05/Lindsay_Clancy_Trial_61456.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors in the Lindsay Clancy murder trial are set to enter their fourth day of deliberations Tuesday over whether to hold her criminally responsible for killing her three young children at her Massachusetts home in 2023.

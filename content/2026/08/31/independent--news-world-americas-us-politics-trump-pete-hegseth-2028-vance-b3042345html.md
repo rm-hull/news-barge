@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The president says ‘a lot of people’ are considering 2028 runs but doesn't
   mention his vice president when asked about it in the Oval Office
 image: https://static.independent.co.uk/2026/08/31/21/2292885588..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump was asked by a reporter Monday about rumors that Secretary of Defense Pete Hegseth may run for president in 2028— and he gave a response that probably won’t be well-received by supporters of his presumed successor at the top of the ticket, J.D. Vance.

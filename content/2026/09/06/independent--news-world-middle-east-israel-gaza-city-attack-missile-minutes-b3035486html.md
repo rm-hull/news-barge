@@ -10,6 +10,10 @@ description: Neveen and Mohammed had recently married and were hoping to get the
   life back on track after nearly three years of Israeli attacks. But in the space
   of just minutes, those hopes were once again shattered, Alex Croft reports
 image: https://static.independent.co.uk/2026/08/19/8/04/intvwsplit2.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Just after midnight, Neveen Abu Hatab and her husband Mohammed were awoken suddenly by the sound of shouting from their neighbours.

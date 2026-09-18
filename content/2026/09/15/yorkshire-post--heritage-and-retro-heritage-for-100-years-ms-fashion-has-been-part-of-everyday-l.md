@@ -11,6 +11,11 @@ description: Marks & Spencer celebrates 100 years of fashion with a London Fashi
   national M&S Archive marks the centenary with a special film and free talks. Yorkshire
   Post Fashion Editor Stephanie Smith reports from London and Leeds.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0NjgxOWNmLTI3OTItNGI3Ny1hYWUxLTZlYTBlMThmYmVhYTpjMjg5ZGFmOS02YWNhLTRjYjUtOWI0OS02YzI2M2I0OTJjZTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'For 100 years M&S fashion has been part of everyday life': Marks & Spencer’s London Fashion Week debut and Leeds M&S Archive celebrations

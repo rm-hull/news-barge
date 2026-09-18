@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:56:54Z'
 published: '2026-08-26T00:00:00Z'
 description: A new wheelchair friendly bench has been installed by a Ryedale council.
 image: https://www.yorkpress.co.uk/resources/images/21287356.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 A new wheelchair friendly bench has been installed by a Ryedale council.

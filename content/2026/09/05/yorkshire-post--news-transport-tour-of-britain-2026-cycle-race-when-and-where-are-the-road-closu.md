@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: For the Tour of Britain 2026 Cycle Race, various roads will be closed
   on the day of the race in North Yorkshire to ensure the safety of the people participating.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiZWMzOGNiLTM0YzQtNDZkMC1hNTM4LWIxYTY5NjQyNjY0NzozMmI4ZTM4Ny05YmFiLTQ5MDktYjgzYS1lNjkyOWM5ZGExMzM=.jpg?crop=3:2,smart&trim=&width=1170&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Tour of Britain 2026 Cycle Race: When and where are the road closures across Yorkshire ahead of the cycle race this weekend?

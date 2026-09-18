@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: North East rail passengers have been promised faster, more reliable journeys
   under major Government plans hailed by an MP as a boost for the region.
 image: https://www.thenorthernecho.co.uk/resources/images/21444912.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: DEPARTMENT FOR TRANSPORT)*

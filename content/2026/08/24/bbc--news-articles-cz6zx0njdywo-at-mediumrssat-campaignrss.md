@@ -9,6 +9,10 @@ description: The Crown Prosecution Service will review evidence relating to a ma
   in his 80s gathered by police investigating allegations against the late Harrods
   owner.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5ac/live/e3f382f0-9fe5-11f1-8ed1-41aaf1fca4f2.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![The late former Harrods owner Mohamed Al-Fayed standing in front of the Harrods logo](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f5ac/live/e3f382f0-9fe5-11f1-8ed1-41aaf1fca4f2.jpg)

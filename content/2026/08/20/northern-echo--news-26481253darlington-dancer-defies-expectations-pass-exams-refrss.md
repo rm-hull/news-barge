@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A NORTH EAST performer who didn’t expect to obtain any GCSEs is dancing
   with joy today after passing all her exams.
 image: https://www.thenorthernecho.co.uk/resources/images/21348289.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 A NORTH EAST performer who didn’t expect to obtain any GCSEs is dancing with joy today after passing all her exams.

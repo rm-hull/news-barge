@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: 12 rare Beatrix Potter 50p coins has been listed on eBay for more than
   £25,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340176.jpg?type=og-image&xType=0&yType=453
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: eBay)*

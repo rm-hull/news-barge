@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Vineyards near York are gearing up for what could be their biggest harvest
   yet.
 image: https://www.yorkpress.co.uk/resources/images/21411376.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Vineyards near York talk of bumper harvest as picking is about to start

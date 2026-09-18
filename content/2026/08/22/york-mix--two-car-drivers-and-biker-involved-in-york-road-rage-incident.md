@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T01:56:41Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-bishopthorpe-road-nunnery-lane-junction-gsv.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 Police are investigating a road rage incident at a busy York junction.

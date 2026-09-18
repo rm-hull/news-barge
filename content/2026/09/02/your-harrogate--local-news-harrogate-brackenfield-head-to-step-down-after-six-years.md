@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Brackenfield School Headteacher Joe Masterson is preparing to step down
   after six years in the role.
 image: https://mmo.aiircdn.com/409/6a97c5bd32730c251b7.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97c5bd32730c251b7.jpg) 

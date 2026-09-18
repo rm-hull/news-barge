@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A council which operates more than 40 libraries across North Yorkshire
   does not know how many people are banned from its sites.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhhMTE0ZWQ5LWQ3MDQtNDNlOC1hYWVmLTcyZWRkMjM5YjYwZjozMDU4MWI5NC0zOWY2LTRmMWYtYWU3Ny1jOWRiNTUyMDk5NjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Library service ‘doesn’t know’ how many of 100,000 fines have been paid

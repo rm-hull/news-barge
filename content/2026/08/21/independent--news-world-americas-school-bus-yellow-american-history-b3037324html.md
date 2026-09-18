@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Though student transport once featured a kaleidoscope of colors, a single
   shade ultimately emerged victorious
 image: https://static.independent.co.uk/2026/08/21/19/35/iStock-1092429924.jpeg?trim=1,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Though student transport once featured a kaleidoscope of colors, a single shade ultimately emerged victorious. Over many decades, the standard look of the American school bus has rendered "school bus yellow" a national shorthand for its deep, glossy hue.

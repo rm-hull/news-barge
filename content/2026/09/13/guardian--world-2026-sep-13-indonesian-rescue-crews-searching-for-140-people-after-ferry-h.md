@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: More than 100 others on board were evacuated from the Virgo Transport
   8 ship, including one who died
 image: https://i.guim.co.uk/img/media/28e89f28d3634252f571dba16a57a21eba3248bc/552_0_2704_2164/master/2704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=375c3056e574f2ac3a45a811c47cb146
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Indonesian rescuers were searching on Sunday for 140 people from a passenger ship that was earlier reported missing in the Java Sea after 103 others were evacuated, one of whom died, a search and rescue agency official said.

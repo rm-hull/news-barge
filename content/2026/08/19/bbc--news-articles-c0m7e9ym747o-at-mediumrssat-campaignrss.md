@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Warnings for northern England, eastern Scotland and Northern Ireland
   will come into force later on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/89de/live/0f7663d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A crowd of people in colourful rain ponchos walk through a rain-soaked street in London. Some are holding umbrellas.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/89de/live/0f7663d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg)

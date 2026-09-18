@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: HMS Queen Elizabeth left Portsmouth Naval Base at about 18:20 BST on
   Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6b2/live/175c5870-a9c7-11f1-aa17-d79aec794b2a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![HMS Queen Elizabeth setting off along the water in Portsmouth.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/b6b2/live/175c5870-a9c7-11f1-aa17-d79aec794b2a.jpg)

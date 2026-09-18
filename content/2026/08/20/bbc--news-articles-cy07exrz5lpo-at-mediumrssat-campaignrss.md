@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Holidaymakers tell the BBC they paid for luxury breaks but faulty air
   conditioning left them in sweltering heat.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Man in a light blue polo shirt looks at the camera](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg)

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Pivotal Sec Plusin Hartlepool has tripled its office space following
   a major acquisition and rapid growth.
 image: https://www.thenorthernecho.co.uk/resources/images/21425769.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Michelle Maddison Photography)*

@@ -10,6 +10,11 @@ description: Yorkshireman Tom Rymer is the self-confessed ‘tecchy’ behind in
   city exploration games. He tells Laura Reid about Race Across the World in York
   and his new Traitors product.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3YmQwOWI3LTBmZGYtNGQyMC04NmU1LTAzNGNiNjU1YjUzZTphM2FmYTQ0MC04MzY0LTRiYzAtYWU0ZS02NTBlYjJjNmFjMDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # I played Race Across the World through York, one of the exciting interactive adventure games designed by CityDays founder Tom Rymer

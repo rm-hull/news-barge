@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Manually updating an AI-written CV gave a better outcome than using AI
   alone to apply
 image: https://static.independent.co.uk/2026/09/14/10/47/iStock-1272953983.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Jobseekers are increasingly using artificial intelligence to apply for jobs – but leaving AI in charge of your applications could be a hindrance to securing new roles, new research suggests.

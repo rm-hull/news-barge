@@ -9,6 +9,10 @@ description: A Ripon farmer whose regenerative approach has reduced reliance on 
   while improving soil health and encouraging wildlife back onto the land has been
   named among the finalists in the 2026 British Farming Awards.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/02/12/Charles_and_James_Johnson_Mallard_Grange_Farm_1788343570_b1f08628-f6672f3afe7f14ec.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 # Ripon farmer in finals of prestigious awards

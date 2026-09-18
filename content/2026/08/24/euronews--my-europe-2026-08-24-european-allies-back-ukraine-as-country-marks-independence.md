@@ -10,6 +10,10 @@ description: 'European leaders joined Zelenskyy in Kyiv as Ukraine marked its fi
   from the Trump administration were present as Witkoff and Kushner stayed away from
   ceremony. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/61/84/1200x675_cmsv2_b621e52a-2614-5690-a578-ce3ac314b612-9886184.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## European leaders joined Zelenskyy in Kyiv as Ukraine marked its fifth Independence Day since Russia launched its full-scale invasion in 2022. No delegates from the Trump administration were present as Witkoff and Kushner stayed away from ceremony.

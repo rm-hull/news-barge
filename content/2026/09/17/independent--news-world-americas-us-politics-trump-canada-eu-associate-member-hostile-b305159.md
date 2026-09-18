@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T04:44:53Z'
 published: '2026-09-17T00:00:00Z'
 description: Trump has embroiled U.S. in a deepening trade war with its northern neighbor
 image: https://static.independent.co.uk/2026/09/17/01/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump has suggested that the European Union allowing Canada to become an associate member could be a “hostile act” and threatened more tariffs if it happened.

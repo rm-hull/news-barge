@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Radley London, know for selling bags with its iconic dog logo on them,
   entered administration in May 2026.
 image: https://www.yorkpress.co.uk/resources/images/21344064.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Shopping & Deals
 ---
 
 *(Image: Getty)*

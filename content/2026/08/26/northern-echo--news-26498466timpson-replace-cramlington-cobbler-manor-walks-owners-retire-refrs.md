@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: The owners of The Cramlington Cobbler have retired, but the same team
   will remain as Timpson prepares to open a larger store at Manor Walks.
 image: https://www.thenorthernecho.co.uk/resources/images/21375889.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

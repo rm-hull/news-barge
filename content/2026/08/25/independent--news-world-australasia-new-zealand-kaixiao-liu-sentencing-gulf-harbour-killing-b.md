@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Prosecution describes sect leader’s household as tightly controlled,
   where the women were expected to refer to Kaixiao Liu as ‘Lord’ or ‘Master’
 image: https://static.independent.co.uk/2026/08/25/7/36/NZ-Police.jpg?trim=0,21,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The leader of a fringe religious group in New Zealand has been sentenced to more than 10 years in jail over the death of a 70-year-old woman who had travelled from China to live in his house called the “Ark”.

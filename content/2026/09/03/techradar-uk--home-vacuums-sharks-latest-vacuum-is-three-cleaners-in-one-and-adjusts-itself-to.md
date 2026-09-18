@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: 'The Shark PowerDetect Transformer is a three-in-one: an upright, a stick
   and a handheld vacuum'
 image: https://cdn.mos.cms.futurecdn.net/KW83KpayHsV8NkFHurgpwn-2048-80.png
+categories:
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![Shark PowerDetect Transformer being used as a stick vacuum in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/KW83KpayHsV8NkFHurgpwn.png) 

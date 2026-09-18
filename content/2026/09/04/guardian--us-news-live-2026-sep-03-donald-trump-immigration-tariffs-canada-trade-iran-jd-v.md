@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T04:21:48Z'
 published: '2026-09-04T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/f638cb0d2473b0649a99a8d49de6edb7d07d9025/2896_939_6279_5023/master/6279.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4ec97480cbb666909756690c8b08e02e
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A ballot drop box in Washington state. The Trump administration has appealed to the supreme court to implement its restrictions on mail-in voting. Photograph: M Scott Brauer/ZUMA Press Wire/Shutterstock

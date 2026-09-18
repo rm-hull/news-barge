@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A new list has revealed the UK’s most stolen cars, according to data
   analysed by Tempcover and sourced from the DVLA.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397932.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Getty Images/iStockphoto)*

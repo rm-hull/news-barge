@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: 'No need to apply for travel authorisation any more, less paperwork:
   what the new BVG ticket on the pupil ID card means for children, parents and schools.'
 image: https://www.berlin.de/binaries/asset/image_assets/10624180/ratio_4_3/1788959108/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Education & Learning
 ---
 
 © dpa

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Two police were killed when the car they were driving was struck by a
   Volkswagen Passat
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/02/04/12/dash-cam.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 Social media companies have been told to take down videos showing people driving the wrong way down roads, following two fatal accidents.

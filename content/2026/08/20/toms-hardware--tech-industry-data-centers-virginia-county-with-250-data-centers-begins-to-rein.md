@@ -10,6 +10,10 @@ published: '2026-08-20T00:00:00Z'
 description: This county is hitting the brakes on data center development after more
   than a quarter of a century of making the most out of them.
 image: https://cdn.mos.cms.futurecdn.net/Ln5otMKoQVgY9UirVDtEL6-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- History
 ---
 
 ![Meta data center](https://cdn.mos.cms.futurecdn.net/Ln5otMKoQVgY9UirVDtEL6.jpg) 

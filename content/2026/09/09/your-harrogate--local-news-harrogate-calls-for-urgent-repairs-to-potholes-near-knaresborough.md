@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A local election candidate has called for urgent repairs to potholes
   on two roads near Knaresborough.
 image: https://mmo.aiircdn.com/409/6aa101895dce5ef836c.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa101895dce5ef836c.jpg) 

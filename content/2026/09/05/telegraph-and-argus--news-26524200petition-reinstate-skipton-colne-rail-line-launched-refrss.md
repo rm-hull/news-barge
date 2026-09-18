@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A PETITION calling for the reinstatement of the Skipton to Colne railway
   line is to be launched in October, heard a meeting of Gargrave Parish…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413473.jpg?type=og-image&xType=0&yType=104
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A PETITION calling for the reinstatement of the Skipton to Colne railway line is to be launched in October, heard a meeting of Gargrave Parish Council.

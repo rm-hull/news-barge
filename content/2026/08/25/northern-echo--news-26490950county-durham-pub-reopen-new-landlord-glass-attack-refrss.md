@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The King's Head in Cockfield is set to reopen with a new landlord after
   a man was seriously injured in a ‘violent’ glass attack there.
 image: https://www.thenorthernecho.co.uk/resources/images/21256779.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A County Durham pub is set to reopen with a new landlord and new safety conditions after a man was seriously injured in a ‘violent’ glass attack there.

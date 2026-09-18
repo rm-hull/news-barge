@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Residents across North Yorkshire are being encouraged to check that recyclable
   household items are being placed in the correct containers.
 image: https://mmo.aiircdn.com/409/6aa7d4d5b8635f45d80.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa7d4d5b8635f45d80.jpg) 

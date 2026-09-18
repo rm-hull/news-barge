@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Closing arguments concluded on Thursday in a case that has sparked widespread
   online debate and protests outside the courthouse
 image: https://static.the-independent.com/2026/08/25/08/download.-4.?trim=118,0,118,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
+- Society & Culture
 ---
 
 Lindsay Clancy’s murder trial is now in the hands of a jury following a month of emotional testimony about the deaths of her three children in 2023 and the psychiatric issues she experienced before she killed them.

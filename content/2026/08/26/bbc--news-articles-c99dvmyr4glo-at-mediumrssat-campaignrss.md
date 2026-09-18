@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: On Saturday, Iceland will vote on EU membership talks, amid economic
   and geopolitical tensions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b8a/live/6fa651a0-a181-11f1-8acb-47b47191a479.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Iceland Prime Minister Kristrun Frostadottir participates in a listening session on the upcoming referendum on August 26, 2026 in Reykjavik, Iceland](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/d819/live/1eb0ea80-a181-11f1-8acb-47b47191a479.jpg)

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A PLOT of Council owned land that brings in £9,000 a year in advertising
   revenue will go to auction later this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332494.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

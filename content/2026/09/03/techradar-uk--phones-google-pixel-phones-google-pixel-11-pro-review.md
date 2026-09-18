@@ -8,6 +8,8 @@ published: '2026-09-03T00:00:00Z'
 description: The Google Pixel 11 Pro brings small tweaks, familiar tricks, and a bigger
   price tag than its predecessor.
 image: https://cdn.mos.cms.futurecdn.net/SJoPECM63zxmdnDeYQrpX4-1442-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

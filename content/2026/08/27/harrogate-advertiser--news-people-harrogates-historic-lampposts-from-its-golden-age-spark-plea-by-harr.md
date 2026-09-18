@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Harrogate Advertiser reader has taken his concern over the state of
   historic lampposts and street signs in the town to North Yorkshire Council.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ4Yzg4ZGFhLWNiZDgtNDdhNS05NzRlLTg4ZmVlMWI1MjQyZToxYTMyYjU1Ni0zM2JkLTQ5MWEtODc0NS1kYTRjNzc0M2ZmMWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
+- Arts & Culture
 ---
 
 # Harrogate's historic lampposts from its golden age spark plea by Harrogate Advertiser reader

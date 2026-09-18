@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:12:28Z'
 published: '2026-08-26T00:00:00Z'
 description: An exit slip road has been closed after a shed load of offal was spilled.
 image: https://www.yorkpress.co.uk/resources/images/21372065.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Highways England)*

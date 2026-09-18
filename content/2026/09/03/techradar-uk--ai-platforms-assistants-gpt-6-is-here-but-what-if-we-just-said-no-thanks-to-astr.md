@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T22:31:37Z'
 published: '2026-09-03T00:00:00Z'
 description: '"We believe caution is warranted"'
 image: https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![OpenAI CEO Sam Altman attends the artificial intelligence Revolution Forum. New York, US - 13 Jan 2023](https://cdn.mos.cms.futurecdn.net/BVv9araKjU9yQTXMWQhR9F.jpg) 

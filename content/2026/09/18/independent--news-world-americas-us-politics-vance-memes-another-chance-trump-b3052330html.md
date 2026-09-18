@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: ‘JD Vance begs for midterm votes’ Kamala Harris’ Gen-Z focused account
   posted on X
 image: https://static.independent.co.uk/2026/09/18/8/19/Screenshot-2026-09-18-at-09-22-35.png?trim=48,0,48,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vice President JD Vance’s appeal for voters to give Republicans “another chance” has been widely derided online.

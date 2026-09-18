@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Crowds take to the streets of west London to enjoy family day in the
   bank holiday weekend sunshine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9df5/live/48d2b160-a481-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A child with headdress smiles from the parade](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/9df5/live/48d2b160-a481-11f1-b109-879e35c24276.png)

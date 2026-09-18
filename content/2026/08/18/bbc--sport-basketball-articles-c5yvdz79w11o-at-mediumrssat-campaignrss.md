@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings'
   sale of the family's remaining stake in the NBA franchise.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46f6/live/20058780-9afe-11f1-a27d-25dca26018ed.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lakers president and controlling owner Jeanie Buss, attends a game between the Lakers and the Bucks at Crypto.com Arena in Los Angeles](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/46f6/live/20058780-9afe-11f1-a27d-25dca26018ed.jpg)

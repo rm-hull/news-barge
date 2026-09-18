@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A business in Fylingthorpe, near Whitby, that has entered liquidation
   owed the taxman more than £130,000, according to a liquidator’s report.
 image: https://www.yorkpress.co.uk/resources/images/21426307.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Northern Echo)*

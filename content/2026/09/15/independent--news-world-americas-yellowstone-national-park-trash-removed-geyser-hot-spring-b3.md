@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The geology team advises that visitors ‘stash your trash’ before visiting
   the hydrothermal features of Yellowstone National Park
 image: https://static.independent.co.uk/2026/09/15/15/58/Screenshot-2026-09-15-at-11-19-54-AM.png?trim=0,63,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Most thoughtful hikers and campers operate under the "leave no trace" principle — the wilderness should bear no mark of your visit.

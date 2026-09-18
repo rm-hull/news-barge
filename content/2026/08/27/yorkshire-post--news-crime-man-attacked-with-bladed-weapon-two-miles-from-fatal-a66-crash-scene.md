@@ -9,6 +9,11 @@ description: A 39-year-old man is receiving treatment after being attacked with 
   bladed weapon in Eston, around two miles from the scene of the A66 crash which killed
   seven people.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/14/cs-2a80e1da-83b1-4d76-a419-d71a284fd3fa.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Man attacked with bladed weapon two miles from fatal A66 crash scene

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A local resident described how she ran up and down the street, shouting
   to raise the alarm after the fire broke out in Grangetown, near Middlesbrough
 image: https://static.independent.co.uk/2026/08/26/15/2292153342..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A neighbour of a house caught in a fire which saw two people including a child die has recalled how local residents tried to rescue the occupants.

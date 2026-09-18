@@ -9,6 +9,11 @@ description: Ripon MP Sir Julian Smith has raised concerns after new figures rev
   an increase in the number of people claiming unemployment-related benefits across
   the area.
 image: https://mmo.aiircdn.com/409/6878c2f1a8b1d.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6878c2f1a8b1d.jpg) 

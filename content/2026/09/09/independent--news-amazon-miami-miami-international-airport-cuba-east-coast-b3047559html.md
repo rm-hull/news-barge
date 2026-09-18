@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Five members of a cleaning crew were wrapping up their shift when they
   were killed as an Amazon cargo jet plowed into their van at the Miami airport
 image: https://static.independent.co.uk/2026/09/08/22/APTOPIX_Amazon_Plane_Overruns_Runway_36198.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Five members of a crew killed when an Amazon cargo jet smashed into their van were wrapping up their eight-hour shift cleaning planes at the Miami airport when the crash happened, lawyers for one of the victims said on Wednesday.

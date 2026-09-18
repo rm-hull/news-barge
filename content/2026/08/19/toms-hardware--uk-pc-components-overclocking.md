@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Discover more about Overclocking with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/wPFnMQRgcNRcBmAgKkm2km-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![A product photo of a Thermal Grizzly delidded CPU.](https://cdn.mos.cms.futurecdn.net/wPFnMQRgcNRcBmAgKkm2km-320-80.jpg)

@@ -9,6 +9,10 @@ description: Hundreds of people have lined up outside Rome’s city hall to pay 
   last respects to Emma Bonino, the prominent Italian politician and human rights
   campaigner who died on Friday, aged 78
 image: https://static.independent.co.uk/2026/09/13/17/Italy_Bonino_35158.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of people queued outside Rome’s city hall on Sunday to pay their last respects to Emma Bonino, the prominent Italian politician and human rights campaigner who died on Friday, aged 78.

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: DHS says Manuel Ernesto Hernandez-Umana is in US illegally after lying
   to border patrol when he entered in 2007
 image: https://i.guim.co.uk/img/media/70aaab92f000ee0593da1d4610e41e8a073ab455/503_0_2521_2016/master/2521.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23b68d3bc0536d825a48c6c437268182
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 The captain of a boat that capsized in the New York harbor, resulting in the death of a woman and her infant daughter, has been taken into custody by Immigration and Customs Enforcement (ICE), with the federal agency saying it intends to deport him.

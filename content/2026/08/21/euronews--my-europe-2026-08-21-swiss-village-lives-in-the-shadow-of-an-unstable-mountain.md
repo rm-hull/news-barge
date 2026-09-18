@@ -10,6 +10,10 @@ description: 'Kandersteg, a picturesque Swiss Alpine village, sits beneath the u
   Scientists say rising temperatures are melting glaciers and thawing mountain permafrost,
   making slopes increasingly unstable across the Alps. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/84/80/1200x675_cmsv2_b02fa811-c6ca-54da-a227-98a4dc0be3cc-9878480.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Kandersteg, a picturesque Swiss Alpine village, sits beneath the unstable Spitze Stei rock formation, which could trigger a major landslide if it collapses. Scientists say rising temperatures are melting glaciers and thawing mountain permafrost, making slopes increasingly unstable across the Alps.

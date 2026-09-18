@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:14:03Z'
 published: '2026-09-07T00:00:00Z'
 description: Docmail remains down following server issue
 image: https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person in a medical practice typing on a laptop.](https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK.jpg) 

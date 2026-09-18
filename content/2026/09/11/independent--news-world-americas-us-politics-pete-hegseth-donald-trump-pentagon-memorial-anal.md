@@ -9,6 +9,10 @@ description: ’War Secretary’ delivers a paean to Iran conflict while his bos
   stays on script after Condoleezza Rice all but apologizes for pre-9/11 security
   failures at Pentagon commemoration of 9/11 25th years later, writes Andrew Feinberg
 image: https://static.independent.co.uk/2026/09/11/16/2294710218..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 On a day reserved for celebrating the heroes of one of America’s darkest chapters, the man charged with leading the nation’s defense apparatus did the only thing he seems capable of doing in public — praising his boss and bashing Iran.

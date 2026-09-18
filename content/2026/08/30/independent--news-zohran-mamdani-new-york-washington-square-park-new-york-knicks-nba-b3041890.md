@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Hundreds of people showed up near New York City's Washington Square Park
   to judge a Mayor Zohran Mamdani look-alike contest
 image: https://static.independent.co.uk/2026/08/30/22/APTOPIX_New_York_Mamdani_Look-Alike_15577.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Hundreds of people gathered near New York City's popular Washington Square Park Sunday to judge a Mayor Zohran Mamdani look-alike contest.

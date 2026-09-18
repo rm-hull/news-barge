@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: BRADLEY Lowther is the latest local boxer to turn professional and says
   he is “beyond excited” to make his paid debut later this year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386971.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 BRADLEY Lowther is the latest local boxer to turn professional and says he is “beyond excited” to make his paid debut later this year, **writes James Bovington**.

@@ -10,6 +10,12 @@ description: Mortgage buyer Freddie Mac's latest snapshot of mortgage rates is d
   out later Thursday and expected to show that the average rate for a 30-year mortgage
   rose again this week, moving closer to 7%
 image: https://static.independent.co.uk/2026/09/02/13/AI_Luxury_Home_Sales_27323.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 Home shoppers holding out for relief from rising mortgage rates may be in for a long wait.

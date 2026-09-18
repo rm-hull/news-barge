@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T22:14:04Z'
 published: '2026-08-27T00:00:00Z'
 description: IKEA should already be your go-to for affordable gaming gear
 image: https://cdn.mos.cms.futurecdn.net/7btfa32Z7rsCsmQGkZF3EE-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![IKEA gaming accessories](https://cdn.mos.cms.futurecdn.net/7btfa32Z7rsCsmQGkZF3EE.jpg) 

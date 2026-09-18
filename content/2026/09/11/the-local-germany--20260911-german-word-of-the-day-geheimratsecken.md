@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Search for this German word online and you'll probably find yourself
   taken to articles featuring celebrities like Jude Law and David Beckham. But why?
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-word-of-the-day-blank-picture54.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 Rather than symbolising loss, the German term for a receding hairline conjures ideas of wisdom, experience and the sort of sage advice once offered by trusted political counsellors.

@@ -9,6 +9,10 @@ description: Authorities in Nepal are warning of possible fresh flooding and urg
   residents in flood-affected districts to remain on high alert after water levels
   rose in the Bhotekoshi River
 image: https://static.independent.co.uk/2026/08/30/05/Nepal_Flash_Floods_53742.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Authorities in Nepal are warning of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River.

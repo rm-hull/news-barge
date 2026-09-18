@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: About 46 people believed to be trapped in ‘room-like’ structure inside
   hydro plant tunnel on Nepal-Tibet border
 image: https://i.guim.co.uk/img/media/068517344bd62da2eb008fd590adbd1626ff33c2/276_0_1124_900/master/1124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb02b43bc30870ac9c9164ce02aa5157
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Nepal authorities have said they are “confident” that dozens of workers in Nepal’s Rasuwagadhi hydropower plant are still alive, more than a week after deadly flash floods left them trapped in an underground chamber.

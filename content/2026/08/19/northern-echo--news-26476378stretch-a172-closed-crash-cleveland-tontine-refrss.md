@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The A172 is currently closed near Cleveland Tontine as crash investigation
   teams work at the scene.
 image: https://www.thenorthernecho.co.uk/resources/images/13607532.jpg?type=og-image&xType=0&yType=181
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: France has recorded its hottest summer since measurements began over
   a century ago, according to the environment minister
 image: https://static.independent.co.uk/2026/08/14/08/France_Extreme_Weather_Heat_67635.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 France recorded its hottest summer since measurements began more than a century ago, the environment minister said on Thursday.

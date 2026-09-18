@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The couple dug their wedding clothes out of the rubble and got ready
   for their big day
 image: https://static.independent.co.uk/2026/09/09/06/Russia_Ukraine_War_Wedding_69456.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Liudmyla Ryzhak spent the eve of her wedding ironing her delicately embroidered dress, laying out a full white tulle skirt beside her husband’s traditionally patterned shirt, before hanging them on the bedroom door.

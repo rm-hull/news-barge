@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:57:10Z'
 published: '2026-09-09T00:00:00Z'
 description: The incident has been referred to the Independent Office for Police Conduct
 image: https://static.independent.co.uk/2026/08/22/11/7d9aa0259ff1ddbebee76a54a4d5eff4Y29udGVudHNlYXJjaGFwaSwxNzg3NDgwMTU1-2.21314937.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An investigation has been launched following a police shooting in Luton on Tuesday afternoon.

@@ -9,6 +9,11 @@ description: From bag checks and "heat maps" that show overcrowding to extra pol
   officers, plus a safe area for women, here are the plans aimed at ensuring people's
   safety at Oktoberfest this year.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20251006__77TX7ZH__v1__MidRes__GermanyFestivalTraditionLifestyle.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- True Crime
 ---
 
 Millions of people flock to Oktoberfest – or *Wiesn* as it's also known – in the Bavarian capital of Munich every year. 

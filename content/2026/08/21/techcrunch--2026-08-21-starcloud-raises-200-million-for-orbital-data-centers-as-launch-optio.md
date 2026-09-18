@@ -8,6 +8,10 @@ scraped_at: '2026-08-21T16:47:34Z'
 published: '2026-08-21T00:00:00Z'
 description: There's about to be a big fight to secure access to space.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 Starcloud, a startup developing satellites that can perform AI inference in orbit, told TechCrunch that it has added a $250 million extension to its March $170 million Series A funding round. The extension values the company at $2.3 billion.

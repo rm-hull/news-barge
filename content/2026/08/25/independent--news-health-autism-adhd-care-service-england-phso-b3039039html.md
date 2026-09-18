@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Children and adults with ADHD and autism face ‘long waiting times, variations
   in access and fragmented care’
 image: https://static.independent.co.uk/2026/02/17/14/20/A-young-boy-with-autism-sits-at-a-table-focused-on-a-colorful-sensory-toy-while-a-nurse-gently-guide.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
 ---
 
 Services for individuals with autism and ADHD are "under significant pressure", with patients "falling through the gaps", a watchdog has warned.

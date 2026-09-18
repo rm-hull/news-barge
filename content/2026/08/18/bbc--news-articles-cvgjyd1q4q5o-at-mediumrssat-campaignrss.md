@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Sheetal Swali and Ketan Swali from Leicester were flying to Caernarfon
   Airport.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3fa/live/8fce5fa0-9bc7-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A man with a beard and sunglasses is seen standing in front of a blue and white plane](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f3fa/live/8fce5fa0-9bc7-11f1-b109-879e35c24276.jpg)

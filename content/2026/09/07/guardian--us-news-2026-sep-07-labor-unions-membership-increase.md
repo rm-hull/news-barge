@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Uptick in US union membership coincides with high public approval ratings
   of unions
 image: https://i.guim.co.uk/img/media/69fcdcc33ee583c501db5791b831dce6bca7e5ce/743_0_7448_5957/master/7448.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dde05fd6d60cd472c5ba4c4001e1127
+categories:
+- UK
+- News & Politics
 ---
 
 After years of decline, union membership in the US increased by 411,000 members in 2025, the largest increase since 2008, according to a new report.

@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: A 90-year-old Bradford woman has been given a lifetime free gym membership
   as a result of her sheer dedication to fitness.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442372.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: T&A)*

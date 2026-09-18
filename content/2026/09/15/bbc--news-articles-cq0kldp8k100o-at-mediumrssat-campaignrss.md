@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Nottingham becomes one of the first cities nationally to take this action,
   its council leader said.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/daaf/live/6c2e5360-b09f-11f1-9e7d-cb2f675dfcb0.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Two men wearing balaclavas stand on a road. There is a lorry in the background across the central reservation](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/daaf/live/6c2e5360-b09f-11f1-9e7d-cb2f675dfcb0.jpg)

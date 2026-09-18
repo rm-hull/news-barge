@@ -9,6 +9,11 @@ description: '"In recent weeks, we made important progress toward improving Cana
   position as having the best deal in the world with the U.S. However, that progress
   has not been enough to meet our objectives for Canadians," Mark Carney said.'
 image: https://images.euronews.com/articles/stories/09/88/44/98/1200x675_cmsv2_6830fe60-f849-538c-ab5a-47a99eb43602-9884498.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## "In recent weeks, we made important progress toward improving Canada’s position as having the best deal in the world with the U.S. However, that progress has not been enough to meet our objectives for Canadians," Mark Carney said.

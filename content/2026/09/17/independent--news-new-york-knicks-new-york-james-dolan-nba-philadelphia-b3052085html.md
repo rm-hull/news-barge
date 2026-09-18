@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The New York Knicks are pausing ticket sales after an error caused them
   to be listed for amounts that were too high
 image: https://static.independent.co.uk/2026/09/17/18/Celtics_George_Basketball_258_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The New York Knicks said Thursday they are pausing ticket sales after an error caused them to be listed for amounts that were too high.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Smith’s wrongdoing was uncovered when an investigation by NHS counter
   fraud officers identified that the devices were missing
 image: https://static.independent.co.uk/2026/08/20/18/EMPLEADOS_VIGILADOS__6966.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A council manager stole iPads and laptops earmarked to help vulnerable people during the Covid-19 pandemic.

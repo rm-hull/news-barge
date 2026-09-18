@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Frances Connolly won £115 million through the National Lottery with her
   husband Paddy back in 2019
 image: https://static.independent.co.uk/2026/09/06/10/01M1TZSFNQ585CC9C4XXGKHDC9.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A National Lottery winner who has given away half of her £115 million jackpot says helping other people is simply part of human nature.

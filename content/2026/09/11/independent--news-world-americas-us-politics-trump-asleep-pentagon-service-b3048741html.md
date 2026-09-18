@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Dozens of people online commented that Trump, 80, looked ‘sleepy’ as
   he was seen slumped in his seat
 image: https://static.independent.co.uk/2026/09/11/14/2294167843..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Viewers watching a livestream of President Donald Trump at the Pentagon 9/11 remembrance ceremony commented that he appeared “tired,” while some accused the commander-in-chief of falling asleep.

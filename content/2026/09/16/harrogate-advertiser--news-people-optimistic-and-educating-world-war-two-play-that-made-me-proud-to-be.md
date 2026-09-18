@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The title of Red Wall Theatre's latest production at COGS (Centre On
   Gracious Street) in Knaresborough suggested a rather sober, if informative, event.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=3:2,smart&trim=&width=896&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # 'Optimistic and educating' World War Two play that made me 'proud to be a Knaresborian'

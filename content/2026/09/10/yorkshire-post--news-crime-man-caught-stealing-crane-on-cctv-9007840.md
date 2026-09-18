@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man from Yorkshire has appeared in court after being caught stealing
   a crane.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/16/23/Your-paragraph-text-2026-09-09T171237-322.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Yorkshire thief caught on CCTV stealing crane from construction site

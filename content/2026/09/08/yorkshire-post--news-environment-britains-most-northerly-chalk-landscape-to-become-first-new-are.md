@@ -9,6 +9,11 @@ description: Much of Britain’s most northerly chalk landscape, beloved of walk
   and artists, is now just a step away from being confirmed as the country’s first
   new area of outstanding natural beauty in 30 years.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVlN2UyNDU2LTE2NTktNGVlNC05ZGZkLTk2NjhjYzM0YjAyYTo1MDFkYzRiYy0yY2IzLTQyMjMtOWQ3Ny1kNTI1ZDQ1NjhlM2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Britain's most northerly chalk landscape to become first new area of outstanding natural beauty in 30 years

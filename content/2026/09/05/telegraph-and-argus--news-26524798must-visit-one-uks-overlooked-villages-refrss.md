@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: I visited the small village of Aylesford, and here's why you need to
   go to one of the UK's most overlooked spots
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406698.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 *(Image: Carlo Simone/Newsquest)*

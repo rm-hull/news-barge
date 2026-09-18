@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Child Benefit payments could stop for parents who fail to extend claims
   by August 31. Find out who qualifies and how to act.
 image: https://www.thenorthernecho.co.uk/resources/images/21208450.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Personal Finance & Investing
 ---
 
 *(Image: HighwayStarz)*

@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: Before you buy the iPhone 18 Pro or iPhone Duo for a lower price overseas,
   there are several things you should be aware of.
 image: https://cdn.mos.cms.futurecdn.net/9jtZqsffXkkJxVCgy42peQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iPhone 18 Pro alongside the iPhone Duo on a yellow background](https://cdn.mos.cms.futurecdn.net/9jtZqsffXkkJxVCgy42peQ.jpg) 

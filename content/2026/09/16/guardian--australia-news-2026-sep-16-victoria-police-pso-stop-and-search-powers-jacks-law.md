@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Premier Ben Carroll adopts Coalition’s stance on Jack’s Law, which gives
   police and PSOs power to randomly search people for knives with metal detectors
 image: https://i.guim.co.uk/img/media/4f256cc323e1022de2a718ddccf283e8213d8aa3/266_0_5547_4438/master/5547.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4892c5c0be54224d3a0328fab72effe5
+categories:
+- UK
+- News & Politics
 ---
 
 The Victorian premier has made another policy backflip, announcing a re-elected Labor government would give police and protective services officers the power to stop and search people for knives using handheld metal detectors – despite experts warning of a lack of evidence that the measure reduces violent crime.

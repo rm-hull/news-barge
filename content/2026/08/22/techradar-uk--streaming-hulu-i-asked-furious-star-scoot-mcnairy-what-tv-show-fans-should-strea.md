@@ -10,6 +10,9 @@ description: Furious is the thrilling crime drama on Hulu and Disney+ that I can
   stop watching. But after speaking to star Scoot McNairy, I'm doubting what fits
   as a double bill.
 image: https://cdn.mos.cms.futurecdn.net/nCx5gTxSTW6A8VMUJZ76j-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Danny walks in front of a car while getting something out of his inside jacket pocket](https://cdn.mos.cms.futurecdn.net/nCx5gTxSTW6A8VMUJZ76j.jpg) 

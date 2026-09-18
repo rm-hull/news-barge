@@ -9,6 +9,9 @@ description: Steven Strogatz coauthored a book about how math is moving beyond h
   understanding. He spoke with WIRED about the seismic impact artificial intelligence
   has had on his life’s work.
 image: https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Mathematician and author Steven Strogatz starts to cry when he talks about the artificial-intelligence-driven breakthroughs in his field over the past week.

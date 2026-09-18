@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: AI adoption is accelerating faster than most organizations can govern
   it
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

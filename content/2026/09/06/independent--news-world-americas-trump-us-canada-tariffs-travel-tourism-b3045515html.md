@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: The number of Canadians traveling to the United States plunged after
   President Donald Trump suggested making Canada the 51st state
 image: https://static.independent.co.uk/2026/09/06/12/New_York_Daily_Life__6564.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Over the past year, Josh Loewen could hardly escape the charm offensive from American tourism organizations. Across billboards, banners, and digital platforms, US states and cities declared their fondness for Canada, promising tailored discounts to entice travelers from north of the border.

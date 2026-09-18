@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Hundreds of people gathered at the 16th Street Baptist Church in Birmingham,
   Alabama, to mark the 63rd anniversary of the 1963 bombing
 image: https://static.independent.co.uk/2026/09/15/21/Church_Bombing_Anniversary_153_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Sixty-three years ago, dynamite planted by Ku Klux Klan members exploded through the 16th Street Baptist Church in Birmingham, Alabama, killing four girls as they prepared for Sunday services.

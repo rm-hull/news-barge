@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: PEOPLE taking four or more medications are being encouraged to attend
   drop-in events during Falls Awareness Week.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19515582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Freelance)*

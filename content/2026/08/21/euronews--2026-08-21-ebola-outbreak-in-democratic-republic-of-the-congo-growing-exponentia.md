@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Ebola outbreak is already the biggest in the country's history and
   is spreading faster than any outbreak on record.
 image: https://images.euronews.com/articles/stories/09/88/35/75/1200x675_cmsv2_82688450-3ee6-50a3-898e-91f4893640e1-9883575.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Ebola outbreak is already the biggest in the country's history and is spreading faster than any outbreak on record.

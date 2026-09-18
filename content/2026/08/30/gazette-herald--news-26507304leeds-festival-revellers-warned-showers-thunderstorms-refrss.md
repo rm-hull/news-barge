@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: Leeds Festival, taking place at Bramham Park in Wetherby until Monday
   (August 31), is set to see scattered showers starting in Scotland moving…
 image: https://www.gazetteherald.co.uk/resources/images/21389170.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Music
 ---
 
 REVELLERS at one of Yorkshire's largest music festivals will face a mix of sunshine, showers, along with potential hail and thunder today, the Met Office said.

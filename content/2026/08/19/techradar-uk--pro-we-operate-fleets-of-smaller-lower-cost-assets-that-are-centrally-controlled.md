@@ -9,6 +9,9 @@ scraped_at: '2026-08-19T21:32:14Z'
 published: '2026-08-19T00:00:00Z'
 description: XOCEAN is changing the way ocean data is delivered
 image: https://cdn.mos.cms.futurecdn.net/dfXu7aVULuKZNBiyL2g6fG-2393-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A pair of Uncrewed Surface Vessels undergoing maintenance by engineers at XOCEAN's Rathcor Tech Centre](https://cdn.mos.cms.futurecdn.net/dfXu7aVULuKZNBiyL2g6fG.jpg) 

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Logitech MX Master 3S is our favorite wireless mouse for work, packing
   quiet clicks, MagSpeed scrolling and extensive customization.
 image: https://cdn.mos.cms.futurecdn.net/DbxcofrbpbBmvFHvUaprhj-1920-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![The Logitech MX Master 3S wireless mouse on a white table](https://cdn.mos.cms.futurecdn.net/DbxcofrbpbBmvFHvUaprhj.jpg) 

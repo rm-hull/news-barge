@@ -7,6 +7,10 @@ scraped_at: '2026-09-12T15:29:20Z'
 published: '2026-09-12T00:00:00Z'
 description: The biggest El Nino effect in the Atlantic is record-strong wind shear
 image: https://static.independent.co.uk/2026/09/12/14/Climate_No_Hurricanes_79663.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Atlantic Ocean is experiencing an unprecedented lull this hurricane season, driven by a powerful El Nino event that is suppressing storm development. Data from the National Hurricane Center shows that no hurricanes have developed so far this year, nor are any expected to emerge over the coming week, despite this period typically representing the height of seasonal activity. To date, only five brief, minor tropical storms have been recorded.

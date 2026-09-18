@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: More than a dozen ex-players are suing the University of Michigan, alleging
   coach and staff were aware of abuse
 image: https://i.guim.co.uk/img/media/c4817a03a4a37804c385c72f1abcdb41466eb295/465_0_1406_1125/master/1406.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55f1ae925caf86bc6757667d191a9733
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 More than a dozen former hockey players are suing the University of Michigan, alleging their coach and other staff were aware of sexual hazing that included the forced shaving of their genitals and other abuse by teammates decades ago.

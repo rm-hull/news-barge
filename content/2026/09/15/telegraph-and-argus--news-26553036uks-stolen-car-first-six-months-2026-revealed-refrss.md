@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T19:40:36Z'
 published: '2026-09-15T00:00:00Z'
 description: The UK's most stolen car this year has been revealed in new data.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20471794.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

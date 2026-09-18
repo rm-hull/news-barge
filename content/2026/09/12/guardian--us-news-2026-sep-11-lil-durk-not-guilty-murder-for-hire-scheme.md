@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Prosecutors accused musician, born Durk Banks, of putting bounty on fellow
   rapper in retaliation for friend’s killing
 image: https://i.guim.co.uk/img/media/1cf695e9e0ab14072ffd6995fb3a7022ecab68c7/371_0_3680_2944/master/3680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6606fbefaf31c5ab5fdb8bbc790d29de
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Chicago rapper Lil Durk has been acquitted of all charges in a murder-for-hire scheme, in which a man was fatally gunned down in 2022.

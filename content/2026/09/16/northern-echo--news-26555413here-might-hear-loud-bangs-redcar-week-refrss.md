@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Redcar Bulk Terminal (RBT) has notified residents of upcoming controlled
   explosive demolition works as part of the project to remove the…
 image: https://www.thenorthernecho.co.uk/resources/images/21462920.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: PROVIDED)*

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Students required to disclose information if they wish to make up swimming
   days lost because of their periods
 image: https://i.guim.co.uk/img/media/7db5f158aa997ba3dcf0cf0f7417119cb45b0fa9/90_0_1430_1144/master/1430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=759be9aa99506c396ec12675b2d58844
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 A Michigan high school is facing scrutiny after parents raised concerns over a gym class policy requiring female students to disclose information about their menstrual cycles if they want to make up swimming days missed because of their periods.

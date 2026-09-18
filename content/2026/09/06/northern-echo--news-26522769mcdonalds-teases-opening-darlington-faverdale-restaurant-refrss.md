@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: McDonald’s has teased that its highly anticipated new Darlington restaurant
   will be opening soon, following a series of setbacks.
 image: https://www.thenorthernecho.co.uk/resources/images/21411628.jpg?type=og-image&xType=0&yType=130
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: THE NORTHERN ECHO)*

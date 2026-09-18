@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Intense fires are already burning in Indonesia, and there could be much
   worse to come as the Super El Niño ramps up
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg
+categories:
+- Science
+- Technology & Software
+- Society & Culture
 ---
 
 ![firefighters work to extinguish a land fire in South Sumatra, Indonesia](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309008119.jpg?w=840)

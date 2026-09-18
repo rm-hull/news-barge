@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T14:59:26Z'
 published: '2026-09-14T00:00:00Z'
 description: Roy Burnham was living with Alzheimer’s in a care home
 image: https://static.independent.co.uk/2026/09/14/09/25cb4686c7bd248260ae54dc7e56e977Y29udGVudHNlYXJjaGFwaSwxNzg5NDYxMDE5-2.85793891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Prime minister Andy Burnham has cancelled all of his engagements on Monday and Tuesday following the death of his father, who was suffering from Alzheimer’s, *The Independent* understands. 

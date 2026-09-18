@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: With the additions, the app is borrowing features from messaging apps
   as it looks to deepen engagement on its platform.
 image: https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795
+categories:
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 TikTok’s comment sections are getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-10T19:07:09Z'
 published: '2026-09-10T00:00:00Z'
 description: Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdf5/live/7015bd10-ad39-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A group of people in black clothing wearing black balaclavas. A number of police officers are in the crowd.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/e6b9/live/b9936e00-aba0-11f1-aed2-8d6da8d75094.jpg)

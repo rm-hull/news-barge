@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Advocate says homeless clearances should be halted after man is hospitalised
   during confrontation in Brisbane park
 image: https://i.guim.co.uk/img/media/c2a7f8cfb3d03b216e2ae2e55a56a385f0e8ea87/660_0_4515_3612/master/4515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d07c50d5ca8ad3e291977ebdd52c00e
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A homeless man was shot with a Taser by police after attempting to take his own life during a tent city clearance, sparking calls for mental health considerations when dealing with move-on orders amid Queensland’s homelessness crisis.

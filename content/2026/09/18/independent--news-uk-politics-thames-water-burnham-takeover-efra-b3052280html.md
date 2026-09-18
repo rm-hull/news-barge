@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The rescue plan by creditors is seen as the final realistic option to
   avoid Thames Water being placed into a special administration regime
 image: https://static.independent.co.uk/2026/08/13/14/01KZX3SMKP5VSRT9NW98HYZ085.jpg?trim=0,91,0,91&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Thames Water’s rescue deal by lenders should be rejected, and the government should take it back into public control, according to an influential group of MPs.

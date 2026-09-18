@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: An Olympic medallist cut the ribbon to open a new gymnastics centre in
   Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21427580.jpg?type=og-image&xType=0&yType=59
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 AN Olympic medallist cut the ribbon to open a new gymnastics centre in Bradford.

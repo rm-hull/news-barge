@@ -9,6 +9,10 @@ description: Two former U.S. Navy sailors who sold fentanyl to San Diego-based s
   members, including one who suffered a fatal overdose, pleaded guilty today to federal
   charges
 image: https://static.the-independent.com/2026/09/15/15/2293753184..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Two former U.S. Navy sailors who are married have admitted to federal drug charges after selling counterfeit oxycodone tablets laced with fentanyl to military personnel in San Diego, leading to a fatal overdose.

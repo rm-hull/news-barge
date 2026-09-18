@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: A string of claims brought by the Duke of Sussex and six other celebrities
   were dismissed by a High Court judge
 image: https://static.independent.co.uk/2026/08/20/07/2026-08-19T225250Z_194887265_RC2IG9ANP7TK_RTRMADP_3_BRITAIN-ROYALS-HARRY-AND-MEGHAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Prince Harry will on Friday find out the cost of his failed legal claims against the publisher of the *Daily Mail*, as he and Meghan Markle prepare to return to the UK. 

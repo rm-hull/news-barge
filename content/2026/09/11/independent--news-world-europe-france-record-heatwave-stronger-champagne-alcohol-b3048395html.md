@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: French authorities have made a one-off exemption to allow alcohol content
   to increase to 15 per cent
 image: https://static.independent.co.uk/2026/09/11/08/2026-09-09T124237Z_1864571016_RC28YMAQZO6G_RTRMADP_3_FRANCE-CHAMPAGNE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Champagne from this summer may leave you with a worse hangover and a lingering headache - as record heatwaves have forced some producers to increase their alcohol content.

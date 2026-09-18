@@ -12,6 +12,12 @@ description: According to our Prime Minister, the plan to dump 1,200 illegal mig
   the former RAF base on their doorsteps turned into one of the country’s biggest
   detention centres for asylum seekers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY2MmUzMWRmLTBiYTMtNDcyMS04NzQ5LTM1YjBmMmU1ZjllYzpkMzkwOTk2My1iNjk5LTQ2NWItYmYyYy0xYzNkMzdiZDhiMzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # There is nothing fair about the plan to dump illegal migrants on Linton-on-Ouse - Andrew Vine

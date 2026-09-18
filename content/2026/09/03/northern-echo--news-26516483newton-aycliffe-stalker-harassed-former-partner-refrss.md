@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Newton Aycliffe stalker who repeatedly harassed his former partner
   has avoided an immediate jail sentence.
 image: https://www.thenorthernecho.co.uk/resources/images/19950741.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

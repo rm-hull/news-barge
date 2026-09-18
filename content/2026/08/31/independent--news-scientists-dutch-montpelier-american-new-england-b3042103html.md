@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: A group of 6,000 young American elms in Vermont could help save one of
   the country’s most iconic trees
 image: https://static.independent.co.uk/2026/08/31/12/Bringing_Back_The_Elm_1777_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The very disease that has decimated millions of American elms in the U.S. is now being used to bring the iconic trees back.

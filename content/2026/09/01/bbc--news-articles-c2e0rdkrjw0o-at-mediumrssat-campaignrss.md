@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The prime minister's first appearance in Parliament comes more than six
   weeks after he entered No 10.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f25b/live/0b7bb550-a62a-11f1-905b-8511af748865.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Andy Burnham leaving 10 Downing Street](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f25b/live/0b7bb550-a62a-11f1-905b-8511af748865.jpg)

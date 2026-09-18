@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Drivers in Darlington face five roadwork restrictions, including closures
   and traffic controls, on September 16, including Kendal Close and Stanhope…
 image: https://www.thenorthernecho.co.uk/resources/images/21456803.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: GOOGLE)*

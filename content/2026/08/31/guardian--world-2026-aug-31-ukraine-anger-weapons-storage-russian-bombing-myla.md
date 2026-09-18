@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: As Russia hits another ammunition warehouse, killing at least 38, locals
   put blame on poorly placed depots
 image: https://i.guim.co.uk/img/media/3815729d87b8e697ebb9a9fff298f6ff3bd4cc13/350_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=709ff2f5ab89de3d290ee07fcd71038b
+categories:
+- UK
+- News & Politics
 ---
 
 It is a day and a half since a Russian jet-powered drone smashed into an ammunition dump in Myla, a village 15 miles outside central Kyiv. Volodymyr, 61, a security guard, leads visitors from his family’s badly damaged home, its roof blown off, back windows shattered, through the garden towards the impact site 300 metres away.

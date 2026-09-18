@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: DUP education minister accused of dragging feet before revising guidelines
   that also apply to PE and games
 image: https://i.guim.co.uk/img/media/3eb126df3a555f8d3f591fd0ea5db958f70746d8/342_0_4173_3341/master/4173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4bfed641e0f33efcf61dbee65e84ac9
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Schools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for PE and games, according to revised guidelines.

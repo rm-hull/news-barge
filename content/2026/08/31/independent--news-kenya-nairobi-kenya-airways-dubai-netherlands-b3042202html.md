@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A workers’ strike has slowed air traffic at Kenya’s main airport in Nairobi,
   leaving many stranded after their flights were delayed or canceled
 image: https://static.independent.co.uk/2026/08/31/15/Kenya_Airport_Strike__8986.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A workers’ strike has slowed down air traffic at Kenya’s main airport in Nairobi, leaving many travelers stranded after their flights were delayed or canceled.

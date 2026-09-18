@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The execution of Daniel Owen Conahan Jr makes him the state’s 15th person
   executed this year
 image: https://i.guim.co.uk/img/media/437accbd84bd0913ac5123d2a1312d6c7f41c023/493_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0d59794d486be8fdf49c45d91732eb7
+categories:
+- UK
+- News & Politics
 ---
 
 A Florida man was executed by lethal injection on Thursday after being convicted of one of a series of suspected killings that became known as the Hog Trail Murders in the 1990s.

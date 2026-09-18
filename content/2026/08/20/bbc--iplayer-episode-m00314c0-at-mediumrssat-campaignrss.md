@@ -9,6 +9,10 @@ description: Six years after stepping back as senior royals and moving to Califo
   Harry and Meghan announced a return to the UK. The BBC's Noor Nanji looks at why
   and what next for the royal family.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p5j5qr.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 # BBC News - Harry & Meghan: Why Are They Moving Back?

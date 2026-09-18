@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: As the Financial Conduct Authority (FCA) considers an industry-wide motor
   finance redress scheme, consumer experts say many drivers may not realise…
 image: https://www.thenorthernecho.co.uk/resources/images/21279344.jpg?type=og-image&xType=0&yType=32
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

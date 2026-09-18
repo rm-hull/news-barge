@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:11Z'
 published: '2026-08-18T00:00:00Z'
 description: The police incident led to delays on several services on Tuesday afternoon
 image: https://static.independent.co.uk/2026/08/18/16/16/HQA62ibWkAADxmQ-3ffd7c50.jpeg?trim=108,192,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The controlled explosion of an unattended car outside a major London train station led to passengers being evacuated and services including the Eurostar being delayed.

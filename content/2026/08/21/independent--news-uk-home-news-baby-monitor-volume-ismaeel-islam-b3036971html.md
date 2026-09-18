@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T13:06:09Z'
 published: '2026-08-21T00:00:00Z'
 description: Ismaeel Islam died at the Royal London Hospital on March 7, 2025
 image: https://static.independent.co.uk/2026/08/21/11/33/iStock-1190247660-817e8308.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A coroner has suggested baby monitors should have their volume 'locked' to a loud setting after a baby with Down's Syndrome tragically died because his monitor was turned down too low to hear.

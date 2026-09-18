@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: ANCIENT wildfires near the South Pole once shaped a prehistoric rainforest
   into the earliest known peat bog.
 image: https://www.thenorthernecho.co.uk/resources/images/21441542.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

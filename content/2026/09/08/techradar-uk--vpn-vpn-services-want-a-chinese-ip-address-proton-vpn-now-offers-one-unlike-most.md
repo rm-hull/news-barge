@@ -8,6 +8,8 @@ published: '2026-09-08T00:00:00Z'
 description: The new Smart Routing location is built for reaching Chinese content
   from abroad, not for beating the Great Firewall from inside the country
 image: https://cdn.mos.cms.futurecdn.net/Nmt4tsxFDTshS8xwXYame5-1279-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Proton VPN in use on a smartphone](https://cdn.mos.cms.futurecdn.net/Nmt4tsxFDTshS8xwXYame5.jpg) 

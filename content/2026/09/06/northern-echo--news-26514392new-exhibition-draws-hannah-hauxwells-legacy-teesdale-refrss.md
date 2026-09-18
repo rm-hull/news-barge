@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: IT is exactly 100 years since Hannah Hauxwell was born in the remotest
   corner of Teesdale into a rural way of life that even back then was fast…
 image: https://www.thenorthernecho.co.uk/resources/images/21399946.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 IT is exactly 100 years since Hannah Hauxwell was born in the remotest corner of Teesdale into a rural way of life that even back then was fast fading out.

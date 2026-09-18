@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Why hasn’t evolution reintroduced gills in the land-based mammals that
   returned to the sea? And what is the fastest way to empty a full jug of water?
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309394861.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Atlantic Grey Seal](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309394861.jpg?w=840)

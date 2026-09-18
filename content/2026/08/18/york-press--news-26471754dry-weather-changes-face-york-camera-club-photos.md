@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Prolonged dry weather is taking its toll on York and its landmarks with
   parched grass, low water levels and dusty paths transforming familiar views.
 image: https://www.yorkpress.co.uk/resources/images/21331569.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Dry weather changes the face of York and its landmarks - in pictures

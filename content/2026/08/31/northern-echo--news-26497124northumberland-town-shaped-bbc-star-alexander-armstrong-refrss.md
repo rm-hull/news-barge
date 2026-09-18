@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Alexander Armstrong has become one of Britain’s most recognisable television
   personalities - but long before Pointless, he was shaped by childhood…
 image: https://www.thenorthernecho.co.uk/resources/images/21086743.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: John Rose)*

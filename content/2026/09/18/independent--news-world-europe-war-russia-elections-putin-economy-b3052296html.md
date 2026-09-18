@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:00Z'
 published: '2026-09-18T00:00:00Z'
 description: The frictions in Russia’s wartime economy are growing
 image: https://static.independent.co.uk/2026/09/18/05/Russia_Election_Economy_44513.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Mounting defence expenditure is widening Russia’s budget deficit and increasing strain across its wartime economy, as business and consumer sentiment weakens and economic growth slows.

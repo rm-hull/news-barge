@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A much-loved Halifax arts centre - subject of a sustained campaign to
   re-open it for the public again - is being marketed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383073.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
 ---
 
 A much-loved Halifax arts centre – subject of a sustained campaign to re-open it for the public again – is being marketed.

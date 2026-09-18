@@ -10,6 +10,9 @@ description: Pezeshkian's words of defiance came as Iran's deputy foreign minist
   an escalation of Tehran's demands that drew opposition from Washington, which has
   previously threatened to bomb Oman if it "gets in the way".
 image: https://images.euronews.com/articles/stories/09/88/97/23/1200x675_cmsv2_5b3b4268-18af-598e-8c7f-4944f37142c0-9889723.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Pezeshkian's words of defiance came as Iran's deputy foreign minister said a deal with Oman would bar all military vessels from the Strait of Hormuz in an escalation of Tehran's demands that drew opposition from Washington, which has previously threatened to bomb Oman if it "gets in the way".

@@ -9,6 +9,11 @@ description: After putting months of effort into his search for an unlimited con
   apartment in Berlin, The Local Germany's Paul Krantz has since spoken to experts
   and come to understand that his approach was all wrong.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-601614629.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
 ---
 
 In a bit more than the five years I lived in Berlin I moved five times.

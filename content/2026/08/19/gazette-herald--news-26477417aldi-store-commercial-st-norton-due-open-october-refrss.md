@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T13:10:05Z'
 published: '2026-08-19T00:00:00Z'
 description: A new supermarket is to open in a North Yorkshire town this autumn.
 image: https://www.gazetteherald.co.uk/resources/images/19413230.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Agency)*

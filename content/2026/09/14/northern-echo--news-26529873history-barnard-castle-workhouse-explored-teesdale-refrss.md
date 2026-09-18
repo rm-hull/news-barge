@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: IN July, we told how the Ripon Workhouse Museum had reopened after a
   £2.8m refurbishment, led by the National Lottery funding, which has allowed…
 image: https://www.thenorthernecho.co.uk/resources/images/21228515.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 IN July, we told how the Ripon Workhouse Museum had reopened after a £2.8m refurbishment, led by the National Lottery funding, which has allowed the former council offices to be transformed into a thought-provoking visitor attraction.

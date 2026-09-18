@@ -10,6 +10,9 @@ description: Parliament speaker Ghalibaf said the waterway would remain closed u
   oil sanctions, as an unidentified projectile hit a ship transiting the strait, causing
   at least one casualty.
 image: https://images.euronews.com/articles/stories/09/87/80/73/1200x675_cmsv2_d1940213-5c79-568e-a9aa-04a482c12687-9878073.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Parliament speaker Ghalibaf said the waterway would remain closed until Washington lifted its naval blockade, released frozen Iranian assets and dropped oil sanctions, as an unidentified projectile hit a ship transiting the strait, causing at least one casualty.

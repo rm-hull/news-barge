@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Across the country and up and down ballots, candidates from both parties
   are increasingly on the attack over Flock cameras
 image: https://static.independent.co.uk/2026/09/04/11/2293244734..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Candidates from both parties are increasingly targeting Flock cameras, an AI-powered network of scanners that records license plates and vehicle information for police to search and share.

@@ -8,6 +8,8 @@ published: '2026-08-27T00:00:00Z'
 description: 'The privacy-focused VPN has answered its most frequent user request:
   expanding to Windows 10 and 11'
 image: https://cdn.mos.cms.futurecdn.net/SRwdcQpKdTvViaipXCkz9g-2560-80.png
+categories:
+- Technology & Software
 ---
 
 ![Obscura VPN Windows app, promo image](https://cdn.mos.cms.futurecdn.net/SRwdcQpKdTvViaipXCkz9g.png) 

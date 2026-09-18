@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T20:43:00Z'
 published: '2026-08-24T00:00:00Z'
 description: The 33-year-old was previously described as someone who was ‘not a fighter’
 image: https://static.independent.co.uk/2026/08/24/16/23/bradley-townsend.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A British man has died fighting for Russia after being killed in a drone attack in Ukraine, according to a report.

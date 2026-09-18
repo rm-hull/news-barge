@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: John Thomas Howard, 31, of Shildon, was banned from driving for six months
   after being found guilty at Peterlee Magistrates’ Court of failing to…
 image: https://www.thenorthernecho.co.uk/resources/images/20185751.jpg?type=og-image&xType=0&yType=309
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Newsquest)*

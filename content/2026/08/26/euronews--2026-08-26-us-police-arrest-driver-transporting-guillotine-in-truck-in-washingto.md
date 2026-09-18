@@ -9,6 +9,10 @@ description: '"The suspect drove here from California," US Capitol Police said i
   a statement, adding that investigators were looking into the man''s background to
   try to understand his motives for arriving in the city.'
 image: https://images.euronews.com/articles/stories/09/89/04/53/1200x675_cmsv2_f8db13c9-ab38-5edb-a3d1-a2306563164a-9890453.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## "The suspect drove here from California," US Capitol Police said in a statement, adding that investigators were looking into the man's background to try to understand his motives for arriving in the city.

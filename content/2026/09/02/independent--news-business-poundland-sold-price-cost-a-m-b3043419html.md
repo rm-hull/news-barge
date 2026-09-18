@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:33Z'
 published: '2026-09-02T00:00:00Z'
 description: A&M formally initiated the sale process on Wednesday
 image: https://static.independent.co.uk/2025/06/12/09/f08686c60dcdf534f84091796996958bY29udGVudHNlYXJjaGFwaSwxNzQ5ODAwOTQ0-2.33013969.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Poundland’s owner has put the discount retailer up for sale, with hopes of securing a deal within weeks.

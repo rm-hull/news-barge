@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:09:44Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/White-Park-cattle.-Photo-by-Nick-Howard-4.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Castle Howard has reached a major milestone in their 30-year Bog Hall Habitat Bank nature restoration project – by introducing a herd of rare White Park Cattle to the newly sown meadows areas.

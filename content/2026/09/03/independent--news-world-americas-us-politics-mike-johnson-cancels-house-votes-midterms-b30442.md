@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The House will only work four days before the midterm elections after
   it took a month-long recess — on the heels of the summer break
 image: https://static.independent.co.uk/2026/09/03/10/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The House of Representatives abruptly canceled the final two weeks of votes for September, effectively giving the Speaker Mike Johnson-led body four days of work before the midterm elections and not being in session during August.

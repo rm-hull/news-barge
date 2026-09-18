@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Scammers set up a monthly subscription of £60 from Les Howard's account
   after he downloaded an app.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Les Howard, who is wearing a white polo shirt, is starring directly at the camera and is smiling. There is a city skyline in the background.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/580f/live/a3bddc80-9ca2-11f1-a5a0-114ca9d4a1bc.jpg)

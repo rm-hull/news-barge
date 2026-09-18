@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A rare Suffragette Christmas card dating back to 1910 has been discovered
   in Mold, Flintshire, at a vintage roadshow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e132/live/a883ddf0-9c7f-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A Suffragette Christmas card dating from approximately 1910. It reads 'to vote you have a right and may they all get them'. The centre of the card reads 'woman's rights', with 'royal time this xmas' above it.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e520/live/248be190-9c80-11f1-b109-879e35c24276.jpg)

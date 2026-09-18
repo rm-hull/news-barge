@@ -9,6 +9,9 @@ description: Given 10 benchmarks for specific misaligned behaviors, the automate
   systems were able to improve performance on every single one without degrading overall
   performance.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Training AI models with other AI models has become a very popular goal for neolabs — and now, a researcher in Anthropic’s fellows program has given us an early look at what it might look like in practice.

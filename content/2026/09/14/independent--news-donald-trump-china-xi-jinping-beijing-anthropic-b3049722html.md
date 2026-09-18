@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: China’s Ministry of Foreign Affairs has hit back at a call from the head
   of Anthropic for the U.S. to curb China’s artificial intelligence capabilities
 image: https://static.independent.co.uk/2026/09/14/10/China_Anthropic_AI_75_95.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 China's Ministry of Foreign Affairs on Monday hit back at a call from the head of Anthropic for the U.S. to curb China's artificial intelligence capabilities, which he issued as he argued for a global slowdown on AI development.

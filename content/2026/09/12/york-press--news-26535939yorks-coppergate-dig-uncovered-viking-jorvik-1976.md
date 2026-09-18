@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: York's Coppergate Dig unearthed more than 40,000 artefacts and a lost
   Viking city. Fifty years on, its discoveries are still revealing new…
 image: https://www.yorkpress.co.uk/resources/images/21431133.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 ## City-centre building site unearthed York's lost Viking city - and stunned the world

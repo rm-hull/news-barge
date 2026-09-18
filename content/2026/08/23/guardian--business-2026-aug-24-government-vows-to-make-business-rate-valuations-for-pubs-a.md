@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Review will look at improving system for English and Welsh hospitality
   venues before next revaluation date in 2029
 image: https://i.guim.co.uk/img/media/707eeeda8d7e7c7179d0f1a1bcd532cf91b8934a/371_0_3096_2479/master/3096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dc5b537c0c7d7c02849f670deef2e3d
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The government has promised that business rate valuations will be “made fairer” for pubs and hotels in England and Wales, as Andy Burnham faces growing calls to help the UK’s struggling hospitality sector.

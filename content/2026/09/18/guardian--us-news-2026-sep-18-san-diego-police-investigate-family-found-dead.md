@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Navy veteran David Voight, his wife, Amy, and their child were found
   dead as relatives report Voight was suffering from PTSD
 image: https://i.guim.co.uk/img/media/7e28286f905cce424ff01fb3d938d346deefe8d8/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a3caa7e7a28a764fda9adc43156233f
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Authorities are investigating what led to the tragic case of a family who was found fatally shot in their San Diego area home on Wednesday morning.

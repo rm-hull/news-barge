@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A former soldier who admitted burning down Sharon Hodgson, Labour MP
   for Washington and Gateshead South, has been made subject to an interim…
 image: https://www.thenorthernecho.co.uk/resources/images/21472054.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A former soldier who admitted burning down an MP’s constituency office has been made subject to an interim hospital order ahead of his sentencing.

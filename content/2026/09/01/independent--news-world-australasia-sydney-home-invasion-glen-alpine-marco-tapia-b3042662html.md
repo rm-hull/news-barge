@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Police say they are investigating social media post by underworld figure
   apparently referring to shooting
 image: https://static.independent.co.uk/2026/09/01/12/12/1783921147467.jpeg?trim=531,0,532,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 A 23-year-old university student was killed after armed intruders entered his family home in Sydney, in what police are now calling a “targeted attack”.

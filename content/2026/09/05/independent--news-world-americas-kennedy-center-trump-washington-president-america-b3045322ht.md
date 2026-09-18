@@ -10,6 +10,10 @@ description: A spokesperson for the Kennedy Center is blaming “decades of negl
   for causing part of the ceiling to collapse in the performing arts venue's grand
   foyer
 image: https://static.independent.co.uk/2026/09/05/18/Kennedy_Center_Sculpture_85551.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A chunk of ceiling fell inside a main hallway of the Kennedy Center, according to a spokesperson who said the damage underscores the need to shut down the historic arts venue for renovations sought by President Donald Trump.

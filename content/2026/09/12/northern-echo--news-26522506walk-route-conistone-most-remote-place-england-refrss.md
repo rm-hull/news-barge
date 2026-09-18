@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Riggs Moor, on the National Park/Nidderdale border is a remote spot,
   possibly the most remote in England.
 image: https://www.thenorthernecho.co.uk/resources/images/21402965.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Riggs Moor, on the National Park/Nidderdale border is a remote spot, possibly the most remote in England. However the tracks in are excellent, full of interest (both historical and geographical) and once there you do feel that you are somewhere special.

@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Hundreds of young people across Tees Valley who are not in education,
   employment or training are being offered a fresh opportunity to get their…
 image: https://www.thenorthernecho.co.uk/resources/images/21374322.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Hundreds of young people across Tees Valley who are not in education, employment or training are being offered a fresh opportunity to get their careers back on track as a successful support programme returns for a second year.

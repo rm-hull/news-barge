@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: As he publishes his autobiography, Sir Paul Smith takes BBC News on a
   tour of his London headquarters.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03fb/live/4c340780-aaa5-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 ![British fashion designer Paul Smith is pictured in a replica of his design studio as he launches an exhibition entitled "Hello, My Name is Paul Smith" at the Design Museum in London, on November 14, 2013](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/03fb/live/4c340780-aaa5-11f1-aed2-8d6da8d75094.jpg)

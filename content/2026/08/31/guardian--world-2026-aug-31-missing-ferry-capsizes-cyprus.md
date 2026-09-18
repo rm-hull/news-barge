@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Divers join search teams scouring deep waters for any survivors, with
   eight people so far confirmed to have died
 image: https://i.guim.co.uk/img/media/17f1bf6fd9f92e99b5cd07c6abb4422c0b20680e/581_93_6764_5411/master/6764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbaaa2039c8b8827201a3a78c6067cca
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Nearly 20 people are still missing after a ferry capsized off northern Cyprus, killing at least eight, as divers join search teams scouring deep waters for any survivors.

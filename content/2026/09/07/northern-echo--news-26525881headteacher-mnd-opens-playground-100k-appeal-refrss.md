@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A MUCH-LOVED headteacher with Motor Neurone Disease has unveiled a new
   playground as her “special legacy” following an appeal that topped…
 image: https://www.thenorthernecho.co.uk/resources/images/21416349.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Video Gaming
 ---
 
 A much-loved headteacher with Motor Neurone Disease has unveiled a new playground as her “special legacy” following an appeal that topped £100,000.

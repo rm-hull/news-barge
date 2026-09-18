@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Lindsay Clancy has admitted killing her daughter and two sons but has
   pleaded not guilty to murder, saying she was experiencing postpartum psychosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- True Crime
 ---
 
 ![Lindsay Clancy in court. Long brown hair hangs down her back as she sits wearing a pale blue shirt.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c217/live/f1ad3a40-9b1b-11f1-a8a4-83462463c9fa.jpg)

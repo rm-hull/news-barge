@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Are you looking for an independent school where academic ambition, sporting
   success and creative excellence thrive side by side?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440912.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Arts & Culture
 ---
 
 Brought to you by

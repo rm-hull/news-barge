@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: WHENEVER an MP is elected, they thank their constituents for their votes
   and say it is the greatest honour of their life to represent this, the…
 image: https://www.thenorthernecho.co.uk/resources/images/21081106.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: PA MEDIA)*

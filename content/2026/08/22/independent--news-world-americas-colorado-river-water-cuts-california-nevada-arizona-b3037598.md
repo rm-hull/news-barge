@@ -10,6 +10,10 @@ description: The Colorado River Basin saw the worst snowpack on record last wint
   heightening pressure on agriculture, commercial industry, ecological habitats, and
   hydroelectric producers
 image: https://static.independent.co.uk/2026/08/17/11/2288627153..?trim=116,0,116,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Federal authorities on Friday announced significant water restrictions over the next two years for three Western states that rely heavily on the endangered Colorado River.

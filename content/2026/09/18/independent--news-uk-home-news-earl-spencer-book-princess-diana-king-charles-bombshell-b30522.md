@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Buckingham Palace said ‘grief can cloud reason’ in the run-up to the
   publication of Earl Spencer’s highly anticipated memoir about Princess Diana
 image: https://static.independent.co.uk/2026/08/18/13/e54031af84cac0bbf77f0dec2d01c86aY29udGVudHNlYXJjaGFwaSwxNzg3MTM5MTAz-2.77523354.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Earl Spencer’s book about Princess Diana has shocked the nation before it has even hit shelves.

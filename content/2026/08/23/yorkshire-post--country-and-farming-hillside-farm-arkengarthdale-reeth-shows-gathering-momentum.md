@@ -9,6 +9,11 @@ description: In good hands for the future. That’s the feeling of Arkengarthdal
   Doug Barningham, chairman of Reeth Show that takes place on August Bank Holiday
   Monday 31 August.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAyZGJmZjgyLTMzMzctNGQ3ZS1iYWFhLTM5YmEzZWU5M2RjZjo2OTliZWVjMS00N2YxLTRjYjQtOTE4MS04MTZjOTk5MTcwYzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Hillside Farm, Arkengarthdale: Reeth Show's gathering momentum

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A new horror bookshop is set to open its doors in a historic York building
   overlooking a graveyard – right in time for Halloween!
 image: https://www.yorkpress.co.uk/resources/images/21381391.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Horror bookshop set to open in Grade I listed York building overlooking graveyard

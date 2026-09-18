@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Concerns about breast cancer services at the County Durham and Darlington
   NHS Foundation Trust stretch back years before the ongoing scandal…
 image: https://www.thenorthernecho.co.uk/resources/images/21012282.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SUBMIT)*

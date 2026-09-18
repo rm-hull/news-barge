@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Nazir Afzal to focus in review’s first stage on support given to professor
   in immediate period before his death
 image: https://i.guim.co.uk/img/media/022a66c10ab453461e34be14bb36615b41ef13ca/0_79_4702_3761/master/4702.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a98d00c754ee01768ddf0f31d7bb49b
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 The University of Cambridge has asked Nazir Afzal, a former chief crown prosecutor for north-west England, to lead the first part of its review into the death of the scholar Jason Arday.

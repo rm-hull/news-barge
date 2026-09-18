@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Guiseley in Yorkshire is just one of the places that has a very confusing
   name to pronounce but here's a guide to help you impress the locals.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414439.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 The English language can be tricky even for people born in the UK, with many words not being said exactly how they look.

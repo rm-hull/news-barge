@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Zelenskyy says Moscow is capitalising on shortage of US-made Patriot
   interceptors to lower morale in capital
 image: https://i.guim.co.uk/img/media/e47caf4fc40e23f13beca032b8c4904affa083e0/264_41_1016_812/master/1016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4f8b87ec0dd3fae63b723df2dd442a5
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 At least 12 people have been killed in and around Kyiv overnight as Ukraine’s capital endured a sixth consecutive night of Russian drone and missile attacks aimed at shattering infrastructure and lowering the morale of the city.

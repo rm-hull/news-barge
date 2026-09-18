@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Sally-Anne Bowen, now 65, convicted of assaulting boys at Christ’s College,
   Finchley, where she was chemistry teacher
 image: https://i.guim.co.uk/img/media/f924f9588f8e47ff3f3b8774f96bbb771aefe66d/208_58_1619_1295/master/1619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07400e407b42d602b53b24d187c1eabe
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A chemistry teacher has been found guilty of indecently assaulting two teenage pupils at an all-boys school in the late 1980s.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:56Z'
 published: '2026-09-14T00:00:00Z'
 description: Prime minister had been due to speak at the TUC conference in Brighton
 image: https://i.guim.co.uk/img/media/e51a0133a1f15a84b04c993daa2161362aec25e3/687_268_4453_3562/master/4453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b4e161e3be4ed6dafcb570b72db6a8f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has cancelled his engagements for Monday and Tuesday after his father, Roy, died.

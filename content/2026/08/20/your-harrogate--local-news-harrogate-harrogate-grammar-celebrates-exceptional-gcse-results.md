@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Students at Harrogate Grammar School are celebrating after receiving
   their GCSE results today.
 image: https://mmo.aiircdn.com/409/6a4e62d05a643bd97ba.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6a4e62d05a643bd97ba.jpg) 

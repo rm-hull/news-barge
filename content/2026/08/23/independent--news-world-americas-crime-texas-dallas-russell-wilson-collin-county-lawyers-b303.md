@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: A Texas judge has denied a new trial for Karmelo Anthony in the stabbing
   death of an athlete at a high school track meet
 image: https://static.the-independent.com/2026/08/19/13/08/AP26230595337591.jpg
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Texas judge denied a new trial for Karmelo Anthony on Saturday in the stabbing death of a 17-year-old athlete at a high school track meet, a killing that drew national attention and led to harassment of the families.

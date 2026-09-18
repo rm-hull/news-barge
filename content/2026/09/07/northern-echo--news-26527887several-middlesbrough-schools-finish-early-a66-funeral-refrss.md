@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The political row over school closures has reignited after several Middlesbrough
   schools announced early finishes ahead of another funeral linked to…
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image&xType=0&yType=134
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 The political row over school closures has reignited after several Middlesbrough schools announced early finishes ahead of another funeral linked to the fatal A66 crash.

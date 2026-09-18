@@ -9,6 +9,9 @@ scraped_at: '2026-09-02T12:45:18Z'
 published: '2026-09-02T00:00:00Z'
 description: He miraculously avoided injury.
 image: https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Power supply caught fire during testing](https://cdn.mos.cms.futurecdn.net/N6pUSFLfhABPeontnADweb.png) 

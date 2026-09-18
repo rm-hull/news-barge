@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: A NORTH East business group has reported a rise in revenue, with support
   to more than 3,500 companies.
 image: https://www.thenorthernecho.co.uk/resources/images/21436018.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Kevin Gibson Photography/Nicky Rogerson)*

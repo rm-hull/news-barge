@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: An African man living in Bradford charged with piloting a small boat
   illegally across the English Channel will stand trial in two years’ time.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21081537.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Gareth Fuller/PA)*

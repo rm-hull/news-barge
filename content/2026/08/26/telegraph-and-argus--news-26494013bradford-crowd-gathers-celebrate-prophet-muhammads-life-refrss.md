@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: AROUND 1,000 people gathered in Bradford for an evening of reflection,
   poetry, music and praise
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369409.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Saf @24 Pictures )*

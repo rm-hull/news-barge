@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Officers seized suspected class A drugs, £15,000 in cash and a Mercedes
   vehicle after a stop on Kingsley Road.
 image: https://www.thenorthernecho.co.uk/resources/images/21377862.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 Seven more men have been arrested as part of an organised crime crackdown in the wake of the deadly *A66* head-on crash.

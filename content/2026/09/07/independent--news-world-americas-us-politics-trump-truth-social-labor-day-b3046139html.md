@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Trump’s approval ratings have hit a new low with only 33 percent of voters
   approving his performance, according to recent poll
 image: https://static.independent.co.uk/2026/09/07/16/53/Trump-greatest-Truth-Social-post.jpeg?trim=189,0,376,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump bizarrely channeled his inner Snow White, as well as Muhammad Ali, with a series of manic Truth Social posts celebrating his “greatness” this Labor Day.

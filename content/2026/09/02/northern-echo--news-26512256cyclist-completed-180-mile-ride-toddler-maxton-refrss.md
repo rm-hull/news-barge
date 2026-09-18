@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A Shildon toddler battling a rare form of leukaemia has been given a
   boost after a 180-mile charity bike ride helped raise more than £2,400 towards…
 image: https://www.thenorthernecho.co.uk/resources/images/21396981.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A selfless cyclist dubbed a "living superhero" by the family of a County Durham toddler battling rare leukaemia has completed a gruelling 180-mile challenge to help change the youngster's life.

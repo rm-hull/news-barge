@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Another solid showing for RE Engine, after a year of excellent Capcom
   releases.
 image: https://cdn.mos.cms.futurecdn.net/fmrviCi7Gfs5zDMV4VbYH6-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Onimusha](https://cdn.mos.cms.futurecdn.net/fmrviCi7Gfs5zDMV4VbYH6.jpg) 

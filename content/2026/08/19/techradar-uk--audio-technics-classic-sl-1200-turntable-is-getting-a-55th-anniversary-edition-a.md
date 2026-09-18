@@ -9,6 +9,8 @@ published: '2026-08-19T00:00:00Z'
 description: The legendary Technics SL-1200 is getting a birthday make-over with lots
   and lots of gold.
 image: https://cdn.mos.cms.futurecdn.net/KCuzonoN9gmfrYyuRMfb5i-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The gold model Technics SL-1200M7 55th anniversary limited edition on a gray background.](https://cdn.mos.cms.futurecdn.net/KCuzonoN9gmfrYyuRMfb5i.jpg) 

@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: This week's TechRadar Crossword puzzle is here, so come test your general
   tech knowledge and see where you place on the leaderboard.
 image: https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A crossword puzzle with the words TechRadar Crossword in pink and other clues filled in with categories from across the site](https://cdn.mos.cms.futurecdn.net/kVmb7xgSU8K2roLXx3Xumh.jpg) 

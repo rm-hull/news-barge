@@ -10,6 +10,11 @@ description: Europeans are losing an average of €294 in purchasing power for e
   trillion sitting in low-yield deposits across 20 EU countries at a moment when Brussels
   is trying to push that money into capital markets.
 image: https://images.euronews.com/articles/stories/09/91/02/23/1200x675_cmsv2_d3ff81ae-5357-58b3-af35-f0ede9e4d2ab-9910223.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Europeans are losing an average of €294 in purchasing power for every €10,000 they keep in the bank, according to a study from Revolut, which found €6.3 trillion sitting in low-yield deposits across 20 EU countries at a moment when Brussels is trying to push that money into capital markets.

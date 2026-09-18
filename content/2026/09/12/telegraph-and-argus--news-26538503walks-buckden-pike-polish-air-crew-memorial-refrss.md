@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: THE head of Wharfedale is surrounded by four of the Dales 30 Mountains
   (all over 2,000ft high).
 image: https://www.thetelegraphandargus.co.uk/resources/images/21434574.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 THE head of Wharfedale is surrounded by four of the Dales 30 Mountains (all over 2,000ft high).

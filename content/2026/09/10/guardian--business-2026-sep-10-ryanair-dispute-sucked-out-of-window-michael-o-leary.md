@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: CEO Michael O’Leary tells reporters the businessman was sucked ‘towards’
   but not ‘out of’ the opening
 image: https://i.guim.co.uk/img/media/749d2e2c20add77004e3ba6552c91054e369c98c/0_1190_2296_1836/master/2296.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ebfee0742b43ac4ed7c5948f92a0928
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ryanair has said it will be “disputing” that any part of a passenger’s body was sucked outside when a window on one of its aircraft broke while in flight.

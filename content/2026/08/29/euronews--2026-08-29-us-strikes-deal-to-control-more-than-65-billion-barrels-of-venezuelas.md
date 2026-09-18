@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Trump has long been candid about his desire for the US to secure Venezuelan
   oil and has urged oil companies to invest in the South American nation.
 image: https://images.euronews.com/articles/stories/09/89/36/46/1200x675_cmsv2_6196c225-b22b-5c57-b455-925ac3fe845d-9893646.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump has long been candid about his desire for the US to secure Venezuelan oil and has urged oil companies to invest in the South American nation.

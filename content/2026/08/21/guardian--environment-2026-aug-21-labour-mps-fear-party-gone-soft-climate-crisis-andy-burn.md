@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Polls suggest growing scepticism around net zero, with politicians uncertain
   how to proceed
 image: https://i.guim.co.uk/img/media/ea44a3d0092b13f63c851d1be97a234d3473d81f/671_0_6705_5364/master/6705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0f36106b6f2d5142635a2d9df4d3731
+categories:
+- UK
+- News & Politics
 ---
 
 Britain has experienced a summer of record-breaking wildfires, deadly heat and drought, with almost 2,900 heat-associated deaths recorded in England during May and June alone. Homes have been destroyed by fires in the West Midlands, and deadly wildfires have swept across Europe.

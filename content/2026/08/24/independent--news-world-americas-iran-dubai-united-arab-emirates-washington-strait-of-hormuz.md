@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Iran’s currency has hit a new record low as Washington prepares to announce
   new sanctions it said would be an “economic D-Day.”
 image: https://static.independent.co.uk/2026/08/06/09/APTOPIX_Iran_War_Strait_of_Hormuz_47356.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Iran’s currency hit a new record low Monday as Washington prepared to announce new sanctions it said would be an “economic D-Day” and would add further pressure on an economy already battered by previous sanctions and a U.S. naval blockade.

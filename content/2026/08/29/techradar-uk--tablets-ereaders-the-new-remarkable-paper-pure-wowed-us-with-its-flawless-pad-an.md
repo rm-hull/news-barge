@@ -9,6 +9,8 @@ published: '2026-08-29T00:00:00Z'
 description: We've tested dozens of e-ink tablets — here are our top picks for different
   scenarios.
 image: https://cdn.mos.cms.futurecdn.net/FMZdBEgeN5R32MKttbwgon-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Three different writing tablets, being tested](https://cdn.mos.cms.futurecdn.net/FMZdBEgeN5R32MKttbwgon.jpg) 

@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A Second World War vessel that helped rescue more than 1,200 Allied soldiers
   from Dunkirk is on the market at £250,000.
 image: https://www.gazetteherald.co.uk/resources/images/21410736.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- History
 ---
 
 A Second World War vessel that helped rescue more than 1,200 Allied soldiers from Dunkirk has gone up for sale as a North Yorkshire hospitality business and visitor attraction.

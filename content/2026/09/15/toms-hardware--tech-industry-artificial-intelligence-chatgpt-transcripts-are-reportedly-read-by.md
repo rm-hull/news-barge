@@ -9,6 +9,10 @@ scraped_at: '2026-09-15T13:28:33Z'
 published: '2026-09-15T00:00:00Z'
 description: Welcome to the new normal.
 image: https://cdn.mos.cms.futurecdn.net/B7Rcg3byUtPYqh55zijFKD-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Careers & Productivity
 ---
 
 ![A person staring at a computer screen.](https://cdn.mos.cms.futurecdn.net/B7Rcg3byUtPYqh55zijFKD.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The celebrated British fashion designer invited BBC News to his office
   to talk about his career and a rubber chicken.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9be6/live/bb3f5e30-ab7d-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 # British designer Paul Smith: 'Nobody cares how good you used to be in fashion'

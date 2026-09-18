@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Sir Michael Caine is lending his iconic voice to a study exploring the
   dangers of AI deepfakes.
 image: https://www.yorkpress.co.uk/resources/images/21334493.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Supplied)*

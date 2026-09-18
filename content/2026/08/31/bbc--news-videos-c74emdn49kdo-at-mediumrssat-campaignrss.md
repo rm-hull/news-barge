@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Wildfires in Indonesia have destroyed part of the natural habitat of
   hundreds of orangutans, risking the survival of the species.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Travel
 ---
 
 # Orangutans in danger as wildfires blaze through Borneo

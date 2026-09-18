@@ -10,6 +10,10 @@ description: For years, scientists have explored ways to remove carbon from the 
   including through direct air capture, changes to ocean chemistry so seawater can
   absorb more carbon and reforestation
 image: https://static.independent.co.uk/2026/09/18/14/Climate_Roots_Carbon_Capture_64526.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Research scientist Ashish Rajurkar kneels in the dirt, lifting a large clod of soil tangled around a soybean plant. He knocks away pieces of earth from the plant's roots, which slope straight down instead of out to the side like typical soybean plants.

@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T04:56:58Z'
 published: '2026-08-24T00:00:00Z'
 description: The Grape Tree health food shop has opened in Market Cross, Selby.
 image: https://www.yorkpress.co.uk/resources/images/21356329.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
+- Food & Cooking
 ---
 
 ## New health food shop opens at major shopping centre

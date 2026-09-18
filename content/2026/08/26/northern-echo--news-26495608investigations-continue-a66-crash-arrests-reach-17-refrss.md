@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Police investigations are continuing into the events surrounding Saturday’s
   deadly A66 crash after five more arrests were made on Tuesday.
 image: https://www.thenorthernecho.co.uk/resources/images/21371170.jpg?type=og-image&xType=0&yType=243
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police investigations are continuing into the events surrounding Saturday’s deadly A66 crash after five more arrests were made on Tuesday.

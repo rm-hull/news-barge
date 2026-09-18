@@ -9,6 +9,10 @@ description: Jurors in the Lindsay Clancy trial are set to resume deliberating w
   to hold the Massachusetts woman criminally responsible for killing her three children
   in 2023
 image: https://static.independent.co.uk/2026/08/31/13/Lindsay_Clancy_Trial_66369.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors in the Lindsay Clancy trial are set to return for their third day of deliberations Monday to determine whether to hold the former labor and delivery nurse criminally responsible for killing her three children in 2023 — a case that has drawn attention to maternal mental health after childbirth.

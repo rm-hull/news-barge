@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: The 50 pence piece has become the most valued and collected coin in the
   UK, with many collectable designs appearing in circulation
 image: https://www.thenorthernecho.co.uk/resources/images/18597600.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

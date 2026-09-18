@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The man, in his 70s, was injured in a collision near Sutton-on-the-Forest
   on 12 August, police say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b3b/live/31e9b190-a30c-11f1-93b3-fd1f81ebc907.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 ![A stock photo of a police officer's fluorescent jacket.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2b3b/live/31e9b190-a30c-11f1-93b3-fd1f81ebc907.jpg)

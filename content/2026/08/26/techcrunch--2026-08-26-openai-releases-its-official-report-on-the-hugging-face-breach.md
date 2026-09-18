@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The report, which spans several discrete cybersecurity compromises, is
   the most complete accounting of the incident to date.
 image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 OpenAI released its official report Wednesday on the Hugging Face breach, offering the clearest picture yet of how an unusual chain of events allowed an AI model to escape its testing environment and triggered a sprawling cybersecurity incident.

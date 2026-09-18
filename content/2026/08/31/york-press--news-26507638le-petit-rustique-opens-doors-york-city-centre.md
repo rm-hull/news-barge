@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Le Petit Rustique will open in at 10am Castlegate today (Monday, August
   31), with a post on social media saying it will be "serving lunch,…
 image: https://www.yorkpress.co.uk/resources/images/21390197.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Lifestyle & Fashion
+- Travel
 ---
 
 ## New French wine bar and bistro opens its doors in York city centre

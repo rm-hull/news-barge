@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The seaside resort of Pattaya has been rebranded as a family-friendly
   destination after a history of sex tourism
 image: https://static.independent.co.uk/2026/09/03/1/35/SEI310360636.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 The USS Abraham Lincoln has docked after nearly nine months at sea, allowing sailors to finally hit the town in Pattaya, known as Thailand’s “Sin City.”

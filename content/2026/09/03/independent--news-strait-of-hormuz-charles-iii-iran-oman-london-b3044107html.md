@@ -9,6 +9,10 @@ description: The Sultan of Oman will travel to Britain for a three-day state vis
   next month as the Arab nation that controls the southern shore of the Strait of
   Hormuz comes under pressure from both the U.S. and Iran
 image: https://static.independent.co.uk/2026/09/03/12/Britain_State_Visit_77663.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Sultan of Oman will visit Britain for a three-day state visit next month as the Arab nation that controls the southern shore of the Strait of Hormuz comes under pressure from both the U.S. and Iran.

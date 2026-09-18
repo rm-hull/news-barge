@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T08:57:30Z'
 published: '2026-08-26T00:00:00Z'
 description: MOTORISTS are being urged not to panic buy fuel.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20606286.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Automotive
 ---
 
 *(Image: Archive)*

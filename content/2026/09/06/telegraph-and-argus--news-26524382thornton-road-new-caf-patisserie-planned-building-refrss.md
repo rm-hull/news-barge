@@ -9,6 +9,13 @@ published: '2026-09-06T00:00:00Z'
 description: A vacant building on the edge of Bradford city centre could become a
   new café and patisserie – the latest in a string of new businesses planned…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413868.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
+- Food & Cooking
 ---
 
 *(Image: T&A)*

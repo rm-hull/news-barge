@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Beckham's fashion and beauty business makes a £7.3m operating profit
   after years of losses.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Victoria Beckham head and shoulders, looking to one side with a hand on the collar of a cream jacket, in front of a display of cream roses](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg)

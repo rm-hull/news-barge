@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A global fried chicken chain has confirmed that it will be opening its
   first branch in York city centre,
 image: https://www.gazetteherald.co.uk/resources/images/11752211.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A GLOBAL fried chicken chain has confirmed that it will be opening its first branch in York city centre.

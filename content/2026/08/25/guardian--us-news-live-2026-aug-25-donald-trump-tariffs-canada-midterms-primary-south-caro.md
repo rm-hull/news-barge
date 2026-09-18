@@ -10,6 +10,11 @@ description: Lake Ontario lies on the border between the two countries, with New
   state on one side and Toronto, the capital of Canada’s Ontario province, on the
   other
 image: https://i.guim.co.uk/img/media/90fad6afcdb7ea467e5a465ab72cf35721182594/291_125_2893_2314/master/2893.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2783621f1d5e6de6d083b3a844d31545
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live

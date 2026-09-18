@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: The family of a much-loved Bradford man who "would do anything for anyone"
   have paid tribute following his death after a battle with a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19112130.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

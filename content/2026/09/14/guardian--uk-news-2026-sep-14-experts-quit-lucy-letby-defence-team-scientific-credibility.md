@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Some of the arguments inconsistent with ‘available evidence, science
   and established physiology’, say pair
 image: https://i.guim.co.uk/img/media/d52aa18f1a86edab2f869d4f4c34f8526d0a8a58/92_0_2834_2268/master/2834.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ad2be958c9332041d1061b93fd4e055
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Two leading experts have withdrawn from Lucy Letby’s defence team over concerns about the “scientific credibility” of some of its evidence.

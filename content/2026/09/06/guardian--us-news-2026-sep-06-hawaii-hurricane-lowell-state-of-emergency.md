@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Storm, which may make impact as soon as Monday, is third system in weeks
   to threaten state during hurricane season
 image: https://i.guim.co.uk/img/media/4ec21ba47fba56699afd8ea34f2aed0f3e55bbc5/422_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb9022dc192bae0d6ad3aaa920486e3
+categories:
+- UK
+- News & Politics
 ---
 
 Hawaii has declared a state of emergency as powerful Hurricane Lowell makes its way toward the islands, with the first impacts expected as soon as Monday.

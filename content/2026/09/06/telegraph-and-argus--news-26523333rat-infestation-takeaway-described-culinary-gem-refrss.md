@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Bradford takeaway which markets itself as a "culinary gem" voluntarily
   agreed to close after a public complaint alleging mouse droppings…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21412327.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Google Maps)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T13:04:34Z'
 published: '2026-08-18T00:00:00Z'
 description: 'From: Stephen Watson, Whincover Grange, Farnley, Leeds.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE5MDRiZDM5LWVkMGQtNGQyZS1iNTdmLTdlM2Y4NzI0MDllMToyNzU1YWEzNS1iN2JmLTQ0NGEtYjM5Zi1lZWViMDEyZmE4YTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Roof tops are the best place to put solar panels - Yorkshire Post Letters

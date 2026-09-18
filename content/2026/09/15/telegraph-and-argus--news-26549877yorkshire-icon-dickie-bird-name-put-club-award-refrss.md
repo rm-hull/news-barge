@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: 'Yorkshire County Cricket Club has announced a brand-new addition to
   this year End of Season Awards: The Dickie Bird Young Player of the Year.'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454727.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Anthony Devlin/PA Wire.)*

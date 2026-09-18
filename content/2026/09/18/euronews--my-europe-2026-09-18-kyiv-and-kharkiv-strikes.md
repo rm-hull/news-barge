@@ -9,6 +9,11 @@ description: 'The International Atomic Energy Agency said it has been informed o
   the strike on the Kursk nuclear power plant and said it was not on fire despite
   being operational at the time #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/94/88/1200x675_cmsv2_44bccbdd-3cc5-5e4b-a553-d27ec3a91454-9919488.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 ## The International Atomic Energy Agency said it has been informed of the strike on the Kursk nuclear power plant and said it was not on fire despite being operational at the time

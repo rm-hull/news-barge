@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Once a hunting ground for Cold War bragging rights, space has now evolved
   into a key strategic arena, as states jostle for a military and technological edge.
 image: https://images.euronews.com/articles/stories/09/91/34/86/1200x675_cmsv2_0bc64f3b-3ca6-55bb-a18a-cf84054391cb-9913486.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Science
 ---
 
 ## Once a hunting ground for Cold War bragging rights, space has now evolved into a key strategic arena, as states jostle for a military and technological edge.

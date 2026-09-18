@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: '''Flora'' is the creation of artist Rory Macbeth, and has been displayed
   in Davygate recently, with many passersby mistaking her for a…'
 image: https://www.yorkpress.co.uk/resources/images/21440518.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Artist on detail of 'living sculpture' of busker in York and its role in art school

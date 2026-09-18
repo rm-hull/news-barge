@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:53:30Z'
 published: '2026-09-10T00:00:00Z'
 description: WHAT does it take to make an heirloom of the future?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421669.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 WHAT does it take to make an heirloom of the future?

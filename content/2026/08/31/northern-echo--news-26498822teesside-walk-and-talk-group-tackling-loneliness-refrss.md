@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: We Do, founded by Teesside duo Charlie and Dan, launched the walk-and-talk,
   which has gone from 18 walkers to 170 in six months.
 image: https://www.thenorthernecho.co.uk/resources/images/21376372.jpg?type=og-image&xType=0&yType=167
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 What started with just 18 people on a Friday evening walk has grown into a community movement tackling loneliness for hundreds of people across Teesside.

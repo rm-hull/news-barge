@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: York-based train operator Northern said services between Scarborough
   and Bridlington are being disrupted due to a safety inspection of the lines in…
 image: https://www.gazetteherald.co.uk/resources/images/21372645.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

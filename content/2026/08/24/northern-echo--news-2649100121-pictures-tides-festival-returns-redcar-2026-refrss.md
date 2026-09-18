@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Families enjoyed a free day out with colourful costumes, interactive
   shows and a giant foam party.
 image: https://www.thenorthernecho.co.uk/resources/images/21364933.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Families enjoyed a free day out with colourful costumes, interactive shows and a giant foam party.

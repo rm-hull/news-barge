@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A woman has sadly been found dead inside a car in North Yorkshire causing
   the road to close while police investigate.
 image: https://www.thenorthernecho.co.uk/resources/images/21298278.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

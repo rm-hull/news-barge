@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The supermarket has issued a warning for its Finest Mozzarella Pearls
   and Pesto Orzo salad
 image: https://static.independent.co.uk/2026/08/13/9/13/iStock-458531819.jpg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Tesco have urgently recalled a popular meal deal item over concerns of food poisoning.

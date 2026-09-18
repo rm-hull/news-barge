@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Plans for a holiday park with 32 chalets at the site of a former York
   pub have been lodged.
 image: https://www.yorkpress.co.uk/resources/images/16070753.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Plans for holiday park with 32 chalets at former York pub

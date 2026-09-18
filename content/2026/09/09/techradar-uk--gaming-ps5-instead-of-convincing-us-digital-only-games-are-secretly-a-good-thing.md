@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Sony just gave us yet another reason to hate its digital-only strategy
   in the form of dynamic pricing.
 image: https://cdn.mos.cms.futurecdn.net/7vGTGm6oeVieBpVSY2DgsV-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A white PS5 DualSense controller sitting on a wooden surface next to a white PS5](https://cdn.mos.cms.futurecdn.net/7vGTGm6oeVieBpVSY2DgsV.jpg) 

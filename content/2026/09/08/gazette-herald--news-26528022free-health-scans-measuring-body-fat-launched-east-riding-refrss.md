@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: East Riding Library and Leisure members can access the Boditrax scans
   at select libraries and all leisure centres.
 image: https://www.gazetteherald.co.uk/resources/images/21419728.jpg?type=og-image&xType=0&yType=6
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: East Riding of Yorkshire Council)*

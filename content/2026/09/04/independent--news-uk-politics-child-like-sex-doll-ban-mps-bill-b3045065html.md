@@ -10,6 +10,9 @@ description: MPs backed the Child-like Sexual Abuse Dolls (Offences) Bill on Fri
   which criminalises the possession, sale and manufacture of the dolls in England
   and Wales
 image: https://static.independent.co.uk/2026/08/17/07/01M076G6F1D8PWH43VS8X36Y54.jpg?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Legislation banning child-like sexual abuse dolls has moved closer to becoming law after clearing its initial hurdle in the House of Commons.

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A Crook man who set fire to a block of flats to end his own life wanted
   his sister to die with him, a court heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21426683.jpg?type=og-image&xType=0&yType=128
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 A man who set fire to a block of flats to end his own life wanted his sister to die with him, a court heard.

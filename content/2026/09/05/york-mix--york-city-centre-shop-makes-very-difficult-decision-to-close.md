@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T11:49:55Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/sorry-were-closed-shop-sign-canva.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A York city centre shop, known as a place where you can ‘dig up treasure’, is to close.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man has admitted fraudulently taking payments over a four-month period
   for a “bonus-ball” lottery scheme he claimed to operate.
 image: https://www.thenorthernecho.co.uk/resources/images/21095739.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: The Northern Echo)*

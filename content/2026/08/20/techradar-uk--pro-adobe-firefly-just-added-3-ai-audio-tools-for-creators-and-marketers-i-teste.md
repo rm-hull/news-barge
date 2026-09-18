@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Adobe Firefly's Generate Music, Speech, and Sound Effects go on general
   release today, but one AI tool stole the show during my testing.
 image: https://cdn.mos.cms.futurecdn.net/LX8ZzvuQBdaf9Xz7htbeyU-1920-80.png
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Testing the Generate Music AI tool in Adobe Firefly](https://cdn.mos.cms.futurecdn.net/LX8ZzvuQBdaf9Xz7htbeyU.png) 

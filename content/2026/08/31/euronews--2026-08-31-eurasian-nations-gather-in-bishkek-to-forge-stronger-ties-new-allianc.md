@@ -10,6 +10,10 @@ description: Heads of 21 global and rising powers gather in Bishkek for the SCO 
   project their influence and their stand against the West, but the middle powers
   are now there to seek new economic and political momentum.
 image: https://images.euronews.com/articles/stories/09/89/58/92/1200x675_cmsv2_f9c5a533-2876-5111-bc30-7bb65cfda647-9895892.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Heads of 21 global and rising powers gather in Bishkek for the SCO summit as wars strain the global order. China and Russia have previously used the SCO to project their influence and their stand against the West, but the middle powers are now there to seek new economic and political momentum.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Anthony Gordon's £70m move to Barcelona was questioned by some - but
   the England winger is already proving his worth for the free-scoring Spanish giants.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Anthony Gordon, in Barcelona's blue-and-red training kit, sits on the bench during a match](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A Bradford nursery has been praised for its “joyful and curious learners”
   and nurturing environment.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21386738.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 A BRADFORD nursery has been praised for its “joyful and curious learners” and nurturing environment.

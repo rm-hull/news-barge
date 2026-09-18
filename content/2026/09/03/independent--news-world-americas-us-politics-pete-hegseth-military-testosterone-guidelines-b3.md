@@ -10,6 +10,10 @@ description: Multiple reports noted the new clinical guidance for testosterone t
   among military members, though the document was taken off the Defense Department’s
   website less than a day later
 image: https://static.independent.co.uk/2026/09/03/16/2256435781..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The Pentagon’s clinical guidance outlining required testosterone testing among military members was taken off the Department of Defense’s website Thursday, less than 24 hours after being published.

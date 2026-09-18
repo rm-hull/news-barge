@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A woman has been charged with attempted murder after an 81-year-old man
   was found with serious injuries in Doncaster.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZkNzZlMTExLTkwYWQtNDJlZS04ODhjLWYwMjQ5NTZhNzJlOToyNzYwZmZjNS1lZjAzLTQyNGEtYjlmNS1mY2JkOWVlZjlmZGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Woman charged with attempted murder after 81-year-old found with serious injuries

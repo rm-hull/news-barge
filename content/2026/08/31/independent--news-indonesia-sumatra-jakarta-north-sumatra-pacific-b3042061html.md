@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Mount Sinabung on Indonesia has erupted, spewing a column of black ash
   and smoke 3,500 meters from the top of the mountain into the sky over Sumatra island
 image: https://static.independent.co.uk/2026/08/31/10/Indonesia_Volcano_93258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Mount Sinabung on Indonesia erupted Monday, spewing a column of black ash and smoke 3,500 meters (11,482 feet) from the top of the mountain into the sky over Sumatra island.

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Dolly Parton's death sparked a huge outpouring of love - we look at why
   she meant so much to so many.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p822c0.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # BBC News - Why The World Loved Dolly

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Authorities have shared few details about the victims, except that there
   were ‘multiple, including children’
 image: https://static.the-independent.com/2026/08/25/20/30/Billings-Montana-deadly-shooting-and-house-fire-victims.webp?trim=0,56,0,56&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 Eight people, including at least two children, were killed after a gunman opened fire inside a Montana home that was then set ablaze.

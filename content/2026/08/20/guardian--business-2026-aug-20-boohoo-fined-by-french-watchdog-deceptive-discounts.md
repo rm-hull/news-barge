@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Fashion site also broke rules on labelling by using terms ‘leather’ or
   ‘suede’ for synthetic products
 image: https://i.guim.co.uk/img/media/0f41f5fe26c2e47ed6e1a9b4dc0c589823cd5d04/1123_0_3409_2727/master/3409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=017faacf2d62ee86c5362fd02491ea1b
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 The British online fashion seller Boohoo has been fined €2.3m (£2m) by France’s consumer watchdog for deceptive practices such as offering fake discounts.

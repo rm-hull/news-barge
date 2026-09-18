@@ -8,6 +8,10 @@ scraped_at: '2026-09-18T19:00:38Z'
 published: '2026-09-18T00:00:00Z'
 description: Andrés Cantor and his iconic “¡GOOOOL!”
 image: https://static.independent.co.uk/2026/09/18/14/Netflix_Cantor_Women%27s_World_Cup_Soccer_124_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Andrés Cantor and his iconic “¡GOOOOL!” call will be part of Netflix’s coverage of next year’s FIFA Women’s World Cup in Brazil.

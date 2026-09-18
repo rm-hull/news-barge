@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Students and staff at Bedale High School are celebrating another "exceptional"
   set of GCSE outcomes, marking a third consecutive year of…
 image: https://www.thenorthernecho.co.uk/resources/images/21354911.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

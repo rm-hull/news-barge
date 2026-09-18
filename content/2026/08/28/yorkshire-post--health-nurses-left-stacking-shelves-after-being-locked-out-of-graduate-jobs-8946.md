@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The RCN’s student committee has written to chief nursing officer for
   England Duncan Burton demanding action.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/03/13/06/cs-efc2b236-0d26-4880-88bf-aab465fd020f.jpg?crop=3:2,smart&trim=&width=900&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Education & Learning
 ---
 
 # Nurses left 'stacking shelves' after being locked out of graduate jobs, RCN says

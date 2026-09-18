@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Initial findings from an RAIB investigation show an "irregularity" at
   the site near Lewes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Three derailed train carriages lie at the bottom of a railway embankment near Lewes. Emergency vehicles, fencing and workers in high-visibility clothing can be seen around the site, while crews work on the railway line above.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg)

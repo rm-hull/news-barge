@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Silicon Valley is shifting away from chatbot queries toward a future
   filled with resource-intensive agentic AI—and it's driving the data center buildout.
 image: https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 *Welcome back to Power Play! Each week, senior writer Molly Taft tackles a topic around this midterm season’s biggest issue: data centers. If you’ve got a question or thought for the column, feel free to shoot Molly an email at [email protected] or reach them securely on Signal at mollytaft.76.*

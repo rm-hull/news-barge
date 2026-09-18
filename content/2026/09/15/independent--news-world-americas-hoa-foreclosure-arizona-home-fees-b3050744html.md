@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Couple now trying to raise the money they say they need to save their
   home using GoFundMe
 image: https://static.independent.co.uk/2026/09/15/19/111764625..?trim=0,41,0,41&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A couple in Arizona say they may lose their home due to a less than $1,000 debt they owed to a Home Owners' Association.

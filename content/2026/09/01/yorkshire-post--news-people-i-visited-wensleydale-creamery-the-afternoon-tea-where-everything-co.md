@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: With autumn cheeseboards on the horizon, Wensleydale Creamery was calling
   my name.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZhN2U3NGY3LWU4NzItNDU0OC1iZTJhLTdhNTBmOGY5OGZhNDo3OGY3YmI0MC1jY2ZmLTQ2MmItYThkYi1lZWY4Zjc5NTkxODQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 # “I visited Wensleydale Creamery - the afternoon tea where everything comes with cheese”

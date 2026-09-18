@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Fundraising will provide 180 million litres of clean water to flood-hit
   families in Nepal over five years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441368.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: UGC)*

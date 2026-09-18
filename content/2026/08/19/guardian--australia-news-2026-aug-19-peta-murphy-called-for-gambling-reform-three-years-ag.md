@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The government’s gambling ad changes are expected to pass the Senate
   on Wednesday night or Thursday morning with the Coalition’s support
 image: https://i.guim.co.uk/img/media/680917e07e3324de2dc609422f1d0e123235237e/346_0_3102_2482/master/3102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9bd1c2f7a2dd4e53015ee012a14412b
+categories:
+- UK
+- News & Politics
 ---
 
 The husband of the late Labor MP Peta Murphy has said the government’s gambling reform “falls well short” of what she called for in 2023, lamenting that its shortcomings were due to the “considerable lobbying power” of the wagering, sporting and media industries.

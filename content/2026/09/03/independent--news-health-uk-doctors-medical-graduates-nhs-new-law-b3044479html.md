@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Analysis of NHS data found a change in the law in March has achieved
   its aim of prioritising medics trained in the NHS over those who trained overseas
 image: https://static.independent.co.uk/2026/04/23/11/01KPQNPAXRF1FPTHQDPDXYGS80.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 New legislation giving priority to UK medical graduates seeking NHS training posts has had a dramatic impact on boosting the number of homegrown doctors, figures suggest.

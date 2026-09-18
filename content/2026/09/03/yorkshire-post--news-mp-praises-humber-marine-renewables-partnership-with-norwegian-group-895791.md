@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A partnership between membership group Humber Marine and Renewables and
   a Norwegian offshore wind body has been praised in the House of Commons.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEzNGUxN2M5LWIwZDgtNDNjMS04ZDY5LTE3ODczNGFiMzJjYzplOTc1Y2MyMy0xNDNkLTQxOTMtOTNjZi1mYTZjZTdlNWFlNDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # MP praises Humber Marine Renewables partnership with Norwegian group

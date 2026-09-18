@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: Drivers are being warned about upcoming roadworks in Bishop Auckland
   set to start later this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21447330.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: STUART BOULTON)*

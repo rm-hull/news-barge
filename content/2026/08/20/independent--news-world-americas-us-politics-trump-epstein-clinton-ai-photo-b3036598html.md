@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The post from the Education Department drew thousands of comments, with
   many users asking the same question
 image: https://static.independent.co.uk/2026/08/20/18/58/HQGbGa5XMAA04u9.jpeg?trim=491,0,235,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration drew a wave of mockery after posting an AI-generated image that some social media users claimed featured characters bearing an uncanny resemblance to Jeffrey Epstein and Hillary Clinton.

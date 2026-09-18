@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: All the ways to watch South Africa vs New Zealand 3rd Test for free from
   anywhere in the world ahead of a crucial match in the Rugby's Greatest Rivalry series.
 image: https://cdn.mos.cms.futurecdn.net/9Uq4fTFDvouqZ5BNMWncG7-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Siya Kolisi of South Africa scores a try during the Castle Double Malt Rugby's Greatest Rivalry, 2nd Test match against New Zealand at DHL Stadium on August 29, 2026 in Cape Town, South Africa](https://cdn.mos.cms.futurecdn.net/9Uq4fTFDvouqZ5BNMWncG7.jpg) 

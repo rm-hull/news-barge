@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Alan MacPherson, 83, from Stenhousemuir, amassed two million indecent
   images, believed to be the biggest such collection ever seized by Scottish Police.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c157/live/59223530-9c8a-11f1-8d19-93d7082c5662.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Alan MacPherson is wearing a blue waterproof jacket with the hood up as he is led away by a custody officer](https://ichef.bbci.co.uk/ace/standard/891/cpsprodpb/c157/live/59223530-9c8a-11f1-8d19-93d7082c5662.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: A fishing crew in Alaska’s Bering Sea rescued a teenager who had clung
   to a capsized boat for days in the frigid waters
 image: https://static.independent.co.uk/2026/09/11/23/59/SEI311921151.jpg?trim=0,141,0,141&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A 15-year-old boy has been rescued after his fishing boat capsized in the frigid Bering Sea off Alaska’s coast. His older brother and cousin, who were on the trip, did not survive.

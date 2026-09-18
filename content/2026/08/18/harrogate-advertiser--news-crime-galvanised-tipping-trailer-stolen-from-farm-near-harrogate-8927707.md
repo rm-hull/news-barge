@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: North Yorkshire Police is appealing for information after a trailer was
   stolen from a farm near Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY5OTY4YzVlLWRkYzEtNGZiMS04MmE4LWMyM2RlMGVjY2U1Mzo1ZjI5YTMzYi0xYTVkLTRhZTYtYjQ2OC02MDc3ZjBiMzQ2M2I=.jpg?crop=3:2,smart&trim=&width=586&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Galvanised tipping trailer stolen from farm near Harrogate

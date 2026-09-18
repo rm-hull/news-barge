@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A man is in a critical condition after a drive-by shooting on a quiet
   Gainford street, with two arrested for "attempted murder".
 image: https://www.thenorthernecho.co.uk/resources/images/21389794.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man is in a critical condition after a drive-by shooting on a quiet County Durham estate, with two arrested for "attempted murder".

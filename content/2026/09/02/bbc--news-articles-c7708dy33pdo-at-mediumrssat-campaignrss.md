@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The ministry says the total number of people killed in the Strip since
   10 October is now more than 1,300, including 301 children.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Citizens and relatives of the Palestinians, killed in an Israeli drone strike targeting a beachfront cafe in the port area west of Gaza City, attend the funeral prayer at Al-Shifa Hospital in Gaza City, Gaza, Palestine on August 19, 2026. Several men help to carry a body inside a white covering and walk past rubble. The image is seen inside a blue BBC Verify frame.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bae6/live/70e46460-a6ba-11f1-b109-879e35c24276.jpg)

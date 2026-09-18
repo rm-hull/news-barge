@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Authorities have located the remains of the final missing Tennessee victim
   of Hurricane Helene
 image: https://static.independent.co.uk/2026/09/16/20/Hurricane_Helene_Remains_Found_18176.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The remains of the final missing Tennessee victim from Hurricane Helene were found two years after the storm devastated Appalachian mountain towns with floods that wiped away whole communities.

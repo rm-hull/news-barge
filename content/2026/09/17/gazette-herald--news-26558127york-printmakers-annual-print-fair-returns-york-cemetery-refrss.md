@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: York Printmakers Annual Print Fair comes to York Cemetery this weekend,
   with handmade linocuts, etchings and more from local artists
 image: https://www.gazetteherald.co.uk/resources/images/21466868.jpg?type=og-image&xType=0&yType=568
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *York Printmakers Annual Print Fair returns to York Cemetery – here are all the details...*

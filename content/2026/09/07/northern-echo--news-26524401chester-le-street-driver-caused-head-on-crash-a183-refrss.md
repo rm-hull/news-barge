@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Brandon William Turnbull of Chester-le-Street admitted causing serious
   injury by dangerous driving at a recent hearing before magistrates.
 image: https://www.thenorthernecho.co.uk/resources/images/21012932.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: The Northern Echo)*

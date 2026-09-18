@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Traffic jams are causing delays for families and others using the A64
   through North Yorkshire this morning.
 image: https://www.yorkpress.co.uk/resources/images/20667669.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Submitted)*

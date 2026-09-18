@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Microplastics have been found in the deepest reaches of the ocean and
   throughout the human body
 image: https://static.independent.co.uk/2026/09/03/20/656591086..?trim=1,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 Lung cancer patients have been found to have greater amounts of microplastics in their lungs than people without the disease, scientists have discovered.

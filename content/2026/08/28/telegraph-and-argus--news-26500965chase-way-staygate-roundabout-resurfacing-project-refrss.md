@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A resurfacing project in Bradford has been completed a day ahead of schedule
   following three night-time closures.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379513.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Bradford Council)*

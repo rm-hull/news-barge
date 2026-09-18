@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: South Tyneside and Sunderland NHS Foundation Trust has been ranked 15th
   out of 134 NHS trusts in England and named the third-best large acute trust…
 image: https://www.thenorthernecho.co.uk/resources/images/21457180.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Jim Varney)*

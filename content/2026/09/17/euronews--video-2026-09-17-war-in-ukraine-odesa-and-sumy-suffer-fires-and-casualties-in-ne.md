@@ -10,6 +10,10 @@ description: Video. Russia struck the Ukrainian cities of Odesa and Sumy on 16 S
   sparking fires and damaging homes and other buildings, according to Ukrainian emergency
   services and local officials.
 image: https://images.euronews.com/articles/stories/09/91/64/17/1200x675_cmsv2_1d467da2-382d-5b20-813e-c1d861e0b733-9916417.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 In Odesa, a drone attack after midday killed one man and set garages ablaze, damaging nearby homes and cars. A second strike later hit a 19-storey apartment building, injuring three people, including a child. Footage from the State Emergency Service showed firefighters tackling burning debris and working around damaged buildings.

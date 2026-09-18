@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A powerful tornado hit several communes in the Aude on Monday, causing
   major damage, particularly in Pomas, with gusts recorded at up to 117 km/h.
 image: https://images.euronews.com/articles/stories/09/88/71/67/1200x675_cmsv2_0c78363f-b5a6-5559-bbb4-6d342195e137-9887167.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## A powerful tornado hit several communes in the Aude on Monday, causing major damage, particularly in Pomas, with gusts recorded at up to 117 km/h.

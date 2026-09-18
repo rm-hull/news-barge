@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Both Good Good and Callaway erased the advertisement late Friday following
   outcry over its depiction of violence against women
 image: https://static.independent.co.uk/2026/08/25/16/55/GettyImages-2285734403.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Digital media group Good Good Golf, which is slated to title sponsor a PGA Tour event this fall, has drawn sharp backlash after releasing a promotional spot for a Callaway driver that featured a man tackling a woman as she reached for the club.

@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: 'ARTISTS from across the North East are invited to submit work for this
   year’s Spotlight: Washington Open Exhibition.'
 image: https://www.thenorthernecho.co.uk/resources/images/21422195.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

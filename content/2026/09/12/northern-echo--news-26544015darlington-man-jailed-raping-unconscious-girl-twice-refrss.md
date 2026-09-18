@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Charlie Dobbing jailed for four years at Teesside Crown Court for raping
   an unconscious girl twice as a teenager.
 image: https://www.thenorthernecho.co.uk/resources/images/21443243.jpg?type=og-image&xType=0&yType=286
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Durham Constabulary)*

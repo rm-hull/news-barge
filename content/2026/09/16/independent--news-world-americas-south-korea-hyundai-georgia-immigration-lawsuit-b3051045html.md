@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: U.S. authorities arrested hundreds of workers, most of whom are South
   Korean nationals, in the raid at the Hyundai-LG battery project last September
 image: https://static.independent.co.uk/2026/09/16/09/2234262835..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 More than 300 South Korean nationals detained during a massive immigration operation at a Georgia electric-vehicle facility last September are mounting a legal challenge against the U.S. government, according to a report by CNN on Tuesday.

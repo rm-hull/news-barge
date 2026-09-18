@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Trump’s allies who are hoping to get a message in front of the president
   will send it to Natalie Harp to print out, according to a new report
 image: https://static.independent.co.uk/2026/08/17/17/2286569812..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Natalie Harp, one of President Donald Trump’s closest aides, is reportedly leaning into her nickname “the human printer” by passing along messages to the president the best way she knows how: printing them out.

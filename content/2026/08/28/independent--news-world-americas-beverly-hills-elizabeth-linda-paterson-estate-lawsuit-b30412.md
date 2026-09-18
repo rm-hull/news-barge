@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The city is seeking a court order to remediate the hazardous conditions,
   which threaten neighboring residents and others
 image: https://static.independent.co.uk/2026/08/28/20/1207820075..?trim=0,97,0,97&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Beverly Hills officials have filed a lawsuit against the estate of a late resident whose condominium was discovered filled with severe hoarding debris and human waste. The city is seeking a court order to remediate the hazardous conditions, which threaten neighboring residents and others.

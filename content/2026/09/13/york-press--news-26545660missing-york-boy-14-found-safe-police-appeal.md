@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A 14-year-old boy from Holgate, York, who was at the centre of a missing
   person appeal has been safe and well, police said, confirming that the…
 image: https://www.yorkpress.co.uk/resources/images/20998481.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

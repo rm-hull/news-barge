@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T19:07:04Z'
 published: '2026-09-10T00:00:00Z'
 description: Google's new feature will transfer your passkeys as well.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google on Thursday introduced a new password manager switching experience on Android that doesn’t require you to download CSV files when migrating to a new app.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper
   private school over seven years
 image: https://i.guim.co.uk/img/media/c1c3438a77ef6a63495800e18e4cc608ac117977/0_0_4267_3415/master/4267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6eaca7f4b6c642b7001bf60fa599e456
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A house near a top state secondary school costs an extra £40,000 on average, according to research that reveals education premiums that rank alongside some private school fees.

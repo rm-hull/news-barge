@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Confirmation of the circumstances around Do Ngoc Phuong Thuy's death
   have only spurred more questions.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15db/live/2c0d1d70-9d44-11f1-a137-179a8d1c790b.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![A woman in mint green clothes bends over a ring of flower bouquets arranged around the trunk of a roadside tree](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/15db/live/2c0d1d70-9d44-11f1-a137-179a8d1c790b.jpg)

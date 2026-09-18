@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Nationwide research also shows average 14% premium for housing in national
   landscapes of England and Wales
 image: https://i.guim.co.uk/img/media/af849245b5d41983319452f01e029aa18179bad7/532_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac12fd28a5c174c40bd315a51f54e938
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Housebuyers are paying a premium of almost a quarter to own a property located within a UK national park, with the New Forest the most expensive national park to live in, according to Britain’s biggest building society.

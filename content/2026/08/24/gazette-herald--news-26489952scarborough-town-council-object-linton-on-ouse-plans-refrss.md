@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: PLANS to house people seeking asylum at a former North Yorkshire military
   base are set to be opposed by a Reform-led council about 50 miles away
 image: https://www.gazetteherald.co.uk/resources/images/21102471.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- News & Politics
 ---
 
 PLANS to house people seeking asylum at a former North Yorkshire military base are set to be opposed by a Reform-led council about 50 miles away

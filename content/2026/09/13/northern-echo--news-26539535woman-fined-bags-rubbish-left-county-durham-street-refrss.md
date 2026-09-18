@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Lauren Anne Watson, of Bridge Street, Bishop Auckland, was prosecuted
   by Durham County Council over litter deposited outside the same address.
 image: https://www.thenorthernecho.co.uk/resources/images/21435914.jpg?type=og-image&xType=0&yType=519
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: NORTHERN ECHO)*

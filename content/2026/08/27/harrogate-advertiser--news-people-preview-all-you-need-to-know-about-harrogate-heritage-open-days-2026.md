@@ -9,6 +9,10 @@ description: Harrogate is gearing up for its role in England’s largest annual 
   of history and culture when the town will be festooned in pink bunting for Heritage
   Open Days 2026.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE4M2E4NmFjLWU2MDAtNGI1NS04ZWY2LWVjY2NhMjM5N2E3ZDo1YmNiYjZhYi1lMWM1LTQyM2MtODA4Mi05NjM4MzczNjhhNTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 # Preview: All you need to know about Harrogate Heritage Open Days 2026

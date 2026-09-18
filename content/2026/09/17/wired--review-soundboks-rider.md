@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Soundboks Rider gets astonishingly loud and is built to last thanks
   to its durable build and swappable battery.
 image: https://media.wired.com/photos/6aab585cb8f4f863fa05d8a8/191:100/w_1280,c_limit/Review--Soundboks-Rider.jpg
+categories:
+- Technology & Software
+- Science
+- Music
 ---
 
 Gets very loud for its size. Clear, detailed sound. Very durable build. Swappable battery. IP66 dust and waterproof.

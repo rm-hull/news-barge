@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The catastrophic floods have killed more than 400 people and left hundreds
   more missing
 image: https://static.independent.co.uk/2026/08/28/14/12/Nepal-1-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 More than 30 British people remain missing following devastating flash floods in Nepal.

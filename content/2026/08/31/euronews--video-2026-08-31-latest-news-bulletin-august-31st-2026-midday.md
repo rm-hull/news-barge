@@ -9,6 +9,9 @@ description: Video. Catch up with the most important stories from around Europe 
   beyond this August 31st, 2026 - latest news, breaking news, World, Business, Entertainment,
   Politics, Culture, Travel.
 image: https://images.euronews.com/articles/stories/09/89/54/01/1200x675_cmsv2_c68c6da2-b6f6-51b6-8684-c2a4b21d3e5c-9895401.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Catch up with the most important stories from around Europe and beyond in this Euronews news bulletin. In just a few minutes, our newsroom brings you the latest news and breaking news across world affairs, business, politics, culture, entertainment and travel, with the context you need to make sense of a fast-moving day. Reported with the independence and the European perspective that define Euronews, this regular round-up gives you a clear and reliable overview of the stories shaping our world right now, wherever you are watching from.

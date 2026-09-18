@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Corie Walsh charged with murder after two-year-old Barrett found dead
   in basement of Illinois family home last week
 image: https://i.guim.co.uk/img/media/8693dc20618984e3a76c6c3427a0474fc04e3d0d/0_7_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e983ca109fcf1e785769ffa296e857
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 An Illinois woman charged with killing her two-year-old son had been closely following the murder trial of Massachusetts mother Lindsay Clancy and was texting friends about the case just hours before her son was found dead, prosecutors said.

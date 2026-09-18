@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: FOR generations of Bradfordians and Aire Valley folk, no hiking route
   has captured the imagination quite like the traditional ramble from Dick…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435552.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- History
 ---
 
 FOR generations of Bradfordians and Aire Valley folk, no hiking route has captured the imagination quite like the traditional ramble from Dick Hudson’s to Ilkley.

@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Historic footage ends with the MBeK sinking nose-first into the Black
   Sea.
 image: https://cdn.mos.cms.futurecdn.net/omCd2R3scn4UBVckbmtsDc-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Sargan 3000 wins](https://cdn.mos.cms.futurecdn.net/omCd2R3scn4UBVckbmtsDc.jpg) 

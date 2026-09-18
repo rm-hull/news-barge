@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Bin bags left uncollected for weeks in a York neighbourhood have been
   ripped open by animals and infested with flies, a resident has said.
 image: https://www.gazetteherald.co.uk/resources/images/21369480.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 BIN bags left uncollected for weeks in a York neighbourhood have been ripped open by animals and infested with flies, a resident has said.

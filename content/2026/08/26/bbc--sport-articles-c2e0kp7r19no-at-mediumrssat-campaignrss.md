@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Women's Olympic figure skating champion Alysa Liu confirms that she will
   not compete during the 2026-27 season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5533/live/4d15d330-a169-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'Oh my word!' - USA's Liu wins women's figure skating gold with stunning performance

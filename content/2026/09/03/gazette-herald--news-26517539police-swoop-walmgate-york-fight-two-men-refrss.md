@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Police have swooped in Walmgate, York, after a reported fight involving
   two men.
 image: https://www.gazetteherald.co.uk/resources/images/21404384.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: Newsquest)*

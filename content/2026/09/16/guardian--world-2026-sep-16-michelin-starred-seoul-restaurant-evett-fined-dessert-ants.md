@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Prosecutors sought jail term for chief executive of Evett after insects
   not approved for consumption were on menu
 image: https://i.guim.co.uk/img/media/f9a16ac6a528cf5bb5f6d8a62fba5b3850d2b8ef/0_485_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=745f06edd481a2ff3e3eb36f1ef9aaf8
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief executive for serving a dessert topped with ants, an insect not approved for consumption under local food safety law.

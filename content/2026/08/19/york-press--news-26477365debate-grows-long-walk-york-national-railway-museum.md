@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Anger is growing with one York resident saying ongoing National Railway
   Museum works are leaving some locals feeling isolated as disruption…
 image: https://www.yorkpress.co.uk/resources/images/21340543.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

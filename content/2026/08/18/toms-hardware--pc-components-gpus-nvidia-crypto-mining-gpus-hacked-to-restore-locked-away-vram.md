@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T13:04:32Z'
 published: '2026-08-18T00:00:00Z'
 description: The CMP 170HX has quickly gone from crypto trash to AI treasure.
 image: https://cdn.mos.cms.futurecdn.net/QDZdfYqJbKd5P6QKeMwVEk-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![GPUs in a crypto mining farm](https://cdn.mos.cms.futurecdn.net/QDZdfYqJbKd5P6QKeMwVEk.jpg) 

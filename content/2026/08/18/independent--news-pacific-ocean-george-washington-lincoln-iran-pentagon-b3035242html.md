@@ -9,6 +9,10 @@ description: The Navy has confirmed that a destroyer with about 300 sailors aboa
   suffered a major breakdown in the Pacific Ocean last month that left it without
   power for four days
 image: https://static.independent.co.uk/2026/08/18/21/Navy_Destroyer_13594.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A U.S. Navy destroyer with about 300 sailors aboard suffered a major breakdown in the Pacific Ocean last month that left it without power for four days, the Navy confirmed in a statement.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The York Walking Festival returns from 19 September to 4 October 2026,
   offering free guided wildlife, history, and accessible trails across the region
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Walking-in-York.webp
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 **HARROGATE** — Regional transport and tourism heads have unveiled the official programme for a major autumn recreational campaign, opening up dozens of specialized outdoor events across the county border.

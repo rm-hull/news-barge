@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Hong Kong’s first post-handover leader, Tung Chee-hwa, has died at age
   89
 image: https://static.independent.co.uk/2026/09/08/19/Tung_Chee-hwa_14263.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Hong Kong ’s first post-handover leader, Tung Chee-hwa, who struggled to cope with an Asian financial crisis and growing protests for democracy in the early years under Chinese rule, has died at age 89.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Three drivers have been disqualified from driving for between 20 and
   40 months after they were among defendants sentenced recently at Scarborough…
 image: https://www.gazetteherald.co.uk/resources/images/20629129.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Newsquest)*

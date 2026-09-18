@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Parish councillors are expected to meet members of Hunmanby FC soon to
   discuss the situation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ccc9/live/3e0d6220-aad0-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- News & Politics
 ---
 
 ![A football team lined up for a team photo in front of a goal in a playing field. They are wearing a navy and red kit. They have a sign saying 'Save Our Club Keep Hunmanby in Hunmanby'](https://ichef.bbci.co.uk/ace/standard/879/cpsprodpb/ccc9/live/3e0d6220-aad0-11f1-aa35-df10e5ff32f4.jpg)

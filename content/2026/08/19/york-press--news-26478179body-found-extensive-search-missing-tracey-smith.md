@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A body found by a member of public in North Yorkshire is believed to
   be of missing Tracey Smith.
 image: https://www.yorkpress.co.uk/resources/images/21321687.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

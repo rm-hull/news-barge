@@ -10,6 +10,10 @@ description: The Houthi Red Sea coast offensive has placed another vital shippin
   closing the Red Sea gateway would worsen the crisis and has called for a diplomatic
   solution.
 image: https://images.euronews.com/articles/stories/09/91/44/75/1200x675_cmsv2_98e1ad1b-6ff1-5f08-b1d5-4018e52338b6-9914475.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The Houthi Red Sea coast offensive has placed another vital shipping route at risk as the Hormuz blockade disrupts trade and energy supplies. Qatar said closing the Red Sea gateway would worsen the crisis and has called for a diplomatic solution.

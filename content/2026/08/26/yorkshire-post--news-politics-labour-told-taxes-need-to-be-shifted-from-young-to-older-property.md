@@ -9,6 +9,12 @@ description: It comes after Prime Minister Andy Burnham refused to rule out tax 
   in the Budget, telling ITV News hat he “won’t be unrealistic” about the state of
   the public finances.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/12/cs-e67abeac-a498-4c31-bbbc-1a87b73f6147.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Labour told taxes need to be shifted from young to older property owners

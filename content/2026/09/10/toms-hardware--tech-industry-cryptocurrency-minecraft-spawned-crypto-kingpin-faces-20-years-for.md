@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: The gang lived the high life on the massive spoils of their crypto crimes,
   but not for long.
 image: https://cdn.mos.cms.futurecdn.net/CGHmZmGyZacDDWKL9xLdTc-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![McLaren cars were in the crypto gang's fleet](https://cdn.mos.cms.futurecdn.net/CGHmZmGyZacDDWKL9xLdTc.jpg) 

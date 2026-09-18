@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Alan Hawkins from York has achieved his lifelong dream of exhibiting
   in a professional gallery after a surprise collaboration involving a renowned…
 image: https://www.gazetteherald.co.uk/resources/images/21469619.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

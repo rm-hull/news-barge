@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:35Z'
 published: '2026-08-28T00:00:00Z'
 description: AI is empowering people to ask questions - but the wrong kind
 image: https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44-2000-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Teacher using a smartphone at his desk with blackboard behind](https://cdn.mos.cms.futurecdn.net/DroFFmiArXg2SARc9KPh44.jpg) 

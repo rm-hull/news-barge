@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A woman has hit out at 54North Homes, responsible for her Acomb home,
   after she said she and her children were left in "rat-infested"…
 image: https://www.yorkpress.co.uk/resources/images/21355668.jpg?type=og-image&xType=0&yType=386
+categories:
+- Local
+- York
+- Family & Parenting
+- Lifestyle & Fashion
 ---
 
 ## Mum-of-three hits out at housing association over 'rat-infested' home in York

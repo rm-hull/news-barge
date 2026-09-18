@@ -9,6 +9,12 @@ description: Germany's finance minister urged the European Union on Thursday to 
   up action against what he called China's "unfair trade practices" to protect the
   country's struggling carmakers.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8KE7C8__v1__HighRes__GermanyEconomyAutomobileVwUnions.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 During a visit to Volkswagen's headquarters in Wolfsburg, also home to the carmaker's biggest factory, Finance Minister Lars Klingbeil said Germany would press Brussels to take a stronger stance.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: More than 200mm of rain forecast in parts of South Korea, while parts
   of southern Europe to be 10C above average
 image: https://i.guim.co.uk/img/media/a01fb0bdfb85c31911654638acf6584dfe30b585/0_0_2908_2328/master/2908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=916657522b38233fc126aa0945795716
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Travel
 ---
 
 South Korea’s prime minister, Han Seong-sook, met officials to prepare for heavy rain expected this week, with rainfall totals across central and northern parts of the country forecast to exceed 200mm in some areas.

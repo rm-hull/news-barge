@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Artist Ric Liptrot is preserving the memory of a beloved York shop in
   a new artwork, reports MAXINE GORDON
 image: https://www.yorkpress.co.uk/resources/images/21402474.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Music
 ---
 
 ## Artist brings beloved York shop back to life in touching tribute

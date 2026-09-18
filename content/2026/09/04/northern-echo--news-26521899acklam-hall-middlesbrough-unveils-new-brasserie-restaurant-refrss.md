@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: It’s a new chapter for Middlesbrough’s only Grade I Listed building as
   Acklam Hall unveils its new Brasserie restaurant.
 image: https://www.thenorthernecho.co.uk/resources/images/21410444.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

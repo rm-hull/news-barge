@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire-based artist Claire Milner’s solo show, Gardeners of
   Eden, will be on view at NoonPowell Fine Art in Richmond.
 image: https://www.yorkpress.co.uk/resources/images/21370545.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## North Yorkshire artist's Richmond exhibition to help protect tropical forests

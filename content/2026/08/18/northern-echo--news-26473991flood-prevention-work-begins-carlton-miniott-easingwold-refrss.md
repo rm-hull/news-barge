@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Yorkshire Water has launched flood mitigation schemes in Carlton Miniott
   and Easingwold, with millions of pounds being invested to help protect…
 image: https://www.thenorthernecho.co.uk/resources/images/21334899.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Yorkshire Water)*

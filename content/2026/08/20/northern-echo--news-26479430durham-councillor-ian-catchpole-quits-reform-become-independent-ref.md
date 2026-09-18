@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A Reform UK councillor has resigned from the party after accusing council
   leaders of treating mental health with “blatant disregard”.
 image: https://www.thenorthernecho.co.uk/resources/images/21343886.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 A Reform UK councillor has resigned from the party amid a probe into leaked information.

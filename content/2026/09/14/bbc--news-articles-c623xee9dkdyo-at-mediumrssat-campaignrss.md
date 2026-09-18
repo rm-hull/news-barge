@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Ministers are seeking to put a £100,000 annual cap on donations from
   British expats, backdated to 25 March 2026.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60f5/live/135f4a00-b045-11f1-b8b3-61fcc3f5ed40.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Nigel Farage wearing a dark suit and a dark blue tie with small white dots](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/60f5/live/135f4a00-b045-11f1-b8b3-61fcc3f5ed40.jpg)

@@ -9,6 +9,10 @@ description: The grandfather and pilot had more than 40 years of flying experien
   and frequently traveled between South Florida and the Bahamas, where he and his
   wife owned a home
 image: https://static.independent.co.uk/2026/09/08/20/Small_Plane_Crash_Bahamas_37_2.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A Florida couple and their two grandchildren were found dead Tuesday after the small plane piloted by the grandfather disappeared near the Bermuda Triangle while returning to Miami.

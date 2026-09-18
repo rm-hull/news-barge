@@ -10,6 +10,10 @@ description: Trump's frustration that his administration was not doing enough to
   what he considers a likely contributor to autism drove a U.S. executive order this
   month
 image: https://static.independent.co.uk/2026/08/16/15/IO1KEH62lYgC23_wmFhxFlUYX68W1fqFvNNnmG0rWriJSXjumdKDpGd7LOIGVWODOg1hblZvzHDa8zaLISLeuCGawimtAWkNzEN3..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 An executive order signed this month that scales back the U.S. childhood vaccination schedule was driven by President Donald Trump's frustration that his administration was not moving fast enough to tackle what he views as a probable contributor to autism, according to administration officials.

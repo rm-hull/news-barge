@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A federal judge denied them bail, saying the dual US-UK citizens' wealth
   and frequent international travel "constitute quintessential flight risks".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6e5/live/c21b78e0-a25b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Personal Finance & Investing
 ---
 
 ![Andrew and Tristan Tate in court in Miami, Florida, on 27 August 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f6e5/live/c21b78e0-a25b-11f1-b109-879e35c24276.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Telegraph & Argus is once again searching for the Bradford district’s
   finest beauty businesses as it launches its Best Beauty Salon Award…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19870868.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 The Telegraph & Argus is once again searching for the Bradford district’s finest beauty businesses as it launches its Best Beauty Salon Award 2026 competition.

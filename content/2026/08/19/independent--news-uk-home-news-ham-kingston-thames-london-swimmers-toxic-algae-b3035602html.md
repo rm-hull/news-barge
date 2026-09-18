@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Swimmers in the Ham and Kingston site on the Thames left with ‘really
   bad rash and itchy spots’
 image: https://static.independent.co.uk/2026/08/19/13/07/PA-85591021-3b704fb8.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 London’s first official bathing spot has been hit by a toxic algal bloom, as swimmers have been warned to avoid the river.

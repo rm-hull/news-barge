@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A Surron e-bike rider will be receiving a summons to court after being
   spotted by police in Keighley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361098.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: WYP)*

@@ -9,6 +9,11 @@ description: Keep your floors pristine and your budget intact. Save up to 30% of
   machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our
   expert advice.
 image: https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/191:100/w_1280,c_limit/WIRED-Coupons-R2_9.png
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Machine-washable rugs have become almost synonymous with Ruggable. Plenty of brands now offer washable options, but Ruggable was really the company that popularized the category with its patented two-piece system: a removable rug cover that attaches to a nonslip pad.

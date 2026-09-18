@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Tourist tax, traders and student support spark readers' debate in today's
   letters to The Press.
 image: https://www.yorkpress.co.uk/resources/images/13453589.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Esme Mai)*

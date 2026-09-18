@@ -8,6 +8,9 @@ scraped_at: '2026-08-29T19:24:49Z'
 published: '2026-08-29T00:00:00Z'
 description: Announcement followed weeks of US Venezuelan negotiations
 image: https://static.independent.co.uk/2026/08/29/15/2288271755..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has set out an unprecedented plan for the US to take charge of a fifth of Venezuela's extensive oil reserves. The move relies on American firms restoring the OPEC member's struggling energy sector, while providing additional crude to lower US fuel costs.

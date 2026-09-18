@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Iconic country musician Dolly Parton has died at the age of 80, the singer's
   team announced on social media.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7a7/live/f08c6840-a0be-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 # Dolly Parton: The life of an iconic country singer

@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T13:11:44Z'
 published: '2026-08-26T00:00:00Z'
 description: 'Exclusive: "It was beyond anything I''d ever seen before on paper"'
 image: https://cdn.mos.cms.futurecdn.net/2xAqt73X4jVF8SZ7dLmMWX-2326-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Quincy Tyler Bernstine as Nora Washington in Hulu's Furious](https://cdn.mos.cms.futurecdn.net/2xAqt73X4jVF8SZ7dLmMWX.png) 

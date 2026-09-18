@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The forensic psychologist said his findings differed from those of the
   psychiatrist who testified Friday
 image: https://static.the-independent.com/2026/08/24/21/download.-1.?trim=70,0,70,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Forensic psychologist Kirk Heilbrun testified Monday that Lindsay Clancy has bipolar disorder and was experiencing anxiety, depression, insomnia and suicidal thoughts in the weeks leading up to the deaths of her three children.

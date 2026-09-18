@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Higher rates on the bonds will therefore mean that it costs UK more in
   order to borrow money
 image: https://static.independent.co.uk/2026/08/25/11/f307b9034e83d7c7d129068b651cd35dY29udGVudHNlYXJjaGFwaSwxNzg3NzQxMDM3-2.85365880.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Long-term borrowing costs for the UK government have surged to their highest levels in 28 years, placing additional pressure on Andy Burnham’s team ahead of next month’s Budget.

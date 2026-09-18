@@ -10,6 +10,11 @@ description: Paul Worsley is a King’s Counsel who sat as a Judge at the Old Ba
   for a decade. He tells Laura Reid about his novel showcasing life at the Bar through
   his protagonist.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU2NThmZGExLWE1ODctNDdkMy1iMzIzLTUzODZhZTczZjEyODpjYmQ3Y2JlZi01NDdhLTRmZDEtOGQyNy02NGIyNDE4ODJjMmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'You were thrown in at the deep end and if you weren't very good, you'd sink' - Retired Old Bailey judge Paul Worsley KC draws on barrister career for new novel

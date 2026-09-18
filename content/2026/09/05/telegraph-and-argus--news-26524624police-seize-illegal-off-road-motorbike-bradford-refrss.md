@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A tip-off from a member of the public has led to the seizure of an illegal
   off-road motorbike.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414315.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

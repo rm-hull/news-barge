@@ -10,6 +10,10 @@ description: A famous Harrogate venue which has hosted no less than 16 royal vis
   has celebrated its 30th anniversary in style with celebrities from TV among a sea
   of familiar faces.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmZiMjk0Nzk4LTBjNjctNDQxOS1hN2RmLTkyYTRjNmRjYmMwNzo4NmJkMzVkYS0yYjE3LTQ1M2MtOWNmOC0wNWI0YThmNDUzY2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 # Award-winning Harrogate venue has hosted no less than 16 royal visits since it was built in 1996

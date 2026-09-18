@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The United Nations' food agency is halving food assistance in the Israeli-occupied
   West Bank due to severe funding shortages
 image: https://static.independent.co.uk/2026/09/01/12/EU-Gaza-Aid_48482.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The United Nations' food agency said Tuesday it is halving food assistance in the Israeli-occupied West Bank because of severe funding shortages and warned it may be forced to make further cuts in Gaza, where it supports 1.5 million people.

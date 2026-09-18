@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Evri Group, which has its roots in the city of Bradford, has today (August
   19) announced plans to create more than 10,000 new roles across its…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341255.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: PA)*

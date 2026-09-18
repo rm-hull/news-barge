@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Hundreds of solar panels are set to be installed on the roof of a York
   building following a council decision.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRmNDZkODhhLWVhZDAtNDg5OS05YjVmLWRmM2YzNzAyZjM0NTplOTE0ZDM3YS04OWNjLTQyODItOTJmMC03OTM4ZGNlOTYyOTI=.jpg?crop=3:2,smart&trim=&width=958&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
+- Business & Entrepreneurship
 ---
 
 # More than 700 solar panels to be installed on roof of York building

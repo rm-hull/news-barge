@@ -9,6 +9,11 @@ description: At the Uffizi Gallery, water leaked under the skylight of a room ho
   seven 17th-century paintings including Caravaggio's Bacchus. Rain entered Palazzo
   Pitti, closing rooms in the Modern Art Gallery.
 image: https://images.euronews.com/articles/stories/09/91/79/10/1200x675_cmsv2_788f3713-ca7c-5a7f-bad1-71e7d34c8991-9917910.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ## At the Uffizi Gallery, water leaked under the skylight of a room holding seven 17th-century paintings including Caravaggio's Bacchus. Rain entered Palazzo Pitti, closing rooms in the Modern Art Gallery.

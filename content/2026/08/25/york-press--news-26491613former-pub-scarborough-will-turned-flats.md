@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A FORMER pub in a popular North Yorkshire resort will be turned into
   residential flats after plans were approved by the council.
 image: https://www.yorkpress.co.uk/resources/images/17832552.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Former pub in North Yorkshire resort to be turned into residential flats

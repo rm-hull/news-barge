@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single
   hottest topic in the community for the past few years, presented by Google for Startups.
 image: https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rapidly than ever before. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. This time around, we’re exploring the business models AI is rewriting, the wealth of unsolved security gaps, and the entirely new job categories AI has created from scratch.

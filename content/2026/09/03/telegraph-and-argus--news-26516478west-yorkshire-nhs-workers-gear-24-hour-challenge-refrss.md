@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: MORE than 200 NHS staff are gearing up for a 24-hour challenge of running,
   rowing, and cycling for charity
 image: https://www.thetelegraphandargus.co.uk/resources/images/21402822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 MORE than 200 NHS staff are gearing up for a 24-hour challenge of running, rowing, and cycling for charity.

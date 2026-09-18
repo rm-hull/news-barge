@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Efforts to bring an empty York supermarket building back into use have
   taken a step forward amid fears over the plans.
 image: https://www.yorkpress.co.uk/resources/images/17263838.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Noise, traffic and health fears over York supermarket plans after McDonald's blocked

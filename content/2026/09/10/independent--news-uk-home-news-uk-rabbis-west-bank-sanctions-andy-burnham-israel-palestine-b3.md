@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: One rabbi described the recent settler violence as ‘violation of God’s
   name of the worst order’
 image: https://static.independent.co.uk/2026/09/10/7/24/GettyImages-2281792133.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Several high-profile UK rabbis have shown support for Andy Burnham’s sanctions on illegal Israeli settlements in the West Bank, warning that settler violence should not be tolerated.

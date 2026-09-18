@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Ladbroked owner Entain has warned that further losses could occur if
   machines game duty is doubled in the Budget
 image: https://static.independent.co.uk/2026/08/13/08/13075506-af21393f-0ebb-42a7-9e2e-b6d2b3f91be7.jpg?trim=0,60,0,59&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Ladbrokes owner Entain has announced plans to cut around 400 global jobs, blaming rising tax burdens and warning of further losses amid speculation over plans to double machine games duty in the Budget.

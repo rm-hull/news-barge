@@ -11,6 +11,9 @@ description: Israel’s Prime Minister Benjamin Netanyahu is making a whirlwind 
   York’s mayor urged his arrest over the war in Gaza, That's according to Israel’s
   U.N. Ambassador Danny Danon on Tuesday
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 Israeli Prime Minister Benjamin Netanyahu is making a whirlwind 24-hour trip to speak at the annual U.N. gathering of world leaders this month because “there is no option” after New York’s mayor urged his arrest over the war in Gaza, Israel’s U.N. envoy said Tuesday.

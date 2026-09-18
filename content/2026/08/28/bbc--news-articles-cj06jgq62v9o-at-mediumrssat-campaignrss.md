@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The British citizen, who lives and works in the US, has supported Trump
   and ICE agents in the past.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Yiannopoulos seen holding a news conference in 2017](https://ichef.bbci.co.uk/ace/standard/938/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg)

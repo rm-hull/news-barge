@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: York has been named one of the UK’s best stargazing spots, beating many
   better-known rural destinations despite its urban setting.
 image: https://www.yorkpress.co.uk/resources/images/21464775.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

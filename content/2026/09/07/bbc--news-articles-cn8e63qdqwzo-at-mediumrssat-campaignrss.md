@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The long-running claim alleges Grindr breached UK privacy laws by sharing
   data with third parties.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Grindr's app logo, displayed on a smartphone screen, is held in front of a yellow and black backdrop bearing the company's logotype.](https://ichef.bbci.co.uk/ace/standard/984/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg)

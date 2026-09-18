@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:29:39Z'
 published: '2026-09-01T00:00:00Z'
 description: Ambulance resources were visible in the Bradford district on Friday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14861168.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 AMBULANCE resources were visible in the Bradford district on Friday.

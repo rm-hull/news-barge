@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: There's another IKEA smart home product to check out, and this one helps
   you manage temperatures at home.
 image: https://cdn.mos.cms.futurecdn.net/AL2rrbAUhZFkwURBL9y22X-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A hand holding a phone showing the IKEA app next to an IKEA Liljebagge smart thermostat on a radiator](https://cdn.mos.cms.futurecdn.net/AL2rrbAUhZFkwURBL9y22X.jpg) 

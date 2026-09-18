@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The North East Automotive Alliance, Ingeus and the North East Mayoral
   Strategic Authority have launched a new InclusionWorks programme to help North…
 image: https://www.thenorthernecho.co.uk/resources/images/21365729.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

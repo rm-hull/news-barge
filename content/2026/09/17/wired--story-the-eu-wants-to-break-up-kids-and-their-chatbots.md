@@ -9,6 +9,9 @@ description: ChatGPT, Character.ai, and Snapchat’s My AI will all be in the cr
   as the AI Kids Act aims to strip minor-facing chatbots of all the things that make
   people love them.
 image: https://media.wired.com/photos/6aab1786abb62f15c7494fe0/191:100/w_1280,c_limit/business_europe_kids_ai_chatbots.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The EU plans to ban chatbots from simulating emotions or interpersonal relationships in interactions with anyone under the age of 18 as the bloc tries to stop children from developing emotional dependencies on the technology.

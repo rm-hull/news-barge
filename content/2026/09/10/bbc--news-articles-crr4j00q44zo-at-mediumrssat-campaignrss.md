@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Female DJs describe their experiences of safety and the wider issue of
   sexism in the nightlife scene.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97ee/live/ba32eff0-ad2d-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Closeup of Andrea Shearer, she is backed by a light pink background.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/97ee/live/ba32eff0-ad2d-11f1-9bc8-3509bd1a4ead.jpg)

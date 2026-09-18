@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A man in his 60s has been released on bail after allegedly threatening
   a woman on a train near Darlington, prompting passengers to intervene.
 image: https://www.thenorthernecho.co.uk/resources/images/21458846.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SARAH CALDECOTT)*

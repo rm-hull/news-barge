@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Court hears Mauro Paul Coluzzi and two associates defrauded customers
   and banks of more than $130,000
 image: https://i.guim.co.uk/img/media/f034c27ead66c4e73877c5ee47ed52c78944d21a/1807_379_6189_4952/master/6189.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a52c3b82fa6245d373588fc76436e031
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 An Australia Post worker’s crippling gambling addiction spiralled into purchases of gold jewellery, phones and even online gaming gift cards with stolen bank cards.

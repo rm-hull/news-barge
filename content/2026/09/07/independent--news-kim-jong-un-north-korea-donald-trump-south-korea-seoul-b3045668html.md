@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: North Korea says leader Kim Jong Un has commissioned his second naval
   destroyer and called for building a more reliable nuclear deterrent
 image: https://static.independent.co.uk/2026/08/21/06/Koreas_US_55679.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 North Korean leader Kim Jong Un commissioned his second naval destroyer and called for building a more reliable nuclear deterrent, state media reported Monday, as the U.S., South Korea and Japan began a trilateral military exercise he views as a security threat.

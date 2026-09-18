@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Thousands have descended on a small Spanish town for the annual La Tomatina
   food fight
 image: https://static.independent.co.uk/2026/08/26/14/2026-08-26T125737Z_549687659_RC2C6NAWY7TG_RTRMADP_3_SPAIN-CULTURE-TOMATO-FIGHT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Thousands of people gathered in the Spanish town of Buñol on Wednesday for the annual La Tomatina festival, painting the streets red with tons of overripe tomatoes.

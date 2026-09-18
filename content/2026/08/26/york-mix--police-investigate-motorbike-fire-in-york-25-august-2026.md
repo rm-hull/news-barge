@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:57:18Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/01/police-tape-fire-engine-canva.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police are investigating a motorbike fire in York.

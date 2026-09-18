@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Median rent for one-bedroom apartment in city tops $4,495 with a national
   median of $1,900
 image: https://i.guim.co.uk/img/media/c73f4f2d31ef4b4b15ec0c8eb59fd93b43751b42/865_0_4331_3464/master/4331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8da2d04087f0d76f586c2a5024f8a636
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 San Francisco’s mayor, Daniel Lurie, declared a rent emergency on Thursday, proposing reforms aimed at curbing evictions and preventing rent spikes as the city grapples with soaring apartment prices.

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: People are being warned to not to take a dip in any Yorkshire Water reservoir
   over the Bank Holiday Weekend.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE5ZGQxN2IzLWE2MDMtNGVlYy04MzA1LTI5OTZjNjYxMTM0ZTo3YWE4ZTRlZC04NTNmLTQxNzQtODYzNy00Y2E2N2U2MWZiYzk=.jpg?crop=3:2,smart&trim=&width=580&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Yorkshire Water: Bank holiday warning over reservoir dips following tragedies

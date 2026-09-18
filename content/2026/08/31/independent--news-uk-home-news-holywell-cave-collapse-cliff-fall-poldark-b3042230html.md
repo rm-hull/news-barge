@@ -7,6 +7,9 @@ scraped_at: '2026-08-31T16:08:05Z'
 published: '2026-08-31T00:00:00Z'
 description: The major cliff fall happened over the bank holiday weekend
 image: https://static.independent.co.uk/2026/08/31/15/45/789347589_18622165984051570_2153823537096255261_n.jpeg?trim=399,0,625,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Visitors to a beach made famous by the BBC series Poldark have been urged to stay well away from a cliff fall which has destroyed a beachside cave in Cornwall.

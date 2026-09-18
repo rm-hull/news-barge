@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Crackpot theories were once the stuff of shortwave radio, but September
   11 unleashed the Age of Alex Jones.
 image: https://media.wired.com/photos/6aa3274315a68f9c2571c796/191:100/w_1280,c_limit/TheBigStory_Garrett%20Graff%209-11%20Truth%20Anniversary%20Essay_v2.2.jpg
+categories:
+- Technology & Software
+- Science
+- Music
 ---
 
 There are many, many strange things about the stew of conspiracy theories that fall under the umbrella of “9/11 Truth”—the false, often antisemitic worldview purporting that the US government had inside knowledge of or even actively participated in the September 11 attacks. But perhaps the strangest is that the seed of these theories was planted three months before the attacks themselves.

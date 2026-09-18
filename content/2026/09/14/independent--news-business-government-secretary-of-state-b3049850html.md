@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The Government has found that the Pubs Code Adjudicator (PCA) is working
   following a review of the sector watchdog.
 image: https://static.independent.co.uk/2025/06/24/00/23130412-c42cc16d-2917-4347-a951-6370fc078dbf.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Government has rejected pub industry calls for regulation of the sector to be watered down, but stressed that there are still “areas for improvement”.

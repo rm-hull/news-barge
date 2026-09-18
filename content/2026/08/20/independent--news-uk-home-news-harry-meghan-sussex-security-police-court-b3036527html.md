@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Home Office and Buckingham Palace refuse to say whether Duke of Sussex
   and family will have taxpayer-funded protection by armed police
 image: https://static.independent.co.uk/2026/08/20/17/86220a226b96112244acc24da7345ccaY29udGVudHNlYXJjaGFwaSwxNzg3MzI5MDEy-2.83640595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Questions remain over Harry and Meghan’s security arrangements just weeks before the couple are to return to the UK, six years after they dramatically quit royal life and moved to the US.

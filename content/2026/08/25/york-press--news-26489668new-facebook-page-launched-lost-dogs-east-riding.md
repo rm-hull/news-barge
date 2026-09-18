@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: East Riding of Yorkshire Council’s dog warden team has set up a dedicated
   Facebook page to help people find their lost dogs.
 image: https://www.yorkpress.co.uk/resources/images/21362743.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- York
+- Pets & Animals
 ---
 
 *(Image: East Riding of Yorkshire Council)*

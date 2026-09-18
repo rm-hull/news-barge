@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A baby whose skeleton was discovered beneath floorboards in Bishop Auckland
   wrapped in newspaper more than a century after his death was killed in a…
 image: https://www.thenorthernecho.co.uk/resources/images/21470299.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A baby whose skeleton was discovered beneath floorboards in Bishop Auckland more than a century after his passing was likely strangled to death, a coroner has concluded.

@@ -9,6 +9,9 @@ description: Luffu Link combines all day health sensing, voice logging, location
   and the ability to get help from trusted contacts into a single device, all without
   needing a phone nearby.
 image: https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Luffu, a new startup from Fitbit’s co-founders James Park and Eric Friedman, on Tuesday launched Luffu Link, an LTE-enabled health and safety band designed to monitor the wearer’s overall health, both physical and mental. The wearable combines all-day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, even when no phone is nearby.

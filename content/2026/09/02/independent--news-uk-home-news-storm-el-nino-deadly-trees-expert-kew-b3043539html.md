@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: An expert warned some tree species like oak and beech could disappear
   from England’s landscape
 image: https://static.independent.co.uk/2026/09/02/15/2291410362..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Outdoors & Nature
 ---
 
 Storms associated with El Niño could pose a danger to England’s dry trees with some species at risk of disappearing from the landscape, an expert has warned.

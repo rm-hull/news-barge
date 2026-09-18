@@ -9,6 +9,9 @@ scraped_at: '2026-09-11T12:49:39Z'
 published: '2026-09-11T00:00:00Z'
 description: Windows recovery gets easier.
 image: https://cdn.mos.cms.futurecdn.net/j5zs5ecSDHaXsQ5BGtwxvN-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Framework Laptop 13 Pro](https://cdn.mos.cms.futurecdn.net/j5zs5ecSDHaXsQ5BGtwxvN.jpg) 

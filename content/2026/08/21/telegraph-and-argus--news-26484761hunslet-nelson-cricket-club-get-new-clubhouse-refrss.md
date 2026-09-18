@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A historic cricket club is set to get upgraded facilities after plans
   were agreed with the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354697.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Google)*

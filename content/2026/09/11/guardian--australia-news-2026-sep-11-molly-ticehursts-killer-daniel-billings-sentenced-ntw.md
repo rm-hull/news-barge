@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Ticehurst’s former partner had pleaded guilty to stabbing her 15 times
   at her Forbes home just before midnight on 21 April 2024
 image: https://i.guim.co.uk/img/media/e7d8f0009839b44982401ea419934df7a4770271/194_956_2094_1674/master/2094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f28419c1ca184fc534c105a61d486a8
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Molly Ticehurst’s ex-boyfriend has been sentenced to 28 years in jail for her senseless and brutal murder, which was revenge for her reporting allegations of sexual assault to police.

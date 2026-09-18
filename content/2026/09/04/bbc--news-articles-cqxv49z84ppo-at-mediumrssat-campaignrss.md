@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Reduced but resilient, girl group Katseye received a hero's welcome in
   London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Katseye on stage in London](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg)

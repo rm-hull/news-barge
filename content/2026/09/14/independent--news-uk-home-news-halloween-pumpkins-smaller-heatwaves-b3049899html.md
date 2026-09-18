@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Growers have suggested families should draw or paint on their pumpkins
   for Halloween rather than carving them
 image: https://static.independent.co.uk/2025/10/28/16/58/iStock-1337070138.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Halloween pumpkins may not be big enough to carve this year after record breaking heatwaves and persistent drought stunted the crops growth.

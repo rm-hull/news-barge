@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:40:53Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Halloween-guide-2026.png
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Looking for things to do in York this Halloween and half term? We’ve got the guide for you.

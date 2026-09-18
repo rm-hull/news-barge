@@ -9,6 +9,11 @@ description: A 77-year-old motorcyclist has died following a crash with a car in
   Yorkshire, with an 81-year-old man arrested on suspicion of causing death by careless
   driving.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/10/27/Longdales-Lane-in-Ganstead.png?trim=0,26,0,26&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Motorcyclist, 77, dies after car and bike crash on East Yorkshire road

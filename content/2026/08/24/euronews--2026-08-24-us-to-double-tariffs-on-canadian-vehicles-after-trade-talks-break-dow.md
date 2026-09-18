@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: '"Canada has been ripping off the United States of America for years,"
   the president wrote in a post on his Truth Social account.'
 image: https://images.euronews.com/articles/stories/09/88/67/74/1200x675_cmsv2_e64d8b69-697c-5ef7-8544-6c347e9eac3b-9886774.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## "Canada has been ripping off the United States of America for years," the president wrote in a post on his Truth Social account.

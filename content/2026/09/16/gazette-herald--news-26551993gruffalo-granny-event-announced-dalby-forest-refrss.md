@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Dalby Forest will host a day of Gruffalo Granny-themed storytelling and
   family activities as part of a partnership between Julia Donaldson, Axel…
 image: https://www.gazetteherald.co.uk/resources/images/21457846.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Forestry England/Crown copyright)*

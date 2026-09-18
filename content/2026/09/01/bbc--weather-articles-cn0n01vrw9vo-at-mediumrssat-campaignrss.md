@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Tuesday 1 September marks the start of the UK storm season and a new
   list of storm names have been released including Austen, Chloe and Evelyn.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/e063/live/3123c520-a2ee-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Car partially submerged, surrounded by flooded fields following Storm Chandra](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e063/live/3123c520-a2ee-11f1-aed2-8d6da8d75094.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The Federal Reserve and its interest rate policy will be the main focus
   for Wall Street this week
 image: null
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Federal Reserve and its interest rate policy will be the main focus for Wall Street this week.

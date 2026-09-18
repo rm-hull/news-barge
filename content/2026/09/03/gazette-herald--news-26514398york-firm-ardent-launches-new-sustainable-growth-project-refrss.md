@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: York-based Ardent Limited has partnered with Leeds Beckett University
   to develop an intelligent business system.
 image: https://www.gazetteherald.co.uk/resources/images/21399934.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Ardent)*

@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T04:25:59Z'
 published: '2026-09-12T00:00:00Z'
 description: A great phone needs a reliable case
 image: https://cdn.mos.cms.futurecdn.net/xZdzwhGuTn5xAad2JssCDm-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A selection of iPhone Duo cases against a colorful background](https://cdn.mos.cms.futurecdn.net/xZdzwhGuTn5xAad2JssCDm.jpg) 

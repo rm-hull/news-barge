@@ -8,6 +8,13 @@ published: '2026-09-16T00:00:00Z'
 description: A senior Army officer has been cleared by a court martial of failing
   to deal properly with allegations made by a teenage soldier who took her own…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461976.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- True Crime
 ---
 
 A senior Army officer has been cleared by a court martial of failing to deal properly with allegations made by a teenage Bradford soldier who took her own life five months later.

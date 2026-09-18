@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Six-year-old Harry Jackson is believed to be one of only 10 children
   worldwide to undergo the procedure
 image: https://static.independent.co.uk/2026/08/31/15/01M1BNXF688988V1JEHA6DM884.jpg?trim=310,0,714,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A father who donated part of his liver and bowel to his six-year-old son in an “extremely rare” transplant has described it as the “greatest privilege” of his life.

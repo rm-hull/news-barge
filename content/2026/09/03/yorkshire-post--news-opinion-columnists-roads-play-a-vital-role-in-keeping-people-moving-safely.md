@@ -11,6 +11,11 @@ description: Not long after I became leader we completed the Bedale relief road,
   Aiskew, and the thousands of motorists using the A684 up into the Dales who queued
   each year at White Bear Corner in Bedale.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVmMzMxZTkxLTIzZWEtNGM5MC1iZTQxLTRmODlhMWVkMmM3Zjo0ZTEzYjc5ZS1mZDBjLTQ2MGUtOTY0YS1kNjY3ZTZhNjMzMjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Roads play a vital role in keeping people moving safely across the region - Carl Les

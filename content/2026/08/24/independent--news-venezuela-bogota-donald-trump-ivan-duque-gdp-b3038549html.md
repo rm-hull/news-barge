@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Colombian President Abelardo de la Espriella has promised to deport thousands
   of migrants who are in the country without residence permits
 image: https://static.independent.co.uk/2026/08/25/00/Colombia_Migration_64487.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Colombian President Abelardo de la Espriella has promised to deport thousands of migrants who are in the country without residence permits, mainly Venezuelans, as he attempts to make significant changes to the nation’s immigration policies that he says will reduce crime.

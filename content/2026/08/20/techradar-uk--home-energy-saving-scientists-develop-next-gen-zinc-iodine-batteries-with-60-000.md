@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Progress is being made in developing sustainable, fast-charging, long-lasting
   zinc-iodine batteries.
 image: https://cdn.mos.cms.futurecdn.net/QWCqPpQzN3DnC3Dw6bZGYR-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![An illustration of a future battery technology](https://cdn.mos.cms.futurecdn.net/QWCqPpQzN3DnC3Dw6bZGYR.jpg) 

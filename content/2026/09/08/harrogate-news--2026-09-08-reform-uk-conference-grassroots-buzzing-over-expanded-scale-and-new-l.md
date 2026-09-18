@@ -10,6 +10,11 @@ description: BIRMINGHAM — Grassroots organizers within Reform UK have reported
   overwhelmingly positive reception to the party’s expanded annual conference at the
   NEC,
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/mike-jordan-at-the-reform-conference.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 **BIRMINGHAM** — Grassroots organizers within Reform UK have reported an overwhelmingly positive reception to the party’s expanded annual conference at the NEC, pointing to enhanced corporate infrastructure and a successful reboot of its local government strategy.

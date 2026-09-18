@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: IT’S BLOOMING marvellous - this is the time of year when gardeners of
   all ages submit their handiwork to judges in gardening competitions. We took…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 IT’S BLOOMING marvellous - this is the time of year when gardeners of all ages submit their handiwork to judges in gardening competitions such as Yorkshire in Bloom. We took a look back at the colourful blooms on show over the years in settings such as parks, gardens and schools. Feast your eyes.

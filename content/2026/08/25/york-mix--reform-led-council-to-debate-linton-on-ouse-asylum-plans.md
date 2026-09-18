@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T13:08:06Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/05/raf-linton-on-ouse-near-york-dd.jpg
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 PLANS to house people seeking asylum at a former military base are set to be opposed by a Reform-led council on the East Coast.

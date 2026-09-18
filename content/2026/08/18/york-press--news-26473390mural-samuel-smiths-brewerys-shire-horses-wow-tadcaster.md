@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A stunning mural of Samuel Smith’s Brewery’s iconic shire horses is wowing
   Tadcaster.
 image: https://www.yorkpress.co.uk/resources/images/21334103.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## PICTURES: Mural of iconic Sam Smith's brewery horses wows North Yorkshire town

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Durham County Council is investigating after around 20 loose horses were
   seen running through Bishop Auckland.
 image: https://www.thenorthernecho.co.uk/resources/images/11108092.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: NORTHERN ECHO)*

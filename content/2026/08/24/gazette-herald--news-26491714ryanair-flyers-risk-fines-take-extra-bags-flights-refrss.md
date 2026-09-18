@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Ryanair passengers should be careful when taking a crossbody bag on flights
   with them alongside a cabin bag.
 image: https://www.gazetteherald.co.uk/resources/images/20305376.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

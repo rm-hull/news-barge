@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Narrow Lane in Storwood is anticipated to be closed for two days from
   September 1.
 image: https://www.yorkpress.co.uk/resources/images/19217207.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: The Press)*

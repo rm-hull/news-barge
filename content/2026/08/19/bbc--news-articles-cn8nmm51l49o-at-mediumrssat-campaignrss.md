@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: An ombudsman report says disabled people are being let down by a lack
   of accessible communication methods.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 ![Close-up of a person receiving an injection in the upper arm, with a healthcare worker holding a syringe and supporting the arm. The image focuses on the vaccination procedure in a clinical setting, with the background softly blurred.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a8a3/live/e8eb51e0-9b24-11f1-9a2c-6d6ac3827d20.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The decision comes the day after an emotional tribute to actor-director
   Rob Reiner at the Emmys
 image: https://static.the-independent.com/2026/08/13/13/2026-08-12T202040Z_1264964026_RC2LRJAA72C7_RTRMADP_3_PEOPLE-ROB-REINER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Film & TV
 ---
 
 Nick Reiner will not face the death penalty if he’s convicted of killing his parents, Los Angeles County District Attorney Nathan Hochman said Tuesday.

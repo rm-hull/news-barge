@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:32:21Z'
 published: '2026-08-19T00:00:00Z'
 description: The economics of the inference paradox
 image: https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q-920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A business woman looking at AI on a transparent screen](https://cdn.mos.cms.futurecdn.net/478v6VqTvvCMsByCNXZP8Q.jpg) 

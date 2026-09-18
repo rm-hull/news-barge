@@ -8,6 +8,9 @@ scraped_at: '2026-09-11T04:30:01Z'
 published: '2026-09-11T00:00:00Z'
 description: Team USA defend their title at the Bernardus Golf Club in the Netherlands
 image: https://cdn.mos.cms.futurecdn.net/4SADYfByK77gYW8Yxd6Aff-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Nelly Korda of Team United States tees off on the first hole during a practice round prior to the Solheim Cup 2026 at Bernardus Golf in the Netherlands.](https://cdn.mos.cms.futurecdn.net/4SADYfByK77gYW8Yxd6Aff.jpg) 

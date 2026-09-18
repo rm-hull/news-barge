@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Brazilian Supreme Court Justice Flávio Dino has restored two senior police
   officials to their posts, overruling a decision by fellow Justice Andre Mendonca
 image: https://static.independent.co.uk/2026/09/09/15/Brazil_Police_Director_General_55191.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 Brazilian Supreme Court Justice Flávio Dino restored two senior police officials to their posts on Wednesday, overruling a decision by a rival judge and deepening a major crisis at the country's top court.

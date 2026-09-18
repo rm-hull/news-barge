@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Three key findings produced in collaboration between humans and AI bring
   us closer to a solution to the infamous Navier-Stokes puzzle
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311299849.jpg?w=840)

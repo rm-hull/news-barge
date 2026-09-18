@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The MP for Harrogate and Knaresborough has launched a “Save Our High
   Streets” plan as new analysis reveals the severe hit delivered to local jobs and
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/tom-gordon-mp-shops.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 The MP for Harrogate and Knaresborough has launched a “Save Our High Streets” plan as new analysis reveals the severe hit delivered to local jobs and businesses.

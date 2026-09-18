@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: 'The government must now publish the implementing decrees before the
   right to assisted dying can actually be put into effect. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/82/54/81/1200x675_cmsv2_f6d9c1b8-1b58-56b0-910d-7012890be090-9825481.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The government must now publish the implementing decrees before the right to assisted dying can actually be put into effect.

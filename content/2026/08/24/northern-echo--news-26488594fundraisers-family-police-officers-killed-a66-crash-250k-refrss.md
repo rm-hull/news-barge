@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: More than £250,000 has been raised for the family of two police officers
   who died when a car driving the wrong way on a dual carriageway crashed…
 image: https://www.thenorthernecho.co.uk/resources/images/21360944.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- True Crime
 ---
 
 More than £250,000 has been raised for the families of two police officers who died when a car driving the wrong way on a dual carriageway crashed into their vehicle.

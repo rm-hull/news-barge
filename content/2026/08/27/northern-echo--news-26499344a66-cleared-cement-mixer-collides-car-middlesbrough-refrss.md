@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The A66 has now reopened in Middlesbrough following a collision between
   a cement mixer and a car heading eastbound between Borough Road and Cargo…
 image: https://www.thenorthernecho.co.uk/resources/images/21339691.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ## Our live feed has now finished.

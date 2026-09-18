@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Mercedes' George Russell secures pole position for the Dutch Grand Prix
   sprint race, ahead of Lando Norris and Charles Leclerc.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8726/live/a0e97700-9d77-11f1-a7fd-5fe2fcb0be12.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![George Russell celebrates taking sprint pole in Zandvoort](https://ichef.bbci.co.uk/ace/standard/987/cpsprodpb/8726/live/a0e97700-9d77-11f1-a7fd-5fe2fcb0be12.jpg)

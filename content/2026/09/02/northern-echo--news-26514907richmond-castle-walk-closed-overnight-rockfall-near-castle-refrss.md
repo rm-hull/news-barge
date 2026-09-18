@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: One of Richmond’s most popular walking routes has been closed after rocks
   fell from the area around Richmond Castle.
 image: https://www.thenorthernecho.co.uk/resources/images/20899400.jpg?type=og-image&xType=54&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Solstice Heritage)*

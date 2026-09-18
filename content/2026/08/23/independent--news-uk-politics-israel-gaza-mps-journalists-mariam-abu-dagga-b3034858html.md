@@ -9,6 +9,11 @@ description: A joint investigation has uncovered evidence of possible war crimes
   by the Israeli military in an August 2025 attack that killed Independent Arabia’s
   Gaza correspondent Mariam Abu Dagga
 image: https://static.independent.co.uk/2026/08/18/12/33/5432FB_IMG_1785862113536-ceee7070.jpeg?trim=0,0,455,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 MPs have urged the government to “take the strongest measures” against Israel in the wake of an investigation by *The Independent* into the killing of journalists, first responders and medics in a “double-tap” attack on one of the last functioning hospitals in Gaza. 

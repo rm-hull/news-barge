@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Police received information nearly immediately after the killing. It
   took Las Vegas police 27 years to make an arrest
 image: https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=871bda43c28f7c8c581988232def456c
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s murder on the lack of cooperation from key witnesses, and on gang members’ “snitches get stitches” culture.

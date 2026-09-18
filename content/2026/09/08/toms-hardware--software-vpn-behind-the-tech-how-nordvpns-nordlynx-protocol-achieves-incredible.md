@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: State-of-the-art ChaCha 20 cryptography and an exceptionally lean 10,000-line
   codebase deliver blistering performance
 image: https://cdn.mos.cms.futurecdn.net/9g5HrEH8iLTX7cZCUDnvQm-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![NordVPN](https://cdn.mos.cms.futurecdn.net/9g5HrEH8iLTX7cZCUDnvQm.png) 

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: The state premier initially said Lily Hooper had been found alive before
   police confirmed her death.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A blonde woman in a green singlet is pictured in the left. On the right, the same woman is seen sitting on a plane, with her hair in two plaits.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg)

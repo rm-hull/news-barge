@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A restaurant has been allowed to keep its licence after measures were
   agreed to ensure its staff are allowed to work in the UK.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459952.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: LDRS)*

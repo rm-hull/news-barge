@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: George Clooney and Danny Boyle will help open the Venice Film Festival,
   which kicks off Wednesday
 image: https://static.independent.co.uk/2026/09/02/05/Venice_Film_Festival-Preview_97214.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 George Clooney and Danny Boyle are helping kick off the Venice Film Festival in style Wednesday on the Lido. Clooney, a festival mainstay, is receiving a lifetime achievement award, while Boyle is premiering “Ink,” his film about Rupert Murdoch's acquisition of the British tabloid “The Sun” in 1969.

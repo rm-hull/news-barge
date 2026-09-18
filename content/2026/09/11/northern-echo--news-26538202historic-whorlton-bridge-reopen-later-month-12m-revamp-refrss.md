@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Whorlton Bridge near Barnard Castle will reopen on September 25 after
   a £12m restoration, restoring the historic River Tees crossing after seven…
 image: https://www.thenorthernecho.co.uk/resources/images/21434156.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 ### What is the Public Notice Portal?

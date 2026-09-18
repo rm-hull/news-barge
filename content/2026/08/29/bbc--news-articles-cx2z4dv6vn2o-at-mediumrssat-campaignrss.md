@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Households and businesses have become used to tariffs impacting the cost
   of living for more than year now, so what will change now?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3575/live/40950170-a24b-11f1-b3a6-2bc501807fe4.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![US President Donald Trump (left) speaks with Canada's Prime Minister Mark Carney during a work lunch as part of the G7 summit, in Evian, eastern France, on June 16, 2026. Trump is sitting down while Carney is standing over but leaning into the conversation.](https://ichef.bbci.co.uk/ace/standard/935/cpsprodpb/3575/live/40950170-a24b-11f1-b3a6-2bc501807fe4.jpg)

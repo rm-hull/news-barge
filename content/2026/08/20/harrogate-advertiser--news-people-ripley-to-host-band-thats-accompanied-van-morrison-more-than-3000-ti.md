@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: The wooden floorboards of the Harrogate area’s oldest venue are to host
   its ‘biggest ever gig’ with a band almost as famous as its usual lead singer.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFmM2U3MmY4LTAzMzEtNDA4YS1hOTU4LTNiOGU0YTA4ZTY4YTo1YzgyMWE5Ni02YzBlLTRhMjQtOGY0Ny1mZGQ5YjIxY2UyMzA=.jpg?crop=3:2,smart&trim=&width=1090&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 # Ripley to host band that's accompanied Van Morrison more than 3,000 times in concert

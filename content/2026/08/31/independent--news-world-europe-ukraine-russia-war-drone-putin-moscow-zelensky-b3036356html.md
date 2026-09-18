@@ -9,6 +9,10 @@ description: Ukraine is striking deeper into the heart of Russia than ever befor
   with swarms of drones that have led Russians into a panic.Experts say that Kyiv’s
   resourcefulness is a result of studying Moscow, Maira Butt reports
 image: https://static.independent.co.uk/2026/08/18/01/110C7qCm-2u4wPkYbbUszJdMfuoUZc_mbj6_dlIT9bb22N4OIN9XdXfzTT-zmyiFrdfu3H-4xaOL6BNfJuZzyVMLheRchh_8ZwcQ..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 In 2023, a year into Russia’s unprecedented invasion of Ukraine, Kyiv was producing around 800,000 drones a year. By 2024, that number had more than doubled to two million.

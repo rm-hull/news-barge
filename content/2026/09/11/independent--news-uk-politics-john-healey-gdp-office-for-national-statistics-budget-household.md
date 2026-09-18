@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Gross domestic product (GDP) increased by 0.4% in July, following growth
   of 0.3% in June, official figures showed.
 image: https://static.independent.co.uk/2026/09/11/11/23100730-a21fa32f-803f-4a85-b080-51068b8cd59f.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Creator Economy & Marketing
 ---
 
 The UK economy recorded surprise growth in July as the AI spending boom helped deliver a boost, despite emerging signs of strain on households.

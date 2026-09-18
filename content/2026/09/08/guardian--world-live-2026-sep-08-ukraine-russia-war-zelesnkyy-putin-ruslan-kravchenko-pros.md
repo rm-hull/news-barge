@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Moscow’s foreign minister issues warning to ‘Russophobic lobby in Budapest’
   after diplomats expelled for ‘unacceptable’ activities
 image: https://i.guim.co.uk/img/media/038af15df82ab51d97dfb4ac7ef9022e491f76b1/1204_127_2689_2152/master/2689.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a6ed769874cb3a0b1973c53a9fa92096
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Prime minister Péter Magyar and foreign minister Anita Orbán (who announced the expulsion of the diplomats today) pictured in May. Photograph: Bernadett Szabó/Reuters

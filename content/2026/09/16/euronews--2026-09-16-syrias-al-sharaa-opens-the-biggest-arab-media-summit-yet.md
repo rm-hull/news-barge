@@ -9,6 +9,11 @@ description: Syria's president delivered the opening keynote in Dubai on Tuesday
   a day that also brought the UAE's most complete account of the cyber-attacks it
   faced this year and new figures on Dubai's media economy.
 image: https://images.euronews.com/articles/stories/09/91/60/75/1200x675_cmsv2_ed2705ba-35f5-5977-89cd-6e487e093c9c-9916075.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Syria's president delivered the opening keynote in Dubai on Tuesday, a day that also brought the UAE's most complete account of the cyber-attacks it faced this year and new figures on Dubai's media economy.

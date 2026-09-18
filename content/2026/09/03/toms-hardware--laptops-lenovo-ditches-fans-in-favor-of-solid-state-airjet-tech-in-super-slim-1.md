@@ -10,6 +10,10 @@ published: '2026-09-03T00:00:00Z'
 description: Project Swan puts a 17-inch, 16:9 display inside a 14-inch, 3.5-pound
   chassis.
 image: https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Lenovo Laptop Concepts](https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH.jpg) 

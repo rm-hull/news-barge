@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: BBC Sport F1 correspondent Andrew Benson answers your latest questions
   before the Italian Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/310d/live/e3006720-a5c9-11f1-8543-aba44f51f79c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![McLaren's Oscar Piastri at the 2026 Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/310d/live/e3006720-a5c9-11f1-8543-aba44f51f79c.jpg)

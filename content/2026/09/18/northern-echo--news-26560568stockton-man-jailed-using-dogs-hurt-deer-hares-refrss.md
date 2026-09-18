@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Connor Bradshaw - who used his dogs to hunt and injure deer and hares
   - has been jailed and banned from keeping dogs for 15 years.
 image: https://www.thenorthernecho.co.uk/resources/images/21470434.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Cleveland Police)*

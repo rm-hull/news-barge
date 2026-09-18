@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Broadcaster Dame Jenni Murray died days after being involved in a car
   crash which happened when she was dazzled by headlights, an inquest was told.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgxYmZiNjQ1LWNmNDktNDNmMC1hMThhLTVlMDUwZGVkY2ZkMzozZGYwMTRlOC1kNGU3LTRiNDItOWRiNy04OWI2ZTU1Yzg4YWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Yorkshire-born broadcaster Dame Jenni Murray died after being 'dazzled' in car crash, inquest hears

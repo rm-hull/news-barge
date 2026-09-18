@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: More than three million children are set to benefit from free school
   meals and breakfast clubs
 image: https://static.independent.co.uk/2025/12/15/16/01/classroom-stock-children.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Annual back-to-school costs can be pricey for parents, but families could save £1,200 this year on school uniforms and lunches.

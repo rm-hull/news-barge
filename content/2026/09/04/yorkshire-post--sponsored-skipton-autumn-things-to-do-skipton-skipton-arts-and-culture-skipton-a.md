@@ -9,6 +9,11 @@ description: Skipton may be best known as a gateway to the Yorkshire Dales, but 
   a little closer and you’ll discover an unexpectedly thriving cultural scene in a
   beautiful setting – and Autumn is the perfect time to visit.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/14/53/Craven_Museum.jpeg?trim=0,156,0,156&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Enjoy Skipton’s cultural scene – a visit full of art, theatre and inspiration in a stunning location

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: ‘There is no serious dispute that an objective viewer of Comey’s post
   could read it to mean ‘Kill President Trump,’’ prosecutors said
 image: https://static.independent.co.uk/2026/04/30/3/52/GettyImages-509219390.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 The Department of Justice continues defending its prosecution against former FBI Director James Comey, claiming “there is no serious dispute" that the social media post of seashells he made last year on Instagram could be understood as a threat against President Donald Trump.

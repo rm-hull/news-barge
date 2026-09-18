@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A man who treated his ex-partner “dreadfully” for most of last year is
   due to leave prison after spending 207 days on remand.
 image: https://www.thenorthernecho.co.uk/resources/images/21108374.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: The Northern Echo)*

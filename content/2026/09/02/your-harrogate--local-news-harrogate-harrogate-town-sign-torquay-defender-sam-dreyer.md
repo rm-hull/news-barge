@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Harrogate Town have signed Torquay United centre-back Sam Dreyer for
   an undisclosed fee.
 image: https://mmo.aiircdn.com/409/6a982f3c0acc576ff5d.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a982f3c0acc576ff5d.jpg) 

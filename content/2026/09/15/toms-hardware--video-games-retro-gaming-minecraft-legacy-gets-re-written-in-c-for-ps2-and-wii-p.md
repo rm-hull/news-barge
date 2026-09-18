@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The game is based on the Minecraft Java 1.2.5 source code, and has been
   tested on emulators and original hardware.
 image: https://cdn.mos.cms.futurecdn.net/Ed6DypxjYRnxYpGgNJboXd-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Minecraft Legacy for the Sony PlayStation 2 and Nintendo Wii](https://cdn.mos.cms.futurecdn.net/Ed6DypxjYRnxYpGgNJboXd.jpg) 

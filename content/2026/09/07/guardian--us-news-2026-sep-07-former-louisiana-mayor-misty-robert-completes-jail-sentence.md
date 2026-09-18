@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Judge admits he made mistake in sentencing Misty Roberts, who faced up
   to 17 years in prison after conviction
 image: https://i.guim.co.uk/img/media/35fe9e7621ef95b4919cf248355e72ac7531c3cc/111_8_1135_908/master/1135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81ae9d995248db73a06a4ba55336f072
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The former Louisiana mayor Misty Roberts has completed the 90-day jail sentence she received for raping a 16-year-old boy while still in elected office and been released from custody, according to state corrections records.

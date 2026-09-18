@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: York letters debate World Heritage status, the city’s iron heritage,
   police crime photos, £72m Reform UK donations and Nigel Farage’s wealth.
 image: https://www.yorkpress.co.uk/resources/images/21453473.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- News & Politics
 ---
 
 *(Image: Newsquest)*

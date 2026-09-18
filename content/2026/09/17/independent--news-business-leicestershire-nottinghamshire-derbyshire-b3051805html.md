@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The high street chain offered customers the chance to swap the Steak
   & Stilton Bake for a free Steak Bake if they did not like the taste.
 image: https://static.independent.co.uk/2026/09/17/11/17105513-2d1e870e-fc07-4831-b15e-43af47e26856.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A Greggs pastry filled with Stilton cheese has become its second-biggest launch ever, beaten only by its Festive Bake, the retailer said.

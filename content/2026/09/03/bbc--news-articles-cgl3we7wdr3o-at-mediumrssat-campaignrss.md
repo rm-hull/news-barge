@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Advocates say data centres will bring jobs but others worry they will
   suck up resources while providing little advantage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 ![A yellow placard reading 'No data centre' in front of a house and trees](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg)

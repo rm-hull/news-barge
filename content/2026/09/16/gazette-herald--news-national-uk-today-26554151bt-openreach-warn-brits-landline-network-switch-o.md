@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Openreach and BT are converting all traditional phone lines to digital
   on January 31, 2027 - users need to switch or be left with no service.
 image: https://www.gazetteherald.co.uk/resources/images/20464214.jpg?type=og-image&xType=0&yType=200
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

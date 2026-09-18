@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:42:14Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/emeli-sande.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Emeli Sandé has announced a UK tour to celebrate 15 years of her landmark debut album ‘Our Version of Events’ – and it’s kicking off in York!

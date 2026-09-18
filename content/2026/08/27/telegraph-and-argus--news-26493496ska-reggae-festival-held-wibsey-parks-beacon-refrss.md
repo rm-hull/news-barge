@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T12:00:33Z'
 published: '2026-08-27T00:00:00Z'
 description: A Bradford park will host a ska and reggae festival on Saturday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19316532.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Music
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,10 @@ description: 'Meanwhile, the World Health Organisation said on Friday that one o
   its main warehouses in Ukraine had been affected by an overnight air attack, the
   third such incident in three months. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/16/73/1200x675_cmsv2_792479f6-a4b7-5bde-87ae-3db10d000f1b-9901673.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Meanwhile, the World Health Organisation said on Friday that one of its main warehouses in Ukraine had been affected by an overnight air attack, the third such incident in three months.

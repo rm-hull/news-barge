@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Some Trump administration officials reportedly hope that America.gov
   will help boost Republican congressional candidates in the midterm elections
 image: https://static.independent.co.uk/2026/06/30/15/2200924488..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Former members of Elon Musk's controversial Department of Government Efficiency — including one known as “Big Balls” — are reportedly developing a new government services website for the public that will be powered by artificial intelligence.

@@ -10,6 +10,11 @@ description: After two crypto billionaires handed Reform UK £72m in just 48 hou
   argues why it could change more than the party’s campaign operation. Report by Maja
   Anushka
 image: https://static.independent.co.uk/2026/09/16/12/30/hero-image-(92).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 For Reform UK, money has become a story in its own right.

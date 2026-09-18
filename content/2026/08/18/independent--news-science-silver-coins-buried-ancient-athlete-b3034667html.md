@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Finding considered one of the most important from time period between
   5th and 4th century BC
 image: https://static.independent.co.uk/2026/08/18/6/37/Newly-reported-grave-from-Aspendos.png?trim=54,185,57,178&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Excavations at the ancient city of Aspendos in Turkey have unravelled a trove of 2,400-year-old silver coins bearing engravings of wrestlers from the era, shedding light on the life of an athlete from around the fifth century BC.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:07:33Z'
 published: '2026-08-25T00:00:00Z'
 description: Microsoft is tackling unwanted bots
 image: https://cdn.mos.cms.futurecdn.net/SBzPzhCfwgmSc69ebbGyEi-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Microsoft Teams logo on smartphone](https://cdn.mos.cms.futurecdn.net/SBzPzhCfwgmSc69ebbGyEi.jpg) 

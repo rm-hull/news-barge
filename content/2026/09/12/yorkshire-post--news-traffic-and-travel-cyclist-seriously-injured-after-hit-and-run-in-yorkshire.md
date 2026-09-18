@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A cyclist has suffered serious injuries after a collision on a residential
   road in Leeds yesterday (September 11).
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/12/11/31/Savile-Drive-2.jpg?trim=0,129,0,128&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Cyclist seriously injured after hit-and-run in Yorkshire

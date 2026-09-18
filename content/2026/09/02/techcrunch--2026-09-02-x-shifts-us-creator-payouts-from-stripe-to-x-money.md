@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: X says U.S. creator payouts will now be handled through its X Money payments
   service, a change that appears to replace the previous Stripe-powered payout system.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Elon Musk’s social network X on Wednesday said that starting today, all of its U.S. creator payouts will be handled through X Money, the app’s payments service.

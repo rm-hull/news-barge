@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:15:11Z'
 published: '2026-08-28T00:00:00Z'
 description: This philosophy has been at the heart of progress for generations
 image: https://cdn.mos.cms.futurecdn.net/XmG86X5KoPAZt8AD5YL5iU-768-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Dennis Gabor](https://cdn.mos.cms.futurecdn.net/XmG86X5KoPAZt8AD5YL5iU.jpg) 

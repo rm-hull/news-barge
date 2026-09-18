@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of
   Real Madrid's match against Elche.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Real Madrid have won six out of seven matches in all competitions this season](https://ichef.bbci.co.uk/ace/standard/951/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg)

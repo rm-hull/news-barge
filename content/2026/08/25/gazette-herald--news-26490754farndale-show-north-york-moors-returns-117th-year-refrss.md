@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T08:55:09Z'
 published: '2026-08-25T00:00:00Z'
 description: A traditional country show is returning for its 117th year.
 image: https://www.gazetteherald.co.uk/resources/images/20983158.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A traditional country show is returning for its 117th year.

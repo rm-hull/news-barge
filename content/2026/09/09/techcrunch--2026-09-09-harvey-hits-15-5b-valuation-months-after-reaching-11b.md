@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The legal AI startup and VC darling has nearly doubled its valuation
   in nine months.
 image: https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Harvey, the legal AI startup that VCs can’t get enough of, has raised another $550 million in funding, this time at a $15.5 billion valuation, the company announced on Wednesday.

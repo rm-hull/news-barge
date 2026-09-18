@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: The round for the two-year-old startup is coming together months after
   Mecka announced its Series A.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Mecka AI, a startup that collects and analyzes human motion data to train humanoid robots and other robotics, is nearing a new round led by Sequoia Capital at a valuation of about $500 million, according to two people with knowledge of the deal.

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A SKIPTON family came together for a special birthday and raised much-needed
   funds for the Yorkshire Air Ambulance.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464097.jpg?type=og-image&xType=0&yType=83
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Claire Boocock)*

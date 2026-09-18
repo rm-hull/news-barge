@@ -9,6 +9,8 @@ scraped_at: '2026-09-15T19:41:45Z'
 published: '2026-09-15T00:00:00Z'
 description: Britain’s toothless AI oversight system has reached its expiration date
 image: https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B-2121-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Houses of Parliament and Westminster Bridge](https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B.jpg) 

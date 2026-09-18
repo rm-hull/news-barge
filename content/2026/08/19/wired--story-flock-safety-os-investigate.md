@@ -9,6 +9,9 @@ description: Flock’s surveillance cameras have already sparked outrage. WIRED 
   its next-generation AI system, already in use by some police, to confirm it goes
   much further than tracking license plates.
 image: https://media.wired.com/photos/6a834e91eca883ccd19e5902/191:100/w_1280,c_limit/Security_Inside%20%E2%80%98Nightshift,%E2%80%99%20the%20AI%20Agent%20Flock%20Built%20for%20Police_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Vehicle surveillance giant Flock Safety has told the public for years that its technology “cannot recognize, identify, or track individuals.” It has now built a system that does both, an artificial intelligence tool for police that can identify drivers and track vehicles by their patterns of movement alone, WIRED has learned.

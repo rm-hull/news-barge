@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Total number of missing Britons between Tibet and Nepal at 48 as Beijing
   mobilises more than 2,100 rescue workers
 image: https://i.guim.co.uk/img/media/d8b2a595bbc3337ffc00017baf1f65fc9b1b4ae1/571_0_5708_4566/master/5708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd831e21d627344b469d48e8f6608b23
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fifteen British nationals are reported to be missing in China as the search continues for survivors of the devastating flooding in Nepal and Tibet.

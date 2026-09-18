@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Two women have been arrested on suspicion of dangerous driving after
   a man died in a crash in Bradford.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM5ZTYyM2IzLWYyYjktNDQ3MS1hZjNjLTQzYWIwNjUyZGVlZjo5YWU4NDAxOS04MmVmLTQxMGEtOGZkMC1kYjkwMDBlNWVmZWE=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man dies in Bradford crash as two women arrested on suspicion of dangerous driving

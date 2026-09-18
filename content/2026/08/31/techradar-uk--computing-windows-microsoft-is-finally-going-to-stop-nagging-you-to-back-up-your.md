@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Not into OneDrive backups? You can now permanently dismiss the nagging
   reminder and get some peace.
 image: https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF-2000-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Windows 11 on a laptop](https://cdn.mos.cms.futurecdn.net/vUENLgpmE9SAJMUqFSigSF.jpg) 

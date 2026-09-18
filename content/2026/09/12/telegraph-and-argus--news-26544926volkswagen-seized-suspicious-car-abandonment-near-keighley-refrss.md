@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: West Yorkshire Police seized a Volkswagen Passat abandoned "suspiciously"
   in the Keighley area after residents reported a man fleeing and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21445171.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

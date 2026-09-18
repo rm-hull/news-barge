@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Environment Agency has warned of further flooding as thunderstorms
   expected to hit
 image: https://static.independent.co.uk/2026/08/28/8/42/Screenshot-2026-08-28-at-09-07-47.png?trim=237,0,90,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Thunderstorms and further flooding will hit parts of the UK on Friday as the Met Office issued fresh warnings for 64 areas.

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: An alleged ringleader, 22-year-old Malone Lam, spent over $569,000 in
   one evening at a Los Angeles night club
 image: https://static.independent.co.uk/2026/09/07/12/Crypto_Scam_57749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 They pulled off one of the largest cryptocurrency thefts in history, duping a stranger out of bitcoin worth over $240 million. And then the party started.

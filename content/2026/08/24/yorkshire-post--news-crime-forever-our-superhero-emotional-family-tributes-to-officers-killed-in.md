@@ -10,6 +10,12 @@ description: The two officers who were killed when a car driving the wrong way o
   a dual carriageway crashed into their police vehicle have been described as heroes
   by their loved ones.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmViZThlMGZiLWQ3OGItNGYzOS04NmEwLWRmNWZlYTA3MDY0ZTpiYjNhMmI3Yy04ZTU0LTQ1NGYtOTY3Mi1lNjhhMDMwODFhZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- True Crime
 ---
 
 # 'Forever our superhero': Emotional family tributes to officers killed in A66 crash

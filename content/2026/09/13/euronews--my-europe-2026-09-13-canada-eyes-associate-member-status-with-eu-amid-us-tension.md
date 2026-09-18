@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: 'Carney reportedly seeks ‘associate’ EU membership as Ottawa-Washington
   ties hit fresh low. He will address the European Parliament next week. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/18/58/1200x675_cmsv2_adebcbcb-4420-5b27-9b8f-aa1f1d3fe861-9911858.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Carney reportedly seeks ‘associate’ EU membership as Ottawa-Washington ties hit fresh low. He will address the European Parliament next week.

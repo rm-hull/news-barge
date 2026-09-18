@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A person has died after being struck by a train during an incident which
   caused disruption to LNER services serving Harrogate.
 image: https://mmo.aiircdn.com/409/67921eb9241f9.jpg
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/67921eb9241f9.jpg) 

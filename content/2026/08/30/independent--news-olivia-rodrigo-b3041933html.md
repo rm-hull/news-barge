@@ -10,6 +10,10 @@ description: Young fans gathered for Olivia Rodrigo’s Daisy Chain Fields festi
   featuring a nearly all women-led lineup performing for free. Proceeds benefit nonprofits
   supporting women’s health, workplace protections and legal rights.
 image: https://static.independent.co.uk/2026/08/31/00/2_26_Daisy_Chain_Fields_Music_Festival_5819_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Daisy Chain Fields benefit festival rallies young fans for women’s well-being, in photos

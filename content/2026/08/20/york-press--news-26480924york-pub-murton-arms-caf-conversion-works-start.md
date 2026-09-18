@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:22Z'
 published: '2026-08-20T00:00:00Z'
 description: Work to transform an empty York village pub are soon set to be underway.
 image: https://www.yorkpress.co.uk/resources/images/20496863.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 ## Works to start to transform empty York pub

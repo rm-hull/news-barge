@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: All three occupants on board were killed when the small plane crashed
   high in the mountains
 image: https://static.independent.co.uk/2026/09/17/7/09/2026_09_15_Leukerbad_PolCantVS-768x432.jpg?trim=0,61,0,59&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Three people have been killed, including two British citizens, after a plane crashed in the Swiss Alps.

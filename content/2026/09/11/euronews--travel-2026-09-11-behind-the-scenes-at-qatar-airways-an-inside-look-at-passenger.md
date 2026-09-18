@@ -9,6 +9,11 @@ description: During a tour of Doha’s Hamad International Airport, Qatar Airway
   and management discussed the airline’s recovery from regional disruption while preparing
   for the winter season, new aircraft and next generation of Qsuites.
 image: https://images.euronews.com/articles/stories/09/90/85/09/1200x675_cmsv2_2a887453-af73-5993-8a39-272e78216867-9908509.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Technology & Software
 ---
 
 ## During a tour of Doha’s Hamad International Airport, Qatar Airways’ CEO and management discussed the airline’s recovery from regional disruption while preparing for the winter season, new aircraft and next generation of Qsuites.

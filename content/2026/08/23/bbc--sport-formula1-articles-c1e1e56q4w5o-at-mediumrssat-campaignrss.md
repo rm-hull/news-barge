@@ -9,6 +9,10 @@ description: Lando Norris says he and McLaren "don't have the car I need to figh
   for a championship", despite a second consecutive win of the season at the Dutch
   Grand Prix.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ebf/live/c15ee710-9f23-11f1-b730-67fb18a6ecb1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lando Norris poses with the winner's trophy after winning the Dutch Grand Prix](https://ichef.bbci.co.uk/ace/standard/890/cpsprodpb/9ebf/live/c15ee710-9f23-11f1-b730-67fb18a6ecb1.jpg)

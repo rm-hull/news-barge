@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Two teenagers were arrested after hiding in a bush during a police chase
   involving a reported stolen motorcycle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21455296.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

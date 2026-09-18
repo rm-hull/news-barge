@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Samantha Shepherd faced court martial over case of 19-year-old Jaysley
   Beck, who had made a sexual assault claim
 image: https://i.guim.co.uk/img/media/2bc6456722bca7200bf71f2bdfb0fc5186ac054d/0_126_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b49dbe8eb444a359b8ea94a29045ec65
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A senior army officer has been cleared by a court martial of failing to deal properly with allegations made by a teenage soldier who went on to kill herself.

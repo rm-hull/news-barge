@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A SEAFRONT fish and chip shop, café, and public toilet is set to be demolished
   in a popular coastal town in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21343622.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Demolition of seafront chip shop and café

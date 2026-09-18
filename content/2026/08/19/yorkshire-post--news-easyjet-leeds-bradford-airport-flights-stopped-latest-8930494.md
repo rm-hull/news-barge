@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: EasyJet has confirmed it is scrapping flights from Leeds Bradford Airport
   (LBA) from the start of next year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRkNDBmOGE4LTU5M2MtNDVkMS1hNzMyLTIzNDk1MGJiMWM5NDpkMGI3ODNmNC00ZGQwLTRmMTgtOWEzYy02NWI0MmMzMzM5YTM=.jpg?crop=3:2,smart&trim=&width=868&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # EasyJet confirms date when flights will stop from Leeds Bradford Airport

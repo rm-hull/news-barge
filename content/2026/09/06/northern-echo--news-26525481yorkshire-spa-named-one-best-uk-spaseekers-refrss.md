@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: The Nàdarra Spa on the edge of the Yorkshire Dales offers a range of
   treatments for its guests to enjoy.
 image: https://www.thenorthernecho.co.uk/resources/images/21396915.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Tripadvisor)*

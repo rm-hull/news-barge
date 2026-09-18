@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Ofgem announced that the energy price cap will rise by 4 per cent from
   October 1
 image: https://static.independent.co.uk/2026/08/26/11/01M0YK4SSB1K1HKS3EZZB4GZEB.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 With summer coming to a close, focus is shifting towards the looming cost of winter energy bills, as the latest price cap announcement reaches its highest level in three years.

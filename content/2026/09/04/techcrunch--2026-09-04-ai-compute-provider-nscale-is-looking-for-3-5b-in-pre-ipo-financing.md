@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Nscale, which recently struck a $45 billion deal with Anthropic, is in
   talks to raise additional funds in anticipation of an upcoming IPO.
 image: https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Nscale, a British AI infrastructure company founded just two years ago, has said it may go public as early as later this month. Ahead of that expected IPO, the company is reportedly in talks to raise an additional $3.5 billion.

@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T22:14:47Z'
 published: '2026-08-28T00:00:00Z'
 description: Firefighters were called to a hissing sound in Whitby.
 image: https://www.gazetteherald.co.uk/resources/images/20139497.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 *(Image: Provided)*

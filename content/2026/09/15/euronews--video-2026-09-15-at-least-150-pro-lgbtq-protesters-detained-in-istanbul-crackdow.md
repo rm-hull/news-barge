@@ -9,6 +9,9 @@ description: Video. Turkish police detained at least 150 pro-LGBTQ protesters in
   on Tuesday, 15 September, during a demonstration against a nationwide crackdown
   on the LGBTQ community.
 image: https://images.euronews.com/articles/stories/09/91/46/57/1200x675_cmsv2_9114ea39-6364-5c8a-bd5f-4c951a25abe2-9914657.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Protesters gathered outside the Çağlayan courthouse, chanting for the release of people detained in recent raids. Police surrounded the group and warned that the demonstration was unauthorised before moving in and taking protesters away in police buses. Two journalists were among those detained.

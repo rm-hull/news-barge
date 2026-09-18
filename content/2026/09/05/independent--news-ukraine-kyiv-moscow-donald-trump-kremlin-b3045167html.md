@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Russian attacks killed four people in Ukraine as Moscow and Kyiv await
   the arrival of U.S. envoys to begin a new push for peace
 image: https://static.independent.co.uk/2026/09/05/10/APTOPIX_Russia_Ukraine_War_29836.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Russian attacks killed four people in Ukraine overnight, as Moscow and Kyiv await the arrival of U.S. envoys to begin a new push for peace in the Kremlin’s 4 1/2-year-old invasion.

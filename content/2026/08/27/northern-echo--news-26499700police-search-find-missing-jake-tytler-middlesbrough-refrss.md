@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Cleveland Police has released a picture to find missing Middlesbrough
   man Jake Tytler.
 image: https://www.thenorthernecho.co.uk/resources/images/21377684.jpg?type=og-image&xType=0&yType=75
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Cleveland Police)*

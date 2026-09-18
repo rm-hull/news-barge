@@ -10,6 +10,8 @@ published: '2026-08-22T00:00:00Z'
 description: Plenty of massive technology companies have come under fire in the last
   few years for antitrust violations
 image: https://cdn.mos.cms.futurecdn.net/vBPHMBMnEYQtbQbN3kajpk-1024-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Peter Thiel headshot photo](https://cdn.mos.cms.futurecdn.net/vBPHMBMnEYQtbQbN3kajpk.jpg) 

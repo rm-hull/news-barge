@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Cleveland police say a total of 24 people arrested in investigation after
   crash that killed two officers
 image: https://i.guim.co.uk/img/media/07fcc222c36d93a58c8f2e243ae4e38b8216b646/320_0_3818_3055/master/3818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f118aad352cf3b09009505d992f6d1a7
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Seven more men have been arrested as part of an operation tackling alleged organised crime after the head-on crash on the A66 that resulted in seven deaths, Cleveland police have said.

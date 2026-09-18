@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A bill to permit assisted dying in England and Wales has been voted down
   in the House of Commons – this is how North Yorkshire MPs voted on the measure.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFhN2UzODhmLWYyZTgtNGEzNS04Yzc0LTJjMjliYzhjOWJiYzo5NzAzNjc2ZC05NTkwLTRkZWItOGQxYS0xZDMzNDMzZjllMjE=.jpg?crop=3:2,smart&trim=&width=183&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 # How North Yorkshire MPs voted on defeated assisted dying bill

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Wold Top Brewery, based in Wold Newton on the Yorkshire Wolds, will host
   its Oktoberfest event later this month.
 image: https://www.gazetteherald.co.uk/resources/images/21193615.jpg?type=og-image&xType=0&yType=310
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: CHRISTOPHER MANSON)*

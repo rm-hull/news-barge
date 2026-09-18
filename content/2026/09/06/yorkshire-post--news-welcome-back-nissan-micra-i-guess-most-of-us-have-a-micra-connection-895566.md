@@ -11,6 +11,11 @@ description: I guess most of us have a Micra connection. There’s a high possib
   in the 1990s. It didn’t raise the hairs on the back of my neck but it was reliable
   and functional.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgxNDFlMDk1LWIwN2MtNDQ0Ni1hNDQzLTUxNDdjYmRlZWI3NDpjNTA2MGNiNC1iYjYzLTQ5NTctOGM2OC0xZDRkMWVmMzFkMDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Welcome back Nissan Micra: “I guess most of us have a Micra connection”

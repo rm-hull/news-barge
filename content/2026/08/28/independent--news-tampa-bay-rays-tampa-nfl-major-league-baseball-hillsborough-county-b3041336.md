@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Tampa Bay Rays have secured county approval for a financing plan
   to build a new stadium
 image: https://static.independent.co.uk/2026/08/28/01/Rays_Ballpark_Baseball_68_88.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Tampa Bay Rays got county approval Friday on a financing plan that will allow them to build a new stadium, a day after city officials approved their part for the $2.3 billion ballpark project that will replace the domed Tropicana Field.

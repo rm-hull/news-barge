@@ -10,6 +10,9 @@ description: In an exclusive interview with Euronews, Kılıçdaroğlu defended 
   not have been detained, and left the door open to backing İmamoğlu in a presidential
   bid.
 image: https://images.euronews.com/articles/stories/09/89/90/03/1200x675_cmsv2_1d226b74-75e9-5613-a9b4-deb8c05f6e65-9899003.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## In an exclusive interview with Euronews, Kılıçdaroğlu defended his court-ordered return to the CHP leadership, said İmamoğlu is not a political prisoner but should not have been detained, and left the door open to backing İmamoğlu in a presidential bid.

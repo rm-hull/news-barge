@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T16:50:48Z'
 published: '2026-08-24T00:00:00Z'
 description: A huge operation
 image: https://cdn.mos.cms.futurecdn.net/SZHWJ7Y7TYpgG6i9da6d9E-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia Taiwan](https://cdn.mos.cms.futurecdn.net/SZHWJ7Y7TYpgG6i9da6d9E.jpg) 

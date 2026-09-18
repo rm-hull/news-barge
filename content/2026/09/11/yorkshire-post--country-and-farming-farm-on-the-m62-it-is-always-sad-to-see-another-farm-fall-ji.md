@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: It always saddens me when I see “farm sales” or “dispersal sale” advertised,
   as it signals the end of a chapter for someone.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUzMzIwNjg0LTVlZWQtNDk2My05MTA4LTJhNTU5MDdiMzhlNTpiNTkxMzI3OS04ZDMzLTQ4MmEtOGEyNC1kODU2NmZhM2EwNzM=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Business & Entrepreneurship
 ---
 
 # Farm on the M62: It is always sad to see another farm fall - Jill Thorp

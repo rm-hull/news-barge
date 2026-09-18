@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Defending champion Carlos Alcaraz is set to make his return at the US
   Open after missing four months with a wrist injury.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Carlos Alcaraz with the US Open trophy in 2025](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg)

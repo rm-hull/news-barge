@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Washington and Florida insiders are exploring lucrative deals for a post-communist
   Cuba crushed by ever-increasing US sanctions
 image: https://i.guim.co.uk/img/media/ed6393748491c430e54fa03b6f014c581910ee71/18_0_3793_3034/master/3793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d85107ae74254fabbaf9dbaa9b0e0a59
+categories:
+- UK
+- News & Politics
 ---
 
 Spanish hotel chains. A Canadian mining firm. European shipping giants. Visa and Mastercard. Scores of foreign companies have been driven out of Cuba this summer over fear of being hit with potent, new secondary sanctions. Marco Rubio, the secretary of state, told Axios last month there are “no escape valves” from his unprecedented pressure campaign against the island.

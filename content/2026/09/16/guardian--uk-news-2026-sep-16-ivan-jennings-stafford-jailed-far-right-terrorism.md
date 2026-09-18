@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Ivan Jennings, 46, sentenced to five years after pleading guilty to encouraging
   terrorism on social media
 image: https://i.guim.co.uk/img/media/6fec82e85afed27425347c5eefce27160d50def6/0_109_1129_903/master/1129.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005cbe6cc05c6847144c91c3f0d50be1
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A rightwing extremist who discussed poisoning Jews and Muslims and called for the killing of migrants and minority communities has been jailed.

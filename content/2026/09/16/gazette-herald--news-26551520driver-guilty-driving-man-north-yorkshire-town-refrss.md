@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A driver drove his car onto the pavement and pinned a pedestrian against
   a wall in a road rage incident, York Crown Court heard.
 image: https://www.gazetteherald.co.uk/resources/images/20152451.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: NQ)*

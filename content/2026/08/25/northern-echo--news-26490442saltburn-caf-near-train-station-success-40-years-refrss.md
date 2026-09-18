@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Serving breakfast, brunch, coffee, cocktails and live music, Signals
   has been a popular part of Saltburn for almost 40 years.
 image: https://www.thenorthernecho.co.uk/resources/images/21364158.jpg?type=og-image&xType=0&yType=523
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Whether you're after a full breakfast before a day at the beach, a coffee while waiting for a train, or cocktails and live music as the sun goes down, this East Cleveland café has it all.

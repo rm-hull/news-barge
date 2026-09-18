@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T09:01:02Z'
 published: '2026-08-24T00:00:00Z'
 description: A 15-year-old boy named Luca has been reported missing from Bingley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361228.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: WYP)*

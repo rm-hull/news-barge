@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Can you help this family seeking memories of a York man killed in a tragic
   1969 work accident?
 image: https://www.yorkpress.co.uk/resources/images/21411500.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 **Family seeks memories of York man killed in 1969 accident**

@@ -8,6 +8,13 @@ published: '2026-09-16T00:00:00Z'
 description: Police seized four vehicles and issued 25 traffic offence reports during
   a road safety crackdown in Eggborough, North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21463387.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Technology & Software
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

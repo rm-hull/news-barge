@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T19:32:44Z'
 published: '2026-09-16T00:00:00Z'
 description: The US is facing major energy constraints
 image: https://cdn.mos.cms.futurecdn.net/LfbTUMsW4jbaYYuuxc3CjT-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Industrial geothermal power plant pipelines at sunset in Larderello, Tuscany region. Steam pipes and equipment for renewable energy production with dramatic pink sky.](https://cdn.mos.cms.futurecdn.net/LfbTUMsW4jbaYYuuxc3CjT.jpg) 

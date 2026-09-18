@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: As the couple plans their return to the UK, Montecito’s whirlwind stint
   on the global stage may be coming to an end
 image: https://i.guim.co.uk/img/media/b326eeee2015019866ea4a61b1b88fe5d7056c98/457_0_4550_3640/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9156ae30a60f7a461c12cb9c642baddc
+categories:
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 The bucolic coastal California town of Montecito was thrust into the limelight six years ago as the backdrop for the Duke and Duchess of Sussex’s second act following an acrimonious split from Buckingham Palace.

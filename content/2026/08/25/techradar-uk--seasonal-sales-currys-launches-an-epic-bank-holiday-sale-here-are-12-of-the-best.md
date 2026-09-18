@@ -10,6 +10,10 @@ description: Currys is back with another Epic Deals event for the upcoming bank 
   weekend, so I've searched through the sale and picked out the top 12 deals that
   I'd recommend.
 image: https://cdn.mos.cms.futurecdn.net/LVASJChqyigznKc4RCV8Ug-2560-80.jpg
+categories:
+- Technology & Software
+- Shopping & Deals
+- Business & Entrepreneurship
 ---
 
 ![A collage of tech deals from the latest Currys Epic Deals sale, including an Acer laptop, Bose earbuds, Dyson vacuum, iPhone 17 Pro Max, LG C6 OLED TV, and De'longhi coffee machine.](https://cdn.mos.cms.futurecdn.net/LVASJChqyigznKc4RCV8Ug.jpg) 

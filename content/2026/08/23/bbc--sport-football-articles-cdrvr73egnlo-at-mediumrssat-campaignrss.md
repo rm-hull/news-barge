@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Dominik Szoboszlai's injury-time penalty rescues a point at the start
   of the Andoni Iraola era - but Liverpool need to improv after below-par performance.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Late penalty saves point for Liverpool

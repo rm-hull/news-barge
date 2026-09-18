@@ -8,6 +8,9 @@ scraped_at: '2026-08-23T09:45:24Z'
 published: '2026-08-23T00:00:00Z'
 description: The Premier League wants to harden teams against emerging cyber threats
 image: https://cdn.mos.cms.futurecdn.net/u9DTfPvgBEBWg7ADPmTJRF-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![A close-up of the official Premier League match ball.](https://cdn.mos.cms.futurecdn.net/u9DTfPvgBEBWg7ADPmTJRF.jpg) 

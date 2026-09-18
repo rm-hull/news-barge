@@ -9,6 +9,10 @@ description: The sole pipeline that supplies water for millions of Grand Canyon 
   was badly damaged by weekend flash flooding, setting up a tricky repair scenario
   and upending a yearslong construction project to upgrade the line
 image: https://static.independent.co.uk/2026/08/31/22/Grand_Canyon_Flooding_Pipeline_8938_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The sole pipeline that supplies water for millions of Grand Canyon visitors was badly damaged by weekend flash flooding, setting up a tricky repair scenario and upending a yearslong construction project to upgrade the line laid over terrain so rugged helicopters are often required to make basic fixes.

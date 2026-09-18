@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: THE classic views of Durham of the imperious cathedral high on its rocky
   plinth with the river sweeping through its wooded banks below are renowned…
 image: https://www.thenorthernecho.co.uk/resources/images/21423770.jpg?type=og-image&xType=0&yType=1124
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 THE classic views of Durham of the imperious cathedral high on its rocky plinth with the river sweeping through its wooded banks below are renowned and recognisable around the world.

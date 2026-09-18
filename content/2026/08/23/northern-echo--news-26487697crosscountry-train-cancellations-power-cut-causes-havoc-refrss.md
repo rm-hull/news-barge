@@ -7,6 +7,11 @@ scraped_at: '2026-08-23T08:43:41Z'
 published: '2026-08-23T00:00:00Z'
 description: A power cut has caused widespread train disruption.
 image: https://www.thenorthernecho.co.uk/resources/images/21358897.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

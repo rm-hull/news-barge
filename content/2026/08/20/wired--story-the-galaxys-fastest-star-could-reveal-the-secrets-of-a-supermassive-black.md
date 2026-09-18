@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: S301 passes close to Sagittarius A*—so close that its orbit could reveal
   how the black hole’s rotation warps the spacetime around it.
 image: https://media.wired.com/photos/6a86feaf342a144305c5b34e/191:100/w_1280,c_limit/590676611
+categories:
+- Technology & Software
+- Science
 ---
 
 A team of astronomers has just detected the fastest star in the galaxy. Its anomalous speed has a more unsettling explanation: It orbits Sagittarius A*, the supermassive black hole at the center of the Milky Way, the mass of which is equivalent to four million times that of the sun.

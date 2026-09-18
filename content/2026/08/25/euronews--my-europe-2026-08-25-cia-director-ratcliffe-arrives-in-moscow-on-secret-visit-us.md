@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'John Ratcliffe reportedly arrived in the Russian capital on Tuesday
   for meetings, in what appears to be his first visit to Russia as CIA director. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/83/58/1200x675_cmsv2_7be52bd1-8c36-5fe3-b3e8-0599a1e2dd62-9888358.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## John Ratcliffe reportedly arrived in the Russian capital on Tuesday for meetings, in what appears to be his first visit to Russia as CIA director.

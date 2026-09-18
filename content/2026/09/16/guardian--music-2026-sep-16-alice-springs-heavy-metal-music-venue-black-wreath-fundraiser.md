@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Supporters from around Australia back the Black Wreath, a volunteer-run
   centre far off the beaten touring track
 image: https://i.guim.co.uk/img/media/0168c7444faa7d8a07c319ef0a821e89a3ecfbf0/529_0_2492_1993/master/2492.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1793e790a9060d8f116f8825a7a9559c
+categories:
+- UK
+- News & Politics
+- Travel
+- Sports
+- Music
 ---
 
 Alice Springs has a population of 34,000 and exactly one dedicated live music space: a heavy metal venue called the Black Wreath. It has hosted hundreds of bands from around the country over the past decade – despite being 1,500km from the nearest city.

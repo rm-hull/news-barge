@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: All Aldi stores in the Bradford district will close for 24 hours later
   this year, giving staff a "chance to rest".
 image: https://www.thetelegraphandargus.co.uk/resources/images/20147663.jpg?type=og-image&xType=0&yType=139
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

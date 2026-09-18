@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T04:25:37Z'
 published: '2026-09-08T00:00:00Z'
 description: A Victorian seafront property in Whitby has been listed for sale at £1.6m.
 image: https://www.yorkpress.co.uk/resources/images/21421708.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## Yorkshire Victorian seafront property with 12 holiday lets listed for sale at £1.6m

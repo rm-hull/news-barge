@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Speaking in the House of Lords on Wednesday, Archbishop of York Stephen
   Cottrell said he welcomed Mr Miliband’s statement
 image: https://static.independent.co.uk/2026/03/03/16/58/SEI234039016.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Archbishop of York Stephen Cottrell has welcomed the UK Government’s plan to ban goods imported from illegal Israeli settlements, while asking whether ministers should target financial institutions.

@@ -9,6 +9,10 @@ description: It's the first policy shift under the new Fed chief, who took offic
   in late May after being selected by Trump with an expectation that he would cut
   rates
 image: https://static.independent.co.uk/2026/09/16/19/2026-09-16T100050Z_1175686549_RC2CELAJHI02_RTRMADP_3_USA-FED.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Federal Reserve has raised interest rates and flagged further increases in borrowing costs in coming months, with new U.S. central bank chief Kevin Warsh joining a unanimous decision that effectively acknowledges the Trump administration's inability so far to control inflation.

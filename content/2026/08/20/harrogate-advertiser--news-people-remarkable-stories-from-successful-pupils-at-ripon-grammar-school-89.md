@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Two students with remarkable stories stood out among a year of incredible
   GCSE success for Ripon Grammar School.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxZjA3ZDNlLTk5ZTEtNDQyYS1iMWI1LWM3NTNlMjhjNjk3MjoyNDFmMzhlNy0zNzEzLTRkZmMtYjg1MC01ZTZkZTg2MTliYjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Remarkable stories from successful pupils at Ripon Grammar School

@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: King Charles has written personally to the families of two Cleveland
   Police officers, Pc Matthew Blades, 37, and Pc Tom Clough, 38, who died in a…
 image: https://www.thenorthernecho.co.uk/resources/images/21387691.jpg?type=og-image&xType=0&yType=65
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 King Charles has written personally to the families of two Cleveland Police officers who died in a devastating head-on crash on the A66.

@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: One company even turned public messaging into a friendly competition
   among executives
 image: https://static.the-independent.com/2026/08/25/16/110128830..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 The days of privately messaging a coworker on Slack to ask a question, share information or vent about a pesky colleague may be numbered as employers increasingly want AI to learn from workplace chats.

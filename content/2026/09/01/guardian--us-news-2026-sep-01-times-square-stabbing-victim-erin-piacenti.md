@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Erin Piacenti, a 32-year-old vice-president at the bank, was killed in
   Tuesday stabbing in New York City, officials say
 image: https://i.guim.co.uk/img/media/c73d60c3fee772901c2c0300de7e86a3a4e0ceb4/792_0_7920_6336/master/7920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=346e4cea406282c521f7a1a5666f3f5f
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 A corporate vice-president at Bank of America was killed in a stabbing in New York City’s Times Square, the second-biggest US lending bank said on Tuesday about a random incident that took place in broad daylight in the bustling heart of Manhattan.

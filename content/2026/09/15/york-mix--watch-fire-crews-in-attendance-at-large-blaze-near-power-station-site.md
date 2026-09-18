@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T22:53:28Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/fire-eggborough-15-sept-2026.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 Several fire crews are in attendance at a large blaze near to a former power station tonight.

@@ -9,6 +9,10 @@ description: 'The next chapter in a spy scandal that has rocked NATO unfolded in
   on Monday, when an individual sitting at the centre of an espionage investigation
   was refused pre-trial release. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/62/31/1200x675_cmsv2_637d8406-5145-5a20-8fb2-547098814533-9896231.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The next chapter in a spy scandal that has rocked NATO unfolded in Belgium on Monday, when an individual sitting at the centre of an espionage investigation was refused pre-trial release.

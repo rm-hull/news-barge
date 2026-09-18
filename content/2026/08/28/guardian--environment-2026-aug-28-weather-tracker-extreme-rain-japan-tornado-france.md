@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Flash flooding and mudslides in Ishikawa and Toyama prefectures, while
   convective storms hit western Europe
 image: https://i.guim.co.uk/img/media/9a89e86e7d7da68296914377d6f8aa2a75c8f102/386_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=265be9f3976dc11379bf8972397e76c1
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 After an “unprecedented” deluge in Chiba in mid-August, Japan has experienced further extreme rainfall in recent days. Moisture from the Sea of Japan brought relentless heavy rain to the prefectures of Ishikawa and Toyama on Thursday.

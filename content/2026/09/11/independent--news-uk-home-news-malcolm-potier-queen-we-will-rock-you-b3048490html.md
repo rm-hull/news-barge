@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: The former property tycoon was previously jailed for hiring a hitman
   to murder his ex-partner
 image: https://static.independent.co.uk/2026/09/11/9/38/Malcolm-Potier.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 A former Scottish Laird who once ordered a hitman to kill his ex-partner has been jailed for throttling a woman because she was singing during Queen musical *We Will Rock You.*

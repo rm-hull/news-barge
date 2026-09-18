@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Bar + Block will close all 20 of its UK sites on Thursday (September
   3) as part of Whitbread’s decision to shut its standalone branded restaurants.
 image: https://www.yorkpress.co.uk/resources/images/21394036.jpg?type=og-image&xType=0&yType=95
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 *(Image: Google Maps)*

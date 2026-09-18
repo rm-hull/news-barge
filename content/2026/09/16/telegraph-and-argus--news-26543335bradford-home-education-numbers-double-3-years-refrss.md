@@ -7,6 +7,13 @@ scraped_at: '2026-09-16T04:43:41Z'
 published: '2026-09-16T00:00:00Z'
 description: More families are looking beyond mainstream education.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21442527.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
+- Education & Learning
 ---
 
 As thousands of children return to classrooms this September, a growing number of families are taking a different approach to education.

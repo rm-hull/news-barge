@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: An outdoor bar next to a medieval ruin in York has been given the go
   ahead.
 image: https://www.gazetteherald.co.uk/resources/images/21002646.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Travel
 ---
 
 ### What is the Public Notice Portal?

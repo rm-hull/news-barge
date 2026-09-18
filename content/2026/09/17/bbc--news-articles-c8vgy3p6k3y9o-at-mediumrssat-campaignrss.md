@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: BBC Verify tracks down the location of a Houthi video showing the wreckage
   of an F-15 they claim to have shot down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ddbf/live/476a8230-b2a0-11f1-a430-4d16ee157c41.png
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 BBC Verify has confirmed the footage was filmed in western Yemen.

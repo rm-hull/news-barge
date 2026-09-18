@@ -9,6 +9,9 @@ description: Is it possible we’re living in a virtual simulation? Professor Ca
   Heymans, the Astronomer Royal for Scotland, does the maths on whether anything is
   actually real
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309447888.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309447888.jpg?w=840)

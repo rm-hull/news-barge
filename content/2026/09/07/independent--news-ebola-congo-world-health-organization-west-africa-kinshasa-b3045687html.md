@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The burial of a young chorister in Bunia highlights the ongoing Ebola
   crisis in Congo
 image: https://static.independent.co.uk/2026/09/07/05/Congo_Ebola_Burial_Teams_52922.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Yuma Adolphe and his team are responsible for the safe and dignified burial of some of the people who die from Ebola in Ituri, the epicenter of history's deadliest Ebola outbreak. Nearly every day, they dig the graves, prepare the bodies and handle the coffins.

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Balloons, flowers, and teddies are among the dozens of tributes left
   at the scene of a tragic house fire that killed a seven-year-old girl and her…
 image: https://www.thenorthernecho.co.uk/resources/images/21397247.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTH NEWS AND PICTURES)*

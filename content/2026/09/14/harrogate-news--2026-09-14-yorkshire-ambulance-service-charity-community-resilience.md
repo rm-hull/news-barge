@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Yorkshire Ambulance Service Charity deploys a two-year resilience
   grant from NHS Charities Together to bring life-saving CPR training to local areas.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/ambulance.webp
+categories:
+- Local
+- Harrogate
+- Self-Improvement
 ---
 
 **YORKSHIRE** — Regional healthcare leaders have initiated a targeted emergency response program across select high-demand communities, deploying major national grant funding to combat deep-seated regional health inequalities.

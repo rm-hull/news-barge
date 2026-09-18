@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A surprise fireworks display at Steeton Hall in Keighley has sparked
   concern among residents after a 10-minute show was launched during a wedding…
 image: https://www.thetelegraphandargus.co.uk/resources/images/16394187.jpg?type=og-image&xType=0&yType=136
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A surprise fireworks display at Steeton Hall has sparked upset in the community after a 10-minute show was staged during a wedding celebration on Saturday, September 12.

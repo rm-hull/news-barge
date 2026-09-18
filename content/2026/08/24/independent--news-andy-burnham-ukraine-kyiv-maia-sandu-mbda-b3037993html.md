@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: U.K. Prime Minister Andy Burnham is in Kyiv on Monday, meeting President
   Volodymyr Zelenskyy and co-chairing a meeting with international leaders
 image: https://static.independent.co.uk/2026/08/24/08/Russia_Ukraine_War_Britain_59856.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 U.K. Prime Minister Andy Burnham arrived in Kyiv on Monday, where he is expected to meet President Volodymyr Zelenskyy and co-chair a meeting with the so-called coalition of the willing alongside other international leaders.

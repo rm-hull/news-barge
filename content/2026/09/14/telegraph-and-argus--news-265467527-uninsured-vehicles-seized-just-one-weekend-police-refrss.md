@@ -8,6 +8,12 @@ scraped_at: '2026-09-14T15:00:31Z'
 published: '2026-09-14T00:00:00Z'
 description: Seven uninsured vehicles were seized over one weekend by police.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21444339.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

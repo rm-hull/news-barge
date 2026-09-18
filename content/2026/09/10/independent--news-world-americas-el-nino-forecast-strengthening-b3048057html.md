@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Concerns surrounding El Niño have heightened global food market supply
   fears, pushing up staple prices including vegetable oils and sugar
 image: https://static.independent.co.uk/2026/09/10/14/45/SSTA_1stweekJune2026.jpg?trim=0,8,0,7&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 El Niño is strengthening and there’s a greater than 90% chance of a very strong event during the Northern Hemisphere fall and winter 2026-27, the U.S. Climate Prediction Center said Thursday.

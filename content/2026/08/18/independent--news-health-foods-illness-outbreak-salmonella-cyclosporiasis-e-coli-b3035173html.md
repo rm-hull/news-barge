@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Illnesses have forced massive recalls across dozens of states from coast
   to coast
 image: https://static.independent.co.uk/2026/08/18/19/46/GettyImages-2289610085.jpeg?trim=46,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Outbreaks of severe foodborne illnesses, causing symptoms including “explosive diarrhea,” have soared across the country this summer.

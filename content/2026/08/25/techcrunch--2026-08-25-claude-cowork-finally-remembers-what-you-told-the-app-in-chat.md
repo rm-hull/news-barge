@@ -9,6 +9,8 @@ description: Anthropic is giving Claude a shared memory across chat and Cowork, 
   users no longer have to repeatedly brief the AI on projects, preferences, and other
   context.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842
+categories:
+- Technology & Software
 ---
 
 A change to Claude’s memory system will eliminate one of the most annoying things about using agents — the constant need to rebrief the AI on things it already knows. On Tuesday, Anthropic announced it’s merging the memory system used by chat and Claude Cowork, which means that Claude will always remember what it learned in one area, even when you’re engaging with it in another.

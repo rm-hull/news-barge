@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Whether you loved or loathed the Outer Banks season 5 ending, don't panic.
   A prequel is coming at Netflix — and it could finally flesh out one overlooked storyline.
 image: https://cdn.mos.cms.futurecdn.net/wg7D3eQQhvQYSRjDxkYkiQ-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A boy kisses a girl on the forehead](https://cdn.mos.cms.futurecdn.net/wg7D3eQQhvQYSRjDxkYkiQ.jpg) 

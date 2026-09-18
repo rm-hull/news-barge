@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:11:32Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/11/railway-tracks-line-network-rail.webp
+categories:
+- Local
+- York
+- History
 ---
 
 There’s major disruption on the East Coast Main Line this afternoon after a person was hit by a train near Stevenage.

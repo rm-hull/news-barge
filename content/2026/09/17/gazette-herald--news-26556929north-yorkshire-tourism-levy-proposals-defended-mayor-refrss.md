@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The implementation of charges on overnight stays for visitors will have
   to be done right, North Yorkshire's mayor has said.
 image: https://www.gazetteherald.co.uk/resources/images/21095102.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 THE implementation of charges on overnight stays for visitors will have to be done right but details on how they would work are currently lacking, North Yorkshire's mayor has said.

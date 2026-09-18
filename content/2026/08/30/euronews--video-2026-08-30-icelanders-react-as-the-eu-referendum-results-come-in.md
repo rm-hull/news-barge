@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Video. Icelanders react as voters reject a proposal to restart European
   Union accession talks in a closely contested referendum.
 image: https://images.euronews.com/articles/stories/09/89/44/68/1200x675_cmsv2_abb5c898-e0b9-5f36-a4e8-409da40fa5a3-9894468.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Icelanders gathered in Reykjavik to follow the results of a referendum on whether to restart European Union accession talks, with both supporters and opponents celebrating as the vote count progressed.

@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Mike Lindell, endorsed by Donald Trump, lost the Minnesota gubernatorial
   GOP primary to Lisa Demuth by about 45,000 votes
 image: https://static.independent.co.uk/2026/08/25/13/2026-08-11T060008Z_1954719477_RC2WB5ACQXEL_RTRMADP_3_USA-ELECTION-TRUMP.JPG?trim=0,27,0,26&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Mike Lindell, the MyPillow founder and election conspiracy theorist who lost the Republican Minnesota governor’s primary race, has missed the deadline to post funds for the recount that he demanded.

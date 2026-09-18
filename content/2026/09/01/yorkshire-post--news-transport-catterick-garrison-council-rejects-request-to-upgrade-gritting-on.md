@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A request for busy roads in Catterick Garrison to receive a higher level
   of winter gritting has been rejected by North Yorkshire Council.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFlNzQ3NDY4LTFhYmYtNDk0Yi05NzdiLWI2MGM2MzQ5NWFjNDo1OWVjNThlMS03MDIxLTQ3YTItOGE3My1kYjE1ZTIwMDVhNjg=.jpg?crop=3:2,smart&trim=&width=759&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Catterick Garrison: Council rejects request to upgrade gritting on roads

@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T13:03:52Z'
 published: '2026-08-18T00:00:00Z'
 description: A trailer has been stolen from a farm in rural North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21125326.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A TRAILER has been stolen from a farm in rural North Yorkshire.

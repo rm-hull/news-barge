@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Home minister says secondary applicants – such as partners and children
   – will no longer be allowed on most student visas
 image: https://static.independent.co.uk/2026/09/17/04/2285558527..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Education & Learning
 ---
 
 Australia has banned foreign students from bringing their families along under stricter rules aimed at curbing immigration.

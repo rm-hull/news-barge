@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Pop legend Ronan Keating is set to light up the stage at two venues in
   Yorkshire, it has been revealed tonight.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470730.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Comedy & Entertainment
 ---
 
 *(Image: Supplied by Piece Hall)*

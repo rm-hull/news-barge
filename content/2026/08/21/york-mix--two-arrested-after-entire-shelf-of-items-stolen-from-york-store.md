@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:47:42Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/fenwick-coppergate-centre-york-entrance-doors.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Two people were arrested soon after a brazen theft at one of York’s best-known stores.

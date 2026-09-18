@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T12:57:22Z'
 published: '2026-09-09T00:00:00Z'
 description: A popular boutique hotel and restaurant has been put on the market.
 image: https://www.gazetteherald.co.uk/resources/images/20996217.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 *(Image: Pic supplied)*

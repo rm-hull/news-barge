@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Firm comes clean about the incident only after being found out. Ponders
   renewed 'misalignment disclosure practices.'
 image: https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![OpenAI](https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT.jpg) 

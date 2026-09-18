@@ -10,6 +10,12 @@ description: Some of the most iconic and stunning places in the Harrogate distri
   will be the focus of the cycling world this weekend - including one of the most
   brutal climbs.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRkODE5OTUxLTg0OWYtNGYzOC04ODgyLTdiNmJhNzM1Yjk1Mzo3MDI3NTBlOS05NjBhLTRlNzItOWNhNS1kMTgwODc0YTFlNGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
+- History
+- Sports
 ---
 
 # Timetable: Ripon, Pateley Bridge and iconic Dales countryside welcome the Tour of Britain this weekend

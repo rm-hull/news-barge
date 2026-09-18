@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Ollie Varey is taking on a 30-day rowing challenge to raise funds and
   awareness for the Acorn Community Care charity.
 image: https://www.gazetteherald.co.uk/resources/images/21400997.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 *(Image: Ollie Varey)*

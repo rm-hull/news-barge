@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A council opposition leader has bit back at Reform UK’s policy of banning
   Pride flags on town hall buildings.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407084.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A COUNCIL opposition leader has bit back at Reform UK’s policy of banning Pride flags on town hall buildings.

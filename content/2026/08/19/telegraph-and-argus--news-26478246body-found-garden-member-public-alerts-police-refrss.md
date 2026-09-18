@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T21:32:28Z'
 published: '2026-08-19T00:00:00Z'
 description: A body has been found in the search for a missing Bradford district man.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21326142.jpg?type=og-image&xType=0&yType=195
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

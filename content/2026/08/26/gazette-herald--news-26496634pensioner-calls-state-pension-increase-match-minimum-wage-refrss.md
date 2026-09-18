@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Campaigners want the State Pension raised to £14,500, arguing it should
   at least match the minimum wage for younger workers.
 image: https://www.gazetteherald.co.uk/resources/images/21277261.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Aaron Chown)*

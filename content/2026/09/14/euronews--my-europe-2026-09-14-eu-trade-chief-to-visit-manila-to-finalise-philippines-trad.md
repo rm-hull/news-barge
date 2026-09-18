@@ -10,6 +10,11 @@ description: 'Manila and Brussels have already completed six rounds of talks aim
   represent another step in Brussels’ efforts to diversify its trade relationships
   throughout the Asia-Pacific region. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/30/54/1200x675_cmsv2_1b91e320-3b3f-50a0-abcc-ebd03069cd07-9913054.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Manila and Brussels have already completed six rounds of talks aimed at reducing trade barriers across a broad range of sectors. The agreement would represent another step in Brussels’ efforts to diversify its trade relationships throughout the Asia-Pacific region.

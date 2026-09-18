@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Omaha’s largest public school district has stopped law enforcement officers
   from using gloves that deliver electric shocks in their work policing students
 image: https://static.independent.co.uk/2026/08/20/17/Shock_Gloves_School_District_13168.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Police officers at Omaha's largest public school district will no longer use gloves that can deliver painful electric shocks, after the superintendent asked to halt the program this week, the mayor said.

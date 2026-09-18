@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: The off-road bike was in a convoy with a second bike before the crash
   in Churchill Drive on Sunday evening, police say
 image: https://static.independent.co.uk/2026/08/22/11/7d9aa0259ff1ddbebee76a54a4d5eff4Y29udGVudHNlYXJjaGFwaSwxNzg3NDgwMTU1-2.21314937.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Automotive
+- Technology & Software
 ---
 
 A young boy had been killed in a crash involving an off-road bike and a car in Newark.

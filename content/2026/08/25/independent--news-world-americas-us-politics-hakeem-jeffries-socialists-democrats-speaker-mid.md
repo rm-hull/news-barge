@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: 'Jeffries is not likely to face a Matt Gaetz-style coup, Eric Garcia
   writes. For one reason: math'
 image: https://static.independent.co.uk/2026/07/27/10/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 House Minority Leader Hakeem Jeffries took time Monday to address a recent report that he met with President Donald Trump’s son-in-law Jared Kushner - a move that left some Democrats frustrated and calling for new leadership.

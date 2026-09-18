@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Hundreds of university staff were stationed at picket lines, calling
   for stronger protections around the use of AI
 image: https://i.guim.co.uk/img/media/48d532f713c5cba4da34b9dcf95005a2f2b506dc/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4c88373600f03157f7ba142ae0e78fc
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The same week union members at the University of Sydney agreed to a 24-hour strike, staff received the results of an internal survey.

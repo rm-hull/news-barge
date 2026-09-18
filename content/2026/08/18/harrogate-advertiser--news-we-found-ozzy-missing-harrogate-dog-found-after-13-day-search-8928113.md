@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: There has been huge relief for the family of missing Harrogate dog Ozzy
   after the nine-year-old Miniature Schnauzer was found safe following a 13-day search.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFlNmQ3OTRlLWM1ZTUtNDdiYS04MzYyLTk3NGI5YjhjNjQxMjpjNjNhNzFmMS0wYjVhLTRiZWEtODVjMy01YzVlNDBlNTJkYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # ‘We found Ozzy!’ Missing Harrogate dog found after 13-day search

@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: It's the latest failure of OpenAI's internal monitoring and security
   systems.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A group of independent AI researchers discovered that internally deployed OpenAI agents began posting on an obscure German wiki forum in order to collaborate on evaluations. They appear to have worked together for over a month without OpenAI’s knowledge.

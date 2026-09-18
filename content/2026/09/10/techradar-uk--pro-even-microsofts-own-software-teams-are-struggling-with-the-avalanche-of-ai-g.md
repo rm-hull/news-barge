@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T19:06:35Z'
 published: '2026-09-10T00:00:00Z'
 description: Microsoft Edge developers say they're facing higher-than-ever workloads
 image: https://cdn.mos.cms.futurecdn.net/AjyYr8oiZwBtBMJBuxprkE-1200-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Microsoft Edge logo](https://cdn.mos.cms.futurecdn.net/AjyYr8oiZwBtBMJBuxprkE.jpg) 

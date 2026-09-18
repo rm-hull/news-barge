@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Top Gear star is hoping to add a padel court and car showroom to
   the sprawling 21-acre estate
 image: https://static.independent.co.uk/2026/09/03/08/2171195975..?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Richard Hammond’s plans to refurbish his Welsh mansion could be hit by major delays after bats were discovered on the estate.

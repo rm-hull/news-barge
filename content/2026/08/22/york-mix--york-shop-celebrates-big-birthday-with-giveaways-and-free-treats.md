@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T20:35:22Z'
 published: '2026-08-22T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/fudge-kitchen-birthday.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A staple of one of York’s most historic streets is marking a huge milestone this month.

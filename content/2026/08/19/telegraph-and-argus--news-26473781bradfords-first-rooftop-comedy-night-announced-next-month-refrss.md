@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: BRADFORD'S first rooftop comedy club is launching next month, promising
   a night of laughter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21334547.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

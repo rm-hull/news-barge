@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: A new daily bus route is set to make college journeys easier for students
   traveling from East Lancashire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21406084.jpg?type=og-image&xType=0&yType=436
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Travel
 ---
 
 A NEW daily bus route is set to make college journeys easier for students travelling to Skipton from East Lancashire.

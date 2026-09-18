@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A NIGHTCLUB believed to be the oldest still running in the UK has been
   honoured with a blue plaque
 image: https://www.thetelegraphandargus.co.uk/resources/images/21459825.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- History
 ---
 
 A NIGHTCLUB believed to be the oldest still running in the UK has been honoured with a blue plaque.

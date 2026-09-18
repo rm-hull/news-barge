@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Myanmar’s military-backed government has deported Adam Castillo, a U.S.
   businessman, after three months in jail on charges his supporters say were trumped-up
 image: https://static.independent.co.uk/2026/09/16/18/Myanmar_American_Detained_59649.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Business & Entrepreneurship
 ---
 
 Myanmar’s military-backed government has deported Adam Castillo, a U.S. businessman and former president of the American Chamber of Commerce in Myanmar, after three months in jail on what supporters say were trumped-up charges, state media reported Wednesday.

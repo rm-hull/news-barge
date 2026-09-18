@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Definition Body Coaching has raised £10,000 in just 18 months to help
   fund four suicide prevention benches across North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21377741.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A personal training studio has raised thousands for suicide prevention benches.

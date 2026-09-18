@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: David Moyes welcomes his former club to the Hill Dickinson Stadium as
   the Toffees aim to remain unbeaten
 image: https://cdn.mos.cms.futurecdn.net/tDAwpGuhDiehgy99EpbvX4-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Bruno Fernandes of Manchester United celebrates after scoring a penalty to make it 3-1 in the Premier League match against Ipswich Town at Old Trafford on August 30, 2026 in Manchester, United Kingdom](https://cdn.mos.cms.futurecdn.net/tDAwpGuhDiehgy99EpbvX4.jpg) 

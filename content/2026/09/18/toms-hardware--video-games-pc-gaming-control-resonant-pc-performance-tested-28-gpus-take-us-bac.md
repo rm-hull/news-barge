@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A new chapter in a beloved saga doubles as a technical showcase for path
   tracing
 image: https://cdn.mos.cms.futurecdn.net/nQyMuEe3Hdv4Y6dUjEyScS-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Arts & Culture
 ---
 
 ![Control Resonant gameplay](https://cdn.mos.cms.futurecdn.net/nQyMuEe3Hdv4Y6dUjEyScS.png) 

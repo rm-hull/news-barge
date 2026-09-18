@@ -9,6 +9,11 @@ description: Video. Bukavu held a mass funeral on Monday, 14 September, for 26 c
   killed in a school fire and subsequent stampede three days earlier, as UNICEF and
   local authorities called for an investigation into the disaster.
 image: https://images.euronews.com/articles/stories/09/91/29/46/1200x675_cmsv2_68798f81-4b45-5fc1-aee7-6af87b54ba08-9912946.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 Families gathered around rows of coffins, some carrying photographs of the victims, while hundreds attended the service in the eastern city. UNICEF said at least 26 children died and 25 others were injured.

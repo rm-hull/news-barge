@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Kemi Badenoch said it was “obscene” that more schools will again close
   for the funeral of one of the five young men killed in the A66 crash.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/20/cs-e0077fe2-9f3e-4682-abbb-4065a987de8a.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Schools closing for A66 funerals ‘obscene’ says Kemi Badenoch

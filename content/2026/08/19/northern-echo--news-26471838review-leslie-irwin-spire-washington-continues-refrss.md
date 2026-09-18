@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Spire Washington Hospital confirmed on Monday (August 17) that the review
   into care provided by former consultant orthopaedic surgeon Leslie Irwin…
 image: https://www.thenorthernecho.co.uk/resources/images/20402785.jpg?type=og-image&xType=0&yType=5
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A North East NHS Trust has confirmed it has written to some former patients whose care is being reviewed amid concerns over the work of former consultant orthopaedic surgeon Leslie Irwin.

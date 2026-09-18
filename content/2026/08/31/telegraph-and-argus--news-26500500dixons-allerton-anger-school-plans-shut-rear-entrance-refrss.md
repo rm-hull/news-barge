@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A large Bradford school's decision to shut a long-used entrance has sparked
   frustration among parents.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378842.jpg?type=og-image&xType=0&yType=839
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

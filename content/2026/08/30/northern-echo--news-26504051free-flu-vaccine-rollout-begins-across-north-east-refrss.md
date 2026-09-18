@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The North East and North Cumbria Integrated Care Board (ICB) is urging
   everyone who is eligible to get their free flu vaccine.
 image: https://www.thenorthernecho.co.uk/resources/images/21384327.jpg?type=og-image&xType=0&yType=286
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NHS North East and North Cumbria)*

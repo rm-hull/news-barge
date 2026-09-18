@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Early birds can put down $59 for this, with a warning it will cost $129
   at retail.
 image: https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![BluHub portable Blu-ray hub](https://cdn.mos.cms.futurecdn.net/ko5nmmiY9Js2ntbrP8NaXU.jpg) 

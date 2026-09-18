@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Nathan Gill was previously sentenced to 10-and-a-half years in prison
   last year for taking the bribes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a8a/live/0fe649d0-a787-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Nathan Gill is wearing a grey coat, a blue tie and a white shirt in a street, with the street in the background out of focus](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e738/live/241ccfc0-a77b-11f1-b2d5-535b3b3d379f.jpg)

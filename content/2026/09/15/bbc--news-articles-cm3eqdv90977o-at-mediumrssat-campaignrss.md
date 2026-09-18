@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Thirlwall Inquiry finds some babies could have been saved if action
   had been taken earlier.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a33/live/65d09650-b143-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: Former consultant hopes Letby inquiry recommendations will prevent deaths happening again

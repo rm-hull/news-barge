@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Acer had plenty to show off at IFA 2026, including a highly repairable
   laptop alongside the featherweight Swift Blade 14.
 image: https://cdn.mos.cms.futurecdn.net/aVHiRPVJ7Hc9A7CY9Z7MB5-1839-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Acer Swift Blade 14 being used by a person sat on a concrete step outside](https://cdn.mos.cms.futurecdn.net/aVHiRPVJ7Hc9A7CY9Z7MB5.jpg) 

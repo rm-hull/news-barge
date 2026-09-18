@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Hundreds of staff at a major North Yorkshire manufacturing business are
   expected to continue strike action in a months-long dispute over pay.
 image: https://www.yorkpress.co.uk/resources/images/21230766.jpg?type=og-image&xType=0&yType=364
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ## 400 workers to strike for almost two weeks at major North Yorkshire business

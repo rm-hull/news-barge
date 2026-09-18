@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Investigators have been piecing together the events leading up to a devastating
   crash on the A66 which claimed the lives of seven people, including…
 image: https://www.thenorthernecho.co.uk/resources/images/21358362.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Investigators have been piecing together the events leading up to a devastating crash on the A66 which claimed the lives of seven people, including two police officers.

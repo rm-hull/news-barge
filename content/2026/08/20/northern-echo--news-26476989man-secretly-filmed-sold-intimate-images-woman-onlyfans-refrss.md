@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Alexander Tang, 37, received a 26-week suspended prison sentence after
   admitting secretly recording a woman and selling non-consensual intimate…
 image: https://www.thenorthernecho.co.uk/resources/images/21339799.jpg?type=og-image&xType=0&yType=251
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Northumbria Police)*

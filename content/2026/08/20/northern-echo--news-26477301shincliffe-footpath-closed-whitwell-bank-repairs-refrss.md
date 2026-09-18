@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Durham County Council has temporarily closed Footpath No. 5 in Shincliffe
   Parish for up to six months to allow repairs to a footbridge on the…
 image: https://www.thenorthernecho.co.uk/resources/images/19109350.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Pixabay)*

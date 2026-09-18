@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: An emotional Novak Djokovic suffers a US Open first-round defeat which
   provided further evidence that age is fast catching up with the 39-year-old great.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/551d/live/27ca53f0-a4f5-11f1-8052-0dcbab979b10.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Novak Djokovic cries during his US Open defeat by Mariano Navone](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/551d/live/27ca53f0-a4f5-11f1-8052-0dcbab979b10.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Frank Furedi announces resignation with immediate effect after organisation’s
   staff ‘not paid in July or August’
 image: https://i.guim.co.uk/img/media/f2a9b6a4023bf9b416a8b5aab8c7fbf75fa2515c/980_1173_2829_2263/master/2829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13836e72335f879d390da62a5d0ebc6e
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The head of Viktor Orbán’s favourite Brussels thinktank has quit, citing unpaid wages since the change of government in Hungary.

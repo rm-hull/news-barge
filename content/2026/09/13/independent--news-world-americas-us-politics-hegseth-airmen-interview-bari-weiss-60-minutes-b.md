@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: The Pentagon has denied the claims made in CNN’s report, saying there
   was no pressure for either of the airmen to participate
 image: https://static.independent.co.uk/2026/09/13/16/2294709087..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. Defense Secretary Pete Hegseth reportedly pressured the two crew members of the F-15 shot down over Iran to appear on Bari Weiss's *60 Minutes*, ignoring opposition to the interviews by military officials. 

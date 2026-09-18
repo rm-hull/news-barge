@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Surrounding properties have been evacuated as at least five homes were
   declared unsafe for entry
 image: https://static.the-independent.com/2026/09/09/07/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A large sinkhole has opened outside a coastal Malibu mansion belonging to the Oscar-winning actor Nicolas Cage after the driveway collapsed on Tuesday morning.

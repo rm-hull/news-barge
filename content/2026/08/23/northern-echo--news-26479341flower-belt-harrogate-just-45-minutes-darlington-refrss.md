@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: The Flower Belt near Ripon and Harrogate is around 45 minutes from Darlington
   and offers pick-your-own flowers, food, live music and countryside…
 image: https://www.thenorthernecho.co.uk/resources/images/21343743.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: FLOWER BELT)*

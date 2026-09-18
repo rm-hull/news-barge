@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Metro mayors in the North East will be given the power to introduce a
   new tourist tax.
 image: https://www.thenorthernecho.co.uk/resources/images/21161379.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Metro mayors in the North East will be given the power to introduce a new tourist tax.

@@ -9,6 +9,10 @@ description: The museum's director said the goal is to help visitors ‘both nev
   but also kind of reconnect’ as a new generation emerges that didn't experience the
   attacks
 image: https://static.independent.co.uk/2026/09/10/20/54/AP26253648908349.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A purse containing keys and a wallet recovered from the World Trade Center site. Seat belts and a flight attendant call button salvaged from the doomed United Airlines Flight 93. The desk telephone U.S. Solicitor General Ted Olson answered when his wife, Barbara, phoned from a hijacked airplane.

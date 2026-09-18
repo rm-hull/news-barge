@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: All the ways to watch Real Madrid vs Inter for free online, with Jude
   Bellingham and Kylian Mbappe set to star in the Champions League clash at Bernabeu.
 image: https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Jude Bellingham celebrating for Real Madrid](https://cdn.mos.cms.futurecdn.net/FxTaiS2GZfHmAGqVJA3676.jpg) 

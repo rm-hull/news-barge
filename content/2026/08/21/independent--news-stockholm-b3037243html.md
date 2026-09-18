@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: An attacker wielding a sword has wounded several people at a school in
   Sweden, according to local officials
 image: https://static.independent.co.uk/2026/08/21/17/Sweden_Sword_Attack_3813_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An attacker with a sword wounded several people Friday at a school in central Sweden, and police later arrested a suspect, officials said.

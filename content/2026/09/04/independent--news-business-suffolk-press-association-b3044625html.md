@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Suffolk-based company reported a pre-tax loss of £1.42 million for
   the six months to June.
 image: https://static.independent.co.uk/2026/09/04/09/04090259-25a0e0b2-9c19-4846-ba51-43167dd3df02.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Pub firm and brewer Adnams has revealed further losses after weaker-than-expected trading in the first half of 2026.

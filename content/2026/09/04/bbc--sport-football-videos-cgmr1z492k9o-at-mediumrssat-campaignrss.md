@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Alexander Isak scores twice in the opening ten minutes as Liverpool pick
   up their first win of the season with a 2-0 victory at Ipswich.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ee60/live/ad00fb40-a8ac-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Isak's early double gives Liverpool victory over Ipswich

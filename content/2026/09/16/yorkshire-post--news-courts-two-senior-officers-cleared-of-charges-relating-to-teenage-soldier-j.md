@@ -10,6 +10,11 @@ description: Two senior Army officers have been cleared of allegations that they
   to properly deal with abuse allegations made by Gunner Jaysley Beck five months
   before the teenage soldier took her own life.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/16/cs-2941193e-e191-4017-b149-08ecc4462edb.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Two senior officers cleared of charges relating to teenage soldier Jaysley Beck

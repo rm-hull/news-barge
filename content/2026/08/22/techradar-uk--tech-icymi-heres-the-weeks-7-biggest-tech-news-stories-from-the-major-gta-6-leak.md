@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T12:57:58Z'
 published: '2026-08-22T00:00:00Z'
 description: Here's your firmware update for August 22, 2026
 image: https://cdn.mos.cms.futurecdn.net/vs7fian7wjXnxKMmooE2tM-2000-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Ray-Ban Meta smart glasses, Google Pixel 11 Pro Fold, and a Kindle Oasis](https://cdn.mos.cms.futurecdn.net/vs7fian7wjXnxKMmooE2tM.png) 

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Ofgem has announced that its price cap will rise by 4% or £60 per year
   to £1,723 from October 1.
 image: https://static.independent.co.uk/2026/08/26/09/4de3f69f8cdfb4828f3377c3099d2448Y29udGVudHNlYXJjaGFwaSwxNzg3ODE3Nzgw-2.85472399.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Prime Minister Andy Burnham has said rising energy bills are “difficult” for people after Ofgem raised its price cap by 4% to a three-year high and analysts forecast a further 9% hike from January.

@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: A man has been charged with attempted child abduction following an incident
   in Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21311351.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

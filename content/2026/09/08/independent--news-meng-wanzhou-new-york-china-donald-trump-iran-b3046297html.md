@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The world's biggest supplier of telecommunications network gear faces
   a criminal trial in New York
 image: https://static.independent.co.uk/2026/09/08/05/Huawei_Trial_979_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Huawei Technologies, a leading Chinese tech company, faces a criminal racketeering trial in New York over charges that it stole technology, plotted to steal U.S. trade secrets and committed wire and bank fraud, among other crimes.

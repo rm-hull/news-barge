@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: THERE are so many worrying undercurrents developing from the enormous
   tragedy in Middlesbrough, and one of them involves the politics that are…
 image: https://www.thenorthernecho.co.uk/resources/images/21382028.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Sarah Caldecott)*

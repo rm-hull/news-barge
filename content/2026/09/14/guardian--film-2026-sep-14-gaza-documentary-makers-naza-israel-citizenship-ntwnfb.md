@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor
   of ‘treason against the state’
 image: https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f94f6898296463d5ccfcd2ac09fe4e2c
+categories:
+- UK
+- News & Politics
 ---
 
 Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA, a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An inquest into the death of Soham killer Ian Huntley will remain suspended
   suspended pending the outcome of the trial of a fellow prisoner charged…
 image: https://www.thenorthernecho.co.uk/resources/images/20630846.jpg?type=og-image&xType=0&yType=11
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

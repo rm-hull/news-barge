@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: '"Dear You," a film shot in a southern Chinese dialect, has become a
   hit in China'
 image: https://static.independent.co.uk/2026/08/26/02/China_Film_Dear_You_12764.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The buzziest film in China this year was shot almost entirely in a southern Chinese dialect that most Chinese viewers need subtitles to understand.

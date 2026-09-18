@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: John Lewis said physical toys that bring families together to play in
   their homes will be be in favour over screen time this year.
 image: https://static.independent.co.uk/2026/08/20/00/19171821-af31122a-366e-4ee6-a443-1d2da0550ac7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A £300 doll’s house and a K-Pop Demon Hunters singing doll are set to be among the bestselling toys this Christmas, according to early predictions by John Lewis.

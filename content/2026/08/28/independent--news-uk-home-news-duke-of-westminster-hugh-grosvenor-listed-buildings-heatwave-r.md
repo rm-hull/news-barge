@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Hugh Grosvenor owns more than 1,500 listed buildings across London and
   three rural estates
 image: https://static.independent.co.uk/2026/08/28/21/2155769171..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Duke of Westminster will be able to retrofit more than a thousand of his properties with energy upgrades as the government changes restrictions on modernising listed buildings.

@@ -9,6 +9,11 @@ description: As police hunt down those who attacked police at the anti-migrant p
   in Portsmouth, anti-racism campaigners say the violence was a ‘wake-up call’ amid
   fears of further disorder
 image: https://static.independent.co.uk/2026/09/07/10/9bcdbbb8b64b8afebbd27f5838932921Y29udGVudHNlYXJjaGFwaSwxNzg4ODU5ODM0-2.85766974.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 Police officers were injured and vehicles damaged when a second major anti-migrant protest turned violent as fears grow over further far-right unrest and disorder across the UK.

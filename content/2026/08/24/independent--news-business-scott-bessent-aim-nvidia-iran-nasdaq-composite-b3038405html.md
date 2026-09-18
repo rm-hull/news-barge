@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Oil prices edged lower despite US Treasury Secretary Scott Bessent declaring
   that an ‘economic D-Day’ had begun against Iran.
 image: https://static.independent.co.uk/2026/08/24/17/a453b059bb156a941ef61f2a8cae3354Y29udGVudHNlYXJjaGFwaSwxNzg3Njc1NzMw-2.84117078.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The FTSE 100 closed higher in London on Monday, outperforming European peers, as oil prices edged lower and investors looked ahead to key events in the US later this week.

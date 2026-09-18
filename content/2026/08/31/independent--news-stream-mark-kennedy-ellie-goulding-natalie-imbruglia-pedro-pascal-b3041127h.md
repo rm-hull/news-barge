@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: New streaming entertainment options are arriving this week, including
   “The Mandalorian & Grogu” streaming on Disney+ starting Wednesday
 image: https://static.independent.co.uk/2026/08/28/16/The_Stream_45567.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 The “Mandalorian & Grogu” and a new album from Ellie Goulding are some of the new television, films, music and games headed to a device near you.

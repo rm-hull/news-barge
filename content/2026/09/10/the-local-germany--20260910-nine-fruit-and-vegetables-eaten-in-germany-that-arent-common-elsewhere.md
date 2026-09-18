@@ -9,6 +9,11 @@ description: From white asparagus festivals to wild garlic leaves gathered in fo
   Germany has a surprising collection of fruits and vegetables that many newcomers
   have never encountered before. Here are nine worth getting to know.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-450371023.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Travel
 ---
 
 Germany is often associated with sausages, bread and beer, but one of the biggest surprises for many newcomers is the country's strong attachment to seasonal produce.

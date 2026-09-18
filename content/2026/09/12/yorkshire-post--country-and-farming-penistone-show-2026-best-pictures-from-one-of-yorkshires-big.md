@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: It is one of Yorkshire’s biggest and most popular one-day agricultural
   shows – and visitors once again came out in force to enjoy themselves.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc3MmYyODUxLTM5NDktNDI4NC05ZmE4LWQ1MGVlMjBiMTc5YzpjZTdjMzU0OS01N2UxLTQyYTctOWRhMy1iNDFkYzIxMjBlYjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 The Penistone Show is popular not just in Yorkshire, but draws people from across the UK – attracting around 20,000 every year.

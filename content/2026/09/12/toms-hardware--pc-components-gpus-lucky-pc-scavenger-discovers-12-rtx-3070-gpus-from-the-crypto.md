@@ -8,6 +8,9 @@ scraped_at: '2026-09-12T12:09:23Z'
 published: '2026-09-12T00:00:00Z'
 description: One lucky haul.
 image: https://cdn.mos.cms.futurecdn.net/KC3umcd2if2YkiCNSFka94-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A dismantled mining rig with six Zotac RTX 3070 GPUs](https://cdn.mos.cms.futurecdn.net/KC3umcd2if2YkiCNSFka94.jpg) 

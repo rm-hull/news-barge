@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T13:24:30Z'
 published: '2026-09-17T00:00:00Z'
 description: Upgrading existing tech is popular again
 image: https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A pair of hands carefully fitting a stick of RAM into a motherboard.](https://cdn.mos.cms.futurecdn.net/synLobxmTXs8M9hwrRiLx8.jpg) 

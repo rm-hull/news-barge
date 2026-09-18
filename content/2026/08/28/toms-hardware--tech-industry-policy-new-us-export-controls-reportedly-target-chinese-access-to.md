@@ -10,6 +10,10 @@ published: '2026-08-28T00:00:00Z'
 description: Questions remain about the Commerce Department's authority to implement
   the rule.
 image: https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![The autograph of Jensen Huang, co-founder and chief executive officer of Nvidia Corp., on Nvidia's GB300 NVL72 GPU at the Foxconn Technology Co. booth.](https://cdn.mos.cms.futurecdn.net/Bvn9bjjn7RjjnHHyEAHmAP.jpg) 

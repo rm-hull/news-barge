@@ -9,6 +9,10 @@ description: The latest development comes amid US President Donald Trump's threa
   to bomb Oman if it “gets in the way," as his administration opposes parts of the
   evolving agreement.
 image: https://images.euronews.com/articles/stories/09/89/05/07/1200x675_cmsv2_8387f716-e9ad-5417-83e3-316038d8d5ef-9890507.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The latest development comes amid US President Donald Trump's threat to bomb Oman if it “gets in the way," as his administration opposes parts of the evolving agreement.

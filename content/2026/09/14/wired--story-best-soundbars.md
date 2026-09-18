@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A soundbar is one of the best upgrades to any home TV setup. These are
   the best ones I’ve tested.
 image: https://media.wired.com/photos/6aa4c6b99023a6d17f3b5629/191:100/w_1280,c_limit/The-Best-Soundbars-for-Any-TV-Setup.jpg
+categories:
+- Technology & Software
+- Science
+- Music
 ---
 
 A soundbar is one of the smartest upgrades you can make for your entertainment room. The latest models sound loud, clear, and distinct, with realistic sound that is truly transportive—a thunderstorm sounds like rain from every direction, a sword fight reverberates with every clang.

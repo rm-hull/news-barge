@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: The deal adds a fifth brand to Surfshark's cybersecurity ecosystem and
   deepens its data removal firepower
 image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Woman using Surfshark VPN on laptop](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

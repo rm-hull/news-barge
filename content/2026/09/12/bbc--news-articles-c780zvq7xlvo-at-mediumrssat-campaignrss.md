@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to
   headline the iconic music venue.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f3f/live/b16a3260-aefa-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Diljit Dosanjh performing at Wembley Stadium against a red backdrop](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/7f3f/live/b16a3260-aefa-11f1-bc1f-3f186ca4140c.jpg)

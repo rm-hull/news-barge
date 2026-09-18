@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: microSD Card reviews, news and features, created for the hardcore PC
   enthusiast by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/zSC7KamvrhmL3aumd56atn-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Best MicroSD Express Cards](https://cdn.mos.cms.futurecdn.net/zSC7KamvrhmL3aumd56atn-320-80.jpg)

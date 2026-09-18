@@ -7,6 +7,12 @@ scraped_at: '2026-09-01T19:23:01Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/782208475_890218127294006_678002632547949134_n-e1788281291287.jpg
+categories:
+- Local
+- York
+- Travel
+- Society & Culture
+- News & Politics
 ---
 
 Officers from Ripon Response and the Neighbourhood Policing Team attended reports of a pit bike style off-road bike being ridden around the Gallows Hill area of Ripon.

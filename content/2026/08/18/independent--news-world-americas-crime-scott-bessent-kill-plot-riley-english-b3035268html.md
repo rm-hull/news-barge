@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: ‘You’ve had a very difficult life,’ the judge said. ‘Hopefully, the progress
   you’ve made in jail to this date has set you on the right path’
 image: https://static.the-independent.com/2026/08/18/22/2026-08-03T092058Z_1470658426_RC2KOMAVQNTZ_RTRMADP_3_JAPAN-YEN-INTERVENTION.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Massachusetts woman who told Capitol police she drove to Washington to kill Treasury Secretary Scott Bessent was sentenced on Tuesday to just over six years in prison.

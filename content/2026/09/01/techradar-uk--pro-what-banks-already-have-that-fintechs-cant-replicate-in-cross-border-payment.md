@@ -7,6 +7,9 @@ scraped_at: '2026-09-01T13:28:22Z'
 published: '2026-09-01T00:00:00Z'
 description: How banks can play to win
 image: https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![A credit card passed between two hands](https://cdn.mos.cms.futurecdn.net/fL8Ba8CiJjt2qsAVpr6UmK.jpg) 

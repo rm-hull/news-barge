@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Manager Derek McInnes says he takes "full responsibility" for Rangers'
   "embarrassing" Conference League exit at the hands of Jablonec.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d18/live/f80ed430-a254-11f1-a1d7-5567ac89ca4e.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Derek McInnes](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0d18/live/f80ed430-a254-11f1-a1d7-5567ac89ca4e.jpg)

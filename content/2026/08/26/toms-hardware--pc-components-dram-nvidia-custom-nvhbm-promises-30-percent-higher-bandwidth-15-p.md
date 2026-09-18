@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T23:23:45Z'
 published: '2026-08-26T00:00:00Z'
 description: Not a replacement for commodity HBM, though.
 image: https://cdn.mos.cms.futurecdn.net/TaGTq85mNPD8CGfDe72ByP-1208-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![An illustrative NVHBM implementation](https://cdn.mos.cms.futurecdn.net/TaGTq85mNPD8CGfDe72ByP.jpg) 

@@ -9,6 +9,11 @@ description: The founder behind a Yorkshire-based sustainable interiors firm has
   that demand is growing UK-wide for more environmentally friendly means of fitting
   out commercial spaces.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZlYzhmYTM5LTVhODYtNGU3ZS1iM2VhLWU2OTliNzQ5NDE3MTo4YWJlZjI3Yi1kYzkyLTQzZTYtYWZmMS1kNmFiNmZlNjQzMDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Demand growing for eco-friendly interiors, says Yorkshire firm

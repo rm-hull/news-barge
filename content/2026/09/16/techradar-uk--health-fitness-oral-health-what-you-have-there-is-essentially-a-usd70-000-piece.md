@@ -10,6 +10,8 @@ published: '2026-09-16T00:00:00Z'
 description: The CameraJet hasn't had the smoothest start — I spoke to the brand's
   Chief Engineer about why it was such a complex gadget to get right.
 image: https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dyson CameraJet toothbrush](https://cdn.mos.cms.futurecdn.net/ZKzV7vZiES6HFuRLg5sttC.jpg) 

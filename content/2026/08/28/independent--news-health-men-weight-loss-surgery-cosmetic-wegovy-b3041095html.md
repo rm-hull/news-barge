@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: This trend reflects a broader evolution in male attitudes toward cosmetic
   work
 image: https://static.independent.co.uk/2026/08/28/14/15/iStock-1482318911.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 An increasing number of men across the United States are turning to cosmetic interventions to address loose skin, thinning hair, and dental concerns following significant weight loss driven by popular obesity drugs, according to patients and practitioners.

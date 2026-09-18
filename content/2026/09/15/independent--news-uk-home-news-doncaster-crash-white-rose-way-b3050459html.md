@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: South Yorkshire Police said a black Mitsubishi L200 reportedly hit four
   pedestrians before colliding with an Audi and a BMW
 image: https://static.independent.co.uk/2023/02/03/19/CRIME%20Figures%20%2012192509.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The ’multiple-vehicle collision’ occurred about 11am on Sunday (PA)

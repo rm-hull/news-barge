@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Two men were carrying spray paint, glue, and a red boiler suit when they
   were accosted by police at the Cotswold estate
 image: https://static.independent.co.uk/2026/05/15/11/08/GettyImages-1320794483.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 An alleged activist plotted to spray paint the word “Palestine” on the lawn at a Cotswolds estate the day before it was due to host Boris Johnson’s wedding reception, Southwark Crown Court has heard.

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Today is a day of pride for Year 11 at Archbishop Holgate’s School as
   students celebrate their GCSE results.
 image: https://www.yorkpress.co.uk/resources/images/21346004.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 ## York's largest secondary school celebrates outstanding GCSE results as students shine

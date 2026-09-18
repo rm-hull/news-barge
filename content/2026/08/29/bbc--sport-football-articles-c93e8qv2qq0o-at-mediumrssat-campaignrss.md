@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: How Tottenham Hotspur and Newcastle United's players rated following
   Saturday's 2-0 win for the visitors in their Premier League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Tottenham's Sandro Tonali challenges Newcastle's Anthony Elanga during their Premier League match at the Tottenham Hotspur Stadium in north London.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg)

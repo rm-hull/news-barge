@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Governments are now quicker to point the finger at Moscow, but critics
   say their inaction invites more sabotage
 image: https://i.guim.co.uk/img/media/90fab552e833c01fd5c9dd7ef906baf55dbb0c00/247_0_1156_925/master/1156.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8530563209d8372ddeadb9e90ba988c
+categories:
+- UK
+- News & Politics
 ---
 
 Russia’s suspected sabotage campaign across Europe appears to be gathering pace again, confronting governments with a problem they have struggled to solve since the start of the war in Ukraine: how to impose a meaningful cost on Moscow for attacks that remain deliberately below the threshold of conventional war.

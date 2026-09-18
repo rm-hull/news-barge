@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:44Z'
 published: '2026-09-09T00:00:00Z'
 description: A man has been found dead at his home in Scarborough.
 image: https://www.yorkpress.co.uk/resources/images/20594523.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: Frrelance)*

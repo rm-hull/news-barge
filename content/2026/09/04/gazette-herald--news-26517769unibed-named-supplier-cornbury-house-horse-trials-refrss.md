@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Unibed, based in South Milford, will supply its high-performance equine
   bedding to Cornbury House Horse Trials.
 image: https://www.gazetteherald.co.uk/resources/images/21218134.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A bedding manufacturer has been named the official supplier for one of the UK’s leading horse trials.

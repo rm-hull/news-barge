@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A man whose dog fatally bit another man on a footpath after an argument
   about right of way has denied manslaughter.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRiOGM2MDIyLTM5OTctNDVmNy1iODM0LTMzMmQwOTY3NTFjMDo3MmM3ZDdiMC0zMDJlLTRjOGYtYTE5Ni04YjhkMWNhMDBmNDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Man whose dog fatally bit person after argument on footpath denies manslaughter

@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T04:43:40Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-lane-haxby-york-gsv.webp
+categories:
+- Local
+- York
+- News & Politics
+- Travel
 ---
 
 Plans for double yellow lines in a York road have sparked objections.

@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: The Planet Express team's adventures continue in the long-running animation
   series
 image: https://cdn.mos.cms.futurecdn.net/72NfexccWB9bbs4Y3p4Pwd-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Promotional image for Futurama season 14](https://cdn.mos.cms.futurecdn.net/72NfexccWB9bbs4Y3p4Pwd.jpg) 

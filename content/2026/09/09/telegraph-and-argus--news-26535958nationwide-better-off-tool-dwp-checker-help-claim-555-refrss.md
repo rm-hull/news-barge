@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Families could be missing out on £555 a month in benefits and support
   as Nationwide expands its free Better Off Indicator to Virgin Money customers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21304542.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: David Parry/PA Wire)*

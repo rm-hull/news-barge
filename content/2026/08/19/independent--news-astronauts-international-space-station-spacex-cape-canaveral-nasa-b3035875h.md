@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Eclipses may be wondrous, but nothing beats seeing the northern and southern
   lights from space
 image: https://static.independent.co.uk/2026/08/19/18/Space_Station_3_284.jpg?trim=0,51,0,51&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Eclipses may be wondrous, but nothing beats seeing the northern and southern lights from space.

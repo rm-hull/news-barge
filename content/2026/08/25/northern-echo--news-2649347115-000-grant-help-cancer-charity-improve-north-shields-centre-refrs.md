@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A North Shields charity supporting people affected by cancer could receive
   £15,000 to complete much-needed upgrades at its Nile Street base. Live…
 image: https://www.thenorthernecho.co.uk/resources/images/21368652.jpg?type=og-image&xType=0&yType=981
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Provided)*

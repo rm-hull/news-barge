@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A wrecked air force plane and destroyed buildings are among the images
   obtained by the BBC's partner CBS News.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![An undated photo, obtained by CBS News from active duty service members, shows car reportedly destroyed in an Iranian strike at Camp Buehring, Kuwait.](https://ichef.bbci.co.uk/ace/standard/620/cpsprodpb/4725/live/186ed140-b1c7-11f1-8493-1910d79d53eb.jpg)

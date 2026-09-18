@@ -10,6 +10,10 @@ description: The NFL season opens with the Seattle Seahawks launching their titl
   defense against the New England Patriots in a rare rematch of the previous season’s
   Super Bowl.
 image: https://static.independent.co.uk/2026/09/10/03/APTOPIX_Patriots_Seahawks_Football__36_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Photos of the NFL season opener, a rare Super Bowl rematch between the Seahawks and Patriots

@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Longer periods of humidity could bring a rise in mosquito populations
   across the country
 image: https://static.independent.co.uk/2026/07/02/17/06/GettyImages-2230065133.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Mosquito numbers across Britain could rise in autumn following a month of mild, humid weather and rainfall, experts say.

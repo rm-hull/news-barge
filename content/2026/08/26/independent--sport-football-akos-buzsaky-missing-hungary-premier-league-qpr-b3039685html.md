@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Akos Buzsaky played for QPR in the Premier League and the club stated
   it is “praying he’s found safe and well’
 image: https://static.independent.co.uk/2026/08/26/14/105452775..?trim=79,0,79,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 QPR have stated they are “praying” for Akos Buzsaky after the former Premier League midfielder was reported missing in Hungary.

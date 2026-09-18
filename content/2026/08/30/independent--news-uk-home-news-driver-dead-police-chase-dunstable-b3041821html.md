@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Driver, 41, died after his Audi hit a tree during a police pursuit in
   Bedfordshire
 image: https://static.independent.co.uk/2023/12/29/00/40427e2ac2405d9d0371314edb8df1b5Y29udGVudHNlYXJjaGFwaSwxNzAzMzUxNTA0-2.73488361.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The data is a snapshot of hate crime offences currently recorded by forces across the UK (Yui Mok/PA) (PA Wire)

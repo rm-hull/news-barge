@@ -7,6 +7,9 @@ scraped_at: '2026-09-09T12:57:15Z'
 published: '2026-09-09T00:00:00Z'
 description: President to give speeches on both days of unprecedented gathering
 image: https://i.guim.co.uk/img/media/b56b86894b0a21d70ca572bbdc615bfcf1a2b4fb/725_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=260960ddd2f617c360886cf1d49a4135
+categories:
+- UK
+- News & Politics
 ---
 
 A gold-painted Mercedes with Donald Trump's face on the hood is parked outside the American Airlines Center in Dallas where the RNC will be held later today Photograph: Jim Lo Scalzo/EPA

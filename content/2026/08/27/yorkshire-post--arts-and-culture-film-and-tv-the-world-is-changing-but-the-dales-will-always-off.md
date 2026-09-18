@@ -10,6 +10,12 @@ description: All Creatures Great and Small is set to return for its seventh seri
   next month, Channel 5 has announced today, as it also releases first-look photographs
   taken during filming in the Yorkshire Dales this spring and early summer.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkMDQ2MjAzLWFjODAtNDhlMS1hYmJlLTJiNWIzOTNiMWM3ODpiNWE2ODVmYy0xY2JjLTQzMDctOTU0MC0zNjg3ODMxZTlmYmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 # 'The world is changing but the Dales will always offer perfect escapism': All Creatures Great and Small Series 7 first look photos and new cast member

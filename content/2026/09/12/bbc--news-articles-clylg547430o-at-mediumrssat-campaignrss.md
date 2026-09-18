@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Almost every paper on Sunday leads on a record-breaking double donation
   of £72m to Reform UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d10b/live/66f49230-aef9-11f1-a52c-d92eb1a832de.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The headline on the front page of the Mail on Sunday reads: “Farage: £72m war chest will ready us for No 10”.](https://ichef.bbci.co.uk/ace/standard/810/cpsprodpb/831f/live/2c318100-aeed-11f1-a540-61c3f7fc4e6c.jpg)

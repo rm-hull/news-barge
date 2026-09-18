@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Canada’s PM Mark Carney is pivoting to Europe amid his country’s trade
   war with Donald Trump
 image: https://static.independent.co.uk/2026/09/16/13/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 Andy Burnham is facing calls to ensure the UK does not fall behind its international allies after the European Union opened the door to Canada becoming its first 'associate member'.

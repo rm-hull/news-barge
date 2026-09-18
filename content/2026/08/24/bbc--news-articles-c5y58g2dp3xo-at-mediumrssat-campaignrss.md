@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Hamas says the kites found in Israeli border communities in recent days
   were launched by children in Gaza.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A Palestinian boy holds a kite at a displacement camp in Gaza City (23 August 2026)](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg)

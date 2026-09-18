@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Video. French and Spanish firefighters work together to tackle wildfires
   in Spain's Aragon region, where more than 17,000 hectares have burned.
 image: https://images.euronews.com/articles/stories/09/87/83/43/1200x675_cmsv2_8a244d22-d437-5745-a63d-d9793f910a81-9878343.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 French and Spanish firefighters worked together on Monday to contain a wildfire in the San Juan de la Peña y Monte Oroel natural reserve in Spain's Aragon region.

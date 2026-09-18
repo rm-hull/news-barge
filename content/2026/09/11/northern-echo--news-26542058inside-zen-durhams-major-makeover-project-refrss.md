@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Take a look inside Zen Durham's major refurbishment as owners reveal
   new booths, upgraded interiors and plans to reopen later this month.
 image: https://www.thenorthernecho.co.uk/resources/images/21439849.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A major restaurant makeover is underway, with new features and a refreshed look to transform the dining experience.

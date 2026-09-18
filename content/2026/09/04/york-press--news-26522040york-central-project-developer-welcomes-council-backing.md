@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A major step forward in the creation of a brand new city quarter for
   York is set to be taken, the developer behind the project has said.
 image: https://www.yorkpress.co.uk/resources/images/21406160.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## 'Brand new city quarter York can be proud of'- developer welcomes plans backing

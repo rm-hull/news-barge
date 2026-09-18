@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Line dancing is coming to Durham as The Mayfair on Saddler Street hosts
   a free beginner-friendly Cowboy Night, with locals already eager to join the…
 image: https://www.thenorthernecho.co.uk/resources/images/21462694.jpg?type=og-image&xType=0&yType=25
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Cowboy boots and country tunes are set to take over a city centre pub for a night of line dancing fun.

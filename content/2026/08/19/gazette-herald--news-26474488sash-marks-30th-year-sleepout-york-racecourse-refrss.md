@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The SASH (Safe and Sound Homes) Sleepout Challenge is set to take place
   at York Racecourse on Friday, October 16.
 image: https://www.gazetteherald.co.uk/resources/images/21335626.jpg?type=og-image&xType=0&yType=163
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: SASH)*

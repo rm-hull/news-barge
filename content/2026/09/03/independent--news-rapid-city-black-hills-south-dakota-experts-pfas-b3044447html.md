@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Gordon and Connie Howie are struggling with water shortages on their
   cattle ranch in western South Dakota
 image: https://static.independent.co.uk/2026/09/03/21/South_Dakota_Drought_Dry_Wells_73275.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Each morning this summer, Gordon and Connie Howie have awoken on their cattle ranch in central Pennington County and turned on the kitchen faucet, unsure if any water will come out.

@@ -9,6 +9,10 @@ description: 'The father of the world-famous standardised PISA tests warned that
   dramatic decline in parental interest and tech-driven behavioural changes could
   be behind record-low student performances. #12MinutesWith'
 image: https://images.euronews.com/articles/stories/09/90/83/72/1200x675_cmsv2_0b84a97c-166b-5a04-956e-28141def7132-9908372.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The father of the world-famous standardised PISA tests warned that a dramatic decline in parental interest and tech-driven behavioural changes could be behind record-low student performances.

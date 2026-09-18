@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Lucid dreams, when a person is aware they're dreaming and can often control
   them, could be induced in people who rarely experience them
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310551185.jpg
+categories:
+- Science
+- Technology & Software
+- Self-Improvement
+- Health & Fitness
+- Society & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310551185.jpg?w=840)

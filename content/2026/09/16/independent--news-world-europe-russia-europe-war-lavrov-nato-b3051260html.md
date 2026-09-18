@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Veteran Putin ally Sergei Lavrov suggested a fight with Europe would
   not prove difficult for Moscow
 image: https://static.independent.co.uk/2026/09/16/14/2293664118..?trim=40,0,40,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russia’s foreign minister Sergei Lavrov has warned a war with Europe would be “very short”, amid mounting tensions with Moscow.

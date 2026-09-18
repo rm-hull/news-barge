@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A Government bid to shut down a York restaurant after immigration raids
   found people working there illegally is set for a decision.
 image: https://www.yorkpress.co.uk/resources/images/21467978.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: LDRS)*

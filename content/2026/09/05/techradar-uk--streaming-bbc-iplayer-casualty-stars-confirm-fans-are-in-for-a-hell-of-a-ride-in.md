@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: This weekend marks the 40th anniversary of Casualty, and the BBC has
   two special episodes planned that will blow your mind.
 image: https://cdn.mos.cms.futurecdn.net/uFxdXY75LzJYqnYPo8A2Jb-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Three medics look at something along the hospital corridor](https://cdn.mos.cms.futurecdn.net/uFxdXY75LzJYqnYPo8A2Jb.jpg) 

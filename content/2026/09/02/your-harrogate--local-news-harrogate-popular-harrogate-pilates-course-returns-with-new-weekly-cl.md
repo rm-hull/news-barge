@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: A popular pilates course for beginners is returning to Harrogate next
   week.
 image: https://mmo.aiircdn.com/409/6a98124a4f14c476a38.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6a98124a4f14c476a38.jpg) 

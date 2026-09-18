@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The price cap taking effect from October 1 will rise by 4% for a typical
   household using gas and electricity.
 image: https://static.independent.co.uk/2024/09/13/12/13113216-8d3da08d-1ad4-4c9d-84cb-3004463f1ba3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Ofgem has announced it is raising its price cap to £1,723 per year for a typical dual fuel household, up £60 or 4% on current levels.

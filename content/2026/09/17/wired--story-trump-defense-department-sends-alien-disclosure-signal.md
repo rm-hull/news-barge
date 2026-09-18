@@ -9,6 +9,10 @@ description: The Defense Department issued a legal waiver authorizing current an
   former personnel to share unidentified anomalous phenomena–related classified information,
   but it doesn’t extend to other agencies.
 image: https://media.wired.com/photos/6aa97241a42a7ae0df76548f/191:100/w_1280,c_limit/091526-Trump%20Alien.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Just over a year ago, Dylan Borland—a former Air Force geospatial intelligence specialist—told a House Oversight task force that he'd watched a roughly 100-foot triangular craft lift silently off the flight line at Langley Air Force Base in 2012. But there were some questions he couldn’t answer.

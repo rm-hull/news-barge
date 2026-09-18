@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Council outlines a revised £18m investment to deliver
   112 temporary accommodation units, cutting taxpayer hotel reliance.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate1.webp
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 **North Yorkshire Council has unveiled plans to invest £18 million** into expanding its temporary accommodation delivery scheme by almost 25 per cent. The revised strategy increases the number of proposed safe housing units from 90 properties to 112 homes countywide, targeting a critical shortage of single-occupancy spaces and smaller properties for couples and single people experiencing homelessness.

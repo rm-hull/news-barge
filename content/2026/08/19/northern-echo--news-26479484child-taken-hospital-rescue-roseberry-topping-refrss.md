@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A child was taken to hospital after falling from a tree and down an embankment
   near Roseberry Topping, with air ambulance crews also called to the…
 image: https://www.thenorthernecho.co.uk/resources/images/21343948.jpg?type=og-image&xType=0&yType=314
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: CLEVELAND MOUNTAIN RESCUE)*

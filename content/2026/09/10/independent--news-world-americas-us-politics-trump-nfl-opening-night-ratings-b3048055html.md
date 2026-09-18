@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The fact that the NFL has not yet published official viewership data
   for its season opener raised questions over the president’s claim
 image: https://static.independent.co.uk/2026/09/10/15/2293887619..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump asserted that his Republican midterm convention in Dallas outperformed the kickoff of the NFL season in television ratings, despite no official audience metrics being available.

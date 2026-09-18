@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Party leader, Nigel Farage, ‘humbled’ by contributions from billionaires
   as Harborne addresses ‘media speculation’
 image: https://i.guim.co.uk/img/media/6be562f080c40b5a4762057cff65ae390e3ffad9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfb6e78fa2d23adc6d44d4c98efd2b2c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The cryptocurrency tycoon Christopher Harborne has given £36m to Reform UK, matching a donation from fellow billionaire Ben Delo.

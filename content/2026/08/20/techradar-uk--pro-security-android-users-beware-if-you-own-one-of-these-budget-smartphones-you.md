@@ -8,6 +8,8 @@ scraped_at: '2026-08-20T20:40:51Z'
 published: '2026-08-20T00:00:00Z'
 description: Exploitable Improper Isolation
 image: https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A man looking frustrated at his mobile phone](https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M.jpg) 

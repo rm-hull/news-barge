@@ -7,6 +7,9 @@ scraped_at: '2026-09-15T11:27:18Z'
 published: '2026-09-15T00:00:00Z'
 description: Building enterprise AI that can evolve without disruption
 image: https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Robots in a data center](https://cdn.mos.cms.futurecdn.net/4DKiUF32YY5BX96h6fscGL.jpg) 

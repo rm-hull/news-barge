@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T18:59:23Z'
 published: '2026-09-04T00:00:00Z'
 description: Authorities warned that fly-tipping was getting worse in the Brecon Beacons
 image: https://static.independent.co.uk/2026/09/04/13/28/791130921_1415067116706547_990982766042651414_n.jpeg?trim=50,0,50,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Authorities have issued a warning to visitors after human excrement and maggot-infested food were all found at a Welsh national park over the bank holiday weekend.

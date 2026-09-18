@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T16:56:54Z'
 published: '2026-08-26T00:00:00Z'
 description: Analysts projections for Chinese data centers continue to rise
 image: https://cdn.mos.cms.futurecdn.net/QXbSYdwULWV3vFx6nPxYZg-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Data Center](https://cdn.mos.cms.futurecdn.net/QXbSYdwULWV3vFx6nPxYZg.jpg) 

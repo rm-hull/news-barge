@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T11:52:33Z'
 published: '2026-08-24T00:00:00Z'
 description: 'From: Philip Hutchinson, Scarr Green Close, Meltham.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU3NDBmYzZkLTQxNGQtNDAxZC1iMDZlLTZkMTA3OWJhOGViNzplZWQ0NTZkMS1lZjEwLTRiYTgtYmFjOC1mOGRkNjVjNjI5NWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Look where our votes have got us over the past 16 years - Yorkshire Post Letters

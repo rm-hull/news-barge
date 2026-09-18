@@ -10,6 +10,10 @@ description: England had “no plan” and were “out of control” in the face
   stunning hitting on the third day of the final Test against Pakistan, according
   to former captain Alastair Cook.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/64be/live/bc6e1630-ae1a-11f1-aa28-67f8824e7b72.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Razaullah stars as Pakistan fight back against England

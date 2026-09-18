@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Authorities have said there is no evidence linked to esoteric rituals
   found near the body, despite local reports
 image: https://static.independent.co.uk/2026/09/15/17/55/iStock-2242988126.jpg?trim=0,29,0,29&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An investigation is underway to understand how a British man died in Sicily, as local media has suggested his death could have been part of a spiritual ritual.

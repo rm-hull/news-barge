@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: ‘Our administration is doing the right thing in giving the money back
   to the people who were wrongly ripped off,’ Trump said
 image: https://static.independent.co.uk/2026/09/10/15/34/Screenshot-2026-09-10-at-11-09-58-AM.png?trim=0,301,0,301&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 President Donald Trump announced that some Americans will be receiving $500 Obamacare refunds — just one day after he vowed to send every adult citizen $5,000 if the Republicans maintain control of Congress in the midterms.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Efforts to bring an empty York supermarket building back into use have
   taken a step forward amid fears over the plans.
 image: https://www.gazetteherald.co.uk/resources/images/17263838.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

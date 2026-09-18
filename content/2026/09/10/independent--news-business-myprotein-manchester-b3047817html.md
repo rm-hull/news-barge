@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Sales growth was driven partly by price rises in response to the higher
   cost of whey.
 image: https://static.independent.co.uk/2024/06/24/08/27094354-d9fb218e-38fb-4265-8b52-81ba41910c67.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Myprotein owner THG has hailed a “stellar” performance after raising prices and broadening its range of protein products, but said it had been impacted by the EU scrapping tax relief for cheaper imports.

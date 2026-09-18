@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Harp has been nicknamed the ‘human printer’ because she reportedly hands
   the president printouts of positive news articles and social media comments
 image: https://static.independent.co.uk/2026/09/01/19/2026-08-31T200330Z_1987451156_RC2W9NA5OQCX_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Americans have questions about Natalie Harp, President Donald Trump’s famously ultra-loyal White House aide.

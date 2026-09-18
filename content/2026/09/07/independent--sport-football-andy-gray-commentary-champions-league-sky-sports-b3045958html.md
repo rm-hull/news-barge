@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The former Everton player will commentate on Liverpool’s Champions League
   opener for TalkSport
 image: https://static.independent.co.uk/2026/09/07/13/2215692427..?trim=56,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Andy Gray is to make his return to UK commentary for the first time since he was sacked by Sky Sports for sexist and derogatory comments when he worked for the broadcaster.

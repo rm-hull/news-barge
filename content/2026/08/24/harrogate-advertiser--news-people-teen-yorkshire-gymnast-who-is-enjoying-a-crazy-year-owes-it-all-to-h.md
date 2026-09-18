@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A talented 13-year-old Harrogate gymnast has been chosen to train at
   a prestigious GB five-day development camp this week.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJkZmFhZmY3LTIwMGUtNGUxZC05OTk2LWRjOGZiYWY2MDg4Mzo2ODM2YWE0My01ZjAzLTQ0YjgtYmY2NS1mOWEyZTgzYzRiNGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Sports
 ---
 
 # Teen Yorkshire gymnast who is enjoying a ‘crazy year’ owes it all to Harrogate Gymnastics

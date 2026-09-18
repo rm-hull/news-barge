@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The brothers are being held in a Miami jail as they contest extradition
   to Britain, where they are wanted on rape charges
 image: https://static.independent.co.uk/2026/08/27/17/2188618581..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Romanian prosecutors officially indicted Andrew Tate on Friday on charges including trafficking minors and money laundering after years of investigation.

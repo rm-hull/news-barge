@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: One victim escaped and told a neighbour her friend was being raped by
   the Afghan national, the court heard.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4f4/live/69a56690-b2b8-11f1-ad9d-efc12ace03e0.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A mug shot of a man with short black hair and a beard.](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a4f4/live/69a56690-b2b8-11f1-ad9d-efc12ace03e0.jpg)

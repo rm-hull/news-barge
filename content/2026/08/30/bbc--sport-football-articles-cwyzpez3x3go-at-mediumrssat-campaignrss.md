@@ -10,6 +10,10 @@ description: Chelsea's new goalkeeper Emiliano Martinez made his debut in a thri
   4-3 win over Brighton - but is unable to solve his new club's defensive problems
   on his own.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c36/live/afabb460-a484-11f1-bed8-470734b5b662.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Chelsea maintain perfect start with seven-goal thriller

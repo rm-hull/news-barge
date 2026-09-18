@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A teenager has been charged after a 13-year-old boy suffered stab injuries
   on Bank Holiday Monday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20313371.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Telegraph & Argus)*

@@ -9,6 +9,10 @@ description: German Chancellor Friedrich Merz plans an executive committee meeti
   of his centre-right CDU on Sunday, straight after two state elections are held,
   to seek assurances he has his party's continued support.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260915__C8BT2JZ__v1__MidRes__GermanyGovernmentAwardScienceEducation.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 The high-stakes meeting will come amid growing speculation Merz, 70, could face a challenge from within his CDU/CSU camp after the far-right Alternative for Germany (AfD) defeated his party in a recent state poll.

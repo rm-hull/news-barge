@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Target is planning to build 30 new stores and remodel 130 other locations
   this year
 image: https://static.independent.co.uk/2026/09/17/17/42/Screenshot-2026-09-17-at-1-12-07-PM.png?trim=0,156,0,155&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Target announced this week a slew of new stores and the upcoming debut of a line of stylish employee uniforms.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:05Z'
 published: '2026-09-07T00:00:00Z'
 description: Rachel Bright was suspended from duty back in 2023 and has now been sacked
 image: https://static.independent.co.uk/2023/11/06/11/34e1d4e0ba57c7fa0e3ac78fb18da1f4Y29udGVudHNlYXJjaGFwaSwxNjk5MzU2OTM1-2.17903776.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Metropolitan Police officer who inappropriately touched a woman during a night out has been sacked from the force, Scotland Yard officials have confirmed.

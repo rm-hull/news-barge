@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Gianni Infantino has defied a request by one of his FIFA vice presidents
   to stay away from an Under-14 soccer event in the Caribbean this weekend
 image: null
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Gianni Infantino defied a request by one of his FIFA vice presidents to stay away from an Under-14 soccer event in the Caribbean and instead made a rare public appearance during the global furor over his failed plan to sell future World Cup profits to private investors.

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The former Jeffrey Epstein accomplice loses her latest effort to be released
   from prison.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c294/live/fffcf3c0-a088-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Ghislaine Maxwell sits in a tan shirt with a water visible in front of her.](https://ichef.bbci.co.uk/ace/standard/615/cpsprodpb/c294/live/fffcf3c0-a088-11f1-aed2-8d6da8d75094.jpg)

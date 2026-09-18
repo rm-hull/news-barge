@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Renowned North Yorkshire artist Lucy Pittaway has unveiled a deeply personal
   collection in a bold move away from her signature style.
 image: https://www.thenorthernecho.co.uk/resources/images/21421511.jpg?type=og-image&xType=0&yType=465
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A renowned North Yorkshire artist has unveiled a deeply personal collection in a bold move away from her signature style.

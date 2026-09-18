@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Peterlee centenarian May Edwards celebrates her 100th birthday, recalling
   her wartime role supporting Bevin Boys at Horden miners’ hostel in…
 image: https://www.thenorthernecho.co.uk/resources/images/21432295.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 A former wartime canteen girl who helped support Bevin Boys working in County Durham's coalfields has celebrated her 100th birthday.

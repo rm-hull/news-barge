@@ -10,6 +10,10 @@ description: The world’s top track and field athletes are competing in Hungary
   three nights, with 28 events and $150,000 for each winner. The new Ultimate Championship
   is set to return every two years.
 image: https://static.independent.co.uk/2026/09/13/18/APTOPIX_Hungary_Ultimate_Championship_Athletics_58583.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Photos of top track and field athletes chasing $150K prizes at the Ultimate Championship

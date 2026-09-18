@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Joanna Groves urged Andy Burnham, as a father, to ‘prioritise the safety
   of vulnerable people’ and think about the planet they’re inheriting
 image: https://static.independent.co.uk/2026/09/02/11/55/696b8e61-175e-4796-9940-ddcf8a8b6f5a.jpg?trim=543,0,257,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A mother whose daughter suffered heat exhaustion after a day at nursery during this year’s record-breaking summer weather has urged Andy Burnham to prioritise future generations over drilling in the North Sea.

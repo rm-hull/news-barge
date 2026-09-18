@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: The populist, far-right, anti-immigration AfD won the vote in the eastern
   state of Saxony-Anhalt
 image: https://i.guim.co.uk/img/media/eeb61d84af276852fc173039141473e1450de42a/751_151_3572_2858/master/3572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78b0099ba15d26ae3c0ccc32a26b43c5
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Good morning. A far-right leader who has won an important state election in Germany has thanked Elon Musk for his support, as voices in Europe warn the result is a serious moment for the continent. No far-right party has led or formed a government in Germany since the defeat of nazism at the end of the second world war.

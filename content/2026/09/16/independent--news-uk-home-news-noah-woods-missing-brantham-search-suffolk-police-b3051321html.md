@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: More than 1,000 volunteers joined the search for Noah in the village
   of Brantham in Suffolk
 image: https://static.independent.co.uk/2026/09/16/13/dd51551ffcc2ce8a03b3dc3ce283cbb0Y29udGVudHNlYXJjaGFwaSwxNzg5NjQ3MzIx-2.85866824.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A body has been found in the search for three-year-old Noah Woods, who vanished after a visit to a village playground.

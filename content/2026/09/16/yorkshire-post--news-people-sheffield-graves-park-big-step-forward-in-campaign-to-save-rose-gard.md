@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Sheffield campaigners to save the Rose Garden Cafe in Graves Park are
   celebrating the news that planning permission has been granted for renovation work.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRhMzAwMjA5LWQ4NWEtNDMzMS05NGY2LTAyNzVjMGJlZDA4YTo5NDFlMzNkMC0yZTcwLTRlNTEtODAxNi1jZGQ1YmM4M2M4NjI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Sheffield Graves Park: Big step forward in campaign to save Rose Garden Cafe

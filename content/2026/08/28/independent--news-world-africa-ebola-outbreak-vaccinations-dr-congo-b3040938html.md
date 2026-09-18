@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Frontline health workers are first in line to receive vaccinations amid
   the country’s fastest-growing outbreak
 image: https://static.independent.co.uk/2026/08/28/11/Congo_Ebola_Vaccination_371_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A rollout of Ebola vaccinations began in Congo on Thursday as health officials move to contain the country's most fatal outbreak on record.

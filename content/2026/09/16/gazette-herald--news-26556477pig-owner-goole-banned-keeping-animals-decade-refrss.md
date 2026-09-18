@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A pig owner has been banned from keeping the animals for 10 years after
   they were found living in hazardous conditions in East Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21464478.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
 ---
 
 *(Image: East Riding of Yorkshire Council)*

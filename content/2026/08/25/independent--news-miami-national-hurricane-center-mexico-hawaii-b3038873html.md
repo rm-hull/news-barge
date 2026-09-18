@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Forecasters say Tropical Storm Julio has formed in the Pacific Ocean
   and isn’t threatening land
 image: https://static.independent.co.uk/2026/08/25/13/Tropical_Weather_63125.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 Tropical Storm Julio formed Tuesday in the Pacific Ocean and isn't threatening land, forecasters said.

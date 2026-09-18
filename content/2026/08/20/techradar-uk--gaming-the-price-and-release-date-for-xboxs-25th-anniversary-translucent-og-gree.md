@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: The price and release date for Microsoft's 25th anniversary Xbox Wireless
   Controller have reportedly leaked online ahead of Gamescom 2026.
 image: https://cdn.mos.cms.futurecdn.net/KpEBhKrYHHzyEUzH9QsxFi-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Xbox 25th anniversary wireless controller](https://cdn.mos.cms.futurecdn.net/KpEBhKrYHHzyEUzH9QsxFi.jpg) 

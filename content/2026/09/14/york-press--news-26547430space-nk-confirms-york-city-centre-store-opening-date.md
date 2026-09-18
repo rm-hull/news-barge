@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Space NK will open in Coney Street, York, on September 25, with beauty
   treats, Pick & Mix gifts and goody bags for early shoppers.
 image: https://www.yorkpress.co.uk/resources/images/21450923.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Popular retailer reveals York opening date with free treats for first 100 customers

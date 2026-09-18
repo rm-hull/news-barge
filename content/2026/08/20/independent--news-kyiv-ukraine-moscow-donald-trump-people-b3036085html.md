@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T04:49:47Z'
 published: '2026-08-20T00:00:00Z'
 description: A Russian missile barrage has killed at least six people in Kyiv
 image: https://static.independent.co.uk/2026/08/20/05/Russia_Ukraine_War_46_99.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Russian missile barrage overnight Thursday killed at least six people in Kyiv as explosions echoed across the capital throughout the night, local authorities said.

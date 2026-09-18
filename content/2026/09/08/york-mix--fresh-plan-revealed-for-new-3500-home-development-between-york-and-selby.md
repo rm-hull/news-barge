@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T04:26:04Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/heronby-high-street-visual-sept-2026.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Fresh plans are being developed for a new community of around 3,500 homes between York and Selby.

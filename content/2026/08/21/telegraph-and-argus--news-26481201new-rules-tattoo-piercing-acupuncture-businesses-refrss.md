@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: THE City of Bradford Metropolitan District Council will bring in new
   rules for acupuncture, tattooing, and piercing businesses.
 image: https://www.thetelegraphandargus.co.uk/resources/images/15622374.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

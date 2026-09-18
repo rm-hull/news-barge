@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Party’s economic spokesperson says donations are a ‘breakthrough moment’
   as Labour’s Angela Rayner warns of possible retrospective action
 image: https://i.guim.co.uk/img/media/55e1861cb07fc4179b42f05da5ad22dc15681d5d/85_0_1010_808/master/1010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=21afa7cdf227ee44c09d0d1f98782f1f
+categories:
+- UK
+- News & Politics
 ---
 
 Communities secretary Angela Rayner with Reform UK Treasury spokesman Robert Jenrick before appearing on Sunday With Laura Kuenssberg. Photograph: Jeff Overs/BBC/PA

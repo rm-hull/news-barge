@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Family of three-year-old allegedly thrown into pit at Cambridgeshire
   zoo say he is happy to be back at home
 image: https://i.guim.co.uk/img/media/fa4fbc26ca10b8a0d80b5dd2a551ab308168eaa8/32_0_4548_3640/master/4548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d71e38c6e64b7cc3988c9276f95760b
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A three-year-old boy who was seriously injured in a zoo’s crocodile enclosure has been discharged from hospital and is settling back in at home, his family has said.

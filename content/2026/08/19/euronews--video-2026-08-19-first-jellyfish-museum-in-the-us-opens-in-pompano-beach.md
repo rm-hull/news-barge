@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Video. Pompano Beach hosts the first US jellyfish museum, where visitors
   watch 20 species drift in tanks and learn about their ecosystems and research.
 image: https://images.euronews.com/articles/stories/09/88/00/46/1200x675_cmsv2_9c764501-2f8a-51a7-a57d-5f9246cb6e3a-9880046.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 In Pompano Beach, Florida, visitors wander past glowing tanks filled with drifting jellyfish at the city’s new Jellyfish Museum.

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A luxury County Durham hotel will host rescue dogs, coffee morning treats,
   lawn games and a raffle as it joins forces with Dogs Trust Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21356908.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Seaham Hall)*

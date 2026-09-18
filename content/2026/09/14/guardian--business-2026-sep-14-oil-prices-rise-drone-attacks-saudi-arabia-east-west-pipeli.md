@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Iran-linked rebels force closure of east-west pipeline and capture strategic
   island in Bab al-Mandab strait
 image: https://i.guim.co.uk/img/media/67000351a560c53dad05830ce3ae755c5d9f0778/418_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=875a8abf71a514e63cf6f7bee98c170f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline.

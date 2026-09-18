@@ -9,6 +9,9 @@ description: 'The former EU Commissioner has himself urged that legal proceeding
   go ahead, denies any wrongdoing and says he wants to cooperate fully with the authorities.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/77/16/1200x675_cmsv2_d9d51404-3977-5f18-ad98-d9615f1b67c4-9917716.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The former EU Commissioner has himself urged that legal proceedings go ahead, denies any wrongdoing and says he wants to cooperate fully with the authorities.

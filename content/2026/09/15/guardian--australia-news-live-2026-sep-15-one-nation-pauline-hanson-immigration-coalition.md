@@ -9,6 +9,10 @@ scraped_at: '2026-09-15T04:45:38Z'
 published: '2026-09-15T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/0d763230e9fa5b241c2f84d27f2221f0815a41ed/520_180_2728_2182/master/2728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8c959e946633e1693b0a17b40f703781
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Australian politics live: Hanson offers qualified apologies to PM and Indigenous Australians over podcast comments; NDIA announces voluntary redundancies for first time

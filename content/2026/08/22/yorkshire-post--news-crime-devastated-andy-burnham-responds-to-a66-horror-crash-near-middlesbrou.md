@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Prime Minister Andy Burnham has said he was left “devastated” to hear
   about the crash that killed two police officers and five other people.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/20/22/v2-image-production-c27eff905c6232167f1f0952a9acc9cfY29udGVudHNlYXJjaGFwaSwxNzg3MzE4NTk3-2.85564291.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # 'Devastated': Andy Burnham responds to A66 horror crash near Middlesbrough

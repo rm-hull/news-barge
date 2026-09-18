@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Army currently does not require Reserve Officers' Training Corps
   cadets to provide standardized test scores before admission
 image: https://static.independent.co.uk/2026/08/19/17/37/GettyImages-2290918878.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Defense Secretary Pete Hegseth is reportedly upset that the U.S. Army has decided to backtrack on a set of new academic standards for college students enrolling in the Reserve Officers' Training Corps training program meant to block "stupid people" from joining.

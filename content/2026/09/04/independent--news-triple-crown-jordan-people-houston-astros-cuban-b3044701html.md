@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Yordan Alvarez is the frontrunner for AL MVP and a potential Triple Crown
   winner
 image: https://static.independent.co.uk/2026/09/04/11/Athletics_Astros_Baseball_6_713.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Yordan Alvarez is one of baseball’s biggest stars: the frontrunner for AL MVP with a strong chance of becoming baseball's first Triple Crown winner since Miguel Cabrera in 2012.

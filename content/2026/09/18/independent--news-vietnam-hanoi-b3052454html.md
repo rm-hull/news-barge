@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: At least four people were killed in heavy rains, floods and landslides
   in northern and central Vietnam, authorities said Friday
 image: https://static.independent.co.uk/2026/09/18/11/Vietnam_Extreme_Weather_Floods__5638.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 At least four people were killed after heavy rains, floods and landslides inundated more than 16,000 homes in northern and central Vietnam, authorities said Friday.

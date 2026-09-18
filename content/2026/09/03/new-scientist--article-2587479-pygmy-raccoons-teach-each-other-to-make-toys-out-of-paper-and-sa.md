@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Critically endangered pygmy raccoons on Cozumel Island in Mexico have
   shown remarkable creativity by making balls out of rubbish at beach clubs
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310252570.jpg
+categories:
+- Science
+- Technology & Software
+- Lifestyle & Fashion
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310252570.jpg?w=840)

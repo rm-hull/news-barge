@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Inghams Fish Restaurant in Filey is often described as the best fish
   and chip shop in the area.
 image: https://www.thenorthernecho.co.uk/resources/images/21396030.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Tripadvisor)*

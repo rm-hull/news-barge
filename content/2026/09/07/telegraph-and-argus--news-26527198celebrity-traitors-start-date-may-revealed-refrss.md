@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Bradford fans should know start date for the second series of Celebrity
   Traitors may have been confirmed by Richard Osman and it's soon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20866196.jpg?type=og-image&xType=0&yType=20
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: BBC/Studio Lambert/Euan Cherry)*

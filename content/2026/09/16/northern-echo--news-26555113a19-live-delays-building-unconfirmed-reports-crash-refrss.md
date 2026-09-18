@@ -7,6 +7,12 @@ scraped_at: '2026-09-16T13:28:10Z'
 published: '2026-09-16T00:00:00Z'
 description: Heavy delays are building on the A19.
 image: https://www.thenorthernecho.co.uk/resources/images/21462410.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 - Good afternoon, welcome to this Northern Echo live breaking news blog.

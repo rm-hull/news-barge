@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:19Z'
 published: '2026-08-19T00:00:00Z'
 description: Pocklington-based Opus Recruitment Ltd has entered voluntary liquidation.
 image: https://www.yorkpress.co.uk/resources/images/21342062.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: NQ)*

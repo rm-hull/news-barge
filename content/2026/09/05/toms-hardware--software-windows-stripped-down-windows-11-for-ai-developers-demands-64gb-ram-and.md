@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: This version of Windows 11 will let developers code right out of the
   box.
 image: https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![AMD Ryzen AI Halo](https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: While philosophers ponder AI consciousness, the models have ideas of
   their own.
 image: https://media.wired.com/photos/6a9a07e3356d3dfac634d3e8/191:100/w_1280,c_limit/Backchannel-AI-Consciousness-Business-2289990159.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 I spent the waning days of summer grinding away at columns and working on a feature. But I missed a chance at a striking change of scenery—cruising the Galápagos with about a dozen prominent philosophers studying consciousness.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-18T19:00:58Z'
 published: '2026-09-18T00:00:00Z'
 description: Find out what you should be playing this weekend.
 image: https://cdn.mos.cms.futurecdn.net/zuwMmz5BTah8zEzx8fcMwd-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Theodora in a rage in Fire Emblem: Fortune's Weave](https://cdn.mos.cms.futurecdn.net/zuwMmz5BTah8zEzx8fcMwd.jpg) 

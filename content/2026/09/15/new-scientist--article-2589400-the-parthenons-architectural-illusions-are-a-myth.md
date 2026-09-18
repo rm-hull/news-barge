@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Optical illusions thought to have influenced the design of the Parthenon
   in ancient Greece are not backed up by evidence or are too small to have an effect
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312585147.jpg
+categories:
+- Science
+- Technology & Software
+- History
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312585147.jpg?w=840)

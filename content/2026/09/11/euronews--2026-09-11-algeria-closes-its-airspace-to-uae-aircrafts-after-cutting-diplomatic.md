@@ -9,6 +9,10 @@ description: Algeria cut diplomatic ties with the UAE and banned Emirati civilia
   and military aircraft from its airspace, citing 'provocative and hostile acts'.
   Commercial flights to Algiers are exempt until the end of 2026.
 image: https://images.euronews.com/articles/stories/09/90/94/41/1200x675_cmsv2_36c57835-4a87-5f78-88fd-59f87daca07f-9909441.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Algeria cut diplomatic ties with the UAE and banned Emirati civilian and military aircraft from its airspace, citing 'provocative and hostile acts'. Commercial flights to Algiers are exempt until the end of 2026.

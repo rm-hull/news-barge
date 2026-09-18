@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A silver car found overturned in County Durham woodland with its doors
   and boot open has been removed following concerns.
 image: https://www.thenorthernecho.co.uk/resources/images/21472586.jpg?type=og-image&xType=0&yType=420
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

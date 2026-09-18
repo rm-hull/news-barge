@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: AN esteemed historian whose latest book coincides with the British Museum’s
   Bayeux Tapestry exhibition is coming to Malton.
 image: https://www.gazetteherald.co.uk/resources/images/21364683.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 AN esteemed historian whose latest book coincides with the British Museum’s Bayeux Tapestry exhibition is coming to Malton.

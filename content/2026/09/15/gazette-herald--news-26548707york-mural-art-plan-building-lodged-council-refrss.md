@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: PLANS to tackle graffiti which has been scrawled on the side of an historic
   York building for years have been lodged.
 image: https://www.gazetteherald.co.uk/resources/images/21452963.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

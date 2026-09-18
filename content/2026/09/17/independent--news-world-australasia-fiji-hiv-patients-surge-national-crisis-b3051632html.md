@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:43Z'
 published: '2026-09-17T00:00:00Z'
 description: Pacific nation reported 27 per cent surge in new diagnoses last year
 image: https://static.independent.co.uk/2026/09/17/05/2274064955..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Fiji declared HIV a national crisis following a 27 per cent surge in new diagnoses last year, raising fears that an outbreak previously concentrated among people injecting drugs was spreading broader across the Pacific nation.

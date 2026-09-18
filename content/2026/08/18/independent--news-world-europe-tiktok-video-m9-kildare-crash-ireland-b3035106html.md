@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Social media ‘likes’ driving surge in nighttime car thefts as teenage
   boys steal cars to record daredevil videos, police say
 image: https://static.independent.co.uk/2026/08/18/17/LNDE3-0KQSCcKs_7KUqlGLDr-gve9D4t5lmd6YwGwA-pDC8IEG3ANisbjjFrL4JMvDOrORQcKhc5RBmcMlMu4kAI4CZ0Iu4cw2HX..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ireland’s media watchdog is challenging bosses at social-media giant TikTok over videos of illegal and reckless driving after five teenagers were killed in a wrong-way motorway crash.

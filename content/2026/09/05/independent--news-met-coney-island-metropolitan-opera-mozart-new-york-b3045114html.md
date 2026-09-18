@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Metropolitan Opera in New York requires auditions for everyone on
   stage
 image: https://static.independent.co.uk/2026/09/05/05/Snake_Auditions_62623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Music
 ---
 
 Pretty much everyone on stage at the Metropolitan Opera in New York must audition — even the snake who will briefly take center stage in an upcoming adaptation of a Mozart classic.

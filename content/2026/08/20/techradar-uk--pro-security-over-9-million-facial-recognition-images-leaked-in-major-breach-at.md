@@ -8,6 +8,8 @@ scraped_at: '2026-08-20T13:06:52Z'
 published: '2026-08-20T00:00:00Z'
 description: Another day, another misconfigured database
 image: https://cdn.mos.cms.futurecdn.net/BUi4eir3JnCCT2MRGt3weS-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Back View of Young Black Man Walking and Looking at Big Digital Screens Glitching While Displaying Code Lines. Professional Hacker Breaking Through Cybersecurity Protection System, Changing Code](https://cdn.mos.cms.futurecdn.net/BUi4eir3JnCCT2MRGt3weS.jpg) 

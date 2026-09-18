@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Households across County Durham and Teesside are being warned to keep
   dangerous items out of their recycling bins, with discarded vapes singled out…
 image: https://www.thenorthernecho.co.uk/resources/images/20602398.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Biffa)*

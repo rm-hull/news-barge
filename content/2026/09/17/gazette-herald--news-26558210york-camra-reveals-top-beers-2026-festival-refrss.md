@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: York CAMRA has revealed the best beers of this year's beer festival at
   St Lawrence Church.
 image: https://www.gazetteherald.co.uk/resources/images/21467106.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 York CAMRA has revealed the best beers of this year's beer festival at St Lawrence Church.

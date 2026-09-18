@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Trump says every adult American will get $5,000 if the Republicans win
   the midterms.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

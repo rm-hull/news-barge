@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Five others were injured after the plane hit multiple vehicles and burst
   into flames
 image: https://static.independent.co.uk/2026/09/06/21/2026-09-06T202346Z_1701192901_RC2WDNASZYYQ_RTRMADP_3_USA-CRASH-PLANE-MIAMI.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least five people have been killed and five more injured after an Amazon cargo plane overshot the runway at Miami International Airport, according to authorities.

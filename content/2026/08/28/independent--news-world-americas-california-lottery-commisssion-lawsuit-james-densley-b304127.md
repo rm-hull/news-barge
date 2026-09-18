@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: James Densley claimed he was denied the money by the state commission
   without any explanation
 image: https://static.independent.co.uk/2026/08/28/20/2287895332..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The California State Lottery Commission has been awarded judgment along with more than $150,000 in attorneys' fees and costs following the dismissal of a lawsuit brought by a man who claimed he was improperly denied a $750,000 payout on a winning high-stakes poker ticket, according to court documents obtained on Friday.

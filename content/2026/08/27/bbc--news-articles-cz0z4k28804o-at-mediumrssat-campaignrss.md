@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Selena Gomez's lawyer says the fraud case is "absurd" - but it is far
   from unusual for celebrity family business relationships to go wrong.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b96e/live/2b586050-a20e-11f1-9090-b51af3a01fc2.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Close up of Selena Gomez in make-up and silver jewellery and waving over her shoulder](https://ichef.bbci.co.uk/ace/standard/898/cpsprodpb/b96e/live/2b586050-a20e-11f1-9090-b51af3a01fc2.jpg)

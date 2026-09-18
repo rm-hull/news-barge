@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The King and Queen will join Macron and Andy Burnham for a visit to the
   70-metre tapestry which is on display at the British Museum
 image: https://static.independent.co.uk/2026/09/02/08/2223621276..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 On Wednesday, the King, the Queen, French president Emmanuel Macron and Prime Minister Andy Burnham are scheduled to view the Bayeux Tapestry together in London.

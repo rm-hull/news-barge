@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Pamela Cisneros, 49, and a 32-year-old woman whom she allegedly stabbed
   died at the hospital, and the second victim, a 68-year-old man, is in stable condition
 image: https://static.the-independent.com/2026/08/31/23/06/SEI310198299.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A woman has been shot dead by police in the heart of Times Square in Manhattan after she allegedly killed a person and injured another in a stabbing attack that lasted mere seconds.

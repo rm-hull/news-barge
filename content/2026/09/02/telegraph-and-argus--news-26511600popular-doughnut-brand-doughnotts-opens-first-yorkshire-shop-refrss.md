@@ -8,6 +8,11 @@ scraped_at: '2026-09-02T12:44:41Z'
 published: '2026-09-02T00:00:00Z'
 description: DOUGHNUT fans are in for a sweet surprise in Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21396078.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

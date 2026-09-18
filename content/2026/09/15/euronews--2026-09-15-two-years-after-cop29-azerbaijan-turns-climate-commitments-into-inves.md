@@ -9,6 +9,10 @@ description: The country has committed €540 million to climate-resilient irrig
   and launched an AI-based farmer-scoring system, developed with the FAO, to channel
   subsidies to smallholders who adopt water-saving and soil-regenerating techniques.
 image: https://images.euronews.com/articles/stories/09/90/42/67/1200x675_cmsv2_0601a9ff-2681-5978-a573-77c349f24224-9904267.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Euronews Baku bureau**

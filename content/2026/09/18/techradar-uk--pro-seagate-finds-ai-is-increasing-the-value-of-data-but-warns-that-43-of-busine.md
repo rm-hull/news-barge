@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Seagate survey exposes an AI infrastructure gap as only 38% of organizations
   say they are fully prepared for growth
 image: https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk-2121-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Hologram of the artificial intelligence robot showing up from binary code](https://cdn.mos.cms.futurecdn.net/D9SxF3hiMTwj2qrLfLCYk.jpg) 

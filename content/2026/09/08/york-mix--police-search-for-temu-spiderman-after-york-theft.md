@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:25:28Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-cctv-locked-gates-parcel-theft-11-aug-2026.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Do you know this fence hurdler?

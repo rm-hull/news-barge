@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:26Z'
 published: '2026-09-07T00:00:00Z'
 description: It is the first time that the species has been found in the county
 image: https://static.independent.co.uk/2026/06/01/10/2243495200..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Concerns are growing that invasive Asian hornets are expanding their footprint across England following the species' first recorded discovery in a previously unaffected county.

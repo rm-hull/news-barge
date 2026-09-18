@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Captain Joe Root says England are in a better place at the end of their
   tumultuous summer and is impressed by how they have handled the chaos.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f6c9/live/f85911e0-aeb0-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Root and Cox guide England to victory after early scare

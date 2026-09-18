@@ -7,6 +7,12 @@ scraped_at: '2026-09-12T12:10:05Z'
 published: '2026-09-12T00:00:00Z'
 description: A BRADFORD construction company plans to expand its fleet.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19049599.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

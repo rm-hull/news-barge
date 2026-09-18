@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Travellers have set up camp on the grounds of Stockton Riverside College,
   as students return for their first day back.
 image: https://www.thenorthernecho.co.uk/resources/images/21395725.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Travellers have set up camps on the grounds of a North East college, as students return for their first day back.

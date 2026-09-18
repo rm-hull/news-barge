@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Federal Greens partyroom split over plan for NSW to get millions of dollars’
   worth in carbon credits for creating a koala national park
 image: https://i.guim.co.uk/img/media/bece57a5aeb9d207907d0004ae506280861c3cbd/525_0_6027_4822/master/6027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27797ee0001cfc6c53cebc9fc648606d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A New South Wales Greens MP has pleaded with her federal colleagues not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars’ worth in carbon credits for creating a koala national park.

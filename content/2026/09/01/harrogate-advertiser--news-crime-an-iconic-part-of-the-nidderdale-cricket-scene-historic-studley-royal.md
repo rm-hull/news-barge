@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A much-loved cricket pavilion at Studley Royal in Ripon has been destroyed
   in a devastating fire, leaving the local cricket community heartbroken.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJkOGMyNjc0LWQ1MmUtNDg5NS04OTNlLWI0MzFlNzdkNDA0NDo3ZDNjY2I3MS1mMzY4LTRiMGUtOWUzZS0xZDZmOTYxMzhkNmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
+- History
 ---
 
 # ‘An iconic part of the Nidderdale cricket scene’: Historic Studley Royal Cricket Club pavilion destroyed in devastating fire

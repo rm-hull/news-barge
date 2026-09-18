@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: An investigation is underway after a 'deliberate' fire caused major damage
   to the entrance of a property in Hartlepool.
 image: https://www.thenorthernecho.co.uk/resources/images/20861477.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: CLEVELAND FIRE BRIGADE)*

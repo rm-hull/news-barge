@@ -10,6 +10,11 @@ description: Charley Hull gets the ball rolling as Europe's big guns finally cam
   to the fore in Sunday's singles as they wrestled the Solheim Cup back from the United
   States with a 15½-12½ victory at Bernardus Golf Club in the Netherlands.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ff4/live/cc70a230-af89-11f1-913a-7151f234deb3.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 How Europe won the 2026 Solheim Cup

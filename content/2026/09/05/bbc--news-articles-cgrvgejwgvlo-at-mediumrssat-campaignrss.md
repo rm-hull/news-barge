@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The majority of the papers on Saturday focus on Reform UK following the
   party's annual conference.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9eb8/live/50530ec0-a8ba-11f1-b76f-27c623338eaa.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![The headline on the front page of the Daily Mirror reads: “Reform in chaos”.](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/f7a2/live/fe122bf0-a8a5-11f1-a291-b542ee92de7c.jpg)

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: ‘I would describe it as the worst smell you get at the seashore,’ the
   town administrator said
 image: https://static.independent.co.uk/2026/09/05/16/31/Screenshot-2026-09-05-at-12-19-37-PM.png?trim=12,0,13,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The odor of “dead fish” emanating from a Massachusetts property is so intense that the town has resorted to legal action, according to a new report.

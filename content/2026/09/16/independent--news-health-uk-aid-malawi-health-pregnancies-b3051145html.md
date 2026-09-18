@@ -10,6 +10,9 @@ description: 'Exclusive: New analysis shared with The Independent shows far-reac
   impacts of UK aid prior to the current cuts – as new polling from the Rockefeller
   Foundation suggests public support for addressing global challenges is growing'
 image: https://static.independent.co.uk/2026/09/16/11/1247429007..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 UK aid to Malawi provided essential healthcare to more than three million people and prevented more than two million unintended pregnancies over 15 years, according to a new analysis of government reports that has been shared exclusively with *The Independent*.

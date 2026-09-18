@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The band say they face "an existential crisis" after the success of the
   K-pop-inspired Netflix film.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce9f/live/c9fcf6d0-9bc4-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Picture of Ryan Clark, who is the lead singer of metal band Demon Hunter. He is crouched on stage wearing a black vest and camouflage trousers and is holding a microphone.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/36a6/live/1eeb64e0-9bc2-11f1-ae8a-8d57110c5ba6.jpg)

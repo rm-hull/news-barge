@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: 'Ontario Premier Doug Ford unveiled a billboard on Canada''s shoreline
   with the message: "Lake Ontario. Now and Always."'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: Ontario Premier Doug Ford unveils 'Lake Ontario' sign

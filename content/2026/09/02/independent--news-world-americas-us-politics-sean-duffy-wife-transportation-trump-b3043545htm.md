@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: ‘He did say don’t eff it up,’ Rachel Campos-Duffy told Katie Miller on
   her podcast
 image: https://static.independent.co.uk/2026/09/02/14/27/Screenshot-2026-09-02-at-10-11-20-AM.png?trim=0,452,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Transportation Secretary Sean Duffy’s wife claimed that he received his Cabinet position because it was what President Donald Trump had “left.”

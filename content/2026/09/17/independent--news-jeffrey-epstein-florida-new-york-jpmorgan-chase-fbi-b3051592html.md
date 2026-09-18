@@ -9,6 +9,10 @@ description: A Florida woman who was paid $750,000 by a fund for people sexually
   by Jeffrey Epstein has pleaded guilty to falsifying records she used in her application
   for the money
 image: https://static.independent.co.uk/2026/09/17/01/Jeffrey_Epstein_Compensation_Fraud_449_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A Florida woman who was paid $750,000 by a fund for people sexually abused by Jeffrey Epstein has pleaded guilty to falsifying records she used in her application for the money.

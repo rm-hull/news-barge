@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Friday’s inflation report is shaping up to be among the most consequential
   in years
 image: https://static.independent.co.uk/2026/09/11/05/US_Economy_4_92.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Friday's inflation report is shaping up to be among the most consequential in years.

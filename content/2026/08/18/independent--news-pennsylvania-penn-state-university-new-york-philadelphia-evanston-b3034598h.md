@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Authorities say they’ve charged 14 people over their ties to a cocaine-trafficking
   ring that involved two fraternities and students
 image: https://static.independent.co.uk/2026/08/18/02/Penn_Drug_Ring_PA_47814.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 More than a dozen people were criminally charged Monday over their alleged ties to a cocaine-trafficking ring in Pennsylvania that involved two fraternities and students.

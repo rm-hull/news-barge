@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T13:12:29Z'
 published: '2026-08-26T00:00:00Z'
 description: It involves lasers!
 image: https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K-1080-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Homemade LED](https://cdn.mos.cms.futurecdn.net/PikPUcv6RA3z557bbHue6K.png) 

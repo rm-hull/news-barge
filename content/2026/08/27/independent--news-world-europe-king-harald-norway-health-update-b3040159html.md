@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:00:44Z'
 published: '2026-08-27T00:00:00Z'
 description: The 89-year-old has been battling a blood infection for weeks
 image: https://static.independent.co.uk/2026/06/23/15/2276683971..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Norway's King Harald V is in a “very serious” condition after his health worsened while in hospital, the royal court has announced.

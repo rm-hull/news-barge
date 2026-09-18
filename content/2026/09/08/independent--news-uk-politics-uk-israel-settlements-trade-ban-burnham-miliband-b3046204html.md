@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Move expected to be announced by foreign secretary on Tuesday is set
   to draw fierce criticism from the US and Israel
 image: https://static.independent.co.uk/2026/08/20/14/2288201878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The government is set to unveil a ban on the trade of goods and some services from Israeli settlements in the West Bank after promising to take a tougher stance in support of Gaza.

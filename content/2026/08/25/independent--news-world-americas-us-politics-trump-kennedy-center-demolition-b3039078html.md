@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Government lawyers say the venue could be ‘taken down’ if the president
   can’t use his name on the building to raise money for construction
 image: https://static.independent.co.uk/2026/08/25/18/2292009414..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 In its latest dramatic attempt to keep Donald Trump’s name on the building, the Department of Justice floated the idea of demolishing the Kennedy Center altogether.

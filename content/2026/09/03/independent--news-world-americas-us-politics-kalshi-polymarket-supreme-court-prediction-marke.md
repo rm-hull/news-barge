@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Kalshi will not list prediction markets related to a potential Supreme
   Court case over the future regulators of prediction markets, the company told ‘Barron’s’
 image: https://static.independent.co.uk/2026/09/03/18/2026-09-02T170411Z_1954253028_RC2MRMARG1W2_RTRMADP_3_KALSHI-COURT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Kalshi won’t let users bet whether the Supreme Court will hear a case that could upend the prediction market’s regulatory future, a spokesperson for the companyclaims.

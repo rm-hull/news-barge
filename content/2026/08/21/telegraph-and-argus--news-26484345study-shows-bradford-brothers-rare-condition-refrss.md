@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Bradford mum says she feels "ridiculously lucky" after a study discovered
   her two sons could have a rare condition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: Family handout/PA Wire)*

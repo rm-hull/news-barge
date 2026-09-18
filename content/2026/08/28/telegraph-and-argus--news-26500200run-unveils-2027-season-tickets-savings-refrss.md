@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: RUNNERS are being offered a new way to plan ahead and save money on their
   2027 race calendar.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20899223.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

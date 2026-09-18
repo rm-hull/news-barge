@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Illia Bilyk, a 21-year-old Ukrainian man, has pleaded guilty to targeting
   five locations in east London.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6680/live/5c9b8300-b2bb-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A custody image of Illia Bilyk](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6680/live/5c9b8300-b2bb-11f1-a430-4d16ee157c41.jpg)

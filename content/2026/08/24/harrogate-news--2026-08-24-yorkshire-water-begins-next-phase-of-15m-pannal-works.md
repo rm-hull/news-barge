@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Yorkshire Water is beginning the next phase of its upgrade to wastewater
   infrastructure in and around Pannal in Harrogate, in support of approved housing
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Yorkshire-Water-colleagues-5-cropped-cropped-3-cropped-cropped_cropped.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 Yorkshire Water is beginning the next phase of its upgrade to wastewater infrastructure in and around Pannal in Harrogate, in support of approved housing developments in the area.

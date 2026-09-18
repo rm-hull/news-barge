@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T22:33:59Z'
 published: '2026-09-01T00:00:00Z'
 description: This is a photo gallery curated by AP photo editors.
 image: https://static.independent.co.uk/2026/09/01/21/APTOPIX_Nepal_Flash_Floods_64174.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Photography & Video
 ---
 
 This is a photo gallery curated by AP photo editors.

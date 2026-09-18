@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The traffic-free route has been maintained by volunteers since the railway
   closed in the late 1960s.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40ca/live/2e25ff00-a2ad-11f1-ab20-f9f4f61e8913.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 **An abandoned railway line which volunteers transformed into a much-loved walking and cycling route has been named Britain's favourite path.**

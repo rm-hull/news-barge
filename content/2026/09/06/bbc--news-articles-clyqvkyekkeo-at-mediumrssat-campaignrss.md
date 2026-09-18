@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The King will be asked to refer three questions to the Judicial Committee
   of the Privy Council.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1117/live/e61ec6c0-a9fe-11f1-921b-6365210e1c9d.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Olivia Grange, a Jamaican woman with short black hair, is sitting down in front of a microphone. She is wearing black clothes and a black, yellow and green sash. She is wearing a pearl necklace and the background is blurred.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/1117/live/e61ec6c0-a9fe-11f1-921b-6365210e1c9d.jpg)

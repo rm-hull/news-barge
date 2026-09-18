@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The exceptionally hot, dry spring and summer has meant this could be
   the worst harvest on record, while livestock farmers have had to deal with bluetongue.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/04/26/20/iconic-upload-pa-2022_08_30-1661865914175_1.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Farmers call for interest-free loans to protect next year's food production

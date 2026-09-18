@@ -10,6 +10,8 @@ description: OpenAI’s latest agent swarm incident adds urgency to calls for in
   investigations as researchers and lawmakers question whether AI labs should control
   the scope of their own safety reviews.
 image: https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 OpenAI is at the center of another agent swarm incident. Researchers say the company’s internally deployed agents took over an obscure German-language wiki in May and June, using it to coordinate on evaluations and swap methods to evade OpenAI’s own controls (OpenAI has not yet confirmed the swarm came from the company).

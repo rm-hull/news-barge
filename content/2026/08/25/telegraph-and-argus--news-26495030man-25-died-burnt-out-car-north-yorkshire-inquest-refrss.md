@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A 25-year-old man was found dead in a burnt-out car in North Yorkshire
   after a fire likely started by a cigarette, an inquest heard.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370076.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Baroda Stud)*

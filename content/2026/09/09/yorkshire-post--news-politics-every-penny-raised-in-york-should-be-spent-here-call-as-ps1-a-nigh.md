@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Cash raised by a tourist tax in York should stay in the city and be spent
   there, the leader of the council’s opposition group has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhiYTU2NTUyLTRkY2MtNGE4OS04MmRiLTU3ZDVmMzAwODcwNjpmMDExNmUyYi1mMTZmLTRiZDUtODgxOS00MWU2ZjM1OTNhZTQ=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Travel
 ---
 
 # 'Every penny raised in York should be spent here' - Call as £1-a-night tourist tax floated

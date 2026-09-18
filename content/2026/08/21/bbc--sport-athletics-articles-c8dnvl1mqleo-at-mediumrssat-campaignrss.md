@@ -9,6 +9,10 @@ description: Amy Hunt follows up her extraordinary week at the European Champion
   with a second-placed finish in the women's 200m at the Diamond League in Lausanne
   behind Kayla White.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5320/live/4b2678e0-9d90-11f1-9d64-0d57e20be552.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Amy Hunt](https://ichef.bbci.co.uk/ace/standard/786/cpsprodpb/5320/live/4b2678e0-9d90-11f1-9d64-0d57e20be552.jpg)

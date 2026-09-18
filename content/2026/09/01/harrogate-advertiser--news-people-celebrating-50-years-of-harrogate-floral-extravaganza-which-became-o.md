@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Harrogate Autumn Flower Show is to celebrate the 50th anniversary of
   being one of Britain’s premier gardening events.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjljMTA5MmE5LTFiMjYtNDY0Ny05M2MwLTNmMWQyM2RiYWE3Njo2Y2EwMjJmZS1lMDUxLTQ3MDctOTMyZS1kOGZlNTQ4MTAwZjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Celebrating 50 years of Harrogate floral extravaganza which became one of Britain’s premier gardening events

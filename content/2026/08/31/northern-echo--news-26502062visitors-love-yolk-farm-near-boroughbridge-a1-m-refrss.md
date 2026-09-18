@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Yolk Farm near Boroughbridge combines an egg-themed restaurant, farm
   shop and family attractions, with visitors praising its breakfasts.
 image: https://www.thenorthernecho.co.uk/resources/images/21381275.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

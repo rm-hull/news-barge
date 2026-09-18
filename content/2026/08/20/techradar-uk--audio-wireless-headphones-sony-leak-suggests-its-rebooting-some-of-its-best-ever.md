@@ -10,6 +10,9 @@ description: A Sony leak suggests it's preparing to launch a new, more affordabl
   version of its legendary WH-1000XM4 headphones to better compete in the ANC headphone
   sector.
 image: https://cdn.mos.cms.futurecdn.net/2ipU8HdmDX4SqHv2cEyuB4-2536-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![sony wh-1000xm4](https://cdn.mos.cms.futurecdn.net/2ipU8HdmDX4SqHv2cEyuB4.jpg) 

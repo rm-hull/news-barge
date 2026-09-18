@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T22:14:17Z'
 published: '2026-08-28T00:00:00Z'
 description: Listen live to Radio 4 on BBC Sounds
 image: https://sounds.files.bbci.co.uk/3.12.0/networks/bbc_radio_four/blocks-colour_600x600.png
+categories:
+- UK
+- News & Politics
+- Music
+- Technology & Software
 ---
 
 ## Live now on Radio 4

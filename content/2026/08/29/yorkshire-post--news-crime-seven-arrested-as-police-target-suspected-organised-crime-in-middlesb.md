@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Seven men have been arrested and drugs, £15,000 in cash and a Mercedes
   seized as police continue an investigation into suspected organised crime in Middlesbrough.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA3OTdiYjdlLThjNTctNDQ2My1hZTE3LWJmNjY2NTExNjBkNzpkNjg2MzBjYy01MzExLTQ0M2EtODYwOS00NGFkYjdlYTU3MjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Seven arrested as police target suspected organised crime in Middlesbrough

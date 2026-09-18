@@ -9,6 +9,11 @@ description: Temporary burials of hundreds of the catastrophic flood victims hav
   caused public outrage in parts of the country who accused authorities of not following
   Hindu burial rites and mismanaging the situation.
 image: https://images.euronews.com/articles/stories/09/89/48/46/1200x675_cmsv2_6d05ccbf-51f1-5746-8fd4-ad593bdcc68c-9894846.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## Temporary burials of hundreds of the catastrophic flood victims have caused public outrage in parts of the country who accused authorities of not following Hindu burial rites and mismanaging the situation.

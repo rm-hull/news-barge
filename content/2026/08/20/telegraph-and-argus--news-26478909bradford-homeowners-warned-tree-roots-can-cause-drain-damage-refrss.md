@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T08:53:01Z'
 published: '2026-08-20T00:00:00Z'
 description: TREE roots are being blamed for blocked drains.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21342919.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

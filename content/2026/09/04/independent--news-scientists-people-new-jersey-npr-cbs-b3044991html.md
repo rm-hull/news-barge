@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: If the TV remote hadn’t been invented, channel surfers and couch potatoes
   would have to argue about something else
 image: https://static.independent.co.uk/2026/09/04/18/America_25__Objects_Remote_Control_34839.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 If the TV remote hadn’t been invented, channel surfers and couch potatoes would have to argue about something else. Come to think of it, those surfers and potatoes might not even exist.

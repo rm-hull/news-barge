@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: A Birtley garden centre has received praise from customers, with visitors
   highlighting its food, coffee and friendly service.
 image: https://www.thenorthernecho.co.uk/resources/images/21413373.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 *(Image: GOOGLE MAPS)*

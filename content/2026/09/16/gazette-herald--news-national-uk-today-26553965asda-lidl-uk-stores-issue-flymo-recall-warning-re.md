@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Shoppers at Asda, Lidl and more UK stores have been warned that, because
   of a defect, the product may cause “physical injury”.
 image: https://www.gazetteherald.co.uk/resources/images/20716987.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Getty)*

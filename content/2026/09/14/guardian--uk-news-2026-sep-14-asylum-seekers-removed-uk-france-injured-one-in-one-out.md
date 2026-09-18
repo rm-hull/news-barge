@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Samusocial de Paris documents signs of violence after detention and transfer
   under ‘one in one out’ scheme
 image: https://i.guim.co.uk/img/media/eb5849976dfe86de003bd44f8ddc93826618748c/173_0_1320_1056/master/1320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c9613ea88bc44a76d06c2f2d5361d57
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Multiple injuries including bruising and fractures have been documented by a health service supporting people returned to France under the controversial “one in, one out” scheme.

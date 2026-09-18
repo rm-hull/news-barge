@@ -10,6 +10,11 @@ description: With the severity of climate change becoming more obvious – at le
   to expand airport capacity should include a thorough examination of their climate
   impacts.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUwYjllOTU4LTAzMTQtNDdiOC1hODIzLTQyODgzMmFhZWM0ODpmZTFlZTJiNi05NDk1LTRhMDctYWE0YS00MDhhYmY3ZmEzY2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Why Doncaster Sheffield Airport is unlikely to survive - Chris Broome

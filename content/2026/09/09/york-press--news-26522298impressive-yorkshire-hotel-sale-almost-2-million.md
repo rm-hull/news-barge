@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Boar's Head Hotel in Ripley, north of Harrogate, is for sale for
   £1.95 million.
 image: https://www.yorkpress.co.uk/resources/images/21410992.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## ‘Prestigious’ North Yorkshire hotel hits the market – for almost £2 million

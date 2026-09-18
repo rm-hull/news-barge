@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A federal official says a charter plane flying to a remote radar site
   in western Alaska crashed Thursday
 image: https://static.independent.co.uk/2026/08/21/03/Alaska_Plane_Crash_66835.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Travel
 ---
 
 Charter plane with eight people on board crashes near remote Alaska radar station

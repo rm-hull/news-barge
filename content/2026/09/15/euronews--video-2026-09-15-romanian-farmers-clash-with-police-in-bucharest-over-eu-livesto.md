@@ -9,6 +9,9 @@ description: Video. Romanian farmers clashed with security forces in Bucharest o
   Tuesday, 15 September, as an agricultural protest outside the government headquarters
   descended into disorder.
 image: https://images.euronews.com/articles/stories/09/91/44/77/1200x675_cmsv2_4c8db832-c13a-5d64-8746-c6d016abcd88-9914477.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Footage shows protesters **pushing and scuffling** with security forces,**throwing objects** and**knocking down barriers** before gendarmes deployed**tear gas**.

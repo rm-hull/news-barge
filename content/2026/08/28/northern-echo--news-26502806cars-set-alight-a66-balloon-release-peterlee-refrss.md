@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Cars were reportedly set alight during a balloon release in Peterlee
   held in memory of one of the five men killed in the wrong-way A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21382484.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Cars were reportedly set alight during a balloon release in County Durham held in memory of one of the five men killed in the wrong-way A66 crash.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Decade-long study finds stark gender difference in outcomes of people
   with heart disease
 image: https://i.guim.co.uk/img/media/c23c80a46ec7648ca0f34ff20068806934b90df1/985_0_5397_4320/master/5397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2973cd80fbca7c1e56a44aeb4ad5eaa
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Millions of men with heart disease have a higher risk of developing and dying from cancer, according to a decades-long study.

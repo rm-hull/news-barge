@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: At least three Americans were evacuated after suspected insurgents attacked
   a camp in a wildlife reserve in northern Mozambique
 image: https://static.independent.co.uk/2026/09/04/11/1243857924..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 At least three Americans were evacuated after suspected insurgents attacked and burned a hunting camp in a wildlife reserve in northern Mozambique, according to a source familiar with the incident.

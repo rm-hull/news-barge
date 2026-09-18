@@ -7,6 +7,8 @@ scraped_at: '2026-08-27T22:13:46Z'
 published: '2026-08-27T00:00:00Z'
 description: Dreame has cancelled its plans to make a rocket-propelled hypercar
 image: https://cdn.mos.cms.futurecdn.net/DAmHUqV6MUt75r6XYCDtp5-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dreame car from CES 2026](https://cdn.mos.cms.futurecdn.net/DAmHUqV6MUt75r6XYCDtp5.jpg) 

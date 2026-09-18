@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A County Durham mum says her four children were forced from their home
   after the ceiling collapsed and water she claims was contaminated with sewage…
 image: https://www.thenorthernecho.co.uk/resources/images/21453791.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A County Durham mum-of-four says her family fled their home after the ceiling collapsed and filthy water poured through the roof.

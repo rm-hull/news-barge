@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: ITV’s Up series, which began in 1964 as 7 Up, has followed the lives
   of 14 British children from the age of seven.
 image: https://www.gazetteherald.co.uk/resources/images/19494605.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: ITV)*

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: European champions Paris St-Germain will face Premier League duo Manchester
   City and Aston Villa in the league phase of this season's Champions League.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/766b/live/f7c57550-a237-11f1-80a2-67c89a95284e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A view of UEFA Champions League trophy ahead of UEFA Champions League phase draw](https://ichef.bbci.co.uk/ace/standard/879/cpsprodpb/766b/live/f7c57550-a237-11f1-80a2-67c89a95284e.jpg)

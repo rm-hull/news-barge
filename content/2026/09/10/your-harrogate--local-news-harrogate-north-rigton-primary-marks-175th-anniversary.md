@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A primary school near Harrogate has welcomed families and residents to
   celebrate its 175th anniversary.
 image: https://mmo.aiircdn.com/409/6aa270a8c59d2d723b0.jpg
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa270a8c59d2d723b0.jpg) 

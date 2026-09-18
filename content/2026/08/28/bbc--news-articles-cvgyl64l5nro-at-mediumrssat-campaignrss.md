@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Alan Greer was investigated by police in 2002 and 2005 for making inappropriate
   phone calls to women, with one case resulting in a formal police caution.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Head-and-shoulders portrait of Alan Greer who has short, cropped hair. He is  wearing a blue top and is facing the camera against a light grey perforated background. The image is tightly cropped around the face and shoulders.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg)

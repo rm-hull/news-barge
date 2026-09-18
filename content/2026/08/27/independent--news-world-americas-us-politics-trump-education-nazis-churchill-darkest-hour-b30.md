@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: DOE misinterprets ‘tiger’ quote from Oscar-winning 2017 film ‘Darkest
   Hour,’ forcing it to delete social media clip after backlash
 image: https://static.independent.co.uk/2026/08/27/09/2291874129..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 President Donald Trump’s Department of Education (DOE) has been forced to delete a social post in which it appeared to inadvertently compare his administration to Nazi Germany.

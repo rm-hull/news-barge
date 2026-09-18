@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Feedback is our weekly column of bizarre stories, implausible advertising
   claims, confusing instructions and more Archaeologists RIP In July, Feedback
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308737156.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308737156.jpg?w=840)

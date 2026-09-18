@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: ‘He needs to get in front of a microphone and prove that he can do this
   job,’ Fox News contributor Joe Concha said. ‘And if he can’t he needs to step aside’
 image: https://static.independent.co.uk/2026/07/27/16/22/image002.png?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Fox News co-host urged Senator Mitch McConnell to either return to work or resign, underscoring mounting frustration over the Kentucky Republican’s nearly three-month absence from Congress.

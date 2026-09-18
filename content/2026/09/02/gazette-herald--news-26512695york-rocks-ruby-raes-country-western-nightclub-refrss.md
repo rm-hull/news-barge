@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Since Ruby Rae's opened in York's former Jalou nightclub, thousands have
   been enjoying its country and western every weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21397557.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Yeehaw! York has gone mad for country.

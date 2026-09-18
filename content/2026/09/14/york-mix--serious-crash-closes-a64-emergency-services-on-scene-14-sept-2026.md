@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T20:18:03Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/north-yorkshire-police-car-light-rear.webp
+categories:
+- Local
+- York
+- Film & TV
+- Technology & Software
 ---
 
 A serious crash has closed a stretch of the A64 between York and Malton tonight (Monday).

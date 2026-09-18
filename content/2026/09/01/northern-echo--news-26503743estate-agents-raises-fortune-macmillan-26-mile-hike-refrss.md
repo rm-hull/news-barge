@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Three colleagues raised £1,766 for Macmillan Cancer Support after completing
   a challenging 26-mile hike.
 image: https://www.thenorthernecho.co.uk/resources/images/21383878.jpg?type=og-image&xType=0&yType=29
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 Three members of a North East estate agency team have raised more than £1,700 for Macmillan Cancer Support after completing a gruelling 26-mile hike through the Lake District.

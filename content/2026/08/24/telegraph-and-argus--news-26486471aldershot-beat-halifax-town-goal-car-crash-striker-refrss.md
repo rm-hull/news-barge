@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Former Chelsea and Swindon Town forward Dennis Brown might have been
   left wondering what could have been in his career had it not been for a car…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357052.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: PA)*

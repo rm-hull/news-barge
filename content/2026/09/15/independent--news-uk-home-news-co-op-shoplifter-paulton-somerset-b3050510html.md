@@ -10,6 +10,10 @@ description: Hayley Bush’s heroic actions to try to stop the shoplifter at a C
   store in Paulton, Somerset, comes as retailers lose billions of pounds a year to
   the criminals
 image: https://static.independent.co.uk/2026/09/10/15/20/WhatsApp-Image-2026-09-10-at-16-31-16.jpeg?trim=403,57,960,323&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A mother-of-two who saw a shoplifter stealing from a supermarket has told of the horrific moment she was dragged under the wheel of a car as she tried to stop the offender escaping.

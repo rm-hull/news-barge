@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: An EastEnders legend is facing a criminal trial in 2027 after he pleaded
   not guilty to an offence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19975410.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: BBC)*

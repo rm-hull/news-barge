@@ -9,6 +9,10 @@ description: Psychedelics are often associated with disconnecting from reality, 
   a recent neuroimaging study found that psilocybin can actually make our brain activity
   more connected to the world around us.
 image: https://media.wired.com/photos/6a919be132e307274e3f30e1/191:100/w_1280,c_limit/1398820822
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Under the influence of psychedelics, the usual organization of the human brain loosens. That's what scientists have generally thought, with several studies showing that when we take these substances, the signals pinging between our neurons become more diverse and unpredictable. This increased entropy in our gray matter may underlie the strange, random, and often memorable experiences of psychedelic trips.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T19:17:26Z'
 published: '2026-09-03T00:00:00Z'
 description: Calls for bin removal after mystery 'dumping containers' appear in Batley.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE3ZTViYzNlLTc4NTktNDk0Ny1iMjQ2LTAyYTIzN2E1MWI0ZTpiZWM1Y2E4My0yMWU5LTQyNDgtODY0NC1iNDc3OTgwM2ZlMTk=.jpg?crop=3:2,smart&trim=&width=832&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Calls for removal of 'dumping site' clothes donation bins

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Manchester City agree to pay a British transfer record fee of £125m for
   Chelsea midfielder Enzo Fernandez.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/34d0/live/85adcc00-a620-11f1-bb6f-e5db02d232fa.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Enzo Fernandez smiles and is wearing a blue Chelsea shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/34d0/live/85adcc00-a620-11f1-bb6f-e5db02d232fa.jpg)

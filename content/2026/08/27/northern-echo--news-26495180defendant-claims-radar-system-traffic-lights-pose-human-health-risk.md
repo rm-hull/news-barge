@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: A County Durham forces’ veteran is to stand trial for causing damage
   to eight sets of traffic lights, at a cost of more than £5,000.
 image: https://www.thenorthernecho.co.uk/resources/images/21371189.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 *(Image: Internet)*

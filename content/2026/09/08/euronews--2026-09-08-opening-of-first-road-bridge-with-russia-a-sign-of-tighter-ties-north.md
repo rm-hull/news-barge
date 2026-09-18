@@ -9,6 +9,11 @@ description: The opening on Monday came as Russia and North Korea have heavily b
   military and economic ties since Moscow launched its full-scale invasion of Ukraine
   in 2022.
 image: https://images.euronews.com/articles/stories/09/90/51/64/1200x675_cmsv2_758b44cc-326c-5ea6-88b1-64b568cd3dd3-9905164.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ## The opening on Monday came as Russia and North Korea have heavily boosted military and economic ties since Moscow launched its full-scale invasion of Ukraine in 2022.

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Harrogate Town sign Torquay United defender Sam Dreyer for an undisclosed
   fee.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/757d/live/92efe110-a6e2-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Sam Dreyer applauds the fans after a Torquay United match](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/757d/live/92efe110-a6e2-11f1-9e4c-79c1c0e340c6.jpg)

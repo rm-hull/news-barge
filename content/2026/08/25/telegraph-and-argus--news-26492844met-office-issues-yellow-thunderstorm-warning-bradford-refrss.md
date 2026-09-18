@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Met Office has issued a yellow weather warning for thunderstorms
   covering West Yorkshire, including Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21367764.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Getty)*

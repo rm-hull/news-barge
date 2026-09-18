@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Tesla stock fell by more than 5 per cent to $357.38 in early trading
   on Friday following news of the probe
 image: https://static.the-independent.com/2026/09/04/16/2292810425..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Federal regulators have opened an investigation into whether Tesla's new driverless taxis adhere to safety standards, just one day after the company began offering rides in the vehicles.

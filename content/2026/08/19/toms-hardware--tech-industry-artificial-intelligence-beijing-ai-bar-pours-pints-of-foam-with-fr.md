@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T13:10:55Z'
 published: '2026-08-19T00:00:00Z'
 description: The giveaways outnumber sales 10 to one.
 image: https://cdn.mos.cms.futurecdn.net/G33KuzpDuuBhcuEAHfSNX8-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Beijing AI bar pours $1.50 pints of foam with free DeepSeek tokens served from two Nvidia DGX Sparks](https://cdn.mos.cms.futurecdn.net/G33KuzpDuuBhcuEAHfSNX8.png) 

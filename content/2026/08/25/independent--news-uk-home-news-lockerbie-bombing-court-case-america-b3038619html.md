@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The explosion killed all 259 passengers and crew members and 11 people
   on the ground in Lockerbie
 image: https://static.independent.co.uk/2026/08/24/23/Lockerbie_Suspect_Trial_66843.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The US trial of a former Libyan intelligence operative accused over the 1988 Pan Am Flight 103 bombing has been delayed after fresh evidence came to light, a federal judge ruled on Monday. Defence attorneys requested time to review the material in the case, which spans nearly four decades.

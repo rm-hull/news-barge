@@ -10,6 +10,11 @@ description: America’s 250th birthday has been a banner year for the actors of
   Philadelphia, Inc. who immerse visitors in Colonial history via first-person interpretations
   and true stories
 image: https://static.independent.co.uk/2026/09/16/14/America_25__Casting_History_387_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Betsy Ross is a dynamo with a T-shirt cannon.

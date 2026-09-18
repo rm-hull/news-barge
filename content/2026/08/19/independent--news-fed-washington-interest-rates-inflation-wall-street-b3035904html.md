@@ -10,6 +10,10 @@ description: Many Federal Reserve officials think the central bank will have to 
   its key short-term interest rate in the coming months if inflation doesn’t subside,
   minutes of the Fed’s meeting last month showed
 image: null
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Many Federal Reserve officials think the central bank will have to lift its key short-term interest rate in the coming months if inflation doesn't subside, minutes of the Fed's meeting last month showed.

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: “CODA,” the first film featuring a largely deaf cast to triumph at the
   Oscars, marked a watershed moment for the film industry
 image: https://static.independent.co.uk/2026/09/11/19/Toronto_TIFF_Film_Festival_86_91.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A line has been running through Siân Heder’s head lately: “What would Judy do?”

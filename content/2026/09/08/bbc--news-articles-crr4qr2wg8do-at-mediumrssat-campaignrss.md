@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: An exercise next year on a scale not seen for a "very long time" will
   test the UK's preparedness, a minister says.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e4b/live/1c7c0520-ab71-11f1-9712-a14d469bace4.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Soldiers from 16 Air Assault Brigade are seen after parachuting from a British Royal Air Force A400M transport aircraft onto Salisbury Plain at Copehill Down training facility in March 2026 as part of Joint Airborne Task Force (JATF) training launched from RAF Brize Norton.](https://ichef.bbci.co.uk/ace/standard/908/cpsprodpb/4e4b/live/1c7c0520-ab71-11f1-9712-a14d469bace4.jpg)

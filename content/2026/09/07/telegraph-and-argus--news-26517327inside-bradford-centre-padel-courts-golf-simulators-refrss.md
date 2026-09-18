@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Bradford leisure centre with padel courts, cricket lanes, and golf
   simulators is looking to expand its sporting facilities.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411623.jpg?type=og-image&xType=0&yType=212
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: T&A)*

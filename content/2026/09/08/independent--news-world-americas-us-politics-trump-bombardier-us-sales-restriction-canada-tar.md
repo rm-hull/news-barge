@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Responding to Trump’s remarks, Bombardier pointed out that key components
   for its aircraft, including wings and engines, are already manufactured in the U.S.
 image: https://static.independent.co.uk/2026/09/08/18/10/GettyImages-2292989189-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two senators have urged President Donald Trump to rethink his threat to ban aircraft sales by Canadian manufacturer Bombardier in the United States.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘Now the UK will have something to say about it ... but I think it would
   be a great thing’
 image: https://static.independent.co.uk/2026/09/12/11/01M2AHCG60V3V1ASSXBK4J5J17.jpg?trim=4,0,4,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 ![](https://cdn.jwplayer.com/v2/media/N8fVWUiV/poster.jpg?width=720)

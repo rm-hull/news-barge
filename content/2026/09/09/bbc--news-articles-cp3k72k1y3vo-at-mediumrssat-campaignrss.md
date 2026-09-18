@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The investigation, which follows a broadcast by Channel 4 News, is being
   folded into the inquiry that has been under way into other donations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbaa/live/1acb1230-ac60-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: Undercover reporters posing as party donors meet with Nigel Farage

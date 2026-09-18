@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Nearly 24 hours after the six-episode series aired on YouTube, fewer
   than 2,500 people had viewed the first episode
 image: https://static.independent.co.uk/2026/08/20/12/10/Screenshot-2026-08-20-at-8-31-57-AM.png?trim=0,92,0,92&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Transportation Secretary Sean Duffy’s six-episode “Great American Road Trip” has racked up fewer than 3,000 views per segment in the first 24 hours - and some had under 700.

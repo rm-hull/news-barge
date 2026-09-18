@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: A man caused the death of a British Olympian just hours after the former
   athlete had been told he had beaten cancer, York Magistrates' Court…
 image: https://www.gazetteherald.co.uk/resources/images/21440723.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Sports
 ---
 
 A man's driving caused the death of a British Olympian just hours after the former athlete had been told he had beaten cancer, York Magistrates' Court heard.

@@ -11,6 +11,12 @@ description: A fashion brand worn by celebrities including Alison Hammond, Kate 
   a new store this October, marking the company’s first permanent location in the
   North.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBkMTllZGViLWQ2MDktNGRmNy1iZWU5LTQxNTM1NGVkNzVhYzo1ZmM0Y2FhOC02YjkxLTQ0NTAtOTYwZi0wN2FkYWZlYjgyNTA=.jpg?crop=3:2,smart&trim=&width=873&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 # Scamp & Dude: Fashion brand worn by Davina McCall and Alison Hammond to open Harrogate store

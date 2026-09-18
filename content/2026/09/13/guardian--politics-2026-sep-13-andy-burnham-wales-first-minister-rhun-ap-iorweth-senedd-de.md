@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Rhun ap Iorwerth, the first non-Labour Senedd leader, questions Westminster’s
   willingness to relinquish powers
 image: https://i.guim.co.uk/img/media/29c05e16257eec82022dc6582d31088b0153d120/1540_348_6394_5116/master/6394.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7c89952c1c4defc8c5d7346dcb52c2f
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Andy Burnham has to be serious about devolution and understand that Wales is a nation and “not a region in England”, according to the country’s first minister.

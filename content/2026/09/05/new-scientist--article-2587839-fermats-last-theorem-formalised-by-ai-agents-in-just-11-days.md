@@ -9,6 +9,10 @@ description: Converting the proof of Fermat's last theorem into code that comput
   can check was expected to take years – Anthropic's Claude AI managed it in less
   than two weeks
 image: https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg?w=840)

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Bateman, a self-proclaimed prophet, previously claimed to have more than
   20 ‘spiritual wives’
 image: https://static.the-independent.com/2024/12/10/19/SEI232579801-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A leader of a polygamous sect has been handed an additional 24-year prison sentence on Tuesday after being convicted of state child abuse charges in Arizona.

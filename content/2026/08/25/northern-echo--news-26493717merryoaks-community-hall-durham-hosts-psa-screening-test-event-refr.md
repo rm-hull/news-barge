@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A test screening day is being staged by an independent prostate cancer
   support group in a community centre on the outskirts of Durham, on Thursday…
 image: https://www.thenorthernecho.co.uk/resources/images/21368988.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Geoff Kitson)*

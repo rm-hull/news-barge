@@ -9,6 +9,10 @@ description: And using data from 43 studies, which involved more than 48 million
   scientists estimated that 22 per cent of bowel cancer cases worldwide are potentially
   related to H. pylori exposure
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/08/16/istock-1082197864-1.jpg?trim=79,0,79,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Exposure to a bacterium responsible for a widespread stomach infection has been associated with a notable percentage of bowel cancer cases, according to research.

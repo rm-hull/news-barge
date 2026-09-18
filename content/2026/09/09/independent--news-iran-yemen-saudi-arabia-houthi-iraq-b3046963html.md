@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Regional officials tell The Associated Press that Yemen's Houthi rebels
   helped Iraqi militias launch drone attacks on Saudi oil facilities in July
 image: https://static.independent.co.uk/2026/09/09/05/Iran_New_Ring_of_Proxies_6141_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 In July, Saudi Arabia and the United States bombed Iran-backed militias in Iraq after blaming them for drone attacks on Saudi oil facilities that had been claimed by Yemen's Houthi rebels, another Iranian ally.

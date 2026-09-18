@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A York farm shop which called for support to continue operating has had
   its bid for planning permission blocked.
 image: https://www.gazetteherald.co.uk/resources/images/21150989.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

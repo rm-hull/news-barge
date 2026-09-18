@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: People travelling to countries such as Spain and France will have to
   complete extra security checks at the border.
 image: https://www.thenorthernecho.co.uk/resources/images/21415714.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Getty)*

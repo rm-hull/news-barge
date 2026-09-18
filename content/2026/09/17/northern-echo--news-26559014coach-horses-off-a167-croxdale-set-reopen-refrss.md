@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: The Coach & Horses in Croxdale is seeking a new publican ahead of a major
   refurbishment, with Stonegate planning.
 image: https://www.thenorthernecho.co.uk/resources/images/21468197.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

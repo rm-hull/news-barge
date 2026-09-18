@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Emergency services were called to a collision on the M62 on Saturday
   evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20394530.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Yorkshire Air Ambulance)*

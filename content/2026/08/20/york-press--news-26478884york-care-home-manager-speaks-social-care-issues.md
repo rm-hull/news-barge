@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A York care home manager has called for clearer communication and better
   support for families navigating the care system to facilitate better public…
 image: https://www.yorkpress.co.uk/resources/images/20103965.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Yui Mok/PA Wire)*

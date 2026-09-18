@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The conflict in Iran has sent the price of oil and gas soaring while
   inflation rises in Europe and GDP struggles to remain resilient in the UK
 image: https://static.independent.co.uk/2026/09/06/11/2293025044..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 As Donald Trump’s war on Iran spreads further throughout the Middle East, the cost of oil has soared as traders show concerns over inflation.

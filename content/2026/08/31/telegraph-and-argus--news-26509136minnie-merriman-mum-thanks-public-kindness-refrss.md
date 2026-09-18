@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A mother has spoken of her heartbreak and gratitude following the death
   of her nine-year-old daughter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21392432.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Police Scotland)*

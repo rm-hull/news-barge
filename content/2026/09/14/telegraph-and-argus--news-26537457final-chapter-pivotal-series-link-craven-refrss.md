@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A TELEVISION era with a strong link to Craven comes to a fitting end
   this month, as Andrew Hitchon explains.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21410110.jpg?type=og-image&xType=0&yType=7
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 A TELEVISION era with a strong link to West Yorkshire comes to a fitting end this month.

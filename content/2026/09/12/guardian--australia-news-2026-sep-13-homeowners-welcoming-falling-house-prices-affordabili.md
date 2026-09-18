@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Some buyers say they are ready to absorb the fallout of housing weakness
   if it means boosting home ownership across the board
 image: https://i.guim.co.uk/img/media/0dcf526c1780879d878fc6f5a3314ca857381b16/504_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d604b44286b8972deacea45a16c2d9c
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.

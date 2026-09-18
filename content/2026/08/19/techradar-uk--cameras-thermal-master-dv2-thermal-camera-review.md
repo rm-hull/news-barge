@@ -9,6 +9,8 @@ published: '2026-08-19T00:00:00Z'
 description: The Thermal Master DV2 is a self-contained thermal camera that connects
   to an Android phone or PC using USB.
 image: https://cdn.mos.cms.futurecdn.net/VFjTeNQY8gWrc5DUYCU4aA-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

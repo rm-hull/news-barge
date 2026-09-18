@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The lunar eclipse will be visible all over the UK, coming just a couple
   of weeks after the rare solar eclipse that captivated millions.
 image: https://www.gazetteherald.co.uk/resources/images/21374678.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 *(Image: Getty Images)*

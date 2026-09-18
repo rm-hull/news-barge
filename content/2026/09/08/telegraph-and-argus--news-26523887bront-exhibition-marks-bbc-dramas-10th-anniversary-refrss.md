@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Explore the BBC drama 'To Walk Invisible' at Brontë Parsonage Museum,
   with original costumes, props and behind-the-scenes insights…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 The Brontë Parsonage Museum has launched an exhibition marking the 10th anniversary of the BBC drama 'To Walk Invisible', which told the story of the Brontë sisters.

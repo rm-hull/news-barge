@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: This is the first time in recorded history that all of the snow has melted
   at St. Mary’s Glacier
 image: https://static.independent.co.uk/2026/09/18/17/19/iStock-2251236020.jpeg?trim=83,0,83,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Hikers hoping to visit St. Mary's Glacier in Clear Creek County Colorado might find themselves disappointed since the geological feature recently melted.

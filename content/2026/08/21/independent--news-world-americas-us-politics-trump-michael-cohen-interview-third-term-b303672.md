@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: ‘You and I have obviously traveled a pretty rocky road together,’ Cohen
   told Trump
 image: https://static.independent.co.uk/2026/08/20/21/20/FotoJet-(40).jpeg?trim=48,0,352,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Michael Cohen, once Donald Trump’s loyal fixer turned star witness against him, has conducted his first public conversation with the president in eight years after the pair mended fences.

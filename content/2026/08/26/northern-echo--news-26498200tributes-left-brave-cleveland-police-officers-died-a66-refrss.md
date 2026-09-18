@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: Heartfelt tributes have been left to the "brave officers" after they
   were killed in the line of duty, PC Matthew Blades and Tom Clough.
 image: https://www.thenorthernecho.co.uk/resources/images/21375888.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 *(Image: OWEN HUMPRHIES/ PA)*

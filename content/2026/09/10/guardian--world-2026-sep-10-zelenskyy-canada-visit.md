@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Canadian PM Mark Carney hosts president in Calgary, where he grew up
   alongside large Ukrainian community
 image: https://i.guim.co.uk/img/media/be7c2941850f3cf0d37436c968f44745b159e3aa/38_0_4431_3544/master/4431.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3186204d1e40eca817c358dfb1ed95d4
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy.

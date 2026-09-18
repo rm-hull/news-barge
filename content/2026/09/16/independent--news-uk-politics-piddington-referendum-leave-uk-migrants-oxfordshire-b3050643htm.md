@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Home Office is considering using the nearby Bicester barracks to
   house 1,250 people, angering many village residents
 image: https://static.independent.co.uk/2026/09/16/09/01M2MKBMXRPDD097X45M6HNKDQ.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An Oxfordshire village has “voted” to become independent from the UK in protest at the government’s plans to house asylum seekers at a nearby former military base.

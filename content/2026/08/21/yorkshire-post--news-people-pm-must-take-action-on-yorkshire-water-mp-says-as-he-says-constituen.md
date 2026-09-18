@@ -10,6 +10,11 @@ description: Pressure is mounting on the Prime Minister to take action against Y
   Water after an MP warned that his constituents are “absolutely livid” at pollution
   levels in the region.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU5NzkwZDNiLTQ3ZjYtNDQ0NC1hYWY1LTQxNjVkMjIwZGIxZjo3NDFjZGIyNC00YTNmLTRhMTYtODdiYS1lNjc5ODRjNmRjMDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # PM must take action on Yorkshire Water, MP says, as he says constituents are "livid"

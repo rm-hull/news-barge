@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: A series of misconfigurations allowed researchers to access a treasure
   trove of sensitive data
 image: https://cdn.mos.cms.futurecdn.net/BUi4eir3JnCCT2MRGt3weS-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Back View of Young Black Man Walking and Looking at Big Digital Screens Glitching While Displaying Code Lines. Professional Hacker Breaking Through Cybersecurity Protection System, Changing Code](https://cdn.mos.cms.futurecdn.net/BUi4eir3JnCCT2MRGt3weS.jpg) 

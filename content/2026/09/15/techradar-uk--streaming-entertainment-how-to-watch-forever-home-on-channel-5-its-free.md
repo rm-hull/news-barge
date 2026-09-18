@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Channel 5’s gripping new thriller based on Graham Norton’s bestselling
   novel
 image: https://cdn.mos.cms.futurecdn.net/dLESBk75dR4xLdpp6j87YV-2336-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Cast of Forever Home on Channel 5 standing in warm clothing in front of an eerie old stone house](https://cdn.mos.cms.futurecdn.net/dLESBk75dR4xLdpp6j87YV.png) 

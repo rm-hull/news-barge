@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Researchers said the tools - which record consultations - could miss
   vital things like a patient's facial expressions or emotional state.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
+- Education & Learning
 ---
 
 ![Stock photo shows a GP with an NHS lanyard around their neck in a GP surgery setting, putting a finger monitor onto a patient during a consultation.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Officials have not yet stated what caused the crane, specifically a piling
   rig, to tip over
 image: https://static.independent.co.uk/2026/09/14/20/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Four people sustained injuries on Monday morning when a heavy construction crane toppled onto a moving vehicle in an upscale Miami neighborhood, setting it on fire, according to city officials.

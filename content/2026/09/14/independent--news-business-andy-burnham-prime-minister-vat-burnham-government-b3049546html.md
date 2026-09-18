@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: The VAT’s The Problem campaign has called for hospitality VAT to be reduced
   from 20% to 10%.
 image: https://static.independent.co.uk/2026/09/14/00/fab11752c206b03f00f00111ba305a30Y29udGVudHNlYXJjaGFwaSwxNzg5MzkxNTUz-2.85793889.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 More than 800 hospitality businesses have written to the Prime Minister urging him to set out how he will introduce a lower rate of VAT.

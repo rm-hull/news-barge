@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Celebrities having birthdays during the week of Sept. 13-19 include “Hacks”
   actor Jean Smart, singer Fiona Apple and rapper Nas
 image: https://static.independent.co.uk/2026/08/12/20/LA_Premiere_of__Camp_Rock_3__56144.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Music
+- Film & TV
 ---
 
 Celebrity birthdays for the week of Sept. 13-19:

@@ -9,6 +9,11 @@ description: A Yorkshire MP is calling on the Government to deliver a “transpa
   consistent and fair” NHS Continuing Healthcare system to ensure vulnerable people
   don’t face anxiety and delays.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5OGJiZjhkLWMxOWUtNDhiMi04NWJiLTU2M2MxZjU2MGI5NTpmZmQzYmNlNS1jMDU1LTQxMjctYTFjYy1hMzFhM2M1YTk4ODY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Yorkshire MP calls for 'transparent, consistent and fair’ CHC system

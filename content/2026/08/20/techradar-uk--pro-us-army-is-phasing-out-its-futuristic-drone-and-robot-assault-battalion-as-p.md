@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: The Ukraine war apparently hasn't demonstrated the effectiveness of drones
   enough
 image: https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![drone](https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Keighley has a confusing name to pronounce so here is a guide to help
   you out.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355321.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Self-Improvement
 ---
 
 From tourists to people from the south of England, many people will completely mess up the pronunciation of Yorkshire places they have never been to before.

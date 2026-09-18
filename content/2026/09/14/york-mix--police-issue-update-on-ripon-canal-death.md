@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:01:12Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/police-tape.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Police have issued an update on the death of a man found in the canal in Ripon.

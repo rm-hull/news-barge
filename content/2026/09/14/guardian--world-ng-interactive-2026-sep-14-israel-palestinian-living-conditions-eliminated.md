@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Report by Israeli human rights group says systematic and broad assault
   being waged on conditions required for Palestinians’ existence
 image: https://i.guim.co.uk/img/media/9c637e3f0d3aa1ad4d10bbf82d65c8be96e06c0b/626_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86ece195ccf5e23948d6f4c667142b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Israel is working towards the systematic “elimination” of the conditions that sustain Palestinian collective life in the occupied West Bank, according to a major report published by the human rights group B’Tselem.

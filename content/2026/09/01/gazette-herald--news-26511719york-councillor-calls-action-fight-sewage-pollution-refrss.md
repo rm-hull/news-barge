@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A York councillor has called for urgent cross-party action to tackle
   the issues around sewage pollution in the city's rivers - which are among…
 image: https://www.gazetteherald.co.uk/resources/images/21396914.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 A YORK councillor has called for urgent cross-party action to tackle the issues around sewage pollution in the city's rivers - which are among the worst in the country.

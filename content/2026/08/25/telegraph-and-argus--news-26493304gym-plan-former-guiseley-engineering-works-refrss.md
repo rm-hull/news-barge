@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A gym and boxing centre could be created at a former engineering works
   if plans are agreed with the council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368334.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 *(Image: Google)*

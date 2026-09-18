@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T12:01:07Z'
 published: '2026-08-27T00:00:00Z'
 description: Marc Benioff doesn't believe in the SaaSpocalypse
 image: https://cdn.mos.cms.futurecdn.net/NkEJWUi64kpCSWJBB3iYcm-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Salesforce CEO Marc Benioff on stage](https://cdn.mos.cms.futurecdn.net/NkEJWUi64kpCSWJBB3iYcm.jpg) 

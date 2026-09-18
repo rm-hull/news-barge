@@ -8,6 +8,8 @@ published: '2026-09-13T00:00:00Z'
 description: Poland is getting local production of Anduril's new cruise missile as
   concerns about Russia continue driving military spending
 image: https://cdn.mos.cms.futurecdn.net/DkEpEiNqjTjUozkaz4WNcB-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Barracuda cruise missile](https://cdn.mos.cms.futurecdn.net/DkEpEiNqjTjUozkaz4WNcB.png) 

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Fewer people are reading for pleasure, but getting lost in a good book
   has repeatedly been linked to substantial cognitive benefits
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg
+categories:
+- Science
+- Technology & Software
+- Self-Improvement
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312400576.jpg?w=840)

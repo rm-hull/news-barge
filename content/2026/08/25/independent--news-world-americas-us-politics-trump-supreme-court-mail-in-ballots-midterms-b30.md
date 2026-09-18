@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Election officials warned of ‘chaos’ if Trump’s sweeping order is allowed
   to go into effect with just weeks before Election Day
 image: https://static.independent.co.uk/2026/08/04/16/2277841693..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Supreme Court will let Donald Trump implement a sweeping executive order for new mail-in voting rules that could significantly restrict voters’ access to ballots in high-stakes midterm elections this fall, but the legal battle is far from over.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Campaigners wrote to Prime Minister Andy Burnham to demand an inquiry
   on Thursday
 image: https://static.independent.co.uk/2024/11/08/18/iStock-1055083194.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The bereaved families of individuals who died by suicide linked to an online forum have called on Andy Burnham to support their call for a public inquiry.

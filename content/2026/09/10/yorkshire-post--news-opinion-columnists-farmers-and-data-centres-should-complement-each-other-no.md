@@ -10,6 +10,11 @@ description: It has been a hard year for British farmers. Energy spikes, floods 
   droughts have all conspired to produce one of the worst harvests on record. Now
   farmers’ face a fresh threat for their resources; data centres.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJhMjY1NTUzLTE4ODMtNDZhYS1iZmVlLWQ2YzUxOGYzYTc2MTpjMWY4NThlYi04YjM3LTQ2MDMtOWIwMC00ZTM5ZWJkYzdkYTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Farmers and data centres should complement each other, not compete for resources - Ben Pluke

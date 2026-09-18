@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: One man's death highlights the growing strains on the UK's coroner's
   courts
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4c5/live/2ff69860-9fd0-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Michael Buchanan](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a7ef/live/0bc29ef0-9fbf-11f1-aed2-8d6da8d75094.png)

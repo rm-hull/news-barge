@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Efforts to get rough sleepers off the country's streets by Christmas
   have been welcomed in York.
 image: https://www.gazetteherald.co.uk/resources/images/20061680.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 EFFORTS to get rough sleepers off the country’s streets by Christmas have been welcomed in York after costs and the amount of people needing help has spiralled.

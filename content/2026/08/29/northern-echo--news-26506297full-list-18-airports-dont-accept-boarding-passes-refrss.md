@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: There are some airports around the world that do not accept digital boarding
   passes so you need to be prepared to get printed versions.
 image: https://www.thenorthernecho.co.uk/resources/images/21054980.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Gareth Fuller/PA Wire)*

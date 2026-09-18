@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: CELEBRATIONS are underway at a gym being built in a York village following
   a donation from a York university.
 image: https://www.gazetteherald.co.uk/resources/images/21438834.jpg?type=og-image&xType=0&yType=606
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

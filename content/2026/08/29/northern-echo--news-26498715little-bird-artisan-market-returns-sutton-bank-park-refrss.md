@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Little Bird Made Artisan Market returns to the North York Moors this
   weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21376228.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Artisan stalls and handmade treasures return to the moors this weekend as an artisan market makes its latest stop in Thirsk.

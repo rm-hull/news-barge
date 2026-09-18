@@ -9,6 +9,10 @@ description: Oil prices again spiked this week after a few weeks of relative sta
   following the renewed fighting as Iran continues to maintain a stranglehold over
   the strategic Strait of Hormuz, responsible for roughly 20% of global oil shipping.
 image: https://images.euronews.com/articles/stories/09/90/07/78/1200x675_cmsv2_0918394c-7f1e-52bd-9e51-5743a4ee7388-9900778.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Oil prices again spiked this week after a few weeks of relative stability following the renewed fighting as Iran continues to maintain a stranglehold over the strategic Strait of Hormuz, responsible for roughly 20% of global oil shipping.

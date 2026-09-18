@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: It was the fight for abortion rights that launched Gloria Steinem into
   feminism
 image: https://static.independent.co.uk/2026/09/04/05/Gloria_Steinem_694_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 It was the fight for abortion rights that launched Gloria Steinem into feminism.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The share of UK mortgages with smaller deposits is the highest it's been
   since 2008. The BBC spoke to borrowers about how they manage the risks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
 ---
 
 ![Conroy and his partner Amber dressed elegantly. He is wearing a suit with a bow tie, she is wearing a bright yellow dress.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg)

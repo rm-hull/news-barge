@@ -9,6 +9,11 @@ description: A 23-year-old man has been jailed for three years after driving dan
   while under the influence of alcohol and causing a crash in Hull that left his passenger
   with life-changing injuries.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/16/52/daniel-malpass-sentenced-social-media-graphic.png?trim=107,0,256,795&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Drunk driver fled crash leaving passenger with life-changing injuries

@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:28:16Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/06/police-stab-vest-summer-dreamstime.webp
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 A man wearing a balaclava threatened to stab a shop worker during a robbery in Harrogate last night (Tuesday).

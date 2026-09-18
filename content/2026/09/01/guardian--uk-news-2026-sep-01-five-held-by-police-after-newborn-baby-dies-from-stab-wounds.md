@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Officers responded to reports concerning safety of baby girl at property
   in Wincobank area of the city
 image: https://i.guim.co.uk/img/media/066c2202f67692109cebd9b4d751b3e4d086900c/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1e59a279074fb5c6ce168adae1f94a5
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Five people are being held on suspicion of murder after a newborn baby died from stab wounds in Sheffield on Sunday.

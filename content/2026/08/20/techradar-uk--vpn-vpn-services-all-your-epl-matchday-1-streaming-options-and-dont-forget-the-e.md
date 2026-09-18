@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: US and UK streaming schedules for the opening weekend of the Premier
   League
 image: https://cdn.mos.cms.futurecdn.net/25t82pvnjNK7ZwyLy3sqjP-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Brandon Thomas-Asante of Coventry City](https://cdn.mos.cms.futurecdn.net/25t82pvnjNK7ZwyLy3sqjP.jpg) 

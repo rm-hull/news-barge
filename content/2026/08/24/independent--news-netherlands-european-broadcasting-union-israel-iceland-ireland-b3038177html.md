@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Dutch broadcaster said it will again boycott the Eurovision Song Contest,
   calling it a “platform for division” due to tensions over Israel's involvement
 image: https://static.independent.co.uk/2026/08/13/11/Bulgaria_Eurovision_2_27_574_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A Dutch broadcaster announced Monday it is boycotting the Eurovision Song Contest for a second year, calling it a “platform for division” because of tensions over Israel's involvement.

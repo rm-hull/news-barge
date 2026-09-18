@@ -10,6 +10,10 @@ description: Art thieves have also shifted their attention to precious metals, j
   and cultural artefacts that offer greater profits, the EU's law enforcement agency
   said in a report
 image: https://static.independent.co.uk/2025/10/27/8/58/GettyImages-2241881654.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Art thieves across Europe are turning to increasingly violent stategies as specialized gangs are replaced by informal opportunists recruited via social media, Europol reported on Monday.

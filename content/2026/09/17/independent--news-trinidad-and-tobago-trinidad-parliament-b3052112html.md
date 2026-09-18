@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Trinidad and Tobago has ended a lengthy state of emergency, raising concerns
   about potential violence
 image: https://static.independent.co.uk/2026/09/17/19/Trinidad_State_of_Emergency_91375.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Trinidad and Tobago ended a lengthy state of emergency on Thursday with authorities on alert for a possible surge in violence as activists and lawyers decried the mass arrests stemming from the measure.

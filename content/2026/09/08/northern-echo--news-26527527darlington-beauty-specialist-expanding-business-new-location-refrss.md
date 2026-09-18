@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Darlington's Danielle Beauty Room is expanding her business with a new
   location and a host of new treatments.
 image: https://www.thenorthernecho.co.uk/resources/images/21419213.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SARAH CALDECOTT)*

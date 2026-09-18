@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T20:35:37Z'
 published: '2026-08-22T00:00:00Z'
 description: All this, and it did it in a lobby
 image: https://cdn.mos.cms.futurecdn.net/PgJYWvbqnKYs8NfvBBkBCb-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Trinnov Altitude CI close-up](https://cdn.mos.cms.futurecdn.net/PgJYWvbqnKYs8NfvBBkBCb.jpg) 

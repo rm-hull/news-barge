@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man has been left with 'serious injuries' after being attacked with
   a weapon on Stockton high street, Cleveland Police said.
 image: https://www.thenorthernecho.co.uk/resources/images/21376674.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

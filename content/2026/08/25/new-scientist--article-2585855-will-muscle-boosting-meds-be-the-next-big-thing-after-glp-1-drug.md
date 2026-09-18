@@ -9,6 +9,10 @@ description: A number of drugs designed to prevent muscle loss and boost muscle 
   are being tested in clinical trials. Columnist Michael Le Page looks at whether
   building and maintaining muscles is about to get a whole lot easier
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308827907.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308827907.jpg?w=840)

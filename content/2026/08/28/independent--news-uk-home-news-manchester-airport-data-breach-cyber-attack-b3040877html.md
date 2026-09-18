@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The personal data of more than eight million people was accessed in the
   cyber attack
 image: https://static.independent.co.uk/2026/08/28/10/01M11MYE9BXQNVKP3P02AEGFTB.jpg?trim=5,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The personal data of more than eight million people has been accessed after a cyber security breach targeting three major UK airports.

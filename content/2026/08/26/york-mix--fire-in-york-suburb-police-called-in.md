@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T08:57:11Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/05/firefighter-istock.webp
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Fire crews were called to an incident in a York suburb last night.

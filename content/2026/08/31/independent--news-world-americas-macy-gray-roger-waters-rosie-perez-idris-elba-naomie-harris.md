@@ -10,6 +10,10 @@ description: Celebrities having birthdays during the week of Sept. 6-12 include 
   star Emmy Rossum, ballerina Misty Copeland and guitarist Matthew Followill of Kings
   of Leon
 image: null
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Celebrity birthdays for the week of Sept. 6-12:

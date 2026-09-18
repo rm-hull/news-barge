@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T19:00:44Z'
 published: '2026-09-18T00:00:00Z'
 description: Plans for a new dog walking spot in York have been lodged.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM5YjBhZDU1LTU2NzItNGU5My1iM2IyLTk4YTI3NTBiNWY1YjpiZjQzNzA4OC03NGNiLTRiZDktODBkMi04MmJjZTY2YzZhYWE=.jpg?crop=3:2,smart&trim=&width=1136&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Plans for new dog walking spot in York submitted

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The British singer and Irish rock band Fontaines DC both headlined the
   first night of Reading for 2026.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 ![A black and white photo of Charli XCX leaning against a wall as she sings into a microphone. There is a bright white wall behind her which silhouettes her body.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg)

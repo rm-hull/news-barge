@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Crown prosecutor tells Victorian court that all seven of Patterson’s
   grounds for appeal should fail
 image: https://i.guim.co.uk/img/media/6b835ea329dd92c65f4c4a7606f18192523d3912/304_234_2267_1814/master/2267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69f5289efa016d9b64620cc8c9b1cecb
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Victoria’s highest court has been urged to dismiss Erin Patterson’s appeal against her triple murder conviction, hearing that the case against her during trial was “overwhelming”.

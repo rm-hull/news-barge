@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: West Yorkshire Deputy Mayor Alison Lowe reflects on being sworn into
   the House of Lords as Baroness Lowe of Armley and her commitment to the region.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21401703.jpg?type=og-image&xType=0&yType=305
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 West Yorkshire's Deputy Mayor for Policing and Crime Alison Lowe has been sworn into the House of Lords as Baroness Lowe of Armley.

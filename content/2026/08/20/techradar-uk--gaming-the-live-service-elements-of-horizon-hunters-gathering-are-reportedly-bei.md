@@ -10,6 +10,9 @@ published: '2026-08-20T00:00:00Z'
 description: Guerilla Games is reportedly overhauling Horizon Hunters Gathering and
   stripping out the game's live-service elements following negative feedback.
 image: https://cdn.mos.cms.futurecdn.net/vNkfqVpubvAL8AVyzaN5Eo-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Horizon Hunters Gathering trailer screenshot showing several unique hunters](https://cdn.mos.cms.futurecdn.net/vNkfqVpubvAL8AVyzaN5Eo.jpg) 

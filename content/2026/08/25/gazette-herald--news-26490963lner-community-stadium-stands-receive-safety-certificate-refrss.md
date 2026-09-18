@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A safety certificate has been issued for regulated stands at York City
   FC's LNER Community Stadium.
 image: https://www.gazetteherald.co.uk/resources/images/12993708.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

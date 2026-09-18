@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: The 14-day temporary restraining order was issued on Thursday by U.S.
   District Judge Indira Talwani in Boston
 image: https://static.independent.co.uk/2026/08/28/11/2026-08-26T153017Z_1637690082_RC2LCLA1MPI4_RTRMADP_3_USA-TRUMP-ELECTION-LAWSUIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has temporarily halted key elements of a new U.S. Postal Service policy directed by President Donald Trump that would restrict mail-in voting ahead of the November congressional elections.

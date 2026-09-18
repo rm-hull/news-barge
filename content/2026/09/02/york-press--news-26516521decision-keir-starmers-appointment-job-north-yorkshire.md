@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: THE Government has made a decision on whether to appoint Keir Starmer
   to a job in North Yorkshire following his resignation from the House of…
 image: https://www.yorkpress.co.uk/resources/images/19969256.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Decision on Keir Starmer’s appointment to job in North Yorkshire

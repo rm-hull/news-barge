@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:22Z'
 published: '2026-09-14T00:00:00Z'
 description: What F1 can teach businesses about using real time data and AI
 image: https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Education & Learning
 ---
 
 ![A representative abstraction of artificial intelligence](https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj.jpg) 

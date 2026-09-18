@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The game developer says the unauthorised footage has caused "heartbreak"
   for those working on the title.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91e8/live/3c295e10-a147-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Artwork from GTA 6 shows protagonists Jason and Lucia standing in front of a Miami-inspired skyline at sunset. The pair embrace while looking suspiciously at something or someone out of shot. Lucia rests one hand, holding a pistol, on Jason's chest.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/91e8/live/3c295e10-a147-11f1-aed2-8d6da8d75094.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Result tees up marquee race in US midterm elections, which could decide
   if Republicans or Democrats control Senate
 image: https://i.guim.co.uk/img/media/f52e319e756b2d43e6ab8449bb2d83daa1b4c264/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e07f73eaeb835924691f691ddd2bea44
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Incumbent Dan S Sullivan, the US senator, advanced in Alaska’s nonpartisan primary race for his seat on Tuesday alongside Mary Peltola, a former Democratic congresswoman.

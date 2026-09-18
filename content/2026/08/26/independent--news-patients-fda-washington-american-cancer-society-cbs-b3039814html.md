@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: U.S. health officials have approved a groundbreaking pancreatic cancer
   drug that offers a new approach to treating the deadly form of cancer
 image: null
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The Food and Drug Administration on Wednesday approved a groundbreaking new drug for the most common form of pancreatic cancer, offering U.S. patients a more effective treatment against one of the deadliest types of cancer.

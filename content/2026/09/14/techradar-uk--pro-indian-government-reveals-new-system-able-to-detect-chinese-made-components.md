@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: Indian Army now scans military drones for suspicious Chinese chips, secret
   commands and software capable of remote interference
 image: https://cdn.mos.cms.futurecdn.net/3ewuqcFbsne3PUdVKc8nGZ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![AASHVAST](https://cdn.mos.cms.futurecdn.net/3ewuqcFbsne3PUdVKc8nGZ.jpg) 

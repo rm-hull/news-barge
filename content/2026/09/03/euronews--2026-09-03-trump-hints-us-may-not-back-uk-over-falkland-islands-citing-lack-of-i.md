@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The US recognises Britain's administration of the Falkland Islands but
   remains neutral over the competing sovereignty claims.
 image: https://images.euronews.com/articles/stories/09/90/07/38/1200x675_cmsv2_bd5f50e3-a936-5b8c-a08c-c08e6b8be85b-9900738.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 ## The US recognises Britain's administration of the Falkland Islands but remains neutral over the competing sovereignty claims.

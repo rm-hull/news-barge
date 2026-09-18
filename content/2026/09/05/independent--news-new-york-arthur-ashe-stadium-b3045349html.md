@@ -10,6 +10,11 @@ description: The Williams sisters returned to the U.S. Open doubles court, thril
   final points. Venus and Serena Williams fell to Hao-Ching Chan and Maya Joint in
   a dramatic tiebreaker.
 image: https://static.independent.co.uk/2026/09/05/21/APTOPIX_US_Open_Tennis_97133.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Sports
 ---
 
 Venus and Serena Williams put on a show in thrilling U.S. Open return, in photos

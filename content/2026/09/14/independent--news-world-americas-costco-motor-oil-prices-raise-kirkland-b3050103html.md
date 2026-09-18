@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: The price of a barrel of Brent crude rose past $109 on Monday morning
   as active fighting across the Middle East continues
 image: https://static.independent.co.uk/2026/09/02/22/36/GettyImages-169815537.jpeg?trim=0,163,0,163&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Costco has increased the retail price of motor oil sold under its store brand while also restricting how much customers can purchase weekly as global oil prices continue to rise once again.

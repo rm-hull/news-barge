@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Police remain at a block of flats in Bradford this morning after a cordon
   was put in place and forensic officers were there.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21417822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: T&A)*

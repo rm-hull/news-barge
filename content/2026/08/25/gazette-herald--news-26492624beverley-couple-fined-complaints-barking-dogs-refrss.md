@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A couple has been fined following repeated complaints about excessive
   noise from their barking dogs in Beverley.
 image: https://www.gazetteherald.co.uk/resources/images/20343321.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
 ---
 
 *(Image: East Riding of Yorkshire Council)*

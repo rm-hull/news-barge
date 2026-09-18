@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: A former editor of Breitbart News, Yiannopoulos has also served as an
   intern for Marjorie Taylor Greene
 image: https://i.guim.co.uk/img/media/fd4f1b840dd01b597ddcd90c5994515f1cf0d76b/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=651b5f3b6c733879a11ba88984567883
+categories:
+- UK
+- News & Politics
 ---
 
 Milo Yiannopoulos, a far-right British political commentator, was detained by Immigration and Customs Enforcement in Louisiana, according to the Department of Homeland Security (DHS).

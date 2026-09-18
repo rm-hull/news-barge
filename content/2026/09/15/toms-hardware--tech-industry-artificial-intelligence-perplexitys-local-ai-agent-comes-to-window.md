@@ -9,6 +9,9 @@ scraped_at: '2026-09-15T11:27:07Z'
 published: '2026-09-15T00:00:00Z'
 description: Portable Computer arrives on Windows RTX PCs
 image: https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Perplexity and Nvidia logos side by side on a dark background from Nvidia's Local AI blog](https://cdn.mos.cms.futurecdn.net/dLGwLXUfK8ScQhSoYrADJR.jpg) 

@@ -11,6 +11,9 @@ description: The Real Housewives of London season 2 has officially started strea
   on Hayu — and our cast is just as 'surprised' by the changes in friendship dynamics
   as you'll be.
 image: https://cdn.mos.cms.futurecdn.net/CvVnr8iH9xLtBR6w3nyPu3-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The cast of The Real Housewives of London season 2](https://cdn.mos.cms.futurecdn.net/CvVnr8iH9xLtBR6w3nyPu3.jpg) 

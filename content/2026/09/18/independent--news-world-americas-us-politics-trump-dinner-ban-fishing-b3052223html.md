@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Trump has boasted about his new helipad constructed right in the backyard
   of the White House during the event
 image: https://static.independent.co.uk/2026/09/18/1/19/GettyImages-2295823854.jpg?trim=0,6,0,5&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump told guests at a Rose Garden dinner for outdoor enthusiasts and industry executives that he is so powerful as president that he could ban them from fishing.

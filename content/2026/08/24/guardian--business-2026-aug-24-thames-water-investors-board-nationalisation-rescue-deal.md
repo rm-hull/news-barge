@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation
   is a ‘cosy stitch-up’
 image: https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5190b4456aac8e1a19d01a103db3f92e
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The group of creditors pursuing a rescue bid for Thames Water have been accused of shuffling the deckchairs on the Titanic after proposing an overhaul of the stricken utility’s board.

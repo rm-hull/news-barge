@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Care must be taken that a key council support service’s “physical presence”
   is not lost to North Halifax communities if it is brought in-house.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJlOGEyYzNjLTQ0ZTktNDIzNy04ZWVhLTQ3YzhjZGZiYWQzODo5YTI4N2U5ZS1jYzg5LTQ3MDQtYTBjZC0wZDcyMzQ5NGFjNTE=.jpg?crop=3:2,smart&trim=&width=655&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # North Halifax neighbourhood support, and cash, reconfiguration on cards

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The manager of a pub is "absolutely delighted" after it was named best
   in the area.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21455286.jpg?type=og-image&xType=0&yType=147
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 THE manager of a pub is "absolutely delighted" after it was named best in the area.

@@ -9,6 +9,9 @@ description: Costa Rica's Rebeca Grynspan was the front-runner after last month'
   first informal vote, in which the council's 15 members, including the five with
   veto power, pass judgment in secret on the candidates.
 image: https://images.euronews.com/articles/stories/09/88/30/54/1200x675_cmsv2_890d2a8e-f640-5a0a-a5b4-516f487180df-9883054.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Costa Rica's Rebeca Grynspan was the front-runner after last month's first informal vote, in which the council's 15 members, including the five with veto power, pass judgment in secret on the candidates.

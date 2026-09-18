@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: 'The Gallagher brothers bring rock star energy to the Venice Film Festival
   with their documentary “Oasis: Don’t Look Back in Anger.”'
 image: https://static.independent.co.uk/2026/09/05/14/Italy_Venice_Film_Festival_Oasis__Don%27t_Look_Back_In_Anger_Arrivals_54752.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Music
+- Arts & Culture
 ---
 
 The Gallagher brothers brought some rock star energy to a sleepy, and sweaty, Venice Film Festival Saturday, where the documentary about their reunion tour is making its world premiere. And like true rock stars, after giving a few waves for photographers on the Lido docks, they skipped the whole “news conference” bit.

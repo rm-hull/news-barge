@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Findings suggest that organ‑preserving treatment may be an option for
   those with early rectal cancer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22d4/live/991dab00-9baa-11f1-92e6-b1dfcecd4308.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![A group of doctors wearing green scrubs preparing to operate on a patient](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/22d4/live/991dab00-9baa-11f1-92e6-b1dfcecd4308.jpg)

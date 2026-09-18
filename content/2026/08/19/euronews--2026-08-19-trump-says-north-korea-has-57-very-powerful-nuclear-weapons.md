@@ -9,6 +9,9 @@ description: Trump's comments come just days after he announced that he had orde
   US forces to scale back joint military drills with South Korea, which he said sent
   an "inappropriate and hostile" signal to Pyongyang.
 image: https://images.euronews.com/articles/stories/09/88/10/98/1200x675_cmsv2_49abc9b3-7bb4-57ca-a26f-726d51d93c5a-9881098.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump's comments come just days after he announced that he had ordered US forces to scale back joint military drills with South Korea, which he said sent an "inappropriate and hostile" signal to Pyongyang.

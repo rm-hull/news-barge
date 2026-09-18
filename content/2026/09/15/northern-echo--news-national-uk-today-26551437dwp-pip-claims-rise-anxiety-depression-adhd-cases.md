@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The number of people relying on disability benefits has reached a record
   high, with mental health conditions accounting for the biggest share of…
 image: https://www.thenorthernecho.co.uk/resources/images/21457198.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Joe Giddens)*

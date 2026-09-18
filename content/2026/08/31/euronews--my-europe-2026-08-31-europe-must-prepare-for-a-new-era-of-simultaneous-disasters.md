@@ -10,6 +10,10 @@ description: 'The European Commission wants to shift the focus from responding t
   But financing climate adaptation remains a major challenge, as EU countries face
   limited fiscal room to act. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/54/63/1200x675_cmsv2_f30aa495-288c-5bb6-bc7e-00f49582799a-9895463.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## The European Commission wants to shift the focus from responding to disasters to preventing them, strengthening preparedness and improving anticipation. But financing climate adaptation remains a major challenge, as EU countries face limited fiscal room to act.

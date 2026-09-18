@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T13:08:17Z'
 published: '2026-08-24T00:00:00Z'
 description: Back by popular demand Pannal Cricket Gala will be on Sun 30 August 2026
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/pannel-gala.webp
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 Back by popular demand Pannal Cricket Gala will be on Sun 30 August 2026

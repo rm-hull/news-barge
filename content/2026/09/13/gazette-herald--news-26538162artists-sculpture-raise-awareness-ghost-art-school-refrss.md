@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: '''Flora'' is the creation of artist Rory Macbeth, and has been displayed
   in Davygate recently, with many passersby mistaking her for a…'
 image: https://www.gazetteherald.co.uk/resources/images/21440518.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A LIFELIKE sculpture of "a living statue" has been surprising shoppers in York city centre whilst raising funds and awareness for an experimental art school.

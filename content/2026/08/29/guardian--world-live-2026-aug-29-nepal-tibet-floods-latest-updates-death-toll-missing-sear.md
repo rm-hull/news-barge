@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Rescue workers and military personnel have been working around the clock
   since Wednesday’s disaster
 image: https://i.guim.co.uk/img/media/5b6ee4a80de794c439ef2e933399a6f0e17f96e9/1172_0_5841_4675/master/5841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4c25072fd1ad56c1f25206e7b26bdaef
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 With the death toll rising to well over 600, Indian school children hold placards as they offer special prayers for the victims of flash floods in Nepal and Tibet. Photograph: Channi Anand/AP

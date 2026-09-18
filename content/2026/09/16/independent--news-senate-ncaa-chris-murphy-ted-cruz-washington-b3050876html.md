@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Legislation to broadly regulate college sports has cleared a first major
   hurdle in the Senate
 image: https://static.independent.co.uk/2026/09/16/01/Congress_College_Sports_Acts_5269_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A bill that proposes to fix some of the biggest problems in college sports — spiraling spending, constant lawsuits and a transfer portal run amok — cleared a major hurdle Tuesday when the Senate voted 74-24 to halt debate and move the measure one step closer to a final up-or-down vote.

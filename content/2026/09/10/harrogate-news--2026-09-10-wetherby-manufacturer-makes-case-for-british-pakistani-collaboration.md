@@ -157,6 +157,10 @@ description: 'Yorkshire Manufacturer Makes Case For British/ Pakistani Collabora
   to develop skills, support innovation and create opportunities for greater industry
   collaboration.'
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/weth-trade.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 Talks at Wetherby based Arville focused on knowledge sharing between two textile industries with different strengths, and on collaboration rather than competition

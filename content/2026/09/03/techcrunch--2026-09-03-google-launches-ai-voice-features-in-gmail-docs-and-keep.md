@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Users can search for emails or draft documents using the new conversational
   feature.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google is launching conversational AI features within Docs, Gmail, and Keep that let users ask questions about their inboxes and documents as well as do tasks using natural-language queries and dictation.

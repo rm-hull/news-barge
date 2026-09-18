@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Her demands for information about what happened to Tasia Fortune have
   been echoed by shocked locals.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17c/live/ff226520-ac63-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A selfie taken by Christy Spivey of her and her daughter Tasia Fortune](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/357f/live/8cad6670-ac63-11f1-be57-03729df1d736.jpg)

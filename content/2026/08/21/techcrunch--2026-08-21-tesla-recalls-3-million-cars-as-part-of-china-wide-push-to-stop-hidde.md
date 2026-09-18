@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Tesla and eight other automakers will install warning labels that help
   occupants identify the often hard-to-find manual door releases.
 image: https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Automotive
 ---
 
 Tesla is recalling just shy of 3 million vehicles in China as part of a nationwide effort to alert vehicle owners to hidden emergency door releases, which can trap occupants in the event of a crash or a fire.

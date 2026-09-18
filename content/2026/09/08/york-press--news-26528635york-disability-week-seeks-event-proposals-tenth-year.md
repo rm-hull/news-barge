@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: York Disability Week organisers are calling for event proposals to mark
   its tenth year.
 image: https://www.yorkpress.co.uk/resources/images/21420743.jpg?type=og-image&xType=0&yType=5
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

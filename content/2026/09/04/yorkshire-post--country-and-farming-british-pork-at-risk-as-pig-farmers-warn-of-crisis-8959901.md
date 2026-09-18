@@ -9,6 +9,11 @@ description: The National Pig Association (NPA) has sounded a warning bell over 
   “precarious situation” of the sector which represents the largest contributor to
   Yorkshire’s agricultural output.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlMWQ5OGEzLWYxNjEtNDlmMi1hOWRjLTNmZmJjMGRjMjk5MTo5ZWRkYzBhOS1jZmE4LTRlMGYtYWNhNS1jZWQ2ZDJlZjM1YzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # British pork at risk as pig farmers warn of crisis

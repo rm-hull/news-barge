@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: A significant number of Android Auto users are seeing problems with the
   speedometer and traffic data on Google Maps.
 image: https://cdn.mos.cms.futurecdn.net/eyVveQSz5LHDtiPb8TBFmB-2000-80.jpg
+categories:
+- Technology & Software
+- Automotive
 ---
 
 ![Android Auto on a car infotainment system display](https://cdn.mos.cms.futurecdn.net/eyVveQSz5LHDtiPb8TBFmB.jpg) 

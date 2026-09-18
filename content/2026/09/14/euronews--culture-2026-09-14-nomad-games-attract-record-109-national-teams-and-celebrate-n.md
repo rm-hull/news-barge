@@ -10,6 +10,10 @@ description: '6th World Nomad Games were held in the Kyrgyz Republic. 109 teams 
   events and an ethno-village completed the programme of the games aimed at preserving
   and promoting nomadic culture, tradition & history worldwide. #Cult'
 image: https://images.euronews.com/articles/stories/09/90/88/46/1200x675_cmsv2_61f33c9f-d137-5f93-89cc-975becfeb261-9908846.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## 6th World Nomad Games were held in the Kyrgyz Republic. 109 teams from all continents took part. They competed in 42 disciplines. Scientific and cultural events and an ethno-village completed the programme of the games aimed at preserving and promoting nomadic culture, tradition & history worldwide.

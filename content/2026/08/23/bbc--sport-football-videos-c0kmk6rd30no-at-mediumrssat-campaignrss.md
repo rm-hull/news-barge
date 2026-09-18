@@ -10,6 +10,10 @@ description: Following their huge win against Manchester United, Hull City assis
   head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match
   of the Day studio.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0abe/live/0a7fe200-9f4c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # 'A win at home in the first game was beyond anyone's dreams' - Holden on MOTD

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Spanish fast fashion giant Inditex said its autumn/winter collections
   had also so far been ‘very well received’ by shoppers, with sales up 9%.
 image: https://static.independent.co.uk/2026/09/09/08/09075641-b7e97ea9-5cd2-4412-9778-b78623dc9012.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Zara owner Inditex has revealed a jump in first-half profits and a strong start to its third quarter despite searing heatwaves across many of its markets.

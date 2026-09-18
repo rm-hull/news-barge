@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The 14-year-old had given birth to her father’s child on a roadside in
   Monterey County and then left the newborn there, according to authorities
 image: https://static.the-independent.com/2026/09/01/20/09/790547265_1558342609666949_9008315217328976810_n.jpeg?trim=340,0,559,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 California police are on the hunt for a 14-year-old girl and her father after a newborn baby was found dead on a rural road in Monterey County.

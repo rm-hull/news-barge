@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: At least 760,000 children in England and Wales missed lessons as more
   than 1,700 schools closed or finished early
 image: https://i.guim.co.uk/img/media/f5ed7a8b62644afc34f2c9e8411660c1fd28c3aa/873_0_6069_4856/master/6069.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aed92354774dba759b12244a3122fd4c
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 The gruelling heatwave that hit the UK in June caused pupils to miss more than 15m hours of lesson time as soaring temperatures forced hundreds of schools to close, according to a study.

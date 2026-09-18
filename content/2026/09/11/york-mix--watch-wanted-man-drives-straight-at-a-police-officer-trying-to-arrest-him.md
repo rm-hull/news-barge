@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:48:42Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/harrison-douglas-long-drives-at-a-police-officer-scarborough-yt-nyp.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 A wanted man who drove at a police officer in Scarborough has been jailed for 14 months.

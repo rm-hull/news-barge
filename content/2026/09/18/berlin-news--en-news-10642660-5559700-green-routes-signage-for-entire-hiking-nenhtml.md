@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: The most beautiful walking routes are sometimes right on your doorstep.
   Yet many people are unaware of them. That is now set to change in the capital.
 image: https://www.berlin.de/binaries/asset/image_assets/10642654/ratio_4_3/1789734051/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 © dpa

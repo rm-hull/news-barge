@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: 'Exclusive: Prime minister wants to ‘bring back hope’ by tackling cost
   of living as MPs call for electoral reform'
 image: https://i.guim.co.uk/img/media/effe6ce89e6c3e3b06fc6116276ed6f5938147e5/669_322_3840_3071/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=774e6565b638e9f8eebacfe5ba5324f3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Andy Burnham will drive home his pledge to bring more essential services back into public control, telling MPs in the Commons on Tuesday that it will be the only way to improve growth across the country.

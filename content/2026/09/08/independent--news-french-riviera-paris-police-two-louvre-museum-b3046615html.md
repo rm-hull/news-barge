@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Thieves have stolen four valuable Renoir paintings from a museum on the
   French Riviera
 image: https://static.independent.co.uk/2026/09/08/14/France_Renoir_Heist__6753.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Thieves stole four valuable Renoir paintings on Tuesday from a small museum on the French Riviera, but abandoned two of them as they fled, the local mayor said. Police are searching for the perpetrators.

@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Communities across North Yorkshire have been awarded funding to help
   them celebrate the arrival of the Lloyds Tour of Britain in the county.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/Tour%20of%20Britain%202025%20image%20one%20%28Pic%20credit%20-%20swpix.com%29.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- History
 ---
 
 ![Riders in the women’s race of the Tour of Britain are pictured passing through the North Yorks Moors during last year’s event. (Pic credit: swpix.com)](https://www.northyorks.gov.uk/sites/default/files/2026-08/Tour%20of%20Britain%202025%20image%20one%20%28Pic%20credit%20-%20swpix.com%29.jpg) 

@@ -12,6 +12,10 @@ description: Seven years ago, he altered a hurricane map with a Sharpie marker a
   Pentagon had to say it never happened. The impact on public trust could be devastating,
   writes Andrew Feinberg
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/09/09/21/gettyimages-1172289651-1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The footage is convincing. Shot as though from the open door of a military helicopter, it shows oil storage tanks and refinery infrastructure erupting in sequence, smoke stacking into a night sky — the camera juddering the way real gun-camera video shakes.

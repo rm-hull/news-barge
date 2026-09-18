@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: World champions South Africa deliver a powerful first-half performance
   as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Siya Kolisi celebrating](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg)

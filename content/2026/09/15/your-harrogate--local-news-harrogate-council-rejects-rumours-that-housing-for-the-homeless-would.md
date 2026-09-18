@@ -10,6 +10,11 @@ description: North Yorkshire Council has rejected claims circulating on social m
   that more than 100 homes being acquired under a council housing programme are intended
   for asylum seekers.
 image: https://mmo.aiircdn.com/409/664b1ad638155.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/664b1ad638155.jpg) 

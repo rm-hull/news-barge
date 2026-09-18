@@ -9,6 +9,10 @@ description: Russia’s Foreign Ministry has summoned the Japanese ambassador to
   Tokyo’s criticism of President Vladimir Putin’s trip to Kuril Islands, the Moscow-controlled
   Pacific archipelago that is claimed by both countries
 image: https://static.independent.co.uk/2026/08/18/12/Russia_Japan_86711.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Russia's Foreign Ministry on Tuesday summoned the Japanese ambassador to protest Tokyo's condemnation of President Vladimir Putin's trip to Kuril Islands, the Moscow-controlled Pacific archipelago that is claimed by both countries.

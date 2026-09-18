@@ -10,6 +10,11 @@ description: The Trump administration has designated 21 Latin American and Carib
   criminal groups as “foreign terrorist organizations,” with the latest an Ecuadorian
   group added to the list on Wednesday
 image: https://static.independent.co.uk/2026/09/10/21/Terrorist_Group_Designations_Things_to_Know_57949.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The Trump administration has designated 21 Latin American and Caribbean criminal groups as “foreign terrorist organizations,” with the latest an Ecuadorian group added to the list on Wednesday.

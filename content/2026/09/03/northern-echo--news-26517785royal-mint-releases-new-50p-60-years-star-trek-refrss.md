@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Royal Mint is marking 60 years of Star Trek with two new collectable
   50p coins, featuring designs from across the Star Trek universe
 image: https://www.thenorthernecho.co.uk/resources/images/21031283.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images/iStockphoto)*

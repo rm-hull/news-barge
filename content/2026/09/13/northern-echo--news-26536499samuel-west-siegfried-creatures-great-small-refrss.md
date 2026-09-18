@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: Samuel West has explained the emotional reason behind a moving Siegfried
   and James scene in Channel 5’s All Creatures Great and Small.
 image: https://www.thenorthernecho.co.uk/resources/images/21431892.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: CHANNEL 5)*

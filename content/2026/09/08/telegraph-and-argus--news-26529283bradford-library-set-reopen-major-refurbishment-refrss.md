@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:51:29Z'
 published: '2026-09-08T00:00:00Z'
 description: A community library is reopening its doors following essential refurbishment.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421657.jpg?type=og-image&xType=0&yType=472
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

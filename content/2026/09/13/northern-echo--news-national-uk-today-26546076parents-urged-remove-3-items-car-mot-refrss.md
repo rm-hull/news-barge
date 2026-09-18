@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: A number of items left in a car by parents could see a vehicle potentially
   fail its MOT
 image: https://www.thenorthernecho.co.uk/resources/images/21447504.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Self-Improvement
 ---
 
 *(Image: Getty Images)*

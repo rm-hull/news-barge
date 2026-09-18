@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A NEW community choir is launching to bring people together through the
   power of song.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21396894.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

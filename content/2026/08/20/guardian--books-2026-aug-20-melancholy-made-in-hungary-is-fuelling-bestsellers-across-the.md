@@ -10,6 +10,11 @@ description: A ‘capacity for despair’ forged by political oppression has lon
   consider a Magyar national trait. But after Orbán, writers in the country remind
   us that melancholy must not always be bleak
 image: https://i.guim.co.uk/img/media/2243be4c91f512ff8bb340c315b27e53c30659b6/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92b45dd1fc0bc6a2e9a4d5931de1c3f8
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 A lone visitor looks for a garden outside an empty monastery. A morose housekeeper won’t let anyone behind the door of her own home. A retired general living alone on a crumbling estate waits 40 years to confront the only friend he ever had. Melancholy, an affinity with oblivion without a concrete cause, suffuses the Hungarian fiction translated for foreign audiences over the past 30 years, from the tortured tales of Sándor Márai to the taut novels of Magda Szabó.

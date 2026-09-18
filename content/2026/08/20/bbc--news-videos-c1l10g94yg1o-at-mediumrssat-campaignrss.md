@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The men, aged 53 and 32, lost contact with their fishing cooperative
   on 14 August, 75 miles off the coast of Mexico.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c19/live/afd9c7b0-9ccd-11f1-89bd-5bf7cf30291a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Watch: Fishermen rescued after five days adrift in cool box

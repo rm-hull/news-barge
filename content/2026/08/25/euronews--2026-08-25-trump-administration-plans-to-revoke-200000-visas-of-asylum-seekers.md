@@ -9,6 +9,11 @@ description: The move is the latest in the Trump administration's crackdown on i
   If it happens, the move would mark the largest single mass revocation of visas in
   US history.
 image: https://images.euronews.com/articles/stories/09/88/72/11/1200x675_cmsv2_32593a49-3ac9-5b99-a14a-27a14000f4e6-9887211.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 ## The move is the latest in the Trump administration's crackdown on immigration. If it happens, the move would mark the largest single mass revocation of visas in US history.

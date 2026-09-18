@@ -8,6 +8,8 @@ published: '2026-08-18T00:00:00Z'
 description: A new administrative charge shows the lengths Russian authorities will
   go to punish citizens for bypassing internet censorship
 image: https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Shape of Russia filled with Russian flag-colored internet codes on a black hacking background](https://cdn.mos.cms.futurecdn.net/MXqmsVRQzx9hefCvT8TupP.jpg) 

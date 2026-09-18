@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Yellowstone to Yukon Conservation Initiative is an organization helping
   wildlife cross roads in the Rocky Mountains
 image: https://static.independent.co.uk/2026/09/18/11/Britain_Earthshot_93329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 How does a grizzly bear cross the road? With the help of Indigenous people, ranchers and governments.

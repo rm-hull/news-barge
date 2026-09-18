@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Plans to house people seeking asylum at a former North Yorkshire military
   base are set to be opposed by a Reform-led council about 50 miles away
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhmNWFiYjhjLWQ1MmMtNGJiMi05Yzg4LWQ2OTA1ZDcyMzhiNDo2YTA3MGI5YS0yMmU2LTQ0NjktOWY1MC03YWFjYzYzMmVmN2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Linton-on-Ouse: Reform-led council to debate Linton-on-Ouse asylum plans

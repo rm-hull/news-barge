@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:17:37Z'
 published: '2026-09-03T00:00:00Z'
 description: Karen Joseph, 62, died in hospital after the incident on August 24
 image: https://static.independent.co.uk/2025/10/12/10/44649f503b9bb24c01444c13f23ebeceY29udGVudHNlYXJjaGFwaSwxNzYwMzQ3NzQz-2.37991383.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A woman who was critically injured in a crash during a police pursuit has died, the Independent Office for Police Conduct (IOPC) said.

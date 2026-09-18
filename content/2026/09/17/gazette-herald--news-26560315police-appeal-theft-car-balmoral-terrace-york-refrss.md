@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Police issue a CCTV appeal after items were stolen from a car on Balmoral
   Terrace, York, on August 14, 2026.
 image: https://www.gazetteherald.co.uk/resources/images/21470079.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

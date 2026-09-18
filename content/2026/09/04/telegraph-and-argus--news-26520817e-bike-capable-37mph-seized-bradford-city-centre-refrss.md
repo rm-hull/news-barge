@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A rider has been reported for driving offences after police seized an
   e-bike capable of reaching 37mph.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408971.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 A rider has been reported for driving offences after police seized an e-bike capable of reaching 37mph in Bradford city centre.

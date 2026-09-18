@@ -8,6 +8,8 @@ published: '2026-08-24T00:00:00Z'
 description: The TP-Link Roam 7 BE3600 turns public Wi-Fi into your own network for
   up to 90 devices, and it really impressed us during our real-world performance tests.
 image: https://cdn.mos.cms.futurecdn.net/5UFdwbXbApMydf8nfH8kyF-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![TP-Link Roam 7](https://cdn.mos.cms.futurecdn.net/5UFdwbXbApMydf8nfH8kyF.jpg) 

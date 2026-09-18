@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Premier League is back for a new campaign as Arsenal defend their
   crown
 image: https://cdn.mos.cms.futurecdn.net/u9w89gxtUr5DCtjcj4Cux4-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Martin Odegaard of Arsenal lifts the Premier League trophy during the Premier League match between Crystal Palace and Arsenal at Selhurst Park on May 24, 2026 in London, England](https://cdn.mos.cms.futurecdn.net/u9w89gxtUr5DCtjcj4Cux4.jpg) 

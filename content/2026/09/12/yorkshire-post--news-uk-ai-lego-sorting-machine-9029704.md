@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: WeBuyBricks has unveiled the UK’s first AI-powered machine capable of
   sorting mixed LEGO bricks into sets.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/12/2026_09_11_11_53_38_264_ASH_B183BE33D2C740219FA36163D9B76C57.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # Watch UK’s first AI-powered LEGO sorting machine - capable of handling 40,000 pieces a day - in action

@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Last month proposals were submitted by a developer to sub-divide a former
   Barclays Bank town centre branch into four commercial units.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356387.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

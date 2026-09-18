@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Five other airport workers are also receiving treatment following the
   rare outbreak at German's busiest airport.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A view of a taxiing area at Frankfurt Airport. A Lufthansa plane sits on the tarmac.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/33b1/live/35fbfab0-a139-11f1-9311-09d4e1fc9016.jpg)

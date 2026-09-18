@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Germany's federal prosecutor's office has filed charges against a German-Ukrainian
   woman suspected of working for Russian intelligence
 image: https://static.independent.co.uk/2026/09/14/11/Germany-Russia-Spying_Allegations_81994.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Germany's federal prosecutor's office said Monday it had filed charges against a German-Ukrainian woman suspected of acting on behalf of Russian intelligence.

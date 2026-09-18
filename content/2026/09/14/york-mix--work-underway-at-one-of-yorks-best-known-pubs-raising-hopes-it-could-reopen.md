@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:17:57Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-arms-high-petergate-inside-sept-2026.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 There are hopes that one of York’s best-known pubs could soon reopen.

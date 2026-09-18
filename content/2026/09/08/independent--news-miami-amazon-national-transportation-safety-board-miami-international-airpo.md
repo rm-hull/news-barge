@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Investigators are working to figure out what happened in the crash of
   an Amazon cargo jet in Miami that killed five people on the ground
 image: https://static.independent.co.uk/2026/09/08/22/APTOPIX_Amazon_Plane_Overruns_Runway_69461.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Investigators are still trying to determine what caused an Amazon cargo jet to overshoot a runway in Miami and plow into two vehicles, killing five people on the ground.

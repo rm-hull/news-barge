@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: World-famous shock rocker Alice Cooper was spotted browsing Scarborough
   Market Hall and chatting with fans just hours before a sold-out Hollywood…
 image: https://www.thenorthernecho.co.uk/resources/images/21339431.jpg?type=og-image&xType=0&yType=290
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 A world-famous rockstar was spotted in a North Yorkshire market recently, browsing stalls and chatting with fans just hours before a sell-out show.

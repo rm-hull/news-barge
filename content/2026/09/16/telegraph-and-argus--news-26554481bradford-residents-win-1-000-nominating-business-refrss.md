@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: A national competition is giving people the chance to win £1,000 simply
   by nominating their favourite business
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

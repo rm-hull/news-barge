@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T22:34:05Z'
 published: '2026-09-01T00:00:00Z'
 description: Democrats across the U.S. are showing a strong desire for change
 image: https://static.independent.co.uk/2026/09/01/21/Election_2_26_Massachusetts_Senate_14833.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 As Democrats across the U.S. signal an increasing appetite for change, U.S. Rep. Seth Moulton is hoping that momentum will help him oust longtime Massachusetts U.S. Sen. Ed Markey in Tuesday’s primary.

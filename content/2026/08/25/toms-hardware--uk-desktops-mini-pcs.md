@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Mini PC reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/AvgL7izoWtiF7TwE5q246i-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 Tom's Hardware is an industry leader in mini PC testing, reviews, and analysis. Here you can find all the details about the latest mini PCs, including news and reviews covering the entire gamut of modern systems featuring processors from AMD, Intel, Qualcomm, and Apple.

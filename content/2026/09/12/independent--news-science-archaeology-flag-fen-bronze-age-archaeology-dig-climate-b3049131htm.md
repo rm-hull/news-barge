@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘If we don’t excavate it in the next couple of years it will be gone
   forever so we will lose all of that information’
 image: https://static.independent.co.uk/2025/11/14/00/12150437-591931c1-ad01-492f-ad55-4d7d77cfa058.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Archaeologists will begin a new dig at one of Britain’s most important Bronze Age sites next year before information preserved in peat is lost as the ground dries out amid climate change.

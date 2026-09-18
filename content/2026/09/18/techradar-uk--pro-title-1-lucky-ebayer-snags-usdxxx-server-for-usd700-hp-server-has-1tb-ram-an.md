@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: 16 old Xeon, 1TB of DDR3, and a £500 price tag turn this HP server into
   an unusual find
 image: https://cdn.mos.cms.futurecdn.net/Pme4bDE3PmPbWAArkCGpTX-2057-80.png
+categories:
+- Technology & Software
 ---
 
 ![HP C7000 enclosure](https://cdn.mos.cms.futurecdn.net/Pme4bDE3PmPbWAArkCGpTX.png) 

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Penalties totalling £7 million have been issued to employers found not
   to be paying the legal minimum wage
 image: https://static.independent.co.uk/2026/05/26/08/4907a5bed36c9273b2e2e3e2af992675Y29udGVudHNlYXJjaGFwaSwxNzc5ODY1MzAy-2.35623527.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The government has publicly named hundreds of businesses after they failed to pay staff the National Minimum Wage.

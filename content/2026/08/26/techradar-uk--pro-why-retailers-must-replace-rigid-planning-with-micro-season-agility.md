@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: An unexpected heatwave exposes the costly limits of six-month retail
   planning cycles
 image: https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Three warehouse workers looking at a laptop. Digital symbols are superimposed on top of the scene](https://cdn.mos.cms.futurecdn.net/mR2722QpcTxgKEAa8Ne5sL.jpg) 

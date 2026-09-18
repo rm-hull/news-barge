@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: BUSINESSES from across Leeds North West gathered in Otley for the first-ever
   Business Brew networking event, launched by local MP Katie White to…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413049.jpg?type=og-image&xType=0&yType=382
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: submitted)*

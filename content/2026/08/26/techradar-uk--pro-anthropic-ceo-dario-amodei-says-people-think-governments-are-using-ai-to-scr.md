@@ -9,6 +9,10 @@ scraped_at: '2026-08-26T23:24:31Z'
 published: '2026-08-26T00:00:00Z'
 description: AI is having a 'crisis of trust' because it can't be trusted
 image: https://cdn.mos.cms.futurecdn.net/hHvRb3rM4ZJfcLfv9hb9NL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![An image depicting machine learning, AI, and connected robots behind binary code depicting technologies impact on job displacement, insecurity, and fear](https://cdn.mos.cms.futurecdn.net/hHvRb3rM4ZJfcLfv9hb9NL.jpg) 

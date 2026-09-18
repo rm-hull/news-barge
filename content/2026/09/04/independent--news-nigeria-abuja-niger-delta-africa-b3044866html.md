@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: An advocacy group reports that at least 37 people have died in Nigeria's
   Rivers state while trying to steal oil from a loading vessel
 image: https://static.independent.co.uk/2026/09/04/15/Nigeria_Oil_Theft_32958.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An attempt to steal oil from a loading vessel in Nigeria’s oil-producing Rivers state left at least 37 people dead, most of them from inhaling toxic fumes, an advocacy group said Friday.

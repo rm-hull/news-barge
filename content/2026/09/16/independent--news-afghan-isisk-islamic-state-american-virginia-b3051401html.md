@@ -11,6 +11,9 @@ description: An Islamic State group members has been sentenced to 20 years in pr
   killed 13 U.S. service members and about 160 Afghans at a Kabul airport five years
   ago
 image: https://static.independent.co.uk/2026/09/16/17/Afghanistan_Attack_Sentencing_58183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An Islamic State group member was sentenced Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 U.S. service members and about 160 Afghans at the Kabul airport five years ago during the American military’s chaotic withdrawal from the country.

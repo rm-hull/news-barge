@@ -10,6 +10,11 @@ description: Media freedom group Reporters Without Borders says that two French 
   and their Togolese fixer have been jailed in Togo after more than three weeks in
   custody
 image: https://static.independent.co.uk/2026/08/20/15/Togo_French_Filmmakers_26739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Society & Culture
 ---
 
 Two French documentary filmmakers and their Togolese fixer have been jailed in Togo after more than three weeks in custody in the West African nation, an advocacy group said Thursday, amid strained relations between the government and French media.

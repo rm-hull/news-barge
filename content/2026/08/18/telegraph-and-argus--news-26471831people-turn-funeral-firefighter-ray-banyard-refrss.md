@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Scores of people turned out for the funeral of a firefighter who served
   Bradford for decades.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21331796.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: T&A)*

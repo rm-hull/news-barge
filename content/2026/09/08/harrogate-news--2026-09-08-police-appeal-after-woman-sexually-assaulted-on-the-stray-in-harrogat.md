@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Police appeal for witnesses after a woman was sexually
   assaulted on The Stray in Harrogate by a male jogger on Sunday evening.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/02/North-Yorkshire-Police.webp
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 **North Yorkshire Police** have launched an urgent appeal for information following a sexual assault on**The Stray** in Harrogate over the weekend.

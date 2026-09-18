@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: A trespasser was reported at former Vice President Kamala Harris' Malibu,
   California, home
 image: https://static.independent.co.uk/2026/09/13/02/Kamala_Harris_Trespasser_35623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A trespasser was reported Friday night at former Vice President Kamala Harris’ home in Malibu, California, law enforcement officials and a Harris spokesperson said.

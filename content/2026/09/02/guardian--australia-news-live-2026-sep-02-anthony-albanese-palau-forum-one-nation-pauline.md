@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T04:21:33Z'
 published: '2026-09-02T00:00:00Z'
 description: Follow the day’s news live.
 image: https://i.guim.co.uk/img/media/883b018c745791f41f4dccb076a5f5d11ad7ed67/391_0_6530_5224/master/6530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6e93eb162a7f6c6b9c7b2b949f133f40
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 High fuel prices dragged on household spending in the three months to June, with Australians filling up their car less and putting off overseas travel as airlines pushed up their fares to compensate for more expensive jet fuel.

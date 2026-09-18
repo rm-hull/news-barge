@@ -9,6 +9,10 @@ description: The National Institute for Health and Care Excellence (Nice) announ
   that it has reversed an initial decision to reject the drug for widespread use for
   the NHS in England
 image: https://static.independent.co.uk/2026/09/17/7/52/iStock-1799926167.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Breast cancer patients have said they are "thrilled" after the health spending watchdog approved a life-extending drug for NHS use.

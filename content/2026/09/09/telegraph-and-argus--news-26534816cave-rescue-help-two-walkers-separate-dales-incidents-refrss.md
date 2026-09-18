@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A MAN collapsed at the top of Malham Cove earlier this week at the same
   time a woman was injured while walking near Thornton Force.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429326.jpg?type=og-image&xType=0&yType=206
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A MAN collapsed at the top of Malham Cove earlier this week at the same time a woman was injured while walking near Thornton Force.

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The president argued the conflict was minor compared to something like
   the Vietnam war and said the U.S. had ‘essentially taken over’ the country
 image: https://static.independent.co.uk/2026/09/04/20/2026-09-04T193216Z_1523549726_RC2JCNAF4UTJ_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 President Donald Trump has backed up comments from his vice president and insisted the Iran conflict is a relatively minor operation, rather than a full-on war.

@@ -9,6 +9,11 @@ description: Five people being prosecuted in separate federal cases in Miami and
   Wisconsin, have argued for the first time in court that the 1996 law used to charge
   them is unconstitutional
 image: https://static.independent.co.uk/2026/09/14/23/2294182310..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Law & Justice
 ---
 
 As President Donald Trump seeks to intensify his crackdown on what he characterizes as widespread illegal voting by noncitizens, several individuals charged with that crime are attempting a novel legal strategy to get their federal cases dropped entirely.

@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Under-35s will be given priority under the plans, while veterans and
   those in work will also be pushed up the waiting list
 image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe2-bb82-a82020391510.jpg?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Society & Culture
 ---
 
 A Reform UK government will prioritise married couples aged under-35 with children for social housing in new plans already branded “unserious and unworkable”.

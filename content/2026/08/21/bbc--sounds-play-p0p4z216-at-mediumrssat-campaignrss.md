@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:48:22Z'
 published: '2026-08-21T00:00:00Z'
 description: And, Sue Gray gives her first interview since leaving Downing Street.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ## Episode details

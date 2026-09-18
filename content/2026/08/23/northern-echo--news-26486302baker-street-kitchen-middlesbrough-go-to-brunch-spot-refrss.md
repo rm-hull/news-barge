@@ -8,6 +8,13 @@ published: '2026-08-23T00:00:00Z'
 description: From Full English breakfasts and pancake stacks to burgers, coffee and
   vegan options, Baker Street Kitchen has become a go-to brunch destination in…
 image: https://www.thenorthernecho.co.uk/resources/images/21356870.jpg?type=og-image&xType=0&yType=295
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
+- Travel
 ---
 
 Finding a restaurant where you'll struggle to choose between a traditional full English and a good stack of pancakes is no easy task - but this Teesside brunch spot has spent years doing exactly that.

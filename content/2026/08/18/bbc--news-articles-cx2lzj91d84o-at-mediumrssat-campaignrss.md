@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The newlyweds, named as Alexander Cromie and Marie Ebert, were killed
   alongside their Greek pilot.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a149/live/292bfd10-9b00-11f1-a27d-25dca26018ed.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Alexander Cromie and Marie Ebert stand arm in arm and smile. Alexander is wearing a tan suit and sunglasses. Marie is also wearing sunglasses and a floral dress.](https://ichef.bbci.co.uk/ace/standard/500/cpsprodpb/a149/live/292bfd10-9b00-11f1-a27d-25dca26018ed.jpg)

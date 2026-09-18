@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: ‘The woman is very lucky she had multiple blankets covering her when
   the bear swiped her,’ an official said of one incident
 image: https://static.independent.co.uk/2024/05/26/17/iStock-868922834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Bears in Colorado attacked a woman camping in her tent and a sleeping teenager in her bedroom over the weekend.

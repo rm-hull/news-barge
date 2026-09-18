@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Press readers debate whether York's planning decisions are fair - and
   whether people should pay more than a £1 tourist tax in today's…
 image: https://www.yorkpress.co.uk/resources/images/21419281.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: (Image Haydn Lewis))*

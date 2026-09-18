@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Jeffries said the legislation had so many loopholes that sanctions harming
   Russia might not be applied
 image: https://i.guim.co.uk/img/media/b608af4aa9b8a5d3f44c8c8b521c7023465562a9/0_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0111f02c29e15800e64d2104a8498de7
+categories:
+- UK
+- News & Politics
 ---
 
 House Democratic leader Hakeem Jeffries said the Russia sanctions bill had “so many loopholes” as Congress passed the sweeping bill to give Donald Trump the power to raise tariffs on top buyers of Russian energy.

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Police in Pennsylvania say a teenager is charged in the fatal stabbing
   of his girlfriend
 image: https://static.independent.co.uk/2026/09/04/03/Teen_Killing_Mother_Accomplice_72729.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Authorities released police bodycam footage Thursday showing the discovery of a Pennsylvania college student’s body that led to the arrest of her boyfriend, who said in court documents that a “demon” told him to stab her.

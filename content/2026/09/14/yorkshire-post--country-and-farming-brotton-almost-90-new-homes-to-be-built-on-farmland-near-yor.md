@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Almost 90 new homes will be built on Yorkshire farmland after councillors
   granted planning permission.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE1NmNiYzk5LTNmZjEtNGZjMy04MzMzLTM2YjhiN2E1ZWQwYjpjOWY5OGRmOS0zMzk1LTRiZjgtYmM4MC1jNTUwYjBjN2RlMjU=.png?crop=3:2,smart&trim=&width=771&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Brotton: Almost 90 new homes to be built on farmland near Yorkshire coastal village

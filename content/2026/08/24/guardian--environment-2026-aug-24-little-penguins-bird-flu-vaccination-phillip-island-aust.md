@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations
   in what is thought to be largest program of its kind
 image: https://i.guim.co.uk/img/media/32bd1ae57aa50a13e6abce52733ea9220b41d583/633_74_5614_4491/master/5614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfb941b1162b4aab334cad1b01611f5b
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 More than 1,000 little penguins have received their first dose of bird flu vaccine in Victoria, in what is believed to be the world’s largest vaccination program involving wild birds.

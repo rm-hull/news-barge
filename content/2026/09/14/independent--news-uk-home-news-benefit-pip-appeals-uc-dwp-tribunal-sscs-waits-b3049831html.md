@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: The caseload in the Social Security and Child Support tribunal rose by
   60 per cent in the year to June 2026
 image: https://static.independent.co.uk/2025/10/22/17/49/gavel-judge-court-tribunal-stock.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 Rising delays in the court system are forcing people to wait nearly nine months for a decision on their benefit appeals, new official data has revealed.

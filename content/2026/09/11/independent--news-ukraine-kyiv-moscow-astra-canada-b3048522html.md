@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Russian drones have targeted gas stations in Kyiv for the second day
   in a row
 image: https://static.independent.co.uk/2026/09/11/10/Russia_Ukraine_War_998_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian drones targeted roadside gas stations in Kyiv for a second straight day Friday, as Moscow broadened its air war in what Ukrainian officials say is an effort to rattle civilians.

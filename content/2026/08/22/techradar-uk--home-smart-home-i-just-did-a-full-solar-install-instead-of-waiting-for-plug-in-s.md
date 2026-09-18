@@ -10,6 +10,8 @@ published: '2026-08-22T00:00:00Z'
 description: I'm loving my solar panels, battery and gateway setup so far, although
   admittedly it's still early days.
 image: https://cdn.mos.cms.futurecdn.net/zpVEDf7AVhFNiCg6zsVcWn-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Solar Panels mounted on roof with streaks of rain visible, on a cloudy day](https://cdn.mos.cms.futurecdn.net/zpVEDf7AVhFNiCg6zsVcWn.jpg) 

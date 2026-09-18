@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: Vinehouse Café at Helmsley Walled Garden has tables inside four Victorian
   glasshouses, homemade food and more than 170 seats overlooking the garden.
 image: https://www.thenorthernecho.co.uk/resources/images/21430603.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

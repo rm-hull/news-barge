@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A POLICE commissioner has called on the Government to prioritise frontline
   policing over structural reform.
 image: https://www.thenorthernecho.co.uk/resources/images/21441300.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

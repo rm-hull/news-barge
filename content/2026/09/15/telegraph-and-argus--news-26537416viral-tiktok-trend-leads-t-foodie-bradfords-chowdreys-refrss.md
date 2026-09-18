@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: TikTok’s Lunch in My City trend led to Chowdreys on Great Horton Road,
   where a viral naanwich impressed with generous portions and flavour.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437421.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A viral TikTok trend led me to a Bradford restaurant I'd never visited before, and I wasn't disappointed.

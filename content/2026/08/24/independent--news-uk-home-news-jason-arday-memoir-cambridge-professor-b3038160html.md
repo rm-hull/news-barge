@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Professor Jason Arday’s memoir is scheduled to be published in the UK
   later this week
 image: https://static.independent.co.uk/2026/08/21/13/2290394024..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The UK publication of Professor Jason Arday’s memoir will proceed as scheduled this week, after his family said: "It is only right that we honour his wishes".

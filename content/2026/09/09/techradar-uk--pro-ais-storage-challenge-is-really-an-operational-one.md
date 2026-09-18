@@ -7,6 +7,8 @@ scraped_at: '2026-09-09T12:56:48Z'
 published: '2026-09-09T00:00:00Z'
 description: Why AI needs autonomous data infrastructure
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

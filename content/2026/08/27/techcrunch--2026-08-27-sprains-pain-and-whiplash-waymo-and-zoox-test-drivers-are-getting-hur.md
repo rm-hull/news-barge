@@ -10,6 +10,8 @@ description: Test drivers for Waymo and Zoox sustained more than two dozen injur
   in 2024 and 2025 from hard braking or other sudden movements made by the autonomous
   vehicles, according to a TechCrunch review of data submitted to OSHA.
 image: https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633
+categories:
+- Technology & Software
 ---
 
 The rapid scaling of robotaxis over the last two years has come with a hidden human cost.

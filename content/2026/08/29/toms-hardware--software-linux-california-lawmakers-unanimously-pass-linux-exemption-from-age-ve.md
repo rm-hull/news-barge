@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: AB 1856 excludes open-source operating systems from the upcoming Digital
   Age Assurance Act.
 image: https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Age verification](https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE.jpg) 

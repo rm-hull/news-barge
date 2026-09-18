@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Chris Rea's enduring connection to the North East will be celebrated
   when a tribute show inspired by the singer-songwriter's remarkable…
 image: https://www.thenorthernecho.co.uk/resources/images/21457650.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: Supplied by Goffy Media)*

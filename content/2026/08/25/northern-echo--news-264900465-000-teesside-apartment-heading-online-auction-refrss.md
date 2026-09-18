@@ -8,6 +8,13 @@ published: '2026-08-25T00:00:00Z'
 description: A one-bedroom Stockton flat with a £5,000 guide price offers new homeowners
   the chance to get on the property ladder for less than the cost of a…
 image: https://www.thenorthernecho.co.uk/resources/images/21363464.jpg?type=og-image&xType=0&yType=144
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 *(Image: Pattinson Estate Agents)*

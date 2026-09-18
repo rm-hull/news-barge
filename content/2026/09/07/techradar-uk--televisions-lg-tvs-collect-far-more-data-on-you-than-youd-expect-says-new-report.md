@@ -10,6 +10,8 @@ published: '2026-09-07T00:00:00Z'
 description: A new investigation says that LG TVs collect and transmit much more information
   than customers might expect.
 image: https://cdn.mos.cms.futurecdn.net/8HqDvagUjgANoPaHeS5Syf-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![LG C6 (left) and LG G5 (right) with a shot of an owl on screen. Both TVs deliver the shot with real precision and authenticity.](https://cdn.mos.cms.futurecdn.net/8HqDvagUjgANoPaHeS5Syf.jpg) 

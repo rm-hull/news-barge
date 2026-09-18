@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Police have arrested a suspect in connection with a series of attacks
   on power distribution systems across Germany
 image: https://static.independent.co.uk/2026/09/08/12/Germany_Sabotage_6_518.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police arrested a suspect Tuesday in connection with a series of attacks on power distribution systems across Germany which had led to a massive, dayslong search.

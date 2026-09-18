@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T08:41:54Z'
 published: '2026-08-22T00:00:00Z'
 description: It's even magnetic, so you can stick it to a squat rack
 image: https://cdn.mos.cms.futurecdn.net/fhWKSASxzVDqCsYr4DdiB3-1920-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![BodyPark Atom](https://cdn.mos.cms.futurecdn.net/fhWKSASxzVDqCsYr4DdiB3.jpg) 

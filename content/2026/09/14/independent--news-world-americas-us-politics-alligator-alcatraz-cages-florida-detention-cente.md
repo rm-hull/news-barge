@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: DHS Inspector General discovers bug-infested showers, cramped conditions
   and lack of clean water and safe food
 image: https://static.independent.co.uk/2026/09/14/17/28/Screenshot-2026-09-14-at-1-15-25-PM.png?trim=0,8,0,7&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Detainees at a state-run immigration detention center in the middle of the Florida Everglades were held inside phonebooth-sized cages to “reflect on their behavior choices” and “manage their emotions,” according to policy documents uncovered by a federal watchdog.

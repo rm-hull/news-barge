@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The Liberal Democrats faced calls to suspend two councillors over the
   remarks that compared football matchday preparations to Nazi concentration camps
 image: https://static.independent.co.uk/2026/08/27/8/57/2188020574-getty.jpeg?trim=142,0,142,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Two councillors in Liverpool, one a former lord mayor, have apologised after comparing a railway station's football matchday operations with Nazi Germany’s concentration camps.

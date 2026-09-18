@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: M&S Sparks members can earn £10 in their wallet this Bank Holiday weekend
   when they spend £50 on fashion. Here's how to get the reward.
 image: https://www.yorkpress.co.uk/resources/images/20876424.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Shopping & Deals
 ---
 
 *(Image: M&S)*

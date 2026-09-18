@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T04:49:48Z'
 published: '2026-08-23T00:00:00Z'
 description: Athens is turning to hats as Europe’s heat intensifies
 image: https://static.independent.co.uk/2026/08/23/05/Greece_Heat_Hats_9_186.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Outside the Acropolis, a sea of hats bobs up and down the hill to the ancient site: straw boaters, Panama hats, baseball caps and bucket hats in the relentless heat.

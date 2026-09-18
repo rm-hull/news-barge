@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Company may have spent about $200,000 to fight union effort in White
   Plains, where 11 people can vote to join UAW
 image: https://i.guim.co.uk/img/media/a946433270b291789ba9e059caea5439db773c66/403_0_3332_2666/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58081507b6ae6b9a08221b46950a2be8
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Workers at an AutoZone in White Plains, New York, are seeking to become the first store at the US’s largest auto parts retailer to win a union election, set to begin 25 September, despite a heavy-handed union opposition campaign from the company.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T12:54:42Z'
 published: '2026-09-10T00:00:00Z'
 description: Matt Mullenweg voted out (temporarily) as Automattic CEO
 image: https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![WordPress logo on mobile](https://cdn.mos.cms.futurecdn.net/7NLZKWEKmFLJVAH4nubeaX.jpg) 

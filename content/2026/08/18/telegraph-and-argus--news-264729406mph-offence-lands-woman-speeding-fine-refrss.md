@@ -7,6 +7,12 @@ scraped_at: '2026-08-18T19:35:49Z'
 published: '2026-08-18T00:00:00Z'
 description: A motorist has been fined after driving at 36mph in a 30 zone.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20451938.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Chris Radburn/PA Wire)*

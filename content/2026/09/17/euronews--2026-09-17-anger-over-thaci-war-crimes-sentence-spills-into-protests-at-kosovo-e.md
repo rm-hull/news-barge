@@ -10,6 +10,10 @@ description: Thousands who had gathered in Prishtina expecting an acquittal disp
   of murder, torture and illegal detention, but some clashed with riot police outside
   the EU mission later in the day.
 image: https://images.euronews.com/articles/stories/09/91/69/00/1200x675_cmsv2_269dc2e1-d312-5f1e-85e2-9271549908b0-9916900.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Thousands who had gathered in Prishtina expecting an acquittal dispersed in silence after the Kosovo Specialist Chambers found the former president guilty of murder, torture and illegal detention, but some clashed with riot police outside the EU mission later in the day.

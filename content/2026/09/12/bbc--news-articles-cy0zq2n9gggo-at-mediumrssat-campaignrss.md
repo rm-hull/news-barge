@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: The BBC's Tom Gerken plays the hotly anticipated superhero game from
   Spider-Man makers Insomniac.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
 ---
 
 ![A close-up of the game character Wolverine. He is a man wearing a yellow-and-black superhero costume. He has long metal claws coming out of his hand. He is gurning at the camera.](https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg)

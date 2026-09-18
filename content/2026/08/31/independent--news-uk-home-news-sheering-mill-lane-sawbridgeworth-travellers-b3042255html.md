@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A councillor praised the local community for supporting efforts to bring
   the unauthorised works to an end
 image: https://static.independent.co.uk/2026/08/31/16/07/sheering-mill-lane.jpg?trim=85,0,85,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Hundreds of villagers showed up to a wildlife spot with camp chairs over the weekend to demand a halt to unauthorised construction on a Hertfordshire wildlife spot.

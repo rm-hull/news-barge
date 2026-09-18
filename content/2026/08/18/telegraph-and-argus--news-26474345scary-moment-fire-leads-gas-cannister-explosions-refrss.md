@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Neighbours were woken by explosions after gas canisters ignited during
   a late-night garden fire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21335470.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: Pexels)*

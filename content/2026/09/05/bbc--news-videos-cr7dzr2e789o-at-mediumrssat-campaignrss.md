@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A Massachusetts judge has declared a mistrial in the murder case against
   the US mother after jurors were unable to reach a unanimous verdict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb05/live/bd1bf3c0-a8c7-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # How the Lindsay Clancy trial gripped America - and ultimately fell apart

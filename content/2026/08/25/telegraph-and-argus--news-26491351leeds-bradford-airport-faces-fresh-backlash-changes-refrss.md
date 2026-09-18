@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T04:49:50Z'
 published: '2026-08-25T00:00:00Z'
 description: ENVIRONMENTAL campaigners say they are prepared to oppose fresh plans.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20118987.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Supplied)*

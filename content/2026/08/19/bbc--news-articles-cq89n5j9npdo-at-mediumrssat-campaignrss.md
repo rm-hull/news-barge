@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Amy Lopez from Texas was last seen alive in September 1994 while on a
   visit to a fortress in Koblenz.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c086/live/7d6863b0-9bc2-11f1-ae8a-8d57110c5ba6.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A young woman smiles wearing a denim jacket and glasses in a clearly old colour picture](https://ichef.bbci.co.uk/ace/standard/614/cpsprodpb/c086/live/7d6863b0-9bc2-11f1-ae8a-8d57110c5ba6.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The Yamaha B200A offers Dolby Atmos, a compact frame, several modes and
   a built-in subwoofer, all for a relatively affordable price.
 image: https://cdn.mos.cms.futurecdn.net/dYZFtWfiJdtSfZD8BgQLkD-1500-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![The Yamaha B200A on a wooden shelf under a TV.](https://cdn.mos.cms.futurecdn.net/dYZFtWfiJdtSfZD8BgQLkD.jpg) 

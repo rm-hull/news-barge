@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Small and medium-sized businesses are being warned to prepare for an
   autumn cash flow crisis, according to accountancy firm Azets.
 image: https://www.yorkpress.co.uk/resources/images/21370659.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Ron Wain of business news specialist Deep South Media)*

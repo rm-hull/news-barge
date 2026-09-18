@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Damaging winds and heavy rains from Hurricane Lowell are pelting Hawaii’s
   western islands
 image: https://static.independent.co.uk/2026/09/06/21/Tropical_Weather_Hawaii_192_2.jpg?trim=167,0,167,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Damaging winds and heavy rains from Hurricane Lowell were pelting Hawaii's western islands in the overnight hours Tuesday, bringing the threat of floods, mudslides and tornadoes.

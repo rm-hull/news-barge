@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Pan-African venture firm has raised $84 million and plans to invest
   in startups beyond its home market of Nigeria.
 image: https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?resize=1200,778
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Ventures Platform has raised an oversubscribed $84 million second fund as the Pan-African venture firm expands beyond its home market of Nigeria with a strategy shaped by a tougher, more selective venture market.

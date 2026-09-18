@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Local politicians have long called for the A66 to be made safer, and
   have it dualled from Scotch Corner to Carlisle.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/22/12/24/01M0MMTX9KBNH72N3FAHA57QT2.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Where is A66? Why police crash road is considered accident hot spot

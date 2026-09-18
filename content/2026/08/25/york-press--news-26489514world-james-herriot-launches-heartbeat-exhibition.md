@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The World of James Herriot in Thirsk will officially launch its Heartbeat
   exhibition on Saturday, August 29.
 image: https://www.yorkpress.co.uk/resources/images/21361596.jpg?type=og-image&xType=0&yType=15
+categories:
+- Local
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 *(Image: The World of James Herriot)*

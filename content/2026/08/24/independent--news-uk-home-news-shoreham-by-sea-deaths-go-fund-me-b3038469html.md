@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: More than 400 people have donated to the fundraiser which aims to cover
   funeral and repatriation costs, and to support the family
 image: https://static.independent.co.uk/2026/08/19/17/53/Shoreham-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A public appeal has raised thousands of pounds after members of acamily died following a sea incident that has shaken "our community to its core", the Palestinian Forum in Britain said.

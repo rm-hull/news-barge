@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: South Australian premier Peter Malinauskas says there have still been
   no detections in poultry or livestock and no mass deaths involving mammals
 image: https://i.guim.co.uk/img/media/8bf4d2d3b84de383295a655c798514bc850cc6f3/260_0_1192_954/master/1192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c10f1e48b6162f4b5b3775cf7bf7760f
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The South Australian premier, Peter Malinauskas, has declared a “significant escalation” in H5 bird flu in the state after the detection of three mass mortality events involving more than 1,000 greater crested terns.

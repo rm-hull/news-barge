@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T22:53:32Z'
 published: '2026-09-15T00:00:00Z'
 description: Chrissie Hynde is not one for looking back
 image: https://static.independent.co.uk/2026/09/15/21/Film_TIFF_Pretenders_58291.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Chrissie Hynde is not one for looking back. She detests self-mythologizing. She doesn’t even like cameras. She’s just about the most reluctant documentary subject there is.

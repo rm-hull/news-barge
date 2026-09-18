@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Just Eat has launched its new laundry service that means people can get
   their clothes washed and dropped back off at their door.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346091.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 A new on-demand laundry service is bringing doorstep dry cleaning and washing to customers through a familiar delivery app.

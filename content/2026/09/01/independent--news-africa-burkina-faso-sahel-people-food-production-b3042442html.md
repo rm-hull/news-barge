@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Farmers in arid Burkina Faso have begun growing pineapples to reduce
   reliance on imports and adapt to climate challenges
 image: https://static.independent.co.uk/2026/09/01/05/Burkina_Faso_Pineapples_42197.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 The soil beneath Oumarou Compaoré's boots is sandy and stony. It’s hardly the lush setting usually needed to support growing pineapples.

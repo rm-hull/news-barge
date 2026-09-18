@@ -9,6 +9,12 @@ published: '2026-08-19T00:00:00Z'
 description: Planning applications relating to the recently-scrapped Squire Lane Leisure
   Centre have been withdrawn by Bradford Council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19760399.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Bradford Council)*

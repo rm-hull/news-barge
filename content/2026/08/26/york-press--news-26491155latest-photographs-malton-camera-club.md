@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T08:56:44Z'
 published: '2026-08-26T00:00:00Z'
 description: Malton and Norton Camera Club members latest work is highlighted in these
 image: https://www.yorkpress.co.uk/resources/images/21365181.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Arts & Culture
 ---
 
 ## Camera club's latest work features two bugs, a sunset and a faraway island

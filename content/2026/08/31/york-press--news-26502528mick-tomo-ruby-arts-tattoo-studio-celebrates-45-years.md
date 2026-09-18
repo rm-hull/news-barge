@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T05:22:49Z'
 published: '2026-08-31T00:00:00Z'
 description: A York tattoo artist is celebrating a remarkable 45 years in the industry.
 image: https://www.yorkpress.co.uk/resources/images/21382740.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Business & Entrepreneurship
 ---
 
 ## York tattoo artist celebrates remarkable 45 years in industry

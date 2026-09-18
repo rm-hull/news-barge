@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The £72m heading towards Reform UK's coffers is transforming the debate
   at Westminster about politics and money.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbf1/live/bf5aa010-b091-11f1-abf3-2144c1c3dc24.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Farage, seen from the shoulders up and wearing a light blue suit and red polka dot tie, talks to a woman with long brown hair who is seen from behind.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/fbf1/live/bf5aa010-b091-11f1-abf3-2144c1c3dc24.jpg)

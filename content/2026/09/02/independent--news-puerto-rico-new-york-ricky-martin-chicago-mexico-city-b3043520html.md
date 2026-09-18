@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Menudo, one of the most popular Latino boy bands of all time, is reuniting
   for a six-day tour this fall to celebrate their 50th anniversary
 image: https://static.independent.co.uk/2026/09/02/15/Music-Menudo_73856.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Menudo, widely considered one of the most popular Latino boy bands of all time, will reunite for a six-day run this fall in celebration of their 50th anniversary. That's a major milestone for any act, but a particularly remarkable one for the group established in Puerto Rico in the late '70s — and not just because it was in Menudo where performers like Ricky Martin and Draco Rosa got their start.

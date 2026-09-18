@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Tesco shoppers can get free Whoosh delivery on orders over £25 until
   January 2027, but new customers must sign up to Delivery Saver by October 18.
 image: https://www.yorkpress.co.uk/resources/images/21450549.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Tesco)*

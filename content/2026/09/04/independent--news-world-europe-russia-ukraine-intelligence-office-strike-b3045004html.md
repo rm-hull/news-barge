@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: President Zelensky instructed the SBU to deliver an ‘appropriate, tangible
   response’ to the Russians following the strike on headquarters
 image: https://static.independent.co.uk/2026/09/04/15/2026-09-04T141856Z_481125835_RC2DCNAY6S1N_RTRMADP_3_UKRAINE-CRISIS-ATACK-SBU.JPG?trim=53,0,53,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Ukraine’s security service headquarters was set alight after a Russian drone struck it ahead of diplomatic talks with US officials on ending the war.

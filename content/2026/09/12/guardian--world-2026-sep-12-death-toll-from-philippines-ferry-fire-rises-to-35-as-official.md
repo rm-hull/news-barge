@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The deadly fire had begun in the ferry’s cargo hold, then tore through
   the ship within seconds
 image: https://i.guim.co.uk/img/media/a27835cebb9f406a865b3b8e073a3bed081a1781/102_0_1498_1199/master/1498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa7d1bbfefaf005a289651b969ce5c88
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guard warned the death toll of 35 would grow.

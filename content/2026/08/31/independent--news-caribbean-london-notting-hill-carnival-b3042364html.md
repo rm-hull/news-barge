@@ -10,6 +10,10 @@ description: Weekend revelers attended J'ouvert, the opening event of the Nottin
   Hill Carnival, before crowds packed the streets of west London on Monday for the
   climax of one of the world’s biggest celebrations of Caribbean music and culture.
 image: https://static.independent.co.uk/2026/08/31/22/Britain_Notting_Hill_Carnival_6991_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Photos show revelers celebrating Caribbean culture at London's Notting Hill Carnival

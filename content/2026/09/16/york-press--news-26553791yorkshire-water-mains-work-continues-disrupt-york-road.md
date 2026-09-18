@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Works to repair and reinstate Haxby Road are continuing near the junction
   with Walpole Street, close to the entrance for York St John University…
 image: https://www.yorkpress.co.uk/resources/images/21460780.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Kevin Glenton)*

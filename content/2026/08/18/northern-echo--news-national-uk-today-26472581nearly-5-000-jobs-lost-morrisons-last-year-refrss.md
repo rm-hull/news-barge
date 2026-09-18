@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Morrisons, headquartered in Bradford, reported the reductions in its
   latest financial accounts.
 image: https://www.thenorthernecho.co.uk/resources/images/21333072.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

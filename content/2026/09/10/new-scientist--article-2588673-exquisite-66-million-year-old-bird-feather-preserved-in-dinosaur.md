@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: A dinosaur, possibly a young Tyrannosaurus rex, excreted a bird 66 million
   years ago, and one of its feathers is exquisitely preserved in the fossilised dropping
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A feather preserved in dinosaur poo, found in 2016 in north-eastern Montana’s Hell Creek Formation](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311173665.jpg?w=840)

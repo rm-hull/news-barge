@@ -9,6 +9,10 @@ description: Video. Flash flooding near Phantom Ranch sent debris into the Color
   River, destroyed footbridges and left more than 20 people missing or unaccounted
   for.
 image: https://images.euronews.com/articles/stories/09/89/49/66/1200x675_cmsv2_2d982aaf-2612-5676-8932-d725c9337892-9894966.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Heavy rain triggered a major flash flood around Phantom Ranch and Bright Angel Canyon in Grand Canyon National Park on 29 August, sending water and debris into the Colorado River.

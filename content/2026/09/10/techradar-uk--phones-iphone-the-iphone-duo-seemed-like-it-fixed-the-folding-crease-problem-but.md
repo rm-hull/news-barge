@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: Apple unveiled its first foldable, the iPhone Duo, but it hasn't quite
   fixed the display crease issue as expected.
 image: https://cdn.mos.cms.futurecdn.net/Hweb49UF56r2Lki2DcFtuG-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iPhone Duo unfolded](https://cdn.mos.cms.futurecdn.net/Hweb49UF56r2Lki2DcFtuG.jpg) 

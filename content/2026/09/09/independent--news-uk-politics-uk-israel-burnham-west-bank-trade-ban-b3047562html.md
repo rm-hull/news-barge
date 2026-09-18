@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The ban, announced by Foreign Secretary Ed Miliband on Tuesday, has triggered
   a diplomatic row with Israel and drawn criticism from opposition figures at home
 image: https://static.independent.co.uk/2026/09/09/14/90f534c33189b966158d6fb5311004ecY29udGVudHNlYXJjaGFwaSwxNzg5MDQ0ODQ2-2.85793891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Andy Burnham has defended his Government’s ban on trade with illegal Israeli settlements in the West Bank, telling MPs that Britain “must stand for something”.

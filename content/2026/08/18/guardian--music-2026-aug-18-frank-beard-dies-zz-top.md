@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Tributes paid to ‘great friend and collaborator’ who played with band
   for 56 years and died in hospice care in Texas
 image: https://i.guim.co.uk/img/media/d43cec39d0fa7274877396838efd964a8782d484/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02bf4bbf6f320c6570da7753ead51cb8
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 The ZZ Top drummer Frank Beard has died at the age of 77.

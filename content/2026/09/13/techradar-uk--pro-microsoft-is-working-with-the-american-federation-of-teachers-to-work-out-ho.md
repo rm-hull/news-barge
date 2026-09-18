@@ -8,6 +8,10 @@ scraped_at: '2026-09-13T18:45:55Z'
 published: '2026-09-13T00:00:00Z'
 description: Teachers will not train AI
 image: https://cdn.mos.cms.futurecdn.net/JzkJQy6ty9CGqBpFqMkeFG-970-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Education & Learning
 ---
 
 ![students in classroom](https://cdn.mos.cms.futurecdn.net/JzkJQy6ty9CGqBpFqMkeFG.jpg) 

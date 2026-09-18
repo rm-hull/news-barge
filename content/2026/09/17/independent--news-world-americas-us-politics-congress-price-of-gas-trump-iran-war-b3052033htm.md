@@ -10,6 +10,10 @@ description: Trump insists rising fuel prices are ‘a very inexpensive price to
   for his war in Iran. Eric Garcia asks Republicans and democrats on Capitol Hill
   about the last time they stopped for gas
 image: https://static.independent.co.uk/2026/09/17/18/41/Congress-gas-prices-comp.jpeg?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump has said that rising gas prices are a small price to pay for the war in Iran. But members of Congress in both parties are warning that this could become a crisis for Republicans in the midterm election.

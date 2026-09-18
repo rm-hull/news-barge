@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Durham Jazz Festival has received a large amount of interest ahead of
   its debut weekend in October.
 image: https://www.thenorthernecho.co.uk/resources/images/21420337.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Durham Jazz Festival has received a large amount of interest ahead of its debut weekend in October.

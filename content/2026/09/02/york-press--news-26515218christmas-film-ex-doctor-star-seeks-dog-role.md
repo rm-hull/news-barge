@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A new Christmas movie to be filmed in York is looking for a Beagle dog
   to star on screen in a paid role.
 image: https://www.yorkpress.co.uk/resources/images/21400976.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Pixabay)*

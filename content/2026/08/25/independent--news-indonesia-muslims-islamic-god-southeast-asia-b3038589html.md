@@ -9,6 +9,10 @@ description: Authorities in Indonesia’s South Sumatra province have held a mas
   prayer for rain as forest and peatland fires fueled choking haze across parts of
   the country
 image: https://static.independent.co.uk/2026/08/25/04/Indonesia_Wildfires_66168.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Authorities in Indonesia’s South Sumatra, the province with the highest number of wildfire hot spots, turned to spiritual measures on Tuesday as huge blazes in central and western regions scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities in the world’s most populous Muslim-majority country.

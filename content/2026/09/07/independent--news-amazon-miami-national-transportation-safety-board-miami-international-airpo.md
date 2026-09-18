@@ -10,6 +10,10 @@ description: Federal investigators are trying to determine what caused an Amazon
   jet to barrel off a runway at Miami International Airport, killing at least five
   people and injuring five others as it struck vehicles and was engulfed in flames
 image: https://static.independent.co.uk/2026/09/07/05/Amazon_Plane_Overruns_Runway_77258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Federal investigators on Monday are detailing their plans for determining what caused an Amazon cargo jet to barrel off a runway at Miami International Airport, killing at least five people and injuring five others as it struck vehicles and was engulfed in flames.

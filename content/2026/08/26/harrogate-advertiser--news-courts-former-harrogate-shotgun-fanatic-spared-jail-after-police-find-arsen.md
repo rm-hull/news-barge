@@ -10,6 +10,10 @@ description: A 78-year-old shotgun fanatic has been spared jail after police fou
   kilos of components and chemicals capable of being turned into improvised explosive
   devices at his former home in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM4NGQ2ZmNmLTk5MDktNDc3NS1hY2UyLTcyNzNlMDVhMzE1MToyNTEyNWQxYS0zYTQ1LTQyYWMtOWNjMS01OWU2MmUzMTZkMTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 # Former Harrogate shotgun fanatic spared jail after police find 'arsenal of weapons' in 'underground den'

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Justice Secretary Alex Norris has revealed plans to turn laundries and
   other existing spaces in jails into cells to create more space for inmates.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEzMjliNTM3LWEyOTktNDI2OC04ZWU1LTVlMTU2NzFlNmY0Mzo4NWI3M2MxZi1iOGJiLTQ5YjUtYjQ5Yi00NDdmY2YyYmJhNmM=.jpg?crop=3:2,smart&trim=&width=853&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # HMP Millsike: hundreds of cells will remain empty despite prison overcrowding crisis

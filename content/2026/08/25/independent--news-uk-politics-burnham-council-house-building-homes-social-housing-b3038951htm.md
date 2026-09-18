@@ -9,6 +9,9 @@ description: Our community weigh in on the prime minister’s £10bn plan to bui
   new homes, with many questioning whether the scale of the pledge matches the scale
   of Britain’s housing crisis
 image: https://static.independent.co.uk/2026/08/25/14/16/Engagement-overlays-2026-08-25T153552-693.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham’s £10bn plan to build 70,000 new homes has been billed as the return of the council house – but plenty of *Independent* readers aren’t convinced it goes far enough.

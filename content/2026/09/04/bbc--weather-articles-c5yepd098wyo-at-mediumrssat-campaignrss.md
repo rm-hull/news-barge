@@ -9,6 +9,10 @@ description: Parts of the UK will experience a short-lived surge of heat this we
   as hotter air from Europe moves in. Temperatures widely will be above 20C, with
   a peak of 27C in the south.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/a83e/live/b8175640-a777-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A seaside scene in Skegness with a big wheel and a funfair, the skies are blue](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a83e/live/b8175640-a777-11f1-b2d5-535b3b3d379f.jpg)

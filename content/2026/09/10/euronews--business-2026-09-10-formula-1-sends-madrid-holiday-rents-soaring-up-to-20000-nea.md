@@ -9,6 +9,10 @@ description: The Spanish Grand Prix is driving luxury short-term rents in Madrid
   by as much as 1,000%, and in Valdebebas some flats are being listed at up to 20,000
   euros for the race.
 image: https://images.euronews.com/articles/stories/09/90/61/53/1200x675_cmsv2_e35d8286-20c7-5428-8496-19251e8d4ebd-9906153.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The Spanish Grand Prix is driving luxury short-term rents in Madrid up by as much as 1,000%, and in Valdebebas some flats are being listed at up to 20,000 euros for the race.

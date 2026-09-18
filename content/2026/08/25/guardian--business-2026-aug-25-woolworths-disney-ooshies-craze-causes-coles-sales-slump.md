@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Coles full-year results show that despite gaining market share over past
   12 months, sales fell over four weeks of ‘competitor’s collectables campaign’
 image: https://i.guim.co.uk/img/media/cdddbc9c28946c733d78c2fe7bf7ba7c8cf9e188/0_0_6450_5160/master/6450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f2e90b8492b4949d3ccb5b793a07e38
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Woolworths’ latest Disney “Ooshie” collectibles have not only captivated Australian children, they have led to a short-term slump in competitor Coles’ sales.

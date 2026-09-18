@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:26:05Z'
 published: '2026-09-08T00:00:00Z'
 description: One hoax call in Cardiff caused ‘widespread panic and disruption’
 image: https://static.independent.co.uk/2026/09/08/12/27/dare-callum-1024x1024.png?trim=140,0,201,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Business & Entrepreneurship
 ---
 
 A man who encouraged a hoax call claiming there were nail bombs and hostages at a Cardiff hotel, leading to “widespread panic and disruption”, has lost a challenge against his jail sentence at the Court of Appeal.

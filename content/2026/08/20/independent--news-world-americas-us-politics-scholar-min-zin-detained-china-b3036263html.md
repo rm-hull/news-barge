@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: This official determination arrives shortly before President Donald Trump
   is set to host Chinese President Xi Jinping at the White House
 image: https://static.independent.co.uk/2026/08/20/11/qMzsMyNTZh_fotG0g4Yz1ZM16SI1jJm6cEt9iJAbZ6OJ4q4AFatRJt5mhR2hxAhPdp9lz-AU-BopHMYb058v0TqjAIHP_k1e2DTL..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The United States has formally classified US citizen and Myanmar scholar Min Zin as wrongfully detained following his arrest by Chinese authorities in June, a senior State Department official told Reuters. The decision makes his release a top diplomatic priority for Washington.

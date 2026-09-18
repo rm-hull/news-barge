@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Customers are once more enjoying Tadcaster’s iconic Angel & White Horse
   Inn, which is now back open after seven long years!
 image: https://www.yorkpress.co.uk/resources/images/21331249.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Customers enjoy relaxing pints at re-opened Sam Smith's 'flagship' pub

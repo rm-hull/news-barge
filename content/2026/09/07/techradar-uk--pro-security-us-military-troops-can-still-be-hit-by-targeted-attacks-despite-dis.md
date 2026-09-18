@@ -8,6 +8,8 @@ scraped_at: '2026-09-07T19:54:14Z'
 published: '2026-09-07T00:00:00Z'
 description: Government-issued devices are safe
 image: https://cdn.mos.cms.futurecdn.net/KcuQeJXg8Wj7ktEdTA3XhC-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A Belarusian border guard with a service dog](https://cdn.mos.cms.futurecdn.net/KcuQeJXg8Wj7ktEdTA3XhC.jpg) 

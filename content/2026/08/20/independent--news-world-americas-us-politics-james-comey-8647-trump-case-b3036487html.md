@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Comey, a longtime critic of the president, denies all charges made against
   him
 image: https://static.independent.co.uk/2026/05/30/0/57/GettyImages-2215980542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Prosecutors have cited former FBI Director James Comey’s own book to urge a federal judge not to dismiss criminal charges surrounding an “86 47” message they allege was used to threaten President Trump.

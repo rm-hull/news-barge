@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Trump and Kim met three times from 2018-2019 but their high-stakes diplomacy
   eventually fell apart
 image: https://static.independent.co.uk/2026/08/19/14/28/GettyImages-1159161650.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 North Korea has dismissed a decision by Washington to scale back joint military exercises with Seoul, insisting the move does nothing to alter the aggressive character of the drills and dampening hopes for a diplomatic breakthrough between U.S. President Donald Trump and Kim Jong Un.

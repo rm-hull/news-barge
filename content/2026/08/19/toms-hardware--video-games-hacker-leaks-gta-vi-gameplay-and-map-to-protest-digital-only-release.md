@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:32:40Z'
 published: '2026-08-19T00:00:00Z'
 description: The hacker wants Rockstar to stop pre-selling digital games.
 image: https://cdn.mos.cms.futurecdn.net/aUeWUCPMkaib7UMDrpTLJ5-2317-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Grand Theft Auto VI](https://cdn.mos.cms.futurecdn.net/aUeWUCPMkaib7UMDrpTLJ5.png) 

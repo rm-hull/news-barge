@@ -9,6 +9,9 @@ scraped_at: '2026-09-12T15:00:44Z'
 published: '2026-09-12T00:00:00Z'
 description: AI isn't the only technology seeing widespread adoption
 image: https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Who will win the AI race?](https://cdn.mos.cms.futurecdn.net/AvZcjmUMtehpuha5oJLcTB.jpg) 

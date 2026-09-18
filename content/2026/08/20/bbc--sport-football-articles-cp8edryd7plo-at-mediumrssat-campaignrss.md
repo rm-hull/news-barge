@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: We ask 26 BBC Sport football pundits to predict who will win the 2026-27
   Premier League title, and which clubs will finish in the top four.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![MOTD, Final Score & 5 Live](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2095/live/9273cd90-998c-11f1-a7ab-8b30adf0800a.jpg)

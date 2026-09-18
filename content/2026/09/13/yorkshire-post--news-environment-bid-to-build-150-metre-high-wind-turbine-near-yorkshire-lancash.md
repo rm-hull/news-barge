@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Proposals to build a 150 metre wind turbine on land between Todmorden
   and Bacup will need the permission of Calderdale Council for its key access track.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmExY2MwMjBjLWVlNDktNGI2ZS1hNGY1LTQzMzcwMGI1ZTFlZjpmNmVhN2JlYi1jNTNlLTQ1NGMtOTViZS1lMGEzMDE2MTZmODM=.jpg?crop=3:2,smart&trim=&width=407&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Bid to build 150-metre high wind turbine near Yorkshire-Lancashire border

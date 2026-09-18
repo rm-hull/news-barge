@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Militant feminist led campaigns to legalise abortion and divorce and
   went on to become foreign minister
 image: https://i.guim.co.uk/img/media/89e47d9a34d74dda45d6e3c2bfc124c588655ea5/194_0_3398_2718/master/3398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc6574747c8df1b2873bcd3640e619e8
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Emma Bonino, the radical Italian politician who led campaigns to legalise abortion and divorce against the objections of the Vatican, has died aged 78.

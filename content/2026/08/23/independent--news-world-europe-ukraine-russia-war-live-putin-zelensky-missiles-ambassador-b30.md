@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T08:43:48Z'
 published: '2026-08-23T00:00:00Z'
 description: Andrey Kelin reportedly left his role in July
 image: https://static.independent.co.uk/2026/08/23/06/2290896674..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 French president Emmanuel Macron has announced that Paris will send new interceptor missiles to Ukraine as Russia escalates its air attack on Kyiv.

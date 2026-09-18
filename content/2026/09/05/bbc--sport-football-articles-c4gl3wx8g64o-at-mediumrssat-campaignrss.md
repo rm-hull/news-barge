@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Everton manager David Moyes says he has never met or spoken to the club's
   owner Dan Friedkin.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2894/live/590172b0-a8ff-11f1-bd44-2b0afe453f7d.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Dan Friedkin with the Conference League trophy after AS Roma won the competition in 2022](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/2894/live/590172b0-a8ff-11f1-bd44-2b0afe453f7d.jpg)

@@ -7,6 +7,9 @@ scraped_at: '2026-09-16T13:27:02Z'
 published: '2026-09-16T00:00:00Z'
 description: Discover more about Policy with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the Chinese flag on a chip](https://cdn.mos.cms.futurecdn.net/xac7n5MNGJHifUGMbvwcY6-320-80.png)

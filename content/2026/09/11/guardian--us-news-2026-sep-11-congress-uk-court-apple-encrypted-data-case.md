@@ -9,6 +9,10 @@ description: Democrat Ron Wyden and Republican Warren Davidson tell investigator
   powers tribunal that secrecy over encrypted data case is ‘needlessly’ straining
   US-UK relations
 image: https://i.guim.co.uk/img/media/d0215d43f6c0ac6b1440568132d2934a9f17d727/907_189_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f9fb34eabe2f7d0783b8d9dff721608
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A bipartisan pair of American politicians is telling Britain’s most secretive court to stop hiding its handling of Apple’s legal fight against a government demand to break into its customers’ encrypted data, warning that Whitehall’s taste for secrecy is “needlessly” straining relations between the two allies.

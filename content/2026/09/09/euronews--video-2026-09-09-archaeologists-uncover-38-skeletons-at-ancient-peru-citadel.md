@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Video. Archaeologists have uncovered a tomb with the remains of 38 people
   and gold and copper objects at the ancient Chan Chan site in northern Peru.
 image: https://images.euronews.com/articles/stories/09/90/68/97/1200x675_cmsv2_305a0562-0070-5082-9e24-b80b4016b970-9906897.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Archaeologists have uncovered a collective tomb containing the remains of 38 people at Chan Chan, a vast pre-Hispanic adobe citadel in northern Peru. Aerial footage shows teams working among the remains and excavating the site.

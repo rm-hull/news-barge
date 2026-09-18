@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: There’s no clearer sign of the data center boom than rampant gas projects
   that have been proposed or that are already under construction.
 image: https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/191:100/w_1280,c_limit/AP26092141058357.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 The amount of gas-fired power in development for data centers in the US has nearly doubled in less than a year, new research released Tuesday shows. The findings illustrate just how heavily tech companies are relying on building private fossil fuel plants to power data centers—and how fast artificial intelligence’s energy demand has grown.

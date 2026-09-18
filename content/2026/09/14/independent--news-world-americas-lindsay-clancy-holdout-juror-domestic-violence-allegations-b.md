@@ -10,6 +10,10 @@ description: Clancy, 36, admitted to killing her three children - Cora, 5, Dawso
   3, and 8-month-old Callan - in the basement of her Massachusetts home in 2023, before
   trying to take her life. Her case ended in a mistrial September 4
 image: https://static.independent.co.uk/2026/09/14/08/2026-09-09T142045Z_724793447_RC2JCNAJL0RC_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The lone holdout juror in the Lindsay Clancy murder trial was previously accused of domestic violence, according to a report.

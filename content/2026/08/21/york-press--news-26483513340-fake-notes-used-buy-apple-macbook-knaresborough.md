@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Fraudulent bank notes were used to buy a laptop in a North Yorkshire
   town.
 image: https://www.yorkpress.co.uk/resources/images/21352921.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

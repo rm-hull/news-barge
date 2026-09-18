@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: DRINKERS in Yorkshire and the Humber are more likely to binge drink than
   the UK average, new research shows.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21364411.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Iggy & Lime)*

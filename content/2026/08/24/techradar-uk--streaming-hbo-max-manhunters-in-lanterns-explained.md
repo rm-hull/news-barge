@@ -10,6 +10,10 @@ published: '2026-08-24T00:00:00Z'
 description: Lanterns episode 2 has unveiled on the HBO TV show's supposed villains
   — here's what you need to know about them.
 image: https://cdn.mos.cms.futurecdn.net/qro4sEF4qUUFWZEAASqiEc-1600-80.jpg
+categories:
+- Technology & Software
+- True Crime
+- Film & TV
 ---
 
 ![A close up of Kyle Chandler's Hal Jordan sitting at a football stadium in Lanterns episode 2](https://cdn.mos.cms.futurecdn.net/qro4sEF4qUUFWZEAASqiEc.jpg) 

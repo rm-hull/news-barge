@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A foul-smelling incident has left a community reeling and businesses
   counting the cost.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21319920.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A foul-smelling incident that locals believe is the result of a vehicle transporting animal by-products has prompted an Environmental Health investigation.

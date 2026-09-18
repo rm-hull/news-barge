@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Graham Jarvis, 38, was sentenced to 12 years in jail at Southwark Crown
   Court on Thursday
 image: https://static.independent.co.uk/2026/09/10/11/01M25EQ886X1GV6ER59QBJNGS0.jpg?trim=456,0,456,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Household Cavalry soldier who plotted to rape a seven-year-old girl and a 10-month-old baby has been jailed for 12 years.

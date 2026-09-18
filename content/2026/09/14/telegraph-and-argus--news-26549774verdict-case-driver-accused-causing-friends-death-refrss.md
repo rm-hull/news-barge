@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: A speeding driver has been convicted of causing the death of his friend
   as a result of a crash whilst they were racing on a Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17835822.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- True Crime
 ---
 
 A speeding driver has been convicted of causing the death of his friend as a result of a crash whilst they were racing on a Bradford road.

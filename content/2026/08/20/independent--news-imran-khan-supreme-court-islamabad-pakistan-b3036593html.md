@@ -10,6 +10,9 @@ description: A senior Pakistani Cabinet minister says the government could consi
   allowing imprisoned former Prime Minister Imran Khan to receive treatment at a private
   hospital or abroad if adequate medical care is unavailable at a government facility
 image: https://static.independent.co.uk/2026/08/18/14/PAKIST%C3%81N-IMRAN_KHAN_99232.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A senior Pakistani Cabinet minister said Thursday the government could consider allowing imprisoned former Prime Minister Imran Khan to receive treatment at a private hospital or abroad if adequate care is unavailable at a government facility, while pledging to comply with a Supreme Court order on Khan’s treatment.

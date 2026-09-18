@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: LeBron James' passion for golf now includes a partnership with the PGA
   Tour
 image: https://static.independent.co.uk/2026/08/25/17/PGA_Tour_LeBron_Basketball_21593.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 LeBron James' growing passion for golf now includes a partnership with the PGA Tour announced Tuesday that will bring a two-day tournament to Firestone Country Club in his hometown of Akron, Ohio, next summer to connect youth with aspiring professionals.

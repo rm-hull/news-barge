@@ -9,6 +9,11 @@ description: Myanmar's ruling junta seized power in a coup in 2021 that ousted A
   San Suu Kyi's elected government, ending a 10-year experiment with democracy and
   plunging the country into turmoil and a humanitarian crisis.
 image: https://images.euronews.com/articles/stories/09/88/92/54/1200x675_cmsv2_2cbdb0b2-fafd-5cde-8c5f-50e6d64d28c2-9889254.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ## Myanmar's ruling junta seized power in a coup in 2021 that ousted Aung San Suu Kyi's elected government, ending a 10-year experiment with democracy and plunging the country into turmoil and a humanitarian crisis.

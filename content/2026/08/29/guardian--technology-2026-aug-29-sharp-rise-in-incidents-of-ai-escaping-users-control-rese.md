@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: 'Exclusive: Number of times AI lies, ignores instructions and pursues
   goals in harmful ways almost doubles in July'
 image: https://i.guim.co.uk/img/media/a448bcacf4651f894ef4c7e7c84d916302502513/0_0_4757_3804/master/4757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34829469bcdd124f4f221b23706c7c4d
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Incidents of AIs escaping users’ control to lie, ignore instructions and pursue goals in harmful ways have hit a new high, according to research that also suggests the severity of deception and misalignment is worsening.

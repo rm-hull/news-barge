@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A search and rescue operation is under way after a ferry carrying nearly
   270 people turns over after leaving port.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Passengers stand on capsized Cyprus ferry ahead of rescue

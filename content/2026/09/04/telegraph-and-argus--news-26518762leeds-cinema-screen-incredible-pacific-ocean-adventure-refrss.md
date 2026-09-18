@@ -7,6 +7,12 @@ scraped_at: '2026-09-04T04:22:20Z'
 published: '2026-09-04T00:00:00Z'
 description: A NIGHT of thrilling ocean adventure is coming to the big screen in Leeds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405995.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Film & TV
 ---
 
 A NIGHT of thrilling ocean adventure is coming to the big screen.

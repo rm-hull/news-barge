@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: The Pentagon is asking regular companies, not just defense giants, to
   build its next generation of stand-in drones
 image: https://cdn.mos.cms.futurecdn.net/Yu6wEa8BcuTddxhAVLVeZE-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![F-35 fighter jet](https://cdn.mos.cms.futurecdn.net/Yu6wEa8BcuTddxhAVLVeZE.jpg) 

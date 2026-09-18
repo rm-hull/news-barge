@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: The man was taken to hospital by ambulance and was pronounced dead a
   short time later, police have said.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f27c/live/01776750-a582-11f1-ae94-15924a612dd1.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Dozens of members of the Metropolitan Police walk in uniform through the Notting Hill Carnival](https://ichef.bbci.co.uk/ace/standard/933/cpsprodpb/f27c/live/01776750-a582-11f1-ae94-15924a612dd1.jpg)

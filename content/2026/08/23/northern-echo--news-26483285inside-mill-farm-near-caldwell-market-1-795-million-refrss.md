@@ -9,6 +9,13 @@ published: '2026-08-23T00:00:00Z'
 description: Buyers looking for a home that’s much more than a house might well find
   everything on their wish list at Mill Farm, a rural property that…
 image: https://www.thenorthernecho.co.uk/resources/images/21353052.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Real Estate
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 Buyers looking for a home that’s much more than a house might well find everything on their wish list at Mill Farm, a rural property that encompasses a charming house, stunning gardens, equestrian facilities and both farmland and woodland.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Brazil's Supreme Court has started deliberations on whether Justice Alexandre
   de Moraes should face an investigation in a graft case
 image: https://static.independent.co.uk/2026/09/15/16/Brazil_Supreme_Court_6853_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 Brazil's Supreme Court began deliberations Tuesday on whether Justice Alexandre de Moraes, the man who led the trial against former President Jair Bolsonaro, should face an investigation in a graft case, a move that is also shaking the run up to the country's presidential election in October.

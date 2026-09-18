@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: It's now legal to install your own plug-in solar kits in the UK, and
   you can get started right away.
 image: https://cdn.mos.cms.futurecdn.net/SZ4FjDVFkWC9eSdQaSDtgf-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A British Gas logo on a phone next to plug-in solar panels on a balcony](https://cdn.mos.cms.futurecdn.net/SZ4FjDVFkWC9eSdQaSDtgf.jpg) 

@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: All Creatures Great and Small star Samuel West has revealed the prop
   that helps him become Siegfried Farnon while filming the Channel 5 drama.
 image: https://www.thenorthernecho.co.uk/resources/images/21431827.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: CHANNEL 5)*

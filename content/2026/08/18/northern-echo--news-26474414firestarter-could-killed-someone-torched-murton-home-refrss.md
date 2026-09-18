@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A firestarter who "could have killed someone" when he torched a Murton
   home has been jailed.
 image: https://www.thenorthernecho.co.uk/resources/images/21335733.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A firestarter who "could have killed someone" when he torched a County Durham family home has been jailed.

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Skipton Farmhouse Fare began selling pies and sausages in 1975 and has
   been going from strength to strength while staying true to its original recipes.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkYTljNmRmLWVjNGQtNDA3Yy1iYjU5LTU2MDhiYmJmZDI3NTozYWEzMWU2Ny02OWZiLTQ0ZjMtYjhmYi0zYjQzZmNhZTNjN2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Skipton Farmhouse Fare: ‘We have been selling sausages and pies for over 50 years and we've never changed our recipes’

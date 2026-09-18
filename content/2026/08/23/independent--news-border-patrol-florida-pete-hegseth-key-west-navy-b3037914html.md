@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: The father of a man serving on the USS Abraham Lincoln has been arrested
   by immigration authorities
 image: https://static.independent.co.uk/2026/08/24/01/USS_Lincoln_Soldier_Father_Arrested_35622.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 When Luis Manuel Aviles was arrested by immigration authorities, his son was entering his ninth month on the USS Abraham Lincoln with the Navy — a vessel that set a U.S. military record for uninterrupted time at sea, stirring concerns about supply shortages and deteriorating mental health among soldiers.

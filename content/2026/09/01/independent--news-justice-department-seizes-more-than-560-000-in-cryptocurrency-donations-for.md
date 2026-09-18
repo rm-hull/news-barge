@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Justice Department says it has seized more than $560,000 in cryptocurrency
   donations intended for Hamas
 image: https://static.independent.co.uk/2026/09/01/21/Bar_Complaints_Pirro_87681.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 The FBI has seized more than $560,000 in cryptocurrency donations intended for Hamas, the Justice Department said Tuesday in announcing a disruption of financing for the militant group.

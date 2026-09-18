@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The White House removed Larsson's Midnight Sun from one of its reels
   after the artist called the clip "dehumanising".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b13/live/b52dd380-b2ff-11f1-8876-8f16a6fa8729.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Zara Larsson performs onstage at "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest" – December 31, 2025.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb8d/live/c9b55940-b2eb-11f1-914e-f3d377d0bf2c.jpg)

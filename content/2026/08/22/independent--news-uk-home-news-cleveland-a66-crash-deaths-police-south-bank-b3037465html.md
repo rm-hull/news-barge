@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A police vehicle and a Volkswagen Passat were involved in the fatal collision
   in the early hours of this morning
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 Multiple people have died in a crash involving a police vehicle and a car in the early hours of this morning, Cleveland Police have said.

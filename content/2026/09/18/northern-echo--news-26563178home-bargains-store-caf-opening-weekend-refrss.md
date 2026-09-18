@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: A bigger and better Home Bargains store is set to open its doors in the
   North East this weekend following months of expansion work
 image: https://www.thenorthernecho.co.uk/resources/images/21092586.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 A bigger and better Home Bargains store will open its doors in the North East this weekend following months of expansion work.

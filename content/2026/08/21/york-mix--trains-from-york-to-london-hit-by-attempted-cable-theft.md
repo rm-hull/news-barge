@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T08:53:41Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/12/lner-azuma-under-electric-wires.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 There’s disruption on the East Coast Main Line this morning (Friday, 21 August).

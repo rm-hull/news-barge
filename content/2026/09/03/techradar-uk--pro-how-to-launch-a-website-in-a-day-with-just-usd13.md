@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T12:48:18Z'
 published: '2026-09-03T00:00:00Z'
 description: Get a working website in 24 hours, no coding required
 image: https://cdn.mos.cms.futurecdn.net/pn8mi5bwjphoGzQMBBhCDP-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![a man building a website on a macbook in a minimalist office](https://cdn.mos.cms.futurecdn.net/pn8mi5bwjphoGzQMBBhCDP.jpg) 

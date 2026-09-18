@@ -9,6 +9,9 @@ description: Wong, already serving prison time for a separate case, pleaded guil
   to a second offence under Beijing’s 2020 National Security law, which could see
   his sentence extended by a minimum of three years and up to life imprisonment.
 image: https://images.euronews.com/articles/stories/09/89/78/05/1200x675_cmsv2_00578d5b-2f7a-5600-9a87-217432ff1ce2-9897805.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Wong, already serving prison time for a separate case, pleaded guilty to a second offence under Beijing’s 2020 National Security law, which could see his sentence extended by a minimum of three years and up to life imprisonment.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Newly crowned NBA champion Jalen Brunson of the New York Knicks will
   host “Saturday Night Live” when the new season begins later this month
 image: https://static.independent.co.uk/2026/09/09/18/TV_SNL_Hosts_4_9_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Newly crowned NBA champion Jalen Brunson of the New York Knicks will host “Saturday Night Live” when the new season begins later this month, with future guests including Inde Navarrette, Gracie Abrams and Katseye.

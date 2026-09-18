@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Former counter-terrorism commander Pete Newman, who responded to the
   aftermath of the July 7 bombings, will contest the seat vacated by Sir Keir Starmer
 image: https://static.independent.co.uk/2026/09/14/15/02/pete-newman.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 Reform UK has chosen a former Metropolitan Police detective to stand in the Holborn and St Pancras by-election, the party has announced.

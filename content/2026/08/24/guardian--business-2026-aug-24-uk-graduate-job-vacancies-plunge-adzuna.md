@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Just 8,383 jobs for people leaving university were advertised in July,
   says recruitment website Adzuna
 image: https://i.guim.co.uk/img/media/caf2d18afcf7734fb34f5ab2d565b6469df44bc9/396_0_3335_2668/master/3335.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25f15521baedc1c0374291de18035f1c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Graduate job vacancies in the UK have sunk to their lowest level since they started being tracked a decade ago, according to a recruiting website.

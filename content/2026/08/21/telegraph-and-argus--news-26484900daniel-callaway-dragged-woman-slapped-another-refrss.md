@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A Bradford man with a history of domestic violence has been jailed for
   two assaults on separate women.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21354989.jpg?type=og-image&xType=0&yType=707
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- History
 ---
 
 *(Image: West Yorkshire Police)*

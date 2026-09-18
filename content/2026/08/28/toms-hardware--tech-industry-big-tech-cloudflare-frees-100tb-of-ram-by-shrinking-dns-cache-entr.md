@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Per-entry memory cut by 56%, sparing Cloudflare 130 Gen 13 servers’ worth
   of DDR5.
 image: https://cdn.mos.cms.futurecdn.net/QVUrvD86z3UYAMVohMuQcD-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Cloudflare logo](https://cdn.mos.cms.futurecdn.net/QVUrvD86z3UYAMVohMuQcD.jpg) 

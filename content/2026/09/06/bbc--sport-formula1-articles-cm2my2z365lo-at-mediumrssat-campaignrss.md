@@ -10,6 +10,10 @@ description: Kimi Antonelli delivered one of the great F1 drives to win the Ital
   Grand Prix and leave Mercedes' team-mate George Russell's title hopes almost a lost
   cause.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e758/live/62a1a840-aa16-11f1-bbe8-51444f709166.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Kimi Antonelli kissing the trophy after winning the Italian Grand Prix](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e758/live/62a1a840-aa16-11f1-bbe8-51444f709166.jpg)

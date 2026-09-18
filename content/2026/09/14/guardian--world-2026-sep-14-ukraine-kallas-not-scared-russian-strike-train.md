@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Mark Rutte says attack that narrowly missed Boris Johnson and David Petraeus
   shows Vladimir Putin’s desperation
 image: https://i.guim.co.uk/img/media/24b03b484262613937c9c801abeecddccc05854c/0_936_1212_969/master/1212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ba0ac2c7e780eda8c33ad9a07631798
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The head of Nato has said a Russian drone attack on a train close to Ukraine’s border with Poland would not deter Kyiv’s western backers.

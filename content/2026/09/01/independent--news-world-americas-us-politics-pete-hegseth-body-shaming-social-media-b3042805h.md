@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Defense Secretary accused of ‘bullying’ after sharing image of Canadian
   woman on X
 image: https://static.independent.co.uk/2026/08/24/14/15/GettyImages-2288162251.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Defense Secretary Pete Hegseth has been accused of “body shaming” a youth cadet instructor after posting her picture on social media.

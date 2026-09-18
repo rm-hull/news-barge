@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Monarch tells Emmanuel Macron at the British Museum in London that the
   two nations will share a future ‘woven together’ by history and shared values
 image: https://i.guim.co.uk/img/media/f22941b851e3fad322fbd8fa5f1851e6e71ea962/0_0_3916_3133/master/3916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95f80d0ce8aa4f7d80ea2b786ee9e75b
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 The loan of the Bayeux tapestry was the “the best possible symbol” of the “entente amicale” between France and the UK, King Charles said as he visited the famous embroidered masterpiece at the British Museum in London.

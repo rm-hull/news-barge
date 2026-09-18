@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Claims that Trump and Rubio are trying to influence result have parallels
   with CIA intervention 64 years ago
 image: https://i.guim.co.uk/img/media/bfef516da23e76801d1ad9d93ede10efd70eb042/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d19ba68b9e7e6f2a6ed9d8556173ff7e
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 The year was 1962 and the Kennedy administration was desperate to swing Brazil’s congressional elections against its leftwing president, João Goulart, as a way of countering the supposed communist threat sweeping a region the US considered its back yard.

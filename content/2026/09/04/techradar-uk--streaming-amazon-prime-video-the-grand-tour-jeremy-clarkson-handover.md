@@ -10,6 +10,9 @@ description: The Grand Tour returns to Prime Video with three brand-new presente
   but don't worry — they've been given the Jeremy Clarkson seal of approval multiple
   times over.
 image: https://cdn.mos.cms.futurecdn.net/xjW62VZTykYGSTF3Yrt9Ab-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![James Engelsman, Frances Bourgeois and Thomas Holland](https://cdn.mos.cms.futurecdn.net/xjW62VZTykYGSTF3Yrt9Ab.jpg) 

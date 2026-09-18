@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Newcastle United defender Lewis Hall signs a new contract with the club
   that runs until 2031.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lewis Hall](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg)

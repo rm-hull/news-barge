@@ -13,6 +13,11 @@ description: There is much to commend in the thinking behind the ‘Rewiring the
   released at Budget time in the autumn, or that changes will take time to be introduced
   as the supertanker that is central government changes course.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNlZGE2MGM0LTk1M2UtNDQ0Zi04ZDNlLWMxN2U3NGRmMDRmODo3YmU0YWU3NS03ZDU0LTQyOGMtYjRlZS05NjVhZTBkZjY5YmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Devil will be in the detail of the Government’s plan to rewire the state - Carl Les

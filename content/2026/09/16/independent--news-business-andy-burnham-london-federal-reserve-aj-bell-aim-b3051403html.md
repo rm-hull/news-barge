@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The oil price fall provided some ‘much-needed relief’ to the market following
   an intense period that fired up inflation worries.
 image: https://static.independent.co.uk/2026/09/16/17/786c140383d99e5763e203a94bfce697Y29udGVudHNlYXJjaGFwaSwxNzg5NjYyMzM0-2.84117075.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Stocks in London rallied on Wednesday despite news of higher inflation and an expected US rate increase, as oil prices edged lower.

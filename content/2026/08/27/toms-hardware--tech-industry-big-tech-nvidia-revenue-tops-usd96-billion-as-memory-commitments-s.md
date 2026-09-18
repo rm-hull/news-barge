@@ -8,6 +8,11 @@ scraped_at: '2026-08-27T12:00:54Z'
 published: '2026-08-27T00:00:00Z'
 description: Nvidia's Vera Rubin is now in full production.
 image: https://cdn.mos.cms.futurecdn.net/RsUTZVhKxAwDnvgcvZQi5h-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/RsUTZVhKxAwDnvgcvZQi5h.jpg) 

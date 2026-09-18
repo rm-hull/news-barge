@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The card included photographs and biographical information of meeting
   participants
 image: https://static.independent.co.uk/2026/08/17/22/2026-08-17T182720Z_2051375900_RC2H0NAKN4S4_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 President Donald Trump used a cheat sheet during a White House event — a practice that Republicans sharply criticized when former President Joe Biden was in office.

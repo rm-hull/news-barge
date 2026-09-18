@@ -10,6 +10,10 @@ description: Department of Defense email reportedly invites Army commanders to n
   soldiers to appear alongside Defense Secretary Pete Hegseth – but only if they meet
   the approved ‘physical standards’
 image: https://static.independent.co.uk/2026/03/09/16/18/Secretary-Hegseth-Administers-Oath-Of-Enlistment-At-Washington-Monument-j1d89u4r.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Pentagon has reportedly sent out an email seeking troops to appear alongside Defense Secretary Pete Hegseth at a major speech later this month – but only if they meet strict fitness and grooming standards.

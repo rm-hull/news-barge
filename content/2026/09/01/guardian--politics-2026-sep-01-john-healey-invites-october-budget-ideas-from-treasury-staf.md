@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Chancellor says he wants everyone from apprentices to senior economists
   to take part in brainstorming exercise
 image: https://i.guim.co.uk/img/media/723e4182982ccbe7a6cd8b9c8761eea2b822e87b/785_67_4204_3364/master/4204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e52f592d2b90c89a7d92b3d8083ab016
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 John Healey has asked junior Treasury staff – including IT workers and apprentices – to send him ideas for his October budget, saying he will listen to all suggestions regardless of grade or profession.

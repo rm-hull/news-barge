@@ -9,6 +9,10 @@ scraped_at: '2026-09-04T18:58:37Z'
 published: '2026-09-04T00:00:00Z'
 description: The machine will likely cost hundreds of thousands of dollars.
 image: https://cdn.mos.cms.futurecdn.net/EHns78bnX5ekkg6HfvzEXa-1280-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![AMD Threadripper Halo Station at IFA 2026.](https://cdn.mos.cms.futurecdn.net/EHns78bnX5ekkg6HfvzEXa.png) 

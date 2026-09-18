@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The much-loved country singer-songwriter in her own words, following
   her death aged 80.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bdeb/live/f73e1300-a11d-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Dolly Parton smiling for the cameras while wearing a white sequined outfit at the Hollywood premiere of Joyful Noise in Los Angeles in 2012](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/bdeb/live/f73e1300-a11d-11f1-92eb-a9b3bbcf6f4a.jpg)

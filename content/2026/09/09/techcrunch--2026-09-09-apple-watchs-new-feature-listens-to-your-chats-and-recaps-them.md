@@ -7,6 +7,8 @@ scraped_at: '2026-09-09T19:15:36Z'
 published: '2026-09-09T00:00:00Z'
 description: The Siri Recap feature is similar to other note-taking apps like Granola.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Apple-watch-granola.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Apple launched a meeting notetaker on Wednesday for the Apple Watch Series 12 and Ultra 4, one of a series of new audio intelligence features that can listen to sounds through your Apple Watch.

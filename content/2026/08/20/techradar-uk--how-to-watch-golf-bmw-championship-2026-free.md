@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The planet's best golfers head to Bellerive Country Club, St Louis, in
   the second event of the FedExCup Playoffs 2026
 image: https://cdn.mos.cms.futurecdn.net/toQHjaXXtDquqeskymm6Yi-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Scottie Scheffler of the United States hits a tee shot on the 16th hole during the second round of the FedEx St. Jude Championship at TPC Southwind on August 14, 2026 in Memphis, Tennessee](https://cdn.mos.cms.futurecdn.net/toQHjaXXtDquqeskymm6Yi.jpg) 

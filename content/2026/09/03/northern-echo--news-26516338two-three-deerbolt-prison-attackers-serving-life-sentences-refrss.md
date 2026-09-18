@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Two of three inmates who have admitted involvement in a group attack
   on another prisoner at a County Durham jail are potentially both facing a…
 image: https://www.thenorthernecho.co.uk/resources/images/21402579.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: The Northern Echo)*

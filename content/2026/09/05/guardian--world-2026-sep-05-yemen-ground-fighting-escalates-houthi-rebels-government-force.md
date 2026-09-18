@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Houthi rebel offensive against government forces on west coast leads
   to some of deadliest clashes in years
 image: https://i.guim.co.uk/img/media/7d6dcaee114add9c2041df69f3c3f1819d8d0fcd/245_229_3639_2911/master/3639.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a368bf70f91a6ec59ce45eff107e3344
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 Clashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed more than 60 people, including civilians, as the Houthis pushed forward with a military offensive on Yemen’s western coast.

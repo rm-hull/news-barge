@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Four-time F1 world champion Max Verstappen passes 100 amateur drivers
   in just 14 laps in an exhibition go-kart race at Silverstone.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg
+categories:
+- UK
+- News & Politics
+- Video Gaming
+- Sports
 ---
 
 ![Red Bull's Max Verstappen in his go-kart at Silverstone](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg)

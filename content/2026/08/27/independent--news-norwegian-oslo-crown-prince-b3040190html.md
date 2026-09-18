@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Norwegian King Harald is in very serious condition as his health deteriorates,
   according to palace officials
 image: https://static.independent.co.uk/2026/08/18/08/Norway_Royals_51994.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Norwegian King Harald's health is in very serious condition, palace says

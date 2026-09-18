@@ -9,6 +9,10 @@ description: Ukrainian intelligence said Moscow has already decided to call up 3
   this year and 300,000 in 2027, driven by massive losses and a collapse in voluntary
   recruitment. Kyiv expects the announcement to come after September's elections.
 image: https://images.euronews.com/articles/stories/09/89/23/48/1200x675_cmsv2_2c409320-2f7b-5279-bdc4-32cb79d36837-9892348.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Ukrainian intelligence said Moscow has already decided to call up 300,000 this year and 300,000 in 2027, driven by massive losses and a collapse in voluntary recruitment. Kyiv expects the announcement to come after September's elections.

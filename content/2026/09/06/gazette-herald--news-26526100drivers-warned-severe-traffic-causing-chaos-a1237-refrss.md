@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Drivers have been warned of severe traffic along a major road on York’s
   Outer Ring Road.
 image: https://www.gazetteherald.co.uk/resources/images/21416786.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Drivers have been warned of severe traffic along a major road on York’s outer ring road.

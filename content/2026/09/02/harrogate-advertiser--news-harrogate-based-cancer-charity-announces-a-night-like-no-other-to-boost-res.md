@@ -9,6 +9,10 @@ description: Yorkshire Cancer Research is encouraging people in the region to ex
   a spectacular gala dinner at Castle Howard in March 2027 and help write the next
   chapter of cancer research in the county.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/02/08/Yorkshire_Cancer_Research_is_encouraging_people_in_Yorkshire_to_experience_a_spectacular_gala_dinner-2210e96b32b18c40.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Science
 ---
 
 # Harrogate-based cancer charity announces A Night Like No Other to boost research

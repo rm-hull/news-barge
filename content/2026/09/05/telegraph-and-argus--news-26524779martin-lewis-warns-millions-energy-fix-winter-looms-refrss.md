@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Martin Lewis has issued advice to households on whether to fix energy
   bills now, as wholesale prices remain high and winter approaches.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21102814.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

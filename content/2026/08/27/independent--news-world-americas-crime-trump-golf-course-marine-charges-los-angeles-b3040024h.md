@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: A pretrial evaluation found Jeanine John Taele was not mentally fit to
   stand trial
 image: https://static.the-independent.com/2026/08/27/01/2281958839..?trim=49,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A judge on Wednesday suspended criminal proceedings against a former U.S. Marine who was arrested at President Donald Trump’s Los Angeles-area golf course with a gun and ammunition in his vehicle. He is now undergoing a psychiatric evaluation.

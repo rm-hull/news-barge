@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Celine Dion has returned to the stage, performing her first full concert
   in over six years
 image: https://static.independent.co.uk/2026/09/13/16/France_Celine_Dion_19664.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 She hit the high F, held it, then blew out a breath and turned to look back at the band — a quick, disbelieving glance toward her musical director. Some 30,000 people read it before they had finished screaming: Celine Dion did it.

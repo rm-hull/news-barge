@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford dance school is celebrating its three-month anniversary after
   performers took to the stage at Disneyland Paris.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421932.jpg?type=og-image&xType=0&yType=500
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Ockerby Academy has marked three months on Bingley High Street after performing at Disneyland Paris.

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: With Argentina's President Milei promising "winds of change" over the
   Falklands, will Donald Trump shift his stance on British rule?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Argentine President Javier Milei, wearing a leather jacket, stands smiling with a closed fist raised against a black backdrop.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg)

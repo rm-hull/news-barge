@@ -10,6 +10,10 @@ description: Countess of Chester Hospital former chief executive Tony Chambers, 
   medical director Ian Harvey and former director of nursing Alison Kelly all gave
   evidence at the Thirwall Inquiry
 image: https://static.independent.co.uk/2026/04/23/13/081d6398fdef3962eabcc15a0294ce13Y29udGVudHNlYXJjaGFwaSwxNzc3MDMyNzY3-2.73364058.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Former senior managers at the hospital where Lucy Letby murdered seven babies and attempted to kill a further seven gave evidence at the Thirwall Inquiry, which investigated how they handled the case.

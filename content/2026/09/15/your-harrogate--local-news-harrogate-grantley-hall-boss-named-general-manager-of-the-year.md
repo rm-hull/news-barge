@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Grantley Hall’s General Manager has won a national hospitality award,
   three years after taking charge of the Ripon hotel.
 image: https://mmo.aiircdn.com/409/6aa91a827878f199d15.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa91a827878f199d15.jpg) 

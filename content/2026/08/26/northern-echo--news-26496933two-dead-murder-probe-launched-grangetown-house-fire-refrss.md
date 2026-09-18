@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Two people have died and a murder investigation has been launched following
   a “devastating” house fire in the early hours of this morning.
 image: https://www.thenorthernecho.co.uk/resources/images/21372209.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two people have died and a murder investigation has been launched following a “devastating” house fire in the early hours of this morning.

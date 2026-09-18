@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Kepler Computing claims a new approach to chip design—and a proprietary
   material—can help end the supply bottlenecks that have sent memory prices surging.
 image: https://media.wired.com/photos/6a99ec2e5d2ca173f400bbc3/191:100/w_1280,c_limit/00-kepler-wafer_memory_technology.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 An ambitious chip startup that has spent more than seven years quietly trying to redesign the architecture for computer memory has just come out of stealth mode and believes its new approach can help ease the global memory-chip shortage—provided it can produce its technology at scale.

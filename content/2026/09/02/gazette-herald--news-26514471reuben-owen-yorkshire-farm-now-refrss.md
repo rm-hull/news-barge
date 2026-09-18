@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Reuben Owen has built a successful career since Our Yorkshire Farm, from
   running his own machinery business to starring in his own Channel 5 series.
 image: https://www.gazetteherald.co.uk/resources/images/21391457.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Reuben Owen first became a familiar face to millions of viewers as the machinery-loving son of Amanda and Clive Owen on Our Yorkshire Farm.

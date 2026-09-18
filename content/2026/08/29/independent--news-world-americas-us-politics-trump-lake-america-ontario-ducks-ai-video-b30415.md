@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: The post came after the president signed an executive order renaming
   Lake Ontario ‘Lake America’ amid a bitter tariff war with Canada
 image: https://static.independent.co.uk/2026/08/29/16/50/Screenshot-2026-08-29-at-12-17-02-PM.png?trim=136,0,306,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump on Saturday posted an apparently AI-generated video depicting an army of buff, bequiffed and heavily-armed “Donald Ducks” patrolling the shores of “Lake America.”

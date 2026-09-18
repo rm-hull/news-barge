@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Art detectives and security experts say the number of museum thefts across
   Europe are increasing - with some thieves inspired.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d48/live/a7c0a8c0-ac48-11f1-96a2-2f464854ded4.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 ![A composite image of two photos. On the left a local policeman with the words POLICE on his back stands next to a hole in the outer fence of the Renoir Museum. There is police tape across the fence. On the right is a painting of a woman sitting on an old-fashioned chaise-longue. She is wearing a floaty white dress with a piece of blue fabric as a belt.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/4d48/live/a7c0a8c0-ac48-11f1-96a2-2f464854ded4.png)

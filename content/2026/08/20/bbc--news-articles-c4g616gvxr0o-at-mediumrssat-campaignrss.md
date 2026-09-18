@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Clément Vandenkerckhove was quietly brought into Prince Laurent's family
   at a town hall ceremony.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A close-up of two men both wearing glasses](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ea44/live/b941b6e0-9c7e-11f1-9653-11ace0f67d4d.jpg)

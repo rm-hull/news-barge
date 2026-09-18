@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A YORKSHIRE-based defibrillator charity has launched a new self-deployment
   scheme after raising concerns about changes to the way public access…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21419160.jpg?type=og-image&xType=0&yType=238
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: submitted)*

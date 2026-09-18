@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: TICKETS to see the Bayeux Tapestry in London are sold out until December
   and such has been the buzz of excitement about the opening of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21426507.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 TICKETS to see the Bayeux Tapestry in London are sold out until December and such has been the buzz of excitement about the opening of the exhibition this week, the next batch are expected to sell out very quickly when they are released on October 21.

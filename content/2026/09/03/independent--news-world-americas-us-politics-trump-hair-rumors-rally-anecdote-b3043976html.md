@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: President Donald Trump seeks to dismiss gossip over recent dye job but
   misremembers key detail
 image: https://static.independent.co.uk/2026/09/03/09/2292689084..?trim=593,201,6,698&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has addressed the interest in his hair, offering an anecdote intended to dispel the idea he potentially wears a wig – which did not entirely add up.

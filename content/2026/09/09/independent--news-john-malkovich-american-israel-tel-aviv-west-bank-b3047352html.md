@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: John Malkovich has canceled a planned performance in Israel after promoters
   circulated a false quote attributed to him
 image: https://static.independent.co.uk/2026/09/09/14/Israel_Malkovich_98875.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 John Malkovich has canceled a planned performance in Israel after promoters circulated a quote attributed to the American actor that he said was completely false. The producer of the show acknowledged the mistake, citing “human error.”

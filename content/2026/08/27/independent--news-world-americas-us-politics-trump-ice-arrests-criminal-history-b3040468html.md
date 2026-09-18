@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Trump’s mass deportation campaign increasingly targets legal immigration
   pathways to boost arrests and removals
 image: https://static.independent.co.uk/2026/08/27/15/2026-08-27T121728Z_1931352203_RC2Z6NAC5CK8_RTRMADP_3_USA-IMMIGRATION-CONNECTICUT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s administration hit record highs of monthly immigration enforcement arrests this summer, with more than 43,000 people arrested in June and another 50,000 arrested in July.

@@ -8,6 +8,11 @@ scraped_at: '2026-09-02T12:44:40Z'
 published: '2026-09-02T00:00:00Z'
 description: More than two dozen of Aesto's clients affected
 image: https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Health & Fitness
 ---
 
 ![Laboratory](https://cdn.mos.cms.futurecdn.net/9DcUT2RtbvGV8dbUy5P8MA.jpg) 

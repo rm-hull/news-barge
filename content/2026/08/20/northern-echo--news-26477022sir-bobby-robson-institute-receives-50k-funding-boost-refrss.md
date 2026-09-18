@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A North East building society has pledged further support to pioneering
   cancer research after helping raise more than £3 million for a charity…
 image: https://www.thenorthernecho.co.uk/resources/images/21339875.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

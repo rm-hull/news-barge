@@ -9,6 +9,10 @@ description: OpenAI recently estimated its Cursor partnership would make more th
   $1 billion in revenue a year, WIRED has learned. It still walked away after Elon
   Musk’s SpaceX acquired the AI coding startup.
 image: https://media.wired.com/photos/6a9996ebd275abfc723b2792/191:100/w_1280,c_limit/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 In a late-night blog post last Friday, OpenAI said it would wind down its partnership with Cursor, the startup behind one of the most popular AI coding tools on the market. The reason OpenAI gave for the decision is effectively that it can’t trust Elon Musk, whose company SpaceX recently acquired Cursor in a $60 billion deal.

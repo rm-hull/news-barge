@@ -8,6 +8,11 @@ scraped_at: '2026-08-19T01:49:10Z'
 published: '2026-08-18T00:00:00Z'
 description: A four bedroom detached home has been put on the market for £875,000.
 image: https://www.thenorthernecho.co.uk/resources/images/21335378.jpg?type=og-image&xType=0&yType=33
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 An "exceptional" four-bedroom detached home has been put on the market for £875,000.

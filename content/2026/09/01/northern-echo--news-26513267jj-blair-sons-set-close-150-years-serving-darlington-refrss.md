@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A family-run Darlington greengrocer which has served generations of shoppers
   for more than 150 years is set to close its doors just months after the…
 image: https://www.thenorthernecho.co.uk/resources/images/21398371.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A family-run Darlington greengrocer which has served generations of shoppers for more than 150 years is set to close its doors just months after the death of its long-standing owner, Robin Blair.

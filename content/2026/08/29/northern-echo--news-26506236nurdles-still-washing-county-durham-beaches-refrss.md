@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Durham County Council has warned beachgoers about what to do if they
   spot the nurdles, which have been seen at Crimdon, Seaham Hall beach and the…
 image: https://www.thenorthernecho.co.uk/resources/images/21387680.jpg?type=og-image&xType=0&yType=211
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Nurdles are continuing to wash up on County Durham beaches more than a month after one billion plastic pellets are believed to have spilt into the River Tyne following a crash between two vessels.

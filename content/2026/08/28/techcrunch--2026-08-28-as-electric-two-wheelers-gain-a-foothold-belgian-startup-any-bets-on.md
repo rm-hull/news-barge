@@ -10,6 +10,9 @@ description: Launched by Belgian startup Any, LUV1 is a modular electric motorcy
   with 120 liters of cargo space that can be used to carry bags, work equipment, or
   even pets.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A trip to Europe often means adjusting to a lot of walking, but don’t let it fool you: cars are still the default for urban mobility. However, entrepreneurs are seeking to challenge this status quo — and the first step is understanding why it is so ingrained.

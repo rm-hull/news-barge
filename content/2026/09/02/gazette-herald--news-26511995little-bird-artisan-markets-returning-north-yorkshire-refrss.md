@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Little Bird Made will host its first events of the season in North Yorkshire,
   at Knaresborough Castle and Harrogate Valley Gardens.
 image: https://www.gazetteherald.co.uk/resources/images/21396595.jpg?type=og-image&xType=0&yType=10
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A weekend of outdoor artisan markets is set to celebrate the start of autumn with a showcase of handmade goods.

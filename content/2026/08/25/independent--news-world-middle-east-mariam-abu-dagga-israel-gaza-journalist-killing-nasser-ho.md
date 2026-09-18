@@ -10,6 +10,10 @@ description: Mariam Abu Dagga, a mother and journalist, was killed in a 2025 Isr
   out of Gaza but stayed to cover the slaughter. Chief international correspondent
   Bel Trew reports
 image: https://static.independent.co.uk/2026/08/19/15/47/IMG-20260804-WA0063.jpeg?trim=320,0,320,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Reaching into the body bag, and gently cradling her face, a family member places a mobile phone next to Mariam Abu Dagga's ear.

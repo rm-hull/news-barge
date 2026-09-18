@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Restaurant menus with AI-generated food images are going viral for their
   off-putting aesthetic. But AI’s impact on modern menus runs even deeper.
 image: https://media.wired.com/photos/6a97528b0b666cfc322885bf/191:100/w_1280,c_limit/AI-Menu-Slop-Just-the-Surface-Gear.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 I can’t stop staring at the AI-slop images of Mexican food I see during my morning walk to work. On the menu posted outside, the taco truck displays lunch options that appear uncanny and unappetizing, as if an alien who’s never eaten human food before drew a taco from memory. This food truck is not alone in putting AI-generated images on its menu. It’s everywhere.

@@ -10,6 +10,9 @@ description: Spain's national intelligence agency issued multiple warnings befor
   the Ceuta border crisis about a potential mass crossing of migrants from Morocco
   into the Spanish exclave in late July
 image: https://static.independent.co.uk/2026/09/09/20/Migration_Spain_Ceutra__1_66.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Spain's national intelligence agency issued multiple warnings before the Ceuta border crisis about a potential mass crossing of migrants from Morocco into the Spanish exclave in late July, according to declassified documents released by the government on Wednesday.

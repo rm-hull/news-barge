@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Reeth Agricultural Show returned as visitors, farmers and competitors
   gathered for one of the Yorkshire Dales’ best-loved annual events.
 image: https://www.thenorthernecho.co.uk/resources/images/21393518.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 The Swaledale community came together on Bank Holiday Monday for the 112th Reeth Agricultural Show, as visitors, farmers and competitors gathered for one of the Yorkshire Dales’ best-loved annual events.

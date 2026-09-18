@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Bradford Council bosses are “actively looking” for a new tip provision
   in a town – but say they “can’t give a timetable” for when one…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383911.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Bradford Council)*

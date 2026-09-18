@@ -7,6 +7,8 @@ scraped_at: '2026-09-04T18:59:00Z'
 published: '2026-09-04T00:00:00Z'
 description: Manual users have until November 2 to update their configurations
 image: https://cdn.mos.cms.futurecdn.net/UDKrY9EKLb3LrPPBfUYRcF-720-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Mullvad VPN working on a laptop](https://cdn.mos.cms.futurecdn.net/UDKrY9EKLb3LrPPBfUYRcF.jpg) 

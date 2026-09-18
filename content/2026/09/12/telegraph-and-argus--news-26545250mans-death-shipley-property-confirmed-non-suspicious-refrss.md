@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Police have confirmed the death of a man at a property in Shipley is
   being treated as non-suspicious.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: ONE lucky North-East child will win the memory of a lifetime this Christmas
   – the chance to ride on Santa’s sleigh when it’s unveiled later…
 image: https://www.thenorthernecho.co.uk/resources/images/21280040.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ONE lucky North-East child will win the memory of a lifetime this Christmas – the chance to ride on Santa’s sleigh when it’s unveiled later this year.

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A planned £500,000 football pitch could transform opportunities for women
   and girls in Knaresborough, a club official has said.
 image: https://mmo.aiircdn.com/409/6aa274d0c9caa0a7607.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa274d0c9caa0a7607.jpg) 

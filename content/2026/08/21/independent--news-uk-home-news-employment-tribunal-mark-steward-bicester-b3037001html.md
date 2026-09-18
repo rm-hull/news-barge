@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A headteacher claimed that Mark Steward was ‘unwilling to take instruction
   from women’
 image: https://static.independent.co.uk/2026/08/21/11/31/langford-b375f51c.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A school caretaker has been awarded £32,000 following allegations that he refused to accept direction from women after he raised concerns over health and safety matters with female superiors.

@@ -10,6 +10,11 @@ published: '2026-08-26T00:00:00Z'
 description: The billionaire compared 'Human Reserved' jobs to nature preserves, which
   need protection and conservation.
 image: https://cdn.mos.cms.futurecdn.net/r2aahEbd6meZwywFsrHpwH-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![a photo of Bill Gates](https://cdn.mos.cms.futurecdn.net/r2aahEbd6meZwywFsrHpwH.png) 

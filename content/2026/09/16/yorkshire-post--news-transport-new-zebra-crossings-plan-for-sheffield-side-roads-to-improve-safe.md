@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A scheme to test out improving road safety by putting zebra crossings
   on side roads in Sheffield is being trialled in the city.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMzMWEzNjdiLTdiMGYtNDg2OC1hMzJhLTU2NWUwMWFlMGRmMDo1YjdmNjQwMy04YmY3LTQwZmItOGM4My0xMmUxZWI2NjVlNTY=.jpg?crop=3:2,smart&trim=&width=1149&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # New zebra crossings plan for Sheffield side roads to improve safety for pedestrians

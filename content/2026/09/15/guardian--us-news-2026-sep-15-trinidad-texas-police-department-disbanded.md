@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Disbanding of department in Trinidad comes after arrest of a resident
   for posting about issues with local water supply
 image: https://i.guim.co.uk/img/media/b23ab43a5a1fd3a27636e95a8f8d19360930662f/0_0_1088_871/master/1088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=587ee2995a6ba0411bfc0ac728820590
+categories:
+- UK
+- News & Politics
 ---
 
 A police department in Texas that arrested a local resident for complaining on social media about their city’s contaminated water supply has been ordered closed after failing to prove it provided any benefit to the community.

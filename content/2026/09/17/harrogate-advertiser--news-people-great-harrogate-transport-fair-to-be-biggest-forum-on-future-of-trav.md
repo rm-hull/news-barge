@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Key leaders in transport are coming to Harrogate next week for the biggest
   forum in decades about what the future of travel in the town may look like.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ5ODhiOTY1LWY2NGUtNDM1Ny1iNDE3LTIwMWYwZDQ1ZGRiODo3MmNjNjk0Zi00MmZhLTQ1NzktODEyYy0yMjZjNTA2ZTE0N2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Travel
+- News & Politics
+- Society & Culture
 ---
 
 # Great Harrogate Transport Fair to be biggest forum on future of travel in the town for years

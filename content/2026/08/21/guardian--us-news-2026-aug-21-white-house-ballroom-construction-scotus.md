@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Chief justice signs temporary order to permit work while court considers
   emergency appeal from administration
 image: https://i.guim.co.uk/img/media/b0f676de5ee266f8b3f23ad41d8de14a44e1895c/467_0_4681_3744/master/4681.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c4f7c2114bfd5c676e42dee7933551c
+categories:
+- UK
+- News & Politics
+- Law & Justice
 ---
 
 The US supreme court has allowed Donald Trump to continue construction of his controversial White House ballroom for now, temporarily pausing a lower court order that would halt much of the project.

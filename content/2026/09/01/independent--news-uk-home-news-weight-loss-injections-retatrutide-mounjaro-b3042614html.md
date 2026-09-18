@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T13:29:27Z'
 published: '2026-09-01T00:00:00Z'
 description: Retatrutide could help people lose almost 25 per cent of their body weight
 image: https://static.independent.co.uk/2026/06/09/08/01KP8KSF35KH4TFJGJFD2SN9M8.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 A weight-loss jab, which is not yet legally available in the UK, may be more effective than Mounjaro, according to a new study.

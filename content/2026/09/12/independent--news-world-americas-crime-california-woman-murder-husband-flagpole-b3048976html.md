@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Vicky Kim, the woman charged with murder, has reportedly had several
   domestic violence cases against her that involve her husband
 image: https://static.the-independent.com/2026/09/12/1/17/Screenshot-2026-09-11-at-9-11-14-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A woman has been accused of beating her husband to death with a flagpole in a luxury California gated community.

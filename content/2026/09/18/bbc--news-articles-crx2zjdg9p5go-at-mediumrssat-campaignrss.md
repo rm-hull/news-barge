@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: The suspect reverse-rammed a police car and crashed into parked cars
   while trying to escape.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a5b/live/b0649390-b36b-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
+- True Crime
 ---
 
 Police officer given lift by driver in Nissan Micra mid-chase

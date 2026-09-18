@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: At least 20 soldiers in a Georgia battalion have taken up an offer amid
   re-enlistment challenges and declining morale
 image: https://static.independent.co.uk/2026/08/19/17/1825453237..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Army soldiers in a combat engineering unit in Georgia can get four days off to play the new *Grand Theft Auto* video game when it’s released in November — but there’s a catch: They must agree to sign up for more years in service.

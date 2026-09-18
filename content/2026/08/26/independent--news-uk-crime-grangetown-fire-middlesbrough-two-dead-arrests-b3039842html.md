@@ -9,6 +9,11 @@ description: A child is one of two people who died in a house fire near Middlesb
   less than a mile from the site of a crash on the A66 which killed seven people,
   police have said.
 image: https://static.independent.co.uk/2023/08/25/15/3_2.png?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A child is one of two people who died in a house fire near Middlesbrough less than a mile from the site of a crash on the A66 which killed seven people, police have said.

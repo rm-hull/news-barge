@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Now is the time to impose real and immediate economic costs on Israel
   for its actions in Gaza and the West Bank, writes world affairs editor Sam Kiley
 image: https://static.independent.co.uk/2026/08/18/12/08/FB_IMG_1785862180404-25563727.jpeg?trim=0,0,455,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 It is impossible to read the chilling reporting of the killing of Mariam Abu Dagga in a double-tap Israeli attack on the Nasser hospital in Gaza without giving in to righteous, visceral rage.

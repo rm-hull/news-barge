@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Harrogate MP Tom Gordon has announced a dual fundraising initiative for
   St Michael’s Hospice, combining an upcoming parliamentary coffee morning with his
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Great-North-Run-1.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **Harrogate MP Tom Gordon has announced a dual fundraising initiative for St Michael’s Hospice, combining an upcoming parliamentary coffee morning with his fourth consecutive appearance at the Great North Run.**

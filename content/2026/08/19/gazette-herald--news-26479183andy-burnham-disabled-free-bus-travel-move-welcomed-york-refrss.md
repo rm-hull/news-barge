@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The expansion of free bus travel for disabled people has been welcomed
   in York.
 image: https://www.gazetteherald.co.uk/resources/images/21343956.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 THE expansion of free bus travel for disabled people has been welcomed in York.

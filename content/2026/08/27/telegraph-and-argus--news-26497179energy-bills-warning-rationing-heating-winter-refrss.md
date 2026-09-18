@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The October energy price cap will rise by 4. Find out what campaigners
   are warning about and what households can do to cut costs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371984.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

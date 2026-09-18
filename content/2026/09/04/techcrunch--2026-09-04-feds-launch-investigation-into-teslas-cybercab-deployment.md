@@ -8,6 +8,8 @@ published: '2026-09-04T00:00:00Z'
 description: The investigation was launched just a few hours after Tesla put the first
   production Cybercabs on the road in Austin.
 image: https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 The United States’ top automotive safety regulator has opened an investigation into Tesla’s decision to launch its new Cybercab on public roads with no steering wheel or pedals.

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: IPVanish has just launched a beta program to give testers a direct line
   to shape what it ships next
 image: https://cdn.mos.cms.futurecdn.net/uRjGLuUVadcWwMQTmRQuZF-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![IPVanish VPN running on a Macbook Pro](https://cdn.mos.cms.futurecdn.net/uRjGLuUVadcWwMQTmRQuZF.jpg) 

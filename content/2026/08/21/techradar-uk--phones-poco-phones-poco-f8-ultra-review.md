@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: The Poco F8 Ultra proves that flagship performance no longer demands
   a huge price tag.
 image: https://cdn.mos.cms.futurecdn.net/nxmQM7C9LWftex2xMFQPiU-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

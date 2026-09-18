@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Furniture has been ripped from a whitewashed restaurant and bar weeks
   after a popular chain closed several UK sites.
 image: https://www.thenorthernecho.co.uk/resources/images/21399962.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: THE NORTHERN ECHO)*

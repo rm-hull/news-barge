@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Bus passengers are in for a number of timetable changes across Darlington
   and Stockton.
 image: https://www.thenorthernecho.co.uk/resources/images/21448184.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: SARAH CALDECOTT)*

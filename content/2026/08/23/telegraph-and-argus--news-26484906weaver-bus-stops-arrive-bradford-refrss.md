@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Take a look at the new Weaver bus stops appearing in Bradford as West
   Yorkshire begins rolling out its new integrated transport network.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355178.jpg?type=og-image&xType=0&yType=64
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 A new transport network is beginning to take shape with the first visible changes now in place.

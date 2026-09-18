@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T19:25:44Z'
 published: '2026-09-08T00:00:00Z'
 description: TechRadar Gaming's Best of Gamescom 2026 awards
 image: https://cdn.mos.cms.futurecdn.net/tnNYagk8oPzEtTvXqNCdu4-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Three ay artwork showing the Rayman, Witcher 3, and Blood of Dawnwalker stands at Gamescom 2026 with the TechRadar Gaming Best of Gamescom 2026 awards badge on top](https://cdn.mos.cms.futurecdn.net/tnNYagk8oPzEtTvXqNCdu4.jpg) 

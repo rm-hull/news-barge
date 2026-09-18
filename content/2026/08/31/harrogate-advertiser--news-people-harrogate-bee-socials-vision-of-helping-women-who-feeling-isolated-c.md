@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: A women’s community in Harrogate that has grown to more than 1,000 members
   in an extraordinary opening 12 months is celebrating its first birthday tomorrow.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZlMjk1ZDU5LTZiZjEtNDdhYi1hZWQxLTVlYTI3YmQ2Mzc3OTplZmYyZDI1Mi00ODQ2LTRkMWItOWU2MC1iNzVlOThmY2YzYjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Harrogate Bee Social's vision of 'helping women who feeling isolated' creates thriving community of 1,000 members

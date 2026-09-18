@@ -9,6 +9,11 @@ description: While rivers and lakes are home for more than ten per cent of all k
   animal species, despite covering less than one per cent of the Earth's surface,
   almost a quarter of all freshwater species are threatened with extinction.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3NDA0MWMzLWQ4OWItNDc5Ny1hODY3LWY0NzRjOWRmMTM1Njo2MGM3MTU3My1lNTk1LTQwYWUtYWIwYi0wYWYzOTJlMzYxMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Breaking down the barriers for fish in Yorkshire's rivers

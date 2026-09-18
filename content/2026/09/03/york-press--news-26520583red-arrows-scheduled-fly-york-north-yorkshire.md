@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The RAF aerobatic team is scheduled for a formation transit through the
   Vale of York between 5.26pm and 6.30pm according to unofficial sources.
 image: https://www.yorkpress.co.uk/resources/images/20754145.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Eastbourne Borough Council )*

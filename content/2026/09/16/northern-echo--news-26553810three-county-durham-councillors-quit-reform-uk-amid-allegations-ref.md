@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Three more councillors have quit Reform UK at Durham County Council,
   leaving them with a majority if just three ahead of a crucial meeting to decide…
 image: https://www.thenorthernecho.co.uk/resources/images/19916431.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Reform UK's majority on Durham County Council has been cut to just three councillors after another trio of members quit the party ahead of a crucial meeting on plans to find £20 million of savings this year.

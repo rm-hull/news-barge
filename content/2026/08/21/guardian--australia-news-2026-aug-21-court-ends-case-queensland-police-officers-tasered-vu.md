@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Court finds ‘defects’ in investigation of two senior constables charged
   over 2024 incident at Mareeba watch house in far north Queensland
 image: https://i.guim.co.uk/img/media/9a5c1dc163046404ae01194d410bc7fd23f2b181/131_0_3494_2796/master/3494.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a04928ae9155a857576ed9ff4029071a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two police officers charged with criminal offences over the use of capsicum spray, Tasers and restraints on a “cognitively and emotionally vulnerable” First Nations man in police custody have had the case against them permanently stayed, after a court found “defects” in the subsequent investigation.

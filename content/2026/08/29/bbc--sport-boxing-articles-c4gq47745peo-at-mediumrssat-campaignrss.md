@@ -10,6 +10,10 @@ description: Chantelle Cameron produced one of the finest displays of her career
   beat Mikaela Mayer and add the WBA and WBC light middleweight titles to her WBO
   belt.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3075/live/1cfb9960-a3f2-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mikaela Mayer (left) and Chantelle Cameron](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/3075/live/1cfb9960-a3f2-11f1-aed2-8d6da8d75094.jpg)

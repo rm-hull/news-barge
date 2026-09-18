@@ -9,6 +9,10 @@ description: The sculptors of the White House's new ballroom façade remain unna
   Indiana limestone will be worked in Italy, likely in Carrara, Tuscany, the historic
   centre of marble craft.
 image: https://images.euronews.com/articles/stories/09/88/45/55/1200x675_cmsv2_455f3d83-481b-5074-b5a8-8e310707b83c-9884555.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The sculptors of the White House's new ballroom façade remain unnamed. Indiana limestone will be worked in Italy, likely in Carrara, Tuscany, the historic centre of marble craft.

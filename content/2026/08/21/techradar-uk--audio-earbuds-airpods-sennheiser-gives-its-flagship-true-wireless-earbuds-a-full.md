@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Clearly aiming for the wireless earbud supremacy, Sennheiser has rebuilt
   its flagship buds from the ground up.
 image: https://cdn.mos.cms.futurecdn.net/a6hH4xeci4tapmcWhbrWEd-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Two-way split image of a man wearing the Sennheiser Momentum True Wireless 5 earbuds, and a close-up shot of the copper Sennheiser Momentum True Wireless 5 earbuds.](https://cdn.mos.cms.futurecdn.net/a6hH4xeci4tapmcWhbrWEd.jpg) 

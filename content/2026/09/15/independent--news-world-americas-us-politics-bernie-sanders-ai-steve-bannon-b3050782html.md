@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Trump has downplayed concerns about AI following warnings from industry
   leaders over the weekend regarding potential misuse
 image: https://static.independent.co.uk/2026/09/15/20/2026-09-15T193930Z_1672458847_RC2UJNAZB4WT_RTRMADP_3_USA-AI-SAFETY.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Progressive U.S. Senator Bernie Sanders and Steve Bannon, a close ally of President Donald Trump, called for new restrictions on artificial intelligence systems Tuesday, forming an unexpected alliance around shared fears that the technology poses a threat to human safety.

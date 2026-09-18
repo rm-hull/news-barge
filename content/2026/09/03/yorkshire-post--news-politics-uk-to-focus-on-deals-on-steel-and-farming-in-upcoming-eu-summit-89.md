@@ -9,6 +9,12 @@ description: The Prime Minister said striking a “good deal for British steel�
   “imperative”, after Liberal Democrats leader Sir Ed Davey urged him to “join the
   single market”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/12/cs-332cfdb7-54eb-4ad6-b0f8-f8307f64f5f4.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 # UK to focus on getting 'good deal' on steel and farming in upcoming EU summit

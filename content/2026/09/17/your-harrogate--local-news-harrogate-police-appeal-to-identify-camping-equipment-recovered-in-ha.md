@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Police are appealing for help to identify a trolley and camping equipment
   believed to have been stolen from a vehicle in the Harrogate area.
 image: https://mmo.aiircdn.com/409/6aab9126166fc8f9a7b.jpg
+categories:
+- Local
+- Harrogate
+- Outdoors & Nature
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab9126166fc8f9a7b.jpg) 

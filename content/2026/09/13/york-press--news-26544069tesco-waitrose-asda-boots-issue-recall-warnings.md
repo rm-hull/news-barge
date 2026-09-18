@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Health concerns have resulted in a number of products being pulled from
   UK shelves, including food items, clothing items and skincare products.
 image: https://www.yorkpress.co.uk/resources/images/20345021.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
+- Beauty & Skincare
 ---
 
 *(Image: Getty)*

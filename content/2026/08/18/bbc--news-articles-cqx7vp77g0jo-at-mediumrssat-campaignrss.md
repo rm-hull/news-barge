@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Most of the cases were in England in recent weeks, linked to eating imported
   eggs, experts believe.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3f2/live/595da390-9af5-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![A box of eggs](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f3f2/live/595da390-9af5-11f1-930b-57cfba7235f9.jpg)

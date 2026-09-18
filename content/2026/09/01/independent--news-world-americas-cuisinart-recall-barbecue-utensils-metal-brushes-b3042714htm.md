@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Swallowing the brushes could cause ‘serious internal injuries that could
   require surgery,’ a government agency says
 image: https://static.independent.co.uk/2026/09/01/11/49/Screenshot-2026-09-01-at-12-58-18.png?trim=33,0,33,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Millions of Cuisinart barbecue utensils have been recalled after several customers ingested their metal brushes.

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: A CRISPR-based tool can perform sex reversal on male mouse embryos, reliably
   turning them into healthy females – a feat that could be valuable for conservation
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308726176.jpg?w=840)

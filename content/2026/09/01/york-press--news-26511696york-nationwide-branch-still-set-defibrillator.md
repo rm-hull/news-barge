@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The installation of life-saving equipment in York is still set to go
   ahead, the company behind the plans has confirmed.
 image: https://www.yorkpress.co.uk/resources/images/21004800.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Nationwide)*

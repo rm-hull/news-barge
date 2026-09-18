@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Drier summers are having a profound impact on Yorkshire’s wild animals,
   stretching rescue charities to their limits, reports Stuart Minting.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM4MzllYjc0LTFiNDQtNDY4OC05YTdiLTNkYWQyZjA5NWVlYToyN2UxNWI1YS02MWVlLTRiM2ItODExNS0yYTc3ZDAyYjliNmM=.jpg?crop=3:2,smart&trim=&width=1150&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # How this year's dry summer is having a profound impact on Yorkshire's wild animals

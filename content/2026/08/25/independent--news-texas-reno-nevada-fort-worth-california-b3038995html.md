@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Evacuations are being ordered in rural Texas where a wildfire has quickly
   expanded to cover more than 78 square miles
 image: https://static.independent.co.uk/2026/08/25/16/Western_Wildfires_37227.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Evacuations were being ordered Tuesday in rural Texas where a wildfire has ballooned in size, burning through ranchland and forcing schools to delay or cancel classes.

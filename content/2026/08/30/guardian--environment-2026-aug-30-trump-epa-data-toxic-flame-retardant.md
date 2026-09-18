@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Widely used chemical TBBPA may present a danger to US public, and especially
   children, independent research finds
 image: https://i.guim.co.uk/img/media/7be32d2dd4a0d762a8cfcf52aa5d0a4bb524f54d/765_419_4473_3579/master/4473.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ccb814a0097b8913cc02ba8dce5a22b
+categories:
+- UK
+- News & Politics
 ---
 
 The Environmental Protection Agency is manipulating safety data around a highly toxic flame retardant deployed across the US economy, public health advocates allege.

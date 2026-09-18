@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The campaign ad, circulated by the National Republican Senatorial Committee,
   has been viewed more than 5.6 million times on YouTube
 image: https://static.independent.co.uk/2026/08/27/20/34/FotoJet.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The relatives of an Ohio family killed in a truck crash have demanded a Republican senator stop using the names and photos of their loved ones in a campaign advertisement promoting stricter immigration policies.

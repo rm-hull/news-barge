@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: B&M’s store at Hylton Riverside Retail Park in Sunderland will reopen
   on Saturday, August 22, following a short closure for refurbishment work.
 image: https://www.thenorthernecho.co.uk/resources/images/21354905.jpg?type=og-image&xType=0&yType=74
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google Maps)*

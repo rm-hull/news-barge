@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:51:30Z'
 published: '2026-08-25T00:00:00Z'
 description: Emergency services pulled the swimmer from the water
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/17/10/7-blackpool-sands-devon-0.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A man has died after getting into difficulty while swimming in the sea off a popular UK beach.

@@ -10,6 +10,10 @@ description: 'The case dominating debate in Greece and Cyprus involves one of th
   arrest at an Athens medical practice. Investigators are examining two plasma-exchange
   machines and the timeline of events. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/84/19/1200x675_cmsv2_023ac645-aa11-524c-a9e0-37f64857e5f6-9908419.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## The case dominating debate in Greece and Cyprus involves one of the country's biggest music stars, also popular in the Balkans. He suffered a cardiac arrest at an Athens medical practice. Investigators are examining two plasma-exchange machines and the timeline of events.

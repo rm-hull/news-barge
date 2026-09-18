@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: The Olympic flame arrived in Senegal's capital with music, dancing, and
   a march by 100 women
 image: https://static.independent.co.uk/2026/09/12/21/Senegal_Youth_Olympics_6276_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Olympic flame was welcomed by music and dancing in Senegal 's capital on Saturday, as a march by 100 women marked the countdown to the first Olympic sporting event held in Africa.

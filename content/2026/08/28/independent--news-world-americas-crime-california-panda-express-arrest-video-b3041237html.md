@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The California officers returned to their Panda Express meals after making
   the arrest
 image: https://static.the-independent.com/2026/08/28/18/02/Untitled-design-(3).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Not even a fortune cookie could have predicted this arrest.

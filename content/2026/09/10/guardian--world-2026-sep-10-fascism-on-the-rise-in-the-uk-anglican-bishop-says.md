@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Arun Arora, bishop of Kirkstall in Leeds, condemns ‘twisted theology’
   of groups who demonstrated at south coast ports at weekend
 image: https://i.guim.co.uk/img/media/70cd1ddff7221708adb05e3140dcbd192bdb8d0f/577_0_2351_1882/master/2351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb2593a68be6064a15cb9726a09a09a9
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fascism is on the rise in the UK, a Church of England bishop has warned, condemning the “twisted theology” of the self-described “Christian patriots” who demonstrated at ports on the south coast last weekend.

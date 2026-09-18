@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: More needs to be done to urgently tackle sewage discharges into the region’s
   rivers, an East Riding Of Yorkshire Council meeting was told.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI1NmFlZTk2LTNkZjQtNGQ1NC04NTMxLTAxMjE0NzU0MzM1OTpiODJlODFmZC05ZjJhLTRjMTctYjJlMS00YzQxOGZjMTQ0NGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Yorkshire Water not doing enough, committee told

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: It’s illegal for parkgoers to get closer than 25 yard from an elk or
   50 yards from a black bear
 image: https://static.independent.co.uk/2026/09/15/16/2277773085..?trim=0,226,0,226&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 America’s national park lovers should get outside to view majestic wildlife this fall - as long as it’s from a safe distance, officials warned Monday.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Cal Fire official says Sunday was ‘big turning point’ to reduce blaze
   in Lake county, now 30% contained
 image: https://i.guim.co.uk/img/media/05747bb4329421d3f2d766ae7940836e0a502cff/189_0_4481_3586/master/4481.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f0422005406e36e8ec0a69ad0f22f81
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Firefighters made progress toward containing northern California’s Lucas fire, state officials said on Sunday.

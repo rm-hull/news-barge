@@ -11,6 +11,9 @@ description: George Arison is done letting Wall Street's "Grindr discount" go un
   EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr
   into the "gayborhood in your pocket" he's been promising since 2022.
 image: https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 When George Arison took over Grindr in 2022, he inherited a company that had been bounced from Chinese ownership to a forced divestiture to a private-equity rescue — a business that was printing money but also had no real product or business strategy. Four years, a SPAC listing, and a controversial return-to-office mandate later, Grindr has become convincing as a growth story. Revenue is on pace to roughly triple, from $195 million in 2022 to a guided $540 million-plus this year, with adjusted EBITDA margins holding above 40%.

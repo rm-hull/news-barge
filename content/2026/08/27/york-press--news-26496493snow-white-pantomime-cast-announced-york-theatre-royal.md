@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: York Theatre Royal has announced the cast for its Christmas pantomime
   Snow White and the Seven Dwarfs.
 image: https://www.yorkpress.co.uk/resources/images/21373011.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## York Theatre Royal reveals cast for first-ever Snow White pantomime

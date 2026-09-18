@@ -7,6 +7,9 @@ scraped_at: '2026-08-19T08:51:54Z'
 published: '2026-08-19T00:00:00Z'
 description: The 50 per cent tariffs were due to go into effect overnight
 image: https://static.independent.co.uk/2026/07/18/0/08/GettyImages-2281261951.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has announced a three-day pause on new 50 per cent tariffs on Canadian goods.

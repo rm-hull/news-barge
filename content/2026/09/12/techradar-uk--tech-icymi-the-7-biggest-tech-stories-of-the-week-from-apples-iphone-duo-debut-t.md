@@ -8,6 +8,8 @@ scraped_at: '2026-09-12T12:09:22Z'
 published: '2026-09-12T00:00:00Z'
 description: Your firmware update for September 12, 2026
 image: https://cdn.mos.cms.futurecdn.net/9uDKjnAHacbb3zzxJ4frjB-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![Link and Epona next to a Beam Ultra soundbar and iPhone 18 Pro.](https://cdn.mos.cms.futurecdn.net/9uDKjnAHacbb3zzxJ4frjB.png) 

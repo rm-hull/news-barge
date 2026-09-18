@@ -9,6 +9,11 @@ scraped_at: '2026-09-11T12:49:59Z'
 published: '2026-09-11T00:00:00Z'
 description: Nvidia remains dominant supplier with a 90% market share.
 image: https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS-1280-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Video Gaming
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/scaa6rwixCGmjuHyZndQjS.png) 

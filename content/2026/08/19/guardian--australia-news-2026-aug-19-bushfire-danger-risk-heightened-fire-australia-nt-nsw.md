@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Effects of global heating in NT worsened by ‘dangerous and fire-promoting
   buffel grass’, expert says
 image: https://i.guim.co.uk/img/media/9a12da231f5ea85edcff7a9c6dd9a2032b30e4e6/53_0_1533_1226/master/1533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f54e6a2b9ed0262276d59545bee19c25
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Fire authorities have warned large parts of the Northern Territory are facing heightened fire danger throughout spring, with above average fuel loads leaving much of the territory vulnerable.

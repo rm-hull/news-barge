@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Fudge Kitchen York is celebrating 40 years of handcrafting fudge with
   a birthday weekend this month.
 image: https://www.gazetteherald.co.uk/resources/images/21350787.jpg?type=og-image&xType=0&yType=732
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 A well-known fudge shop is celebrating four decades of sweet success and delighting visitors.

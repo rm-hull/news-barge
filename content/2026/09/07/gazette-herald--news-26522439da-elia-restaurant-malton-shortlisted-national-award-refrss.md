@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Da Elia Pizza & Restaurant has been shortlisted in the Best Restaurant/Food
   Business category in the UK Small Business Awards.
 image: https://www.gazetteherald.co.uk/resources/images/21411176.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 A family-run Italian restaurant in Malton has been named a finalist in the UK Small Business Awards.

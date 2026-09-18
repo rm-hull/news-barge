@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Fast bowler Mark Wood says he looks back on his performance in England’s
   dismal Ashes campaign with “shame”.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/429b/live/48e49250-9c97-11f1-a38b-8bb91d2ef80e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mark Wood reacts during England's first Ashes Test in Perth](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/429b/live/48e49250-9c97-11f1-a38b-8bb91d2ef80e.jpg)

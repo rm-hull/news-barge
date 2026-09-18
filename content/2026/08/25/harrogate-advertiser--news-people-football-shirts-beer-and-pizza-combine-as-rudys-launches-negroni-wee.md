@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: A Harrogate pizzeria which opened earlier this year is launching a special
   offer which could spell a free pizza and Negroni for all of September.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFmYjk1MGNhLTJlN2UtNDc3NS1hMDVkLTI4ZmQyODM0Yzc2NDpmNWUyZTY2Ny1jMjA0LTQwODktODBjNS1iNWUzMTE0MTQ4NTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Food & Cooking
 ---
 
 # Football shirts, beer and pizza combine as Rudy’s launches Negroni Week

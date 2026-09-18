@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A Leeds city Labour councillor has announced his resignation after eight
   years.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407995.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Leeds Labour Party)*

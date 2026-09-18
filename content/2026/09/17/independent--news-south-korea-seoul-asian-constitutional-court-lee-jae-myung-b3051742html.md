@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: South Korea plans to approve abortion pills for the first time to promote
   women's health and safety
 image: https://static.independent.co.uk/2026/09/17/10/South_Korea_Abortion_14489.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 South Korea plans to approve abortion pills for the first time to promote women’s rights to health and safety, deepening debates over abortions in the Asian country.

@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The Independent looks at the individuals pouring millions of pounds into
   Britain’s political parties
 image: https://static.independent.co.uk/2026/09/12/14/33/Ben-Dalo-and-Christopher-Harborne.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two record-breaking donations from crypto billionaires to Reform UK last week have sparked a debate about Britain’s party funding rules.

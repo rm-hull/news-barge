@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Aldi is offering families in Yorkshire the chance to win a full year
   of free groceries.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347633.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Aldi is offering families across Yorkshire the chance to win a full year of free groceries.

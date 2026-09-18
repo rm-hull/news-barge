@@ -8,6 +8,12 @@ scraped_at: '2026-09-14T15:00:58Z'
 published: '2026-09-14T00:00:00Z'
 description: Asian shares are mixed and U.S. futures have edged lower
 image: https://static.independent.co.uk/2026/09/14/06/Japan_Financial_Markets_78215.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Asian shares were mixed Monday, as shares of Japanese investment conglomerate SoftBank Group, a key investor in OpenAI, fell more than 10% following calls from Anthropic and OpenAI to slow AI development for safety.

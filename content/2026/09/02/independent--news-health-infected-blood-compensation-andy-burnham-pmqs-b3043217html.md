@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The Infected Blood Inquiry closed this year after examining what has
   been dubbed the worst treatment disaster in the history of the NHS
 image: https://static.independent.co.uk/2026/09/01/11/5514a6e77b094a5076285f309f85f494Y29udGVudHNlYXJjaGFwaSwxNzg4MzQzNTgz-2.85543874.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Infected blood scandal victims are urging the Prime Minister to "resolve injustices" within the compensation scheme.

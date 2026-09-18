@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Liberal MP speaks of AI’s shortcomings as cyber chief tells inquiry the
   tech is needed to fend off ‘highly capable malicious cyber actors’
 image: https://i.guim.co.uk/img/media/34734119f9d6178e94ad147c3dae613bf60a1e2b/613_0_4631_3707/master/4631.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c483f3e45d5594e5722572ccefde4a2f
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 When a man with a terminal illness wrote to his local MP Andrew Hastie, telling him he planned on ending his own life with voluntary assisted dying, Microsoft Copilot suggested Hastie reply with “congratulations!”, “great to hear from you” or “that is wonderful news!”.

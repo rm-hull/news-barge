@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: The 78th Emmy Awards are happening Monday night at the Peacock Theater
   in Los Angeles
 image: https://static.independent.co.uk/2026/09/14/05/78th_Primetime_Emmy_Awards_Press_Preview_72646.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 The 78th Emmy Awards are here. “The Pitt” will look to find its place in the television pantheon and “Widow's Bay” will ride a storm of buzz into the ceremony Monday night at the Peacock Theater in Los Angeles.

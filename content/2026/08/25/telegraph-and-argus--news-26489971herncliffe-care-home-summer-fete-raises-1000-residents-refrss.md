@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A care home summer fete has been hailed a success after bringing together
   residents, staff, and the wider community for a day of celebration.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21363305.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A CARE home summer fete raised £1,000 to fund days out and trips for its residents, with part of the money donated to charity.

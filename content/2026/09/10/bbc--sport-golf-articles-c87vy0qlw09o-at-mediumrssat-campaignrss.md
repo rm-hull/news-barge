@@ -10,6 +10,10 @@ description: With no more than one point separating the teams at the past three 
   Cups played in Europe there is every reason to expect that this week's contest will
   be just as exciting, writes Iain Carter.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4d7/live/459de420-acf0-11f1-a8ae-35fb3e785e0c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Charley Hull wearing a Europe hat at the 2026 Solheim Cup in the Netherlands](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e4d7/live/459de420-acf0-11f1-a8ae-35fb3e785e0c.jpg)

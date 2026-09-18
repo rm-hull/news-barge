@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Increasing hot weather is linked to thousands of deaths in England and
   Wales, new data shows
 image: https://static.independent.co.uk/2026/08/12/14/2289664354..?trim=16,0,16,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 More than 40,000 people died of climate-related causes over the 38 years between 1988 and 2025 in England and Wales, according to new estimates by experts.

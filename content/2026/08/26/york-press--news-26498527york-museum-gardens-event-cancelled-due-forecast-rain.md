@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: An event featuring live music and street food at Museum Gardens in York
   has been cancelled due to forecast wet weather.
 image: https://www.yorkpress.co.uk/resources/images/21375993.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 *(Image: York Museums Trust)*

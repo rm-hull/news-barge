@@ -9,6 +9,8 @@ published: '2026-09-17T00:00:00Z'
 description: Apple's Director of Fitness Tech tells us everything about the Apple
   Watch's new Readiness score
 image: https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf-1881-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Screenshot from Apple's September 2026 event](https://cdn.mos.cms.futurecdn.net/wg7FEhRsX9teyEsjNRsnwf.jpg) 

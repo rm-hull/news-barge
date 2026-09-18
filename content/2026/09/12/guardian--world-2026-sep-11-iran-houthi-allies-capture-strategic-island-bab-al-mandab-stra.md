@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Rampant Yemeni fighters take control of island in narrow point of Bab
   al-Mandab strait, which Saudi is relying on for oil exports
 image: https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067e43ae7b6d8a742dd725b7dba3b423
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Yemen’s rampant Houthi forces have captured the strategic island of Perim in the Bab al-Mandab strait, expanding their control of the narrow waterway, one of the world’s vital shipping routes.

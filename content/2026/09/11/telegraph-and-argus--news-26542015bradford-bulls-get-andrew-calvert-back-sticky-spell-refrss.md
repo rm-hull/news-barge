@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Bradford Bulls have welcomed lifelong fan Andrew Calvert back into their
   ownership group, more than a decade on from his turbulent spell at the club.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21439735.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: UGC)*

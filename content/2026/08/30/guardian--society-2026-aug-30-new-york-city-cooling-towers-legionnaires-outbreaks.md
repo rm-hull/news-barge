@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: State and city lawmakers push to boost regulations after two outbreaks
   of the disease over the last two summers
 image: https://i.guim.co.uk/img/media/47906eaef3cc46dede1c3669a922abec7257552a/668_0_6683_5347/master/6683.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a32bd0ca417900c064e57c005bf43876
+categories:
+- UK
+- News & Politics
 ---
 
 New York lawmakers are now trying to better protect residents from the deadly legionnaires’ disease by increasing regulations and inspections of cooling towers after two outbreaks of the infection over the last two summers and a raft of new lawsuits.

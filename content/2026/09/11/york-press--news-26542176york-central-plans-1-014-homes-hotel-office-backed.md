@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Approval of plans which include more than 1,000 homes have been hailed
   as a significant milestone for a major York regeneration scheme.
 image: https://www.yorkpress.co.uk/resources/images/21439930.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## 'Transformational'- major York regeneration scheme reaches 'significant milestone'

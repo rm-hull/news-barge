@@ -10,6 +10,9 @@ description: Eddie's on the road to revenge, and for good reason. He's dealing w
   a personal tragedy beyond all means, but what does that mean for The Gentlemen season
   2 ending?
 image: https://cdn.mos.cms.futurecdn.net/yiFY5hABfeKsbZshjLFyg4-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Eddie and Susie stand in a doorway](https://cdn.mos.cms.futurecdn.net/yiFY5hABfeKsbZshjLFyg4.jpg) 

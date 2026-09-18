@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Durham County Council's deputy leader Darren Grimes has promised a "laser-like
   focus" on cutting waste.
 image: https://www.thenorthernecho.co.uk/resources/images/21463365.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

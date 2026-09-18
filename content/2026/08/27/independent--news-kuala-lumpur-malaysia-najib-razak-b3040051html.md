@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Former Malaysian Prime Minister Ismail Sabri Yaakob has been charged
   with failing to declare his assets
 image: https://static.independent.co.uk/2026/08/27/05/Malaysia_Corruption__7139.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Malaysian former Prime Minister Ismail Sabri Yaakob was charged Thursday with failing to declare his assets, making him the nation's third leader to face criminal charges after leaving office.

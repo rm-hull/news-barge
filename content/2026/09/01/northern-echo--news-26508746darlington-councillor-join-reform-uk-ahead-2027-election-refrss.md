@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Kevin Nicholson, an independent councillor on Darlington Borough Council,
   is set to fight May's election as a member of Reform UK.
 image: https://www.thenorthernecho.co.uk/resources/images/21391697.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 An independent councillor in Darlington is set to fight May's election as a member of Reform UK.

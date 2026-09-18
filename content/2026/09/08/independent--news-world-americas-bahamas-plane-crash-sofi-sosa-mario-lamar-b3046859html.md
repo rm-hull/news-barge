@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The plane, which was carrying two grandparents and their grandchildren,
   went missing after its departure from Great Harbour Cay in the Bahamas
 image: https://static.independent.co.uk/2026/09/08/20/Small_Plane_Crash_Bahamas_37_2.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Four family members traveling aboard a small airplane that vanished off the coast of the Bahamas were found dead Tuesday after relatives launched their own search effort.

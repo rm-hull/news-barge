@@ -10,6 +10,11 @@ description: Asian shares are mixed following a retreat on Wall Street, as the U
   Treasury Department's plan to expand government debt buybacks appeared to have only
   limited capacity to calm markets
 image: https://static.independent.co.uk/2026/08/21/05/South_Korea_Financial_Markets_571_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares were mixed on Friday following a retreat on Wall Street as a U.S. Treasury Department plan to boost its government debt buybacks had only limited capacity to calm markets.

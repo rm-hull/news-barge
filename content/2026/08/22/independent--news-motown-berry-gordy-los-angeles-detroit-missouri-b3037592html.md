@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Early Motown songwriter Janie Bradford Hobbs has died, at the age of
   87
 image: https://static.independent.co.uk/2026/08/22/17/Obit-Janie_Bradford_Hobbs_15379.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Early Motown songwriter Janie Bradford Hobbs, who helped pen hits including “Money (That’s What I Want)” and “Too Busy Thinking About My Baby," has died following an extended illness at a Los Angeles hospital, her family said Saturday. She was 87.

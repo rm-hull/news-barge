@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: President’s outburst follows a judge permanently blocking push to put
   his name on the Kennedy Center facade
 image: https://static.independent.co.uk/2026/08/13/19/06/GettyImages-2280577682.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump ranted Tuesday that the Kennedy Center is “in a virtual state of collapse” and that a falling chunk of concrete and steel left a security guard “60 seconds away from certain death,” as he lashed out on Truth Social just before a federal judge permanently blocked having his name inscribed on the building for a second time.

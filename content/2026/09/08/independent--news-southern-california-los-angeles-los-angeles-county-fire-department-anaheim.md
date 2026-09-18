@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Authorities in Southern California are responding to a slow leak from
   a chemical tank
 image: https://static.independent.co.uk/2026/09/08/22/Southern_California_Chemical_Leak_55112.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Authorities in Southern California responded to a slow leak from a chemical tank on Tuesday but quickly got it under control.

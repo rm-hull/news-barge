@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: Ever wanted someone else to do your texting for you? ChatGPT is being
   offered up as an automated text scribe via a new Apple Messages integration.
 image: https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 If you’ve ever wanted to share all of your digital conversations with OpenAI, we have good news for you: The AI lab has just launched an Apple Messages plug-in for ChatGPT, allowing interested users to connect their Messages inbox with the chatbot.

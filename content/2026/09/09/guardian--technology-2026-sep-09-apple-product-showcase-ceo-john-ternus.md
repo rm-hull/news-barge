@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: John Ternus helms his first major event as head of $4.5tn company, where
   he announces first foldable iPhone
 image: https://i.guim.co.uk/img/media/66008aa8a95bba4f85939f60e9635f25e1ef571d/329_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8475852b4a407ffe262c1197701e31f6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 John Ternus, Apple’s new CEO, helmed the company’s annual showcase of new iPhones and other products on Wednesday. It was the first time the public got a feel for the executive, who is filling the shoes of Tim Cook and his predecessor, Steve Jobs, at the $4.5tn tech giant.

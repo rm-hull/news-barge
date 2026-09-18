@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Jet2 has added 10,700 extra seats to its summer 2027 flight programme
   from Leeds Bradford Airport.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20849426.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

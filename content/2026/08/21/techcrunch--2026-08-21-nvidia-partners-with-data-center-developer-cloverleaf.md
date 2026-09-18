@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Nvidia continues to pour money into data center development — just as
   AI data centers bring lots of money into Nvidia.
 image: https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Nvidia is doing everything it can to keep fueling the AI buildout that has underpinned its own good fortunes. On Friday, it announced a partnership with Cloverleaf Infrastructure, a company that lays the groundwork for data centers.

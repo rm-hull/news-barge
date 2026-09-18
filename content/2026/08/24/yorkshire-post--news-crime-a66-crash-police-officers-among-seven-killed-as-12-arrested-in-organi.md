@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: Twelve people have been arrested in an investigation into criminal activity
   before a crash which killed seven, including two police officers.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/24/10/cs-dea9bfe6-c02a-465b-9389-be2eb2101519.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # A66 crash: Police officers among seven killed as 12 arrested in organised crime probe

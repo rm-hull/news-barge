@@ -8,6 +8,8 @@ scraped_at: '2026-09-16T19:32:18Z'
 published: '2026-09-16T00:00:00Z'
 description: Researchers find two flaws in highly popular cameras
 image: https://cdn.mos.cms.futurecdn.net/JoaAAvDK3PPAJUwTSBoEM7-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![TP-Link C200](https://cdn.mos.cms.futurecdn.net/JoaAAvDK3PPAJUwTSBoEM7.jpg) 

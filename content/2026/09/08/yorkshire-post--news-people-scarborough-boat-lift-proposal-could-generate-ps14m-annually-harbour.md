@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: A planned boat hoist project in a North Yorkshire town could generate
   £1.4 million a year for the local economy, a local group has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFiMmMxZWFkLTA4NDgtNDAwMC05NWU4LTU2NWRhYzIyZjcxNDo4ZGNkZGIyMi01ZjgyLTQ4MDktOTBjNS1lMmIzMDFhYTE0YzM=.png?crop=3:2,smart&trim=&width=933&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Scarborough: Boat lift proposal could generate £1.4m annually, harbour meeting hears

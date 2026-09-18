@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: I got hands-on with TCL's new P80 line of phones and nxtPaper tablets
   — here are my first impressions.
 image: https://cdn.mos.cms.futurecdn.net/k3RSNkSKjGyYsEcQkakyGi-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![TCL P80 Ultra in man's hand](https://cdn.mos.cms.futurecdn.net/k3RSNkSKjGyYsEcQkakyGi.jpg) 

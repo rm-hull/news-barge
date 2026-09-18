@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T04:49:45Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/four-alls-inn-york-holiday-park-plan-chalets.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Plans for a holiday park with 32 chalets at the site of a former York pub have been lodged.

@@ -9,6 +9,10 @@ description: Despite recent breakthroughs mapping the lunar surface to analyse t
   feasibility of building lunar cities, a new study pours cold water on the prospect
   of permanent colonisation.
 image: https://images.euronews.com/articles/stories/09/91/30/06/1200x675_cmsv2_e407331a-4c68-50f6-9b7a-738e9554cef1-9913006.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## Despite recent breakthroughs mapping the lunar surface to analyse the feasibility of building lunar cities, a new study pours cold water on the prospect of permanent colonisation.

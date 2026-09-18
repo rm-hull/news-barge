@@ -10,6 +10,9 @@ published: '2026-09-12T00:00:00Z'
 description: “Unboxing ceremony by our reverse engineers, tomorrow morning!” - Iranian
   embassy in India
 image: https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS-2190-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Map of the Middle East highlighting the Strait of Hormuz as a high-risk maritime zone](https://cdn.mos.cms.futurecdn.net/NZphC55f73iLPX4XgyjuPS.jpg) 

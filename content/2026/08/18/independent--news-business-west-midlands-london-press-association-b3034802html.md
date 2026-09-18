@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: The company said the deal to sell its West Midlands-based UK Bus business
   is part of efforts to make Mobico ‘simpler and stronger’.
 image: https://static.independent.co.uk/2023/05/16/00/15085720-2528b2a2-5a19-4f00-8d7b-d82d0d253592.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 Mobico has struck a deal to sell its remaining UK regional bus operator to the West Midlands local authority.

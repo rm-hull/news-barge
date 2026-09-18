@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Astra rebuilt the dev’s browser-based version of Black Ops 2 that was
   running ‘on a PC’ inside the popular sandbox game.
 image: https://cdn.mos.cms.futurecdn.net/UvdybwqrqkuUKc5paGb9t4-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Dev gets CoD: Black Ops 2 Hijacked map running natively in Minecraft](https://cdn.mos.cms.futurecdn.net/UvdybwqrqkuUKc5paGb9t4.jpg) 

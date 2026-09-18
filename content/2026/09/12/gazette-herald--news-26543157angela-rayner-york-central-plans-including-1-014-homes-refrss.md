@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Years of talk is set to be turned into action following the approval
   of plans for a major York regeneration project, Angela Rayner has said.
 image: https://www.gazetteherald.co.uk/resources/images/21439928.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

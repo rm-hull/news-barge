@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A burst water main has forced the closure of a road while repair work
   is carried out.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21469961.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google maps)*

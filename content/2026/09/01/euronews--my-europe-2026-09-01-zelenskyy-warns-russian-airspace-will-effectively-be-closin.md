@@ -9,6 +9,10 @@ description: 'The Ukrainian president warned airlines, insurers and foreign gove
   that the growing scale of Kyiv’s drone operations would make Russian airspace increasingly
   unsafe for aircraft. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/77/74/1200x675_cmsv2_9b727d2e-0b31-52a7-8931-5573c40d6bdc-9897774.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The Ukrainian president warned airlines, insurers and foreign governments that the growing scale of Kyiv’s drone operations would make Russian airspace increasingly unsafe for aircraft.

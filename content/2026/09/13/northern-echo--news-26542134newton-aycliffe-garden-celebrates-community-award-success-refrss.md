@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: The Pioneering Care Centre’s (PCC) garden won second place in the 2026
   Great Aycliffe Town Council Best Community Garden Awards.
 image: https://www.thenorthernecho.co.uk/resources/images/21439812.jpg?type=og-image&xType=0&yType=500
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Pioneering Care Partnership)*

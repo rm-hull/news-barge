@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Ilkley Pride & Diversity Group is inviting the LGBTQ+ community and allies
   to join a series of inclusive social events.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336071.jpg?type=og-image&xType=0&yType=147
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 *(Image: submitted)*

@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: 'Exclusive: campaigners warn 600-year-old New Barn at Harmondsworth could
   be ‘shaken to pieces’ by vibrations'
 image: https://i.guim.co.uk/img/media/70ff2f5d147b655601b7b0de64ffbcb848250a7e/365_0_5009_4008/master/5009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fa8ebd372451a10654d1f8c1374fb57
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Six hundred years after it was built, England’s largest surviving medieval timber-framed barn could now be “shaken to pieces” by aircraft vibrations, campaigners warn.

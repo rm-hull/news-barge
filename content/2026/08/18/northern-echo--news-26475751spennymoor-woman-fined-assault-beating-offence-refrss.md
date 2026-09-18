@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Laura Waring, 36, of Spennymoor, was fined after admitting assault by
   beating another woman during an incident in the County Durham town and…
 image: https://www.thenorthernecho.co.uk/resources/images/17013830.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: STUART BOULTON)*

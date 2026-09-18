@@ -8,6 +8,12 @@ scraped_at: '2026-08-27T22:13:56Z'
 published: '2026-08-27T00:00:00Z'
 description: 'From: John Riseley, Harrogate.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNkYWUxNTliLTZkZmUtNDg5OS04NTdlLTFlYjBjNzE5NmQ5MzoxMTIxMzc3OC1jZWY4LTQ4YWYtYTRhNi0zNjBmYjA4MGYyYzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Migrant workers are not the answer to the social care crisis - Yorkshire Post Letters

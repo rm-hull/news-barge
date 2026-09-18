@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Noura Erakat says a Florida mayor shortened speaking time and banned
   discussion of investment in Israeli bonds
 image: https://i.guim.co.uk/img/media/97a2381d52873367f017086fc486ce02d9103119/0_989_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b7acaa9fde72e4d7f6ae7f2e14bdc75
+categories:
+- UK
+- News & Politics
 ---
 
 The human rights lawyer Noura Erakat was arrested on Tuesday at a Palm Beach county, Florida, budget hearing about the county’s more than $1bn investments in Israeli bonds.

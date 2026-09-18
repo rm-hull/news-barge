@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: ‘My heart is breaking without you here. I need to know you are safe.
   We all need you back home safe and well’
 image: https://static.independent.co.uk/2026/09/17/18/01M2R4CX71NZJRJGYTNZSZDABW.jpg?trim=0,94,0,94&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 The mother of a missing 13-year-old girl has made a tearful appeal for her safe return six days after her disappearance.

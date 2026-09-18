@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Scientists say a deadly flash flood in Nepal on Wednesday was likely
   caused by a glacier chunk breaking off and temporarily damming a river
 image: https://static.independent.co.uk/2026/08/27/11/APTOPIX_Nepal_Flash_floods_46363.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The deadly flash flood in Nepal on Wednesday was likely caused by a huge chunk of a glacier that broke off and temporarily dammed a river, according to preliminary investigations by scientists. That may have led to the backed-up water surging downstream with enormous force a few hours later, they suggested.

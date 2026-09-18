@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:18:01Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2021/09/doctor-gp-stethoscope-nhs-pa.jpg
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 The GP surgery on Main Street in Helperby, near Easingwold, has closed for a month.

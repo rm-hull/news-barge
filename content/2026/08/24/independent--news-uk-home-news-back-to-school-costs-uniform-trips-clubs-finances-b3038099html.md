@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T13:08:27Z'
 published: '2026-08-24T00:00:00Z'
 description: Sports clubs are costing parents hundreds a year, research shows
 image: https://static.independent.co.uk/2023/04/17/12/iStock-498212759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Families are paying more than £15,500 per child over the course of their school years in “hidden” expenses, new research has found, as the cost of living continues to rise.

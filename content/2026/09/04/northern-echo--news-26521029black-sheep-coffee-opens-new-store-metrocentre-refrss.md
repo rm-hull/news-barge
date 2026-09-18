@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Coffee lovers are in for a treat as Black Sheep Coffee opens up a new
   North East store at a popular shopping complex.
 image: https://www.thenorthernecho.co.uk/resources/images/21409307.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: TWIST / METROCENTRE)*

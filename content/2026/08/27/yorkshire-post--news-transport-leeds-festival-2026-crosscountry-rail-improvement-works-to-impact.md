@@ -10,6 +10,11 @@ description: In conjunction with the Leeds Festival this year, the CrossCountry 
   improvement works will mean that journeys will be affected - here’s everything you
   need to know.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQxNGM5M2ZmLTM3OWEtNGI4MC04MmZlLTIwNWU4YTEwYzE1NDozY2VmNDJmYi1mNGM0LTQ2Y2ItYTdiNC1jMjVlMWYxODA2MTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Leeds Festival 2026: CrossCountry rail improvement works to impact journeys this weekend ahead of music festival

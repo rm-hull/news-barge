@@ -9,6 +9,11 @@ description: ‘The First Family has a financial stake in this industry,’ Geor
   alleges in attack on President Donald Trump over rejection of whistleblower warnings
   about artificial intelligence
 image: https://static.independent.co.uk/2026/09/15/12/30/Ossoff-AI.png?trim=0,221,0,220&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Georgia Democratic Sen. Jon Ossoff has accused President Donald Trump of being “compromised” on AI after the latter’s comments opposing regulation of the emerging technology provoked uproar.

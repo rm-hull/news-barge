@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Former broadcaster has pleaded not guilty to 22 indecent assault and
   sexual touching charges in relation to six men
 image: https://i.guim.co.uk/img/media/b5b57cb23e1db05eced5ef096384c33d31fbabeb/168_0_3152_2523/master/3152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d00dd85ea06f4ccaf1697ee1e5c46332
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Alan Jones allegedly groomed a junior staffer at 2GB for a decade, resulting in the young man sending multiple explicit texts to the broadcaster, a Sydney court has heard.

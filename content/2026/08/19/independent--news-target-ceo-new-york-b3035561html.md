@@ -10,6 +10,11 @@ description: Target is reporting its second straight quarter of comparable sales
   saying a merchandising overhaul under the discount retailer’s new CEO was attracting
   more customers
 image: https://static.independent.co.uk/2026/08/19/11/US_Results_Target_86149.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Target’s comeback quarter: New merchandise, more shoppers and a $994M tariff refund

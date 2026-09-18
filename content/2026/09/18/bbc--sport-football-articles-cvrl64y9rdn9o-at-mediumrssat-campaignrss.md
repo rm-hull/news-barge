@@ -10,6 +10,10 @@ description: After the World Cup, England boss Thomas Tuchel wanted greater cont
   Two months on, he is keen to "embrace the chaos" after naming his squad for the
   upcoming Nations League fixtures.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4c39/live/7c4c5750-b366-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Tuchel recalls Palmer and Alexander-Arnold to England squad

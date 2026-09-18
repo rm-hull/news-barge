@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Jim Alison, who gave up his licence five years ago, has driven again
   with support from a charity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff89/live/1f4723b0-a6ea-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Behind the wheel at 90mph without a licence... or sight

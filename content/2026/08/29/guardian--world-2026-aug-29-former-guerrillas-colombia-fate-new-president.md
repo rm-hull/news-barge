@@ -10,6 +10,11 @@ description: ‘Total peace’ plan of previous government led only 99 of Colomb
   armed combatants to disarm, but new president Abelardo De la Espriella opposes peace
   agreements
 image: https://i.guim.co.uk/img/media/bd9dced1c20e7f4db205d0b4de787d820f1da9f8/0_0_4693_3754/master/4693.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202334c1a1f0da5807b87dc721110f76
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.

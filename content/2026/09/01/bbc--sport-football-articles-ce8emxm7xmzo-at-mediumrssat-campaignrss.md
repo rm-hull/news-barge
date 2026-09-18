@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m
   move to Chelsea collapses.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8ad/live/9704b0d0-a644-11f1-9547-7578d73af9f6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lamine Camara pinches his shirt](https://ichef.bbci.co.uk/ace/standard/962/cpsprodpb/f8ad/live/9704b0d0-a644-11f1-9547-7578d73af9f6.jpg)

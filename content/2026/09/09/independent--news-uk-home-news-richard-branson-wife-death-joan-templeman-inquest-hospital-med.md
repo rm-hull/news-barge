@@ -10,6 +10,10 @@ description: Lady Joan Branson, 80, died on November 24 after suffering a cardia
   arrest at the private Lister Hospital in Chelsea, west London, which is owned and
   operated by HCA Healthcare
 image: https://static.independent.co.uk/2026/09/09/18/09175003-10752618-5b9a-4088-b206-4e367b263533.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The failure of a private hospital to provide preventative medication contributed to the death of Sir Richard Branson’s wife, an inquest has concluded.

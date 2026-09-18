@@ -9,6 +9,10 @@ description: Stunning pictures of nebulae, stars, the moon and more took top pri
   in this year's astrophotography competition, organised by the Royal Observatory
   in London
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312686957.jpg?w=840)

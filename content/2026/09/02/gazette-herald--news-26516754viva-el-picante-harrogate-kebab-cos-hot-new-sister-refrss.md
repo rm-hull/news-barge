@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A new take-away Viva el Picante is set to add spice to Harrogate’s dining
   scene.
 image: https://www.gazetteherald.co.uk/resources/images/21403201.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A new take-away is set to add spice to Harrogate’s dining scene.

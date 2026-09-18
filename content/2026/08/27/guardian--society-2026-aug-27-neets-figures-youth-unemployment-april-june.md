@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Number of Neets is 30,000 higher than a year ago but latest figures are
   a boost to efforts to reverse the rise in economic inactivity
 image: https://i.guim.co.uk/img/media/3ee4730c8f19ce6a11e4508f6dddc51c18df4da9/65_401_3556_2845/master/3556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d3f7554a6ececedf4b5cfc65b1ad06a
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The number of young people not in education, employment or training (Neet) across the UK fell below 1 million in the latest three-month period.

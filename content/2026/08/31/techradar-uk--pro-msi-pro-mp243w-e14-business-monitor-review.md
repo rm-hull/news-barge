@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: The MSI Pro MP243W E14 Monitor is a classic business monitor at a spectacular
   price for professionals and remote workers who don't need fancy features.
 image: https://cdn.mos.cms.futurecdn.net/cbm4UeHM2bAuQC5LVagUQQ-1915-80.png
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ### TechRadar Verdict

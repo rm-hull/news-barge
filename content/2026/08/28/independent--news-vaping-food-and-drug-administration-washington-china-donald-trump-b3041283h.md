@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: E-cigarette maker Juul Labs has received U.S. permission to sell an updated
   version of its vaping device
 image: https://static.independent.co.uk/2026/08/28/20/Juul_Vaping_Device__5739.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Vaping company Juul Labs on Friday received federal permission to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.

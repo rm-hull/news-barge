@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The 45th edition of the Great North Run will take place on September
   13.
 image: https://www.thenorthernecho.co.uk/resources/images/21443403.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: COLMANS)*

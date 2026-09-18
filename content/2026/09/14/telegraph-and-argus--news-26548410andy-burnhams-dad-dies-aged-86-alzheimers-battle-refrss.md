@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Andy Burnham's father Roy has died at the age of 86, after living with
   Alzheimer’s
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452256.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: Peter Byrne/PA Wire)*

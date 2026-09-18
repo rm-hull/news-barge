@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Taking metformin, a type 2 diabetes drug, has been linked to a lower
   risk of dementia over the following decades, but the association isn't conclusive
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309376731.jpg?w=840)

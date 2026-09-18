@@ -10,6 +10,8 @@ published: '2026-09-12T00:00:00Z'
 description: Rebellion has revealed the influences behind Alien Deathstorm and explained
   why it chose an engineer protagonist for its first-person survival horror game.
 image: https://cdn.mos.cms.futurecdn.net/aC7yPqg6rBmEF8mGEXa2RM-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Alien Deathstorm](https://cdn.mos.cms.futurecdn.net/aC7yPqg6rBmEF8mGEXa2RM.jpg) 

@@ -8,6 +8,9 @@ scraped_at: '2026-09-01T13:28:55Z'
 published: '2026-09-01T00:00:00Z'
 description: EU adds three more platforms to the 'Very Large' list
 image: https://cdn.mos.cms.futurecdn.net/D3UmCCTAMfYSqddxRW8xNa-970-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![European Union](https://cdn.mos.cms.futurecdn.net/D3UmCCTAMfYSqddxRW8xNa.jpg) 

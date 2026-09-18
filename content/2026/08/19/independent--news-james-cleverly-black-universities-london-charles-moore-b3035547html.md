@@ -10,6 +10,10 @@ description: Jason Arday, who was once celebrated as Cambridge University’s yo
   Black professor, was found dead last week after weeks of news stories presenting
   evidence that he was a plagiarist and fabulist
 image: https://static.independent.co.uk/2026/08/19/11/Britain_Cambridge_Professor_Vigil_11952.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 In 2012, a smiling Jason Arday was photographed by the British press carrying the Olympic flame in the torch relay that preceded the London Games. He was back in the news in 2023 when Cambridge University hailed him as the youngest Black professor in the institution’s history.

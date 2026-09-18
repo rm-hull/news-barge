@@ -10,6 +10,11 @@ description: The implementation of charges on overnight stays for visitors will 
   to be done right but details on how they would work are currently lacking, North
   Yorkshire’s mayor has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUwYzBiNDkxLTM2ZWEtNDNkNy04ODA2LTkyODlhOTAwNWFkMzo3ODc3Y2NhMi00MzJhLTRlMjItOGU4Yy02YzkwYzVjMGJmNzY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'It's got to be done right' - North Yorkshire mayor defends tourist levy plans amid fears for hospitality

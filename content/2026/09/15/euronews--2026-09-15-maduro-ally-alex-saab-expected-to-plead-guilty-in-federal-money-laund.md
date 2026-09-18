@@ -10,6 +10,11 @@ description: Charged with a single count of money laundering tied to an alleged 
   before Judge in Miami on Tuesday for a change of plea hearing, according to court
   records.
 image: https://images.euronews.com/articles/stories/09/91/35/05/1200x675_cmsv2_d88a2091-3623-520d-8c01-8ce12a133b91-9913505.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Charged with a single count of money laundering tied to an alleged conspiracy to create fake companies and falsify shipping records, Saab is scheduled to appear before Judge in Miami on Tuesday for a change of plea hearing, according to court records.

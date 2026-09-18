@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Sculptures have been seen across York this summer as part of a Make it
   York project.
 image: https://www.yorkpress.co.uk/resources/images/21114652.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## The story behind the sculptures across York now on show in Minster

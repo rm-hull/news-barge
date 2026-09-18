@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Cuthbert Centre for Pilgrimage and Prayer has been unveiled in Durham
   Cathedral.
 image: https://www.thenorthernecho.co.uk/resources/images/21423420.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A new centre designed to support pilgrims and visitors has been unveiled in Durham.

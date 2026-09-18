@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Culture House has opened in Sunderland’s Keel Square, combining a city
   library with immersive digital experiences to create a landmark cultural…
 image: https://www.thenorthernecho.co.uk/resources/images/21465778.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A new cultural venue combining a city library with digital experiences has opened in the North East, promising to inspire residents and visitors for decades.

@@ -9,6 +9,11 @@ description: Fully transferring a Calderdale park pavilion to a local cricket cl
   to run will allow it to develop it further, with resulting wider community benefits,
   senior councillors are told.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFiMWExZmU1LTEwODYtNGMzZi04NTAxLTc5OThiZTFlMjI0MTo5ZDRiMWVmOS1lYmNmLTQzNTctYmQxZi0zMjJmNDM0ZDNlYTI=.jpg?crop=3:2,smart&trim=&width=698&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Stainland: Cricket club wants 125-year agreement to take on pavilion in Yorkshire park

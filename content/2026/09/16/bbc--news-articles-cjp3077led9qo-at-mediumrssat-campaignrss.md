@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The FBI says five men "conspired to intimidate, threaten, or murder people
   on US soil and around the world".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A sign marks the location of the U.S. Department of Justice (DOJ) headquarters building on April 30, 2025, in Washington, DC](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg)

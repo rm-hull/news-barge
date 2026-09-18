@@ -9,6 +9,11 @@ description: Election-denying ‘My Pillow’ founder, who can’t cover court f
   defeat, is trying to self-fund a recount of the Minnesota primary he lost by a wide
   margin
 image: https://static.independent.co.uk/2026/07/20/17/2201096367..?trim=0,90,0,90&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Mike Lindell is “investigating” another election. This time, it’s his own.

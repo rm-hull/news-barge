@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen
   as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8fc/live/e1aad990-b14b-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Brook's brilliant 100 against Sri Lanka

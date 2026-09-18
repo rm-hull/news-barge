@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: More than 40 charities write to Pat McFadden and review head Alan Milburn
   over fears of stricter eligibility rules
 image: https://i.guim.co.uk/img/media/11c99ecd26ed20002446b5cec30bab256a989fd2/722_0_7217_5773/master/7217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=408844876932a53ee3a898ed7da6bbf9
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as the government considers how to encourage more young people into work.

@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Two drivers who were racing in an Audi and BMW have been convicted after
   killing a mum and her four-year-old daughter.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384589.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

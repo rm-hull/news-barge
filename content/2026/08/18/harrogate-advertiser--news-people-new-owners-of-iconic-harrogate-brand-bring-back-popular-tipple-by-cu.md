@@ -10,6 +10,10 @@ description: A popular Harrogate-based gin brand has said it is "incredibly grat
   for the support of the community during a time of change as it brings back a popular
   classic by customer demand.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFhMTk5YzdjLWMxN2QtNGZmMS05ZDNkLTg5NWE4ZWU1NWQ1MzpjMTNkMzEyNS1hZDEyLTQwYjItYWI3OS01Njc3ZTY2MGViNTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # New owners of iconic Harrogate brand bring back 'popular tipple' by customer demand

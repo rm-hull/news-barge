@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate Sea Cadets have brought home three awards from a prestigious
   national band competition.
 image: https://mmo.aiircdn.com/409/6a8d33d8a3054e3ad40.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d33d8a3054e3ad40.jpg) 

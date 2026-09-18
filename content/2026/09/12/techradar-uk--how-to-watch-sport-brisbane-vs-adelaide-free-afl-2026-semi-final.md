@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: The Lions host the Crows at the Gabba as their premiership three-peat
   quest reaches do or die
 image: https://cdn.mos.cms.futurecdn.net/pqa2z87q6pBmZD8WH6zuNa-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Zac Bailey of the Lions celebrates with team-mates after kicking a goal during the round 18 AFL match between Brisbane Lions and Essendon Bombers at The Gabba.](https://cdn.mos.cms.futurecdn.net/pqa2z87q6pBmZD8WH6zuNa.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Growing numbers of children referred to the government's counter-terror
   programme are not suitable for it and need help, Dame Rachel de Souza warns.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20c7/live/8106f500-9b03-11f1-bb80-c1b1e1adeea5.png
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 ![England's children's commissioner Rachel de Souza](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/20c7/live/8106f500-9b03-11f1-bb80-c1b1e1adeea5.png)

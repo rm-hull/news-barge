@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Sarah Pochin said her children have begged her to quit politics because
   they fear for her safety
 image: https://static.independent.co.uk/2026/09/04/13/2026-09-04T122835Z_1743963393_RC2CCNAOMO3U_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Reform UK’s MPs now all have 24-hour security, Sarah Pochin has announced.

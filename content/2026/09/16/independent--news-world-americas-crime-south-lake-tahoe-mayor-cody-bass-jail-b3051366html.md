@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The mayor was already banned from Nevada bar when he threatened to ‘have
   people kill’ the employee
 image: https://static.the-independent.com/2026/09/16/13/37/Cody.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 The mayor of a California resort town will spend 10 days in jail following an altercation with a bouncer at a bar.

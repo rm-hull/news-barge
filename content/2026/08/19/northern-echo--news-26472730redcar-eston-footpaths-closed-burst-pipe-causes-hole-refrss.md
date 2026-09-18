@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Redcar and Cleveland Council will temporarily close Footpath No. 2 in
   Eston and Footpath No. 1 in Redcar from 24 August after a burst pipe caused a…
 image: https://www.thenorthernecho.co.uk/resources/images/19109350.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Pixabay)*

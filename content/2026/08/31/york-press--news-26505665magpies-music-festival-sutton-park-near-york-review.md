@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Our reviewer explains why this sold-out festival is 'the most treasured
   events in the calendar'
 image: https://www.yorkpress.co.uk/resources/images/21386664.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 ## Inside the sold-out festival near York where music makes it 'a most treasured event'

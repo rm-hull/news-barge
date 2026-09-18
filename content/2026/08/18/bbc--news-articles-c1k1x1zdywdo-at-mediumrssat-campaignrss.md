@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Interest rates on long-term US, UK, German and Japanese government debt
   have soared.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c03c/live/2a921030-9b15-11f1-ae25-295c0447cea3.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![A person pays with a credit card in a restaurant](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/c03c/live/2a921030-9b15-11f1-ae25-295c0447cea3.jpg)

@@ -10,6 +10,12 @@ description: Campaigners against an asylum centre opening in a North Yorkshire v
   say the people of Piddington have done a “really good job”, but they will not be
   following suit.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNlNzRkYmM5LWU2NDctNDhjZS1iMGVmLTQ4MDNkMWQwMDAwZToxMWQ1ZTlmNS00MDlkLTRkZTktYmU5Zi0wNDJlYWViN2ZiY2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Linton-on-Ouse: Campaigners hail Oxfordshire village's protest vote - but won't follow suit

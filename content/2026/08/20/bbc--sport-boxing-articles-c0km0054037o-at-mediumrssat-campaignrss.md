@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Francesca Hennessy is in talks to fight undisputed bantamweight world
   champion Dina Thorslund in the United Kingdom later this year, BBC Sport understands.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a9c/live/1b6dbb50-9c7c-11f1-8413-79a38c9f8909.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Francesca Hennessy in the ring before a fight](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/4a9c/live/1b6dbb50-9c7c-11f1-8413-79a38c9f8909.jpg)

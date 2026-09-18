@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Denmark says it hopes to start sending rejected asylum seekers to non-EU
   “return hubs" by 2027
 image: https://static.independent.co.uk/2026/09/04/12/EU_Return_Hubs_73217.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Denmark said it hoped to begin sending rejected asylum seekers to non-European Union “return hubs” as early as 2027, ahead of a Friday meeting of five countries leading European efforts to establish such centers outside the continent.

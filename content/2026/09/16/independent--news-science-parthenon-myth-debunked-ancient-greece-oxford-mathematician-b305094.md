@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Researchers say there is no evidence that ancient Greeks held any knowledge
   of the particular visual illusions attributed to the iconic structure
 image: https://static.independent.co.uk/2026/09/16/5/54/A-view-of-the-Parthenon-on-the-Athenian-Acropolis.jpeg?trim=0,5,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Science
+- Arts & Culture
 ---
 
 The Greek Parthenon’s iconic curves are a product of architectural tradition and not a calculated design choice to correct optical illusions as widely thought, according to a new study.

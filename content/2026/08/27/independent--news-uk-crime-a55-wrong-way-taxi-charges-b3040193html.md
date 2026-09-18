@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:00:32Z'
 published: '2026-08-27T00:00:00Z'
 description: The horrifying incident was caught on dashcam footage
 image: https://static.independent.co.uk/2026/08/25/10/36/TAxi-on-wrong-side-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A man has been charged after allegedly driving a stolen taxi the wrong way down a busy dual carriageway.

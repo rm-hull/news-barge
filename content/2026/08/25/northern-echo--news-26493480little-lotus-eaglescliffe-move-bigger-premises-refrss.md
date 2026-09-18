@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Little Lotus has announced it will leave its Eaglescliffe restaurant
   after outgrowing the site, with plans to relocate to a larger venue.
 image: https://www.thenorthernecho.co.uk/resources/images/20073548.jpg?type=og-image&xType=0&yType=222
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A popular Teesside restaurant has announced it will close its current premises this month as it prepares to move into a bigger home.

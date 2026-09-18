@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The retailer revealed that sales increased by 18% for the six months
   to July, compared with a year earlier.
 image: https://static.independent.co.uk/2026/09/14/08/14181209-b9716209-68d0-4767-91fd-11ae05f695ea.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Fashion firm Jigsaw has revealed a continued recovery in sales as strong demand for dresses helped it shrug off pressures on the high street.

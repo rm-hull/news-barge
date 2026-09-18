@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Consultant paediatrician Dr Mark Deakin, who died in July, was granted
   lifelong anonymity ahead of giving evidence in Letby’s trial
 image: https://static.independent.co.uk/2026/09/02/16/48/Letby-split-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A doctor who was accused of being a “crush” of child serial killer nurse Lucy Letby has been named after reporting restrictions were lifted following his death two months ago.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The gunman is among the dead in what is the third school shooting in
   the country since June.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/770e/live/22d1bd20-b337-11f1-910c-69bc1dc40919.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Members of the Philippine Red Cross and local rescue personnel walk across the grounds of Banga National High School in the Philippines. Several emergency and utility vehicles are parked in front of a two-storey school building displaying the words “BANGA NATIONAL HIGH SCHOOL.”](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/770e/live/22d1bd20-b337-11f1-910c-69bc1dc40919.jpg)

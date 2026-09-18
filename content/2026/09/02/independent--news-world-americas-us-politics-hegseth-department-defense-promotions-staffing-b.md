@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Defense Secretary’s latest reported interventions come amid a series
   of high profile departures from the Pentagon
 image: https://static.independent.co.uk/2026/08/29/15/21/GettyImages-2273284297.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Defense Secretary Pete Hegseth has blocked the promotion of at least six more U.S Army officers, according to reports.

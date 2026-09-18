@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: The cause of a car fire near Walmgate in York was found to be “undetermined”
   after an investigation, the fire service has said.
 image: https://www.gazetteherald.co.uk/resources/images/21403906.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Supplied)*

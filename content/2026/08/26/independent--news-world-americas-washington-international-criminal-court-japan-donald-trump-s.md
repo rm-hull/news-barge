@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The president of the International Criminal Court, Tomoko Akane, says
   there is no reason for her to face U.S. sanctions
 image: https://static.independent.co.uk/2026/08/26/13/Japan_Netherlands_ICC_89643.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The president of the International Criminal Court said Wednesday there is no reason she has to face U.S. sanctions, adding that she is asking Japan's government to work with Washington to avoid further escalating tensions.

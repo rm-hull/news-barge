@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: James Orr, an associate professor, was shown in Channel 4 News footage
   apparently trying to sidestep electoral law
 image: https://i.guim.co.uk/img/media/8ed95bc854b2253bb88d8ef3e8d7707e22cf6176/525_0_4904_3922/master/4904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=565d814d718ba8ce0abfc4030aca13c6
+categories:
+- UK
+- News & Politics
 ---
 
 Cambridge University has said it is examining the conduct of James Orr, its associate professor and a top Reform UK aide, after he was filmed appearing to try to circumvent electoral laws on foreign political donations.

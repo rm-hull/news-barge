@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: BRADFORD City will kick off their EFL Trophy campaign with a night of
   football and nostalgia.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355804.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Thomas Gadd)*

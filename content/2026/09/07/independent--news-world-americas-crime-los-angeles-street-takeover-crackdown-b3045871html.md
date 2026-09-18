@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:54Z'
 published: '2026-09-07T00:00:00Z'
 description: Authorities said more than 700 people had gathered for the illegal event
 image: https://static.the-independent.com/2026/07/25/14/Teen_Takeovers_44226.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Los Angeles authorities are warning that a massive crackdown on an illegal street takeover that resulted in 66 arrests and more than 200 vehicles being impounded is "only the beginning."

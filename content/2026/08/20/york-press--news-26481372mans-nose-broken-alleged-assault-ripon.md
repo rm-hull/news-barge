@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:07:53Z'
 published: '2026-08-20T00:00:00Z'
 description: A man sustained a broken nose after an alleged assault in Ripon.
 image: https://www.yorkpress.co.uk/resources/images/20278359.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,12 @@ description: Trump has touted a recent Census report. WIRED found grave flaws in
   analysis and the process behind it, and confirmed the identity of several of its
   authors—among them a one-time DOGE affiliate.
 image: https://media.wired.com/photos/6a8ca9921195045a7dd15d9e/191:100/w_1280,c_limit/GettyImages-2277731827.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A report published by the US Census Bureau last month purported to uncover evidence backing up President Donald Trump’s baseless claims that noncitizens voting cost him the 2020 election. It was the latest salvo in Trump’s broader assault on the safety of US elections. “I WON THE ELECTION,” Trump quickly declared on Truth Social after the publication of the report.

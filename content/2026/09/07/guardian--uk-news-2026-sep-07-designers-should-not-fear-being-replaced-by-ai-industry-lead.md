@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Firms are more likely to use technology as ‘the intern in the office’
   than as a replacement for skilled staff
 image: https://i.guim.co.uk/img/media/cc21511a496ca3abf0d917fe5db08013f7607f6a/0_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=967bf4ad076fdb20fa8616eb44d97a8a
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Professional designers should not feel “threatened” by the rapid growth of generative AI, according to business leaders, despite fears over job losses in the sector.

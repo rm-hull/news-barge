@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: The Gibbon Conservation Center, which has been running since 1976, is
   open for guided tours on the weekends
 image: https://static.independent.co.uk/2026/08/22/08/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Between morning feedings, the gibbons break into loud song.

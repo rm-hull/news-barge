@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Authorities say a lake formed after a recent landslide near the Nepal-Tibet
   border may breach in the coming days.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Barrier lake formed near Nepal and Tibet border](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg)

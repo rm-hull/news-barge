@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: ONE of the most recognisable landmarks in a North Yorkshire town has
   been removed by the council today.
 image: https://www.yorkpress.co.uk/resources/images/21394429.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## Landmark being removed from North Yorkshire town today

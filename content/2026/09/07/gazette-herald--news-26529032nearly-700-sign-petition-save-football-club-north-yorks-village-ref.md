@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: HUNDREDS of people have signed a petition to help save a football club
   in North Yorkshire which could lose access to its playing field.
 image: https://www.gazetteherald.co.uk/resources/images/21421292.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Video Gaming
 ---
 
 HUNDREDS of people have signed a petition to help save a football club in North Yorkshire which could lose access to its playing field.

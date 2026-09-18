@@ -9,6 +9,10 @@ description: Trump, who was nearly half an hour late to the Texas ceremony, also
   up in the awkward position of presenting the first medal to a Canadian astronaut,
   Jeremy Hansen, amid a raging tariff war with the US’s northern neighbors
 image: https://static.independent.co.uk/2026/08/28/18/2292469485..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump on Friday used an award ceremony meant to honor NASA’s Artemis II astronauts to tease the creation of what he described as a “U.S. Space Academy” to be built at an as-yet unannounced site.

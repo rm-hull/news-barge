@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: ‘I couldn’t let the day go by without sending you both a message,’ the
   prime minister said
 image: https://static.independent.co.uk/2026/08/24/7/14/burnham-wedding-video.png?trim=538,0,32,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Andy Burnham surprised a newlywed couple with a special message after the bride asked him to avoid No 10 North on their wedding day.

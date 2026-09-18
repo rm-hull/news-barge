@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Most papers feature the latest from the royal feud on the second day
   of Diana's brother Earl Spencer's book being serialised in the Daily Mail.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13ee/live/df682880-b2eb-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 ![The headline on the front page of the Daily Star reads: '"Giddy King elated like Lotto winner" after Di death.'](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/36f4/live/dc813a60-b2d9-11f1-a430-4d16ee157c41.jpg)

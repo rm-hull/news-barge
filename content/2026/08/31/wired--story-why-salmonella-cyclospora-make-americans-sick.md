@@ -10,6 +10,10 @@ description: While Trump administration cuts have contributed to the epidemic of
   illnesses this summer, there are also deeper issues that make the American food
   supply chain susceptible to parasites and bacteria outbreaks.
 image: https://media.wired.com/photos/6a8601649e543108a3a61dad/191:100/w_1280,c_limit/Science_From%20Diarrhea%20Lettuce%20to%20Salmonella%20Eggs,%20This%20Is%20a%20Hot,%20Sick%20American%20Summer_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 This summer, every meal feels like a risk.

@@ -10,6 +10,10 @@ description: An influx of immune cells into the uterus may be what initiates chi
   These grab on to muscle cells via tiny tubes and send across mitochondria to provide
   energy for contractions
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311661021.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311661021.jpg?w=840)

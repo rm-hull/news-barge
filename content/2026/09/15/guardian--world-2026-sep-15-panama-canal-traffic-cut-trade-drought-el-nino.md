@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Latest daily reductions will further choke one of the world’s most important
   shipping lanes
 image: https://i.guim.co.uk/img/media/a8cd351277cff5701058900b7fd425d7ef6802d1/563_0_6658_5327/master/6658.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47d7fe1fc657a82f4a148d9b9d7bbc1c
+categories:
+- UK
+- News & Politics
 ---
 
 The Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.

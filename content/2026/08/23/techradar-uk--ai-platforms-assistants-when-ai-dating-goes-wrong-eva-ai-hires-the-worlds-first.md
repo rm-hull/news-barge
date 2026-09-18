@@ -11,6 +11,8 @@ published: '2026-08-23T00:00:00Z'
 description: 'The great AI dating debate: is ''practicing'' on AI chatbots causing
   us harm?'
 image: https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A split screen showing phone screens of AI characters for dating, from EVA AI on the left, and real people meeting up in a busy park using the dating app MeetMeetNow on the right](https://cdn.mos.cms.futurecdn.net/3rwXHtw8e6pX48cWU6GB3X.jpg) 

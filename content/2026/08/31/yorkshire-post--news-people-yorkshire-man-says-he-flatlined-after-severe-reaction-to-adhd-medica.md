@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: A man says he nearly died after he had an allergic reaction to his ADHD
   medication which caused his stomach lining to rupture.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/31/7/57/mans-allergic-r-1593069.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Science
 ---
 
 # Yorkshire man says he ‘flatlined’ after severe reaction to ADHD medication

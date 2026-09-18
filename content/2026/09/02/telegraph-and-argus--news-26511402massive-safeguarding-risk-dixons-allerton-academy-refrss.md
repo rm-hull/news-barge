@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A large Bradford school has shut one of its entrances due to a huge safeguarding
   risk, the Telegraph & Argus understands.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20716476.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Telegraph & Argus)*

@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A drug user twice broke into the home of his father, the first time to
   steal to fund his addiction and the second seeking somewhere to sleep.
 image: https://www.thenorthernecho.co.uk/resources/images/21331773.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Durham Constabulary)*

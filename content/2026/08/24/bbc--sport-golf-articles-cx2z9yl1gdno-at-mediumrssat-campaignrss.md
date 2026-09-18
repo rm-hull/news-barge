@@ -10,6 +10,10 @@ description: Bryson DeChambeau says he is "proud" of what LIV Golf has achieved 
   the breakaway league facing questions about its future following the final event
   of the season in Indianapolis.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/924f/live/4b38f440-9fa5-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Bryson DeChambeau smiles while competing at the LIV Golf Indianapolis event](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/924f/live/4b38f440-9fa5-11f1-bff6-57f1422ebb0b.jpg)

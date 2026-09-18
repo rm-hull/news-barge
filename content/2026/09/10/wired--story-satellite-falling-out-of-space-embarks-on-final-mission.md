@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Before reentering our atmosphere, the telescopes onboard NASA’s Neil
   Gehrels Swift Observatory have been restarted to take their last observations.
 image: https://media.wired.com/photos/6aa18e19e013fa80cb9a0366/191:100/w_1280,c_limit/swift_view_01_comp.png
+categories:
+- Technology & Software
+- Science
 ---
 
 NASA has carried out some notable rescue missions over the past few years, including bringing home the astronauts stranded on the International Space Station last year. More recently, the agency sent up a probe in hopes of saving the Neil Gehrels Swift Observatory, a satellite first launched in 2004 that began falling out of our planet’s orbit.

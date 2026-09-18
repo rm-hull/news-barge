@@ -7,6 +7,12 @@ scraped_at: '2026-08-26T16:57:51Z'
 published: '2026-08-26T00:00:00Z'
 description: Legendary actor and singer Tim Curry has died aged 80.
 image: https://www.yorkpress.co.uk/resources/images/21376125.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 *(Image: YouTube)*

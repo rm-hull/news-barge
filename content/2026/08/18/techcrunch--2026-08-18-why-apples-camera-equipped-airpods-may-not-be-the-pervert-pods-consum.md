@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls
   of other AI wearables by preventing users from recording photos and videos.
 image: https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000
+categories:
+- Technology & Software
 ---
 
 Camera-equipped AI wearables today have developed a bit of a reputation problem. Devices like Meta’s Ray-Bans raise concerns about people being recorded without their consent. So the idea that Apple is reportedly preparing to release AirPods with cameras in them seems to conflict with the iPhone maker’s desire to position itself as a privacy-focused tech company.

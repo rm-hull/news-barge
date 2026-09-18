@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A development of 32 homes could soon be built on a site in Bradford –
   a decade after plans for a major housing scheme were approved.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332229.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: T&A)*

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hyte’s new case includes four RGB fans for much less than its other panoramic
   cases.
 image: https://cdn.mos.cms.futurecdn.net/NgsJEkzj8esBrPXZtEj24M-1604-80.png
+categories:
+- Technology & Software
+- Hardware
+- Shopping & Deals
 ---
 
 ![Hyte Y50 RGB](https://cdn.mos.cms.futurecdn.net/NgsJEkzj8esBrPXZtEj24M.png) 

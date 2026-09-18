@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T12:48:36Z'
 published: '2026-09-11T00:00:00Z'
 description: There have been delays on key roads near York on the A64.
 image: https://www.gazetteherald.co.uk/resources/images/18472099.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Public submission)*

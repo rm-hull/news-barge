@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A private family funeral is held for the singer who died on Tuesday at
   the age of 80.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a36d/live/d19e2b60-a51b-11f1-89d5-dd5482a9fcc2.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![More than two dozen singers and musicians in a row on stage below a large screen showing a photo of Dolly Parton and the Grand Ole Opry name](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/a59e/live/0255aa10-a519-11f1-89d5-dd5482a9fcc2.jpg)

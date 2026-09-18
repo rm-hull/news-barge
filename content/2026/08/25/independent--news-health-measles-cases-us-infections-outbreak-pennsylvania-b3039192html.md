@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Infection numbers have spiked nationwide throughout the year, with the
   CDC documenting 2,777 confirmed cases by August 20
 image: https://static.independent.co.uk/2026/07/31/14/28/GettyImages-1355334.jpeg?trim=0,35,0,34&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Health officials confirmed on Tuesday that two Pennsylvania residents have died from measles, marking the first fatalities from the infection reported in the U.S. in 2026 and the state's first in 35 years.

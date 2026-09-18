@@ -9,6 +9,10 @@ description: '"The number of casualties from the enemy attack on Kryvyi Rig is g
   according to Oleksandr Ganzha, head of the Dnipropetrovsk regional military administration.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/41/69/1200x675_cmsv2_82a85b2b-8989-5d12-b3c1-a168a598e1b0-9884169.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## "The number of casualties from the enemy attack on Kryvyi Rig is growing", according to Oleksandr Ganzha, head of the Dnipropetrovsk regional military administration.

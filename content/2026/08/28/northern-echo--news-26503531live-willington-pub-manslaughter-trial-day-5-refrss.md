@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Live coverage of Willington manslaughter trial following Christmas Eve
   death of Steven Shevels
 image: https://www.thenorthernecho.co.uk/resources/images/21356471.jpg?type=og-image&xType=0&yType=32
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 - Good morning and welcome to the live coverage of the manslaughter trial of Martin Greensmith.

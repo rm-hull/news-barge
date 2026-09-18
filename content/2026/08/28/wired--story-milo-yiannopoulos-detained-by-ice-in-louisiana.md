@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The longtime far-right operator and troll, a UK citizen, is being held
   in ICE custody pending his removal from the United States.
 image: https://media.wired.com/photos/6a91cfbdbb3a85e785f50a77/191:100/w_1280,c_limit/IMG_5395.jpeg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Milo Yiannopoulos, a British national known for his near-constant reinventions as a vizier within far-right American politics for more than a decade, has been detained by US Immigration and Customs Enforcement in Louisiana, according to the department’s records.

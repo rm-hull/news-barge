@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Tonight's National Lottery Lotto winning numbers for Saturday September
   5, 2026, have been drawn.
 image: https://www.thenorthernecho.co.uk/resources/images/18566090.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

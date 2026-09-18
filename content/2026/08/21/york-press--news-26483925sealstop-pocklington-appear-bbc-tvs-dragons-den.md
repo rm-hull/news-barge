@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Jason and Belle Richardson, , the inventors of SealStop, the multi-award-winning
   Yorkshire water-saving device, will be on TV's Dragons'…
 image: https://www.yorkpress.co.uk/resources/images/21353522.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 ## East Yorkshire couple to appear on Dragon's Den with award-winning invention

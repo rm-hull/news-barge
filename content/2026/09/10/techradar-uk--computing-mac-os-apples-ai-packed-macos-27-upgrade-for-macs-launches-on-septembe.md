@@ -9,6 +9,8 @@ published: '2026-09-10T00:00:00Z'
 description: Apple quietly announces macOS 27 launch date of September 14 – these
   are all the Macs that will be able to get the free upgrade...
 image: https://cdn.mos.cms.futurecdn.net/ctUFkwkvMxVyJJwJmZLPJ5-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A person using iPhone Mirroring on a MacBook Pro running macOS 27 Golden Gate.](https://cdn.mos.cms.futurecdn.net/ctUFkwkvMxVyJJwJmZLPJ5.jpg) 

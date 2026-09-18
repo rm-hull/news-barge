@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Newly-announced sponsors include Boeing, SpaceX's Starlink and Delta
   Air Lines
 image: https://static.independent.co.uk/2026/08/21/14/27/GettyImages-2285347475.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 President Donald Trump’s IndyCar race in Washington, D.C. this weekend is expected to draw powerful CEOs and business executives who will mingle with lawmakers at the Freedom 250 Grand Prix.

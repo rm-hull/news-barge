@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical
   AI investments.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Adit-Singh-mayfield-headshot.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Adit Singh was a partner at Foundation Capital when he helped source and co-lead the first funding round into then-obscure chip startup Cerebras.

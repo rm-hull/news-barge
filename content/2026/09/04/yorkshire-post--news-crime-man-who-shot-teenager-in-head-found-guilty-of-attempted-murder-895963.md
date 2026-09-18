@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A man who shot a teenage boy in the head in Sheffield has been found
   guilty of attempted murder.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwNGIzNzhlLWY3YzQtNDU5Zi04OWNlLThhYjQ0YzEyZWQ4MzpkZTYxYzI2Yy1kZTNkLTQ4YTUtYWFkYy1lZjVkMmRiYzQ2MGI=.png?crop=3:2,smart&trim=&width=588&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man who shot teenager in head found guilty of attempted murder

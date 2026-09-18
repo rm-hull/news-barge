@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Social Security’s trust funds could run out by 2032, potentially leading
   to benefit cuts if Congress doesn’t act
 image: https://static.independent.co.uk/2026/09/01/16/2261843151..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Millions of Social Security recipients could get an extra $200 a month under a proposal backed by Senator Bernie Sanders.

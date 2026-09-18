@@ -9,6 +9,10 @@ scraped_at: '2026-08-19T13:10:38Z'
 published: '2026-08-19T00:00:00Z'
 description: “The suits want us to tell you to please don’t actually send your pee.”
 image: https://cdn.mos.cms.futurecdn.net/52bsgy6XG4U8UxFuR6tzch-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Jason Kelce holding a glass of pee](https://cdn.mos.cms.futurecdn.net/52bsgy6XG4U8UxFuR6tzch.png) 

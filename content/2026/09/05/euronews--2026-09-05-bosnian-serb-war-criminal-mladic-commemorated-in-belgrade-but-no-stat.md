@@ -10,6 +10,9 @@ description: Thousands are expected at Mladić's burial in Belgrade on Monday, w
   presence. Brussels has earlier said any glorification would be "incompatible with
   the values on which the EU path is built".
 image: https://images.euronews.com/articles/stories/09/90/24/62/1200x675_cmsv2_02f4a2b6-45d8-5431-932a-ab7f1d97d0bd-9902462.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Thousands are expected at Mladić's burial in Belgrade on Monday, which will proceed without serving officials, artillery salutes or ceremonial military presence. Brussels has earlier said any glorification would be "incompatible with the values on which the EU path is built".

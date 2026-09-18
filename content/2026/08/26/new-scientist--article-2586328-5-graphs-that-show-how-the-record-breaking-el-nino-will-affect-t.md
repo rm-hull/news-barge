@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A stronger El Niño means more extreme weather, including droughts and
   wildfires in some places and flooding and tropical storms in others
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
 ---
 
 ![An airplane drops water on a wildfire in the foothills of Southern California, with palm grees in the foreground](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309544625.jpg?w=840)

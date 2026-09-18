@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: An Australian judge has ruled British rapper Yung Filly can return to
   Britain before he stands trial in Australia next year
 image: https://static.independent.co.uk/2026/08/21/07/Australia_Yung_Filly_72531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 British social media celebrity and rapper Yung Filly can return to Britain before he stands trial in Australia next year on charges of raping a fan, a judge ruled on Thursday.

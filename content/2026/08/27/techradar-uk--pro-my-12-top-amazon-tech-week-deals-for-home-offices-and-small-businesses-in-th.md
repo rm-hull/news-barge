@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: Amazon just launched a surprise Tech Week sale, and these 12 home office
   and small business deals are my favourites.
 image: https://cdn.mos.cms.futurecdn.net/SUEtJdZdsSbpZuHdbPDvmF-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Amazon Tech Week Sale](https://cdn.mos.cms.futurecdn.net/SUEtJdZdsSbpZuHdbPDvmF.jpg) 

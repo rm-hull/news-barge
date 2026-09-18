@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: What does it take to make an heirloom of the future? That is the captivating
   question playing on the mind of designer jeweller Joanne Gowan as she prepares
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/03/Joanne-Gowan-at-Pateley-Makers-Yard.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 What does it take to make an heirloom of the future? That is the captivating question playing on the mind of designer jeweller Joanne Gowan as she prepares for a major exhibition in North Yorkshire later this month.

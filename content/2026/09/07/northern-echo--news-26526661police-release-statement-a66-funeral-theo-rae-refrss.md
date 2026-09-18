@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Police have issued a warning ahead of another A66 crash victim’s funeral
   today, September 7.
 image: https://www.thenorthernecho.co.uk/resources/images/21417726.jpg?type=og-image&xType=0&yType=88
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police have issued a warning ahead of another A66 crash victim’s funeral today.

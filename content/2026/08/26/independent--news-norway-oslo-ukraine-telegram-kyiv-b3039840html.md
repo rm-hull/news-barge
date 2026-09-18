@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A pro-Russian hacker group has claimed responsibility for a cyberattack
   on Norwegian government digital services
 image: https://static.independent.co.uk/2026/08/26/17/Norway_Cyberattack_95849.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A pro-Russian hacker group on Wednesday claimed responsibility for a cyberattack that has affected multiple Norwegian government digital services over the past three days.

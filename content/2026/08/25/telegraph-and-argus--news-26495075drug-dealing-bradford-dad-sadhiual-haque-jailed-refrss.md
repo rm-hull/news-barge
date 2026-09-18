@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A Bradford-based drug dealer who sold heroin and crack has been locked
   up after being caught in a police county lines drug operation.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371082.jpg?type=og-image&xType=0&yType=671
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: West Yorkshire Police)*

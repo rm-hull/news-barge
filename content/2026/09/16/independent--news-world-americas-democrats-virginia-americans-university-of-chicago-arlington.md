@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A new AP-NORC poll shows Americans are growing more concerned about the
   environmental impacts of AI
 image: https://static.independent.co.uk/2026/09/03/12/Trump_Data_Centers_5_777.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 On the way home from a recent trip, Eriech Tapia drove past a sea of dark industrial buildings lining an already jam-packed northern Virginia road: data centers.

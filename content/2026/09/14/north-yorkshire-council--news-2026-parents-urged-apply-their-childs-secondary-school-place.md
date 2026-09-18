@@ -8,6 +8,14 @@ published: '2026-09-14T00:00:00Z'
 description: Parents and carers in North Yorkshire are being asked to apply for school
   places online ahead of a deadline at the end of next month.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Generic%20school%20pic%201.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Family & Parenting
+- Education & Learning
+- Society & Culture
 ---
 
 ![Children in school](https://www.northyorks.gov.uk/sites/default/files/2026-09/Generic%20school%20pic%201.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: European Commission President Ursula von der Leyen is set to deliver
   a major state of the European Union speech on Wednesday
 image: https://static.independent.co.uk/2026/09/15/10/France_Space_Summit_87422.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 European Commission President Ursula von der Leyen will deliver a major state of the European Union speech on Wednesday setting out her priorities for the next year and her vision for tackling the challenges faced by the world’s biggest trading bloc.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: York and North Yorkshire experienced a 'spectacular' storm for several
   hours on Sunday night.
 image: https://www.yorkpress.co.uk/resources/images/21392880.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## PICTURES - Your photos of 'spectacular' storm over York and North Yorkshire

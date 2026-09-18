@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A man connected to a number of burglaries and thefts has been caught
   after attempting to break in to a motorbike dealership.
 image: https://www.gazetteherald.co.uk/resources/images/18858259.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: NQ)*

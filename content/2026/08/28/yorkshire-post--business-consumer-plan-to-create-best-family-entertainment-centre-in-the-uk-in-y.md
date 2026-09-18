@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A popular Bradford business will expand into one of the city centre’s
   biggest empty units to create “the best family entertainment centre in the UK.”
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFiNDJmOTY3LWRkZTQtNDY3YS1hZmM0LTRmNWRjZmYxYzMyYzo4ZDFiYjMyOS00OWRhLTRmNjktYTdhMy1mYTBkZGU1ZTM5N2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Plan to create 'best family entertainment centre in the UK' in Yorkshire approved

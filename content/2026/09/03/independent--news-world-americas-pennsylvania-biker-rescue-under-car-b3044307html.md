@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Pennsylvania police chief credited the group's quick response with helping
   save the e-biker’s life
 image: https://static.independent.co.uk/2026/09/03/17/16/Untitled-design-(6).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A group of Good Samaritans in Pennsylvania rushed to free a woman trapped beneath a classic Volkswagen Beetle after her e-bike collided with the car, with the dramatic rescue captured on video.

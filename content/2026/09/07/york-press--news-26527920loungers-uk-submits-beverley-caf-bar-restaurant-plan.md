@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A planning application has been submitted to the county council on behalf
   of Loungers UK Limited to convert the former Nat West bank branch at 60-61…
 image: https://www.yorkpress.co.uk/resources/images/21419566.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: East Riding of Yorkshire Council planning)*

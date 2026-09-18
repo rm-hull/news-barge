@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Yorkshire’s three Labour mayors have urged the Prime Minister to bring
   Yorkshire Water under greater public control through mutualisation.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/16/cs-423df575-98ba-41a7-a6b0-a5f1665bf95e.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Andy Burnham to set out plans for public control of water companies before end of year

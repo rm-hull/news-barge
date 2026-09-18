@@ -9,6 +9,11 @@ description: Oscar-winning adaptation of Mario Puzo’s epic bestseller. Vito Co
   heads a major Mafia ‘family’ in 1940s New York, an enterprise his youngest son,
   Michael, hopes to escape.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p09082fy.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 # The Godfather

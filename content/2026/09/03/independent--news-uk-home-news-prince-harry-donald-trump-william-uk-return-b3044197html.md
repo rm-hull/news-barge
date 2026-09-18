@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: US president says he would ‘not have taken Duke and Duchess of Sussex
   back’ if he had been King Charles
 image: https://static.independent.co.uk/2026/09/03/15/960056694..?trim=0,149,0,149&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Donald Trump has accused Prince Harry of treating his brother, the Prince of Wales, in a “very terrible” way.

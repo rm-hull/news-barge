@@ -9,6 +9,11 @@ description: From working at Harrogate Hospital to caring for a young family, st
   at Harrogate College have been celebrating GCSE English and maths results after
   fitting their studies around work, family and other commitments.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/08/20/16/32/Harrogate-College.jpeg?trim=0,23,0,17&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
+- Family & Parenting
 ---
 
 # Harrogate College students celebrate GCSE success while juggling work and family

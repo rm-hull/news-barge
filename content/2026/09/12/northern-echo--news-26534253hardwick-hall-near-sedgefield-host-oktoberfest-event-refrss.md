@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Hardwick Hall Hotel near Sedgefield will host its own Oktoberfest celebration
   next month.
 image: https://www.thenorthernecho.co.uk/resources/images/21428650.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:46Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/06/police-van-york-street-north-yorkshire.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 There have been two reports of anti-social behaviour within the last three weeks on Millfield Road, Chapel Haddlesey.

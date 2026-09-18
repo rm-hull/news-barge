@@ -7,6 +7,8 @@ scraped_at: '2026-08-24T16:50:45Z'
 published: '2026-08-24T00:00:00Z'
 description: Hackers are yet to claim the attack
 image: https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH-1981-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![healthcare](https://cdn.mos.cms.futurecdn.net/fLLbfyMxWuqokngy6WuMzH.jpg) 

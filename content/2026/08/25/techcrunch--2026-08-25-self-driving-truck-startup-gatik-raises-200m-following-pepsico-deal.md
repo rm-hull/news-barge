@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The funding, Gatik's largest so far, was led by Qatar Investment Authority
   and Koch Disruptive Technologies.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Gatik, the autonomous vehicle startup known for its self-driving box trucks, has raised $200 million just two months after striking a multiyear commercial agreement with PepsiCo.

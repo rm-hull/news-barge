@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Davies & Sons Transport Limited has applied for a Goods Vehicle Operator’s
   Licence to base two lorries and two trailers at A V Dawson…
 image: https://www.thenorthernecho.co.uk/resources/images/19325251.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

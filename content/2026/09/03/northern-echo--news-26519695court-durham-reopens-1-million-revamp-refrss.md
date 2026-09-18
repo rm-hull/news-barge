@@ -9,6 +9,13 @@ published: '2026-09-03T00:00:00Z'
 description: A centuries-old tradition has been revived at a Durham pub as punters
   are welcomed back after a £1 million revamp.
 image: https://www.thenorthernecho.co.uk/resources/images/21407398.jpg?type=og-image&xType=0&yType=152
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
+- Business & Entrepreneurship
 ---
 
 ### What is the Public Notice Portal?

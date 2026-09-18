@@ -10,6 +10,10 @@ description: Federal Reserve Chair Kevin Warsh provided his most detailed insigh
   yet on how he views the central bank's fight against inflation in a high-profile
   speech an at annual economic conference in Jackson Hole Friday
 image: https://static.independent.co.uk/2026/08/29/15/Federal_Reserve_Jackson_Hole_42526.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Federal Reserve Chair Kevin Warsh renewed his inflation-fighting credentials in a speech Frida y that opened the door to potential rate hikes in the coming months.

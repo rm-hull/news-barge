@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Gold bars, US dollars, and Taiwan currency all appeared together in a
   strange Chinese military funding exercise
 image: https://cdn.mos.cms.futurecdn.net/yZEhLkoL4PamFdR4MZAgSB-1920-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A PLA soldier counts gold bars during the exercise with US dollars and Taiwanese dollars in the box.](https://cdn.mos.cms.futurecdn.net/yZEhLkoL4PamFdR4MZAgSB.png) 

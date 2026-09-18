@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Changes have been proposed to the development of a former petrol station
   in The Square in Stamford Bridge's conservation area.
 image: https://www.yorkpress.co.uk/resources/images/19049599.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Newsquest)*

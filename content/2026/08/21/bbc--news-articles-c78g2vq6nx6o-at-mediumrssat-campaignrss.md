@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The temporary order will allow the $400m (£297m) to continue while the
   high court mulls a final decision on the case.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![An aerial image of the White House, a large white building with tall classic columns. To the right of the building there's a large construction site, with scaffolding and cranes building a new structure.](https://ichef.bbci.co.uk/ace/standard/994/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg)

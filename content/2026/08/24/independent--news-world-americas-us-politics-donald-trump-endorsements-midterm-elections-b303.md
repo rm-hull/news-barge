@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: Trump boasted that his candidates have a 97% success rate across congressional,
   senate and gubernatorial elections
 image: https://static.independent.co.uk/2026/08/24/07/2291195686..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump touted the power of his political endorsements as the midterm elections loom on the American political calendar.

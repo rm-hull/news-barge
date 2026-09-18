@@ -11,6 +11,12 @@ description: The recent death of Professor Jason Arday warrants a period of refl
   society we have become and why we appear to have lost the ability to recognise the
   humanity of those placed under the glare of public scrutiny.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRmNDM5MWNlLWVkOGUtNDM0YS04NmQ0LWQ4NDBjODNhNTNmOTplZWFiN2Y5OS00ZGY2LTQxYjktYjI4Ni01M2E1NjcwYTg0MDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Society & Culture
 ---
 
 # What the death of Jason Arday shows us about society - Daxa Patel

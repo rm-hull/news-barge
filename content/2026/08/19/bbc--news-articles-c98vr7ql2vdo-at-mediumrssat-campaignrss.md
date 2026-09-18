@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T13:09:52Z'
 published: '2026-08-19T00:00:00Z'
 description: Francis Smith was one of a growing number of elderly people who are incarcerated.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![An elderly man wearing a plaid shirt and a surgical mask stands with the assistance of a cane](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/5794/live/42efc130-9751-11f1-9c09-a729ba578a81.jpg)

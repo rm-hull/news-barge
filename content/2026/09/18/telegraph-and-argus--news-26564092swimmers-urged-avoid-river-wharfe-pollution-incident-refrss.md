@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Residents have been advised not to swim in part of the River Wharfe after
   a pollution incident in Ilkley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16690087.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

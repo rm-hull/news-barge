@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Galeano, who has had asylum application pending for about seven years,
   was pulled over by agents while driving for Lyft
 image: https://i.guim.co.uk/img/media/89bda09353fda40b6fa17cc8b24e40fd84d7508d/58_0_584_467/master/584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=121979977ccc003e45a503de9cf768a3
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Veteran journalist Luis Galeano, one of at least 94 Nicaraguans whom the Ortega Murillo regime has stripped of citizenship in recent years for opposing the government, has been detained by US Immigration and Customs Enforcement (ICE).

@@ -9,6 +9,11 @@ description: '"We will support our workers, our businesses and our industries wi
   whatever it takes, for as long as it takes," Canadian Finance Minister François-Philippe
   Champagne said on Tuesday.'
 image: https://images.euronews.com/articles/stories/09/88/84/30/1200x675_cmsv2_4553b70f-bb66-5909-a3be-ceff11e4f2fe-9888430.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## "We will support our workers, our businesses and our industries with whatever it takes, for as long as it takes," Canadian Finance Minister François-Philippe Champagne said on Tuesday.

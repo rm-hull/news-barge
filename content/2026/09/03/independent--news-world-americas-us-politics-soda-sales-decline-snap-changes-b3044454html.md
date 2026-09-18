@@ -10,6 +10,11 @@ description: Restricting sugary drink purchases for SNAP recipients will ‘help
   real food back at the center of the program,’ Health Secretary Robert F. Kennedy
   Jr. said
 image: https://static.independent.co.uk/2026/09/03/21/19/Soda.jpeg?trim=0,5,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Health & Fitness
 ---
 
 Soda sales have fizzled out after several states banned food stamp recipients from buying pop.

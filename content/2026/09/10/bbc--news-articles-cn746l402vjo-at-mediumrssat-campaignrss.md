@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Volunteers were targeted online after it assisted in the rescue of people
   crossing the Channel on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/643c/live/fd742ec0-acf9-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![People wrapped in blankets on the back of an RNLI lifeboat moored by a pontoon at Eastney, Portsmouth, on 6.9.26](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/643c/live/fd742ec0-acf9-11f1-bc1f-3f186ca4140c.jpg)

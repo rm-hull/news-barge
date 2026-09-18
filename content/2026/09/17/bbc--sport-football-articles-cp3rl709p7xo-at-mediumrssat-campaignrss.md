@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Can the potential of a golden generation of Israel's footballers, in
   sport and society, be realised?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04ca/live/e0721ca0-9f9e-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 **It was, says Ido Rakovsky, like reporting on "science fiction", rather than sport.**

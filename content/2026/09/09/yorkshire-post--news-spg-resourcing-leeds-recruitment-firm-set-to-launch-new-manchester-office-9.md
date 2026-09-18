@@ -9,6 +9,12 @@ description: Leeds-based recruitment firm SPG Resourcing has announced that it i
   opening a Manchester office as the firm steps up its international expansion across
   the US, UAE and other global markets.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJkNjVlOTc2LTBmM2YtNDU1Yy1iNDEyLTUwYmY1MmMyOGEwNTo0ZmY5NGRmMS0xNjg0LTQzOTEtODZiNC01ZTQxYzIwOWNlYmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # SPG Resourcing: Leeds recruitment firm set to launch new Manchester office

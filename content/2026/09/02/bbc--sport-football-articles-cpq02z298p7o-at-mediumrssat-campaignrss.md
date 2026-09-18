@@ -9,6 +9,10 @@ description: Manchester City have completed a squad overhaul including a fully r
   midfield to the tune of a Premier League record £458m, but that eyewatering number
   does not tell the full story.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dfdf/live/8babcca0-a6cb-11f1-b0c9-07afcdd8053c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Elliot Anderson (left), Enzo Fernandez (middle) and Ayyoub Bouaddi](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/dfdf/live/8babcca0-a6cb-11f1-b0c9-07afcdd8053c.png)

@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: A Florida man convicted of fatally shooting his estranged wife and wounding
   his mother-in-law is set to be executed
 image: https://static.independent.co.uk/2026/08/18/05/Florida_Execution_64661.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Florida man convicted of fatally shooting his estranged wife and wounding his mother-in-law is set to be executed Tuesday, continuing the state's aggressive use of the death penalty in Republican Gov. Ron DeSantis ' final term.

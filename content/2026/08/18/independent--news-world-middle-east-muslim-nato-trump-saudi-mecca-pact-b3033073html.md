@@ -9,6 +9,10 @@ description: After the chaos sparked by Trump and Israel’s war in Iran, expert
   Maira Butt that the Mecca Agreement between Saudi Arabia, Pakistan and Turkey could
   represent a new dawn in the region
 image: https://static.independent.co.uk/2026/08/17/09/download.-10.?trim=49,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 As Donald Trump continued his attacks on Iran earlier this month, a deal that could radically reshape security in the Middle East was quietly being done in Saudi Arabia.

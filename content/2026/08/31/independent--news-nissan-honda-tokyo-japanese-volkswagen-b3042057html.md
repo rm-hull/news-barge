@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Japanese automakers Nissan and Honda are going to jointly develop computer
   parts and software for vehicles set to enter the market in fiscal 2029
 image: https://static.independent.co.uk/2026/08/31/10/Japan-Nissan-Honda__5584.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 Japanese automakers Nissan and Honda entered a deal to jointly develop computer parts and software for vehicles set to enter the market in fiscal 2029, both sides said Monday.

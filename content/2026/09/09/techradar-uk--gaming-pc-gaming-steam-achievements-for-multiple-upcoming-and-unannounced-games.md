@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Valve may have accidentally leaked Steam achievements for both upcoming
   and unannounced games, and gamers should be very wary of potential spoilers.
 image: https://cdn.mos.cms.futurecdn.net/cwV49XpqGZ6QfU2zA5gCxV-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Game art of Control Resonant, Steam's logo, and Gears of War E-Day](https://cdn.mos.cms.futurecdn.net/cwV49XpqGZ6QfU2zA5gCxV.jpg) 

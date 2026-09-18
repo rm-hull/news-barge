@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Concerned councillors have questioned whether North Yorkshire Council’s
   loss-making housing company will ever turn its finances around — despite…
 image: https://www.thenorthernecho.co.uk/resources/images/21002954.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Concerned councillors have questioned whether North Yorkshire Council’s loss-making housing company will ever turn its finances around — despite a five-year recovery plan being drawn up.

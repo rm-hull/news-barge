@@ -7,6 +7,11 @@ scraped_at: '2026-09-14T20:18:03Z'
 published: '2026-09-14T00:00:00Z'
 description: The US’s tech-focused Nasdaq 100 index was down by about 1.2% on Monday.
 image: https://static.independent.co.uk/2026/09/14/17/26144844-e1831d12-d34d-4d3e-98b8-d0f25db64680.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Global technology stocks have slumped after warnings from artificial intelligence (AI) bosses sparked fears that the pace of the technology’s development could slow.

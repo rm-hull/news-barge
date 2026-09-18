@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The graphic images were shown on the second day of testimony against
   Duane ‘Keffe D’ Davis
 image: https://static.the-independent.com/2026/08/18/22/2026-08-18T170342Z_281790399_RC241NAIWM94_RTRMADP_3_PEOPLE-TUPAC-MURDER-COURT.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Some members of Tupac Shakur’s family left the courtroom Tuesday before prosecutors presented autopsy photos during the Las Vegas trial of the man accused of orchestrating the rapper’s 1996 killing.

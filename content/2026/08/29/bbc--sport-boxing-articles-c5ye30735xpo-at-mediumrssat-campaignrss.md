@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Figures from the boxing world give their predictions for Saturday's heavyweight
   world title fight between Moses Itauma and Filip Hrgovic.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50c4/live/39404390-a2d6-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Prince Naseem Hamed praises Moses Itauma before his fight on Saturday

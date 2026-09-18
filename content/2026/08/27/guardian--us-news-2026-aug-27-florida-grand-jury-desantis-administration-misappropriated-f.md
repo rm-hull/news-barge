@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Grand jury declined to indict anyone but said there was a ‘sophisticated
   scheme’ to use funds for political activity
 image: https://i.guim.co.uk/img/media/09252f26832a200e875e1e9b2d5a4a5d2a6a1300/407_0_4070_3257/master/4070.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70ffae612bf86600427cc8ef8853fb15
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Personal Finance & Investing
 ---
 
 A Florida grand jury has found that the administration of the governor, Ron DeSantis, “misappropriated” $10m in taxpayer money from a Medicaid settlement into the Hope Florida Foundation, a charity with ties to DeSantis’s wife, before the money was reportedly “funneled” into “two political action committees”.

@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: The Falcon A1C is an ultra-compact, feature-packed desktop laser engraver
   that’s perfect for beginners, education, and small business use.
 image: https://cdn.mos.cms.futurecdn.net/FXhjWrgTtQUbLcxMQd2qqL-1200-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ### TechRadar Verdict

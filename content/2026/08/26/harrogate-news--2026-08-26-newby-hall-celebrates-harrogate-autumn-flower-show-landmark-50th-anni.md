@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Newby Hall & Gardens is welcoming the Harrogate Autumn Flower Show back
   to the award‑winning estate this September (Friday 18–Sunday 20 September) as the
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/The-Harrogate-Autumn-Flower-Show-returns-to-Newby-Hall-from-18-20-September-1.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 Newby Hall & Gardens is welcoming the Harrogate Autumn Flower Show back to the award‑winning estate this September (Friday 18–Sunday 20 September) as the event celebrates its 50th anniversary.

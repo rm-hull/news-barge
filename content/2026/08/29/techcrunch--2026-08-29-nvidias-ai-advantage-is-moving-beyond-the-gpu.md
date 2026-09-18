@@ -8,6 +8,8 @@ published: '2026-08-29T00:00:00Z'
 description: The new generation of data center systems is increasing efficiency with
   smarter traffic control instead of just more processor cycles.
 image: https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800
+categories:
+- Technology & Software
 ---
 
 Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profitable as the industry scaled out. In the last few years, hyperscalers like Amazon and Google have started building their own chips, and Nvidia is no longer the only game in town, leading many investors to wonder how durable its advantage really is.

@@ -8,6 +8,13 @@ published: '2026-08-28T00:00:00Z'
 description: A jewellery company based in the North East has been quickly sold after
   entering administration, saving all jobs at risk.
 image: https://www.thenorthernecho.co.uk/resources/images/21381544.jpg?type=og-image&xType=0&yType=272
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: Stock Photo)*

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Hundreds of students were attending classes at the school when an 18-year-old
   with a sword attacked multiple people, police say
 image: https://static.independent.co.uk/2026/08/21/21/2290780071..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 An 18-year-old with a sword attacked a school in central Sweden Friday, killing one person and seriously injuring two others, according to police.

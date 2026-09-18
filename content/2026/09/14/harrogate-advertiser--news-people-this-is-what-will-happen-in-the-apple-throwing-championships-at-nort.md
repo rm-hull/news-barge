@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Newby Hall will be the place to be for anyone who has ever wanted to
   see the fine art of apple throwing in action.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjNmMTlmODliLTVkMjAtNGU1Ny05NjcyLTA4ZDg5M2VjZTY5MzozYmI2MjdmZS0yMGVlLTQwODctODU4OS1lZDQ1ODczZTkyYTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # This is what will happen in the Apple Throwing Championships at North Yorkshire stately home

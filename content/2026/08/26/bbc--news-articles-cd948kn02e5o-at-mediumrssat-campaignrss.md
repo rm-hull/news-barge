@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Hundreds are feared to have died in flooding and landslides on the border
   of Nepal and Tibet.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Video shows scale of flash flood hitting Nepal-Tibet border

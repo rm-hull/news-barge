@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Roni Carlson, in wake of mistrial, says holdout juror could not be persuaded
   while colleague calls him ‘very arrogant’
 image: https://i.guim.co.uk/img/media/c9a8afdbc051a948f98551d7bc07c1987b8c84ee/270_0_2659_2128/master/2659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a34aecf2246afa6e9d3120d3cc8b887a
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A lone juror in the trial of Lindsay Clancy, the Massachusetts mother accused of the murder of her three children, would not agree to acquit Clancy despite expressing reasonable doubt about whether she was guilty, the jury’s foreperson said in an interview airing Monday.

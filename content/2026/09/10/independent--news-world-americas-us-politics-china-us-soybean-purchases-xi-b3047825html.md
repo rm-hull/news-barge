@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:54:41Z'
 published: '2026-09-10T00:00:00Z'
 description: China has bought around 1 million metric tons of U.S. soybeans this week
 image: https://static.independent.co.uk/2026/09/10/09/2026-09-07T090336Z_1354596704_RC29ENAOYFZN_RTRMADP_3_CHINA-SOYBEANS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 China has procured approximately 1 million metric tons of U.S. soybeans this week, four traders told Reuters, as the world's top oilseed buyer steps up purchases ahead of Chinese President Xi Jinping's visit to Washington later this month.

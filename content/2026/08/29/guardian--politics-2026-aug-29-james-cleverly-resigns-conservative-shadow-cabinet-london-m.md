@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Shadow minister for housing, communities and local government to resign
   with immediate effect
 image: https://i.guim.co.uk/img/media/e4035340827b68751760979e7ec802c50c868ce5/188_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=383f80079ca63117bfe0b20077b81048
+categories:
+- UK
+- News & Politics
 ---
 
 James Cleverly has resigned from the shadow cabinet to run for mayor of London.

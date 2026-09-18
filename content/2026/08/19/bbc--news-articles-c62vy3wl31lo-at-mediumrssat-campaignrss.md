@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Damascus called the attacks "an unjustified act of aggression" that imperilled
   regional security.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ![An aerial view of the Abu al-Duhur Military Airbase following armed groups opposing the Bashar al-Assad regime in Syria capture the airport in southeastern Idlib, Syria on December 04, 2024.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/894e/live/a5cacf90-9b5a-11f1-93f8-bdd21a7c3268.jpg)

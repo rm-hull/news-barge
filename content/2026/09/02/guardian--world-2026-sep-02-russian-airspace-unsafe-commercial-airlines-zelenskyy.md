@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Ukraine’s president says aviation industry needs to take account of growing
   number of Ukrainian drones in Russia
 image: https://i.guim.co.uk/img/media/f8f9e132d3ed592178d215bf40338744f9cefa41/665_0_4803_3844/master/4803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=182c318162053de09a9473816f9bd976
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Volodymyr Zelenskyy has said Russia’s airspace is becoming unsafe for commercial airlines, as Vladimir Putin promised to step up strikes against Ukraine’s energy facilities in the run-up to winter.

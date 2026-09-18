@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Fawning, deferential, oleaginous – this was the Untruth and Reconciliation
   Commission as Trump called in to 77 WABC
 image: https://i.guim.co.uk/img/media/15b1462c6ccd88e976846690643a60a8f282fed0/265_0_1601_1281/master/1601.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5dda1220ca0e25e5dde4e3ab3f90abf
+categories:
+- UK
+- News & Politics
 ---
 
 “Our next guest is a ‘racist’, a ‘conman’ and a ‘cheat’ – someone who behaves more like a ‘mobster’ than a president. Please welcome Donald J Trump!”

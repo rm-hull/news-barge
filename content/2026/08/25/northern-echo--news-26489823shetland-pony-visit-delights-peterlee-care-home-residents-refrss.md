@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Poppy the Shetland pony from Grove Equestrian delighted residents at
   Peterlee Care Home in County Durham
 image: https://www.thenorthernecho.co.uk/resources/images/21363693.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T15:00:48Z'
 published: '2026-09-14T00:00:00Z'
 description: The body of a man was discovered in Ripon Canal on Sunday morning.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY5OGU3ZTg2LTg4OWMtNDViNC04NWQ1LTA4ZjE5Nzc5Y2Q2NTo3M2Y3OGQ5YS1jNjE1LTQyM2ItYjcyMy05MjNmOTJmNmFkZjA=.png?crop=3:2,smart&trim=&width=1035&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Body of man found in Ripon Canal by member of public as search for next of kin underway

@@ -9,6 +9,10 @@ description: Nicholas Brandram’s family say he ‘took his own life after mont
   immense pressure caused by a Metropolitan Police investigation’ after living with
   the ‘shame, anxiety and humiliation’ of the probe
 image: https://static.independent.co.uk/2026/09/16/15/26/nicholas-brandram-new.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The family of Nicholas Brandram have insisted he was not the “Putney pusher” in a damning statement claiming “immense pressure” caused by the police contributed to his death.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T04:44:42Z'
 published: '2026-08-22T00:00:00Z'
 description: The Met Office is predicting a dry and bright weekend across York.
 image: https://www.yorkpress.co.uk/resources/images/21182361.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

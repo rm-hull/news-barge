@@ -9,6 +9,11 @@ description: A number of schools in Middlesbrough are closing early on Friday as
   first funeral for one of five young men killed in a head-on crash on the A66 takes
   place.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/29/00/v2-image-production-206b28808d540e77c2d793b2c6b71614Y29udGVudHNlYXJjaGFwaSwxNzg4MDM4MjUx-2.85627742.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Schools to close early over expected ‘traffic disruption’ for A66 crash funeral

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Silence fell across a packed street as hundreds gathered to say a final
   goodbye to PC Matthew Blades.
 image: https://www.thenorthernecho.co.uk/resources/images/21431373.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Silence fell across a packed street as hundreds gathered to say a final goodbye to PC Matthew Blades.

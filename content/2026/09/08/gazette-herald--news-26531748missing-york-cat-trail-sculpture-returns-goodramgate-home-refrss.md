@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Gerald the Minster Cat, a stone sculpture in Holy Trinity Church in Goodramgate,
   was removed from the popular York Cat Trail recently after being…
 image: https://www.gazetteherald.co.uk/resources/images/21425171.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A MUCH-LOVED memorial figure has returned to its home in York to delight the many thousands of visitors who take part in one of the city's self-guided tours.

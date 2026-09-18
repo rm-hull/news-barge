@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Liam Potts, 22, went into the river ‘minutes’ after a car crashed into
   pedestrians nearby
 image: https://static.independent.co.uk/2026/08/22/14/57/779944964_1098674806059743_7693069740154278043_n.jpeg?trim=0,0,638,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two men have been arrested on suspicion of manslaughter after the death of a young soldier who disappeared on a night out with friends.

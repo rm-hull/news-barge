@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Three members of a community club have been honoured for their long-standing
   service and dedication.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21428550.jpg?type=og-image&xType=0&yType=61
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

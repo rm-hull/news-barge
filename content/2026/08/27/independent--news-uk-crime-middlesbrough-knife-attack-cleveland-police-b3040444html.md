@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: A 39-year-old man is receiving treatment following an assault involving
   a bladed weapon, Cleveland Police says
 image: https://static.independent.co.uk/2026/08/26/15/2292153396..?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 More than 200 police officers from around the country will be deployed to Middlesbrough following a series of violent incidents in the town which have left nine people dead.

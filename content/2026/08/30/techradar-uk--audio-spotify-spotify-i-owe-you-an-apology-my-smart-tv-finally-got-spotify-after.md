@@ -9,6 +9,8 @@ published: '2026-08-30T00:00:00Z'
 description: I haven't stopped watching music videos on Spotify since the app came
   to my smart TV.
 image: https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Poker Face music video playing on the Spotify smart TV app](https://cdn.mos.cms.futurecdn.net/Bwf5mSRVFSGpdvzxwoyWEn.jpg) 

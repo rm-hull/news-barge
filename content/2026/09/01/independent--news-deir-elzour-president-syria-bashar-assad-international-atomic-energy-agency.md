@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Inspectors with the U.N. nuclear watchdog visited several sites in Syria
   in August
 image: null
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 UN report finds Syria was building a nuclear reactor in Deir el-Zour under former President Assad

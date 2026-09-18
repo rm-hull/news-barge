@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: 'As polls point to victory in Saxony-Anhalt for AfD party promising deportations,
   people face agonising choice: stay or go'
 image: https://i.guim.co.uk/img/media/b370a30c9c0c7dd1119ebf3439bdbeac63603a58/708_0_3878_3104/master/3878.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e51e7625e1363e37e1bd6ceb9dd526ab
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 As the Bible study session wrapped up, leaving worshippers to mingle over cake and coffee, Fatemeh, 44, fought back tears as the conversation turned to Sunday’s state election in Saxony-Anhalt.

@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: The IKEA Badkruka Bluetooth speaker brings with it easy Spotify integration,
   stereo pairing, and EQ settings.
 image: https://cdn.mos.cms.futurecdn.net/deAyZrULULimsM6V86sCYS-1600-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![IKEA Badkruka](https://cdn.mos.cms.futurecdn.net/deAyZrULULimsM6V86sCYS.jpg) 

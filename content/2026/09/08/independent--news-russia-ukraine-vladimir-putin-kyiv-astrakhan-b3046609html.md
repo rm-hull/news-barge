@@ -10,6 +10,9 @@ description: Russian authorities say they have detained a suspect in last weekâ€
   that wounded a senior military officer, the latest in a series of attacks on personnel
   and figures linked to the war in Ukraine
 image: https://static.independent.co.uk/2026/09/08/14/Russia_Shooting__1618.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russian authorities said Tuesday they have detained a suspect in last weekâ€™s shooting that wounded a senior military officer, the latest in a series of attacks on personnel and figures linked to the war in Ukraine.

@@ -9,6 +9,10 @@ description: Chancellor Merz's government must recognise the far-right AfD's vic
   in Saxony-Anhalt and voter discontent that led to the win, or further cement its
   downfall, an expert on East German politics warned.
 image: https://images.euronews.com/articles/stories/09/90/44/75/1200x675_cmsv2_fda001e0-36da-5697-bb0e-6a092b496859-9904475.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Chancellor Merz's government must recognise the far-right AfD's victory in Saxony-Anhalt and voter discontent that led to the win, or further cement its downfall, an expert on East German politics warned.

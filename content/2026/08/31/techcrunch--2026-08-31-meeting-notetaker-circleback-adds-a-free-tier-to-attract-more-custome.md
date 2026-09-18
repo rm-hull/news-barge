@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: Circleback is also introducing new pricing plans starting from $14 per
   month.
 image: https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg?resize=1200,737
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The meeting note-taker market is a crowded space. Just in the last few weeks, dictation app Wispr launched its own note-taker and scheduling app, and Calendly added a similar tool to its stack. Dedicated meeting note-takers like Granola, Read AI, and Fireflies have raised millions of dollars in funding.

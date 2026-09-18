@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Motorcycle club president Peter ‘Tiki’ Mason, 71, crashed and died on
   the Western Highway at Trawalla, west of Ballarat, on Sunday
 image: https://i.guim.co.uk/img/media/73072e232729e9e5b2619fbe84f4dee47245dff1/653_0_6530_5224/master/6530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35295c96d8896d3beccb9a352ce8d327
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The death of a motorcyclist who reportedly hit a pothole has put Victoria’s government under renewed pressure over the condition of the state’s roads.

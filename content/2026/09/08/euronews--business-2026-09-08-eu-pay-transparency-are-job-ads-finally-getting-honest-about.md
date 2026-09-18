@@ -9,6 +9,12 @@ description: Only a few EU countries met the deadline for the Pay Transparency D
   Indeed’s data shows possible changes in the share of job postings that include salary
   information.
 image: https://images.euronews.com/articles/stories/09/90/14/02/1200x675_cmsv2_b35c1aaa-66f1-5409-9e7b-170855e87d42-9901402.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 ## Only a few EU countries met the deadline for the Pay Transparency Directive. Indeed’s data shows possible changes in the share of job postings that include salary information.

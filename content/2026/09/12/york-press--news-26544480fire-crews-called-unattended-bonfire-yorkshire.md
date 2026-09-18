@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Emergency services have been called to an unattended bonfire in the village
   of Middleton near Pickering.
 image: https://www.yorkpress.co.uk/resources/images/21444240.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Pixabay)*

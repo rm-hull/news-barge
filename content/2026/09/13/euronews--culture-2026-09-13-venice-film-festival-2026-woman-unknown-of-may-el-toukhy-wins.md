@@ -9,6 +9,10 @@ description: El-Toukhy's drama depicts the life of a young nanny and housekeeper
   marries her wealthy and older widower employer, but harbours a shameful secret that
   threatens to unravel her new life and status in the post-World War II anarchy.
 image: https://images.euronews.com/articles/stories/09/91/12/65/1200x675_cmsv2_25cef28f-47f4-5671-9249-bb36a5f8d53b-9911265.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## El-Toukhy's drama depicts the life of a young nanny and housekeeper who marries her wealthy and older widower employer, but harbours a shameful secret that threatens to unravel her new life and status in the post-World War II anarchy.

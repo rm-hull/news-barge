@@ -10,6 +10,9 @@ description: The House returned from recess Monday. But, writes Eric Garcia, the
   has tied Republican members’ hands when it comes to the biggest complaints of American
   voters
 image: https://static.independent.co.uk/2026/08/31/18/2280909079..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 If House Speaker Mike Johnson hoped for a relatively calm week back in Washington after the August recess, President Donald Trump disabused him of that notion.

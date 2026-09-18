@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Gillian Anderson fronts M&S's new autumn campaign, with fashion must-haves
   from £14 and more than half the collection under £30.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411458.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Gillian Anderson has returned to M&S as its Chief Compliments Officer, and this time she is helping shoppers discover the autumn fashion pieces set to dominate wardrobes over the coming months.

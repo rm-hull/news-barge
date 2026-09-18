@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Gary Anderson, who is serving 15 years for the murder of Karol Kelly
   in Londonderry in 2018, remains on the run on Wednesday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e91/live/f331b570-b066-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Mugshot of man with short dark hair and a grey sweater](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/6e91/live/f331b570-b066-11f1-a540-61c3f7fc4e6c.jpg)

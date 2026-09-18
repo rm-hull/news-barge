@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Diesel prices could rise sharply as refining capacity comes under pressure.
   Here are the latest warnings and ways drivers can cut fuel costs.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20482310.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Irene Miller)*

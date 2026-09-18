@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Courteeners will play two intimate shows at Middlesbrough Empire on October
   29, with both performances selling out just hours after tickets went on…
 image: https://www.thenorthernecho.co.uk/resources/images/20767824.jpg?type=og-image&xType=0&yType=87
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A major indie rock band is heading to Teesside next month, selling out both shows in a matter of hours.

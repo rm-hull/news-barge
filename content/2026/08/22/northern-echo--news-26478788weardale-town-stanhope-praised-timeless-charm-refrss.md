@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: A ‘storybook’ County Durham town has been praised by visitors for its
   ‘timeless charm’, with some saying a trip there is like ‘stepping…
 image: https://www.thenorthernecho.co.uk/resources/images/21342749.jpg?type=og-image&xType=0&yType=199
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Arts & Culture
 ---
 
 A County Durham market town has been praised by visitors for its peaceful atmosphere, historic streets and picturesque countryside setting.

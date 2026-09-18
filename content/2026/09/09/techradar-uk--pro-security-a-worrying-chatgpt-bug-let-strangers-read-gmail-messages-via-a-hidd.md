@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T19:14:55Z'
 published: '2026-09-09T00:00:00Z'
 description: Researchers say it's worth an investigation, in spite of caveats
 image: https://cdn.mos.cms.futurecdn.net/PB5R692ChqyHSzKEtqDyYe-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT app](https://cdn.mos.cms.futurecdn.net/PB5R692ChqyHSzKEtqDyYe.jpg) 

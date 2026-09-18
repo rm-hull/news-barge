@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Shares are mostly lower in Asia and U.S. futures also have declined on
   expectations that the U.S. Federal Reserve may raise interest rates soon
 image: https://static.independent.co.uk/2026/08/31/07/Japan_Financial_Markets_93_89.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Shares were mostly lower in Asia and U.S. futures also declined Monday on expectations that the U.S. Federal Reserve may raise interest rates soon.

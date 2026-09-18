@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Speed limit dropped from 60km/h for around 70% of general roads in the
   hope of making narrow streets of crowded cities safer
 image: https://i.guim.co.uk/img/media/239bad6d4d630d5c23de374c64025bb65a23c595/0_1123_3620_2894/master/3620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e438e58aef117f560c2c3625f31545b
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Drivers on residential roads in Japan have been forced to take their foot off the accelerator, after the speed limit was slashed from 60km/h (37mph) to 30km/h in an attempt to reduce deaths and injuries among pedestrians on narrow urban streets.

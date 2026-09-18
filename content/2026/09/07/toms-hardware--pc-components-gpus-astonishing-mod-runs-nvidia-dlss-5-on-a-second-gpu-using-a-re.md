@@ -9,6 +9,10 @@ scraped_at: '2026-09-07T14:13:22Z'
 published: '2026-09-07T00:00:00Z'
 description: Harkening back to the days of PhysX.
 image: https://cdn.mos.cms.futurecdn.net/4ZFtovYiMpEBjjieRS5K5j-1263-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Cyberpunk DLSS overlay](https://cdn.mos.cms.futurecdn.net/4ZFtovYiMpEBjjieRS5K5j.jpg) 

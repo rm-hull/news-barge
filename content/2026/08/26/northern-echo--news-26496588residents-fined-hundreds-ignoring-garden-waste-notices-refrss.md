@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: North East households have been fined up to £917 after failing to clear
   waste from gardens and ignoring Community Protection Notices.
 image: https://www.thenorthernecho.co.uk/resources/images/21373158.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Durham County Council)*

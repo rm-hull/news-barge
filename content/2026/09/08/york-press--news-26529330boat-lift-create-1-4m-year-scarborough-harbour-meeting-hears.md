@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A PLANNED boat hoist project in a North Yorkshire town could generate
   £1.4 million a year for the local economy, a local group has said.
 image: https://www.yorkpress.co.uk/resources/images/21000465.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Boat lift proposal could generate £1.4m annually, harbour meeting hears

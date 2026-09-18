@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Thomasina Tobin and her husband Patrick were renting the property in
   Cullera, on the Valencian coast
 image: https://static.independent.co.uk/2026/09/01/8/04/pic.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 An Irish woman found dead by her young children at a rented holiday villa in Spain last week has been pictured for the first time.

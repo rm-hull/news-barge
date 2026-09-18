@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: In interview, term-limited California governor said running against former
   VP would ‘waste everybody’s time’
 image: https://i.guim.co.uk/img/media/a48336fe3cdac35beed08fbd3979ae5f54623b23/27_0_4109_3287/master/4109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f216f0715cdd37c28064a6209c0040cc
+categories:
+- UK
+- News & Politics
 ---
 
 Gavin Newsom, the California governor, will not run for president if former vice-president Kamala Harris does, he said in a forthcoming interview with CNN.

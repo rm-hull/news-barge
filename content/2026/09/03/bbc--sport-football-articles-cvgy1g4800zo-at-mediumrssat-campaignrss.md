@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: VfL Osnabruck showcase a tifo that took months to plan before their German
   Cup tie against Bayern Munich.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c5b8/live/a01ff7c0-a783-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A tifo on display at VfL Osnabruck stadium, showing a rollercoaster cart on a track with dummies inside](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/5448/live/327d24f0-a75f-11f1-8888-832c5829c86c.jpg)

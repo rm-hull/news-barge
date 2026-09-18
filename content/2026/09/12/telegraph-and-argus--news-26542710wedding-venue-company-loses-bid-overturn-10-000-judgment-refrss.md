@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: Monal By Jalwa must pay £10,000 after Leeds County Court rejected its
   bid to overturn a judgment over a cancelled wedding after the Cleckheaton…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397548.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A wedding venue company, whose premises were forced to close, still owes £10,000 after a judge rejected its attempt to overturn a County Court judgment.

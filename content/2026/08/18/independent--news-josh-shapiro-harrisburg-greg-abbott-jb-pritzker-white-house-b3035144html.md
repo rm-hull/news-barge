@@ -10,6 +10,9 @@ description: More governors are shifting their stances or taking more steps to s
   data centers, as the midterm elections near and public opinion sours on the energy-hungry
   behemoths
 image: https://static.independent.co.uk/2026/07/24/21/Data_Centers_Groundwater_Virginia__8_52.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 More governors are shifting their stances or taking more steps to squeeze data centers as the midterm elections near and public opinion sours on the energy-hungry behemoths tech giants are building to fuel artificial intelligence products and cloud computing.

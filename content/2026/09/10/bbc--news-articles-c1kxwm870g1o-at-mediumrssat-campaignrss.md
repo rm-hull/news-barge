@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The paper said it stood by its reporting, after publishing extracts from
   a book where the claim appears.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Israeli Prime Minister Benjamin Netanyahu speaks at a news conference in Jerusalem (8 September 2026)](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg)

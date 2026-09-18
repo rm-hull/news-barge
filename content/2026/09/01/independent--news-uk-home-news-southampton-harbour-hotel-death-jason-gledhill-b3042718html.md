@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:36Z'
 published: '2026-09-01T00:00:00Z'
 description: Jason Gledhill had been working alone in a maintenance room
 image: https://static.independent.co.uk/2026/08/14/13/34/40-PER-PIC-PER-USE-PLEASE-DO-NOT-REUSE-WITHOUT-CHECKING-WITH-PIC-DESK-30b89e29.jpeg?trim=109,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A father-of-one died after being electrocuted while working at a five-star hotel, a coroner has found.

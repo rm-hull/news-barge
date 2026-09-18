@@ -10,6 +10,11 @@ description: The Trump administration is limiting an Egyptian bank's operations 
   the United Arab Emirates and accusing the financial institution of supporting Iran's
   leadership
 image: https://static.independent.co.uk/2026/08/28/16/Treasury_Bessent__8826.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The Trump administration is taking steps to limit an Egyptian bank's operations in the United Arab Emirates, accusing the financial institution of serving as an economic lifeline to Tehran's leadership as the U.S. war against Iran reaches the six-month mark.

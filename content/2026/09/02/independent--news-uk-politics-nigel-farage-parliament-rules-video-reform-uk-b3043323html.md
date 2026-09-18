@@ -9,6 +9,9 @@ description: Within hours of Nigel Farage’s return to parliament, he posted a 
   of himself to social media shot on the roof of the building – but it is understood
   he did not seek permission from Commons authorities to do so
 image: https://static.independent.co.uk/2026/09/02/10/26/Screenshot-2026-09-02-at-11-21-45.png?trim=0,36,0,36&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage has broken parliamentary rules on his first day back, after he filmed a video of himself on the roof of the Houses of Parliament.

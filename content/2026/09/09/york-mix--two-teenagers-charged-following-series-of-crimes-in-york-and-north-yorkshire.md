@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:40Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/police-arrest-handcuffs-px.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Two teenagers have been charged following an extensive police investigation.

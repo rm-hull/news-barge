@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Chuck E. Cheese and Raising Cane’s are among the US fast food chains
   opening up branches in the UK in 2026
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390381.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 A number of US-based fast food chains are set to open branches for the first time in the UK later in 2026.

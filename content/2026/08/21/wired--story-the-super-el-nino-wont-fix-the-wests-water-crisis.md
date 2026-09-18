@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: “People have talked about the Colorado River crisis for decades—we’re
   now in it,” says one expert. “Everyone you talk to is like, ‘Shit, man.’”
 image: https://media.wired.com/photos/6a8608282578139abea6cd6f/191:100/w_1280,c_limit/GettyImages-2288497294.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
 ---
 
 The Colorado River, which provides water for 40 million people across seven states, is at a crisis point. The two largest reservoirs in the US, Lakes Mead and Powell, provide critical supply for states along the lower part of the river; both have hit multiple record low points this month.

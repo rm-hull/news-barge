@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T13:06:25Z'
 published: '2026-08-21T00:00:00Z'
 description: A teenager has been sentenced for raping two girls in 2023 and 2024.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJmM2E2YTkxLTVlOWQtNDc5Ny1iOTA4LTEzM2RiMjY0ZWM4ZTpjMjI0NjgyNC03ZGQ3LTQyMWItYmEwMy1hNGE4ZjdmNmFlODc=.jpg?crop=3:2,smart&trim=&width=480&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # "Massively disrupted their education": Teenager jailed for rapes on two girls

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Multiple schools will close early in South Bank due to a funeral linked
   to the fatal A66 crash expected to draw in large crowds.
 image: https://www.thenorthernecho.co.uk/resources/images/21358362.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Several schools are to close early due to a funeral linked to the fatal A66 crash that is expected to draw in large crowds to the area.

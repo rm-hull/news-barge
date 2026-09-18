@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: England begin Joe Root’s second stint as captain with a crushing defeat
   of a poor Pakistan inside three days at Headingley.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f119/live/790b8000-9d74-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England ease to huge win against Pakistan on day three at Headingley

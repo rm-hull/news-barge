@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: We'll be bringing you all the latest live traffic, travel and weather
   updates from County Durham and the wider North East.
 image: https://www.thenorthernecho.co.uk/resources/images/20974110.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: NORTHERN ECHO)*

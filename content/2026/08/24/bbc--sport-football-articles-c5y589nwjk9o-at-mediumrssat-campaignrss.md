@@ -10,6 +10,10 @@ description: Harvey Elliott's position at Liverpool looks uncertain following hi
   absence from the matchday squad at Newcastle on the opening weekend of the Premier
   League season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Harvey Elliott clasps the Liverpool badge with his right hand while raising his left arm](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg)

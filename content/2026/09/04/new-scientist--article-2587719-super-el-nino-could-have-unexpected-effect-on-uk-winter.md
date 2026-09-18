@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: An El Niño is usually expected to herald a cold end to winter in the
   UK – but this year could be different
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310672430.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Storm Eowyn batters southern England in January 2025](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310672430.jpg?w=840)

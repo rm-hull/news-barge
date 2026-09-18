@@ -7,6 +7,12 @@ scraped_at: '2026-09-04T04:22:27Z'
 published: '2026-09-04T00:00:00Z'
 description: A BUSINESS fair will take place in Bradford this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407849.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A five-bedroom house with three reception rooms is for sale in Feversham
   Crescent, York, for £675,000.
 image: https://www.gazetteherald.co.uk/resources/images/21335969.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A five-bedroom house with three reception rooms is for sale in York.

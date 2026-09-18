@@ -10,6 +10,10 @@ description: A judge has granted a hearing to explore claims that a man wants to
   allegations of sexual abuse years ago by Penn State assistant football coach Jerry
   Sandusky
 image: https://static.independent.co.uk/2026/08/28/16/Jerry_Sandusky_85493.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A judge has granted a hearing to explore claims that a man wants to recant allegations of sexual abuse years ago by Penn State assistant football coach Jerry Sandusky.

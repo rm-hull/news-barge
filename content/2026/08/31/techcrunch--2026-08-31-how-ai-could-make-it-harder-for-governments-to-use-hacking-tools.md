@@ -9,6 +9,8 @@ description: AI is proving effective at finding and exploiting vulnerabilities. 
   say this will make it harder for governments to use hacking tools and spyware and
   could reignite calls to backdoor devices.
 image: https://techcrunch.com/wp-content/uploads/2024/07/brianstack-mspy-email-leak-2024.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Earlier in August, cryptography professor Matthew Green wrote a controversial thread on X and a longer blog post that went viral within the cybersecurity community.

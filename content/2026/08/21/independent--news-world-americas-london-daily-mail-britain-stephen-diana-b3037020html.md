@@ -9,6 +9,10 @@ description: Prince Harry and six others, including Elton John, are set to find 
   how many millions of pounds they will have to pay initially to the publisher of
   Britain’s Daily Mail newspaper following their failed case alleging privacy invasion
 image: https://static.independent.co.uk/2026/08/21/12/Philanthropy_Prince_Harry_58588.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Prince Harry and six others, including Elton John, are set to find out Friday how many millions of pounds they will have to pay initially to the publisher of Britain's Daily Mail newspaper following their failed invasion of privacy case.

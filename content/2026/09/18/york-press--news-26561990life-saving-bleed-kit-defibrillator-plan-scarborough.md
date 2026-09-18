@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: THE installation of a new defibrillator and bleed kit in a North Yorkshire
   town has been backed by local councillors.
 image: https://www.yorkpress.co.uk/resources/images/21472423.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## ‘Life-saving’ bleed kit and defibrillator plan for town centre

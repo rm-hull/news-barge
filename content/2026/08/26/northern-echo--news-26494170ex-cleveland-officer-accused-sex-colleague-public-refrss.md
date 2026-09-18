@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A former Cleveland police officer allegedly engaged in sexual activity
   with another officer in public while on shift.
 image: https://www.thenorthernecho.co.uk/resources/images/19889235.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Cleveland Police)*

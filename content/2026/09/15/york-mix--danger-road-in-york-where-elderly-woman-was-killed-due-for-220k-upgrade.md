@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T19:40:33Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/outgang-lane-york-gsv.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Plans for safety improvements on a York road where an elderly woman was killed by a lorry are set for a decision.

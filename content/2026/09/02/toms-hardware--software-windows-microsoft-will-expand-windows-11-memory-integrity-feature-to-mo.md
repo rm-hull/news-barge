@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: PCs that already have Memory Integrity deliberately disabled will retain
   their existing configuration
 image: https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Windows 11](https://cdn.mos.cms.futurecdn.net/A3bqjPsbEd6W9WtTAebSpJ.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Podcast is now on YouTube site of Mike Graham, fired from TalkTV after
   racist post appeared on his Facebook page
 image: https://i.guim.co.uk/img/media/ee7b09a2461e2918549299eb64cca91dde4fa3cd/560_0_2800_2240/master/2800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ead6b9e5076e72d6765dd62b4817f389
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 When Liz Truss launched her podcast last year, she declared it would bring a “counter-revolution” to take on the “deep state”, which, she said, “tried to destroy” her.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Could your council tax bill change? MPs have been quizzing HMRC over
   what an England-wide property revaluation could mean for households.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21027265.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: I-Wei Huang)*

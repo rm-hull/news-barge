@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Book your TechCrunch Disrupt 2026 exhibit table. Get in front of 10,000+
   founders, investors, and tech leaders in SF. The last day is Sept 25.
 image: https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 **Book your exhibit table at TechCrunch Disrupt 2026 by September 18 at 11:59 p.m. PT.** Tables are limited and can sell out before the deadline.

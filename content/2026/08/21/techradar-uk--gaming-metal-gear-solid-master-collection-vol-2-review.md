@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Metal Gear Solid Master Collection Vol.2 brings back two of the best
   stealth-action games ever made in a solid new collection.
 image: https://cdn.mos.cms.futurecdn.net/XricbB85VpZsSKmPBNUNdW-1920-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ### TechRadar Verdict

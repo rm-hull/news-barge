@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A teenager was part of a crew who landed a giant 53 stone (338kg) bluefin
   tuna in Whitby for the first time in 90 years.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBiNDYxMDJjLTEzZGQtNGYzYy04Y2RlLWY3YTVlOTczNmYyMTpiZGMxNzk0NC1hNWE5LTQwY2YtYjhlMy0xZDY5NzY3ODdmMDk=.png?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Teen helps to catch 53 stone bluefin tuna in Whitby for first time in 90 years

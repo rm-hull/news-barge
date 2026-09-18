@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Experts share tips on how to make a flat or house feel like your own
   without annoying the landlord.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0aaa/live/ab0c2bb0-a1ff-11f1-a97e-999c5aae08bf.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ![Young woman relaxing at home with her dog in bed with candles and hot drink](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0aaa/live/ab0c2bb0-a1ff-11f1-a97e-999c5aae08bf.jpg)

@@ -7,6 +7,9 @@ scraped_at: '2026-09-03T19:17:59Z'
 published: '2026-09-03T00:00:00Z'
 description: Lock in a reduced rate before term starts
 image: https://cdn.mos.cms.futurecdn.net/8QB5cBfrXik7Cq3fyK9xEG-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Windscribe Android app](https://cdn.mos.cms.futurecdn.net/8QB5cBfrXik7Cq3fyK9xEG.jpg) 

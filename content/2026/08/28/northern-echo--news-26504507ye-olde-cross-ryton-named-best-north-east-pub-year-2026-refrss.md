@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Ye Olde Cross in Ryton has been named the North East's best in CAMRA’s
   2026 Pub of the Year competition and joins 15 other regional winners…
 image: https://www.thenorthernecho.co.uk/resources/images/21385104.jpg?type=og-image&xType=0&yType=62
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Google Maps)*

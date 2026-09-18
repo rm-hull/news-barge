@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T12:59:32Z'
 published: '2026-09-18T00:00:00Z'
 description: 'From: Otto Inglis, Crossgates, Fife.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5ZmQ5NWE1LTA1ODgtNGE0My04NTY0LTljNjYwODVmZjU1MTo4MzUzNDA4Yi00N2M0LTRkMTctYWI4Ni1iYTM5NzU2ZDVmYTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # New designs and technology are not always better - Yorkshire Post Letters

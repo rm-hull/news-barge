@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A man who groomed and raped an underage girl is beginning a 16-year prison
   sentence.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20579082.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

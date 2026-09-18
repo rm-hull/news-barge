@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A Ripon optician has invested £34,000 in new technology to provide specialist
   procedures for people suffering from dry eye.
 image: https://mmo.aiircdn.com/409/6a67454d101e837d456.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6a67454d101e837d456.jpg) 

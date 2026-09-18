@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Redcar and Cleveland Council is set to introduce new 20mph speed limits
   and one-way traffic restrictions on key roads in Guisborough, according to a…
 image: https://www.thenorthernecho.co.uk/resources/images/16401645.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NQ Archive)*

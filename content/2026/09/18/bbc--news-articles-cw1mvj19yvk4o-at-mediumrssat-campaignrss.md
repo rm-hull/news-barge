@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The rock band will not be stopping at Worthy Farm despite being on tour
   at that time next summer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1cf/live/4db6f0f0-b34b-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Music
 ---
 
 ![Liam Gallagher of Oasis performs on the Pyramid Stage during the 2004 Glastonbury Festival held at Worthy Farm, in Pilton, Somerset on June 25, 2004 near Glastonbury, England.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d1cf/live/4db6f0f0-b34b-11f1-b1d1-571ed4d7ff2c.jpg)

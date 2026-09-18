@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A Clarkson's Farm star who quit the show has now reportedly bought a
   farm of their own for £1.7m.
 image: https://www.yorkpress.co.uk/resources/images/17976388.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Clarkson's Farm star quits show and buys £1.7m farm of their own

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A MIDDLE-AGED man buys a motorbike, a 40-plus woman heads out on the
   town in a cropped top and mini skirt. Fingers are pointed and ‘midlife…
 image: https://www.yorkpress.co.uk/resources/images/16013706.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A MIDDLE-AGED man buys a motorbike, a 40-plus woman heads out on the town in a cropped top and mini skirt. Fingers are pointed and ‘midlife crisis’ mutterings are heard.

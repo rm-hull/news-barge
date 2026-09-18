@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Tricia Penrose says her first car was a delight. It was a red Ford Escort
   Popular which she bought when she was a young actress on Brookside.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1NTQ2NGZlLWYwNTMtNGRhNy05NTEyLWM1NjBiNDM2ODc2YTo5YTFlYTIyYS0xYjI2LTQ2NjQtYmIzOS0zZWY4OGM4YThkYjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Tricia Penrose: "I bought my first car as a young actress on Brookside"

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: 'Rachael “Raygun” Gunn''s viral Olympic performance in now the subject
   of the Netflix documentary “Untold Raygun: Breaking Badly.”'
 image: https://static.independent.co.uk/2026/09/02/04/Australia_Breaking_Bad_Raygun_65326.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 It's no secret how the breaking news on Raygun unfolded at the Paris Olympics: the memes and the mockery came thick and fast.

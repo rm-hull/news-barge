@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A trio of men have been jailed after the death of a man “unaware of the
   catastrophic injuries he had suffered” in an alleyway attack.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmExYjU3ZmYyLTM0MmItNDI3ZC1hZDI1LWE1NDcyZWNkMDQ1YzpiYjdkODA5Ny05ZmJjLTRhOWMtOTkzMC0wNTdkNTVkMzdhNTE=.png?crop=3:2,smart&trim=&width=854&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man punched in alleyway died from brain injuries days after going home

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: From the best Dyson vacuum to the best wireless headphones and earbuds
   we’ve tested, you can get some great gadgets on sale already ahead of Labor Day.
 image: https://media.wired.com/photos/6a8784e34c1d79cbf5a08467/191:100/w_1280,c_limit/The-Best-Early-Labor-Day-Tech-Deals-on-WIRED%E2%80%99s-Favorite-Tech-Gear.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 It's never too early for deals, and the sales have already started popping up for Labor Day. While the holiday is a little later than usual this year (falling on Monday, September 7), that hasn't stopped plenty of our favorite tech gear from going on sale, from Dyson vacuums to Apple AirTags and even Sony's WH-1000XM6 headphones.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The A66 has reopened and more floral tributes have been left at the scene
   after a horrific crash which killed seven people - including two police…
 image: https://www.thenorthernecho.co.uk/resources/images/21363196.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The A66 has reopened and more floral tributes have been left at the scene after a horrific crash which killed seven people - including two police officers.

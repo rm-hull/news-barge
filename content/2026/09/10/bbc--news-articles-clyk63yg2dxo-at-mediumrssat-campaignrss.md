@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: The Transportation Security Administration (TSA) is reversing policies
   put in place after 9/11.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8169/live/f2687210-ad31-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![People wearing headphones carry suitcases and walk between aisles in an airport's security line.](https://ichef.bbci.co.uk/ace/standard/1008/cpsprodpb/8169/live/f2687210-ad31-11f1-9bc8-3509bd1a4ead.jpg)

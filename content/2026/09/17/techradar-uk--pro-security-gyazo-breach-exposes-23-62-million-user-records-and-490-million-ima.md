@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: A vulnerability in an image sharing service resulted in millions of records
   being exposed
 image: https://cdn.mos.cms.futurecdn.net/dN5toW9ygER7CeKYqEVwba-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Image depicting a hand on a scanner](https://cdn.mos.cms.futurecdn.net/dN5toW9ygER7CeKYqEVwba.jpg) 

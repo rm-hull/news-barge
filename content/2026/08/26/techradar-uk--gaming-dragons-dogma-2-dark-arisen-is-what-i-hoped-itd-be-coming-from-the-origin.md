@@ -10,6 +10,9 @@ published: '2026-08-26T00:00:00Z'
 description: 'I enjoyed the hour I spent playing Dragon''s Dogma 2: Dark Arisen, which
   draws heavy inspiration from its predecessor, but I still need to see more.'
 image: https://cdn.mos.cms.futurecdn.net/XXTyUsvZECvRdMXtkDbTKP-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Undead dragon in Dragon's Dogma 2: Dark Arisen](https://cdn.mos.cms.futurecdn.net/XXTyUsvZECvRdMXtkDbTKP.jpg) 

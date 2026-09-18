@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: A yes to membership would have given Brussels a boost but Icelanders
   have not voted to isolate themselves
 image: https://i.guim.co.uk/img/media/5f243c0b81b6d80344d0d5b38db10af4f614eeab/407_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9135fff8191783b2f5e330ed39302c6
+categories:
+- UK
+- News & Politics
 ---
 
 Iceland’s 52.8% to 47.2% vote against reopening EU accession talks is, undeniably, a blow for Brussels. But claiming it as a Brexit-style victory for “national sovereignty” or evidence of broad rejection of the EU misrepresents the reality of the island’s relationship with the bloc.

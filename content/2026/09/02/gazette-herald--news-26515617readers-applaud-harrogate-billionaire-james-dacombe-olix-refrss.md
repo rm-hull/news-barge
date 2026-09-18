@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Our story about a Harrogate college drop-out James Dacombe, of Olix,
   now being worth almost £1 billion attracted much reader interest.
 image: https://www.gazetteherald.co.uk/resources/images/21401843.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A story about a Harrogate college drop-out now being worth almost £1 billion attracted much reader interest, becoming our most well-read story of August.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Physical activity causes a type of brain cell called astrocytes to contract,
   which then leads to the formation of new neurons, according to a study in mice
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309549206.jpg?w=840)

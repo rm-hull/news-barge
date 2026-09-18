@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A hoodie-clad man smashed a car windscreen after driving 'recklessly'
   to follow a man on a Hartlepool road.
 image: https://www.thenorthernecho.co.uk/resources/images/21454001.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

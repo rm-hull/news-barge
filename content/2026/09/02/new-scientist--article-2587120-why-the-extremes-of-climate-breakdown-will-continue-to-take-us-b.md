@@ -10,6 +10,9 @@ description: The relentless heatwaves that have hit the northern hemisphere this
   have made the climate threat real for many – but preparation and adaptation will
   take us only so far
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309772193.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![A firefighting airplane operates to extinguish a wildfire on Salamina Island, Greece, 16 August 2026. Two people were killed in Peristeria as fires burned in the Peristeria and Selinia areas, prompting evacuations and a major firefighting operation. Coast guard and firefighting vessels were deployed in preparation for possible evacuations by sea.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_309772193.jpg?w=840)

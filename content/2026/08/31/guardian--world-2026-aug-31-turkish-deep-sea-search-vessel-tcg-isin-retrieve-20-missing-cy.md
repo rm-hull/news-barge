@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: TCG Isin expected to play vital role in locating Filo Jet’s voyage data
   recorder 514 metres below surface
 image: https://i.guim.co.uk/img/media/d3d98b45004e56eb44a8ba7088d8264e8e085b97/440_110_4382_3506/master/4382.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b179d19cdb4ee4be7c8a144bf51ba48
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A deep-sea search and rescue vessel is on its way to Cyprus as Turkey joins efforts to retrieve the 20 people still missing after a passenger ferry capsized off the island’s northern coast.

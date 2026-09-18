@@ -9,6 +9,9 @@ scraped_at: '2026-08-29T13:49:08Z'
 published: '2026-08-29T00:00:00Z'
 description: Microsoft is not being a good neighbor.
 image: https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![an under construction data center](https://cdn.mos.cms.futurecdn.net/NfHY3NspCpyezHV8GUeBmL.png) 

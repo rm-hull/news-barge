@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Artists who stole the show at Leeds Festival as event closes with Raye
   headline set after another jam-packed Bank Holiday at Bramham Park.
 image: https://www.thenorthernecho.co.uk/resources/images/21391751.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 If you followed the forecast over the last week, yellow weather warnings and thunderstorms were predicted across the country over the August Bank Holiday weekend.

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Durham county councillor suffered a facial injury in an attack and
   was taken to hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/19997802.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Durham county councillor was left with cut under his eye after being attacked.

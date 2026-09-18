@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The president is using US dominance to challenge allies and enemies alike
   - but both Canada and Iran have found ways to fight back.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/239d/live/98ae3c90-a12a-11f1-8c37-3f30331ac537.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Vice-President JD Vance addresses a crowd of supporters in Maine. He is wearing a blue suit and holding his arms out, with a number of supporters sat behind him holding signs saying "Defend our Future"](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0e01/live/d3782d60-a0fb-11f1-858d-bf23b7cd6b08.jpg)

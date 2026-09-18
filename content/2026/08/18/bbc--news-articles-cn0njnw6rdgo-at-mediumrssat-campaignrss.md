@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The 2006 world champion is accused of lewd and libidinous behaviour towards
   a girl and a boy in Glasgow and South Lanarkshire.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/183c/live/fd3c6b10-9b20-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A balding man in a black shirt holds a snooker cue as he prepares to take a shot](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/183c/live/fd3c6b10-9b20-11f1-aed2-8d6da8d75094.jpg)

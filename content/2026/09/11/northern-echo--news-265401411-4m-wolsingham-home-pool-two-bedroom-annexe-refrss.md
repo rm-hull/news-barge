@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: This £1.4m, seven-bedroom Wolsingham home offers luxury, plenty of space
   and sweeping countryside views.
 image: https://www.thenorthernecho.co.uk/resources/images/21436860.jpg?type=og-image&xType=0&yType=45
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Weardale Property Agency, Stanhope)*

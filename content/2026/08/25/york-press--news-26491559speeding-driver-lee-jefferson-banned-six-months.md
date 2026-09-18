@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: York motorist Lee Jefferson was clocked smashing the speed limit twice
   on consecutive days on the same road in a built up area, magistrates heard.
 image: https://www.yorkpress.co.uk/resources/images/21187364.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T19:16:46Z'
 published: '2026-09-03T00:00:00Z'
 description: The FTSE 100 index closed up 75.07 points, 0.7%, at 10,831.52.
 image: https://static.independent.co.uk/2026/09/03/17/376918088b25a3d9594ccada163c557bY29udGVudHNlYXJjaGFwaSwxNzg4NTM1Mjc5-2.82985241.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The FTSE 100 closed higher on Thursday as bond yields cooled and data showed that UK services activity grew at its fastest pace in four months in August.

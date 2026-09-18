@@ -7,6 +7,11 @@ scraped_at: '2026-09-06T12:07:34Z'
 published: '2026-09-05T00:00:00Z'
 description: Two people have been taken to hospital after a car fire in Stockton.
 image: https://www.thenorthernecho.co.uk/resources/images/11215002.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NEAS)*

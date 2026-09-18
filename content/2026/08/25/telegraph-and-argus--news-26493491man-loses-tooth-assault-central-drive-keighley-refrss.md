@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A Bradford district dad has told of his horror after being attacked in
   the street.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369483.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: T&A)*

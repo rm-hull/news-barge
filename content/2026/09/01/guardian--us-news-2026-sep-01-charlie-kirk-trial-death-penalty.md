@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Tyler Robinson has not yet entered a plea, but should a judge find probable
   cause, an arraignment could follow
 image: https://i.guim.co.uk/img/media/f607095fa2898cb674c3d035e670576060460c33/250_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1c04c8251359a8c8c22202f4976cebf
+categories:
+- UK
+- News & Politics
+- True Crime
+- Sports
 ---
 
 Nearly a year after Charlie Kirk was shot dead at a Utah university, a judge on Tuesday is expected to rule on whether the Utah man accused of killing the conservative activist will stand trial and whether he should face the death penalty.

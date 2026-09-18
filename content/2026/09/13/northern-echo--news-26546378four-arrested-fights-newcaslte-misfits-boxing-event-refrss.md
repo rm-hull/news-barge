@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Four people have been arrested after fights broke out at a boxing event
   in Newcastle, police have confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/20703947.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

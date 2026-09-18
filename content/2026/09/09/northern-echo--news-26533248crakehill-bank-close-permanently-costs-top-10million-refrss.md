@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Crakehill Bank in Hamsterley has been shut for years and could close
   for good as damage worsens and repair costs soar.
 image: https://www.thenorthernecho.co.uk/resources/images/20313306.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A County Durham health boss has called for doctors to be brought back
   into an extended access service at Bishop Auckland Hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21295887.jpg?type=og-image&xType=0&yType=131
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A County Durham health boss has called for GPs to return to a service based at Bishop Auckland Hospital after funding cuts led to changes in how it is staffed.

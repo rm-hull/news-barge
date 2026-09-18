@@ -9,6 +9,10 @@ description: Robinson, seen as the sole suspect in the 2025 assassination of rig
   activist Charlie Kirk, entered a not guilty plea after a judge gave the green light
   for prosecutors to advance towards the death penalty as the case goes to trial.
 image: https://images.euronews.com/articles/stories/09/89/78/53/1200x675_cmsv2_f101a443-ad21-5404-b7c8-ecc211c7a119-9897853.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Robinson, seen as the sole suspect in the 2025 assassination of right-wing activist Charlie Kirk, entered a not guilty plea after a judge gave the green light for prosecutors to advance towards the death penalty as the case goes to trial.

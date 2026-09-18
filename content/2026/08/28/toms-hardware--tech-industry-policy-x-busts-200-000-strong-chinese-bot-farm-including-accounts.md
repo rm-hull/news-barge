@@ -9,6 +9,11 @@ scraped_at: '2026-08-28T11:16:29Z'
 published: '2026-08-28T00:00:00Z'
 description: 200 accounts were found posting about data centers
 image: https://cdn.mos.cms.futurecdn.net/yw5MbtykwkPMNVVs6n2PwU-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Bot Farm](https://cdn.mos.cms.futurecdn.net/yw5MbtykwkPMNVVs6n2PwU.jpg) 

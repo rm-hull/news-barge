@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Bond yields climbed on Friday as investors continue to weigh the fallout
   from central bank interest rate decisions and high energy prices.
 image: https://static.independent.co.uk/2026/09/18/17/69cb90d89b00e9c91d4ff64f991ed893Y29udGVudHNlYXJjaGFwaSwxNzg5ODMwMDY0-2.61767764.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The FTSE 100 fell heavily on Friday as bond yields pushed higher amid fears that higher inflation will keep interest rates elevated.

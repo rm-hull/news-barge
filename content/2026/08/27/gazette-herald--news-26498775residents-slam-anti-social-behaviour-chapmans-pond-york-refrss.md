@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Concerns have been raised after anti-social behaviour and overnight camping
   has caused a York beauty spot to become ‘trashed’.
 image: https://www.gazetteherald.co.uk/resources/images/21376339.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Society & Culture
 ---
 
 CONCERNS have been raised after anti-social behaviour and overnight camping has caused a York beauty spot to be ‘trashed’.

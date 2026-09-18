@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Victorian One Nation leader says his actions ‘hurt people I loved, and
   I will live with that forever’
 image: https://i.guim.co.uk/img/media/a36e1e2cfa0e2aa3dcde0768ca476a0ca544246f/1765_178_4468_3575/master/4468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4e5ff8e38a02f5fdb51a764ac9868c0
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Victorian One Nation leader, Warren Pickering, has admitted he “made mistakes” in his 20s, including using ecstasy, methamphetamines and marijuana, losing his licence multiple times for drink driving and hurting people he loved.

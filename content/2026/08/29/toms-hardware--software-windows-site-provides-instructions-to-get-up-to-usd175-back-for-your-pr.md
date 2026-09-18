@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Campaign is led by the Italian Linux Society and the Free Software Foundation
   Europe.
 image: https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Refund4Freedom site for Windows OS refunds](https://cdn.mos.cms.futurecdn.net/DpJikreqsPzfAA3BiWX2Hb.jpg) 

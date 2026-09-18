@@ -10,6 +10,10 @@ description: 'Nearly 3.6 million Syrians have returned since al-Assad''s fall to
   abroad. Euronews spoke with those who returned: some are rebuilding, while others
   are already planning to leave again.'
 image: https://images.euronews.com/articles/stories/09/88/23/93/1200x675_cmsv2_2d59ba6e-1b90-5201-b36c-f7e4401e891c-9882393.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Nearly 3.6 million Syrians have returned since al-Assad's fall to destroyed homes, dysfunctional bureaucracy, power cuts and wages a fraction of what they earned abroad. Euronews spoke with those who returned: some are rebuilding, while others are already planning to leave again.

@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: While viewers of ‘Our Yorkshire Farm’ watched Raven Owen grow up helping
   with life on the windswept hills of Ravenseat, Amanda Owen’s eldest…
 image: https://www.thenorthernecho.co.uk/resources/images/21340602.jpg?type=og-image&xType=0&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: CHANNEL4)*

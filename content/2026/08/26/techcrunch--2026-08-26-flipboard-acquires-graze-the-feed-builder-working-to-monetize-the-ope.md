@@ -10,6 +10,10 @@ description: Flipboard is acquiring Bluesky feed-building startup Graze, bringin
   its privacy-friendly ad technology and creator monetization tools into Flipboard’s
   growing open social web ecosystem.
 image: https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 Flipboard, the news magazine software company that has more recently invested in the open social web — the umbrella term for social platforms that let users, not one company, control their own data and audience — is making another big bet on that ecosystem. The company on Wednesday announced it’s acquiring the Portland-based feed-building startup Graze, which has been working to monetize the open social web by allowing feed creators to support themselves via ads.

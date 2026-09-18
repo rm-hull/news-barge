@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A 45-year-old man has been arrested on suspicion of rape after Cleveland
   Police launched an appeal to trace him.
 image: https://www.thenorthernecho.co.uk/resources/images/17293165.jpg?type=og-image&xType=0&yType=40
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

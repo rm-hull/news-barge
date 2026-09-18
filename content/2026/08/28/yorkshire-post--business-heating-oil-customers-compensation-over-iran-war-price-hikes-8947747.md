@@ -10,6 +10,11 @@ description: Hundreds of people who were affected by suppliers cancelling heatin
   oil orders when prices surged following the Iran war have been told they will receive
   compensation, the UK’s competition watchdog has said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/13/cs-2e9870da-fb76-49f7-acb7-dc3ea475abca.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Hundreds of heating oil customers to be handed compensation over Iran war price hikes

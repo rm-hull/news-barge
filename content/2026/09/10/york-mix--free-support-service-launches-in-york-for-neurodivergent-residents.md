@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:19Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-neurodiversity-and-mental-health-working-group.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A free support service has launched in York to help neurodivergent adults, regardless of whether they have a formal diagnosis.

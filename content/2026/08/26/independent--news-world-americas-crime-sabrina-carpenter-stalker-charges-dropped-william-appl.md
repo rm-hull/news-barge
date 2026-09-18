@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Carpenter was granted a restraining order against William Applegate in
   June
 image: https://static.the-independent.com/2026/06/02/14/14/MixCollage-02-Jun-2026-10-39-AM-4248.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Charges have been dismissed against a man accused of stalking Sabrina Carptener by repeatedly showing up at her Los Angeles home after he was found mentally incompetent to stand trial, the City Attorney's Office confirmed Wednesday.

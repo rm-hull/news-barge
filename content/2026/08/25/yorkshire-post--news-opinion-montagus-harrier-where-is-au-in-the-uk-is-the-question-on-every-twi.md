@@ -10,6 +10,11 @@ description: If you’re interested enough in the daily news agenda to be readin
   newsletter, chances are you’re also like me in as much as you take your BBC Radio
   4 Today Programme like you take your daily dose of meds. Religiously.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVmNDU2YjFjLTg2YzAtNDQ5MS1hMGFhLWJmYjc3NzEyN2ZlNTowNDdiMWRhMS1hMGExLTRhNzItODM5Ni01ODY2NzU5YjkwMjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Montagu's Harrier: where is AU in the UK is the question on every twitcher's lips

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The 89-year-old has been in hospital for over a week receiving treatment
   for a rare blood condition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Crown Prince Haakon of Norway (R) and Crown Princess Mette-Marit of Norway sit in a car as they arrive at the Oslo University Hospital](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/06e5/live/35ac1170-a1f3-11f1-bf30-b9c45f18ad85.png)

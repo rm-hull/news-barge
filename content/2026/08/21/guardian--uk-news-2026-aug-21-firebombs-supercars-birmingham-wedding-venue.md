@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:47:44Z'
 published: '2026-08-21T00:00:00Z'
 description: Police investigating after two cars set alight in attack caught on CCTV
 image: https://i.guim.co.uk/img/media/f4da914717311522041665dd2a3ed9c0b602c6d7/893_0_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3fdcd15695bf2ecd69f6347f049701d
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Firebombs were thrown at supercars outside a wedding venue in Birmingham, setting two alight and prompting guests to sprint out of the building.

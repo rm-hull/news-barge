@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A retired trucker is raising £20,000 to bring Ukrainian youngsters orphaned
   by the war to Yorkshire for respite and to play football.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkwMTk0YzE5LTZlNWQtNDQzNi05YTU2LWRhM2ZhMDg2N2EwNDphMWUwOWUyMy0zYjkyLTQ3ODItYTk3MS1lMmNlMjEyZTVmMjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # The trucker raising £20,000 to bring Ukrainian orphans to Yorkshire for respite

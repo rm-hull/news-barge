@@ -10,6 +10,9 @@ description: A former senior adviser to infectious disease expert Dr. Anthony Fa
   has pleaded guilty to plotting to conceal federal records related to research on
   the origins of the deadly COVID-19 pandemic
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 A former senior adviser to infectious disease expert Dr. Anthony Fauci pleaded guilty Tuesday to plotting to conceal federal records related to research on the origins of the deadly COVID-19 pandemic.

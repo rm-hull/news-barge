@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: 'Zelenskyy travelled from Moldova to Oslo to attend the funeral of Norway''s
   King Harald V. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/78/17/1200x675_cmsv2_8f1fa609-477f-50a4-b3d1-5066ad48e08b-9907817.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Zelenskyy travelled from Moldova to Oslo to attend the funeral of Norway's King Harald V.

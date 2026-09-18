@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A CHRISTMAS toy appeal is returning to help brighten the festive season
   for children in need.
 image: https://www.gazetteherald.co.uk/resources/images/21467007.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

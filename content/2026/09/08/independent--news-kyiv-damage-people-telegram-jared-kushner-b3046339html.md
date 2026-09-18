@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Local authorities say Russia has struck the Ukrainian capital Kyiv with
   drones and missiles, killing two people and injuring at least 10
 image: https://static.independent.co.uk/2026/09/08/07/Russia_Ukraine_War_2698_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two people were killed and at least 10 injured after Russia struck the Ukrainian capital Kyiv with drones and missiles overnight on Tuesday, local authorities said.

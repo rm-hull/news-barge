@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Together, these permits would allow up to 8,000 robotaxis to be deployed
   over the next 12 months.
 image: https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Nevada, get ready for the robotaxis.

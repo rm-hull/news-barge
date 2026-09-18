@@ -9,6 +9,9 @@ description: A close ally of ousted Venezuelan President Nicolás Maduro has ple
   guilty to bribing officials to secure contracts for importing food during Venezuela's
   crisis
 image: https://static.independent.co.uk/2026/09/14/17/Venezuela_Maduro_Ally_31556.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A close ally of ousted Venezuelan President Nicolás Maduro pleaded guilty Tuesday to a single count of money laundering tied to an alleged bribery conspiracy to win lucrative government contracts in the South American country.

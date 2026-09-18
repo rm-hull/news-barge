@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: This week on “Uncanny Valley,” senior writer Will Knight talks his recent
   visit to China and the future of AI collaboration.
 image: https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/191:100/w_1280,c_limit/Uncanny-Valley-China-US-AI-Race-Business-2286901730.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The AI race has long been framed as a zero-sum game: Either the US or China will win in the end. But as concerns pile up around the increasing capabilities of AI models—especially AI agents—researchers in both countries are trying to team up to work on AI safety. This week, contributing editor Zoë Schiffer speaks with senior writer Will Knight about what he saw and heard on the ground when he visited China this summer—and why the two countries might actually need to start working together to avoid a major AI catastrophe.

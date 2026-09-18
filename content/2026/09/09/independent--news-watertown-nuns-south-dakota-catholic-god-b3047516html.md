@@ -10,6 +10,10 @@ description: The Benedictine Sisters of Mother of God Monastery are transforming
   acres of hilly prairie land in South Dakota where they reside into a multi-faceted
   community project
 image: https://static.independent.co.uk/2026/09/09/18/Monastery_Makeover_13_27.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Throughout their entire adult lives, the women of the Benedictine Sisters of Mother of God Monastery have served others as educators, health care providers and spiritual leaders.

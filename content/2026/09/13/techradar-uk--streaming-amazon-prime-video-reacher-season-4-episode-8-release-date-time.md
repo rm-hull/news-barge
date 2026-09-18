@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: The political espionage plot reaches its dramatic conclusion this week.
   But, when does Reacher season 4 episode 8 arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/TFCTjKmiqkErLMx6Ln8Bsa-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Alan Ritchson as Reacher](https://cdn.mos.cms.futurecdn.net/TFCTjKmiqkErLMx6Ln8Bsa.jpg) 

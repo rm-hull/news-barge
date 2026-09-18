@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Metrocentre became a haven for Pokémon fans as shoppers celebrated the
   franchise's 30th anniversary with trading cards, collectibles and…
 image: https://www.thenorthernecho.co.uk/resources/images/21464710.jpg?type=og-image&xType=0&yType=115
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 Pokémon fans have marked three decades of adventure with their favourite characters and cards.

@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The latest batch of food hygiene ratings for York restaurants, cafes,
   takeaways, and businesses has been revealed.
 image: https://www.yorkpress.co.uk/resources/images/17876730.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- York
+- Food & Cooking
+- Health & Fitness
 ---
 
 *(Image: FSA)*

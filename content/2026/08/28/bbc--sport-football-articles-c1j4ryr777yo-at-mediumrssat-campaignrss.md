@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: How Crystal Palace and Manchester City's players rated following their
   Premier League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/510c/live/ef1d9800-a319-11f1-8937-ebc435db1160.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England midfielders Elliot Anderson and Andy Wharton contest possession in the Premier League game between Manchester City and Crystal Palace at Selhurst Park.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/510c/live/ef1d9800-a319-11f1-8937-ebc435db1160.jpg)

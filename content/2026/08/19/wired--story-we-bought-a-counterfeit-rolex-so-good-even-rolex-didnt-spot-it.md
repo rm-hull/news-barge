@@ -9,6 +9,11 @@ description: The replica watch industry is in its “super clone” era. Followi
   from murky internet forums, we bought three budget fakes that were good enough to
   pass as real—but ultimately disposable.
 image: https://media.wired.com/photos/6a84829ff8933ad1e94fc34f/191:100/w_1280,c_limit/081826_Fake-Rolex.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 “Would you like a glass of champagne?” Even though I'm painfully thirsty and nervous beyond belief, I decline the salesperson's offer.

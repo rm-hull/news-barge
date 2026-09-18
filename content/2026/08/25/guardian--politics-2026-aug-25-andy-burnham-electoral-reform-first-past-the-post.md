@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: 'Exclusive: Nearly 100 Labour MPs support commission on changing the
   system used for Westminster election'
 image: https://i.guim.co.uk/img/media/80e056355060c3531b6c6cae545fea6893e9bc0d/619_0_6192_4953/master/6192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6f8cd35e5e0d50794697ed559bbe154
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Andy Burnham will face an immediate test of his backing for electoral reform in his first week in parliament as prime minister, with almost 100 Labour MPs supporting a bid for a new national commission.

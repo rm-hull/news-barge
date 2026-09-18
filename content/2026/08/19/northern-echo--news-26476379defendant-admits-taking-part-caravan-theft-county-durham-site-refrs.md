@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A man who previously denied taking part in the theft of a caravan from
   a holiday park on the County Durham coast has changed plea and admitted the…
 image: https://www.thenorthernecho.co.uk/resources/images/19965585.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: The Northern Echo)*

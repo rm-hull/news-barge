@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Jeremy Clarkson of Clarkson's Farm, Richard Hammond, who lived in Ripon
   in Yorkshire, and James May previously presented The Grand Tour but…
 image: https://www.gazetteherald.co.uk/resources/images/18130341.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: PA/Amazon Prime)*

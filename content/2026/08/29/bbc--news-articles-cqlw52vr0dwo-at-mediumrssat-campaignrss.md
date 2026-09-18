@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The self-styled provocateur had been detained by Immigration and Customs
   Enforcement (ICE).
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![DHS released an mugshot of Yiannopoulos after his arrest. He wears a black shirt and has facial hair](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg)

@@ -10,6 +10,12 @@ description: Officials seeking to reopen Doncaster Sheffield Airport say “ther
   nothing to suggest that the project isn’t on track” as the scheme approaches a crunch
   point.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZiNTgwZjIwLTE5MTYtNGFiYi04ODYxLWU4ZDE2NTE4NzcxZDpmZjg2MzI4ZS1hZWY4LTQyYTItYjQwZC02YTYzMDQ1MTZkZDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # 'On track': Doncaster Sheffield Airport officials issue 'business as usual' statement to funding questions

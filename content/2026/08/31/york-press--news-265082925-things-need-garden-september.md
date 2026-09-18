@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: As September arrives, gardeners are advised to complete a number of tasks
   to help prepare for the colder months of winter
 image: https://www.yorkpress.co.uk/resources/images/18227253.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Home, Garden & DIY
 ---
 
 ## Gardeners urged to complete 5 tasks in September before it's too late

@@ -9,6 +9,9 @@ description: The longest satellite record ever compiled shows the vast majority 
   ice loss from Greenland and Antarctica is due to glaciers flowing faster, rather
   than warmer air temperatures melting them at the surface
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312708671.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Landsat 8 image of glacial meltwater draining into the Labrador Sea near Greenland](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312708671.jpg?w=840)

@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: From halting my doomscrolls to automating air-quality checks, Apple’s
   streamlined Shortcuts app is my favorite iOS 27 feature.
 image: https://media.wired.com/photos/6a8780fd964ec62bf0f4ca20/191:100/w_1280,c_limit/7-Apple-Shortcuts-Gear-shutterstock_2364732885.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 I’ve never used Apple's built-in Shortcuts app before, despite owning an iPhone for years. While automating tedious tasks sounded nice, the necessary scripting to trigger actions and thread them together felt overwhelming when I first opened the app. But my experience with the iOS 27 beta has completely changed my perspective on Shortcuts. What was previously clunky and forgotten now feels streamlined and essential.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:11Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-mcdonalds-york-criminal-damage-16-august-2026-1.jpg
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Do you recognise this man?

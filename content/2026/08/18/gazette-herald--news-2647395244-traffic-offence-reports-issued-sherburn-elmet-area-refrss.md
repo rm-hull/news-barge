@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: More than 40 traffic offence reports during a targeted road safety operation
   on a road popular with bikers.
 image: https://www.gazetteherald.co.uk/resources/images/20951057.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

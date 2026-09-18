@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: An investigation is under way after three cars were set alight in Stockton.
   Officers are seeking CCTV and dash cam footage.
 image: https://www.thenorthernecho.co.uk/resources/images/16420007.jpg?type=og-image&xType=0&yType=45
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Cleveland Police)*

@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T01:48:10Z'
 published: '2026-08-25T00:00:00Z'
 description: The tornado has injured more than 40 people and destroyed homes in villages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # Moment tornado tears through southern France

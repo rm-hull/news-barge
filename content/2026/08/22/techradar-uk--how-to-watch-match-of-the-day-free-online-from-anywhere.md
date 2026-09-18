@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: Kelly Cates, Mark Chapman and Gabby Logan are sharing hosting duties
   this season
 image: https://cdn.mos.cms.futurecdn.net/ygMYinARk5pqMhfdz5iogQ-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Kelly Cates, Mark Chapman and Gabby Logan](https://cdn.mos.cms.futurecdn.net/ygMYinARk5pqMhfdz5iogQ.jpg) 

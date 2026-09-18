@@ -11,6 +11,10 @@ description: A lawyer for former CIA Director John Brennan says Brennan has been
   investigation into whether former law enforcement and intelligence officials conspired
   against President Donald Trump
 image: https://static.independent.co.uk/2026/09/14/21/Trump_Russia_Probe__4777.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Former CIA Director John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department investigation into whether former law enforcement and intelligence officials conspired against President Donald Trump, and is the target of a separate inquiry into whether he made false statements before Congress, one of his lawyers said Monday.

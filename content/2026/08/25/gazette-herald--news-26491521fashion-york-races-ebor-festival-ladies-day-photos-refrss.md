@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Hot on the heels of Ebor Festival 2026 at York Racecourse, we look back
   at some of the eye-catching fashion statements captured over the years.
 image: https://www.gazetteherald.co.uk/resources/images/21365478.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 Hot on the heels of this year’s four-day Ebor Festival which welcomed its royal patron, Queen Camilla, on the opening day, we look back at some of the stunning fashion statements captured at the races over the years.

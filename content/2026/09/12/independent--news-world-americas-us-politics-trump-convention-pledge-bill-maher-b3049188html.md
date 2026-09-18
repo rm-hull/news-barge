@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: ‘This really happened this week in America, which used to be a real country,’
   Bill Maher said on his show on Friday
 image: https://static.independent.co.uk/2026/09/12/19/18/Screenshot-2026-09-12-at-3-19-04-PM.png?trim=0,238,0,237&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Comedian Bill Maher mocked President Donald Trump’s bizarre version of the Pledge of Allegiance, which he had supporters recite during the Republican midterm convention in Dallas on Thursday.

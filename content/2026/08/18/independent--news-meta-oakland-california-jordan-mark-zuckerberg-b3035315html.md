@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Advocates and parents of social media victims see the trial underway
   against Meta Platforms as a significant moment in their fight for online child safety
 image: https://static.independent.co.uk/2026/08/19/00/APTOPIX_US_Meta_Trial_37693.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 As opening statements kicked off Tuesday in a trial for Meta Platforms, advocates and parents of social media victims gathered outside the federal courthouse in Oakland, California, with a banner that stretched several feet across.

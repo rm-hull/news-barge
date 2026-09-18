@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Plans to create a cancer treatment centre in part of Headingley stadium
   have been approved by the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344874.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Google)*

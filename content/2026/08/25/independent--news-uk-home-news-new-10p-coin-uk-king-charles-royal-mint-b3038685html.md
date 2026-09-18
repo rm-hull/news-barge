@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The 10p coins featuring Charles will enter circulation from Tuesday due
   to an increase in demand
 image: https://static.independent.co.uk/2026/08/25/07/01M0VR5X0W0VD6YT2C9NDC1A9B.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Newly minted 10p coins will be entering circulation for the first time with the King’s portrait on one side – and the world’s largest grouse on the other.

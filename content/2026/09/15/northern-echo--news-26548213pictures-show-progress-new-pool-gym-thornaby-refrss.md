@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Work is well underway on a £14 million five-lane swimming pool, sauna
   and gym in Thornaby. It is set to open next summer.
 image: https://www.thenorthernecho.co.uk/resources/images/21452127.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ### What is the Public Notice Portal?

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Jeremy Clarkson has issued a sweary warning to the three new hosts of
   Prime Video's The Grand Tour.
 image: https://www.gazetteherald.co.uk/resources/images/21357269.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: PA)*

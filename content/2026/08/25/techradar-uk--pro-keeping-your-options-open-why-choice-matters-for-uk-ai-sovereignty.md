@@ -7,6 +7,8 @@ scraped_at: '2026-08-25T13:08:19Z'
 published: '2026-08-25T00:00:00Z'
 description: Why AI sovereignty starts with choice
 image: https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A portion of the globe with countries displayed in digital pixels](https://cdn.mos.cms.futurecdn.net/DqdzLoiEh9a6yFQaZqE6xL.jpg) 

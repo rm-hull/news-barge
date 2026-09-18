@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The US and China agree that advanced AI poses serious risks. But Beijing
   is deeply skeptical of a deal that prioritizes keeping US companies ahead.
 image: https://media.wired.com/photos/6aa8339f6d59a577994203cf/191:100/w_1280,c_limit/China-Not-Buying-Silicon-Valley-Call-for-AI-Pause-Business-2286390787.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 For years, many of the most powerful people in Silicon Valley have argued that the US is locked in an AI arms race with China, and that the consequences of losing would be disastrous. But over the past week, those same executives have started emphasizing a different message. AI has the potential to become so dangerous, tech leaders say, that the two countries urgently need to work together to slow the race down.

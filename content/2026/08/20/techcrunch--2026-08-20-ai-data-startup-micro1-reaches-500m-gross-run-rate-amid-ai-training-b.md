@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Surging demand for AI training data is driving rapid growth for the startup
   and its rivals.
 image: https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The near-bottomless demand for unique AI training data from top labs and corporations is driving a massive boom for a cohort of data-labeling startups.

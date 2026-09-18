@@ -8,6 +8,13 @@ scraped_at: '2026-09-03T12:48:32Z'
 published: '2026-09-03T00:00:00Z'
 description: A firm in Bradford has recorded its highest-ever weekly turnover.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21270558.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A woman has been charged and two others bailed after police uncovered
   cocaine and cannabis during raids in Thornaby.
 image: https://www.thenorthernecho.co.uk/resources/images/16613784.jpg?type=og-image&xType=0&yType=51
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: POLICE)*

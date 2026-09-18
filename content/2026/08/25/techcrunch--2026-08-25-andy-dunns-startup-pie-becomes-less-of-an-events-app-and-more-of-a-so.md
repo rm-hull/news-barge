@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: The social app founded by Bonobos co-founder Andy Dunn is expanding beyond
   events with new digital homes for groups to connect, organize, and make plans.
 image: https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?resize=1200,825
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Pie, the social app from Bonobos’ founder Andy Dunn, is taking its mission to connect people in real life one step further. On Tuesday, the startup launched a new communities feature that allows people to establish more permanent homes for their social groups on its app, offering an alternative to group texts, Facebook Groups, and other technologies people use to stay in touch.

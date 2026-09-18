@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Make ICE Pay Act would block nearly $140bn in funding and redirect money
   to places reeling from Trump crackdown
 image: https://i.guim.co.uk/img/media/64d751ec55fad26f8c1f2e34a9a27a76ccdc3744/599_0_3001_2400/master/3001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5014fc29216445dfba42a635d45dd41b
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The US congresswoman Ilhan Omar is set to introduce a bill that would make federal immigration agencies “pay the price” for terrorising vulnerable communities, blocking nearly $140bn in funding and redirecting it to local recovery efforts, the Guardian has learned.

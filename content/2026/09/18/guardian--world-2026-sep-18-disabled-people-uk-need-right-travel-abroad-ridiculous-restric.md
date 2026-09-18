@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Outcry over ‘brazenly discriminatory’ funding practices among NHS care
   boards and local councils, with wide variations in rules
 image: https://i.guim.co.uk/img/media/511e5fc4465bb84d234e3ec52a6a1d6ecbcac196/915_66_7086_5672/master/7086.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16a7dcc5da05656f0d4b95dab08a2a4d
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Disabled people must have a guaranteed right to travel abroad, MPs and peers have said, as further cases emerged of individuals barred from taking holidays as a result of “ridiculous” rules imposed by local NHS care boards and local councils.

@@ -8,6 +8,8 @@ scraped_at: '2026-09-18T12:59:08Z'
 published: '2026-09-18T00:00:00Z'
 description: In a dark moment for bargains, PIA is the shining light
 image: https://cdn.mos.cms.futurecdn.net/Bgzt6DHTnFXrQpAfgzQhHR-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A map infographic showing the US states, with the Private Internet Access (PIA) logo on the left](https://cdn.mos.cms.futurecdn.net/Bgzt6DHTnFXrQpAfgzQhHR.jpg) 

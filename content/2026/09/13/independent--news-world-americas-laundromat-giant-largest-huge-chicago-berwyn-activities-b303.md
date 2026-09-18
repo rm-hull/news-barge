@@ -9,6 +9,10 @@ description: A laundromat outside of Chicago has more than 300 machines and neve
   closes. Rachel Dobkin reports how the longtime owner overcame tragedy and turned
   a weekly chore into a magical outing
 image: https://static.independent.co.uk/2026/08/27/15/52/DSCN0083.jpeg?trim=117,0,117,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Free pizza, donuts and a gift from Santa: Does this sound like a trip to the laundromat?

@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: Rain poured down on Bramham Park as thousands of music fans gathered
   for Leeds Festival 2026 but it did little to dampen the excitement to see…
 image: https://www.thenorthernecho.co.uk/resources/images/21389634.jpg?type=og-image&xType=0&yType=1162
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Music
 ---
 
 *(Image: LIAM RUSSELL)*

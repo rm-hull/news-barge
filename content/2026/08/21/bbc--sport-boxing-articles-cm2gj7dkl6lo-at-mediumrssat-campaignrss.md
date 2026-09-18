@@ -10,6 +10,10 @@ description: Tyson Fury says his fight with Anthony Joshua "doesn't look like it
   going to happen" in a verbal tirade against his British rival and promoter Eddie
   Hearn posted on social media.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Tyson Fury holds up his hand and is wearing a boxing glove and Anthony Joshua holds up two fingers and has a Union Jack over his shoulders](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png)

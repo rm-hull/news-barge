@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Equal Employment Opportunity Commission finds ‘reasonable cause to believe’
   tech firm subjected workers who spoke up about Palestine to hostile work environment
 image: https://i.guim.co.uk/img/media/5134b5c867a98ab795bd59bef3873e520791d015/278_0_2966_2373/master/2966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d48c3a06081df1b15bf7c8137927d03f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The US Equal Employment Opportunity Commission, the agency tasked with enforcing federal anti-discrimination laws, has found that Cisco, the global tech company, probably violated the civil rights of Middle Eastern, Muslim and other company employees.

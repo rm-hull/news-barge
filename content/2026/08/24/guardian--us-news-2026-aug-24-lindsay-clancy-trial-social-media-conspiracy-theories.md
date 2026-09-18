@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Algorithms are responsible for fever pitch content surrounding trial,
   including misinformation, experts say
 image: https://i.guim.co.uk/img/media/19931279668174efc0a2cfa9ff7e13101346a37a/851_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbfc91171a9fa7231148cda4356cb295
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 As the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three children, starts to wind down, a now international discussion on social media about the case has hit a fever pitch as viewers examine details of the trial and question the state of maternal mental healthcare in the United States.

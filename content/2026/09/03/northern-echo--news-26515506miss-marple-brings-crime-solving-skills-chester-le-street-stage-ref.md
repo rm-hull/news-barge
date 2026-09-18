@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Amateur crime solver Miss Marple is taking to the stage in Chester-le-Street
   for a local drama company’s take on an Agatha Christie classic.
 image: https://www.thenorthernecho.co.uk/resources/images/21401327.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Dryburn Theatrical Workshop)*

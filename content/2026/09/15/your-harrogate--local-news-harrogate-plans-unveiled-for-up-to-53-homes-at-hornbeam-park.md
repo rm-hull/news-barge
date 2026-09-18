@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Plans for up to 53 homes on land beside the Hornbeam Park Estate have
   been opened for public consultation.
 image: https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg
+categories:
+- Local
+- Harrogate
+- Home, Garden & DIY
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Trump administration is illegally raising the specter of federal
   agents at polling locations to suppress turnout, lawsuit claims
 image: https://static.independent.co.uk/2026/09/10/14/2026-09-04T142757Z_1504289711_RC2DCNAH031A_RTRMADP_3_USA-IMMIGRATION-NEW-YORK.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 A coalition of civil rights groups and voting rights advocates are suing to block Donald Trump’s administration from deploying immigration enforcement agents to polling places on Election Day.

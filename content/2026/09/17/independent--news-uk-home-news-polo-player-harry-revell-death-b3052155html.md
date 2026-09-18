@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T04:33:53Z'
 published: '2026-09-17T00:00:00Z'
 description: Tributes paid to 32-year-old who had been married only three years
 image: https://static.independent.co.uk/2026/09/17/20/28/Harry-revell.jpg?trim=90,0,348,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 A popular polo player has died after an accident during a tournament in West Sussex.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The annual Farndale show was a fantastic celebration of the countryside
   .
 image: https://www.gazetteherald.co.uk/resources/images/21418523.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 The annual Farndale show was a fantastic celebration of the countryside .

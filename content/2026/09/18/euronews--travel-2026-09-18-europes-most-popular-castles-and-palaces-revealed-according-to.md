@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: 'From Prague Castle to Dracula’s fortress in Romania, these are the European
   palaces and castles attracting the most attention from travellers in 2026. #Destinations'
 image: https://images.euronews.com/articles/stories/09/91/88/33/1200x675_cmsv2_e24b27d2-ac23-575e-8399-634142b4e8a7-9918833.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 ## From Prague Castle to Dracula’s fortress in Romania, these are the European palaces and castles attracting the most attention from travellers in 2026.

@@ -9,6 +9,12 @@ description: The package also includes a new civil service fast stream pilot in 
   and the Humber, allowing talented youngsters to start their government careers in
   the region.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFjZGIxZGFjLWEzZjQtNGQ0MS1iMjE2LTViZjBhMzU0NzU1ODo0NzNhZjExYS05ZDFkLTQ5NzYtOTY2Mi00ZWI5MGE3OWU0YzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # Whitehall officials to be moved into mayor's offices across Yorkshire as part of 'devolution revolution'

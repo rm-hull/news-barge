@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: A new watchOS 27 leak suggests Apple will let you log reps and sets on
   your Apple Watch during strength workouts.
 image: https://cdn.mos.cms.futurecdn.net/JRSXNFTr9N77NE9WNUxfCG-2255-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple Watch Ultra 2 using traditional strength training](https://cdn.mos.cms.futurecdn.net/JRSXNFTr9N77NE9WNUxfCG.jpg) 

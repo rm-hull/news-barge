@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: A platform, fabric, and some new hardware seem set to transform the once
   beleaguered tech company
 image: https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Sonos Beam Ultra, Sonos Ace Ultra, Tom Conrad](https://cdn.mos.cms.futurecdn.net/mtyM4JHrEyfxSPcu6ehrGG.jpg) 

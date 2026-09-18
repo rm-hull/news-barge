@@ -10,6 +10,11 @@ description: There are plenty of people who think that football is a matter of l
   and death. The former Liverpool Manager Bill Shankly once claimed it was more important
   than that. Clearly it isn’t.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmFkYTA2NjYzLTM0NzktNGJmMy1iOTRmLWEyNmNmNTc4MmU5NzpkZmNkYWIwYi1hYmE2LTRiNmMtOGVhMi02NjA4OThkOWJhOTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # FIFA needs to start behaving like fans and players matter or else it’ll have nothing left to sell - Andy Brown

@@ -10,6 +10,9 @@ description: Apple officially launched the iPhone 18 Pro Max at its flagship sto
   in Manhattan, and we were there for Apple CEO John Ternus' big moment and to chat
   with Customer Number 1.
 image: https://cdn.mos.cms.futurecdn.net/SV4oCxtcJTTeVgA9KRCoHY-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![John Ternus as iPhone 18 Pro Max Apple Store Launch](https://cdn.mos.cms.futurecdn.net/SV4oCxtcJTTeVgA9KRCoHY.jpg) 

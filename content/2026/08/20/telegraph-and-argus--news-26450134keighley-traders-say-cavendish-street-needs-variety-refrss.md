@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: Independent shop owners are calling for more “variety” as fewer unique
   businesses fill the high street.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21295472.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Mike Simmonds)*

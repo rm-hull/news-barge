@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: 'We asked Camera Club members to focus on the theme of #outandabout26
   for our latest photography competition - and we were spoilt for choice.'
 image: https://www.yorkpress.co.uk/resources/images/21421731.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## This adorable waving seal stole the show in The Press Camera Club competition

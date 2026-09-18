@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The studio released an official catch-up list ahead of December’s release.
   We have easy links to watch every one of the movies so you can get up to speed.
 image: https://media.wired.com/photos/6a9af956bdd01751be1ee6b8/191:100/w_1280,c_limit/Marvel-Is-Giving-You-Homework-Culture-Avengers_TrailerPull.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Marvel and Disney+ have issued a stacked watch list for fans ahead of the cinema release of *Avengers: Doomsday* on December 18.

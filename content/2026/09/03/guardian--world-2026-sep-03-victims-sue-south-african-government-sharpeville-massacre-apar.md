@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Claim relating to infamous apartheid-era shooting of protesters part
   of wave of litigation for apartheid-era crimes
 image: https://i.guim.co.uk/img/media/91b59a0b2c289bcb16116a740b1c79099b1f170a/216_184_1088_870/master/1088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=891bdda4e5a94681bafc2ebefe3920ef
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 The day dawned brightly on 21 March 1960, as residents of the South African township of Sharpeville gathered to protest against pass laws, which forced “Black, Indian and Coloured” South Africans to carry documents at all times specifying where they were allowed to be.

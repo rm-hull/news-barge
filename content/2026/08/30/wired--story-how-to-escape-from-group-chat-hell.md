@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Young adults are in more group chats than ever—sometimes more than 20
   at a time. Here’s how to tame the chat madness.
 image: https://media.wired.com/photos/6a921f44cd8b286be7911fec/191:100/w_1280,c_limit/How-to-Escape-from-Group-Chat-Hell-Gear.jpg
+categories:
+- Technology & Software
+- Science
+- Comedy & Entertainment
 ---
 
 A specific cadence for contemporary group chats eludes me. The rapid-fire tempo of texts combined with custom stickers, often based on inside jokes, leaves me behind. My digital fate: the silent lurker. As I let the notifications wash over me, I am a ghostlike figure haunting the group chat, a silent watcher who rarely responds without a specific invocation.

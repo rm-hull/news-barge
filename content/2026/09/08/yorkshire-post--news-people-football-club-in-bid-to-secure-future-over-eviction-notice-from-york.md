@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Hundreds of people have signed a petition to help save a football club
   in North Yorkshire which could lose access to its playing field.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYyNWI5YjI0LTNjMDgtNDc1My1iNTcxLTJkYzRjN2EyMTkzNzo0NDk0YmUyZi00ZDliLTQwYWUtYTg1MC1jNzE2MDRjMmM0MWI=.jpg?crop=3:2,smart&trim=&width=953&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Football club in bid to secure future over eviction notice from Yorkshire playing field

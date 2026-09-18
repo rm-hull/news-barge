@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The fee is among a series of measures Yamanashi prefecture is introducing
   to deter reckless climbers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1676/live/f786d6b0-b182-11f1-aa3a-41a86a30db69.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![The snow-capped summit of Mount Fuji in Japan with the head of a man in the foreground](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1676/live/f786d6b0-b182-11f1-aa3a-41a86a30db69.jpg)

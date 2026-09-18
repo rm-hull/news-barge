@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: How will your club fare in the 2026-27 Premier League? BBC chief football
   writer Phil McNulty makes his annual predictions.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eaee/live/8a1167d0-9ae9-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Can Arsenal retain the Premier League title they won for the first time in 22 years last season?](https://ichef.bbci.co.uk/ace/standard/989/cpsprodpb/eaee/live/8a1167d0-9ae9-11f1-930b-57cfba7235f9.jpg)

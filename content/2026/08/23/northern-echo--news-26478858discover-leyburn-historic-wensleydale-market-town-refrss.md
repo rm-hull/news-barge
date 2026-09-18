@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Leyburn may be small, but the Wensleydale market town packs in impressive
   scenery, centuries of history, independent shops and easy access to the…
 image: https://www.thenorthernecho.co.uk/resources/images/21343151.jpg?type=og-image&xType=0&yType=39
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A North Yorkshire market town known for its countryside views, independent shops and traditional market continues to prove popular with visitors to the Yorkshire Dales.

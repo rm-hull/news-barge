@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Alfie Joey gives parents and grandparents some much needed summer holiday
   inspiration!
 image: https://www.thenorthernecho.co.uk/resources/images/21382576.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 **Alfie Joey gives parents and grandparents some much needed summer holiday inspiration!**

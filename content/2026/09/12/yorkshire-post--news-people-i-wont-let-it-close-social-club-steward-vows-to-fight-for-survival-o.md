@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: A social club’s steward said he won’t let his north Sheffield institution
   close, despite it being “run down for years”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMyNTM2N2U0LWIzNjgtNDdmNS05MDZkLTNmNGMzY2FkMWZjMzpmNmU0YWZkMi1mZDAzLTQ5ZDUtYWIyMC00NWIyYjY5ZDJjODI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Society & Culture
 ---
 
 # 'I won't let it close' - Social club steward vows to fight for survival of institution

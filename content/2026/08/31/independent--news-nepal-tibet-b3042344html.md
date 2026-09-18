@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Residents salvage what they can from homes and schools ruined in catastrophic
   flooding that killed hundreds and left thousands missing in Nepal and Tibet.
 image: https://static.independent.co.uk/2026/08/31/21/Nepal_Flash_Flood_69311.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Residents salvage what they can from homes and schools ruined in catastrophic flooding that killed hundreds and left thousands missing in Nepal and Tibet.

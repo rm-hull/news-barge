@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Business development manager Jill Cull, who works at North-East law firm
   Muckle LLP, will run the Great North Run dressed as a giant parmo.
 image: https://www.thenorthernecho.co.uk/resources/images/21423117.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A business development manager is running the Great North Run dressed as a giant parmo.

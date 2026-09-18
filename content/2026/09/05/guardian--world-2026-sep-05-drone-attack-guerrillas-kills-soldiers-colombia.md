@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Officials accuse National Liberation Army of launching strike followed
   by clash inside military compound
 image: https://i.guim.co.uk/img/media/8a56c6bc67eb59b4558674f0cf8f37b1d1b6ec45/0_0_3362_2691/master/3362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e68fde68aa57d1e4beb1e01b37218c39
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’s army said on Saturday.

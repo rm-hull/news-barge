@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Matthew DuPlessis and Charlotte Dodd had been to Blackpool before neighbours
   heard them arguing
 image: https://static.independent.co.uk/2026/08/29/22/01M17N3S9PTX17S5ATJCA86Y4H.jpg?trim=415,0,415,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Health & Fitness
 ---
 
 A man has been jailed for causing the death of his girlfriend after initially lying that she had been struck in a hit and run.

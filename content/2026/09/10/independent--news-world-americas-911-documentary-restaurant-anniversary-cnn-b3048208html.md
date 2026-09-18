@@ -11,6 +11,10 @@ description: A new documentary retells the story of the World Trade Center’s i
   rests not on how it ended but on the workplace they created for 25 years before
   that tragic day, Jasmine Fernández writes
 image: https://static.independent.co.uk/2026/09/03/19/03/WOTW_1726_Windows-Restaurant-with-Sunrise-View-of-Uptown_2000-07-29_Konstantin-Petrov-DSCN8205-vi.jpeg?trim=58,0,58,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Sekou Siby was supposed to be working the morning shift on September 11, 2001. Instead, he swapped with a young co-worker from Ecuador, taking the afternoon slot.

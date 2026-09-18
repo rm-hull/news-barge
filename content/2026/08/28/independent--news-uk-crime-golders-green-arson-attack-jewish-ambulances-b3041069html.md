@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:14:22Z'
 published: '2026-08-28T00:00:00Z'
 description: The attack took place in the early hours of 23 March in North London
 image: https://static.independent.co.uk/2026/08/28/14/01M149Z6CEB19F5TASWFM53DP2.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack earlier this year.

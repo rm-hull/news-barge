@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:12:35Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/jovan-malcolm-york-city.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 York City today announced the signing of Jovan Malcolm, on loan from Stevenage.

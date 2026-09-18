@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:33Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/bay-horse-micklegate-selby-gsv.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 Police are investigating a fight outside a pub in Selby.

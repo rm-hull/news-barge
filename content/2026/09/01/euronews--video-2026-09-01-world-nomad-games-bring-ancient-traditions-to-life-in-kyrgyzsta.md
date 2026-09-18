@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Video. The World Nomad Games have brought together athletes from more
   than 90 countries to compete in traditional sports rooted in nomadic cultures.
 image: https://images.euronews.com/articles/stories/09/89/70/89/1200x675_cmsv2_b0717919-8eca-558c-8d13-eb82e3b851c2-9897089.jpg
+categories:
+- Europe
+- News & Politics
+- Video Gaming
 ---
 
 The World Nomad Games have brought together athletes from more than 90 countries in Kyrgyzstan, where competitors are showcasing traditional skills including horse racing, mounted wrestling, archery and wrestling.

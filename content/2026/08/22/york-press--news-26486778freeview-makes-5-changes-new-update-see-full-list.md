@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Brits are being urged to retune their TVs after five channel changes
   were made in the latest Freeview update on August 19, 2026.
 image: https://www.yorkpress.co.uk/resources/images/19973732.jpg?type=og-image&xType=0&yType=85
+categories:
+- Local
+- York
+- Technology & Software
+- Film & TV
 ---
 
 *(Image: Getty Images/Freeview)*

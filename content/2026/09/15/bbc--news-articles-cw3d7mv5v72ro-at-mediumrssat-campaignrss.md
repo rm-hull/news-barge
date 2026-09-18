@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: It comes after Reform received donations totalling £72m from two British
   crypto-billionaires who have both recently lived abroad.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74e4/live/1ab5c060-8f5f-11f1-b2ab-0dd01740f9f6.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Nigel Farage is wearing a blue suit, white shirt and a tie. He has short grey hair. A Union flag can be seen in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/74e4/live/1ab5c060-8f5f-11f1-b2ab-0dd01740f9f6.jpg)

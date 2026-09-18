@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T19:23:02Z'
 published: '2026-09-02T00:00:00Z'
 description: A festival celebrating Islamic heritage and culture is returning to Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21399372.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A festival celebrating Islamic heritage and culture is returning to Bradford.

@@ -9,6 +9,10 @@ description: Video. At the World Robot Conference in Beijing on 19 August, more 
   300 companies displayed humanoid, industrial and service robots, highlighting the
   sector’s push into factories and commercial settings.
 image: https://images.euronews.com/articles/stories/09/88/15/27/1200x675_cmsv2_4a6288b8-41ab-510d-bf3c-534b71365819-9881527.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 China is looking beyond America to sell its humanoid robots, with manufacturers targeting Europe, the Middle East and Southeast Asia as US restrictions tighten.

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: House Speaker’s words come as even Republicans warn about the risks of
   AI
 image: https://static.independent.co.uk/2026/09/15/16/2295425098..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Asked about President Donald Trump’s rant against regulation of future AI development, House Speaker Mike Johnson on Tuesday insisted the media was overreacting to warnings about artificial intelligence going rogue.

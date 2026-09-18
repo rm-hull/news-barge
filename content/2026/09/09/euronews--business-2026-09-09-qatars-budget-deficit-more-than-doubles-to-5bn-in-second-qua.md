@@ -10,6 +10,11 @@ description: The first-half shortfall has exceeded Qatar’s original full-year 
   while European gas buyers face delivery cancellations extending into early November
   as the Iran war postpones revenue.
 image: https://images.euronews.com/articles/stories/09/90/70/61/1200x675_cmsv2_aac80415-bcb8-5f21-bf67-f3c65afbbe3f-9907061.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The first-half shortfall has exceeded Qatar’s original full-year forecast. Doha has said cuts to operating spending exclude salaries and capital projects, while European gas buyers face delivery cancellations extending into early November as the Iran war postpones revenue.

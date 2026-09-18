@@ -11,6 +11,12 @@ description: 'We know that the sense of decline that people feel runs deep. The 
   our high streets: shuttered-up shops reminding us of what once was, and organised
   crime too often out there, visible, in the open.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA2M2E2YWFlLWVkNDYtNGMxOC05MzUyLWRhMDE4ODc2NjExMzpiMmU5ZTIxZS0yZDFjLTRkYjMtYmUzZi0yY2Q1YjEyZDNkYTE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Years of decline being felt on high streets must be reversed - Angela Rayner

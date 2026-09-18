@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Iran has so far proved adept at finding ways around years of already
   punishing sanctions on its economy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![US President Donald Trump during a Cabinet meeting in on 27 May 2026](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg)

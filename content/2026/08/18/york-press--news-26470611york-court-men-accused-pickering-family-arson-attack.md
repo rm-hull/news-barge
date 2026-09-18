@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Two men have denied starting a fire with intent to endanger the lives
   of a Pickering man and his family.
 image: https://www.yorkpress.co.uk/resources/images/18483231.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: NQ)*

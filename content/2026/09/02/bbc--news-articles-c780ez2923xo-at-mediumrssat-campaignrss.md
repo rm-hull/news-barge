@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Nottinghamshire Police received a complaint and has referred the matter
   to the IOPC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Barnaby Webber, Grace O'Malley Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/06fd/live/e5e53ce0-539e-11f1-a184-d13a0f944f44.jpg)

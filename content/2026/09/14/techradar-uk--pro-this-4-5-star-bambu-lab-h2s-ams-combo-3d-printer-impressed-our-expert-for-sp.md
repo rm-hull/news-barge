@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: Scoring the Bambu Lab H2S 4.5 stars with a TechRadar Pro Recommends award,
   we found this large-scale 3D printer was fast, reliable, and impressively accurate.
 image: https://cdn.mos.cms.futurecdn.net/YJSryDbnMbskxeHCkg4ynT-1200-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Bambu Lab HS2 3D printer during our review](https://cdn.mos.cms.futurecdn.net/YJSryDbnMbskxeHCkg4ynT.jpg) 

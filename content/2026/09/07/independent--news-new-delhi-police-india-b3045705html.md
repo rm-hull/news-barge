@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Search and rescue teams are combing through the debris of a collapsed
   building in New Delhi as the death toll has climbed to six
 image: https://static.independent.co.uk/2026/09/07/06/India_Building_Collapse__7_44.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Search and rescue teams combed through the debris of a collapsed building in New Delhi on Monday as the death toll climbed to six, officials said.

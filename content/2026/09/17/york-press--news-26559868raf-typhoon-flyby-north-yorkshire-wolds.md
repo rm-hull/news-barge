@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: According to Flightradar24 - the live flight-tracking service, an RAF
   Eurofighter Typhoon T3 has been circling over an area near…
 image: https://www.yorkpress.co.uk/resources/images/20754147.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Eastbourne Borough Council )*

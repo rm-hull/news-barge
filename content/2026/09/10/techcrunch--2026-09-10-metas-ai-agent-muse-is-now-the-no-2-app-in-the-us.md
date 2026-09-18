@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Meta's newest app Muse is off to a slower start than the company's other
   apps, like Meta AI or Threads.
 image: https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Meta is beginning to win over Wall Street following Tuesday’s launch of its new AI app, Muse. The tech giant’s push into agentic AI is also a hot topic on X among industry players. Now, early numbers offer better insight into how popular Muse actually is among its target market of U.S. consumers.

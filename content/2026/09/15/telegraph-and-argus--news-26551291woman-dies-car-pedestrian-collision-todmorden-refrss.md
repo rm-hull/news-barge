@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:28:07Z'
 published: '2026-09-15T00:00:00Z'
 description: A woman has died following a collision involving a car and a pedestrian
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456848.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

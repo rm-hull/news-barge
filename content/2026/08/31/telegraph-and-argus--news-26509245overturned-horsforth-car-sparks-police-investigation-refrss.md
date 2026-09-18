@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: Police are investigating after an overturned car was found abandoned
   in bushes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21000461.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Automotive
 ---
 
 *(Image: UGC)*

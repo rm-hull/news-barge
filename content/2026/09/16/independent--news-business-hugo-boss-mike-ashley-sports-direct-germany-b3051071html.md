@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Michael Murray, Frasers’ chief executive, was appointed by the supervisory
   board of Hugo Boss.
 image: https://static.independent.co.uk/2024/08/28/08/27143755-48290d8a-0111-4cc3-92c7-2e39b152c438.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The boss of Frasers Group has been named as the new chairman of Hugo Boss, signalling a step up in efforts to secure majority ownership of the luxury fashion brand.

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The Meta CEO said he and his family ‘look forward to spending time in
   Ireland’
 image: https://static.independent.co.uk/2026/08/20/20/2026-08-20T153905Z_1719865848_RC2E2NATT4NI_RTRMADP_3_META-ZUCKERBERG-IRELAND.JPG?trim=167,0,167,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Meta CEO Mark Zuckerberg has purchased a 19th-century Gothic-style castle in southeast Ireland.

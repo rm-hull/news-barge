@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Great Aycliffe Cancer Support Group has warned its vital patient transport
   service is at risk as it urgently appeals for more volunteer drivers.
 image: https://www.thenorthernecho.co.uk/resources/images/21403352.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: SARAH CALDECOTT)*

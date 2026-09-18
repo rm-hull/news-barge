@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Visitors have only days left to explore Sunderland Museum & Winter Gardens
   before it closes for a £13.6 million redevelopment, with an Alice in…
 image: https://www.thenorthernecho.co.uk/resources/images/21376127.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Sunderland City Council)*

@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Sebastien Lai has appealed for the release of his father, former Hong
   Kong media mogul Jimmy Lai, at a congressional hearing in Washington
 image: https://static.independent.co.uk/2026/09/16/21/US_China_48639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The son of imprisoned former Hong Kong media mogul Jimmy Lai appealed for his father’s release at a congressional hearing in Washington on Wednesday, one week before Chinese President Xi Jinping is expected to visit the U.S.

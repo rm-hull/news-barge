@@ -9,6 +9,10 @@ description: In Chambord, drought and heatwaves are clearly visible in the chate
   gardens. The parched vegetation is forcing gardeners to rethink landscapes and plant
   species.
 image: https://images.euronews.com/articles/stories/09/88/03/41/1200x675_cmsv2_6b28734e-04ec-5c74-af1c-0f5eaab30140-9880341.jpg
+categories:
+- Europe
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ## In Chambord, drought and heatwaves are clearly visible in the chateau's gardens. The parched vegetation is forcing gardeners to rethink landscapes and plant species.

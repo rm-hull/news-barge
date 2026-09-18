@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Chancellor John Healey will deliver the first Budget under Andy Burnham’s
   leadership next month
 image: https://static.independent.co.uk/2026/09/16/12/362fd848847ad5aa7c62a3da051490d2Y29udGVudHNlYXJjaGFwaSwxNzg5NjQyNTEx-2.85793891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has admitted next month’s Budget will be “challenging” for his government after official figures revealed inflation has soared to a five-month high.

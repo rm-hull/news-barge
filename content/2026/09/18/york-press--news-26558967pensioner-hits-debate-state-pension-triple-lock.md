@@ -7,6 +7,12 @@ scraped_at: '2026-09-18T13:00:29Z'
 published: '2026-09-18T00:00:00Z'
 description: Pensioner who worked 50 years hits out at state pension triple lock debate
 image: https://www.yorkpress.co.uk/resources/images/21467953.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Personal Finance & Investing
+- News & Politics
 ---
 
 **Pensioner hits out at debate over state pension triple lock**

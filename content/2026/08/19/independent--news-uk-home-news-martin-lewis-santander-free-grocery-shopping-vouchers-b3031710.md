@@ -10,6 +10,10 @@ description: Customers who open an Edge account with Santander can get a voucher
   spend at Tesco, Sainsbury's, Morrisons, Asda or Waitrose – but there are some hoops
   to jump through first
 image: https://static.independent.co.uk/2026/07/08/12/26/GettyImages-1240837348.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A major high street bank is offering customers the chance to land £100 in supermarket vouchers through Martin Lewis’ website, Money Saving Expert (MSE), if they open – and use – a new Santander bank account.

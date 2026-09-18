@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The 23-year-old female beluga, named Peekachu, died on Tuesday while
   staff were attempting to administer rehydration therapy
 image: https://static.independent.co.uk/2026/08/27/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A beluga whale has died just days after being transported hundreds of miles to a Chicago aquarium from a closed park in Ontario, following efforts to rehome Canada’s final captive whales.

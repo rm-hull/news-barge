@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The father of three children, allegedly drowned by their mother, is asking
   a judge to compel a psychologist to produce records from her sessions
 image: https://static.independent.co.uk/2021/04/11/15/newFile-4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 The father of three young children killed by their mother is asking a judge to force a psychologist who evaluated her to turn over records that he says could be central to his lawsuit against Los Angeles authorities.

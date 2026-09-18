@@ -8,6 +8,12 @@ scraped_at: '2026-09-12T12:08:57Z'
 published: '2026-09-12T00:00:00Z'
 description: A much-loved Darlington gift shop has relocated to the town centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21439685.jpg?type=og-image&xType=0&yType=54
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Shopping & Deals
 ---
 
 *(Image: KRAZY GIFTS)*

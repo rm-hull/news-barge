@@ -7,6 +7,9 @@ scraped_at: '2026-09-08T12:50:46Z'
 published: '2026-09-08T00:00:00Z'
 description: The invoice you didn't see coming
 image: https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Big letters AI in pink in front of pink and blue strands of light suggesting a digital explosion](https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL.jpg) 

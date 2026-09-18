@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Review by paediatricians links child vaping with poor respiratory health
   such as coughing, wheezing and asthma
 image: https://i.guim.co.uk/img/media/5843247822d09faa6ddd45f92244ae1a3344f9d9/519_0_5205_4164/master/5205.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b778aae17fd6581d681c5a3d1504192f
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Family & Parenting
 ---
 
 Young people who start vaping risk developing breathing problems and going on to smoke cigarettes, children’s doctors have warned.

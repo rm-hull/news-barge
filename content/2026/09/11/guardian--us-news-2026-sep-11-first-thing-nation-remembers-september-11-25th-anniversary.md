@@ -9,6 +9,10 @@ description: Commemoration ceremonies to be held around the world for the nearly
   killed in 2001 terror attack on US. Plus, JD Vance sets out his stall as heir to
   Donald Trump
 image: https://i.guim.co.uk/img/media/91ce323ce4635c0bfa0d14435beb610230a55271/177_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecf6fe7453cf60ce3201e20ee366c2e6
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Good morning. It is a sombre day for the nation as people gather to mourn and remember the nearly 3,000 victims of the attacks on September 11 2001, when 19 al-Qaida hijackers seized control of four airliners, slamming two of the planes into the World Trade Center, one into the Pentagon in Arlington, Virginia, and the fourth into a field in western Pennsylvania.

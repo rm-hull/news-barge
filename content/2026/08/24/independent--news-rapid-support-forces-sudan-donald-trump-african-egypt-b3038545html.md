@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: The United States is urging beefed up U.N. sanctions against the warring
   parties in Sudan to build pressure on them to negotiate an end to fighting
 image: https://static.independent.co.uk/2026/08/24/23/Sudan_War_17595.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The United States is urging beefed-up U.N. sanctions against the warring parties in Sudan to build pressure on them to negotiate an end to the fighting that has killed at least 59,000 people, displaced some 13 million and pushed many parts of the African nation into famine.

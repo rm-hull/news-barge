@@ -9,6 +9,12 @@ published: '2026-09-05T00:00:00Z'
 description: Kneads Must Pies has opened in the market’s Street Kitchen, selling a
   range of pies and sides.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403834.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Bradford Markets)*

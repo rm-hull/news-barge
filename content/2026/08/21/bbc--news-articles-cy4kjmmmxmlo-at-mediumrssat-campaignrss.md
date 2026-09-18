@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: The return of the Duke and Duchess of Sussex to the UK continues to dominate
   Friday's front pages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/865a/live/67776230-9cef-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ![The headline on the front page of the Times reads: "King puts William first as Harry heads home."](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/5bd6/live/2a69a840-9ce4-11f1-aed2-8d6da8d75094.png)

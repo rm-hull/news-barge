@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Google Pics brings Nano Banana-powered image creation and editing directly
   into Workspace, giving Canva a potentially formidable new rival.
 image: https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Google Pics](https://cdn.mos.cms.futurecdn.net/h4bHGsEyWZD5asEUQtdiee.jpg) 

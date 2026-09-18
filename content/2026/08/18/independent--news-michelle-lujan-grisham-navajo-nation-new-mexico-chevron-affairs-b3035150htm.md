@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A museum honoring Navajo Code Talkers is moving forward, but not without
   controversy
 image: https://static.independent.co.uk/2026/08/18/18/Navajo_Code_Talkers_Museum_52233.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 For decades, Navajo Code Talkers and their descendants have dreamed of an expansive museum on the Navajo Nation that would educate the public about the complex code they developed using their language, credited with helping secure Allied victory in World War II. Some have also hoped for a connected veteran’s center and space to do research and store archival material.

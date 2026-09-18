@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: About 100 firefighters are tackling the blaze at a recycling centre on
   Landman Way.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a1d/live/ac444830-9b49-11f1-a98d-2d938d056219.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Large fire breaks out at waste facility in south-east London

@@ -10,6 +10,11 @@ description: Dom Joly is bringing Trigger Happy TV to Yorkshire during his tour 
   tells John Blow about getting sacked from ITN, his love for music and his life before
   fame.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhhMDkwZmI2LWEyZTAtNDcxYS05NGEyLWUwNTQ0MzQ3NzMzNzphMDRiZmQ5YS03YjExLTRmMTMtYmM2Yy03ZmYxNTA2MTMyNWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Dom Joly's Trigger Happy TV comes to Yorkshire venues on major tour

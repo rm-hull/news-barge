@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The ASA found the ads were irresponsible and likely to cause serious
   or widespread offence by objectifying and sexualising women.
 image: https://static.independent.co.uk/2026/09/16/00/15104155-94863681-1d08-47f3-a37c-2befe4104391.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A series of social media ads for AI apps have been banned for promoting the creation of sexually explicit content and objectifying women.

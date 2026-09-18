@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The beauty retailer’s social media pages are flooded with criticism from
   shoppers angry over its use of Flock cameras
 image: https://static.independent.co.uk/2026/09/04/20/2026-08-07T100018Z_1904672926_RC2EYS99IOGU_RTRMADP_3_USA-RETAIL-AI.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ulta Beauty is facing backlash from shoppers over the cosmetics giant allowing Flock Safety surveillance cameras at some of its stores.

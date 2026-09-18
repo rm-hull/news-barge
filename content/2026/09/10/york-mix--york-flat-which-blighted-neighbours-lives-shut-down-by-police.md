@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T19:07:00Z'
 published: '2026-09-10T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cornetto-court-regent-street-york-gsv.webp
+categories:
+- Local
+- York
+- News & Politics
+- Society & Culture
 ---
 
 A York flat which was a magnet for trouble has been targeted by police

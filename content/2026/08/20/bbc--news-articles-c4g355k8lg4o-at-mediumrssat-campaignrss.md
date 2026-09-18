@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Young carers face huge disadvantages growing up - one teenager explains
   what life is like.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d0a/live/6c5b7710-9b18-11f1-b8e1-e7ef86eff0e6.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Picture of a teenage girl, Ava-Grace, who is a young carer](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6d0a/live/6c5b7710-9b18-11f1-b8e1-e7ef86eff0e6.jpg)

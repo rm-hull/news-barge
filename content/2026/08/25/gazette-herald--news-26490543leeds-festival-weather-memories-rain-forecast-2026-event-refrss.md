@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: From wellies and ponchos to sunshine and crowds, these Leeds Festival
   photos capture the spirit of the Bramham Park event as thousands prepare to…
 image: https://www.gazetteherald.co.uk/resources/images/21364395.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Travel
 ---
 
 Sunshine, sudden downpours and plenty of mud underfoot - these photos from Leeds Festival over the years capture the spirit that has helped make the Bramham Park event a bank holiday fixture.

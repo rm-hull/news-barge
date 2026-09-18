@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: It’s unclear what work the conservative influencers are engaging in or
   if they are receiving financialso in compensation
 image: https://static.independent.co.uk/2026/08/27/08/2291623777..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A handful of high-profile conservative influencers have reportedly been working as undisclosed government employees and using their huge social media followings to praise Defense Secretary Pete Hegseth and defend the Trump administration’s policies.

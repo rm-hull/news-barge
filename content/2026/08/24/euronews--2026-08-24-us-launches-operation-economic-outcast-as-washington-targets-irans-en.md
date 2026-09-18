@@ -9,6 +9,10 @@ description: '"Any entity that facilitates money laundering on behalf of Iran wi
   be removed from the US dollar system," US Treasury Secretary Scott Bessent said
   on Monday.'
 image: https://images.euronews.com/articles/stories/09/88/71/10/1200x675_cmsv2_4848292a-9e26-5229-a27e-6226b4c894c4-9887110.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## "Any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system," US Treasury Secretary Scott Bessent said on Monday.

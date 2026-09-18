@@ -9,6 +9,10 @@ description: Paris has opened its first shop devoted entirely to butter, in a co
   that eats around 8 kilograms (18 pounds) per person a year yet has one of the European
   Union’s lowest obesity rates
 image: https://static.independent.co.uk/2026/08/26/12/France_Butter__3589.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 The contradiction of the trim Parisian and the butter croissant now has a storefront.

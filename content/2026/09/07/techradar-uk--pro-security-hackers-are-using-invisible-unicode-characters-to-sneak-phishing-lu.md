@@ -8,6 +8,8 @@ scraped_at: '2026-09-07T14:14:56Z'
 published: '2026-09-07T00:00:00Z'
 description: Technique used in prompt injection attacks has made it into phishing
 image: https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/rsstAB5QjUqoXwXYPEgT7d.jpg) 

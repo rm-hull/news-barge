@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Josh Collette, 42, remains in good spirits following the life-altering
   accident, saying, ‘My heart is full of love’
 image: https://static.independent.co.uk/2026/08/25/19/10/Screenshot-2026-08-25-at-3-39-41-PM.jpg?trim=0,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A California surfer who dove into the ocean to save a kid caught in a riptide has been left paralyzed after hitting a wall of sand.

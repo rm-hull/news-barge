@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A popular County Durham restaurant is closing its doors temporarily as
   it undergoes a transformation.
 image: https://www.thenorthernecho.co.uk/resources/images/21341751.jpg?type=og-image&xType=0&yType=91
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A popular Thai restaurant is closing its doors for a major transformation.

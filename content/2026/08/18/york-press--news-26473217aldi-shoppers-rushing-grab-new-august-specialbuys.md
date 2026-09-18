@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Aldi has unveiled a fresh batch of Specialbuys for August, with garden
   gadgets, student bedroom essentials and Asian food on offer.
 image: https://www.yorkpress.co.uk/resources/images/21327656.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Aldi)*

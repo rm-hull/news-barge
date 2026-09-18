@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A landmark new study has linked London’s ultra-low-emissions zones to
   improved lung function in children
 image: https://static.independent.co.uk/2025/06/19/00/6e95ba3f2473a67e6d3f4e5f3b7ac771Y29udGVudHNlYXJjaGFwaSwxNzUwMjY1OTEw-2.75224119.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Children's lives could be saved by creating more clean air zones, the mother of a girl who died after exposure to excessive air pollution has said after a new study linked air quality improvements following the introduction of London’s ultra low emission zone (Ulez) to improved lung growth in young people.

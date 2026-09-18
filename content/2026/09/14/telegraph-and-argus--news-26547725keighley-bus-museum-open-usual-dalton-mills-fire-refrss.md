@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A museum that was previously affected by a mill fire has confirmed it
   is “open as usual.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383617.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Mick Berry)*

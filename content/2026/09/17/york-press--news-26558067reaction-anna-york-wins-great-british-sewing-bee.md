@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: St Leonard’s Hospice has celebrated the success of retail team member
   Anna for her “incredible” win in this year’s Great British Sewing Bee.
 image: https://www.yorkpress.co.uk/resources/images/21466728.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## 'We've been rooting for her' - hospice celebrates Anna's Sewing Bee win

@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: As one of Europe’s biggest consumers of gas the UK may be particularly
   exposed to heightened price volatility
 image: https://i.guim.co.uk/img/media/c5ebfab77c83c07b4de057c1add8490c44148f59/122_0_3612_2891/master/3612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35e88074da057f911ccb8740780415f3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Europe is on course to enter the cooler months with gas stores at their lowest level in 13 years, which has triggered “winter panic” among energy traders, experts have warned.

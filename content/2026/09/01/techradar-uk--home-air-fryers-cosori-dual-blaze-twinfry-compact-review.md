@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: With its clever Dual Blaze technology and handy Twinfry flexibility,
   this compact air fryer is a tempting buy.
 image: https://cdn.mos.cms.futurecdn.net/fV8EDFYRD3DwosMyAuX6WE-2560-80.jpg
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 ### TechRadar Verdict

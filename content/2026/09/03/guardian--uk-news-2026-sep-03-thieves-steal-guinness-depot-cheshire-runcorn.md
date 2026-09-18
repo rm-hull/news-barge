@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Police say two lorries were driven into industrial estate in Runcorn
   and attached to trailers holding about 800 barrels
 image: https://i.guim.co.uk/img/media/c6708c113391649f3e64f170e7fe8b811c9f0572/450_0_4454_3563/master/4454.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9e1c3fc7331c2393e95150bbbbb1e55
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The famous tagline “Guinness is good for you” applies only when the drink is bought and paid for, police have said, after thieves made off with more than 70,000 pints’ worth in Cheshire.

@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: 'Covenant is a relatively new player in the arms industry. The company
   was founded in 2024 and is also active in Israel. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/44/57/1200x675_cmsv2_64f1bd29-90ef-5a41-b5c6-1a583e545671-9894457.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Covenant is a relatively new player in the arms industry. The company was founded in 2024 and is also active in Israel.

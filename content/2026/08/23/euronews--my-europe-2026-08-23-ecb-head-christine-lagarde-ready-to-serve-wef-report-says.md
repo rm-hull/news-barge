@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: 'The World Economic Forum is currently co-chaired by BlackRock CEO Larry
   Fink and André Hoffmann, the vice chairman of Roche. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/51/82/1200x675_cmsv2_9e8b547a-e739-5a7d-9cca-bf6cf9aceda0-9885182.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The World Economic Forum is currently co-chaired by BlackRock CEO Larry Fink and André Hoffmann, the vice chairman of Roche.

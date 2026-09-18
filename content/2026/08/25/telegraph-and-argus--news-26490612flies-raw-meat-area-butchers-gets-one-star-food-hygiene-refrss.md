@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: A report has revealed why a Bradford butchers was slapped with a food
   hygiene rating of one.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21321470.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Health & Fitness
 ---
 
 *(Image: T&A)*

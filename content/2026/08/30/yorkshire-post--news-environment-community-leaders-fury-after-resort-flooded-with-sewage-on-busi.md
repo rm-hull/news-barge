@@ -9,6 +9,11 @@ description: Community leaders has voiced their anger over Yorkshire Water's fai
   to create sufficient infrastructure in Filey after tourists encountered human waste
   floating in the sea over the town's busiest weekend of the year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIzYjI0NjViLWZkZGEtNGQyMC05MjI5LTFhNmM5MjNhNDlkZjo2NmY0OThlYi01ODUwLTRiMTAtOWVlMy0wNTI2OThiMWUzNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Community leaders' fury after resort flooded with sewage on busiest bank holiday

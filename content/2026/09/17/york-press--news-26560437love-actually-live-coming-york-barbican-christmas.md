@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: Love Actually Live in Concert is coming to York Barbican in December
   with the festive film screened alongside a live orchestra.
 image: https://www.yorkpress.co.uk/resources/images/21470250.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Music
+- Arts & Culture
 ---
 
 *(Image: Wasted Youth)*

@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Las Vegas jury on Monday found Duane ‘Keffe D’ Davis guilty in the
   1996 murder of the hip-hop icon
 image: https://i.guim.co.uk/img/media/8af6cccc96fa912a0b0b0178b248b1f358734077/78_0_2388_1910/master/2388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de18549d844006fe5c1112a0803bf308
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Thirty years after the killing of Tupac Shakur, conspiracy theories and rumors about the perpetrator’s identity, one man has now been held criminally responsible for the rap icon’s death.

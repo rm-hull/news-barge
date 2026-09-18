@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: They carry distinct memories not from the day itself, but from the moment
   - years later - they learned about the attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f3e2/live/05b8a520-ad72-11f1-bd5b-e56a3978ea1b.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
+- Self-Improvement
 ---
 
 ![Two beams of light shooting up from the New York City skyline into the night sky, in tribute to the Twin Towers](https://ichef.bbci.co.uk/ace/standard/993/cpsprodpb/f3e2/live/05b8a520-ad72-11f1-bd5b-e56a3978ea1b.jpg)

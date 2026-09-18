@@ -9,6 +9,10 @@ description: Four Russian ships, including sanctioned cargo and tanker vessels e
   by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the
   first interruption of Russia's naval presence there since 2013.
 image: https://images.euronews.com/articles/stories/09/91/01/01/1200x675_cmsv2_7fc23f7a-08fd-5b5b-8b1f-7afec493e2cd-9910101.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Four Russian ships, including sanctioned cargo and tanker vessels escorted by a destroyer, entered the Mediterranean via Gibraltar on 27 August, ending the first interruption of Russia's naval presence there since 2013.

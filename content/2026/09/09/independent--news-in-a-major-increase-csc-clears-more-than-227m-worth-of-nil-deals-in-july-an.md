@@ -10,6 +10,11 @@ description: The College Sports Commission cleared more than $227 million worth 
   name, image and likeness deals in the two-month period ending August 31, nearly
   doubling the value of all the deals cleared over its first year of existence
 image: https://static.independent.co.uk/2026/09/09/19/Notre_Dame_Injuries_Football_64424.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The College Sports Commission cleared more than $227 million worth of name, image and likeness deals in the two-month period ending Aug. 31, nearly doubling the value of all the deals cleared over its first year of existence.

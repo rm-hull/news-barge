@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Yorkshire Water says it is to start conducting ground investigations
   on Harrogate’s precious Stray including the drilling of 30m deep holes.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA2ZmM4NmEyLWM2YTMtNGMzOS1hODZmLWNlMThkMmFlYjE4ZDowYWQ0ZWIyNS1mZjRmLTRmZjYtYWIwMy1iZWM1YjViZTA3Y2Q=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Yorkshire Water announces new storm overflow project to begin in Harrogate as part of £1.5bn improvements

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Target has pulled a children's Halloween costume after backlash over
   its resemblance to racist minstrel caricatures
 image: https://static.independent.co.uk/2026/08/26/00/Target_Minstrel_Costume_84639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Retailer Target pulled a children’s Halloween costume from its shelves Monday after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures.

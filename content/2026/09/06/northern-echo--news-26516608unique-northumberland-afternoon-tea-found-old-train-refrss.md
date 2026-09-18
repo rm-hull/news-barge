@@ -8,6 +8,13 @@ published: '2026-09-06T00:00:00Z'
 description: Tea on the Train offers a unique dining experience for those wanting
   to enjoy an afternoon tea.
 image: https://www.thenorthernecho.co.uk/resources/images/21403042.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
+- Arts & Culture
 ---
 
 *(Image: Tripadvisor)*

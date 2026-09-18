@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Kramatorsk and Slovyansk are now the main focus of Russian ground assaults,
   and residents are being told to leave.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd8d/live/b5d72f90-ad30-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Two middle-aged women stare into the distance amid the rubble from a Russian attack](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/fd8d/live/b5d72f90-ad30-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:36Z'
 published: '2026-09-01T00:00:00Z'
 description: Almost 19 million people had their flu vaccinations last winter
 image: https://static.independent.co.uk/2025/10/16/17/27a4ddb5d481509f9913076c25c27b50Y29udGVudHNlYXJjaGFwaSwxNzYwNzEyNzc5-2.81640649.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The flu vaccine roll-out has begun, with millions of children and pregnant women across England eligible to receive the jab from today.

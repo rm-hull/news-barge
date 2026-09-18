@@ -10,6 +10,9 @@ description: Called Plaud One, these adopt the simple bare-bones style of Apple'
   AirPods, and can record calls, while their case can be used to record in-person
   conversations or take notes.
 image: https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Hardware companies have realized that note-taking is one of the easiest AI use cases to build for, and consequently have been busy shoving mics into everything from pendants and rings to credit-card-sized pucks and wristbands. Still, despite the variety of devices, only a few companies have been able to stand out.

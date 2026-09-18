@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A survey of 1,100 managers found that half had seen young people with
   no understanding of punctuality or appropriate communication
 image: https://static.independent.co.uk/2026/09/02/15/01/iStock-1922633073.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
+- Self-Improvement
 ---
 
 A significant number of bosses believe young people are finishing education without the practical skills needed for work, a new report suggests.

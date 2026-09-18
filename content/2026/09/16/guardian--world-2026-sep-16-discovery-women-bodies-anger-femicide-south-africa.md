@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: String of female murder victims found near Johannesburg’s international
   airport, including five in the past week
 image: https://i.guim.co.uk/img/media/81da1440d52806de4344b751588d5aff2251f245/316_0_2981_2385/master/2981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3621560197d4fe5dee831f6590263386
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
+- History
 ---
 
 The discovery of the bodies of seven women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.

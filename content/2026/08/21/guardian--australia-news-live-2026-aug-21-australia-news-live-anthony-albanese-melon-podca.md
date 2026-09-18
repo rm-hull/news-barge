@@ -8,6 +8,10 @@ scraped_at: '2026-08-21T01:53:31Z'
 published: '2026-08-21T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/ad63171aea28cf3069565a872d95f26fee90ee62/0_89_1237_989/master/1237.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d115cf666aa216d09ef69ae49d8f9118
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The chief executive of Catholic Schools NSW, Dallas McInerney, has been sacked from his position after his appearance at the NSW Icac’s inquiry into allegations of corruption in the state’s Liberal party. Photograph: ICAC

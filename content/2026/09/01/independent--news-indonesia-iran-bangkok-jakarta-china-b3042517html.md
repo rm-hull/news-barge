@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The Iran war has dented global supplies of aluminum, raising production
   costs for the metal used in buildings, cars and airplanes, among other things
 image: https://static.independent.co.uk/2026/09/01/08/Iran_Indonesia_Aluminum_88759.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Resource-rich Indonesia is expanding its production of aluminum as the Iran war disrupts supplies, relying on its abundant coal reserves to power new smelters that run contrary to efforts to curb carbon emissions that cause climate change.

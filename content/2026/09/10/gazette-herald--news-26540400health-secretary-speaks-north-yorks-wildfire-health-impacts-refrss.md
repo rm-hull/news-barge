@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: THE health secretary has said that the NHS has to be ready for extreme
   weather events after last year’s wildfires in the North York Moors.
 image: https://www.gazetteherald.co.uk/resources/images/21437186.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 THE health secretary has said that the NHS has to be ready for extreme weather events after last year’s wildfires in the North York Moors.

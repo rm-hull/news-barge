@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: ‘Challenging’ weather conditions and lack of snowfall are being blamed
   after a winter that broke multiple heat records
 image: https://i.guim.co.uk/img/media/f762b2885bd9fa32e163ed0adf55546d6b7a0c44/179_0_5355_4284/master/5355.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf731bbc95ae17796392b1dc4b9f44ad
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Major Australian alpine resorts are closing their ski operations up to a month early after a winter that broke multiple records for heat with limited snow falls being washed away by rain.

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A SHOW exploring the messier side of parenthood will take to the stage
   this November.
 image: https://www.yorkpress.co.uk/resources/images/17520086.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Harry Booth)*

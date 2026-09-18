@@ -9,6 +9,10 @@ description: Kirsty Pellant was forced to leave her career and rebuild her life 
   a stalker made her out to be a sex worker online. She is now campaigning for the
   law to be changed ahead of his early release from prison
 image: https://static.independent.co.uk/2026/09/17/9/38/IMG_9114.jpeg?trim=354,0,2020,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 A woman whose life was “blown apart” by a secret online stalker has said she fears she may “lose her life again” when he is let out of prison next month as part of the early release scheme.

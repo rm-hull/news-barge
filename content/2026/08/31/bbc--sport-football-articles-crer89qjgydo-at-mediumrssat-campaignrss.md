@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Manchester City complete the signing of winger Allan Elias from Palmeiras
   in a deal worth up to £34.2m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96e6/live/eb9cb040-a52a-11f1-8ebe-efa2c58ecfe9.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Allan Elias](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/96e6/live/eb9cb040-a52a-11f1-8ebe-efa2c58ecfe9.jpg)

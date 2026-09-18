@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Buckingham Palace denies a claim by Princess Diana's brother that King
   Charles III said she would soon be forgotten after her death
 image: https://static.independent.co.uk/2026/09/17/09/Britain_Royals_32136.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Buckingham Palace has forcefully denied a claim by the brother of the late Princess Diana that King Charles III said she would soon be forgotten after her death.

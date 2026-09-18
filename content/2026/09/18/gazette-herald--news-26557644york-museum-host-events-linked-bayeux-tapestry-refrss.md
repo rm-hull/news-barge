@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Yorkshire Museum in York will host a special weekend of 1066-themed events,
   celebrating links to the Norman Conquest ahead of the Bayeux Tapestry…
 image: https://www.gazetteherald.co.uk/resources/images/21239105.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 A special weekend of events in York will explore the county's links to the events of 1066 as excitement builds around the Bayeux Tapestry’s display at the British Museum.

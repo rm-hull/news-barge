@@ -9,6 +9,12 @@ description: Four people have appeared in court charged with murder after a newb
   baby girl, named only as Baby S, was found dead with 33 wounds from 15 separate
   stabbings.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/10/40/WhatsApp-Image-2026-09-01-at-11-18-55-(2).jpeg?trim=0,156,0,155&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Family & Parenting
 ---
 
 # Four in court over murder of newborn baby who suffered 33 wounds in stabbing

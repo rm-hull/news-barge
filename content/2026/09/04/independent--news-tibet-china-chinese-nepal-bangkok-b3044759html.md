@@ -10,6 +10,11 @@ description: It’s been more than a week since deadly flash floods killed hundr
   have been releasing the names of victims and those rescued, practically nothing
   is known about who the victims on the Chinese side are
 image: https://static.independent.co.uk/2026/09/04/12/China_Nepal_Flash_Floods_91431.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 It’s been more than a week since deadly flash floods killed hundreds and left thousands missing along the China-Nepal border — and practically nothing is known about the victims on the Chinese side.

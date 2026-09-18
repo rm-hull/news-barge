@@ -10,6 +10,9 @@ published: '2026-09-13T00:00:00Z'
 description: Diablo 5 developers shed a little bit of light on the player character,
   the Heir of Westmarch, during BlizzCon 2026.
 image: https://cdn.mos.cms.futurecdn.net/R9zeqNihsPLSwkAscEWZQC-1668-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Key art for the Heir of Westmarch in Diablo 5](https://cdn.mos.cms.futurecdn.net/R9zeqNihsPLSwkAscEWZQC.jpg) 

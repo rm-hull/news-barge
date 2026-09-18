@@ -9,6 +9,10 @@ description: Dan J Sullivan, a Republican Senate candidate in Alaska, came away 
   last Tuesday’s primary with 2.5 percent of the vote – making him eligible to take
   on Senator Dan S Sullivan in November
 image: https://static.independent.co.uk/2026/05/31/17/27/FotoJet.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Dan J. Sullivan, a retired schoolteacher in Alaska who launched a campaign to take on the incumbent Senator with the same name, came away from last week’s primary with roughly 2.5 percent of the vote, according to the Associated Press.

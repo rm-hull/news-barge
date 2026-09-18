@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: 'Exclusive: internal correspondence reveals USCIS anti-fraud officers
   shifted on to two ‘high-priority’ initiatives'
 image: https://i.guim.co.uk/img/media/5774c8ecb4253f999d056a82edc824b708c1af8d/377_0_4396_3516/master/4396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b803daf7105d668962b30cf9e39a5fb
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 All US immigration officers working for a key anti-fraud unit have been reassigned by Donald Trump’s administration to focus on screening South African refugees and alleged “unlawful” voters.

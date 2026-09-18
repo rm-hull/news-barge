@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Officers say they are concerned for Gareth's welfare and are urging anyone
   who may have seen him to come forward.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422767.jpg?type=og-image&xType=0&yType=101
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: West Yorkshire Police)*

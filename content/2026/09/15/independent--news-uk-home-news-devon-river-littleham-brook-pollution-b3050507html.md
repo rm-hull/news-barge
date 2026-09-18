@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T13:30:04Z'
 published: '2026-09-15T00:00:00Z'
 description: A ‘pollution incident’ turned the stream a neon blue colour
 image: https://static.independent.co.uk/2026/09/14/8/25/HSAnclaWwAAevwn.jpeg?trim=1281,0,359,389&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Environment bosses have issued an urgent “do not swim” warning at a UK beauty spot after a pollutant turned the river bright blue.

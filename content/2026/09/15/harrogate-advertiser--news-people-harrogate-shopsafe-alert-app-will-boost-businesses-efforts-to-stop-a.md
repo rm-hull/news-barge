@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Harrogate Bus Company is joining a wide-ranging new initiative to ensure
   Harrogate is a safe and welcoming town centre.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmExZWQ1NmY5LWNhZjktNDg2ZC1hZDMyLTI1MTRlMmU3M2M3MTo1MGNkMWY4YS01NDQ4LTRkMTktOTZhZS04M2UxNTc5M2EzMzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Harrogate ShopSafe Alert app will boost businesses' efforts to stop anti-social behaviour

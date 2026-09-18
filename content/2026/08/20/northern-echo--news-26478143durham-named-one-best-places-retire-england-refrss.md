@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Durham has been named one of the best cities to retire to in England
   thanks to its historic sites and many restaurants.
 image: https://www.thenorthernecho.co.uk/resources/images/21341871.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 *(Image: Getty)*

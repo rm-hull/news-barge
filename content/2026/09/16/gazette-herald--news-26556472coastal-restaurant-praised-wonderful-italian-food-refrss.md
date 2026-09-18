@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Alessi's in Saltburn-by-the-Sea has been praised by its visitors for
   its "absolutely wonderful" food and service.
 image: https://www.gazetteherald.co.uk/resources/images/21462073.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Travel
 ---
 
 *(Image: Tripadvisor)*

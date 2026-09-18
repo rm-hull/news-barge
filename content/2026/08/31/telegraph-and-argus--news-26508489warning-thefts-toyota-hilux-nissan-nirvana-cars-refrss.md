@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Police have warned Toyota HiLux and Nissan Navara owners after a spate
   of vehicle thefts across Bradford and elsewhere in West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20471794.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Pixabay)*

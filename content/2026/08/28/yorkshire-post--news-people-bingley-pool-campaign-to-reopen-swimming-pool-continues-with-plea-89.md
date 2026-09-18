@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Campaigners fighting to reopen Bingley Pool are urging Bradford Council
   to cancel an order which could eventually lead to the potential sale of the building.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE4N2JhODhiLTI0ZmItNGExYy04NGM3LTUxYjYyOTgzYWM0MDpjYmUzYWQyMi05ODk5LTRmNDAtYWY5My0xYmY3ZDY2ZDY1ZDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 # Bingley Pool: Campaign to reopen swimming pool continues with plea

@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: SpaceX already dominates American space launches, and this new White
   House memo could hand it even more power
 image: https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Donald Trump sings executive order](https://cdn.mos.cms.futurecdn.net/DFBL65zBbMWH2hNHzTrEuk.jpg) 

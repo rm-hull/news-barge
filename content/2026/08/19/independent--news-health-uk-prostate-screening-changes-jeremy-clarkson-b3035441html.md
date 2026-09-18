@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Former prime minister David Cameron called the changes ‘yet another step
   backwards’
 image: https://static.independent.co.uk/2026/08/13/16/8094de0045786153f24b2892193ce44eY29udGVudHNlYXJjaGFwaSwxNzg2NzE1Njc4-2.85194144.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 People are up in arms about changes to the prostate cancer screening guidelines in the UK.

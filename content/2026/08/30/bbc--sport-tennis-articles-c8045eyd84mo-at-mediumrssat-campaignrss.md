@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: British qualifier Toby Samuel breaks more new ground with a dominant
   victory over Tomas Machac on his US Open debut.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/32f5/live/78c791d0-a4ca-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Toby Samuel, wearing a grey shirt and white backwards baseball cap, hits the ball with a green racquet](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/32f5/live/78c791d0-a4ca-11f1-aed2-8d6da8d75094.jpg)

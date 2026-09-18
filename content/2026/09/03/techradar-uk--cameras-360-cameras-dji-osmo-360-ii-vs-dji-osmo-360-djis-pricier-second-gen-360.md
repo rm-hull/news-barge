@@ -9,6 +9,8 @@ published: '2026-09-03T00:00:00Z'
 description: Just one year after its original 360 camera, DJI has released the second-gen
   Osmo 360 II, and it fixes a major weakness
 image: https://cdn.mos.cms.futurecdn.net/HMpCb7pVXCT89HzjwyC2wJ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![DJI Osmo 360 II camera in user's hand (left), DJI Osmo 360 camera in user's hand (right)](https://cdn.mos.cms.futurecdn.net/HMpCb7pVXCT89HzjwyC2wJ.jpg) 

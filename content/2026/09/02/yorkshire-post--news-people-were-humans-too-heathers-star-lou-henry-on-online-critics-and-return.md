@@ -11,6 +11,11 @@ description: It’s a story defined by isolation, teenage alienation, and naviga
   on, its bite hasn't dulled. First released in 1988, the cult classic film Heathers
   is about to turn middle age this year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwMDU4MmUzLTU3NTItNDg2NC05YmZkLThkMzcwOGEwODE1ZTo3MjZhMWMwZS03YzIwLTQ2YzEtYmEzYy0wYTRlOWM2NmQ2NDg=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # 'We're humans too': Heathers star Lou Henry on online critics and returning to Leeds

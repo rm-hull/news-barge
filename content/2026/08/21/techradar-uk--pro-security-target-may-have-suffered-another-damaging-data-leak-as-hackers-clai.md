@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Hackers claim to have nabbed Target source code, but some experts are
   skeptical
 image: https://cdn.mos.cms.futurecdn.net/34u7D3mDFFPiqboXQBth8f-1000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A newly remodelled Target store](https://cdn.mos.cms.futurecdn.net/34u7D3mDFFPiqboXQBth8f.jpg) 

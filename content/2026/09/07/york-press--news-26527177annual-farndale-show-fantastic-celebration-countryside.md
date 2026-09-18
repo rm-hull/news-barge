@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The annual Farndale show was a fantastic celebration of the countryside
   .
 image: https://www.yorkpress.co.uk/resources/images/21418523.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Annual Farndale show is fantastic celebration of countryside

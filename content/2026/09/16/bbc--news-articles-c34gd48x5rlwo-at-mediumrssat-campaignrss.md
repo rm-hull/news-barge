@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The US president has pushed the issue to the forefront of American politics
   - even at the risk of losing supporters.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd71/live/87418770-b1bd-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Why is Donald Trump so opposed to regulating AI?

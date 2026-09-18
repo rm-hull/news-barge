@@ -8,6 +8,10 @@ scraped_at: '2026-08-30T13:46:31Z'
 published: '2026-08-30T00:00:00Z'
 description: Where does this rank on the nothing ever happens scale?
 image: https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Steam cover art](https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97.jpg) 

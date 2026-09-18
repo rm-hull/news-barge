@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Frontrunner Sununu beats Scott Brown to earn Republican nod in closely
   watched race in November
 image: https://i.guim.co.uk/img/media/e537a05f8bebbb78c1b1d2205678060cf8437312/712_0_3560_2848/master/3560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db6b2796a2669b1e377e9a57401878e6
+categories:
+- UK
+- News & Politics
 ---
 
 Former senator John E Sununu triumphed on Tuesday in the New Hampshire Republican Senate primary Scott Brown, earning the GOP nod in what will likely be a must-win race if Democrats hope to seize the upper chamber.

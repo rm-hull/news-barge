@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Critics of the data center in St. Louis, Missouri, worry about its water
   usage, the impact on the city’s air quality and utility costs
 image: https://static.independent.co.uk/2026/09/17/20/23/GettyImages-2286055476.jpg?trim=0,45,0,44&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The developer of a proposed $3.1 billion data center in St. Louis, Missouri, has sued a board that handles city zoning after the five-member panel required the company to supply renewable energy on-site.

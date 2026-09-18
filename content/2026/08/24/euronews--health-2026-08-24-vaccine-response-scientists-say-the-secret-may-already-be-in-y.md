@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Patterns in the blood, present before vaccination, could help predict
   how strongly a person's immune system will respond, a new study has found.
 image: https://images.euronews.com/articles/stories/09/88/63/01/1200x675_cmsv2_a5f04792-708e-50d7-8a2b-af316d4d1b6e-9886301.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Patterns in the blood, present before vaccination, could help predict how strongly a person's immune system will respond, a new study has found.

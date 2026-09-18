@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A man has been arrested after “threatening a woman with a blade” following
   an altercation in Sunderland.
 image: https://www.thenorthernecho.co.uk/resources/images/17824831.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: POLICE)*

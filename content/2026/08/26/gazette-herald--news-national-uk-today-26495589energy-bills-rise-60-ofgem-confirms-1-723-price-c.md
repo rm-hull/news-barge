@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Energy bills will rise by £60 from October as Ofgem confirms a new £1,723
   price cap. Here are six ways households can cut costs this winter.
 image: https://www.gazetteherald.co.uk/resources/images/21117458.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Yui Mok/PA Wire)*

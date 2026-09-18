@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Extreme drought and heat have severely impacted the Danube River and
   surrounding regions
 image: https://static.independent.co.uk/2026/08/29/06/Europe_Drought_Fish_4_798.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Small boats stand idle on cracked ground in a shriveled side channel of the Danube River in northern Serbia, where the water has receded into a couple of shrinking ponds under pressure from extreme drought and heat. Fish circle in the shallow waters.

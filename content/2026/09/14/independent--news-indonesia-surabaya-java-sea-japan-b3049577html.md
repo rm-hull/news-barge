@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Indonesian authorities have intensified efforts to find dozens of people
   missing a day after the Virgo Transport 8 ferry overturned in the Java Sea
 image: https://static.independent.co.uk/2026/09/14/04/Indonesia_Ferry_Accident_1_71_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Indonesian authorities intensified on Monday a search for dozens of people missing after a ferry overturned in bad weather in the Java Sea previous day.

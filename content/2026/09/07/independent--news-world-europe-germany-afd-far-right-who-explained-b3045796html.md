@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: The success of the far-right AfD is a ‘final warning’ to democratic parties,
   the winner of Germany’s election warns
 image: https://static.independent.co.uk/2026/09/07/12/2293184319..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The far-right Alternative for Germany (AfD) party has won an historic victory in state elections in the east of the country, delivering a fresh blow to Friedrich Merz’s ailing government and paving the way for the party to trial its radical policies.

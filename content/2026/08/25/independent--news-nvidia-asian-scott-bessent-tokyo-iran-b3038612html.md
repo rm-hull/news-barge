@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Asian shares are mostly lower after U.S. stocks drifted to a mixed finish
   ahead of potentially market-moving events later in the week
 image: https://static.independent.co.uk/2026/08/25/06/South_Korea_Financial_Markets_65943.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares were mostly lower Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.

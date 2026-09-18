@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: MAXINE GORDON samples the tastes of Thailand in York's historic gateway
   at The Old Siam in Micklegate
 image: https://www.gazetteherald.co.uk/resources/images/21404941.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 **Why The Old Siam is one of York's best Thai restaurants. Review by MAXINE GORDON**

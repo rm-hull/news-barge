@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Eight burglars have been jailed for a combined total of more than 25
   years following a series of investigations into break-ins across Doncaster.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/30/11/58/op-castle-convicts-collage-2.png?trim=0,109,0,108&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Eight Doncaster burglars jailed for more than 25 years in police crackdown

@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:53:17Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/police-jacket.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 A man was hurt in a fight in Ripon.

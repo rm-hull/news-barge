@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Carlos Alcaraz's US Open title defence is over after a dramatic five-set
   quarter-final loss to Ben Shelton which ends at 03:34 local time.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2cfd/live/de377d00-ac22-11f1-9bd9-7b7da208bd5c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Shelton reaches semis after beating Alcaraz in five-set epic

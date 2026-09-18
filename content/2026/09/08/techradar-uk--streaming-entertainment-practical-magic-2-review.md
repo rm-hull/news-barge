@@ -10,6 +10,9 @@ description: Sandra Bullock and Nicole Kidman's return to Practical Magic 2 stil
   can't save the sequel that's totally lost its magic — and they're far from its strongest
   part.
 image: https://cdn.mos.cms.futurecdn.net/VgK9YcsDZ3cM2Cn9cGAGLi-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

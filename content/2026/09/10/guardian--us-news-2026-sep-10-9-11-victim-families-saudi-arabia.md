@@ -10,6 +10,10 @@ description: Terry Strada, whose husband was killed in the attacks, says she rem
   hopeful for justice as a lawsuit alleging Saudi support for the hijackers moves
   toward trial
 image: https://i.guim.co.uk/img/media/2d5d1225ef29b2567d2e5b86e98208f280ed1098/749_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d450791b8a20b13fb554dc1f4aa6ca1b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The leader of one group of 9/11 victims’ families says it has “taken way too long” to hold Saudi Arabia accountable for its alleged support of the terrorists who carried out the September 11, 2001 terrorist attacks, whose 25th anniversary was observed across the US on Friday.

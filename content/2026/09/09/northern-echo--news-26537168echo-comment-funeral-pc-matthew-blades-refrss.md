@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: THE remarkable turnout for PC Matthew Blades’ funeral in Hartlepool shows
   how the decent, law-abiding majority have great respect and gratitude…
 image: https://www.thenorthernecho.co.uk/resources/images/21432794.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Unknown)*

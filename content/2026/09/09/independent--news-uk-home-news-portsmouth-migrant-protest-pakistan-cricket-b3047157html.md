@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Drones were seen circling the hotel after protestors mistook the sports
   team for asylum seekers
 image: https://static.independent.co.uk/2026/09/09/9/47/40-PER-PIC-PER-USE-PLEASE-DO-NOT-REUSE-WITHOUT-CHECKING-WITH-PIC-DESK-9cd4373f.jpeg?trim=0,5,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Anti-immigrant protestors staged another demonstration in Portsmouth on Tuesday –after mistaking a Pakistani cricket team for asylum seekers.

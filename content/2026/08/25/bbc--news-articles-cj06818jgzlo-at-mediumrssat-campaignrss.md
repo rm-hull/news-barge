@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Experts have warned that he and Chancellor John Healey will have little
   room to manoeuvre in their first Budget.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Andy Burnham reacts as he stands in a metro carriage among passengers during the journey between the metro stations Zoloti Vorota and Lukanivska on August 24, 2026 in Kyiv, Ukraine.](https://ichef.bbci.co.uk/ace/standard/936/cpsprodpb/3751/live/52c34ac0-a00f-11f1-a0ad-6fe9db05b013.jpg)

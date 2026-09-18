@@ -10,6 +10,10 @@ description: Some 170,000 pages of documents released by Mayor Zohran Mamdani’
   show city and federal officials were aware of health risks from reopening lower
   Manhattan after 9/11 and also feared extensive lawsuits
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/08/26/11/GettyImages-123974420.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 More than 170,000 pages of newly released records, never before shown to the public, reveal that New York City officials knew of potential dangers from exposure to Ground Zero toxins in the aftermath of the September 11, 2001 terror attacks — despite repeated assurances to the public that the air was safe to breathe.

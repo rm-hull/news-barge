@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: 'The parks are set to be constructed in Cergy-Pontoise to the northwest
   of Paris and are expected to include a manga-themed attraction. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/71/66/1200x675_cmsv2_a946e5fd-a38e-54c8-96e5-17ccf2e4c54a-9887166.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The parks are set to be constructed in Cergy-Pontoise to the northwest of Paris and are expected to include a manga-themed attraction.

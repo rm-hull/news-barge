@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: In the days after Hurricane Lowell, official asked tourists to stay away
   from Kauai to let island residents recover and responders clean up
 image: https://static.independent.co.uk/2026/09/11/05/Hawaii_Hurricane_2754_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Watching her staff happily hand out free meals for hundreds of residents outside their Wailua commercial kitchen, food truck co-owner Kelly Kakalia felt fulfilled.

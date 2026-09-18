@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The Israeli army had helped plan the delivery of food aid on 1 April
   2024, but things went wrong from the beginning and ended in seven deaths
 image: https://i.guim.co.uk/img/media/1a1e763a577b220d5526ca99a23cd8aaf1c1cda4/214_0_4320_3456/master/4320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b9c197c29c8b83dc28ed87217c0450a
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 On the evening of 1 April 2024, a team of aid workers from World Central Kitchen (WCK) stood on Gaza’s Mediterranean shore overseeing the unloading of a barge full of desperately needed food on a makeshift jetty made of sand and rubble.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Pc Matthew Blades and Pc Tom Clough were killed when a VW Passat – which
   had been pursued by police – was driven the wrong way on a dual carriageway.
 image: https://static.independent.co.uk/2026/08/24/13/bb426bbf43ec41b13a4fd0ed593a2d54Y29udGVudHNlYXJjaGFwaSwxNzg3NjU3NTAw-2.85648210.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 People who share footage glorifying dangerous driving are “doing something that’s truly reprehensible”, the Prime Minister has said after two police officers and five others were killed in a crash near Middlesbrough.

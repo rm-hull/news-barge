@@ -8,6 +8,8 @@ scraped_at: '2026-08-22T08:42:32Z'
 published: '2026-08-22T00:00:00Z'
 description: Operation Blue Skies looks to tidy up the sky
 image: https://cdn.mos.cms.futurecdn.net/WvwBDtCowJNJZy2zCtQe6n-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Operation Blue Skies](https://cdn.mos.cms.futurecdn.net/WvwBDtCowJNJZy2zCtQe6n.jpg) 

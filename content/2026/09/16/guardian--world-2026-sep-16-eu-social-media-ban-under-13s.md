@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Ursula von der Leyen announces draft law to stop apps ‘depriving children
   of their childhood’
 image: https://i.guim.co.uk/img/media/63c26f08a66bda6766457c8452b1d0ec23da8877/865_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca16f5636c7c5f85918adb58c5fa204e
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 The EU will move forward with plans for an under 13s social media ban, the head of the European Commission has confirmed.

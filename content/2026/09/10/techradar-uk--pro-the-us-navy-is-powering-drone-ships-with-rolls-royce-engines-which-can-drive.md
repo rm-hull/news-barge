@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: The US Navy has approved two Rolls Royce engines as unmanned ships take
   on longer missions far from support
 image: https://cdn.mos.cms.futurecdn.net/4XdK3dcuCQuYa2bMDeCLCg-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Rolls Royce mtu Series 4000 engine](https://cdn.mos.cms.futurecdn.net/4XdK3dcuCQuYa2bMDeCLCg.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: The Ripon Heritage Open Days programme has added a rescued Victorian
   tile mural and the old Ripon Gazette offices to its 2026
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/HODs-opening.webp
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 **RIPON**— A series of historically significant properties and hidden architectural features are set to open to the public this week as Ripon launches its local contribution to the national Heritage Open Days initiative.Operating under the central theme of* Everyday Histories*, the ten-day festival runs from

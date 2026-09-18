@@ -10,6 +10,10 @@ description: Hayden Panettiere’s on-and-off boyfriend Brian Hickerson and his 
   Zach Hickerson were at the South Carolina apartment where the actor died over the
   weekend
 image: https://static.independent.co.uk/2026/08/17/04/Obit_Hayden_Panettiere__5_81.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Hayden Panettiere's on-and-off boyfriend Brian Hickerson and his brother Zach Hickerson were at the South Carolina apartment where the actor died over the weekend, according to a police report released Tuesday.

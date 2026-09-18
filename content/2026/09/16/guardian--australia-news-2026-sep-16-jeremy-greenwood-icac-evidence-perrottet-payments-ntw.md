@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Counsel assisting inquiry suggests Anita Perrottet’s alleged advice on
   vaping and greyhound industry was already on public record from other sources
 image: https://i.guim.co.uk/img/media/73858def9927874c3d93a6ec636ea9d990d5824b/402_0_1173_938/master/1173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d108d414b0358c96dc34a82dbdda2f30
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A Liberal factional figure has rejected a suggestion he gave “ridiculous” evidence that Dominic Perrottet’s sister-in-law shared in $660,999 for giving a “mum’s perspective” on lobbying clients, the New South Wales anti-corruption watchdog has heard.

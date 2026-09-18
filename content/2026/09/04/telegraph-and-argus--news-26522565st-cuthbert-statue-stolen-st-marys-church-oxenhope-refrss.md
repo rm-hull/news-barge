@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A carved oak statue of St Cuthbert has been stolen from St Mary’s Church
   in Oxenhope.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411514.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 A vicar has issued an amnesty of 5pm today (September 4) after a carved oak statue of St Cuthbert was stolen from a church in the Bradford district.

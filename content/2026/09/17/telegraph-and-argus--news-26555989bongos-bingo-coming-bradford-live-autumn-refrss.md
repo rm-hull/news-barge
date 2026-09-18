@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:23:33Z'
 published: '2026-09-17T00:00:00Z'
 description: BONGO'S Bingo is set to make its Bradford debut this autumn
 image: https://www.thetelegraphandargus.co.uk/resources/images/18298186.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: John Johnson)*

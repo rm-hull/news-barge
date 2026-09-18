@@ -9,6 +9,10 @@ description: The president’s decision to deploy every resource to get Lindsey 
   sister over the finish line paid off big time, Eric Garcia writes. But it comes
   on the heels of some stinging defeats
 image: https://static.independent.co.uk/2026/08/26/13/2026-08-26T032029Z_1869800695_RC226NAJOSJ0_RTRMADP_3_USA-ELECTION-SOUTH-CAROLINA-SENATE.JPG?trim=0,38,0,38&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Under normal circumstances, Senator Darline Graham should not have won the Republican primary to replace her late brother, Senator Lindsey Graham. But then President Donald Trump stepped in.

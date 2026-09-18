@@ -9,6 +9,10 @@ description: After hackers failed to extort Manchester Airports Group and posted
   data of nearly 9 million people online, we asked the experts what's really going
   on.
 image: https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Airport](https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL.jpg) 

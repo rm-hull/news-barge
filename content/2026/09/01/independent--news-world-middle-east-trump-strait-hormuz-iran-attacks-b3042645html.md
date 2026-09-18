@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The US and Iran have not held peace talks in weeks after an interim agreement
   collapsed
 image: https://static.independent.co.uk/2026/09/01/10/2292889275..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump is considering a new wave of strikes against Iran amid growing concern that Tehran has rebuilt its military capacity, as both sides traded direct fire for the first time in a month.

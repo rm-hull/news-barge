@@ -10,6 +10,12 @@ description: A senior Army officer has been cleared by a court martial of failin
   to deal properly with allegations made by a teenage soldier who took her own life
   five months later.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/20/v2-image-production-8c90728209bea7a8b009d5f47134248bY29udGVudHNlYXJjaGFwaSwxNzY5ODUxODAy-2.82203624.jpg?trim=79,0,561,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Colonel cleared of charge relating to teen soldier Jaysley Beck, who later died

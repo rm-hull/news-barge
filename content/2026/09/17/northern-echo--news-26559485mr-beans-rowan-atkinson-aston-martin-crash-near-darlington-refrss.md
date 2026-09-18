@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Rowan Atkinson once crashed a rare Aston Martin while racing at Croft
   Circuit near Darlington in 2001, years before being linked with the Top Gear…
 image: https://www.thenorthernecho.co.uk/resources/images/21468786.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Rowan Atkinson's long-standing love of fast cars once brought him back close to his County Durham roots, and ended with a rare Aston Martin in the barriers.

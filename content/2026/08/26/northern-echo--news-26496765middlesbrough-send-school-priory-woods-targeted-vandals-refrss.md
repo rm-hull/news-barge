@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A Middlesbrough SEND school says pupils face disruption to trips and
   activities after vandals damaged three of its five minibuses days before term…
 image: https://www.thenorthernecho.co.uk/resources/images/21373381.jpg?type=og-image&xType=0&yType=2
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Vandals have targeted a Middlesbrough SEND school and smashed up several minibuses, days before the start of the new term.

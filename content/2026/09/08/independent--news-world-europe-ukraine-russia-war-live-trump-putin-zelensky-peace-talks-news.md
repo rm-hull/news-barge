@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Witkoff and Kushner were challenged over whether they find it ‘disgusting’
   to sit at a table with Putin
 image: https://static.independent.co.uk/2026/09/05/20/2026-09-05T194829Z_2009750295_RC26DNA93FYO_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?trim=159,0,160,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s peace envoys Steve Witkoff and Jared Kushner have been confronted over their talks with “war criminal” Russian president Vladimir Putin.

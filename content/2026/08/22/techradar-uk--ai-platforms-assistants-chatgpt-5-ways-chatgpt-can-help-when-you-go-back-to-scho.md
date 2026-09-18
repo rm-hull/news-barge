@@ -7,6 +7,9 @@ scraped_at: '2026-08-22T20:36:15Z'
 published: '2026-08-22T00:00:00Z'
 description: These 5 ChatGPT features belong in every student's back-to-school toolkit
 image: https://cdn.mos.cms.futurecdn.net/GDkSymrgoicsrQgmKSagTj-2560-80.jpg
+categories:
+- Technology & Software
+- Education & Learning
 ---
 
 ![Man using ChatGPT in the mobile phone and the laptop.](https://cdn.mos.cms.futurecdn.net/GDkSymrgoicsrQgmKSagTj.jpg) 

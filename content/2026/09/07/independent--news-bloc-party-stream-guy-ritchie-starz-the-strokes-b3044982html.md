@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The second season of "The Paper" and a new album from Bloc Party are
   among the streaming release highlights for the week of Sept. 7
 image: https://static.independent.co.uk/2026/09/04/18/The_Stream_7_229.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Film & TV
 ---
 
 The second season of “The Paper” and a new album from Bloc Party are some of the new television, films, music and games headed to a device near you.

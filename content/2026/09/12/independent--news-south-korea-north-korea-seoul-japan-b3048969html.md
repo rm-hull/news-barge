@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: North Korea has launched a ballistic missile toward the waters off its
   east coast
 image: https://static.independent.co.uk/2026/09/12/01/Koreas_Tensions_55554.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 North Korea launched ballistic missiles toward the sea on Saturday, its neighbors said, a day after the U.S., South Korea and Japan ended their trilateral military drill that North Korea views as a security threat.

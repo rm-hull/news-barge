@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A PUB with a story rooted in Yorkshire’s engineering past has been put
   up for lease.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381620.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

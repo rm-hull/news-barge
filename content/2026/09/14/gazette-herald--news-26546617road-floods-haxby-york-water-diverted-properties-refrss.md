@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire Fire and Rescue Services said is responded to reports
   of flooding in Haxby Road at 3.23am this morning (Monday, September 14).
 image: https://www.gazetteherald.co.uk/resources/images/21453134.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Contributed)*

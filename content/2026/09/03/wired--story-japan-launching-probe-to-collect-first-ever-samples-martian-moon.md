@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The mission to Phobos, Japan’s first Mars probe launch in 28 years, may
   reveal new information about our closest planetary neighbor.
 image: https://media.wired.com/photos/6a970a6fa68d74f184f30efc/191:100/w_1280,c_limit/mmx.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 A Mars probe from the Japan Aerospace Exploration Agency (JAXA) may answer some longstanding questions about the Red Planet and its moons. The mission—dubbed MMX for “Martian Moons eXploration”—aims to collect at least 10 grams of samples from Phobos, one of two moons orbiting the planet, and if successful, these will be the first rocks from a Martian moon ever brought to Earth.

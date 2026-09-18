@@ -10,6 +10,11 @@ description: Plans have been submitted to replace an existing BMX track in Patel
   Bridge with a new purpose-built pump track designed to cater for everyone from beginners
   to experienced riders.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM5NzU0NGVhLTNhNTctNGVlZC05YzgwLThlNjZmMDQwNGRmYjoyMGUzNDY3NC0xOWQyLTQ4YzItYjhmYi1jMjk4YTQwYzFhYjQ=.jpg?crop=3:2,smart&trim=&width=889&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Pateley Bridge: Plans submitted for new 'pump track' for cyclists and skateboarders in North Yorkshire

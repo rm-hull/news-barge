@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: Katmex Ltd has applied for a goods vehicle operator’s licence to use
   its Bowron Street, Stockton premises as an operating centre for two goods…
 image: https://www.thenorthernecho.co.uk/resources/images/12947305.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

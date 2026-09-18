@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: The Cauldron Snout Waterfall is known as a must-visit spot in County
   Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21367048.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: Tripadvisor)*

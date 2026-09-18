@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The UK's decision to sanction trade with illegal settlements has prompted
   a range of opinion among the British Jewish community.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf8/live/bc7e8220-ac73-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A man and a woman hug. They are smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/814/cpsprodpb/2cf8/live/bc7e8220-ac73-11f1-80f0-9795d1a5edbc.jpg)

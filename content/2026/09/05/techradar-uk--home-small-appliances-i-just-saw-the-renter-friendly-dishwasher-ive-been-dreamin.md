@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: The countertop R1 fits tons of crockery and doesn't need to be plumbed
   in.
 image: https://cdn.mos.cms.futurecdn.net/pnhjA39c8f3PaiaRLh2Gac-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Lissome Countertop dishwasher](https://cdn.mos.cms.futurecdn.net/pnhjA39c8f3PaiaRLh2Gac.jpg) 

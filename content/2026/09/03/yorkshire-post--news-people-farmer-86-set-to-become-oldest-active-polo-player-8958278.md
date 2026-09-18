@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Farmer John Nash was to come across polo almost by accident, but with
   more than 50 seasons under his belt he could soon set a new world record.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjkzYmU5MDQxLTk3Y2QtNDdjMS1iNDkwLTVkZDY2NTQyNjFhZjozZGU5OGY4MS0wNjMwLTRjM2MtODA2Mi0wYTNhNjUxMjhlY2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Farmer, 86, set to become oldest active polo player

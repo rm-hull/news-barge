@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The heartbroken wife of Pc Matthew Blades has paid tribute to her “beloved
   husband”, “best friend” and the devoted father of their two young…
 image: https://www.thenorthernecho.co.uk/resources/images/21360641.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 The heartbroken wife of Pc Matthew Blades has paid tribute to her “beloved husband”, “best friend” and the devoted father of their two young boys following his death in the A66 crash.

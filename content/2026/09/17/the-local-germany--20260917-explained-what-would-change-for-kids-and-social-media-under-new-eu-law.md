@@ -9,6 +9,12 @@ description: The EU laid out plans Thursday for strict age limits for children t
   access social media, games and AI assistants -- and on forcing companies to make
   platforms safe before minors use them.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260618__B7J26HU__v1__MidRes__UaePoliticsInternetChildren-1.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 The rules for platforms would include a ban on addictive features, so-called endless scrolling, and push notifications while children sleep, as the bloc steps up efforts to protect minors online.

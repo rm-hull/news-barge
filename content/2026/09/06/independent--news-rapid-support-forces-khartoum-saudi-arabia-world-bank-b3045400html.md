@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: In Sudan, many residents are turning to solar energy to cope with frequent
   blackouts caused by the ongoing conflict
 image: https://static.independent.co.uk/2026/09/06/05/Sudan_Electricity_38733.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 For almost a year, Randa al-Mansour, a 31-year-old Sudanese housewife, has relied on solar energy panels installed on the rooftop of her building to survive the recurrent blackouts triggered by the war-torn country’s deteriorating electricity grid.

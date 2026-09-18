@@ -9,6 +9,8 @@ published: '2026-09-07T00:00:00Z'
 description: Nvidia spent a year telling people ECC was the answer to GPU Rowhammer.
   GPUThor tells another story, however
 image: https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/D9pZcgdPinp5ty7pPDjKeY.png) 

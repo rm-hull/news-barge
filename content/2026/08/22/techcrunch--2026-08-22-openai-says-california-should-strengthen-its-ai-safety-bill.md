@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: OpenAI is calling for California to strengthen SB 53, an AI safety bill
   that the company previously opposed.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 OpenAI is calling for California to add more safeguards to a landmark AI safety bill that was passed last year.

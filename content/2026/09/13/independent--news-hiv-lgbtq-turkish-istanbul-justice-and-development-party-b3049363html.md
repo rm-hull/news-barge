@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Turkish authorities have cracked down on multiple LGBTQ+ groups and individuals,
   detaining dozens and raiding association offices and popular hangouts
 image: https://static.independent.co.uk/2026/09/13/13/Turkey_LGBT_Crackdown_68936.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Turkish authorities cracked down on multiple LGBTQ+ groups and individuals early Sunday morning, detaining dozens of members, breaking into association offices and raiding popular hangouts.

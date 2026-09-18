@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A military junta has rule Niger for three years but has struggled to
   contend with jihadist violence.
 image: https://images.euronews.com/articles/stories/09/89/37/98/1200x675_cmsv2_d91283e3-1e1a-591f-b742-78355245a3b9-9893798.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## A military junta has rule Niger for three years but has struggled to contend with jihadist violence.

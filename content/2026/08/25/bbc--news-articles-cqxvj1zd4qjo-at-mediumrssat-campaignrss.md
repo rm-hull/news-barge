@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Iran is no stranger to US sanctions and has developed deep economic ties
   with several countries.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6358/live/a03a3710-a09f-11f1-84a9-276d1a8e5a22.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: What are these sanctions and who will be affected?

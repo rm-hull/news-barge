@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Discover more about Data Centers with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![a row of separation vessels for natural gas production](https://cdn.mos.cms.futurecdn.net/sf6SYZ3SGNXRhuKPg8DSdg-320-80.png)

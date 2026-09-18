@@ -10,6 +10,11 @@ description: The Government has faced fury after applying for planning permissio
   to house 1,300 asylum seekers at former RAF Linton-on-Ouse, in a small North Yorkshire
   village.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0NGM5ZWQ0LTE5MmMtNGE0MC1iZDQ1LTBhMWYyNDlmOWRlMTo0NWU1ZThkNi0yMzY3LTQzMTctYjk3Ni02NWJlMDQwYjliOTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # Exclusive:Linton-on-Ouse: Andy Burnham to take mayor's 'significant concerns' over asylum camp to Home Office

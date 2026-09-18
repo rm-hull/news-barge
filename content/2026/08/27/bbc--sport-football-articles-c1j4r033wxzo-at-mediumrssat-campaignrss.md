@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:28Z'
 published: '2026-08-27T00:00:00Z'
 description: Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2cb9/live/9970a180-a243-11f1-804a-af7f2afa0e85.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Emiliano Martinez punches the air](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2cb9/live/9970a180-a243-11f1-804a-af7f2afa0e85.jpg)

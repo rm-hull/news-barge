@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A weekly car boot sale at Darlington Arena will return this weekend,
   offering bargain hunters the chance to browse vintage finds, antiques and more.
 image: https://www.thenorthernecho.co.uk/resources/images/21351745.jpg?type=og-image&xType=0&yType=64
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: STUART BOULTON)*

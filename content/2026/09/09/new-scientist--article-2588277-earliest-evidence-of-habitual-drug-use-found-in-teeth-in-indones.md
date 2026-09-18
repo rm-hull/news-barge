@@ -9,6 +9,9 @@ description: Strange, rounded grooves in prehistoric teeth are thought to have b
   made by regularly sucking whole betel nuts to extract a pain-relieving compound.
   This marks the earliest known example of probable substance addiction
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311297665.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Skull of an early hunter-gatherer from Sulawesi, an island in Indonesia, with extreme dental wear, probably caused by betel nut-sucking](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311297665.jpg?w=840)

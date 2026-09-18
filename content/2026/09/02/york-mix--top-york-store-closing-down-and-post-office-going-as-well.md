@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:45:58Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/tg-jones-post-office-coney-street-york-closing-4.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A top York store is to shut – and York’s main Post Office will go with it too.

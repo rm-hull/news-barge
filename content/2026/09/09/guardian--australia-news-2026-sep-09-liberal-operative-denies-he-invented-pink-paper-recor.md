@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Jeremy Greenwood tells inquiry note contained agreement with Jean Nassif
   as counsel assisting says ‘threads of your story pull apart very quickly’
 image: https://i.guim.co.uk/img/media/73858def9927874c3d93a6ec636ea9d990d5824b/0_0_1173_938/master/1173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b0b0cdf615f1e6755831a8c0f6666e3
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Liberal operative has denied making up a “pink” or “fuchsia”-coloured piece of paper which he says was the record of an agreement with a property developer worth up to $5m, a corruption inquiry has heard.

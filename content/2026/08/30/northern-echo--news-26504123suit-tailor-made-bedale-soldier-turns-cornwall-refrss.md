@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A 140-year-old court suit, made of the finest red silk velvet, that once
   belonged to a North Yorkshire soldier has been discovered at the other end…
 image: https://www.thenorthernecho.co.uk/resources/images/21384411.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A 140-year-old court suit, made of the finest red silk velvet, that once belonged to a North Yorkshire soldier has been discovered at the other end of the country – but does anyone have a picture of the man who once wore it?

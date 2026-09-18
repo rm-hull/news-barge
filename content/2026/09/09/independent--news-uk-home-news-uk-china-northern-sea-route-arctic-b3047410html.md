@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The Arctic voyage is intended to be the start of a regular container
   service to Europe via the so-called North Sea Route
 image: https://static.independent.co.uk/2026/09/09/15/2026-09-09T130049Z_1086630247_RC2OFNA6L52Q_RTRMADP_3_BRITAIN-SHIP-ARCTIC.JPG?trim=24,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Business & Entrepreneurship
 ---
 
 A container ship has arrived in Britain following a landmark voyage from China via the Arctic, as part of plans for more vessels to use the route as a shorter and potentially safer alternative to the Suez Canal.

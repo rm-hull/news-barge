@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T19:15:49Z'
 published: '2026-09-09T00:00:00Z'
 description: The Junior and Mini Great North Run is set to celebrate its 40th anniversary.
 image: https://www.thenorthernecho.co.uk/resources/images/21431638.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: SARAH CALDECOTT)*

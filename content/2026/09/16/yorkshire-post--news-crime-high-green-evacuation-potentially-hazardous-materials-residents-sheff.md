@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Residents in a Yorkshire suburb have been evacuated from their homes
   as a safety precaution following concerns over an explosive substance.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/15/39/Emergency-services-currently-present-at-Sheffield-address-in-probe-into-potentially-hazardous-materi.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # High Green, Sheffield: Residents evacuated from homes over 'potentially hazardous materials'

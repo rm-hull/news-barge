@@ -9,6 +9,9 @@ scraped_at: '2026-08-19T21:31:49Z'
 published: '2026-08-19T00:00:00Z'
 description: These data centers are popping up left and right in rural China.
 image: https://cdn.mos.cms.futurecdn.net/DyEgJuLhjUQezAJNQqUFdh-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![the Huawei data center in Guizhou province, China](https://cdn.mos.cms.futurecdn.net/DyEgJuLhjUQezAJNQqUFdh.png) 

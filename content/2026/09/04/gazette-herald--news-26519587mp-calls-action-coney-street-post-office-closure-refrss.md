@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: An MP has said she is “working to restore Post Office services in our
   city” after York’s main branch closes in Coney Street.
 image: https://www.gazetteherald.co.uk/resources/images/21400320.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Alice Kavanagh)*

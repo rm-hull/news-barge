@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Country’s second fatal school shooting in two months took place in southern
   city of Zamboanga
 image: https://i.guim.co.uk/img/media/daf8e127a936bb9757958efc774f181fa5cf8197/15_0_5156_4125/master/5156.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=783319fc791103a6bfa8850f3ff47df7
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 A student livestreamed himself shooting and killing another pupil in a classroom in the southern Philippines before taking his own life, the second school attack in the country in less than two months.

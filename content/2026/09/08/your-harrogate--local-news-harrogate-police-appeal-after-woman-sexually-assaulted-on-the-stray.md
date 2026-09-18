@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Police are appealing for witnesses after a woman was sexually assaulted
   on The Stray in Harrogate.
 image: https://mmo.aiircdn.com/409/6a26f21465c70.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/6a26f21465c70.jpg) 

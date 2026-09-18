@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Battle of Britain Memorial Flight aircraft is scheduled to fly over
   Yorkshire this weekend.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/15/33/GettyImages-835537982.jpg?trim=0,59,0,59&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Where and when Spitfire is scheduled to fly over Yorkshire this weekend - location and time window details

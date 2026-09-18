@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Thailand and Cambodia started talks Tuesday to resolve a sea border dispute
   under a U.N. maritime law agreement
 image: https://static.independent.co.uk/2026/09/15/06/Singapore_Thailand_Cambodia_878_6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Thailand and Cambodia ’s foreign ministers exchanged opening statements in Singapore on Tuesday at the first meeting to settle a sea border dispute under a U.N. agreement on maritime law for compulsory conciliation.

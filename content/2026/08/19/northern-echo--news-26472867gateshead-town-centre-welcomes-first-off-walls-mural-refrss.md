@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The first of several new murals planned for a North East town centre
   has been unveiled as part of a major effort to revitalise the area through…
 image: https://www.thenorthernecho.co.uk/resources/images/21333606.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The first of several new murals planned for a North East town centre has been unveiled as part of a major effort to revitalise the area through public art.

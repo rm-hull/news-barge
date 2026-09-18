@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T13:23:19Z'
 published: '2026-09-17T00:00:00Z'
 description: Digital sovereignty is a global priority
 image: https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Stylized image of a data center rack with electric blue lines running across it](https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe.jpg) 

@@ -9,6 +9,11 @@ description: A Yorkshire drug dealing quartet who went by the codenames Land and
   Cemetery and Cross, were foiled when they spent a month selling crack to an undercover
   police officer, a court heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/14/54/Untitled-design-(11).jpg?trim=0,0,266,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Drug dealing gang using codenames Land and Rover foiled selling crack to undercover police officer

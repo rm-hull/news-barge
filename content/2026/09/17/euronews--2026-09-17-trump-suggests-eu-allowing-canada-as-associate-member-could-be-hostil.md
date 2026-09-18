@@ -9,6 +9,10 @@ description: Trump on Wednesday warned he would impose heavy tariffs on Europe i
   he judged the bloc's intentions to be unfavourable, while leaving the door open
   if they were not.
 image: https://images.euronews.com/articles/stories/09/91/65/06/1200x675_cmsv2_29d82ab0-24b9-598a-a805-b8bea0328d07-9916506.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Trump on Wednesday warned he would impose heavy tariffs on Europe if he judged the bloc's intentions to be unfavourable, while leaving the door open if they were not.

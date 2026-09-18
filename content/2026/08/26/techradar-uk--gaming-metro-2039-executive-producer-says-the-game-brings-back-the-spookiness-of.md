@@ -10,6 +10,8 @@ published: '2026-08-26T00:00:00Z'
 description: Metro 2039 executive producer Jon Bloch has explained how 4A Games has
   balanced the return of claustrophic metro tunnels and open-world zones.
 image: https://cdn.mos.cms.futurecdn.net/Us5mFv9fi36zVpa3p63Tdb-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A classic Metro video game first-person art shot showing a lighter, watch, weapon and monster in the distance at the top of some esclators](https://cdn.mos.cms.futurecdn.net/Us5mFv9fi36zVpa3p63Tdb.jpg) 

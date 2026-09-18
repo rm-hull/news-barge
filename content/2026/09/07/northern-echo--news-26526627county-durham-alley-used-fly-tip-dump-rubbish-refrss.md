@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Over the last few months, the back lane of William Street, South Moor,
   has been the regular site for rubbish and fly-tipping
 image: https://www.thenorthernecho.co.uk/resources/images/21417660.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 A County Durham alleyway has been used as a dumping ground for fly-tipping and waste, as wardens working for the council have warned that they will catch those responsible.

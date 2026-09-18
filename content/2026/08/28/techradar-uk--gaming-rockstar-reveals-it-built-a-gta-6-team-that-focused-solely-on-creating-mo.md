@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: According to Rockstar Games, the team went above and beyond to create
   Grand Theft Auto 6's grand scale and sense of realism.
 image: https://cdn.mos.cms.futurecdn.net/4tnZtfQFt3cH2VbwsbnmP5-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/4tnZtfQFt3cH2VbwsbnmP5.jpg) 

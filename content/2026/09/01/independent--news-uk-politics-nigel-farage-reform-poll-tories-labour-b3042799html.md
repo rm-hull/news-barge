@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Nigel Farage has returned Parliament after his August by-election victory
   in Clacton
 image: https://static.independent.co.uk/2026/08/21/19/e0eeb1403be12d9779441a12879d1c25Y29udGVudHNlYXJjaGFwaSwxNzg3NDIzNTg0-2.84253147.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Nigel Farage’s Reform UK party has slid into third place in the opinion polls in its lowest performance in the last 18 months.

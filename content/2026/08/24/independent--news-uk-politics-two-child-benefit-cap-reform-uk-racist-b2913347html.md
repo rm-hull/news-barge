@@ -8,6 +8,9 @@ published: '2026-08-24T00:00:00Z'
 description: A Reform spokesperson said the policy has ‘nothing to do with race’ and
   that MPs are ‘wilfully misrepresenting the policy’
 image: https://static.independent.co.uk/2026/01/26/12/20/Reform-UK-Launches-Veterans-for-Reform-During-A-Press-Conference-In-London-s9pnmnaq.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Reform UK has been labeled racist for arguing that the two-child benefit cap should only be lifted for families where both parents are British and in full-time work.

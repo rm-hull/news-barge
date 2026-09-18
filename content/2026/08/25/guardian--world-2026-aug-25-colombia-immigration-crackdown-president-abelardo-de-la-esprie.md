@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Far-right leader echoes ally Donald Trump and says operations to ‘track
   down illegal immigrants’ should begin this week, amid earthquake aftermath
 image: https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b511eefae3d0dc1b7b6640b63ee40aef
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes.

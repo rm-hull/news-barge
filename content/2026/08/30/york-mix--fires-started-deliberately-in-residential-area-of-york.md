@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:00Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/north-yorkshire-fire-service-engine-tw-1.jpg
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 North Yorkshire Fire and Rescue Service said its Acomb crew was called to Peter Hill Court in Clifton at 4.49am today (Sunday, August 30).

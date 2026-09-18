@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Last-minute negotiations failed to halt the tariffs, which will hit $20
   billion of Canadian products
 image: https://static.independent.co.uk/2026/06/16/13/2281267274..?trim=372,265,2,293&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Canada has vowed to match 50 per cent U.S. tariffs on Canadian products “dollar for dollar” as Donald Trump’s import taxes come into force.

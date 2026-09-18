@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: A competition is developing between OpenAI and Anthropic over who can
   provide the best privacy protections for enterprise customer data.
 image: https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 As AI models have become more powerful, the potential for those models to be misused has grown — as has a clamor for safety guardrails that can stop such abuse from happening. AI companies must now walk a delicate tight rope between respecting their enterprise customers’ privacy while also watching usage for possible issues.

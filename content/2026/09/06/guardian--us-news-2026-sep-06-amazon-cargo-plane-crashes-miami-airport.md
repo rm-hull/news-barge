@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Three people in critical condition and two hospitalized as operations
   at one of busiest US airports brought to a halt
 image: https://i.guim.co.uk/img/media/fc60cd7ed9cc974664292c9ca383987f438e92e4/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b715c0a924c516b2e7c5ea89423b289a
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 An Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon after the flight, which was arriving from Puerto Rico, overshot the runway, striking several vehicles and resulting in at least five deaths.

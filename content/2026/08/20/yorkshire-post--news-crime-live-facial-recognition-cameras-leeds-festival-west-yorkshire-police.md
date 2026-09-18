@@ -10,6 +10,11 @@ description: West Yorkshire Police’s deployment of live facial recognition (LF
   at Leeds Festival later this month is not the first time the force has used the
   technology.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2025/12/03/14/42/01K9SQ911ZDFD9JX8KBKZ0DP28.jpeg?trim=0,135,0,135&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Live facial recognition cameras explained - and where West Yorkshire Police use them

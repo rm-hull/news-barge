@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Trump has repeatedly placed himself at the enter of New York City’s recovery
   story in the decades after the attacks
 image: https://static.independent.co.uk/2026/09/05/14/2026-09-04T222106Z_1595095422_RC2MCNA17UBG_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump has routinely tried to put himself in the middle of the story of New York City’s recovery after September 11, 2001 — despite no evidence showing he was at Ground Zero in the wake of the terror attacks or marshaled resources to support relief efforts.

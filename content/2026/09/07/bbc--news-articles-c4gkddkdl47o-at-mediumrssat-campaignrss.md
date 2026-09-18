@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: The building in Stonyhurst Street, Possilpark - which was derelict for
   20 years - had received £3m to be renovated as affordable homes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c69/live/1fe92c90-aaba-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Personal Finance & Investing
 ---
 
 ![Burned-out tenement building which no longer has a roof. Three firefighters can be seen beside the building on the steps of a nearby flat](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0c69/live/1fe92c90-aaba-11f1-b109-879e35c24276.jpg)

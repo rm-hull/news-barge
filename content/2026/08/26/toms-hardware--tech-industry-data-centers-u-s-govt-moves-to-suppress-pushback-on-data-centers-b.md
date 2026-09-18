@@ -10,6 +10,11 @@ published: '2026-08-26T00:00:00Z'
 description: States would then need to choose if they want to solicit public feedback
   for permits.
 image: https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
+- Society & Culture
 ---
 
 ![Data center protest](https://cdn.mos.cms.futurecdn.net/Mp6a5T3nkbtP8cssNG5sb9.jpg) 

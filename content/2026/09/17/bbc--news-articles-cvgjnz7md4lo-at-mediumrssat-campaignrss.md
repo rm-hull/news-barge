@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: One learner says social media clips saved her money, but there was also
   misinformation online.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2913/live/92b92920-ac52-11f1-9e64-05835b0b18f8.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Education & Learning
+- Business & Entrepreneurship
 ---
 
 ![Megan sits in her car. she is smiling at the camera and has reddish to brown hair cut at her shoulders. She is wearing a blue jumper with a dragonfly on.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/9dcf/live/c13b49e0-ac52-11f1-9e64-05835b0b18f8.jpg)

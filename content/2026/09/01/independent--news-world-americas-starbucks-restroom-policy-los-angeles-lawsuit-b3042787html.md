@@ -9,6 +9,10 @@ description: 'Exclusive: After Starbucks employee Aaron Gomez was attacked, the 
   of the American Restroom Association is calling on the coffee giant to loosen its
   toilet policy'
 image: https://static.independent.co.uk/2026/05/19/8/10/GettyImages-71087266.jpg?trim=11,0,12,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A part-time barista at a Los Angeles Starbucks was violently assaulted after telling a guest they couldn’t use the restroom without first making a purchase, according to court filings reviewed by *The Independent*.

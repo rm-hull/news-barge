@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Dott, 49, was convicted on Monday of sexually abusing two primary school
   age children
 image: https://static.independent.co.uk/2026/08/24/17/33eec88a4836dad9b88e611862be4510Y29udGVudHNlYXJjaGFwaSwxNzg3NjczMjEx-2.85648146.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Society & Culture
 ---
 
 Former champion Graeme Dott has been removed from World Snooker’s Hall of Fame after being convicted of sexually abusing two primary school age children.

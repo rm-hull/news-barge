@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Amazingly, this week introduces the most meta universe yet. But when
   does Stuart Fails to Save the Universe episode 9 hit HBO Max?
 image: https://cdn.mos.cms.futurecdn.net/5NnRKczENMurAdWutbeTba-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 ![Stuart, Denise and Bert look shocked](https://cdn.mos.cms.futurecdn.net/5NnRKczENMurAdWutbeTba.jpg) 

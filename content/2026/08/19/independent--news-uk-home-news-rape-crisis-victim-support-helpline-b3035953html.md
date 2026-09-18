@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T01:48:29Z'
 published: '2026-08-19T00:00:00Z'
 description: The 24/7 Rape and Sexual Abuse Support Line is free and confidential
 image: https://static.independent.co.uk/2025/09/04/09/03210738-76ae8353-6d09-4d25-a72d-06653a00c55b.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of survivors of rape and sexual abuse will continue to access 24/7 support through a free, confidential helpline thanks to new government funding.

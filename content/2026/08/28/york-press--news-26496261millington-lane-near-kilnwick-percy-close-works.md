@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Part of Millington Lane, in Kilnwick Percy, will close to through traffic
   for up to three days in September.
 image: https://www.yorkpress.co.uk/resources/images/19217207.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: The Press)*

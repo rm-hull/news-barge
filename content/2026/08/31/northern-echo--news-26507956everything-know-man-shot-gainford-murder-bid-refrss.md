@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A man is in 'critical' conditional after being shot on a 'quiet' County
   Durham street. Here's everything we know so far.
 image: https://www.thenorthernecho.co.uk/resources/images/21390555.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man has been left in a critical condition after being shot on a 'quiet' County Durham street in an "drive-by murder bid".

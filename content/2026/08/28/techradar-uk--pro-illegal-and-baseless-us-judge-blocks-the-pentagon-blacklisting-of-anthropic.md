@@ -8,6 +8,10 @@ scraped_at: '2026-08-28T22:15:13Z'
 published: '2026-08-28T00:00:00Z'
 description: Judge rules Pentagon's action was illegal
 image: https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- Law & Justice
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54.jpg) 

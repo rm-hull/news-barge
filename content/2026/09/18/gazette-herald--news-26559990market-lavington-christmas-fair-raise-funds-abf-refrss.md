@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Market Lavington's 15th annual Christmas Country Fair returns on November
   14, raising funds for the Army Benevolent Fund after nearly £16,000…
 image: https://www.gazetteherald.co.uk/resources/images/20179104.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: There’s a new boss at the helm of a popular pub near Darlington following
   an “eye catching” £415k facelift.
 image: https://www.thenorthernecho.co.uk/resources/images/21406827.jpg?type=og-image&xType=0&yType=29
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 There’s a new boss at the helm of a popular pub near Darlington following an “eye catching” £415k facelift.

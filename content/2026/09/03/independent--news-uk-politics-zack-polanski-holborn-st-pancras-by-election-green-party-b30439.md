@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The Green Party is expected to be Labour’s main challenger at the forthcoming
   by-election in Holborn & St Pancras
 image: https://static.independent.co.uk/2026/08/08/18/e533d1db3d71a18d09149b2a4f9ed6fdY29udGVudHNlYXJjaGFwaSwxNzg2Mjk2NTY5-2.85491835.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Green Party leader Zack Polanski has said he intends to stand in the Holborn and St Pancras by-election triggered by the resignation of former prime minister Sir Keir Starmer.

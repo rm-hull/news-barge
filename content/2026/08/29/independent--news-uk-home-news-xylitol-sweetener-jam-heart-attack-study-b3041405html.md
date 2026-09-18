@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Those with higher levels of xylitol in their blood had a 57 per cent
   higher risk of heart attacks and strokes
 image: https://static.independent.co.uk/2021/04/22/14/newFile-14.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A common sweetener used in jam and chewing gum has been linked to increased risks of heart attacks and stroke, a new study has shown.

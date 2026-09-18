@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: As three siblings came of age and had to leave their pack, scientists
   tracked the dogs’ perilous 2,500-mile odyssey to find their own territory
 image: https://i.guim.co.uk/img/media/6e7727a328fa9baa76b7710e763fcc2097bcfbaa/1610_411_2635_2110/master/2635.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b6358f9f305aec7732c1f8e1cfd82e5
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 It sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home of their own after their family tells them to leave. They dodge cars and hunters in search of a new life, navigating bushmeat snares and the hostility of a human-dominated landscape until they find a new haven on the African savannah.

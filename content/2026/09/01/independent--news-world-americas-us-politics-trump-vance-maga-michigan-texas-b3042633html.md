@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: With just over two months remaining before the midterm elections, President
   Donald Trump continues to hold onto his massive campaign chest
 image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A campaign event in Michigan featuring Vice President JD Vance on Monday was financed by MAGA Inc., marking a rare expenditure in a battleground state from a dominant political action committee that has largely stayed on the sidelines this year.

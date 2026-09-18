@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: For the second year in a row, the administration has barred the Palestinian
   delegation from US travel for the forum
 image: https://i.guim.co.uk/img/media/77ad70b7d01cb0edfb0c278d39d964542212a962/513_246_2818_2254/master/2818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aeeb0f2a11e18ab440576e6bca5b56e3
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The US state department said on Wednesday that it had again denied entry visas to Palestinian officials ahead next week’s United Nations general assembly gathering in New York.

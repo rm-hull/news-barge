@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T14:14:01Z'
 published: '2026-09-07T00:00:00Z'
 description: GEO for AI shopping
 image: https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A small business owner calculating income and return on investment in percentage using a calculator from a home office.](https://cdn.mos.cms.futurecdn.net/RS98vpkgSPMeGnEDabKD7d.jpg) 

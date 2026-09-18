@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: CELEBRATED artist Angela Harding has returned to the Yorkshire Sculpture
   Park with a new exhibition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340927.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

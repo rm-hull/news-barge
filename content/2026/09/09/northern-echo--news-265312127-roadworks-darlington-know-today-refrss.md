@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Seven roads in Darlington are affected by roadworks, with restrictions
   continuing on several routes. Including Napier Street and Woodland Road.
 image: https://www.thenorthernecho.co.uk/resources/images/21148761.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

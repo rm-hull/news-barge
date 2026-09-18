@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Arthur Fery is into his first ATP Tour final as opponent James Duckworth
   retires because of injury at the Winston-Salem Open.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e9c9/live/e83ccc10-a36c-11f1-b011-8782ba6620fb.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Arthur Fery plays a shot at the Cincinnati Open earlier this month](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/e9c9/live/e83ccc10-a36c-11f1-b011-8782ba6620fb.jpg)

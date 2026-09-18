@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: George Haldenby at arrived at HMP The Verne in Portland, Dorset, in May
   2021
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/04/20/pg-4-verne-rex.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A prison manager admitted he had not had first aid training in 35 years after an arsonist died of heart problems in prison.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T16:51:58Z'
 published: '2026-08-24T00:00:00Z'
 description: The first 15 elephant deaths were recorded between June 24 and July 24
 image: https://static.independent.co.uk/2026/08/24/15/2289773618..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Four suspects have been arrested by police investigating the deaths of 18 elephants in Kenya's Amboseli ecosystem, where officials also seized various materials including chemicals, the tourism and wildlife ministry said.

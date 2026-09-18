@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Thursday's front pages are dominated by a police investigation into Reform
   UK and UK airport chaos.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e53f/live/440fd110-aca3-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![The front page headline of the Times reads: "Farage faces Met inquiry over Reform donations."](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/ce2a/live/30a28d60-ac95-11f1-b1d1-571ed4d7ff2c.jpg)

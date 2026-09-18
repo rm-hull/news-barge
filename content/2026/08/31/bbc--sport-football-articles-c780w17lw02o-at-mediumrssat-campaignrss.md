@@ -10,6 +10,9 @@ description: Venture capitalist Joshua Kushner says he would not have got involv
   in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World
   Cup if he had known how the football world reacted.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Thrive Capital founder Joshua Kushner speaking at a conference](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg)

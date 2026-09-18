@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Kansas City Chiefs offensive coordinator Eric Bieniemy’s wife was shot
   last month
 image: https://static.independent.co.uk/2026/08/18/19/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Kansas City Chiefs offensive coordinator Eric Bieniemy said on Tuesday that he had the blessing of his wife, Mia, to return to the team after she was shot at their Virginia home as he joked, “I know I was driving her and a bunch of my family members crazy in the house.”

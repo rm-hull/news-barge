@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A Darlington woman has spoken of her shock after her Norse Atlantic Airways
   flight to New York was forced to make an emergency stop on the runway.
 image: https://www.thenorthernecho.co.uk/resources/images/21412409.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A Darlington woman has spoken of her shock after her Norse Atlantic Airways flight to New York was forced to make an emergency stop on the runway.

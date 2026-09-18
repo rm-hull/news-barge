@@ -9,6 +9,9 @@ description: Famous and challenging problems in mathematics are falling to AI at
   rapid pace. Where does this leave mathematicians, and what will the field look like
   in coming years?
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311668111.jpg?w=840)

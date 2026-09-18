@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Mayor of Harrogate has officially opened Little Ferns Pre-School
   at Coppice Valley Primary School, delivering 26 new early-years learning places.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/redkite.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **HARROGATE**— A brand new early years setting has officially opened its doors to local families this week, expanding the educational offering within the Harrogate district.

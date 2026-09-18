@@ -10,6 +10,10 @@ published: '2026-09-18T00:00:00Z'
 description: This rule could codify the promises that AI hyperscalers made to President
   Trump.
 image: https://cdn.mos.cms.futurecdn.net/CLB7qJReTEKaR87xGroG8n-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![power lines as seen from above](https://cdn.mos.cms.futurecdn.net/CLB7qJReTEKaR87xGroG8n.png) 

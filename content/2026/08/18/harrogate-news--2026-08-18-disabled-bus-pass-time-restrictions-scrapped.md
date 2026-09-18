@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Disabled bus pass time restrictions scrapped after almost two-year long
   campaign by Tom Gordon MP
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Tom-Gordon-buses.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Disabled bus pass time restrictions scrapped after almost two-year long campaign by Tom Gordon MP

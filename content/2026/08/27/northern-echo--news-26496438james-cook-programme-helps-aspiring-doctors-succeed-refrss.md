@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A programme designed to help talented young people from disadvantaged
   backgrounds pursue careers in medicine is continuing to inspire the next…
 image: https://www.thenorthernecho.co.uk/resources/images/21373564.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

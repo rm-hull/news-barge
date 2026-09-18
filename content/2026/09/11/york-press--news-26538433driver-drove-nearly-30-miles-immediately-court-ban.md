@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A North Yorkshire man drove for nearly 30 miles immediately after being
   banned for speeding on the Selby by-pass, York magistrates heard.
 image: https://www.yorkpress.co.uk/resources/images/21437173.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Man drove away from court immediately after being banned from driving

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Specsavers Ripon has become the first in North Yorkshire to offer a new
   treatment for dry eye.
 image: https://www.gazetteherald.co.uk/resources/images/21258083.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Submitted)*

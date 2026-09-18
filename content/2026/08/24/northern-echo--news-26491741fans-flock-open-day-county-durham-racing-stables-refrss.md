@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: HORSE-LOVERS turned out in force yesterday to be given a fascinating
   insight into life behind the scenes at a leading North East racing yard.
 image: https://www.thenorthernecho.co.uk/resources/images/21366080.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 HORSE-LOVERS turned out in force yesterday to be given a fascinating insight into life behind the scenes at a leading North East racing yard.

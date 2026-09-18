@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Colombian conductor Juan José Muñoz Borja has been appointed as the new
   conductor for Settle Orchestra's new season.
 image: https://www.yorkpress.co.uk/resources/images/21364216.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Settle Orchestra appoints new conductor for upcoming concerts this season

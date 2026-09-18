@@ -9,6 +9,9 @@ description: Haiti’s National Police is coming under fire as a growing number 
   question why authorities failed to prevent a recent gang attack in which 47 people
   were killed and more than 50 kidnapped
 image: https://static.independent.co.uk/2026/08/27/18/APTOPIX_Haiti_Gang_Violence_83_88.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Haiti’s National Police faced mounting criticism Thursday over why authorities failed to prevent a recent gang attack in which 47 people were killed and more than 50 kidnapped.

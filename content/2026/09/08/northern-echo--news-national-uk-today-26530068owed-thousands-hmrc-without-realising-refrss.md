@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Households are being urged to make three HMRC checks that could uncover
   hundreds or even thousands of pounds in overpaid tax.
 image: https://www.thenorthernecho.co.uk/resources/images/21157976.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

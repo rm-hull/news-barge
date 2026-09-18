@@ -7,6 +7,13 @@ scraped_at: '2026-09-09T12:56:28Z'
 published: '2026-09-09T00:00:00Z'
 description: A travel agency is set to open its first high street store.
 image: https://www.gazetteherald.co.uk/resources/images/21428382.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

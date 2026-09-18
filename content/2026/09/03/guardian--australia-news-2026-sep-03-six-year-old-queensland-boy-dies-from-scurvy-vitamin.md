@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Coroner says death likely triggered by vitamin C deficiency and so‑called
   ‘sailor’s disease’ common in convict era
 image: https://i.guim.co.uk/img/media/e3ab2845355aa0962434b74ebc39d375d36d791e/2086_0_5229_4183/master/5229.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6ef7dbb3c87a02147e0a3ecbebd8b92
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A six-year-old boy died from scurvy, the so‑called “sailor’s disease” common in the convict era, a coroner has found.

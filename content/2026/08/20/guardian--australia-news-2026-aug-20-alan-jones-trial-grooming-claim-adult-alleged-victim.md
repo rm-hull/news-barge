@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Sydney court hears complainant was more than 40 years younger and far
   less powerful than the shock jock when he started working as his driver
 image: https://i.guim.co.uk/img/media/f98321a74721c5bb9d8f8d0f47702a34b64410e1/603_0_4098_3278/master/4098.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=355cd2a4536260fb49381836a3f241a3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Alan Jones’s yelling stopped when his “sexual behaviour” began, the broadcaster’s former driver has alleged.

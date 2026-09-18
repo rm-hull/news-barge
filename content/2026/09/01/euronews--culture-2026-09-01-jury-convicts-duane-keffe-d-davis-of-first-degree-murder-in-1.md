@@ -9,6 +9,10 @@ description: The verdict lays to rest decades of speculation and conspiracy from
   hip-hop fans around the world in the high-profile killing that went unresolved for
   close to 30 years. Davis is expected to appeal the conviction.
 image: https://images.euronews.com/articles/stories/09/89/63/42/1200x675_cmsv2_bd6f9f49-3375-5518-b149-79ad9204f4f9-9896342.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## The verdict lays to rest decades of speculation and conspiracy from avid hip-hop fans around the world in the high-profile killing that went unresolved for close to 30 years. Davis is expected to appeal the conviction.

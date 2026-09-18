@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: President has hyped growth of federal investment accounts to help US
   children – for his own political gain
 image: https://i.guim.co.uk/img/media/20d1dec62e0f6b4d050e9a7811fb9049339938bd/1163_3_2837_2270/master/2837.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5abdc1e0d5a75d72422dd7d8a1ddb6d4
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Since returning to the White House, Donald Trump has scrapped rules that made childcare more affordable and pushed to cut funding for the nation’s public schools. But with midterm elections fast approaching and his approval ratings very low, the US president has repeatedly trumpeted a two-month-old program designed to help the nation’s children. That program, unhumbly named “Trump accounts”, calls for the federal government to give a one-time $1,000 seed deposit to every newborn whose family applies.

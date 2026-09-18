@@ -9,6 +9,10 @@ description: 'It comes as a Ukrainian unit launched a counteroffensive against R
   forces near the city of Lyman in eastern Ukraine, according to the unit''s commander.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/48/00/1200x675_cmsv2_d0dd887b-44f1-537c-a913-3fd384afdde4-9914800.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## It comes as a Ukrainian unit launched a counteroffensive against Russian forces near the city of Lyman in eastern Ukraine, according to the unit's commander.

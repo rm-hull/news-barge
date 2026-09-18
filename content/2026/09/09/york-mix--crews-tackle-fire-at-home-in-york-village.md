@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:56:22Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/04/fire-engine-night-canva.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Two crews tackled a fire at a home in a York village last night (Tuesday).

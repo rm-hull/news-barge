@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Concerns have mounted about conditions aboard the USS Abraham Lincoln,
   which has been deployed since 11 December.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80b0/live/ed5e7c30-983f-11f1-a1f9-67130a019877.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Trump on USS Lincoln deployment: 'Not nearly long enough'

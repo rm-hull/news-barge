@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: North Yorkshire Police said "the incident occurred at approximately 3pm
   on Saturday, July 4 in Main Street, Escrick."
 image: https://www.gazetteherald.co.uk/resources/images/21362990.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

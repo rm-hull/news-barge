@@ -10,6 +10,11 @@ description: A 22-year-old man from Singapore is expected to plead guilty this w
   in Washington to orchestrating one of the largest cryptocurrency thefts in U.S.
   history, duping a stranger out of bitcoin worth over $240 million
 image: https://static.independent.co.uk/2026/09/07/12/Crypto_Scam_5326_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carrying out a sophisticated scheme to launder the proceeds.

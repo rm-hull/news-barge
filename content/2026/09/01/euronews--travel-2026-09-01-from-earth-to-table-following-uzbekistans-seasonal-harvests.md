@@ -9,6 +9,10 @@ description: Vineyards, melon fields, orchards and almond farms highlight how ea
   season brings different harvests, local traditions and rural experiences for visitors
   exploring Uzbekistan.
 image: https://images.euronews.com/articles/stories/09/86/36/50/1200x675_cmsv2_eb5df937-ed5e-538f-a939-a94fbc1a1ea5-9863650.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Vineyards, melon fields, orchards and almond farms highlight how each season brings different harvests, local traditions and rural experiences for visitors exploring Uzbekistan.

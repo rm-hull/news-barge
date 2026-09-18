@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: A high court judge dismissed a string of claims brought by the Duke of
   Sussex and six other celebrities against the publisher of the Daily Mail
 image: https://static.independent.co.uk/2026/06/29/16/2256955714..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 The Duke of Sussex and six other prominent public figures are set to learn within hours how much their failed court action against the *Daily Mail* publisher will cost them.

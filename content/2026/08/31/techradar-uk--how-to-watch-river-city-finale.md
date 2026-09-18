@@ -7,6 +7,9 @@ scraped_at: '2026-08-31T16:08:43Z'
 published: '2026-08-31T00:00:00Z'
 description: The epic finale of the long-running Scottish drama show is here
 image: https://cdn.mos.cms.futurecdn.net/PvdDvrGm2ZXajgRYC4yHtk-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Still from the series finale of River City on BBC](https://cdn.mos.cms.futurecdn.net/PvdDvrGm2ZXajgRYC4yHtk.jpg) 

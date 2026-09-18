@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Patients who received treatment performed better on a six-minute walking
   test
 image: https://static.independent.co.uk/2026/08/21/6/03/A-medical-staffer-examines-a-patient-complaining-of-chest-pains.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A groundbreaking stem cell therapy could reverse severe heart failure in 90 per cent of patients in a landmark clinical trial in China, a new study revealed.

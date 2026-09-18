@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A homeless Stockton man who brutally attacked his vulnerable victim during
   an attempted robbery was heard threatening to stab the man during 999…
 image: https://www.thenorthernecho.co.uk/resources/images/21411686.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Cleveland Police)*

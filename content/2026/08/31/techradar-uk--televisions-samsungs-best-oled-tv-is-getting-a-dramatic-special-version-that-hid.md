@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Samsung has teamed up with audiophile firm Canvas to create the HiFi
   S99H, a flagship OLED with an integrated Hi-Fi sound system.
 image: https://cdn.mos.cms.futurecdn.net/PSY96ASEoKFkb6vGqz48NC-2048-80.png
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Samsung HiFi S99H on its stand in a neutrally decorated room](https://cdn.mos.cms.futurecdn.net/PSY96ASEoKFkb6vGqz48NC.png) 

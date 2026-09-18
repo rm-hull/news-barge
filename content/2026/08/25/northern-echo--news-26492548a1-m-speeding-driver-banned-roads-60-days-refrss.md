@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Ummar Younis, 29, has been banned from driving for 60 days after being
   caught speeding on the A1(M) between Aycliffe and Bradbury.
 image: https://www.thenorthernecho.co.uk/resources/images/17255767.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA MEDIA)*

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Harrogate brand Barkworth Reeve shortlisted for the Future Icons Awards
   after recording a fivefold turnover growth and expanding to 30 UK retailers.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/JENNIE-PARKER-ANGLE-1.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 **HARROGATE** — A specialized boutique accessories brand managed right from the heart of Harrogate has secured a position on a major national awards shortlist, tracking alongside explosive commercial expansion metrics across the United Kingdom.

@@ -9,6 +9,11 @@ description: In the biggest-ever legal action against harmful deepfake websites,
   Manhattan District Attorney’s Office has seized 12 sites that collectively targeted
   around 1,200 victims.
 image: https://media.wired.com/photos/6aa81a44054ce52476eda4d7/191:100/w_1280,c_limit/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 For the best part of a decade, abusive deepfake “pornography” websites have published thousands of nonconsensual videos depicting women, including high-profile celebrities, politicians, and public figures, into sexual situations. Now, in what is likely the largest takedown of explicit deepfake websites to date, officials in New York have seized more than a dozen of the harmful sites.

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The body of a woman, believed to be Lily Hooper, was located on Thursday
   following an eight-day search
 image: https://static.independent.co.uk/2026/08/20/7/11/lily.jpg?trim=24,0,415,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The body of an 18-year-old hiker has been recovered from dense bushland in a remote Australian national park more than a week after she went missing.

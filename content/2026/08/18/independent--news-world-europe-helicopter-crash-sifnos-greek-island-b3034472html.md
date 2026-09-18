@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Police said the couple had been en route to Sifnos when the helicopter
   crashed and ignited a fireball
 image: https://static.independent.co.uk/2026/08/18/08/2026-08-17T185721Z_1728911680_RC2I0NAHEHF8_RTRMADP_3_GREECE-CRASH-SIFNOS.JPG?trim=398,0,398,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A British couple on their honeymoon and a pilot were killed in a helicopter crash on the Greek island of Sifnos, according to reports.

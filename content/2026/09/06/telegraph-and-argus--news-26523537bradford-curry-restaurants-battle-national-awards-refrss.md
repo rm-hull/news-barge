@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Four Bradford restaurants have been shortlisted for a national curry
   award.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20956638.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Newsquest)*

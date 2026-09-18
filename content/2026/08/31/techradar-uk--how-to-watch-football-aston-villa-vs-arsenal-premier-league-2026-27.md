@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Problems are mounting for Unai Emery as he prepares to face his former
   club
 image: https://cdn.mos.cms.futurecdn.net/aUfMHvuVhyCXXFtnHPNM6Q-819-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
 ---
 
 ![Martin Odegaard of Arsenal celebrates scoring his team’s third goal during the Premier League 2026/27 match between Arsenal FC and Coventry City at Emirates Stadium.](https://cdn.mos.cms.futurecdn.net/aUfMHvuVhyCXXFtnHPNM6Q.jpg) 

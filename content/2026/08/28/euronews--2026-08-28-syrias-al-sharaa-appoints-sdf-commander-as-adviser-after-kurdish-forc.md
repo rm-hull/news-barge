@@ -9,6 +9,10 @@ description: The appointment came days after Abdi declared the Kurdish-led force
   and integrated into the Syrian army, ending a decade of independent existence in
   a move Washington called "genuine integration".
 image: https://images.euronews.com/articles/stories/09/89/23/86/1200x675_cmsv2_8aaf5709-42db-55af-9e7e-b8d4d93ffa20-9892386.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The appointment came days after Abdi declared the Kurdish-led force dissolved and integrated into the Syrian army, ending a decade of independent existence in a move Washington called "genuine integration".

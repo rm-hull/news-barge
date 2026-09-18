@@ -8,6 +8,13 @@ published: '2026-09-01T00:00:00Z'
 description: The family of a seven-year-old girl who was killed in a house fire said
   she was “deeply loved and will be missed beyond words”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/15/28/VALENTINA.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Society & Culture
+- Family & Parenting
 ---
 
 # Tributes paid to 'beloved daughter', seven, who died in Middlesbrough house fire

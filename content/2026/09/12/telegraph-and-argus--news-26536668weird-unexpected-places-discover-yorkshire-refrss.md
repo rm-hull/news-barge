@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: These hidden gems in Yorkshire will leave you awestruck – or send a shiver
   down your spine
 image: https://www.thetelegraphandargus.co.uk/resources/images/21190929.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Colin Gregory)*

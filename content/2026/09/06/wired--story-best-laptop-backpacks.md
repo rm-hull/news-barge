@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: The wrong bag can aggravate you every single day. These WIRED-tested
   picks get comfort, capacity, and organization just right.
 image: https://media.wired.com/photos/6a9b6e21074e05014033d571/191:100/w_1280,c_limit/The-Best-Laptop-Backpacks-I%E2%80%99ve-Tested-for-Work,-Travel,-and-Everyday-Life.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Though I’ve been working from home for the past 15 years, both freelance and full-time, this often means needing to be available 24/7, so I typically carry my laptop everywhere I go—including sports practices, day trips, and vacations.

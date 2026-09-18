@@ -8,6 +8,11 @@ scraped_at: '2026-09-05T15:06:48Z'
 published: '2026-09-05T00:00:00Z'
 description: Diagnosing endometriosis is often a challenge
 image: https://static.independent.co.uk/2026/09/05/13/Be_Well_Endometriosis_45171.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 When Zoë Armstrong got an ultrasound report showing signs of endometriosis, she called her mom and cried. After years of suffering and seeking help from doctors, she finally had an answer.

@@ -9,6 +9,10 @@ description: 'The PM has a rare political opportunity to make everybody happy: t
   who worry aid money is wasted and those who oppose the government''s aid cuts, writes
   Dr Tamsyn Barton'
 image: https://static.independent.co.uk/2026/09/08/15/2026-09-04T143313Z_1525533443_RC2ZANANCMN6_RTRMADP_3_BRITAIN-GAS-JACKDAW.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham is keen to show he is taking a different path to his predecessor, Keir Starmer. He has signalled that he harks back to the efforts of Tony Blair and Gordon Brown to position the UK as a leader in global social justice, not least in choosing Ed Miliband for his foreign secretary, and Brown’s former aide Kirsty McNeill as the development minister.

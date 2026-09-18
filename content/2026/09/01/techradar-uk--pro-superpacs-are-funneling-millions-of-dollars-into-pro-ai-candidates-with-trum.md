@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: AI is being backed by millions of dollars worth of PAC funding, and the
   future of American data centers could be decided by the midterm elections.
 image: https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Outline map of US states in glowing blue with exploding streams of binary data illustrating communication, internet and technology](https://cdn.mos.cms.futurecdn.net/mBxmnLnpbAuepmei5vxvLf.jpg) 

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: An aircraft from the Battle of Britain Memorial flight will fly over
   Yorkshire this weekend.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/21/16/55/GettyImages-154327506.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Where and when Battle of Britain Memorial Flight aircraft to fly over Yorkshire this weekend

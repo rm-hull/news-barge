@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Wharfemede Productions is presenting The Addams Family at Theatre@41
   in Monkgate this autumn.
 image: https://www.yorkpress.co.uk/resources/images/21395621.jpg?type=og-image&xType=110&yType=0
+categories:
+- Local
+- York
+- Music
+- Comedy & Entertainment
 ---
 
 *(Image: Wharfemede Productions)*

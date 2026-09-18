@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Ecclestone said he had to “surrender” the weapon because he did not have
   the correct documents
 image: https://static.independent.co.uk/2026/09/07/17/2245371019..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Former Formula One executive Bernie Ecclestone has said he was questioned by police at a Portuguese airport after bringing a shotgun intended for a clay pigeon shooting contest into the country.

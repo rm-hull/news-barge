@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:37Z'
 published: '2026-08-28T00:00:00Z'
 description: About 500,000 people hold a certificate for firearms in England and Wales
 image: https://static.independent.co.uk/2026/08/27/18/40/iStock-162522888.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The gun licensing system is putting public safety at risk, inspectors have warned.

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: BRADFORD residents are being invited to nominate their favourite city
   businesses in a UK-wide competition
 image: https://www.thetelegraphandargus.co.uk/resources/images/21461582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

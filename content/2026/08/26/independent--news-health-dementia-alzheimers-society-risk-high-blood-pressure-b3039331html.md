@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T08:57:10Z'
 published: '2026-08-26T00:00:00Z'
 description: Around 982,000 people are living with dementia in the UK today
 image: https://static.independent.co.uk/2026/07/28/15/2281016211..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A quarter of UK adults over the age of 40 cannot name a single lifestyle habit or health condition linked to an increased risk of dementia, according to new research.

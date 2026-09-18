@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T11:50:48Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/10/york-blake-street-mcdonalds-2021-4.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Police are investigating an assault in a York fast food restaurant.

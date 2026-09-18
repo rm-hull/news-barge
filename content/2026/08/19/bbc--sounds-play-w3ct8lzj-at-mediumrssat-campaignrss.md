@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T21:32:50Z'
 published: '2026-08-19T00:00:00Z'
 description: And, will Trump be forever dogged by his war with Iran?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

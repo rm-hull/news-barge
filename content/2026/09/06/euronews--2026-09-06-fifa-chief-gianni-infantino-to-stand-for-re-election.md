@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: The next FIFA presidential election is due to take place at the 77th
   FIFA Congress on Thursday, 18 March 2027 in Rabat, Morocco.
 image: https://images.euronews.com/articles/stories/09/90/31/75/1200x675_cmsv2_1889ba9b-dc53-5753-81d2-bed25755be27-9903175.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The next FIFA presidential election is due to take place at the 77th FIFA Congress on Thursday, 18 March 2027 in Rabat, Morocco.

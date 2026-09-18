@@ -8,6 +8,9 @@ scraped_at: '2026-09-09T22:29:14Z'
 published: '2026-09-09T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/1e2c96c53b83da24d8e9c5dfb5d68c8b66e52e0b/51_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9c34331903df8fed0e9c17a01e0ba4af
+categories:
+- UK
+- News & Politics
 ---
 
 Liberal MP and SAS veteran Andrew Hastie told RN Breakfast on Thursday that One Nation’s cartoon attacked not just him but all veterans. Photograph: Hilary Wardhaugh/Getty Images

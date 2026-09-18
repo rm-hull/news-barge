@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Chief attorney tied to ‘grand conspiracy’ case suggests administration
   officials are trying to quickly prosecute the president’s foes
 image: https://static.independent.co.uk/2026/09/11/18/754597..?trim=437,0,742,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A longtime ally to Donald Trump who was tapped to lead a sprawling conspiracy investigation into the president’s political enemies abruptly resigned Thursday after the case failed to produce any indictments over the last year.

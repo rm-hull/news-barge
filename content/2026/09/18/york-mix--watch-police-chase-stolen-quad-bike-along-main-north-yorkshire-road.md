@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:44Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-quad-bike-stolen-a171-police-video-ii.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Footage of an extraordinary police chase of a suspect on a stolen quad bike has been released by police.

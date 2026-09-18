@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Two brothers and one of their employees have all been jailed after they
   lured two other workers to their ice cream company premises in Bradford and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21413601.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

@@ -9,6 +9,11 @@ description: Police officers and Army veterans came together to pay their respec
   to a former colleague and comrade who was killed on duty in a horrific crash on
   the A66.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/16/v2-image-production-88971d815edd873518ffdf44b048cea7Y29udGVudHNlYXJjaGFwaSwxNzg5MTMyODgx-2.85806120.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Hundreds line streets as Pc Tom Clough laid to rest after A66 tragedy

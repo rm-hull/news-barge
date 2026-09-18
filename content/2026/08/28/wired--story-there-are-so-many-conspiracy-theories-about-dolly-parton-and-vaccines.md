@@ -9,6 +9,10 @@ description: Influential right-wing conspiracy theorists and MAGA-aligned pundit
   are falsely claiming that the Covid vaccine killed Dolly Parton, the vaccination
   advocate and philanthropist.
 image: https://media.wired.com/photos/6a90c233c9ef4da778ca0aa1/191:100/w_1280,c_limit/Dolly-Parton-Vaccine-Conspiracy-Politics-156123505.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Conspiracy theories surrounding singer and philanthropist Dolly Parton’s recent death have flooded the internet, referencing everything from satanic rituals to cloning. But one conspiracy theory has dominated all the others: the claim that Parton’s death was caused by “turbo cancer” brought on by the Covid vaccine.

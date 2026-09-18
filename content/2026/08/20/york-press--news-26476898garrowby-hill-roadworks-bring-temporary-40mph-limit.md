@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A temporary 40mph speed limit has been announced along Garrowby Hill
   starting next month.
 image: https://www.yorkpress.co.uk/resources/images/20559035.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images/iStockphoto)*

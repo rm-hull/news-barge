@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Oregon authorities have identified the victims of what's being investigated
   as a quintuple homicide on a rural property outside Portland
 image: https://static.the-independent.com/2026/08/25/04/Oregon_Quintuple_Homicide_59332.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 The five people found dead at a rural Oregon property have been identified as the suspected killer’s girlfriend, three generations of her family and two friends, authorities said Monday.

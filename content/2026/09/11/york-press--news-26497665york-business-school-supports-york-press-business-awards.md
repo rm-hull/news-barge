@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Universities and their Business Schools play an important role in facilitating
   collaborations between academia, industry, government, and community…
 image: https://www.yorkpress.co.uk/resources/images/21059491.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 In association with

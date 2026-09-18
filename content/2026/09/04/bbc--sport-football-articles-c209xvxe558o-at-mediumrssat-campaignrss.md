@@ -9,6 +9,10 @@ description: Has the real Alexander Isak finally arrived at Liverpool after his 
   display in their Premier League win at Ipswich Town, asks chief football writer
   Phil McNulty?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f5b/live/e9917310-a8b0-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Isak's early double gives Liverpool victory over Ipswich

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Some long range forecasts are suggesting autumn could be hotter and drier
   than average. Simon King explores whether a warm spell might be on the cards.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/86a5/live/b7382b90-9b1b-11f1-a8a4-83462463c9fa.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A woman in shorts and trainers walks through fallen leaves amid a UK heatwave](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/86a5/live/b7382b90-9b1b-11f1-a8a4-83462463c9fa.png)

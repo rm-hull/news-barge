@@ -9,6 +9,13 @@ published: '2026-08-24T00:00:00Z'
 description: Mark Gatiss chats about his passion for books and how Bookish has evolved
   as the detective drama returns for its second series. By Lynn Rusk.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjllNmMxODJkLTczNGQtNGE0Ni04YjQ0LWY1NWZkOTU3ZTlhNjpkM2VmZTFlYS02Yzk1LTRjOWYtYTQ0NC1jN2E2ZTg2Y2EyZjc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
+- Film & TV
 ---
 
 # Mark Gatiss on is love for murder mysteries as detective drama series Bookish returns

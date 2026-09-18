@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: THE mayor of York and North Yorkshire has backed an innovative seaweed
   cultivation business as the county aims to become England’s first…
 image: https://www.yorkpress.co.uk/resources/images/21384559.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York and North Yorkshire mayor backs innovative Scarborough seaweed firm

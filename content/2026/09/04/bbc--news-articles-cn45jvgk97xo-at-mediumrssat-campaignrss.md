@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Kelcie Reed admitted being in control of a dangerous dog which killed
   19-year-old Morgan Dorsett.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45ce/live/b01c6320-a84b-11f1-b1d1-d7cca3b85b1e.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A mugshot of a young woman with blonde hair. It tied back in a messy ponytail. She has her lip, eyebrow, nose and the bridge of her nose pierced with metal bars and has a neutral expression.](https://ichef.bbci.co.uk/ace/standard/654/cpsprodpb/45ce/live/b01c6320-a84b-11f1-b1d1-d7cca3b85b1e.jpg)

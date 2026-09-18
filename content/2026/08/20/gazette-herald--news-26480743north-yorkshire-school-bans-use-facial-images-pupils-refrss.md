@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A NORTH Yorkshire school has banned the use of full facial images of
   pupils over fears they will be used by criminal gangs for child abuse.
 image: https://www.gazetteherald.co.uk/resources/images/21347756.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Freelancer)*

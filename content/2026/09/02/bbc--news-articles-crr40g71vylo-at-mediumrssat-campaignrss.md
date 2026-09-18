@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The NHS has been trialling the test and says the results so far are truly
   promising.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15b4/live/aa05a320-a61b-11f1-9ca2-a3e18de91b7b.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 ![A man holds a urine sample in a pot](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/15b4/live/aa05a320-a61b-11f1-9ca2-a3e18de91b7b.jpg)

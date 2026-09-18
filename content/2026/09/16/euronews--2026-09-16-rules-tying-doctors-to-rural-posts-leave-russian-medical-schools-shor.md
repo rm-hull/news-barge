@@ -9,6 +9,10 @@ description: Russia's new rules requiring medical graduates to commit to regiona
   hospital postings before enrolment have left 1,500 residency places unfilled at
   top universities, even as applications hit record highs.
 image: https://images.euronews.com/articles/stories/09/91/56/72/1200x675_cmsv2_a1f55f93-44b2-5c36-9499-1e04ac6579f9-9915672.jpg
+categories:
+- Europe
+- News & Politics
+- Education & Learning
 ---
 
 **Lilia Sergeeva & Euronews**

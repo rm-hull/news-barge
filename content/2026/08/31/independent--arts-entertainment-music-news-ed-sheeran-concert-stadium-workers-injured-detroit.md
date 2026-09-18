@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: None of the six workers who were injured appeared to have life-threatening
   injuries
 image: https://static.the-independent.com/2026/08/31/15/2251931571..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Health & Fitness
 ---
 
 Six workers at Ed Sheeran’s Detroit concert were rushed to the hospital after an accident involving the equipment used to tear down the stage.

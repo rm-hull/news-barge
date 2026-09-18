@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Danny Malin has spoken out in defence of restaurants facing poor online
   reviews.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17328176.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: YouTube)*

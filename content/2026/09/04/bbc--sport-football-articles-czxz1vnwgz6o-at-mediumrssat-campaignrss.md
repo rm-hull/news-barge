@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: There was an expectation on London City Lionesses to live up to the hype
   and deliver in the Women's Super League's season opener - and they did.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4120/live/e21538d0-a8b3-11f1-9417-f520939c68f6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![London City Lionesses celebrate](https://ichef.bbci.co.uk/ace/standard/748/cpsprodpb/4120/live/e21538d0-a8b3-11f1-9417-f520939c68f6.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Catholics from the Peoria, Illinois, area are eagerly preparing for a
   long-awaited beatification service of the late Archbishop Fulton Sheen
 image: https://static.independent.co.uk/2026/09/02/12/Fulton_Sheen_Beatification_14241.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Bonnie Engstrom believes a long-deceased TV priest helped save her son’s life after he was born in 2010 without a pulse.

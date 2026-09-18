@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A fundraiser has been set up for a five-year-old boy with a serious muscle
   condition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21327966.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 A fundraiser has been set up for a five-year-old Bradford boy with a serious muscle condition.

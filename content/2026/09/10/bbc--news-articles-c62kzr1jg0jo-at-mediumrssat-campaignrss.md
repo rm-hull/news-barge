@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Speaking at a party convention, the US president gave no details on how
   the plan would work or where the money would come from.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005c/live/5e9be290-acf7-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: BBC North America editor Sarah Smith looks into whether Trump's promise stands up

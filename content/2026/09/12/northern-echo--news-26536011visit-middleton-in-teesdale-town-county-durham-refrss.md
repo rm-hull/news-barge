@@ -8,6 +8,13 @@ published: '2026-09-12T00:00:00Z'
 description: Explore Middleton-in-Teesdale, a historic County Durham town with independent
   shops, waterfalls and the dramatic landscapes of Upper Teesdale.
 image: https://www.thenorthernecho.co.uk/resources/images/21431333.jpg?type=og-image&xType=0&yType=174
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
+- Society & Culture
 ---
 
 Drive west through Teesdale and the landscape starts to change.

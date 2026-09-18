@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Two drug dealers from Bradford have been jailed after running a heroin
   and crack cocaine operation.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382061.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: South Yorkshire Police)*

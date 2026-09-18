@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: The five died along with two police officers in a crash after a chase
   in South Bank near Middlesbrough
 image: https://static.independent.co.uk/2026/08/23/10/01M0PXT3G2Z09NMEG8326CGQXT.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Five teenagers and young men who died driving on the wrong side of the road in a crash which also killed two police officers have been named.

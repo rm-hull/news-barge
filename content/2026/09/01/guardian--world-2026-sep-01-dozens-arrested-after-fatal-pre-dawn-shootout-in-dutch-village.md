@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Police urged people in Overasselt to stay indoors after one person died
   and 34 were arrested
 image: https://i.guim.co.uk/img/media/984307893e04d8e310772105d7c796ce091a8d01/0_708_4529_3625/master/4529.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=038ec6d7b635cb4fae2da83f13ff5b50
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Authorities have arrested 34 people, including French, Belgian and Algerian nationals, after a person died in a pre-dawn shootout in a Dutch village reportedly linked to a notorious drug lord.

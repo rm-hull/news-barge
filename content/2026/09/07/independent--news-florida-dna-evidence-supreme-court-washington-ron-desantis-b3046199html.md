@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Attorneys are asking the Supreme Court to stay the execution of a Florida
   death row inmate scheduled to die by lethal injection Thursday
 image: https://static.independent.co.uk/2026/09/07/21/Supreme_Court_Trump_Elections_24836.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Attorneys asked the Supreme Court Monday to stay the execution of a Florida death row inmate scheduled to die by lethal injection Thursday for the 1996 kidnapping and strangulation of a man who was found nude and emasculated.

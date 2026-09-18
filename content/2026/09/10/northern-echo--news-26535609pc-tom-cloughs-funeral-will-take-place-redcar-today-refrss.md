@@ -9,6 +9,12 @@ published: '2026-09-10T00:00:00Z'
 description: A police officer described as "full of fun" and deeply missed by all
   who knew him has been remembered.
 image: https://www.thenorthernecho.co.uk/resources/images/21360942.jpg?type=og-image&yType=42
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Arts & Culture
 ---
 
 *(Image: CLEVELAND POLICE)*

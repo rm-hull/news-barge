@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: From eating the elderly to selling kids, Afterworld gives you the freedom
   to do terrible things in the post-apocalypse
 image: https://cdn.mos.cms.futurecdn.net/UB983hBxmcznhpvQSMZ9C6-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Upcoming strategy game Afterworld.](https://cdn.mos.cms.futurecdn.net/UB983hBxmcznhpvQSMZ9C6.jpg) 

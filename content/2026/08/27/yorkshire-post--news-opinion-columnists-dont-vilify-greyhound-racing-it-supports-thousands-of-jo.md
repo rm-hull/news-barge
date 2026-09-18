@@ -10,6 +10,11 @@ description: The fine people of Yorkshire have never needed permission to enjoy 
   they have never judged a sport by the status of its spectators or how refined it
   may be, but by whether it’s entertaining and rooted in the community.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZlMzQzZmZjLTlkOGYtNGM1My05ZDA1LTVjYjViNDZmOTEzNTo1NGRjNzQ5Yi1jYTlhLTQyZGMtODc3OS00NzdjYmY0MzhhNGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Don’t vilify Greyhound racing, it supports thousands of jobs and is rooted in working class communities - Abbie MacGregor

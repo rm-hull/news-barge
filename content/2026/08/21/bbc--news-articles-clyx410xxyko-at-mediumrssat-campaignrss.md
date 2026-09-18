@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Prince of Wales remains in no mood to forgive and forget. The hurt
   he feels lingers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a158/live/98f9f1e0-9d14-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Watch: A look back at Prince William and Harry's fractured relationship

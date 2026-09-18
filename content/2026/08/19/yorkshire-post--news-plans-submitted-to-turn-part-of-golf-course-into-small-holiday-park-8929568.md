@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Plans have been submitted to turn part of a golf course into a “small”
   holiday park.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjE2ODFjNTM0LWI4YTAtNGVmMC1hMmU4LWQ3ZTVkZDFjOGFjZTo0NjNmZThjNS0xNzhiLTQxNjMtOWJkMS1jMTg3OGJjNjAzMzU=.jpg?crop=3:2,smart&trim=&width=457&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Plans submitted to turn part of golf course into 'small' holiday park

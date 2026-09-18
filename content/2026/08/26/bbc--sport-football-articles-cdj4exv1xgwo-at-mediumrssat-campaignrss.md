@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Celtic have now faltered in Champions League qualifying on six occasions
   in eight years. What are the ramifications this time?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/93e1/live/2b9b96d0-a13d-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Martin O'Neill watches on before Celtic's second leg against LASK in Linz](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/93e1/live/2b9b96d0-a13d-11f1-9311-09d4e1fc9016.jpg)

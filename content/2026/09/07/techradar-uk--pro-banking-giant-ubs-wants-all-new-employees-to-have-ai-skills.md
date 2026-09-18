@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:13:58Z'
 published: '2026-09-07T00:00:00Z'
 description: UBS makers AI skills mandatory
 image: https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5-2500-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/w2ZchiV2wSCB7G8Nq8bRW5.jpg) 

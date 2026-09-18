@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T19:42:53Z'
 published: '2026-09-17T00:00:00Z'
 description: Why enterprise AI needs transparency, traceability, and explainable reasoning
 image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T12:59:09Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-racecourse-races-music-showcase.webp
+categories:
+- Local
+- York
+- Music
 ---
 
 Much-loved band Madness will be headlining Music Showcase Friday at York Racecourse, it was announced today.

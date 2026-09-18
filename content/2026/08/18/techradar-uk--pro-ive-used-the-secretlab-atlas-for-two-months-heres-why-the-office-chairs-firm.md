@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Skip the Titan Evo on sale for work - of all the chairs I own, only the
   Secretlab Atlas brought my wife any back pain relief thanks to its firm support.
 image: https://cdn.mos.cms.futurecdn.net/4SRXQxjchQU3LyskRcamY9-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![The Secretlab Atlas on show at the brand's Singapore showroom and office.](https://cdn.mos.cms.futurecdn.net/4SRXQxjchQU3LyskRcamY9.jpg) 

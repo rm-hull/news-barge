@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Cleveland Police gets around 35 per cent less funding per crime than
   the average force, shocking statistics have revealed as leaders back calls for…
 image: https://www.thenorthernecho.co.uk/resources/images/21422471.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PCC MATT STOREY)*

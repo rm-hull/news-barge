@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: One person was taken to hospital after the air ambulance was called to
   an incident in Redcar.
 image: https://www.thenorthernecho.co.uk/resources/images/21208059.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GNAAS)*

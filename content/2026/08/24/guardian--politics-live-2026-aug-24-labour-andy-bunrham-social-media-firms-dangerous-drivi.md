@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Defence minister says police ‘need time’ but ‘in the meantime’ the government
   has told platforms to take down content glorifying dangerous driving
 image: https://i.guim.co.uk/img/media/2ac5412043ca84b2366ba41ab226565941e8ded9/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5258e5053078a2f98906d4c7b14b872a
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 A police cordon at the scene of a fatal crash involving a police car and a Volkswagen Passat on the A66 in South Bank, near Middlesbrough on Saturday. Photograph: Owen Humphreys/PA

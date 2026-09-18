@@ -9,6 +9,10 @@ description: Gates has embarked on a public campaign to warn people about the da
   of AI but it’s been partly overshadowed by his recent revalations about his relationship
   with Jeffrey Epstein
 image: https://static.independent.co.uk/2026/08/27/12/12/Screenshot-2026-08-27-at-8-47-46-AM.png?trim=0,29,0,28&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Microsoft co-founder Bill Gates was forced to address allegations that Jeffrey Epstein tried to blackmail him - as one of the world’s richest men sat for his first TV interview since the bombshell accusation.

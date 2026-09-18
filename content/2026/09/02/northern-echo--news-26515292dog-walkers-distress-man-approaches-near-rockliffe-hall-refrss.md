@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Police are appealing for witnesses after a woman was approached by a
   hooded man near Rockcliffe Hall hotel in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/20452796.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

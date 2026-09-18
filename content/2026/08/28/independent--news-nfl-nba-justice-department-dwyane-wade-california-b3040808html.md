@@ -10,6 +10,10 @@ description: Joan Rubinger overcame a catastrophic biking accident that left her
   to become an influential pain-relief specialist helping top-tier athletes get back
   on the field after acute and chronic injuries
 image: https://static.independent.co.uk/2026/08/28/08/DEA-Pain_Specialist-Athletes-Opioids_22819.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Joan Rubinger overcame a catastrophic biking accident that left her paralyzed to become an influential pain-relief specialist helping top-tier athletes get back on the field after acute and chronic injuries.

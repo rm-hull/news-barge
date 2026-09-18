@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Campaigners say the longer it takes to repair the walkway the more impact
   it has on the town.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a4d/live/8b9a4a60-b356-11f1-b949-71f91f81d1ab.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![A large stone bridge support stands on the left beside a calm river, with a row of houses and greenery along the opposite bank. A small rowing boat carrying two people is on the water near the riverside, while temporary orange barriers are visible on the embankment above. Trees and hillside homes rise in the background under bright sunshine.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/59ef/live/000b5540-b359-11f1-b949-71f91f81d1ab.jpg)

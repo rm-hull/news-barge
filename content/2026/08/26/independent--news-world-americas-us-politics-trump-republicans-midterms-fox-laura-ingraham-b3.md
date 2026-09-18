@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A guest on Laura Ingraham’s show warned that Republicans could lose control
   of the House and Senate
 image: https://static.independent.co.uk/2026/08/26/12/54/Screenshot-2026-08-26-at-13-23-48.png?trim=30,0,24,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Fox News personality Laura Ingraham has urged Republicans to “get their act together” as the midterm elections draw near.

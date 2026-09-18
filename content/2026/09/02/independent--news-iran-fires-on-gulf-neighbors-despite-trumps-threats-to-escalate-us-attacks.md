@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: Bahrain says it intercepted an Iranian aerial attack as renewed fighting
   threatened to fully reignite the conflict between Iran and the United States
 image: https://static.independent.co.uk/2026/09/02/07/Iran_War_Strait_of_Hormuz_18_17.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Bahrain intercepted an Iranian aerial attack early Wednesday, as Tehran continued to fire on allies of the United States in the Gulf region despite threats from President Donald Trump to escalate American military attacks.

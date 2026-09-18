@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: There are currently tailbacks on the A174 due to two broken-down lorries
   on Apple Orchard Bank on Marske Lane in Skelton.
 image: https://www.thenorthernecho.co.uk/resources/images/21334822.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

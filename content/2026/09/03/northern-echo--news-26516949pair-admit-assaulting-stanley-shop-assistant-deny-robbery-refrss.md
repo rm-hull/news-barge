@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Two men accused of a shop robbery are prepared to admit assaulting an
   assistant who confronted them with a walking stick, a court heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21403639.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

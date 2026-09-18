@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Police said it closed Ouse Bridge in York following concern
   for the safety of a teenage girl.
 image: https://www.gazetteherald.co.uk/resources/images/20154549.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Abby Backhouse)*

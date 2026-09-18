@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: In his resignation letter, Ruslan Kravchenko denied the allegations against
   him, saying he did not want his office "to be used as a tool in political confrontation".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a191/live/44b56530-ab09-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Prosecutor General of Ukraine Ruslan Kravchenko attends a press conference.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a191/live/44b56530-ab09-11f1-a291-b542ee92de7c.jpg)

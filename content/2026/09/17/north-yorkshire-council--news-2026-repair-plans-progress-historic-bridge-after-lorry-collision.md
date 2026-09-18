@@ -9,6 +9,13 @@ description: Plans are progressing to make safe and repair the historic Grade II
   Middleham Bridge after it suffered significant damage in a crash involving a heavy
   goods vehicle.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/Middleham%20Bridge%20image%201.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Automotive
+- History
 ---
 
 ![Middleham Bridge](https://www.northyorks.gov.uk/sites/default/files/2026-09/Middleham%20Bridge%20image%201.jpg) 

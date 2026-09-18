@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: President’s directive stalls for a second time about a week before the
   first postal ballots are due to be sent out
 image: https://i.guim.co.uk/img/media/41847a5ee52a0570679722ae1734a4160dd9bc22/58_0_2093_1674/master/2093.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=352ad616382e2edee8bebc55832548be
+categories:
+- UK
+- News & Politics
 ---
 
 A federal judge on Thursday halted – at least for the moment – attempts to implement Donald Trump’s executive order limiting mail voting.

@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: An investigation has revealed new details about a fatal collision that
   claimed the lives of five men.
 image: https://www.thenorthernecho.co.uk/resources/images/21357633.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: SARAH CALDECOTT)*

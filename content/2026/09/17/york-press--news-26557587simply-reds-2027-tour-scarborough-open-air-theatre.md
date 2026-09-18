@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Simply Red’s headline Summer Funk ’27 tour comes to Scarborough Open
   Air Theatre in North Yorkshire in 2027, with Soul II Soul.
 image: https://www.yorkpress.co.uk/resources/images/21466347.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Cuffe & Taylor)*

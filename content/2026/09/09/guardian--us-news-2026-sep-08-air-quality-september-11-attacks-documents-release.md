@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Documents available through an online portal launched three days before
   the 25th anniversary of September 11
 image: https://i.guim.co.uk/img/media/c8894847abbb2da42bed8bca9468e79df5638e06/94_0_1735_1389/master/1735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02d37327d89d08bf0b7b6042b0c352fa
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 New York City mayor Zohran Mamdani’s administration has released more than 170,000 pages of municipal records involving the impact of the September 11 attacks on air quality health, as well as the city’s response.

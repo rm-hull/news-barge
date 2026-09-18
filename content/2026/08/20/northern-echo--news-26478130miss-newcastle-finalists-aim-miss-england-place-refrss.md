@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Miss Newcastle 2026 contestants are competing for a place in the grand
   final, with the winner progressing to Miss England and potentially…
 image: https://www.thenorthernecho.co.uk/resources/images/21341761.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A North East beauty pageant is heating up as contestants compete for the chance to represent the region on the national stage and take a step closer to the Miss World competition.

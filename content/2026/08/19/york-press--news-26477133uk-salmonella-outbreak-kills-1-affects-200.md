@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: A salmonella outbreak has killed one person and affected 200 more in
   the UK over the last year.
 image: https://www.yorkpress.co.uk/resources/images/21337388.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## UK salmonella outbreak kills 1 and affects 200 more and 'could be linked to eggs'

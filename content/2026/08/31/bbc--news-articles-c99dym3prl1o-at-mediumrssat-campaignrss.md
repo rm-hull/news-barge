@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: The governor of the Bank of England warned of AI's “volatility” caused
   by energy shocks from the US-Iran war.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- History
 ---
 
 ![An investor looks at an electronic board showing stock information with numbers highlighted in red and lime green against a black background. The investor has her back to the camera and has her left hand resting on her head.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg)

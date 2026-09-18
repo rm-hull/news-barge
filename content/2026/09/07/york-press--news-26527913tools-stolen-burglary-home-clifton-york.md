@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T14:13:39Z'
 published: '2026-09-07T00:00:00Z'
 description: Tools have been stolen during a burglary at a home in Clifton, York.
 image: https://www.yorkpress.co.uk/resources/images/21407476.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 *(Image: Pixabay)*

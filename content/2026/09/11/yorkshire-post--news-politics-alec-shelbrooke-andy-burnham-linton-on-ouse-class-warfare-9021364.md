@@ -9,6 +9,11 @@ description: A North Yorkshire MP has accused the Prime Minister of engaging in 
   warfare” over suggestions that asylum seekers should be housed in middle-class areas
   as he stepped up his opposition to plans for a migrant centre at former RAF Linton-on-Ouse.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/13/06/Sir-Alec-Shelbrooke.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # 'Class warfare' - MP slams Andy Burnham over suggestion asylum seekers should be housed in middle-class areas

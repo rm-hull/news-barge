@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T13:08:48Z'
 published: '2026-08-24T00:00:00Z'
 description: Motorists have been warned of severe traffic delays on the A64 into York.
 image: https://www.yorkpress.co.uk/resources/images/21363785.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Automotive
 ---
 
 *(Image: Newsquest)*

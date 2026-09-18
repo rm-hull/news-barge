@@ -11,6 +11,8 @@ published: '2026-09-09T00:00:00Z'
 description: 'According to CD Projekt Red, The Witcher 3: Wild Hunt''s upcoming expansion,
   Songs of the Past, may not exist without The Witcher 3 Remastered.'
 image: https://cdn.mos.cms.futurecdn.net/DPfsBLNCEVs6xx3xUaapC4-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/DPfsBLNCEVs6xx3xUaapC4.png) 

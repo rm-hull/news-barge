@@ -9,6 +9,8 @@ published: '2026-08-26T00:00:00Z'
 description: The censorship-bypassing tool has officially moved to the main branch,
   making it easier than ever for Linux users to beat online restrictions
 image: https://cdn.mos.cms.futurecdn.net/XCpnp9fvBTvayHb7nJSSsT-1625-80.png
+categories:
+- Technology & Software
 ---
 
 ![Proton VPN Linux app, promo image](https://cdn.mos.cms.futurecdn.net/XCpnp9fvBTvayHb7nJSSsT.png) 

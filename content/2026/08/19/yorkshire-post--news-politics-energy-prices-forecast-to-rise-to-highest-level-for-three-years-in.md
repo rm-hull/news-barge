@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: Household energy prices are set increase again to the highest level for
   three years heading into winter, according to new forecasts.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI2NWNiYWNmLThiNGEtNGEyYi1iNDUzLWE1ZjcyY2ViMjY1Yjo0Zjc5Y2FiZi1iYWQ0LTRjZjQtODEyZC1kODM1M2I5YjAzN2Y=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Energy prices forecast to rise to highest level for three years amid inflation hike

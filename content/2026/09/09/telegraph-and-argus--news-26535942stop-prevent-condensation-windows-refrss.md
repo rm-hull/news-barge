@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Everything you need to know about why condensation may be forming on
   your windows, and how you can prevent it from happening
 image: https://www.thetelegraphandargus.co.uk/resources/images/17380454.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: Getty Images)*

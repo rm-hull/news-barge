@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Conservative Supreme Court justice thanks Texas Republican for ‘standing
   up’ for him after he was ‘under attack’
 image: https://static.independent.co.uk/2026/08/24/21/53/ted-cruz-clarence-thomas.png?trim=185,270,0,176&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Conservative Supreme Court Justice Clarence Thomas thanked Senator Ted Cruz and other Republican members of Congress for defending him against ethics complaints after bombshell reporting uncovered lavish gifts he received from a prominent GOP donor while serving on the nation’s highest court.

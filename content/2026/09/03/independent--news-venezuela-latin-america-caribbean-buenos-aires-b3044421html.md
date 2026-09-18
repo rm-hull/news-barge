@@ -9,6 +9,9 @@ description: U.S. Energy Secretary met with Venezuela’s acting president durin
   visit focused on expanding U.S. access to the country’s vast oil reserves. Meanwhile,
   Buenos Aires hosted the Tango World Dance Championship.
 image: https://static.independent.co.uk/2026/09/03/20/APTOPIX_Venezuela_US_Oil_81639.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 US-Venezuela oil deal and other top photos from Latin America and the Caribbean

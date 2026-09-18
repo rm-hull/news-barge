@@ -9,6 +9,12 @@ published: '2026-08-24T00:00:00Z'
 description: An award-winning Harrogate music producer/DJ, author and filmmaker’s
   new single has won airplay on BBC 6 Music in its first week.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZiMWEyODUwLWJkOWMtNDdhMC1iZmRlLTY3YjAyZTRmNWRmNTplYjdjMGJlMS02NDE0LTQ5NTktYmQxNi1hODZlYThkMGMxMTc=.jpg?crop=3:2,smart&trim=&width=1009&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Film & TV
+- Technology & Software
 ---
 
 # New track by award-winning Harrogate music producer has been 'going down really well in DJ sets'

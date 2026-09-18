@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The Conservative leader is carrying out a reshuffle of her shadow cabinet
   before the party’s conference in October.
 image: https://static.independent.co.uk/2026/08/31/13/cade107e99f9dac0716964a51fc06a9bY29udGVudHNlYXJjaGFwaSwxNzg4MjYzNTgy-2.83391141.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Kemi Badenoch has replaced another member of her top team, ousting Sir Mel Stride as shadow chancellor and appointing Andrew Griffith in his place.

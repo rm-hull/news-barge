@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and
   set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Rillet co-founder and CEO Nicolas Kopp seems justifiably confident as we talk over Zoom a day after his company announced a $100 million raise at a $1 billion valuation. The U.S. has a shortage of accountants right now, which is driving growth of his AI-native accounting platform so much, he raised that cash in 48 hours without even trying.

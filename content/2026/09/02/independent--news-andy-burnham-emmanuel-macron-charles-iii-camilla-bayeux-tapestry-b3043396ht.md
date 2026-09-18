@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: French President Emmanuel Macron is expected to arrive in London to meet
   new Prime Minister Andy Burnham and visit the Bayeux Tapestry at the British Museum
 image: https://static.independent.co.uk/2026/09/02/12/France_Macron_58138.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 French President Emmanuel Macron arrives in London on Wednesday to meet new Prime Minister Andy Burnham and visit the Bayeux Tapestry at its temporary home in the British Museum.

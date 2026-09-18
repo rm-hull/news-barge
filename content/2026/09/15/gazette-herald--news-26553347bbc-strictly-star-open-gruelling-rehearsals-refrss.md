@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: EastEnders legend Lacey Turner and actress Jaime Winstone have spoken
   about how Strictly Come Dancing is "gruelling".
 image: https://www.gazetteherald.co.uk/resources/images/21459415.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Ray Burmiston/BBC/PA Wire)*

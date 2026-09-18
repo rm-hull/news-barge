@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A new parmo food stall serving up one of the North's favourite dishes
   parmos has opened at Darlington Markets.
 image: https://www.thenorthernecho.co.uk/resources/images/21413465.jpg?type=og-image&xType=0&yType=191
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A new food stall serving up one of the North's favourite dishes has opened at Darlington Indoor Market.

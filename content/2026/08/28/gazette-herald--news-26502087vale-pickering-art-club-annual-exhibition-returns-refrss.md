@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Vale of Pickering Art Club's annual exhibition is returning next
   month to the Memorial Hall in Potters Hill.
 image: https://www.gazetteherald.co.uk/resources/images/21381317.jpg?type=og-image&xType=0&yType=136
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 The Vale of Pickering Art Club's annual exhibition is returning next month.

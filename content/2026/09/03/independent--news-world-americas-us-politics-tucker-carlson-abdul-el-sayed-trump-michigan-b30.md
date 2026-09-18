@@ -9,6 +9,9 @@ description: Conservative broadcaster praises progressive Democrat and says ‘t
   no one who should be farther from a position of power’ than his Republican rival
   Mike Rogers
 image: https://static.independent.co.uk/2026/09/03/13/2291623947..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Tucker Carlson has unexpectedly praised Michigan Democratic Senate candidate Abdul El-Sayed, calling his platform “literally Trumpian” and saying he would not vote for his GOP rival Mike Rogers “at gunpoint.”

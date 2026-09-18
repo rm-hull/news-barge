@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T22:30:29Z'
 published: '2026-09-11T00:00:00Z'
 description: Trump made the pledge at the Republicans’ first ever midterm convention.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

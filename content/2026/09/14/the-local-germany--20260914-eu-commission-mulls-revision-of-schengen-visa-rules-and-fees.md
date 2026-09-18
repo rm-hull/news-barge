@@ -9,6 +9,10 @@ description: The European Commission is planning a revision of Schengen rules on
   visas to make the EU’s visa policy "more coherent, secure and effective, while facilitating
   legitimate travel".
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20091019__Par2845619__v1002__MidRes.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 EU rules on short-stay visas apply to non-EU citizens who need a visa (61 countries or territories are exempt) to visit the Schengen area for up to 90 days in any 180-day period for tourism, work, training, family, or other reasons.

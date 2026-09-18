@@ -9,6 +9,9 @@ scraped_at: '2026-09-05T15:05:52Z'
 published: '2026-09-05T00:00:00Z'
 description: No release date tipped off.
 image: https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Zen 4 CPU](https://cdn.mos.cms.futurecdn.net/8HRHpufeQP8XBVXitxXV9H.jpg) 

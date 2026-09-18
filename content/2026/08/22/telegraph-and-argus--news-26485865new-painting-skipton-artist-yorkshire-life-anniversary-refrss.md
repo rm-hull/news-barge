@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Skipton artist Linda Mellin has created a one-off painting for Yorkshire
   Life’s 80th anniversary.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350544.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Staff)*

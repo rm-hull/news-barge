@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Saudi Crown Prince Mohammed bin Salman called President Donald Trump
   twice on Thursday and urged him to launch strikes against the Houthis
 image: https://static.independent.co.uk/2025/11/18/18/54/Trump-goes-on-weird-rant-about-Biden-fistbumping-MBS.png?trim=0,169,0,169&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Saudi Crown Prince Mohammed bin Salman made two phone calls to President Donald Trump on Thursday, pressing him to execute military strikes targeting Houthi forces, according to an *Axios* report citing two American officials.

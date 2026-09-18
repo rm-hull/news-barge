@@ -10,6 +10,10 @@ description: '“Spider-Man: Brand New Day” remained the No. 1 movie in theate
   the weekend, becoming just the second film this decade to top the box office for
   six straight weeks'
 image: https://static.independent.co.uk/2026/09/04/17/Film-Summer_Box_Office_Comeback_21864.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 “Spider-Man: Brand New Day” remained the No. 1 movie in theaters over the weekend, becoming just the second film this decade to top the box office for six straight weeks.

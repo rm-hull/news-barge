@@ -10,6 +10,10 @@ description: Chelsea and England midfielder Cole Palmer was livestreaming the la
   EA Sports FC 27 on Twitch this week, but was hit with a temporary ban as he wasn't
   supposed to be showing off the game that early.
 image: https://cdn.mos.cms.futurecdn.net/8M6gYp5axq3kWv4nHdWJWi-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![A split image featuring a screenshot from EA Sports FC 27 showing Jude Bellingham lunging for the football and Cole Palmer on the other side looking up to the sky.](https://cdn.mos.cms.futurecdn.net/8M6gYp5axq3kWv4nHdWJWi.jpg) 

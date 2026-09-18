@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:52:34Z'
 published: '2026-08-20T00:00:00Z'
 description: A Harrogate dental practice is celebrating 25 years in business.
 image: https://mmo.aiircdn.com/409/6a86bcd43f5155c94d8.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a86bcd43f5155c94d8.jpg) 

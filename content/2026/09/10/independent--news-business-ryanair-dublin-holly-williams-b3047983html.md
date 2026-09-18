@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Dublin-based carrier revealed 39% of investors voted against pay
   plans that could see the firm’s top boss pick up at least £129 million.
 image: https://static.independent.co.uk/2026/09/10/14/ee873c6bdccefa9cac3659228b1f33f3Y29udGVudHNlYXJjaGFwaSwxNzg5MTMwODEy-2.83150243.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Budget airline Ryanair has seen more than a third of shareholders vote against pay plans for boss Michael O’Leary that could net him at least 150 million euros (£129 million).

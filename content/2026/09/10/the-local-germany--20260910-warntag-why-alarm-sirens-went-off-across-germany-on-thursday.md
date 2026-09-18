@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Air sirens and loud cell phone alerts cut through the air on Thursday
   at 11am. Don't worry, this was a test of Germany's nationwide disaster alert systems.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-618158422.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 Alarm sirens rang out in cities across Germany on Thursday morning at 11am. Mobile phones made shrill alarm noises and displayed warning text messages. Official warning apps triggered notifications.

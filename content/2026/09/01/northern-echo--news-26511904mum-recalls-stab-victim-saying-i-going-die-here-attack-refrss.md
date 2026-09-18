@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A mum has recalled the traumatic moment a man was left lying in the street
   saying “I am going to die here” after a horror alleyway stab attack.
 image: https://www.thenorthernecho.co.uk/resources/images/21396518.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A mum has recalled the traumatic moment a man was left lying in the street saying “I am going to die here” after a horror alleyway stab attack.

@@ -9,6 +9,10 @@ description: 'The E1 plan was green-lit by Israel last year and would further se
   east Jerusalem, occupied and annexed by Israel and predominantly inhabited by Palestinians,
   from the West Bank. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/27/62/1200x675_cmsv2_491783cb-f72c-5a75-a54c-4e8094470e3c-9882762.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The E1 plan was green-lit by Israel last year and would further separate east Jerusalem, occupied and annexed by Israel and predominantly inhabited by Palestinians, from the West Bank.

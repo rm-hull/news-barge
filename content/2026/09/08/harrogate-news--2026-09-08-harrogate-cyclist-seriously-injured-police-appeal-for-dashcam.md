@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Police have launched an appeal for witnesses and dashcam
   footage after a cyclist was left hospitalised with serious injuries following an
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/02/North-Yorkshire-Police.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 **North Yorkshire Police** have launched an appeal for witnesses and dashcam footage after a cyclist was left hospitalised with**serious injuries** following an incident near Harrogate.

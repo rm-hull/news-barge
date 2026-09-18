@@ -7,6 +7,12 @@ scraped_at: '2026-09-05T11:49:50Z'
 published: '2026-09-05T00:00:00Z'
 description: A MAJOR shipment of 5,000 vehicles has arrived at Teesport.
 image: https://www.thenorthernecho.co.uk/resources/images/21410865.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 A MAJOR shipment of 5,000 vehicles has arrived at Teesport.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Itamar Ben-Gvir claims proposal for illegal forced displacement of 2
   million people is ‘realistic’ and ‘concrete’
 image: https://i.guim.co.uk/img/media/8f9fd51248c37bfdf9c62bf36dc64b008d33f469/156_0_4995_3996/master/4995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5ed471762693136cdcf75dc7630ce5b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Israel’s far-right national security minister has set out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip, with the intention of sending them abroad.

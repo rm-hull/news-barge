@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The Fenix 9 Pro and I are still in the getting-to-know-each-other phase,
   but there are some meaningful updates.
 image: https://cdn.mos.cms.futurecdn.net/E7xiJQRMQsnWQ6zTiVBB8W-1920-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ![Garmin Fenix 9 Pro worn on journalist's wrist](https://cdn.mos.cms.futurecdn.net/E7xiJQRMQsnWQ6zTiVBB8W.jpg) 

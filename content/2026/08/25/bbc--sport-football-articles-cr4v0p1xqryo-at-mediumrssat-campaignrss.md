@@ -9,6 +9,10 @@ description: Who impressed and who has work to do? BBC Sport chief football writ
   Phil McNulty looks at how the nine new managerial appointments fared on the opening
   week of the Premier League season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8909/live/f480ddf0-a050-11f1-89c1-878f3735096b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Fulham manager Alvaro Arbeloa and his Chelsea counterpart Xabi Alonso embrace at Craven Cottage](https://ichef.bbci.co.uk/ace/standard/660/cpsprodpb/8909/live/f480ddf0-a050-11f1-89c1-878f3735096b.jpg)

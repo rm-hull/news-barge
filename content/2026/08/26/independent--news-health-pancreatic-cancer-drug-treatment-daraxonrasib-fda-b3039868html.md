@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Pancreatic cancer is among the deadliest forms, largely because detection
   is difficult before malignancy spreads to other organs
 image: https://static.independent.co.uk/2026/08/26/18/2246799652..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 American patients facing advanced pancreatic cancer have been offered a more effective treatment after the Food and Drug Administration granted approval on Wednesday to a groundbreaking new therapy against the deadly disease.

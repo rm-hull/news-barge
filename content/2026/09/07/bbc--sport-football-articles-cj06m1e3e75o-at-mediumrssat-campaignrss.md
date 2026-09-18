@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Global head of football Edu leaves Nottingham Forest after just over
   a year at the City Ground.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Edu at the City Ground](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e809/live/e9739500-aad8-11f1-aa35-df10e5ff32f4.jpg)

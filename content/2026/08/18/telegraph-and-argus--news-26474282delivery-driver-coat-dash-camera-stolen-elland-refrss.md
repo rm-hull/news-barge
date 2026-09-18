@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: A DELIVERY driver had a coat and dash camera stolen while on the job
   in Elland.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21335347.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Google Street View)*

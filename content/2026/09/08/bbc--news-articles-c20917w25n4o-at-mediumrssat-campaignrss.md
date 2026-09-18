@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A curious online row over this summer's heatwaves points to a wider -
   and worrying - shift in climate science.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Justin Rowlatt](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72bc/live/0d198dc0-ab83-11f1-a291-b542ee92de7c.png)

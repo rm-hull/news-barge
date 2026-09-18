@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Rockstar Games has confirmed that the romance between Grand Theft Auto
   6's co-protagonists, Jason and Lucia, is completely optional.
 image: https://cdn.mos.cms.futurecdn.net/PP3nR3hAhDSfesbNZijQc5-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/PP3nR3hAhDSfesbNZijQc5.jpg) 

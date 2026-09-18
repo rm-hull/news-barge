@@ -10,6 +10,8 @@ description: Potensic's Atom 3 is the company's best beginner drone yet, and a t
   DJI alternative. However, the DJI Lito X1 makes life tough for any challenger, offering
   obstacle avoidance at a new-low price point.
 image: https://cdn.mos.cms.futurecdn.net/XNFtVtKs5qifAxeP7VpipN-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -8,6 +8,11 @@ scraped_at: '2026-08-20T20:40:17Z'
 published: '2026-08-20T00:00:00Z'
 description: The new framework replaces 2022 rules put in place during the Biden administration
 image: https://static.independent.co.uk/2026/06/23/16/1607819780..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 Applicants trying to get green cards may find doing so more difficult if they have dependents who are considered public charges — people who are primarily dependant on the government for care.

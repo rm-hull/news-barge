@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The April rescue operation to recover the downed aircrew saw the first
   US boots on the ground in Iran in 46 years, American officials say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e579/live/16c18970-afe5-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 US airman shot down over Iran recounts 'free-falling' with no parachute

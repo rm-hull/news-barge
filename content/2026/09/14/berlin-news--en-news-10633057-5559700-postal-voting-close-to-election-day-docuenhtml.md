@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Anyone in Berlin who still wants to vote by post now needs to be careful.
   Here’s what the State Electoral Office recommends to ensure your vote isn’t lost.
 image: https://www.berlin.de/binaries/asset/image_assets/10633051/ratio_4_3/1789374397/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 © dpa

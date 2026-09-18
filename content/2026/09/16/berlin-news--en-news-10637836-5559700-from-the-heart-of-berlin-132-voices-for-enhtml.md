@@ -9,6 +9,12 @@ description: As the race to secure Germany’s Olympic bid enters its final stag
   there is a flurry of promotional activity in Berlin. Companies, clubs and social
   organisations are now showing their support.
 image: https://www.berlin.de/binaries/asset/image_assets/10637911/ratio_4_3/1789562529/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Sports
+- Society & Culture
 ---
 
 © dpa

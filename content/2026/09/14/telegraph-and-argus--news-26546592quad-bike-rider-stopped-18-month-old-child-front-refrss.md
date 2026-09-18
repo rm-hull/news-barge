@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Police were "appalled" after stopping a quad bike rider with an 18-month-old
   child on the front of the vehicle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449155.jpg?type=og-image&xType=0&yType=70
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

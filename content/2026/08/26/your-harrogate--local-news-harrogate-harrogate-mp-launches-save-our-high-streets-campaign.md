@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has launched a plan aimed at
   supporting struggling high streets and local businesses.
 image: https://mmo.aiircdn.com/409/6a8edce742875df7af3.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8edce742875df7af3.jpg) 

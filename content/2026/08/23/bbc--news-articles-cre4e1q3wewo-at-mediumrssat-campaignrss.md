@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Representatives met in Switzerland to work out next steps to resolve
   the conflict.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg
+categories:
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 ![Two men dressed in military uniform and holding rifles stand alongside a member of the public in a brown hoody and trousers. A woman in a pink hoody has her back to the camera in the background](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg)

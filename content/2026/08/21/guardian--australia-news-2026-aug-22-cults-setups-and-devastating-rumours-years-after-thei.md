@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: David Elliott and Eleni Petinos believe they were brought down by their
   own party. The Icac hearing has given them a chance to set the record straight
 image: https://i.guim.co.uk/img/media/761ce6013708b44ae2840aa6e92cb20a56f6fff0/986_456_5780_4627/master/5780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4644ede518b76597d8c97cb80799e1a2
+categories:
+- UK
+- News & Politics
 ---
 
 Revenge, they say, is a dish best served cold.

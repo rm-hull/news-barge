@@ -8,6 +8,10 @@ scraped_at: '2026-09-05T04:17:55Z'
 published: '2026-09-04T00:00:00Z'
 description: More games are on the way.
 image: https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![DLSS 5 in NBA 2K27](https://cdn.mos.cms.futurecdn.net/HwAcYRj7Jwy8EMgAW5JouH.gif)

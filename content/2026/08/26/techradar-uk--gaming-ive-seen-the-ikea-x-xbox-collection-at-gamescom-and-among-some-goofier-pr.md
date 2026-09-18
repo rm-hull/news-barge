@@ -10,6 +10,9 @@ description: IKEA and Xbox have unveiled a fun and functional nine-piece collect
   at Gamescom, and after seeing it in person, I can see why some of these products
   will be popular.
 image: https://cdn.mos.cms.futurecdn.net/eAH4poSWXq8YJsaLE6GPqT-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![The IKEA x Xbox collection in situe at Gamescom](https://cdn.mos.cms.futurecdn.net/eAH4poSWXq8YJsaLE6GPqT.jpg) 

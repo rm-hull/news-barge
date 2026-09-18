@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: A federal judge has blocked President Donald Trump's latest attempt to
   prohibit automatic U.S. citizenship at birth
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has blocked President Donald Trump's latest attempt to limit birthright citizenship, granting a preliminary injunction against an executive order that the administration said would target “birth tourism.”

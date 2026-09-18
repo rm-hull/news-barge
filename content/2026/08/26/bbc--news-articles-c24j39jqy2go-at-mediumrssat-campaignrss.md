@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The late singer-songwriter's charity causes were as eclectic as her music,
   but she had a personal connection to each one.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/079f/live/4d3e8c50-a126-11f1-8c37-3f30331ac537.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Dolly Parton crouches down and speaks to several children. She has her arms around two of them.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/396c/live/3d980c40-a126-11f1-8c37-3f30331ac537.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: The popular 89-year-old married his school sweetheart and championed
   LGBTQ+ rights
 image: https://static.independent.co.uk/2026/08/28/08/2026-08-28T064200Z_1458494627_RC2I7NA1JI6E_RTRMADP_3_NORWAY-ROYALS-KING-DEATH.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 Norway's King Harald V, who lived in exile in the United States as a child during the Nazi occupation of his country and rejected a series of European noblewomen to marry his school sweetheart, has died at the age of 89.

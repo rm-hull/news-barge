@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: York arts events not to miss include Alan Ayckbourn’s The Trial of Romeo
   Oscar, Wilko Johnson, and some outdoor cinema.
 image: https://www.yorkpress.co.uk/resources/images/21413311.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Alan Ayckbourn's 92nd play puts first non-human on trial for murder

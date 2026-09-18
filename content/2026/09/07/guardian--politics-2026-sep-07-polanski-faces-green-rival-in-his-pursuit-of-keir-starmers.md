@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Hamza Chowdhury says most of his fellow Green Camden councillors back
   him to contest 8 October byelection
 image: https://i.guim.co.uk/img/media/8d01b2226c69708b3c131e68221b991a644712be/657_1899_2667_2134/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0974d9fb38cf2f25a43136e3e0cfa291
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Zack Polanski is facing unexpected opposition from his own party in his attempt to fight the Holborn and St Pancras byelection for the Greens, with a local councillor saying he is also seeking the nomination, and that the seat does not need “a politician you’ll only see on a leaflet”.

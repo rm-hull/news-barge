@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Rory McIlroy says a bit of "good work" with his team helped him rediscover
   his form and take a clubhouse lead in the first round of the BMW Championship.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0ba2/live/07892120-9ce4-11f1-85a1-a7e17a8ac010.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Rory McIlroy at the end of his swing](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0ba2/live/07892120-9ce4-11f1-85a1-a7e17a8ac010.jpg)

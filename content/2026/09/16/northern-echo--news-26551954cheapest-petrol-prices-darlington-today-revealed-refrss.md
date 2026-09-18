@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: With fuel prices rising nationally, drivers across County Durham and
   Darlington are searching for the lowest prices at the pumps.
 image: https://www.thenorthernecho.co.uk/resources/images/20944117.jpg?type=og-image&xType=0&yType=22
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

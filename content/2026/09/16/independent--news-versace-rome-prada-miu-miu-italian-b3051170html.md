@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Armani fashion group has named Dario Vitale creative director of
   Emporio Armani and Giorgio Armani Accessories
 image: https://static.independent.co.uk/2026/09/16/12/Italy-Armani-Vitale_24558.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Armani fashion group on Wednesday named Dario Vitale creative director of Emporio Armani and Giorgio Armani Accessories, a first step in the group's creative reorganization a year after the death of founder Giorgio Armani.

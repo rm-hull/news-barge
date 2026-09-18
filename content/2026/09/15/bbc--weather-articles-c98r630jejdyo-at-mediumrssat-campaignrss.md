@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: As temperatures drop through the week and it starts to feel more autumnal,
   is it now time to put the summer clothes away?
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/53e2/live/ff5d9010-b09a-11f1-9e7d-cb2f675dfcb0.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Group of people standing on a pier looking out to sea. Many are wearing coats, and it also looks quite breezy](https://ichef.bbci.co.uk/ace/standard/914/cpsprodpb/53e2/live/ff5d9010-b09a-11f1-9e7d-cb2f675dfcb0.jpg)

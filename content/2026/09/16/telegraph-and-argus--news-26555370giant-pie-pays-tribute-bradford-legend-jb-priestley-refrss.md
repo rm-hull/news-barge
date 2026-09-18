@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A GIANT, steaming pie and a perambulation through Bradford helped mark
   the birthday of one of Britain’s best-loved writers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462791.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

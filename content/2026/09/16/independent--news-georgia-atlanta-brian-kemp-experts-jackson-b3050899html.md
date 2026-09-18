@@ -8,6 +8,11 @@ scraped_at: '2026-09-16T04:43:49Z'
 published: '2026-09-16T00:00:00Z'
 description: A Georgia judge has halted an execution scheduled for Wednesday
 image: https://static.independent.co.uk/2026/08/27/16/Georgia_Execution_52918.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
+- Society & Culture
 ---
 
 A Georgia judge has put on hold an execution scheduled for Wednesday, saying the condemned prisoner is entitled to a hearing on whether his sentence should be reduced under a new state law that allows victims of abuse to have their sentences reconsidered.

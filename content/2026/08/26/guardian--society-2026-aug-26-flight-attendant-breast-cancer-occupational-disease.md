@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Sophie Lainault, who worked for Air France, wins legal case linking illness
   to more than 12,600 hours on flights
 image: https://i.guim.co.uk/img/media/6f9ec77e54a208da8018d200a60b928b1162e035/411_0_3827_3061/master/3827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94e81ac18e8bcd04e57c61c839496274
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country’s aviation industry, her lawyer and a trade union said.

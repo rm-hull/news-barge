@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Europe’s royals and global political figures attend ceremony that brings
   13 days of national mourning to a close
 image: https://i.guim.co.uk/img/media/8c21d839a6f46894e4135020469d519d8897dcab/0_51_2907_2326/master/2907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af88002c9239e5d547b98eaf99883f70
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Norway has observed a minute’s silence as it takes leave of King Harald V in a series of ceremonies, bringing to a close 13 days of national mourning that followed the popular monarch’s death last month at the age of 89.

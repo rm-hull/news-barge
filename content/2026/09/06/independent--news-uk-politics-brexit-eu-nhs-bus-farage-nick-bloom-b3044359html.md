@@ -10,6 +10,10 @@ description: 'Exclusive: Nigel Farage is a ‘spectre’ impeding the UK’s rec
   Brexit, which has cost the UK £3,000 per person every year, Professor Nick Bloom
   says'
 image: https://static.independent.co.uk/2026/09/04/15/36/indycompbrexit.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The billions the UK has lost to Brexit could wipe out NHS waiting lists and create a world-class service if recouped, a leading economist has warned.

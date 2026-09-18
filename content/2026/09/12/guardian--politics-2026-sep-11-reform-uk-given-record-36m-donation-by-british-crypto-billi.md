@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Ben Delo was convicted in US for failing to implement adequate anti-money
   laundering controls but pardoned by Trump
 image: https://i.guim.co.uk/img/media/319efaaa8a51b89f1a7c7c8d9f333b4f9a9a3f10/3526_1231_3953_3162/master/3953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=365f3caad23fdfd6135bf06b674cdfb6
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Reform UK has been given a record £36m donation by Ben Delo, a British cryptocurrency billionaire convicted in the US for failing to implement adequate anti-money laundering controls.

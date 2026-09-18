@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: In Egypt, a court sentenced 12 people, including popular TV presenter
   Sarah Khalifa, to death in a major drug manufacturing and trafficking case.
 image: https://images.euronews.com/articles/stories/09/90/32/77/1200x675_cmsv2_d0b7d33f-1e97-59f0-b712-91a48e3e1889-9903277.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## In Egypt, a court sentenced 12 people, including popular TV presenter Sarah Khalifa, to death in a major drug manufacturing and trafficking case.

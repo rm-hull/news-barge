@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: India’s statistical system once commanded respect, and its data on economic
   and social indicators was considered rigorous – that appears to have eroded
 image: https://i.guim.co.uk/img/media/1dfd03951ba95abbf3282dfaa49ef905785af77a/473_0_4722_3779/master/4722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d14f8d1a10dbaedef6ef0501f5fe440
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 There isn’t much that we Indians agree on these days. GDP numbers are no exception. Last week, India released glowing GDP numbers for the latest quarter – 7.8% growth – higher than the forecast 7%. It sparked a furore.

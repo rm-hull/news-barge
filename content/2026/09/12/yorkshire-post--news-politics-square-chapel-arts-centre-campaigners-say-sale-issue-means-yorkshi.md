@@ -9,6 +9,11 @@ description: Campaigners trying to ensure a much-loved arts centre is re-opened 
   the public are concerned its future is not assured if it ends up being sold on the
   open market.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIwYWJhZjczLTMxNDQtNDY4Yi04YzBkLTQxM2FiMzZjMmUwMTo3MjVkOGYxOC1iNzY1LTRlNjgtOWM4MS1iMWM2OWM2ZTQ2NzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Square Chapel Arts Centre: Campaigners say sale issue means Yorkshire arts centre’s future ‘not assured’

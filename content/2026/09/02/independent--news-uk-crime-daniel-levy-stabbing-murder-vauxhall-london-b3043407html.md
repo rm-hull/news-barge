@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:44:40Z'
 published: '2026-09-02T00:00:00Z'
 description: Daniel Levy, 48, changed his plea as his trial was about to open on Wednesday
 image: https://static.independent.co.uk/2026/09/02/11/01M1GW8DHVR0SVEZFGRETARR5J.jpg?trim=329,0,1534,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A convicted killer has admitted stabbing his friend to death over New Year’s Eve before handing himself in to police and telling them: “It’s happened again.”

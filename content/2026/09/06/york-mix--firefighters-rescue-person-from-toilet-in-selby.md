@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T18:15:56Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/03/fire-engine-2025-nyp.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 Firefighters came to the rescue of someone trapped in a loo today (Sunday).

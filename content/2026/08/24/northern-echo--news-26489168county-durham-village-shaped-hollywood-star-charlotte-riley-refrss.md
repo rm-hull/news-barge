@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Long before starring alongside Tom Hardy and Tom Cruise, Charlotte Riley
   was growing up in the Durham village of Grindon.
 image: https://www.thenorthernecho.co.uk/resources/images/21362006.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: IAN WEST / PA)*

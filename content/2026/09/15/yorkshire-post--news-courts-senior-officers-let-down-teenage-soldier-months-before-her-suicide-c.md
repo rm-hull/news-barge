@@ -10,6 +10,11 @@ description: A teenage soldier was “let down” by two officers when she “to
   of them enough to understand that she may have been sexually assaulted” five months
   before she took her own life, prosecutors have told a court martial.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/27/20/v2-image-production-8c90728209bea7a8b009d5f47134248bY29udGVudHNlYXJjaGFwaSwxNzY5ODUxODAy-2.82203624.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Senior officers ‘let down’ teenage soldier months before her suicide, court told

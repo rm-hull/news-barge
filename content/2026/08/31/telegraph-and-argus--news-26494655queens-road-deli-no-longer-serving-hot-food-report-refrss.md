@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A Bradford district deli that received a one-star food hygiene rating
   following an inspection has stopped serving hot food.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370927.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Google Maps / Street View)*

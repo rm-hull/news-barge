@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: On Friday, the U.S. Centers for Disease Control and Prevention said the
   agency is aware of 55 cases nationally, including four people who have been hospitalized
 image: https://static.independent.co.uk/2026/08/21/20/25/iStock-170036089.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 U.S. health officials say a food-poisoning outbreak tied to alfalfa sprouts and involving multiple germs has sickened people in 15 states.

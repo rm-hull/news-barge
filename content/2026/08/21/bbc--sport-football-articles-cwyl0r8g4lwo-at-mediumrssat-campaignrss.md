@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Tottenham agree a deal to sign Manchester City winger Savinho for £75m,
   with a further £10m in potential add-ons.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Savinho in action for Manchester City](https://ichef.bbci.co.uk/ace/standard/981/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg)

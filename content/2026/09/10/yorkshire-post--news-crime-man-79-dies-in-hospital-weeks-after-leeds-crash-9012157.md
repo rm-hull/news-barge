@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A 79-year-old man has died in hospital after suffering life-threatening
   injuries in a crash with a car in Leeds last month.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/10/15/50/Bellbrooke-Avenue-in-Harehills.png?trim=0,34,0,34&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Man, 79, dies in hospital weeks after Leeds crash

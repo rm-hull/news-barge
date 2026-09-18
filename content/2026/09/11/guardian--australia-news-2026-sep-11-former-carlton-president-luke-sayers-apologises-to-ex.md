@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Luke Sayers says he accepts Cate Sayers did not post photo of his genitals
   as she says settlement closes ‘painful and difficult chapter’
 image: https://i.guim.co.uk/img/media/096f55f9a3109cde450bc0f9481fccbc682bb66b/1003_8_5838_4671/master/5838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8bf7510c9aca8d781f8643ff376591b
+categories:
+- UK
+- News & Politics
 ---
 
 The embattled former AFL club president Luke Sayers has apologised to his former wife for the harm he caused as her defamation case over a lewd photo settled.

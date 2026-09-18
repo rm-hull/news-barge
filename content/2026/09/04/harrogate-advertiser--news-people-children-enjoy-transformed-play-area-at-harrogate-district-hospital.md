@@ -10,6 +10,11 @@ description: Children and young people receiving care at Harrogate District Hosp
   are enjoying a newly transformed outdoor play area, offering them a brighter space
   to play, relax and spend time with their families during their hospital stay.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJhNzcyMGYxLTFlYWYtNDczNy04YzFhLTVmODNhNTFmZDQzZTphOGZiN2VmMS0yN2EwLTQyYTQtYmM4NS05MWU3MGE5OGJlYTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
+- Health & Fitness
 ---
 
 # Children enjoy transformed play area at Harrogate District Hospital thanks to hard-working volunteers

@@ -10,6 +10,9 @@ description: Broken oil infrastructure peeks out of Lake Maracaibo, where fisher
   of the country's oil reserves and promises billions, but is seen by many Venezuelans
   as a surrender.
 image: https://static.independent.co.uk/2026/09/03/16/APTOPIX_Venezuela_Oil_19336.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Photos show broken oil infrastructure and blackouts on Venezuela's Lake Maracaibo

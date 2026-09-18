@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The headteacher of a Darlington school has paid tribute to former teacher
   and "wonderful role model" PC Matthew Blades, who was tragically…
 image: https://www.thenorthernecho.co.uk/resources/images/21432560.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: CLEVELAND POLICE)*

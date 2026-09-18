@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T12:00:39Z'
 published: '2026-08-27T00:00:00Z'
 description: More power ports, sharper screens, and Starlink Wi-Fi
 image: https://cdn.mos.cms.futurecdn.net/k2chUC5xqNzoXkxE3VTcLd-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![United Airlines A321XLR](https://cdn.mos.cms.futurecdn.net/k2chUC5xqNzoXkxE3VTcLd.jpg) 

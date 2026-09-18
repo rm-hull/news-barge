@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: A RISING young actor from Bradford is making a name for himself on the
   big screen alongside some of Hollywood’s biggest stars.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397777.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 A RISING young actor is making a name for himself on the big screen alongside some of Hollywood’s biggest stars.

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: While a bunch of sharks cruising the Maine coast may seem ominous, it’s
   actually a sign of a conservation success story.
 image: https://media.wired.com/photos/6a9ec517f56ff571deb2aede/191:100/w_1280,c_limit/GettyImages-1141959253.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Lifeguard Greg Wilfert was swimming off the coast of Scarborough, Maine, in August when he was yanked underwater by a force tugging on his rescue buoy. Wilfert, a lifeguard of 55 years, told local news outlet WFSB that he first thought he’d gotten caught on a boat propeller, but the real culprit was a great white shark.

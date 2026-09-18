@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Miller Homes is launching Deerness Rise in Ushaw Moor, County Durham,
   with a pre-launch event at St Luke’s Church Hall, giving house hunters early…
 image: https://www.thenorthernecho.co.uk/resources/images/21363787.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

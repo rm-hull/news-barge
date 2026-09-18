@@ -10,6 +10,10 @@ description: Three U.S. Secret Service officials have been placed on administrat
   leave , pending the outcome of an investigation by the agency’s professional standards
   office
 image: https://static.independent.co.uk/2026/08/26/03/Freedom_25__IndyCar_Trump_61_96.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 Three Secret Service officials have been placed on administrative leave pending investigation

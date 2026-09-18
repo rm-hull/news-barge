@@ -7,6 +7,9 @@ scraped_at: '2026-09-02T19:23:26Z'
 published: '2026-09-02T00:00:00Z'
 description: Police in Virginia have responded to an emergency at an elementary school
 image: https://static.independent.co.uk/2026/09/02/17/Virginia_School_Emergency_56555.jpg?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Virginia elementary school evacuated as police respond to emergency

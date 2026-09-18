@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Lewis’s Fish Restaurant in Seahouses has closed until further notice
   after a fire at its Main Street premises, although everyone on site escaped…
 image: https://www.thenorthernecho.co.uk/resources/images/21346371.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Google Maps)*

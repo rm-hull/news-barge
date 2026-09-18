@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A recent spate of stark warnings about the dangers of AI has been met
   with scepticism by executives and investors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![A blue  Anthropic logo on a flat surface with blue nobs and dials in the background.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg)

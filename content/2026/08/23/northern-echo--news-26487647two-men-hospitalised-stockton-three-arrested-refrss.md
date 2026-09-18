@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: A contaminated batch of diazepam is believed to have left two men seriously
   ill.
 image: https://www.thenorthernecho.co.uk/resources/images/13871622.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PROVIDED)*

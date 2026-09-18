@@ -9,6 +9,10 @@ description: An Israeli strike killed a family of four in northern Gaza, includi
   two children, hospital officials said on Thursday. The Israeli military said the
   attack killed a militant.
 image: https://images.euronews.com/articles/stories/09/90/94/15/1200x675_cmsv2_b90faa8a-a94f-58fc-b8ef-c025304c733f-9909415.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## An Israeli strike killed a family of four in northern Gaza, including two children, hospital officials said on Thursday. The Israeli military said the attack killed a militant.

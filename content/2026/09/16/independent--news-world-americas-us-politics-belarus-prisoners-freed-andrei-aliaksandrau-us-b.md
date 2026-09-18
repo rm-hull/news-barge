@@ -9,6 +9,9 @@ description: Since Trump returned to the White House for his second term, Lukash
   has released hundreds of political prisoners in a series of U.S.-mediated deals
   that also lifted some U.S. sanctions
 image: https://static.independent.co.uk/2026/09/16/14/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Belarusian authorities have agreed to release 25 prisoners following a deal that sees the United States remove sanctions against two Belarusian firms, according to Washington’s special envoy.

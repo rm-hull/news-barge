@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: Erin Piacenti, 32, was one of two people stabbed Monday in the tourist
   and theater hub
 image: https://static.the-independent.com/2026/09/01/19/2292420759..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Arts & Culture
+- History
 ---
 
 A Bank of America executive was killed in a “random and unprovoked” stabbing in New York City’s busy Times Square.

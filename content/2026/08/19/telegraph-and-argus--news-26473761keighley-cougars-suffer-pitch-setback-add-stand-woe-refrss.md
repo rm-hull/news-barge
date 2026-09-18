@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: KEIGHLEY Cougars have been left frustrated by a double blow to works
   at their ground.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20517180.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Shaun Harrison)*

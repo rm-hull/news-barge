@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Amid the U.S. war with Iran, some government officials have turned to
   QAnon for inspiration
 image: https://static.independent.co.uk/2026/08/26/16/03/GettyImages-1228658993.jpg?trim=1205,1812,110,162&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 On Election Day in 2024, as voters cast their ballots, Elon Musk posted a campaign music video supporting Donald Trump’s bid for president.

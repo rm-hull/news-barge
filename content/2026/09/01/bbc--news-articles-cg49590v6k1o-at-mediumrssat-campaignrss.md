@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Major efforts to rescue hydropower workers continue as Nepal's death
   toll exceeds 1,000.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e90/live/d5de0800-a618-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Pemba Dundu Tamang tells the BBC how he discovered some of his colleagues were missing after he escaped a flooded tunnel

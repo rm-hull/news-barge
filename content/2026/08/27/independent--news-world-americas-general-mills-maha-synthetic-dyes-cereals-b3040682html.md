@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The Department of Health and Human Services announced a push to remove
   all synthetic dyes from U.S. products in 2025
 image: https://static.independent.co.uk/2026/08/26/19/02/AP9848957630510387.jpg?trim=34,0,34,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Food giant General Mills announced that all of its U.S. cereals will now be made without synthetic dyes.

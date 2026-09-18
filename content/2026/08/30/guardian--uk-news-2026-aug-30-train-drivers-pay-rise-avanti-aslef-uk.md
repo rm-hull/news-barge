@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Deal agreed between Avanti West Coast and Aslef is first to be approved
   by Burnham government
 image: https://i.guim.co.uk/img/media/9d5fed4434af86f9679b3a2c7fe22edbc2fa3678/463_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccc94858070a11c1a3c9f350c83d7b97
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Train drivers have secured a significant pay rise after the threat of strike action was floated on busy routes across the UK, including on the busy London-Manchester line.

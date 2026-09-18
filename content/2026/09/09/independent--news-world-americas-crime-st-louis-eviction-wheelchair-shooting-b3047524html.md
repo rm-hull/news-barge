@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Court records and apartment surveillance footage corroborate the tenant's
   account of backing away from the armed intruder during the confrontation
 image: https://static.the-independent.com/2026/09/09/20/37/GettyImages-479662816.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A St. Louis resident who uses a wheelchair faces immediate eviction following a lobby shooting that police classified as an act of self-defense against an armed intruder.

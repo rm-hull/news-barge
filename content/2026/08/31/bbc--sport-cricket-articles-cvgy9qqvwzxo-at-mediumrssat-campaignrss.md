@@ -10,6 +10,10 @@ description: Pakistan respond to their series defeat by England by taking the ex
   step of dropping seven players, calling up five uncapped players and releasing their
   head coach.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f797/live/36215280-a556-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Pakistan wait to take the field at Lord's](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/f797/live/36215280-a556-11f1-9acf-19576105f049.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: The Scarborough vegan baker Freya Cox is ‘excited’ to watch her idol
   Nigella Lawson as a judge on the new series of the Great British Bake Off.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ3YjE2NDMwLWY0NGUtNGZmYi05NjYwLWFhMTdjMDgxOTU4NTo2NWFiYmZjMi1lYzBlLTQ4MDUtYTYyZS1iNjE0NzU0ZTlkZWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # Freya Cox: ‘I’m excited to see what new dynamics are with Nigella Lawson as a judge on new Great British Bake Off series’

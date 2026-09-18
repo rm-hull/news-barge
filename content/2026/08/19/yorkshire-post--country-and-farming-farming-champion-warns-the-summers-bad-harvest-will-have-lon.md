@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Bad harvests during hotter summer months will have a knock on effect
   for farmers, Doncaster’s new farming and nature recovery champion has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg5NzAxN2JlLTQ3NTctNDM5My1hYWQ2LTYwNDQ4Y2YwZmU5YjoxNWU0OWMzOS1jZThhLTQxZjUtOWZjMS1hMTMzZjNiOGU4MmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Farming champion warns the summer’s ‘bad harvest’ will have longer-term impact

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A busy road has been shut in both directions after a sewer collapsed
   - with diversions now in place.
 image: https://www.thenorthernecho.co.uk/resources/images/21333104.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

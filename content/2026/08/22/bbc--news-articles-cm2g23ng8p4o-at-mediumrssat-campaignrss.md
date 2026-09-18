@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Erik Slavin believes he was fired for saying in an interview that "in
   a hypothetical situation, censorship would be a red line".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Stars and Stripes editor Erik Slavin speaks to the BBC after his dismissal

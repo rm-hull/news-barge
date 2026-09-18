@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Travel expenses, insurances, decorations and accommodation might all
   have to be paid for in a quick space of time – as well as food and gifts
 image: https://static.independent.co.uk/2025/10/24/11/24/iStock-2185925402.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The cost of Christmas for an average family in the UK is set to hit a massive £1,681 – up more than £100 on two years ago, new research suggests.

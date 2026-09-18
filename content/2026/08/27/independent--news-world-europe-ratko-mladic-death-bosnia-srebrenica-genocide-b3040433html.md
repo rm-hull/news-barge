@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Mladic was sentenced to life in prison in 2017 for war crimes committed
   during the wars in Yugoslavia during the 1990s
 image: https://static.independent.co.uk/2026/08/27/14/2026-08-27T125029Z_1237156088_RC207NAT4O8A_RTRMADP_3_PEOPLE-RATKO-MLADIC.JPG?trim=197,0,197,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
+- True Crime
 ---
 
 Ratko Mladic, the Bosnian Serb general who directed atrocities across Bosnia during the 1990s, has died in prison aged 84, according to Serbian state broadcaster RTS and official Bosnian Serb television.

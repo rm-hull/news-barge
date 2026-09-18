@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A stretch of the A1(M) near Scotch Corner is currently closed after a
   vehicle fire. There are currently delays of around 80 minutes, as traffic is…
 image: https://www.thenorthernecho.co.uk/resources/images/20352968.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 ## Our live feed has now finished.

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Firefighters were called to tackle a blaze behind a former pub which
   has been closed for years.
 image: https://www.thenorthernecho.co.uk/resources/images/21434131.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 *(Image: GOOGLE MAPS)*

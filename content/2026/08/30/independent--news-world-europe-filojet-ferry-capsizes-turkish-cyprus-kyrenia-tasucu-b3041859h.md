@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Rescue operation launched as vessel carrying almost 270 passengers and
   crew sinks off Kyrenia
 image: https://static.independent.co.uk/2026/08/30/20/2292211881..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 At least eight people drowned and 17 were missing after a ferry carrying almost 270 passengers and crew capsized off northern Cyprus on Sunday, leaving survivors clinging to its overturned hull.

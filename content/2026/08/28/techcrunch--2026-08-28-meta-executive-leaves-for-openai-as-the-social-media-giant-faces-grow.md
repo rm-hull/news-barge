@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Sandhya Devanathan will oversee some OpenAI operations across Southeast
   Asia and Australia in her new role.
 image: https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024
+categories:
+- Technology & Software
 ---
 
 Meta’s India and Southeast Asia vice president, Sandhya Devanathan, is leaving the social media giant to join OpenAI, the ChatGPT maker told TechCrunch.

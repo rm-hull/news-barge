@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Pedro Sánchez continues to defend Rabat after police report claiming
   border forces helped 70,000 cross border
 image: https://i.guim.co.uk/img/media/be4269b2ddb583217b97a8b9039e26613d47630f/706_0_4809_3847/master/4809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca3d78412f7d58bdedde7a4f543215a3
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Major hyperscalers such as OpenAI, Amazon, and Google are developing
   or scouting this chilly region of Argentina.
 image: https://cdn.mos.cms.futurecdn.net/nUpyNwzPkHqN2qGA9RkcwR-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Patagonia](https://cdn.mos.cms.futurecdn.net/nUpyNwzPkHqN2qGA9RkcwR.jpg) 

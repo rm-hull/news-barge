@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Three Americans have the chance to become the first home US Open men's
   champion since 2003. But Carlos Alcaraz stands in the way.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cf79/live/bd2f3300-ab4b-11f1-8e27-d7d44e0117ca.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ben Shelton and Carlos Alcaraz hug after their 2025 French Open match](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cf79/live/bd2f3300-ab4b-11f1-8e27-d7d44e0117ca.jpg)

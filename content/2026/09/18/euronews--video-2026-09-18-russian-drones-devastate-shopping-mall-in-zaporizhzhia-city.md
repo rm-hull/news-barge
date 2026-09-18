@@ -9,6 +9,10 @@ description: Video. A Russian strike has hit a shopping complex in Zaporizhzhia,
   one person and sparking a fire that spread across more than 10,000 square metres,
   according to Ukraine’s State Emergency Service.
 image: https://images.euronews.com/articles/stories/09/91/86/18/1200x675_cmsv2_e688f01e-807e-5508-817f-ad0ed877a1d4-9918618.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 The **Amstor shopping mall**, on the city’s right bank, was struck by Russian drones late on Thursday, 17 September. Emergency service footage showed firefighters battling flames across the complex, which Ukraine's State Emergency Service later described as***“practically destroyed”***. Rescue operations were completed on Friday morning.

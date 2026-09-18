@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Mark Carney accused Trump of wanting to "destroy" Canada's auto industry,
   and said he would only resume trade talks if the US comes with the "right attitude".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Watch: "Absolutely ridiculous": Canadians react to new tariff tensions with the US

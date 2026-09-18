@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Two pedestrians have died and four other people were seriously injured
   following a multiple-vehicle crash in Doncaster.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/15/9/27/White-Rose-Way-Doncaster.png?trim=0,41,0,40&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Two pedestrians die after car hits group of four in Doncaster as driver arrested

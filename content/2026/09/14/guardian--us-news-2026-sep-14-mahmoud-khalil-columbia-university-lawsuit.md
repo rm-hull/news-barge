@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Lawsuit accuses university of ‘deliberate indifference’ and failure to
   respond to ‘persistent and coordinated harassment’
 image: https://i.guim.co.uk/img/media/364708009d23111f4233ee4758a5a7db11e1089a/229_0_2280_1825/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b53f4e748db803073094eb25c803a7
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Mahmoud Khalil announced on Monday that he’s sued Columbia University, accusing the New York City school he attended of a years-long history of anti-Palestinian discrimination, indifference to harassment, and retaliation.

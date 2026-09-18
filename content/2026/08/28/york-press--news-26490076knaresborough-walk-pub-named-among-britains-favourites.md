@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: The Knaresborough circular walk takes you throughout the countryside
   and ends back in the market town.
 image: https://www.yorkpress.co.uk/resources/images/21363369.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- History
 ---
 
 *(Image: Getty)*

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Most Republicans are staying away from Trump’s confab in Texas. But,
   Eric Garcia writes, one man desperately needs Trump
 image: https://static.independent.co.uk/2026/08/10/15/2289118649..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 On Wednesday, President Donald Trump and Republicans will descend upon Dallas, Texas for the Republican midterm election convention. That’s right, *midterm* convention — it’s OK, that’s a phrasing that naturally draws a double take.

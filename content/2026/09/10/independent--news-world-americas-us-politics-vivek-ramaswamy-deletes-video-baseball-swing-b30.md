@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: One commenter said it looked as though the Republican had never ‘held
   a bat’ in his life
 image: https://static.independent.co.uk/2026/09/10/21/08/Screenshot-2026-09-10-at-4-57-23-PM.png?trim=5,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Ohio governor hopeful Vivek Ramaswamy has deleted a video of himself swinging a baseball bat at a batting cage after he was mocked online for his form.

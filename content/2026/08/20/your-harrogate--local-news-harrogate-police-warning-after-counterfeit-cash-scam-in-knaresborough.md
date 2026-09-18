@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Police are warning people selling items online to be vigilant following
   a counterfeit cash scam in Knaresborough.
 image: https://mmo.aiircdn.com/409/6a871072317adeb56e3.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
+- Technology & Software
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a871072317adeb56e3.jpg) 

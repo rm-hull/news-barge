@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The ballot for the 2027 Great North Run is now open, with entries open
   until midnight on Sunday, September 20.
 image: https://www.yorkpress.co.uk/resources/images/21411112.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: AJBell)*

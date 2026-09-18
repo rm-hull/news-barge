@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T13:29:53Z'
 published: '2026-09-15T00:00:00Z'
 description: Time to upgrade your desk game
 image: https://cdn.mos.cms.futurecdn.net/4K5GpNgS9pPEnCjarNy6Vj-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Home, Garden & DIY
 ---
 
 ![A selection of luxurious desk items on a dark wood desk](https://cdn.mos.cms.futurecdn.net/4K5GpNgS9pPEnCjarNy6Vj.jpg) 

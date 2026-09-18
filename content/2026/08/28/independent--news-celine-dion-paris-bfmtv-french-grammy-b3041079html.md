@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Celine Dion has arrived in Paris for her first concerts since revealing
   her stiff-person syndrome diagnosis
 image: https://static.independent.co.uk/2026/08/28/15/France_Celine_Dion_543_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Music
 ---
 
 Celine Dion blew kisses and made a love-heart shape with her hands as she swept into Paris on Friday for her first series of concerts since revealing her diagnosis with stiff-person syndrome.

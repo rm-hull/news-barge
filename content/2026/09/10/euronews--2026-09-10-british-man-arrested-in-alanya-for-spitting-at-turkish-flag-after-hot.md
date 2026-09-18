@@ -9,6 +9,10 @@ description: A 58-year-old British tourist has been arrested in the resort town 
   Alanya on Turkey's central Mediterranean coast, accused of spitting on a Turkish
   flag and charged with insulting a state symbol.
 image: https://images.euronews.com/articles/stories/09/90/77/54/1200x675_cmsv2_62148fa6-d01c-5143-a002-794dc887bb29-9907754.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## A 58-year-old British tourist has been arrested in the resort town of Alanya on Turkey's central Mediterranean coast, accused of spitting on a Turkish flag and charged with insulting a state symbol.

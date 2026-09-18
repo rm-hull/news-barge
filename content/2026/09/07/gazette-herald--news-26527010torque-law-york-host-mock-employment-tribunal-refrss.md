@@ -8,6 +8,13 @@ published: '2026-09-07T00:00:00Z'
 description: A mock employment tribunal will take place in York in October to help
   businesses understand future workplace law.
 image: https://www.gazetteherald.co.uk/resources/images/21418262.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
+- Law & Justice
 ---
 
 *(Image: Pic supplied)*

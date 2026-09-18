@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: 'Exclusive: Strauss pitied former Conservative PM Rishi Sunak after cricketer’s
   failed attempt to rally Tory MPs behind him before election defeat, new book reveals'
 image: https://static.independent.co.uk/2024/12/29/16/21274328eefcb9953f254db6006bde8bY29udGVudHNlYXJjaGFwaSwxNzI4MTQxNzA5-2.76744384.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former England cricket captain Sir Andrew Strauss made scathing comments about the lack of loyalty of Tory MPs to Rishi Sunak in the run up to his general election defeat in 2024.

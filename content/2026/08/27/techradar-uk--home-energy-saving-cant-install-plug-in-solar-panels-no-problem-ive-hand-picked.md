@@ -8,6 +8,9 @@ scraped_at: '2026-08-27T22:13:12Z'
 published: '2026-08-27T00:00:00Z'
 description: Plug-in solar isn't right for every home, but these are
 image: https://cdn.mos.cms.futurecdn.net/Qr3MFtoyweMUHXpkmRFf65-2560-80.jpg
+categories:
+- Technology & Software
+- Home, Garden & DIY
 ---
 
 ![Collection of solar-powered products including lights and security systems, in magazine-style layout with plinths](https://cdn.mos.cms.futurecdn.net/Qr3MFtoyweMUHXpkmRFf65.jpg) 

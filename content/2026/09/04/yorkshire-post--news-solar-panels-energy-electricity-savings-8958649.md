@@ -9,6 +9,11 @@ description: Households in Great Britain can now plug approved solar systems dir
   into a socket, although the bargain-priced revolution may need a little longer to
   arrive.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/20/13/18/ChatGPT-Image-Jul-20-2026-02_53_59-PM.png?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Best UK plug-in solar kits as prices start from £349.99

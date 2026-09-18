@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Singapore's ministers, already among the world's highest paid government
   officials, are getting a raise for the first time in 15 years
 image: https://static.independent.co.uk/2026/09/08/12/Singapore_Political_Salary_87646.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 Singapore’s ministers, already among the world's highest paid, are getting a raise for the first time in 15 years, Prime Minister Lawrence Wong said, explaining the government cannot attract top talent into politics if salaries remain unchanged.

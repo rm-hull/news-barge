@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: William Frances Silvia shot dead his former partner Patricia Silvia,
   and injured her mother, Betty Woodard
 image: https://static.the-independent.com/2026/08/18/5/50/Screenshot-2026-08-18-at-06-28-24.png?trim=13,0,14,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A man who killed his estranged wife and wounded his mother-in-law in a shooting will be executed on Tuesday, marking Florida’s aggressive use of the death penalty in Republican Gov. Ron DeSantis ' final term.

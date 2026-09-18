@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Sunderland’s seafront Little Libraries let visitors borrow and exchange
   books at four coastal locations across the city, promoting reading for…
 image: https://www.thenorthernecho.co.uk/resources/images/21425966.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Books & Literature
 ---
 
 *(Image: Provided)*

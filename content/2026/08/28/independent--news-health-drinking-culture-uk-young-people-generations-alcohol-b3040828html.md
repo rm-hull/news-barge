@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:21Z'
 published: '2026-08-28T00:00:00Z'
 description: A quarter of people in one age group reported drinking every day
 image: https://static.independent.co.uk/2025/09/17/21/12/iStock-490304270.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Regular drinking may soon be a thing of the past, new research suggests, as it finds that younger people have a very different relationship to alcohol than the generations before them.

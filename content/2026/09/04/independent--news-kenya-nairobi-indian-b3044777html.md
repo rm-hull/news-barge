@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: Kenya's President William Ruto has directed Tata Chemicals to leave the
   country, accusing the company of failing to generate economic impact
 image: https://static.independent.co.uk/2026/09/04/13/Kenya_Tata_Chemicals_32834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Kenya's President William Ruto on Friday directed Tata Chemicals to leave the country, saying the Indian company failed to generate any economic impact in one of Kenya's most important export sectors.

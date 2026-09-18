@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Six cyclists from Harrogate are heading to France this month to represent
   the town in one of the Pyrenees' biggest cycling events.
 image: https://mmo.aiircdn.com/409/6a9e77121d017bd6153.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- History
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9e77121d017bd6153.jpg) 

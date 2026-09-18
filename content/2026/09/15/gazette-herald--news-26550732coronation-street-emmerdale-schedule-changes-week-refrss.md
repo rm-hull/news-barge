@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Soap fans face another week of schedule changes on ITV as Emmerdale and
   Coronation Street are bumped from their usual slots on Wednesday (September…
 image: https://www.gazetteherald.co.uk/resources/images/20414202.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: ITV)*

@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T16:48:28Z'
 published: '2026-08-21T00:00:00Z'
 description: All you need to do is sign up and make an account.
 image: https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Tom's Hardware Premium Logo on background of GPUs on a table](https://cdn.mos.cms.futurecdn.net/VpbztxtxFKZCPaetywvDsH.jpg) 

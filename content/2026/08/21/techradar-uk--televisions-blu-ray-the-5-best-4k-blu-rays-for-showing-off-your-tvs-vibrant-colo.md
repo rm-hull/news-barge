@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: 4K Blu-ray is excellent for showing off a TV's colors, and these are
   5 of the best discs I've tested as part of the Blu-ray Bounty.
 image: https://cdn.mos.cms.futurecdn.net/y7XjEvfTRXgjP8eTVjDZoM-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The Super Mario Galaxy Movie 4K Blu-ray on the LG G6 showing Peach and Mario talking, with Peach looking frustrated](https://cdn.mos.cms.futurecdn.net/y7XjEvfTRXgjP8eTVjDZoM.jpg) 

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: I spoke to Tara Robertson from Bitly to get her insight into how marketers
   can better use their data
 image: https://cdn.mos.cms.futurecdn.net/LjxsVU9NWyXk8CLpYGBwn5-1920-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Headshot of Tara Robertson, Bitly’s Chief Marketing Officer on a purple background](https://cdn.mos.cms.futurecdn.net/LjxsVU9NWyXk8CLpYGBwn5.png) 

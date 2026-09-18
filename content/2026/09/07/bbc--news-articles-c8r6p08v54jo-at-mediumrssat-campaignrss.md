@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Phillip Ormerod was taken to hospital in critical condition and later
   died.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd35/live/ae3236a0-aacd-11f1-9f87-35997bdaf8f4.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A man smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/dd35/live/ae3236a0-aacd-11f1-9f87-35997bdaf8f4.jpg)

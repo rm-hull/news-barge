@@ -9,6 +9,10 @@ scraped_at: '2026-08-31T16:08:29Z'
 published: '2026-08-31T00:00:00Z'
 description: A net loss.
 image: https://cdn.mos.cms.futurecdn.net/5kwusaMihCGAETxiT5pkRV-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![Robot Vacuum](https://cdn.mos.cms.futurecdn.net/5kwusaMihCGAETxiT5pkRV.jpg) 

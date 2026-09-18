@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Research shows tens of millions of people are being forced to use platform
   that amounts to ‘backdoor’ on their device
 image: https://i.guim.co.uk/img/media/95dd18da1ae4e8f1270ed80fd88a01fc74cdf9cd/869_0_5933_4747/master/5933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e5bd8d81a577302f41e794a6ff124f8
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Over the past 18 months, tens of millions of Russians have been forced to install a new app on their phones – a violet-blue button designed for messaging and payments, called Max.

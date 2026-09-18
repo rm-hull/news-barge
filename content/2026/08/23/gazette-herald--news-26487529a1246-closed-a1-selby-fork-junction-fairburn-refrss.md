@@ -8,6 +8,12 @@ published: '2026-08-23T00:00:00Z'
 description: Police are urging motorists to avoid the A1246 Great North Road near
   the Selby Fork Interchange on the A1.
 image: https://www.gazetteherald.co.uk/resources/images/16792805.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Automotive
 ---
 
 *(Image: Cheshire Police)*

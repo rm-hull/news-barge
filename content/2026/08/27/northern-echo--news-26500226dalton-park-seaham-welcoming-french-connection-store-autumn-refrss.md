@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: French Connection is set to join Dalton Park this autumn, with shoppers
   able to enter a competition to win a £500 gift voucher for the new outlet…
 image: https://www.thenorthernecho.co.uk/resources/images/21378494.jpg?type=og-image&xType=0&yType=359
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 French Connection is opening a new outlet store in the North East this autumn.

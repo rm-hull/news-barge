@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:34Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a19-near-south-kilvington-north-yorkshire-gsv.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Emergency services were called to a crash on the A19 in North Yorkshire early this morning (Tuesday).

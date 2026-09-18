@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the
   WBA welterweight title then seemingly snubs number one challenger Jack Catterall.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Rolly Romero is punched in the face by Teofimo Lopez](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg)

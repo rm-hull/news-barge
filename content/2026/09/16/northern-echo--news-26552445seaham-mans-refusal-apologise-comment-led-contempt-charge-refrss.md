@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A County Durham defendant who insulted a judge and refused to apologise
   was jailed for an extra two months for contempt of court.
 image: https://www.thenorthernecho.co.uk/resources/images/21458566.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Durham Constabulary)*

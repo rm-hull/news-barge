@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Latest figures from NHS England show only 68.8 per cent of eligible women
   are up to date with cervical screening
 image: https://static.independent.co.uk/2025/06/24/00/23123236-5c804791-935f-4e4d-b2c3-9507d010a32b.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Millions of women in the UK who have missed cervical screening appointments will now be offered free at-home self-testing kits on the NHS.

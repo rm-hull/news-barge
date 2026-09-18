@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Irwin’s family have remembered the world-renowned conservationist and
   have described him as a real-life ‘superhero’
 image: https://static.the-independent.com/2026/09/04/09/1129399..?trim=0,42,0,42&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Two decades on from the sudden death of Steve Irwin, his widow Terri and children Bindi and Robert have paid tribute to the "superhero" conservationist.

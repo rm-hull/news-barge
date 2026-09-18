@@ -9,6 +9,10 @@ description: Bulgarian authorities launched investigations into an explosion at 
   weapons storage site in central Bulgaria overnight, which came in the wake of another
   blaze at a munitions depot in recent weeks, raising fears of sabotage
 image: https://static.independent.co.uk/2026/09/12/14/Bulgaria_Arms_Depot_Fire_79844.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Bulgarian authorities have launched investigations into an explosion at a weapons storage site in central Bulgaria overnight that came in the wake of another blaze at a munitions depot in recent weeks.

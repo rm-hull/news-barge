@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: HUNDREDS enjoyed a Country music festival at the Yorkshire Heart Vineyard
   and Brewery at Nun Monkton, west of York.
 image: https://www.yorkpress.co.uk/resources/images/21333454.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
 ---
 
 ## Hundreds enjoy country music festival at vineyard near York

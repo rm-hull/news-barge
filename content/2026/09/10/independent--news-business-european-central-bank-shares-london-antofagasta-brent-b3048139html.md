@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:07:09Z'
 published: '2026-09-10T00:00:00Z'
 description: Brent oil was quoted at 105.51 dollars a barrel.
 image: https://static.independent.co.uk/2026/09/10/17/00344ae57c0f26541c4af35f9d013cb0Y29udGVudHNlYXJjaGFwaSwxNzg5MTQzMzE4-2.84117078.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Stock prices in London closed lower on Thursday, as oil prices surged above 105 dollars and hotter-than-expected US producer inflation fuelled concerns, while the European Central Bank raised interest rates as expected.

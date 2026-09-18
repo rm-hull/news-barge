@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:06Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/bear-and-the-band.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A remarkable piece of York history is being brought back to life.

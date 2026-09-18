@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T14:59:23Z'
 published: '2026-09-14T00:00:00Z'
 description: It's now being asked to pay a humongous ransom demand
 image: https://cdn.mos.cms.futurecdn.net/Ji9MEgBv83riosWJLaNZGB-900-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An outstretched hand holds a smartphone displaying the Revolut app](https://cdn.mos.cms.futurecdn.net/Ji9MEgBv83riosWJLaNZGB.jpg) 

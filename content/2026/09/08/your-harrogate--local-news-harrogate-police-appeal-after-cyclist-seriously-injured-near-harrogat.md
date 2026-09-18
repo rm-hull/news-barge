@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Police are appealing for witnesses and dashcam footage after a cyclist
   was seriously injured in the Harrogate area.
 image: https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/66bdda1c36f5f.jpg) 

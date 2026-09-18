@@ -10,6 +10,11 @@ description: Video. Around a dozen Israeli activists gathered outside European U
   representative offices in east Jerusalem on 28 August, calling on the bloc to take
   a stronger position on the war in Gaza.
 image: https://images.euronews.com/articles/stories/09/89/30/26/1200x675_cmsv2_89d6db3d-4a43-5daf-8a6c-d52e7e519327-9893026.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Around a dozen Israeli activists gathered outside European Union representative offices in east Jerusalem on 28 August, calling on the bloc to take a stronger position on the war in Gaza.

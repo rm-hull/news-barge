@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A wall stands demolished at a property on Steele Crescent, in South Bank,
   Middlesbrough, this morning following an overnight incident.
 image: https://www.thenorthernecho.co.uk/resources/images/21377861.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A garden wall has been smashed at a property in South Bank, just streets away from the devastating blaze which killed a child and her aunt.

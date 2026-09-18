@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The WSL is back and there are plenty of new faces, including a two-time
   Ballon d'Or Feminin winner
 image: https://cdn.mos.cms.futurecdn.net/M9s4hdBeQpAe9oiumoUFcc-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
+- Video Gaming
 ---
 
 ![Manchester City celebrate lifting the trophy after the Barclays Women's Super League match against West Ham United at Chigwell Construction Stadium on May 16, 2026 in Dagenham, England](https://cdn.mos.cms.futurecdn.net/M9s4hdBeQpAe9oiumoUFcc.jpg) 

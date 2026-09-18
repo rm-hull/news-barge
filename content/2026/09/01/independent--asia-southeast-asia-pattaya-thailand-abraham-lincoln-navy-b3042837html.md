@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Thousands of US sailors set to descend on a city with international reputation
   for sex tourism
 image: https://static.independent.co.uk/2026/09/01/15/2026-09-01T144154Z_1541240766_RC2EANAV1JSR_RTRMADP_3_IRAN-CRISIS-THAILAND-USA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 After a long deployment in the Middle East, a US navy aircraft carrier is set to dock in Thailand’s infamous resort city of Pattaya, triggering a hasty crackdown on prostitution.

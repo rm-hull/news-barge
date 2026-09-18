@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Rockstar Games is being held for ransom again after a leaker reveals
   GTA 6 gameplay and threatens to continue if demands aren't met.
 image: https://cdn.mos.cms.futurecdn.net/AesQG7K8CckccV3bwGhhH8-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/AesQG7K8CckccV3bwGhhH8.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Bank of England’s Monetary Policy Committee voted 6-3 to maintain
   bank rate at 3.75%, repeating July’s split.
 image: https://static.independent.co.uk/2026/09/17/17/a0db925caba0e05a87b7299d235ee5fcY29udGVudHNlYXJjaGFwaSwxNzg5NzQ0NjAx-2.71822086.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Stocks in London rose sharply on Thursday, boosted by falling bond yields and a lower oil price, as investors weighed a “hawkish” hold by the Bank of England.

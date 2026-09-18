@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A North East teenager has been sentenced for raping two girls in 2023
   and 2024.
 image: https://www.thenorthernecho.co.uk/resources/images/21342647.jpg?type=og-image&xType=0&yType=88
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: CLEVELAND POLICE)*

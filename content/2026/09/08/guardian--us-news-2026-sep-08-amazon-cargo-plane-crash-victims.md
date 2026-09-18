@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The victims, employees of an aircraft cleaning company, were in a van
   when the plane crashed into it
 image: https://i.guim.co.uk/img/media/166f3ef8cfeb7e218246406ba0becfbdcb30a850/961_1095_1868_1494/master/1868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d688c1e829e6d48d951dc3f006349bb8
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Officials in Florida on Tuesday identified the five people killed in Saturday’s Amazon cargo plane crash at Miami international airport – and said two more remained hospitalized in critical condition.

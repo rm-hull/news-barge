@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Seoul says South Korea, the U.S. and Japan will go ahead with a trilateral
   military drill next month to better deal with North Korean nuclear threats
 image: https://static.independent.co.uk/2026/08/28/04/Koreas_Tensions_67147.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 South Korea, the U.S. and Japan will go ahead with a trilateral military drill next month to better deal with North Korean nuclear threats, officials in Seoul said Friday, a day after North Korea vowed to retaliate against what it called U.S. hostilities.

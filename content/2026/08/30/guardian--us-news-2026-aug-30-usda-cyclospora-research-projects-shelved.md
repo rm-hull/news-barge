@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Trump officials shuttering three projects on foodborne parasite, two
   defunded by Congress, Politico reports
 image: https://i.guim.co.uk/img/media/8a6c8a8c89962437aa13c2b0cc9feb86886f49fd/731_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a01fdf79cc857acbe3499fd2d0be3950
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The Trump administration is shuttering two of the three US Department of Agriculture research projects studying cyclospora after the foodborne parasite has sickened tens of thousands of Americans during the summer, Politico reported on Sunday.

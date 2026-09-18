@@ -9,6 +9,10 @@ description: After a wave of threats and doxing aimed at volunteers wrongly link
   to Channel rescues, one RNLI family says the abuse changes nothing – and Independent
   readers are backing them
 image: https://static.independent.co.uk/2026/09/17/15/09/Engagement-overlays-2026-09-17T163142-953.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 RNLI volunteers– and their families – have spent the past fortnight facing threats, doxing and online abuse after false claims linked the charity to Channel rescues, following anti-migrant protests in Dover and Portsmouth.

@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The Chilean jack mackerel is of lower nutritional value and is imported
   from South America
 image: https://static.independent.co.uk/2026/09/11/10/2250587656..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Tins of mackerel sold in many of the UK’s major supermarkets no longer contain any mackerel, it has emerged, as a result of overfishing concerns.

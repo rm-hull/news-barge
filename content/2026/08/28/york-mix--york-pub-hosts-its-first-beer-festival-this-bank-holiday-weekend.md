@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:14:25Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/waggonfest-2026.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Cheers! There’s a new beer festival in town.

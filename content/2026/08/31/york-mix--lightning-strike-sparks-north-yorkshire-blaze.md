@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T16:08:41Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/barns-fire-kirby-misperton-30-august-2026-max-downing.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 This was the scene last night after a lightning strike set two barns on fire.

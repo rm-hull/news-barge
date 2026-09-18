@@ -8,6 +8,13 @@ published: '2026-08-19T00:00:00Z'
 description: A person has died and hundreds of people have been affected by a food
   poisoning outbreak in the UK, health officials have said.
 image: https://www.gazetteherald.co.uk/resources/images/20912904.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Pxhere)*

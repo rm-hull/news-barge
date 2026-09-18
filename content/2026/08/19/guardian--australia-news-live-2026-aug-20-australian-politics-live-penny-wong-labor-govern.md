@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T21:31:36Z'
 published: '2026-08-19T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/e1bae47405ce5efb2d9e0a305a6725c13c98b8d4/962_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=47080b472de0bee8a6e0b3142216ed6b
+categories:
+- UK
+- News & Politics
 ---
 
 Australian politics live: Penny Wong says government ‘outraged’ and will call in Israel ambassador over IDF decision not to investigate Frankcom killing

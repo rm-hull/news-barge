@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: The company has shifted from making van-life builds to custom outfitting
   vehicles for small businesses, all while the EV landscape in the U.S. changed dramatically.
 image: https://techcrunch.com/wp-content/uploads/2026/08/DSC07113B.jpg?resize=1200,686
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Detroit-based Grounded has had to be flexible since it was founded in 2022.

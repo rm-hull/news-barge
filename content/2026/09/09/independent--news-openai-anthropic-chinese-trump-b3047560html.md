@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: An Anthropic researcher is resigning over concerns about irresponsible
   development of artificial intelligence
 image: https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Technology & Software
 ---
 
 An Anthropic researcher said he is resigning from the company over concerns the artificial intelligence firm and its competitors are not acting responsibly in AI development, echoing concerns raised inside and outside of the industry about the technology's potential to elude human control.

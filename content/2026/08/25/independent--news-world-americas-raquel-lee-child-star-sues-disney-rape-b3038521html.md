@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: ‘Mr. Doe’s sexual abuse of Ms Bolleau was apparent to the adults on Disney’s
   set,’ the lawsuit claims
 image: https://static.independent.co.uk/2026/08/24/21/1246375834..?trim=51,0,51,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Raquel Lee Bolleau, who began her career in Hollywood as a child actor on shows like *The Amanda Show* and*The Proud Family*, is suing Disney, alleging that a former employee raped her in 2001 while she was working on the film* The Poof Point*. 

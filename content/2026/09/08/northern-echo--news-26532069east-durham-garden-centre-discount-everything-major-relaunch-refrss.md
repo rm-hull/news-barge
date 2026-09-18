@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Shoppers at East Durham Garden Centre can get 10 per cent off everything
   this weekend as part of a major relaunch.
 image: https://www.thenorthernecho.co.uk/resources/images/20280912.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: TRIPADVISOR)*

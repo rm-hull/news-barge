@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:31:40Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/03/fish-and-chips-2026-dreamstime.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 More than one customer described it as ‘the best chippy in York’.

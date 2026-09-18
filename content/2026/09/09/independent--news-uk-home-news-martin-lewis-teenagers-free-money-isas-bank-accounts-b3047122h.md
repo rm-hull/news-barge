@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Money Saving Expert’s Martin Lewis has urged parents to look at high
   interest savings accounts and Junior ISAs
 image: https://static.independent.co.uk/2026/07/13/04/01KXAK86PD5CTPPN60A6E8RVAX.jpg?trim=0,91,0,91&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Teenagers could get £50 for free if they switch to a different bank account, according to Money Saving Expert’s Martin Lewis.

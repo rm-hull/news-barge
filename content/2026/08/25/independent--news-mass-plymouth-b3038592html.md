@@ -9,6 +9,10 @@ description: After nearly a month of testimony, jurors in the Lindsay Clancy mur
   trial are set to hear from the final witnesses in a case that has largely been about
   her mental state when she strangled her three young children
 image: https://static.independent.co.uk/2026/08/25/05/Lindsay_Clancy_Trial__8675.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 After nearly a month of testimony, jurors in the Lindsay Clancy murder trial are set to hear from the final witnesses in a case that has largely been about her mental state when she strangled her three young children.

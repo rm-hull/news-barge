@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A tradition on a river once fished by US President Jimmy Carter could
   be coming to an end.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/785d/live/b7b0e340-9cb6-11f1-84cf-fd4cfd9d6c84.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Black and white photo, an elderly man in a flat cap making a round boat out of straw with a baby sat inside along the banks of the river.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/785d/live/b7b0e340-9cb6-11f1-84cf-fd4cfd9d6c84.jpg)

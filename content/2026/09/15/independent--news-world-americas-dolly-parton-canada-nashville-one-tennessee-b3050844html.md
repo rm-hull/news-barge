@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Dolly Parton’s megawatt smile and big wavy locks are gracing cornfields
   across the U.S. and in Canada this fall
 image: https://static.independent.co.uk/2026/09/15/23/Dolly_Parton_Corn_Maze_867_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Dolly Parton ’s megawatt smile and big wavy locks are gracing fields across the U.S. and Canada this fall.

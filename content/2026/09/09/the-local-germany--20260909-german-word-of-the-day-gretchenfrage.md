@@ -9,6 +9,10 @@ description: Some questions are designed to get straight to the point, even if t
   makes people uncomfortable. This classic German term is as useful in political debates
   as it is on social media.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-word-of-the-day-blank-picture53.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 Germany has a knack for producing almost untranslatable words that manage to capture an entire situation in a single expression.

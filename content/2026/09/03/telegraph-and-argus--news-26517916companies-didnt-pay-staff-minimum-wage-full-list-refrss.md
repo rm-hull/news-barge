@@ -8,6 +8,13 @@ published: '2026-09-03T00:00:00Z'
 description: Major high street names have been named and shamed in a government list
   for failing to pay staff the minimum wage.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21404747.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixbay)*

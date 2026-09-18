@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:28Z'
 published: '2026-08-18T00:00:00Z'
 description: A large emergency services response is at the scene
 image: https://static.independent.co.uk/2026/08/18/17/56/Screenshot-2026-08-18-at-18-06-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Emergency responders are attending an incident off the Sussex coast following reports of four people in difficulty in the open water.

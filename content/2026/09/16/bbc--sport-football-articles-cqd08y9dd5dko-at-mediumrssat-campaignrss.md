@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: League Two side Fleetwood Town will host Premier League champions Arsenal
   in the fourth round of the EFL Cup.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a20d/live/cf4e0ee0-b216-11f1-8117-470b3119e06f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Harrison Neal of Fleetwood Town celebrates](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/a20d/live/cf4e0ee0-b216-11f1-8117-470b3119e06f.jpg)

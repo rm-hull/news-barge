@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Jonathan Reynolds has spoken to JLR chief executive PB Balaji and will
   meet the firm’s leadership team early next week.
 image: https://static.independent.co.uk/2026/09/05/22/fd655ef999806c390132af3414f04cadY29udGVudHNlYXJjaGFwaSwxNzg4NzMwMTg5-2.79592563.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The Business Secretary is due to meet Jaguar Land Rover bosses amid reports that the UK’s largest car manufacturer is to cut 4,000 jobs.

@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Steph Houghton captained England, won major trophies and became one of
   the defining figures in women’s football — but her journey began in South…
 image: https://www.thenorthernecho.co.uk/resources/images/18646810.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 *(Image: John Walton/PA)*

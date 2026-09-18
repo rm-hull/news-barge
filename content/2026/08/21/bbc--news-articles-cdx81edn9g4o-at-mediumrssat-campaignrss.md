@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Jeffries was declared "mentally incompetent" by a court last year and
   said to be suffering with dementia and late onset of Alzheimer's disease.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c722/live/1d98d7d0-9d70-11f1-bdcc-8926c4a74c43.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Abercrombie & Fitch CEO Mike Jeffries outside of a federal court in New York in October 2024](https://ichef.bbci.co.uk/ace/standard/861/cpsprodpb/c722/live/1d98d7d0-9d70-11f1-bdcc-8926c4a74c43.jpg)

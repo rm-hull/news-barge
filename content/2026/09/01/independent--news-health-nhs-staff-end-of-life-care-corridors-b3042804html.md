@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A practitioner recalled resuscitation being attempted on a terminally
   ill cancer patient who ultimately passed away on a bathroom floor
 image: https://static.independent.co.uk/2026/02/12/16/12163128-7b8d0eb4-6c31-4723-87d3-2508ba51b206.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A majority of healthcare staff have delivered end-of-life treatment to patients in hallway areas or temporary spaces, new research reveals.

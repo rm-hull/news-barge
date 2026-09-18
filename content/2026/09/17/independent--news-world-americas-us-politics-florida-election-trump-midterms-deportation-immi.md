@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Congresswoman Maria Elvira Salazar is up for re-election in a district
   that overwhelmingly voted for Trump in the 2024 election
 image: https://static.independent.co.uk/2026/09/17/17/39/Screenshot-2026-09-17-at-1-52-55-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Representative Maria Elvira Salazar, a Florida Republican, has hammered President Donald Trump over his massive immigration crackdown in a scathing election ad.

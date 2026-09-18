@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: The mother of tragic Bailey Chadwick has spoken of the ongoing grief
   felt by his family and friends a year after he died.
 image: https://www.yorkpress.co.uk/resources/images/20348283.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Family & Parenting
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

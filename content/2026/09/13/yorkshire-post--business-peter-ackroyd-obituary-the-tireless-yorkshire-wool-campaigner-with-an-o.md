@@ -10,6 +10,11 @@ description: Peter Ackroyd, whose funeral has taken place after his death at 76,
   a former chairman of the Campaign for Wool and a lifelong ambassador for the Yorkshire
   textile and woollen industries.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmM1ZDIxNjY3LWEwYjYtNDdjZC1hMjI1LTVlYzVjZGRiNzg2ZTo3YmY4NWVhNi1kNGY2LTQ5ODItYTI4Yi0wM2RiMTQxOWRiODM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Peter Ackroyd obituary: The tireless Yorkshire wool campaigner with an outstanding international career

@@ -8,6 +8,13 @@ published: '2026-08-18T00:00:00Z'
 description: Harrogate author and organiser Christina Gabbitas recently announced
   the winners of a national poetry and lyric-writing competition.
 image: https://www.gazetteherald.co.uk/resources/images/21331469.jpg?type=og-image&xType=0&yType=38
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Books & Literature
+- Sports
 ---
 
 *(Image: Christina Gabbitas)*

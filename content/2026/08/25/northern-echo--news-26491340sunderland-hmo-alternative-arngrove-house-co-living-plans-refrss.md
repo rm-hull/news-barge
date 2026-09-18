@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A Sunderland city centre building could become a 63-room co-living residence
   for up to 86 people under plans billed as a managed alternative to a…
 image: https://www.thenorthernecho.co.uk/resources/images/21365440.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Nova Co-Living)*

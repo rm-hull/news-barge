@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A layby in front of Eastfield House, Wilberfoss, is expected to be closed
   for 12 days for directional drilling and service connection works.
 image: https://www.yorkpress.co.uk/resources/images/19364158.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Supplied)*

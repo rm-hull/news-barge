@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: All part of a ‘healthy, diversified marketplace’ including digital, reckons
   RIAA research VP.
 image: https://cdn.mos.cms.futurecdn.net/ham7YNNptEDdKwBvCDFpQ7-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Some CD albums and vinyl records](https://cdn.mos.cms.futurecdn.net/ham7YNNptEDdKwBvCDFpQ7.jpg) 

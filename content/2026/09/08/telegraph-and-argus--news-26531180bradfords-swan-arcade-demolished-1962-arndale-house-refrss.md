@@ -9,6 +9,13 @@ published: '2026-09-08T00:00:00Z'
 description: Bradford’s Swan Arcade, once a major city-centre landmark, was demolished
   in 1962 to make way for Arndale House.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424301.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Society & Culture
+- Arts & Culture
 ---
 
 For more than 80 years, the Swan Arcade was one of Bradford city centre’s most distinctive shopping landmarks: a grand covered Victorian thoroughfare of shops and offices, running between Market Street and Broadway opposite the Wool Exchange.

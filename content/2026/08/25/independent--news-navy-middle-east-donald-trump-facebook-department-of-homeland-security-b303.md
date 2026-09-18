@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The father of a U.S. Navy sailor who has been deployed in the Middle
   East for nine months has been released from immigration detention
 image: https://static.independent.co.uk/2026/08/24/01/USS_Lincoln_Soldier_Father_Arrested_35622.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The father of a U.S. Navy sailor who has been deployed in the Middle East for a record-breaking nine months was released from immigration detention, according to his family.

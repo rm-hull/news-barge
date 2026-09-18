@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Agostino Abbatiello is accused of supplying the drug operation with cocaine
   that was then packaged at fraternity houses and distributed to students
 image: https://static.the-independent.com/2026/09/02/19/46/SEI310401980.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Agostino Abbatiello, a former student from Pennsylvania State University who is accused of leading a cocaine trafficking ring out of two fraternities, has been granted bail.

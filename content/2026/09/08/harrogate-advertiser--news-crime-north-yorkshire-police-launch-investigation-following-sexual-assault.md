@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses following
   a sexual assault by touching that occurred in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE2MGM3ODE3LTI0NjMtNGE2ZC1hYmUzLTFlZmZlNzFhODBiMzowYzhmMTYxMi1iZmQ3LTQ1ZGYtYTI1NS1mZWY2ZDk3YTg2YjA=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- News & Politics
+- True Crime
 ---
 
 # North Yorkshire Police launch investigation following sexual assault on the Stray in Harrogate

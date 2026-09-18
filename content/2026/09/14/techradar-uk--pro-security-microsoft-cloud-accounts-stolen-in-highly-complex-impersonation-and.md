@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:18:24Z'
 published: '2026-09-14T00:00:00Z'
 description: Passkeys have all but eliminated password theft, so what now?
 image: https://cdn.mos.cms.futurecdn.net/dpYpu4kURRoCpERiFgAv8o-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Passkeys](https://cdn.mos.cms.futurecdn.net/dpYpu4kURRoCpERiFgAv8o.jpg) 

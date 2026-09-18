@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:13:47Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ECDP-release-testing-Aug-26_cropped.jpg
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Passengers are reminded that testing ahead of digital signalling being introduced on the East Coast Main Line will affect journeys this weekend.

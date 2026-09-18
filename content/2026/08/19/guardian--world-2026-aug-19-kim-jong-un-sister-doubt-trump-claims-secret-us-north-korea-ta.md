@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: President says he plans to meet dictator this year but Kim Yo-jong says
   US remains enemy of Pyongyang
 image: https://i.guim.co.uk/img/media/187dd1e76fcc4555bb01eee92e22116124f0f157/375_0_4230_3384/master/4230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6721a12ba31b42f0d01ed994483f1f31
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump has said he is planning to meet North Korea’s Kim Jong-un later this year, though the reclusive leader’s younger sister cast doubt on their communications and dampened hopes of a diplomatic breakthrough between them.

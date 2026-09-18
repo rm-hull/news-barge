@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Police are urging people to stay out of disused buildings following a
   recent trespassing incident involving YouTubers.
 image: https://www.gazetteherald.co.uk/resources/images/21436246.jpg?type=og-image&xType=0&yType=581
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Technology & Software
 ---
 
 Police are urging people to stay out of disused buildings following a recent trespassing incident involving YouTubers.

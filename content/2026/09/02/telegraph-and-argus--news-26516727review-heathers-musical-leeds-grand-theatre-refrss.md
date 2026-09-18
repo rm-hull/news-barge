@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: IF it isn’t already, Heathers The Musical is following in the wake of
   Richard O’Brien’s The Rocky Horror Show, by rapidly becoming one of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21403113.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 IF it isn’t already, Heathers The Musical is following in the wake of Richard O’Brien’s The Rocky Horror Show, by rapidly becoming one of theatre land’s handful of ‘cult’ shows.

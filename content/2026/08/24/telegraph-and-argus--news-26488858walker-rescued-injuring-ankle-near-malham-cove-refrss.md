@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T08:59:44Z'
 published: '2026-08-24T00:00:00Z'
 description: A walker was rescued after injuring his ankle near Malham Cove.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361195.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Cav Rescue Organisation)*

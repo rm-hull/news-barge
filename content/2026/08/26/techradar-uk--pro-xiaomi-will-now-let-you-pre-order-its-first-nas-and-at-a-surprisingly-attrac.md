@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T01:54:35Z'
 published: '2026-08-26T00:00:00Z'
 description: An affordable, capable option, but restricted to the mainland
 image: https://cdn.mos.cms.futurecdn.net/KiTHnBqwKdmzxKGSBtCmwa-1080-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Xiaomi logo](https://cdn.mos.cms.futurecdn.net/KiTHnBqwKdmzxKGSBtCmwa.jpg) 

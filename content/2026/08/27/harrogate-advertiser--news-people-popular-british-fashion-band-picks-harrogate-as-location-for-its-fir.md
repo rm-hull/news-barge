@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The owner of a major British fashion brand loved by celebrities such
   as Alison Hammond and Davina McCall says opening in Harrogate is a dream come true.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY5MGIxNzYxLTlkMGYtNGJmOS05ZDlhLTJjNzA5OTIwNzEzZTplMzIxYzM1MC1jMjBkLTQ4MmItOTU1ZS1lNTlmNTkxYmEwZWM=.jpg?crop=3:2,smart&trim=&width=1045&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Popular British fashion band picks Harrogate as location for its first store in North of England

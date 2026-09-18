@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Drivers will soon be facing a spate of road closures across Leeds for
   a variety of improvement works.
 image: https://www.yorkpress.co.uk/resources/images/19364158.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Supplied)*

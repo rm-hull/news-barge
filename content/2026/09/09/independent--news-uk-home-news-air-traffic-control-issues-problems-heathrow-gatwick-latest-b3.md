@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Airports have warned of further disruption as flights continue to be
   cancelled on Wednesday morning
 image: https://static.independent.co.uk/2026/09/09/08/01M22GDJG39YCTXW4DZCXV8K6Y.jpg?trim=168,0,168,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 More than 1,000 flights to and from the UK were grounded due to a “technical issue” on Tuesday afternoon, forcing tens of thousands of people to abandon their travel plans.

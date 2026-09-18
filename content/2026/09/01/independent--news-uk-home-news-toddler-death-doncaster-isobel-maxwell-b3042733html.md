@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:27:54Z'
 published: '2026-09-01T00:00:00Z'
 description: Isobel Maxwell had been missing for just minutes before being found unresponsive
 image: https://static.independent.co.uk/2026/09/01/12/46/Isobel-Maxwell1.webp?trim=0,0,0,112&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A toddler drowned in her garden pond on Christmas Day after going missing for just five minutes.

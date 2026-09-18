@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The singer, 21, will be now represented by a public defender in the murder
   trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: New lawyer for D4vd could take "additional time" to proceed, says district attorney

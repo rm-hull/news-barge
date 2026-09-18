@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Police were called to Rosenheim railway station in the early hours of
   Sunday morning
 image: https://static.independent.co.uk/2026/08/30/10/12/Screenshot-2026-08-30-at-11-26-52.png?trim=0,30,0,29&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Sports
 ---
 
 A 31-year-old British woman has died from “severe injuries” after being stabbed at a German train station on Sunday morning.

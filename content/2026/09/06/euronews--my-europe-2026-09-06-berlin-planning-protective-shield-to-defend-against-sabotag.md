@@ -9,6 +9,11 @@ description: 'The new plan would see the creation of a "Cyberdome," a network of
   sensors that would help seek out and intercept hacking attempts, Bild reported.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/30/23/1200x675_cmsv2_77c8d57a-3e1f-5869-b4db-8a44ec03110a-9903023.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## The new plan would see the creation of a "Cyberdome," a network of digital sensors that would help seek out and intercept hacking attempts, Bild reported.

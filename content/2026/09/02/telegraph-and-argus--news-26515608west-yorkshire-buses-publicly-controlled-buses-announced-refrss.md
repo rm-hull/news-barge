@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The first buses in West Yorkshire's publicly controlled network will
   hit the roads next spring.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12612989.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: First Bus)*

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Sadie Salt died in 2020 while eating lunch at Mini Learners nursery in
   Radlett
 image: https://static.independent.co.uk/2026/09/15/15/30/iStock-997568664.jpeg?trim=0,17,0,16&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 Legal action under health and safety legislation has been launched over the death of a child who choked on a sausage at nursery.

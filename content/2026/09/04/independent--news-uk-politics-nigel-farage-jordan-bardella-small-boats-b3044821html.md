@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Reform UK leader and National Rally president pledged a new ‘entente
   cordiale’ between the UK and France
 image: https://static.independent.co.uk/2026/09/04/14/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Nigel Farage and National Rally president Jordan Bardella signed a pact at Reform UK’s party conference in Birmingham that their leader vowed would “stop small boats forever.”

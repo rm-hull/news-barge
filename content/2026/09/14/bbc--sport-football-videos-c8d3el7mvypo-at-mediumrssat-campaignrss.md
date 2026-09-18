@@ -9,6 +9,10 @@ description: Dominic Calvert-Lewin stars as Leeds United go third in the Premier
   with a superb performance to inflict a heavy 4-1 defeat on Newcastle United at Elland
   Road.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e7d1/live/15610440-b083-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Leeds inflict heavy defeat on Newcastle to climb to third

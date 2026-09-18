@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Pausing pension contributions could boost take-home pay by £1,000 but
   leave an average earner more than £12,000 worse off in retirement.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21114386.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

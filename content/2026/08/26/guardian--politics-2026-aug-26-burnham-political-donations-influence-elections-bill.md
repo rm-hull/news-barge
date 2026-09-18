@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: PM said he would set bar at £500k, but trade unions say funding reforms
   could undermine their ability to donate to Labour
 image: https://i.guim.co.uk/img/media/1bc517e98ca5aeb2e8283a880aa6db994b7aa994/0_0_6406_5126/master/6406.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd0ff01ceb1b5ccc4f600e81a172cbf9
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham has dropped his support for capping political donations, causing anger among activists and Labour MPs who have long campaigned for change to the way parties are funded.

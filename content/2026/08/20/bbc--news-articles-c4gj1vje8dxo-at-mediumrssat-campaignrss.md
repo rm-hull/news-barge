@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: US military exercises with South Korea end early on Friday, at a time
   when the North is in a position of strength.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![U.S. President Donald Trump and North Korean leader Kim Jong Un pose at a military demarcation line at the demilitarized zone separating the two Koreas in Panmunjom](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg)

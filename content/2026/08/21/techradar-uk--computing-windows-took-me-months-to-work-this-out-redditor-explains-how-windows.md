@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: Windows 11 removed the driver for an Nvidia RTX 5070 Ti graphics card,
   and you can blame Eco mode.
 image: https://cdn.mos.cms.futurecdn.net/nZ9MtUnriwdKNUAo7Dv4qM-1280-80.png
+categories:
+- Technology & Software
 ---
 
 ![Cyberpunk 2077 on ROG Zephyrus G14 laptop](https://cdn.mos.cms.futurecdn.net/nZ9MtUnriwdKNUAo7Dv4qM.png) 

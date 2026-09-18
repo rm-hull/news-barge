@@ -10,6 +10,10 @@ description: North Yorkshire Police has arrested a man on suspicion of robbery a
   a convenience store worker was allegedly threatened with a knife during an armed
   raid in Harrogate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZjMWM5NjgzLTE4YjQtNDBiMy05MzVkLTFkNTUzMTc1NjJkZDozNTgzNzZmNy0yZmVmLTRlNGItYjIyZi0wNzA5MTM4Y2Y5MDU=.jpg?crop=3:2,smart&trim=&width=973&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Man arrested after shop worker threatened with knife during robbery at Harrogate store

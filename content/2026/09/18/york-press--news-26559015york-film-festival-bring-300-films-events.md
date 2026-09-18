@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:34:22Z'
 published: '2026-09-18T00:00:00Z'
 description: A MAJOR film festival is set to return to York this November.
 image: https://www.yorkpress.co.uk/resources/images/21468080.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Supplied)*

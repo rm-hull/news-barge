@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: One Nation candidate Luke Herdegen secures 57% of the vote after preferences
   as Barnaby Joyce says ‘politics has changed’
 image: https://i.guim.co.uk/img/media/3e3cf0448660f5e084369101cb80369f69c1e465/0_0_6563_5253/master/6563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=611ada7053c5a5c94e9f3f1055cb6e18
+categories:
+- UK
+- News & Politics
 ---
 
 Barnaby Joyce has declared “politics has changed” after One Nation claimed victory in the Secret Harbour state byelection in Western Australia.

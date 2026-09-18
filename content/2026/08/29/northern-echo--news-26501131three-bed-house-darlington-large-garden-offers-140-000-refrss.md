@@ -9,6 +9,12 @@ published: '2026-08-29T00:00:00Z'
 description: PERFECT for first-time buyers or a family looking for a little more room
   to spread out in, in the shape of a third bedroom, this spacious house on…
 image: https://www.thenorthernecho.co.uk/resources/images/21379783.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 PERFECT for first-time buyers or a family looking for a little more room to spread out in, in the shape of a third bedroom, this spacious house on Wentworth Way in Darlington offers a comfortable and inviting home that’s ready to move into.

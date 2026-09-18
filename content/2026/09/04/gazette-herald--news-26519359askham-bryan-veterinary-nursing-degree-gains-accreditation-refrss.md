@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Askham Bryan College’s Foundation Degree in Veterinary Nursing has secured
   full accreditation from the Royal College of Veterinary Surgeons.
 image: https://www.gazetteherald.co.uk/resources/images/21406835.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 A veterinary nursing degree has secured full accreditation from the Royal College of Veterinary Surgeons (RCVS).

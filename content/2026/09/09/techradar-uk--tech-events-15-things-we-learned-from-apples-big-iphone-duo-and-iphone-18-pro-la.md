@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Find out everything you need to know about Apple's latest launch event
   in our comprehensive recap.
 image: https://cdn.mos.cms.futurecdn.net/FmsSY7hkCo2KKkcUhjoHyV-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Apple event September 2026](https://cdn.mos.cms.futurecdn.net/FmsSY7hkCo2KKkcUhjoHyV.jpg) 

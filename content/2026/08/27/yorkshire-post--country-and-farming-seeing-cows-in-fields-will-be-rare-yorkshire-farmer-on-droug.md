@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A Yorkshire farm owner has said farmers are going to see the biggest
   effects of the heatwave on their businesses in early 2027.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU0Mjk2MDAxLWRmNmEtNDdjMC1iNjc3LTYxNjk2ZDc4MTg1ZDplYjhmYjIyOS0zOWE4LTQzNmMtOWZlZS1iNmZmODU1NGQ2MTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # 'Seeing cows in fields will be rare' - Yorkshire farmer on drought following heatwaves

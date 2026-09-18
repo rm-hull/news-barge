@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: The Poco F8 Pro is the poster child for affordable flagship phones, offering
   all the premium features you need with tasteful compromises at an affordable price.
 image: https://cdn.mos.cms.futurecdn.net/MQi9vJGpG9gQKLxEK4urTj-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ### TechRadar Verdict

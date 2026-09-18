@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: The BluHub is a USB hub, card reader and BD/DVD/CD drive in one very
   portable device — and early birds can get it very cheaply.
 image: https://cdn.mos.cms.futurecdn.net/mWdhdxh4Ue4vdbuq93k37D-2048-80.png
+categories:
+- Technology & Software
 ---
 
 ![The BluHub USB hub and disc drive next to a Mac laptop](https://cdn.mos.cms.futurecdn.net/mWdhdxh4Ue4vdbuq93k37D.png) 

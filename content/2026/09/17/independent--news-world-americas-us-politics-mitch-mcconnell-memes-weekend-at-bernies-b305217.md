@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Other social media videos show the Kentucky Republican, 84, performing
   acrobatic flips in a wheelchair
 image: https://static.independent.co.uk/2026/09/17/20/14/Weekend-at-Bernies-Mitch-McConnell-Edition-YouTube.png?trim=30,0,30,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 Social media users are mocking the physical condition of 84-year-old Sen. Mitch McConnell — with one vicious video turning him into the murdered man at the center of the movie “Weekend at Bernie’s” with the help of artificial intelligence.

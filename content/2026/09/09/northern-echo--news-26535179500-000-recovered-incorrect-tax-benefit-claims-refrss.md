@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Hartlepool Borough Council recovers more than £500,000 after investigating
   false Council Tax discounts, Housing Benefit, Universal Credit and…
 image: https://www.thenorthernecho.co.uk/resources/images/19225373.jpg?type=og-image&xType=0&yType=111
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

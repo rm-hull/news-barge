@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The jobs report, released Friday by the Labor Department, may offer a
   welcome signal for President Donald Trump just two months prior to midterm elections
 image: https://static.independent.co.uk/2026/09/04/13/48/GettyImages-1495448594.jpg?trim=0,60,0,59&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The U.S. employment landscape experienced a rebound in August, with business owners adding an unexpected 162,000 positions while the unemployment rate remained steady at 4.1 percent.

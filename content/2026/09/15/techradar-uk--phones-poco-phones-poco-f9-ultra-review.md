@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: The Poco F9 Ultra offers phenomenal performance and battery life for
   a much lower price than flagship rivals.
 image: https://cdn.mos.cms.futurecdn.net/cTFpY5rfBpGQUL9d2p9ubG-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ### TechRadar Verdict

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Tyrone Noling maintains he did not commit the murders of Bearnhardt and
   Cora Hartig
 image: https://static.the-independent.com/2026/08/18/22/U3_E5ER2nrpXCH2ONDZALGRvBB2mX3K6iuwVOxrbvHkWwx0i695KWkcdmUMWcGlmXbmk-UnY123ewvLADbag2ghs2yLDQZMNJsGN..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Tyrone Noling has spent three decades on death row for the double murder of an elderly Ohio couple, crimes he maintains he did not commit. On Tuesday, he was given a rare opportunity to argue for a full pardon before the Ohio Parole Board.

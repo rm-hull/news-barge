@@ -10,6 +10,9 @@ description: While I think that more seasons are a given, Stuart Fails to Save t
   Universe season 2 still hangs in the balance — and creators confirm there's 'no
   big picture'.
 image: https://cdn.mos.cms.futurecdn.net/PtGzaqtdmPhYE2wa6c6PXS-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Stuart, Denise, Bert and Bert stand shocked](https://cdn.mos.cms.futurecdn.net/PtGzaqtdmPhYE2wa6c6PXS.jpg) 

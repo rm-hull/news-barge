@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T04:50:56Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-vape-shop-1-ldrs.jpg
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Moves to give councils greater powers over local high streets have been welcomed in York amid warnings traders could be caught up in a blanket crackdown.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A new town centre shop allowed to sell alcohol from 7am onwards has been
   given the green light for further changes in a North Yorkshire town.
 image: https://www.yorkpress.co.uk/resources/images/21425393.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Shop with 7am alcohol licence gets approval for changes

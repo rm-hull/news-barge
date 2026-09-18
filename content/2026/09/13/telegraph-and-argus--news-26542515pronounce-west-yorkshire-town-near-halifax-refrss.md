@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Sowerby Bridge has a confusing name to pronounce but this simple guide
   will help you to say it correctly around the locals.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440540.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Getty)*

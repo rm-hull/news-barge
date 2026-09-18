@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A night of burlesque, cabaret and comedy is coming to Harrogate in support
   of an international medical charity.
 image: https://mmo.aiircdn.com/409/699ead7a950d4.jpg
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 ![](https://mmo.aiircdn.com/409/699ead7a950d4.jpg) 

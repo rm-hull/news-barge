@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: JD Vance delivered the keynote speech to end the party's convention -
   but the president still took centre stage, the BBC's Daniel Bush writes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a2e/live/7023c9c0-addc-11f1-8b98-35ffe039e825.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Has Trump won over voters with his midterm convention?

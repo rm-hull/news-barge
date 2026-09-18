@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The 52-year-old suspect is facing charges including boat theft and assaulting
   an officer
 image: https://static.independent.co.uk/2026/08/26/12/45/Boat-ramming-ibiza.png?trim=0,174,0,129&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Dramatic footage shows the moment a man aggressively rammed into a coastguard vessel using a speedboat he allegedly stole during a high-speed chase off the coast of Ibiza.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A segment of border wall erected in late July stands incomplete along
   the edge of a wildlife refuge in Alamo, Texas, after a lawsuit halted work.
 image: https://static.independent.co.uk/2026/09/14/12/Border_Wall_Wildlife_Photo_Essay_41_59.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A segment of border wall erected in late July stands incomplete along the edge of a wildlife refuge in Alamo, Texas, after a lawsuit halted work.

@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Have England improved or were Pakistan really poor? BBC cricket correspondent
   Stephan Shemilt analyses the first-Test talking points from Headingley.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England ease to huge win against Pakistan on day three at Headingley

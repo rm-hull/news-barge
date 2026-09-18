@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Mitch McConnell returned to Capitol Hill to cast a vote — his first public
   appearance in months
 image: https://static.independent.co.uk/2026/09/15/07/2026-09-14T224221Z_2147110533_RC2AJNAMJSLM_RTRMADP_3_USA-CONGRESS-MCCONNELL.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 Former Senate GOP leader Mitch McConnell’s return to Capitol Hill — his first public appearance in months — sent the Internet into a tizzy as footage showed the senator spacing out in a way commentators deemed akin to a “zombie.”

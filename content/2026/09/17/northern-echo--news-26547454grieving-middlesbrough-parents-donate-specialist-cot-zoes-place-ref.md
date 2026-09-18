@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Families are being given the chance to create precious memories thanks
   to a couple who donated a cooling cot in memory of their daughter.
 image: https://www.thenorthernecho.co.uk/resources/images/21451191.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 A grieving couple in Teesside have created a legacy of hope and comfort for other families in memory of their baby daughter.

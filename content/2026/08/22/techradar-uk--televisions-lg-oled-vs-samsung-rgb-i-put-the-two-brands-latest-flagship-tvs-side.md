@@ -11,6 +11,8 @@ description: RGB TVs are competing to take the picture-quality crown from OLED, 
   I tested a flagship LG OLED against a flagship Samsung Micro RGB to see how the
   two display techs compare
 image: https://cdn.mos.cms.futurecdn.net/ZYDA46aVesBjUdgMano58m-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![LG G6 (left) vs Samsung R95H (right) showing a field of red flowers on screen. Both TVs deliver vivid colors, but the G6's are deeper overall](https://cdn.mos.cms.futurecdn.net/ZYDA46aVesBjUdgMano58m.jpg) 

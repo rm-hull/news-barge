@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Leading cardiovascular health groups reclassify overlooked causes and
   introduce sex-specific diagnostic thresholds
 image: https://i.guim.co.uk/img/media/1b7b639f4480d1af6b1e5b3a1d44bcf2820d2975/436_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5cdd7f0803d039f819799e7a6cea4a1
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 Doctors have agreed the world’s first universal definition of a heart attack, paving the way for millions of women to finally receive better treatment after decades of being “deprioritised”.

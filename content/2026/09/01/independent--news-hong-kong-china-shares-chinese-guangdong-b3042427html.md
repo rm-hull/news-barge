@@ -9,6 +9,12 @@ published: '2026-09-01T00:00:00Z'
 description: Shares in fast-fashion online retail giant Shein have begun trading on
   Hong Kong’s stock exchange after a long delay
 image: https://static.independent.co.uk/2026/09/01/04/Hong_Kong_Shein_IPO_3154_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Shares in fast-fashion online retail giant Shein lost around 10% after it began trading on Hong Kong’s stock market Tuesday, after a long delay in the company’s plans to list its shares publicly.

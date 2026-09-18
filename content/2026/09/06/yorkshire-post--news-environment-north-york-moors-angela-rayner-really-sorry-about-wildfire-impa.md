@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Angela Rayner has said she is ‘really sorry to hear’ about the impacts
   of wildfires on the North York Moors.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk5OTdkOTgxLTc4MGEtNDY3YS1hYTNjLTUwNWEyMTNjOTZkMzplMDFmMmRlMi1lYTlkLTQ4MWEtYTVkYy0zNzM5NmEyNzhkZWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # North York Moors: Angela Rayner ‘really sorry’ about wildfire impact

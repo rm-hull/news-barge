@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A BMW car has burst into flames in a street off Walmgate in York, with
   residents reporting hearing a “bang like a shot” before emergency…
 image: https://www.gazetteherald.co.uk/resources/images/21403906.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Supplied)*

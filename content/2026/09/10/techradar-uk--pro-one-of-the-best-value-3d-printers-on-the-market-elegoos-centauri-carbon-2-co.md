@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Elegoo Centauri Carbon 2 Combo is the best budget multi-color 3D
   printer we've tested, and it's just got a major limited-time deal price.
 image: https://cdn.mos.cms.futurecdn.net/xBQy7DuwfeC4RxSjPm2NTA-1013-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Elegoo Centauri Carbon 2](https://cdn.mos.cms.futurecdn.net/xBQy7DuwfeC4RxSjPm2NTA.jpg) 

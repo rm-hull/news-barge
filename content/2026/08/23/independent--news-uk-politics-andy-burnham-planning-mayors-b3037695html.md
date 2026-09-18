@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Mayors to overrule councils in order to “call in” decisions on large-scale
   developments
 image: https://static.independent.co.uk/2026/08/21/16/01M0JDRR2PCDEB2955RW40M8RK.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Andy Burnham is set to hand mayors new powers to take control of local planning decisions to build large-scale developments such as houses, tower blocks and skyscrapers.

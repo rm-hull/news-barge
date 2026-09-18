@@ -10,6 +10,9 @@ description: 'Former minister and MEP Rachida Dati is on trial in Paris in the R
   group subsidiary for counseling. Carlos Ghosn is being tried in the same case in
   absentia. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/59/93/1200x675_cmsv2_42798baf-acec-5116-9212-417a90dea0ac-9915993.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Former minister and MEP Rachida Dati is on trial in Paris in the Renault-Nissan case, accused of corruption and influence peddling after taking €900,000 from a group subsidiary for counseling. Carlos Ghosn is being tried in the same case in absentia.

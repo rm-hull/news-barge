@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The York Vegan Christmas Festival will take place at York RI Sports Centre
   this December.
 image: https://www.gazetteherald.co.uk/resources/images/21254032.jpg?type=og-image&xType=14
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: York RI Sports Centre)*

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Selby and Kippax MP, Keir Mather, is opening up a debate on assisted
   dying by hosting an event at Selby Town Hall.
 image: https://www.gazetteherald.co.uk/resources/images/20850560.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 AN MP is opening up a debate on assisted dying, encouraging North Yorkshire residents to have their say ahead of a key parliamentary vote.

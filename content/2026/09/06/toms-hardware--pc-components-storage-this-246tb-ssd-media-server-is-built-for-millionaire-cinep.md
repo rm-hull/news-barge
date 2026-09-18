@@ -9,6 +9,10 @@ scraped_at: '2026-09-06T12:08:04Z'
 published: '2026-09-06T00:00:00Z'
 description: The ultimate luxury cinema upgrade
 image: https://cdn.mos.cms.futurecdn.net/LSsUpAsKPuP2d4KRxPJVgk-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Film & TV
 ---
 
 ![Kaleidescape Compact Terra Prime 246TB SSD movie server](https://cdn.mos.cms.futurecdn.net/LSsUpAsKPuP2d4KRxPJVgk.png) 

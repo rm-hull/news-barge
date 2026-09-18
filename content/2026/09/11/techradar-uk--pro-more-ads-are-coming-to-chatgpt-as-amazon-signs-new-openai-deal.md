@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T12:49:01Z'
 published: '2026-09-11T00:00:00Z'
 description: ChatGPT opens up ads to Amazon advertisers
 image: https://cdn.mos.cms.futurecdn.net/Mqx92mEcd3QjGFKUtpnp4C-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Amazon Ads and ChatGPT Ads partnership](https://cdn.mos.cms.futurecdn.net/Mqx92mEcd3QjGFKUtpnp4C.jpg) 

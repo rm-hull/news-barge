@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Campaigners fighting to reopen a Bradford district swimming pool are
   urging the council to cancel an order which could eventually lead to the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383195.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Local Democracy Reporting Service)*

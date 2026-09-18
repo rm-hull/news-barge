@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T19:32:48Z'
 published: '2026-09-16T00:00:00Z'
 description: DRM battle goes to court.
 image: https://cdn.mos.cms.futurecdn.net/uo6XbmY6csPydKDYWb3wWo-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![The Denuvo logo.](https://cdn.mos.cms.futurecdn.net/uo6XbmY6csPydKDYWb3wWo.jpg) 

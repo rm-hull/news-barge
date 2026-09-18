@@ -8,6 +8,10 @@ scraped_at: '2026-09-11T19:08:58Z'
 published: '2026-09-11T00:00:00Z'
 description: The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Nscale, the buzzy U.K.-based AI data center startup, has appointed former OpenAI, Meta, and Instacart executive Fidji Simo to its board.

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Mark Faulds convicted of six child sex offences after grooming and sexually
   abusing a teenage girl; he will be sentenced at Durham Crown Court in…
 image: https://www.thenorthernecho.co.uk/resources/images/20172131.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Newsquest)*

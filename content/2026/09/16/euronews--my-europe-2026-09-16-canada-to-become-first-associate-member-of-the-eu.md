@@ -10,6 +10,10 @@ description: 'The status announced by von der Leyen during the State of the Unio
   President also proposed a new alliance with Ottawa covering tech, critical raw materials,
   energy and defence. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/54/31/1200x675_cmsv2_38c74e8f-b4c9-59fc-9726-00d06fd9adb0-9915431.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The status announced by von der Leyen during the State of the Union is an entirely new one, with details yet to be made clear. The European Commission’s President also proposed a new alliance with Ottawa covering tech, critical raw materials, energy and defence.

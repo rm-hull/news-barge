@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:01:07Z'
 published: '2026-08-27T00:00:00Z'
 description: Nvidia reportedly set to close $13 billion Hugging Face deal
 image: https://cdn.mos.cms.futurecdn.net/xuTDXHAaPZ88Ez2Ewo5NgQ-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia CEO Jensen Huang giving a speech](https://cdn.mos.cms.futurecdn.net/xuTDXHAaPZ88Ez2Ewo5NgQ.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Ervin Gutierrez, 22, allegedly fatally shot his cousin Nathaniel Cavazos,
   25, after coming over to an Albuquerque apartment for dinner
 image: https://static.the-independent.com/2026/09/05/20/43/NM-murder.jpeg?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 A New Mexico man has been accused of killing his cousin during an argument over how much heat the peppers in their enchiladas packed, according to police.

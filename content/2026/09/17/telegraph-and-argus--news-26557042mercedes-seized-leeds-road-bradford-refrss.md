@@ -9,6 +9,12 @@ published: '2026-09-17T00:00:00Z'
 description: A Mercedes with tinted windows and the driver not wearing a seatbelt
   was seized by police after officers spotted the vehicle on a Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21465109.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

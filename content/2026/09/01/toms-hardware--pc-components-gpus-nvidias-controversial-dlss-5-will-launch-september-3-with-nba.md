@@ -9,6 +9,10 @@ scraped_at: '2026-09-01T13:27:55Z'
 published: '2026-09-01T00:00:00Z'
 description: The DLL leaked inside this title just days ago
 image: https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia DLSS 5](https://cdn.mos.cms.futurecdn.net/A5B8BfAZTyVWEpy5TRr3UY.jpg) 

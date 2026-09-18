@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A woman was reportedly sexually assaulted by a man sitting behind her
   while travelling on a train.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21347727.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: British Transport Police)*

@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Richmond will host a programme of free talks, tours, walks and family
   activities as part of the 2026 Heritage Open Days festival, celebrating…
 image: https://www.thenorthernecho.co.uk/resources/images/21361379.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

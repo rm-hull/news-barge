@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A top York restaurant and a city dental practice have been ‘named and
   shamed’ in a government list of employers underpaying staff.
 image: https://www.yorkpress.co.uk/resources/images/21412181.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

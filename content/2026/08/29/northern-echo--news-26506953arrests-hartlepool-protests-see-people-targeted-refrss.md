@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Two people have been arrested after 'protests' at homes in Hartlepool
   saw a man attacked and racially abused.
 image: https://www.thenorthernecho.co.uk/resources/images/16030780.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: ARCHIVE)*

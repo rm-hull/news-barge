@@ -10,6 +10,10 @@ description: Homeland Security Investigations agents hit the outdoor retailer wi
   a controversial subpoena as part of a dragnet search for the identities of protesters
   who entered a Minnesota church in March.
 image: https://media.wired.com/photos/6a9a00ee5d2ca173f400bbc9/191:100/w_1280,c_limit/Security_ICE%20Wants%20to%20Know%20Who%20Bought%20a%20Certain%20Green%20Beanie%20From%20REI%20in%20the%20Last%202%20Years_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Society & Culture
 ---
 
 Did you buy a beanie from REI recently? The Department of Homeland Security might be looking for you.

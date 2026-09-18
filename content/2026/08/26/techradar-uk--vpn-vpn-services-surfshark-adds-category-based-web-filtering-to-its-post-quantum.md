@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The integration lets users block malicious and unwanted sites while keeping
   Dausos' post-quantum encryption and its speed advantage
 image: https://cdn.mos.cms.futurecdn.net/Be2biKBJvmWNyid55bUKKY-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Surfshark](https://cdn.mos.cms.futurecdn.net/Be2biKBJvmWNyid55bUKKY.jpg) 

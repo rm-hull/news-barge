@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The View in Scarborough can be found in a "wonderful" location and offers
   "delicious" and "imaginative" food.
 image: https://www.yorkpress.co.uk/resources/images/21427555.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Tripadvisor)*

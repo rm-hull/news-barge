@@ -7,6 +7,10 @@ scraped_at: '2026-08-31T21:28:21Z'
 published: '2026-08-31T00:00:00Z'
 description: MICROSOFT Outlook appears to have experienced a possible outage ...
 image: https://www.yorkpress.co.uk/resources/images/20136485.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

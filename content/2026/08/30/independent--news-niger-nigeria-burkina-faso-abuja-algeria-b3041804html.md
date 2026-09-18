@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Niger’s capital, Niamey, appears calm after young soldiers staged a mutiny
   against the ruling military junta
 image: https://static.independent.co.uk/2026/08/30/15/Niger_Gunfire_62938.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Niger’s capital of Niamey on Sunday appeared calm with normalcy restored after a day of unrest as young soldiers staged a mutiny that threatened the ruling military junta before being repelled by loyalist forces aided by Russian troops.

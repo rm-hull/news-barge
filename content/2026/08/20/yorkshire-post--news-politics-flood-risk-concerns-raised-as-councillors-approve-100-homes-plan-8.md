@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Councillors have voted in favour of plans to build up to 104 homes on
   former greenbelt land in South Kirkby.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIyOWU4NjI3LWM0MjEtNDc0OS04ZjFmLTBkYTMwNzk0YTVkNToxZDVlYmZmNi0zMmVjLTQ4MTYtODk5YS1mZDI4ZGJlZjQ3YzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 # Flood risk concerns raised as councillors approve 100 homes plan

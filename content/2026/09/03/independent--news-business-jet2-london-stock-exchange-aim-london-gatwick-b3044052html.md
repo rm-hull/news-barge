@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The company announced its intention to move its stock market listing
   from the AIM to the main market of the London Stock Exchange.
 image: https://static.independent.co.uk/2026/09/03/11/613b37d0b635172e392c02f4ec3c7013Y29udGVudHNlYXJjaGFwaSwxNzg4NTE1MjI4-2.85191264.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Jet2 has said summer bookings were higher than last year and it is on track for a stronger winter, while the holiday firm unveiled plans to move its listing up to the main market of the London Stock Exchange.

@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: Shops that have been linked to criminal activity, including the sales
   of nitrous oxide, have been temporarily shut down.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgxNjY0MWY5LWM0MWUtNGU2OC1iZjFlLWYyYzU4YzQzMjZjODoyODhkODA1ZS00NTE5LTQ1ODUtOGYzNC1lMTk0NjBkOGZhNjQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- True Crime
 ---
 
 # Two shops linked to criminal activity including sale of nitrous oxide closed down

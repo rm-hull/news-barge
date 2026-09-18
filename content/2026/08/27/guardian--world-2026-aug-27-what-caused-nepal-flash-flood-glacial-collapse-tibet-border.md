@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Entire villages swept away after glacial collapse triggers flood in mountainous
   region popular with trekkers and pilgrims
 image: https://i.guim.co.uk/img/media/3748deb2230cf2bc02145f91222fa92dd657dcfc/0_0_6879_5506/master/6879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=388ccca8db1b258780a250644d127598
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Rescuers are searching for nearly 1,400 people, most of them tourists, who are missing after a catastrophic flash flood hit Nepal and Tibet, thundering down valleys, obliterating entire villages and killing at least 356 people.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Norwegians paid their respects to the late King Harld after his death
   on Friday morning.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7a7/live/9bd82ec0-a30b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Norway's 'grandfather': Late King Harald remembered as son Haakon takes the throne

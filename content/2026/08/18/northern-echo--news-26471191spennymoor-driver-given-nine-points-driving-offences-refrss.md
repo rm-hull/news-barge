@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: David Raisbeck, of Ullswater Close, Spennymoor, has been given nine penalty
   points after admitting driving without due care and attention on a…
 image: https://www.thenorthernecho.co.uk/resources/images/19880391.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA MEDIA)*

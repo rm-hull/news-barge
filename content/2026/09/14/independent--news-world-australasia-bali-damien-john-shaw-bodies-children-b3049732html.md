@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Police say mother is in ‘deep shock and grief’ as case is being investigated
   as double murder-suicide
 image: https://static.independent.co.uk/2026/09/14/10/13/3a3da2454af3d7bc5f02c07e46963689.avif?trim=0,67,0,67&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Australian man and his two children were found dead inside their bungalow at a popular tourist area in Indonesia’s Bali, police said.

@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T13:24:31Z'
 published: '2026-09-17T00:00:00Z'
 description: Fraudsters are taking advantage of people venting on social media
 image: https://cdn.mos.cms.futurecdn.net/CRRFyjRJcZe8qvwLLLssrL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/CRRFyjRJcZe8qvwLLLssrL.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said crews from the city station
   and Acomb were called to Main Street in Knapton at 7.27pm yesterday…
 image: https://www.gazetteherald.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

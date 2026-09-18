@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The USS Abraham Lincoln will remain in Thailand for five days before
   it begins its return trip to San Diego
 image: https://static.independent.co.uk/2026/09/02/15/2026-09-02T114231Z_1565173412_RC2QANA02YWH_RTRMADP_3_IRAN-CRISIS-THAILAND-USA.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The USS *Abraham Lincoln* aircraft carrier arrived in Thailand on Wednesday bearing the wear-and-tear of its deployment in the form of rusted metal and deteriorating paint.

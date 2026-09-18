@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Gregory Baker has said he won by using multiple paid AI agents, such
   as OpenAI’s paid offering, ChatGPT Pro
 image: https://static.independent.co.uk/2026/08/20/13/48/iStock-1995289625.jpeg?trim=0,27,0,27&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Last week, the Fair Work Commission ruled Gregory Baker, a computing academic at Macquarie University, should be treated as an ongoing, part-time employee, after the university had earlier declined his request to convert from a casual role.

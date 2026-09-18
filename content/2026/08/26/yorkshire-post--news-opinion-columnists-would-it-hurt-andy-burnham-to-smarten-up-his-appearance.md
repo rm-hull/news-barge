@@ -10,6 +10,11 @@ description: Half asleep on Monday morning, the initially muffled sounds of the 
   highest office, the Prime Minister, arriving in Ukraine for his first overseas visit
   since taking over the reins.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZiM2IxNmM3LTk2NWUtNDMzNy05ZDVkLTI2NDU1MDM4MmRlZTo5MTdlYjI5Yy0zMDIxLTQxNjUtYmQzOS1mMzIxNzM0NDkwYzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Would it hurt Andy Burnham to smarten up his appearance? - Sarah Todd

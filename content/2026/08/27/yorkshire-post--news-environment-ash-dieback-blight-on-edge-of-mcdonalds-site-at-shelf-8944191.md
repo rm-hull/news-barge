@@ -7,6 +7,11 @@ scraped_at: '2026-08-27T22:14:00Z'
 published: '2026-08-27T00:00:00Z'
 description: Application goes in for permission to remove affected trees.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1ZmYzYzgyLWU3YjUtNDViOS04OTU0LTkxMGI4ZWMyZWM5MDozZjYwMmYxNS0wM2IwLTRjODEtYmU4NS1jYzM3Mzc3MTNiMDA=.jpg?crop=3:2,smart&trim=&width=979&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Ash dieback blight on edge of McDonald’s site at Shelf

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A unique dining experience which challenges guests to eat without relying
   on their sight is returning to Harrogate.
 image: https://mmo.aiircdn.com/409/6a9fb7abd397381d57c.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9fb7abd397381d57c.jpg) 

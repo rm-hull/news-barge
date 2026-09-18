@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T13:18:21Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/northallerton-whisky-stolen-nyp.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 Police caught two thieves after they robbed a store of whiskey.

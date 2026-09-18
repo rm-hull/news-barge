@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: MobLand returns to Paramount+ on September 18 — and, according to its
   cast, all that swearing is leading to something "even weirder".
 image: https://cdn.mos.cms.futurecdn.net/ahqfxgqCUtMsPxKQysBAPh-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 ![Maeve and Eddie talk over a greasy spoon cafe breakfast](https://cdn.mos.cms.futurecdn.net/ahqfxgqCUtMsPxKQysBAPh.jpg) 

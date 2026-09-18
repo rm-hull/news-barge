@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: In an increasingly AI world, the stop-motion animation studio Laika is
   trying to keep handmade craft alive
 image: https://static.independent.co.uk/2026/09/03/11/Fall_Film_Preview__1918.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Arts & Culture
 ---
 
 Travis Knight, the chief executive of the stop-motion animation studio Laika, wasn’t prepared for the response to the teaser for his new film, “Wildwood.”

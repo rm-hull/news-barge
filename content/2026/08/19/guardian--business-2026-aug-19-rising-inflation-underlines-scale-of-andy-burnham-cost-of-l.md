@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: PM’s plan to shield households from more pressure risks being overwhelmed
   by wider price rises
 image: https://i.guim.co.uk/img/media/986e989f751b06a36053b4fd56ca16e89029bb32/1592_443_2402_1923/master/2402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cd294889ada020e62441810daf3eed3
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 July’s increase in inflation, to 2.9%, is likely to be the first of several, underlining the challenge facing Andy Burnham in shielding consumers from a fresh cost of living squeeze this autumn.

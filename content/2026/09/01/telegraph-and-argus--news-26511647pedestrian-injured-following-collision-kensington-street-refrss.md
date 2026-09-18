@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Emergency services scrambled to a collision between a vehicle and pedestrian
   in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: UGC)*

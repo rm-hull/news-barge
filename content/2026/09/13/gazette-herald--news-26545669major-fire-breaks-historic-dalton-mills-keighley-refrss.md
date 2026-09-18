@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Emergency services are at the scene of a major fire at Dalton Mills in
   Keighley which was used to film Peaky Blinders and Downton Abbey.
 image: https://www.gazetteherald.co.uk/resources/images/21446548.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 A major investigation is underway after a huge fire ripped through an historic mill in Yorkshire.

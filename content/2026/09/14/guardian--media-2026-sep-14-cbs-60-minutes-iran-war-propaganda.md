@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Critics say segment about airman’s rescue was made to boost public perception
   of Trump’s unpopular war
 image: https://i.guim.co.uk/img/media/1d7562c4057fae2de3e3e530f93954b1e9d96f6c/80_0_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51ed39988a6b9282f5f38a9fa219727f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after he was shot down in Iran – and of being rescued by a team of American special forces as hostile locals closed in on him.

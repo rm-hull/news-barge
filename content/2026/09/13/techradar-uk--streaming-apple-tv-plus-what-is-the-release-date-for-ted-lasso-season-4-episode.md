@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Ted Lasso season 4 is approaching its endgame — here's when its next
   episode will be released.
 image: https://cdn.mos.cms.futurecdn.net/PY5gQY9kogy4paXUrE92QM-1600-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Keeley and Ted looking surprised in Ted Lasso season 4 episode 7](https://cdn.mos.cms.futurecdn.net/PY5gQY9kogy4paXUrE92QM.jpg) 

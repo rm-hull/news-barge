@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: According to the latest Business Barometer from Lloyds, business confidence
   in Yorkshire has dropped.
 image: https://www.yorkpress.co.uk/resources/images/21377855.jpg?type=og-image&xType=0&yType=30
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Yorkshire business confidence drops sharply despite firms backing growth

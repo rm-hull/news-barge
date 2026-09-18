@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Pop-up messages that warn of the harms of social media could help reduce
   youth’s social media use, a new study found.
 image: https://images.euronews.com/articles/stories/09/90/17/54/1200x675_cmsv2_d565b2d9-9daa-584c-8d0c-503eb33d4529-9901754.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Pop-up messages that warn of the harms of social media could help reduce youth’s social media use, a new study found.

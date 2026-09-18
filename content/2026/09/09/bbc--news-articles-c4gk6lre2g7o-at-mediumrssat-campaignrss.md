@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Thousands are still stranded as people describe sleeping on floors and
   "carnage" in baggage reclaim halls.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d34f/live/18a3ddb0-ac66-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 'Horrendous experience': Passengers react to travel chaos

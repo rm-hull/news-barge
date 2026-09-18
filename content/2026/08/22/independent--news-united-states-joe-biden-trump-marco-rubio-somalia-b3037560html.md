@@ -11,6 +11,10 @@ description: A federal judge in New York vacated a Trump administration policy t
   Iran, Russia and Somalia, whose nationals the Trump administration has deemed likely
   to require public assistance while living in the United States
 image: https://static.independent.co.uk/2026/08/22/16/US_Austria_47387.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge in New York has vacated a Trump administration policy that suspended the processing of visas from 75 countries, including Afghanistan, Iran, Russia and Somalia, whose nationals the Trump administration deemed likely to require public assistance in the United States.

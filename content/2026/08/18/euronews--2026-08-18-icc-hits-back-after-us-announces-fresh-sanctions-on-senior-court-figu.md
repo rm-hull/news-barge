@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Responding to the US' move in a statement, the ICC reportedly said the
   new sanctions "undermine the rule of law."
 image: https://images.euronews.com/articles/stories/09/87/96/25/1200x675_cmsv2_59106e88-2c97-5846-8e51-74cc894566bb-9879625.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Responding to the US' move in a statement, the ICC reportedly said the new sanctions "undermine the rule of law."

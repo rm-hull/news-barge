@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: The Enough Phone should serve fans of compact handsets thanks to its
   5.3-inch screen, but it still needs funding.
 image: https://cdn.mos.cms.futurecdn.net/5KrDDD2BDqm9bBtvMhYPaV-917-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A prototype of the Enough Phone](https://cdn.mos.cms.futurecdn.net/5KrDDD2BDqm9bBtvMhYPaV.jpg) 

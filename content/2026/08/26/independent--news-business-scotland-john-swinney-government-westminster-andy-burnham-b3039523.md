@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Scotland’s First Minister John Swinney said people would be facing ‘unnecessary
   hardship’ as a result of the latest rise, which comes in October.
 image: https://static.independent.co.uk/2026/08/26/11/26103511-cfa4f1b0-2513-48cf-9293-22967be46eb9.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 John Swinney has demanded “immediate assistance” from the UK Government amid warnings that the latest hike in the energy price cap will leave Scots facing a “sharp rise” in bills.

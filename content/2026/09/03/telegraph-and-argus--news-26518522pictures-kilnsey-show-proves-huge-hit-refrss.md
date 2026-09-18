@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:49:02Z'
 published: '2026-09-03T00:00:00Z'
 description: Crowds turned out in their thousands for a celebration of rural life.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405497.jpg?type=og-image&xType=0&yType=300
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 Thousands turned out for a much-loved country show despite a burst of rain — but organisers had to add an extra race after one attraction proved far more popular than expected.

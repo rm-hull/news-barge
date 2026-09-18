@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The Feversham Cricket League Top Four Play-off final between Gillamoor
   and High Farndale will take place on Duncombe Park this weekend.
 image: https://www.gazetteherald.co.uk/resources/images/19361814.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Video Gaming
 ---
 
 *(Image: Supplied)*

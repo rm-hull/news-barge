@@ -10,6 +10,10 @@ description: Neagley's explosive season finale solves its mystery but keeps the 
   wide open — and star Maria Sten has revealed how the final epic action sequence
   was shot.
 image: https://cdn.mos.cms.futurecdn.net/Q3GWRFMcUmPmZZBB7pwCQH-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Neagley holds a baseball bat in front of two men](https://cdn.mos.cms.futurecdn.net/Q3GWRFMcUmPmZZBB7pwCQH.jpg) 

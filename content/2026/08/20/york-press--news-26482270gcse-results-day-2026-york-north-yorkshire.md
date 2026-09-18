@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: It's a 'bravo!’ to York pupils as thousands of children receive their
   first ever sets of exam grades on GCSE results day.
 image: https://www.yorkpress.co.uk/resources/images/21345615.jpg?type=og-image
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 ## 'Bravo!' - York and North Yorkshire students celebrate GCSE success

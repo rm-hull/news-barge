@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T19:16:42Z'
 published: '2026-09-03T00:00:00Z'
 description: Agboola Obanubi faced misconduct proceedings over the incident
 image: https://static.independent.co.uk/2026/09/03/12/31/southend-mags-court.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 A magistrate has been disciplined after he took a knife in his bag to court.

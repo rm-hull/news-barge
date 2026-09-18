@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: A 95 percent success rate puts insect-powered rescue robots closer to
   real disaster operations than many expect
 image: https://cdn.mos.cms.futurecdn.net/GixriCtEHgCdoujsLfBG4G-1920-80.png
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Cyborg Cockroaches designed for rescue missions in collapsed buildings and other natural disaster situations](https://cdn.mos.cms.futurecdn.net/GixriCtEHgCdoujsLfBG4G.png) 

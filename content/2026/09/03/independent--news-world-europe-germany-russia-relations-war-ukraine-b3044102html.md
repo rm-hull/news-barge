@@ -10,6 +10,10 @@ description: Berlin accused Moscow of being behind a recent drone attack at an a
   in Leipzig. Experts tell Suha Kidwai that the Kremlin’s hybrid attacks are a deliberate
   ploy to destabilise the biggest economy in Europe ahead of key elections
 image: https://static.independent.co.uk/2026/09/03/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Eighteen years before Russian tanks rolled into Ukraine, the then German chancellor Gerhard Schröder was asked for his opinion on President Vladimir Putin.

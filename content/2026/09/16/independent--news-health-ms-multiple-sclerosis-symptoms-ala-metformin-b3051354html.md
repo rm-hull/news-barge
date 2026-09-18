@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The antioxidant and anti-inflammatory medicine, alpha-lipoic acid, has
   moved to the second stage of the trial
 image: https://static.independent.co.uk/2026/07/14/16/29/iStock-1320518555.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 An existing antioxidant and anti-inflammatory medicine may slow down progression of multiple sclerosis (MS), a world-first trial has found.

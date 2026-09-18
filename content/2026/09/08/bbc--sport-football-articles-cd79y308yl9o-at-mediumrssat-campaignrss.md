@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Napoli say Scott McTominay's heart surgery "was a complete success" and
   expect the Scotland midfielder to resume training this month.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Scott McTominay of Napoli](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/c93e/live/c9f8c290-a600-11f1-a291-b542ee92de7c.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: 'Exclusive: Supermarket joins line of firms and sports stars including
   Bellingham and Haaland to have their image hijacked via ads'
 image: https://i.guim.co.uk/img/media/0d231d83e924f424838ab8abed737aafbcd75b8a/93_0_870_696/master/870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=555bd61b12d71717d70c9b5b025d1198
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Tesco has alerted City of London police after it became the latest in a string of companies and sports stars, including Barclays bank and Lewis Hamilton, to have its image hijacked in a “scam” by unlicensed casinos advertising via Facebook and Instagram.

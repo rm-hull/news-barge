@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The technology will soon be routinely used within the NHS, MHRA chief
   Lawrence Tallon tells the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Health & Fitness
 ---
 
 ![A woman in a doctor's office. The doctor is wearing a stethoscope and talking to the patient.](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Cristiano Ronaldo is taken off at half-time with his 10-man Al-Nassr
   side 2-0 down - but they fight back to seal a dramatic win over Al-Ettifaq.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aec7/live/aa9a65e0-a135-11f1-9311-09d4e1fc9016.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ange Postecoglou on the sidelines during Al-Nassr's 3-2 win at Al Ettifaq](https://ichef.bbci.co.uk/ace/standard/967/cpsprodpb/aec7/live/aa9a65e0-a135-11f1-9311-09d4e1fc9016.png)

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: York's NRM is launching a new scheme where you can adopt one of 6 iconic
   objects
 image: https://www.yorkpress.co.uk/resources/images/21410966.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## From a bullet train to a murder trial relic: 6 objects you can adopt at York's NRM

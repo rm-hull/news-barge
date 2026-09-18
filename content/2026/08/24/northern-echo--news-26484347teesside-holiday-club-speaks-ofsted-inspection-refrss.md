@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Teesside holiday club has responded after a recent Ofsted report highlighted
   problems with staff training and safety measures.
 image: https://www.thenorthernecho.co.uk/resources/images/21354222.jpg?type=og-image&xType=0&yType=115
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Google Maps)*

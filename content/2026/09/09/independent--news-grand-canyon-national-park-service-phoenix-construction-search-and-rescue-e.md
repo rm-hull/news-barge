@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: National Park Service officials expect to restore a reliable water supply
   in the Grand Canyon within weeks
 image: https://static.independent.co.uk/2026/09/09/03/Grand_Canyon_Flooding_72842.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 National Park Service officials expect to restore a reliable water supply in the Grand Canyon in weeks — not months — as the deadly flash flood didn’t damage most of a near-complete pipeline project, they said Wednesday.

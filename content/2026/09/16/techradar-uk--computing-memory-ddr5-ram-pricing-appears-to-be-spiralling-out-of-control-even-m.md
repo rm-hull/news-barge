@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Think RAM costs way too much already? You're right — but a fresh report
   shows that DDR5 is getting a lot pricier somehow.
 image: https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![Sad looking person holding head in hands sat at a gaming PC](https://cdn.mos.cms.futurecdn.net/fB4xhGeRkAJAnQZ5YUNiLR.jpg) 

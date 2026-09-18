@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: County Durham business owner Terri Gibson, trading as J W Services, has
   applied to increase the number of goods vehicles operated from the Woodland…
 image: https://www.thenorthernecho.co.uk/resources/images/19325251.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

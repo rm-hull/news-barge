@@ -8,6 +8,9 @@ scraped_at: '2026-09-07T14:14:19Z'
 published: '2026-09-07T00:00:00Z'
 description: Hugging Face snapped up by Nvidia in $12.9 billion deal
 image: https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi-1920-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Nvidia Hugging Face acquisition](https://cdn.mos.cms.futurecdn.net/npaNv3MEDjf8xv7zBGtCTi.png) 

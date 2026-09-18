@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Miller defended her stake and said she was not being paid to digitally
   promote Musk’s company, which has skyrocketed in value in recent months
 image: https://static.independent.co.uk/2026/06/02/19/2203478806..?trim=1,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Trump administration official-turned-podcaster Katie Miller reportedly held a lucrative stake in Elon Musk’s artificial intelligence company and criticized rival firms online without telling her followers she owned stock, potentially violating ethics rules.

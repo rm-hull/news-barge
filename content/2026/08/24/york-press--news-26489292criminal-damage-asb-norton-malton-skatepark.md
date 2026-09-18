@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Criminal damage and antisocial behaviour have led to a zero-tolerance
   crackdown at a skatepark.
 image: https://www.yorkpress.co.uk/resources/images/21362115.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Zero-tolerance stance on bullying and vandalism at skatepark

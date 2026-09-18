@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: Sulaiman Tajzai, of Leeds, has pleaded guilty to the murder of Farmanullah
   Sherzad.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/13/17/39/Red-And-Black-Modern-Tips-Trick-YouTube-Thumbnail-(1600-x-1080-px)-(1600-x-1080-px)-(1600-x-1080-px).jpg?trim=7,0,7,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Sports
 ---
 
 # CCTV footage captures moment Leeds man buys knife - before travelling 150miles to fatally stab man

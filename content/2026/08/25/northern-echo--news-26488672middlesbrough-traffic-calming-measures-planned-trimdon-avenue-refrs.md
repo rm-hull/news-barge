@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Middlesbrough Council has unveiled plans for new traffic-calming measures,
   including road humps, on Trimdon Avenue in Middlesbrough as part of the…
 image: https://www.thenorthernecho.co.uk/resources/images/19414256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,9 @@ scraped_at: '2026-09-07T19:53:11Z'
 published: '2026-09-07T00:00:00Z'
 description: OpenAI calls the incident a 'misalignment'
 image: https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![OpenAI logos](https://cdn.mos.cms.futurecdn.net/bqTLGsRATg4oc47RW3PJbi.jpg) 

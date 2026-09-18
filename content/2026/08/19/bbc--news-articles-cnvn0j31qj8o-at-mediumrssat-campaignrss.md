@@ -9,6 +9,9 @@ description: It comes after Trump announced plans to curtail joint military exer
   with South Korea, citing a "very good" relationship with North Korea's Kim Jong
   Un.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![US soldiers from the 2nd Infantry Division participate in the joint Freedom Shield (FS) exercise with South Korean soldiers in Paju, South Korea, 16 March 2023.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg)

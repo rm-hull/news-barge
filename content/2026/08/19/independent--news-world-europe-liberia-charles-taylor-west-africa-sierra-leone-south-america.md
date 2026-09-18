@@ -9,6 +9,9 @@ description: Liberia has charged former Vice President Jewel Howard-Taylor with 
   trafficking, money laundering and other offenses as part of an investigation into
   an alleged transnational narcotics network
 image: https://static.independent.co.uk/2026/08/19/21/Liberia_Drugs_27_64.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Liberia has charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering and other offenses as part of an investigation into an alleged transnational narcotics network, the Justice Ministry said Wednesday.

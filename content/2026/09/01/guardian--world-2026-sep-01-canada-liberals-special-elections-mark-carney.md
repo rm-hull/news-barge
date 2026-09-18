@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: Three projected victories are a message to US that Carney has support
   of the Canadian people, says one lawmaker
 image: https://i.guim.co.uk/img/media/ff725ec7f61e438e050626297ee2b37008c2f8e9/866_0_4558_3648/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6acd12acf69b19f2e03fc6e01c215399
+categories:
+- UK
+- News & Politics
 ---
 
 Canada’s ruling Liberal party has swept three special elections, a result that showed voters backing the prime minister, Mark Carney, after his face-off with Donald Trump.

@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: A Bradford firm has achieved an industry-leading customer satisfaction
   score.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429802.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

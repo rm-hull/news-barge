@@ -9,6 +9,9 @@ description: Of all the ink tanks we've tested, Canon's MegaTank G3270 (known as
   in the UK) is our number one budget pick, and it could save you a fortune on replacement
   ink.
 image: https://cdn.mos.cms.futurecdn.net/B475QmZoaZPJrW8s8penCJ-970-80.webp
+categories:
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 ![The Canon MegaTank G3270 scattered with print-outs in a home office during our testing](https://cdn.mos.cms.futurecdn.net/B475QmZoaZPJrW8s8penCJ.webp) 

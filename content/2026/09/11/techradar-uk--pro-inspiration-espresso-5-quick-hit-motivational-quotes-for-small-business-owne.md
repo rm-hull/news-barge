@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Feeling the small business burnout? Try these 5 quotes for a shot of
   inspiration
 image: https://cdn.mos.cms.futurecdn.net/eyTNN3UGq5gnXyTRD44zRc-1376-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![man at a modern desk drinkign espresso](https://cdn.mos.cms.futurecdn.net/eyTNN3UGq5gnXyTRD44zRc.jpg) 

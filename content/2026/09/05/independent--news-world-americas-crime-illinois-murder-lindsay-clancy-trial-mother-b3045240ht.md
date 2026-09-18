@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The woman reportedly told police that she believed her child was ‘the
   devil’ or ‘the anti-Christ’
 image: https://static.the-independent.com/2026/09/05/13/50/Screenshot-2026-09-05-at-9-46-38-AM.png?trim=0,0,89,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An Illinois mom murdered her 2-year-old son after she became “very invested” in the Lindsay Clancy murder trial, police said.

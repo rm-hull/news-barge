@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: The wild feline made its home in the park before being euthanized in
   2022 after showing signs of declining health
 image: https://i.guim.co.uk/img/media/7dee388d61e25f01c087872b4be3468e9b8c6481/500_215_2034_1628/master/2034.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2392a52defa3c69d13316ebb1b145381
+categories:
+- UK
+- News & Politics
+- Outdoors & Nature
 ---
 
 The city of Los Angeles will memorialize its most famous mountain lion with a bronze sculpture at Griffith Park, the 4,200-acre (1,700-hectare) stretch of land the cougar once roamed.

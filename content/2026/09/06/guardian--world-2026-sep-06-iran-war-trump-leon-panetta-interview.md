@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: Leon Panetta tells Guardian US is risking ‘forever war’ and says Pentagon
   ‘turmoil’ sending message of weakness
 image: https://i.guim.co.uk/img/media/1258098f38efe380ce0f620d13673ee9a81bed26/738_0_3697_2957/master/3697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd90a25ba2be97999e8c8e27e0657b8c
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump’s war with Iran is likely to drag on for another six months, Leon Panetta, the former US defense secretary, has warned, as the US president struggles to find his way out of the controversial conflict.

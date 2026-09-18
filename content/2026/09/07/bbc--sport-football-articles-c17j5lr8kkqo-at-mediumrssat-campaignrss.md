@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: The Champions League is back and BBC Sport take a look at who the favourites
   are to win the title plus predictions from the experts.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![PSG lift 2025-26 Champions League trophy](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/a674/live/e58050b0-aaaa-11f1-9eba-7de947fa7cd1.jpg)

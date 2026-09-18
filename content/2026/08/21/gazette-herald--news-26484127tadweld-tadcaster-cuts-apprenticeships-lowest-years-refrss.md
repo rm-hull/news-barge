@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Rising costs are forcing North Yorkshire steelwork firm Tadweld to cut
   its apprenticeship intake to the lowest level in a decade.
 image: https://www.gazetteherald.co.uk/resources/images/20530279.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Rising costs are forcing a North Yorkshire steelwork firm to cut its apprenticeship intake to the lowest level in a decade.

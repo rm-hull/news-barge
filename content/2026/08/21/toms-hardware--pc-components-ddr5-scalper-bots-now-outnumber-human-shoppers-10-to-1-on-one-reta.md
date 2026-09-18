@@ -9,6 +9,11 @@ scraped_at: '2026-08-21T13:06:49Z'
 published: '2026-08-21T00:00:00Z'
 description: The ratio was 6:1 in March.
 image: https://cdn.mos.cms.futurecdn.net/DzxQr2k2MxmxSptJ9wViJi-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Crucial DDR5 Pro memory](https://cdn.mos.cms.futurecdn.net/DzxQr2k2MxmxSptJ9wViJi.jpg) 

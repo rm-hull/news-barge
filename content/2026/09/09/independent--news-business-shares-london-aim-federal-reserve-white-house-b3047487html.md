@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Brent oil climbed after the US military reported striking five Iranian
   oil tankers.
 image: https://static.independent.co.uk/2026/09/09/17/ba44e263bcab3e300b2eed72d672cd09Y29udGVudHNlYXJjaGFwaSwxNzg5MDU2MDcy-2.83117733.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Stock prices in London closed sharply lower on Wednesday, as Brent crude surged above 100 dollars a barrel and heightened inflation fears weighed on global equities.

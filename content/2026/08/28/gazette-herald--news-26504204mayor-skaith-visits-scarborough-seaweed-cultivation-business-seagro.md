@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: THE mayor of York and North Yorkshire has backed an innovative seaweed
   cultivation business as the county aims to become England’s first…
 image: https://www.gazetteherald.co.uk/resources/images/21384559.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 THE mayor of York and North Yorkshire has backed an innovative seaweed cultivation business as the county aims to become England’s first carbon-negative region.

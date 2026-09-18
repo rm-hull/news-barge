@@ -7,6 +7,8 @@ scraped_at: '2026-09-18T12:59:18Z'
 published: '2026-09-18T00:00:00Z'
 description: Who took the top prizes at this year's Mobile Industry Awards?
 image: https://cdn.mos.cms.futurecdn.net/VnyyDv2AaDtJRdu2gspbtm-970-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![winner's trophy](https://cdn.mos.cms.futurecdn.net/VnyyDv2AaDtJRdu2gspbtm.jpg) 

@@ -10,6 +10,10 @@ description: The long-running drama reaches Hitler’s rise to power in its fina
   as its creators reflect on the unsettling parallels between Weimar Germany and the
   present day
 image: https://i.guim.co.uk/img/media/c97b9a4165a89a944238bf4c73c0750d7482ebc8/143_0_2756_2205/master/2756.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af373afd5dcf74735f7460db9fb4b088
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 It’s the global hit TV series that pulled audiences straight into the chaotic hedonism of 1920s Germany, dramatising the brilliance and brittleness of a newly built democratic system with unprecedented ambition.

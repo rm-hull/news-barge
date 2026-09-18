@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Job site Adzuna said the number of graduate vacancies was the lowest
   since 2016
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4cf/live/9e2da670-9fa8-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![A forlorn young woman slumped over a desk looking at a laptop](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f4cf/live/9e2da670-9fa8-11f1-bff6-57f1422ebb0b.jpg)

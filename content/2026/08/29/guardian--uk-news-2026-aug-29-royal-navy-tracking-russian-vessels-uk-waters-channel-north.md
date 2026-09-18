@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Three vessels and a helicopter deployed to monitor four ships travelling
   through the North Sea to the Channel
 image: https://i.guim.co.uk/img/media/122541fa99a260816b9ad3f83537a5a7f1c7cd6f/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6b6c9799a58692e46d7398a99cd100a
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 The Royal Navy spent three days tracking Russian vessels as they passed through UK waters, it has emerged.

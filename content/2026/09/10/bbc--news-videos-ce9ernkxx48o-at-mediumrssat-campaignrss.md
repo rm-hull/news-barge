@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Axel Scheffler speaks to the BBC alongside author Dame Julia Donaldson,
   who reads an extract from their new book.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2052/live/3b285ee0-ad26-11f1-a540-61c3f7fc4e6c.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 # Gruffalo Granny illustrator says rise of AI images 'worrying'

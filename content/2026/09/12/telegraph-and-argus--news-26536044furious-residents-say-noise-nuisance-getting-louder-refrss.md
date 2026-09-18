@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Residents have spoken of sleepless nights after loud late-night drumming
   echoed through their neighbourhood.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20141071.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 Residents have spoken of sleepless nights after loud late-night drumming echoed through a Bradford neighbourhood, with one woman saying the noise was so sudden and powerful it "sounded like a bomb".

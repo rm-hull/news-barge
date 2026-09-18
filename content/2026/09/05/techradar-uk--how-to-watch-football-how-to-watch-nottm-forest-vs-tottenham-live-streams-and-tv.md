@@ -8,6 +8,10 @@ scraped_at: '2026-09-05T11:50:30Z'
 published: '2026-09-05T00:00:00Z'
 description: The Tricky Trees look to extend Spurs’ miserable start to another season
 image: https://cdn.mos.cms.futurecdn.net/fkKTWBjXBk9MvjriAXREuF-819-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Morgan Gibbs-White of Nottingham Forest celebrates scoring his team’s second goal during the Premier League 2026/27 match between Liverpool FC and Nottingham Forest FC at Anfield.](https://cdn.mos.cms.futurecdn.net/fkKTWBjXBk9MvjriAXREuF.jpg) 

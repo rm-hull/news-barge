@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Officer Daniel Flores was initially charged with 16 felonies after he
   shared recordings with the LAPD's internal affairs unit
 image: https://static.independent.co.uk/2026/08/19/19/37/GettyImages-2214297158.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Los Angeles district attorney has dropped felony charges against a police officer who secretly recorded his colleagues making racist remarks.

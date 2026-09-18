@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Burnham said "there is no way that we can see its demise, and it won't
   happen under my Government".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![An aerial view at sunrise of the Lovell telescope at Jodrell Bank. Its huge white dish, taller than a house, is tilted upright on a steel cradle that sits on a circular track. Behind it, flat Cheshire farmland stretches to the horizon under a soft pink sky.](https://ichef.bbci.co.uk/ace/standard/937/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png)

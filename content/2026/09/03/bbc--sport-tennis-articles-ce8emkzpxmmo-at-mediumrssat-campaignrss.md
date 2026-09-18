@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Two-time defending champion Aryna Sabalenka cruises into the US Open
   third round before a spiky exchange with a journalist.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/28ee/live/98c7d600-a733-11f1-b2fc-b90b4b6e44c1.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Aryna Sabalenka blows a kiss to the US Open crowd](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/28ee/live/98c7d600-a733-11f1-b2fc-b90b4b6e44c1.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Newcastle will host major fashion events, designer talks, exhibitions
   and catwalk shows this September as the British Fashion Council launches…
 image: https://www.thenorthernecho.co.uk/resources/images/21386710.jpg?type=og-image&xType=0&yType=6
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A major fashion event is heading to the North East next month as part of a nationwide celebration of creativity, culture and design.

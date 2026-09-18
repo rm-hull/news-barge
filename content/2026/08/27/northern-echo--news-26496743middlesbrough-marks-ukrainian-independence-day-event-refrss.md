@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Around 100 people gathered in Centre Square, Middlesbrough, to mark Ukraine’s
   Independence Day and show solidarity with Ukrainians as the country…
 image: https://www.thenorthernecho.co.uk/resources/images/21373407.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Supporters have gathered in a North East town to show solidarity with Ukraine as the country marked 35 years of independence while continuing to defend itself against Russia's ongoing invasion.

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The suspect was driving a 2004 Ford Expedition the wrong way before running
   a red light and slamming into the transit vehicle
 image: https://static.the-independent.com/2026/09/16/22/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 A California woman has been arrested on murder charges after an SUV crashed into a Los Angeles Metro bus on Tuesday, resulting in multiple injuries and two deaths.

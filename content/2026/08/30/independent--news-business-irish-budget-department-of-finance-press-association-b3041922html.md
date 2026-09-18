@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: The tax-advantage scheme is designed to encourage people to move their
   savings into market investments.
 image: https://static.independent.co.uk/2026/08/31/00/eb69ef00b13aba2a9b7bd37acf8e62cfY29udGVudHNlYXJjaGFwaSwxNzg4MTgwNTk1-2.59955787.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A state-backed investment account specifically for children could be made available in the future following plans to roll out a savings and investment scheme for over-18s.

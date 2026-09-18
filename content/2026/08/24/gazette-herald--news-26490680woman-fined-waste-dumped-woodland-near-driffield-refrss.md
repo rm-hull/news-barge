@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A woman has been fined after rubbish linked to her was fly-tipped in
   woodland near Driffield.
 image: https://www.gazetteherald.co.uk/resources/images/21364528.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

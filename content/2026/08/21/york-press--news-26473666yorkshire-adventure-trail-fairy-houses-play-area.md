@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Studfold Adventure Trail has a fairy village, mini golf, and a playground
   for children to enjoy.
 image: https://www.yorkpress.co.uk/resources/images/21334472.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Tripadvisor)*

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Remembering its role in the World Wars is a key aspect of modern Germany's
   identity but the AfD argues it is time to take a more positive view of the past.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55a5/live/2323ca40-a15b-11f1-92f3-2381193e5eb4.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The black of a man wearing a khaki green t-shirt which says 'Deutschland, Meine Heimat' written in a Gothic-style font. The t-shirt shows the insignia of the iron cross](https://ichef.bbci.co.uk/ace/standard/770/cpsprodpb/55a5/live/2323ca40-a15b-11f1-92f3-2381193e5eb4.png)

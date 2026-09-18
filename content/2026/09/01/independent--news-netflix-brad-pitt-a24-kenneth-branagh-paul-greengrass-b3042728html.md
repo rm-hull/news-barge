@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Movie fans have plenty to look forward to this fall, in theaters and
   at home
 image: https://static.independent.co.uk/2026/09/01/13/Fall_Film_Preview_64169.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Here’s The Associated Press’ guide for the movies heading to theaters and the home through Thanksgiving.

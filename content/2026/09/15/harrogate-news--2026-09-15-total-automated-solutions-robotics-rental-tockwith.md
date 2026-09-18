@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Yorkshire firm Total Automated Solutions launches a robotics rental service,
   enabling manufacturers to lease and test systems before making capital investments.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Total-Automated-Solutions.webp
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 **TOCKWITH** — Regional automation specialists have launched a new industrial leasing framework designed to accelerate robotic adoption across Yorkshire’s manufacturing corridors by eliminating upfront capital investment risks.

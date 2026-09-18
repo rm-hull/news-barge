@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Families and supporters came together at a charity football match for
   murdered County Durham toddler Maya Chappell, raising money for children and…
 image: https://www.thenorthernecho.co.uk/resources/images/21418750.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Sports
 ---
 
 Families and supporters came together at a charity football match for murdered County Durham toddler Maya Chappell, raising money for children and backing the campaign for Maya’s Law.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: ‘It’s yet another opportunity to shake down corporate America,’ one GOP
   strategist said
 image: https://static.independent.co.uk/2026/08/25/16/54/GettyImages-2290843264.jpeg?trim=0,78,0,78&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump’s upcoming Republican midterm convention has been described as a trainwreck by political insiders, with concerns ranging from the exorbitant ticket prices to poor optics, according to a new report.

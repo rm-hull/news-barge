@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Ukrainian officials say Russian drones drones have hit a shopping center
   in the city of Kryvyi Rih, killing six people and wounding scores of others
 image: https://static.independent.co.uk/2026/08/21/17/Russia_Ukraine_War_64258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russian drones struck a shopping center in the city of Kryvyi Rih in central Ukraine on Friday, killing six people and wounding scores of others, authorities said.

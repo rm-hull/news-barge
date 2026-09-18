@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The new A59 route at Kex Gill has opened to traffic following the largest
   highways project ever undertaken by North Yorkshire Council.
 image: https://mmo.aiircdn.com/409/6a8d5043273a7e8ccb1.jpg
+categories:
+- Local
+- Harrogate
+- Travel
+- Automotive
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8d5043273a7e8ccb1.jpg) 

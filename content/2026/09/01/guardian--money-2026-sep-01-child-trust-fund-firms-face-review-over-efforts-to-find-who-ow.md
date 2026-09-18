@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: 'Exclusive: FCA pressures firms to do more to sort 760,000 accounts as
   watchdog urges families to use free tracking service'
 image: https://i.guim.co.uk/img/media/20e72231e687a91b7a930ccebe49bb462834b5f9/196_0_2445_1956/master/2445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19cb343395f1524c5962210f7dcd54ff
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Child trust fund providers are being put under the spotlight to check they are treating savers fairly and doing all they can to reunite young people with lost accounts.

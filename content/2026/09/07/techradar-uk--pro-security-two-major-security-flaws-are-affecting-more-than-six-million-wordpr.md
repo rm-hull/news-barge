@@ -7,6 +7,9 @@ scraped_at: '2026-09-07T19:53:07Z'
 published: '2026-09-07T00:00:00Z'
 description: They were already used in more than 440,000 attacks
 image: https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Wordpress brand logo on computer screen. Man typing on the keyboard.](https://cdn.mos.cms.futurecdn.net/PxxKy74xA4GapoubYuoRtK.jpg) 

@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Just 12 MPs switching sides could block the bill, which is set to be
   voted on this afternoon
 image: https://static.independent.co.uk/2026/08/28/16/01KZN51MRC9QCKQKW68HFFJSVJ.jpg?trim=112,0,112,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Andy Burnham will not take part in today’s crucial vote on assisted dying as the future of the controversial legislation rests on a knife edge.

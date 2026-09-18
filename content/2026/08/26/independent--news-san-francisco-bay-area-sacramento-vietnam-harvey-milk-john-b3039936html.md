@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Pulitzer Prize-winning photographer Sal Veder, who is known for his iconic
   image “Burst of Joy,” has died
 image: https://static.independent.co.uk/2026/08/26/21/Obit_Sal_Veder_31112.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Pulitzer Prize winning photographer Slava ‘Sal’ Veder, best known for his picture of a U.S. Air Force lieutenant colonel joyfully reuniting with his family after five years in a prisoner of war camp in Vietnam, died Aug. 22. He was 99.

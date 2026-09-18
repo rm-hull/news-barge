@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Former 2GB and 2UE broadcaster has pleaded not guilty to 22 indecent
   assault and sexual touching charges
 image: https://i.guim.co.uk/img/media/e1494d959a4f666b1f475d079d5237065c402ba1/1195_15_3982_3186/master/3982.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7af47ced1a7df81d8919d1ad47618abf
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 An alleged victim of Alan Jones has told a Sydney court that an unwanted kiss from the former shock jock more than a decade ago is seared in his memory and he wished it never happened.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: An exhibition exploring the connection between farming and nature has
   opened at Bowlees Visitor Centre in County Durham, featuring work by five…
 image: https://www.thenorthernecho.co.uk/resources/images/21335940.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A County Durham exhibition has brought together the work of five artists to explore the relationship between farming and nature.

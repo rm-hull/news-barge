@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Even some fans standing just behind Ted Cruz — who were visible on camera
   — joined in
 image: https://static.independent.co.uk/2026/09/12/16/57/Screenshot-2026-09-12-at-12-15-18-PM.png?trim=0,229,0,229&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Senator Ted Cruz was mercilessly booed during the Texas Longhorns game on Saturday morning in Austin.

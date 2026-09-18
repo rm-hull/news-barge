@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: The Sonos app now uses Live Activities to put controls on your lock screen.
   It's off by default but easy to enable.
 image: https://cdn.mos.cms.futurecdn.net/brpWDdGnHnsQ9nEYQmqoB3-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An iPhone on a green and blue background showing Sonos Live Activities on iOS 26](https://cdn.mos.cms.futurecdn.net/brpWDdGnHnsQ9nEYQmqoB3.jpg) 

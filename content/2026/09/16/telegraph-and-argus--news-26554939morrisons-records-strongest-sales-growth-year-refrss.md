@@ -7,6 +7,12 @@ scraped_at: '2026-09-16T13:26:54Z'
 published: '2026-09-16T00:00:00Z'
 description: Morrisons has recorded its strongest sales growth in more than a year.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462153.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: PA)*

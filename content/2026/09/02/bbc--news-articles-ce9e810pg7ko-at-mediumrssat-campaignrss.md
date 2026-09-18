@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Russia is accused of growing increasingly reckless after Berlin blamed
   Russia for a failed drone attack on Leipzig airport.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![European Commission President Ursula von der Leyen (R)and NATO Secretary General Mark Rutte arrive for a press statement at EU headquarters on September 2, 2026](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg)

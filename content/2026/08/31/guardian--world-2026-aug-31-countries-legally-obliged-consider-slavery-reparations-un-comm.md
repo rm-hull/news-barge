@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Guidance says states must implement ‘comprehensive measures’ to address
   legacy of racial discrimination
 image: https://i.guim.co.uk/img/media/42e534eb55a03872252c74932fd0a349e4023749/358_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85cba24936b2b73c207f287864d38953
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other measures to address the enduring legacy of racial discrimination.

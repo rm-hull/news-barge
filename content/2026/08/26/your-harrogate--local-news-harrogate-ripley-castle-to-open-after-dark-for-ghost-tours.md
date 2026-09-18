@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Ripley Castle is set to open its doors after dark for a series of ghost
   tours.
 image: https://mmo.aiircdn.com/409/6a8ebe17e06790ca4a2.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Film & TV
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8ebe17e06790ca4a2.jpg) 

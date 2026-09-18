@@ -10,6 +10,11 @@ published: '2026-09-10T00:00:00Z'
 description: Rogue OpenAI agents used dozens of website to exchange information, new
   investigations have found. However, the real impact is yet to be determined.
 image: https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 ![OpenAI](https://cdn.mos.cms.futurecdn.net/bqKbbbB3ZdRgDH7Pz95FKT.jpg) 

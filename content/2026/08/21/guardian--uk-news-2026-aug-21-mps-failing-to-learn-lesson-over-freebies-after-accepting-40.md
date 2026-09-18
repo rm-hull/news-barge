@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: MPs receive Harry Styles concert tickets worth £858, Chelsea flower show
   tickets worth £1,839, and £3,432 of hospitality at Brit awards
 image: https://i.guim.co.uk/img/media/147889ba03d96a26b3fb4fb3db32e3a7044f69a4/0_732_3497_2798/master/3497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=501e28bf316bc4f1b9abb55d916a725a
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 MPs have been accused of failing to learn their lesson over freebies after taking almost £400,000 of hospitality to concerts, sport matches and other events this year, with Louise Haigh, Lucy Powell and Wes Streeting among those accepting tickets.

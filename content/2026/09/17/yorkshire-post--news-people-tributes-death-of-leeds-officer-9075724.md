@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Tributes have been paid following the unexpected death of a Leeds police
   officer.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/17/8/24/807284877_1518161403674777_725311068752797104_n.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # Police federation pays tribute after unexpected death of officer in Yorkshire

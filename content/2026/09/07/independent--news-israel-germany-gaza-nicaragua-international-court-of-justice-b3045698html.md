@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: Germany is challenging claims at the United Nations' top court that it
   is facilitating genocide in Gaza by supplying arms to Israel
 image: https://static.independent.co.uk/2026/09/07/06/World-Court-Germany-Nicaragua_81157.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Germany on Monday will challenge claims at the United Nations’ top court that it is “facilitating” acts of genocide in Gaza by providing arms and other military support to Israel.

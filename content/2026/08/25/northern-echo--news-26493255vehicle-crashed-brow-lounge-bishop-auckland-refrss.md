@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Bishop Auckland beauty salon The Brow Lounge has been severely damaged
   after a vehicle reversed into the building in the early hours of the morning.
 image: https://www.thenorthernecho.co.uk/resources/images/21368341.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: SARAH CALDECOTT)*

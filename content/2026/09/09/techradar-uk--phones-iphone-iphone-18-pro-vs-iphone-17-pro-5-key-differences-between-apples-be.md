@@ -8,6 +8,8 @@ scraped_at: '2026-09-09T22:28:35Z'
 published: '2026-09-09T00:00:00Z'
 description: What's new with the iPhone 18 Pro?
 image: https://cdn.mos.cms.futurecdn.net/2KCuoM9aPEd5rezSnbozk7-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![The iPhone 17 Pro next to the iPhone 18 Pro](https://cdn.mos.cms.futurecdn.net/2KCuoM9aPEd5rezSnbozk7.png) 

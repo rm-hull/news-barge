@@ -8,6 +8,10 @@ scraped_at: '2026-09-16T19:32:12Z'
 published: '2026-09-16T00:00:00Z'
 description: Burnham and Carney have a shared affection for the Merseyside club
 image: https://static.independent.co.uk/2026/09/16/18/10/01M2NRTW9V2KK5J3G2T9D0D42X.jpg?trim=95,0,97,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 British Prime Minister Andy Burnham is hosting his Canadian counterpart Mark Carney at Everton’s Carabao Cup tie against this evening.

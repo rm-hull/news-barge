@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A new initiative designed to inspire more young people to pursue careers
   in science, technology, engineering and maths is being rolled out across…
 image: https://www.thenorthernecho.co.uk/resources/images/21452853.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Science
 ---
 
 A new initiative designed to inspire more young people to pursue careers in science, technology, engineering and maths is being rolled out across the North East after a successful pilot programme.

@@ -7,6 +7,8 @@ scraped_at: '2026-09-10T12:54:02Z'
 published: '2026-09-10T00:00:00Z'
 description: Processes and tools have admin costs requiring reevaluation and training
 image: https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Hands typing on a tablet with AI superimposed in text in front](https://cdn.mos.cms.futurecdn.net/qP76MS2BAb7kSuWrvJXXYL.jpg) 

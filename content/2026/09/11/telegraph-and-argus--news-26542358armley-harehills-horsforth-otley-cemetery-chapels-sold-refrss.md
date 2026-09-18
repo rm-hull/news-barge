@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Historic cemetery chapels in Armley, Harehills, Horsforth and Otley are
   set to be sold at auction to raise funds for the city council.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440085.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Personal Finance & Investing
 ---
 
 *(Image: Google)*

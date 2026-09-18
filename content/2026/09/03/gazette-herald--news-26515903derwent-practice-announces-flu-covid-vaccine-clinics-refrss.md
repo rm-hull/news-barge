@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Derwent Practice is preparing for the 2026 flu and COVID vaccination
   season, with flu clinics beginning in October.
 image: https://www.gazetteherald.co.uk/resources/images/21401934.jpg?type=og-image&xType=0&yType=313
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Derwent Practice)*

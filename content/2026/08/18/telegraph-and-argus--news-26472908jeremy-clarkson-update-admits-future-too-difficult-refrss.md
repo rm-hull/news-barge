@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: 'Jeremy Clarkson has given an update on the future of fuel as he admits:
   "It''s too difficult".'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21044663.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 Jeremy Clarkson has given an update on the future of fuel as he admits: "It's too difficult".

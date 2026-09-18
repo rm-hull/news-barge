@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Queen Camilla has spoken publicly for the first time about the emotional
   strain of keeping the King’s cancer diagnosis secret.
 image: https://www.thenorthernecho.co.uk/resources/images/21338955.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Aaron Chown/PA Wire)*

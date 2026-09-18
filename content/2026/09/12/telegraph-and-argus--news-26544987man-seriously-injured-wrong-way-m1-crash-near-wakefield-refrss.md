@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Police are appealing for witnesses and dashcam footage after a wrong-way
   M1 crash near Wakefield left a man with potentially life-changing injuries.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20597824.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Pixabay)*

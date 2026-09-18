@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Anthony’s lawyers argued that an agreement to withhold evidence was one
   of several errors that compromised his June trial
 image: https://static.the-independent.com/2026/08/21/02/TQBnvQpH_fug5XRkbfJ53pLd1xUeEcUCvXXQzL6nCPpAeMYHuhLjSlq6oe3TshPNXJzdYpOUDLv9c7O0R-p_kbPp2Mn1k6nVp36H..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The Texas prosecutor who handled Karmelo Anthony’s conviction in the fatal stabbing at a high school track meet said Thursday that both sides had agreed to withhold evidence that could have further heightened racial tensions and death threats surrounding the case.

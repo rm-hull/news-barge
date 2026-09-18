@@ -10,6 +10,11 @@ description: China has reported that its exports accelerated in August, jumping 
   from a year earlier on strong demand for autos and high-tech goods, its customs
   agency said Tuesday
 image: null
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 China's exports pick up in August, jumping 25% on strong demand for autos and high tech goods

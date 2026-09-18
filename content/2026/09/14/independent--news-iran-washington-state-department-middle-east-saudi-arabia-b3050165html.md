@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: A U.S. government watchdog has released its first report on the impact
   of the Iran war
 image: https://static.independent.co.uk/2026/09/14/23/Iran_US_Pentagon_648_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A U.S. government watchdog released its first report on the impact of the Iran war on Monday, acknowledging the military's advanced weapons shortfalls and offering the first public look at the damage to American aircraft, bases and diplomatic outposts in the Middle East.

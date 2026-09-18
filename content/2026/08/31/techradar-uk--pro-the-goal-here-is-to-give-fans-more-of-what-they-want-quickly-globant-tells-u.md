@@ -9,6 +9,10 @@ scraped_at: '2026-08-31T16:07:49Z'
 published: '2026-08-31T00:00:00Z'
 description: FIFA aims to launch a "joined-up experience " for fans everywhere
 image: https://cdn.mos.cms.futurecdn.net/QnGsBLoE5AuxmbpJLJ5xT7-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Man watching football](https://cdn.mos.cms.futurecdn.net/QnGsBLoE5AuxmbpJLJ5xT7.jpg) 

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate footballer Archie Gray became the youngest player ever to captain
   Tottenham Hotspur in a competitive fixture at the weekend.
 image: https://mmo.aiircdn.com/409/6a8daa11c325cb72c46.jpg
+categories:
+- Local
+- Harrogate
+- Sports
+- Video Gaming
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8daa11c325cb72c46.jpg) 

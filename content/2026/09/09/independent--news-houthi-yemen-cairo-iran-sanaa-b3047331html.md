@@ -11,6 +11,10 @@ description: Rescuers in Yemen have pulled more bodies from the rubble of a pris
   week, as an escalation between the rebels and a Saudi-led coalition threatened Yemen’s
   fragile ceasefire
 image: https://static.independent.co.uk/2026/09/08/15/Middle_East_Yemen_Houthis_Explainer_71569.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Rescuers in Yemen pulled more bodies from the rubble Wednesday of a prison run by Iran-backed Houthi rebels that was hit in a deadly airstrike earlier this week, as an escalation between the rebels and a Saudi-led coalition threatened Yemen's fragile ceasefire.

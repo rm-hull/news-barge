@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: York Outer MP Luke Charters has said he remains in favour of legalising
   assisted dying – despite not casting a vote on the latest attempt to make…
 image: https://www.yorkpress.co.uk/resources/images/21050678.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Supplied)*

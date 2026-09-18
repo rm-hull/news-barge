@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The advice also applies to the over-65s and others with underlying medical
   conditions amid salmonella outbreak.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d127/live/9710c0e0-9d53-11f1-aac2-870643eea2ac.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Plate with runny eggs](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d127/live/9710c0e0-9d53-11f1-aac2-870643eea2ac.jpg)

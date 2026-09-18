@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: 'Plus: Hackers target over 100 US water systems, ICE puts in an order
   for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.'
 image: https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 You may have noticed that Flock Safety’s automatic license plate reader cameras—and the cops who misuse them—are getting a lot of coverage lately. This week, WIRED found a particularly wild case: A cop in Alpharetta, Georgia, was accused of searching for the license plate of a coworker dozens of times after an affair between the two ended, according to internal documents obtained by WIRED.

@@ -10,6 +10,10 @@ description: The Catalan director condemns artificial intelligence and global ec
   in a letter read at her tribute, donating 'anachronistic' items to the Caja de las
   Letras, to be reopened in fifty years.
 image: https://images.euronews.com/articles/stories/09/90/88/74/1200x675_cmsv2_969ddb37-6500-5e3a-9073-ddc8fed03f66-9908874.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## The Catalan director condemns artificial intelligence and global ecocide in a letter read at her tribute, donating 'anachronistic' items to the Caja de las Letras, to be reopened in fifty years.

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: ‘Opera House of the west’ still slated to open to the public as scheduled
   on 7 November, NSW arts minister says
 image: https://i.guim.co.uk/img/media/f8f193789cf2b29753a5ce405ba650badd9ed36a/1376_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ea692dd73302702681fd85d6f2ffda9
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 An investigation is under way into allegations of misconduct involving senior executives at the soon-to-be-opened Powerhouse Parramatta.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: English Whisky has secured official protected GI status from Defra, bringing
   massive legal protections to North Yorkshire distillers including Whittaker's
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/ash-edmonds-fsI-_MRsic0-unsplash.webp
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 **HARROGATE** — Distillers across North Yorkshire are celebrating this weekend after English Whisky officially secured protected Geographical Indication (GI) status from the government, marking a historic legal milestone for the fast-growing regional spirits sector.

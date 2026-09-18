@@ -8,6 +8,10 @@ scraped_at: '2026-09-07T04:26:28Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/low-petergate-york-shoppers-tourists.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 Visitors staying overnight in York and North Yorkshire could soon be charged a £1-a-night tourist tax under new proposals backed by the region’s Mayor.

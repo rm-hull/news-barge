@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Rodney Blackstock made an appearance on the show after disappearing for
   six months.
 image: https://www.yorkpress.co.uk/resources/images/21345514.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Emmerdale/YouTube)*

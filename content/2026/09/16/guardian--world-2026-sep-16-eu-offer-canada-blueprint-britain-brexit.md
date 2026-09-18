@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Ursula von der Leyen has opened door for Canada to become associate member
   to deepen links in ‘openly hostile world’
 image: https://i.guim.co.uk/img/media/4cd77e51ac8305a851054aa696b8fafe199b768f/499_0_5987_4788/master/5987.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a54756c8e3cc164fe0fac95bbac01a79
+categories:
+- UK
+- News & Politics
 ---
 
 Canada’s prime minister, Mark Carney, has been advocating closer alignment with “middle powers” since January in the face of recklessness in Washington.

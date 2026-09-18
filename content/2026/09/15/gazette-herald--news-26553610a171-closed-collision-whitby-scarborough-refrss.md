@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A MAIN road in North Yorkshire is currently closed following a serious
   incident.
 image: https://www.gazetteherald.co.uk/resources/images/21293809.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

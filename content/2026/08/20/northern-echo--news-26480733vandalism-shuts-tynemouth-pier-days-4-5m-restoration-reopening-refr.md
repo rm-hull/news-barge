@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Tynemouth’s North Pier has closed with immediate effect after eight glass
   bricks were smashed near the lighthouse, just one week after the…
 image: https://www.thenorthernecho.co.uk/resources/images/21346768.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Google Maps)*

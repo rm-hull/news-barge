@@ -9,6 +9,12 @@ description: Germany's finance minister was due on Monday to meet the UniCredit 
   to seek guarantees over the future of Commerzbank, as the Italian lender gears up
   to complete a takeover of its German rival.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/02/watermarks-logo-507298238.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Lars Klingbeil was expected to urge UniCredit boss Andrea Orcel to protect jobs in Germany and ensure Commerzbank remains a key lender to the country's small- and medium-sized businesses, Berlin said.

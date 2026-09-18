@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Triple-murderer Erin Patterson is appealing her convictions for poisoning
   four of her estranged husband’s relatives with death cap mushrooms
 image: https://static.independent.co.uk/2026/08/19/04/Australia_Poisonous_Mushrooms_8_312.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Triple-murderer Erin Patterson appealed her convictions Wednesday for poisoning four of her estranged husband’s relatives with death cap mushrooms.

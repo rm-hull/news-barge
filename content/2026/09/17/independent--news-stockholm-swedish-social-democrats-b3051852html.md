@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Sweden’s left-leaning opposition has won a narrow majority in the national
   election, according to a complete vote count
 image: https://static.independent.co.uk/2026/09/14/08/Sweden_Election_27965.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Complete vote count in Swedish election shows a narrow majority for the left-leaning opposition

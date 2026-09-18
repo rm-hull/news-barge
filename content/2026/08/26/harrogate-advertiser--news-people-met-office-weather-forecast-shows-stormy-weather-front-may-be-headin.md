@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A yellow alert for thunderstorms in Harrogate has been issued for tomorrow
   in the latest example of extreme weather to happen this summer.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjhkMGFmNzg2LTFkMTUtNGZhNS04YzUyLWMxNzYxYjk2Y2FmMjowMTE5ZWNmZi0xY2RlLTQyNzctYWIwMy01NzQ0YWNlY2FhMDk=.jpg?crop=3:2,smart&trim=&width=592&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Met Office weather forecast shows stormy weather front may be heading Harrogate's way

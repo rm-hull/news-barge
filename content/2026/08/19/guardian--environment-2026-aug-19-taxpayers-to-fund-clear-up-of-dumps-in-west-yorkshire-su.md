@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: Andy Burnham promises drive to tackle toxic waste, raise fines and use
   AI-powered drones to detect illegal activity
 image: https://i.guim.co.uk/img/media/294353ab775e37f4a9c05ed54e93c66c36ff3e59/87_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3b5405b2e8c11fc5f442785d3bc0fe2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Illegal dumps in West Yorkshire, Surrey and Kent will be cleared up using taxpayer money, Andy Burnham has announced, as the prime minister promises a new drive to tackle toxic waste.

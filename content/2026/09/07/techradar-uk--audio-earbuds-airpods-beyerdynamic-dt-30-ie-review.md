@@ -10,6 +10,9 @@ published: '2026-09-07T00:00:00Z'
 description: Beyerdynamic’s affordable IEMs offer impressive bass at a tempting low
   price, but can they compete with rivals such as Sennheiser and Meze Audio?
 image: https://cdn.mos.cms.futurecdn.net/z9eTkUmwMKZCXZehM4WcAX-2518-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ### TechRadar Verdict

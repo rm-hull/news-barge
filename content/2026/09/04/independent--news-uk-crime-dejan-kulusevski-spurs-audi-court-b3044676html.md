@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Kulusevski, who missed the whole of last season and the 2026 World Cup
   through injury, pleaded guilty to the speeding offence
 image: https://static.independent.co.uk/2026/09/04/10/2277996774..?trim=0,65,0,65&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Tottenham Hotspur winger Dejan Kulusevski has insisted he needs his car to drive home from away games as the Premier League star faces a driving ban after repeatedly being caught speeding.

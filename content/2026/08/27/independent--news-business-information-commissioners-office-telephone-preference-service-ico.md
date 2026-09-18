@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The Information Commissioner’s Office said Elderly Aids Limited had deliberately
   targeted elderly people, making nearly 760,000 cold calls.
 image: https://static.independent.co.uk/2026/08/27/09/27085456-b6946ba1-5b37-4051-a140-745ff37b43a8.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 A company has been fined £190,000 by Britain’s data watchdog for bombarding elderly people with nuisance calls while claiming to be selling devices designed to block unwanted calls.

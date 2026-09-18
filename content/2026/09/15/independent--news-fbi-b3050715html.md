@@ -9,6 +9,11 @@ description: A bribery trial starts this week for a Washington, D.C., Council me
   accused of accepting cash from an associate in exchange for using his elected position
   to help extend city contracts for the associate’s businesses
 image: https://static.independent.co.uk/2026/09/15/18/DC_Councilmember_83196.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A bribery trial starts this week for a Washington, D.C., Council member accused of accepting cash from an associate in exchange for using his elected position to help extend city contracts for the associate's businesses.

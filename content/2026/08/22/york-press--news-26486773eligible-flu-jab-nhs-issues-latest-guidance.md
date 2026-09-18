@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: NHS is urging Brits to start booking flu jabs to ease winter demands
   in A&E departments.
 image: https://www.yorkpress.co.uk/resources/images/21355008.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Liam McBurney/PA Wire)*

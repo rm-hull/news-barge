@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T13:23:56Z'
 published: '2026-09-17T00:00:00Z'
 description: '''We are committed to, and very active to the skilling of people'''
 image: https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Salesforce](https://cdn.mos.cms.futurecdn.net/6wtzTiLoEYW3oCzFJp2TFn.jpg) 

@@ -10,6 +10,11 @@ description: Memories of the wildfire that raged on Langdale Moor in North Yorks
   for 40 days last year came to mind as yet again this summer we experienced extreme
   weather events across the UK.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjcwNzFhZGQxLTRmZWMtNDg0MS1iMjRjLWYxZjdhM2Q3MGEyMDoyMmE1N2RhZC03MmJkLTRhMDgtODI4YS0wZjBlODg5MDIxOGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Jackdaw and Rosebank would set us back in tackling the climate emergency - David Tonge, Ambre Olivari & Chris Copland

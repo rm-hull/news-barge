@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Claims that dismantling pollution rules will lower energy bills and have
   little climate impact are far from convincing
 image: https://i.guim.co.uk/img/media/3696ddb5d1f64cfc4a28611b2f2774c4526e0956/496_0_4957_3966/master/4957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd81d0f3fb7641a7fddd47635a73f4e7
+categories:
+- UK
+- News & Politics
 ---
 
 In allowing US power plants to emit any amount of planet-heating pollution they wish to, the Trump administration made two striking claims – that this will cut Americans’ electricity bills and that the pollution itself doesn’t really matter anyway. Both claims struggle to stand up to even basic scrutiny.

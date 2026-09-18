@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Hulu's The Shards is now streaming, and now you can test your memory
   of it with this trivia quiz.
 image: https://cdn.mos.cms.futurecdn.net/JCSrfgqjFynPDntVP6V8Mc-1600-80.webp
+categories:
+- Technology & Software
+- Science
+- Education & Learning
 ---
 
 ![Igby Rigney and Kaia Gerber in Hulu's The Shards](https://cdn.mos.cms.futurecdn.net/JCSrfgqjFynPDntVP6V8Mc.webp) 

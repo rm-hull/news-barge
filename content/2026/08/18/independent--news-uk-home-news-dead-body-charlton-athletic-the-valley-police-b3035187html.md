@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Charlton issued a club statement after the body was discovered earlier
   on Tuesday
 image: https://static.independent.co.uk/2026/08/18/19/2290341651..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Championship club Charlton Athletic have confirmed that a dead body was found at their stadium on Tuesday morning.

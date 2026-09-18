@@ -10,6 +10,9 @@ description: Officials in Hawaii are urging residents to prepare for heavy rains
   flooding as Hurricane Lowell, a major Category 3 storm, prompted forecasters to
   issue a tropical storm warning for two islands
 image: https://static.independent.co.uk/2026/09/06/21/Tropical_Weather_Hawaii_192_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Officials in Hawaii urged residents and visitors to prepare for heavy rains, flooding and possibly mudslides as Hurricane Lowell, a major Category 3 storm, prompted the National Hurricane Center to issue a tropical storm warning for two islands on Sunday.

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: York Food and Drink Festival is back for another year of culinary delights,
   from September 18 to 27.
 image: https://www.gazetteherald.co.uk/resources/images/21329297.jpg?type=og-image&xType=0&yType=152
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: York Food Festival)*

@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: We've found a secret way to watch Alexander Zverev take on Ben Shelton
   at Arthur Ashe for no charge!
 image: https://cdn.mos.cms.futurecdn.net/zG2kApkHvTxzToEnWuAQFH-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![USA's Ben Shelton reacts after his victory over USA's Frances Tiafoe during the men's singles semi-final tennis match on day thirteen of the US Open tennis tournament](https://cdn.mos.cms.futurecdn.net/zG2kApkHvTxzToEnWuAQFH.jpg) 

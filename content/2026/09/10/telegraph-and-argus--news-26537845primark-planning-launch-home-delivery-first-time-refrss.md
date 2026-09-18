@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Primark is planning to launch home delivery in Great Britain as it expands
   click and collect and invests in its online offering.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433313.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Primark)*

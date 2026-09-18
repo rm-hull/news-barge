@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: An opioid addiction sullied the once-stellar reputation of one of the
   NFL's good guys, Thomas Davis
 image: https://static.independent.co.uk/2026/08/28/08/Pill_Mill_Thomas_Davis_Football_84379.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Nobody could overlook the off-the-field community work — bankrolling a college scholarship endowment, a Thanksgiving food drive, a Christmastime gift giveaway — that cast Thomas Davis of the Carolina Panthers as one of the true good guys around Charlotte and across the NFL.

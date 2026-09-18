@@ -10,6 +10,10 @@ description: As Democrats train their fire on their own, progressives fear that 
   leadership is squandering an opportunity to unify against Trump and the GOP, writes
   John Bowden
 image: https://static.independent.co.uk/2026/08/09/20/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 As the multi-day Democratic Party fight over association with Twitch streamer Hasan Piker continues, the party’s progressive flank and even some centrists fume that party leadership has once again lost the plot.

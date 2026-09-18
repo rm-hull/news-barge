@@ -11,6 +11,10 @@ description: Russian drone and missile attacks on Kyiv once came mostly at night
   that daylight means a return to normal life and leaving residents exhausted by constant
   disruption.
 image: https://static.independent.co.uk/2026/09/04/14/Russia_Ukraine_War_95_93.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Round-the-clock Russian attacks disrupt daily life and exhaust Kyiv residents, in photos

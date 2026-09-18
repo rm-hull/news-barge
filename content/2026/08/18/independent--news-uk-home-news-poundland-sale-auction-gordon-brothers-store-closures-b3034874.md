@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:20Z'
 published: '2026-08-18T00:00:00Z'
 description: Around 200 stores were shut a year ago, leaving 600 around the UK
 image: https://static.independent.co.uk/2025/12/05/11/06738bc2ce95f5bc6ebb567c4c0e16c3Y29udGVudHNlYXJjaGFwaSwxNzY1MDIwMjYx-2.80614959.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The owner of Poundland is reportedly looking to sell the discount high street store just a year after it took over.

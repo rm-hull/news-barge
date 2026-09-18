@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The Yorkshire Spa Retreat has been described as a "wonderful" place that
   is perfect for a relaxing escape.
 image: https://www.thenorthernecho.co.uk/resources/images/21395494.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Tripadvisor)*

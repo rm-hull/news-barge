@@ -7,6 +7,11 @@ scraped_at: '2026-08-22T08:42:20Z'
 published: '2026-08-22T00:00:00Z'
 description: FANCY a spot of cloud gazing?
 image: https://www.thetelegraphandargus.co.uk/resources/images/21190566.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 FANCY a spot of cloud gazing?

@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Australian rider Maeve Plouffe says she narrowly avoided being hit by
   a car during the first stage of the Tour Of Britain Women.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Maeve Plouffe](https://ichef.bbci.co.uk/ace/standard/535/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg)

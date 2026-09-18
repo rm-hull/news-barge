@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Graham Harrison has announced he will step down as leader of Hartlepool
   Borough Council after a change in his personal circumstances.
 image: https://www.thenorthernecho.co.uk/resources/images/20907300.jpg?type=og-image&xType=0&yType=69
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Reform UK)*

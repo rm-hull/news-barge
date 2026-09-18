@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:07:59Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/hay-york-hospitality-award-2025-crowd.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 The York Hospitality Awards are back for 2026 – and you can have your say in your hospitality hero!

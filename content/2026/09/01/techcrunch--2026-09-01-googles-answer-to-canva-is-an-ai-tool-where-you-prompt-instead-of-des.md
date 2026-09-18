@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: With Google Pics, Google is pushing deeper into the creative software
   market dominated by Canva and Adobe, but with a distinctly AI-first approach.
 image: https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers.

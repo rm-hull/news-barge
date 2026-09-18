@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: Rescuers guided a camper to safety after bad weather closed in on a Craven
   fell.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21352805.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Outdoors & Nature
 ---
 
 *(Image: Newsquest)*

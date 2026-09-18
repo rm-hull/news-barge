@@ -9,6 +9,11 @@ description: 'Sir Tony Blair wrote of PMQs in his memoir: it is the most nerve-w
   discombobulating, nail-biting, bowel-moving, terror-inspiring, courage-draining
   experience in my Prime Ministerial life, without question.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjk5ZGFjMDE1LTZiODAtNDAwZi05OWY2LTI1YTM5YmQ5NGFiODo4OTFkNzU1Ni0xNzAwLTQxOGItYWY4ZC1iOGRjMTc0NWE3M2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # PMQs: vibes turn to jibes - time to stop soft-soaping the nation, Prime Minister

@@ -9,6 +9,10 @@ description: In a personal letter to Andy Burnham, Sebastien Lai demands an urge
   meeting with the PM to secure the release of his father after almost six years in
   solitary confinement in Hong Kong.
 image: https://static.independent.co.uk/2026/03/06/6/34/SEI288054711-(1).jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The son of imprisoned British citizen Jimmy Lai has issued an urgent plea to Andy Burnham to help save his father from a Hong Kong jail “before its too late”.

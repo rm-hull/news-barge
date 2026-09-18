@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Nigel Farage has insisted he and his aides ‘had done nothing illegal’
   – but the Met says ‘there are potential offences requiring investigation’
 image: https://static.independent.co.uk/2026/09/04/7/14/james-orr-dan-jukes.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 The Metropolitan Police has launched a criminal probe into claims Reform UK breaching party donation rules with potential illegal foreign funding.

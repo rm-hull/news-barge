@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T22:30:52Z'
 published: '2026-09-03T00:00:00Z'
 description: Aug. 28 - Sept. 3, 2026
 image: https://static.independent.co.uk/2026/09/03/22/APTOPIX_Nepal_Flash_Floods_52348.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Aug. 28 - Sept. 3, 2026

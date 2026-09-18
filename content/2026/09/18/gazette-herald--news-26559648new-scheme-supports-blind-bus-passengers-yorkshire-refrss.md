@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Thomas Pocklington Trust, its Sight Loss Councils and Guide Dogs have
   launched a Bus Driver Vision Awareness Training programme across Yorkshire to…
 image: https://www.gazetteherald.co.uk/resources/images/21469127.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

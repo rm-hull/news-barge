@@ -10,6 +10,9 @@ description: Don’t read The Ambidextrous Universe unless you are serious about
   and physics, because Martin Gardner is very happy to make his readers work – to
   enthralling effect, says Jacklin Kwan
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI312685543.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Martin Gardner and the book jacket for The Ambidextrous Universe](https://www.newscientist.com/wp-content/uploads/2026/09/SEI312685543.jpg?w=840)

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Patients at Teesside Hospice praised staff for going "above and beyond"
   after inspectors awarded the service an Outstanding CQC rating.
 image: https://www.thenorthernecho.co.uk/resources/images/21347859.jpg?type=og-image&xType=0&yType=299
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Teesside hospice where patients say staff go "above and beyond" for patients has been awarded an outstanding rating by care inspectors.

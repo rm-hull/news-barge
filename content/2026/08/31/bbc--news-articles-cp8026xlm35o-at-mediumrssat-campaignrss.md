@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Conservative leader Kemi Badenoch is shaking up her top team ahead of
   the party's conference in October.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4289/live/abc92950-a550-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 ![A composite image. Mel Stride on the left in a suit and tie. Dame Priti Patel wears white.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4289/live/abc92950-a550-11f1-8689-6589354d0f8e.jpg)

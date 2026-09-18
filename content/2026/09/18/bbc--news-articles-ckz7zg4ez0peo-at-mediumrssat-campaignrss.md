@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime
   TV drama Tenko.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Stephanie Cole at the BBC spring/summer press launch. Cole stars in 'Keeping Mum'. 12th March 1997](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg)

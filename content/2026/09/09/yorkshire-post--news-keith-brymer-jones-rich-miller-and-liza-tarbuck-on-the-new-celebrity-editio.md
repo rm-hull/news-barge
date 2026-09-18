@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Keith Brymer Jones, Rich Miller and Liza Tarbuck discuss all things pottery
   in the new celebrity edition of The Great Pottery Throw Down. By Lynn Rusk.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZkNmVhZWFlLTFkZGMtNDgxMS1iM2M2LWRjOGYyMGQyOTZjZDpkMzdlMjg2NC0xYmM4LTRlNjItODUwYi05MzZkY2RmMmU4NDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 # Keith Brymer Jones, Rich Miller and Liza Tarbuck on the new celebrity edition of The Great Pottery Throw Down

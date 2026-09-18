@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Odyssey may have become one of the highest-grossing films of all-time
   but did you know of the connections closer to home?
 image: https://www.yorkpress.co.uk/resources/images/21288165.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 ## Castle Howard's deep connection to the world's biggest film

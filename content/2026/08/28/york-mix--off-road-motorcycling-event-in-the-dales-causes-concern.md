@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:14:55Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/08/scenic-photo-of-swaledale-yorkshire-countryside-gv.jpg
+categories:
+- Local
+- York
+- Automotive
 ---
 
 **There are proposals to reduce the impact of an off-road motorcycling event, which attracts bikers from across the globe, in the Yorkshire Dales.**

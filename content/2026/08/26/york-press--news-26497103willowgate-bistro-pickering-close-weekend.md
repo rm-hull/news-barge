@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The much-loved Pickering restaurant The Willowgate Bistro is to close
   this weekend.
 image: https://www.yorkpress.co.uk/resources/images/21373993.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Couple to close much-loved North Yorkshire restaurant after 13 happy years

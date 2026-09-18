@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A malfunctioning lift has become a real bone of contention for residents
   living in a high-rise tower block in Little Horton.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356533.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: T&A)*

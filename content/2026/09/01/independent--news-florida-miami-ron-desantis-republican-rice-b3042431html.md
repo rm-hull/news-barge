@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: A Florida man convicted of fatally shooting a 16-year-old girl who rejected
   his romantic advances and wounding two of her friends is set to be executed
 image: https://static.independent.co.uk/2026/08/18/05/Florida_Execution_64661.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Florida man convicted of fatally shooting a 16-year-old girl who rejected his romantic advances and wounding two of her friends is set to be executed Tuesday in the first of three lethal injections scheduled this month in the state.

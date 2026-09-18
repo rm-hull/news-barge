@@ -9,6 +9,10 @@ scraped_at: '2026-09-16T13:27:37Z'
 published: '2026-09-16T00:00:00Z'
 description: The button said approved every time as nobody had set a limit.
 image: https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM-889-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![minecraft-vibrant-visuals](https://cdn.mos.cms.futurecdn.net/WqT4qfqpykFX5WJnw9SPtM.png) 

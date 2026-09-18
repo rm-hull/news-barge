@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Monsoon rains from June to September regularly trigger deadly floods
   and landslides across South Asia.
 image: https://images.euronews.com/articles/stories/09/88/95/99/1200x675_cmsv2_5e98c9b9-bb19-5bd6-b6af-fa5aabd3af28-9889599.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Monsoon rains from June to September regularly trigger deadly floods and landslides across South Asia.

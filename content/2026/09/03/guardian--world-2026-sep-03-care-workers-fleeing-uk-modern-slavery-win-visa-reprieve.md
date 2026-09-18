@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Home Office concedes skilled workers abused by sponsors can change employer
   and complete visa term
 image: https://i.guim.co.uk/img/media/df5bd73059407de30a5c490ac54685f42e4c0c67/479_12_2905_2325/master/2905.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e91990b4592ccee1b56c103055fffa5f
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 Care workers, chefs and others in danger of losing their migration status under post-Brexit rules if they leave an exploitative employer will be helped by new visa changes, the Home Office says.

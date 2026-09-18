@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Firefighters were called to a York playground last night after part of
   the equipment was set on fire.
 image: https://www.yorkpress.co.uk/resources/images/20017383.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

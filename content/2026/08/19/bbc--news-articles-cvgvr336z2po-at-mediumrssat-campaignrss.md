@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Police say the family travelled from their home in London and went into
   the sea for a swim.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Society & Culture
 ---
 
 ![Undated image showing three family members (L-R): Hassan El-Khawas, 55, his partner Zeina Alayn, 37,and their daughter Sara El-Khawas, 14.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/ca41/live/295c31c0-9be5-11f1-ba30-ddd78081057f.jpg)

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A man in his 30s was taken to hospital after being assaulted before a
   BMW was allegedly driven at him in Keighley.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/31/12/25/junction-of-Cavendish-Street-and-Lawkholme-Lane.png?trim=0,139,0,139&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Man injured after BMW allegedly driven at him following street assault

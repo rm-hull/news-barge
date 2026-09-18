@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: 'A 75-year-old has completed a sporting double that many lifelong Yorkshire
   sports fans could only dream of: playing both cricket and rugby league at…'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346838.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 *(Image: submitted)*

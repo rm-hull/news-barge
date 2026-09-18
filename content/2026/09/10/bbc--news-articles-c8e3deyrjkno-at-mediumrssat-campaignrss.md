@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T04:29:56Z'
 published: '2026-09-10T00:00:00Z'
 description: Rev Bernard Randall reaches a confidential agreement with Trent College.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa34/live/c7b6f850-ac34-11f1-b483-f5be285e6b7e.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Rev Bernard Randall, a man with brown hair and glasses, wearing a black jacket and shirt, with a white dog collar.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/aa34/live/c7b6f850-ac34-11f1-b483-f5be285e6b7e.jpg)

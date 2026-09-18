@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A former Leeds United star and Championship top scorer has joined Knaresborough
   Town - with the club hoping his arrival can help take them to the 'next level'.
 image: https://mmo.aiircdn.com/409/6aaa35741157d8a6eb7.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa35741157d8a6eb7.jpg) 

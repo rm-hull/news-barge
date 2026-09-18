@@ -8,6 +8,13 @@ published: '2026-08-21T00:00:00Z'
 description: Durham County Council has issued a fresh warning today (Friday, August
   21) reminding drivers that it does not accept parking payments through QR…
 image: https://www.thenorthernecho.co.uk/resources/images/21353374.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Drivers across County Durham are being urged to remain vigilant after fake QR codes were found in council-run car parks.

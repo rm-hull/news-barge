@@ -10,6 +10,11 @@ description: Ed Sheeran's tour has been thrown into turmoil by all of his suppor
   acts quitting after the rapper Macklemore was dropped as an opener due to pro-Palestinian
   comments he made onstage
 image: https://static.independent.co.uk/2026/09/14/22/Music_Macklemore_Ed_Sheeran_425_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 Ed Sheeran's tour of North and South America has been roiled by the decision this week to drop Macklemore as an opener because of the rapper's onstage pro-Palestinian comments. Since then, all of Sheeran's other supporting acts have dropped out, including a group that performs with Sheeran during part of the show.

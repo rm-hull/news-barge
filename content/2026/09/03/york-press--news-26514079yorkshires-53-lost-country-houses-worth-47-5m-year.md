@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: New analysis by Family Tree magazine estimates that 53 lost country houses
   in Yorkshire may represent around £47.5 million in annual heritage value.
 image: https://www.yorkpress.co.uk/resources/images/21399596.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Society & Culture
+- Personal Finance & Investing
+- History
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: York College adult learner Mao Chen has secured a job with West Yorkshire
   Police at the age of 52 after gaining exceptional GCSE grades today.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Sophie-Chaplin-celebrates-her-GCSE-results-by-posing-with-tutors-Laura-Heward-left-and-Naduni-Silva-right-accompanied-by-star-shaped-balloons-.webp
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 York College adult learner Mao Chen has secured a job with West Yorkshire Police at the age of 52 after gaining exceptional GCSE grades today.

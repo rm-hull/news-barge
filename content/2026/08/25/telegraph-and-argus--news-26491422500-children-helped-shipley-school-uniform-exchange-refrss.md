@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A UNIFORM exchange run by Shipley Salvation Army provided clothing to
   more than 500 children last year — and the charity expects demand to…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365595.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A UNIFORM exchange run by Shipley Salvation Army provided clothing to more than 500 children last year — and the charity expects demand to continue rising in 2026.

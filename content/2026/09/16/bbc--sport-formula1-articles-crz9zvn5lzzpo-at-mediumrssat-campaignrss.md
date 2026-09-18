@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Formula 1 increases the number of sprint races from six to 10 for the
   2027 World Championship.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 ![Charles Leclerc's Ferrari exits Tabac corner in Monaco in 2026](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg)

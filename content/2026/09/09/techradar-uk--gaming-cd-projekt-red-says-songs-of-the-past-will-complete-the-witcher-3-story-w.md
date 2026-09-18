@@ -10,6 +10,9 @@ published: '2026-09-09T00:00:00Z'
 description: 'CD Projekt Red has said it wanted Songs of the Past to spotlight Dandelion
   because it felt like "a chapter was missing" from The Witcher 3: Wild Hunt.'
 image: https://cdn.mos.cms.futurecdn.net/KFxWG8qRM6NSjtJMotYqf-1920-80.png
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/KFxWG8qRM6NSjtJMotYqf.png) 

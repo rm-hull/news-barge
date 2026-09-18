@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The prime minister has promised to clean up three more of the country’s
   ’toxic dumps’
 image: https://static.independent.co.uk/2026/04/14/14/01KP5K0RTF3RYSWN384REP16CR.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham has ordered a new crackdown on gangs profiting from illegal waste, promising to clean up three more of the country’s “toxic dumps”.

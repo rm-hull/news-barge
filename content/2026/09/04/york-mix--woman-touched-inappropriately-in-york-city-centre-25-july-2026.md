@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T18:58:29Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-blake-street-york-25-july-2026.webp
+categories:
+- Local
+- York
+- Society & Culture
+- Arts & Culture
 ---
 
 Police are investigating after a woman was touched inappropriately in York city centre.

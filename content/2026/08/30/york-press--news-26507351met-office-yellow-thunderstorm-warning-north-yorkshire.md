@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The UK weather agency issued the warning just before 9am this morning
   (Sunday, August 30) and said it runs from 11am until midnight.
 image: https://www.yorkpress.co.uk/resources/images/20941230.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Kieran Delaney)*

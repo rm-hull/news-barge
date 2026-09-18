@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The 44-year-old was a decorated army veteran turned banker who worked
   advising wealthy clients
 image: https://static.independent.co.uk/2024/04/10/11/putney%20pusher%201.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Personal Finance & Investing
 ---
 
 A descendant of Queen Victoria who was the main suspect in the notorious “Putney pusher” case has been found dead.

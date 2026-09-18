@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A player opens a brand new slot release, deposits $10, spins a handful
   of times, and closes the tab five minutes later feeling like the money was…
 image: https://www.yorkpress.co.uk/resources/images/21280004.jpg?type=og-image
+categories:
+- Local
+- York
+- Video Gaming
+- Technology & Software
 ---
 
 In association with

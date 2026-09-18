@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Venezuela’s main airport has partially resumed operations nearly 10 weeks
   after two devastating earthquakes
 image: https://static.independent.co.uk/2026/09/01/22/Venezuela_Airport_Reopens_88457.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Venezuela's main airport partially resumed commercial operations on Tuesday, nearly 10 weeks after two devastating earthquakes struck the South American country.

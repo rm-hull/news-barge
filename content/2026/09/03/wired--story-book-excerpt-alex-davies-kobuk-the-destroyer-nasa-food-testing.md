@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: In the early 20th century, public outcry following Upton Sinclair’s The
   Jungle led to stricter food safety protocols. NASA took them a step further.
 image: https://media.wired.com/photos/6a9adfcfa78871e1efea97d6/191:100/w_1280,c_limit/BookExcerpt_HowNasaChangedFoodTesting_V2.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 In 1906, in response to public outcry that came after Upton Sinclair’s *The Jungle* detailed the revolting conditions in Chicago’s meatpacking plants, the US government passed the Federal Meat Inspection Act. The legislation created what would become known as the Food Safety and Inspection Service, a force of federal employees who would spend their days in stockyards and packing plants, checking livestock for disease both before and after their slaughter. They did their work organoleptically—with their eyes, noses, and hands—an approach soon dubbed “poke and sniff.” This 100 percent testing method worked well enough for spotting the lesions that signaled tuberculosis and cysticercosis (a tissue infection caused by tapeworms), and the federal presence discouraged plants from using illegal preservatives and generally unsanitary practices.

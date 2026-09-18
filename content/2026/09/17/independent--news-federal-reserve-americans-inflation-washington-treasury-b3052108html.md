@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: About six weeks ago, Federal Reserve Chairman Kevin Warsh announced that
   a divided central bank was keeping its key interest rate unchanged
 image: https://static.independent.co.uk/2026/09/17/19/Federal_Reserve_Warsh_71_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 About six weeks ago, Federal Reserve Chairman Kevin Warsh announced that a divided central bank was keeping its key interest rate unchanged.

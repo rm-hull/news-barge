@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A Bradford MP has welcomed a national crackdown on waste crime, including
   proposals that could force offenders to clean up their own mess.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351049.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Supplied)*

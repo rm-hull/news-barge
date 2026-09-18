@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international
   headquarters in Ireland.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243536353.jpg?w=1024
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Mark Zuckerberg just bought a cozy abode close to Meta’s international headquarters in Ireland. By cozy abode, we mean a castle. Zuck bought the 19th-century Strancally Castle and its 440-acre grounds, an estate estimated to have cost him anywhere from $23 million to $35 million.

@@ -9,6 +9,9 @@ description: a16z’s Borderless Founder network initiative supports immigrant a
   founders. 'Having one foot in your home country, and one foot in Silicon Valley,"
   is an advantage, the firm believes.
 image: https://techcrunch.com/wp-content/uploads/2026/08/gabriel-vasquez-a16z.jpg?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Andreessen Horowitz has made headlines for its American dynamism thesis, but a U.S. passport is no requirement. According to Gabriel Vasquez, a partner focusing on AI apps and the firm’s global investment strategy, “44% of our investments in the Apps Fund One and Two have an international founder.”

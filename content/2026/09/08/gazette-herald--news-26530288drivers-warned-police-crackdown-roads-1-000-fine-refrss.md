@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Drivers caught using incorrectly displayed number plates can be fined
   up to £1,000.
 image: https://www.gazetteherald.co.uk/resources/images/16489152.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Getty)*

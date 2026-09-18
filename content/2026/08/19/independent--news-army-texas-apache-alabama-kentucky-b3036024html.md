@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: The U.S. Army says it will resume Apache helicopter training missions
   following a brief pause after two soldiers were killed in a crash last week in Texas
 image: https://static.independent.co.uk/2026/08/20/00/Army_Helicopter_Crash_Texas_56264.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The U.S. Army said Wednesday it will resume Apache helicopter training missions after a brief pause prompted by a crash in Texas last week killed two soldiers.

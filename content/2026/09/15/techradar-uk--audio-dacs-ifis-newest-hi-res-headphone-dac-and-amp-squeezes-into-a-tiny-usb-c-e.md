@@ -10,6 +10,8 @@ published: '2026-09-15T00:00:00Z'
 description: The iFi Go cable manages to fit a DAC/headphone amp into one small cable,
   which you can use on your phone or laptop.
 image: https://cdn.mos.cms.futurecdn.net/x25Ud6DFm6s5V3mQ7vsmaN-2400-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The iFi Go Cable coiled by a laptop.](https://cdn.mos.cms.futurecdn.net/x25Ud6DFm6s5V3mQ7vsmaN.jpg) 

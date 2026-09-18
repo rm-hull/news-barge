@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Sunderland legend Kevin Ball will join Maurice Hepworth as a special
   guest speaker for his new book.
 image: https://www.thenorthernecho.co.uk/resources/images/21377345.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A former footballer is launching a new book with the support of a Sunderland legend.

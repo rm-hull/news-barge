@@ -10,6 +10,10 @@ description: Federal law enforcement warned the parents of Caleb Vazquez, one of
   teenagers involved in a San Diego mosque shooting, about his concerning online comments
   days before the attack
 image: https://static.independent.co.uk/2026/09/06/00/San_Diego_Mosque_Shooting_29338.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Just days before two teenagers carried out a mass shooting at a San Diego mosque, federal law enforcement officials warned the parents of one of the shooters that their son was making concerning comments about school shootings on the dark web, according to new details included in a recently filed lawsuit.

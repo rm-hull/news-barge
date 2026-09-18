@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A bipartisan group of lawmakers is pressing the U.S. Army to explain
   why it told a unit based in Europe to stop specializing in drone warfare
 image: https://static.independent.co.uk/2026/09/02/13/Army_Drones_52948.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A bipartisan group of U.S. lawmakers is pressing the Army to explain why it told a unit based in Europe to stop specializing in drone warfare, an order that comes as the world's battlefields rapidly evolve and military tactics increasingly rely on uncrewed systems to fight.

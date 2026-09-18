@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:43:27Z'
 published: '2026-09-17T00:00:00Z'
 description: 22 everyday Americans take on the ultimate game of deception
 image: https://cdn.mos.cms.futurecdn.net/jbcCfP5DBRZCwfWyu8No7H-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Alan Cumming selects his Traitors during the Round Table in The Traitors: New Blood](https://cdn.mos.cms.futurecdn.net/jbcCfP5DBRZCwfWyu8No7H.jpg) 

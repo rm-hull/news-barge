@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: With five air frying modes and eight microwave presets — including one
   for beverages
 image: https://cdn.mos.cms.futurecdn.net/WK8rSfzkmPCe66hfGgupY6-784-80.png
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Food & Cooking
 ---
 
 ![Ninja Crispi Microwave on kitchen counter containing stuffed peppers](https://cdn.mos.cms.futurecdn.net/WK8rSfzkmPCe66hfGgupY6.png) 

@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T13:07:36Z'
 published: '2026-08-25T00:00:00Z'
 description: Discover more about Linux with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/Dny84DUN8dLTj7B9TUQBEB-320-80.jpg)

@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Counterfeit versions of a drug which is still in clinical trials are
   flooding the black market.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb31/live/429d3890-a861-11f1-ae45-e9984fc27c77.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A picture of a young man looking at the camera, He has brown hair and is bare chested. An image of white boxes with retatrutide written in shimmery, colourful writing. The boxes have a little clear window where you can see a vial of fake retatrutide inside](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/cb31/live/429d3890-a861-11f1-ae45-e9984fc27c77.png)

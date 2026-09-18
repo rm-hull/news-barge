@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: UK pet retailer Pets at Home is launching a new service with three new
   products for cat and dog owners.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351452.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
+- Lifestyle & Fashion
 ---
 
 UK pet retailer Pets at Home has launched a new pet insurance service for customers.

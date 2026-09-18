@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A quintuple murder suspect was found dead inside a vehicle in Enumclaw,
   Washington, on Sunday, a day after the bodies of five people were discovered
 image: https://static.the-independent.com/2026/08/24/8/45/Screenshot-2026-08-24-at-09-27-24.png?trim=6,0,5,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A suspect in the killings of five people found dead at a rural Oregon property was discovered dead inside a vehicle in Washington state Sunday, authorities said.

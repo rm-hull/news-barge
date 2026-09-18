@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Portrait of a Lady, looted by the Nazis during World War II, has been
   cleared for return
 image: https://static.independent.co.uk/2026/09/04/21/Argentina_Nazi_Stolen_Art_191_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 An Argentine court has approved a deal to return a long-lost 18th-century Italian portrait, which was looted from a prominent Jewish art dealer during World War II, to his heir.

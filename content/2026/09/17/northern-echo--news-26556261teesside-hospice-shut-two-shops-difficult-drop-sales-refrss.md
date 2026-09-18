@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Teesside Hospice has announced the closure of its Redcar and Ingleby
   Barwick charity shops after seeing a downturn in sales .
 image: https://www.thenorthernecho.co.uk/resources/images/21464189.jpg?type=og-image&xType=0&yType=128
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A Teesside charity has made the "difficult decision" to close two of its stores following a drop in sales.

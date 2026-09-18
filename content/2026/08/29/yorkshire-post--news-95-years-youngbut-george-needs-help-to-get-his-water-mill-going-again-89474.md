@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: George Harrison just wants to get his watermill going again. But at 95
   he can’t do it alone.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdmOGJjMDAxLTAxYjYtNGMzNy04ZjZiLWY1ZmYwZjU3YjQwNToyMDUwZjc1Ni04MjZhLTQ5N2QtOTFmMi01YTk5YzgyNTNhNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # 95 years young..but George needs help to get his water mill going again

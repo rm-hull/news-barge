@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: There have been decades of mistreatment and mismanagement of those who
   seek help later in life, say experts in a new, damning report.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91ff/live/c3472cc0-a09c-11f1-8a1f-314a01485cf4.png
+categories:
+- UK
+- News & Politics
+- Self-Improvement
+- Society & Culture
 ---
 
 ![Woman in shadow looking out of window](https://ichef.bbci.co.uk/ace/standard/796/cpsprodpb/91ff/live/c3472cc0-a09c-11f1-8a1f-314a01485cf4.png)

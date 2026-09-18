@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Volunteers have contributed 75 hours to improving Harrogate town centre
   on the first day of a four-day community initiative.
 image: https://mmo.aiircdn.com/409/6aab93a012522934f7f.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab93a012522934f7f.jpg) 

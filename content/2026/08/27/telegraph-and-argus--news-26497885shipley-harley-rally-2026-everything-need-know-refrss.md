@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Hundreds of Harley-Davidson riders will hit the roads across the Bradford
   district this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378900.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

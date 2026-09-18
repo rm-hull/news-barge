@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Blooms Coffee Box in Skinningrove has built a loyal following thanks
   to its sea views, speciality coffee and dog-friendly treats.
 image: https://www.thenorthernecho.co.uk/resources/images/21366134.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 This East Cleveland coffee spot with stunning sea views and sweet treats has attracted thousands of visitors who dub it a 'hidden gem'.

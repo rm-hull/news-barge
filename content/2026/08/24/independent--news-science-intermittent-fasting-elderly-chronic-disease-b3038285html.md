@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Ageing changes how people digest food, absorb nutrients, control blood
   sugar and maintain muscle
 image: https://static.independent.co.uk/2026/05/06/14/06125217-c5581b0f-aab1-499e-9b26-7dd34556259d.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Food & Cooking
 ---
 
 Going for much of the day without eating is often promoted as a way to improve health or lose weight. But a new study suggests that long gaps between meals may have different effects on older adults – especially those in the oldest age groups.

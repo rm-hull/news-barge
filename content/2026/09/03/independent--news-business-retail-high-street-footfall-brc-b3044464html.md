@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: BRC chief executive Helen Dickinson said high streets face an uphill
   battle
 image: https://static.independent.co.uk/2026/08/20/13/2290641368..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Sports
 ---
 
 Overall retail footfall dropped 1.7% year on year in August despite cooler weather enticing consumers back following a scorching July, figures show.

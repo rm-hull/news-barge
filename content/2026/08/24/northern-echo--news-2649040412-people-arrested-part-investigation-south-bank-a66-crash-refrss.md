@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Twelve people have been arrested as part of a major investigation into
   organised crime.
 image: https://www.thenorthernecho.co.uk/resources/images/21357844.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTH NEWS LTD)*

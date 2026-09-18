@@ -9,6 +9,10 @@ description: Video. Torrential rain and severe thunderstorms struck Tunis on 17 
   flooding roads, disrupting traffic, and forcing schools and universities to suspend
   afternoon classes from 3 p.m. local time.
 image: https://images.euronews.com/articles/stories/09/91/91/60/1200x675_cmsv2_ccc2413f-2fa5-50cf-9a1f-c07c9767000f-9919160.jpg
+categories:
+- Europe
+- News & Politics
+- Education & Learning
 ---
 
 The Tunis Governorate announced **suspension of afternoon classes** across all public and private educational, training, and university institutions, citing warnings from the National Institute of Meteorology and advice from the regional disaster-prevention committee. Between**30 and 50 millimetres of rain** were forecast across Greater Tunis in a short period, overwhelming drainage systems in several neighbourhoods.

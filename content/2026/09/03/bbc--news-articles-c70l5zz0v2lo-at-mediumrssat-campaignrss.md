@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The conviction against Sir Sadiq Khan is withdrawn after he was prosecuted
   in a car ownership scam.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4e4/live/fbfb6a50-a77b-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Mayor of London Sir Sadiq Khan.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d4e4/live/fbfb6a50-a77b-11f1-b2d5-535b3b3d379f.jpg)

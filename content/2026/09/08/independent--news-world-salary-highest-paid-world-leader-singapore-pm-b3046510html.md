@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Salaries of political leaders stand in sharp contrast to what median
   wage workers make
 image: https://static.independent.co.uk/2026/09/08/11/2026-09-02T092606Z_946166558_RC2XANA5FBID_RTRMADP_3_THAILAND-SINGAPORE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Ministerial salaries in Singapore, already among the world’s highest, will go up from 15 October, boosting the prime minister's annual pay by 64 per cent to S$3.6m (£2.1 m) from S$2.2 m (£1.3m).

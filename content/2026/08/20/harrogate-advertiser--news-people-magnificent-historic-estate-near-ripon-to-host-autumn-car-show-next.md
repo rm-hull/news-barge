@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Britain’s most dedicated car enthusiasts will descend on Newby Hall and
   Gardens as the Autumn Sports Cars in the Park show returns to the historic estate.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlhZjUyMjk3LWFhOGEtNDRhNi05YTU0LTVlYTQxOGE3YzI5ZDoyZjE2MTY0Ny0wYTY3LTRmYTQtYjViZS00OTMzNTlmM2VmNTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Magnificent historic estate near Ripon to host Autumn Car Show next month

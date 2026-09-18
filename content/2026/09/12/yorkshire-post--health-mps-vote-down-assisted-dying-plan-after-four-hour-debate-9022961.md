@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: An attempt to legalise assisted dying in England and Wales has been rejected
   by MPs.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRlODBhNjI1LTQzZWYtNDVhNS1iOGQ1LTdkNDcyY2Y4N2UwODo4ZmZlNzUwMS02MWYyLTQyNzgtOWQzMy0wZDIzOGM1ZjFmNjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # MPs vote down assisted dying plan after four-hour debate

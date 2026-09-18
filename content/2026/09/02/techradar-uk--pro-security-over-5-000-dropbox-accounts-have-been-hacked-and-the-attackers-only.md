@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: A bug in Lenovo's ID verification system made it possible to access Dropbox
   accounts
 image: https://cdn.mos.cms.futurecdn.net/HXBM93dGYwGkVGnjAoWzpE-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Dropbox logo is seen on a smartphone.](https://cdn.mos.cms.futurecdn.net/HXBM93dGYwGkVGnjAoWzpE.jpg) 

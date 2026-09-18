@@ -11,6 +11,11 @@ description: The fact that prisoners are being released early because the Govern
   operating at hundreds of prisoners below its full capacity more than a year after
   opening is deeply embarrassing for the Government.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJhMDAzNzEzLWE3MmYtNDY2Mi1hNDkzLWZhY2M2ZmU1NzBkNTpjMWVkOTdhNy03OGJjLTRkZDAtOGIwZC0zNWE2NmQ4NmNiYzc=.jpg?crop=3:2,smart&trim=&width=729&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Spaces at ‘super prison’ near York raise questions over plans to release prisoners early

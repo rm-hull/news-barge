@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T04:25:37Z'
 published: '2026-09-08T00:00:00Z'
 description: The Easingwold Summer of Music festival has finished for another year.
 image: https://www.yorkpress.co.uk/resources/images/21419815.jpg?type=og-image
+categories:
+- Local
+- York
+- Music
+- Arts & Culture
 ---
 
 ## Easingwold Town Band brings curtain down on Summer of Music festival

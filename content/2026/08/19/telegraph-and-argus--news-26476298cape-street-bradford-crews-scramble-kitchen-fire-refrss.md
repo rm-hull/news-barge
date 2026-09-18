@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Three fire crews were called to a kitchen fire on a Bradford street on
   Tuesday evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17434275.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

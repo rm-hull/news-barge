@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A judge has increased bond for a Colorado man charged with killing his
   wife from $3 million to $10 million
 image: https://static.independent.co.uk/2026/09/04/23/Missing_Woman_Colorado__1432.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A judge increased bond for a Colorado man charged with killing his wife to $10 million Tuesday after authorities said he was a flight risk because he fled from a crash after picking his daughter up at the airport.

@@ -9,6 +9,10 @@ description: 'Residents of Piddington, an Oxfordshire village, have voted for sy
   independence from the UK in protest against plans to house more than 1,000 migrants
   at a nearby former military base. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/62/21/1200x675_cmsv2_effa877b-1540-5e35-b70d-d20e80f8d473-9916221.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Residents of Piddington, an Oxfordshire village, have voted for symbolic independence from the UK in protest against plans to house more than 1,000 migrants at a nearby former military base.

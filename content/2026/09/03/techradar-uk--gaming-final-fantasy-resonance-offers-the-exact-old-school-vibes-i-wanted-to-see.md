@@ -10,6 +10,9 @@ description: Final Fantasy Resonance is the first HD-2D title in the iconic RPG 
   and after an hour with the game, it has all the makings of an exciting new direction
   for the fans of the golden age of the franchise.
 image: https://cdn.mos.cms.futurecdn.net/uXxAN5HwxpT9BhHLA4Aot7-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A screenshot from Final Fantasy Resonance](https://cdn.mos.cms.futurecdn.net/uXxAN5HwxpT9BhHLA4Aot7.jpg) 

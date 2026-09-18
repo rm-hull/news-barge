@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: The Red Devils are targeting their first win of the new season as they
   face another promoted side
 image: https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Film & TV
 ---
 
 ![Bruno Fernandes of Manchester United during the Premier League 2026/27 match between Hull City and Manchester United at MKM Stadium on August 22, 2026 in Hull, United Kingdom.](https://cdn.mos.cms.futurecdn.net/yZ7EfjqRsbkm9e72Hu3aWJ.jpg) 

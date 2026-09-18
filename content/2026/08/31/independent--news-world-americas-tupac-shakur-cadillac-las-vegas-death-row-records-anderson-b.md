@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Jurors will hear closing arguments in the trial of Duane “Keffe D” Davis,
   who is accused of orchestrating the killing of rapper Tupac Shakur
 image: https://static.independent.co.uk/2026/08/31/06/Tupac_Trial_85596.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors will hear closing arguments Monday in the trial of Duane “Keffe D” Davis, who is accused of orchestrating the killing of rapper Tupac Shakur.

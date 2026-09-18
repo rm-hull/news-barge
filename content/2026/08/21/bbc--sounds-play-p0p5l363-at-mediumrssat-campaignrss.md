@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Attorney General Todd Blanche won’t pledge to act “independently” from
   the White House.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ## Episode details

@@ -10,6 +10,12 @@ description: A 22-year-old man from Singapore has pleaded guilty to teaming up w
   friends to steal nearly a quarter-billion dollars in bitcoin from a Washington,
   D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 image: https://static.independent.co.uk/2026/09/07/12/Crypto_Scam_5326_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident — one of the largest cryptocurrency thefts in U.S. history — and then embarking on a wild spending spree with the laundered proceeds.

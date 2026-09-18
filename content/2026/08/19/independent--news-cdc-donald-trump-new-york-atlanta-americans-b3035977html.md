@@ -9,6 +9,12 @@ description: Dr. Erica Schwartz, the new director of the Centers for Disease Con
   and Prevention, is promising to advocate for the agency while addressing staff burnout
   and understaffing issues
 image: https://static.independent.co.uk/2026/08/18/11/CDC-Zombie_Programs_21313.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 In her first large staff meeting, the new director of the Centers for Disease Control and Prevention promised Wednesday to advocate for the agency while acknowledging that congressionally funded programs lacked staff and employees were feeling burned out.

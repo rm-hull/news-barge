@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: British number one Katie Boulter is dumped out in the second round of
   the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f6c/live/06d61040-a715-11f1-8596-77a4bf645971.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Katie Boulter](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7f6c/live/06d61040-a715-11f1-8596-77a4bf645971.jpg)

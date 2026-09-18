@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: King Harald was Europe's oldest monarch and Norway's ceremonial head
   of state since 1991
 image: https://static.independent.co.uk/2026/08/27/09/2026-08-27T080233Z_1712505677_RC2UTDAPR2KC_RTRMADP_3_NORWAY-ROYALS-KING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Norway’s King Harald has died at the age of 89 after more than 35 years on the throne, the Royal Palace has said.

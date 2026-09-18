@@ -10,6 +10,9 @@ description: Early testers are raving about what Instinct can do, but some say t
   AI assistant’s sweeping access, broad terms and ability to act on users’ behalf
   come with uncomfortable trade-offs
 image: https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Everyone is buzzing about Instinct, an AI personal assistant still in private access, not only for its incredible capabilities, but also for its potential privacy concerns. The agent, a veritable taskmaster, has been praised as feeling “like magic” and being one of the “most exciting launches” since OpenClaw. However, some testers have also raised concerns about the AI agent’s security model and its worrisome terms of service.

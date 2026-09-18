@@ -8,6 +8,8 @@ scraped_at: '2026-09-03T19:16:46Z'
 published: '2026-09-03T00:00:00Z'
 description: AI is here to stay, but not just for its own sake.
 image: https://cdn.mos.cms.futurecdn.net/pDDw4MSDkMd2qEMb6TTPWm-800-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Philips Hue Liane 360-degree smart rope light hanging in kitchen](https://cdn.mos.cms.futurecdn.net/pDDw4MSDkMd2qEMb6TTPWm.jpg) 

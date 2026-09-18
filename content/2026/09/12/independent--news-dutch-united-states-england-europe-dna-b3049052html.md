@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Solheim Cup at Bernardus Golf in the Netherlands is encouraging fans
   to arrive by bicycle
 image: https://static.independent.co.uk/2026/09/12/12/Solheim_Cup_Bikes_72762.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Travel
 ---
 
 How else would you get to a golf tournament in the Netherlands?

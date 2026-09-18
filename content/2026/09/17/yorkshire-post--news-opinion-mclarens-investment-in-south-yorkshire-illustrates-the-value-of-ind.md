@@ -10,6 +10,12 @@ description: The economy is not going to correct itself, the Government needs to
   the right environment to enable businesses to thrive. Only then will Britain’s economic
   woes be addressed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRmNDQ0OTY3LTIyYzYtNGQ2MC04YmZmLThkOTI5NTA3ZTE0OTo4M2ZlYzY3Yy01MzM3LTQ3ZDYtOTlkMi1hMGQ0YzVlZjgxZTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # McLaren’s investment in South Yorkshire illustrates the value of industrial clusters to the economy

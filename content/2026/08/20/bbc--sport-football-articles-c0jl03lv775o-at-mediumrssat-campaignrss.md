@@ -9,6 +9,10 @@ description: Holding, pushing, shoving, jostling and grappling. It became someth
   of an epidemic in the Premier League last season - here's what's being done to fix
   it.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df50/live/adedee20-1642-11f1-9293-5bf16ec577d6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Iliman Ndiaye of Everton holds back Bruno Fernandes and Casemiro of Manchester United as players jostle at a corner kick](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/df50/live/adedee20-1642-11f1-9293-5bf16ec577d6.jpg)

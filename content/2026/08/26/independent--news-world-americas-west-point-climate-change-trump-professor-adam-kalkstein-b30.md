@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: 'Exclusive: ‘What’s going on is... just shocking,’ attorney Michael Sussman
   told The Independent'
 image: https://static.independent.co.uk/2026/08/25/23/24/GettyImages-1219637316.jpeg?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A tenured professor at the U.S. Military Academy at West Point claims he was fired after pushing back on a presidential directive to “defy science” and stop teaching cadets that climate change had “primarily human causes, something contrary to the ideology of the Commander in Chief and forbidden at West Point.”

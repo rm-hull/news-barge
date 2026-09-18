@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The family of a former chemical plant worker who died after developing
   an asbestos-related lung disease has received a six-figure pay out.
 image: https://www.thenorthernecho.co.uk/resources/images/21429152.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: CONTRIBUTOR)*

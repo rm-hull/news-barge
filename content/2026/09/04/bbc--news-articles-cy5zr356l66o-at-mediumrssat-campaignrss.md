@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Wolverhampton-born comedian and actress shares her experiences in
   her new memoir.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b939/live/d76832c0-a93f-11f1-a24a-1f5107675b0f.png
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![Dame Meera Syal has short wavy dark brown hair and is dressed in a teal green sparkly dress and has gold hooped earrings on. She is standing against a black background with the 'olivier awards' logo on.](https://ichef.bbci.co.uk/ace/standard/608/cpsprodpb/b939/live/d76832c0-a93f-11f1-a24a-1f5107675b0f.png)

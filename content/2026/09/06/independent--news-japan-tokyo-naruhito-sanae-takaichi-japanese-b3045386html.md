@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: Japan’s Prince Hisahito has turned 20 while facing growing attention
   as a future monarch
 image: https://static.independent.co.uk/2026/09/06/02/Japan_Prince_Birthday_76848.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Prince Hisahito turned 20 on Sunday as he faces growing attention as a future monarch in Japan following the government's unpopular revision to the Imperial House Law that reinforces male-only succession rules.

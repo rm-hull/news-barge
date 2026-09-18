@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Two Phoenix police officers have been fired and arrested after a violent,
   unreported traffic stop earlier this month
 image: https://static.independent.co.uk/2026/08/23/22/Phoenix_Police_Fired_Traffic_Stop_78455.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two Phoenix police officers were fired and arrested after an unreported traffic stop in which they assaulted a man and woman and shocked them with a Taser, the police chief said.

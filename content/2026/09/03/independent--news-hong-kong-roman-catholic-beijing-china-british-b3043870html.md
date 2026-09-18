@@ -11,6 +11,9 @@ description: A Hong Kong court on Thursday rejected the appeal brought by a 94-y
   a now-defunct fund that aimed to help people arrested in the anti-government protests
   in 2019
 image: https://static.independent.co.uk/2026/09/03/05/Hong_Kong-Activists-Appeal_62269.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Hong Kong court on Thursday dismissed appeals brought by a 94-year-old Roman Catholic cardinal and four others over their convictions for failing to register a now-defunct fund that aimed to help people arrested during anti-government protests in 2019.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Reform leader said inquiry had been widened but watchdog is not believed
   to have decided whether to do so
 image: https://i.guim.co.uk/img/media/190c4c4d2986e3c1f8dc50b08e435b7c9a889e4b/1319_795_5248_4198/master/5248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41dc163ffe95e761592bc38b8f415424
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Nigel Farage is facing questions about why he claimed his finances were the subject of a second standards investigation, as he was sworn in again as Clacton’s MP.

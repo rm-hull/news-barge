@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: Sodium-ion battery technology promises to improve on lithium-ion in numerous
   areas, though challenges remain.
 image: https://cdn.mos.cms.futurecdn.net/nbGANf34NLVwWVjzLTLQWg-1403-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A Unigrid sodium-ion battery on a factory floor](https://cdn.mos.cms.futurecdn.net/nbGANf34NLVwWVjzLTLQWg.jpg) 

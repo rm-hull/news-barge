@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T16:07:30Z'
 published: '2026-08-31T00:00:00Z'
 description: Unified at all costs?
 image: https://cdn.mos.cms.futurecdn.net/AbzSvUYd65RRkJWnMhHL3L-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![RTX Spark chip](https://cdn.mos.cms.futurecdn.net/AbzSvUYd65RRkJWnMhHL3L.jpg) 

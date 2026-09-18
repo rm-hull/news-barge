@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: More than 30,000 due to attend Canadian artist’s opener at Plenitude
   arena, as thousands without tickets plan Friday night karaoke
 image: https://i.guim.co.uk/img/media/ad54e4bb0a29423ef894cde009a37d94423c8d5e/262_379_3837_3069/master/3837.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ead453527f0cfe02179a7b1ee2b6c726
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 More than 30,000 Céline Dion fans have gathered in Paris for the Canadian singer’s long-awaited return to performing on Saturday night, four years after she revealed her diagnosis of stiff person syndrome, a rare neurological condition.

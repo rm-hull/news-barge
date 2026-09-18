@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: ‘The whole world acknowleges our victory,’ said Masoud Pezeshkian as
   the US threatened to impose the ‘toughest sanctions in history’
 image: https://static.independent.co.uk/2026/08/21/13/2026-08-08T190306Z_41190565_RC2IUMAYIM5T_RTRMADP_3_IRAN-CRISIS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 US president Donald Trump has claimed that Iran was not ready “to make the right deal” after promising to wage "Economic Warfare and Isolation on an unprecedented scale” on Tehran.

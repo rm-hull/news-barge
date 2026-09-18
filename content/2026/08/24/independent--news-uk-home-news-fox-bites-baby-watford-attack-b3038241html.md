@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Carly Clarkson said the puncture wounds on Josephine’s head ‘looked like
   a dog had bitten a football’
 image: https://static.independent.co.uk/2026/08/24/13/00/fox-broke-into-1593613.jpg?trim=734,0,1488,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A mother-of-two has described how a fox crept into her home and bit her baby daughter's head as the pair slept.

@@ -9,6 +9,10 @@ description: The Reform UK proposals include removing the right to vote of Commo
   citizens, ensuring that election material is only published in languages native
   to the British Isles and restricting postal voting
 image: https://static.independent.co.uk/2026/08/14/09/MdRtmE2yzJDaaWPH9jeaX1KsR0cb3N-549Lh1MTXsEq_2cS0X7M7I0c6uoObBPrJlZtg4Y5BtDE1sLqqEaA4F9MUtgHQ9h5hxDTU..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Reform UK plans to bring in draconian new laws which could exclude millions from voting and would make it hard for non-English speakers to take part in elections.

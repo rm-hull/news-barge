@@ -8,6 +8,8 @@ published: '2026-09-01T00:00:00Z'
 description: The Pentagon has released secured versions of ChatGPT and Grok for use
   by its civilian and military staff.
 image: https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Pentagon in Arlington County, Virginia, as seen on April 15, 2017. It is the headquarters of the United States Department of Defense.](https://cdn.mos.cms.futurecdn.net/RXJoEQoSUWU9QEaNY4YHyN.jpg) 

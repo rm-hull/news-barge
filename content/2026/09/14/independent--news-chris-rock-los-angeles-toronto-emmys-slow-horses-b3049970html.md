@@ -10,6 +10,10 @@ description: When Rosalind Eleazar first got a breakdown of Chris Rock’s “Mi
   it had a stress-inducing description of the character, a strong-headed, self-destructive
   actor in Los Angeles
 image: https://static.independent.co.uk/2026/09/14/16/2_26_TIFF_-__Misty_Green__Portrait_Session_784_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 When Rosalind Eleazar first got a breakdown of Chris Rock’s “Misty Green,” it had a stress-inducing description of the character, a strong-headed, self-destructive actor in Los Angeles.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A cross-party group of MPs and peers identifies human rights risks that
   existing laws appear not to cover.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Facial Recognition Technology Concept As Woman Has Red Grid Projected Onto Eye In Studio](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: LOCATED in a quiet cul-de-sac within easy walking distance of schools,
   this semi-detached home in the Crossgate Moor area of Durham has everything a…
 image: https://www.thenorthernecho.co.uk/resources/images/21411069.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 LOCATED in a quiet cul-de-sac within easy walking distance of schools, this semi-detached home in the Crossgate Moor area of Durham has everything a family could need or want, from well-presented and versatile accommodation to an attractive outdoor space.

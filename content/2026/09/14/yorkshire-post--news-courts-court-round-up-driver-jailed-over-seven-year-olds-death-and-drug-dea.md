@@ -9,6 +9,12 @@ description: A driver jailed over the death of a seven-year-old boy, a drug deal
   who left a woman injured after a crash and two men sentenced over a stabbing are
   among the latest cases heard in Yorkshire courts.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/8/45/Aiden-Anderson.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Business & Entrepreneurship
 ---
 
 # Court round-up: Driver jailed over seven-year-old's death and drug dealer locked up after crash

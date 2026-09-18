@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The death toll now exceeds 210 after more than 60 strikes by the Trump
   administration
 image: https://static.independent.co.uk/2026/08/24/14/15/GettyImages-2288162251.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 American forces have targeted another vessel in the eastern Pacific in an attack that left two accused drug smugglers dead, according to the Pentagon.

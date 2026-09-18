@@ -10,6 +10,9 @@ description: In an effort to put his mark on Washington, Trump has worked on ren
   the White House by paving over the Rose Garden for a new patio and covering the
   Oval Office in gold
 image: https://static.independent.co.uk/2026/09/14/22/36/f15da5463d9b0ae4.jpg?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has boasted about turning the White House into a “palace” as he gushed over his new helipad right in the backyard.

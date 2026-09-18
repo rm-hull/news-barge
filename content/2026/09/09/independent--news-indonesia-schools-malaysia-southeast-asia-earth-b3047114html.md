@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Schools in Indonesia's South Sumatra province have switched to remote
   learning due to worsening haze from forest fires
 image: https://static.independent.co.uk/2026/09/09/09/Indonesia_Forest_Fires_18_46.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Schools in the capital of Indonesia’s South Sumatra province switched to remote learning Wednesday as worsening haze from forest and peatland fires pushed air pollution to unhealthy levels, adding to disruptions that have already affected more than 1.4 million students across the country, officials said.

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Theatregoers have been left outraged as a further three Burlesque performances
   have been cancelled at Sunderland Empire.
 image: https://www.thenorthernecho.co.uk/resources/images/21339786.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: GOOGLE MAPS)*

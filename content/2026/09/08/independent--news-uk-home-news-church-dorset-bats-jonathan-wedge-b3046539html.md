@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:05Z'
 published: '2026-09-08T00:00:00Z'
 description: Jonathan Wedge was caught out by his own Instagram posts
 image: https://static.independent.co.uk/2026/09/08/11/56/BNPS_BatsChurchRenovation__3.jpeg?trim=101,188,331,459&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A children's author who documented his project to convert an old church on social media has been convicted of destroying bat roosts after being caught out by his own Instagram posts.

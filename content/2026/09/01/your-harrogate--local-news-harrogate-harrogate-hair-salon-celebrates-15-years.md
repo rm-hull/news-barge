@@ -9,6 +9,11 @@ description: An award-winning Harrogate hair salon is celebrating 15 years in bu
   marking the milestone with a look back at the people, stories and achievements behind
   its success.
 image: https://mmo.aiircdn.com/409/6a967e3d65b9c53b4a8.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a967e3d65b9c53b4a8.jpg) 

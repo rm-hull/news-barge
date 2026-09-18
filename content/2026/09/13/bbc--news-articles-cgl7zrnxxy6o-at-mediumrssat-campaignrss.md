@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: North Korea will continue to send its soldiers to fight in Russia's war,
   but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/59df/live/f2881480-ab6f-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Quentin Sommerville](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a39d/live/54478230-ab72-11f1-b109-879e35c24276.png)

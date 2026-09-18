@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: A restaurant where celebrity chef Marco Pierre White once worked has
   reopened after a £500,000 refurbishment.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20195499.jpg?type=og-image&xType=0&yType=1077
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 A RESTAURANT where celebrity chef Marco Pierre White once worked has reopened after a £500,000 refurbishment.

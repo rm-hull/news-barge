@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Amanda and Clive Owen separated in 2022 but continue to work together
   at Ravenseat and on Our Farm Next Door with their nine children.
 image: https://www.thenorthernecho.co.uk/resources/images/18640876.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: CHANNEL 4)*

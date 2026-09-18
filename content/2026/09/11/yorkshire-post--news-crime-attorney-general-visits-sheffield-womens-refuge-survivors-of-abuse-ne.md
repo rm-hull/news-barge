@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: The Attorney General says her resolve to tackle violence against women
   and girls is “renewed” after visiting a refuge in South Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwNDQ3MWUyLWYyNzAtNDhiMi05NDdkLTU0YTQwZWI0NTJmMjoyYjEwM2NmNS01YjgxLTQyYTAtYTQwZi1hNjQ2ZTZkNWI3NGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # Attorney General visits Sheffield women's refuge: 'Survivors of abuse need a system that works for them and not against them'

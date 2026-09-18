@@ -10,6 +10,10 @@ description: Kenya has tripled its long-term target for expanding its renewable 
   capacity to meet surging demand and support its industrialization, but that might
   not result in more affordable power for consumers
 image: https://static.independent.co.uk/2026/08/19/07/Kenya-Renewable_Energy_23154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Kenya has tripled its long-term target for expanding its renewable energy capacity to meet surging demand and support its industrialization, but that might not result in more affordable power for consumers.

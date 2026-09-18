@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The painful condition causes cells similar to those in the lining of
   the womb to grow in other parts of the body
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/04/13/endometriosis-explainer-main.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 Radio presenter Emma Barnett revealed she has had a hysterectomy after battling with endometriosis for decades.

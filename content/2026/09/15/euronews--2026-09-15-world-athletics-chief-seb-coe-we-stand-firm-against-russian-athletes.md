@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Coe rejected Moscow's claims of a 'personal obsession' with banning Russian
   athletes and reflected on his term and the crisis at FIFA.
 image: https://images.euronews.com/articles/stories/09/91/23/82/1200x675_cmsv2_ab57a4eb-cc40-52a9-8fec-75524ab84d8b-9912382.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Coe rejected Moscow's claims of a 'personal obsession' with banning Russian athletes and reflected on his term and the crisis at FIFA.

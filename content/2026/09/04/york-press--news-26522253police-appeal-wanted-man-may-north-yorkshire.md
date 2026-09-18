@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire Police said it is searching for a 45-year-old man who
   is believed to be in a specific area of the county.
 image: https://www.yorkpress.co.uk/resources/images/21025027.jpg?type=og-image&xType=0&yType=184
+categories:
+- Local
+- York
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

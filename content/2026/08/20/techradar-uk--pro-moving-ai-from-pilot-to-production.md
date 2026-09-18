@@ -7,6 +7,8 @@ scraped_at: '2026-08-20T16:48:08Z'
 published: '2026-08-20T00:00:00Z'
 description: How to scale AI successfully
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

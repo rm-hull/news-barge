@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A conservation group has raised concerns after felled trees were left
   blocking a public walkway.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381253.jpg?type=og-image&xType=0&yType=216
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A CONSERVATION group has raised concerns after felled trees were left blocking a public walkway.

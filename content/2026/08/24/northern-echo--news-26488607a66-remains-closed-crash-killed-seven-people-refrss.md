@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The A66 remains closed this morning (August 24) as repair work continues
   following the devastating crash which claimed the lives of seven people.
 image: https://www.thenorthernecho.co.uk/resources/images/21360965.jpg?type=og-image&xType=0&yType=115
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: redcar and cleveland borough council)*

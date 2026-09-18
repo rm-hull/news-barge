@@ -9,6 +9,10 @@ description: San Francisco 49ers owner Jed York was arrested over the weekend in
   and pleaded no contest to misdemeanor charges of disorderly conduct and possessing
   criminal tools
 image: https://static.independent.co.uk/2026/08/24/21/49ers_York_Arrested_122_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 San Francisco 49ers owner Jed York was arrested over the weekend in Ohio and pleaded no contest to misdemeanor charges of disorderly conduct and possessing criminal tools.

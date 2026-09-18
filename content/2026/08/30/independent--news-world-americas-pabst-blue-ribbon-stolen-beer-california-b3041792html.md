@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: A truck carrying 40,000 pounds of beer disappeared from an Anheuser-Busch
   distribution center in California
 image: https://static.independent.co.uk/2026/08/30/10/09/Video-News-Graphic-Designs-(31).jpg?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Beer-guzzling bandits made off with over 50,000 cans of Pabst Blue Ribbon, prompting the brand to beg for the truckload’s return, “no questions asked.”

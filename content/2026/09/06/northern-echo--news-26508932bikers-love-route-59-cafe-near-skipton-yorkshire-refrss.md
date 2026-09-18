@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Route 59 Cafe near Skipton has become a popular Yorkshire meeting point
   for motorcyclists, praised for its breakfasts, welcome and roadside location.
 image: https://www.thenorthernecho.co.uk/resources/images/21392113.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: TRIPADVISOR)*

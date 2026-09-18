@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: A dozen flaws, including 10 high-severity ones, were addressed in one
   fell swoop
 image: https://cdn.mos.cms.futurecdn.net/tSejjmrgK46MgdhWqD5miC-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Google Chrome app is seen on an iPhone next to Edge and other web browser apps. Microsoft is using new prompts in Edge to try and stop users from downloading Chrome.](https://cdn.mos.cms.futurecdn.net/tSejjmrgK46MgdhWqD5miC.jpg) 

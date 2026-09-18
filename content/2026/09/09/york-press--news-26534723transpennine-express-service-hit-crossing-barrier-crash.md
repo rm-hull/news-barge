@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: TransPennine Express said its services from Manchester Airport to Redcar
   Central and Saltburn have been affected after line were blocked following…
 image: https://www.yorkpress.co.uk/resources/images/20690139.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Kevin Glenton)*

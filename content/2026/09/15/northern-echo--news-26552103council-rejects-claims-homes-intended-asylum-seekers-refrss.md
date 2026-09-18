@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Council has rejected claims circulating on social media
   that more than 100 homes being acquired under a council housing programme…
 image: https://www.thenorthernecho.co.uk/resources/images/21048766.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 North Yorkshire Council has rejected claims circulating on social media that more than 100 homes being acquired under a council housing programme are intended for asylum seekers.

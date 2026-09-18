@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Rep. Joyce Beatty has asked a federal court to block the Kennedy Center
   from adding President Donald Trump’s name to the building
 image: https://static.independent.co.uk/2026/08/21/02/Kennedy_Center_7549_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rep. Joyce Beatty made an emergency request on Thursday that a federal court block the Kennedy Center from returning President Donald Trump’s name to the building.

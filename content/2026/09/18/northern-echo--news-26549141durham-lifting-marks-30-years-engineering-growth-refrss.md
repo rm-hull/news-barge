@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: As offshore wind projects have grown in scale and ambition, Durham Lifting
   has evolved alongside them.
 image: https://www.thenorthernecho.co.uk/resources/images/21453268.jpg?type=og-image&xType=0&yType=1032
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Durham Lifting)*

@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Perceptron offers an AI model that it says can help machines navigate
   the world while also providing in-depth visual intelligence.
 image: https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Science
 ---
 
 AI is transforming everything around us but, thus far, it has largely remained contained to the digital realm. Increasingly, however, startups are looking to take it into the real world.

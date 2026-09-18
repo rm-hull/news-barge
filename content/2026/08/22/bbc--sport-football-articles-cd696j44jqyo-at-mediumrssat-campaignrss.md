@@ -9,6 +9,11 @@ description: Spurs head coach Roberto De Zerbi discovers cash is no cure for a l
   mentality as they crash to a heavy defeat at Brentford, says chief football writer
   Phil McNulty.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Self-Improvement
 ---
 
 ![Spurs coach Roberto De Zerbi in despair as his new-look side slump to a heavy defeat at Brentford on the opening day of the Premier League season.](https://ichef.bbci.co.uk/ace/standard/988/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg)

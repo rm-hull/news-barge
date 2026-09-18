@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Police have confirmed the names of five people who died in the devastating
   A66 crash.
 image: https://www.thenorthernecho.co.uk/resources/images/21359882.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Police have confirmed the names of five people who died in the devastating A66 crash in the early hours of Saturday morning.

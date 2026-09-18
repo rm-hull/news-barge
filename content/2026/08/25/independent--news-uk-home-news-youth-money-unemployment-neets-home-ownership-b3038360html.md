@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: 'Exclusive: Money pressures are forcing young people to put off moving
   out and learning to drive'
 image: https://static.independent.co.uk/2026/08/25/15/10/Sharne-23-and-Ivy-Forest-25-share-their-experiences-of-financial-pressures.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 “Honestly, absolutely not – I don't ever see myself owning my own house because of how expensive it is,” says Ivy Forest, 25, from Bournemouth.

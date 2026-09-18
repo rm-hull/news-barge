@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A woman was taken to hospital after a substance was reportedly sprayed
   in her face by three males travelling on off-road bikes in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20318582.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Newsquest)*

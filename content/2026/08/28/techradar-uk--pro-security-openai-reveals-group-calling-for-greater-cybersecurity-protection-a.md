@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T11:15:42Z'
 published: '2026-08-28T00:00:00Z'
 description: AI is the best defense against AI, OpenAI says
 image: https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![The OpenAI logo displayed on a screen with the flag of the United States in the background.](https://cdn.mos.cms.futurecdn.net/o3oWm83C3SiBUpR2cySX2S.jpg) 

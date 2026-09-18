@@ -9,6 +9,10 @@ description: The inaugural Lausanne Grand Slam concluded in style with spectacul
   judo, an inclusive kata demonstration and thrilling finals. Bozorov, Olek, Sulamanidze,
   Fontaine and Tasoev claimed gold as Switzerland celebrated a memorable first edition.
 image: https://images.euronews.com/articles/stories/09/89/47/71/1200x675_cmsv2_a04097aa-7702-5eb9-8821-d449eb2a9b52-9894771.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Euronews with IJF**

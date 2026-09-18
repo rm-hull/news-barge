@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Jaden Wright, 23, appeared at court charged with grievous bodily harm
   and intentional strangulation in separate case
 image: https://static.independent.co.uk/2026/08/28/16/2291588455..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man who was arrested on suspicion of murder over a house fire which killed a seven-year-old girl and her aunt has appeared in court charged other alleged offences.

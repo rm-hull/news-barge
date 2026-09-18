@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Tech analysts have suggested that getting Grand Theft Auto 6 to run smoothly
   at 60 frames per second would be a massive challenge on console.
 image: https://cdn.mos.cms.futurecdn.net/jFQzvJH5A6XmDviwDeJPoa-2048-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/jFQzvJH5A6XmDviwDeJPoa.jpg) 

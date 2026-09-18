@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Kindles just got a little more restrictive, both in terms of what you
   can do with the books you buy and how long you can keep those you borrow.
 image: https://cdn.mos.cms.futurecdn.net/fvyuNrnGD3zutq5oypfvhb-2560-80.jpg
+categories:
+- Technology & Software
+- Family & Parenting
 ---
 
 ![Amazon Kindle Colorsoft Signature edition e-reader showing graphic novels, cookbooks, and fiction, as well as settings](https://cdn.mos.cms.futurecdn.net/fvyuNrnGD3zutq5oypfvhb.jpg) 

@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: The brother of a woman who died in a house fire which also killed a seven-year-old
   girl has said she was not associated with gangs.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/10/26/01M111KRFRV04NZPDSNA8YZN7C.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Society & Culture
+- True Crime
 ---
 
 # Brother of woman killed in house fire says she was ‘not involved with gangs’

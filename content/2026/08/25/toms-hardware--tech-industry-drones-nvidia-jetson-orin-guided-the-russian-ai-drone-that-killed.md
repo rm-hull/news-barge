@@ -10,6 +10,9 @@ published: '2026-08-25T00:00:00Z'
 description: The unencrypted module let Ukrainian investigators read the drone's terrain
   maps and targeting code.
 image: https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Nvidia Jetson](https://cdn.mos.cms.futurecdn.net/YqyE7WKzDBtHaoJrTAM6zg.jpg) 

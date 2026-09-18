@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The huge sum comes as the party and leader Nigel Farage face intense
   scrutiny over its funding
 image: https://static.independent.co.uk/2026/09/11/22/01M1SA94M2NRAX9X34KR2YE7MQ.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Nigel Farage’s party has secured a staggering £36m from British cryptocurrency entrepreneur Ben Delo in a major boost for its election campaign.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Officials reiterated that babies, young children, pregnant women and
   older people should only eat thoroughly cooked eggs in restaurants and cafes
 image: https://static.independent.co.uk/2026/08/19/12/2026-08-18T230122Z_858706193_RC2AVMAFEMXI_RTRMADP_3_CLIMATE-CHANGE-JAPAN-FARMERS.JPG?trim=68,0,68,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Salmonella infections linked to imported eggs have increased, according to new figures from the UK Health Security Agency (UKHSA).

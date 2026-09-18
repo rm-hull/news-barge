@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Prime Minister said the UK and US ‘stand together in memory of those
   we lost, and in defence of the values we cherish’
 image: https://static.independent.co.uk/2026/09/10/15/252c1f67c39bc2b0a02b4c55e4e4a29bY29udGVudHNlYXJjaGFwaSwxNzg5MTM1OTE1-2.85735890.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Andy Burnham has expressed the UK’s unity with the US on the 25th anniversary of the 9/11 attacks that shocked the world, warning that terror "still knocks at the door of democracy".

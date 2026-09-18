@@ -9,6 +9,9 @@ scraped_at: '2026-08-19T13:09:49Z'
 published: '2026-08-19T00:00:00Z'
 description: Claude will draft, and send, your emails for you
 image: https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Man annoyed at laptop](https://cdn.mos.cms.futurecdn.net/pwcbaLVSvqWvfTPCXUPoQD.jpg) 

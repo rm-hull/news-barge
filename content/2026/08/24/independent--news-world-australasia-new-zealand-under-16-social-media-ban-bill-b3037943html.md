@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Proposed law would mandate tech platforms implement age-verification
   measures for under-16s or face penalties of up to 10 per cent of their global revenues
 image: https://static.independent.co.uk/2026/08/24/05/2278548427..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 New Zealand was set to introduce legislation proposing a ban on social media for children under the age of 16, prime minister Christopher Luxon announced on Monday.

@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: The team embedded electrodes into live cockroaches, then outfitted them
   with cameras and injection devices to deliver medication via remote control.
 image: https://media.wired.com/photos/6a9af4664c28b30a706b7171/191:100/w_1280,c_limit/eait-mda-2026-cyborg-cockroach-16.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Small robots and drones have increasingly been used to help respond to disasters, reaching locations that are too hard or too dangerous to send humans, such as collapsed buildings. Many of these efforts have been focused on search and rescue. But new research shows how bugs—with their ability to crawl through even narrower gaps in rubbled—outfitted with electrodes could be used as the next generation of first responders.

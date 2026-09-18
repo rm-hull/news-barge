@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: What has already been a magical week on the Knavesmire reaches its climax
   with the running of the most famous contest, the £500,000 Sky Bet Ebor.
 image: https://www.yorkpress.co.uk/resources/images/21354267.jpg?type=og-image&xType=0&yType=326
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Hannah Ali)*

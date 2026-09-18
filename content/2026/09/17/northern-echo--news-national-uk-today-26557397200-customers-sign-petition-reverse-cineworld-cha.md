@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Cineworld's Unlimited members have complained about a change made to
   the ticket booking system and now a petition has been started and calls…
 image: https://www.thenorthernecho.co.uk/resources/images/21465897.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Getty)*

@@ -10,6 +10,10 @@ published: '2026-09-14T00:00:00Z'
 description: It's too early to consider the CUDA moat officially drained, but this
   is definitely a yank on the plug.
 image: https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-2560-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![AMD GPU](https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW.png) 

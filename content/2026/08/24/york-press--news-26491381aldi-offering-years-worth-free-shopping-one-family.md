@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Aldi is offering one household the chance to earn a year's worth of free
   shopping through its Superfam Pass
 image: https://www.yorkpress.co.uk/resources/images/21359553.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Aldi)*

@@ -9,6 +9,9 @@ published: '2026-08-29T00:00:00Z'
 description: Bridget Phillipson says government would not have to consider releasing
   prisoners early if Tories had created more capacity
 image: https://i.guim.co.uk/img/media/ca5dae353676987f67b828a684b2c32b7242c7a5/965_863_3561_2849/master/3561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ad6f395d4e4b413a33e62b8420425c3
+categories:
+- UK
+- News & Politics
 ---
 
 Cells to hold newly arrested people could run out without the early prison release scheme, a government minister has said.

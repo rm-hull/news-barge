@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:27:56Z'
 published: '2026-09-15T00:00:00Z'
 description: Iraq faces two major deadlines at the end of September
 image: https://static.independent.co.uk/2026/09/15/06/Iraq_US_Withdrawal_Explainer_22899.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Two deadlines are looming for Iraq at the end of the month: the end of a decades-long U.S. military presence and the disarmament of non-state armed groups.

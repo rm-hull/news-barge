@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: BRADFORD City fans tonight make the first journey of a near 6,000-mile
   League One odyssey. Here is how much it costs driving to every away game.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340587.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Video Gaming
+- Technology & Software
 ---
 
 CITY fans tonight make the first journey of a near 6,000-mile League One odyssey.

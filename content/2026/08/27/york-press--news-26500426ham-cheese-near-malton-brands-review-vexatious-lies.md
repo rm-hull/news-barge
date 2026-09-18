@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The highly-rated Ham and Cheese pub near Malton has hit out at “vexatious
   lies” made against the business on Tripadvisor.
 image: https://www.yorkpress.co.uk/resources/images/21378852.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: NQ)*

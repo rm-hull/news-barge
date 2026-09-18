@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Experts say ruling could undermine the ‘actual malice’ standard and make
   publishers more wary of critical reporting
 image: https://i.guim.co.uk/img/media/ecf10c8ec077560d7359bbe769ea27a0129bbff0/0_183_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0995a2a2f3e1855dbaea327152f289c
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A $300,000 jury verdict won recently by a Louisiana supreme court justice who sued the Advocate, the state’s largest newspaper, for libel over an editorial has caused concern among some US press freedom defenders.

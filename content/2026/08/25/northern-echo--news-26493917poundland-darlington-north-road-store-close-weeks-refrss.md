@@ -9,6 +9,12 @@ published: '2026-08-25T00:00:00Z'
 description: Poundland has confirmed its Darlington North Road branch will close next
   month after the retailer was unable to agree new lease terms with its…
 image: https://www.thenorthernecho.co.uk/resources/images/21369310.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: SARAH CALDECOTT)*

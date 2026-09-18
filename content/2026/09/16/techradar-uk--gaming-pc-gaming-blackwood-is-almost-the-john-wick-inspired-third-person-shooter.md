@@ -10,6 +10,8 @@ published: '2026-09-16T00:00:00Z'
 description: Blackwood shows so much promise as a third-person gun-fu indie shooter,
   but it definitely needs more time in the oven to reach its full potential.
 image: https://cdn.mos.cms.futurecdn.net/3eYRevQqeWusxFFdWYTfsY-1442-80.png
+categories:
+- Technology & Software
 ---
 
 ![In-game screenshot of Blackwood](https://cdn.mos.cms.futurecdn.net/3eYRevQqeWusxFFdWYTfsY.png) 

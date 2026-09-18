@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Six more people have been arrested after a man was shot in a suspected
   attempted murder in Gainford.
 image: https://www.thenorthernecho.co.uk/resources/images/21389800.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Six more people have been arrested after a man was shot in a suspected attempted murder in a quiet County Durham village.

@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T08:53:03Z'
 published: '2026-08-20T00:00:00Z'
 description: Will AI have a say in the kill chain?
 image: https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![drone](https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S.jpg) 

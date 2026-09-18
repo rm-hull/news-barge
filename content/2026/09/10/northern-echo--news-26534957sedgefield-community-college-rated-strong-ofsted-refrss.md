@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Sedgefield Community College has been rated "Strong" by Ofsted across
   all inspection areas, with inspectors praising achievement,…
 image: https://www.thenorthernecho.co.uk/resources/images/21433605.jpg?type=og-image&xType=0&yType=2576
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: chris bishop (picturesbybish))*

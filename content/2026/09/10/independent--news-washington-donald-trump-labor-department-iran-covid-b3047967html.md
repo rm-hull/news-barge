@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Slightly fewer Americans filed for unemployment claims last week as jobless
   claims remain at historically low levels and layoffs are still rare
 image: https://static.independent.co.uk/2026/09/10/13/Unemployment_Benefits_29_8_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Slightly fewer Americans filed for unemployment claims last week as jobless claims remain at historically low levels and layoffs are still relatively rare.

@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: '"We raised at a peak, but sold at a fraction of that," Unacademy co-founder
   and CEO Gaurav Munjal wrote. "I''m not going to dress these facts up."'
 image: https://techcrunch.com/wp-content/uploads/2024/07/Unacademy.jpeg?resize=1200,700
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Unacademy, once one of India’s most valuable edtech startups, has been acquired by rival upGrad at a valuation of just over $200 million, about 94% less than its 2021 peak valuation.

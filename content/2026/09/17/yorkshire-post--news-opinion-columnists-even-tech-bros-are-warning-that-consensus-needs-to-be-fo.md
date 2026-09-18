@@ -10,6 +10,11 @@ description: Just what does an internet overtaken by AI look like? A deep dark h
   uncontrollable by human clicks? An unfathomable place like a modern-day Wild West,
   where no personal or financial data is safe? Or nothing?
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFiYTk1MWMyLWI0M2MtNDY2My1iYzBmLWIzNDhmYzQxNDc5MjphZDUxOTY1MS1kODYxLTQzNGUtOWE0NC0yMzYzYTcyMjU3MGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Even tech bros are warning that consensus needs to be found on AI safety before it spirals out of control - Jayne Dowle

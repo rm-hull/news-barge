@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A cyclist suffered arm and foot injuries after being knocked off his
   bike in a crash in Skelton.
 image: https://www.thenorthernecho.co.uk/resources/images/19950442.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: NEWSQUEST)*

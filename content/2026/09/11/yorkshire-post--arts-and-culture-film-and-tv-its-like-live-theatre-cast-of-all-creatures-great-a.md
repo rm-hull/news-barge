@@ -10,6 +10,12 @@ description: As All Creatures Great and Small returns to Channel 5 next week, St
   Smith meets Samuel West, Callum Woodhouse, Rachel Shenton, Nicholas Ralph and Anna
   Madeley – and sees inside The Drovers – at the studios near Harrogate.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg1MjFhOTUwLTNmZjgtNDRiMi1hNTM2LWI2YmQyNjZkNTY2OTpkNzFlZmE3MS04ODhkLTQ0MGItOTYyZC02OWVkYmIxYzEwMmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 # 'It's like live theatre': Cast of All Creatures Great and Small Season 7 on filming in the Yorkshire Dales

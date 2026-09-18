@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Nekime Matu Oxendine accused of first-degree murder of Adam Bean, shot
   and killed in apparent domestic dispute
 image: https://i.guim.co.uk/img/media/832fae07afa3e0456c7e2f3a66c4c9efa397cccc/1082_482_2678_2142/master/2678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b4a5e2aeb1d093b921d4f5067ad5893
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A North Carolina state highway patrol trooper has been charged with the murder of the captain of a county sheriff’s office.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Milestone marks years of government spending that grew under both Donald
   Trump and Joe Biden
 image: https://i.guim.co.uk/img/media/8c6e978978889a9a9d1d933b50ed7585080a248b/449_0_4395_3515/master/4395.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=322663ca241c82f43deac2a38eae54c1
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled over the last decade.

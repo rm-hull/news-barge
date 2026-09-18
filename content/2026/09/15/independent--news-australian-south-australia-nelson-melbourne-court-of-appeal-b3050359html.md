@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: One of the three serial killers involved in Australia’s notorious Bodies-in-Barrels
   murders is set to be released
 image: https://static.independent.co.uk/2026/09/15/10/Australia_Bodies_in_Barrels__8931.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Film & TV
 ---
 
 An Australian court ruled Tuesday that one of three serial killers convicted over the murders of 11 people in one of the country's most notorious criminal cases can be released from prison, rejecting a state government's bid to block his parole.

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: POLICE are appealing for information after a burglary in a North Yorkshire
   town in which an off-road motorcycle was stolen.
 image: https://www.yorkpress.co.uk/resources/images/21362235.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

@@ -9,6 +9,10 @@ description: As extreme heat and poor monsoon rains result in more demand for po
   in India for cooling and pumping out groundwater for agriculture, India is managing
   to meet its power needs
 image: https://static.independent.co.uk/2026/09/02/02/Climate_India_Renewables_98254.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 When India’s power demand surged at the height of summer, the country struggled to meet evening needs as air conditioners ran longer amid hotter nights. Despite this demand, some renewable energy providers were told to limit their output because the country had more clean electricity available than its grid could safely handle.

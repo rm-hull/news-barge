@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The boss of York estate agent Naish who said he "became an estate agent
   because I disliked estate agents" has celebrated three years in…
 image: https://www.yorkpress.co.uk/resources/images/21454845.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T13:09:00Z'
 published: '2026-08-25T00:00:00Z'
 description: 2 months with ChatGPT’s finance tools have changed how I spend
 image: https://cdn.mos.cms.futurecdn.net/9PPGC2rrwQ57UzsPHVzDyg-1920-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Self-Improvement
 ---
 
 ![ChatGPT and dollar bills in a split screen arrangement.](https://cdn.mos.cms.futurecdn.net/9PPGC2rrwQ57UzsPHVzDyg.jpg) 

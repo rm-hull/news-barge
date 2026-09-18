@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The app lets users create six-second looping videos and hosts more than
   two million classic videos.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 ![The green Divine logo against a black background. Next to it it shows a phone showing a video with a child with their mouth open and a grey t shirt partly over their head. There is a donut with white icing and sprinkles, red lips and a Poloroid camera on either side of the phone.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png)

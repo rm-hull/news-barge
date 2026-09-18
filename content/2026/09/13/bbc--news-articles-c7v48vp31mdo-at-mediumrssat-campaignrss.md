@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: The US President said "negative forces" were airing concerns about "things
   that won't happen".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 President Trump says 'negative forces' bringing up AI risks that won't happen

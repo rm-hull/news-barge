@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: A bystander on a motorcycle found the 54-year-old asking for help after
   he vanished on foot earlier this month
 image: https://static.independent.co.uk/2026/09/14/17/33/806002402_1384770533835313_3252613291553488938_n.jpg?trim=32,0,613,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A Civil War reenactor has been found still in uniform days after he went missing from a Labor Day weekend event.

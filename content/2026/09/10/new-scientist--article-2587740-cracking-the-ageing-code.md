@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:53:19Z'
 published: '2026-09-10T00:00:00Z'
 description: Where financial health meets human longevity.
 image: https://www.newscientist.com/wp-content/uploads/2026/09/7001_New_Scientist_Image_1350x900px.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/7001_New_Scientist_Image_1350x900px.jpg?w=840)

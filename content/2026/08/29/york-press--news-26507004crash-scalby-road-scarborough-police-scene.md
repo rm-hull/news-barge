@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said a crew from Scarborough
   were called to Scalby Road in the town at 11.41am today (Saturday, August 29).
 image: https://www.yorkpress.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Supplied)*

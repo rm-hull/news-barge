@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The county's fire and rescue service said crews from York and Acomb were
   called at 6.03pm last night (Wednesday, September 16) to Stillingfleet…
 image: https://www.yorkpress.co.uk/resources/images/20979439.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

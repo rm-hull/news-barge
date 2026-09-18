@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A father has completed the Great North Run in memory of his three-day-old
   daughter
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463638.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

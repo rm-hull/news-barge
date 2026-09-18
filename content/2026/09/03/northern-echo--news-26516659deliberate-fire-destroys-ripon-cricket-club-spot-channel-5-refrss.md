@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Studley Royal Cricket Club near Ripon is appealing for information after
   a fire destroyed its historic pavilion over the weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21403109.jpg?type=og-image&xType=0&yType=402
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A historic North Yorkshire cricket club has been left devastated after its iconic pavilion was destroyed in a destructive fire, believed to have been started deliberately.

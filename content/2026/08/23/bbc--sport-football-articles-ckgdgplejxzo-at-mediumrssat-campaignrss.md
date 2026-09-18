@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Both Newcastle and Liverpool pay tribute to their legendary player on
   the opening weekend of the Premier League season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Newcastle and Liverpool applauded the late Kevin Keegan before kick off](https://ichef.bbci.co.uk/ace/standard/968/cpsprodpb/0aeb/live/3e66df40-9f08-11f1-8ab2-7700e58d1417.jpg)

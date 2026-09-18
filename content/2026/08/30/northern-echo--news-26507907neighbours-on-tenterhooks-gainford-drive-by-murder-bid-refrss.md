@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Neighbours have told of their fear after a man was shot on a 'quiet'
   street in Gainford, in a drive-by murder bid.
 image: https://www.thenorthernecho.co.uk/resources/images/21389763.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Neighbours have spoken of their fear after a man was shot in "drive-by murder bid" on their usually quiet street.

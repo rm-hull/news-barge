@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: A longtime opponent of eliminating the island's deer population, sent
   Newsom a letter Monday urging him to suspend or revoke the permit
 image: https://static.independent.co.uk/2025/06/27/16/06/iStock-2156653740.jpeg?trim=0,102,0,202&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Thousands of mule deer on Catalina Island could begin being killed as early as Tuesday under a newly active state permit, prompting Los Angeles County Supervisor Janice Hahn to make a last-minute appeal to Gov. Gavin Newsom to stop the controversial eradication plan.

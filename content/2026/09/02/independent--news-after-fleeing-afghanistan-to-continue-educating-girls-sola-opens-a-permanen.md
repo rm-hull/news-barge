@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Shabana Basij-Rasikh leads the School of Leadership of Afghanistan that's
   now based in Rwanda
 image: https://static.independent.co.uk/2026/09/02/05/US_Philanthropy_Afghanistan_Girls_824_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Shabana Basij-Rasikh smiles as she points to the sign in the middle of campus: School of Leadership of Afghanistan, SOLA, a home in Rwanda.

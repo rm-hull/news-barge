@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Using the wrong dishwasher setting could be quietly adding to your household
   bills, experts are warning.
 image: https://www.gazetteherald.co.uk/resources/images/21358899.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Getty Images)*

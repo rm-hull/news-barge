@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Saudi Arabia has lobbied the US for years to buy F35s, the world's most
   advanced fighter jet.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ea/live/7d7d4cc0-b2e3-11f1-a845-59f886d45f54.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![President Donald Trump (R) meets with Crown Prince and Prime Minister Mohammed bin Salman of Saudi Arabia during a bilateral meeting in the Oval Office of the White House on November 18, 2025 in Washington, DC.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/27ea/live/7d7d4cc0-b2e3-11f1-a845-59f886d45f54.jpg)

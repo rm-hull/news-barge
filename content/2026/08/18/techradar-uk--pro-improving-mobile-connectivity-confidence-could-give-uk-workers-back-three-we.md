@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T08:50:18Z'
 published: '2026-08-18T00:00:00Z'
 description: Working on the go could lead to much improved productivity
 image: https://cdn.mos.cms.futurecdn.net/8JSHLpeEnqfbnuskv8qqd8-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 ![Remote Working](https://cdn.mos.cms.futurecdn.net/8JSHLpeEnqfbnuskv8qqd8.jpg) 

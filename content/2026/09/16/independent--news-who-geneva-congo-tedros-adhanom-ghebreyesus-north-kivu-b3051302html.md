@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: The World Health Organization reports encouraging signs in the fight
   against an Ebola outbreak in eastern Congo
 image: https://static.independent.co.uk/2026/09/11/12/Congo_Ebola_Burial_Teams_59868.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Society & Culture
 ---
 
 The head of the U.N. health agency is hailing “encouraging signs” in the fight against an Ebola outbreak in one part of eastern Congo, while warning that case counts are rising fast in another as officials race to tamp down the virus.

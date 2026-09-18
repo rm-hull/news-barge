@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Fudge Kitchen York is celebrating 40 years of handcrafting fudge with
   a birthday weekend this month.
 image: https://www.yorkpress.co.uk/resources/images/21350787.jpg?type=og-image&xType=0&yType=732
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## York confectionery shop marks 40 years of fudge-making in the city

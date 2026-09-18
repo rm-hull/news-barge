@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Trump wants the Medal of Honor, the highest award for military valor
   in action, despite never serving in the Armed Forces
 image: https://static.independent.co.uk/2026/09/10/20/39/GettyImages-2282260706.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump bemoaned not being able to give himself the Medal of Honor in front of recipients of the highest award for military valor in action.

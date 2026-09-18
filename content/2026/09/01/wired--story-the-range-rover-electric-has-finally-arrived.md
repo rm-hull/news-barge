@@ -9,6 +9,10 @@ description: After long delays, JLR’s biggest gamble with its Range Rover bran
   here with huge performance, range, and off-road EV skills. It’s mighty pricey, but
   the US gets a cheaper model.
 image: https://media.wired.com/photos/6a972c251a29cad3901a2042/191:100/w_1280,c_limit/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg
+categories:
+- Technology & Software
+- Science
+- Automotive
 ---
 
 It feels like we have been waiting an age for the Range Rover Electric. First announced back in December 2023, JLR's luxury EV SUV was meant to hit the road in 2024, but extended development testing forced the carmaker to push its arrival back. Now it's finally here—one of WIRED's most anticipated rides—the first fully electric Range Rover.

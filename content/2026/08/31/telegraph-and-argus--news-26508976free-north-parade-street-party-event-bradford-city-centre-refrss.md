@@ -7,6 +7,12 @@ scraped_at: '2026-08-31T16:07:58Z'
 published: '2026-08-31T00:00:00Z'
 description: Music fans braved the rain to enjoy a city centre street festival.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21392133.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: Phil Lickley)*

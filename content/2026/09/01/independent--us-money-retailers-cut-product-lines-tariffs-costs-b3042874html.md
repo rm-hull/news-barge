@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Major brands such as Walmart and SharkNinja are using billions in duty
   refunds to lower prices and cushion supply costs
 image: https://static.independent.co.uk/2026/09/01/16/09/GettyImages-2229255976.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Roughly one in four U.S. businesses plan to shrink their product offerings over the next six months, according to a survey by the British Standards Institution.

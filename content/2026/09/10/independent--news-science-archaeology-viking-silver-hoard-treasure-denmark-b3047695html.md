@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:54:36Z'
 published: '2026-09-10T00:00:00Z'
 description: Treasure placed in clay vessel and likely buried sometime in 10th century
 image: https://static.independent.co.uk/2026/09/10/3/35/Viking-Age-silver-hoard-unearthed-at-Rebild-site.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A homeowner stumbled upon the largest hoard of Viking Age silver ever found in Denmark while doing gardening work to remove “stubborn grass” in his backyard.

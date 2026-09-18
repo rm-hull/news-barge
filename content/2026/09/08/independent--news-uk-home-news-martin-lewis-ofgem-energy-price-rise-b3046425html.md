@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:09Z'
 published: '2026-09-08T00:00:00Z'
 description: The price cap rise will push bills to their highest since July 2023
 image: https://static.independent.co.uk/2026/07/19/14/06/01K4N8SH1TJDZGN8SCNXG6DPQB-(1).jpg?trim=0,56,0,55&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Household energy bills are set to rise from October after regulator Ofgem raised the price cap to a three-year high.

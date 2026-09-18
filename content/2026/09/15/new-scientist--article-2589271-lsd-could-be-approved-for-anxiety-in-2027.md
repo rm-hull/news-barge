@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The psychedelic drug LSD eased anxiety in a late-stage trial, paving
   the way for a probable approval in the US within the next two years
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312407519.jpg
+categories:
+- Science
+- Technology & Software
+- Society & Culture
 ---
 
 ![A digital illustration of an LSD molecule](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312407519.jpg?w=840)

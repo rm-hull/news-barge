@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The U.S. military used a laser in southern Texas' Rio Grande Valley to
   shoot down three Mexican drug cartel drones this week
 image: https://static.independent.co.uk/2026/02/11/23/Mexico_Cartels_Drones_99531.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Three Mexican drug cartel drones near the U.S.-Mexico border were shot down using a military laser in the Rio Grande Valley of southern Texas, U.S. officials reported on Thursday.

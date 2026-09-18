@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses after
   a car was deliberately damaged while parked on a road in Knaresborough.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUyYzJmYTFkLTdhYzEtNDVjOS1hNmE4LTUyMzAxZGEyNTBjNTpmNDY0YTAwZC1kN2VlLTRkODEtYWZhNi1hMGIwZDIyNWEzOGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire Police launch investigation after Range Rover deliberately damaged in Knaresborough

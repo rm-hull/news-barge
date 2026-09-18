@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Applicants have to pitch their ideas on stage in front of a panel of
   judges and an audience. But is this exciting or unfair?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Yumi Liberman smiles at the camera, wearing a black, sleeveless top, and green plants behind her](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg)

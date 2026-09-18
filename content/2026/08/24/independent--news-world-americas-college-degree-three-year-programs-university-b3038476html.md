@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A growing number of colleges are offering three-year degree programs,
   which cut a year off a traditional bachelor's with reduced credit
 image: https://static.independent.co.uk/2026/08/24/19/10/iStock-1467685601.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 After repeatedly being passed over for jobs due to lacking a college degree, 34-year-old Giles Sims needed a quick solution. Responsible for supporting his wife and widowed mother, the laid-off web developer turned to an expanding selection of three-year degree programs.

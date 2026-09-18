@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: A silver Jaguar has been hauled away by police after residents reported
   late-night activity around the abandoned luxury vehicle in Shipley.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21447362.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

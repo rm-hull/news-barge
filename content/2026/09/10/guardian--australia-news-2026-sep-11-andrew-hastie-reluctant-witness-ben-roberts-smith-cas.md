@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Liberal MP and former SAS soldier is under attack from One Nation
   after complying with a subpoena to give evidence in the failed 2022 civil case
 image: https://i.guim.co.uk/img/media/a9005dbeba20253db76226fd71323325957e278d/469_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b79e76d5190cddae526acf423618c725
+categories:
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 “I don’t dislike Mr Roberts-Smith at all. I pity Mr Roberts-Smith. I pity this whole process. I don’t want to be here.”

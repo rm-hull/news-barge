@@ -9,6 +9,10 @@ description: Some hope for a big deal on Medicaid, immigration or AI. But, Eric 
   writes, most Democrats are either vague or do not trust the White House to act in
   good faith
 image: https://static.independent.co.uk/2026/09/04/20/2293357657..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Last month, House Minority Leader Hakeem Jeffries came under significant fire after *The New York Times* reported that he met with President Donald Trump’s son-in-law Jared Kushner. It particularly irritated some Democrats because Democrats hope to investigate Kushner and the rest of the Trump family, particularly looking into any ways they benefited financially from their closeness to the president. 

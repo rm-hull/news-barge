@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah
   Fhimah and expressed the company's condolences to his family.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ba0/live/fcd691c0-a11d-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Fhimah (centre) being escorted by security officers and surrounded by journalists before a hearing in 1992 in connection with the Lockerbie bombing. He has short brown hair and a moustache and is wearing a yellow jacket and a white and blue striped short.](https://ichef.bbci.co.uk/ace/standard/940/cpsprodpb/3ba0/live/fcd691c0-a11d-11f1-92eb-a9b3bbcf6f4a.jpg)

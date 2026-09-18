@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: With EasyJet cancelling all flights from Leeds Bradford Airport from
   January 2027, advice has been issued to travellers whose plans have been…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346016.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: '"I am so glad you are doing this. I felt like I was going mad; all this
   happening and no one talking about it."'
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341573.jpg?type=og-image&xType=0&yType=273
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 "I am so glad you are doing this. I felt like I was going mad; all this happening and no one talking about it."

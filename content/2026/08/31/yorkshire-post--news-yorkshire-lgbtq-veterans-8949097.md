@@ -10,6 +10,11 @@ description: Yorkshire veterans who suffered historical mistreatment in the arme
   forces for being gay have been urged to come forward, as they have just over three
   months left to seek financial “justice”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/03/12/23/cs-100c1f0b-a34b-4704-b81a-101c9bb9995a.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Yorkshire LGBTQ+ veterans urged to come forward for financial redress over Army 'gay ban'

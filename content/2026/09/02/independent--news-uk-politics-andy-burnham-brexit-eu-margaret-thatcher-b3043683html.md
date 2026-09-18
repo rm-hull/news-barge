@@ -9,6 +9,9 @@ description: Andy Burnham hit out at the impact of Brexit and the impact of deci
   made in the 1980s as he addressed the House of Commons as prime minister for the
   first time
 image: https://static.independent.co.uk/2026/08/28/15/55/burnham-eu.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The majority of Britons agree with Andy Burnham that the country took a wrong turn by leaving the European Union, but they are split over his belief that Margaret Thatcher’s premiership set the country on the wrong path.

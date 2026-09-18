@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: It comes two years after the supermarket first launched a price match
   against hundreds of Aldi and Lidl products
 image: https://static.independent.co.uk/2026/08/24/08/01M0S5XXNFDB61FN9X3BKG5C1G.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Morrisons has promised shoppers it will match or beat the prices of its main supermarket competitors across hundreds of essential everyday products.

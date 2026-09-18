@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: A new GTA mod lets you smash and shoot Flock’s automatic license plate
   readers around the fictional Los Santos.
 image: https://media.wired.com/photos/6aa06d6d9c9e744f723e31eb/191:100/w_1280,c_limit/Security_This%20Mod%20Puts%20LA's%20Real%20Flock%20Cameras%20Into%20GTA_v1.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 People are not happy about Flock Safety’s automated license plate readers and the cops that allegedly misuse them. If you’re one of those ALPR-haters, you can now take out your rage in the video game *Grand Theft Auto V* by installing Grand Theft Automated License Plate Reader, a mod built by artist Morry Kolman.

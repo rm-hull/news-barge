@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Funky Monkey in Middlesbrough has applied to Middlesbrough Council for
   a premises licence allowing the venue to sell alcohol, host live and recorded…
 image: https://www.thenorthernecho.co.uk/resources/images/19180519.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: PA Wire/PA Photos)*

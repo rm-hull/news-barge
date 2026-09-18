@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Former batter Kevin Pietersen accused England players of not trying on
   last year's tour of India.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ad0c/live/5774a510-b03a-11f1-9ae0-e316eeb4632d.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Brendon McCullum and Kevin Pietersen share a joke during an England training session](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/ad0c/live/5774a510-b03a-11f1-9ae0-e316eeb4632d.jpg)

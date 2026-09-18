@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Moscow recruits an estimated 1,000 people a day but western officials
   say it cannot keep up with casualty level
 image: https://i.guim.co.uk/img/media/52fa0198715e1df5b2ae80a8610f907294d1ccc8/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1459895a736c57d20b24814681a2cb9d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Russia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have said.

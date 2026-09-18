@@ -8,6 +8,11 @@ scraped_at: '2026-08-21T13:06:45Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-trams-clifton-moor-1.webp
+categories:
+- Local
+- York
+- History
+- Arts & Culture
 ---
 
 A bold vision showing how trams could return to York and ‘transform people’s lives’ has been revealed today (Friday).

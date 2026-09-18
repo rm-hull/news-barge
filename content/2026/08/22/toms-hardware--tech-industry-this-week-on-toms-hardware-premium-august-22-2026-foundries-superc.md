@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T16:37:15Z'
 published: '2026-08-22T00:00:00Z'
 description: New roadmaps and essential advice in the modern market
 image: https://cdn.mos.cms.futurecdn.net/vqrmv9JDZCeiDKLnVAbtr9-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Tom's Hardware Premium Logo on a blurred background of Motherboards](https://cdn.mos.cms.futurecdn.net/vqrmv9JDZCeiDKLnVAbtr9.jpg) 

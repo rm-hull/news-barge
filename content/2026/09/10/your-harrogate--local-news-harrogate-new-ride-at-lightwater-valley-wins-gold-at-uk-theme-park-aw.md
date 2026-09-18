@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Lightwater Valley Family Adventure Park has won a national award for
   one of its newest rides.
 image: https://mmo.aiircdn.com/409/6aa29a87e058b5d8072.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa29a87e058b5d8072.jpg) 

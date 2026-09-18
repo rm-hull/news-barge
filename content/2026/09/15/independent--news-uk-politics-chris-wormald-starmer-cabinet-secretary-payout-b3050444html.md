@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Lord Wormald’s payout equates to around £2,000 for each day in his role
   as cabinet secretary
 image: https://static.independent.co.uk/2026/02/13/09/cec63bffb81d1d9402e97f1288adc36eY29udGVudHNlYXJjaGFwaSwxNzcxMDYxNDk5-2.83443335.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Newly published official accounts show that a senior mandarin forced from his post after 14 months during Sir Keir Starmer’s government received a record compensation payout approaching £860,000.

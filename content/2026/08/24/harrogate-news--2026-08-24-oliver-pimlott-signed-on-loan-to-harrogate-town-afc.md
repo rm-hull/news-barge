@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Harrogate Town AFC have signed Oliver Pimlott, from Burnley, on a one-month
   loan deal.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Oliver-Pimlott.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Harrogate Town AFC have signed Oliver Pimlott, from Burnley, on a one-month loan deal.

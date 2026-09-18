@@ -10,6 +10,9 @@ description: Nigeria has been seen by the UK as a bulwark against increased conf
   Development Committee, Sarah Champion. However, the government has broken a promise
   to boost our ‘mutual national security’ thanks to the reality of aid cuts
 image: https://static.independent.co.uk/2026/09/15/14/2294821007..?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 On a recent __visit__ to Nigeria, Jonathan Powell, the prime minister’s national security adviser, highlighted the country’s crucial role in preventing the Sahel’s slide into even-greater chaos – with all the worrying spill-over effects for the UK’s own security.

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Thomas Carter, 45, from Husthwaite near Thirsk is believed to be in an
   area of North Yorkshire, police said.
 image: https://www.gazetteherald.co.uk/resources/images/21410936.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

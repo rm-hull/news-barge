@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: West Yorkshire Police is expanding its use of DNA spray to tackle crime
   involving e-bikes and motorbikes.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21390061.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: SelectaDNA)*

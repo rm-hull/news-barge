@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: RKS Global found that new forms of cooperation in the use of VPNs are
   becoming increasingly common amongst VPN users
 image: https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Russia flag on the left, VPN icon on smarthpne on the right](https://cdn.mos.cms.futurecdn.net/ZcRSDQuJZS7Ri3PRF8UExf.png) 

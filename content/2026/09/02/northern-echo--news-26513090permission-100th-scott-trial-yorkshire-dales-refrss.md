@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: National park authority members have given permission for this year’s
   Scott Trial after hearing the historic motor sport event had the backing of…
 image: https://www.thenorthernecho.co.uk/resources/images/21381945.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 National park authority members have given permission for this year’s Scott Trial after hearing the historic motor sport event had the backing of the local community.

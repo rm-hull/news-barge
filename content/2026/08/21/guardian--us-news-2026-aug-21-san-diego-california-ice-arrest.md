@@ -9,6 +9,10 @@ description: Business owner Assim Alkhawaja was arrested by ICE as he dropped of
   Lyft passengers at a military base. Now he’s stuck in a terrifying fight to stay
   in the US
 image: https://i.guim.co.uk/img/media/6b5c8e7cc99db38ad654f24e4ea38e9e573b7adf/469_142_3615_2893/master/3615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc4b9bb105f94a300703a32bc77daad3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Deep within the bowels of San Diego’s federal courthouse, Assim Alkhawaja sat on the floor outside a nondescript office, waiting to be called for his ICE-mandated immigration appointment. He stared straight ahead, his posture tense, his face a mask.

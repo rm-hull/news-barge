@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Arriva North East has said sorry to passengers for disruption to Teesside
   and East Cleveland bus services and cited driver shortages as the main…
 image: https://www.thenorthernecho.co.uk/resources/images/21035517.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 Arriva North East has said sorry to passengers for disruption to Teesside and East Cleveland bus services and cited driver shortages as the main cause.

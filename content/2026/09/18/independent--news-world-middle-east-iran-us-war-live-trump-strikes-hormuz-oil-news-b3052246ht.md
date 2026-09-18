@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: UN mission also accuses Iran of crimes against humanity during its anti-government
   protest crackdown
 image: https://static.independent.co.uk/2026/09/18/05/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump has said he faces a “big decision” on how to proceed with the Iran war, in his first remarks since a UN report said two US strikes in February may have amounted to war crimes.

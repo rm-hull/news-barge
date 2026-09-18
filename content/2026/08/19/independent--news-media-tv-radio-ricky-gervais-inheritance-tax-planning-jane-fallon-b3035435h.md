@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Earlier this year, Jane Fallon revealed she had been diagnosed with breast
   cancer
 image: https://static.independent.co.uk/2026/04/24/11/2217867049.jpg?trim=28,0,28,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Ricky Gervais has revealed he would marry his longtime partner Jane Fallon to avoid paying inheritance tax.

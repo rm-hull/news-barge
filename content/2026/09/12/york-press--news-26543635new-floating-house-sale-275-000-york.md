@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A new “floating" house has hit the market in Howard Street, York, for
   £275,000 – a decade after the plans were first announced.
 image: https://www.yorkpress.co.uk/resources/images/21442726.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## New ‘floating' house hits the market in York street – have a look inside

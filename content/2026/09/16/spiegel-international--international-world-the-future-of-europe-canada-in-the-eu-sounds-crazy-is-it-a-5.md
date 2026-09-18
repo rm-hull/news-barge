@@ -9,6 +9,10 @@ description: The European Union needs new momentum. Canada needs a reliable part
   It would be a stretch for the EU to expand across the Atlantic, but doing so would
   be beneficial for both Europe and Canada.
 image: https://cdn.prod.www.spiegel.de/images/63be79f3-26db-406e-bb0e-6345bd58e6ab_w1200_r1.778_fpx49_fpy48.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 ![European Commission President Ursula von der Leyen, Canadian Prime Minister Mark Carney and European Council President António Costa. European Commission President Ursula von der Leyen, Canadian Prime Minister Mark Carney and European Council President António Costa.](https://cdn.prod.www.spiegel.de/images/63be79f3-26db-406e-bb0e-6345bd58e6ab_w960_r1.5_fpx49_fpy48.jpg) 

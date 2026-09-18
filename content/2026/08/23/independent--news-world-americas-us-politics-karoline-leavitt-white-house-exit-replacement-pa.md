@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Leavitt showed off a custom cake and cookies that podcaster Katie Miller,
   a friend and close Trump ally, had commissioned
 image: https://static.independent.co.uk/2026/08/23/19/36/FotoJet.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Outgoing Trump press secretary Karoline Leavitt marked her imminent White House departure with a custom briefing room lectern cake and “no more questions” cookies, courtesy of Katie Miller.

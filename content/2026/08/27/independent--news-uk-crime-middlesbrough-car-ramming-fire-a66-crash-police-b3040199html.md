@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: One neighbour said the car was ‘going backwards and forwards’ into the
   garden wall
 image: https://static.independent.co.uk/2026/08/27/10/57/01M11A7SNRP7FN50VBF9KVQRNM.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Another house in Middlesbrough has suffered damage after being hit by a car in the latest incident in the town.

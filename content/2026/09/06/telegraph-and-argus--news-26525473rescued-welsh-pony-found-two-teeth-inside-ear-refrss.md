@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A Welsh pony rescued in Bradford had two teeth growing inside one of
   his ears.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415716.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: World Horse Welfare)*

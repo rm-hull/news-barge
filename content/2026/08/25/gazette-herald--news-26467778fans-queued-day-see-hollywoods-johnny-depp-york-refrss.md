@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: The extraordinary scenes when Hollywood star Johnny Depp arrived in York
   and sent the city into a fan frenzy.
 image: https://www.gazetteherald.co.uk/resources/images/21324789.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 Johnny Depp’s recent return to perform at the Scarborough Open Air Theatre with rock supergroup Hollywood Vampires revived memories for some of the remarkable scenes when the Hollywood star came to York.

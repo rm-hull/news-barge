@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Families are being urged to book now for Weardale Railway’s Santa Express,
   with discounted early bird tickets available until August 31 for the…
 image: https://www.thenorthernecho.co.uk/resources/images/19868221.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Weardale Railway)*

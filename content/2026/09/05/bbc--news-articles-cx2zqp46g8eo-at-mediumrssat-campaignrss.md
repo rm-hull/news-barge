@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Steve Witkoff and Jared Kushner are due to hold talks with Russia before
   travelling to Ukraine on Sunday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Steve Witkoff (left) and Jared Kushner (right) stand side by side looking directly towards the camera. They are both in black suits with white shirts. Witkoff has a blue patterned tie and Kushner has a black tie](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg)

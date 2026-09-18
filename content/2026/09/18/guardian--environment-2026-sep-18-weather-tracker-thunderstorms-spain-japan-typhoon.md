@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: At least one person dead as stormy weather causes severe flooding in
   Barcelona and Valencia
 image: https://i.guim.co.uk/img/media/4a81e50c7e8eaf2830cce6b1d0eed222efe22a19/375_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29d17dbfae79aa0f54b9e10acbd730cf
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe flooding and killing at least one person.

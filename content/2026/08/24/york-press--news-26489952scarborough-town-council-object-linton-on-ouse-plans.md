@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: PLANS to house people seeking asylum at a former North Yorkshire military
   base are set to be opposed by a Reform-led council about 50 miles away
 image: https://www.yorkpress.co.uk/resources/images/21102471.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- News & Politics
 ---
 
 ## Plan to house asylum seekers at military base opposed by Reform-led council

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Gardiner, who had cancer, is remembered as ‘one of a kind’ after competing
   in BBC show with son Sam in 2020
 image: https://i.guim.co.uk/img/media/363fd3d81f982cb958305304c57aebbd9e37c7e7/94_996_2678_2143/master/2678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68e87c4bce02eb0641eee75cd6a3622e
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Tributes have been paid to the Race Across the World star Jo Gardiner, who has died a year after her son and co-star Sam was killed in a car crash.

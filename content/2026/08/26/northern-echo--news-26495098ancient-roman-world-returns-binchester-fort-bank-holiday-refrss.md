@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Cavalry, ancient warriors and artillery demonstrations are set to bring
   County Durham's Roman past to life at one of the region's most…
 image: https://www.thenorthernecho.co.uk/resources/images/20935649.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 Cavalry, ancient warriors and artillery demonstrations are set to bring County Durham's Roman past to life at one of the region's most important archaeological sites.

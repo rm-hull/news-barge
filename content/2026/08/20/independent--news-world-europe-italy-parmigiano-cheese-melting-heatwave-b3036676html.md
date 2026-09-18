@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Parmigiano Reggiano is crafted under precise standards within designated
   territories of the Emilia Romagna region in northern Italy
 image: https://static.independent.co.uk/2026/08/20/20/47/GettyImages-1252009629.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Amid a severe heatwave in Italy, exaggerated and inaccurate posts on social media have distorted the climate's effect on Parmigiano Reggiano cheese production and the financial institutions that hold the wheels as loan collateral.

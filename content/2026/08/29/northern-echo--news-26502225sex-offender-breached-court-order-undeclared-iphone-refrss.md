@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: A convicted paedophile ran the gauntlet of having a suspended prison
   sentence activated as he was unaware the Republic of Ireland is not part of the…
 image: https://www.thenorthernecho.co.uk/resources/images/20978967.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Northumbria Police)*

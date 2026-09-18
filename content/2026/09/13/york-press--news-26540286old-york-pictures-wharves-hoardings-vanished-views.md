@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Step back in time with photos of York in the 1960s, 70s and 80s, featuring
   Queen’s Staith, Bridge Street and scenes long since lost.
 image: https://www.yorkpress.co.uk/resources/images/21437026.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## These remarkable old photos show a side of York that has almost disappeared

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Trump and other critics of the H-1B visa program claim the initiative
   is exploited by companies replacing American workers with cheaper foreign labor
 image: https://static.independent.co.uk/2026/08/24/16/32/GettyImages-2235795785.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 President Donald Trump's administration has filed paperwork to make a $100,000 fee for new H-1B visas permanent despite a judge's ruling that the fee is unlawful.

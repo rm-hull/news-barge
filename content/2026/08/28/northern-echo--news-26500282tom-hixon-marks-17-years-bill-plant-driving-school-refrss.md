@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Tom Hixon, who started work at Bill Plant Driving School in Ripon 17
   years ago, now leads a key department at the company.
 image: https://www.thenorthernecho.co.uk/resources/images/21378515.jpg?type=og-image&xType=0&yType=573
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A teenager who started work at a driving school 17 years ago now leads a key department at the company.

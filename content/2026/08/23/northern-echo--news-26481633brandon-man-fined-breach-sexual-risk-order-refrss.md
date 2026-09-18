@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: A County Durham man has been fined after admitting to breaching a sexual
   risk order related to internet-capable devices.
 image: https://www.thenorthernecho.co.uk/resources/images/21029703.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: Getty Images/iStockphoto)*

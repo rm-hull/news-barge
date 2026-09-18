@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Throughout history, England’s monarchy has been riven by family rivalries.
   We used to know a lot about that in Yorkshire – it’s how the Wars of the Roses started.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ0MDI1NWNjLWYzNjgtNDNmZC04Zjc0LTkwZDhiZmEzN2VkOTpmOWEwMjc3Yy01YjViLTRlNDEtYjg0OC1jNGVlMDY4ODA1Zjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # What is the true motive behind Harry and Meghan’s return? - David Behrens

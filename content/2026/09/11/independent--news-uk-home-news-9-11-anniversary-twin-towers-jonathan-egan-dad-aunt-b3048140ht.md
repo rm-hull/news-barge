@@ -9,6 +9,10 @@ description: Brits Michael and Christine Egan both died on the 103rd floor of th
   south tower on September 11, 2001. Now, 25 years on, Jonathan Egan has been working
   hard across the pond to make his Yorkshireman father proud
 image: https://static.independent.co.uk/2026/09/10/16/30/Jonathan-Egan.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The week the Twin Towers fell, Jonathan Egan had moved from his New York home to Los Angeles and had started his first week of college. He was only a few days in when he heard a knock on the door from his roommate and the resident director.

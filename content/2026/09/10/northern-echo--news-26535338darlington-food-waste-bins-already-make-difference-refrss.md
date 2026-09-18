@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Darlington’s new food-waste bins have kept hundreds of tonnes of rubbish
   out of landfill, Darlington Borough Council said.
 image: https://www.thenorthernecho.co.uk/resources/images/20991333.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Darlington’s new food-waste bins have kept hundreds of tonnes of rubbish out of landfill, the council said.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The use of powers banning traffic from York city centre is sensitive
   and difficult, the council's leader has said.
 image: https://www.gazetteherald.co.uk/resources/images/20656633.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 The use of powers banning traffic from York city centre during Christmas Markets and other events is sensitive and difficult, the council's leader has said.

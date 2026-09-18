@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson,
   Richard Hammond and James May.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Francis Bourgeois, James Engelsman and Thomas Holland](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg)

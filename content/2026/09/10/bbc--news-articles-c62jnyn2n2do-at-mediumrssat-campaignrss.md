@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Sleeping next to a snorer could be having a negative effect on your health,
   experts tell the BBC.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37a4/live/1a65b1f0-a9f5-11f1-921b-6365210e1c9d.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 ![A woman with dark hair lies in bed with her head on a white pillow and a white duvet covering her body. Her eyes are closed and she is lying on her side while holding another white pillow over one side of her head as if to block out noise.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/37a4/live/1a65b1f0-a9f5-11f1-921b-6365210e1c9d.jpg)

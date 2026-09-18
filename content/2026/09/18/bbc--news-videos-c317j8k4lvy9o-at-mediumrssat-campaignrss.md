@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about
   claims he has made in a new book.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4175/live/2064f9b0-b375-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Watch: Diana's brother says Charles 'went ballistic' in phone call after her death

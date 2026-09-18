@@ -10,6 +10,10 @@ description: Seventy percent of people who voted Democrat in 2024 and 60 percent
   people who voted Republican agree that AI poses a potential risk to the survival
   of the human race
 image: https://static.independent.co.uk/2026/09/16/17/2281424374..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A new poll has found that a majority of Americans believe AI could pose a threat to humanity, despite President Donald Trump playing down the risks.

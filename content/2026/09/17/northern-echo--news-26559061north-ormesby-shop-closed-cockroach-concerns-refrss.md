@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A North Ormesby shop has been closed for the second time in weeks over
   concerns about a ‘cockroach infestation’.
 image: https://www.thenorthernecho.co.uk/resources/images/21187627.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A North Ormesby shop has been closed for the second time in weeks over concerns about a ‘cockroach infestation’.

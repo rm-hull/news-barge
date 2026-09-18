@@ -9,6 +9,10 @@ description: The diplomatic adviser to the UAE president told a session in Dubai
   relations with Tehran must continue, but that confidence broken by the attacks on
   the Gulf will take years to restore.
 image: https://images.euronews.com/articles/stories/09/91/77/35/1200x675_cmsv2_74d6b91a-e7f9-5c41-8745-dc56e887efd4-9917735.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The diplomatic adviser to the UAE president told a session in Dubai that relations with Tehran must continue, but that confidence broken by the attacks on the Gulf will take years to restore.

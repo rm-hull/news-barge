@@ -10,6 +10,9 @@ description: The Kennedy Center will close most of its complex for repairs and f
   went up around the main building, after a judge’s order blocked the restoration
   of President Donald Trump’s name.
 image: https://static.independent.co.uk/2026/09/16/20/Kennedy_Center_28816.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Photos of the Kennedy Center as Trump-aligned board prepares to close it for repairs

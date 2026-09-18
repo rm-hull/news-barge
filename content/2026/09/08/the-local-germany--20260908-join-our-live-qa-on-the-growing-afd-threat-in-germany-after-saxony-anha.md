@@ -10,6 +10,10 @@ description: The team from The Local Germany responded to readers comments and q
   on the growing threat of the far-right AfD after the Saxony-Anhalt vote. You can
   see our answers in the article below and in the comments section.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260905__C7FP4F4__v2__MidRes__GermanyPoliticsVoteStateSaxonyAnhalt-1.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 We held a live Q&A on Tuesday on the aftermath of the Sunday's critical election in Saxony-Anhalt which saw the extremist, anti-immigration AfD party top the vote.

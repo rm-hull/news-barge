@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: City firms tapped for case studies to try to convince global watchdog
   that London has cleaned up its act
 image: https://i.guim.co.uk/img/media/c9c7df672c39d2e25ed1540629429e74e02e03bc/37_0_1957_1566/master/1957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ad573a0d99ff1c9b2e7b229c9c48311
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The government is asking bankers and lawyers to provide feelgood stories about how they blocked dirty money from entering the UK, as ministers try to prove the UK’s money-laundering controls are working.

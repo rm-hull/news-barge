@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T12:56:41Z'
 published: '2026-09-09T00:00:00Z'
 description: Cannibalism was found concentrated in three time periods
 image: https://static.independent.co.uk/2026/09/09/5/34/Cut-marks-on-adult-human-skull-from-Majolicas-Cave.webp?trim=38,0,39,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ancient human fossils unearthed at three different caves in Spain reveal that cannibalism resurfaced among early Europeans in different contexts over thousands of years.

@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: About 400,000 juvenile Sydney rock oysters were taken from an oyster
   farm on state’s mid-north coast earlier this year, police say
 image: https://i.guim.co.uk/img/media/326bf239a13612001e59dc7212089a2d4ae2d188/389_0_4065_3252/master/4065.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72d788ec87eba141f9ede0b009999be5
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Police are on the hunt for a seafood swindler after 400,000 oysters were allegedly stolen from a farm at a river on the New South Wales mid-north coast.

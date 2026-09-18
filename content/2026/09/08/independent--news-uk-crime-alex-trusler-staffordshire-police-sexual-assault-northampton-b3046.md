@@ -9,6 +9,9 @@ description: Alex Trusler, who resigned from Staffordshire Police after pleading
   to four offences in July this year, was sentenced on Tuesday to a 42-week jail term,
   suspended for 18 months
 image: https://static.independent.co.uk/2026/09/08/15/01M20AM1MA2QF357KM7CK7CTYS.jpg?trim=141,0,115,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A police constable who carried out "lecherous and predatory" sexual assaults against three colleagues has avoided an immediate custodial sentence.

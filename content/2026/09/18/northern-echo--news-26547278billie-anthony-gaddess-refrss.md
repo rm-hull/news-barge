@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Born on Tyneside, he found himself delivered by Scottish singer Billie
   Anthony, whose biggest hit was her Top 10 version of 'This Ole…
 image: https://www.thenorthernecho.co.uk/resources/images/21450857.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Billie Anthony Gaddes)*

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A major fire near Eggborough's former power station involved 3,500 bales
   and trailers.
 image: https://www.gazetteherald.co.uk/resources/images/12194673.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: North Yorkshire Fire & Rescue Service)*

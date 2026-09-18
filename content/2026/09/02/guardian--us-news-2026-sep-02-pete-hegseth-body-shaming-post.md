@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: US defense secretary faces backlash for attempting to mock Canada’s armed
   forces amid trade war
 image: https://i.guim.co.uk/img/media/b8b4e88b461da4d7d638641bea160c236fa43241/333_0_3334_2667/master/3334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d1aa4b5519f22a0558e211f81de9174
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth development program remained online on Wednesday despite a furious backlash on both sides of the border.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: As Manchester United prepare to start the new Premier League season at
   Hull on Saturday, BBC Sport examines how Michael Carrick's team will set up tactically.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/863c/live/4e1140c0-9af3-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Image of Michael Carrick looking on following the pre-season match between AC Milan and Manchester United on August 15 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/863c/live/4e1140c0-9af3-11f1-930b-57cfba7235f9.jpg)

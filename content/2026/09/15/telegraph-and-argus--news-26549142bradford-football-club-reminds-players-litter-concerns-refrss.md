@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A Bradford football club says it has reminded players and team staff
   of their responsibilities after concerns were raised about litter allegedly…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453679.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Pixabay)*

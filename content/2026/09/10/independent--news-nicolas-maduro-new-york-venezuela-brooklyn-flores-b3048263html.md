@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Venezuela’s former first lady wants to be let out of jail while she and
   her husband await trial on U.S. drug trafficking charges
 image: https://static.independent.co.uk/2026/09/03/04/Venezuela_Maduro_3646_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Venezuela’s former first lady wants to be let out of jail while she and her husband await trial on U.S. drug trafficking charges.

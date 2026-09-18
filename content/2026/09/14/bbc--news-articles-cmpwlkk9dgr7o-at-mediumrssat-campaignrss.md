@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Robert Hamill died after he was beaten by loyalists in Portadown, County
   Armagh.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/265e/live/f8a506f0-28d3-11ef-80aa-699d54c46324.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 ![Robert Hamill with brown hair and a checked shirt smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/265e/live/f8a506f0-28d3-11ef-80aa-699d54c46324.jpg)

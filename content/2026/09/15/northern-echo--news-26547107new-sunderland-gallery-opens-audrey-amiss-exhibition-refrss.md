@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A new chapter for arts and culture in the North East has begun with the
   opening of a contemporary art gallery in a landmark city centre venue,…
 image: https://www.thenorthernecho.co.uk/resources/images/21450347.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A new chapter for arts and culture in the North East has begun with the opening of a contemporary art gallery in a landmark city centre venue, marked by an exhibition celebrating the life and work of a Sunderland-born artist.

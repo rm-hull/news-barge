@@ -10,6 +10,9 @@ description: Iran’s supreme leader has called on leaders of Muslim countries t
   together against Israel and the United States, imploring them to “know your real
   enemy.”
 image: https://static.independent.co.uk/2026/08/30/13/Israel_Palestinians_48973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Iran’s supreme leader on Sunday called on leaders of Muslim countries to stand together against Israel and the United States, imploring them to “know your real enemy.”

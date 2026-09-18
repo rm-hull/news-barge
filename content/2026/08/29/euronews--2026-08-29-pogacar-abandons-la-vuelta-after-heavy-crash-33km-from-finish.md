@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The Slovenian cyclist, who was leading the race, suffered a heavy crash
   and had to be taken to hospital by ambulance.
 image: https://images.euronews.com/articles/stories/09/89/40/64/1200x675_cmsv2_8355d338-c6e4-54db-b675-472de09c9298-9894064.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Sports
 ---
 
 ## The Slovenian cyclist, who was leading the race, suffered a heavy crash and had to be taken to hospital by ambulance.

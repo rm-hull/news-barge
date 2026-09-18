@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:14:39Z'
 published: '2026-08-28T00:00:00Z'
 description: MSI turns to cheaper DDR4 amid the DRAM crisis.
 image: https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![The MSI Katana 15 HX 14C available in DDR4 and DDR5 variants](https://cdn.mos.cms.futurecdn.net/Jt7jW2WcxpSnLJxJ7g7va3.jpg) 

@@ -10,6 +10,10 @@ description: A federal judge has allowed Missouri’s top court to proceed with 
   hearing for Secretary of State Denny Hoskins in a dispute over new congressional
   districts supported by President Donald Trump
 image: https://static.independent.co.uk/2026/09/10/13/Election_2_26_Redistricting_Missouri_42453.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Federal judge allows Missouri’s top court to hold contempt hearing in redistricting dispute

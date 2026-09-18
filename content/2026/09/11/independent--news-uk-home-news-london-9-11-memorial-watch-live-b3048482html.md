@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Watch live as 9/11 victims are remembered in a special event held in
   London 25 years on from the September 11 attacks on Friday.
 image: https://static.independent.co.uk/2026/09/11/10/2294667353..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Watch live as 9/11 victims are remembered in a special event held in London 25 years on from the September 11 attacks on Friday.

@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Metrocentre is hosting an evening of huge discounts for students, with
   more than 100 offers up for grabs at The Big Student Shop.
 image: https://www.thenorthernecho.co.uk/resources/images/16260693.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: NORTHERN ECHO)*

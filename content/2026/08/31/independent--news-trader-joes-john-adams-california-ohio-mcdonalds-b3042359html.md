@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T21:28:03Z'
 published: '2026-08-31T00:00:00Z'
 description: A federal judge says J
 image: https://static.independent.co.uk/2026/08/31/22/Smuckers_Trader_Joe%27s_Lawsuit_587_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A federal judge has ruled that J.M. Smucker can proceed with a lawsuit against Trader Joe’s over frozen sandwiches that Smucker claims are too similar to its Uncrustables.

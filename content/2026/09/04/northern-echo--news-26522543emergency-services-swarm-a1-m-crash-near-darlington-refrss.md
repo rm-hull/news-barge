@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A fleet of 999 crews including an air ambulance have swarmed the A1(M)
   near Darlington following a crash - with the road shut in both directions.
 image: https://www.thenorthernecho.co.uk/resources/images/21411422.jpg?type=og-image&xType=0&yType=476
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A fleet of 999 crews including an air ambulance have swarmed the A1(M) near Darlington following a three-vehicle crash - with the road shut in both directions.

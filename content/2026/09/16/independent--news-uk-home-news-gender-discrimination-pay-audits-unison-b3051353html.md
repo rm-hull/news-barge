@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Unison wants major employers to be mandated to evaluate their pay structure
   regularly
 image: https://static.independent.co.uk/2025/12/17/10/ece6d2e2a44397f6ad1614f1feaa2af1Y29udGVudHNlYXJjaGFwaSwxNzY2MDU0MTkw-2.82824037.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 Major employers ought to be legally mandated to evaluate their internal pay structures every three years to ensure female staff receive equal treatment, a trade union has urged.

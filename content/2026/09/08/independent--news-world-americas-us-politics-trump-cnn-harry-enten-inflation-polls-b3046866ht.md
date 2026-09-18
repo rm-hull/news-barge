@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: President Trump is the first U.S. president to record a net inflation
   rating 50 points underwater, CNN data guru Harry Enten said
 image: https://static.independent.co.uk/2026/09/08/20/39/CNN-inflation.png?trim=0,169,65,85&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s favorite CNN journalist, Harry Enten, revealed his “historically awful” polling numbers on inflation Tuesday, noting that the president’s approval rating is “lower than the Titanic.”

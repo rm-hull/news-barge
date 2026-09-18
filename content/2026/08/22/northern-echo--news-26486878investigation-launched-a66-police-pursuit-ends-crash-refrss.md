@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: '''Multiple fatalities'' and an investigation launched after a police
   pursuit ended in a collision.'
 image: https://www.thenorthernecho.co.uk/resources/images/21357633.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 An investigation has been launched after a police pursuit ended in a crash and 'multiple fatalities' in the early hours of this morning.

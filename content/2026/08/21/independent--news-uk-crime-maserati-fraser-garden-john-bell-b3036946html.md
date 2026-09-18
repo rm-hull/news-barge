@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: John Bell had been working in his neighbour’s garden when he was fatally
   struck by Fraser Garden’s stolen vehicle
 image: https://static.independent.co.uk/2026/08/21/10/15141807-605ac56b-224b-45ed-b270-bd4ebfaf2525.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Home, Garden & DIY
 ---
 
 A banned driver who caused the death of a great-grandfather by crashing into the garden where he was working and hitting him with a stolen supercar has been jailed for more than 13 years.

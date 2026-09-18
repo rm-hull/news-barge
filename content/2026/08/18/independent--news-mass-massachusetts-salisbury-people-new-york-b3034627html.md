@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Kimie Smothermon runs the Guinea Pig Sanctuary in Salisbury, Massachusetts,
   caring for nearly 400 guinea pigs
 image: https://static.independent.co.uk/2026/08/18/05/Guinea_Pig_Sanctuary_44748.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Kimie Smothermon begins each day greeted by the squeals, chirps and purrs of nearly 400 guinea pigs.

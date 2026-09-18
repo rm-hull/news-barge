@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Hundreds of defendants are ‘seeking millions of dollars’ from the government
   after Trump’s DOJ killed plans for a slush fund, lawsuit says
 image: https://static.independent.co.uk/2025/08/07/15/46/January-6.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Donald Trump’s administration insists that a compensation fund for pardoned January 6 rioters is dead for good, but the Department of Justice has refused to say whether government lawyers are working on backdoor plans for taxpayer-funded payouts.

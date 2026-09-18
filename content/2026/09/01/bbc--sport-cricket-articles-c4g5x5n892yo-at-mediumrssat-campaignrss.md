@@ -10,6 +10,10 @@ description: Pakistan's decision to make dramatic changes to their squad during 
   series in England is the "most shocking decision ever", according to former captain
   Shahid Afridi.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e86/live/15697fe0-a5e7-11f1-a019-f3ea5e194221.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Former Pakistan captain Shahid Afridi](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/6e86/live/15697fe0-a5e7-11f1-a019-f3ea5e194221.jpg)

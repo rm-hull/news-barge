@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Andrey Kelin left last month after seven years in diplomatic post with
   no sign yet of anyone replacing him in role
 image: https://i.guim.co.uk/img/media/3cc98ed45264c41995eb0d07bc84e2fcc0aa9201/234_0_2694_2155/master/2694.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef4676e7bae882432a5b49ac1ded2f99
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine.

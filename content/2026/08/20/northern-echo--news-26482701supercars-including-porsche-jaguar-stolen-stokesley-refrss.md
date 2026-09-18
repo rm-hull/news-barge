@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Police have issued an urgent appeal after high-performance cars were
   stolen.
 image: https://www.thenorthernecho.co.uk/resources/images/21351772.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

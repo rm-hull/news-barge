@@ -9,6 +9,10 @@ description: Both men said officers at the airport singled them out because they
   Black and grilled them about drugs while other passengers watched during separate
   stops about six months apart
 image: https://static.independent.co.uk/2026/08/18/19/33/AP26230622486690.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Comedians Eric André and Clayton English have reached a settlement in a lawsuit challenging an airport law enforcement initiative in Atlanta, which they stated used racial profiling and coercive searches as travelers, particularly Black passengers, prepared to board their flights.

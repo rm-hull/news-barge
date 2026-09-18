@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The bodies of Jake and Callum Robinson and their US friend were found
   with gunshot wounds to their heads.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
 ---
 
 ![A young man with shoulder-length brown hair and light stubble smiling at the camera, and another young man to his right and a brown dog in between them](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png)

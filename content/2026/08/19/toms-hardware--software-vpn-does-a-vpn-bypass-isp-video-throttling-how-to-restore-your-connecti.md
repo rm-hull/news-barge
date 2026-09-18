@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: How ISPs can slow down video traffic – and how NordVPN can speed it up
   again
 image: https://cdn.mos.cms.futurecdn.net/bHxYkAfGsBs8BMSbHPJWC8-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![NordVPN in action, protecting privacy and keeping data secure](https://cdn.mos.cms.futurecdn.net/bHxYkAfGsBs8BMSbHPJWC8.png) 

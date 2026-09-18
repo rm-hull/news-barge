@@ -7,6 +7,11 @@ scraped_at: '2026-09-01T22:34:08Z'
 published: '2026-09-01T00:00:00Z'
 description: 11 of the 30 fastest-growing retirement communities are located in Florida
 image: https://static.independent.co.uk/2026/09/01/20/15/Screenshot-2026-09-01-at-4-32-30-PM.png?trim=0,51,0,51&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 One American town is becoming a true retiree haven, and — no surprise — it's located in Florida.

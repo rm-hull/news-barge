@@ -11,6 +11,12 @@ description: It is encouraging to see a Prime Minister who believes in giving po
   in the parts of the country that have been ignored for decades, especially the very
   north and the northeast, then it is long overdue.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjczMzE0MzFlLTY1YzctNDEyMi04NTQ5LTEwMmZhNjRjMTg1Yzo4MzUzY2FhOC03ZDliLTRiYjItYmMwYS00Y2RjYmRmM2IyOTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 # What’s the point of putting power into the hands of communities if local authorities won’t listen to local people? - Daxa Patel

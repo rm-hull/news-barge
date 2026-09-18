@@ -10,6 +10,10 @@ description: Video. Indonesia intensified its search operation on 14 September f
   in the Java Sea the previous day. By then, 108 survivors had been rescued and six
   bodies recovered.
 image: https://images.euronews.com/articles/stories/09/91/23/94/1200x675_cmsv2_7e67b507-d5d1-53c5-b832-dd882ba104c6-9912394.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 At least 108 people have been rescued and six bodies recovered after the vessel overturned in the waters off Masalembo, about 148 km from Banjarmasin, the capital of South Kalimantan province.

@@ -11,6 +11,10 @@ description: General Intuition, the startup building a foundation model that tra
   a $6 billion pre-money valuation from new investors including Valor Ventures, Point72
   Ventures, and Seven Seven Six.
 image: https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 New York-based General Intuition, the startup building a foundation model that trains generalized AI agents to move through space and time, is in talks to raise funding at a $6 billion pre-money valuation from new investors including Valor Equity Partners, Point72 Ventures, and Seven Seven Six, according to sources familiar with the matter.

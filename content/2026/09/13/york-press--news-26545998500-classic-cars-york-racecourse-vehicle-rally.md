@@ -7,6 +7,10 @@ scraped_at: '2026-09-13T13:18:26Z'
 published: '2026-09-13T00:00:00Z'
 description: More than 500 classic cars have turned out for a rally at York Racecourse.
 image: https://www.yorkpress.co.uk/resources/images/21447279.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Dylan Connell)*

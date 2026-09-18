@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Flash floods have killed at least 469 people while homes and infrastructure
   have been swept away
 image: https://i.guim.co.uk/img/media/32eff8366660a1231524b1bf5253219340a13275/1079_0_4115_3292/master/4115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8eedb9c514005b9cf1f5531513dfddb
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The international community was scrambling to get aid into flood-stricken parts of Nepal and Tibet on Thursday as authorities warned that a lake formed at the site where the deadly torrents occurred was rising and at risk of bursting.

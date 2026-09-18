@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:27Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/telecommunications-mast-at-broad-lane-nether-poppleton-york-gsv.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Plans to install a 30m-high 5G mast in York have been approved.

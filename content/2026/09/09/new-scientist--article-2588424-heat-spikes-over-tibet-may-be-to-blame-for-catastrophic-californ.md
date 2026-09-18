@@ -9,6 +9,11 @@ description: Unusually high temperatures over the mountainous region can kick-st
   a chain of events that ultimately leads to a severe deluge on the US West Coast,
   scientists say
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513514.jpg
+categories:
+- Science
+- Technology & Software
+- Sports
+- Travel
 ---
 
 ![severe flooding in California in March 2023](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513514.jpg?w=840)

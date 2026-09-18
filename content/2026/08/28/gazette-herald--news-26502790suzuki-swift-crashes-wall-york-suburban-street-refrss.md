@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said a crew from Tadcaster was
   called at 5.33pm yesterday (Thursday, August 27) to Cemetery Road.
 image: https://www.gazetteherald.co.uk/resources/images/21382474.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

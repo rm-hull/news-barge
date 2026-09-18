@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Millions across England and Wales received a wildfire alert on their
   phones earlier this month, but it partly backfired.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f97e/live/96df1130-a2f3-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A man holds a phone in front of a green field. The phone is displaying the UK government wildfire alert.](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/28eb/live/db8efd90-a2f3-11f1-8d5b-155abe464768.jpg)

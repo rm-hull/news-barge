@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Northumbria Police have released images of a man they want to speak to
   after a reported sexual offence at a premises on Fish Quay in North Shields.
 image: https://www.thenorthernecho.co.uk/resources/images/21374812.jpg?type=og-image&xType=0&yType=55
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Northumbria Police)*

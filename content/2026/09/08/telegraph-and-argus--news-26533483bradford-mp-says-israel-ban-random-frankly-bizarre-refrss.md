@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Bradford West MP Naz Shah has described the reported decision to bar
   her from entering Israel as "rather random and, frankly, bizarre".
 image: https://www.thetelegraphandargus.co.uk/resources/images/20034773.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: T&A)*

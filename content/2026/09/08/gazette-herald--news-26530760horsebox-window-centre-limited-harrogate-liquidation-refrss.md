@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:22Z'
 published: '2026-09-08T00:00:00Z'
 description: A Yorkshire business specialising in horsebox windows has gone into liquidation.
 image: https://www.gazetteherald.co.uk/resources/images/20105057.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

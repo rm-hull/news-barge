@@ -9,6 +9,10 @@ description: From a 90-year-old regaining the ability to stand unaided to a simp
   three-point checklist for any workout, Harry Bullmore explains why building strength
   has never been more achievable, whatever your starting point
 image: https://static.independent.co.uk/2026/08/28/17/01KWCACBDS09MCEK2CMM3DQZ99.jpg?trim=0,35,0,35&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Earlier this month I had a fantastic chat with Dr Brad Schoenfeld, a professor of exercise science at Lehman College in New York. His name sits atop more than 400 research papers, most of them on the topic of strength training, making him one of the world’s leading authorities on all things muscle growth.

@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Company says decision comes after spate of antisocial behaviour since
   free travel scheme was introduced
 image: https://i.guim.co.uk/img/media/75c94581c8071f5770eb57bdffb1d1675ce3c2d6/603_0_4165_3333/master/4165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb03829379ae1b3b053272c39cc4b16c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Travel
 ---
 
 For some, it is a quotidian nuisance that inevitably occurs when you are in the vicinity of teenagers. For others, it is an expression of modern-day lawlessness among young people.

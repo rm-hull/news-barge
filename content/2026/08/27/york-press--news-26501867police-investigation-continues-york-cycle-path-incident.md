@@ -9,6 +9,12 @@ published: '2026-08-27T00:00:00Z'
 description: Police have shared an update into their investigation into an incident
   that closed a York cycle path for several hours and led to four arrests.
 image: https://www.yorkpress.co.uk/resources/images/21381057.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Image: The Press)*

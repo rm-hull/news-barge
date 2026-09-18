@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:16:10Z'
 published: '2026-08-28T00:00:00Z'
 description: Emily Wilson's 2017 translation of “The Odyssey” is a million-seller
 image: https://static.independent.co.uk/2026/08/28/11/Books_Odyssey_Translator_71_87.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 If you're among the many readers who learned to love “The Odyssey” through Emily Wilson's 2017 translation, you might be surprised that she's going to translate it again.

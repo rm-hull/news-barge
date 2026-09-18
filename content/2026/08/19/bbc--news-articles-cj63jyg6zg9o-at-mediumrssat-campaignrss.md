@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: One newspaper calls Channel 4’s The Great ADHD Myth? "the most controversial
   show of the year".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73a4/live/4dad13f0-9bf4-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 ![Promotional portrait photo of NHS psychiatrist Dr Max Pemberton looking at the camera](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/73a4/live/4dad13f0-9bf4-11f1-b109-879e35c24276.jpg)

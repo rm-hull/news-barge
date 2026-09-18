@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: In total, scientists identified eight distinct genetic ‘footprints’ that
   explain approximately 85 per cent of prostate cancer cases
 image: https://static.independent.co.uk/2026/06/17/13/01KVASEB2XEABFZ4WKG2SV6PE5.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Scientists say they have uncovered genetic "footprints" responsible for 85 per cent of prostate cancers, offering vital insights into why the disease turns fatal in some men.

@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: A camera in a toothbrush? Dyson's head of product development tells us
   how (and why)
 image: https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Dyson CameraJet toothbrush](https://cdn.mos.cms.futurecdn.net/jcVe48FnUnxNU47gJLhDYo.jpg) 

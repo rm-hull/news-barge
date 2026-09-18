@@ -8,6 +8,12 @@ scraped_at: '2026-09-11T12:48:36Z'
 published: '2026-09-11T00:00:00Z'
 description: A skincare brand is set to open its first retail space this weekend
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433960.jpg?type=og-image&xType=0&yType=1484
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

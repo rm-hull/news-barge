@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Daneil Tyler has been charged with a drink-driving offence in Beverley
   and will appear at Hull Magistrates Court this morning (September 8).
 image: https://www.yorkpress.co.uk/resources/images/20475206.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Dave Higgens / PA Wire)*

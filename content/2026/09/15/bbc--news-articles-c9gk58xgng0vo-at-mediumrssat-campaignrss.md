@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The inspector also found a bottleneck in resupply, despite President
   Donald Trump's claims that US supplies are "virtually limitless".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Patriot missile launchers on a grass field in Massachusetts.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg)

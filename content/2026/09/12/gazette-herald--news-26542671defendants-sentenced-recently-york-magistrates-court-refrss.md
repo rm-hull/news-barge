@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A violent woman, three drivers and a thief were among defendants sentenced
   recently at York Magistrates Court.
 image: https://www.gazetteherald.co.uk/resources/images/20629129.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Newsquest)*

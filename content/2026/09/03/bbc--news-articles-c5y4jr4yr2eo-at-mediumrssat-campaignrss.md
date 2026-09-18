@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Cake, coffee, make-up and burgers are just some of the free things you
   can get on your birthday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c97d/live/d61d4260-90b8-11f1-b8f3-bf6a2c059a9b.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 ![A young woman holding a pink birthday cake with five candles on, wearing a party hat and striped shirt, celebrating her birthday, with balloons seen hanging behind her](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/c97d/live/d61d4260-90b8-11f1-b8f3-bf6a2c059a9b.jpg)

@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:56:48Z'
 published: '2026-09-09T00:00:00Z'
 description: A man in his 60s and a woman in her 50s were killed in the crash
 image: https://static.independent.co.uk/2026/09/07/6/48/sole-street.png?trim=0,154,0,153&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- True Crime
 ---
 
 A man has been charged with causing death by dangerous driving after two cyclists were killed in a crash.

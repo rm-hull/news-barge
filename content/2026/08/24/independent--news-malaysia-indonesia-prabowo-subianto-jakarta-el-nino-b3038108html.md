@@ -9,6 +9,10 @@ description: Indonesia has intensified firefighting efforts as massive blazes sc
   forests and peatlands, creating a choking haze that blankets cities and crosses
   borders
 image: https://static.independent.co.uk/2026/08/24/11/Indonesia_Haze__9981.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Indonesia on Monday intensified ground and aerial firefighting operations as huge blazes in central and western parts of the country scorched thousands of hectares of forests and peatland, created a choking haze that blanketed cities and crossed borders.

@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A San Francisco “Hot List” is trying to buck stereotypes about dating
   in tech circles amid wider debates about the value of being perceived as attractive.
 image: https://media.wired.com/photos/6a99faed6f7d62b638e21a4d/191:100/w_1280,c_limit/SF-Tech-Girlies-Obsessed-With-Being-Hot-Culture.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
+- Society & Culture
 ---
 
 Since the dawn of Silicon Valley, there’s been a widespread perception that San Francisco is, put gently, not exactly a dating mecca.

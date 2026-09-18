@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A new restaurant is bringing Mediterranean and British cuisine with a
   Brazilian twist to the heart of Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21336989.jpg?type=og-image&xType=0&yType=132
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A new restaurant promising Mediterranean and British cuisine with a Brazilian twist has opened in Darlington.

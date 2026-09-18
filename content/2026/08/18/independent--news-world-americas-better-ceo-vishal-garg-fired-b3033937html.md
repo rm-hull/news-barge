@@ -10,6 +10,12 @@ description: Vishal Garg, the CEO and founder of Better.com, was let go and repl
   by a hedge fund manager who joined the company’s board only a week earlier, according
   to a report
 image: https://static.independent.co.uk/2026/08/16/21/2271513759..?trim=669,0,2550,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The CEO of Better Homes & Finance — who notoriously laid off 900 employees on a company Zoom call before Christmas in 2021 — says he feels tricked, as he was just fired and replaced.

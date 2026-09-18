@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A police investigation has been launched after a house window was allegedly
   smashed by a balaclava-clad group carrying golf clubs in County Durham.
 image: https://www.thenorthernecho.co.uk/resources/images/21459895.jpg?type=og-image&xType=0&yType=13
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: GOOGLE MAPS)*

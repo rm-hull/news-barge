@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Liverpool have secured the signing of teenage goalkeeper Lucca Brughmans
   for the start of the 2027-28 season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5efb/live/3b4e7850-a632-11f1-905b-8511af748865.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Lucca Brughmans](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/5efb/live/3b4e7850-a632-11f1-905b-8511af748865.jpg)

@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: CNN says attack ‘beneath the office’ after Kristen Holmes asked president
   about Jon Ossoff’s comments on key aide
 image: https://i.guim.co.uk/img/media/e70f5f6dd8499460e42dd83e8e59a22702525ac6/430_0_4281_3427/master/4281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a34ca846067e784e51ef38ea4981197f
+categories:
+- UK
+- News & Politics
 ---
 
 The White House launched a personal attack against a CNN reporter on Monday with a social media post that mentioned her children and accused her of asking a “disgusting and inhumane question”.

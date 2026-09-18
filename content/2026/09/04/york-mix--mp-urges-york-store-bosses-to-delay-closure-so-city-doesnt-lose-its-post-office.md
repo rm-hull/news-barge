@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T04:21:28Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/09/rachael-maskell-westminster-portrait.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 York Central MP Rachael Maskell has contacted the owners of retailer TG Jones to urge them to keep the store open until a new home is found for the Post Office.

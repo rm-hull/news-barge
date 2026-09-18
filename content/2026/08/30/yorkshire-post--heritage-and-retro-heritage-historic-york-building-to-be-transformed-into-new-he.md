@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: A historic York building has been transformed and is set to open to the
   public in weeks.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjZlYWVjMzVjLTcxNDctNDdiMy1hYmRiLTZmOGRkNWVmMjcxYjozOTJkMGM2Ny03YjQ0LTRjYmMtODk5ZC0wMGZhODg3NzkyMGY=.jpg?crop=3:2,smart&trim=&width=849&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 # Historic York building to be transformed into new health club - and it's opening soon

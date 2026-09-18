@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: S&R Retailing Ltd has applied to Durham County Council for a licence
   to sell alcohol for consumption off the premises at a shop on Front Street,…
 image: https://www.thenorthernecho.co.uk/resources/images/7068089.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

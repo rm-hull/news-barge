@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Most people who park in the lot reportedly work at the Virginia Commonwealth
   University Medical Center
 image: https://static.the-independent.com/2026/09/03/15/14/Holtrust-Tyler-090226.JPG?trim=114,0,166,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 An unhoused man has been arrested and charged with multiple counts of destruction of property after allegedly using a brick to smash the windshields and windows of dozens of vehicles in a Richmond, Virginia, parking lot.

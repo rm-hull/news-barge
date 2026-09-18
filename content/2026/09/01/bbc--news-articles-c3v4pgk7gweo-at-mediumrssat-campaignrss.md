@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Most migrants have returned to neighbouring Morocco, but as many as 5,000
   remain in the Spanish exclave.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A migrant living on Trampolin Beach, on 31 August, 2026 in Ceuta, Spain.](https://ichef.bbci.co.uk/ace/standard/977/cpsprodpb/e187/live/283b8970-a5ff-11f1-83fc-0df57e6b3866.jpg)

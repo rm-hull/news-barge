@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Indonesian authorities have arrested 72 people suspected of starting
   forest and peatland fires
 image: https://static.independent.co.uk/2026/08/23/13/Indonesia_Haze_758_4.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Indonesian authorities arrested 72 people suspected of starting some of the forest and peatland fires as huge blazes in central and west Indonesia triggered choking haze.

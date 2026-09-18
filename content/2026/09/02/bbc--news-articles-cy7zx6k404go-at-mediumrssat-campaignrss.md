@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: British and French leaders will be at the British Museum to see the exhibition
   of the historic Bayeux Tapestry.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0af0/live/5f19e850-a6b9-11f1-ae1e-219da1d6451a.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 ![Bayeux Tapestry showing an embroidered image of William, Duke of Normandy](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0af0/live/5f19e850-a6b9-11f1-ae1e-219da1d6451a.jpg)

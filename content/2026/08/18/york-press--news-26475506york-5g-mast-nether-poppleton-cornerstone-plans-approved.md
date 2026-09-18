@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:38Z'
 published: '2026-08-18T00:00:00Z'
 description: PLANS to install a 30m-high 5G mast in York have been approved.
 image: https://www.yorkpress.co.uk/resources/images/19940942.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 ## 30m-high 5G mast approved for York

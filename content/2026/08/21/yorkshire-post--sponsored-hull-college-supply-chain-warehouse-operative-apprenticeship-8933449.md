@@ -8,6 +8,13 @@ published: '2026-08-21T00:00:00Z'
 description: If you’re looking to strengthen your warehouse workforce, take a look
   at Hull College’s new supply chain warehouse operative apprenticeship.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/21/6/59/Hull-College-Warehouse1-(1).jpeg?trim=0,4,0,4&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 # Hull College Level 2 Warehouse Operative apprenticeship: helping businesses build skilled, safer workforces

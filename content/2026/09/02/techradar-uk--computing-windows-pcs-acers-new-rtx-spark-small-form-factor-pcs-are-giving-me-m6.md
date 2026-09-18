@@ -10,6 +10,8 @@ description: Acer has shown off off its first RTX Spark-powered mini PC at IFA 2
   – but like the new M6 Mac mini, I fear these PCs are no longer being made for the
   likes of you and me.
 image: https://cdn.mos.cms.futurecdn.net/963RGrroenvqoeK6QeuKP5-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![RTX Spark PC from Acer on Question Mark background](https://cdn.mos.cms.futurecdn.net/963RGrroenvqoeK6QeuKP5.png) 

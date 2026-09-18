@@ -7,6 +7,11 @@ scraped_at: '2026-08-29T19:23:40Z'
 published: '2026-08-29T00:00:00Z'
 description: The incident happened in Lisnahull Road in Dungannon, County Tyrone.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![Two police officers stand beside a car, wearing hi-vis waterproof coats and police vests.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg)

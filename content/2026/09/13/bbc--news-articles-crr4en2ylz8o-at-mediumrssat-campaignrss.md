@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: In rare public remarks, Jonathan Powell said now was not the time for
   European nations to take their "foot off the gas".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aea/live/e1c6da50-af0c-11f1-b7ba-f9c30afb9e4d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![National Security Adviser of the United Kingdom Jonathan Powell is pictured outside 10 Downing Street in October 2025.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6aea/live/e1c6da50-af0c-11f1-b7ba-f9c30afb9e4d.jpg)

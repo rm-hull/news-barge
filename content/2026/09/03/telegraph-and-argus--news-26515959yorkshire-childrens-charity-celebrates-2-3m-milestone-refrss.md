@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A CHILDREN'S charity has reached a major milestone thanks to years of
   community support.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21126131.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A York-based stone carver has taken inspiration from one of the city's
   most iconic buildings in his newest wildlife based creation.
 image: https://www.yorkpress.co.uk/resources/images/21363120.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## York stonemason combines wildlife with Minster in new artwork

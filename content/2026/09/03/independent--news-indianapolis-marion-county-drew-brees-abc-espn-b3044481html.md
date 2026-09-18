@@ -10,6 +10,10 @@ description: Former Fox Sports analyst Mark Sanchez plans to plead guilty to cha
   ahead of a trial stemming from an October 2025 fight with a truck driver outside
   an Indianapolis hotel
 image: https://static.independent.co.uk/2026/09/03/23/Mark_Sanchez-Stabbing_Football_39327.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Fox Sports analyst Mark Sanchez plans to plead guilty to charges ahead of a trial stemming from an October 2025 fight with a truck driver outside an Indianapolis hotel, according to court records filed Thursday.

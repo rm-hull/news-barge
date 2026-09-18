@@ -8,6 +8,9 @@ scraped_at: '2026-08-19T13:10:43Z'
 published: '2026-08-19T00:00:00Z'
 description: It's the data, stupid.
 image: https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 A biotech startup called Vivodyne says the AI drug-discovery industry has a data problem, and that it has built a machine to fix it.

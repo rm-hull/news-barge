@@ -10,6 +10,10 @@ description: Beijing’s endlessly delightful Robot Games featured tons of impre
   stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its
   brawn.
 image: https://media.wired.com/photos/6a8dc4dc21bb5a1c3d158388/191:100/w_1280,c_limit/AI-Lab-Robot-Games-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 If you’re anything like me, the World Humanoid Robot Games are a highlight of your sporting calendar.

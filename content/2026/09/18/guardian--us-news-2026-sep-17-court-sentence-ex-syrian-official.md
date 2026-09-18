@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Samir Ousman al-Sheikh, part of Bashar al-Assad’s regime, was in charge
   of Adra prison where prisoners were tortured
 image: https://i.guim.co.uk/img/media/a57a5a8a923d7597f5fe70bc5aa3ac7a86c69964/69_0_496_397/master/496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6af074415736d42543cc703ede7309a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 - 

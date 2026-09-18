@@ -9,6 +9,10 @@ description: Survivors and relatives of the Sharpeville massacre have launched a
   lawsuit against the South African government seeking compensation and to overturn
   the 1961 Indemnity Act, which they say has blocked claims
 image: https://static.independent.co.uk/2026/09/03/15/South_Africa_Apartheid_Lawsuit_45965.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 More than six decades after South African apartheid police opened fire on an unarmed crowd protesting pass laws in Sharpeville, a township south of Johannesburg, survivors and relatives of the victims announced on Thursday they would launch a class-action lawsuit against the government.

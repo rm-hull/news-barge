@@ -10,6 +10,10 @@ published: '2026-09-02T00:00:00Z'
 description: Some are already in orbital decay, with two reportedly heading for reentry
   into the Earth’s atmosphere.
 image: https://cdn.mos.cms.futurecdn.net/ThMNwXukopnrjypsEjpv9n-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Rassvet orbital launch on March 23rd](https://cdn.mos.cms.futurecdn.net/ThMNwXukopnrjypsEjpv9n.png) 

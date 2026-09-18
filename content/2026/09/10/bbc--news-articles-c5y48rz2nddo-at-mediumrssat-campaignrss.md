@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The price of oil jumps to $105 a barrel amid signs the Iran war will
   not be resolved quickly.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![Person wearing a black leather jacket filling up their car from the petrol pump](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg)

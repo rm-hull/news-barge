@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Harrogate Town have completed the signing of Burnley youngster Oliver
   Pimlott on a one-month loan deal.
 image: https://mmo.aiircdn.com/409/6a88634a68a9f196212.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6a88634a68a9f196212.jpg) 

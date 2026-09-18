@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: An 18-year-old from Billingham is making the most of every moment after
   being diagnosed with a rare and aggressive brain tumour.
 image: https://www.thenorthernecho.co.uk/resources/images/21397445.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 An 18-year-old Teesside man is determined to make the most of every moment after being diagnosed with a rare, aggressive brain tumour.

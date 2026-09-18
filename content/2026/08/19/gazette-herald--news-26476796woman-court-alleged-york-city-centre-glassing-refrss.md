@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A woman accused of carrying out a daytime "glassing" in the city centre
   on another woman has appeared before York Magistrates' Court.
 image: https://www.gazetteherald.co.uk/resources/images/21330929.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 A WOMAN has appeared before York Magistrates' Court following an alleged daytime “glassing” in a street in the city centre.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Parts of central and southern Europe have seen temperatures above 40C
   this week. As things warm up in the UK, is there a heatwave on the way?
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/7cb1/live/ffff45a0-a847-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A woman walks through a town square in Madrid, Spain, carrying a handheld fan.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7cb1/live/ffff45a0-a847-11f1-a291-b542ee92de7c.jpg)

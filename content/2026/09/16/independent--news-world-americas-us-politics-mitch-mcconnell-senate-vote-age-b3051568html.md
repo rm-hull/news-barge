@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: McConnell is accused of nearly voting with Democrats by mistake at Agriculture
   committee meeting
 image: https://static.independent.co.uk/2026/09/16/23/2026-09-16T210731Z_290669725_RC2KKNABNFJE_RTRMADP_3_USA-CONGRESS.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Sen. Mitch McConnell appeared frail and required assistance from a fellow Republican senator at a committee hearing on Wednesday, two days after returning to the Hill for the first time since his hospitalization in June.

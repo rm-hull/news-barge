@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: An incredible crowd embraced torrential rain on the final day at Leeds
   Festival as the clouds opened up over tens of thousands of revellers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI2NzJhZmYxLTk0ZjQtNDkwYi1hZjQyLTE5ZDRiN2FkMGJkNTo1NjhlNWU2NC1hNTUzLTQzNmQtODIzMS03YzhlYWRlNTFkN2Q=.jpg?crop=3:2,smart&trim=&width=640&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 # Leeds Festival '26: Crowds embrace the rain for closing night with headliners Sombr, RAYE and Dave

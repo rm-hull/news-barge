@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Durham County Council is to inspect a small bridge being used by diverted
   traffic after villagers warned it could become the scene of a serious…
 image: https://www.thenorthernecho.co.uk/resources/images/20313306.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: DURHAM COUNTY COUNCIL)*

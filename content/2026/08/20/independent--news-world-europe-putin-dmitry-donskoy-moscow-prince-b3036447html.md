@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The body of Grand Prince Donskoy surprised historians, who had believed
   it was located elsewhere in the building
 image: https://static.independent.co.uk/2026/08/20/15/2290638884..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 Russian President, Vladimir Putin has visited the newly unearthed remains of medieval Russian prince.

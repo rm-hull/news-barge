@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The company published a form on its website Thursday soliciting info
   from people who are interested in "Cybercab fleet vehicle purchasing."
 image: https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Tesla published a form on Thursday for businesses interested in buying Cybercab fleets or providing infrastructure for its network, the latest sign that the company’s aspirations for its gold-hued autonomous vehicle stretch beyond being a robotaxi operator.

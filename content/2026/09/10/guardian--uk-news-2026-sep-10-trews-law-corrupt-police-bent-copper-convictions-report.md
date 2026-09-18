@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Experts say failure to immediately review cases involving corrupt police
   officers risks ‘ruining’ more lives
 image: https://i.guim.co.uk/img/media/8836277a9f3208c3d923ef2dc096d32f7d1e00cf/650_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf7dd81a078703d5da544d5d41630749
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Convictions that imprisoned police officers were involved in obtaining should be automatically reviewed to correct miscarriages of justice such as those perpetrated by the corrupt and racist officer DS Derek Ridgewell, a report says.

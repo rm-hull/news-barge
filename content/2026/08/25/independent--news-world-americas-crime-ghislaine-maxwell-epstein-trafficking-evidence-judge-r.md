@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: In anything, Maxwell’s latest ‘meritless’ attempt to escape her sentence
   only further ‘incriminates her,’ judge says
 image: https://static.the-independent.com/2026/02/10/16/86509c181fa2f641ad9ecfd023273931Y29udGVudHNlYXJjaGFwaSwxNzcwODI3MTMw-2.83409577.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A federal judge has rejected Ghislaine Maxwell’s “lengthy and rambling” attempt to throw out her sex trafficking convictions after she claimed new evidence released by the Department of Justice in connection with her associate Jeffrey Epstein proved her rights at trial and sentencing were violated.

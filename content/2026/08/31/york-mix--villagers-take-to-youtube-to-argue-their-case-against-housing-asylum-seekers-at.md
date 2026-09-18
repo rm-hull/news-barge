@@ -8,6 +8,10 @@ scraped_at: '2026-08-31T21:28:21Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/fd8ba7ea-cab4-4dbf-a37c-49fe5ccdb212.jpg
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Villagers, fighting Government plans to house hundreds of asylum seekers at the old RAF Linton base near York, have launched a new YouTube Channel.

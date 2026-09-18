@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Scarborough Cricket Club raised thousands of pounds for patient care
   at Saint Catherine’s during its first Wear it Pink and Purple for Saint…
 image: https://www.yorkpress.co.uk/resources/images/21459086.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: Supplied)*

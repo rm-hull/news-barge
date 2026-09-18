@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Former TV contestant, Jo Gardiner, 61, dies of cancer one year after
   her son's death in a crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66b5/live/20cfac90-9fa4-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Jo and Sam pose together in an ornate room. He's wearing dark baseball cap and green top and rucksack and smiling, while Jo has shoulder-length brown hair and wears a white vest. She's also smiling.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/66b5/live/20cfac90-9fa4-11f1-bff6-57f1422ebb0b.jpg)

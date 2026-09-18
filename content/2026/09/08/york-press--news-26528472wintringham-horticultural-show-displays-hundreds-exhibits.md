@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Wintringham celebrated a good turnout for its first horticultural show
   at the weekend with more than 500 exhibits displayed.
 image: https://www.yorkpress.co.uk/resources/images/21420586.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 ## Wintringham celebrates success of first horticultural show after bumper turnout

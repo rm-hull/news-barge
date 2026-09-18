@@ -10,6 +10,8 @@ published: '2026-09-11T00:00:00Z'
 description: Rebellion Developments has said Alien Deathstorm isn't "another corridor
   shooter" but a "dynamically generated" sandbox horror game.
 image: https://cdn.mos.cms.futurecdn.net/qRrukDGaHYrZ4fLZJtVAwT-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Alien Deathstorm](https://cdn.mos.cms.futurecdn.net/qRrukDGaHYrZ4fLZJtVAwT.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Three men at to be sentenced for manslaughter following the death of
   Aiden Matthews who suffered a fractured skull after he was punched to the…
 image: https://www.thenorthernecho.co.uk/resources/images/20384817.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 - Good morning and welcome to the live coverage of the sentencing of three men for the manslaughter of Aiden Matthews.

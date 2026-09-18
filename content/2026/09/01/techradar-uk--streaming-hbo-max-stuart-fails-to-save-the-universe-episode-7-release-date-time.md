@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: In this week's universe, everyone is telepathic. But will that actually
   help, and when does Stuart Fails to Save the Universe episode 7 hit HBO Max?
 image: https://cdn.mos.cms.futurecdn.net/NVLdEHcgweBsVXPUbG3jrV-1920-80.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 ![Stuart and Denise look at something offscreen](https://cdn.mos.cms.futurecdn.net/NVLdEHcgweBsVXPUbG3jrV.jpg) 

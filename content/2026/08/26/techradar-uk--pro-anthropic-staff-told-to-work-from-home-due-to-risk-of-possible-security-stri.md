@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:57:21Z'
 published: '2026-08-26T00:00:00Z'
 description: Anthropic responds to potential of strike action from security staff
 image: https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/wSvr2XcdjMHeeAahcBvs54.jpg) 

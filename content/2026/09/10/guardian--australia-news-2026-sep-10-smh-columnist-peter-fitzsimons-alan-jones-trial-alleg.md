@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: FitzSimons tells court that complainant C told him Jones, who has pleaded
   not guilty, would touch his penis and he ‘kept pushing it away’
 image: https://i.guim.co.uk/img/media/691f881e7963f08fb56e49b0509ea4714aca5c1b/94_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c2c2461b5c15817833f4bff84b7780c
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Sydney Morning Herald columnist Peter FitzSimons has told the Alan Jones trial an alleged victim he spoke to in 2019 was “tearful” and sounded “emotionally traumatised” when detailing alleged assaults by the 2GB broadcaster.

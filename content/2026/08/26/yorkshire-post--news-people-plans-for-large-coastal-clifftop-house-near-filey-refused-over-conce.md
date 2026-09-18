@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Plans to build a large house at a clifftop location on the North Yorkshire
   coast have been refused over concerns about safety and its impact on neighbours.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmMwYzU4YzdkLTA1ZjMtNDUzNC05NzIzLTFmMDY2ZWIxZTBjZjo2MjQzNjYzNS01ODUyLTRmZTctYjViNy1hNDI1YzgzY2RiZjM=.jpg?crop=3:2,smart&trim=&width=763&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Plans for large coastal clifftop house near Filey refused over concerns about safety

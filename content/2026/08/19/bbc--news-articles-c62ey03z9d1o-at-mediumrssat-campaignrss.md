@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are
   enrolled to start at a school in September.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 !['Breaking' graphic](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png)

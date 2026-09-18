@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: OpenAI claims that Astra represents "a new frontier on computer and browser
   use," and that it handles tasks with unmatched "speed, accuracy, and safety."
 image: https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet.

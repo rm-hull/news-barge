@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Ted Lasso star Brett Goldstein has shared that he has faced battles with
   depression, but a gratitude journal helped him change his outlook on life
 image: https://www.gazetteherald.co.uk/resources/images/21366635.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 *(Image: Jordan Pettitt/PA Wire)*

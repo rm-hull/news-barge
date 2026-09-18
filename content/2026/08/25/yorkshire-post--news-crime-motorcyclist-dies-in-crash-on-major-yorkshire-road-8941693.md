@@ -8,6 +8,13 @@ published: '2026-08-25T00:00:00Z'
 description: A motorcyclist has died following a crash on the A1246 near Selby, with
   police now investigating the circumstances.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/17/34/A1246.png?trim=0,26,0,25&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- True Crime
+- News & Politics
 ---
 
 # Motorcyclist dies in crash on major Yorkshire road

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Natalie McDonald, 34, and Valentina Foster, seven, died in fire less
   than mile from A66 crash, with police not ruling out links
 image: https://i.guim.co.uk/img/media/c4dcec442a9870d1593a07c0f8e9fad69c6fa252/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb1f94504e9b0bd9e0221b11c6c72635
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A woman who died in a house fire along with her seven-year-old niece has been described as “a beautiful soul”.

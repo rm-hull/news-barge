@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Kellie Bright, who has played Linda Carter on BBC soap EastEnders for
   13 years, is due to leave the show soon.
 image: https://www.gazetteherald.co.uk/resources/images/21448128.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: BBC/Jack Barns/Kieron McCarron)*

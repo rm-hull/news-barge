@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: The Jolly Fisherman has plenty of seafood dishes to try out while enjoying
   panoramic views of the coastline.
 image: https://www.thenorthernecho.co.uk/resources/images/21353115.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 A restaurant in Craster has been described as having “excellent food” and is in a “great location” overlooking the sea.

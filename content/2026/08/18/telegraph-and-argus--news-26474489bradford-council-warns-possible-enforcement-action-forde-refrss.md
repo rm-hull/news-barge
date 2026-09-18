@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Bradford Council has said it may be forced to take enforcement action
   in an ongoing dispute over an outdoor seating area at a popular Ilkley…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21329125.jpg?type=og-image&xType=0&yType=454
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: NQ)*

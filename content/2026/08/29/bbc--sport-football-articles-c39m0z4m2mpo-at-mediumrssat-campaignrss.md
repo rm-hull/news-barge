@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: The Netherlands forward has also attracted interest from Tottenham, but
   sources indicate Manchester City is his preferred destination if he leaves Anfield.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e0d/live/2683a700-a3e0-11f1-ada8-4d531f05da8c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Cody Gakpo playing for Liverpool](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e0d/live/2683a700-a3e0-11f1-ada8-4d531f05da8c.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Bypassing restrictive networks just got a whole lot easier for Apple
   users, as AdGuard's TrustTunnel protocol lands on the Mac App Store
 image: https://cdn.mos.cms.futurecdn.net/LSVs67W5DaHSVhypbWT2c4-1537-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![AdGuard's TrustTunnel VPN protocol on the Mac App Store](https://cdn.mos.cms.futurecdn.net/LSVs67W5DaHSVhypbWT2c4.png) 

@@ -10,6 +10,10 @@ published: '2026-09-06T00:00:00Z'
 description: “Just because it’s virtual, doesn’t’ mean he shouldn’t face the full
   force of the law.”
 image: https://cdn.mos.cms.futurecdn.net/bpDwkvVtEX68yoa5N8XucT-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![a treasure chest on a desk](https://cdn.mos.cms.futurecdn.net/bpDwkvVtEX68yoa5N8XucT.png) 

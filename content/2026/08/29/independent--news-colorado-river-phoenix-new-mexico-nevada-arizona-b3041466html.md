@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Mayor Robert Morris of Cave Creek, Arizona, is worried about more water
   shortages from the severely depleted Colorado River
 image: https://static.independent.co.uk/2026/08/29/13/Colorado_River_Drought_9_943.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 On the outskirts of Phoenix, a small town with a huge reliance on the Colorado River has capped growth, revived old wells and struck water deals.

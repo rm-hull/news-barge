@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Tadcaster-based Sam Smith’s Brewery has reopened 18 of its pubs in the
   past three months, according to Malton man Tom Taverner.
 image: https://www.yorkpress.co.uk/resources/images/21431151.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

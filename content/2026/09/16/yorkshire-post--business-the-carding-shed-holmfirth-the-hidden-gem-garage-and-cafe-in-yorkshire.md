@@ -9,6 +9,12 @@ description: In the heart of Holmfirth - the home of Last of the Summer Wine - s
   a garage and cafe called The Carding Shed located within a historic textile mill
   with vintage-themed car memorabilia.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI1ODY0ZmQ3LWNmZTktNDYyOC1hMDUzLTJiODJkZGVjYTkzNDpkMWNmYTBkOS0zYzYwLTQ5MmQtODRiZC00MjM2NWNhYTk2NjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Arts & Culture
 ---
 
 # The Carding Shed, Holmfirth: The hidden gem garage and cafe in Yorkshire located within historic mill

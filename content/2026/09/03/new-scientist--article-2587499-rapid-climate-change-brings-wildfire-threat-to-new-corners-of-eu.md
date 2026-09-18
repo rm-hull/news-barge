@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Scorching conditions this year have triggered wildfires in European countries
   that are normally considered to be damp and cool
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310528974.jpg
+categories:
+- Science
+- Technology & Software
+- Travel
 ---
 
 ![wildfire on July 21, 2026 in Cotignac, France](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310528974.jpg?w=840)

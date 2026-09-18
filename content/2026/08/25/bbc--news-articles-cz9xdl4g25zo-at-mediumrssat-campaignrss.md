@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The singer, songwriter and actress is known for timeless hits including
   Jolene and I Will Always Love You.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c527/live/1d8fb230-a0b4-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Dolly Parton: The life of a legendary country singer

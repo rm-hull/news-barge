@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:50Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/07/york-stadium-sign.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 New owners are in charge at York RLFC.

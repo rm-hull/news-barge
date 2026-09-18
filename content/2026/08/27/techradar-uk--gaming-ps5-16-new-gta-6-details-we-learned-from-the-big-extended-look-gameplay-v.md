@@ -10,6 +10,9 @@ description: 'The Grand Theft Auto 6: An Extended Look is finally here! Here''s 
   breakdown of the top things we learned from the Netflix premiere in case you missed
   it.'
 image: https://cdn.mos.cms.futurecdn.net/WyWyP5goyL6VEqBTas6XcH-2000-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/WyWyP5goyL6VEqBTas6XcH.jpg) 

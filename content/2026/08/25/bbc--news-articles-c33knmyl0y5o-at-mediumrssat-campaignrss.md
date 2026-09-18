@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Trump administration has embraced Syria's new president, former al-Qaeda
   linked militant Ahmed al-Sharaa.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 ![Two men in dark suits and red ties smile and shake hands in front of windows and American flags](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg)

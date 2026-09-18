@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Louisiana National Guard announced this week that it is ending its
   eight-month deployment patrolling the streets of New Orleans
 image: https://static.independent.co.uk/2026/08/25/17/Federal_Enforcement_New_Orleans_78449.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Louisiana National Guard is ending its eight-month deployment patrolling the streets of New Orleans, and troops will be withdrawn from the city by the end of the month.

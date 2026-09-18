@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: North Yorkshire Police successfully used a technique for the first time
   to convict the drink driver who ran over tragic teenager Bailey Chadwick.
 image: https://www.yorkpress.co.uk/resources/images/20348283.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

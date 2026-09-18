@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Cofertility lets women freeze their eggs for free—as long as they give
   half of them back to the company. What happens next is anyone’s guess.
 image: https://media.wired.com/photos/6a9ee3c3f7108a9a9b598b7c/191:100/w_1280,c_limit/L1010030.adj.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 The Instagram post, precision-guided by sex and age, had zeroed in on its target. Yuchen Tu is a conservatory-trained viola player from Chongqing, China, a lover of science fiction, and an aspiring member of the US Army Reserve Officer Training Corps. She’s exacting and intense, with sky-high standards. And late last spring, just after her 24th birthday, she realized she might be the perfect candidate to freeze her eggs—for free.

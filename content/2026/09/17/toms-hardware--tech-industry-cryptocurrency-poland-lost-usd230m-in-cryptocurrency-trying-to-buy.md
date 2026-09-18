@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T13:23:20Z'
 published: '2026-09-17T00:00:00Z'
 description: A lot of hashing, and little oil to show for it.
 image: https://cdn.mos.cms.futurecdn.net/9LkEinKqmxvEtVdmeQwgLo-2048-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![Oil tanker in harbor](https://cdn.mos.cms.futurecdn.net/9LkEinKqmxvEtVdmeQwgLo.jpg) 

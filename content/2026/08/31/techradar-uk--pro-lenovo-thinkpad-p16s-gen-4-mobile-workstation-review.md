@@ -8,6 +8,8 @@ published: '2026-08-31T00:00:00Z'
 description: A surprisingly thin, lightweight workstation with a pro-grade GPU and
   a price tag to match.
 image: https://cdn.mos.cms.futurecdn.net/VLzV4w2XmrxRC4QyzvWwg-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

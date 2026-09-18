@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: A cafe is relaunching its free children's meals initiative this month
   while also offering support for struggling families.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20339463.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: T&A)*

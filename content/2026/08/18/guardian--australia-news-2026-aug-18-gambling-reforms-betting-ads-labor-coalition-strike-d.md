@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Labor’s legislation to restrict gambling ads is set to pass this week,
   with the Greens calling the agreement ‘cowardly’
 image: https://i.guim.co.uk/img/media/e7400a05a2e9e8b79058debf81c6488093ee98fa/360_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8d36fbc9656bfeb4a0e12cdcf57944b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Two Coalition MPs have crossed the floor after a deal between the major parties to pass Labor’s new restrictions on betting advertising and inducements, with cross-benchers and the Greens expressing anger and dismay at the contentious bill’s final form.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T19:22:55Z'
 published: '2026-09-02T00:00:00Z'
 description: A NORTH Yorkshire fire crew has seen a busy month for call-outs.
 image: https://www.yorkpress.co.uk/resources/images/21403553.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Busy month for North Yorkshire Fire and Rescue after call-outs

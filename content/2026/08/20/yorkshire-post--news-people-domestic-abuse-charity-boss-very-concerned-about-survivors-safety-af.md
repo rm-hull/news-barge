@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: The chief executive of Sheffield Women’s Aid said advanced warning of
   government alerts is “really critical” to protect survivors of domestic abuse.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU1MDJkMjQ4LWU1YWYtNDY1Yy04MjFjLTllNjA0YWJlNGQ0YjpmOGUxNGM4OC00MGYwLTQ3OTUtYmNkZC1iNjUyNTA4MWE2NWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Domestic abuse charity boss 'very concerned' about survivors' safety after government alert

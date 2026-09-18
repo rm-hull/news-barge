@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Video. Blacksmiths recreate a Viking Age anchor with bloomery iron and
   historic techniques at Aggersborg in northern Denmark.
 image: https://images.euronews.com/articles/stories/09/88/75/95/1200x675_cmsv2_35d7539b-eb18-5d58-aa4b-88bcd67c380e-9887595.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 Students and lecturers hammer bloomery iron into a Viking Age anchor at Aggersborg in northern Denmark. The video shows the team heating the metal, operating bellows and shaping the anchor. A reconstructed boat is also seen sailing on the Limfjord.

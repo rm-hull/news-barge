@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: A man has been arrested after police uncovered a haul of suspected stolen
   agricultural vehicles in the Bradford district.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21400943.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A MAN has been arrested after police uncovered a haul of suspected stolen agricultural vehicles in the Bradford district.

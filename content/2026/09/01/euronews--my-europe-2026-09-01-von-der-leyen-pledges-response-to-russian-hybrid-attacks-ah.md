@@ -7,6 +7,9 @@ scraped_at: '2026-09-01T19:23:54Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: null
+categories:
+- Europe
+- News & Politics
 ---
 
 ## As Germany formally blames Russia for a hybrid warfare incident involving an explosive-laden drone at one of its airports, European Commission President Ursula von der Leyen will meet NATO Secretary-General Mark Rutte to discuss a coordinated response.

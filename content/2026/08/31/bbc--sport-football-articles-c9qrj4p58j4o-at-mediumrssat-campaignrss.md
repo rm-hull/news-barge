@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Liverpool complete the signing of France forward Bradley Barcola from
   Paris St-Germain for a fee worth up to £123m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Bradley Barcola](https://ichef.bbci.co.uk/ace/standard/873/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg)

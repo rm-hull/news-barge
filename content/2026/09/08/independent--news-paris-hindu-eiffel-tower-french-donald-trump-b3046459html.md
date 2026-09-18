@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The Eiffel Tower has reopened to the public after a strike closed it
   for a day
 image: https://static.independent.co.uk/2026/09/08/10/France_Eiffel_Tower_68152.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The Eiffel Tower reopened Tuesday, a day after one of the world's most-visited landmarks was closed by a strike to protest what a union official called “unacceptable” management instructions limiting the presence of women during a visit by a Hindu delegation on Saturday.

@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: An almost £10 million black hole facing City of York Council has seen
   politicians trade blows.
 image: https://www.yorkpress.co.uk/resources/images/16188106.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Blows traded over almost £10m black hole facing York Council

@@ -10,6 +10,9 @@ published: '2026-09-06T00:00:00Z'
 description: 75W might be convenient for very restricted builds, but it drags the
   RTX 3060 performance down into mobile iGPU territory.
 image: https://cdn.mos.cms.futurecdn.net/Cw3EjojmcM2CtTBQDSUqRC-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A 75W RTX 3060 with no power connectors](https://cdn.mos.cms.futurecdn.net/Cw3EjojmcM2CtTBQDSUqRC.jpg) 

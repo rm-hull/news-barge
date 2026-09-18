@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T20:43:20Z'
 published: '2026-08-24T00:00:00Z'
 description: Andy Burnham makes his first foreign trip as Prime Minister to Ukraine
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ## Episode details

@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: The public is being asked to choose between Shaun and his cousin Timmy
   the lamb
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/16/11/shaun-the-sheep-farmageddon.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The public is being asked to think woolly hard about the name for a future storm.

@@ -9,6 +9,10 @@ description: Steel drums, flag-draped floats and the smell of jerk chicken fille
   Brooklyn’s Eastern Parkway on Monday as thousands celebrated Caribbean culture at
   the West Indian Day Parade.
 image: https://static.independent.co.uk/2026/09/08/04/Caribbean_Carnival_NYC_99857.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Caribbean Culture Fills Brooklyn’s Eastern Parkway, in photos

@@ -9,6 +9,11 @@ description: The tributes have included artists across musical genres, fans from
   generations and politicians from all spectrum sharing their love for the country
   icon.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6457/live/eb67dad0-a0db-11f1-bf7e-3dee971383e9.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Dolly Parton: The life of an iconic country singer

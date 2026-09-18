@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: In North Carolina, aiding-and-abetting charges carry the same punishment
   as if the girl had committed the attack herself
 image: https://static.the-independent.com/2026/05/20/07/2276592593..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A 17-year-old girl who recorded a livestream of a shooting that killed three people at a San Diego mosque and disseminated the attackers’ hate-filled writings has been charged with murder by aiding and abetting, according to a North Carolina district attorney.

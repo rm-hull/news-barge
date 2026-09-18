@@ -9,6 +9,9 @@ description: Video. Russia has begun early voting in its parliamentary elections
   Russian-controlled areas of Ukraine’s Donetsk region, with armed personnel accompanying
   election officials and voters.
 image: https://images.euronews.com/articles/stories/09/91/46/14/1200x675_cmsv2_1a35afbf-173c-5c3f-aa83-98198f525a36-9914614.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 Mobile polling teams visited homes in rural areas on 14 September, carrying ballot boxes and portable voting booths. Footage showed residents casting their ballots outside their homes, while members of Russia’s Central Electoral Commission oversaw the process alongside Russian servicemen and police officers.

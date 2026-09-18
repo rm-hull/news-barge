@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Chelsea are believed to have recouped more than £500m this summer by
   either selling or loaning out a staggering 39 players.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1694/live/66294a90-a7b4-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Xabi Alonso talking to Enzo Fernandez](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/1694/live/66294a90-a7b4-11f1-a291-b542ee92de7c.jpg)

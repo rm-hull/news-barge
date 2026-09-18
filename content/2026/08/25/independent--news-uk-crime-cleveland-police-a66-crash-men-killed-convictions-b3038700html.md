@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Cleveland Police said 12 people have been arrested over alleged criminality
   leading up to the collision
 image: https://static.independent.co.uk/2026/08/23/14/19/A66-split.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A group of men who died alongside two police officers in a head-on collision while travelling down the wrong side of a dual carriageway had 37 convictions between them.

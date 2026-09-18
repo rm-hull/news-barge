@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: In a country where unemployment remains widespread these performers can
   match the daily wage of labourers and farm workers
 image: https://static.independent.co.uk/2026/09/09/10/29/AP26243613517561.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 As the traffic signals turn red at a congested junction in the Kenyan capital, a young performer dressed in leopard print steps into the road to tumble through the air. He is joined by five identically dressed companions who together execute a series of acrobatic maneuvers.

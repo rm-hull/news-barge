@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T22:54:21Z'
 published: '2026-09-16T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/0c4ce5a2e6b939a09e2a2eabcff64b8125d9e424/650_0_6474_5183/master/6474.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=390a6b42d6cedcd8be63d5b8ef025687
+categories:
+- UK
+- News & Politics
 ---
 
 People with child support debts to be banned from leaving Australia

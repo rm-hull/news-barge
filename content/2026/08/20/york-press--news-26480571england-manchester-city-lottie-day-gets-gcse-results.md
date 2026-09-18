@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: An England and Manchester City star has scored standout GCSE results
   despite missing three days of school each week.
 image: https://www.yorkpress.co.uk/resources/images/21346329.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## International footballer star scores with standout GCSE results

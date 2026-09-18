@@ -9,6 +9,12 @@ published: '2026-09-16T00:00:00Z'
 description: New pictures have been released by a television company showing how Bradford's
   City Hall provided a atmospheric backdrop for the latest series…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462262.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 NEW pictures have been released by a television company showing how Bradford's City Hall provided a atmospheric backdrop for the latest series of All Creatures Great and Small.

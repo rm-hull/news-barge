@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A long-running community event, Northallerton Carnival has been given
   a fresh identity and is now known as Northallerton Family Funday.
 image: https://www.thenorthernecho.co.uk/resources/images/21395866.jpg?type=og-image&xType=0&yType=454
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Northallerton Family Funday)*

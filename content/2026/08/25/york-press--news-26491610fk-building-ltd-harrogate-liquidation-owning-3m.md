@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate developer FK Building Ltd has gone into liquidation with debts
   exceeding £3million.
 image: https://www.yorkpress.co.uk/resources/images/21365860.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Street View)*

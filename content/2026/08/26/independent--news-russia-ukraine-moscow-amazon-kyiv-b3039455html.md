@@ -10,6 +10,11 @@ description: Ukrainian long-range drones have struck a major warehouse belonging
   Russia’s biggest online retailer, Wildberries, for the second time in just over
   a month
 image: https://static.independent.co.uk/2026/08/17/05/Russia_Wildberries_52329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Ukrainian long-range drones struck a major warehouse belonging to Russia’s biggest online retailer for the second time in just over a month, starting a massive fire that destroyed it completely, local authorities said Wednesday.

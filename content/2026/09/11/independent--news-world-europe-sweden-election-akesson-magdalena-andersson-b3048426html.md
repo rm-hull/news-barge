@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The current center-right coalition relies on outside support from the
   Sweden Democrats, an anti-immigration party with far-right roots
 image: https://static.independent.co.uk/2026/09/11/08/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Voters in Sweden will go to the polls on Sunday in a contest that will decide if the conservative government stays in power, potentially granting a hard-right party its first cabinet seats, or if the centre-left will regain control.

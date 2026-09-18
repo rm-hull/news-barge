@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Weather service warns of flooding and mudslides, particularly in areas
   strongly affected by previous storm
 image: https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e6e555a10433c5baa0dc1fe615222bc
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Tropical Storm Moke is poised to slam into the south of Hawaii’s islands, with forecasters predicting heavy rains and strong winds on Saturday evening, just days after the region was hit by Hurricane Lala.

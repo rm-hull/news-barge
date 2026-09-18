@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The new A59 Kex Gill road is set to open to traffic this week as work
   on the major realignment scheme reaches its latest milestone.
 image: https://mmo.aiircdn.com/409/6a8be93fc6b19c1120b.jpg
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8be93fc6b19c1120b.jpg) 

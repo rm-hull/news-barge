@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: While Reacher season 4 ends, spin-off Neagley is set to take its place.
   So, when will it arrive on Prime Video?
 image: https://cdn.mos.cms.futurecdn.net/T9Z5qTgpJe2uoUXGfgzugG-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Neagley talks on the phone while looking up at something](https://cdn.mos.cms.futurecdn.net/T9Z5qTgpJe2uoUXGfgzugG.jpg) 

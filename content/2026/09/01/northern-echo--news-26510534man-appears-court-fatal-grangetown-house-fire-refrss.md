@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man has appeared in court charged with murder after a devastating hours
   fire that killed a seven-year-old girl and her aunt.
 image: https://www.thenorthernecho.co.uk/resources/images/21394695.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man has appeared in court charged with murder after a tragic house fire that killed a seven-year-old girl and her aunt.

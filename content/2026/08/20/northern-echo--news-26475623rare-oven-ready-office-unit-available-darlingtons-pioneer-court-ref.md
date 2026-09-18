@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: A RARE "oven ready" unit has become available at one of the Tees Valley's
   most established office spaces.
 image: https://www.thenorthernecho.co.uk/resources/images/21337518.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 A rare "oven ready" unit has become available at one of the Tees Valley's most established office spaces.

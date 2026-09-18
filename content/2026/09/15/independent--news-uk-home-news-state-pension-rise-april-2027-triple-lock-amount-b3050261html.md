@@ -8,6 +8,12 @@ published: '2026-09-15T00:00:00Z'
 description: Average wage growth is outpacing inflation forecasts, setting up an increase
   for millions of retirees next April
 image: https://static.independent.co.uk/2025/12/16/14/10/iStock-2167441482.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The state pension is set to rise by 3.9 per cent next April in a move that will make it taxable for the first time.

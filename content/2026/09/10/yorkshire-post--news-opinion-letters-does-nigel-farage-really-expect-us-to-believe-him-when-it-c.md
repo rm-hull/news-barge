@@ -8,6 +8,11 @@ scraped_at: '2026-09-10T12:54:34Z'
 published: '2026-09-10T00:00:00Z'
 description: 'From: Peter Scott, South Brent.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJjYWYzM2U5LTkxZjYtNDBkOS1iMmZiLWM3YmEyYWQyNmE0OTozZWRiZDM5Zi05MGMxLTRiYmUtYWUxMC04NDdmZGFmZjA2NGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Does Nigel Farage really expect us to believe him when it comes to Reform donations? - Yorkshire Post Letters

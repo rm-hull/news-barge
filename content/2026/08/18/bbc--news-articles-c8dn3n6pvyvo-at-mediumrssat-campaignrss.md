@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The Liberal Democrats say taking part in the scheme would "destroy the
   business model" of gangs arranging Channel crossings.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f27/live/c109e500-9b0c-11f1-bb80-c1b1e1adeea5.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Ed Davey](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5f27/live/c109e500-9b0c-11f1-bb80-c1b1e1adeea5.jpg)

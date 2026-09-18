@@ -9,6 +9,10 @@ published: '2026-09-12T00:00:00Z'
 description: Liverpool have failed to win either of their first two Premier League
   games at Anfield. But is it too early to worry?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1a01/live/03844430-aecb-11f1-89e2-171455bb2760.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Fulham take first point of the season at lacklustre Liverpool

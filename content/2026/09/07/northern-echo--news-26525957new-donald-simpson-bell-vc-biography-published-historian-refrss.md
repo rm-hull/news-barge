@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: A new book tells the story of Donald Simpson Bell VC, the only English
   professional footballer awarded the Victoria Cross during the First World War.
 image: https://www.thenorthernecho.co.uk/resources/images/21416547.jpg?type=og-image&xType=0&yType=252
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 A new book tells the story of Donald Simpson Bell VC, the only English professional footballer awarded the Victoria Cross during the First World War.

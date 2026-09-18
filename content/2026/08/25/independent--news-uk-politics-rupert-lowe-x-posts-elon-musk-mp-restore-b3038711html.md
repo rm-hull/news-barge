@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Mr Lowe, who regularly posts anti-immigration content on Elon Musk’s
   platform, has made on average £931 per hour this year on X
 image: https://static.independent.co.uk/2026/08/06/08/2281563630..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Rupert Lowe has raked in over £100,000 from posts on X since being elected in 2024, as the Restore Britain leader is set to make more from social media posts than from his MP salary.

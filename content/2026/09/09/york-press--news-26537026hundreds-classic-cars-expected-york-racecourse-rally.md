@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:34Z'
 published: '2026-09-09T00:00:00Z'
 description: Hundreds of classic cars are expected at a rally at York Racecourse.
 image: https://www.yorkpress.co.uk/resources/images/19953642.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Dylan Connell)*

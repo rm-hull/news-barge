@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Terrington Hall Prep School was featured in Tatler magazine’s 2027 Schools
   Guide.
 image: https://www.yorkpress.co.uk/resources/images/21438334.jpg?type=og-image
+categories:
+- Local
+- York
+- Education & Learning
 ---
 
 ## Prep school near York named among UK's best in prestigious Tatler guide

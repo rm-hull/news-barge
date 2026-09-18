@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Predicted hot and dry weather in growing areas in eastern Australia identified
   as ‘one of the key issues’ that will affect food prices over next 12 months
 image: https://i.guim.co.uk/img/media/a8ea95d9d663d7a2bb4886e76b068a9afd859e13/464_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e7cc57f4b55353962b8591495057201
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The most severe El Niño weather event on record threatens to push food prices higher this year, experts say, piling pressure on households already struggling with the post-pandemic spike in grocery bills and complicating the Reserve Bank’s efforts to bring inflation back under control.

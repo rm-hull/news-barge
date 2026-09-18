@@ -10,6 +10,12 @@ description: After a week of celebrating nomadic culture and heritage with sport
   Ata in Kyrgyzstan. In traditional sports competition home team Kyrgyzstan and Kazakhstan
   won most medals.
 image: https://images.euronews.com/articles/stories/09/90/33/19/1200x675_cmsv2_f723872b-038f-55d1-89b7-840ee05190e6-9903319.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Video Gaming
+- Arts & Culture
 ---
 
 ## After a week of celebrating nomadic culture and heritage with sports contests and cultural programmes, 6th Nomad Games end in their birth place Cholpon Ata in Kyrgyzstan. In traditional sports competition home team Kyrgyzstan and Kazakhstan won most medals.

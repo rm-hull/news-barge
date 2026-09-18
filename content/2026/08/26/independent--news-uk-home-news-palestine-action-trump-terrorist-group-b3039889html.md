@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The US government has confirmed it has ‘taken action’ against the UK-based
   group
 image: https://static.independent.co.uk/2026/08/26/19/2287611868..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Palestine Action has been designated a terrorist group by the US government, which has announced targeted sanctions against the UK-based direct action group.

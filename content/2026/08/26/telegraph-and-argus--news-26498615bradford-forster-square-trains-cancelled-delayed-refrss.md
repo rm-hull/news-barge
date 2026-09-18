@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Train services running between two stations have been disrupted this
   evening.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20243537.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Mike Simmonds)*

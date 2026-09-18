@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: The acquisition also leaves Sequoia-backed Serval as the de facto startup
   leader in AI IT service automation, industry watchers believe.
 image: https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Palo Alto Networks paid $500 million in cash and stock to acquire Console, a two-year-old startup that uses AI agents to automate routine IT help desk tasks, according to two people with knowledge of the deal.

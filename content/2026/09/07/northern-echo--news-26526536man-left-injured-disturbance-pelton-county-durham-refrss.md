@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man suffered head and back injuries during a disturbance at a house
   in a County Durham village, police said. Four people were arrested.
 image: https://www.thenorthernecho.co.uk/resources/images/21417594.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: GOOGLE)*

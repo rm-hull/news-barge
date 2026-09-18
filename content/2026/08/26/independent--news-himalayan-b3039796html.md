@@ -9,6 +9,10 @@ description: Flash floods in Nepal have killed many people and left hundreds mis
   including tourists and workers. The floods swept through communities and halted
   travel in parts of the Himalayan country.
 image: https://static.independent.co.uk/2026/08/26/16/APTOPIX_Nepal_Flash_floods_31_76.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Flash floods in Nepal have killed many people and left hundreds missing, including tourists and workers. The floods swept through communities and halted travel in parts of the Himalayan country.

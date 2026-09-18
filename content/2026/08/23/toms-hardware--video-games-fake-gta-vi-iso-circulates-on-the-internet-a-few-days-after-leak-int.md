@@ -9,6 +9,9 @@ scraped_at: '2026-08-23T12:57:38Z'
 published: '2026-08-23T00:00:00Z'
 description: Beware downloading unreleased pirated games folks.
 image: https://cdn.mos.cms.futurecdn.net/wJJvsofdE94tEJuVpYkGFk-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![a clip from GTA VI trailer 2](https://cdn.mos.cms.futurecdn.net/wJJvsofdE94tEJuVpYkGFk.png) 

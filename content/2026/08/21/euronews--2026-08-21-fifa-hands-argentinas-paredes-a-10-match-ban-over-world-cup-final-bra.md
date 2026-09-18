@@ -9,6 +9,10 @@ description: FIFA has banned three Argentina players, including a 10-match suspe
   for Leandro Paredes, along with fines against the team and federation for post-final
   violence and other incidents during the tournament.
 image: https://images.euronews.com/articles/stories/09/88/41/64/1200x675_cmsv2_19e05a0a-a61f-59d6-a1c0-851cd733f320-9884164.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## FIFA has banned three Argentina players, including a 10-match suspension for Leandro Paredes, along with fines against the team and federation for post-final violence and other incidents during the tournament.

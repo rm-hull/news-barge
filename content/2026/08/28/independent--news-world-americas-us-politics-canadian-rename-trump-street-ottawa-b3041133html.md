@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T22:14:19Z'
 published: '2026-08-28T00:00:00Z'
 description: The street was named after President Donald Trump 25 years ago
 image: https://static.independent.co.uk/2026/08/28/16/31/GettyImages-2211537801.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A city council in Canada is taking a page from the U.S. playbook and plans to rename its street honoring Donald Trump - and to troll him with its new name.

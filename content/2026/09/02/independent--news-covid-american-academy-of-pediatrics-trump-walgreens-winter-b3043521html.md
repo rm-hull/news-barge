@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Leading U.S. medical groups are urging people to get updated flu and
   COVID-19 vaccinations this fall
 image: https://static.independent.co.uk/2026/09/02/15/Be_Well-Fall_Vaccine_Advice_11722.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Leading U.S. medical groups are urging people to get updated flu and COVID-19 vaccinations this fall, banding together Wednesday to issue shot guidelines — and highlight the science behind them — saying they hope to ease confusion caused by the Trump administration's changing advice.

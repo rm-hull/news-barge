@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Video. A 15-year-old boy was rescued after clinging to an overturned
   boat for nearly three days in the frigid Bering Sea off Alaska.
 image: https://images.euronews.com/articles/stories/09/91/11/48/1200x675_cmsv2_d39db552-655f-5661-9500-71d341e903f7-9911148.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 A 15-year-old boy has been rescued after surviving nearly three days adrift on an overturned boat in Alaska’s freezing Bering Sea.

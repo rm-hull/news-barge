@@ -10,6 +10,11 @@ description: The Hungry Ghost Festival is observed during the seventh month of t
   lunar calendar, drawing on Buddhist, Taoist and folk religious beliefs about the
   relationship between the living and the dead
 image: https://static.independent.co.uk/2026/09/01/02/Malaysia_Ghost_Festival_6_511.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Religion & Spirituality
+- Arts & Culture
 ---
 
 It’s that time of year when the living make room for the dead. Malaysia’s Hungry Ghost Festival is held during the seventh month of the Chinese lunar calendar, which this year began in mid-August.

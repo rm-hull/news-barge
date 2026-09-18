@@ -10,6 +10,10 @@ description: Arsenal's chief executive Richard Garlick speaks out on the case ag
   Manchester City and the more than 100 alleged breaches of the Premier League's financial
   rules.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be00/live/b648b050-9bbc-11f1-ae8a-8d57110c5ba6.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A head and shoulders photo of Arsenal chief executive Richard Garlick](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/be00/live/b648b050-9bbc-11f1-ae8a-8d57110c5ba6.jpg)

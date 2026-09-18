@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Digital identity for building trust, personalization and growth in an
   AI-driven economy.
 image: https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A close up of a person's eyes and face. They are wearing glasses and in one eye there's. a reflection of a digital brain](https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM.jpg) 

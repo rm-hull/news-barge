@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A Republican congressman from Wisconsin says he had to swim to safety
   after a plane he was traveling in made an emergency landing in a lake late Saturday
 image: https://static.independent.co.uk/2026/09/13/20/Wisconsin_Emergency_Plane_Landing_58577.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Rep. Tom Tiffany expressed deep gratitude on Sunday following his survival of a terrifying late-night emergency water landing, alternating between tears and laughter as he described the ordeal. The candidate for Wisconsin governor had been riding in a small plane that crashed into a lake.

@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T12:52:09Z'
 published: '2026-09-08T00:00:00Z'
 description: CIOs are being blamed for AI incidents
 image: https://cdn.mos.cms.futurecdn.net/qiVqCYVeLXmRG6AAZFzUGe-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dell AI Data Platform: two people working late at night in an office at the same monitor, discussing a problem](https://cdn.mos.cms.futurecdn.net/qiVqCYVeLXmRG6AAZFzUGe.jpg) 

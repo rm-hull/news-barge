@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Some possible contenders include conservative commentator Scott Jennings
   and Katie Miller, the wife of White House official Stephen Miller
 image: https://static.independent.co.uk/2026/08/26/19/18/GettyImages-2290824810.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump has still not picked a replacement for his outgoing press secretary, Karoline Leavitt, just days before she leaves the White House.

@@ -9,6 +9,8 @@ published: '2026-09-13T00:00:00Z'
 description: September means new 4K Blu-rays, and I've picked my top 5 discs I'm most
   looking forward to testing.
 image: https://cdn.mos.cms.futurecdn.net/sRMj5pFTVbn3QCtZ2W623T-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![September 2026 most anticipated 4K Blu-ray hero](https://cdn.mos.cms.futurecdn.net/sRMj5pFTVbn3QCtZ2W623T.jpg) 

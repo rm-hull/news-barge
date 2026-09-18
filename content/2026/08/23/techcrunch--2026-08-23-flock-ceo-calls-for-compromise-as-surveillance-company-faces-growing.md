@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Flock Safety faces a growing public outcry over concerns that its surveillance
   technology could be misused.
 image: https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The country needs to find a “compromise” between privacy and safety, according to Flock Safety CEO Garrett Langley.

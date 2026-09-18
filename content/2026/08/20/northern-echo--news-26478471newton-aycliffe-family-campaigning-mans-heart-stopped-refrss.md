@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A Newton Aycliffe man whose life was saved by seconds is backing a mission
   to get lifesaving defibrillators into more communities across County…
 image: https://www.thenorthernecho.co.uk/resources/images/20784182.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
 ---
 
 The family of a young Newton Aycliffe man whose life was saved after his heart suddenly stopped are now campaigning for more defibrillators to be installed, as it could have been a "different story for them".

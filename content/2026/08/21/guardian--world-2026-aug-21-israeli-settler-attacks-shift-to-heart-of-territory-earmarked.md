@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Report says violence is moving from Israeli-controlled areas to those
   earmarked for a future Palestinian state
 image: https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a1d91df9d3116c93a85743f915efa11
+categories:
+- UK
+- News & Politics
 ---
 
 Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed “great settlement revolution” in the very heart of the territory earmarked for a Palestinian state.

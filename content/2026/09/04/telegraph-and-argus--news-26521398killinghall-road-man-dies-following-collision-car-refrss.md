@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T12:41:48Z'
 published: '2026-09-04T00:00:00Z'
 description: A man has died following a collision with a car in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21409700.jpg?type=og-image&xType=0&yType=567
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Gazz Hall)*

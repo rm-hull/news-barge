@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The new Christmas Penguin bar is inspired by the popular McVitie’s Penguin
   biscuit.
 image: https://www.thenorthernecho.co.uk/resources/images/21189968.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: Getty Images/iStockphoto)*

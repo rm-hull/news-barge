@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Report documents use of commercial licensing for free or donation-based
   exercise classes in parks and on beaches
 image: https://i.guim.co.uk/img/media/92ca06bd0c017a5ca306fca6596226eb98b35bb5/29_873_4204_3363/master/4204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85607113fad8801b4817d4c39dbdc9c9
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 At 6am on the beach at Westgate-on-Sea in Kent, Angela Brier-Stephenson used to meet a small group of about 10 people for yoga.

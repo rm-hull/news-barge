@@ -10,6 +10,9 @@ description: Charles says claims by developer Jean Nassif in an intercepted phon
   call that ‘we’re reshuffling the government’ did not reflect promises allegedly
   made to Nassif
 image: https://i.guim.co.uk/img/media/10a87223050be3fe81412c3b2cf2b9ae6a485659/137_210_1517_1214/master/1517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=028f8553ed093a930f2220bf2ae50eae
+categories:
+- UK
+- News & Politics
 ---
 
 The younger brother of Dominic Perrottet has denied asking his brother to appoint a cabinet minister to achieve outcomes for a property developer, a corruption inquiry has heard.

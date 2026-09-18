@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: There are plenty of pubs in Yorkshire located along the popular Coast
   to Coast walking route that have beer gardens or outdoor seating.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU0MDkzMzBlLTE3OTYtNDM3MS1iNGNlLWUwMDRiYTQ2YWQ0Mjo4OTAwZDdlYS1kMmJmLTQ1OTAtYmQxZi1hODgzZmJhNDhjYTE=.jpg?crop=3:2,smart&trim=&width=1154&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Coast to Coast: Nine Yorkshire pubs along the famous walking route with beer gardens and outdoor seating

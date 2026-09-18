@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: China has dismissed U.S. claims that Chinese artificial intelligence
   developers extract capabilities from frontier American AI systems
 image: https://static.independent.co.uk/2026/08/24/04/China_AI_Job_Fears_29259.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 China hit back Wednesday against U.S. claims that Chinese artificial intelligence developers are engaged in “aggressive, malicious” industrial-scale efforts to extract capabilities from frontier American AI systems.

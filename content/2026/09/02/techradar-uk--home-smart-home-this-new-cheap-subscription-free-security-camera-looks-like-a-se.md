@@ -10,6 +10,8 @@ published: '2026-09-02T00:00:00Z'
 description: Shelly has launched a new security camera with free microSD storage and
   two-way audio.
 image: https://cdn.mos.cms.futurecdn.net/QnxagvS5wXnkTNfMwA4due-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Ring indoor cam next to the Shelly indoor camera](https://cdn.mos.cms.futurecdn.net/QnxagvS5wXnkTNfMwA4due.jpg) 

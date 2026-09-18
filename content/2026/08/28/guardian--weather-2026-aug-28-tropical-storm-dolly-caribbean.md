@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Remnants from tropical storm could cause heavy rainfall on Leeward Islands
   and affect Virgin Islands, Puerto Rico and Hispaniola
 image: https://i.guim.co.uk/img/media/a351ae3cb184c7f81762912a2e9bce58c9b21f95/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e848c7510187c4d07848034a3be13a8c
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Remnants of Tropical Storm Dolly, which has been downgraded to an “open tropical wave”, were moving still across the Atlantic Ocean toward the Leeward Islands, and could bring heavy rainfall to parts of the Caribbean this weekend, the US National Hurricane Center (NHC) said on Friday..

@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Organisers of Bishop Auckland's popular Christmas Town event have dramatically
   cut the price of attraction passes after receiving feedback from…
 image: https://www.thenorthernecho.co.uk/resources/images/21471890.jpg?type=og-image&xType=0&yType=57
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: SUPPLIED)*

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Harrogate’s amazing ukulele band have raised more than £8k for Saint
   Michael's Hospice after 12 months of entertaining crowds with their vintage sounds.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjI5OGNjMmMzLWY3NzUtNDFhNS1iZjBmLWQ0YzZjNGJhZTYxZjoxNzU5MjVlYy1lODYyLTQ1ZWYtYTQ4OC02MTFlYzkyMjU1OTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Harrogate Spa Town Ukes 'make a difference' for Saint Michael's Hospice by raising more than £8,000

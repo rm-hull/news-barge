@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A spokesperson for the DHS stated on Sunday that officers apprehended
   Luis Manuel Aviles Roa during a vehicle stop in Key West, Florida
 image: https://static.independent.co.uk/2026/08/20/18/2026-08-19T143103Z_702194656_RC2PZMAOUIBH_RTRMADP_3_IRAN-CRISIS-USA-CARRIER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The father of an American sailor serving aboard the USS Abraham Lincoln has been taken into federal immigration custody while his son is deployed in the Middle East, according to a statement posted online by the service member.

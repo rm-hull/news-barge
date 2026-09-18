@@ -11,6 +11,11 @@ description: Thirty-five years ago, I made my way to Muker Show. It had been my 
   massive agricultural show season. Muker Show wasn’t even on the list of the Yorkshire
   Federation of Show Societies, but I found a gem.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMwMTY0ZDRkLTFmNDYtNDRlYy04YjhlLTlmY2Q2M2JjODkxZTo4MjQxMzE3NS00YjVlLTRiNDktYjM2My00Njk5NWZjOWZiZmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Summer Lodge Farm, Swaledale: Muker Show's a gem, but the competition is fierce

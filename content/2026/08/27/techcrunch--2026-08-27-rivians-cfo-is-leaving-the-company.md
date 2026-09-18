@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Claire McDonough is stepping down on October 30 to pursue a new opportunity,
   the company said in a filing on Thursday.
 image: https://techcrunch.com/wp-content/uploads/2026/08/claire-mcdonough-getty.jpg?resize=1200,899
+categories:
+- Business & Entrepreneurship
+- Careers & Productivity
+- Technology & Software
 ---
 
 Rivian’s chief financial officer Claire McDonough is resigning her position at the end of October, the company announced in a regulatory filing Thursday.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: One new Aldi store has already opened, while three more are due to welcome
   shoppers this month.
 image: https://www.gazetteherald.co.uk/resources/images/21387685.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

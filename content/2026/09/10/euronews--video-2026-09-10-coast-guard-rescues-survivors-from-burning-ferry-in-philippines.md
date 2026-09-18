@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Video. A ferry fire near Coron in the Philippines has killed at least
   five people and left 87 missing as coast guard crews search in rough seas.
 image: https://images.euronews.com/articles/stories/09/90/84/18/1200x675_cmsv2_6bff61a0-5de0-5008-a46e-950d8fdd063a-9908418.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- Sports
 ---
 
 Video shows the MV June Aster on fire off Coron in the Philippines, as coast guard crews throw life jackets to people in the water.

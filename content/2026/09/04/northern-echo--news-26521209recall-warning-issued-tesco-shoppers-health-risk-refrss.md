@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Tesco is warning customers not to eat one of its products which has been
   recalled due to a potential health risk.
 image: https://www.thenorthernecho.co.uk/resources/images/20826881.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Getty Images)*

@@ -9,6 +9,9 @@ published: '2026-09-14T00:00:00Z'
 description: The administration is moving to prevent any attempt to reimpose any limits
   on emissions under future presidents
 image: https://static.independent.co.uk/2026/08/04/22/2260788399..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Environmental Protection Agency is expected to announce Monday that the United States will stop limiting the greenhouse gases released by coal- and gas-fired power plants, completing the Trump administration's dismantling of the climate policies of the two previous Democratic presidents.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:15:52Z'
 published: '2026-08-28T00:00:00Z'
 description: The performer thanked her fans for their support over the years
 image: https://static.the-independent.com/2026/08/28/11/1976110775..?trim=0,43,0,43&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Gladys Knight has revealed she is scaling back her live concerts as she transitions "into the next stage" of her career and life.

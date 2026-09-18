@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Belkin's new UltraCharge power banks are among the company's first devices
   with semi-solid-state tech, and that could make a big difference.
 image: https://cdn.mos.cms.futurecdn.net/QPNZv3ijvqe2fa78N5zF2S-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A Belkin UltraCharge power bank](https://cdn.mos.cms.futurecdn.net/QPNZv3ijvqe2fa78N5zF2S.jpg) 

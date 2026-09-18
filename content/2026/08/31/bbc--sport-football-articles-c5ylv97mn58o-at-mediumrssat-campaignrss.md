@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Newcastle United sign Belgium forward Matias Fernandez-Pardo from Lille
   for an initial £51.4m.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e80c/live/72b1cf70-a60c-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Matias Fernandez-Pardo celebrates scoring for Lille](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e80c/live/72b1cf70-a60c-11f1-83fc-0df57e6b3866.jpg)

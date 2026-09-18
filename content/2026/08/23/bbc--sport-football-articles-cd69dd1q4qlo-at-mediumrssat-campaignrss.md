@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Liverpool are preparing to begin a season without Mohamed Salah for the
   first time in a decade - but they haven't replaced him yet. This is why.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1764/live/101cb1b0-9c87-11f1-95d8-5b0dba89a322.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Alexander Isak and Florian Wirtz in discussions for Liverpool during pre-season](https://ichef.bbci.co.uk/ace/standard/601/cpsprodpb/1764/live/101cb1b0-9c87-11f1-95d8-5b0dba89a322.jpg)

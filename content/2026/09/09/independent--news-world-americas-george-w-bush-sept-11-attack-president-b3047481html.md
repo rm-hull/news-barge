@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Bush had been president less than eight months when his chief of staff
   interrupted a school reading event to inform him of the unfolding tragedy
 image: https://static.independent.co.uk/2026/09/09/19/54/GettyImages-150092234.jpg?trim=235,0,124,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 President George W. Bush was jogging around a Florida golf course before dawn when I first saw him on September 11, 2001.

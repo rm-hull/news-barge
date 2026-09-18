@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T13:23:56Z'
 published: '2026-09-17T00:00:00Z'
 description: Time to bury the hatchet?
 image: https://cdn.mos.cms.futurecdn.net/eEG2jWuyvKSPgs2K5yfekX-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia Hot Chips 2024](https://cdn.mos.cms.futurecdn.net/eEG2jWuyvKSPgs2K5yfekX.jpg) 

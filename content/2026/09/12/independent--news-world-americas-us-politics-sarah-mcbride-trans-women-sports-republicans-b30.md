@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: McBride’s words come as Republicans continue to attack Democrats when
   it comes to transgender athletes in women’s sports
 image: https://static.independent.co.uk/2026/09/03/19/2262882362..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Throughout the Republican midterm convention, Republicans consistently fearmongered about transgender people, the possibility of their playing in women’s sports and Democratic support for children under 18 receiving health care to transition.

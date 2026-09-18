@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Climate scepticism is common at the Reform party conference, but many
   also criticise Labour for failing to protect Britons from hot weather
 image: https://i.guim.co.uk/img/media/f70a411fe9ba9a7689c8f6d5b4c3970eccf06558/399_0_4963_3971/master/4963.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=085bbf909f9dae173a999d44c43a0d5e
+categories:
+- UK
+- News & Politics
 ---
 
 On the second day of the Reform UK conference, in the wake of an undercover investigation alleging party officials plotted to evade the law on foreign donations, the deputy leader, Richard Tice, addressed the audience. Within minutes, a banner appeared behind him reading: “Collect £5m, burn the planet.”

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Former York College student, Joshua Kay-Shaw, who suffered life-changing
   injuries in a car crash, has received a settlement to support his…
 image: https://www.yorkpress.co.uk/resources/images/21456464.jpg?type=og-image
+categories:
+- Local
+- York
+- Self-Improvement
 ---
 
 ## 'My last memory was leaving for my exam': Teen's life changed by York crash

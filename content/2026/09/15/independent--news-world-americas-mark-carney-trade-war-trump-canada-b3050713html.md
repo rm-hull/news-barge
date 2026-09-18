@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Canadian prime minister never mentioned US President Donald Trump
   by name
 image: https://static.independent.co.uk/2026/09/15/17/2026-09-15T150847Z_316904817_RC2QJNAHLV8T_RTRMADP_3_CANADA-INVESTMENT-SUMMIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canada aims to emerge from its trade conflict with the United States as a stronger and more self-reliant economy, Canadian Prime Minister Mark Carney announced Tuesday, indicating Ottawa is prepared to hold out for favorable terms rather than rush into a trade pact with Washington.

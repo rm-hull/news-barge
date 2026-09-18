@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T11:52:07Z'
 published: '2026-08-24T00:00:00Z'
 description: This summer, most of my walks have been along shaded riverbanks.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU3ODNhNDk1LTlkNTItNDEzMC05YzQ5LWRiYmQyMzRmMmNlNTplODJhZGE0ZC03MTFjLTQ2ZmQtYTg3NS04ZWEwODM1MmI3MGI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Brimham Rocks: “I climbed the bizarre Yorkshire rock formations estimated to be 320 million years old”

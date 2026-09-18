@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The housemates tackle more real-world questions as they navigate life
   as New York twenty-somethings
 image: https://cdn.mos.cms.futurecdn.net/LYxDZUUVovCfGhKbuSY9Gb-1327-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![adults-season2](https://cdn.mos.cms.futurecdn.net/LYxDZUUVovCfGhKbuSY9Gb.jpg) 

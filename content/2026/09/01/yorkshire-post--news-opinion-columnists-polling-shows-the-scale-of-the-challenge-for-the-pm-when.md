@@ -12,6 +12,12 @@ description: Prime Minister Andy Burnham was widely praised after pledging to ta
   a powerful story of his own to share. Burnham has spoken openly about his father,
   who is living with Alzheimer's.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3YmU1ZDA2LWE2NzQtNGYxYy1iNTIwLWJkZmJjZmQyZTRjYTpmMDkxYWFiNy1kNWQ0LTQ0NjgtOWI2Mi0yNWQ4YTA0NGU2NWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Polling shows the scale of the challenge for the PM when it comes to funding social care

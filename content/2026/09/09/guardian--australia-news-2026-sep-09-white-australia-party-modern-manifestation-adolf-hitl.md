@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The former National Socialist Network is challenging ban in high court,
   arguing law breaches implied freedom of political communication
 image: https://i.guim.co.uk/img/media/ab1d730209aab4c7106fab4ad91a92d1157b0c6f/608_328_4871_3897/master/4871.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de1ea2453de9736607e4add484de0758
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The White Australia party is a “modern manifestation” of Adolf Hitler’s Nazi movement and would motivate hate crimes against sections of the country, the high court has heard.

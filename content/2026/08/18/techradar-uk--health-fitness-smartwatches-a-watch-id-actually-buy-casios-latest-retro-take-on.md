@@ -9,6 +9,8 @@ published: '2026-08-18T00:00:00Z'
 description: Casio has another step-counting watch on the market, and the initial
   reactions to it have been positive.
 image: https://cdn.mos.cms.futurecdn.net/AneepfWZnLTi82K85mzvVF-1600-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Casio F-B100W](https://cdn.mos.cms.futurecdn.net/AneepfWZnLTi82K85mzvVF.jpg) 

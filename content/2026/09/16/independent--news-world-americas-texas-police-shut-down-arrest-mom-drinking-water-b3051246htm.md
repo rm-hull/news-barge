@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Jennifer Combs was arrested for felony false alarm in May and spent a
   day in jail
 image: https://static.independent.co.uk/2026/09/16/15/51/combs-arrest-b4da12c2.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Texas police department that arrested a woman for complaining about contaminated drinking water has been ordered to disband after the state found it “failed to meet minimum standards.”

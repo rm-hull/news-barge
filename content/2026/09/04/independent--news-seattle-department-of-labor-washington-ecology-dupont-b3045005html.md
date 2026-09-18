@@ -10,6 +10,9 @@ description: A pulp mill in Longview, Washington, where 11 workers died after a 
   tank collapsed in May had a history of safety complaints, poor maintenance and discharges
   of toxic chemicals
 image: https://static.independent.co.uk/2026/08/28/13/Washington_State-Chemical_Tank_Failure_331_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A pulp mill in Washington state where 11 workers died after a chemical tank collapsed in May had a history of safety complaints, poor maintenance and discharges of toxic chemicals, records reviewed by The Associated Press show.

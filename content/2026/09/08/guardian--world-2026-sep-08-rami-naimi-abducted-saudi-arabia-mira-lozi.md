@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Mira Lozi says quiet diplomacy has failed to free Rami Naimi who was
   first seized in Dubai in 2017
 image: https://i.guim.co.uk/img/media/3ed1968c373130a754f06d0a7b02368229d468c2/260_156_1005_804/master/1005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6d9f9d1edcc77eacee2fb978922e71c
+categories:
+- UK
+- News & Politics
 ---
 
 A British woman has spoken out for the first time about the alleged abduction, torture and coercion of her husband at the hands of Saudi authorities, after nine years of “failed” quiet diplomacy.

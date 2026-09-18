@@ -8,6 +8,11 @@ scraped_at: '2026-09-04T18:58:45Z'
 published: '2026-09-04T00:00:00Z'
 description: Sales of discrete GPUs remain strong amid record high prices.
 image: https://cdn.mos.cms.futurecdn.net/SH2i5c93RLa8f9GvU6FJXi-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![$200 GPU Face-off: Nvidia vs AMD vs Intel](https://cdn.mos.cms.futurecdn.net/SH2i5c93RLa8f9GvU6FJXi.jpg) 

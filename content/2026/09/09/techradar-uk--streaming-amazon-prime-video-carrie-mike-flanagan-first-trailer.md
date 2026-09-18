@@ -10,6 +10,9 @@ description: The official trailer for Mike Flanagan's adaptation of classic horr
   movie Carrie is finally here — and things feel very Prime Video-y, if you catch
   my drift.
 image: https://cdn.mos.cms.futurecdn.net/yphsYc2hYSBLVPmEXJN5bW-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Carrie looks concerned about something offscreen](https://cdn.mos.cms.futurecdn.net/yphsYc2hYSBLVPmEXJN5bW.jpg) 

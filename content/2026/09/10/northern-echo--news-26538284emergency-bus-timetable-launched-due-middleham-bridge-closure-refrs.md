@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A bus service linking Middleham, Leyburn and Ripon is operating to an
   emergency timetable following the closure of Middleham Bridge.
 image: https://www.thenorthernecho.co.uk/resources/images/21412451.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A bus service linking Middleham, Leyburn and Ripon is operating to an emergency timetable following the closure of Middleham Bridge.

@@ -9,6 +9,9 @@ description: Israel said it had attacked the base because Syria had been close t
   breaching an agreed-upon “status quo in security matters” by allowing Turkish troops
   to deploy there.
 image: https://images.euronews.com/articles/stories/09/87/98/63/1200x675_cmsv2_7023c01d-4ca1-55e3-9b71-42c5466cb9a7-9879863.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Israel said it had attacked the base because Syria had been close to breaching an agreed-upon “status quo in security matters” by allowing Turkish troops to deploy there.

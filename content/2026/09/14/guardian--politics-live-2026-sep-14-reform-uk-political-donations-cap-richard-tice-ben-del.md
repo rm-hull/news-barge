@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: In an interview about the donations, he said they are compliant with
   the law ‘today’
 image: https://i.guim.co.uk/img/media/83f7d98f6b0f2798d9120d06763aa97e7701c6ae/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=996b0c7c73205ff3852b7c14d0d33558
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Law & Justice
 ---
 
 Farage hints £72m donations to Reform UK won't be legal under retrospective measures in elections bill when it becomes law

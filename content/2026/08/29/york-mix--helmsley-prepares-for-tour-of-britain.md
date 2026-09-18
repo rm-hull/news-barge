@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T22:39:03Z'
 published: '2026-08-29T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/12/bridge-street-helmsley-near-brewery-gsv.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Helmsley is preparing to welcome thousands of visitors next weekend.

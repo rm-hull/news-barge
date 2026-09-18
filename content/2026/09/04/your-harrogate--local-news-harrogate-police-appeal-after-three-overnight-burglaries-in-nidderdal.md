@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Police have launched an appeal following three overnight burglaries in
   Nidderdale.
 image: https://mmo.aiircdn.com/409/6a9a68a271a249d99d5.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
+- True Crime
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9a68a271a249d99d5.jpg) 

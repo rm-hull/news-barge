@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The Battle of Britain Memorial Flight aircraft is set to fly over the
   Yorkshire Air Museum as part of its largest memorial event.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU1MTMyNTA5LTA3YTUtNGQ1Ny05OWM3LTYxM2E2M2E0ZTk4Yjo3NDYwN2E3Yi1jN2ZhLTQzNTgtYTZkYS01ODAxZDE2MzNhOWQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Battle of Britain Memorial Flight 2026: RAF aircraft to fly over Yorkshire museum as part of memorial event next month

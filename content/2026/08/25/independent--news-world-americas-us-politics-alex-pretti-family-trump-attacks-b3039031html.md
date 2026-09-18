@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Days after federal agents shot and killed Alex Pretti, the president
   took to Truth Social to speculate he was ‘perhaps’ an ‘insurrectionist’
 image: https://static.independent.co.uk/2026/01/28/13/02/FILE-PHOTO-Undated-handout-image-of-Alex-Pretti-who-was-fatally-shot-by-U-S--immigration-agents-in-M.jpeg?trim=0,23,0,23&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The family of Alex Pretti, the 37-year-old ICU nurse killed by federal agents earlier this year during immigration enforcement in Minneapolis, have pushed back on attacks launched by President Donald Trump and members of his administration.

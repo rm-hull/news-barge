@@ -7,6 +7,12 @@ scraped_at: '2026-09-10T12:54:03Z'
 published: '2026-09-10T00:00:00Z'
 description: The BBC has confirmed it has axed RuPaul's Drag Race UK after 11 series.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21433330.jpg?type=og-image&xType=0&yType=243
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Film & TV
 ---
 
 *(Image: Getty Images)*

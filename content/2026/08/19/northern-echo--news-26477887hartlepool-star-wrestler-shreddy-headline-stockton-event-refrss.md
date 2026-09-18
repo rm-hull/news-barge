@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: AEW and TNA wrestler Adam 'Shreddy' Foster will headline a W3L and Dropkick
   Championship Wrestling event at Queens Campus Sports Centre in…
 image: https://www.thenorthernecho.co.uk/resources/images/21341458.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A North East wrestling star is headlining a family-friendly wrestling event in Teesside later this month.

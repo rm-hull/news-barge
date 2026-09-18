@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: 'Exclusive: Polling experts say the boost Labour received from changing
   prime minister is not enough to win a general election'
 image: https://static.independent.co.uk/2026/08/27/07/2026-08-27T060009Z_1735238501_RC2Z4NA80W5U_RTRMADP_3_BRITAIN-POLITICS-BURNHAM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The “Burnham bounce” has ended, just weeks after the new prime minister entered Downing Street, leading pollsters have said, as they warned there would be no point in Labour calling an early election.

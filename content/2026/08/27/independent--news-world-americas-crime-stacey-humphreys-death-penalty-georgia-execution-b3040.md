@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:18Z'
 published: '2026-08-27T00:00:00Z'
 description: Humphreys was previously scheduled to die last December
 image: https://static.the-independent.com/2025/12/11/20/39/Screenshot-2025-12-11-at-3-23-41-PM.png?trim=21,106,151,99&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Authorities in Georgia intend to execute a man next month following his conviction for the fatal shootings of two Atlanta real estate agents over two decades ago.

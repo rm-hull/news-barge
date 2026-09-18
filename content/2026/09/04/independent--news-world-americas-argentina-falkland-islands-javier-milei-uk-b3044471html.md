@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The Falkland Islands are British territory but Argentina lays claim to
   them
 image: https://static.independent.co.uk/2026/09/03/23/2026-09-03T151203Z_1445866080_RC2QBNAIZ0FG_RTRMADP_3_CHILE-MADRID-FORUM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Argentina’s president has said he will impose sanctions on oil drilling off the Falkland Islands as tensions between the UK and Argentina boil over.

@@ -9,6 +9,12 @@ description: A team of local cyclists is heading to Harrogate’s twin town of L
   in southern France from 11 to 14 September 2026. They will not be alone as they
   will
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Cllr-Viv-Poskitt.webp
+categories:
+- Local
+- Harrogate
+- Sports
+- Travel
+- News & Politics
 ---
 
 A team of local cyclists is heading to Harrogate’s twin town of Luchon in southern France from 11 to 14 September 2026. They will not be alone as they will have VIP support from Harrogate’s cycling mayor Cllr Viv Poskitt.

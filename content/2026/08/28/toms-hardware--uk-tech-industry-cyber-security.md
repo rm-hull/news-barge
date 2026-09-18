@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Discover more about Cyber Security with insights from the experts at
   Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Z3ALa8RFYkJET9YpRR36K7-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A photograph of an older home gateway resting on a hardwood table.](https://cdn.mos.cms.futurecdn.net/Z3ALa8RFYkJET9YpRR36K7-320-80.jpg)

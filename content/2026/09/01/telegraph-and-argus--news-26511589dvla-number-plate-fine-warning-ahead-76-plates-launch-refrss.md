@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The DVLA has warned that not following the rules could result in a failed
   MOT and a £1,000 fine
 image: https://www.thetelegraphandargus.co.uk/resources/images/16489152.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty)*

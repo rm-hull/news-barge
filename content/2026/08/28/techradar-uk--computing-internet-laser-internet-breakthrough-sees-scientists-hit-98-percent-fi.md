@@ -10,6 +10,9 @@ published: '2026-08-28T00:00:00Z'
 description: New research shows how data can be sent using beams of light with almost
   zero distortion.
 image: https://cdn.mos.cms.futurecdn.net/eDYT3mJ9gXqagKzKHb5C2c-805-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A green beam of light is fired from an internet device on a rooftop.](https://cdn.mos.cms.futurecdn.net/eDYT3mJ9gXqagKzKHb5C2c.jpg) 

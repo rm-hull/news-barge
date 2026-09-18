@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Drinks giant Coca-Cola could face supply disruption due to strike action
   by workers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19212484.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Analysis of the DNA of little brown bats could be applied to human research
   on longevity and disease
 image: https://static.independent.co.uk/2026/08/26/20/38/Low-Res_Elise_Bats4.jpeg?trim=0,55,0,54&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 What if bats could help us to fight cancer?

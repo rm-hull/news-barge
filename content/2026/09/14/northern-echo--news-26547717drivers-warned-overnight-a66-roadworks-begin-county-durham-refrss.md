@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Drivers face overnight lane closures and speed restrictions on the A66
   in County Durham this week as essential maintenance work takes place.
 image: https://www.thenorthernecho.co.uk/resources/images/21451439.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: PA MEDIA)*

@@ -9,6 +9,10 @@ description: 'President Donald Trump posts stock trading meme and gripes: ‘I�
   Hundreds of Billions of Dollars on Stocks, and many other type Holdings, for the
   U.S.A., not myself, and all I do is get criticized by the Radical Left Dumocrats’'
 image: https://static.independent.co.uk/2026/09/07/9/26/Trump-Stocks.png?trim=460,0,166,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 President Donald Trump has posted a meme of himself playing the stock market from the Oval Office on Truth Social with the declaration: “I do this for our Country, not myself.”

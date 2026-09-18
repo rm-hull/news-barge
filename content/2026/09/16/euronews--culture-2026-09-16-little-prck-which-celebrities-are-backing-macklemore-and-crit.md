@@ -10,6 +10,10 @@ description: Former Pink Floyd member Roger Waters has sent a message to “litt
   Ed Sheeran amid the Macklemore-Palestine row and Sheeran refusing to "take sides".
   Waters is not the only one speaking out...
 image: https://images.euronews.com/articles/stories/09/91/59/17/1200x675_cmsv2_4676c759-a11e-5d19-b046-dbeaec548b87-9915917.jpg
+categories:
+- Europe
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ## Former Pink Floyd member Roger Waters has sent a message to “little prick” Ed Sheeran amid the Macklemore-Palestine row and Sheeran refusing to "take sides". Waters is not the only one speaking out...

@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: Officials are not ruling out "outside interference", while the company
   says the blaze at its site was sabotage.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d65/live/7c498bd0-aebe-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Fire and smoke rise at an ammunition storage facility near Gorni Varpishta, central Bulgaria. Photo: 12 September 2026.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/4d65/live/7c498bd0-aebe-11f1-a540-61c3f7fc4e6c.jpg)

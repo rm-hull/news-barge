@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The nine jury members, who had 10 questions to answer, returned their
   verdict on Tuesday at the end of an inquest which began in January.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a64/live/fca12c00-64e7-11f1-8e1d-bbbb1017d210.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Noah Donohoe, a boy with dark hair, wearing a black blazer, with a white shirt and green, black and white tie.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a64/live/fca12c00-64e7-11f1-8e1d-bbbb1017d210.jpg)

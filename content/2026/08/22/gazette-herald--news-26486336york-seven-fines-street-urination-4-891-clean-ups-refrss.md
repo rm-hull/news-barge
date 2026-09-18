@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: Just seven fines were handed out for street urination in York in the
   first year of new powers being in force, despite clean ups numbering in the…
 image: https://www.gazetteherald.co.uk/resources/images/19617495.jpg?type=og-image&xType=0&yType=466
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Health & Fitness
 ---
 
 JUST seven fines were handed out for street urination in York in the first year of new powers being in force, despite clean ups numbering in the thousands.

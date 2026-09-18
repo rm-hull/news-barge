@@ -9,6 +9,10 @@ description: Muslim and Christian leaders from across West Africa signed four co
   agreements at a conference in Abuja, adopted the Abuja Declaration and established
   a new coordinating body to counter extremist narratives.
 image: https://images.euronews.com/articles/stories/09/88/40/71/1200x675_cmsv2_ed2f7943-c964-5778-8053-1c35782dbd19-9884071.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Muslim and Christian leaders from across West Africa signed four cooperation agreements at a conference in Abuja, adopted the Abuja Declaration and established a new coordinating body to counter extremist narratives.

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: China's Alibaba reports a 75% drop in profit for the latest quarter from
   the year before to roughly $1.6 billion as it invests heavily in AI infrastructure
 image: https://static.independent.co.uk/2026/08/20/16/Alibaba_Earnings_951_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 China’s technology giant Alibaba on Thursday reported a 75% drop in profit for the latest quarter as it invested big in artificial intelligence infrastructure, even as revenue coming from its AI-related services gained 45%.

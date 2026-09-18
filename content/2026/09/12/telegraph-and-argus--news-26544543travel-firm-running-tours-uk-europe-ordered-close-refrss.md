@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Immaculate Travel promoted more than 20 years of experience in organising
   coach tours to destinations including Rome, Amsterdam, Stonehenge, and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438719.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
+- Business & Entrepreneurship
 ---
 
 *(Image: Yaroslav Astakhov/Getty)*

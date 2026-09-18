@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Chickens – which can test positive for viruses but cannot spread them
   – an ideal early warning system for mosquito-borne disease
 image: https://i.guim.co.uk/img/media/3ef880b4507668882dbfb5851235eca6c9d2848b/499_0_2501_2000/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e50b2b5e18537eacb149da64efc504a
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 The start of West Nile virus transmission began unusually early in some US states, with the most cases in early summer since 2004, the US Centers for Disease Control and Prevention (CDC) warned in July – so Delaware turned to chickens.

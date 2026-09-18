@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: The entire validation system has been revamped to better diagnose problems
   and better detect CPU and GPU frequencies for extreme overlockers.
 image: https://cdn.mos.cms.futurecdn.net/HiZSwDs3FGtqotECqaPn5B-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![CPU-Z V3](https://cdn.mos.cms.futurecdn.net/HiZSwDs3FGtqotECqaPn5B.jpg) 

@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T12:42:40Z'
 published: '2026-09-04T00:00:00Z'
 description: Emergency services scrambled to a major Bradford road last night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17073605.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Archive photo)*

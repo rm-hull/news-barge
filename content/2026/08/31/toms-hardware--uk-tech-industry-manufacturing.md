@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Discover more about Electronics Manufacturing with insights from the
   experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![elastocaloric cooling](https://cdn.mos.cms.futurecdn.net/KqBokvkVTxM9Mkyjj2L4t-320-80.jpg)

@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:44Z'
 published: '2026-09-18T00:00:00Z'
 description: Greggs and Costa both have more than 2,700 outlets across the UK
 image: https://static.independent.co.uk/2026/01/02/11/38/GettyImages-2231296736.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Costa Coffee has been overtaken as the biggest branded coffee operator in the UK, with Greggs taking the crown after another expansion.

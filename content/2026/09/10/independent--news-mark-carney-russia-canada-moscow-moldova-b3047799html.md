@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Ukrainian President Volodymyr Zelenskyy is in Canada for talks with Prime
   Minister Mark Carney
 image: https://static.independent.co.uk/2026/09/10/09/Canada_Ukraine_87968.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukrainian President Volodymyr Zelenskyy was in Canada on Thursday for talks with Prime Minister Mark Carney, his latest international trip aimed at locking in future support for Ukraine’s fight against Russia’s invasion.

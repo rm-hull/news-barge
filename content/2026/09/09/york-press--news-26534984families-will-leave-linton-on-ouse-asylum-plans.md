@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: A "significant number" of families intend to leave Linton-on-Ouse if
   plans to house 1,200 male asylum seekers there go ahead, a group…
 image: https://www.yorkpress.co.uk/resources/images/21405985.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Ryan McDougall/PA Wire)*

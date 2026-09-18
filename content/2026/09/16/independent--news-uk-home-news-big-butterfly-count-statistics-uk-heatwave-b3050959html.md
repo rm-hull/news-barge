@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: While butterfly counts have surged, conservationists warn the UK may
   be on track for a ‘population crash’
 image: https://static.independent.co.uk/2026/09/16/07/2291072933..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Music
 ---
 
 Record heatwaves have delivered the second-best butterfly season in 16 years across the UK, according to the latest Big Butterfly Count results.

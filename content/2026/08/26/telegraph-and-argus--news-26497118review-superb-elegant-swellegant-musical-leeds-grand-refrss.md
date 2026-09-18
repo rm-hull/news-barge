@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: REVITALISED, reimagined or simply new? Whatever your poison, Cole Porter’s
   High Society is a superbly elegant, swellegant musical that will make…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21373785.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 REVITALISED, reimagined or simply new? Whatever your poison, Cole Porter’s High Society is a superbly elegant, swellegant musical that will make you feel ashamed to wear a pair of jeans ever again!

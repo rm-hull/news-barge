@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T19:32:42Z'
 published: '2026-09-16T00:00:00Z'
 description: AI CEOs say slow down, but their models keep speeding up
 image: https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![AI security](https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC.jpg) 

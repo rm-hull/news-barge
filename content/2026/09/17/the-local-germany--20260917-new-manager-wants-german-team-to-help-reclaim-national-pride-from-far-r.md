@@ -9,6 +9,11 @@ description: Jurgen Klopp said on Thursday that Germany's football team can help
   "national pride is not entrusted to the wrong people" after a recent far-right AfD
   election victory.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260917__C8KM4KE__v1__HighRes__FblGerEurNationsKloppPresserSquad.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Sports
 ---
 
 In a Frankfurt press conference announcing his first squad as Germany manager, the former Liverpool coach referenced a recent state election landslide win by the anti-immigration Alternative for Germany party.

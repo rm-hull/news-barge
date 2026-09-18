@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A scarred but majestic live oak at a Revolutionary War battlefield in
   South Carolina is getting a new lease on life
 image: https://static.independent.co.uk/2026/08/24/12/South_Carolina-Revolutionary_War_Tree_42671.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A massive live oak that stood on a South Carolina battlefield during one of the Revolutionary War’s bloodiest clashes is now fighting a battle of its own — against the decades-old measures once designed to save it.

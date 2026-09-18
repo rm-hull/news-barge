@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The Centers for Disease Control and Prevention has several programs funded
   by Congress that lack staff to operate them
 image: https://static.independent.co.uk/2026/08/18/11/CDC-Zombie_Programs_23816.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Centers for Disease Control and Prevention still has an Alzheimer’s disease program. Congress appropriated $41 million to it this year. There’s just no one staffing it.

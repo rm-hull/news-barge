@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Grand jury indicts Jesse Calhoun on a charge of first-degree manslaughter
   in the death of Elizabeth Gibson
 image: https://i.guim.co.uk/img/media/47cf04a072f69f73604e02dd8335a3a553c02c13/341_0_2064_1652/master/2064.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9aa408f4c4e304a0cd4261ad7799dae7
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 An Oregon man accused of killing five women has been indicted in connection with the death of a sixth woman, officials announced this week.

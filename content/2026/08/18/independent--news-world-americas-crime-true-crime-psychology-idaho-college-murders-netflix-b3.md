@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'A couple of weeks ago, Netflix released The Idaho Murders: College Nightmare,
   a documentary revisiting the 2022 killings of four University of Idaho students'
 image: https://static.the-independent.com/2025/07/23/15/08/Kohberger-split.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A couple of weeks ago, Netflix released The Idaho Murders: College Nightmare, a documentary revisiting the 2022 killings of four University of Idaho students — Ethan Chapin (20 years old), Kaylee Goncalves (21), Xana Kernodle (20) and Madison Mogen (21).

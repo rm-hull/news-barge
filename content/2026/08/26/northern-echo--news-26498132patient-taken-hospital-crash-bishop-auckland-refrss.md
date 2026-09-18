@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T16:56:39Z'
 published: '2026-08-26T00:00:00Z'
 description: One person was taken to hospital after a one-car crash in Bishop Auckland.
 image: https://www.thenorthernecho.co.uk/resources/images/21375467.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE MAPS)*

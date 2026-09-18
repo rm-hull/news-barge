@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A driver is facing having his licence revoked less than two years after
   passing his test after police seized an Audi in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332559.jpg?type=og-image&xType=0&yType=630
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: West Yorkshire Police)*

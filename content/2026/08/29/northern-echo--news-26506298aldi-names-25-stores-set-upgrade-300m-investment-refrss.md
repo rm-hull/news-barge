@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Aldi invests £300m to upgrade 25 UK stores, including London, Liverpool
   and Aberdeen, with improved bakery, fresh food, and sustainability features.
 image: https://www.thenorthernecho.co.uk/resources/images/21387685.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

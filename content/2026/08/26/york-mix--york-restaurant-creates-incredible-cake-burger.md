@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T16:57:09Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/school-cake-burger-clucking-oinks.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 A York fried chicken restaurant is taking the saying ‘have your cake and eat it’ to a whole new level…

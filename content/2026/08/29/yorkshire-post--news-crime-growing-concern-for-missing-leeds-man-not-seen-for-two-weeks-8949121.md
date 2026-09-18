@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Police say concerns are mounting for a 66-year-old Leeds man who has
   not been seen for two weeks, with his disappearance described as out of character.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/29/10/19/MixCollage-29-Aug-2026-11-48-AM-5207.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Growing concern for missing Leeds man not seen for two weeks

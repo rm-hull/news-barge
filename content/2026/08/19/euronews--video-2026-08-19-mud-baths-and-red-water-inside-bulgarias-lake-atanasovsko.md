@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Video. Tourists slather mud and float in red brine at Lake Atanasovsko,
   while Pomorie’s salt museum preserves Bulgaria’s fading salt-making heritage.
 image: https://images.euronews.com/articles/stories/09/87/99/54/1200x675_cmsv2_d006e6d0-33c2-5291-a5f6-c72c5e3e26be-9879954.jpg
+categories:
+- Europe
+- News & Politics
+- Food & Cooking
 ---
 
 On Bulgaria’s Black Sea coast, visitors cover themselves in mud and float in bright red, salty water at Lake Atanasovsko.

@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: The Single Justice Procedure was invented in 2015 as a cheaper method
   of dealing with low-level criminal cases
 image: https://static.independent.co.uk/2026/09/02/06/d8ee1c57a76854d4e6506a3f03b98a15Y29udGVudHNlYXJjaGFwaSwxNzg4Mzc2NzY3-2.85459826.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Sadiq Khan says he has fallen victim to a scam after he was convicted and fined for not taxing a 24-year-old Nissan Micra.

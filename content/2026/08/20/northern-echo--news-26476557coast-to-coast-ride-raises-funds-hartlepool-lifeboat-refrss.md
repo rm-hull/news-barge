@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A group of fundraising cyclists have raised £3,000 for Hartlepool RNLI
   lifeboat station after completing a challenging coast-to-coast ride.
 image: https://www.thenorthernecho.co.uk/resources/images/21339279.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: RNLI)*

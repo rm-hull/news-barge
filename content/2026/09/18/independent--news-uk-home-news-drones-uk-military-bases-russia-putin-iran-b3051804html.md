@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: 'Exclusive: Stark figures intensify calls for the UK to prioritise national
   security as government accused of being ‘asleep’ to threats'
 image: https://static.independent.co.uk/2026/09/05/08/2292967420..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rogue drones are targeting Britain's military bases almost daily, leaving Britain vulnerable to growing threats from Russia and Iran, *The Independent* can reveal.

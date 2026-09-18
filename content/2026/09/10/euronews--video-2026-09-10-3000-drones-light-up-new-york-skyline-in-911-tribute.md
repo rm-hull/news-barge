@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Video. Almost 3,000 drones light up the New York City skyline during
   a test for a 9/11 tribute marking the attacks' 25th anniversary in 2026.
 image: https://images.euronews.com/articles/stories/09/90/87/92/1200x675_cmsv2_061878b3-c0fc-5b0a-aa76-e5a53bf2f0d1-9908792.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Almost 3,000 drones light up the New York City skyline during a test for the 'Tribute in Light' installation, ahead of the 25th anniversary of the September 11 attacks. The drones fill the night sky with changing formations above the city.

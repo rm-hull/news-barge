@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A new UK trial hopes to reduce the condensation trails from planes, which
   can trap heat in the Earth's atmosphere.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 ![A jet plane flies across the blue sky, with white contrails coming from its engines](https://ichef.bbci.co.uk/ace/standard/1680/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg)

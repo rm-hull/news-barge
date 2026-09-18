@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Olav Kooij powered to victory in a dramatic sprint finish on stage three
   of The Lloyds Tour of Britain Men across the Yorkshire Wolds.
 image: https://www.gazetteherald.co.uk/resources/images/21420921.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 Dutch sprinter Olav Kooij powered to victory in a dramatic sprint finish on stage three of The Lloyds Tour of Britain Men across the Yorkshire Wolds.

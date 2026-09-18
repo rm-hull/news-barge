@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Reuben Owen has built a successful career since Our Yorkshire Farm, from
   running his own machinery business to starring in his own Channel 5 series.
 image: https://www.yorkpress.co.uk/resources/images/21391457.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Reuben Owen's life after Our Yorkshire Farm as he builds career away from Ravenseat

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Motoring enthusiasts will gather at Newby Hall near Ripon as the popular
   Sports Cars in the Park event returns with hundreds of prestigious…
 image: https://www.thenorthernecho.co.uk/resources/images/21340156.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: Supplied)*

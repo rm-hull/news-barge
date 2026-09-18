@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Potential presidential hopeful running for re-election in Georgia intensifies
   White House feud after remarks about ‘Natalie’ drew ire of president and allies
 image: https://i.guim.co.uk/img/media/f6a6bda3d2c5b0c809ea78d0484a5b5d737e3f8a/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c44fdfc7556dc69e43b96baa91f58d7b
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The Democratic senator Jon Ossoff called Donald Trump a “draft-dodging, crook president” while defending the senator Mark Kelly as a hero during a Tuesday campaign appearance in Georgia, escalating his public feud with the US president.

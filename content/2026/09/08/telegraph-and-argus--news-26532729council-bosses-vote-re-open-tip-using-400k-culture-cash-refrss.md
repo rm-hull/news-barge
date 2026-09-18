@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Bradford Council’s Executive has voted to re-open a tip, and will use
   £400,000 earmarked for cultural activities to do so.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21254183.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 *(Image: Bradford Council)*

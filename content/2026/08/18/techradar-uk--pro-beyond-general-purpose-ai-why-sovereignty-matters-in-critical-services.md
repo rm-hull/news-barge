@@ -7,6 +7,9 @@ scraped_at: '2026-08-18T08:50:48Z'
 published: '2026-08-18T00:00:00Z'
 description: Sovereignty is the next phase of AI adoption
 image: https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A data center in a blue light](https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM.jpg) 

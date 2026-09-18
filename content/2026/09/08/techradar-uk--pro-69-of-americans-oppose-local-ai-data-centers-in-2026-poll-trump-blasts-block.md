@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Trump wants more AI data centers across America, while voters and even
   Republicans increasingly want them kept away
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

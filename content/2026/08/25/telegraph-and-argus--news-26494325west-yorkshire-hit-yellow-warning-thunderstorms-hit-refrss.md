@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:51:49Z'
 published: '2026-08-25T00:00:00Z'
 description: THE Met Office has issued a yellow thunderstorm warning for West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19947207.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Archive)*

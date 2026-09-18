@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: England and Newcastle United legend Alan Shearer has an emotional plea
   for help.
 image: https://www.yorkpress.co.uk/resources/images/12074955.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 England legend Alan Shearer is in an emotional plea for help as part of a new campaign by Prince William.

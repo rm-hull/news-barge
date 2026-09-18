@@ -9,6 +9,11 @@ description: European governments allocate the largest share of their spending t
   social protection, while the second-largest category varies across countries. Euronews
   Business takes a closer look at how governments spend public money on services.
 image: https://images.euronews.com/articles/stories/09/91/07/68/1200x675_cmsv2_e85a5391-310c-591c-8f1b-753d3bc4a2c8-9910768.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## European governments allocate the largest share of their spending to social protection, while the second-largest category varies across countries. Euronews Business takes a closer look at how governments spend public money on services.

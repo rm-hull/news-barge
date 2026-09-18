@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The RNLI say they remain hopeful the quad bike from the Whitby station
   will be returned.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd36/live/7bf8b890-a5fe-11f1-83fc-0df57e6b3866.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![A red quad bike with RNLI Lifeguards branding across the front, back and middle. A small yellow float strapped to the front of the vehicle.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fd36/live/7bf8b890-a5fe-11f1-83fc-0df57e6b3866.jpg)

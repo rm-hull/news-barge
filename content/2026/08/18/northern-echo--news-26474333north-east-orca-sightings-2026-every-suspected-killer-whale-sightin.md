@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: From Saltburn and Marske to Beadnell, Seahouses and the Farne Islands,
   we look at the suspected orca sightings reported along the North East coast…
 image: https://www.thenorthernecho.co.uk/resources/images/21335409.jpg?type=og-image&xType=0&yType=455
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Sports
 ---
 
 A string of suspected killer whale sightings has been reported along the North East coastline this year.

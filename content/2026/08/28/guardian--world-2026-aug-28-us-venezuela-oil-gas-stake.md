@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Critics call move to gain long-term access to country’s massive energy
   reserves ‘predatory’ and ‘unconstitutional’
 image: https://i.guim.co.uk/img/media/64676fb920a4239d768d5b0d0e29d3e8c2e363b2/378_0_3743_2994/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=184b7efee478f05b7f9876a408ef6e42
+categories:
+- UK
+- News & Politics
 ---
 
 Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with critics describing the move as “predatory” and a “rapacious” land grab.

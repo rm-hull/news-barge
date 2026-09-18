@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: William Frances Silvia is the 13th prisoner put to death this year in
   Florida
 image: https://static.the-independent.com/2026/08/18/5/50/Screenshot-2026-08-18-at-06-28-24.png?trim=13,0,14,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 The state of Florida executed a man on Tuesday who had been convicted of fatally shooting his estranged wife and wounding his mother-in-law, extending a period of frequent executions during Republican Gov. Ron DeSantis ′ final term.

@@ -9,6 +9,9 @@ description: Vice President JD Vance took center stage at the Republican convent
   in Dallas on Thursday in a speech seen as an early test of his 2028 White House
   prospects
 image: https://static.independent.co.uk/2026/09/11/07/2294612365..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Vice President JD Vance previewed a potential 2028 presidential campaign at a Republican gathering in Dallas on Thursday, delivering a message of nationalist pride to an enthusiastic pro-Trump crowd.

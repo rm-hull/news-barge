@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T13:48:03Z'
 published: '2026-08-30T00:00:00Z'
 description: A charity is inviting the public to help shape its future community work.
 image: https://www.gazetteherald.co.uk/resources/images/21383506.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Freelancer)*

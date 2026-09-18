@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The Sycamore Gap walk is perfect for those who want to enjoy nature and
   those who love history.
 image: https://www.thenorthernecho.co.uk/resources/images/21431811.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- Outdoors & Nature
 ---
 
 *(Image: Getty)*

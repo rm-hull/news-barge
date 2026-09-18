@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Malcolm Potier is beginning his third spell in jail after attacking the
   woman at a Queen musical.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8bf/live/e6039d60-ad0e-11f1-a035-c91dffce51bf.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Malcolm Potier wearing a black jacket, dark red scarf and black hat. He appears to be at a bonfire night event in the evening. People are behind him holding items that are alight.](https://ichef.bbci.co.uk/ace/standard/692/cpsprodpb/c8bf/live/e6039d60-ad0e-11f1-a035-c91dffce51bf.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The A170 Sutton Bank in North Yorkshire is partially closed this morning
   (Tuesday).
 image: https://www.gazetteherald.co.uk/resources/images/21394236.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: North Yorkshire Council Cameras)*

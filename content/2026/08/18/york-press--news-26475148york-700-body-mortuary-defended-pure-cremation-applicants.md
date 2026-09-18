@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T19:36:12Z'
 published: '2026-08-18T00:00:00Z'
 description: Plans for a mortuary storing up to 700 bodies in York have been defended.
 image: https://www.yorkpress.co.uk/resources/images/21182796.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 ## Mortuary storing up to 700 bodies in York defended

@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: The demolition of the Golden Eagle former hotel in Thornaby has finally
   begun today after about 470 tonnes of asbestos were removed from the eyesore…
 image: https://www.thenorthernecho.co.uk/resources/images/21349563.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 The demolition of the Golden Eagle former hotel in Thornaby has finally begun after about 470 tonnes of asbestos were removed from the eyesore building.

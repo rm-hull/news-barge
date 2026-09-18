@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A next of kin appeal has been launched for a 67-year-old Pickering man
   who died at home.
 image: https://www.yorkpress.co.uk/resources/images/21145280.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Jacob King/PA)*

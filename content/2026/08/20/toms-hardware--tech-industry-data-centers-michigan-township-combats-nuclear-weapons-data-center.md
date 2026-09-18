@@ -9,6 +9,10 @@ scraped_at: '2026-08-20T16:47:50Z'
 published: '2026-08-20T00:00:00Z'
 description: Data centers can't operate if they can't plug in or don't have water.
 image: https://cdn.mos.cms.futurecdn.net/UuRe6BQHsqnNgiX8FTWDgU-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Michigan data center](https://cdn.mos.cms.futurecdn.net/UuRe6BQHsqnNgiX8FTWDgU.jpg) 

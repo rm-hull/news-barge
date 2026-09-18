@@ -9,6 +9,10 @@ description: Video. Mongolia is hosting the UN Convention to Combat Desertificat
   COP17 in Ulaanbaatar from 17 to 28 August, bringing together representatives from
   196 countries and the European Union to tackle land degradation, drought and desertification.
 image: https://images.euronews.com/articles/stories/09/88/35/20/1200x675_cmsv2_44d11fa5-c6a5-5cc6-85cb-13d36b18df73-9883520.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 Held under the theme **“Restoring Land, Restoring Hope”**, UNCCD COP17 in Ulaanbaatar is focused on restoring degraded ecosystems, strengthening resilience to drought and securing funding for countries most affected by desertification.

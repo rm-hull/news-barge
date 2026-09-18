@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Rightwing populist’s inconsistent positions on Europe and Russia suggest
   he is testing how far he can push partners and electorate
 image: https://i.guim.co.uk/img/media/137a23dcb4eb8bcceb270400f084a5df056babb7/449_0_4706_3765/master/4706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c40309ea3f8497d1a5b062676903c97
+categories:
+- UK
+- News & Politics
 ---
 
 One evening nine years ago in the Bulgarian town of Balgari, a Brazilian tourist approached the casually dressed, middle-aged man surrounded by bodyguards, bystanders and photographers. “Why are you important?” she asked. “I’m not so important,” he replied. She repeated the question and he admitted: “I’m the president.”

@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Prime Minister Andy Burnham is ordering a crackdown on illegal waste
   dumping linked to organised crime - and Bradford's Midland Road…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21343877.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 PRIME MINISTER Andy Burnham is ordering a crackdown on waste dumping linked to organised crime - with his Government now assessing a huge illegal dumping site in Bradford's Midland Road

@@ -9,6 +9,10 @@ description: 'For Macron, the visit comes in the final months of his presidency 
   he continues to push for greater European sovereignty, with Britain playing a key
   role despite Brexit. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/89/54/1200x675_cmsv2_93854016-421e-5d89-9af6-07df6b4e0f3a-9898954.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## For Macron, the visit comes in the final months of his presidency as he continues to push for greater European sovereignty, with Britain playing a key role despite Brexit.

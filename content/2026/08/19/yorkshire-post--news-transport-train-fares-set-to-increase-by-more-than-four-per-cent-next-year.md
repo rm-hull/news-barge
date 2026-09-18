@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Regulated train fares in England could increase by more than four per
   cent next year.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc1ZTI3NzNjLTAwMDktNGYyMS1iZjQ1LWE1YzMxNGI4ZWE4Yzo3ZTVhYjYzMC0zNWY5LTQ4ODItOTRmMS0wYmQyNjkzMmIyZDk=.jpg?crop=3:2,smart&trim=&width=1170&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Train fares set to increase by more than four per cent next year

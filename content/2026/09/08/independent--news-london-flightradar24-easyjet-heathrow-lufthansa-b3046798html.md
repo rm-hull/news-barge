@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A technical issue in the U.K. air traffic control system has led to the
   cancellation of more than 400 flights, according to Flightradar24
 image: https://static.independent.co.uk/2026/09/08/18/Britain_Air_Traffic_Control_9_824.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 More than 400 flights were canceled on Tuesday due to a technical issue in Britain's air traffic control system, the flight monitoring website Flightradar24 reported.

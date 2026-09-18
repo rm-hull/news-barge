@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Ukrainian president Volodymyr Zelensky vows punishment for those responsible
   for attack in village of Myla
 image: https://static.independent.co.uk/2026/08/29/11/2026-08-29T092523Z_455488989_RC288NAP5U0G_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV.JPG?trim=25,0,25,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least 37 people have been killed following a Russian strike close to the Ukrainian capital of Kyiv in one of the deadliest attacks to hit Ukraine this year, officials have said.

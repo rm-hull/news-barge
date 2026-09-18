@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: In the Iranian port city of Bandar Abbas, economic life has slowed dramatically
   due to a U.S. blockade
 image: https://static.independent.co.uk/2026/09/08/05/APTOPIX_Iran_War_Strait_of_Hormuz_56787.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 In the Iranian port city of Bandar Abbas on the Strait of Hormuz, a waterfront once busy with boats, trucks and workers has fallen quiet. It's a front line of the economic pain that the United States now hopes to intensify after six months of war.

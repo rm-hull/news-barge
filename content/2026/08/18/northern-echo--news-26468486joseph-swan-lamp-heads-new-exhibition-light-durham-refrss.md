@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: Today's Object of the Week is a deceptively simple artefact that holds
   within it the spark of a revolution – a small, unassuming object that…
 image: https://www.thenorthernecho.co.uk/resources/images/21326037.jpg?type=og-image&xType=0&yType=548
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 *(Image: Discovery Museum, North East Museums)*

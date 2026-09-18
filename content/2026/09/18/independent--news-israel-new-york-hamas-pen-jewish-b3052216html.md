@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: Prize-winning author Phil Klay has been named the new president of PEN
   America
 image: https://static.independent.co.uk/2026/09/18/02/PEN_America_3_977.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Prize-winning author Phil Klay has been named the new president of PEN America, taking on the role as the literary and free expression organization continues to be torn by disagreements stemming from the Israel-Hamas war.

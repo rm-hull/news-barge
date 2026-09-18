@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Charitable Knaresborough residents have been thanked by a Ukrainian city
   following another delivery of humanitarian aid.
 image: https://mmo.aiircdn.com/409/6aa79966b416249dec9.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa79966b416249dec9.jpg) 

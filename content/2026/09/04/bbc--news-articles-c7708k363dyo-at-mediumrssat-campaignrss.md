@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: Dozens have contacted BBC Your Voice as complaints to ombudsman have
   tripled in a year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2842/live/1a4ea5b0-a7bf-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Elissa and Johnnie stand in front of a modern brick house with red‑tiled roofing and solar panels. Elissa wears a light blue shirt, the Johnnie a black shirt with safety glasses tucked into the pocket. The house has white‑framed windows, a light‑coloured door, and a clear blue sky overhead.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4de9/live/0a604730-a7bf-11f1-b109-879e35c24276.png)

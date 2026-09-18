@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: A brand new Joules store is opening its doors in Northallerton, inside
   a former Santander bank site - and shoppers have shared their excitement.
 image: https://www.thenorthernecho.co.uk/resources/images/21421629.jpg?type=og-image&xType=0&yType=80
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Love Northallerton)*

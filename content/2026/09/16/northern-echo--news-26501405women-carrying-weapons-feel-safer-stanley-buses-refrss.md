@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Women and girls are carrying everyday items as improvised weapons to
   feel safer on public transport.
 image: https://www.thenorthernecho.co.uk/resources/images/21381164.jpg?type=og-image&xType=0&yType=283
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A County Durham women's centre says women and girls are carrying everyday items as improvised weapons to feel safer on public transport.

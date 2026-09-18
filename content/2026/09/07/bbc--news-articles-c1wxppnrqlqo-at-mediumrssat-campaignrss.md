@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Since Parton's death in late August, dozens of AI-generated songs, images
   and videos have appeared online.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Music
 ---
 
 ![Dolly Parton, wearing a bright and colourful dress, stands next to her sister Stella at a red carpet event in 2015 - who is wearing a black leather jacket and large jewellery. They are both smiling, with Dolly's arm around her sister's shoulders, as they are photographed.](https://ichef.bbci.co.uk/ace/standard/845/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg)

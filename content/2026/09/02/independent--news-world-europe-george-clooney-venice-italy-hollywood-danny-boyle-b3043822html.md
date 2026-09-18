@@ -9,6 +9,12 @@ description: The 83rd Venice Film Festival kicked off with Hollywood stars arriv
   on the red carpet and Danny Boyle’s “Ink” opening 11 days of screenings, premieres
   and awards.
 image: https://static.independent.co.uk/2026/09/03/00/Italy_Venice_Film_Festival_Opening_Ceremony_79223.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 George Clooney honored as Venice Film Festival opens, in photos

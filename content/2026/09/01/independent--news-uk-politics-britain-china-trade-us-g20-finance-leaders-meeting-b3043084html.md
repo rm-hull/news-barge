@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Chief Secretary to the UK Treasury Emma Reynolds said Britain will maintain
   ‘pragmatic relationship’ with China on trade
 image: https://static.independent.co.uk/2026/09/01/22/2026-09-01T170402Z_1805280825_RC2HANAB8OH9_RTRMADP_3_G20-FINANCE.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Britain will pursue a "pragmatic relationship" with China over trade while addressing the "sensitive" issue of global imbalances, Chief Secretary to the UK Treasury Emma Reynolds said on Tuesday.

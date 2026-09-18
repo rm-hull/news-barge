@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T11:16:13Z'
 published: '2026-08-28T00:00:00Z'
 description: No one has claimed responsibility yet
 image: https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Airport](https://cdn.mos.cms.futurecdn.net/RYNpvpkwHbue2Dnhv3oLpL.jpg) 

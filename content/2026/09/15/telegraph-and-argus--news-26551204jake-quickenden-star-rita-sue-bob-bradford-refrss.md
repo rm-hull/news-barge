@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Rita, Sue and Bob Too is heading for Bradford, starring TV favourite
   Jake Quickenden.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21456691.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
+- Film & TV
 ---
 
 *(Image: David Munn)*

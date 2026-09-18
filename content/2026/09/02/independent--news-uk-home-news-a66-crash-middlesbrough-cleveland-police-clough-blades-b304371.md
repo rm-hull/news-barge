@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T19:22:51Z'
 published: '2026-09-02T00:00:00Z'
 description: Two police officers died in a car crash on the A66 last month
 image: https://static.independent.co.uk/2026/09/02/19/b816b317599c6bbaf065226d46e2c5e7Y29udGVudHNlYXJjaGFwaSwxNzg4NDU3Njkx-2.85666409.jpg?trim=0,20,0,20&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The chief constable of Police Scotland has paid tribute to two Cleveland Police officers killed in an A66 collision last month, noting that their loss has "resonated across the UK policing family".

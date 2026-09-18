@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Police are urging anyone who was near Maidenhead Rowing Club during the
   incident to come forward
 image: https://static.independent.co.uk/2026/08/31/19/46/01KM54ZPX78722TG23YPKP068S.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man has been arrested after allegedly verbally abusing rowers on the River Thames before his boat hit a rowing boat and its occupant, police say.

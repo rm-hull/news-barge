@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Confidence index drops to 89.4 in August from 90.2 in July amid frustration
   after five years of elevated inflation
 image: https://i.guim.co.uk/img/media/378b688227d6861bd37c0b3609bfd86d2e1212bb/566_0_3831_3065/master/3831.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ab886e9553dee46bfabb468370daa06
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Americans’ confidence in the economy declined again this month as the ongoing conflict in Iran continued to push US gasoline prices above $4 per gallon.

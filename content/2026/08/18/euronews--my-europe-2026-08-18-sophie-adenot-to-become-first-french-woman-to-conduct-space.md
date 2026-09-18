@@ -9,6 +9,10 @@ description: 'The spacewalk is scheduled to start at around 1400 CET and last si
   and a half hours, with the goal of replacing a space-to-ground antenna on the orbital
   complex, according to NASA. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/84/66/1200x675_cmsv2_6d7408ca-64ae-5b6c-b6be-903d91b1abf4-9878466.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## The spacewalk is scheduled to start at around 1400 CET and last six and a half hours, with the goal of replacing a space-to-ground antenna on the orbital complex, according to NASA.

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Kaegan Jude Solet, 47, was taken into custody Sunday afternoon following
   a stabbing spree on Saturday
 image: https://static.the-independent.com/2026/09/13/17/53/Authorities-arrested-Kaegan-Jude-Solet-in-connection-with-a-stabbing-spree-that-took-place-in-Louisi.jpeg?trim=348,0,372,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Authorities in Louisiana have arrested a person of interest in a stabbing spree that left four people dead and a child hospitalized in critical condition.

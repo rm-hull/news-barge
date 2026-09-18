@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Nile Rodgers and CHIC brought a record-breaking summer of live music
   in North Yorkshire to a close on Saturday night.
 image: https://www.thenorthernecho.co.uk/resources/images/21359420.jpg?type=og-image&xType=0&yType=181
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 Nile Rodgers and Chic brought a record-breaking summer of live music in North Yorkshire to a close on Saturday night (August 22).

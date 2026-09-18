@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Reuben Owen is set to star in the new series of Channel 5's Our Great
   Yorkshire Life and will be involved in some new challenges.
 image: https://www.thenorthernecho.co.uk/resources/images/19836640.jpg?type=og-image&xType=0&yType=273
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Channel 4/PA Wire)*

@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Wensleydale Railway will run a special service to take spectators to
   Leyburn for the finish of Stage 4 of the Lloyds Tour of Britain Men’s Cycle…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21355250.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 A heritage railway is offering a special park and ride service for cycling fans.

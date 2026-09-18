@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Cows caused delays on the A1(M) after wandering onto the motorway near
   Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21340720.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

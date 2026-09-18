@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: An appeal against the decision to block plans to convert an empty live
   music venue in York has gone to a hearing.
 image: https://www.gazetteherald.co.uk/resources/images/21368036.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
 ---
 
 ### What is the Public Notice Portal?

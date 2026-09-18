@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Jive Bunny founder John Pickles has died aged 84, Mastermix confirms.
   The Rotherham music pioneer created three UK number-one hits and a landmark…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414381.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Freelance)*

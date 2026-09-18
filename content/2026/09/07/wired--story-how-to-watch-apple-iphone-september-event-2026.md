@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Apple’s annual hardware launch event may feel different as the company
   welcomes a new CEO alongside a folding iPhone.
 image: https://media.wired.com/photos/6a9717f987dd64df3684e7f4/191:100/w_1280,c_limit/How-To-Watch-Apple-Event-Gear-2264522638.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Another Apple event is almost here, though this one will likely feel a little different than the September events of lore. It’s the first Apple event since CEO Tim Cook’s departure, and might be the first time the public gets a taste of how the company’s new CEO, John Ternus, can slip into those shoes.

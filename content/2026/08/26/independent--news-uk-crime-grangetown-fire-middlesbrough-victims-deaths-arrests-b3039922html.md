@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Two men, aged 23 and 31, remain in police custody, according to Cleveland
   Police
 image: https://static.independent.co.uk/2026/08/26/15/2292153342..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Society & Culture
 ---
 
 A young girl and her aunt died in a house fire near Middlesbrough, less than a mile from the site of a crash on the A66 which killed seven people, according to a new report.

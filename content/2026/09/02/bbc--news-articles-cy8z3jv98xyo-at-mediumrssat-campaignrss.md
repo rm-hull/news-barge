@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Dr Mark Deakin, a consultant at Alder Hey hospital, was described as
   Letby's "boyfriend" during her trial.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c1b3/live/f57c3780-a6eb-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Dr Mark Deakin, who is bald, has glasses, and is wearing a red and white check shirt.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/c1b3/live/f57c3780-a6eb-11f1-9e4c-79c1c0e340c6.jpg)

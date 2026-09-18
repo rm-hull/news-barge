@@ -9,6 +9,11 @@ description: A Hong Kong court is set to deliver its verdict for two former orga
   of the city’s decades-old vigil in remembrance of the 1989 Tiananmen Square crackdown
   on Friday
 image: https://static.independent.co.uk/2026/08/21/00/Hong_Kong_Tiananmen_Trial_19852.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 A Hong Kong court is set to deliver a verdict Friday in a closely watched national security trial of two prominent activists linked to the city’s decades-long commemorations of the 1989 Tiananmen Square crackdown.

@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Patrick Clancy’s attorney said the conspiracy theories have resulted
   in threats to his client’s ‘reputation, livelihood, and life’
 image: https://static.the-independent.com/2026/07/28/15/33/AP26208687877724.jpg?trim=178,0,671,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The attorney for Patrick Clancy, Lindsay Clancy's ex-husband, is threatening "consequences" for conspiracy theorists who spread rumors about him.

@@ -9,6 +9,10 @@ description: A new survey reveals the travel mistakes causing the most stress, f
   packing too much to tight connections, while frequent travellers share the hacks
   they swear by.
 image: https://images.euronews.com/articles/stories/09/88/07/59/1200x675_cmsv2_891c281f-c2e2-5adf-b4ee-a08226eb3e78-9880759.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## A new survey reveals the travel mistakes causing the most stress, from packing too much to tight connections, while frequent travellers share the hacks they swear by.

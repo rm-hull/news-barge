@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: She made false reports causing men to be held in custody at police stations,
   lose jobs and partners, and be separated from their children
 image: https://static.independent.co.uk/2026/09/09/13/47/Stacey-Sharples.png?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A serial liar who falsely accused 10 men of raping her has had her prison sentence increased by two-and-a-half years after the Court of Appeal ruled her original term was “unduly lenient”.

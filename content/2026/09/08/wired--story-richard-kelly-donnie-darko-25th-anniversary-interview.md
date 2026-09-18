@@ -9,6 +9,12 @@ description: The director discusses his debut novel, staying true to an artistic
   and the absurd line of dialogue from Donnie Darko he believes will find its way
   into his obituary.
 image: https://media.wired.com/photos/6a9721e89f60dd202db9f3fc/191:100/w_1280,c_limit/Donnie-Darko-25th-Anniversary-Culture-MCDDODA_EC041.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
+- Film & TV
+- Comedy & Entertainment
 ---
 
 For a diehard fan of *Donnie Darko*, meeting director and screenwriter Richard Kelly is a thrill in itself. But to first encounter him as a silhouette in a darkened movie theater is to feel almost like a character in one of his films—unmoored by indefinite space and physics, questioning your altered perception.

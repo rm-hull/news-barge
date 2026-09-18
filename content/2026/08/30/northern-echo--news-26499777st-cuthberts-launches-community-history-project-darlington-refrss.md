@@ -9,6 +9,13 @@ published: '2026-08-30T00:00:00Z'
 description: St Cuthbert’s Church in Darlington is inviting residents to share their
   personal memories through The Voices of St Cuthbert’s oral history…
 image: https://www.thenorthernecho.co.uk/resources/images/21378256.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- History
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

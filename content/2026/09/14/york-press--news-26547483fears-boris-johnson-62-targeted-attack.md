@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A drone strike in Ukraine may have targeted a train carrying former UK
   Prime Minister Boris Johnson.
 image: https://www.yorkpress.co.uk/resources/images/21432789.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 *(Image: PA Media)*

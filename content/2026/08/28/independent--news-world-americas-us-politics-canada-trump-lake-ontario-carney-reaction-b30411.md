@@ -10,6 +10,10 @@ description: Canadian head of government explains 400-year-old origins of ‘Lak
   name after Trump purports to rename the body of water in a fit of pique over trade
   war he started
 image: https://static.independent.co.uk/2026/08/24/15/2291058527..?trim=267,0,267,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Canadian Prime Minister Mark Carney on Thursday hit back after President Donald Trump signed an order directing the federal government to start calling New York’s Lake Ontario “Lake America” in a swipe at the U.S.’s northern neighbor and ally.

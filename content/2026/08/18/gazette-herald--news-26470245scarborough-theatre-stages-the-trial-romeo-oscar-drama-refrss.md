@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Rehearsals are underway for a new play, The Trial of Romeo Oscar, set
   to intrigue and provoke audiences at the Stephen Joseph Theatre
 image: https://www.gazetteherald.co.uk/resources/images/21329128.jpg?type=og-image&xType=0&yType=114
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 Rehearsals are underway for a new play set to intrigue and provoke audiences in Scarborough.

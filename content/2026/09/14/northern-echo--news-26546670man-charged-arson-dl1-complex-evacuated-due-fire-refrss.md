@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A 42-year-old man has been charged with arson after a fire at Darlington’s
   DL1 complex forced the evacuation of Vue cinema, Premier Inn and…
 image: https://www.thenorthernecho.co.uk/resources/images/21444023.jpg?type=og-image&xType=0&yType=247
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A man has been charged with arson after Darlington’s DL1 complex was evacuated due to a fire.

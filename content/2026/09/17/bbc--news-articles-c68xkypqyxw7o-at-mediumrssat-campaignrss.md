@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Queensland's Fitzroy River has been selected for the 2032 Games, despite
   concerns over the course - and its inhabitants.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A rowing boat with rowers wearing white and blue row down a wide river with mist rising from the water.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3892/live/bc8899c0-b251-11f1-aeda-b3619ea893bd.jpg)

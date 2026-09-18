@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: Peter Wright has been around animals and the countryside his whole life
   before starring in the Yorkshire Vet.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21473430.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: YouTube/Channel 5)*

@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Unsung heroes were celebrated at a very special awards ceremony for York
   Community Pride.
 image: https://www.gazetteherald.co.uk/resources/images/21446746.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 UNSUNG heroes were celebrated at a very special awards ceremony for York Community Pride.

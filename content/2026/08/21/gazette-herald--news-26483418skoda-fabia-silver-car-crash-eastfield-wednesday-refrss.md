@@ -7,6 +7,11 @@ scraped_at: '2026-08-21T08:54:42Z'
 published: '2026-08-21T00:00:00Z'
 description: Police are hunting for a silver car that fled the scene after a crash.
 image: https://www.gazetteherald.co.uk/resources/images/21016392.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Supplied)*

@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: A new Pentagon report says that more U.S. troops are reporting unwanted
   sexual contact to authorities
 image: https://static.independent.co.uk/2026/08/21/21/Military_Sexual_Assault_77871.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 More U.S. troops are reporting unwanted sexual contact to authorities, according to a Pentagon report released Friday, even as more service members are willing to come forward, the prevalence of such incidents still went down overall last year.

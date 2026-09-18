@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: President Donald Trump has announced his administration will temporarily
   allow more beef imports into the U.S. without triggering higher tariffs
 image: https://static.independent.co.uk/2026/08/21/17/Trump__8612.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump announced Friday that his administration will allow more beef to be temporarily imported into the U.S. without triggering higher tariffs, as he remains under pressure to cut costs and address affordability issues ahead of November's midterms.

@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Data centers are expanding across South Africa, but communities are questioning
   the cost of electricity and water demands
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
+- Society & Culture
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

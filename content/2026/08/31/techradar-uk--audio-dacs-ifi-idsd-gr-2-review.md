@@ -9,6 +9,8 @@ published: '2026-08-31T00:00:00Z'
 description: I tested iFi’s new iDSD GR 2 portable DAC/amp, and it's a phenomenal
   sequel, with more power, more intuitiveness, and more features.
 image: https://cdn.mos.cms.futurecdn.net/zZbg8LCaac5mjxTbHBkxiB-2520-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

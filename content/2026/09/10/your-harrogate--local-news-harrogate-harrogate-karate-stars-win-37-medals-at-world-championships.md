@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Karate competitors from Harrogate have returned from Brazil with an impressive
   haul of 37 medals.
 image: https://mmo.aiircdn.com/409/6aa26ec91171e54b95c.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa26ec91171e54b95c.jpg) 

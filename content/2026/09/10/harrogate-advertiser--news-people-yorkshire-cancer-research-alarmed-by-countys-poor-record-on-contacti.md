@@ -10,6 +10,10 @@ description: Troubling new figures showing 17% of Harrogate people with cancer f
   did not contact their GP within three months has prompted a Yorkshire charity to
   call for people not to delay seeking medical advice.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAyZWFmZTllLTYzOTUtNDk1NC04MTliLThiYTExMzRkNzE5NDpmM2YwODdkYy1hMTE5LTQ5ZmUtYmRiYi01MTJkZWU4YWJiMWY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 # Yorkshire Cancer Research alarmed by county's poor record on contacting GP about cancer worries

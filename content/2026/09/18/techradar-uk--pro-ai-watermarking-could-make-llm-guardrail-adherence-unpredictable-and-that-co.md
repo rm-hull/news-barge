@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: Researchers have revealed how AI watermarking could actually change how
   an LLM behaves, making it less secure.
 image: https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![AI writer](https://cdn.mos.cms.futurecdn.net/Hc6oTvWTHfb3ETNovTaDxG.jpg) 

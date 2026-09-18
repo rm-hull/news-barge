@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: In the wake of the Manchester Arena bombing, which killed 22 people,
   a light emerged.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/9/49/PA-50273023.jpeg?trim=0,0,1,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Sheffield to Manchester: powerhouse cities that may as well be joined by a horse-and-cart track

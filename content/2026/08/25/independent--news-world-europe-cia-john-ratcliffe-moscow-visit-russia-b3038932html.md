@@ -8,6 +8,10 @@ scraped_at: '2026-08-25T20:39:55Z'
 published: '2026-08-25T00:00:00Z'
 description: Neither the Kremlin nor the CIA have commented on the visit
 image: https://static.independent.co.uk/2026/08/25/15/2269548820..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 CIA director John Ratcliffe made a short visit to Moscow on Tuesday to meet with Russian officials for talks not announced by the White House or the Kremlin, according to multiple US reports.

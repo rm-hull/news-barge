@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:23:49Z'
 published: '2026-09-01T00:00:00Z'
 description: The artist who made the bean art fled the state, according to report
 image: https://static.independent.co.uk/2026/09/01/17/59/788816592_10165097807889479_5765377238047764700_n-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A piece of art protesting President Donald Trump using the numbers “8647” was removed from the Minnesota State Fair after the artist allegedly received death threats.

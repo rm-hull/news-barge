@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Trump's order comes after the trade talks between the US and Canada collapsed
   late last week.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41ba/live/497e3d60-a241-11f1-804a-af7f2afa0e85.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: Trump signs executive order renaming Lake Ontario to Lake America

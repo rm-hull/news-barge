@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Alexandra Bell started working for Good Boy Dog Walker, based in Haxby,
   in July 2022
 image: https://static.independent.co.uk/2026/08/16/16/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
+- Pets & Animals
 ---
 
 A professional dog walker sued for unfair dismissal after resigning because she had 'too many dogs to walk'.

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: New Zealand's Prime Minister Christopher Luxon has unveiled a bill that
   would ban children younger than 16 from using social media
 image: https://static.independent.co.uk/2026/08/24/07/CORRECTION_New_Zealand_Politics_52369.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 New Zealand's Prime Minister Christopher Luxon has unveiled a proposed law banning children younger than 16 from using social media platforms, citing what he said Monday was “harm being done to a generation” of young people.

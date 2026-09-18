@@ -10,6 +10,10 @@ description: Cancel the tee time at the Belfry, rearrange the trip to Cadbury Wo
   and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights
   up Edgbaston to send third Test into fourth day.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9196/live/ee95d8a0-ae15-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 'He's become a star' - watch the best shots of Razaullah's stunning innings

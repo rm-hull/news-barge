@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T20:41:11Z'
 published: '2026-08-25T00:00:00Z'
 description: Nvidia's Vera Rubin wasn't in the comparison.
 image: https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![OpenAI Jalapeño](https://cdn.mos.cms.futurecdn.net/3Bym5bRSoc2XYC2CRstQM3.jpg) 

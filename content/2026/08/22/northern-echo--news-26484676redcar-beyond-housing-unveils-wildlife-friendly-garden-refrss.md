@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A new wildlife-friendly habitat garden has been opened at Beyond Housing’s
   Westfield Farm in Dormanstown, Redcar, with Mayor Councillor Ceri…
 image: https://www.thenorthernecho.co.uk/resources/images/21355093.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Kevin Allen)*

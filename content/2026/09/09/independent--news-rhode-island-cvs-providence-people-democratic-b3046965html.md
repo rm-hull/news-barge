@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Rhode Island Gov. Dan McKee is hoping to avoid becoming the first governor
   in any state to lose a party primary since 2018
 image: https://static.independent.co.uk/2026/09/09/05/Election_2_26_Rhode_Island_27951.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rhode Island Gov. Dan McKee is hoping to avoid becoming the first incumbent governor in any state to lose a primary since 2018 as he tries to fend off an intraparty challenge from former CVS executive Helena Foulkes in Wednesday's state primary.

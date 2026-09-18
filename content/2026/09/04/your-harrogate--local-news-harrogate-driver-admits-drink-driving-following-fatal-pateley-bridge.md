@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A driver has admitted being over the alcohol limit following a collision
   which killed 19-year-old Bailey Chadwick near Pateley Bridge.
 image: https://mmo.aiircdn.com/409/687e7a24bf2db.png
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 ![](https://mmo.aiircdn.com/409/687e7a24bf2db.png) 

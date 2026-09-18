@@ -7,6 +7,13 @@ scraped_at: '2026-09-14T14:59:24Z'
 published: '2026-09-14T00:00:00Z'
 description: Pickering Rocks has once again struck a chord with the community.
 image: https://www.gazetteherald.co.uk/resources/images/21452655.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 A MARKET town rocked at the weekend as a popular event brought together residents and visitors.

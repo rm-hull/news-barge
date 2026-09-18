@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The pair are discussing small boats, defence and Ukraine in Burnham's
   first bilateral talks in Downing Street.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab6f/live/2a95d360-a78f-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: Andy Burnham and Emmanuel Macron shake hands outside No 10

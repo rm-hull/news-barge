@@ -8,6 +8,8 @@ published: '2026-09-02T00:00:00Z'
 description: A slimmer, sleeker version of Huawei's once-boxy Watch D series still
   eschews the LED-based measurements used by the likes of Apple and Google
 image: https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d-2492-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Huawei Watch D3](https://cdn.mos.cms.futurecdn.net/qgzy9vtorbfncupt5ZZ57d.jpg) 

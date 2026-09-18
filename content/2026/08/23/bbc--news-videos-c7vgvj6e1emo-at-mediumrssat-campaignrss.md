@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The second-edition of the five-day competition kicked off in Beijing,
   China, on Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 # Robots compete in boxing, football and sprinting at World Humanoid Games

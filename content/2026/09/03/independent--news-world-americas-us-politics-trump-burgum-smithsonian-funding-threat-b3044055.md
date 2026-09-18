@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Trump's administration has threatened to cut federal agencies' support
   for the Smithsonian, marking its latest escalation against the institution
 image: https://static.independent.co.uk/2026/07/05/20/2230409145..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 In the latest escalation of its campaign against the Smithsonian, President Donald Trump's administration has threatened to cut federal agency support for the landmark cultural institution.

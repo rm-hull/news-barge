@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A MAJOR station gateway redevelopment has been deferred in a North Yorkshire
   town over concerns about public drop-off facilities.
 image: https://www.yorkpress.co.uk/resources/images/21284800.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Major North Yorkshire railway station redevelopment deferred

@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T16:47:44Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/clean-up-next-to-park-salisbury-terrace-york-20-aug-2026-1.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A York woman suffered a gash to her head after slipping on mud left behind when a water mains burst more than four weeks ago.

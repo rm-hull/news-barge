@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The defence secretary said ‘the Falklands are British because Falkland
   Islanders choose to be British’
 image: https://static.independent.co.uk/2026/09/01/09/2026-09-01T082848Z_1876836909_RC28ANAOZS43_RTRMADP_3_BRITAIN-POLITICS-CABINET.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Defence secretary Wes Streeting has insisted Britain’s commitment to the Falkland Islands is “absolute and unshakeable” after the Argentinian president threatened sanctions on oil companies in the area in a dramatic escalation of tensions.

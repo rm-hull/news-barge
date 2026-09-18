@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The chancellor is reportedly weighing up introducing a tax on holiday
   lets by classifying them as second homes rather than businesses
 image: https://static.independent.co.uk/2026/09/18/08/1233404564..?trim=47,0,47,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The government has reportedly drawn up plans for a tax raid on holiday cottages ahead of Andy Burnham’s first Budget.

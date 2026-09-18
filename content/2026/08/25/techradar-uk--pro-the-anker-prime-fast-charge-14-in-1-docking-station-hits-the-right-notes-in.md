@@ -8,6 +8,8 @@ published: '2026-08-25T00:00:00Z'
 description: There's a lot we liked about this 14-in-1 fast-charging dock with 160W
   total power output, dual 4K@60Hz HDMI, plus 10Gbps USB-C and USB-A data transfer.
 image: https://cdn.mos.cms.futurecdn.net/TS7KMm8RFqNi3YLuBsWHAF-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Anker Prime Charging Docking Station (14-in-1, Dual Display, 160W) on stone surface](https://cdn.mos.cms.futurecdn.net/TS7KMm8RFqNi3YLuBsWHAF.jpg) 

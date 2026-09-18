@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: South African police have discovered the bodies of eight women in the
   Kempton Park area, east of Johannesburg, over the past two months
 image: https://static.independent.co.uk/2026/09/15/13/South_Africa_Women_Deaths__6_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 The bodies of eight women have been discovered by South African police in the Kempton Park area, east of Johannesburg, in the last two months.

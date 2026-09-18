@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A North East driver has been banned for three years and given a suspended
   prison sentence after admitting dangerous driving and three other motoring…
 image: https://www.thenorthernecho.co.uk/resources/images/20185751.jpg?type=og-image&yType=309
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: Newsquest)*

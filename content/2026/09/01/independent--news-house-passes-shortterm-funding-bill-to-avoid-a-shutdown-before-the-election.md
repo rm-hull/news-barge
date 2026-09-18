@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The House has passed a short-term measure to fund the federal government
   into early December
 image: https://static.independent.co.uk/2026/09/01/20/Congress_House_Returns__6_44.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The House passed a short-term measure Tuesday to fund the federal government into early December, a move designed to avoid a chaotic shutdown as lawmakers campaign for reelection.

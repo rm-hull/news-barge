@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: ‘UNSIGHTLY’ and ‘hazardous’ Grade II listed steps in North Yorkshire
   will be repaired and renovated by the council after plans were given…
 image: https://www.gazetteherald.co.uk/resources/images/20980347.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 ‘UNSIGHTLY’ and ‘hazardous’ Grade II listed steps in North Yorkshire will be repaired and renovated by the council after plans were given the go-ahead.

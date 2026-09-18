@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The desperate search for missing Harrogate dog Ozzy is continuing, with
   his family urging people across the area to keep looking out for him.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFlNmQ3OTRlLWM1ZTUtNDdiYS04MzYyLTk3NGI5YjhjNjQxMjpjNjNhNzFmMS0wYjVhLTRiZWEtODVjMy01YzVlNDBlNTJkYWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Desperate search continues for Harrogate dog Ozzy missing for almost two weeks

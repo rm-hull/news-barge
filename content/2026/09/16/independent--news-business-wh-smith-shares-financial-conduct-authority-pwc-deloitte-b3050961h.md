@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The retailer now expects profits to drop to around £75 million for the
   year to August 31, down from £108 million in 2024-25.
 image: https://static.independent.co.uk/2026/09/16/08/16074443-4562872e-744d-4674-81e0-ef4488f54f45.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Retailer WH Smith has revealed more pressure on profits as it said results would be at the bottom of forecasts following a series of recent downgrades just months after a £100 million investor cash call.

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Multiple road and footpath closures have been scheduled across North
   Yorkshire for various works.
 image: https://www.yorkpress.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Newsquest)*

@@ -11,6 +11,9 @@ published: '2026-08-26T00:00:00Z'
 description: This A Plague Tale prequel pivots to action-adventure formula, forgoing
   plague rats and oppressive atmosphere for a lighter, swashbuckling romp.
 image: https://cdn.mos.cms.futurecdn.net/T5JfUhu3SzoHKPVvsTWBdA-2560-80.png
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

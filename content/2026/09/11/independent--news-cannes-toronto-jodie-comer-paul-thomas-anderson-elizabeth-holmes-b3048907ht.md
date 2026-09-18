@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: 'A running question through film festivals this year has been: Where
   are the major movie studio movies'
 image: https://static.independent.co.uk/2026/09/11/21/Toronto_TIFF_Film_Festival_7_276.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Music
 ---
 
 The 51st Toronto International Film Festival is underway, with steady parades of premieres running like traffic jams through downtown Toronto. Here are glimpses of what's happening on the ground, and what festivalgoers are talking about.

@@ -10,6 +10,10 @@ description: The U.S.-Mexico border is preparing to reopen to cattle exports, wi
   concerns about the New World screwworm, they hope to once again be able to send
   their cattle to the U.S.
 image: https://static.independent.co.uk/2026/08/22/20/APTOPIX_Mexico_Diary_Farm_42844.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mexico’s ranchers look north to the US as screwworm ban nears end, in photos

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: As the transfer window closes for the summer, chief football writer Phil
   McNulty asks if Arsenal's rivals have done enough to challenge the champions?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9eda/live/728decc0-a659-11f1-b9c3-ff4913859afc.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Eberechi Eze and Ezri Konsa](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/9eda/live/728decc0-a659-11f1-b9c3-ff4913859afc.jpg)

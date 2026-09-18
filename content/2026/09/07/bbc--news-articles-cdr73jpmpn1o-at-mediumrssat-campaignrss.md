@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: A warning from defence officials and a skydiving miracle lead Monday's
   front pages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aa7/live/4af2d690-aa45-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 !["Europe is losing battle to halt Russia's 'hybrid' war, defence officials warn" reads the headline on the front page of the Financial Times.](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/2637/live/ed5a13b0-aa38-11f1-a291-b542ee92de7c.jpg)

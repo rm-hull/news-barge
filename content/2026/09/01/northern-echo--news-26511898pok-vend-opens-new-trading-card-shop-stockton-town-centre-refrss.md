@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A new Pokémon shop has opened in Stockton, offering trading cards, collectibles
   and a community space for local collectors to buy, sell and trade.
 image: https://www.thenorthernecho.co.uk/resources/images/21396511.jpg?type=og-image&xType=0&yType=71
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Lindsayplastic / TikTok)*

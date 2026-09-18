@@ -10,6 +10,9 @@ description: President Donald Trump set to lose more staffers as midterms approa
   with insiders weighing their options in anticipation of Democrats seizing control
   of Congress
 image: https://static.independent.co.uk/2026/08/24/09/2290824936..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump is bracing for further departures from his top team as the midterms approach, with one former insider saying staffers are considering their next moves because they “see the writing on the wall,” according to a report.

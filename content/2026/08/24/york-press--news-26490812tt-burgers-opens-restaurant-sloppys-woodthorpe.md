@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The newly-opened TT Burgers in Woodthorpe is earning five star reviews
   for food that diners describe as ‘banging.’
 image: https://www.yorkpress.co.uk/resources/images/21364685.jpg?type=og-image&xType=0&yType=429
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## New burger restaurant gets five star reviews for 'banging' food

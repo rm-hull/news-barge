@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Yorkshire Pop-Up is back at the Stables and Walled Garden at Hutton
   Wandesley Estate in the Vale of York.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI4MzE4OWNlLTZmZmUtNGFiYS04M2I4LTFiYzljMjExMmQxZDphYzM0ODdkNS0xNWFkLTQ3NjYtOWNkNy04OGM2MDA0Y2M5NDk=.jpg?crop=3:2,smart&trim=&width=1093&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Indie shopping fair: The Yorkshire Pop-Up is back at Hutton Wandesley Estate near York

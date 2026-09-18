@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: STEERING and road wheel faults are becoming more common reasons for MOT
   failures.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21358872.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Getty Images)*

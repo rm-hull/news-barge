@@ -9,6 +9,10 @@ description: 'Germany''s finance minister demanded tougher EU tariffs on Chinese
   during a visit to Volkswagen''s crisis-hit headquarters, as Chinese brands head
   toward selling more than a million cars on the continent in 2026. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/74/89/1200x675_cmsv2_c2cc9926-0e24-52ff-957a-e9e3f5932171-9917489.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Germany's finance minister demanded tougher EU tariffs on Chinese carmakers during a visit to Volkswagen's crisis-hit headquarters, as Chinese brands head toward selling more than a million cars on the continent in 2026.

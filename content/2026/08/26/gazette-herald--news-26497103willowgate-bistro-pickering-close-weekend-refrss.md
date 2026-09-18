@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The much-loved Pickering restaurant The Willowgate Bistro is to close
   this weekend.
 image: https://www.gazetteherald.co.uk/resources/images/21373993.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 A much-loved Pickering restaurant is to close this weekend.

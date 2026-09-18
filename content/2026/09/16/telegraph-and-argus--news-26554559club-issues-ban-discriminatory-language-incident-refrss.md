@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Bradford football club has handed a lifetime ban to an individual after
   an allegation of "discriminatory language" towards a match…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21462165.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: John Rhodes)*

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Rant & Ramble Coffee Rave will take place at Fodder Café on the Great
   Yorkshire Showground in October.
 image: https://www.yorkpress.co.uk/resources/images/21381571.jpg?type=og-image&xType=0&yType=155
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## Coffee-fuelled morning rave with live DJ coming to Harrogate

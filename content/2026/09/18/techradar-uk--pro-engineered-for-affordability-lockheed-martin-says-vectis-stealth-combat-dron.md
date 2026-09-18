@@ -8,6 +8,8 @@ published: '2026-09-18T00:00:00Z'
 description: Lockheed reveals more of its Vectis combat drone as four more prototypes
   move toward testing before production
 image: https://cdn.mos.cms.futurecdn.net/4SJtuacFhwwPZNcKRaSW8E-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Lockheed Martin Vectis](https://cdn.mos.cms.futurecdn.net/4SJtuacFhwwPZNcKRaSW8E.png) 

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Cuore Chamber Orchestra launches its new season at Harrogate's Royal
   Hall on 6 November 2026, featuring violinist Jennifer Pike.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/05/Royal-Hall.webp
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 **HARROGATE** — The highly acclaimed Cuore Chamber Orchestra has confirmed its return to its resident home venue this autumn, launching a high-profile second season following a celebrated inaugural year.

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Lionel Messi's decade of dominance with Argentina that almost never happened
   will go down as one of football's greatest ever stories.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/efcf/live/3e629830-a558-11f1-9acf-19576105f049.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- History
 ---
 
 ![Lionel Messi poses in a photoshoot, with the index fingers of both hands pointing upwards](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/efcf/live/3e629830-a558-11f1-9acf-19576105f049.jpg)

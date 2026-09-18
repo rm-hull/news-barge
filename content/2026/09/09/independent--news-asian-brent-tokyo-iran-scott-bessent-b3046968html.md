@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Asian shares are mixed in cautious trading, as investors watch for what
   might happen on interest rates and the war with Iran pushes oil prices higher
 image: https://static.independent.co.uk/2026/09/09/05/Japan_Financial_Markets_5_893.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian shares were mixed in cautious trading early Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed oil prices higher.

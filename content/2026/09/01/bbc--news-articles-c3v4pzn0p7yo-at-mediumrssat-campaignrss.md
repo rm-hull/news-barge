@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: One seat was taken from the Conservatives, indicating public support
   for the PM after a confrontation with Donald Trump.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f90/live/4d9b71d0-a5e6-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Braeden Caley shakes the hand of a supporter during celebrations for his win in the North Vancouver-Capilano seat](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/7f90/live/4d9b71d0-a5e6-11f1-aed2-8d6da8d75094.jpg)

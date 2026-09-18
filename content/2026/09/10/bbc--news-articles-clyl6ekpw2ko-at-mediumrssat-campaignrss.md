@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Hugo the shire horse enters the record books as the world's tallest living
   horse.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1221/live/8844d5d0-ac5b-11f1-be57-03729df1d736.jpg
+categories:
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 ![Lisa Masters, in a barn, holding her arms up, to the head of a horse, who is sideways on, with reins around his head. She is wearing black leggings, has on boots, a blue top and blue gilet. She has long dark hair tied back and is smiling. The barn is full of hay.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1221/live/8844d5d0-ac5b-11f1-be57-03729df1d736.jpg)

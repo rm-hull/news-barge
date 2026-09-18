@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Joseph Gibson stated he was worth hundreds of millions of pounds, was
   an ex soldier, and owned yachts.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8cf/live/05eda8f0-9c89-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Mugshot of Joseph Gibson.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8cf/live/05eda8f0-9c89-11f1-aed2-8d6da8d75094.jpg)

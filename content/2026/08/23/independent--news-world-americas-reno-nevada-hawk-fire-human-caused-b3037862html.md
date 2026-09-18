@@ -8,6 +8,10 @@ scraped_at: '2026-08-23T20:35:07Z'
 published: '2026-08-23T00:00:00Z'
 description: ‘Please get out if you can right now,’ the sheriff urged
 image: https://static.independent.co.uk/2026/08/23/20/2026-08-23T195433Z_760128358_RC2J4NAJON2X_RTRMADP_3_NEVADA-WILDFIRE.JPG?trim=0,268,0,268&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An uncontained, human-caused wildfire in northwest Reno, Nevada, has destroyed homes and prompted authorities to urge around 90,000 residents to evacuate on Sunday.

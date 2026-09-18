@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T22:42:49Z'
 published: '2026-08-30T00:00:00Z'
 description: Police were trying to break up a large gathering when the shooting began
 image: https://static.the-independent.com/2026/07/09/13/39/iStock-1248520843.jpeg?trim=0,99,0,99&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A mass shooting in a Chicago park left one person dead and at least 13 others injured.

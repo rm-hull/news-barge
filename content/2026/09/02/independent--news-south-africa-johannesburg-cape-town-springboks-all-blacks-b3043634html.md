@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: South Africa’s aviation authority is reviewing a dramatic passenger jet
   flypast over Cape Town's DHL Stadium
 image: https://static.independent.co.uk/2026/08/31/14/South_Africa_Stadium_Flyover_8_623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A low fly past by two Airlink passenger jets before a rugby match at Cape Town’s DHL Stadium which drew safety concerns is being reviewed, South Africa ’s aviation authority said on Wednesday.

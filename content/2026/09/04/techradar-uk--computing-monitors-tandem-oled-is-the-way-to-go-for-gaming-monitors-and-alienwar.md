@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: Alienware expands its QD-OLED lineup with two new monitors, and one in
   particular takes the strongest elements from the new 5K2K flagship option.
 image: https://cdn.mos.cms.futurecdn.net/QCcSaoU4uRQ5RSJtpdmAE8-2000-80.png
+categories:
+- Technology & Software
 ---
 
 ![Render of Alienware AW3226K QD-OLED monitor](https://cdn.mos.cms.futurecdn.net/QCcSaoU4uRQ5RSJtpdmAE8.png) 

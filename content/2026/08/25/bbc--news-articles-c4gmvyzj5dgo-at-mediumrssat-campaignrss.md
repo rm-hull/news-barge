@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Two planned concerts are thrown into doubt, but Russian promoters insist
   they will go ahead.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b7c/live/c5a0a7d0-9ae3-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Kanye West](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4b7c/live/c5a0a7d0-9ae3-11f1-b2f7-5d1639b20e22.jpg)

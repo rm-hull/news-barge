@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: For millions of viewers, Ravenseat Farm became almost as recognisable
   as Amanda Owen and her family themselves.
 image: https://www.thenorthernecho.co.uk/resources/images/21429711.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 For millions of viewers, Ravenseat Farm became as recognisable as Amanda Owen and her family.

@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The rapper, who was dropped from Ed Sheeran's US tour for saying "Free
   Palestine" on stage, has challenged billionaire Robert Kraft to match his donation.
 image: https://images.euronews.com/articles/stories/09/91/68/29/1200x675_cmsv2_abc1b7e0-1f45-5c88-9002-02d80bc54d88-9916829.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The rapper, who was dropped from Ed Sheeran's US tour for saying "Free Palestine" on stage, has challenged billionaire Robert Kraft to match his donation.

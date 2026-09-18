@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Blacks Corner Culture House has applied to Sunderland City Council for
   a premises licence at its Keel Square venue, seeking permission for…
 image: https://www.thenorthernecho.co.uk/resources/images/19398621.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Submitted)*

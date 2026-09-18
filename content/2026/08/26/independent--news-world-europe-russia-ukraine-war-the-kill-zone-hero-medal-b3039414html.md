@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: His feat captured the country's attention and earned him its highest
   military honour
 image: https://static.independent.co.uk/2026/08/26/09/2026-08-26T075540Z_627062628_RC2E2NAPZX8C_RTRMADP_3_UKRAINE-CRISIS-RESCUE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ukrainian commander Vladyslav Polskyi knew he had to do something when he saw two wounded fighters stranded on the battlefield — one of them still strapped to a land drone immobilized by a Russian strike.

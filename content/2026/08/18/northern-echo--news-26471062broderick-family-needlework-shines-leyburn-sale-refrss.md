@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Historic samplers linked to the prominent Broderick family of Swaledale
   proved a highlight at auction, with the collection of antique needlework…
 image: https://www.thenorthernecho.co.uk/resources/images/21330519.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A collection of historic needlework linked to a Yorkshire Dales family proved a major attraction at an auction, with a group of antique samplers selling for £1,000.

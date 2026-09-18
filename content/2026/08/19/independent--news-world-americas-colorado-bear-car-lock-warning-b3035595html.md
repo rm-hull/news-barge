@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The bear’s body was inside the car for days before it was discovered,
   authorities say
 image: https://static.independent.co.uk/2026/08/19/11/07/Screenshot-2026-08-19-at-12-33-52.png?trim=78,0,22,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
 ---
 
 A black bear has been found dead inside a car in Colorado, with authorities warning drivers to lock their vehicles.

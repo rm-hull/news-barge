@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Police search for alleged attacker, in his 50s, after incident in Gippsland
   town of Tyers
 image: https://i.guim.co.uk/img/media/ef2e93a75b1dafa7f48da0d8a83bb02bcb7f381a/445_0_1409_1128/master/1409.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d95c68a3815f95ef123713e5584976c
+categories:
+- UK
+- News & Politics
+- Sports
+- True Crime
 ---
 
 Three people have been taken to hospital with life-threatening injuries after an alleged axe attack in Victoria, with police still searching for the suspect.

@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: 'Exclusive: Ten category C prisons in England and Wales asked to add
   second beds, in breach of safe occupancy limits'
 image: https://i.guim.co.uk/img/media/d5445882f00f025fa2b04b1b478c1a1297ee965c/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66d983b63ceefb3ff567feda5ed1aa7a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The Prison Service has drawn up plans to “double up” hundreds of prisoners in temporary prefabricated cells built for one person, at the request of the Ministry of Justice, leaked documents show.

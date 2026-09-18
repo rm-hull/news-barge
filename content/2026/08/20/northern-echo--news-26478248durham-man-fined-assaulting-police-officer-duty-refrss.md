@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Dylan Kell, 29, of Coronation Avenue, Durham, has been fined after admitting
   assaulting and obstructing a police officer during an incident in…
 image: https://www.thenorthernecho.co.uk/resources/images/19645132.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: The Northern Echo)*

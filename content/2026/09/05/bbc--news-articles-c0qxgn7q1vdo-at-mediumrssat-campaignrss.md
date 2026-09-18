@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: The Reform leader also told the BBC's Laura Kuenssberg that his family
   are "begging" him to leave his job.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f9f/live/940c2cb0-a936-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: The Reform UK leader says he "frankly wasn’t even listening" during a conversation about foreign money being donated to his party

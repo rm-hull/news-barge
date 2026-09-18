@@ -9,6 +9,11 @@ scraped_at: '2026-08-22T12:57:22Z'
 published: '2026-08-22T00:00:00Z'
 description: Despite spectacular weakness of desktop PC market.
 image: https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah-914-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![7700x3d](https://cdn.mos.cms.futurecdn.net/87ArGeWHVuydiywKW9Njah.jpg) 

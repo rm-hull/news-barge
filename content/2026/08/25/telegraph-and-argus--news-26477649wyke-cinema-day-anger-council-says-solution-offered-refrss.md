@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Bradford businesses have expressed their anger over the cancellation
   of a much-loved community event - but the council says organisers were offered…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356401.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Mike Simmonds)*

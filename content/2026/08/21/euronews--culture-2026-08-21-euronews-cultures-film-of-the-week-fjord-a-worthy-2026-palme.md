@@ -9,6 +9,9 @@ description: 'A deeply religious Romanian family clashes with Norway''s liberal 
   when the couple is suspected of child abuse. This year’s Palme d’Or winner will
   polarise. And that’s the point. #Cinema'
 image: https://images.euronews.com/articles/stories/09/88/23/39/1200x675_cmsv2_69855082-9359-516a-a1a2-226c4b97cef6-9882339.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A deeply religious Romanian family clashes with Norway's liberal principles when the couple is suspected of child abuse. This year’s Palme d’Or winner will polarise. And that’s the point.

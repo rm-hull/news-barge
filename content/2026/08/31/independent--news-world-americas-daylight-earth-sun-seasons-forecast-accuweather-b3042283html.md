@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Southern states lose fewer minutes but even the coasts of Texas and Florida
   will see daylight dwindle by 40 minutes
 image: https://static.independent.co.uk/2026/08/31/19/32/GettyImages-2196654765.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Daylight is dwindling across the United States as the season shifts from summer to fall.

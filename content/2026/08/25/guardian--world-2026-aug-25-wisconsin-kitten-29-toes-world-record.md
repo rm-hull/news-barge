@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Maine Coon named Erebus Anomaly breaks previous record of 28 toes held
   for over two decades after overcoming illness
 image: https://i.guim.co.uk/img/media/b489b20441af8af3380152b8635363a0aab80253/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37ded19cbab685a1392d7bbae2a7ae77
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 A Maine Coon kitten from Wisconsin overcame a perilous bout with pneumonia to break a 24-year-old world record for most toes on a cat, setting the new mark at 29.

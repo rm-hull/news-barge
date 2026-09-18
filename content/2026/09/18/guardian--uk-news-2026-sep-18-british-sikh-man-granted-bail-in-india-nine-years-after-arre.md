@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Jagtar Singh Johal, from Scotland, was arrested after wedding in Punjab
   on alleged terrorism offences
 image: https://i.guim.co.uk/img/media/e831f359bffa86932e61c5105370ac68f5c615cf/0_143_945_756/master/945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21a5ad0666599c461df07ee5b4efff05
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Jagtar Singh Johal, a British Sikh man who was arrested in India in 2017 in connection with alleged terrorism offences, has been granted bail by a Delhi court.

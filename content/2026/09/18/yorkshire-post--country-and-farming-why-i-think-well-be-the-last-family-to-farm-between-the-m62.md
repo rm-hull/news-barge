@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The sales are now in full swing which means there’s a constant stream
   of sheep going through our yard.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwODg0MWNjLTIxNTgtNGJhNC1hYTAwLWEzNzc0NzkwNzQ2ODpmNTNmYTg5NC0wOTJjLTRhZmItOWY2MS03ZDgyM2ExYTkyNzI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Why I think we'll be the last family to farm between the M62 - Jill Thorp

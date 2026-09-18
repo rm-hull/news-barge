@@ -9,6 +9,8 @@ published: '2026-08-22T00:00:00Z'
 description: We've got a bit more unofficial information on the camera quality and
   the capabilities of these upcoming AirPods.
 image: https://cdn.mos.cms.futurecdn.net/FgZ8XFjMxDyihEqroE6Yjd-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![AirPods 4 with Active Noise Cancellation earbuds held in a man's hand](https://cdn.mos.cms.futurecdn.net/FgZ8XFjMxDyihEqroE6Yjd.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Twenty-five people were killed after a cargo ship caught fire while docked
   in a Chinese port, Chinese state media reported Thursday
 image: https://static.independent.co.uk/2026/09/10/14/China_Ship_Fire_63229.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A cargo ship docked for repairs in a Chinese port caught fire, killing 25 people, Chinese state media reported Thursday.

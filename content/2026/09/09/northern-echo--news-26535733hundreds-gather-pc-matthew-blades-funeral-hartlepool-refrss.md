@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: On a normally quiet residential street in Hartlepool, hundreds of people
   stood shoulder to shoulder on Wednesday morning to say goodbye to a police…
 image: https://www.thenorthernecho.co.uk/resources/images/21431190.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Hundreds of people stood shoulder to shoulder to say goodbye to an officer killed in the line of duty on the A66.

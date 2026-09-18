@@ -10,6 +10,10 @@ description: Catching a train from London to mainland Europe could soon become a
   often as every 15 minutes by the end of the decade as Eurostar faces a wave of new
   competition.
 image: https://images.euronews.com/articles/stories/09/89/11/61/1200x675_cmsv2_459dbac6-a0dc-51b4-937f-a9db7d4c346a-9891161.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Catching a train from London to mainland Europe could soon become a lot easier, with services to Paris, Brussels and Amsterdam potentially departing as often as every 15 minutes by the end of the decade as Eurostar faces a wave of new competition.

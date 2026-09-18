@@ -9,6 +9,11 @@ description: The government unveils the first portal for national public housing
   with income-linked rents and 14-year contracts. Sánchez defends state intervention
   to boost supply and secure access to housing.
 image: https://images.euronews.com/articles/stories/09/90/40/03/1200x675_cmsv2_4b183f1b-48b9-5693-a807-7d253fd92d9d-9904003.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The government unveils the first portal for national public housing, with income-linked rents and 14-year contracts. Sánchez defends state intervention to boost supply and secure access to housing.

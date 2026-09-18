@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Bayern Munich start their latest title defence as overwhelming odds-on
   favourites to win the Bundesliga again - so what would constitute success?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b47f/live/3b8c52a0-9bd4-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Vincent Kompany and Harry Kane helped Bayern Munich to the German Double last season](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b47f/live/3b8c52a0-9bd4-11f1-bb4d-1147ef2e78e5.jpg)

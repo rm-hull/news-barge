@@ -7,6 +7,13 @@ scraped_at: '2026-08-21T13:05:51Z'
 published: '2026-08-21T00:00:00Z'
 description: All UK stores have closed after a popular fashion retailer entered administration.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20518659.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Lifestyle & Fashion
+- Shopping & Deals
 ---
 
 *(Image: Newsquest Archive)*

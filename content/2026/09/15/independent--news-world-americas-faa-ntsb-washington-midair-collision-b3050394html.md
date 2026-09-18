@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The NTSB said responses by the FAA to 11 of 33 recommendations made by
   the board after a 2025 mid-air collision killed 67 people near Washington were "unacceptable"
 image: https://static.independent.co.uk/2026/09/15/10/2196098632..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Federal Aviation Administration has provided "unacceptable" responses to 11 out of 33 safety recommendations issued after a 2025 mid-air collision near Washington killed 67 people, according to the U.S. National Transportation Safety Board.

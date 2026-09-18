@@ -9,6 +9,10 @@ description: Multiple charities have repeatedly warned access to and quality of 
   care is too patchy across the country and that the sector is severely lacking in
   funding
 image: https://static.independent.co.uk/2026/01/20/15/18/Toby-Porter-Hospice-UK-chief.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 End-of-life charities have reiterated their demands for the government to "fix" palliative care funding and provision across the country, amidst renewed attempts to introduce an assisted dying law.

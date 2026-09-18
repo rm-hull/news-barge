@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![Two healthcare organisations have each signed a three-year lease for their new office spaces at St James' Business Park in Knaresborough which are owned by West and North Yorkshire property company, Gaunts Ltd. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjdjZDQyMWNlLWE4MmUtNDJlMi05MzUyLWE2Y2I5NmM5Nzc3OTozZTMwYmQ4MS1hMDAyLTQxNzEtYThjYS01MjA1ZjYwZGNmODU=.jpg?crop=5:4,smart&trim=&quality=70&width=480)

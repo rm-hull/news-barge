@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Residents in Frederick, Maryland, shaken after clashes as activists decry
   violence from officers as ‘unconscionable’
 image: https://i.guim.co.uk/img/media/b07c52ec4792a36b49f5c062e6598cb5bbf60f5e/789_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de4b53126a047bbd6ea915bf4f68e60e
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Political leaders in Maryland are calling for investigations into the conduct of Immigration and Customs Enforcement (ICE) officers as they clashed with protesters during a federal operation in a local community.

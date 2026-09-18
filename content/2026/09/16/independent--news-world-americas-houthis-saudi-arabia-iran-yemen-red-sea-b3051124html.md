@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Muslim nations are condemning an attempted drone attack on Mecca as Saudi
   Arabia says that Islam's holiest city is a “red line” for the kingdom
 image: https://static.independent.co.uk/2026/09/16/11/Mideast_Wars_Yemen_93348.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Saudi Arabia accused Yemen’s Iran-backed Houthi rebels overnight of trying to attack Islam’s holiest city, prompting condemnation from countries in the region but no sign of military support. The kingdom, a key U.S. ally, declared Mecca a “red line” as it slid deeper into the new front of the Iran war.

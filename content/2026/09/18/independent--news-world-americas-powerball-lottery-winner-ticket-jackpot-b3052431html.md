@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: ‘I initially didn’t believe I had won, so I called a family member to
   confirm it,’ the winner says
 image: https://static.independent.co.uk/2026/08/13/15/14/GettyImages-2233717614-(1).jpg?trim=160,0,201,542&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Business & Entrepreneurship
 ---
 
 A Powerball player has come forward to claim a prize worth over $1 billion, bought with a $2 ticket.

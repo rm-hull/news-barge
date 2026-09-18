@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A man who drove over a North Yorkshire teenager and left him fatally
   injured on the road is not responsible for his death, a court heard.
 image: https://www.gazetteherald.co.uk/resources/images/20437186.jpg?type=og-image&xType=0&yType=631
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 A MAN who drove over a teenager and left him fatally injured on a road in North Yorkshire is not responsible for his death, a court heard.

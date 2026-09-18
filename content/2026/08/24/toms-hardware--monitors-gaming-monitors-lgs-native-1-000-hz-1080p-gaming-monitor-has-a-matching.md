@@ -8,6 +8,9 @@ scraped_at: '2026-08-24T20:43:48Z'
 published: '2026-08-24T00:00:00Z'
 description: $1 per Hz is the going rate for the LG UltraGear 25G590B
 image: https://cdn.mos.cms.futurecdn.net/8iEjwB6NJKu3YnCFhn6Q8c-1198-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![LG Ultragear 25G590B](https://cdn.mos.cms.futurecdn.net/8iEjwB6NJKu3YnCFhn6Q8c.jpg) 

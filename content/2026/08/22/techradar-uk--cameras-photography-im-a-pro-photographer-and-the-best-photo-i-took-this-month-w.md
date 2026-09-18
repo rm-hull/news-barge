@@ -9,6 +9,8 @@ published: '2026-08-22T00:00:00Z'
 description: Long exposure is a popular technique among keen photographers, and Google
   Pixel offers a simplified mode in its camera app that creates the same effect
 image: https://cdn.mos.cms.futurecdn.net/iA8pD8eH4qHjyT4RNw7LaN-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A damaged groyne on a UK beach, the high tide is smashing into it, with the moving water blurred using a long exposure photography technique](https://cdn.mos.cms.futurecdn.net/iA8pD8eH4qHjyT4RNw7LaN.jpg) 

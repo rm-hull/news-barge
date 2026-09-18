@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: In July, Trump reportedly rejected $227 million in disaster-aid requests
   from four Democratic-led states
 image: https://static.independent.co.uk/2026/09/17/11/33/GettyImages-2295658842-(1).jpeg?trim=60,0,60,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump said he would withhold disaster relief funding from North Carolina if voters do not elect Republican Senate nominee Michael Whatley in the midterms — only to add he was “kidding.”

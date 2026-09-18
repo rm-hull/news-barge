@@ -9,6 +9,9 @@ description: If every ship on the planet were hauled out of the water, how much 
   global sea levels change, and how quickly? How different would Earth be if anaerobic
   life were the only life form, and could it have become sentient?
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311301141.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311301141.jpg?w=840)

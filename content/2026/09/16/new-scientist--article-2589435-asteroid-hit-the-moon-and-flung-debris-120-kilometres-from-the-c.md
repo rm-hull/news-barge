@@ -9,6 +9,10 @@ description: Researchers have watched a huge crater form on the lunar surface, a
   its widespread effects could help inform future exploration of the moon and other
   similar places
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312715757.jpg
+categories:
+- Science
+- Technology & Software
+- History
 ---
 
 ![The crater site, before and after impact](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312715757.jpg?w=840)

@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:32:01Z'
 published: '2026-08-19T00:00:00Z'
 description: Price of many groceries has soared in the past five years
 image: https://static.independent.co.uk/2026/08/18/12/2026-08-18T115536Z_1429546808_RC2Y0NAYFO0Q_RTRMADP_3_BRITAIN-ECONOMY-INFLATION.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Olive oil, eggs, beef and milk are among supermarket products whose prices have risen the most quickly since the start of the cost-of-living crisis, analysis shows.

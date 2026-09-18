@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: A teenager travelled more than 150 miles to confront and fatally stab
   a man his family had accused of stalking, a court has heard.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/07/14/07/Old-Bailey.jpeg?trim=167,0,169,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Teenager travelled from Yorkshire to London to kill alleged stalker, court told

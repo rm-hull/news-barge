@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:17:51Z'
 published: '2026-09-14T00:00:00Z'
 description: A stalemate ahead?
 image: https://cdn.mos.cms.futurecdn.net/NhTfPBWmk5HbFmrNn2Dy2h-1920-80.jpeg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Donald Trump in red tie](https://cdn.mos.cms.futurecdn.net/NhTfPBWmk5HbFmrNn2Dy2h.jpeg) 

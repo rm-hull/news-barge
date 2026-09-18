@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: North Yorkshire Council outlines 24 proposed changes to its home-to-school
   transport policy, including the removal of five hazardous rural routes.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/School-bus-latest-1.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 **North Yorkshire Council has put forward 24 recommendations** following a review of its Home to School Travel Policy, which was overhauled in September 2024 to shift free transport eligibility from traditional catchment areas to the nearest suitable school with an available place. The service manages travel for about 11,000 pupils at an annual cost exceeding £52 million.

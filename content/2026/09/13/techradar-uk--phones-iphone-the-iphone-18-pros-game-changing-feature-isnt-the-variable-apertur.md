@@ -9,6 +9,8 @@ scraped_at: '2026-09-13T22:23:20Z'
 published: '2026-09-13T00:00:00Z'
 description: If it lowers stress, I'm in
 image: https://cdn.mos.cms.futurecdn.net/Y68fLK8iAS6fJY8jVhJgnn-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A split image, with a man's hand holding the iPhone](https://cdn.mos.cms.futurecdn.net/Y68fLK8iAS6fJY8jVhJgnn.jpg) 

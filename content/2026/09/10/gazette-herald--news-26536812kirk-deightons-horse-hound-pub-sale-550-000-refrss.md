@@ -7,6 +7,11 @@ scraped_at: '2026-09-10T12:54:09Z'
 published: '2026-09-10T00:00:00Z'
 description: A pub in Kirk Deighton is up for sale at £550,000.
 image: https://www.gazetteherald.co.uk/resources/images/21432372.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A popular North Yorkshire village pub is on the market for £550,000 freehold.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:47Z'
 published: '2026-09-14T00:00:00Z'
 description: President Trump said he liked Flock cameras because they help law enforcement
 image: https://static.independent.co.uk/2026/09/14/08/2294722031..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 President Donald Trump has thrown his support behind Flock cameras, despite a growing number of communities across the country rejecting the automatic license plate readers over privacy and safety concerns.

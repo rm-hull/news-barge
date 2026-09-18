@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The beauty therapist, from Chichester, was 48 at the time and a single
   parent to a 12 year old boy
 image: https://static.independent.co.uk/2025/10/21/13/0100c65227ffb6b4351410043c149a3bY29udGVudHNlYXJjaGFwaSwxNzYxMTM1MzE3-2.20541092.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A top beauty therapist has won over £32,000 after she was was fired because she was struggling with the menopause.

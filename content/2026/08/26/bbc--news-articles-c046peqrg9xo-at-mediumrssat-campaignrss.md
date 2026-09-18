@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The government is under pressure to support billpayers when domestic
   energy prices predicted to rise further.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28bb/live/486f7610-a13c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Stock photo shows a person ironing a T shirt in front of a window in their kitchen, next to a plug socket and with the washing machine behind them.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/3bfb/live/2c87e810-a13c-11f1-b109-879e35c24276.jpg)

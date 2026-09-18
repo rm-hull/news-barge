@@ -9,6 +9,8 @@ published: '2026-09-04T00:00:00Z'
 description: Many of us are relying more and more on AI for answers, but it's always
   worth double-checking.
 image: https://cdn.mos.cms.futurecdn.net/J4xNw9wL3EotLvqmBGDAvH-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Three hikers in the mountains next to a Gemini logo on a phone](https://cdn.mos.cms.futurecdn.net/J4xNw9wL3EotLvqmBGDAvH.jpg) 

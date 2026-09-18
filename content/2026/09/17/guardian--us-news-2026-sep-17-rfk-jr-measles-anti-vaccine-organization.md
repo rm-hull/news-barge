@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: The US health secretary added that he would’ve made sweeping changes
   ‘on day one’ but he had to follow the law
 image: https://i.guim.co.uk/img/media/fa84483c3a1db400a8d6294df25cc82112475156/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=153abf6e460223ad88889888a9b2fa84
+categories:
+- UK
+- News & Politics
 ---
 
 As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade.

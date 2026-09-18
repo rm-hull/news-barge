@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Gold collection known as Treasure of Villena, worth at least €1.7m, is
   target of ‘very well planned’ raid
 image: https://i.guim.co.uk/img/media/d4a71b2779883dfb230f55965083039b8e02b2ce/315_0_938_750/master/938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33253b00efa06325572ea725faff905e
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Thieves in Spain have raided the Treasure of Villena – a stunning collection of bronze age gold artefacts that has been described as the most important prehistoric trove in Europe – in the latest high-profile smash-and-grab heist on the continent.

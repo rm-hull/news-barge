@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: The US says new sanctions are an "economic D-Day", but Tehran's leaders
   have survived restrictions before.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![A woman wearing a white shirt and pink scarf carries shopping bags on her left arm in the middle of a market, where clothes can be seen hanging and other shoppers walk about](https://ichef.bbci.co.uk/ace/standard/971/cpsprodpb/ed90/live/792d3990-a079-11f1-bfeb-dfb02ea642ef.jpg)

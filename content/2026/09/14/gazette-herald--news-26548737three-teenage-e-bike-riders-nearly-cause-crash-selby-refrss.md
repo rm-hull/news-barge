@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Three teenage boys on e-bikes almost caused a crash then hurled abuse
   at a dog walker in Selby, police have said.
 image: https://www.gazetteherald.co.uk/resources/images/21280316.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Matt Alexander/PA Media Assignments)*

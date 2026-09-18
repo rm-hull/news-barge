@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T19:16:48Z'
 published: '2026-09-03T00:00:00Z'
 description: Agentic AI still isn't great at browsing autonomously
 image: https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![ChatGPT, Gemini and Claude on smartphones in one image.](https://cdn.mos.cms.futurecdn.net/jwrMJ6cMNHe3jurU5dv9S7.jpg) 

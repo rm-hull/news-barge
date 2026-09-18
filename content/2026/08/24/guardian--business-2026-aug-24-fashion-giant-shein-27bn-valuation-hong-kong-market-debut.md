@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: Known for selling cheap clothing, the online retailer has seen its value
   drop sharply from earlier estimates amid scrutiny over its environmental footprint
 image: https://i.guim.co.uk/img/media/a5f2728ff52788c315c073da43cf496d9cf46c65/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a8c8a43af4b086aea3b3476c956132
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Shein will debut on the Hong Kong stock exchange on 1 September, the fast-fashion retailer said on Monday, in a long-awaited listing that would value the group at close to $27bn.

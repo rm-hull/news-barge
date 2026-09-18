@@ -9,6 +9,9 @@ description: The World Meteorological Organization is warning that the climate p
   that has the Pacific running a fever will last until at least February, with dire
   consequences for weather worldwide.
 image: https://media.wired.com/photos/6a98858ac297aad3e21d602c/191:100/w_1280,c_limit/GettyImages-2289573784.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The world’s leading weather organization is sounding the alarm about this year’s super El Niño, issuing its most certain forecast in the history of the organization.

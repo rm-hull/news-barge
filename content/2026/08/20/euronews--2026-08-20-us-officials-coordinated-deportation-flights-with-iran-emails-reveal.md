@@ -9,6 +9,10 @@ description: The deportation of Iranians to a country whose government has a pat
   of violent persecution against women, religious minorities and political dissidents
   has drawn significant criticism from human rights activists.
 image: https://images.euronews.com/articles/stories/09/88/14/66/1200x675_cmsv2_21578a0c-035c-53fc-a322-950b2c5a868e-9881466.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The deportation of Iranians to a country whose government has a pattern of violent persecution against women, religious minorities and political dissidents has drawn significant criticism from human rights activists.

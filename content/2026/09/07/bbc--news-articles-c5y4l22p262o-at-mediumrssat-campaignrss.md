@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Job cuts come as JLR faces falling sales and intense Chinese competition
   while trying to switch to electric vehicles.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2bb7/live/3ca652b0-aabd-11f1-b960-379ca4827622.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 ![A line of Range Rovers](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/2bb7/live/3ca652b0-aabd-11f1-b960-379ca4827622.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: London and Kyiv in deal to help stop protesters and hostile states targeting
   military bases and critical infrastructure
 image: https://i.guim.co.uk/img/media/4fbf14ac8a1a2a35225f1c5b4baa19e2e9e55878/295_0_5159_4125/master/5159.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c20e2beed0ff49885ae177645bc7b8a
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 AI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.

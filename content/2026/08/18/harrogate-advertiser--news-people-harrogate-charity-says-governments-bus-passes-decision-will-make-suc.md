@@ -10,6 +10,11 @@ description: The Government has scrapped restrictions on disabled bus passes jus
   weeks before Harrogate and Knaresborough’s MP was due to force a second Commons
   vote on it.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmYxYzMxNTFhLWNkNzUtNDJlMS05MWU1LTM4YjdjNjc3MDA4MToxNmY4ZmYzYy1jZDc1LTQ4ZGQtYTc1ZC0wODFjZDYxZDk3OGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
+- Society & Culture
 ---
 
 # Harrogate charity says Government's bus passes decision 'will make such a difference to disabled people'

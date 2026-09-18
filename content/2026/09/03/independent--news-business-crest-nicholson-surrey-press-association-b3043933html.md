@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The housebuilder told shareholders that conditions in the property market
   had been ‘more subdued’ than expected during the summer season.
 image: https://static.independent.co.uk/2025/11/18/09/18091412-63be093d-e2a2-40f1-88d7-b8113184c3a0.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Housebuilder Crest Nicholson has said its earnings are on track to slide to a surprise loss after “difficult” trading over the summer.

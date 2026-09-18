@@ -8,6 +8,13 @@ published: '2026-09-18T00:00:00Z'
 description: A new £1.5 million scheme will help innovative firms develop projects
   and boost Tees Valley’s digital and creative sectors.
 image: https://www.thenorthernecho.co.uk/resources/images/21469410.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 *(Image: Supplied)*

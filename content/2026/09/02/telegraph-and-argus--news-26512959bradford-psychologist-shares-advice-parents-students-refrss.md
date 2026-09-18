@@ -8,6 +8,13 @@ published: '2026-09-02T00:00:00Z'
 description: PARENTS are being reminded to prepare children emotionally as well as
   practically for the return to school.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397904.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Self-Improvement
+- Education & Learning
 ---
 
 *(Image: University of Bradford)*

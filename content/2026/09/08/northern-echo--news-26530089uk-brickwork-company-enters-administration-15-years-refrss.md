@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: UK brickwork company Harlequin Brickwork has entered administration,
   after being founded in 2011
 image: https://www.thenorthernecho.co.uk/resources/images/21420749.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Getty Images)*

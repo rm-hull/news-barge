@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: The new study said the temperature at which coffee and tea is drunk in
   Western populations is around 60C
 image: https://static.independent.co.uk/2025/12/16/14/27/iStock-1167543017.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 A major University of Oxford study of almost one million UK adults has found that drinking very hot tea and coffee may increase the risk of oesophageal cancer.

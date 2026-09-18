@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: ‘It feels much better speaking to a stadium full of patriots than a briefing
   room full of journalists,’ Leavitt said in Dallas Thursday
 image: https://static.independent.co.uk/2026/09/11/1/24/Screenshot-2026-09-10-at-9-17-23-PM.jpg?trim=0,15,0,14&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s former press secretary Karoline Leavitt stepped back behind a podium, but was literally left in the dark as she began her speech at the GOP’s unusual midterm convention.

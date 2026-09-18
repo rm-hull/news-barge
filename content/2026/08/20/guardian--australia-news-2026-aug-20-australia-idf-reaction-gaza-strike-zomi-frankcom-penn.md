@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Israeli government decides not to pursue criminal proceedings over 2024
   triple drone strike that killed Australian Zomi Frankcom and six others
 image: https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/100_78_2598_2078/master/2598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6043eb30488ee6c7025ed90b89267d5d
+categories:
+- UK
+- News & Politics
 ---
 
 Australia’s foreign affairs minister has expressed “outrage” over the Israel Defense Forces decision not to open a criminal investigation into Gaza strikes that killed the Australian aid worker Zomi Frankcom and six of her colleagues.

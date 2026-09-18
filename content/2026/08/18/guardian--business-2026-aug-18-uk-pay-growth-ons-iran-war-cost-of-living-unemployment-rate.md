@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Unemployment rate remained at 4.9% in the three months to end of June,
   ONS figures show
 image: https://i.guim.co.uk/img/media/e8b1cb9443719877deb9097070c24d021f9b6819/967_0_6142_4912/master/6142.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c536c839368aa67fb240f79f4c1bdb33
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Wage growth in the UK slowed in June, official figures show, as workers come under pressure from a renewed cost of living squeeze amid the economic impact from the Iran war.

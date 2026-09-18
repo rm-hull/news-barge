@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: York's popular Food and Drink Festival returns on Friday with celebrity
   chefs, tastings, and plenty of opportunities to tuck in
 image: https://www.yorkpress.co.uk/resources/images/21464545.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## 10 things not to miss at York Food and Drink Festival from this weekend

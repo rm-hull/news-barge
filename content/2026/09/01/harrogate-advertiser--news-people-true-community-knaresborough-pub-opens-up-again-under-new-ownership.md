@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: One of Knaresborough’s most historic pubs has reopened after a £250,000
   refurbishment and a change of ownership.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUxM2YwZTk2LTU5ZjItNDdmYi04MWE0LWMyOWNlZmFjNzNiYjpkMmIxNTRmMy0wNWMxLTRmOGMtOTAwZC1iMzlkZDkyZjMxZTU=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # True community Knaresborough pub opens up again under new ownership

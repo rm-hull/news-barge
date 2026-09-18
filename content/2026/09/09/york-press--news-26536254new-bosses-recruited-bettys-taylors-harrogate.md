@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:24Z'
 published: '2026-09-09T00:00:00Z'
 description: Leadership changes are underway at a well-known Yorkshire business.
 image: https://www.yorkpress.co.uk/resources/images/21431601.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Changes at the top of iconic North Yorkshire business

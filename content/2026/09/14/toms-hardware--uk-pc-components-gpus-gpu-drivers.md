@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: GPU Drivers reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![AMD GPU](https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-320-80.png)

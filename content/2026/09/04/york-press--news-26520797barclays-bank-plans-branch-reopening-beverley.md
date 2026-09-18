@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Barclays has submitted a planning application for a "retail bank fit
   out" in the vacant 39 Saturday Market, Beverley.
 image: https://www.yorkpress.co.uk/resources/images/21408943.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: ADC Consulting / Barclays / East Riding of Yorkshire Council planning)*

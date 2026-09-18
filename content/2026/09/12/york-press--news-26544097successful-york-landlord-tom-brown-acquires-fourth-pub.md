@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Young York landlord Tom Brown takes over his fourth pub, the White Swan
   in Wighill near Tadcaster, planning a refurbishment and early October…
 image: https://www.yorkpress.co.uk/resources/images/21443372.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## York landlord, 28, acquires his fourth pub - which is now being refurbished

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The prolonged dry spell has come to an end with heavy, thundery showers
   continuing to sweep across the UK, as Ben Rich explains.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 ![A discarded flood warning sign sits in a field of long dry grass](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/097c/live/a609a580-9bd7-11f1-bb4d-1147ef2e78e5.jpg)

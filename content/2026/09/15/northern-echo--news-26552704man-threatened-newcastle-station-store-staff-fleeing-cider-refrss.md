@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A man has been jailed for threatening railway station shop workers with
   a shard of glass to steal four cans of cider.
 image: https://www.thenorthernecho.co.uk/resources/images/21458939.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: British Transport Police)*

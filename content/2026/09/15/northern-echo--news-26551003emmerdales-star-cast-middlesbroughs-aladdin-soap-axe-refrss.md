@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Emmerdale actress Olivia Bromley has joined the cast of Middlesbrough
   Theatre's Christmas pantomime Aladdin, playing The Fairy of the Ring.
 image: https://www.thenorthernecho.co.uk/resources/images/21456805.jpg?type=og-image&xType=0&yType=553
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 An Emmerdale star has been confirmed as the latest big name to join this year's pantomime at Middlesbrough Theatre.

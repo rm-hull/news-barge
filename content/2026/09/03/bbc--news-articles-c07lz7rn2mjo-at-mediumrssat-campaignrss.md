@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Spain's prime minister tells parliament it is absurd to think the government
   knew and did nothing, after thousands join protests in Spanish cities.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![The Prime Minister, Pedro Sanchez, addresses a plenary session of the Congress of Deputies on 3 September 2026 in Madrid](https://ichef.bbci.co.uk/ace/standard/992/cpsprodpb/8fb5/live/4dfc9a20-a792-11f1-b64a-71b1e45ff5c7.jpg)

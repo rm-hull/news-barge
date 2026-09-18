@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Republican senator tries to assuage concerns but does not offer details
   of Graham’s national security experience
 image: https://i.guim.co.uk/img/media/b5c07786267821d0bac0c6a21e311e3286840c1a/282_0_2818_2254/master/2818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9f68f4eb98eb92db038dd3f1e12f4c6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Tim Scott defended fellow US South Carolina Republican senator Darline Graham’s knowledge of national security issues ahead of their state’s runoff election on Tuesday.

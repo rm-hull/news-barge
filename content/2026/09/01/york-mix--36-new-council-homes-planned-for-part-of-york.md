@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:28:38Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/790683930_1040970718776328_1120653888969122895_n.jpg
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Work is planned to regenerate the South Walmgate area of York with 36 new Council homes and new landscaping.

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Togo-sponsored resolution calls to phase out traditional map that depicts
   continent as similar size to Greenland
 image: https://i.guim.co.uk/img/media/71b8b31a0e418f2093686dd8f0ce5c843b3989ca/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4bf8b0c1c010e49c5b5d60a55e13c35
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The UN general assembly will vote on Friday on a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.

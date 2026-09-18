@@ -9,6 +9,10 @@ scraped_at: '2026-08-29T13:49:19Z'
 published: '2026-08-29T00:00:00Z'
 description: An obvious pump-and-dump from the outset.
 image: https://cdn.mos.cms.futurecdn.net/Naa9i5RiWd85B2GTsqkKzK-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
 ---
 
 ![GTA VI gameplay screenshot (police car chase)](https://cdn.mos.cms.futurecdn.net/Naa9i5RiWd85B2GTsqkKzK.jpg) 

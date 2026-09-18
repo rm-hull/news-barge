@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: A new car dealership has opened in Bradford after highways officers signed
   off on conditions to prevent it causing traffic issues.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346965.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 ### What is the Public Notice Portal?

@@ -9,6 +9,10 @@ description: A subset of male gamers have spent years warning that the transgres
   series has been neutered by progressive developers, but the backlash isn’t taking
   hold.
 image: https://media.wired.com/photos/6aa2e470eb334db5ae141f8b/191:100/w_1280,c_limit/Right-Wingers-Melting-Down-Over-GTA-Culture-Jason_Duval_06.jpg
+categories:
+- Technology & Software
+- Science
+- Video Gaming
 ---
 
 Rockstar Games’ best-selling *Grand Theft Auto* series wasn’t often accused of political sensitivity during its legendary run from the late 1990s through the early 2010s.

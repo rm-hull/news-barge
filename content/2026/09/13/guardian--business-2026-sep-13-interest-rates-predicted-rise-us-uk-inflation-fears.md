@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Iran war and turbulent global bond markets add to pressure as rate decisions
   loom this week in major western economies
 image: https://i.guim.co.uk/img/media/3d914e3d3f1073ed14d9b83e2cc44a98327a4317/0_0_2890_2311/master/2890.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cefaa2478b4ec188486d8d4bc3930190
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Central bankers in economies including the US, Japan and the UK will face a moment of truth this week, as surging inflation raises the prospect of higher interest rates.

@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: County Durham actor Charlotte Riley has officially joined the cast of
   Apple TV+ hit Ted Lasso, with viewers already speculating on her role in…
 image: https://www.thenorthernecho.co.uk/resources/images/21424198.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 County Durham actor Charlotte Riley has officially joined the cast of Apple TV+ hit Ted Lasso, with viewers already speculating that her character could play a key role in Ted’s future.

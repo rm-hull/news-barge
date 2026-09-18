@@ -10,6 +10,10 @@ description: Nvidia just announced custom high-bandwidth memory that almost nobo
   is allowed to buy, and the one named customer has not specified which chip will
   use it
 image: https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia Blackwell GPU](https://cdn.mos.cms.futurecdn.net/THrQgcJizbtksGzNr9f3qb.jpg) 

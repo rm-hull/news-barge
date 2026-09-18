@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Italian authorities are investigating the death of a British man whose
   body was found in Sicily on Sunday.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZmODQxZTQzLTNjZjUtNGIxNi04OTQzLTM0ZTE4MzE4NDQyYjoxNGRkYzc0OC1jMTczLTRkNjMtYWEzMC1mZTYwZWQ5ZGUxMDc=.?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Italian police investigating death of 35-year-old Yorkshire man in Sicily

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: McDonald’s has confirmed the opening date of its new Darlington drive-thru
   - and there are just two weeks to go.
 image: https://www.thenorthernecho.co.uk/resources/images/21411628.jpg?type=og-image&xType=0&yType=130
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: A combination of rapid advances, recursive self-improvement, and agentic
   swarms are genuinely “spooking people” inside big labs.
 image: https://media.wired.com/photos/6aa1c85ef107c265a15668ae/191:100/w_1280,c_limit/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Earlier this year, Rishub Jain left his position as an artificial intelligence researcher at Google DeepMind after a revelation.

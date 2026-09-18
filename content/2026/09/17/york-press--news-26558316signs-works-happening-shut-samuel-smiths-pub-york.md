@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The York Arms in High Petergate – owned by Samuel Smith’s Brewery – saw
   signs of works activity this morning, with the main door open and…
 image: https://www.yorkpress.co.uk/resources/images/21467397.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 *(Image: Simon Walton)*

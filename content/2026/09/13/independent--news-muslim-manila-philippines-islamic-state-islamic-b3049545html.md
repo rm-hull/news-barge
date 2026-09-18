@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: A Muslim autonomous region in the southern Philippines is holding its
   first parliamentary elections
 image: https://static.independent.co.uk/2026/09/13/05/Philippines_Elections_Bangsamoro_What_to_Know_32764.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A predominantly Muslim region in the southern Philippines held its first parliamentary elections on Monday, seen as a crucial step in the long quest for self-rule after decades of insurgency and violence.

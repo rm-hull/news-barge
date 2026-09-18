@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Reports say Duke and Duchess of Sussex may have returned to Britain due
   to ‘top secret’ acting role for Meghan – we try to guess what it might be
 image: https://i.guim.co.uk/img/media/d1e977128d1fd4ec951fa106d604379cf2eff139/253_57_2368_1894/master/2368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4a24ba85273423f3c57b03e0e33be2
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 In 2022, two years after she and Prince Harry bolted to California in an unhappy exit from the royal family, the duchess of Sussex was asked if she could foresee a return to acting. “No, I’m done,” she told Variety magazine. “I guess never say never, but my intention is to absolutely not.”

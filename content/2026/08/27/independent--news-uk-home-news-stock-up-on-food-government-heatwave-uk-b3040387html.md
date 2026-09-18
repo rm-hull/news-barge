@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: People will be urged to prepare for extreme weather, cyber attacks, and
   war
 image: https://static.independent.co.uk/2025/05/29/11/iStock-521812351.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 UK households are being urged to stock up on essential items in case of emergencies, according to reports.

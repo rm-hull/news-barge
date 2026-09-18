@@ -9,6 +9,12 @@ published: '2026-09-14T00:00:00Z'
 description: A historic former pub in Otley will be saved from decay after plans were
   approved for its conversion into housing.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453192.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 *(Image: Google)*

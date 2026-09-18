@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: It comes after the interest rate on 30-year bonds reached the highest
   level in almost 20 years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A stock marker trader looks at a large screen](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg)

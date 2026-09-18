@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The longest road trip in NFL history has brought the San Francisco 49ers
   and the Los Angeles Rams to Melbourne, Australia
 image: https://static.independent.co.uk/2026/09/10/22/Rams_Football_2_412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Sports
 ---
 
 The longest road trip in NFL history has brought the San Francisco 49ers and the Los Angeles Rams to Melbourne, Australia, for a season opener before more than 100,000 fans packed into the Southern Hemisphere’s largest stadium.

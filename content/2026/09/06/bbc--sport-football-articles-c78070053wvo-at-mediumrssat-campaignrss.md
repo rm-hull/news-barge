@@ -8,6 +8,10 @@ scraped_at: '2026-09-06T15:24:33Z'
 published: '2026-09-06T00:00:00Z'
 description: How Everton and Manchester United's players rated at Hill Dickinson Stadium.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aedf/live/a1defe20-a9fa-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United skipper Bruno Fernandes tries to get away from Everton midfielder Kiernan Dewsbury-Hall](https://ichef.bbci.co.uk/ace/standard/958/cpsprodpb/aedf/live/a1defe20-a9fa-11f1-a291-b542ee92de7c.jpg)

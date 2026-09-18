@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Olivia Bromley said it was "very emotional" leaving her character Dawn
   Fletcher behind but wants to try out lots of different roles.
 image: https://www.gazetteherald.co.uk/resources/images/21393439.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: YouTube/ITV)*

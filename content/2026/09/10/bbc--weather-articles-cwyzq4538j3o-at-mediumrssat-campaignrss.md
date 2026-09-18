@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Atlantic hurricane season has reached its climatological peak, but
   a strong El Niño means no hurricanes have formed this year.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The shoreline in Galveston, Texas during a tropical storm warning on June 17, 2026](https://ichef.bbci.co.uk/ace/standard/767/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png)

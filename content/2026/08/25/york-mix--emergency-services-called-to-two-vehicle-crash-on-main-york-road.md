@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T08:56:10Z'
 published: '2026-08-25T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/10/police-van-cones-road-closed-rtc.webp
+categories:
+- Local
+- York
+- Automotive
 ---
 
 Emergency services were called to a crash on a main York road yesterday evening (Monday).

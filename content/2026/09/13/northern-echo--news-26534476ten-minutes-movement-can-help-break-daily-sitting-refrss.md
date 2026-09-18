@@ -8,6 +8,13 @@ published: '2026-09-13T00:00:00Z'
 description: Think you don't have time to work out? Try taking ten minutes to walk
   around or stretch to increase your daily movement
 image: https://www.thenorthernecho.co.uk/resources/images/21428915.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Self-Improvement
+- Health & Fitness
+- Lifestyle & Fashion
 ---
 
 **Think you don't have time to work out? Try taking ten minutes to walk around or stretch to increase your daily movement**

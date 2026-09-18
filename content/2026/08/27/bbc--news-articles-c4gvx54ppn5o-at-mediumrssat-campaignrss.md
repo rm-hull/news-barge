@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Some 33 people from the UK are missing, including a 13-year-old girl
   and 14-year-old boy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72a1/live/efb60850-a225-11f1-bd6a-3d72a7f54a3e.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The backs of two women, a man and a boy looking out to partially submerged trucks and buildings as mud covers a section of a highway in Nuwakot in central Nepal](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/72a1/live/efb60850-a225-11f1-bd6a-3d72a7f54a3e.jpg)

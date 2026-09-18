@@ -7,6 +7,12 @@ scraped_at: '2026-09-08T12:51:34Z'
 published: '2026-09-08T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/01/ouse-bridge-york-night-river.webp
+categories:
+- Local
+- York
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 Police have issued an update on why Ouse Bridge in York was closed last night (Monday)

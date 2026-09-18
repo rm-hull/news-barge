@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Arthur Fery is unable to produce a repeat of his Wimbledon heroics as
   his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a980/live/7fd87b70-a659-11f1-b9c3-ff4913859afc.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Arthur Fery thanks the crowd as he leaves the court following his defeat at the US Open](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/a980/live/7fd87b70-a659-11f1-b9c3-ff4913859afc.jpg)

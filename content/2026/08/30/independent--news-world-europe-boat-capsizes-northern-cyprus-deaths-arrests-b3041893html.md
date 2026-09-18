@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Ferry left the port of Kyrenia, a popular tourist destination, on Sunday
   morning - but capsized within minutes
 image: https://static.independent.co.uk/2026/08/30/17/2026-08-30T145628Z_272988605_RC229NATPGZ3_RTRMADP_3_CYPRUS-VESSEL-CAPSIZE-RESCUE.JPG?trim=0,280,0,281&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least eight people died and 18 were missing after a ferry carrying around 270 passengers and crew capsized off North Cyprus on Sunday.

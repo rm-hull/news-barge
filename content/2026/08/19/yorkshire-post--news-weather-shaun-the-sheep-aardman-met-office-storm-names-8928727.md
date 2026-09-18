@@ -9,6 +9,12 @@ description: The Met Office has invited the public to choose between two favouri
   characters from the Oscar-winning animation studio behind Wallace & Gromit to be
   a future storm name.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/19/7/03/01M0CA2Y8FS07VH7XM5H00NNG9.jpg?trim=0,390,0,390&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Film & TV
 ---
 
 # Met Office invites public to name storm - after Shaun The Sheep characters

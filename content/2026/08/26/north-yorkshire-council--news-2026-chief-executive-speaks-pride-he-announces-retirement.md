@@ -9,6 +9,13 @@ description: The chief executive of North Yorkshire Council has spoken of his �
   pride” at helping to shape the authority’s future as he has announced he is to retire
   next year.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/Richard%20Flinton%20in%20grounds%20of%20County%20Hall.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 ![Richard Flinton pictured sitting on a bench in the grounds of County Hall in Northallerton.](https://www.northyorks.gov.uk/sites/default/files/2026-08/Richard%20Flinton%20in%20grounds%20of%20County%20Hall.jpg) 

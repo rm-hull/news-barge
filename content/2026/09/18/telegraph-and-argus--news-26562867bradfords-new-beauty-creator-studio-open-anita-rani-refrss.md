@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: More than 100 content creators have registered their interest in a new
   Creator Studio opening in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452056.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Creator Economy & Marketing
 ---
 
 *(Image: Supplied)*

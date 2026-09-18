@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A red convertible Jaguar was found abandoned in Witton Park after a 'drive-by
   murder bid' in Gainford.
 image: https://www.thenorthernecho.co.uk/resources/images/21390309.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: STUART BOULTON)*

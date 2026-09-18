@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Baylee Johnson, 24, was 15 weeks pregnant with her son, Johnny, when
   the fatal incident occurred near Sumter, South Carolina
 image: https://static.independent.co.uk/2026/09/04/20/16/Baylee-Johnson.png?trim=0,34,0,34&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A 24-year-old South Carolina woman and her unborn son have died following an incident in Sumter County where her hair became entangled in a go-kart.

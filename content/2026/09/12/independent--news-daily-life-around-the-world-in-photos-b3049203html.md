@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A look at everyday moments across countries, cultures and communities
   worldwide.
 image: https://static.independent.co.uk/2026/09/12/21/Sudan_Daily_Life_7_223.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A look at everyday moments across countries, cultures and communities worldwide.

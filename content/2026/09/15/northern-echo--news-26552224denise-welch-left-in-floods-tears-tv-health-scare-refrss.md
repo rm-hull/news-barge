@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Denise Welch was "in floods of tears" after a health scare threatened
   her role in a new TV thriller filmed near the County Durham village…
 image: https://www.thenorthernecho.co.uk/resources/images/13519287.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Denise Welch was left "in floods of tears" after a health scare threatened her role in a new TV thriller filmed near the County Durham village where she grew up.

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: 'Tony Ticehurst confronts Daniel Billings during sentence hearing in
   regional NSW, stating: ‘When she died, part of me died with her’'
 image: https://i.guim.co.uk/img/media/7fa62bfc36ccb37a298bc169d36fa4819d9a0a7c/0_678_2520_2014/master/2520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34e6819afa0051cc4b0bc00e33dcddf4
+categories:
+- UK
+- News & Politics
+- True Crime
+- Family & Parenting
 ---
 
 ![A court sketch of Daniel Billings in late August.](https://i.guim.co.uk/img/media/ea9660eb62a69eca3e16ea16ecfdfc45ff1e47e0/255_0_3099_2480/master/3099.jpg?width=445&dpr=1&s=none&crop=none)

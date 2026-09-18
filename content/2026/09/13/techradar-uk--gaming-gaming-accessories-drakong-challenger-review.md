@@ -9,6 +9,8 @@ published: '2026-09-13T00:00:00Z'
 description: The Drakong Challenger may be light on features, light on the scales,
   and light on your wallet — but it hits hard where it counts.
 image: https://cdn.mos.cms.futurecdn.net/aJJV4zMTd2eWbqbRMNAYdk-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

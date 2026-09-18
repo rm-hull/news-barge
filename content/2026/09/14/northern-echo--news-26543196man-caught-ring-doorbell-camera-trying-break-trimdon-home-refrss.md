@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A prolific offender who committed crimes to fund his drug addiction is
   back behind bars after a night-time spree in County Durham villages.
 image: https://www.thenorthernecho.co.uk/resources/images/21441815.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Durham Constabulary)*

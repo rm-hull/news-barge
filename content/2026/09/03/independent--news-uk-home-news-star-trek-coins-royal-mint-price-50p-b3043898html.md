@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Mint has unveiled two 50p coin designs, with some featuring colour
   to reflect the vivid outfits worn in the show
 image: https://static.independent.co.uk/2026/09/02/15/01M1GTFMDWQBA2XPZAN97NQ2Z7.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Royal Mint is releasing a new range of commemorative coins to mark six decades of Star Trek on television screens.

@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: Wayne Chapman, 44, from Spennymoor will climb volcanoes in Ecuador to
   raise funds for Alzheimer’s Research UK in memory of his uncle.
 image: https://www.thenorthernecho.co.uk/resources/images/21341950.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
+- Technology & Software
 ---
 
 *(Image: Provided)*

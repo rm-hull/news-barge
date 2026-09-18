@@ -10,6 +10,10 @@ description: An old building in Lockland, Ohio, bustles every Friday afternoon, 
   sound of hammering old bicycle tires mixing with laughter and conversation that
   switches from English to the West African language Pular.
 image: https://static.independent.co.uk/2026/09/17/11/After_the_Border_Melting_Pot_Photo_Essay_616_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 An old building in Lockland, Ohio, bustles every Friday afternoon, the sound of hammering old bicycle tires mixing with laughter and conversation that switches from English to the West African language Pular.

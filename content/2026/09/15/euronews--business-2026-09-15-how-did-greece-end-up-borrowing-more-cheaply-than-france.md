@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Greece now pays less than France to borrow despite carrying more debt.
   Here’s how Athens rebuilt market trust while Paris lost fiscal credibility.
 image: https://images.euronews.com/articles/stories/09/91/34/87/1200x675_cmsv2_6677464a-9b5a-545d-9e95-f0a68bcc63b4-9913487.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- History
 ---
 
 ## Greece now pays less than France to borrow despite carrying more debt. Here’s how Athens rebuilt market trust while Paris lost fiscal credibility.

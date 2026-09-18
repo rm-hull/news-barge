@@ -9,6 +9,9 @@ description: Previous brain implants have enabled people with paralysis to eithe
   speak or move, but a new, larger one enabled them to do both simultaneously via
   an avatar
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![An avatar used in the study to enable the paralysed people to communicate](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312425487.jpg?w=840)

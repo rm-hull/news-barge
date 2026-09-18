@@ -10,6 +10,10 @@ description: A determined Ripon teenager living with a life-limiting condition w
   is an ace at wheelchair football has stunned even herself with an impressive set
   of GCSE results.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJjOTVlZjk5LTVmNTQtNDNjMC04ODdkLTJiMzc2Y2FhZTVhZjo5MTcwOGVkOC01MDczLTQ0MTEtYWM4Mi1hNmI1NjkzMWNiMTM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Ripon teenager with rare muscle disease 'surprised even herself' with success at football and exams

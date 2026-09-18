@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Harrogate has become the first NHS Trust to introduce new AI technology
   which will help breast cancer patients get faster diagnosis and treatment.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ1MGM2ZmI4LTE4NzMtNDc4ZC04MWFhLTJlZTk2NzNhYjQyMTozNGMzYTY0Yi0wMTJlLTQzMTEtOThmOS0xNzZiNzdjYjkyMDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # Harrogate is first NHS Trust in England to launch new AI technology for breast cancer patients

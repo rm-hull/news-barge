@@ -9,6 +9,10 @@ description: This week on “Uncanny Valley,” we dig into the latest predictio
   buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to
   talk about “rouge” AI agents
 image: https://media.wired.com/photos/6a98be202f048bd98be06316/191:100/w_1280,c_limit/Uncanny-Valley-George-Santos-Politics-2211292507.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Uncanny Valley is back! This week, senior writer Kate Knibbs joins Brian Barrett, Zoë Schiffer, and Leah Feiger to discuss the two incidents that have been making noise in prediction markets: George Santos getting lifetime ban from Kalshi and a Google engineer’s Polymarket insider-trading case. Plus, reporters reverse-engineered Flock’s AI-powered person-search tool and spoke to experts about the accuracy of such technology, and the hosts unpack the online meltdown over how to talk about “rogue” AI agents.

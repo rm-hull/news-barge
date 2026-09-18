@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: A human rights group says that forced labor persists on massive sugarcane
   plantations across the Dominican Republic
 image: https://static.independent.co.uk/2026/08/18/20/Dominican_Republic_US_Forced_Labor_15671.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A report released Tuesday by a human rights group found that forced labor persists on massive sugarcane plantations across the Dominican Republic, which exports sugar and other products to the U.S. — its largest market.

@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A cliff lift in Scarborough which is believed to be Britain’s oldest
   funicular cliff lift has been closed by the council due to ageing infrastructure.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmI1Mzk4NTQyLTQxYzQtNDMzYi1iNmUwLTAyNWMwZDA1YzM5YToxNzYwMDQ2My1kYzcwLTRiNTQtOWEzOC01OGQxYzBkMzJlMzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Scarborough Spa Cliff Lift: History of Britain’s oldest funicular cliff lift that has closed after 150 years

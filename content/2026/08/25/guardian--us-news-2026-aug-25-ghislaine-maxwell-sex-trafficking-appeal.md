@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Maxwell sought to vacate Epstein-related conviction, alleging hidden
   trial evidence and juror’s abuse history
 image: https://i.guim.co.uk/img/media/3f473f0b7e0731d09078671529f9da4fae2e4fbf/6_0_4684_3748/master/4684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a99813f606a67a8092882792278e333
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A federal judge has rejected Ghislaine Maxwell’s legal effort to throw out her 2021 conviction on sex-trafficking charges and 20-year prison sentence, calling her claims “demonstrably meritless, and generally based on speculation, distortions, and/or outright falsehoods”.

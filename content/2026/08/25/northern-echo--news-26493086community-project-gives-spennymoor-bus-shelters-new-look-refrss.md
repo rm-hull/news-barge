@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Five bus shelters across Spennymoor have been transformed with vibrant
   artwork created by local artists, schools and community groups as part of a…
 image: https://www.thenorthernecho.co.uk/resources/images/21368653.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Bus shelters across Spennymoor have been given a colourful makeover as part of a community project celebrating local history, heritage and community spirit.

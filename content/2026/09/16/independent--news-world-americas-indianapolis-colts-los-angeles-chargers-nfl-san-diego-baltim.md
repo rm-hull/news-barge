@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges
   in his alleged drunken driving incident, according to court records
 image: null
+categories:
+- News & Politics
+- UK
 ---
 
 Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges in an alleged drunken driving incident, according to court records.

@@ -9,6 +9,10 @@ description: The former chancellor and chair of the British Museum tells The Ind
   editor-in-chief Geordie Greig that much like the Bayeux Tapestry, which he has just
   brought to Britain, Brexit is not the end of the story
 image: https://static.independent.co.uk/2026/09/11/10/24/B045L001_260907P5-00_00_41_20-Still002.png?trim=0,156,0,156&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Britain’s economy has “fallen off a cliff” since Brexit and the only way to recover is by rejoining the Brussels-run customs union.

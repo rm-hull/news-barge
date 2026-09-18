@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The BenQ MA270S fuses beautiful design, Mac-readiness, and elements like
   HDMI and USB to allow this monitor to be used for more than just a one Mac setup.
 image: https://cdn.mos.cms.futurecdn.net/nj3ypCUuWc2WZ3ciAXm3p5-2560-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Get ready for more shocking twists in the new season of The Traitors
   Australia
 image: https://cdn.mos.cms.futurecdn.net/du2MotFeBF6qpBbXDQHTUk-565-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![The Traitors Australia season 3 host Gretel Killeen wearing a dark blush read ball gown smiling in foreground, backed by two hooded Traitors 3 contestants in crimson robes](https://cdn.mos.cms.futurecdn.net/du2MotFeBF6qpBbXDQHTUk.jpg) 

@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T09:45:05Z'
 published: '2026-08-23T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/10/york-riverside-night-kings-staith-ouse-bridge.webp
+categories:
+- Local
+- York
+- History
 ---
 
 Emergency services came to the aid of someone in the river in York early this morning (Sunday).

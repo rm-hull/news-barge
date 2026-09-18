@@ -9,6 +9,8 @@ published: '2026-08-20T00:00:00Z'
 description: Google's latest foldable is an impressive device with key refinements
   over its predecessor, but it doesn't do enough to match Samsung's best.
 image: https://cdn.mos.cms.futurecdn.net/GuQXVWwhjHToqfmoFYMdhD-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

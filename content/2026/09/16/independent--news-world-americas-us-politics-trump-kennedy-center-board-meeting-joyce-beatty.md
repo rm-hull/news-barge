@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: President was ‘screaming and hollering’ for nearly 10 minutes after a
   judge blocked attempts to rename the venue after himself, Beatty says
 image: https://static.independent.co.uk/2026/08/27/11/2281284410..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The congresswoman leading a legal battle against Donald Trump’s attempts to rename the Kennedy Center after himself said the president flew into a “tantrum" and repeatedly insulted her during a board meeting on the venue’s closure.

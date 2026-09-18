@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: CITY of Bradford Metropolitan District Council is introducing new parking
   restrictions on Tong Lane from tomorrow,
 image: https://www.thetelegraphandargus.co.uk/resources/images/21350135.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Google Street View)*

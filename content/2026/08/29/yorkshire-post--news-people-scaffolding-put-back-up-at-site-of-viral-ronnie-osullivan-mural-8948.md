@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Scaffolding has been put back up at a snooker club wall where its mural
   of Ronnie O’Sullivan went viral – with some comparing it to a zombie.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUzNmQ2MTRiLThiNmMtNDQwNy1iYzdhLTEzYzhjZmI0YWU4Yjo4ZmIyZWEyMS0zNGZmLTQxOGEtYjVlZi0zOWUyNTQxYTY2NDA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # Scaffolding put back up at site of viral Ronnie O’Sullivan mural

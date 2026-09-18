@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: 'Yorkshire Wildlife Trust shares where to see Yorkshire’s best autumn
   wildlife: colourful woodlands, migrating birds, barn owls and fungi at nature…'
 image: https://www.yorkpress.co.uk/resources/images/21451901.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Experts share the best places to see autumn wildlife near York and in Yorkshire

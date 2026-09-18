@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T12:44:58Z'
 published: '2026-09-02T00:00:00Z'
 description: Proposals to cut some parking charges in York have been unveiled.
 image: https://www.yorkpress.co.uk/resources/images/21071148.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Kevin Glenton)*

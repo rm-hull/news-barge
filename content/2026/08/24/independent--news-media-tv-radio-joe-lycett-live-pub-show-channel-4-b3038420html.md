@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: The 38-year-old will open an east London pub called The Lycett Arms for
   just an hour a week
 image: https://static.independent.co.uk/2026/08/24/18/01M0S630HBQGZ7H311H5PWR0CG.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Comedian Joe Lycett aims to "celebrate our British boozers" in a new live pub series set to broadcast on Channel 4.

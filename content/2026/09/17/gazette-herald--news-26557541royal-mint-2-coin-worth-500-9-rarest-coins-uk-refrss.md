@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The rare coin, which has previously been sold for more than £500, is
   still believed to be in circulation
 image: https://www.gazetteherald.co.uk/resources/images/16968087.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Getty/duncan1890)*

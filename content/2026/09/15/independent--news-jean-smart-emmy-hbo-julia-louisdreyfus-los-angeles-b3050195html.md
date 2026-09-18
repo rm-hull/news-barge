@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Jean Smart has achieved a historic milestone by winning her fifth Emmy
   for lead actress in a comedy series for every season of “Hacks.”
 image: https://static.independent.co.uk/2026/09/15/02/2_26_Emmy_Awards_-_Show_86458.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Five seasons of “Hacks.” Five Emmy Awards for Jean Smart.

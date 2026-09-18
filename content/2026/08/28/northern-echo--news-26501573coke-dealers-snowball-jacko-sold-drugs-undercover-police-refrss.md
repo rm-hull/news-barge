@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Two cocaine dealers dubbed 'Snowball' and 'Jacko' sold drugs to undercover
   police at a Darlington pub.
 image: https://www.thenorthernecho.co.uk/resources/images/21380815.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Durham Constabulary)*

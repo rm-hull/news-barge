@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: ‘This is just the latest example of how far Donald Trump will go to interfere
   in our elections,’ Democratic Senate Minority Leader Chuck Schumer says
 image: https://static.independent.co.uk/2026/09/14/23/2294594511..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Homeland Security investigators may have violated state laws during a rushed voter-fraud investigation that likely flagged American citizens as suspects, according to a report released Monday.

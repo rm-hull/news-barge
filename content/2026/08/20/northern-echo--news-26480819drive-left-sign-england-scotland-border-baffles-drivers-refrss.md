@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A roadside sign near the Scotland–Northumberland border has raised a
   few eyebrows by reminding motorists to “Drive on the left”.
 image: https://www.thenorthernecho.co.uk/resources/images/21347085.jpg?type=og-image&xType=1&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

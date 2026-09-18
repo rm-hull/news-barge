@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Stephen Morgan felt ill when stepping into a food processing plant’s
   meat storage facility in the Lake District.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBmMzc2NWY1LTRjZGQtNGY4NC04NDEwLWFhZGNhNDBiYTE5ZDoxYTA0MjJhYy04OWIwLTQxODMtYmYzZS03ZTQ1ODNhMmRlZjY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Farming Minister 'feels faint' in Lake District meat processing plant

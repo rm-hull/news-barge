@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Before Colman's made Norwich famous, Durham's Mrs Clements revolutionised
   mustard-making in 1720 and helped create English mustard.
 image: https://www.thenorthernecho.co.uk/resources/images/21399773.jpg?type=og-image&xType=0&yType=94
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 When people think of English mustard, Norwich and the famous Colman’s brand usually spring to mind.

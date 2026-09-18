@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:15:49Z'
 published: '2026-08-28T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/sherburn-aero-club-aircraft.png
+categories:
+- Local
+- York
+- Sports
 ---
 
 Sherburn Aero Club has cancelled tomorrow’s annual family event, Saturday 29th August, due to the severe weather.

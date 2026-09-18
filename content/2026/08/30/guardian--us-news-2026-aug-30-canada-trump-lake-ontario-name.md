@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign
   and replacing it with Lake America sign
 image: https://i.guim.co.uk/img/media/011f2d2e2c8ef5247abade39e8218bd70c89a184/417_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ba2100a622fff6283b38d979d9514a3
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative renaming of Lake Ontario, with the country erecting a giant sign saying “Lake Ontario. Now and Always” – and the American president posting a video of him tearing down an avatar of that sign, erecting a replacement saying Lake America, and dancing to YMCA.

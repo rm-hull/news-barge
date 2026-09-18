@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The air ambulance were called to help assist with an incident where a
   person fell from their bike down an embankment at North York Moors National…
 image: https://www.thenorthernecho.co.uk/resources/images/20849491.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: YORKSHIRE AIR AMBULANCE)*

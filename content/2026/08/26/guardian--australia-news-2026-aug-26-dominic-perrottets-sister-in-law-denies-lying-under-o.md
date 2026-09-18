@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Anita Perrottet tells an inquiry hearing that hundreds of thousands of
   dollars in payments to her were for ‘strategic and marketing advice’
 image: https://i.guim.co.uk/img/media/bc0c74299e4f381815e960e4c282b1319e328874/0_53_1280_1025/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f588231bd64a25b3b9c94ccff074390c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The sister-in-law of Dominic Perrottet has rejected the suggestion she had been put in an “impossible situation” and lied under oath to cover illegal donations to her husband, an inquiry has heard.

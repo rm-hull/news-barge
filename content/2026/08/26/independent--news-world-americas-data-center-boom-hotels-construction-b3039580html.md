@@ -9,6 +9,11 @@ description: Ambitious developers increasingly willing to buy up run-down resort
   to capitalize on demand for rooms from construction workers arriving to help build
   units to support digital economy
 image: https://static.independent.co.uk/2026/08/26/11/07/GettyImages-1464581170.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The rise and rise of data centers is having an unexpected consequence for the U.S. real estate sector – driving up the acquisition of crumbling hotels by ambitious developers prepared to renovate and upgrade them, according to a report.

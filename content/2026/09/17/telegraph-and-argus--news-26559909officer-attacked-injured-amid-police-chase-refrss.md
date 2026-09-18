@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: An officer was assaulted amid a police chase across Manchester and West
   Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12350600.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: West Yorkshire Police)*

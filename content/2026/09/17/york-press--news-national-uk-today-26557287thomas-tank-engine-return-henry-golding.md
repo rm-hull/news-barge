@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Actor Henry Golding will narrate the new series of Thomas the Tank Engine,
   titled Thomas & Friends Railway Stories.
 image: https://www.yorkpress.co.uk/resources/images/21465787.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Doug Peters/PinPep/Mattel/PA)*

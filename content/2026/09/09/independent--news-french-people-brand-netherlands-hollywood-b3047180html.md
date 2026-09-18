@@ -9,6 +9,10 @@ description: Two Renoir paintings stolen from a small French museum have yet to 
   recovered but if the thieves are hoping to cash in on the artwork, they would be
   hard-pressed to find a buyer
 image: https://static.independent.co.uk/2026/09/09/11/France_Renoir_Heist_72438.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Two Renoir paintings stolen from a small French museum have yet to be recovered but if the thieves are hoping to cash in on the artwork, they would be hard-pressed to find a buyer.

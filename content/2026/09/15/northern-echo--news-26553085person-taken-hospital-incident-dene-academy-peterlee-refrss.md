@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A patient was taken to hospital after a medical emergency at a Peterlee
   school.
 image: https://www.thenorthernecho.co.uk/resources/images/21459564.jpg?type=og-image&xType=0&yType=4
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GOOGLE MAPS)*

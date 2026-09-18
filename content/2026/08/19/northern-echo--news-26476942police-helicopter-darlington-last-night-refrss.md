@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A NPAS police helicopter was spotted flying over Darlington and Newton
   Aycliffe last night as part of a training exercise.
 image: https://www.thenorthernecho.co.uk/resources/images/19775964.jpg?type=og-image&xType=0&yType=77
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: THE NORTHERN ECHO)*

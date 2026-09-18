@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: From medieval origins to Victorian grandeur, discover the history of
   St James' Church in Hunstanworth, one of County Durham's finest Grade…
 image: https://www.thenorthernecho.co.uk/resources/images/21441797.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: GOOGLE)*

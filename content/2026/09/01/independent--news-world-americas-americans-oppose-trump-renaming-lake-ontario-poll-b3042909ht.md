@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Trump’s new name for the lake comes amid a bitter trade war between the
   US and its northern neighbor
 image: https://static.independent.co.uk/2026/09/01/17/2026-09-01T100041Z_319052096_RC2J8NA1VS6F_RTRMADP_3_USA-TRUMP-CANADA-POLL.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 While President Donald Trump seems to love the renaming of Lake Ontario to “Lake America,” the rest of America isn’t as thrilled, a new poll found.

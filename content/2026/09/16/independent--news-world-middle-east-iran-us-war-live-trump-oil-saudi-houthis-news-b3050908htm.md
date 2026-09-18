@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Trump says he is open to negotiations to end the war with Iran, but stresses
   the final decision rests with him
 image: https://static.independent.co.uk/2026/09/15/08/2284105153..?trim=0,0,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Saudi Arabia's air defences destroyed a Houthi drone south of Mecca before it entered prohibited airspace over the holy city, a spokesperson for the Saudi-led military coalition in Yemen said on Wednesday.

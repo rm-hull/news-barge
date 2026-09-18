@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Ford warned that ‘everything is on the table’ should the dispute deteriorate,
   including shutting off electricity exports and critical mineral shipments from Ontario
 image: https://static.independent.co.uk/2026/08/21/10/2251898766..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 Ontario Premier Doug Ford said that Ronald Reagan would be "throwing up" over President Donald Trump’s trade policy as he threatened to cut off electricity and critical minerals to the U.S. as a trade dispute escalates.

@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: Peter Sparkes says there has been "deliberate misinformation" spread
   about the charity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f26/live/fe5fa910-abad-11f1-8e72-a346833ed029.png
+categories:
+- UK
+- News & Politics
 ---
 
 ![An RNLI boat speeds along the sea coast with three volunteers on board.](https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/1f26/live/fe5fa910-abad-11f1-8e72-a346833ed029.png)

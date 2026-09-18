@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: President boasts about his own presence at World Trade Center site in
   the aftermath of attack 25 years ago this Friday
 image: https://static.independent.co.uk/2026/09/08/16/2294162825..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 President Donald Trump used a White House address marking the upcoming 25th anniversary of the September 11, 2001 terror attacks to tout his administration's economic record and brag about his own presence in the aftermath of the deadliest of that day’s attacks.

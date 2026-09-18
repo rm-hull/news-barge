@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Burnham's exchanges with Kemi Badenoch slipped into familiar territory
   of trading barbs, writes Alex Forsyth.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b987/live/fc2b1900-a6cf-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Andy Burnham is wearing a dark coloured suit jacket, white shirt, blue tie and glasses. He has short, black hair. He is stood up and is speaking. Behind him are MPs sat on the green benches of the House of Commons.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/b987/live/fc2b1900-a6cf-11f1-aed2-8d6da8d75094.jpg)

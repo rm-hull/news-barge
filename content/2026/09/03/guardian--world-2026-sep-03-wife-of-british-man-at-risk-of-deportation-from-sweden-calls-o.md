@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Case is latest in string of post-Brexit deportations from country, which
   has been criticised for high refusal rate for British people to remain
 image: https://i.guim.co.uk/img/media/0b898acc74660ccefaa0777bfd9d111aacb71e3c/417_69_3245_2597/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8a0db62944b393a8201f16bf7aa0613
+categories:
+- UK
+- News & Politics
 ---
 
 The wife of a British man detained by police in Stockholm on Tuesday ahead of a threatened deportation has pleaded with Andy Burnham to get involved in the Brexit catastrophe unfolding for many British citizens in Sweden.

@@ -11,6 +11,10 @@ description: 'Exclusive: Whistleblowers claim patients have been left dying in A
   tell Rebecca Thomas they are finally speaking out after years of their raised concerns
   being met with inaction'
 image: https://static.independent.co.uk/2026/08/19/11/07/salford-royal-hospital-indycomp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Patients have died or have been harmed because of care failures at an under-fire NHS trust which staff fear could become the next major health scandal, whistleblowers have claimed.

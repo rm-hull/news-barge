@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: UK customers paid more than France, Sweden and Netherlands for their
   electricity in 2025
 image: https://static.independent.co.uk/2026/09/11/13/59/Screenshot-2026-09-11-at-14-03-04.png?trim=137,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Household electricity bills in the UK are some of the highest in Europe, data suggests.

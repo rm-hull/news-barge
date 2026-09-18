@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Authorities in Monrovia announced on Tuesday the country would accept
   up to 1,200 foreign nationals deported from the US within a year.
 image: https://images.euronews.com/articles/stories/09/88/33/26/1200x675_cmsv2_b21e01f9-682b-5b71-afcb-fa7376602056-9883326.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
+- Society & Culture
 ---
 
 ## Authorities in Monrovia announced on Tuesday the country would accept up to 1,200 foreign nationals deported from the US within a year.

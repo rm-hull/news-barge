@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T12:56:44Z'
 published: '2026-08-22T00:00:00Z'
 description: Boy fights for life at hospital after suffering grave stabbing wounds
 image: https://static.independent.co.uk/2026/07/13/10/2232549604..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Police have charged a teenager for allegedly stabbing a 15-year-old at Terrigal on the New South Wales Central Coast on Friday.

@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The PM says every rough sleeper in England will be offered accommodation
   this winter.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ## Episode details

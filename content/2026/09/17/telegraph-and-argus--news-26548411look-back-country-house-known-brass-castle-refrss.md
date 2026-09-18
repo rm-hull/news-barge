@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:24:15Z'
 published: '2026-09-17T00:00:00Z'
 description: JUST off Long Lane in Harden there is a house known as Brass Castle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21452363.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

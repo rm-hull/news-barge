@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Trump insists US is still winning against Iran and willing to do ‘whatever
   it takes’
 image: https://static.independent.co.uk/2026/08/27/06/2026-08-26T175533Z_227767937_RC2E6NA7BEC2_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The United States is preparing to send another aircraft carrier to the Middle East after Donald Trump vowed to continue the war with Iran “for as long as necessary” and without a timetable to resume peace talks.

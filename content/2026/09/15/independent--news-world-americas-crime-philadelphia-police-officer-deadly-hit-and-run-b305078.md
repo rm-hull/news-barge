@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: The Philadelphia police officer who failed to help before the fatal hit-and-run
   will be fired, officials said
 image: https://static.the-independent.com/2026/09/15/20/39/Screenshot-2026-09-15-at-4-08-53-PM.png?trim=0,207,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Philadelphia police officer used his foot to nudge a man lying in the street — and then left him there and drove off — just before a car fatally hit the man.

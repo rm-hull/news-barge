@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The armed forces request the seizure of the plot near Muskö Naval Base
   citing threats from Russian drones.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0f2/live/291ba820-a08c-11f1-84af-1fbec28b23b2.png
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A Swedish Navy combat boat sails speeds past a picturesque shoreline spot in the background](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/b0f2/live/291ba820-a08c-11f1-84af-1fbec28b23b2.png)

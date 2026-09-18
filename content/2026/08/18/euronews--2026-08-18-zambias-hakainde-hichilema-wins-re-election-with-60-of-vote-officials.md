@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The election was widely seen as a referendum on Hichilema's first term
   during which Zambia's economy returned to growth after years of fiscal distress.
 image: https://images.euronews.com/articles/stories/09/87/80/94/1200x675_cmsv2_7e1cd036-9dff-55b1-be44-d467b92c44c1-9878094.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## The election was widely seen as a referendum on Hichilema's first term during which Zambia's economy returned to growth after years of fiscal distress.

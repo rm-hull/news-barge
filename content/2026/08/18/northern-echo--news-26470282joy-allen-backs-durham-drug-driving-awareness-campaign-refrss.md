@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Durham Police and Crime Commissioner Joy Allen has backed a national
   campaign aimed at challenging dangerous myths around drug driving and raising…
 image: https://www.thenorthernecho.co.uk/resources/images/21329194.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Supplied)*

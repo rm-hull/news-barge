@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: The ONS said its survey found that small firms may not be recruiting
   because of increased labour costs and other business expenses
 image: https://static.independent.co.uk/2026/08/18/07/641781b6954ba83bdd74f2fcf916ab76Y29udGVudHNlYXJjaGFwaSwxNzg3MDc4Njcx-2.85072987.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Vacancies in the UK jobs market have fallen to the lowest level since 2014, other than during Covid, with 6,000 fewer openings between May and July compared to the three months to April.

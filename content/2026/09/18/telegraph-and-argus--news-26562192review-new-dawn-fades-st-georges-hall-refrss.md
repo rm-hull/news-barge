@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: A PLAY play about Ian Curtis, troubled frontman of Joy Division, was
   always going to be bleak. What I wasn’t expecting was the humour, essentially…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21472703.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 A PLAY play about Ian Curtis, troubled frontman of Joy Division, was always going to be bleak. What I wasn’t expecting was the humour, essentially of the northern variety, that drove much of this compelling production.

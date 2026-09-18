@@ -9,6 +9,10 @@ description: 'Dominic Fritz’s removal has raised concerns over the rule of law
   both the EPP and Renew Europe calling for a change to the legislation. At stake
   for Romania is €770 million in EU funds. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/95/49/1200x675_cmsv2_f71156c4-f2f4-514a-9be5-6c562464946f-9889549.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Dominic Fritz’s removal has raised concerns over the rule of law, with both the EPP and Renew Europe calling for a change to the legislation. At stake for Romania is €770 million in EU funds.

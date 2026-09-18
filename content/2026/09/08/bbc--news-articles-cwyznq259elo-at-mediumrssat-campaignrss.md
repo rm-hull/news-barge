@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The children's commissioner for England says many are enrolled at college
   but aren't showing up.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5730/live/d5ee1a10-aba9-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Education & Learning
 ---
 
 ![Classroom scene with several students seated at desks facing a teacher at the front. A whiteboard is visible behind the teacher, while notebooks and devices rest on desks.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/5730/live/d5ee1a10-aba9-11f1-8e72-a346833ed029.jpg)

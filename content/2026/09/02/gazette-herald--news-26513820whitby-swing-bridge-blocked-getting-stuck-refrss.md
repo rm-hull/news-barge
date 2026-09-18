@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:42Z'
 published: '2026-09-02T00:00:00Z'
 description: A landmark bridge on the North Yorkshire coast is currently fully blocked.
 image: https://www.gazetteherald.co.uk/resources/images/21115771.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Council)*

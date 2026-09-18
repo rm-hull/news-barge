@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T19:17:13Z'
 published: '2026-09-03T00:00:00Z'
 description: The move strengthens Nvidia's position in the AI market.
 image: https://cdn.mos.cms.futurecdn.net/kwYiPqZyuSbH2GjiagqmzT-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Nvidia](https://cdn.mos.cms.futurecdn.net/kwYiPqZyuSbH2GjiagqmzT.png) 

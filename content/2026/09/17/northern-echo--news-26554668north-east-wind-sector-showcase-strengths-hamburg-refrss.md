@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Businesses and organisations from the North East will showcase the region’s
   global wind-energy strengths at a major conference.
 image: https://www.thenorthernecho.co.uk/resources/images/21461853.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

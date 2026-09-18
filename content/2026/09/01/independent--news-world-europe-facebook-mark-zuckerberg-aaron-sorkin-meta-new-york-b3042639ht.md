@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: When Aaron Sorkin made 2010’s “The Social Network,” he had heard of Facebook,
   he said at the time, “the way I’ve heard of a carburetor.”
 image: https://static.independent.co.uk/2026/09/01/11/Fall_Film_Preview_-_The_Social_Reckoning__4574.jpg?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 When Aaron Sorkin made 2010’s “The Social Network,” he had heard of Facebook, he said at the time, “the way I’ve heard of a carburetor.” Sixteen years later, he has a much deeper idea of what Mark Zuckerberg’s social media empire has become.

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Chinese technology giant Huawei has launched new chip technologies as
   it challenges leading global companies such as Nvidia
 image: https://static.independent.co.uk/2026/09/17/09/China_Huawei_58513.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Chinese technology giant Huawei launched new chip technologies in a challenge to global leaders such as Nvidia that highlights the narrowing gap between China and the U.S. in artificial intelligence.

@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A WAREHOUSE worker has finally landed a life-changing win after years
   of playing a dream car competition.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380811.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Video Gaming
 ---
 
 *(Image: Supplied)*

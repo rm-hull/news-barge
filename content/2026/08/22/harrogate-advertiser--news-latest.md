@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Get all of the latest Latest news from Harrogate Advertiser. Providing
   a fresh perspective for online news.
 image: https://www.harrogateadvertiser.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![The 6,000‑capacity music festival site on the Stray in Harrogate is being completely overhauled this year to deliver the most enjoyable Love to be...Festival yet. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFmZmUxNmRhLTEzODctNGFhNi1iNDc1LTI3MGNlZTE1MDQ1MjpiMTAyYzI2Mi0xYmM0LTQ3OTYtODliNC0wMjFkOWIxNzBhMzg=.jpg?crop=5:4,smart&trim=&quality=70&width=616)

@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A restaurant with a history spanning more than 55 years has been named
   an Uber Eats regional winner for Yorkshire and the North East.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411906.jpg?type=og-image&xType=0&yType=814
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Shimlas)*

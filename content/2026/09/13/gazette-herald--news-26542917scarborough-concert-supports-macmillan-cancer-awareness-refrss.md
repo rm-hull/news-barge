@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: A music concert at Woodend Art Gallery and Studio recently raised £172
   for Macmillan Cancer Support.
 image: https://www.gazetteherald.co.uk/resources/images/21441338.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Music
 ---
 
 A Scarborough concert recently raised £172 for Macmillan Cancer Support.

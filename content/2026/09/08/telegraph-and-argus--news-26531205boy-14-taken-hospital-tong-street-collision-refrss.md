@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A teenage boy has been taken to hospital following a collision with a
   car.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14942344.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Newsquest)*

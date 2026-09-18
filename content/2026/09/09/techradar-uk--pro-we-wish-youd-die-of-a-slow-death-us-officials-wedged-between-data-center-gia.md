@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: US officials face death threats as AI data centers push rural land prices
   into fierce new territory across America
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Trump says renovations ‘will not take place’ unless his name is on the
   building
 image: https://static.independent.co.uk/2026/08/25/18/2292009414..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Donald Trump’s hand-picked Kennedy Center board members have voted to close for repairs the building after the Trump administration repeatedly argued that the venue was in dire financial straits and could not continue to operate without the president’s name on the building.

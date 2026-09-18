@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T16:51:20Z'
 published: '2026-08-25T00:00:00Z'
 description: A trio of Apple announcements
 image: https://cdn.mos.cms.futurecdn.net/awQhYwcxqWeJ2qNoApRNy3-1960-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![M6 M5 Ultra](https://cdn.mos.cms.futurecdn.net/awQhYwcxqWeJ2qNoApRNy3.jpg) 

@@ -9,6 +9,13 @@ published: '2026-09-11T00:00:00Z'
 description: THE earliest years of a child’s life are a time of great opportunity,
   but also a time of great vulnerability. Especially as they are completely…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435522.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Self-Improvement
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

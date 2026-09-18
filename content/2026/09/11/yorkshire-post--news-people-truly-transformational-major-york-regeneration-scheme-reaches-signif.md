@@ -10,6 +10,11 @@ description: The approval of plans for more than 1,000 homes, a new hotel, stati
   entrance and offices has been hailed as a significant milestone for a major York
   regeneration scheme.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVjNGY5NjQ5LTg0MzAtNDdmYS1iMGQxLWViY2Y4MTE0YmZiZjoyOTY5YjAzNi1lZjA1LTQ2NzAtYWQ5MC01ZmJlYTVhMTYwM2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # 'Truly transformational' - Major York regeneration scheme reaches 'significant milestone' as plans approved

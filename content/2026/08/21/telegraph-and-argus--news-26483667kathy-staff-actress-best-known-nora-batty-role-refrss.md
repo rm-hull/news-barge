@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Stephen Roberts remembers the actress who will be forever Nora Batty
   – she of the wrinkled stockings, pinny, hair curlers and the subject of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21204728.jpg?type=og-image&xType=0&yType=46
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 KATHY Staff is best known for her portrayal of Nora Batty in Last of the Summer Wine, the beloved sitcom set in West Yorkshire, but there is much more to her life and career.

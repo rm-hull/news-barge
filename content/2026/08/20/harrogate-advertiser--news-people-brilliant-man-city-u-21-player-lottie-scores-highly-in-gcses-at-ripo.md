@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A young England footballer has scored top GCSE results at Ripon Grammar
   School after juggling exams with her sporting career.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY1NWZmZmEzLTVlYTUtNGExMC04Mjg3LTRlZTNhYTVhZjY2NDoyNGMyNDE3ZC04NWU1LTQ3MDUtYTAwMC1jNzQzYWMzNmU4YWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
+- Video Gaming
 ---
 
 # Brilliant Man City U-21 player Lottie scores highly in GCSEs at Ripon Grammar School

@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Leaders in Wales, Scotland and Northern Ireland discuss independence
   and call for constitutional change at summit
 image: https://i.guim.co.uk/img/media/d51e545db3f0697de848dc18ca3b91970ebc2fd7/522_0_5328_4263/master/5328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a54a0b39fc3b146be017ae6487692f90
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Westminster’s time is coming to an end, the first ministers of Wales, Scotland and Northern Ireland have said at a landmark summit aimed at putting the UK’s Celtic nations on the path to independence referendums.

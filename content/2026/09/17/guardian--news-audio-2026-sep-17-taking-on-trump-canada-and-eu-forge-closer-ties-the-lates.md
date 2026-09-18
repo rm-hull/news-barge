@@ -9,6 +9,9 @@ description: Canadian prime minister, Mark Carney, has welcomed the EU’s propo
   for Canada to become the bloc’s first ‘associate member’, despite threats from Donald
   Trump over the plan. Lucy Hough speaks to Europe correspondent Jon Henley.
 image: https://i.guim.co.uk/img/media/389761cb3ebb7e134908d52c0c1d2e3aaa30ed0f/359_0_2641_2112/master/2641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca040394091463418dc665034f7bda4a
+categories:
+- UK
+- News & Politics
 ---
 
 # Taking on Trump? Canada and EU forge closer ties – The Latest

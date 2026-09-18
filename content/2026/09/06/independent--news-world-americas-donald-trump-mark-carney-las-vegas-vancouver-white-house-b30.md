@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: An acrimonious trade war between the United States and Canada is threatening
   to reinforce the resolve of Canadians who stopped visiting the U.S. last year
 image: https://static.independent.co.uk/2026/08/27/18/US_Canada_Tariffs_49794.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Appeals from American tourism organizations seemed to be everywhere Josh Loewen looked over the last year. Billboards and banners proclaimed a state or city's love for Canada. Online and social media ads offered special deals for travelers from north of the border.

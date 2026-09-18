@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Austin Tice’s abduction was approved by Syria’s former leader Bashar
   al-Assad, a source claims.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![File image of Tice in front of a rural background. He has mid-length brown hair and a short brown beard and is wearing a khaki green polo shirt.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/68a4/live/cf888360-3f4c-11f0-b6e6-4ddb91039da1.jpg)

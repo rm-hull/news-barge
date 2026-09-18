@@ -9,6 +9,9 @@ published: '2026-09-18T00:00:00Z'
 description: This tiny little part is considered a machine gun, and possessing it
   carries a penalty of up to 10 years in prison.
 image: https://cdn.mos.cms.futurecdn.net/HgLi7CGYLNVwgbAuuXX7s3-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![a 3D-printed "Glock switch" next to a seized gun](https://cdn.mos.cms.futurecdn.net/HgLi7CGYLNVwgbAuuXX7s3.png) 

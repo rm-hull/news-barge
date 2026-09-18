@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: EXTRA funding could soon be available to help disabled residents live
   more independently at home in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18103294.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

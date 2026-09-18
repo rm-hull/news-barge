@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Tim Andrews, who had end-stage kidney disease, was 66 when he received
   the pig kidney in January 2025
 image: https://static.independent.co.uk/2026/09/03/22/01M1K4F9CV4V0PGFN2GEM97VXR.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 In a world first, a man has lived without dialysis for nine months after receiving a genetically modified pig kidney.

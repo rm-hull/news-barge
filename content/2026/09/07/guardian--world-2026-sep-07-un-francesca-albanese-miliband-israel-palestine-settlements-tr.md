@@ -10,6 +10,9 @@ description: 'Exclusive: UN special rapporteur on occupied territories says ban 
   goods from settlements ‘important’ but must go further if it is to amount to more
   than a ‘press release’'
 image: https://i.guim.co.uk/img/media/5693a644ba2b520ca5cc7047ae682c4f6b0cb6b8/646_778_4307_3446/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ba223a26fc78fd649b864c46de482de
+categories:
+- UK
+- News & Politics
 ---
 
 The UK’s planned ban on trade with unlawful Israeli settlements is a welcome, if overdue, first step and must be judged according to its practical impact, a UN expert has told the Guardian.

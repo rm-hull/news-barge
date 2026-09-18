@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Nicholas Brandram's sisters tell the BBC he did a DNA test to speed up
   the inquiry but never got the results.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Watch: 'There was no urgency to clear his name' - sisters of 'Putney pusher' suspect

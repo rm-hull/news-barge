@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: New independent veterinary practice opens in Skipton as family-run group
   celebrates centenary year
 image: https://www.thetelegraphandargus.co.uk/resources/images/21440520.jpg?type=og-image&xType=0&yType=609
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A long-established independent veterinary group has expanded into Skipton with the opening of a new practice at Acorn Business Park.

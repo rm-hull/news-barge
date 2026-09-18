@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Intelligence services allegedly attempted to pay people to surveil and
   kill people perceived to be aligned with Ukraine
 image: https://i.guim.co.uk/img/media/5cad2b3abc8b6c88922c14fa58739ddffbfaf8f8/584_0_3934_3149/master/3934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbbf03756e67d829a25160d551b4adcc
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Russia’s intelligence services are plotting to carry out targeted killings in the United States and in European nations supporting Ukraine, federal authorities said Tuesday as they announced charges against five people who remain at large.

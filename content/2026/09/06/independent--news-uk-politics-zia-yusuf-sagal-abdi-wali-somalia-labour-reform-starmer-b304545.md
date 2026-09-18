@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Zia Yusuf made the comments about Labour by-election hopeful Sagal Abdi-Wali
   on social media last week
 image: https://static.independent.co.uk/2026/09/06/10/2026-09-05T104221Z_1238797683_RC2YCNAK1GMV_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=109,0,109,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Cabinet minister has accused Reform UK’s Zia Yusuf of "pretty straightforward racism" following comments made about a potential Labour by-election candidate born in Somalia.

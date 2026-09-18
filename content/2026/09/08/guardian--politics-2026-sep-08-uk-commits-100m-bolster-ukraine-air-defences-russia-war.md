@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Package of military equipment includes Patriot missiles, supplies of
   which have dwindled amid Russian attacks
 image: https://i.guim.co.uk/img/media/4fe99cf2c807f921c1d24ca3ebe12af00b8a2342/612_0_4349_3479/master/4349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75493eca35cd8933cb8c6dfb54c3f0dd
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The UK has committed £100m to boost Ukraine’s air defences over winter by buying a package of US military equipment that will include a number of urgently needed Patriot missiles.

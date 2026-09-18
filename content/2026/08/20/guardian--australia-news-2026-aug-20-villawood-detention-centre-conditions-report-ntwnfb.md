@@ -9,6 +9,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prolonged detention of children, insufficient staffing and hazardous
   damage to buildings are among the ombudsman’s concerns
 image: https://i.guim.co.uk/img/media/83d9f187d7745bdb7093eec058e83d69e4c7e708/356_0_3160_2528/master/3160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6045b20f6290bed31b46cc38db1f7f38
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Drugs are being openly dealt inside Villawood detention centre; makeshift weapons are being manufactured amid intimidation, standover tactics and a “culture of fear”; people are sleeping outside under CCTV cameras for their own safety; and children are being kept from going to school, a scathing report from the independent monitor has found.

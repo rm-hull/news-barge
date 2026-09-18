@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Inquests are set to open today (Aug 27) for the two police officers and
   five young men who died in a head-on collision on the A66.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ4YWM3ZTRkLTZjN2YtNGZlZS1iNTUzLTEyZjc5ZTIzMjQ5ZTo0NDFjOWYzZi00MDJhLTRmMjUtYTIxNy00MmQ3Yzk3MjhmMmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # A66 crash: Inquests set to open into deaths of seven people in horror crash

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Another Arsenal win, another Martin Odegaard goal - the Gunners captain
   looks back to his best, writes Phil McNulty.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1da9/live/52031c80-ac9b-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: Arsenal get a one goal win away to Napoli thanks to Odegaard

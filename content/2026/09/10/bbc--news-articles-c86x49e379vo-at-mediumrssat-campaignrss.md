@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The unmanned aircraft entered Moldovan airspace on Tuesday afternoon
   as the plane was on the runway.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96eb/live/4b516720-acff-11f1-beae-535b95a24b3e.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A white painted passenger plane sits on a runway at an airport after landing](https://ichef.bbci.co.uk/ace/standard/960/cpsprodpb/96eb/live/4b516720-acff-11f1-beae-535b95a24b3e.jpg)

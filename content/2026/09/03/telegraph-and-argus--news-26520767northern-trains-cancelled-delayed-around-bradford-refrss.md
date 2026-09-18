@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Train services between Bradford Forster Square and Shipley face delays
   and cancellations due to a signalling fault.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20243537.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Mike Simmonds)*

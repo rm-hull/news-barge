@@ -10,6 +10,9 @@ published: '2026-08-24T00:00:00Z'
 description: I’d recommend Oppo’s latest mid-range phone to anyone if it wasn’t for
   this one thing — here’s why.
 image: https://cdn.mos.cms.futurecdn.net/aDsmnSFWejMuRu9PaHnCWb-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ### TechRadar Verdict

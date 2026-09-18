@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:14Z'
 published: '2026-08-27T00:00:00Z'
 description: Aug. 21 - 27, 2026
 image: https://static.independent.co.uk/2026/08/27/22/Freedom_25__IndyCar_Trump_1_898.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Aug. 21 - 27, 2026

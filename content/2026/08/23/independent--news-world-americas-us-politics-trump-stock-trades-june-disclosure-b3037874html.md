@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T01:55:10Z'
 published: '2026-08-23T00:00:00Z'
 description: Trump’s trades in June come as Congress debates stock-trading ban
 image: https://static.independent.co.uk/2026/08/23/22/2291729637..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump undertook a shuffling of his stock portfolio in June and sold nearly $30 million in shares that month as Congress debates whether those in power should be allowed to trade stocks at all, according to financial disclosures.

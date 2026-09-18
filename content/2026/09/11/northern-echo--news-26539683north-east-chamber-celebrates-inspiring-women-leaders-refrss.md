@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: INSPIRATIONAL women taking the lead in business across the North East
   were celebrated at a high-profile regional conference.
 image: https://www.thenorthernecho.co.uk/resources/images/21436126.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

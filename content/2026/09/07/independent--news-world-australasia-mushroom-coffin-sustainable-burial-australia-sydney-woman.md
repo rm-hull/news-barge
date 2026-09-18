@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:37Z'
 published: '2026-09-07T00:00:00Z'
 description: Biodegradable casket breaks down into soil within 45 days of burial
 image: https://static.independent.co.uk/2026/09/07/8/15/mushroom2.png?trim=42,0,106,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 A Sydney woman has become the first person in Australia to be buried in a coffin grown from mushrooms, in a funeral that organisers say reflects a wider shift towards environmentally friendly ways of being laid to rest.

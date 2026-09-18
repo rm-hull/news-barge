@@ -9,6 +9,12 @@ description: Stage, television and film actress Phyllida Law, who has died at 94
   was the mother of Dame Emma Thompson and Sophie Thompson and the widow of Eric Thompson,
   who provided the voices for the children’s TV favourite, The Magic Roundabout.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJmYmFhYmY1LTI0NjEtNGM3ZS04NjBmLTQ0MTM4OGJkYjA5Mjo3ZTVmOGI2My1iMDc3LTQ0N2ItYmRlMi1lY2E2N2U3Y2YyYmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 # Remembering Phyllida Law the mother of Dame Emma Thompson

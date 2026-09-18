@@ -9,6 +9,10 @@ description: Child safety groups and former Meta employees welcome proposed chan
   to how the company’s platforms will work for teens. They also think states should
   have demanded more.
 image: https://media.wired.com/photos/6a8f1ebc03c90c0d1d7ffc12/191:100/w_1280,c_limit/Will-Metas-New-Controls-for-Teens-Actually-Work-Business-2263201376.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Advocates for children tell WIRED that Meta’s legal settlement to address concerns about teenagers’ use of social media proposes important and overdue feature changes that invite more parental oversight than ever before. They also, though, say it puts a significant burden on caregivers and unreliable age-assessment systems.

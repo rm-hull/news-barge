@@ -9,6 +9,9 @@ description: Reform UK’s Colin Sutton, who was elected as Norfolk’s PCC less
   two months ago, will go on tour next year with a live show called The Makings Of
   A Murderer – Double Jeopardy
 image: https://static.independent.co.uk/2025/07/28/13/70f10352f8fc8ef972ef467d2799cc52Y29udGVudHNlYXJjaGFwaSwxNzUzNzkwODcw-2.81125125.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Reform UK’s inaugural Police and Crime Commissioner (PCC) has defended his plans to embark on a nationwide theatre tour featuring over 100 dates next year.

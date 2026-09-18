@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Global warming and a record El Niño have pushed Earth’s temperature more
   than 1.5°C above the preindustrial average, and further heat is on the way
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![London at sunrise on 14 August 2026](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311513474.jpg?w=840)

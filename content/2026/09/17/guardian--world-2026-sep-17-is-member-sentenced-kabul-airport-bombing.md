@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Mohammad Sharifullah, 28, was convicted of aiding the terrorist group
   that took credit for the suicide bombing
 image: https://i.guim.co.uk/img/media/613da6312b870e73d1665bc91cf6f3389e00e10d/180_0_5278_4224/master/5278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=848e820da5bf4565ffcc0f60f0d976fd
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 An Islamic State group member was sentenced on Wednesday to 20 years in prison for aiding the terrorist organization that took credit for a suicide bombing that killed 13 US service members and about 160 Afghans at the Kabul airport five years ago during the US military’s chaotic withdrawal from the country.

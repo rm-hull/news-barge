@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Now that the Champions League money may be nigh, we will get to see the
   scale of Celtic's ambition, asks Tom English?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa5c/live/48372370-9c17-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Duran's incredible double edges Celtic closer to Champions League

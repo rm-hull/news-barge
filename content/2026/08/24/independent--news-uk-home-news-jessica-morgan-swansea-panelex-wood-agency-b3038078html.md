@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Jessica Morgan was told 'nobody wants to see a pregnant woman' give a
   presentation
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/16/11/istock-505017852.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A pregnant saleswoman was the victim of discrimination when her colleague told her "nobody wants to see a pregnant woman", a tribunal ruled.

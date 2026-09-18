@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Bradford Synagogue praises West Yorkshire Police support as anniversary
   of the Heaton Park synagogue attack in Manchester approaches, with a man…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20030638.jpg?type=og-image&xType=0&yType=141
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Newsquest)*

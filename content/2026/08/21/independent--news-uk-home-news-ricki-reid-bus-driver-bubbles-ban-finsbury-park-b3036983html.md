@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T13:06:34Z'
 published: '2026-08-21T00:00:00Z'
 description: ‘The passengers want me to continue sharing the joy,’ father-of-six insists
 image: https://static.independent.co.uk/2026/08/21/11/01M0FRXAHMZZMV86NA9HP0GBRK.jpg?trim=381,903,232,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Passengers have been left furious after an east London bus driver was reportedly banned from blowing bubbles from his cab window.

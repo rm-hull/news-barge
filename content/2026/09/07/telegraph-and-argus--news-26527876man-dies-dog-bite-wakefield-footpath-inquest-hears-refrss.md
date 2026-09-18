@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Wakefield man James Judge, 55, died after a dog bite on a footpath off
   Blacker Lane on August 15. An inquest heard a man faces manslaughter charges.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12278004.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

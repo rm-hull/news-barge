@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Executive assistant Harp joined Trump’s staff in 2022 and has won praise
   from the White House for her loyalty and dedication
 image: https://static.independent.co.uk/2026/08/18/11/2287068848..?trim=227,1015,543,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Trump’s aide Natalie Harp has come under the spotlight this week, with multiple reports detailing how she became one of his most trusted supporters.

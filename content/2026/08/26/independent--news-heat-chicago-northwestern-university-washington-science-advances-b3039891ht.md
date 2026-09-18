@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: A massive study shows what illnesses and injuries spike in emergency
   room visits during heat waves in Chicago
 image: https://static.independent.co.uk/2026/08/26/19/Climate_Heat_Sickness_39_19.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 When the temperature heats up, so do emergency rooms, according to a massive study of Chicago hospital and urgent care records, which found increased accidental gunshot wounds, kidney complaints, skin problems, varicose veins and even mental health issues related to marijuana use.

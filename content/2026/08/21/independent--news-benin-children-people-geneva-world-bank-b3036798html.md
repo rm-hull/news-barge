@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: In Benin, stunting affects a third of children under 5 due to malnutrition,
   despite abundant resources
 image: https://static.independent.co.uk/2026/08/21/06/Benin_Stunted_Children_568_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Sabi Bera Zakari didn't appear to care much how tall his children would grow. The farmer said he only sometimes wished they could gain more weight.

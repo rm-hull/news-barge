@@ -9,6 +9,11 @@ description: The free trade area agreement between India and the Eurasian Econom
   Union (EAEU) is crucial for the growth of trade in the region and improvement of
   on-land transport corridors, which will prove to be favourable for Europe as well.
 image: https://images.euronews.com/articles/stories/09/91/28/40/1200x675_cmsv2_53b1c136-85f9-5655-9787-72d828be6b65-9912840.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## The free trade area agreement between India and the Eurasian Economic Union (EAEU) is crucial for the growth of trade in the region and improvement of on-land transport corridors, which will prove to be favourable for Europe as well.

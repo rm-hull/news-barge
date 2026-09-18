@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: Supermarket’s website and app go offline as customers save more than
   $100 on some 24-packs
 image: https://i.guim.co.uk/img/media/6b53c8f30a62a8dc6779604117b0fc6774cb1bc2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a92d5508de4e1f644d46621fda71634
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The Coles website and app have gone offline hours after a viral Reddit post highlighted a nearly 80% discount on 24-packs of premixed alcoholic drinks.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Hundreds of veterans, serving personnel and military organisations gathered
   in North Yorkshire for a special parade honouring those who have served…
 image: https://www.gazetteherald.co.uk/resources/images/21451921.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Jo Peirson)*

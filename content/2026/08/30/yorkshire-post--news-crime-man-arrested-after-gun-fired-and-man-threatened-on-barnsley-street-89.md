@@ -9,6 +9,12 @@ description: A 39-year-old man has been arrested on suspicion of firearms offenc
   after a gun was fired during an incident in Barnsley in which a man was reportedly
   threatened.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/30/11/21/Smithies-Lane-Barnsley.png?trim=0,79,0,78&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Sports
 ---
 
 # Man arrested after gun fired and man threatened on Barnsley street

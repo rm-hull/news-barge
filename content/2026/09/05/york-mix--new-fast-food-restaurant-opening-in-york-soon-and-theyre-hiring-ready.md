@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T18:12:15Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/popeyes-york-2.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 A new fast food chain is getting closer to opening in York.

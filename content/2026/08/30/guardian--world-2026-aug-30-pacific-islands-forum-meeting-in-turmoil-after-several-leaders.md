@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Solomon Islands prime minister cancels his appearance, along with leaders
   from Fiji, Vanuatu and Samoa
 image: https://i.guim.co.uk/img/media/f40f8cb802aeda03510d3ec8bdf678aeca81101c/393_0_4519_3615/master/4519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f37e2597431d8a2e14801466cf83bb53
+categories:
+- UK
+- News & Politics
+- Travel
+- Careers & Productivity
 ---
 
 Several leaders have pulled out of a the Pacific Islands Forum leaders’ meeting in Palau at the eleventh hour.

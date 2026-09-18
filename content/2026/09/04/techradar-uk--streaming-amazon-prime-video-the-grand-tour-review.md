@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: The Grand Tour returns to Prime Video on September 4 with its new cohort
   of presenters — but don't write them off before they've even got going.
 image: https://cdn.mos.cms.futurecdn.net/GVjXYo2gvnKFBh7bqCC6ie-1920-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ### TechRadar Verdict

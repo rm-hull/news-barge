@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Someone has blocked your driveway? Find out what homeowners can do, when
   a parking fine may apply and who to complain to.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425716.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Getty Images/iStockphoto)*

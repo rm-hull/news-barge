@@ -10,6 +10,10 @@ description: Robert Corrigan has been dealing with the ‘smart’ rodents all h
   – and believes there are better solutions to deal with the growing infestation in
   the world’s cities
 image: https://i.guim.co.uk/img/media/fe4ea8a042c72697b57bce1ec3114ac33ab30cbf/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1814883a646c4281453be27862d539a6
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 “The rodents have paid for every single bill I’ve ever had – every mortgage, every car payment, every pint of Guinness,” says Dr Robert Corrigan. “It’s been a great ride and I’m still at it.”

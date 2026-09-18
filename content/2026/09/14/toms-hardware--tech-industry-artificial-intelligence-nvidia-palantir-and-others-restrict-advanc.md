@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Zero data retention policies and air-gapped servers have become vital
   to some big AI users.
 image: https://cdn.mos.cms.futurecdn.net/u9ek9duZ3S5dDDNM6EaY7k-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![ChatGPT, Claude, and Gemini apps on an iPhone](https://cdn.mos.cms.futurecdn.net/u9ek9duZ3S5dDDNM6EaY7k.jpg) 

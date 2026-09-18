@@ -9,6 +9,10 @@ description: Video. Residents of Kyiv’s Solomianskyi district spent Thursday a
   the damage after a Russian overnight barrage of ballistic and cruise missiles and
   drones tore through a residential area.
 image: https://images.euronews.com/articles/stories/09/88/29/04/1200x675_cmsv2_af16ca20-2f43-5eaa-bd89-22853d2b8fc5-9882904.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 The attack began shortly after midnight on 20 August and lasted for nearly nine hours. In Solomianskyi, the upper floors of a nine-storey apartment block were destroyed, killing at least eight people and leaving others trapped beneath the rubble. Emergency crews rescued 12 residents as they searched the wreckage for survivors.

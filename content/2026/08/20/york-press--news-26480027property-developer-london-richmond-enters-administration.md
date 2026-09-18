@@ -8,6 +8,12 @@ scraped_at: '2026-08-20T08:52:56Z'
 published: '2026-08-20T00:00:00Z'
 description: A luxury property developer based in London has collapsed into administration.
 image: https://www.yorkpress.co.uk/resources/images/21335765.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Real Estate
 ---
 
 *(Image: Getty)*

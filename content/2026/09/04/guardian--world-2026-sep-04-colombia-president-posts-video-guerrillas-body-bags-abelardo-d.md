@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Abelardo De La Espriella posts video of himself with rows of body bags
   as performative populism continues to sweep Americas
 image: https://i.guim.co.uk/img/media/e66dc78abdb116c7bee63700a5eb8d8467e98743/436_0_1997_1598/master/1997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b98f9f664d888117d037ff922d457a17
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas.

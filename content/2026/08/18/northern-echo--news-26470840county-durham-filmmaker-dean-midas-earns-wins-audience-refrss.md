@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A filmmaker has received international recognition after two of his short
   films were selected for inclusion on an American streaming platform…
 image: https://www.thenorthernecho.co.uk/resources/images/20464360.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A County Durham filmmaker has received international recognition after two of his short films were selected for inclusion on an American streaming platform dedicated exclusively to independent horror.

@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: It turns out you can keep Auto-Correction without letting your iPhone
   finish your sentences.
 image: https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ-2560-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![Girl typing something on mobile phone](https://cdn.mos.cms.futurecdn.net/kAV78FEzwxTr8Mjix8wrEQ.jpg) 

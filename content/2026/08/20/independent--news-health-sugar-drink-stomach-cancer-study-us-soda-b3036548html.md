@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Artificial sweeteners, often used in diet sodas, did not show the same
   risk as fructose
 image: https://static.independent.co.uk/2026/08/20/20/48/gettyimages-164630283-1.jpeg?trim=0,23,0,23&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
+- Science
 ---
 
 Just one sugar-laden soda a day leads to a higher risk of developing deadly stomach cancer, according to a groundbreaking new study.

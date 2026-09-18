@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:41:52Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/andrew-lowson-ruth-phillips-and-phil-pinder-coppergate-car-park-york.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 Plans to cut some parking charges in York do not go far enough to reverse the effects of previous hikes, opposition councillors and a trader have said.

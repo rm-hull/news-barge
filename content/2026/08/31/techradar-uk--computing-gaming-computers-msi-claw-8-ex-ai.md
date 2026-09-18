@@ -11,6 +11,8 @@ description: The new MSI Claw and its Intel Arc G3 Extreme chipset unlocks glori
   smooth gameplay on the go. But that price means it's likely out of reach for most
   of us.
 image: https://cdn.mos.cms.futurecdn.net/AT8Dtyjmuec9LxwtGHtkwB-2520-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

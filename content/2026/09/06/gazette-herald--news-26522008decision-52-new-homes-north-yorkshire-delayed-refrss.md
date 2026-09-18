@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A decision on plans for up to 52 homes in a Ryedale village has been
   delayed after planning officers changed their recommendation following the…
 image: https://www.gazetteherald.co.uk/resources/images/21321907.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 ### What is the Public Notice Portal?

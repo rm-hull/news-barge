@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The family of a “kind-hearted” grandad who died in a crash on the A1(M)
   near Darlington on the way back from a family trip have paid tribute to…
 image: https://www.thenorthernecho.co.uk/resources/images/21434248.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: DURHAM POLICE)*

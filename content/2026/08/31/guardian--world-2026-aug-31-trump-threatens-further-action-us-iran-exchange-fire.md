@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Washington says it acted after observing Iran was planning to deploy
   fresh mines in strait of Hormuz
 image: https://i.guim.co.uk/img/media/513766b458218ea77fb75d0a91ff00beb708eadd/972_314_4188_3350/master/4188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1bf445e7a013d0253b5504bc88cf5da
+categories:
+- UK
+- News & Politics
 ---
 
 The US and Iran have exchanged fire for the first time in a month, with missiles and drones fired at Iranian rocket launchers on an island in the strait of Hormuz, and Iran targeting US military bases in Jordan and the United Arab Emirates in response.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot
   found 10 days into rescue operation
 image: https://i.guim.co.uk/img/media/356053e87dbc439eb0b994c9d15f52080395bb6b/15_0_1970_1575/master/1970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71672bbe509b0c2ab1e116ec7788a721
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Emergency responders rescued a Chinese man and a Nepali woman in two separate operations on Saturday, as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.

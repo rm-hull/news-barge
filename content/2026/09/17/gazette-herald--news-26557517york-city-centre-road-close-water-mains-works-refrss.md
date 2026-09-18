@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:23:17Z'
 published: '2026-09-17T00:00:00Z'
 description: City of York Council said Walmgate will close on Tuesday, September 29.
 image: https://www.gazetteherald.co.uk/resources/images/21466051.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Kevin Glenton)*

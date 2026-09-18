@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Iran says the attack killed some civilians and is the first known US
   strike on Iran since late July.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Large ships in the Strait of Hormuz are visible near the beach of Bandar Abbas.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg)

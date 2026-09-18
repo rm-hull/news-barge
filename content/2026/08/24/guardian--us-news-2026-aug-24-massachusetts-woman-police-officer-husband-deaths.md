@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Karen Solomon had been missing for six days after her husband Kurt Solomon
   was found dead at their home
 image: https://i.guim.co.uk/img/media/598f511f1f2d5d9507c7f9e3692c92a8634bb4f4/141_0_1347_1078/master/1347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8cfd930c9424f29a63b38c5cedd206b
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after she disappeared from her Massachusetts home, authorities said.

@@ -9,6 +9,9 @@ description: 'Exclusive: The Holborn and St Pancras by-election is being used as
   test to see if Andy Burnham has nullified the threat from the Greens on the left,
   with leader Zack Polanski running as a candidate, according to Labour sources'
 image: https://static.independent.co.uk/2026/09/13/12/5ebf4eca8c53515cdb73f8ff14542c03Y29udGVudHNlYXJjaGFwaSwxNzg5MzgyNjk5-2.85793891.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The by-election to replace Sir Keir Starmer is being used as a test run for Andy Burnham to decide whether to pull the trigger on an early general election, Labour sources have told *The Independent.*

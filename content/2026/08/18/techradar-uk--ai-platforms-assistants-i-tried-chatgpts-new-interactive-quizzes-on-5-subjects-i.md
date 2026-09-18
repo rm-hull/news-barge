@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T19:35:41Z'
 published: '2026-08-18T00:00:00Z'
 description: ChatGPT is surprisingly good at revealing your ignorance
 image: https://cdn.mos.cms.futurecdn.net/6FcatVDmoo5SE7zbT9Void-1920-80.jpg
+categories:
+- Technology & Software
+- Self-Improvement
 ---
 
 ![ChatGPT image and a quiz image in a split screen.](https://cdn.mos.cms.futurecdn.net/6FcatVDmoo5SE7zbT9Void.jpg) 

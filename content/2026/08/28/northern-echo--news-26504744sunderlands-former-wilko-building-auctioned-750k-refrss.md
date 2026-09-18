@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Sunderland’s former Wilko store at 33-42 Fawcett Street is being offered
   with vacant possession at an auction on September 17, with a guide price…
 image: https://www.thenorthernecho.co.uk/resources/images/21385751.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Provided)*

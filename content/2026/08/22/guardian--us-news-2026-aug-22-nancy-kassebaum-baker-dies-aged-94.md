@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: Kassebaum Baker became the first woman elected to the US Senate without
   following a spouse into office
 image: https://i.guim.co.uk/img/media/fa3ce1ac2c5c1c202fd718676700c3919fc4ee2f/367_0_2450_1960/master/2450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c75e0812185c874791bf301f62e908d
+categories:
+- UK
+- News & Politics
 ---
 
 Nancy Kassebaum Baker, a Kansas governor’s daughter who became the first woman elected to the US Senate without following a spouse into office, has died. She was 94.

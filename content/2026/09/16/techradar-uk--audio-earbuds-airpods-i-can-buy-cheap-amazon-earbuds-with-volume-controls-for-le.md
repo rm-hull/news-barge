@@ -8,6 +8,8 @@ scraped_at: '2026-09-16T13:27:05Z'
 published: '2026-09-16T00:00:00Z'
 description: It’s the $700 Mac Pro wheels all over again
 image: https://cdn.mos.cms.futurecdn.net/8mCK7x9BaxJ66wEpn688K4-980-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The AirPods 5](https://cdn.mos.cms.futurecdn.net/8mCK7x9BaxJ66wEpn688K4.jpg) 

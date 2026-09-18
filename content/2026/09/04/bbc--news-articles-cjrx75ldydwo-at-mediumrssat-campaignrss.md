@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The Australian icon was killed in 2006, after a stingray's barb pierced
   his chest during filming.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![A man with short brown hair and a young girl holding his face and kissing him on his cheek, with Uluru in the background](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg)

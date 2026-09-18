@@ -9,6 +9,9 @@ description: President Donald Trump’s show of favoritism towards his personal 
   was met with disbelief among staffers at his Florida golf club, according to Michael
   Wolff
 image: https://static.independent.co.uk/2026/08/19/17/15/GettyImages-2287538819.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s personal assistant Natalie Harp enjoyed a special perk when she first joined his team that raised eyebrows among fellow staffers, according to author Michael Wolff.

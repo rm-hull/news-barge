@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Residents are becoming increasingly frustrated over alleged breaches
   of planning at a controversial traveller site in North Yorkshire, an MP has…
 image: https://www.thenorthernecho.co.uk/resources/images/21435524.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Residents are becoming increasingly frustrated over alleged breaches of planning at a controversial traveller site in North Yorkshire, an MP has warned.

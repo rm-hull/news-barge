@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Amanda Owen has revealed what she is doing at the Yorkshire farm as the
   shepherdess gathers sheep from the moors ahead of the ‘harvest of the…
 image: https://www.thenorthernecho.co.uk/resources/images/21457984.jpg?type=og-image&xType=0&yType=178
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Amanda Owen has given fans a glimpse of life on the Yorkshire moors as one of the farming year’s busiest periods begins.

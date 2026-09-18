@@ -9,6 +9,11 @@ description: 'Marcos Rodríguez Pantoja, from Andalusia, died at 80 in Rante, a 
   of San Cibrao das Viñas in Ourense, north-west Spain. He had lived there since 2001
   and seemed to have finally found a home. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/47/41/1200x675_cmsv2_1b76a41c-2078-598f-bf15-fa69bdf381c9-9884741.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
+- History
 ---
 
 ## Marcos Rodríguez Pantoja, from Andalusia, died at 80 in Rante, a hamlet of San Cibrao das Viñas in Ourense, north-west Spain. He had lived there since 2001 and seemed to have finally found a home.

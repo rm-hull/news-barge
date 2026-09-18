@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: With plentiful jobs and community support, one Mexico City neighbourhood
   has become a haven for those who have lived much of their lives in the US
 image: https://i.guim.co.uk/img/media/746c6d353340601bbc6e3eb444c11f12160d131f/984_725_2427_1942/master/2427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5881773e9f5a7b809f127176b5a2fa1a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known as Little LA.

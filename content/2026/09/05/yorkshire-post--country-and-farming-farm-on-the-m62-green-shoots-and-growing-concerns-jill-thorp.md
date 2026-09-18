@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The long-awaited rain has finally arrived, and our parched landscape
   has been transformed.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE1YjkxMWYyLTA3MmYtNDZhZS05MWVhLWVmN2MwY2Y0YWM0ODozYzdlOGQxZS01Mjc2LTRmNDMtYjk2Yy0wYTI0NDI5OTUyNjA=.jpg?crop=3:2,smart&trim=&width=990&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Farm on the M62: Green shoots and growing concerns - Jill Thorp

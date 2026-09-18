@@ -7,6 +7,12 @@ scraped_at: '2026-08-21T13:05:58Z'
 published: '2026-08-21T00:00:00Z'
 description: Questions are set to be asked about the future of social care in York.
 image: https://www.gazetteherald.co.uk/resources/images/19468900.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- News & Politics
 ---
 
 Questions are being asked about the future of social care in York.

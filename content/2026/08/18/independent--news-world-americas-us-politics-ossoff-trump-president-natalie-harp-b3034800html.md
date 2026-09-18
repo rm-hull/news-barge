@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Georgia senator Ossoff has taken shots at the president over the Iran
   war, affordability and “not taking his job seriously”
 image: https://static.independent.co.uk/2026/08/17/12/2251020355..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rising Democratic star Senator Jon Ossoff has stepped up his feud with Donald Trump, after taunting the president over one of his aides.

@@ -10,6 +10,10 @@ description: The Trump administration this week quietly released an update to a 
   survey on civil rights in schools that was scrubbed of all data related to nonbinary
   students or bullying based on gender identity
 image: https://static.independent.co.uk/2026/09/04/17/Trump-Education-Civil_Rights_Data_34845.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The Trump administration this week quietly released an update to a major survey on civil rights in schools that was scrubbed of all data related to nonbinary students or bullying based on gender identity.

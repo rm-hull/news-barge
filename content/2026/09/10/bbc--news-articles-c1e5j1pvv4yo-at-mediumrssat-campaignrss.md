@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The assassination sent shockwaves through the conservative youth movement,
   which students say has lost momentum and a vital figurehead.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8e/live/052238c0-ac86-11f1-ab14-5b9069dc795d.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Charlie Kirk poses for a selfie with Jeb Jacobi](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0b8e/live/052238c0-ac86-11f1-ab14-5b9069dc795d.jpg)

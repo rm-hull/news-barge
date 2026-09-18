@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: A magical day of dragons and fairies is set to enchant families at Cliffe
   Castle Museum in Keighley later this month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21333930.jpg?type=og-image&xType=0&yType=113
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: City of Bradford Council)*

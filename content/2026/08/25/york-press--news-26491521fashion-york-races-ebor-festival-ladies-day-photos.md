@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Hot on the heels of Ebor Festival 2026 at York Racecourse, we look back
   at some of the eye-catching fashion statements captured over the years.
 image: https://www.yorkpress.co.uk/resources/images/21365478.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## York Races fashion front-runners through the years - in photos

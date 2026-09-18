@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T12:48:19Z'
 published: '2026-09-03T00:00:00Z'
 description: Russia called the Norwegian action ‘piracy’
 image: https://static.independent.co.uk/2026/09/03/08/2261837601..?trim=0,468,0,468&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Norwegian authorities have detained a Russian ship in the Arctic to enforce a $4.22 billion compensation award won by Ukrainian energy company Naftogaz over Moscow's confiscation of its assets during the 2014 Crimea annexation, officials confirmed late on Wednesday.

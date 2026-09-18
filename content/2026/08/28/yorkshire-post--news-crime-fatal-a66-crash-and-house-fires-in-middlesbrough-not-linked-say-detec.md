@@ -9,6 +9,11 @@ description: Detectives have confirmed they are not linking a house fire which k
   a seven-year-old girl and her aunt to a crash on the A66 last weekend which left
   seven people dead, including two police officers.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/15/v2-image-production-c58f9776a19792308f6b95c00d75580bY29udGVudHNlYXJjaGFwaSwxNzg4MDEwOTQ3-2.85667736.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Fatal A66 crash and house fires in Middlesbrough 'not linked' say detectives

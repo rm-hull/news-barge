@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Khan was taken from Adiala jail and sent to Shifa International Hospital
   under heavy security, according to his party.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Former Pakistani Prime Minister Imran Khan speaks with Reuters during an interview, in Lahore, Pakistan March 17, 2023. He can be seen seated with his hand outstretched and speaking. Two Pakistani flags are behind him](https://ichef.bbci.co.uk/ace/standard/781/cpsprodpb/5b38/live/42cda0b0-9cd7-11f1-8c2c-67800657f112.jpg)

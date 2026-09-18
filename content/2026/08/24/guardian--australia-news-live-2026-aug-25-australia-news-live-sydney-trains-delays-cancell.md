@@ -8,6 +8,10 @@ scraped_at: '2026-08-24T20:43:43Z'
 published: '2026-08-24T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/226a5c5e1a2a9b6196af42dace9e3d8e1b9fc7cf/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2115a9977e50f0edad1df94e5fb122b1
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Good morning and welcome to our live news blog. I’m **Martin Farrer** with the top overnight stories and then it will be**Nick Visser** with the main action.

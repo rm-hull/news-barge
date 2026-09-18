@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:01:09Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/travellers-site-hillam-near-selby-ldrs-2.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Furious residents say they feel “betrayed and helpless” after a traveller site was built in the North Yorkshire countryside without planning permission over the weekend.

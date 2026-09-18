@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:17:31Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/95-james-street-warehouse-york-gsv.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 The transformation of a York building has been given the go ahead.

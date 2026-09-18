@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: ABS’s snapshot of Australia’s accounts shows economic growth – albeit
   low – in the face ‘challenging international circumstances’
 image: https://i.guim.co.uk/img/media/46a863c86019b3f1cc0f6628bdd7def45519643e/731_0_3941_3153/master/3941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c34bafbb79eea1710480e2d3b374644
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The Australian Bureau of Statistics released its latest set of national accounts, which give us a snapshot of how the economy is performing in the quarter, and what’s happening under the hood.

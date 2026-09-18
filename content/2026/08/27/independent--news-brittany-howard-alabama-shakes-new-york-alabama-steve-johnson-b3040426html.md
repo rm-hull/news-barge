@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Alabama Shakes has returned with its first album in 11 years, and craft
   beer played a big part in their reunion
 image: https://static.independent.co.uk/2026/08/27/15/Alabama_Shakes_Portrait_Session_6776_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 Alabama Shakes has returned with the band's first album in 11 years and it turns out that craft beer played a big part in the reunion. Not drinking it, exactly.

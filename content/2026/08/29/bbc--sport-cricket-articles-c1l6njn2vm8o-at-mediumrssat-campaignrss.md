@@ -10,6 +10,10 @@ description: The decision to abandon play an hour early after a rain-hit third d
   of England’s second Test against Pakistan is criticised by former captain Nasser
   Hussain and fans.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c8ed/live/5f2e9650-a3db-11f1-9323-c53d27c293d7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![The Lord's scoreboard saying rain stops play](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c8ed/live/5f2e9650-a3db-11f1-9323-c53d27c293d7.jpg)

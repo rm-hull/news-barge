@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: Well-known Harrogate pilates company Ebru Evim Ltd has gone into liquidation
   with debts of more than £1 million.
 image: https://www.thenorthernecho.co.uk/resources/images/21376356.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Picture by Heidi Marfitt)*

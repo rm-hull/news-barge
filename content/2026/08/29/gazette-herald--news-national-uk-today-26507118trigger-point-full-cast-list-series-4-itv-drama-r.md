@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: Vicky McClure is back as Lana Washington for series four of Trigger Point,
   which will be airing on ITV
 image: https://www.gazetteherald.co.uk/resources/images/21388909.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 *(Image: ITV)*

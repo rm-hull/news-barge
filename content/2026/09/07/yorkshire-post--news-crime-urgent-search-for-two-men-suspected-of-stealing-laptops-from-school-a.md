@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Police are looking for the two men pictured after laptops were stolen
   from a Sheffield school.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU1MzRiMTY0LTNiODAtNDYyNS1hYjdkLThkNzgyM2M1ZmE3ZDozZjgyYmM3NC1kOGJjLTQ2YmMtYTE3My0xODU3ZTU1YzIzOGM=.png?crop=3:2,smart&trim=&width=875&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Urgent search for two men suspected of stealing laptops from school as police release CCTV

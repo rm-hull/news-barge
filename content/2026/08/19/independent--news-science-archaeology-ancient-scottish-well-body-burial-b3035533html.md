@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Such Iron Age burials in northern Scotland are usually rare, researchers
   say
 image: https://static.independent.co.uk/2026/08/19/10/38/Human-burial-found-in-what-may-have-been-ritual-well-in-Scotland.png?trim=20,0,21,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Archaeologists have discovered the strange remains of an individual placed deliberately at the bottom of a 2,000-year-old Scottish well, likely as part of an ancient ritual.

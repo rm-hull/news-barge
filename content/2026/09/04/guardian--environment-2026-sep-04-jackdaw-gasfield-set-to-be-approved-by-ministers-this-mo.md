@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Energy secretary could recommend new North Sea drilling next week, as
   ministers also consider approval for Rosebank oilfield
 image: https://i.guim.co.uk/img/media/362c71460eef0f88c8093af29cb66f14d8b50715/968_0_4840_3872/master/4840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09d0be2b368dedd4c9fc5a4a527a30d6
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Ministers are poised to approve a controversial new gasfield in the North Sea this month, according to government sources, and are considering approving a major oilfield later this year.

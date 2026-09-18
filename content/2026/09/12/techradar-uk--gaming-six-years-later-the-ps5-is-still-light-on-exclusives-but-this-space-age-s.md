@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: Returnal can be a punishing playthrough, but its many mysteries kept
   me coming back again and again.
 image: https://cdn.mos.cms.futurecdn.net/jAu8FaKdqs8daNzC8PRuhA-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![From the Backlog Returnal.](https://cdn.mos.cms.futurecdn.net/jAu8FaKdqs8daNzC8PRuhA.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: 'GFM Animation worked with Leonardo Di Caprio on his production company’s
   2023 animated film Ozi: Voice of the Forest.'
 image: https://www.yorkpress.co.uk/resources/images/21452817.jpg?type=og-image
+categories:
+- Local
+- York
+- Film & TV
 ---
 
 *(Image: Getty Images)*

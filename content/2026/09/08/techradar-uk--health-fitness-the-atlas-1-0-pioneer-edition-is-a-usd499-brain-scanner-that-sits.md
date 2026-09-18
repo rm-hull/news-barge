@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: The Atlas 1.0 Pioneer Edition promises research-grade brain monitoring,
   but pre-orders are already sold out.
 image: https://cdn.mos.cms.futurecdn.net/VF5DS8TSgmH7WFMDMAVtzn-1600-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Atlas 1.0 Pioneer Edition](https://cdn.mos.cms.futurecdn.net/VF5DS8TSgmH7WFMDMAVtzn.jpg) 

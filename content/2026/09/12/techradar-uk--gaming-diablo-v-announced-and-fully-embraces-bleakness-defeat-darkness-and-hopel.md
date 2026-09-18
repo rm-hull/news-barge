@@ -10,6 +10,9 @@ published: '2026-09-12T00:00:00Z'
 description: Diablo 5 was a surprise announcement at BlizzCon 2026 and looks to double
   down on the darkness of its predecessor
 image: https://cdn.mos.cms.futurecdn.net/QLRPmwh4TH7GtknXZmuyCf-2560-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![A screenshot from the Diablo V teaser trailer showing crucified victims](https://cdn.mos.cms.futurecdn.net/QLRPmwh4TH7GtknXZmuyCf.jpg) 

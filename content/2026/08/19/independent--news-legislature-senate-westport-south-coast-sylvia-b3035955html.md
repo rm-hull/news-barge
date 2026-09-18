@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Massachusetts is facing a housing crisis, needing 222,000 new homes by
   2035
 image: https://static.independent.co.uk/2026/08/19/21/Housing_Crisis_Massachusetts_31677.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Home, Garden & DIY
 ---
 
 Massachusetts is facing a housing crisis, and the clock is ticking. The state needs to build 222,000 new homes by 2035 to meet demand, according to Gov. Maura Healey’s office.

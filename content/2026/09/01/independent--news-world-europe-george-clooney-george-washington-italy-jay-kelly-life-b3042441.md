@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: George Clooney has become a staple at the Venice Film Festival over nearly
   three decades
 image: https://static.independent.co.uk/2026/09/01/05/What_to_Know-George_Clooney-Venice_45717.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Film & TV
 ---
 
 George Clooney just makes sense in Venice.

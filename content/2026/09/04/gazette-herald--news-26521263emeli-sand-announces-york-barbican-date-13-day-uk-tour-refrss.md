@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: Emeli Sandé is set to perform at York Barbican as part of a 13-date UK
   tour celebrating the 15th anniversary of her debut album.
 image: https://www.gazetteherald.co.uk/resources/images/21036767.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- Arts & Culture
 ---
 
 Award-winning singer-songwriter Emeli Sandé is set to perform at York Barbican as part of a 13-date UK tour celebrating the 15th anniversary of her debut album.

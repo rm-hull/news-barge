@@ -7,6 +7,12 @@ scraped_at: '2026-08-21T08:54:30Z'
 published: '2026-08-21T00:00:00Z'
 description: BRADFORD is set to come alive with the sound of classic ELO hits in September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19101122.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 *(Image: T&A)*

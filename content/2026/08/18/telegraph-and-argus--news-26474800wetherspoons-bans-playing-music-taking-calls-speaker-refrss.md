@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Wetherspoons pubs across the Bradford district have banned customers
   from playing music out loud or taking calls on speaker.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17962605.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: Tripadvisor)*

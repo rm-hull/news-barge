@@ -9,6 +9,11 @@ description: Saudi Arabia vowed it would not hesitate to take "deterrent measure
   against the Houthis after alerts were issued over possible drone attacks near Islam's
   holiest site, the first such alerts since the Iran war began in February.
 image: https://images.euronews.com/articles/stories/09/91/53/58/1200x675_cmsv2_f5e61c64-fb2f-5852-b580-705018dd24e0-9915358.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Saudi Arabia vowed it would not hesitate to take "deterrent measures" against the Houthis after alerts were issued over possible drone attacks near Islam's holiest site, the first such alerts since the Iran war began in February.

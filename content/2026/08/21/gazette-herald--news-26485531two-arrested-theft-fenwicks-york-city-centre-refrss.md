@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Two men have been arrested after a chase through York city centre - which
   exposed them as potential drug dealers.
 image: https://www.gazetteherald.co.uk/resources/images/20354042.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Staff)*

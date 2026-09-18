@@ -10,6 +10,11 @@ description: Paul Berriff was in New York when the twin towers were struck in a 
   attack 25 years ago. He speaks to Laura Reid about the events of that day and how
   they have shaped him.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjA5YjFiZTUwLWM0ZTAtNDJkNS05MjhhLTMzNDJlYmM1ZTgwMzo3YzFiODhjOC01ZTY0LTRiMWQtYjIzYy0wYjA2M2M0MDU2YzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Yorkshire documentary maker Paul Berriff: 'I was caught up in September 11 terror attack - it made me appreciate how precious life is'

@@ -10,6 +10,11 @@ description: Doha said it invited Tehran to send a technical team to review its 
   and suggesting they were aimed at a domestic audience. Qatar's foreign ministry
   also said US-Iran talks were "far" from resuming.
 image: https://images.euronews.com/articles/stories/09/87/89/16/1200x675_cmsv2_f293100e-36d5-59b3-accc-fdc8bdac0a5f-9878916.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations "false" and "illogical" and suggesting they were aimed at a domestic audience. Qatar's foreign ministry also said US-Iran talks were "far" from resuming.

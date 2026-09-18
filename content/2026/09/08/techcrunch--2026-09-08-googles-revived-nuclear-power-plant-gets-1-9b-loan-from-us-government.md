@@ -9,6 +9,10 @@ description: Google said it would bring an Iowa nuclear power plant back from th
   dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy
   Department.
 image: https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900
+categories:
+- Personal Finance & Investing
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Last October, Google said it would bring an Iowa nuclear power plant back from the dead. Now the facility’s owner, NextEra Energy, has received a $1.9 billion loan from the U.S. Department of Energy to finance the refurbishment.

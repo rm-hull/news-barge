@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: The film captures the euphoria of Oasis' comeback, but fails to explore
   the story of their reunion.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca95/live/e665b360-aac5-11f1-9bcd-4de40c4158ea.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 ![Noel and Liam Gallagher at the Venice Film Festival, they are both wearing black and Liam is wearing black](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/ca95/live/e665b360-aac5-11f1-9bcd-4de40c4158ea.jpg)

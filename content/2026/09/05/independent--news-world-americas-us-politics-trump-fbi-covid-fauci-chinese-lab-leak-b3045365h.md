@@ -10,6 +10,10 @@ description: Many Trump supporters believe the former director of the National I
   of Allergy and Infectious Diseases covered up a lab leak in Wuhan that they believe
   caused the pandemic
 image: https://static.independent.co.uk/2026/09/05/21/36/GettyImages-2288176216.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 New details about the FBI’s push under the second Trump administration to investigate Dr. Anthony Fauci and find evidence Covid-19 came from a Chinese lab have emerged.

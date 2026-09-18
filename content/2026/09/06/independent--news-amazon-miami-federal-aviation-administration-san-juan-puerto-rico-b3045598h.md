@@ -8,6 +8,11 @@ scraped_at: '2026-09-06T22:06:31Z'
 published: '2026-09-06T00:00:00Z'
 description: An Amazon cargo plane has overshot a runway at Miami International Airport
 image: https://static.independent.co.uk/2026/08/19/11/Amazon_Drone_Delivery_Expansion_61751.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon cargo plane sends up billowing cloud of smoke after overrunning runway at Miami airport

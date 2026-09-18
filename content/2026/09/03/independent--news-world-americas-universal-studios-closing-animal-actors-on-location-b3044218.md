@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: The live show has featured animal stars from films and TV, including
   Frank the Pug from ‘Men in Black’ and Marley from ‘Marley & Me’
 image: https://static.independent.co.uk/2026/09/03/14/44/Untitled-design-(5).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Universal Studios Florida is saying goodbye to one of its final remaining opening-day attractions after 36 years.

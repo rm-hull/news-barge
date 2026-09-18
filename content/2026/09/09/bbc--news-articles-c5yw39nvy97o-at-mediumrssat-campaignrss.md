@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Police say any mistakes were not missed opportunities to prevent the
   2023 Nottingham attacks.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/522c/live/58c119d0-ac2a-11f1-9bd9-7b7da208bd5c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A composite image of Barnaby Webber, Grace O'Malley-Kumar and Ian Coates](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/522c/live/58c119d0-ac2a-11f1-9bd9-7b7da208bd5c.jpg)

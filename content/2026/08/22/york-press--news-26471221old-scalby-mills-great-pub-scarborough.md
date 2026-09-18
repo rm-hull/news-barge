@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: The Old Scalby Mills can be found in a converted watermill and offers
   pub classic dishes.
 image: https://www.yorkpress.co.uk/resources/images/21330833.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 *(Image: Tripadvisor)*

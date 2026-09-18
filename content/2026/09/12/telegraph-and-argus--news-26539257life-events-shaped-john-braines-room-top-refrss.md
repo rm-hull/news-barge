@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: PREVIOUS commentators assumed that because John Braine was Librarian
   at Bingley, he based his novel Room at the Top on events that primarily…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435462.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Books & Literature
 ---
 
 PREVIOUS commentators assumed that because John Braine was Librarian at Bingley, he based his novel Room at the Top on events that primarily happened there.

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The teen argued that the rule she violated wasn’t valid because there
   wasn’t a public hearing about it
 image: https://static.independent.co.uk/2026/09/13/18/51/High-school-student-suspended-for-bringing-cup-of-coffee-to-class.png?trim=1,167,160,288&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A high school honors student in upstate New York was suspended on the first day — all because she brought a cup of coffee to class.

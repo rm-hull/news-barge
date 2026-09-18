@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Eighteen migrants have been laid to rest in Ceuta’s Muslim cemetery following
   Spain’s deadliest border crisis three weeks ago
 image: https://static.independent.co.uk/2026/08/21/20/Migration_Spain_Ceuta_Burials_71634.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Against the murmur of prayers, body bags were lowered into graves marked only with numbers. Gravediggers placed the first four victims in cinderblock plots while a small group of locals watched at a cemetery on the tip of North Africa.

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: UK-based jewellery company Roxoa and its four online brands have fallen
   into administration after nearly 20 years in business.
 image: https://www.thenorthernecho.co.uk/resources/images/21375135.jpg?type=og-image&xType=0&yType=31
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

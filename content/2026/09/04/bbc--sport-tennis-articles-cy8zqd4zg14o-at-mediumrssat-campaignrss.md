@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: The behaviour of influencers and content creators has become a major
   talking point at this year's US Open amid incidents of matches being disrupted.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1c0b/live/aa385610-a843-11f1-b3a7-d5de760fef6e.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A view above Arthur Ashe Stadium as a light show takes place before the night session](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/7a40/live/c44f1f80-a7f2-11f1-80bd-59b2047f8bb0.jpg)

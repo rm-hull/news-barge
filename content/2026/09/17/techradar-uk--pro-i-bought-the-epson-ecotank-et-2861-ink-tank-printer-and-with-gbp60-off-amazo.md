@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: I've been impressed by my Epson EcoTank ET-2861, and Amazon's £60 discount
   makes this refillable ink tank printer even better value.
 image: https://cdn.mos.cms.futurecdn.net/gyGUoBjdvj5P9jazUvnSrf-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An Epson EcoTank ET-2861 printer on a blue background next to a TechRadar badge that reads 'Big Savings'](https://cdn.mos.cms.futurecdn.net/gyGUoBjdvj5P9jazUvnSrf.jpg) 

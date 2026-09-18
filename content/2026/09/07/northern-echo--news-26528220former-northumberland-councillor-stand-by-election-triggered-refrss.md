@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A former councillor who lost his seat for failing to turn up to a single
   council meeting for six months will stand in the by-election he triggered.
 image: https://www.thenorthernecho.co.uk/resources/images/21420113.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A former councillor who lost his seat for failing to turn up to a single council meeting for six months will stand in the by-election he triggered.

@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A man involved in a targeted shooting and petrol-bomb attack on a County
   Durham house has been jailed for 15 years.
 image: https://www.thenorthernecho.co.uk/resources/images/21437357.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: Durham Constabulary)*

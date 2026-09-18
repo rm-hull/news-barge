@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: A building has collapsed in New Delhi, killing at least one person and
   trapping several others
 image: https://static.independent.co.uk/2026/09/06/13/India_Building_Collapse_74778.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A building collapsed in New Delhi on Sunday, killing at least one person and trapping several others, officials said.

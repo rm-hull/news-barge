@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: A GLOBAL campaign is set to return, promoting fair treatment and better
   pay for farmers and workers
 image: https://www.thetelegraphandargus.co.uk/resources/images/20093579.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Other)*

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Bathla Group says softening sales and impacts from federal government’s
   May budget contributed it being placed in voluntary administration
 image: https://i.guim.co.uk/img/media/71ac68734222b1354524dc95903bde3e7d872017/826_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8eedb2630af400681155a70be2ac3193
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Embattled home builder Bathla Group has been placed into voluntary administration, leaving customers in limbo in what it says is a “perfect storm” of circumstances.

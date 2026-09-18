@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: York is a great city to retire to thanks to its beautiful gardens, range
   of restaurants, and things to do.
 image: https://www.yorkpress.co.uk/resources/images/21331232.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 *(Image: Getty)*

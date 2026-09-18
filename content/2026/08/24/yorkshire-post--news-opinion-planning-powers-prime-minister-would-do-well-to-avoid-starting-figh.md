@@ -9,6 +9,12 @@ description: Anyone surprised that Prime Minister Andy Burnham plans to hand the
   to regional mayors that will help them to push on with planning applications and
   subsequent on-the-ground development cannot have been paying attention.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEyM2Q0NjMzLWMwMjAtNDUxZC1hNzlhLTI1YTQxNmM5MDRhOTo5YWJjZTdmYy1iNjI2LTQ1MzUtOGY2Ni1hZDE5ZjdiNTg0NTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Planning powers: Prime Minister would do well to avoid starting fights with good people

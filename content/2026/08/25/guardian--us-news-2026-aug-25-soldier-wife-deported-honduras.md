@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military
   spouse to face removal amid Trump 2.0
 image: https://i.guim.co.uk/img/media/f434cb116b88c3dbf993df521abab27cfc2ba39a/544_0_5443_4355/master/5443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b113a07cd88747dfcb8ae820c44cbea
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her family and the federal Department of Homeland Security (DHS).

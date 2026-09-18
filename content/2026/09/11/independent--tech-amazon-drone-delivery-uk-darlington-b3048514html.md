@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Vice-president of Prime Air said the advantages of a drone over a van
   are ‘really simple’
 image: https://static.the-independent.com/2026/09/11/10/01M27H3EMQPC3CPC74PZ26SQ05.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Amazon is "on the precipice" of securing approval to extend its drone delivery operation across the whole of Darlington, as it prepares to roll out the service across the UK.

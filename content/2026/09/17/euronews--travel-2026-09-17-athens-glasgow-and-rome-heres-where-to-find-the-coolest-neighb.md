@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The hottest area in Athens – Neos Kosmos – claimed first in Europe and
   third place in the overall ranking.
 image: https://images.euronews.com/articles/stories/09/91/74/29/1200x675_cmsv2_7a6b7510-b5bc-544b-ad8a-f61dd01286ed-9917429.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The hottest area in Athens – Neos Kosmos – claimed first in Europe and third place in the overall ranking.

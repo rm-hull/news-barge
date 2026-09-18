@@ -10,6 +10,10 @@ description: After Novak Djokovic's latest bid for a historic 25th major title e
   in tears in New York, where does the most decorated men's player of the Open era
   go from here?
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3934/live/2c6c3e70-a589-11f1-86c5-a103e9fe117a.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Djokovic overcome with emotion during US Open loss

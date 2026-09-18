@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T16:56:05Z'
 published: '2026-08-26T00:00:00Z'
 description: A person has been rescued following a house fire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19257670.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

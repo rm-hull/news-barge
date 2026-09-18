@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: The extraordinary danger is that a president who believes he is the law,
   and the law is him, remains intent on disrupting the electoral process
 image: https://i.guim.co.uk/img/media/d50ba7cad020e1b2dd539156cfa1b0b5e337dbca/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=35dc8b5137ebdfe56cb238a7a07cac89
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Law & Justice
 ---
 
 For the millions of Americans who vote by mail – almost a third of the country – the week began with significant uncertainty that they would be able to easily submit their ballot this fall, thanks to a March executive order from Donald Trump that aimed to restrict mail-in ballots. By Monday night, the supreme court restored a measure of order by rebuking the president and rejecting his plan – but Trump’s frothing response portends more danger for the rapidly approaching midterms.

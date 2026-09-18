@@ -10,6 +10,10 @@ description: Between 40 and 50 workers have died in the Israel-Hamas war at one 
   fuel shortages and the destruction of 74% of Gaza's road network made motorised
   delivery impossible.
 image: https://images.euronews.com/articles/stories/09/91/57/13/1200x675_cmsv2_3047f803-6803-5b55-9acf-0b167dce3dda-9915713.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Mohammed Nashbat** with

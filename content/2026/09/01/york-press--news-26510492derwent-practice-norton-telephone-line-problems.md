@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A SURGERY in North Yorkshire is facing issues with its telephone lines
   this morning (Tuesday).
 image: https://www.yorkpress.co.uk/resources/images/20654706.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Social media)*

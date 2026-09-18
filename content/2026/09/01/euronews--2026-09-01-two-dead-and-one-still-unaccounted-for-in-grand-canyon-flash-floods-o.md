@@ -9,6 +9,10 @@ description: Rescue efforts were hampered on Monday by more heavy rains that swe
   through the region, a natural part of the seasonal monsoon that frequently causes
   flash floods.
 image: https://images.euronews.com/articles/stories/09/89/64/74/1200x675_cmsv2_e730053f-514a-5af6-b1ca-126258cec594-9896474.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Rescue efforts were hampered on Monday by more heavy rains that swept through the region, a natural part of the seasonal monsoon that frequently causes flash floods.

@@ -9,6 +9,10 @@ description: 'Plus: Tens of millions of US and Canadian drivers’ licenses go u
   sale on the dark web, the US military finally tries to tackle the risk online ad
   data poses to troops, and more.'
 image: https://media.wired.com/photos/6a9b05bd8cf97243010f350d/191:100/w_1280,c_limit/Security_OpenAI%20Agents%20Tried%20to%20Hack%20Another%20Website_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 After reporting last week that the surveillance company Flock Safety is building an AI search tool for law enforcement, WIRED reconstructed Flock’s latest search tool from code that the company sends to a police officer’s browser and uncovered key details about how the tool works.

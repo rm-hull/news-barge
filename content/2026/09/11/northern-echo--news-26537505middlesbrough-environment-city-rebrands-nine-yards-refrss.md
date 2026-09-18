@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Middlesbrough Environment City has now rebranded to be known as Nine
   Yards for its work across the region.
 image: https://www.thenorthernecho.co.uk/resources/images/21433351.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A Teesside charity has rebranded to reflect its expanding work across the region.

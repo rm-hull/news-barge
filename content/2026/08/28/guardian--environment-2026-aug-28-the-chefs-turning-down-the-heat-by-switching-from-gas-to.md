@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: As well as being quieter, cheaper to run and easier to clean, induction
   cookers can cut kitchen temperatures by up to 10C
 image: https://i.guim.co.uk/img/media/d1def661acc139e91595c15f4d61e27293a8135e/950_0_4750_3800/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=568e1d76fccc389c822c3330f958491b
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Leaping flames, searing heat, copious sweat and scorchingly inventive swearing – restaurant kitchens are never a place for the faint-hearted, but this summer they have been sweltering in successive heatwaves to a dangerous degree.

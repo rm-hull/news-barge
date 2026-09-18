@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Reform UK has proposed cutting capital gains tax on crypto investments
   to 10%
 image: https://i.guim.co.uk/img/media/85a801186c1bbe372b84574d852cfe671a33a4ed/522_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9734637fe86f38693a6ea341f5f7cae6
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Crypto millionaires would gain £500m over 5 years from Reform UK's crypto tax cuts, Labour analysis says

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Open earbuds are my go-to headphones for nearly any outdoor activity,
   especially exercise. These are the best ones I’ve tested.
 image: https://media.wired.com/photos/6aac199afb7533563c9903e0/191:100/w_1280,c_limit/The-Best-Open-Earbuds-I%E2%80%99ve-Tested.jpg
+categories:
+- Technology & Software
+- Science
+- Health & Fitness
 ---
 
 Open earbuds are the big new thing in headphone land. Unlike in-ear variants, open earbuds are like tiny speakers that rest on the ear and let outside sound in naturally, so you can fully hear the world around you. Some use a hook style that wraps around the back of your ear, while others are clip-ons that look more like statement-piece earrings. Style aside, they are excellent for anyone who finds traditional earbuds uncomfortable or wants full environmental awareness for activities like running, biking, or even just doing chores around the house.

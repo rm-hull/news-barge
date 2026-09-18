@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Maldives president ‘deeply disappointed’ not to be consulted when Keir
   Starmer agreed to cede sovereignty of islands to Mauritius last year
 image: https://static.independent.co.uk/2026/02/26/08/060d96a9ad88ed022f49f4e1f96ac224Y29udGVudHNlYXJjaGFwaSwxNzcyMTgwNjY0-2.78913499.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Maldives president Mohamed Muizzu has asked prime minister Andy Burnham to reopen talks over the sovereignty of the disputed Chagos Islands.

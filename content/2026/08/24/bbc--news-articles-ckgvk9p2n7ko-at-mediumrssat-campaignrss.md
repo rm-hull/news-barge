@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Five years after the Taliban’s return, the BBC follows senior figures
   as the group reshapes the country.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d35d/live/8a564f50-9d76-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Portrait of Governor Abdullah Sarhadi in his office in Sheberghan. He has a long grey beard and is wearing a black Afghan headdress, and is looking to the left of the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/9ba8/live/e39b75b0-9d65-11f1-b109-879e35c24276.jpg)

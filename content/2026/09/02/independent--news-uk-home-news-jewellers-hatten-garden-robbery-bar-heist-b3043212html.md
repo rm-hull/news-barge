@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Jewellers said the proposals made a mockery of the infamous heist where
   businesses lost their livelihoods
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/05/19/15/hatton-garden-getty.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Jewellers have criticised a “bad taste” plan to transform the site of the infamous Hatton Garden burglary into a break-in-themed bar.

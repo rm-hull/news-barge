@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Tropical Birdland in Desford said that ‘sudden heavy rainfall’ after
   the heatwaves had caused the mob’s tunnels to collapse
 image: https://static.independent.co.uk/2026/08/24/15/35/784005228_1418359413516987_8259387524255673371_n.jpeg?trim=124,0,355,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Several meerkats have died after they became trapped under a collapsed tunnel at a wildlife park in Leicestershire.

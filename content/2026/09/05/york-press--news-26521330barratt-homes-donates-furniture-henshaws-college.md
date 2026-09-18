@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Barratt Homes has donated a table and stools to the Henshaws Arts and
   Crafts Centre.
 image: https://www.yorkpress.co.uk/resources/images/21409597.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Home, Garden & DIY
 ---
 
 *(Image: Barratt Homes)*

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The comedian interrupted North West Tonight weather presenter Molly Brewer
   as she gave her report.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9491/live/58ecce80-a186-11f1-9ebf-d7a2f4c11284.png
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 'Get your central heating on now'

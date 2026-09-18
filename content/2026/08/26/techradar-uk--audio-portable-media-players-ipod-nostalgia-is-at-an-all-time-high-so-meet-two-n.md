@@ -9,6 +9,9 @@ scraped_at: '2026-08-26T23:23:52Z'
 published: '2026-08-26T00:00:00Z'
 description: A stylish music player renaissance is upon us
 image: https://cdn.mos.cms.futurecdn.net/3E7DPhrojcvTXN4DDgZfJj-2000-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![A row of Fiio Echo Nano on the left of the image, and two and Shanling Q2 on the rihgt.](https://cdn.mos.cms.futurecdn.net/3E7DPhrojcvTXN4DDgZfJj.jpg) 

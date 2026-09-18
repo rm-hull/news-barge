@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Thick, toxic fumes and extreme temperatures pose a challenge to rescuers
   who have boarded the ship.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d23/live/4db05bf0-ad92-11f1-89c7-2d9bd86063c9.jpg
+categories:
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Watch: Crews race to rescue passengers from burning ferry in Philippines

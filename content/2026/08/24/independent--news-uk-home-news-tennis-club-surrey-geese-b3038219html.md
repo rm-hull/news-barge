@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A club spokesperson said information was ‘deliberately restricted’ to
   those involved in making the decision
 image: https://static.independent.co.uk/2026/08/06/8/52/geese1.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Members of a private tennis club in Surrey have accused the club of an attempt to “deliberately conceal” the secret culling of several beloved local geese.

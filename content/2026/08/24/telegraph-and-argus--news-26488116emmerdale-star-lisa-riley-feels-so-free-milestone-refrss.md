@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Emmerdale star Lisa Riley has said she feels "so free" after reaching
   11 years of sobriety.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20796309.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: ITV)*

@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T12:42:28Z'
 published: '2026-09-04T00:00:00Z'
 description: ACTION, not talk, is needed to lift families out of fuel poverty.
 image: https://www.thenorthernecho.co.uk/resources/images/21408292.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

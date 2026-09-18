@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Ben Delo, who was convicted in 2022 for failure to apply anti-money laundering
   controls, is party’s second biggest donor
 image: https://i.guim.co.uk/img/media/091692f78253f08d995456a1665f7c31396b249f/1601_486_5789_4632/master/5789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e371aee84a74d9cb7106f864a492ac41
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Reform UK has been given a further £4m from the British crypto billionaire Ben Delo, with the party saying it is confident the formerly Hong Kong-based businessman will not be caught by the new overseas donor cap.

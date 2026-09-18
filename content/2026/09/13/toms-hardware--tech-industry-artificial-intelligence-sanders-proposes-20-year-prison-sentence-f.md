@@ -9,6 +9,9 @@ scraped_at: '2026-09-13T18:46:53Z'
 published: '2026-09-13T00:00:00Z'
 description: Scale of penalty matches that facing rogue nuclear weapon designers.
 image: https://cdn.mos.cms.futurecdn.net/oAKof7fdsFDAFkCAKvWZud-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Bernie Sanders](https://cdn.mos.cms.futurecdn.net/oAKof7fdsFDAFkCAKvWZud.jpg) 

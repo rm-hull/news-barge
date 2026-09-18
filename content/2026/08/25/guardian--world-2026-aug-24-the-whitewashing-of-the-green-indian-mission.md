@@ -9,6 +9,10 @@ description: The flagship environmental project has achieved ‘negligible’ re
   Why so little progress, and what are the risks as the planet gets hotter? Plus,
   fusion dance pioneer Usha Jey
 image: https://i.guim.co.uk/img/media/1c5386cc3f0c852e95ee00b3238201249549b796/475_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24b7dac91e7a299e8291c1a4c6b99b7c
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 India set out to expand its forested areas a decade ago. Last week, however, we learned that the forest cover programme had barely taken root when the government’s auditors released their findings of the flagship Green India Mission. The shortfall of 97.57% from India’s initial pledge in 2014 was stark enough to alarm the government’s own auditor, who described the progress as “negligible”.

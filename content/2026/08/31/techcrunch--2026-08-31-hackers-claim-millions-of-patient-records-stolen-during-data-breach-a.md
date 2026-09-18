@@ -10,6 +10,10 @@ description: The company, which distributes medicines and medical devices to hos
   and healthcare practices across the U.S., said it was hacked and expects intermittent
   service degradation.
 image: https://techcrunch.com/wp-content/uploads/2026/08/mckesson-2236133684.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 A prolific hacking group has taken credit for last week’s cyberattack against U.S. pharmaceutical distribution giant McKesson, leading to the latest spill of highly sensitive health data by an American healthcare company in recent months.

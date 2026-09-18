@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Video. More than 2,000 robots compete in races, football and tai chi
   at the Beijing Robot Games, testing the movement and stability of humanoid machines.
 image: https://images.euronews.com/articles/stories/09/88/57/69/1200x675_cmsv2_e4eb28cb-2fd4-5f83-9dc7-d8308f413296-9885769.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 More than 2,000 robots are taking part in the Beijing Robot Games, where humanoid machines race, play football and perform tai chi.

@@ -11,6 +11,10 @@ description: Two decades after U.S. authorities locked Khalid Sheikh Mohammed aw
   attacks sometimes seems barely any closer to being put on trial than the day he
   arrived
 image: https://static.independent.co.uk/2026/08/27/01/Sept-11_Mastermind_Trial_42296.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 As America marks the 25th anniversary of the September 11 attacks, the man accused of masterminding the plot remains behind bars at Guantanamo Bay — without ever having faced trial.

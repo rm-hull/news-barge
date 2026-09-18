@@ -9,6 +9,8 @@ published: '2026-09-01T00:00:00Z'
 description: The cybersecurity giant continues its winning streak in the AV-Comparatives
   2026 Q3 Anti-Phishing test, without a single false alarm
 image: https://cdn.mos.cms.futurecdn.net/zmJ2RgmxhzQ8HMH2mDJdXi-1280-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![NordVPN on a mobile phone](https://cdn.mos.cms.futurecdn.net/zmJ2RgmxhzQ8HMH2mDJdXi.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Romaldkirk has been praised as one of County Durham's prettiest villages
   for its historic stone houses, village green, church and peaceful…
 image: https://www.thenorthernecho.co.uk/resources/images/21392660.jpg?type=og-image&xType=0&yType=568
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Stuart Boulton)*

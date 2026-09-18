@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: The operator said it does not rule out further restrictions on shipping
   depending on how much it rains in the coming weeks.
 image: https://images.euronews.com/articles/stories/09/88/31/03/1200x675_cmsv2_19aef8ab-2f8c-5e20-ab07-301b4457c62f-9883103.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The operator said it does not rule out further restrictions on shipping depending on how much it rains in the coming weeks.

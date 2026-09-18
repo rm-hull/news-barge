@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Iran will not allow military vessels to transit through the Strait of
   Hormuz if the agreement the Islamic Republic is negotiating with Oman is finalized
 image: https://static.independent.co.uk/2026/08/26/12/Israel_Palestinians_Gaza_62183.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Business & Entrepreneurship
 ---
 
 Iran will not allow military vessels to transit through the Strait of Hormuz under an agreement the Islamic Republic is currently negotiating with Oman, Iran's Deputy Foreign Minister told state TV late on Tuesday night.

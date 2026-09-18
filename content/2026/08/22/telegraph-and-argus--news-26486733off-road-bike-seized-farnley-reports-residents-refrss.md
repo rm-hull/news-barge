@@ -8,6 +8,12 @@ published: '2026-08-22T00:00:00Z'
 description: An off-road bike has been seized in Farnley after officers responded
   to reports from residents about a rider repeatedly travelling up and down a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357407.jpg?type=og-image&xType=0&yType=108
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- Travel
 ---
 
 *(Image: West Yorkshire Police)*

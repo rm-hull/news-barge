@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: Eleven-year-old Isaac Batisa searches for gold at a mining site in eastern
   Congo to help feed his family
 image: https://static.independent.co.uk/2026/08/19/06/APTOPIX_Congo_Ebola_Mining_71291.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Isaac Batisa spends his days digging for gold at a mining site in eastern Congo, hoping to earn enough money to support his family.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:54:12Z'
 published: '2026-09-07T00:00:00Z'
 description: A former tax worker is sentenced to two years for inciting hatred online.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/48a1/live/574a6890-aadb-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Thomas Webster was investigated by police after comments he made to an undercover journalist in a BBC programme

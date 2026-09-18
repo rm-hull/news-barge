@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:13:39Z'
 published: '2026-08-27T00:00:00Z'
 description: The FTSE 100 index closed down 85.58 points, 0.8%, at 10,792.54.
 image: https://static.independent.co.uk/2026/08/27/17/309820712ac1b025484a7a3ad0fae650Y29udGVudHNlYXJjaGFwaSwxNzg3OTMwOTIz-2.82985241.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The FTSE 100 faltered on Thursday despite technology focused stocks getting a boost from Nvidia, with investors wary ahead of Kevin Warsh’s speech at Jackson Hole.

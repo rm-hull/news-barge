@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Just a couple of minutes of walking around or stretching every hour can
   improve memory and attention span
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312402242.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![People practice yoga in Paris](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312402242.jpg?w=840)

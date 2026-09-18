@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: ‘Devastating’ UK forest fires show urgent action is needed by 2030 to
   save the planet, he says
 image: https://static.independent.co.uk/2026/06/26/02/2260510263..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Prince William has issued a dramatic plea for action to tackle climate change to be sped up before it is too late.

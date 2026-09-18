@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:16Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/11/two-north-yorkshire-fire-engines.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 There was a crash in Malton last night (Wednesday).

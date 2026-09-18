@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:38Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/791102593_1391695043069037_4744594705550277875_n-e1788256969573.jpg
+categories:
+- Local
+- York
+- History
 ---
 
 Police have issued this CCTV image of a person they would like to speak to following thefts in York.

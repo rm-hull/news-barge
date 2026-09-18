@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: People have lined the streets in Oslo as Norway's King Harald V dies
   aged 89
 image: https://static.independent.co.uk/2026/08/29/21/2026-08-29T173457Z_1381792498_RC2G8NASAHWG_RTRMADP_3_NORWAY-ROYALS-KING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 Tens of thousands of people gathered outside the royal palace in Oslo on Saturday to pay tribute to Norway's King Harald V, laying flowers and condolence cards a day after the monarch died at the age of 89.

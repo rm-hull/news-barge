@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Stockton woman is raising awareness of hidden heart conditions after
   her father died of a sudden heart attack.
 image: https://www.thenorthernecho.co.uk/resources/images/21456927.jpg?type=og-image&xType=0&yType=220
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Stockton woman is raising awareness of hidden heart conditions after her father died of a sudden heart attack.

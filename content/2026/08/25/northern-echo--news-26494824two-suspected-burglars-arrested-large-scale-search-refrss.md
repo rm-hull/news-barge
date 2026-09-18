@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Two suspected burglars have been arrested after police spent almost two
   hours searching a vast area of countryside in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/21232932.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

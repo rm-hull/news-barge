@@ -8,6 +8,8 @@ scraped_at: '2026-09-01T19:22:21Z'
 published: '2026-09-01T00:00:00Z'
 description: Meta's robotics strategy continues to play out
 image: https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Data center](https://cdn.mos.cms.futurecdn.net/kntXJzuBjvVTZvqgBeCKfN.jpg) 

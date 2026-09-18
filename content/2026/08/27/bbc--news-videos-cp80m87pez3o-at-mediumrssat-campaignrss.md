@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: BBC Verify traces the path of the destructive Nepal-Tibet flash flood
   using verified video.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbe8/live/ecb52260-a23b-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Tracing the deadly path of the Nepal-Tibet flash flood

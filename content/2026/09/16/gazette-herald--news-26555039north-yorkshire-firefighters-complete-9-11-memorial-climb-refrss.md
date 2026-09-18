@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Nine firefighters from North Yorkshire have raised almost £2,000 after
   climbing 110 floors in full fire kit in memory of their fallen colleagues.
 image: https://www.gazetteherald.co.uk/resources/images/21462367.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: North Yorkshire Fire & Rescue Service)*

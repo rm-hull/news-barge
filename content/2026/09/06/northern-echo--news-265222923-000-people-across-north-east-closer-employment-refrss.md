@@ -8,6 +8,13 @@ published: '2026-09-06T00:00:00Z'
 description: MORE than 3,000 people have been supported to move closer to work through
   housing-led employability schemes.
 image: https://www.thenorthernecho.co.uk/resources/images/21410943.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

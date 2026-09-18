@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The legendary basketball star is helping the provider shed its VPN-only
   image by highlighting its next-gen antivirus features
 image: https://cdn.mos.cms.futurecdn.net/XHtLjmtszfU6gLnFybg9B4-1200-80.png
+categories:
+- Technology & Software
+- Sports
+- Business & Entrepreneurship
 ---
 
 ![Shaquille O'Neal partnership with NordVPN, promo image](https://cdn.mos.cms.futurecdn.net/XHtLjmtszfU6gLnFybg9B4.png) 

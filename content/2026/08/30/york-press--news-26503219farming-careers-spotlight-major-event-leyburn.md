@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The Women in Farming Network’s annual Autumn Gathering returns for its
   13th edition at The Garden Rooms at Tennants in Leyburn.
 image: https://www.yorkpress.co.uk/resources/images/21383084.jpg?type=og-image&xType=0&yType=138
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 *(Image: Yorkshire Agricultural Society)*

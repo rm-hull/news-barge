@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Aldi has cut the price of British strawberries in its stores in response
   to a high yield among growers due to heatwave conditions
 image: https://www.thenorthernecho.co.uk/resources/images/19661690.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Aldi)*

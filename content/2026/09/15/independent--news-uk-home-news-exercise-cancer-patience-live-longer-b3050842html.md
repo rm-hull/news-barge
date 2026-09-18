@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Exercise may have benefits that ‘extend beyond its traditional role in
   improving quality of life’, according to researchers
 image: https://static.independent.co.uk/2026/08/28/17/01KWCACBDS09MCEK2CMM3DQZ99.jpg?trim=0,35,0,35&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Cancer patients who integrate structured physical activity into their routine medical treatment could live for longer and have more time free of disease, research indicates.

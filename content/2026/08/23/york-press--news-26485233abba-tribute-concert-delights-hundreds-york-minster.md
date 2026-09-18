@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: An ABBA tribute concert had fans dancing in the aisles at York Minster
   earlier this month.
 image: https://www.yorkpress.co.uk/resources/images/21355376.jpg?type=og-image&xType=0&yType=564
+categories:
+- Local
+- York
+- Music
 ---
 
 ## York Minster comes alive with ABBA hits at candlelit concert

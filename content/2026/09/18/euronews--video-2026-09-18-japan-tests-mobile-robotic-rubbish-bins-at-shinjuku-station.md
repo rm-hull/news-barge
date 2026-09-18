@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Video. Japan's busiest railway station is testing mobile robotic rubbish
   bins in Tokyo, with the aim of easing the workload of sanitation workers.
 image: https://images.euronews.com/articles/stories/09/91/92/12/1200x675_cmsv2_827fa015-ac5c-50ab-8d90-1e46d81331b9-9919212.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Three automated bins** are being trialled at**Shinjuku Station**, where more than** 2.7 million passengers**pass through the wider complex each day. Standing just over one metre tall and moving at a cautious** 20 centimetres per second**, the machines can stop quickly around passengers. The trial began on** 8 September**and runs until** 20 November** on weekdays between 10:00 and 17:00 on the first basement-level paid concourse.

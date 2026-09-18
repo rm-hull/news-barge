@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: A NEW Year’s Eve 5K event is set to return to Newcastle with ambitions
   to double in size.
 image: https://www.thenorthernecho.co.uk/resources/images/21400612.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Richard Lee / Photographer)*

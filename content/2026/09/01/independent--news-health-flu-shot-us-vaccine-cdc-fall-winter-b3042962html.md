@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T22:34:03Z'
 published: '2026-09-01T00:00:00Z'
 description: The vaccines prevented 10 million illnesses last year
 image: https://static.independent.co.uk/2026/09/01/20/1422321173..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 With the arrival of fall, it’s time for Americans to think about flu shots.

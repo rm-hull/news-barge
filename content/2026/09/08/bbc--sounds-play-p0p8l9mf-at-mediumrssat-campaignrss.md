@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T19:25:24Z'
 published: '2026-09-08T00:00:00Z'
 description: UK imposes sanctions on Israeli settlements in the West Bank.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: South African police have discovered the bodies of nine women in the
   east of Johannesburg over the past two months
 image: https://static.independent.co.uk/2026/09/17/09/2295100869..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Health & Fitness
 ---
 
 South African police revealed on Thursday that a ninth woman’s body has been discovered in an area east of Johannesburg, and said it could be linked to a series of killings they are investigating.

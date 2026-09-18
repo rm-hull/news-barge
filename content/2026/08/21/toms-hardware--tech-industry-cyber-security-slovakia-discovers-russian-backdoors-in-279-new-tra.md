@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T13:06:43Z'
 published: '2026-08-21T00:00:00Z'
 description: The camera access web interface also has a no-password vulnerability.
 image: https://cdn.mos.cms.futurecdn.net/rssf7nwVXe3Fx3tJCdW5Ud-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Slovakia discovers Russian backdoors in 279 new traffic cameras](https://cdn.mos.cms.futurecdn.net/rssf7nwVXe3Fx3tJCdW5Ud.jpg) 

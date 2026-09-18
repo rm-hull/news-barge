@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Gas station giant Buc-ee’s has sparked a backlash in Ohio over one of
   its frequent trademark infringement lawsuits
 image: https://static.independent.co.uk/2026/08/23/06/Buc-ee%27s_Ohio_Outcry_347_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Buc-ee’s says it is simply protecting its trademark.

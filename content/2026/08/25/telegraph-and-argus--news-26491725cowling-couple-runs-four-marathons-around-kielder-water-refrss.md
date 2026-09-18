@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T04:50:55Z'
 published: '2026-08-25T00:00:00Z'
 description: A couple ran 106 gruelling miles to raise money for a mental health charity.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365985.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 A couple ran 106 gruelling miles to raise money for a mental health charity.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-21T04:51:00Z'
 published: '2026-08-21T00:00:00Z'
 description: The royal family’s long-running American soap opera is returning to Britain
 image: https://static.independent.co.uk/2026/08/21/05/Philanthropy_Prince_Harry_63478.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The royal family’s long-running American soap opera is returning to Britain. The question is whether it will blossom into a happy reunion or descend into anger, division and chaos.

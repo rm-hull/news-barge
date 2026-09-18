@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The victim's family have been notified of his death and are being supported
   by specialist officers
 image: https://static.independent.co.uk/2026/08/18/10/03/Screenshot-2026-08-18-at-11-21-34.png?trim=0,18,0,18&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A murder investigation has been launched after a man in his 40s was found shot dead inside a vehicle in east London.

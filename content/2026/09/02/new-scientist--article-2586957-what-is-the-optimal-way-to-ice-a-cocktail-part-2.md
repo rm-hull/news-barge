@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Readers continue to share their two cents on how best to keep your cocktail
   cool
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_305158229_80c589.jpg
+categories:
+- Science
+- Technology & Software
+- Food & Cooking
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_305158229_80c589.jpg?w=840)

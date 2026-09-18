@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T11:26:43Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2022/02/fire-engine-night-fb-crop.jpg
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Two crews were called to a fire in York last night (Monday).

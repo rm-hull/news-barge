@@ -8,6 +8,12 @@ published: '2026-08-19T00:00:00Z'
 description: A new fitness club promising "a new standard of training" is set to open
   later this year
 image: https://www.thetelegraphandargus.co.uk/resources/images/21336953.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 *(Image: Supplied)*

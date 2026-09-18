@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A venue claiming to be the first women's sports bar and café in Yorkshire
   is coming to York.
 image: https://www.gazetteherald.co.uk/resources/images/21351370.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 ### What is the Public Notice Portal?

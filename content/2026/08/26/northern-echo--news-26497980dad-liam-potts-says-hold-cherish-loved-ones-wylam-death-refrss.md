@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The father of Liam Potts has urged people to “hold, cuddle, and cherish
   your loved ones” following the 22-year-old soldier's death.
 image: https://www.thenorthernecho.co.uk/resources/images/21357726.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 The father of soldier Liam Potts has urged people to “hold, cuddle, and cherish your loved ones” in an emotional tribute following the 22-year-old’s death.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: 'Our Farm Next Door: Amanda, Clive & Kids will return for a fourth series
   in October 2026.'
 image: https://www.thenorthernecho.co.uk/resources/images/21340603.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 A new series of a popular television programme featuring the Yorkshire Shepherdess Amanda Owen and her family is set to arrive on screens this autumn.

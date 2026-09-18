@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: With screams and giggles, Minnesota fairgoers are taking delight in the
   magic of the Tilt-A-Whirl ride as it turns 100 years old
 image: https://static.independent.co.uk/2026/08/30/05/Tilt-A-Whirl_Turns_1__98513.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 With screams and giggles, whipping ponytails and white-knuckle grips, Minnesota fairgoers are taking delight in the magic of the Tilt-A-Whirl ride as it turns 100 years old.

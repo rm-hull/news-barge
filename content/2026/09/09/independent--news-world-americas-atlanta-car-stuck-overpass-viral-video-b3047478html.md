@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Viral footage shows car bizarrely stuck between the concrete beams of
   an overpass, about 20 feet above a highway
 image: https://static.independent.co.uk/2026/09/09/16/37/Atlanta-car-dangling-under-overpass.jpeg?trim=455,94,956,24&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Wild viral footage shows a car stuck under an Atlanta highway overpass — with its driver’s feet dangling 20 feet in the air.

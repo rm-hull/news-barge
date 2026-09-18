@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Millions of pensioners could see the state pension rise by £488 a year
   in April, but the increase could push the new rate above the tax threshold.
 image: https://www.yorkpress.co.uk/resources/images/21455477.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Matthew Horwood/PA Wire)*

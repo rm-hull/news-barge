@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Shiloh Luckey, a resident of Inglewood, was apprehended on Sunday in
   Fort Lauderdale, Florida
 image: https://static.the-independent.com/2026/09/10/14/17/GettyImages-1241455308.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Federal authorities have arrested a 42-year-old California woman accused of orchestrating a $13.3 million investor fraud scheme involving her startup company, using the illicit proceeds to fund personal luxuries that included a Tesla, an Inglewood home, Super Bowl tickets and a destination wedding.

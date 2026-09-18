@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Former Kosovo President Hashim Thaci will learn his fate on Wednesday
   as international judges in The Hague deliver verdicts in his war crimes trial
 image: https://static.independent.co.uk/2026/09/16/06/International_Court_Thaci_68489.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Former Kosovo President Hashim Thaci will learn his fate Wednesday when international judges at a court in The Hague deliver verdicts in his war crimes trial.

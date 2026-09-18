@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: South Australian authorities say case discovered on Kangaroo Island is
   first for species of which less than 12,000 animals remain
 image: https://i.guim.co.uk/img/media/cda14f773a1cbac9797abd59e3b1aeaba88aae4b/314_0_3726_2981/master/3726.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=676ae9fab1fdd234f9f91272bb75c784
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 South Australia has recorded the first death of an endangered Australian sea lion from H5 bird flu.

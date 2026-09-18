@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: James Hindson was looking for a YouTube clip on global trade when his
   search history was displayed to pupils during a geography lesson
 image: https://static.independent.co.uk/2026/09/07/17/12/moreton-hall.jpg?trim=0,32,0,32&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A school teacher accidentally revealed his YouTube search history, including “teen bikini haul”, to pupils during a geography lesson at an all-girls’ boarding school, a teaching conduct panel heard.

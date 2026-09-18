@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Jurors in the Lindsay Clancy trial were set to resume Friday to determine
   whether she was responsible for her actions
 image: https://static.the-independent.com/2026/08/28/09/2026-08-27T181607Z_1434939295_RC247NA9G3LD_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=49,0,49,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Lindsay Clancy’s fate is now in the hands of a jury after a month of emotional testimony centered on one critical question: Was the Massachusetts mother able to understand that killing her three young children was wrong?

@@ -10,6 +10,9 @@ published: '2026-09-04T00:00:00Z'
 description: These are Minisforum's top-end mini-PC and NAS offerings, featuring AMD's
   latest AI processors.
 image: https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Minisforum NAS N5 Max-P495 and MS-S1 Pax-P495](https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY.png) 

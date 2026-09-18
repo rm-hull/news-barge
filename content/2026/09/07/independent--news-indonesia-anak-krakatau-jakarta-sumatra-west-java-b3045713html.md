@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Indonesia is maintaining closures at several airports and shifting schools
   to remote learning though the eruption of Anak Krakatau is easing
 image: https://static.independent.co.uk/2026/09/07/07/Indonesia_Volcano_Eruption_51_13.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Indonesia kept several airports closed and shifted schools to remote learning Monday though the volcanic eruption that has halted 2,300 flights and coated areas with ash was subsiding.

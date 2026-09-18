@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The polar bear image taken by Audun Rikardsen was among the 'highly commended'
   entries in this year's competition.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Travel
 ---
 
 ![A polar bear peers down through a roughly circular opening in the white ice, its entire face visible through the hole. Its dark nose and eyes stand out against its pale fur, while the vivid blue sky beyond the opening contrasts with the darker edge of the ice.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/db40/live/d4ab0780-9baa-11f1-92e6-b1dfcecd4308.jpg)

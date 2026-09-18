@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: In traditional Jewish American food culture, there was the deli and also
   its less famous sibling, the appetizing store
 image: https://static.independent.co.uk/2026/09/16/16/Food-Yom_Kippur-Appetizing_Stores_381_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 In traditional Jewish American food culture, a “deli” was where you went for a towering pastrami sandwich. You went somewhere else entirely to buy lox and a schmear: an " appetizing store.”

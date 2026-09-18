@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: ‘I’ve caught them with their pants down,’ said Longford resident Liam
   Madden
 image: https://static.independent.co.uk/2026/08/07/08/s30pCGu4rdCUJGApZ6e0OxobigfATotjrGSyjGbN3c8hNdrPyiW4rggyq1Uue6noVHYzdagU1gmOSjaZNo0xq2QQI56kTuGGgM5R..?trim=0,9,0,9&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s construction challenges are piling up at home – and abroad – with the planned design of a 12,000 square-foot ballroom at his golf course in Ireland hitting a sluggish holdup from a local man.

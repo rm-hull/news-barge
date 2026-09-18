@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A Peugeot driver who tried to evade police after being spotted speeding
   in Keighley was reported for four motoring offences after officers quickly…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21444339.jpg?type=og-image&xType=0&yType=198
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

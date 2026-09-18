@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Man arrested after being restrained and pinned down by ‘heroic’ bystanders,
   Victoria police say
 image: https://i.guim.co.uk/img/media/b423142762325e7c8d4a87649789be4b6dcb6f65/411_0_4113_3291/master/4113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59f19d82e32572e949d2efade47f2c3e
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A mother has been taken to hospital after allegedly being repeatedly stabbed by a stranger while protecting her 10-year-old son during a “random attack” in Melbourne’s CBD.

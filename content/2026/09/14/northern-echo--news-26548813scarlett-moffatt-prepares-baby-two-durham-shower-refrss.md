@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Bishop Auckland-born Scarlett Moffatt has shared a glimpse inside her
   Durham baby shower as she prepares to welcome a second child with partner…
 image: https://www.thenorthernecho.co.uk/resources/images/20232317.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 County Durham TV star Scarlett Moffatt has shared a glimpse inside her baby shower in Durham as she counts down to the arrival of her second child.

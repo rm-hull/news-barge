@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Bereaved mother Debra Robinson in court stares at three men accused of
   murdering Jake and Callum Robinson and Jack Rhoad in Baja California in 2024
 image: https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f85e504e068460dd76f55c4cbfc0467a
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot have gone on trial, two years after the killings in a suspected robbery.

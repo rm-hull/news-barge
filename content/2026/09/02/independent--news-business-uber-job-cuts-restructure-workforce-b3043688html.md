@@ -9,6 +9,12 @@ description: The boss of the US-based ride-hailing app told staff that the chang
   would create a “simpler and faster” business by cutting layers of management and
   merging teams
 image: https://static.independent.co.uk/2025/06/10/12/7e0bd24d227f3ae0563b0b79defb9430Y29udGVudHNlYXJjaGFwaSwxNzQ5NjM4NDgz-2.80132778.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Uber is set to cut around 3,300 corporate jobs as part of a major restructuring process that will trim its global workforce by approximately 10 per cent.

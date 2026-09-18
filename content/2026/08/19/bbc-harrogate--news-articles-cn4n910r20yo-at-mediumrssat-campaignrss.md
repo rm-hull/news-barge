@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Officers believe the body is that of 57-year-old Tracey Smith from the
   Stokesley area.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a63c/live/ed88ed40-9bd1-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![Tracey Smith, a middle-aged woman with cropped blonde hair. She is smiling in the photo.](https://ichef.bbci.co.uk/ace/standard/1536/cpsprodpb/a63c/live/ed88ed40-9bd1-11f1-bb4d-1147ef2e78e5.jpg)

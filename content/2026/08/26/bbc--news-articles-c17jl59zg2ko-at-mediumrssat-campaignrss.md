@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Steven 'Bonzo' Daniel was arrested on Wednesday at his home in the north
   of Glasgow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5694/live/8ac63000-a117-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A man wearing a grey t-shirt being put into the back of a police van by three police officers](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5694/live/8ac63000-a117-11f1-92eb-a9b3bbcf6f4a.jpg)

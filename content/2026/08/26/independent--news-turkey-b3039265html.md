@@ -9,6 +9,10 @@ description: Mehmet Durak and his two sons work together at a family-run charcoa
   production site in the forests of Turkey’s Kocaeli province. There, they tend earthen
   kilns as hardwood slowly turns into charcoal.
 image: https://static.independent.co.uk/2026/08/26/02/APTOPIX_Turkey_Charcoal_98436.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Father and sons keep a traditional charcoal craft alive, in photos

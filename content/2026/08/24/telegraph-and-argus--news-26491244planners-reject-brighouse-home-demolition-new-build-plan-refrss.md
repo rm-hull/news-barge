@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: An application to demolish a Brighouse home and outbuildings and build
   terrace of five new houses in their place have been rejected by planners,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21365223.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

@@ -9,6 +9,10 @@ description: 'Police in North Rhine-Westphalia have released bodycam footage sho
   the arrest of alleged power saboteur Daniel V., with officers drawing their weapons
   as new details emerge in the case. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/08/71/1200x675_cmsv2_1caf0631-4907-580d-8331-58e3113043ae-9900871.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 **Sonja Issel**

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: One of Newcastle city centre's busiest pedestrian routes has been transformed
   into a permanent 75-metre urban art gallery featuring 39 bespoke…
 image: https://www.thenorthernecho.co.uk/resources/images/21348481.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Thomas Jackson / TyneSight Media)*

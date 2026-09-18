@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Andrew and Tristan Tate are currently in a Miami jail fighting extradition
   to the UK over separate charges and deny all the allegations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cea0/live/53ea8800-a8a7-11f1-b9ae-958b89fa84e3.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Tristan Tate is wearing sunglasses and is dressed in a green suit and tie and white shirt. Andrew is to his right in sunglasses and an open necked shirt.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/cea0/live/53ea8800-a8a7-11f1-b9ae-958b89fa84e3.jpg)

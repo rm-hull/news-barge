@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A Hull man has been jailed after arranging to meet someone he believed
   was offering a one-year-old child for him to sexually abuse.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/25/12/47/daniel-oflynn-jailed-social-media.png?trim=99,0,257,784&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 # 'Abominable' man jailed for arranging to rape child after explicit messages to decoy

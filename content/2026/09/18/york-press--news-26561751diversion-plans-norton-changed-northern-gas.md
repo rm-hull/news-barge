@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: PLANS to close a main road in a North Yorkshire town have been changed
   at the eleventh hour.
 image: https://www.yorkpress.co.uk/resources/images/21472123.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Plans to fully close main road in North Yorkshire town scrapped

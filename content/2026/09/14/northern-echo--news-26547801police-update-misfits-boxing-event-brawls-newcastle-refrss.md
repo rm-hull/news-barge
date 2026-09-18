@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Police have issued an update on fighting at a Newcastle Misfits Boxing
   event that saw four people arrested.
 image: https://www.thenorthernecho.co.uk/resources/images/21451530.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: GOOGLE)*

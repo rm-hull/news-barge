@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T12:42:04Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/sloppys-york-castlegate-11.webp
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 A York restaurant which only opened in its new home last month will soon have to close for major repairs.

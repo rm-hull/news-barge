@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The result was a single pregnancy carrying two babies from two entirely
   separate families
 image: https://static.independent.co.uk/2026/08/31/14/08/iStock-1386572060.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A Gold Coast woman has given birth to twins who aren’t genetically related to each other, after becoming pregnant with a surrogate couple’s embryo and her own biological baby at the same time.

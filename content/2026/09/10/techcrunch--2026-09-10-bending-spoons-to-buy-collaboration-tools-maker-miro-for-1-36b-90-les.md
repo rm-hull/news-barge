@@ -10,6 +10,10 @@ description: Bending Spoons is buying Miro for $1.36 billion, a huge dip in valu
   for the workplace collaboration startup, which was valued at $17.5 billion in late
   2021.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Bending Spoons is continuing its trend of buying once-sought-after software companies for pennies on the dollar. This time, the Italian company is buying Miro for $1.36 billion in cash (equity value of $1.79 billion), a mighty dip in valuation for the once-hot workplace collaboration startup that was awarded a price tag of $17.5 billion in late 2021.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: KFC announced a rebrand effort in June that involved new menu items and
   a refreshed logo
 image: https://static.independent.co.uk/2026/07/07/15/download..?trim=0,150,0,150&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 KFC has appointed its first-ever global chief brand officer as the fast-food chain looks to make a comeback amid fierce competition.

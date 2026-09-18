@@ -10,6 +10,9 @@ description: The updates indicate that Google is looking to position AI Mode as 
   AI travel agent of sorts, as it's moving beyond simply helping users find information
   to actually handling parts of the trip-planning and booking process.
 image: https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Google is adding new ways for users to plan and book trips through AI Mode, its conversational search experience, the company announced on Thursday. Users will now be able to ask AI Mode to track flight prices, book hotels, and see the cost of flights and hotels in points or miles.

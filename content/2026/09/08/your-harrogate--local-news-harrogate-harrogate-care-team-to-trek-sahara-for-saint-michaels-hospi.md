@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Three members of the Vida Healthcare team are preparing to trek across
   the Sahara Desert to raise money for Saint Michael’s Hospice.
 image: https://mmo.aiircdn.com/409/6aa00179329d2425000.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa00179329d2425000.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: One of Whitby’s most recognisable landmarks has been removed today (Tuesday,
   September 1), with ethical bronze replicas set to be put in its place to preserve
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/3whale-bones-removed.webp
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 One of Whitby’s most recognisable landmarks has been removed today (Tuesday, September 1), with ethical bronze replicas set to be put in its place to preserve the town’s maritime heritage.

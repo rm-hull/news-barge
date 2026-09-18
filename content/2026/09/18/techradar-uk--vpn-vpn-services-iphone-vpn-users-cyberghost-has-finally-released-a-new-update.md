@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: A rebuilt server list brings dedicated tabs, instant country and city
   search, and slicker navigation to the iPhone app
 image: https://cdn.mos.cms.futurecdn.net/iGGsae75XgC3HjRLUGMA78-1340-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![CyberGhost iOS app](https://cdn.mos.cms.futurecdn.net/iGGsae75XgC3HjRLUGMA78.png) 

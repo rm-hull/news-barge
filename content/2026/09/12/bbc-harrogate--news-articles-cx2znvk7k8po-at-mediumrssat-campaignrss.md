@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Grade II listed Caedmon House in Whitby will now be repainted in
   a lighter colour.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63b8/live/0a26a9f0-aeac-11f1-8972-d5c52a82c3b8.png
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Home, Garden & DIY
 ---
 
 ![A bright pink three‑storey building with matching pink window frames and door, next to cream‑coloured buildings, with two parked cars and a yellow ladder leaning by the entrance.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/63b8/live/0a26a9f0-aeac-11f1-8972-d5c52a82c3b8.png)

@@ -9,6 +9,8 @@ published: '2026-08-31T00:00:00Z'
 description: How well does this retro-looking mechanical keyboard perform by modern
   standards?
 image: https://cdn.mos.cms.futurecdn.net/s52omdsz54X9Coa43bVrCi-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

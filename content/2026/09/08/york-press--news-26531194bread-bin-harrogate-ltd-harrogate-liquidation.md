@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A popular takeaway food shop in North Yorkshire praised for its “banging
   baps” has gone into liquidation, with debts topping £30,000.
 image: https://www.yorkpress.co.uk/resources/images/21424308.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 *(Image: Street View)*

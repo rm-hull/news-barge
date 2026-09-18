@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Donald Trump’s West Wing renovations and DC arch could be on the chopping
   block, should Democrats win the midterms—they could also be leverage.
 image: https://media.wired.com/photos/6a9753168e71dd67ca5defbc/191:100/w_1280,c_limit/politics_democrats_prosecute_trump_family.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Smelling a potential victory in the midterms, House Democrats are starting to think about oversight investigations next year and how to wield the power of the purse to make the Trump administration comply. In short, Trump’s West Wing renovations and DC arch could be on the chopping block, sources tell *Inner Loop*.

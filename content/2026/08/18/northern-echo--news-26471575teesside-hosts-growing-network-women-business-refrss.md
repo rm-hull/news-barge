@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Female entrepreneurs from across the North East have gathered to share
   their experiences, challenges and successes as a growing network dedicated to…
 image: https://www.thenorthernecho.co.uk/resources/images/21331712.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 Female entrepreneurs from across the North East have gathered to share their experiences, challenges and successes as a growing network dedicated to supporting women in business continues to expand across the UK.

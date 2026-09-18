@@ -8,6 +8,8 @@ scraped_at: '2026-09-03T19:16:58Z'
 published: '2026-09-03T00:00:00Z'
 description: OAuth consent phishing is a thing
 image: https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Phishing](https://cdn.mos.cms.futurecdn.net/vg86aqqGf8Pqp6mnfQPGGf.jpg) 

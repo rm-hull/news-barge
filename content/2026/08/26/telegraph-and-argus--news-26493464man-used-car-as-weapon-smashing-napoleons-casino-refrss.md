@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Shocking video has been released showing a car being deliberately driven
   at a group of men outside a Bradford casino.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368693.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: CPS)*

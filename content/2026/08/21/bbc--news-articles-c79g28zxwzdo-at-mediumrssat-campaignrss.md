@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Sources close to the Sussexes have not denied reports that Meghan has
   been offered an acting role in the UK.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c7d5/live/7e5a0670-9d11-11f1-b081-9d24f7281d5a.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Watch: Is Meghan returning to acting?

@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: The national tour of Strangers on a Train will arrive at the Grand Opera
   House in York.
 image: https://www.yorkpress.co.uk/resources/images/21399517.jpg?type=og-image&xType=0&yType=19
+categories:
+- Local
+- York
+- Arts & Culture
+- Film & TV
+- True Crime
 ---
 
 *(Image: Grand Opera House York)*

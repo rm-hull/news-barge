@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Hardware engineering executive succeeding Tim Cook is a longtime Apple
   insider, indicating company will continue strategy that has led to record profits
 image: https://i.guim.co.uk/img/media/e029cf37e72dce144e15be51c9a64d21927f4f6a/229_0_2280_1825/master/2280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b78d6e2461f247d0a2670ce8d08bef9f
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Tim Cook stepped down as CEO of Apple on 31 August. John Ternus, a longtime company veteran, succeeded him the next day as the company’s new chief executive. Cook has transitioned to the role of executive chairman of Apple’s board of directors.

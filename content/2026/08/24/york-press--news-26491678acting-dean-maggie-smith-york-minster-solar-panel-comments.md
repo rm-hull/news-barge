@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: York Minster's role in solar panel installations across the region has
   been praised.
 image: https://www.yorkpress.co.uk/resources/images/20327471.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York Minster 'continuing city leadership' as solar panels installations break records

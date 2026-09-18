@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Researchers have been honored for their quirky, imaginative contributions
   to science at the 36th annual Ig Nobel Prizes
 image: https://static.independent.co.uk/2026/09/03/18/Switzerland-Ig-Nobels__1472.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Ten research teams were honored Thursday at a satirical science awards ceremony that was hosted outside the U.S. for the first time due to travel concerns.

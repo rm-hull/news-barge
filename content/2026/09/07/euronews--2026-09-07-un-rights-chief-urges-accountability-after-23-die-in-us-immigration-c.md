@@ -9,6 +9,10 @@ description: A joint report by Human Rights Watch and Physicians for Human Right
   in June said that the rate of people dying in ICE custody has reached its highest
   level in over a decade amid Trump's crackdown.
 image: https://images.euronews.com/articles/stories/09/90/40/91/1200x675_cmsv2_4e539bec-225b-5c29-84ef-d20baaf2ae1e-9904091.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## A joint report by Human Rights Watch and Physicians for Human Rights in June said that the rate of people dying in ICE custody has reached its highest level in over a decade amid Trump's crackdown.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-03T12:48:23Z'
 published: '2026-09-03T00:00:00Z'
 description: The child's death stirred anger in the small Mississippi city
 image: https://static.independent.co.uk/2026/09/02/18/Mississippi_Child_Shot_6_74.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- True Crime
 ---
 
 A police chief in a northern Mississippi city has been fired following a fresh wave of controversy, months after officers shot and killed a one-year-old Black child named Kohen Wiley during a shoplifting call.

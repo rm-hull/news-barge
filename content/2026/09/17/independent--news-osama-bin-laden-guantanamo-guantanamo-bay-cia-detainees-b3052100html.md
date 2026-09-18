@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: A man initially accused of being a high-profile al-Qaida figure and who
   was tortured in CIA custody has appeared at a hearing to review his detention
 image: https://static.independent.co.uk/2026/09/17/19/Guantanamo_Bay_Prisoner_Hearing_5889_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A man initially accused of being a high-profile al-Qaida figure and who was tortured in CIA custody appeared Thursday at a hearing to review his detention at the U.S. military prison at Guantanamo Bay, Cuba, where he has been held for 20 years without charges.

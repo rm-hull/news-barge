@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Witness tells court he sent Jones friendly messages after two alleged
   assaults because he had been generous to him
 image: https://i.guim.co.uk/img/media/46d33e60c84f09f344ac8cc0f154ac7be7fe94e2/424_0_4221_3378/master/4221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a409bad307ed5993019a9866630e169
+categories:
+- UK
+- News & Politics
+- Comedy & Entertainment
 ---
 
 A prominent athlete who has accused Alan Jones of twice kissing him without consent has told a Sydney court he continued to text the broadcaster after the alleged assaults because Jones was powerful and had been generous to him.

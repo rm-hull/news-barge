@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Middlesbrough Little Theatre has applied for a new premises licence,
   with the application submitted to Middlesbrough Council’s Licensing Authority…
 image: https://www.thenorthernecho.co.uk/resources/images/19180519.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: PA Wire/PA Photos)*

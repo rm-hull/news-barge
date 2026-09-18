@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: After signing a contract extension with Red Bull to 2030, Max Verstappen
   says he was "closer to retiring" from F1 "than changing teams".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6260/live/4ea17b40-9c92-11f1-bd28-a9dd56c45ed7.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Technology & Software
 ---
 
 ![Max Verstappen holds a microphone during the drivers' news conference at Zandvoort](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6260/live/4ea17b40-9c92-11f1-bd28-a9dd56c45ed7.jpg)

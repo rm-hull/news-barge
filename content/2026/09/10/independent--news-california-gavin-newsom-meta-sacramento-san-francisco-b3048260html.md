@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: California Gov. Gavin Newsom has signed laws aimed at protecting children
   from the potential harms of social media and AI chatbots
 image: https://static.independent.co.uk/2026/09/10/21/Election_2_28_Newsom_84651.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 California Gov. Gavin Newsom signed a sweeping package of laws Thursday aimed at protecting children from the risks of technology, including social media and AI chatbots.

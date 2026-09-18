@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Carmaker, which is battling Trump tariffs and Chinese competitors, faces
   talks with union leaders and government
 image: https://i.guim.co.uk/img/media/c39f169b8d92cd1ca91472da8ed13962def68d2f/263_0_2605_2084/master/2605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=507bba5bbdd52c05885082146b3b8ae9
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 The government has signalled that it will not invest taxpayers’ money to limit job losses at Jaguar Land Rover (JLR), after it emerged that the UK’s biggest carmaker is planning up to 4,000 redundancies.

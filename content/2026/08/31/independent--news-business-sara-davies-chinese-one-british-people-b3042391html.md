@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Sara Davies said Not On The High Street was no longer trying to compete
   with Chinese online marketplaces such as Shein and Temu.
 image: https://static.independent.co.uk/2026/09/01/00/43d68b06a112560b2a896221f0c24876Y29udGVudHNlYXJjaGFwaSwxNzg4MDEzNzM4-2.77663165.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Not On The High Street is culling its website of “cheap tat” and mass-produced products in favour of British-made artisan gifts, Dragons’ Den star Sara Davies has said after buying a stake in the business.

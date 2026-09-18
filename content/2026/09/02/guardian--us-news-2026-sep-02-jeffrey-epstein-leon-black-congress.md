@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Black called on to comply with subpoenas and appear as required to clarify
   connections to convicted sex offender
 image: https://i.guim.co.uk/img/media/c0927e70d236a79918d5137ac8bb4dabb5f0ff56/665_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e438c2b92e24732df26cfe929d92acd2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 More than a dozen survivors of Jeffrey Epstein’s abuse have called on the billionaire Leon Black to appear before the House oversight committee in order to clarify his connections to the late disgraced financier and convicted sex offender.

@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: A popular after-dark event is returning this autumn with ghostly sculptures,
   live storytelling and illuminated gardens
 image: https://www.thetelegraphandargus.co.uk/resources/images/21356458.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

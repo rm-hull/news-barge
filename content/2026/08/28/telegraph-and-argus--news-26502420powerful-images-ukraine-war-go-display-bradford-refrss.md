@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A POWERFUL photography exhibition is set to open in Bradford, offering
   visitors a glimpse into life in Ukraine during wartime at Darley Street.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381818.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

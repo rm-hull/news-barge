@@ -10,6 +10,9 @@ published: '2026-08-25T00:00:00Z'
 description: A ton of Grand Theft Auto 6 gameplay has leaked, with more being shared
   every day. Here's a full timeline of everything we've seen so far.
 image: https://cdn.mos.cms.futurecdn.net/CNLDj2hS8wzLuEaRL8KQWR-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/CNLDj2hS8wzLuEaRL8KQWR.jpg) 

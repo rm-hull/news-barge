@@ -9,6 +9,11 @@ description: From New York and the Pentagon to Pennsylvania and communities nati
   Americans mark the 25th anniversary of the Sept. 11 attacks with memorial ceremonies,
   moments of silence, vigils and tributes.
 image: https://static.independent.co.uk/2026/09/11/14/APTOPIX_Sept_11_Anniversary_53_91.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 From New York and the Pentagon to Pennsylvania and communities nationwide, Americans mark the 25th anniversary of the Sept. 11 attacks with memorial ceremonies, moments of silence, vigils and tributes.

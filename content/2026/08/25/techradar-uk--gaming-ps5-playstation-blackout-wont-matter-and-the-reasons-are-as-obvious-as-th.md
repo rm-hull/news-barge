@@ -10,6 +10,9 @@ description: Some believe DoesItPlay's PlayStation Blackout week, protesting the
   of physical media, is poorly timed and won't make a bit of difference. I tend to
   agree for these and other obvious reasons.
 image: https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![PS5 game disc of Undisputed boxing game in case](https://cdn.mos.cms.futurecdn.net/2yk6TrsX2CQKNEix3cZHBg.jpg) 

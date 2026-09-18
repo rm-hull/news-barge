@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: A spectacular harvest-inspired gown has been unveiled ahead of the opening
   of the Harrogate Autumn Flower Show, which begins on Friday at Newby Hall & Gardens.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY1MjY2YjA5LTM2YTQtNDU2Ny1hMzc0LTRlN2JmM2U4ZTc2Nzo5YTI0ZjhlZi0yZWEyLTQxZmEtOGY3ZC0wY2FkYzQ5NDZiMDU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 Created by renowned floral designer Jonathan Moseley, the beautiful gown was revealed on Thursday September 17, with model Anna Cartmell-Done showcasing the finished creation within the historic surroundings of Newby Hall.

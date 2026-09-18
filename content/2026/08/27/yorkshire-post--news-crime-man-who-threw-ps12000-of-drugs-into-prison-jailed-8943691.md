@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A man who threw £12,000 worth of drugs into a prison in Hull has been
   jailed.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/14/52/joshua-smith-jailed.png?trim=88,0,230,727&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Man who threw £12,000 of drugs into prison jailed

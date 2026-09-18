@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: A NORTH Yorkshire MP has warned about the impacts on ‘very price-sensitive’
   domestic tourism from the possible introduction of a new overnight…
 image: https://www.yorkpress.co.uk/resources/images/21164227.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## MP says tourism levy money raised in Scarborough and Whitby ‘should stay on coast’

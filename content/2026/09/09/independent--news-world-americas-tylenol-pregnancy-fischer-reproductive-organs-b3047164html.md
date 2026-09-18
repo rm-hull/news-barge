@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Smaller ovarian and uterine volume and fewer ovarian follicles seen in
   babies exposed to Tylenol in womb
 image: https://static.independent.co.uk/2025/09/23/18/13/Tylenol-5b712s8l.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Female reproductive organ development in infants may be influenced by prenatal exposure to Tylenol, according to new research, though investigators stress that the study does not prove the painkiller is the cause or demonstrate any impact on future fertility.

@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Kamran, a student at Co-op Academy Priesthorpe, who overcame family upheaval
   and the loss of his grandfather, has achieved GCSE success.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349646.jpg?type=og-image&xType=0&yType=1158
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 *(Image: Co-op Academy Priesthorpe)*

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Brian Thompson was given a suspended prison sentence after arriving at
   a protest earlier this month with a wooden bat sticking out of his pocket
 image: https://static.independent.co.uk/2026/08/10/16/01KZKGQJCSCJ1D63NZP22JN8YS.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A 69-year-old man who was arrested with a wooden bat sticking out of his pocket during unrest in Thetford, Norfolk, has avoided jail.

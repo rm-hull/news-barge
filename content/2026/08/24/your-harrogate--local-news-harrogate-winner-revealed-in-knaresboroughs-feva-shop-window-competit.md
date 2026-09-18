@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The winners of this year's Knaresborough FEVA window competition have
   been revealed.
 image: https://mmo.aiircdn.com/409/6a8be5070283c8bb79c.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8be5070283c8bb79c.jpg) 

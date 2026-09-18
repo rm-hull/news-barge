@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Saltburn Cliff Tramway has reopened following an eight-month refurbishment.
   Take a look inside the attraction's new handcrafted carriages and…
 image: https://www.thenorthernecho.co.uk/resources/images/21407903.jpg?type=og-image&yType=78
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Passengers are once again travelling between Saltburn's seafront and town centre, after one of the town's most iconic attractions reopened following a major restoration project.

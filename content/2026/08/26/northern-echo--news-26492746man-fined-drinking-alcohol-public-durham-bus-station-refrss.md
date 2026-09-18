@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Jonathan Armstrong, 32, formerly of Stockton, was fined at Newton Aycliffe
   Magistrates’ Court after admitting breaching a criminal behaviour order…
 image: https://www.thenorthernecho.co.uk/resources/images/17627836.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Newsquest)*

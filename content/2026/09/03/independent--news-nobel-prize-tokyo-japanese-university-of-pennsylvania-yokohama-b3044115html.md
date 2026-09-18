@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Japanese scientist Hideki Shirakawa, co-winner of the 2000 Nobel Prize
   in chemistry, has died at 90
 image: https://static.independent.co.uk/2026/09/03/12/Japan_HIdeki_Shirakawa_4_774.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Japanese scientist Hideki Shirakawa, co-winner of the 2000 Nobel Prize in chemistry for discovering and developing conductive polymers, has died. He was 90.

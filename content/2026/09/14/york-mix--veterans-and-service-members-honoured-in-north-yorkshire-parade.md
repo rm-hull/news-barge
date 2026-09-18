@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:07Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/All-Services-Parade-Jo-Peirson-1.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Eden Camp hosted their annual All Services Parade – honouring veterans and service members.

@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Further tributes have been left at the scene of a house fire which killed
   Valentina Foster, seven, and her aunt, Natalie McDonald, 34.
 image: https://www.thenorthernecho.co.uk/resources/images/21388076.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: STUART BOULTON & SOCIAL MEDIA)*

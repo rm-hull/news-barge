@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: An Amazon cargo plane crash at Miami International Airport has left at
   least five people dead
 image: https://static.independent.co.uk/2026/09/07/11/2293864878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Federal authorities investigating the fatal crash of an Amazon cargo plane at Miami International Airport are expected to center their inquiry on a critical phase of the landing: whether the plane made contact with the runway too late to come to a safe halt before plowing off the tarmac and into surrounding vehicles, killing at least five people.

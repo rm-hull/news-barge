@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Plans for safety improvements on a York road where an elderly woman was
   killed by a lorry are set for a decision.
 image: https://www.yorkpress.co.uk/resources/images/16611573.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 ## 'Danger' on York road where elderly woman was killed by lorry prompts safety moves

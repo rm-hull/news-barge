@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T13:17:27Z'
 published: '2026-09-13T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/le-petit-rustique-castlegate-4.webp
+categories:
+- Local
+- York
+- Food & Cooking
+- Travel
 ---
 
 A new French bistro and wine bar has opened in York.

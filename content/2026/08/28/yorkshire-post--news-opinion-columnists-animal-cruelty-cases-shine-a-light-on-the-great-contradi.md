@@ -11,6 +11,13 @@ description: A short BBC report this week carried a weight far greater than its 
   described as one of the worst cases of cruelty it had encountered in 16 years of
   caring for wildlife.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgyYmY5OTA3LTAzNDMtNGQ0Ny05ZWY0LTNhOWY4ZGRjYTQ0ZTowNjMwYjkxNS1jZTI5LTRhYjgtOGYyNi0xNjg0MzJhMmFkZmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 # Animal cruelty cases shine a light on the great contradiction we face in this country - Daxa Patel

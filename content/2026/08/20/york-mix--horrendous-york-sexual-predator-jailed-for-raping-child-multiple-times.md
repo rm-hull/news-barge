@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T13:06:28Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ian-philip-moffat.webp
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 A York man who raped a child multiple times has been jailed for 22 years and eight months today (Thursday).

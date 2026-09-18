@@ -9,6 +9,11 @@ description: The owner of the UK’s first ‘dog bus’ which takes pets on tri
   West Yorkshire said she’s been ‘overwhelmed’ by support after vandals forced her
   vehicle off the road.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/11/31/555947912_122098906155047043_5965802815336580861_n.jpeg?trim=0,0,2,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Dog bus owner 'overwhelmed' after vandals force vehicle off road

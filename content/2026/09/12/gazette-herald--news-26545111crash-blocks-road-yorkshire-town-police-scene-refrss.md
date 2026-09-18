@@ -7,6 +7,11 @@ scraped_at: '2026-09-12T15:12:27Z'
 published: '2026-09-12T00:00:00Z'
 description: A crash has blocked the A170 in Stepney Hill, near Scarborough.
 image: https://www.gazetteherald.co.uk/resources/images/21080600.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Supplied)*

@@ -10,6 +10,9 @@ description: Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The 
   shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins
   to build its own AI chips.
 image: https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers that can be plugged directly into Nvidia-based data centers.

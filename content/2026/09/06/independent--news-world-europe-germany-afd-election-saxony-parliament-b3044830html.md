@@ -10,6 +10,9 @@ description: Germany’s AfD party is on course to win a state election this wee
   creating a problem for the rest of the country’s political parties, writes James
   C. Reynolds
 image: https://static.independent.co.uk/2026/09/04/16/2292035279..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The far-right will be vying to seize its first taste of power in Germany since the Second World war on Sunday as voters head to the polls in the eastern state of Saxony-Anhalt.

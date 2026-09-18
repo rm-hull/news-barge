@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T19:16:38Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/07/bailey-chadwick.webp
+categories:
+- Local
+- York
+- True Crime
 ---
 
 A mother has spoken of her devastation at the loss of her son after a court convicted a man of drink driving today (Thursday).

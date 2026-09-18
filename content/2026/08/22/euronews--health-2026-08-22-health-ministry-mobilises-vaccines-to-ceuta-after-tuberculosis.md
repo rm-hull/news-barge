@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Health authorities are seeking to ensure vaccine supplies in Ceuta after
   cases of tuberculosis, gastroenteritis, scabies and impetigo were detected.
 image: https://images.euronews.com/articles/stories/09/88/47/43/1200x675_cmsv2_509097f1-e4b3-563f-8b51-e3e24b52016c-9884743.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Health authorities are seeking to ensure vaccine supplies in Ceuta after cases of tuberculosis, gastroenteritis, scabies and impetigo were detected.

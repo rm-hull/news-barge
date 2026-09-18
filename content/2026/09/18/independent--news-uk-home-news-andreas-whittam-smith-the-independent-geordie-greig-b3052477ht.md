@@ -10,6 +10,10 @@ description: Andreas Whittam Smith changed the landscape of British journalism b
   tribute to the pioneering journalist’s passion and genius at a memorial service
   this week
 image: https://static.independent.co.uk/2025/06/17/11/05/GettyImages-110155361.jpeg?trim=9,0,687,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Current editor-in-chief of *The Independent**,* Geordie Greig, has delivered an address at the memorial service for Sir Andreas Whittam Smith, the co-founder and former editor of the paper, who died late last year. 

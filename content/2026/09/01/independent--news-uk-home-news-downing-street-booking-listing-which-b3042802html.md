@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A fake review described the stay as ‘exceptional’ and made a reference
   to how enjoyable it was ‘hanging out with Larry The Cat’
 image: https://static.independent.co.uk/2026/09/01/14/2292981527..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Booking.com has been accused of "systemic security failures" by a consumer watchdog after the online platform allowed a fraudulent advertisement for 10 Downing Street to accept reservations and process payments.

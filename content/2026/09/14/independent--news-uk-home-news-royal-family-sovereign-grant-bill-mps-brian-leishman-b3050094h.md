@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T20:17:59Z'
 published: '2026-09-14T00:00:00Z'
 description: The Sovereign Grant for 2027-28 was unanimously approved by MPs on Monday
 image: https://static.independent.co.uk/2026/09/14/20/2026-09-14T085801Z_1475151256_RC27BNAOKJKC_RTRMADP_3_AI-BRITAIN-KING.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Public funds allocated to the King "could and should be directed elsewhere", a Labour MP has said as the Commons backed new royal financial arrangements.

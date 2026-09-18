@@ -9,6 +9,9 @@ description: Trump announced in August that he intended to meet with North Korea
   leader Kim Jong-un later this year as he once again touted the pair's relationship.
   Pyongyang has offered little response.
 image: https://images.euronews.com/articles/stories/09/91/84/28/1200x675_cmsv2_2291f488-cf1c-5096-99ab-5b2950e62b0f-9918428.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump announced in August that he intended to meet with North Korean leader Kim Jong-un later this year as he once again touted the pair's relationship. Pyongyang has offered little response.

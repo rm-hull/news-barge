@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Roam Café is set to open in Otley, serving globally inspired breakfasts,
   brunches and seasonal lunches after former advertising colleagues…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422429.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: T&A)*

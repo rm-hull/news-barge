@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Police have issued a photograph of a man, dubbed the “Temu Spider-Man
   of York” by officers, sought in connection with items being stolen from a…
 image: https://www.gazetteherald.co.uk/resources/images/21426898.jpg?type=og-image&yType=39
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 Police have issued a photograph of a man, dubbed the “Temu Spider-Man of York” by officers, sought in connection with items being stolen from a parcel delivered to a home in the city.

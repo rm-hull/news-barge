@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: Keith Ellison asked a federal judge to block the release of ICE agent
   Christian Castro
 image: https://static.independent.co.uk/2026/08/18/20/2264173044..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Minnesota Attorney General Keith Ellison sued Texas Gov. Greg Abbott on Tuesday, seeking to force the extradition of an Immigration and Customs Enforcement agent accused of shooting and injuring a man before allegedly lying about the circumstances.

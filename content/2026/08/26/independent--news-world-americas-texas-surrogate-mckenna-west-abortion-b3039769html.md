@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Surrogacy is not regulated on a federal level, which can leave room for
   gaps in interpretation
 image: https://static.independent.co.uk/2026/08/26/16/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A California couple locked in a legal dispute with their surrogate over a baby born with a critical heart defect told a Texas court Tuesday that the child's condition has deteriorated, expressing anguish over attempts to strip their parental rights because they had previously requested an abortion.

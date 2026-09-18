@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Case of Abderrahim Fakir is first in which legal shield giving police
   greater protection from prosecution has been invoked
 image: https://i.guim.co.uk/img/media/3fd11a30248d45b11c6b8d666814843c8059c4d4/458_191_4673_3739/master/4673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8664bbc5e971a9ad3866350367a2164f
+categories:
+- UK
+- News & Politics
+- True Crime
+- Law & Justice
 ---
 
 If, before 19 July, few people in Italy beyond his family and friends knew who Abderrahim Fakir was, by the late afternoon of that day the final moments of his life were being watched across the country.

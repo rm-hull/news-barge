@@ -9,6 +9,11 @@ description: The Keighley & District Agricultural show 2026 held at Marley Sport
   Centre complex in Keighley, brought together families, farmers and visitors for
   a traditional day of entertainment and competition.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY2NGVhYWVhLWMzMjItNGJiYi05MWJiLTIyMjYyMmMyMjkzOTo5NWU1ZGQzNS0yOGIxLTQzYjMtYmU2Yi0wMmMxYjRjZDk4MDY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 The annual event featured livestock, horses, crafts, food and countryside activities and the highly prized Horticulture Show.

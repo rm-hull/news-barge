@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The International Atomic Energy Agency voices ‘serious concerns’ over
   expansion of Yongbyon facility to enrich uranium
 image: https://i.guim.co.uk/img/media/bbeff90b9d0fe8a0fe2dcce8132ba466aa52fee8/400_107_3369_2697/master/3369.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d45d8559e478ca1460c394debfe3480
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The International Atomic Energy Agency (IAEA) has voiced “serious concern” over evidence that North Korea has built a facility capable of enriching weapons-grade uranium to bolster its nuclear arsenal.

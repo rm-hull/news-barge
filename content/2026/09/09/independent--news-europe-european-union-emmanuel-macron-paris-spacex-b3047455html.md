@@ -9,6 +9,10 @@ description: Key figures from Europe’s space industry and other international 
   have converged on Paris to discuss how to advance the continent’s ambitions in a
   global market dominated by the United States
 image: https://static.independent.co.uk/2026/09/09/16/Europe_Space_Industry_31285.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambitions in a global market dominated by the United States.

@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Officials say a small plane has crashed into shallow waters next to a
   remote coastal town in Alaska and killed all four people on board
 image: https://static.independent.co.uk/2026/08/27/06/Alaska_Plane_Crash_14961.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Four people were killed Wednesday when a small plane crashed into shallow coastal waters near a remote Alaska community, marking the state's second deadly aviation disaster in less than a week.

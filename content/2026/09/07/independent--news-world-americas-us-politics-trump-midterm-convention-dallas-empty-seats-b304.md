@@ -8,6 +8,9 @@ published: '2026-09-07T00:00:00Z'
 description: The Texas spectacle later this week could prove to be a misstep for the
   president if he doesn’t get the crowds he wants
 image: https://static.independent.co.uk/2026/09/06/21/58/Ken-Paxton-Donald-Trump.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Republican National Committee is giving seats away.

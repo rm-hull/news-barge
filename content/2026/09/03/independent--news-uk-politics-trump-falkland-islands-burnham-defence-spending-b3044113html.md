@@ -10,6 +10,10 @@ description: The UK has been living off the peace dividend, but this is now a da
   spending 3 per cent on defence by 2030 is not an option or a luxury, it has become
   a necessity, as political editor David Maddox explains
 image: https://static.independent.co.uk/2026/04/24/11/2264666710.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The warning by Donald Trump that he might not support the UK in defending the Falklands from a future invasion underlines the dire situation Andy Burnham is facing on defence spending.

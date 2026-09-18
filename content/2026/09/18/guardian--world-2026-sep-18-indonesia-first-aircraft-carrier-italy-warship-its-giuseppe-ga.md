@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The gift from Italy has sparked fierce debate among defence analysts
   and opposition politicians who question its true cost and purpose
 image: https://i.guim.co.uk/img/media/a3ef319427f648a610ac8bd82dc19864ce196f19/175_0_1063_850/master/1063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a275328ed907e09a13910bb4444b56dc
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities.

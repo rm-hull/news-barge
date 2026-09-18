@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Installing a large language model on your personal computer gives you
   a handy digital assistant that won’t compromise your data privacy.
 image: https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/191:100/w_1280,c_limit/RunAChatbot.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 It's no exaggeration to say the large language models that power AI bots like ChatGPT and Gemini are changing the world. Many of us are now relying on them for coding, writing, summarizing, and searching the web. Whatever directions AI goes in over the next few years, LLMs will be part of that future.

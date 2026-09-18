@@ -9,6 +9,13 @@ published: '2026-08-19T00:00:00Z'
 description: Sheffield campaigners are raising money to fund street trees, linking
   up two contrasting suburbs of the city.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUxMGQ4MGQxLWMwNzctNDc0Ny1hMWRiLWM2MWQ4NzFiMWJkYjplMjY3NWJkZS03OTA1LTRkM2EtODhhNi1kNjE5OWIyOTg1YmQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
+- Personal Finance & Investing
 ---
 
 # Sheffield street tree fundraising campaign aims to link up rich and poor city suburbs

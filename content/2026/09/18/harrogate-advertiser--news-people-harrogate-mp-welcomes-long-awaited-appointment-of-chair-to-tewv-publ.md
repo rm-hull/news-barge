@@ -11,6 +11,10 @@ description: Harrogate and Knaresborough MP Tom Gordon has said the appointment 
   Wear Valleys NHS Foundation Trust (TEWV) is a step forward for families “badly let
   down”.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGE5YmI5LWQ3MDItNDk0ZC05MTBlLWFiOWIwZTZiNTgzNzpmZjkwNWEyYS1lNjZhLTRmZmUtYjkwZC01YjZlNTJjODM2MDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Harrogate MP welcomes long-awaited appointment of chair to TEWV public inquiry by Government

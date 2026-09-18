@@ -10,6 +10,10 @@ description: England batsman Harry Brook was not ready to be Test captain but hi
   knock at Headingley should be his batting blueprint for the future, writes Jonathan
   Agnew.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2202/live/16828b90-9cd4-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 'Hometown boy' Brook reaches half-century

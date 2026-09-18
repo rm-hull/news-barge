@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A historic Harrogate pub which once had its own heli-pad and was the
   place to go in the early 1990s is looking for new landlords.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjNiYmEzNmI2LWU1YWItNDAzNy05MzAwLWVjYWNmOGNmYTA2YjpkZDZjNjEzYy04YmMxLTQ3ODMtOGUwMi1mZmY1YTk5ZmFlYTM=.jpg?crop=3:2,smart&trim=&width=1120&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # Pub chain looking for new operators for historic Harrogate pub whose roots go back to 1700

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Kapri DeRamus broke both of his arms and suffered other severe injuries
   when he was hit head-on in a car crash
 image: https://static.independent.co.uk/2026/09/11/0/32/Screenshot-2026-09-10-at-7-59-45-PM.jpg?trim=0,3,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Florida couple tied the knot in a hospital room after the groom was hurt in a crash on the way to their wedding.

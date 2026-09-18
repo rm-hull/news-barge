@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Returning Emmerdale star Patsy Kensit has revealed how she was left "skint"
   after losing everything in a financial crisis.
 image: https://www.gazetteherald.co.uk/resources/images/21382465.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Ian West/PA Wire)*

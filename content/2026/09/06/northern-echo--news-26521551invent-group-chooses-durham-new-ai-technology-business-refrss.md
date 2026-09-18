@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Invent Group, based at Belmont Business Park, specialises in developing
   intelligent systems, AI infrastructure, and scalable products for businesses.
 image: https://www.thenorthernecho.co.uk/resources/images/21409870.jpg?type=og-image&xType=0&yType=16
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Invent Group)*

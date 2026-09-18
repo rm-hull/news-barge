@@ -9,6 +9,13 @@ description: The family of one of the two officers killed when a car driving the
   way down the A66 crashed into their police vehicle said he was “our hero” who was
   “always on public duty”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/23/16/45/01M0QQ5X7J265PKP66PAS9J7WE.jpg?trim=14,0,938,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Automotive
+- News & Politics
 ---
 
 # A66 crash: family hail police officer killed in horror smash as 'our hero'

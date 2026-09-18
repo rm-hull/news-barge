@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Mike Milstein, a high-level civilian CPD employee, says he ‘intends to
   resume’ his public criticism of the president
 image: https://static.independent.co.uk/2026/09/17/16/46/MixCollage-17-Sep-2026-12-16-PM-945.jpeg?trim=70,0,71,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A high-ranking civilian employee with the Chicago Police Department is suing the city after he was suspended for 14 days without pay for a pair of posts he made to his personal Facebook account while attending a “No Kings” protest last year.

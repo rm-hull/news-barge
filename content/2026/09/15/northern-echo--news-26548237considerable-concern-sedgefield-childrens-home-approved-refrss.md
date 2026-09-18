@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: Plans to turn a Sedgefield house into a children's home have been approved
   despite 'considerable concerns about safety' from…
 image: https://www.thenorthernecho.co.uk/resources/images/21452215.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: GOOGLE)*

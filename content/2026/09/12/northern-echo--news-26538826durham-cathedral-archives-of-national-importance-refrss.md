@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: A collection at Durham Cathedral containing the Magna Carta and centuries
   of records charting life in the North East is of national importance.
 image: https://www.thenorthernecho.co.uk/resources/images/19944928.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 A collection containing three copies of the Magna Carta and centuries of records charting life in the North East has been recognised as being of national importance.

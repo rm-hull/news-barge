@@ -10,6 +10,10 @@ description: Japanese space startup Letara is betting its hybrid rocket technolo
   can move beyond small satellite thrusters into a broader market for space, defense
   and security, after raising ¥2.6 billion ($16 million).
 image: https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 Japan is pouring billions of dollars into its burgeoning space industry and easing restrictions on defense exports, efforts designed to build a homegrown aerospace sector filled with domestic startups that have a global reach.

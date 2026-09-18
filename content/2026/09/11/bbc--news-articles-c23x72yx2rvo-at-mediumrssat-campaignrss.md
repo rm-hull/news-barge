@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The Iran-backed Houthis are also reported to have seized Perim - a strategic
   island on the major shipping route.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Lifestyle & Fashion
 ---
 
 ![A dozen Houthi men wearing combat clothes, berets and holding large guns. The sky is blue and the men are looking straight ahead.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg)

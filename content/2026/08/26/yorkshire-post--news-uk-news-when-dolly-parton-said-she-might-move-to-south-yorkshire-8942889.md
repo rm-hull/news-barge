@@ -9,6 +9,12 @@ description: As the music world mourns the loss of Dolly Parton, stories of the 
   music superstar’s philanthropy and legacy have been shared by fans from the UK,
   US and beyond.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/26/10/56/Dolly.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Music
+- History
 ---
 
 # 'I was looking for an apartment!' When Dolly Parton almost moved to Yorkshire

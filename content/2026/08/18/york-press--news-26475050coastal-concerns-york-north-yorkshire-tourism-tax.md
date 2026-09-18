@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: FRESH concerns have been raised about the economic impacts of a potential
   tourism tax on businesses in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21336433.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Concerns raised over economic impacts of North Yorkshire tourism tax

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Sean Grayson, who was diagnosed with stage three colon cancer in 2023,
   was serving a 20-year sentence for second-degree murder
 image: https://i.guim.co.uk/img/media/eb6969138d79b4af066ec6ef02bad7764a90adb2/698_0_2646_2118/master/2646.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca2efba4bf22fc71e268fa6cdb1b0d63
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home after she reported a possible prowler to 911, has died, his attorney said Sunday.

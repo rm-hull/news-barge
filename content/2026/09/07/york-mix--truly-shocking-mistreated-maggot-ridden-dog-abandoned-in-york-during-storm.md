@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T19:53:49Z'
 published: '2026-09-07T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/albie-spaniel-abandoned-moor-lane-york-rspca-3.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 A spaniel abandoned in a York was in a ‘truly shocking’ state, the RSPCA has said.

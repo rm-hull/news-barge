@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Forty-three people rescued and early death toll stands at five after
   blaze aboard MV June Aster in waters off Coron, Palawan, says coast guard
 image: https://i.guim.co.uk/img/media/55b9cd889690d005daf9eee26ee8255560228fea/162_0_1462_1170/master/1462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e770710f34037c128b32a5d75b1b3df6
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Five people were confirmed dead in early counting and more than 80 were missing after a ferry caught fire off Palawan island in the western Philippines on Wednesday night, the Philippine coast guard said.

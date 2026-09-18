@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Home Bargains stores across across County Durham, Darlington, Teesside,
   Tyne and Wear and Northumberland, will be closed on a major date in the…
 image: https://www.thenorthernecho.co.uk/resources/images/21280502.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Sarah Caldecott)*

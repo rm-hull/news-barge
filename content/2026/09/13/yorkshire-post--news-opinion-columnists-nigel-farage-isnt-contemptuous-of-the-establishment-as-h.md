@@ -11,6 +11,11 @@ description: The dictionary says a hypocrite is someone who claims to hold certa
   Susie Dent to see that a man who hates ‘the Establishment’ but quaffs champagne
   and oysters while toasting an illegal foreign donation would fit that bill.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVkN2M4NTI5LTY1YjAtNGNiNi04ZWM1LWViMTllZTBkMjM1MjpiMTVlZjYwMi1iMjEyLTRhM2MtYmE4Zi1kMzgxMTk5OGU5MTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Nigel Farage isn’t contemptuous of the Establishment as he claims, he’s beholden to it - David Behrens

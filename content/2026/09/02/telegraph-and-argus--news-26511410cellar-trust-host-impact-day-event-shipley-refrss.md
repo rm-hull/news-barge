@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: THE Cellar Trust will host an afternoon celebrating its work and future
   plans in Shipley
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395761.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

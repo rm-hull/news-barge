@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: A normal Wi-Fi router may now see more than your devices, with researchers
   reporting nearly 100% identification accuracy
 image: https://cdn.mos.cms.futurecdn.net/kqDd8hw4VtrskmqGDY5fKa-1980-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person plugging an Ethernet cable into a router](https://cdn.mos.cms.futurecdn.net/kqDd8hw4VtrskmqGDY5fKa.png) 

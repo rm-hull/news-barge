@@ -9,6 +9,10 @@ description: Authorities are deploying a vaccine already proven against a relate
   Ebola strain as trials continue on a new jab designed specifically for Bundibugyo
   virus.
 image: https://images.euronews.com/articles/stories/09/89/21/93/1200x675_cmsv2_fd7aa8df-10d1-58ec-9e72-b801736f62a4-9892193.jpg
+categories:
+- Europe
+- News & Politics
+- Science
 ---
 
 ## Authorities are deploying a vaccine already proven against a related Ebola strain as trials continue on a new jab designed specifically for Bundibugyo virus.

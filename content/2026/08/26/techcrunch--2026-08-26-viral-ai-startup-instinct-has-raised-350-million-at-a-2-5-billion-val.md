@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The startup is only a year old but it has already generated a massive
   amount of hype (and money) while also spurring privacy concerns.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Instinct, a startup founded only last year and helmed by a 23-year-old, has managed to ride the wave of AI enthusiasm toward a gargantuan valuation over the course of the summer.

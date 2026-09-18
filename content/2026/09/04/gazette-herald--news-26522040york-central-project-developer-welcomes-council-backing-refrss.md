@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A major step forward in the creation of a brand new city quarter for
   York is set to be taken, the developer behind the project has said.
 image: https://www.gazetteherald.co.uk/resources/images/21406160.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

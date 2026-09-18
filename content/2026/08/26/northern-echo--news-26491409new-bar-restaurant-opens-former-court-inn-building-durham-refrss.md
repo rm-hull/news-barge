@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A trio of North East entrepreneurs have invested £1 million to breathe
   new life into a historic Durham hospitality venue, with ambitions to create…
 image: https://www.thenorthernecho.co.uk/resources/images/21365568.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

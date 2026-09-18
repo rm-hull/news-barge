@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Ripon has seen a dramatic increase in footfall after a series of “mass
   participation event events” which have drawn the crowds to this historic city.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjhmM2Y4YWZjLTU1MGUtNGNjYi04ODQ4LWFmMTA0OGVmNmJjNzphNDE1MDYzYi04ODYzLTQzZjYtYmNhMS0yNjg1MGM0ZDEzYjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
+- Arts & Culture
 ---
 
 # Ripon proves it is a city on the rise as figures for footfall soar in this historic part of Yorkshire

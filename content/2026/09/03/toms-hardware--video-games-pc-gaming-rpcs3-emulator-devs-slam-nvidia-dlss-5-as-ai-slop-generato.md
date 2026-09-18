@@ -9,6 +9,10 @@ scraped_at: '2026-09-03T12:48:38Z'
 published: '2026-09-03T00:00:00Z'
 description: DLSS 5 sparks debate over AI-generated visuals.
 image: https://cdn.mos.cms.futurecdn.net/i3CX9yokRsm44JidzN6xrJ-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![DLSS 5 used on a game running via the RPCS3 emulator.](https://cdn.mos.cms.futurecdn.net/i3CX9yokRsm44JidzN6xrJ.jpg) 

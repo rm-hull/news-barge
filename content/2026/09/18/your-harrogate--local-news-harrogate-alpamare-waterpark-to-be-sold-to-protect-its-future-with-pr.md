@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A major waterpark in North Yorkshire is expected to be sold to a new
   owner after it was taken over by North Yorkshire Council.
 image: https://mmo.aiircdn.com/409/6996bad62812a.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6996bad62812a.jpg) 

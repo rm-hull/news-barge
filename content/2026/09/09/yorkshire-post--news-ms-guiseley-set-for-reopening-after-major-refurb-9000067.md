@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: M&S has revealed Wednesday, September 16 as the re-opening date for its
   Guiseley Retail Park store, following a major transformation and extension.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFiNWEwZmM3LWY1MzctNDNmMy04Mjk4LWMzNWY2OTEzNzMzYTpmZTBhZmRiOC04MmMwLTRkMWYtODJmMi01ZmMwN2UzNjkzM2E=.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # M&S Guiseley set for reopening after major refurb

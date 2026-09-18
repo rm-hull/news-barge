@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Discover more about PC Gaming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Steam cover art](https://cdn.mos.cms.futurecdn.net/CBt66kAwURokqymNekYL97-320-80.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Dozens of law enforcement officers have reportedly been charged with
   or accused of misusing the surveillance cameras
 image: https://static.independent.co.uk/2026/08/17/23/47/GettyImages-2288946073.jpg?trim=64,0,64,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Flock cameras have been shut down by officials in several states this month following privacy concerns about the automated license-plate reading technology.

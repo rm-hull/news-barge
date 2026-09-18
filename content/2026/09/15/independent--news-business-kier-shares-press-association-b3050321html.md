@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Chief executive Stuart Togwell said Kier is taking ‘important steps to
   strengthen and simplify the business’.
 image: https://static.independent.co.uk/2026/09/15/09/03080730-ed1d7fe3-4413-4d78-87c2-949dbb5a63c1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Construction giant Kier Group has said it will stop new investment into its property development business, in a fresh blow to the Government’s housebuilding ambitions.

@@ -9,6 +9,10 @@ description: 'Health secretary’s announcement met with storm of ridicule and d
   ‘What about Bigfoot, the Loch Ness monster, the Easter Bunny, and the Abominable
   Snowman?’'
 image: https://static.independent.co.uk/2026/09/18/16/2294068904..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Health and Human Services Secretary Robert F Kennedy Jr has invited ridicule by announcing he is “looking at chemtrails” and their adverse impact on public health, reviving a long-debunked conspiracy theory.

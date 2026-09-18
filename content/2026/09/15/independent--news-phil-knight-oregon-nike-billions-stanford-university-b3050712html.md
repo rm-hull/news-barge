@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Phil and Penny Knight have committed $1.1 billion to build Oregon's first
   hospital dedicated to women's health at Providence St. Vincent Medical Center
 image: https://static.independent.co.uk/2026/09/15/18/Philanthropy_Knights_Women%27s_Hospital_88142.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Oregon billionaires Phil and Penny Knight committed $1.1 billion to the Providence St. Vincent Medical Center and the Providence Heart Institute to build Oregon’s first hospital dedicated to women’s health, the medical center announced Tuesday.

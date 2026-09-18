@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Haribo has launched its first-ever Halloween-themed sour sweet in the
   UK, called Haribo Sour Bats
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411368.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A new sour sweet is swooping into shops just in time for spooky season.

@@ -7,6 +7,10 @@ scraped_at: '2026-09-05T22:03:10Z'
 published: '2026-09-05T00:00:00Z'
 description: Emergency services were called to Strawberry Lane at 08:45 BST on Saturday.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36e5/live/dbaae380-a955-11f1-adf0-6d46cbf5ba37.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 ![A midlands air ambulance which is red and has a yellow nose, tail and roof. it is parked in a field of brown grass](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/36e5/live/dbaae380-a955-11f1-adf0-6d46cbf5ba37.jpg)

@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Turning an idea into a mass-produced reality is much easier said than
   done
 image: https://cdn.mos.cms.futurecdn.net/zAhjHx3rycLfqgSSHFgosM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Elon Musk arrives to court at the Ronald V. Dellums Federal Building on April 30, 2026 in Oakland, California.](https://cdn.mos.cms.futurecdn.net/zAhjHx3rycLfqgSSHFgosM.jpg) 

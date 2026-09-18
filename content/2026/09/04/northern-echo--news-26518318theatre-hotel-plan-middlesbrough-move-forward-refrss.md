@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Middlesbrough Council will move forward with its “bold new vision” for
   the town including a new theatre and hotel after its Executive approved…
 image: https://www.thenorthernecho.co.uk/resources/images/21368329.jpg?type=og-image&xType=0&yType=178
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

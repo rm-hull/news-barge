@@ -10,6 +10,11 @@ description: Hundreds of additional officers have been deployed to help Clevelan
   Police, however Lord Ben Houchen urged the force to request more to provide greater
   reassurance to residents.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZmNjVhNDViLTAxMWUtNGQ3My1iNDFmLTgyMzRkOWEwY2QwODozODU0MGFmNy1hN2U2LTQyMDktYmQ2NC0xZTRkNjc0OWQ4OTc=.jpg?crop=3:2,smart&trim=&width=488&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Cleveland Police need more officers amid escalating violence, mayor Ben Houchen says

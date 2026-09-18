@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Paid employment can boost confidence and wellbeing, says Pat McFadden
   as jobs guarantee scheme gets under way
 image: https://i.guim.co.uk/img/media/ad1db8176839f65ac28b7006f2cdc624406ff3a5/262_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0146fb011bf555f538a3c22e55afb04
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 Work must be “part of the answer” to the mental health crisis among young people, the work and pensions secretary, Pat McFadden, has said as he met some of the first beneficiaries of Labour’s youth jobs guarantee scheme.

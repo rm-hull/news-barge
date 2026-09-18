@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Actress Stephanie Cole – best known for roles in Coronation Street, Waiting
   For God and Open All Hours – has died aged 84.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/18/16/cs-1dc98307-a564-4461-834a-88d469df937b.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Coronation Street and Waiting For God star Stephanie Cole dies aged 84

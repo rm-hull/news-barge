@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Charity emphasises small boat rescues are tiny part of its work and speaks
   out after volunteers abused by far right
 image: https://i.guim.co.uk/img/media/eff27c4199f5dd533d760ef8b58a14243fefcc71/575_0_4505_3604/master/4505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=946da4316c13fc7c29d5fc3cd924fcad
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The lifeboat charity RNLI has vowed to continue to rescue asylum seekers in the Channel despite attacks on volunteers and staff after the recent high-profile small boat landings.

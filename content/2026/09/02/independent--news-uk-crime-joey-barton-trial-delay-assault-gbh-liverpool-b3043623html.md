@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Barton was due to stand trial this week but his trial has now been pushed
   back to next year
 image: https://static.independent.co.uk/2026/03/10/17/18/GettyImages-2167917612.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Former Premier League footballer Joey Barton could remain in prison until next year, after his trial over an alleged attack on a man outside a golf club was delayed.

@@ -10,6 +10,13 @@ description: Two disadvantaged Sheffield areas that are each benefiting from £2
   of government funding are being encouraged to join in the discussion about how the
   money should be spent.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ2ZjUzN2ZlLTk4YzgtNDJmNi04MDNkLWQ3YTcyZjhmMDM5MToyMTVlZDE4ZC1jMTgwLTRkNjktOGM1ZS0yNmY4YWQwMDU1Zjg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- News & Politics
+- Society & Culture
 ---
 
 # Sheffield Pride in Place projects – local people lead the way in deciding £20m improvements for their communities

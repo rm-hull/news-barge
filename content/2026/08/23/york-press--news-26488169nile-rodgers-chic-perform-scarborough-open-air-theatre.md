@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: Nile Rodgers & Chich became the 200th live music artist to headline at
   the Scarborough Open Air Theatre as they brought down the curtain on its…
 image: https://www.yorkpress.co.uk/resources/images/21359413.jpg?type=og-image&xType=0&yType=156
+categories:
+- Local
+- York
+- Arts & Culture
+- Sports
 ---
 
 ## Nile Rodgers & Chic brings down curtain on 2026 Scarborough Open Air Theatre season

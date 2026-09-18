@@ -10,6 +10,12 @@ description: Our rapidly growing need for cleaner energy, efficient new homes an
   electric vehicle infrastructure means this should be a bumper time for appropriately
   trained individuals and companies.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg2MjEzMTQ4LTE0NTctNGIxZC05NTg1LTJhMGE1NDkxODU2ODpjNTk1MjllNS1mN2Q3LTQ2M2QtYmZjYi00M2E1YjZhNWJkNDY=.jpg?crop=3:2,smart&trim=&width=809&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 # Why upskilling tradespeople of tomorrow has never been more important - Danny Wild

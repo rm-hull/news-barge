@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Two thieves jailed for shoplifting will have to pay compensation to the
   shops they raided when they are released from prison.
 image: https://www.yorkpress.co.uk/resources/images/20874140.jpg?type=og-image&xType=0&yType=68
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: NQ staff)*

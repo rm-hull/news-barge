@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Murron Stewart, a single mother and strong performer, says Purplebricks
   failed to adjust targets or communicate during her maternity leave
 image: https://static.independent.co.uk/2026/08/27/15/01K472P9RS8WF4W3QRQYYNYPBK.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 An estate agent who was forced out of her job after not meeting her targets when returning from maternity leave has won almost £48,000 in compensation.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Mollan & Co, based in Stamford Bridge, received the Three Best Rated
   crystal award.
 image: https://www.gazetteherald.co.uk/resources/images/21328901.jpg?type=og-image&xType=0&yType=216
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

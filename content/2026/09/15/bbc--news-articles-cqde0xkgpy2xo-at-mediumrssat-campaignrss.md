@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Thomas said he has done nothing wrong as Gwent Police confirms arrest
   on suspicion of assault.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2baf/live/eb2ecdb0-b127-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Dan Thomas looking off to the left hand side of the camera, with a blue background behind him. He is wearing a suit and white shirt.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/2baf/live/eb2ecdb0-b127-11f1-a540-61c3f7fc4e6c.jpg)

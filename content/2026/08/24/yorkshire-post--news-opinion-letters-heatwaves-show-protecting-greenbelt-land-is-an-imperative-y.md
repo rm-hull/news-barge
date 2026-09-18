@@ -8,6 +8,11 @@ scraped_at: '2026-08-24T11:44:38Z'
 published: '2026-08-24T00:00:00Z'
 description: 'From: Paige Turner, Surrey Street, Sheffield.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwMDlhMzU5LTRmYjEtNDljMS1iNzQzLTU4NzVjY2ZkNzI0YTpmZmIxZWM2ZC1lMmI5LTQxYjAtOTI2NC02OWUyZTBkMjVmNzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Heatwaves show protecting greenbelt land is an imperative - Yorkshire Post Letters

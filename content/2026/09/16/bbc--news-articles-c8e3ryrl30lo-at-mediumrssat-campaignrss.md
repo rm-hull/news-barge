@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The man behind a competions company which went bust owing thousands is
   back with a new venture.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0bf/live/53afbda0-acf4-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A man with short black and grey hair and facial hair depicted in a graphic used in one of his competitions. Behind him are gold coins, £50 notes and text which reads 'Win £1000 every week'.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e0bf/live/53afbda0-acf4-11f1-bc1f-3f186ca4140c.png)

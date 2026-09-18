@@ -9,6 +9,12 @@ description: Potentially up to £9 million might be obtained to help restore and
   back into use a much-loved Halifax community centre – but councillors have been
   asked “but is it necessary?”
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ2NGFmMmYyLTY5YmYtNGMzMi04MWU0LTJjZDg0YzUyNGM5NTpjZWJiNzMzZS0zZDQ4LTQxMWQtOGE5ZS1kMjlkNzA5YmRhYjU=.jpg?crop=3:2,smart&trim=&width=1012&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Potential £9 million investment into Halifax building – but is it necessary?

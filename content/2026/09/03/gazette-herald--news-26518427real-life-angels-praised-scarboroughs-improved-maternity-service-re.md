@@ -9,6 +9,12 @@ published: '2026-09-03T00:00:00Z'
 description: A MAJOR hospital on the North Yorkshire coast has significantly improved
   the quality of its maternity services.
 image: https://www.gazetteherald.co.uk/resources/images/14513870.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Family & Parenting
 ---
 
 A MAJOR hospital on the North Yorkshire coast has significantly improved the quality of its maternity services.

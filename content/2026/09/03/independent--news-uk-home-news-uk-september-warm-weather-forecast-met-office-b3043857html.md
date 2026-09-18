@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Temperatures are set to peak again this week after heavy showers and
   thunderstorms over the weekend
 image: https://static.independent.co.uk/2026/09/02/10/30/Screenshot-2026-09-02-at-11-46-57.png?trim=182,0,8,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Temperatures are set to peak again this week, after this summer was named the hottest since records began nearly 150 years ago.

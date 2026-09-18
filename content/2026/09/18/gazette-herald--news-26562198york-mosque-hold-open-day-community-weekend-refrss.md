@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: York Mosque is to hold an open day on Sunday (September 20) welcoming
   people from across the city to learn about Islam.
 image: https://www.gazetteherald.co.uk/resources/images/20039305.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Dylan Connell)*

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Reports that St Cuthberts Way in Newton Aycliffe is currently closed
   after a 'multi-vehicle' crash. We will bring you the latest updates…
 image: https://www.thenorthernecho.co.uk/resources/images/21414587.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on a crash in Newton Aycliffe near St Cuthberts Way.

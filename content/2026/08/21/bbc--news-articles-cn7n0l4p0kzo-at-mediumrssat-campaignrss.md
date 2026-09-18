@@ -10,6 +10,10 @@ description: Thirty "pioneer families" have arrived on a wave of nationalism dri
   by Israel's government, but the rapid change has left nearby Palestinian residents
   fearful.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Israeli settlers move into the former Israeli settlement of Kadim near the West Bank city of Jenin, 20 August 2026.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4659/live/0c7bbc90-9cdc-11f1-8c2c-67800657f112.jpg)

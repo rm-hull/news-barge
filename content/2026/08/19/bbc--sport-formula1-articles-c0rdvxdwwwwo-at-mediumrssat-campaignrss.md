@@ -9,6 +9,10 @@ description: Kimi Antonelli was a natural driver at the age of three, according 
   his dad. Here's how he went on to lead the F1 drivers' championship at the age of
   19.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 **Kimi Antonelli was 10 when his father Marco first realised the boy sitting on his lap, operating the steering and gears, might have an exceptional talent as a racing driver.**

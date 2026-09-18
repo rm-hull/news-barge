@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Other families have been unlawfully compelled to be case-managed without
   consent, watchdog finds
 image: https://i.guim.co.uk/img/media/9c10f3775ec1886a309c71cd6a453ca98e8500e7/0_1150_3057_2445/master/3057.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2efcd07694a32dc19e14b9c81e344010
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 More than a third of all reports raising concerns about the future welfare of unborn children were closed due to a shortage of allocated caseworkers, while families were unlawfully compelled to take part in prenatal case work, the New South Wales ombudsman has found.

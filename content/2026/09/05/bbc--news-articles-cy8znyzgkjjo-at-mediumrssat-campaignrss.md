@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The government says it condemns "the behaviour in Dover" and the disruption
   it has caused.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afaf/live/50d301d0-a936-11f1-bb81-8fbd2d2d397c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Masked men chanting 'stop the boats' protest at Port of Dover

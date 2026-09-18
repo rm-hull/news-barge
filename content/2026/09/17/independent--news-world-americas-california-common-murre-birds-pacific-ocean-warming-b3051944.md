@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T19:43:36Z'
 published: '2026-09-17T00:00:00Z'
 description: Dozens of emaciated seabirds have been taken to rescue centers
 image: https://static.independent.co.uk/2026/09/17/14/47/usfws-common-murres-ledge-large-1.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Penguin-like sea birds known as common murres have been dying in droves along the California coast over the last two months.

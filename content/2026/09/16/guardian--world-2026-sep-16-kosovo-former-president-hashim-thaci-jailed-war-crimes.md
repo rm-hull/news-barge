@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Hashim Thaçi, 58, was convicted by The Hague for crimes committed while
   he was senior commander of the Kosovo Liberation Army
 image: https://i.guim.co.uk/img/media/368db6336bace6a16f68f55b6c1b4158d1396dc2/1368_0_3894_3115/master/3894.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d8d640e31bd57405209956461d2be23
+categories:
+- UK
+- News & Politics
+- History
+- True Crime
 ---
 
 Hashim Thaçi, the former president of Kosovo, has been sentenced to 25 years in prison by a tribunal in The Hague for war crimes, including dozens of murders, committed during his time as a senior commander of the Kosovo Liberation Army during the country’s war for independence from Serbia in the late 1990s.

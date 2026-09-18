@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The Dutch central bank has moved billions of dollars worth of its gold
   reserves from North America to London
 image: https://static.independent.co.uk/2026/09/02/15/Netherlands_Gold_9133_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- History
 ---
 
 The Dutch central bank announced Wednesday that it has moved billions of dollars worth of its gold reserves out of North America in a move it described as “crisis preparedness” in a time of global political unrest.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: 'Swan Song: Diana, My Sister is due to be released in the UK next month,
   nearly 30 years after she died.'
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![A picture of Diana in a light blue shirt](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg)

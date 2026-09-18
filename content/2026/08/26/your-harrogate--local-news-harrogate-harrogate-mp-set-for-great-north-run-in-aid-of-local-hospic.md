@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon is preparing to take part in
   the Great North Run in aid of Saint Michael's Hospice.
 image: https://mmo.aiircdn.com/409/67d84738cc213.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/67d84738cc213.jpg) 

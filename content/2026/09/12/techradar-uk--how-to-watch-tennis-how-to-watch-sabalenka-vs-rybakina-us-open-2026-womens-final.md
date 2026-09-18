@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: A repeat of the Australian Open final sees the top two players in the
   world go head-to-head again
 image: https://cdn.mos.cms.futurecdn.net/k9e7NLGmVPdpebFmE3ASTe-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Aryna Sabalenka returns a shot during the 2026 US Open at USTA Billie Jean King National Tennis Center.](https://cdn.mos.cms.futurecdn.net/k9e7NLGmVPdpebFmE3ASTe.jpg) 

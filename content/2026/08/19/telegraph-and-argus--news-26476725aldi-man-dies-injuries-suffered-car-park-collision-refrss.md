@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A man has died after sustaining serious injuries in a collision in a
   supermarket car park.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21339477.jpg?type=og-image&xType=0&yType=66
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: West Yorkshire Police)*

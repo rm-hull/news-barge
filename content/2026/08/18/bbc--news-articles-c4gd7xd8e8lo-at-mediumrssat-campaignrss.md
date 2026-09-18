@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Environmentalists have heavily criticised the exploratory drilling in
   the sea off the mouth of the Amazon.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![President Lula, wearing an orange jumpsuit with the logo of the state-run oil company Petrobras, hold up a small container filled with oil. He is wearing a cream-coloured Panama hat with a black ribbon around it. In his right hand, he is holding a microphone.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/5240/live/17e6ceb0-9ae0-11f1-b2f7-5d1639b20e22.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A Barnard Castle bakery known for its sourdough loaves, homemade pies
   and sausage rolls has grown from a small wholesaler into a town-centre…
 image: https://www.thenorthernecho.co.uk/resources/images/21416676.jpg?type=og-image&xType=0&yType=1615
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: UGC)*

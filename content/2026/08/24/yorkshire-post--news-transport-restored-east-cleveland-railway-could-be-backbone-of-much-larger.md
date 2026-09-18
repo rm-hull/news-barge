@@ -9,6 +9,11 @@ description: A private railway company could be set up to serve a previously mot
   passenger railway line in East Cleveland with the public investing in it as shareholders,
   it has been suggested.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRiODliNDgyLWRhZDYtNGUxYy05MzA2LWE2MWZjYzMzM2ZjYjpkMmJmNTA2Ni1lNGUxLTRjMmEtOWVhMC03MzU3NjE1MWQ1Mzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Restored East Cleveland railway could be ‘backbone of much larger tourism enterprise’

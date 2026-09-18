@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Part of Haig Street in Ferryhill is to be stopped up under a new Department
   for Transport order in the latest public notice.
 image: https://www.thenorthernecho.co.uk/resources/images/19217207.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: The Press)*

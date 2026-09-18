@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Leeds Bradford Airport has revealed plans to reduce noise from night-time
   flights and condense its overnight hours.
 image: https://www.gazetteherald.co.uk/resources/images/21473072.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: PA Media)*

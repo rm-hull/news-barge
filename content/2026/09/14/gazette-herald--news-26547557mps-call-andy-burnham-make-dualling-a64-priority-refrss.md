@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: THE MP for Ryedale has called on the new prime minister to make the long-awaited
   dualling of the A64 a priority for his government.
 image: https://www.gazetteherald.co.uk/resources/images/21287521.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Contributed)*

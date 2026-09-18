@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: A road roller is behind cones on the eastbound lane of the A1079 outside
   Dunnington, close to the layby where The Scrap Box fish and chip shop is…
 image: https://www.yorkpress.co.uk/resources/images/21389122.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Kevin Glenton)*

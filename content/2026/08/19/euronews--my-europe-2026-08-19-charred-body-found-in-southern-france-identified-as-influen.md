@@ -9,6 +9,10 @@ description: 'The Nîmes public prosecutor, Cécile Gensac, said that two men ha
   arrested on Wednesday and "placed in police custody because of evidence suggesting
   their direct or indirect involvement in the events." #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/11/91/1200x675_cmsv2_4c641815-33f9-51ec-9435-2014219d699a-9881191.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The Nîmes public prosecutor, Cécile Gensac, said that two men had been arrested on Wednesday and "placed in police custody because of evidence suggesting their direct or indirect involvement in the events."

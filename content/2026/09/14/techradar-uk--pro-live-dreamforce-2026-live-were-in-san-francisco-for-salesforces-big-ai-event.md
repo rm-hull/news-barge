@@ -8,6 +8,8 @@ published: '2026-09-14T00:00:00Z'
 description: We're in San Francisco for Dreamforce 2026 - so what does Salesforce
   have in store?
 image: https://cdn.mos.cms.futurecdn.net/QTKvbhfCA5whmuoL8wnXW7-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dreamforce 2025](https://cdn.mos.cms.futurecdn.net/QTKvbhfCA5whmuoL8wnXW7.jpg) 

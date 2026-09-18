@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: A delightfully brain-teasing detective comedy starring David Mitchell
   and Anna Maxwell Martin, here's how to watch Ludwig season 2 free from anywhere.
 image: https://cdn.mos.cms.futurecdn.net/ACFb89H8uzghXyj4z8V989-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![David Mitchell as John "Ludwig" Taylor in Ludwig season 2](https://cdn.mos.cms.futurecdn.net/ACFb89H8uzghXyj4z8V989.jpg) 

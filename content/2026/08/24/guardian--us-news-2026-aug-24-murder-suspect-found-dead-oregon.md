@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Authorities suspect Benjamin Charles Parker, 36, died by suicide after
   he was found in vehicle in Washington state
 image: https://i.guim.co.uk/img/media/0a48b73b0e4b32747220064111c1a2e6d6f19f70/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d6dcf3dd3ca2e711e52b5680eb45854
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man suspected of killing five people in rural Oregon was found dead in a suspected suicide, local law enforcement officials said on Sunday.

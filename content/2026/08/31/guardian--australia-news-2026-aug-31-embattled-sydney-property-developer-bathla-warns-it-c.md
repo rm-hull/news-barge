@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Administrators will be forced to close the business if it fails to secure
   additional funding, revealing hundreds of staff have not been paid for weeks
 image: https://i.guim.co.uk/img/media/25c107128a04e0be22d3ed888a15abc625363f56/731_0_6705_5364/master/6705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24dfeca343927e20cdb4d1cdc096bd51
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The administrators of embattled property developer Bathla Group have said the company will fold by the end of the week unless they can secure additional funding to keep it afloat.

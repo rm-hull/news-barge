@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: ’All we heard was hundreds of PASS alarms going off underneath us, and
   we knew what that sound was — and there was nothing we could do about it’
 image: https://static.independent.co.uk/2026/09/09/14/21/10-PER-USE-PLEASE-FLAG-REUSE-TO-PIC-DESK.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Society & Culture
+- History
 ---
 
 The six-man crew on FDNY Ladder 118’s truck raced across the Brooklyn Bridge toward the twin towers of the World Trade Center as thick black smoke poured out of their upper floors on the otherwise bright, clear morning of September 11, 2001.

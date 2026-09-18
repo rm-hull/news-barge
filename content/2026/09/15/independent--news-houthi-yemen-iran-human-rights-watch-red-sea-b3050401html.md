@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A Houthi spokesperson says Saudi airstrikes have left three people dead
   in the Yemen's southwest
 image: https://static.independent.co.uk/2026/09/15/10/Mideast_Wars_Yemen_815_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Houthi official said Tuesday that Saudi warplanes struck Yemen, killing three people, including two children, while Human Rights Watch accused the Houthi rebels of possible war crimes with its attacks on commercial vessels.

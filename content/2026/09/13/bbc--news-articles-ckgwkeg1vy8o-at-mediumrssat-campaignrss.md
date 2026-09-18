@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The government is trying to change the law on donations to UK political
   parties from British expats.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/656d/live/74d3c480-af61-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Watch: Donations 'entirely in line with the law', says Jenrick

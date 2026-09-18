@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Tees Valley author Tracey Iceton and her barn owl Sparky will headline
   a Talks & Teas event at Lumley Castle in Chester-le-Street, featuring a…
 image: https://www.thenorthernecho.co.uk/resources/images/21342110.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: It’s a far cry from Time Team days when archaeologists had no choice
   but to drag ground sensing equipment across rough ground to find out what lies beneath.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMzNjgyMDhiLTE3NTQtNDVhMy04OGRiLTdlN2M1M2YyNmMyODphNmRiZDRmOC1iMjgyLTQ5NDUtYmZjYS1hMWY1NTcyMTJjYjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Bridestones Moor: Hidden past of Yorkshire moors to be revealed with drone

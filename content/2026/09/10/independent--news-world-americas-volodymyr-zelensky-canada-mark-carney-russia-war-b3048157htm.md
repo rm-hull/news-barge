@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: ‘Ukrainians helped build this country,’ Carney said. ‘And Canada will
   help rebuild Ukraine when peace comes’
 image: https://static.independent.co.uk/2026/09/10/18/2026-09-10T155040Z_2103353897_RC2FGNAVJ753_RTRMADP_3_UKRAINE-CRISIS-CANADA.JPG?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukrainian President Volodymyr Zelensky traveled to Canada on Thursday for bilateral talks with Prime Minister Mark Carney, marking his most recent international journey aimed at securing ongoing assistance in resisting Russia's invasion.

@@ -10,6 +10,9 @@ description: Reform chairman Lee Anderson said there was ‘no chance’ that Ja
   the party’s former head of policy and Dan Jukes, a close aide to Nigel Farage, would
   return to the party
 image: https://static.independent.co.uk/2026/09/04/7/14/james-orr-dan-jukes.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two of Nigel Farage’s key allies have been forced to quit their roles in Reform UK after a bombshell undercover sting operation sparked allegations they breached political donation rules.

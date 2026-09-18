@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Zak Joshua Bayes, 28, of no fixed abode, was found dead in Whitby on
   March 19, 2025.
 image: https://www.gazetteherald.co.uk/resources/images/21463672.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 *(Image: Contributed)*

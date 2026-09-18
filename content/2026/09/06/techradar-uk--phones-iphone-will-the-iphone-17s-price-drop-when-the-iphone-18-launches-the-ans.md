@@ -9,6 +9,9 @@ published: '2026-09-06T00:00:00Z'
 description: This isn't a typical year for iPhones, so will Apple drop prices like
   usual, or will you be stuck with high charges?
 image: https://cdn.mos.cms.futurecdn.net/Q5GgmTWdfFRSBQ9ygxjdkM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Apple iPhone 17 Review](https://cdn.mos.cms.futurecdn.net/Q5GgmTWdfFRSBQ9ygxjdkM.jpg) 

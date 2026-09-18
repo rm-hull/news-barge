@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Russia will pretend strike was accidental to 'paralyse' Nato response,
   says Donald Tusk
 image: https://static.independent.co.uk/2026/09/18/06/2026-09-17T201602Z_1694996086_RC2FKNAXR84E_RTRMADP_3_RUSSIA-NESTLE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Polish prime minister Donald Tusk says Russia is planning hybrid strikes with drones or missiles targeting Nato countries supporting Ukraine, potentially including Poland.

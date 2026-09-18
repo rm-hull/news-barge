@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Volunteers with the Sky Island Alliance are building erosion control
   structures on Mount Lemmon in Arizona
 image: https://static.independent.co.uk/2026/08/21/22/Mount_Lemmon_Erosion_Control_87299.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Technology & Software
 ---
 
 Julius Gorton pushes a rectangle-shaped rock into the ground then shakes it. Still loose. He takes the pick axe next to him and hammers it down.

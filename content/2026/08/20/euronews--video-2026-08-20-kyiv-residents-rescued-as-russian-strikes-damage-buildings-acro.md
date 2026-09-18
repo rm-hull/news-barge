@@ -10,6 +10,10 @@ description: Video. Russia’s overnight missile barrage killed at least 12 peop
   Kyiv on Thursday, 20 August, as residents were rescued from damaged buildings and
   firefighters battled fires across the capital.
 image: https://images.euronews.com/articles/stories/09/88/16/66/1200x675_cmsv2_15671442-5688-542c-9e69-e9f659652716-9881666.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 At least 33 people were wounded, according to Ukraine’s Emergency Service, while the air-raid alert remained in force into the early hours.

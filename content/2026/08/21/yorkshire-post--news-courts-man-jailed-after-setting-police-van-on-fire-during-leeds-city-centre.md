@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A man has been jailed after using an accelerant to set fire to a police
   van during a demonstration in Leeds city centre.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/21/15/41/hakam_ghaith.jpeg?trim=393,0,393,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man jailed after setting police van on fire during Leeds city centre demonstration

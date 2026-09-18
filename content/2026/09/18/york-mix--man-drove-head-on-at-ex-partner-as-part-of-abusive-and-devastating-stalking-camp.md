@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T19:00:46Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/max-midgley-coxwold.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A North Yorkshire man has been jailed for a prolonged and abusive stalking campaign against his ex partner.

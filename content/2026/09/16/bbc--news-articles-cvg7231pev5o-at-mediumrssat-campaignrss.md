@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Just 270 people were linked to 28,415 shoplifting offences across England,
   a BBC analysis has found.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e4b/live/d333daa0-b110-11f1-8907-39a652c5e20e.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![CCTV screenshot of a shoplifter in the act in a store aisle. The shoplifter is wearing a black hoodie and is in the process of filling a large transparent bag with goods, while a shopkeeper in high vis stands by.](https://ichef.bbci.co.uk/ace/standard/1440/cpsprodpb/9e4b/live/d333daa0-b110-11f1-8907-39a652c5e20e.jpg)

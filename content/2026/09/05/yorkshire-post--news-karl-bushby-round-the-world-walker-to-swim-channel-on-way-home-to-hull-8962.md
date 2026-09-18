@@ -9,6 +9,11 @@ description: Round-the-world walker Karl Bushby says he’s expecting to arrive 
   mother’s home in Hull in two months’ time – after gaining permission to swim the
   Channel.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRmYjJkMTYzLTMwMWMtNDI0OC1hM2U5LWVkMTk0NDlkMTEwNTo3NjlkMDE1Yi0wYTVkLTRhMzktYTExMC1iYzY1Y2U4MDZlOGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Karl Bushby: Round-the-world walker to swim Channel on way home to Hull

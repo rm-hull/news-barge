@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T21:28:36Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-street-art-mural-lowther-street-the-groves-tom-sledmore-1-dd.webp
+categories:
+- Local
+- York
+- Arts & Culture
+- Society & Culture
 ---
 
 This is the amazing new street art that has just been created in York.

@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: DogFest on the Farm at Harewood House will feature the Yorkshire chef
   James Martin and his schedule has been announced.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg4NmI0MzRkLTNlOWQtNDRlZS04OGNmLThkZGYyYWI3N2E1ZjphZDUxZDE4Yy0xZjU2LTQwN2EtOWIxYS0xMjY3MTM0N2JiNmY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 # James Martin: Yorkshire celebrity chef to attend DogFest on the Farm event at Harewood House

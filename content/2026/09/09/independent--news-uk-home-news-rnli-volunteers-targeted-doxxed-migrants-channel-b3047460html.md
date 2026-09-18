@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Members of a lifeboat operation rescuing people crossing the English
   Channel on Sunday have been targeted in a vicious online hate campaign
 image: https://static.independent.co.uk/2026/09/07/15/01M1XSKWQR331S300W0FGHMAFY.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A police investigation has been launched after two Royal National Lifeboat Institution (RNLI) volunteers were branded “traitors” online and had their photos, full names and home addresses leaked in the wake of anti-migrant protests in Portsmouth on Sunday night.

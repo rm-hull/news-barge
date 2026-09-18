@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A new ‘masterplan’ could see the appointment of an external partner to
   lead on the regeneration of council-owned sites in a North Yorkshire town.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjM0MDAxMzNjLWExMDgtNDNmZC1hNTEzLTg0MzJlNTAyMmVkZjoyNjMwMjBkOS0xNjNlLTQ1NTQtYTJhOC1kYjcwZWM4OTY0ZTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # New masterplan to ‘regenerate’ council buildings in Scarborough

@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Dean Smith, from New Marske, will climb Roseberry Topping 51 times over
   30 hours in memory of his mother, who died from blood cancer in 2022.
 image: https://www.thenorthernecho.co.uk/resources/images/21407772.jpg?type=og-image&xType=0&yType=147
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 A Teesside man with fond childhood memories of Roseberry Topping will climb the iconic hill 51 times in memory of his late mum.

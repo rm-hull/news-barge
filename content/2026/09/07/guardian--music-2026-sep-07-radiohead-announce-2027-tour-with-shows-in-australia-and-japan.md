@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: UK band will play 16 shows across Perth, Melbourne and Sydney, as well
   as five shows in Saitama
 image: https://i.guim.co.uk/img/media/320e7a1c744428d60d8c12c2b5ddea94a5b9ab1e/180_0_1639_1312/master/1639.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bbae4a6602a800b4426253bb4e3dc74
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 Radiohead will return to Australia to play 16 shows across three cities next year, marking the band’s first tour of the country in 15 years.

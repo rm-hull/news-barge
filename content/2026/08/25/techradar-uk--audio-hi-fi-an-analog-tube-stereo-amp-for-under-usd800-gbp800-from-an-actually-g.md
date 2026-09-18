@@ -9,6 +9,10 @@ scraped_at: '2026-08-25T16:51:39Z'
 published: '2026-08-25T00:00:00Z'
 description: Fiio's EA13 is a tube amplifier that's surprisingly affordable
 image: https://cdn.mos.cms.futurecdn.net/qBLAduJCy3Q5fHULTvXHTZ-2048-80.png
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Music
 ---
 
 ![Product shot of the FiiO EA13 amplifier](https://cdn.mos.cms.futurecdn.net/qBLAduJCy3Q5fHULTvXHTZ.png) 

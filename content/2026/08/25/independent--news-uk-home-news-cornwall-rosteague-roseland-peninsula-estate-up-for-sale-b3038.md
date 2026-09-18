@@ -7,6 +7,12 @@ scraped_at: '2026-08-25T13:08:34Z'
 published: '2026-08-25T00:00:00Z'
 description: The 500-year-old property is set in 183 acres of gardens and woodland
 image: https://static.independent.co.uk/2026/08/24/16/55/Rosteague-c2462a2c.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Real Estate
 ---
 
 A 500-year-old Cornish house with a mile of coast all to itself and more than 180 acres of green pastures and woodland has gone on sale.

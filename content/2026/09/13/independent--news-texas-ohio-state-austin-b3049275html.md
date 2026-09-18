@@ -10,6 +10,10 @@ description: Arch Manning and No. 4 Texas stole a 24-23 victory from No. 1 Ohio 
   on Saturday night, rallying from a 20-point fourth-quarter deficit to win it on
   Hollywood Smothers’ 1-yard touchdown run with 25 seconds left
 image: https://static.independent.co.uk/2026/09/13/04/APTOPIX_Ohio_St_Texas_Football_45452.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Arch Manning and No. 4 Texas stole a 24-23 victory from No. 1 Ohio State on Saturday night, rallying from a 20-point fourth-quarter deficit to win it on Hollywood Smothers’ 1-yard touchdown run with 25 seconds left.

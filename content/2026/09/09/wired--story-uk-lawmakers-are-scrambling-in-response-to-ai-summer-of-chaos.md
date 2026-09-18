@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: As AI agents go rogue and fears of superintelligence grow, politicians
   are raising the alarm over its potential harm to human existence.
 image: https://media.wired.com/photos/6aa198d7d1fc0df81e302b2e/191:100/w_1280,c_limit/Business_UK%20Lawmakers%20Are%20Scrambling%20In%20Response%20To%20AI%E2%80%99s%20Summer%20of%20Chaos_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Society & Culture
 ---
 
 A leading British politician has urged the United Nations to intervene in “the unsafe development of super intelligence” after an Anthropic team leader posted: “We really do earnestly believe AI could kill all humans!”

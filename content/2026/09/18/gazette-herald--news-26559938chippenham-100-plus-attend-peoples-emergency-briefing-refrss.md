@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: More than 100 people attended a screening of The People's Emergency Briefing
   at Hardenhuish School in Chippenham, followed by a discussion…
 image: https://www.gazetteherald.co.uk/resources/images/21469480.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 More than 100 people gathered for a film screening followed by a discussion about the climate crisis.

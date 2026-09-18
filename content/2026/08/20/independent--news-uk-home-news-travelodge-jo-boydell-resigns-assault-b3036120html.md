@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T08:52:17Z'
 published: '2026-08-20T00:00:00Z'
 description: Staff mistakenly issued a key card to a woman’s attacker
 image: https://static.independent.co.uk/2026/03/18/14/25c79305d09525a62b0c0cf2810be4e9Y29udGVudHNlYXJjaGFwaSwxNzczOTI5Njg0-2.16022320.jpg?trim=216,0,1034,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Travelodge’s chief executive Jo Boydell has stepped down, the hotel chain has announced.

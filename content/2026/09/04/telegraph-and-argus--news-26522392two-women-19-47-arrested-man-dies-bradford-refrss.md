@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Two women, aged 19 and 47, were arrested after a man died in a collision
   in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21409699.jpg?type=og-image&xType=0&yType=582
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Gazz Hall)*

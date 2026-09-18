@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Aalim Ahmed died instantly when he fell from a kitchen window, which
   could tilt and turn, at a residential block in Plaistow, east London
 image: https://static.independent.co.uk/2026/08/24/18/5808cae420c782bda6955f7c3884e4cbY29udGVudHNlYXJjaGFwaSwxNzg3Njc3MzM5-2.76191864.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A five-year-old boy died after jumping from a 15th-floor tower block window that was "compromised", a coroner said.

@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T13:23:30Z'
 published: '2026-09-17T00:00:00Z'
 description: How tech firms scale accessibility to deliver inclusive experiences
 image: https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person using a desktop computer.](https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH.jpg) 

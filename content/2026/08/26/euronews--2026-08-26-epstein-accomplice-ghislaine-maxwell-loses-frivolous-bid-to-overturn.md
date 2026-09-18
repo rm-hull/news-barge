@@ -9,6 +9,9 @@ description: Maxwell was convicted in 2021 of supplying underage girls to Epstei
   whose ties to powerful business executives, politicians, celebrities and academics
   have fuelled years of scrutiny and conspiracy theories.
 image: https://images.euronews.com/articles/stories/09/88/90/21/1200x675_cmsv2_052126b4-4a85-546b-8879-82083d0666d3-9889021.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Maxwell was convicted in 2021 of supplying underage girls to Epstein, whose ties to powerful business executives, politicians, celebrities and academics have fuelled years of scrutiny and conspiracy theories.

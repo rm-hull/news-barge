@@ -9,6 +9,11 @@ description: Fans across the country are mourning Dolly Parton, gathering at mak
   memorials and other places to celebrate the beloved singer, songwriter and philanthropist
   who died Tuesday in Nashville at 80.
 image: https://static.independent.co.uk/2026/08/26/01/APTOPIX_Obit_Dolly_Parton_27121.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
+- Arts & Culture
 ---
 
 From Los Angeles to Nashville, fans remember Dolly Parton, in photos

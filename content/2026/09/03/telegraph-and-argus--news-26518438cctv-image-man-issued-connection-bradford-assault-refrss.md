@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Police are appealing for help to identify a man in connection with an
   assault in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21405484.jpg?type=og-image&xType=0&yType=180
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

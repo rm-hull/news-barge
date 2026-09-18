@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Alternative für Deutschland surges to victory in Saxony-Anhalt as Friedrich
   Merz’s CDU slumps to disastrous result
 image: https://i.guim.co.uk/img/media/fb14b9c80554d6b9b4f33e60514e63c2f46f2642/275_0_2415_1933/master/2415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5fb334457c80a5320c7443277dc6ee8
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has surged to a resounding victory in a crucial state election in Germany, but fell just short of winning a majority in its quest to form the country’s first far-right state government since the second world war.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: An probe has been launched after a historic former Middlesbrough pub
   was set ablaze in an "arson attack".
 image: https://www.thenorthernecho.co.uk/resources/images/21345878.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: CONTRIBUTOR - MARK HAMPTON)*

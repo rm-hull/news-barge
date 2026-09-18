@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Fire crews were called to reports of flooding in a village near York
   last night.
 image: https://www.yorkpress.co.uk/resources/images/21399304.jpg?type=og-image&xType=0&yType=161
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Fire and Rescue Service)*

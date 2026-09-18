@@ -9,6 +9,11 @@ description: The NFL season’s opening Sunday features the Packers visiting the
   the Commanders facing the Eagles and the Cowboys taking on the Giants. The Broncos
   visit the Chiefs on Monday night. This is a photo gallery curated by AP photo editors.
 image: https://static.independent.co.uk/2026/09/13/23/Jets_Titans_Football_21263.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Arts & Culture
 ---
 
 Top photos from the first Sunday of the NFL season

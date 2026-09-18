@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: CHILDREN in Yorkshire are calling time on childhood traditions earlier
   than many parents realise.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435326.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Supplied)*

@@ -10,6 +10,11 @@ published: '2026-08-21T00:00:00Z'
 description: The company's senior management was apparently unaware that billions
   of dollars' worth of hardware was being sent to questionable clients.
 image: https://cdn.mos.cms.futurecdn.net/tcfTihpKR3gtRJ6DCLVGBj-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Supermicro logo on a building](https://cdn.mos.cms.futurecdn.net/tcfTihpKR3gtRJ6DCLVGBj.png) 

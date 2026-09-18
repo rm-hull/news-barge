@@ -9,6 +9,11 @@ description: Tens of thousands of protesters took part in demonstrations across 
   on Saturday against the far-right AfD, after the party scored a crushing victory
   in a state election last week.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260912__C84F8CK__v2__MidRes__GermanyPoliticsDemonstrationVote.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 The Alternative for Germany (AfD) topped the vote in the eastern region of Saxony-Anhalt, and is now seeking to form the first extreme-right state government in Germany since World War II.

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Close to 500 people have become ill with salmonella linked to imported
   eggs, say UK authorities who are investigating more clusters.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A woman cracks open an egg.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/b642/live/cc25c7c0-a1fa-11f1-a97e-999c5aae08bf.jpg)

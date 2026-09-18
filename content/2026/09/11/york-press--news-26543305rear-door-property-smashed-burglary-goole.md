@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: BURGLARS have smashed the rear door of a property during a break-in an
   East Yorkshire town.
 image: https://www.yorkpress.co.uk/resources/images/21128745.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

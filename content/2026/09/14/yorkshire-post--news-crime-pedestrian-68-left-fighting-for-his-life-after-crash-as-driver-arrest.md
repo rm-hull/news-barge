@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A 68-year-old pedestrian has suffered life-threatening injuries following
   a crash with a car in Keighley.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/14/17/02/Sand-Street-Keighley.png?trim=0,23,0,23&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Pedestrian, 68, left fighting for his life after crash as driver arrested

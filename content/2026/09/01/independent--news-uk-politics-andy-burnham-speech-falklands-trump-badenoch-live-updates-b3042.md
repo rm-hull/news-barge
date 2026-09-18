@@ -8,6 +8,10 @@ scraped_at: '2026-09-01T13:29:11Z'
 published: '2026-09-01T00:00:00Z'
 description: Burnham set to give first Commons address as PM
 image: https://static.independent.co.uk/2026/09/01/09/2286803768..?trim=2620,0,740,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Former prime minister Sir Keir Starmer has announced his resignation as an MP in a shock move, setting his successor Andy Burnham up for a fresh by-election.

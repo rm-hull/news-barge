@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A 'serious incident' prompted a watchdog investigation into Delamere
   care home, Middlesbrough that then uncovered more issues.
 image: https://www.thenorthernecho.co.uk/resources/images/21343055.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: THE NORTHERN ECHO)*

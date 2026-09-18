@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: The Exelby Green Dragon, south of Bedale, became a community pub in 2018
   after a period of closure. Malcolm Warne visited for a meal.
 image: https://www.thenorthernecho.co.uk/resources/images/21417894.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 What’s not to like about community pubs?

@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Incremental improvements fail to generate much excitement, but Google’s
   Pixel 11 is still an accomplished Android phone.
 image: https://media.wired.com/photos/6a8780863aef0f642ff30070/191:100/w_1280,c_limit/Google-Pixel-11-1-SOURCE-Simon-Hill.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The hot pink Hibiscus color is dazzling, but is Google’s 11th-generation Pixel just another iterative upgrade, or does it dial things up to 11? Diving beneath the surface, we find a slightly better chipset and camera, faster wireless charging, a fresh batch of AI features, and not much else. Don’t get me wrong: This is a slick smartphone, perhaps the best Android phone for folks who are comfortable with Google and Gemini AI, but it’s only a very slight improvement over last year’s Pixel 10.

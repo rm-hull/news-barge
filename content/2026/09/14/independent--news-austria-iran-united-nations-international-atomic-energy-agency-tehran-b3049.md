@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Iran has condemned the exclusion of its Atomic Energy Organization head
   from the UN nuclear agency's meeting in Vienna
 image: https://static.independent.co.uk/2026/09/14/12/Austria_IAEA_1_283.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Iran on Monday condemned the exclusion of the head of its Atomic Energy Organization from the annual gathering of the United Nations nuclear agency in Vienna saying that it constitutes “a serious breach” of Tehran's rights as a member nation.

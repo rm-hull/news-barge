@@ -9,6 +9,9 @@ description: SpaceX was reportedly in talks to buy AI coding startup Cognition. 
   has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic
   in enterprise AI.
 image: https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Elon Musk’s SpaceX attempted to acquire AI coding startup Cognition as it works to catch up to OpenAI, Anthropic, and Google in the AI race, Bloomberg reported Wednesday, citing sources familiar with the matter.

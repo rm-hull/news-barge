@@ -9,6 +9,10 @@ description: Heavy train triggered the landslide at the waste mound. The governm
   had issued eviction orders to local residents living near the landfill in the days
   leading up to the incident out of fear for a collapse.
 image: https://images.euronews.com/articles/stories/09/88/55/03/1200x675_cmsv2_5b3edc99-78b5-556c-b755-167fda08c6cd-9885503.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Heavy train triggered the landslide at the waste mound. The government had issued eviction orders to local residents living near the landfill in the days leading up to the incident out of fear for a collapse.

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The United Nations is warning that any new nuclear test could trigger
   an arms race
 image: https://static.independent.co.uk/2026/09/01/00/United_Nations_Funding_42177.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 With the U.S., Russia, China and other countries that have nuclear weapons refusing to ratify the treaty that bans atomic testing, the United Nations warned on Monday that any new test could trigger another arms race.

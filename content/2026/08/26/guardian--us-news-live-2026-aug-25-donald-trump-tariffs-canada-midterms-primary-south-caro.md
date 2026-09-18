@@ -10,6 +10,9 @@ description: The sister of late South Carolina senator Lindsey Graham is project
   to win a special Republican primary election to replace her brother on the November
   ballot for a full Senate term
 image: https://i.guim.co.uk/img/media/520e2f2d26a6fbd0c991abe4e8ec356cb50122b9/570_0_6236_4990/master/6236.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=341eafb0f7c333339e0cd65409f647bd
+categories:
+- UK
+- News & Politics
 ---
 
 Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – live

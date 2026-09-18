@@ -9,6 +9,9 @@ description: Iran executed another protester on Thursday over the deadly 2026 Is
   unrest, as rights groups warn of forced confessions and death sentences used to
   stifle dissent.
 image: https://images.euronews.com/articles/stories/09/88/16/97/1200x675_cmsv2_276c3a6c-9f15-5b9d-9c94-96e72cf23271-9881697.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 **Euronews Persian**

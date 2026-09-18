@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A woman has been taken to hospital after being reportedly assaulted outside
   the Radisson Hotel in York.
 image: https://www.gazetteherald.co.uk/resources/images/21070352.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 *(Image: Newsquest)*

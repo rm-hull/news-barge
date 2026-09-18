@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Trump weighed approximately 238 pounds in May – 14 pounds more than last
   year and 23 pounds more than the 215 pounds he weighed three years ago
 image: https://static.independent.co.uk/2026/08/17/06/2290770448..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Doctors have warned that President Donald Trump’s weight gain is “a strong risk factor” for his health after the commander-in-chief has put on 23 pounds in three years, according to a report.

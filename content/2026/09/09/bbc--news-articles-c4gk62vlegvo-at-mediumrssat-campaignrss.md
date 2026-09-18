@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The former Dallas Cowboys Cheerleader overcomes criticism of stunt casting
   for her Chicago debut.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23ab/live/f8ccd0a0-aba2-11f1-8e72-a346833ed029.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Reece wears a bright red dress and has long brunette hair which sits past her shoulders. She stands in front of a Chicago The Musical sign](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/23ab/live/f8ccd0a0-aba2-11f1-8e72-a346833ed029.jpg)

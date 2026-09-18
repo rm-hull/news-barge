@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: The nation's search and rescue team said it lost contact with the Virgo
   Transport 8 in the early hours of Sunday morning.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f93a/live/4a94b000-af32-11f1-beca-5df146c4ee38.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Relatives of affected passengers look on as a National Search and Rescue Agency (Basarnas) officer writes updates on a whiteboard amid ongoing rescue operations on the stricken Virgo Transport 8 ferry, at Trisakti Bandarmasih Port in Banjarmasin, South Kalimantan, on September 13, 2026.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f93a/live/4a94b000-af32-11f1-beca-5df146c4ee38.jpg)

@@ -10,6 +10,12 @@ description: When the British public thinks of war graves, they picture sprawlin
   immaculate headstone fields in France, Belgium, or Gallipoli rather than the single
   headstone tucked away in a local parish churchyard.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjhhNDVmZDhjLTNiNmYtNGFhMi05MDBhLWQzY2FmYTcyYjFjODo5OThhNzRmYy1jYjQwLTQyNDEtYmY2Ni02MjJlMzAyYTM2NDQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
+- Society & Culture
 ---
 
 # Yorkshire’s ‘hidden’ war graves and the stories behind those buried close to home

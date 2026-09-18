@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Some say the case shed light on the mental health struggles of mothers,
   while others argue it's no excuse for murder.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0ca/live/8d2607a0-a8db-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Inside court as judge declares a mistrial in Lindsay Clancy case

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: M&S has brought back its 20 off Back to School range of uniform - but
   be quick as the offer ends today.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21121211.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: M&S)*

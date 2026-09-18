@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:08Z'
 published: '2026-09-09T00:00:00Z'
 description: What counter-measures has Israel taken against the UK?
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ## Episode details

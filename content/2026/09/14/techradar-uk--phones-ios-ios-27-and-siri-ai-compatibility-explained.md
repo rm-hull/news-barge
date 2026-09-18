@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: The device requirements for iOS 27 are simple — but Siri AI compatibility
   isn't so straightforward.
 image: https://cdn.mos.cms.futurecdn.net/WfmURBoAmM4p56QeqFjLZd-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Siri AI bubble displayed on an iPhone 17 Pro screen](https://cdn.mos.cms.futurecdn.net/WfmURBoAmM4p56QeqFjLZd.jpg) 

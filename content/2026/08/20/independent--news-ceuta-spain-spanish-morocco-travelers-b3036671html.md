@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T20:41:15Z'
 published: '2026-08-20T00:00:00Z'
 description: Migrants in Ceuta have been moved to makeshift shelters by Spanish police
 image: https://static.independent.co.uk/2026/08/20/21/Spain_Ceuta_765_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 For weeks, migrants in the Spanish territory of Ceuta had gathered on a beach away from the city center, sleeping on cardboard sheets, under reed huts and guarding their few possessions in tattered plastic bags.

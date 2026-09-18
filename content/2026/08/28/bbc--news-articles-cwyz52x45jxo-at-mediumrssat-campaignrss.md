@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: A 41-year-old man died at the Big Church Festival near Steyning in West
   Sussex, police say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![An ariel view of a festival.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg)

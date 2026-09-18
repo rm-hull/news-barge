@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T04:21:04Z'
 published: '2026-09-01T00:00:00Z'
 description: Autonomous crop-spraying aircraft are leading the way in pilot-free flying.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 ![A Pyka crop-duster flies low over a field spraying liquid.](https://ichef.bbci.co.uk/ace/standard/922/cpsprodpb/3a73/live/30054c70-971f-11f1-a7ab-8b30adf0800a.jpg)

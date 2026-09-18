@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Earth scientists are searching satellite imagery following catastrophic
   flooding along the Nepal-China border for clues to the cause
 image: https://static.independent.co.uk/2026/08/28/02/APTOPIX_Nepal_Flash_Floods__7235.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Travel
 ---
 
 As rescue teams searched for missing people following catastrophic flooding along the Nepal-China border, Earth scientists reviewed satellite imagery for clues to the cause and assessed the devastation.

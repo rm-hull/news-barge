@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Ensuring your car is ready for changing weather conditions could help
   motorists avoid costly penalties, a motoring expert has said.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21465909.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: CBCK/Getty)*

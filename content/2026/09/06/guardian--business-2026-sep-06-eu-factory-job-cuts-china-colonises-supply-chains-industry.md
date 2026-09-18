@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Protest using 10 coffins to symbolise struggling manufacturing industry
   to take place in Brussels
 image: https://i.guim.co.uk/img/media/6b6dafbc404b0c27d0aaba0086da073b6f8e0bbc/43_9_4094_3274/master/4094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6338fc77f170ba6b976eed5ae612cd0
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Arts & Culture
 ---
 
 Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.

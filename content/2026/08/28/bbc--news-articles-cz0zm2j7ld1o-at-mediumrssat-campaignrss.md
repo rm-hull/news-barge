@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: But they say Moscow will likely continue its "hybrid activity" against
   Nato members, short of direct military action.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7710/live/8f66bdd0-a312-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Russian President Vladimir Putin sits in a chair in an office, wearing a dark suit and red tie.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7710/live/8f66bdd0-a312-11f1-b109-879e35c24276.jpg)

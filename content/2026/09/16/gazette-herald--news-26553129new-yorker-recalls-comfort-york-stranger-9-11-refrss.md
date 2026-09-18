@@ -9,6 +9,13 @@ published: '2026-09-16T00:00:00Z'
 description: A New Yorker has shared how a stranger in York brought hope in the aftermath
   of the 9/11 attacks during one of the darkest days in US history.
 image: https://www.gazetteherald.co.uk/resources/images/21459590.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Arts & Culture
+- History
 ---
 
 A New Yorker who lived through the immediate aftermath of the September 11 attacks has described how an unexpected telephone call from a stranger in York was an 'emotional lifesaver'.

@@ -9,6 +9,11 @@ description: A Kirklees drug dealer who ran a drugs line called the “West York
   Cartel” supplying cocaine, ketamine and cannabis has been jailed for more than six
   years.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/28/13/31/shane_vickers_0.jpeg?trim=200,0,173,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Drug dealer behind 'West Yorkshire Cartel' line jailed for more than six years

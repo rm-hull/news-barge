@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Emma Webber has joined more than 30 families in signing an open letter
   to the government.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8e0b/live/7eaa5a20-a384-11f1-aff5-c9bc64006961.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Emma Webber Barnaby Webber's mother looking at the camera, wearing a pink coat](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/8e0b/live/7eaa5a20-a384-11f1-aff5-c9bc64006961.jpg)

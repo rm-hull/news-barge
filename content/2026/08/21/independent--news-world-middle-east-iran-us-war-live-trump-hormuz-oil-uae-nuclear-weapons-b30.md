@@ -8,6 +8,9 @@ scraped_at: '2026-08-21T04:51:02Z'
 published: '2026-08-21T00:00:00Z'
 description: At least 18 deaths are included in the statistics
 image: https://static.independent.co.uk/2026/08/20/05/2290597159..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Over 750 members of the US military have been injured since the Iran war began, according to data published the department of defence’s website.

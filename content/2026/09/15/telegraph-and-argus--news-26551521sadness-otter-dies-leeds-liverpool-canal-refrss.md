@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: An otter has died in the Bradford district, West Yorkshire Police has
   confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457263.jpg?type=og-image&yType=463
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 AN otter has died in the Bradford district, West Yorkshire Police has confirmed.

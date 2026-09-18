@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The Pentagon is pressing NATO allies to show how they're upping their
   defense of Europe as the U.S. focuses on security challenges elsewhere
 image: https://static.independent.co.uk/2026/08/27/20/Belgium_US_NATO_59_51.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The Pentagon on Thursday pressed U.S. allies at NATO to prove they are stepping up their defense of Europe as Washington shifts its attention to security challenges closer to home and in the Indo-Pacific region.

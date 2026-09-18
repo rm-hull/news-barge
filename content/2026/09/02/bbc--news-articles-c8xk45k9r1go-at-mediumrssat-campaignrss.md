@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: More than 1,000 people have died and thousands are missing, as rescue
   efforts continue and aid is airlifted to villages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
 ---
 
 Watch: Near ground zero of the Nepal floods

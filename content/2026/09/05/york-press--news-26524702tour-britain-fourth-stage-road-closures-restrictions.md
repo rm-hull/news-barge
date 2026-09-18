@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Motorists are being reminded of a series of road closures and controls
   as the men’s Tour of Britain sweeps across North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21316771.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 ## Where to see Tour of Britain race as it makes its way through North Yorkshire

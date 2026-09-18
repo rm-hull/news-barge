@@ -11,6 +11,8 @@ description: Sony has unveiled two super-telephoto E-mount prime lenses, the FE 
   F4.5 GM OSS and FE 600mm F6.3 GM OSS, and they are the lightest of their kind, each
   weighing less than 1kg. I've tested them both.
 image: https://cdn.mos.cms.futurecdn.net/cYRjMywieVWxakNkQPYvH9-2500-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: 'Game of Thrones: War for Westeros feels like we''re actually in the
   Seven Kingdoms, and it feels like the best adaptation of the series yet.'
 image: https://cdn.mos.cms.futurecdn.net/8RKs7xshMSttENGZk8bLun-2560-80.png
+categories:
+- Technology & Software
+- Arts & Culture
+- Video Gaming
 ---
 
 ![Game of Thrones: War for Westeros logo](https://cdn.mos.cms.futurecdn.net/8RKs7xshMSttENGZk8bLun.png) 

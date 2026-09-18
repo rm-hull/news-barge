@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A drug dealer has been jailed for more than five years following a police
   raid at his home.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414527.jpg?type=og-image&xType=0&yType=401
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

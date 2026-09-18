@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire residents are being urged to recycle more and recycle
   better.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21450116.jpg?type=og-image&xType=0&yType=1
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 CRAVEN residents are being urged to recycle more and recycle better.

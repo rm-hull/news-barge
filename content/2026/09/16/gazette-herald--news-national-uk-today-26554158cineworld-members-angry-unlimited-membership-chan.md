@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Cineworld customers are complaining about a change to its booking system
   which means Unlimited members can now only book one ticket at a time.
 image: https://www.gazetteherald.co.uk/resources/images/21461268.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Technology & Software
 ---
 
 *(Image: Getty)*

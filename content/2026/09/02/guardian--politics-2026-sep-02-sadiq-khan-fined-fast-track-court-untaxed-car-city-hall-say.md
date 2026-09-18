@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: London mayor’s office says he is ‘victim of a scam’ after conviction
   under fast-track system where magistrates can decide outcomes in seconds
 image: https://i.guim.co.uk/img/media/b406771945e45ae994506a862b98098037a277de/961_42_3347_2678/master/3347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3feac693086ad5c68b988fb392da257
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Sadiq Khan’s office has revealed he was the victim of a scam that led to him being fined for failing to tax a car that did not belong to him.

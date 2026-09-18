@@ -10,6 +10,12 @@ description: It was a spectacularly sunny Sunday, and I didn’t want my bike ri
   would too. I had tactically taken a route that passed through High Paradise Farm,
   which is a perfect place in many ways.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjUzMzgyNjM3LTJhM2MtNDNkMi1hZTlmLWY1ZTI2NThiOTdkYTo0ZTdmY2Q4NS0zYTE5LTRhODMtODQ5YS1hMDNmZDUxZmQ5NTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Lifestyle & Fashion
 ---
 
 # The Yorkshire Vet: Spotted... a mysterious bird of prey - Julian Norton

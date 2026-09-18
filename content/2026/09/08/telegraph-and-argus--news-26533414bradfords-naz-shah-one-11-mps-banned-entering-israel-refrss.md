@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford MP is one of 11 sitting Members of Parliament to be banned
   from entering Israel.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21427447.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

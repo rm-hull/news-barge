@@ -7,6 +7,12 @@ scraped_at: '2026-08-27T12:01:17Z'
 published: '2026-08-27T00:00:00Z'
 description: A thief has struck at a Morrisons supermarket in York
 image: https://www.gazetteherald.co.uk/resources/images/21377400.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- Business & Entrepreneurship
 ---
 
 *(Image: North Yorkshire Police)*

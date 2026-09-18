@@ -10,6 +10,8 @@ description: OM System has finally relaunched the iconic PEN series and put its 
   on it, with the OM System PEN. It features a splash-proof retro body, viewfinder
   and is packed with features
 image: https://cdn.mos.cms.futurecdn.net/VQ9ADTucQR4m5vHYBJXsU7-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Fashionable lady holding the OM System PEN up to her eye, there's abrick wall background](https://cdn.mos.cms.futurecdn.net/VQ9ADTucQR4m5vHYBJXsU7.jpg) 

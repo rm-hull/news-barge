@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Multi-award-winning performance maker Rachel Mars brings her hit solo
   show to the Harrogate Comedy Festival on Friday 9 October.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Rachel-Mars.webp
+categories:
+- Local
+- Harrogate
+- Comedy & Entertainment
 ---
 
 **HARROGATE**— Multi-award-winning theatre maker and writer Rachel Mars is set to bring her critically acclaimed solo show to the region as part of the line-up for the Harrogate Comedy Festival.

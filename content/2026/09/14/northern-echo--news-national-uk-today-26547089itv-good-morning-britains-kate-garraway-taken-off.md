@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The Good Morning Britain presenter was taken off air during a live broadcast
   of the ITV show this morning
 image: https://www.thenorthernecho.co.uk/resources/images/16009365.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: PA)*

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Drivers in Darlington are being warned about 8 sets of roadworks taking
   place during the August 29 to August 31 bank holiday weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21230413.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: GOOGLE)*

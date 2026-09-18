@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Landowners across North Yorkshire are being urged to plant more trees
   to help combat drought and improve climate resilience after the Met Office…
 image: https://www.yorkpress.co.uk/resources/images/21458970.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 *(Image: Supplied)*

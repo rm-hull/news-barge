@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Chinese President Xi Jinping is also set to attend the two-day summit,
   in what would be his first visit to India since 2019.
 image: https://images.euronews.com/articles/stories/09/90/95/44/1200x675_cmsv2_83028fd6-8c5b-5a5c-8d88-581a35dfa2c0-9909544.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Chinese President Xi Jinping is also set to attend the two-day summit, in what would be his first visit to India since 2019.

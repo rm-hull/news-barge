@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A self-proclaimed “Yorkshire lad” has become the first Briton to die
   fighting for Vladimir Putin against Ukraine.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/04/10/12/49/Bradley-Townsend.jpg?trim=0,155,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Bradley Townsend: 'normal Yorkshire lad' becomes first Briton to die fighting for Putin in Ukraine

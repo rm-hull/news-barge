@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Beefeater and Brewers Fayre customers have been urged to use their loyalty
   points before the restaurants close in September
 image: https://www.thetelegraphandargus.co.uk/resources/images/21360093.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Anthony Kazmierczak agreed plea deal over January town-hall attack that
   came amid Minneapolis ICE crackdown
 image: https://i.guim.co.uk/img/media/7e31a22ae039b543c84f668e392f4d0ad4e7f18c/433_0_4325_3460/master/4325.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96da5fe0875b16ae4f573388fadcb8c3
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The man who sprayed vinegar at the Democratic US House member Ilhan Omar during a Minneapolis town hall was sentenced Thursday to 14 months in prison after reaching a deal with prosecutors.

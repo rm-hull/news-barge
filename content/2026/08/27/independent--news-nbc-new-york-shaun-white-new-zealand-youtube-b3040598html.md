@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The Snow League, a halfpipe circuit created by Shaun White, reupped its
   deal with NBC Sports, which will show the league’s four events this season
 image: https://static.independent.co.uk/2026/08/27/19/Snow_League_NBC_Snowboarding_71969.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Snow League, a halfpipe circuit created by Shaun White, reupped its deal with NBC Sports, which will show the league's four events this season.

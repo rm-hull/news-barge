@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T22:14:17Z'
 published: '2026-08-27T00:00:00Z'
 description: Tropical Storm Dolly has formed in the Atlantic Ocean far from land
 image: https://static.independent.co.uk/2026/08/27/16/22/AP26239555193205.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Tropical Storm Dolly developed far out in the Atlantic Ocean on Thursday, with forecasters warning that the system could bring heavy rain to portions of the Caribbean.

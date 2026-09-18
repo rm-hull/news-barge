@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T23:24:37Z'
 published: '2026-08-26T00:00:00Z'
 description: Dolly Parton didn’t just sing about her Tennessee mountain home
 image: https://static.independent.co.uk/2026/08/26/22/Obit_Dolly_Parton_45988.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Dolly Parton didn’t just sing lovingly about her Tennessee mountain home. She spent her life elevating an often-overlooked region to showcase what long inspired her music and sparked a tourism boom that forever changed those living against the backdrop of the Great Smoky Mountains.

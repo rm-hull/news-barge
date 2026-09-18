@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Boots has told shoppers to “stop using the affected product immediately”,
   as it may cause burns and comes with a fire risk.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20101218.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: PA)*

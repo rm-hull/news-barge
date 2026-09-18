@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The government is set to give the go-ahead for the gas field off the
   coast of Aberdeen, the BBC understands.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A mostly yellow-painted gas platform and allied grey rig stand in calm blue seas with a clear blue sky behind them. It is sunny.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg)

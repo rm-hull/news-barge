@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A weak yuan guarantees Beijing massive trade surplus even as the White
   House tries tamp down on Chinese imports
 image: https://i.guim.co.uk/img/media/5864a734ad3d8ab2b9b8adb08725d29ddd91abfe/243_994_4491_3592/master/4491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f8edf2e3ce17528a26afe6c786ab541
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Since China offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the Trump administration has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day.

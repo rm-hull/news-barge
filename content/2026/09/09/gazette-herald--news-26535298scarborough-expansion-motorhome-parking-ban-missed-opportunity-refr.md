@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The expansion of an overnight ban on campervans being parked on the North
   Yorkshire coast following a ‘displacement of problems’ has received a…
 image: https://www.gazetteherald.co.uk/resources/images/21419198.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 The expansion of an overnight ban on campervans being parked on the North Yorkshire coast following a ‘displacement of problems’ has received a mixed response with one critic describing it as “a missed opportunity”.

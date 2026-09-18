@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Tens of thousands of people in northwest Indiana are entering a second
   week without power after a deadly storm toppled trees and power lines
 image: https://static.independent.co.uk/2026/08/20/23/US_Severe_Weather_Power_Outages_94258.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Tens of thousands of residents in northwest Indiana were in survival mode Thursday as they endured a ninth day without power, throwing out spoiled food, lining up for hot meals and searching for places to charge their phones.

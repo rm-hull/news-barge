@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: GDP increased by 0.4% in July, up from 0.3% in June, the Office for National
   Statistics said.
 image: https://static.independent.co.uk/2026/09/11/07/20f71ee6b076a1939c76037d70f274b5Y29udGVudHNlYXJjaGFwaSwxNzg5MTM3NzM5-2.85539380.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The UK economy unexpectedly grew by 0.4% in July following a boost from the services industry and businesses increasing the use of AI, official figures show.

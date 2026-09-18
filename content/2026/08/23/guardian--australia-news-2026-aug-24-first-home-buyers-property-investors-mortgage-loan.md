@@ -9,6 +9,12 @@ published: '2026-08-23T00:00:00Z'
 description: 'Exclusive: New entrants the only cohort making more loan applications
   amid interest rate rises and tax changes, mortgage broker says'
 image: https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=564ffce8bcb5884bcbdb0c029679b60d
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market.

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: American diplomats and at least some of their family members are beginning
   to return to U.S. embassies in the Middle East
 image: https://static.independent.co.uk/2026/08/28/21/Iran_US_Embassies_94837.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 American diplomats and at least some of their family members are beginning to return to U.S. embassies in the Middle East after many were ordered to leave their posts during the early days of the war with Iran.

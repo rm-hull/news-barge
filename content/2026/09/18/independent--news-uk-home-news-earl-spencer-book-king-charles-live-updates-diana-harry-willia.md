@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Future King’s reaction ‘reflected how this might free him to marry the
   woman he loved’, Diana’s brother says
 image: https://static.independent.co.uk/2026/09/17/7/08/GettyImages-52013981.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 King Charles sounded “giddily elated” and “like a lottery winner” on the day of Princess Diana’s death, her brother, Earl Spencer, has claimed in his bombshell memoir.

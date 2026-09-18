@@ -10,6 +10,10 @@ description: Initial report from ‘thick and dense terrain’ where Hooper was 
   was she had been found alive but within 10 minutes a ‘more accurate account’ was
   relayed to police
 image: https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ae823cf8a54a78fd0c2a888baab0123
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike.

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: The landmark public inquiry into Lucy Letby's murders and attempted murders
   is the focus of several of today's papers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e36c/live/c35ae700-b15f-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![The headline on the front page of the Daily Express reads: 'Cot Cams After "complete failure to protect babies".'](https://ichef.bbci.co.uk/ace/standard/802/cpsprodpb/3162/live/fb5d0340-b146-11f1-a430-4d16ee157c41.jpg)

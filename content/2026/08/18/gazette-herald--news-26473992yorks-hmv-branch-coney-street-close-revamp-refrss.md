@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: York’s HMV store is to close on August 31, but store bosses say it will
   return with a new look in October.
 image: https://www.gazetteherald.co.uk/resources/images/21334999.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
+- Business & Entrepreneurship
 ---
 
 York’s HMV store is to close later this month, but store bosses say it will return with a new look in October.

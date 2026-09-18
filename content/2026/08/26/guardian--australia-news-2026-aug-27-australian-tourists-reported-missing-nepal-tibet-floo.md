@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Powerful floods in Himalayan border area sweep away houses, roads and
   bridges
 image: https://i.guim.co.uk/img/media/6f41c925f4ab18532bfcc381a6019932825b4572/1719_672_3179_2544/master/3179.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e62dd580c45d3ad5d76876f8dfa8817
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Dozens of Australian tourists are reportedly missing in the deadly flash floods that swept through the Nepal-Tibet border, as the Australian government says it is urgently working to confirm their welfare.

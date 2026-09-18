@@ -9,6 +9,9 @@ published: '2026-08-22T00:00:00Z'
 description: The Labour grandee and former foreign secretary was arrested on suspicion
   of misconduct in public office in February
 image: https://static.independent.co.uk/2026/06/01/16/01155539-c6e5651f-2833-43c2-a181-e3f5a6c2ca7c.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Fears are growing for the police investigation into whether Lord Peter Mandelson shared confidential information with paedophile billionaire Jeffrey Epstein.

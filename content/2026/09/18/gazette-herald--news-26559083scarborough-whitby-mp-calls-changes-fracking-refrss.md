@@ -7,6 +7,11 @@ scraped_at: '2026-09-18T13:00:03Z'
 published: '2026-09-18T00:00:00Z'
 description: AN MP is pressing for changes to energy legislation.
 image: https://www.gazetteherald.co.uk/resources/images/18536507.jpg?type=og-image&xType=0&yType=63
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Supplied)*

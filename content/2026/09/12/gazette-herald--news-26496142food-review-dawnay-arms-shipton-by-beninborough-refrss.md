@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: It’s a tough old world in hospitality but the Dawnay Arms deserves to
   succeed.
 image: https://www.gazetteherald.co.uk/resources/images/21372643.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 We are very fortunate to have so many wonderful venues to drink and dine in, where operators do their best, producing top notch food and service at a good price.

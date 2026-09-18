@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: The round, led by Prysm Capital, will fund the company's expansion beyond
   pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.
 image: https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Also has raised another $150 million as the micromobility startup that spun out of Rivian last year expands its business beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.

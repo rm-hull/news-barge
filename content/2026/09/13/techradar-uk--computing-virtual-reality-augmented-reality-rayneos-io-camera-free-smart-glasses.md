@@ -9,6 +9,8 @@ published: '2026-09-13T00:00:00Z'
 description: RayNeo IO are smart glasses boast an AI agnostic version of Siri Recap,
   but I’m not sure if I love or hate it.
 image: https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![RayNeo IO at IFA 2026](https://cdn.mos.cms.futurecdn.net/86F8Q8gfLmDcm92sEfXrdZ.jpg) 

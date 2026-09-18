@@ -8,6 +8,8 @@ published: '2026-09-15T00:00:00Z'
 description: Microsoft dresses up expensive hardware requirements as a thoughtful
   gift to software developers everywhere
 image: https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Windows 11](https://cdn.mos.cms.futurecdn.net/zeKbmPE8YTXp5kVggVjN7g.jpg) 

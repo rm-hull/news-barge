@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T19:16:55Z'
 published: '2026-09-03T00:00:00Z'
 description: Microsoft is warning about an ongoing scam campaign
 image: https://cdn.mos.cms.futurecdn.net/D4YBMfcEsNT7BhaNJJgm2A-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Collaboration in an office.](https://cdn.mos.cms.futurecdn.net/D4YBMfcEsNT7BhaNJJgm2A.jpg) 

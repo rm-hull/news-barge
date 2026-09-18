@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Tourism bosses have warned that the tax hike would have a ‘catastrophic
   knock-on effect’ on the local economy
 image: https://static.independent.co.uk/2026/09/18/15/05/unnamed-(1).jpg?trim=554,0,1269,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Holiday cottage owners have warned that they may be forced to close their businesses if proposed tax hikes on holiday lets go ahead.

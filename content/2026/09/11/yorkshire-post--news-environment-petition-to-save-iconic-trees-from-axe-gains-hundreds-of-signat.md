@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Residents are fighting to save 24 mature trees which they fear could
   be felled in Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYyY2Y1YjkzLWI3NDgtNGY4My04OGZkLWQwZDQ0YTczNjczYTpiNGU1YmY0NC04NTM2LTQ2ZDMtYWYwMC1jNzdjNDI3ODVmYTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Petition to save ‘iconic’ trees from axe gains hundreds of signatures

@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T13:10:15Z'
 published: '2026-08-19T00:00:00Z'
 description: Health authorities warned the number of cases is expected to climb
 image: https://static.independent.co.uk/2026/08/19/10/2291058937..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A Salmonella outbreak at a Belgian poultry farm has left at least 300 people sick and triggered mass egg recalls across nine countries, officials have said.

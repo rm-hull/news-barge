@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Nato’s Mark Rutte says ‘Russia has grown increasingly reckless’ as EU
   ministers meet to consider their response to drone attack last month
 image: https://i.guim.co.uk/img/media/39b009bb00a81a03ec0a41fc5abe236eca0fc968/158_0_1531_1225/master/1531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1cd4731d6143618a7cfea581c044ffc0
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A police officer in protective clothing walks next to an explosive-disarming robot at Leipzig airport in Schkeuditz, Germany, 5 August, 2026. Photograph: Axel Schmidt/Reuters

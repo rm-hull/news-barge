@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A WAVE of public support has helped Ilkley restaurant Forde secure permission
   to keep its controversial outdoor seating area.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382174.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Forde)*

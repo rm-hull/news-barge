@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T08:56:45Z'
 published: '2026-08-26T00:00:00Z'
 description: Former England player is due to appear in court in September
 image: https://static.independent.co.uk/2026/05/30/14/5e2c831f0fd41ec809e73f0b58d585aeY29udGVudHNlYXJjaGFwaSwxNzgwMjMxMjYz-2.83238946.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Footballer Raheem Sterling has been charged with dangerous driving and possession of laughing gas after a car crash.

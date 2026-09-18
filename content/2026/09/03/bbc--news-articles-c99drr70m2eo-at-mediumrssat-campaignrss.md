@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The things you're doing to make your sleep better could actually be making
   your sleep worse.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df02/live/2518d250-a6d3-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![An illustration of a man asleep, with a concerned look on his face, wearing a smart watch with four coloured streaks on the screen; the colours seem to be reflecting onto the wall and the man's face and body as he tries to sleep.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/df02/live/2518d250-a6d3-11f1-aed2-8d6da8d75094.png)

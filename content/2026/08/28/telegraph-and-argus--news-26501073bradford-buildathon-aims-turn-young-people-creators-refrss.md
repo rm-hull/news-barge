@@ -8,6 +8,13 @@ published: '2026-08-28T00:00:00Z'
 description: YOUNG people are being given the tools to become tech creators, not just
   consumers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21379652.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
+- Creator Economy & Marketing
 ---
 
 *(Image: Supplied)*

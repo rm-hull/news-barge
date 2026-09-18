@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A man charged with multiple historic child sex offences dating back to
   the 1980s has died after being taken ill in prison.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19601823.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Paul Barker/PA Wire)*

@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: The Grangetown house fire which claimed the lives of a child and her
   aunt are not being linked to the fatal A66 crash which killed seven people,…
 image: https://www.thenorthernecho.co.uk/resources/images/21386306.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: CLEVELAND POLICE)*

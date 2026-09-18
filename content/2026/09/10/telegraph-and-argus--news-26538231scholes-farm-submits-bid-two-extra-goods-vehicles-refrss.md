@@ -7,6 +7,12 @@ scraped_at: '2026-09-10T12:54:11Z'
 published: '2026-09-10T00:00:00Z'
 description: A FARM plans to add two more vehicles to its fleet
 image: https://www.thetelegraphandargus.co.uk/resources/images/18500950.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: Newsquest)*

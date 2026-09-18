@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Emily Shulman has applied to over 100 jobs – still she and her university
   friends are struggling to find jobs in UK’s tough jobs market
 image: https://static.independent.co.uk/2026/09/10/10/02/IMG_7908.jpeg?trim=0,27,0,26&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 On paper, it should have straight forward for Emily Shulman to secure a job upon graduating from her journalism master’s degree at Goldsmiths University in London.

@@ -10,6 +10,10 @@ description: Three former organizers of Hong Kong’s annual vigils in remembran
   the 1989 Tiananmen Square crackdown are set to be sentenced Friday for their convictions
   of inciting subversion under a Beijing-imposed national security law
 image: https://static.independent.co.uk/2026/08/28/07/Hong_Kong_Tiananmen_Trial_28438.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Hong Kong court is set to sentence Friday three activists who for years organized vigils in remembrance of China's 1989 Tiananmen Square crackdown, in a case that is widely seen as a barometer of the city's freedoms as Beijing clamps down on dissent.

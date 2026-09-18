@@ -9,6 +9,11 @@ description: Concerns that walkers on the Coast to Coast National Trail are putt
   themselves at risk by attempting to cross the A19 on foot are set to be raised with
   the mayor of York and North Yorkshire.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQxNDIwZWYzLTU5OWItNGRkMS1hMDNlLWFmNDZmMTE3YTBkZTo1MDU1NzBmZS05YmUyLTQ1NTMtOTBiZi1hYmFhYzZmMDdkMmY=.jpg?crop=3:2,smart&trim=&width=993&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Coast to Coast: Walkers sitting on A19 central reservation a “regular occurrence”

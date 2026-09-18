@@ -8,6 +8,12 @@ published: '2026-09-18T00:00:00Z'
 description: Two more people have been arrested as detectives continue an investigation
   into potential explosive substances discovered at a property in Sheffield.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/15/29/Dozens-of-homes-evacuated.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- Science
 ---
 
 # Two more arrested in High Green explosives investigation as chemicals and weapons recovered

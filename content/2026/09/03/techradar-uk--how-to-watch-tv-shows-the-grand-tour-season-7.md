@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: James Engelsman, Thomas Holland and Francis Bourgeois take over from
   Jeremy Clarkson & Co.
 image: https://cdn.mos.cms.futurecdn.net/VrZfTB5eYPcNFczeMr7TYh-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
+- Travel
 ---
 
 ![New presenters of The Grand Tour, James Engelsman, Thomas Holland and Francis Bourgeois](https://cdn.mos.cms.futurecdn.net/VrZfTB5eYPcNFczeMr7TYh.jpg) 

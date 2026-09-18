@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: China created its own dedicated military space unit in 2024, assigning
   it to enhance its capability to handle conflicts in space
 image: https://static.independent.co.uk/2026/07/14/13/22/iStock-2225408464.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 American troops must ready themselves for combat not only in Earth's orbit but in the region surrounding the moon, according to President Donald Trump’s top military adviser on Wednesday, following the first public revelation that the U.S. has deployed weapons in space.

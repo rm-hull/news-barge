@@ -10,6 +10,10 @@ description: Video. Israeli strikes killed at least four people in Gaza, hitting
   tent shelter and worsening conditions in overcrowded camps plagued by pests and
   poor sanitation.
 image: https://images.euronews.com/articles/stories/09/89/30/60/1200x675_cmsv2_ba3d2b64-dd2d-5b3d-9696-4db348c9bbb5-9893060.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 At least four people were killed in Israeli strikes across the Gaza Strip on Thursday, according to local health officials. Three men died in separate strikes in Gaza City, with their bodies taken to Shifa Hospital, while another person was killed when a tent sheltering displaced Palestinians was hit in southern Gaza. Several others were injured. Israel’s military said the strikes targeted Hamas militants.

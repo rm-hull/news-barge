@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Ehud Olmert criticises Israeli government after it reacted furiously
   and shut down the UK consulate in East Jerusalem
 image: https://static.independent.co.uk/2026/09/10/17/2238712424..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Former Israeli prime minister Ehud Olmert and ex-IDF chief of staff Dan Halutz have backed the UK government’s decision to ban imports from Israeli settlements in the West Bank.

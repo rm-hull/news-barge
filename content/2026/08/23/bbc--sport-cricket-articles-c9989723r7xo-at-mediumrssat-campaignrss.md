@@ -9,6 +9,10 @@ description: Mitchell Starc takes 10 wickets in the match as Australia bounce ba
   to win the second Test against Bangladesh by an innings and 51 runs and draw the
   series.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b89/live/6893c460-9ec0-11f1-8d1c-03afa0025cd9.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Australia cricketer Mitchell Starc celebrates his 10th wicket in the match by holding the ball up](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9b89/live/6893c460-9ec0-11f1-8d1c-03afa0025cd9.jpg)

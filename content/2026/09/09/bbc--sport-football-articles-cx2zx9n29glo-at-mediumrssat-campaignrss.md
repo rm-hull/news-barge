@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Chelsea get the better of Leeds in a cup thriller, but Blues boss Xabi
   Alonso has food for thought after needing rescue act from his star substitutes.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc17/live/1cd9d5b0-aca7-11f1-95ee-397da2afd75c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Xabi Alonso celebrates after Chelsea's win over Leeds United, raising his left arm in a satisfied salute](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/dc17/live/1cd9d5b0-aca7-11f1-95ee-397da2afd75c.jpg)

@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Rishi Sunak visited The Vehicle Group in Colburn, North Yorkshire, to
   see how the British manufacturer, led by Martin Perks, is developing…
 image: https://www.thenorthernecho.co.uk/resources/images/21461619.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

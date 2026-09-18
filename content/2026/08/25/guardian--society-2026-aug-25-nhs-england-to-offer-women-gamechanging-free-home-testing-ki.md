@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: NHS has target of eliminating the cancer by 2040, but up to 4 million
   eligible women are not up to date with screening
 image: https://i.guim.co.uk/img/media/5c942b75819b1fa787e8a9858e921ddb663b3c58/375_0_3774_3020/master/3774.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f2449fd303c2c7cff886416fa138b75
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Millions of women in England who have missed cervical screening appointments will be offered free home testing kits on the NHS.

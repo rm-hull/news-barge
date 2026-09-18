@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T04:47:57Z'
 published: '2026-08-18T00:00:00Z'
 description: York-based Benenden Health has raised £18,741 for Macmillan Cancer Support.
 image: https://www.yorkpress.co.uk/resources/images/18136564.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

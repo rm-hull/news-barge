@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: The prime minister said anyone convicted of unlawful killing would be
   excluded from the early release scheme
 image: https://static.independent.co.uk/2026/08/26/21/686c8bacd345648909648bb2a7413d83Y29udGVudHNlYXJjaGFwaSwxNzg3ODYwNzgz-2.54995973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 PC Andrew Harper’s killers will remain in prison after the prime minister announced changes to the early release scheme that will keep anyone convicted of unlawful killing behind bars.

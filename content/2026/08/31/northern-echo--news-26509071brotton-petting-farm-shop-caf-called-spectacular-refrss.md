@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Councillors say a new petting farm, shop and café that has opened its
   doors in East Cleveland is “spectacular for our community”.
 image: https://www.thenorthernecho.co.uk/resources/images/21392275.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Councillors say a new petting farm, shop and café that has opened its doors in East Cleveland is “spectacular for our community”.

@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: The Boox Palma 3 includes stylus support and Android 16, but it's also
   heavier than its predecessor.
 image: https://cdn.mos.cms.futurecdn.net/ByMNXUNqG5aCx3Pbh9eGV-1480-80.jpg
+categories:
+- Technology & Software
+- Travel
 ---
 
 ![The Boox Palma 3](https://cdn.mos.cms.futurecdn.net/ByMNXUNqG5aCx3Pbh9eGV.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: Yorkshire might be synonymous with moorland scenery, but it’s also blessed
   with a 152km coastline.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc4YTU4M2NmLTBjMTAtNDY1Yi04NTliLTFkMjNmYjg0NzM4ZDplNzk0YWYwMy0yYzEyLTRlYmYtYjZkYy0yOWY2YmJkMDRiNzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Where to spot whales in Yorkshire: The best places on 152km coastline to spot during prime time

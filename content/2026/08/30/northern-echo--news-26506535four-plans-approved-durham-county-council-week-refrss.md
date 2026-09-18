@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Durham County Council decided a number of planning applications this
   week. Here are four that were waved through.
 image: https://www.thenorthernecho.co.uk/resources/images/21364866.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: THE NORTHERN ECHO)*

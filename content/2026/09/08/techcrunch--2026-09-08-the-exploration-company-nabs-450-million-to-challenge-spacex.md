@@ -9,6 +9,9 @@ description: The Exploration Company (TEC) has raised $450 million to build reus
   spacecraft, in what it describes as “the largest-ever Series C by a European space
   company.”
 image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The queue to send objects into orbit is growing, but space infrastructure isn’t keeping up with demand. As the realization sinks in that Elon Musk’s SpaceX can’t be the sole answer, other companies are raising their hand — and money.

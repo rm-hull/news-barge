@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Protests and petitions planned amid growing concerns over impact of climate
   crisis on numbers of Alpine rodent
 image: https://i.guim.co.uk/img/media/43e737003f7e942a3ccf0eb5491403d27706aae9/1256_343_3349_2679/master/3349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c38c5708936a5df2138ed600bf49d14
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Animal rights campaigners are gearing up for protests and petitions aimed at persuading the French government to ban the hunting of Alpine marmots.

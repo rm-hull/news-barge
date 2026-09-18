@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: An MP has praised residents who rallied around to support each other
   after an explosion in Fulford, York, which left a man seriously injured and…
 image: https://www.gazetteherald.co.uk/resources/images/21375974.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: Newsquest)*

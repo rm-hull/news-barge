@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:38Z'
 published: '2026-09-11T00:00:00Z'
 description: Switch or stick – are you missing out on easy money?
 image: https://static.independent.co.uk/2024/01/19/07/MONEY%20Credit%20%2007001201.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Remaining with the high-street institution your parents used, or the provider that handed you a student loan for takeaway kebabs, could be needlessly costing you money.

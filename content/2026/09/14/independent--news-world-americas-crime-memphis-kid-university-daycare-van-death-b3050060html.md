@@ -10,6 +10,9 @@ description: State investigators say that Kid University staff failed to complet
   required vehicle inspections, omitted accurate transportation logs and skipped mandatory
   van walk-throughs
 image: https://static.the-independent.com/2026/09/14/18/56/Cordova-daycare-mugs.png?trim=0,148,0,148&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Three employees of a childcare center in Memphis, Tennessee, are facing felony charges following the death of a six-year-old girl left inside a van in triple-digit heat.

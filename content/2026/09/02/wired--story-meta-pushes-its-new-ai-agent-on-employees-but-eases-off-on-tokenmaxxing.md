@@ -9,6 +9,10 @@ description: The company is reducing pressure on workers to use artificial intel
   tools while encouraging them to experiment with Hatch, its most advanced AI project
   yet.
 image: https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/191:100/w_1280,c_limit/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Meta is formally ending what amounted to a tokenmaxxing incentive program for employees. In an internal announcement this week, the social media giant told workers that their performance evaluations would no longer be dependent upon how much they used AI tools, three employees who received the message tell WIRED. But as Meta workers simultaneously begin testing a new agentic AI tool known as Hatch, they say their token consumption continues to surge.

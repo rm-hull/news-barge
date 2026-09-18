@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Local vet launches a pet healthcare plan with unlimited vet visits and
   no exclusions for long-term health conditions
 image: https://www.gazetteherald.co.uk/resources/images/21313885.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Pets & Animals
 ---
 
 *(Image: Nico Russell)*

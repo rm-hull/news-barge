@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Greggs has opened its new shop in Northallerton, creating 16 new jobs
   for the North Yorkshire town.
 image: https://www.thenorthernecho.co.uk/resources/images/20826833.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: GREGGS)*

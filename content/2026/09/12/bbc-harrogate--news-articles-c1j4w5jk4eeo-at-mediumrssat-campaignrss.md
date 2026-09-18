@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: A group of Brownies and Guides launch a campaign to stop litter on the
   Yorkshire Three Peaks route.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0589/live/35189370-aa98-11f1-a291-b542ee92de7c.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![A group of seven girls, mostly wearing Brownie or Guide uniform, holding litter pickers and bin bags. They are standing on a path near the Ribblehead Viaduct, smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/0589/live/35189370-aa98-11f1-a291-b542ee92de7c.jpg)

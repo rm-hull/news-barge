@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: The former world champion was found guilty of lewd and libidinous behaviour
   towards a girl and boy.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b534/live/65133f90-9fc5-11f1-b3e7-331c6d9a8046.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Family & Parenting
 ---
 
 ![Graeme Dott arriving at the High Court in Glasgow. He is wearing a dark suit over a pink shirt witha pink tie.](https://ichef.bbci.co.uk/ace/standard/1040/cpsprodpb/b534/live/65133f90-9fc5-11f1-b3e7-331c6d9a8046.jpg)

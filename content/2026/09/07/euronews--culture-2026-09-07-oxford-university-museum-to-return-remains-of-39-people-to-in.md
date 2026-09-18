@@ -9,6 +9,10 @@ description: The Pitt Rivers Museum said it has been "working closely" with the 
   people on finding a date for a handover ceremony, after which a Naga delegation
   is set to accompany the remains home.
 image: https://images.euronews.com/articles/stories/09/90/44/39/1200x675_cmsv2_a7b5ba45-8868-56ff-adfb-4596f1f36274-9904439.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 ## The Pitt Rivers Museum said it has been "working closely" with the Naga people on finding a date for a handover ceremony, after which a Naga delegation is set to accompany the remains home.

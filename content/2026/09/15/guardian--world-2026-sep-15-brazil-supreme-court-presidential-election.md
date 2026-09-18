@@ -9,6 +9,9 @@ published: '2026-09-15T00:00:00Z'
 description: Scandal explodes as country’s election campaign peaks, with polls suggesting
   dead heat between candidates
 image: https://i.guim.co.uk/img/media/38e258c3407870ebaabb9ea23a7e206a4990bb75/0_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7401b973ab7f52c3f079576e9ee47207
+categories:
+- UK
+- News & Politics
 ---
 
 Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.

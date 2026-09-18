@@ -8,6 +8,8 @@ published: '2026-08-18T00:00:00Z'
 description: Britain’s infrastructure needs shared intelligence, validated risks and
   coordinated resilience
 image: https://cdn.mos.cms.futurecdn.net/5RYCUPY3MrRkUECQECzDC-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Trojan horse on top of blocks of hexadecimal programming codes. 3D illustration of the concept of online hacking, computer spyware, malware and ransomware.](https://cdn.mos.cms.futurecdn.net/5RYCUPY3MrRkUECQECzDC.jpg) 

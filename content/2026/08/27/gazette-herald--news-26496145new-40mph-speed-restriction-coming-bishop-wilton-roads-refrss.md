@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A temporary 40mph speed limit will be enforced for roadworks in Bishop
   Wilton.
 image: https://www.gazetteherald.co.uk/resources/images/20559035.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Getty Images/iStockphoto)*

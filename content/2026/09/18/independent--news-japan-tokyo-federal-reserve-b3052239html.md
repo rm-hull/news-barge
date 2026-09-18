@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Japan’s central bank has raised the benchmark interest rate to 1.25%
   from 1.0%, a 31-year-high
 image: https://static.independent.co.uk/2026/09/18/04/Japan_Politics_8133_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Japan’s central bank on Friday raised the benchmark interest rate to 1.25% from 1.0%, a 31-year-high. 

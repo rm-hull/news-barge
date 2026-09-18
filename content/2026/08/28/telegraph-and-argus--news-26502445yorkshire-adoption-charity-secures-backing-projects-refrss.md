@@ -9,6 +9,12 @@ published: '2026-08-28T00:00:00Z'
 description: NEW funding will help deliver fresh support for adopted children and
   their families.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21380729.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 *(Image: Supplied)*

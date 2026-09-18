@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: More than one in five GCSE entries across the UK have achieved a top
   grade.
 image: https://www.gazetteherald.co.uk/resources/images/21345509.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Provided)*

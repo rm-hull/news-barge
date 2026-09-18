@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: Fast-growing North East firms could benefit from a new £150 million fund
   to help them expand.
 image: https://www.thenorthernecho.co.uk/resources/images/21421136.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Betty Laura Zapata)*

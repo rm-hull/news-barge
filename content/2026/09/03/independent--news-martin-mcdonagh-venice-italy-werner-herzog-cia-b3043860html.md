@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Venice Film Festival is showcasing the world premieres of “Wild Horse
   Nine” and Werner Herzog’s “Bucking Fastard” Thursday
 image: https://static.independent.co.uk/2026/09/03/05/Venice_Film_Festival-Preview_29728.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Comedy & Entertainment
 ---
 
 The Venice Film Festival is in full swing with the world premieres of the dark CIA comedy “Wild Horse Nine” and Werner Herzog’s “Bucking Fastard” Thursday evening on the Lido.

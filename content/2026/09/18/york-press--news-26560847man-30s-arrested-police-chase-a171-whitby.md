@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A man in his 30s has been arrested after a police chase on the A171 to
   Whitby.
 image: https://www.yorkpress.co.uk/resources/images/21470949.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 **UPDATE: The man has since been charged and has been remanded in custody. He will appear before court on Friday (September 18).**

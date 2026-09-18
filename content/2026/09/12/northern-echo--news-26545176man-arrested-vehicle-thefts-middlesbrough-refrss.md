@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A 35-year-old man has been arrested over a spate of thefts from vehicles
   as police try to trace the owners.
 image: https://www.thenorthernecho.co.uk/resources/images/21445702.jpg?type=og-image&xType=0&yType=119
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: CLEVELAND POLICE)*

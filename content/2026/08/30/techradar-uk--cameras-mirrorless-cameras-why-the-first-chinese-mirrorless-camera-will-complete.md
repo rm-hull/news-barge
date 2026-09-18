@@ -9,6 +9,8 @@ published: '2026-08-30T00:00:00Z'
 description: Is the mirrorless camera market about to see a big shake-up driven by
   new players in China?
 image: https://cdn.mos.cms.futurecdn.net/iUwzMGgbSoKtqBVknakHqd-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Insta360 Ace Pro 2 action camera housed inside grip accessory, in user's hand](https://cdn.mos.cms.futurecdn.net/iUwzMGgbSoKtqBVknakHqd.jpg) 

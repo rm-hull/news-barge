@@ -9,6 +9,9 @@ published: '2026-08-24T00:00:00Z'
 description: The VPN provider found that one fake app install can give criminals full
   remote access to your phone
 image: https://cdn.mos.cms.futurecdn.net/VX6FoHeTsueFCVN6BdgJA3-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Person using a phone, holding their credit card and looking puzzled over whether something might be a scam](https://cdn.mos.cms.futurecdn.net/VX6FoHeTsueFCVN6BdgJA3.jpg) 

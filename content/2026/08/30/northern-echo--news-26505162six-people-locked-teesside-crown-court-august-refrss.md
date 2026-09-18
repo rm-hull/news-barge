@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: A machete teen, killer and drug dealer caught via a police drone are
   among those locked up in August at Teesside Crown Court.
 image: https://www.thenorthernecho.co.uk/resources/images/21386303.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A machete teen, killer and drug dealer caught via a police drone are among those locked up in August.

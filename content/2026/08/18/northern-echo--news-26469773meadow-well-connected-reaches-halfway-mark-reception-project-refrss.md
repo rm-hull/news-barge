@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Meadow Well Connected in North Tyneside has reached the halfway point
   of its £12,000 fundraising campaign to improve accessibility at its community…
 image: https://www.thenorthernecho.co.uk/resources/images/21328444.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

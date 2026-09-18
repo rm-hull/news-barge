@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A French couple - both conceived by sperm donors - wanted children. But
   with home DNA tests illegal, how could they be sure they were not related?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/85fe/live/2e95f2d0-8438-11f1-9435-a164a693a39f.png
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Science
 ---
 
 ![A close-up photograph shows a man and a woman - both with brown hair - posing together outdoors and looking toward the camera. The man wears a white hat. The backdrop is a city street with a building façade, outdoor seating and an orange scooter visible in the background.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/85fe/live/2e95f2d0-8438-11f1-9435-a164a693a39f.png)

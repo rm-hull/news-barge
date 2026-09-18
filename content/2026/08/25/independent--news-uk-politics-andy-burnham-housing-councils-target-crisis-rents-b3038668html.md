@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: ‘Councils built this country out of a housing crisis once before,’ the
   prime minister said
 image: https://static.independent.co.uk/2026/08/06/08/3cc3690e958ab1079faddc77776e2914Y29udGVudHNlYXJjaGFwaSwxNzg2MDg1NTY3-2.85134707.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Andy Burnham has pledged a £10bn package to build tens of thousands of homes, marking the first indication of how the new prime minister plans to grapple with Britain’s housing crisis.

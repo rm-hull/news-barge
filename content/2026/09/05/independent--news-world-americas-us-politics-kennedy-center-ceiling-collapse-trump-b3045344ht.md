@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: '‘President Trump has been right: America’s cultural center needs to
   close, renovate, and be restored—now,’ the Kennedy Center said in a statement'
 image: https://static.independent.co.uk/2026/09/05/19/21/HRdgSCwbkAArAq2.jpeg?trim=73,0,97,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A piece of the Kennedy Center’s ceiling collapsed, sparking renewed calls to allow President Donald Trump’s renovations at the historic performing arts center to go forward.

@@ -9,6 +9,11 @@ description: A warm reception has greeted the re-working of a much-loved park to
   defend properties against flooding while boosting wildlife – as scheme partners
   also have an eye on the heat.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwOGNhMGIwLTAxN2QtNGIzNS04YWE5LTZiNjc1ZjUxOTY5ZDphODJiMzE3NS05MzY5LTRiNDItODAxOS0wZDU1YjM1ODBjNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
 ---
 
 # Wellholme Park, Brighouse: Much-loved Yorkshire park reopened after three-year flooding alleviation work

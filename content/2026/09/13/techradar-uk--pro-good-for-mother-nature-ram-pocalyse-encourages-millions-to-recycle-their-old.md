@@ -8,6 +8,8 @@ published: '2026-09-13T00:00:00Z'
 description: Your old phone could be worth more now as rising memory prices transform
   the market for damaged devices
 image: https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Smartphones](https://cdn.mos.cms.futurecdn.net/4jiRxTMTQK7HQQExXmQmnG.jpg) 

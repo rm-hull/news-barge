@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The funeral of one of five young men killed in the crash with a police
   car is due to take place.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Automotive
 ---
 
 ![Five young men in their late teens and early 20s. They all have similar haircuts, with a fringe and faded back and sides. Four of them are gesturing with their fingers. Three of them extend their thumb, index, and pinky fingers - leaving their middle and ring finger tucked down. One points with his index and middle finger whilst holding a Lucozade bottle. They are all dressed in casual clothing.](https://ichef.bbci.co.uk/ace/standard/956/cpsprodpb/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: They work better than patches, gum or pills, the most up-to-date evidence
   suggests.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55d4/live/9aa98d10-a08a-11f1-8116-c5aabe4388a9.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Two young men sit outside vaping. They are chatting, while looking at a mobile phone.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/55d4/live/9aa98d10-a08a-11f1-8116-c5aabe4388a9.jpg)

@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: The move drew a swift reaction from the state’s Democratic governor,
   Michelle Lujan Grisham
 image: https://static.independent.co.uk/2026/09/07/13/4be56b8d8c1499b21d168c6a68986a95Y29udGVudHNlYXJjaGFwaSwxNzg4ODY5MDkw-2.84973846.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Top officials in New Mexico are blasting President Donald Trump’s pitch for renaming the 47th state “New America” after he floated the bizarre idea in a wave of social media posts over the weekend.

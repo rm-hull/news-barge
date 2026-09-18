@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A group of talented Harrogate students are to star in the world famous
   Edinburgh Fringe for the first time in the school’s history.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjlhMzQ1MmZkLWIzMjMtNDhhZS1hYjdjLTk5MmIwYzFhYjJiZToxMDQ3M2RkMy00NjE0LTQzZGItYmEwNy00ZTI2ZDQ2NGUwMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
+- Arts & Culture
 ---
 
 # Harrogate pupils will take centre stage at Edinburgh Fringe as they debut with home-grown rock musical

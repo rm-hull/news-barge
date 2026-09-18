@@ -10,6 +10,10 @@ description: Hull City forward Oli McBurnie is called up to the Scotland squad f
   the first time in five years while seven uncapped make new head coach Sebastien
   Pocognoli's first selection.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9f9/live/e9030720-b0f2-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Hull City forward Oli McBurnie](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/d9f9/live/e9030720-b0f2-11f1-b1d1-571ed4d7ff2c.jpg)

@@ -7,6 +7,10 @@ scraped_at: '2026-09-02T19:22:19Z'
 published: '2026-09-02T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/radley-london-web.webp
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 A York store has shut after its parent company went into administration.

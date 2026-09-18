@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: A headteacher in the occupied West Bank has installed new barbed wire
   fencing after three pupils were killed this year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ded/live/26dbafb0-aaff-11f1-a2a8-b5ca0233056a.jpg
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Fears for children's safety in West Bank school as settler attacks rise

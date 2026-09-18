@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T19:17:17Z'
 published: '2026-09-03T00:00:00Z'
 description: ‘I was sure I was going to die,’ Jadon Nicoara says
 image: https://static.independent.co.uk/2026/09/03/17/17/Screenshot-2026-09-03-at-18-20-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 A hunter from Washington nearly found himself on the wrong end of the food chain when he was mauled by a bear in Alaska and narrowly survived the ordeal.

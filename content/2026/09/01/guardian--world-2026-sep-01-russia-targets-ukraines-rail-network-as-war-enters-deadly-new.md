@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Six employees killed on Tuesday after Moscow escalates attacks on infrastructure
   and Ukrainian capital
 image: https://i.guim.co.uk/img/media/091ccb31d63cd85e337f1aaf70d104f5e9402cb8/120_0_7443_5954/master/7443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb2780daa85f24a9d15443dad181ad2e
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Russia has opened a deadly new phase in its war against Ukraine by deliberately targeting the country’s railway network, with six employees killed on Tuesday in the latest strikes on Kyiv.

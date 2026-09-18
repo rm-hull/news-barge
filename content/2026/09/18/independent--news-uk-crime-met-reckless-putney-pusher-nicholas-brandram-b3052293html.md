@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Nicholas Brandram’s sisters say he was ‘failed’ by the system and called
   the Met Police ‘reckless’
 image: https://static.independent.co.uk/2026/09/17/13/4cbc230f0fdfe7ce9a93f43ff12527f2Y29udGVudHNlYXJjaGFwaSwxNzg5NzMzMzAz-2.85883603.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Science
 ---
 
 The family of the “Putney pusher” suspect said he offered to pay for a private DNA test to try to clear his name, as they slammed the Metropolitan Police as “negligent” and “reckless” in its handling of his investigation before his death.

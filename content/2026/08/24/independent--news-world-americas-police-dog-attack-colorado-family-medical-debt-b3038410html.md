@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nick Dean, who jumped in to rip the K-9 off his daughter, has been left
   with chronic pain two years after the attack
 image: https://static.independent.co.uk/2026/08/24/16/54/Colorado-family-police-k-9-attack.webp?trim=76,0,23,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A Colorado family says a police K-9 who lived next door attacked their 2-year-old daughter, leaving her and her father with significant injuries and hundreds of thousands of dollars in medical debt.

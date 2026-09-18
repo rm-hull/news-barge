@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Police explain why drink driver Joseph Stott was not charged with causing
   Bailey Chadwick's death after running over him and leaving him…
 image: https://www.yorkpress.co.uk/resources/images/20348283.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

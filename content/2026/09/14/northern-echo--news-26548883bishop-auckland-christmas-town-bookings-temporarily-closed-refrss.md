@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Organisers have sparked questions about this year's Bishop Auckland Christmas
   Town event after closing bookings and taking every pass off sale.
 image: https://www.thenorthernecho.co.uk/resources/images/21453157.jpg?type=og-image&xType=0&yType=59
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: STUART BOULTON)*

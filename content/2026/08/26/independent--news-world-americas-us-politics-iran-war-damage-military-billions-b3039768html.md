@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: CIA outposts in Saudi Arabia and Iraq have reportedly been struck by
   Iranian drones
 image: https://static.independent.co.uk/2026/08/26/15/10/HNNrsgKXIAE67RP.jpeg?trim=0,35,0,61&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran has caused “billions” of dollars in damage to U.S. intelligence infrastructure, according to a new report, which comes as the war continues to drag on with no clear end in sight.

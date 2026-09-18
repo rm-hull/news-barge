@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T19:17:45Z'
 published: '2026-09-03T00:00:00Z'
 description: 28-core SKU comes first.
 image: https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![13th Gen Raptor Lake CPU](https://cdn.mos.cms.futurecdn.net/sQkjcrWci3QikXR5qNxa4d.jpg) 

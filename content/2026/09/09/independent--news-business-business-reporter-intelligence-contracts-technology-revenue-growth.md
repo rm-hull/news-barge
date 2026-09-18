@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH
   TAKES SOLE RESPONSIBILITY FOR THE CONTENTS
 image: https://static.independent.co.uk/2026/09/04/10/05/AdobeStock-672972703.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 *Summize is a Business Reporter client*

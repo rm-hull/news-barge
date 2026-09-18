@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: As back-to-school shopping gets underway, experts warn that overloaded
   backpacks can strain children's bodies.
 image: https://images.euronews.com/articles/stories/09/89/27/97/1200x675_cmsv2_e89b614b-1edc-538b-acd9-2276f68d24f1-9892797.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## As back-to-school shopping gets underway, experts warn that overloaded backpacks can strain children's bodies.

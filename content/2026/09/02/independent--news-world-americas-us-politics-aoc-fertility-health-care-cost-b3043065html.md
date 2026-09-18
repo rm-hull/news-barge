@@ -9,6 +9,10 @@ description: Ocasio-Cortez signed on to two major pieces of legislation to make 
   treatments affordable through health savings accounts and count them as essential
   health benefits
 image: https://static.independent.co.uk/2026/09/01/21/2026-09-01T200231Z_1026682876_RC2IANA9JO2Q_RTRMADP_3_USA-CONGRESS-SHUTDOWN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 After chronicling the process for freezing her eggs, Rep. Alexandria Ocasio-Cortez is joining an effort to make fertility and family planning treatments far more affordable.

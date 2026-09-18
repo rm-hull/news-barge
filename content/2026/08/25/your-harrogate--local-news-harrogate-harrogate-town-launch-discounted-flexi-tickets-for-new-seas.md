@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate Town have launched five and ten-game Flexi Tickets for the
   2026/27 season.
 image: https://mmo.aiircdn.com/409/689ae3e0640a0.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![](https://mmo.aiircdn.com/409/689ae3e0640a0.jpg) 

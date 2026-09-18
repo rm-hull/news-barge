@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Rates were hiked in a unanimous decision despite fierce opposition from
   President Donald Trump, who had called for a cut.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Federal Reserve chair says rate increase decision was "responsible"

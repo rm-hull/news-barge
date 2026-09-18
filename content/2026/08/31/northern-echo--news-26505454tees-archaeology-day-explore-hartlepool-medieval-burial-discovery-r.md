@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Tees Archaeology Day at Stockton Central Library on October 3 will examine
   research into northern England’s early medieval past, including the…
 image: https://www.thenorthernecho.co.uk/resources/images/21386328.jpg?type=og-image&xType=0&yType=274
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Hartlepool Borough Council)*

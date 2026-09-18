@@ -9,6 +9,10 @@ description: Eileen and Keen Umbehr's obsession with the prosecution of Dana Cha
   led them to spend more than 15 years trying to prove her innocence — an all-consuming
   odyssey that’s the subject of a new, three-part HBO docuseries
 image: https://static.independent.co.uk/2026/09/01/17/13/chandler-mike-karen-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Two married true-crime buffs from a tiny city in Kansas are so convinced that a woman they never knew is wrongly imprisoned for the 2002 slayings of her ex-husband and his girlfriend that they’ve devoted their lives to proving her innocence.

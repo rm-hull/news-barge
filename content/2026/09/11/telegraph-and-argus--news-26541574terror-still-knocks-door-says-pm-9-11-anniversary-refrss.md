@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: The Prime Minister said the UK and US “stand together in memory of those
   we lost, and in defence of the values we cherish”.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21438051.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- History
 ---
 
 *(Image: PA)*

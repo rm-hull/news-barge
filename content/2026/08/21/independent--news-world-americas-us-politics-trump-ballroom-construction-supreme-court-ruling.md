@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: Construction can continue on the president’s sprawling ‘military complex’
   and heavily fortified ballroom while a legal battle plays out
 image: https://static.independent.co.uk/2026/08/21/19/2026-08-21T180919Z_69077705_RC2FGHAXLR6T_RTRMADP_3_USA-COURT-TRUMP-BALLROOM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Supreme Court will let Donald Trump continue building his White House ballroom and “military complex” while a legal challenge against the East Wing’s demolition and sprawling construction project continues.

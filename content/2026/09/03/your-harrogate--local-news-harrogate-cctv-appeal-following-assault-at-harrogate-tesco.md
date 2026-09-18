@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Police have released a CCTV image of a person they would like to speak
   to following an alleged assault in Harrogate.
 image: https://mmo.aiircdn.com/409/6a991acebdd4331cb1a.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a991acebdd4331cb1a.jpg) 

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Oil consumption plummets and EV sales soar as analysts say demand may
   not fully return even if crude price falls
 image: https://i.guim.co.uk/img/media/6ea929b173a07426ae9cb8a54f972e2c163a3ac1/157_0_4945_3956/master/4945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=714eb393d139a0677e84f562128f0ffb
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to a sharp reduction in oil consumption and a steady rise in the use of electric vehicles and public transport, analysis shows.

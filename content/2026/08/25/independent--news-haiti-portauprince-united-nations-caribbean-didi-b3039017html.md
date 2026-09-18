@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: The United Nations says armed men have killed at least 47 people and
   kidnapped over 50 others near Haiti’s capital
 image: https://static.independent.co.uk/2026/08/25/16/APTOPIX_Haiti_Gang_Violence_71_57.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 At least 47 people were killed and more than 50 others kidnapped after armed men attacked a once-peaceful community near Haiti’s capital earlier this week, the United Nations said Tuesday.

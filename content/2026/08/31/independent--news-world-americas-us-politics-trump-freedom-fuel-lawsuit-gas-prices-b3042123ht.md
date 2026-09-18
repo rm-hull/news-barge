@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Company that supplied stations in the Freedom Fuel Network accused of
   not paying for $4 million worth of fuel. It denies any wrongdoing
 image: https://static.independent.co.uk/2026/08/31/12/01/Freedom-Fuel-Trump.png?trim=0,119,0,23&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 A gas station chain praised by Donald Trump for its below-market-rate prices allegedly sold fuel its supplier didn’t pay for, according to a new lawsuit.

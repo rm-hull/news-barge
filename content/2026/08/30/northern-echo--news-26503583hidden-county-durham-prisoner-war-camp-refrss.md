@@ -9,6 +9,12 @@ published: '2026-08-30T00:00:00Z'
 description: Hidden in the County Durham countryside near Fir Tree and Crook is one
   of Britain’s most remarkable surviving reminders of the Second World War.
 image: https://www.thenorthernecho.co.uk/resources/images/19405799.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 Hidden in the County Durham countryside near Fir Tree and Crook is one of Britain’s most remarkable surviving reminders of the Second World War: Harperley Prisoner of War Camp.

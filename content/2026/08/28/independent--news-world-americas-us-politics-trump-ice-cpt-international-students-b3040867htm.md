@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: President Donald Trump's administration has issued a memo for universities
   that seeks to restrict issuance of certain internship work
 image: https://static.independent.co.uk/2026/08/28/09/2026-08-27T221814Z_488232089_RC2A7NACUYQK_RTRMADP_3_USA-TRUMP.JPG?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Universities across the United States face heightened pressure as President Donald Trump's administration moves to restrict certain internship work approvals for foreign scholars, cautioning higher education institutions that non-compliance could cost them their eligibility to enroll international students.

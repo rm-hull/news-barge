@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Tourists on the Greek island of Crete got an unexpected, front-row view
   of Medusa 15, a major military exercise led by Greece and Egypt
 image: https://static.independent.co.uk/2026/09/18/14/Greece_Egypt_Military_4396_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Vacationers taking a morning dip or seeking shade on wooden sunbeds on the Greek island of Crete got a close-up view of a major military exercise unfolding in front of them Friday.

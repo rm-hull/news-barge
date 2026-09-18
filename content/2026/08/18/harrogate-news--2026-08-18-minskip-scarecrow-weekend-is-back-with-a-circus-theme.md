@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The village of Minskip, near Boroughbridge, is set to burst into a blaze
   of colour on the weekend of 5 and 6 September 2026 as its highly anticipated annual
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/hey-hey-minskip-scarecrow1.webp
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 The village of Minskip, near Boroughbridge, is set to burst into a blaze of colour on the weekend of 5 and 6 September 2026 as its highly anticipated annual Scarecrow Competition returns with a vibrant new theme: The Circus.

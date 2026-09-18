@@ -8,6 +8,12 @@ published: '2026-08-24T00:00:00Z'
 description: DPD has given advice to customers printing labels for its parcel service
   to ensure a successful delivery
 image: https://www.thetelegraphandargus.co.uk/resources/images/21360491.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

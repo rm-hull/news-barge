@@ -9,6 +9,11 @@ scraped_at: '2026-09-16T13:27:02Z'
 published: '2026-09-16T00:00:00Z'
 description: Behind, but at a fraction of the price
 image: https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Z.ai](https://cdn.mos.cms.futurecdn.net/QGnsfcy2NbHpJXXmvjHVJk.jpg) 

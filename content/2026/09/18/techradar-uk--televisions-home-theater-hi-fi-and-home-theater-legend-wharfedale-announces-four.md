@@ -10,6 +10,9 @@ published: '2026-09-18T00:00:00Z'
 description: Wharfedale have announced four new Nova subwoofers ranging from 8 inches
   to 15 inches in size.
 image: https://cdn.mos.cms.futurecdn.net/n6XEFFfhcuerQhqJSTK22F-2048-80.png
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Alll four Wharfedale Nova subwoofers on a gradient grey background and dark reflective surface](https://cdn.mos.cms.futurecdn.net/n6XEFFfhcuerQhqJSTK22F.png) 

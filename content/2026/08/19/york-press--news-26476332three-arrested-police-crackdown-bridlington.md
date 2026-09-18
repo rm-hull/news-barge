@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Three people have been arrested after police launched a crackdown on
   crime along the Yorkshire coast.
 image: https://www.yorkpress.co.uk/resources/images/20559201.jpg?type=og-image
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: Supplied)*

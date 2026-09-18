@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: AN exclusive ballet performance for under-30s is coming to Leeds this
   September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370888.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Emily Nuttall)*

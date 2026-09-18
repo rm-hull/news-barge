@@ -10,6 +10,9 @@ description: Some are worried that Taylor Sheridan's political drama is entering
   mid-season slump. But will it really? And when does Lioness season 3 episode 5 arrive
   on Paramount+?
 image: https://cdn.mos.cms.futurecdn.net/CeZTE4fTNUHHtbe3rzr8Ag-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Byron, Kaitlyn and Joe look at someone across the table](https://cdn.mos.cms.futurecdn.net/CeZTE4fTNUHHtbe3rzr8Ag.jpg) 

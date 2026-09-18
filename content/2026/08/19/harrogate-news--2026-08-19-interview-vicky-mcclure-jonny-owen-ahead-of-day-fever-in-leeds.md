@@ -9,6 +9,10 @@ published: '2026-08-19T00:00:00Z'
 description: There aren't many live events where strangers become friends before the
   first song has finished. Fewer still where the dancefloor is full by mid-afternoon,
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/McClure.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 There aren’t many live events where strangers become friends before the first song has finished. Fewer still where the dancefloor is full by mid-afternoon, generations mingle without a second thought and everyone is home in time for the evening.

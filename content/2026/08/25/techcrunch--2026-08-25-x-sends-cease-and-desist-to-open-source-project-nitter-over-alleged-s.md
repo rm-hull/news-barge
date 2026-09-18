@@ -10,6 +10,8 @@ description: X has sent cease-and-desist letters to Nitter, the open source proj
   behind privacy-friendly X front ends, demanding its instances and code repository
   be taken down over alleged scraping.
 image: https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Nitter, an open source project that allowed people to read X posts without logging into or even opening the X app, has received cease-and-desist letters from X demanding that it shut down. The news was shared via a brief message posted to the project’s website, and follows X’s earlier attempts to knock Nitter offline by technical means.

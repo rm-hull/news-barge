@@ -10,6 +10,8 @@ published: '2026-08-29T00:00:00Z'
 description: The Xteink X4 Pro is a truly tiny ereader with some great features, but
   it also has more than a few issues.
 image: https://cdn.mos.cms.futurecdn.net/c78JKv7bzH9Dnr59Rpsh2A-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A hand holding the Xteink X4 Pro next to the device on a wooden table](https://cdn.mos.cms.futurecdn.net/c78JKv7bzH9Dnr59Rpsh2A.jpg) 

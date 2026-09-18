@@ -10,6 +10,9 @@ description: Reform UK, a British anti-immigration party, has suspended two seni
   officials after videos showed them discussing potential foreign funding, which could
   breach electoral law
 image: https://static.independent.co.uk/2026/09/04/11/Britain_Reform_Party_Conference_91693.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Anti-immigration party Reform UK suspended two senior officials on Friday after they were filmed appearing to discuss accepting funds from a foreign donor in potential breach of British electoral law.

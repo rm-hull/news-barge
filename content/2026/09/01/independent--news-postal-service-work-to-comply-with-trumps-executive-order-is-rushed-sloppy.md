@@ -11,6 +11,10 @@ description: A whistleblower for the U.S. Postal Service is warning that a new m
   order restricting that method of voting could lead to the rejection of huge numbers
   of mail ballots
 image: https://static.independent.co.uk/2026/09/01/14/Election_2_26_Postal_Service_98174.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The U.S. Postal Service is poised to launch a hastily built, error-riddled computer system that could jeopardize the process of mail voting relied upon by one-third of all voters, according to a whistleblower statement released Tuesday by Democratic Sen. Richard Blumenthal.

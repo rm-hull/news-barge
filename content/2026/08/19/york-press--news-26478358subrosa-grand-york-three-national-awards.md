@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: SubRosa at The Grand in York has been shortlisted for three national
   awards just months after reopening.
 image: https://www.yorkpress.co.uk/resources/images/20296304.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## York luxury spa shortlisted for three national awards - months after reopening

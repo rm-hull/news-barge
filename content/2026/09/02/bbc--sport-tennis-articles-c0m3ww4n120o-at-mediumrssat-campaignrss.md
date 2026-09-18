@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: At last year's US Open, Coco Gauff's serve left her practising in the
   rain and crying on court - now it is a potent weapon.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90f1/live/23de7c00-a66f-11f1-82b7-510483674740.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Coco Gauff celebrates winning her first-round match at the 2026 US Open](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/90f1/live/23de7c00-a66f-11f1-82b7-510483674740.jpg)

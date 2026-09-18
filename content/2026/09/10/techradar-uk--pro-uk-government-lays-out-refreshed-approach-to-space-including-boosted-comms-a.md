@@ -8,6 +8,9 @@ scraped_at: '2026-09-10T12:53:20Z'
 published: '2026-09-10T00:00:00Z'
 description: The UK has a new Space Strategy
 image: https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B-2121-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![The Houses of Parliament and Westminster Bridge](https://cdn.mos.cms.futurecdn.net/aRsqdvej9A7bsx97Cxde8B.jpg) 

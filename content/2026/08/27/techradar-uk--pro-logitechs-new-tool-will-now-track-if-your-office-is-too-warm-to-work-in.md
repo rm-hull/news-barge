@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:01:43Z'
 published: '2026-08-27T00:00:00Z'
 description: Logitech Spot gets better at spotting issues
 image: https://cdn.mos.cms.futurecdn.net/5PePJs3otkrp95gFXkBmJE-970-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Logitech Spot](https://cdn.mos.cms.futurecdn.net/5PePJs3otkrp95gFXkBmJE.jpg) 

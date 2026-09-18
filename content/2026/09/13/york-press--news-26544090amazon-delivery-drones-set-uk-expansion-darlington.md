@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Amazon is seeking approval to expand its drone delivery service across
   Darlington, with a wider UK rollout the ultimate goal.
 image: https://www.yorkpress.co.uk/resources/images/21440949.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## Your next Amazon delivery could look very different as drone trials expand

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Australian organizers are determined to hold the Olympic rowing regatta
   in Rockhampton's Fitzroy River for the 2032 Brisbane Games
 image: https://static.independent.co.uk/2026/09/10/07/Olympics_Brisbane_2_32_Rowing_Venue_47962.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Not crocodiles, not currents, nor criticism over a shortage of beds will stop the Olympic rowing regatta being staged in the Fitzroy River at Rockhampton at the 2032 Brisbane Games — at least not according to the Australian planners.

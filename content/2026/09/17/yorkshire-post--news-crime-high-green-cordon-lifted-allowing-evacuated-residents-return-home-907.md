@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: A 100-metre cordon around a house in Yorkshire has been lifted, allowing
   residents to return to their homes.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/16/17/04/High-Green-cordon-lifted-by-police.jpeg?trim=40,0,40,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 # High Green evacuation: Police lift cordon allowing evacuated residents to return home

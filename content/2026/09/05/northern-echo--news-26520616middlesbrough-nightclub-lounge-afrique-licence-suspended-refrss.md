@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A North East nightclub where underage girls were said to have been served
   drinks before one was allegedly raped has had its licence suspended for…
 image: https://www.thenorthernecho.co.uk/resources/images/21263702.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A North East nightclub where underage girls were said to have been served drinks before one was allegedly raped has had its licence suspended for six weeks.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Lee Markham, 50, of Hallfield Close, Sunderland, has been banned from
   driving for five years after failing to identify the driver of a Jeep Grand…
 image: https://www.thenorthernecho.co.uk/resources/images/20185751.jpg?type=og-image&xType=0&yType=309
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

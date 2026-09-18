@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T22:13:40Z'
 published: '2026-08-27T00:00:00Z'
 description: Trump’s order has no effect outside the United States
 image: https://static.independent.co.uk/2026/08/27/19/2026-08-27T175305Z_46341437_RC257NAS5839_RTRMADP_3_USA-TRUMP.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump signed an order to rename one of the five Great Lakes along the U.S.-Canada border in a fit of rage over his ongoing trade war with Ottawa that appears to have no end in sight.

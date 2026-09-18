@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T04:51:05Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/royal-visit-flags-dreamstime.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 It’s a royal day for our city today (Tuesday).

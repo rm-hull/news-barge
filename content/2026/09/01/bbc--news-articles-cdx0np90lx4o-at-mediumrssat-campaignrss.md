@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: The murder of Notorious B.I.G. came months after the killing of his rival
   Tupac Shakur, both drive-by shootings.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd2d/live/ce059510-a5fc-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 Watch: What it was like inside court for Tupac Shakur’s murder trial verdict

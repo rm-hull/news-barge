@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Leaders of a Mississippi city where police shot and killed one-year-old
   Kohen Wiley earlier this year unanimously voted to fire its police chief
 image: https://static.independent.co.uk/2026/09/02/18/Mississippi_Child_Shot_6_74.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The police chief of a Mississippi city where one-year-old Kohen Wiley was shot and killed by police responding to a shoplifting call in June was fired Tuesday.

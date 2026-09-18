@@ -9,6 +9,9 @@ published: '2026-09-08T00:00:00Z'
 description: Enzo Maresca's men kick-start their continental campaign at the Estadio
   do Dragao
 image: https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Erling Haaland of Manchester City applauds the fans during the Premier League match between Manchester City and Bournemouth at Etihad Stadium](https://cdn.mos.cms.futurecdn.net/AmEkmeo6W6vHxABJSUgbcb.jpg) 

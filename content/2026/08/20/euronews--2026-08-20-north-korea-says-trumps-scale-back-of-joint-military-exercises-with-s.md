@@ -10,6 +10,9 @@ description: Critics slammed the Trump administration over its surprise pull-bac
   example of the US turning its back on its allies, hurting its credibility in the
   international arena.
 image: https://images.euronews.com/articles/stories/09/88/12/98/1200x675_cmsv2_853beaec-5ccb-5471-a264-8d60a37ed188-9881298.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Critics slammed the Trump administration over its surprise pull-back from the planned drills with South Korea, stressing that the move is yet another example of the US turning its back on its allies, hurting its credibility in the international arena.

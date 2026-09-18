@@ -10,6 +10,11 @@ description: Years after Hong Kong’s annual vigil for the Tiananmen Square cra
   ended, former organizer Tang Ngok-kwan still discreetly visits former memorial sites
   in the city
 image: https://static.independent.co.uk/2026/08/22/02/Hong_Kong_Tiananmen_Trial_Activist_Account_69584.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- History
 ---
 
 Tang Ngok-kwan still occasionally visits the places where Hong Kong once publicly remembered Beijing’s 1989 Tiananmen Square crackdown.

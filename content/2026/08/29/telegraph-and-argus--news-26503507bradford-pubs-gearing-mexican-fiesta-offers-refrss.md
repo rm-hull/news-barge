@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: BRADFORD pubs are set to celebrate with a Mexican-themed fiesta this
   bank holiday weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20702528.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Google Street View)*

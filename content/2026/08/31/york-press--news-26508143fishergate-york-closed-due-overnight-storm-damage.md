@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: City of York Council has shut part of the Fishergate Gyratory following
   a storm last night (Sunday, August 30) which resulted in part of the road…
 image: https://www.yorkpress.co.uk/resources/images/21390786.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Cordon in place and route closed after storm damages road in York

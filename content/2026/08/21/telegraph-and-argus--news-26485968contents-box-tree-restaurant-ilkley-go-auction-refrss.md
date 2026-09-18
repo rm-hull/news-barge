@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Furniture, artwork, ceramics and decorative furnishings from a popular
   restaurant are set to be auctioned ahead of a £500,000 refurbishment…
 image: https://www.thetelegraphandargus.co.uk/resources/images/19003055.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: submitted)*

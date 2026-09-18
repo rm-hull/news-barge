@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Natalie McDonald, 34, and her niece Valentina Foster both died while
   four people were injured in the fire
 image: https://static.independent.co.uk/2026/09/01/8/37/Natalie-McDonald-Valentina-Foster.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 23-year-old man has appeared in court charged with murder following a house fire that killed a seven-year-old girl and her aunt.

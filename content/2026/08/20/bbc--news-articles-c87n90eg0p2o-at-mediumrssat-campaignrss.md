@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: US Treasury Secretary Scott Bessent says allies will need to decide whether
   they "are with us or against us".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![US Treasury Secretary Scott Bessent addresses members of the media on the lawn outside the White House. He's wearing a light grey suit, white shirt and silver tie](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f685/live/690551d0-9cc6-11f1-a5cd-a14170183a2c.png)

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A former Reform UK councillor in County Durham has appeared on Sky News
   claiming she received no response after raising what she described as a…
 image: https://www.thenorthernecho.co.uk/resources/images/21460939.jpg?type=og-image&xType=0&yType=53
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A former Reform UK County Durham councillor has quit the party claiming her concerns over a "serious safeguarding issue" went ignored by party leaders.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Hundreds of solar panels are set to be installed on the roof of a York
   building.
 image: https://www.gazetteherald.co.uk/resources/images/21332424.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 ### What is the Public Notice Portal?

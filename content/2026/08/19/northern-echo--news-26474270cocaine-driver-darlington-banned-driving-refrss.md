@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Paul Johnston, 45, of Howick Close, Darlington, has been banned from
   driving after admitting drug-driving offences on Northgate, Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/20765304.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Newsquest)*

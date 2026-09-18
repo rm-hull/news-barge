@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: The 84-year-old said he was prepared to cast his first vote after rampant
   speculation about his health
 image: https://i.guim.co.uk/img/media/7e05b6db521477f60a45ba26b791623bb13e7202/636_0_6362_5092/master/6362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=786edc78dca2ea343571e0d19381199a
+categories:
+- UK
+- News & Politics
 ---
 
 Mitch McConnell, the former Republican Senate majority leader, returned to the Capitol on Monday and cast his first vote after a months‑long absence that fueled rampant speculation about his health.

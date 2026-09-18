@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Yorgen Fenech cleared on both charges he faced over 2017 killing of journalist
   that prompted global outrage
 image: https://i.guim.co.uk/img/media/233e039727ca49d634549da25dab464f93aff0ce/604_0_4885_3909/master/4885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cd7b9e3508db32503f50900f8322f02
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 One of Malta’s richest men has been found not guilty of involvement in the murder of the anti-corruption journalist Daphne Caruana Galizia.

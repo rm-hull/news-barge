@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T12:41:55Z'
 published: '2026-09-04T00:00:00Z'
 description: 'Please highlight any changes:'
 image: https://www.thenorthernecho.co.uk/resources/images/21357921.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: North News & Pictures Ltd)*

@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Higher limits mean you could land a more expensive house - but the trade-offs
   are important to know about
 image: https://static.independent.co.uk/2026/09/04/09/20160706-b2ee91a4-b2f9-428a-9558-669d61672707.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 If you’re a first-time buyer, you might have heard from people who have bought previously that the most you can borrow is around 4.5 times your income.

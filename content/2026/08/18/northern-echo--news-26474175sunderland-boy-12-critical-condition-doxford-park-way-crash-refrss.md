@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A 12-year-old boy remains in a critical condition after being struck
   by a white Vauxhall Mokka while crossing Doxford Park Way near Morrisons in…
 image: https://www.thenorthernecho.co.uk/resources/images/21335183.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Northumbria Police)*

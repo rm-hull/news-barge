@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: FAMILIES are invited to enjoy a free Islamic heritage celebration in
   Bradford this weekend.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21395474.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

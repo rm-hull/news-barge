@@ -9,6 +9,10 @@ scraped_at: '2026-09-13T18:45:50Z'
 published: '2026-09-13T00:00:00Z'
 description: But is the genie already out of the bottle?
 image: https://cdn.mos.cms.futurecdn.net/SvLU6cxYvNBbAzAkMrzDeL-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Dario Amodei](https://cdn.mos.cms.futurecdn.net/SvLU6cxYvNBbAzAkMrzDeL.jpg) 

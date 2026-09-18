@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: After Donald Trump’s executive order demanding the name change, Google
   is the first major online maps provider to flip the switch.
 image: https://media.wired.com/photos/6a9455859666495a32b503b6/191:100/w_1280,c_limit/Screenshot%202026-08-30%20at%2011.06.40%E2%80%AFAM.png
+categories:
+- Technology & Software
+- Science
+- News & Politics
 ---
 
 Lake Ontario is no more on Google Maps in the US. Google changed the name of easternmost of the Great Lakes to “Lake America” late Saturday, days after President Donald Trump ordered its rebranding in official government databases.

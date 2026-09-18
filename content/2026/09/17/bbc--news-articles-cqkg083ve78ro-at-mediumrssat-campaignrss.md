@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Buckingham Palace has strongly pushed back against claims in a new book
   by the late Princess of Wales's brother.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6cc3/live/8377ac50-b2bc-11f1-9830-658a48c7da16.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Princess Diana](https://ichef.bbci.co.uk/ace/standard/991/cpsprodpb/6cc3/live/8377ac50-b2bc-11f1-9830-658a48c7da16.jpg)

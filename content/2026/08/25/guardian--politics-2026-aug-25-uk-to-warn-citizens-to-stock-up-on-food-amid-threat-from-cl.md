@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Government resilience campaign aims to ensure people can cope in a national
   disaster, in order to free resources for most vulnerable
 image: https://i.guim.co.uk/img/media/d5d28cd2216411e8a11b8e10e19912025b880a8b/451_0_3962_3170/master/3962.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96f3e61ca24496777107737876205df3
+categories:
+- UK
+- News & Politics
 ---
 
 UK citizens will be told to stock up on tinned food and take steps to ensure they are prepared for national emergencies as part of a new government campaign to improve the nation’s resilience.

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Five people are dead and five seriously injured after a Boeing 767-300
   cargo plane "overran" the runway and caught fire, officials say.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Video shows damaged Amazon cargo plane after crash

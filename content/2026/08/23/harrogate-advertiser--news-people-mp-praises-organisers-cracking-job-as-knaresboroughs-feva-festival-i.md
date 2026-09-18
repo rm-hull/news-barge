@@ -9,6 +9,10 @@ published: '2026-08-23T00:00:00Z'
 description: Harrogate and Knaresborough’s MP has spoken up in Parliament for Feva
   festival as this year’s arts extravaganza reaches its final hours.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjcwMGQ3ZWZmLWQ5YTUtNDg1MS1iZDBiLTMzNTRjNDliNGNmZTo1YTVlNWFkMS00ODE5LTRhNzMtOWExYi0yN2Q2ZTAxZGRlNjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 # MP praises organisers ‘cracking job’ as Knaresborough's Feva festival is in the spotlight in Parliament

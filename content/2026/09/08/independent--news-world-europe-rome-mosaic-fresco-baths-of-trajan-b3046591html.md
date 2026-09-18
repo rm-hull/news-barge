@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The works were discovered in the 1990s but hidden from public view until
   now
 image: https://static.independent.co.uk/2026/09/08/14/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Science
 ---
 
 What is believed to be Rome’s largest fresco and mosaic complex has been opened for public viewing.

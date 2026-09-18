@@ -8,6 +8,11 @@ published: '2026-09-12T00:00:00Z'
 description: A NEW live show is shining a spotlight on the female storytellers behind
   some of the world’s best-loved wildlife documentaries.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443144.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Supplied)*

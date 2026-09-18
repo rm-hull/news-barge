@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Discover The Bay Horse in Middridge, near Newton Aycliffe — a traditional
   County Durham pub known for pub food, real ales, generous portions and…
 image: https://www.thenorthernecho.co.uk/resources/images/18364904.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: NORTHERN ECHO)*

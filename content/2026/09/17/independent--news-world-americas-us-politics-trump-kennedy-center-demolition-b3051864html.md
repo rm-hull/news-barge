@@ -9,6 +9,9 @@ description: President Donald Trump has been caught up in a long-running legal b
   to rename the performing arts venue after himself since late last year, culminating
   with its board voting to close it down for repairs earlier this week
 image: https://static.independent.co.uk/2026/09/17/12/2295089139..?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump has been photographed perusing a booklet apparently outlining the demolition of the Kennedy Center, just a day after the performing arts venue’s board voted to close it for repairs.

@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man caused the death of a British Olympian just hours after the former
   athlete had been told he had beaten cancer, York Magistrates' Court…
 image: https://www.yorkpress.co.uk/resources/images/21440723.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Sports
 ---
 
 ## Van driver caused death of British Olympian hours after athlete got cancer all-clear

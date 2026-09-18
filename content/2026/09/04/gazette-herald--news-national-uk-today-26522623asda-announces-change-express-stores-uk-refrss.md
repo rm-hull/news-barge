@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The news comes as Asda is trialling shelf-edge availability cameras in
   five of its larger stores.
 image: https://www.gazetteherald.co.uk/resources/images/20225984.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 *(Image: Chris Radburn/PA Wire)*

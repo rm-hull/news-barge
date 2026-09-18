@@ -10,6 +10,10 @@ description: The recent announcement of Pennsylvania’s first measles-related d
   in decades has ignited a public feud among politicians and health officials who
   disagree over the role of the contagious disease in the fatalities
 image: https://static.independent.co.uk/2026/08/17/21/Vaccination_Rates_34154.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The recent announcement of Pennsylvania’s first measles-related deaths in decades has ignited a public feud among politicians and health officials who disagree over the role of the contagious disease in the fatalities.

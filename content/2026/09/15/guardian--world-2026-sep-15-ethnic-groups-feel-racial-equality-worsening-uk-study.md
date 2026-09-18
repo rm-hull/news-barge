@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Nearly half of ethnic minority respondents in a poll say they faced prejudice
   over the past year
 image: https://i.guim.co.uk/img/media/f2b635a379d88af0df462a19cac39a5a45b0025e/70_0_4829_3865/master/4829.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd119e14e23de59b2ac22e66a22e945d
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Health & Fitness
 ---
 
 Many Britons feel inequality is worsening and that discrimination has become more common, according to a thinktank study.

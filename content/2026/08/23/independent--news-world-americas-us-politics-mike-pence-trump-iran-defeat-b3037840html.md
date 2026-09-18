@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: The former vice president, a stalwart Iran hawk, implies that further
   military action as war heads to six-month mark
 image: https://static.independent.co.uk/2026/08/19/05/TDG4KnHDZ84_rXsySAgRlg5iEwkep1T1IxMAMFN5P2w4Og3ATcn4Sa3SEoY79CwSpzWQ6rk5gEwS0T0dhB0HkLqkrgRtyzffNJ6M..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 Former Vice President Mike Pence has firmly backed his old boss over the Iran war - but warned that President Donald Trump would soon have to “go in and finish the job” to claim a defeat.

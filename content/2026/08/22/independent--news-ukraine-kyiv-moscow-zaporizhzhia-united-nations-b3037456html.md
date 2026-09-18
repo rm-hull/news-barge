@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Russian drone and missile strikes killed at least two people overnight
   in Ukraine
 image: https://static.independent.co.uk/2026/08/22/08/Russia_Ukraine_War_77946.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least two people were killed overnight in Ukraine by Russian drone and missile strikes, authorities said, a day after an attack on a shopping center killed 16 people.

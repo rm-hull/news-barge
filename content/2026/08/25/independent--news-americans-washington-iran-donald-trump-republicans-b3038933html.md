@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Americans’ confidence in the economy declined this month as the ongoing
   Iran conflict has kept gas prices elevated at more than $4 a gallon
 image: https://static.independent.co.uk/2026/08/25/15/US_Results_Target_726_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 US consumer confidence falls to lowest level in 7 months as gas prices remain elevated

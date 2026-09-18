@@ -10,6 +10,9 @@ published: '2026-09-15T00:00:00Z'
 description: StarCraft will adopt the same "gritty" atmosphere of the original real-time
   strategy (RTS) game, according to Blizzard Entertainment.
 image: https://cdn.mos.cms.futurecdn.net/YJJwMJ5AfxT598CYFj6Jhg-2000-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/YJJwMJ5AfxT598CYFj6Jhg.jpg) 

@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T13:29:53Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/09/former-iceland-store-fulford-road-york.webp
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 Efforts to bring an empty York supermarket building back into use have taken a step forward amid fears over the plans.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A drug addict banned from contacting his own mother for repeatedly pestering
   her for money has been jailed after turning up at her home and…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21346594.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

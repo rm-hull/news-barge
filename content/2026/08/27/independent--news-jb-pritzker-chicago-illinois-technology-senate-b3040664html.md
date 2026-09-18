@@ -8,6 +8,9 @@ published: '2026-08-27T00:00:00Z'
 description: New rules for electric bikes and scooters will take effect next year
   in Illinois after Gov. JB Pritzker signed a bill on Wednesday
 image: https://static.independent.co.uk/2026/08/27/21/Electric_Bikes_Regulations__6675.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 New rules governing who can use electric bikes and scooters, including where and how fast they go, will go into effect next year following Gov. JB Pritzker’s signature on Wednesday.

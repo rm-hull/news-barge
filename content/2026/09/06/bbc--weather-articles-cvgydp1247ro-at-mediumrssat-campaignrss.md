@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: A summer-like day is in store for some on Sunday with above average temperatures,
   but the heat will be short-lived.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/82c5/live/7a900fb0-a952-11f1-adf0-6d46cbf5ba37.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 ![A group of people sit in a circle on straw-like dry grass. There are trees in the background and blue sky](https://ichef.bbci.co.uk/ace/standard/814/cpsprodpb/82c5/live/7a900fb0-a952-11f1-adf0-6d46cbf5ba37.jpg)

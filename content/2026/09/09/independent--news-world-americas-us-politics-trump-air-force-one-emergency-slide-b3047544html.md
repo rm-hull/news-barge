@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The president is scheduled to fly to Dallas, Texas, for the Republican
   midterm convention
 image: https://static.independent.co.uk/2026/09/09/18/51/GettyImages-2294363356.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An emergency inflatable slide deployed from Air Force One on Wednesday afternoon as President Donald Trump waited to board the aircraft at Joint Base Andrews.

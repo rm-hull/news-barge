@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The disgraced former prince was described as a ‘co-conspirator’ of paedophile
   financier Jeffrey Epstein
 image: https://static.independent.co.uk/2026/08/06/17/82771110cad463bbf6de0ebc78cd300fY29udGVudHNlYXJjaGFwaSwxNzg2MTIwMDA1-2.84707749.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- History
 ---
 
 Andrew Mountbatten-Windsor should be investigated and prosecuted for sex crimes in the US, Congress has been told.

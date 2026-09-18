@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:21Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2020/05/north-yorkshire-police-safety-camera-van.jpg
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 Have you captured dangerous or careless driving on your dashcam, CCTV, or a passenger’s mobile phone?

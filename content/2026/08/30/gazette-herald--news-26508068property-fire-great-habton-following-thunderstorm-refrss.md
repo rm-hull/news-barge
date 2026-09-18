@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: A BUILDING is on fire in North Yorkshire following a violent thunderstorm
   this evening (Sunday).
 image: https://www.gazetteherald.co.uk/resources/images/21390526.jpg?type=og-image&xType=0&yType=530
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 A NUMBER of farm buildings are on fire in North Yorkshire following a violent thunderstorm this evening (Sunday).

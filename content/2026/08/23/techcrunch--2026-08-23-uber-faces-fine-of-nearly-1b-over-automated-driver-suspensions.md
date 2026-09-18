@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: The Dutch Data Protection Authority is fining Uber €825 million in the
   second largest penalty issued under Europe’s GDPR.
 image: https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The Dutch Data Protection Authority is fining Uber €825 million (around $966 million) — the second largest penalty issued so far under Europe’s General Data Protection Regulation, according to Reuters.

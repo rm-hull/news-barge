@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate
   the landmark anniversary.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d641/live/64614ef0-ae0e-11f1-b502-e5cdfe1c097c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Watch: "We'll never ever forget" - Americans remember 9/11 at 25th anniversary

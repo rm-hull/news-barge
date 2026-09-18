@@ -8,6 +8,12 @@ published: '2026-09-05T00:00:00Z'
 description: More than £119 billion in savings is due to mature by the end of the
   year, putting savers at risk of losing thousands of pounds.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21414432.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

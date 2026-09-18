@@ -11,6 +11,9 @@ description: DJI fixed twelve unmodified Osmo Action 6s to a LandSpace’s Zhuqu
   reusable rocket, recording POV footage of China's first successful land-based orbital
   launch and recovery.
 image: https://cdn.mos.cms.futurecdn.net/3AFweUVrDDeXMVn3nuk9ka-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![POV footage from the rocket achieving China's first orbital launch and recovery, recorded with a DJI Osmo Action 6](https://cdn.mos.cms.futurecdn.net/3AFweUVrDDeXMVn3nuk9ka.jpg) 

@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:43:10Z'
 published: '2026-09-17T00:00:00Z'
 description: Google's ad business gets off lightly
 image: https://cdn.mos.cms.futurecdn.net/NHvGYFb8onGvLuSYqJXvGL-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Google Ads](https://cdn.mos.cms.futurecdn.net/NHvGYFb8onGvLuSYqJXvGL.jpg) 

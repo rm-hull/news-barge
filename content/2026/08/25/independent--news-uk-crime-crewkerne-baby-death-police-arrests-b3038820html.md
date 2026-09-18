@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The death is being treated as unexplained following an initial forensic
   postmortem examination
 image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/26/16/police-tape.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A man and a woman have been arrested after the unexplained death of a baby in Somerset.

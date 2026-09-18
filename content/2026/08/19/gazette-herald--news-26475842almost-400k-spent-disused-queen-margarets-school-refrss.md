@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Almost £400,000 has been spent on the upkeep of the former Queen Margaret's
   School, in Escrick near York, by administrators following its…
 image: https://www.gazetteherald.co.uk/resources/images/19814915.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 ALMOST £400,000 has been spent on the upkeep of a former top private school near York by administrators following its sudden closure in 2025.

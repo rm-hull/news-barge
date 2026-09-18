@@ -9,6 +9,10 @@ description: The first day in Lausanne celebrated judo’s inclusive spirit, wit
   judo athletes competing alongside World Tour stars. Marina Vorobeva, Yamato Fukuda,
   Gefen Primo, Kairi Kentoku and Eteri Liparteliani claimed gold medals
 image: https://images.euronews.com/articles/stories/09/89/36/47/1200x675_cmsv2_cb9c5183-3b32-5ff1-b7bf-1308f15eb04a-9893647.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 **Euronews with IJF**

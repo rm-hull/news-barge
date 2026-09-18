@@ -9,6 +9,11 @@ description: Vice President’s blunder chimed neatly with President Donald Trum
   rhetoric about incorporating the neighboring nation into the United States at a
   time of high tension between the pair
 image: https://static.independent.co.uk/2026/08/25/10/2291860235..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Vice President JD Vance made an embarrassing “Freudian slip” when he described Canada as a “state,” rather than a country, as the tariff war between the two neighbors heats up.

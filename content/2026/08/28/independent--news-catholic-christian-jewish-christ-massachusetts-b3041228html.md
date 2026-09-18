@@ -10,6 +10,9 @@ description: Amy-Jill Levine, a Jewish scholar of Christian Scriptures, has face
   antisemitic backlash after being elected the first Jewish president of the Catholic
   Biblical Association of America
 image: https://static.independent.co.uk/2026/08/28/18/Catholic_Biblical_Association_Jewish_President_54673.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 When Amy-Jill Levine was a child in Massachusetts, a schoolmate in her predominantly Catholic hometown told her she was guilty of killing Christ because she was Jewish.

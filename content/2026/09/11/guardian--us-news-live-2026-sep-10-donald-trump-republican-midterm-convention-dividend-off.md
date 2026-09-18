@@ -8,6 +8,9 @@ scraped_at: '2026-09-11T04:29:35Z'
 published: '2026-09-11T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/203ec0f0d8f7344a81152e6c1123a471e54fd75a/610_0_6110_4888/master/6110.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b868931f2edd373861b1d04e441902fc
+categories:
+- UK
+- News & Politics
 ---
 
 Here's a recap of the second, and final, night of the GOP midterm convention

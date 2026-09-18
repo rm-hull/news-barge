@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Savings brought about by government schemes could be wiped out by future
   rises
 image: https://static.independent.co.uk/2026/08/26/11/01M0YK4SSB1K1HKS3EZZB4GZEB.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Households face another sharp rise in energy costs in the new year, experts have warned, forecasting an increase of more than £200 above the current level.

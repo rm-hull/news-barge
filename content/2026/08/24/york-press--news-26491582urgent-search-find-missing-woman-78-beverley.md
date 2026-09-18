@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Humberside Police have launched an urgent search for a missing woman
   from Beverley.
 image: https://www.yorkpress.co.uk/resources/images/20610110.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Proven Black Friday/Cyber Monday strategies from a seasoned ecommerce
   owner
 image: https://cdn.mos.cms.futurecdn.net/Yuq9Sga85QDNm8jWj8rAPU-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![a woman selling luxurious candles from home](https://cdn.mos.cms.futurecdn.net/Yuq9Sga85QDNm8jWj8rAPU.jpg) 

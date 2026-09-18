@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: They will not be working royals when they come back. So what could they
   be doing instead?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 ![A souvenir tin featuring an image of the Duke of Sussex and the Duchess of Sussex](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg)

@@ -8,6 +8,9 @@ scraped_at: '2026-09-05T04:18:40Z'
 published: '2026-09-05T00:00:00Z'
 description: This live blog is now closed.
 image: https://i.guim.co.uk/img/media/adea61021f59162ff2a2ff1fc97d0234b8917a35/526_0_5417_4335/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7c3463bc248954b0635978657d450b7a
+categories:
+- UK
+- News & Politics
 ---
 
 Trump downplays war with Iran, in which 18 US service members have been killed so far, as 'small potatoes'

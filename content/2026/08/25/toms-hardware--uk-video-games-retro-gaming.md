@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Discover more about Retro Gaming with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![](https://cdn.mos.cms.futurecdn.net/9KTZb9ty7fkrE9HY3UHBjC-320-80.jpg)

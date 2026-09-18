@@ -10,6 +10,9 @@ description: The Guardian’s senior international reporter Luke Harding will be
   the state of the war in Ukraine, or his career reporting from Kyiv, Moscow and around
   the world
 image: https://i.guim.co.uk/img/media/a5effac18fe755410428e3b26378405044036759/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2219a658497db2cb934eb9340e6566ab
+categories:
+- UK
+- News & Politics
 ---
 
 Luke Harding, author and award-winning foreign correspondent**,** has covered wars in Afghanistan, Iraq, Libya, Syria and most recently Ukraine. Between 2007 and 2011 he was the Guardian’s chief writer in Moscow before being expelled by the Kremlin.

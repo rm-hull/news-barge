@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: A Harrogate mum has bravely opened up about her own very personal story
   of the “hidden reality” of neurodivergent pregnancy and motherhood.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjc2ZTg1ZTIyLTkwYzctNDM4NC04NGRkLTVjNjFlMGViYTg5Mzo0OTY5MTNlZS0zYmM2LTRmMGMtODc4ZS01OGEyMTBmZTkzY2M=.jpg?crop=3:2,smart&trim=&width=1170&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # 'There was no ‘pregnancy glow’ says Harrogate mother speaking publicly for first time about her birth experiences

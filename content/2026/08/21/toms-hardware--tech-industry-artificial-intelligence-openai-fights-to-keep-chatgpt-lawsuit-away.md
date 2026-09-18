@@ -8,6 +8,10 @@ scraped_at: '2026-08-21T16:47:59Z'
 published: '2026-08-21T00:00:00Z'
 description: Trump ally Judge Aileen Cannon has had the remand motion for seven weeks.
 image: https://cdn.mos.cms.futurecdn.net/At9oFNxgx5LSot7EtTt3Rm-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![Sam Altman](https://cdn.mos.cms.futurecdn.net/At9oFNxgx5LSot7EtTt3Rm.jpg) 

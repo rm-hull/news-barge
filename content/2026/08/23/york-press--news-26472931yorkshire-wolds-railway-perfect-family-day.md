@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: The Yorkshire Wolds Railway is the only heritage railway in East Yorkshire
   and has a "delightful" café for after your train ride.
 image: https://www.yorkpress.co.uk/resources/images/21333557.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 *(Image: Tripadvisor)*

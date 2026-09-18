@@ -10,6 +10,10 @@ description: Oregon’s narrow win over Boise State and LSU’s big victory over
   could impact the Associated Press Top 25 college football poll set for release on
   Monday
 image: https://static.independent.co.uk/2026/09/07/05/APTOPIX_Texas_St_Texas_Football_97179.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 No. 2 Oregon’s closer-than-expected win over Boise State and No. 11 LSU’s lopsided victory over Clemson could have ramifications in the first regular-season Associated Press Top 25 college football poll set to be released on Monday.

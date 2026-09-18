@@ -8,6 +8,12 @@ published: '2026-09-14T00:00:00Z'
 description: Millions of Brits could be sitting on £1000s worth of unused phones,
   tablets, and other devices, according to new research from Virgin Media O2.
 image: https://www.gazetteherald.co.uk/resources/images/21449636.jpg?type=og-image&xType=0&yType=175
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

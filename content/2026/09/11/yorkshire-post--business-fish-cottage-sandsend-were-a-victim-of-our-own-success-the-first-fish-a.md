@@ -10,6 +10,11 @@ description: The Fish Cottage was the first fish and chip restaurant to open in 
   seaside village of Sandsend - and now it is so popular its owners say it is ‘bursting
   at the seams’.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRhZGQ2ZjIxLTFlZDctNDVlMC1iNzMxLWE1NDc1YzFhOTY1YjplNzAyOTIxYi1lMWQ1LTQ3ODgtYTM1MC1mMjVkMmJiZjM4ZGE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # Fish Cottage, Sandsend: ‘We’re a victim of our own success’ - The first fish and chip restaurant in Yorkshire coast village

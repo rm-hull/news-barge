@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire Fire and Rescue Service said crews were called to an
   abandoned motorcycle which was on fire in Acomb around 7.15pm yesterday…
 image: https://www.yorkpress.co.uk/resources/images/21371877.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 *(Image: Haydn Lewis)*

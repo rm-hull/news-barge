@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Schools minister Georgia Gould said the government is ‘really worried
   about the the big money that's coming into politics’
 image: https://static.independent.co.uk/2026/09/14/13/01M2FQFRC9DDBQW428YNAXPNS8.jpg?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 Donations from two crypto-billionaires to Reform UK worth £72m represent a “crisis for our democracy”, Trades Union Congress (TUC) general secretary Paul Nowak has warned, as the government vowed to “seriously address” spending limits on political donations.

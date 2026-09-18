@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Gas prices in the U.S. have hit a record high for Labor Day weekend,
   averaging $4.14 per gallon
 image: https://static.independent.co.uk/2026/09/07/09/2291635459..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Motorists across the U.S. are encountering record prices to fill their tanks for one final summer getaway over Labor Day weekend.

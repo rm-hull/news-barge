@@ -9,6 +9,8 @@ published: '2026-09-09T00:00:00Z'
 description: Interested in the new OM System PEN? Here's where to preorder - including
   where to get your hands on a free gift.
 image: https://cdn.mos.cms.futurecdn.net/drsJn87JgYmPhjanCv7S97-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Top half of the OM System PEN camera and it's covered in water droplets](https://cdn.mos.cms.futurecdn.net/drsJn87JgYmPhjanCv7S97.jpg) 

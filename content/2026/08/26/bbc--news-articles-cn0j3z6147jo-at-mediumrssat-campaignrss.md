@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Former Air France stewardess Sophie Lainault has had her cancer recognised
   as an occupational disease.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![An air stewardess facing away from the camera shows passengers on a jet the emergency exist during a safety briefing. She is wearing a white shirt and her blonde hair is in a tight bun](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/737e/live/628a85a0-a135-11f1-9311-09d4e1fc9016.jpg)

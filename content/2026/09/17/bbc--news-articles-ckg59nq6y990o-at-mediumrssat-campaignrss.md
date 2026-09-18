@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: The family of Nicholas Brandram said there was no forensic evidence linking
   him to the incident.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 ![Close-up headshot of a smiling Nicholas Brandram with short dark hair, blue eyes, and clean-shaven facial hair. He is wearing a blue open-collared shirt outdoors, with a blurred background showing an outdoor seating area and buildings under a clear sky.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e210/live/de7d3440-b293-11f1-a430-4d16ee157c41.jpg)

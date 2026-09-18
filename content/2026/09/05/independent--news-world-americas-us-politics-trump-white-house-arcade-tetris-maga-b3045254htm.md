@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The company stressed that it had no role in creating the game and added
   that it takes ‘copyright infringement very seriously’
 image: https://static.independent.co.uk/2026/09/05/14/33/Screenshot-2026-09-05-at-10-32-14-AM.png?trim=0,384,0,384&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The owner of Tetris criticized the Trump administration after the White House released an arcade game titled “Build the Wall” on its official website.

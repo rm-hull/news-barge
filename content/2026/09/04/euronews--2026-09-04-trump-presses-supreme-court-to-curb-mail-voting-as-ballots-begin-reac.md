@@ -9,6 +9,9 @@ description: A federal judge's ruling that compliance was "practically impossibl
   paired with a whistleblower's warning that millions of ballots could go undelivered,
   has thrown the run-up to a pivotal midterm vote into legal disarray.
 image: https://images.euronews.com/articles/stories/09/90/11/33/1200x675_cmsv2_ae74bd47-a53b-57f7-947b-9183f6ba19a2-9901133.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## A federal judge's ruling that compliance was "practically impossible," paired with a whistleblower's warning that millions of ballots could go undelivered, has thrown the run-up to a pivotal midterm vote into legal disarray.

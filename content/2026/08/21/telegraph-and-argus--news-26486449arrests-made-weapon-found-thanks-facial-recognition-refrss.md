@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Police have made several arrests and recovered a weapon following the
   latest deployment of live facial recognition cameras in Bradford city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21357043.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: WYP)*

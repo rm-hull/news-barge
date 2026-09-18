@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Bureau will still dismiss those engaged with sex workers within past
   10 years, three or more times overall, or while in public safety capacity
 image: https://i.guim.co.uk/img/media/25ef4ed70c6aecfc27bb3acd54cd13f32d36af35/119_0_2418_1935/master/2418.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a5278917e8361b63a198c4f245e786b
+categories:
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 The FBI is dropping a categorical hiring ban on applicants who have had sexual encounters with sex workers and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.

@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Roborock Qrevo 2 Pro is a solid, budget-level robot vacuum that did
   well on corners and navigating my home, especially for the price.
 image: https://media.wired.com/photos/6aa45f4c4de88ba2f8bc1d42/191:100/w_1280,c_limit/Review--Roborock-Qrevo-2-Pro.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
 ---
 
 Roborock's been a favorite of the robot vacuum game for a while. Here at WIRED, our reviewers are longtime fans of the affordable Qrevo line, but it was left without updates for for years. The company has been more focused on more unique designs, such as the Saros Z70, which has an entire arm attached to it to grab your socks. These have a way to go before they're actually useful.

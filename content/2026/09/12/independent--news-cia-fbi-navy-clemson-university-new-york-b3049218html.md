@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: A former CIA official has reached a tentative plea agreement after being
   charged with theft for inflating his salary
 image: https://static.independent.co.uk/2026/09/12/22/CIA_Official_Gold_Bars_34717.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A former CIA official found with $40 million of gold bars in his home has reached a tentative plea agreement after being charged with theft for fraudulently inflating his salary, according to court records.

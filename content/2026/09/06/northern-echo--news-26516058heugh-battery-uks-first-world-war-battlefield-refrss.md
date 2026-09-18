@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Discover Heugh Battery in Hartlepool, the site that claims to be Britain's
   only First World War battlefield and scene of the 1914 bombardment.
 image: https://www.thenorthernecho.co.uk/resources/images/21402281.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 *(Image: TripAdvisor)*

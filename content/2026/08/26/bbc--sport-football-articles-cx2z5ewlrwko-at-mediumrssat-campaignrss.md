@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Tottenham agree a loan deal to sign Manchester City forward Omar Marmoush,
   with an obligation to make the deal permanent for £60m next summer.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d37f/live/a0422f70-a125-11f1-92eb-a9b3bbcf6f4a.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Manchester City forward Omar Marmoush](https://ichef.bbci.co.uk/ace/standard/949/cpsprodpb/d37f/live/a0422f70-a125-11f1-92eb-a9b3bbcf6f4a.jpg)

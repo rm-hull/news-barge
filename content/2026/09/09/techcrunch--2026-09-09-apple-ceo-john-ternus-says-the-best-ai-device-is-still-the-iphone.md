@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The company also argued that its on-device models offer consumers more
   privacy.
 image: https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple’s new CEO John Ternus used the opening of the company’s Surprise and Shine event Wednesday to make its AI strategy clear: the iPhone is already the best AI device out there, and Apple cares more about data privacy than its rivals.

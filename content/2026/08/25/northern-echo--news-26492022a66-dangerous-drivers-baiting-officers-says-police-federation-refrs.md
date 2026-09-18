@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Young people are “baiting police officers” with dangerous driving, the
   Police Federation said in the wake of a collision on the A66 in which two…
 image: https://www.thenorthernecho.co.uk/resources/images/21357633.jpg?type=og-image&xType=0&yType=88
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Young people are “baiting police officers” with dangerous driving, the Police Federation of England and Wales said in the wake of the collision in which seven people, including two police officers, were killed.

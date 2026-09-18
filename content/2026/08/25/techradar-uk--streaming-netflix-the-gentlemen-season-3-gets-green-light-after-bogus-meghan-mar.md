@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Netflix has renewed The Gentlemen season 3 before season 2 has even aired
   — and that makes me worried for MobLand's future on Paramount+.
 image: https://cdn.mos.cms.futurecdn.net/J2ZuikomR7GQjg3ruMJA5A-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Tom Hardy in MobLand and Theo James in The Gentlemen](https://cdn.mos.cms.futurecdn.net/J2ZuikomR7GQjg3ruMJA5A.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Nominate County Durham and Darlington’s best beauty salon for The Northern
   Echo Best Beauty Salon Award 2026. Entries close September 20.
 image: https://www.thenorthernecho.co.uk/resources/images/20250939.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Stuart Boulton)*

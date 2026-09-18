@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Commissioner Virginia Bell resists push to extend antisemitism inquiry
   noting need for timely recommendations
 image: https://i.guim.co.uk/img/media/ae947d5f48470cb45ffff6dc2090fa82166d8be2/398_0_4160_3328/master/4160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=602a0fbc886cd6205b15e71dbff36638
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Commissioner Virginia Bell says she will delay – by four days – handing down her final report into antisemitism and social cohesion, in order not to distract from commemorations of the Bondi terror attack.

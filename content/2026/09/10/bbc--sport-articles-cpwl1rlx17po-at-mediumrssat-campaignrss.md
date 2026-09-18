@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Athletes will not be banned from using weight-loss drugs, but the substances
   will remain on a monitoring list.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7147/live/91bb8c00-ad12-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Sports
 ---
 
 ![A photo of Mounjaro and Ozempic pens inside their boxes.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7147/live/91bb8c00-ad12-11f1-826f-933990eae6f0.jpg)

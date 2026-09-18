@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Ryan Garcia crushed Briton Conor Benn with a ruthless second-round stoppage
   to retain his WBC welterweight crown in a world title mismatch in Las Vegas.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9cbb/live/1e927270-af29-11f1-8921-5f34b632ddf8.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Ryan Garcia lands a punch on Conor Benn](https://ichef.bbci.co.uk/ace/standard/953/cpsprodpb/9cbb/live/1e927270-af29-11f1-8921-5f34b632ddf8.jpg)

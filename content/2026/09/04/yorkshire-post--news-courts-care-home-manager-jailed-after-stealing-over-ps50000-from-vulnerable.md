@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: A former care home manager has been jailed after abusing her position
   of trust to steal more than £50,000 from vulnerable residents and their families.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/14/37/michaela-golding-07-09-1967.jpeg?trim=260,0,100,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Care home manager jailed after stealing over £50,000 from vulnerable residents

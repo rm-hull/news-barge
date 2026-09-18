@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Increasingly, young adults are taking anxiety medication to feel "drunk"
   at parties. But it's not a free lunch, experts warn.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ca7/live/7fac7ee0-9a23-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 **To enjoy a night out with friends, Matt once had to drink until he felt sick.**

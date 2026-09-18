@@ -8,6 +8,12 @@ published: '2026-09-13T00:00:00Z'
 description: Supply of available properties entering the market has lagged behind
   the levels seen in 2025 over recent months
 image: https://static.independent.co.uk/2026/09/13/21/01M2CSG0DP13FCKSX9P5SRS3W4.jpg?trim=0,80,0,80&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Real Estate
 ---
 
 Elevated mortgage rates are placing renewed strain on the UK rental sector, with annual price growth expected to reach 4 per cent to 5 per cent by the end of the year, according to Zoopla.

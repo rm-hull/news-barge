@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T09:44:58Z'
 published: '2026-08-23T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/crosscountry-train.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 CrossCountry, the rail operator that runs trains through York, has cancelled most of its services today (Sunday, 23 August).

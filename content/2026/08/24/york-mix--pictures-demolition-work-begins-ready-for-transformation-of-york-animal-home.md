@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T09:01:02Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/work-at-york-rspca-animal-home-1.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 This is how the RSPCA York Animal Home looks now as a major transformation of its facilities gets underway.

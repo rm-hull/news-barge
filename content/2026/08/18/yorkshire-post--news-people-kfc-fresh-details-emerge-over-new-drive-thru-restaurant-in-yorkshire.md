@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Fresh details have emerged about a new drive thru fast food restaurant
   which is set to open in York.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgxZThjYmYxLTNiYTctNDkzMy04YWExLWZjZDMzYTQ0OTZiZTpjZWNhMDZhZC1lMTgxLTRlMTktOWY0Zi0yMTVlMTMxZjQ4OWQ=.jpg?crop=3:2,smart&trim=&width=399&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 # KFC: Fresh details emerge over new drive-thru restaurant in Yorkshire

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: ONE in six UK households with children are experiencing food insecurity,
   according to new figures from The Food Foundation
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384061.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Supplied)*

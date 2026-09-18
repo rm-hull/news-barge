@@ -10,6 +10,10 @@ description: 'Exclusive: Eleven paintings were ‘soaked and sustained significa
   when they were transferred between flights during a rainstorm in Honolulu, according
   to court filings reviewed by The Independent'
 image: https://static.independent.co.uk/2026/09/04/14/59/GettyImages-82798190.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 More than $500,000 worth of artwork destined for an Upstate New York gallery was allegedly ruined when the pieces were transferred between airplanes during a downpour in Hawaii, according to court filings reviewed by *The Independent*.

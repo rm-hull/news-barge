@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Miss Microsoft's old-style chunky white mouse pointer? Weird Windows
   11 bug turns the cursor retro — and it's messing with wallpapers too.
 image: https://cdn.mos.cms.futurecdn.net/C6fPZ2hYUPc6R6cTZMY3pQ-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A woman getting frustrated by her Windows 11 laptop](https://cdn.mos.cms.futurecdn.net/C6fPZ2hYUPc6R6cTZMY3pQ.jpg) 

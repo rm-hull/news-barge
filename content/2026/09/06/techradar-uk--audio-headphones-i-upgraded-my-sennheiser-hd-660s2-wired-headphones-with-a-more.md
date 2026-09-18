@@ -10,6 +10,8 @@ published: '2026-09-06T00:00:00Z'
 description: I complemented my Sennheiser HD 660S2 cans with the excellent iFi Zen
   DAC 3 and found out that not every device benefits from a discrete DAC.
 image: https://cdn.mos.cms.futurecdn.net/Ep37GHh3PJEMcB85vgVy4P-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Sennheiser HD 660S2 leaning against a concrete block next to the iFi Zen DAC 3, with the wire not plugged in.](https://cdn.mos.cms.futurecdn.net/Ep37GHh3PJEMcB85vgVy4P.jpg) 

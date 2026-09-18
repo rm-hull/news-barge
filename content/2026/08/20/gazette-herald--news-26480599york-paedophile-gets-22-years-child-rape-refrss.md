@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: A York paedophile is today starting nearly 23 years in jail for raping
   and sexually abusing a young girl.
 image: https://www.gazetteherald.co.uk/resources/images/21346627.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 *(Image: North Yorkshire Police)*

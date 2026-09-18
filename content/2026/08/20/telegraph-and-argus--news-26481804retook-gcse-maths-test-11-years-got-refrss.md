@@ -9,6 +9,13 @@ published: '2026-08-20T00:00:00Z'
 description: I decided to test just how much of GCSE maths I remember, and retake
   a past paper 11 years on.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21349836.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Newsquest)*

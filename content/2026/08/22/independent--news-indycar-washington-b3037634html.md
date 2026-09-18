@@ -9,6 +9,9 @@ description: Spectators take in the sights and sounds of the IndyCar Freedom 250
   Prix in Washington, where a 1.7-mile street circuit winds through some of the nation’s
   most recognizable landmarks. This is a photo gallery curated by AP photo editors.
 image: https://static.independent.co.uk/2026/08/22/22/APTOPIX_Freedom_25__IndyCar_18943.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Spectators take in the sights and sounds of the IndyCar Freedom 250 Grand Prix in Washington, where a 1.7-mile street circuit winds through some of the nation’s most recognizable landmarks. This is a photo gallery curated by AP photo editors.

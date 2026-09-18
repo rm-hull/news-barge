@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A proposal to turn offices into a pub and hotel at Wynyard Park is being
   considered by Stockton Council.
 image: https://www.thenorthernecho.co.uk/resources/images/21420021.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A proposal to turn offices into a pub and hotel at Wynyard Park is being considered by Stockton Council.

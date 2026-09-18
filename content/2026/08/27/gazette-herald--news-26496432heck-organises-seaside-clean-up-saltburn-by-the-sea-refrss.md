@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: HECK! recently organised a clean-up campaign and removed more than 15
   large bin bags of litter, plastics and other waste from the Yorkshire coast.
 image: https://www.gazetteherald.co.uk/resources/images/21372951.jpg?type=og-image&xType=0&yType=86
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: HECK!)*

@@ -10,6 +10,11 @@ description: A few years ago, plans were put forward to build houses on a sports
   close to where I live, which would have meant the loss of a much-loved green space
   and an end to a programme of activities for children.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhMTU2MzIxLTIwNmUtNDM5Yi1iYTA5LTQzNzQwNTRhOTA2YjoxYTMwYWU5MS1iNzI2LTRiMWItYmFmMC1kZGY2NDA0ZTQwZTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Allowing mayors to overrule councillors on planning decisions would take power away from communities - Andrew Vine

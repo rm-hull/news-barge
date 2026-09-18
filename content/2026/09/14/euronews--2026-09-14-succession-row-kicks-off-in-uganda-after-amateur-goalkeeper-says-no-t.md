@@ -9,6 +9,10 @@ description: The committee's first choice — a non-league goalkeeper from south
   London — declined, citing other responsibilities. His replacement was then rejected
   by the late king's own family, who produced a 2022 will that the committee ignored.
 image: https://images.euronews.com/articles/stories/09/91/18/60/1200x675_cmsv2_dec1b10f-48b8-5909-be34-a557cfa26fa3-9911860.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## The committee's first choice — a non-league goalkeeper from south-east London — declined, citing other responsibilities. His replacement was then rejected by the late king's own family, who produced a 2022 will that the committee ignored.

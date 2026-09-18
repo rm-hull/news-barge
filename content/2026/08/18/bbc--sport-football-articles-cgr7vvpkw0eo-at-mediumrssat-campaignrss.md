@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial
   loan deal with an obligation to buy at the end of the season.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8aec/live/1293ff20-9b1a-11f1-a8a4-83462463c9fa.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 ![Aaron Wan-Bissaka looking across the pitch for West Ham](https://ichef.bbci.co.uk/ace/standard/820/cpsprodpb/8aec/live/1293ff20-9b1a-11f1-a8a4-83462463c9fa.jpg)

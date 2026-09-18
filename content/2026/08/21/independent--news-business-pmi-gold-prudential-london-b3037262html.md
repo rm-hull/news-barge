@@ -7,6 +7,12 @@ scraped_at: '2026-08-21T16:48:30Z'
 published: '2026-08-21T00:00:00Z'
 description: The FTSE 100 index closed up 68.40 points, 0.6%, at 10,816.56.
 image: https://static.independent.co.uk/2026/08/21/17/54d39e4f87c393c8c7f3732f2711572fY29udGVudHNlYXJjaGFwaSwxNzg3NDA4NzMw-2.82985233.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 The FTSE 100 ended the week on a positive note on Friday as data showed the UK private sector speeded up in August and a soaring gold price supported miners.

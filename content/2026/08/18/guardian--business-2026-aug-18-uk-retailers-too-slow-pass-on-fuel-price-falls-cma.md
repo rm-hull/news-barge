@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Competition and Markets Authority raises concerns about ‘passive pricing
   strategies’ used by some petrol stations
 image: https://i.guim.co.uk/img/media/7351982ceb41e323ae5dd4f0884c67dc3d37f991/0_0_3206_2566/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d8f8ba5209c70ce71b68298b1457a9
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Some petrol stations are still not passing on changes in wholesale prices quickly enough and more than 1,000 warning letters have been sent to retailers failing to give prices to the Fuel Finder service, the UK competition watchdog has said.

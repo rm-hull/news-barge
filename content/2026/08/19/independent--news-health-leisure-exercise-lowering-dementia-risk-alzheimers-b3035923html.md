@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Overall, individuals engaging in higher levels of leisure-time physical
   activity had a 24% lower risk of dementia compared with the least active participants
 image: https://static.independent.co.uk/2026/08/19/19/21/iStock-1209895480.jpg?trim=0,7,0,7&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A new study challenges the conception that “every move counts” for brain health after researchers found that the context of physical activity makes a difference in lowering the risk of dementia.

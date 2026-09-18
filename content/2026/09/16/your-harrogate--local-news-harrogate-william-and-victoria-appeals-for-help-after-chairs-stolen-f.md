@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A Harrogate restaurant is appealing for information after eight chairs
   worth £680 were allegedly taken from its premises without permission.
 image: https://mmo.aiircdn.com/409/6aaa3b86e2cbcfb6e76.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa3b86e2cbcfb6e76.jpg) 

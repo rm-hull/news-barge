@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: President previously directed the regulator to go after ABC, which the
   company claims forced it to make programming changes
 image: https://static.independent.co.uk/2026/08/30/15/40/Donald-Trump-Kristen-Welker-Brendan-Carr-split.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump vowed to use the Federal Communications Commission (FCC) as a weapon against NBC News and various polling companies on Sunday as he angrily lashed out at coverage of his declining popularity and political endorsements.

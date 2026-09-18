@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T19:16:37Z'
 published: '2026-09-03T00:00:00Z'
 description: Having a criminal record creates hurdles for people seeking employment
 image: https://static.independent.co.uk/2026/09/03/17/US-Be%20Well-Working%20Well-After%20Incarceration.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
+- Self-Improvement
 ---
 
 Don Christian had never held a regular job when he left prison. A conviction at age 19 for selling drugs kept him confined through young adulthood and into his early 40s.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The fire started late on Friday and continued into the early hours of
   Saturday
 image: https://static.independent.co.uk/2026/09/05/16/2293108685..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 At least 22 people have been killed in a fire at a wedding party in Congo's capital, Kinshasa, the regional mayor stated on Saturday.

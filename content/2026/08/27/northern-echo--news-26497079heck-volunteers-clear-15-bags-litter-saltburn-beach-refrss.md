@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Volunteers joined Yorkshire food company HECK! on Saltburn beach, collecting
   more than 15 bags of litter and waste during a community clean-up event.
 image: https://www.thenorthernecho.co.uk/resources/images/21373913.jpg?type=og-image&xType=0&yType=1061
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Volunteers gathered along the North Yorkshire coast last week to join a community beach clean-up organised by a Yorkshire food company.

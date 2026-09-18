@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Aides to McConnell, 84, reportedly told GOP leadership he will be back
   by Wednesday after he failed to appear for Senate return to D.C.
 image: https://static.independent.co.uk/2026/07/10/09/2275272824..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Mitch McConnell, the former leader of the Republican Senate caucus, was a no-show on Monday as the chamber returned from August recess.

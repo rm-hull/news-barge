@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Yorkshire Water has issued a safety warning for visitors ahead of the
   Bank Holiday weekend.
 image: https://www.yorkpress.co.uk/resources/images/19872984.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Yorkshire Water)*

@@ -7,6 +7,9 @@ scraped_at: '2026-08-27T12:00:48Z'
 published: '2026-08-27T00:00:00Z'
 description: The outbreak has been attributed to a mosquito entering an aircraft
 image: https://static.independent.co.uk/2026/04/14/15/2270687922.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two employees at Frankfurt Airport have died after contracting malaria, according to airport operator Fraport and local public health authorities.

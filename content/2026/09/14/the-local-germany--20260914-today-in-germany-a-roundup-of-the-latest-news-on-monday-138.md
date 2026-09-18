@@ -9,6 +9,10 @@ description: CDU holds off rivals in Lower Saxony district elections, German hom
   falls to 20-year low, Chancellor Merz travels to Finland for arctic security talks
   and more news on Monday, September 14th.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-619044052.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
 ---
 
 **Monday's top story: CDU holds off rivals in Lower Saxony district elections**

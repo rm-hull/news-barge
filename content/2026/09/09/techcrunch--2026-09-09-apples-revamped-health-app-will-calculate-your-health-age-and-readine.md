@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: The update uses Apple Intelligence to make better sense of your health
   data.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 Alongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app that takes advantage of Apple Intelligence to make better sense of your health data. The changes deliver a new Insights tab that includes a summary of the most timely information, plus personalized guidance, assessments, a new “readiness” score, and a computation of your “Health Age.”

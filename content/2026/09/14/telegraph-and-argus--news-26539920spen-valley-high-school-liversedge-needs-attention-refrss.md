@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: A West Yorkshire secondary school has been rated as "needs attention"
   in a recent Ofsted inspection.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12646520.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 A West Yorkshire secondary school has been rated as "needs attention" in a recent Ofsted inspection.

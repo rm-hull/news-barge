@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: An inquest has opened into the death of a man who died in a crash on
   a major Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21321956.jpg?type=og-image&xType=0&yType=21
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Donkey named HeeHaw was shot and killed as authorities reportedly looked
   on property in search of a missing person
 image: https://i.guim.co.uk/img/media/d555b0739208b1fd0cd0927bfc3bc7209bc2b5c3/0_607_1242_993/master/1242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef2167bfc8f56d8f92de9306c7af0029
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 A police officer in the US state of Georgia was placed on leave after a family’s pet baby donkey was shot and killed during an early-morning search on their property.

@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Two of the North East's most celebrated footballers have been named among
   Britain's greatest female role models in a new nationwide poll.
 image: https://www.thenorthernecho.co.uk/resources/images/20990300.jpg?type=og-image&xType=0&yType=533
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Sports
 ---
 
 Two of the North East's most celebrated footballers have been named among Britain's greatest female role models in a new nationwide poll.

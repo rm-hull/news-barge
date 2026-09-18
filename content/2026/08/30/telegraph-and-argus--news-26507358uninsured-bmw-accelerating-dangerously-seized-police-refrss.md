@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A driver has been reported to court after being stopped by police in
   Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21389241.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: WYP)*

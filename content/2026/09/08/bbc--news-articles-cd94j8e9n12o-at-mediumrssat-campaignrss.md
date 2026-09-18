@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The upheaval in the military could shape the legacy of Trump's second
   term, writes the BBC's Tom Bateman.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f3/live/80b86570-ab8e-11f1-aa04-efbf6a882854.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Image shows Pete Hegseth](https://ichef.bbci.co.uk/ace/standard/910/cpsprodpb/16f3/live/80b86570-ab8e-11f1-aa04-efbf6a882854.jpg)

@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: CIA declassifies presidential briefings that trace al-Qaeda threats to
   hijack plans and target US cities before 9/11
 image: https://static.independent.co.uk/2026/09/08/21/1161273..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The CIA has released more than 100 pages of declassified briefings provided to U.S. presidents in the years before the terror attacks on September 11, 2001, marking what the agency is calling its largest-ever disclosure of intelligence about Osama Bin Laden and events leading up to the attacks over the last 25 years.

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: AN historic church is opening its doors for Heritage Open Days, offering
   a chance to explore centuries of spiritual history.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21420935.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: The council has defended its pedestrian-friendly transport policies following
   claims of roadworks driving shoppers away from the city.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmYyMWQyNzkyLTQ5MmYtNGFjNC04NjE0LTE5OWI3Mjc4OTNiMzphZjJkOGZlOC1hYjZhLTQ2NmQtOWY4Ny00NzA2MjUxYzZmMDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Council defends changes to city centre roads

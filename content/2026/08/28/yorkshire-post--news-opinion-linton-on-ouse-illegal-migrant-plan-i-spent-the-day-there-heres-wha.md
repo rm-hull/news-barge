@@ -12,6 +12,11 @@ description: Meandering, as you do, towards the lovely little village of Linton-
   to speak of; narrower than it ought to be and with grass verges either side that
   are probably tended to more by the farmers themselves than any council bods.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjgwNGYzMzg2LTU2OTYtNDU4Zi04MTA2LWEzZTI4OTc3MmQ2NzpjYjYwM2I1Ni1hYjY5LTQzMGQtYjAyMS00MWQ2N2M5OTc2MTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Linton-on-Ouse - illegal migrant plan: 'I spent the day there - here's what I discovered'

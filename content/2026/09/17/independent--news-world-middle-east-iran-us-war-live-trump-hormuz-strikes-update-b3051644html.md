@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: UN mission also accuses Iran of crimes against humanity during its anti-government
   protest crackdown
 image: https://static.independent.co.uk/2026/09/17/11/2289253962..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A UN fact-finding mission to Iran says it has reasonable grounds to believe US forces carried out two strikes in February that amounted to war crimes.

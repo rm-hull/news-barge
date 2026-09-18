@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The York 50+ Festival, celebrating age, joy, and connection, will return
   to York this autumn.
 image: https://www.yorkpress.co.uk/resources/images/21436688.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Popular York 50+ Festival returns with packed programme this October

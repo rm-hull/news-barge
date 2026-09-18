@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Clancy, 36, a former labor and delivery nurse, is charged in the 2023
   deaths of her three young children at the family's home in Duxbury
 image: https://static.the-independent.com/2026/09/01/05/Lindsay_Clancy_Trial_61456.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Jurors deciding the fate of Lindsay Clancy will return Tuesday for a fourth day of deliberations in her Massachusetts murder trial, with no indication yet of whether they are nearing a verdict.

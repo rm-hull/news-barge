@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T21:28:41Z'
 published: '2026-08-31T00:00:00Z'
 description: A man is in hospital with knife wounds after being 'attacked' in Dormanstown.
 image: https://www.thenorthernecho.co.uk/resources/images/11948501.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NORTHERN ECHO)*

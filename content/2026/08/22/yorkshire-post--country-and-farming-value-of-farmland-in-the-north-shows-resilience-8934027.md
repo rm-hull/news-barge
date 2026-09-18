@@ -9,6 +9,11 @@ description: Farmland values in the North of England have continued to demonstra
   resilience during the first half of the year, despite fewer acres coming to the
   market and ongoing challenges facing the farming sector.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZhNWQ2OTZmLWE2YTUtNGEwYS05ZDNmLTY0MTJiZTQ1OTEwYTo0NTM1NjgxOC02ZDdlLTQyMjYtOTc1YS00NTE2YTk0ZTQwZjk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Value of farmland in the North shows resilience

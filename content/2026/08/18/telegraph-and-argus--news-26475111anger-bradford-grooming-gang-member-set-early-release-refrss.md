@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A Bradford woman has spoken of her anger and disappointment after learning
   one of the men convicted of abusing her as a child is set to be released…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21337232.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 A Bradford woman has spoken of her anger and disappointment after learning one of the men convicted of abusing her as a child is set to be released from prison after serving half of his sentence.

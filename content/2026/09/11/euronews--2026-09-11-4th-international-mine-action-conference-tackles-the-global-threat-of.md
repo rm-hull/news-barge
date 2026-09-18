@@ -10,6 +10,10 @@ description: 'The 4th International Mine Action Conference examined the challeng
   focusing on demining, reconstruction, international cooperation and shared expertise.
   #Focus'
 image: https://images.euronews.com/articles/stories/09/88/66/44/1200x675_cmsv2_0bd779f6-8ba0-5d80-b8f9-df1338202484-9886644.jpg
+categories:
+- Europe
+- News & Politics
+- Careers & Productivity
 ---
 
 **Euronews**

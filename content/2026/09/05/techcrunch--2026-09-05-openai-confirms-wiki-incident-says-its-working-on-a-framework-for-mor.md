@@ -9,6 +9,9 @@ published: '2026-09-05T00:00:00Z'
 description: OpenAI acknowledged its role in a recently reported incident where AI
   agents took over a German wiki forum.
 image: https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 OpenAI has acknowledged its role in a recently reported incident where AI agents took over a German wiki forum. The company also said it’s “past time” to “define standards” around how it shares information around incidents where its technology behaves in unexpected ways.

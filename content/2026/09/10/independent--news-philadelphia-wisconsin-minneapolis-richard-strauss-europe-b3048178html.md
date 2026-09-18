@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Brenda Rae has stepped in as the lead soprano in Mozart’s “Mitridate”
   at Opera Philadelphia's opening night
 image: https://static.independent.co.uk/2026/09/10/18/Opera_Philadelphia_91761.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Food & Cooking
 ---
 
 Brenda Rae was driving with her husband and children from their home in Minneapolis to visit her father in Appleton, Wisconsin, last Thursday night when her phone rang with an intriguing offer: Could she travel ASAP and take over the lead soprano role in Mozart’s “Mitridate” at Opera Philadelphia's opening night?

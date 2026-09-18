@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Soanes Poultry, in Middleton on the Wolds, is celebrating a successful
   year-long business partnership with Slimming World Kitchen.
 image: https://www.gazetteherald.co.uk/resources/images/21429793.jpg?type=og-image&xType=0&yType=344
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

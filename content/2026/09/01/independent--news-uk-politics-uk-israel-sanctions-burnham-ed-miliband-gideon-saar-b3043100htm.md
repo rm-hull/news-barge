@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Ed Miliband’s Israeli counterpart Gideon Saar said his country’s government
   was likely to act in response to UK sanctions
 image: https://static.independent.co.uk/2026/08/20/14/2288201878..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israel has warned that it will respond in kind should the UK enforce sanctions over plans to enlarge illegal settlements in the West Bank.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: Once-rival criminal groups are being forced to work together because
   of a shortage of small boats, a BBC investigation has found.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2bb1/live/cf1e6580-a764-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 The BBC watched groups of migrants boarding an inflatable dinghy on the Gravelines beach in northern France

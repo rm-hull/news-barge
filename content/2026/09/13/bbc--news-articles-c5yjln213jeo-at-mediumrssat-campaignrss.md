@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Anti-migrant demonstrators marched in Portsmouth on Saturday, and a counter-protest
   was also held.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9ff/live/0c0d65e0-af5d-11f1-8b54-ef4b26bcf610.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Protesters holding 'Stop the far right' posters with anti-migrant protesters waving St George and union flags on the steps beyond a line of police](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/f9ff/live/0c0d65e0-af5d-11f1-8b54-ef4b26bcf610.png)

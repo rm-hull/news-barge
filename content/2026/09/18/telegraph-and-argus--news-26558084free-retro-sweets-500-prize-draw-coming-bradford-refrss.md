@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: THOUSANDS of free sweets and a chance to win £500 are up for grabs at
   webuyanycar branches across West Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464530.jpg?type=og-image&xType=0&yType=1204
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: webuyanycar)*

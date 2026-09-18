@@ -8,6 +8,12 @@ published: '2026-08-21T00:00:00Z'
 description: A celebrated folk artist will take to the stage in Settle later this
   month.
 image: https://www.thenorthernecho.co.uk/resources/images/21356961.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: Agency)*

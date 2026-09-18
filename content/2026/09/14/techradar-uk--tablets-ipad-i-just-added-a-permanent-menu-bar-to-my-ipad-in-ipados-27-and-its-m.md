@@ -9,6 +9,8 @@ published: '2026-09-14T00:00:00Z'
 description: I just discovered an iPadOS 27 setting that's changed the way I use my
   iPad.
 image: https://cdn.mos.cms.futurecdn.net/dFSa8b6RpGUiG2pQwqpi9M-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![An iPad displaying iPadOS 27 laying on a desk](https://cdn.mos.cms.futurecdn.net/dFSa8b6RpGUiG2pQwqpi9M.jpg) 

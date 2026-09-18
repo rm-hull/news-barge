@@ -7,6 +7,10 @@ scraped_at: '2026-08-26T13:12:14Z'
 published: '2026-08-26T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/06/north-yorkshire-firefighter-fb.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 There’s a cordon in place on a York street as firefighters tackle a fire this afternoon (Wednesday).

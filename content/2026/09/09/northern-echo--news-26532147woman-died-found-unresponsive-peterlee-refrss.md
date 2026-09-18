@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman died after being found unresponsive on a grass verge in a County
   Durham town, an inquest has heard.
 image: https://www.thenorthernecho.co.uk/resources/images/21042933.jpg?type=og-image&xType=0&yType=256
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A woman died after being found unresponsive on a grass verge in a County Durham town, an inquest has heard.

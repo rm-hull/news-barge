@@ -8,6 +8,9 @@ scraped_at: '2026-09-03T19:17:36Z'
 published: '2026-09-03T00:00:00Z'
 description: tool uses spare cycles to keep agent swarms from hammering one GPU
 image: https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A depiction of an Nvida PAIR network](https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC.jpg) 

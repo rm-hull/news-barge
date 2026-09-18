@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: BBC's Middle East correspondent Lucy Williamson reports from an area
   close to Israel's proposed site in the occupied West Bank.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/794d/live/60f7daa0-ab9c-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 # Where is Israel's proposed West Bank settlement the UK opposes?

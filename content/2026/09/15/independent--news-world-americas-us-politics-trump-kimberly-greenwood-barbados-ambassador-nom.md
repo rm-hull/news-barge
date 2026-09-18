@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Kimberly Greenwood was among a list of nominees the Trump administration
   sent to the U.S. Senate for confirmation
 image: https://static.independent.co.uk/2026/09/15/09/2294604860..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump on Monday nominated Kimberly Greenwood, the wife of "God Bless the USA" singer Lee Greenwood, to serve as the U.S. ambassador to Barbados and the Eastern Caribbean.

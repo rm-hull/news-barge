@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The move will trigger a by-election to replace the former prime minister
   in his London constituency.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![Sir Keir Starmer, wearing a black and white suit.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png)

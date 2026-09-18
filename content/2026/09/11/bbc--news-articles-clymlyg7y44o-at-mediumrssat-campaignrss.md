@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Police say the three people have been taken to hospital for treatment,
   with the fair shut for the evening.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b7/live/f54f08a0-ae20-11f1-ac3c-d9de82cf7bb1.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Society & Culture
 ---
 
 ![A police car parks in front of a fairground scene at night.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/68b7/live/f54f08a0-ae20-11f1-ac3c-d9de82cf7bb1.jpg)

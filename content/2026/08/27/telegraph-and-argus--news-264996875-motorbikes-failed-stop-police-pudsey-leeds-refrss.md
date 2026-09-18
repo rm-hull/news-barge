@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Police are appealing for information after five motorbikes failed to
   stop for officers during a patrol in Pudsey.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21377839.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: WYP)*

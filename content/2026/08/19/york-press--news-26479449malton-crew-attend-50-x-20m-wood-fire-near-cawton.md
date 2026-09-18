@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:20Z'
 published: '2026-08-19T00:00:00Z'
 description: A crew is dealing with a wood fire in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/12541448.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

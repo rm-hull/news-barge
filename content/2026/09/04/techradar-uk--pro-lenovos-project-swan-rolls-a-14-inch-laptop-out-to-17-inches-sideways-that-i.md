@@ -10,6 +10,8 @@ description: Lenovo's Project Swan rolls a 14-inch laptop out to 17 inches sidew
   at 1.6kg, which is considerably lighter than carrying a laptop plus a portable monitor,
   but there is no price tag in tow
 image: https://cdn.mos.cms.futurecdn.net/5S8WKzLAtBk3chG6vTSzX5-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A render of Lenovo's Project Swan concept](https://cdn.mos.cms.futurecdn.net/5S8WKzLAtBk3chG6vTSzX5.jpg) 

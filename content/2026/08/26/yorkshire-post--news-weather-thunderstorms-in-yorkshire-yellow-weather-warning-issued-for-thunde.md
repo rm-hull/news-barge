@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: The Met Office has issued a yellow weather warning for thunderstorms
   across the region this week.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0ZDRiMmVlLWQzODUtNGZkOC1iMzRhLWMyNWEwYTEzYWI2NjpjZTE2Njg5ZC03NWE3LTQ4Y2UtODkzYi01NGI0Yjk5OTZmYmY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Thunderstorms in Yorkshire: Yellow weather warning issued for thundery rain this week in Leeds, York, Sheffield, Bradford, Hull and Harrogate

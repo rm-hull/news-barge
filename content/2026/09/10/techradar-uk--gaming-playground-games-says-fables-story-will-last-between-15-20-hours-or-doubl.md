@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: Playground Games has confirmed that Fable's main story will take up to
   20 hours to beat, but promises the game's life systems offer "limitless" replayability.
 image: https://cdn.mos.cms.futurecdn.net/egwzF8mfWzKuyXGW3q4jaK-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Fable](https://cdn.mos.cms.futurecdn.net/egwzF8mfWzKuyXGW3q4jaK.jpg) 

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Pre-inquest conference into Queensland deaths hears witnesses did not
   hear any smoke alarms during 2023 fire
 image: https://i.guim.co.uk/img/media/c5911dcff312f20d52a1100a6d71f7cdea565ab9/428_0_3134_2508/master/3134.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75d761e0b4e25f61ae06475c7c981227
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A landlord was repeatedly warned about improperly installed smoke alarms before a house fire that killed a father and five children in Queensland in 2023, a coroner has heard.

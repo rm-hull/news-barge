@@ -9,6 +9,12 @@ published: '2026-08-21T00:00:00Z'
 description: Campaigners have described the treatment of victims and survivors of
   terrorism as a "national scandal" as the UK marked its first…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21068302.jpg?type=og-image&yType=457
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: Supplied)*

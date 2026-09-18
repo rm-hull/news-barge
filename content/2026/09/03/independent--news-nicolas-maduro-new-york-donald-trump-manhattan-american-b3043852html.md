@@ -10,6 +10,10 @@ description: Former Venezuelan President Nicolás Maduro and his wife have asked
   judge to dismiss the drug trafficking indictment against them on the grounds that
   they have immunity as the leader and first lady of a foreign country
 image: https://static.independent.co.uk/2026/09/03/04/Venezuela_Maduro_3646_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Former Venezuelan President Nicolás Maduro and his wife asked a judge on Wednesday to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady of a foreign country.

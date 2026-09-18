@@ -8,6 +8,13 @@ published: '2026-08-30T00:00:00Z'
 description: York has lost more than a few places for coffee and cake over the years
   - we look back on seven we still miss today.
 image: https://www.gazetteherald.co.uk/resources/images/21379518.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
+- Travel
+- Lifestyle & Fashion
 ---
 
 York has lost more than a few places for coffee and cake over the years.

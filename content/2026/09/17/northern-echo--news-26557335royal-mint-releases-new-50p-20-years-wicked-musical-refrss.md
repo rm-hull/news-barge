@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Launched today (September 17), the coin marks two decades since the show
   opened at London’s Apollo Victoria Theatre in September 2006.
 image: https://www.thenorthernecho.co.uk/resources/images/21464150.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images/iStockphoto)*

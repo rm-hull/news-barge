@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: RYANAIR has revealed its top three travel hotspots for British holidaymakers
   this summer
 image: https://www.thetelegraphandargus.co.uk/resources/images/20305376.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
+- Travel
 ---
 
 *(Image: Newsquest)*

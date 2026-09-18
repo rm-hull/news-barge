@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Congo government figures show that the fastest-growing Ebola outbreak
   in history has spread to two new health zones in eastern Congo
 image: https://static.independent.co.uk/2026/08/28/11/Congo_Ebola_Vaccination_371_3.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ebola outbreak in eastern Congo spreads to 2 new health zones with a total of 60 areas now affected

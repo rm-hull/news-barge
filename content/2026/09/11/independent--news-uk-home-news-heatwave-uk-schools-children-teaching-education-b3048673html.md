@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Extreme temperatures this summer forced hundreds of UK schools to shut
   early or close entirely
 image: https://static.independent.co.uk/2026/09/11/14/2292525936..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Schoolchildren across England and Wales lost more than 15 million hours of teaching time during June's heatwave, according to new research.

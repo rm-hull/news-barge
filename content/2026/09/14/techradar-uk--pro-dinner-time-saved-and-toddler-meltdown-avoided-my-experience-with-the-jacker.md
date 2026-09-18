@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: The Jackery 2000 v2 wasn’t the hero I expected, but it was the one I
   needed. This portable power station proved to be my home backup life-saver.
 image: https://cdn.mos.cms.futurecdn.net/jYhNKT6ajnVT9GYqsMcAMJ-1920-80.png
+categories:
+- Technology & Software
+- History
 ---
 
 ![A Jackery 2000 V2 powering a Ninja air fryer in the kitchen](https://cdn.mos.cms.futurecdn.net/jYhNKT6ajnVT9GYqsMcAMJ.png) 

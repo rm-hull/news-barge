@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Shadwell Towers, located on Western Terrace in East Boldon, was originally
   constructed in 1901 and has undergone extensive renovations in its…
 image: https://www.thenorthernecho.co.uk/resources/images/21356495.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A million-pound Edwardian house boasting a range of features has gone up for sale.

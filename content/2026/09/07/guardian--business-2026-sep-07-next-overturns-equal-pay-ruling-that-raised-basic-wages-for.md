@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: Retailer wins appeal against 2024 decision forcing it to pay shop workers
   the same as warehouse employees
 image: https://i.guim.co.uk/img/media/870a9718f6f20f526c2a68c4b17bda629cc41a03/828_330_3853_3085/master/3853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9807c9c94cae2cf8881de87e7fda7d3b
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The UK retailer Next has overturned a 2024 court ruling forcing it to pay its shop staff the same higher basic pay rates as its warehouse workers under equal pay rules.

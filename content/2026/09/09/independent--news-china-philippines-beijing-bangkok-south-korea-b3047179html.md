@@ -9,6 +9,10 @@ description: China is accusing the Philippines of “stirring up trouble” afte
   Defense Minister Gilberto Teodoro Jr. sharply criticized Beijing’s actions in the
   South China Sea
 image: https://static.independent.co.uk/2026/09/09/11/China_Philippines__11_9.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 China on Wednesday accused the Philippines of “stirring up trouble” after harsh words from Philippines Defense Minister Gilberto Teodoro Jr. over Beijing's increasingly aggressive pursuit of maritime claims in the South China Sea.

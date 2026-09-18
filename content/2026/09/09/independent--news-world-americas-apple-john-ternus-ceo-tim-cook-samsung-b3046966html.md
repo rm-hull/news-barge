@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Apple is unveiling its latest generation of iPhones on Wednesday at an
   event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1
 image: https://static.independent.co.uk/2026/09/02/15/Apple_Lake_Ontario__246.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Apple is unveiling its latest generation of iPhones, widely expected to include a foldable version, on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1.

@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Press readers are saddened that the old WH Smith – now TG Jones – will
   be going from Coney Street in York, along with the Post Office
 image: https://www.yorkpress.co.uk/resources/images/20322609.jpg?type=og-image
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 **'Such a shame we are losing York's old WH Smith for good'**

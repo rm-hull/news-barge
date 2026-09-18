@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A North East community has rallied behind a campaign to protect a treasured
   estate for wildlife, with businesses and residents helping to raise…
 image: https://www.thenorthernecho.co.uk/resources/images/21363952.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A North East community has rallied behind a campaign to protect a treasured estate for wildlife, with businesses and residents helping to raise funds for an ambitious conservation project.

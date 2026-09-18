@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Greggs has offered customers insurance when trying its new Steak and
   Stilton Bake, meaning they can get a regular Steak Bake for free
 image: https://www.thenorthernecho.co.uk/resources/images/21403316.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

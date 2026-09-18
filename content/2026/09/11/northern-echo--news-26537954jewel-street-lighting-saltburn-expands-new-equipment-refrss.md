@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Jewel Street Lighting, based in Saltburn, has now expanded its operations
   with a grant from the Tees Valley Rural Prosperity Fund.
 image: https://www.thenorthernecho.co.uk/resources/images/21433857.jpg?type=og-image&xType=0&yType=382
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A vintage lighting business is shining brighter thanks to a new kiln and cutter.

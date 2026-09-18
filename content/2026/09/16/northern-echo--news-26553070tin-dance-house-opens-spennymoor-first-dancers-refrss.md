@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A County Durham arts charity has welcomed its first dancers to a new
   purpose-built centre after months of fundraising and preparation.
 image: https://www.thenorthernecho.co.uk/resources/images/21459677.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A County Durham arts charity has welcomed its first dancers to a new purpose-built centre after months of fundraising and preparation.

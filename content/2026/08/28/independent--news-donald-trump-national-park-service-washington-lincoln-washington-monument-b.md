@@ -10,6 +10,10 @@ description: A new National Park Service report backs President Donald Trump’s
   arch, despite what it says are adverse effects to a host of Washington’s iconic
   landmarks, including the Washington Monument and Lincoln and Jefferson memorials
 image: https://static.independent.co.uk/2026/08/28/21/Trump_39964.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A new National Park Service report backs President Donald Trump’s proposed arch, despite what it says are adverse effects to the sightline between a host of iconic landmarks in Washington, including the Washington Monument and Lincoln and Jefferson memorials.

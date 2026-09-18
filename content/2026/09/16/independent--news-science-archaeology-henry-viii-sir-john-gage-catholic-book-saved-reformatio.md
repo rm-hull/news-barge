@@ -9,6 +9,11 @@ description: New research suggests Sir John Gage, who remained a Catholic throug
   the Reformation, shielded a manuscript of Nicholas Love’s early 15th-century Mirror
   Of The Blessed Life Of Jesus Christ
 image: https://static.independent.co.uk/2026/09/16/16/01M2MD5975B48PZHN3ARAV7SB0.jpg?trim=28,0,28,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Arts & Culture
 ---
 
 A key enforcer for Henry VIII secretly saved a Catholic book he was tasked with destroying, a study has found.

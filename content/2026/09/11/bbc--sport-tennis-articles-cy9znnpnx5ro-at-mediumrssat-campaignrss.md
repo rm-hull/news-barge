@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka
   in a blockbuster US Open final between the tournament's top two seeds.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1a29/live/8b846990-ad91-11f1-bee3-b1eaca1dd464.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Elena Rybakina waves to the crowd](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1a29/live/8b846990-ad91-11f1-bee3-b1eaca1dd464.jpg)

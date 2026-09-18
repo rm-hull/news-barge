@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Anna from York has been named this year’s winner of the Great British
   Sewing Bee.
 image: https://www.yorkpress.co.uk/resources/images/21461729.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## 'She has a very rare gift' - Anna from York wins the Great British Sewing Bee

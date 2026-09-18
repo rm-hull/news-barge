@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: President Trump had sought to move his state court conviction to a federal
   jurisdiction, though a judge has blocked that effort
 image: https://static.independent.co.uk/2026/08/15/14/34/GettyImages-2153885619.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump’s latest effort to get his 34-count criminal conviction tossed again failed Friday when a judge blocked his bid to move the case to a federal court.

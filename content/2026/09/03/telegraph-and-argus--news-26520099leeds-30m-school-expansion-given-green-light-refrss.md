@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Planning permission for a £30m expansion of Broomfield SILC (specialist
   inclusive learning centre) in Belle Isle has been approved by Leeds City…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407878.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Norse Group)*

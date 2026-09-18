@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The 70m (230ft) tapestry, which tells the story of the Norman Conquest
   and the Battle of Hastings in 1066, will be on display the British Museum.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b8/live/51004800-a6f4-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 # What famous scenes are in the epic Bayeux Tapestry?

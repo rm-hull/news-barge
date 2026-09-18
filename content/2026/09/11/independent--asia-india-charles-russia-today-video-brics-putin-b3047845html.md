@@ -9,6 +9,9 @@ description: Reporters Without Borders (RSF) says RT's expansion in India risks 
   disinformation being spread in the country as a propaganda mouthpiece for Vladimir
   Putin
 image: https://static.independent.co.uk/2026/09/01/08/2292363157..?trim=0,54,0,54&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 With Vladimir Putin arriving in India this week for a summit of emerging economies, the Russian state broadcaster RT has launched its first Hindi language channel, underscoring the growing relationship between New Delhi and Moscow, despite mounting Western scrutiny due to Russia’s ongoing invasion of Ukraine.

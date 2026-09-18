@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Scores of visitors have climbed Yr Wyddfa this summer, with some facing
   long waits at the top.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb76/live/4e07d6f0-a36f-11f1-9433-9349800bd218.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Helen has a neutral expression as she takes a selfie overlooking the summit of Yr Wyddfa](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/eb76/live/4e07d6f0-a36f-11f1-9433-9349800bd218.jpg)

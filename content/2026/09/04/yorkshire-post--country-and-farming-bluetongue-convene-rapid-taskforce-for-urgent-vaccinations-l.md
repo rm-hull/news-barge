@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: The calls come with at least 825 confirmed cases of bluetongue and more
   than 2,400 suspected cases, which are waiting for test results to come back.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/13/40/GettyImages-2229093944.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Bluetongue: convene rapid taskforce for urgent vaccination programme, Lib Dems say

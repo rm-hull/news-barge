@@ -9,6 +9,9 @@ description: 'Ulrich Siegmund is the AfD''s leading figure in Saxony-Anhalt: 35,
   and aiming to be minister-president. At the next state election he wants to lead
   his party into government. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/26/38/1200x675_cmsv2_b265eaeb-163f-5cad-9fc8-c91304603d7b-9902638.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Ulrich Siegmund is the AfD's leading figure in Saxony-Anhalt: 35, media-savvy and aiming to be minister-president. At the next state election he wants to lead his party into government.

@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Seven protesters who blocked traffic on the Golden Gate Bridge in a dramatic
   protest against the war on Gaza have received 30-day sentences and $1,000 fines
 image: https://static.independent.co.uk/2026/08/26/14/Israel_Palestinians_Protests_Charges__146_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A two-year legal battle over a dramatic protest against the war on Gaza came to an end on Friday as seven protesters who’d blocked traffic on the Golden Gate Bridge received 30-day sentences and $1,000 fines.

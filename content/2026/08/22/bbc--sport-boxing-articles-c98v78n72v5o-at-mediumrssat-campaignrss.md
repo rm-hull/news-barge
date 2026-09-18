@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Zolani Tete, a former WBO bantamweight and IBF super-flyweight world
   champion, has been shot dead outside his home in South Africa.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be75/live/7a6055a0-9df8-11f1-898b-91bf436c749f.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Zolani Tete with his world titles wraped around his waist and on his arms](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/be75/live/7a6055a0-9df8-11f1-898b-91bf436c749f.jpg)

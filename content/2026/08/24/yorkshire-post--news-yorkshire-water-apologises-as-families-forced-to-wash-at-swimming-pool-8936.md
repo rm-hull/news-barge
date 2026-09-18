@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Amid the recent sweltering weather, households in Marton-cum-Grafton
   were without water due to burst mains as part of infrastructure work.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/29/17/49/WhatsApp-Image-2026-07-29-at-15-35-30.jpeg?trim=133,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Yorkshire Water apologises after families forced to wash in swimming pool changing rooms due to water shortages

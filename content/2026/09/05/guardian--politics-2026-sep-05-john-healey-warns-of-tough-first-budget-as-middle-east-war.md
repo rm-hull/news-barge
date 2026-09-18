@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: Chancellor says he wants to ensure country has ‘buffer’ against uncertainty
   as global bond yields hit 18-year high
 image: https://i.guim.co.uk/img/media/feb9c88177581160f921205e47175bc1ec1ef119/862_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c1aea7d226b7f9e30657cd325145f4d
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East.

@@ -9,6 +9,11 @@ description: The heavy downpours that have caused flash flooding will ease durin
   Friday with sunshine returning for the weekend. But there are some chilly nights
   in store, as Ben Rich explains.
 image: https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/b373/live/5f8e3620-9cc2-11f1-a9cd-fd8bcb95d396.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- Lifestyle & Fashion
 ---
 
 ![People hold umbrellas as they walk across Trafalgar Square during a heavy rain shower on August 20, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b373/live/5f8e3620-9cc2-11f1-a9cd-fd8bcb95d396.jpg)

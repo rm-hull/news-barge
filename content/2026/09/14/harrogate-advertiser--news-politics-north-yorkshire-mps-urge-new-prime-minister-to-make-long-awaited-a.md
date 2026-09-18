@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Four North Yorkshire MPs have called on new Prime Minister Andy Burnham
   to make the long-awaited dualling of the A64 a priority for his government.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA3YmQwODAyLTgwMDItNDljMS04MTA5LTNiYTg5OWY5MzVmYTplMWMyYmM5ZS0yMzIwLTRhNmUtYmRlMy1lNjI5MDU0ZjExZmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # North Yorkshire MPs urge new Prime Minister to make long-awaited A64 dualling a priority

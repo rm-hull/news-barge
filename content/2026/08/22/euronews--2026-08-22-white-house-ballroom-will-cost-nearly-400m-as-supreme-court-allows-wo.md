@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: US President Donald Trump says the project is being funded by private
   donors and companies.
 image: https://images.euronews.com/articles/stories/09/88/45/55/1200x675_cmsv2_13100320-9998-59c0-9684-bdebc06129de-9884555.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## US President Donald Trump says the project is being funded by private donors and companies.

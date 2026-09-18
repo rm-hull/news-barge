@@ -11,6 +11,12 @@ description: We have become used to talking about children and screens as though
   They would rather play videogames than go outside. They need persuading away from
   screens and back into the real world.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU4ZTYwNzZmLTljZDYtNDUzZi1iMzM0LTllNThkYWQyOWQ5NTo5N2U5OWM5OC02NTE4LTQzZDEtYWJkOC1jZmFiNGQxYzFmZTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
+- Society & Culture
 ---
 
 # Technology hasn’t replaced children’s experience, it’s given them another way to look at it - Dr Becky Parry

@@ -8,6 +8,9 @@ published: '2026-09-04T00:00:00Z'
 description: All the ways to watch FIBA Women's Basketball World Cup 2026 live streams
   online – including for FREE – with all eyes on Caitlin Clark and Angel Reese.
 image: https://cdn.mos.cms.futurecdn.net/M7TSmrfeSVziKCJLrkF4x-1920-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Caitlin Clark celebrating](https://cdn.mos.cms.futurecdn.net/M7TSmrfeSVziKCJLrkF4x.jpg) 

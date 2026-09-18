@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A legendary singer-songwriter, her music covered themes around love,
   loss, female empowerment and spirituality.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f957/live/766ca5e0-43a6-11f1-9b98-5f1154df905f.jpg
+categories:
+- UK
+- News & Politics
+- Music
+- Arts & Culture
 ---
 
 Watch: "We used flour for powder" - Dolly reflects on early life in 1979 BBC interview

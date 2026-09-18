@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A motorcyclist was seen attempting to get off a moving Honda travelling
   at around 30mph before crashing into a wall and running from the scene,…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21396381.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: West Yorkshire Police)*

@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: We called the Sihoo Doro C300 Pro V2 ergonomic office chair 'robust'
   and 'comfortable', with adaptive lumbar support, a 135-degree recline and 8D armrests.
 image: https://cdn.mos.cms.futurecdn.net/QG2izsbjsxyxkSop6B3Pp6-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Sihoo Doro C300 Pro V2](https://cdn.mos.cms.futurecdn.net/QG2izsbjsxyxkSop6B3Pp6.jpg) 

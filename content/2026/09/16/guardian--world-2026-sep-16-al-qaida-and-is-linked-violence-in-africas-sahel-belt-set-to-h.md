@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: Twenty-five years after 9/11, figures compiled by conflict monitor underline
   how Sahel region has become centre of Islamist terror
 image: https://i.guim.co.uk/img/media/ae8ef3ee8ee497c75c7228a57a2992c7f5140ec8/187_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2afb34a06ccc8e849323fd08774332de
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping offensives by groups linked to al-Qaida and Islamic State, according to new figures compiled by the conflict monitor Acled.

@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Council has been called on to show evidence of cost savings
   resulting from its controversial home-to-school transport changes as…
 image: https://www.thenorthernecho.co.uk/resources/images/21095264.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 North Yorkshire Council has been called on to show evidence of cost savings resulting from its controversial home-to-school transport changes as Reform say they will cancel the policy if they get chance.

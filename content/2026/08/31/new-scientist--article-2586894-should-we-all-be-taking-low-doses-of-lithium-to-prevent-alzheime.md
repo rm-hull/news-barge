@@ -10,6 +10,10 @@ description: Animal studies have shown that lithium orotate could help stave off
   and a human trial is about to start to see if the effects hold. Columnist Alice
   Klein takes a look at the benefits and downsides of lithium
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676623.jpg
+categories:
+- Science
+- Technology & Software
+- Health & Fitness
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676623.jpg?w=840)

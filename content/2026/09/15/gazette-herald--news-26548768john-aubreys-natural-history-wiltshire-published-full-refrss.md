@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A 17th-century manuscript never before published in full is finally being
   published in full.
 image: https://www.gazetteherald.co.uk/resources/images/21452992.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A 17th-century manuscript never before published in full is finally being published in full.

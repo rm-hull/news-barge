@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Most economists think the Bank’s Monetary Policy Committee (MPC) will
   opt to keep interest rates unchanged at its next meeting on Thursday.
 image: https://static.independent.co.uk/2026/01/27/00/26160439-1ca94d76-8269-46aa-8f35-27aa22066057.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Bank of England is expected to hold interest rates at 3.75% but economists have warned that pressure to hike rates is mounting as inflation rises.

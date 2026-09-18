@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Joel Shapiro’s towering piece is the latest target for elimination on
   the venue’s grounds, which are set to be renamed after the president
 image: https://static.independent.co.uk/2026/09/02/14/2026-09-02T123225Z_1276003935_RC20BNAJ9OML_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A towering stick-man sculpture on the Kennedy Center’s grounds is being removed as the venue’s Donald Trump-dominated board begins a massive renovation project at the president’s direction.

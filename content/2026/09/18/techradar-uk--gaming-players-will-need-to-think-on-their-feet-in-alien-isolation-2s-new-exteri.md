@@ -12,6 +12,8 @@ description: 'Alien: Isolation 2''s exterior setting will increase both tension 
   danger, and players will need to adapt to the new environment, as the Xenomorph
   does.'
 image: https://cdn.mos.cms.futurecdn.net/R3ENoBkvnuzZyareGCynpP-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A close up of a Xenomorph in Alien: Isolation 2 ready to attack.](https://cdn.mos.cms.futurecdn.net/R3ENoBkvnuzZyareGCynpP.jpg) 

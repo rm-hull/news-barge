@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Memorial Birdsongs, an international art installation by American artist
   Scott Hessels, is coming to Sunderland Museum & Winter Gardens as part…
 image: https://www.thenorthernecho.co.uk/resources/images/21331488.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 An international art installation that invites visitors to remember loved ones through birdsong is coming to the North East, transforming an attraction into a poignant chorus of remembrance.

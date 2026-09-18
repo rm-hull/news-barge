@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:47:45Z'
 published: '2026-08-21T00:00:00Z'
 description: A chocolate bar has returned to shelves at Asda after nearly 30 years.
 image: https://www.yorkpress.co.uk/resources/images/21354962.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Getty)*

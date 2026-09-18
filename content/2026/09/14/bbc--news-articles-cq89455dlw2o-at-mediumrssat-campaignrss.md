@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: The band have announced a second wave of shows for their hit reunion
   tour, after weeks of teasers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f285/live/5ada9660-9280-11f1-9985-cdf6a137096d.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Liam and Noel Gallagher of Oasis with their arms outstretched accepting applause from the audience at the Rose Bowl Stadium in Pasadena, California in September 2025](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/f285/live/5ada9660-9280-11f1-9985-cdf6a137096d.jpg)

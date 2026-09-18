@@ -10,6 +10,10 @@ description: Two air traffic controllers could be fired for leaving the tower at
   York’s LaGuardia Airport about an hour early on the night that an Air Canada jet
   smashed into a fire truck crossing the runway, killing both pilots
 image: https://static.independent.co.uk/2026/08/28/22/LaGuardia_Crash_46_75.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Two air traffic controllers could be fired for leaving the tower at New York's LaGuardia Airport about an hour early on the night that an Air Canada jet smashed into a fire truck crossing the runway, killing both pilots, according to a government official familiar with the investigation.

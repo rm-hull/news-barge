@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Police are investigating reports that a car was driven at a man in a
   Bradford district town centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/12150181.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: UGC)*

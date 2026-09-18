@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The economy expanded by 0.4%, official figures show, whereas analysts
   had predicted no growth.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Stock photo shows a person leaning over the computer of another person in an office environment](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg)

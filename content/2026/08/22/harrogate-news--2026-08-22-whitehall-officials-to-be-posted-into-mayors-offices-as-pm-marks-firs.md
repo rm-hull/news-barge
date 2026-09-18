@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: One month after opening No10 North, the Prime Minister today convened
   mayors from across England for the first No10 North "virtual situation room", announcing
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2025/12/54990288244_2b2ec0a1de_k-house-of-commons.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 - Government departments to second officials into mayoral authorities, working with the mayor, in the largest transfer of Whitehall capacity to local leaders yet

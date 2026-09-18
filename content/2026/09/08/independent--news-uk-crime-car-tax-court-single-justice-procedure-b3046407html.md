@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: The vehicle had been put in her name as a ‘good faith gesture’ in the
   hope that it could be used to take her to hospital appointments
 image: https://static.independent.co.uk/2026/04/02/15/11/Middle-East-conflict-tkup8mpv.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A partially blind 83-year-old pensioner who has never driven a vehicle has been convicted in a fast-track court of not taxing her late husband’s car while mourning his death.

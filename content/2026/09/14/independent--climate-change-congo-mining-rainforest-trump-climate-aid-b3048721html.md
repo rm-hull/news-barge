@@ -10,6 +10,10 @@ description: Lee White – a former minister for the environment in Gabon – te
   Ferris why he believes investment from responsible mining companies gives the world’s
   second largest rainforest a better chance of survival than traditional foreign aid
 image: https://static.independent.co.uk/2026/09/11/15/2255777065..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Mining for critical minerals in the Congo could help protect Africa’s great rainforest by creating new economic opportunities and giving countries in the region greater power over the value of their natural resources, the former environment minister of Gabon – a country 90 per cent covered by the rainforest - has told *The Independent*.

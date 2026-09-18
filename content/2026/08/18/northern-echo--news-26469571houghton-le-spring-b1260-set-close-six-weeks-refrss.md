@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Gillas Lane West in Houghton-le-Spring will close for six weeks for gas
   main works, with Sunderland City Council shutting the B1260 between Hetton…
 image: https://www.thenorthernecho.co.uk/resources/images/16957573.jpg?type=og-image&yType=49
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Newsquest)*

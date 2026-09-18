@@ -9,6 +9,9 @@ published: '2026-09-04T00:00:00Z'
 description: Telle has previously worked for Trump during his first term as a special
   assistant to the president for legislative affairs
 image: https://i.guim.co.uk/img/media/8f3d5594c1f4b31a1ad298e4f6f75acaf387880e/268_0_4371_3497/master/4371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff7c7343bec38de84502b46c53c0dac9
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump on Thursday named Adam Telle as the acting army secretary after the departure of Daniel Driscoll amid widespread reports of tensions with defense secretary Pete Hegseth.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Barcelona have completed the signing of Gabriel Jesus on a permanent
   deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc8b/live/4df68720-a607-11f1-83fc-0df57e6b3866.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Barcelona 'surprised' they could sign Gabriel Jesus

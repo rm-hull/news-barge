@@ -9,6 +9,13 @@ description: The Government has announced it is bringing in mandatory regulation
   private bailiffs following a campaign from Leeds-based charity StepChange and The
   Yorkshire Post.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/01/17/15/25/SC-002-(1).jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Yorkshire campaign leads to Government action on bailiff regulation

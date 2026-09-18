@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Industry body Energy UK says the current support for households most
   in need does not go far enough.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Partial side view of a woman who is holding her jumper close around her neck with one hand and turning up her radiator with the other](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg)

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A cleaning expert has warned people to stop using this one product when
   trying to get rid of dirt from their homes.
 image: https://www.yorkpress.co.uk/resources/images/21393223.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 ## Cleaning expert urges people to avoid using this 1 common household product

@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Towels smelling musty? An expert reveals simple laundry mistakes to avoid
   and how to keep bath towels fresh, soft and fluffy for longer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411569.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Julia Stankevych)*

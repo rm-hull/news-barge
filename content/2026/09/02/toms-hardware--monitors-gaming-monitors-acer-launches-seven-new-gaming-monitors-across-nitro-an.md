@@ -8,6 +8,10 @@ scraped_at: '2026-09-02T12:44:47Z'
 published: '2026-09-02T00:00:00Z'
 description: Excess is best when it comes to Acer’s gaming monitor portfolio
 image: https://cdn.mos.cms.futurecdn.net/zHkzVy3D7e2nTCNSsYFpYD-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Acer Nitro XZ340CKR](https://cdn.mos.cms.futurecdn.net/zHkzVy3D7e2nTCNSsYFpYD.jpg) 

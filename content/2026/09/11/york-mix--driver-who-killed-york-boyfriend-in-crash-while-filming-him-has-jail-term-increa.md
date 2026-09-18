@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T19:10:07Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/10/alfie-lovett-york.webp
+categories:
+- Local
+- York
+- Film & TV
+- Comedy & Entertainment
 ---
 
 A driver who killed her boyfriend in a crash while filming him hanging out of the car window has had her jail term increased by a year and a half at the Court of Appeal.

@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: A new skin patch can warn you of environmental toxins using a clever
   system of haptic vibrations.
 image: https://cdn.mos.cms.futurecdn.net/QmqDDLpfcpTfPhTaxNAbPG-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A wearable poison-detection patch developed by North Carolina State University.](https://cdn.mos.cms.futurecdn.net/QmqDDLpfcpTfPhTaxNAbPG.jpg) 

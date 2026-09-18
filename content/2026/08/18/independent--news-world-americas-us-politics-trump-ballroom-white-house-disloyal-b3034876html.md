@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: ‘We’re under budget. It’s going to be the most beautiful ballroom of
   its kind,’ Trump claimed
 image: https://static.independent.co.uk/2026/08/16/13/31/Donald-Trump-George-Washington-AI.png?trim=0,84,0,82&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Trump has claimed that those opposing his White House ballroom project are “disloyal” to the United States.

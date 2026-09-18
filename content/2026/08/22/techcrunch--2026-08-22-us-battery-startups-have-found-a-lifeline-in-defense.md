@@ -9,6 +9,9 @@ description: U.S. battery startups pulled in $500 million in grants from the Dep
   of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives
   were slashed.
 image: https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 U.S. battery startups hit a rough patch when the One Big Beautiful Bill eliminated battery and EV incentives, undercutting a chunk of future demand. But recently, they’ve found a lifeline in the defense world, helping to power everything from drones and torpedoes to infantry radios and fighter jets.

@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: One of Harrogate’s oldest cricket clubs has celebrated its 180th anniversary
   in style with great cricket and fun for all the family.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE0MDgwMWY1LWJjMmMtNDJhMy1iMjYxLTRhZWJjZDk3NTk1MDozYTJiYzMwZi0yMWUyLTRmN2YtYjkyNy00YWRiMjczZWM3ZDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Yorkshire legends turn up for 180th anniversary of one of England’s oldest village cricket clubs

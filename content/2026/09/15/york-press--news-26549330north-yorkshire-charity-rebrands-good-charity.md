@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: A social care charity whose UK story began in North Yorkshire more than
   140 years ago is entering a new chapter after adopting a new name inspired…
 image: https://www.yorkpress.co.uk/resources/images/21453933.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 *(Image: Guzelian Pictures)*

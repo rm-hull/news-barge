@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Security stepped up in Pattaya before arrival of thousands of sailors
   and marines whose deployment was extended due to US war in Iran
 image: https://i.guim.co.uk/img/media/585b6615594552ca4849b53bb0aa20238a388ddb/247_0_4535_3628/master/4535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0116f6e8127a22975a6f4f6638626148
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Authorities in the Thai resort city of Pattaya have stepped up security as they prepare to welcome thousands of sailors and marines from the USS Abraham Lincoln who have spent more than 270 consecutive days at sea.

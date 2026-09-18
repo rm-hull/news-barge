@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:47Z'
 published: '2026-08-19T00:00:00Z'
 description: How AI and location intelligence are redefining vehicles
 image: https://cdn.mos.cms.futurecdn.net/nVETopz7vffrgCUhd9RAnM-2560-80.jpg
+categories:
+- Technology & Software
+- Automotive
+- Science
 ---
 
 ![A digital grid criss-crossing the lights and buildings of a vast city below](https://cdn.mos.cms.futurecdn.net/nVETopz7vffrgCUhd9RAnM.jpg) 

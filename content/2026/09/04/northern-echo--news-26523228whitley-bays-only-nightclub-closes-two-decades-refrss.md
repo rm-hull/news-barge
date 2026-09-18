@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: Whitley Bay nightclub Havana has closed after its owners cited rising
   running, staffing and purchasing costs, bringing an end to the venue.
 image: https://www.thenorthernecho.co.uk/resources/images/19777239.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Unsplash)*

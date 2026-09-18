@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The Italian prime minister Giorgia Meloni was once an avid member of
   far-right parties but has softened her positions since in government
 image: https://static.independent.co.uk/2026/09/03/11/2026-08-31T073359Z_349371227_RC2XA5A4WJLK_RTRMADP_3_ITALY-GOVERNMENT-MELONI.JPG?trim=3,0,3,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 After a whirlwind of 68 governments in the past 80 years, Italy has finally settled on stability in the form of Giorgia Meloni.

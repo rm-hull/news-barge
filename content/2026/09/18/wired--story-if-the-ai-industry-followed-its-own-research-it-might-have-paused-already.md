@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Anthropic’s CEO says that safety hinges on understanding how AI “thinks.”
   So far the evidence is disturbing.
 image: https://media.wired.com/photos/6aac458c4b08c0385f0a12d8/191:100/w_1280,c_limit/Backchannel-dont-know-enough-about-how-ai-models-work-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 In early 2025 I was interviewing Anthropic CEO Dario Amodei when he explained why, despite the company’s repeated acknowledgments that AI could yield catastrophic results, people seemed largely unperturbed. “There is compelling evidence that the models can wreak havoc,” he said. But, he added, those dangers were still theoretical. Would it take a Pearl Harbor–like situation for the world to wake up to those dire possibilities? He sighed. “Basically, yeah,” he said.

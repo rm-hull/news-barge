@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Wetherby and Easingwold named Yorkshire and the Humber's best-performing
   constituency for girls' participation in sport
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/16/15/constituency-sports-report_1789556214_fcb46a43-e17b5c953e3b2aeb.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
+- Health & Fitness
 ---
 
 # Wetherby and Easingwold named region's best-performing constituency for girls' participation in sport

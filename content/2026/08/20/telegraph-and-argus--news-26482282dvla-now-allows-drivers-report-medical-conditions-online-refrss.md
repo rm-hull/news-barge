@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Bradford drivers with medical conditions can now report them online thanks
   to a new change to the service.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21340889.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty Images)*

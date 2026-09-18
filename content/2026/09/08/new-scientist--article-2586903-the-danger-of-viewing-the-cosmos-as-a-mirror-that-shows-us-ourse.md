@@ -11,6 +11,10 @@ description: It is only natural to view the world, or even the entire universe, 
   says we can appreciate the wonder of the cosmos without inserting ourselves as a
   main character
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676715.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309676715.jpg?w=840)

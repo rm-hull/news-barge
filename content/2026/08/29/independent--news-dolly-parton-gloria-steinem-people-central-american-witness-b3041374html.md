@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Dolly Parton never embraced the feminist label, but her actions and lyrics
   spoke volumes
 image: https://static.independent.co.uk/2026/08/26/05/Obit_Dolly_Parton_47_52.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Society & Culture
 ---
 
 Smiling on the January 1987 cover of Ms., the magazine co-founded by feminism pioneer Gloria Steinem, are its 12 Women of the Year. They include a U.S. senator, a renowned novelist, a former nun who helped Central American refugees. And, smiling brightest of all, Dolly Parton.

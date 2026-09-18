@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: A POPULAR family-run tea room on the North Yorkshire coast has applied
   for a new licence from the council.The top-rated Lighthouse Tea Room in…
 image: https://www.yorkpress.co.uk/resources/images/21413210.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## A top TripAdvisor tea room has applied for a new licence from the council

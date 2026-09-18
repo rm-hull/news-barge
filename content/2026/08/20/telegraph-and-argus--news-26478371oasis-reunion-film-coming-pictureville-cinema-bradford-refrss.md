@@ -8,6 +8,12 @@ scraped_at: '2026-08-20T08:52:44Z'
 published: '2026-08-20T00:00:00Z'
 description: A CINEMATIC celebration of music legends is coming to the big screen.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17363342.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: T&A)*

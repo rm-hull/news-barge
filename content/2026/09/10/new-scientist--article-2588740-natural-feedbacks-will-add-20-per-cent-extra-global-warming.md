@@ -8,6 +8,9 @@ published: '2026-09-10T00:00:00Z'
 description: Ecosystems like wetlands emit more carbon as temperatures rise. By 2100,
   such feedback loops will increase warming by 20 to 30 per cent more than anticipated
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Wetlands in northern Norway](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311669823.jpg?w=840)

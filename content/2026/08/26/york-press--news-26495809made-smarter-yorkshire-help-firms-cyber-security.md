@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Small and medium-sized manufacturers are being offered fully funded cyber
   security support to help protect their operations from growing digital…
 image: https://www.yorkpress.co.uk/resources/images/21372107.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ## Support offered to York and North Yorkshire businesses to combat cyber threats

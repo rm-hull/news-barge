@@ -9,6 +9,11 @@ published: '2026-09-07T00:00:00Z'
 description: An 84-year-old is preparing to trek through the mountains of Albania
   to raise money for Marie Curie.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21411375.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: Adele Wilkin)*

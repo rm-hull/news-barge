@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Rhys Woods said Noah ‘had made an impact across the whole nation’ after
   1,300 volunteers joined the search
 image: https://static.independent.co.uk/2026/09/17/9/10/noah.avif?trim=442,0,443,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The father of Noah Woods has paid tribute to him as “the sweetest and most innocent little boy” after a body was discovered close to where the toddler went missing on Wednesday.

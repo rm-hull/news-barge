@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Several of today's papers splash on the Palace's response to Earl Spencer's
   claim in his upcoming book about his sister Diana.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35fe/live/9b4dccd0-b224-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![The headline on the front page of the Times reads: 'King: Grief has coloured earl's claims over Diana.'](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/4b0a/live/a498ad90-b216-11f1-b1d1-571ed4d7ff2c.jpg)

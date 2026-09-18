@@ -10,6 +10,8 @@ description: Meta is bringing Pocket, its experimental AI-powered app for creati
   and sharing interactive games, to users across the U.S. after quietly testing it
   in Brazil.
 image: https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Meta’s experimental vibe-coding gaming app, Pocket, is now rolling out to everyone in the U.S. The app, which arrived quietly last month in the test market of Brazil, allows people to generate small, interactive games using AI prompts, which are published to a scrollable feed.

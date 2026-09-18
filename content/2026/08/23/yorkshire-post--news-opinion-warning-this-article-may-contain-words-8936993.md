@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Storms force trees to grow deeper roots, the saying goes, and I rather
   like that thought.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmUxZjUwOGQzLWNiYjQtNGRmOS04NjZkLTQyZDA2NTlkOGMyNjowYjNiMzEyOS00ZWY4LTQ2ZTEtOTNkMi00N2JjMjk4ZmNiMTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Warning: this article may contain words

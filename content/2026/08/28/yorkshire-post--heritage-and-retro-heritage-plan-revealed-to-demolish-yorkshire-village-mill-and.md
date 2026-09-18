@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: A village mill in Yorkshire could be redeveloped as a housing estate
   if a new planning application is approved.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY3NWQxMTY3LTc2OGUtNGExYy04MGJjLTVmYmNiNWVhMTkzNTplMTA2MzMxMy02MjYxLTQwYWItOWJlNi03MTlhMjc5YjhmZWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
+- Real Estate
 ---
 
 # Plan revealed to demolish Yorkshire village mill and build homes in its place

@@ -9,6 +9,9 @@ description: As AI becomes harder to avoid, consumers are growing more wary of t
   technology — and Silicon Valley is discovering that widespread adoption doesn’t
   necessarily lead to acceptance.
 image: https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Despite its technological progress, AI’s reputation out in the real world is getting worse. On Wednesday, Axios reported that the National Republican Senatorial Committee sent a memo to top AI companies warning that U.S. data centers are hurting the party’s chances in a key Ohio election. At the same time, Pew Research released a study that found that Americans’ unease about AI is growing — 52% said they’re “more concerned than excited” about the increased use of AI in daily life, up from 37% in 2021.

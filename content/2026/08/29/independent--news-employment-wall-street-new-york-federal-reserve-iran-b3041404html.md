@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Wall Street will get several important updates this week about the health
   of the U.S. jobs market
 image: https://static.independent.co.uk/2026/08/07/05/US_Economy_Jobs_Report_47938.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Wall Street will get several important updates this week about the health of the U.S. jobs market.

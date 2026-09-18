@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: Experts say children need to struggle with everyday problems to develop
   independence
 image: https://static.independent.co.uk/2026/09/11/12/Education_Increasing_Independence_377_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Self-Improvement
+- Education & Learning
 ---
 
 When children forget their lunch, can't solve a math problem or don't know how to get somewhere, the instinct for parents can be to step in immediately. But sometimes, the problem is an opportunity.

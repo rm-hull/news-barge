@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Shoppers can buy chocolates, including Maltesers, M&Ms and Galaxy Counters,
   for just 1p from Co-op for a limited time - here's how.
 image: https://www.thenorthernecho.co.uk/resources/images/21355368.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Co-op/PA Wire)*

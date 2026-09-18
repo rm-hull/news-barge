@@ -10,6 +10,9 @@ description: Some of the world's largest tech companies and AI startups have com
   together to decry the current state of cybersecurity and to advertise a new solution
   that they say can ward off a new generation of cyber threats.
 image: https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Over a hundred tech companies — including OpenAI, Anthropic, Google, and Microsoft — have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats.

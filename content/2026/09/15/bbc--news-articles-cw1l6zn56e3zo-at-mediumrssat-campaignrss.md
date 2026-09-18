@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Plans will be "urgently" developed for live-streaming cameras after an
   inquiry report into Lucy Letby's crimes.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A split composite of Lucy Letby's mugshot and the sign outside Countess of Chester Hospital](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/22a9/live/d6214980-b103-11f1-bc1f-3f186ca4140c.png)

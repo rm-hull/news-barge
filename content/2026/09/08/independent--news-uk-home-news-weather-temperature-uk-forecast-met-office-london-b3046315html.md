@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:50:40Z'
 published: '2026-09-08T00:00:00Z'
 description: It comes after the country experienced its hottest summer on record
 image: https://static.independent.co.uk/2026/09/07/6/55/Screenshot-2026-09-07-at-07-32-25.png?trim=97,0,99,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 The UK is expected to return to milder temperatures this week after a weekend of summer-like conditions which saw parts of the country reach the mid-20s on the mercury.

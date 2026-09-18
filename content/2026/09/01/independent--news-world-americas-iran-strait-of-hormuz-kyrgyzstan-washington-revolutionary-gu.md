@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Iran’s president says his country is ready to return to the ceasefire
   deal agreed to with the United States in June so long as Washington follows suit
 image: https://static.independent.co.uk/2026/09/01/13/Kyrgyzstan_SCO_Summit_16623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Iran's president said Tuesday his country is ready to return to the ceasefire deal reached with the United States in June if Washington does the same, in conciliatory remarks following the first exchange of fire between the two countries in a month.

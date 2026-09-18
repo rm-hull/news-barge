@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Ministry of Defence rebuffs threats, saying UK ‘committed to providing
   equipment Ukraine needs to defend itself against Putin’s illegal invasion’
 image: https://i.guim.co.uk/img/media/a72eb2bdc7d255eb6c1771b3111245c218582018/26_0_4193_3354/master/4193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a74033a4dad1cf9c83476fdff70695b8
+categories:
+- UK
+- News & Politics
 ---
 
 Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time.

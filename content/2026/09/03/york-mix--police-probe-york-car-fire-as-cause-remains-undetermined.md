@@ -7,6 +7,12 @@ scraped_at: '2026-09-03T19:17:13Z'
 published: '2026-09-03T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/car-fire-navigation-road-york-2-sept-2026-2.webp
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 Police say they are making enquiries into the car fire in York.

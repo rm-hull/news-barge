@@ -8,6 +8,11 @@ scraped_at: '2026-09-15T11:27:20Z'
 published: '2026-09-15T00:00:00Z'
 description: A classic wheel design is making a comeback with a modern twist.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21457095.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 Afzal Kahn, the Bradford-based car styling designer, has reintroduced one of his classic alloy wheel designs with a modern twist.

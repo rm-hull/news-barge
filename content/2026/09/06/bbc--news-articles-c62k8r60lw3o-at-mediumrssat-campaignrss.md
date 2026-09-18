@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T22:07:05Z'
 published: '2026-09-06T00:00:00Z'
 description: Three people have been arrested in connection to the incident near Gravesend.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0d7/live/2b7ef7e0-aa21-11f1-8046-e7e0d3946c1a.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Flashing police lights.](https://ichef.bbci.co.uk/ace/standard/600/cpsprodpb/e0d7/live/2b7ef7e0-aa21-11f1-8046-e7e0d3946c1a.jpg)

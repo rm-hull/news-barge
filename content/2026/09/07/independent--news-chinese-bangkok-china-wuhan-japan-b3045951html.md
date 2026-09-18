@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Authorities have fined two companies after a well-known Chinese comedian
   altered the lyrics of a patriotic song during a performance
 image: https://static.independent.co.uk/2026/08/22/07/China_Comedian_17255.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Arts & Culture
 ---
 
 Authorities fined two companies and said that one of China’s best-known comedians had caused a “negative impact” on society, after an audience reported him for changing the lyrics of a patriotic song during a performance.

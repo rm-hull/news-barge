@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T01:47:21Z'
 published: '2026-08-21T00:00:00Z'
 description: The bird is expected to recover from its injuries
 image: https://static.independent.co.uk/2026/08/21/21/1322615929..?trim=0,70,0,70&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The residents of a Pasadena neighborhood are furious after a mail carrier allegedly beat a beloved local peacock with a rock after it followed him to his mail truck.

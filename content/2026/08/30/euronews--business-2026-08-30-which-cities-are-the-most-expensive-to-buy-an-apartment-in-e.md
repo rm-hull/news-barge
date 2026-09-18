@@ -9,6 +9,11 @@ description: The price per square metre of buying an apartment in city centres d
   widely across Europe. Among the five largest European economies, only two have their
   capital cities in the top 10 most expensive list.
 image: https://images.euronews.com/articles/stories/09/89/09/47/1200x675_cmsv2_9f123273-462a-55f5-87f9-d9f46610b6b4-9890947.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## The price per square metre of buying an apartment in city centres differs widely across Europe. Among the five largest European economies, only two have their capital cities in the top 10 most expensive list.

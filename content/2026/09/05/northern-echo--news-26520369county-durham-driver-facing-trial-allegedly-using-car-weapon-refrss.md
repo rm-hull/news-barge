@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: A man has appeared in court after allegedly using his car as a weapon
   to drive into a pedestrian on a footpath, during a street disturbance, last…
 image: https://www.thenorthernecho.co.uk/resources/images/18388884.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: The Northern Echo)*

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Nine men and three women are arrested as police investigate the lead-up
   to the crash that killed seven people.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Pictures of the two officers. Both are smiling. PC Blades, left, has stubble and short fair hair. PC Clough also has stubble and short dark hair.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png)

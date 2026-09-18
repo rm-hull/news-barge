@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T14:59:48Z'
 published: '2026-09-14T00:00:00Z'
 description: Poland has pledged increased security along its border with Ukraine
 image: https://static.independent.co.uk/2026/09/13/19/Russia_Ukraine_War_9_763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Poland pledged increased security along its border with Ukraine after a wave of Russian drone strikes near the frontier, including two that landed within kilometers of Polish territory.

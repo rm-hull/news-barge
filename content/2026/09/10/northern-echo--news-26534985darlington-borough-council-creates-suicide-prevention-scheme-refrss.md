@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: A SUICIDE prevention partnership has been launched to help stop avoidable
   deaths and build a more supportive community.
 image: https://www.thenorthernecho.co.uk/resources/images/19038770.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Stuart Boulton)*

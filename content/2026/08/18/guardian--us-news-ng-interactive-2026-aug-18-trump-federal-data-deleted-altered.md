@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: Health data appears to be most affected by administration’s attempt to
   wipe findings that don’t align with its priorities, tracker shows
 image: https://i.guim.co.uk/img/media/691bce8fe0f47f22c7e4f2bef0602d9726f51a18/902_212_2098_1678/master/2098.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=88b31413360172102b1967a68aa59bd1
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A database of federal law enforcement officer misconduct records. A survey measuring physical, sexual and emotional violence against children and youth. Real-time pollution readings collected by air quality monitors from US embassies around the world.

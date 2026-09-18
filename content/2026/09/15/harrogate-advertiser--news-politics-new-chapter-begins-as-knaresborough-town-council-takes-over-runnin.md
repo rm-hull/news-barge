@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Knaresborough Town Council has taken over the running of the town's historic
   market in what has been described as "a significant milestone" for the community.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3MDZkODBkLWM4ODEtNDk5MC1hODUxLWZmNDhlODRlYmI1NjoyYTE1MTUzMi04NzNmLTQ2NGItYTUxZS1lYjg2OTY0OWFjM2E=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
+- News & Politics
 ---
 
 # New chapter begins as Knaresborough Town Council takes over running of historic weekly market

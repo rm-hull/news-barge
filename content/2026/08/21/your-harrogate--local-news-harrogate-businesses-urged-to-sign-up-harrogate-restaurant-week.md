@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Harrogate hospitality businesses are being encouraged to sign up for
   the return of the town's Restaurant Week.
 image: https://mmo.aiircdn.com/409/68b034c0e21ec.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/68b034c0e21ec.jpg) 

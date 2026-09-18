@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: iOS 27 might include tools that give you more control over the camera
   app, but it's unclear whether these will be exclusive to the iPhone 18 Pro series.
 image: https://cdn.mos.cms.futurecdn.net/PGjgg4XKTMx5hq5gGCPi8h-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple iPhone 17 Pro Max REVIEW](https://cdn.mos.cms.futurecdn.net/PGjgg4XKTMx5hq5gGCPi8h.jpg) 

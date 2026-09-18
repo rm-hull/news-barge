@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Futuro Nazionale party’s speedy poll rise poses questions whether PM
   will return to her roots before election
 image: https://i.guim.co.uk/img/media/8397255ea9b71ca244244173a6185c2b15762daf/748_116_4099_3281/master/4099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15e0a4eadc61262ae0fa4cf6e063f58c
+categories:
+- UK
+- News & Politics
 ---
 
 Giorgia Meloni’s government has become the longest-running in Italy since the second world war – a milestone the prime minister is determined not to let pass unnoticed.

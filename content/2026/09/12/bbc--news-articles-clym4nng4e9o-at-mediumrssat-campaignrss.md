@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Del Leon Somerville, 42, is accused of throwing a bottle and kicking
   out at a police officer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2512/live/eb698dd0-ade7-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A row of police officers in high vis and holding shields stood facing crowds.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2512/live/eb698dd0-ade7-11f1-9a5c-a7a4083eb832.jpg)

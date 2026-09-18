@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: 'Exclusive: Labour’s new council housebuilding drive has been called
   a ‘con’ as new figures show only a small proportion will actually be built by councils'
 image: https://static.independent.co.uk/2025/10/24/17/29/flats-housing-residential-london-city-stock.jpeg?trim=103,0,63,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 Just 4 per cent of homes built as part of Labour’s £10bn pledge to kickstart a “historic council housebuilding comeback” will be built by local authorities,*The Independent* can reveal.

@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: Russian strikes have killed three civilians and wounded dozens in Ukraine,
   according to local officials
 image: https://static.independent.co.uk/2026/09/12/10/APTOPIX_Russia_Ukraine_War_96232.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 Russian strikes killed three civilians and wounded dozens in Ukraine, local officials said Saturday, after Russian President Vladimir Putin warned that sending European troops into Ukraine would amount to direct conflict with Russia.

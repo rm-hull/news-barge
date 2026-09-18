@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Travelodge chief executive Jo Boydell has stepped down as the group continues
   to overhaul its safety measures after a sexual assault at one of the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21344682.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 Travelodge chief executive Jo Boydell has stepped down as the group continues to overhaul its safety measures after a sexual assault at one of the chain’s hotels.

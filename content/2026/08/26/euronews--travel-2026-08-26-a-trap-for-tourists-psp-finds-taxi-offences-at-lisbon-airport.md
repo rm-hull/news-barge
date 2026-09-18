@@ -10,6 +10,10 @@ description: Fake taximeters, needless detours and inflated fares are among the 
   from passengers using taxis at Lisbon Airport. A PSP operation found 67 offences
   among roughly one hundred vehicles checked.
 image: https://images.euronews.com/articles/stories/09/89/00/59/1200x675_cmsv2_1f1b3d48-3f68-56ba-ace6-2fde6dba47c5-9890059.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Fake taximeters, needless detours and inflated fares are among the complaints from passengers using taxis at Lisbon Airport. A PSP operation found 67 offences among roughly one hundred vehicles checked.

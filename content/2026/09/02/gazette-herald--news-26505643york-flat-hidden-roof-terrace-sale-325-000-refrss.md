@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A York flat with a hidden roof terrace has hit the market in Driffield
   Terrace - for £325,000.
 image: https://www.gazetteherald.co.uk/resources/images/21386652.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 A York flat with a hidden roof terrace has hit the market.

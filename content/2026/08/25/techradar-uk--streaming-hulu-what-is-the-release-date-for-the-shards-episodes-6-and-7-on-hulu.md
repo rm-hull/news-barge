@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Shards is now streaming on Hulu and Disney+, but when can you watch
   the next episode?
 image: https://cdn.mos.cms.futurecdn.net/JCSrfgqjFynPDntVP6V8Mc-1600-80.webp
+categories:
+- Technology & Software
+- Film & TV
+- Comedy & Entertainment
 ---
 
 ![Igby Rigney and Kaia Gerber in Hulu's The Shards](https://cdn.mos.cms.futurecdn.net/JCSrfgqjFynPDntVP6V8Mc.webp) 

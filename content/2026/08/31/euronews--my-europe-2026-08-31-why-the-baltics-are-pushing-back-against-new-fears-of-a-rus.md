@@ -9,6 +9,10 @@ description: 'Officials across NATO’s eastern flank say there is no evidence o
   imminent Russian attack, even as they strengthen their defences and warn that Moscow’s
   campaign of sabotage and provocations against Europe is intensifying. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/58/05/1200x675_cmsv2_6449f6c8-4301-5ea7-b231-5d8fc736ad04-9895805.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Officials across NATO’s eastern flank say there is no evidence of an imminent Russian attack, even as they strengthen their defences and warn that Moscow’s campaign of sabotage and provocations against Europe is intensifying.

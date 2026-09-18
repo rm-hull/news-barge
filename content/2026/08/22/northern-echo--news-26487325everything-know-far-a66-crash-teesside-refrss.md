@@ -9,6 +9,12 @@ published: '2026-08-22T00:00:00Z'
 description: Seven people have died including two Cleveland police officers after
   an early morning crash on the A66 in Teesside.
 image: https://www.thenorthernecho.co.uk/resources/images/21357632.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 *(Image: SARAH CALDECOTT)*

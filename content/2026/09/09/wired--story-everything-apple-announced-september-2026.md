@@ -9,6 +9,10 @@ description: The company’s September event introduced Apple’s first ever fol
   iPhone, along with new iPhone 18 Pro models, updates to the Apple Watch, some AirPods,
   and more advances to Siri AI.
 image: https://media.wired.com/photos/6aa19424b402a7d6273073e3/191:100/w_1280,c_limit/John-Ternus-Apple-Event-Gear-DSC_9380.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 It’s a brand-new era for Apple. The company is turning over leadership for the first time in 15 years, with former CEO Tim Cook handing off the reins last week to the new CEO, former Apple VP of hardware John Ternus.

@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: BBC Newsbeat has spoken with festival-goers to see whether they feel
   the changes will attract a wider demographic.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d84/live/c30d5820-a249-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 ![Crowds of festival-goers wave their hands in the air at Leeds Festival. There a few people in the crowd raised up by sitting on the shoulders of other people.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/5d84/live/c30d5820-a249-11f1-a291-b542ee92de7c.jpg)

@@ -8,6 +8,9 @@ published: '2026-09-13T00:00:00Z'
 description: With 50% of the votes counted, the two main blocs were separated by only
   20,000 votes, Sweden public broadvasteer SVT said.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Sweden's Social Democratic Party leader, Magdalena Andersson applauds as she waits with other party members for general election results](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/d7e0/live/f8b9f5b0-afa4-11f1-a27d-17e2480354ed.jpg)

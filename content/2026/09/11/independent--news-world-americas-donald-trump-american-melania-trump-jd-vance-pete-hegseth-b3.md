@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: President Donald Trump is observing the 25th anniversary of the Sept.
   11 attacks by attending a ceremony at the Pentagon
 image: https://static.independent.co.uk/2026/09/11/14/APTOPIX_Sept_11_Anniversary_Pentagon_4462_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 President Donald Trump observed Friday’s 25th anniversary of the Sept. 11 attacks by attending a ceremony at the Pentagon commemorating the lives lost when al-Qaida militants hijacked planes and killed nearly 3,000 people in three locations, upending American foreign policy and national security.

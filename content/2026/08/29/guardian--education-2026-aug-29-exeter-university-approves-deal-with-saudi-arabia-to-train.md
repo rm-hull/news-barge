@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: In move that could generate millions, Exeter academics to deliver MA
   at National Defense University in Riyadh
 image: https://i.guim.co.uk/img/media/ef69eac8186cedfc7147187dc38fbee67d6de10d/1146_853_3779_3025/master/3779.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78111e622faf2c2db849dfc536a09c51
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 The University of Exeter has approved plans for a “formal partnership” with Saudi Arabia to train senior military officers and government officials, despite long-held concerns about the Saudi government’s human rights record, the Guardian has learned.

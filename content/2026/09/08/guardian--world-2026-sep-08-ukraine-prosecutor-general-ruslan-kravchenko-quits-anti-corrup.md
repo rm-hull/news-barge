@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Ruslan Kravchenko resigns over allegations some of his officials were
   engaged in large-scale money laundering
 image: https://i.guim.co.uk/img/media/9aed06dcc23a4ac6440be63eeac3f594329138a8/16_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=294fc32a38df72877993fbccbf34d2a6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ukraine’s prosecutor general has resigned after investigators used ladders to raid his office in connection with a major corruption scandal that threatens to embarrass Volodymyr Zelenskyy.

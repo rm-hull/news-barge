@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: North Yorkshire Police have paid tribute to two police officers who were
   killed in a crash that took place over the weekend.
 image: https://www.yorkpress.co.uk/resources/images/21359248.jpg?type=og-image&xType=0&yType=177
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 ## 'We will stand alongside them' - North Yorkshire Police pay tribute after A66 crash

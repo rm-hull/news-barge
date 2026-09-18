@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: A man has appeared in court charged with the murder of a seven-year-old
   girl and her aunt following a tragic house fire in Grangetown.
 image: https://www.thenorthernecho.co.uk/resources/images/21397247.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A man has appeared in court charged with the double murder of a seven-year-old girl and her aunt following a tragic house fire.

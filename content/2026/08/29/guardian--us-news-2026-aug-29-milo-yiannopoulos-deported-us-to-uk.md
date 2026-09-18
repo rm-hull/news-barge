@@ -8,6 +8,9 @@ published: '2026-08-29T00:00:00Z'
 description: Ex-Breitbart editor has vocally supported immediate deportations for
   anyone who can’t prove US residency
 image: https://i.guim.co.uk/img/media/d7eebc5aae6f8af39e6c04d3215ff89df5fb24c5/23_111_3820_3058/master/3820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47afaa32b93835e6fb32e89414d78afd
+categories:
+- UK
+- News & Politics
 ---
 
 Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration and Customs Enforcement (ICE) in New Orleans in connection with what the agency said was expired authorization to be in the country and a deportation order.

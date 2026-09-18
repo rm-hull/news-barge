@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Power giants NextEra Energy and Dominion Energy are rolling out plans
   to sweeten their proposed merger in Virginia, Dominion’s home base
 image: https://static.independent.co.uk/2026/09/14/22/NextEra_Dominion_Energy_44386.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Power companies NextEra Energy and Dominion Energy, which are seeking approval to merge into one behemoth, announced plans Monday to sweeten the deal in Virginia, Dominion's home base, where the proposal has faced skepticism from the Democratic governor and legislative leaders.

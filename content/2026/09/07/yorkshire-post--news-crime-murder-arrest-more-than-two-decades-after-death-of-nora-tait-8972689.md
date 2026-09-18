@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A man has been re-arrested on suspicion of murder as part of an ongoing
   investigation into the death of Nora Tait more than two decades ago.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjFiYWRhYmE4LTY0ZjUtNDk5ZS1iZTU3LWU2ODBmZTQ0MjYwODowYzM0NzBlMC05YzJiLTQyOTUtYjMwNy1hMDY2NTAxNGUyY2M=.png?crop=3:2,smart&trim=&width=1004&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Murder arrest more than two decades after death of Nora Tait

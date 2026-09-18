@@ -7,6 +7,8 @@ scraped_at: '2026-09-04T18:59:03Z'
 published: '2026-09-04T00:00:00Z'
 description: The upgrade brings a redesign of UI features and an improved search function
 image: https://cdn.mos.cms.futurecdn.net/qNLgpZ6nDjvy3692v79aRH-619-80.png
+categories:
+- Technology & Software
 ---
 
 ![NordVPN browser extension graphic](https://cdn.mos.cms.futurecdn.net/qNLgpZ6nDjvy3692v79aRH.png) 

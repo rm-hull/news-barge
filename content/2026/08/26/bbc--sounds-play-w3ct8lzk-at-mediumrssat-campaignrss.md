@@ -7,6 +7,9 @@ scraped_at: '2026-08-28T11:15:46Z'
 published: '2026-08-26T00:00:00Z'
 description: And, America says goodbye to musical icon Dolly Parton.
 image: https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ## Episode details

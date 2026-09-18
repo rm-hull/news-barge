@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A TALK exploring medical practices during the First World War will take
   place at the Green Howards Museum in Richmond.
 image: https://www.thenorthernecho.co.uk/resources/images/21398424.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: Supplied)*

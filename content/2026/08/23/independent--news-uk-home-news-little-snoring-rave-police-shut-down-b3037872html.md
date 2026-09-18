@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Social media users in nearby Great Snoring had complained about the noise
   from the event
 image: https://static.independent.co.uk/2026/08/23/20/43/download.jpeg?trim=5,0,7,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Technology & Software
 ---
 
 There was little sleep in the small Norfolk village of Little Snoring after residents were kept awake by a noisy illegal rave that was eventually shut down by police.

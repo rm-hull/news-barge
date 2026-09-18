@@ -8,6 +8,11 @@ scraped_at: '2026-09-08T19:25:09Z'
 published: '2026-09-08T00:00:00Z'
 description: A man was assaulted with a bladed weapon in a town centre doorway.
 image: https://www.thenorthernecho.co.uk/resources/images/21425280.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: PROVIDED)*

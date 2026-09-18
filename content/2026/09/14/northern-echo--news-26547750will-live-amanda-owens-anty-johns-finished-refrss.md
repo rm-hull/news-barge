@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Amanda and Clive Owen have spent years restoring Anty John's near Ravenseat,
   but who will actually live in the farmhouse when the work is…
 image: https://www.thenorthernecho.co.uk/resources/images/21368043.jpg?type=og-image&xType=0&yType=170
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Amanda and Clive Owen have spent years bringing a derelict Yorkshire Dales farmhouse back from the brink, but one major question about Anty John's remains unanswered.

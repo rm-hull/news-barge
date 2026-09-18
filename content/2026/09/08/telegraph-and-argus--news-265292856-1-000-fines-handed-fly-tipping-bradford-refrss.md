@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Bradford Council has issued six £1,000 fines for fly-tipping since the
   maximum penalty was increased last September.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421633.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

@@ -9,6 +9,11 @@ description: Interest rates on government bonds are rising again around the worl
   making borrowing more expensive for consumers and businesses and heightening concerns
   about whether governments are issuing more debt than financial markets can handle
 image: https://static.independent.co.uk/2026/09/01/22/Treasury_Bessent_54_4_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Interest rates on government bonds are rising again around the world, making borrowing more expensive for consumers and businesses and heightening concerns about whether governments are issuing more debt than financial markets can handle.

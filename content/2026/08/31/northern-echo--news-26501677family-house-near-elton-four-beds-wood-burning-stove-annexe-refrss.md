@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: DESIGNED for effortless single-level living, Zarina House is a beautifully
   presented barn conversion that offers the perfect balance of rustic charm…
 image: https://www.thenorthernecho.co.uk/resources/images/21380779.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
+- Home, Garden & DIY
 ---
 
 DESIGNED for effortless single-level living, Zarina House is a beautifully presented barn conversion that offers the perfect balance of rustic charm and contemporary luxury.

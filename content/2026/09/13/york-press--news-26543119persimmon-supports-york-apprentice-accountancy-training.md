@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Persimmon Homes has offered a contribution towards training costs for
   Izabela Bogusiewicz, an employee at Safe and Sound Homes in York.
 image: https://www.yorkpress.co.uk/resources/images/21441723.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 *(Image: Persimmon Homes)*

@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:15:17Z'
 published: '2026-09-09T00:00:00Z'
 description: AI doesn't inherently favor the attacker. Failing to act does
 image: https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![A hand about to touch a phone. Superimposed on top of it is a pink triangle with exclamation mark inside it. Behind it is a computer display with code on it](https://cdn.mos.cms.futurecdn.net/x4SmwpYXk8yGgDmYCVeckL.jpg) 

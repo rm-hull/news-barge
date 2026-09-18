@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Former army colleagues attend PC Tom Clough's funeral alongside police
   and emergency workers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec4b/live/911526f0-ad1f-11f1-826f-933990eae6f0.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Several police officers in black uniforms with white gloves in a line while walking towards the camera. They are all men and most are wearing custodian helmets, but one man is wearing a blue army beret. Each officer has a number of colourful medals on the right breast of their blazers. There is another officer closer to the camera on the left who is out of focus. Many of them are carrying colourful flags. There is a large brick wall behind them.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/ec4b/live/911526f0-ad1f-11f1-826f-933990eae6f0.jpg)

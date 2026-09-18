@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T04:43:42Z'
 published: '2026-09-16T00:00:00Z'
 description: Nvidia CEO says AI "is going to make the software so much better"
 image: https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dreamforce 2026](https://cdn.mos.cms.futurecdn.net/GQqTnKgcMg4Hx2cYUmjzQo.jpg) 

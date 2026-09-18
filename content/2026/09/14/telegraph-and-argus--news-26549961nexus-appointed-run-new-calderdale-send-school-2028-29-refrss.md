@@ -7,6 +7,11 @@ scraped_at: '2026-09-15T11:26:59Z'
 published: '2026-09-14T00:00:00Z'
 description: A trust has now been appointed to run a new free school for children.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21454823.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A trust has now been appointed to run a new free school for children with special educational needs and disabilities (SEND) in Calderdale, expected to open in academic year 2028-29.

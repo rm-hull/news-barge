@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T13:07:39Z'
 published: '2026-08-25T00:00:00Z'
 description: A police cordon is in place inside the grounds of a Bradford church.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21368676.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Mike Simmonds)*

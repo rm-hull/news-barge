@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Harrogate Convention Centre has secured a major international booking
   which is expected to bring an economic impact of more than £600,000 to the town.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFhNzM0YzY5LWU5YmYtNGYwOC04NmRkLTA4YjI0OGYzYmZlOToxYWJiZmE2My1iZmZiLTRhM2UtYTRjYi05MDA4MTM1NmI5OTQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # 'Major economic impact' predicted as Harrogate Convention Centre secures contract to host international conference

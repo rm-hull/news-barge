@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T16:51:52Z'
 published: '2026-08-25T00:00:00Z'
 description: The two fans are available now for under £100
 image: https://cdn.mos.cms.futurecdn.net/y9rnwk83y67UneDKKqH3hf-1000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Two Meaco tower cans in living room, near door](https://cdn.mos.cms.futurecdn.net/y9rnwk83y67UneDKKqH3hf.jpg) 

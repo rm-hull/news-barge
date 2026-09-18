@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:23:08Z'
 published: '2026-09-17T00:00:00Z'
 description: Palace issues emotional statement saying ‘grief can cloud reason’
 image: https://static.independent.co.uk/2026/09/17/13/fae2a3c856c5f3de0069647cf406df64Y29udGVudHNlYXJjaGFwaSwxNzg5NzMzNTc1-2.85883551.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 King Charles has made his first public appearance since his “unprecedented” response to claims made by Princess Diana’s brother Earl Spencer in his bombshell book.

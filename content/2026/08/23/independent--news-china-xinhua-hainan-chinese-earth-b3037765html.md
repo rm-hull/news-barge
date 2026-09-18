@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T20:36:19Z'
 published: '2026-08-23T00:00:00Z'
 description: China has postponed its planned ambitious Chang’e-7 lunar mission
 image: https://static.independent.co.uk/2026/08/23/14/China_Space__3162.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 China said on Sunday it was postponing its planned ambitious Chang’e-7 lunar mission, which was set to carry out explorations including searching for water ice on the moon.

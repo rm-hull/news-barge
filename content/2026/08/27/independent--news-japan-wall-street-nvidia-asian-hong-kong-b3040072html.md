@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Asian stocks are mixed after a retreat on Wall Street following the latest
   round of updates on U.S. inflation and economic growth
 image: https://static.independent.co.uk/2026/08/27/06/Japan_Financial_Markets_33_61.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Asian stocks were mixed on Thursday following modest losses on Wall Street, while oil prices declined.

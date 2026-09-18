@@ -8,6 +8,12 @@ published: '2026-08-31T00:00:00Z'
 description: Just outside Bishop Auckland lies the tiny County Durham village of Toronto,
   whose unusual name can be traced back to a 19th-century coal discovery.
 image: https://www.thenorthernecho.co.uk/resources/images/21378468.jpg?type=og-image&xType=0&yType=39
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
+- History
 ---
 
 *(Image: GOOGLE)*

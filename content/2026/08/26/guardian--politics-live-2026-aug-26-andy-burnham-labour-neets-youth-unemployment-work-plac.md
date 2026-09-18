@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Prime minister spoke to press while on visit to a Sainsbury’s supermarket
   this morning
 image: https://i.guim.co.uk/img/media/ec5ab201a234b677e01f7ffb698c4732a4247edb/349_0_5146_4117/master/5146.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=be81c34766caf4c5087697a965210df0
+categories:
+- UK
+- News & Politics
 ---
 
 Burnham calls on businesses to offer work experience opportunities for young people

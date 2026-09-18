@@ -9,6 +9,12 @@ published: '2026-09-04T00:00:00Z'
 description: A West Yorkshire clothing business was targeted by an AI-powered TikTok
   scam after stolen images were used in fake weight-loss adverts that…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408782.jpg?type=og-image&xType=0&yType=4
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A mother and daughter’s clothing business in West Yorkshire was used in fake TikTok adverts for a weight-loss product.

@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Unauthorised works to a Yorkshire woodland area need to be removed and
   100 trees planted in their place, a planning inspector has decided.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZiMWZkOWI1LTYwOTItNGUxNi04MTNlLTc1NTEwMTZmZjI5ZjplNzY5ZmRlYi1hYzYzLTQ3MTktODUxYy05Mzk2NGE0OTViZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Home, Garden & DIY
 ---
 
 # Developer ordered to plant 100 new trees and building holiday lets in Yorkshire woodland

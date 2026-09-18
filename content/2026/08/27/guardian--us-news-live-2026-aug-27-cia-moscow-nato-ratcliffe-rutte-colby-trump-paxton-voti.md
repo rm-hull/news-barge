@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: Kremlin dismisses US media reports after meeting as ‘scare stories’,
   as Pentagon policy chief prepares to meet Nato secretary general
 image: https://i.guim.co.uk/img/media/94c77cd774118a4f1f5b7364247c8c1dd86bad02/246_0_4878_3902/master/4878.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=150268c66381c7c604788e7e746393e0
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A trip by the CIA director to Moscow this week was to warn Russia against any attack on Nato member states, US media reported, after Donald Trump attempted to downplay the visit.

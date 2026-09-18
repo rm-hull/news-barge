@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Discovery helps strengthen laws for how people interact with whales in
   the area
 image: https://static.independent.co.uk/2026/09/07/7/54/Humpback-whale-fluking.jpeg?trim=0,79,0,78&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Australian tourism operators have helped crack the mystery of an enigmatic humpback whale behaviour that has left scientists baffled since it was first observed in 2009.

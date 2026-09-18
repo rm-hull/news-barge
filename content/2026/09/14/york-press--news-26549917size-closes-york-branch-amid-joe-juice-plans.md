@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Size? has closed its York branch after eight years in York city centre.
   It comes after Joe & The Juice lodged plans to take over the site.
 image: https://www.yorkpress.co.uk/resources/images/21454762.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

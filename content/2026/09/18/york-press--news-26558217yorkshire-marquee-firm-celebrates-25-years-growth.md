@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: A MARQUEE company is celebrating 25 years of growth, innovation, and
   success.
 image: https://www.yorkpress.co.uk/resources/images/21466943.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 *(Image: Supplied)*

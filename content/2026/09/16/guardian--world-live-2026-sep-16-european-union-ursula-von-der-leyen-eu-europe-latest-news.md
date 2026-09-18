@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: Thaçi held criminally responsible for war crimes during the violent break
   from Serbia in the 1990s
 image: https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=eebb998abd4d6b05105cf07453f6e906
+categories:
+- UK
+- News & Politics
+- True Crime
+- History
 ---
 
 Former Kosovo president Thaçi sentenced to 25 years in prison

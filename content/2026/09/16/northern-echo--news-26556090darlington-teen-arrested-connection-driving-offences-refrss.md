@@ -8,6 +8,11 @@ scraped_at: '2026-09-16T19:32:13Z'
 published: '2026-09-16T00:00:00Z'
 description: Durham Police did find the teen.
 image: https://www.thenorthernecho.co.uk/resources/images/21463876.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: DURHAM POLICE)*

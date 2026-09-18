@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Argos has revealed its 2026 Top Toys, from a £15 wooden train set to
   £150 LEGO, with movie favourites and interactive toys also tipped to be big.
 image: https://www.yorkpress.co.uk/resources/images/21406913.jpg?type=og-image
+categories:
+- Local
+- York
+- Shopping & Deals
 ---
 
 *(Image: Argos)*

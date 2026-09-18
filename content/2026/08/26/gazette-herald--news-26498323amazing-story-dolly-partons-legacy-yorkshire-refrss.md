@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Dolly Parton has left an incredible legacy, not least in Yorkshire. She
   has had an impact on Rotherham, Bradford and other areas of the county.
 image: https://www.gazetteherald.co.uk/resources/images/21373368.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 **Emma Clayton reflects on Dolly Parton’s incredible legacy, not least in Yorkshire.**

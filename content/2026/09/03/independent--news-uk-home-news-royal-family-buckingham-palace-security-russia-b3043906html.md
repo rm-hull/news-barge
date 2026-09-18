@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Buckingham Palace’s official website was hacked in 2023 by a pro-Russia
   organisation
 image: https://static.independent.co.uk/2024/12/24/08/ef17e45e-618d-4f70-8df7-09e245a99063.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Buckingham Palace has more than doubled its taxpayer-funded cyber security spending amid concerns over Russian hackers targeting the Royal Family.

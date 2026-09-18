@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters
   sang about how their team will win the league again with Mikel Arteta in charge.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Mikel Arteta](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg)

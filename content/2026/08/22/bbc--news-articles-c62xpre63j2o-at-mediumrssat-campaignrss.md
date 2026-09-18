@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: The defence brought their final witness - a forensic psychiatrist - to
   the stand to testify about the effects of postpartum psychosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Health & Fitness
 ---
 
 ![Lindsay Clancy sits and looks off to the side while wearing a peach coloured shirt](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg)

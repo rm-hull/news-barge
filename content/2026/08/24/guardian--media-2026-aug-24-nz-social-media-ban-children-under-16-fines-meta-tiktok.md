@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Prime minister Christopher Luxon’s party to introduce bill seeking the
   ban, citing harm to a generation of children
 image: https://i.guim.co.uk/img/media/760f918512039ba340234c40e1b7a40899e320ba/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9a18f05dec94e43a0c8c3f798717ec7
+categories:
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
 ---
 
 New Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that seeks to ban children under 16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance.

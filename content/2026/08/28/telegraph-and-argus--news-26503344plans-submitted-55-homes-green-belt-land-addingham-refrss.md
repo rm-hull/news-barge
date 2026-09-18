@@ -8,6 +8,11 @@ scraped_at: '2026-08-28T11:16:02Z'
 published: '2026-08-28T00:00:00Z'
 description: A developer has submitted plans to build 55 homes on green belt land.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383141.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Google Maps)*

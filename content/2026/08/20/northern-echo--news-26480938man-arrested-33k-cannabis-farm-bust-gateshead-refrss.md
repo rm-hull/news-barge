@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: More than 200 cannabis plants have been seized following a huge drugs
   raid. The man was also arrested by Border Force on suspicion of immigration…
 image: https://www.thenorthernecho.co.uk/resources/images/21347376.jpg?type=og-image&xType=0&yType=211
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Northumbria Police)*

@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: An estimated 1,000 jobs could be created at the luxury carmaker’s sites
   in Woking and South Yorkshire by 2032.
 image: https://static.independent.co.uk/2026/09/16/12/2e947c06599c97d53590fd47f23f0ad7Y29udGVudHNlYXJjaGFwaSwxNzg5NjQxOTg2-2.85872302.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Luxury carmaker McLaren has announced plans to invest £500 million in the UK and to create 1,000 new jobs, a move hailed by the Prime Minister as “doubling down on Britain”.

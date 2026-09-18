@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Bereaved families are demanding answers after sentimental items were
   removed from graves in an East Yorkshire graveyard.
 image: https://www.yorkpress.co.uk/resources/images/21365757.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 ## East Yorkshire families' anguish after sentimental items removed from graves suddenly

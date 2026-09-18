@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Swalwell, a former Democratic representative, resigned from Congress
   in April following the sexual assault allegations
 image: https://static.independent.co.uk/2026/04/11/19/01/900x600-(3).png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Federal agents raided the home of former House Representative Eric Swalwell and seized his electronic devices over the weekend as part of an ongoing investigation potentially related to sexual assault allegations, CNN reported Thursday.

@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Trump-backed Byron Donalds and Democrat David Jolly race to succeed term-limited
   governor Ron DeSantis; Angie Nixon upsets Alex Vindman in Senate primary
 image: https://i.guim.co.uk/img/media/6e1bb8ab117dd77282720888c9f8c8df06d74067/845_15_4982_3985/master/4982.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=60d4740fcff2b70a0f679266f118bc85
+categories:
+- UK
+- News & Politics
 ---
 
 Trump-backed Byron Donalds and Democrat David Jolly race to succeed term-limited governor Ron DeSantis; Angie Nixon upsets Alex Vindman in Senate primary

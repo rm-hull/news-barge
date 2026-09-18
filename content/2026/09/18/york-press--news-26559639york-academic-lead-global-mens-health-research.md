@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Professor Paul Galdas of the University of York has been appointed a
   Movember Institute Professorial Fellow, helping lead Movember’s global…
 image: https://www.yorkpress.co.uk/resources/images/21469056.jpg?type=og-image
+categories:
+- Local
+- York
+- Science
 ---
 
 *(Image: Supplied)*

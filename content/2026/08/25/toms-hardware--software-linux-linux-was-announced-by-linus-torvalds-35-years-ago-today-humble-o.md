@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The OS would have been known as Freax if one of Torvalds' co-workers
   hadn't made a last-minute change to the upload.
 image: https://cdn.mos.cms.futurecdn.net/Xd4pf4f9ejwiifZLQFFW8A-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Linus Torvalds](https://cdn.mos.cms.futurecdn.net/Xd4pf4f9ejwiifZLQFFW8A.jpg) 

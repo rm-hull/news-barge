@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Indigenous Australians forcibly removed under government policies more
   likely to have severe or profound disability, report finds
 image: https://i.guim.co.uk/img/media/796d83b5719d0a5d10d6d673b5cccefdeb3d0353/0_0_3114_2492/master/3114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38f17c8f743e93b31551b1b79a666ccb
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 The tens of thousands of Indigenous Australians and their descendents who were forcibly removed under government assimilation policies have far greater physical and health challenges when compared to the wider Indigenous and non-Indigenous populations, according to a new report.

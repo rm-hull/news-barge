@@ -10,6 +10,9 @@ description: Anthropic CEO Dario Amodei is also worried model development is goi
   too fast, but he has a plan for slowing down and managing its unprecedented and
   accelerated capabilities
 image: https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Dario Amodei, Anthropic CEO](https://cdn.mos.cms.futurecdn.net/zQUr2QJXtzzfPVWtgFzJR.jpg) 

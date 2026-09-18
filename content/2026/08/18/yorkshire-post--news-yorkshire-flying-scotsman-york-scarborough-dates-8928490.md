@@ -9,6 +9,12 @@ published: '2026-08-18T00:00:00Z'
 description: The Flying Scotsman will travel from York to Scarborough in September
   and October.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/18/18/42/GettyImages-503973030.jpg?trim=0,63,0,63&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Lifestyle & Fashion
 ---
 
 # When you can travel on Flying Scotsman this autumn including York to Scarborough dates as new trips announced

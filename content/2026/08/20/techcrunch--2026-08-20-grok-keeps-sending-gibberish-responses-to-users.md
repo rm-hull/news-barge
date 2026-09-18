@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: Affected users told TechCrunch they were using Grok Lite, and noticed
   the issues as early as Wednesday morning.
 image: https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804
+categories:
+- Technology & Software
 ---
 
 An unusual glitch has resulted in xAI’s Grok chatbot speaking gibberish to many users.

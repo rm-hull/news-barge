@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T19:25:53Z'
 published: '2026-09-08T00:00:00Z'
 description: BigBear 2.0 and PREY-0058 are wreaking havoc across businesses
 image: https://cdn.mos.cms.futurecdn.net/vnpBJPCcs2siQw5rCEsDzG-2560-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Microsoft 365](https://cdn.mos.cms.futurecdn.net/vnpBJPCcs2siQw5rCEsDzG.png) 

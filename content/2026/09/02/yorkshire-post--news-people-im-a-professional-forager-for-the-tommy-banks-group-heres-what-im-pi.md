@@ -7,6 +7,11 @@ scraped_at: '2026-09-02T12:45:52Z'
 published: '2026-09-02T00:00:00Z'
 description: Autumn is the season of harvest festivals and hedgerow fruits.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEwNzZiOWNlLTA2NGQtNDZhZS05YzhlLTBkZWEyODkwYzAzYjowYzQxNTIxOS1jMDE4LTRlY2YtYWUwMS1mYmY1NjUyNWYzODU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 # “I'm a professional forager for The Tommy Banks Group - here's what I'm picking this September”

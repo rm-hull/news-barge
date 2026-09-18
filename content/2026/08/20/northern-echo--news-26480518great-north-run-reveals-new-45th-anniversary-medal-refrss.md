@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Great North Run organisers have unveiled a special 45th anniversary finisher
   medal for 2026, a year after a map error on last year's medal…
 image: https://www.thenorthernecho.co.uk/resources/images/21346267.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

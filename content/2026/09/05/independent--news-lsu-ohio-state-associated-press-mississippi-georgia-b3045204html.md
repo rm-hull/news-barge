@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: The college football season opened in late August but this is its grand
   opening weekend
 image: https://static.independent.co.uk/2026/09/05/12/APTOPIX_Colorado_Georgia_Tech_Football_67_1.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The grand opening of the college football season has arrived.

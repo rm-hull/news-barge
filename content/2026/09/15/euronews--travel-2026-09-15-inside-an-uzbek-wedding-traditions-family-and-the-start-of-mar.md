@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Civil registration, wedding plov, family blessings and ‘Kelin Salom’
   are among the customs that accompany couples as they begin married life in Uzbekistan.
 image: https://images.euronews.com/articles/stories/09/86/36/90/1200x675_cmsv2_ea131720-215e-5574-b7f8-91c46cccb8cd-9863690.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Civil registration, wedding plov, family blessings and ‘Kelin Salom’ are among the customs that accompany couples as they begin married life in Uzbekistan.

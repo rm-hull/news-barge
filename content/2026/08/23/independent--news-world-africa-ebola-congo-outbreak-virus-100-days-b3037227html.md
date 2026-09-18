@@ -10,6 +10,9 @@ description: The death toll has accelerated sharply, with roughly half of the mo
   than 2,500 deaths recorded in the past 20 days – with the threat fuelled by a mix
   of conflict, misinformation and services strained by aid cuts. Liz Cookman reports
 image: https://static.independent.co.uk/2026/08/21/12/download.-3.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 One hundred days into the Ebola outbreak in the Democratic Republic of Congo (DRC), the response is still struggling to keep pace as the virus overwhelms the systems trying to contain it.

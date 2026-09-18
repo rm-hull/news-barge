@@ -8,6 +8,9 @@ published: '2026-08-30T00:00:00Z'
 description: Siobhán McSweeney hosts another set of Faithfuls and Traitors at Slane
   Castle with €50,000 up for grabs
 image: https://cdn.mos.cms.futurecdn.net/y4ep6pzXWaCLk6kMf78uud-1600-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![The Traitors Ireland host Siobhán McSweeney standing in front of the logo for the show ahead of season 2.](https://cdn.mos.cms.futurecdn.net/y4ep6pzXWaCLk6kMf78uud.jpg) 

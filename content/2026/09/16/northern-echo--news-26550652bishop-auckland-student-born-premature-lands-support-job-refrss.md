@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Bishop Auckland College student once feared unlikely to survive is
   celebrating landing her dream job, inspired by the support she received as a…
 image: https://www.thenorthernecho.co.uk/resources/images/21456401.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

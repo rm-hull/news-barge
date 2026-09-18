@@ -8,6 +8,12 @@ scraped_at: '2026-08-28T11:16:11Z'
 published: '2026-08-28T00:00:00Z'
 description: FORMER footballers are heading to the ring for a charity boxing night.
 image: https://www.thenorthernecho.co.uk/resources/images/21378041.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

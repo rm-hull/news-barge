@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Rainbow clouds are not uncommon in Australia but rarely photographed,
   and experts say they get their colours when light is diffracted around ice crystals
 image: https://i.guim.co.uk/img/media/851a55b4aa245a2a498d7141775a1c746f0de09b/37_0_1138_910/master/1138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd57bc8a9c6950fb784d056da9b4b114
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Rainbow clouds shone over parts of Victoria over the weekend, in an unusual visual phenomenon known as iridescent clouds.

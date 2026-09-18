@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Council officials have acknowledged the growing disruption
   caused by roadworks in Harrogate and Knaresborough.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFkZjZhZDI4LTY5YjYtNDNiMi1hOGYwLTA5ZWUwNzI4MmQ5ODphN2E3YWZkMS0yNDliLTQ5MDQtOWVmMy00YmM0MGU4NjA3NjU=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 # Roadworks causing growing disruption in Harrogate and Knaresborough, North Yorkshire Council admits

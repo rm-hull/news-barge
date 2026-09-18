@@ -10,6 +10,10 @@ description: Pace bowler Brydon Carse is removed from England's squad for the se
   Test against Pakistan following an incident that led to him being handcuffed by
   police.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![England bowler Brydon Carse](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg)

@@ -10,6 +10,10 @@ description: Foreign states and technology firms are scrambling for data from th
   Ukraine war so they can train the next-generation of AI models that might be used
   in defence and national security
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310541908.jpg
+categories:
+- Science
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Ukrainian servicemen prepare a drone for launch](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310541908.jpg?w=840)

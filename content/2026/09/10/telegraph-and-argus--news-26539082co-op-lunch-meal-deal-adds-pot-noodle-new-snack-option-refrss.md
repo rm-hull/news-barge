@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Pot Noodle has joined Co-op’s meal deal as a new snack option, alongside
   a range of new offers - here's how to grab the best deals this…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430534.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 *(Image: Co-op)*

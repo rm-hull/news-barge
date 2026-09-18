@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Leah Stewart, 34, was mauled by a great white shark in June during a
   morning swim at Coogee Beach.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![A woman with long blonde hair, wearing a white top and red skirt lying on a cream couch, with a baby sleeping on her chest.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg)

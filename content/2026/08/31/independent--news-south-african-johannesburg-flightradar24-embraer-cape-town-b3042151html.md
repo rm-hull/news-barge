@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: A pregame stunt involving two passenger jets flying dramatically low
   over a sports stadium in South Africa has sparked a major debate over safety risks
 image: https://static.independent.co.uk/2026/08/31/14/South_Africa_Stadium_Flyover_8_623.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A pregame stunt involving two passenger jets flying dramatically low over a sports stadium in South Africa drew huge cheers from the estimated crowd of around 56,000 people, but also sparked a major debate over safety risks.

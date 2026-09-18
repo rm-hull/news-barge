@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Mark Carroll’s daughters say there are ‘unanswered questions’ after their
   father was stabbed by stranger Rasheed Rahman in a London park
 image: https://static.independent.co.uk/2026/09/14/14/22/Screenshot-2026-09-14-at-15-04-56.png?trim=20,0,251,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 The two daughters of a beloved grandfather who was murdered in a London park in a random and unprovoked attack have called for a comprehensive review into the handling of his killer by police and care services, saying: “We believe there to be critical failings that allowed this to happen”.

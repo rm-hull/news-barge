@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Oddfellows, an active group since 1810, is promoting friendship in
   its upcoming events.
 image: https://www.gazetteherald.co.uk/resources/images/21403257.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 An organisation with historical ties to pub culture is promoting friendship this month.

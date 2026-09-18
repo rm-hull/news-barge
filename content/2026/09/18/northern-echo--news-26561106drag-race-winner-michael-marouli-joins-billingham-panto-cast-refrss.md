@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: North East drag star Michael Marouli is heading to Teesside, taking on
   the role of Carabosse in Sleeping Beauty for Billingham's 2026 Christmas…
 image: https://www.thenorthernecho.co.uk/resources/images/21472299.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 A North East-born drag star fresh from a history-making international TV win is set to swap the runway for the stage in Teesside this Christmas.

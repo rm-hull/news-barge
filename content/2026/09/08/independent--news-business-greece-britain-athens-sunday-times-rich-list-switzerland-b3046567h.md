@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Mr Rokos paid an estimated £330 million in the latest tax year, according
   to the Sunday Times Tax List.
 image: https://static.independent.co.uk/2026/09/08/13/4323c53815122be4cfae6c9516843cc8Y29udGVudHNlYXJjaGFwaSwxNzg4OTU1MTg4-2.84090203.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A hedge fund billionaire and Britain’s third-biggest taxpayer is set to leave the UK for Greece – marking the latest exit among the country’s billionaires, according to reports.

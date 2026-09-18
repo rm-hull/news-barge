@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: Continuing resolution to approve government spending until 11 December
   passes 370-48 and will now go to Trump
 image: https://i.guim.co.uk/img/media/d603e86e11522ce1a22f3456974c95e934784447/642_0_6436_5150/master/6436.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7f4e7bbd18e6c22a267c2dfdd53d6de
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The US House of Representatives on Tuesday approved legislation to prevent a government shutdown through the midterms, as both parties opted to defuse a volatile dispute ahead of the November elections that will decide the balance of power in Congress for the final two years of Donald Trump’s presidency.

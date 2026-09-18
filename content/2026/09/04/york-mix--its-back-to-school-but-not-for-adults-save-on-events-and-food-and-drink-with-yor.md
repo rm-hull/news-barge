@@ -8,6 +8,10 @@ scraped_at: '2026-09-04T18:59:15Z'
 published: '2026-09-04T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/friends-cheersing-canva.png
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 It’s back to school for the kids – but that doesn’t mean the fun stops for the adults!

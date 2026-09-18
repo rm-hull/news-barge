@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: A Chinese government spokesperson says China and the U.S. hope to reach
   an agreement on lowering import taxes soon
 image: https://static.independent.co.uk/2026/09/10/10/China_CIFTIS_52447.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 China and the U.S. hope to reach an agreement on lowering import taxes soon, a Chinese government spokesperson said Thursday, fueling expectations that an announcement could come when the leaders of the two countries meet in two weeks.

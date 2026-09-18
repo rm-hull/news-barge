@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: South Otterington C of E Primary School pupils have published and illustrated
   a book inspired by a visit to Lovell’s Saints Green at Peggy’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21220757.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Steve Coulthard)*

@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Storage reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/ZSSSQRZK4pkvDuuNtZYNTF-450-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ## Latest about Storage

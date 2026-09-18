@@ -9,6 +9,10 @@ description: An arrest warrant has been issued for a mental health advocate who 
   missing Saturday, more than four days after police in Worcester, Massachusetts found
   the officer she had been married to dead in their home
 image: https://static.independent.co.uk/2026/08/19/22/Charity_Founder_Officer_Killed_49272.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An arrest warrant has been issued for a mental health advocate who remained missing Saturday, more than four days after police found the Massachusetts officer she had been married to dead in their home.

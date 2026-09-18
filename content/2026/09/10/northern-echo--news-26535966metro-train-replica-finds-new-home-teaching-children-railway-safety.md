@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Newcastle’s SafetyWorks! uses a full-size Tyne and Wear Metro cab replica
   to teach thousands of children about railway safety, trespassing and…
 image: https://www.thenorthernecho.co.uk/resources/images/21431334.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: Nexus)*

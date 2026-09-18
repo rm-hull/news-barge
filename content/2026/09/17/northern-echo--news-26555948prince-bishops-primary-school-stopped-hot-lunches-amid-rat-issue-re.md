@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Parents have criticised a County Durham school after hot lunches were
   stopped when signs of pest activity were found following summer building work.
 image: https://www.thenorthernecho.co.uk/resources/images/21464834.jpg?type=og-image&xType=0&yType=184
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 Parents have been left furious after a County Durham school stopped serving hot lunches when rats were allegedly found in the kitchen area.

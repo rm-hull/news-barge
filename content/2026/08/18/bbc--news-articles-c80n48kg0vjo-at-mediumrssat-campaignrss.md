@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: In a video to mark the 30th anniversary of Maggie's cancer charity, Queen
   Camilla speaks for the first time about her husband's own diagnosis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ae2/live/79fbe090-9b5d-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Queen Camilla on not being able to talk about King's cancer diagnosis

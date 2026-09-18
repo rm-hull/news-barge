@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Vice President JD Vance and Secretary of State Marco Rubio have privately
   warnedTrump that the Iran conflict could extend through the remainder of his presidency
 image: https://static.independent.co.uk/2026/09/10/09/2294430499..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Top White House advisers, including Vice President JD Vance and Secretary of State Marco Rubio, have privately warned President Donald Trump that the conflict with Iran could extend through the remainder of his presidency, the *Wall Street Journal* reported on Wednesday, citing U.S. officials.

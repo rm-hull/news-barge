@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: A new independent café has opened in Bishop Auckland, offering customers
   a place to enjoy breakfast, lunch, freshly made food and coffee.
 image: https://www.thenorthernecho.co.uk/resources/images/21362729.jpg?type=og-image&xType=0&yType=75
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 *(Image: GOOGLE MAPS)*

@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: A deadly building collapse in Gaza has highlighted ongoing hardships
   for Palestinians nearly a year after a ceasefire between Israel and Hamas
 image: https://static.independent.co.uk/2026/09/18/07/Israel_Palestinians_Gaza_95466.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The deadly collapse of a multistory building in Gaza has drawn new attention to the hardships facing Palestinians there nearly a year after a ceasefire between Israel and Hamas promised to kickstart reconstruction.

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: South Korea's former President Yoon Suk Yeol has won a rare legal reprieve
   in one of the criminal cases brought after he was ousted for imposing martial law
 image: https://static.independent.co.uk/2026/09/11/09/South_Korea_Martial_Law_31281.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Former South Korean President Yoon Suk Yeol was acquitted Friday in a case related to a marine’s drowning death in a rare reprieve in one of the criminal cases brought against him following his ouster for imposing martial law.

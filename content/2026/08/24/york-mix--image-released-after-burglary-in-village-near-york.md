@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T13:08:50Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-main-street-escrick-4-july-2026-main.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 Police investigating a burglary want to trace this woman.

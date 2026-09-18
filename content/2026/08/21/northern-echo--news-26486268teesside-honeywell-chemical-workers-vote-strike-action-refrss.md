@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Nearly 320 Honeywell workers in Billingham, Stockton and Lancashire are
   being balloted for strike action.
 image: https://www.thenorthernecho.co.uk/resources/images/17660066.jpg?type=og-image&xType=0&yType=97
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: PA)*

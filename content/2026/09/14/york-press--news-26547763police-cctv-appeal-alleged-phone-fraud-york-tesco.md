@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: North Yorkshire Police is urging witnesses to get in touch as they investigate
   an alleged fraud at Tesco Askham Bar, York, on June 29.
 image: https://www.yorkpress.co.uk/resources/images/21451382.jpg?type=og-image&xType=0&yType=18
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 *(Image: North Yorkshire Police)*

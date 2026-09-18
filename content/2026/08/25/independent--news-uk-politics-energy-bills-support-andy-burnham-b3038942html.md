@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Ofgem will announce the upcoming price cap for typical gas and electricity
   usage for the October to December period
 image: https://static.independent.co.uk/2026/07/21/09/97b4767a6d67a6c08a50a91b0bc2d665Y29udGVudHNlYXJjaGFwaSwxNzg0NzA1OTAx-2.84900654.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Government is considering "a range of support" for vulnerable households struggling with rising costs, the Energy Secretary stated ahead of an anticipated energy price cap increase.

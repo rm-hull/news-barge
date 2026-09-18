@@ -8,6 +8,9 @@ published: '2026-09-08T00:00:00Z'
 description: A Reform councillor has decided to leave the party, saying he had seen
   ‘first-hand’ how it ‘simply doesn't have a serious plan’
 image: https://static.independent.co.uk/2026/09/08/9/00/swales2.png?trim=40,0,226,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Lancashire county councillor has become the first politician in Britain to defect from Reform UK to Labour, citing "growing concerns about Reform's ability to deliver at a local level”.

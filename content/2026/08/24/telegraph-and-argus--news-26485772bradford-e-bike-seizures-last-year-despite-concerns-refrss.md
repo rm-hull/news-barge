@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: Bradford city centre residents have said they are "frightened" of being
   knocked down by illegal e-bikes - claiming there has been an…
 image: https://www.thetelegraphandargus.co.uk/resources/images/20811989.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 BRADFORD city centre residents have said they are "frightened" of being knocked down by illegal e-bikes - claiming there has been an "escalation" in riding in pedestrian zones.

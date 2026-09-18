@@ -8,6 +8,9 @@ scraped_at: '2026-08-30T13:47:56Z'
 published: '2026-08-30T00:00:00Z'
 description: '''There''s no princess connector here.'''
 image: https://cdn.mos.cms.futurecdn.net/35BFzKzoKEL3DVg4G2hTNX-1920-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Soldering power wires directly to the PCB of an RTX 5090](https://cdn.mos.cms.futurecdn.net/35BFzKzoKEL3DVg4G2hTNX.png) 

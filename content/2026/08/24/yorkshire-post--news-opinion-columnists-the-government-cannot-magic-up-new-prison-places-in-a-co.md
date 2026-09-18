@@ -11,6 +11,12 @@ description: There aren’t many people who think it is a good idea for the cour
   up for a long time only for that person to get let out because we simply haven’t
   got enough prisons.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEzMzY0ZDMyLTMzOGQtNGMxYy04ZTA1LWYxMGEwZWYwZDY3NjpkZmE5Y2NjZS05NTYwLTQ4YjItODRkZC1kZTJhZGQ5NjE5YWI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # The Government cannot magic up new prison places in a couple of weeks - Andy Brown

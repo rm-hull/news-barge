@@ -8,6 +8,9 @@ scraped_at: '2026-09-17T19:43:09Z'
 published: '2026-09-17T00:00:00Z'
 description: A fruit fly may soon beat you at Balatro.
 image: https://cdn.mos.cms.futurecdn.net/de9AZSVVPswtFQSMdMQaPm-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![A Balatro game in-progress.](https://cdn.mos.cms.futurecdn.net/de9AZSVVPswtFQSMdMQaPm.jpg) 

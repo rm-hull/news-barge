@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback
   go? And can Novak Djokovic win? It's time for the 2026 US Open singles.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/75e1/live/5060e260-a2d0-11f1-941c-8741c1a72471.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Aryna Sabalenka reacts during practice at the 2026 US Open](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/75e1/live/5060e260-a2d0-11f1-941c-8741c1a72471.jpg)

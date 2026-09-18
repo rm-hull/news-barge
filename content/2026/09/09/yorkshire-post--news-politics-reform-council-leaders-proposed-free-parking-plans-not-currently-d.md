@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: A pledge by Bradford Council’s leader to introduce free parking across
   the district is currently “not deliverable.”
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmNkN2MzMTQ5LWM3M2QtNDlhOC05ZWUxLTNkNGE3M2QzYzBjMDo4M2E5ZjAxYi0yMjEyLTQzMjctYjBjNi04NDExMTI2NmZiOTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 # Reform council leader's proposed free parking plans 'not currently deliverable'

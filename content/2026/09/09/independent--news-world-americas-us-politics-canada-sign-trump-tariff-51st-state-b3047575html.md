@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The signs were unveiled the same day Canadian counter-tariffs against
   the U.S. took effect
 image: https://static.independent.co.uk/2026/09/09/19/53/trump-comp.jpg?trim=0,116,0,116&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Canadian province of British Columbia unveiled new border signs on Tuesday that took aim at the Trump administration in the midst of the ongoing U.S.-Canada trade war and President Trump’s threats that Canada could become the 51st state.

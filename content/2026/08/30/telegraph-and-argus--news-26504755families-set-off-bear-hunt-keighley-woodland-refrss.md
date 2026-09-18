@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Families set off on a bear hunt through the woods as part of a book-themed
   adventure day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21385461.jpg?type=og-image&xType=0&yType=11
+categories:
+- Local
+- Bradford
+- News & Politics
+- Outdoors & Nature
 ---
 
 Families set off on a bear hunt through the woods as part of a book-themed adventure day.

@@ -12,6 +12,11 @@ description: There is a real need to improve the supply of suitable housing avai
   enough new estates on green fields on the edge of cities then it will go a long
   way towards relieving the shortages. It won’t.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3MWFkYTk2LTQ4ZGYtNDNjOS1iMmJhLTNhYjk5ZmJkYjdmNjpkMjdjM2M0My1kM2VlLTQ0MDktYjFiNC02MTUyYmZiOTJmNmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 # Where does Labour’s enthusiasm for destroying the greenbelt come from? - Andy Brown

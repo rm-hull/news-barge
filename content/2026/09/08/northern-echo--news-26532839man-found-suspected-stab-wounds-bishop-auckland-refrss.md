@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Residents have described how a quiet Bishop Auckland street was "flooded"
   with police after a man was found with suspected stab wounds.
 image: https://www.thenorthernecho.co.uk/resources/images/21426973.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: THE NORTHERN ECHO)*

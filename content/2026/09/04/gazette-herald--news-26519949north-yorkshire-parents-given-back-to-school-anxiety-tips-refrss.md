@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Parents in North Yorkshire are being offered practical advice to support
   children who are anxious about returning to school by Emily McIver.
 image: https://www.gazetteherald.co.uk/resources/images/21407725.jpg?type=og-image&xType=0&yType=30
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 *(Image: Tees, Esk and Wear Valleys NHS Foundation Trust)*

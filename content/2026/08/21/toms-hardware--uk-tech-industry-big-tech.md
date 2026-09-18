@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Discover more about Big Tech with insights from the experts at Tom's
   Hardware.
 image: https://cdn.mos.cms.futurecdn.net/tcfTihpKR3gtRJ6DCLVGBj-320-80.png
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Supermicro logo on a building](https://cdn.mos.cms.futurecdn.net/tcfTihpKR3gtRJ6DCLVGBj-320-80.png)

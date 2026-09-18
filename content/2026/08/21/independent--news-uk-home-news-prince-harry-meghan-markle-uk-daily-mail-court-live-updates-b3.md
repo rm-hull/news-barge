@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: The Duchess is said to have been offered a role in an upcoming project
   in Britain
 image: https://static.independent.co.uk/2026/08/20/07/2026-08-19T225250Z_194887265_RC2IG9ANP7TK_RTRMADP_3_BRITAIN-ROYALS-HARRY-AND-MEGHAN.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 Meghan Markle could make a return to acting as she is set to arrive in the UK before the end of the month, according to reports.

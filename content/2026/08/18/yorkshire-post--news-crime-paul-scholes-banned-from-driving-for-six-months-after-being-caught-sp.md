@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Former Manchester United footballer Paul Scholes has been handed a six-month
   road ban after he racked up two driving convictions in the space of two days.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEzOGJhNTk4LWM2ZWQtNGQ2MS05N2FiLWY1Zjg1OTYzYzM1ODoxNmU1YjcyYy1kYTZjLTQ5ZTktYjgyMC1iMDI4NzJjMDEyMmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # Paul Scholes banned from driving for six months after being caught speeding in Cleckheaton

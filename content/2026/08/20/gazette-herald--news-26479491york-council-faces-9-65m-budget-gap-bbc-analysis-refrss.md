@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: An almost £10 million black hole is forecast for City of York Council’s
   budget after it had to find a similar amount in savings last year,…
 image: https://www.gazetteherald.co.uk/resources/images/20475955.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Eduardo Vieira/Pixaby)*

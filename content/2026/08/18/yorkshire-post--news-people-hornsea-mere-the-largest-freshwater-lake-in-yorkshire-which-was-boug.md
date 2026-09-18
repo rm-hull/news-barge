@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: As the largest freshwater lake in Yorkshire, Hornsea Mere is a popular
   destination for sailing, bird-watching and leisurely walks.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjc2MmE4NTg4LTcyNDQtNDBiMy05ZGJkLTcxYTAzOTJmMmU0NDo5YmQ5OTA3YS1iYWJiLTRmYjMtODhhYy1jODdiZDk0YWRmMzk=.jpg?crop=3:2,smart&trim=&width=1175&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # Hornsea Mere: The largest freshwater lake in Yorkshire which was bought for just £50

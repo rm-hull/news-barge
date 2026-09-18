@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Residents concerned about mysterious activity at a Calderdale site -
   including "deep burial of materials" they believe to be Qurans - have…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21425236.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 ### What is the Public Notice Portal?

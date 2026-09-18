@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Tory leader expected to install Tom Tugendhat as shadow foreign secretary
   after sacking Mel Stride and Priti Patel
 image: https://i.guim.co.uk/img/media/8bf196ec8727658a169e10d274ab1e7cdc667c84/1152_1341_2542_2033/master/2542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=087a9fed647cc232de04cf31dd443126
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Kemi Badenoch sacked her shadow chancellor, Mel Stride, and shadow foreign secretary, Priti Patel, in a sweeping Conservative reshuffle on Monday, replacing Stride with Andrew Griffith, and is expected to install Tom Tugendhat as Patel’s replacement.

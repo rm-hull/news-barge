@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Nomination York, located in Low Petergate, has marked 10 years in the
   heart of the city.
 image: https://www.yorkpress.co.uk/resources/images/21379752.jpg?type=og-image
+categories:
+- Local
+- York
+- History
 ---
 
 ## York jewellery shop celebrates 10 years of growth in heart of the city

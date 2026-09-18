@@ -7,6 +7,9 @@ scraped_at: '2026-08-26T13:11:36Z'
 published: '2026-08-26T00:00:00Z'
 description: Incremental AI adoption is better than big bang approach
 image: https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A person using a desktop computer.](https://cdn.mos.cms.futurecdn.net/pvNhZoQGQLQjddZZmWtWxH.jpg) 

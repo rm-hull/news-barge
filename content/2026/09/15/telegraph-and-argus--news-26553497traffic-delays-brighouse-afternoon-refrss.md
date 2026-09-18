@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A crash on a busy Brighouse roundabout prompted an emergency response
   on Tuesday afternoon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20013371.jpg?type=og-image&xType=0&yType=101
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Newsquest)*

@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Rout raises questions about coordination and morale as some politicians
   claim billions of dollars were offered to persuade forces to abandon position
 image: https://i.guim.co.uk/img/media/fafc5119093045161ab8a9678f5934c781b67d05/45_160_5152_4121/master/5152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77ef65983ea669cc2c16d24386da0ceb
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A bitter inquest is under way among Yemen’s anti-Houthi forces as to how what was being billed as a decisive assault on Sana’a, the Houthi-controlled capital, suddenly collapsed into a military rout.

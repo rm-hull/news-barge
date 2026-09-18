@@ -8,6 +8,13 @@ published: '2026-08-25T00:00:00Z'
 description: Evri has announced it will be launching a recruitment drive, aiming to
   fill out 10,000 positions across the UK
 image: https://www.thetelegraphandargus.co.uk/resources/images/21366665.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 Parcel delivery company Evri has announced plans to recruit more than 10,000 people across the UK.

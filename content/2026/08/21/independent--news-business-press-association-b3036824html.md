@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The downbeat outlook for British firms comes amid a backdrop of global
   economic uncertainty and rising costs.
 image: https://static.independent.co.uk/2026/08/21/07/6f244b21464610e8f871ef1e2db94a37Y29udGVudHNlYXJjaGFwaSwxNzg3MzI2Mjcx-2.84568741.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 The number of UK businesses in “critical financial distress” has jumped by almost a tenth amid particular pressure on leisure firms and hotels, according to research.

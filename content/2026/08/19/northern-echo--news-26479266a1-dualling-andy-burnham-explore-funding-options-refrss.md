@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Andy Burnham is willing to explore a revived vision to dual the A1 in
   Northumberland.
 image: https://www.thenorthernecho.co.uk/resources/images/21239930.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Andy Burnham is willing to explore a revived vision to dual the A1 in Northumberland.

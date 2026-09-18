@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Her foundation said she "passed away peacefully" at her home in New York
   City, "surrounded by many who loved her".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Watch: Gloria Steinem talks about her legacy in 2023 BBC interview

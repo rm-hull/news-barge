@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Allegations Nathan Cofnas was unqualified for Ghent role and would cause
   ‘negative impact’ made to senior leaders months ago
 image: https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/320_0_4571_3657/master/4571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cfcca9a93efc8da016021574d6b210e
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 Nathan Cofnas, the academic who accused Jason Arday of plagiarism, has been accused of having “very limited expertise” for his academic role by professors also working at Ghent University, who say he has a “far-right agenda”.

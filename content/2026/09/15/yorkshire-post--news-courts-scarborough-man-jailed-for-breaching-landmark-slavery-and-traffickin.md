@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A Scarborough man has been jailed after repeatedly breaching a landmark
   order imposed to protect vulnerable people from exploitation.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/15/16/45/MixCollage-15-Sep-2026-05-17-PM-7567.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Scarborough man jailed for breaching landmark Slavery and Trafficking Risk Order

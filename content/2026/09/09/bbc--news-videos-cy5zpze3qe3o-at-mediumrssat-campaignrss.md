@@ -9,6 +9,10 @@ description: BBC's Middle East Correspondent Lucy Williamson visits the Palestin
   community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli
   settlement of Maale Admumim.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e42b/live/937ae850-ac9b-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement

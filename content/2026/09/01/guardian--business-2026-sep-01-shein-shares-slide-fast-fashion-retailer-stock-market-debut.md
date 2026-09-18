@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Hong Kong flotation at $26bn by firm once valued at $100bn follows failure
   to list in US and UK
 image: https://i.guim.co.uk/img/media/7fcf7e5dd65065994b8f99f70707aa0cca9b9c4c/1149_0_3695_2958/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44884b715fab74739408a98a8b4d9a3c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Shares in the fast-fashion brand Shein slumped by as much as 10% as the China-founded company made its long-anticipated trading debut on the Hong Kong stock exchange.

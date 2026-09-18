@@ -8,6 +8,12 @@ published: '2026-09-03T00:00:00Z'
 description: Uber is cutting 3,300 jobs worldwide as it strips out management layers
   and merges teams, saying the savings will fund growth in areas such as robotaxis.
 image: https://images.euronews.com/articles/stories/09/89/95/10/1200x675_cmsv2_d39e920e-b3a2-5b5e-8caa-207a75599147-9899510.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 ## Uber is cutting 3,300 jobs worldwide as it strips out management layers and merges teams, saying the savings will fund growth in areas such as robotaxis.

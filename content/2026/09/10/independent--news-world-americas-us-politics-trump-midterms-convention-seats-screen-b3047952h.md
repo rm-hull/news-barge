@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: President Donald Trump tries to claim arena ‘packed’ for Republican midterms
   convention – but urges crowd not to go to the bathroom in case media report otherwise
 image: https://static.independent.co.uk/2026/09/10/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump’s speech on the opening night of his Republican midterms convention in Dallas, Texas, was marred by a bad technical glitch and large sections of empty seating, despite his insistence the arena was “packed.”

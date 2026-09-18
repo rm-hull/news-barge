@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The Trump administration is planning to deliver powerful 2,000-pound
   bombs to Israel as part of an upcoming arms deal
 image: https://static.independent.co.uk/2026/08/11/14/NETANYAHU-TRUMP__3168.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Trump administration is preparing to supply heavy 2,000-pound munitions to Israel under a pending international military agreement, delivering weapons that were previously placed on hold by the Biden administration two years ago over grave concerns regarding the broad possibility of mass civilian casualties in Gaza.

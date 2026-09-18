@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The framed photograph forms part of work by MPs to install a permament
   memorial for the former minister.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cfdf/live/988c21e0-a167-11f1-aaf8-119f176ff4ce.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A framed photograph of Ann Widdecombe in a black frame on a wall in Portcullis House.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cfdf/live/988c21e0-a167-11f1-aaf8-119f176ff4ce.jpg)

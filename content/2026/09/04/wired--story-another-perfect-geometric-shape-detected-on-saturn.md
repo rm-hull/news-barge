@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The discovery adds to the planet’s history of strange atmospheric phenomena
   that scientists don’t full understand.
 image: https://media.wired.com/photos/6a99df5244b5359704296ca0/191:100/w_1280,c_limit/STScI-01M0T8BARTCFQW684XQ932TNNM-2.png
+categories:
+- Technology & Software
+- Science
+- History
 ---
 
 A team of astronomers discovered a strange polygonal atmospheric structure on Saturn near the planet’s south pole. This 10-sided shape, known as a decagon, joins one of the gas giant’s most famous features: a hexagon near the north pole that was first observed 44 years ago. Images of the new decagon were captured by the Hubble Space Telescope, and the discovery was recently published in the journal Science Advances.

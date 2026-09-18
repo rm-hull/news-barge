@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: 'Insidious: Out of the Further is now playing in theaters worldwide,
   but it''s a disappointing entry into the horror franchise.'
 image: https://cdn.mos.cms.futurecdn.net/YkQdNcxo53xtPeB4wGgRmJ-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Arts & Culture
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: North Yorkshire Council will need to pay £233,000 a year to operate a
   new community building being built in Catterick Garrison.
 image: https://www.thenorthernecho.co.uk/resources/images/21426928.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 North Yorkshire Council will need to pay £233,000 a year to operate a new community building being built in Catterick Garrison.

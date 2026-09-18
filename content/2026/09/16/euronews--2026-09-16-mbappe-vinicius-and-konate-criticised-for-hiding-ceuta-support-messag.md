@@ -9,6 +9,10 @@ description: The La Liga president criticised Mbappé, Vinícius and Ibrahima Ko
   for partially rolling up a T-shirt supporting Ceuta, hiding the message "We are
   all from Ceuta", amid a migration crisis and social tension in the city.
 image: https://images.euronews.com/articles/stories/09/91/62/80/1200x675_cmsv2_6bf06064-2f53-5d22-b969-492f98055fea-9916280.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The La Liga president criticised Mbappé, Vinícius and Ibrahima Konaté for partially rolling up a T-shirt supporting Ceuta, hiding the message "We are all from Ceuta", amid a migration crisis and social tension in the city.

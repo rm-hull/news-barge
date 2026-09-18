@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Nestled in the picturesque village of Wath, Manor House, with its sumptuous
   interiors and perfectly manicured grounds, is the epitome of a dream…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21191070.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Nicholas Yarsley)*

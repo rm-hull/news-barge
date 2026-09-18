@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: From Nando’s free chicken to Zizzi pizza and TGI Fridays Dirty Soda,
   here is the full list of GCSE results-day food, drink and cinema offers in…
 image: https://www.thenorthernecho.co.uk/resources/images/21351749.jpg?type=og-image&xType=0&yType=51
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Provided)*

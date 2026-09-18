@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: BEN Cliff has just recorded the best bowling figures in a first-class
   innings this century for Yorkshire.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463096.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Allan McKenzie/SWpix.com)*

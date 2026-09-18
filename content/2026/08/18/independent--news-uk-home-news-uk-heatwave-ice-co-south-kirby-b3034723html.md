@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: The cooler environment of the Ico Co warehouse has been a haven for some
   on the hottest days over the summer
 image: https://static.independent.co.uk/2026/08/18/09/01M09QY4GE9EA1B9S52VS6KNA4.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 Unprecedented heatwaves across Britain have driven intense demand for relief, prompting Europe’s largest ice manufacturing plant to describe the 2026 summer season as "exceptional".

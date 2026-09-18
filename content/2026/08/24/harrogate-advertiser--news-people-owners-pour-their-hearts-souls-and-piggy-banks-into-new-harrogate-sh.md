@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A new shop is opening in Harrogate after “amazing support” from the community
   to help turn the owners’ dream of having their own business into a reality.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ5NzBkOWU0LTMzODAtNGI5NS05OWMzLTI3ZmI0NDQxZGY4ODo0NmU2YmIwNC0xNGVhLTQ3OGUtYjZkMS05NjVmYjgzYWY5MTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Owners 'pour their hearts, souls and piggy banks’ into new Harrogate shop to serves aquatic community

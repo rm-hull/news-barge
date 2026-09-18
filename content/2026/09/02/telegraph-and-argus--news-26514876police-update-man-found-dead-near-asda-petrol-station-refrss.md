@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: Police have issued an update after a man was found dead near an Asda
   petrol station in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21400430.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
+- Technology & Software
 ---
 
 POLICE have issued an update after a man was found dead near an Asda petrol station in Bradford.

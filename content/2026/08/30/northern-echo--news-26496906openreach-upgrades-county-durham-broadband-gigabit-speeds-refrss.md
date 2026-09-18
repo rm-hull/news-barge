@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Thousands of rural homes and businesses in County Durham are set to benefit
   from a major broadband upgrade as work gets under way to bring…
 image: https://www.thenorthernecho.co.uk/resources/images/21373723.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Martin Avery)*

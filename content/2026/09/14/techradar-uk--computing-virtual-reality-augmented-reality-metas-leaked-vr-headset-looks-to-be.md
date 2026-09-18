@@ -8,6 +8,9 @@ scraped_at: '2026-09-14T20:18:54Z'
 published: '2026-09-14T00:00:00Z'
 description: The Meta Quest Pro 2 (even if just in my heart)
 image: https://cdn.mos.cms.futurecdn.net/KAw22gaqaEWgpy9K7VcLz9-2560-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
 ---
 
 ![Hamish hector drawing a bow in VR while wearing the Meta Quest 3S.](https://cdn.mos.cms.futurecdn.net/KAw22gaqaEWgpy9K7VcLz9.jpg) 

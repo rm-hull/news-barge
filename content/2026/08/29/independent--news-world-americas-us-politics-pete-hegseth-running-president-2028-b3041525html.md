@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: 'In recent months, 2028 speculation has largely focused on two figures:
   JD Vance and Marco Rubio'
 image: https://static.independent.co.uk/2026/08/29/15/24/GettyImages-2278472769.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Defense Secretary Pete Hegseth has been mulling a 2028 presidential bid, according to a new report.

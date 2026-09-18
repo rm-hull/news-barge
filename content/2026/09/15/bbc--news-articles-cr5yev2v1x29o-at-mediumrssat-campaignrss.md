@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Police carry out door-to-door inquiries in Brantham and a helicopter
   has been seen circling the area.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4617/live/300dc0e0-b14a-11f1-a383-57f33d64a166.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Noah, who has ginger hair, is pictured smiling on a bed.](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/4617/live/300dc0e0-b14a-11f1-a383-57f33d64a166.jpg)

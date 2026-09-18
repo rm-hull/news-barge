@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Missing woman’s partner and daughters fundraise to join search in one
   of the hardest-hit areas of Nepal
 image: https://i.guim.co.uk/img/media/2032b6eb7594afc8a6fa850b3901cb1ca14be9e8/0_0_870_696/master/870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f901f03602284fad9e721acbc371d2a3
+categories:
+- UK
+- News & Politics
+- Travel
+- Family & Parenting
 ---
 
 Clair Spry says her sister would hate the attention. She would want it focused on the Nepali people, who have been displaced or are in need of aid. She would want it to be on the impact of the climate crisis, especially on the world’s most economically vulnerable populations.

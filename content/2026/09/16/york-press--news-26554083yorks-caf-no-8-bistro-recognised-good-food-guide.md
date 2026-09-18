@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A York bistro has earned a place in the prestigious Good Food Guide after
   being named one of UK’s best informal fine-dining restaurants.
 image: https://www.yorkpress.co.uk/resources/images/21462036.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Travel
 ---
 
 ## 'Local gem' York bistro named one of UK’s best informal fine-dining restaurants

@@ -8,6 +8,11 @@ scraped_at: '2026-08-29T06:59:14Z'
 published: '2026-08-29T00:00:00Z'
 description: Can you highlight any changes?
 image: https://www.thenorthernecho.co.uk/resources/images/21373555.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 IN 2017, a clean-up of overgrowth was undertaken on the approach to Willington library and it revealed a stone that had been hidden for several decades.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Scott Painter, founder of TrueCar, is still trying to build a business
   around vehicle subscriptions, where you can cancel at any time.
 image: https://techcrunch.com/wp-content/uploads/2026/09/autonomy-app-bronco-square-white-ver-2.jpg?resize=1200,1200
+categories:
+- Technology & Software
+- Automotive
+- Business & Entrepreneurship
 ---
 
 Four years ago, California startup Autonomy pledged to buy 23,000 EVs from 17 automakers, including Tesla, and make them available as part of a vehicle subscription service. It was a combination of two trends that had taken off in the early 2020s.

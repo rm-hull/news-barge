@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses following
   a series of overnight burglaries in the Nidderdale area.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjg1YzQ1LTBiMDctNGU5Mi04NzQ1LTk3ZmQwM2Y5MTBjYTpkNDUxMDQwMC1mOTVhLTQwYWMtYWZlZS0wNTk1OTQ1Y2I3Yzg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 # North Yorkshire Police appealing for information after series of overnight burglaries in Nidderdale

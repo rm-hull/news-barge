@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: The new SoundForm Isolate and Dot buds offer ANC and mouth-chewing names
   at a low price
 image: https://cdn.mos.cms.futurecdn.net/se6fTzroxacRkSU3yc5pjA-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Belkin earbuds in orange held in a hand, with white and black options behind it, at IFA](https://cdn.mos.cms.futurecdn.net/se6fTzroxacRkSU3yc5pjA.jpg) 

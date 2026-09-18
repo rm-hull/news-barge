@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Rapper’s supporters reflect on ‘astonishing’ events leading to Duane
   Davis being found guilty over 1996 fatal shooting
 image: https://i.guim.co.uk/img/media/91511da1b091b5553c925282b0515c890eaebe6c/195_0_4281_3424/master/4281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2c2d30bee30e3d00253607e9e170f9f
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A criminal conviction this week in the murder of Tupac Shakur, the first since the rapper was gunned down in 1996, sent shockwaves through his sea of fans who have waited three decades for answers.

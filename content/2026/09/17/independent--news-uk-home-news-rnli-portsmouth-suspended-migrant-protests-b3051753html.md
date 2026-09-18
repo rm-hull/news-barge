@@ -7,6 +7,10 @@ scraped_at: '2026-09-17T13:24:07Z'
 published: '2026-09-17T00:00:00Z'
 description: RNLI volunteers were branded ‘traitors’ after bringing migrants ashore
 image: https://static.independent.co.uk/2026/09/14/07/2294886560..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The RNLI has temporarily closed its Portsmouth station following anti-migrant protests in the city.

@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A number of captivity-reared corncrakes have been released into the wild
   this summer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b931/live/6c3f3480-a2c3-11f1-9024-715001d09aeb.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
 ---
 
 ![A corncrake - a brown bird - is being held in a gloved hand in front of a table with people around it. There is a field in the background.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/b931/live/6c3f3480-a2c3-11f1-9024-715001d09aeb.jpg)

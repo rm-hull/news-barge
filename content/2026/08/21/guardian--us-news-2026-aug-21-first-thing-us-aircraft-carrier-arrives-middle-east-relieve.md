@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: The USS George Washington has arrived in the Middle East. Plus, an investigation
   into the add-on utility fees that can lead to evictions
 image: https://i.guim.co.uk/img/media/00be26763cb40180741a529acb6bd72b78b3a519/852_0_3822_3059/master/3822.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a7db37d05cd2287e101e213ca265e97
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Good morning.

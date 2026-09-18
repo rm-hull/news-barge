@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: The Christmas special of popular BBC detective series Ludwig will be
   set in Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21404626.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 *(Image: Amanda Searle/Big Talk Studios/BBC/PA Wire)*

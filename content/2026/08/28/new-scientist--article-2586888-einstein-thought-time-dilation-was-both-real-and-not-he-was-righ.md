@@ -9,6 +9,10 @@ description: What even is time? Columnist Karmela Padavic-Callaghan takes on thi
   mind-bending question by exploring the proof we have that time dilation is both
   a physical phenomenon and a psychological one
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685329.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309685329.jpg?w=840)

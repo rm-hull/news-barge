@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: If you have ever watched The Yorkshire Vet before, you might remember
   the Huddersfield vet practice and vets that featured in the show.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21451954.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: YouTube/Channel 5)*

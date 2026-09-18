@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer
   but says players have to "perform".
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Tuchel recalls Palmer and Alexander-Arnold to England squad

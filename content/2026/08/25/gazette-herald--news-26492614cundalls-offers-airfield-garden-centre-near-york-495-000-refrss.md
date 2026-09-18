@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Airfield Garden Centre at Fangfoss near York has gone on the market for
   £495,000.
 image: https://www.gazetteherald.co.uk/resources/images/21367434.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A garden centre near York has gone on the market for £495,000.

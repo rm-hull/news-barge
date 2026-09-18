@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: About two weeks after giving birth, Bridget María Chesterton was curled
   up on the bathroom floor, saying things that made little sense
 image: https://static.independent.co.uk/2026/08/23/13/Postpartum_Psychosis_35976.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 About two weeks after giving birth, Bridget María Chesterton was found curled up on her bathroom floor, confused and saying things that made little sense.

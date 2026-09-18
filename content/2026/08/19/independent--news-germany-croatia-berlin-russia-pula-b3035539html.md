@@ -10,6 +10,9 @@ description: Germany authorities say a Ukrainian man has been arrested Croatia i
   relation to undersea explosions that damaged the Nord Stream gas pipelines between
   Russia and Germany in 2022
 image: https://static.independent.co.uk/2026/08/19/11/Germany_Nord_Stream_Arrest_99886.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Ukrainian man was arrested Wednesday in Croatia in relation to undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany in 2022, Germany’s federal prosecutor said.

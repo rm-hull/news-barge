@@ -10,6 +10,11 @@ description: How do we stop a runaway train? We cannot. But we can build the saf
   example. The Commons rejected the Bill by sixteen votes despite having supported
   similar legislation before.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAyMDk5ZjdhLTRiN2EtNDc5Yy05ODkyLWE3OGIwOTc3YTQxYTpjZmRlYmY3Mi05ZTY2LTQ1YzUtYTIxNS0yODU4YjQ5MzhhYjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # The demand for choice on assisted dying is not going away - Daxa Patel

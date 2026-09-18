@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The search for a missing woman in Yorkshire has concluded after police
   found a body inside a car down an embankment.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMxNDQ0NTNhLTdiZGYtNGRhZi1iYjU4LWE4ZmM1MTJlYjIyYzozY2ZkYzc1Ny0yMTFlLTRiMjAtOTBjMi0xNWQ3NjdjN2M1Njc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Search for missing woman concludes after body found in car in undergrowth near the Cleveland Tontine

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Other governments could seek similar concessions, while separate legal
   action is pending in places ranging from Kenya to the Netherlands
 image: https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/0_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f56817b6fcd30c4968c981a673d9c27a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-11T12:48:33Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Publicity-Shot-UNDERDOG-Jess-Murray-Lara-Stafford-Millie-Rhodes-by-John-Saunders.webp
+categories:
+- Local
+- York
+- Arts & Culture
+- Society & Culture
 ---
 
 These are the Brontë sisters like you’ve never seen them before…

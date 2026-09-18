@@ -9,6 +9,10 @@ description: Netflix has walked back plans to put AAA games on its streaming pla
   Instead, it’s pivoting to marketing highly anticipated titles like ‘Grand Theft
   Auto VI.’
 image: https://media.wired.com/photos/6a900c58c54853da961d0c02/191:100/w_1280,c_limit/Jason_and_Lucia_02_With_Logos_landscape.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 Later today, Netflix will stream a live event with Rockstar and Take-Two Interactive, the developer and publisher of the highly anticipated video game *Grand Theft Auto VI*. Called* Grand Theft Auto VI: An Extended Look,* it’s the third official trailer for the game, which releases on November 19.

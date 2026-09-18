@@ -8,6 +8,11 @@ scraped_at: '2026-08-25T13:08:04Z'
 published: '2026-08-25T00:00:00Z'
 description: A Yorkshire garden centre has gone on the market for £495,000.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21367435.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Cundalls)*

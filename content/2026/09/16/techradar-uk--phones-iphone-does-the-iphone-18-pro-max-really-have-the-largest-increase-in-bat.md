@@ -9,6 +9,8 @@ published: '2026-09-16T00:00:00Z'
 description: Apple is promising "the largest increase in battery life ever" on an
   iPhone this year, but does that match up with reality?
 image: https://cdn.mos.cms.futurecdn.net/jJE2Ufd8ip7M7SknihUpgB-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Apple iPhone 18 Pro and iPhone 18 Pro Max Review](https://cdn.mos.cms.futurecdn.net/jJE2Ufd8ip7M7SknihUpgB.jpg) 

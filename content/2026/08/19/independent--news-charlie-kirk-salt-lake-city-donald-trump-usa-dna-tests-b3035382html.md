@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: Prosecutors in Charlie Kirk’s killing have pointed to an engraved bullet
   in arguing that Kirk was targeted for how the defendant perceived his politics
 image: https://static.independent.co.uk/2026/08/19/06/Charlie_Kirk_Shot_2_198.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Prosecutors in Charlie Kirk 's killing pointed Tuesday to an engraved bullet, arguing that the inscription “Hey Facist! CATCH!” demonstrates that Kirk was targeted for how the defendant perceived his politics.

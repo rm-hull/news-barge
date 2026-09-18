@@ -9,6 +9,8 @@ published: '2026-09-08T00:00:00Z'
 description: '''I have uninstalled Bing Wallpaper with extreme prejudice'': Windows
   11 desktop becoming a giant Harry Potter ad has provoked a rebellion.'
 image: https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Woman disgusted by her Windows 11 laptop](https://cdn.mos.cms.futurecdn.net/7EpEu8Xo2XadaegiM5zG6U.jpg) 

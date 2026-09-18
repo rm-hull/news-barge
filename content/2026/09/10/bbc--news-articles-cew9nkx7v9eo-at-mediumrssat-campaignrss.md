@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: As countries grapple with energy costs pushing up inflation, this month
   will see how central banks respond.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A woman sits at her laptop while holding her bank card in her right hand. She looks deep in thought, with her left hand on the side of her head. She has blonde hair and is wearing a yellow jumper.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg)

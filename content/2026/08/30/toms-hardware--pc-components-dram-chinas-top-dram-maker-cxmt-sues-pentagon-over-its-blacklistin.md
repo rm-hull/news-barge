@@ -9,6 +9,9 @@ published: '2026-08-30T00:00:00Z'
 description: CXMT claims that it has no connection to the Chinese People's Liberation
   Army.
 image: https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![CXMT headquarters](https://cdn.mos.cms.futurecdn.net/3nVy6PgRqeCbLk2BiLxR5W.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Trian journey times between Manchester and York are set to be cut and
   the number of services running increased under plans revealed by the…
 image: https://www.gazetteherald.co.uk/resources/images/21437861.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: Alstom)*

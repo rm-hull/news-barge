@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The attack in Pavlohrad city centre was the third Russian strike on a
   mall within days, local media report.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/adf5/live/0371abe0-ad31-11f1-9bc8-3509bd1a4ead.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Two firefighters direct a hose at billowing smoke in front of them. A burned-out car is on fire in the foreground.](https://ichef.bbci.co.uk/ace/standard/557/cpsprodpb/adf5/live/0371abe0-ad31-11f1-9bc8-3509bd1a4ead.png)

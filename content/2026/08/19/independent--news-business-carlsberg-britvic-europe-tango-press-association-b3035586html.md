@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Danish beer giant said it has been supported by earlier-than-expected
   benefits from its £3.3 billion takeover of J2O maker Britvic last year.
 image: https://static.independent.co.uk/2023/05/16/15/18084111-bd6fb60e-9d94-47a1-9bc6-20f2ba3c05e6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Soft drinks and non-alcoholic beer have helped boost trading at Carlsberg as demand for beer remained under pressure.

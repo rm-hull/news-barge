@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A MAN from Leeds has been charged following an investigation into non-recent
   child sexual offences.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20137622.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Supplied)*

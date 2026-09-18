@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: As the Sussexes await a Home Office decision on state protection, the
   daily school run has emerged as their biggest security risk
 image: https://static.independent.co.uk/2026/08/20/12/261c62d2ad116498f47e9831cdb216a9Y29udGVudHNlYXJjaGFwaSwxNzg3MzEyMjc4-2.84292758.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Duke and Duchess of Sussex view the daily school run as their primary security risk following their return to the UK, it has been reported.

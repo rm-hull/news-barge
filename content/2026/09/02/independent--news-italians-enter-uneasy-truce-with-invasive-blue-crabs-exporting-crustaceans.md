@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: Fishermen in Italy have shifted from incinerating invasive Atlantic blue
   crabs to commercializing them
 image: https://static.independent.co.uk/2026/09/02/05/Italy_Blue_Crab_Invasion_63973.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Food & Cooking
 ---
 
 Italian fishermen for two years incinerated most of the invasive Atlantic blue crabs caught in the Po River Delta south of Venice. Few Italians had an appetite for the alien predator blamed for decimating their prized Manila clams.

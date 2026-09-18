@@ -8,6 +8,9 @@ scraped_at: '2026-08-28T22:14:52Z'
 published: '2026-08-28T00:00:00Z'
 description: DLSS 5 support broadens thanks to modder.
 image: https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV-2560-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Control Running DLSS 5 on RTX 4080 Super](https://cdn.mos.cms.futurecdn.net/XWFApR3UjpmFwiQ2t7DdNV.png) 

@@ -9,6 +9,12 @@ published: '2026-09-11T00:00:00Z'
 description: It was 25 years ago today that terrorist attacks devastated America and
   changed the world forever.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21435109.jpg?type=og-image&xType=0&yType=380
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Society & Culture
 ---
 
 IT was 25 years ago today that terrorist attacks devastated America and changed the world forever.

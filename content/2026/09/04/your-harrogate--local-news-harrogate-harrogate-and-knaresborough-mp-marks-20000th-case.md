@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The office of Harrogate and Knaresborough MP Tom Gordon has processed
   its 20,000th piece of casework.
 image: https://mmo.aiircdn.com/409/6a9ab5ee3ece03b72d7.jpg
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 ![](https://mmo.aiircdn.com/409/6a9ab5ee3ece03b72d7.jpg) 

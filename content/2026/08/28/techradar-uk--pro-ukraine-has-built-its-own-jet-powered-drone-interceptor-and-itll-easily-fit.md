@@ -8,6 +8,8 @@ published: '2026-08-28T00:00:00Z'
 description: Ukraine's new drone hunter takes flight as Russian Shaheds face a faster
   and very different kind of threat
 image: https://cdn.mos.cms.futurecdn.net/Y3P96kHzpnDA6EJ6sF2o55-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Drone interceptor: The Ukrainian Alexa Spatium UAS](https://cdn.mos.cms.futurecdn.net/Y3P96kHzpnDA6EJ6sF2o55.png) 

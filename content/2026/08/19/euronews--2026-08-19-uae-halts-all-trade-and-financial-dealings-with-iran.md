@@ -10,6 +10,10 @@ description: Abu Dhabi announced the suspension after Iran fired two ballistic m
   partner for sanctioned Iran, as crude flow through the Strait of Hormuz has fallen
   to less than a quarter of pre-war levels.
 image: https://images.euronews.com/articles/stories/09/88/08/32/1200x675_cmsv2_8fd61587-9740-575d-b827-acb06e8c0b0f-9880832.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 **Toby Gregory**

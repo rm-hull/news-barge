@@ -9,6 +9,11 @@ description: Some of the best tennis players in the world will play doubles spec
   in the revamped 16-team U.S. Open mixed doubles tournament. A $1 million prize was
   added last year to attract top singles players to the competition.
 image: https://static.independent.co.uk/2026/08/25/21/US_Open_Tennis_67488.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Video Gaming
 ---
 
 Top tennis stars team up for the U.S. Open mixed doubles tournament, in photos

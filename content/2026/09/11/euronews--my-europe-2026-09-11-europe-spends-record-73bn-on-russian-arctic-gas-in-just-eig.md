@@ -9,6 +9,10 @@ description: 'Two European companies dominate the Arctic shipping network: Scotl
   Seapeak and the Greek-linked shipping firm Dynagas. Together, vessels tied to these
   two European companies managed 72% of all Yamal LNG exports. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/98/74/1200x675_cmsv2_d4cce41a-28ad-5db0-b42e-2aaf0d4e028f-9909874.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## Two European companies dominate the Arctic shipping network: Scotland's Seapeak and the Greek-linked shipping firm Dynagas. Together, vessels tied to these two European companies managed 72% of all Yamal LNG exports.

@@ -9,6 +9,9 @@ published: '2026-09-07T00:00:00Z'
 description: Lebanon’s Health Ministry says Israeli airstrikes on a southern Lebanese
   village have killed nine people
 image: https://static.independent.co.uk/2026/09/07/10/Lebanon_Israel_68_86.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Lebanon ’s Health Ministry says Israeli airstrikes on a southern Lebanese village has killed nine people. Meanwhile, the Iran-backed Houthi rebels claim to have shot down a Saudi reconnaissance plane.

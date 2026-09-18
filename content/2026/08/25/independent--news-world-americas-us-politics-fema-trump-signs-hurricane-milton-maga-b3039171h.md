@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: Headline-making incident ‘eroded public trust’ and violated ethics rules,
   DHS Inspector General says
 image: https://static.independent.co.uk/2026/08/25/21/2178234582..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 FEMA staffers who canvassed homes in the aftermath of Hurricane Milton in 2024 illegally skipped over properties with signs promoting Donald Trump’s presidential campaign, according to a report from a federal watchdog.

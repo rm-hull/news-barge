@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: The Harrigan madness took no time at all to take hold, but here's everything
   that went down in MobLand season 2 episode 1.
 image: https://cdn.mos.cms.futurecdn.net/edmXX6V5G59Mob2aacjCVC-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Sports
 ---
 
 ![Conrad points a gun at something offscreen](https://cdn.mos.cms.futurecdn.net/edmXX6V5G59Mob2aacjCVC.jpg) 

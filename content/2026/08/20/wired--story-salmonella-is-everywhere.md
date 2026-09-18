@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: From granola to guacamole, a wide variety of foods have been recalled
   lately over salmonella risks. Experts say common-sense precautions go a long way.
 image: https://media.wired.com/photos/6a84e46303b7ff172932c668/191:100/w_1280,c_limit/Science_WhySalmonellaIsEverywhere_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Food & Cooking
 ---
 
 Just as the US’s explosive diarrhea situation is starting to improve, there seem to be fresh new food risks to worry about. Jalapeño peppers, eggs, granola, and even dog food are being recalled because of possible contamination with salmonella bacteria.

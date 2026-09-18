@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: On the weekend of 4 September 2026, Crochet Camp is coming to the Harrogate
   area.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Crochet-Camp-Photo-and-Logos.webp
+categories:
+- Local
+- Harrogate
+- Sports
+- Travel
 ---
 
 On the weekend of 4 September 2026, Crochet Camp is coming to the Harrogate area.

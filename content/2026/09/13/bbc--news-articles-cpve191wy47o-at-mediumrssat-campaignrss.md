@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Human rights groups in Turkey have accused the government of using a
   family- values campaign to target the LGBTQ+ community.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Riot police, with a rainbow flag in the background, chase LGBT activists as they try to gather for a pride parade, which was banned by the governorship in Istanbul. Officers are wearing black uniforms, wearing gas masks, and are carrying helmets and riot shields as they move through what appears to be a residential street.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0cf8/live/cecf2da0-af73-11f1-b1d1-571ed4d7ff2c.jpg)

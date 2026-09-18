@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T20:18:58Z'
 published: '2026-09-14T00:00:00Z'
 description: Two vehicles have crashed on the A19 in Skelton, York.
 image: https://www.yorkpress.co.uk/resources/images/18563962.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

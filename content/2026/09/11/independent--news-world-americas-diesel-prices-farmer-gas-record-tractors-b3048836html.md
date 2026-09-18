@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Corn and soybean farmer Jason Kurtz has seen his diesel expenses double
   compared to last year
 image: https://static.independent.co.uk/2026/09/11/17/32/GettyImages-2281627757.jpg?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 American farmers harvesting two of the country's most vital crops, corn and soybeans, are confronting unprecedented diesel costs to operate their tractors, combines, and heavy machinery.

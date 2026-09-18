@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Police discovered Fortune’s body hanging in the backyard of an abandoned
   home in Jackson
 image: https://static.independent.co.uk/2026/09/13/08/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Detectives in Mississippi are continuing their enquiries into the death of Tasia Fortune, a Black woman discovered hanging from a tree last month, following the arrest of a suspect in relation to her homicide.

@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Mothin Ali, is linked to two rental properties via his company, but does
   not appear to profit from them.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0af4/live/1fdfa5d0-a9ed-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Mothin Ali looking to his right, wearing a beige suit jacket with a green and white scarf draped over his right shoulder](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/0af4/live/1fdfa5d0-a9ed-11f1-a291-b542ee92de7c.jpg)

@@ -10,6 +10,10 @@ description: UNICEF says nearly six children and seven women have been released 
   a gang in Haiti that had kidnapped more than 50 people after launching a deadly
   attack on a community near Port-au-Prince nearly a week ago
 image: https://static.independent.co.uk/2026/08/27/22/APTOPIX_Haiti_Gang_Violence_71_57.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Six children and seven women were released by a gang in Haiti that had kidnapped more than 50 people after launching a deadly attack on a community near the capital, Port-au-Prince, nearly a week ago, according to UNICEF.

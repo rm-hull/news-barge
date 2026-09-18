@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Harrogate and Knaresborough’s MP is launching a new Save our High Streets
   plan after what he says are “shock” ONS figures for business closures in North Yorkshire.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJkNjkzODMxLTMxZGQtNGZlNy05NDdjLTRkZDQ5MjFkZWFiYjpkNzE1MzM4Ni02NGE1LTRmZWUtODBkOC01Y2RjOWIwYmU0NTI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Shock business closure figures prompts plea by Harrogate MP to bring back 'hustle and bustle' to high street

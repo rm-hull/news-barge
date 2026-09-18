@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The ad regulator said it had "zero-tolerance" for ads promoting AI tools
   that could sexualise or objectify women.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A man, whose face has been cut off in the picture, holding a phone with both hands while resting his arms on a wooden table. There are out-of-focus plants in the background. He's wearing a dark green t shirt.](https://ichef.bbci.co.uk/ace/standard/860/cpsprodpb/0a00/live/07f248b0-b168-11f1-a1e1-ab09ccd44496.jpg)

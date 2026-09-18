@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T12:59:59Z'
 published: '2026-09-18T00:00:00Z'
 description: Tiger cat species found in Bolivia smaller than average housecat
 image: https://static.independent.co.uk/2026/09/18/7/19/Live-specimen-of-L--tilcayo.png?trim=0,103,0,103&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
 ---
 
 Scientists have identified a new tiger cat species in the cloud forest region of Bolivia, marking the first discovery of a living feline in over a century.

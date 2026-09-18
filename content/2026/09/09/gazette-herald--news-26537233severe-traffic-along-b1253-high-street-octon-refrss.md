@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: Drivers have been warned of severe traffic along the B1253 High Street
   in Octon.
 image: https://www.gazetteherald.co.uk/resources/images/20866628.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Travel
 ---
 
 *(Image: Provided)*

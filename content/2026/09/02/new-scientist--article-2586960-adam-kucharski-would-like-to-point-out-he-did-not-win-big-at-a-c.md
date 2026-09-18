@@ -10,6 +10,9 @@ description: Feedback goes down an AI rabbit hole after discovering that the int
   is making up stories about epidemiologist and mathematician Adam Kucharski - and
   that his wife has had to weigh in
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310246769.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310246769.jpg?w=840)

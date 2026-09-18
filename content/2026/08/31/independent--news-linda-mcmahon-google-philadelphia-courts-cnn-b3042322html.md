@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Seven parents in a Philadelphia suburb have sued their school district
   in federal court for not allowing families to opt out of internet use
 image: https://static.independent.co.uk/2026/08/31/21/Education_Technology_Pushback_12261.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Family & Parenting
 ---
 
 Parents pushing back against technology in the classroom have so far directed their anger toward major corporations like Google and Curriculum Associates, the company behind the widely used i-Ready platform.

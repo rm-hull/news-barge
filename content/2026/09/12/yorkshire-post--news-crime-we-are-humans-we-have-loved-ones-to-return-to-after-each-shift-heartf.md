@@ -9,6 +9,12 @@ published: '2026-09-12T00:00:00Z'
 description: A man who drove at a police officer in Scarborough to evade arrest has
   been locked up for 14 months.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjU0OGMzMWQwLTJiN2MtNDUyZi04MmY5LWRkYjMwMmU2ZWNlNjplNzllOTM5NS05NTM0LTRlNzctOGEzMC1iNmZmMTIyYjRmNDA=.jpg?crop=3:2,smart&trim=&width=399&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # “We are humans, we have loved ones to return to after each shift:” Heartfelt words of police after man who drove at officer locked up

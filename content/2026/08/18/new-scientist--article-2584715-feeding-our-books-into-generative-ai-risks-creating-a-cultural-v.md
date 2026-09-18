@@ -9,6 +9,10 @@ description: When we put our literature, games and films into AI models, we risk
   our cultural history with a mishmash of auto-generated works. We desperately need
   to preserve human writing, says columnist Annalee Newitz
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI308065486.jpg
+categories:
+- Science
+- Technology & Software
+- Arts & Culture
 ---
 
 ![A book is fed into a scanner](https://www.newscientist.com/wp-content/uploads/2026/08/SEI308065486.jpg?w=840)

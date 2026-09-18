@@ -9,6 +9,10 @@ description: The early website Hot or Not taught its users to rank people at sca
   Twenty-six years later, dating apps are trying to escape the culture the site helped
   create.
 image: https://media.wired.com/photos/6a84877f730c1a3d3cacb26e/191:100/w_1280,c_limit/HotOrNot.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Before the internet learned to like, match, and swipe, it learned to ask one brutally simple question: hot or not?

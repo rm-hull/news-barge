@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: PriceMice shows the cost of the same accommodation when booked from other
   countries to help you save on vacations
 image: https://cdn.mos.cms.futurecdn.net/GJRUc5qMm6i88YE4zGcTgT-1102-80.png
+categories:
+- Technology & Software
+- Travel
+- Personal Finance & Investing
 ---
 
 ![NordVPN's PriceMice extension, promo image](https://cdn.mos.cms.futurecdn.net/GJRUc5qMm6i88YE4zGcTgT.png) 

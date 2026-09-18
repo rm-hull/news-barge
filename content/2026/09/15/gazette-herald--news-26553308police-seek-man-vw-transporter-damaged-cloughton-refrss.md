@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Police are trying to identify a man after a VW Transporter
   was damaged in Cloughton.
 image: https://www.gazetteherald.co.uk/resources/images/21459887.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

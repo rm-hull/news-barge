@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: A boat carrying migrants has capsized off southern Tunisia, leaving at
   least two people dead
 image: https://static.independent.co.uk/2026/08/24/11/download.-1.?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least two people have died and 12 remain missing after a boat carrying migrants overturned off the southern coast of Tunisia, the national guard confirmed on Saturday. A single survivor was rescued.

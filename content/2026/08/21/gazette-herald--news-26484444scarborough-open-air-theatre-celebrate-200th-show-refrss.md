@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: A top North Yorkshire venue is celebrating its 200th show since reopening
   and bringing a record-breaking season to a close.
 image: https://www.gazetteherald.co.uk/resources/images/20178196.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 A TOP North Yorkshire venue is celebrating its 200th show since reopening and bringing a record-breaking season to a close.

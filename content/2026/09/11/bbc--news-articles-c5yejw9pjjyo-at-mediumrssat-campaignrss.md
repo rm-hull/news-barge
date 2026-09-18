@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: O'Leary has said airline passengers "can't afford to fly with the high-fare
   rapists around Europe".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![A close-up Michael O'Leary, chief executive of Ryanair, wearing a pink and white chequered shirt and burgundy jumper. Behind him, the Ryanair logo is on a printed background in soft focus.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg)

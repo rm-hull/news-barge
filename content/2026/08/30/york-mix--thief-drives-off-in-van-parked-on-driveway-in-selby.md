@@ -7,6 +7,11 @@ scraped_at: '2026-08-30T13:47:57Z'
 published: '2026-08-30T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/788014609_2322098508615913_3540240039625479824_n.png.jpeg
+categories:
+- Local
+- York
+- Automotive
+- Travel
 ---
 
 North Yorkshire Police are appealing for any witnesses to a stolen Ford Transit van from the Selby area.

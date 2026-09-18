@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Nicaragua has accused Germany of breaching the Genocide Convention by
   selling weapons to Israel that were used in Gaza
 image: https://static.independent.co.uk/2026/09/08/11/World_Court_Germany_Israel_41949.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Nicaragua told the United Nations’ top court on Tuesday that Germany has breached the Genocide Convention by selling Israel weapons that were used in the country's war in Gaza.

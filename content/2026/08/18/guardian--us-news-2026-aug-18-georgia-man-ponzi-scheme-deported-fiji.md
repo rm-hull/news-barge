@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Edward Zimbardi, 59, who had fled US, will appear in court in Los Angeles
   on wire fraud and money-laundering charges
 image: https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/456_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a338a0cf931a16e3c0f40693d474ea1
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A man from Flowery Branch, Georgia, has been deported from Fiji to face charges in his home state accusing him of defrauding more than 6,000 investors and causing more than $165m of losses in a cryptocurrency Ponzi scheme, the US attorney in Atlanta said on Monday.

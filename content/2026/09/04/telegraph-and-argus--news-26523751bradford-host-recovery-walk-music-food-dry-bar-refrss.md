@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T18:59:04Z'
 published: '2026-09-04T00:00:00Z'
 description: Bradford Council is hosting a walk celebrating recovery.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19153878.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

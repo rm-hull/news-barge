@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Around 200 flights have been cancelled as a result of the UK air traffic
   control issue, FlightRadar24 has said.
 image: https://www.yorkpress.co.uk/resources/images/21412409.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

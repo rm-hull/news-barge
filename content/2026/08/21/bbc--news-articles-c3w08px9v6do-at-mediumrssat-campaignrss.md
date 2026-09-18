@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Dalibor Sentic was 10 when in the early 1990s his family fled Croatia
   for Sweden.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b640/live/1544ac50-9df0-11f1-898b-91bf436c749f.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![The childhood photo of Claire and Peter which was sent to Dalibor Sentic in the care package he recieved in 1992. Claire and Peter are photographed in school uniforms, stood in what appears to be a bedroom. Claire is taller than Peter and stood to the left of the image. She is wearing a black skirt, white blouse, red tie, and grey cardigan. She has blonde hair with a fringe. Her hair is tied up. Peter is shorter than Claire and is photographed to the right of her. He is wearing black trousers, a white shirt and red tie, with a grey jumper over the top.](https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/b640/live/1544ac50-9df0-11f1-898b-91bf436c749f.jpg)

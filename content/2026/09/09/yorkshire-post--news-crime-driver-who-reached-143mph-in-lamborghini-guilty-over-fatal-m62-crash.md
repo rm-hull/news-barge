@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A woman who drove a hired Lamborghini at speeds of up to 143mph before
   a fatal M62 crash has been found guilty of causing a 20-year-old man’s death.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/09/16/59/shaan_hussain_1.png?trim=324,0,324,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Driver who reached 143mph in Lamborghini guilty over fatal M62 crash

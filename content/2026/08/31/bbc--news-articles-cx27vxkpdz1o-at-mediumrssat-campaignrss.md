@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: For decades, swimming ability has been lower in the black community.
   Our writer asks why.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae17/live/9244d340-a16c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Florence Freeman](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b67f/live/e5ee3c40-9bd9-11f1-aed2-8d6da8d75094.png)

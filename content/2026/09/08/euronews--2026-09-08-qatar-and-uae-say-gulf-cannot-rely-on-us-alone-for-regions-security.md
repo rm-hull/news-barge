@@ -9,6 +9,11 @@ description: Qatar and the UAE have called for stronger Gulf defences as US secu
   protection is no longer enough, with officials stating that trust with Iran "is
   a mountain to climb" and that their economies "cannot be held hostage" by Tehran.
 image: https://images.euronews.com/articles/stories/09/90/57/12/1200x675_cmsv2_c9c43c7a-e591-5e61-bc39-b37ce6eb16de-9905712.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Qatar and the UAE have called for stronger Gulf defences as US security protection is no longer enough, with officials stating that trust with Iran "is a mountain to climb" and that their economies "cannot be held hostage" by Tehran.

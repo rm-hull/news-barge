@@ -9,6 +9,13 @@ published: '2026-08-25T00:00:00Z'
 description: The fingerprints of social media are once again leaving an indelible
   mark on society.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjIyN2RmZjM1LWY0NmYtNDNkMC1hZGVhLTdiZTA4MjNhNGViODphOTY3ZmQ0MC1mODI4LTQ5OGQtYWZkNy04YjA4MTU4OGM4MjE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Technology & Software
+- News & Politics
 ---
 
 # Social media platforms once again leave a mark on society with failure to take action on dangerous driving videos

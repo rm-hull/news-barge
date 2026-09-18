@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Two new daytime community choirs are set to launch in Harrogate and Knaresborough
   next month.
 image: https://mmo.aiircdn.com/409/6a855f90aaccf1201e7.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6a855f90aaccf1201e7.jpg) 

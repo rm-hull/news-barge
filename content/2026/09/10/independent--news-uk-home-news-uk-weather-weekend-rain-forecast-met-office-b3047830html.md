@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Autumn rain will sweep across the UK this weekend, but won't break lingering
   drought, say experts
 image: https://static.independent.co.uk/2026/09/10/09/2257893346..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 The UK is bracing for a wet and windy start to the weekend before conditions settle into sunnier spells for most on Sunday.

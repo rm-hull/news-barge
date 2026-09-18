@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: FRESHLY baked sourdough pizzas and stuffed dough balls are on the menu
   at a new kitchen launching this Bank Holiday.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21371413.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 FRESHLY baked sourdough pizzas and stuffed dough balls are on the menu at a new kitchen launching this Bank Holiday weekend.

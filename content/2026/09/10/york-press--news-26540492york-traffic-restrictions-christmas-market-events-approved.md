@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The use of powers banning traffic from York city centre is sensitive
   and difficult, the council's leader has said.
 image: https://www.yorkpress.co.uk/resources/images/20656633.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Anti-terror traffic bans in York 'sensitive and difficult' as powers approved

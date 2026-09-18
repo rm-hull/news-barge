@@ -9,6 +9,12 @@ description: Campaigners who tried to save a care unit for elderly patients at B
   Hospital from closure have expressed outrage after an NHS trust pressed on, despite
   huge opposition.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY0NmZjMjRjLWQyYmMtNDVhNS05ODM3LTlmMDllYTJkMDkwOTpkYjYxMzljOC1iYThhLTQ2ZjQtOGNlNy1mZDE4NTFjY2RmNTE=.jpg?crop=3:2,smart&trim=&width=914&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- News & Politics
 ---
 
 # 'Shameless costcutting' blamed for decision to close Bridlington Care Unit

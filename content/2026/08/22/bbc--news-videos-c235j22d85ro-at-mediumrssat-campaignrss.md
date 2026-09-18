@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: As the US president insults a journalist again, the BBC looks at the
   questions he does not like to answer.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 # 'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?

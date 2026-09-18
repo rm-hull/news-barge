@@ -9,6 +9,11 @@ published: '2026-09-06T00:00:00Z'
 description: Andy Burnham replaced Keir Starmer in the second half of July but it
   appears this did not result in a boost to the UK economy
 image: https://static.independent.co.uk/2026/08/26/11/01M0YK4M59J2SE2ZM3HPEEXMKR.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Economists have warned that the UK economy is likely to have experienced a slight dip in July due to pressure from sluggish retail activity and higher energy costs for households.

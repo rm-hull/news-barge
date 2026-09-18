@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A 57-year-old man has been arrested on suspicion of murder after a man
   was found dead with multiple injuries at a Barnsley property.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/15/20/Wingfield-Road-in-Athersley-South.png?trim=0,20,0,20&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Murder investigation launched after man found dead with multiple injuries

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: This $10,000 Chinese laptop packs enough memory to rival desktop workstations
   built for serious AI researchers around the world
 image: https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![SIXUNITED AMD GORGON HALO LAPTOP](https://cdn.mos.cms.futurecdn.net/mPDojD3NtwnHbR3LWLSZTJ.jpg) 

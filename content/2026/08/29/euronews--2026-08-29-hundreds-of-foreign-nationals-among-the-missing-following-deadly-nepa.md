@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: On Friday, Nepal's tourism board put the number of tourists still "out
   of communication" at 622 - 471 of which were foreign tourists.
 image: https://images.euronews.com/articles/stories/09/89/39/58/1200x675_cmsv2_b7e0565c-bd52-534d-9946-7ffc7626233a-9893958.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## On Friday, Nepal's tourism board put the number of tourists still "out of communication" at 622 - 471 of which were foreign tourists.

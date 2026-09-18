@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: All US immigrant visa applications halted as state department moves to
   tighten restrictions and limit access. Plus tributes pour in for Dolly Parton
 image: https://i.guim.co.uk/img/media/cfca606cbd9105c88f42b354a07464d5098c4c58/0_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fe41af42969ae6300ce2e267e603568
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Good morning. All US immigrant visa applications have been paused by the Trump administration as the state department moves to tighten restrictions and limit access to applicants whom they deem could need US assistance. The agency launched the initiative at all embassies and consulates in early August.

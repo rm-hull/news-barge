@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Pickering Country Fair showcased vintage vehicles, trade stands and craft
   and food stalls on Saturday.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjYzMjk0ZTE4LWE3NWQtNDdhOC1iNDIwLTY2YzFlNWFiYjAxMzo5YjM2MTc2Mi1mYmVjLTRhOWUtYWRmOC05NGMxNGFkN2ExY2M=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 The popular event held at Galtres Pickering Showground also has an old time fun-fair, bars and traction engines on display.

@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Agreeing a deal only to be asked to slash the price can be frustrating
   for would-be sellers
 image: https://static.independent.co.uk/2026/08/24/13/42/iStock-1516718625.jpeg?trim=131,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Eight in ten estate agents are seeing more examples of “gazundering” this year - when a buyer lowers their offer for a property just before exchanging contracts.

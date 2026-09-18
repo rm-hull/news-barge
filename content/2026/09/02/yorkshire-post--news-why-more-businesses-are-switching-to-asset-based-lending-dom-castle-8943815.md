@@ -10,6 +10,12 @@ description: It’s undeniable that the SME funding landscape has shifted in rec
   focusing more on whether their funding is flexible enough to help them respond to
   an increasingly unpredictable trading environment.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1MTI4NGM5LWQ1NjgtNGRiNS1iZGQzLWE0NzZiMDg1OTM5NjoyOTU4YWQzMi1hYjliLTRhYjMtODdiMi02YzllNWFlOWUwODE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Why more businesses are switching to asset-based lending: Dom Castle

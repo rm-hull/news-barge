@@ -9,6 +9,12 @@ published: '2026-09-18T00:00:00Z'
 description: A RETROSPECTIVE application to retain a cafe that was built without planning
   permission has been withdrawn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21210154.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: T&A)*

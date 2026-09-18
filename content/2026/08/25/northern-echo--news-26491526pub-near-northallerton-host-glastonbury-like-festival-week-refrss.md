@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: The Beeswing in East Cowton is hosting its 13th ‘Glastonbury’ festival
   to raise money for end of life care at a nearby hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21365789.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 A North East pub is hosting its 13th ‘Glastonbury’ festival to raise money for end of life care at a nearby hospital.

@@ -9,6 +9,10 @@ scraped_at: '2026-09-12T15:00:44Z'
 published: '2026-09-12T00:00:00Z'
 description: Silicon heist at the border
 image: https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Inside of a PC](https://cdn.mos.cms.futurecdn.net/uGuR9sKGSzuHwLFjKDGBw3.jpg) 

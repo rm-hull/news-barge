@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T21:32:37Z'
 published: '2026-08-19T00:00:00Z'
 description: This week's cartoon from Twisteddoodles
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308199459.jpg
+categories:
+- Science
+- Technology & Software
+- Pets & Animals
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308199459.jpg?w=840)

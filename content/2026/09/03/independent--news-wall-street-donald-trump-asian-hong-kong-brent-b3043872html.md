@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Oil prices have slipped after recent gains, with Brent crude trading
   near $95 a barrel
 image: https://static.independent.co.uk/2026/08/18/04/Japan_Financial_Markets_6_916.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Oil prices slipped Thursday after recent gains, with Brent crude trading near $95 a barrel, while Asian shares advanced.

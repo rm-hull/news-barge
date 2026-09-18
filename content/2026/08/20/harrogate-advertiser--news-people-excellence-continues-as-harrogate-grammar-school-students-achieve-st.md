@@ -10,6 +10,10 @@ description: Harrogate Grammar School is celebrating another year of strong GCSE
   with students achieving excellent results across a broad range of subjects next
   steps in their education.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjg5MmUxOWE4LTM4YzMtNDhlZi1iZWNhLTFhNWUxOGVlYWE1MTpkY2MxNDE1YS0xNzdlLTQxMjMtYjEwNy1jYTg4ZGRmNjU2ODA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Excellence continues as Harrogate Grammar School students achieve 'strong GCSE outcomes'

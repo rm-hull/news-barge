@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Actor Noel Clarke has been charged with sex offences by the Metropolitan
   Police.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430608.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 *(Image: Aaron Chown/PA Wire)*

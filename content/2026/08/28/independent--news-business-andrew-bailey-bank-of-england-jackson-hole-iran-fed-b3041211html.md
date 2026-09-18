@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Andrew Bailey also said he felt that so-called second-round effects of
   inflation in the UK were ‘quite subdued’.
 image: https://static.independent.co.uk/2026/08/28/18/f71f8fa89b14d9ec30aad368831eaf9aY29udGVudHNlYXJjaGFwaSwxNzg4MDIxODEz-2.85452618.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Artificial intelligence (AI) and robotics will be a “critical source” of faster growth that is needed in the UK economy, the boss of the Bank of England has said.

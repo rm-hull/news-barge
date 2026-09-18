@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: The eclipse will obscure about 93 percent of the moon’s surface. Here
   are the peak times and tips for the best viewing experience.
 image: https://media.wired.com/photos/6a8f4ac850ea70630c0696a7/191:100/w_1280,c_limit/2263984352
+categories:
+- Technology & Software
+- Science
 ---
 
 If you missed the spectacular solar eclipse earlier this month, you have a chance to catch another stunning astronomical phenomenon: a partial lunar eclipse and “blood moon” that will occur on Thursday night into Friday early morning.

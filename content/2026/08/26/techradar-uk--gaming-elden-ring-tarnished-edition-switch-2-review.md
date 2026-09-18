@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: I was skeptical at first, but Elden Ring Tarnished Edition is simply
   a delight on Nintendo Switch 2.
 image: https://cdn.mos.cms.futurecdn.net/6YYLzkNhC7TX4prvxRHSuJ-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Reform UK has confirmed a Bradford ward councillor was arrested following
   an incident at a pub.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21366028.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Newsquest)*

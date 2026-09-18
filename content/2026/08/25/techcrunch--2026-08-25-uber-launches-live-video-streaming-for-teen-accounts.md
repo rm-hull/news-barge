@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T13:08:24Z'
 published: '2026-08-25T00:00:00Z'
 description: Uber said no one will be able to access the video once the ride ends
 image: https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Uber said Tuesday it is introducing a new live video streaming feature for parents to keep track of their children’s safety during rides. The company said that the feature will roll out across the U.S. nationwide in the coming weeks.

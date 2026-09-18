@@ -9,6 +9,10 @@ description: The UK’s energy regulator is using a variety of tricks to keep sp
   data center projects from plugging into the power grid. The country’s AI ambitions
   hang in the balance.
 image: https://media.wired.com/photos/6a8e39f99a6c30f92d1621f3/191:100/w_1280,c_limit/Phantom-Data-Centers-Clog-UK-Power-Grid-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 As data center developers compete for a cut of the hundreds of billions of dollars flowing into the artificial intelligence industry, the queue to join the UK’s power grid has become jammed with projects that will likely never get built. The snarl is exacerbating already years-long wait times for viable projects, and it's messing with attempts to forecast energy demand and plan grid expansions.

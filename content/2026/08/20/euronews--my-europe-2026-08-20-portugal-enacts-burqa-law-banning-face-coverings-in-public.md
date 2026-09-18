@@ -9,6 +9,10 @@ description: 'In Portugal, violators face fines ranging from €150 to €3,000,
   exemptions for health, professional, artistic or weather-related reasons, as well
   as in places of worship, diplomatic missions and on aircraft. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/00/47/1200x675_cmsv2_a57fd2ca-b76a-537c-8954-9d71a5dca720-9880047.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## In Portugal, violators face fines ranging from €150 to €3,000, with exemptions for health, professional, artistic or weather-related reasons, as well as in places of worship, diplomatic missions and on aircraft.

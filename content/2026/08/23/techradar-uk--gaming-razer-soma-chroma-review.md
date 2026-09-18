@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: The Soma Chroma is seriously comfortable. It's good at being a chair,
   but it's just a bit "meh" at everything else.
 image: https://cdn.mos.cms.futurecdn.net/ZWYS9ehAzumaLJnjRNGvkg-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ### TechRadar Verdict

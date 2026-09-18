@@ -9,6 +9,9 @@ published: '2026-09-17T00:00:00Z'
 description: Microsoft exec argues that we're 'seeding a new silicon species' that
   could 'compete with us for resources' — and something needs to be done.
 image: https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL-2560-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A line of robots typing at computers](https://cdn.mos.cms.futurecdn.net/9WT9t3hZhDVD84bF8rSypL.jpg) 

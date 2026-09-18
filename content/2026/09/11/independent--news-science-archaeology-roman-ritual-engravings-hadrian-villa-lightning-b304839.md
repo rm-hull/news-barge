@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Findings shed light on ‘meticulous ritual procedures of time’, researchers
   say
 image: https://static.independent.co.uk/2026/09/11/6/34/Marble-slab-found-buried-under-ancient-Roman-villa.jpeg?trim=0,311,0,311&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 Archaeologists have unearthed a marble slab at Emperor Hadrian’s Villa in Tivoli, Italy, bearing engravings revering the Roman god of lightning.

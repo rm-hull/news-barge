@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A £2.2 billion expansion will see the airport move its emergency runway
   12 metres north to accommodate around 100,000 more flights a year
 image: https://static.independent.co.uk/2026/08/04/13/0bfc6844a36b4202df3f36de2df9080eY29udGVudHNlYXJjaGFwaSwxNzg1OTMyNDk5-2.79204041.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Gatwick airport saw its half-year profits drop by almost a fifth following a decline in passenger numbers caused by the conflict in Iran hitting international travel.

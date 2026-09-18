@@ -9,6 +9,12 @@ description: 'The risk of drones drifting into Finland as a result of the ongoin
   war in Ukraine is rising, the head of the country''s military intelligence service
   said in January. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/28/77/1200x675_cmsv2_7c78aafc-0f53-5022-a556-134d2291571a-9882877.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- Technology & Software
+- History
 ---
 
 ## The risk of drones drifting into Finland as a result of the ongoing war in Ukraine is rising, the head of the country's military intelligence service said in January.

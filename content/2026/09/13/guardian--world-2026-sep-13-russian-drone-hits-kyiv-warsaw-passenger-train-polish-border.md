@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Ukrainian Railways says former British PM and David Petraeus crossed
   into Poland shortly before drone attack near border
 image: https://i.guim.co.uk/img/media/adbd895a4b9bc1f72e9a36c988ae2c2a18f9518c/171_0_1707_1366/master/1707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bcfdb2e300e517ceec1df4c45de79b81
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 A train carrying Boris Johnson and the former CIA chief David Petraeus may have been the target of a Russian drone strike that hit a train engine near the Poland-Ukraine border, according to Ukrainian Railways.

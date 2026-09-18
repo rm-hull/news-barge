@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T15:00:59Z'
 published: '2026-09-12T00:00:00Z'
 description: Artificial Intelligence threatens humanity, or so the people say.
 image: https://cdn.mos.cms.futurecdn.net/rv3TmHCRKSC88LPgX8EfMM-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![Tom's Hardware Premium logo on a collage of images.](https://cdn.mos.cms.futurecdn.net/rv3TmHCRKSC88LPgX8EfMM.jpg) 

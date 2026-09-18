@@ -8,6 +8,9 @@ scraped_at: '2026-09-16T19:32:57Z'
 published: '2026-09-16T00:00:00Z'
 description: Already tested by AMD and Intel, but supply will depend on demand.
 image: https://cdn.mos.cms.futurecdn.net/piUuHtgGMF6aJLG24RchXg-1280-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Micron](https://cdn.mos.cms.futurecdn.net/piUuHtgGMF6aJLG24RchXg.png) 

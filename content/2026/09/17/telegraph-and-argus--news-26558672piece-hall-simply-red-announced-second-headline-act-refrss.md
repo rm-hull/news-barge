@@ -8,6 +8,11 @@ scraped_at: '2026-09-17T13:23:59Z'
 published: '2026-09-17T00:00:00Z'
 description: Another headline act has been announced for The Piece Hall next summer.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18216708.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 *(Image: The Piece Hall/Cuffe and Taylor)*

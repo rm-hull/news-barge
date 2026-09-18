@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Consumers affected could get compensation if it is found that the companies
   broke the law, the Competition and Markets Authority (CMA) said.
 image: https://static.independent.co.uk/2026/08/19/07/d9a6ccf1facbad0069714bc94c194898Y29udGVudHNlYXJjaGFwaSwxNzg3MjA3MjI4-2.79377412.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The UK competition watchdog has launched investigations into the Trainline, Virgin Atlantic and Red Driving School over concerns customers were not shown full prices upfront.

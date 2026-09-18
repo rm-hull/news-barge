@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Burnham previously pledged he would replace tuition fees with a graduate
   tax, saying this would ‘lift the millstone of debt’ from students
 image: https://static.independent.co.uk/2026/09/03/22/2292752648..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Prime Minister Andy Burnham has been criticised for "hiking tuition fees to record levels", with new figures revealing cost increases of a "staggering" 879% since their introduction.

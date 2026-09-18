@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Councils that fail to demonstrate effective road maintenance could lose
   up to a third of their funding.
 image: https://www.thetelegraphandargus.co.uk/resources/images/16621025.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Getty)*

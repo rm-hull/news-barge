@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Bradford Council says no complaints were made over alleged late-night
   drumming in Frizinghall on August 28, as residents raise wider noise concerns.
 image: https://www.thetelegraphandargus.co.uk/resources/images/14328416.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: T&A)*

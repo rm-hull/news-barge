@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: GABRIELLE will perform at Bradford Live next spring as part of her upcoming
   UK tour.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19101122.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: T&A)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: One in five children suffers from obesity, a chronic condition leaving
   them at greater risk of cancer and heart disease
 image: https://static.independent.co.uk/2026/09/03/19/107069139..?trim=0,12,0,12&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 American kids under-12 are now taking GLP-1 drugs to fight obesity at 300 times the rate of seven years ago, according to major new study released today.

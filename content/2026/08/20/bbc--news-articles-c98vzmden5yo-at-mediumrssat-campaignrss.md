@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Apartment blocks and warehouses were targeted in the "massive attack"
   on Thursday, according to the State Emergency Service of Ukraine.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58ef/live/6712fd50-9c3a-11f1-853e-ad17ff71705c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![View of smoke rising from the site of damaged buildings in Kyiv.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/58ef/live/6712fd50-9c3a-11f1-853e-ad17ff71705c.jpg)

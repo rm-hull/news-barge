@@ -9,6 +9,10 @@ description: More than 30,000 packages have already been distributed under the s
   which offers discounts and perks for residents who invite friends and family from
   overseas to visit.
 image: https://images.euronews.com/articles/stories/09/90/16/41/1200x675_cmsv2_5984256b-1c6c-58ec-aabf-398d00503b62-9901641.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## More than 30,000 packages have already been distributed under the scheme, which offers discounts and perks for residents who invite friends and family from overseas to visit.

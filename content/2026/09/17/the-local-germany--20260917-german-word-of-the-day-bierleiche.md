@@ -9,6 +9,11 @@ description: Ever wondered how Germans describe the festival-goer who's become c
   horizontal after one drink too many? Here’s a vivid piece of slang that’s likely
   to get plenty of use over the next few weeks.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-word-of-the-day-blank-picture55.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Comedy & Entertainment
 ---
 
 **What does* Bierleiche*mean?**

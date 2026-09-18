@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Dawn Light is accused of taking photos of jurors outside the Plymouth
   courthouse, a practice prohibited by the court.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0826/live/c1835830-a6e8-11f1-9e4c-79c1c0e340c6.jpg
+categories:
+- UK
+- News & Politics
+- Law & Justice
 ---
 
 Dawn Light was chased by a scrum of reporters as she left court

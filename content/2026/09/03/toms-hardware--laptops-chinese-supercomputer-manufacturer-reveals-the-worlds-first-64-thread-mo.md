@@ -9,6 +9,9 @@ scraped_at: '2026-09-03T12:49:01Z'
 published: '2026-09-03T00:00:00Z'
 description: Blazing through local 35B MoE models at 50 Tokens/s
 image: https://cdn.mos.cms.futurecdn.net/tACxSXFWuTcX5MjMqU2CLH-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Sugon 8000](https://cdn.mos.cms.futurecdn.net/tACxSXFWuTcX5MjMqU2CLH.jpg) 

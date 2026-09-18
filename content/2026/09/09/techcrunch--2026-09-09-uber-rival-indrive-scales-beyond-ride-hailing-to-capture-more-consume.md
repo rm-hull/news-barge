@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: First piloted in July 2025, inDrive's ad business has served more than
   2 billion impressions and attracted over 2,000 paying advertisers a month.
 image: https://techcrunch.com/wp-content/uploads/2023/11/81752CC3-0EA6-4B02-A8FB-D98234DEFDA5.jpeg?w=1170
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Known for letting riders and drivers negotiate fares, inDrive spent the past year adding businesses such as advertising and groceries to its core ride-hailing service. Now the Uber rival is scaling those bets, installing new leaders as its ads, delivery, and financial-services businesses show early signs of traction across its largely emerging-market user base.

@@ -10,6 +10,12 @@ description: Seven members of a 22-person criminal operation that persuaded home
   to pay vastly inflated prices for unnecessary or poor-quality roofing and building
   work have been sentenced.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmEzNWE1NDk4LTZlYzUtNGEzMy1iYjMxLWUyZjU2YTQ1ZWYyYjpiMDUxZmIwYS1jYjFkLTQzNjctOWU5ZS02NTIzYmE3OWM4YTQ=.jpg?crop=3:2,smart&trim=&width=1080&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Ringleaders of 22-strong criminal operation that extracted £1m from victims jailed

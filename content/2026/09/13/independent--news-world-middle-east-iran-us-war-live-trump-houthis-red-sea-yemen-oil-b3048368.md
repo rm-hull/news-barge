@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: The US military, which has previously struck Iranian vessels in the region,
   did not issue an immediate statement
 image: https://static.independent.co.uk/2026/09/11/11/2026-09-11T095920Z_484003413_RC2XGNA4J2NB_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE.JPG?trim=0,947,0,947&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A crew member was killed after an Iranian commercial ship was attacked near the Strait of Hormuz early on Sunday, Iranian media reported.

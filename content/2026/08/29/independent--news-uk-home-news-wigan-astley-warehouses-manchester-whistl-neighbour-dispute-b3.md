@@ -9,6 +9,10 @@ description: For almost 40 years, Stephen Retford enjoyed uninterrupted views of
   from his home – then hulking great warehouses were built just over his garden fence.
   He thought things couldn’t get worse, then the noise started, as Dan Haygarth reports
 image: https://static.independent.co.uk/2026/08/25/10/2254043903..?trim=0,640,0,640&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 After a miserable winter, Stephen Retford thought things were looking up. How wrong he was.

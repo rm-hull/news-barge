@@ -8,6 +8,13 @@ published: '2026-08-20T00:00:00Z'
 description: More than one in four children starting school in Darlington are overweight
   or obese, according to a council report.
 image: https://www.thenorthernecho.co.uk/resources/images/16202383.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Education & Learning
+- Family & Parenting
 ---
 
 *(Image: PA)*

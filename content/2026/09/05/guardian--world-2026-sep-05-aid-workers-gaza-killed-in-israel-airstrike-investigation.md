@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: 'Exclusive: Guardian investigation reveals targeting of World Central
   Kitchen convoy was result of widely used military tactic'
 image: https://i.guim.co.uk/img/media/07dcae18edb859f43f16e9b15b3db1e8ebbaabf5/0_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e59aadf9057617b8771fcc480c9bd1c
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Seven aid workers killed in an airstrike in Gaza were marked as targets under an Israeli military practice of establishing guilt by association, a Guardian investigation shows.

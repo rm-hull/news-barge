@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:41Z'
 published: '2026-08-28T00:00:00Z'
 description: The Scott Trial celebrates its 100th event later this year.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/729c/live/9f31cfc0-a2b8-11f1-9024-715001d09aeb.jpg
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 ![A motorbike rider on his vehicle on an off-road track. He is riding up a hill while dozens of spectators behind tape watch on.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/729c/live/9f31cfc0-a2b8-11f1-9024-715001d09aeb.jpg)

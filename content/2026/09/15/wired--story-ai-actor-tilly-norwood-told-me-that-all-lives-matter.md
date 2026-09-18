@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The virtual character, which is promoting its upcoming movie “Misaligned,”
   tries to evade politics by repetitively commenting on the clothes you’re wearing.
 image: https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/191:100/w_1280,c_limit/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg
+categories:
+- Technology & Software
+- Science
+- Film & TV
 ---
 
 For Hollywood stars, press junkets are an opportunity to promote new work while connecting with fans. They tell funny or embarrassing stories about one another, give us a glimpse into the film production process, and reveal mannerisms that make them more relatable.

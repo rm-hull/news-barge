@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: The "Sultan of Sequins" created iconic and dazzling costumes for stars
   including Cher, Tina Turner and Elton John.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Lifestyle & Fashion
 ---
 
 ![Bob Mackie wears a navy blue blazer, blue and white striped shirt and a multi-coloured tartain style bow-tie. He's smiling and there's a bright pink background.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f37e/live/64511030-b05c-11f1-9902-771b6dd8af6a.jpg)

@@ -9,6 +9,10 @@ description: Janice Brooks escaped the 84th floor of Two World Trade Center on 1
   September 2001 after the first plane struck next door. Sixty-one of her colleagues
   did not make it out alive. She tells Caspar Barnes her story
 image: https://static.independent.co.uk/2026/09/09/10/03/Video-News-Graphic-Designs-(11).jpg?trim=0,100,0,100&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 For the past 25 years, Janice Brooks has been reliving the same recurring nightmare.

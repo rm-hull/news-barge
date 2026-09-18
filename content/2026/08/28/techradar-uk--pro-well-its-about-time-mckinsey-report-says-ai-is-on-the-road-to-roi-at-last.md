@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T22:15:29Z'
 published: '2026-08-28T00:00:00Z'
 description: That niche chatbot might yet pay for itself
 image: https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK-970-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![businessman working on desk office with using a calculator to calculate the numbers, finance accounting concept](https://cdn.mos.cms.futurecdn.net/8wyGCAmBxuSZRfGuC2YZyK.jpg) 

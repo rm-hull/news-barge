@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Makai Saddington, 18, was accused of assaulting a police officer and
   causing racially aggravated alarm or distress to another, court records show
 image: https://static.independent.co.uk/2026/08/23/14/19/Makai-Saddington-45f18b76.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 One of the men killed in the A66 crash was awaiting trial over alleged crimes against police officers, court records show.

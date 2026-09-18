@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The affluent city-state has justified high-end salaries for its political
   leaders, arguing they attract talent and ensure good governance
 image: https://i.guim.co.uk/img/media/1a235c5d63c2b2ab6d27301813635d6426c43631/882_0_4509_3608/master/4509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe716766176d4b862517a63f397415b9
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Singapore’s prime minister has been given a $1m pay rise as the affluent city-state announced a dramatic one-off salary boost for government ministers.

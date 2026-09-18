@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Twenty-five leading mathematicians signed an open letter arguing that
   AI labs are threatening their intellectual work.
 image: https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work as they seek to one-up each other with solutions to famous math problems. Each signatory has been awarded the Fields Medal, considered the most prestigious prize in mathematics.

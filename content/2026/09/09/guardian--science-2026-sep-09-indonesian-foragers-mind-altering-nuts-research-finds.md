@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Analysis of two skeletons reveals tooth wear and traces of psychoactive
   substance in what may be earliest known evidence for human drug taking
 image: https://i.guim.co.uk/img/media/27ab524c736c8bc4fd9a9b41d382929ff221e127/0_1876_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a9a511f7de3e7dba8d51bef5f6486ab
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 What may be the earliest known evidence for human drug taking has been traced to ancient Indonesian foragers who sucked on mind-altering nuts as long as 25,000 years ago.

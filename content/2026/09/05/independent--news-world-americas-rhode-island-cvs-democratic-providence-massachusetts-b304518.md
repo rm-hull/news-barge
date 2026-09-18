@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: Rhode Island Governor Dan McKee faces a tough primary rematch against
   Helena Foulkes, a former CVS executive
 image: https://static.independent.co.uk/2026/09/05/11/Election_2_26_Rhode_Island_28484.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Four years ago, Rhode Island Gov. Dan McKee was celebrating his narrow victory in the Democratic primary surrounded by supporters, when someone handed him phone — it was his opponent simply calling to concede.

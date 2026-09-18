@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: West Yorkshire First Bus driver David Nairn has been crowned England’s
   best bus driver after winning a national competition in Blackpool.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21436379.jpg?type=og-image&xType=0&yType=565
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A West Yorkshire First Bus driver has been crowned the best in England after winning a national competition.

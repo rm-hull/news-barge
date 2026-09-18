@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Kenya’s quest to host an Africa Recording Academy headquarters has received
   a boost, with Recording Academy officials saying key milestones have been completed
 image: https://static.independent.co.uk/2026/09/11/20/Kenya_Grammys_7772_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Kenya’s quest to host an Africa Recording Academy headquarters got a boost Friday when Recording Academy officials said key milestones had been completed, and Kenyan artists will travel to the U.S. next month to get acquainted with the international music business.

@@ -10,6 +10,9 @@ description: More than 100 people have died in floods in India’s northeastern 
   state which government officials say is the worst the climate vulnerable region
   has seen in six decades
 image: https://static.independent.co.uk/2026/08/19/02/Climate_India_Floods_54766.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Rojo Neog left his house in India's Assam state on the evening of July 19 to buy candles after heavy rain knocked out electricity. As he rode back on his bicycle, the Dikhow River suddenly rose and the current intensified.

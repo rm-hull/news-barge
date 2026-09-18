@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: The popularity of degree apprenticeships has grown as the cost of university
   has come under increased scrutiny.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7855/live/2ea1f910-9b97-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![An apprentice engineer assembling a gearbox in an Engineering factory.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/7855/live/2ea1f910-9b97-11f1-a291-b542ee92de7c.jpg)

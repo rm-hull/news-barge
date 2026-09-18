@@ -8,6 +8,9 @@ published: '2026-09-02T00:00:00Z'
 description: A 32-year-old man has died after being assaulted at a London Tube station
   on Sunday night
 image: https://static.independent.co.uk/2026/09/02/13/2026-08-31T162108Z_1857530059_RC2P9NACOWNB_RTRMADP_3_BRITAIN-CARNIVAL.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A man has died after being assaulted on a London Underground platform while making his way home from Notting Hill Carnival on Sunday night.

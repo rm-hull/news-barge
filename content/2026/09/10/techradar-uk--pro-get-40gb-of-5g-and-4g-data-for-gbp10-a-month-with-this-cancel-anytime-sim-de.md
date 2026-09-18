@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T19:06:31Z'
 published: '2026-09-10T00:00:00Z'
 description: Choose a one-month SIM or eSIM plan and cancel anytime.
 image: https://cdn.mos.cms.futurecdn.net/U8HQeyRKHrTftk9KNKAtpE-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Smarty SIM deal](https://cdn.mos.cms.futurecdn.net/U8HQeyRKHrTftk9KNKAtpE.jpg) 

@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: CHILDREN collected stamps on activity cards, wore festival wristbands,
   and even made friends with some visiting goats.
 image: https://www.thenorthernecho.co.uk/resources/images/21398587.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Safety work and improvements to one of North Yorkshire’s most iconic
   routes will be extended this year during the road’s annual maintenance closure.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-08/Sutton%20Bank%20rock%20face.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Personal Finance & Investing
 ---
 
 ![People working on Sutton Bank rock face](https://www.northyorks.gov.uk/sites/default/files/2026-08/Sutton%20Bank%20rock%20face.jpg) 

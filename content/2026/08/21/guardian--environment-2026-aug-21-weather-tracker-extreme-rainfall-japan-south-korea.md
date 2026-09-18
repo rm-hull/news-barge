@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Unprecedented downpours cause deaths, evacuations and transport chaos.
   Plus, Hurricane Lala batters Hawaii
 image: https://i.guim.co.uk/img/media/6dfe790fb39072c7522feeb56f5206b059d34300/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37f8275409a7627e748bf57610c9f64e
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 South Korea and Japan were hit by extreme rainfall late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. A level five emergency warning for heavy rain was issued by local authorities – the highest alert level and the first time one has been issued since the system was implemented in May.

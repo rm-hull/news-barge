@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting
   of central banks amid bond market anxiety
 image: https://i.guim.co.uk/img/media/ca5f6a78807e86377007ff59840b9c88fe0ed8ed/461_0_4578_3662/master/4578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1016ea8d538f4fc652c833ed788e0683
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in government bond markets over inflation and Donald Trump’s tax and spending plans.

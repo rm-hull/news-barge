@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: 'The team behind Starcloud''s orbital data centers has a new high-risk
   space project: Sending a probe to Alpha Centauri.'
 image: https://techcrunch.com/wp-content/uploads/2026/08/Philip_AC_vertical-e1788214270919.jpeg?w=913
+categories:
+- Science
+- Technology & Software
 ---
 
 The founders behind Starcloud, a startup with plans to operate a fleet of GPUs in orbit, have a new pitch for potential investors: A plan to send a tiny spacecraft on an 80,000 year journey to Alpha Centauri.

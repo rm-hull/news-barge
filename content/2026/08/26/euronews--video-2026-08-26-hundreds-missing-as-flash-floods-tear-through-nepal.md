@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Video. Flash floods send muddy waters through Nepal's Trishuli River
   as streets are covered in debris and police warn residents to stay alert.
 image: https://images.euronews.com/articles/stories/09/88/95/99/1200x675_cmsv2_22941609-0f65-5a35-a2ea-96181954140b-9889599.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 Flash floodwaters surged through the Trishuli River in Nepal after a large volume of water entered the Bhote Koshi from the Tibetan side.

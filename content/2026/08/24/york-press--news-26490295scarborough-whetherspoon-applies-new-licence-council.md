@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: A Wetherspoons pub in North Yorkshire has applied for a new licence from
   the council.
 image: https://www.yorkpress.co.uk/resources/images/19442869.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 ## Large Wetherspoons pub applies for new licence

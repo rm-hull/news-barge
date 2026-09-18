@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:32:52Z'
 published: '2026-09-16T00:00:00Z'
 description: The Welsh vodka company has been acquired by US spirit giant Sazerac
 image: https://static.independent.co.uk/2026/08/17/15/17152712-d6404ae8-ab28-487a-901f-7d828ae91950-e1786976935233.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A Swansea-based vodka brand, Au Vodka, has been bought by American drinks company Sazerac in a deal reportedly worth £300m.

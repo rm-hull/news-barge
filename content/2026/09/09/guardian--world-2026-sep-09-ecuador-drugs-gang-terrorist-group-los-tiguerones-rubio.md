@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Trump administration to seek extra funding from Congress to ‘dismantle’
   Los Tiguerones over narcotics trafficking
 image: https://i.guim.co.uk/img/media/244d8e106c8da37c2eecebda739864fc423f8d34/510_0_3771_3016/master/3771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c8ef93b8a1c8b4e1f32f3587bf0d950
+categories:
+- UK
+- News & Politics
 ---
 
 The US has designated Ecuador’s Los Tiguerones gang, which stormed a television station during a live broadcast in 2024, as a terrorist organisation as the Trump administration expands its campaign against narcotics traffickers it says are destabilising Latin America.

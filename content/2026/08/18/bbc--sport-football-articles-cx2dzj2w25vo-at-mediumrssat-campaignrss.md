@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Enzo Fernandez's possible Manchester City move is following the pattern
   of Alexander Isak's transfer last summer - and creating headaches for Chelsea.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4ef6/live/9c1d9e80-9a3f-11f1-ae41-df15e7357ff6.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Enzo Fernandez taps a child fan on the back when entering the stadium to play for Chelsea](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4ef6/live/9c1d9e80-9a3f-11f1-ae41-df15e7357ff6.jpg)

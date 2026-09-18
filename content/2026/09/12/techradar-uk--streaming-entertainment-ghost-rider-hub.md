@@ -9,6 +9,9 @@ published: '2026-09-12T00:00:00Z'
 description: Ghost Rider is one of three MCU movies confirmed to arrive in 2028 —
   this is what we know about it so far.
 image: https://cdn.mos.cms.futurecdn.net/4BKKMPaKvhGbgqJXvWoh6E-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![The current logo for Marvel's Ghost Rider movie, with red text set against a black background](https://cdn.mos.cms.futurecdn.net/4BKKMPaKvhGbgqJXvWoh6E.jpg) 

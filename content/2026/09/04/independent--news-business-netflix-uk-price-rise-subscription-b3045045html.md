@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: A spokesperson for Netflix said the latest updates to pricing ‘reflect
   improvements to our wide range of entertainment and the quality of our service’
 image: https://static.independent.co.uk/2026/07/28/16/2275884687..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
+- Technology & Software
 ---
 
 Netflix has increased its subscription rates in the UK for the second time this year.

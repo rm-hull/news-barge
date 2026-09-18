@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Harrogate and District NHS Foundation Trust invites the public to its
   Annual Members' Meeting on 21 Sept 2026 to discuss plans and address a £23.7m deficit.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Harrogate-District-Hospital-2.webp
+categories:
+- Local
+- Harrogate
+- Health & Fitness
+- Personal Finance & Investing
 ---
 
 **Harrogate and District NHS Foundation Trust (HDFT)** has invited staff, patients, and the wider public to its upcoming Annual Members’ Meeting to help steer local healthcare priorities in the region.

@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A new apprenticeship scheme is now available to employers in York and
   North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21087220.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Pic supplied)*

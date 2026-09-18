@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: A growing number of colleges are offering three-year degree programs,
   which cut a year off a traditional bachelor's with reduced credit
 image: null
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Giles Sims, 34, was sick of getting passed over for jobs because he didn’t have a college degree.

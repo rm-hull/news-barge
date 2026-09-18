@@ -7,6 +7,10 @@ scraped_at: '2026-08-30T13:47:21Z'
 published: '2026-08-30T00:00:00Z'
 description: Robert Guanco’s church has described his death as an ‘unimaginable tragedy’
 image: https://static.independent.co.uk/2026/08/30/10/48/Robert-Guanco.png?trim=90,0,92,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A 41-year-old pastor who died after a heavy sign fell onto people at a Christian festival has been named by his church.

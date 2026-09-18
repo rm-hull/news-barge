@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: AI experts put the chance of models rising up and killing us all at greater
   than 10 per cent – but are the risks real? And can anything be done if they are?
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_312424732.jpg?w=840)

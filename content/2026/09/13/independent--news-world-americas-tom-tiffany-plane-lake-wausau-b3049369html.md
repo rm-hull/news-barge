@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Tom Tiffany is recovering in hospital and says the light aircraft lost
   power as it approached Wausau Downtown Airport
 image: https://static.independent.co.uk/2026/09/13/13/2284651889..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 A Republican congressman had to swim to safety after a plane he was traveling in made an emergency landing in a lake late on Saturday night.

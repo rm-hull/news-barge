@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: The scanning and bloodwork health startup founded by Spotify's founder
   will officially launch in New York in about a month.
 image: https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Neko Health’s promised U.S. expansion arrives on September 24, when the health-scanning startup opens its first American office. It will be located in SoHo, Manhattan’s home of luxury shopping, at 300 Lafayette Street.

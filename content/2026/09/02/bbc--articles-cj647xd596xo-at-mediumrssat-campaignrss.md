@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The pop star formerly known as Posh Spice has taken nearly two decades
   to turn a profit.
 image: https://ichef.bbci.co.uk/ace/branded_bbc/1200/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Victoria Beckham walks the runway during the Victoria Beckham Ready to Wear spring/summer fashion show as part of the Paris Fashion Week in September 2023](https://ichef.bbci.co.uk/ace/standard/619/cpsprodpb/7a24/live/c8818d00-a6de-11f1-b109-879e35c24276.jpg)

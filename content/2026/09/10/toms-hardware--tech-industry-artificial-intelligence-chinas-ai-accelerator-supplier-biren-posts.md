@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Biren Technology shows unprecedented shipments growth in 1H 2026 as competition
   from AMD and Nvidia vanishes (at least officially).
 image: https://cdn.mos.cms.futurecdn.net/GYbHihL4UMykeaqgVG9gGc-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Biren Technology](https://cdn.mos.cms.futurecdn.net/GYbHihL4UMykeaqgVG9gGc.png) 

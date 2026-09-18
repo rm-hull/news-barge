@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Councillors have offered their condolences after a man and woman died
   in the Bradford district, while reassuring residents the incident appears…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21309102.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 Councillors have offered their condolences after a man and woman died in the Bradford district, while reassuring residents the incident appears isolated.

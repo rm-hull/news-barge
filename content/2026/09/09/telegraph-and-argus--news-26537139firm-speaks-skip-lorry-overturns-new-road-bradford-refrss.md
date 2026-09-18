@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A waste carrier has spoken out after one of its skip lorries overturned
   on a Bradford road.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432797.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A waste carrier has spoken out after one of its skip lorries overturned on a Bradford road.

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Lord Deramore's Primary School has been named School of the Year at the
   York Community Pride Awards.
 image: https://www.yorkpress.co.uk/resources/images/21443050.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Celebrated York school presented with top award

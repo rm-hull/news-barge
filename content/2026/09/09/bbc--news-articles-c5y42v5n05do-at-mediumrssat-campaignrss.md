@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Heidi Alexander orders an investigation into the glitch that caused more
   than 2,000 flight cancellations.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Young people lying on the floor of Gatwick Airport with their suitcases](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg)

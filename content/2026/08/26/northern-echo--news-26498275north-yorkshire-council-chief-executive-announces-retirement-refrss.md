@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire Council chief executive Richard Flinton has announced
   his retirement after nearly 40 years in public service, leaving in March…
 image: https://www.thenorthernecho.co.uk/resources/images/21374015.jpg?type=og-image&xType=0&yType=50
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: NYC)*

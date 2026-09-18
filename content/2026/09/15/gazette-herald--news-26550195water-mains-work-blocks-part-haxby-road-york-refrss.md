@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: This morning, works being carried out on behalf of Yorkshire Water are
   ongoing in Haxby Road at the junction with Walpole Street and there is a hole…
 image: https://www.gazetteherald.co.uk/resources/images/21455258.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 PART of a key residential road in York is blocked this morning as works to fix a burst water main continue.

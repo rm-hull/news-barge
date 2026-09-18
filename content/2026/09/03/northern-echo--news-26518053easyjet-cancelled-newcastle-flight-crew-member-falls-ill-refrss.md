@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: More than 100 passengers were left stranded after an EasyJet flight to
   the Newcastle was cancelled at the last minute because a crew member fell ill.
 image: https://www.thenorthernecho.co.uk/resources/images/21067494.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: PA)*

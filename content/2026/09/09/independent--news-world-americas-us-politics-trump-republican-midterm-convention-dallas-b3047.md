@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Trump may be the Republican Party’s greatest showman. But, Eric Garcia
   writes, his three-ring spectacle risks burning the party to a crisp
 image: https://static.independent.co.uk/2026/09/09/19/2294365681..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Welcome to the 2026 Republican midterm convention. Like everything else in the past two years, this is President Donald Trump’s latest scheme to defy history and hold onto the Republican majorities in the House and the Senate.

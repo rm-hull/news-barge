@@ -7,6 +7,9 @@ scraped_at: '2026-08-19T13:10:44Z'
 published: '2026-08-19T00:00:00Z'
 description: Policies alone aren't enough to govern AI
 image: https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM-2560-80.jpg
+categories:
+- Technology & Software
+- News & Politics
 ---
 
 ![A close up of a person's eyes and face. They are wearing glasses and in one eye there's. a reflection of a digital brain](https://cdn.mos.cms.futurecdn.net/4d3FzfBhbeGTkD9mnMpEdM.jpg) 

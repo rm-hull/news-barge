@@ -9,6 +9,10 @@ description: 'Harry expressed a desire to reconcile with his father and spend mo
   time with the UK monarch who is being treated for an undisclosed form of cancer.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/13/47/1200x675_cmsv2_54605f67-578f-52f5-8f1e-cb5db7d1c1ac-9881347.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Harry expressed a desire to reconcile with his father and spend more time with the UK monarch who is being treated for an undisclosed form of cancer.

@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A driver whose view was blocked by stuffed toys and later killed a man
   in a collision in West Yorkshire has been sentenced.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21351234.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Family & Parenting
 ---
 
 *(Image: West Yorkshire Police)*

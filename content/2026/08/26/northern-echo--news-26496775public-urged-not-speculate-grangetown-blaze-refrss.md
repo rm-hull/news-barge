@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A councillor has urged people not to speculate about the cause of a “devastating”
   house fire which left four people in hospital.
 image: https://www.thenorthernecho.co.uk/resources/images/21373400.jpg?type=og-image&xType=0&yType=44
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- Arts & Culture
 ---
 
 A councillor has urged people not to speculate about the cause of a “devastating” house fire which left four people in hospital.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: A new section of road on the A59 has opened to motorists after decades
   of landslip disruption between Harrogate and Skipton.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmE3MzYwMDQxLWY1OGItNDUzZC1hYmJkLWUwNmYyNjcyZWU4NDo0ZjM0YTE3OS0yMjM2LTRjMjQtOThlOS1iNDRhMGRlMDQxNzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # A59 Kex Gill: Road finally reopens in North Yorkshire after decades of disruption caused by landslips

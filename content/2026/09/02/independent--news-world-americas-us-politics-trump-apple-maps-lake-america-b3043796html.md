@@ -7,6 +7,10 @@ scraped_at: '2026-09-03T04:14:47Z'
 published: '2026-09-02T00:00:00Z'
 description: Google Maps has also renamed the body of water for U.S. users
 image: https://static.independent.co.uk/2026/09/02/7/05/2291733364-getty.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 President Trump is celebrating that major tech companies have updated their mapping apps in line with his move to rename Lake Ontario to Lake America as part of the administration’s ongoing trade war with Canada.

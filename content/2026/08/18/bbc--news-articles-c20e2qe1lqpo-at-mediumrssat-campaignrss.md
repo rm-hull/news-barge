@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Work on the second of two long-delayed CalMac ferries is drawing to a
   close at the state-owned yard in Port Glasgow.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Workers make final preparations ahead of the launch of the MV Glen Rosa in April 2024. Six workers can be seen in the foreground with their back to the camera. The white, black and red ferry, with Caledonian MacBrayne written on the side, is in the distance.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg)

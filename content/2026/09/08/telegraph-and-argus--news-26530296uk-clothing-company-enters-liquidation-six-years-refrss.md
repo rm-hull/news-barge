@@ -8,6 +8,12 @@ published: '2026-09-08T00:00:00Z'
 description: VV Season, founded in 2020, sold “luxury” streetwear online and developed
   a following of more than 17,000 across Instagram and Facebook
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422749.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A men’s clothing brand popular with sports and music stars has gone into liquidation.

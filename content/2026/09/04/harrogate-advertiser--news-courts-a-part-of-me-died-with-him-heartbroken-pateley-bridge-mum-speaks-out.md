@@ -10,6 +10,10 @@ description: The devastated mother of Bailey Chadwick has spoken of the lifelong
   of losing her teenage son after the driver who admitted drink-driving before the
   collision that claimed his life was sentenced.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk2YmIwMWU2LWFhODAtNDFjZS1iYmZlLTQ4ODFhMzJkZTRhMTo3NWU5NWM1MS05YTliLTQ5ZDAtODEwOC03N2Q3NmU2NDJlMzE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 # 'A part of me died with him': Heartbroken Pateley Bridge mum speaks out after driver sentenced over Bailey Chadwick's death

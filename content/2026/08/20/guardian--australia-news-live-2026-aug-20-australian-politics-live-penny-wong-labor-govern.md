@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T01:48:10Z'
 published: '2026-08-20T00:00:00Z'
 description: Follow live
 image: https://i.guim.co.uk/img/media/60fd86f01416052d01cb6056866bfc9ae3d17ab8/1105_277_4001_3201/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=35e21e0d50edc72036c1107bd4e7efb5
+categories:
+- UK
+- News & Politics
 ---
 
 Australia politics live: Chalmers says Coalition ‘hyperventilating’ over national debt as gross figure hits $1tn; jobless rate climbs to 4.5% as 15,800 lose work

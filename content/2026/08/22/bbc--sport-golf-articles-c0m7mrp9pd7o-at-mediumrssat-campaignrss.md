@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Rory McIlroy shoots a five-under-par 65 to move into a share of second
   place after three rounds of the BMW Championship in St Louis.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c4e/live/7cb23bd0-9e6f-11f1-bd4f-49a9cd2272da.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Rory McIlroy tees off](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/2c4e/live/7cb23bd0-9e6f-11f1-bd4f-49a9cd2272da.jpg)

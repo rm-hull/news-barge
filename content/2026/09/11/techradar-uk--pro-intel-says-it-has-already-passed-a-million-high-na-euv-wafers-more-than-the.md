@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: Intel has run a million wafers through High-NA EUV, or about three-quarters
   of every High-NA wafer ever exposed to date
 image: https://cdn.mos.cms.futurecdn.net/dqr8ZLorxU7QQWv8765JTQ-970-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![ASML High NA EUV](https://cdn.mos.cms.futurecdn.net/dqr8ZLorxU7QQWv8765JTQ.jpg) 

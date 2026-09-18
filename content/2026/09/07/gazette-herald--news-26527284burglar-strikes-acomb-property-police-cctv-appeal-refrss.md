@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A burglar has struck at a property in Manor Drive South, off York Road
   in Acomb, York.
 image: https://www.gazetteherald.co.uk/resources/images/21418665.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: BRADFORD has been named one of the worst cities in the UK for getting
   a good night’s sleep.
 image: https://www.thetelegraphandargus.co.uk/resources/images/17065469.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Getty)*

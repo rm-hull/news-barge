@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The well-regarded The Queen O' T'Owd Thatch in South Milford has closed
   until it can find a ‘suitable tenant’.
 image: https://www.yorkpress.co.uk/resources/images/21384902.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 *(Image: Mike Laycock)*

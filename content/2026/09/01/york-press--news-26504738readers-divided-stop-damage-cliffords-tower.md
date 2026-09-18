@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Opinions are divided as calls grow to stop damage at Clifford's Tower
   - what do you think should happen?
 image: https://www.yorkpress.co.uk/resources/images/21385332.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Business & Entrepreneurship
 ---
 
 ## Division grows over how to stop damage to historic city landmark

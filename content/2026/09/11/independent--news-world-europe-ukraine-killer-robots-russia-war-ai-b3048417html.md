@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Ukraine wants to replace around one third of its frontline troops with
   unmanned ground vehicles by the end of the year
 image: https://static.independent.co.uk/2026/09/11/08/2026-09-11T060043Z_972665515_RC2LELA3MA9T_RTRMADP_3_UKRAINE-CRISIS-ROBOTS.JPG?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- History
 ---
 
 In a tiny Ukrainian workshop near the frontline ‘Chimera’ is preparing his robot army for battle.

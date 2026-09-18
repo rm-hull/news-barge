@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Appletree Grange Care Home has taken residents on a round-the-world adventure
   without leaving their doorstep.
 image: https://www.thenorthernecho.co.uk/resources/images/21400848.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A care home has taken residents on a round-the-world adventure without leaving their doorstep.

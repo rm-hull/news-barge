@@ -10,6 +10,10 @@ published: '2026-08-31T00:00:00Z'
 description: The President says to "let Data Reign" if communities "want to be successful
   and rich."
 image: https://cdn.mos.cms.futurecdn.net/iTfiVsnBuTP5SGz8ZVHzfP-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![People hold signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida.](https://cdn.mos.cms.futurecdn.net/iTfiVsnBuTP5SGz8ZVHzfP.jpg) 

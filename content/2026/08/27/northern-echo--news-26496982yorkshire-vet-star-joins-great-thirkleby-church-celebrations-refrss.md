@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A much-loved television vet is set to share memories of his North Yorkshire
   childhood as part of celebrations marking a milestone anniversary for…
 image: https://www.thenorthernecho.co.uk/resources/images/21373659.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Supplied)*

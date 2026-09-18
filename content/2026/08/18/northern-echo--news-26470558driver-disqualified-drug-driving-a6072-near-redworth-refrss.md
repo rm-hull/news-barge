@@ -8,6 +8,12 @@ published: '2026-08-18T00:00:00Z'
 description: Tom Jardine, 30, of Bishop Auckland, has been banned from driving for
   40 months after admitting drug driving and using a mobile phone behind the…
 image: https://www.thenorthernecho.co.uk/resources/images/19880391.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 *(Image: PA MEDIA)*

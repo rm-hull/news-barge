@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Talks between Ukraine and Russia have stalled since the US’s invasion
   of Iran
 image: https://static.independent.co.uk/2026/08/30/10/2026-07-31T200758Z_16775392_RC27PMAYEP67_RTRMADP_3_USA-TRUMP.JPG?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The CIA director floated a summit with Vladimir Putin, Volodymyr Zelensky, and Donald Trump during his mysterious meeting in Moscow, it is understood.

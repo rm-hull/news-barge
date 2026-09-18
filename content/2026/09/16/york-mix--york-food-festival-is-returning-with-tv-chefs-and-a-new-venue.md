@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T13:27:24Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/yff-stall.webp
+categories:
+- Local
+- York
+- Food & Cooking
+- Arts & Culture
 ---
 
 The York Food & Drink Festival is returning for 10 days of food, drink, demonstrations, tastings, trails and entertainment.

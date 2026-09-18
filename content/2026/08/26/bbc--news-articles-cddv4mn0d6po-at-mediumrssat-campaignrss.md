@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: The eight-day visit will see the royal pair travel to Antigua before
   King Charles travels to the Bahamas and Guyana.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f718/live/12c756c0-a152-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Travel
+- History
+- Lifestyle & Fashion
 ---
 
 ![King Charles III in a tan suit and purple tie. Queen Camilla is standing next to him in a green dress.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/f718/live/12c756c0-a152-11f1-aed2-8d6da8d75094.jpg)

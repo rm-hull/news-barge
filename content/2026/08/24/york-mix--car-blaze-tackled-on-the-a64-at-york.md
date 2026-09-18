@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T20:42:55Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/09/north-yorkshire-fire-engine-york-2021.webp
+categories:
+- Local
+- York
+- Sports
 ---
 
 A car burst into flames on the York outer ring road today (Monday).

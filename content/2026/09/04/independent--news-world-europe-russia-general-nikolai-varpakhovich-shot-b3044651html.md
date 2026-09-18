@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Russian Telegram channels linked to Moscow’s security services say an
   unknown attacker shot the general twice
 image: https://static.independent.co.uk/2026/09/03/15/49/fd6528fc-d3cd-4827-bc43-a93c814daab3-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A Russian general who was linked with an attack on a children’s hospital in Ukraine is seriously injured after being shot in the head, according to reports.

@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: RIGGS Moor on the National Park/Nidderdale border is a remote spot, possibly
   the most remote in England.
 image: https://www.yorkpress.co.uk/resources/images/21413369.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## Why you should take this walk to spectacular remote spot in Yorkshire Dales

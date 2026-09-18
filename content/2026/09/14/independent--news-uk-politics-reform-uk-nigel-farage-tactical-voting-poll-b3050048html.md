@@ -10,6 +10,10 @@ description: The More in Common survey found that more than half of supporters o
   Labour, the Lib Dems and Greens are prepared to vote tactically to prevent Nigel
   Farage from becoming PM
 image: https://static.independent.co.uk/2026/09/14/15/26b63b2ea7d19e50e4ec062aedc89b1dY29udGVudHNlYXJjaGFwaSwxNzg5NDc4OTQ1-2.85752352.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A third of British voters are now prepared to vote tactically at the next general election as fear of a Reform UK government continues to fuel British politics.

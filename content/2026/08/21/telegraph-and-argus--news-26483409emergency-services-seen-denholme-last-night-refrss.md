@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: One person was taken to hospital following a crash in the Bradford district
   late last night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20437938.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: UGC)*

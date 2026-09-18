@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Harrogate Town sign Bolton Wanderers goalkeeper Luke Hutchinson on a
   three-month loan deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/227b/live/4d0ff250-aad6-11f1-aa35-df10e5ff32f4.jpg
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 ![Bolton goalkeeper Luke Hutchinson warms up before a match](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/227b/live/4d0ff250-aad6-11f1-aa35-df10e5ff32f4.jpg)

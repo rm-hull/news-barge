@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Secretlab has announced a collaboration with Marvel and is releasing
   a brand new Titan Evo gaming chair inspired by your friendly neighborhood Spider-Man.
 image: https://cdn.mos.cms.futurecdn.net/xoj6JLmxmScug7taXLHwEZ-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![Secretlab Titan Evo Marvel Spider-Man Edition](https://cdn.mos.cms.futurecdn.net/xoj6JLmxmScug7taXLHwEZ.jpg) 

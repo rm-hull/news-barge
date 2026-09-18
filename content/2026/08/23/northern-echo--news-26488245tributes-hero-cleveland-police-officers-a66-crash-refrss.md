@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Tributes have been pouring in for two Cleveland Police officers described
   as “heroes” after their lives were cut short in the devastating A66…
 image: https://www.thenorthernecho.co.uk/resources/images/21360014.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 Tributes have been pouring in for two Cleveland Police officers described as “heroes” after their lives were cut short in the devastating A66 crash.

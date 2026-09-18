@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Thousands of pupils across North Yorkshire have collected a strong set
   of GCSE results at schools including Ripon, Boroughbridge and Bedale.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmIyYWRmYTM2LTY5MzItNDc0MS04YzlmLWMyNDIxODJkNzM1YzowNGI5MDY0OS1kY2IwLTRkMWYtOWQ5ZC04ZDhmMTFhM2E4YTk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 # Strong exam year for students at schools in Ripon, Boroughbridge and Bedale

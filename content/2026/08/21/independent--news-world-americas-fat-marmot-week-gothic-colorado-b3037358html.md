@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Researchers must secure three years of funding, over $200,000, to guarantee
   that field research continues next summer
 image: https://static.independent.co.uk/2026/08/21/21/download.-1.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 High in the Colorado mountains, marmots experienced a difficult winter after a severe lack of snow cover caused the deaths of two-thirds of one monitored population during hibernation.

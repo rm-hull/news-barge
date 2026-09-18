@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: She fled to Texas where abortions are illegal and now wants custody of
   the four-week-old baby.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25d3/live/77c2e390-ae00-11f1-9b77-ddcb406ce9c0.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![McKenna West walks into court](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/25d3/live/77c2e390-ae00-11f1-9b77-ddcb406ce9c0.jpg)

@@ -10,6 +10,10 @@ description: Harrogate’s MP has issued a strong message to the Government as h
   to introduce a bill in Parliament today to tackle the growing crisis of student
   loans.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmMzZjFiODFlLWJkM2ItNDNlNS04YjZiLTM5ZGJiMTg5YTc5Njo4Njc2YzRhYS01MGM0LTQ3ZDYtYjZkMC1jYWVjNzBiZTkxMGU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Careers & Productivity
 ---
 
 # Strong message from Harrogate MP in battle to alleviate loans headache for graduates

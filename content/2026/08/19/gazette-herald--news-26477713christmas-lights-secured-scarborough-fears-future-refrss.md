@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: CHRISTMAS lights will be installed in a North Yorkshire town after the
   future of the festive illuminations was put in doubt over possible funding…
 image: https://www.gazetteherald.co.uk/resources/images/21341026.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 CHRISTMAS lights will be installed in a North Yorkshire town after the future of the festive illuminations was put in doubt over possible funding constraints.

@@ -7,6 +7,10 @@ scraped_at: '2026-08-19T08:52:15Z'
 published: '2026-08-19T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/ousecliffe-gardens-york-gsv.webp
+categories:
+- Local
+- York
+- Home, Garden & DIY
 ---
 
 Police have issued a description of suspects after a chainsaw was stolen from a York.

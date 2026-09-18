@@ -10,6 +10,11 @@ description: Uzbekistan’s investment fund (UzNIF) is preparing major companies
   the most advanced candidate as governance reforms advance and efforts to attract
   new capital gather pace.
 image: https://images.euronews.com/articles/stories/09/91/75/44/1200x675_cmsv2_1109edbc-5b38-5c9b-8f58-ce1cb8adae79-9917544.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ## Uzbekistan’s investment fund (UzNIF) is preparing major companies in telecoms, aviation, banking and energy for potential listings. Uztelecom is currently the most advanced candidate as governance reforms advance and efforts to attract new capital gather pace.

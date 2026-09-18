@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: McDonald's has shared a behind-the-scenes video of work at its Thornaby
   restaurant, which will reopen on September 2 after a month-long…
 image: https://www.thenorthernecho.co.uk/resources/images/21368127.jpg?type=og-image&xType=0&yType=680
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 McDonald's has given customers a behind-the-scenes look at a major refurbishment of a Teesside restaurant.

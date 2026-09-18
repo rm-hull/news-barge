@@ -9,6 +9,10 @@ description: President Donald Trump has made it ‘harder’ for GOP candidates 
   their races this November in the opinion of almost half the respondents to a new
   survey
 image: https://static.independent.co.uk/2026/09/07/7/47/GettyImages-2292883112.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 President Donald Trump is becoming a major liability for Republican candidates in the upcoming midterms, as dire predictions about the opposition sweeping the House and Senate continue to mount, according to a new poll.

@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: Musk was deeply involved in the effort to flip majority control of the
   highest court in battleground Wisconsin last year
 image: https://static.independent.co.uk/2026/08/25/20/2207245050..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Elon Musk will not be prosecuted for offering $1 million to voters during the 2025 Wisconsin Supreme Court race, after a state prosecutor concluded Tuesday that no jury would find the pledge constituted election bribery.

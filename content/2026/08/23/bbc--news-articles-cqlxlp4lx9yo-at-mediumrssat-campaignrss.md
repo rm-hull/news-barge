@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: A government minister says people have been taking risks by going into
   the water, with 301 deaths since 19 June.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Women shelter from the heat under a black umbrella at the Trocadero Fountain by the Eiffel Tower, in Paris, France, 20 June 2026. Other people are seated next to the river.](https://ichef.bbci.co.uk/ace/standard/978/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg)

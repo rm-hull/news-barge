@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man has been charged with conspiracy to supply heroin and crack cocaine
   on a Bradford estate.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20706341.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

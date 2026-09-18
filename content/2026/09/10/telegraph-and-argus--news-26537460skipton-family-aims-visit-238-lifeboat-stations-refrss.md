@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: A SKIPTON family is visiting all lifeboat stations in the UK in memory
   of a much-loved teacher.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431604.jpg?type=og-image&xType=0&yType=765
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Rebecca Shaw)*

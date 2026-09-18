@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Death reported after residential areas and warehouses hit in heavy bombardment
   in capital and surrounding region
 image: https://i.guim.co.uk/img/media/a64f5f689d31942cbd665d307efd0617e1b761d3/407_225_1593_1275/master/1593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24189157fbde9764aaeb2e9df232987e
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 A heavy Russian bombardment killed at least six people and wounded dozens in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday.

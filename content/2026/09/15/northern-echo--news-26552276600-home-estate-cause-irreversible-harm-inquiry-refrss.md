@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A new 600-home estate would cause “substantial and irreversible” harm
   and have “significant adverse impacts” on nearby roads, a council has…
 image: https://www.thenorthernecho.co.uk/resources/images/21233578.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ### What is the Public Notice Portal?

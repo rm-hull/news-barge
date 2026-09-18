@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Police say they have arrested two men and two women as part of their
   investigation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b626/live/a1f59ab0-aabb-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A blue gazebo with white writing on it is a woodland area. Further into the woodland is a light-coloured tent. There is blue and white police tape around the scene.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/d032/live/aeaca780-aab1-11f1-bdcc-b5edf6495ed5.jpg)

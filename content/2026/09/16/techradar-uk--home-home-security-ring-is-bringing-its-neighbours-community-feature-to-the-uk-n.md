@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: We speak to Dave Ward, International Managing Director of Ring, to learn
   more about Neighbours, and how it's different to your local Facebook group.
 image: https://cdn.mos.cms.futurecdn.net/kgdWe35BWgcKNSJPXURpc5-2000-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Person holding phone showing Ring Neighbours app](https://cdn.mos.cms.futurecdn.net/kgdWe35BWgcKNSJPXURpc5.png) 

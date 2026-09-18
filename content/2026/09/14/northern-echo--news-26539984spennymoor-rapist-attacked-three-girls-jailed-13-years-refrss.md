@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Harrison Strange jailed for 13 years after raping three vulnerable girls
   as judge called his offending persistent, entitled and misogynistic.
 image: https://www.thenorthernecho.co.uk/resources/images/21437085.jpg?type=og-image&xType=0&yType=72
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A County Durham rapist who preyed on three vulnerable girls was branded “entitled” and a “misogynist” as he was caged for 13 years.

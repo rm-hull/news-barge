@@ -9,6 +9,9 @@ published: '2026-09-13T00:00:00Z'
 description: Foreign politicians had earlier been on a train on the same line, returning
   from a summit in Kyiv
 image: https://static.independent.co.uk/2026/09/13/13/37/Screenshot-2026-09-13-at-14-54-08.png?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ukraine’s foreign minister warned on Sunday that Vladimir Putin was “knocking on Nato’s door” after a Russian drone struck a passenger train just two kilometres from the Polish border.

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Lockheed Martin has touted the pinpoint accuracy of its Precision Strike
   Missile
 image: https://static.independent.co.uk/2026/08/31/11/Iran_US_New_Missile_93485.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 It has been touted by the manufacturer as the ballistic missile of the future: lethal, long-range, and pinpoint. Lockheed Martin’s Precision Strike Missile has the U.S. military investing billions to update its arsenal.

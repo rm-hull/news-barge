@@ -9,6 +9,11 @@ description: Just days prior, the rainbow bench in memory of the CSD attack was 
   badly vandalised. A memorial tree for victims of Berlin's CSD attack has been uprooted
   in Tiergarten, just days after a nearby rainbow bench was vandalised.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863463983h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- History
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0863463983h-scaled.jpg)

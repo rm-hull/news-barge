@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T22:53:01Z'
 published: '2026-09-15T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/kfc-drive-thru-monks-cross-signs-pd-1.webp
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A new drive-thru which is set to open in York has taken a step forward.

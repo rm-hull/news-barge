@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: A rescued dog has given birth to the largest litter of puppies ever seen
   at the RSPCA rescue centre where she is being cared for.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjBhYTgxMDE2LWFmN2EtNDJlNC1hYWEzLTZlNDY3NTk5ZjhhYzo1N2IwMTZjYi0xOGFlLTRhNjUtOWRjNC0wZDFkNDJjMzVhZWM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Pets & Animals
 ---
 
 # Rescued dog gives birth to 'biggest litter of puppies RSPCA centre has ever seen'

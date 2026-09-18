@@ -8,6 +8,8 @@ published: '2026-09-03T00:00:00Z'
 description: Senator Ron Wyden seeks clear warnings about the limitations of standard
   commercial VPNs against bulk data collection
 image: https://cdn.mos.cms.futurecdn.net/ji5q5LEbkXwmbhvpgHgPqK-1024-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A VPN runs on a mobile phone placed on a laptop keyboard](https://cdn.mos.cms.futurecdn.net/ji5q5LEbkXwmbhvpgHgPqK.jpg) 

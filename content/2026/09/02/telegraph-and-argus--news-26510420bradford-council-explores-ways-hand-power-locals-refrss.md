@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A FRESH push to put more decision-making power in the hands of residents
   is taking shape in Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/20914330.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Reform UK)*

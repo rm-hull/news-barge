@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Concord Public Library said it would have incurred a $12,055 overdue
   fine, had there not been a temporary fine freeze in place.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/012a/live/fc349430-b16a-11f1-aa34-cd96b0948b75.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![A person wearing silver rings and a gold watch carries an armful of books.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/012a/live/fc349430-b16a-11f1-aa34-cd96b0948b75.jpg)

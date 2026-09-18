@@ -8,6 +8,13 @@ published: '2026-08-27T00:00:00Z'
 description: Valentina Foster, seven, and Natalie McDonald, 34, have been named locally
   as the victims of a fire in Grangetown that saw two arrested on suspicion…
 image: https://www.thenorthernecho.co.uk/resources/images/21377189.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- True Crime
+- Society & Culture
 ---
 
 A seven-year-old girl and her aunt have been named locally as the two people who died in a house fire that saw two men arrested on suspicion of murder.

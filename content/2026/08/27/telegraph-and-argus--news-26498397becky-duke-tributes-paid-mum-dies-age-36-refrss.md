@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Tributes have been paid to a much-loved Bradford mum who died at the
   young age of 36.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375791.jpg?type=og-image&xType=0&yType=121
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: UGC)*

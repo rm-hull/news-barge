@@ -9,6 +9,10 @@ scraped_at: '2026-08-29T19:24:38Z'
 published: '2026-08-29T00:00:00Z'
 description: Complete setups start at $30,000.
 image: https://cdn.mos.cms.futurecdn.net/qCygnCDbjNo5J7MF6E4UdU-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![lightweight autonomous interceptors](https://cdn.mos.cms.futurecdn.net/qCygnCDbjNo5J7MF6E4UdU.jpg) 

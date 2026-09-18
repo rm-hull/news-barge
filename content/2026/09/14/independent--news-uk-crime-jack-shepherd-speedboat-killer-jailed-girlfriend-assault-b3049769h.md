@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:47Z'
 published: '2026-09-14T00:00:00Z'
 description: Shepherd was sentenced at Isleworth Crown Court
 image: https://static.independent.co.uk/2026/07/28/14/1088261318..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Speedboat killer Jack Shepherd has received a 20-month prison term accompanied by a four-year extended licence after launching a violent attack on his partner, which included stabbing her with pointed barbecue tongs.

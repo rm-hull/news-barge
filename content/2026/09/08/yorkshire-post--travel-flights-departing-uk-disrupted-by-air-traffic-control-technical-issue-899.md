@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Flights departing the UK have been disrupted by an air traffic control
   “technical issue”, Nats has said.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2025/09/24/8/41/GettyImages-2227049727-(1).jpeg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Flights departing UK disrupted by air traffic control ‘technical issue’

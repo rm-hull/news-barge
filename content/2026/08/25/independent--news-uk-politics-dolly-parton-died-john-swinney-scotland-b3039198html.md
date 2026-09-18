@@ -9,6 +9,10 @@ description: In April, the Scottish Government said it would partner with The Do
   Foundation which provides books for children, and promotes education and literacy
   among young people
 image: https://static.independent.co.uk/2026/08/25/20/2026-08-25T185226Z_185861766_RC2U5NALL7TD_RTRMADP_3_PEOPLE-DOLLY-PARTON.JPG?trim=82,0,82,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 John Swinney has stated he is "deeply saddened" following the death of country music star Dolly Parton.

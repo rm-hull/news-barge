@@ -9,6 +9,11 @@ description: Camilo Duran scores two excellent goals for Celtic in the first leg
   their Champions League play-off against Austria's LASK, finding the top corner with
   a volley and curling an effort past Lukas Jungwirth in the visitors' goal.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/967b/live/2a006bc0-9c0b-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 # Duran's incredible double edges Celtic closer to Champions League

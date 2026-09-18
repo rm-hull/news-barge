@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The majority of people infected with Naegleria fowleri die in about five
   days
 image: https://static.independent.co.uk/2026/09/02/12/30/Naegleria-4.jpeg?trim=17,0,24,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A North Carolina teenager infected with a rare brain-eating amoeba died Monday, according to state health officials.

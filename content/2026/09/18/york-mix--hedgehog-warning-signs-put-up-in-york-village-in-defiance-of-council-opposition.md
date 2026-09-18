@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T13:00:27Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-councillor-christian-vassie-hedgehog-sign.webp
+categories:
+- Local
+- York
+- News & Politics
 ---
 
 A councillor has defied opposition to the installation of signs warning drivers about hedgehogs on a York village’s roads by putting them up himself.

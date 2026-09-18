@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: The Yorkshire Building Society branch in Well Croft will offer free digital
   support sessions to help people access online and app-based banking.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21378854.jpg?type=og-image&xType=0&yType=347
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Yorkshire Building Society)*

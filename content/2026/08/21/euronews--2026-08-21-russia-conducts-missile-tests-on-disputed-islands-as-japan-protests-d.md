@@ -9,6 +9,10 @@ description: The Pacific Fleet conducted a Bastion missile test just days after 
   visit to the islands prompted Tokyo to summon Russia's ambassador to Japan and drew
   a US statement of support for Japanese sovereignty.
 image: https://images.euronews.com/articles/stories/09/88/34/90/1200x675_cmsv2_b8cd3939-6aa0-5f7d-a68d-733f14886476-9883490.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The Pacific Fleet conducted a Bastion missile test just days after Putin's visit to the islands prompted Tokyo to summon Russia's ambassador to Japan and drew a US statement of support for Japanese sovereignty.

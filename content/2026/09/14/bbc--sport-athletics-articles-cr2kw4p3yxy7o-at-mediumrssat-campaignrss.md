@@ -10,6 +10,10 @@ description: Josh Kerr celebrated becoming Great Britain's first Ultimate Champi
   by making a clear point about funding in athletics - BBC Sport explains what the
   issue is.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Josh Kerr celebrates while holding the 1500m trophy after winning the inaugural World Athletics Ultimate Champion event in Budapest, Hungary](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg)

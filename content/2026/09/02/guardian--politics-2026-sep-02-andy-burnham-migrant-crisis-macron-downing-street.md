@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: PM will aim to centre talks with French president on key foreign policy
   issues such as Iran, smuggling gangs and EU relations
 image: https://i.guim.co.uk/img/media/d8b6e77992a2874ce0fb5db3183f3f2258d4c1ed/471_0_4188_3351/master/4188.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8abd6afbda6c94d0ada6ea01581cb09c
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Andy Burnham will begin the process of courting European leaders when he welcomes Emmanuel Macron as the first foreign head of state to visit him in Downing Street.

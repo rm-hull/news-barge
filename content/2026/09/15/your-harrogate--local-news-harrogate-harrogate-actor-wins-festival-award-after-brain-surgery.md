@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A Harrogate actor has won a theatre festival award after fearing she
   might never be able to learn lines again following brain surgery.
 image: https://mmo.aiircdn.com/409/6aa90831ce410eee242.jpg
+categories:
+- Local
+- Harrogate
+- Arts & Culture
+- Film & TV
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa90831ce410eee242.jpg) 

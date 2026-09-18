@@ -9,6 +9,9 @@ published: '2026-09-02T00:00:00Z'
 description: Fervo's deal with Google could expand to 1 gigawatt of geothermal power,
   enough to supply a very large AI data center in Utah.
 image: https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Geothermal energy company Fervo notched another win as Google agreed to buy nearly half a gigawatt of electricity to power a planned new data center in Utah.

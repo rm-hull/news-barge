@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: EXPLORER Scouts are being put in the driving seat as part of a new youth-shaped
   programme launched across Bradford
 image: https://www.thetelegraphandargus.co.uk/resources/images/21394873.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: Supplied)*

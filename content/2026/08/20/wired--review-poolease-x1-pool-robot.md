@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The Poolease X1 can collect leaves from the pool floor, but dirt, silt,
   walls, and steps are all beyond its pay grade.
 image: https://media.wired.com/photos/6a86289d942118095017e61e/191:100/w_1280,c_limit/Review--Poolease-X1-Pool-Robot-.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The market is stuffed to the gills with pool-scrubbing robots that cost thousands of dollars, and consumers are well justified in worrying whether that level of expense will ultimately be worthwhile. But there’s also a subset of pool robots that go the other way—much simpler devices that cost well under $500, sometimes much less.

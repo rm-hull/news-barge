@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: Community facilities could be improved if plans are agreed for a new
   cafe and solar panels at a church.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVhYmM5NGZiLTM4ZDEtNDZjMi1hMjNlLWNlOTEwY2Y1N2M4OTo5NDA4MDJhNC0xMjVjLTRiYzEtOTAxNC0wM2E0YjNjODA2N2I=.jpg?crop=3:2,smart&trim=&width=1106&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # Plans for cafe and solar panels at church submitted

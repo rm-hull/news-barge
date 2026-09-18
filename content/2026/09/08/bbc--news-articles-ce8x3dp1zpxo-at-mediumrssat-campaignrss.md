@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Departures from a number of airports are affected by a technical problem
   affecting air traffic control provider Nats.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ba/live/df97f900-abc2-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![Groups of passengers wait in Heathrow T5 after disruption on Tuesday 8 September](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/c0ba/live/df97f900-abc2-11f1-b109-879e35c24276.jpg)

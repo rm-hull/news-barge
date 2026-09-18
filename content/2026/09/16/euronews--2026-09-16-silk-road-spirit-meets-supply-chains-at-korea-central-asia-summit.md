@@ -9,6 +9,10 @@ description: The leaders of the six nations agreed to deepen cooperation in manu
   technology and transport, with a stronger focus on regional value chains. The new
   format will meet again at the leaders’ level in Kazakhstan in 2028.
 image: https://images.euronews.com/articles/stories/09/91/58/21/1200x675_cmsv2_43708265-9a0d-54e6-9e1d-c8893f67266b-9915821.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ## The leaders of the six nations agreed to deepen cooperation in manufacturing, technology and transport, with a stronger focus on regional value chains. The new format will meet again at the leaders’ level in Kazakhstan in 2028.

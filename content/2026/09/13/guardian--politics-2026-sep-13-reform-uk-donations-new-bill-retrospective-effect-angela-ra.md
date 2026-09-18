@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: PM has so far declined to insert curbs on UK-based donors, despite £72m
   donations from billionaires to Reform UK
 image: https://i.guim.co.uk/img/media/6be562f080c40b5a4762057cff65ae390e3ffad9/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfb6e78fa2d23adc6d44d4c98efd2b2c
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Trade unions, MPs and donors have urged the government to look again at party funding rules, after Reform UK insisted £72m in donations from two crypto billionaires was within the law.

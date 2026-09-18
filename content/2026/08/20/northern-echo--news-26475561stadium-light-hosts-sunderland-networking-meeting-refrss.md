@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: More than 100 people gathered at Sunderland AFC’s Stadium of Light for
   the latest meeting of a popular networking organisation.
 image: https://www.thenorthernecho.co.uk/resources/images/21337379.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: Supplied)*

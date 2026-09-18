@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: More than 1,000 people confirmed dead and more than 4,000 still missing
   in disaster triggered by glacial collapse
 image: https://i.guim.co.uk/img/media/755bf043e6382dfec124d03cf56beb7a27ed298f/546_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52ed4feb3944c0e256e55e010269e95b
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A British national was among 119 people rescued in Nepal on Tuesday, an official said almost a week after deadly flash floods on the country’s border with Tibet.

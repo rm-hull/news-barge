@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: 'Homescreen Heroes: GO Club helps you make simple health improvements
   that are actually achievable'
 image: https://cdn.mos.cms.futurecdn.net/nzndfJksYvx2Yz6S5ZLUyj-1920-80.jpg
+categories:
+- Technology & Software
+- Health & Fitness
+- Self-Improvement
 ---
 
 ![GO Club](https://cdn.mos.cms.futurecdn.net/nzndfJksYvx2Yz6S5ZLUyj.jpg) 

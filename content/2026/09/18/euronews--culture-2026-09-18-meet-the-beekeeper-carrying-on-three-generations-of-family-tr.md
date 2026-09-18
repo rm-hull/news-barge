@@ -9,6 +9,10 @@ description: The Honey Festival celebrates Kalbajar’s long beekeeping traditio
   local producers together as they promote the region’s honey and explore opportunities
   to reach new audiences beyond Azerbaijan.
 image: https://images.euronews.com/articles/stories/09/90/20/22/1200x675_cmsv2_c22f0e6e-016e-5110-81b0-ba7cfddc2114-9902022.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
 ---
 
 **Euronews**

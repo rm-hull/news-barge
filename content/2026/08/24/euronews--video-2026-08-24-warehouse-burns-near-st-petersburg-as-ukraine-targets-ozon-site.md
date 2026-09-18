@@ -9,6 +9,11 @@ description: Video. Firefighters tackled a blaze at a logistics centre next to a
   Ozon facility on the outskirts of St Petersburg, as Ukraine said it was expanding
   its drone campaign against Russian e-commerce warehouses.
 image: https://images.euronews.com/articles/stories/09/88/61/16/1200x675_cmsv2_e3e5734e-55fd-54d7-bb8a-a83c51ae98cc-9886116.jpg
+categories:
+- Europe
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Russian firefighters worked through Sunday to extinguish a fire at a logistics centre next to a facility belonging to online retailer Ozon on the outskirts of St Petersburg.

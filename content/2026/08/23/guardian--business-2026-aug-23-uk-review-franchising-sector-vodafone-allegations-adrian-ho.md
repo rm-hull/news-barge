@@ -8,6 +8,10 @@ published: '2026-08-23T00:00:00Z'
 description: Two studies will be used to shape government policy amid claims about
   a former franchisee who took his own life
 image: https://i.guim.co.uk/img/media/3b1a08a894d52beb69e451301a9356ce53ed518d/204_0_5039_4033/master/5039.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=465bfa9eb16506552be4f4858a793b15
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Ministers have commissioned a pair of in-depth reports into how franchising businesses are policed in the UK, as the government considers introducing new laws after high-profile allegations about conduct in the sector.

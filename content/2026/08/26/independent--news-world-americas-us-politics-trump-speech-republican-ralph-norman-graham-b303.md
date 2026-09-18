@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: ‘I never understood why he got in this race,’ Ralph Norman, referring
   to Trump
 image: https://static.independent.co.uk/2026/08/26/9/46/Screenshot-2026-08-26-at-10-33-33.png?trim=0,0,56,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Supporters of a losing Republican Senate candidate have booed Donald Trump during his concession speech.

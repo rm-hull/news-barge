@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: York Acorn ARLFC celebrated a major milestone on Saturday as rugby league
   legend Jamie Peacock officially opened the club’s new gym.
 image: https://www.yorkpress.co.uk/resources/images/21417715.jpg?type=og-image&xType=0&yType=35
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## Rugby league legend Jamie Peacock opens new York Acorn gym

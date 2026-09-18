@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The passport-size iPhone Duo serves as the first big test for John Ternus,
   who took over for Tim Cook last week
 image: https://i.guim.co.uk/img/media/4b54e404a03bf5f787e097ea7b049354703f9aed/794_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409877608c4e3d9a489ac818de7a7a99
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Apple has unveiled the iPhone Duo, the company’s first foldable phone and the most significant change to the iPhone since the smartphone’s introduction in 2007.

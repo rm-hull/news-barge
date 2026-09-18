@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: It is the latest strike in a long trade war, and comes as Canadian counter-tariffs
   on US goods come into force.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![US President Donald Trump speaks to Canadian Prime Minister Mark Carney  during a welcome outside the West Wing of the White House in October 2025](https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/08b5/live/f578ba70-abe0-11f1-b727-455d73198a95.jpg)

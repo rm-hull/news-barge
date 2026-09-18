@@ -10,6 +10,8 @@ published: '2026-08-25T00:00:00Z'
 description: Some nifty tricks are pulled off by the security engineer — but the dark
   side of all this is worrying to say the least.
 image: https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Confused PC gamer looking at screen](https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg) 

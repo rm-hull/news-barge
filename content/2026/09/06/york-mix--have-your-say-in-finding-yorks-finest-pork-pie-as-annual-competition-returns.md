@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T12:07:37Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/pork-pie-canva.png
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Calling all pork pie lovers as the search for the perfect pork pie is back.

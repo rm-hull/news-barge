@@ -8,6 +8,9 @@ published: '2026-09-18T00:00:00Z'
 description: Most Americans oppose Trump naming buildings after himself while still
   in office
 image: https://static.independent.co.uk/2026/09/18/0/20/GettyImages-2249832853.jpg?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A federal judge has been asked to prevent President Donald Trump from carving his name on yet another historic building in Washington, D.C.

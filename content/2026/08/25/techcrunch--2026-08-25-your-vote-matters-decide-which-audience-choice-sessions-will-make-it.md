@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: Each year, we get a huge influx of applicants to speak at TechCrunch’s
   events, and this year’s Founder Summit in Boston on November 4 will be no different!
 image: https://techcrunch.com/wp-content/uploads/2026/08/founder-summit-audience-choice.png?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different! We want to thank everyone who applied to take part in our programming and to help share their expertise with the startup community.

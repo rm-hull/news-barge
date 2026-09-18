@@ -10,6 +10,9 @@ description: A hacker pretending to work for a leading cryptocurrency news websi
   targeted several cybersecurity professionals using Google Docs as a way to deliver
   malware.
 image: https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 If you are a malicious hacker, cybersecurity professionals may very well be the worst people in the world to try to hack, as there is a very good chance they are going to catch you.

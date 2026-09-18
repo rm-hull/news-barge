@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T04:45:08Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/08/york-police-van-night.jpg
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
 ---
 
 Police have issued a warning after an intruder was disturbed in a York home.

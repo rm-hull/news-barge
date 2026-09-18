@@ -8,6 +8,11 @@ scraped_at: '2026-09-14T15:00:54Z'
 published: '2026-09-14T00:00:00Z'
 description: 'From: Nigel Boddy, Darlington.'
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjg0MmE4OWYzLWZhNmYtNGE0Yi05OWMxLTE4N2I1ZTZlOGIyYjpjOGEwYmEwYy01NTRkLTQ2M2MtOWFhZS00Mzk1OWFkMDAxMzk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Would sales rise if manufacturers started selling small cars again? - Yorkshire Post Letters

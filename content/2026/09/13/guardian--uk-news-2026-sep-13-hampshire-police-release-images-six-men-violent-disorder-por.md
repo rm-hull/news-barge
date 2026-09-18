@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Hampshire and Isle of Wight force says it wants to speak to men in connection
   with anti-migrant unrest that left seven officers injured
 image: https://i.guim.co.uk/img/media/db740aa1c765642457d1cd6eed55ca7581c31099/0_14_1884_1507/master/1884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=238c8beeb6fa48abb4310f3feec109aa
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Police have released images of six men they would like to speak to after violent disorder in Portsmouth last week that left seven officers injured.

@@ -10,6 +10,11 @@ description: Moms who have been closely following the Lindsay Clancy murder tria
   why the case has them speaking out about the failures of America’s maternal healthcare
   system
 image: https://static.independent.co.uk/2026/08/28/16/2026-08-25T155018Z_1351588844_RC2R5NAI854G_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=261,0,261,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 *Editor’s Note: This report deals with postpartum mental health**disorders and includes references to infanticide and suicide, which might be distressing for some readers. Please take care when reading.*

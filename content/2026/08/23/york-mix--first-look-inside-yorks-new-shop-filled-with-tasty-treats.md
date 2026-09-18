@@ -7,6 +7,10 @@ scraped_at: '2026-08-23T09:45:03Z'
 published: '2026-08-23T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/the-big-cheese-skeldergate-york-5.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Meats and cheeses always pleases – as a new cheese and charcuterie shop has opened in York.

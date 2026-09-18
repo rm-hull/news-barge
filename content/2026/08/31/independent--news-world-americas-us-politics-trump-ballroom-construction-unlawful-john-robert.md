@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Chief Justice John Roberts sided with the court's three liberal justices,
   writing in his dissent that the ongoing construction was ‘likely unlawful’
 image: https://static.independent.co.uk/2026/08/31/22/2026-08-31T202720Z_1117310734_RC2F6NAAZ56W_RTRMADP_3_USA-COURT-TRUMP-BALLROOM.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A 5-4 conservative majority on the Supreme Court ruled Monday that construction on a new $400 million White House ballroom can proceed, reversing lower court orders that had temporarily halted aboveground work on the project.

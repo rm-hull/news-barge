@@ -7,6 +7,11 @@ scraped_at: '2026-09-04T04:22:44Z'
 published: '2026-09-04T00:00:00Z'
 description: THE 1980s are set to return to Bradford with a high-energy party night.
 image: https://www.thetelegraphandargus.co.uk/resources/images/19347416.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Comedy & Entertainment
 ---
 
 *(Image: T&A)*

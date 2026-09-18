@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: West African country reports 46 suspected cases in outbreak declared
   in July, amid fears virus may be spreading undetected
 image: https://i.guim.co.uk/img/media/d2a4be74e38b869df6f4dd0020e652ff3c0cfa37/1005_0_1339_1072/master/1339.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd7035f9d923ae30ae55efacafa5fbf7
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic.

@@ -7,6 +7,8 @@ scraped_at: '2026-09-09T19:15:56Z'
 published: '2026-09-09T00:00:00Z'
 description: Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.
 image: https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675
+categories:
+- Technology & Software
 ---
 
 Apple launched its latest Pro phones, the iPhone 18 Pro and the iPhone 18 Pro Max, today at its fall “Surprise and Shine” iPhone event. While the design of the phones remains the same as the earlier model, the upgraded cameras are the highlight of the new devices.

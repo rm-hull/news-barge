@@ -8,6 +8,9 @@ published: '2026-09-01T00:00:00Z'
 description: COSCO's gear seeks to intercept military communications near US and other
   target coastlines, US officials say
 image: https://static.independent.co.uk/2026/09/01/11/01KMQNRP0HEY6Q4YG842G0KSGG.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Two senior Trump administration officials have stated that Chinese state-owned shipping giant COSCO uses hidden onboard equipment to intercept military communications off the coastlines of targeted nations, including the United States.

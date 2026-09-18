@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A neighbourhood improvement plan (NIP) for an area of York has been formulated
   and funded and is set to be put in front of City of York Council…
 image: https://www.gazetteherald.co.uk/resources/images/21387776.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

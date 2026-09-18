@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: The pair replace Emma Willis, who has hosted the show since 2014 but
   is leaving to front Strictly.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/840a/live/ba1eec50-ade9-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
+- Music
 ---
 
 ![Stacey Solomon and Alesha Dixon](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/840a/live/ba1eec50-ade9-11f1-b1d1-571ed4d7ff2c.jpg)

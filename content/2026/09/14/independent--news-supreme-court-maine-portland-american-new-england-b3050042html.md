@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: The Supreme Court will decide this month whether to hear a lobster fisherman’s
   challenge to a rule requiring electronic tracking devices on boats
 image: https://static.independent.co.uk/2026/09/14/17/US_Tracking_Lobster_Boats_34869.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The Supreme Court will decide later this month whether to hear a lobster fisherman’s challenge to a government requirement that boats use electronic tracking devices. That case could have broad consequences for the American commercial fishing industry.

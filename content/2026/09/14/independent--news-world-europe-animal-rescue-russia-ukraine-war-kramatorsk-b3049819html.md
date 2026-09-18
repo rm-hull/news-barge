@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Volunteers travel to some of the frontline’s most dangerous areas to
   evacuate stranded animals
 image: https://static.independent.co.uk/2026/09/14/11/29/2024-06-Tiere-Kriegsfront-Kharkiv-Ukraine-3780-c-PETA-D.jpeg?trim=96,0,200,193&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Pets & Animals
 ---
 
 A Ukrainian animal rescuer has said he is “grateful to be alive” after his car was struck by a Russian drone while rescuing a group of stranded dogs from near the frontline.

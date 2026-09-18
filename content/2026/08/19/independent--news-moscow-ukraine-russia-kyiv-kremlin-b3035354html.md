@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Ukrainian drones have targeted a major logistics center outside Moscow,
   setting it ablaze
 image: https://static.independent.co.uk/2026/08/19/05/Russia_Ukraine_War_Drone_Regiment_216_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Waves of Ukrainian drones targeted the massive logistics center outside Moscow overnight. The next morning, it was still ablaze, dark smoke rising into the sky from what was one of Russia’s largest retail warehouses.

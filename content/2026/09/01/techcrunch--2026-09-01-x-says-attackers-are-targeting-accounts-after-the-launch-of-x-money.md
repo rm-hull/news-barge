@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: X is investigating a wave of unsolicited password reset emails that it
   believes may be tied to the rollout of its new payments service.
 image: https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Attackers are attempting to target X users following the launch of X Money. After numerous X users reported receiving unsolicited password reset emails, a representative said the social media company was actively investigating the issue but had not yet found evidence that the hacks were successful.

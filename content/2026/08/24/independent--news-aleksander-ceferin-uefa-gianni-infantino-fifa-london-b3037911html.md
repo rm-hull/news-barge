@@ -10,6 +10,10 @@ description: UEFA President Aleksander Ceferin says he won’t run against FIFA 
   Gianni Infantino but warned the beleaguered head of world soccer that he must either
   quit or face a leadership challenge
 image: https://static.independent.co.uk/2026/08/24/01/APTOPIX_Austria_UEFA_Super_Cup_Soccer_387_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 UEFA President Aleksander Ceferin says he won't run against FIFA President Gianni Infantino but warned the beleaguered head of world soccer that he must either quit or face a leadership challenge in March.

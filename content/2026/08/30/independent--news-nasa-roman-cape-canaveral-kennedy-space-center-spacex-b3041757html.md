@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: NASA’s newest space telescope has blasted off on a quest to find planets
   around other stars and explore the hidden universe
 image: https://static.independent.co.uk/2026/08/30/12/SpaceX_Florida_54851.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 NASA’s newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.

@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Pebbles inspired university merchandise and a campus cat day and even
   had his own statue
 image: https://static.independent.co.uk/2026/08/28/14/01M13XGM9F1KXQ14WCBMEP63A2.jpg?trim=76,0,76,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Pebbles, the unofficial mascot of the University of Essex’s Colchester campus, has died.

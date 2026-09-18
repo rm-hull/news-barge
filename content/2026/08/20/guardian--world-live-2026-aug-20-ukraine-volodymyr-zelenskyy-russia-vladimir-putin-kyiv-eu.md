@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Zelenskyy says Russia had been preparing for a long time, combining different
   types of missiles
 image: https://i.guim.co.uk/img/media/77c1832c7ea20d7d0fafe3357d5ef4f29ed73888/529_0_4169_3335/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1d4d7a8fa2e56822df53d21190fb9326
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 At least 12 people were killed and 40 injured in a series of Russian attacks on the Ukrainian capital of Kyiv.

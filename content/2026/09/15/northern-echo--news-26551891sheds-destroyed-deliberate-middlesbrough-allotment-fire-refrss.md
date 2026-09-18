@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Two sheds were destroyed as firefighters battled a blaze believed to
   have been started deliberately at the Lime Road allotments on Monday (September…
 image: https://www.thenorthernecho.co.uk/resources/images/21207643.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: FIRE SERVICE)*

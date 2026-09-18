@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Memorial ceremonies took place in New York City, the Pentagon near Washington
   DC and at Flight 93 National Memorial near Shanksville, Pennsylvania.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6af/live/af396930-ae09-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # 'We will never, ever forget' - Americans remember 9/11 on 25th anniversary

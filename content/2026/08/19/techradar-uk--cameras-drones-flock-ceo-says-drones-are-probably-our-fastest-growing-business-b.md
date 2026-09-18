@@ -10,6 +10,9 @@ published: '2026-08-19T00:00:00Z'
 description: Despite a public backlash against the tech, Flock's business is continuing
   to expand beyond license plate readers.
 image: https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Flock drone](https://cdn.mos.cms.futurecdn.net/spZTVZHJ4KgPVx9sjoU7f9.jpg) 

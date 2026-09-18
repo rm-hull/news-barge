@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: A drone laden with explosives was found near a Ukrainian plane at Leipzig/Halle
   Airport
 image: https://static.independent.co.uk/2026/09/03/07/2292600651..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Russia has said it will close German cultural spots across the country in response to being blamed for an attempted attack on an airport.

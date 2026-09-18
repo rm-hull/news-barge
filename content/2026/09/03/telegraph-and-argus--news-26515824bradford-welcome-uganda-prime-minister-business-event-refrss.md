@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: THE Prime Minister of Uganda will visit Bradford this September for a
   major international event
 image: https://www.thetelegraphandargus.co.uk/resources/images/3932195.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Telegraph & Argus)*

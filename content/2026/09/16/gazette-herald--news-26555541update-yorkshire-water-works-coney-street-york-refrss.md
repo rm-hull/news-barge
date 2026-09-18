@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Yorkshire Water has said it is "working as quickly as we can" to complete
   work in Coney Street, York.
 image: https://www.gazetteherald.co.uk/resources/images/21463063.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 *(Image: Newsquest)*

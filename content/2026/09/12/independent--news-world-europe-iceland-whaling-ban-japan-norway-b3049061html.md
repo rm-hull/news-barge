@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Fin whales, the primary target of Iceland's whaling industry, are classified
   as vulnerable
 image: https://static.independent.co.uk/2026/09/12/12/2026-09-10T083048Z_757621096_RC28GNA1VSTF_RTRMADP_3_ICELAND-WHALING.JPG?trim=0,104,0,104&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A bill to be submitted by Iceland's government in February could outlaw whaling, leaving Norway and Japan as the world's only remaining nations to permit commercial hunts.

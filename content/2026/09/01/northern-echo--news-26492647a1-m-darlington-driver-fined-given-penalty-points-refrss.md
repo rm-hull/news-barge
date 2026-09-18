@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Ayman Al Ammar, 24, of Darlington, has been fined £308 and handed six
   penalty points after failing to provide information identifying the driver of…
 image: https://www.thenorthernecho.co.uk/resources/images/13276029.jpg?type=og-image&xType=0&yType=283
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

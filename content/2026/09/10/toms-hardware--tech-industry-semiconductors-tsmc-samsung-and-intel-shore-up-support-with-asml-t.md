@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: ASML, Intel, Samsung, and TSMC back development of 6×12-inch to build
   large processors using High-NA EUV lithography systems without stitching.
 image: https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW-1280-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![ASML](https://cdn.mos.cms.futurecdn.net/sTYxT4FqfMMyrwcpqmHrQW.jpg) 

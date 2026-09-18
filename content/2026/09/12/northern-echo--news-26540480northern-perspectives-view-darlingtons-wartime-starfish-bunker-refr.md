@@ -9,6 +9,11 @@ published: '2026-09-12T00:00:00Z'
 description: THIS is Starfish 48a, a fascinating wartime relic, on the eastern edge
   of Darlington. Now a Grade II listed building, this bunker was designed to be…
 image: https://www.thenorthernecho.co.uk/resources/images/21437334.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 THIS is Starfish 48a, a fascinating wartime relic, on the eastern edge of Darlington. Now a Grade II listed building, this bunker was designed to be staffed by 14 men, billeted in Haughton-le-Skerne, who were pyrotechnics experts.

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Majority of missing Australians were near Gyirong Port minutes before
   impact. Rescuers say the area is now destroyed, covered in metres of silt and debris
 image: https://i.guim.co.uk/img/media/d572a88c9324ddbab0a62611a4e90e7af4678a77/0_0_1599_1279/master/1599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d1f81a47fa1dbfcb024597b9c5c771a
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 It has been almost a week since the catastrophic floods in Nepal and not even a vehicle can get into the area where the majority of missing Australians were last heard from.

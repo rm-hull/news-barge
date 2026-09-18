@@ -9,6 +9,9 @@ description: The Palestinian Authority has condemned a US decision to deny visas
   President Mahmoud Abbas and dozens of officials ahead of next week's UN General
   Assembly, marking the second consecutive year Washington has blocked his attendance.
 image: https://images.euronews.com/articles/stories/09/91/69/67/1200x675_cmsv2_2be94837-c94c-5ad1-9372-9d25505893a9-9916967.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## The Palestinian Authority has condemned a US decision to deny visas to President Mahmoud Abbas and dozens of officials ahead of next week's UN General Assembly, marking the second consecutive year Washington has blocked his attendance.

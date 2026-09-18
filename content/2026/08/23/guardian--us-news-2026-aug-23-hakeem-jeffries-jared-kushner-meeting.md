@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor
   and ex-Republican congressman Adam Kinzinger
 image: https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa0ea6e83cfaf04224f9cf17d1d4ca89
+categories:
+- UK
+- News & Politics
 ---
 
 Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday that House Democratic leader Hakeem Jeffries met with Jared Kushner, the president’s influential son-in-law, to discuss possible areas of collaboration.

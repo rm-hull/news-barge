@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: Powerful bombs prompted such concern about mass deaths in Gaza that Biden
   officials paused delivery two years ago
 image: https://i.guim.co.uk/img/media/0decf4c8c30eb7a60669a859ea336cf50a916f0e/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec3061d4f0fe58eda3b8159c613d4fbc
+categories:
+- UK
+- News & Politics
 ---
 
 The Trump administration is planning to deliver powerful 2,000lb bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago.

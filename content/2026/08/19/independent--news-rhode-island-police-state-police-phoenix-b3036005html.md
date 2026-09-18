@@ -10,6 +10,10 @@ description: A tractor-trailer rollover sent a truckload of squid spilling into 
   Rhode Island roadway, leaving a stench as they sat in the road for hours in the
   summer heat
 image: https://static.independent.co.uk/2026/08/19/22/Squid_Spill_96295.jpg?trim=833,0,833,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the “Squidpocalypse of ’26.”

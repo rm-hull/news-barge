@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Clancy, a former labor and delivery nurse, doesn't deny strangling her
   children, but she says postpartum psychosis led to her actions
 image: https://static.the-independent.com/2026/09/02/07/2026-09-01T155044Z_1302542273_RC2FANAALS3E_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?trim=163,0,163,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 Jurors in the murder trial of Lindsay Clancy are set to resume deliberations Wednesday, a day after telling the judge they couldn't agree on whether she was criminally responsible for killing her three children.

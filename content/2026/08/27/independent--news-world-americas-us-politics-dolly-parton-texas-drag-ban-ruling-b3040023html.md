@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Parton spoke out in the face of restrictive laws targeting LGBTQ+ people
   in the South
 image: https://static.independent.co.uk/2026/08/26/7/45/PA-20308116-df30d8d2.jpeg?trim=118,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A federal judge name-checked Dolly Parton on Tuesday as he struck down a drag ban law in Texas on the same day the country icon’s death was announced.

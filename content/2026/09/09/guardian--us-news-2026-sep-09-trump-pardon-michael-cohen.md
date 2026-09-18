@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Cohen has not personally asked Trump for a pardon, but he submitted an
   application to the White House after his request was denied by the Biden administration
 image: https://i.guim.co.uk/img/media/16e487118d020ab6e065aef62ead47747bf3d1cd/328_0_4080_3264/master/4080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d91f4dd19c59abd4acedb70d10b37ca6
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump on Wednesday said he would consider pardoning Michael Cohen, the former fixer whom he once branded a “rat” for testifying against him in court and before Congress, but with whom he has recently staged a stunning public reconciliation.

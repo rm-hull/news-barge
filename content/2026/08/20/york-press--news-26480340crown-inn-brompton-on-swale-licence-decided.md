@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: A village pub’s bid to extend its licence will be decided at a public
   hearing after a single villager objected saying the venue had ruined their…
 image: https://www.yorkpress.co.uk/resources/images/21260954.jpg?type=og-image
+categories:
+- Local
+- York
+- Technology & Software
 ---
 
 A village pub’s bid to extend its licence will be decided at a public hearing after a single villager objected saying the venue had ruined their retirement.

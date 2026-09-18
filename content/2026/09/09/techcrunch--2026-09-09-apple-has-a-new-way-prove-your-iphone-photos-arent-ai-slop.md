@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: Apple introduced Apple Reference Image to help users determine whether
   photos have been edited, including alterations made by AI.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 In a world awash in AI slop, Apple wants you to trust what gets captured on its iPhones.

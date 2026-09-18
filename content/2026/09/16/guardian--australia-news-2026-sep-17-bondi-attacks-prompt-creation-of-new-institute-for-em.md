@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: NSW Institute for Paediatric Trauma will help doctors, researchers and
   specialists prepare for trauma cases
 image: https://i.guim.co.uk/img/media/6b5124aa9eaf73da725774738d2673a879451ea2/0_0_2082_1666/master/2082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f53ba01bdb160a93adb120e27c5f5248
+categories:
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A new institute dedicated to improving emergency medical care for severely injured children will be established in New South Wales following recent high-profile trauma events in the state.

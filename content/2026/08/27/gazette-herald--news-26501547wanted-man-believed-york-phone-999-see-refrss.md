@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Police are hunting wanted Christopher Norton, 45, who officers believe
   is in York.
 image: https://www.gazetteherald.co.uk/resources/images/21380434.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

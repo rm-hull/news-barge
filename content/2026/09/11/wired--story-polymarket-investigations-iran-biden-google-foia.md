@@ -10,6 +10,12 @@ description: The agency that oversees prediction markets has investigated Polyma
   trades on Biden pardons and the Iran war—and even more potential insider trading
   at Google, documents obtained by WIRED show.
 image: https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/191:100/w_1280,c_limit/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- News & Politics
 ---
 
 The US government launched at least three previously unreported investigations into trading on the prediction market Polymarket, according to documents obtained by WIRED through a Freedom of Information Act request.

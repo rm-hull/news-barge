@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A councillor told a meeting that “life’s too short” for a bitter row
   over a Rotherham house extension which he branded “a bit tacky”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjExNzg3NzlhLWQzZjItNDAzZC04NmY2LTg0OTYzMzU3MGVhZToyNGM0MDU5OS1jYmEwLTQ1MDktODAwMS01OTEyMmEzZTIzN2Q=.png?crop=3:2,smart&trim=&width=1078&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # Councillor: “Life’s too short” for bitter row over Rotherham house extension

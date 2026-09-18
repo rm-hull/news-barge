@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: The US has threatened to isolate nations that continue to do business
   with Tehran, which sells much of its oil to Beijing.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Treasury Secretary Scott Bessent says US will "tighten the noose" around Iranian revenue sources

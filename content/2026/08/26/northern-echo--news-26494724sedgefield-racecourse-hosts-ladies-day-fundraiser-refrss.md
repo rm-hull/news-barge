@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Sedgefield Racecourse’s Bodhi Solutions Ladies Day is set to return,
   combining horse racing, fashion and live entertainment in County Durham while…
 image: https://www.thenorthernecho.co.uk/resources/images/21370531.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A popular annual ladies day is set to return to a County Durham racecourse, bringing together horse racing, fashion and live entertainment while raising money for a children's charity.

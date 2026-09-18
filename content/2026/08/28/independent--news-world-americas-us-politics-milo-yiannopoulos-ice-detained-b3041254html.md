@@ -9,6 +9,9 @@ description: Yiannopoulos, a 41-year-old British national, had been issued a fin
   order of removal after overstaying his visa but failed to show up for an immigration
   appointment
 image: https://static.independent.co.uk/2026/08/28/20/25/MILO.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Milo Yiannopoulos, the controversial far-right political commentator who once worked for Kanye West, was detained by Immigration and Customs Enforcement at an airport in Louisiana Thursday.

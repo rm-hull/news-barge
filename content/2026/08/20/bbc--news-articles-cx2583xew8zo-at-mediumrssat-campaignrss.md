@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Resits are up, the gap between boys and girls has shrunk and England's
   regional divide has widened.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f7c5/live/d12e25d0-9ca7-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A group of students gather around holding papers and gesturing to each other while reading their results at a high school in Cardiff on Thursday.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/f7c5/live/d12e25d0-9ca7-11f1-a291-b542ee92de7c.jpg)

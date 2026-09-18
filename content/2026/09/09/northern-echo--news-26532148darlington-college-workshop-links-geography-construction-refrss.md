@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Darlington College students recently took part in the Geography session,
   part of the Construction in the Curriculum programme led by Esh Group.
 image: https://www.thenorthernecho.co.uk/resources/images/21425668.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 A new workshop in Darlington is helping students see how classroom subjects connect to career opportunities.

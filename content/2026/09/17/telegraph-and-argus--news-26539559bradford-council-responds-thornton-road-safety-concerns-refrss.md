@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T04:45:27Z'
 published: '2026-09-17T00:00:00Z'
 description: Concerns have been raised about roadworks on Thornton Road in Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21451544.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 Bradford Council has defended the safety measures in place during work on one of the district’s biggest road improvement schemes, following concerns raised about pedestrian access near a secondary school.

@@ -8,6 +8,9 @@ scraped_at: '2026-08-26T16:57:17Z'
 published: '2026-08-26T00:00:00Z'
 description: AI governance and cost control for agentic AI
 image: https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A robot in front of a digital screen, touching some of the symbols with its outstretched finger](https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL.jpg) 

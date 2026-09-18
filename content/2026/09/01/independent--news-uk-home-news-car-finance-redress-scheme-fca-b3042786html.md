@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: The FCA has said it will defend its motor finance compensation scheme
   as the best way to resolve a long-running saga
 image: https://static.independent.co.uk/2026/03/04/08/8b21aa36d106ac01f156714d9d8cb104Y29udGVudHNlYXJjaGFwaSwxNzcyNjk3NzAx-2.82920551.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A consumer advocacy group has alleged that Britain’s financial regulator focused on reducing the cost of its £9.1 billion motor finance compensation package for lenders rather than safeguarding motorists.

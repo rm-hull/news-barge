@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: GPU reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/uvMbLn95EcYuCK78iGqYz4-1200-80.png
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 No tech has seen more innovation in the last decade than graphics cards, thanks to powerhouse rivals AMD and Nvidia advancing the state of the art with ray-tracing, FSR and DLSS, 3D chip stacking and more. What does it all mean? Tom's Hardware is the industry standard for GPU news, reviews, and insights.

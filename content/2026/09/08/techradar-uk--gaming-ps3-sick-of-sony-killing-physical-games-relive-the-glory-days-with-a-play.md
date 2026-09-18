@@ -8,6 +8,9 @@ scraped_at: '2026-09-08T19:24:50Z'
 published: '2026-09-08T00:00:00Z'
 description: You can now play PS3 game discs on your PC thanks to this emulator.
 image: https://cdn.mos.cms.futurecdn.net/8Uj7DNUCXaq5YqWiLY3KaG-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![PS3](https://cdn.mos.cms.futurecdn.net/8Uj7DNUCXaq5YqWiLY3KaG.jpg) 

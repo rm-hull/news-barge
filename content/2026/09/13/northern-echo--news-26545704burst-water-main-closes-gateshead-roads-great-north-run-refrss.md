@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Drivers face major disruption in central Gateshead after a burst water
   main forced more road closures during Great North Run traffic restrictions.
 image: https://www.thenorthernecho.co.uk/resources/images/21446813.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: SARAH CALDECOTT)*

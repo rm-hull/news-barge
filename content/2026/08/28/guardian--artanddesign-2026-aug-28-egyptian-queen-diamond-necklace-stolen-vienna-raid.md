@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: Police hunt two suspects after historic 200-carat piece is snatched from
   Austrian museum during opening hours
 image: https://i.guim.co.uk/img/media/7ea385a25016498346b2081fed61a63745b04ef4/0_515_2327_1862/master/2327.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a4c9136a74a26259854843d85aeab9b
+categories:
+- UK
+- News & Politics
+- History
+- True Crime
 ---
 
 Austrian police are hunting two men alleged to have stolen a 200-carat platinum necklace encrusted with 673 diamonds that was on loan to a museum in Vienna and once belonged to Egyptian royalty.

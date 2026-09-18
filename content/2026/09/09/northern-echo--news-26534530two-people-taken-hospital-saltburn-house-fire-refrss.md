@@ -7,6 +7,11 @@ scraped_at: '2026-09-09T12:56:15Z'
 published: '2026-09-09T00:00:00Z'
 description: Two people were taken to hospital after a house fire in Saltburn.
 image: https://www.thenorthernecho.co.uk/resources/images/21429436.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: NORTHERN ECHO)*

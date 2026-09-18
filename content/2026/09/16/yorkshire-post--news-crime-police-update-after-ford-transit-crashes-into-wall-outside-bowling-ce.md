@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: Police are appealing for witnesses after a crash into a wall on Leeds
   Road, Huddersfield at around 8.07pm on Tuesday (Sep 15).
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ2MzhmOGI1LTdlZGQtNDY5ZS1hMDEzLWY3MmZjODE4Nzg3ZTo2NGEwYTZmMC1lNmM3LTQ2NjktOTFjMi01NTM1NjA0OWFhMDY=.png?crop=3:2,smart&trim=&width=1043&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
+- True Crime
 ---
 
 # Police update after Ford Transit crashes into wall outside bowling centre

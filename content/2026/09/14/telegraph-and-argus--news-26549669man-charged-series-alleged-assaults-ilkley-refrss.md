@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: A man has been arrested and charged after a series of assaults in the
   early hours of Sunday morning.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20579082.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

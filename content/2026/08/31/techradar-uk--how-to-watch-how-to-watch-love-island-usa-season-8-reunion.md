@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Summer's top-rated reality TV show is ready for a catch-up! Get ready
   for on-stage breakups and post-villa gossip
 image: https://cdn.mos.cms.futurecdn.net/AtUPfmEDNa7FqRPkErFvTK-2560-80.png
+categories:
+- Technology & Software
+- Lifestyle & Fashion
+- Sports
 ---
 
 ![Bravo's Andy Cohen in linen jacket and host Ariana Madix smiling to promote the Love Island USA reunion 2026](https://cdn.mos.cms.futurecdn.net/AtUPfmEDNa7FqRPkErFvTK.png) 

@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: The retailer said the ‘heightened seasonal demand’ had delivered extra
   profits in the ‘mid-single digit millions of pounds’.
 image: https://static.independent.co.uk/2026/08/27/08/3803543bdcc72fe8a9f649ae10717c15Y29udGVudHNlYXJjaGFwaSwxNzg3ODk5NDgy-2.74706428.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Britain’s prolonged hot and dry summer has helped retailer Halfords upgrade its annual profit outlook after it said the unusually warm weather boosted demand for seasonal ranges.

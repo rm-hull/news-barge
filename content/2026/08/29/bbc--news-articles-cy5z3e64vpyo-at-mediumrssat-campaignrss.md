@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: A veterans' charity says Donald Turrell will be remembered with "enormous
   affection and gratitude".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b37d/live/648ee050-a3d6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Donald Turrell is sitting in a wheelchair in front of a military vehicle. He is wearing a black army hat and a suit. On the left side of his jacket is a row of medals from World War Two.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b37d/live/648ee050-a3d6-11f1-a291-b542ee92de7c.jpg)

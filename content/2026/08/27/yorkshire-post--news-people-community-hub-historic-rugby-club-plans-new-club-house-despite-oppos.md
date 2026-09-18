@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: A rugby club is planning to expand with a new club house, but its proposals
   have met with opposition from residents.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmRkNDE5NDQ4LTZkZWQtNDMyZi1iODM5LTE4YWZlYWQ4M2I3YTo3MjcwNjg2Yi1hZDFjLTQ0YTAtOTJkZi01NWRlMzYzOWUzN2Y=.jpg?crop=3:2,smart&trim=&width=1182&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 # 'Community hub' - Historic rugby club plans new club house despite opposition from residents

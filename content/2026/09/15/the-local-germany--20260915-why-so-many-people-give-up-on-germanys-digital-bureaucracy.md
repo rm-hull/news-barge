@@ -9,6 +9,12 @@ description: Even digitally confident Germans struggle with online government se
   according to new research. In some cases, up to nine in 10 users in the country
   abandon digital application processes before reaching the end.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-501834032.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Many international residents in Germany will be familiar with the story.

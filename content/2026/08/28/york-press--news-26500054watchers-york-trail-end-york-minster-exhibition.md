@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: The Watchers of York sculptures will gather at York Minster's Chapter
   House for a final exhibition.
 image: https://www.yorkpress.co.uk/resources/images/21378193.jpg?type=og-image&xType=0&yType=2132
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Popular York sculpture trail to end with final exhibition at York Minster

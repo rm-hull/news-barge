@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: The City of Doncaster Council has confirmed there is no ban on fishing
   at a boating lake in Askern, but options remain open to tackle “poor angling practices”.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU4NWNhNWMzLTNlYzQtNDJmMy1iZTZkLWFkMDQ4ZTY3Y2MzNjo1NTdkNmEyNy1jM2EzLTQ0MzQtOGNiYS1kYmUwZjJhYTFhMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # No ban at fishing lake, but remains on the table to tackle ‘poor angling practices’, council says

@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Bosnian Serb commander responsible for Srebrenica massacre dies in prison
   while serving life sentence for genocide
 image: https://i.guim.co.uk/img/media/d5b2037d15a996ed693ae88b661678e01434e0c2/140_0_1860_1488/master/1860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=909666a36993fd6859eb6d68018234c8
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Ratko Mladić, the infamous Serbian general who was serving a life sentence for genocide committed during the Bosnian war, has died in prison in The Hague.

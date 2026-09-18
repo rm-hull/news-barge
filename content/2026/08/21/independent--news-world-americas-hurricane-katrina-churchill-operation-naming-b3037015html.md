@@ -10,6 +10,10 @@ description: Humans have always named the things around them, but formally namin
   hurricanes, military operations and global health emergencies is a relatively modern
   practice
 image: https://static.independent.co.uk/2026/08/21/11/Memorable_Monikers_63212.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 As hurricane season gathers pace, tropical cyclones across the Pacific are quickly working their way through names beginning with Amanda and Boris.

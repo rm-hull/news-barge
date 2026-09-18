@@ -10,6 +10,11 @@ description: Breast cancer patients at Harrogate and District NHS Foundation Tru
   (HDFT) are set to receive faster diagnoses and quicker treatment decisions following
   the
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/Slide-Scanner.webp
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- Health & Fitness
 ---
 
 Breast cancer patients at Harrogate and District NHS Foundation Trust (HDFT) are set to receive faster diagnoses and quicker treatment decisions following the introduction of pioneering new artificial intelligence technology.

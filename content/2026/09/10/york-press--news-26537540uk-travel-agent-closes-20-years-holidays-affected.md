@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: UK travel agent Barnes Worldwide Travel Ltd has ceased trading after
   19 years, according to ABTA - see what impact this has on holiday bookings.
 image: https://www.yorkpress.co.uk/resources/images/21428564.jpg?type=og-image&xType=0&yType=416
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Travel
 ---
 
 *(Image: Ellie Crabbe/PA Wire)*

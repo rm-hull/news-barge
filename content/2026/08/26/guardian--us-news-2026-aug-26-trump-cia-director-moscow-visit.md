@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: President denies visit was to gain support for Iran sanctions or due
   to fears that Putin plans to ‘test Nato resolve’
 image: https://i.guim.co.uk/img/media/98bf0083a520236fb573a198df1f3f785590404a/579_0_5792_4635/master/5792.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=982e18e3e6a3c4061fdf2f094d9afb65
+categories:
+- UK
+- News & Politics
 ---
 
 Donald Trump has downplayed a visit to Moscow by the CIA director, John Ratcliffe, as “semi-routine” after he turned up in the Russian capital unannounced, triggering a wave of speculation about the reasons for his trip.

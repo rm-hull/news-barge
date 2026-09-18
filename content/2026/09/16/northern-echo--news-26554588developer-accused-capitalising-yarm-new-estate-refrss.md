@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: A developer has been accused of “capitalising” on “lucrative” Yarm by
   bidding to build 600 new homes - with residents fearing it “sets a…
 image: https://www.thenorthernecho.co.uk/resources/images/21461856.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Real Estate
 ---
 
 *(Image: THE NORTHERN ECHO)*

@@ -9,6 +9,8 @@ published: '2026-08-21T00:00:00Z'
 description: There couldn't be a worse time for Meta and Samsung to release new smart
   glasses, but what could they do instead?
 image: https://cdn.mos.cms.futurecdn.net/f2ErG2ZjSDQM6Bsj7MgT9A-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Orange RayBan Meta Smart Glasses in front of a wall of colorful lenses including green, blue, yellow and pink](https://cdn.mos.cms.futurecdn.net/f2ErG2ZjSDQM6Bsj7MgT9A.jpg) 

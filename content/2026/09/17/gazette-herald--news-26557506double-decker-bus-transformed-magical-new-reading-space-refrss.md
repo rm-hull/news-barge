@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T13:24:20Z'
 published: '2026-09-17T00:00:00Z'
 description: A CONVERTED double-decker bus is opening up new worlds of imagination
 image: https://www.gazetteherald.co.uk/resources/images/21466006.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A CONVERTED double-decker bus is opening up new worlds of imagination.

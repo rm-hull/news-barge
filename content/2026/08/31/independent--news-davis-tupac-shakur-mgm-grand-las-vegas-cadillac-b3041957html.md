@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Jurors will hear closing statements Monday in the trial of Duane “Keffe
   D” Davis, who is accused of orchestrating the killing of rapper Tupac Shakur
 image: https://static.independent.co.uk/2026/08/27/22/Tupac_Trial_5514_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Closing statements are scheduled Monday in one of hip-hop's most anticipated trials for the man accused of orchestrating the death of Tupac Shakur.

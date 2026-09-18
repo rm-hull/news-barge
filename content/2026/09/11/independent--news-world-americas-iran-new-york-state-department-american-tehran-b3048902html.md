@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: A New York jeweler has been released from prison in Iran, but he is prohibited
   from leaving the country
 image: https://static.independent.co.uk/2026/09/11/21/Iran_War_American_Detainees_88542.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 An Iranian American jeweler from New York has been released from prison in Iran, but he is prohibited from leaving the country, according to his family and federal officials.

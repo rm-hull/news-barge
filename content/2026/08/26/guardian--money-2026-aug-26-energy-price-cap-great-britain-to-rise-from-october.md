@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Households in Great Britain will pay equivalent of £1,723 a year, prompting
   calls for more support
 image: https://i.guim.co.uk/img/media/aab036bfd86c0c3cd3b1a77cfc9f264015c10d8a/329_0_1527_1221/master/1527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2ead49a86065f591fe4ccc0cd6ab618
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Millions of households in Great Britain will face the highest energy charges in three years this winter after months of soaring market prices caused the government’s price cap to rise for a second time in three months.

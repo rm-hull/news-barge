@@ -9,6 +9,9 @@ description: Throughout his time as Speaker of the House, Mike Johnson has been 
   between a rebellious caucus and an unpredictable president, a bind that only grows
   more complicated as midterms approach
 image: https://static.independent.co.uk/2026/06/08/20/2266425535..?trim=20,0,20,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 House Speaker Mike Johnson works so closely with the president that the White House refers to him as a co-POTUS, the Louisiana Republican claims.

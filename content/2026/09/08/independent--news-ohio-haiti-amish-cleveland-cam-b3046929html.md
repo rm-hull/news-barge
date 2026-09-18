@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A former missionary with an Ohio-based ministry has pleaded guilty to
   federal charges of sexually abusing two boys in Haiti
 image: https://static.independent.co.uk/2026/09/09/00/Missionary_Abuse_Haiti_463_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A former missionary with an Ohio-based ministry pleaded guilty Tuesday to federal charges that he sexually abused two boys in Haiti, reaching an agreement with prosecutors that could lead to a prison sentence of at least 25 years.

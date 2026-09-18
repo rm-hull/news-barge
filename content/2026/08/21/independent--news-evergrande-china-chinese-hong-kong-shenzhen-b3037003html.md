@@ -11,6 +11,11 @@ description: Chinese authorities have moved to finish cleaning up the mess left 
   Guangzhou accepted a bankruptcy liquidation case against its key mainland property
   development company
 image: https://static.independent.co.uk/2026/08/20/06/CHINA-EVERGRANDE_71299.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 Chinese authorities are moving to finish cleaning up the mess left by the collapse of the Evergrande real estate empire, years after its default with some $300 billion in liabilities.

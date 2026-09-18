@@ -9,6 +9,8 @@ published: '2026-09-02T00:00:00Z'
 description: This Dell laptop looks to be a smart rival for Apple's MacBook Neo, but
   some question marks remain over pricing.
 image: https://cdn.mos.cms.futurecdn.net/puQwcWCTjUfgm9efJSfCH4-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Dell 14S 2026, four laptops next to each other showing four different colors for this notebook: beige, pink, green and blue](https://cdn.mos.cms.futurecdn.net/puQwcWCTjUfgm9efJSfCH4.jpg) 

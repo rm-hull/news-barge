@@ -7,6 +7,9 @@ scraped_at: '2026-09-11T19:10:11Z'
 published: '2026-09-11T00:00:00Z'
 description: Asus just got clearance to sell new routers in the US
 image: https://cdn.mos.cms.futurecdn.net/GgVxKibe8sGsWN2nEeUCCS-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Asus RT-BE92U router on wooden table](https://cdn.mos.cms.futurecdn.net/GgVxKibe8sGsWN2nEeUCCS.jpg) 

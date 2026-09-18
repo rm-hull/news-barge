@@ -9,6 +9,10 @@ description: A sexual assault trial is getting underway in New Hampshire for a m
   whose arrest more than seven years ago kicked off one of the biggest youth detention
   scandals in U.S. history
 image: https://static.independent.co.uk/2026/09/14/16/Youth_Center_Abuse_29_87.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A sexual assault trial starts Monday for a New Hampshire man whose arrest more than seven years ago kicked off one of the biggest youth detention scandals in U.S. history.

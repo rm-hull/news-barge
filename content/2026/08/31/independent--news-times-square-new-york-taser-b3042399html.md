@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: Police officers shot a woman brandishing two large knives in New York’s
   Times Square
 image: https://static.independent.co.uk/2026/09/01/00/Times_Square_Police_Shooting_26496.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A woman brandishing two large knives was shot by police officers in New York’s Times Square on Monday, according to video taken by bystanders.

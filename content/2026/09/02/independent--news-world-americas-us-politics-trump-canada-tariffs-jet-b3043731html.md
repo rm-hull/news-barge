@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The off-the-cuff anecdote to reporters in the Oval Office Wednesday comes
   as Trump has launched the US into a bitter new trade war with its northern neighbor
 image: https://static.independent.co.uk/2026/09/02/20/2026-09-02T190113Z_1413402416_RC27BNAXTQ02_RTRMADP_3_USA-TRUMP.JPG?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump said Wednesday that his threat to impose 50 percent tariffs on every aircraft Canada sells into the United States began with a favor for a wealthy friend who was trying to buy a private jet and could not.

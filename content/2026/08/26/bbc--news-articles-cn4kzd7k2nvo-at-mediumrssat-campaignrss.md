@@ -8,6 +8,9 @@ published: '2026-08-26T00:00:00Z'
 description: Supporting Palestine Action became illegal in the UK in 2025 after the
   government banned it under anti-terror legislation.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/411d/live/87b8fe20-a166-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Palestinian flags in green, red, black and white are fluttering against a backdrop of a demonstration in support of Palestine Action in Trafalgar Square, London, in June 2025](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/411d/live/87b8fe20-a166-11f1-aed2-8d6da8d75094.jpg)

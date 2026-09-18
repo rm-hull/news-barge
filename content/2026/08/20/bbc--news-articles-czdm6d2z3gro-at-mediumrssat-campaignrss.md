@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Pass rates for maths and English resits remain significantly lower than
   students taking them for the first time.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af3e/live/90ab23d0-9cb3-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 ![Students queue to get their results at Llanishen High School on August 20, 2026 in Cardiff, Wales.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/af3e/live/90ab23d0-9cb3-11f1-aed2-8d6da8d75094.jpg)

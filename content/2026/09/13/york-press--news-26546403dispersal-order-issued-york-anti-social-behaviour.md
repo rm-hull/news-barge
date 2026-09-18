@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Police have issued a dispersal order in York after reports of youths
   causing "significant anti-social behaviour” in the city centre.
 image: https://www.yorkpress.co.uk/resources/images/20581083.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
+- News & Politics
 ---
 
 *(Image: Newsquest)*

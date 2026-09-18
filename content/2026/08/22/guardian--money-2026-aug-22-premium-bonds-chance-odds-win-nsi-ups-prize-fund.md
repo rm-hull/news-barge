@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Savings bank estimates there will be 308,000 more prizes available in
   September draw than the month before
 image: https://i.guim.co.uk/img/media/b932b013a6f38d3f7c9a5aee2e90beb62f29d27a/487_0_4868_3894/master/4868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1206aab7acb3cca2ae6ce9698684889
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Premium bond holders will have more chances of winning prizes after changes announced this week.

@@ -11,6 +11,10 @@ published: '2026-09-16T00:00:00Z'
 description: StarCraft general manager and creative director Dan Hay has compared
   real-world events to the series' stories, calling them "remarkably topical."
 image: https://cdn.mos.cms.futurecdn.net/HyUa5PHbduF6N68wGQufKK-2000-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
+- Film & TV
 ---
 
 ![StarCraft](https://cdn.mos.cms.futurecdn.net/HyUa5PHbduF6N68wGQufKK.jpg) 

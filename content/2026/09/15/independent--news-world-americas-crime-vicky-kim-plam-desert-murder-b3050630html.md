@@ -9,6 +9,10 @@ description: Vicky Kyung Mi Kim, 65, faces first-degree murder charges along wit
   weapons and great bodily injury enhancements in the gruesome slaying of Richard
   Kaufman inside their upscale Enclave Condominium complex
 image: https://static.the-independent.com/2026/09/15/15/55/Vicky-Kyung-Mi-Kim.png?trim=147,0,67,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A Palm Desert woman accused of savagely beating her 77-year-old husband to death with a heavy metal curtain rod—potentially during a bitter dispute over his life savings—is scheduled to finally face a judge today for formal arraignment after days of medical delays.

@@ -10,6 +10,11 @@ description: China’s foreign minister says his country and the United States n
   to overcome obstacles between the nations ahead of an expected September summit
   between U.S. President Donald Trump and Chinese President Xi Jinping
 image: https://static.independent.co.uk/2026/08/27/07/China_US__84_8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 China's foreign minister said his country and the United States should overcome obstacles between the nations ahead of an expected summit next month between U.S. President Donald Trump and Chinese President Xi Jinping.

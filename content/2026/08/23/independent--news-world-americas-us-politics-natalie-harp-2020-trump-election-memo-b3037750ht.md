@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: Harp was spotted Saturday with the president at his Virginia golf course
   ahead of his appearance at Sunday’s Indy grand prix
 image: https://static.independent.co.uk/2026/08/23/13/2291041074..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Natalie Harp, the president’s close aide who has been the subject of recent intense speculation, was spotted with Trump on another golf course this weekend.

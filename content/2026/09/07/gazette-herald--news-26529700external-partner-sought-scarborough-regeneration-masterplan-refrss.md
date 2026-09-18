@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A NEW ‘masterplan’ could see the appointment of an external partner to
   lead on the regeneration of council-owned sites in a North Yorkshire town.
 image: https://www.gazetteherald.co.uk/resources/images/20427348.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A NEW ‘masterplan’ could see the appointment of an external partner to lead on the regeneration of council-owned sites in a North Yorkshire town.

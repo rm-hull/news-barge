@@ -7,6 +7,10 @@ scraped_at: '2026-09-18T04:34:33Z'
 published: '2026-09-18T00:00:00Z'
 description: YORKSHIRE women are leading the way in health, beauty, and wellbeing
 image: https://www.yorkpress.co.uk/resources/images/21466699.jpg?type=og-image
+categories:
+- Local
+- York
+- Health & Fitness
 ---
 
 *(Image: Supplied)*

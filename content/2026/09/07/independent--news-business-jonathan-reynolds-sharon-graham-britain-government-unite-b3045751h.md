@@ -8,6 +8,12 @@ published: '2026-09-07T00:00:00Z'
 description: It is understood the firm is telling workers on Monday morning amid reports
   it will formally announce plans to slash 4,000 jobs.
 image: https://static.independent.co.uk/2026/09/07/08/09121934-701c0f28-59a6-473c-ad1c-db2c1191313a.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 Jaguar Land Rover is expected to announce thousands of job cuts as part of a voluntary redundancy programme to help save £1.7 billion over the next two years.

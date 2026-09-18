@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: David Mitchell and Anna Maxwell Martin are among the stars back for a
   second series of Ludwig on the BBC
 image: https://www.thenorthernecho.co.uk/resources/images/21335672.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 *(Image: BBC/Big Talk)*

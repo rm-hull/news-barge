@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The closely-watched Lindsay Clancy trial has come to and end with one
   final dramatic moment
 image: https://static.independent.co.uk/2026/09/05/01/Lindsay_Clancy_Trial_96599.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 The closely watched case of the Massachusetts mother who killed her three young children was on the verge of being declared a mistrial Friday — but there was still one more dramatic moment to come.

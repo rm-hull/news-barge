@@ -9,6 +9,10 @@ description: The former Great British Bake Off judge’s call for a lunchbox ban
   been met with fierce resistance from our community, who accuse her of pushing the
   nanny state too far
 image: https://static.the-independent.com/2026/08/27/13/10/Engagement-overlays-2026-08-27T141339-184.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Dame Prue Leith’s call for lunchboxes to be banned in schools has prompted a strong reaction from *Independent* readers, many of whom accused her of pushing the state further into territory that should be left to parents.

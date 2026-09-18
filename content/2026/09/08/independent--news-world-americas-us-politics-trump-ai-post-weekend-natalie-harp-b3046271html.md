@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Harp has been dubbed the ‘human printer’ and is reportedly a key staffer
   involved in his social media communications
 image: https://static.independent.co.uk/2026/09/08/01/2293030204..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Natalie Harp, the White House staffer who has attracted attention for her extreme devotion to President Donald Trump, was reportedly around the Republican over the weekend at his golf club in New Jersey as he fired off countless unusual social media posts, such as an apparently AI-generated cartoon of himself attacking Canadian Prime Minister Mark Carney and multiple threats to rename New Mexico.

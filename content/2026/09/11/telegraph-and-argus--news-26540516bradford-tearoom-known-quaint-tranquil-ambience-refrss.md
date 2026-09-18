@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A Bradford bakery and tearoom known for its quaint and tranquil ambience
   is in the running for an award.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437386.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: UGC)*

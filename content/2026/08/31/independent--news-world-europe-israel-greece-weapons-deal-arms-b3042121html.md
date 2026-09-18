@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: Move seen as Greece focusing on modernizing its armed forces to keep
   pace with Turkey amid boundary disputes
 image: https://static.independent.co.uk/2026/08/31/12/2291461723..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Israel has signed a multi-billion-dollar weapons deal with Greece, marking the largest between the two Mediterranean countries.

@@ -9,6 +9,10 @@ description: The Wild Horse Nine actor had been due to appear on stage in The Mu
   Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’
   attribution of statement
 image: https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8241697b7237458a557e02ec967f343
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 John Malkovich has cancelled a planned trip to Israel next year to appear on stage after a PR firm hired by the show attributed quotes to the actor that the company had written.

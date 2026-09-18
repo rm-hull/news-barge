@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Do we really need a Persona 4 Golden remake? I'm not sure after going
   hands-on at Gamescom 2026.
 image: https://cdn.mos.cms.futurecdn.net/6c6voVUA4JV84q7EDkJixT-2560-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A promotional screenshot of Persona 4 Revival released at Gamescom 2026.](https://cdn.mos.cms.futurecdn.net/6c6voVUA4JV84q7EDkJixT.png) 

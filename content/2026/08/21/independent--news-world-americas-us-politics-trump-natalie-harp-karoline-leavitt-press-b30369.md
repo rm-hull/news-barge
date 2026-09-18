@@ -10,6 +10,9 @@ description: Trump has also posted an AI picture of himself with the caption ‘
   Best Press Secretary’, as speculation mounts over who could replace Leavitt following
   her unexpected announcement
 image: https://static.independent.co.uk/2026/08/21/9/32/Karoline-Leavitt-Natalie-Harp.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 President Donald Trump reportedly joked that his aide Natalie Harp could replace Karoline Leavitt as the next White House press secretary.

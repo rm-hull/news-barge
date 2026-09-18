@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The venue argues that donors will ‘flee’ and contributions will ‘dry
   up’ without Trump — but budget docs appear to show the opposite
 image: https://static.independent.co.uk/2026/08/19/19/2026-08-13T191156Z_374121431_RC2VXMA32EMQ_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER.JPG?trim=0,843,0,158&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 The Kennedy Center is in “terrible trouble,” “decrepit” and "embarrassing" to Washington, D.C. and “cannot survive” — structurally or financially — without Donald Trump’s name on the building.

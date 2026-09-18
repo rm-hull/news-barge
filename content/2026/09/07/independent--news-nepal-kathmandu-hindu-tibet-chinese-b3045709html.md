@@ -9,6 +9,10 @@ description: Nepal is holding a day of mourning to remember people who died in t
   Aug. 26 floods with government offices lowering flags and family members concluding
   mourning rituals
 image: https://static.independent.co.uk/2026/09/07/05/APTOPIX_Nepal_Flood_32464.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 Nepal held a day of mourning Monday to remember people who died in the Aug. 26 floods with government offices lowering flags and family members concluding mourning rituals.

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A man with connections to Consett and Stanley is wanted by police on
   recall to prison.
 image: https://www.thenorthernecho.co.uk/resources/images/21376559.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: DURHAM POLICE)*

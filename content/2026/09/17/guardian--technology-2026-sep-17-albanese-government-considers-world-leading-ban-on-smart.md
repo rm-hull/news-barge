@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Minister for public service says the devices pose ‘legitimate privacy
   and security concerns’ in commonwealth-run workplaces
 image: https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2bec1f4471a9df5ab4ee4ed2aae8d5d
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Society & Culture
 ---
 
 The Albanese government is considering a “world-leading” ban on smart glasses in its offices and service centres as councils around Australia push the technology out of public spaces over privacy fears.

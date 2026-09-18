@@ -9,6 +9,10 @@ description: The FDA's request for public input ahead of the hearing drew hundre
   of submissions, with many women describing enhanced libido, energy levels, and quality
   of life while on testosterone
 image: https://static.independent.co.uk/2026/09/17/15/28/GettyImages-2224877034.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 US health regulators will review scientific evidence regarding testosterone use among menopausal women on Thursday, evaluating its benefits, risks, dosage options, role in female health, and perspectives from both patients and doctors.

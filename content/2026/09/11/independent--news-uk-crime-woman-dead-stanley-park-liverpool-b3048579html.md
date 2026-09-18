@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: The body, which was discovered on 28 August, is believed to have been
   there for several weeks
 image: https://static.independent.co.uk/2025/10/03/11/e5d14727454df4471276442c38876a01Y29udGVudHNlYXJjaGFwaSwxNzU5NTcxNDYx-2.63820733.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Police have been unable to identify a woman who was found dead in a black bin bag in Liverpool’s Stanley Park two weeks ago.

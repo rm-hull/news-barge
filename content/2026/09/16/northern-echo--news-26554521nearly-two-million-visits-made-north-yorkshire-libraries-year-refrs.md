@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Visits to North Yorkshire’s libraries have risen by six per cent in a
   year, with almost two million trips made to branches across the county.
 image: https://www.thenorthernecho.co.uk/resources/images/21337471.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 Visits to North Yorkshire’s libraries have risen by six per cent in a year, with almost two million trips made to branches across the county.

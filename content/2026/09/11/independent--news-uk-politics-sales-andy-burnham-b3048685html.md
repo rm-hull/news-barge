@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: Clearpay said its ‘dumbphone’ sales figures indicate a shift in how families
   are considering online access on mobile phones.
 image: https://static.independent.co.uk/2026/09/11/14/11142024-5c995217-87e2-4bef-ae3f-0b756b8e3793.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Sales of basic mobile phones which help people to digitally “detox” have jumped over the past year, according to a buy now pay later provider.

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A top TV chef has visited York as part of a tour of the north of England
   - which will see him donate thousands of pounds to good causes.
 image: https://www.gazetteherald.co.uk/resources/images/21336437.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Comedy & Entertainment
 ---
 
 A TOP TV chef visited York as part of a tour of the north of England which will see him donate thousands of pounds to good causes.

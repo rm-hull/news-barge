@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Naked cyclists were blocked by protesters during their annual ride in
   York, an event participant has said.
 image: https://www.yorkpress.co.uk/resources/images/21445923.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Dylan Connell)*

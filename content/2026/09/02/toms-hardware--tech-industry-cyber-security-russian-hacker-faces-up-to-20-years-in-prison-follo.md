@@ -9,6 +9,10 @@ scraped_at: '2026-09-02T19:22:53Z'
 published: '2026-09-02T00:00:00Z'
 description: Malware download prompts were embedded in Microsoft Excel files
 image: https://cdn.mos.cms.futurecdn.net/irtnsHXe9yYkMhEedCNstf-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- News & Politics
 ---
 
 ![Code](https://cdn.mos.cms.futurecdn.net/irtnsHXe9yYkMhEedCNstf.jpg) 

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Businesses, charities and other groups sign letter calling for levies
   to be paid by the government
 image: https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1418_500_6133_4907/master/6133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a9b1a00899fb0e8d2eb5faf94837ae2
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 More than 120 organisations including big businesses and charities have called for the removal of “hidden taxes” added to energy bills to help reduce costs for consumers and prevent businesses closing.

@@ -8,6 +8,9 @@ published: '2026-09-05T00:00:00Z'
 description: Energy costs are continuing to rise amid the ongoing conflict in the
   Middle East
 image: https://static.independent.co.uk/2026/09/05/12/2293564567..?trim=1,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 As the ongoing conflict in the Middle East continues to inflate energy expenses, American motorists are confronting historic fuel prices over the Labor Day weekend, coinciding with the official launch of political campaigns for the midterm Congressional elections.

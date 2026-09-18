@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Turning Point will spend tens of millions on ads and turnout, sources
   say, with a focus on New Hampshire, Arizona, and Nevada.
 image: https://media.wired.com/photos/6aa1ab8746f4d5ae971c75d5/191:100/w_1280,c_limit/nl-inner-loop-iowa-midterms-turning-point.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 A year after the assassination of cofounder Charlie Kirk, Turning Point plans to pour tens of millions of dollars into the midterm elections to help Republican candidates in key congressional and gubernatorial races, according to sources familiar with the matter.

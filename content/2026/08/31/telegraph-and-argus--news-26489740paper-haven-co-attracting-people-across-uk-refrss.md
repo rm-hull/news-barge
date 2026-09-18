@@ -9,6 +9,12 @@ published: '2026-08-31T00:00:00Z'
 description: A BUSINESS owner is encouraging people to put down their phones and pick
   up their craft supplies.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21362909.jpg?type=og-image&xType=0&yType=48
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Julie Sutcliffe)*

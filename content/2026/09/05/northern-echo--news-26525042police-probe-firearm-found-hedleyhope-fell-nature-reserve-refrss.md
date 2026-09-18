@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: A firearm was discovered in the area of Hedleyhope Fell Nature Reserve,
   near Tow Law.
 image: https://www.thenorthernecho.co.uk/resources/images/21414824.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Outdoors & Nature
 ---
 
 *(Image: GOOGLE)*

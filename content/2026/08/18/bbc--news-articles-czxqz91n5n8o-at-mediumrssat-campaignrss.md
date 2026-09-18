@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: OpenAI insisted this was not in response to a particular issue with children
   believing ChatGPT to be alive.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 ![A young woman, whose face cannot be seen, sits cross-legged while holding and using her smartphone. She is wearing blue jeans and a lilac vest top.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg)

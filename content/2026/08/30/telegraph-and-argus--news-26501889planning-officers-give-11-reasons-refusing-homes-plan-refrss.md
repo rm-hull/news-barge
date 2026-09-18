@@ -9,6 +9,10 @@ published: '2026-08-30T00:00:00Z'
 description: A development of homes next to a major route into Baildon have been refused
   – with planning officers giving 11 reasons why they should not go…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21381027.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google)*

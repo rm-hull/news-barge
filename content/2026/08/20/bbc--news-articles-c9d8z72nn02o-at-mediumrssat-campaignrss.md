@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: The US hit a debt milestone this week, but just how worried should we
   be about the world's largest economy?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30c9/live/70745c80-9d4e-11f1-854c-7d636985156c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![US Donald Trump looking serious, giving a thumbs up to the camera. He is wearing a blue suit with a red tie.](https://ichef.bbci.co.uk/ace/standard/819/cpsprodpb/6d65/live/8f44f490-9ce9-11f1-9383-a7cb0a47787a.jpg)

@@ -10,6 +10,10 @@ description: Jurors in the Lindsay Clancy murder case must decide whether the fo
   labor and delivery nurse is criminally responsible for killing her three children
   at her Massachusetts home in 2023
 image: https://static.independent.co.uk/2026/08/29/11/Lindsay_Clancy_Trial_53648.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Jurors in the closely watched Lindsay Clancy trial began deliberating this week — but had not reached a verdict by the end of the day Friday.

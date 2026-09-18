@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: The flight from Edinburgh is typically about 8 hours long — but turned
   into a much longer travel nightmare for some
 image: https://static.independent.co.uk/2026/08/26/20/2026-08-10T125424Z_1920123607_RC2CVMABF5UF_RTRMADP_3_USA-TRUMP-DULLES.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- History
 ---
 
 A passenger aboard a United Airlines flight from Scotland to Chicago says a weather diversion turned the 8-hour flight into a 20-hour travel nightmare, as the airplane bathrooms “filled up,” and travelers were left stranded on the tarmac with nowhere to go.

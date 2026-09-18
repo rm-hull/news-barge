@@ -7,6 +7,9 @@ scraped_at: '2026-09-17T13:23:14Z'
 published: '2026-09-17T00:00:00Z'
 description: This is one of the best Squarespace discounts I’ve seen in years.
 image: https://cdn.mos.cms.futurecdn.net/JeLDziJRmrqzjup5AYdyLQ-1376-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![squarespace template on a macbook](https://cdn.mos.cms.futurecdn.net/JeLDziJRmrqzjup5AYdyLQ.jpg) 

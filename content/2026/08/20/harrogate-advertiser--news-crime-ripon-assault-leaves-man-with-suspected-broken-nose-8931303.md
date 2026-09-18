@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Police are appealing for information about an assault that occurred in
   Ripon.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjk0MDkwNTc0LTRhNmEtNDIyZS1iZDM1LTA4NTZjYzU4YWEwNTo2MzE5MWU3Yi00ZTA0LTQyYjAtYjA4Ni03MDAyNjgxZjA3NTY=.jpg?crop=3:2,smart&trim=&width=555&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
+- News & Politics
 ---
 
 # Ripon assault leaves man with suspected broken nose

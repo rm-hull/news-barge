@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A convenience store will be built in a former church after a boxing gym
   plan “did not generate the anticipated level of community participation.”
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332002.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: T&A)*

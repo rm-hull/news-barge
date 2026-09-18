@@ -9,6 +9,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Austrian champions have a mountain to climb after losing the first
   leg 3-0
 image: https://cdn.mos.cms.futurecdn.net/W5VpvT3xToSYbe4scXCvGH-1920-80.png
+categories:
+- Technology & Software
+- Sports
+- Video Gaming
 ---
 
 ![Camilo Duran of Celtic celebrates scoring his team’s second goal during the UEFA Champions League 2026/27 play-offs first leg match between Celtic and LASK at Celtic Park on August 19, 2026.](https://cdn.mos.cms.futurecdn.net/W5VpvT3xToSYbe4scXCvGH.png) 

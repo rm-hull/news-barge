@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T04:46:05Z'
 published: '2026-09-15T00:00:00Z'
 description: Pop superstar Taylor Swift was back at Arrowhead Stadium on Monday night
 image: https://static.independent.co.uk/2026/09/15/02/Broncos_Chiefs_Football_95128.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Pop superstar Taylor Swift was back at Arrowhead Stadium on Monday night, and sitting alongside Tom Cruise, to watch new husband Travis Kelce and his Kansas City Chiefs open the NFL season against the Denver Broncos.

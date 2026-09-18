@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: Bradfordians travelling to Qatar risk a possible five-year prison sentence
   if they bring banned medication into the country
 image: https://www.thetelegraphandargus.co.uk/resources/images/20613444.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Getty Images)*

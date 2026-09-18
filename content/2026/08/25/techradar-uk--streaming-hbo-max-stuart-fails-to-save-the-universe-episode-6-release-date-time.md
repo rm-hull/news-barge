@@ -9,6 +9,9 @@ published: '2026-08-25T00:00:00Z'
 description: This week's universe is one where everyone only eats plants — yeah, go
   figure. But, when does Stuart Fails to Save the Universe episode 6 hit HBO Max?
 image: https://cdn.mos.cms.futurecdn.net/RWzjP57aJ4CGc6xQDh2ptB-1920-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![Kevin Sussman as Stuart](https://cdn.mos.cms.futurecdn.net/RWzjP57aJ4CGc6xQDh2ptB.jpg) 

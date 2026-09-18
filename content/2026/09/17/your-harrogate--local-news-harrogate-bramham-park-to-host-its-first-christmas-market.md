@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Bramham Park will host its first Christmas market this November, with
   more than 100 artisan traders expected across the two-day event.
 image: https://mmo.aiircdn.com/409/6aabff60bda6d39b9e4.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 ![](https://mmo.aiircdn.com/409/6aabff60bda6d39b9e4.jpg) 

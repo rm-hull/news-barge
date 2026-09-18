@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: He became the only horse ever named Horse of the Year in Italy, France
   and the United States
 image: https://static.independent.co.uk/2026/08/18/19/18/2026-08-18T153743Z_2047391587_RC231NAI2BCU_RTRMADP_3_ITALY-HORSE-VARENNE-OBITUARY.JPG?trim=20,0,21,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Travel
 ---
 
 Varenne, the Italian horse who transcended sport during a record-smashing career as the world's greatest trotter, has died of a heart attack aged 31.

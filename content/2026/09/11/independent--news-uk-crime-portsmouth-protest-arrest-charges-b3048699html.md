@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: The measures will be in place throughout Saturday as two protests are
   planned
 image: https://static.independent.co.uk/2026/09/10/17/369d8d519bdbb038a37c7b7082fce369Y29udGVudHNlYXJjaGFwaSwxNzg5MTQyOTg0-2.85766975.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Protesters wearing face coverings in Portsmouth this weekend could be arrested, it has been announced.

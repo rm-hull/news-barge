@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A charity Singo Bingo night in Harrogate has raised more than £2,650
   for Dementia Forward.
 image: https://mmo.aiircdn.com/409/6aa011d0401bdceba15.jpg
+categories:
+- Local
+- Harrogate
+- Personal Finance & Investing
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa011d0401bdceba15.jpg) 

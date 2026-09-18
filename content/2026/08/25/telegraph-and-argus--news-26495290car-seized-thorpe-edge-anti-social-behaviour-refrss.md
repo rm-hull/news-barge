@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T20:40:29Z'
 published: '2026-08-25T00:00:00Z'
 description: A car has been seized by police in connection with anti-social behaviour.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20789784.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Pixabay)*

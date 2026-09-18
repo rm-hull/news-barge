@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: Footfall in Ripon city centre has increased following a summer of major
   events and family activities.
 image: https://mmo.aiircdn.com/409/6a915cb39bef2a33a66.jpg
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![](https://mmo.aiircdn.com/409/6a915cb39bef2a33a66.jpg) 

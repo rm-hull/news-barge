@@ -8,6 +8,10 @@ published: '2026-08-28T00:00:00Z'
 description: BBC Verify has located several videos from disaster-struck areas of the
   Trishuli river after deadly floods swept through.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c457/live/ed17c6a0-a2fd-11f1-a291-b542ee92de7c.png
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 # Videos show people survive floodwaters on balcony in Nepal

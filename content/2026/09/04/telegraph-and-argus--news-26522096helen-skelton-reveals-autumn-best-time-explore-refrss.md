@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Helen Skelton reveals her favourite autumn activities as South Western
   Railway launches £3 tickets for UK day trips and staycations.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21408173.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: South Western Railway)*

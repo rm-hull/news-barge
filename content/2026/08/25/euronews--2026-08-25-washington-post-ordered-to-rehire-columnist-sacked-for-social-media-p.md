@@ -9,6 +9,10 @@ description: Karen Attiah wrote on social media after the right-wing influencer'
   assassination that she would not display sadness and shared the activist's past
   racist comments about Black women.
 image: https://images.euronews.com/articles/stories/09/88/73/79/1200x675_cmsv2_02dcc083-644d-506c-a168-df1b5a67fd3c-9887379.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## Karen Attiah wrote on social media after the right-wing influencer's assassination that she would not display sadness and shared the activist's past racist comments about Black women.

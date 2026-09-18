@@ -7,6 +7,11 @@ scraped_at: '2026-09-16T19:31:39Z'
 published: '2026-09-16T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/a171-helwath-beck-whitby-scarborough-gsv.webp
+categories:
+- Local
+- York
+- Travel
+- Automotive
 ---
 
 A man has died in a crash on a road near the North Yorkshire coast.

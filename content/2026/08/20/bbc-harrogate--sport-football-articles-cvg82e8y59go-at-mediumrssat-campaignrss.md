@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Harrogate Town sign Middlesbrough midfielder Brayden Johnson on a season-long
   loan deal.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d97c/live/d734a530-7632-11f1-b976-0b9c15b0ccfc.png
+categories:
+- Local
+- Harrogate
+- Sports
+- Business & Entrepreneurship
 ---
 
 **Harrogate Town have signed Middlesbrough midfielder Brayden Johnson on a season-long loan deal.**

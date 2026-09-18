@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Queen spoke on the emotional strain of keeping Charles’ diagnosis
   a secret and admitted to ‘longing to let it out’
 image: https://static.independent.co.uk/2026/08/19/07/01M0CA6Y3K453KPSHQKWRNH3QH.jpg?trim=373,893,793,860&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 The Queen has reflected publicly for the first time on the emotional strain of keeping the King’s cancer diagnosis private prior to the official announcement.

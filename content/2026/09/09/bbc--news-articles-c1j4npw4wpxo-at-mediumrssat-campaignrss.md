@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Sanctions on West Bank settlements, airport chaos and Prince George dominate
   Wednesday's front pages.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac57/live/fcaacc50-abdd-11f1-aed2-8d6da8d75094.png
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 !["Israel reacts with fury to UK curbs on settlements" reads the headline on the front of the Times.](https://ichef.bbci.co.uk/ace/standard/809/cpsprodpb/0b0e/live/bec15c90-abcb-11f1-b109-879e35c24276.jpg)

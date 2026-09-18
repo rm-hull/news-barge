@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: Parents are set to join protests taking place across the UK, including
   at Downing Street
 image: https://static.independent.co.uk/2026/08/26/15/59/iStock-2234892901.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Parents across the UK will protesting on Thursday to call for improved assistance for mothers and fathers managing employment alongside family life.

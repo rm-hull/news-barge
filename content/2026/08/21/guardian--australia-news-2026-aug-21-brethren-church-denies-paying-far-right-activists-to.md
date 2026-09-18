@@ -9,6 +9,9 @@ published: '2026-08-21T00:00:00Z'
 description: Church director tells parliamentary inquiry reporting by Nine newspapers
   a ‘complete lie’
 image: https://i.guim.co.uk/img/media/2dd37b766b85298d9ecffcdaeb0e4da116a670f6/438_0_6320_5056/master/6320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c94744ca588aefe1d1af336387abacc
+categories:
+- UK
+- News & Politics
 ---
 
 The Plymouth Brethren Christian Church has denied it secretly paid far-right influencers to stage stunts targeting Anthony Albanese and other politicians during an appearance at a parliamentary inquiry into the 2025 election.

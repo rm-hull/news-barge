@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The Ali G and Borat creator is reported to be taking the lead in The
   Popinjay Cavalier, a swashbuckling comedy Tarantino is developing for early 2027
 image: https://i.guim.co.uk/img/media/fb8de7af7cc6ca8e6ece5a892dbc06e5a63f0d27/772_161_4659_3727/master/4659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=984486c20346e95ae6faf1dba31cb519
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 He will soon be seen resuming his old Staines rudeboy persona in the film 

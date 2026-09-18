@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: A full suite to help you disconnect from Google, for its lowest price
   this year
 image: https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5-1193-80.png
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Proton VPN new mobile app interface – promo image](https://cdn.mos.cms.futurecdn.net/wYZjT2CMEhMRLCQ3hrDRp5.png) 

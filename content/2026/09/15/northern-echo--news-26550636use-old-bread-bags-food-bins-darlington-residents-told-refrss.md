@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Darlington Borough Council has told residents they can use old bread
   bags and other plastic bags when the free liners supplied with new food waste…
 image: https://www.thenorthernecho.co.uk/resources/images/20991332.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Chris BOOTH)*

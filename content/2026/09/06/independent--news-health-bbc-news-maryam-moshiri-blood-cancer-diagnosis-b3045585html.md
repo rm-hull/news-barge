@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Maryam Moshiri has been juggling her job as a BBC News presenter with
   having treatment for blood cancer for the past two years
 image: https://static.independent.co.uk/2024/07/26/15/Sabrina-Carpenter-%281%29.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 BBC News presenter Maryam Moshiri has revealed that she has been undergoing treatment for an incurable blood cancer for the past two years.

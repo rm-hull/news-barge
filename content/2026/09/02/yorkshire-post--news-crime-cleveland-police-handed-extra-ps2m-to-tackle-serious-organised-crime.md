@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Police have now arrested at least 27 people since the horror smash on
   August 22, while four of the five young men who died had extensive criminal histories.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQ1N2I5OWQ3LTJlM2UtNGNmOC05NTBiLTMwNDI0ZjAxYWViYzoyNzg0M2E5MS04NDgwLTRhMDMtYTYzMC03ZGUzYjUyN2NmM2Y=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
+- News & Politics
 ---
 
 # Cleveland Police handed additional £2m to tackle organised crime after A66 crash

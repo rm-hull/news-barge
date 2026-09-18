@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Michael Diehl allegedly forged magistrates’ signatures in North Carolina
   to allow enough time for ICE to take custody of prisoners
 image: https://i.guim.co.uk/img/media/30174bf1dcc67dde1990eb801756c23d853e24a7/171_0_1706_1365/master/1706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3d6ad16afd2fd2f6669672ac5000ab0
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A former Guilford county detention officer in North Carolina faces forgery charges in connection to 20 alleged forged Immigration and Customs Enforcement (ICE) detainment documents, according to a Guilford county sheriff’s office (GCSO) news release.

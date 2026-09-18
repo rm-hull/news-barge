@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The No.1 Binman on TikTok has shared his method of keeping flies away
   from your food waste bin and it's so simple.
 image: https://www.gazetteherald.co.uk/resources/images/21284642.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 *(Image: Getty)*

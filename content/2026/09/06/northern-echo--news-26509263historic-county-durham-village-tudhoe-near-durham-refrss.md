@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Tudhoe near Spennymoor has been praised for its historic character, village
   green and rural setting just a short distance from Durham City.
 image: https://www.thenorthernecho.co.uk/resources/images/21392653.jpg?type=og-image&xType=0&yType=487
+categories:
+- Local
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 *(Image: SARAH CALDECOTT)*

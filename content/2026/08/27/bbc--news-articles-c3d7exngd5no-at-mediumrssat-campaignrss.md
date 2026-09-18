@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: The official look at the blockbuster video game leaves fans and critics
   impressed.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/956b/live/a59bfb30-a25c-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 ![Screenshot from GTA 6 shows Lucia resting her elbows on the corner of a swimming pool next to what appears to be a rooftop hotel bar. A cocktail glass is on her right and a mobile phone on top of a folded towel is on her left.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/956b/live/a59bfb30-a25c-11f1-a291-b542ee92de7c.jpg)

@@ -9,6 +9,11 @@ description: 'The Tiber is at a historic low, and near Castel Sant’Angelo, the
   of what was once a Neronian bridge, dating from the early centuries AD, have re-emerged.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/89/68/1200x675_cmsv2_aa7b6929-5229-53af-a7db-72d57941f72f-9878968.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Arts & Culture
 ---
 
 ## The Tiber is at a historic low, and near Castel Sant’Angelo, the pillars of what was once a Neronian bridge, dating from the early centuries AD, have re-emerged.

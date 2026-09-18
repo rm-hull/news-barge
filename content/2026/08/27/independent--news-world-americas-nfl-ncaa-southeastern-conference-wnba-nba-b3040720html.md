@@ -9,6 +9,10 @@ published: '2026-08-27T00:00:00Z'
 description: The Atlantic Coast Conference has joined its power conference peers in
   banning players who were on NFL rosters from returning to college football
 image: https://static.independent.co.uk/2026/08/03/02/NCAA_Eligibility_Ruling_Football_2_763.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 It took three days for the nation's four powerful athletic conferences to dig in on banning players who were on NFL rosters from returning to college football. The hope is it offers order amid the chaos growing through legal challenges and the pursuit of loopholes to NCAA eligibility rules.

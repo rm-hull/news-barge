@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: The latest earthquake comes weeks after Venezuela and Colombia were both
   hit by destructive quakes
 image: https://static.independent.co.uk/2025/04/14/17/53/iStock-923504666.jpeg?trim=0,142,0,142&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A magnitude 6.7 earthquake struck Peru's southern Andes Mountains on Thursday afternoon.

@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Enlli Thompson's symptoms were dismissed until a scan revealed a cyst
   in her pelvis.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c41/live/9f72a410-9006-11f1-9dfb-fd4408d16f2f.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 ![Enlli Thompson posing for a selfie in a mirror. She is pouting and looking at the camera, with her phone in her right hand. She has a shaven head and is wearing a black dress with a white floral pattern.](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/4c41/live/9f72a410-9006-11f1-9dfb-fd4408d16f2f.jpg)

@@ -9,6 +9,11 @@ published: '2026-08-22T00:00:00Z'
 description: The owner of an underground complex in Bradford city centre has said
   what will happen to a pub that suddenly shut.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18101528.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: Newsquest)*

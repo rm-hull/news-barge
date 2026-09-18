@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A North East teenager is celebrating an outstanding set of GCSE results
   after balancing his studies with fundraising, volunteering and supporting…
 image: https://www.thenorthernecho.co.uk/resources/images/21346902.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: Kirvan Crest Photography)*

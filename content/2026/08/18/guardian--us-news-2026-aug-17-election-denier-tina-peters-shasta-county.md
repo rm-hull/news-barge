@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Shasta county, center of US election denialism movement, set to appoint
   ex-Colorado clerk who served prison term
 image: https://i.guim.co.uk/img/media/2cb384efb5469c5878495a5bba5abb07d69cb586/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=947c394a26afb8aa2aa7036ab3f82afb
+categories:
+- UK
+- News & Politics
 ---
 
 A northern California county that has become a hotbed of activism for those who sow doubts about the reliability of voting machines plans to hire Tina Peters, the prominent Colorado election denier recently released from prison, to work on elections.

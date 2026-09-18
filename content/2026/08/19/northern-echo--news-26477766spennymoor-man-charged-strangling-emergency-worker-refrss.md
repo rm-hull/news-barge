@@ -9,6 +9,11 @@ published: '2026-08-19T00:00:00Z'
 description: A man who was charged with strangling and assaulting an emergency worker
   has pled not guilty following an alleged attack in County Durham last…
 image: https://www.thenorthernecho.co.uk/resources/images/21341190.jpg?type=og-image&xType=0&yType=83
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: THE NORTHERN ECHO)*

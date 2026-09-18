@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Fire crews who attended the scene of a fatal house blaze have confirmed
   six people were inside the property at the time, with one person remaining…
 image: https://www.thenorthernecho.co.uk/resources/images/21374243.jpg?type=og-image&xType=0&yType=190
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Fire crews who attended the scene of a fatal house blaze have confirmed six people were inside the property at the time, with one person remaining in a critical condition.

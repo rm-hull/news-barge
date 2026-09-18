@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: Wolsingham Show has thrown open its gates for a packed weekend celebrating
   farming, countryside life and family entertainment.
 image: https://www.thenorthernecho.co.uk/resources/images/21415296.jpg?type=og-image&xType=0&yType=80
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Here are some great pictures as crowds flocked to a traditional County Durham farming show this weekend.

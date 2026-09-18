@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: GCSE results day coverage of the stories as they come in from the schools
   across York, North and East Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/21349348.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 - GCSE results day coverage of the stories as they come in from the schools across York, North and East Yorkshire.

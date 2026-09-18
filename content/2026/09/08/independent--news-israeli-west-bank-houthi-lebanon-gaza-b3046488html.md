@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Houthi attacks on Saudi Arabia have ignited fires at several oil facilities
   and wounded dozens of people
 image: https://static.independent.co.uk/2026/09/08/11/Yemen_War_71812.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Houthi attacks on Saudi Arabia have ignited fires at several oil facilities and wounded dozens of people, raising the stakes in renewed fighting between a U.S. ally and an Iranian proxy just days after deadly clashes in Iran, Lebanon and Gaza.

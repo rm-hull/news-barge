@@ -11,6 +11,13 @@ description: We tend to make assumptions about what life will look like in futur
   there’s a growing number of people in mid-life who have seen their lives derailed
   entirely.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmIwODliMTgzLWFiOTktNGZhMy1hMGM0LTVmOTZlNzcwYjJlNDpmOWE1ZjM1My0wNzM4LTRiNTgtYmE4NC0wZmQ5NTA0MGE3ZTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
+- Careers & Productivity
+- Self-Improvement
 ---
 
 # How to mitigate mid-life career bumps: Sarah Coles

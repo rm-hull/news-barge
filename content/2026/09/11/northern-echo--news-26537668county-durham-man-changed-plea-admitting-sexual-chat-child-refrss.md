@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: A man was warned he could be jailed after changing his plea and admitting
   sexually chatting online with someone he believed was 14.
 image: https://www.thenorthernecho.co.uk/resources/images/21090404.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

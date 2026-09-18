@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: A small plane carrying four family members flying back home to Florida
   went missing off the Bahamas on Monday
 image: https://static.independent.co.uk/2026/09/08/08/2253579033..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A search operation is underway after a small plane carrying four family members returning home to Florida went missing off the coast of the Bahamas on Monday, according to reports from the U.S. Coast Guard and authorities in the Bahamas.

@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: Britain's oldest funicular cliff lift “can’t be allowed to go the same
   way as Whitby”, campaigners say, following its sudden closure.
 image: https://www.yorkshirepost.co.uk/img/placeholder.jpg?width=1200&height=630&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Britain's oldest funicular cliff lift 'can’t be allowed to go the same way as Whitby'

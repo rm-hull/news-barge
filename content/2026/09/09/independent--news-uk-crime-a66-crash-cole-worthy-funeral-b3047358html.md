@@ -7,6 +7,10 @@ scraped_at: '2026-09-09T19:14:56Z'
 published: '2026-09-09T00:00:00Z'
 description: Police officers were in the area to provide reassurance
 image: https://static.independent.co.uk/2026/08/23/14/00/Theo-Rae-Cole-Worthy-1dc3b66b.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 39-year-old man has been arrested at the funeral held for one of the five young men who were killed in a head-on collision with police on the A66, which also killed two armed officers.

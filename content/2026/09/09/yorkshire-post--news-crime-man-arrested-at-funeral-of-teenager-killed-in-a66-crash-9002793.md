@@ -9,6 +9,11 @@ description: A 39-year-old has been arrested at the funeral for one of the five 
   men who were killed in a head-on collision with police on the A66, which also killed
   two armed officers.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/03/10/cs-e5703ba5-c25f-43a1-8465-38d29f49fe53.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man arrested at funeral of teenager killed in A66 crash

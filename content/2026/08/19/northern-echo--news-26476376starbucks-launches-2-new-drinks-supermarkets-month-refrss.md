@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Starbucks is adding two new drinks to its supermarket on-the-go range
   and they're two matcha flavours.
 image: https://www.thenorthernecho.co.uk/resources/images/21336332.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Starbucks is launching two new chilled drinks across UK supermarkets throughout August.

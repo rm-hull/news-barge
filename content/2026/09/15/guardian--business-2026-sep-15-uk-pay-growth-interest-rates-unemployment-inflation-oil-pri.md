@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Workers face inflation squeeze fuelled by Iran war, as Bank of England
   prepares for interest rates decision
 image: https://i.guim.co.uk/img/media/95e2b6d3abde36b689a77b82610886b4b9f61e15/1047_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccfb8e997872343d75341769b8fbe709
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Wage growth in the UK has slowed as workers come under pressure from a renewed cost of living squeeze fuelled by the Iran war, highlighting the challenge for the Bank of England as it prepares to set interest rates.

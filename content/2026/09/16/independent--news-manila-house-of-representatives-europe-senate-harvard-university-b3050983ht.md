@@ -10,6 +10,9 @@ description: A Philippine lawmaker and former speaker of the House of Representa
   is denying allegations he pocketed millions of dollars in kickbacks from flood control
   projects
 image: https://static.independent.co.uk/2026/09/16/08/Philippines_Corruption_7_872.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A Philippine lawmaker and former speaker of the House of Representatives pleaded not guilty Wednesday to charges alleging he pocketed millions of dollars in kickbacks from flood control projects, his lawyer said.

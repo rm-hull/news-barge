@@ -11,6 +11,10 @@ description: Rapper Tupac Shakur has been dead for nearly 30 years, but fans say
   “Keffe D” Davis, who is accused of orchestrating the shooting of the rapper in Las
   Vegas
 image: https://static.independent.co.uk/2026/08/29/05/Tupac_Trial_Fans_2883_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Shardae Williams woke up recently to someone blasting Tupac Shakur's “Shed So Many Tears," as they drove by her home. Lately at work or while running errands, she has seen people wearing Shakur shirts. The late rapper's presence is everywhere since the Las Vegas trial began, she says, calling it a hopeful sign that answers are coming in the death of her favorite artist.

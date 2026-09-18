@@ -9,6 +9,10 @@ description: Crowds have been flocking to the British Museum to see the Bayeux T
   as it's on public display in the UK for the first time since it was created nearly
   1,000 years ago.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d74/live/b1199af0-ad45-11f1-b1d1-571ed4d7ff2c.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # Watch: Is the Bayeux Tapestry exhibition worth the hype?

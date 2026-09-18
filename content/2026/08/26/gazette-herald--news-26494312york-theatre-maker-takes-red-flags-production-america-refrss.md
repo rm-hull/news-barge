@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Lise Kaye-Bell, founder of Soundproofbox CIC and creator of Red Flags,
   has taken her show to venues across America.
 image: https://www.gazetteherald.co.uk/resources/images/18676590.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A theatre-maker from York is taking her interactive stage production to audiences in the US.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Sweden was once known for welcoming migrants – but attitudes have changed
   over the past decade
 image: https://static.independent.co.uk/2026/09/08/17/2026-09-08T141619Z_865899090_RC2IENAK406W_RTRMADP_3_SWEDEN-ELECTION-IMMIGRATION.JPG?trim=0,41,0,41&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Sweden was once known for welcoming migrants.

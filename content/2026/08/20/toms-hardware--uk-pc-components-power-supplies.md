@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: PSU reviews, news, and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/ohndDcC7jHmAUvfFf39TEV-320-80.png
+categories:
+- Technology & Software
+- Hardware
 ---
 
 Tom's Hardware is an industry leader in power supply (PSU) testing, reviews, and analysis. Here you can find all the details about the latest and greatest power supplies, including news and reviews. You can also head to our best power supplies page for in-depth buying recommendations.

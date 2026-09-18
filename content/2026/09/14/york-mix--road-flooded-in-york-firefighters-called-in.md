@@ -7,6 +7,10 @@ scraped_at: '2026-09-14T15:00:40Z'
 published: '2026-09-14T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2023/12/burst-water-main-penleys-grove-street-york-2-dec-2023-2.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Fire crews were called in after a road flooded in York this morning (Monday).

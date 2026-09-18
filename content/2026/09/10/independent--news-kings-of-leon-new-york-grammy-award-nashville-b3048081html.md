@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Kings of Leon are returning with a new album, “O My Beloved,” which marks
   a sonic shift for the band
 image: https://static.independent.co.uk/2026/09/10/16/Music_-_Kings_of_Leon_59113.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Music
 ---
 
 Kings of Leon return this fall with a new album that's a bit of a left turn, sonic-wise. And for that, you can thank a game of tag that went, well, sideways.

@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Rossitsa Petkova was found guilty of misconduct and has been banned from
   the profession
 image: https://static.independent.co.uk/2026/09/02/00/01202725-4a65ad90-6d92-4fd5-8d06-05a426da8225.jpg?trim=51,0,51,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A care home nurse has been removed from the professional register after claiming a resident with dementia did not require a birthday cake because they would fail to remember the occasion.

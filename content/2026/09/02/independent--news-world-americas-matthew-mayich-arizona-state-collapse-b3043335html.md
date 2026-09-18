@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: An Arizona State hockey player and St. Louis Blues draft pick is still
   hospitalized nearly two weeks after collapsing during an offseason workout
 image: https://static.independent.co.uk/2026/09/02/10/1504492262..?trim=98,0,2390,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Health & Fitness
 ---
 
 An Arizona State hockey player and St. Louis Blues draft pick remains hospitalized nearly two weeks after collapsing during an offseason workout, while an attorney representing his family searches for answers.

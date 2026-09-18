@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: The AI-powered cameras have been vandalised across the US, as citizens
   object to the growing surveillance network.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4d7/live/a14c8c30-a8c8-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 Watch: Activist explains app that maps Flock camera locations

@@ -9,6 +9,10 @@ published: '2026-09-16T00:00:00Z'
 description: A prominent animal rights group says it plans to meet with a top fashion
   trade executive who was filmed restraining two protesters at a New York runway show
 image: https://static.independent.co.uk/2026/09/16/02/Fashion_Animal_Rights_922_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 A prominent animal rights group is planning to meet with a top fashion executive who was filmed physically restraining two protesters during an altercation at a New York runway show, an incident that stunned many in the fashion world.

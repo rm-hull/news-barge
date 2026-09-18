@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The burial site of the ancient pre-Incan Chimu culture was found largely
   intact.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f12/live/2d9d6820-abef-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Travel
 ---
 
 # Watch: Archeologists discover ancient tomb in Peru

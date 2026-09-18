@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: The federal government has accepted donations voluntarily made by Americans
   since its founding
 image: https://static.independent.co.uk/2026/08/24/13/52/GettyImages-2242245651.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The fate of President Donald Trump’s estimated US$400 million White House ballroom may hinge on the little-known and somewhat surprising rules as to when the federal government and its agencies can accept privately donated funds.

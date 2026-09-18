@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: Two Yorkshire chefs have made it through the national final of the prestigious
   Chef of the Year competition. Laura Reid speaks to them about their journeys.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjJiOTEzMjQyLTE5OWUtNDMxYS05YjJkLWU3YzYxZDkyNDNlYjo3YmIzMjg5Zi1mZDZiLTQ3NmItYjEyNy00ZTRkMTVlYWExNGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 # 'I enjoy the role restaurants play in people's lives': Tom Heywood of Pignut & The Hare and Daniel Conlon of Rafters reach final of Chef of the Year competition

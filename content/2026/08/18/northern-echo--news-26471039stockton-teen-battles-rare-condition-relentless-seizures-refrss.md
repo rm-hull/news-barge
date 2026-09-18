@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Neive Williams, who suffers from Rasmussen’s encephalitis, had half her
   brain disconnected in a life-changing surgery.
 image: https://www.thenorthernecho.co.uk/resources/images/21330491.jpg?type=og-image&xType=0&yType=58
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 A Teesside teenager suffers from a rare brain condition that causes up to 10 seizures a day and has taken away her ability to walk.

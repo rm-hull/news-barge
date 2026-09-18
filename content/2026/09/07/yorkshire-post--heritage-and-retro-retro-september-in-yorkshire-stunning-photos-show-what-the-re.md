@@ -9,6 +9,12 @@ published: '2026-09-07T00:00:00Z'
 description: As we enter into the autumn season we have taken a nostalgic trip down
   memory lane to Yorkshire in September more than 70 years ago.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmZhMDMwNTRiLTllYjAtNDhhMy05NzI5LTRlYzA3ZjI0M2Q5ODphY2IxZDI0NC03ZDkxLTQ2OWQtODA2ZC00NDA1NDU2YjI0YTY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Arts & Culture
 ---
 
 It’s good every now and then to reflect on what has changed over the decades and what has remained the same.

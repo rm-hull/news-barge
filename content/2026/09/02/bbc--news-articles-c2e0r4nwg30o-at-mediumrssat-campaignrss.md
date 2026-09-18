@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: The civil aviation authority says it is also investigating last Saturday's
   aerial display.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b439/live/dda60120-a6ed-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
+- Sports
 ---
 
 Watch: Moment two planes fly less than 50 feet above stadium

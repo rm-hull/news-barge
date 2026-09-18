@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: YORKSHIRE has been crowned home to Britain’s best beer gardens, a survey
   has confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369066.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: Google Street View)*

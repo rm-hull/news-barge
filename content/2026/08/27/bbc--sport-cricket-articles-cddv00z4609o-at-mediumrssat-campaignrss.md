@@ -9,6 +9,10 @@ description: Jamie Smith and Jordan Cox battle difficult conditions and an impro
   Pakistan performance to take England to a competitive total on the opening day of
   the second Test.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/214f/live/98d21130-a23b-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Highlights: England show fight after poor start against Pakistan on day one

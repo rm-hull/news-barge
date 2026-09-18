@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: One of Richard Scatchard's victims says his killing of Kelly Faiers in
   2023 could have been avoided.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbaf/live/3722d930-a865-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![A woman with short reddish hair with a neutral expression faces the camera while sitting a room with black and brown wallpaper.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/bbaf/live/3722d930-a865-11f1-a291-b542ee92de7c.jpg)

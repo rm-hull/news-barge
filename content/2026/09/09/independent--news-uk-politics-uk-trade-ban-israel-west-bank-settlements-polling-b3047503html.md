@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Survey finds more than half of British public back ban on imports from
   Israeli settlements
 image: https://static.independent.co.uk/2026/09/09/18/2293792065..?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A majority of the British public backs the government’s decision to ban imports from Israeli settlements in the West Bank, a new poll has found.

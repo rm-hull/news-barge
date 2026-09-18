@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: The DL1 complex at Feethams Darlington, has been evacuated due to a fire
   in the car park. We will bring you updates as we get them.
 image: https://www.thenorthernecho.co.uk/resources/images/21444010.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 - Welcome to The Northern Echo’s live breaking blog on the a fire at the DL1 complex in Darlington.

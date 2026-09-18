@@ -8,6 +8,12 @@ published: '2026-09-12T00:00:00Z'
 description: Sunderland man Jordan Lee Heron was fined £545 after failing to clean
   up dog mess near Corporation Road allotments, following a council prosecution…
 image: https://www.thenorthernecho.co.uk/resources/images/21441155.jpg?type=og-image&xType=0&yType=97
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Sunderland City Council)*

@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Jefferson county coroner says 40-year-old woman died on Saturday, while
   two infants died with disease in August
 image: https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/750_0_5736_4589/master/5736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75675ec9a8451e46dce8e45548041275
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak.

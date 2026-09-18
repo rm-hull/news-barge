@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: The chicks were born earlier this summer, and conservationists hope they'll
   return to Wales after migrating to west Africa
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/130c/live/ef41fea0-a055-11f1-94bd-930e18756ae0.jpg
+categories:
+- UK
+- News & Politics
+- History
+- Society & Culture
 ---
 
 ![An Osprey stood on grass stares down the camera lens. It's stood on long-ish green grass. The Osprey is a mix of shades of brown. It's a sunny day.](https://ichef.bbci.co.uk/ace/standard/533/cpsprodpb/130c/live/ef41fea0-a055-11f1-94bd-930e18756ae0.jpg)

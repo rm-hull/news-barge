@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T12:41:42Z'
 published: '2026-09-04T00:00:00Z'
 description: ‘Not all insulting comments are of equal gravity,’ tribunal finds
 image: https://static.independent.co.uk/2026/03/09/17/02/iStock-1388062547.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Comparing offensive remarks regarding a person's weight or age to insults about someone's skin colour is itself racist, a tribunal judge has ruled.

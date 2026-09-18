@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: The prime minister has asked the justice secretary to come up with a
   ‘solution’ to prevent their release
 image: https://static.independent.co.uk/2026/08/18/09/04ee84105736c0e926d7ded0d0cd9010Y29udGVudHNlYXJjaGFwaSwxNzg3MTI4NDQ2-2.56870059.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The government are reportedly considering plans to bar all those who committed a type of manslaughter from being freed from jail in a bid to block PC Andrew Harper’s killers from release.

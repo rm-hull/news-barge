@@ -8,6 +8,10 @@ published: '2026-08-29T00:00:00Z'
 description: Train hit a van as a crossing in Burscough, Lancashire, on Saturday afternoon,
   killing the man inside
 image: https://static.independent.co.uk/2024/10/22/07/7c3c2fbbff156c67b54a7dfc63866efdY29udGVudHNlYXJjaGFwaSwxNzI5NjYzMDI2-2.77148886.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A man has been killed after a train crashed into a van in West Lancashire, police confirmed.

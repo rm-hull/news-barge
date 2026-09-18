@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A map has been launched showing the cidermakers of North Yorkshire and
   how to get to them by bike.
 image: https://www.gazetteherald.co.uk/resources/images/21471844.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A map has been launched showing the cidermakers of North Yorkshire and how to get to them by bike.

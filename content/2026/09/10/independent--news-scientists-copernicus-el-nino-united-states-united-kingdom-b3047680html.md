@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: The European climate service Copernicus said the Earth just sweltered
   through its hottest month on record in August
 image: https://static.independent.co.uk/2026/09/10/03/Climate_Record_Hot_Month_56662.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Earth cooked to its hottest month on record in August, blowing far past a key climate threshold, due to the dangerous double whammy of human-caused climate change and a supersized El Nino, according to the European climate service Copernicus.

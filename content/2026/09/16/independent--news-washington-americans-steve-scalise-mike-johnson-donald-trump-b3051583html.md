@@ -8,6 +8,12 @@ published: '2026-09-16T00:00:00Z'
 description: The House has approved a bill that aims to have artificial intelligence
   data centers pay for their substantial energy needs
 image: https://static.independent.co.uk/2026/09/16/10/Data_Centers_4_985.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 The House overwhelmingly approved a bill Wednesday that aims to have artificial intelligence data centers pay for their substantial energy needs as lawmakers used what was expected to be their final day in Washington before the midterm elections to address a growing voter concern.

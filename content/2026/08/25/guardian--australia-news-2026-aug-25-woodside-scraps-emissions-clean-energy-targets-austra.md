@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Australia’s biggest oil and gas company recorded a 27% increase in sales
   profit to $1.67bn in the six-month reporting period
 image: https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4275c9cf2561b463d99daff45221204
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Woodside Energy has scrapped its long-term emissions and clean energy targets, even after enjoying a period of windfall oil profits caused by the Iran conflict.

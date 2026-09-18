@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: A Chinese court has sentenced artist Gao Zhen to three years in prison
   for "infringing upon the reputation of heroes" through his satirical art
 image: https://static.independent.co.uk/2026/08/26/02/China_Artist_Mao_76269.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Chinese artist Gao Zhen was sentenced to three years in prison Tuesday for “infringing upon the reputation of heroes” through his satirical works of art, including statues of China's former leader Mao Zedong.

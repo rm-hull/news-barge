@@ -9,6 +9,11 @@ description: How many wine grapes can you name? If you have read this column for
   length of time you are probably well-acquainted with many of the varieties regularly
   used to make wine.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAwZGY0NjUwLTVhOGYtNDhmMy04N2M3LTMxNmEyOTdlN2M2ODo1ODA2NDVjNy04YjY5LTQ3NDAtYmQxZi1jYjRjNDhkOTBkODc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Piwi: Christine Austin looks at the grape worth sampling

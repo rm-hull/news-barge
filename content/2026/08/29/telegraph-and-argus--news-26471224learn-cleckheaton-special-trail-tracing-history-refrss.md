@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: SPEN Valley covers an area in the centre of the West Yorkshire conurbation
   jokingly called Cleckheckmondsedge because of the quirky names of its…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21330785.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
+- Travel
 ---
 
 SPEN Valley covers an area in the centre of the West Yorkshire conurbation jokingly called Cleckheckmondsedge because of the quirky names of its villages and small towns.

@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Listen Labs walked away from a signed Series C term sheet from Menlo
   Ventures, sources say.
 image: https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Listen Labs, a market research startup that uses voice AI to conduct customer interviews, recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation, with Menlo Ventures set to lead the round, according to several people with knowledge of the matter.

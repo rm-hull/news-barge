@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: The broadcaster and campaigner says she missed her chance to go before
   living with cancer became "unbearable".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/205b/live/e8ff1fc0-ad32-11f1-9bc8-3509bd1a4ead.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 ![Esther Rantzen, pictured in 2022, wears a blue fascinator, blue blazer, yellow scarf and her CBE.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/205b/live/e8ff1fc0-ad32-11f1-9bc8-3509bd1a4ead.jpg)

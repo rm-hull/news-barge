@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: A civil war erupted within the party after Tim Montgomerie was suspended
   last month
 image: https://static.independent.co.uk/2026/08/19/10/10/PA-77337190.jpg?trim=44,0,45,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A former key ally of Nigel Farage and high-profile figure within Reform UK has quit the party following a public row in the wake of his suspension.

@@ -9,6 +9,10 @@ published: '2026-09-08T00:00:00Z'
 description: Flair told The Independent that he ‘wants to bury’ the people at FAM
   Networks, and that he has already lost out on a six-figure payday
 image: https://static.independent.co.uk/2026/09/08/15/27/GettyImages-93353438.jpeg?trim=94,0,94,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Legendary pro wrestler Ric “Nature Boy” Flair is suing a digital talent agency he claims duped him into signing away the rights to his own image and likeness while promising him a six-figure monthly revenue stream that allegedly never materialized.

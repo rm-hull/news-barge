@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: The United States has deported dozens of people to the Central African
   Republic, including an Afghan whose brothers collaborated with the U.S. military
 image: https://static.independent.co.uk/2026/08/30/00/Central_African_Republic_Deportation_59454.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 The United States on Saturday deported dozens of people to the Central African Republic, including an Afghan whose brothers collaborated with the U.S. military, his lawyer and an advocacy group said.

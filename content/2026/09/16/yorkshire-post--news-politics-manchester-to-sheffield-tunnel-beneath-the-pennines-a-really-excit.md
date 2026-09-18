@@ -10,6 +10,11 @@ description: Proposals for a tunnel underneath the Peak District connecting Grea
   Manchester and South Yorkshire ‘presents a really exciting opportunity’, Mayor Oliver
   Coppard has said.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjI1ZTQ2OTIzLTNkNWQtNDIyOS1hNWU0LTRmYWRhNTY5YjNlODowNTI0MDhhNC05MThiLTQ5NjEtYWJiMC0wMWNiYjE4Y2Q4NjM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Manchester to Sheffield tunnel beneath the Pennines a ‘really exciting opportunity’, says Mayor

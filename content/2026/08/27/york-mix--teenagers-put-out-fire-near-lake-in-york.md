@@ -7,6 +7,10 @@ scraped_at: '2026-08-27T12:00:54Z'
 published: '2026-08-27T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/rawcliffe-lake-from-greystroke-road-york-gsv.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Firefighters were called to an incident close to a York lake last night (Wednesday).

@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Potentially life-saving health checks are being offered for free to communities
   across North Yorkshire after tens of thousands of people in the county are
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Alison-Marshall-1.webp
+categories:
+- Local
+- Harrogate
+- Society & Culture
+- Health & Fitness
 ---
 
 **Potentially life-saving health checks** are being offered for free to communities across**North Yorkshire** after tens of thousands of people in the county are estimated to be undiagnosed with high blood pressure.

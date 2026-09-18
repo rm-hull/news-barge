@@ -8,6 +8,8 @@ published: '2026-08-20T00:00:00Z'
 description: Founded in 2022, Castelion set out to manufacture hypersonic weapon systems
   at a lower cost and at faster speeds than traditional defense primes.
 image: https://techcrunch.com/wp-content/uploads/2023/10/image004.png?resize=1200,835
+categories:
+- Technology & Software
 ---
 
 Castelion, a missile startup founded by former SpaceX executives, has raised a $1 billion Series C at a $13 billion valuation. The round was co-led by Andreessen Horowitz, Carlyle, and JPMorgan Chase.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: More than 400 travellers are said to be missing after flood on Tibet
   border, including 33 Britons
 image: https://i.guim.co.uk/img/media/00887a7336bc2056f36ffda0c0c0d885d1ef286c/482_0_3062_2450/master/3062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c39bc108c72b5f42484ff76a09fc4558
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Thirty-three British citizens including a 13-year-old girl are among more than 400 travellers missing after a flash flood on the Nepal-Tibet border, according to Nepal’s tourism board.

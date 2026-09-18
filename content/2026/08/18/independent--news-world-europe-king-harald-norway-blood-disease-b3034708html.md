@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T08:50:01Z'
 published: '2026-08-18T00:00:00Z'
 description: Harald has been in and out of the hospital several times in recent years
 image: https://static.independent.co.uk/2026/06/23/15/2276683971..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 King Harald of Norway has been taken to hospital for treatment in connection with a blood disease, the palace has said.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Officers searched a property on Holywell Heights in Sheffield and found
   the baby
 image: https://static.independent.co.uk/2025/02/05/10/18/automobile-1850065_1280.jpeg?trim=5,0,6,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Family & Parenting
 ---
 
 Four people have been charged with murder after a newborn baby girl was stabbed to death in Sheffield.

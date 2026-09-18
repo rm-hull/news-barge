@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: Some MPs have pressed for the government to introduce a cap on UK-based
   donors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed22/live/c85d54a0-78a6-11f1-b976-0b9c15b0ccfc.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Four banknotes are in a pile on a table. Each banknote is partially obscured. There is a £50 note in the background which has a £20 on top of it. A £10 is on top of the £20, and a £5 is on top of the £10.](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/ed22/live/c85d54a0-78a6-11f1-b976-0b9c15b0ccfc.jpg)

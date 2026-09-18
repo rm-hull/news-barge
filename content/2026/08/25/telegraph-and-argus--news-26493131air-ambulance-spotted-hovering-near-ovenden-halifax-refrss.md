@@ -7,6 +7,11 @@ scraped_at: '2026-08-25T13:07:17Z'
 published: '2026-08-25T00:00:00Z'
 description: An air ambulance was spotted near Ovenden, Halifax, yesterday afternoon.
 image: https://www.thetelegraphandargus.co.uk/resources/images/20359899.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: UGC)*

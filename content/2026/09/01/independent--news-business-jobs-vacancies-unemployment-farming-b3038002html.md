@@ -7,6 +7,12 @@ scraped_at: '2026-09-01T13:29:25Z'
 published: '2026-09-01T00:00:00Z'
 description: Vacancies have hit five-year low, according to recent data
 image: https://static.independent.co.uk/2026/05/27/22/27192738-e994dd98-e7a5-4997-b6ff-f3a826cf3fca.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 People applying for jobs in farming and agriculture are more likely to secure a role than jobseekers in any other sector, research suggests.

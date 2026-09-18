@@ -9,6 +9,11 @@ description: Berlin aims to make it easier to organize events, ranging from conf
   to sporting events. To this end, a central service office for events is planned,
   according to the Senate Chancellery.
 image: https://www.berlin.de/binaries/asset/image_assets/10592219/ratio_4_3/1787727992/800x600/
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 © dpa

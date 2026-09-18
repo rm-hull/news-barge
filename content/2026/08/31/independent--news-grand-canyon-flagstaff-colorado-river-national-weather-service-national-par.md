@@ -10,6 +10,10 @@ description: More storms and flooding are possible at the Grand Canyon following
   major flash flood that has left one person dead and about 15 others missing or unaccounted
   for
 image: https://static.independent.co.uk/2026/08/30/22/Grand_Canyon_Flooding_4_194.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 More rain and thunderstorms were possible Monday at the Grand Canyon following a major flash flood that left one person dead and about 15 others missing or unaccounted for, with scores of visitors evacuated and the only water pipeline for tourists and residents destroyed.

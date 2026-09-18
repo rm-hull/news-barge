@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The UK is providing Ukraine with the blueprints to long-range SCALP missiles,
   the prime minister announced in Kyiv
 image: https://static.independent.co.uk/2026/08/24/11/download..?trim=291,739,530,663&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Prime minister Andy Burnham has hit out at Russian president Vladimir Putin during his first state visit to Kyiv, amid mounting tensions between Moscow and London.

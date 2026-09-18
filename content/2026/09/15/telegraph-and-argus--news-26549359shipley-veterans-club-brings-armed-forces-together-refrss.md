@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: LAUGHTER, stories, and friendly rivalry filled the room as veterans gathered
   for breakfast.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453908.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 *(Image: Supplied)*

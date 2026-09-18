@@ -9,6 +9,13 @@ published: '2026-09-06T00:00:00Z'
 description: A Reform councillor in Northumberland has said parents need to “take
   accountability” for their children amid claims many are attending school…
 image: https://www.thenorthernecho.co.uk/resources/images/21369025.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
+- Society & Culture
+- Education & Learning
 ---
 
 *(Image: PIXABAY)*

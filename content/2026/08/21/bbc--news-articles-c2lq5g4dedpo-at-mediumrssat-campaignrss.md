@@ -8,6 +8,9 @@ published: '2026-08-21T00:00:00Z'
 description: There has been a significant expansion of building and road construction
   on Palestinian land occupied by Israel in recent years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Three Israeli settlers stand outside houses after the reopening of a settlement at Ganim in the Israeli-occupied West Bank on 13 August. One is a man armed with a rifle. The image has a blue border with the BBC Verify logo in the the top left corner.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg)

@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: School principal Rajendra Dawadi's quick decision to evacuate his school
   saved at least 900 students from devastating flash floods in Nepal last week
 image: https://static.independent.co.uk/2026/08/31/11/Nepal_Flood_School_Teacher_54747.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 Rajendra Dawadi was inside his classroom when the school's accountant rushed in with a warning: Floodwaters were racing through Nepal’s Trishuli Valley, tearing apart homes, bridges and entire villages.

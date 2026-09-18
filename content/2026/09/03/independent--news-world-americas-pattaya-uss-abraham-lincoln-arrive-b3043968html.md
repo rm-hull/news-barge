@@ -8,6 +8,10 @@ scraped_at: '2026-09-03T12:48:07Z'
 published: '2026-09-03T00:00:00Z'
 description: Pattaya, once Thailand's 'Sin City,' beckons weary sailors
 image: https://static.independent.co.uk/2026/09/03/09/2292598451..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Thousands of crew members of the USS Abraham Lincoln aircraft carrier streamed into Thailand’s seaside resort city of Pattaya on Thursday, after more than 260 days at sea.

@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: A new survey reveals that a third of workers are hiding the fact that
   they use AI from their boss at work. Are you one?
 image: https://cdn.mos.cms.futurecdn.net/fMgthPaijjK7fNDmKksLiD-2560-80.jpg
+categories:
+- Technology & Software
+- Careers & Productivity
 ---
 
 ![Office Worker Sneaking a Peek Above Laptop in a Modern Workspace During Daytime, hiding from boss.](https://cdn.mos.cms.futurecdn.net/fMgthPaijjK7fNDmKksLiD.jpg) 

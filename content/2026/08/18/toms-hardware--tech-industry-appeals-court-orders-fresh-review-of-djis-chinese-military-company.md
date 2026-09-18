@@ -9,6 +9,10 @@ scraped_at: '2026-08-18T19:36:11Z'
 published: '2026-08-18T00:00:00Z'
 description: The designation now hinges on classified evidence
 image: https://cdn.mos.cms.futurecdn.net/kJNpUnRiVRVn6j3yjTfcMY-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![DJI](https://cdn.mos.cms.futurecdn.net/kJNpUnRiVRVn6j3yjTfcMY.jpg) 

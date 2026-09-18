@@ -10,6 +10,11 @@ description: Residents, businesses, and commuters across York and North Yorkshir
   are being urged to reshape the region’s travel network as Mayor David Skaith launches
   a
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/08/azuma-web.webp
+categories:
+- Local
+- Harrogate
+- Travel
+- Business & Entrepreneurship
 ---
 
 Residents, businesses, and commuters across York and North Yorkshire are being urged to reshape the region’s travel network as Mayor David Skaith launches a major 10-week public consultation.

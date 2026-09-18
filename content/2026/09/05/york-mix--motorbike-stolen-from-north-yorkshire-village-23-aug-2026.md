@@ -7,6 +7,11 @@ scraped_at: '2026-09-05T15:06:13Z'
 published: '2026-09-05T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cctv-motorbike-stolen-cowstail-lane-tockwith-nyp.webp
+categories:
+- Local
+- York
+- Automotive
+- Travel
 ---
 
 Police investigating a theft have issued this image.

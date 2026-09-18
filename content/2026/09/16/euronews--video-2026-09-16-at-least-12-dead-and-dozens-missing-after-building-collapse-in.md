@@ -10,6 +10,10 @@ description: Video. A deadly building collapse has killed at least 12 people in 
   City on 16 September, according to Shifa Hospital, after a multi-storey building
   housing displaced families came down.
 image: https://images.euronews.com/articles/stories/09/91/54/15/1200x675_cmsv2_03949176-ed56-554d-8853-640e42a25005-9915415.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 Civil defence teams are still searching the rubble for survivors, while rescuers use heavy machinery to clear the debris. The bodies of children and other victims have been recovered, but dozens of people remain missing.

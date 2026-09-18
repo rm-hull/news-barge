@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: California lawmakers are expected to vote on a bill that would ensure
   survivors of utility-sparked wildfires get paid faster
 image: https://static.independent.co.uk/2026/09/01/05/California_Legislature__4723.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 California lawmakers are expected to vote Tuesday on a bill aimed at supporting wildfire survivors after rejecting an ambitious proposal by Gov. Gavin Newsom that would have limited electric companies' financial liability for blazes sparked by their equipment.

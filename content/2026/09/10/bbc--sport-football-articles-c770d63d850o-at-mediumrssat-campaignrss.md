@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Benjamin Sesko's return to Manchester United's starting line-up is well
   timed ahead of Sunday's Premier League encounter with Manchester City
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e20b/live/0adfd100-ad5d-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Man United put four past Sabah on Champions League return

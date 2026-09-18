@@ -9,6 +9,9 @@ description: Putin has been facing declining approval ratings, mounting casualti
   and ‘net-zero’ territorial gains since March this year as polls open today. Experts
   tell Maira Butt what this could mean for the future of Russia
 image: https://static.independent.co.uk/2026/09/13/12/2026-09-13T090611Z_1857358687_RC28INAJO2UL_RTRMADP_3_BRICS-SUMMIT.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Russia is holding its first parliamentary elections since its full-scale invasion of Ukraine more than four years ago.

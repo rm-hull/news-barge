@@ -7,6 +7,10 @@ scraped_at: '2026-08-28T11:16:33Z'
 published: '2026-08-28T00:00:00Z'
 description: King Oyo leaves behind a son and heir, whose identity has not been disclosed
 image: https://static.independent.co.uk/2026/08/28/9/53/Oyo_Nyimba_Kabamba_Iguru_Rukidi_IV-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Oyo Nyimba, a Ugandan tribal monarch who captivated world leaders after ascending to his ancient throne as a toddler, has died at the age of 34.

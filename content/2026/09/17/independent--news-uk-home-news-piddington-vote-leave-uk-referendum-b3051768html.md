@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: Under the proposal, MoD Bicester could be converted to house more than
   1,000 male asylum seekers
 image: https://static.independent.co.uk/2026/09/16/12/01M2MFPNNEAWQGV5P7K4PYPWN0.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A small Oxfordshire village has voted to become independent from the UK in a symbolic referendum.

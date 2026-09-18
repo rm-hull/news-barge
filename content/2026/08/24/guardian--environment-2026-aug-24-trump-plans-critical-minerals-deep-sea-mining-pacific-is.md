@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: US agency releases plan to lease millions of hectares of seabed off the
   coast of the Northern Mariana Islands and Guam
 image: https://i.guim.co.uk/img/media/6477bf1a810003e7b073c564f349c808c12a3a34/127_0_3749_3000/master/3749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20ce264eb25d13ea98ba28896835abff
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals.

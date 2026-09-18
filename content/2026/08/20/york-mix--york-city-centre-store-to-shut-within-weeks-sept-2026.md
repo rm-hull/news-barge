@@ -7,6 +7,10 @@ scraped_at: '2026-08-20T04:49:10Z'
 published: '2026-08-20T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/05/sorry-were-closed-shop-sign-canva.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 New details have emerged about the future of a store in York following the approval of changes to the building.

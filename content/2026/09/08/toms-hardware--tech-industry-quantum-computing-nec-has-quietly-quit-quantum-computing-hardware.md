@@ -9,6 +9,11 @@ scraped_at: '2026-09-08T12:50:36Z'
 published: '2026-09-08T00:00:00Z'
 description: After quitting microelectronics, NEC quits quantum computers.
 image: https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
+- Business & Entrepreneurship
 ---
 
 ![Microsoft Quantum materials](https://cdn.mos.cms.futurecdn.net/jFuLeDoS3yepBpNT3uuUaN.jpg) 

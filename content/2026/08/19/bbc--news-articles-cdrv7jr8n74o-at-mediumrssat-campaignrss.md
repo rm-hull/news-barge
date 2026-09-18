@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: A 2.9% rise in inflation had been widely expected by economists, with
   Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21dc/live/be9c8d40-9bb6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ![Man, woman and baby sit at a table examining a household bill](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/21dc/live/be9c8d40-9bb6-11f1-a291-b542ee92de7c.jpg)

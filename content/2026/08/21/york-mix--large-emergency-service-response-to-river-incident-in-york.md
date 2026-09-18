@@ -7,6 +7,10 @@ scraped_at: '2026-08-21T16:48:01Z'
 published: '2026-08-21T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-emergency-services-incident-north-street-york-dd.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 There was a large emergency services response to a riverside incident in York this afternoon (Friday).

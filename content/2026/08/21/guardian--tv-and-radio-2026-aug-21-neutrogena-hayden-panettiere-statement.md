@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: Late actor in May said beauty brand cut off its relationship with her
   after she spoke out about postpartum depression
 image: https://i.guim.co.uk/img/media/ced9a7df83f6bde1df3b1288d8bb15f0cddd6729/283_0_2708_2165/master/2708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=719c2d493f61b6c5eda74d126f04a2d0
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 The beauty brand Neutrogena has acknowledged making its former ambassador Hayden Panettiere “feel unsupported during a very difficult time” – alluding to when the late Hollywood actor said the company severed ties with her after she spoke about enduring postpartum depression (PPD).

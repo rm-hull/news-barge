@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: York Printmakers, a group of artists based in and around York, is set
   to hold their annual print fair next weekend.
 image: https://www.yorkpress.co.uk/resources/images/21423684.jpg?type=og-image&xType=0&yType=892
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## York Printmakers fair returns with original artwork from more than 20 artists

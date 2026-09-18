@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A SPECIALIST coffee shop in North Yorkshire has applied for a new licence
   from the council.
 image: https://www.gazetteherald.co.uk/resources/images/21354470.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 A SPECIALIST coffee shop in North Yorkshire has applied for a new licence from the council.

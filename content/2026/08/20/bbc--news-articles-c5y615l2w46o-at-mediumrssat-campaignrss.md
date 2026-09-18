@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Prosecutors say the Albany woman had pledged allegiance to the Islamic
   State group, and wanted to bomb the statehouse to kill lawmakers.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2871/live/b0cd8010-9cd9-11f1-8c2c-67800657f112.png
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![The woman in a black niqab with a shopping trolley seen buying bomb-making parts at a local hardware store](https://ichef.bbci.co.uk/ace/standard/1248/cpsprodpb/2871/live/b0cd8010-9cd9-11f1-8c2c-67800657f112.png)

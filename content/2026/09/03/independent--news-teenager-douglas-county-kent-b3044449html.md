@@ -9,6 +9,10 @@ description: An 18-year-old in Washington state has been arrested for the invest
   of manslaughter and arson in connection with a deadly July 4 fire, a county sheriff
   said Thursday
 image: https://static.independent.co.uk/2026/09/03/22/Washington_Wildfire_Arrest_85332.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 An 18-year-old in Washington state has been arrested for the investigation of manslaughter and arson in connection with a deadly July 4 fire, a county sheriff said Thursday.

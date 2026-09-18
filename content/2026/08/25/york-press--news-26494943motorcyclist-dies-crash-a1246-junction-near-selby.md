@@ -7,6 +7,10 @@ scraped_at: '2026-08-25T16:50:59Z'
 published: '2026-08-25T00:00:00Z'
 description: A man has died following a crash on a main road in North Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21361274.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Richard McCarthy/PA)*

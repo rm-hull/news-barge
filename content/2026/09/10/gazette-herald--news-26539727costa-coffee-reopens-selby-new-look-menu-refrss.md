@@ -7,6 +7,12 @@ scraped_at: '2026-09-10T19:07:02Z'
 published: '2026-09-10T00:00:00Z'
 description: Costa Coffee has reopened in Selby with a brand-new look and food menu.
 image: https://www.gazetteherald.co.uk/resources/images/21436184.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 Costa Coffee has reopened in Selby with a brand-new look.

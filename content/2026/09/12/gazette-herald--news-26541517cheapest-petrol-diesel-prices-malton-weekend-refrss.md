@@ -7,6 +7,11 @@ scraped_at: '2026-09-12T12:09:40Z'
 published: '2026-09-12T00:00:00Z'
 description: Here's a list of the cheapest garages in and around Malton.
 image: https://www.gazetteherald.co.uk/resources/images/15726968.jpg?type=og-image&yType=170
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Archive)*

@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Isao Harimoto, the baseball great who survived the Hiroshima atomic bomb
   and still holds Japan’s hits record, has died
 image: https://static.independent.co.uk/2026/09/10/14/Japan_Harimoto_64151.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Isao Harimoto, the baseball great who survived the Hiroshima atomic bomb and still holds Japan's hits record, has died. He was 86.

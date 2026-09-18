@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: 'This September, subscribers have three brilliant chances to win: a luxury
   Fortnum & Mason hamper, an Apple Watch SE and a £150 Curry’s eGift…'
 image: https://www.yorkpress.co.uk/resources/images/21333522.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Sports
 ---
 
 *(Image: Newsquest)*

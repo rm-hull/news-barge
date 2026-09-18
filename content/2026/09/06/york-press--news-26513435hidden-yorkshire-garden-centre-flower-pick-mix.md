@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Reighton Nurseries might be worth a visit if you are looking for colourful
   plants to brighten up your garden.
 image: https://www.yorkpress.co.uk/resources/images/21398751.jpg?type=og-image
+categories:
+- Local
+- York
+- Home, Garden & DIY
+- Lifestyle & Fashion
 ---
 
 ## Hidden garden centre near the Yorkshire coast with flower pick and mix

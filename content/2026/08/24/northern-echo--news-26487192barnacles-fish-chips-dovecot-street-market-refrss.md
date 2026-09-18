@@ -7,6 +7,12 @@ scraped_at: '2026-08-24T08:59:55Z'
 published: '2026-08-24T00:00:00Z'
 description: A popular Stockton chippy has been put up for sale.
 image: https://www.thenorthernecho.co.uk/resources/images/21359197.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 A popular Stockton chippy could be yours for just £50,000.

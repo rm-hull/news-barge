@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: The care unit at Bridlington Hospital is to close following a decision
   at a York and Scarborough Teaching Hospitals NHS Foundation Trust meeting…
 image: https://www.gazetteherald.co.uk/resources/images/21350499.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Health & Fitness
+- Business & Entrepreneurship
 ---
 
 *(Image: Google)*

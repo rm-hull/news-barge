@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A delivery rider had an electric bike seized after checks in Bradford
   city centre.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21464856.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 A DELIVERY rider had an electric bike seized after checks in Bradford city centre found it failed to meet requirements.

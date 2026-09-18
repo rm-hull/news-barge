@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A former colliery site in Shincliffe that has been reclaimed by nature
   could be given official protection as a new Local Nature Reserve.
 image: https://www.thenorthernecho.co.uk/resources/images/21441249.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Science
 ---
 
 *(Image: GOOGLE)*

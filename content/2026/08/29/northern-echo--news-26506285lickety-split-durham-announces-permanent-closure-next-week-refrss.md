@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: Lickety Split Durham, which opened on Belmont Business Park in 2018,
   says it will serve its last cones and tubs on Wednesday, September 2.
 image: https://www.thenorthernecho.co.uk/resources/images/21157974.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: BiaMaith/Google maps)*

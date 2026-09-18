@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Here are the top 10 hardest and easiest secondary schools to get into
   around County Durham - does the list surprise you at all?
 image: https://www.thenorthernecho.co.uk/resources/images/21424647.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 If you are moving to County Durham or are considering bringing up a family in the area, you might be interested to know how easy or hard it is to get into secondary schools.

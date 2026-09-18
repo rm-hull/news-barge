@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: A former social club could be turned into housing if planning permission
   can be agreed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407940.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Google)*

@@ -9,6 +9,9 @@ description: Generative AI and ready-to-use fraud kits have drastically lowered 
   barrier to entry for cybercriminals, making human trust the biggest vulnerability
   in 2026
 image: https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Big letters AI in pink in front of pink and blue strands of light suggesting a digital explosion](https://cdn.mos.cms.futurecdn.net/U76sZeRd6fS2fKt5RqBYPL.jpg) 

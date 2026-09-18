@@ -9,6 +9,10 @@ published: '2026-09-04T00:00:00Z'
 description: From searching for a buried tunnel entrance to blowing up rocks the size
   of cars, rescuers had to surmount multiple challenges to reach survivors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f9c/live/c6815740-a83e-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Watch: Moment workers are rescued from Nepal tunnel

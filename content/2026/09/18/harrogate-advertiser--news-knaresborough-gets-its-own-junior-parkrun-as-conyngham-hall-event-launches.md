@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Children and families in Knaresborough are being invited to lace up their
   trainers this Sunday as the town welcomes its first junior parkrun.
 image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Family & Parenting
 ---
 
 # Knaresborough gets its own junior parkrun as Conyngham Hall event launches this Sunday

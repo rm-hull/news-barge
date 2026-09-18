@@ -9,6 +9,10 @@ description: As ministers prepare to urge households to stock up ahead of extrem
   weather and other threats, our readers say they’ve been building up their own supplies
   for years
 image: https://static.independent.co.uk/2026/08/27/13/16/Engagement-overlays-2026-08-27T142552-165.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Careers & Productivity
 ---
 
 The government is preparing to tell Britons to stock up on tinned food and bottled water, as ministers step up planning for extreme weather and potential attacks on the UK’s infrastructure.

@@ -8,6 +8,8 @@ scraped_at: '2026-09-04T04:22:23Z'
 published: '2026-09-04T00:00:00Z'
 description: ChatGPT’s new Stickers feature made my dog a fun emoji option
 image: https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT Stickers](https://cdn.mos.cms.futurecdn.net/3DXuTR6xmVf5PPDkv3bRq5.png) 

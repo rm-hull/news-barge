@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: Kusama was known for creating extraordinary immersive worlds that delighted
   millions of visitors.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/08d9/live/ee030b80-a201-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 **Using bright colours, shapes, patterns and reflections, Japanese artist Yayoi Kusama,who has died at the age of 97, was known for creating extraordinary immersive worlds that delighted millions of people around the globe.**

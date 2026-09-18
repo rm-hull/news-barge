@@ -10,6 +10,10 @@ description: An 1857 decree to drain swamps and plant a monoculture, detritus fr
   the trees and global heating combined to produce the conditions for the Gironde
   inferno
 image: https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76d8f89a320cbd04f816e72cb24b2f5d
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their homes than at any point since the second world war and caused what scientists suspect is the country’s first firestorm thundercloud. The smoke from France’s biggest inferno in nearly 80 years choked Limoges, a city 125 miles (200km) from the flames, with more toxic dust than Delhi residents inhaled on the city’s worst day of smog last year.

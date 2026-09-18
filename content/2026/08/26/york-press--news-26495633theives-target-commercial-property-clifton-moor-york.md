@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: North Yorkshire Police said the burglary took place at 4pm on Friday,
   August 14 from the hallway of Acorn Commercial Finance in Clifton Moor…
 image: https://www.yorkpress.co.uk/resources/images/21371895.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: North Yorkshire Police)*

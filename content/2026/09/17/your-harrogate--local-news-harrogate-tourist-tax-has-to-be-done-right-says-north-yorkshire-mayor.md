@@ -9,6 +9,11 @@ description: THE implementation of charges on overnight stays for visitors will 
   to be done right but details on how they would work are currently lacking, North
   Yorkshire’s mayor has said.
 image: https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 ![](https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg) 

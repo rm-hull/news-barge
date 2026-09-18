@@ -9,6 +9,8 @@ published: '2026-08-29T00:00:00Z'
 description: The Razer Naga V3 Pro is built for almost any game you want to play,
   but you pay the price for that privilege.
 image: https://cdn.mos.cms.futurecdn.net/Z2ysavcxRgiBeUHwfCjyFT-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

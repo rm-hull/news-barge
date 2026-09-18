@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: York-based PenLife Associates will host the complimentary consultations
   to help people prepare for life's unexpected events.
 image: https://www.gazetteherald.co.uk/resources/images/21377670.jpg?type=og-image&xType=0&yType=882
+categories:
+- Local
+- Harrogate
+- York
+- Careers & Productivity
 ---
 
 *(Image: PenLife Associates)*

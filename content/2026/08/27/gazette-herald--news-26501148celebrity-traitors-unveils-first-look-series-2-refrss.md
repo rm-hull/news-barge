@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: The Celebrity Traitors series 2 has revealed a first look in a dramatic
   video with Claudia Winkleman
 image: https://www.gazetteherald.co.uk/resources/images/21378365.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: BBC/Studio Lambert/Cody Burridge)*

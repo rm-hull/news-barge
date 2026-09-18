@@ -9,6 +9,8 @@ published: '2026-08-28T00:00:00Z'
 description: Leaked filings hint at an upcoming Garmin launch, and it could be the
   rumored Enduro 4.
 image: https://cdn.mos.cms.futurecdn.net/9rHkimZKL5AFmn7NNqJAF6-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Garmin Fenix 8 vs Enduro 3 comparison](https://cdn.mos.cms.futurecdn.net/9rHkimZKL5AFmn7NNqJAF6.jpg) 

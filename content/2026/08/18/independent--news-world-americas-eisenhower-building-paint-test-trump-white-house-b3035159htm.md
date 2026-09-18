@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Planners indicated that the painting project would cost at least $7.5
   million
 image: https://static.independent.co.uk/2026/08/18/15/00/GettyImages-2259142864.jpg?trim=44,0,44,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A federal district judge ruled on Tuesday that paint tests on a 19th-century historic landmark adjacent to the White House can proceed, temporarily advancing President Donald Trump's plans to add a fresh coat of white paint to the Eisenhower Executive Office Building.

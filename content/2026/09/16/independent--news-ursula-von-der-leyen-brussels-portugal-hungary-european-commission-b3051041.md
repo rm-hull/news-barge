@@ -8,6 +8,9 @@ published: '2026-09-16T00:00:00Z'
 description: European Commission President Ursula von der Leyen says a scorching summer
   has shown the EU needs new tools to tackle climate change
 image: https://static.independent.co.uk/2026/08/22/07/Europe_Wildfire_Ordnance_88897.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A scorching summer that dried up rivers and killed tens of thousands across the European Union from Portugal to Hungary has shown that the bloc needs to develop new tools to meet a worsening climate, European Commission President Ursula von der Leyen said Wednesday.

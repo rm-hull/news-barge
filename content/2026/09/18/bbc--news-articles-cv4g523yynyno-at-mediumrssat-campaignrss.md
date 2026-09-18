@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Five teenage boys died in the head-on collision and four family members
   were seriously injured.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![A shot of a car crash site showing a section of closed motorway with many emergency service vehicles on the road and debris from the crash.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg)

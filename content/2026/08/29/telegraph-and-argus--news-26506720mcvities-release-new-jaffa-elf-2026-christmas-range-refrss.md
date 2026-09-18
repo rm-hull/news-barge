@@ -8,6 +8,12 @@ published: '2026-08-29T00:00:00Z'
 description: McVitie's is set to release a new Jaffa Elf as part of its 2026 Christmas
   range, and shoppers are already describing it as "the stuff of…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21384569.jpg?type=og-image&xType=0&yType=123
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Film & TV
 ---
 
 *(Image: PA)*

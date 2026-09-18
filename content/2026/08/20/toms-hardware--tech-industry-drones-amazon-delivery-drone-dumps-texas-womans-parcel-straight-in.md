@@ -10,6 +10,10 @@ published: '2026-08-20T00:00:00Z'
 description: A Texas woman has filmed the moment an Amazon Prime delivery drone dumped
   her package straight into her swimming pool.
 image: https://cdn.mos.cms.futurecdn.net/cDXJBLUFxWijbbBF4JWhXB-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Amazon Drone](https://cdn.mos.cms.futurecdn.net/cDXJBLUFxWijbbBF4JWhXB.jpg) 

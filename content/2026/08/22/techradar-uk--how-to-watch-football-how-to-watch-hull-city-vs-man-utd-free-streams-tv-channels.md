@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T12:56:49Z'
 published: '2026-08-22T00:00:00Z'
 description: The Tigers have been handed a tough start to life back in the top flight
 image: https://cdn.mos.cms.futurecdn.net/GbSkG76HGrWLkNfD2aPmqB-819-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![Bryan Mbeumo of Manchester United reacts during the pre-season friendly match between Manchester United and Leeds United at Croke Park in Dublin.](https://cdn.mos.cms.futurecdn.net/GbSkG76HGrWLkNfD2aPmqB.jpg) 

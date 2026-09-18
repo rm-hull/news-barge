@@ -10,6 +10,10 @@ description: At least five pupils at a village school in the West Bank have been
   school found itself on the frontline, while a teacher explains what life is like
   for staff and students.
 image: https://i.guim.co.uk/img/media/2ef2a14fa792e6d8cd6878de6ee6d251c9f64f2a/341_0_6495_5196/master/6495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3623ad0c690e86403d798e2a1fc9074f
+categories:
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 Waheed Abu Naim is an English teacher at the Al Mughayyir boys’ school in a village in the West Bank. He loves his job, he says. “I am happy to be a teacher. Although we don’t get lots of money, because my students, especially in the morning, wait for me when I enter the school to shake hands, to smile at me while going inside their classes. So it’s a happy life.”

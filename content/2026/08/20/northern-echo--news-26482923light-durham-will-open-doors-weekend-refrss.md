@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T20:40:36Z'
 published: '2026-08-20T00:00:00Z'
 description: See inside Durham’s newest cultural venue ahead of its opening weekend.
 image: https://www.thenorthernecho.co.uk/resources/images/21352142.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 See inside Durham’s newest cultural venue ahead of its opening weekend.

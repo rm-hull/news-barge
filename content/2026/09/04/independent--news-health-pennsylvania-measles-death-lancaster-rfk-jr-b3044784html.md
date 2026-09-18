@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Pennsylvania’s measles deaths - the first reported in the US this year
   - have been questioned by Trump’s Health Secretary
 image: https://static.independent.co.uk/2026/09/04/14/2026-09-01T173445Z_1350130560_RC2HANAHVQ7Y_RTRMADP_3_HEALTH-USA-HHS-SCREENS.JPG?trim=0,1,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 A Pennsylvania coroner has confirmed a second child measles death in the state.

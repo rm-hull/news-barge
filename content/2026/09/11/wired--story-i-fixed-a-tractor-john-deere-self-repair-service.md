@@ -9,6 +9,9 @@ published: '2026-09-11T00:00:00Z'
 description: The agricultural machine manufacturer has a subscription service that
   lets owners repair their own equipment. Why is barely anybody using it?
 image: https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/191:100/w_1280,c_limit/John-Deere-5ML-Tractor.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 There is something wrong with the tractor. The water-in-fuel sensor, a small device embedded in the John Deere machine that monitors the integrity of its diesel engine, is disconnected. And I’ve got to fix it.

@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A comedy about ageing, family, and the messiness of home life is taking
   centre stage in Bingley this autumn.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21375949.jpg?type=og-image&xType=0&yType=204
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: David Kirk)*

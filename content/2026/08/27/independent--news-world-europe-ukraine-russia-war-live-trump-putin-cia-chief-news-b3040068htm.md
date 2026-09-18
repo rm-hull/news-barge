@@ -9,6 +9,9 @@ published: '2026-08-27T00:00:00Z'
 description: Trump says he is hopeful 'something may come out of' CIA chief’s meetings
   in Russia
 image: https://static.independent.co.uk/2026/08/27/1/57/GettyImages-2290822189.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 CIA director John Ratcliffe warned Russia against an attack on a Nato member, sources familiar with the matter told the *Wall Street Journal* and*Politico*. 

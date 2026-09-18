@@ -9,6 +9,11 @@ description: 'The Financial Times reported last week, quoting Iranian sources, t
   Iran would fire missiles at US targets in Europe if President Donald Trump steps
   up military pressure over the Strait of Hormuz. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/59/03/1200x675_cmsv2_ff7c6eaa-098e-5ff2-a1ff-eff635c1dd24-9885903.jpg
+categories:
+- Europe
+- News & Politics
+- History
+- Business & Entrepreneurship
 ---
 
 ## The Financial Times reported last week, quoting Iranian sources, that Iran would fire missiles at US targets in Europe if President Donald Trump steps up military pressure over the Strait of Hormuz.

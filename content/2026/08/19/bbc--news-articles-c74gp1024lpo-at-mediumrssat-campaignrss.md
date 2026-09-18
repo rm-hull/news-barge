@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: The Scottish weather is no longer a joke as visitors head north from
   the rest of the UK to cool down.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf10/live/35714be0-9c20-11f1-9d12-91d174f03f54.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![Esther and Nick Cochrane smile as they pose together in front of a stunning loch near their holiday cottage business. Esther wears a red sweatshirt and a pendant, Nick wears a dark blue checked shirt. the landscape is distinctly Scottish.](https://ichef.bbci.co.uk/ace/standard/911/cpsprodpb/bf10/live/35714be0-9c20-11f1-9d12-91d174f03f54.jpg)

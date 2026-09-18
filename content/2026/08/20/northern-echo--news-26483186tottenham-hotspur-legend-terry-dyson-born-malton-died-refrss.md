@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: A FOOTBALLING legend who was born and brought up in North Yorkshire has
   died aged 91.
 image: https://www.thenorthernecho.co.uk/resources/images/21352527.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 A FOOTBALLING legend who was born and brought up in North Yorkshire has died aged 91.

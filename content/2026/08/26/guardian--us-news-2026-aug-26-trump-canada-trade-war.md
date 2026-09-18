@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: The US president expected Ottawa to bow to tariff demands, but Canada
   is striking back – and it could cost Americans
 image: https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/100_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6c9f907aeb78ab5ca79fa3a28d3ea38
+categories:
+- UK
+- News & Politics
 ---
 
 Earlier this year, a survey found that Canada, along with Switzerland, was the best-liked country in the world. We all know this kind of polling is about as scientific as a high school popularity contest, but at least anecdotally, Canadians have a reputation for being friendly and welcoming, respectful and polite. Many people would find it difficult to dislike Canadians.

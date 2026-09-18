@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: A rise in giardiasis cases has been reported in England and those travelling
   from abroad can bring it back to the UK - symptoms and how to avoid…
 image: https://www.gazetteherald.co.uk/resources/images/21379973.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Getty)*

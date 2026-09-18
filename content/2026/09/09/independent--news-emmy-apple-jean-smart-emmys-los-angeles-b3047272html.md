@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: The 78th Emmy Awards are set for Monday night, with “The Pitt,” “Pluribus,”
   “Hacks,” and “Widow's Bay” leading the charge
 image: https://static.independent.co.uk/2026/09/09/13/2_26_Creative_Arts_Emmy_Awards_-_Night_Two_99226.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
+- Film & TV
 ---
 
 It’s “The Pitt” versus “Pluribus” and “Hacks” against “Widow’s Bay” at the 78th Emmy Awards on Monday night.

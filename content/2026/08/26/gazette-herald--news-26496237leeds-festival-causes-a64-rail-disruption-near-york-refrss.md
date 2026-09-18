@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Drivers and rail passengers face disruption between York and Leeds from
   today as Leeds Festival and engineering works affect travel - what you need…
 image: https://www.gazetteherald.co.uk/resources/images/19742918.jpg?type=og-image&xType=0&yType=93
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 Motorists are being warned of delays on the A64 due to Leeds Festival while train disruptions are also expected.

@@ -9,6 +9,11 @@ published: '2026-09-18T00:00:00Z'
 description: The products have been recalled from shoppers by Baylis and Harding,
   Amazon, Ocado, Sainsbury’s, and Waitrose.
 image: https://www.gazetteherald.co.uk/resources/images/21230158.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty)*

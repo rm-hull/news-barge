@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Countries are embracing clean power and taking steps to use less energy
   because of the war against Iran
 image: https://static.independent.co.uk/2026/09/17/14/Climate_Iran_War_41318.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 Countries are embracing clean power and taking steps to use less energy because of the war against Iran, but it is not yet enough to help address climate change.

@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Officials have outlined plans for ‘emergency influx facility’ campuses
   that can hold hundreds of unaccompanied minors
 image: https://static.independent.co.uk/2026/08/18/21/2288466180..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Trump administration is proposing a sprawling shelter facility that can detain up to 3,000 unaccompanied migrant children who arrived in the U.S. without a parent or guardian.

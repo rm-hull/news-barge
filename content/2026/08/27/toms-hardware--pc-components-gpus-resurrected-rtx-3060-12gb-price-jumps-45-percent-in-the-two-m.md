@@ -9,6 +9,11 @@ description: The RTX 3060 12GB was revived to offer consumers a budget GPU with 
   relatively large VRAM pool. But it has succumbed to the same price fate as every
   other SKU like it. Launched at around $330, most variants now cost close to $500.
 image: https://cdn.mos.cms.futurecdn.net/MngUDZe8sK2je4YKbw69kN-1956-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![GeForce RTX 3060](https://cdn.mos.cms.futurecdn.net/MngUDZe8sK2je4YKbw69kN.jpg) 

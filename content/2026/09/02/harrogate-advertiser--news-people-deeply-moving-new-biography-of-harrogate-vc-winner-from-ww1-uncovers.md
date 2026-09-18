@@ -10,6 +10,10 @@ description: A new book has been published exploring the untold story of the Har
   man who was the only English professional footballer to be awarded the Victoria
   Cross during WWI.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmRhNzYyYmM0LTZiODctNDA3ZC05NGQzLThkYjVlM2I1OGI2YjowYTI2ODNjZi04N2VmLTQyZGMtYWZkZC02NDE0NmQ3ZTc0NzM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 # 'Deeply moving' new biography of Harrogate VC winner from WW1 uncovers rarely-seen private archives

@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: Marti Pellow and Gabrielle are set to perform at a new music event launching
   at Lumley Castle Hotel in Chester-le-Street.
 image: https://www.thenorthernecho.co.uk/resources/images/21370575.jpg?type=og-image&xType=0&yType=76
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Supplied)*

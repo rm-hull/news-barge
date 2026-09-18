@@ -7,6 +7,13 @@ scraped_at: '2026-09-15T19:41:04Z'
 published: '2026-09-15T00:00:00Z'
 description: Plans to build 52 homes at a site have been submitted to council planners.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21458907.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Home, Garden & DIY
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

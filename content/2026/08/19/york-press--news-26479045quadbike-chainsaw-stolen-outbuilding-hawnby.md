@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: SIGHTINGS of suspicious vehicles are being sought following a burgalry
   in a North Yorkshire village.
 image: https://www.yorkpress.co.uk/resources/images/9508104.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Newsquest)*

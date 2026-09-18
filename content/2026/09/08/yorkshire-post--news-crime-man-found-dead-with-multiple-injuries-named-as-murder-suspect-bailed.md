@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A 41-year-old man found dead with multiple injuries at a Barnsley property
   has been named as Russell Baxter as investigations into his death continue.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/08/15/30/russell-baxter.png?trim=315,0,1033,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Man found dead with multiple injuries named as murder suspect bailed

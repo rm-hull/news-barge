@@ -8,6 +8,13 @@ published: '2026-08-21T00:00:00Z'
 description: BRADFORD cinema-goers have a packed choice this Saturday, with superhero
   spectacle, family favourites, horror, comedy and prestige drama all on the…
 image: https://www.thetelegraphandargus.co.uk/resources/images/18984489.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 *(Image: Getty)*

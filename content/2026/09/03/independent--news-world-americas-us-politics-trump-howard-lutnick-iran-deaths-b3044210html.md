@@ -9,6 +9,10 @@ description: The Commerce Secretary’s latest gaffe follows conflicting stateme
   on data centers and his admission that he visited Jeffrey Epstein’s private island
   despite denying having ever done so
 image: https://static.independent.co.uk/2026/09/03/14/2026-09-02T215231Z_2074016740_RC28BNAY13LU_RTRMADP_3_G20-TECHNOLOGY.JPG?trim=0,9,0,9&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump on Thursday was forced to use his Truth Social megaphone to play cleanup after Commerce Secretary Howard Lutnick’s televised claim that no Americans had died in the administration’s six-month-old war against Iran sparked outrage and ridicule.

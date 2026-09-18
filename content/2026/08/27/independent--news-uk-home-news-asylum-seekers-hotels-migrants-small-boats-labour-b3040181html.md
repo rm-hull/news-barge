@@ -8,6 +8,10 @@ published: '2026-08-27T00:00:00Z'
 description: There were 16,000 asylum seekers living in Home Office hotels in June
   this year, down 50 per cent on a year earlier
 image: https://static.independent.co.uk/2026/08/07/17/290214a526a823ff846fb7a405ac4db3Y29udGVudHNlYXJjaGFwaSwxNzg2MjA0MzIx-2.84951356.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Lifestyle & Fashion
 ---
 
 The number of asylum seekers housed in hotels has halved in the past year as the Home Office pushes to close down the controversial accommodation, new figures have revealed.

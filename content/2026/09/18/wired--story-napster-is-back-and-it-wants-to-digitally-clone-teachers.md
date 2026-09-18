@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Once the music industry’s biggest headache, Napster’s next act is bringing
   AI to the classroom.
 image: https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/191:100/w_1280,c_limit/Napster_lead.jpg
+categories:
+- Technology & Software
+- Science
+- Music
 ---
 
 Napster is back. The name that struck fear into the hearts of music executives in the early dotcom era may be coming to a classroom near you.

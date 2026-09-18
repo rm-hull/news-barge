@@ -9,6 +9,10 @@ published: '2026-08-21T00:00:00Z'
 description: A top North Yorkshire venue is celebrating its 200th show since reopening
   and bringing a record-breaking season to a close.
 image: https://www.yorkpress.co.uk/resources/images/20178196.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 ## 'It’s going to be a very special night' - North Yorkshire venue celebrates 200th show

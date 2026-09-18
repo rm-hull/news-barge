@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses after
   a minibus was extensively damaged in Ripon.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM5NWQxMjNjLWNkNDUtNGFjNi1hMzlhLTAyMWU5NWYwN2IzNTo0ZTljMjZjZC1mMjAzLTQyNmYtOWUyYS00ODYzOWQzYjIzMjM=.jpg?crop=3:2,smart&trim=&width=865&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 # Windows smashed and fuel tank damaged after minibus targeted by vandals in Ripon

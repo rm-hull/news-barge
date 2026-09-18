@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: North Yorkshire Council has received and decided on a range of planning
   applications across the area.
 image: https://www.gazetteherald.co.uk/resources/images/18954964.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: NQ)*

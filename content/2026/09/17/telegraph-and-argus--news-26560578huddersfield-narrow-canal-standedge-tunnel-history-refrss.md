@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Standedge Tunnel and Huddersfield Narrow Canal mark 25 years since reopening,
   with boat trips, improved towpaths and plans to protect the historic…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21190971.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- History
 ---
 
 *(Image: Jake Sugden)*

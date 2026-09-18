@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: The U.S. FDA on Friday approved the use of Eli Lilly's Mounjaro to reduce
   the chances of heart attack or stroke in high-risk patients with type 2 diabetes
 image: https://static.independent.co.uk/2026/08/28/18/25/GettyImages-2280584120.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 US regulators on Friday authorized Eli Lilly's Mounjaro to lessen the likelihood of heart attacks and strokes in high-risk type 2 diabetes patients. The decision marks the latest step by manufacturers of GLP-1 drugs to broaden the clinical scope of their treatments.

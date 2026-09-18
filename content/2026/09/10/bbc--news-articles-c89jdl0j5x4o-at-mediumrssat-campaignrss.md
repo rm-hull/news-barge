@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The retailer launches the service four years after making its first foray
   into internet shopping.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3fd0/live/64817fa0-ace6-11f1-8d69-858c9dcdf738.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 ![Woman carries Primark paper bags](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/3fd0/live/64817fa0-ace6-11f1-8d69-858c9dcdf738.png)

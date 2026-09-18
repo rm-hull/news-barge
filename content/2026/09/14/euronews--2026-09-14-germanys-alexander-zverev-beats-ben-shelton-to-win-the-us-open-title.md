@@ -9,6 +9,10 @@ description: Zverev dashed Shelton's hopes of becoming the first Black player to
   the men's championship since Arthur Ashe in 1968 and the first American man to win
   the title since Andy Roddick in Flushing Meadows in 2003.
 image: https://images.euronews.com/articles/stories/09/91/20/35/1200x675_cmsv2_30c0eaa6-637f-5577-94d1-b746c60da67d-9912035.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Zverev dashed Shelton's hopes of becoming the first Black player to win the men's championship since Arthur Ashe in 1968 and the first American man to win the title since Andy Roddick in Flushing Meadows in 2003.

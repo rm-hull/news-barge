@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: A Bradford district man who was involved in a drugs line operating between
   Keighley, North Yorkshire, and Lancashire has been jailed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21397063.jpg?type=og-image&xType=0&yType=565
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: West Yorkshire Police)*

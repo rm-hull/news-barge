@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: A major UK retailer has unveiled details about its new store showroom
   in Harrogate as the opening date approaches.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmVmMWFmNGFkLTBmNDEtNDI0ZC1hZTg5LWE2MmEwMjNiYTk2MToyODI3Y2EwMS1mYjI2LTRiOTEtYWM5Ni1kMzVmNzdkMjY4OWE=.jpg?crop=3:2,smart&trim=&width=1024&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Business & Entrepreneurship
 ---
 
 # Major store reveals opening date in Harrogate for new customers facility after relocation

@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: York Museum Gardens will host its inaugural Dog Show in September with
   Yorkshire shepherdess Amanda Owen as the judge.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjAwMjhhOTc5LTg1MGItNDY5MS1iYWIxLTUwY2QxNjIzYWRlMTpjNzAyYWVhOS04NGU1LTQzODYtODQ1OC1iZDkwMmIxYzhlY2U=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 # York Dog Show 2026: Yorkshire shepherdess Amanda Owen ‘excited’ to be the judge at inaugural dog competition

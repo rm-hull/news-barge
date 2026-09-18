@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Former Bradford Bulls ace Jordan Lilley has spoken to the T&A about his
   trauma, as he gets help to try and avoid being out for years with a knee…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21430701.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
+- Health & Fitness
 ---
 
 *(Image: Tom Pearson)*

@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: The average monthly workforce at Morrisons fell from 101,144 to 96,232
   in the year to October last year.
 image: https://www.yorkpress.co.uk/resources/images/21333072.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images)*

@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: 'The French couple went on what proved to be a fatal hike in harsh weather
   conditions despite notices warning of the danger. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/55/97/1200x675_cmsv2_77e13311-8076-533d-9efa-973db1e87f5b-9885597.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The French couple went on what proved to be a fatal hike in harsh weather conditions despite notices warning of the danger.

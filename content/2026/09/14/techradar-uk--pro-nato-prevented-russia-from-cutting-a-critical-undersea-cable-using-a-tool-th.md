@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Russia tested a mysterious underwater device near Svalbard that could
   sever vital cables while leaving investigators with almost nothing
 image: https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4-1600-80.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 ![A SCUBA Diver Checks An Undersea Cable](https://cdn.mos.cms.futurecdn.net/Xbzc5gbBbmLqQPDucDTVq4.jpg) 

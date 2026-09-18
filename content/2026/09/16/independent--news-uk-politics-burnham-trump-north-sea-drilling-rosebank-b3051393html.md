@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Almost 600 climate scientists, health professionals and conservationists
   have warned against approving the Rosebank oil field
 image: https://static.independent.co.uk/2026/09/16/11/7bbdda2c6eeb84deefe62c6c1365a63fY29udGVudHNlYXJjaGFwaSwxNzg5NjQwODI3-2.85730188.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Almost 600 climate scientists, health professionals and conservationists have issued a fresh plea urging Prime Minister Andy Burnham to decline licence applications for the Rosebank oil field in the North Sea.

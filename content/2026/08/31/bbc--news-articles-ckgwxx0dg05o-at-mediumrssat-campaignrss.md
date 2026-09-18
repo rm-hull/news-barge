@@ -9,6 +9,9 @@ published: '2026-08-31T00:00:00Z'
 description: The warning comes after the prime minister said some prisoners serving
   indefinite sentences could be freed to increase prison capacity.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5d4/live/e9abe750-a52b-11f1-8ebe-efa2c58ecfe9.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 Watch: Prisoner release scheme "raises more questions than it answers", says shadow justice secretary Nick Timothy

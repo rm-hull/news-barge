@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Passengers travelling from Newcastle, Durham and Darlington to London
   face major disruption today as engineering work shuts the East Coast Main Line…
 image: https://www.thenorthernecho.co.uk/resources/images/16620199.jpg?type=og-image&xType=0&yType=231
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTHERN ECHO)*

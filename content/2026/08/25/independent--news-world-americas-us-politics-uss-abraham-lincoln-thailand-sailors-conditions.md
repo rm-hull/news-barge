@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The Lincoln, which left the Middle East on Saturday, has not made a port
   call in more than 200 days, a modern-day record for consecutive days at sea
 image: https://static.independent.co.uk/2026/08/25/14/43/AP26225614336401-(1).jpg?trim=3,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 USS Abraham Lincoln is set to dock in Thailand next week, giving sailors a chance for “rest and recreation” after reports of declining conditions and mental health issues onboard the ship.

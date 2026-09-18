@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: A passenger train “narrowly avoided” a crash with a telehandler at a
   rail crossing between York and Knaresborough, a report said.
 image: https://www.gazetteherald.co.uk/resources/images/21446886.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: Pixabay)*

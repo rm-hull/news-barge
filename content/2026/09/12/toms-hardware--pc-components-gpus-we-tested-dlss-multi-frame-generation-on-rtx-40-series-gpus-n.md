@@ -8,6 +8,10 @@ scraped_at: '2026-09-12T15:01:54Z'
 published: '2026-09-12T00:00:00Z'
 description: But as with any mod, there are caveats
 image: https://cdn.mos.cms.futurecdn.net/Fo7xNWht4SGgq8HghfUkRB-2560-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Film & TV
 ---
 
 ![Nvidia GeForce RTX 4090](https://cdn.mos.cms.futurecdn.net/Fo7xNWht4SGgq8HghfUkRB.jpg) 

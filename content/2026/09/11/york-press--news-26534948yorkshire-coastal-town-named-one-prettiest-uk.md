@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Whitby has been named one of the prettiest towns in the UK and it is
   a must visit thanks to its "quirky streets" and famous abbey.
 image: https://www.yorkpress.co.uk/resources/images/21429679.jpg?type=og-image
+categories:
+- Local
+- York
+- History
+- Travel
 ---
 
 *(Image: Getty)*

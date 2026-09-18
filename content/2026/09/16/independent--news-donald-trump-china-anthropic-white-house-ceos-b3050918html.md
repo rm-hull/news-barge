@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Leading voices in AI, including Anthropic’s Dario Amodei and OpenAI’s
   Sam Altman, agree that AI development needs to slow down
 image: https://static.independent.co.uk/2026/09/12/17/Anthropic_AI_Slowdown__7476.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 The leading AI industry voices rarely agree — so when they do, it’s no wonder it captures attention.

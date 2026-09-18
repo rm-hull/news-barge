@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Including an ode to some German metal gods, and a 'detailed, rhythmically
   adept' player two decades in the making.
 image: https://cdn.mos.cms.futurecdn.net/u4Uqwef63ZQx6aaCmVayVG-2560-80.jpg
+categories:
+- Technology & Software
+- Music
 ---
 
 ![Selection of turntables](https://cdn.mos.cms.futurecdn.net/u4Uqwef63ZQx6aaCmVayVG.jpg) 

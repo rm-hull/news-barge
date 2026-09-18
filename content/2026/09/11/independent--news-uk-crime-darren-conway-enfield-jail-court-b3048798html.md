@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:10:00Z'
 published: '2026-09-11T00:00:00Z'
 description: Darren Conway, 52, appeared at Wood Green Crown Court on Friday
 image: https://static.independent.co.uk/2026/09/11/16/01M28EGZY6JE74NNMTZWW2VES6.jpg?trim=320,0,320,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Self-Improvement
 ---
 
 A man has pleaded guilty to encouraging another man to sexually assault the man’s sleeping wife as part of an online forum which shared abuse images.

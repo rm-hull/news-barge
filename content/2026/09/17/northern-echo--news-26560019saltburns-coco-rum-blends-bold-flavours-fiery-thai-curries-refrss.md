@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: From fiery curries to sizzling seafood specials, discover why Coco &
   Rum has become a go-to dining destination in Saltburn.
 image: https://www.thenorthernecho.co.uk/resources/images/21469794.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 Freshly cooked Thai fusion dishes, fiery curries and sizzling seafood specials have made this Saltburn restaurant a favourite among local foodies.

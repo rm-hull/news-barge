@@ -9,6 +9,12 @@ published: '2026-09-15T00:00:00Z'
 description: A popular pub with an annual turnover of £450,000 is up to let after
   its landlords shut its doors.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21306602.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 *(Image: Pixabay)*

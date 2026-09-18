@@ -8,6 +8,10 @@ scraped_at: '2026-08-18T19:35:58Z'
 published: '2026-08-18T00:00:00Z'
 description: But these are just estimates, not actual benchmark results.
 image: https://cdn.mos.cms.futurecdn.net/e2NmgTHJWyu8EQF8dCmiGj-1200-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![AMD](https://cdn.mos.cms.futurecdn.net/e2NmgTHJWyu8EQF8dCmiGj.jpg) 

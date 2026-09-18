@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Duchess of Sussex was believed to have been under consideration for season
   three of Guy Ritchie’s crime caper
 image: https://i.guim.co.uk/img/media/fd136b2eb6658a31f7a1c748a417b02be611fca4/208_81_2605_2084/master/2605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f73dd2121afffb75845aefbe4c0b6ac5
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 The Duchess of Sussex’s reported casting in Guy Ritchie’s The Gentlemen has been withdrawn, it was reported.

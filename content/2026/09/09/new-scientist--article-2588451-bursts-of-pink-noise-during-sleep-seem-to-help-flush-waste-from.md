@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: The human brain flushes out waste products while we sleep and now it
   seems that certain sounds might enhance the process
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311500576.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![vibration sound. Resonance. Pulse. cardiogram](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311500576.jpg?w=840)

@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: The nonpartisan Congressional Budget Office reports that up to $3 billion
   more is being spent on the war each month, depending on the intensity of fighting.
 image: https://images.euronews.com/articles/stories/09/91/50/83/1200x675_cmsv2_38b6b868-fe68-5f9e-986a-7e73e31117ab-9915083.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## The nonpartisan Congressional Budget Office reports that up to $3 billion more is being spent on the war each month, depending on the intensity of fighting.

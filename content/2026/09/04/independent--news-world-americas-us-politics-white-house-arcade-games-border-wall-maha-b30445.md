@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Some people online took issue with the White House gamifying serious
   matters such as immigration
 image: https://static.independent.co.uk/2026/09/04/1/28/Screenshot-2026-09-03-at-9-18-40-PM.jpg?trim=0,81,0,81&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 The White House has launched a new arcade game website where users can build the border wall and make school meals that follow President Donald Trump’s “Make America Healthy Again” movement.

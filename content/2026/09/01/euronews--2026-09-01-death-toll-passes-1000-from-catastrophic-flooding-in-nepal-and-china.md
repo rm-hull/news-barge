@@ -9,6 +9,10 @@ description: The 26 August disaster began with a chain of events high in the Him
   A glacial collapse sent large amounts of rock, ice and meltwater into valleys below,
   triggering powerful floods downstream.
 image: https://images.euronews.com/articles/stories/09/89/66/12/1200x675_cmsv2_4559b715-2423-55c4-8c59-48021da55725-9896612.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## The 26 August disaster began with a chain of events high in the Himalayas. A glacial collapse sent large amounts of rock, ice and meltwater into valleys below, triggering powerful floods downstream.

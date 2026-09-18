@@ -9,6 +9,11 @@ description: Spain will turn its eyes to the sky just 16 days after the historic
   solar eclipse. On 28 August a partial lunar eclipse of magnitude 0.93 will be visible
   across the country and will not require special eye protection.
 image: https://images.euronews.com/articles/stories/09/88/45/56/1200x675_cmsv2_e9c4be82-fed1-5c92-bf5e-9a0db1aa62f9-9884556.jpg
+categories:
+- Europe
+- News & Politics
+- Science
+- History
 ---
 
 ## Spain will turn its eyes to the sky just 16 days after the historic total solar eclipse. On 28 August a partial lunar eclipse of magnitude 0.93 will be visible across the country and will not require special eye protection.

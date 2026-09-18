@@ -9,6 +9,8 @@ published: '2026-08-22T00:00:00Z'
 description: I tested ChatGPT with questions about dieting, relationships and AI companions,
   and quickly saw why age changes everything.
 image: https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![A split image of a woman getting Botox and a ChatGPT image on a smartphone.](https://cdn.mos.cms.futurecdn.net/RYbcnAYX7uAWDLN2hxa3Go.jpg) 

@@ -8,6 +8,9 @@ scraped_at: '2026-08-25T13:07:37Z'
 published: '2026-08-25T00:00:00Z'
 description: Hidden code allegedly gathers detailed device data.
 image: https://cdn.mos.cms.futurecdn.net/t6UKEpSvF7JMTjpnYQS8Re-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Alibaba](https://cdn.mos.cms.futurecdn.net/t6UKEpSvF7JMTjpnYQS8Re.jpg) 

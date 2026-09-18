@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Trent Alexander-Arnold started in midfield for Real Madrid's win over
   Inter - but Jose Mourinho says it is not his best position.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Trent Alexander-Arnold](https://ichef.bbci.co.uk/ace/standard/840/cpsprodpb/6ace/live/5b112f80-abd6-11f1-a291-b542ee92de7c.jpg)

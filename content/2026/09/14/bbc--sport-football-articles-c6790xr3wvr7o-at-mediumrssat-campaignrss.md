@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: How Leeds United and Newcastle United's players rated following their
   Premier League match.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecf4/live/ed0d6f70-b07c-11f1-9592-33d1ede95560.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Dominic Calvert-Lewin celebrates after scoring for Leeds United against Newcastle United](https://ichef.bbci.co.uk/ace/standard/770/cpsprodpb/ecf4/live/ed0d6f70-b07c-11f1-9592-33d1ede95560.jpg)

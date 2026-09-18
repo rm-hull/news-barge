@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:59Z'
 published: '2026-09-11T00:00:00Z'
 description: Michael O’Leary rejected accusations that he had trivialised rape.
 image: https://static.independent.co.uk/2026/09/11/12/cc509270de31da883a1e58f32d78a7a4Y29udGVudHNlYXJjaGFwaSwxNzg5MjEyNzg3-2.85804386.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Comedy & Entertainment
 ---
 
 Ryanair chief Michael O’Leary has refused to apologise after he was accused of trivialising rape.

@@ -10,6 +10,12 @@ description: A petrol bomb attacker, a £1m cocaine dealer, a care home manager 
   stole from vulnerable residents and a businessman armed with a shotgun are among
   the latest cases heard in Yorkshire courts.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/02/15/v2-image-production-19f759f123d3ad5cb2f5d15fe4b55c17Y29udGVudHNlYXJjaGFwaSwxNzg4NDQzODc5-2.11678392.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- True Crime
 ---
 
 # Court round-up: Petrol bomb attacker jailed, £1m cocaine dealer locked up and care home manager sentenced

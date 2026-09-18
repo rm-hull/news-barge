@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: An elusive goshawk swooped into a Spennymoor, County Durham, garden and
   landed on the fence after targeting a pigeon.
 image: https://www.thenorthernecho.co.uk/resources/images/21378960.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Home, Garden & DIY
 ---
 
 *(Image: TINA TAYLOR/CAMERA CLUB)*

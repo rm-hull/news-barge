@@ -9,6 +9,11 @@ published: '2026-09-17T00:00:00Z'
 description: Hopetown Darlington has won the national Sandford Award for Heritage
   Learning, with Councillor Libby McCollom praising the attraction’s…
 image: https://www.thenorthernecho.co.uk/resources/images/21462602.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Hopetown Darlington)*

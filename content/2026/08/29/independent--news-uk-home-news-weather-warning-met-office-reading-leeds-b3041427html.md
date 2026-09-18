@@ -7,6 +7,10 @@ scraped_at: '2026-08-29T13:49:21Z'
 published: '2026-08-29T00:00:00Z'
 description: Some areas within the warning could see 15-25mm of rain in an hour
 image: https://static.independent.co.uk/2026/08/29/9/40/Screenshot-2026-08-29-at-10-35-15.png?trim=0,63,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 A fresh Met Office weather warning has been issued for the bank holiday weekend.

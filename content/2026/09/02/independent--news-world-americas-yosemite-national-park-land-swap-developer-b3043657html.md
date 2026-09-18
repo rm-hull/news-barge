@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The land would be used to build a roadway connecting the park to rental
   cabins and a lodge for tourists
 image: https://static.independent.co.uk/2026/06/25/13/2281729358..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 The Trump administration is reportedly considering a land swap that would give part of Yosemite to a private developer who wants to build a road connecting a lodge and rental cabins to the national park.

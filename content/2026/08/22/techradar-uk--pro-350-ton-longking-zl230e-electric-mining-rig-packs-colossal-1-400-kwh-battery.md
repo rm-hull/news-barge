@@ -8,6 +8,9 @@ published: '2026-08-22T00:00:00Z'
 description: China unveils a monster 350-ton electric mining truck that charges almost
   fully in under half an hour
 image: https://cdn.mos.cms.futurecdn.net/x3Xe2VuAwF8owq37qFQBoH-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Zijin Longking electric mining truck](https://cdn.mos.cms.futurecdn.net/x3Xe2VuAwF8owq37qFQBoH.jpg) 

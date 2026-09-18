@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: The dog named Prince fatally injured Morgan Dorsett inside a flat at
   Cobhorn Drive, Withywood, Bristol, on February 26 last year
 image: https://static.independent.co.uk/2026/09/04/11/01M1P0NTTGH64NVB8B3MP3CZ7H.jpg?trim=145,0,224,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 A woman who was in charge of an out of control XL bully which killed her teenage cousin has avoided prison.

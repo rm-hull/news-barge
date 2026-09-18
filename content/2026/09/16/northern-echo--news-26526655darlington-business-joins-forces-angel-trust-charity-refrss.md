@@ -8,6 +8,11 @@ published: '2026-09-16T00:00:00Z'
 description: Threaded Workwear UK, based in Darlington, has become the latest corporate
   partner of Bishop Auckland charity Angel Trust.
 image: https://www.thenorthernecho.co.uk/resources/images/21456383.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A Darlington-based company has become the latest corporate partner of Bishop Auckland charity Angel Trust.

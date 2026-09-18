@@ -9,6 +9,11 @@ published: '2026-08-23T00:00:00Z'
 description: THE Holwick Scars are one of upper Teesdale’s most prominent geological
   features, beloved of photographers and here our regular contributor,…
 image: https://www.thenorthernecho.co.uk/resources/images/21339751.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 The Holwick Scars are one of upper Teesdale’s most prominent geological features, beloved of photographers and here our regular contributor, Northern Perspectives, uses his drone to capture the drama of the cliffs.

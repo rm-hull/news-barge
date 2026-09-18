@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: The singer has been slowly returning to performing after taking a break
   last year to "work on myself".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0fc2/live/5d0d2160-a495-11f1-8395-fb1eae51ae18.jpg
+categories:
+- UK
+- News & Politics
+- Music
 ---
 
 ![Singer Lola Young is pictured on stage at the Reading music festival. She is smiling while holding a microphone. She is wearing a black top with a tartan trim.](https://ichef.bbci.co.uk/ace/standard/699/cpsprodpb/0fc2/live/5d0d2160-a495-11f1-8395-fb1eae51ae18.jpg)

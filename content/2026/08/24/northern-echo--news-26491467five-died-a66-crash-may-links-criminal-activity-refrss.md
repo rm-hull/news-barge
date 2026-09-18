@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: Five young men who died after their vehicle hit a police car on the A66
   at South Bank may have had links to “serious and organised criminal…
 image: https://www.thenorthernecho.co.uk/resources/images/21360941.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Five young men who died after their vehicle hit a police car on a dual carriageway may have had links to “serious and organised criminal activity”, police said.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Harrogate business Yorkshire Exhibition Solutions has gone into liquidation
   owing more than £500,000.
 image: https://www.yorkpress.co.uk/resources/images/21388081.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: NQ)*

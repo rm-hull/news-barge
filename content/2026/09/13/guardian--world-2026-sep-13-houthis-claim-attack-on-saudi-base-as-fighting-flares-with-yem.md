@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Iran-allied Houthis say drones and missiles used in attack that targeted
   ‘weapons depots and command and control centres’ in southern Saudi Arabia
 image: https://i.guim.co.uk/img/media/ce72775e12cc89c1f7da61c16a058312a3a7f694/846_0_4643_3717/master/4643.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab0a6352251341f201539a5dcd62e47a
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Houthi fighters on Sunday said they used drones and missiles to attack a military base in southern Saudi Arabia as renewed fighting with Yemen’s government forces led growing numbers of civilians to flee.

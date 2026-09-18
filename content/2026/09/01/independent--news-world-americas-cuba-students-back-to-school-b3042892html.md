@@ -10,6 +10,10 @@ description: A severe shortfall of instructors forced the government to deploy o
   3,000 teachers from eastern provinces to schools in Havana, as nationwide teacher
   coverage plummeted to 73% across Cuba
 image: https://static.independent.co.uk/2026/09/01/16/2292505234..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
 ---
 
 The Barroso family set off at sunrise on Tuesday, hitching a wooden cart to a borrowed horse to take one of their daughters to school on the opening day of classes for many students throughout Cuba.

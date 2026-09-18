@@ -9,6 +9,10 @@ description: Another summer of record heat, drought and wildfires is leaving Eur
   governments with a bill that will land months later in the form of emergency relief,
   farm compensation, infrastructure repairs, unpaid taxes and food inflation.
 image: https://images.euronews.com/articles/stories/09/89/01/63/1200x675_cmsv2_d1d6f60f-589b-5f2a-b4f7-06e6feef4b87-9890163.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Another summer of record heat, drought and wildfires is leaving European governments with a bill that will land months later in the form of emergency relief, farm compensation, infrastructure repairs, unpaid taxes and food inflation.

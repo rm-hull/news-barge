@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The rail industry's national passenger information service said there
   is "flexibility" for ticket holders whose travel plans were…
 image: https://www.gazetteherald.co.uk/resources/images/21430020.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Gareth Fuller / PA Wire)*

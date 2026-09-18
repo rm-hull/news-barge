@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Holiday pay calculations, which came into force earlier this year, are
   causing confusion and concern for employers in Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21430260.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 *(Image: Ron Wain of digital content specialist Deep South Media)*

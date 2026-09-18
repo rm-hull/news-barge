@@ -9,6 +9,10 @@ description: 'The facility will research and test technology designed to detect 
   counter unauthorised drones around airports, major events and critical infrastructure.
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/86/44/79/1200x675_cmsv2_cd73fc17-29cf-56b0-bfb6-8bb42fa90f3f-9864479.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## The facility will research and test technology designed to detect and counter unauthorised drones around airports, major events and critical infrastructure.

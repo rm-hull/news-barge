@@ -9,6 +9,10 @@ published: '2026-09-18T00:00:00Z'
 description: Aid to lower-income countries fell by almost 7%, while higher-income
   countries saw their share of Britain’s aid budget increase
 image: https://i.guim.co.uk/img/media/c895003e727df4b341ca0ff70304a59cfd840c13/836_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2881b27b814c8d0bf76a080e4798d717
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The world’s poorest countries were worst hit by British aid cuts under Keir Starmer’s government, while higher-income countries saw their share of aid increase, new figures reveal.

@@ -8,6 +8,8 @@ scraped_at: '2026-09-15T04:46:02Z'
 published: '2026-09-14T00:00:00Z'
 description: The Galaxy Buds On could launch soon
 image: https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![The Samsung Galaxy Buds 4 Pro in their case, atop a Galaxy S26 Ultra.](https://cdn.mos.cms.futurecdn.net/Nb6pBzw2zaxiGWTw2tcnpJ.jpg) 

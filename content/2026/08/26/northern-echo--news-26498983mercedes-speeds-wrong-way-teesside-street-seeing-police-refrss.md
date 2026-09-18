@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: A car sped the 'wrong way' down Thornaby high street after getting spooked
   by seeing a police vehicle, Cleveland Police said.
 image: https://www.thenorthernecho.co.uk/resources/images/20425712.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: POLICE)*

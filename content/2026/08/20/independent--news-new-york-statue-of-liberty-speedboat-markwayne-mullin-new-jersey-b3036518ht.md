@@ -10,6 +10,10 @@ description: The pilot of a speedboat that capsized during a tour around the Sta
   of Liberty has been arrested by U.S. immigration authorities who say he was in the
   country illegally
 image: https://static.independent.co.uk/2026/08/20/16/New_York_Harbor_Capsized_Boat_93579.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 The pilot of a speedboat that capsized during a tour around the Statue of Liberty, drowning an infant and her mother, has been arrested by U.S. immigration authorities who say he was in the country illegally.

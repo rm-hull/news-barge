@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Fundraising platforms are organizing this month to raise more money for
   underfunded Black-led nonprofits
 image: https://static.independent.co.uk/2026/08/21/13/Philanthropy_Back-Black_3552_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 Black nonprofit fundraisers are turning to their own communities for support this month, stressing everyday donors' power at a time when philanthropy is growing more concentrated among the affluent and some major funders have de-prioritized diversity in their grantmaking.

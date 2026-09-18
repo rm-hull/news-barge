@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: A motorcyclist has died following an accident on a road in the East Riding
   of Yorkshire.
 image: https://www.yorkpress.co.uk/resources/images/21065858.jpg?type=og-image
+categories:
+- Local
+- York
+- Automotive
 ---
 
 *(Image: Craig Manning / Newsquest)*

@@ -8,6 +8,9 @@ published: '2026-08-19T00:00:00Z'
 description: During a recent visit to Generalist AI, I watched a robotic arm improvise
   and use a banana as a tool.
 image: https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 Last week, I ventured a whopping 15 minutes from my house to see robots do some mind-boggling, jaw-dropping stuff.

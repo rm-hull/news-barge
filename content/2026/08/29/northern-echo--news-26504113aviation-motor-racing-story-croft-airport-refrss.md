@@ -9,6 +9,11 @@ published: '2026-08-29T00:00:00Z'
 description: ONCE, a former RAF airfield on the outskirts of Darlington was being
   marketed as a new civilian airport from where you could catch a plane to watch…
 image: https://www.thenorthernecho.co.uk/resources/images/21384396.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 ONCE, a former RAF airfield on the outskirts of Darlington was being marketed as a new civilian airport from where you could catch a plane to watch the high flying – and it was not Middleton St George.

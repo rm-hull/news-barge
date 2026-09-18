@@ -9,6 +9,12 @@ description: British rockers Oasis on Monday announced a new world tour in 2027 
   shows planned in Paris, Munich, Barcelona and Rome after the sell-out success of
   their surprise comeback tour last year.
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-AFP__20260905__C7FR7F2__v1__MidRes__776551525.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Travel
+- History
 ---
 
 British rockers Oasis on Monday announced a new world tour in 2027 with shows planned in Britain, Europe, and the US after the sell-out success of their surprise comeback tour last year.

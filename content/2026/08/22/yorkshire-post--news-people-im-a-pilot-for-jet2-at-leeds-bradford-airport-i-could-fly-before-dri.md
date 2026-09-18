@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: Pilot Earl Kingston can remember the registration number of his first
   car, a golf Ford Fiesta.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmJiZTM3YTQxLTY5OGYtNDk5Mi04YzQxLTY3YjU2MWM2ZGE0Mzo4ZThkYjAwZC01NjhhLTQwYmMtYjIwYS01MWNhOTVkMDAyYWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Technology & Software
 ---
 
 # 'I'm a pilot for Jet2 at Leeds Bradford Airport - I could fly before driving'

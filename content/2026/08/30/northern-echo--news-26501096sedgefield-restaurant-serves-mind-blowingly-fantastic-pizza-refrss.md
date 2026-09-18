@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: Julia & Sofia's in Sedgefield is praised by diners for its “mind-blowingly
   fantastic pizza” and has added to its growing list of top…
 image: https://www.thenorthernecho.co.uk/resources/images/19934612.jpg?type=og-image&xType=0&yType=49
+categories:
+- Local
+- UK
+- News & Politics
+- Food & Cooking
 ---
 
 *(Image: Google)*

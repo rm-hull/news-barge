@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Karen Rowland, who lives in Reading, saw the second plane hit the World
   Trade Center 25 years ago.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34e1/live/5c9674d0-ad27-11f1-980e-4fc6f1211def.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Karen Rowland smiling at the camera, wearing a green jumper with yellow flourishes. She has short mousey hair.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/34e1/live/5c9674d0-ad27-11f1-980e-4fc6f1211def.png)

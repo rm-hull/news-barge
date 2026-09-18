@@ -8,6 +8,12 @@ published: '2026-09-04T00:00:00Z'
 description: An MP has written to the Reform-run Bradford Council urging it to use
   around £15m of Government funding on reopening Bingley Pool or risk losing the money.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjRkMGQ2OTVkLTMwM2QtNDBiNC04M2I3LWVkNjU0MWEyNGU4OTpkYzZkMTlhNS1kMzU4LTQ5ZWMtODhiNy0xMjVhMWQ0ZGM3ZjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 # Reform urged to use £15m in cancelled funding on reopening Bingley Pool

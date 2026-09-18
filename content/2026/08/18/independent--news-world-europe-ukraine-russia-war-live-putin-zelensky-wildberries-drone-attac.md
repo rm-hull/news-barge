@@ -9,6 +9,10 @@ published: '2026-08-18T00:00:00Z'
 description: The attack on the rocket fuel plant was part of what Moscow says was
   Kyiv’s largest drone attack of 2026
 image: https://static.independent.co.uk/2026/08/17/11/41/Russia-split-copy.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Ukraine has launched an attack on a Russian rocket fuel plant in the bordering Rostov region, targeting workshops that produce explosives and gunpowder, the military has said.

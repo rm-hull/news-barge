@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: The former child actor was found with a fully loaded .40 caliber handgun,
   complete with a 15-round magazine
 image: https://static.the-independent.com/2026/09/18/12/49/bobby.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Film & TV
 ---
 
 An actor who starred in the hit 2000’s Disney sitcom *That’s So Raven* has been sentenced to 30 months behind bars at a federal jail for a firearm charge.

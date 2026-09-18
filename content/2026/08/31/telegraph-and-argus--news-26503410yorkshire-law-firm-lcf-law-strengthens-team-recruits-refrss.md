@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: A LAW firm has welcomed five new recruits as it continues to grow its
   team and expand its services
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383353.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

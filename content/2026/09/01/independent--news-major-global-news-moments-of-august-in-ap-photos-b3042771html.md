@@ -9,6 +9,10 @@ description: From front-page news to powerful moments you may have missed, this 
   features compelling images from around the world published by The Associated Press
   in August.
 image: https://static.independent.co.uk/2026/09/01/14/APTOPIX_Nepal_Flash_Floods_32584.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 From front-page news to powerful moments you may have missed, this gallery features compelling images from around the world published by The Associated Press in August.

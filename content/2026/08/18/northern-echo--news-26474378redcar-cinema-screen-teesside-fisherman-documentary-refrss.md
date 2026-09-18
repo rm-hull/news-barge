@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: A Teesside fisherman’s fight for answers after thousands of dead crabs
   washed up on the North East coast will be on the big screen at Regent…
 image: https://www.thenorthernecho.co.uk/resources/images/21335448.jpg?type=og-image&xType=0&yType=360
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 A Teesside fisherman’s fight for answers after thousands of dead crabs washed up on the North East coast will be on the big screen next month.

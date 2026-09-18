@@ -8,6 +8,13 @@ published: '2026-09-03T00:00:00Z'
 description: A Washington-based property professional with almost 40 years of experience
   in the housing sector is helping landlords and investors navigate the…
 image: https://www.thenorthernecho.co.uk/resources/images/21401011.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Real Estate
+- Business & Entrepreneurship
 ---
 
 *(Image: Angela Carrington BA(Hons)CPP)*

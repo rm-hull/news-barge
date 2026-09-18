@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate is to host a national event about tackling retail crime in
   England as violence, abuse and theft hit alarming levels.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjYwOTUxZDJhLTI4NGQtNGJkNS1hZWQ5LWYwMzM2YzgzZWMyNDo2ZGE1ODM1ZC1lMzJmLTQzZmUtYjNlMi01ZTYyMGVkM2RlZGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 # Harrogate is to host national event on tackling alarming levels of violence, abuse and theft in England

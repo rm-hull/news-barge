@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: There are 12 new contestants set to enter the iconic tent for the 17th
   series of the Channel 4 baking competition.
 image: https://www.thenorthernecho.co.uk/resources/images/21428634.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Patch Dolan/Channel 4/Love Productions, via PA Wire)*

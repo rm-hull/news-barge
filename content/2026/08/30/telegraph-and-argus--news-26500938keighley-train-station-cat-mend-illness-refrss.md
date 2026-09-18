@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: A much-loved cat is on the mend after being diagnosed with a difficult
   illness.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21248854.jpg?type=og-image&xType=0&yType=779
+categories:
+- Local
+- Bradford
+- News & Politics
+- Health & Fitness
 ---
 
 A much-loved cat is on the mend after being diagnosed with a serious illness.

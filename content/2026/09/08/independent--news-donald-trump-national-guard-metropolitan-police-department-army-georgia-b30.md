@@ -10,6 +10,9 @@ description: A member of the Georgia National Guard deployed in Washington, D.C.
   as part of President Donald Trump’s task force to fight crime has been arrested
   for pulling a gun on a fellow Guard member in a dispute over regulation haircuts
 image: https://static.independent.co.uk/2026/08/28/15/APTOPIX_March_on_Washington_National_Guard__4162.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A member of the Georgia National Guard deployed in Washington, D.C., as part of President Donald Trump’s task force to fight crime has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over regulation haircuts.

@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: Rail passengers are being urged to only travel if essential this bank
   holiday with major disruption expected.
 image: https://www.gazetteherald.co.uk/resources/images/20934240.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 *(Image: Staff)*

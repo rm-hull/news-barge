@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Two people living in the alleged stash house were arrested and slapped
   with drug charges
 image: https://static.the-independent.com/2026/09/15/23/15/Screenshot-2026-09-15-at-7-37-25-PM.jpg?trim=0,4,0,3&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Federal agents have arrested a pair of suspects after 42 kilograms of fentanyl, a golden gun and a small alligator were found at a luxury apartment in downtown Los Angeles last week.

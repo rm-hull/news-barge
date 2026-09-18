@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: In letter to Macron and Burnham, more than 100 senior figures accuse
   Israel of ethnic cleansing and call for measures including trade ban
 image: https://i.guim.co.uk/img/media/dd5b33bf9f870a1fc5c8de54279eac6bbbe6119d/402_0_5484_4387/master/5484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67662748725bce8ad6795803e75eef60
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state.

@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: Vertu Motors has become the first Vertu dealership to represent Chinese
   electric vehicle brand Leapmotor, launching the partnership at its Vauxhall…
 image: https://www.thenorthernecho.co.uk/resources/images/21366697.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
+- Technology & Software
 ---
 
 *(Image: Vertu Motors)*

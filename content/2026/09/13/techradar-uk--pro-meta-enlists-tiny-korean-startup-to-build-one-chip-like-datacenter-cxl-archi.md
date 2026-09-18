@@ -8,6 +8,8 @@ published: '2026-09-13T00:00:00Z'
 description: Meta's new CXL design could cut cross-rack AI latency from microseconds
   to only several hundred nanoseconds
 image: https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV-1920-80.png
+categories:
+- Technology & Software
 ---
 
 ![Meta and Panmnesia chip](https://cdn.mos.cms.futurecdn.net/pVdxPdmrrXkVxR4MfZxiTV.png) 

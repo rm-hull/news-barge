@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: A North Yorkshire man who strangled his girlfriend when she was 28 weeks
   pregnant with his child and damaged her voice has been jailed.
 image: https://www.yorkpress.co.uk/resources/images/21454640.jpg?type=og-image&xType=0&yType=52
+categories:
+- Local
+- York
+- Family & Parenting
 ---
 
 Ben Stevenson strangled his pregnant girlfriend (Image: North Yorkshire Police)

@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Health Secretary Yvette Cooper warned that ‘extreme demand’ on the service
   is ‘no longer confined to winter’
 image: https://static.independent.co.uk/2026/08/03/15/01KZ377H66JJEDDZ3E41VH1KKX.jpg?trim=0,372,0,372&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 The NHS waiting list for routine hospital treatment in England rose to its highest level in nine months as the health service faced the “busiest summer in its history”.

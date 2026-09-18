@@ -11,6 +11,10 @@ description: Investors want founders who understand the financial reality of the
   sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha
   Orloff, founder and CEO of Puzzle […]
 image: https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet.

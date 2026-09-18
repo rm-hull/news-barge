@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Police are investigating a “large amount” of cabling being stolen from
   Harrogate Hospital.
 image: https://www.gazetteherald.co.uk/resources/images/21419809.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: Supplied)*

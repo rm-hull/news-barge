@@ -7,6 +7,8 @@ scraped_at: '2026-09-01T13:28:29Z'
 published: '2026-09-01T00:00:00Z'
 description: AI doesn’t need to become superintelligent to become dangerous
 image: https://cdn.mos.cms.futurecdn.net/A8pTq7Zta42Tdh4SiiinsE-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Nvidia GTC 2025 Jensen Huang keynote](https://cdn.mos.cms.futurecdn.net/A8pTq7Zta42Tdh4SiiinsE.jpg) 

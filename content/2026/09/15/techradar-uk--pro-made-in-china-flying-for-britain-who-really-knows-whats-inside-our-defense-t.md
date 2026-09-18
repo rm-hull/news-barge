@@ -8,6 +8,8 @@ scraped_at: '2026-09-15T11:26:43Z'
 published: '2026-09-15T00:00:00Z'
 description: Chinese tech in Royal Navy Drone incident serves as a warning
 image: https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Concept art representing cybersecurity principles](https://cdn.mos.cms.futurecdn.net/JpXukHGqkZ8gapEzDQNqRW.jpg) 

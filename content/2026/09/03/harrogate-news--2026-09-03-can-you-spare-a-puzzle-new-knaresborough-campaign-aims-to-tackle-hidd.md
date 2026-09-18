@@ -10,6 +10,10 @@ description: Not-for-profit care provider, Harrogate Neighbours and Knaresboroug
   Library, have joined forces to launch Puzzles for Pensioners – an initiative which
   aims
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/09/Puzzles-for-Pensioners-Collection-point-2.webp
+categories:
+- Local
+- Harrogate
+- News & Politics
 ---
 
 Not-for-profit care provider, Harrogate Neighbours and Knaresborough Library, have joined forces to launch Puzzles for Pensioners – an initiative which aims to bring companionship, conversation and cognitive stimulation to isolated older people.

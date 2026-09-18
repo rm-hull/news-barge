@@ -8,6 +8,9 @@ scraped_at: '2026-09-04T12:42:16Z'
 published: '2026-09-04T00:00:00Z'
 description: Segway Navimow promises no blade left untrimmed
 image: https://cdn.mos.cms.futurecdn.net/ck77fetjnHm7jnB2ZQWJyV-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Segway Navimow Lawnbot on show at IFA](https://cdn.mos.cms.futurecdn.net/ck77fetjnHm7jnB2ZQWJyV.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: There is a continuing row over whether it matters if such a broad spectrum
   of people are defined as having autism
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1900/live/5d4ca960-9ca8-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 ![Catherine Burns](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b00a/live/3312d620-9ca7-11f1-b109-879e35c24276.png)

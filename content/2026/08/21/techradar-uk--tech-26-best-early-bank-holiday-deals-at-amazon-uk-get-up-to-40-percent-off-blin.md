@@ -10,6 +10,11 @@ description: I've looked through the early bank holiday sale at Amazon UK and pi
   out 26 of the best deals that are actually worth buying from Blink, Fitbit, Lenovo,
   Lego, Ninja, and more.
 image: https://cdn.mos.cms.futurecdn.net/rFubauhELFMKTSDVUhv986-2560-80.jpg
+categories:
+- Technology & Software
+- Personal Finance & Investing
+- Shopping & Deals
+- Business & Entrepreneurship
 ---
 
 ![A collage featuring six tech products on sale now at Amazon UK, including a Blink doorbell and camera, Shokz headphones, Fitbit Inspire 3, Ninja air fryer, Lenovo laptop and Remarkable tablet.](https://cdn.mos.cms.futurecdn.net/rFubauhELFMKTSDVUhv986.jpg) 

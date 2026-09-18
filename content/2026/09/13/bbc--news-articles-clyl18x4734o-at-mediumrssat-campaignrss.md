@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Burnham has said those who take risks should be backed by government,
   but his government has been criticised for increasing business costs.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![A medium close up of Andy Burnham wearing a blue suit and an open-collar white shirt with trees behind him in soft focus](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg)

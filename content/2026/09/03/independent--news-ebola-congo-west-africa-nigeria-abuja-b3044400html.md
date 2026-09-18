@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The Ebola outbreak in eastern Congo is spreading faster than efforts
   to track and contain it
 image: https://static.independent.co.uk/2026/09/03/20/Congo_Ebola_21686.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Authorities in eastern Congo are shifting to a village-centered approach to fight the Ebola outbreak, Africa’s top public health agency said Thursday, as the virus continues to spread faster than efforts to track and contain it.

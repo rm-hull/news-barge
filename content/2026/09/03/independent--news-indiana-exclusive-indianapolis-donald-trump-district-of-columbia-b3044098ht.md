@@ -8,6 +8,11 @@ scraped_at: '2026-09-03T12:48:22Z'
 published: '2026-09-03T00:00:00Z'
 description: Childcare costs are straining families
 image: https://static.independent.co.uk/2026/09/03/05/Education_Childcare_Waitlists_75637.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
 ---
 
 There's the mother of two who needs a full-time job to keep up with the bills, but can’t afford full-time childcare. There’s the medical technician who stopped buying groceries and turned to food banks so she could pay for her infant's care.

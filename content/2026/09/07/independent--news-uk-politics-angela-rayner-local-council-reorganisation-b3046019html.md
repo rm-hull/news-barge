@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Reform UK-led Kent County Council was scheduled to consider a judicial
   review at a meeting
 image: https://static.independent.co.uk/2026/05/08/10/1441730187.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Law & Justice
 ---
 
 Decisions regarding flagship local government reorganisation schemes have been officially withdrawn as the government launches a review of its plans after receiving fresh legal advice.

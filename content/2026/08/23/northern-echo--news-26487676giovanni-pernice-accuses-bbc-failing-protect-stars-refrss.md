@@ -8,6 +8,11 @@ published: '2026-08-23T00:00:00Z'
 description: Former Strictly Come Dancing professional Giovanni Pernice has accused
   the BBC of failing to safeguard its stars
 image: https://www.thenorthernecho.co.uk/resources/images/21358626.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Giovanni Pernice has accused the BBC of failing to protect its stars on Strictly Come Dancing.

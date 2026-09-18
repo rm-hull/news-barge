@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T12:50:50Z'
 published: '2026-09-08T00:00:00Z'
 description: Raiders broke into the museum and took four paintings
 image: https://static.independent.co.uk/2026/09/08/08/2293644784..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 A manhunt is underway after thieves broke into the Renoir Museum on the French Riviera early on Tuesday and stole several paintings worth an estimated €9 million, the local mayor said.

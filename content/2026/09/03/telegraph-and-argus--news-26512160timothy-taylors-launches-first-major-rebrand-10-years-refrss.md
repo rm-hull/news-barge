@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: TIMOTHY Taylor’s in Keighley has unveiled its first major brand refresh
   in more than a decade.
 image: https://www.thetelegraphandargus.co.uk/resources/images/18863227.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Timothy Taylor's)*

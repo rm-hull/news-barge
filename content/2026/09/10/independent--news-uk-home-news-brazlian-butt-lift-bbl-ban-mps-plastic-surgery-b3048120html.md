@@ -10,6 +10,11 @@ description: People are performing surgery ‘involving scalpels and vast quanti
   of anaesthetic’ in living rooms and salons, according to the Women and Equalities
   Committee
 image: https://static.independent.co.uk/2026/02/18/00/17215909-d3261cd9-14fe-4a42-b635-2cb81d19ee13.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Health & Fitness
 ---
 
 Failure to swiftly outlaw untrained practitioners from offering dangerous cosmetic interventions such as liquid Brazilian butt lifts (BBLs) is "prolonging a significant risk to patient safety", MPs have warned.

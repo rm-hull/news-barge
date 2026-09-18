@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: A AMAZING effort by a group of young children has saved hundreds of stranded
   fish and averted a 'near tragedy'.
 image: https://www.gazetteherald.co.uk/resources/images/21386865.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- Harrogate
+- York
+- Family & Parenting
 ---
 
 A AMAZING effort by a group of young children has saved hundreds of stranded fish and averted a 'near tragedy'.

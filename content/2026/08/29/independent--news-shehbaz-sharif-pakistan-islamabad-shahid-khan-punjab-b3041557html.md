@@ -10,6 +10,9 @@ description: Pakistani Prime Minister Shehbaz Sharif has ordered the suspension 
   eight officials and criminal proceedings after a fire killed 14 newborns at an Islamabad
   hospital
 image: https://static.independent.co.uk/2026/08/29/17/Pakistan_Hospital_Fire_61371.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Pakistani Prime Minister Shehbaz Sharif on Saturday ordered the suspension of eight officials and directed that criminal proceedings be initiated against those found responsible for a fire that killed 14 newborns at an Islamabad hospital, his office said.

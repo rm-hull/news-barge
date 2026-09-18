@@ -11,6 +11,11 @@ description: Although it is published in the spring, your correspondent has only
   plenty of those listed have inherited or married into money. While others do clever
   things with technology that are of no interest whatsoever to this country bumpkin.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjVhNjhkNGVlLTYwNjUtNDNhMy05YjMwLWUyYzdkNWU4OTA5OTpmNDMxYzlkZC03ZDRmLTQ3YWMtYTYzOC01NDEzYzcxZmFhMmU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # The Government needs to tap into the brilliant brains featured on the Rich List - Sarah Todd

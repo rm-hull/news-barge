@@ -8,6 +8,12 @@ published: '2026-08-20T00:00:00Z'
 description: West Yorkshire Mayor Tracy Brabin has been running an economic inactivity
   trailblazer, to try and get people back into work or training.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/07/28/03/v2-image-production-1ef1aab8897b89fa48251934a3214f7bY29udGVudHNlYXJjaGFwaSwxNzc4MTM3Njk1-2.84439023.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 # Exclusive:'Potential' for more employment support to be handed down to mayors

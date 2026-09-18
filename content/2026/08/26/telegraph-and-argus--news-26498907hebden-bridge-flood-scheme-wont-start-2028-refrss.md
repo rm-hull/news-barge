@@ -9,6 +9,12 @@ published: '2026-08-26T00:00:00Z'
 description: A town's £81 million flood alleviation scheme is not now likely to start
   until 2028, the Environment Agency has confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21376503.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

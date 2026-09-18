@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: There were a number of zoos in Gaza before the conflict between Israel
   and Hamas erupted
 image: https://static.independent.co.uk/2026/08/18/08/2026-08-18T071357Z_299893330_RC2YYMAOWM8S_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-ZOO.JPG?trim=0,40,0,40&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Young visitors walking into a zoo close to Gaza's Nuseirat refugee camp were greeted by a lion barely acknowledging them through its cage bars, alongside listless chimpanzees sitting in their enclosure.

@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Princess Astrid "represented the Royal House in a warm and dutiful manner",
   the new king, Haakon VIII, said in a tribute to his aunt.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![Princess Astrid is shown with white hair and wearing a thick coat aged 93 in May 2025](https://ichef.bbci.co.uk/ace/standard/1056/cpsprodpb/e791/live/899c1460-adfb-11f1-8169-6fdea7f79791.png)

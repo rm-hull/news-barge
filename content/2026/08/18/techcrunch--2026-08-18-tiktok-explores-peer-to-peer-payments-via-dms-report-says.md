@@ -8,6 +8,9 @@ published: '2026-08-18T00:00:00Z'
 description: If rolled out, the feature would use the social media service’s TikTok
   Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.
 image: https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 TikTok is developing a feature that would allow users to send each other money via direct messages, according to a new report from Bloomberg. If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.

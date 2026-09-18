@@ -10,6 +10,10 @@ description: A journalist was unexpectedly named the next king of a Ugandan king
   that recently lost its monarch who had ascended the throne as an infant and died
   last month at 34
 image: https://static.independent.co.uk/2026/08/28/08/Uganda_Death_of_Boy_King_5482_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 A news anchor was unexpectedly named the next monarch of Uganda's Tooro Kingdom on Wednesday following last month's death at age 34 of a monarch once known as the “boy king” because of his ascension to the throne as an infant.

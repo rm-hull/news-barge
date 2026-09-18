@@ -8,6 +8,8 @@ scraped_at: '2026-08-19T01:49:37Z'
 published: '2026-08-18T00:00:00Z'
 description: Was it unwittingly enabling the Russian war machine's drones?
 image: https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![drone](https://cdn.mos.cms.futurecdn.net/mXSuzxM6LqjP3BH7Phzu4S.jpg) 

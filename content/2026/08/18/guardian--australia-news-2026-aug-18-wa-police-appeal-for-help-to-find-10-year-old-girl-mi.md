@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Lyndel Ningella was last seen leaving home in Butler on Saturday evening
   prompting concerns about her safety
 image: https://i.guim.co.uk/img/media/1a7dd0f2d52b1e75e1e16c8ca847f06cf4ef7d91/0_186_1924_1539/master/1924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c862402b76c44a75d88eb69b587fedf
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Western Australia police have appealed for help in finding a 10-year-old girl who went missing from Perth’s outer northern suburbs on Saturday.

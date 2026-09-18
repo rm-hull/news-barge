@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: OS index examines which ‘urban heat islands’ suffer the most – and which
   cope the best with rising temperatures
 image: https://i.guim.co.uk/img/media/49d7b3f457e0616c21017ac579210da91b6c4fa1/197_0_4948_3958/master/4948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cab1675f63e8fe8f07d4a9e527727c86
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 Portsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that warm the most by the end of this century as global heating turns British cities into urban heat islands, according to research.

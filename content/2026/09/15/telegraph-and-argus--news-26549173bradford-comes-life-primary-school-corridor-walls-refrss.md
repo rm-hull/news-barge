@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A NEW doodle map mural has brought Bradford to life on the walls of a
   primary school.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453650.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Supplied)*

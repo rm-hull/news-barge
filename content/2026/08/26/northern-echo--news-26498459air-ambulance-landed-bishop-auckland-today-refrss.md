@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: A person was taken to hospital after the air ambulance landed in Bishop
   Auckland on Wednesday.
 image: https://www.thenorthernecho.co.uk/resources/images/21208059.jpg?type=og-image&xType=0&yType=8
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: GNAAS)*

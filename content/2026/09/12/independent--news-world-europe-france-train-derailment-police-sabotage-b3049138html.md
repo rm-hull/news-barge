@@ -7,6 +7,9 @@ scraped_at: '2026-09-12T16:37:19Z'
 published: '2026-09-12T00:00:00Z'
 description: The train, carrying 186 passengers, derailed on Friday evening in Normandy
 image: https://static.independent.co.uk/2026/09/12/16/2294356543..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 French authorities are investigating whether sabotage caused a train derailment that injured 44 people in Normandy, after a piece of rail was found on the track.

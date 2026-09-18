@@ -8,6 +8,9 @@ published: '2026-09-09T00:00:00Z'
 description: The iPhone with a folding screen is the first radical redesign of Apple’s
   flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.
 image: https://media.wired.com/photos/6aa1a4df50b31d22e99340c6/191:100/w_1280,c_limit/Apple-iPhone-Duo-colors-260909.jpg
+categories:
+- Technology & Software
+- Science
 ---
 
 The iPhone Duo is Apple’s first folding smartphone. The company announced the device at its annual September event at Apple Park in Cupertino, California.

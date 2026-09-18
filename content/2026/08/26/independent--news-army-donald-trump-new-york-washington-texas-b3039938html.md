@@ -10,6 +10,10 @@ description: The U.S. Army announced Wednesday that it plans to add nuclear micr
   at five military bases from New York to Texas as a reliable source of energy independent
   of the commercial electric grid
 image: https://static.independent.co.uk/2026/08/26/21/Army_Nuclear_Reactors_97274.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The U.S. Army announced Wednesday that it plans to add nuclear microreactors at five military bases from New York to Texas as a reliable source of energy independent of the commercial electric grid.

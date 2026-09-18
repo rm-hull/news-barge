@@ -10,6 +10,10 @@ description: Brigid Lynch was working along a wooded creek in a mountainous part
   the San Francisco Bay Area on a habitat restoration project when something that
   didn’t look like the rocks she’d been studying caught her eye
 image: https://static.independent.co.uk/2026/09/12/00/Mastodon_Tooth_39583.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Brigid Lynch was working along a wooded creek in a mountainous part of the San Francisco Bay Area when something that didn't look like the rocks she'd been studying caught her eye. It turned out to be the fossilized tooth of a Pacific mastodon.

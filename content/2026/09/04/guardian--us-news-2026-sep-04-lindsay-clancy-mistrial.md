@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Defense lawyer had asked for time to request emergency stay after jury
   was split 11 to one
 image: https://i.guim.co.uk/img/media/5e36f65e1d4b16732b12e850ac6afe8de45a8f06/0_491_2000_1599/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21b62a344a8433c397b6c4067f618e9d
+categories:
+- UK
+- News & Politics
+- True Crime
+- Law & Justice
 ---
 
 The judge in the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three young children, has declared a mistrial after the jury could not reach a unanimous verdict and remained deadlocked after a week of deliberations.

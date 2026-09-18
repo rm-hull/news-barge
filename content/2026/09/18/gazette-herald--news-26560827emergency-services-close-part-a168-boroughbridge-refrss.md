@@ -7,6 +7,12 @@ scraped_at: '2026-09-18T12:59:55Z'
 published: '2026-09-18T00:00:00Z'
 description: Fire crews have been called to a vehicle on fire along the A168 in Boroughbridge.
 image: https://www.gazetteherald.co.uk/resources/images/20404545.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
+- Travel
 ---
 
 *(Image: Supplied)*

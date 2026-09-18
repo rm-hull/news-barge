@@ -8,6 +8,9 @@ published: '2026-08-31T00:00:00Z'
 description: September is packed full of great horror movies — here are seven recommendations
   to keep you entertained this month.
 image: https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF-1280-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A disheveled Mary Kline looking scared while stuck between two yellow walls in A24's Backrooms movie](https://cdn.mos.cms.futurecdn.net/tkSFZpsyV3q4LCnSZuMAvF.jpg) 

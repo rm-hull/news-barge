@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Royal Navy Petty Officer Sandra Cross will take on the Great North Run
   less than a year after starting her running journey.
 image: https://www.yorkpress.co.uk/resources/images/21426535.jpg?type=og-image
+categories:
+- Local
+- York
+- Sports
 ---
 
 ## From Couch to 5K to Great North Run in under a year for Royal Navy officer

@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A man has been arrested at the funeral for one of the five young men
   who were killed in a head-on collision with police on the A66, along with two…
 image: https://www.thenorthernecho.co.uk/resources/images/21364637.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 *(Image: SOCIAL MEDIA)*

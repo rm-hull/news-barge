@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: A Countryfile legend has opened up on difficulties spanning three years
   and has said "it's not looking good".
 image: https://www.gazetteherald.co.uk/resources/images/21358867.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Sports
 ---
 
 *(Image: BBC)*

@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Three women from the North East have been arrested on suspicion of shoplifting
   after reportedly targeting stores in North Yorkshire.
 image: https://www.thenorthernecho.co.uk/resources/images/21352653.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: NORTH YORKSHIRE POLICE)*

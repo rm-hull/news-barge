@@ -9,6 +9,10 @@ description: Lines formed outside Tehran petrol stations from midnight as a dail
   shortfall met with panic buying, while officials denied a shortage and said prices
   would have to change, without clarifying when or by how much.
 image: https://images.euronews.com/articles/stories/09/89/07/07/1200x675_cmsv2_b50defae-24d0-5c02-a160-f9be82962a85-9890707.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## Lines formed outside Tehran petrol stations from midnight as a daily shortfall met with panic buying, while officials denied a shortage and said prices would have to change, without clarifying when or by how much.

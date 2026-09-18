@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: City of York Council said Newgate, which connects King's Square and Silver
   Street across the northern junction of Shambles, will be shut to…
 image: https://www.yorkpress.co.uk/resources/images/21141718.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

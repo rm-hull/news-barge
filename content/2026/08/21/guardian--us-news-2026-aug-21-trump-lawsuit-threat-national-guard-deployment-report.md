@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: A report released by thinktank Cap argues the deployment of the national
   guard failed to have a measurable impact on crime, despite costing billions
 image: https://i.guim.co.uk/img/media/875f2650f8fa3ca837d49fa8c4de8f1745fd7d97/0_0_5324_4260/master/5324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3062250added778166260fb200e5c17
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 The Center for American Progress (Cap) received a letter from Donald Trump’s lawyer threatening a $5bn lawsuit unless the liberal research organization retracts a report criticizing the effectiveness of the president’s National Guard rollout.

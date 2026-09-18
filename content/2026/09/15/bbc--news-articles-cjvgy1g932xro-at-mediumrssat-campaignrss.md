@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: But other factors, including developments in the Middle East, may also
   be playing a role.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e64c/live/da731c70-b0cc-11f1-a2b7-314e849a6e43.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A small boat crowded with people.](https://ichef.bbci.co.uk/ace/standard/852/cpsprodpb/e64c/live/da731c70-b0cc-11f1-a2b7-314e849a6e43.jpg)

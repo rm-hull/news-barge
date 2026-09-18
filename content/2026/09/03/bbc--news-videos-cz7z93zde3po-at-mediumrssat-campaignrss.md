@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Thomas Fahmy says he saw "a bright white flash" and instantly fell to
   the ground.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6de/live/9a37fa70-a778-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 # US man struck by lightning describes 'horrific' experience

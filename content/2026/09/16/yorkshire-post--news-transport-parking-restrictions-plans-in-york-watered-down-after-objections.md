@@ -7,6 +7,11 @@ scraped_at: '2026-09-17T04:45:41Z'
 published: '2026-09-16T00:00:00Z'
 description: Parking restrictions plans in York watered down after objections
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjMwYzA1YmEzLThmMGItNDBjMC05MDYzLWMwYWU4M2M2Mjc0MzpiNjA4ZmFjMi03NDY0LTRmMjktYTY1NC1hNGUzMjk5MDliMzE=.jpg?crop=3:2,smart&trim=&width=1071&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Science
 ---
 
 # Parking restrictions plans in York watered down after objections

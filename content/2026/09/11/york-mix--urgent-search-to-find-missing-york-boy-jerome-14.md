@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T19:09:29Z'
 published: '2026-09-11T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/jerome-14-holgate-york.webp
+categories:
+- Local
+- York
+- Travel
 ---
 
 Police have launched an urgent search to find a missing boy from York.

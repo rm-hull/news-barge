@@ -9,6 +9,11 @@ scraped_at: '2026-09-02T12:45:24Z'
 published: '2026-09-02T00:00:00Z'
 description: Optimistic outlooks suggest the amount could go up to $50 trillion.
 image: https://cdn.mos.cms.futurecdn.net/SnihTFB2iy2sVR4QF2ETM8-1920-80.png
+categories:
+- Technology & Software
+- Hardware
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ![an AWS data center in Virginia](https://cdn.mos.cms.futurecdn.net/SnihTFB2iy2sVR4QF2ETM8.png) 

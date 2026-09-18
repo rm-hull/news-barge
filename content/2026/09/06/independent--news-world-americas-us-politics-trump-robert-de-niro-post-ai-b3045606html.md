@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Goodfellas and Raging Bull actor has previously described Trump as a
   ‘pig,’ a ‘punk’ and a ‘bulls*** artist’
 image: https://static.independent.co.uk/2026/09/06/19/16/FotoJet-(42).jpeg?trim=46,0,353,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- Comedy & Entertainment
 ---
 
 In a new post, President Donald Trump used an apparently AI-generated image to falsely portray Robert De Niro — long one of his sharpest critics — as a supporter.

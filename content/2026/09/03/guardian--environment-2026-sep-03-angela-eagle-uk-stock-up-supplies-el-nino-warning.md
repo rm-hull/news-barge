@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: 'Exclusive: Angela Eagle urges UK citizens to be ‘a bit more resilient’
   as they plan for national emergencies'
 image: https://i.guim.co.uk/img/media/b818fee8c052b4289dcbd7bb977dd4e7766a1467/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1c7ec9ef6cb3ce83aedadcb8ca5cb3a
+categories:
+- UK
+- News & Politics
 ---
 
 British people have been urged to have enough food and water on hand to survive a few days without power or water, as the UN said the El Niño climate phenomenon was “supersizing before our eyes”, exacerbating extreme weather events worldwide.

@@ -10,6 +10,10 @@ description: Egyptian law allows capital punishment for some serious drug offenc
   Euronews examines how the process works before a death sentence becomes final in
   Egypt.
 image: https://images.euronews.com/articles/stories/09/90/83/84/1200x675_cmsv2_d36a1d51-bb6e-5c4e-a00d-d09424c0d944-9908384.jpg
+categories:
+- Europe
+- News & Politics
+- True Crime
 ---
 
 ## Egyptian law allows capital punishment for some serious drug offences, while a 2024 reform gives felony defendants a full appeal before the Court of Cassation. Euronews examines how the process works before a death sentence becomes final in Egypt.

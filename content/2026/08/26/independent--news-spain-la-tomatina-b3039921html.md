@@ -11,6 +11,10 @@ description: 'Thousands pelted one another with overripe tomatoes at La Tomatina
   1980s. About 40% of people come from abroad. One rule: Squash tomatoes before throwing
   them.'
 image: https://static.independent.co.uk/2026/08/26/20/Spain_Tomatina_14_99.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Photos show revelers pelting one another with tomatoes at Spain’s La Tomatina food fight

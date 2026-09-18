@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A Darlington rugby coach Jon Hawkins who created a competitive pathway
   for young female players has won a prestigious England Rugby volunteer award.
 image: https://www.thenorthernecho.co.uk/resources/images/21472132.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

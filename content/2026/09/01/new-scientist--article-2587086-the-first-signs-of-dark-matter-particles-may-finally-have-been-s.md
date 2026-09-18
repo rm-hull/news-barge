@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Most of the matter in the universe is dark matter, but for decades physicists
   haven’t been able to directly observe it – that may have just changed
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Looking up into the LZ outer detector, used to veto radioactivity that can mimic a dark matter signal.](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_310233316.jpg?w=840)

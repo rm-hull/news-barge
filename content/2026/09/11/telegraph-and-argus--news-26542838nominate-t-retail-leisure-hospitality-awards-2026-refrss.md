@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Time is running out to nominate the businesses, teams and individuals
   that make Bradford a great place to shop, dine, stay and enjoy.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21441341.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

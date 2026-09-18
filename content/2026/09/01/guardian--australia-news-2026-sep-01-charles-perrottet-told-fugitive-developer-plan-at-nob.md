@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Liberal party figure tells inquiry he never asked Jean Nassif ‘for payments
   for political outcomes’ as lawyer tells him she is ‘gobsmacked’ by his ‘obfuscation’
 image: https://i.guim.co.uk/img/media/62abf59f50d9949af5b6cba99f16d656ec4ce030/347_0_2503_2004/master/2503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7dad0ea19ecaaa598b5b36d7fa7969c2
+categories:
+- UK
+- News & Politics
 ---
 
 The younger brother of Dominic Perrottet has insisted he never asked a fugitive property developer for money for political outcomes – including at a meeting at fine-dining restaurant Nobu in Crown Casino, an inquiry has heard.

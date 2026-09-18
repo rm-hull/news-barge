@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The US and Iran appear to have returned to full-scale war after major
   strikes were launched on Wednesday night
 image: https://static.independent.co.uk/2026/09/02/7/43/US-airstrike-hits-home-where-wedding-celebration-was-taking-place-Iran-says.jpeg?trim=0,77,0,123&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Four people were killed and dozens injured after US forces bombed a wedding ceremony in Iran, local authorities have said as both sides traded heavy strikes.

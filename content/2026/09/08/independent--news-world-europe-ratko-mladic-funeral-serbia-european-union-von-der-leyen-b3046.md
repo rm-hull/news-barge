@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T12:51:01Z'
 published: '2026-09-08T00:00:00Z'
 description: EU leaders have hit out at Serbia for granting Mladic a hero’s funeral
 image: https://static.independent.co.uk/2026/09/08/12/2293555744..?trim=57,0,57,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Leading European Union figures expressed outrage on Tuesday following Serbia’s decision to grant a hero’s send-off to Ratko Mladic, the Bosnian Serb general who passed away while serving a life sentence for war crimes, raising fresh questions regarding Serbia’s suitability to join the bloc.

@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Ian Wright says Gabriel Martinelli deserves "more respect" from Arsenal
   and questions the way the club have handled the winger's potential exit.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c227/live/96954180-9e12-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Arsenal start title defence with comfortable win over Coventry

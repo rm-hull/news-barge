@@ -7,6 +7,10 @@ scraped_at: '2026-09-04T04:22:38Z'
 published: '2026-09-04T00:00:00Z'
 description: 5 'lost' restaurants of York's eating-out scene we still miss today
 image: https://www.yorkpress.co.uk/resources/images/11769468.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
 ---
 
 ## 5 'lost' restaurants from York's eating-out scene we miss – in photos

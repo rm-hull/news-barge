@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Myanmar’s military-backed president is heading to Cambodia to meet its
   leaders
 image: https://static.independent.co.uk/2026/09/11/03/Myanmar_Cambodia_96914.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The leader of Myanmar’s military-backed government is visiting Cambodia to meet with its leaders in his latest effort to normalize relations with other members of the Association of Southeast Asian Nations, as critics warn the visit could weaken the bloc's collective efforts to address Myanmar’s conflicts.

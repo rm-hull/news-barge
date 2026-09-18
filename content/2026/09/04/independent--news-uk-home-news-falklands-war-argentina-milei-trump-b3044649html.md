@@ -9,6 +9,10 @@ description: The revived friction over the British overseas territory comes afte
   President Donald Trump hinted the US would not assist the UK during any future Falklands
   conflict
 image: https://static.independent.co.uk/2026/07/16/8/37/PA-1364566-9ec23a11.jpeg?trim=0,128,0,128&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Britain's dedication to the Falkland Islands remains "absolute and unshakeable", the Defence Secretary affirmed, following statements by Argentinian President Javier Milei that his country must reclaim them.

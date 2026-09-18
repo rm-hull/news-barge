@@ -8,6 +8,11 @@ published: '2026-08-18T00:00:00Z'
 description: Love Pop Choir will host a Prosecco launch night on September 7, at Forest
   Moor & Calcutt Village Hall in Knaresborough.
 image: https://www.gazetteherald.co.uk/resources/images/21328619.jpg?type=og-image&xType=0&yType=241
+categories:
+- Local
+- Harrogate
+- York
+- Food & Cooking
 ---
 
 *(Image: Supplied)*

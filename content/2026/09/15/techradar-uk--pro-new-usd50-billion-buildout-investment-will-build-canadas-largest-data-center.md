@@ -8,6 +8,10 @@ scraped_at: '2026-09-15T19:41:26Z'
 published: '2026-09-15T00:00:00Z'
 description: Saskatchewan set to gain a 1.2GW data center
 image: https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Stylized image of a data center rack with electric blue lines running across it](https://cdn.mos.cms.futurecdn.net/2qpxDbKtu2otYAr3z2pcqe.jpg) 

@@ -8,6 +8,13 @@ published: '2026-08-26T00:00:00Z'
 description: AN insurance firm has relocated to larger offices as part of its ongoing
   growth and expansion.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21370766.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

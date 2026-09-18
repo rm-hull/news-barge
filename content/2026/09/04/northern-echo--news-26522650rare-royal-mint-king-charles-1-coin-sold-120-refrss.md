@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: The 2025 coin, featuring King Charles III on the front and a bee design
   on the reverse, was sold for £122.08
 image: https://www.thenorthernecho.co.uk/resources/images/21406494.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Getty Images/iStockphoto)*

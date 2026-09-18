@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: With just two months until the midterm elections, Republicans are down
   in crucial battleground Senate races, according to new aggregate polling data
 image: https://static.independent.co.uk/2026/08/31/12/29/GettyImages-2280104192.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Republicans are looking at “historic losses” in the upcoming midterm elections, with new polling showing the GOP lagging in eight battleground Senate races, a top strategist has warned.

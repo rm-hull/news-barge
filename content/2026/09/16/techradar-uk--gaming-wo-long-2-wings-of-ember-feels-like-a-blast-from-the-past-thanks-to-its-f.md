@@ -9,6 +9,9 @@ published: '2026-09-16T00:00:00Z'
 description: 'I wasn''t expecting much from Wo Long 2: Wings of Ember, but its action
   has instantly placed it on my 2027 wishlist.'
 image: https://cdn.mos.cms.futurecdn.net/L4tUtqKdAEifB6UkSA5jaY-2560-80.png
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Custom female character wielding large hammer in Wo Long 2: Wings of Ember](https://cdn.mos.cms.futurecdn.net/L4tUtqKdAEifB6UkSA5jaY.png) 

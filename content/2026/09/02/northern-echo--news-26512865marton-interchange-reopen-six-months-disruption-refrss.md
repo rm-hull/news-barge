@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: Major works at a key Middlesbrough junction are due to be completed within
   days as months of disruption comes to an end
 image: https://www.thenorthernecho.co.uk/resources/images/21397715.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Major works at a key Middlesbrough junction are due to be completed this weekend after months of disruption for drivers.

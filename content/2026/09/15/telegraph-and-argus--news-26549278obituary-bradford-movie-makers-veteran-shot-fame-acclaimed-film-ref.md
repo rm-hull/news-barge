@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A VETERAN of Bradford Movie Makers, and the much-loved star of an acclaimed
   film about the historic club, has died, aged 93.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21453795.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
 ---
 
 A VETERAN of Bradford Movie Makers, and the much-loved star of an acclaimed film about the historic club, has died, aged 93.

@@ -9,6 +9,13 @@ published: '2026-08-26T00:00:00Z'
 description: UK Land Estates will invest millions to transform its 12-acre Seventh
   Avenue site on Team Valley, Gateshead, with energy-efficient upgrades…
 image: https://www.thenorthernecho.co.uk/resources/images/21366679.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 *(Image: Supplied)*

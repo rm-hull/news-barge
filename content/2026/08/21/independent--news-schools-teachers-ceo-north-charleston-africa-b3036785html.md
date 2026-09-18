@@ -8,6 +8,12 @@ scraped_at: '2026-08-21T04:52:14Z'
 published: '2026-08-21T00:00:00Z'
 description: AI chatbots have become the bane of teachers everywhere
 image: https://static.independent.co.uk/2026/08/21/05/Education_AI_Literacy_2475_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Education & Learning
+- Technology & Software
+- Self-Improvement
 ---
 
 Artificial intelligence chatbots have become the bane of teachers everywhere, but to prepare for the new school year, a group of educators in Charleston, South Carolina, packed into a high school auditorium and talked about inviting AI into the classroom.

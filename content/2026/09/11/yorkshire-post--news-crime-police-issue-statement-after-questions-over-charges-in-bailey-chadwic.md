@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: North Yorkshire Police has responded to questions over the charges brought
   following the death of 19-year-old Bailey Chadwick.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVjNDIyMWEwLWUwMGYtNDlhOC1hNmNjLTg2YjNhNjg3ZGUxZTplNTM4YjY1Zi02OTQ3LTRkNTYtOGZhNi0xMzQ3ZTlkOTMwNWU=.jpg?crop=3:2,smart&trim=&width=500&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- True Crime
 ---
 
 # Police issue statement after questions over charges in Bailey Chadwick case

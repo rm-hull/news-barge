@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The firm behind an automatic shut-off valve designed to eliminate water
   waste and save gardeners’ time, has won a “game-changing” grant of £60,000.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjdhMmMzNjQ1LWU2NWItNDA5NS05NDQzLTFiNWRjYzNhOWU5Mjo3YTY1MDU1ZC04Y2FjLTRkZTMtYmRiYi1iNGFmN2EyOWIwZDc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # SealStop: Yorkshire firm behind valve made to eliminate water waste wins ‘game changing’ £60,000 grant

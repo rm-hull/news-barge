@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: President continues insulting one of America’s largest trading partners
   in latest broadside against close ally
 image: https://static.independent.co.uk/2026/08/25/09/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump lashed out again at Canada a day after America’s northern neighbor unveiled retaliatory tariffs to escalate the trade war he started months ago.

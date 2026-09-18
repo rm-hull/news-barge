@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: The 2027 BUSINESSiQ Awards will be held at Raby Castle on April 29, celebrating
   North East businesses with food, entertainment - nominations are now…
 image: https://www.thenorthernecho.co.uk/resources/images/21433374.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 At last, we can reveal the venue and date for the 2027 BUSINESSiQ Awards - and nominations are now open.

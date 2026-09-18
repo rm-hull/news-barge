@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: A slow-drive protest and blaring car horns marked the day petrol and
   diesel prices rose again, with fuel costs hitting record highs across Europe.
 image: https://images.euronews.com/articles/stories/09/90/46/73/1200x675_cmsv2_b0ec695f-156f-53f8-9c4a-d22e0b96fc9f-9904673.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 **Lina Ferreira**

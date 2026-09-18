@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Thick smoke from forest fires has disrupted flights in Indonesia's West
   Kalimantan province
 image: https://static.independent.co.uk/2026/09/14/11/Indonesia_Haze_98127.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
+- Society & Culture
 ---
 
 Thick smoke from forest fires has disrupted airline flights for several days in Indonesia's West Kalimantan province as an intensifying El Niño weather pattern and a prolonged dry season worsen the impact of blazes.

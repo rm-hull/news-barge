@@ -8,6 +8,12 @@ published: '2026-09-17T00:00:00Z'
 description: Georgina Llewelyn, Karl Denton and Alex Goldberg have launched a crowdfunding
   appeal for Newcastle-based Reclaimed Timber Project CIC after the…
 image: https://www.thenorthernecho.co.uk/resources/images/21461099.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 *(Image: Supplied)*

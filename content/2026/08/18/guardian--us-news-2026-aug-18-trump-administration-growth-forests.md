@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Almost 45m acres of national forests could be potentially opened to road
   construction, drilling and logging
 image: https://i.guim.co.uk/img/media/c0af7f576d0d5d3bfebd91fa4c6429f3920d610b/355_0_2362_1889/master/2362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac69e144a87dd0b53ae587e096d1ddc
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Trump administration said on Tuesday it plans to rescind the “roadless rule” that has protected old growth forests in the US for 25 years, potentially opening up almost 45m acres of national forests to road construction, drilling and logging.

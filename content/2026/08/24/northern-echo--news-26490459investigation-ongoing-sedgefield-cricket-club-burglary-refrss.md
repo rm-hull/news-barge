@@ -9,6 +9,11 @@ published: '2026-08-24T00:00:00Z'
 description: An investigation is underway following an overnight burglary at Sedgefield
   Cricket Club.
 image: https://www.thenorthernecho.co.uk/resources/images/21364361.jpg?type=og-image&xType=0&yType=51
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
 ---
 
 *(Image: SEDGEFIELD CRICKET CLUB)*

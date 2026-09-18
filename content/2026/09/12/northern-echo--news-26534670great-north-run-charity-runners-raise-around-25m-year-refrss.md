@@ -8,6 +8,13 @@ published: '2026-09-12T00:00:00Z'
 description: Alfie Joey on the great work that is done each year by everyone taking
   part in the Great North Run
 image: https://www.thenorthernecho.co.uk/resources/images/21429184.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Business & Entrepreneurship
+- Sports
 ---
 
 **Alfie Joey on the great work that is done each year by everyone taking part in the Great North Run**

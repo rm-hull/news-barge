@@ -9,6 +9,9 @@ description: 'Mounting anger among police officers has been fuelled by a range o
   issues, including discontent around the special police duty allowance (ISSP), their
   "risk bonus", which has not gone up since 2019. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/91/43/43/1200x675_cmsv2_2734a292-ea98-5467-9b29-fbfcb01e44d2-9914343.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Mounting anger among police officers has been fuelled by a range of issues, including discontent around the special police duty allowance (ISSP), their "risk bonus", which has not gone up since 2019.

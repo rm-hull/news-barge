@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Detectives have released CCTV footage of a man they want to speak to
   as they investigate an alleged sexual assault on a North Yorkshire train.
 image: https://www.gazetteherald.co.uk/resources/images/21373796.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: British Transport Police)*

@@ -8,6 +8,12 @@ published: '2026-08-28T00:00:00Z'
 description: Two damning reports into the UK’s maternity services found that they
   failed to consistently provide compassionate and safe care
 image: https://static.independent.co.uk/2021/08/13/09/12112511-1f9a92d8-8bdd-4a2f-b2d1-aeaf01f6e5f6.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
+- Health & Fitness
+- Society & Culture
 ---
 
 Thousands of women across the UK develop undiagnosed post-traumatic stress disorder (PTSD) each year after giving birth, new research has found.

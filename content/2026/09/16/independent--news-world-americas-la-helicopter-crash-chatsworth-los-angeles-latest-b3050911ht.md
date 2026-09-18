@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T04:43:32Z'
 published: '2026-09-16T00:00:00Z'
 description: Aircraft goes down between two commercial buildings in Chatsworth neighborhood
 image: https://static.independent.co.uk/2026/09/16/05/2294975894..?trim=0,5,0,5&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least three people died after a news helicopter crashed into a parking lot in Los Angeles, according to officials and local media reports.

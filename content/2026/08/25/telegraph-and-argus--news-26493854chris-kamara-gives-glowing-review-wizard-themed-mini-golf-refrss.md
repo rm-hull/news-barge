@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: BANTAMS legend Chris Kamara has described a magical day out with his
   grandchildren at a wizard-themed mini golf course.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21369192.jpg?type=og-image&xType=0&yType=450
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Supplied)*

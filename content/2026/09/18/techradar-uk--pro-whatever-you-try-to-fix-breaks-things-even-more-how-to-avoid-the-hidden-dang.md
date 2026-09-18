@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: Gabriela Moreira, CEO of Quint, explains how catching flaws early can
   limit AI code nightmares
 image: https://cdn.mos.cms.futurecdn.net/XtCYe6fmkjnRuMpRFwTEbc-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![headshot of Gabriela Moreira — CEO, Quint](https://cdn.mos.cms.futurecdn.net/XtCYe6fmkjnRuMpRFwTEbc.jpg) 

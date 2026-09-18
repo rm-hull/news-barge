@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Civil rights advocates and Democratic members of Congress have warned
   that ICE officers cannot be trusted to deploy the equipment appropriately
 image: https://static.independent.co.uk/2026/08/28/01/preview.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 U.S. Immigration and Customs Enforcement has agreed to a $16.7 million deal for 6,000 pairs of gloves capable of delivering painful electric shocks, stating that officers will use them to subdue uncooperative detainees and protesters.

@@ -9,6 +9,11 @@ description: A Barnsley man has been given a suspended prison sentence after dis
   footage showed him chasing, striking and repeatedly stamping on ducks at a South
   Yorkshire beauty spot.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/11/11/32/MixCollage-11-Sep-2026-12-52-PM-7725.jpeg?trim=70,0,71,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Film & TV
 ---
 
 # ‘Appalling behaviour’: Barnsley man sentenced after being filmed stamping on ducks

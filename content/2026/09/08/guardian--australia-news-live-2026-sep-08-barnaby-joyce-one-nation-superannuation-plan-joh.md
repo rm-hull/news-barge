@@ -8,6 +8,10 @@ scraped_at: '2026-09-08T04:26:23Z'
 published: '2026-09-08T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/957f1d42cc6c7f84ad36fb570ad5bac06370a757/207_194_2698_2159/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4c2ae41f7978120648fdf456764ea44d
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Anthony Albanese says the digital duty of care bill will give people control over their social media, and require tech platforms to “protect children from harmful content, including content that promotes eating disorders, misogynistic content, pornography, and content that glorifies crime”.

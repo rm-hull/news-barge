@@ -9,6 +9,11 @@ published: '2026-08-28T00:00:00Z'
 description: A former Northumbria police officer accused of acting inappropriately
   towards student officers while training new recruits is set to face a…
 image: https://www.thenorthernecho.co.uk/resources/images/16339414.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: POLICE)*

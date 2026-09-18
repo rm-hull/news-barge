@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: Nazym Kyzaibay recounts her rise from a young boxer to Central Asia’s
   first female three-time world boxing champion and an Olympic bronze medallist.
 image: https://images.euronews.com/articles/stories/09/88/66/93/1200x675_cmsv2_e32d5bcc-854d-5da2-881e-c49d952c0cb7-9886693.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## Nazym Kyzaibay recounts her rise from a young boxer to Central Asia’s first female three-time world boxing champion and an Olympic bronze medallist.

@@ -8,6 +8,12 @@ published: '2026-09-01T00:00:00Z'
 description: A £1 million EuroMillions prize remains unclaimed in Hartlepool, with
   National Lottery players given just one week to check tickets and claim.
 image: https://www.thenorthernecho.co.uk/resources/images/20452658.jpg?type=og-image&xType=0&yType=114
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 *(Image: Yui Mok/PA Wire)*

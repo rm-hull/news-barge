@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: Police are continuing to investigate the incident which left seven people
   dead
 image: https://static.independent.co.uk/2026/08/25/09/2291941850..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 16-year-old boy is among five more people that have been arrested by detectives investigating the events leading up to the crash on the A66 which left two police officers and five others dead, Cleveland Police said.

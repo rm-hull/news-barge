@@ -9,6 +9,11 @@ description: The Conservative Party Chairman has offered to work with Andy Burnh
   to deport asylum seekers to a “safe third country” instead of turning a North Yorkshire
   military base into a migrant camp.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjY2MmUzMWRmLTBiYTMtNDcyMS04NzQ5LTM1YjBmMmU1ZjllYzpkMzkwOTk2My1iNjk5LTQ2NWItYmYyYy0xYzNkMzdiZDhiMzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Kevin Hollinrake: send migrants to Rwanda not Linton-on-Ouse

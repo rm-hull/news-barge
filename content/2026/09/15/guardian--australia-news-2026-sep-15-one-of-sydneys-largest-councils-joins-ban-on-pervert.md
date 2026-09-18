@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Councillors say locals have been raising concerns about people secretly
   filming in change rooms, swimming pools and around schools
 image: https://i.guim.co.uk/img/media/cba9de4612508c641eed574bfa4340265058f355/291_0_1948_1559/master/1948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20a3d65c3fd4aa941cbf95e96cb7a4f0
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 One of Sydney’s largest councils has joined the City of Brisbane and the City of Yarra to issue a ban on AI smart glasses at public pools as concerns mount over the potential for predators to exploit the new technology.

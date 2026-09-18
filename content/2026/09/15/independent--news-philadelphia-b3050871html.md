@@ -9,6 +9,11 @@ description: A federal judge has referred Philadelphia's district attorney to th
   U.S. Department of Justice for investigation into whether he broke the law while
   overseeing a post-conviction case
 image: https://static.independent.co.uk/2026/09/16/00/Philadelphia_District_Attorney_73149.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Law & Justice
 ---
 
 A federal judge referred Philadelphia District Attorney Larry Krasner to the U.S. Department of Justice on Tuesday for investigation into whether he broke the law while overseeing a post-conviction case.

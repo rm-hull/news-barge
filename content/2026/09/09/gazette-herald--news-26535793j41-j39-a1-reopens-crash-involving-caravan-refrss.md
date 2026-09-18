@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The A1, between J41 and J39, has reopened following a crash which left
   a caravan overturned.
 image: https://www.gazetteherald.co.uk/resources/images/13267681.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 *(Image: Newsquest)*

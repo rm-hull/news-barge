@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: A total of 70 sculptures will appear around York as part of Ghosts in
   the Gardens, a free trail running from September to November.
 image: https://www.yorkpress.co.uk/resources/images/21409641.jpg?type=og-image&xType=0&yType=11
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## York's popular ghost trail returns with 70 sculptures across the city

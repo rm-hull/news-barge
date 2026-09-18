@@ -9,6 +9,8 @@ published: '2026-08-23T00:00:00Z'
 description: There are signs in the latest version of the ChatGPT Android app that
   the AI assistant will soon offer an extra security feature.
 image: https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX-2560-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![ChatGPT logo on a smartphone.](https://cdn.mos.cms.futurecdn.net/6whQhAYA48xb8xVGQ3HNyX.jpg) 

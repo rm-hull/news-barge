@@ -10,6 +10,10 @@ description: A prosecutor tells an Australian court triple-murderer Erin Patters
   should never be released from prison after she poisoned four of her estranged husband’s
   relatives with death cap mushrooms
 image: https://static.independent.co.uk/2026/08/20/09/Australia_Poisonous_Mushrooms_6_196.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Triple-murderer Erin Patterson should never be released from prison after she poisoned four of her estranged husband’s relatives with death cap mushrooms, a prosecutor told an Australian court on Thursday.

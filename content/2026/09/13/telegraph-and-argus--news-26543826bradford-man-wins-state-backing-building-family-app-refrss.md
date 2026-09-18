@@ -9,6 +9,12 @@ published: '2026-09-13T00:00:00Z'
 description: A privately built family app has secured a state innovation grant to
   support its launch.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21443039.jpg?type=og-image&xType=0&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 *(Image: Supplied)*

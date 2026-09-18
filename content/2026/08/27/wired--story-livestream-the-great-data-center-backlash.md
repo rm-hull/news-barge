@@ -9,6 +9,10 @@ description: You have questions about data centers, and WIRED has answers. Join 
   livestream on September 10 and our panel of experts will tell you everything you
   need to know.
 image: https://media.wired.com/photos/6a8f77b885384b80365445a6/191:100/w_1280,c_limit/livestream_ama_data_centers_social.jpg
+categories:
+- Technology & Software
+- Science
+- Business & Entrepreneurship
 ---
 
 Just a couple of years ago, hearing the term “data center” wouldn’t have struck a nerve with most Americans. Now, mention the noisy oversized warehouses and you’ll spark a fierce debate. The infrastructure powering the AI industry is at the heart of heated discussions of politics, business, and the environment, and in the months leading up to the 2026 midterm elections, backlash to data centers has proven to be an issue activating Americans across the political spectrum. We’re excited to answer all your questions about data centers at WIRED’s next livestream AMA on **September 10 at 12pm ET / 9am PT**.

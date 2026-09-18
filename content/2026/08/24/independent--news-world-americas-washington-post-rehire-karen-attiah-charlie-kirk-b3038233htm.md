@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Karen Attiah was fired after posting about ‘white men who espouse hatred
   and violence’ on the day Charlie Kirk was killed
 image: https://static.independent.co.uk/2025/09/15/14/17/GettyImages-1154777039.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 *The Washington Post* has been ordered to rehire its longtime opinion columnist Karen Attiah, who was fired over social media posts she made in the wake of Charlie Kirk’s assassination. 

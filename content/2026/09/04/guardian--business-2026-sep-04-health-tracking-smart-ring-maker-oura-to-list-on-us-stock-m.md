@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Valuation above $11bn expected for firm whose fans include Prince Harry,
   Jennifer Aniston and Kim Kardashian
 image: https://i.guim.co.uk/img/media/4c203a8573f5c3c839e41ce4b9a22e6e36d20a7a/428_111_3211_2570/master/3211.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0370b7a1b7514d1290d69fc1b117cbf6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Fans of Oura are accustomed to using its trendy smart rings to fastidiously monitor their health but now investors are preparing to track a new metric: its share price.

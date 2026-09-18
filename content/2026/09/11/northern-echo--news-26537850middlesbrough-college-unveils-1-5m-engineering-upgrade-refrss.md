@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: A £1.5 million investment has expanded specialist engineering and advanced
   manufacturing training facilities at Middlesbrough College.
 image: https://www.thenorthernecho.co.uk/resources/images/21433682.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 A £1.5 million investment has expanded specialist engineering and advanced manufacturing training facilities at Middlesbrough College’s TTE Centre.

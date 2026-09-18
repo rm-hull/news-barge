@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Crews spend more than three hours bringing people down from the ride
   in Lowestoft.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a51/live/8ad0fc20-a54e-11f1-8689-6589354d0f8e.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 **Firefighters have rescued 27 people who were stuck on a rollercoaster for up to three hours.**

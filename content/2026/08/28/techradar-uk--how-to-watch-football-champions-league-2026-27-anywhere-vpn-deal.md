@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Use this VPN deal to stream the 26/27 Champions League no matter where
   you are
 image: https://cdn.mos.cms.futurecdn.net/DzJtmhbsyEqTuoFgGhV9qG-2560-80.jpg
+categories:
+- Technology & Software
+- Sports
 ---
 
 ![General view of the UEFA Champions League trophy ahead of the draw at Grimaldi Forum on August 27, 2026 in Monaco](https://cdn.mos.cms.futurecdn.net/DzJtmhbsyEqTuoFgGhV9qG.jpg) 

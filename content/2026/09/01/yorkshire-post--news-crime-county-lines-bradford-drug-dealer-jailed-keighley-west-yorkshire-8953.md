@@ -9,6 +9,11 @@ description: A Bradford county lines drug dealer has been jailed after police fo
   a vehicle containing more than £15,000 worth of heroin and crack cocaine outside
   his house.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/14/00/IQBAL.jpeg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Automotive
 ---
 
 # Bradford drug dealer jailed after £15,000 of heroin and crack cocaine found in vehicle

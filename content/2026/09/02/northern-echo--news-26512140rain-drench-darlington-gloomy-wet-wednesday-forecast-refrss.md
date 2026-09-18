@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Umbrellas at the ready as a wet Wednesday is forecast for Darlington,
   with the Met Office predicting rain for much of the day and gloomy skies.
 image: https://www.thenorthernecho.co.uk/resources/images/17068673.jpg?type=og-image&xType=0&yType=253
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: NORTHERN ECHO)*

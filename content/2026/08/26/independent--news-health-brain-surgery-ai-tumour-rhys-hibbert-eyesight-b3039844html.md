@@ -7,6 +7,11 @@ scraped_at: '2026-08-26T23:24:42Z'
 published: '2026-08-26T00:00:00Z'
 description: Rhys Hibbert became a part of history when he had his brain tumour removed
 image: https://static.independent.co.uk/2026/08/26/17/01M0ZC9KXE5J0A8MWGAGMJ9M7R.jpg?trim=176,0,176,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- History
 ---
 
 A 48-year-old man has become the first patient in the world to have a brain tumour removed while medical teams utilised real-time artificial intelligence during surgery.

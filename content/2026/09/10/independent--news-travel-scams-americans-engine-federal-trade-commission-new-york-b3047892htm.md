@@ -7,6 +7,10 @@ scraped_at: '2026-09-10T12:54:06Z'
 published: '2026-09-10T00:00:00Z'
 description: If you're booking a trip soon, you need to watch out for travel scams
 image: https://static.independent.co.uk/2026/09/10/11/Financial_Wellness-Travel_Scams_877_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Pickpockets were once the biggest worry for travelers heading to new destinations on vacation.

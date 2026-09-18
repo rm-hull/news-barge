@@ -8,6 +8,11 @@ published: '2026-08-22T00:00:00Z'
 description: To help you get the best deal on your petrol or diesel, we've compiled
   a list of the cheapest garages in and around Darlington, according to…
 image: https://www.thenorthernecho.co.uk/resources/images/15726968.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Archive)*

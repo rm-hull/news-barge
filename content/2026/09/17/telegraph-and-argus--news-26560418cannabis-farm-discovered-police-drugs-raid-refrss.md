@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: A cannabis farm has been discovered by police after carrying out a drugs
   warrant at a Bradford address.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21470194.jpg?type=og-image&xType=81&yType=0
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: West Yorkshire Police)*

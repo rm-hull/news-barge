@@ -8,6 +8,11 @@ published: '2026-09-05T00:00:00Z'
 description: This is the terrifying moment masked raiders used a 4x4 to smash their
   way into a Bradford jewellers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21415170.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 THIS is the terrifying moment masked raiders used a 4x4 to smash their way into a Bradford jewellers.

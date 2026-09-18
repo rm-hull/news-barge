@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: Reba McEntire, Lily Tomlin, Dionne Warwick, Kacey Musgraves, Donald Trump
   and others mourn star’s death
 image: https://i.guim.co.uk/img/media/0e08b227a9ae9781b9d354c759cf93763c741f16/363_0_4105_3284/master/4105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a1b20f7012a79fae1c4faaf953f8bb13
+categories:
+- UK
+- News & Politics
+- History
+- Music
 ---
 
 Dolly Parton has died aged 80, her family announces

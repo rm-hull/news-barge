@@ -9,6 +9,8 @@ published: '2026-09-11T00:00:00Z'
 description: '"It''s actually allegedly being built out now," said Rabois, who has
   clearly dealt with a missed construction timeline or two.'
 image: https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896
+categories:
+- Business & Entrepreneurship
 ---
 
 Keith Rabois has spent most of his 13-year career in venture capital associated with Khosla Ventures’ longtime home in Menlo Park, California. But that’s changing. Speaking Thursday night at TechCrunch’s StrictlyVC event in New York’s West Village, Rabois confirmed that Khosla Ventures is opening its first-ever office outside Sand Hill Road. The new outpost will be in New York, on 14th Street, and is expected to open this fall.

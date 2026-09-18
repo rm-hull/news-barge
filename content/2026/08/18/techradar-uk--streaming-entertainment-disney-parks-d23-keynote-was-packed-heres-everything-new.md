@@ -8,6 +8,9 @@ scraped_at: '2026-08-18T01:50:30Z'
 published: '2026-08-18T00:00:00Z'
 description: A lot of updates and two surprises
 image: https://cdn.mos.cms.futurecdn.net/G2T9C3TQNRj2PCuULTshnY-1920-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Disney Parks D23 2026 Lead Image - 2](https://cdn.mos.cms.futurecdn.net/G2T9C3TQNRj2PCuULTshnY.jpg) 

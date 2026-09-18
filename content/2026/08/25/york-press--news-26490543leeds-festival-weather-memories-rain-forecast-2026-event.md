@@ -8,6 +8,11 @@ published: '2026-08-25T00:00:00Z'
 description: From wellies and ponchos to sunshine and crowds, these Leeds Festival
   photos capture the spirit of the Bramham Park event as thousands prepare to…
 image: https://www.yorkpress.co.uk/resources/images/21364395.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
+- Travel
 ---
 
 ## Rain forecast for Leeds Festival? These photos show fans have seen it all before

@@ -9,6 +9,10 @@ published: '2026-09-07T00:00:00Z'
 description: Saxony-Anhalt win part of wider trend driven by mainstream policy failures
   and gradual normalisation of far right ideas
 image: https://i.guim.co.uk/img/media/e0e67c8fd326ff0e986ef1f535a399a0fbb3649a/823_0_4115_3292/master/4115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99bd5e4dd815a0bd0e1027ce691e2f92
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled its score in Sunday’s state election in Saxony-Anhalt to 43.8% of the vote.

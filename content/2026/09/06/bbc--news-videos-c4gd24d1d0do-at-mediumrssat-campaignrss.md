@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Chandika Shrestha was airlifted to hospital after spending more than
   10 days in her partially buried house.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 # Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home

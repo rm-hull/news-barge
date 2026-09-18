@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The UK government is facing calls to cancel a sprawling health care contract
   with Palantir. The region of Greater Manchester insists it can do a better job itself.
 image: https://media.wired.com/photos/6a7f4fef03ca5057b35be05c/191:100/w_1280,c_limit/Small-Town-Saying-No-to-Palantir-Business.jpg
+categories:
+- Technology & Software
+- Science
+- Careers & Productivity
+- Business & Entrepreneurship
 ---
 
 The UK government has six months to decide whether to terminate a deal worth more than $400 million between the country’s National Health Service and American software company Palantir. If one part of the NHS is already doing without Palantir, politicians are asking, why can’t the rest of the country?

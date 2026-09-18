@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: The Durham High School site has been put up for sale by administrators
   just weeks after the independent school's controversial closure.
 image: https://www.thenorthernecho.co.uk/resources/images/21133366.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Education & Learning
 ---
 
 *(Image: Stuart Boulton)*

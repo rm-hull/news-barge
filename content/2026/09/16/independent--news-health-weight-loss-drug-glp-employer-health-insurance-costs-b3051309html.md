@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: Major companies including PepsiCo, Cigna and Starbucks reportedly limiting
   GLP-1 coverage
 image: https://static.independent.co.uk/2025/09/03/10/33f2108ddfda8d50ce045b5bfa907413Y29udGVudHNlYXJjaGFwaSwxNzU2OTc0OTA1-2.80825585.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Some 30 million Americans take GLP-1 medications like Ozempic and Mounjaro, shelling out hundreds of dollars in monthly fees even with health insurance.

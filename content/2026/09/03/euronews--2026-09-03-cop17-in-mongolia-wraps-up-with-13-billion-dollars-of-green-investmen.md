@@ -10,6 +10,10 @@ description: 'Member states of the UN Convention to Combat Desertification met i
   that already affects 40% of soil on the planet. It ended in the 1.3 billion dollar
   pledge for Green projects. #Focus'
 image: https://images.euronews.com/articles/stories/09/88/63/41/1200x675_cmsv2_236f7dce-de0f-53f7-af60-58c4ebdb3fd9-9886341.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
 ---
 
 ## Member states of the UN Convention to Combat Desertification met in Ulaanbaatar to find solutions and funds for reversing the process of land degradation that already affects 40% of soil on the planet. It ended in the 1.3 billion dollar pledge for Green projects.

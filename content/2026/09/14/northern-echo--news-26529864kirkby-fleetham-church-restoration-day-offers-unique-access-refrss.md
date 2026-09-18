@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: UNIQUE access to one of the most delightful, and most historic, dells
   in North Yorkshire is on offer to people joining a local history day on…
 image: https://www.thenorthernecho.co.uk/resources/images/21422463.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 UNIQUE access to one of the most delightful, and most historic, dells in North Yorkshire is on offer to people joining a local history day on September 19.

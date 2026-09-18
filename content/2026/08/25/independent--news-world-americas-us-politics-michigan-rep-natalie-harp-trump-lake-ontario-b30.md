@@ -8,6 +8,9 @@ published: '2026-08-25T00:00:00Z'
 description: President Donald Trump threatened to rename Lake Ontario ‘Lake America’
   after trade talks with Canada broke down
 image: https://static.independent.co.uk/2026/08/25/16/45/GettyImages-2235613531.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Michigan Representative Debbie Dingell made a massive dig at Donald Trump and his close aide Natalie Harp over the president's threat to rename Lake Ontario to the wildly creative “Lake America.”

@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The government’s tougher stance towards the Kremlin is drawing attacks
   from both the far right and far left
 image: https://i.guim.co.uk/img/media/905e68e9072ad94a0fada6f94806012c003dc6fe/0_385_2931_2345/master/2931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e88023515264c7bf4af67b676e5f709f
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 Even before the German government laid the blame this week on Russia for an attempted drone attack at Leipzig airport, the topic of German ties to Moscow was high on the political agenda.

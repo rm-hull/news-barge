@@ -10,6 +10,10 @@ published: '2026-09-08T00:00:00Z'
 description: A new teaser trailer for the Musk documentary has landed on YouTube,
   ahead of the controversial film's premiere later today.
 image: https://cdn.mos.cms.futurecdn.net/BCVVAYrsC2ERpTZSUW6fbm-2000-80.jpg
+categories:
+- Technology & Software
+- Film & TV
+- Science
 ---
 
 ![The view from a SpaceX rocket above earth next to a photo of Elon Musk laughing](https://cdn.mos.cms.futurecdn.net/BCVVAYrsC2ERpTZSUW6fbm.jpg) 

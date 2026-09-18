@@ -7,6 +7,10 @@ scraped_at: '2026-08-24T13:09:38Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/07/swimming-pool-canva.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Two York swimming pools are shut today (Monday).

@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: Roads close to an East Yorkshire landmark are currently closed after
   a crash.
 image: https://www.gazetteherald.co.uk/resources/images/20763596.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: North Yorkshire Police)*

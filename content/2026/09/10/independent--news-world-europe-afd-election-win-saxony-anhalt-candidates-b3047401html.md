@@ -10,6 +10,9 @@ description: The AfD swept to power in Saxony-Anhalt, causing a political earthq
   in Germany and Europe. Alex Croft looks at the problematic pasts of many of its
   candidates
 image: https://static.independent.co.uk/2026/09/09/14/45/afd.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 After winning a historic state election in Saxony-Anhalt, the Alternative für Deutschland (AfD) stands on the brink of becoming the first far-right party to gain power in Germany since World War Two.

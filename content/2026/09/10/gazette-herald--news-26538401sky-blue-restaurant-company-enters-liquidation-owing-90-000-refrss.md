@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: The company behind a well-known York restaurant has entered liquidation
   owing £90,000 in fines to the Home Office.
 image: https://www.gazetteherald.co.uk/resources/images/21434488.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Food & Cooking
 ---
 
 The company behind a well-known York restaurant has entered liquidation owing £90,000 in fines to the Home Office.

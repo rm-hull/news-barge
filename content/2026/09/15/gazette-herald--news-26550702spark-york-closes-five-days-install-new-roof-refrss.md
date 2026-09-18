@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Spark York in Piccadilly closes as a weatherproof roof is installed ahead
   of autumn and will reopen on September 18 with a Raise the Roof Party.
 image: https://www.gazetteherald.co.uk/resources/images/21456224.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 AN independent venue in York has closed for five days for a new roof to be installed ready for autumn and winter.

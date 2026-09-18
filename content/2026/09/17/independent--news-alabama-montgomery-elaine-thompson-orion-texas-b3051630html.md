@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Alabama is set to execute a man with a chemical injection, months after
   a judge blocked the state from putting him to death with nitrogen gas
 image: https://static.independent.co.uk/2026/09/17/05/Alabama_Execution_86191.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Alabama is set to execute a man Thursday night via lethal injection, three months after a judge's ruling blocked the state from putting him to death with nitrogen gas.

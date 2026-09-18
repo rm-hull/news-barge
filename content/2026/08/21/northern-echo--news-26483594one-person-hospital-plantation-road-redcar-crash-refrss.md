@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: Emergency services were called to Plantation Road at around 6.10am on
   Friday (August 21), following reports of a crash.
 image: https://www.thenorthernecho.co.uk/resources/images/11215002.jpg?type=og-image&xType=0&yType=67
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: NEAS)*

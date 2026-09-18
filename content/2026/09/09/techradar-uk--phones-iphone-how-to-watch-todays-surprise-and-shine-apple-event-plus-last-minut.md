@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Apple's big September event is happening today, and we're expecting several
   phones plus new wearables, home devices, and software.
 image: https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Apple Surprise and shine invite](https://cdn.mos.cms.futurecdn.net/qFQb6btdAY79pqL3HsSSU8.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-21T00:00:00Z'
 description: We've found the cheapest way to stream all 380 Premier League games,
   courtesy of SuperSport in Nigeria, JioHotstar in India and Setanta Sports in Ukraine.
 image: https://cdn.mos.cms.futurecdn.net/5CvukKXkWCrhAGfArzu3oJ-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
+- Sports
 ---
 
 ![Aston Villa's Matty Cash in action in the Premier League](https://cdn.mos.cms.futurecdn.net/5CvukKXkWCrhAGfArzu3oJ.jpg) 

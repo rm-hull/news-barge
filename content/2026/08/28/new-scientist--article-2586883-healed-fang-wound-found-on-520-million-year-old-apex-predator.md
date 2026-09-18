@@ -8,6 +8,9 @@ published: '2026-08-28T00:00:00Z'
 description: Something took a bite out of one of the biggest predators in Cambrian
   seas, an extraordinary fossil shows – and it could well be cannibalism
 image: https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309759983.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![Radiodont arthropod Amplectobelua symbrachiata,](https://www.newscientist.com/wp-content/uploads/2026/08/SEI_309759983.jpg?w=840)

@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Erin Piacenti, 32, had just returned to work five months after giving
   birth when she was stabbed to death
 image: https://static.independent.co.uk/2026/09/03/20/28/Erin-Piacenti.webp?trim=49,0,50,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 A fundraiser for the newborn daughter of Erin Piacenti, the Bank of America vice president who was fatally stabbed in Times Square, raised over $650,000 within a day.

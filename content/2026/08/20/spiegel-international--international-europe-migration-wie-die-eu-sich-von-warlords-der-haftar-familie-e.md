@@ -10,6 +10,11 @@ description: Brussels is concerned about the rising number of migrants reaching 
   - and is allowing itself to be blackmailed by the notorious Haftar family in eastern
   Libya, as DER SPIEGEL reporting has found.
 image: https://cdn.prod.www.spiegel.de/images/8fa971c6-7a3b-49a9-8c85-3bb2bf9cbe4a_w1200_r1.778_fpx52_fpy44.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 ![Khalifa Haftar's son Saddam Haftar attending a military parade in Benghazi. Khalifa Haftar's son Saddam Haftar attending a military parade in Benghazi.](https://cdn.prod.www.spiegel.de/images/8fa971c6-7a3b-49a9-8c85-3bb2bf9cbe4a_w960_r1.5_fpx52_fpy44.jpg) 

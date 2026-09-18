@@ -10,6 +10,11 @@ description: 'Five Teesside MPs met with Policing Minister Sarah Jones to say: â
   communities deserve to feel safe, and our emergency services deserve the resources
   and support they need to do their jobs."'
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/08/27/10/26/01M111KRFRV04NZPDSNA8YZN7C.jpg?trim=0,0,0,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Andy Burnham pledges additional support for Cleveland Police after A66 crash and fatal fire

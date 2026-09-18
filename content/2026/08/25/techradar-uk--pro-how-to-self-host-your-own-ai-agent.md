@@ -7,6 +7,9 @@ scraped_at: '2026-08-25T16:50:58Z'
 published: '2026-08-25T00:00:00Z'
 description: Run your own private AI assistant
 image: https://cdn.mos.cms.futurecdn.net/ucFZ7tKSFWyGKUEuuJ74ig-1376-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![openclaw on a mac](https://cdn.mos.cms.futurecdn.net/ucFZ7tKSFWyGKUEuuJ74ig.jpg) 

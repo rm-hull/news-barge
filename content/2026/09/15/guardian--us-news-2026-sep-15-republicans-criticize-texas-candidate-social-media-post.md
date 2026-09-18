@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Karl Rove, a respected GOP consultant, further said he would vote for
   ‘bigot’ Bo French’s Democratic opponent after post
 image: https://i.guim.co.uk/img/media/562461df17cc7bbcd3868622cc96638425079c3d/682_204_4330_3463/master/4330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12d94e2505ae7abd7af73f0321d73f65
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A senior Republican has called a party colleague running for office in Texas “a bigot” over a racist social media post attacking college football fans – and said he is so outraged by the comments that he will vote for the candidate’s Democratic rival.

@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Our Yorkshire Farm's Clive Owen opened up about how difficult life was
   after his operation with his ex-wife calling him "unbearable".
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431440.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Ian West/PA Wire)*

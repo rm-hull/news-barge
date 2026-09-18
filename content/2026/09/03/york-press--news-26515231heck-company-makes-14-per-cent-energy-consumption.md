@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A Well-known North Yorkshire sausage-maker has cut its energy consumption
   across monitored assets by around 14 per cent after installing a new…
 image: https://www.yorkpress.co.uk/resources/images/20537192.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 ## Famous North Yorkshire sausage maker cuts energy use by 14%

@@ -8,6 +8,9 @@ published: '2026-09-15T00:00:00Z'
 description: Decision allows states to send ballots under process followed for years
   even as president tried to limit system
 image: https://i.guim.co.uk/img/media/7e94ec1f1b8fe1586a342d6b0ca7904e1a743774/629_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afc8502832f3f6db581c9afcaa935f16
+categories:
+- UK
+- News & Politics
 ---
 
 The supreme court on Monday rejected Donald Trump’s mail ballot restrictions for now, capping a flurry of last-minute legal action with voting in the midterm elections already underway.

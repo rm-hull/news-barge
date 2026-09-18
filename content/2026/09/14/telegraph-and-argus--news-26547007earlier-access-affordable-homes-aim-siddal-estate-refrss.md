@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Earlier access for new residents' homes at a Halifax estate is the aim
   behind an amendment to a planning application.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21449873.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
 ---
 
 ### What is the Public Notice Portal?

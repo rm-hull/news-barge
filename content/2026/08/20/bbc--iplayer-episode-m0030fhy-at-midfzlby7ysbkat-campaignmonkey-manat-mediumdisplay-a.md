@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: An action-revenge thriller steeped in mythology. An unlikely hero seeks
   vengeance upon the corrupt figures who took everything from him many years ago.
 image: https://ichef.bbci.co.uk/images/ic/1200x675/p0p3x0yt.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 # Monkey Man

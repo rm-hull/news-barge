@@ -9,6 +9,10 @@ description: 'Warnings for extreme conditions have been issued across most of th
   Balkans, as authorities warn of a return to sweltering heat that has swept across
   Europe this summer. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/28/26/1200x675_cmsv2_cf44fc7c-f0da-5dca-af53-05008d781888-9882826.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Warnings for extreme conditions have been issued across most of the Balkans, as authorities warn of a return to sweltering heat that has swept across Europe this summer.

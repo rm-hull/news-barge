@@ -10,6 +10,11 @@ description: Ryan Lasko, a minor league prospect with the Athletics who was para
   in an outfield collision more than two months ago, has been released from an in-patient
   rehabilitation hospital
 image: https://static.independent.co.uk/2026/09/16/16/Athletics_Paralyzed_Prospect_Baseball_53587.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Sports
 ---
 
 Ryan Lasko, a minor league prospect with the Athletics who was paralyzed in an outfield collision more than two months ago, has been released from an in-patient rehabilitation hospital and will continue his recovery from home.

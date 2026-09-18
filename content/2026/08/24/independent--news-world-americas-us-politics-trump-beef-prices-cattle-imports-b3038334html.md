@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Mexico has traditionally provided 1.1 million head, or about 3% of the
   U.S. cattle supply
 image: https://static.independent.co.uk/2026/08/24/18/37/GettyImages-2291865598.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A border crossing in Arizona reopened to Mexican cattle on Monday as part of an effort by the Trump administration to address record-high beef prices but economists doubt the change will bring noticeable relief to supermarket shoppers.

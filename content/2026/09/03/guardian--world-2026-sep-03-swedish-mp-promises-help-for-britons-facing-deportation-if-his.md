@@ -9,6 +9,9 @@ published: '2026-09-03T00:00:00Z'
 description: Niels Paarup-Petersen says a law change can end the plight of British
   citizens caught out by harsh post-Brexit policy as general election looms
 image: https://i.guim.co.uk/img/media/9fb6cce46814866be4bc108fa4785b051aa50c5b/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ab4cf2b59f1db161fe25e552c656a5b
+categories:
+- UK
+- News & Politics
 ---
 
 A leading Swedish opposition party has promised an urgent reprieve for British nationals facing deportation from the country over Brexit administrative issues.

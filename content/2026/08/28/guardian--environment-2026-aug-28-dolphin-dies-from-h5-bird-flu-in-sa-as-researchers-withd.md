@@ -10,6 +10,11 @@ description: Expeditioners at research station on Macquarie Island will be evacu
   over possible ‘psychological stress’, while 100 dead little penguins found on Tasmanian
   island
 image: https://i.guim.co.uk/img/media/47b51af0fcaff09b439b810f83c885141d583ce2/871_0_6745_5401/master/6745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bee7dd358dfddcd976f5e1240d460c6e
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 A dolphin has died from H5 bird flu in South Australia, marking the second native mammal species known to have contracted the virus.

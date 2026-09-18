@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: North Yorkshire Council says the aim is to enhance Scarborough town centre
   and boost "civic pride".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7de/live/78bafcb0-9e3d-11f1-bb45-576721ee33bb.png
+categories:
+- Local
+- Harrogate
+- Society & Culture
 ---
 
 ![A large mural painted on the end wall of a tall terraced building at a street corner. The mural depicts an aerial view of a coastal town, including streets, housing estates, green open spaces and a sweeping sandy bay that curves around the coastline. The artwork is painted in soft shades of green, beige, blue and brown, giving it the appearance of a detailed map or landscape illustration. Near the top of the wall, above the map, there is a circular emblem containing a stylised image of a sailing ship beside a tower or castle-like structure. The emblem is outlined in a pale golden colour and stands out against the light blue background of the upper wall.

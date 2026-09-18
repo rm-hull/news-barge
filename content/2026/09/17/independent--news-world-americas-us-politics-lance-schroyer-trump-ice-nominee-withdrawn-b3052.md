@@ -8,6 +8,9 @@ published: '2026-09-17T00:00:00Z'
 description: Lance Schroyer, a former Oklahoma state trooper with limited direct experience
   in immigration policy, is close to DHS head Markwayne Mullin
 image: https://static.independent.co.uk/2026/06/29/20/2026-06-27T201855Z_1180175876_RC2K2MAHB573_RTRMADP_3_USA-TRUMP-ICE.JPG?trim=478,0,478,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The White House has pulled its controversial nomination of Lance Schroyer, a former Oklahoma state trooper, to lead U.S. Immigration and Customs Enforcement.

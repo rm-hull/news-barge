@@ -9,6 +9,10 @@ published: '2026-09-03T00:00:00Z'
 description: President said Howard Lutnick had Venezuela operation on his mind when
   he was discussing Iran war on CNBC
 image: https://i.guim.co.uk/img/media/9c43c78fbc26177a92707812129b4fa22d9fbb88/577_0_5767_4616/master/5767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de53d65594209aac852b07400029b19d
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Donald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been killed in the war with Iran because he was thinking about a previous US operation, in Venezuela.

@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: A major section of the M3 eastbound has been closed following a serious
   collision near the M25 interchange
 image: https://static.independent.co.uk/2026/09/15/8/06/dieselm3.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Automotive
+- Technology & Software
 ---
 
 Commuters are facing severe morning delays after a serious two-lorry collision triggered a 300-litre diesel spill across a busy stretch of the M3 in Surrey.

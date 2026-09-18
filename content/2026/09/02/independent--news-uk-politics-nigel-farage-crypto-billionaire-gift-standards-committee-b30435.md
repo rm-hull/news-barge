@@ -10,6 +10,11 @@ description: The warning has come from Baroness Harriet Harman who chaired the P
   Committee inquiry into Boris Johnson when his punishment for lying about Partygate
   was increased for trying to undermine the inquiry
 image: https://static.independent.co.uk/2026/08/22/15/22144457-5bfab528-ebda-4fe2-bb82-a82020391510.jpg?trim=113,0,113,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 Nigel Farage has been warned that he could receive a “stiffer penalty” after he claimed that the result of an inquiry into his undeclared £5m donation from a crypto billionaire is rigged against him.

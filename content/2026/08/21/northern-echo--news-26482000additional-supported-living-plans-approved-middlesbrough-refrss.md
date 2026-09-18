@@ -9,6 +9,11 @@ published: '2026-08-21T00:00:00Z'
 description: Plans to build five supported living flats and a car park at Low Lane
   in Middlesbrough have been approved despite concerns about noise and…
 image: https://www.thenorthernecho.co.uk/resources/images/21350389.jpg?type=og-image&xType=0&yType=111
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Google Maps)*

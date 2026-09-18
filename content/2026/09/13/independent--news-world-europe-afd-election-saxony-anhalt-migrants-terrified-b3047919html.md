@@ -9,6 +9,11 @@ description: The AfD’s victory in Saxony-Anhalt has sent shockwaves through Ge
   and Europe as far-right parties continue to rise across the continent. Intense hostility
   has left migrants and minorities in fear of attacks and abuse, Alex Croft reports
 image: https://static.independent.co.uk/2026/09/10/13/00/DSC_4883_small.jpeg?trim=515,0,1147,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 It was election day in the German state of Saxony-Anhalt and Alaa Yakoub Agha was overjoyed. The 55-year-old Syrian, now a German citizen, had voted for the first time since arriving in the country in 2015.

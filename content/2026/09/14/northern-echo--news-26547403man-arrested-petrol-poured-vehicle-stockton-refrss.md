@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Cleveland Police said they were called to St Johns Close in Stockton
   at around 5pm on Sunday, September 13, after reports that the vehicle could be…
 image: https://www.thenorthernecho.co.uk/resources/images/21450934.jpg?type=og-image&xType=0&yType=33
+categories:
+- Local
+- UK
+- News & Politics
+- Automotive
 ---
 
 *(Image: GOOGLE)*

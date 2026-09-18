@@ -9,6 +9,11 @@ description: A teenager who purchased a knife and travelled more than 150 miles 
   confront and fatally stab a man his family had accused of stalking has admitted
   murder.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/13/11/17/1200-x-630-(4).png?trim=0,0,199,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 # Teenager who travelled from Yorkshire to London to kill alleged stalker admits murder

@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T19:32:56Z'
 published: '2026-09-16T00:00:00Z'
 description: Police have executed more than 95 search warrants at the property
 image: https://static.the-independent.com/2026/09/16/18/13/Nicole-Fusaro.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Police have identified a fifth missing woman tied to the Philadelphia “house of horrors” where they continue to search through more than one million photos taken from the former residence of an infamous pornographer.

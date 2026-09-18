@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Leeds Festival, taking place at Bramham Park in Wetherby until Monday
   (August 31), is set to see scattered showers starting in Scotland moving…
 image: https://www.yorkpress.co.uk/resources/images/21389170.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
+- Music
 ---
 
 ## Revellers at huge Yorkshire music festival brace for stormy conditions

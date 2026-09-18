@@ -7,6 +7,11 @@ scraped_at: '2026-09-13T13:18:11Z'
 published: '2026-09-13T00:00:00Z'
 description: Ofgem’s energy price cap surge will increase by £60 per year
 image: https://static.independent.co.uk/2026/09/11/15/11143109-6b8aec31-1a22-47ef-a219-71c672c04a4e.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Andy Burnham could slash up to £200 off energy bills when Britons can expect a surge in gas and fuel prices this winter due to the Iran war.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: JONATHAN and Paul Addy-Armitage run Wuthering Delights Café and Bistro
   on Thornton Road. We spoke to Paul about their business.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21424505.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Food & Cooking
 ---
 
 JONATHAN and Paul Addy-Armitage run Wuthering Delights Café and Bistro on Thornton Road, Thornton. We spoke to Paul about their business.

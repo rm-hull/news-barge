@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Caroline Bryan died three months after being diagnosed of an incurable
   cancer linked to asbestos.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1a4/live/4dc0f750-9fa8-11f1-bff6-57f1422ebb0b.jpg
+categories:
+- UK
+- News & Politics
+- Science
 ---
 
 'Mum died young from asbestos - now my family want justice'

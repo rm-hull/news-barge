@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: Scientists searched for the inclusion of the Gaelic and Scots words for
   oyster or oysters in place-names around Scotland's coast.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bcd/live/d8467c10-b056-11f1-9902-771b6dd8af6a.jpg
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 ![A man and two women stand on a rocky shoreline beside the water, holding oyster shells and strings of oysters toward the camera. 

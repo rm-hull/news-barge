@@ -8,6 +8,9 @@ published: '2026-08-23T00:00:00Z'
 description: A big fan of everything Harry Potter? Take this 30-question pop culture
   quiz on the franchise's games, movies, shows, books and more to prove it.
 image: https://cdn.mos.cms.futurecdn.net/DqWtJvYf43VkKyzuYNg6mb-970-80.jpg
+categories:
+- Technology & Software
+- Comedy & Entertainment
 ---
 
 ![Harry Potter](https://cdn.mos.cms.futurecdn.net/DqWtJvYf43VkKyzuYNg6mb.jpg) 

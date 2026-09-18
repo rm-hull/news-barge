@@ -10,6 +10,10 @@ description: WWatch highlights as Harry Brook shines in the Headingley gloom as 
   build a commanding 195-run lead over Pakistan on a shortened second day of the first
   Test.
 image: https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e91/live/54a45a20-9cca-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 # Brook shines as England take control against Pakistan

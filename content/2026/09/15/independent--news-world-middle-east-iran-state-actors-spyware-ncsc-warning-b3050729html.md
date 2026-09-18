@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: Iranian agents used social engineering tricks such as fake MRI test results
   to lure victims in, the NCSC said
 image: https://static.independent.co.uk/2026/08/06/17/VAfrffaZ4ZECcrRloueaJt42GXJTmVNCzhFgX3-7SWdCFw78TwbZjd8Ux6ANcDDeF6I88-arTAYbZqQoQnYCf2nc02ph3z4CMmZc..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 British intelligence has issued a warning after finding Iranian spies have targeted dissidents with spyware that can enable tracking of their movements.

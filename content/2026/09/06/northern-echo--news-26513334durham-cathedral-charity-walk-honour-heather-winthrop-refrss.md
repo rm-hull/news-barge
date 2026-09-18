@@ -9,6 +9,12 @@ published: '2026-09-06T00:00:00Z'
 description: A group of family members and friends will walk 16 miles to Durham Cathedral
   this month in memory of a woman who spent more than two decades living…
 image: https://www.thenorthernecho.co.uk/resources/images/21398467.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- History
 ---
 
 *(Image: Supplied)*

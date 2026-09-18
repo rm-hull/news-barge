@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: UK employment tribunal examines whether Rockstar Games unlawfully fired
   31 staff for trade union activity
 image: https://i.guim.co.uk/img/media/5818b05b369141fe2111dd363f02d73b1d85b0fb/1304_1194_3087_2469/master/3087.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5343092e13ae598a4ed623e99ef50001
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 A worker fired by the makers of Grand Theft Auto has said he believed employees were put on a “watch list” after signing a petition about remote working.

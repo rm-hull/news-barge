@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: A volunteer will run the Great North Run in 10kg of lifeboat gear to
   raise money for the RNLI.
 image: https://www.thenorthernecho.co.uk/resources/images/21429675.jpg?type=og-image&xType=0&yType=335
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: RNLI/Helen Cowan)*

@@ -7,6 +7,11 @@ scraped_at: '2026-08-20T13:06:50Z'
 published: '2026-08-20T00:00:00Z'
 description: AN equestrian firm has adopted a rescue horse as part of a charity partnership.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21345940.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: Supplied)*

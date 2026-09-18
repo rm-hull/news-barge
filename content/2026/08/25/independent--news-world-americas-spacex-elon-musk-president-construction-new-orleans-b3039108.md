@@ -8,6 +8,12 @@ published: '2026-08-25T00:00:00Z'
 description: Elon Musk’s space company plans to spend $100 billion to build a new
   spaceport in Louisiana to launch rockets
 image: https://static.independent.co.uk/2026/08/25/19/SpaceX_Louisiana_5_192.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 Elon Musk's space company plans to spend $100 billion to build a new spaceport in Louisiana to launch rockets, state officials and the company announced Tuesday.

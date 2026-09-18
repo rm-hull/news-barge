@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: European 800m champion Audrey Werro backs herself to overhaul one of
   athletics' oldest and most controversial world records.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9216/live/d8fd1e50-a162-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Audrey Werro celebrates by mimicking a lion's claws and roar](https://ichef.bbci.co.uk/ace/standard/995/cpsprodpb/e0fb/live/f5ec74d0-a161-11f1-aaf8-119f176ff4ce.jpg)

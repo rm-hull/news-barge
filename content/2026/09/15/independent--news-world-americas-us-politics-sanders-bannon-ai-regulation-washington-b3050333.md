@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Senator Bernie Sanders and conservative podcaster Steve Bannon will together
   on Tuesday call for restrictions on AI systems
 image: https://static.independent.co.uk/2026/08/26/23/2271087022..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Progressive Senator Bernie Sanders and conservative podcaster Steve Bannon are uniting on Tuesday to demand stringent regulations on artificial intelligence, forming an unexpected partnership rooted in shared concerns that the emerging technology poses serious risks to human welfare.

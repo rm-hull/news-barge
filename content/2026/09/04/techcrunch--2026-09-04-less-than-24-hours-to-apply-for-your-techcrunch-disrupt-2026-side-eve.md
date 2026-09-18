@@ -9,6 +9,9 @@ description: Less than 24 hours left to apply to host a Side Event during TechCr
   Disrupt 2026 in San Francisco. Apply before the application closes on September
   4
 image: https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026. Applications close tonight at midnight PT.

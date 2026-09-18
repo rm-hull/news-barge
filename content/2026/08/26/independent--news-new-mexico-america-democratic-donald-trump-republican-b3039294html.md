@@ -10,6 +10,11 @@ description: In the small Nebraska village of Murdock, now-paused plans for two 
   data centers have sparked the kinds of debates that have raged in cities and towns
   across the country — and often cut across ideological lines
 image: https://static.independent.co.uk/2026/08/26/05/Politics_Data_Centers_22596.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- History
 ---
 
 In rural eastern Nebraska, a technology revolution could rise from fields of corn and soybean in the form of new data centers to power the artificial intelligence boom.

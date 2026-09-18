@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: Iran dismissed Donald Trump’s renewed claims that the Islamic Republic
   is seeking a quick deal to end the war
 image: https://static.independent.co.uk/2026/09/14/18/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- History
 ---
 
 Iran vowed to fight on “until the last drop of blood” on Wednesday after threatening the United States that peace talks will not resume until all of their conditions are met.

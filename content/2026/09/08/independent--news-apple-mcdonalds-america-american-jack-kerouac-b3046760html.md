@@ -7,6 +7,11 @@ scraped_at: '2026-09-08T19:25:27Z'
 published: '2026-09-08T00:00:00Z'
 description: Flaky, golden crust
 image: https://static.independent.co.uk/2026/09/08/17/America_25__Objects_Apple_Pie_87696.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
+- History
 ---
 
 Flaky, golden crust. Apple juices bubbling through its vents. The scent of cinnamon.

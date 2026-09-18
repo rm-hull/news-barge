@@ -9,6 +9,12 @@ description: The Small Business Administration is proposing a rule that would ma
   increase the cap at which companies are considered ‘small’ – with some allowed to
   make over $1 billion
 image: https://static.independent.co.uk/2026/08/26/20/2026-08-24T181512Z_1182579263_RC245NAX44VO_RTRMADP_3_USA-VANCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 The Trump administration wants to change what it means to be a small business by raising the standard, allowing certain companies with more than 3,000 employees and making $1 billion to apply for federal loans and grants.

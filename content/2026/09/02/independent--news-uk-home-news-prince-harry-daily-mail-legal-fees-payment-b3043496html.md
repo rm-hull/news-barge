@@ -9,6 +9,12 @@ published: '2026-09-02T00:00:00Z'
 description: Further cost hearings are expected after Associated Newspapers Limited
   said their overall legal fees amounted to over £34m
 image: https://static.independent.co.uk/2026/08/21/10/2026-08-21T060005Z_1596199161_RC215JA77EYY_RTRMADP_3_BRITAIN-ROYALS-HARRY.JPG?trim=0,4,0,4&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Prince Harry and a group of household names have settled an initial payment of £9.5m in legal fees to the Daily Mail publisher, *The Independent* understands.

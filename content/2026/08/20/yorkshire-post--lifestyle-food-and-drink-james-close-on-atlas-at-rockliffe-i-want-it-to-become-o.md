@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: James Close is opening new restaurant Atlas at the five-star hotel Rockliffe.
   He speaks to Ralph Blackburn about aiming big and giving diners a memorable experience.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmY5MzdhMzEyLTlkOGUtNDc5MC04NWE3LWFkZmE1ZTQzYmNjNjphMWQ4MTVhNS1kYTcxLTRhZjItOGVmYi00NzljY2ZjZDkxNmM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 # James Close on Atlas at Rockliffe: 'I want it to become one of the world’s best restaurants'

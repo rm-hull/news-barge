@@ -9,6 +9,10 @@ description: Lebanon’s Health Ministry says Israel’s air force carried out t
   early Monday on a southern Lebanese village, killing at least nine people including
   women and children
 image: https://static.independent.co.uk/2026/09/07/09/Lebanon_Israel_21_87.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13

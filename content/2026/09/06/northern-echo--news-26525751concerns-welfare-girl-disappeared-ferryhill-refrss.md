@@ -8,6 +8,12 @@ published: '2026-09-06T00:00:00Z'
 description: Police have launched an appeal to identify a girl they are concerned
   about after she was last seen in Ferryhill.
 image: https://www.thenorthernecho.co.uk/resources/images/21416157.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 *(Image: DURHAM CONSTABULARY)*

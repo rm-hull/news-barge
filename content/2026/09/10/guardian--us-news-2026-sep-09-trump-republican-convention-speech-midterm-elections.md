@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: In two-hour address, president asked voters to ‘pretend that I’m on the
   ballot’ despite being deeply unpopular among electorate
 image: https://i.guim.co.uk/img/media/291b01545b3eb128557aca96872c94a433d3678d/528_0_4194_3357/master/4194.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925f957aa1c6e8a394c3b78aca059543
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Donald Trump said every adult citizen in the US will receive a dividend of $5,000 if Republicans retain the House and Senate in the midterm elections, while delivering a historically long convention speech in Dallas in which the president assailed Democrats as radical communists and defended his unpopular war in Iran.

@@ -8,6 +8,10 @@ scraped_at: '2026-08-26T23:24:45Z'
 published: '2026-08-26T00:00:00Z'
 description: The hackers are asking for $13 million
 image: https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 ![Phishing, E-Mail, Network Security, Computer Hacker, Cloud Computing Cyber Security 3d Illustration](https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX.jpg) 

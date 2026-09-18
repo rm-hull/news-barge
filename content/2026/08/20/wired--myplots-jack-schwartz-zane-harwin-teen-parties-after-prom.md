@@ -9,6 +9,10 @@ description: The West Coast house-party scene has long been iconic. For these yo
   tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion
   empire.
 image: https://media.wired.com/photos/6a84b0b569f773e1f551bc61/191:100/w_1280,c_limit/MYPLOTS-GAJ32a-web.jpg
+categories:
+- Technology & Software
+- Science
+- Arts & Culture
 ---
 
 When I ask Jack Schwartz how much he’s charging for a table at his upcoming party in Manhattan, he offers to “show” me instead of answering with words. Then, the 21-year-old reaches into his black leather jacket, pulls out a white envelope containing $27,500 in cash—neatly separated into three stacks—and slides it across a countertop at WIRED’s office in New York, his right hand flashing a $10,000 diamond- and sapphire-encrusted gold ring.

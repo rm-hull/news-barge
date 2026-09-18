@@ -9,6 +9,10 @@ description: The victim’s body was found in a field by children walking to sch
   in 1981, but the investigation stalled for decades until advanced genetic genealogy
   reopened the trail
 image: https://static.the-independent.com/2026/08/31/22/11/Bexar-county.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Authorities in Texas have arrested a man in connection with a 1981 cold-case murder after forensic investigators matched DNA found under the victim’s fingernails to a discarded beer can retrieved from the suspect’s trash.

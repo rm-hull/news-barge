@@ -9,6 +9,11 @@ description: Nearly 40,000 young people under the age of 16 voted in a symbolic 
   election. Nearly 40,000 young people voted in a symbolic eletion in Berlin, Die
   Tierschutzpartei get a surprising number of votes.
 image: https://www.the-berliner.com/wp-content/uploads/2026/09/imago0090213731h-scaled.jpg
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 ![](https://www.the-berliner.com/wp-content/uploads/2026/09/imago0090213731h-scaled.jpg)

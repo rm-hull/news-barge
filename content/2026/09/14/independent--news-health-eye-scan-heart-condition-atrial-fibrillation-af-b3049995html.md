@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Non-invasive eye scans can pick up signs of atrial fibrillation (AF),
   a condition that heightens risk of stroke
 image: https://static.independent.co.uk/2026/09/14/16/01M2F8F3BQMS45TVTG0E8J4YM2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Science
 ---
 
 Eye scans could assist in identifying a widespread heart condition that heightens stroke risks years before diagnosis, a study has found.

@@ -9,6 +9,9 @@ description: 'Iceland has voted 52.8% to 47.2% against resuming accession negoti
   with the European Union, effectively closing the door on membership. Here are the
   four takeaways from the referendum. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/43/33/1200x675_cmsv2_ee172f29-8fba-536a-9a7c-2bd9df322961-9894333.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Iceland has voted 52.8% to 47.2% against resuming accession negotiations with the European Union, effectively closing the door on membership. Here are the four takeaways from the referendum.

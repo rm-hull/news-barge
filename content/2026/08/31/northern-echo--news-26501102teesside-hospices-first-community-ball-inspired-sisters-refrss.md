@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: Beth and Lisa Wheatland helped inspire Teesside Hospice's first Together
   We Care Community Ball after losing both parents within a month of…
 image: https://www.thenorthernecho.co.uk/resources/images/21379727.jpg?type=og-image&xType=0&yType=398
+categories:
+- Local
+- UK
+- News & Politics
+- Family & Parenting
 ---
 
 A new community ball inspired by two sisters who lost both parents within a month of each other will take place this autumn in their memory.

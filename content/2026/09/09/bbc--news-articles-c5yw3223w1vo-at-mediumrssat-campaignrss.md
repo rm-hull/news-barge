@@ -8,6 +8,10 @@ published: '2026-09-09T00:00:00Z'
 description: The prime minister says he will fund defence and get the welfare bill
   down in "the Labour way".
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7393/live/1fc036f0-ac5e-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Personal Finance & Investing
 ---
 
 National security 'can't come at the expense of social security', says Burnham

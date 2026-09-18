@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Investors also digested UK Chancellor John Healey’s pledge to control
   public spending ahead of next month’s Budget.
 image: https://static.independent.co.uk/2026/09/07/17/a68c2fdf986205a45875ca227646077bY29udGVudHNlYXJjaGFwaSwxNzg4ODg0MDk3-2.84271579.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Stock prices in London closed slightly lower on Monday, as rising oil prices fuelled inflation concerns, while investors also digested UK Chancellor John Healey’s pledge to control public spending ahead of next month’s Budget.

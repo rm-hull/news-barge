@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: The announcement came as Russian strikes on Ukraine's Dnipropetrovsk
   region killed four overnight, per local authorities.
 image: https://images.euronews.com/articles/stories/09/90/23/10/1200x675_cmsv2_8cda4534-6a58-5926-ace2-b6f26182ea9c-9902310.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## The announcement came as Russian strikes on Ukraine's Dnipropetrovsk region killed four overnight, per local authorities.

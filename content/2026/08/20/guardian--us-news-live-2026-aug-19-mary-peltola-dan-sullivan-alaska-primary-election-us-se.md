@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: Jon Husted campaign reportedly concerned that rival Sherrod Brown successfully
   channelling outrage over energy-guzzling facilities
 image: https://i.guim.co.uk/img/media/a932257314b35733da2e614262acf2fa99c9d2a7/0_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=10776d9f34439f0c8e5206635b469b7a
+categories:
+- UK
+- News & Politics
 ---
 
 Republicans reportedly fear datacenter backlash could cost them Ohio Senate seat

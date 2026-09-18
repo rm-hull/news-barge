@@ -10,6 +10,13 @@ description: The Reform UK leader claimed that in “the first 100 days we will 
   fundamental changes in how this country is run” as he tried to move on from the
   finance scandal.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/04/16/43/01M1PMNMR06QTYY6VR3HBD6WGK.jpg?trim=1,0,1,0&crop=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 # Nigel Farage speech: Reform leader admits aides' donation comments were 'problematic' amid protester interruptions

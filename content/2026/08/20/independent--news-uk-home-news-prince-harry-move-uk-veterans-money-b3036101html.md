@@ -8,6 +8,10 @@ scraped_at: '2026-08-20T08:52:44Z'
 published: '2026-08-20T00:00:00Z'
 description: Comes as Harry, who served in the Army, looks to move back to the UK
 image: https://static.independent.co.uk/2026/08/20/06/0pKhTrc-IyMQlAP8pkbqmsrsA34ZFtKXLgO63lw8u4Sq_dyw9UoIKexONhQIQoK9-8zCgh1vs2wvBCFYL4u1iSW1MVnA9dh-nTNR..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 The Duke of Sussex is set to launch a commercial scheme to help former military personnel.

@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: John Ratcliffe met with his Russian counterpart this week to discuss
   Nato, the wars in Ukraine and Iran, according to reports
 image: https://static.independent.co.uk/2026/08/27/14/download..?trim=81,0,81,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 The head of the CIA told his Russian counterpart to make a deal with Ukraine as Moscow’s position deteriorates during a secretive visit this week, according to a report.

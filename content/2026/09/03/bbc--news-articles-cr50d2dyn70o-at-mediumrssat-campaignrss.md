@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: The vertical banknote features King Charles III, the first new monarch
   to appear on a Canadian banknote in more than 70 years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5e3/live/e1398a40-a7c0-11f1-b5cf-8556ae508a51.jpg
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 ![An image showing the vertical Canadian banknote showing its front and back. The banknote is green. On the front there is a portrait of King Charles, with floral and leafy motifs around him. Above him is a small Canadian flag, the words CANADA and the number 20 to his left. 

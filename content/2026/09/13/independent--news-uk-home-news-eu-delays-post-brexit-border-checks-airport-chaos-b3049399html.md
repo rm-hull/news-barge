@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Countries said they would not enforce the new controls until the technology
   and systems were working correctly
 image: https://static.independent.co.uk/2026/08/10/11/2236679769..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 At least nine countries have reportedly delayed implementing the European Union’s controversial entry-exit system (EES).

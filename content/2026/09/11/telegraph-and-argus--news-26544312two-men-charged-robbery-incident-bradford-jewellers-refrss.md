@@ -9,6 +9,11 @@ published: '2026-09-11T00:00:00Z'
 description: Two men will appear in court this weekend charged with robbery over what
   police described as an "attack" at a Bradford jewellers.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21437193.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: Newsquest)*

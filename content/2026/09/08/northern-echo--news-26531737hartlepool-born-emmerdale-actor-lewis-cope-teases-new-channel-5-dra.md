@@ -9,6 +9,12 @@ published: '2026-09-08T00:00:00Z'
 description: Hartlepool-born actor Lewis Cope stars as Kaden Barrie in Forever Home,
   Channel 5’s six-part adaptation of Graham Norton’s bestselling novel,…
 image: https://www.thenorthernecho.co.uk/resources/images/21424381.jpg?type=og-image&xType=0&yType=299
+categories:
+- Local
+- UK
+- News & Politics
+- Film & TV
+- Arts & Culture
 ---
 
 *(Image: Helen Williams/ Channel 5)*

@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: The road closure and resulting diversions away from Fishergate are continuing
   to cause long delays for commuters.
 image: https://www.gazetteherald.co.uk/resources/images/21397456.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 A road closure on part of York’s inner ring road was continuing to blight motorists today - causing long queues of traffic.

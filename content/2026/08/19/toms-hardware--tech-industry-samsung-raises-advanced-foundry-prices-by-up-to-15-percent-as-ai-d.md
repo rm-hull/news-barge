@@ -8,6 +8,10 @@ scraped_at: '2026-08-19T21:32:38Z'
 published: '2026-08-19T00:00:00Z'
 description: 4nm line at Pyeongtaek reportedly at full capacity
 image: https://cdn.mos.cms.futurecdn.net/xH8TirG2whmYMw3dbUZpyA-2000-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Samsung](https://cdn.mos.cms.futurecdn.net/xH8TirG2whmYMw3dbUZpyA.jpg) 

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: Republicans are attempting to maintain their majorities in the House
   of Representatives and Senate in the November 3 elections
 image: https://static.independent.co.uk/2026/08/26/14/APTOPIX_Supreme_Court_Trump_Elections_26538.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Two Republican campaign committees have asked the U.S. Supreme Court to preserve a federal rule granting them discounted television and radio advertising rates, as President Donald Trump's party seeks to retain control of Congress in November's midterms.

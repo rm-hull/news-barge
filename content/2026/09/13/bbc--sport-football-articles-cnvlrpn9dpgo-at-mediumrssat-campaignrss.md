@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Burnley manager Jackie Bachteler will be in the dugout at Turf Moor on
   Sunday for the first time - but nine months ago she was fighting for her life.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d2b8/live/6d2792b0-af3a-11f1-bc4c-5f7bf3ecdb69.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Jackie Bachteler says Burnley stepped up and 'supported me through everything' as she learned how to walk again

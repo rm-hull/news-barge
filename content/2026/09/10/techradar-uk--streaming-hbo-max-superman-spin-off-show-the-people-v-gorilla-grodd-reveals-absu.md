@@ -10,6 +10,9 @@ published: '2026-09-10T00:00:00Z'
 description: DC fans have received their first look at the Superman spin-off show
   via myriad behind-the-scenes images and videos.
 image: https://cdn.mos.cms.futurecdn.net/Rej3Az65KggnSeCFeLXF9b-1200-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![A behind-the-scenes image of a man wearing a gorilla costume while shooting DCU TV show The People v Gorilla Grodd](https://cdn.mos.cms.futurecdn.net/Rej3Az65KggnSeCFeLXF9b.jpg) 

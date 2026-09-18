@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: The Trump-backed political newcomer defeated Ralph Norman in Tuesday’s
   special Republican primary runoff
 image: https://static.independent.co.uk/2026/08/26/02/2291331448..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 U.S. Sen. Darline Graham has secured the Republican nomination on South Carolina’s general election ballot to replace her late brother, Lindsey Graham.

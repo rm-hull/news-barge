@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: TG Jones is set to close 19 stores across the UK during September as
   part of a major restructure.
 image: https://www.thenorthernecho.co.uk/resources/images/21399806.jpg?type=og-image&xType=0&yType=100
+categories:
+- Local
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 *(Image: PA)*

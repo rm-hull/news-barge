@@ -9,6 +9,9 @@ published: '2026-08-19T00:00:00Z'
 description: Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of
   Bolivian lawyer Nadia Beller
 image: https://i.guim.co.uk/img/media/2c81962a032157970d2cbd191f9c0423ba10f03c/40_0_3282_2625/master/3282.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=099916ec5621333bc3df358da602498b
+categories:
+- UK
+- News & Politics
 ---
 
 A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend.

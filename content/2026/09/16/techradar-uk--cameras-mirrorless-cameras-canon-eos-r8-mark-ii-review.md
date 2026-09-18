@@ -10,6 +10,8 @@ description: Canon's EOS R8 Mark II upgrades the entry-level full-frame EOS R8 m
   camera with a fresh new look, in-body image stabilization, useful controls and performance
   improvements
 image: https://cdn.mos.cms.futurecdn.net/dRdDNrMKSjQnW7yzbDbuNc-2000-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### Early Verdict

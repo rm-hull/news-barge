@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: Greater Manchester Police gave the teacher a conditional caution for
   causing a child under 13 to engage in sexual activity
 image: https://static.independent.co.uk/2026/09/11/22/53/Audenshaw-School.png?trim=0,210,0,210&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Family & Parenting
 ---
 
 A secondary school teacher has been banned from the profession after using Google Translate to ask a child to remove their shorts on a streaming platform.

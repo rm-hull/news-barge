@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A six-bedroom terraced house in Harrogate, which has been comprehensively
   refurbished, is now for sale for £875,000.
 image: https://www.yorkpress.co.uk/resources/images/21373502.jpg?type=og-image
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 ## Take a look inside refurbished six-bedroom Harrogate home for £875,000

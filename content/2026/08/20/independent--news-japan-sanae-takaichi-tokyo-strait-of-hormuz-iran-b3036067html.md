@@ -8,6 +8,11 @@ published: '2026-08-20T00:00:00Z'
 description: Japan’s imports and exports set records in July, though soaring energy
   costs and a weak yen helped extend a trade deficit for a third straight month
 image: https://static.independent.co.uk/2026/08/17/03/Japan_Economy_96424.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Japan’s imports and exports set records in July and soaring energy costs and a weak yen helped extend a trade deficit for a third month, government data showed.

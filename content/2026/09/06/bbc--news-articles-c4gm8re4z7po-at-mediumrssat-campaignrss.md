@@ -8,6 +8,10 @@ published: '2026-09-06T00:00:00Z'
 description: Ryan Bridge faces a string of charges including racially aggravated harassment,
   threats and assault.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/376a/live/43691bb0-aa30-11f1-bdbb-8bb5df16290b.png
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 ![Image shows a man with tied back blonde/grey hair holding a black microphone.  He is talking and smiling, wearing a black jacket and a black hoodie with a white logo that says in blue 'Raise The Colours'](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/376a/live/43691bb0-aa30-11f1-bdbb-8bb5df16290b.png)

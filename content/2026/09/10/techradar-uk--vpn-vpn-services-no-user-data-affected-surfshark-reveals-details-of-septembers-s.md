@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: A human error exposed an internal engineering environment to the internet,
   but the VPN provider stresses that customer traffic and data were never at risk
 image: https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![surfshark vpn](https://cdn.mos.cms.futurecdn.net/i8zhkJKdgFso7HtCzMowC9.jpg) 

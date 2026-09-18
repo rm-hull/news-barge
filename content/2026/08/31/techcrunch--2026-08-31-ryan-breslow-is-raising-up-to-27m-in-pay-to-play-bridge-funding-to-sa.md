@@ -9,6 +9,10 @@ published: '2026-08-31T00:00:00Z'
 description: The controversial founder of the checkout startup once valued at $11
   billion is putting in $5 million of his own money.
 image: https://techcrunch.com/wp-content/uploads/2024/09/ryan-breslow-bolt.jpg?resize=1200,800
+categories:
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 Ryan Breslow, the controversial entrepreneur who returned as CEO of Bolt last year after years of legal battles and clashes with investors, refuses to give up on the checkout processing startup he co-founded in 2014.

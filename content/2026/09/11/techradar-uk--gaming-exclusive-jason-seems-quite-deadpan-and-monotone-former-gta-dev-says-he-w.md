@@ -10,6 +10,9 @@ published: '2026-09-11T00:00:00Z'
 description: Former Rockstar Games developer Mike York has shared his thoughts on
   Grand Theft Auto 6's big gameplay reveal and co-protagonists Jason and Lucia.
 image: https://cdn.mos.cms.futurecdn.net/dfjfmvbQNcwCpXaUSykQX5-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![GTA 6](https://cdn.mos.cms.futurecdn.net/dfjfmvbQNcwCpXaUSykQX5.jpg) 

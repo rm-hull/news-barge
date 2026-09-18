@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: One of Mr Newton's defining moments was acquiring the rights to J.K.
   Rowling's first Harry Potter book after several publishers had rejected it
 image: https://static.independent.co.uk/2024/05/29/11/10144116-051b97b1-12fd-4543-9eaa-32a666e13971.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Bloomsbury, the publishing house behind *Harry Potter*, has outlined a five-year succession plan for founder Nigel Newton, who has steered the company for four decades.

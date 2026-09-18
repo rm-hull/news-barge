@@ -10,6 +10,11 @@ description: The meeting comes shortly after a United Nations panel warned that 
   advancements in artificial intelligence are outpacing both regulatory frameworks
   and scientific comprehension
 image: https://static.independent.co.uk/2026/09/01/11/2026-08-31T195159Z_1938148164_RC2V9NAADEH8_RTRMADP_3_USA-TRUMP.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Science
 ---
 
 A two-day summit hosted by U.S. Commerce Secretary Howard Lutnick and White House technology adviser Michael Kratsios will promote a "pro-growth vision for the future of emerging technologies," according to a statement from Kratsios, previously with data firm Scale AI.

@@ -9,6 +9,11 @@ published: '2026-08-30T00:00:00Z'
 description: The Met Office has put the warning in place for Darlington, Durham, Tyne
   and Wear, Northumberland and Teesside from 11am until 11.59pm today (August…
 image: https://www.thenorthernecho.co.uk/resources/images/18360633.jpg?type=og-image&xType=0&yType=56
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 *(Image: MET OFFICE)*

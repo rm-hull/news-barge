@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: Rescuers found 44 survivors on board the vessel but bad weather meant
   they had to leave five bodies behind.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d3f/live/2ff9a0d0-a77f-11f1-b2d5-535b3b3d379f.png
+categories:
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 ![Migrants disembark vessel in Arguineguín, Gran Canaria, Spain, on 3 September](https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0d3f/live/2ff9a0d0-a77f-11f1-b2d5-535b3b3d379f.png)

@@ -8,6 +8,10 @@ published: '2026-09-07T00:00:00Z'
 description: Jaguar Land Rover has announced plans to cut 4,000 jobs globally to reduce
   costs and compete with Chinese electric carmakers
 image: https://static.independent.co.uk/2026/09/07/14/Britain_Jaguar_Land_Rover_96613.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Jaguar Land Rover said Monday it will cut 4,000 jobs across its global workforce as it tries to cut costs and compete with Chinese electric carmakers.

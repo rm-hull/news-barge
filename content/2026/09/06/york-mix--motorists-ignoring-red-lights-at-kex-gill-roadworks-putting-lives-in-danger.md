@@ -8,6 +8,10 @@ scraped_at: '2026-09-06T18:16:04Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/Untitled1.jpg
+categories:
+- Local
+- York
+- Travel
 ---
 
 The new stretch of the A59 at Kex Gill between Harrogate and Skipton is open but roadworks remain in place with traffic lights and that has caused some pretty long queues this week.

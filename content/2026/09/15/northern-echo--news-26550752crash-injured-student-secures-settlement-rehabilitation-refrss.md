@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: A North Yorkshire college student who suffered life-changing brain and
   spinal injuries in a crash has secured a settlement to fund his…
 image: https://www.thenorthernecho.co.uk/resources/images/21456286.jpg?type=og-image&xType=0&yType=502
+categories:
+- Local
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 A college student who suffered life-changing brain and spinal injuries in a crash has secured a settlement to fund his rehabilitation.

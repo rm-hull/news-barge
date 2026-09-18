@@ -8,6 +8,13 @@ published: '2026-08-20T00:00:00Z'
 description: A commercial vehicles retailer registered in York has gone into liquidation
   owing almost £1 million.
 image: https://www.gazetteherald.co.uk/resources/images/21347888.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Technology & Software
 ---
 
 *(Image: Rightmove)*

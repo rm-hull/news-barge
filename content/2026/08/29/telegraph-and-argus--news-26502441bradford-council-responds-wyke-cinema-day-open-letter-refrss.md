@@ -9,6 +9,10 @@ published: '2026-08-29T00:00:00Z'
 description: Bradford Council has responded to an open letter from the organisers
   of Wyke Cinema Day.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21298373.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
 ---
 
 *(Image: Jodie Cottrell / Big TV)*

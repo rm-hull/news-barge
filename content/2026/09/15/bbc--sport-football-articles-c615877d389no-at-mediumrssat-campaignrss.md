@@ -9,6 +9,10 @@ published: '2026-09-15T00:00:00Z'
 description: Craig Bellamy hands a first call-up to Cardiff City forward Cian Ashford
   for Wales' Nations League A campaign but is without key defender Joe Rodon.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea98/live/ffd19250-b0c0-11f1-bc1f-3f186ca4140c.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Separate close-up images of Joe Rodon (left) and Cian Ashford (right) both in red Wales kit](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/ea98/live/ffd19250-b0c0-11f1-bc1f-3f186ca4140c.png)

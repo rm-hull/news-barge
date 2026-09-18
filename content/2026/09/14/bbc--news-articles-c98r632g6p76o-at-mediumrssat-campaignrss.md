@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Stars from the latest hit TV shows turn out at the biggest night in the
   US TV calendar.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8eb7/live/df0c4b10-b0b5-11f1-bc1f-3f186ca4140c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Film & TV
 ---
 
 Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet

@@ -10,6 +10,10 @@ description: Plans have been submitted to replace an existing BMX track in Patel
   Bridge with a new purpose-built pump track designed to cater for everyone from beginners
   to experienced riders.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjRiZjIyYTI0LTJiOGUtNDljYy1iNTc1LTk1OTUzM2EyZTg2MjoxNWY3YzFmNS0zNjg5LTRhNjQtYjliYS00OGJjNGYzZTZmZmU=.jpg?crop=3:2,smart&trim=&width=991&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Technology & Software
 ---
 
 # Community-backed plans submitted for new all-abilities pump track in Pateley Bridge

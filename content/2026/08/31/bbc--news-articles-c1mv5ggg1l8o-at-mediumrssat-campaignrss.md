@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Ayten and Hayri Bicer's two young children are among 20 missing in an
   incident that killed eight people.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- Family & Parenting
 ---
 
 ![Ayten Bicer and Hayri Bicer, whose two children are missing after a passenger boat capsized off the coast of Kyrenia,](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png)

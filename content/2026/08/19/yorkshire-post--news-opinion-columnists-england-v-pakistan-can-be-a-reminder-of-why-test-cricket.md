@@ -9,6 +9,12 @@ description: Cricket is woven into the fabric of this great region, whether it i
   fans following the fortunes of Yorkshire County Cricket Club or the latest international
   involving England.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVlYTVlMThmLWUwOTMtNGRlYi1hOWU4LTczMmRlMWY2ZmZkNjowZWRhNTI0ZS0xYTNiLTQxOGMtOTdlYS1iMDgwYjQ3MmNiYmI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Sports
+- History
 ---
 
 # England v Pakistan can be a reminder of why test cricket belongs at Headingley

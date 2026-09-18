@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: A POPULAR holiday park in North Yorkshire could reduce the number of
   static caravans at its site in order to remain “attractive to tourists”.
 image: https://www.gazetteherald.co.uk/resources/images/21385897.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 ### What is the Public Notice Portal?

@@ -8,6 +8,11 @@ published: '2026-09-03T00:00:00Z'
 description: Famous for the 1963 exposé in which she worked as a Playboy Bunny, her
   books and journalism took on many varieties of discrimination
 image: https://i.guim.co.uk/img/media/40b70b8f5b6aa7ba38af77c2ac99e035c0c765db/0_68_5256_3154/master/5256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43971682c6296560810fc844e5b7bef8
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- Society & Culture
 ---
 
 Gloria Steinem, the American feminist and journalist whose activism helped push through greater rights for women around the world has died, aged 92.

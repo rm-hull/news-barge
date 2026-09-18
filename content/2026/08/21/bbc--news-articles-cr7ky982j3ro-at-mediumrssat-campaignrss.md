@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: The python is believed to be the first snake in the world to receive
   the treatment.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2eed/live/c8d5ece0-9bcd-11f1-bb4d-1147ef2e78e5.jpg
+categories:
+- UK
+- News & Politics
+- Health & Fitness
+- Science
 ---
 
 ![A snake has its mouth held open with a large roller as it undergoes electrochemotherapy. A number of wires are coming out of its mouth.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/2eed/live/c8d5ece0-9bcd-11f1-bb4d-1147ef2e78e5.jpg)

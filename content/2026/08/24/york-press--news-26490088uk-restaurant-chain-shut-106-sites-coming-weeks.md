@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Beefeater has confirmed the closing date of all its restaurants across
   the UK, with the mass closures part of owner Whitbread’s major…
 image: https://www.yorkpress.co.uk/resources/images/21232875.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
 ---
 
 *(Image: Getty Images)*

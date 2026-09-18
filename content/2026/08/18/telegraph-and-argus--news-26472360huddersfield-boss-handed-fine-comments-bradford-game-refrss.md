@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: Huddersfield Giants head coach Jim Lenihan has been fined for his incendiary
   comments after the Bradford Bulls won at the Accu Stadium in mid-July.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21332551.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Allan McKenzie/SWpix.com)*

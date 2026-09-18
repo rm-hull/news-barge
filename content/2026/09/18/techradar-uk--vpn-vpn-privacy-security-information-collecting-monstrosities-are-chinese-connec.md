@@ -9,6 +9,8 @@ published: '2026-09-18T00:00:00Z'
 description: From facial recognition to tracking every turn, modern cars have quietly
   become the ultimate surveillance threat.
 image: https://cdn.mos.cms.futurecdn.net/8yTfkYjsKrLAD83Z9JWU3X-2121-80.png
+categories:
+- Technology & Software
 ---
 
 ![Interior of a onnected cars, with AI concept + Leave No Trace logo on top left](https://cdn.mos.cms.futurecdn.net/8yTfkYjsKrLAD83Z9JWU3X.png) 

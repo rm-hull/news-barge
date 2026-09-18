@@ -9,6 +9,11 @@ published: '2026-09-05T00:00:00Z'
 description: The walking around Upper Swaledale encapsulates much which makes the
   Yorkshire Dales a great area to explore.
 image: https://www.thenorthernecho.co.uk/resources/images/21375946.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 The walking around Upper Swaledale encapsulates much which makes the Yorkshire Dales a great area to explore.

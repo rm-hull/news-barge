@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: An 8-year-old girl in Louisiana has died after being infected by an extremely
   rare brain-eating amoeba that is found in warm freshwater
 image: https://static.independent.co.uk/2026/08/24/20/Louisiana_Brain_Amoeba_Death_48394.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
 ---
 
 An 8-year-old girl in Louisiana has died after being infected by an extremely rare brain-eating amoeba that is found in warm freshwater, her family says.

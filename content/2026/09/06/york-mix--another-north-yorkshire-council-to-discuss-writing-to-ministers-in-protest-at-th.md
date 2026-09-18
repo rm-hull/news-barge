@@ -7,6 +7,10 @@ scraped_at: '2026-09-06T18:16:18Z'
 published: '2026-09-06T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/raf-linton-on-ouse-pa-2.webp
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 Ripon councillors are set to discuss raising objections to the Government’s plan to house asylum seekers at the old RAF base at Linton-on-Ouse.

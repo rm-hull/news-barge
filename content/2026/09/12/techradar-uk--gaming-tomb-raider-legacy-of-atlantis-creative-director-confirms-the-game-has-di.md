@@ -10,6 +10,9 @@ published: '2026-09-12T00:00:00Z'
 description: 'Tomb Raider: Legacy of Atlantis will feature difficulty-scaling levels,
   which offer players a personalized experience.'
 image: https://cdn.mos.cms.futurecdn.net/iTv7HkjWKNMZRpjndYqmDV-2560-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![A screenshot of Lara Croft engaging with a water and gear puzzle in Tomb Raider: Legacy of Atlantis](https://cdn.mos.cms.futurecdn.net/iTv7HkjWKNMZRpjndYqmDV.jpg) 

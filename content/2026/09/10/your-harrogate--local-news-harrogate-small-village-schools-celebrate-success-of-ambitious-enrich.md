@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Three Harrogate district schools are celebrating the success of a programme
   designed to give children memorable experiences beyond the classroom.
 image: https://mmo.aiircdn.com/409/6aa24c41e25b5b0c771.jpg
+categories:
+- Local
+- Harrogate
+- Education & Learning
 ---
 
 ![](https://mmo.aiircdn.com/409/6aa24c41e25b5b0c771.jpg) 

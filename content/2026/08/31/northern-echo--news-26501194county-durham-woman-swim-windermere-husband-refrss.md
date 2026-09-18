@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: An NHS manager from Annfield Plain in Stanley is preparing to take on
   an 11-mile swim across Windermere just weeks after celebrating her 60th…
 image: https://www.thenorthernecho.co.uk/resources/images/21379871.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Careers & Productivity
 ---
 
 A County Durham NHS manager is preparing to take on an 11-mile swim across Windermere just weeks after celebrating her 60th birthday.

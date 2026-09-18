@@ -9,6 +9,9 @@ published: '2026-09-09T00:00:00Z'
 description: Penny Wong has concerns about blanket ban announced by UK, France and
   Canada, but says new ‘targeted measures’ planned over Israeli settlers
 image: https://i.guim.co.uk/img/media/4212e2a588b98b5ba2126caae45f86d12d20da44/545_0_6002_4802/master/6002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2f88c57b35af2df6856c12440017b25
+categories:
+- UK
+- News & Politics
 ---
 
 Australia is preparing another round of sanctions against Israel but has stopped short of joining the UK in banning trade with Israeli settlements in the West Bank.

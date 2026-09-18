@@ -9,6 +9,11 @@ description: From abandoned mattresses to syringes in playgrounds, Berliners say
   capital’s rubbish problem is getting worse. Why is the city so dirty – and will
   politicians manage to clean it up after the state elections?
 image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/09/watermarks-logo-6040873341.jpg@webp
+categories:
+- Berlin
+- Germany
+- News & Politics
+- Society & Culture
 ---
 
 A few weeks ago, I was visiting a former housemate in the Berlin district of Neukölln for her child's birthday party and started to feel a hint of nostalgia for my old neighbourhood.

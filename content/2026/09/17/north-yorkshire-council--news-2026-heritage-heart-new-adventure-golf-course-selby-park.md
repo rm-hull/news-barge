@@ -9,6 +9,12 @@ description: A new heritage-themed adventure golf course is set to become a majo
   attraction at Selby Park as work gets underway on a programme of improvements enhancing
   one of the town's most popular green spaces.
 image: https://www.northyorks.gov.uk/sites/default/files/2026-09/2SelbyParkGolf.jpg
+categories:
+- Local
+- York
+- Harrogate
+- Government
+- Travel
 ---
 
 ![New nine-hole adventure golf facility at Selby Park](https://www.northyorks.gov.uk/sites/default/files/2026-09/2SelbyParkGolf.jpg) 

@@ -11,6 +11,9 @@ description: Apple says its new watches won’t save raw audio, but features tha
   about consent, privacy, and how people behave when they know they could always be
   recorded.
 image: https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 Apple is trying to get consumers to accept, and even welcome, a new reality: Your tech is always listening.

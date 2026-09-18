@@ -9,6 +9,11 @@ description: Global stocks fell on Monday as investors were unnerved by another 
   in the oil price ahead of likely interest-rate hikes in the United States and Japan
   this week
 image: https://static.independent.co.uk/2026/09/13/21/2026-09-13T203753Z_407212993_RC2BINA7RW1J_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE.JPG?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Global stock markets slipped on Monday as a sharp drop in technology equities and rising crude prices rattled investors ahead of anticipated interest-rate increases in the United States and Japan this week.

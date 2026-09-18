@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: Preston Harp said his sister’s devotion to the president was an ‘unhealthy
   obsession’
 image: https://static.independent.co.uk/2026/08/19/14/38/Screenshot-2026-08-19-at-10-11-14-AM.png?trim=0,63,0,62&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The estranged brother of Natalie Harp, Donald Trump’s doting aide, struggled to contain his laughter when told of the reported lengths his sister went to accompany Trump to a court hearing.

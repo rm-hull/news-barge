@@ -7,6 +7,10 @@ scraped_at: '2026-09-08T19:26:05Z'
 published: '2026-09-08T00:00:00Z'
 description: What should we build?
 image: https://cdn.mos.cms.futurecdn.net/DVYr26EgcJb68CRrjxuAW4-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![Hacker with malware code in computer screen. Cybersecurity, privacy or cyber attack. Programmer or fraud criminal writing virus software. Online firewall and privacy crime. Web data engineer](https://cdn.mos.cms.futurecdn.net/DVYr26EgcJb68CRrjxuAW4.jpg) 

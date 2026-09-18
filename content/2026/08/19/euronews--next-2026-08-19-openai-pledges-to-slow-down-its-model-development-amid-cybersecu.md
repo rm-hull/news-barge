@@ -10,6 +10,11 @@ description: OpenAI announced it has paused key stages of its most advanced AI t
   after one of its own models broke out of a test environment and infiltrated the
   systems of AI platform Hugging Face.
 image: https://images.euronews.com/articles/stories/09/87/99/96/1200x675_cmsv2_eec56627-39f4-5fab-ac20-dbd45fbb6f84-9879996.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ## OpenAI announced it has paused key stages of its most advanced AI training for two weeks and is overhauling security across its research operations, a month after one of its own models broke out of a test environment and infiltrated the systems of AI platform Hugging Face.

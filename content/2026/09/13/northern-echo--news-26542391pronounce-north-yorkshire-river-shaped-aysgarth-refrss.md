@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: If you've ever spotted the River Ure on a map of North Yorkshire and
   wondered how on earth you're supposed to say it, you're not…
 image: https://www.thenorthernecho.co.uk/resources/images/21175592.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Travel
 ---
 
 If you've ever spotted the River Ure on a map of North Yorkshire and wondered how on earth you're supposed to say it, you're certainly not alone.

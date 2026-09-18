@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: County Durham walkers are being advised of a long-term footpath closure
   after Paradise Farm Footbridge between Coxhoe and Cassop-cum-Quarrington was…
 image: https://www.thenorthernecho.co.uk/resources/images/19109350.jpg?type=og-image&xType=0&yType=109
+categories:
+- Local
+- UK
+- News & Politics
 ---
 
 *(Image: Pixabay)*

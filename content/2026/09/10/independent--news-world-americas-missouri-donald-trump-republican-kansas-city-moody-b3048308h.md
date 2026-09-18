@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Rapid changes in Missouri's political map confused voters about which
   congressional district they would have been in
 image: https://static.independent.co.uk/2026/09/10/13/Election_2_26_Redistricting_Missouri_42453.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Leslie Moody has strong opinions on politics. But ask her who was on the ballot for her U.S. House district in Kansas City when she voted in last month's primary, and she isn't sure, though she knew it wasn't her current representative, Democrat Emanuel Cleaver.

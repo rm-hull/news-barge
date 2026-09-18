@@ -9,6 +9,12 @@ published: '2026-08-20T00:00:00Z'
 description: A SYMPHONY orchestra will perform a charity concert in support of a cause
   close to the hearts of one Huddersfield family
 image: https://www.thetelegraphandargus.co.uk/resources/images/21341380.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Arts & Culture
+- Music
 ---
 
 *(Image: Supplied)*

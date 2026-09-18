@@ -10,6 +10,9 @@ description: A St. Louis PBS station bought cloud storage from a vendor that has
   gone defunct and is now in a legal battle with its landlord for access to its own
   data
 image: https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![A data center in a blue light](https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM.jpg) 

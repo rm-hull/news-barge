@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: GPU Drivers reviews, news and features, created for the hardcore PC enthusiast
   by the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Video Gaming
 ---
 
 ![Nvidia GeForce RTX 5090](https://cdn.mos.cms.futurecdn.net/Axh3XNQ6DqK4KMfxtoMRBU-320-80.jpg)

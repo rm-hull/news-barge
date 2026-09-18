@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: Ryedale House in Malton is set to close "by the end of the year", prompting
   concerns over the future of key public services based in the…
 image: https://www.yorkpress.co.uk/resources/images/21424432.jpg?type=og-image&xType=0&yType=604
+categories:
+- Local
+- York
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Freelancer)*

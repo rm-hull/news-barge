@@ -9,6 +9,11 @@ published: '2026-09-15T00:00:00Z'
 description: Video. London Gatwick Airport is testing car-parking robots, offering
   secure, automated long-stay parking for most vehicles at a small extra cost.
 image: https://images.euronews.com/articles/stories/09/91/42/82/1200x675_cmsv2_9aabb2b9-c17a-5637-9d87-d0d290663985-9914282.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 The robots, developed by French company **Stanley Robotics**, can park cars with centimetre-level precision. Gatwick says the system can accommodate around** 95% of vehicles**, although some cars are excluded. Vehicles must weigh no more than** 2.6 tonnes**, be under** 2.3 metres**tall, have a wheelbase of less than** 3.3 metres**and wheels no larger than** 21 inches (53,34 centimètres)**.

@@ -9,6 +9,10 @@ description: 'Salmonella are a group of bacteria that can cause a gastrointestin
   illness called salmonellosis. Symptoms of infection often include diarrhoea, a fever
   and abdominal cramps. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/88/84/69/1200x675_cmsv2_1019b607-125f-5beb-973e-aa4f3616062d-9888469.jpg
+categories:
+- Europe
+- News & Politics
+- Health & Fitness
 ---
 
 ## Salmonella are a group of bacteria that can cause a gastrointestinal illness called salmonellosis. Symptoms of infection often include diarrhoea, a fever and abdominal cramps.

@@ -10,6 +10,11 @@ description: An analysis finds that the Trump administration has cut or frozen u
   to $177 billion in federal grants since the president took office for his second
   term
 image: https://static.independent.co.uk/2026/09/16/11/Trump_Ireland__5146.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Society & Culture
 ---
 
 The Trump administration has cut or frozen up to $177 billion in federal grants since the president took office for his second term, according to a tracking tool released Wednesday by a pro-democracy nonprofit and a group of researchers and scientists.

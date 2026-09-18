@@ -9,6 +9,11 @@ published: '2026-09-14T00:00:00Z'
 description: Police in Bali believe the two young children died as a result of violence,
   while a 57-year-old man is believed to have taken his own life
 image: https://i.guim.co.uk/img/media/ea479832d2069e25f69795a496151f9e1e08798a/415_0_2444_1956/master/2444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71cf581a7dc444265feecd08437a57d1
+categories:
+- UK
+- News & Politics
+- True Crime
+- Society & Culture
 ---
 
 Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life.

@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Falling token costs, cheaper models, and less spend per employee — AI
   adoption isn't playing out the way hyperscalers hoped.
 image: https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.40-AM.png?w=458
+categories:
+- Business & Entrepreneurship
+- Technology & Software
+- Careers & Productivity
 ---
 
 The adoption of AI tools by businesses slowed in August, according to spending data at 70,000 companies collected by the payments company Ramp. The latest survey shows 56% of Ramp customers paid for AI products in August, rising just 0.4% from the month before.

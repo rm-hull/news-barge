@@ -8,6 +8,11 @@ published: '2026-08-21T00:00:00Z'
 description: A "jackal" knocked a complete stranger out in a drunken rage outside
   Vudu in York city centre, a court heard.
 image: https://www.gazetteherald.co.uk/resources/images/21347720.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

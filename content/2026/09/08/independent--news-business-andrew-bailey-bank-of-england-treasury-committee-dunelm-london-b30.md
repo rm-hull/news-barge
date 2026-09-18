@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: Andrew Bailey discussed interest rates and other ongoing economic pressures
   in an appearance before Parliament’s Treasury Committee.
 image: https://static.independent.co.uk/2026/09/08/17/26911352be332b6112ee2ba81f836a26Y29udGVudHNlYXJjaGFwaSwxNzg4OTY3NTcx-2.34819262.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 Stock prices in London have closed lower as Bank of England Governor Andrew Bailey warned of upside inflation risks amid elevated energy prices, while Computacenter reversed an early rally to finish at the bottom of the FTSE 100.

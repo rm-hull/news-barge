@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Formerly Palm Beach International Airport, the site was officially renamed
   President Donald J. Trump International Airport in July,
 image: https://static.independent.co.uk/2026/07/17/20/2285383035..?trim=58,0,58,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The Federal Aviation Administration is proposing new flight rules near Trump International Airport in Palm Beach, Florida, following security concerns surrounding Mar-a-Lago, the residence of U.S. President Donald Trump.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-17T19:42:18Z'
 published: '2026-09-17T00:00:00Z'
 description: Stop me if you’ve heard this before
 image: https://static.independent.co.uk/2026/09/17/16/Film_-_TIFF_-_Wild_Horse_Nine_19329.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Stop me if you've heard this before. Martin McDonagh has unveiled a dark comedy of mischievous wit and melancholy soulfulness, and it's immediately been hailed as one of the best movies of the year.

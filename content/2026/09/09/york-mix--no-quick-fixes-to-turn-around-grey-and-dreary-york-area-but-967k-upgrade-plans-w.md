@@ -8,6 +8,10 @@ scraped_at: '2026-09-09T19:15:34Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/walmgate-york-ldrs-1.webp
+categories:
+- Local
+- York
+- Personal Finance & Investing
 ---
 
 There are no quick fixes to turn around a grey and dreary part of York, an activist has said ahead of planned improvements worth almost £1m.

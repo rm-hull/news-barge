@@ -9,6 +9,11 @@ published: '2026-08-18T00:00:00Z'
 description: A 13-year-old girl who drowned after being washed into the sea at Whitley
   Bay was treated by ambulance staff who struggled to secure her airway.
 image: https://www.thenorthernecho.co.uk/resources/images/19763038.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 *(Image: NORTHUMBRIA POLICE/ PA)*

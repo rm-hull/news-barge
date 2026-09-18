@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: Joel Hutchinson has completed a Mount Kilimanjaro climb after 14 months
   of training, raising more than £4,000 for mental health charity Darlington…
 image: https://www.thenorthernecho.co.uk/resources/images/21420602.jpg?type=og-image&xType=0&yType=716
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
 ---
 
 A Darlington man has conquered Mount Kilimanjaro after 14 months of preparation to support a mental health charity.

@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Reform leader says there will be ‘many more’ probes into his party in
   the wake of fresh allegations made by Channel 4
 image: https://static.independent.co.uk/2026/09/06/10/2026-09-05T165232Z_2015186287_RC24DNAB9CQY_RTRMADP_3_BRITAIN-POLITICS-REFORM-CONFERENCE.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Footage appearing to show senior Reform figures discussing how to disguise donations from foreign sources “looks bad” for the party, Nigel Farage has admitted.

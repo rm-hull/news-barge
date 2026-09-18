@@ -9,6 +9,9 @@ published: '2026-09-10T00:00:00Z'
 description: Republican and Democratic election officials in 30 states receive ‘threatening’
   letters to retain sensitive voter data
 image: https://static.independent.co.uk/2026/09/02/16/2276575198..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Not a single federal judge has granted Donald Trump’s administration access to voter files in any of the 30 states where the Department of Justice is fighting a legal battle for sensitive data for millions of Americans.

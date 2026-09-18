@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: Worldwide, the number of tourist trips is expected to continue to increase,
   reaching 2.4 billion by 2040.
 image: https://images.euronews.com/articles/stories/09/88/21/68/1200x675_cmsv2_b497a3a0-7857-589d-b915-015b368fc464-9882168.jpg
+categories:
+- Europe
+- News & Politics
+- Travel
 ---
 
 ## Worldwide, the number of tourist trips is expected to continue to increase, reaching 2.4 billion by 2040.

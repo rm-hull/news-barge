@@ -8,6 +8,11 @@ published: '2026-08-26T00:00:00Z'
 description: ANPR cameras could be introduced at Redcar Hospital to tackle parking
   problems, with concerns raised over drivers misusing bays and drop-off areas.
 image: https://www.thenorthernecho.co.uk/resources/images/21355381.jpg?type=og-image&xType=17&yType=0
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 A Teesside hospital could see automatic number plate recognition (ANPR) cameras installed following complaints about inappropriate use of parking bays.

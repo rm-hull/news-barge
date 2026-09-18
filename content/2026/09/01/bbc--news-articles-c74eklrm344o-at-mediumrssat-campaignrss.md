@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying
   in eastern France in September 2012.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e60e/live/059e82e0-a61e-11f1-aed2-8d6da8d75094.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
+- Travel
 ---
 
 ![Saad al-Hilli smiles in a striped cream and light blue shirt. A busy night time scene is visible behind him.](https://ichef.bbci.co.uk/ace/standard/969/cpsprodpb/e60e/live/059e82e0-a61e-11f1-aed2-8d6da8d75094.jpg)

@@ -9,6 +9,10 @@ description: Qatar is stepping up its mediation efforts as regional tensions rem
   high and direct US-Iran talks remain stalled, with Doha focused on de-escalation,
   dialogue and restoring freedom of navigation through the Strait of Hormuz.
 image: https://images.euronews.com/articles/stories/09/89/12/77/1200x675_cmsv2_1a902175-e03e-55a3-ae17-f55f6f0758d4-9891277.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## Qatar is stepping up its mediation efforts as regional tensions remain high and direct US-Iran talks remain stalled, with Doha focused on de-escalation, dialogue and restoring freedom of navigation through the Strait of Hormuz.

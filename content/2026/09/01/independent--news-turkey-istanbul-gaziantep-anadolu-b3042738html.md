@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: A submersible vessel has joined the search for 20 people missing for
   two days following a ferry disaster off the coast of Cyprus
 image: https://static.independent.co.uk/2026/09/01/13/Turkey_Cyprus_Ferry_32358.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 A submersible vessel joined the search Tuesday for 20 people missing for two days following a ferry disaster off the coast of Cyprus.

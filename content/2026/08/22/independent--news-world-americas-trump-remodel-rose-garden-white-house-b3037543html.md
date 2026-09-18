@@ -9,6 +9,10 @@ description: During Trump's initial term, first lady Melania Trump arranged the 
   of a work by Japanese American artist Isamu Noguchi near the Rose Garden, marking
   the first inclusion of an Asian American artist in the White House collection
 image: https://static.independent.co.uk/2026/08/22/15/2290843226..?trim=0,55,0,55&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 Rather than planting additional flowers, President Donald Trump has filled the White House Rose Garden with sculptures.

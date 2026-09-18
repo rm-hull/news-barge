@@ -9,6 +9,11 @@ published: '2026-08-31T00:00:00Z'
 description: A ward councillor is confident rough sleeping will no longer exist in
   Bradford city centre come the end of this year as enforcement increases.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21246025.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Mike Simmonds)*

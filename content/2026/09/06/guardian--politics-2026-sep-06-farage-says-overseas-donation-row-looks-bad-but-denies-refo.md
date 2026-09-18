@@ -8,6 +8,9 @@ published: '2026-09-06T00:00:00Z'
 description: Robert Jenrick says party has followed legal protocol ‘at all times’
   as Met police consider launching investigation
 image: https://i.guim.co.uk/img/media/5f102288b2d396ca87ffa246f9644c6e7310acc6/0_0_4126_3302/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72bf48aa2d8500ee09f67c0c748e5edc
+categories:
+- UK
+- News & Politics
 ---
 
 Nigel Farage has acknowledged the overseas donation row engulfing Reform UK “looks bad” for his party but denied it had ever taken foreign money in breach of electoral law.

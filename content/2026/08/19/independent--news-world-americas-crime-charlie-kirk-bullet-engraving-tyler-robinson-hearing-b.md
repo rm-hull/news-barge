@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: Judge Tony Graf said he will decide if the case should advance to trial
   after he hears again from both sides on Sept. 1
 image: https://static.the-independent.com/2026/07/22/14/47/GettyImages-2162182816.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Sports
 ---
 
 Prosecutors in Charlie Kirk's killing say the inscription “Hey Facist! CATCH!” on an engraved bullet shows that Kirk was targeted for how the defendant perceived his politics.

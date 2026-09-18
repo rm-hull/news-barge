@@ -7,6 +7,10 @@ scraped_at: '2026-09-16T13:27:15Z'
 published: '2026-09-16T00:00:00Z'
 description: Burnham’s father died earlier this week after suffering from Alzheimer’s
 image: https://static.independent.co.uk/2026/09/14/13/01M2FYMT2VWGZ6WP4ZF867M8QF.jpg?trim=4,529,833,513&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Prime Minister Andy Burnham said his father Roy would want him to be "back out there" to bring forward "the changes that he always pushed me to make" as he returned to work on Wednesday.

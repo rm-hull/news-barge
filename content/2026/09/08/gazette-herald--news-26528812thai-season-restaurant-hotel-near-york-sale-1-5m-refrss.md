@@ -8,6 +8,13 @@ published: '2026-09-08T00:00:00Z'
 description: A popular Thai restaurant and hotel between York and Pocklington has
   been put up for sale.
 image: https://www.gazetteherald.co.uk/resources/images/21421106.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
+- Food & Cooking
+- Business & Entrepreneurship
 ---
 
 A popular Thai restaurant and hotel has been put up for sale.

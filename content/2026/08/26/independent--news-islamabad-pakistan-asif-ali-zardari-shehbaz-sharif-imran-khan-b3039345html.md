@@ -9,6 +9,9 @@ published: '2026-08-26T00:00:00Z'
 description: Officials in Pakistan say a fire that erupted at a newborn nursery at
   a major government hospital in the capital Islamabad has killed 14 babies
 image: https://static.independent.co.uk/2026/08/26/07/Pakistan_Hospital_Fire_51379.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan’s capital, killing 14 babies, according to hospital officials and the government.

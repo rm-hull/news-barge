@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Nigel Farage said demonstrators in balaclavas were ‘horrible’, but others
   in the party defend them as ‘brave, passionate patriots’
 image: https://i.guim.co.uk/img/media/1905249b8e248e6cd954b4f21b17a684c26d44f5/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5654a2a8c37526444c9fb54b7c1dba39
+categories:
+- UK
+- News & Politics
 ---
 
 Nigel Farage’s condemnation of the masked men whose blockade of Dover stole headlines on the final day of his party’s annual conference was swift, describing their actions as “horrible”.

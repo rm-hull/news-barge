@@ -8,6 +8,10 @@ scraped_at: '2026-08-29T13:49:47Z'
 published: '2026-08-29T00:00:00Z'
 description: In my tests, there wasn't an ingredient it couldn't handle
 image: https://cdn.mos.cms.futurecdn.net/PcENRvPtoJ8VK6qWPw9DZe-2560-80.jpg
+categories:
+- Technology & Software
+- Food & Cooking
+- Lifestyle & Fashion
 ---
 
 ### TechRadar Verdict

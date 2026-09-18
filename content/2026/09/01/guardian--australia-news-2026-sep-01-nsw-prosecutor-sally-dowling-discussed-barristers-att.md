@@ -9,6 +9,11 @@ published: '2026-09-01T00:00:00Z'
 description: Sally Dowling tells budget estimates that Michael Daley called to tell
   her he was appointing a senior counsel and ‘raised quite a number of names’
 image: https://i.guim.co.uk/img/media/923e583b920f8753525dd17ae7c1faba891c66f1/355_0_3598_2878/master/3598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b5e4ec7c465bd051751bcbf62e8d501
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The top prosecutor in NSW says she discussed a list of barristers to lead an independent review into controversial findings against her office with the state’s attorney general, before he appointed someone she had known “professionally and socially” for nearly 30 years.

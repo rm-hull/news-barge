@@ -7,6 +7,10 @@ scraped_at: '2026-09-07T14:14:00Z'
 published: '2026-09-07T00:00:00Z'
 description: The high risk of further avalanches is hampering rescue efforts
 image: https://static.independent.co.uk/2026/09/07/7/22/3_h-692141fd.jpeg?trim=0,7,0,7&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 At least 11 people have been killed and six others injured after an avalanche in Russia.

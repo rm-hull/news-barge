@@ -9,6 +9,10 @@ description: Much of the 80-year-old president’s time is consumed by a lengthy
   of construction projects, including his White House ballroom and a planned 250-foot
   victory arch
 image: https://static.independent.co.uk/2026/08/30/16/29/GettyImages-2277123891.jpeg?trim=0,0,1,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 President Donald Trump is increasingly focused on ventures intended to leave a lasting mark, raising concerns among Republicans who are worried about a major test in the near future – November’s midterm elections – according to a new report.

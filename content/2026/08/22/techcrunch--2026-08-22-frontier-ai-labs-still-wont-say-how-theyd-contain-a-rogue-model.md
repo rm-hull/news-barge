@@ -9,6 +9,9 @@ description: A new study finds leading AI labs have few publicly documented plan
   for containing rogue models, raising questions about preparedness as AI systems
   increasingly demonstrate unexpected and potentially dangerous behavior.
 image: https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638
+categories:
+- Technology & Software
+- Science
 ---
 
 Few of the top AI labs have published or demonstrated containment response plans, according to a recent study. A containment plan spells out what happens once an AI is caught trying to subvert human control — what access gets cut, and when the system gets shut down entirely.

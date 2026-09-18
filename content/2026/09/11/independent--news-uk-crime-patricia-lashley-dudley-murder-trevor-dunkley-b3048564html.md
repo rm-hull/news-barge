@@ -7,6 +7,10 @@ scraped_at: '2026-09-11T12:49:40Z'
 published: '2026-09-11T00:00:00Z'
 description: Trevor Dunkley told police he dumped her body ahead of a house move
 image: https://static.independent.co.uk/2026/09/11/10/03/patricia-lashley.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A 66-year-old man has pleaded guilty to murdering a mother of seven nearly 30 years ago.

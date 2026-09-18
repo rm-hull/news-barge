@@ -8,6 +8,12 @@ published: '2026-08-27T00:00:00Z'
 description: A private hire driver has had their permit suspended after police found
   safety issues with the vehicle.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21382113.jpg?type=og-image&xType=0&yType=302
+categories:
+- Local
+- Bradford
+- News & Politics
+- Technology & Software
+- Automotive
 ---
 
 A private hire driver has had their permit suspended after police found safety issues with the vehicle.

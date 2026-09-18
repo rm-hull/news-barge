@@ -8,6 +8,9 @@ scraped_at: '2026-08-20T13:07:29Z'
 published: '2026-08-20T00:00:00Z'
 description: Nintendo has yet to offer any Wii Remote support on Switch 2.
 image: https://cdn.mos.cms.futurecdn.net/ZvxxafdKYbUawyW7LUp4M5-1000-80.jpg
+categories:
+- Technology & Software
+- Hardware
 ---
 
 ![Modder builds working Switch 2 Joy-Cons inside original Wii Remote shells](https://cdn.mos.cms.futurecdn.net/ZvxxafdKYbUawyW7LUp4M5.jpg) 

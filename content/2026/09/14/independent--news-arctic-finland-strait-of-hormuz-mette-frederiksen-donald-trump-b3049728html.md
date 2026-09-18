@@ -8,6 +8,10 @@ scraped_at: '2026-09-14T15:00:27Z'
 published: '2026-09-14T00:00:00Z'
 description: Top European leaders are meeting in Finland to focus on the Arctic
 image: https://static.independent.co.uk/2026/09/14/10/Finland_Arctic_EU_Summit_96762.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 European leaders were meeting Monday to discuss growing competition in the Arctic, where global warming is opening new shipping routes, governments are vying for vast natural resources and a Russian military buildup is heightening security concerns.

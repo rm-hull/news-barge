@@ -8,6 +8,11 @@ published: '2026-08-24T00:00:00Z'
 description: DUST off those shoulder pads, tease that hair and dig out the Frankie
   T-shirt...Gary Davies is bringing the Eighties party to Bradford.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21361540.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Music
 ---
 
 DUST off those shoulder pads, tease that hair and dig out the Frankie T-shirt...Gary Davies is bringing the Eighties party to Bradford.

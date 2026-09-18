@@ -9,6 +9,11 @@ description: For the people of Yorkshire, Morrisons has long been viewed as more
   just a supermarket. Even as it grew to become one of the largest grocers in the
   country, there was a strong connection between the business and the region.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmQ0OTU1MGVlLTFkZTctNDJlNy04YjYxLTZkNTliOTFhNmMwYzoyMzYwYjAzNS00MWY5LTQ3ZmItYjE1OC1kMDUwNjQ4OWFiYzc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Business & Entrepreneurship
 ---
 
 # Management at Morrisons need to ask ‘what would Sir Ken do?’

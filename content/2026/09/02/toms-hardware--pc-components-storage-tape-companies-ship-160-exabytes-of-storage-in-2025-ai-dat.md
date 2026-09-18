@@ -10,6 +10,10 @@ published: '2026-09-02T00:00:00Z'
 description: Incongruously, ‘old tech’ is still difficult to beat for low‑cost, power‑efficient,
   and cyber‑resilient long‑term storage.
 image: https://cdn.mos.cms.futurecdn.net/m9nvZqmoiRM8EdYGJMuUrn-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![LTO-10 40TB announcements](https://cdn.mos.cms.futurecdn.net/m9nvZqmoiRM8EdYGJMuUrn.jpg) 

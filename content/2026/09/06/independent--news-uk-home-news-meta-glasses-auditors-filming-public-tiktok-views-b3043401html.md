@@ -9,6 +9,11 @@ description: Videos from self-styled ‘auditors’ targeting vulnerable people 
   UK’s city centres are getting millions of views on social media. Newcastle city
   council is cracking down on them - and calling on the government to ‘draw a line’
 image: https://static.independent.co.uk/2026/09/04/14/04/auditors.jpg?trim=173,0,43,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Society & Culture
 ---
 
 On a cold morning in Newcastle city centre, a woman is sat in a woolly hat and coat, blanket over her lap, playing the accordion. A man walks past and offers her a £20 note before quickly snatching it away when she goes to take it. He then swears at her before walking away.

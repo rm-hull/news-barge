@@ -9,6 +9,12 @@ description: Sources tell WIRED that Elon Musk is expected to spend up to $200 m
   in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s
   struggled to raise cash.
 image: https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/191:100/w_1280,c_limit/politics_elon_texas_election.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Elon Musk is expected to spend big to boost Republicans in the midterms this November, according to Trump officials briefed on the matter.

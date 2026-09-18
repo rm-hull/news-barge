@@ -9,6 +9,10 @@ published: '2026-09-05T00:00:00Z'
 description: BBC Sport heads to Monza to find out if Italians want Kimi Antonelli
   to win the F1 title or if it is all about Ferrari.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f337/live/88ad9d50-a877-11f1-824a-0fc4c5d895ae.png
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Kimi Antonelli celebrates after winning the Belgium Grand Prix, with an Italian flag draped over his shoulders](https://ichef.bbci.co.uk/ace/standard/1376/cpsprodpb/f337/live/88ad9d50-a877-11f1-824a-0fc4c5d895ae.png)

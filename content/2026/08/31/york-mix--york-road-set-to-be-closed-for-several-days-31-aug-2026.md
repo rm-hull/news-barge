@@ -7,6 +7,11 @@ scraped_at: '2026-08-31T16:08:18Z'
 published: '2026-08-31T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-storm-damage-tower-street-diversion-31-aug-2026-ben-thorpe-5.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
+- Travel
 ---
 
 The York road closed by storm damage will stay shut for a few more days yet.

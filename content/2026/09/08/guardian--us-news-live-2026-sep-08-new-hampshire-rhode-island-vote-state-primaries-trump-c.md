@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Voters will choose candidates across full slate of federal, state and
   local offices over next two days
 image: https://i.guim.co.uk/img/media/5f39885d3cb8d106a5b5a66e473f4894bf33a9c3/219_0_4639_3712/master/4639.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d678fe2fdbdb722200a852cc78bebce4
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 New Hampshire and Rhode Island primary voters will choose candidates across a full slate of federal, state and local offices over the next two days.

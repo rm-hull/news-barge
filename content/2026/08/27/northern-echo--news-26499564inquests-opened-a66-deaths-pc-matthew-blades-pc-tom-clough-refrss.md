@@ -9,6 +9,11 @@ published: '2026-08-27T00:00:00Z'
 description: Inquests have opened into the deaths of PC Matthew Blades and PC Tom
   Clough, who were among seven people killed in the A66 crash near Middlesbrough.
 image: https://www.thenorthernecho.co.uk/resources/images/21377573.jpg?type=og-image&xType=0&yType=36
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 Two police officers killed in the devastating A66 crash over the weekend died from head and neck injuries, a coroner has confirmed.

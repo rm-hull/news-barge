@@ -8,6 +8,10 @@ published: '2026-09-13T00:00:00Z'
 description: Emergency services have recovered the body of a man in his 60s from the
   Ripon Canal near Boroughbridge Road. Police state the death is not suspicious.
 image: https://www.harrogate-news.co.uk/wp-content/uploads/2026/03/police-transp.webp
+categories:
+- Local
+- Harrogate
+- True Crime
 ---
 
 **RIPON** — Emergency services and police investigators closed a major arterial route in Ripon this morning following the discovery of a man’s body in the canal.

@@ -8,6 +8,10 @@ scraped_at: '2026-09-10T04:30:49Z'
 published: '2026-09-10T00:00:00Z'
 description: Follow the day’s news live
 image: https://i.guim.co.uk/img/media/aa9f0c5f02ef2a678d0d8f94da0a0bb0d0f81c4a/720_0_5493_4394/master/5493.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=44399a62bae10fbfd8af5ed388982ca2
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 New head announced for the main public-sector union

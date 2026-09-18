@@ -9,6 +9,11 @@ published: '2026-08-25T00:00:00Z'
 description: A paedophile and international gun marksman had kilos of chemicals and
   other items capable of being turned into improvised explosive devices, York…
 image: https://www.thetelegraphandargus.co.uk/resources/images/9552578.jpg?type=og-image&yType=77
+categories:
+- Local
+- Bradford
+- News & Politics
+- Science
 ---
 
 *(Image: North Yorkshire Police)*

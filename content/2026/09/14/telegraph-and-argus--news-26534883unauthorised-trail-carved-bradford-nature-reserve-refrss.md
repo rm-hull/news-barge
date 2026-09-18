@@ -8,6 +8,11 @@ published: '2026-09-14T00:00:00Z'
 description: Unauthorised trail building at Bradford’s Prince of Wales Park has seen
   trees felled and deep pits dug, damaging wildlife habitats in a nature…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21429617.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 *(Image: T&A)*

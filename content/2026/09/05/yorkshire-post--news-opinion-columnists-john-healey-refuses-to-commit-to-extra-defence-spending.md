@@ -11,6 +11,11 @@ description: I hope Mr Burnham’s got his big lad’s pants on. He’ll certain
   ready to be stung by the hornet he’s stirred up in Ukraine? You have to ask whether
   he expected such repercussions from the speech that he delivered in Kiev last week.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjEyM2UyNmI0LTk2MWYtNDdjZi05NGFlLWVjNjc2NTJlNmMzMzo3NTNjMmQwZC1iNTMyLTQ2NTMtODdiMC02MzJmOGMwYmEzMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # John Healey refuses to commit to extra defence spending, will he now resign? - Patrick Mercer

@@ -9,6 +9,11 @@ published: '2026-08-20T00:00:00Z'
 description: Sunderland’s Keel Square Summer Series runs from August 21 to 31, bringing
   George Michael tribute Rob Lamberti, The Bootleg Beatles, Armand Van…
 image: https://www.thenorthernecho.co.uk/resources/images/21341561.jpg?type=og-image&xType=0&yType=162
+categories:
+- Local
+- UK
+- News & Politics
+- Music
 ---
 
 *(Image: Sunderland City Council)*

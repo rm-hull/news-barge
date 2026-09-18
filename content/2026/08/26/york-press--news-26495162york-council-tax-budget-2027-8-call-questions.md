@@ -9,6 +9,11 @@ published: '2026-08-26T00:00:00Z'
 description: People have been urged to submit their questions about City of York Council's
   upcoming budget.
 image: https://www.yorkpress.co.uk/resources/images/20475955.jpg?type=og-image
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- News & Politics
 ---
 
 ## Your questions sought on upcoming budget and council tax amid challenges facing York

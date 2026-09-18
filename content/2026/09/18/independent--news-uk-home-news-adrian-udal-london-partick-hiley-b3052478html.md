@@ -8,6 +8,10 @@ published: '2026-09-18T00:00:00Z'
 description: Adrian Udal was ordered to pay more than £100k after a disastrous court
   battle, but has refused
 image: https://static.independent.co.uk/2025/06/18/10/38/aAdrianUdal1.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 A High Court judge has ordered the sale of a £1 million London home belonging to Parliament’s chief bellringer following a disastrous court battle with his next-door neighbour.

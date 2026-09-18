@@ -8,6 +8,12 @@ published: '2026-08-30T00:00:00Z'
 description: A Redcar man is turning his own struggles with depression, anxiety and
   BPD into a 500-mile challenge aimed at breaking the stigma around mental…
 image: https://www.thenorthernecho.co.uk/resources/images/21368481.jpg?type=og-image&xType=0&yType=339
+categories:
+- Local
+- UK
+- News & Politics
+- Health & Fitness
+- Self-Improvement
 ---
 
 A Teesside man is turning his own struggles with depression, anxiety and bipolar disorder into a 500-mile challenge to break mental health stigma.

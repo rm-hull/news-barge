@@ -8,6 +8,10 @@ published: '2026-09-01T00:00:00Z'
 description: First big storm of season could reach hurricane force and is expected
   to bring potentially heavy rains and flooding
 image: https://i.guim.co.uk/img/media/390f04cf936f44fc5b6071b8ee8cedbdf67c167f/0_3_1599_1278/master/1599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=145a2fe49db43ed903eda06c9805419f
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 Tropical Storm Edouard headed toward the US Gulf coast early on Tuesday and was expected to strengthen significantly – possibly reaching hurricane force – before bringing potentially heavy rains and flooding into parts of Texas and Louisiana.

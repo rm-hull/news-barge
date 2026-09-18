@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: A smaller ball is being trialled in women's international rugby union
   for September and October's WXV Global Series - and it is dividing opinion.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6422/live/eb156ce0-a861-11f1-ae45-e9984fc27c77.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Society & Culture
 ---
 
 Why smaller rugby balls for women?

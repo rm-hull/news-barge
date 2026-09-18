@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Saudi civil defense says debris from an intercepted Houthi drone
   has killed one person and injured two others
 image: https://static.independent.co.uk/2026/09/17/19/Saudi_Arabia_Yemen_War_64824.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Debris from an intercepted Houthi drone has killed a Yemeni resident of Saudi Arabia, the Saudi civil defense said Thursday. It is the first civilian casualty since the Iran-backed rebels have increased their attacks against the kingdom, targeting Saudi shipping and oil facilities.

@@ -8,6 +8,10 @@ published: '2026-08-31T00:00:00Z'
 description: The Conservative leader carried out the reshuffle of her inner circle
   before Parliament’s return on Tuesday, and ahead of the party’s conference.
 image: https://static.independent.co.uk/2026/08/31/19/7f47e708dac435128b31703acaf7bbf3Y29udGVudHNlYXJjaGFwaSwxNzg4Mjg4NDQz-2.84891612.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Kemi Badenoch has completed a reshuffle of her senior Tory team, sacking Sir Mel Stride as shadow chancellor and bringing a new generation of Conservative MPs into the shadow cabinet.

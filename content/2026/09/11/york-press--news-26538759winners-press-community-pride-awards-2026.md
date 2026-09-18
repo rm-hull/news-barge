@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Winner of The Press Community Pride Awards 2026 have been unveiled at
   a glittering celebration honouring unsung heroes from York and the surrounding…
 image: https://www.yorkpress.co.uk/resources/images/21434890.jpg?type=og-image
+categories:
+- Local
+- York
+- Comedy & Entertainment
 ---
 
 ## Winners of The Press York Community Pride Awards revealed

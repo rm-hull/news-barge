@@ -9,6 +9,10 @@ description: 'French President Emmanuel Macron called Balladur a "demanding, lev
   and devoted public servant" who he said had "dedicated his life to the Fifth Republic."
   #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/89/63/08/1200x675_cmsv2_b9dbb0d6-a4de-5673-ac83-272b51197eb4-9896308.jpg
+categories:
+- Europe
+- News & Politics
+- History
 ---
 
 ## French President Emmanuel Macron called Balladur a "demanding, level-headed, and devoted public servant" who he said had "dedicated his life to the Fifth Republic."

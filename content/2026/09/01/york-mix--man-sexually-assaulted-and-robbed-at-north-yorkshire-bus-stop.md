@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T19:22:49Z'
 published: '2026-09-01T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2024/08/police-officers-outside-dreamstime.webp
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 Police are searching for a woman who apparently drugged a man at a bus stop before sexually assaulting and robbing him.

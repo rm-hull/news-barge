@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A Bradford man who once rescued two women from a burning car in an act
   of great "courage" died years later after suffering from a…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21422419.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 A Bradford man who once rescued two women from a burning car in an act of great "courage" died years later after suffering from a 'flesh-eating disease', an inquest heard.

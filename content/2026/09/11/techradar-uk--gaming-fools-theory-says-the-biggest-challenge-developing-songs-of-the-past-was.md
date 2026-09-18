@@ -11,6 +11,9 @@ published: '2026-09-11T00:00:00Z'
 description: 'CD Projekt Red and Fool''s Theory have said that developing The Witcher
   3: Wild Hunt''s third expansion, Songs of the Past, came with some narrative challenges.'
 image: https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA-1920-80.jpg
+categories:
+- Technology & Software
+- Arts & Culture
 ---
 
 ![The Witcher 3: Wild Hunt - Songs of the Past](https://cdn.mos.cms.futurecdn.net/Z6WfFMZrxS7H2WSQ8ZCKEA.jpg) 

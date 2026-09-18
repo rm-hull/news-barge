@@ -8,6 +8,12 @@ published: '2026-08-26T00:00:00Z'
 description: A MAJOR council has announced it will start a recruitment campaign for
   a new chief executive as the incumbent boss is set to retire.
 image: https://www.yorkpress.co.uk/resources/images/21374015.jpg?type=og-image
+categories:
+- Local
+- York
+- Business & Entrepreneurship
+- Careers & Productivity
+- Personal Finance & Investing
 ---
 
 A MAJOR council has announced it will start a recruitment campaign for a new chief executive as the incumbent boss is set to retire.

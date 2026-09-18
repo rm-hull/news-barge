@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Alleged victim tells court he froze and was ‘in disbelief’ after broadcaster
   kissed him on corner of his lips at public event
 image: https://i.guim.co.uk/img/media/65d1bd8646d5c1121a13610ff68682493896add3/1503_312_1939_1552/master/1939.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=439f3ed9b8b27d2c283289332d03d76d
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 A prominent athlete froze and was “shocked and embarrassed” when Alan Jones kissed him on the side of his mouth at a public event, the broadcaster’s trial at Sydney’s Downing Centre has heard.

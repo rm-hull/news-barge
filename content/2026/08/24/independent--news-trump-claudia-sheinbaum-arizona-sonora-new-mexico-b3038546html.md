@@ -10,6 +10,10 @@ description: Mexico has resumed live cattle exports to the United States after t
   were halted for nearly two years by restrictions imposed by the Trump administration
   following a screwworm outbreak
 image: https://static.independent.co.uk/2026/08/22/20/APTOPIX_Mexico_US_Cattle_Exports__64_2.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Mexico resumed live cattle exports to the United States on Monday after they were halted for nearly two years by restrictions imposed by the Trump administration following a screwworm outbreak.

@@ -8,6 +8,10 @@ published: '2026-08-26T00:00:00Z'
 description: HP Smart Tank 6001 offers cartridge-free printing with enough ink for
   thousands of school assignments and home office documents.
 image: https://cdn.mos.cms.futurecdn.net/NUgNuAnyXq56hEKsPhHZfD-2000-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Careers & Productivity
 ---
 
 ![HP Smart Tank 6001 printer](https://cdn.mos.cms.futurecdn.net/NUgNuAnyXq56hEKsPhHZfD.jpg) 

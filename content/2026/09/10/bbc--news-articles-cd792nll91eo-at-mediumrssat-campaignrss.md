@@ -8,6 +8,11 @@ published: '2026-09-10T00:00:00Z'
 description: Scientists have found evidence that early human foragers in Indonesia
   were using the betel nut as a drug.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg
+categories:
+- UK
+- News & Politics
+- Science
+- Health & Fitness
 ---
 
 ![A small segment of the remains of a human jaw with three teeth. The background is black.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg)

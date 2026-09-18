@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: Higher bond yields are alarming investors, but strong growth and record
   earnings may help equity markets absorb the rising borrowing costs.
 image: https://images.euronews.com/articles/stories/09/90/05/96/1200x675_cmsv2_ac6e7514-cf6d-5cc1-9cdb-918e05b1acb2-9900596.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 ## Higher bond yields are alarming investors, but strong growth and record earnings may help equity markets absorb the rising borrowing costs.

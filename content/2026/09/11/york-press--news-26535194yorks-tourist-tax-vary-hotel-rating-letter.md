@@ -9,6 +9,10 @@ published: '2026-09-11T00:00:00Z'
 description: Calls for a fair York tourist tax, frustration over a neglected footpath,
   and concerns about illegal immigration feature in today's letters.
 image: https://www.yorkpress.co.uk/resources/images/21430378.jpg?type=og-image
+categories:
+- Local
+- York
+- Society & Culture
 ---
 
 *(Image: Rachel Kennedy/ The Press Camera Club)*

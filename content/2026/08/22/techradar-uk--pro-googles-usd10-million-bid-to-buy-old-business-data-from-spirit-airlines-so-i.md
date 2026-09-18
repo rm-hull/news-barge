@@ -8,6 +8,9 @@ scraped_at: '2026-08-22T16:37:16Z'
 published: '2026-08-22T00:00:00Z'
 description: One corporation's old business data could be another's AI treasure
 image: https://cdn.mos.cms.futurecdn.net/Lj4WMjn84Hu2Mso26FMZSR-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Spirit Airlines planes](https://cdn.mos.cms.futurecdn.net/Lj4WMjn84Hu2Mso26FMZSR.jpg) 

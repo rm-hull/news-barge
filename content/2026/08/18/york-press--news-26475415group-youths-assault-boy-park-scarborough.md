@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: Multiple youths have allegedly assaulted a boy on the Cinder Track by
   Manor Road Park in Scarborough.
 image: https://www.yorkpress.co.uk/resources/images/21297559.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

@@ -9,6 +9,10 @@ published: '2026-09-06T00:00:00Z'
 description: The Reform UK leader is under pressure after senior aides appeared to
   plot how to bypass electoral laws on foreign donations
 image: https://i.guim.co.uk/img/media/a93fa72607888ddd3d0d67033f949cb5673b1edb/682_775_2715_2173/master/2715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bfb3cb6304d32e0b83e87d19e684c4c1
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 Farage admits that the undercover report on donations 'looks bad'

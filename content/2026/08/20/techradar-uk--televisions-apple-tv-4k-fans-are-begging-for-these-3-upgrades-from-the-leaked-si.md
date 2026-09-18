@@ -9,6 +9,9 @@ published: '2026-08-20T00:00:00Z'
 description: What we'd like to see in the 2026 Apple TV remote — and the Apple TV
   tip you can try today.
 image: https://cdn.mos.cms.futurecdn.net/eEUj8DchXxPfCPHv2p566N-1184-80.jpg
+categories:
+- Technology & Software
+- Film & TV
 ---
 
 ![Apple spring event 2021](https://cdn.mos.cms.futurecdn.net/eEUj8DchXxPfCPHv2p566N.jpg) 

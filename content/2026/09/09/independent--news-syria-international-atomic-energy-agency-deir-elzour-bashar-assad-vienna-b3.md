@@ -8,6 +8,11 @@ published: '2026-09-09T00:00:00Z'
 description: The U.N. nuclear watchdog has ended its investigation into Syria's secret
   nuclear activities
 image: https://static.independent.co.uk/2026/09/09/15/EU_Syria_Nuclear_21834.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
+- Health & Fitness
 ---
 
 The board of the U.N. nuclear watchdog on Wednesday adopted a resolution ending its investigation into past secret nuclear activities in Syria that revealed a reactor configured to produce fissile material for possible use in nuclear weapons.

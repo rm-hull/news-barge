@@ -9,6 +9,9 @@ description: The parliamentarians, from Labour, the Lib Dems and the Green Party
   said the government’s use of real bearskin sourced from Canada is ‘impossible to
   justify’
 image: https://static.independent.co.uk/2026/09/14/22/2275415171..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Ministers have been urged by a cross-party group of parliamentarians to end the use of real bear pelts for the hats worn by guards at Buckingham Palace.

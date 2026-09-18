@@ -10,6 +10,10 @@ description: Andy Burnham has pledged to ‘rewire’ the UK by moving money and
   out of London and into its regions. In Northern Spain, one city might provide the
   blueprint for how to do so. Dan Haygarth finds out
 image: https://static.independent.co.uk/2026/08/05/13/02/AdobeStock_420438736.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Andy Burnham thinks Britain’s political culture is broken.

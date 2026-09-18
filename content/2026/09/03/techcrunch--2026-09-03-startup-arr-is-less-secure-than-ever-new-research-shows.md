@@ -8,6 +8,9 @@ published: '2026-09-03T00:00:00Z'
 description: The AI era has completely broken enterprise buying patterns, and startups
   haven't yet figured out how to navigate.
 image: https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855
+categories:
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 AI has ushered in a lot of never-happened-before moments, but one of the most transformative is its impact on enterprise IT. Companies that have historically been cautious and committed long-term to what they buy are on pace to spend $4.25 trillion on technology in 2026, market researcher IDC predicts. It’s almost all driven by AI.

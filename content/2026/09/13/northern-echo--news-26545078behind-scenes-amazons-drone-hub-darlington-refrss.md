@@ -9,6 +9,11 @@ published: '2026-09-13T00:00:00Z'
 description: Can it fly in the rain? What packages can it deliver? Will it drop a
   box on my dog? We go inside Amazon's drone hub in Darlington.
 image: https://www.thenorthernecho.co.uk/resources/images/21445076.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: ANDY FUTERS)*

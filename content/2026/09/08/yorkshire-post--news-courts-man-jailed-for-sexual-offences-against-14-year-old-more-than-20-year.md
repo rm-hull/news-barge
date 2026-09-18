@@ -8,6 +8,11 @@ published: '2026-09-08T00:00:00Z'
 description: A 63-year-old man has been jailed for sexual offences committed against
   a 14-year-old in Calderdale more than 20 years ago.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjlhOWQ3ZDRhLTJkZjgtNDQzYS04NGZlLTVhNDM1YjI2MjAzZTo5NWRmNDRkMi0xMGNlLTRmODAtYmMyNC00MmFhOGQ2NmUwMmY=.jpg?crop=3:2,smart&trim=&width=500&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Self-Improvement
 ---
 
 # Man jailed for sexual offences against 14-year-old more than 20 years ago

@@ -7,6 +7,11 @@ scraped_at: '2026-08-24T11:45:29Z'
 published: '2026-08-24T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/york-road-wigginton-holly-tree-lane-gsv.webp
+categories:
+- Local
+- York
+- Sports
+- Lifestyle & Fashion
 ---
 
 A cyclist was hurt in a hit-and-run crash in York.

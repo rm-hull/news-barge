@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: About 900 workers are missing from 12 hydropower projects in Nepal, with
   roughly 500 believed to be trapped in tunnels, according to local authorities.
 image: https://images.euronews.com/articles/stories/09/90/08/88/1200x675_cmsv2_c2daf399-63f8-5420-ab69-c4e9e3020647-9900888.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## About 900 workers are missing from 12 hydropower projects in Nepal, with roughly 500 believed to be trapped in tunnels, according to local authorities.

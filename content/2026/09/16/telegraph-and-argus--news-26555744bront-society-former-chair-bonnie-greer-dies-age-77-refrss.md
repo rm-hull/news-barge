@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A former chair of the Brontë Society has died at the age of 77, her husband
   has confirmed.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21463443.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: PA)*

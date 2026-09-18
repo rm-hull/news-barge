@@ -10,6 +10,11 @@ description: UAE Economy Minister Abdulla bin Touq Al Marri told the Euronews Fo
   his country was "winning in the peace" and Georgia's foreign minister flagged sustained
   disinformation campaigns.
 image: https://images.euronews.com/articles/stories/09/91/73/88/1200x675_cmsv2_268bbde6-ffd9-5da2-95e1-96dbd0d1538b-9917388.jpg
+categories:
+- Europe
+- News & Politics
+- Personal Finance & Investing
+- Society & Culture
 ---
 
 ## UAE Economy Minister Abdulla bin Touq Al Marri told the Euronews Forum that "resilience is the insurance of economies," while Azerbaijan's Hajiyev said his country was "winning in the peace" and Georgia's foreign minister flagged sustained disinformation campaigns.

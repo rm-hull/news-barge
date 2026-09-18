@@ -8,6 +8,12 @@ published: '2026-09-02T00:00:00Z'
 description: City of York Council has opened the second round of ward funding applications
   for 2026/27.
 image: https://www.yorkpress.co.uk/resources/images/21395125.jpg?type=og-image&xType=0&yType=26
+categories:
+- Local
+- York
+- Personal Finance & Investing
+- Business & Entrepreneurship
+- News & Politics
 ---
 
 *(Image: City of York Council)*

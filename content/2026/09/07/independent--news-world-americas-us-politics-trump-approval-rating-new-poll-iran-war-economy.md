@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Pessimism about the US economy and the impact of war in Iran driving
   record low numbers
 image: https://static.independent.co.uk/2026/09/06/11/download..?trim=2,0,2,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
+- Personal Finance & Investing
 ---
 
 Donald Trump’s approval rating has dropped to a record low in a major poll, presenting a headache for Republicans in the lead up to the midterm elections.

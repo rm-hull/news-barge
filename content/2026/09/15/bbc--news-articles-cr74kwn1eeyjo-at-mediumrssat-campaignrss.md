@@ -8,6 +8,11 @@ published: '2026-09-15T00:00:00Z'
 description: The Ministry of Justice says sensitive and personal data was accessed
   in a limited number of cases.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0476/live/9df74c60-b13c-11f1-8e7a-7b6c4dcbe4b5.jpg
+categories:
+- UK
+- News & Politics
+- Society & Culture
+- True Crime
 ---
 
 ![A building with the words 'Ministry of Justice' written on it.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0476/live/9df74c60-b13c-11f1-8e7a-7b6c4dcbe4b5.jpg)

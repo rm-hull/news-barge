@@ -9,6 +9,11 @@ description: As part of a broader DHS surge to investigate alleged voter fraud, 
   has announced it plans to pay up to $5 million to create what amounts to a federal
   voter database.
 image: https://media.wired.com/photos/6a982e027b4ef34fe0b39044/191:100/w_1280,c_limit/GettyImages-2287296637.jpg
+categories:
+- Technology & Software
+- Science
+- Personal Finance & Investing
+- Business & Entrepreneurship
 ---
 
 In a bid to tackle alleged voter fraud, Immigration and Customs Enforcement is preparing to award a contract worth up to $5 million to a company that will create a massive national database of voters.

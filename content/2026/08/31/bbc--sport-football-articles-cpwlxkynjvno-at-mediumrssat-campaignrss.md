@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: How Aston Villa and Arsenal's players rated following the Gunners' 1-0
   win.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0470/live/0bf322c0-a57b-11f1-9648-5fefd339ae88.jpg
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
 ---
 
 ![Bukayo Saka](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0470/live/0bf322c0-a57b-11f1-9648-5fefd339ae88.jpg)

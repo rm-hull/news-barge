@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Leeds teenager Sulaiman Tajzai denies murdering Farmanullah Sherzad in
   Westminster after travelling 150 miles to London armed with a knife, Old…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21421369.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- True Crime
 ---
 
 *(Image: Pixabay)*

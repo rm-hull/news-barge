@@ -9,6 +9,12 @@ published: '2026-09-09T00:00:00Z'
 description: Significant changes are being proposed to North Yorkshire Council’s controversial
   home-to-school transport policy following a review by senior officers.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmU5Y2Y4ZjhjLTNkN2YtNDQ0ZS04ZmNjLThjMzEwNzFjNDZhOTpkMjEwZDc5NS0xODdlLTRkZjktODA4YS1iOTJkYTc0YzE3Mzg=.jpg?crop=3:2,smart&trim=&width=626&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
+- Society & Culture
 ---
 
 # Major changes proposed to North Yorkshire Council's controversial home-to-school transport policy

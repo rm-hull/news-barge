@@ -7,6 +7,10 @@ scraped_at: '2026-08-22T20:35:57Z'
 published: '2026-08-22T00:00:00Z'
 description: Discover more about Windows with insights from the experts at Tom's Hardware.
 image: https://cdn.mos.cms.futurecdn.net/56QCjSmF38j9xBURofZTHL-320-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Science
 ---
 
 ![A closeup of a PC build with lots of RGB lighting in an In Win PC case, this is an example of the kind of PC build you could put together if you're out of the budget realm.](https://cdn.mos.cms.futurecdn.net/56QCjSmF38j9xBURofZTHL-320-80.jpg)

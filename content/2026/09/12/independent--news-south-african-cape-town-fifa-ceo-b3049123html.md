@@ -10,6 +10,11 @@ description: The chief organizer of the 2010 World Cup has been reelected presid
   of South Africa’s soccer federation despite facing criminal charges over alleged
   fraud while in office
 image: https://static.independent.co.uk/2026/09/12/16/South_Africa_Election_Soccer_78385.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
+- Business & Entrepreneurship
 ---
 
 The head organizer of the 2010 World Cup was re-elected president of South Africa's soccer federation on Saturday despite facing criminal charges over alleged fraud while in office.

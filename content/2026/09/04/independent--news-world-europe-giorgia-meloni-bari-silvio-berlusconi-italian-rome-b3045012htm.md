@@ -10,6 +10,9 @@ description: Italy's Premier Giorgia Meloni celebrated a milestone for her gover
   using a rally of supporters in the southern city of Bari to argue that four years
   of political stability have strengthened Italy at home and abroad
 image: https://static.independent.co.uk/2026/09/04/19/Italy_Meloni_Record_37_41.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Italy's Premier Giorgia Meloni celebrated a milestone for her government on Friday, telling a rally of supporters in the southern city of Bari to argue that four years of political stability have strengthened Italy at home and abroad.

@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: More than 560 events are planned through 2027, with major sports, concerts
   and festivals on the programme as Qatar looks to build on record visitor numbers.
 image: https://images.euronews.com/articles/stories/09/91/59/75/1200x675_cmsv2_e733c934-4a2e-590c-a691-d1bacc392907-9915975.jpg
+categories:
+- Europe
+- News & Politics
+- Sports
 ---
 
 ## More than 560 events are planned through 2027, with major sports, concerts and festivals on the programme as Qatar looks to build on record visitor numbers.

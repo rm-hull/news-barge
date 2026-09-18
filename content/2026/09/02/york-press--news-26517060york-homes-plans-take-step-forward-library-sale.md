@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The sale of the site of a former York library has been approved, paving
   the way for new homes there.
 image: https://www.yorkpress.co.uk/resources/images/21403586.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Former York library sale paves way for new homes

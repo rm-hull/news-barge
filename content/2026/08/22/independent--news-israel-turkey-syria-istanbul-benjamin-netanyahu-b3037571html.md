@@ -10,6 +10,9 @@ description: The United States' special envoy to Syria says Israel did not warn 
   ahead of striking an air base in northern Syria despite fears of escalation with
   Turkey
 image: https://static.independent.co.uk/2026/08/19/12/Syria_Israel_Turkey_Tensions_47862.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Israel did not warn the United States before it struck an air base in northern Syria this week, despite fears of an escalation with Turkey, the U.S. special envoy to Syria said.

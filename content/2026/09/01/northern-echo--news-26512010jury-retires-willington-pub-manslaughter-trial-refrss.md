@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Jury retires to consider verdict in 'dad' manslaughter trial after incident
   in Willington after listening to closing speeches.
 image: https://www.thenorthernecho.co.uk/resources/images/20370365.jpg?type=og-image&xType=0&yType=315
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A jury has retired to consider its verdict after listening to closing speeches in a manslaughter trial following an incident in a County Durham pub.

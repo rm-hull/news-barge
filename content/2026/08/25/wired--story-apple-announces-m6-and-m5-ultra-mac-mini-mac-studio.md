@@ -9,6 +9,9 @@ description: Apple’s Mac Mini and Mac Studio have been tough to buy for months
   updated versions have arrived. Both include new chips optimized for AI, with the
   M6 Mac Mini getting a $200 price bump.
 image: https://media.wired.com/photos/6a8cd76feb242cc1b4100068/191:100/w_1280,c_limit/Apple-Mac-mini-hero.png
+categories:
+- Technology & Software
+- Science
 ---
 
 Apple has announced fresh versions of the Mac Mini and Mac Studio desktop computers, alongside some new chips: the M6 and M5 Ultra.

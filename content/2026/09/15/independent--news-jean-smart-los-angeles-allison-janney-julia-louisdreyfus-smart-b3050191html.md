@@ -7,6 +7,10 @@ scraped_at: '2026-09-15T04:45:27Z'
 published: '2026-09-15T00:00:00Z'
 description: Jean Smart of “Hacks'' keeps stacking the wins
 image: https://static.independent.co.uk/2026/09/15/02/2_26_Emmy_Awards_-_Press_Room_79642.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Jean Smart of “Hacks” keeps stacking the wins. She won her fifth straight Emmy for lead actress in a comedy series at Monday night's Emmy Awards.

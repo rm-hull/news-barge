@@ -8,6 +8,10 @@ scraped_at: '2026-08-23T20:35:12Z'
 published: '2026-08-23T00:00:00Z'
 description: Vera Rubin and Grace Blackwell systems shipped from early 2027 affected.
 image: https://cdn.mos.cms.futurecdn.net/smfS6N7aideSB7eA7JSz2H-1920-80.jpg
+categories:
+- Technology & Software
+- Hardware
+- Business & Entrepreneurship
 ---
 
 ![Nvidia Blackwell Ultra server stack.](https://cdn.mos.cms.futurecdn.net/smfS6N7aideSB7eA7JSz2H.jpg) 

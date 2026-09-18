@@ -10,6 +10,11 @@ description: The Yorkshire Dales village of Askrigg will feature in the upcoming
   of Channel 5’s Our Great Yorkshire Life - here’s its history and where its name
   came from.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOmVjMWRiMWY5LWVkM2EtNDVlYy1iZDRjLWU5ZWQ3MDkzZWQzYjozN2E0NTI0ZC03NjA3LTQ3MmMtYWJhOC0wZTJhMzY5OWFjZjU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- History
 ---
 
 # Askrigg: History of Yorkshire Dales village that will be featured in episode of Our Great Yorkshire Life and where its name originated from

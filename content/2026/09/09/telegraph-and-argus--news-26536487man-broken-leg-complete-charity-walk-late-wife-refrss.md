@@ -9,6 +9,11 @@ published: '2026-09-09T00:00:00Z'
 description: Kevan Carling is determined to complete a 5km charity walk after breaking
   his leg in seven places.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21431915.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Travel
 ---
 
 KEVAN Carling is determined to complete a 5km charity walk after breaking his leg in seven places.

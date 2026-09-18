@@ -8,6 +8,11 @@ published: '2026-09-17T00:00:00Z'
 description: WALKERS joined forces with emergency services to help a walker with a
   'badly broken ankle' in Malham.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21466305.jpg?type=og-image&xType=0&yType=186
+categories:
+- Local
+- Bradford
+- News & Politics
+- Sports
 ---
 
 *(Image: Lesley Tate)*

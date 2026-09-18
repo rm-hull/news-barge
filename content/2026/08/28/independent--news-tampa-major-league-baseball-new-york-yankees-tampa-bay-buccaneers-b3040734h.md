@@ -8,6 +8,11 @@ published: '2026-08-28T00:00:00Z'
 description: City officials have approved a $2.3 billion agreement for a new Tampa
   Bay Rays ballpark funded by public and private money
 image: https://static.independent.co.uk/2026/08/28/01/Rays_Ballpark_Baseball_68_88.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 City officials on Thursday approved a $2.3 billion deal for a new Tampa Bay Rays ballpark funded by public and private money.

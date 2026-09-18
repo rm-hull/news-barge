@@ -8,6 +8,12 @@ published: '2026-09-10T00:00:00Z'
 description: Newcastle legend and World Cup hero Dan Burn will officially start this
   year's Great North Run, Brendan Foster confirmed.
 image: https://www.thenorthernecho.co.uk/resources/images/21437412.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Sports
+- Business & Entrepreneurship
 ---
 
 Newcastle legend and World Cup hero Dan Burn will officially start this year's Great North Run.

@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Childline founder and former broadcaster Dame Esther Rantzen has once
   again added her voice to calls for the law to be changed
 image: https://static.independent.co.uk/2026/09/11/07/019f18c13e827b5eb6110325264784bcY29udGVudHNlYXJjaGFwaSwxNzg5MTkyNTY2-2.78335510.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Members of Parliament are set to decide on the future of assisted dying legislation during a further vote this Friday.

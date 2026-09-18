@@ -8,6 +8,9 @@ published: '2026-09-14T00:00:00Z'
 description: Trump's announcement comes after he called on Ukraine to halt its attacks
   on Russian diesel infrastructure during a trip to Ireland over the weekend.
 image: https://images.euronews.com/articles/stories/09/91/32/36/1200x675_cmsv2_d695331d-63e4-51ce-9c8d-6e14eeb20259-9913236.jpg
+categories:
+- Europe
+- News & Politics
 ---
 
 ## Trump's announcement comes after he called on Ukraine to halt its attacks on Russian diesel infrastructure during a trip to Ireland over the weekend.

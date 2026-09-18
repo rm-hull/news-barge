@@ -9,6 +9,10 @@ published: '2026-09-01T00:00:00Z'
 description: Norway’s King Haakon VIII has pledged an oath of allegiance to the country’s
   constitution in parliament
 image: https://static.independent.co.uk/2026/09/01/12/Norway_Royals_4131_.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Norway's King Haakon VIII pledged an oath of allegiance to the country's constitution in parliament on Tuesday, an important symbolic step as he takes over at the helm of the Scandinavian country after his late father's 35-year reign.

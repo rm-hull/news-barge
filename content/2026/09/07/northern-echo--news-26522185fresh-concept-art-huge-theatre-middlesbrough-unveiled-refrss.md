@@ -8,6 +8,11 @@ published: '2026-09-07T00:00:00Z'
 description: Fresh concept art of a new theatre dubbed the “most technologically advanced
   in the country” has been unveiled.
 image: https://www.thenorthernecho.co.uk/resources/images/21410884.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 *(Image: MIDDLESBROUGH COUNCIL)*

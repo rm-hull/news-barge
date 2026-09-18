@@ -8,6 +8,9 @@ published: '2026-09-11T00:00:00Z'
 description: Although supporters say they will try again, for now the momentum has
   fallen away from a change in the law.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
 ---
 
 ![Anti-assisted dying campaigners react after MPs voted against the assisted dying bill. Three women stand in a line holding up placards which read: Let's Care Not Kill, Kill the Bill and First Do No Harm. They are smiling and wear t-shirts which support their campaign.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg)

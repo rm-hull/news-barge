@@ -8,6 +8,11 @@ published: '2026-09-13T00:00:00Z'
 description: Some people fired in the wake of Kirk's assassination have won big settlements
   from employers, others have had to start over from scratch.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png
+categories:
+- UK
+- News & Politics
+- True Crime
+- Business & Entrepreneurship
 ---
 
 Watch: These Americans were fired for posting about Charlie Kirk

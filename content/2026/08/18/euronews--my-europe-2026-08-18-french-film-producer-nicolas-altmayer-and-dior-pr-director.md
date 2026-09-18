@@ -10,6 +10,11 @@ description: '"Their joint passing has cast a shadow over two worlds which, one 
   carry France’s cultural influence far and wide," Catherine Pégard, France''s Culture
   Minister, said. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/87/96/41/1200x675_cmsv2_4eef4a57-90c3-5e98-855d-eba4bec4acd7-9879641.jpg
+categories:
+- Europe
+- News & Politics
+- Arts & Culture
+- Film & TV
 ---
 
 ## "Their joint passing has cast a shadow over two worlds which, one through the stories it creates and the other through the silhouettes it crafts, together carry France’s cultural influence far and wide," Catherine Pégard, France's Culture Minister, said.

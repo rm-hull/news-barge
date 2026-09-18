@@ -8,6 +8,11 @@ published: '2026-09-06T00:00:00Z'
 description: Top city chef Ahmed Abdalla announces his surprise departure from one
   of York's best restaurants,
 image: https://www.yorkpress.co.uk/resources/images/21412276.jpg?type=og-image
+categories:
+- Local
+- York
+- Food & Cooking
+- Travel
 ---
 
 ## Michelin Guide chef announces surprise departure from leading York restaurant

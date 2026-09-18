@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: A man who sent sexualised messages to what he thought was a 12-year-old
   girl online landed his partner, at the time, in trouble with police.
 image: https://www.thenorthernecho.co.uk/resources/images/21095739.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Relationships & Dating
 ---
 
 *(Image: The Northern Echo)*

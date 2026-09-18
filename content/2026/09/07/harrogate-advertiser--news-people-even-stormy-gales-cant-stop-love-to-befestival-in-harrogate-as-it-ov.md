@@ -10,6 +10,10 @@ description: The founder of the legendary Love to Be... Festival has revealed th
   date for next year's event in Harrogate after it overcame strong gales to be a major
   success on the Stray at the weekend.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIyZjAxYjQ5LWIxNjYtNGRjMS04MDgyLTgxZDNkNzU4MzU5Yzo0NTFlZjQ0Ny01ZmJkLTQ3ZDEtODg4Zi05YjY4OTBhNjRhOTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Music
 ---
 
 # Even stormy gales can't stop Love to Be...Festival in Harrogate as it overcomes 'huge challenges' to be a huge hit

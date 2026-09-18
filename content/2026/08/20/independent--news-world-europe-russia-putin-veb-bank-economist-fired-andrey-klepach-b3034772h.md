@@ -8,6 +8,9 @@ published: '2026-08-20T00:00:00Z'
 description: The economist’s claims come as Ukraine has repeatedly attacked Russia’s
   oil refineries and largest retailer Wildberries this summer
 image: https://static.independent.co.uk/2026/08/18/10/download.-2.?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 The chief economist of a Russian state development bank has been fired after reportedly drawing comparisons between Russia’s present day economy with the 1917 revolution.

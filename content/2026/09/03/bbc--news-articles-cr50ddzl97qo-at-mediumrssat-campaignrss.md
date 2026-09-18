@@ -8,6 +8,10 @@ published: '2026-09-03T00:00:00Z'
 description: A film broadcast by Channel 4 shows senior Reform UK figures discussing
   donations with an undercover reporter.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/643a/live/23e8e9b0-a7d7-11f1-809e-25fc74c1ec7d.jpg
+categories:
+- UK
+- News & Politics
+- Film & TV
 ---
 
 Watch: Undercover reporters posing as party donors meet with Nigel Farage

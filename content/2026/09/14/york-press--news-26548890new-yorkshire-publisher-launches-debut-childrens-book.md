@@ -8,6 +8,10 @@ published: '2026-09-14T00:00:00Z'
 description: A new independent Yorkshire publisher, Shannon Publishing, has launched
   with its debut children’s title.
 image: https://www.yorkpress.co.uk/resources/images/21453215.jpg?type=og-image
+categories:
+- Local
+- York
+- Arts & Culture
 ---
 
 ## Independent Yorkshire publisher launches first children's book

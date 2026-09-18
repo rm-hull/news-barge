@@ -8,6 +8,10 @@ published: '2026-09-11T00:00:00Z'
 description: Three facilities in two days struck as bombardment of Ukraine’s capital
   enters new phase of intensity
 image: https://i.guim.co.uk/img/media/f234e70e3558479b5e315acd75c9892fe6536ebc/817_0_4743_3797/master/4743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63895051e8bc6a148af3cbd829df831f
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Petrol stations in Kyiv have been hit by jet-powered drones in a wave of targeted Russian attacks as the bombardment of Ukraine’s capital enters a new phase of intensity.

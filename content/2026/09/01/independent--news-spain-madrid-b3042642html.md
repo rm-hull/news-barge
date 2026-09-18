@@ -9,6 +9,11 @@ description: In Spain, the traditional folding hand fan, or abanico, is having a
   due to the summer's intense heat. The fan, small enough to fit in a purse, creates
   a strong breeze with a flick of the wrist.
 image: https://static.independent.co.uk/2026/09/01/11/Spain_Heat_Hand_Fans_74884.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
+- Arts & Culture
 ---
 
 Old-fashioned hand fans make a comeback as Spain swelters, in photos

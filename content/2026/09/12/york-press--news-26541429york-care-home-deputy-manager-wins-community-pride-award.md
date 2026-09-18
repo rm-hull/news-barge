@@ -8,6 +8,10 @@ published: '2026-09-12T00:00:00Z'
 description: The deputy manager of the Chocolate Works Care Home has been named The
   Press Community Pride 2026 Health Service Hero.
 image: https://www.yorkpress.co.uk/resources/images/21441486.jpg?type=og-image
+categories:
+- Local
+- York
+- Careers & Productivity
 ---
 
 ## 'Dedicated' York care home worker receives Community Pride Award

@@ -7,6 +7,10 @@ scraped_at: '2026-08-18T13:04:27Z'
 published: '2026-08-18T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2026/08/cctv-nicholas-gardens-york-theft-21-june-2026.webp
+categories:
+- Local
+- York
+- Lifestyle & Fashion
 ---
 
 Police investigating a theft want to talk to the two teenagers on this CCTV image.

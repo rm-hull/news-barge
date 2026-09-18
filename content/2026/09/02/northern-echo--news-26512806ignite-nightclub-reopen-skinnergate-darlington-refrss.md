@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: A Darlington nightclub is set to reopen this weekend under new ownership,
   with plans to bring big name DJs and themed events to the town centre.
 image: https://www.thenorthernecho.co.uk/resources/images/21397636.jpg?type=og-image&xType=0&yType=81
+categories:
+- Local
+- UK
+- News & Politics
+- Lifestyle & Fashion
 ---
 
 A Darlington nightclub is to reopen this weekend under new ownership, with plans to bring big name DJs and themed events to the town centre.

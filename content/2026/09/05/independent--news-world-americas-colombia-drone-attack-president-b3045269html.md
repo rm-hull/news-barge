@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Local authorities blamed the attack on the rebel National Liberation
   Army (ELN)
 image: https://static.independent.co.uk/2026/08/25/00/Colombia_Migration_64487.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 At least three soldiers have died, and four others have been wounded in an attack involving explosives dropped from drones, followed by a clash inside a military compound in northeastern Colombia.

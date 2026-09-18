@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: People in York have shared their shock after a long-running shop and
   the main Post Office for the city have revealed that they will be closing their…
 image: https://www.gazetteherald.co.uk/resources/images/21401363.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Lifestyle & Fashion
 ---
 
 PEOPLE in York have shared their shock after a long-running shop and the main Post Office for the city revealed that they will be closing their doors next month.

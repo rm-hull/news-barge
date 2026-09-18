@@ -8,6 +8,12 @@ published: '2026-09-09T00:00:00Z'
 description: SITCOM fans were devastated when Richard O'Sullivan died earlier this
   month.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21432741.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Film & TV
+- Comedy & Entertainment
 ---
 
 SITCOM fans were devastated when Richard O'Sullivan died earlier this month.

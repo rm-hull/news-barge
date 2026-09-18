@@ -8,6 +8,10 @@ published: '2026-08-24T00:00:00Z'
 description: Yorkshire Water has faced residents after supply problems left villages
   near Boroughbridge without water for three days.
 image: https://mmo.aiircdn.com/409/6a8c255919074c4e057.jpg
+categories:
+- Local
+- Harrogate
+- Health & Fitness
 ---
 
 ![](https://mmo.aiircdn.com/409/6a8c255919074c4e057.jpg) 

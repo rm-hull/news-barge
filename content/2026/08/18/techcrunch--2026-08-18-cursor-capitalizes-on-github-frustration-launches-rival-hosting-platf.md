@@ -9,6 +9,9 @@ published: '2026-08-18T00:00:00Z'
 description: Cursor, known for its AI Code Editor, is launching a new code-hosting
   platform to rival developers' long preferred favorite, GitHub.
 image: https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 For as long as anyone can remember, GitHub has been the de facto code host preferred by a majority of developers. However, in recent times, the platform has struggled with widely reported outages and performance degradation and, as it drops the ball, Cursor is waiting to pick it up.

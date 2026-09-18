@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: The company won't say if medical devices are affected or if any customer
   data was exfiltrated.
 image: https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772
+categories:
+- Technology & Software
+- Business & Entrepreneurship
+- Science
 ---
 
 A cyberattack on U.S. medical device maker Boston Scientific is causing an ongoing “global disruption” to its operations, according to a federal regulatory filing on Wednesday. This is the latest health tech giant to face a cyberattack in recent weeks.

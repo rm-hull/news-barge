@@ -9,6 +9,11 @@ published: '2026-09-08T00:00:00Z'
 description: The billionaire founder of Rokos Capital Management paid £330m to the
   Treasury last year
 image: https://static.independent.co.uk/2026/03/31/13/24/01KN1YQVF18HAP6E92M0CGXBKV.jpeg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 The billionaire hedge fund founder Chris Rokos is reportedly moving to Greece amid fears of tax rises in the autumn Budget.

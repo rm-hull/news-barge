@@ -10,6 +10,10 @@ description: The president of Chubu Electric Power Co., Japan's third-largest ut
   says he and the chairperson are resigning over manipulated earthquake safety data
   for two nuclear reactors
 image: https://static.independent.co.uk/2026/09/14/15/Japan_Nuclear_15581.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 The president of Chubu Electric Power Co., Japan's third-largest utility, said Monday that he and the chairperson are resigning to take responsibility over the company's yearslong manipulation of earthquake safety data for two nuclear reactors and that the operator will withdraw applications to restart them.

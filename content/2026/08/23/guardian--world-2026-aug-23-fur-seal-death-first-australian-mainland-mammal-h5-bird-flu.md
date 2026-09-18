@@ -9,6 +9,9 @@ published: '2026-08-23T00:00:00Z'
 description: Seal found dead at Beachport in South Australia presages ‘significant
   losses’, minister warns
 image: https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bccdeb47faeedb3f48a02360bb5c3f7b
+categories:
+- UK
+- News & Politics
 ---
 
 A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland.

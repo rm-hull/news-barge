@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Salman Rushdie, a U.S. citizen for the past decade, is set to receive
   a prestigious National Book Award medal for lifetime achievement
 image: https://static.independent.co.uk/2026/09/10/15/Books_-_Salman_Rushdie_21536.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Sports
 ---
 
 Salman Rushdie, a U.S. citizen for the past decade, is to receive a literary honor reserved for the elite of American writers — a National Book Award medal for lifetime achievement.

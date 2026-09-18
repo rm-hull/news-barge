@@ -9,6 +9,10 @@ published: '2026-09-02T00:00:00Z'
 description: The former pro-ICE, far-right star claimed his arrest was not a ‘normal,
   lawful’ process
 image: https://static.independent.co.uk/2026/08/28/20/25/MILO.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 Far-right troll Milo Yiannopoulos alleges he was “swarmed” by Homeland Security agents and repeatedly mistreated ahead of his deportation to the UK last week.

@@ -7,6 +7,11 @@ scraped_at: '2026-09-07T19:53:39Z'
 published: '2026-09-07T00:00:00Z'
 description: A former church in a North Yorkshire village is up for sale for £179,995.
 image: https://www.gazetteherald.co.uk/resources/images/21420373.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 A former church in a North Yorkshire village is up for sale.

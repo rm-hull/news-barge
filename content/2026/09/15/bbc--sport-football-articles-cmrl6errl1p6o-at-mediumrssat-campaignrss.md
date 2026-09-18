@@ -10,6 +10,10 @@ description: Richarlison publicly expresses his displeasure at Roberto de Zerbi'
   decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against
   Liverpool.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b879/live/655224b0-b0d9-11f1-a540-61c3f7fc4e6c.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Richarlison of Tottenham Hotspur reacts during the pre-season friendly match between Tottenham Hotspur and TSG Hoffenheim](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b879/live/655224b0-b0d9-11f1-a540-61c3f7fc4e6c.jpg)

@@ -9,6 +9,11 @@ published: '2026-09-16T00:00:00Z'
 description: A Darlington charity founded in memory of a football-mad teenager Harvey
   McWilliams who tragically died in 2021 has been named the North East's…
 image: https://www.thenorthernecho.co.uk/resources/images/21462738.jpg?type=og-image&xType=0&yType=116
+categories:
+- Local
+- UK
+- News & Politics
+- History
 ---
 
 *(Image: FAMILY)*

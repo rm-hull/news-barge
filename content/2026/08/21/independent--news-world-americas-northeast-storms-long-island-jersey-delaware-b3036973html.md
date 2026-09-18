@@ -9,6 +9,10 @@ description: Heavy rain and winds are pounding the Northeast U.S. Storms tore th
   a beach on Long Island and stranded dozens of people in their cars in New Jersey
   on Thursday
 image: https://static.independent.co.uk/2026/08/21/12/download..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Heavy rain and strong winds pounded the Northeast U.S. on Thursday as severe storms tore through a Long Island beach, stranded dozens of motorists in New Jersey, and knocked out power in parts of Delaware’s capital city.

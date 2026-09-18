@@ -9,6 +9,10 @@ description: Does eminent domain prevail against the First Amendment and religio
   freedom? A diocese in southern New Mexico says ‘nothing could be less Catholic’
   than the president’s border wall, Alex Woodward reports
 image: https://static.independent.co.uk/2026/06/21/22/642955928..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 In 1933, Father Lourdes Costa had a vision for a cross on a mountaintop in southern New Mexico. Nine years later, Costa’s idea became reality. A 29-foot-tall limestone statue of Jesus Christ created by the sculptor Urbici Sole was installed at the top of Mount Cristo Rey, becoming a beacon for thousands of pilgrims every year, some who make the journey on their knees in prayer.

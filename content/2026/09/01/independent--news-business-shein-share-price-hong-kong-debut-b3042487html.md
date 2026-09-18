@@ -8,6 +8,11 @@ published: '2026-09-01T00:00:00Z'
 description: Known globally for selling $5 tops and $10 dresses, Shein was founded
   in China in 2012
 image: https://static.independent.co.uk/2026/08/31/09/0ac3fa081dffea047eb430dc5dbad2f2Y29udGVudHNlYXJjaGFwaSwxNzg4MDA3MTg3-2.78243374.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Technology & Software
 ---
 
 Shares in Shein dropped four per cent in its first day of Hong Kong trade on Tuesday, as investors worried about the impact of setbacks that long delayed its listing and have undermined its competitive advantages.

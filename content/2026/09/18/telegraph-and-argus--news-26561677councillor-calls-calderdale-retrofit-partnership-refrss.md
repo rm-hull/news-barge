@@ -8,6 +8,11 @@ published: '2026-09-18T00:00:00Z'
 description: A councillor is call for a retrofit partnership to be set up to help
   deal with the problem of better heating tens of thousands of Calderdale's…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21157939.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 A councillor is call for a retrofit partnership to be set up to help deal with the problem of better heating tens of thousands of Calderdale’s older homes.

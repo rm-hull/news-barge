@@ -8,6 +8,11 @@ published: '2026-08-31T00:00:00Z'
 description: Data from the DVLA has revealed what the top 10 stolen car models were
   in the UK during the first six months of 2026
 image: https://www.thetelegraphandargus.co.uk/resources/images/19538891.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Automotive
 ---
 
 *(Image: Getty Images)*

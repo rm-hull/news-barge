@@ -9,6 +9,10 @@ description: A small Mediterranean island now ranks among Europe's top 10 gaming
   by revenue — and third in the world for mobile downloads, behind only China and
   Vietnam.
 image: https://images.euronews.com/articles/stories/09/87/87/12/1200x675_cmsv2_5537f5fb-5529-59c2-a998-e53d6839ffce-9878712.jpg
+categories:
+- Europe
+- News & Politics
+- Technology & Software
 ---
 
 ## A small Mediterranean island now ranks among Europe's top 10 gaming markets by revenue — and third in the world for mobile downloads, behind only China and Vietnam.

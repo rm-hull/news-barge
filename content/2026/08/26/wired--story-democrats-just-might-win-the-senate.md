@@ -9,6 +9,11 @@ description: Strategists in both parties have long thought that everything would
   to go right for Democrats to take over Congress this fall. Their map, though, is
   becoming more forgiving.
 image: https://media.wired.com/photos/6a8e12acbbdee18b4a023905/191:100/w_1280,c_limit/politics_democrats_senate.jpg
+categories:
+- Technology & Software
+- Science
+- News & Politics
+- Society & Culture
 ---
 
 With primary elections in the key 2026 battleground states largely complete, Democrats have emerged with several open paths to take the majority in the US Senate.

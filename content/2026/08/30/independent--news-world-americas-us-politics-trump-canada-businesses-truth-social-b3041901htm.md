@@ -8,6 +8,10 @@ published: '2026-08-30T00:00:00Z'
 description: Trump’s rebranding of Lake Ontario was just the beginning of multi-day
   effort to provoke Canada
 image: https://static.independent.co.uk/2026/08/27/20/2291727849..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Donald Trump sought to escalate his trade war with Canada on Sunday afternoon and issued a demand on Truth Social that Canadian companies wanting to do business with the U.S. reshore their headquarters within its borders.

@@ -8,6 +8,11 @@ published: '2026-09-02T00:00:00Z'
 description: The sale of the site of a former York library has been approved, paving
   the way for new homes there.
 image: https://www.gazetteherald.co.uk/resources/images/21403586.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Arts & Culture
 ---
 
 ### What is the Public Notice Portal?

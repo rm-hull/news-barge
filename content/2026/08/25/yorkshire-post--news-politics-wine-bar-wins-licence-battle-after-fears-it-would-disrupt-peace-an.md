@@ -9,6 +9,11 @@ description: A proposed wine bar in Mirfield has had its licence approved despit
   fears that neighbours would no longer be able to enjoy “peace and quiet” in their
   own homes.
 image: https://www.yorkshirepost.co.uk/webimg/b25lY21zOjQwMTNiM2MzLWJiYWYtNDFjZi1hMzYwLTg5MTBjZTkwMDViMTpkZDVjZmFiYy01Mzc2LTQwZWMtYjNmZi0wYjk0NmY1NGYwNzA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- Society & Culture
 ---
 
 # Wine bar wins licence battle after fears it would disrupt ‘peace and quiet

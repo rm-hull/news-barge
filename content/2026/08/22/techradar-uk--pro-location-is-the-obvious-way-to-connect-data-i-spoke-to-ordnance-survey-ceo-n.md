@@ -9,6 +9,9 @@ scraped_at: '2026-08-22T12:56:30Z'
 published: '2026-08-22T00:00:00Z'
 description: The OS isn’t just paper maps in the AI age
 image: https://cdn.mos.cms.futurecdn.net/Hqg5UoBG7S4JLbPu7ziha7-1920-80.jpg
+categories:
+- Technology & Software
+- Business & Entrepreneurship
 ---
 
 ![Woman using an OS map outside on a hike](https://cdn.mos.cms.futurecdn.net/Hqg5UoBG7S4JLbPu7ziha7.jpg) 

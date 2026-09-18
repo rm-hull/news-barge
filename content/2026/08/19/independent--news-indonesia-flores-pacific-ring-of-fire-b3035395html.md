@@ -8,6 +8,10 @@ published: '2026-08-19T00:00:00Z'
 description: Grocery stores, gas stations and other businesses have reopened across
   Indonesia’s Flores island
 image: https://static.independent.co.uk/2026/08/19/06/Indonesia_Earthquake_923_5.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Grocery stores, gas stations and other shops reopened Wednesday, four days after a powerful earthquake killed at least 70 people, injured nearly 1,200 others and damaged thousands of homes.

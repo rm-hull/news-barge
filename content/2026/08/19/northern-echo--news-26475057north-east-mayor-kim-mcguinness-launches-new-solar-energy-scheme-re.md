@@ -8,6 +8,11 @@ published: '2026-08-19T00:00:00Z'
 description: North East homeowners are being offered discounted access to solar panels
   and battery storage under a new scheme launched by Mayor Kim McGuinness.
 image: https://www.thenorthernecho.co.uk/resources/images/21115740.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 *(Image: SARAH CALDECOTT)*

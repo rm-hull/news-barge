@@ -7,6 +7,8 @@ scraped_at: '2026-09-11T19:09:06Z'
 published: '2026-09-11T00:00:00Z'
 description: Keeping up with the NFL doesn't have to cost an arm and a leg
 image: https://cdn.mos.cms.futurecdn.net/W4CB388mDWRFAtfd3WxHGF-1920-80.jpg
+categories:
+- Technology & Software
 ---
 
 ![Promotional image for the NFL Sunday Ticket on YouTube](https://cdn.mos.cms.futurecdn.net/W4CB388mDWRFAtfd3WxHGF.jpg) 

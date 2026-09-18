@@ -7,6 +7,11 @@ scraped_at: '2026-08-19T21:31:35Z'
 published: '2026-08-19T00:00:00Z'
 description: A crew is dealing with a wood fire in North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/12541448.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Travel
 ---
 
 *(Image: Newsquest)*

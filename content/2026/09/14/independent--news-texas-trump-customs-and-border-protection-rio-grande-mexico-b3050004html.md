@@ -9,6 +9,10 @@ published: '2026-09-14T00:00:00Z'
 description: Landowners, ranchers, and business owners in Texas are suing to stop
   the Trump administration's border wall plans in the Big Bend region
 image: null
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Landowners, ranchers and business owners in the Big Bend region of Texas along with a nonprofit organization dedicated to protecting the region's landscape and heritage are suing to stop the Trump administration's plans to build a wall and other border infrastructure through the remote section of the state.

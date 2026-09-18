@@ -15,6 +15,11 @@ description: 'A teenager bought a a knife and travelled more than 150 miles to f
   Chief Inspector Wayne Jolley said: "This is a devastating case in which a young
   man lost his life after being subjected to a brutal and senseless act of violence.”'
 image: https://cdn.jwplayer.com/v2/media/kGvIa2Ts/poster.jpg?width=720
+categories:
+- News & Politics
+- UK
+- True Crime
+- History
 ---
 
 ## Showing now | News

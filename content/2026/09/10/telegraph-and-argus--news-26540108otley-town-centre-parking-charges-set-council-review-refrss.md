@@ -9,6 +9,11 @@ published: '2026-09-10T00:00:00Z'
 description: Leeds City Council will review Otley town centre parking charges after
   councillors raised cost concerns, while park fees remain outside the review.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21436805.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
 ---
 
 *(Image: Google)*

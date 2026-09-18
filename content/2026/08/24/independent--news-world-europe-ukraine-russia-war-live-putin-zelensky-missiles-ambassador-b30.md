@@ -9,6 +9,10 @@ published: '2026-08-24T00:00:00Z'
 description: Ukraine’s president made the stark warning that a new surge of Russia
   troops could join the war in the coming months
 image: https://static.independent.co.uk/2026/08/23/15/2026-08-23T094201Z_700419293_RC20BFA9HSSI_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-MOBILISATION.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
 ---
 
 Ukraine’s president Volodymyr Zelensky has warned that Vladimir Putin intends to draft 300,000 new troops to join the war from next month in a bid to seize territory.

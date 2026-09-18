@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: Yorkshire's Winter Wonderland will return to York this November after
   welcoming more than one million skaters over the past two decades.
 image: https://mmo.aiircdn.com/409/6a97cc7ace8a00ddc7b.jpg
+categories:
+- Local
+- Harrogate
+- History
 ---
 
 ![](https://mmo.aiircdn.com/409/6a97cc7ace8a00ddc7b.jpg) 

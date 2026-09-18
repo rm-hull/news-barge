@@ -9,6 +9,10 @@ published: '2026-09-17T00:00:00Z'
 description: Canadian Prime Minister Mark Carney has embraced the prospect of his
   country becoming the European Union’s first associate member
 image: https://static.independent.co.uk/2026/09/16/18/France_EU_Canada_37745.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
 ---
 
 Canadian Prime Minister Mark Carney on Thursday embraced the prospect of his country becoming the European Union’s first associate member, saying closer ties with Europe were meant to ensure no country could control Canada’s markets, impair its sovereignty or undermine its freedoms.

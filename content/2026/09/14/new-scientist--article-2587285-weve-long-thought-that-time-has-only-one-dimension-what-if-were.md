@@ -9,6 +9,9 @@ description: A second dimension of time has long seemed wholly incompatible with
   But fresh insights involving black holes and quantum mechanics suggest it deserves
   another look
 image: https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311647290.jpg
+categories:
+- Science
+- Technology & Software
 ---
 
 ![](https://www.newscientist.com/wp-content/uploads/2026/09/SEI_311647290.jpg?w=840)

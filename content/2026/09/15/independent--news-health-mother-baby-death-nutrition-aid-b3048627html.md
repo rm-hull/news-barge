@@ -10,6 +10,11 @@ description: Multiple micronutrient supplements in pregnancy reduce the risk of 
   anaemia, stillbirth and small births – but are only just starting to be rolled out
   across the countries that need them most. Liz Cookman reports
 image: https://static.independent.co.uk/2026/09/11/12/04/GettyImages-525918052-00d1642c.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Health & Fitness
+- Family & Parenting
 ---
 
 Hundreds of thousands of women die from complications related to pregnancy and childbirth every year, with the burden falling overwhelmingly on poorer countries as hard-won progress has slowed amid cuts to international aid.

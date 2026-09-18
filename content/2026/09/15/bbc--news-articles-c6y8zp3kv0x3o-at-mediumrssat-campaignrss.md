@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: The ruling came as the centre's Trump-appointed board was reportedly
   scheduled to vote on closing it for two years.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/52b7/live/2e64b580-b12e-11f1-b199-f1c9bc04a179.jpg
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Watch: President Trump's name added to facade of Kennedy Center

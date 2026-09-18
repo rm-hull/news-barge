@@ -9,6 +9,9 @@ published: '2026-09-01T00:00:00Z'
 description: Chinese envoy fumes at ‘inappropriate’ presence of rival Taiwan while
   Australia and New Zealand defend coalition
 image: https://static.independent.co.uk/2026/09/01/11/2292445520..?trim=0,1,0,1&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 China has said Taiwan will face “consequences” for its presence at the annual Pacific leaders’ summit in Palau on Monday.

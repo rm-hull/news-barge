@@ -8,6 +8,11 @@ published: '2026-08-27T00:00:00Z'
 description: Canada’s tariffs aren’t directly aimed at farmers, but farms will feel
   the cost if they go into effect
 image: https://static.independent.co.uk/2026/08/27/18/06/iStock-992601966.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
 ---
 
 U.S. President Donald Trump’s trade war with Canada is getting personal for American farmers.

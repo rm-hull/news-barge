@@ -8,6 +8,8 @@ published: '2026-09-10T00:00:00Z'
 description: Philips' new 34-inch ultrawide monitor offers a fantastic combination
   of super-sharp image quality, outstanding connectivity and even high-refresh performance.
 image: https://cdn.mos.cms.futurecdn.net/M7oQ5EhtS92NSa64BZv9Z7-2100-80.jpg
+categories:
+- Technology & Software
 ---
 
 ### TechRadar Verdict

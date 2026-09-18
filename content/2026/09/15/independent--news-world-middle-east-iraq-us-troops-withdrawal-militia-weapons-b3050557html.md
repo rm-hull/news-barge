@@ -9,6 +9,11 @@ description: After withdrawing in 2011, U.S. troops returned three years later a
   Baghdad’s invitation to lead a smaller coalition against Islamic State militants
   who had seized wide areas of the country
 image: https://static.independent.co.uk/2026/09/15/14/32/GettyImages-2278996490.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- History
+- Society & Culture
 ---
 
 As the end of the month approaches, Iraq faces two major deadlines: the conclusion of a decades-long U.S. military deployment and the required disarming of non-state paramilitary groups.

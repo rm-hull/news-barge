@@ -8,6 +8,10 @@ published: '2026-09-15T00:00:00Z'
 description: Bobby Seale, co-founder of the Black Panther Party, is reissuing his
   1970 memoir "Seize the Time" as he approaches his 90th birthday
 image: https://static.independent.co.uk/2026/09/15/19/Books_-_Bobby_Seale_73157.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 As Black Panther co—founder Bobby Seale nears his 90th birthday, he is set to reissue his 1970 jailhouse memoir “Seize the Time” and follow it up with a new book, “I, Bobby.”

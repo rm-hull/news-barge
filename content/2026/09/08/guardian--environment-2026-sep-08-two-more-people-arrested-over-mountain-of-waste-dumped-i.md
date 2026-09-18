@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: A total of six people apprehended as clean-up of rubbish stacked 10 metres
   high cost about £6m
 image: https://i.guim.co.uk/img/media/334deb9536152a60f1a8c8a5b1f0ccdc9f890cd4/336_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4506a738eb2c42fafc341b55ed3e87e3
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Two men have been arrested after fly-tippers dumped a “mountain of illegal waste”, stacked 10 metres high, in Oxfordshire.

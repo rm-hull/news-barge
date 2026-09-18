@@ -8,6 +8,10 @@ published: '2026-08-25T00:00:00Z'
 description: The 68-year-old man was found dead in California's salt flats amid 116°F
   (46.6C) heat.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg
+categories:
+- UK
+- News & Politics
+- Travel
 ---
 
 ![A view of Badwater Basin, a surreal salt flat, the lowest point in North America during extreme heat wave in Death Valley National Park of California, United States on August 2, 2026](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg)

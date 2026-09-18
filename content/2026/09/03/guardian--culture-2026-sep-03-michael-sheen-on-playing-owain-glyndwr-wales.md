@@ -9,6 +9,11 @@ published: '2026-09-03T00:00:00Z'
 description: Actor will play 15th-century hero in sweeping production about Welsh
   rebellion against English crown
 image: https://i.guim.co.uk/img/media/ba4351c19850ade80ce31fc36e22596f74ee8141/958_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f18fc7b25dfda9ae0fa057fabcf1422a
+categories:
+- UK
+- News & Politics
+- Arts & Culture
+- History
 ---
 
 There are myriad films, plays and books focusing on heroes of English, Scottish and Irish history but far fewer that tell the stories of the great figures of Wales.

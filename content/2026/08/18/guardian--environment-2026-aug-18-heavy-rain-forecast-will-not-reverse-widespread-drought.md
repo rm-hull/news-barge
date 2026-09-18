@@ -8,6 +8,10 @@ published: '2026-08-18T00:00:00Z'
 description: ‘First meaningful rain for a long time’ is forecast but water firms continue
   to ask customers to restrict use
 image: https://i.guim.co.uk/img/media/8f98797d77a77e67a4425d4ad669e5057efa651a/0_30_3648_2919/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f2d0ad5ae89bb6ad6151e2fe1a55ec6
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 Floods and drought could hit the UK at the same time this week, with heavy rain forecast to fall on hard, parched soil.

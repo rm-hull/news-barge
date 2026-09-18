@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: The Bank of England has kept rates unchanged for the sixth time in a
   row.
 image: https://static.independent.co.uk/2026/04/17/09/16123521-3a2199a6-f132-4c39-96b0-7aedee336fa8.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Personal Finance & Investing
 ---
 
 The Bank of England has kept interest rates unchanged at 3.75% in its latest decision on monetary policy.

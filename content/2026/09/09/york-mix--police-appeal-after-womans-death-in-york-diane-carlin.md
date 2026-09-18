@@ -7,6 +7,12 @@ scraped_at: '2026-09-09T19:14:52Z'
 published: '2026-09-09T00:00:00Z'
 description: ''
 image: https://wp.theyorkmix.com/wp-content/uploads/2025/08/police-notebook-nyp.webp
+categories:
+- Local
+- York
+- True Crime
+- News & Politics
+- Society & Culture
 ---
 
 Police are asking for the public’s help after the death of a woman in York.

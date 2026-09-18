@@ -9,6 +9,10 @@ published: '2026-09-10T00:00:00Z'
 description: Harrogate’s MP is to lace up his running shoes to take part in this weekend’s
   Great North Run to fundraise for Saint Michael’s Hospice.
 image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmJjODYzNGNhLThhMjItNDE5Ny04ZDg4LWI3YTBiYTM2MDUwYTpmM2IzZTIxOS01ZmQyLTQyNmMtOWNjNC0xMDgyOTcwYzYzYzU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- Sports
 ---
 
 # Harrogate's Lib Dem MP is to tackle the world's biggest half-marathon for Saint Michael's Hospice

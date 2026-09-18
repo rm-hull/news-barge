@@ -9,6 +9,11 @@ published: '2026-09-04T00:00:00Z'
 description: A ward councillor has called for action over weeds growing across pavements
   in a Bradford area.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21407749.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Society & Culture
 ---
 
 *(Image: Cllr Joanne Dodds)*

@@ -9,6 +9,10 @@ published: '2026-09-13T00:00:00Z'
 description: Andrew Hastie also says One Nation leader is ‘not the person I thought
   she was’ and he feels sorry for Joyce
 image: https://i.guim.co.uk/img/media/752d387636eeedc903e3c7e20dc8f376e76d0ab0/516_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e870afc6527b9c99d66b0fc0276a774
+categories:
+- UK
+- News & Politics
+- Arts & Culture
 ---
 
 Anthony Albanese has labelled Pauline Hanson nasty and spiteful over resurfaced comments from the One Nation leader criticising his mother for living in public housing for decades.

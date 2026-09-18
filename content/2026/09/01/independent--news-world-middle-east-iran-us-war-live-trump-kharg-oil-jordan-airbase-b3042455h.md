@@ -7,6 +7,10 @@ scraped_at: '2026-09-01T13:29:11Z'
 published: '2026-09-01T00:00:00Z'
 description: Trump vowed retaliation for Iranian strikes on US military bases in Jordan
 image: https://static.independent.co.uk/2026/09/01/05/2292889323..?trim=0,2,0,2&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Technology & Software
 ---
 
 Iran has rubbished Donald Trump’s threats against one of its key islands after the US president threatened to hit the Islamic Republic “hard” following Iranian missile strikes on US military bases.

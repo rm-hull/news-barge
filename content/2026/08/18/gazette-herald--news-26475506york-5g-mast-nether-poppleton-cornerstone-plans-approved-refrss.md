@@ -7,6 +7,11 @@ scraped_at: '2026-08-18T19:35:58Z'
 published: '2026-08-18T00:00:00Z'
 description: PLANS to install a 30m-high 5G mast in York have been approved.
 image: https://www.gazetteherald.co.uk/resources/images/19940942.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- Personal Finance & Investing
 ---
 
 ### What is the Public Notice Portal?

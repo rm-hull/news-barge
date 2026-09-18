@@ -9,6 +9,10 @@ published: '2026-08-28T00:00:00Z'
 description: Nevada-based Kingsbarn Realty Capital seeks to acquire land to construct
   private road to development outside park
 image: https://i.guim.co.uk/img/media/0b825f2274d53dbd46de10e7867f231052eb036d/1328_590_5362_4291/master/5362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3d43911ecbd86ad6bbcef12669c4514
+categories:
+- UK
+- News & Politics
+- Business & Entrepreneurship
 ---
 
 The Trump administration is reportedly pushing to give a parcel of land inside Yosemite, the country’s first national park and one of its most popular, to a Nevada-based private developer.

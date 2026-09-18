@@ -9,6 +9,11 @@ published: '2026-09-02T00:00:00Z'
 description: Shipley’s Labour MP Anna Dixon, who has long been campaigning against
   IPPs, said this was “extremely welcome”.
 image: https://www.yorkshirepost.co.uk/jpim-static/image/2026/09/01/13/cs-eba38e4c-8a1f-4a59-b499-afb255841cb5.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+categories:
+- Local
+- Harrogate
+- York
+- News & Politics
 ---
 
 # Imprisonment for Public Protection orders: Andy Burnham pledges to end 'injustice' of IPPs

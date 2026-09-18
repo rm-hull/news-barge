@@ -9,6 +9,10 @@ published: '2026-09-09T00:00:00Z'
 description: Martin Rolfe, who faces pressure to resign, due to brief Heidi Alexander
   after cancellations pass 2,000
 image: https://i.guim.co.uk/img/media/6b9af347567c298be52416d8e26743450e803402/59_0_5356_4284/master/5356.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca2034e25c3cef2a2c17ffa6febb05a
+categories:
+- UK
+- News & Politics
+- History
 ---
 
 The boss of the air traffic control provider Nats has been summoned to meet the UK transport secretary as the number of flight cancellations passed 2,000 in a second day of disruption for hundreds of thousands of passengers.

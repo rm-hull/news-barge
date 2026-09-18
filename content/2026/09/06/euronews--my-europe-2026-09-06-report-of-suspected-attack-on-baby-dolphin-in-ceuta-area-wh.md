@@ -9,6 +9,10 @@ description: 'The DAUBMA association has filed a complaint with the Civil Guard 
   a dolphin calf died on Trampolín beach in Ceuta, providing images to help clarify
   what happened and identify the alleged culprits. #EuropeNews'
 image: https://images.euronews.com/articles/stories/09/90/16/33/1200x675_cmsv2_09ba3f02-e37b-5735-84d7-319e0066165a-9901633.jpg
+categories:
+- Europe
+- News & Politics
+- Society & Culture
 ---
 
 ## The DAUBMA association has filed a complaint with the Civil Guard after a dolphin calf died on Trampolín beach in Ceuta, providing images to help clarify what happened and identify the alleged culprits.

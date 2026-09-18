@@ -8,6 +8,12 @@ published: '2026-09-11T00:00:00Z'
 description: A new petition is calling for a major tax boost for pensioners, with
   a higher personal allowance linked to the State Pension Triple Lock.
 image: https://www.thetelegraphandargus.co.uk/resources/images/21383585.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Personal Finance & Investing
+- Careers & Productivity
 ---
 
 *(Image: Joe Giddens)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: A long-lost Italian portrait looted by the Nazis has been cleared for
   return to the heir of a prominent Jewish art dealer
 image: https://static.independent.co.uk/2026/09/04/21/Argentina_Nazi_Stolen_Art_191_7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Arts & Culture
 ---
 
 A long-lost Italian portrait looted from a prominent Jewish art dealer during World War II was set to be returned to his heir after an Argentine court on Friday approved a deal under which the daughter of a fugitive Nazi official agreed to give up her claim rather than face trial.

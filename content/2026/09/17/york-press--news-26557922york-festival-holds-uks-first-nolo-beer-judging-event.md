@@ -8,6 +8,10 @@ published: '2026-09-17T00:00:00Z'
 description: York CAMRA makes UK history by judging NoLo beers at its beer festival,
   as University of York research promotes alcohol-free drinks across 65 city…
 image: https://www.yorkpress.co.uk/resources/images/21466638.jpg?type=og-image
+categories:
+- Local
+- York
+- Travel
 ---
 
 ## York CAMRA makes UK-first move with award for best NoLo beer

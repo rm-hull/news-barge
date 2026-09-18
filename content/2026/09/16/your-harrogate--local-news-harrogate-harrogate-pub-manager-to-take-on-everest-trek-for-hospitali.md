@@ -8,6 +8,10 @@ published: '2026-09-16T00:00:00Z'
 description: The manager of a popular Harrogate pub is preparing for a 19-day trek
   to Everest Base Camp to fundraise for a charity that supported her.
 image: https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg
+categories:
+- Local
+- Harrogate
+- Travel
 ---
 
 ![](https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg) 

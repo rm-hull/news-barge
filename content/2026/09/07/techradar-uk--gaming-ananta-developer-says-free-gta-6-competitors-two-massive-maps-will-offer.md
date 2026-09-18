@@ -10,6 +10,9 @@ published: '2026-09-07T00:00:00Z'
 description: Upcoming free-to-play open-world game Ananta will offer two gigantic
   cities to explore.
 image: https://cdn.mos.cms.futurecdn.net/9dDnUZjfGztjwL94r9Y4Ng-1920-80.jpg
+categories:
+- Technology & Software
+- Video Gaming
 ---
 
 ![Three Ananta screenshots, two showing its Eastern and Western city maps and the third a newly released character.](https://cdn.mos.cms.futurecdn.net/9dDnUZjfGztjwL94r9Y4Ng.jpg) 

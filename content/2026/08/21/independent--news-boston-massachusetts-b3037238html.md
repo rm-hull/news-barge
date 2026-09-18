@@ -10,6 +10,11 @@ description: The defense has rested its case in the Lindsay Clancy murder trial 
   eliciting more testimony about her mental state before she strangled her three young
   children in 2023
 image: https://static.independent.co.uk/2026/08/21/17/Lindsay_Clancy_Trial_89958.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
+- Family & Parenting
 ---
 
 The defense rested its case Friday in the Lindsay Clancy murder trial after eliciting more testimony about her mental state before she strangled her three young children.

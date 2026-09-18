@@ -8,6 +8,10 @@ published: '2026-09-05T00:00:00Z'
 description: Latest data from Gallup, showing 49% leaning Democrat and 39% Republican,
   marks sharp reversal from 2024
 image: https://i.guim.co.uk/img/media/3ac94b5d8ad50bad852bbe9b98bc715001686481/454_0_6653_5322/master/6653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e11766c3883edfc17c2faf0220b15d3a
+categories:
+- UK
+- News & Politics
+- Society & Culture
 ---
 
 More voters are identifying as Democrats and shying away from calling themselves Republican, according to the latest quarterly data published by Gallup.

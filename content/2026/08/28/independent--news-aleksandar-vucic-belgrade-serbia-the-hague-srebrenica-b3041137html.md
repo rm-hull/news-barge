@@ -9,6 +9,9 @@ published: '2026-08-28T00:00:00Z'
 description: Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized
   behavior” for denying early release to former Bosnian Serb commander Ratko Mladic
 image: https://static.independent.co.uk/2026/08/28/16/Obit_Mladic_37829.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
 ---
 
 Serbia's President Aleksandar Vucic on Friday accused a war crimes U.N. court in The Hague of “uncivilized behavior” for refusing to grant an early release for the former Bosnian Serb army commander Ratko Mladic, who died Thursday at the age of 84 while serving a life sentence for his crimes.

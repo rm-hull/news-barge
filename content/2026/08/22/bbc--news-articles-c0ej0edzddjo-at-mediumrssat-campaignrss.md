@@ -8,6 +8,10 @@ published: '2026-08-22T00:00:00Z'
 description: Northern Ireland saw consecutive nights of violence following a knife
   attack - but how are victims faring now?
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e09/live/20319f60-9d55-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![A BBC graphic showing composite images of incidents during the riots. Crowds throw things at police blocking them from a road in the middle of the picture. In the foreground is an armoured police vehicle and a burned out car as well as officers in tactical uniforms. In the distance is a large group of people, mostly dressed in dark colours and a fire is visible. To the left of the picture is a house with red bricks and scorch marks on the front.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4e09/live/20319f60-9d55-11f1-b109-879e35c24276.jpg)

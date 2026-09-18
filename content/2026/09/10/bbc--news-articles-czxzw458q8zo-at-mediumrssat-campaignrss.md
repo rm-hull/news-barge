@@ -8,6 +8,10 @@ published: '2026-09-10T00:00:00Z'
 description: Police charged Gye Worthy with assault at the funeral for his son who
   was killed in the A66 crash.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0763/live/9fa0d730-9f34-11f1-a291-b542ee92de7c.jpg
+categories:
+- UK
+- News & Politics
+- True Crime
 ---
 
 ![Five young men in their late teens and early 20s. They all have similar haircuts, with a fringe and faded back and sides. Four of them are gesturing with their fingers. Three of them extend their thumb, index, and pinky fingers - leaving their middle and ring finger tucked down. One points with his index and middle finger whilst holding a Lucozade bottle. They are all dressed in casual clothing.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/0763/live/9fa0d730-9f34-11f1-a291-b542ee92de7c.jpg)

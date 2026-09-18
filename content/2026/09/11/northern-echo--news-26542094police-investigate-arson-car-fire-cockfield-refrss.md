@@ -8,6 +8,11 @@ published: '2026-09-11T00:00:00Z'
 description: Police are investigating arson after a car was set alight and the fire
   spread to a nearby property in a County Durham village.
 image: https://www.thenorthernecho.co.uk/resources/images/21439895.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- True Crime
 ---
 
 A car was totally burnt out after an arson attack in a quiet County Durham village.

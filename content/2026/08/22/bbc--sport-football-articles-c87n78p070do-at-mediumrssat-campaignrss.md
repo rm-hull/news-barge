@@ -9,6 +9,10 @@ published: '2026-08-22T00:00:00Z'
 description: Manchester United boss Michael Carrick is refusing to panic despite shock
   loss at newly promoted Hull City.
 image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6195/live/acc4b4a0-9e2f-11f1-b109-879e35c24276.jpg
+categories:
+- UK
+- News & Politics
+- Sports
 ---
 
 ![Manchester United head coach Michael Carrick](https://ichef.bbci.co.uk/ace/standard/842/cpsprodpb/6195/live/acc4b4a0-9e2f-11f1-b109-879e35c24276.jpg)

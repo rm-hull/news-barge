@@ -8,6 +8,11 @@ published: '2026-09-04T00:00:00Z'
 description: MY FIRST Saturday job was washing pots in the kitchen of a local hotel.
   It was hard work, stuck in a steamy corner of a small kitchen, the greasy…
 image: https://www.thetelegraphandargus.co.uk/resources/images/21398736.jpg?type=og-image
+categories:
+- Local
+- Bradford
+- News & Politics
+- Careers & Productivity
 ---
 
 MY FIRST Saturday job was washing pots in the kitchen of a local hotel. It was hard work, stuck in a steamy corner of a small kitchen, the greasy pots piling up around me.

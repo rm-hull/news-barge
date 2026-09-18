@@ -7,6 +7,11 @@ scraped_at: '2026-08-28T11:15:58Z'
 published: '2026-08-28T00:00:00Z'
 description: A MOTORCYCLIST has died following a serious collision in North Yorkshire.
 image: https://www.gazetteherald.co.uk/resources/images/20906881.jpg?type=og-image
+categories:
+- Local
+- Harrogate
+- York
+- True Crime
 ---
 
 *(Image: North Yorkshire Police)*

@@ -8,6 +8,10 @@ published: '2026-09-04T00:00:00Z'
 description: Lindsay Clancy’s defense attorney sought an emergency order to halt the
   mistrial ruling but it was denied
 image: https://static.the-independent.com/2026/09/04/15/38/AP26247504215747.jpg?trim=0,122,0,121&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- True Crime
 ---
 
 A mistrial has been declared in Lindsay Clancy’s murder trial despite a last-minute attempt by her defense attorney to halt the ruling.

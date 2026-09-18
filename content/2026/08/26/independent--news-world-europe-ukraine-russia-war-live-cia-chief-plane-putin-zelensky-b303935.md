@@ -9,6 +9,10 @@ published: '2026-08-26T00:00:00Z'
 description: Ratcliffe’s purpose and meetings in Russia are not immediately clear
   but it marks the first known trip from a US spy chief since November 2021
 image: https://static.independent.co.uk/2026/08/26/08/2026-08-26T062622Z_2036709937_RC2R5NA8MEQF_RTRMADP_3_USA-RUSSIA-CIA.JPG?trim=0,300,0,300&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Travel
 ---
 
 Ukraine heeded a special request from the Donald Trump administration not to attack major Russian cities during a visit by CIA director John Ratcliffe.

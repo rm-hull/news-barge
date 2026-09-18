@@ -8,6 +8,10 @@ published: '2026-09-08T00:00:00Z'
 description: Americans’ satisfaction with the quality of K-12 education in the country
   has hit a low point
 image: https://static.independent.co.uk/2026/08/27/09/2291874129..?trim=0,0,0,0&width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Society & Culture
 ---
 
 Public approval of the quality of K-12 education in the United States has fallen to an unprecedented low, driven by a growing political divide and widespread concerns that schools are failing to prepare children for college and future careers.

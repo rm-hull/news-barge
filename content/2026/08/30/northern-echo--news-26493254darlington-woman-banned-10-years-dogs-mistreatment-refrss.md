@@ -8,6 +8,11 @@ published: '2026-08-30T00:00:00Z'
 description: Darlington woman Jenna Reed, 39, of Rockell Avenue, has been banned from
   keeping animals for 10 years after admitting causing unnecessary suffering…
 image: https://www.thenorthernecho.co.uk/resources/images/19763544.jpg?type=og-image
+categories:
+- Local
+- UK
+- News & Politics
+- Pets & Animals
 ---
 
 *(Image: RSPCA)*

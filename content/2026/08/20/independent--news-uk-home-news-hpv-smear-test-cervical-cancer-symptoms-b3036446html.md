@@ -8,6 +8,10 @@ published: '2026-08-20T00:00:00Z'
 description: More than 3,000 women are diagnosed with cervical cancer each year in
   the UK
 image: https://static.independent.co.uk/2025/01/17/09/28114347-6699d95f-deca-4191-86dd-ec778014aac7.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Science
 ---
 
 Experts have responded to claims that suggest the brush used in cervical cancer smear tests is sterilised in a “cancer-causing” chemical.

@@ -8,6 +8,11 @@ published: '2026-08-29T00:00:00Z'
 description: The deal comes after rail union Asleft announced plans to ballot members
   on possible strike action amid a pay dispute
 image: https://static.independent.co.uk/2026/08/28/15/96d79c58da1df2342af9ed29a4dcf2f3Y29udGVudHNlYXJjaGFwaSwxNzg4MDEzNzkz-2.85621626.jpg?width=1200&height=800&crop=1200:800
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Sports
 ---
 
 Train drivers including those operating the London-Manchester line used by Andy Burnham are set to receive an above-inflation pay rise of 3.6 per cent.

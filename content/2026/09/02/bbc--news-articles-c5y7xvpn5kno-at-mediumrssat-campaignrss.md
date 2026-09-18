@@ -8,6 +8,10 @@ published: '2026-09-02T00:00:00Z'
 description: The golfer will be in court on Wednesday for a hearing to change his
   plea after being charged with driving under the influence.
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10d/live/63965f70-a65b-11f1-853a-cf6d29350130.jpg
+categories:
+- UK
+- News & Politics
+- Technology & Software
 ---
 
 Police release bodycam footage of Tiger Woods arrest after a Florida crash in March

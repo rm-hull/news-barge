@@ -8,6 +8,12 @@ scraped_at: '2026-08-26T13:12:35Z'
 published: '2026-08-26T00:00:00Z'
 description: The U.S. economy grew at a sluggish 1.5% pace from April through June
 image: null
+categories:
+- News & Politics
+- UK
+- Business & Entrepreneurship
+- Personal Finance & Investing
+- Creator Economy & Marketing
 ---
 
 The U.S. economy grew at a sluggish 1.5% pace from April through June. But consumer spending stayed strong.
