@@ -3,7 +3,7 @@ title: 'BMW PGA Championship: Rory McIlroy in contention at Wentworth'
 source_url: https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T21:12:49Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Rory McIlroy stays in contention with a five-under 67 to sit four strokes
   behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.
@@ -18,9 +18,13 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bef/live/e0a94
 
 Rory McIlroy is second in the Race to Dubai standings
 
-**BMW PGA Championship - round two-12** R Gerard (US);**-10** A Scott (Aus), F Celli (Ita);**-9** M Elvira (Spa), A Rai (Eng)
+* Published
 
-**Selected others**:**-8** R Fox (NZ), R Fisher (Eng), R McIlroy (NI), I Elvira (Spa), JJ Spaun (US);**-7** M Wallace (Eng);**-6** S Straka (Aut), A Noren (Swe);**-5** L Aberg (Swe), V Hovland (Nor);**-4** D Law (Sco), R MacIntyre (Sco), S Lowry (Ire), M Fitzpatrick (Eng);**-3** J Rose (Eng)
+**BMW PGA Championship - round two**
+
+**-12** R Gerard (US); **-10** A Scott (Aus), F Celli (Ita); **-9** M Elvira (Spa), A Rai (Eng)
+
+**Selected others**: **-8** R Fox (NZ), R Fisher (Eng), R McIlroy (NI), I Elvira (Spa), JJ Spaun (US); **-7** M Wallace (Eng); **-6** S Straka (Aut), A Noren (Swe); **-5** L Aberg (Swe), V Hovland (Nor); **-4** D Law (Sco), R MacIntyre (Sco), S Lowry (Ire), M Fitzpatrick (Eng); **-3** J Rose (Eng)
 
 **Rory McIlroy stayed in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.**
 

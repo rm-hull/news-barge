@@ -1,25 +1,26 @@
 ---
-title: Why we bought our first home with a 100% mortgage - despite the risks
+title: We bought our £242,000 home without a deposit - here's how
 source_url: https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T04:33:14Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-17T00:00:00Z'
 description: The share of UK mortgages with smaller deposits is the highest it's been
   since 2008. The BBC spoke to borrowers about how they manage the risks.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg
 categories:
 - UK
 - News & Politics
 - Personal Finance & Investing
-- Real Estate
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fab3/live/9f3a5ac0-b29c-11f1-bc1f-3f186ca4140c.jpg
 ---
 
-![Conroy and his partner Amber dressed elegantly. He is wearing a suit with a bow tie, she is wearing a bright yellow dress.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg)
+![Conroy and Amber stand in front of a cruise ship docked in a harbour. It's a sunny day; he wears a black T-shirt and sunglasses. She wears a flowery short-sleeved shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fab3/live/9f3a5ac0-b29c-11f1-bc1f-3f186ca4140c.jpg)
 
 The couple are aware of the risks that come with their no-deposit mortgage
 
-**Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.** 
+* Published
+
+**Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.**
 
 Then they came across a relatively niche, and some experts say riskier, type of mortgage that offered a solution.
 
@@ -41,7 +42,7 @@ They say they want to help first-time buyers get on the housing ladder as proper
 
 But these loans tend to charge higher rates, aren't available for all types of property or borrower, and come with risks customers should be aware of.
 
-![Conroy and Amber stand in front of a cruise ship docked in a harbour. It's a sunny day; he wears a black T-shirt and sunglasses. She wears a flowery short-sleeved shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fab3/live/9f3a5ac0-b29c-11f1-bc1f-3f186ca4140c.jpg)
+![Conroy and his partner Amber dressed elegantly. He is wearing a suit with a bow tie, she is wearing a bright yellow dress.](https://ichef.bbci.co.uk/ace/standard/1104/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg)
 
 Conroy and Amber thought they would be renting for the foreseeable future
 
@@ -65,7 +66,7 @@ Lloyds lent them £258,000 - roughly 98% of the property's value - over a 33-yea
 
 The couple pay an interest rate of 5.89%, fixed for five years, equating to monthly repayments of £1,400 - about the same as what they paid to rent a one-bed flat before.
 
-![Bronya and George are standing in front of a 'sold' sign outside their red-brick terraced home. They are both smiling at the camera.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8003/live/d73cdca0-b2b9-11f1-ad9d-efc12ace03e0.jpg)
+![Bronya and George are standing in front of a 'sold' sign outside their red-brick terraced home. They are both smiling at the camera. ](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/8003/live/d73cdca0-b2b9-11f1-ad9d-efc12ace03e0.jpg)
 
 Bronya and George bought their first home this year with a roughly 2% deposit
 
@@ -75,7 +76,7 @@ They are aware of the risks of negative equity but believe the refurbishment wil
 
 "We also plan to stay here our whole lives," George adds, explaining that they are prepared to ride out any dips in the property market.
 
-![A man in shorts and a t-shirt, using a power tool to refurbish a fireplace.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1a74/live/363c9430-b0f2-11f1-9707-2187f52634c5.jpg)
+![A man in shorts and a t-shirt, using a power tool to refurbish a fireplace.  ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/1a74/live/363c9430-b0f2-11f1-9707-2187f52634c5.jpg)
 
 The couple are renovating their home
 

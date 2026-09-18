@@ -4,15 +4,15 @@ title: Talented designer's journey from quality goods handmade at home to her ow
 source_url: https://www.harrogateadvertiser.co.uk/news/people/talented-designers-journey-from-quality-goods-handmade-at-home-to-her-own-physical-store-in-harrogate-town-centre-9090738
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:00:58Z'
+scraped_at: '2026-09-18T22:39:07Z'
 published: '2026-09-18T00:00:00Z'
 description: The opening of a new shop will bring a high quality addition to Harrogate’s
   high street sector.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZTQzYWVkLTIxZjMtNGE4Ny05MTNiLTk0MTQ5NDU3ZmQ0MDoyZjEzYWRiYy05N2QxLTQ4YWItYjUzMS01ODNjNWM3NWJkNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Arts & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZTQzYWVkLTIxZjMtNGE4Ny05MTNiLTk0MTQ5NDU3ZmQ0MDoyZjEzYWRiYy05N2QxLTQ4YWItYjUzMS01ODNjNWM3NWJkNDE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Talented designer's journey from quality goods handmade at home to her own physical store in Harrogate town centre
@@ -26,7 +26,6 @@ It’s not a new business, it’s named after its talented owner Belinda who has
 All her bags are handmade by her.
 
 ![Located just along from Oliveta Harrogate restaurant at 4 Station Parade, Belindas Boutique will offer unique, high quality ladies bags and accessories for all occasions. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjJhZTQzYWVkLTIxZjMtNGE4Ny05MTNiLTk0MTQ5NDU3ZmQ0MDoyZjEzYWRiYy05N2QxLTQ4YWItYjUzMS01ODNjNWM3NWJkNDE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Fans will already have seen Belinda’s wonderful handbags on sale at the Little Bird Artisan Marketa in Valley Gardens in Harrogate, at Harewood House and Ripon Christmas Market.

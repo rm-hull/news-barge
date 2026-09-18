@@ -3,25 +3,25 @@ title: Top band unveiled for gig at York Racecourse
 source_url: https://www.yorkmix.com/top-band-revealed-for-gig-at-york-racecourse-23-july-2027
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T12:59:09Z'
+scraped_at: '2026-09-18T22:42:36Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-racecourse-races-music-showcase.webp
 categories:
 - Local
 - York
 - Music
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-racecourse-races-music-showcase.webp
 ---
 
 Much-loved band Madness will be headlining Music Showcase Friday at York Racecourse, it was announced today.
 
 They will play their era-defining and chart-busting hits on the evening of Friday, 23 July.
 
-The news was revealed exclusively on the ***YorkMix*** Breakfast Show with Laura and Tim this morning.
+The news was revealed exclusively on the YorkMix Breakfast Show with Laura and Tim this morning.
 
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/madness-york-racecourse-2026-preview-2.webp)
 
-Tickets will go on sale at **10am** on**Friday 25 September**.
+Tickets will go on sale at 10am on Friday 25 September.
 
 A popular part of the British music and festival scene since they first gigged back in 1979, the band will need little introduction to racegoers. M
 
@@ -33,7 +33,7 @@ Their song Our House resonated with family life across the country and also beca
 
 Tickets for Madness and racing officially go on sale at 10am on Friday 25th September.
 
-To book visit yorkracecourse.co.uk where a price freeze till the end of the current year, sees admission to the main Grandstand and Paddock enclosure, start at £42 per person for a group of six* and racegoers aged 5-17 enjoy a special rate of just £15 (subject to limited availability).
+To book visit yorkracecourse.co.uk where a price freeze till the end of the current year, sees admission to the main Grandstand and Paddock enclosure, start at £42 per person for a group of six\* and racegoers aged 5-17 enjoy a special rate of just £15 (subject to limited availability).
 
 As well as free car parking, there are no booking fees.
 

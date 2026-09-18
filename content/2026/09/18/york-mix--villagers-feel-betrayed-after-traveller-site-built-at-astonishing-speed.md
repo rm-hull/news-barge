@@ -3,14 +3,14 @@ title: Villagers feel ‘betrayed’ after traveller site built ‘at astonishin
 source_url: https://www.yorkmix.com/villagers-feel-betrayed-after-traveller-site-built-at-astonishing-speed
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T19:01:09Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/travellers-site-hillam-near-selby-ldrs-2.webp
 categories:
 - Local
 - York
 - Travel
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/travellers-site-hillam-near-selby-ldrs-2.webp
 ---
 
 Furious residents say they feel “betrayed and helpless” after a traveller site was built in the North Yorkshire countryside without planning permission over the weekend.
@@ -23,7 +23,7 @@ Aerial photographs show at least 14 caravans now on the site, parts of which hav
 
 North Yorkshire councillor Tim Grogan, who represents Monk Fryston and South Milford, visited the site on Saturday and said travellers had arrived “on a military scale” shortly before council offices closed for the weekend.
 
-**Video**
+Video
 
 He understands seven pitches were being created for extended families, with two or three caravans on each.
 

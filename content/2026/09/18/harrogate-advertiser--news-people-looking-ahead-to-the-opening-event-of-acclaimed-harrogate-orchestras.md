@@ -3,15 +3,15 @@ title: Looking ahead to the opening event of acclaimed Harrogate orchestra's new
 source_url: https://www.harrogateadvertiser.co.uk/news/people/looking-ahead-to-the-opening-event-of-acclaimed-harrogate-orchestras-new-season-9091541
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:01:14Z'
+scraped_at: '2026-09-18T22:39:08Z'
 published: '2026-09-18T00:00:00Z'
 description: The incredible Cuore Chamber Orchestra is to return to its home venue
   of Harrogate’s Royal Hall for the opening concert of its 2026-27 season.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE4ZjhkMzY4LWIxZjctNDM3YS1iNzk0LWZlOTI0MzFlNjM3YzoxMDQzNzhhNC1hOTljLTQ3OTYtOTkxMS0zNTlmNjgyYzdmNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Sports
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE4ZjhkMzY4LWIxZjctNDM3YS1iNzk0LWZlOTI0MzFlNjM3YzoxMDQzNzhhNC1hOTljLTQ3OTYtOTkxMS0zNTlmNjgyYzdmNGY=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Looking ahead to the opening event of acclaimed Harrogate orchestra's new season
@@ -25,7 +25,6 @@ Taking place on Friday, November 6, the concert follows the orchestra’s highly
 Melanie Ekenazi of OMH Music was among those to hail the debut season.
 
 ![Coming back in the Royal Hall - Harrogate's Cuore Chamber Orchestra and its Founder and Artistic Director William Dutton. (Picture Claire Wood Photography)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE4ZjhkMzY4LWIxZjctNDM3YS1iNzk0LWZlOTI0MzFlNjM3YzoxMDQzNzhhNC1hOTljLTQ3OTYtOTkxMS0zNTlmNjgyYzdmNGY=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 "If you’ve never heard of the Cuore Chamber Orchestra, based in the fabulously ornate Royal Hall in the almost equally ornate town of Harrogate, you most certainly soon will.”

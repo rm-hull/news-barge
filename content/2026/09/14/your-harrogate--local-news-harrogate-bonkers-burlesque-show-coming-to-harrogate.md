@@ -3,18 +3,18 @@ title: '''Bonkers'' burlesque show returns to Harrogate'
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/bonkers-burlesque-show-coming-to-harrogate/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-14T15:00:57Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-14T00:00:00Z'
 description: A night of burlesque, cabaret and comedy is coming to Harrogate in support
   of an international medical charity.
-image: https://mmo.aiircdn.com/409/699ead7a950d4.jpg
 categories:
 - Local
 - Harrogate
 - Comedy & Entertainment
+image: https://mmo.aiircdn.com/409/699ead7a950d4.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/699ead7a950d4.jpg) 
+![](https://mmo.aiircdn.com/409/699ead7a950d4.jpg)
 
 A night of burlesque, cabaret and comedy is coming to Harrogate in support of an international medical charity.
 
@@ -32,10 +32,9 @@ This year’s proceeds will again support the charity on behalf of Andy Dennis, 
 
 Organisers said:
 
-“Expect the weird. Expect the wonderful. Expect the unexpected.
-
-“Whether it’s absurd, elegant, hilarious or downright ridiculous, one thing is guaranteed—you’ll be talking about it long after the curtain falls.”
-
+> “Expect the weird. Expect the wonderful. Expect the unexpected.
+>
+> “Whether it’s absurd, elegant, hilarious or downright ridiculous, one thing is guaranteed—you’ll be talking about it long after the curtain falls.”
 
 Doors will open at 6:30pm, with the event expected to finish at around 10:30pm.
 

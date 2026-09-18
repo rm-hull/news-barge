@@ -4,20 +4,22 @@ title: 'A Very British Cult: Three men lose appeal for harassing BBC journalist 
 source_url: https://www.bbc.co.uk/news/articles/cv1j4k34ze07o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:00:59Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Kristofer Deichler, Jatinder Kamra and Sukhraj Singh were given community
   service and restraining orders for their harassment of Catrin Nye.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg
 categories:
 - UK
 - News & Politics
 - Sports
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg
 ---
 
 ![Photo shows three men. On the left, Kristofer Deichler, wearing a white shirt. In the middle, Jatinder Kamra, wearing a white shirt and black blazer. And on the right, Sukhraj Singh, wearing a dark shirt.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab37/live/9d0a35e0-f91b-11ef-becb-07cbf84d799c.jpg)
 
 From left to right: Kristofer Deichler, Jatinder Kamra, and Sukhraj Singh
+
+* Published
 
 **Three men have lost their appeal for harassing BBC journalist Catrin Nye, who presented the podcast series and documentary, A Very British Cult.**
 

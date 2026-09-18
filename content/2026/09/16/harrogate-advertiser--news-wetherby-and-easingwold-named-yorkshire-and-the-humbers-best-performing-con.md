@@ -3,16 +3,16 @@ title: Wetherby and Easingwold named region's best-for girls in sport
 source_url: https://www.harrogateadvertiser.co.uk/news/wetherby-and-easingwold-named-yorkshire-and-the-humbers-best-performing-constituency-for-girls-participation-in-sport-9067078
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:33:19Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-16T00:00:00Z'
 description: Wetherby and Easingwold named Yorkshire and the Humber's best-performing
   constituency for girls' participation in sport
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/16/15/constituency-sports-report_1789556214_fcb46a43-e17b5c953e3b2aeb.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Sports
 - Health & Fitness
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/16/15/constituency-sports-report_1789556214_fcb46a43-e17b5c953e3b2aeb.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Wetherby and Easingwold named region's best-performing constituency for girls' participation in sport
@@ -20,7 +20,6 @@ categories:
 ## Wetherby and Easingwold named Yorkshire and the Humber's best-performing constituency for girls' participation in sport
 
 ![Girls in Wetherby and Easingwold miss out on 41 minutes of sport a week compared with boys, giving the constituency the smallest participation gap in Yorkshire and the Humber](https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/16/15/constituency-sports-report_1789556214_fcb46a43-e17b5c953e3b2aeb.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Where a girl lives shapes how much sport she plays compared with boys, according to new research from Public First commissioned by Sky, revealing stark inequalities in participation across the UK.
@@ -53,13 +52,13 @@ I’m particularly keen to celebrate the schools, clubs and volunteers across ou
 
 "National Fitness Day is a great opportunity to celebrate the progress we’re making locally, while also reminding ourselves that there is more to do to ensure equal opportunities for girls and boys to take part in sport."
 
-Sky’s Chief Sports Officer UK & Ireland, Jonathan Licht, said: *“* Every girl should have the opportunity to experience the confidence, friendships and sense of belonging that sport can bring. 
+Sky’s Chief Sports Officer UK & Ireland, Jonathan Licht, said: “Every girl should have the opportunity to experience the confidence, friendships and sense of belonging that sport can bring.
 
 "Yet too many girls are still missing out, and this research shows the barriers they face are not the same everywhere.
 
 "Closing the gap means tackling inequalities in access and investment, starting in publicly funded settings where opportunity should be equal for every girl. Now is the moment to turn evidence into action and deliver lasting change for girls across the country.”
 
-The new constituency-level research strengthens the case for the recommendations set out in the *Game Changing* report. 
+The new constituency-level research strengthens the case for the recommendations set out in the Game Changing report.
 
 In addition to equality of sports funding from publicly funded institutions, other recommendations include a statutory requirement to ensure girls take part in a minimum of two hours of PE every week at school; a national day to celebrate girls and women in sport; helping girls feel confident in their kit; and increasing visibility of female icons through a targeted tax relief on live women’s sport production, which has been backed by 30 organisations from across sport.
 
@@ -67,7 +66,7 @@ Sky’s commitment to women’s sport goes beyond broadcasting 4,000 hours of li
 
 In parallel, Sky works in partnership with rightsholders to drive sustainable growth for women’s sport, using tailored distribution strategies to reach new audiences and deepen engagement.
 
-- Girls in Wetherby and Easingwold miss out on 41 minutes of sport a week compared with boys, giving the constituency the smallest participation gap in Yorkshire and the Humber
-- New constituency-level research reveals how access to sport varies across the UK, with Yorkshire and the Humber recording an average participation gap of 93 minutes a week.
-- The findings highlight the impact of local factors such as access to facilities and opportunities to play sport
-- Closing the participation gap could deliver £25 million a year in economic and health benefits across Yorkshire and the Humber
+* Girls in Wetherby and Easingwold miss out on 41 minutes of sport a week compared with boys, giving the constituency the smallest participation gap in Yorkshire and the Humber
+* New constituency-level research reveals how access to sport varies across the UK, with Yorkshire and the Humber recording an average participation gap of 93 minutes a week.
+* The findings highlight the impact of local factors such as access to facilities and opportunities to play sport
+* Closing the participation gap could deliver £25 million a year in economic and health benefits across Yorkshire and the Humber

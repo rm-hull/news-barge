@@ -4,18 +4,18 @@ title: '''Much-loved'' leading actor in Downton Abbey is to fundraise for Ripon 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/much-loved-leading-actor-in-downton-abbey-is-to-fundraise-for-ripon-theatre-festival-9058358
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-15T19:41:20Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-15T00:00:00Z'
 description: One of Britain’s best-loved film and TV actors is coming to Ripon for
   a very special fundraising evening in support of Ripon Theatre Festival and he says
   he can’t wait.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUwMWY0ZTY1LTc3YzAtNDBmMS05Y2YwLWI5YjcyMjRkZGY1ODpmOTc1OGJlYS0yOWQ2LTRjMzItYTQ0ZS1hZTgwYjFiYmRiMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Film & TV
 - Arts & Culture
 - Comedy & Entertainment
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUwMWY0ZTY1LTc3YzAtNDBmMS05Y2YwLWI5YjcyMjRkZGY1ODpmOTc1OGJlYS0yOWQ2LTRjMzItYTQ0ZS1hZTgwYjFiYmRiMWU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # 'Much-loved' leading actor in Downton Abbey is to fundraise for Ripon Theatre Festival
@@ -31,7 +31,6 @@ Hugh Bonneville is one of Britain’s most recognisable actors, known internatio
 ![Famous British actor Hugh Bonneville is coming to Ripon for a fundraising event in support of Ripon Theatre Festival. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmUwMWY0ZTY1LTc3YzAtNDBmMS05Y2YwLWI5YjcyMjRkZGY1ODpmOTc1OGJlYS0yOWQ2LTRjMzItYTQ0ZS1hZTgwYjFiYmRiMWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
 He is also a longstanding supporter of organisations encouraging access to theatre and the arts.
 
 Hugh Bonneville will be interviewed on stage by former BBC Radio York presenter Anna Wallace, in what promises to be a warm and entertaining conversation spanning his career.
@@ -43,7 +42,6 @@ Hugh Bonneville will be interviewed on stage by former BBC Radio York presenter 
 ![A film scene from Paddington 2 with Paddington and Hugh Bonneville, who is will appear at Holy Trinity Church in Ripon on Saturday, November 21. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjhmZDA2ODJiLWJjOTgtNGJmOC04OWQzLWQzYjgwODk2MmE4OTpmMDg0NDlmYy0yNjZlLTRkN2YtOTUyNS04NjhjMjY1NjNhN2U=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
 "I’m very much looking forward to coming to Ripon, talking about my life in theatre and beyond, and meeting audiences there.”
 
 Ripon is the closest real cathedral city to the fictional estate of Downton Abbey, serving as a frequent plot reference and actual filming location in the franchise.
@@ -53,7 +51,6 @@ The Royal Ascot scenes in Downton Abbey: The Grand Finale were partly filmed at 
 The show’s creator, Julian Fellowes, spent a significant part of his youth in North Yorkshire while attending Ampleforth College.
 
 ![Actor Hugh Bonneville is coming to Little Ripon Bookshop with his new children’s book, Rory Sparkes and the Spy Who Loved Tea. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmE4NWE2NTQ5LTdiZTQtNDI2Mi04MzRhLTg4NzIzOTBiZDdjNjozOGY3YWYzMC0wM2M3LTQzNTEtOTA0MC1iYWFkNWI0NzFjNDE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 His teenage years near Ripon, alongside neighbouring market towns like Thirsk and Malton, left him with a lifelong affection for the area.

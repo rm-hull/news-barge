@@ -4,16 +4,16 @@ title: Team of keen golfers from Harrogate pick up their bikes and raise £41k f
 source_url: https://www.harrogateadvertiser.co.uk/news/people/team-of-keen-golfers-from-harrogate-pick-up-their-bikes-and-raise-ps41k-for-yorkshires-brain-tumour-charity-9075276
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-17T13:24:19Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-17T00:00:00Z'
 description: Six Harrogate friends inspired to tackle a charity cycle to Bordeaux
   in tribute to a friend's wife who passed through brain cancer have smashed their
   £40k target.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjc2YzcyLTFlNDEtNGExMi1hNDc0LTQzOTQ5MzI0YjBkMTo4ZDFhMjVlZi02NTg0LTQzNTQtODMxYy1kZDUzZWM3OGI2ZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Sports
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjc2YzcyLTFlNDEtNGExMi1hNDc0LTQzOTQ5MzI0YjBkMTo4ZDFhMjVlZi02NTg0LTQzNTQtODMxYy1kZDUzZWM3OGI2ZDI=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Team of keen golfers from Harrogate pick up their bikes and raise £41k for Yorkshire's Brain Tumour Charity
@@ -27,7 +27,6 @@ The six men, all in their 60s and from Harrogate, had a personal reason for unde
 The team consisted of Simon Grafton , David Rowley, Tim North, Paddy Kidd, Phil Webb, David Rowley and Rob George whose wife passed just over five years ago.
 
 ![Cycling to Bordeaux for Yorkshire's Brain Tumour Charity - The six men, all in their 60s and from Harrogate, included Simon Grafton , David Rowley, Tim North, Paddy Kidd, Phil Webb, David Rowley and Rob George. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjY2Yjc2YzcyLTFlNDEtNGExMi1hNDc0LTQzOTQ5MzI0YjBkMTo4ZDFhMjVlZi02NTg0LTQzNTQtODMxYy1kZDUzZWM3OGI2ZDI=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 "She had bowel cancer but it was a brain tumour that actually got her in the end," said Rob.

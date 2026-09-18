@@ -3,20 +3,22 @@ title: Woman gives police officer a lift in Nissan Micra while chasing man
 source_url: https://www.bbc.co.uk/news/articles/crx2zjdg9p5go?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:00:52Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: The suspect reverse-rammed a police car and crashed into parked cars
   while trying to escape.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a5b/live/b0649390-b36b-11f1-a430-4d16ee157c41.jpg
 categories:
 - UK
 - News & Politics
 - Automotive
 - Technology & Software
 - True Crime
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a5b/live/b0649390-b36b-11f1-a430-4d16ee157c41.jpg
 ---
 
 Police officer given lift by driver in Nissan Micra mid-chase
+
+* Published
 
 **A driver came to the aid of a police officer who was chasing a suspect on foot - telling him to "get in" after stopping her Nissan Micra and offering him a lift.**
 
@@ -50,8 +52,8 @@ Kerswell said: "Roberts was already banned from driving when he committed these 
 
 ## More top stories
 
-  - Published13 hours ago
- ![Megan sits in her car. she is smiling at the camera and has reddish to brown hair cut at her shoulders. She is wearing a blue jumper with a dragonfly on.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2913/live/92b92920-ac52-11f1-9e64-05835b0b18f8.jpg)
-- ![A close-up photograph shows a man wearing a dark patterned flat cap, black jacket, white shirt and dark tie, looking towards the camera in a near smile.
-He is outside a modern brick and glass building. Behind the person is a large red sign featuring a Welsh dragon]([https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png))
-- ![Queen Elizabeth II in blue meeting people in dark suits](https://ichef.bbci.co.uk/ace/standard/958/cpsprodpb/c4ee/live/27a68920-b1f7-11f1-bd8b-ed45be4f6895.jpg)
+* + Published18 hours ago![Megan sits in her car. she is smiling at the camera and has reddish to brown hair cut at her shoulders. She is wearing a blue jumper with a dragonfly on.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2913/live/92b92920-ac52-11f1-9e64-05835b0b18f8.jpg)
+* ![A close-up photograph shows a man wearing a dark patterned flat cap, black jacket, white shirt and dark tie, looking towards the camera in a near smile.
+
+  He is outside a modern brick and glass building. Behind the person is a large red sign featuring a Welsh dragon]([https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0d29/live/76eff0e0-b29a-11f1-a430-4d16ee157c41.png))
+* ![Queen Elizabeth II in blue meeting people in dark suits](https://ichef.bbci.co.uk/ace/standard/958/cpsprodpb/c4ee/live/27a68920-b1f7-11f1-bd8b-ed45be4f6895.jpg)

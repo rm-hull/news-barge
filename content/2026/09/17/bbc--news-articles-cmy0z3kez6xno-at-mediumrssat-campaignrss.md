@@ -3,21 +3,23 @@ title: Afghan female medical students fear being sent home from Pakistan
 source_url: https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T13:00:13Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-17T00:00:00Z'
 description: Since 2023, hundreds of thousands of Afghans have been deported from
   Pakistan and over two million have left.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg
 categories:
 - UK
 - News & Politics
 - Sports
 - Health & Fitness
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg
 ---
 
 ![An Afghan female student attends Kabul university on July 6, 2010 in Kabul, Afghanistan.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0464/live/6469e3a0-b2b2-11f1-819c-176371125270.jpg)
 
 Women in Afghanistan can no longer study beyond primary school level
+
+* Published
 
 **Nooria, which is not her real name, still remembers one of the moments that made her want to be a doctor.**
 
@@ -75,8 +77,6 @@ With the outcome of her studies still uncertain, Nooria has been trying not to t
 
 "My family counted on me. These five years I have sacrificed everything that would be zero, multiplied by zero. And then I would become a poor and helpless Afghan female, facing this destiny. I cannot imagine this."
 
-  - Published1 September
- ![A girl with in a yellow outfit stares into the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg)
-- ![Bodies are removed following reported Pakistani airstrikes in Kabul, Afghanistan on March 17, 2026. Afghan officials said the strikes allegedly hit a drug rehabilitation centre in the capital, causing civilian casualties.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/43a0/live/b7aecc30-246c-11f1-b187-ed35b97acec8.jpg)
-  - Published24 May
- ![A girl sits in front of a window wearing pink](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg)
+* + Published1 September![A girl with in a yellow outfit stares into the camera.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg)
+* ![Bodies are removed following reported Pakistani airstrikes in Kabul, Afghanistan on March 17, 2026. Afghan officials said the strikes allegedly hit a drug rehabilitation centre in the capital, causing civilian casualties. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/43a0/live/b7aecc30-246c-11f1-b187-ed35b97acec8.jpg)
+* + Published24 May![A girl sits in front of a window wearing pink](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg)

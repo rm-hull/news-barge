@@ -3,18 +3,18 @@ title: Judge appointed to lead inquiry into North Yorkshire mental health trust
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/judge-appointed-to-lead-inquiry-into-north-yorkshire-mental-health-trust/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-18T13:00:21Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-18T00:00:00Z'
 description: A judge has been appointed to lead the public inquiry into mental health
   care provided by Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV).
-image: https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg
 categories:
 - Local
 - Harrogate
 - Health & Fitness
+image: https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg) 
+![](https://mmo.aiircdn.com/409/6aaced5f8a9d48ef02d.jpg)
 
 A judge has been appointed to lead the public inquiry into mental health care provided by Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV).
 
@@ -26,10 +26,9 @@ Law firm Ison Harrison, which represents hundreds of patients and bereaved famil
 
 Sarah Magson, a partner at Ison Harrison, said:
 
-“We welcome the appointment of His Honour Judge John Potter and hope this marks a significant step forward for the inquiry and the many individuals and families who have fought so hard to ensure their voices are heard.
-
-“Whilst today's announcement is positive, it comes after many months of uncertainty and delay for families who were originally assured that the inquiry would progress at pace.”
-
+> “We welcome the appointment of His Honour Judge John Potter and hope this marks a significant step forward for the inquiry and the many individuals and families who have fought so hard to ensure their voices are heard.
+>
+> “Whilst today's announcement is positive, it comes after many months of uncertainty and delay for families who were originally assured that the inquiry would progress at pace.”
 
 Judge Potter is a retired Circuit Judge and former Deputy Judge of the Court of Appeal’s Criminal Division.
 

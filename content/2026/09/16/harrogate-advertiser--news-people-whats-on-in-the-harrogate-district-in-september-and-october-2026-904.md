@@ -3,16 +3,16 @@ title: What's On in the Harrogate district in September and October 2026
 source_url: https://www.harrogateadvertiser.co.uk/news/people/whats-on-in-the-harrogate-district-in-september-and-october-2026-9048265
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:33:09Z'
+scraped_at: '2026-09-18T22:39:03Z'
 published: '2026-09-16T00:00:00Z'
 description: 'If you are planning to go out this weekend in the Harrogate district
   – or in the next month or so – here are the shows, gigs and comedy not to miss:'
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3YWVlZGVjLWQyNjAtNDU5Yy04MjQyLTAxOTQzMDQxZDU0NzowY2RlNWM2OC1mZTk4LTQ4YzctYWUyNy03MjFhZmI5MzA2NWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - News & Politics
 - Travel
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3YWVlZGVjLWQyNjAtNDU5Yy04MjQyLTAxOTQzMDQxZDU0NzowY2RlNWM2OC1mZTk4LTQ4YzctYWUyNy03MjFhZmI5MzA2NWE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # What's On in the Harrogate district in September and October 2026
@@ -26,7 +26,6 @@ Wednesday, September-November: Harrogate Comedy Festival. Various acts, various 
 Thursday, September 17, 4pm: Intesa – Lucine Musaelian and Nathan Giorgetti viols and song at St Andrew’s Church, Kirkby Malzeard. Part of Ripon International Festival.
 
 ![Friday, September 18, 7.30pm: An Evening with Formula One Racing Icons David Coulthard and Mika Häkkinen at Harrogate Convention Centre. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmU3YWVlZGVjLWQyNjAtNDU5Yy04MjQyLTAxOTQzMDQxZDU0NzowY2RlNWM2OC1mZTk4LTQ4YzctYWUyNy03MjFhZmI5MzA2NWE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Thursday, September 17, 7.30pm: Badapple Theatre presents Back to the Land Girls at Spofforth Village Hall.

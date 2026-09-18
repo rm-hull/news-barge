@@ -3,15 +3,15 @@ title: Iconic Ripon clock springs back to life after decades of silence
 source_url: https://www.harrogateadvertiser.co.uk/news/iconic-ripon-clock-springs-back-to-life-after-decades-of-silence-9089697
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T13:00:29Z'
+scraped_at: '2026-09-18T22:39:08Z'
 published: '2026-09-18T00:00:00Z'
 description: Ripon Grammar clock working again
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/12/M_5_OTO-2026-09-18-08-26-26_6_1789729603_6188ac34-8cbad2356e02c9c0.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Self-Improvement
 - Careers & Productivity
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/12/M_5_OTO-2026-09-18-08-26-26_6_1789729603_6188ac34-8cbad2356e02c9c0.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Iconic Ripon clock springs back to life after decades of silence
@@ -21,7 +21,6 @@ categories:
 After decades of silence, the heartbeat of Ripon Grammar School is ticking once again.
 
 ![Matthew Buller in front of the iconic Clocktower](https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/12/M_5_OTO-2026-09-18-08-26-26_6_1789729603_6188ac34-8cbad2356e02c9c0.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 The school’s iconic 1889 clocktower is back in working order after caretaker Matthew Buller spent around140 hours painstakingly restoring its historic mechanism - working through weekends and school holidays from November 2025.

@@ -3,20 +3,20 @@ title: Police appeal after Lister House minibus vandalised in Ripon
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/police-appeal-after-lister-house-minibus-vandalised-in-ripon/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-17T13:23:11Z'
+scraped_at: '2026-09-18T22:58:08Z'
 published: '2026-09-17T00:00:00Z'
 description: Police are appealing for information after a minibus belonging to Lister
   House in Ripon was badly damaged.
-image: https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg
 categories:
 - Local
 - Harrogate
 - Society & Culture
 - News & Politics
 - True Crime
+image: https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg) 
+![](https://mmo.aiircdn.com/409/6aabcc0c879ec787d5f.jpg)
 
 Police are appealing for information after a minibus belonging to Lister House in Ripon was badly damaged.
 

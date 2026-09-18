@@ -3,19 +3,21 @@ title: 'Stephanie Cole: Coronation Street and Doc Martin actress dies aged 84'
 source_url: https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:01:06Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime
   TV drama Tenko.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg
 categories:
 - UK
 - News & Politics
 - Film & TV
 - Arts & Culture
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg
 ---
 
 ![Stephanie Cole at the BBC spring/summer press launch. Cole stars in 'Keeping Mum'. 12th March 1997](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg)
+
+* Published
 
 **Actress Stephanie Cole, known for roles in Tenko, Open All Hours and Coronation Street, has died aged 84.**
 
@@ -75,7 +77,7 @@ On Halloween 2018, she also guest starred in the live episode of Reece Shearsmit
 
 Cole appeared opposite Ronnie Barker as the moody customer Mrs Delphine Featherstone in the 1980s
 
-![File photo dated 06/12/05 of actress Stephanie Cole after she collected her OBE from Britain's Queen Elizabeth II during an investiture ceremony at Buckingham Palace London.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/981b/live/0180a670-b375-11f1-b1d1-571ed4d7ff2c.jpg)
+![File photo dated 06/12/05 of actress Stephanie Cole after she collected her OBE from Britain's Queen Elizabeth II during an investiture ceremony at Buckingham Palace London. ](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/981b/live/0180a670-b375-11f1-b1d1-571ed4d7ff2c.jpg)
 
 Cole was made an OBE at Buckingham Palace in 2005
 

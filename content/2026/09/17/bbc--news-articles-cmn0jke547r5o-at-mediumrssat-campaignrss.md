@@ -3,16 +3,16 @@ title: War may be coming. Are we psychologically ready?
 source_url: https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T04:33:08Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-17T00:00:00Z'
 description: The military and government say the risk of conflict is growing, but
   we may not be mentally ready for it
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3688/live/1892d820-b284-11f1-a430-4d16ee157c41.jpg
 categories:
 - UK
 - News & Politics
 - Health & Fitness
 - Society & Culture
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3688/live/1892d820-b284-11f1-a430-4d16ee157c41.jpg
 ---
 
 ![Allan Little](https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6338/live/2d2512a0-b278-11f1-bc1f-3f186ca4140c.png)
@@ -99,7 +99,7 @@ This "crisis of disbelief", as Michta put it, is not evenly spread. The further 
 
 Sweden hasn't had a war in 200 years. It has pursued a policy of neutrality for centuries. But after Russia's full-scale invasion of Ukraine in 2022, it abandoned that and has made itself, in a very short space of time, one of the most psychologically prepared countries in Europe.
 
-"Russia is self-evidently dangerous", Sweden's Prime Minister Ulf Christersson told The Economist magazine last month.
+"Russia is self-evidently dangerous", Sweden's outgoing Prime Minister Ulf Kristersson told The Economist magazine last month.
 
 "We don't know when it [the war in Ukraine] ends, but how it ends will define the security situation in our part of the world for at least a generation"
 
@@ -109,7 +109,7 @@ Sweden has a system of partial conscription, in which all school leavers must re
 
 "Sweden has, for example, been identifying civil engineers with some relevant skills in, say, electricity supply who could be exercised in case of disruption. So Sweden can access this pool of civil engineers [who know] what they could do and how they could be activated."
 
-When Christersson was asked whether Russia should be seen as a potential aggressor even after the war in Ukraine is over he said, "Yes. We have a few hundred years experience of this… We know Russia pretty well."
+When Kristersson was asked whether Russia should be seen as a potential aggressor even after the war in Ukraine is over he said, "Yes. We have a few hundred years experience of this… We know Russia pretty well."
 
 The three Baltic Republics - Lithuania, Estonia and Latvia - also know Russia pretty well. They only regained their independence from Moscow in the 1990s. German troops invaded Lithuania in the 1940s and are now back on Lithuanian soil, this time by invitation, to bolster that country's defences against the threat from the east. A thousand British troops lead a multi-national force in Estonia for the same reason.
 
@@ -135,7 +135,7 @@ The Finnish military also runs a series of courses annually for leaders of socie
 
 Finland, with a population of 5.5 million, has a professional defence force of 23,000. That compares to Britain's 70,000 from a population of 66 million. But it also has a trained reserve force of close to 1 million and can mobilise a reserve army of 280,000 at short notice.
 
-![Finnish conscripts wearing winter camouflage uniforms, armed with machine guns walk through the snow covered forest](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8e6c/live/9c9e99b0-b27a-11f1-bc1f-3f186ca4140c.jpg)
+![Finnish conscripts wearing winter camouflage uniforms, armed with machine guns walk through the snow covered forest ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8e6c/live/9c9e99b0-b27a-11f1-bc1f-3f186ca4140c.jpg)
 
 Finland has a large trained reserve force
 
@@ -151,10 +151,10 @@ He says the Norwegian model might be one that helps change the British mindset a
 
 He adds: "The case has to be made honestly by political leaders who must really look the population in the eye and say 'this has got to be done for us to be secure'."
 
-*Lead image: Getty* 
+*Lead image: Getty*
 
 ## More from InDepth
 
-![Thin, lobster red banner with white text saying ‘InDepth newsletter’. To the right are black and white portrait images of Emma Barnett and John Simpson. Emma has dark-rimmed glasses, long fair hair and a striped shirt. John has short white hair with a white shirt and dark blazer. They are set on an oatmeal, curved background with a green overlapping circle.](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/23c7/live/fdf6e630-5e7f-11f1-8b8c-6d33e1d5abb6.png)
+![Thin, lobster red banner with white text saying ‘InDepth newsletter’. To the right are black and white portrait images of Emma Barnett and John Simpson. Emma has dark-rimmed glasses, long fair hair and a striped shirt. John has short white hair with a white shirt and dark blazer. They are set on an oatmeal, curved background with a green overlapping circle. ](https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/23c7/live/fdf6e630-5e7f-11f1-8b8c-6d33e1d5abb6.png)
 
-*BBC InDepth**is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.** Sign up for the newsletter here*
+*BBC InDepth* *is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday.* *Sign up for the newsletter here*

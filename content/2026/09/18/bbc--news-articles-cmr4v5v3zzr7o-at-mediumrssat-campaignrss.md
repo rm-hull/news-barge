@@ -3,22 +3,24 @@ title: Oxford United apologises for United 93 shirt advert
 source_url: https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:00:27Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Oxford United apologises for the image, which features the call sign
   of one of the planes used in the 9/11 attacks.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg
 categories:
 - UK
 - News & Politics
 - History
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg
 ---
 
 ![Female model wearing a yellow and blue shirt with "United 93" on the back](https://ichef.bbci.co.uk/ace/standard/975/cpsprodpb/5758/live/c484ac80-b379-11f1-bc1f-3f186ca4140c.jpg)
 
 Oxford United's new clothing range has been withdrawn from sale
 
-**A football club has apologised after it published images of a new clothing line with "United 93" printed on the back - the call sign of one of the aircraft hijacked on 9/11.** 
+* Published
+
+**A football club has apologised after it published images of a new clothing line with "United 93" printed on the back - the call sign of one of the aircraft hijacked on 9/11.**
 
 The clothing was supposed to make reference to Oxford United's founding year of 1893.
 

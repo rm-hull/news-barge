@@ -4,7 +4,7 @@ title: 'Athlos London: Keely Hodgkinson powers to victory in speed suit at all-f
 source_url: https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T22:32:30Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Keely Hodgkinson powers to victory in a full-body speed suit before being
   presented with a Tiffany & Co crown as Athlos makes its London debut.
@@ -17,13 +17,19 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4eac/live/30e27
 
 'Speed meeting style' - Hogkinson charges ahead to win Athlos 800m
 
+* Published
+
 **Keely Hodgkinson powered to victory in a custom-made full-body speed suit before being presented with a Tiffany & Co crown as Athlos made its London debut.**
 
-Hodgkinson was greeted by loud cheers as she emerged on to a stage and revealed the all-black aerodynamic outfit at the third edition of the all-female athletics meet.
+Hodgkinson was greeted by loud cheers as she emerged on to a stage and revealed the all-black aerodynamic outfit at the third staging of the all-female athletics meet.
 
 The 24-year-old ensured she ended a mixed year with a dominant 800m victory in front of a sellout home crowd at StoneX Stadium, bursting clear on the back straight and crossing the line in one minute 56.40 seconds.
 
-Speaking about the outfit, Hodgkinson said: "This is a project we have been working on with Nike for a long time. We thought: What a perfect place to bring it out, speed meeting style, all women's event. It went down a treat."
+Speaking about the outfit, Hodgkinson told BBC Sport: "This has been like a year in the making. It's a mixture of fashion and speed and science all coming together for maybe the future of athletics.
+
+"It was a real honour for them to choose me to put this out first. We weren't sure when we were going to wear it.
+
+"But an all-women's event that's all about the glitz and the glamour and putting eyes on women, a bit of a moment, I think was the perfect way to finish the season."
 
 Created by Alexis Ohanian, Reddit co-founder and husband of tennis' 23-time Grand Slam singles champion Serena Williams, Athlos was staging a meet for the first time outside of New York.
 
@@ -39,7 +45,7 @@ Hodgkinson shows off her dance moves at Athlos
 
 The athletes had arrived on a red carpet in north London but Hodgkinson saved her starring moment for the main event.
 
-The eye-catching speed suit featured an open back and a hood with a ponytail opening, while colour-changing 3D-printed details reduced drag in key areas.
+The eye-catching speed suit, reminiscent of that worn by Cathy Freeman in winning Olympic 400m gold in 2000, featured an open back and a hood with a ponytail opening - the latter, she said, was non-negotiable - while colour-changing 3D-printed nodes reduced drag in key areas.
 
 Paired with dark sunglasses and Nike's latest carbon-plated spikes, it helped Hodgkinson achieve her first victory since the London Diamond League in July.
 
@@ -51,11 +57,9 @@ But a nasty fall suffered on a post-session cool down run in July, and a recurre
 
 While still improving her British record this summer, Hodgkinson finished second to breakout Swiss star Audrey Werro at both the European Championships and inaugural World Athletics Ultimate Championship.
 
-However, she ended the season with a smile on her face and a crown on her head as she danced on stage with the night's other winners.
+However, with Swiss athlete Valentina Rosamilia finishing more than two seconds behind, she ended the season with a smile on her face and a crown on her head as she danced on stage with the night's other winners.
 
-![Keely Hodgkinson on her way to victory in the 800m at Athlos](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8302/live/de9b8dd0-b3a8-11f1-a7fa-c95bcf5935e4.jpg)
-
-Keely Hodgkinson will aim to win her first world outdoor title in 2027
+Dramatic sprint finish - Hunter Bell second in Athlos mile
 
 Training partner Georgia Hunter Bell was pipped to victory in the mile by Poland's Klaudia Kazimierska.
 

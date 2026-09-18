@@ -4,20 +4,20 @@ title: Council rejects rumours that housing for the homeless would accommodate a
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/council-rejects-rumours-that-housing-for-the-homeless-would-accommodate-asylum-seekers/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-15T19:40:40Z'
+scraped_at: '2026-09-18T22:58:05Z'
 published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Council has rejected claims circulating on social media
   that more than 100 homes being acquired under a council housing programme are intended
   for asylum seekers.
-image: https://mmo.aiircdn.com/409/664b1ad638155.jpg
 categories:
 - Local
 - Harrogate
 - News & Politics
 - Society & Culture
+image: https://mmo.aiircdn.com/409/664b1ad638155.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/664b1ad638155.jpg) 
+![](https://mmo.aiircdn.com/409/664b1ad638155.jpg)
 
 North Yorkshire Council has rejected claims circulating on social media that more than 100 homes being acquired under a council housing programme are intended for asylum seekers.
 
@@ -29,24 +29,21 @@ The scheme was originally approved in 2024 amid increasing demand for temporary 
 
 Addressing claims about the scheme at the meeting at the Civic Centre in Selby, Cllr Wilkinson said:
 
-“I’m aware that there has been some discussion on social media regarding the purpose of these homes.
-
-“For clarity, this programme is not for asylum accommodation. Accommodation of asylum seekers is arranged separately by the Home Office.
-
-“These homes are intended for households to whom North Yorkshire Council owes homelessness duties, including families with children, people fleeing domestic abuse and other vulnerable residents who would otherwise have nowhere suitable to stay.”
-
+> “I’m aware that there has been some discussion on social media regarding the purpose of these homes.
+>
+> “For clarity, this programme is not for asylum accommodation. Accommodation of asylum seekers is arranged separately by the Home Office.
+>
+> “These homes are intended for households to whom North Yorkshire Council owes homelessness duties, including families with children, people fleeing domestic abuse and other vulnerable residents who would otherwise have nowhere suitable to stay.”
 
 Dozens of comments have been posted online in recent days suggesting the homes would be used to house migrants.
 
 One person said:
 
-“British people born in this country need houses. Forget the migrants. Send them back. They are not our problem.”
-
+> “British people born in this country need houses. Forget the migrants. Send them back. They are not our problem.”
 
 Another added:
 
-“This will be to house migrants as they want them out of all hotels etc.”
-
+> “This will be to house migrants as they want them out of all hotels etc.”
 
 But the council’s report confirms the purpose of the programme is to provide temporary accommodation for homeless households across North Yorkshire.
 
@@ -64,8 +61,7 @@ Cllr Wilkinson said the properties would remain council-owned assets.
 
 He added:
 
-“Overall, this is a prudent investment that reduces ongoing revenue pressure, supports some of our most vulnerable residents and represents good stewardship of public money.”
-
+> “Overall, this is a prudent investment that reduces ongoing revenue pressure, supports some of our most vulnerable residents and represents good stewardship of public money.”
 
 The council has a legal duty to help people who are homeless or threatened with homelessness.
 

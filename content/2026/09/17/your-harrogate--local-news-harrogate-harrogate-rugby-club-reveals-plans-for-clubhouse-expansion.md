@@ -3,18 +3,18 @@ title: Harrogate Rugby Club reveals plans for clubhouse expansion and padel cour
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-rugby-club-reveals-plans-for-clubhouse-expansion-and-padel-courts/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-17T13:23:29Z'
+scraped_at: '2026-09-18T22:58:06Z'
 published: '2026-09-17T00:00:00Z'
 description: Harrogate Rugby Club has launched a public consultation on plans to expand
   its clubhouse and build four covered padel courts.
-image: https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+image: https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg) 
+![](https://mmo.aiircdn.com/409/6aabcf71a994ae20a4f.jpg)
 
 Harrogate Rugby Club has launched a public consultation on plans to expand its clubhouse and build four covered padel courts.
 
@@ -29,7 +29,6 @@ The padel courts would sit north of the clubhouse and have floodlights to allow 
 The club says they would be designed to accommodate wheelchair users.
 
 ![](https://mmo.aiircdn.com/409/6aabcf71a6154523d19.jpg)
-
 
 Harrogate Rugby Club says the new facilities would support its long-term financial future and provide more opportunities for members and the wider community to take part in sport.
 

@@ -3,14 +3,14 @@ title: Building society to hold digital support days in Harrogate
 source_url: https://www.harrogateadvertiser.co.uk/news/building-society-to-hold-digital-support-days-in-harrogate-9090632
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T13:00:45Z'
+scraped_at: '2026-09-18T22:38:59Z'
 published: '2026-09-18T00:00:00Z'
 description: Yorkshire Building Society to hold online banking help sessions
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/13/Huddersfield_-_Yorkshire_Building_Society_branch_1789734425_c6bacc76-c978d3e2c71e8ee3.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/13/Huddersfield_-_Yorkshire_Building_Society_branch_1789734425_c6bacc76-c978d3e2c71e8ee3.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Building society to hold digital support days in Harrogate
@@ -20,7 +20,6 @@ categories:
 Free digital support events are being held at Yorkshire Building Society in Harrogate to help people navigate online and app-based banking.
 
 ![Digital support days to take place at Harrogate branch.](https://www.harrogateadvertiser.co.uk/jpim-static/image/ugc/2026/09/18/13/Huddersfield_-_Yorkshire_Building_Society_branch_1789734425_c6bacc76-c978d3e2c71e8ee3.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 The team from the branch on Oxford Street will be available every Wednesday between 9.30am and 4pm from Wednesday 23 September to help people become more confident with technology, which will support them to engage digitally with the Society’s website and app, and is aimed at customers of all ages and abilities.

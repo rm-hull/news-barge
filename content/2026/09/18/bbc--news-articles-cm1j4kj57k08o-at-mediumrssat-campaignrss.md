@@ -3,20 +3,22 @@ title: Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks
 source_url: https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:00:44Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: O'Leary described his choice of language as "careless" and said "it won't
   happen again".
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg
 categories:
 - UK
 - News & Politics
 - Self-Improvement
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg
 ---
 
 ![Michael O'Leary, who has short, grey hair and wears a black jacket over a pink shirt, sits at a table with his hand resting on his chin. A board with Ryanair logos are on a board behind him.](https://ichef.bbci.co.uk/ace/standard/923/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg)
 
 O'Leary had previously refused to apologise to a rape crisis centre which criticised him for the comments
+
+* Published
 
 **Ryanair chief executive Michael O'Leary has said he is "truly sorry" for describing rival airlines as "high-fare rapists".**
 

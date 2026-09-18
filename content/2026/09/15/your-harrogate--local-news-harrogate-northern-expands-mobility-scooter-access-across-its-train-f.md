@@ -3,19 +3,19 @@ title: Northern expands mobility scooter access across its train fleet
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/northern-expands-mobility-scooter-access-across-its-train-fleet/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-15T13:28:49Z'
+scraped_at: '2026-09-18T22:58:08Z'
 published: '2026-09-15T00:00:00Z'
 description: Passengers using mobility scooters across North Yorkshire will now be
   able to travel on every type of train in Northern’s fleet, provided they have a
   free permit and their scooter meets the relevant requirements.
-image: https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg
 categories:
 - Local
 - Harrogate
 - Travel
+image: https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg) 
+![](https://mmo.aiircdn.com/409/6aa937b02bfc47273f7.jpg)
 
 Passengers using mobility scooters across North Yorkshire will now be able to travel on every type of train in Northern’s fleet, provided they have a free permit and their scooter meets the relevant requirements.
 
@@ -37,10 +37,9 @@ Northern consulted passengers and staff, carried out further testing with differ
 
 Alex Hornby, Customer and Commercial Director at Northern, said:
 
-“We are determined to create an accessible railway for everyone and continue to make further improvements for our customers across Northern.
-
-“With more people using smaller scooters, we decided it was time to review the rules and find a new way forward to enable more passengers with mobility scooters to safely board more services.”
-
+> “We are determined to create an accessible railway for everyone and continue to make further improvements for our customers across Northern.
+>
+> “With more people using smaller scooters, we decided it was time to review the rules and find a new way forward to enable more passengers with mobility scooters to safely board more services.”
 
 He also thanked Janet Kidd, Tony Jennings, Sue Buckingham and Shopmobility Leeds for their support during the process.
 

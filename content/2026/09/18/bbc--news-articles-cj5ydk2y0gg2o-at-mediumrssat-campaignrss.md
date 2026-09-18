@@ -3,21 +3,23 @@ title: Why Buffalo Bills played the Canadian national anthem
 source_url: https://www.bbc.co.uk/news/articles/cj5ydk2y0gg2o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:01:17Z'
+scraped_at: '2026-09-18T23:04:16Z'
 published: '2026-09-18T00:00:00Z'
 description: The field in Buffalo was decked out with the flags of both countries,
   as tensions simmer and a trade war escalates.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/088b/live/dc7b2e60-b372-11f1-9023-9990160baacc.jpg
 categories:
 - UK
 - News & Politics
 - History
 - Sports
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/088b/live/dc7b2e60-b372-11f1-9023-9990160baacc.jpg
 ---
 
 Watch: In a border city stadium, American NFL fans sing Canada’s anthem with gusto
 
-**There are no Canadian teams in the NFL - but there are millions of fans.** 
+* Published
+
+**There are no Canadian teams in the NFL - but there are millions of fans.**
 
 At the Buffalo Bills game in New York on Thursday night, plenty of Canadians wore the team's trademark red, white and blue while drinking beside their pick-up trucks, which were parked to tailgate - a very American pre-game tradition.
 
@@ -83,7 +85,7 @@ But some thought it was a step too far.
 
 Blake Parnham's Bills-themed backyard in Keswick, Ontario
 
-In the end, it may all come down to simple economics. 
+In the end, it may all come down to simple economics.
 
 The Bills' new home, Highmark Stadium, cost $2.2bn to build. While the population of western New York is a little over 1.5 million, the nearby Toronto and Hamilton greater metro areas is home to more than 8 million. Simply put, the team needs Canadian fans.
 
@@ -113,8 +115,7 @@ A couple of weeks ago, Breed embarked on the two-hour drive across the border, o
 
 "We sang the US anthem until we reached halfway and then started singing the Canadian anthem," she said.
 
-- ![Miriam Levin-Gold holds a microphone](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8c43/live/071e0fd0-b2c8-11f1-bc1f-3f186ca4140c.jpg)
-- ![Two men stand between the US and Canadian flags.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cc21/live/fc317620-a133-11f1-aed2-8d6da8d75094.jpg)
-- ![A graphic  shows stylised images of the Canadian and US flags over graphs](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png)
-  - Published24 July
- ![Mark Carney, in a blue suit and polka dot blue tie, is seated in a char and speaks into a microphone. Behind him are a number of flags hanging in multiple bright colours, mainly yellow, red, blue and green.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9e72/live/a8602020-86c4-11f1-9d73-41a48912c4b7.jpg)
+* ![Miriam Levin-Gold holds a microphone](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/8c43/live/071e0fd0-b2c8-11f1-bc1f-3f186ca4140c.jpg)
+* ![Two men stand between the US and Canadian flags.](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/cc21/live/fc317620-a133-11f1-aed2-8d6da8d75094.jpg)
+* ![A graphic  shows stylised images of the Canadian and US flags over graphs](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png)
+* + Published24 July![Mark Carney, in a blue suit and polka dot blue tie, is seated in a char and speaks into a microphone. Behind him are a number of flags hanging in multiple bright colours, mainly yellow, red, blue and green.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/9e72/live/a8602020-86c4-11f1-9d73-41a48912c4b7.jpg)

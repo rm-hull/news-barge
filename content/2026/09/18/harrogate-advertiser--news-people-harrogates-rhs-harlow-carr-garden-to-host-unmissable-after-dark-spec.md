@@ -4,15 +4,15 @@ title: Harrogate’s RHS Harlow Carr garden to host 'unmissable' after-dark spec
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogates-rhs-harlow-carr-garden-to-host-unmissable-after-dark-spectacle-for-all-the-family-9091263
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:02:13Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-18T00:00:00Z'
 description: Visitors are being invited to experience Harrogate’s RHS Harlow Carr
   gardens in a whole new light with spectacular new light installations.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzODMyYjYyLTQ5NmEtNDMwNS05MWE3LThhMGMwMDAxMzgwNToxMThiMjc2Ny1hNGQ5LTQ2MzgtOTBkZi1mYWMwZmY2NzAwYWM=.jpg?crop=3:2,smart&trim=&width=612&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzODMyYjYyLTQ5NmEtNDMwNS05MWE3LThhMGMwMDAxMzgwNToxMThiMjc2Ny1hNGQ5LTQ2MzgtOTBkZi1mYWMwZmY2NzAwYWM=.jpg?crop=3:2,smart&trim=&width=612&auto=webp&quality=75
 ---
 
 # Harrogate’s RHS Harlow Carr garden to host 'unmissable' after-dark spectacle for all the family
@@ -26,7 +26,6 @@ This immersive festive spectacle after dark will, for the first time, offer the 
 RHS Garden Harlow Carr’s champion trees will be illuminated to detail their intricate beauty, while a striking neon tree will conjur up a dazzling focal point beside the Queen Mother’s Lake.
 
 ![A decade after RHS Glow first lit up RHS Harlow Carr, the trail will returns for its 10th anniversary to the stunning Harrogate gardens. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjkzODMyYjYyLTQ5NmEtNDMwNS05MWE3LThhMGMwMDAxMzgwNToxMThiMjc2Ny1hNGQ5LTQ2MzgtOTBkZi1mYWMwZmY2NzAwYWM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 The trail will end with breath taking views of the Doric Columns from the top of the Main Borders.

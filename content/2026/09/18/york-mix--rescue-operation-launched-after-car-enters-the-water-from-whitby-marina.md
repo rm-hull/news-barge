@@ -3,14 +3,14 @@ title: Rescue operation launched after car enters the water from Whitby Marina
 source_url: https://www.yorkmix.com/rescue-operation-launched-after-car-enters-the-water-from-whitby-marina
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T19:02:15Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/whitby-marina-car-park-river-rescue-18-sept-2026-coastguard-1.webp
 categories:
 - Local
 - York
 - Business & Entrepreneurship
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/whitby-marina-car-park-river-rescue-18-sept-2026-coastguard-1.webp
 ---
 
 A rescue operation was launched today (Friday) after a car went into the water at Whitby.

@@ -3,7 +3,7 @@ title: 'World Series of Darts Finals 2026: Luke Littler survives scare to progre
 source_url: https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T22:08:28Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: World number one Luke Littler survives a first-round scare to overcome
   Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.
@@ -18,6 +18,8 @@ image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be6c/live/fad1d
 ![Luke Littler](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg)
 
 Luke Littler is the back-to-back world champion
+
+* Published
 
 **World number one Luke Littler survived a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.**
 

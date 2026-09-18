@@ -3,18 +3,18 @@ title: MPs urge Prime Minister to make A64 dualling a priority
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/mps-urge-prime-minister-to-make-a64-dualling-a-priority/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-14T14:59:24Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-14T00:00:00Z'
 description: Four North Yorkshire MPs have called on new Prime Minister Andy Burnham
   to make the long-awaited dualling of the A64 a priority for his government.
-image: https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg
 categories:
 - Local
 - Harrogate
 - News & Politics
+image: https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg) 
+![](https://mmo.aiircdn.com/409/6aa79e5d9fb25a535a6.jpg)
 
 Four North Yorkshire MPs have called on new Prime Minister Andy Burnham to make the long-awaited dualling of the A64 a priority for his government.
 
@@ -28,10 +28,9 @@ Their intervention follows the establishment of the Government’s new Number 10
 
 In their letter, the MPs say:
 
-“The establishment of No10 North presents an opportunity to break that deadlock.
-
-“Dualling the A64 would improve safety and journey times, strengthen connections between York and our coastal and rural communities and, crucially, unlock investment, productivity and growth across North Yorkshire.”
-
+> “The establishment of No10 North presents an opportunity to break that deadlock.
+>
+> “Dualling the A64 would improve safety and journey times, strengthen connections between York and our coastal and rural communities and, crucially, unlock investment, productivity and growth across North Yorkshire.”
 
 Mr Hollinrake said he and fellow North Yorkshire MPs had campaigned for improvements for more than a decade, repeatedly raising the issue with transport and Treasury ministers.
 
@@ -45,8 +44,7 @@ They have now asked Mr Burnham to make the A64 a priority for Number 10 North an
 
 They added:
 
-“This is an opportunity to demonstrate in a tangible way what your commitment to growth across the North can mean in practice.”
-
+> “This is an opportunity to demonstrate in a tangible way what your commitment to growth across the North can mean in practice.”
 
 The MPs have also requested a meeting with the Prime Minister and his Number 10 North team to discuss taking the project forward.
 

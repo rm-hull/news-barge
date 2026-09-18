@@ -3,7 +3,7 @@ title: Is the Kennedy Center losing 'hundreds of millions of dollars'?
 source_url: https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T21:12:26Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Records in 2024 show the venue had a surplus of millions of dollars once
   contributions and grants had been factored in.

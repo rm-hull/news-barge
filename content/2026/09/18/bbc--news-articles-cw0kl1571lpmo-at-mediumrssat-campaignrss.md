@@ -1,35 +1,98 @@
 ---
-title: Flight chaos caused by software defect, says air traffic control body
+title: Flight chaos caused by millisecond software defect, says air traffic control
+  body
 source_url: https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T12:59:18Z'
+scraped_at: '2026-09-18T23:04:14Z'
 published: '2026-09-18T00:00:00Z'
 description: The failure led to more than 2,000 flights being cancelled and hundreds
   of thousands of passengers affected.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f648/live/18fc40e0-b34b-11f1-91a3-393282eb9f17.jpg
 categories:
 - UK
 - News & Politics
 - Technology & Software
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png
 ---
 
-![Passengers wait for flights and connections at the South terminal of Gatwick Airport on September 09, 2026.](https://ichef.bbci.co.uk/ace/standard/797/cpsprodpb/f648/live/18fc40e0-b34b-11f1-91a3-393282eb9f17.jpg)
+![Passengers wait for flights and connections at the South terminal of Gatwick Airport on September 09, 2026.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/30ef/live/99823870-b380-11f1-b1d1-571ed4d7ff2c.jpg)
 
 Thousands of passengers were delayed by the NATS outage
 
-**An air traffic control system failure that sparked widespread travel chaos earlier this month was caused by a "software defect", the UK's National Air Traffic Services (Nats) has said.**
+* Published
 
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.
+**An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a "software defect"**
 
-Flights in and out of the UK's main airports were affected, including Heathrow, Gatwick, Luton and Glasgow.
+**affecting**
 
-The incident prompted questions over the resilience of Nats' systems, and some airlines questioned the position of its chief executive Martin Rolfe.
-
-The government had previously ruled out a cyber attack, and last week the Ministry of Defence denied a report that a military aircraft was to blame.
-
-In an initial report, Nats said the defect happened in the system which "underpins the management of UK airspace".
+**the system underpinning UK air space management, the national air traffic service Nats has said.**
 
 The problem happened "in the space of a millisecond", Nats said, leading to the system producing corrupted data.
 
-Air traffic controllers then had reduced information available, so restrictions were put in place to limit air traffic to maintain safety.
+The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.
+
+Nats chief executive Martin Rolfe told the BBC he would not resign, saying the software defect was "very, very obscure."
+
+"You can fly to almost anywhere from almost any airport at almost any time. If that stops, even for a moment, then you get huge disruption.
+
+"My job is to make sure that we have this happen as infrequently as possible," he added.
+
+Transport Secretary Heidi Alexander called the disruption "completely unacceptable", while industry body Airlines UK is writing to Nats to demand immediate compensation for costs incurred.
+
+The incident prompted questions over the resilience of Nats' systems, and some airlines questioned the position of Mr Rolfe.
+
+There has also been anger from passengers about how much support they got from airlines, and about the fact that they are unlikely to be entitled to compensation because the regulator judges the situation was extraordinary circumstances.
+
+In an initial report, external, Nats said the software defect meant air traffic controllers had reduced information available, so restrictions were put in place to limit air traffic to maintain safety.
+
+The defect occurred at 10:00am on 8 September, but it did not become apparent this was a serious problem for another two and a half hours.
+
+The system restart did not start until just after 3:15pm, and restrictions on UK airspace were not lifted until 7:30pm.
+
+Flights in and out of the UK's main airports were affected, including Heathrow, Gatwick, Luton and Glasgow.
+
+The disruption took days to completely resolve because of the number of planes and crew left out of place.
+
+Mr Rolfe apologised to those affected by the disruption, saying Nats was "devastated".
+
+"However, our primary role is to keep our skies safe, and everyone who flies through them. At no point last week was safety in question."
+
+Nats has "tested these systems so much," he added.
+
+"We spent so much time making sure they work that anything that does happen of this nature is, by its very nature, going to be incredibly complicated and probably difficult to understand at the time," he said.
+
+Reacting to the Nats report, the transport secretary described the disruption as "completely unacceptable" and "frustrating" for passengers, airlines and airports.
+
+"It's clear we need to urgently understand why this issue was not discovered and fixed before it caused chaos," Alexander said, adding that a Civil Aviation Authority review was underway.
+
+This is the third national air traffic incident in the past three years.
+
+In 2023, a computer shutdown over the August bank holiday weekend caused chaos for 700,000 passengers.
+
+There was another, smaller Nats outage in 2025, which caused 150 cancellations.
+
+Tim Alderslade, chief executive of Airlines UK, said: "Once again, it is passengers who have suffered and airlines who have picked up the pieces - and the tab - of an ATC [Air Traffic Control] system failure, while Nats itself faces no real consequences."
+
+He added that passengers deserved "commitment and proof that the system is being fixed".
+
+Alderslade also said Airlines UK was writing to NATS "to demand immediate compensation for the costs incurred and a credible plan to improve resilience."
+
+## 'I'm out of pocket by £100'
+
+![Addie Kitson sits in her airplane seat with a fluffy panda bear which she brought back from China after seeing many of them in China. She is a young woman with brown hair and blue eyes and a nose ring. ](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/91fd/live/a3694c90-b1da-11f1-a44b-aba96a7d56aa.jpg)
+
+Addie Kitson was hit with almost £100 in unexpected costs when her flight back from China was diverted to Stockholm
+
+Addie Kitson, 26, had been on holiday in China when her flight home was diverted to Sweden.
+
+"I thought I landed fine" she told the BBC, "but then they went: 'Welcome to Stockholm' and I went: 'Ooh, that's not London'".
+
+After being told about the issues affecting UK airspace, passengers were kept on the plane for a few hours, and then spent 19 hours inside Stockholm airport.
+
+Addie ended up with nearly £100 in unexpected costs after having to buy refreshments, adaptors and to pay for Wi-Fi to work.
+
+"I got one £11 food voucher that didn't even cover the cost of a sandwich in Stockholm airport", Addie said.
+
+Addie questioned the rules around compensation, saying there had been multiple air traffic outages.
+
+"It doesn't seem that extraordinary," she said.

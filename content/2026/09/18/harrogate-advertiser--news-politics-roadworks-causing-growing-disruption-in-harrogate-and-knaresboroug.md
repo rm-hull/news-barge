@@ -4,15 +4,15 @@ title: Roadworks causing growing disruption in Harrogate and Knaresborough, Nort
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/roadworks-causing-growing-disruption-in-harrogate-and-knaresborough-north-yorkshire-council-admits-9091448
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:00:58Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Council officials have acknowledged the growing disruption
   caused by roadworks in Harrogate and Knaresborough.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFkZjZhZDI4LTY5YjYtNDNiMi1hOGYwLTA5ZWUwNzI4MmQ5ODphN2E3YWZkMS0yNDliLTQ5MDQtOWVmMy00YmM0MGU4NjA3NjU=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - News & Politics
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFkZjZhZDI4LTY5YjYtNDNiMi1hOGYwLTA5ZWUwNzI4MmQ5ODphN2E3YWZkMS0yNDliLTQ5MDQtOWVmMy00YmM0MGU4NjA3NjU=.jpg?crop=3:2,smart&trim=&width=639&auto=webp&quality=75
 ---
 
 # Roadworks causing growing disruption in Harrogate and Knaresborough, North Yorkshire Council admits
@@ -26,7 +26,6 @@ Officials say work to upgrade ageing water, gas and electricity networks is addi
 The council says coordinating works is particularly difficult in Harrogate and Knaresborough because roads are already busy with commuters, tourists and business traffic.
 
 ![North Yorkshire Council officials have acknowledged the growing disruption caused by roadworks in Harrogate and Knaresborough](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFkZjZhZDI4LTY5YjYtNDNiMi1hOGYwLTA5ZWUwNzI4MmQ5ODphN2E3YWZkMS0yNDliLTQ5MDQtOWVmMy00YmM0MGU4NjA3NjU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Major events including the Great Yorkshire Show, Knaresborough Bed Race and conferences at Harrogate Convention Centre also have to be considered when deciding when works should take place.

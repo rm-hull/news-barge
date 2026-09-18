@@ -4,16 +4,16 @@ title: 'Review: Thousands of fans lap up Harrogate Love to Be..event which was '
 source_url: https://www.harrogateadvertiser.co.uk/news/people/review-thousands-of-fans-lap-up-harrogate-love-to-beevent-which-was-our-best-festival-to-date-9088862
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T13:00:17Z'
+scraped_at: '2026-09-18T22:39:05Z'
 published: '2026-09-18T00:00:00Z'
 description: TV celebrity Gok Wan has called a major Harrogate music event on the
   Stray his “favourite festival to play”
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxYjk0ZDZhLTM3NzQtNDlkNC1iMzYwLTQyNmJiNzdhYmI3NzpmMjBiMDE5Yy1jMGJhLTRjODQtODRhNy0wMmQ1YjEyZDA4ZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Music
 - Arts & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxYjk0ZDZhLTM3NzQtNDlkNC1iMzYwLTQyNmJiNzdhYmI3NzpmMjBiMDE5Yy1jMGJhLTRjODQtODRhNy0wMmQ1YjEyZDA4ZGQ=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Review: Thousands of fans lap up Harrogate Love to Be..event which was 'our best festival to date'
@@ -27,7 +27,6 @@ Image consultant, author and DJ Gok Wan told me afterwards: “Of all of the fes
 "It’s my favourite festival to play.”
 
 ![The crowds on the Harrogate Stray welcomed a host of big named talented DJs to the Love to Be...Festival. (Picture Nick Brooker)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAxYjk0ZDZhLTM3NzQtNDlkNC1iMzYwLTQyNmJiNzdhYmI3NzpmMjBiMDE5Yy1jMGJhLTRjODQtODRhNy0wMmQ1YjEyZDA4ZGQ=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Artists performing included Trimtone, Cash Only, Gok Wan, KKlass, Sam Devine, Claptone, Grant Nelson to name but a few.

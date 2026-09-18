@@ -3,14 +3,14 @@ title: ‘AI slop’ art trail cost council more than £11,000
 source_url: https://www.yorkmix.com/ai-slop-art-trail-cost-council-more-than-11000
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T13:00:42Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/scarborough-400th-anniversary-deckchair-trail-1.webp
 categories:
 - Local
 - York
 - Business & Entrepreneurship
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/07/scarborough-400th-anniversary-deckchair-trail-1.webp
 ---
 
 A council spent more than £11,000 on an ‘AI slop’ deckchair trail as part of a North Yorkshire town’s 400th anniversary celebration.

@@ -4,21 +4,21 @@ title: 'Obituary: ''Much-loved'' Harrogate man who received CBE for a lifetime o
 source_url: https://www.harrogateadvertiser.co.uk/news/people/obituary-much-loved-harrogate-man-who-received-cbe-for-a-lifetime-of-service-and-achievement-9057199
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-15T19:40:45Z'
+scraped_at: '2026-09-18T22:39:08Z'
 published: '2026-09-15T00:00:00Z'
 description: Tributes have been paid after the passing of a hugely respected Harrogate
-  man who gave so much to so the town's life and its civic and charity groups and
-  was honoured by The Queen.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzYzFlMGM3LWQzZmQtNDBkOC05YjA0LTUxNGVmNzIyNTc0MzowMDkwYTYwNS1iMWRmLTRlODQtOTE3ZC1kNDA1MDRhYmQ3ZjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
+  man who gave so much to the town's life and its civic and charity groups and was
+  honoured by The Queen.
 categories:
 - Local
 - Harrogate
 - Society & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzYzFlMGM3LWQzZmQtNDBkOC05YjA0LTUxNGVmNzIyNTc0MzowMDkwYTYwNS1iMWRmLTRlODQtOTE3ZC1kNDA1MDRhYmQ3ZjA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Obituary: 'Much-loved' Harrogate man who received CBE for a lifetime of service and achievement
 
-## Tributes have been paid after the passing of a hugely respected Harrogate man who gave so much to so the town's life and its civic and charity groups and was honoured by The Queen.
+## Tributes have been paid after the passing of a hugely respected Harrogate man who gave so much to the town's life and its civic and charity groups and was honoured by The Queen.
 
 In a lifetime of commitment, John Harris CBE DL MA LLM FRSA covered the gamut of civic and public responsibilities, including the Royal Hall Restoration Trust, Harrogate and District City of Sanctuary, Harrogate Theatre, Harrogate Homeless Project; U3a, Harrogate and Knaresborough Labour Party and the West Park Centre.
 
@@ -29,8 +29,7 @@ In a message signed by his wife Alison, children Sue and Ed, grandchildren Sam, 
 ![The late John Harris, centre, pictured in 2017 with Liz Charnley and, Les Parkes campaigning in Harrogate for a good Brexit deal with the EU. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjIzYzFlMGM3LWQzZmQtNDBkOC05YjA0LTUxNGVmNzIyNTc0MzowMDkwYTYwNS1iMWRmLTRlODQtOTE3ZC1kNDA1MDRhYmQ3ZjA=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
-Pro European, Mr Harris stood as the Yorkshire Party candidate in 2022 in the first elections for the newly enlarged North Yorkshire Council.
+Pro European, Mr Harris’s life spanned political commitment, internationallism, local government, law, business, charity and community support.
 
 In the 1980s he was chief executive of South Yorkshire Metropolitan County Council.
 
@@ -39,7 +38,6 @@ He was also a Deputy Lieutenant of South Yorkshire, a member of the Guild of Fre
 Born in London on April 24, 1936, the third and youngest child and only son of Sir Charles Harris KBE and Lady Harris (Emily née Thompson), John Harris had two older sisters Joan and Audrey.
 
 ![Supporting the arts - West Park Centre at United Reformed Church on Victoria Avenue, West Park, Harrogate. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjE3Zjg0NmM5LTQxZmQtNDcxYS04NTUwLTU5Y2EwZjQ2NWFkZTpkYjIzNjc4MC0yYTY5LTQxNTItOTIzYy03OWNhMDFjNTZiYmE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 He won a place at Dulwich College through the Direct Grant Scheme graduating with 8 O-levels and 3 A levels in 1954.
@@ -51,7 +49,6 @@ He sat French and German papers but, on his own admission, had no real aptitude 
 However, he also sat a general paper and excelled.
 
 ![Flashback to 2021 - On the left of Mayor of Harrogate, Coun Trevor Chapman, is Richard Cyster, Chair of Harrogate u3a , on the Mayoress Mrs Janet Chapman's left , and Alison Harris , Publicity Officer for Harrogate u3a. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmY4ZjJmMDBiLTdkZTgtNGYwMC05ZWE0LTE4OGQ0ZTc1Y2RlOTo0ODI3YTZiOC02ODRkLTQzM2YtOWE3NS1iMzBiNzVmMDRkZWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Before going up to Cambridge he spent two years doing his National Service in the Intelligence Corp as a 2nd Lieutenant (a year after Alan Bennett) where he attempted to learn Russian.

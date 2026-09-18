@@ -4,15 +4,15 @@ title: '''Optimistic and educating'' World War Two play that made me ''proud to 
 source_url: https://www.harrogateadvertiser.co.uk/news/people/optimistic-and-educating-world-war-two-play-that-made-me-proud-to-be-a-knaresborian-9067867
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:32:30Z'
+scraped_at: '2026-09-18T22:39:04Z'
 published: '2026-09-16T00:00:00Z'
 description: The title of Red Wall Theatre's latest production at COGS (Centre On
   Gracious Street) in Knaresborough suggested a rather sober, if informative, event.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=3:2,smart&trim=&width=896&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Arts & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=3:2,smart&trim=&width=896&auto=webp&quality=75
 ---
 
 # 'Optimistic and educating' World War Two play that made me 'proud to be a Knaresborian'
@@ -26,7 +26,6 @@ Part of Knaresborough's Feva festival, the setting is a concert to celebrate VE 
 She shares wartime reminiscences, amidst interruptions, the first from officious ARP warden, Horace Hooper (Colin Beveridge) even before the concert starts.
 
 ![The cast of Fighting Fascism - Knaresborough's Home Front by Red Wall Theatre. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjAzODM0MzhhLTdmYWItNDNjNy1hZTYzLTAyMTA0MzMxYjJjMjoxM2M5NzA0Yi1mZjYzLTRjNTYtOTdmZS04Y2IwN2JiYWY1YTE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 He arrives to insist Marjorie digs up her roses to 'put seed potatoes in pronto,' only to leave after agreeing a future rendezvous to sample her rose-hip wine.

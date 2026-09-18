@@ -3,20 +3,20 @@ title: Tourist tax ‘has to be done right’, says North Yorkshire Mayor
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/tourist-tax-has-to-be-done-right-says-north-yorkshire-mayor/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-17T13:24:25Z'
+scraped_at: '2026-09-18T22:58:06Z'
 published: '2026-09-17T00:00:00Z'
 description: THE implementation of charges on overnight stays for visitors will have
   to be done right but details on how they would work are currently lacking, North
   Yorkshire’s mayor has said.
-image: https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
 - News & Politics
+image: https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg) 
+![](https://mmo.aiircdn.com/409/6aab93a4487648cca10.jpg)
 
 THE implementation of charges on overnight stays for visitors will have to be done right but details on how they would work are currently lacking, North Yorkshire’s mayor has said.
 
@@ -42,15 +42,13 @@ She added questions remained over how charges would affect the various types of 
 
 Cllr Jefferson, of Castle Division which covers part of Scarborough, said:
 
-“Tourism is a very diverse industry, the levy could make things difficult for family accommodation providers.
+> “Tourism is a very diverse industry, the levy could make things difficult for family accommodation providers.
 
-
-“Are we going to charge per room, for couples and children, we’ve also got guest houses, holiday lets, caravans and chalets.
-
-“What about groups of foreign students who come and stay for up to 28 days, or Scout and Guides groups?
-
-“There’s also children who come and stay from schools, sometimes it’s the only accommodation on holiday they get.”
-
+> “Are we going to charge per room, for couples and children, we’ve also got guest houses, holiday lets, caravans and chalets.
+>
+> “What about groups of foreign students who come and stay for up to 28 days, or Scout and Guides groups?
+>
+> “There’s also children who come and stay from schools, sometimes it’s the only accommodation on holiday they get.”
 
 Mr Skaith said nothing about the charge was set in stone and more details would emerge as the national proposals make their way through Parliament.
 
@@ -58,12 +56,12 @@ He added the Policy Lab study had not presented the levies as purely sunshine an
 
 The mayor said:
 
-“I worked in hospitality for many years and I understand the challenges it faces, but they’re not just in the last six months, visitor numbers have been dropping for years.
-
-“This is an opportunity to bring money into the sector and support it.
-
-“Discussions with the hospitality industry are ongoing and one of the things we’re talking about is how we can elongate the tourist season for places on the coast for instance where January and February is very quiet.
-
-“We’ve had events like the Tour of Britain which cost money to put on but the return is huge.
-
-“People come and visit towns like Helmsley but it costs money to support those places, I want this to work but it has to be done right, it could be a game-changer.”
+> “I worked in hospitality for many years and I understand the challenges it faces, but they’re not just in the last six months, visitor numbers have been dropping for years.
+>
+> “This is an opportunity to bring money into the sector and support it.
+>
+> “Discussions with the hospitality industry are ongoing and one of the things we’re talking about is how we can elongate the tourist season for places on the coast for instance where January and February is very quiet.
+>
+> “We’ve had events like the Tour of Britain which cost money to put on but the return is huge.
+>
+> “People come and visit towns like Helmsley but it costs money to support those places, I want this to work but it has to be done right, it could be a game-changer.”

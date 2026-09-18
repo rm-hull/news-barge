@@ -3,20 +3,22 @@ title: Lindsay Clancy holdout juror had no doubt she deliberately killed her chi
 source_url: https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T12:59:32Z'
+scraped_at: '2026-09-18T23:04:14Z'
 published: '2026-09-18T00:00:00Z'
 description: It is the first time the juror, who refused to side with the others and
   acquit Clancy, has spoken publicly about his decision.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg
 categories:
 - UK
 - News & Politics
 - Society & Culture
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg
 ---
 
 ![Defendant Lindsay Clancy in the courtroom during the trial](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg)
 
-**The lone holdout juror in the trial of Lindsay Clancy has said he "didn't have any doubts" that she was criminally responsible for killing her three children.** 
+* Published
+
+**The lone holdout juror in the trial of Lindsay Clancy has said he "didn't have any doubts" that she was criminally responsible for killing her three children.**
 
 "Based on all the physical evidence, key witnesses and what the prosecution presents, I thought it was enough proof that she knew exactly what she was doing and planned it," Michael Desronvil said in a statement to CBS News, the BBC's US partner.
 
@@ -53,6 +55,8 @@ Another juror told local CBS station WBZ-TV that most of the jurors had been "ve
 But they added that because Desronvil would not "follow" his reasonable doubt nor offer logical reasoning for his position, they felt Clancy had not received a fair trial.
 
 The identities of all 11 jurors have not been officially disclosed but in the US, once a case is over, any juror can choose to speak publicly about a case and their deliberations.
+
+Watch: Patrick Clancy's current wife describes him as 'selfless father'
 
 Patrick Clancy, the children's father and Lindsay Clancy's ex-husband, is due to speak publicly about the case in an interview with the CBS programme 60 Minutes on Sunday.
 

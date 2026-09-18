@@ -3,19 +3,19 @@ title: 150 homes planned for green belt land near Harrogate
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/150-homes-planned-for-green-belt-land-near-harrogate/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-14T15:00:48Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-14T00:00:00Z'
 description: Plans for up to 150 new homes in green belt land near Harrogate would
   help address a severe shortage of housing in the area, according to the developer
   behind the scheme.
-image: https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg
 categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+image: https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg) 
+![](https://mmo.aiircdn.com/409/6aa7e13f49a573c5b95.jpg)
 
 Plans for up to 150 new homes in green belt land near Harrogate would help address a severe shortage of housing in the area, according to the developer behind the scheme.
 
@@ -32,7 +32,6 @@ A planning statement submitted with the application says the former Harrogate di
 It calculates that 5,492 homes are required over five years, including the relevant buffer, while the latest available figures identify a deliverable supply of 3,111 properties.
 
 ![](https://mmo.aiircdn.com/409/6aa7e13f4babd84d6de.jpg)
-
 
 The developer describes the situation as a “severe level of under supply”.
 

@@ -3,20 +3,22 @@ title: Earl Spencer defends Diana book claims about King Charles
 source_url: https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:02:02Z'
+scraped_at: '2026-09-18T23:04:14Z'
 published: '2026-09-18T00:00:00Z'
 description: Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll
   forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg
 categories:
 - UK
 - News & Politics
 - History
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg
 ---
 
 Watch: Earl Spencer says he's 'telling the truth' about what Charles said after Diana died
 
-**Princess Diana's brother has told the BBC exclusively that he is "telling the truth" about a phone call with King Charles in the days after his sister's death.** 
+* Published
+
+**Princess Diana's brother has told the BBC exclusively that he is "telling the truth" about a phone call with King Charles in the days after his sister's death.**
 
 Earl Spencer claims in a new book the then-Prince of Wales said "we'll forget her soon enough" during an argument over whether Princes William and Harry should walk in Diana's funeral procession.
 
@@ -56,7 +58,7 @@ In his BBC interview, he says the King "went ballistic" and "ranted for a while"
 
 He said he couldn't say exactly what went through his mind at that moment as he was "just so stunned", adding: "I just, after a stunned silence, I said, I cannot believe you just said that. And I hung up on him."
 
-![Earl Spencer talking with Laura Kuenssberg at Diana's burial site on the  Althorp estate](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7736/live/f7554fc0-b38d-11f1-a430-4d16ee157c41.jpg)
+![Earl Spencer talking with Laura Kuenssberg at Diana's burial site on the  Althorp estate ](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7736/live/f7554fc0-b38d-11f1-a430-4d16ee157c41.jpg)
 
 Diana is buried at the Spencer family's Althorp estate
 
@@ -77,3 +79,7 @@ Prince Harry has previously said that walking behind his mother's coffin aged 12
 In 2017, he told the BBC he didn't "have an opinion whether that was right or wrong", but "looking back on it", he was glad to have been part of the day.
 
 *The full interview with Laura Kuenssberg will be on BBC iPlayer on Sunday from 16:00 BST and on BBC One at 18:30 BST.*
+
+* ![A composite image shows on the left Charles wearing a dark suit, blue shirt and red and blue tie, and Diana next  to him wearing a white and navy block dress colour and holding a single flower. On the right is Earl Spencer wearing a black suit jacket and chequered open-necked shirt and gesturing with his hands as he speaks to camera.](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/be1e/live/3da6ac10-b25a-11f1-bc1f-3f186ca4140c.png)
+* + Published2 days ago![A young Prince William stands next to Earl Spencer, a young Prince Harry and Charles at Diana's funeral. They are all wearing dark suits with ties and are facing ahead solemnly.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/c3f8/live/92718a00-b1fe-11f1-bc1f-3f186ca4140c.jpg)
+* ![A picture of Diana in a light blue shirt](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg)

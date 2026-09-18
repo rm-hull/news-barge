@@ -3,23 +3,25 @@ title: Warren Buffett steps down as Berkshire chairman after six decades
 source_url: https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:01:48Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: Since taking control in 1965, Buffett grew a struggling textile mill
   into a global conglomerate.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg
 categories:
 - UK
 - News & Politics
 - Business & Entrepreneurship
 - Personal Finance & Investing
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg
 ---
 
-![Warren Buffett listens as his son Howard Buffett speaks during an interview in New York on 22 October 2013.](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg)
+![Warren Buffett listens as his son Howard Buffett speaks during an interview in New York on 22 October 2013. ](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg)
 
 Howard Buffett's main duty as chairman will be guarding the firm's "culture and values."
 
-**Warren Buffett has stepped down as chairman of Berkshire Hathaway, handing over leadership to his son Howard in the final chapter of a long-planned transition at the US business giant.** 
+* Published
+
+**Warren Buffett has stepped down as chairman of Berkshire Hathaway, handing over leadership to his son Howard in the final chapter of a long-planned transition at the US business giant.**
 
 At 96, the world-famous investor will move into an advisory role as chairman emeritus and remain on the company board to offer his "judgement and perspective", according to a letter to shareholders, external.
 

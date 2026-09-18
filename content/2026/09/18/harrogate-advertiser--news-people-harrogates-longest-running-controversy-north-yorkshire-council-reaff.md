@@ -4,16 +4,16 @@ title: 'Harrogate''s longest-running controversy: North Yorkshire Council reaffi
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogates-longest-running-controversy-north-yorkshire-council-reaffirms-its-commitment-to-gateway-project-9093229
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:02:15Z'
+scraped_at: '2026-09-18T22:39:03Z'
 published: '2026-09-18T00:00:00Z'
 description: The war of words over Harrogate’s £11 million Gateway project for the
   town centre may have gone silent but the controversial scheme is far from dead.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyYjFkNWRhLTI5NjEtNDUxOS04ODllLWU0Y2IyMGRmY2JjMjo1OGUzZDMxNi1mZmNmLTQzZjItOTVlOS01MWZiODI3MDc4ZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - News & Politics
 - Business & Entrepreneurship
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyYjFkNWRhLTI5NjEtNDUxOS04ODllLWU0Y2IyMGRmY2JjMjo1OGUzZDMxNi1mZmNmLTQzZjItOTVlOS01MWZiODI3MDc4ZTU=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate's longest-running controversy: North Yorkshire Council reaffirms its commitment to Gateway project
@@ -29,7 +29,6 @@ There may have been radio silence since The Court of Appeal dismissed an appeal 
 ![A visualisation of part of the Harrogate Gateway project at Station Parade, south facing. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQyYjFkNWRhLTI5NjEtNDUxOS04ODllLWU0Y2IyMGRmY2JjMjo1OGUzZDMxNi1mZmNmLTQzZjItOTVlOS01MWZiODI3MDc4ZTU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
 But North Yorkshire Council this week confirmed to the Harrogate Advertiser this week that plans remain on course, utilising funds from the Transforming Cities Fund, a programme launched, originally, by the previous Tory government.
 
 North Yorkshire Council’s executive member for highways and transportation, Coun Malcolm Taylor, said: “Harrogate Station Gateway is designed to improve the area around Harrogate station, creating a safer, more attractive and accessible gateway to the town for residents, businesses and visitors, while supporting sustainable travel options and enhancing the public realm.
@@ -41,7 +40,6 @@ It’s a different world now from seven years ago when the then North Yorkshire 
 ![“Planning and preparatory work for the Harrogate Station Gateway project is continuing" - North Yorkshire Council’s executive member for highways and transportation, Coun Malcolm Taylor, right. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjA4OWUzYmI3LWNlOGEtNGE4ZC04Y2U2LTUxYTZlMGRhYWUzMTo2NDM1NDYyNi00ZGEyLTQ2M2MtODNmYS0wYjJjYjY4YTk4ODE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
 Back in 2019, the council appeared to be in harmony with the town when it joined the West Yorkshire Combined Authority’s bid for Government funding to tackle traffic in a way that would also tackle climate change.
 
 But the longer the process went on, the more businesses in Harrogate started to worry about the practical implications of the project’s more radical, pro-pedestrian and cycling aspects.
@@ -51,7 +49,6 @@ Soon, an official campaign group against the much-fought over project was formed
 Steven Baines, a Harrogate business owner and spokesperson for the Get Away campaign, said: "Not only is there anger from the Harrogate business and trade community that this is the wrong scheme for the town but there is outrage at the way it was pushed through without adequate consultation."
 
 ![Get Away campaigners against the Harrogate Gateway project - Garry Sadler-Simpson, chairman of Mainline Taxis, Steven Baines, spokesperson for the Get Away campaign, and David Waddington, a consultant with Hornbeam Park Developments. (Picture Get Away Campaign)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjMyMjk0ZmE2LTQwMDgtNGVjZC1iMmYzLTVkNjJkYjAzYTFlNTowMmRmZGEyOS02OTMwLTQ3MGQtODRiNC02NTk3ZjRkMGM0OWE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Recent years have seen North Yorkshire Council drop the scheme’s more controversial initial ideas such as pedestrianising James Street or cutting general traffic lanes on Station Parade were dropped as public feedback turned negative.

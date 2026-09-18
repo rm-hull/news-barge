@@ -3,18 +3,18 @@ title: Plans unveiled for up to 53 homes at Hornbeam Park
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/plans-unveiled-for-up-to-53-homes-at-hornbeam-park/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-15T13:28:28Z'
+scraped_at: '2026-09-18T22:58:08Z'
 published: '2026-09-15T00:00:00Z'
 description: Plans for up to 53 homes on land beside the Hornbeam Park Estate have
   been opened for public consultation.
-image: https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg
 categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+image: https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg) 
+![](https://mmo.aiircdn.com/409/6aa9374d048d626b4ad.jpg)
 
 Plans for up to 53 homes on land beside the Hornbeam Park Estate have been opened for public consultation.
 
@@ -27,7 +27,6 @@ Up to 21 would be affordable under a Section 106 agreement, with a further 32 po
 The plans also show access from Hornbeam Park Avenue, public open space, a woodland walk and improvements to an existing public footpath.
 
 ![](https://mmo.aiircdn.com/409/6aa9374cf0e72d2a7ac.jpg)
-
 
 The developer says every home could have solar panels or an air-source heat pump.
 

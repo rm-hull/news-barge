@@ -3,18 +3,18 @@ title: Nearly two million visits made to North Yorkshire libraries in a year
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/nearly-two-million-visits-made-to-north-yorkshire-libraries-in-a-year/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-16T19:32:28Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-16T00:00:00Z'
 description: Visits to North Yorkshire’s libraries have risen by six per cent in a
   year, with almost two million trips made to branches across the county.
-image: https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg
 categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
+image: https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg) 
+![](https://mmo.aiircdn.com/409/6aaaa5685a93728963f.jpg)
 
 Visits to North Yorkshire’s libraries have risen by six per cent in a year, with almost two million trips made to branches across the county.
 
@@ -30,12 +30,11 @@ Councillor Simon Myers, executive member for culture, arts and housing, said it 
 
 He added:
 
-“It is particularly gratifying to see an increase in young users and in membership, year on year. Our libraries really are at the heart of our communities, and I hope that in this National Year of Reading more people will take up this wonderful, free, resource.
-
-“I think Billy Connolly’s recollection of the life-altering power of books rings as true today as it did in my own, painfully shy, youth.
-
-“Billy said ‘when I was an unhappy little boy, going to the library changed my life. It may even have saved it. Amazing as it sounds, literature can do that for you’.”
-
+> “It is particularly gratifying to see an increase in young users and in membership, year on year. Our libraries really are at the heart of our communities, and I hope that in this National Year of Reading more people will take up this wonderful, free, resource.
+>
+> “I think Billy Connolly’s recollection of the life-altering power of books rings as true today as it did in my own, painfully shy, youth.
+>
+> “Billy said ‘when I was an unhappy little boy, going to the library changed my life. It may even have saved it. Amazing as it sounds, literature can do that for you’.”
 
 The annual review also claims North Yorkshire is providing its library service more cheaply than comparable rural councils.
 

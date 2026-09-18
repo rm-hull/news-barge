@@ -4,15 +4,15 @@ title: Knaresborough gets its own junior parkrun as Conyngham Hall event launche
 source_url: https://www.harrogateadvertiser.co.uk/news/knaresborough-gets-its-own-junior-parkrun-as-conyngham-hall-event-launches-this-sunday-9093426
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:00:27Z'
+scraped_at: '2026-09-18T22:39:04Z'
 published: '2026-09-18T00:00:00Z'
 description: Children and families in Knaresborough are being invited to lace up their
   trainers this Sunday as the town welcomes its first junior parkrun.
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Family & Parenting
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Knaresborough gets its own junior parkrun as Conyngham Hall event launches this Sunday
@@ -22,7 +22,6 @@ categories:
 The new Conyngham Hall junior parkrun will get underway at 9am this Sunday, September 20, giving children aged four to 14 the chance to take part in a free weekly 2km event.
 
 ![Knaresborough’s first junior parkrun launches Sunday](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/18/17/2026_09_18_16_38_30_704_ASH_FC480B47C0A64DB09A7C604FCB294A14.JPG?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 While Harrogate already has its own junior parkrun, the launch at Conyngham Hall means youngsters in Knaresborough will now have their own local event.

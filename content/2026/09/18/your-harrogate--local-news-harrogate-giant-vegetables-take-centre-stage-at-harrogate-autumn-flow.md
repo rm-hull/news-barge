@@ -3,28 +3,28 @@ title: Giant vegetables take centre stage at Harrogate Autumn Flower Show
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/giant-vegetables-take-centre-stage-at-harrogate-autumn-flower-show/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-18T19:00:27Z'
+scraped_at: '2026-09-18T22:58:05Z'
 published: '2026-09-18T00:00:00Z'
 description: The biggest vegetables in the region have been revealed at the Harrogate
   Autumn Flower Show, which opened today (Friday 18 September) at Newby Hall & Gardens
   near Ripon.
-image: https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg
 categories:
 - Local
 - Harrogate
 - Home, Garden & DIY
+image: https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg) 
+![](https://mmo.aiircdn.com/409/6aad4bf1a32400c2765.jpg)
 
 The biggest vegetables in the region have been revealed at the Harrogate Autumn Flower Show, which opened today (Friday 18 September) at Newby Hall & Gardens near Ripon.
 
 The annual NEHS Giant Vegetable Competition has once again produced some impressive entries, with growers competing across a range of categories. Pictured below are some of this year’s category winners with their winning entries:
 
-- Graham Haswell – giant marrow – 36.43kg
-- Chris Marriott – giant beetroot – 21.88kg
-- Paul Proud – longest cucumber – 1022mm
-- Stephen Purvis – giant leek – 8.4kg
+* Graham Haswell – giant marrow – 36.43kg
+* Chris Marriott – giant beetroot – 21.88kg
+* Paul Proud – longest cucumber – 1022mm
+* Stephen Purvis – giant leek – 8.4kg
 
 The show is also home to the National Onion Championship, attracting some of the country’s finest giant onion growers.
 

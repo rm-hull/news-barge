@@ -4,15 +4,15 @@ title: Windows smashed and fuel tank damaged after minibus targeted by vandals i
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/windows-smashed-and-fuel-tank-damaged-after-minibus-targeted-by-vandals-in-ripon-9077412
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-17T13:22:56Z'
+scraped_at: '2026-09-18T22:39:01Z'
 published: '2026-09-17T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses after
   a minibus was extensively damaged in Ripon.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM5NWQxMjNjLWNkNDUtNGFjNi1hMzlhLTAyMWU5NWYwN2IzNTo0ZTljMjZjZC1mMjAzLTQyNmYtOWUyYS00ODYzOWQzYjIzMjM=.jpg?crop=3:2,smart&trim=&width=865&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Society & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM5NWQxMjNjLWNkNDUtNGFjNi1hMzlhLTAyMWU5NWYwN2IzNTo0ZTljMjZjZC1mMjAzLTQyNmYtOWUyYS00ODYzOWQzYjIzMjM=.jpg?crop=3:2,smart&trim=&width=865&auto=webp&quality=75
 ---
 
 # Windows smashed and fuel tank damaged after minibus targeted by vandals in Ripon
@@ -26,7 +26,6 @@ Officers said an unknown offender or offenders caused significant damage to the 
 The minibus, which belongs to Lister House, suffered extensive damage as a result of the incident.
 
 ![The police are appealing for information and witnesses after a minibus belonging to Lister House in Ripon was extensively damaged in a criminal damage incident](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmM5NWQxMjNjLWNkNDUtNGFjNi1hMzlhLTAyMWU5NWYwN2IzNTo0ZTljMjZjZC1mMjAzLTQyNmYtOWUyYS00ODYzOWQzYjIzMjM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Officers have so far been unable to identify any CCTV footage capturing what happened and are now appealing for witnesses to come forward.

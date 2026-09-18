@@ -3,14 +3,14 @@ title: Russian hybrid attacks against Europe intensifying, says Macron
 source_url: https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:00:24Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: The French president says he has tasked the government with protecting
   critical infrastructure and defence industry sites.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg
 categories:
 - UK
 - News & Politics
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg
 ---
 
 ![Emmanuel Macron, wearing a dark suit and tie, gestures with his left hand at a lecturn in the Elysee Palace with French and European Union flags behind him.](https://ichef.bbci.co.uk/ace/standard/863/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg)

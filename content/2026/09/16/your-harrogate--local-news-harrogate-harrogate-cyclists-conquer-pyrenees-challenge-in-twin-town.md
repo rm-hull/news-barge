@@ -3,18 +3,18 @@ title: Harrogate cyclists conquer Pyrenees challenge in twin town
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-cyclists-conquer-pyrenees-challenge-in-twin-town/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-16T13:28:13Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-16T00:00:00Z'
 description: Ten Harrogate cyclists have conquered a gruelling challenge in the French
   Pyrenees while representing the town in Bagnères-de-Luchon.
-image: https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg
 categories:
 - Local
 - Harrogate
 - Travel
+image: https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg) 
+![](https://mmo.aiircdn.com/409/6aaa40902f28e8c7d9f.jpg)
 
 Ten Harrogate cyclists have conquered a gruelling challenge in the French Pyrenees while representing the town in Bagnères-de-Luchon.
 
@@ -28,7 +28,6 @@ Participants could choose between two timed routes. The 105km Eth Camino include
 
 ![](https://mmo.aiircdn.com/409/6aaa4083f130f1e525e.jpg)
 
-
 Both routes took cyclists over the Col des Ares, Col de Menté and Col du Portillon, briefly crossing the border into Spain.
 
 Temperatures of up to 36C added to the challenge, while competitors also had to meet strict cutoff times to remain in the event.
@@ -41,7 +40,6 @@ The event also offered the group an opportunity to celebrate Harrogate’s relat
 
 Rob Beagley, who completed the challenge alongside his son James, said:
 
-“It’s been a fantastic weekend. Luchon is a beautiful place, and it’s an honour to have flown the flag for our wonderful town of Harrogate.”
-
+> “It’s been a fantastic weekend. Luchon is a beautiful place, and it’s an honour to have flown the flag for our wonderful town of Harrogate.”
 
 The trip was also supported by Harrogate businesses Verity Frearson, Hornbeam Park Developments and Endless.

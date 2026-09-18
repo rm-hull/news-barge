@@ -4,17 +4,17 @@ title: Repairs to landslip in Knaresborough not expected until 2027 despite 2,00
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/repairs-to-landslip-in-knaresborough-not-expected-until-2027-despite-2000-signature-petition-9088156
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T12:59:21Z'
+scraped_at: '2026-09-18T22:39:08Z'
 published: '2026-09-18T00:00:00Z'
 description: Almost 2,000 people have signed a petition calling for urgent action
   to repair a landslip in Knaresborough amid fears further deterioration this winter
   could make the problem much worse.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkMDM5YjllLTM5MTctNDU5ZC04MDg2LWRhNzQ3Njg5ZDFmMzo0MGEyOGYxMC1jN2Q2LTQ2MWQtOTdjMy1hM2I1NDhlNjU4NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Society & Culture
 - News & Politics
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkMDM5YjllLTM5MTctNDU5ZC04MDg2LWRhNzQ3Njg5ZDFmMzo0MGEyOGYxMC1jN2Q2LTQ2MWQtOTdjMy1hM2I1NDhlNjU4NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Repairs to landslip in Knaresborough not expected until 2027 despite 2,000-signature petition
@@ -28,7 +28,6 @@ It will be considered by councillors on the Harrogate and Knaresborough area com
 The petition was organised by councillors Hannah Gostlow and Matt Walker, who represent the town on North Yorkshire Council and sit on Knaresborough Town Council.
 
 ![Almost 2,000 people have signed a petition calling for urgent action to repair a landslip on Viaduct Terrace in Knaresborough amid fears further deterioration this winter could make the problem much worse](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkMDM5YjllLTM5MTctNDU5ZC04MDg2LWRhNzQ3Njg5ZDFmMzo0MGEyOGYxMC1jN2Q2LTQ2MWQtOTdjMy1hM2I1NDhlNjU4NmE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 It calls for “meaningful stabilisation works” to begin before the onset of winter.

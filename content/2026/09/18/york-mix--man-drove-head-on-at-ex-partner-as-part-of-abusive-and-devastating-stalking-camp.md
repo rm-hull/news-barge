@@ -3,14 +3,14 @@ title: Man drove head-on at ex-partner as part of ‘devastating’ stalking cam
 source_url: https://www.yorkmix.com/man-drove-head-on-at-ex-partner-as-part-of-abusive-and-devastating-stalking-campaign
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T19:00:46Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/max-midgley-coxwold.webp
 categories:
 - Local
 - York
 - Business & Entrepreneurship
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/max-midgley-coxwold.webp
 ---
 
 A North Yorkshire man has been jailed for a prolonged and abusive stalking campaign against his ex partner.

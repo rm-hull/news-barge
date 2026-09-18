@@ -3,15 +3,15 @@ title: Harrogate police officers honoured after saving man's life at town centre
 source_url: https://www.harrogateadvertiser.co.uk/news/harrogate-police-officers-honoured-after-saving-mans-life-at-town-centre-hotel-9068399
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-17T19:43:32Z'
+scraped_at: '2026-09-18T22:39:03Z'
 published: '2026-09-17T00:00:00Z'
 description: Four Harrogate police officers who performed CPR on a suicidal man and
   helped save his life are to receive national life-saving honours.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkOGU2ZTFkLTgyMzYtNGE0ZC04YjUxLWU3MTY3NmQ2YzNiZDo1MTZiM2I1NC1lYzMyLTQ0MDgtYjA4MC04MTg3MDM5NGQyYjI=.jpg?crop=3:2,smart&trim=&width=550&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Society & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkOGU2ZTFkLTgyMzYtNGE0ZC04YjUxLWU3MTY3NmQ2YzNiZDo1MTZiM2I1NC1lYzMyLTQ0MDgtYjA4MC04MTg3MDM5NGQyYjI=.jpg?crop=3:2,smart&trim=&width=550&auto=webp&quality=75
 ---
 
 # Harrogate police officers honoured after saving man's life at town centre hotel
@@ -21,7 +21,6 @@ categories:
 PC Tom Lister, DS Steve Peachman, PS John Pepper and a fourth officer, who cannot be named, have each been awarded Royal Humane Society Resuscitation Certificates after their desperate fight to save a man's life at the town centre’s Travelodge.
 
 ![The Travelodge in the town centre where four police officers helped save a man's life.](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZkOGU2ZTFkLTgyMzYtNGE0ZC04YjUxLWU3MTY3NmQ2YzNiZDo1MTZiM2I1NC1lYzMyLTQ0MDgtYjA4MC04MTg3MDM5NGQyYjI=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 The officers were called to the hotel on the night of January 10 this year, after the man phoned police to say he was suicidal.

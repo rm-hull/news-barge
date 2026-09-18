@@ -4,17 +4,17 @@ title: Harrogate MP welcomes long-awaited appointment of chair to TEWV public in
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-mp-welcomes-long-awaited-appointment-of-chair-to-tewv-public-inquiry-by-government-9088234
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T13:00:38Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-18T00:00:00Z'
 description: Harrogate and Knaresborough MP Tom Gordon has said the appointment of
   a chair for the public inquiry into mental health care failings at Tees, Esk and
   Wear Valleys NHS Foundation Trust (TEWV) is a step forward for families “badly let
   down”.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGE5YmI5LWQ3MDItNDk0ZC05MTBlLWFiOWIwZTZiNTgzNzpmZjkwNWEyYS1lNjZhLTRmZmUtYjkwZC01YjZlNTJjODM2MDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Society & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGE5YmI5LWQ3MDItNDk0ZC05MTBlLWFiOWIwZTZiNTgzNzpmZjkwNWEyYS1lNjZhLTRmZmUtYjkwZC01YjZlNTJjODM2MDM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate MP welcomes long-awaited appointment of chair to TEWV public inquiry by Government
@@ -28,7 +28,6 @@ After the inquiry was announced in December 2025, he kept pressing ministers to 
 In the House of Commons in June, he warned that a chair "was meant already to be in place".
 
 ![Harrogate and Knaresborough MP Tom Gordon has welcomed the appointment of a chair for the public inquiry into mental health care failings at Tees, Esk and Wear Valleys NHS Foundation Trust. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjFiMGE5YmI5LWQ3MDItNDk0ZC05MTBlLWFiOWIwZTZiNTgzNzpmZjkwNWEyYS1lNjZhLTRmZmUtYjkwZC01YjZlNTJjODM2MDM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 He raised concerns that the inquiry could be "lost amid all the changes to the healthcare system" and urged the Health Secretary to "get a chair in place as soon as possible."

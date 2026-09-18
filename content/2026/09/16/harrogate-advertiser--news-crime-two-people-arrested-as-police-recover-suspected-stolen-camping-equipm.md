@@ -4,16 +4,16 @@ title: Two people arrested as police recover suspected stolen camping equipment 
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/two-people-arrested-as-police-recover-suspected-stolen-camping-equipment-in-harrogate-9067781
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:32:35Z'
+scraped_at: '2026-09-18T22:39:03Z'
 published: '2026-09-16T00:00:00Z'
 description: North Yorkshire Police is appealing for the public's help after recovering
   a trolley and a quantity of camping equipment believed to have been stolen from
   a vehicle in the Harrogate area.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFkNjNjNmVjLTZkNGUtNDMzZS1iMmQ1LTgzYTg0NTlmZThiZDpmNzQyODZiNC0yZWNkLTQ2NjYtODAzYy0wMTYzY2NlN2M4ZWU=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - News & Politics
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFkNjNjNmVjLTZkNGUtNDMzZS1iMmQ1LTgzYTg0NTlmZThiZDpmNzQyODZiNC0yZWNkLTQ2NjYtODAzYy0wMTYzY2NlN2M4ZWU=.jpg?crop=3:2,smart&trim=&width=800&auto=webp&quality=75
 ---
 
 # Two people arrested as police recover suspected stolen camping equipment in Harrogate
@@ -27,7 +27,6 @@ Both have since been released on conditional bail while enquiries continue.
 A spokesperson at North Yorkshire Police said: “If you recognise any of the items pictured, or believe they may belong to you, please get in touch with us.”
 
 ![The police are appealing for the public's help after recovering a trolley and a quantity of camping equipment believed to have been stolen from a vehicle in the Harrogate area](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmFkNjNjNmVjLTZkNGUtNDMzZS1iMmQ1LTgzYTg0NTlmZThiZDpmNzQyODZiNC0yZWNkLTQ2NjYtODAzYy0wMTYzY2NlN2M4ZWU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 If you have any information that could assist the police with their investigation, you should email [email protected]

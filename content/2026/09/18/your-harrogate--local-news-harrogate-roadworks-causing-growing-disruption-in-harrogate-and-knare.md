@@ -4,18 +4,18 @@ title: Roadworks causing growing disruption in Harrogate and Knaresborough, offi
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/roadworks-causing-growing-disruption-in-harrogate-and-knaresborough-officials-admit/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-18T13:00:30Z'
+scraped_at: '2026-09-18T22:58:06Z'
 published: '2026-09-18T00:00:00Z'
 description: Council officials have acknowledged the growing disruption caused by
   roadworks in Harrogate and Knaresborough.
-image: https://mmo.aiircdn.com/409/6891ac44de29c.jpg
 categories:
 - Local
 - Harrogate
 - News & Politics
+image: https://mmo.aiircdn.com/409/6891ac44de29c.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6891ac44de29c.jpg) 
+![](https://mmo.aiircdn.com/409/6891ac44de29c.jpg)
 
 Council officials have acknowledged the growing disruption caused by roadworks in Harrogate and Knaresborough.
 
@@ -31,31 +31,27 @@ Councillor Peter Lacey, who represents the Coppice Valley and Duchy in Harrogate
 
 He said:
 
-“We asked for this report because we know that the apparently random and disruptive impact of roadworks across the area is a significant concern to residents and businesses.
-
-“Whilst the report highlights the challenges and constraints in seeking to minimise this disruption, the committee will no doubt want to press for efforts to be redoubled, without which continued growth will push the town’s transport infrastructure to breaking point.”
-
+> “We asked for this report because we know that the apparently random and disruptive impact of roadworks across the area is a significant concern to residents and businesses.
+>
+> “Whilst the report highlights the challenges and constraints in seeking to minimise this disruption, the committee will no doubt want to press for efforts to be redoubled, without which continued growth will push the town’s transport infrastructure to breaking point.”
 
 Cllr Lacey said the report pointed to an historic lack of strategic planning and development in transport infrastructure in the towns.
 
 He added:
 
-“We’re hoping that as the York and North Yorkshire Mayor is visiting us for the same meeting, that he will hear first-hand of the challenges the town faces and work with North Yorkshire Council in the coming years to address them.”
-
+> “We’re hoping that as the York and North Yorkshire Mayor is visiting us for the same meeting, that he will hear first-hand of the challenges the town faces and work with North Yorkshire Council in the coming years to address them.”
 
 Councillor Monika Slater, who represents the Bilton Grange and New Park division, told the Local Democracy Reporting Service that the situation was exacerbated by a lack of public transport.
 
-“There just isn’t a credible alternative to using your car. We don’t have a circular route, meaning every bus you get on will take you into the centre of town.
-
-“And then to get where you actually wanted to go, you then have to take another bus, if there is one.”
-
+> “There just isn’t a credible alternative to using your car. We don’t have a circular route, meaning every bus you get on will take you into the centre of town.
+>
+> “And then to get where you actually wanted to go, you then have to take another bus, if there is one.”
 
 High Harrogate and Kingsley division councillor, Chris Aldred, said the level of disruption was always less during the summer school holidays.
 
 He added:
 
-“When the kids are back it is gridlocked. It tends to be on the main roads in and out.”
-
+> “When the kids are back it is gridlocked. It tends to be on the main roads in and out.”
 
 The report notes that the authority’s ability to prevent roadworks is limited.
 

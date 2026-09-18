@@ -4,15 +4,15 @@ title: North Yorkshire libraries thrive as almost two million visits are recorde
 source_url: https://www.harrogateadvertiser.co.uk/news/politics/north-yorkshire-libraries-thrive-as-almost-two-million-visits-are-recorded-in-a-year-9068233
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:31:57Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-16T00:00:00Z'
 description: Visits to North Yorkshire’s libraries have risen by six per cent in a
   year, with almost two million trips made to branches across the county.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ2NDBjYmMxLTA0NmYtNGM3NS04OWVhLWUzNjI1ZjEyZDAyYTo3MDE4NzBlMC0zODM2LTRhMWUtYjQ1ZS1lN2M0ZDdkMWU2NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ2NDBjYmMxLTA0NmYtNGM3NS04OWVhLWUzNjI1ZjEyZDAyYTo3MDE4NzBlMC0zODM2LTRhMWUtYjQ1ZS1lN2M0ZDdkMWU2NmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # North Yorkshire libraries thrive as almost two million visits are recorded in a year
@@ -26,7 +26,6 @@ The increase comes despite an overall five per cent fall in book issues compared
 The council said the reduction reflected a national trend, although physical borrowing was also under-recorded during the first two quarters of the year following the introduction of a new library management system.
 
 ![Visits to North Yorkshire’s libraries have risen by six per cent in a year, with almost two million trips made to branches across the county](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjQ2NDBjYmMxLTA0NmYtNGM3NS04OWVhLWUzNjI1ZjEyZDAyYTo3MDE4NzBlMC0zODM2LTRhMWUtYjQ1ZS1lN2M0ZDdkMWU2NmE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Digital borrowing continued to grow, with eBook and eAudio issues increasing by 11 per cent and eMagazine and eNewspaper issues rising by 16 per cent.

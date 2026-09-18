@@ -3,20 +3,22 @@ title: 'Resident Evil movie: Zach Cregger ''not prepared'' for fan response'
 source_url: https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T19:01:03Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: The video game adaptation is a hit with critics, but director Zach Cregger
   says the fan response surprised him.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c7/live/e4eb68c0-b373-11f1-a430-4d16ee157c41.jpg
 categories:
 - UK
 - News & Politics
 - Film & TV
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c7/live/e4eb68c0-b373-11f1-a430-4d16ee157c41.jpg
 ---
 
 ![Still from Resident Evil shows Bryan, played by Austin Abrams, desperately pushing against a set of double doors in a hospital hallway. His hands and face are covered in blood, which also matts his hair to his head. A small crowd of zombies can be seen through frosted panes in the doors, their hands pressed against the glass.](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/047b/live/991be0e0-b351-11f1-b949-71f91f81d1ab.jpg)
 
 Zach Cregger's Resident Evil follows Bryan - a courier having a very, very bad day at work
+
+* Published
 
 **One of the hottest horror directors on the planet adapting the world's most popular scary video game series?**
 

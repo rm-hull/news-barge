@@ -4,16 +4,16 @@ title: 'Inside story: Harrogate Round Table members behind internationally famou
 source_url: https://www.harrogateadvertiser.co.uk/news/people/inside-story-harrogate-round-table-members-behind-internationally-famous-horror-film-festival-9065300
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T13:27:15Z'
+scraped_at: '2026-09-18T22:39:01Z'
 published: '2026-09-16T00:00:00Z'
 description: Three Harrogate friends who launched a pop-up festival in their spare
   time have revealed how it turned into one of the world's best-known horror film
   festivals.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBmNzgzNGVkLWFlN2EtNDYzMi05NjlmLWUzZWFlNWY2MGExMzpjNGU3NTQ2NS1jYzZmLTQxNmItODk4OS1jMjg1MTU0YWJhNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Film & TV
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBmNzgzNGVkLWFlN2EtNDYzMi05NjlmLWUzZWFlNWY2MGExMzpjNGU3NTQ2NS1jYzZmLTQxNmItODk4OS1jMjg1MTU0YWJhNmE=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Inside story: Harrogate Round Table members behind internationally famous horror film festival
@@ -27,7 +27,6 @@ The friends had already run several charity beer festivals, as well as the Stray
 "We fancied giving something commercial a try but on a small scale,” said Gareth, Dead Northern Festival Director who also founded the Harrogate-based Odyssey Gaming Festival.
 
 ![Pictured giving a Q&A at a recent Thought Bubble Festival event are the team from Dead Northern horror film festival which was founded by three Harrogate friends. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjBmNzgzNGVkLWFlN2EtNDYzMi05NjlmLWUzZWFlNWY2MGExMzpjNGU3NTQ2NS1jYzZmLTQxNmItODk4OS1jMjg1MTU0YWJhNmE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 "We shared a passion for both beer and horror movies and decided to put on a Halloween Party with classic scary movies.

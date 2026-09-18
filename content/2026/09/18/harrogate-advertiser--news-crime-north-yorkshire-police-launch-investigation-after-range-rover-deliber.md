@@ -4,15 +4,15 @@ title: North Yorkshire Police launch investigation after Range Rover deliberatel
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/north-yorkshire-police-launch-investigation-after-range-rover-deliberately-damaged-in-knaresborough-9087881
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T12:59:21Z'
+scraped_at: '2026-09-18T22:39:04Z'
 published: '2026-09-18T00:00:00Z'
 description: North Yorkshire Police is appealing for information and witnesses after
   a car was deliberately damaged while parked on a road in Knaresborough.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUyYzJmYTFkLTdhYzEtNDVjOS1hNmE4LTUyMzAxZGEyNTBjNTpmNDY0YTAwZC1kN2VlLTRkODEtYWZhNi1hMGIwZDIyNWEzOGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - News & Politics
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUyYzJmYTFkLTdhYzEtNDVjOS1hNmE4LTUyMzAxZGEyNTBjNTpmNDY0YTAwZC1kN2VlLTRkODEtYWZhNi1hMGIwZDIyNWEzOGM=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # North Yorkshire Police launch investigation after Range Rover deliberately damaged in Knaresborough
@@ -26,7 +26,6 @@ The damage was discovered on Thursday, September 10, but officers believe the in
 Officers are now urging anyone who witnessed the damage being caused, or who has relevant CCTV, doorbell or dash cam footage, to come forward.
 
 ![The police are appealing for information and witnesses after black Range Rover was deliberately damaged while parked on Tentergate Road in Knaresborough](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjUyYzJmYTFkLTdhYzEtNDVjOS1hNmE4LTUyMzAxZGEyNTBjNTpmNDY0YTAwZC1kN2VlLTRkODEtYWZhNi1hMGIwZDIyNWEzOGM=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 You can also call North Yorkshire Police on 101.

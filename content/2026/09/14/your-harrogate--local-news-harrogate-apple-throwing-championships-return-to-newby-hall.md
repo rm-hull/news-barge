@@ -3,18 +3,18 @@ title: Apple Throwing Championships return to Newby Hall
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/apple-throwing-championships-return-to-newby-hall/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-14T15:00:59Z'
+scraped_at: '2026-09-18T22:58:08Z'
 published: '2026-09-14T00:00:00Z'
 description: Newby Hall's popular Apple Throwing Championships will return as part
   of its final event of the 2026 season.
-image: https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg
 categories:
 - Local
 - Harrogate
 - Sports
+image: https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg) 
+![](https://mmo.aiircdn.com/409/6aa7cec8907f853d788.jpg)
 
 Newby Hall's popular Apple Throwing Championships will return as part of its final event of the 2026 season.
 
@@ -30,7 +30,6 @@ Visitors will also be able to see heritage apple varieties grown in Newby Hall�
 
 ![](https://mmo.aiircdn.com/409/6aa7cec87baa85d401b.jpg)
 
-
 Head Gardener Lawrence Wright said the warm and dry summer had produced a smaller crop with “excellent concentrated flavour” but less juice.
 
 He said windfall apples also help feed wildlife across the estate, including fieldfares and other migratory birds.
@@ -45,7 +44,6 @@ Entertainment will include performances from Harrogate Spa Town Ukes and Beijing
 
 Newby Hall Commercial Director Stuart Gill said:
 
-“We’re proud to champion British apples and with more than 50 heritage varieties growing in our orchards, Apple Day is a brilliant way to celebrate the end of another fantastic season.”
-
+> “We’re proud to champion British apples and with more than 50 heritage varieties growing in our orchards, Apple Day is a brilliant way to celebrate the end of another fantastic season.”
 
 Tickets also include access to Newby Hall, its gardens, adventure playground, miniature railway and permanent exhibitions.

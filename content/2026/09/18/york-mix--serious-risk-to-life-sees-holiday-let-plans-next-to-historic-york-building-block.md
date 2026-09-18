@@ -4,14 +4,14 @@ title: ‘Serious risk to life’ sees holiday let plans next to historic York b
 source_url: https://www.yorkmix.com/serious-risk-to-life-sees-holiday-let-plans-next-to-historic-york-building-blocked
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T04:34:29Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cumberland-villa-cumberland-street-york-gsv.webp
 categories:
 - Local
 - York
 - History
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/cumberland-villa-cumberland-street-york-gsv.webp
 ---
 
 Plans for a holiday let next to an historic York building have been blocked.

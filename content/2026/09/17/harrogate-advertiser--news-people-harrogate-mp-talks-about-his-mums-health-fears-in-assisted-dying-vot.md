@@ -4,15 +4,15 @@ title: Harrogate MP talks about his mum's health fears in Assisted Dying vote in
 source_url: https://www.harrogateadvertiser.co.uk/news/people/harrogate-mp-talks-about-his-mums-health-fears-in-assisted-dying-vote-in-house-of-commons-9075899
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-17T13:24:14Z'
+scraped_at: '2026-09-18T22:39:00Z'
 published: '2026-09-17T00:00:00Z'
 description: Harrogate’s MP has opened up in the House of Commons about his mum’s
   health in an emotional speech in favour of assisted dying.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4YmVhN2ExLThiMTAtNGNhMS05Y2Q1LWU5MjEyNjcxZTJiNjozN2JlODBmZS03ZDcwLTQzODEtODhkZS05ZDljNmUwY2Y4NDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Society & Culture
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4YmVhN2ExLThiMTAtNGNhMS05Y2Q1LWU5MjEyNjcxZTJiNjozN2JlODBmZS03ZDcwLTQzODEtODhkZS05ZDljNmUwY2Y4NDk=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Harrogate MP talks about his mum's health fears in Assisted Dying vote in House of Commons
@@ -28,7 +28,6 @@ It was his mum who found him.
 ![Tom Gordon, the Liberal Democrat MP for Harrogate and Knaresborough, spoke in Parliament during the debate on the Assisted Dying Bill, drawing on two deaths in his own family's life and his mum’s own health fears. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjM4YmVhN2ExLThiMTAtNGNhMS05Y2Q1LWU5MjEyNjcxZTJiNjozN2JlODBmZS03ZDcwLTQzODEtODhkZS05ZDljNmUwY2Y4NDk=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
 
 
-
 He was on the floor of his home, she told her son - as if he had been trying to reach the door on the other side of the room, where his shotgun hung.
 
 He also shared the story of a former neighbour, a pig farmer, who was suffering in great pain from a terminal illness.
@@ -38,7 +37,6 @@ One summer's day, Tom Gordon heard a loud bang from across the road. He ran over
 "I will never forget that,” said Harrogate’s MP.
 
 ![Campaigners from Dignity in Dying make their point during a previous bid to pass the Assisted Dying Bill. (Picture contributed)](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOmQ3MmNhNjc0LTZjZmEtNDZmZi1iOWUwLWQ0ZGQ3MjRiYWNmODo3ZWQyZDg2My1lYjAzLTRlZGUtODIxNC1hMWMyOGJkOTZhMDE=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 Mr Gordon said he didn't know whether either man would have chosen an assisted death, had the option existed - but that they deserved better than what happened to them.

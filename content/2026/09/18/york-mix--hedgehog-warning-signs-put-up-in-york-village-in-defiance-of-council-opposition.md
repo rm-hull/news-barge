@@ -3,14 +3,14 @@ title: Hedgehog warning signs put up in York village in defiance of council oppo
 source_url: https://www.yorkmix.com/hedgehog-warning-signs-put-up-in-york-village-in-defiance-of-council-opposition
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T13:00:27Z'
+scraped_at: '2026-09-18T22:42:36Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-councillor-christian-vassie-hedgehog-sign.webp
 categories:
 - Local
 - York
 - News & Politics
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/york-councillor-christian-vassie-hedgehog-sign.webp
 ---
 
 A councillor has defied opposition to the installation of signs warning drivers about hedgehogs on a York village’s roads by putting them up himself.

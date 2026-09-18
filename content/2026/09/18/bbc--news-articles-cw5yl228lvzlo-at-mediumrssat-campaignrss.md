@@ -4,7 +4,7 @@ title: When a beloved tree began withering away, locals suspected a killer in th
 source_url: https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T22:31:37Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: A neighbourhood’s fight to save a cherished ginkgo pits them against
   an unlikely foe.
@@ -18,6 +18,8 @@ image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0bfd/live/f534ea
 ![A narrow residential street lined with stone walls is framed by two striking autumn trees, one with bright golden-yellow leaves and the other with deep red foliage. Fallen leaves blanket parts of the road and sidewalk, while overhead utility wires stretch across a blue sky with scattered clouds.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/f294/live/28164a40-b19c-11f1-bc1f-3f186ca4140c.jpg)
 
 ## When a beloved tree began withering away, locals suspected a killer in their midst
+
+* Published
 
 **Every summer, Seoul turns a deep green, growing dense and lush under humid skies.**
 
@@ -157,9 +159,9 @@ The neighbourhood is still hoping for a miracle.
 
 Because they cannot imagine an autumn in which they don't pause to admire the ginkgo at its finest, swathed in a feathery coat of gold.
 
-![Several people standing outdoors beneath tall trees, arms around each other in a circle.](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/8175/live/bbde7cc0-b372-11f1-a430-4d16ee157c41.jpg)
+![Several people standing outdoors beneath tall trees, arms around each other in a circle.
+]([https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/8175/live/bbde7cc0-b372-11f1-a430-4d16ee157c41.jpg](https://ichef.bbci.co.uk/ace/standard/1504/cpsprodpb/8175/live/bbde7cc0-b372-11f1-a430-4d16ee157c41.jpg))
 
-- ![The tree pictured in sunnier weather with the wall stretching out beyond it](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8f1f/live/cc1c2ff0-36e7-11f0-b84e-417dbe11adb9.jpg)
-- ![Two participants - Ruby and Minho - wearing light green vests and event lanyards stand in a courtyard, joining hands to form a heart shape.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg)
-  - Published19 October 2025
- ![A composite image of a woman in a cream-coloured jumper with light blue writing reading a book on the left-hand side, and on the right-hand side of the composite image, the purple and orange book cover of 'I Want to Die but I Want to Eat Tteokbokki' by Baek Se-hee.](https://ichef.bbci.co.uk/ace/standard/757/cpsprodpb/3224/live/a155fe60-ac1a-11f0-ba75-093eca1ac29b.jpg)
+* ![The tree pictured in sunnier weather with the wall stretching out beyond it](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8f1f/live/cc1c2ff0-36e7-11f0-b84e-417dbe11adb9.jpg)
+* ![Two participants - Ruby and Minho - wearing light green vests and event lanyards stand in a courtyard, joining hands to form a heart shape.](https://ichef.bbci.co.uk/ace/standard/944/cpsprodpb/932a/live/fd05d8d0-7bb2-11f1-9510-1546718f668b.jpg)
+* + Published19 October 2025![A composite image of a woman in a cream-coloured jumper with light blue writing reading a book on the left-hand side, and on the right-hand side of the composite image, the purple and orange book cover of 'I Want to Die but I Want to Eat Tteokbokki' by Baek Se-hee.](https://ichef.bbci.co.uk/ace/standard/757/cpsprodpb/3224/live/a155fe60-ac1a-11f0-ba75-093eca1ac29b.jpg)

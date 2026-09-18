@@ -3,14 +3,14 @@ title: Workshops, walks, and performances – York's river trail returns
 source_url: https://www.yorkmix.com/workshops-walks-and-performances-yorks-river-trail-returns
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T04:33:31Z'
+scraped_at: '2026-09-18T22:42:35Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Stories-Nature-and-Resilience.webp
 categories:
 - Local
 - York
 - Arts & Culture
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Stories-Nature-and-Resilience.webp
 ---
 
 Discover a new way to explore York’s rivers in returning trail.

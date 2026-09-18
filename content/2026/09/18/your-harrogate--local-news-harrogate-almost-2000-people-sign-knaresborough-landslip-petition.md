@@ -3,20 +3,20 @@ title: Almost 2,000 people sign Knaresborough landslip petition
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/almost-2000-people-sign-knaresborough-landslip-petition/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-18T13:00:13Z'
+scraped_at: '2026-09-18T22:58:06Z'
 published: '2026-09-18T00:00:00Z'
 description: Almost 2,000 people have signed a petition calling for urgent action
   to repair a landslip in Knaresborough amid fears further deterioration this winter
   could make the problem much worse.
-image: https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg
 categories:
 - Local
 - Harrogate
 - Health & Fitness
 - Society & Culture
+image: https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg) 
+![](https://mmo.aiircdn.com/409/6aacdc910f7b81e1712.jpg)
 
 Almost 2,000 people have signed a petition calling for urgent action to repair a landslip in Knaresborough amid fears further deterioration this winter could make the problem much worse.
 
@@ -30,10 +30,9 @@ It calls for “meaningful stabilisation works” to begin before the onset of w
 
 It states:
 
-“The Knaresborough Viaduct is the heart of our town’s character and one of North Yorkshire’s most treasured landmarks.
-
-“However, the ongoing landslip at Viaduct Terrace now threatens the safety, beauty, and economic vitality of our riverside.”
-
+> “The Knaresborough Viaduct is the heart of our town’s character and one of North Yorkshire’s most treasured landmarks.
+>
+> “However, the ongoing landslip at Viaduct Terrace now threatens the safety, beauty, and economic vitality of our riverside.”
 
 Those behind the campaign warn that delaying repairs until 2027 risks further erosion and could turn what they describe as a manageable project into a “multi-million-pound disaster”.
 
@@ -41,10 +40,9 @@ They also argue the condition of the riverside could affect independent shops, c
 
 Cllr Gostlow told the Local Democracy Reporting Service:
 
-“The longer it takes to repair, the more impact it has on our town as a huge tourist destination and the waterside being a huge part of that.
-
-“The aim of the petition is to ensure that the council knows the strength of feeling from residents on the issue and the significance that area has on the whole town.”
-
+> “The longer it takes to repair, the more impact it has on our town as a huge tourist destination and the waterside being a huge part of that.
+>
+> “The aim of the petition is to ensure that the council knows the strength of feeling from residents on the issue and the significance that area has on the whole town.”
 
 However, a report prepared for councillors reveals that work is already progressing towards reconstructing Viaduct Terrace.
 

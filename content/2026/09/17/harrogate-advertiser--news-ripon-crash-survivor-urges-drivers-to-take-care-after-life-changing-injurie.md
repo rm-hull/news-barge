@@ -3,16 +3,16 @@ title: Ripon crash survivor urges drivers to take care after life-changing injur
 source_url: https://www.harrogateadvertiser.co.uk/news/ripon-crash-survivor-urges-drivers-to-take-care-after-life-changing-injuries-9078577
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-17T19:43:12Z'
+scraped_at: '2026-09-18T22:39:03Z'
 published: '2026-09-17T00:00:00Z'
 description: A Ripon man who suffered life-changing brain and spinal injuries in a
   crash is speaking out during Major Trauma Awareness Week to urge drivers to take
   greater care on the roads.
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/58/Josh-sitting-in-a-wheelchair-in-hospital-for-the-first-time.jpeg?trim=163,0,617,0&crop=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Technology & Software
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/58/Josh-sitting-in-a-wheelchair-in-hospital-for-the-first-time.jpeg?trim=163,0,617,0&crop=&width=1200&auto=webp&quality=75
 ---
 
 # Ripon crash survivor urges drivers to take care after life-changing injuries
@@ -22,7 +22,6 @@ categories:
 Joshua Kay-Shaw was 18 and travelling to York to sit an accounting exam when the car he was a passenger in lost control and collided with another vehicle on Marston Lane, in the city, on December 15, 2023.
 
 ![Josh sitting in a wheelchair in hospital for the first time.](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/58/Josh-sitting-in-a-wheelchair-in-hospital-for-the-first-time.jpeg?trim=163,0,617,0&crop=&width=640&quality=65)
-
 
 
 He suffered a traumatic brain injury and spinal cord injury, as well as a fractured breastbone, four fractured ribs, a punctured lung and injuries to his liver and spleen.
@@ -74,7 +73,6 @@ He said the experience had also changed his outlook and made him more outgoing.
 “I think it's because I've come to realise that there is more to life and my attitude has changed,” he said.
 
 ![Josh at a Spinal Track event at Silverstone](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/15/36/Josh-at-a-Spinal-Track-event-at-Silverstone.jpeg?trim=500,0,500,0&width=640&quality=65)
-
 
 
 Joshua is now hoping to regain more of his independence and eventually return to work.

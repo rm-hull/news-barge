@@ -3,20 +3,22 @@ title: MI5 accepts it gave evidence based on lies in neo-Nazi spy case
 source_url: https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T13:00:18Z'
+scraped_at: '2026-09-18T23:04:15Z'
 published: '2026-09-18T00:00:00Z'
 description: It is the first time MI5 has confirmed the BBC's revelation that it gave
   evidence based on lies in court while defending the violent informant.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png
 categories:
 - UK
 - News & Politics
 - True Crime
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png
 ---
 
 ![Composite styled image of a shadowy figure, with an orange box around him. The letters MI5 are prominent in the top left of the frame. And the exterior of Thames House in London is also pictured with a light blue colour wash.](https://ichef.bbci.co.uk/ace/standard/801/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png)
 
 The case centres around a BBC investigation over how an MI5 agent used his role to abuse his girlfriend
+
+* Published
 
 **The security service has accepted it gave evidence based on lies to three courts and that senior MI5 officers were repeatedly dishonest.**
 
@@ -24,7 +26,7 @@ It is the first time MI5 has accepted that lies were told to the courts while de
 
 The lies were revealed by the BBC in February 2025, which the security service then vehemently denied.
 
-Timothy Otty KC, representing MI5, announced the position during a High Court hearing in London on Friday.
+Tim Otty KC, representing MI5, announced the position during a High Court hearing in London on Friday.
 
 He said "MI5 accepts without reservation" the findings of a damning report which concluded that it gave evidence based on "lies" about having kept to its core secrecy policy - known as 'neither confirm nor deny' (NCND) - about the agent status of the neo-Nazi informant.
 
@@ -50,7 +52,7 @@ He said Officer 2 had resigned from the service and that Officer 3 had been susp
 
 Lawyers for both officers also argued against launching contempt proceedings.
 
-Matthew Butt KC, for Officer 2, said said the officer accepted that his conduct had fallen "below the standard expected of him", for which he apologised and expressed regret.
+Matthew Butt KC, for Officer 2, said the officer accepted that his conduct had fallen "below the standard expected of him", for which he apologised and expressed regret.
 
 But he said he denied acting dishonestly or having interfered with the administration of justice, and did not accept the report's findings.
 
@@ -61,6 +63,10 @@ He said the evidence presented by Sir John fell short of the threshold for conte
 Meanwhile, lawyers for the BBC said the corporation considered the threshold had been met and said there was a "very clear public interest" in doing so.
 
 Jude Bunting KC said providing false evidence was "a particularly serious affront to the administration of justice" and noted that while MI5 now offered a sincere apology to the court, its response when the lies were first exposed was "not consistent with transparency or responsibility".
+
+At the conclusion of the hearing, the Lady Chief Justice said it had been a "serious day addressing serious matters".
+
+She said a judgment will be issued at a later date.
 
 ![A heavily blurred photo of X, who is wearing a black T-shirt and holding a large machete](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3923/live/09651cf0-e8b9-11ef-bd1b-d536627785f2.jpg)
 
@@ -85,3 +91,13 @@ Because of the BBC's revelations, two official inquiries took place which absolv
 But, in July 2025, a panel of senior High Court judges ruled that the investigations carried out by MI5 suffered from "serious procedural deficiencies" and that "we cannot rely on their conclusions".
 
 Sir John's investigation was ordered by the prime minister in September 2025 after MI5's explanations about what happened were rejected as deficient and unreliable.
+
+Charlotte Kilroy KC, for Beth, said contempt proceedings should be brought against Officers 2 and 3, as well as the Director General of MI5 Sir Ken McCallum in his capacity as the person with corporate responsibility for the organisation.
+
+In written submissions, she said the false evidence "did not emanate from one individual, or a "bad apple'" and was "sustained and long-lasting".
+
+She added: "There have been repeated efforts to prevent the truth emerging. The reality of the dishonesty and false evidence that has taken place has only emerged because MI5 was faced with incontrovertible proof of its wrongdoing."
+
+She told the court that the "function" of the Goldring report was to allow it to consider whether to bring contempt proceedings, meaning the report was never meant to be the final word.
+
+"Contempt proceedings are essential", she said.

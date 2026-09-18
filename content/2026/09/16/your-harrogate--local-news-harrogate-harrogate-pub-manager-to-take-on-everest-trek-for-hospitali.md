@@ -3,18 +3,18 @@ title: Harrogate pub manager to take on Everest trek for hospitality charity
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-pub-manager-to-take-on-everest-trek-for-hospitality-charity/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-16T13:28:07Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-16T00:00:00Z'
 description: The manager of a popular Harrogate pub is preparing for a 19-day trek
   to Everest Base Camp to fundraise for a charity that supported her.
-image: https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg
 categories:
 - Local
 - Harrogate
 - Travel
+image: https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg) 
+![](https://mmo.aiircdn.com/409/6aaa61f69e8a5d1a6b2.jpg)
 
 The manager of a popular Harrogate pub is preparing for a 19-day trek to Everest Base Camp to fundraise for a charity that supported her.
 
@@ -24,8 +24,7 @@ Louise has worked in the industry since she was 18.
 
 Speaking about the charity, she said:
 
-"I had an unfortunate incident in London and used The Burnt Chef Project's support line after my shift. They kept me going."
-
+> "I had an unfortunate incident in London and used The Burnt Chef Project's support line after my shift. They kept me going."
 
 After moving to Knaresborough, Louise became an ambassador for the charity.
 

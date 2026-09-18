@@ -4,19 +4,19 @@ title: '24 pix: First look inside York gallery new exhibition with Turner, Blake
 source_url: https://www.yorkmix.com/24-pix-first-look-inside-york-gallery-new-exhibition-with-turner-blake-etty-and-flaxman
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-17T19:43:09Z'
+scraped_at: '2026-09-18T22:42:34Z'
 published: '2026-09-17T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-3.webp
 categories:
 - Local
 - York
 - Arts & Culture
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-3.webp
 ---
 
 A brand new exhibition celebrating the life and legacy of a York-born artist who influenced the likes of Turner and Blake will open tomorrow.
 
-York Art Gallery’s next major exhibition *Turner, Wedgwood & Beyond: Inspired by Flaxman* will open**tomorrow, Friday18 September 2026**.
+York Art Gallery’s next major exhibition Turner, Wedgwood & Beyond: Inspired by Flaxman will open tomorrow, Friday 18 September 2026.
 
 Marking 200 years since the death of York-born artist John Flaxman, the exhibition celebrates his life, work and lasting influence on art and design.
 
@@ -38,7 +38,7 @@ It features over 100 works across, with loans from 16 different lenders, includi
 
 “So my hope is that people will come to this exhibition, perhaps not knowing who Flaxman is or not being particularly familiar with his work, but come away with a newfound interest around an artist whose range and reach of his work was international.
 
-“If you have seen *The Odyssey (2026)* film, you will recognise some of those scenes which are depicted in the illustrations that he made for Homer’s Odyssey and Iliad, as well as his Dante drawings.”
+“If you have seen The Odyssey (2026) film, you will recognise some of those scenes which are depicted in the illustrations that he made for Homer’s Odyssey and Iliad, as well as his Dante drawings.”
 
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-14.webp)
 
@@ -56,44 +56,26 @@ The final room in the exhibition is interactive – where you can be inspired by
 
 “I hope that some people may know Flaxman, and that if you don’t, come and find out and see all these other interesting artists and works alongside him too.”
 
-*Turner, Wedgwood & Beyond: Inspired by Flaxman* runs from**18 September 2026 until 17 January 2027** and is included in general admission to York Art Gallery.
+Turner, Wedgwood & Beyond: Inspired by Flaxman runs from 18 September 2026 until 17 January 2027 and is included in general admission to York Art Gallery.
 
 ## Gallery
 
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-18.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-25.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-23.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-15.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-22.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/20260917_095651.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-2.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-6.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-7.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-19.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-13.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-10.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-20.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-8.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/20260917_095833.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-12.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-4.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman.webp)
-
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/Turner-Wedgwood-Beyond-Inspired-by-Flaxman-17.webp)

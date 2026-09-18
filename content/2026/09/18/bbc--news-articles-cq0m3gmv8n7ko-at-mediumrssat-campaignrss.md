@@ -3,7 +3,7 @@ title: JP Morgan struggling to forecast oil prices due to US-Iran war
 source_url: https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T21:12:32Z'
+scraped_at: '2026-09-18T23:04:14Z'
 published: '2026-09-18T00:00:00Z'
 description: The bank said it "assumed" there would be economic red lines, like oil
   at $100 a barrel, that the US would be unwilling the cross.
@@ -15,7 +15,9 @@ categories:
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg
 ---
 
-![A Gambia-flagged tanker vessel Bili is pictured anchored in the Strait of Hormuz off Bandar Abbas in southern Iran in May.](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg)
+![A Gambia-flagged tanker vessel Bili is pictured anchored in the Strait of Hormuz off Bandar Abbas in southern Iran in May. ](https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg)
+
+* Published
 
 **Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that "we simply don't know how to model the endgame".**
 

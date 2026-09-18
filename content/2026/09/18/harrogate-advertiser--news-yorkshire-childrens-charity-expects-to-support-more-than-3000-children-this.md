@@ -4,15 +4,15 @@ title: Yorkshire Children’s Charity expects to support more than 3,000 childre
 source_url: https://www.harrogateadvertiser.co.uk/news/yorkshire-childrens-charity-expects-to-support-more-than-3000-children-this-year-9090207
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-18T19:01:00Z'
+scraped_at: '2026-09-18T22:39:07Z'
 published: '2026-09-18T00:00:00Z'
 description: Yorkshire Children’s Charity is expecting to support more than 3,000
   children this winter as demand for its Winter Support Campaign continues to rise.
-image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Family & Parenting
+image: https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75
 ---
 
 # Thousands of winter items packed at Thorp Arch warehouse to support Yorkshire children
@@ -25,8 +25,7 @@ The Yorkshire Children’s Charity (YCC) has already received more than 2,500 ap
 
 The charity is now anticipating around 3,000 children will need their help this year- an increase of approximately 25 per cent since last year.
 
-![Yorkshire Children’s Charity’s (YCC) warehouse at Thorp Arch, as staff and volunteers begin packing thousands of coats, shoes, pyjamas and bedding to support children across Yorkshire](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=640&quality=65)
-
+![Yorkshire Children’s Charity’s (YCC) warehouse at Thorp Arch, as staff and volunteers begin packing thousands of coats, shoes, pyjamas and bedding to support children across Yorkshire ](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_04_15_751_ASH_1F1C3FB2EDBA4CCC9E92821884CCA851.JPG?crop=3:2,smart&trim=&width=640&quality=65)
 
 
 Charlotte Farrington, Chief Executive Officer and founder of YCC, said schools are continuing to report “incredibly high” levels of need among families.
@@ -42,7 +41,6 @@ She told us: “When children arrive at school warm, dry and ready to learn, we 
 She urged families who are struggling to ask their school about the support available.
 
 ![YCC staff and volunteers packing thousands of coats, shoes, pyjamas and bedding at Thorp Arch, near Wetherby.](https://www.harrogateadvertiser.co.uk/jpim-static/image/2026/09/17/09/2026_09_17_08_03_55_194_ASH_CCD42FD23C134989A2A7792610750B03.JPG?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 “We are here, we want to do what we can to try and make life that little bit brighter for the thousands of children across Yorkshire that are experiencing difficulties,” she added.

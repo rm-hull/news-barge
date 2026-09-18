@@ -3,17 +3,17 @@ title: Ripon among UK's top cities for missing parcels
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/ripon-among-uks-top-cities-for-missing-parcels/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-17T13:23:35Z'
+scraped_at: '2026-09-18T22:58:05Z'
 published: '2026-09-17T00:00:00Z'
 description: Ripon has ranked fourth in a study of online searches about missing parcels.
-image: https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg
 categories:
 - Local
 - Harrogate
 - Education & Learning
+image: https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg) 
+![](https://mmo.aiircdn.com/409/6aab98ac0ae67abc43a.jpg)
 
 Ripon has ranked fourth in a study of online searches about missing parcels.
 
@@ -31,9 +31,8 @@ The figures measure searches, rather than the number of parcels that have gone m
 
 Ed Spence, CEO and co-founder of Porta Delivery, said:
 
-“Getting a delivery is a stressful experience even without the worry that it might not arrive.
-
-“People may need to take time off from work or move their schedules around to suit the delivery company instead of the other way around.”
-
+> “Getting a delivery is a stressful experience even without the worry that it might not arrive.
+>
+> “People may need to take time off from work or move their schedules around to suit the delivery company instead of the other way around.”
 
 Lichfield completed the top five, followed by Salisbury and Ely.

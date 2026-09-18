@@ -3,20 +3,22 @@ title: Police begin operation to move migrants from Ceuta beaches
 source_url: https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss
 source_site: BBC News
 source_slug: bbc
-scraped_at: '2026-09-18T12:59:13Z'
+scraped_at: '2026-09-18T23:04:14Z'
 published: '2026-09-18T00:00:00Z'
 description: Police reportedly fired into the air on Friday morning as they struggled
   to contain crowds jostling to secure a place at the tented site.
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg
 categories:
 - UK
 - News & Politics
 - Society & Culture
+image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg
 ---
 
 ![Police officers in riot gear push back a densely packed crowd of migrants during a chaotic transfer operation in Ceuta's port area](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/13d1/live/a40e99b0-b34d-11f1-bc1f-3f186ca4140c.jpg)
 
-Migrants in Ceuta push Spanish Civil Guard members as they are transferred to a camp
+Police officers struggled to manage the chaos at the migrant camp in the port area
+
+* Published
 
 **Police have begun moving hundreds of migrants in Ceuta to a new tented site in the port area of the Spanish territory in north Africa.**
 
@@ -24,7 +26,7 @@ Officers struggled to contain crowds of people jostling to secure a place at the
 
 Several hundred migrants have now reached the camp, which has a capacity for 1,700 people.
 
-Most of the 72,000 migrants who breached the border from Morocco in July have returned, but it is believed that more than 13,000 remain in the enclave.
+Most of the 72,000 migrants who breached the border from Morocco in July have returned. Ceuta's authorities have estimated that 13,000 remain in the enclave, but the Spanish central government has said it is lower.
 
 The operation began at about 07:00 local time (05:00 GMT) on Friday, with more than 3,000 migrants being transferred, according to the Spanish government-owned news agency Efe.
 
@@ -49,6 +51,10 @@ Ceuta's Mayor Juan Jesus Vivas told lawmakers in the European Parliament earlier
 The opposition also accused Sánchez of knowing about the influx of migrants in advance. Sánchez has insisted that it was impossible to predict, but according to government documents, its intelligence services had warned of social media calls for a mass migrant crossing into Ceuta the day before the events happened.
 
 Ester Muñoz of the conservative People's Party said the government was "directly responsible for the invasion of Ceuta and for those who died".
+
+Sanchez has blamed trafficking gangs and has also said the crisis was sparked by hoaxes and rumours spread by social media.
+
+Ceuta was "a humanitarian crisis and also an administrative challenge within the city itself", the prime minister said.
 
 ![Spanish Prime Minister Pedro Sánchez addresses lawmakers in parliament, speaking at a lectern with hands outstretched, while several seated politicians look on behind him](https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/69c6/live/93f4de10-b350-11f1-b1d1-571ed4d7ff2c.jpg)
 

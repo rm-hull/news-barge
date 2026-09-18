@@ -3,18 +3,18 @@ title: Harrogate group raise more than £40,000 with cycle to Bordeaux
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-group-raise-more-than-40000-with-cycle-to-bordeaux/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-18T12:59:05Z'
+scraped_at: '2026-09-18T22:58:08Z'
 published: '2026-09-18T00:00:00Z'
 description: Six friends from the Harrogate area have raised more than £40,000 for
   Yorkshire’s Brain Tumour Charity after cycling 470 miles from London to Bordeaux.
-image: https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg
 categories:
 - Local
 - Harrogate
 - Travel
+image: https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg) 
+![](https://mmo.aiircdn.com/409/6aace649ecba28cabc7.jpg)
 
 Six friends from the Harrogate area have raised more than £40,000 for Yorkshire’s Brain Tumour Charity after cycling 470 miles from London to Bordeaux.
 
@@ -25,7 +25,6 @@ They took on the challenge after a friend’s wife was diagnosed with a brain tu
 The group wanted to raise money for a cause close to them while supporting people across Yorkshire affected by the condition.
 
 ![](https://mmo.aiircdn.com/409/6aace6a6c11c1f71570.jpg)
-
 
 Their route included a ferry crossing, but the days on the road were far from straightforward.
 

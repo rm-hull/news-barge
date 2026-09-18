@@ -3,14 +3,14 @@ title: 'Watch: Police chase ‘stolen’ quad bike along main North Yorkshire ro
 source_url: https://www.yorkmix.com/watch-police-chase-stolen-quad-bike-along-main-north-yorkshire-road
 source_site: York Mix
 source_slug: york-mix
-scraped_at: '2026-09-18T13:00:44Z'
+scraped_at: '2026-09-18T22:42:36Z'
 published: '2026-09-18T00:00:00Z'
 description: ''
-image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-quad-bike-stolen-a171-police-video-ii.webp
 categories:
 - Local
 - York
 - Travel
+image: https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-quad-bike-stolen-a171-police-video-ii.webp
 ---
 
 Footage of an extraordinary police chase of a suspect on a stolen quad bike has been released by police.
@@ -19,7 +19,7 @@ Taken at 4.15am on Thursday morning, it shows officers pursuing the vehicle alon
 
 It came shortly after someone had dialled 999 to report their red quad bike stolen.
 
-**Video**
+Video
 
 Officers travelling towards Whitby on the A171 spot the suspected stolen quad bike heading in the opposite direction towards Scaling Dam.
 
@@ -29,11 +29,11 @@ At one point the suspect discards a phone from his pocket. It was later recovere
 
 At 4.39am, just 24 minutes after the initial report, a man in his 30s from the Cleveland area was arrested on suspicion of:
 
-- Theft of a motor vehicle
-- Dangerous driving
-- Failing to stop for police
-- Driving without insurance
-- Driving otherwise than in accordance with a licence.
+* Theft of a motor vehicle
+* Dangerous driving
+* Failing to stop for police
+* Driving without insurance
+* Driving otherwise than in accordance with a licence.
 
 ![](https://wp.theyorkmix.com/wp-content/uploads/2026/09/north-yorkshire-police-quad-bike-stolen-a171-police-video-2.webp)
 

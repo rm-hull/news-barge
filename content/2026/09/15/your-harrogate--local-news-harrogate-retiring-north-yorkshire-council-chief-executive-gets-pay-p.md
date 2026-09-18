@@ -4,19 +4,19 @@ title: Retiring North Yorkshire Council chief executive gets pay package of almo
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/retiring-north-yorkshire-council-chief-executive-gets-pay-package-of-almost-245000/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-15T11:27:14Z'
+scraped_at: '2026-09-18T22:58:06Z'
 published: '2026-09-15T00:00:00Z'
 description: North Yorkshire Council's retiring chief executive received a total pay
   package worth almost £245,000 during the last financial year, new figures show.
-image: https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg
 categories:
 - Local
 - Harrogate
 - Personal Finance & Investing
 - Business & Entrepreneurship
+image: https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg) 
+![](https://mmo.aiircdn.com/409/6a8ed333e354a825e71.jpg)
 
 North Yorkshire Council's retiring chief executive received a total pay package worth almost £245,000 during the last financial year, new figures show.
 

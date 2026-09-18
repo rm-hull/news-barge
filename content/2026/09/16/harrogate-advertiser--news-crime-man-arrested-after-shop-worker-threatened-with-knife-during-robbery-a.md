@@ -4,16 +4,16 @@ title: Man arrested after shop worker threatened with knife during robbery at Ha
 source_url: https://www.harrogateadvertiser.co.uk/news/crime/man-arrested-after-shop-worker-threatened-with-knife-during-robbery-at-harrogate-store-9067329
 source_site: Harrogate Advertiser
 source_slug: harrogate-advertiser
-scraped_at: '2026-09-16T19:32:57Z'
+scraped_at: '2026-09-18T22:39:06Z'
 published: '2026-09-16T00:00:00Z'
 description: North Yorkshire Police has arrested a man on suspicion of robbery after
   a convenience store worker was allegedly threatened with a knife during an armed
   raid in Harrogate.
-image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZjMWM5NjgzLTE4YjQtNDBiMy05MzVkLTFkNTUzMTc1NjJkZDozNTgzNzZmNy0yZmVmLTRlNGItYjIyZi0wNzA5MTM4Y2Y5MDU=.jpg?crop=3:2,smart&trim=&width=973&auto=webp&quality=75
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+image: https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZjMWM5NjgzLTE4YjQtNDBiMy05MzVkLTFkNTUzMTc1NjJkZDozNTgzNzZmNy0yZmVmLTRlNGItYjIyZi0wNzA5MTM4Y2Y5MDU=.jpg?crop=3:2,smart&trim=&width=973&auto=webp&quality=75
 ---
 
 # Man arrested after shop worker threatened with knife during robbery at Harrogate store
@@ -27,7 +27,6 @@ According to police, a member of staff was working in the shop when a man wearin
 The suspect is then reported to have taken cash from the till before leaving the premises.
 
 ![The police have arrested a 51-year-old man on suspicion of robbery after a convenience store worker was allegedly threatened with a knife during an armed raid at a Morrisons Daily store in Harrogate](https://www.harrogateadvertiser.co.uk/webimg/b25lY21zOjZjMWM5NjgzLTE4YjQtNDBiMy05MzVkLTFkNTUzMTc1NjJkZDozNTgzNzZmNy0yZmVmLTRlNGItYjIyZi0wNzA5MTM4Y2Y5MDU=.jpg?crop=3:2,smart&trim=&width=640&quality=65)
-
 
 
 The shop worker was left badly shaken by the ordeal but was not physically injured.

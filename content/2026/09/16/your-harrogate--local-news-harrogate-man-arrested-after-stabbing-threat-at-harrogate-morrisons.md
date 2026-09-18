@@ -3,18 +3,18 @@ title: Man arrested after stabbing threat at Harrogate Morrisons
 source_url: https://www.yourharrogate.co.uk/local-news/harrogate/man-arrested-after-stabbing-threat-at-harrogate-morrisons/
 source_site: Your Harrogate
 source_slug: your-harrogate
-scraped_at: '2026-09-16T13:28:08Z'
+scraped_at: '2026-09-18T22:58:07Z'
 published: '2026-09-16T00:00:00Z'
 description: A man has been arrested following a robbery at Morrisons Daily on King
   Edward’s Drive in Harrogate.
-image: https://mmo.aiircdn.com/409/678e046af38c1.jpg
 categories:
 - Local
 - Harrogate
 - Business & Entrepreneurship
+image: https://mmo.aiircdn.com/409/678e046af38c1.jpg
 ---
 
-![](https://mmo.aiircdn.com/409/678e046af38c1.jpg) 
+![](https://mmo.aiircdn.com/409/678e046af38c1.jpg)
 
 A man has been arrested following a robbery at Morrisons Daily on King Edward’s Drive in Harrogate.
 
