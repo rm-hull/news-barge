@@ -14,13 +14,13 @@
 sites:
   - name: The Guardian
     slug: guardian
-    categories: [World, UK, News]
+    categories: [UK, News & Politics]
     feed: https://www.theguardian.com/world/rss
     limit: 50
 
   - name: BBC News
     slug: bbc
-    categories: [World, UK, News]
+    categories: [UK, News & Politics]
     feed: https://feeds.bbci.co.uk/news/rss.xml
     limit: 50
 
@@ -76,20 +76,20 @@ sites:
 
   - name: Tom's Hardware
     slug: toms-hardware
-    categories: [Tech, Hardware]
+    categories: [Technology & Software, Hardware]
     listing_url: https://www.tomshardware.com/uk/news
     listing_class: "listingResult"
     limit: 100
 
   - name: TechRadar UK
     slug: techradar-uk
-    categories: [Tech]
+    categories: [Technology & Software]
     feed: https://www.techradar.com/uk/feeds.xml
     limit: 100
 
   - name: Euronews
     slug: euronews
-    categories: [World, Europe, News]
+    categories: [Europe, News & Politics]
     listing_url: https://www.euronews.com/news
     listing_link_pattern: "\\d{4}/\\d{2}/\\d{2}"
     resolve_relative_to_root: true
@@ -104,7 +104,7 @@ sites:
 
   - name: Wired
     slug: wired
-    categories: [Tech, Science]
+    categories: [Technology & Software, Science]
     feed: https://www.wired.com/feed/rss
     limit: 100
 
@@ -113,7 +113,7 @@ sites:
     feed: https://www.newscientist.com/feed/home/
     force_playwright: true
     limit: 50
-    categories: [Science, Tech]
+    categories: [Science, Technology & Software]
 
   - name: The Independent
     slug: independent
@@ -121,7 +121,7 @@ sites:
     # bulletins. The News section feed keeps it to straight news coverage.
     feed: https://www.independent.co.uk/news/rss
     limit: 100
-    categories: [News, UK, World]
+    categories: [News & Politics, UK]
 
   - name: North Yorkshire Council
     slug: north-yorkshire-council
@@ -148,26 +148,26 @@ sites:
 
   - name: The Northern Echo
     slug: northern-echo
-    categories: [Local, UK, News]
+    categories: [Local, UK, News & Politics]
     feed: https://www.thenorthernecho.co.uk/news/rss/
     limit: 50
 
   - name: Telegraph & Argus
     slug: telegraph-and-argus
-    categories: [Local, Bradford, News]
+    categories: [Local, Bradford, News & Politics]
     feed: https://www.thetelegraphandargus.co.uk/news/rss/
     limit: 50
 
   - name: Der Spiegel International
     slug: spiegel-international
     feed: https://www.spiegel.de/international/index.rss
-    categories: [Berlin, Germany, News]
+    categories: [Berlin, Germany, News & Politics]
     limit: 50
 
   - name: Berlin News
     slug: berlin-news
     feed: https://www.berlin.de/en/news/index.rss
-    categories: [Berlin, Germany, News]
+    categories: [Berlin, Germany, News & Politics]
     limit: 50
 
   - name: The Berliner
@@ -177,13 +177,13 @@ sites:
     listing_link_pattern: "/english-news-berlin/"
     remove_suffix: "- The Berliner"
     limit: 50
-    categories: [Berlin, Germany, News]
+    categories: [Berlin, Germany, News & Politics]
 
 
   - name: The Local Germany
     slug: the-local-germany
     feed: https://feeds.thelocal.com/rss/builder/de
-    categories: [Berlin, Germany, News]
+    categories: [Berlin, Germany, News & Politics]
     limit: 50
 
 
