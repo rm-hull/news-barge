@@ -1,0 +1,46 @@
+---
+title: 'World Series of Darts Finals 2026: Luke Littler survives scare to progress'
+source_url: https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss
+source_site: BBC News
+source_slug: bbc
+scraped_at: '2026-09-18T22:08:28Z'
+published: '2026-09-18T00:00:00Z'
+description: World number one Luke Littler survives a first-round scare to overcome
+  Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.
+categories:
+- UK
+- News & Politics
+- Sports
+- Video Gaming
+image: https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg
+---
+
+![Luke Littler](https://ichef.bbci.co.uk/ace/standard/997/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg)
+
+Luke Littler is the back-to-back world champion
+
+**World number one Luke Littler survived a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.**
+
+The 19-year-old, seeking his second World Series Finals victory after 2024, recently whitewashed the Dutchman, who is a former UK Open champion, 6-0 on his way to winning the Czech Darts Open.
+
+There would be no repeat here as Noppert won three straight legs to take a 3-1 lead.
+
+Having levelled the match at 3-3, Littler turned to the crowd and tapped his ears in response to boos.
+
+Despite the teenager then busting his score, Noppert failed to take advantage and retake the lead.
+
+With the score 4-4, Littler let out a passionate roar towards the crowd after a wonderful 95 checkout, with Noppert left on 46. The finish brought him within one leg of victory, which he comfortably secured.
+
+Littler will now face fellow Englishman Nathan Aspinall, who defeated Raymond Smith 6-4.
+
+Wales' Gerwyn Price beat Brody Klinge 6-4 to progress, but was made to work after taking control at 5-0.
+
+Klinge avoided a whitewash and then grew in confidence, turning what once looked like a thrashing into a one-leg deficit.
+
+However, Price comfortably closed out the match and will now face Jim Long.
+
+Motomu Sakai beat England's Callan Rydz 6-5 to progress, while James Wade overcame Damon Heta 6-5.
+
+Wales' Jonny Clayton will face Sakai after he beat Maik Kuivenhoven 6-3.
+
+Defending champion Michael van Gerwen fell to a 6-5 defeat by Daryl Gurney on Thursday, while world number two Luke Humphries will face Dirk van Duijvenbode after emerging victorious against Wattimena.
