@@ -1,0 +1,33 @@
+---
+title: Trump signs bill imposing sanctions on Russia and giving him more power to
+  levy tariffs
+source_url: https://www.theguardian.com/us-news/2026/sep/18/trump-signs-russia-sanctions-bill
+source_site: The Guardian
+source_slug: guardian
+scraped_at: '2026-09-18T22:31:48Z'
+published: '2026-09-18T00:00:00Z'
+description: Lindsey O Graham Sanctioning Russia and Iran Act signed into law tow
+  days after House passed it in bipartisan vote
+categories:
+- UK
+- News & Politics
+image: https://i.guim.co.uk/img/media/f4659aacf45111fd4be47b0561ca040af4784bea/300_0_3000_2401/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2252458a3677e09646656bc20cdece6
+---
+
+Donald Trump on Friday signed legislation enabling sweeping sanctions on Russia aimed at pressing it into ending its war with Ukraine, and also giving him the power to impose additional tariffs on countries breaking the embargo.
+
+The US president signed the Lindsey O Graham Sanctioning Russia and Iran Act into law two days after it passed the House of Representatives in a bipartisan 262-159 vote, amid concerns the legislation gives him too much power.
+
+The Trump administration has previously been doubtful about imposing additional sanctions on Moscow but changed its stance after repeated attempts to end its four and a half year war against Ukraine have stalled.
+
+The bill named after the hawkish Republican senator, Lindsey Graham, who died in July, is aimed at depleting Russia’s ability to continue funding the war by targeting its natural gas and oil revenues, as well as countries that continue to buy Russian energy.
+
+The legislation imposes new sanctions on Russian political and military officials and foreign networks helping to supply Russia’s war machine and evade existing sanctions.
+
+In addition, it targets Russia’s fleet of “shadow tankers”, which have allowed the country to continue to ship crude around the world despite existing sanctions on its energy exports.
+
+But it also gives Trump wide leeway over its implementation, including which countries could face tariffs, and which tariff rates could be imposed. It also gives the president sweeping discretion over whether sanctions provisions can be waived against certain countries.
+
+Controversially, it allows Trump to impose tariffs of up to 100% on buyers of Russian energy, including China, and on other countries that help Moscow to evade sanctions.
+
+The bill’s broad provisions were criticized by many Democrats, who complained that it gave Trump excessive authority to resort to tariffs, which he has already imposed on multiple countries despite a US supreme court ruling prohibiting him from doing so under the 1977 Emergency Economic Powers Act.
