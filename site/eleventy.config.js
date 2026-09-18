@@ -110,7 +110,9 @@ export default function (eleventyConfig) {
     const grouped = {};
     for (const art of all) {
       const slug = art.data.source_slug;
-      const categories = siteMap.get(slug) || ['Uncategorized'];
+      const categories = art.data.categories?.length
+        ? art.data.categories
+        : siteMap.get(slug) || ['Uncategorized'];
 
       for (const cat of categories) {
         grouped[cat] = grouped[cat] || [];
@@ -168,7 +170,9 @@ export default function (eleventyConfig) {
     const grouped = {};
     for (const art of all) {
       const slug = art.data.source_slug;
-      const categories = siteMap.get(slug) || ['Uncategorized'];
+      const categories = art.data.categories?.length
+        ? art.data.categories
+        : siteMap.get(slug) || ['Uncategorized'];
 
       for (const cat of categories) {
         grouped[cat] = grouped[cat] || [];

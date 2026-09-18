@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import random
+from threading import Lock
 from tqdm.asyncio import tqdm
 from datetime import datetime, timezone
 from pathlib import Path
@@ -21,6 +22,7 @@ from urllib.parse import urlparse, urljoin, urlunparse, urlencode, parse_qsl
 
 import aiohttp
 import feedparser
+from taxotag import Gist
 import trafilatura
 from lxml import html as lxml_html
 import yaml
@@ -45,6 +47,9 @@ FETCH_HEADERS = {
 
 DEFAULT_CONCURRENCY = 10
 DEFAULT_BROWSER_CONCURRENCY = 2
+TAXOTAG_TOP_K = 3
+taxotag = Gist()
+taxotag_lock = Lock()
 
 
 # ---------------------------------------------------------------------------
@@ -199,6 +204,15 @@ def linkify_text(text: str) -> str:
         return match.group(0)
 
     return re.sub(pattern, replace, text)
+
+
+def classify_article(title: str, description: str) -> list[str]:
+    text = "\n\n".join(part.strip() for part in (title, description) if part.strip())
+    if not text:
+        return []
+    with taxotag_lock:
+        topics = taxotag.classify(text, top_k=TAXOTAG_TOP_K)
+    return [topic.name for topic in topics]
 
 
 def months_ago(months: int = 1) -> datetime:
@@ -517,6 +531,12 @@ async def process_article(
         if "|" in title:
             title = title.split("|")[0].strip()
     description = (meta.description if meta else None) or ""
+    generated_categories = await asyncio.to_thread(
+        classify_article, title, description
+    )
+    categories = list(
+        dict.fromkeys((site.get("categories") or []) + generated_categories)
+    )
 
     frontmatter = {
         "title": title,
@@ -526,6 +546,7 @@ async def process_article(
         "scraped_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "published": file_date.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "description": description,
+        "categories": categories,
         "image": image,
     }
 
