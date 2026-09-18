@@ -22,6 +22,7 @@ from urllib.parse import urlparse, urljoin, urlunparse, urlencode, parse_qsl
 
 import aiohttp
 import feedparser
+from markdownify import markdownify as to_markdown
 from taxotag import Gist
 import trafilatura
 from lxml import html as lxml_html
@@ -487,11 +488,11 @@ async def process_article(
     if not html:
         return False
 
-    md_body = await asyncio.to_thread(
+    extracted_html = await asyncio.to_thread(
         trafilatura.extract,
         html,
         url=url,
-        output_format="markdown",
+        output_format="html",
         include_comments=False,
         include_images=True,
         include_tables=True,
@@ -499,10 +500,11 @@ async def process_article(
         config=TRAFILATURA_CONFIG,
     )
 
-    if not md_body:
+    if not extracted_html:
         report_error(f"extraction returned nothing for {url}", logger=logger)
         return False
 
+    md_body = to_markdown(extracted_html, heading_style="ATX")
     md_body = clean_markdown_formatting(md_body)
     md_body = linkify_text(md_body)
     meta = await asyncio.to_thread(trafilatura.extract_metadata, html, default_url=url)
