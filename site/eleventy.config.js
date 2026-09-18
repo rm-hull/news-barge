@@ -14,6 +14,14 @@ function byDescendingPublishedDate(a, b) {
   return new Date(b.data.scraped_at || b.date) - new Date(a.data.scraped_at || a.date);
 }
 
+function categoriesForArticle(article, siteMap) {
+  const articleCategories = article.data.categories;
+  if (Array.isArray(articleCategories) && articleCategories.length > 0) {
+    return articleCategories;
+  }
+  return siteMap.get(article.data.source_slug) || ['Uncategorized'];
+}
+
 export default function (eleventyConfig) {
   // ── Template Formats ─────────────────────────────────────────────────────
   // Process markdown as template (for article metadata)
@@ -109,10 +117,7 @@ export default function (eleventyConfig) {
 
     const grouped = {};
     for (const art of all) {
-      const slug = art.data.source_slug;
-      const categories = art.data.categories?.length
-        ? art.data.categories
-        : siteMap.get(slug) || ['Uncategorized'];
+      const categories = categoriesForArticle(art, siteMap);
 
       for (const cat of categories) {
         grouped[cat] = grouped[cat] || [];
@@ -169,10 +174,7 @@ export default function (eleventyConfig) {
 
     const grouped = {};
     for (const art of all) {
-      const slug = art.data.source_slug;
-      const categories = art.data.categories?.length
-        ? art.data.categories
-        : siteMap.get(slug) || ['Uncategorized'];
+      const categories = categoriesForArticle(art, siteMap);
 
       for (const cat of categories) {
         grouped[cat] = grouped[cat] || [];
@@ -227,7 +229,7 @@ export default function (eleventyConfig) {
         return data.title.split(' | ')[0].trim();
       }
       return data.title;
-    }
+    },
   });
 
   // Add last updated time
