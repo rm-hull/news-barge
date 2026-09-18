@@ -56,6 +56,12 @@ jobs:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ hashFiles('scraper/uv.lock') }}
 
+      - name: Cache taxotag model
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/huggingface/hub
+          key: ${{ runner.os }}-taxotag-gist-v2.2.0-${{ hashFiles('scraper/uv.lock') }}
+
       - name: Install dependencies
         working-directory: ./scraper
         run: |
